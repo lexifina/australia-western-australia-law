@@ -1,5 +1,6 @@
-## Schedule 1
-[Section 3]
+## Schedule 1 — Ord River Hydro Energy Project Agreement
+[s. 3]
+[Heading amended: No. 19 of 2010 s. 4.]
 ORD RIVER HYDRO ENERGY PROJECT AGREEMENT
 INDEX
 Page

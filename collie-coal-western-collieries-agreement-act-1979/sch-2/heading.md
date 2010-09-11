@@ -1,4 +1,6 @@
-## Schedule 2
+## Schedule 2 — Supplementary Agreement
+[s. 2]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 7th day of October 1985 BETWEEN THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and WESTERN COLLIERIES LTD a company incorporated under the provisions of the Statutes of Western Australia and having its registered office at 29th Floor, 44 St. George’s Terrace, Perth in the said State (hereinafter called “the Company” in which term shall be included the Company and its successors and permitted assigns and appointees) of the other part.
 WHEREAS:
 (a)the parties hereto are the parties to the agreement dated the 17th day of January, 1979 which was ratified by and is scheduled to the Collie Coal (Western Collieries) Agreement Act 1979 (hereinafter called “the principal Agreement”); and
@@ -176,4 +178,4 @@ Director: T. S. IVANKOVICH.
 Director A. FOGARTY.
 Secretary
 DAVID I. CRAWFORD.
-[Schedule 2 inserted by No. 76 of 1985 s. 6.]
+[Schedule 2 inserted: No. 76 of 1985 s. 6.]

@@ -1,5 +1,6 @@
-## Schedule 1
-(Section 3)
+## Schedule 1 — Pigment Factory (Australind) Agreement
+[s. 3]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 18th day of November 1986 BETWEEN THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and
 SCM CHEMICALS LTD. (formerly called Laporte Australia Limited) a company duly incorporated in the State of Western Australia and having its registered office at Old Coast Road, Australind (hereinafter called “the Company”) of the other part.
 WHEREAS:
@@ -213,4 +214,4 @@ D. PARKER MINISTER FOR MINERALS AND ENERGY
 THE COMMON SEAL OF SCM CHEMICALS LTD. was hereunto affixed by authority of the Board of Directors in the presence of:[C.S.]
 Director: J. LEACH
 Secretary: H. MACIEJEWSKI
-[Schedule 1 amended by No. 27 of 1987 s. 6.]
+[Schedule 1 amended: No. 27 of 1987 s. 6.]

@@ -1,5 +1,6 @@
-## Schedule 2
-(Section 3)
+## Schedule 2 — Variation Agreement
+[s. 3]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 17 day of June 1987 BETWEEN THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and
 SCM CHEMICALS LTD. a company duly incorporated in the State of Western Australia and having its registered office at Old Coast Road, Australind (hereinafter called “the Company”) of the other part.
 WHEREAS:

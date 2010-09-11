@@ -1,2 +1,3 @@
-## Schedule 1
-[Section 5(5)]
+## Schedule 1 — Provisions applicable to the members of the Authority
+[s. 5(5)]
+[Heading amended by No. 19 of 2010 s. 4.]

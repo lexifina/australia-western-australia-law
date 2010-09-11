@@ -1,6 +1,6 @@
-## Schedule 1
+## Schedule 1 — Entities which are not organisations
 [s. 3 and 108]
-## Entities which are not organisations
+[Heading amended by No. 19 of 2010 s. 4.]
 Column 1 Item | Column 2 Entity
 1 | The Governor’s Establishment referred to in the Governor’s Establishment Act 1992
 2 | A department of the staff of Parliament referred to in the Parliamentary and Electorate Staff (Employment) Act 1992

@@ -1,5 +1,6 @@
-## Schedule 1
-[Section 3]
+## Schedule 1 — Silicon (Kemerton) Agreement
+[s. 3]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 12th day of November 1987 BETWEEN THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called the State) of the first part BARRACK SILICON PTY. LTD. a company incorporated in the State of Western Australia and having its registered office at 614 Newcastle Street, Leederville (hereinafter called the Company which term shall include its successors and permitted assigns) of the second part and BARRACK MINES LIMITED a company incorporated in the State of Western Australia and having its registered office at 614 Newcastle Street, Leederville (hereinafter called “the Guarantor”) of the third part.
 WHEREAS:
 (a)the company is desirous of establishing and operating a silicon plant for the manufacture of silicon at Picton in the said State and intends to provide such facilities and services as may be necessary for its proposed manufacturing operation under this agreement; and
@@ -207,4 +208,4 @@ IN WITNESS WHEREOF this Agreement has been executed by or on behalf of the parti
 SIGNED by the said THE HONOURABLE BRIAN THOMAS BURKE, M.L.A. in the presence of: D. PARKER MINISTER FOR MINERALS AND ENERGY |  | BRIAN BURKE
 THE COMMON SEAL of BARRACK SILICON PTY. LTD. was hereunto affixed by authority of the Directors in the presence of: Director: A. D. PAICE, Secretary: DONNA COX. |  | [C.S.]
 THE COMMON SEAL of BARRACK MINES LIMITED was hereunto affixed by authority of the Directors in the presence of: Director: A. D. PAICE, Secretary: DONNA COX. |  | [C.S.]
-[Schedule 1 amended by No. 3 of 1988 s. 7.]
+[Schedule 1 amended: No. 3 of 1988 s. 7.]

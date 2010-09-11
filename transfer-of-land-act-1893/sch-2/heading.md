@@ -1,5 +1,6 @@
-## Second Schedule
-[Section 20]
+## Second Schedule — Application to bring land under Act
+[s. 20]
+[Heading inserted by No. 19 of 2010 s. 38(5).]
 Western Australia
 Application to bring Land under the operation of the Transfer of Land Act 1893
 To the Registrar of Titles

@@ -59,11 +59,11 @@ Medical Practitioners Act 2008 Sch. 3 cl. 31 | 22 of 2008 | 27 May 2008 | 1 Dec 
 Reprint 6: The Juries Act 1957 as at 5 Jun 2009 (includes amendments listed above)
 Police Amendment Act 2009 s. 20 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 20, 43(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
-Standardisation of Formatting Act 2010 s. 20 43(3) and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 30 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -79,54 +79,6 @@ On the date as at which this compilation was prepared, the Machinery of Governme
 (i) Officer or employee of the department of the Public Service principally assisting in the administration of this Act, other than an officer in the Public Trust Office;
 ”.
 The amendment to the Second Schedule, Pt. I it. (2)(i) in the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) would not be included because the item it seeks to amend was repealed by the Prisons and Sentencing Legislation Amendment Act 2006 s. 66.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 20, 43(3) and 51 had not come into operation. They read as follows:
-20.Juries Act 1957 amended
-(1) This section amends the Juries Act 1957.
-(2) In the Second Schedule:
-(a) delete “Second Schedule”;
-(b) delete “[Section 5]”;
-(c) delete “Part I”;
-(d) delete “Persons not eligible to serve as jurors”,
-and insert:
-Second Schedule — Persons ineligible or entitled to be excused
-[s. 5]
-Part I — Persons not eligible to serve as jurors
-(3) In the Second Schedule:
-(a) delete “Part II”;
-(b) delete “Persons who are excused as of right from serving as jurors if they claim to be excused by virtue of that fact, namely —”,
-and insert:
-Part II — Persons entitled to be excused from serving as jurors
-(4) In the Third Schedule:
-(a) delete “Third Schedule”;
-(b) delete “[Sections 27, 32]”;
-(c) delete “Grounds on which a person summoned to attend as a juror may be excused from such attendance by the summoning officer or the court”,
-and insert:
-Third Schedule — Grounds for being excused
-[s. 27 and 32]
-The grounds on which a person summoned to attend as a juror may be excused from such attendance by the summoning officer or the court are —
-(5) In the Fourth Schedule:
-(a) delete “Fourth Schedule”;
-(b) delete “[Sections 32FA, 34B]”;
-(c) delete “Matters to be disclosed by persons appearing in answer to the summons to serve as jurors to the jury pool supervisor or to the summoning officer as the case requires”,
-and insert:
-Fourth Schedule — Matters to be disclosed by persons summonsed
-[s. 32AF and 34B]
-The matters to be disclosed by persons appearing in answer to the summons to serve as jurors to the jury pool supervisor or to the summoning officer as the case requires are —
-43.Part heading inserted before section 1
-(1) This section amends the Acts listed in Tables 1 and 2.
-(3) In the Acts listed in Table 2:
-(a) before section 1 insert:
-Part I — Preliminary
-(b) before the section listed in Table 2 for that Act delete the heading to Part I.
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-34.Juries Act 1957
-s. 25(1) | (1)If it appears to a judge that a summoning officer to whom, issue, has any direct or indirect interest in the result of the trial other than public, he may | (1)If it appears to a judge that a summoning officer to whom, issue, has any direct or indirect interest in the result of the trial, other than public, he may
-s. 29(1) | subsection (2). | this section.
-s. 29(2) | (2)(a)At a time (b)The numbers (c)Persons (d)The (e)Each (f)Where (g)The (h)If for | (2A)At a time (2B)The numbers (2C)Persons (2D)The (2E)Each (2F)Where (2G)The (2H)If for
-s. 29A(1)(b) | section 29(2)(a), (b), (d), (f), (g), (h) and (3). | section 29(2A), (2B), (2D), (2F), (2G), (2H) and (3).
-s. 29A(2) | or 29(2), the section 29(2)(a), | or 29(2A) to (2H), the section 29(2A),
 On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 30 had not come into operation. It reads as follows:
 Division 30 — Juries Act 1957 amended
 101.Act amended

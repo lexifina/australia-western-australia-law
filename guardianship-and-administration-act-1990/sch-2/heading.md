@@ -1,6 +1,8 @@
-## Schedule 2
-[sections 71(3) and 72(1)]
-## Part A
+## Schedule 2 — Functions for administration of estates
+[s. 71(3) and 72(1)]
+[Heading inserted by No. 19 of 2010 s. 18(4).]
+## Part A — Administrator
+[Heading inserted by No. 19 of 2010 s. 18(4).]
 1.To take possession of all or any of the property of the represented person.
 2.To demand, receive and recover income of, and moneys due or that become due to, and any compensation or damages for injury to the estate or the person of, the represented person.
 3.To pay any debts of, and settle or compromise, any demand made by, or against, the represented person or against the estate and discharge any encumbrance on the estate.
@@ -25,7 +27,8 @@
 22.To expend moneys of the represented person in the purchase of a home for that person, or for the wife, husband, de facto partner or children of that person.
 23.To mortgage, charge (with or without power of sale and on such terms as the State Administrative Tribunal thinks fit), deal with or dispose of, as the Tribunal thinks most expedient, any property of the represented person, for the purpose of raising, securing or repaying, with or without interest, money that is to be, or that has been, applied to or for the carrying into effect of all or any of the things authorised by the Tribunal.
 [Part A amended by No. 3 of 2002 s. 70; No. 55 of 2004 s. 466.]
-## Part B
+## Part B — State Administrative Tribunal
+[Heading inserted by No. 19 of 2010 s. 18(5).]
 The State Administrative Tribunal may —
 (a) direct that any property taken in exchange, and any renewed lease accepted, on behalf of the represented person shall be subject to the same trusts, charges, encumbrances, dispositions, devises and conditions as the property given in exchange or the surrendered lease was, or would, but for the exchange or surrender, have been subject;
 (b) direct that any fine, premium or other payment made on the renewal of a lease be paid out of the estate or be charged with interest on the leasehold property;

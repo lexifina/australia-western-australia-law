@@ -1,5 +1,6 @@
-## Schedule
-[section 6]
+## Schedule — Acts custody of goods under which is not subject to this Act
+[s. 6]
+[Heading amended by No. 19 of 2010 s. 4.]
 Title of Act.
 Criminal and Found Property Disposal Act 2006.
 Criminal Investigation Act 2006.

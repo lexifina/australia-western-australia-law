@@ -19,19 +19,7 @@ Reprint 2: The Fisheries Adjustment Schemes Act 1987 as at 6 April 2007 (include
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 61 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 37 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Fisheries Adjustment Schemes Amendment Act 2009 | 38 of 2009 | 3 Dec 2009 | s. 1 and 2: 3 Dec 2009 (see s. 2(a)); Act other than s. 1 and 2: 4 Dec 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 8 Div. 5 is a transitional provision that is of no further effect.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Act | Identifier | Title | Shoulder note
-Fisheries Adjustment Schemes Act 1987 | Schedule 1

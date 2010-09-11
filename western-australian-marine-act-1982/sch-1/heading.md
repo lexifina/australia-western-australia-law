@@ -1,5 +1,6 @@
-## Schedule 1
-[Section 76]
+## Schedule 1 — Container Convention
+[s. 76]
+[Heading amended by No. 19 of 2010 s. 4.]
 INTERNATIONAL CONVENTION FOR SAFE CONTAINERS
 ARTICLE I
 General Obligation under the present Convention

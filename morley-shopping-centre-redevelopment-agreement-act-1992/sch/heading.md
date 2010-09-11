@@ -1,5 +1,6 @@
-## Schedule
-MORLEY SHOPPING CENTRE REDEVELOPMENT AGREEMENT
+## Schedule — Morley Shopping Centre Redevelopment Agreement
+[s. 3(1)]
+[Heading amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 19th day of November 1992
 BETWEEN
 THE STATE OF WESTERN AUSTRALIA (“the State”) and MORLEY SHOPPING CENTRE PTY LIMITED (A.C.N. 002 154 458) of 800 Toorak Road, Tooronga, Melbourne, Victoria (“MSC”) and THE COLONIAL MUTUAL LIFE ASSURANCE SOCIETY LIMITED (A.C.N. 004 405 556) of 330 Collins Street, Melbourne, Victoria (“CML”).

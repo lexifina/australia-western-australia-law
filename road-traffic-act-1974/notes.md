@@ -137,14 +137,14 @@ Reprint 10: The Road Traffic Act 1974 as at 3 Oct 2008 (includes amendments list
 Road Traffic Amendment (Hoons) Act 2009 Pt. 2 | 23 of 2009 | 6 Oct 2009 | 1 Jan 2010 (see s. 2(1)(b) and (2) and Gazette 31 Dec 2009 p. 5421)
 Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 2 | 39 of 2009 | 3 Dec 2009 | 1 Jan 2010 (see s. 2(b))
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 12 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Road Traffic Amendment Act 2010 | 20 of 2010 | 7 Jul 2010 | s. 1 and 2: 7 Jul 2010 (see s. 2(a)) Act other than s. 1 and 2: 1 Sep 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
- | Short title | Number and year | Assent | Commencement
- | Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 (s. 27-30) | 39 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(g))
-Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
- | Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 45 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Short title | Number and year | Assent | Commencement
+Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 (s. 27-30) | 39 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(g))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 45 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Nurses and Midwives Act 2006.
 Repealed by the Interpretation Act 1984.
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
@@ -333,14 +333,6 @@ dentist means a person registered under the Health Practitioner Regulation Natio
 medical practitioner means a person who is registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
 nurse practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) whose name is entered on the Register of Nurses kept under that Law as being qualified to practise as a nurse practitioner;
 registered nurse means a person who is registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing and midwifery profession whose name is entered on Division 1 of the Register of Nurses kept under that Law as a registered nurse;
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-51.Road Traffic Act 1974 (consequential amendments)
-s. 15(3)(c) | section 4(3)(a) | section 4(3A)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

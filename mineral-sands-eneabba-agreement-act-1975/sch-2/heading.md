@@ -1,4 +1,6 @@
-## Schedule 2
+## Schedule 2 — Variation Agreement
+[s. 2]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 7th day of NOVEMBER 1988 BETWEEN THE HONOURABLE PETER M’CALLUM DOWDING, LL.B., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and ALLIED ENEABBA LIMITED a company incorporated in Western Australia and having its registered office situate at 45 Stirling Highway, Nedlands (hereafter with its successors permitted assigns and appointees called “the Company”) of the other part.
 WHEREAS:
 (a)the State and the Company are the parties to the agreement dated the 27th day of June 1975 which was ratified by the Mineral Sands (Allied Eneabba) Agreement Act 1975 and is hereinafter referred to as “the principal Agreement”; and
@@ -268,4 +270,4 @@ PROVIDED THAT this Clause shall not apply to any instrument or other document ex
 IN WITNESS WHEREOF this Agreement has been executed by or on behalf of the parties hereto the day and year first hereinbefore written.
 SIGNED by the said THE HONOURABLE PETER M’CALLUM DOWDING, LL.B., M.L.A. in the presence of — D. PARKER, MINISTER FOR ECONOMIC DEVELOPMENT AND TRADE. |  | PETER DOWDING
 THE COMMON SEAL OF ALLIED ENEABBA LIMITED was hereunto affixed by authority of the Directors in the presence of — DIRECTOR, CAMPBELL ANDERSON. SECRETARY, W. J. C. DAWES. |  | [C.S.]
-[Schedule 2 inserted by No. 61 of 1988 s. 9.]
+[Schedule 2 inserted: No. 61 of 1988 s. 9.]

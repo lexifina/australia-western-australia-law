@@ -1,4 +1,6 @@
-## Third Schedule
+## Third Schedule — Variation agreement
+[s. 2]
+[Heading amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT under seal is made the 24th day of October 1986 BETWEEN THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the Government of the said State and its instrumentalities (hereinafter called “the State”) of the first part THE HONOURABLE GAVAN JOHN TROY, B. Bus, A.F.A.I.M., J.P., M.L.A. the Minister in the Government of the said State for the time being responsible for the administration of the Fremantle Port Authority Act 1902 of the second part FREMANTLE PORT AUTHORITY a body corporate constituted by the Fremantle Port Authority Act 1902 of the third part and COCKBURN CEMENT LIMITED a company duly incorporated in Western Australia and having its registered office at 191 St. George’s Terrace, Perth (hereinafter called “the Company” which term shall include its successors and permitted assigns) of the fourth part.
 WHEREAS the parties hereto desire to vary the Agreement defined in section 2 of the Cement Works (Cockburn Cement Limited) Agreement Act 1971 (which Agreement is hereinafter referred to as “the Principal Agreement”).
 NOW THIS AGREEMENT WITNESSETH:

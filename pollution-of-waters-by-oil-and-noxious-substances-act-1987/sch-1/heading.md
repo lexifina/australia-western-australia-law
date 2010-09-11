@@ -1,5 +1,6 @@
-## Schedule 1
-Section 3
+## Schedule 1 — 1973 Convention
+[s. 3]
+[Heading amended by No. 19 of 2010 s. 4.]
 INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973
 THE PARTIES TO THE CONVENTION,
 BEING CONSCIOUS of the need to preserve the human environment in general and the marine environment in particular,

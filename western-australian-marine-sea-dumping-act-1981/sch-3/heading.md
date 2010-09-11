@@ -1,5 +1,6 @@
 ## Schedule 3
-(Section 2)
+[s. 2]
+[Heading amended by No. 19 of 2010 s. 4.]
 Resolution adopted on 24 September 1980
 THE FIFTH CONSULTATIVE MEETING,
 Recalling Article I of the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter, which provides that Contracting Parties shall individually and collectively promote the effective control of all sources of pollution of the marine environment,

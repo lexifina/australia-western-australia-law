@@ -1,5 +1,6 @@
-## Schedule 2
-[section 3]
+## Schedule 2 — First Variation Agreement
+[s. 3]
+[Heading amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 31st day of March 1994
 B E T W E E N
 THE HONOURABLE RICHARD FAIRFAX COURT B.Com., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part AND BHP MINERALS PTY. LTD. ACN 008 694 782 a company incorporated in the State of Western Australia and having its registered office at Level 18, 200 St George’s Terrace, Perth, CI MINERALS AUSTRALIA PTY. LTD. ACN 009 256 259 a company incorporated in the State of Western Australia and having its registered office at 22nd Floor, Forrest Centre, 221 St George’s Terrace, Perth and MITSUI IRON ORE CORPORATION PTY. LTD. ACN 050 157 456 a company incorporated in the State of Western Australia and having its registered office at 24th Floor, Forrest Centre, 221 St George’s Terrace, Perth (hereinafter called “the Joint Venturers”) of the other part.

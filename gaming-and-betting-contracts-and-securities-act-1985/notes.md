@@ -7,16 +7,16 @@ Lotteries Commission Amendment Act 1998 s. 23 | 26 of 1998 | 30 Jun 1998 | 22 Ju
 Racing and Gambling Legislation Amendment and Repeal Act 2003 Pt. 8 | 35 of 2003 | 26 Jun 2003 | 30 Jan 2004 (see s. 2 and Gazette 30 Jan 2004 p. 397)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 57 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 1: The Gaming and Betting (Contracts and Securities) Act 1985 as at 27 Feb 2004 (includes amendments listed above) (Correction to reprint in Gazette 6 Apr 2004 p. 1134)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Act | Identifier | Title | Shoulder note
-Gaming and Betting (Contracts and Securities) Act 1985 | Schedule | Gaming and betting Acts
+ | Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+lawful bet3(2)
+lawful betting3(2)
+lawful gaming3(2)
+prescribed bet3(2)
+prescribed betting3(2)
+prescribed gaming3(2)
+prescribed provision3(2)
+unlawful betting3(2)
+unlawful gaming3(2)

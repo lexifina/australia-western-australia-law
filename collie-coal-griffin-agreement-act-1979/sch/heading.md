@@ -1,5 +1,6 @@
-## Schedule
-[S. 2]
+## Schedule — Collie Coal (Griffin) Agreement
+[s. 2]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT made this fifth day of November, 1979, BETWEEN THE HONOURABLE SIR CHARLES WALTER MICHAEL COURT, K.C.M.G., O.B.E., M.L.A. Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and THE GRIFFIN COAL MINING COMPANY LIMITED a company incorporated under the provisions of the Statutes of Western Australia and having its registered office at 24 King’s Park Road, West Perth, in the said State (hereinafter called “the Company” in which term shall be included the Company and its successors and permitted assigns and appointees) of the other part.
 WHEREAS:
 (a)the Company is engaged in the mining of coal at Collie and desires to expand its activities and increase production and has applied for additional coal mining leases;

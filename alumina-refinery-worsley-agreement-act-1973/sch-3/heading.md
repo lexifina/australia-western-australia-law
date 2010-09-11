@@ -1,4 +1,6 @@
-## Third Schedule
+## Third Schedule — Second Supplementary Agreement
+[s. 6A]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT made the 21st day of October, 1982 BETWEEN THE HONOURABLE RAYMOND JAMES O’CONNOR, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the Government of the said State and its instrumentalities (hereinafter called “the State”) of the one part and BHP MINERALS LIMITED the name whereof was formerly Dampier Mining Company Limited a company incorporated under the Companies Act 1961 of Western Australia and having its registered office at 37 St. George’s Terrace, Perth in the said State, REYNOLDS AUSTRALIA ALUMINA, LTD. a company incorporated under the laws in force in the State of Delaware in the United States of America and having its registered office in the State of Western Australia at 77 St. George’s Terrace, Perth, THE SHELL COMPANY OF AUSTRALIA LIMITED a company incorporated in the State of Victoria and having its principal office in the State of Western Australia at 200 St. George’s Terrace, Perth and KOBE ALUMINA ASSOCIATES (AUSTRALIA) PTY. LIMITED a company incorporated in the State of Western Australia and having its registered office at 5 Mill Street, Perth (hereinafter collectively called “the Joint Venturers” in which term shall be included their respective successors and permitted assigns and appointees) of the other part.
 WHEREAS:
 A.The State and the Joint Venturers (pursuant to a certain deed of assignment dated the 7th day of February, 1980) are now the parties to the agreement dated the 22nd day of August, 1974 (the execution of which by the State was authorised pursuant to section 3 of the Alumina Refinery (Worsley) Agreement Act 1973) as varied by agreement dated the 18th day of April, 1978 approved and ratified by the Alumina Refinery (Worsley) Agreement Act Amendment Act 1978 and as further varied by agreement dated the 28th day of May, 1981 (which agreement as so varied is hereinafter referred to as “the principal agreement”).
@@ -139,4 +141,4 @@ AUTHORISED SIGNATORY PHILIP HISLOP.
 THE COMMON SEAL of KOBE ALUMINA ASSOCIATES (AUSTRALIA) PTY. LIMITED was hereto affixed by authority of the Directors in the presence of — |  | [C.S.]
 DIRECTOR SHINTARO KAHARU.
 SECRETARY T. UJI-IE.
-[Third Schedule inserted by No. 95 of 1982 s. 6.]
+[Third Schedule inserted: No. 95 of 1982 s. 6.]

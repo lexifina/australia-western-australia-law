@@ -1,5 +1,6 @@
-## Schedule 1
-[Heading amended by No. 61 of 1988 s. 8.]
+## Schedule 1 — Mineral Sands (Eneabba) Agreement
+[s. 2]
+[Heading amended: No. 61 of 1988 s. 8; No. 19 of 2010 s. 4.]
 THIS AGREEMENT made this 27th day of June, 1975 BETWEEN THE HONOURABLE SIR CHARLES WALTER MICHAEL COURT, O.B.E., M.L.A. Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and ALLIED ENEABBA PTY. LTD. a company incorporated under the Companies Act of the State of Western Australia and having its registered office situate at 283 Rokeby Road Subiaco (hereinafter called “the Company” in which term shall be included the Company and its successors and permitted assigns and appointees) of the other part.
 WHEREAS:
 (a)the Company has established the existence of a heavy mineral sands ore body near Eneabba;

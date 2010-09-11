@@ -1,4 +1,6 @@
-## Schedule
+## Schedule — Exempt instruments
+[s. 4(a)]
+[Heading amended: No. 19 of 2010 s. 4.]
 Deed dated 27 June 1978 made between the continuing bank of the one part and CBA of the other part entitled “Equity Participants’ Deed”.
 Agreement dated 27 June 1978 made between the continuing bank and CBA of the one part and Chase-N.B.A. Group Limited of the other part entitled “Management Agreement”.
 Agreement dated 27 June 1978 made between Qantas Airways Limited of the one part and the continuing bank and CBA of the other part entitled “Equipment Purchase Agreement”.

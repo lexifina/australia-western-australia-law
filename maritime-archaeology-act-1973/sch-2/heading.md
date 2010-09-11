@@ -1,6 +1,6 @@
-## Second Schedule
+## Second Schedule — Other ships from which relics are believed to have been recovered prior to 18 December 1964
 [s. 6]
-## Other ships from which relics are believed to have been recovered prior to 18 December 1964
+[Heading amended by No. 19 of 2010 s. 4.]
 Name of Ship | Year of loss | Approximate location
 Known as the —
 “Elizabeth” | 1839 | South of Cottesloe Beach.

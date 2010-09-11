@@ -68,6 +68,7 @@ Legal Profession Act 2008 s. 681 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Revenue Laws Amendment Act (No. 2) 2008 Pt. 2 Div. 2 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 8 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 7: The Mining Act 1978 as at 3 Jul 2009 (includes amendments listed above)
+Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -75,7 +76,6 @@ Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Ope
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 6 | 8 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
 Approvals and Related Reforms (No. 2) (Mining) Act 2010 Pt. 2 and 3 | 12 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
-Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
 The Mining Amendment Act 1981 s. 3 reads as follows:
@@ -643,38 +643,6 @@ mining tenement document means —
 43.Second Schedule clause 13 amended
 In the Second Schedule clause 13 delete “registrar.” and insert:
 registrar of the mineral field or district in which the largest portion of the land to which the application relates is situated.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 and 51 had not come into operation. They read as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Mining Act 1978 | Second Schedule
-Third Schedule | Private land not open for mining
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-47.Mining Act 1978
-s. 24(2) | (2)(a)The Governor (b)The Minister paragraph (a) | (2A)The Governor (2B)The Minister subsection (2A)
-s. 24(3) | (3)(a)Subject (b)Before giving his consent | (3A)Subject (3B)Before giving his consent under subsection (3A)
-s. 24(5) | (5)(a)Mining on (b)Before giving his consent | (5A)Mining on (5B)Before giving his consent under subsection (5A)
-s. 24(6) | (6)(a)Mining (b)Before giving his consent, | (6A)Mining (6B)Before giving his consent under subsection (6A),
-s. 24(7) | (7)(a)Mining (b)Before giving his consent, (c)The giving this subsection | (7A)Mining (7B)Before giving his consent under subsection (7A), (7C)The giving subsection (7A)
-s. 25(2) | (2)(a)Mining on (b)Before giving his consent | (2A)Mining on (2B)Before giving his consent under subsection (2A)
-s. 25(3) | (3)(a)Mining on (b)Before giving his consent | (3A)Mining on (3B)Before giving his consent under subsection (3A)
-s. 37(3) | (3)(a)If the (b)A copy | (3)If the (4)A copy
-s. 38(1) | subsection (3)(a) of that section, | section 37(3),
-s. 55(3) | section 25(2)(b). | section 25(2B).
-s. 55(4) | section 25(3)(b). | section 25(3B).
-s. 69C(3) | section 25(2)(b). | section 25(2B).
-s. 69C(4) | section 25(3)(b). | section 25(3B).
-s. 98(4) | (4)(a)When (b)Where a | (4A)When (4B)Where a
-s. 98(5) | subsection (4) | subsection (4A)
-s. 98(9) | subsection (4) | subsection (4A)
-s. 100(1) | section 98(4) | section 98(4A)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

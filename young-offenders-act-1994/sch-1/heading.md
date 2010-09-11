@@ -1,5 +1,6 @@
-## Schedule 1
-[sections 3, 22, 25 and 55]
+## Schedule 1 — Schedule 1 offences
+[s. 3, 22, 25 and 55]
+[Heading amended by No. 19 of 2010 s. 4.]
 Offences —
 ·for which a caution cannot be given, and
 ·which cannot be referred to a juvenile justice team, and

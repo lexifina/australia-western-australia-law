@@ -1,5 +1,6 @@
-## Schedule 4
-[S. 6.]
+## Schedule 4 — Supplementary Agreement (1994)
+[s. 6.]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 5th day of May 1994
 B E T W E E N :
 THE HONOURABLE RICHARD FAIRFAX COURT, B. Com., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and WESTERN COLLIERIES LTD. a company incorporated in Western Australia and having its registered office at 10th Floor, 40 The Esplanade, Perth (hereinafter called “the Company”) of the other part
@@ -53,4 +54,4 @@ MINISTER FOR RESOURCES DEVELOPMENT
 THE COMMON SEAL of WESTERN COLLIERIES LTD. was hereunto affixed in the presence of: | ) ) ) ) | [C.S.]
 Director: THOMAS J R KUZMAN
 Director/Secretary: MICHAEL A EGERT
-[Schedule 4 inserted by No. 57 of 1994 s. 6.]
+[Schedule 4 inserted: No. 57 of 1994 s. 6.]

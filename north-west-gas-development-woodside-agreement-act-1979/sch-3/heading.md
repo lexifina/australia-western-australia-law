@@ -1,4 +1,6 @@
-## Schedule 3
+## Schedule 3 — Second Supplementary Agreement
+[s. 2]
+[Heading amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 23rd day of November 1994
 B E T W E E N
 THE HONOURABLE RICHARD FAIRFAX COURT, B.Com., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the Government of the said State and its instrumentalities from time to time (hereinafter called the “State”) of the one part

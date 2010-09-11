@@ -1,5 +1,6 @@
-## Schedule
+## Schedule — Iron Ore (Murchison) Agreement
 [s. 2]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT made the day of
 One thousand nine hundred and seventy-three BETWEEN THE HONOURABLE JOHN TREZISE TONKIN, M.L.A., THE PREMIER OF THE STATE OF WESTERN AUSTRALIA acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and NORTHERN MINING CORPORATION N.L. a company incorporated under the Companies Act 1961 of the State of Victoria in the Commonwealth of Australia and having its registered office in the State of Western Australia situate at 442 Murray Street Perth (hereinafter called “the Company” which expression shall where the context so admits or requires extend to and include the successors assigns and appointees of the Company) of the other part.
 WHEREAS:

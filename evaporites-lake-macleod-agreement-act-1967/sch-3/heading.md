@@ -1,4 +1,6 @@
-## Third Schedule
+## Third Schedule — Second Variation Agreement
+[s. 2]
+[Heading amended: No. 19 of 2010 s. 4.]
 AN AGREEMENT made the Fifteenth day of November, 1978 BETWEEN THE HONOURABLE SIR CHARLES WALTER MICHAEL COURT, O.B.E., M.L.A., Premier of the State of Western Australia acting for and on behalf of the said State and its instrumentalities (the State of Western Australia and its instrumentalities being hereinafter referred to as “the State”) of the one part and TEXADA MINES PTY. LIMITED a company incorporated under the Companies Act 1961 of the State of Western Australia and having its registered office at 37 St. George’s Terrace, Perth in the State of Western Australia (hereinafter referred to as “the Company”) of the other part.
 WHEREAS:
 (a)The parties to this Agreement are the parties to the agreement between them as defined in section 2 of the Evaporites (Lake MacLeod) Agreement Act 1967 (which agreement is hereinafter referred to as “the principal Agreement”).
@@ -31,4 +33,4 @@ ANDREW MENSAROS, Minister for Industrial Development.
 THE COMMON SEAL OF TEXADA MINES PTY. LIMITED was hereunto affixed by the authority of the Directors and this instrument signed and countersigned by |  | [C.S.]
 Director Ian H. CARNE.
 Secretary R. DICKINSON.
-[Third Schedule inserted by No. 5 of 1979 s. 4.]
+[Third Schedule inserted: No. 5 of 1979 s. 4.]

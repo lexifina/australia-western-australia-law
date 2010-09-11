@@ -1,3 +1,3 @@
-## Schedule 1
-[Section 15]
-Members and proceedings of the Board
+## Schedule 1 — Members and proceedings of the Board
+[s. 15]
+[Heading amended by No. 19 of 2010 s. 4.]

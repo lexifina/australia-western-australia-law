@@ -1,10 +1,10 @@
-## Schedule V
-[Sections 34 and 37]
-[Heading inserted by No. 78 of 1984 s. 14.]
-## Part 1
-[Heading inserted by No. 78 of 1984 s. 14.]
-## Division 1
-[Heading inserted by No. 78 of 1984 s. 14.]
+## Schedule V — Offices and bodies to which Part I Division 3 applies
+[s. 34 and 37]
+[Heading inserted by No. 19 of 2010 s. 14(3).]
+## Part 1 — Disqualifying offices
+[Heading inserted by No. 19 of 2010 s. 14(3).]
+## Division 1 — Judicial, tribunal and similar offices
+[Heading inserted by No. 19 of 2010 s. 14(3).]
 Chief Justice of Western Australia or other judge of the Supreme Court.
 Master of the Supreme Court.
 Chief Judge or other judge of the District Court.
@@ -25,8 +25,8 @@ Chairman, or deputy of the chairman, of the Railways Classification Board establ
 Member of the State Administrative Tribunal.
 Western Australian Energy Disputes Arbitrator appointed under section 62 of the Energy Arbitration and Review Act 1998.
 [Division 1 inserted by No. 78 of 1984 s. 14; amended by No. 97 of 1986 s. 40; No. 21 of 1987 s. 11; No. 28 of 1989 s. 33(3); No. 15 of 1991 s. 22(a); No. 44 of 1991 s. 3; No. 34 of 1992 s. 85; No. 37 of 1992 s. 39(a); No. 1 of 1995 s. 23(a); No. 2 of 1996 s. 61; No. 65 of 1998 s. 89; No. 34 of 1999 s. 61; No. 77 of 2003 s. 73; No. 55 of 2004 s. 1324; No. 59 of 2004 s. 141; No. 73 of 2006 s. 116(2); No. 16 of 2009 s. 68.]
-## Division 2
-[Heading inserted by No. 32 of 1994 s. 9(a).]
+## Division 2 — Other offices
+[Heading inserted by No. 19 of 2010 s. 14(4).]
 Auditor General appointed under the Auditor General Act 2006.
 Agent General appointed under the Agent General Act 1895.
 Chief executive officer of an agency within the meaning of the Public Sector Management Act 1994.
@@ -48,15 +48,15 @@ Solicitor-General appointed under the Solicitor-General Act 1969.
 A prescribed office within the meaning of the Salaries and Allowances Act 1975.
 [Division 2 inserted by No. 32 of 1994 s. 9(a); amended by No. 57 of 1997 s. 70; No. 43 of 1999 s. 20; No. 55 of 2000 s. 10; No. 20 of 2002 s. 109; No. 67 of 2003 s. 62; No. 75 of 2003 s. 56(1); No. 48 of 2006 s. 65; No. 77 of 2006 s. 17.]
 [Division 3 deleted by No. 32 of 1994 s. 9(a).]
-## Part 2
-[Heading inserted by No. 78 of 1984 s. 14.]
-## Division 1
-[Heading inserted by No. 78 of 1984 s. 14.]
+## Part 2 — Offices or places vacated on election
+[Heading inserted by No. 19 of 2010 s. 14(5).]
+## Division 1 — Tribunal and board offices
+[Heading inserted by No. 19 of 2010 s. 14(5).]
 Member, or deputy of a member, of the Coal Industry Tribunal of Western Australia constituted under the Coal Industry Tribunal of Western Australia Act 1992.
 Member, or deputy of a member, of the Railways Classification Board, established under Division 3 of Part IIA of the Industrial Relations Act 1979.
 [Division 1 inserted by No. 78 of 1984 s. 14; amended by No. 15 of 1991 s. 22(b); No. 37 of 1992 s. 39(b); No. 1 of 1995 s. 23(b); No. 34 of 1999 s. 61; No. 59 of 2004 s. 141.]
-## Division 2
-[Heading inserted by No. 32 of 1994 s. 9(b).]
+## Division 2 — Other offices or places
+[Heading inserted by No. 19 of 2010 s. 14(6).]
 The office or place of —
 Any person employed in a department or SES organization within the meaning of the Public Sector Management Act 1994, that is to say —
 (a) any person employed in —
@@ -79,8 +79,8 @@ Any person who is a member of the teaching staff appointed under the School Educ
 Any person appointed pursuant to section 74 of the Constitution Act 1889 other than a member of the Executive Council who holds any of the principal executive offices of the Government liable to be vacated on political grounds that are referred to in section 43.
 Any person who is a member of a department of the staff of Parliament referred to in, or an electorate officer within the meaning of, the Parliamentary and Electorate Staff (Employment) Act 1992.
 [Division 2 inserted by No. 32 of 1994 s. 9(b); amended by No. 36 of 1999 s. 247.]
-## Part 3
-[Heading inserted by No. 78 of 1984 s. 14.]
+## Part 3 — Bodies membership of which is vacated on election
+[Heading inserted by No. 19 of 2010 s. 14(7).]
 The Aboriginal Advisory Council established under the Aboriginal Affairs Planning Authority Act 1972.
 The Aboriginal Housing Board responsible to the Minister for Housing.
 The Aboriginal Lands Trust established by the Aboriginal Affairs Planning Authority Act 1972.

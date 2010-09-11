@@ -1,4 +1,6 @@
-## Schedule
+## Schedule — Western Mining Corporation Limited (Throssell Range) Agreement
+[s. 3]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made this 29th day of October, 1985.
 BETWEEN THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and WESTERN MINING CORPORATION LIMITED a company incorporated in the State of Victoria and having its principal place of business in the State of Western Australia at 191 Great Eastern Highway, Belmont (hereinafter called “the Company” in which term shall be included its successors and permitted assigns) of the other part.
 WHEREAS:

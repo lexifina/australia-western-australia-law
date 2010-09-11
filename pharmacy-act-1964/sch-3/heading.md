@@ -1,5 +1,6 @@
-## Third Schedule
-[Section 22]
+## Third Schedule — Certificate of registration
+[s. 22]
+[Heading amended by No. 19 of 2010 s. 4.]
 Pharmacy Act 1964
 ## Certificate of Registration as a Pharmaceutical Chemist
 This is to certify that .............................................................................................. residing at ....................................................., in .................................................... has been duly registered as a pharmaceutical chemist under the provisions of the Pharmacy Act 1964.

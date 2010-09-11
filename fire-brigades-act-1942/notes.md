@@ -85,10 +85,7 @@ Emergency Management Act 2005 s. 104 | 15 of 2005 | 27 Sep 2005 | 24 Dec 2005 (s
 Fire Brigades (Fire Districts) Notice (No. 2) 2005 published in Gazette 29 Nov 2005 p. 5782-3 | 29 Nov 2005
 Reprint 7: The Fire Brigades Act 1942 as at 2 Jun 2006 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 9 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4, 43(3) and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4, 43(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 The Fire and Emergency Services Legislation (Emergency Services Levy) Amendment Act 2002 s. 36, which gives effect to Sch. 1, reads as follows:
 “
 36.Transitional provisions
@@ -204,27 +201,3 @@ The Fire and Emergency Services Legislation Amendment Act 2002 s. 45(4) and 54(3
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 18 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4, 43(3) and 51 had not come into operation. They read as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Fire Brigades Act 1942 | The Second Schedule | Fire districts
-43.Part heading inserted before section 1
-(1) This section amends the Acts listed in Tables 1 and 2.
-(3) In the Acts listed in Table 2:
-(a) before section 1 insert:
-Part I — Preliminary
-(b) before the section listed in Table 2 for that Act delete the heading to Part I.
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-22.Fire Brigades Act 1942
-s. 24(2) | the Authority: Provided that any | the Authority. (3)Despite subsections (1) and (2), any
-s. 27(1) | his decision: Provided that this subsection | his decision. (1A)Subsection (1)
-s. 54(3) | (b)On and after the provisions of the succeeding paragraphs of this subsection, (c)Where the (ca)Such a (d)So soon (e)The water (f)When the this subsection, (g)(i)By virtue (ii)Compensation the Table. | (4)On and after this section, (5)Where the (6)Such a (7)So soon (8)The water (9)When the this section, (10)By virtue (11)Compensation the Table to subsection (10).
-s. 59 | (i)wilfully (ii)wilfully (iii)wilfully (iv)drives (v)drives | (a)wilfully (b)wilfully (c)wilfully (d)drives (e)drives

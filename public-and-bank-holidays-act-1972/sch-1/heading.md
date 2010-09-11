@@ -1,5 +1,6 @@
-## Second Schedule
-s. 5
+## Second Schedule — Public and bank holidays
+[s. 5]
+[Heading amended by No. 19 of 2010 s. 4.]
 New Year’s Day (1st January).
 Australia Day (26th January or, when that day falls on a Saturday or Sunday, the first Monday following the 26th January).
 Labour Day (Monday on or first Monday following the 1st March).

@@ -1,5 +1,6 @@
-## Schedule 1
-[S. 2.]
+## Schedule 1 — Collie Coal (Western Collieries) Agreement
+[s. 2.]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT made this 17th day of January, 1979, BETWEEN THE HONOURABLE SIR CHARLES WALTER MICHAEL COURT, K.C.M.G., O.B.E., M.L.A. Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and WESTERN COLLIERIES LTD. a company incorporated under the provisions of the Statutes of Western Australia and having its registered office at 517-519 Hay Street, Perth, in the said State (hereinafter called “the Company” in which term shall be included the Company and its successors and permitted assigns and appointees) of the other part.
 WHEREAS:
 (a)the Company is engaged in the mining of coal at Collie and desires to expand its activities and increase production and has applied for additional coal mining leases;
@@ -303,4 +304,4 @@ SIGNED by the said THE HONOURABLE SIR CHARLES WALTER MICHAEL COURT K.C.M.G., O.B
 ANDREW MENSAROS . . . . . . . . . . . . . . . . . . . . . Minister for Industrial Development.
 THE COMMON SEAL OF WESTERN COLLIERIES LTD, was hereunto affixed by order of and at a meeting of the Directors of the said Company this 17th day of January, 1979 in the presence of —
 W. M. DUNSTAN . . . . . . . . . . . . . . . . . . . . . . . . . . .Director. A. T. FOGARTY . . . . . . . . . . . . . . . . . . . . . . . . . . .Director. G. SIMMONDS . . . . . . . . . . . . . . . . . . . . . . . . . . .Secretary.
-[Schedule 1 amended by No. 76 of 1985 s. 5.]
+[Schedule 1 amended: No. 76 of 1985 s. 5.]

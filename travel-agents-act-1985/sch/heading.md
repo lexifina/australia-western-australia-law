@@ -1,6 +1,6 @@
-## Schedule
-[Sections 9(3)(d) and 12(2)(f)]
-## Specified Licensing or Registration Acts
+## Schedule — Specified Licensing or Registration Acts
+[s. 9(3)(d) and 12(2)(f)]
+[Heading amended by No. 19 of 2010 s. 4.]
 Item | Act
 1. | Auction Sales Act 1973.
 2. | Builders’ Registration Act 1939.

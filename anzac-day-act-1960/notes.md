@@ -22,16 +22,16 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 1 | 28 o
 Reprint 3: The Anzac Day Act 1960 as at 15 Sep 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Acts Amendment (Bankruptcy) Act 2009 s. 10 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-6.Anzac Day Act 1960
-s. 11(3)(b) and (c) | subsection (4) | subsections (4A) to (4C)
-s. 11(3)(d) | subsection (5) | subsections (5A) to (5C)
-s. 11(4) | (4)(a)Where (i)in the (ii)in the (b)If within in this section (c)If at one month, this subsection, | (4A)Where (a)in the (b)in the (4B)If within in subsection (4A) (4C)If at one month referred to in subsection (4B), subsection (4B),
-s. 11(5) | (5)(a)Where (b)If within in this section, (c)If at one month, this subsection, | (5A)Where (5B)If within in subsection (5A), (5C)If at one month referred to in subsection (5A), subsection (5B),
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Account10(1)
+Anzac Day3
+dependant3
+metropolitan region5(3)
+race meeting3
+racing club3
+sports3
+Trust3
+Trustee3

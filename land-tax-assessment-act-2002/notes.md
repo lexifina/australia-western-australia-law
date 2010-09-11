@@ -19,12 +19,12 @@ Revenue Laws Amendment (Taxation) Act 2007 Pt. 3 | 12 of 2007 | 29 Jun 2007 | 30
 Reprint 2: The Land Tax Assessment Act 2002 as at 28 Mar 2008 (includes amendments listed above)
 Revenue Laws Amendment Act 2008 Pt. 4 | 30 of 2008 | 27 Jun 2008 | 1 Jul 2008 (see s. 2(1)(c))
 Revenue Laws Amendment (Taxation) Act 2009 Pt. 2 | 19 of 2009 | 16 Sep 2009 | 1 Jul 2009 (see s. 2(b)(ii))
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Land Tax Assessment Amendment Act 2010 | 27 of 2010 | 7 Jul 2010 | Act other than s. 1 and 2: 1 Jul 2010 (see s. 2(b)(ii)); s. 1 and 2: 7 Jul 2010 (see s. 2(a))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 83 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
-Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 33 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
@@ -161,12 +161,6 @@ On the date as at which this compilation was prepared, the State Superannuation 
 (2) The Glossary clause 1 is amended in the definition of “taxable authority” by deleting “Government Employees Superannuation Board” and inserting instead —
 “ State Superannuation Board ”.
 ”.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-35.Land Tax Assessment Act 2002
-s. 39A(1) | for habitation, and if a term | for habitation. (1A)If a term
 On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 33 had not come into operation. It reads as follows:
 33.Land Tax Assessment Act 2002 amended
 (1) This section amends the Land Tax Assessment Act 2002.

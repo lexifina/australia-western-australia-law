@@ -27,10 +27,10 @@ Criminal Law Amendment (Homicide) Act 2008 s. 23 | 29 of 2008 | 27 Jun 2008 | 1 
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 18 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Reprint 4: The Adoption Act 1994 as at 5 Mar 2010 (includes amendments listed above)
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 1 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 of the Commonwealth. Now see the Australian Citizenship Act 2007 of the Commonwealth.
 The day fixed under s. 2(1) of the Adoption Amendment Act (No. 2) 2003 is 1 June 2003: see Gazette 20 May 2003 p. 1783.
@@ -48,17 +48,6 @@ The Adoption Amendment Act (No. 2) 2003 s. 34(2) and 59(2) read as follows:
 has no effect on and from the day on which subsection (1) comes into operation.
 The amendment in the Children and Community Services Act 2004 Sch. 2 cl. 2(9) to s. 107(d) is not included because the provision it sought to amend was replaced by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 12 before the amendment purported to come into operation.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Act | Identifier | Title | Shoulder note
-Adoption Act 1994 | Schedule 1
-Schedule 2
-Schedule 3
 On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 1 had not come into operation. It reads as follows:
 Division 1 — Adoption Act 1994 amended
 22.Act amended

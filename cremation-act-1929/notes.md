@@ -20,25 +20,16 @@ Reprint of the Cremation Act 1929 as at 16 Feb 2001 (includes amendments listed 
 Acts Amendment (Lesbian and Gay Law Reform) Act 2002 Pt. 6 | 3 of 2002 | 17 Apr 2002 | 21 Sep 2002 (see s. 2 and Gazette 20 Sep 2002 p. 4693)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 32 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Reprint 5: The Cremation Act 1929 as at 4 Jul 2008 (includes amendments listed above)
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+Medical Practitioners Act 2008 Sch. 3 cl. 13 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+Reprint 5: The Cremation Act 1929 as at 4 Jul 2008 (includes amendments listed above except those in the Medical Practitioners Act 2008)
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 14 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Associations Incorporation Act 1987.
 The renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and subsequent reprints has been retained. References to the original numbering are contained in the 1943 reprint.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-15.Cremation Act 1929
-s. 3 | No person Provided that nothing in this section shall prevent | (1)No person (2)Nothing in this section prevents
-s. 8(3) | (3)(a)An application (i)an (ii)a person (iii)a person (b)Where (i)make (ii)supply | (3A)An application (a)an (b)a person (c)a person (3B)Where (a)make (b)supply
-s. 8(4) | (4)(a)A person (b)The medical | (4A)A person (4B)The medical
-s. 16 | The Governor crematorium; and void: Provided that no order paragraph (a) or (b) | (1)The Governor crematorium, and void. (2)No order subsection (1)(a) or (b)
 On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 14 had not come into operation. It reads as follows:
 Division 14 — Cremation Act 1929 amended
 51.Act amended

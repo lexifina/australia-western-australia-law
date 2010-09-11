@@ -48,10 +48,7 @@ Reprint 6: The Real Estate and Business Agents Act 1978 as at 24 Aug 2007 (inclu
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Legal Profession Act 2008 s. 696 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Acts Amendment (Bankruptcy) Act 2009 s. 74 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 28 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 28 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 The provision in this Act repealing the Land Agents Act 1921 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The “appointed day” was 1 December 1979. See Gazette 31 August 1979 p. 2615.
 The Land Agents Act 1921.
@@ -87,45 +84,3 @@ statutory rule means a regulation, rule or by-law.
 is taken not to be valid, and to never have been valid.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 28 and 51 had not come into operation. They read as follows:
-28.Real Estate and Business Agents Act 1978 amended
-(1) This section amends the Real Estate and Business Agents Act 1978.
-(2) In the Schedule:
-(a) delete “Schedule”;
-(b) delete “Qualifications for grant of licence (s. 27)”,
-and insert:
-Schedule — Qualifications and saving and transitional provisions
-[s. 27 and 146]
-Division 1 — Qualifications for grant of licence
-(3) In the Schedule delete “Savings” and insert:
-Division 2 — Saving and transitional provisions
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-71.Real Estate and Business Agents Act 1978
-Sch. cl. 1 | 1.A person — | 1.Qualifications for grant of licence A person —
-Sch. cl. 2 | 2.For | 2.Sufficient practical experience For
-Sch. heading before cl. 3 | Licence by reason of qualification under clause 1(c)
-Sch. cl. 3 | 3.Such | 3.Licence by reason of qualification under clause 1(c) Such
-Sch. heading before cl. 4 | Licence by reason of qualification under clause 1(d)
-Sch. cl. 4 | 4.Such | 4.Licence by reason of qualification under clause 1(d) Such
-Sch. heading before cl. 5 | Death or incapacity of agent
-Sch. cl. 5 | 5.(1)A person | 5.Death or incapacity of agent (1)A person
-Sch. heading before cl. 6 | Death or withdrawal of partner in a firm or director of a body corporate
-Sch. cl. 6 | 6.(1)Where | 6.Death or withdrawal of partner in a firm or director of a body corporate (1)Where
-Sch. heading before cl. 7 | Continuation of licences in force under the repealed Act
-Sch. cl. 7 | 7.(1)Licences | 7.Continuation of licences in force under the repealed Act (1)Licences
-Sch. heading before cl. 8 | Pastoral companies
-Sch. cl. 8 | 8.(1)This | 8.Pastoral companies (1)This
-Sch. heading before cl. 11 | Persons of a kind referred to in section 4(3)(v) of the repealed Act and whose licences have been continued under clause 7
-Sch. cl. 11 | 11.Such | 11.Persons of a kind referred to in section 4(3)(v) of the repealed Act and whose licences have been continued under clause 7 Such
-Sch. heading before cl. 12 | Persons of a kind referred to in section 4(3)(vi) of the repealed Act and whose licences have been continued under clause 7
-Sch. cl. 12 | 12.Such | 12.Persons of a kind referred to in section 4(3)(vi) of the repealed Act and whose licences have been continued under clause 7 Such
-Sch. heading before cl. 13 | Auctions in respect of real estate transactions
-Sch. cl. 13 | 13.On | 13.Auctions in respect of real estate transactions On
-Sch. heading before cl. 14 | Auctions in respect of business transactions not involving a real estate transaction
-Sch. cl. 14 | 14.On | 14.Auctions in respect of business transactions not involving a real estate transaction On
-Sch. heading before cl. 15 | Continuation of certificates of registration in force under the repealed Act
-Sch. cl. 15 | 15.(1)Any | 15.Continuation of certificates of registration in force under the repealed Act (1)Any
-Sch. heading before cl. 16 | Continuation of certain office managers
-Sch. cl. 16 | 16. (1) Notwithstanding | 16.Continuation of certain office managers (1)Notwithstanding

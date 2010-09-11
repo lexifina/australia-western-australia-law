@@ -1,4 +1,6 @@
-## Schedule 2
+## Schedule 2 — Variation Agreement
+[s. 3]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made this sixth day of June 1988 BETWEEN THE HONOURABLE PETER McCALLUM DOWDING, LL.B., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the first part BARRACK SILICON PTY. LTD. a company incorporated in the State of Western Australia and having its registered office at 614 Newcastle Street, Leederville (hereinafter called “the Company” which term shall include its successors and permitted assigns) of the second part and BARRACK MINES LIMITED a company incorporated in the State of Western Australia and having its registered office at 614 Newcastle Street, Leederville (hereinafter called “the Guarantor”) of the third part.
 WHEREAS:
 (a)on the 12th day of November 1987 the parties hereto entered into an agreement relating to the establishment of a plant for the manufacture of silicon which agreement was ratified by the Silicon (Picton) Agreement Act 1987 and is hereinafter referred to as “the principal Agreement”;
@@ -101,4 +103,4 @@ IN WITNESS WHEREOF this Agreement had been executed by or on behalf of the parti
 SIGNED by the said THE HONOURABLE PETER M’CALLUM DOWDING, L.L.B., M.L.A. in the presence of: D. PARKER MINISTER FOR ECONOMIC DEVELOPMENT AND TRADE |  | PETER DOWDING
 THE COMMON SEAL of BARRACK SILICON PTY. LTD. was hereunto affixed by authority of the Directors in the presence of: Director V. J. NOVAK Secretary DONNA COX |  | [C.S.]
 THE COMMON SEAL of BARRACK MINES LIMITED was hereunto affixed by authority of the Directors in the presence of: Director V. J. NOVAK Secretary DONNA COX |  | [C.S.]
-[Schedule 2 inserted by No. 3 of 1988 s. 8.]
+[Schedule 2 inserted: No. 3 of 1988 s. 8.]

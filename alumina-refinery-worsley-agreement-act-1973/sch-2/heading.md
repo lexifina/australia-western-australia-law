@@ -1,4 +1,6 @@
-## Second Schedule
+## Second Schedule — First Supplementary Agreement
+[s. 6]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT made the 18th day of April 1978 BETWEEN THE HONOURABLE SIR CHARLES WALTER MICHAEL COURT, O.B.E., M.L.A., Premier of the State of Western Australia acting for and on behalf of the Government of the said State and its instrumentalities (hereinafter referred to as “the State”) of the one part and ALWEST PTY. LIMITED (hereinafter called “Alwest”) a Company incorporated under the Companies Act 1961, of Western Australia and having its registered office at 44 Stirling Street, Perth, in the said State and DAMPIER MINING COMPANY LIMITED (hereinafter called “Dampier”) a Company also incorporated under the said Act and having its registered office at 37 Saint George’s Terrace, Perth (hereinafter collectively called “the Joint Venturers” in which term shall be included their respective successors and permitted assigns and appointees) of the other part.
 WHEREAS:
 A.The parties are the parties to the agreement between them dated the 22nd day of August, 1974, the execution of which by the State was authorized pursuant to section 3 of the Alumina Refinery (Worsley) Agreement Act 1973 (which agreement is hereinafter referred to as “the principal agreement”).
@@ -271,4 +273,4 @@ SECRETARY
 LINDSAY E. GROOM
 Executed by DAMPIER MINING COMPANY LIMITED by being signed in Western Australia by its Attorney Ronald Murray Williams under Power of Attorney dated the 18 April, 1978 in the presence of — |  | R. M. WILLIAMS
 W. I. KOMMER
-[Second Schedule inserted by No. 10 of 1978 s. 6.]
+[Second Schedule inserted: No. 10 of 1978 s. 6.]

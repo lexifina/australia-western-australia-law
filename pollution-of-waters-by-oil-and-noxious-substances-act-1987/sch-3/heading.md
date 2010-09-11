@@ -1,5 +1,6 @@
-## Schedule 3
-Section 3
+## Schedule 3 — 1984 amendments to annex to Protocol
+[s. 3]
+[Heading amended by No. 19 of 2010 s. 4.]
 AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1978 RELATING TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973
 THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
 NOTING the functions which Article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the “1973 Convention”) and resolution A.297(VIII) confer on the Marine Environment Protection Committee for the consideration and adoption of amendments to the 1973 Convention,

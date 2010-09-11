@@ -1,6 +1,6 @@
-## Schedule 2
-[Section 45]
-Enactments that may apply to licensees, other than the Corporation
+## Schedule 2 — Enactments that may apply to licensees, other than the Corporation
+[s. 45]
+[Heading amended by No. 19 of 2010 s. 4.]
 ## Part 1 — Provisions for which any licensee may be prescribed
 Water Agencies (Powers) Act 1984
 s. 3(1) (definition of “works”) s. 3(3) s. 34 s. 36 s. 37 s. 41 s. 41B s. 41E s. 41F s. 41G s. 41GA s. 41H s. 41J s. 41K s. 41M | s. 42 s. 62 s. 63 s. 64 s. 66 s. 67 s. 67A s. 67B s. 68 s. 69 s. 69A s. 69B s. 70 (except subsection (3)(b)) s. 71(1) & (3) | s. 72 s. 73 s. 75 s. 77 s. 78 s. 79 s. 81 s. 83 s. 84 s. 86 s. 87 s. 88 s. 89 s. 90 s. 91 s. 92 | s. 93 s. 94 s. 95 s. 96 s. 97 s. 98 s. 99 s. 100 s. 101 s. 102

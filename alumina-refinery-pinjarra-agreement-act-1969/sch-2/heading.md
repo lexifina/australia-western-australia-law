@@ -1,5 +1,6 @@
-## Second Schedule
-[S.1A.]
+## Second Schedule — First supplementary agreement
+[s. 1A]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT UNDER SEAL is made the 10th day of July, One thousand nine hundred and seventy-two between THE HONOURABLE JOHN TREZISE TONKIN, M.L.A., Premier of the State of Western Australia acting for and on behalf of the Government of the said State and its instrumentalities (hereinafter referred to as “the State”) of the one part and ALCOA OF AUSTRALIA (W.A.) LIMITED the name whereof was formerly Western Aluminium No Liability a Company duly incorporated under the Companies Statutes of the State of Victoria and having its principal office in that State at 535 Bourke Street, Melbourne and having its registered office in the State of Western Australia at Hope Valley Road Kwinana (hereinafter referred to as “the Company” which term shall include its successors and permitted assigns) of the other part.
 WHEREAS the parties are the parties to and desire to amend the agreement between them dated the 30th day of September One thousand nine hundred and sixty-nine referred to in Section 2 of the Alumina Refinery (Pinjarra) Agreement Act 1969 inter alia related to the establishment of an additional alumina refinery near Pinjarra and associated facilities for the production and shipment of alumina (which agreement is hereinafter referred to as “the Pinjarra agreement”).
 NOW THIS AGREEMENT WITNESSETH —
@@ -30,4 +31,4 @@ If on the 1st April, 1977, and on the 1st April in every fifth year thereafter e
 IN WITNESS whereof the parties hereto have executed this agreement the day and year first above written.
 SIGNED SEALED AND DELIVERED by the HONOURABLE JOHN TREZISE TONKIN, M.L.A., in the presence of — H. E. GRAHAM. MINISTER FOR DEVELOPMENT AND DECENTRALISATION. |  | JOHN T. TONKIN.
 THE COMMON SEAL OF ALCOA OF AUSTRALIA (W.A.) LIMITED was hereunto affixed in the presence of — C. E. PFEIFER. P. SPRY-BAILEY. |  | (C.S.)
-[Second Schedule inserted by No. 48 of 1972 s.6.]
+[Second Schedule inserted: No. 48 of 1972 s.6.]

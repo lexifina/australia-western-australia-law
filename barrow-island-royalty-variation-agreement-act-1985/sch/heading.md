@@ -1,5 +1,6 @@
-## Schedule
-[Section 3]
+## Schedule — Barrow Island Royalty Variation Agreement
+[s. 3]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 8th day of November 1985, BETWEEN
 THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the first part
 AND

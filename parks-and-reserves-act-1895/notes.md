@@ -33,26 +33,8 @@ Reprint 4: The Parks and Reserves Act 1895 as at 6 Jan 2006 (includes amendments
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 98 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Now known as the Parks and Reserves Act 1895; short title changed (see note under s. 1).
 The Parks and Reserves Amendment Act 1983 s. 4(2) is a transitional provision that is of no further effect.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 and 51 had not come into operation. They read as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Parks and Reserves Act 1895 | Schedule | Form of certificate of authority
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-54.Parks and Reserves Act 1895
-s. 8(1) | the regulation keeping the management the appointment prescribing the time the conduct prescribing the days regulating traffic (a)prescribing (b)regulating, (c)prescribing preventing or regulating the admission preventing or regulating shooting preventing or regulating matches, enabling prohibiting the wilful prohibiting the impersonation prescribing the circumstances (a)the identity (b)the owner prohibiting any person regulating or preventing the prohibiting damage the prevention prescribing the fees regulating the payment | (a)the regulation (b)keeping (c)the management (d)the appointment (e)prescribing the time (f)the conduct (g)prescribing the days (h)regulating traffic (i)prescribing (ii)regulating, (iii)prescribing (i)preventing or regulating the admission (j)preventing or regulating shooting (k)preventing or regulating matches, (l)enabling (m)prohibiting the wilful (n)prohibiting the impersonation (o)prescribing the circumstances (i)the identity (ii)the owner (p)prohibiting any person (q)regulating or preventing the (r)prohibiting damage (s)the prevention (t)prescribing the fees (u)regulating the payment

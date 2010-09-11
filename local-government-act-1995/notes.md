@@ -46,12 +46,12 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Local Government Amendment (Elections) Act 2009 | 15 of 2009 | 17 Aug 2009 | s. 1 and 2: 17 Aug 2009 (see s. 2(a)); Act other than s. 1 and 2: 29 Aug 2009 (see s. 2(b) and Gazette 28 Aug 2009 p. 3347)
  | Local Government Amendment Act 2009 | 17 of 2009 | 16 Sep 2009 | s. 1 and 2: 16 Sep 2009 (see s. 2(a)); Act other than s. 1, 2 and 34: 21 Nov 2009 (see s. 2(b) and Gazette 20 Nov 2009 p. 4649)
  | Reprint 5: The Local Government Act 1995 as at 5 Feb 2010 (includes amendments listed above)
+ | Standardisation of Formatting Act 2010 s. 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Local Government Amendment Act 2009 s. 34 | 17 of 2009 | 16 Sep 2009 | To be proclaimed (see s. 2(b))
 Co-operatives Act 2009 s. 506 and 516 | 24 of 2009 | 22 Oct 2009 | s. 506: operative on the day Co-operative Bulk Handling Limited becomes registered under this Act (see s. 2(d)); s. 516: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
-Standardisation of Formatting Act 2010 s. 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 34 and Pt. 5 Div 2 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
@@ -249,27 +249,6 @@ co-operative
 (a) delete paragraph (d) and “or” after it;
 (b) after each of paragraphs (a) and (b) insert:
 or
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 44(2) and 51 had not come into operation. They read as follows:
-44.Ad hoc headings
-(1) This section amends the Acts listed in Tables 1 and 2.
-(2) In each Act listed in Table 1 before each section listed in the Table delete the heading and insert the heading or headings set out in the Table in relation to that section.
-2.Local Government Act 1995
-s. 4.36 | Division 9 — Electoral process Subdivision 1 — Stages of electoral process
-s. 4.37 | Subdivision 2 — Stage 1: Preparing the electoral roll
-s. 4.47 | Subdivision 3 — Stage 2: Nomination of candidates
-s. 4.54 | Subdivision 4 — Stage 3: After nominations close
-s. 4.60 | Subdivision 5 — Stage 4: Preparing for voting
-s. 4.65 | Subdivision 6 — Stage 5: Voting
-s. 4.72 | Subdivision 7 — Stage 6: Counting the votes
-s. 4.77 | Subdivision 8 — Stage 7: Declaring the result
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-42.Local Government Act 1995
-s. 4.31(1) | the following provisions occupation — Property divided by district boundaries (a)Section 4.30 Property divided by ward boundaries (b)If an (i)the ward (ii)if no Right of occupation (c)A person Separate occupancies (d)A reference (i)a separate (ii)some Joint owners (e)If more Joint occupiers (f)If more Corporate ownership or occupation (g)If a body One nomination for all property in the district (h)A nomination under paragraph (e), (f) or (g) | subsections (1A) to (1H) occupation. (1A)Section 4.30 (1B)If an (a)the ward (b)if no (1C)A person (1D)A reference (a)a separate (b)some (1E)If more (1F)If more (1G)If a body (1H)A nomination under subsection (1E), (1F) or (1G)
-s. 4.31(2) | subsection (1) | subsections (1) to (1H)
-s. 4.36(1) | Stage 1 roll Stage 2 candidates Stage 3 close Stage 4 voting Stage 5 Voting Stage 6 votes Stage 7 | (a)Stage 1 roll; (b)Stage 2 candidates; (c)Stage 3 close; (d)Stage 4 voting; (e)Stage 5 Voting; (f)Stage 6 votes; (g)Stage 7
-s. 6.30(1) | $1.00 per $0.75 per $0.50 per $0.25 for each | (c)$1.00 per (d)$0.75 per (e)$0.50 per (f)$0.25 for each
 On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 34 and Pt. 5 Div 2 had not come into operation. They read as follows:
 34.Local Government Act 1995 amended
 (1) This section amends the Local Government Act 1995.

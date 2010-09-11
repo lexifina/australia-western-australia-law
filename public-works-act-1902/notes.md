@@ -65,10 +65,7 @@ Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 5) | 36 of 200
 Water Resources Legislation Amendment Act 2007 s. 198 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Reprint 10: The Public Works Act 1902 as at 16 May 2008 (includes amendments listed above)
  | Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 43(3), 44(3) and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 43(3), 44(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Roads Act 1911 which was repealed by the Road Districts Act 1919 which was repealed by the Local Government Act 1960 which is now cited as the Local Government (Miscellaneous Provisions) Act 1960. The main Act now dealing with local governments is the Local Government Act 1995.
 Repealed by the Dividing Fences Act 1961 s. 2(1).
@@ -82,24 +79,6 @@ The Public Works Amendment Act 1994 s. 11 is a validation provision that is of n
 (2) A reference in a document executed before the commencement of this Act to the Western Australian Building Authority Account is to be construed, unless the context otherwise requires, as if that reference had been amended to be a reference to the Western Australian Building Management Authority Account.
 ”.
 The Statutes (Repeals and Minor Amendments) Act 2000 s. 35(2) and (3) is a validation provision that is of no further effect.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 43(3), 44(3) and 51 had not come into operation. They read as follows:
-43.Part heading inserted before section 1
-(1) This section amends the Acts listed in Tables 1 and 2.
-(3) In the Acts listed in Table 2:
-(a) before section 1 insert:
-Part I — Preliminary
-(b) before the section listed in Table 2 for that Act delete the heading to Part I.
-44.Ad hoc headings
-(1) This section amends the Acts listed in Tables 1 and 2.
-(3) In each Act listed in Table 2 before each section listed in the Table delete the heading.
-Public Works Act 1902 | s. 93 s. 96
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-68.Public Works Act 1902
-s. 2 def. of public work and work | (1)every (2)any railway (3)tramways; (4)any works (5)buildings (6)hospitals (7)observatory; (8)public (9)public (9a)public (10)wharves, (11)parks (12)public (13)public (14)the protection (14A)the protection (15)the establishment (16)harbours (17)quarries (17A)the procuring (17B)buildings (17C)the establishment (17D)the establishment (18)drainage (19)any building (20)any road, (21)any work (22)any land (23)any survey | (a)every (b)any railway (c)tramways; (d)any works (e)buildings (f)hospitals (g)observatory; (h)public (i)public (j)public (k)wharves, (l)parks (m)public (n)public (o)the protection (p)the protection (q)the establishment (r)harbours (s)quarries (t)the procuring (u)buildings (v)the establishment (w)the establishment (x)drainage (y)any building (za)any road, (zb)any work (zc)any land (zd)any survey
-s. 83B | A person unlawfully — (a)interferes offence; (b)obstructs | (1)A person unlawfully interferes offence. (2)A person who wilfully and unlawfully obstructs
-s. 101(2) | (2)(a)No (b)If any | (2)No (3)If any
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

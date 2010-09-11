@@ -1,6 +1,6 @@
-## Schedule 3
-[Section 126]
-## Transitional provisions related to Environmental Protection Act 1971
+## Schedule 3 — Transitional provisions related to Environmental Protection Act 1971
+[s. 126]
+[Heading amended by No. 19 of 2010 s. 4.]
 1.Any order made under section 8 of the repealed Act and in force immediately before the coming into operation of this clause ceases to have effect on that coming into operation.
 2.Every person holding office as an Authority member within the meaning of the repealed Act immediately before the coming into operation of this clause shall on that coming into operation be deemed to have been appointed under section 7 to be an Authority member for the remainder of the period for which he would, but for the repeal of the repealed Act, have held office as an Authority member within the meaning of the repealed Act, and may from time to time be reappointed under that section.
 3.Every person appointed under section 10(2) of the repealed Act and still so appointed immediately before the coming into operation of this clause shall on that coming into operation cease to be so appointed.

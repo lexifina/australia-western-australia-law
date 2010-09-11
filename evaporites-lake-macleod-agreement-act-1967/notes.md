@@ -6,21 +6,14 @@ Evaporites (Lake MacLeod) Agreement Act 1967 | 3 of 1967 | 5 Oct 1967 | 5 Oct 19
 Evaporites (Lake MacLeod) Agreement Act Amendment Act 1973 | 29 of 1973 | 6 Jun 1973 | 6 Jun 1973
 Evaporites (Lake MacLeod) Agreement Act Amendment Act 1979 | 5 of 1979 | 17 May 1979 | 17 May 1979
 Reprint of the Evaporites (Lake MacLeod) Agreement Act 1967 as at 20 Dec 2002 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+ | Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Repealed by the Mining Act 1978.
 Repealed by the Interpretation Act 1984.
 Marginal notes in the agreement have been represented as bold headnotes in this reprint but that does not change their status as marginal notes.
-5On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Act | Identifier | Title | Shoulder note
-Evaporites (Lake Macleod) Agreement Act 1967 | First Schedule | Evaporites (Lake MacLeod) Agreement | [s. 2]
-Second Schedule | Variation Agreement | [s. 2]
-Third Schedule | Second Variation Agreement | [s. 2]
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+the Agreement2
+the Company2
+the Second Variation Agreement2
+the Variation Agreement2

@@ -1,5 +1,6 @@
-## Schedule 1
-(Section 2)
+## Schedule 1 — Convention
+[s. 2]
+[Heading amended by No. 19 of 2010 s. 4.]
 CONVENTION ON THE PREVENTION OF MARINE POLLUTION BY DUMPING OF WASTES AND OTHER MATTER
 THE CONTRACTING PARTIES TO THIS CONVENTION,
 RECOGNIZING that the marine environment and the living organisms which it supports are of vital importance to humanity, and all people have an interest in assuring that it is so managed that its quality and resources are not impaired;

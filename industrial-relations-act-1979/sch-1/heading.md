@@ -1,5 +1,6 @@
-## Schedule 1
-## Matters to be published in the “Western Australian Industrial Gazette”
+## Schedule 1 — Matters to be published in the “Western Australian Industrial Gazette”
+[s. 93(3) and 105]
+[Heading amended by No. 19 of 2010 s. 4.]
 1.Retirements from industrial agreements.
 2.All decisions and published reasons for decision of —
 (a)the Court;

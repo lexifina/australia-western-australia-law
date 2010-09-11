@@ -1,4 +1,0 @@
-## Schedules
-[The First Schedule omitted under the Reprints Act 1984 s. 7(4)(f).]
-[The Second Schedule deleted by No. 70 of 2004 s. 72.]
-[The Third Schedule deleted by No. 30 of 1983 s. 5.]

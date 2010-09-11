@@ -1,4 +1,6 @@
-## Schedule
+## Schedule — Onslow Solar Salt Agreement
+[s. 3]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made this 2nd day of November 1992
 BETWEEN
 THE HONOURABLE CARMEN MARY LAWRENCE, B.Psych., Ph.D., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and

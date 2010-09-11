@@ -1,6 +1,8 @@
-## First Schedule — First Part
-[s. 3(1)]
-Hire-Purchase Act 1959
+## First Schedule — Statement to be given to hirer
+[s. 3]
+[Heading inserted by No. 19 of 2010 s. 19(5).]
+## Part 1 — Form of statement
+[Heading inserted by No. 19 of 2010 s. 19(5).]
 SUMMARY OF PROPOSED HIRE-PURCHASE AGREEMENT BETWEEN:
 Proposed Hirer: ................................................................................................................... Full Name and Address
 Age: (If under 18 years of age): .........................................................................................
@@ -27,3 +29,7 @@ THIS SUMMARY IS SENT TO YOU AS PROSPECTIVE GUARANTOR OF .............
 AS A GUARANTOR YOU WOULD HAVE CERTAIN RIGHTS UNDER THE HIRE-PURCHASE ACT 1959 — IN PARTICULAR SEE SECTIONS 4, 7, 13, 14, 18, 19, 24, 31, 36A.;
 REBATE ON TERMS CHARGES
 (there shall be inserted under this heading, in the same type as the clause above “FOR ATTENTION OF PROPOSED HIRER”, such explanation of the hirer’s right to statutory rebate as is prescribed).
+## Part 2 — Furniture
+[Heading inserted by No. 19 of 2010 s. 19(6).]
+Chairs, tables, desks and bureaus, kitchenettes, cupboards, beds, divans, lounges or settees, dressing tables, wardrobes, lowboys, lamp stands and lamp shades, hall stands, bookcases, mattresses, pillows and pillow cases, cushions, quilts and bedspreads, blankets, sheets, table cloths, curtains and curtain materials, pictures and picture frames, floor coverings, door mats, window treatments, blinds and awnings-interior and exterior, wall mirrors, vases, cooking utensils, cutlery, sewing machines, bassinets, perambulators, chests, smokers’ stands, glassware and traymobiles but not any of the foregoing which are powered or heated by electricity.
+[First Schedule amended by No. 107 of 1973 s. 29.]

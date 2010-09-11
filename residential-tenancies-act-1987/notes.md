@@ -26,10 +26,7 @@ Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 9 | 69 of 2006
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 4: The Residential Tenancies Act 1987 as at 20 Jul 2007 (includes amendments listed above)
 Legal Profession Act 2008 s. 698 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 29 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 29 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
 The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
@@ -83,21 +80,3 @@ commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 29 had not come into operation. It reads as follows:
-29.Residential Tenancies Act 1987 amended
-(1) This section amends the Residential Tenancies Act 1987.
-(2) In Schedule 1:
-(a) delete “Schedule 1”;
-(b) delete “[section 29(4)]”;
-(c) delete “Provisions relating to holding and disposal of security bonds and the income therefrom”;
-(d) delete “Part A”,
-and insert:
-Schedule 1 — Provisions relating to holding and disposal of security bonds and the income therefrom
-[s. 29(4)]
-Part A — Preliminary matters
-(3) In Schedule 1 delete “Part B” and insert:
-Part B — Administrator
-(4) In Schedule 1 delete “Part C” and insert:
-Part C — Financial institution
-(5) In Schedule 1 delete “Part D” and insert:
-Part D — Referee

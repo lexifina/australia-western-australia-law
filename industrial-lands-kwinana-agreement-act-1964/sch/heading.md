@@ -1,5 +1,6 @@
-## Schedule
-[Section 2]
+## Schedule — Industrial Lands (Kwinana) Agreement
+[s. 2]
+[Heading amended: No. 19 of 2010 s. 4.]
 AN AGREEMENT under seal made the twenty-fourth day of November 1964 BETWEEN the HONOURABLE DAVID BRAND, M.L.A. Premier and Treasurer of the State of Western Australia acting for and on behalf of the said State and its instrumentalities (hereinafter referred to as “the State”) of the first part BP REFINERY (KWINANA) PROPRIETARY LIMITED a company which is deemed by the BP Refinery (Kwinana) Limited Act 1962 to be incorporated under the Companies Act 1961, which is the assignee of “the Company” referred to in the agreement ratified by the Oil Refinery Industry (Anglo-Iranian Oil Company Limited) Act 1952 (Act No. 1 of 1952) and which has its registered office in the said State at Kwinana (hereinafter referred to as “BP” which term shall include its successors and assigns) of the second part and CSBP & FARMERS LTD. a company incorporated under the Companies Act 1961 and having its registered office at 133 St. George’s Terrace Perth in the said State (hereinafter referred to as “CSBP” which term shall include its successors and assigns) of the third part.
 WHEREAS the parties hereto —
 (a)desire to enter into this Agreement with a view to the establishment and carrying on at Kwinana of —

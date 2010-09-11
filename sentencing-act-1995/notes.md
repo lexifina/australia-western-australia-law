@@ -54,12 +54,12 @@ Criminal Law Amendment (Homicide) Act 2008 Pt. 3 | 29 of 2008 | 27 Jun 2008 | 1 
 Reprint 6: The Sentencing Act 1995 as at 23 Jan 2009 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 54)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 115 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
- | Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
- | Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 46 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Short title | Number and year | Assent | Commencement
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 46 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
 The Fruit Growing Industry (Trust Fund) Act 1941 was repealed by the Fruit Growing Industry (Trust Fund) Repeal Act 1996.
@@ -206,28 +206,40 @@ The Board’s annual report made under section 112 of the Sentence Administratio
 The amendments in the Sentencing Legislation Amendment Act 2004 s. 6(4) erroneously referred to “73(3) and (5)” instead of “75(3) and (5)” when identifying the required amendments to be made to s. 33N(3).
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 59 which purported to replace s. 84E could not be included because s. 84E was not in operation when s. 59 came into operation. S. 59 was subsequently repealed by No. 41 of 2006 s. 74(2).
 The amendments in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 65 that purported to amend s. 84P(3) could not be included because s. 84P(3) was not in operation when s. 65 came into operation. Those amendments were subsequently repealed by No. 41 of 2006 s. 75(2).
-Footnote no longer applicable.
-The Sentencing Amendment (Adjustment of Sentences) Act 2000 (No. 62 of 2000) s. 4-6 commenced on 7 Dec 2000 (see s. 2).
-The Parole and Sentencing Legislation Amendment Act 2006 (No. 41 of 2006) s. 94 commenced on 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867).
-The Parole and Sentencing Legislation Amendment Act 2006 (No. 41 of 2006) s. 74(2) and 75(2) commenced on 22 Sep 2006 (see s. 2(4)(b)).
-The Acts Amendment (Justice) Act 2008 (No. 5 of 2008) s. 109 commenced on 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253).
-The Sentencing Legislation (Transitional Provisions) Amendment Act 2008 (No. 49 of 2008) s. 3, 4 and 5 commenced on 14 Jan 2009.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Sentencing Act 1995 | Schedule 1
 On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 46 had not come into operation. It reads as follows:
 Division 46 — Sentencing Act 1995 amended
 154.Act amended
 This Division amends the Sentencing Act 1995.
 155.Schedule 1 amended
 In Schedule 1 delete the items relating to the Dental Act 1939 and the Medical Practitioners Act 2008.
+Division 47 — State Administrative Tribunal Act 2004 amended
+156.Act amended
+This Division amends the State Administrative Tribunal Act 2004.
+157.Schedule 1 amended
+(1) In Schedule 1:
+(a) delete the items for:
+Chiropractors Act 2005
+Dental Act 1939
+Dental Prosthetists Act 1985
+Medical Practitioners Act 2008
+Nurses and Midwives Act 2006
+Optical Dispensers Act 1966
+Optometrists Act 2005
+Osteopaths Act 2005
+Physiotherapists Act 2005
+Podiatrists Act 2005
+Psychologists Act 2005
+(b) insert in alphabetical order:
+Health Practitioner Regulation National Law (Western Australia)
+(2) In Schedule 1 delete “Pharmacy Act 1964”.
+(3) In Schedule 1 delete the items for:
+Medical Radiation Technologists Act 2006
+Occupational Therapists Act 2005
+The Sentencing Amendment (Adjustment of Sentences) Act 2000 (No. 62 of 2000) s. 4-6 commenced on 7 Dec 2000 (see s. 2).
+The Parole and Sentencing Legislation Amendment Act 2006 (No. 41 of 2006) s. 94 commenced on 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867).
+The Parole and Sentencing Legislation Amendment Act 2006 (No. 41 of 2006) s. 74(2) and 75(2) commenced on 22 Sep 2006 (see s. 2(4)(b)).
+The Acts Amendment (Justice) Act 2008 (No. 5 of 2008) s. 109 commenced on 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253).
+The Sentencing Legislation (Transitional Provisions) Amendment Act 2008 (No. 49 of 2008) s. 3, 4 and 5 commenced on 14 Jan 2009.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

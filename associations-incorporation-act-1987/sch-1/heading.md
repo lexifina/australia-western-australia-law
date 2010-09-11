@@ -1,6 +1,6 @@
-## Schedule 1
-[Section 16]
-## Matters to be provided for in rules of an incorporated association
+## Schedule 1 — Matters to be provided for in rules of an incorporated association
+[s. 16]
+[Heading amended by No. 19 of 2010 s. 4.]
 1.The name of the incorporated association.
 2.The objects or purposes of the incorporated association, including a provision in, or substantially in, the following terms —
 The property and income of the association shall be applied solely towards the promotion of the objects or purposes of the association and no part of that property or income may be paid or otherwise distributed, directly or indirectly, to members of the association, except in good faith in the promotion of those objects or purposes.

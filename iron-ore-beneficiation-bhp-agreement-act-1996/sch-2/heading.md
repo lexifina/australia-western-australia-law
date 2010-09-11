@@ -1,5 +1,6 @@
-## Schedule 2
+## Schedule 2 — First Variation Agreement
 [s. 5]
+[Heading amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 11th day of April 2000.
 B E T W E E N
 THE HONOURABLE RICHARD FAIRFAX COURT B.Com., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part

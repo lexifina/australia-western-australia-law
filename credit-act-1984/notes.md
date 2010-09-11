@@ -23,26 +23,9 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 9 | 28 of
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 44 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 9 and Pt. 3 Div. 2 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+ | Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Repealed by the Strata Titles Act 1985.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Act | Identifier | Title | Shoulder note
-Credit Act 1984 | Schedule 1
-Schedule 2
-Schedule 3
-Schedule 4
-Schedule 5
-Schedule 6
-Schedule 7
+Footnote no longer applicable.
 Now see the Broadcasting Services Act 1992 of the Commonwealth.
 Repealed by the Revenue Laws Amendment and Repeal Act 2004 s. 37(1).
 The Acts Amendment (Credit) Act 1989 s. 5(2) reads as follows:

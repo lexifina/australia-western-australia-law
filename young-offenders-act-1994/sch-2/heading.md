@@ -1,5 +1,6 @@
-## Schedule 2
-[sections 3, 22, 25, 55 and 124]
+## Schedule 2 — Schedule 2 offences
+[s. 3, 22, 25, 55 and 124]
+[Heading amended by No. 19 of 2010 s. 4.]
 Offences —
 ·for which a caution cannot be given, and
 ·which cannot be referred to a juvenile justice team, and

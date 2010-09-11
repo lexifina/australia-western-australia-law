@@ -1,5 +1,6 @@
-## Schedule
-[section 3(1)]
+## Schedule — Tailings Treatment (Kalgoorlie) Agreement
+[s. 3(1)]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made this 6th day of June 1988 BETWEEN THE HONOURABLE PETER M’CALLUM DOWDING, LL.B., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and MULGA MINES PTY. LTD. a company incorporated in Victoria and having its principal place of business in Western Australia at 41 Dugan Street, Kalgoorlie and WESTERN AUSTRALIAN MINT, a body corporate established under section 7 of the Western Australian Mint Act 1970 and trading under the business name “Westmill” and having its principal office at 310 Hay Street, East Perth (hereinafter collectively called “the Joint Venturers” in which term shall be included their respective successors and permitted assigns) of the other part.
 WHEREAS:
 (a)Mulga Mines Pty. Ltd. has applied pursuant to clause 7 of the Second Schedule to the Mining Act 1978 for renewal of licences to remove and treat tailings numbers 26/139, 26/140, 26/146, 26/147, 26/148, 26/149, 26/151, 26/161, 26/163, 26/164, 26/183, 26/223 and 26/224 (hereinafter called “the LTTs”);

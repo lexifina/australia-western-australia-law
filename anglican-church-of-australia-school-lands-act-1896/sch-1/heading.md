@@ -1,5 +1,6 @@
-## First Schedule
-[S. 5(2)(a)]
+## First Schedule — Land
+[s. 5(2)(a)]
+[Heading amended by No. 19 of 2010 s. 4.]
 The land referred to in section 5(2)(a) comprises the pieces of land the subject of the following respective Certificates of Title —
 Certificate of Title
 Volume | Folio |  | Volume | Folio |  | Volume | Folio

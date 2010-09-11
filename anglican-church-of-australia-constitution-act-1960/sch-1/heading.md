@@ -1,4 +1,6 @@
-## First Schedule
+## First Schedule — Constitution
+[Preamble]
+[Heading amended by No. 19 of 2010 s. 4.]
 THE CONSTITUTION OF THE ANGLICAN CHURCH OF AUSTRALIA
 PART I
 Chapter I — Fundamental Declarations

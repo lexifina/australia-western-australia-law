@@ -1,5 +1,6 @@
-## First Schedule
-[Section 33(4)]
+## First Schedule — Carriage for which commercial goods vehicle licence not required
+[s. 33(4)]
+[Heading amended by No. 19 of 2010 s. 4.]
 For the purposes of this Schedule a vehicle shall not be regarded as being owned by the producer of the goods being carried unless —
 (a) where the vehicle is owned by a natural person, that person is the producer of the goods being carried on the vehicle or is operating the vehicle for, or on behalf of, another person who is the producer of the goods being carried under a bona fide agreement or arrangement that relates to the production of the goods and not only to the transport thereof;
 (b) where the vehicle is owned by more than 1 person, those persons are bona fide the producers of the goods being carried;

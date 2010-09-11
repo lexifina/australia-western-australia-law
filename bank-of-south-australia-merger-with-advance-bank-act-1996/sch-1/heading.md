@@ -1,5 +1,6 @@
-## Schedule 1
-[Section 3]
+## Schedule 1 — South Australian Act
+[s. 3]
+[Heading amended: No. 19 of 2010 s. 4.]
 BANK MERGER (BANKSA AND ADVANCE BANK) ACT 1996
 No. 41 of 1996
 SUMMARY OF PROVISIONS

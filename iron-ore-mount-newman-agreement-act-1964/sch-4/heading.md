@@ -1,76 +1,130 @@
-## Third Schedule
-THIS AGREEMENT made the 9th day of May One thousand nine hundred and seventy nine BETWEEN THE HONOURABLE SIR CHARLES WALTER MICHAEL COURT, K.C.M.G., O.B.E., M.L.A., Premier of the State of Western Australia acting for and on behalf of the said State and instrumentalities thereof from time to time (hereinafter called “the State”) of the First Part AMAX IRON ORE CORPORATION a company incorporated in the State of Delaware in the United States of America and registered in the State of Western Australia as a foreign company (hereinafter called “Amax Iron”) PILBARA IRON LIMITED a company incorporated in the State of Western Australia (hereinafter called “Pilbara”) DAMPIER MINING COMPANY LIMITED a company incorporated in the State of Western Australia (hereinafter called “Dampier”) SELTRUST IRON ORE LIMITED a company incorporated in England and registered in the State of Western Australia as a foreign company (hereinafter called “Seltrust Iron”) and MITSUI-C. ITOH IRON PTY LTD a company incorporated in the State of Western Australia (hereinafter called “Mitsui Iron”) of the Second Part and MT. NEWMAN IRON ORE COMPANY LIMITED a company incorporated in the State of Western Australia (hereinafter called “the Mt. Newman Company”) of the Third Part.
+## Fourth Schedule — Third Variation Agreement
+[s. 2]
+[Heading amended by No. 19 of 2010 s. 4.]
+THIS AGREEMENT is made the 12th day of July 1990 BETWEEN: THE HONOURABLE CARMEN MARY LAWRENCE, B.Psych., Ph.D., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and instrumentalities thereof from time to time (hereinafter called “the State”) of the one part AND PILBARA IRON LIMITED a company incorporated in the State of Western Australia, BHP MINERALS LIMITED a company incorporated in the State of Western Australia, MITSUI-C. ITOH IRON PTY. LTD. a company incorporated in the State of Western Australia and CI MINERALS AUSTRALIA PTY. LTD. a company incorporated in the State of Western Australia of the other part.
 WHEREAS:
-(a)By an agreement under seal made the 26th day of August, 1964 BETWEEN the State of the one part and the Mt. Newman Company of the other part (which agreement was approved by and is scheduled to the Iron Ore (Mount Newman) Agreement Act 1964 and is hereinafter referred to as “the 1964 agreement”) the Mt. Newman Company acquired upon the terms and conditions set forth in the 1964 agreement certain rights interests and benefits and assumed certain obligations with respect to the exploration for and development of specified iron ore deposits and the mining transportation processing and shipment of iron ore therefrom.
-(b)By virtue of various agreements under seal Amax Iron Pilbara Dampier Seltrust Iron and Mitsui Iron became entitled to all the right title interest claim and demand whatsoever of the Mt. Newman Company in and under the 1964 agreement and by virtue of certain Deeds of Covenant with the State assumed the obligations of the Mt. Newman Company thereunder.
-(c)By an agreement under seal made the 16th of November, 1967 between the State of the first part and Amax Iron Pilbara Dampier Seltrust Iron and Mitsui Iron of the second part and the Mt. Newman Company of the third part (which is scheduled to the Iron Ore (Mount Newman) Agreement Act Amendment Act 1967 and is hereinafter referred to as “the first variation agreement”) the parties thereto varied the agreement as therein set out.
-(d)The parties desire to add to and amend the provisions of the 1964 agreement as amended by the first variation agreement (hereinafter referred to as “the Principal Agreement”).
-NOW THIS AGREEMENT WITNESSETH:
-1.Subject to the context the words and expressions used in this Agreement have the same meanings respectively as they have in and for the purpose of the Principal Agreement.
-2.The provisions of this agreement shall not come into operation unless and until a Bill to approve and ratify this agreement is passed by the legislature of the State and comes into operation as an Act.
-3.The Principal Agreement is hereby varied as follows:
-(1)As to clause 1 —
-(a)by adding after the definition “harbour” the following definition —
-“housing scheme” means any scheme to be established by the Company from time to time pursuant to any proposal approved hereunder or any approved proposal as varied pursuant to subclause (3) of clause 20 hereof in relation to a townsite or townsites for the sale to employees engaged in the operations of the Company under this Agreement of lots of land whether improved or unimproved within or near such townsite or townsites;
-(b)by substituting for the passage “in lieu of a townsite constituted and defined under section 10 of the Land Act;” in lines 11 and 12 of the definition of “townsite”, the following passage —
-“(whether or not such townsite or townsites are constituted and defined under section 10 of the Land Act);”; and
-(c)by adding after the definition “Year 1” the following passage —
-“reference in this Agreement to the Company shall not include persons (other than the parties to this Agreement) to whom townsite lots are or are by agreement with the Company agreed to be assigned or transferred pursuant to a housing scheme;”;
-(2)by adding after clause 6 two new clauses 6A and 6B as follows —
-Additional proposals
-6A.(1)The Company may submit to the Minister from time to time detailed proposals relating to —
-(a)any housing scheme;
-(b)the transfer to the State or the appropriate instrumentality of the State of any facility owned and/or operated by the Company hereunder;
-(c)the vesting in, transfer or lease to the State and/or the relevant local authority of any land of which the Company is the lessee or proprietor in fee simple hereunder; or
-(d)any other purpose relating to the use maintenance or operation of the Company’s services or facilities in or near a townsite as the Minister shall approve.
-(2)The provisions of subclause (1) of clause 6 and subclause (1) of clause 7 of this Agreement shall mutatis mutandis apply to proposals submitted pursuant to subclause (1) of this clause. Provided that in the event of arbitration the decision of the arbitrator, arbitrators or umpire (as the case may be) shall be final and shall be accepted and given effect to by the parties and the provisions of subclause (1) of clause 6 dealing with cessation and determination of this Agreement shall not apply. The proposals modified or altered in accordance with the award on arbitration shall be deemed approved on the date of delivery of the award.
-(3)The Company shall implement the approved proposals in accordance with the terms thereof.
-Authorisation of local authority and certain Ministers to enter agreements
-6B.Where pursuant to any approved proposal as to any of the matters referred to in clause 6A hereof or as varied pursuant to subclause (3) of clause 20 hereof provision is made for the relevant local authority consistent with its functions as a local authority to enter into and carry out any agreement with the Company and/or for the Minister or respective Ministers administering the Country Areas Water Supply Act 1947 and the Country Towns Sewerage Act 1948 to enter into and carry out any agreement with the Company —
-(a)the Local Government Act 1960 and/or the Country Areas Water Supply Act 1947 and the Country Towns Sewerage Act 1948 shall for the purposes of implementing such approved proposals be deemed to be modified by the inclusion of a power whereby such relevant local authority and/or Minister or Ministers are authorised and empowered to enter into and carry out any such agreement; and
-(b)the relevant local authority and such Minister or Ministers may enter into and carry out any such agreement notwithstanding the other provisions of this Agreement.;
-(3)as to clause 8 —
-(a)as to paragraph (b) of subclause (1) by adding after the word “hereof” in line 3 the following passage —
-“or under clause 6A hereof or as varied from time to time pursuant to subclause (3) of clause 20 hereof”;
-(b)as to subclause (2) —
-(i)by deleting the word “and” in line 4 of paragraph (e);
-(ii)by substituting for the passage “Act.” in line 9 of paragraph (f) the passage “Act;”; and
-(iii)by adding after paragraph (f) the following paragraphs —
-“(g)the inclusion of a power whereby any special lease granted to the Company hereunder may be varied by agreement or surrendered in whole or in part; and
-(h)the inclusion of a power whereby any land granted or leased to the Company hereunder may be —
-(i)acquired by the State or any instrumentality of the State from the Company by way of transfer or exchange; or
-(ii)leased or subleased by the Company to the State or any instrumentality of the State.”;
-(c)by adding after subclause (3) a new subclause (3A) as follows —
-“(3A)Notwithstanding the provisions of the Land Act, if proposals approved hereunder so provide, the Minister for Lands shall not at any time put up for sale or lease to persons other than the Company 30 or more lots of land as a single release within the deposits townsite without first consulting with the Company for the purpose of ensuring that provision has been made for the Company’s future development requirements pursuant to this Agreement.”;
-(d)as to paragraph (b) of subclause (4) by substituting for the words “nor any of the lands the subject of any lease or license granted to the Company in terms of” in lines 10, 11 and 12 the words “nor any lands for the time being owned by the Company in fee simple hereunder or under any lease or license issued pursuant to”; and
-(e)by substituting for the words “granted or assigned” in line 2 of subclause (6) the words “held by the Company”;
-(4)as to clause 10 —
-(a)as to paragraph (a) by substituting for the passage “1945;” at the end of the paragraph, the passage “1945 PROVIDED HOWEVER that such powers and authorities shall be modified from time to time to accord with proposals approved under clause 6A hereof (including any variation thereto pursuant to subclause (3) of clause 20 hereof);”;
-(b)as to paragraph (d) by substituting for the passage “Agreement;” at the end of paragraph (i) the following passage —
-“Agreement PROVIDED that this subparagraph shall not apply to townsite lots which have been granted to or acquired by the Company for the purposes of a housing scheme unless such lots are then owned by the Company;”; and
-(c)as to paragraph (g) —
-(i)by substituting for the words “granted to” in line 3 the words “held by”; and
-(ii)by adding after the words “this Agreement” in line 3 the words “or in respect of which the Company has any right to purchase pursuant to a housing scheme”;
-(5)as to clause 16A by adding after the word “Company” in line 7 of subclause (1) the words “other than assignees of the Company under a housing scheme”;
-(6)as to clause 19 by adding after subclause (2) two new subclauses (3) and (4) as follows —
-“(3)Where in respect of any land acquired by the Company hereunder the Company makes any disposition pursuant to any approved proposal as to any of the matters referred to in clause 6A hereof or as varied pursuant to subclause (3) of clause 20 hereof, then notwithstanding the provisions of subclause (1) of this Clause but subject to any contrary intention contained in any such approved proposal, the consent in writing of the Minister shall not be required to any such disposition nor shall any assignee from the Company be required to enter into a deed of covenant as provided in subclause (1) of this clause.
-(4)Notwithstanding subclause (2) of this clause, where in the performance of its obligations under subclause (3) of clause 6A hereof the Company enters into any agreement with a person which results in that person discharging all or any of the obligations undertaken by the Company under this Agreement or renders it unnecessary for the Company to discharge any obligation undertaken by it hereunder the Minister will discharge or temporarily relieve the Company from such part of its said obligations as is reasonable having regard to the extent to which and the period for which that person agrees to effect the discharge of those obligations.”; and
-(7)by adding after clause 26 a new clause 26A as follows —
-Further exemption from stamp duty
-26A(1)The State shall exempt from any stamp duty which but for the operation of this clause would or might be chargeable on —
-(a)any agreement transfer or other instrument evidencing the sale or transfer to the Company from the Rural and Industries Bank of Western Australia of any townsite lot pursuant to any housing scheme;
-(b)any agreement transfer or other instrument evidencing the sale or transfer of any lot in fee simple in the deposits townsite or the town of Port Hedland from the Company to any employee or to the Company from any such employee or former employee (as the case may be) pursuant to any housing scheme; and
-(c)any mortgage to the Company from any employee in respect of any land the subject of a transfer from the Company to any such employee,
-PROVIDED THAT this clause shall not apply to any such agreement transfer mortgage or other instrument executed or made more than 10 years from the 1st day of June, 1979.
-(2)For the purposes of paragraphs (b) and (c) of subclause (1) of this clause the expression “employee” means any person engaged in the operations of the Company under this Agreement and employed by the Company or by Mt. Newman Mining Co. Pty. Limited (or other manager for the time being of the operations of the Company hereunder) and shall for the purposes of any transfer pursuant to paragraph (b) of subclause (1) of this clause include the legal personal representatives of any such person.
-IN WITNESS whereof these presents have been executed the day and year first hereinbefore written.
-SIGNED by the said THE HONOURABLE SIR CHARLES WALTER MICHAEL COURT, K.C.M.G., O.B.E., M.L.A., in the presence of — |  | CHARLES COURT.
-ANDREW MENSAROS,
-MINISTER FOR INDUSTRIAL DEVELOPMENT.
-Executed by AMAX IRON ORE CORPORATION by being signed in Western Australia by its duly appointed Attorney Donald L. Davenport under Power of Attorney dated 25th April, 1979 in the presence of — JOHN GALE. |  | DONALD L. DAVENPORT.
-Executed by PILBARA IRON LIMITED by being signed in Western Australia by its duly appointed Attorneys Colin Russell Leith and John McKenzie Middleton under Power of Attorney dated 24th April, 1979 in the presence of — Norman Leslie Smithson. |  | C. R. LEITH. J. M. MIDDLETON.
-Executed by DAMPIER MINING COMPANY LIMITED by being signed in Western Australia by its duly appointed Attorney Norman Leslie Smithson under Power of Attorney dated 2nd May, 1979 in the presence of — Raymond John Smith. |  | N. L. SMITHSON.
-Executed for and on behalf of SELTRUST IRON ORE LIMITED by being signed in Western Australia by its duly authorised representative Gordon MacEwan Smith in the presence of — Thomas McLean. |  | G. M. SMITH.
-THE COMMON SEAL of MITSUI-C. ITOH IRON PTY. LTD. was hereunto affixed with the authority of the Board of Directors in the presence of — Director, K. Eguchi. Secretary, J. N. Mackenzie. |  | [C.S.]
-Executed by MT. NEWMAN IRON ORE COMPANY LIMITED by being signed in Western Australia by its duly appointed Attorney Norman Leslie Smithson under Power of Attorney dated 3rd May, 1979 in the presence of — Raymond John Smith. |  | N. L. SMITHSON.
-[Third Schedule inserted by No. 12 of 1979 s. 5.]
+(a)the State and the other parties hereto (pursuant to certain assignments and Deeds of Covenant and the release of Mt. Newman Iron Ore Company Limited pursuant to clause 19(2) of the Principal Agreement as hereinafter defined) are now the parties to the agreement dated the 26th day of August 1964 (hereinafter called “the 1964 Agreement”) which agreement was approved by and is scheduled to the Iron Ore (Mount Newman) Agreement Act 1964 and has been varied by —
+(i)the agreement dated the 16th day of November 1967 approved by the Iron Ore (Mount Newman) Agreement Act Amendment Act;
+(ii)the agreement dated the 9th day of May 1979 approved by the Iron Ore (Mount Newman) Agreement Act Amendment Act 1979;
+(iii)agreements dated respectively the 11th day of December 1985 and the 27th day of January 1987 entered into pursuant to clause 20(1) of the 1964 Agreement;
+(b)the 1964 Agreement as so varied is hereinafter referred to as “the Principal Agreement”;
+(c)the parties desire to amend the Principal Agreement pursuant to clause 20(1) thereof.
+NOW THIS AGREEMENT WITNESSETH —
+1.Subject to the context the words and expressions used in this Agreement have the same meanings respectively as they have in and for the purposes of the Principal Agreement.
+2.The provisions of this Agreement shall not come into operation until a Bill to approve and ratify this Agreement is passed by the Legislature of the State of Western Australia and comes into operation as an Act.
+3.The Principal Agreement is hereby varied as follows —
+(1)Clause 1 —
+(a)by deleting the definitions of “direct shipping ore”, “fine ore”, “fines” and “f.o.b. revenue”;
+(b)by inserting, in the appropriate alphabetical positions, the following definitions —
+““agreed or determined” means agreed between the Company and the Minister or, failing agreement within three months of the Minister giving notice to the Company that he requires the value of a quantity of iron ore to be agreed or determined, as determined by the Minister and in agreeing or determining a fair and reasonable market value of such iron ore assessed at an arm’s length basis the Company and/or the Minister as the case may be shall have regard to prevailing markets and prices for that type of iron ore both outside and within the Commonwealth and where prices beyond the deemed f.o.b. point are being considered the deductions mentioned in the definition of f.o.b. value;
+“beneficiated ore” means iron ore which has been concentrated or upgraded otherwise than by washing drying crushing or screening or a combination thereof;
+“deemed f.o.b. point” means on ship at the Company’s wharf;
+“deemed f.o.b. value” means an agreed or determined value of the iron ore at the time the iron ore becomes liable to royalty established on the basis that the iron ore was sold f.o.b. at the deemed f.o.b. point;
+“fine ore” means iron ore (not being beneficiated ore) which is sized minus six millimetres;
+“f.o.b. value” means —
+(i)in the case of iron ore shipped and sold by the Company, the price which is payable for the iron ore by the purchaser thereof to the Company or an associated company or, where the Minister is not satisfied that the price payable in respect of the iron ore represents a fair and reasonable market value for that type of iron ore assessed at an arm’s length basis, such amount as is agreed or determined, less all export duties and export taxes payable to the Commonwealth on the export of the iron ore and all costs and charges properly incurred and payable by the Company from the time the iron ore shall be placed on ship at the Company’s wharf to the time the same is delivered and accepted by the purchaser including — A
+(1)ocean freight;
+(2)marine insurance;
+(3)port and handling charges at the port of discharge;
+(4)all costs properly incurred in delivering the iron ore from port of discharge to the smelter and evidenced by relevant invoices;
+(5)all weighing sampling assaying inspection and representation costs;
+(6)all shipping agency charges after loading on and departure of ship from the Company’s wharf;
+(7)all import taxes by the country of the port of discharge; and
+(8)such other costs and charges as the Minister may in his discretion consider reasonable in respect of any shipment or sale;
+(ii)in all other cases, the deemed f.o.b. value. For the purpose of subparagraph (i) of this definition, it is acknowledged that the consideration payable in an arm’s length transaction for iron ore sold solely for testing purposes may be less than the fair and reasonable market value for that iron ore and in this circumstance where the Minister in his discretion is satisfied such consideration represents the entire consideration payable, the Minister shall be taken to be satisfied that such entire consideration represents the fair and reasonable market value;
+“iron ore” includes beneficiated ore;
+“lump ore” means iron ore (not being beneficiated ore) which is sized plus six millimetres minus thirty millimetres;
+“washing” means a process of separation by water using only size as a criterion; ”;
+(c)in the definition of “associated company”, by deleting “section 6 of the Companies Act 1961” and substituting the following —
+“section 7 of the Companies (Western Australia) Code”;
+(d)in the definition of mineral lease, by inserting after “thereof” the following —
+“and any areas included therein pursuant to clause 9A hereof ”.
+(2)Clause 8(1)(b) —
+(a)in the first proviso, by deleting “and iron ore concentrates which become” and substituting the following —
+“which becomes”;
+(b)in the second proviso, by deleting “sub-section (5) of Section 6 of the Companies Act 1961 of the State” and substituting the following —
+“section 7 of the Companies (Western Australia) Code”.
+(3)Clause 9(2)(e) —
+by deleting “sub-section (5) of section 6 of the Companies Act 1961 of the State” and substituting the following —
+“section 7 of the Companies (Western Australia) Code”.
+(4)Clause 9(2)(j) —
+by deleting paragraph (j) of clause 9(2) and substituting the following paragraph —
+“(j) pay to the State royalty on all iron ore from the mineral lease (other than iron ore shipped solely for testing purposes and in respect of which no purchase price or other consideration is payable or due) as follows —
+(i)on lump ore and on fine ore where such fine ore is not sold or shipped separately as such at the rate of 7.5% of the f.o.b. value except that the rate of royalty in respect of lump ore used within the Commonwealth by B.H.P. or A.I.S. or any company or companies related to B.H.P. or A.I.S. within the meaning of section 7 of the Companies (Western Australia) Code for manufacture into iron or steel and becoming liable for royalty during the period from and including 1st July 1989 to and including 31st December 1990 shall be —
+(A)during the period 1st July 1989 to 31st December 1989, 5% of the f.o.b. value; and
+(B)during the calendar year 1990, 6.25% of the f.o.b. value;
+(ii)on fine ore sold or shipped separately as such at the rate of 3.75% of the f.o.b. value;
+(iii)on beneficiated ore at the rate of 3.25% of the f.o.b. value;
+(iv)on all other iron ore of whatever kind at the rate of 7.5% of the f.o.b. value;”.
+(5)Clause 9(2)(k) —
+(a)by deleting “all iron ore or iron ore concentrates the subject of royalty hereunder and shipped sold used or produced” and substituting the following —
+“all beneficiated ore produced and all other iron ore the subject of royalty hereunder and shipped sold transferred or otherwise disposed of or used”;
+(b)by deleting “of iron ore concentrates produced or iron ore used and in respect of all iron ore shipped or sold” and substituting the following —
+“thereof or if the f.o.b. value is not then finally calculated, agreed or determined”;
+(c)by inserting after “of such iron ore” the following —
+“or on the basis of estimates as agreed or determined”;
+(d)by deleting “f.o.b. revenue realised in respect of the shipments shall have been ascertained” and substituting the following —
+“f.o.b. value shall have been finally calculated, agreed or determined”.
+(6)Clause 9(2)(n) —
+(a)by inserting after “the Company” where it first occurs the following —
+“including contracts”;
+(b)deleting “f.o.b. revenue payable in respect of any shipment of iron ore hereunder the Company will take reasonable steps” and substituting the following —
+“f.o.b. value in respect of any shipment sale transfer or other disposal or use or production of iron ore hereunder the Company will take reasonable steps (i) to provide the Minister with current prices for iron ore outside and within the Commonwealth and other details and information that may be required by the Minister for the purpose of agreeing or determining the f.o.b. value and (ii)”;
+(c)by deleting “hereunder; and” and substituting the following —
+“hereunder.”.
+(7)By deleting clause 9(2)(o).
+(8)By inserting after clause 9 the following clause —
+Additional areas
+“9A.(1)Notwithstanding the provisions of the Mining Act or the Mining Act 1978 the Company may on or before the 1st day of October, 1990 (or such later date as the parties may agree) apply to the Minister for Mines for inclusion in the mineral lease of such of the land coloured red on the plan marked ‘B’ (initialled by or on behalf of the parties hereto for the purpose of identification) as the Company at the time of such application holds under exploration licences granted under the Mining Act 1978 and the Minister for Mines shall, subject to the Company surrendering from the mineral lease the land coloured red on the plan marked ‘C’ (initialled by or on behalf of the parties hereto for the purpose of identification) and the lands so applied for out of the exploration licences, include the land so applied for (herein after called “the additional areas”) in the mineral lease by endorsement on the mineral lease subject to such of the conditions of the surrendered exploration licences as the Minister for Mines determines but otherwise subject to the same terms covenants and conditions as apply to the mineral lease (with such apportionment of rents as is necessary) and notwithstanding that the survey of the additional areas has not been completed but subject to correction to accord with the survey when completed at the Company’s expense.
+(2)The Company shall not mine the additional areas except in accordance with proposals with respect thereto approved or determined pursuant to subclauses (3) to (10) of this clause.
+(3)If and whenever the Company desires to mine the additional areas it shall submit to the Minister to the fullest extent reasonably practicable its detailed proposals (which proposals shall include plans where practicable and specifications where reasonably required by the Minister) with respect to the mining of iron ore from the additional areas and shall include the location, area, layout, design, quantities, materials and time programme for the commencement and completion of construction or the provision (as the case may be) of each of the following matters, namely —
+(a)the mining and recovery of iron ore including mining crushing screening handling transport and storage of iron ore and plant facilities;
+(b)roads;
+(c)housing and accommodation for the persons engaged in the development and/or mining of the additional areas and associated activities including the provision of utilities, services and associated facilities;
+(d)water supply;
+(e)power supply;
+(f)iron ore transportation;
+(g)airstrip and other airport facilities and services;
+(h)any other works, services or facilities desired by the Company;
+(i)use of local labour professional services manufacturers suppliers contractors and materials and measures to be taken with respect to the engagement and training of employees by the Company its agents and contractors;
+(j)any leases licences or other tenures of land required from the State; and
+(k)an environmental management programme as to measures to be taken, in respect of the Company’s activities at additional areas, for rehabilitation and the protection and management of the environment.
+(4)The proposals pursuant to subclause (3) of this clause may with the approval of the Minister be submitted separately and in any order as to the matter or matters mentioned in one or more of paragraphs (a) to (k) of that subclause.
+(5)On receipt of the said proposals the Minister shall subject to the Environmental Protection Act 1986 —
+(a)approve of the said proposals either wholly or in part without qualification or reservation; or
+(b)defer consideration of or decision upon the same until such time as the Company submits a further proposal or proposals in respect of some other of the matters mentioned in subclause (3) of this clause not covered by the said proposals; or
+(c)require as a condition precedent to the giving of his approval to the said proposals that the Company makes such alteration thereto or complies with such conditions in respect thereto as he (having regard to the circumstances including the overall development of and the use of other parties as well as the Company of all or any of the facilities proposed to be provided) thinks reasonable and in such a case the Minister shall disclose his reasons for such conditions
+PROVIDED ALWAYS that where implementation of any proposals hereunder has been approved pursuant to the Environmental Protection Act 1986 subject to conditions or procedures, any approval or decision of the Minister under this clause shall if the case so requires incorporate a requirement that the Company make such alterations to the proposals as may be necessary to make them accord with those conditions or procedures.
+(6)The Minister shall within two months after receipt of the said proposals or, if applicable, within two months of service on him of an authority under section 45(7) of the Environmental Protection Act 1986 give notice to the Company of his decision in respect of the same.
+(7)If the decision of the Minister is as mentioned in either of paragraphs (b) or (c) of subclause (5) of this clause the Minister shall afford the Company full opportunity to consult with him and should it so desire to submit new or revised proposals either generally or in respect of some particular matter.
+(8)If the decision of the Minister is as mentioned in either of paragraphs (b) or (c) of subclause (5) of this clause and the Company considers that the decision is unreasonable the Company within two months after receipt of the notice mentioned in subclause (6) of this clause may elect to refer to arbitration in the manner hereinafter provided the question of the reasonableness of the decision PROVIDED THAT any requirement of the Minister pursuant to the proviso to subclause (5) of this clause shall not be referable to arbitration hereunder.
+(9)The Company may withdraw its proposals submitted pursuant to subclause (3) of this clause at any time before approval thereof or, where any decision of the Minister in respect thereof is referred to arbitration, within 3 months after the award by notice to the Minister that it shall not be proceeding with the proposed mining of the additional areas.
+(10)The Company shall implement the proposals as approved by the Minister or an award made on arbitration (where the proposals are not withdrawn) as the case may be in accordance with the terms thereof and in such implementation shall comply with all requirements in connection with the protection of the environment that may be made by the State or by any State agency or instrumentality or any local or other authority or statutory body of the State pursuant to any Act from time to time in force.
+(11)(a)If the Company at any time during the continuance of this Agreement desires to significantly modify expand or otherwise vary its activities at the additional areas beyond those specified in any proposals approved or determined under this clause it shall give notice of such desire to the Minister and if required by the Minister within two months of the giving of such notice shall submit to the Minister within such period as the Minister may reasonably allow (but in any event not less than two months) detailed proposals in respect of all matters covered by such notice and such of the other matters mentioned in paragraphs (a) to (k) of subclause (3) of this clause as the Minister may require. The provisions of subclauses (4) to (9) of this clause shall mutatis mutandis apply to detailed proposals submitted pursuant to this subclause. The Company shall implement the proposals as approved by the Minister or an award made on arbitration as the case may be in accordance with the terms thereof and the provisions of subclause (10) of this clause.
+(b)If the Minister does not require the Company to submit proposals under paragraph (a) of this subclause the Company may, subject to compliance with all applicable laws, proceed with the modification expansion or variation of its activities the subject of the notice to the Minister under that paragraph.
+(12)(a)The Company shall, in respect of the matters referred to in paragraph (k) of subclause (3) of this clause and which are the subject of proposals approved or determined under this clause carry out with effect from such date of approval or determination a continuous programme including monitoring to ascertain the effectiveness of the measures it is taking pursuant to such proposals for rehabilitation and the protection and management of the environment and shall as and when reasonably required by the Minister from time to time (but not more frequently than once in every twelve months) submit to the Minister a detailed report thereon.
+(b)Whenever as a result of its monitoring under paragraph (a) of this subclause or otherwise reliable information becomes available to the Company which in order to more effectively rehabilitate, protect or manage the environment may necessitate or could require any changes or additions to any proposals approved or determined under this clause or require matters not addressed in any such proposals to be addressed the Company shall forthwith notify the Minister thereof and with such notification shall submit a detailed report thereon.
+(c)The Minister may within two (2) months of the receipt of a detailed report pursuant to paragraphs (a) or (b) of this subclause notify the Company that he requires additional detailed proposals to be submitted in respect of all or any of the matters the subject of the report and such other reasonable matters as the Minister may require in connection therewith.
+(d)The Company shall within two months of the receipt of a notice given pursuant to paragraph (c) of this subclause submit to the Minister additional detailed proposals as required and the provisions of subclauses (5), (6), (7), (8), (10) and (11) of this clause and this subclause shall mutatis mutandis apply in respect of such proposals.
+(13)The Company shall, in respect of its activities at the additional areas in lieu of the provisions of clause 9(2)(i) of this Agreement —
+(a)except in those cases where the Company can demonstrate it is impracticable so to do, use labour available within Western Australia or if such labour is not available then, except as aforesaid, use labour otherwise available within Australia;
+(b)as far as it is reasonable and economically practicable so to do, use the services of engineers surveyors architects and other professional consultants experts and specialists, project managers, manufacturers, suppliers and contractors resident and available within Western Australia or if such services are not available within Western Australia then, as far as practicable as aforesaid, use the services of such persons otherwise available within Australia;
+(c)during design and when preparing specifications calling for tenders and letting contracts for works materials plant equipment and supplies (which shall at all times, except where it is impracticable so to do, use or be based upon Australian Standards and Codes) ensure that Western Australian and Australian suppliers manufacturers and contractors are given fair and reasonable opportunity to tender or quote;
+(d)give proper consideration and where possible preference to Western Australian suppliers manufacturers and contractors when letting contracts or placing orders for works, materials, plant, equipment and supplies where price quality delivery and service are equal to or better than that obtainable elsewhere or, subject to the foregoing, give that consideration and where possible preference to other Australian suppliers manufacturers and contractors;
+(e)if notwithstanding the foregoing provisions of this subclause a contract is to be let or an order is to be placed with other than a Western Australian or Australian supplier, manufacturer or contractor, give proper consideration and where possible preference to tenders arrangements or proposals that include Australian participation;
+(f)except as otherwise agreed by the Minister in every contract entered into with a third party for the supply of services labour works materials plant equipment and supplies require as a condition thereof that such third party shall undertake the same obligations as are referred to in paragraphs (a)-(e) of this subclause and shall report to the Company concerning such third party’s implementation of that condition;
+(g)submit a report to the Minister at monthly intervals or such longer period as the Minister determines concerning its implementation of the provisions of this subclause together with a copy of any report received by the Company pursuant to paragraph (f) of this subclause during that month or longer period as the case may be PROVIDED THAT the Minister may agree that any such reports need not be provided in respect of contracts of such kind or value as the Minister may from time to time determine; and
+(h)keep the Minister informed on a regular basis as determined by the Minister from time to time or otherwise as required by the Minister during the currency of this Agreement of any services (including any elements of the project investigations design and management) and any works materials plant equipment and supplies that it may be proposing to obtain from or have carried out or permit to be obtained from or carried out outside Australia together with its reasons therefor and shall as and when required by the Minister consult with the Minister with respect thereto.
+(14)The Company shall be responsible for the provision at no cost to the State of suitable accommodation for its employees and the dependants of its employees and for other persons (and dependants of those persons) engaged in the development and/or mining of the additional areas and associated activities.
+(15)The Company shall except as otherwise agreed by the Minister pay to the State or the appropriate authority the capital cost of establishing and providing additional services and facilities and associated equipment including sewerage and water supply schemes, main drains, education, police and hospital services in Newman to the extent to which those additional works and services are made necessary by reason of the persons (and their dependants) engaged in the development and/or mining of the additional areas and associated activities residing therein or by reason of the Company’s activities in relation to the additional areas or such proportion of any such cost as may be agreed by the Minister taking into account the permanent or temporary nature of the services or facilities. The additional services, works and associated equipment referred to in this subclause shall be provided by the State (or the State shall cause the same to be provided) to a standard normally adopted by the State in providing new services works and associated equipment in similar cases in comparable towns.
+(16)The Company shall confer with the Minister and the relevant local authority with a view to assisting in the cost of providing at Newman appropriate community recreation, civic, social and commercial amenities if required by reason of the development and/or mining of the additional areas and associated activities.”.
+(9)Clause 24 —
+by deleting “Arbitration Act 1895” and substituting the following —
+“Commercial Arbitration Act 1985 and notwithstanding section 20(1) of that Act each party may be represented by a duly qualified legal practitioner or other representative”.
+IN WITNESS WHEREOF this Agreement has been executed by or on behalf of the parties hereto the day and year first hereinbefore mentioned.
+SIGNED by the said THE HONOURABLE CARMEN MARY LAWRENCE, B.Psych., Ph.D., M.L.A. in the presence of: J. M. BERINSON Minister for Resources |  | CARMEN LAWRENCE
+THE COMMON SEAL of PILBARA IRON LIMITED was hereunto affixed by authority of the Board of Directors: Director D. F. COLLINS Secretary ADA LIAN DAVIES |  | [C.S.]
+THE COMMON SEAL of BHP MINERALS LIMITED was hereunto affixed by authority of the Board of Directors: Director D. J. WOOD Secretary G. J. HEATH |  | [C.S.]
+THE COMMON SEAL of MITSUI-C. ITOH IRON PTY. LTD. was hereunto affixed by authority of the Board of Directors in the presence of: Director T. SUZUKI Secretary J. MacKENZIE |  | [C.S.]
+THE COMMON SEAL of CI MINERALS AUSTRALIA PTY. LTD. was hereunto affixed by authority of the Board of Directors in the presence of: Director M. YAMAMOTO Secretary M. L. APPLEBEE |  | [C.S.]
+[Fourth Schedule inserted by No. 51 of 1990 s. 6.]

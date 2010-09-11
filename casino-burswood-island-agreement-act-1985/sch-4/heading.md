@@ -1,5 +1,6 @@
-## Schedule 4
-(Section 3)
+## Schedule 4 — Seventh Supplementary Agreement
+[s. 3]
+[Heading amended by No. 19 of 2010 s. 4.]
 CASINO (BURSWOOD ISLAND) AGREEMENT
 SEVENTH SUPPLEMENTARY AGREEMENT
 THIS AGREEMENT made the ninth day of June 1997

@@ -10,16 +10,10 @@ Forrest Place and City Station Development Amendment Act 1995 | 6 of 1995 | 24 M
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Acts Amendment (Land Administration) Act 1997 Pt. 27 and s. 141 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
 Perth Parking Management (Consequential Provisions) Act 1999 s. 7(2) | 16 of 1999 | 19 May 1999 | 7 Aug 1999 (see s. 2 and Gazette 6 Aug 1999 p. 3727)
-Reprint of the Forrest Place and City Station Development Act 1985 as at 14 September 2001 (includes amendments listed above)
+Reprint of the Forrest Place and City Station Development Act 1985 as at 14 Sep 2001 (includes amendments listed above)
 Public Transport Authority Act 2003 s. 205 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
 Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 2004 | 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 The Office of Titles and the Department formerly known as the Department of Lands and Surveys were both replaced by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 Marginal notes in the agreement have been represented as bold headnotes in this reprint but that does not change their status as marginal notes.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-Act | Identifier | Title | Shoulder note
-Forrest Place and City Station Development Act 1985 | Schedule | Enabling agreement | [s. 3]

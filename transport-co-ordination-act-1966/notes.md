@@ -67,10 +67,7 @@ Reprint 8: The Transport Co-ordination Act 1966 as at 5 Aug 2005 (includes amend
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(4) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Eastern Goldfields Transport Board Repeal Act 2008 s. 15 | 28 of 2008 | 1 Jul 2008 | 29 Jul 2008
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 14 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4, 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4, 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 The State Transport Co-ordination Act 1966 was repealed by the State Transport Co-ordination Act 1981, which was repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.
 The reference in the Taxi Act 1994 s. 49(a) to an amendment of s. 2 of this Act should refer to an amendment of s. 4 of this Act. Section 49(a) reads as follows:
 “
@@ -150,24 +147,3 @@ The Public Transport Authority Act 2003 Pt. 7 Div. 1, 5, and 6 deal with transit
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 121(3) is not included because the section it sought to amend had been replaced by Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 47 before the amendment purported to come into operation.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 50 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4, 44(2) and 51 had not come into operation. They read as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Transport Co-ordination Act 1966 | First Schedule | Carriage for which commercial goods vehicle licence not required
-44.Ad hoc headings
-(1) This section amends the Acts listed in Tables 1 and 2.
-(2) In each Act listed in Table 1 before each section listed in the Table delete the heading and insert the heading or headings set out in the Table in relation to that section.
-7.Transport Co-ordination Act 1966
-s. 33 | Subdivision 1 — Licensing
-s. 42A | Subdivision 2 — Recommendations in respect of operation pursuant to subcontracts
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-86.Transport Co-ordination Act 1966
-s. 47B(4) | (4)(a)The application (i)the name, (ii)the name (iii)the ports (iv)whether (v)such (b)Where an | (4A)The application (a)the name, (b)the name (c)the ports (d)whether (e)such (4B)Where an

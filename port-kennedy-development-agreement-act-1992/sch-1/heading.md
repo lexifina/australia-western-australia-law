@@ -1,6 +1,6 @@
-## Schedule 1
-[Section 3]
-## The Agreement
+## Schedule 1 — The Agreement
+[s. 3]
+[Heading amended by No. 19 of 2010 s. 4.]
 PORT KENNEDY DEVELOPMENT PROJECT AGREEMENT
 THIS AGREEMENT is made the 10th day of February 1992
 B E T W E E N

@@ -1,5 +1,6 @@
-## Schedule 7
-[Section 3A]
+## Schedule 7 — Fifth Supplementary Agreement
+[s. 3A]
+[Heading amended by No. 19 of 2010 s. 4.]
 CASINO (BURSWOOD ISLAND) AGREEMENT
 FIFTH SUPPLEMENTARY AGREEMENT
 THIS AGREEMENT made the 3rd day of April 1995

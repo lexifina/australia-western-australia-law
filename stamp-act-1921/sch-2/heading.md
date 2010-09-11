@@ -1,6 +1,6 @@
-## Third Schedule
-[Section 16(2)]
-## Exemptions from duty
+## Third Schedule — Exemptions from duty
+[s. 16(2)]
+[Heading amended by No. 19 of 2010 s. 4.]
 Item | Nature of instrument
 [1. deleted]
 2. | CONVEYANCE OR TRANSFER ON SALE OF PROPERTY:

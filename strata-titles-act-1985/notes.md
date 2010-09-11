@@ -1,51 +1,51 @@
 Notes
 This is a compilation of the Strata Titles Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
-Short title | Number and year | Assent | Commencement
-Strata Titles Act 1985 | 33 of 1985 | 6 May 1985 | s. 1 and 2: 6 May 1985; Act other than s. 1 and 2: 30 Jun 1985 (see s. 2 and Gazette 21 Jun 1985 p. 2188)
-Strata Titles Amendment Act 1986 | 42 of 1986 | 1 Aug 1986 | 1 Aug 1986 (see s. 2)
-Acts Amendment (Water Authority Rates and Charges) Act 1987 Pt. IX | 24 of 1987 | 25 Jun 1987 | 14 Jul 1987 (see s. 2 and Gazette 14 Jul 1987 p. 2647)
-Acts Amendment (Heritage Council) Act 1990 Pt. 2 Div. 6 | 97 of 1990 | 22 Dec 1990 | 25 Feb 1991 (see s. 2 and Gazette 22 Feb 1991 p. 868)
-Retirement Villages Act 1992 s. 86 | 34 of 1992 | 19 Jun 1992 | 10 Jul 1992 (see s. 2 and Gazette 10 Jul 1992 p. 3185)
-Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
-Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
-Planning Legislation Amendment Act (No. 2) 1994 s. 46(12) | 84 of 1994 | 13 Jan 1995 | 1 Mar 1995 (see s. 2 and Gazette 21 Feb 1995 p. 567)
-Caravan Parks and Camping Grounds Act 1995 s. 33 | 34 of 1995 | 29 Sep 1995 | 1 Jul 1997 (see s. 2 and Gazette 20 Jun 1997 p. 2805)
-Strata Titles Amendment Act 1995-7, 9 | 58 of 1995 | 20 Dec 1995 | s. 1 and 2: 20 Dec 1995; Act other than s. 1 and 2: 14 Apr 1996 (see s. 2 and Gazette 15 Mar 1996 p. 981)
-Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 188 | 73 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2(2) and Gazette 29 Dec 1995 p. 6291)
-Reprint of the Strata Titles Act 1985 as at 22 Apr 1996 (includes amendments listed above except those in the Caravan Parks and Camping Grounds Act 1995)
-Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
-Strata Titles Amendment Act 1996 | 61 of 1996 | 11 Nov 1996 | s. 1 and 2: 11 Nov 1996; Act other than s. 1 and 2: 20 Jan 1997 (see s. 2 and Gazette 17 Jan 1997 p. 405)
-Licensed Surveyors Amendment Act 1996 s. 28 | 79 of 1996 | 14 Nov 1996 | 5 Apr 1997 (see s. 2 and Gazette 4 Apr 1997 p. 1750)
-Transfer of Land Amendment Act 1996 s. 153(1) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
-Reprint of the Strata Titles Act 1985 as at 20 Jan 1997 (includes amendments listed above except those in the Caravan Parks and Camping Grounds Act 1995 and the Licensed Surveyors Amendment Act 1996)
-Equal Opportunity Amendment Act (No. 3) 1997 s. 8 | 42 of 1997 | 9 Dec 1997 | 6 Jan 1998 (see s. 2(1))
-Statutes (Repeals and Minor Amendments) Act 1997 s. 115 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
-Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 66 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
-Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 104 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2 and Gazette 30 Jun 1999 p. 2905)
-Reprint of the Strata Titles Act 1985 as at 1 Jul 1999 (includes amendments listed above)
-Statutes (Repeals and Minor Amendments) Act 2000 s. 40 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
-Corporations (Consequential Amendments) Act 2001 Pt. 49 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
-Planning Appeals Amendment Act 2002 s. 28 | 24 of 2002 | 24 Sep 2002 | 18 Apr 2003 (see s. 2 and Gazette 17 Apr 2003 p. 1243)
-Taxation Administration (Consequential Provisions) Act 2002 s. 23 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2383)
-Acts Amendment (Equality of Status) Act 2003 Pt. 56 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
-Reprint 4: The Strata Titles Act 1985 as at 22 Aug 2003 (includes amendments listed above)
-Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 67 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
-Statutes (Repeals and Minor Amendments) Act 2003 s. 112 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
-Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(12) and (13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 121 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Reprint 5: The Strata Titles Act 1985 as at 20 May 2005 (includes amendments listed above)
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-Land Information Authority Act 2006 s. 160 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
-Legal Profession Act 2008 s. 707 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
-Reprint 6: The Strata Titles Act 1985 as at 25 Jul 2008 (includes amendments listed above except those in the Legal Profession Act 2008)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+ | Short title | Number and year | Assent | Commencement
+ | Strata Titles Act 1985 | 33 of 1985 | 6 May 1985 | s. 1 and 2: 6 May 1985; Act other than s. 1 and 2: 30 Jun 1985 (see s. 2 and Gazette 21 Jun 1985 p. 2188)
+ | Strata Titles Amendment Act 1986 | 42 of 1986 | 1 Aug 1986 | 1 Aug 1986 (see s. 2)
+ | Acts Amendment (Water Authority Rates and Charges) Act 1987 Pt. IX | 24 of 1987 | 25 Jun 1987 | 14 Jul 1987 (see s. 2 and Gazette 14 Jul 1987 p. 2647)
+ | Acts Amendment (Heritage Council) Act 1990 Pt. 2 Div. 6 | 97 of 1990 | 22 Dec 1990 | 25 Feb 1991 (see s. 2 and Gazette 22 Feb 1991 p. 868)
+ | Retirement Villages Act 1992 s. 86 | 34 of 1992 | 19 Jun 1992 | 10 Jul 1992 (see s. 2 and Gazette 10 Jul 1992 p. 3185)
+ | Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
+ | Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
+ | Planning Legislation Amendment Act (No. 2) 1994 s. 46(12) | 84 of 1994 | 13 Jan 1995 | 1 Mar 1995 (see s. 2 and Gazette 21 Feb 1995 p. 567)
+ | Caravan Parks and Camping Grounds Act 1995 s. 33 | 34 of 1995 | 29 Sep 1995 | 1 Jul 1997 (see s. 2 and Gazette 20 Jun 1997 p. 2805)
+ | Strata Titles Amendment Act 1995-7, 9 | 58 of 1995 | 20 Dec 1995 | s. 1 and 2: 20 Dec 1995; Act other than s. 1 and 2: 14 Apr 1996 (see s. 2 and Gazette 15 Mar 1996 p. 981)
+ | Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 188 | 73 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2(2) and Gazette 29 Dec 1995 p. 6291)
+ | Reprint of the Strata Titles Act 1985 as at 22 Apr 1996 (includes amendments listed above except those in the Caravan Parks and Camping Grounds Act 1995)
+ | Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
+ | Strata Titles Amendment Act 1996 | 61 of 1996 | 11 Nov 1996 | s. 1 and 2: 11 Nov 1996; Act other than s. 1 and 2: 20 Jan 1997 (see s. 2 and Gazette 17 Jan 1997 p. 405)
+ | Licensed Surveyors Amendment Act 1996 s. 28 | 79 of 1996 | 14 Nov 1996 | 5 Apr 1997 (see s. 2 and Gazette 4 Apr 1997 p. 1750)
+ | Transfer of Land Amendment Act 1996 s. 153(1) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
+ | Reprint of the Strata Titles Act 1985 as at 20 Jan 1997 (includes amendments listed above except those in the Caravan Parks and Camping Grounds Act 1995 and the Licensed Surveyors Amendment Act 1996)
+ | Equal Opportunity Amendment Act (No. 3) 1997 s. 8 | 42 of 1997 | 9 Dec 1997 | 6 Jan 1998 (see s. 2(1))
+ | Statutes (Repeals and Minor Amendments) Act 1997 s. 115 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
+ | Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 66 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
+ | Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 104 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2 and Gazette 30 Jun 1999 p. 2905)
+ | Reprint of the Strata Titles Act 1985 as at 1 Jul 1999 (includes amendments listed above)
+ | Statutes (Repeals and Minor Amendments) Act 2000 s. 40 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
+ | Corporations (Consequential Amendments) Act 2001 Pt. 49 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
+ | Planning Appeals Amendment Act 2002 s. 28 | 24 of 2002 | 24 Sep 2002 | 18 Apr 2003 (see s. 2 and Gazette 17 Apr 2003 p. 1243)
+ | Taxation Administration (Consequential Provisions) Act 2002 s. 23 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2383)
+ | Acts Amendment (Equality of Status) Act 2003 Pt. 56 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
+ | Reprint 4: The Strata Titles Act 1985 as at 22 Aug 2003 (includes amendments listed above)
+ | Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 67 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
+ | Statutes (Repeals and Minor Amendments) Act 2003 s. 112 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
+ | Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
+ | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(12) and (13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+ | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 121 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+ | Reprint 5: The Strata Titles Act 1985 as at 20 May 2005 (includes amendments listed above)
+ | Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+ | Land Information Authority Act 2006 s. 160 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+ | Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+ | Legal Profession Act 2008 s. 707 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+ | Reprint 6: The Strata Titles Act 1985 as at 25 Jul 2008 (includes amendments listed above except those in the Legal Profession Act 2008)
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 37 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
 “
@@ -143,20 +143,6 @@ On the date as at which this compilation was prepared, the State Superannuation 
 Section 73(1)(g)(i) of the Strata Titles Act 1985 is amended by deleting “, and in particular his rights, if any, under the Superannuation and Family Benefits Act 1938.”.
 ”.
 The section that it seeks to amend has been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1125.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Strata Titles Act 1985 | Schedule 1
-Schedule 2 | Schedule 2 by-laws
-Schedule 2A
-Schedule 3
-Schedule 4
 On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 37 had not come into operation. It reads as follows:
 37.Strata Titles Act 1985 amended
 (1) This section amends the Strata Titles Act 1985.

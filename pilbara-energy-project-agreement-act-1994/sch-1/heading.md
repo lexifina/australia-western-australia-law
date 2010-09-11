@@ -1,5 +1,6 @@
-## Schedule 1
-[section 3]
+## Schedule 1 — Pilbara Energy Project Agreement
+[s. 3]
+[Heading amended by No. 19 of 2010 s. 4.]
 PILBARA ENERGY PROJECT AGREEMENT
 THIS AGREEMENT is made the 30th day of November 1993
 B E T W E E N:

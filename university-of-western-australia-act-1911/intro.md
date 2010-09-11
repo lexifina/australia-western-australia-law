@@ -7,4 +7,3 @@ And whereas it is desirable that provision should be made for further instructio
 And whereas it is desirable that special encouragement and assistance should be afforded those who may be hindered in the acquisition of sound knowledge and useful learning by lack of opportunity or means:
 And whereas for these purposes it is expedient to incorporate and endow a University within the State of Western Australia,
 Be it therefore enacted by the King’s Most Excellent Majesty, by and with the advice and consent of the Legislative Council and Legislative Assembly of Western Australia, in this present Parliament assembled, and by the authority of the same, as follows: —
-Preliminary

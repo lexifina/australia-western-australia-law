@@ -1,5 +1,6 @@
-## Second Schedule
-[Section 4(b)]
+## Second Schedule — Acts repealed
+[s. 4(b)]
+[Heading inserted by No. 19 of 2010 s. 26(3).]
 Reference to Act | Subject or Title | Extent of Repeal
 2 Gul. IV No. 7. | Real Property Transfer Act 1832. | The Whole.
 7 Vict. No. 4. | Freehold Estates Conveyancing Act 1843. | The Whole.

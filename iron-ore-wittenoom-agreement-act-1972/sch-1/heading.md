@@ -1,5 +1,6 @@
-## Schedule 1
-[Heading amended by No. 41 of 1992 s. 6.]
+## Schedule 1 — Iron Ore (Wittenoom) Agreement
+[s. 2]
+[Heading amended: No. 41 of 1992 s. 6; amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT made the 10th day of March One thousand nine hundred and seventy-two BETWEEN THE HONOURABLE JOHN TREZISE TONKIN, M.L.A., Premier of the State of Western Australia acting for and on behalf of the said State and Instrumentalities thereof from time to time (hereinafter called “the State”) of the first part, and HANCOCK PROSPECTING PTY. LTD. and WRIGHT PROSPECTING PTY. LTD. companies incorporated in the State of Western Australia under the provisions of the Companies Act 1943 and each having its registered office at 251 Adelaide Terrace, Perth in the said State and carrying on business under the style or firm name of “Hancock and Wright” (hereinafter called “the Joint Venturers” in which term shall be included the Joint Venturers and each of them and their and each of their respective successors and assigns) of the other part.
 WHEREAS —
 (a)The Joint Venturers intend to make investigations as to the iron ore reserves in the mining areas defined in clause 1 hereof and to carry out certain investigations relating to the mining, transport by rail and shipment of iron ore from the mining areas with a view to entering into a contract or contracts for the export or sale of iron ore produced from the mining areas.
@@ -394,4 +395,4 @@ L. G. HANCOCK.
 THE COMMON SEAL of WRIGHT PROSPECTING PTY. LTD. was hereunto affixed by authority of the Directors and in the presence of — |  | [C.S.]
 L. G. HANCOCK, Director.
 B. BERESFORD, Secretary.
-[Schedule 1 amended by No. 41 of 1992 s. 6.]
+[Schedule 1 amended: No. 41 of 1992 s. 6.]

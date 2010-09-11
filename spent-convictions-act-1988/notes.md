@@ -41,14 +41,14 @@ Reprint 5: The Spent Convictions Act 1988 as at 1 Jun 2007 (includes amendments 
 Police Amendment Act 2008 s. 19 | 8 of 2008 | 31 Mar 2008 | 1 Apr 2008 (see s. 2(1))
 Security and Related Activities (Control) Amendment Act 2008 s. 82 | 4 of 2008 | 2 Apr 2008 | 13 Dec 2009 (see s. 2 and Gazette 4 Dec 2009 p. 4919)
 Spent Convictions (Act Amendment) Regulations 2009 published in Gazette 18 Aug 2009 p. 3238-9 | r. 1 and 2: 18 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2009 (see r. 2(b))
-Spent Convictions (Act Amendment) Regulations (No. 2) 2009 published in Gazette 29 Jan 2010 p. 197-9 | r. 1 and 2: 29 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2010 (see r. 2(b))
 Police Amendment Act 2009 s. 23 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
+Spent Convictions (Act Amendment) Regulations (No. 2) 2009 published in Gazette 29 Jan 2010 p. 197-9 | r. 1 and 2: 29 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2010 (see r. 2(b))
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 5 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 Working with Children (Criminal Record Checking) Amendment Act 2010 Pt. 3 | 7 of 2010 | 27 May 2010 | To be proclaimed (see s. 2)
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 s. 34, 34B and 40 were repealed by the Young Offenders Act 1994, which was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
@@ -80,15 +80,3 @@ official criminal record means a record containing information about the results
 28.Schedule 3 amended
 After Schedule 3 clause 2(6) insert:
 (7) The CEO as defined in the Working with Children (Criminal Record Checking) Act 2004 section 4 is excepted from the provisions of section 28(1) in respect of all spent convictions in disclosing information under section 37(2) of that Act if the disclosure is to a corresponding authority as defined in section 37(1) of that Act and that authority is a person prescribed under section 28(2).
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Spent Convictions Act 1988 | Schedule 1
-Schedule 2
-Schedule 3

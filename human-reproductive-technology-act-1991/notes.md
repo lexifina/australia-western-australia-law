@@ -24,10 +24,10 @@ Surrogacy Act 2008 Pt. 4 Div. 5 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 76 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 3: The Human Reproductive Technology Act 1991 as at 17 Jul 2009 (includes amendments listed above)
 Acts Amendment (Bankruptcy) Act 2009 s. 44 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 27 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendments to s. 29(3) in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 525(1)(c) are not included because it was unclear where it was intended to be made. Section 525(1)(c) reads as follows:
@@ -41,23 +41,6 @@ Division 13 — Transitional provisions
 CEO has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
 commencement means the time at which this Division comes into operation;
 Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 and 51 had not come into operation. They read as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Human Reproductive Technology Act 1991 | Schedule
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-32.Human Reproductive Technology Act 1991
-s. 16(2)(d) | subsection (3) | subsection (3A) or (3B)
-s. 16(3) | (3)(a)Where (i)the motion (ii)if the (iii)such subparagraphs (i) or (ii); (b)Where | (3A)Where (a)the motion (b)if the (c)such paragraph (a) or (b). (3B)Where
-s. 16(4) | subsection (3), | subsection (3A),
 On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 27 had not come into operation. It reads as follows:
 Division 27 — Human Reproductive Technology Act 1991 amended
 94.Act amended

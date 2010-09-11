@@ -1,5 +1,6 @@
-## Schedule
-BASIS OF UNION
+## Schedule — Basis of Union
+[s. 2]
+[Heading amended: No. 19 of 2010 s. 4.]
 PART I — CONSTITUTION
 1.The supreme standard of the Presbyterian Church of Australia shall be the Word of God contained in the Scriptures of the Old and New Testaments.
 2.The subordinate standard shall be the Westminster Confession of Faith read in the light of the declaratory statement.

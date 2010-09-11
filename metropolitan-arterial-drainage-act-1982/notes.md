@@ -14,10 +14,7 @@ Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 83 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Water Resources Legislation Amendment Act 2007 Pt. 3 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Reprint 2: The Metropolitan Water Authority Act 1982 as at 4 Jul 2008 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Before the commencement of the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 2 the Water Agencies (Powers) Act 1984 was known as the Water Authority Act 1984. The short title of the Water Authority Act 1984 was changed by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7.
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 2 came into operation 1 Jan 1996.
 The Water and Rivers Commission Act 1995 was repealed by the Water Resources Legislation Amendment Act 2007 s. 189 which came into operation 1 Feb 2008.
@@ -35,12 +32,6 @@ the MWA Act means the Metropolitan Water Authority Act 1982.
 (4) If a notice has been given under the MWA Act section 43(9) before the commencement day, on or after the commencement day the notice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
 ”.
 The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-45.Metropolitan Water Authority Act 1982
-s. 4(1) | (a)arterial services; (b)terms | arterial services. (1A)In this Act, unless the context otherwise requires, terms
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

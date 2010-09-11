@@ -16,24 +16,14 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 23 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 28 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 4: The Charitable Collections Act 1946 as at 4 Sep 2009 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Repealed by section 3 of this Act.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-11.Charitable Collections Act 1946
-s. 16(1) | Provided that where such | (1A)If such
-s. 17(2) | Minister. Provided that the Governor trusts and | Minister. (2A)The Governor trusts referred to in subsection (2) and
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 charitable purpose5
 maladministration5
 Minister5
-present war5
+resent war5
 securities for money5
 war fund5

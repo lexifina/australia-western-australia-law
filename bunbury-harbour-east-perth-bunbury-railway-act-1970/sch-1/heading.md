@@ -1,4 +1,4 @@
-## First Schedule
-## Bunbury Harbour Spur Railway
-Description of line of railway
+## First Schedule — Line of Bunbury Harbour Spur Railway
+[s. 2]
+[Heading inserted: No. 19 of 2010 s. 5.]
 Commencing at a point being 109 miles 52 chains or thereabouts from Perth on the East Perth-Bunbury Railway and proceeding thence in a west south westerly direction for a distance of 4 chains 40 links or thereabouts, thence in a south westerly direction for a distance of 13 chains 60 links or thereabouts, thence in a westerly by north direction for a distance of 18 chains 40 links or thereabouts, thence in a north north westerly direction for a distance of 100 chains or thereabouts, thence in a north west by westerly direction for a distance of 20 chains or thereabouts, thence in a westerly direction for a distance of 25 chains or thereabouts, thence in a west north westerly direction for a distance of 12 chains or thereabouts, thence in a north west by westerly direction for a distance of 100 chains or thereabouts, and being a total length of 3 miles 54 chains or thereabouts.

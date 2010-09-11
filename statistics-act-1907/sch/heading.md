@@ -1,5 +1,6 @@
-## Schedule
+## Schedule — Arrangement between Commonwealth and State
 [s. 25(2).]
+[Heading amended: No. 19 of 2010 s. 4.]
 AN ARRANGEMENT entered into BETWEEN HIS EXCELLENCY THE GOVERNOR-GENERAL OF THE COMMONWEALTH OF AUSTRALIA acting with the advice of the Federal Executive Council AND HIS EXCELLENCY THE GOVERNOR OF THE STATE OF WESTERN AUSTRALIA acting with the advice of the Executive Council of the State WHEREBY IT IS AGREED as follows: —
 1.The Commonwealth of Australia (in this arrangement called “the Commonwealth”) will create an office in the Public Service of the Commonwealth of Deputy Commonwealth Statistician for the State of Western Australia (the occupant of which office from time to time is in this arrangement called “the Deputy Commonwealth Statistician”).
 2.The functions of the Deputy Commonwealth Statistician shall be to administer, subject to the general control and supervision of the Commonwealth Statistician, an office (in this arrangement called “the Integrated Statistical Service”) for the integrated collection and publication of statistics, and the supply of statistical information, for the purposes of both the Commonwealth and the State.
@@ -41,4 +42,4 @@ By His Excellency’s Command,
 Governor-General.
 By His Excellency’s Command,
 Governor.
-[Schedule inserted by No. 62 of 1956 s. 3.]
+[Schedule inserted: No. 62 of 1956 s. 3.]

@@ -1,4 +1,6 @@
-## Schedule 3
+## Schedule 3 — Power line route
+[s. 3(1)]
+[Heading amended: No. 19 of 2010 s. 4.]
 Part 1 — Power line route
 The land enclosed by a line starting at a point 2 947.42 metres at 239° 33′ 12″ from Control Station MD 15 on the north boundary of Section 3 of Miscellaneous Licence 4 issued under the Mining Act 1978 and extending
 1 160.76 metres at 51° 38′ 55″

@@ -60,11 +60,11 @@ Compilation table
  | Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 42 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
+ | Standardisation of Formatting Act 2010 s. 15, 43(3) and 54 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 87 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Standardisation of Formatting Act 2010 s. 15, 43(3) and 54 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Formerly referred to the Water Authority Act 1984 the short title of which was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -97,47 +97,3 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 “ the Biosecurity and Agriculture Management Act 2007 ”.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 15, 43(3) and 54 had not come into operation. They read as follows:
-15.Country Areas Water Supply Act 1947 amended
-(1) This section amends the Country Areas Water Supply Act 1947.
-(2) In section 12A(1a) delete “the Second Schedule.” and insert:
-Schedule 2.
-(3) In section 12A(1b) delete “the Second Schedule” and insert:
-Schedule 2
-(4) In section 12AA in the definition of controlled land delete “the Second Schedule;” and insert:
-Schedule 2;
-(5) In the Second Schedule:
-(a) delete “Second Schedule”;
-(b) delete “(Section 12AA)”;
-(c) delete “Controlled land”,
-and insert:
-Schedule 2 — Controlled land
-[s. 12AA]
-43.Part heading inserted before section 1
-(1) This section amends the Acts listed in Tables 1 and 2.
-(3) In the Acts listed in Table 2:
-(a) before section 1 insert:
-Part I — Preliminary
-(b) before the section listed in Table 2 for that Act delete the heading to Part I.
-54.Country Areas Water Supply Act 1947 amended
-(1) This section amends the Country Areas Water Supply Act 1947.
-(2) In section 99:
-(a) in the third paragraph delete the proviso;
-(b) in the fourth paragraph delete the proviso;
-(c) after the seventh paragraph, but before the proviso, insert:
-(2) Where the moneys remaining after the payments provided for in subsection (1)(a) and (b) have been made are not sufficient for the payment in full of all of the items mentioned and provided for in subsection (1)(c), such moneys as shall remain shall be distributed between the Crown, the department, the agency, the instrumentality and the branch pro rata with the amounts of their claims respectively, unless the Governor or the Minister controlling the department, agency, instrumentality or branch, as the case may require, shall consent to the Crown or the department, agency, instrumentality or branch which the Minister controls being excluded wholly or partly from the pro rata distribution.
-(3) When land is sold under this Act and the land is situated in 2 or more local government districts, the Governor may determine for the purpose of subsection (1)(d) the proportionate part of the whole of the purchase price which shall be allocated to that part of the land situated in each district.
-(3) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
- | s. 8(2) | (2)(a)Each | (2)Each
- | s. 37(10) | if the fire (first occurrence) if the fire (second occurrence) | (a)if the fire (b)if the fire
- | s. 37(11) | by the Authority by the local | (a)by the Authority (b)by the local
- | s. 87(1) | Firstly — Secondly — | (a)firstly — (b)secondly —
- | s. 89(2) | thereto: Provided that the | thereto. (3)Despite subsection (2), the
-s. 99 | The money arising Firstly — In otherwise. Secondly — In section 89. Thirdly — In the sale: Fourthly — In 1911: Fifthly — In the land. Sixthly — In Corporation. Seventhly — In so entitled: Provided that, if any person is | (1)The money arising (a)firstly — in otherwise; (b)secondly — in section 89; (c)thirdly — subject to subsection (2), in the sale; (d)fourthly — subject to subsection (3), in 1911; (e)fifthly — in the land; (f)sixthly — in Corporation; (g)seventhly —subject to subsection (4), in so entitled. (4)If any person referred to in subsection (1)(g) is
-s. 102(1) | Her Majesty: Provided that the Governor shall not consent, | Her Majesty. (2)The Governor shall not consent under subsection (1)
-s. 102(3) | If the land (first occurrence) If the land (second occurrence) | (3A)If the land (3B)If the land
-s. 102(4) | subsection (3). | subsection (3), (3A) or (3B).
-s. 105(1) | matters, that is to say: (ii)For catchment area. (xii)Specifying supplied. (xiii)Prescribing purposes. (xiv)Fixing | matters — (a)for catchment area; (b)specifying supplied; (c)prescribing purposes; (d)fixing
-s. 120 | In any legal Act — (1)in State — such land; (2)judicial | (1)In any legal Act, in State, such land. (2)In any legal proceedings under the Water Agencies (Powers) Act 1984 or this Act, judicial

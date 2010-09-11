@@ -1,5 +1,6 @@
-## Schedule
-[S. 7B]
+## Schedule — Form of certificate of authority
+[s. 7B]
+[Heading amended by No. 19 of 2010 s. 4.]
 CERTIFICATE OF AUTHORITY
 This is to certify that...............................................................................................
 .........................................................................................................................is an

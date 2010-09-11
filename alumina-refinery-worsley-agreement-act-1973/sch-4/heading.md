@@ -1,5 +1,6 @@
-## Fourth Schedule
-[Section 6B]
+## Fourth Schedule — Third Supplementary Agreement
+[s. 6B]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 24th day of September 1992
 B E T W E E N :
 THE HONOURABLE CARMEN MARY LAWRENCE, B.Psych., Ph.D., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the Government of the said State and its instrumentalities (hereinafter called “the State”) of the one part
@@ -137,4 +138,4 @@ which affixed its common
 seal by the authority of the Directors in the presence of:
 DirectorP Fromson
 SecretaryT Ueno
-[Fourth Schedule inserted by No. 63 of 1992 s. 6.]
+[Fourth Schedule inserted: No. 63 of 1992 s. 6.]

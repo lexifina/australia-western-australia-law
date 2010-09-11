@@ -1,5 +1,6 @@
-## First Schedule
-s. 2 and 4
+## First Schedule — Tenets of Church
+[s. 2 and 5]
+[Heading inserted: No. 19 of 2010 s. 11(2).]
 Preamble
 Tenets of The Mother Church, The First Church of Christ, Scientist
 1. As adherents of Truth, we take the inspired Word of the Bible as our sufficient guide to eternal Life.

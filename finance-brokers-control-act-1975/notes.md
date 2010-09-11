@@ -28,11 +28,11 @@ Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 
 Legal Profession Act 2008 s. 664 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 4 Div. 1 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
+ | Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 5 Div. 1 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
-Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The appointed day is 1 August 1977; see Gazette 17 June 1977 p. 1834.
 The Business Licensing Amendment Act 1995 s. 24 is a transitional provision that is of no further effect.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
@@ -116,18 +116,3 @@ Part 5 — Finance Brokers Control Act 1975 repealed
 Division 1 — Repeal
 80.Finance Brokers Control Act 1975 repealed
 The Finance Brokers Control Act 1975 is repealed.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 and 51 had not come into operation. They read as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Finance Brokers Control Act 1975 | Schedule
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-21.Finance Brokers Control Act 1975
-Sch. | (1)The rate (2)(a)In lieu (i)to calculate (ii)to convert (b)For the | 1.Formula for calculating percentage rate of interest (1)The rate (2A)In lieu (a)to calculate (b)to convert (2B)For the

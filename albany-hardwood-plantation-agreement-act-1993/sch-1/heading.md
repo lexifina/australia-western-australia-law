@@ -1,6 +1,6 @@
-## Schedule 1
-[section 3]
-ALBANY HARDWOOD PLANTATION AGREEMENT
+## Schedule 1 — Albany Hardwood Plantation Agreement
+[s. 3]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made this 25th day of November 1993
 BETWEEN:
 THE HONOURABLE RICHARD FAIRFAX COURT B. Com., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part

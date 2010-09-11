@@ -42,12 +42,12 @@ Reprint 6: The Environmental Protection Act 1986 as at 11 Apr 2008 (includes ame
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 53 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 35 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Bush Fires Amendment Act 2009 Pt. 3 | 25 of 2009 | 17 Nov 2009 | 1 Dec 1009 (see s. 2(b) and Gazette 1 Dec 2009 p. 4829)
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(3)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 4 | 8 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 2 Subdiv. 1 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
@@ -139,12 +139,6 @@ In section 121(1) delete “against a person for anything that the person has do
 against —
 (a) a person for anything that the person has done, in good faith, in the performance or purported performance of a function under this Act; or
 (b) a person acting under an authority mentioned in section 121A(1) for anything that the person has done, in good faith, in the performance or purported performance of a function to which the authority applies.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-Act | Identifier | Title | Shoulder note
-Environmental Protection Act 1986 | Schedule 1
-Schedule 2
-Schedule 3
-Schedule 4
 On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 2 Subdiv 1 had not come into operation. It reads as follows:
 Division 2 — Consequential amendments
 Subdivision 1 — Environmental Protection Act 1986 amended

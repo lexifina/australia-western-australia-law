@@ -66,51 +66,9 @@ Water Legislation Amendment (Competition Policy) Act 2005 s. 37-52 | 25 of 2005 
 Reprint 9: The Metropolitan Water Supply, Sewerage, and Drainage Act 1909 as at 17 Feb 2006 (includes amendments listed above except those in the Water Legislation Amendment (Competition Policy) Act 2005)
 Land Information Authority Act 2006 s. 145 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Water Resources Legislation Amendment Act 2007 Pt. 4 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 22, 42(3), 47 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 22, 42(3), 47 and 51 had not come into operation. It reads as follows:
-22.Metropolitan Water Supply, Sewerage, and Drainage Act 1909 amended
-(1) This section amends the Metropolitan Water Supply, Sewerage, and Drainage Act 1909.
-(2) Delete section 114(2) and (3).
-(3) In section 114(4) delete “the Ninth Schedule.” and insert:
-Schedule 9.
-(4) In the Ninth Schedule:
-(a) delete “Ninth Schedule” and insert:
-Schedule 9 — Notice of possession
-[s. 114(4)]
-(b) delete “Under Section 138” and insert:
-of possession under section 114
-42.“The Schedules” and “Schedules” headings deleted
-(1) This section amends the Acts listed in Tables 1 and 2.
-(3) In each Act listed in Table 2 before the first of the Schedules to the Act delete “Schedules”.
-47.Metropolitan Water Supply, Sewerage, and Drainage Act 1909 amended
-(1) This section amends the Metropolitan Water Supply, Sewerage, and Drainage Act 1909.
-(2) Before section 57E insert:
-Division 4 — Public Water Supply Areas
-(3) Before each section listed in the Table delete the heading and insert the heading set out in the Table in relation to that section.
-Table
-s. 36 | Division 1 — Supply and distribution of water
-s. 47 | Division 2 — Protection of works and prevention of waste
-s. 57A | Division 3 — Protection of underground water
-s. 103 | Division 1 — General
-s. 112 | Division 2 — Power to take possession and lease land
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-46.Metropolitan Water Supply, Sewerage, and Drainage Act 1909
-s. 31 | The Corporation Provided that no person | (1)The Corporation (2)No person
-s. 33 | For the purposes building. Provided that the therefrom; and also make Provided that no | (1)For the purposes building. (2)The therefrom. (3)For the purposes of ventilation the Corporation may make (4)No
-s. 40 | Whenever (1)the quantity (2)a certificate Provided that in case | (1)Whenever (a)the quantity (b)a certificate (2)In case
-s. 43(2) | Provided that any Provided further that the | (3)Any (4)The
-s. 45(10) | if the fire (first occurrence) if the fire (second occurrence) | (a)if the fire (b)if the fire
-s. 45(11) | by the Authority by the local | (a)by the Authority (b)by the local
-s. 57E(3) | (3)(a)Before (b)Either (c)The (i)has (ii)is (iii)has | (3)Before (4)Either (5)The (a)has (b)is (c)has
-s. 64(2) | If the owner Provided that the above provisions of this section shall | (2A)If the owner (2B)Subsections (1), (2) and (2A) shall
-s. 116 | All rent Firstly — In Secondly — In The residue | (1)All rent (a)firstly — in (b)secondly — in (2)The residue
-s. 146(1) | (2)For area. (2a)Preventing supply. (2b)The reservoirs. (2c)The banks. (3)Regulating bore. (3a)Regulating a well. (4a)Defining discharged. (5)Protecting Corporation. (each occurrence) (16)Specifying supplied. (17)Prescribing purposes. (18)Fixing Area. (20)Prohibiting (27)Modifying | (a)for area; (b)preventing supply; (c)the reservoirs; (d)the banks; (e)regulating bore; (f)regulating a well; (g)defining discharged; (h)protecting Corporation; (i)specifying supplied; (j)prescribing purposes; (k)fixing Area; (l)prohibiting (m)modifying
-Repealed by the Metropolitan Water Supply, Sewerage, and Drainage Act Amendment Act 1963 s. 129.
+Standardisation of Formatting Act 2010 s. 22, 42(3), 47 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Footnote no longer applicable.
+Footnote no longer applicable
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 5 and 8.
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 106(2) is a transitional provision that is of no further effect.

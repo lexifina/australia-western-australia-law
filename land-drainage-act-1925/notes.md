@@ -31,10 +31,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Land Information Authority Act 2006 s. 141 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Reprint 4: The Land Drainage Act 1925 as at 5 Apr 2007 (includes amendment listed above)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 61 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 61 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Now known as the Water Agencies (Powers) Act 1984. Short title changed by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7.
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 2 commenced 1 Jan 1996.
 Repealed by the Land Administration Act 1997.
@@ -62,21 +59,3 @@ the LD Act means the Land Drainage Act 1925.
 (3) If the Corporation receives, before the commencement day, a notice in accordance with the LD Act section 99A(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the decision to refuse to extend time to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the LD Act section 99A(1).
 (4) If a notice has been given under the LD Act section 98(6) before the commencement day, on or after the commencement day the notice is to be taken to refer to the time within which and the manner in which a review of the decision may be made be sought.
 ”.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 61 had not come into operation. It reads as follows:
-61.Land Drainage Act 1925 amended
-(1) This section amends the Land Drainage Act 1925.
-(2) In section 72:
-(a) in paragraph (2) delete the proviso;
-(b) after paragraph (7), but before the proviso, insert:
-(2) Despite subsection (1)(b), any land exempted by that paragraph shall be deemed rateable property while leased, used, or occupied for any private purpose.
-(3) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
- | s. 64(10) | For the purposes | (10A) For the purposes
- | s. 64(11) | accordingly: Provided that any this subsection | accordingly. (11A)Where an occupier is deemed under subsection (11) to be an owner, any subsection (11) or this subsection
- | s. 70 | (1)to cleansing, (2)subject | (a)to cleansing, (b)subject
- | s. 72 | All land (1)Land, district. (2)Land unoccupied: (3)Land sisterhood. (4)Land thereof. (5)Land purposes. (6)Land recreation. (7)Land Provided that — (a)any land exempted by paragraphs (3), (4) or (5) purpose; and (b)any paragraphs (4) and (5) Provided, further, that no | (1)All land (a)land, district; (b)land unoccupied; (c)land sisterhood; (d)land thereof; (e)land purposes; (f)land recreation; (g)land (3)Any land exempted by subsection (1)(c), (d) or (e) purpose. (4)Any subsection (1)(d) and (e) (5)No
- | s. 97 | Any person (2)That any records. (3)That rated. (4)That land. (5)That section 72(1). (6)That Provided that where | (1)Any person (a)that any records; (b)that rated; (c)that land; (d)that section 72(1)(a); (e)that (2)Where
- | s. 148 | (1)Prescribing rates. (2)Prescribing fees. (4a)Providing determined. (7)Prescribing | (a)prescribing rates; (b)prescribing fees; (c)providing determined; (d)prescribing
- | s. 153 | Every person obstruction: Provided that this section | (1)Every person obstruction. (2)This section
- | s. 154 | Any person destroyed: Provided that this | (1)Any person destroyed. (2)This

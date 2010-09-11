@@ -1,4 +1,6 @@
-## Second Schedule
+## Second Schedule — Cemetery land
+[s. 3]
+[Heading amended by No. 19 of 2010 s. 4.]
 Land | Reference | Proprietors
 Portions of Avon Location U3 and being lots 77, 78, 79 and 80 on plan 3649 | Volume 1060, folio 622 | Toodyay Road Board, Toodyay.
 Portion of Avon location U3 and being lot 81 on plan 330 | Volume 333, folio 22 | Toodyay Road Board, Toodyay

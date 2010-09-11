@@ -1,4 +1,6 @@
-## Schedule
+## Schedule — Cemetery land
+[s. 2]
+[Heading amended by No. 19 of 2010 s. 4.]
 Land | Instrument of Title | Proprietors
 Swan Location 1284 | Certificate of Title vol. 34, folio 110 | The Roman Catholic Bishop of Perth.
 Swan Location 1286 | Certificate of Title vol. 33, folio 318 | The Diocesan Trustees of the Church of England.

@@ -1,5 +1,6 @@
-## Schedule 1
-[Section 4]
+## Schedule 1 — 1994 Financial Agreement
+[s. 4]
+[Heading amended by No. 19 of 2010 s. 4.]
 AGREEMENT made the 25th day of February One thousand nine hundred and ninety four between —
 THE COMMONWEALTH OF AUSTRALIA of the first part;
 THE STATE OF NEW SOUTH WALES of the second part;

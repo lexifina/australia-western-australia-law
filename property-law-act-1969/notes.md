@@ -24,10 +24,7 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Liquor and Gaming Legislation Amendment Act 2006 s. 115 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Reprint 4: The Property Law Act 1969 as at 24 Aug 2007 (includes amendments listed above)
 Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 26 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 26 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Repealed by the Interpretation Act 1984.
 Repealed by the Strata Titles Act 1985.
 Section 31A proclaimed 21 January 1972, see Gazette 21 January 1972 p 72.
@@ -41,58 +38,3 @@ The Acts Amendment (Equality of Status) Act 2003 s. 125(3) reads as follows:
 (b) continued to have effect after the commencement of section 31 of the Property Law Act 1969,
 is of no effect.
 ”.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 26 and 51 had not come into operation. They read as follows:
-26.Property Law Act 1969 amended
-(1) This section amends the Property Law Act 1969.
-(2) In the First Schedule reformat the heading to the Schedule so it is in the current format.
-(3) In the Second Schedule:
-(a) delete “Second Schedule”;
-(b) delete “[Section 4(b)]”,
-and insert:
-Second Schedule — Acts repealed
-[s. 4(b)]
-(4) In the Third Schedule:
-(a) delete “Third Schedule”;
-(b) delete “[Section 45]”;
-(c) delete “Implied covenants”;
-(d) delete “Part I”;
-(e) delete “[Section 45(1)(a)]”,
-and insert:
-Third Schedule — Implied covenants
-[s. 45(1)]
-Part I — Conveyance for valuable consideration
-(5) In the Third Schedule:
-(a) delete “Part II”;
-(b) delete “[Section 45(1)(b)]”,
-and insert:
-Part II — Conveyance of leasehold
-(6) In the Third Schedule:
-(a) delete “Part III”;
-(b) delete “[Section 45(1)(c)]”,
-and insert:
-Part III — Conveyance by way of mortgage
-(7) In the Third Schedule:
-(a) delete “Part IV”;
-(b) delete “[Section 45(1)(d)]”,
-and insert:
-Part IV — Conveyance by way of mortgage of leasehold
-(8) In the Third Schedule:
-(a) delete “Part V”;
-(b) delete “[Section 45(1)(e)]”,
-and insert:
-Part V — Conveyance by way of settlement
-(9) In the Third Schedule:
-(a) delete “Part VI”;
-(b) delete “[Section 45(1)(f)]”,
-and insert:
-Part VI — Conveyance by person other than beneficial owner
-(10) In the Fourth Schedule reformat the heading to the Schedule so it is in the current format.
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-66.Property Law Act 1969
-s. 81(3) | (3)(a)A lessor (b)The lessor | (3A)A lessor (3B)The lessor
-s. 81(5) | (a)lease (b)lessee (c)lessor (d)under-lease (e)under-lessee | lease lessee lessor under-lease under-lessee
-s. 122(5) | (5)(a)Every (b)For this subsection, (each occurrence) | (5A)Every (5B)For subsection (5A),
-s. 135(1) | (1)(a)A notice (i)by (ii)by (iii)by (iv)in (b)A notice so posted | (1A)A notice (a)by (b)by (c)by (d)in (1B)A notice posted as provided in subsection (1A)
-s. 135(2) | (2)(a)If the subsection (1) (b)If he so delivered | (2A)If the subsection (1A) (2B)If the person delivered as provided in subsection (1A)

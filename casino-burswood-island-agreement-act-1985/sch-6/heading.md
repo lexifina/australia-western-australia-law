@@ -1,5 +1,6 @@
-## Schedule 6
-[Section 3A]
+## Schedule 6 — Fourth Supplementary Agreement
+[s. 3A]
+[Heading amended by No. 19 of 2010 s. 4.]
 CASINO (BURSWOOD ISLAND) AGREEMENT
 FOURTH SUPPLEMENTARY AGREEMENT
 THIS AGREEMENT made the 30th day of March 1992

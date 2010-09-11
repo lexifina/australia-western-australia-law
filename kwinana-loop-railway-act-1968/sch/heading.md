@@ -1,4 +1,4 @@
-## Schedule
-## Kwinana Loop Railway
-Description of line of railway
+## Schedule — Line of Kwinana Loop Railway
+[s. 2]
+[Heading inserted: No. 19 of 2010 s. 5.]
 Commencing at the terminus of the Industrial Lands (Kwinana) Railway constructed under the authority of Act No. 15 of 1966 and proceeding in a south westerly direction for a distance of 2 miles 41 chains thence in a south easterly direction for a distance of 28 chains to the intersection of the common boundary of Rockingham Town Lots 1210 and 1211 on Department of Lands and Surveys O.P. 9846 and the boundary of Crocker Street thence in an east north easterly direction for a distance of 27 chains and thence in an easterly direction for a distance of 1 mile 60 chains and thence in a northerly direction for 40 chains terminating at a point 27 miles 13 chains from Perth on the Kwinana-Mundijong Railway as more particularly set out and delineated in red on map marked C.E. Plan No. 60597.

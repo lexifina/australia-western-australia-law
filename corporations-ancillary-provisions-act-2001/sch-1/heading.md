@@ -1,5 +1,6 @@
-## Schedule 1
+## Schedule 1 — References to corporations legislation or ASIC legislation
 [s. 11]
+[Heading amended: No. 19 of 2010 s. 4.]
 Table
 Column 1 | Column 2
 the Corporations Law of Western Australia | the new Corporations Act

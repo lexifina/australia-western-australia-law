@@ -1,2 +1,3 @@
-## Schedule 1
-[Section 5(4)]
+## Schedule 1 — Provisions as to commissioners
+[s. 5(4)]
+[Heading amended by No. 19 of 2010 s. 4.]

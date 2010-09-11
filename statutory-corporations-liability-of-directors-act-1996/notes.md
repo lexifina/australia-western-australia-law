@@ -29,11 +29,11 @@ Reprint 4: The Statutory Corporations (Liability of Directors) Act 1996 as at 9 
 Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
 Eastern Goldfields Transport Board Repeal Act 2008 s. 14 | 28 of 2008 | 1 Jul 2008 | 29 Jul 2008
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 121 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 87 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The Insurance Commission of Western Australia Act 1986 Part III provides for the establishment of the State Government Insurance Corporation and for a board of directors of the Corporation. The Acts Amendment (ICWA) Act 1996 s. 20, which had not come into operation at the date on which this reprint was prepared, would repeal that Part.
 Formerly referred to the State Government Insurance Commission Act 1986 the short title of which was changed to the Insurance Commission of Western Australia Act 1986 by the Acts Amendment (ICWA) Act 1996 s. 5. The reference was substituted under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993.
@@ -53,13 +53,3 @@ On the date as at which this compilation was prepared, the State Superannuation 
 State Superannuation Board | a director | State Superannuation Act 2000
 ”.
 ”.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Statutory Corporations (Liability of Directors) Act 1996 | Schedule 1

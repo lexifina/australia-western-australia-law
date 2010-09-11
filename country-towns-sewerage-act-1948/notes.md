@@ -42,10 +42,7 @@ Water Legislation Amendment (Competition Policy) Act 2005 Pt. 3 | 25 of 2005 | 1
 Reprint 6: The Country Towns Sewerage Act 1948 as at 21 Jul 2006 (includes amendments listed above)
 Land Information Authority Act 2006 s. 131 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 45 and 55 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 45 and 55 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Now known as the Water Agencies (Powers) Act 1984.
 Metropolitan Water Supply, Sewerage, and Drainage Act 1909.
 Footnote no longer applicable.
@@ -66,31 +63,3 @@ the CTS Act means the Country Towns Sewerage Act 1948.
 (3) If the Corporation receives, before the commencement day, a notice in accordance with the CTS Act section 63(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the decision to the State Administrative Tribunal under the CTS Act section 63(1).
 (4) If a notice has been given under the CTS Act section 61(6) before the commencement day, on or after the commencement day the notice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
 ”.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 45 and 55 had not come into operation. They read as follows:
-45.Country Towns Sewerage Act 1948 amended
-(1) This section amends the Country Towns Sewerage Act 1948.
-(2) Before section 61 delete the heading and insert:
-Division 1A — Objections and reviews
-(3) Before section 75 delete both headings and insert:
-Division 1 — Liability for, and recovery of, charges: general matters
-(4) Before section 82 delete the heading and insert:
-Division 2 — Power of sale
-### 55. Country Towns Sewerage Act 1948 amended
-(1) This section amends the Country Towns Sewerage Act 1948.
-(2) In section 93:
-(a) in the third paragraph delete both provisos;
-(b) after the sixth paragraph, but before the proviso, insert:
-(2) Where the moneys remaining after the payments provided for in subsection (1)(a) and (b) have been made are not sufficient for the payment in full of all the rates, taxes and other moneys mentioned and provided for in subsection (1)(c) such moneys shall be distributed between the Crown, the department, the agency, the branch and the local government pro rata with the amounts of their claims respectively.
-(3) When land is sold under this Act and the land is situated in 2 or more local government districts, the Governor may determine for the purpose of subsection (1)(c) the proportionate part of the whole of the purchase price which shall be allocated to that part of the land situated in each district.
-(3) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
- | s. 23 | The Corporation sewers: Provided that no | (1)The Corporation sewers. (2)Despite subsection (1), no
- | s. 25 | The Corporation area: Provided that the therefrom; and also may tube: Provided that no | (1)The Corporation area. (2)The therefrom. (3)The Corporation may tube. (4)However, no
- | s. 40(2) | If the owner occupier: Provided that the above provisions of this section | (2A)If the owner occupier. (2B)Subsections (1) to (2A)
- | s. 83(2) | thereto: Provided that the | thereto. (3)Despite subsection (2), the
- | s. 93 | The money Firstly — In otherwise. Secondly — In section 83. Thirdly — In sale. Fourthly — In land. Fifthly — In Corporation. Sixthly — In entitled: Provided that, if any person is | (1)The money (a)firstly — in otherwise; (b)secondly — in section 83; (c)thirdly — subject to subsections (2) and (3), in sale; (d)fourthly — in land; (e)fifthly — in Corporation; (f)sixthly — subject to subsection (4), in entitled. (4)If any person referred to in subsection (1)(f) is
- | s. 96(1) | Majesty: Provided that the Governor shall not consent, | Majesty. (2)The Governor shall not consent under subsection (1)
- | s. 96(3) | If the land (first occurrence) If the land (second occurrence) | (3A)If the land (3B)If the land
- | s. 96(4) | subsection (3). | subsection (3), (3A) or (3B).
- | s. 102(1) | matters, that is to say: — (3)Protecting sewers. (11)Defining accepted. (12)Prescribing industry. (13)Prescribing placed. (16)Prohibiting | matters — (a)protecting sewers; (b)defining accepted; (c)prescribing industry; (d)prescribing placed; (e)prohibiting

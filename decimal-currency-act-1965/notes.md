@@ -8,32 +8,19 @@ Grain Marketing Act 1975 s. 2 | 85 of 1975 | 18 Nov 1975 | Proc. 21 Nov 1975 (se
 Decimal Currency Order 1991 (see Gazette 13 Dec 1991 p. 6177) | 13 Dec 1991
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Reprint of the Decimal Currency Act 1965 as at 22 Jun 2001 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 16 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 16 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 The amendments made by s. 4 to the Acts specified in the First Schedule have had effect so the Acts and amendments have been omitted from that Schedule under the Reprints Act 1984 s. 7(4)(e).
 But see the Interpretation Act 1984 s. 26(4) which displaces this provision.
 Repealed by the Reprints Act 1984.
 Repealed by the Interpretation Act 1984.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 16 had not come into operation. It reads as follows:
-16.Decimal Currency Act 1965 amended
-(1) This section amends the Decimal Currency Act 1965.
-(2) In the First Schedule:
-(a) delete “First Schedule”;
-(b) delete “section 4(1)”,
-and insert:
-First Schedule — Acts amended
-[s. 4(1)]
-(3) In the Second Schedule:
-(a) delete “Second Schedule”;
-(b) delete “section 5(5)”;
-(c) delete “Part A”;
-(d) delete “Equivalents Specified in the Commonwealth Currency Act”,
-and insert:
-Second Schedule — Currency equivalents
-[s. 5(5)]
-Part A — Equivalents specified in the Commonwealth Currency Act
-(4) In the Second Schedule delete “Part B” and insert:
-Part B — Examples of equivalents
-(5) In the Third Schedule reformat the heading to the Schedule so it is in the current format.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+appointed day3
+Commonwealth Currency Act3
+law of the State3
+matter or thing10(2)
+new currency3
+old currency3
+regulation8(3), 12(4)
+statutory instrument3

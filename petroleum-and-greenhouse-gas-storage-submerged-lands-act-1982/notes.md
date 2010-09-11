@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum (Submerged Lands) Act 1982 and includes the amendments made by the other written laws referred to in the following table 1a. 5. The table also contains information about any reprint.
+This is a compilation of the Petroleum (Submerged Lands) Act 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum (Submerged Lands) Act 1982 | 33 of 1982 | 27 May 1982 | 14 Feb 1983 (see s. 2(1))
@@ -27,10 +27,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2
 Reprint 3: The Petroleum (Submerged Lands) Act 1982 as at 15 Jun 2007 (includes amendments listed above)
 Petroleum Amendment Act 2007 s. 104 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4 and 50 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 and 50 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 See the Gas Pipelines Access (Western Australia) Act 1998 s. 9.
 Repealed by the Off-shore (Application of Laws) Act 1982 s. 5.
 Repealed by the Petroleum Act 1967 s. 3.
@@ -166,20 +163,3 @@ The Land (Titles and Traditional Usage) Act 1993 Sch. 1 Pt. 4 cl. 5(2) reads as 
 (2) Division 4A inserted by subsection (1) does not apply to an application for approval lodged before the commencement of this section.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 and 50 had not come into operation. They read as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Petroleum (Submerged Lands) Act 1982 | Schedule 1 | Convention on the continental shelf
-Schedule 2
-Schedule 3
-Schedule 4
-50.Heading to preamble
-(1) This section amends the Acts listed in the Table.
-(2) In each Act listed in the Table after the long title insert:
-Preamble

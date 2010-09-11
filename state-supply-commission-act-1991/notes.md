@@ -14,26 +14,12 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 10 | 28 
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 State Supply Commission Amendment Act 2008 | 15 of 2008 | 14 Apr 2008 | s. 1 and 2: 14 Apr 2008 (see s. 2(a)); Act other than s. 1 and 2: 26 May 2008 (see s. 2(b) and Gazette 23 May 2008 p. 1987)
 Reprint 2: The State Supply Commission Act 1991 as at 11 Jul 2008 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 The State Supply Commission Amendment Act (No. 2) 1994 s. 7(2) and (3) are transitional provisions that are of no further effect.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-State Supply Commission Act 1991 | Schedule 1
-Schedule 2
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 appointed memberSch. 1 cl. 1
 chairmanSch. 1 cl. 1
 chief executive officer3(1)
@@ -51,4 +37,3 @@ State fleet agreement3(1), 26AA(1)
 supply3(1)
 supply policies3(1)
 the BoardSch. 2 cl. 1
-By Authority: JOHN A. STRIJK, Government Printer

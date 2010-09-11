@@ -1,4 +1,6 @@
-## Schedule 2
+## Schedule 2 — Variation Agreement
+[s. 2]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made this 20th day of May 1992
 B E T W E E N :
 THE HONOURABLE CARMEN MARY LAWRENCE, B.Psych., Ph.D., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the first part
@@ -64,4 +66,4 @@ G. B. BABON, Secretary
 SIGNED for and on behalf of AUSTRALIAN MINING & SMELTING LIMITED by its duly appointed attorney Ian James Williams under Power of Attorney dated 6 May 1992 in the presence of: | ) ) ) ) ) )
 I. J. WILLIAMS, Director
 V. M. PETHRICK, Secretary
-[Schedule 2 inserted by No. 41 of 1992 s. 7.]
+[Schedule 2 inserted: No. 41 of 1992 s. 7.]

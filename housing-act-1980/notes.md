@@ -30,10 +30,11 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 2
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Aboriginal Housing Legislation Amendment Act 2010 Pt. 2 | 6 of 2010 | 25 May 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 22 Jun 2010 p. 2767)
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | it. 31 the amendment to s. 5(1): 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341); it. 31 the amendment to s. 55(5) other than the amendment to delete “or on termination” and insert “or (ii) on termination”: 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341);
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | it. 31 the amendment to s. 55(5) the amendment to delete “or on termination” and insert “or (ii) on termination”: to be proclaimed (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(2), a reference to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Interpretation Act 1984 s. 77(1).
 The Housing Amendment Act 1983 s. 4(2) is a transitional provision that is of no further effect.
@@ -71,13 +72,14 @@ former body means —
 (a)the Country Housing Authority established by section 4 of the Country Housing Act 1998 as in force before commencement;
 (b)the Government Employees’ Housing Authority established by section 8 of the Government Employees’ Housing Act 1964 as in force before commencement;
 Housing Authority means the Housing Authority referred to in section 6(4) of the Housing Act 1980 as in force after commencement.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 Table item 31 part of the amendment to s. 55(5) had not come into operation. It reads as follows:
 51.Various written laws amended
 (1) This section amends the written laws listed in the Table.
 (2) Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
 31.Housing Act 1980
-s. 5(1) | (a)approved the State; (b)a reference (c)a reference (d)a reference (e)a reference | approved the State. (1A)In this Act unless the contrary intention appears — (a)a reference (b)a reference (c)a reference (d)a reference
-s. 55(5) | until proceedings institution, whether under or on termination or by such institution; or unless and until the State, pursuant to | until — (a)proceedings institution, whether — (i)under or (ii)on termination or (iii)by such institution; or (b)the State, pursuant to
+s. 55(5) | or on termination | or (ii)on termination
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

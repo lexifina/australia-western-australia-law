@@ -1,6 +1,6 @@
-## Schedule
-[Sec 3.]
-## Acts to which this Act is supplementary
+## Schedule — Acts to which this Act is supplementary
+[s. 3]
+[Heading amended by No. 19 of 2010 s. 4.]
 Bush Fires Act 1954
 Closer Settlement Act 1927
 Country Areas Water Supply Act 1947

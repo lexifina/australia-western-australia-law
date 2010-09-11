@@ -1,6 +1,6 @@
-## Schedule 1
-[Heading amended by No. 44 of 1987 s. 8.]
-(Section (3))
+## Schedule 1 — Casino (Burswood Island) Agreement
+[s. 3]
+[Heading amended by No. 44 of 1987 s. 8; No. 19 of 2010 s. 4.]
 AGREEMENT
 INDEX.
 Clause.Page

@@ -16,10 +16,7 @@ Reprint of the Fire Brigades Superannuation Act 1985 as at 15 Feb 2002 (includes
 Fire and Emergency Services Legislation Amendment Act 2002 Pt. 5 | 38 of 2002 | 20 Nov 2002 | 30 Nov 2002 (see s. 2 and Gazette 29 Nov 2002 p. 5651-2)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The Fire and Emergency Services Superannuation Act 1985 as at 16 Feb 2007 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Now known as the Fire and Emergency Services Superannuation Act 1985; short title changed (see note under s. 1).
 The Fire Brigades Superannuation Amendment Act 1994 Pt. 3 reads as follows:
 “
@@ -62,13 +59,3 @@ Schedule 1 cl. 13 reads as follows:
 “
 (13) Despite the amendments made to section 4 of the Fire Brigades Superannuation Act 1985 by subclause (12), a person appointed and holding office under that section immediately before the commencement of this clause as a member or alternate member of the Western Australian Fire Brigades Superannuation Board continues, subject to that Act, to hold that office on and after that commencement for the remainder of the period for which the person was appointed.
 ”.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Act | Identifier | Title | Shoulder note
-Fire and Emergency Services Superannuation Act 1985 | Schedule 2
-Schedule 3

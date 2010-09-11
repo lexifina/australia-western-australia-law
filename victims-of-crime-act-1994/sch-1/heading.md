@@ -1,6 +1,6 @@
-## Schedule 1
-[Section 3]
-## Guidelines as to how victims should be treated
+## Schedule 1 — Guidelines as to how victims should be treated
+[s. 3]
+[Heading amended by No. 19 of 2010 s. 4.]
 1.A victim should be treated with courtesy and compassion and with respect for the victim’s dignity.
 2.A victim should be given access to counselling about the availability of welfare, health, medical and legal assistance services and criminal injuries compensation.
 3.A victim should be informed about the availability of lawful protection against violence and intimidation by the offender.

@@ -1,76 +1,76 @@
 Notes
 This is a compilation of the Workers’ Compensation and Injury Management Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
-Short title | Number and year | Assent | Commencement
-Workers’ Compensation and Assistance Act 1981 | 86 of 1981 | 23 Nov 1981 | 3 May 1982 (see s. 2 and Gazette 8 Apr 1982 p. 1205)
-Workers’ Compensation and Assistance Amendment Act 1983 | 16 of 1983 | 7 Nov 1983 | 7 Nov 1983
-Workers’ Compensation and Assistance Amendment Act (No. 2) 1983 | 79 of 1983 | 22 Dec 1983 | 22 Dec 1983
-Health Legislation Amendment Act 1984 Pt. XXIV | 28 of 1984 | 31 May 1984 | 1 Jul 1984 (see s. 2 and Gazette 15 Jun 1984 p. 1629)
-Workers’ Compensation and Assistance Amendment Act 1984 | 104 of 1984 | 19 Dec 1984 | 19 Dec 1984 (see s. 2)
-Workers’ Compensation and Assistance Amendment Act 1985-19 | 44 of 1985 | 20 May 1985 | s. 1 and 2: 20 May 1985; s. 3(1) and (2) and 26: 20 May 1985 (see s. 2(1)); s. 3(3), 4-9, 13-18, 21, 22, 24, 27-37, 39-43: 28 Jun 1985 (see s. 2(2) and Gazette 14 Jun 1985 p. 2134); s. 25: 1 Jul 1985 (see s. 2(3)); s. 20: 25 Oct 1985 (see s. 2(2) and Gazette 25 Oct 1985 p. 4100); s. 23: 7 Feb 1986 (see s. 2(2) and Gazette 7 Feb 1986 p. 425); s. 38: 25 Jul 1986 (see s. 2(2) and Gazette 25 Jul 1986 p. 2453)
-Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
-Workers’ Compensation and Assistance Amendment Act 1986 | 33 of 1986 | 1 Aug 1986 | 1 Aug 1986 (see s. 2)
-State Government Insurance Commission Act 1986 s. 46(2) | 51 of 1986 | 5 Aug 1986 | 1 Jan 1987 (see s. 2 and Gazette 19 Dec 1986 p. 4859)
-Workers’ Compensation and Assistance Amendment Act (No. 2) 1986 | 85 of 1986 | 5 Dec 1986 | Act other than s. 7 and 11: 5 Dec 1986 (see s. 2(1)); s. 7 and 11: 22 May 1987 (see s. 2(2) and Gazette 22 May 1987 p. 2167)
-Acts Amendment (Workers’ Compensation and Assistance) Act 1986 Pt. III | 86 of 1986 | 5 Dec 1986 | 2 Jan 1987
-Reprint of the Workers’ Compensation and Assistance Act 1981 as at 6 Feb 1987 (includes amendments listed above except those in the Workers’ Compensation and Assistance Amendment Act (No. 2) 1986 s. 7 and 11)
-Workers’ Compensation and Assistance Amendment Act 1987 | 21 of 1987 | 25 Jun 1987 | 23 Jul 1987
-Acts Amendment (Legal Practitioners, Costs and Taxation) Act 1987 Pt. VII | 65 of 1987 | 1 Dec 1987 | 12 Feb 1988 (see s. 2(2) and Gazette 12 Feb 1988 p. 397)
-Workers’ Compensation and Assistance Amendment Act 1988 Pt. 2 | 36 of 1988 | 24 Nov 1988 | 1 Mar 1991 (see s. 2 and Gazette 1 Mar 1991 p. 967)
-Workers’ Compensation and Assistance Amendment Act 1990 | 96 of 1990 | 22 Dec 1990 | s. 1 and 2: 22 Dec 1990; Act other than s. 1 and 2: 8 Mar 1991 (see s. 2 and Gazette 8 Mar 1991 p. 1030)
-Reprint of the Workers’ Compensation and Rehabilitation Act 1981 as at 9 Oct 1991 (includes amendments listed above) (errata in Gazette 1 May 1992 p. 1866)
-Acts Amendment (Parliamentary, Electorate and Gubernatorial Staff) Act 1992 Pt. 6 | 40 of 1992 | 2 Oct 1992 | 3 Nov 1992 (see s. 2 and Gazette 3 Nov 1992 p. 5389)
-Workers’ Compensation and Rehabilitation Amendment Act (No. 2) 1992 | 72 of 1992 | 15 Dec 1992 | s. 1 and 2: 15 Dec 1992; Act other than s. 1, 2, 6-8: 24 Dec 1992 (see s. 2 and Gazette 24 Dec 1992 p. 6277); s. 6-8: 5 Feb 1993 (see s. 2 and Gazette 5 Feb 1993 p. 975)
-Employers’ Indemnity Supplementation Fund Amendment Act 1993 s. 14 | 1 of 1993 | 19 Jul 1993 | 19 Jul 1993 (see s. 2)
-Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
-Mines Regulation Amendment Act 1993 s. 13 | 30 of 1993 | 16 Dec 1993 | 24 Dec 1993 (see s. 2 and Gazette 24 Dec 1993 p. 6796)
-Workers’ Compensation and Rehabilitation Amendment Act 1993 -33 | 48 of 1993 (as amended by No. 34 of 1999 Pt. 3 and No. 42 of 2004 s. 172) | 20 Dec 1993 | Pt. 1-3: 20 Dec 1993 (see s. 2(1)); s. 21, 23, 25, 28(1) (only so far as it gives effect to Sch. 1 cl. 13, 14, 27(a)(i), (b)(i) and (c) and 31) of Pt. 4, and Pt. 5 (other than s. 36-38, 41 and 43): 24 Dec 1993 (see s. 2(2) and Gazette 24 Dec 1993 p. 6795); balance: 1 Mar 1994 (see s. 2(2) and Gazette 24 Dec 1993 p. 6795)
-Reprint of the Workers’ Compensation and Rehabilitation Act 1981 as at 14 Mar 1994 (includes amendments listed above)
-Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
-Mines Safety and Inspection Act 1994 s. 109 | 62 of 1994 | 7 Nov 1994 | 9 Dec 1995 (see s. 2 and Gazette 8 Dec 1995 p. 5935)
-Hospitals Amendment Act 1994 s. 18 | 103 of 1994 | 11 Jan 1995 | 3 Feb 1995 (see s. 2 and Gazette 3 Feb 1995 p. 333)
-Occupational Safety and Health Legislation Amendment Act 1995 s. 48 | 30 of 1995 | 11 Sep 1995 | 1 Oct 1995 (see s. 2 and Gazette 15 Sep 1995 p. 4301)
-Sentencing (Consequential Provisions) Act 1995 Pt. 84 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
-Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
-Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
-Reprint of the Workers’ Compensation and Rehabilitation Act 1981 as at 29 Jan 1999 (includes amendments listed above)
-Workers’ Compensation and Rehabilitation Amendment Act (No. 2) 1999 | 33 of 1999 | 5 Oct 1999 | 5 Oct 1999 (see s. 2)
-Workers’ Compensation and Rehabilitation Amendment Act 1999-37 | 34 of 1999 (as amended by No. 37 of 1999 s. 3) (as affected by No. 35 of 2004 Pt. 2) | 5 Oct 1999 | s. 5, 14, 15, 32, 48(a)(iv), 53(a), (c) and (d)(ii): 5 Oct 1999 (see s. 2(1)); balance: 15 Oct 1999 (see s. 2(2) and Gazette 15 Oct 1999 p. 4889 and Printers correction to proclamation in Gazette 19 Nov 1999 p. 5797)
-Workers’ Compensation and Rehabilitation Amendment Act 2000 | 44 of 2000 | 17 Nov 2000 | Act other than s. 1, 2 and 4(2)(b): 5 Oct 1999 (see s. 2(1)); s. 1, 2 and 4(2)(b): 17 Nov 2000 (see s. 2(2))
-Corporations (Consequential Amendments) Act 2001 Pt. 57 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
-Reprint of the Workers’ Compensation and Rehabilitation Act 1981 as at 14 Sep 2001 (includes amendments listed above)
-Acts Amendment (Equality of Status) Act 2003 Pt. 63 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
-Racing and Gambling Legislation Amendment and Repeal Act 2003 Pt. 15 | 35 of 2003 | 26 Jun 2003 | 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259)
-Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 72 and 96 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
-Statutes (Repeals and Minor Amendments) Act 2003 s. 134 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
-Workers’ Compensation (Common Law Proceedings) Act 2004 | 35 of 2004 | 25 Oct 2004 | s. 5(1) and (2): 5 Oct 1999 (see s. 2(2)); balance: 25 Oct 2004 (see s. 2(1))
-Workers’ Compensation and Rehabilitation Amendment (Cross Border) Act 2004 | 36 of 2004 (as amended by this Act s. 16, 17(5) and 19) | 28 Oct 2004 | s. 1 and 2: 28 Oct 2004; Act other than s. 1, 2 and Pt. 3: 22 Dec 2004 (see s. 2 and Gazette 21 Dec 2004 p. 6143); Pt. 3: 14 Nov 2005 (see s. 2(2) and Gazette 1 Nov 2005 p. 4975)
-Workers’ Compensation Reform Act 2004 | 42 of 2004 (as amended by No. 16 of 2005 s. 4-7) | 9 Nov 2004 | s. 1 and 2: 9 Nov 2004; s. 3, 4(b), 5, 8(1) in so far as it deletes the definitions of Commission, Committee, Executive Director and the Chairman of the Commission, s. 8(2) in so far as it inserts the definitions of chief executive officer, the Chairman of WorkCover WA, and WorkCover WA, s. 8(3)(a), (b), (d), (e) and (i), 9, 19, 23-26, 28-35, 38-39, 40(a), 55(3)(b), 57(a) and (b), 64, 65(1), 80-86, 87(8), 88(1)-(4), 89-91, 93(a), (c), and (d), 94-95, 97, 98(1), (2) and (3)(a), 99-100, 101(1), 102, 111-113, 115-117, 122, 123(1)-(5), 124, 125(1), 126(1), (2), (3) and (5), 127, 131, 133, 135, 137-138, 140, 141(4)(a), (5)(a), (8)-(14), (15)(a), (c) and (d), and (21), 143(2), 150-153 and Pt. 4 (other than Div. 3): 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131);
- |  |  | s. 4(a) and (c), 6 and 7, 8(1) other than the definitions of Commission, Committee, Executive Director and the Chairman of the Commission, s. 8(2) other than the definitions of chief executive officer, the Chairman of WorkCover WA, and WorkCover WA, s. 8(3)(c), (f)-(h) and (4)-(5), 11-18, 20-22, 27, 36, 37, 40(b), 41-54, 55(1), (2), (3)(a) and (4), 56, 57(c)-(e), 58-63, 65(2), 66-79, 87(1)-(7), 88(5), 92, 93(b), 96, 98(3)(b) and (c), 101(2), (3) and (4)(b), 103-110, 114, 118, 119, 120(2) and (3), 121, 123(6), 125(2), 126(4), 128-130, 132, 134, 136, 139, 141(1)-(3), (4)(b), (5)(b), (6), (7), (15)(b) and (e), (16)-(20), (22)-(25), 142, 143(1), 144-149, 154 and 182-188: 14 Nov 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131 and 17 Jun 2005 p. 2657); Para (b) of proclamation published 31 Dec 2004 p. 7131 revoked (see Gazette 17 Jun 2005 p. 2657); s. 10 repealed by No. 16 of 2005 s. 4; s. 101(4)(a) deleted by No. 16 of 2005 s. 5; s. 120(1) repealed by No. 16 of 2005 s. 6
-Acts Amendment (Court of Appeal) Act 2004 s. 37 (Sch. 1 cl. 28) | 45 of 2004 (as amended by No. 16 of 2005 s. 31) | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
-Courts Legislation Amendment and Repeal Act 2004 Pt. 19 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 (Sch. 2 cl. 156 and 157) | 84 of 2004 (as amended by No. 2 of 2008 s. 78(10)) | 16 Dec 2004 | s. 78 and 80 (Sch. 2 cl. 156 and 157 — the amendment to s. 188B(3)): 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 6: The Workers’ Compensation and Injury Management Act 1981 as at 5 Aug 2005 (includes amendments listed above except those in the Workers’ Compensation and Rehabilitation Amendment (Cross Border) Act 2004 Pt. 3 and certain provisions of the Workers’ Compensation Reform Act 2004)
-Workers’ Compensation Legislation Amendment Act 2005 Pt. 3, 4 and s. 32 | 16 of 2005 | 27 Sep 2005 | s. 30(1) and (2): 1 Jul 2005 (see s. 2(2)); s. 30(3): 27 Sep 2005 (see s. 2(1)); Pt. 3 and s. 32: 14 Nov 2005 (see s. 2(3))
-Limitation Legislation Amendment and Repeal Act 2005 Pt. 9 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
-Chiropractors Act 2005 Sch. 3 cl. 8 | 31 of 2005 | 12 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
-Reprint 7: The Workers’ Compensation and Injury Management Act 1981 as at 3 Feb 2006 (includes amendments listed above except those in the Chiropractors Act 2005)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 189 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Criminal Law and Evidence Amendment Act 2008 s. 73 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
-Duties Legislation Amendment Act 2008 Sch. 1 cl. 42 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
-Legal Profession Act 2008 s. 713 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
-Medical Practitioners Act 2008 Sch. 3 cl. 54 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
-Reprint 8: The Workers’ Compensation and Injury Management Act 1981 as at 8 May 2009 (includes amendments listed above)
-Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 139 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
-Acts Amendment (Bankruptcy) Act 2009 s. 94 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-Police Amendment Act 2009 s. 25 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
-Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
+ | Short title | Number and year | Assent | Commencement
+ | Workers’ Compensation and Assistance Act 1981 | 86 of 1981 | 23 Nov 1981 | 3 May 1982 (see s. 2 and Gazette 8 Apr 1982 p. 1205)
+ | Workers’ Compensation and Assistance Amendment Act 1983 | 16 of 1983 | 7 Nov 1983 | 7 Nov 1983
+ | Workers’ Compensation and Assistance Amendment Act (No. 2) 1983 | 79 of 1983 | 22 Dec 1983 | 22 Dec 1983
+ | Health Legislation Amendment Act 1984 Pt. XXIV | 28 of 1984 | 31 May 1984 | 1 Jul 1984 (see s. 2 and Gazette 15 Jun 1984 p. 1629)
+ | Workers’ Compensation and Assistance Amendment Act 1984 | 104 of 1984 | 19 Dec 1984 | 19 Dec 1984 (see s. 2)
+ | Workers’ Compensation and Assistance Amendment Act 1985-19 | 44 of 1985 | 20 May 1985 | s. 1 and 2: 20 May 1985; s. 3(1) and (2) and 26: 20 May 1985 (see s. 2(1)); s. 3(3), 4-9, 13-18, 21, 22, 24, 27-37, 39-43: 28 Jun 1985 (see s. 2(2) and Gazette 14 Jun 1985 p. 2134); s. 25: 1 Jul 1985 (see s. 2(3)); s. 20: 25 Oct 1985 (see s. 2(2) and Gazette 25 Oct 1985 p. 4100); s. 23: 7 Feb 1986 (see s. 2(2) and Gazette 7 Feb 1986 p. 425); s. 38: 25 Jul 1986 (see s. 2(2) and Gazette 25 Jul 1986 p. 2453)
+ | Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
+ | Workers’ Compensation and Assistance Amendment Act 1986 | 33 of 1986 | 1 Aug 1986 | 1 Aug 1986 (see s. 2)
+ | State Government Insurance Commission Act 1986 s. 46(2) | 51 of 1986 | 5 Aug 1986 | 1 Jan 1987 (see s. 2 and Gazette 19 Dec 1986 p. 4859)
+ | Workers’ Compensation and Assistance Amendment Act (No. 2) 1986 | 85 of 1986 | 5 Dec 1986 | Act other than s. 7 and 11: 5 Dec 1986 (see s. 2(1)); s. 7 and 11: 22 May 1987 (see s. 2(2) and Gazette 22 May 1987 p. 2167)
+ | Acts Amendment (Workers’ Compensation and Assistance) Act 1986 Pt. III | 86 of 1986 | 5 Dec 1986 | 2 Jan 1987
+ | Reprint of the Workers’ Compensation and Assistance Act 1981 as at 6 Feb 1987 (includes amendments listed above except those in the Workers’ Compensation and Assistance Amendment Act (No. 2) 1986 s. 7 and 11)
+ | Workers’ Compensation and Assistance Amendment Act 1987 | 21 of 1987 | 25 Jun 1987 | 23 Jul 1987
+ | Acts Amendment (Legal Practitioners, Costs and Taxation) Act 1987 Pt. VII | 65 of 1987 | 1 Dec 1987 | 12 Feb 1988 (see s. 2(2) and Gazette 12 Feb 1988 p. 397)
+ | Workers’ Compensation and Assistance Amendment Act 1988 Pt. 2 | 36 of 1988 | 24 Nov 1988 | 1 Mar 1991 (see s. 2 and Gazette 1 Mar 1991 p. 967)
+ | Workers’ Compensation and Assistance Amendment Act 1990 | 96 of 1990 | 22 Dec 1990 | s. 1 and 2: 22 Dec 1990; Act other than s. 1 and 2: 8 Mar 1991 (see s. 2 and Gazette 8 Mar 1991 p. 1030)
+ | Reprint of the Workers’ Compensation and Rehabilitation Act 1981 as at 9 Oct 1991 (includes amendments listed above) (errata in Gazette 1 May 1992 p. 1866)
+ | Acts Amendment (Parliamentary, Electorate and Gubernatorial Staff) Act 1992 Pt. 6 | 40 of 1992 | 2 Oct 1992 | 3 Nov 1992 (see s. 2 and Gazette 3 Nov 1992 p. 5389)
+ | Workers’ Compensation and Rehabilitation Amendment Act (No. 2) 1992 | 72 of 1992 | 15 Dec 1992 | s. 1 and 2: 15 Dec 1992; Act other than s. 1, 2, 6-8: 24 Dec 1992 (see s. 2 and Gazette 24 Dec 1992 p. 6277); s. 6-8: 5 Feb 1993 (see s. 2 and Gazette 5 Feb 1993 p. 975)
+ | Employers’ Indemnity Supplementation Fund Amendment Act 1993 s. 14 | 1 of 1993 | 19 Jul 1993 | 19 Jul 1993 (see s. 2)
+ | Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
+ | Mines Regulation Amendment Act 1993 s. 13 | 30 of 1993 | 16 Dec 1993 | 24 Dec 1993 (see s. 2 and Gazette 24 Dec 1993 p. 6796)
+ | Workers’ Compensation and Rehabilitation Amendment Act 1993 -33 | 48 of 1993 (as amended by No. 34 of 1999 Pt. 3 and No. 42 of 2004 s. 172) | 20 Dec 1993 | Pt. 1-3: 20 Dec 1993 (see s. 2(1)); s. 21, 23, 25, 28(1) (only so far as it gives effect to Sch. 1 cl. 13, 14, 27(a)(i), (b)(i) and (c) and 31) of Pt. 4, and Pt. 5 (other than s. 36-38, 41 and 43): 24 Dec 1993 (see s. 2(2) and Gazette 24 Dec 1993 p. 6795); balance: 1 Mar 1994 (see s. 2(2) and Gazette 24 Dec 1993 p. 6795)
+ | Reprint of the Workers’ Compensation and Rehabilitation Act 1981 as at 14 Mar 1994 (includes amendments listed above)
+ | Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
+ | Mines Safety and Inspection Act 1994 s. 109 | 62 of 1994 | 7 Nov 1994 | 9 Dec 1995 (see s. 2 and Gazette 8 Dec 1995 p. 5935)
+ | Hospitals Amendment Act 1994 s. 18 | 103 of 1994 | 11 Jan 1995 | 3 Feb 1995 (see s. 2 and Gazette 3 Feb 1995 p. 333)
+ | Occupational Safety and Health Legislation Amendment Act 1995 s. 48 | 30 of 1995 | 11 Sep 1995 | 1 Oct 1995 (see s. 2 and Gazette 15 Sep 1995 p. 4301)
+ | Sentencing (Consequential Provisions) Act 1995 Pt. 84 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
+ | Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
+ | Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
+ | Reprint of the Workers’ Compensation and Rehabilitation Act 1981 as at 29 Jan 1999 (includes amendments listed above)
+ | Workers’ Compensation and Rehabilitation Amendment Act (No. 2) 1999 | 33 of 1999 | 5 Oct 1999 | 5 Oct 1999 (see s. 2)
+ | Workers’ Compensation and Rehabilitation Amendment Act 1999-37 | 34 of 1999 (as amended by No. 37 of 1999 s. 3) (as affected by No. 35 of 2004 Pt. 2) | 5 Oct 1999 | s. 5, 14, 15, 32, 48(a)(iv), 53(a), (c) and (d)(ii): 5 Oct 1999 (see s. 2(1)); balance: 15 Oct 1999 (see s. 2(2) and Gazette 15 Oct 1999 p. 4889 and Printers correction to proclamation in Gazette 19 Nov 1999 p. 5797)
+ | Workers’ Compensation and Rehabilitation Amendment Act 2000 | 44 of 2000 | 17 Nov 2000 | Act other than s. 1, 2 and 4(2)(b): 5 Oct 1999 (see s. 2(1)); s. 1, 2 and 4(2)(b): 17 Nov 2000 (see s. 2(2))
+ | Corporations (Consequential Amendments) Act 2001 Pt. 57 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
+ | Reprint of the Workers’ Compensation and Rehabilitation Act 1981 as at 14 Sep 2001 (includes amendments listed above)
+ | Acts Amendment (Equality of Status) Act 2003 Pt. 63 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
+ | Racing and Gambling Legislation Amendment and Repeal Act 2003 Pt. 15 | 35 of 2003 | 26 Jun 2003 | 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259)
+ | Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 72 and 96 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
+ | Statutes (Repeals and Minor Amendments) Act 2003 s. 134 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
+ | Workers’ Compensation (Common Law Proceedings) Act 2004 | 35 of 2004 | 25 Oct 2004 | s. 5(1) and (2): 5 Oct 1999 (see s. 2(2)); balance: 25 Oct 2004 (see s. 2(1))
+ | Workers’ Compensation and Rehabilitation Amendment (Cross Border) Act 2004 | 36 of 2004 (as amended by this Act s. 16, 17(5) and 19) | 28 Oct 2004 | s. 1 and 2: 28 Oct 2004; Act other than s. 1, 2 and Pt. 3: 22 Dec 2004 (see s. 2 and Gazette 21 Dec 2004 p. 6143); Pt. 3: 14 Nov 2005 (see s. 2(2) and Gazette 1 Nov 2005 p. 4975)
+ | Workers’ Compensation Reform Act 2004 | 42 of 2004 (as amended by No. 16 of 2005 s. 4-7) | 9 Nov 2004 | s. 1 and 2: 9 Nov 2004; s. 3, 4(b), 5, 8(1) in so far as it deletes the definitions of Commission, Committee, Executive Director and the Chairman of the Commission, s. 8(2) in so far as it inserts the definitions of chief executive officer, the Chairman of WorkCover WA, and WorkCover WA, s. 8(3)(a), (b), (d), (e) and (i), 9, 19, 23-26, 28-35, 38-39, 40(a), 55(3)(b), 57(a) and (b), 64, 65(1), 80-86, 87(8), 88(1)-(4), 89-91, 93(a), (c), and (d), 94-95, 97, 98(1), (2) and (3)(a), 99-100, 101(1), 102, 111-113, 115-117, 122, 123(1)-(5), 124, 125(1), 126(1), (2), (3) and (5), 127, 131, 133, 135, 137-138, 140, 141(4)(a), (5)(a), (8)-(14), (15)(a), (c) and (d), and (21), 143(2), 150-153 and Pt. 4 (other than Div. 3): 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131);
+ |  |  |  | s. 4(a) and (c), 6 and 7, 8(1) other than the definitions of Commission, Committee, Executive Director and the Chairman of the Commission, s. 8(2) other than the definitions of chief executive officer, the Chairman of WorkCover WA, and WorkCover WA, s. 8(3)(c), (f)-(h) and (4)-(5), 11-18, 20-22, 27, 36, 37, 40(b), 41-54, 55(1), (2), (3)(a) and (4), 56, 57(c)-(e), 58-63, 65(2), 66-79, 87(1)-(7), 88(5), 92, 93(b), 96, 98(3)(b) and (c), 101(2), (3) and (4)(b), 103-110, 114, 118, 119, 120(2) and (3), 121, 123(6), 125(2), 126(4), 128-130, 132, 134, 136, 139, 141(1)-(3), (4)(b), (5)(b), (6), (7), (15)(b) and (e), (16)-(20), (22)-(25), 142, 143(1), 144-149, 154 and 182-188: 14 Nov 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131 and 17 Jun 2005 p. 2657); Para (b) of proclamation published 31 Dec 2004 p. 7131 revoked (see Gazette 17 Jun 2005 p. 2657); s. 10 repealed by No. 16 of 2005 s. 4; s. 101(4)(a) deleted by No. 16 of 2005 s. 5; s. 120(1) repealed by No. 16 of 2005 s. 6
+ | Acts Amendment (Court of Appeal) Act 2004 s. 37 (Sch. 1 cl. 28) | 45 of 2004 (as amended by No. 16 of 2005 s. 31) | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
+ | Courts Legislation Amendment and Repeal Act 2004 Pt. 19 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+ | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 (Sch. 2 cl. 156 and 157) | 84 of 2004 (as amended by No. 2 of 2008 s. 78(10)) | 16 Dec 2004 | s. 78 and 80 (Sch. 2 cl. 156 and 157 — the amendment to s. 188B(3)): 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+ | Reprint 6: The Workers’ Compensation and Injury Management Act 1981 as at 5 Aug 2005 (includes amendments listed above except those in the Workers’ Compensation and Rehabilitation Amendment (Cross Border) Act 2004 Pt. 3 and certain provisions of the Workers’ Compensation Reform Act 2004)
+ | Workers’ Compensation Legislation Amendment Act 2005 Pt. 3, 4 and s. 32 | 16 of 2005 | 27 Sep 2005 | s. 30(1) and (2): 1 Jul 2005 (see s. 2(2)); s. 30(3): 27 Sep 2005 (see s. 2(1)); Pt. 3 and s. 32: 14 Nov 2005 (see s. 2(3))
+ | Limitation Legislation Amendment and Repeal Act 2005 Pt. 9 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
+ | Chiropractors Act 2005 Sch. 3 cl. 8 | 31 of 2005 | 12 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
+ | Reprint 7: The Workers’ Compensation and Injury Management Act 1981 as at 3 Feb 2006 (includes amendments listed above except those in the Chiropractors Act 2005)
+ | Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 189 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+ | Criminal Law and Evidence Amendment Act 2008 s. 73 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
+ | Duties Legislation Amendment Act 2008 Sch. 1 cl. 42 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+ | Legal Profession Act 2008 s. 713 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+ | Medical Practitioners Act 2008 Sch. 3 cl. 54 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+ | Reprint 8: The Workers’ Compensation and Injury Management Act 1981 as at 8 May 2009 (includes amendments listed above)
+ | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 139 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+ | Acts Amendment (Bankruptcy) Act 2009 s. 94 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+ | Police Amendment Act 2009 s. 25 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
+ | Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4, 42(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 (as amended by No. 42 of 2004 s. 155) | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Standardisation of Formatting Act 2010 s. 4, 42(3) and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 50 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The name of the State Government Insurance Commission was changed to the Insurance Commission of Western Australia by the Acts Amendment (ICWA) Act 1996 s. 8 (see also note 47).
 Under the Acts Amendment (ICWA) Act 1996 s. 31(2)(h), a reference to the State Government Insurance Corporation in a written law is, unless because of the context it would be inappropriate so to do, to be construed, or have effect, as if it had been amended to be a reference to the Insurance Commission of Western Australia (see also note 47).
@@ -412,41 +412,6 @@ Section 5(1) | (a)After the definition of “industrial disease premium”, inse
 Section 162(1) | Delete “State Government Insurance Commission”, substitute “Insurance Commission of Western Australia”.
 Section 163 | Delete “State Government Insurance Commission”, substitute “Insurance Commission of Western Australia”.
 [Item 16 amended by No. 42 of 2004 s. 155(2)(a).]
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4, 42(3) and 51 had not come into operation. They read as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Workers’ Compensation and Injury Management Act 1981 | Schedule 1 |  | [s. 18]
-Schedule 2 |  | [s. 24]
-Schedule 3 |  | [s. 32]
-Schedule 4 |  | [s. 49]
-42.“The Schedules” and “Schedules” headings deleted
-(1) This section amends the Acts listed in Tables 1 and 2.
-(3) In each Act listed in Table 2 before the first of the Schedules to the Act delete “Schedules”.
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-100.Workers’ Compensation and Injury Management Act 1981
-s. 26(1) | (1)When, by a compensable use of — any part or Schedule 2 — and by subsequent use of — that part or faculty of the body — | (1)When — (a)by a compensable use of any part or Schedule 2; and (b)by subsequent use of that part or faculty of the body,
-s. 26(2) | table — whether in one use of — that part or faculty of the body — or in several use of — that part or faculty of the body, then | table, whether — (a)in one use of that part or faculty of the body; or (b)in several use of that part or faculty of the body, then
-s. 46(2) | compensation — that payment, in respect | compensation that payment, in respect
-s. 154(2) | of it — (a)to WorkCover allow; stating | of it to WorkCover allow, stating
-Under s.45 the following order in council was published in Gazette 19 June 2009 p 2253:
-Workers’ Compensation and Injury Management Act 1981
-Workers’ Compensation and Injury Management (Specified Industrial Diseases) Order 2008
-Made by the Governor in Executive Council under section 45 of the Act.
-1.Citation
-This order is the Workers’ Compensation and Injury Management (Specified Industrial Diseases) Order 2008.
-2.Addition to Schedule 3
-The disease and the process named in the Table are included in Schedule 3.
-Column 1 Description of Disease | Column 2 Description of Process
-Pleural plaques (diffuse pleural fibrosis) | Any process entailing substantial exposure to asbestos dust.
-Note:In accordance with section 45(2) of the Act this order takes effect on the expiration of 3 months from the date of publication in the Gazette.
 On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 50 had not come into operation. It reads as follows:
 Division 50 — Workers’ Compensation and Injury Management Act 1981 amended
 163.Act amended
@@ -464,6 +429,17 @@ physiotherapist means a person who is resident in this State and is registered u
 (a)a person who is resident in this State and who is registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession; or
 (5) In section 5(1) in the definition of specialist delete paragraph (a) and “or” after it and insert:
 (a)who is resident in this State and whose name is contained in a register of specialists kept by the Medical Board of Australia under the Health Practitioner Regulation National Law (Western Australia) section 223; or
+Under s.45 the following order in council was published in Gazette 19 June 2009 p 2253:
+Workers’ Compensation and Injury Management Act 1981
+Workers’ Compensation and Injury Management (Specified Industrial Diseases) Order 2008
+Made by the Governor in Executive Council under section 45 of the Act.
+1.Citation
+This order is the Workers’ Compensation and Injury Management (Specified Industrial Diseases) Order 2008.
+2.Addition to Schedule 3
+The disease and the process named in the Table are included in Schedule 3.
+Column 1 Description of Disease | Column 2 Description of Process
+Pleural plaques (diffuse pleural fibrosis) | Any process entailing substantial exposure to asbestos dust.
+Note:In accordance with section 45(2) of the Act this order takes effect on the expiration of 3 months from the date of publication in the Gazette.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
