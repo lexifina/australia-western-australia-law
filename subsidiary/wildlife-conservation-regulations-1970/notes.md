@@ -1,41 +1,38 @@
 Notes
 This is a compilation of the Wildlife Conservation Regulations 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any previous reprints.
 Compilation table
-Citation | Gazettal | Commencement
-Fauna Conservation Regulations | 18 Nov 1970 p. 3547-85 | 18 Nov 1970
- | 18 Aug 1972 p. 3153 | 18 Aug 1972
- | 6 Oct 1972 p. 4026-7 | 6 Oct 1972
- | 4 May 1973 p. 1118-19 | 4 May 1973
- | 5 Oct 1973 p. 3663 | 1 Nov 1973
- | 24 Dec 1976 p. 5047-59 | 1 Jan 1977
- | 4 Feb 1977 p. 341 | 4 Feb 1977
- | 12 Aug 1977 p. 2612 | 12 Aug 1977
- | 2 Jun 1978 p. 1685 | 1 Jul 1978
- | 21 Jul 1978 p. 2642-6 | 1 Aug 1978
- | 11 Aug 1978 p. 2883 | 11 Aug 1978
- | 16 Mar 1979 p. 694-5 | 16 Mar 1979
- | 18 Apr 1980 p. 1132-4 | 28 Apr 1980 (see Gazette 18 Apr 1980 p. 1115)
-Wildlife Conservation Amendment Regulations 1981 | 27 Mar 1981 p. 1045-54 | 27 Mar 1981
-Wildlife Conservation Amendment Regulations (No. 2) 1981 | 16 Oct 1981 p. 4323-5 | 16 Oct 1981
-Reprint of the Wildlife Conservation Regulations 1970 dated 23 Feb 1982 (see Gazette 8 Mar 1982 p. 747-800) (includes amendments listed above except those in the Wildlife Conservation Amendment Regulations (No. 2) 1981)
-Wildlife Conservation Amendment Regulations 1983 | 18 Feb 1983 p. 526 | 18 Feb 1983
-Wildlife Conservation Amendment Regulations 1986 | 27 Jun 1986 p. 2193 | 1 Jul 1986 (see r. 2)
-Wildlife Conservation Amendment Regulations 1988 | 11 Mar 1988 p. 784 (erratum 18 Mar 1988 p. 823) | 11 Mar 1988
-Wildlife Conservation Amendment Regulations (No. 2) 1989 | 18 Aug 1989 p. 2763-4 | 18 Aug 1989
-Wildlife Conservation Amendment Regulations 1990 | 1 Jun 1990 p. 2477-86 (erratum 15 Jun 1990 p. 2722) | 1 Jun 1990
-Wildlife Conservation Amendment Regulations 1991 | 31 May 1991 p. 2649-54 | 1 Jun 1991 (see r. 1)
-Wildlife Conservation Amendment Regulations (No. 2) 1991 | 15 Nov 1991 p. 5804-6 | 15 Nov 1991
-Reprint of the Wildlife Conservation Regulations 1970 as at 30 Jan 1992 (includes amendments listed above) (Errata to Reprint in Gazette 15 Jan 1993 p. 169)
-Wildlife Conservation Amendment Regulations 1992 | 9 Oct 1992 p. 4970-3 | 9 Oct 1992
-Wildlife Conservation Amendment Regulations 2001 | 14 Aug 2001 p. 4237-8 | 14 Aug 2001
-Conservation and Land Management Regulations 2002 r. 115(c) | 3 May 2002 p. 2233-308 | 3 May 2002
-Reprint of the Wildlife Conservation Regulations 1970 as at 7 Jun 2002 (includes amendments listed above)
-Wildlife Conservation Amendment Regulations 2002 | 24 Sep 2002 p. 4763-6 | 24 Sep 2002
-Wildlife Conservation Amendment Regulations 2003 | 4 Feb 2003 p. 323-6 | 4 Feb 2003
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+ | Citation | Gazettal | Commencement
+ | Fauna Conservation Regulations | 18 Nov 1970 p. 3547-85 | 18 Nov 1970
+ |  | 18 Aug 1972 p. 3153 | 18 Aug 1972
+ |  | 6 Oct 1972 p. 4026-7 | 6 Oct 1972
+ |  | 4 May 1973 p. 1118-19 | 4 May 1973
+ |  | 5 Oct 1973 p. 3663 | 1 Nov 1973
+ |  | 24 Dec 1976 p. 5047-59 | 1 Jan 1977
+ |  | 4 Feb 1977 p. 341 | 4 Feb 1977
+ |  | 12 Aug 1977 p. 2612 | 12 Aug 1977
+ |  | 2 Jun 1978 p. 1685 | 1 Jul 1978
+ |  | 21 Jul 1978 p. 2642-6 | 1 Aug 1978
+ |  | 11 Aug 1978 p. 2883 | 11 Aug 1978
+ |  | 16 Mar 1979 p. 694-5 | 16 Mar 1979
+ |  | 18 Apr 1980 p. 1132-4 | 28 Apr 1980 (see Gazette 18 Apr 1980 p. 1115)
+ | Wildlife Conservation Amendment Regulations 1981 | 27 Mar 1981 p. 1045-54 | 27 Mar 1981
+ | Wildlife Conservation Amendment Regulations (No. 2) 1981 | 16 Oct 1981 p. 4323-5 | 16 Oct 1981
+ | Reprint of the Wildlife Conservation Regulations 1970 dated 23 Feb 1982 (see Gazette 8 Mar 1982 p. 747-800) (includes amendments listed above except those in the Wildlife Conservation Amendment Regulations (No. 2) 1981)
+ | Wildlife Conservation Amendment Regulations 1983 | 18 Feb 1983 p. 526 | 18 Feb 1983
+ | Wildlife Conservation Amendment Regulations 1986 | 27 Jun 1986 p. 2193 | 1 Jul 1986 (see r. 2)
+ | Wildlife Conservation Amendment Regulations 1988 | 11 Mar 1988 p. 784 (erratum 18 Mar 1988 p. 823) | 11 Mar 1988
+ | Wildlife Conservation Amendment Regulations (No. 2) 1989 | 18 Aug 1989 p. 2763-4 | 18 Aug 1989
+ | Wildlife Conservation Amendment Regulations 1990 | 1 Jun 1990 p. 2477-86 (erratum 15 Jun 1990 p. 2722) | 1 Jun 1990
+ | Wildlife Conservation Amendment Regulations 1991 | 31 May 1991 p. 2649-54 | 1 Jun 1991 (see r. 1)
+ | Wildlife Conservation Amendment Regulations (No. 2) 1991 | 15 Nov 1991 p. 5804-6 | 15 Nov 1991
+ | Reprint of the Wildlife Conservation Regulations 1970 as at 30 Jan 1992 (includes amendments listed above) (Errata to Reprint in Gazette 15 Jan 1993 p. 169)
+ | Wildlife Conservation Amendment Regulations 1992 | 9 Oct 1992 p. 4970-3 | 9 Oct 1992
+ | Wildlife Conservation Amendment Regulations 2001 | 14 Aug 2001 p. 4237-8 | 14 Aug 2001
+ | Conservation and Land Management Regulations 2002 r. 115(c) | 3 May 2002 p. 2233-308 | 3 May 2002
+ | Reprint of the Wildlife Conservation Regulations 1970 as at 7 Jun 2002 (includes amendments listed above)
+ | Wildlife Conservation Amendment Regulations 2002 | 24 Sep 2002 p. 4763-6 | 24 Sep 2002
+ | Wildlife Conservation Amendment Regulations 2003 | 4 Feb 2003 p. 323-6 | 4 Feb 2003
+Standardisation of Formatting Act 2010 s. 42(2) assented 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Now know as the Zoological Parks Authority.
 Repealed by the Zoological Parks Authority Act 2001.
 Under the Financial Administration Legislation Amendment Act 1993 s. 17(a) a reference to the Consolidated Revenue Fund or the General Loan and Capital Works Fund is to be construed, or to have effect, as if it had been amended to be a reference to the Consolidated Fund. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
@@ -53,12 +50,3 @@ The Conservation and Land Management Regulations 2002 r. 116 reads as follows:
 former provision means a provision repealed by regulation 114 or 115.
 ”.
 The commencement date referred to in r. 2 was before the date of gazettal.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-98.Wildlife Conservation Regulations 1970 (consequential amendments)
-r. 26(1) | section 18(1) | section 18(1A)
-r. 63(1) | section 14(2)(ba) | section 14(4)
