@@ -91,7 +91,7 @@ Fee | $
 (7)Cockburn Sound (Mussel) Managed Fishery | 122.00
 (8)Esperance Rock Lobster Managed Fishery, per pot | 61.93
 (9)Exmouth Gulf Prawn Managed Fishery | 18 792.00
-(10)Kimberley Gillnet and Barramundi Managed Fishery, per boat | 2 466.00
+(10)Kimberley Gillnet and Barramundi Managed Fishery, per boat | 4 932,00
 (11)Kimberley Prawn Managed Fishery —
 (a)for a Class 1 licence | 945.00
 (b)for a Class 2 licence | 945.00
@@ -125,11 +125,11 @@ Fee | $
 (24)South Coast Salmon Managed Fishery, per team | 1 268.00
 (25)South West Coast Salmon Managed Fishery, per team | 624.00
 (26)South West Trawl Managed Fishery —
-(a)for zone A | 955.00
-(b)for zone B | 955.00
-(c)for zone A and B | 955.00
-(d)for zone B and C | 955.00
-(e)for zone B and D | 955.00
+(a)for zone A | 442.00
+(b)for zone B | 442.00
+(c)for zone A and B | 442.00
+(d)for zone B and C | 442.00
+(e)for zone B and D | 442.00
 (27)Specimen Shell Managed Fishery | 1 030.00
 (28)Warnbro Sound (Crab) Managed Fishery | 1 083.00
 (29)West Coast (Beach Bait Fish Net) Managed Fishery | 277.00
@@ -180,4 +180,4 @@ Fee | $
 (d)fishing for all freshwater fish (other than crustaceans) in waters south of 29 degrees south latitude above the tidal influence including all lakes, dams, rivers and their tributaries | 40.00
 (e)fishing by means of a fishing net | 40.00
 9.Recreational (boat) fishing licence (r. 124C) | 30.00
-[Part 3 inserted in Gazette 9 Jun 2009 p. 1915-20; amended in Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5; 27 Aug 2010 p. 4106.]
+[Part 3 inserted in Gazette 9 Jun 2009 p. 1915-20; amended in Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5; 27 Aug 2010 p. 4106; 10 Sep 2010 p. 4347.]
