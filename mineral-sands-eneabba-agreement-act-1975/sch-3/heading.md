@@ -1,6 +1,6 @@
 ## Schedule 3 — The 2008 Variation Agreement
 [s. 2]
-[Heading inserted by No. 45 of 2008 s. 6.]
+[Heading inserted: No. 45 of 2008 s. 6.]
 THIS AGREEMENT is made this 28th day of July 2008
 BETWEEN
 THE HONOURABLE ALAN JOHN CARPENTER MLA., Premier of the State of Western Australia acting for and on behalf of the said State and its instrumentalities from time to time (State)
@@ -88,4 +88,4 @@ David Robb
 Director
 C. Wilson
 Director/Secretary
-[Schedule 3 inserted by No. 45 of 2008 s. 6.]
+[Schedule 3 inserted: No. 45 of 2008 s. 6.]
