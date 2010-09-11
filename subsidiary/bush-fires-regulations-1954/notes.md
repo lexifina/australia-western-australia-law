@@ -29,22 +29,12 @@ Bush Fires Amendment Regulations 2003 | 10 Jan 2003 p. 32-3 | 10 Jan 2003
 Bush Fires Amendment Regulations 2004 | 31 Dec 2004 p. 7140-1 | 31 Dec 2004
 Bush Fires Amendment Regulations 2009 | 1 Dec 2009 p. 4831-42 | r. 1 and 2: 1 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2009 (see r. 2(b) and Gazette 1 Dec 2009 p. 4829)
 Reprint 5: The Bush Fires Regulations 1954 as at 19 Mar 2010 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 53 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 53 assented to 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Bush Fires Amendment Regulations (No. 2) 2010 | 10 Sep 2010 p. 4342-4 | r. 1 and 2: 10 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Sep 2010 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Evidence Act 1906 s. 106 was repealed by the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 51.
 The Bush Fires Amendment Regulations (No. 2) 2000 deleted headings to r. 1-3, 15, 18, 23, 37, 37A, 38, 39, 39A, 39B, 39BA, 39D, 41, 43 and 44 that formed part of the written law. The deletions are not noted in footnotes to the regulations. The headings to the regulations in this reprint do not form part of the written law (see Interpretation Act 1984 s. 32).
 Now known as the Bush Fires Regulations 1954; citation changed (see note under r. 1).
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 53 had not come into operation. It reads as follows:
-53.Consequential amendments to Bush Fires Regulations 1954
-(1) This section amends the Bush Fires Regulations 1954.
-(2) In regulation 44:
-(a) in paragraph (a) delete “section 34(1)(a)” and insert:
-section 34(1)
-(b) in paragraph (b) delete “section 34(1)(c)” and insert:
-section 34(1AC)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

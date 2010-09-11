@@ -31,20 +31,24 @@ To. . . . . . . . . . . . . . . . . . .
 Note. — This application must be lodged with the nearest authorised officer at least 7 days before the day upon which it is intended to commence burning.
 (Sketch.)
 (a) Name in full of applicant.(b) Address.(c) Name of location.
-(To be endorsed on Form .)
+(To be endorsed on Form 4.)
 STATUTORY DECLARATION
-I, (a) . . . . . . . . . . . . . . . . . . . . . . . . ., the applicant herein do hereby declare as follows: —
+I, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[given name, address and occupation of person making the declaration]
+sincerely declare as follows —
+(1A)I am the applicant in this application.
 (1)That the land to be burned does not exceed in extent and is identical with the area described in the above application and shown on the annexed sketch.
 (2)That such area has been surrounded by a firebreak to a width of not less than 3 metres.
 (3)That the area to be burned is/is not carrying standing trees (whether green or ringbarked).
 (4)That such area if carrying standing timber has been grazed during the growing period of the clover crop to reduce the amount of dead litter to a minimum, and that all grass and debris has been raked to a distance of not less than 2 metres from the base of each standing tree.
-And I make this solemn declaration by virtue of section 106 of the Evidence Act 1906.
-Declared at . . . . . . . . . . . . . . . . in the State of Western Australia this . . . . . day of . . . . . . . . . . . . . . . . . . . ., 20. . . . .
-. . . . . . . . . . . . . . . . . . . . . . .
-Signature of Applicant.
-Before me —
-Note. — The declaration may be made before a Justice of the Peace, a Commissioner for Declarations, Chief Executive Officer of a local government, Electoral Registrar, Postmaster, Classified Officer in the State or Commonwealth Public Service, Classified State School Teacher, or a member of the Police Force.
-[Form 4 amended in Gazette 16 Oct 1963 p. 3076; 12 Jul 1974 p. 2612-13; 22 Dec 1998 p. 6855 and 6859.]
+This declaration is true and I know that it is an offence to make a declaration knowing that it is false in a material particular.
+This declaration is made under the Oaths, Affidavits and Statutory Declarations Act 2005 at [place] on [date] by —
+[Signature of person making the declaration]
+in the presence of —
+[Signature of authorised witness]
+[Name of authorised witness and qualification as such a witness]
+For a list of people who are authorised to witness statutory declarations, see Oaths, Affidavits and Statutory Declarations Act 2005 Schedule 2.
+[Form 4 amended in Gazette 16 Oct 1963 p. 3076; 12 Jul 1974 p. 2612-13; 22 Dec 1998 p. 6855 and 6859; 10 Sep 2010 p. 4342-3.]
 Form 5
 Western Australia
 Fire and Emergency Services Authority of Western Australia
@@ -82,18 +86,22 @@ ________________________________________________________________
 (a) Name of applicant in full. (b) Address. (c) Name of location. (d) Description of the plants the refuse of which is to be burned.
 (To be endorsed on Form 6.)
 STATUTORY DECLARATION
-I, (a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ., the applicant herein, do hereby declare as follows: —
+I, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[given name, address and occupation of person making the declaration]
+sincerely declare as follows —
+(1A)I am the applicant in this application.
 (1)That the land on which burning is to be carried out does not exceed in extent and is identical with that described in the above application.
 (2)That the provisions of the regulations respecting firebreaks have been carried out.
 (3)That the area to be burned is/is not carrying standing trees.
 (4)That if such area is carrying standing timber, all grass and debris has been raked to a distance of not less than 2 metres from the base of each standing tree.
-And I make this solemn declaration by virtue of section 106 of the Evidence Act 1906.
-Declared at . . . . . . . . . . . . . . . . . . in the State of Western Australia this . . . . . . . day of . . . . . . . . . . . . . . . . . . . , 20 . . . ..
-. . . . . . . . . . . . . . . . . . . . . . . .
-Signature of Applicant.
-Before me: . . . . . . . . . . . . . . . . . . . .
-Note. — The declaration may be made before a Justice of the Peace, a Commissioner for Declarations, Chief Executive Officer of a local government, Electoral Registrar, Postmaster, Classified Officer of the State or Commonwealth Public Service, Classified State School Teacher, or a member of the Police Force.
-[Form 6 inserted in Gazette 27 Oct 1966 p. 2782; amended in Gazette 12 Jul 1974 p. 2613; 22 Dec 1998 p. 6855 and 6859.]
+This declaration is true and I know that it is an offence to make a declaration knowing that it is false in a material particular.
+This declaration is made under the Oaths, Affidavits and Statutory Declarations Act 2005 at [place] on [date] by —
+[Signature of person making the declaration]
+in the presence of —
+[Signature of authorised witness]
+[Name of authorised witness and qualification as such a witness]
+For a list of people who are authorised to witness statutory declarations, see Oaths, Affidavits and Statutory Declarations Act 2005 Schedule 2.
+[Form 6 inserted in Gazette 27 Oct 1966 p. 2782; amended in Gazette 12 Jul 1974 p. 2613; 22 Dec 1998 p. 6855 and 6859; 10 Sep 2010 p. 4343.]
 Form 7
 Western Australia
 Fire and Emergency Services Authority of Western Australia
@@ -149,18 +157,22 @@ ________________________________________________________________
 (a) Name in full of applicant. (b) Address. (c) Name of location. (d) Description of the proclaimed plant to be burned.
 (To be endorsed on Form 8.)
 STATUTORY DECLARATION
-I, (a) . . . . . . . . . . . . . . . . . . . . . . . . . , the applicant herein, do hereby declare as follows: —
+I, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[given name, address and occupation of person making the declaration]
+sincerely declare as follows —
+(1A)I am the applicant in this application.
 (1)That the land on which burning is to be carried out does not exceed in extent and is identical with the area described in the above application and shown on the annexed sketch.
 (2)That such area has been surrounded by a firebreak to a width of not less than 6 metres.
 (3)That the area to be burned is/is not carrying standing trees.
 (4)That such area is carrying standing timber and that all grass and debris has been raked to a distance of not less than 2 metres from the base of each standing tree.
-And I make this solemn declaration by virtue of section 106 of the Evidence Act 1906.
-Declared at . . . . . . . . . . . . . . in the State of Western Australia this . . . . . . . . . . . day of . . . . . . . . . . . . . . . . . . , 20 . . . . . . . . . . .
-. . . . . . . . . . . . . . . . . . . . . .
-Signature of Applicant.
-Before me . . . . . . . . . . . . . . . . . . . .
-Note. — The declaration may be made before a Justice of the Peace, a Commissioner of Declarations, Chief Executive Officer of a local government, Electoral Registrar, Postmaster, Classified Officer in the State or Commonwealth Public Service, Classified State School Teacher, or a member of the Police Force.
-[Form 8 inserted in Gazette 27 Oct 1966 p. 2784-5; amended in Gazette 12 Jul 1974 p. 2613-14; 27 Oct 1989 p. 3898; 22 Dec 1998 p. 6855 and 6859.]
+This declaration is true and I know that it is an offence to make a declaration knowing that it is false in a material particular.
+This declaration is made under the Oaths, Affidavits and Statutory Declarations Act 2005 at [place] on [date] by —
+[Signature of person making the declaration]
+in the presence of —
+[Signature of authorised witness]
+[Name of authorised witness and qualification as such a witness]
+For a list of people who are authorised to witness statutory declarations, see Oaths, Affidavits and Statutory Declarations Act 2005 Schedule 2.
+[Form 8 inserted in Gazette 27 Oct 1966 p. 2784-5; amended in Gazette 12 Jul 1974 p. 2613-14; 27 Oct 1989 p. 3898; 22 Dec 1998 p. 6855 and 6859; 10 Sep 2010 p. 4343-4.]
 Form 9
 Western Australia
 Fire and Emergency Services Authority of Western Australia
