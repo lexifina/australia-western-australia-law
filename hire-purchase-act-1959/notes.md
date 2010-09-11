@@ -37,10 +37,7 @@ Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 74 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 42 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 11 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 19 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 19 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “
@@ -87,59 +84,3 @@ Commissioner for Fair Trading means the Commissioner for Fair Trading referred t
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 24 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 19 and 51 had not come into operation. They read as follows:
-19.Hire-Purchase Act 1959 amended
-(1) This section amends the Hire-Purchase Act 1959.
-(2) In section 3(1) delete “the First Part of the First Schedule,” and insert:
-the First Schedule Part 1,
-(3) In section 3(1a) delete “the First Part of the First Schedule.” and insert:
-the First Schedule Part 1.
-(4) In section 3(6) delete “the Second Part of the First Schedule” and insert:
-the First Schedule Part 2
-(5) In the First Schedule:
-(a) delete “First Schedule — First Part”;
-(b) delete “[s. 3(1)]”;
-(c) delete “Hire-Purchase Act 1959” (first occurrence),
-and insert:
-First Schedule — Statement to be given to hirer
-[s. 3]
-Part 1 — Form of statement
-(6) In the First Schedule delete “First Schedule — Second Part” and insert:
-Part 2 — Furniture
-(7) In the Second Schedule:
-(a) delete “Second Schedule”;
-(b) delete “[s. 4, 18.]”;
-(c) delete “Hire-Purchase Act 1959” (first occurrence);
-(d) delete “Advice to hirers”,
-and insert:
-Second Schedule — Advice to hirers
-[s. 4 and 18]
-(8) In the Third Schedule:
-(a) delete “Third Schedule”;
-(b) delete “[s. 13(1).]”;
-(c) delete “Hire-Purchase Act 1959” (first occurrence);
-(d) delete “Notice of intention to repossess”,
-and insert:
-Third Schedule — Notice of intention to repossess
-[s. 13(1)]
-(9) In the Fourth Schedule:
-(a) delete “Fourth Schedule”;
-(b) delete “[s. 11(3), 13(3), 14, 15, 24(6).]”;
-(c) delete “Hire-Purchase Act 1959” (first occurrence);
-(d) delete “Advice to hirers”,
-and insert:
-Fourth Schedule — Advice to hirers
-[s. 11(3), 13(3), 14, 15 and 24(6)]
-(10) In the Fifth Schedule:
-(a) delete “Fifth Schedule”;
-(b) delete “Hire-Purchase Act 1959” (first occurrence);
-(c) delete “Formula for calculating percentage rate of terms charges”,
-and insert:
-Fifth Schedule — Formula for calculating percentage rate of terms charges
-[s. 3(2)(e)(ix)]
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-28.Hire-Purchase Act 1959
-s. 3(6) | price: Provided that in each case — | price. (6A)In each case referred to in subsection (6) —
-Fifth Sch. | (1)The rate (2)(a)In lieu (i)to calculate (ii)to convert (b)For the | 1.Formula for calculating percentage rate of terms charges (1)The rate (2A)In lieu (a)to calculate (b)to convert (2B)For the

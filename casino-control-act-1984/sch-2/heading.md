@@ -1,6 +1,6 @@
-## Schedule 2
-[Section 37]
-## Matters in respect of which Governor may make regulations
+## Schedule 2 — Matters in respect of which Governor may make regulations
+[s. 37]
+[Heading amended by No. 19 of 2010 s. 4.]
 1.The qualifications, training and experience to be required of government inspectors.
 2.The licensing of casino key employees and casino employees, and the conditions and fees applicable thereto.
 2a.The disciplinary actions that the Commission may take in relation to a person licensed as a casino employee or a casino key employee, which may include —

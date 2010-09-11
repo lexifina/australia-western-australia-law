@@ -1,4 +1,6 @@
-## Schedule 2
+## Schedule 2 — Infrastructure corridor
+[s. 3(1)]
+[Heading amended: No. 19 of 2010 s. 4.]
 Part 1 — Infrastructure corridor
 Windell Location 121 and the land enclosed by a line starting at Latitude 22° 24′ 28″ South and Longitude 117° 41′ 9″ (a point about 9.5 km at 285° from Red Hill) and extending
 16 391.9 metres at 106° 53′ 12″

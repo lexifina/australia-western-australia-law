@@ -1,6 +1,6 @@
-## Schedule 1
-[Section 29]
-## Public holidays
+## Schedule 1 — Public holidays
+[s. 29]
+[Heading amended by No. 19 of 2010 s. 4.]
 The following are public holidays —
 New Year’s Day.
 Australia Day.

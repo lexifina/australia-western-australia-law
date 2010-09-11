@@ -1,4 +1,6 @@
-## Second Schedule
+## Second Schedule — Variation Agreement
+[s. 2]
+[Heading amended: No. 19 of 2010 s. 4.]
 AN AGREEMENT made the 15th day of November, One thousand nine hundred and seventy two BETWEEN THE HONOURABLE JOHN TREZISE TONKIN, M.L.A., THE PREMIER AND TREASURER OF THE STATE OF WESTERN AUSTRALIA acting for and on behalf of the said State and its instrumentalities (the State of Western Australia and its instrumentalities being hereinafter referred to as “the State”) of the one part and Texada Mines Pty. Limited a company incorporated under the Companies Act 1961 of the State of Western Australia and having its registered office at 266 Hay Street Subiaco in the State of Western Australia (hereinafter referred to as “the Company”) of the other part.
 WHEREAS:
 (a)The parties to this Agreement are the parties to the agreement between them as defined in Section 2 of the Evaporites (Lake MacLeod) Agreement Act 1967 (which agreement is hereinafter referred to as “the principal Agreement”)
@@ -29,4 +31,4 @@ SIGNED by the said THE HONOURABLE JOHN TREZISE TONKIN, M.L.A. in the presence of
 THE COMMON SEAL OF TEXADA MINES PTY. LIMITED was hereunto affixed by the authority of the Directors and this instrument signed and countersigned by — | [C.S.]
 DirectorALLEN D. CHRISTENSEN.
 SecretaryRONALD F. SULLIVAN.
-[Second Schedule inserted by No. 29 of 1973 s. 5.]
+[Second Schedule inserted: No. 29 of 1973 s. 5.]

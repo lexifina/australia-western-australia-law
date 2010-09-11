@@ -1,5 +1,6 @@
-## Schedule
-[Section 2]
+## Schedule — Leslie Solar Salt Industry Agreement
+[s. 2]
+[Heading amended: No. 19 of 2010 s. 4.]
 AN AGREEMENT under seal made the 27th day of July One thousand nine hundred and sixty-six BETWEEN THE HONOURABLE DAVID BRAND M.L.A. Premier and Treasurer of the State of Western Australia acting for and on behalf of the said State and its instrumentalities (hereinafter referred to as “the State”) of the one part AND LESLIE SALT CO. a company incorporated under the provisions of the statutes of the State of Delaware United States of America and having its registered office in the State of Western Australia at Port Hedland (hereinafter called “the Company” which term shall include the successors and assigns of the Company including where the context so admits the assignees and appointees of the Company under clause 21 hereof) of the other part.
 WHEREAS the parties hereto desire to enter into this Agreement with the objects of the establishment and carrying on at and in the vicinity of Port Hedland of a solar salt industry and such other allied mining and ancillary industries as may conveniently be carried on in conjunction with a solar salt industry and such other industries as may be approved by the Minister and doing all acts matters and things to attain and to facilitate the abovementioned object.
 NOW THIS AGREEMENT WITNESSETH and the parties hereto COVENANT AND AGREE with one another as follows: —

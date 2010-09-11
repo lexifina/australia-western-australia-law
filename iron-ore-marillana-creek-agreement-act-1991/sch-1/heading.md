@@ -1,6 +1,6 @@
-## Schedule 1
-[Heading amended by No. 29 of 1994 s. 14.]
-[Section 3]
+## Schedule 1 — Iron Ore (Marillana Creek) Agreement
+[s. 3]
+[Heading amended by No. 29 of 1994 s. 14; No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made this 20th day of December 1990
 BETWEEN
 THE HONOURABLE CARMEN MARY LAWRENCE, B.Psych., Ph.D., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and

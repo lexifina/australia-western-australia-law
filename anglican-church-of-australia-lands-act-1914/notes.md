@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Anglican Church of Australia Lands Act 1914 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Anglican Church of Australia Lands Act 1914 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Church of England Lands Act 1914 | 10 of 1915 | 18 Feb 1915 | 18 Feb 1915
@@ -9,10 +9,7 @@ Anglican Church of Australia Act 1976 s. 7 | 121 of 1976 | 1 Dec 1976 | 24 Aug 1
 Transfer of Land Amendment Act 1996 s. 153(2) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
 Reprint of the Anglican Church of Australia Lands Act 1914 as at 3 May 2002 (includes amendments listed above)
 Land Information Authority Act 2006 s. 124 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 The name “Church of England” was changed to “Anglican Church of Australia” by No. 121 of 1976 s. 7. This reference to the former name is left unamended because of the context.
 Under the Anglican Church of Australia Constitution Act 1960 s. 5 a reference to “the Branch of the Church of England in Western Australia” is to be construed as a reference to the Church of England in Australia so far as it is in the State. The name of the “Church of England” was changed to the “Anglican Church of Australia” by No. 121 of 1976 s. 7. This reference to the former name has not been changed due to its context.
 Formerly referred to the “Branch of the Church of England in Western Australia”. See note 3. Reference changed under the Reprints Act 1984 s. 7(3)(h).
@@ -28,9 +25,3 @@ Anglican Church of Australia School Lands Act 1896
 Anglican Church of Australia Diocesan Trustees and Lands Act 1918
 Anglican Church of Australia (Diocese of North West Australia) Act 1961
 Anglican Church of Australia (Swanleigh land and endowments) Act 1979
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-4.Anglican Church of Australia Lands Act 1914
-s. 5 | No assurance Provided that in the | (1)No assurance (2)In the

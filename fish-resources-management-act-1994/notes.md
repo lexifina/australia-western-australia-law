@@ -28,6 +28,7 @@ Petroleum Amendment Act 2007 s. 94 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see
 Reprint 3: The Fish Resources Management Act 1994 as at 16 May 2008 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 60 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Fish Resources Management Amendment Act 2009 | 37 of 2009 | 3 Dec 2009 | s. 1 and 2: 3 Dec 2009 (see s. 2(a)); Act other than s. 1 and 2: 31 Jul 2010 (see s. 2(b) and Gazette 30 Jul 2010 p. 3493)
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -108,8 +109,7 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 “ or the Biosecurity and Agriculture Management Act 2007 ”.
 (8) Section 258(i) is deleted.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 the amendment to Schedule 1 had not come into operation. It reads as follows:
 4.Schedule headings reformatted
 (1) This section amends the Acts listed in the Table.
 (2) In each Schedule listed in the Table:
@@ -118,7 +118,6 @@ On the date as at which this compilation was prepared, the Standardisation of Fo
 (c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
 Act | Identifier | Title | Shoulder note
 Fish Resources Management Act 1994 | Schedule 1
-Schedule 3
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

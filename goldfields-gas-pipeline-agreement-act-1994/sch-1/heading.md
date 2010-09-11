@@ -1,5 +1,6 @@
-## Schedule 1
-[section 3]
+## Schedule 1 — Goldfields Gas Pipeline Agreement
+[s. 3]
+[Heading amended: No. 19 of 2010 s. 4.]
 GOLDFIELDS GAS PIPELINE AGREEMENT
 THIS AGREEMENT is made this 23rd day of March 1994
 BETWEEN

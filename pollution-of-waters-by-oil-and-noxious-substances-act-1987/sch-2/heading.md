@@ -1,5 +1,6 @@
-## Schedule 2
-[Section 3]
+## Schedule 2 — 1978 Protocol
+[s. 3]
+[Heading amended by No. 19 of 2010 s. 4.]
 PROTOCOL OF 1978 RELATING TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973
 THE PARTIES TO THE PRESENT PROTOCOL,
 RECOGNIZING the significant contribution which can be made by the International Convention for the Prevention of Pollution from Ships, 1973, to the protection of the marine environment from pollution from ships,

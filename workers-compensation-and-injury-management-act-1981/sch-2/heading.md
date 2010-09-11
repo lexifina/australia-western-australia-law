@@ -1,5 +1,6 @@
 ## Schedule 2 — Table of compensation payable
-[Heading inserted by No. 42 of 2004 s. 142(1).]
+[s. 24]
+[Heading inserted by No. 42 of 2004 s. 142(1); amended by No. 19 of 2010 s. 4.]
 ## Part 1
 [Heading inserted by No. 42 of 2004 s. 142(1).]
 Column 1 ·ItemNature of injury or impairment | Column 2 Ratio which the sum payable herein bears to the prescribed amount.

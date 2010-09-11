@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Presbyterian Church Act 1908 and includes the amendments made by the other written laws referred to in the following table. For amendments that had not come into operation on the date on which this compilation was prepared see endnote. The table also contains information about any reprint.
+This is a compilation of the Presbyterian Church Act 1908 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Presbyterian Church Act 1908 | 2 of 1908 | 12 Aug 1908 | 12 Aug 1908
@@ -11,11 +11,11 @@ Compilation table
  | Reprint of the Presbyterian Church Act 1908 as at 25 Oct 2002 (includes amendments listed above)
  | Taxation Administration (Consequential Provisions) Act 2002 s. 20 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Presbyterian Church of Australia Act 1970 s. 7 | 91 of 1970 | 30 Nov 1970 | Notice to be published (see s. 7(2) and 2(2))
- | Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 I.e. 48 Vict. No. 20.
 Repealed by the Trustees Act 1962.
 Footnote no longer applicable.
@@ -157,11 +157,3 @@ cannot be made more than 15 months after the licence was granted or transferred.
 (1) A permission granted under section 112V of the old Stamp Act and in force immediately before the commencement day continues in force on and after that day as a special tax arrangement under the Taxation Administration Act 2003.
 (2) Any requirement that applied, immediately before the commencement day, to a person to whom a permission continued by subsection (1) had been granted (whether imposed by the old Stamp Act or as a condition to which the permission was subject), continues as a condition to which the special tax arrangement referred to in subsection (1) is subject.
 ”.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-63.Presbyterian Church Act 1908
-s. 4a | 4a.Commissioners, | 4A.Commissioners,
-s. 4a(3) | the proviso hereinafter contained with regard to the first 8 persons elected as aforesaid or of persons appointed to fill any casual vacancy, the year: Provided always — (a)that in election; (b)that in election. All persons hereof; and (c)that every | subsections (3A) to (3D), the year. (3A)In election. (3B)In election. (3C)All persons hereof. (3D)Every
-s. 4a(4) | The Moderator (second occurrence) time. In the absence meetings. The Moderator | (4A)The Moderator time. (4B)In the absence meetings. (4C)The Moderator

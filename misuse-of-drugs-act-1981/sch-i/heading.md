@@ -1,6 +1,6 @@
-## Schedule I
-[Section 4(1)(c)]
-## Drugs to which Act applies, notwithstanding anything in Poisons Act 1964
+## Schedule I — Drugs to which Act applies, notwithstanding anything in Poisons Act 1964
+[s. 4(1)(c)]
+[Heading amended by No. 19 of 2010 s. 4.]
 Item | Prohibited drugs
 1. | Cocaine, ecgonine, heroin, morphine and their respective salts.
 2. | Opium.

@@ -1,61 +1,77 @@
-## Fifth Schedule
-[section 2]
-THIS AGREEMENT is made the 30th day of November 1993
-B E T W E E N:
-THE HONOURABLE RICHARD FAIRFAX COURT, B.Com., M.L.A. Premier of the State of Western Australia, acting for and on behalf of the said State and instrumentalities thereof from time to time (hereinafter called “the State”) of the one part
+## Sixth Schedule — Fifth Variation Agreement
+[s. 3E]
+[Heading amended by No. 19 of 2010 s. 4.]
+THIS AGREEMENT is made the 11th day of April 2000.
+B E T W E E N
+THE HONOURABLE RICHARD FAIRFAX COURT B.Com., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part
 AND
-PILBARA IRON LIMITED ACN 008 694 853 a company incorporated in the State of Western Australia, BHP MINERALS PTY. LTD. ACN 008 694 782 a company incorporated in the State of Western Australia, MITSUI-ITOCHU IRON PTY. LTD. ACN 008 702 761 a company incorporated in the State of Western Australia and CI MINERALS AUSTRALIA PTY. LTD. ACN 009 256 259 a company incorporated in the State of Western Australia of the other part.
-WHEREAS:
-(a)the State and the other parties hereto (pursuant to certain assignments and Deeds of Covenant and the release of Mt. Newman Iron Ore Company Limited pursuant to clause 19(2) of the Principal Agreement as hereinafter defined) are now the parties to the agreement dated the 26th day of August 1964 (hereinafter called “the 1964 Agreement”) which agreement was approved by and is scheduled to the Iron Ore (Mount Newman) Agreement Act 1964 and has been varied by —
-(i)the agreement dated the 16th day of November 1967 approved by the Iron Ore (Mount Newman) Agreement Act Amendment Act 1967;
-(ii)the agreement dated the 9th day of May 1979 approved by the Iron Ore (Mount Newman) Agreement Act Amendment Act 1979;
-(iii)agreements dated respectively the 11th day of December 1985 and the 27th day of January 1987 entered into pursuant to clause 20(1) of the 1964 Agreement; and
-(iv)the agreement dated the 12th day of July 1990 ratified by the Iron Ore (Mount Newman) Agreement Amendment Act 1990;
-(b)the 1964 Agreement as so varied is hereinafter referred to as “the Principal Agreement”;
-(c)the parties desire to amend the Principal Agreement pursuant to clause 20(1) thereof.
+BHP MINERALS PTY. LTD. ACN 008 694 782 , a company incorporated in the State of Western Australia, MITSUI-ITOCHU IRON PTY. LTD. ACN 008 702 761 a company incorporated in the State of Western Australia and CI MINERALS AUSTRALIA PTY. LTD. ACN 009 256 259 a company incorporated in the State of Western Australia (hereinafter called “the Joint Venturers”) of the other part.
+W H E R E A S :
+(a)the State and the Joint Venturers (pursuant to certain assignments and Deeds of Covenant and the release of Mt. Newman Iron Ore Company Limited pursuant to clause 19(2) of the Principal Agreement as hereinafter defined) are now the parties to the agreement dated the 26th day of August 1964 which agreement was approved by and is scheduled to the Iron Ore (Mount Newman) Agreement Act 1964 and as amended from time to time is hereinafter referred to as “the Principal Agreement”;
+(b)the State and the Joint Venturers wish to vary the Principal Agreement.
 NOW THIS AGREEMENT WITNESSES —
 1.Subject to the context the words and expressions used in this Agreement have the same meanings respectively as they have in and for the purposes of the Principal Agreement.
-2.The State shall introduce and sponsor a Bill in the Parliament of Western Australia to ratify this Agreement and endeavour to secure its passage as an Act prior to 31 December 1993 or such later date as may be agreed between the parties hereto.
+2.The State shall introduce and sponsor a Bill in the Parliament of Western Australia to ratify this Agreement and endeavour to secure its passage as an Act prior to 31 December 2000 or such later date as may be agreed between the parties hereto.
 3.(1)The provisions of this Agreement other than this Clause and Clauses 1 and 2 shall not come into operation unless and until —
 (a)the Bill to ratify this Agreement as referred to in Clause 2; and
-(b)a Bill to ratify an agreement of even date herewith made between the State of the one part and BHP Minerals Pty. Ltd., BHP Energy Holdings Pty. Ltd. and BHP Power Holdings Pty. Ltd. of the other part
-are passed as Acts before 31 December 1993 or such later date (if any) as the parties hereto agree upon.
-(2)If before 31 December 1993 or such later agreed date the said Bills have not commenced to operate as Acts then unless the parties hereto otherwise agree this agreement shall then cease and determine and no party hereto shall have any claim against any other party hereto with respect to any matter or thing arising out of, done, performed, or omitted to be done or performed under this Agreement.
+(b)Bills to ratify the following agreements of even date herewith, namely: —
+(i)an agreement between the State and BHP Direct Reduced Iron Pty. Ltd. to vary the Iron Ore Beneficiation (BHP) Agreement;
+(ii)an agreement between the State and BHP Direct Reduced Iron Pty. Ltd. to vary the Iron Ore — Direct Reduced Iron (BHP) Agreement;
+(iii)an agreement between the State and BHP Minerals Pty. Ltd., CI Minerals Australia Pty. Ltd. and Mitsui Iron Ore Corporation Pty. Ltd. to vary the Iron Ore (Marillana Creek) Agreement;
+(iv)an agreement between the State and BHP Iron Ore (Jimblebar) Pty. Ltd. to vary the Iron Ore (McCamey’s Monster) Agreement;
+(v)an agreement between the State and BHP Minerals Pty. Ltd., CI Minerals Australia Pty. Ltd. and Mitsui Iron Ore Corporation Pty. Ltd. to vary the Iron Ore (Mount Goldsworthy) Agreement; and
+(vi)an agreement between the State and BHP Minerals Pty. Ltd., CI Minerals Australia Pty. Ltd. and Mitsui Iron Ore Corporation Pty. Ltd. to vary the Iron Ore (Goldsworthy-Nimingarra) Agreement
+are passed as Acts before 31 December 2000 or such later date if any as the parties hereto may agree upon.
+(2)If before 31 December 2000 or such later agreed date the said Bills have not commenced to operate as Acts then unless the parties hereto otherwise agree this Agreement shall then cease and determine and no party hereto shall have any claim against any other party hereto with respect to any matter or thing arising out of, done, performed, or omitted to be done or performed under this Agreement.
 (3)On the said Bills commencing to operate as Acts all the provisions of this Agreement shall operate and take effect notwithstanding the provisions of any Act or law.
-4.The Principal Act is hereby varied as follows —
+4.The Principal Agreement is hereby varied with effect on and from the coming into operation of this agreement as follows —
 (1)Clause 1 —
-By inserting after the definition of “person” the following definition —
-“Pilbara Energy Project Agreement” means the agreement (as amended from time to time) ratified by the Pilbara Energy Project Agreement Act 1994;”.
-(2)Clause 12 —
-By deleting the expressions appearing in the first column of the Table to this subclause wherever they occur and substituting in each case respectively the dates appearing alongside those expressions in the second column of the Table: —
-Table
-Year 20December 1996
-Year 23December 1999
-Year 25December 2001
-Year 26December 2002
-Year 29December 2005
-Year 30December 2006
-Year 31December 2007
-Year 32December 2008
-Year 33December 2009
-(3)By inserting after clause 12 the following Clause —
-“12A.(1)If each of the power station, the gas pipeline and the Newman facilities as defined in the Pilbara Energy Project Agreement are constructed, in accordance with the provisions of subclause (7) of clause 7 of that agreement, by 31 December 1996 the obligations of the Company under clause 12 of this Agreement shall cease on the date of completion of construction of those works and from and after that date clauses 12, 13, 14, 15, 16 and 16A of this Agreement shall be deemed deleted from this Agreement and this Agreement shall be read and construed accordingly.
-(2)If the date for completion of the power station, the gas pipeline and the Newman facilities pursuant to the Pilbara Energy Project Agreement is extended by reason of force majeure under clause 27 or pursuant to clause 28 of that agreement or otherwise in accordance with the provisions of that agreement, the date 31 December 1996 appearing in subclause (1) of this clause and each of the dates appearing in clause 12 hereof shall be extended by a period equal to the period of force majeure allowed or the period of extension granted or provided for under that agreement.”.
-5.The State acknowledges that the Company has no further obligations under Clause 11 of the Principal Agreement.
+in the definition of “beneficiated ore” by inserting after “upgraded” the following —
+“by the Company pursuant to proposals approved under this Agreement”.
+(2)By inserting after Clause 8 the following clause —
+“Lease for tunnel
+8A.Notwithstanding the provisions of any Act regarding the term of leases that it may grant, the Port Hedland Port Authority may in accordance with approved proposals grant to the Joint Venturers a lease for the purpose of an underwater tunnel between Finucane Island and Nelson Point for a term coterminous with the term of the agreement ratified by the Iron Ore-Direct Reduced Iron (BHP) Agreement Act 1996.”.
+(3)Clause 9(2)(j) —
+(a)in subparagraph (i) by deleting the following —
+“except that the rate of royalty in respect of lump ore used within the Commonwealth by B.H.P. or A.I.S. or any company or companies related to B.H.P. or A.I.S. within the meaning of section 7 of the Companies (Western Australia) Code for manufacture into iron or steel and becoming liable for royalty during the period from an including 1st July 1989 to and including 31st December 1990 shall be —
+(A)during the period 1st July 1989 to 31st December 1989, 5% of the f.o.b. value; and
+(B)during the calendar year 1990; 6.25% of the f.o.b. value”.
+(b)by inserting after subparagraph (ii) the following subparagraph —
+“(iia)on iron ore used in the beneficiation plant the subject of the Agreement ratified by the Iron Ore Beneficiation (BHP) Agreement Act 1996 at the following rates —
+(A)in respect of lump ore, 7.5% of the f.o.b. value; and
+(B)in respect of fine ore, 3.75% of the f.o.b. value;”.
+5.The Principal Agreement is hereby further varied with effect on and from the later of the coming into operation of the Water Agreement (as hereinafter defined) or the coming into operation of this agreement as follows —
+(1)By inserting after Clause 8A the following clause —
+“Water — Port Hedland
+8B.(1) In this clause —
+“Water Agreement” means an agreement entered into between the Water Corporation (established pursuant to section 4 of the Water Corporation Act 1995) and BHP Iron Ore Pty. Ltd. ACN 008 700 981 as agent for BHP Direct Reduced Iron Pty. Ltd. and the Mount Newman and Mount Goldsworthy Mining Associates Joint Venturers in a form approved by the Minister in relation to the supply of water for, inter alia, the Joint Venturers’ water requirements for the purposes of this Agreement at Port Hedland;
+“Commencement Date”, “Renewal Period”, “Buyer” and “Default” have the same meanings respectively as they have in the Water Agreement.
+(2)Notwithstanding any provision of the Water Agreement, the State shall ensure during the period from the Commencement Date until the later of the sixtieth (60th) anniversary of the Commencement Date or the end of the Renewal Period that (except where the Water Agreement is lawfully terminated because of the Buyer’s Default) —
+(a)the Waters and Rivers Commission (established by section 4 of the Waters and Rivers Commission Act 1995) will allocate water reserves sufficient to meet the quantities set out in the Water Agreement; and
+(b)in the event of expiration of the Water Agreement the Coordinator of Water Services under the Water Services Coordination Act 1995 will impose a condition on any relevant licence to supply water in Port Hedland that the supplier is to supply BHP Iron Ore Pty. Ltd. (as agent as aforesaid) with water on the same terms as those contained in the Water Agreement.”.
+(2)Clause 10(a) —
+(a)by inserting after “purposes hereunder” the following —
+“at the mining areas”;
+(b)by inserting after “townsite” the following —
+“established by the Company for the purposes of its operations and employees on or near the mining areas”.
+6.If the Water Agreement referred to in Clause 5 of this agreement shall not have come into operation by 1 January 2001, Clause 5 of this agreement shall on that date cease and thenceforth have no effect.
 IN WITNESS WHEREOF this Agreement has been executed by or on behalf of the parties hereto the day and year first hereinbefore mentioned.
-SIGNED by the said THE HONOURABLE RICHARD FAIRFAX COURT in the presence of: | ) ) ) | RICHARD F COURT
+SIGNED by THE HONOURABLE RICHARD FAIRFAX COURT in the presence of — |  | RICHARD COURT
 COLIN BARNETT
 MINISTER FOR RESOURCES DEVELOPMENT
-THE COMMON SEAL of PILBARA IRON LIMITED was hereunto affixed by authority of the Board of Directors: | ) ) )
-DirectorG L WEDLOCK
-SecretaryL DAVIES
-THE COMMON SEAL of BHP MINERALS PTY. LTD. was hereunto affixed by authority of the Board of Directors: | ) ) ) )
-DirectorR J CARTER
-SecretaryCLAIR MEDHURST
-THE COMMON SEAL of MITSUI-ITOCHU IRON PTY. LTD. was hereunto affixed by authority of the Board of Directors in the presence of: | ) ) ) )
-DirectorN HINOHARA
-SecretaryP KATAVATIS
-THE COMMON SEAL of CI MINERALS AUSTRALIA PTY. LTD. was hereunto affixed by authority of the Board of Directors in the presence of: | ) ) ) )
-DirectorY KOWATA
-SecretaryM APPELBEE
-[Fifth Schedule inserted by No. 8 of 1994 s. 6.]
+THE COMMON SEAL of BHP MINERALS PTY. LTD. was hereunto affixed by authority of the Board of Directors: |  | [C.S.]
+STEFANO GIORGINI
+Director
+MICHAEL KNOWLES
+Secretary
+THE COMMON SEAL of MITSUI-ITOCHU IRON PTY. LTD. was hereunto affixed by authority of the Board of Directors in the presence of: |  | [C.S.]
+YOICHI HASHIMOTO
+Director
+PETER KATAVATIS
+Secretary
+THE COMMON SEAL of CI MINERALS AUSTRALIA PTY. LTD. was hereunto affixed by authority of the Directors in the presence of: |  | [C.S.]
+MASAYUKI YAMAMOTO
+Director
+MICHAEL APPLEBEE
+Secretary
+[Sixth Schedule inserted by No. 57 of 2000 s. 22.]

@@ -1,4 +1,6 @@
-## Schedule
+## Schedule — Trust land
+[s. 2]
+[Heading amended: No. 19 of 2010 s. 4.]
 All those pieces of land being —
 Firstly — Portion of Geraldton Town Lot 54 and being part of Lot 1 on Diagram 3065 now the subject of Diagram 5349; and
 Secondly — Portion of Geraldton Town Lot 54 and being Lot 2 on Plan 3065,

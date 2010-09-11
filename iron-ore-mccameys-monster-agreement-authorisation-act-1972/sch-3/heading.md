@@ -1,5 +1,6 @@
-## Schedule 3
-[section 5]
+## Schedule 3 — Second Variation Agreement
+[s. 5]
+[Heading amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 31st day of March 1994
 B E T W E E N :
 THE HONOURABLE RICHARD FAIRFAX COURT B.Com., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State) of the one part AND BHP IRON ORE (JIMBLEBAR) PTY. LTD. ACN 009 114 210 (formerly called Hancock Mining Limited) a company incorporated in the State of Western Australia and having its registered office at Level 18, 200 St George’s Terrace, Perth (hereinafter called “the Company”) of the other part.

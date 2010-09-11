@@ -1,6 +1,6 @@
-## Schedule VII
-[Section 32A(1)(b)(i)]
-## Amounts of prohibited drugs for purposes of drug trafficking
+## Schedule VII — Amounts of prohibited drugs for purposes of drug trafficking
+[s. 32A(1)(b)(i)]
+[Heading amended by No. 19 of 2010 s. 4.]
 Item | Prohibited drug | Amount (in grams unless otherwise stated)
 1 | AMPHETAMINE | 28.0
 2 | CANNABIS | 3.0 kg

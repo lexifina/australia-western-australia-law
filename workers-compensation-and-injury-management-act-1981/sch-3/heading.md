@@ -1,4 +1,6 @@
 ## Schedule 3 — Specified industrial diseases
+[s. 32]
+[Heading amended by No. 19 of 2010 s. 4.]
 Column 1 Description of Disease | Column 2 Description of Process
 *Arsenic, phosphorus, lead, mercury or other mineral poisoning | Any employment involving the use or handling of arsenic, phosphorus, lead, mercury, or other mineral, or their preparations or compounds.
 *Anthrax | Wool-combing; wool-sorting; handling of hides, skins, wool, hair, bristles, or carcasses; loading and unloading or transport of merchandise.

@@ -28,32 +28,14 @@ Reprint 4: The Pharmacy Act 1964 as at 11 Nov 2005 (includes amendments listed a
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 14 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Health Practitioner Regulation National Law (WA) Act 2010 s. 14(j) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment to s. 18(3) in the Criminal Law Amendment (Simple Offences) Act 2004 s. 82 is not included because the subsection it seeks to amend was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 926.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 and 51 had not come into operation. They read as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Pharmacy Act 1964 | First Schedule |  | [s. 4(1)]
-Second Schedule | Register of pharmaceutical chemists
-Third Schedule | Certificate of registration
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-60.Pharmacy Act 1964
-s. 36(1) | subsection (2), | subsections (2A) to (2D),
-s. 36(2) | (2)(a)Nothing (b)Every this paragraph (c)The (d)Nothing (ii)to prevent (iii)to permit (iv)to prevent | (2A)Nothing (2B)Every this subsection (2C)The (2D)Nothing (a)to prevent (b)to permit (c)to prevent
 On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 14(j) had not come into operation. It reads as follows:
 14.Acts repealed
 These Acts are repealed:

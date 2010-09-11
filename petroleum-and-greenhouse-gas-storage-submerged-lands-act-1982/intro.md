@@ -1,6 +1,7 @@
 Western Australia
 Petroleum (Submerged Lands) Act 1982
 An Act to make provision with respect to the exploration for and the exploitation of the petroleum resources, and certain other resources, of certain submerged lands adjacent to the coast of Western Australia, to repeal the Petroleum (Submerged Lands) Act 1967, and for incidental and other purposes.
+Preamble
 Whereas in accordance with international law Australia as a coastal State has sovereign rights over the continental shelf beyond the limits of Australian territorial waters for the purpose of exploring it and exploiting its natural resources:
 And whereas Australia is a party to the Convention on the continental shelf signed at Geneva on 29 April 1958 in which those rights are defined:
 And whereas by the Seas and Submerged Lands Act 1973 of the Commonwealth it is declared and enacted that the sovereignty in respect of the territorial sea of Australia and in respect of the airspace over it and in respect of its sea-bed and subsoil, and the sovereignty in respect of certain internal waters of Australia and in respect of the airspace over those waters and in respect of the sea-bed and subsoil beneath those waters, is vested in and exercisable by the Crown in right of the Commonwealth:
@@ -10,4 +11,5 @@ And whereas it has been agreed between the Commonwealth, the States and the Nort
 (b)legislation of the Parliament of each State should apply in respect of the exploration for and the exploitation of the petroleum resources of such part of the submerged lands in an area adjacent to the State as is on the landward side of the waters referred to in paragraph (a);
 (c)legislation of the Legislative Assembly of the Northern Territory should apply in respect of the exploration for and the exploitation of the petroleum resources of such part of the submerged lands in an area adjacent to the Northern Territory as is on the landward side of the waters referred to in paragraph (a); and
 (d)the Commonwealth, the States and the Northern Territory should endeavour to maintain, as far as practicable, common principles, rules and practices in the regulation and control of the exploration for and the exploitation of the petroleum resources of all the submerged lands referred to above that are on the seaward side of the inner limits of the territorial sea of Australia:
+[Preamble amended by No. 19 of 2010 s. 50.]
 Be it therefore enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Legislative Council and the Legislative Assembly of Western Australia, in this present Parliament assembled, and by the authority of the same, as follows: —

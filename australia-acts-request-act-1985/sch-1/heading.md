@@ -1,5 +1,6 @@
-## First Schedule
-(Section 3)
+## First Schedule — Requested Commonwealth Act: Australia Act 1986
+[s. 3]
+[Heading amended by No. 19 of 2010 s. 4.]
 An Act to bring constitutional arrangements affecting the Commonwealth and the States into conformity with the status of the Commonwealth of Australia as a sovereign, independent and federal nation
 WHEREAS the Prime Minister of the Commonwealth and the Premiers of the States at conferences held in Canberra on 24 and 25 June 1982 and 21 June 1984 agreed on the taking of certain measures to bring constitutional arrangements affecting the Commonwealth and the States into conformity with the status of the Commonwealth of Australia as a sovereign, independent and federal nation:
 AND WHEREAS in pursuance of paragraph 51(xxxviii) of the Constitution the Parliaments of all the States have requested the Parliament of the Commonwealth to enact an Act in the terms of this Act:

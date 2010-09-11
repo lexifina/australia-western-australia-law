@@ -1,6 +1,6 @@
-## Schedule 1
-[Section 3]
-MINERAL SANDS (BEENUP) AGREEMENT
+## Schedule 1 — Mineral Sands (Beenup) Agreement
+[s. 3]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made this 22nd day of December 1994
 BETWEEN
 THE HONOURABLE RICHARD FAIRFAX COURT, B.Com., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and MINERAL DEPOSITS PTY. LTD. ACN 000 154 067 a company incorporated in the State of New South Wales and having its principal place of business in the State of Western Australia at Suite 2, 72 Melville Parade, South Perth (hereinafter called “the Company” in which term shall be included its successors and permitted assigns) of the other part.

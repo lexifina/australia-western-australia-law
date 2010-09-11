@@ -24,11 +24,11 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 5: The Licensed Surveyors Act 1909 as at 5 May 2006 (includes amendments listed above)
 Land Information Authority Act 2006 s. 143 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Criminal Law and Evidence Amendment Act 2008 s. 66 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
+Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration) Act 1987 Pt. IX | 126 of 1987 | 31 Dec 1987 | To be proclaimed (see s. 2)
-Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The Acts Amendment and Repeal (Competition Policy) Act 2003 s. 40(7)-(9) reads as follows:
 “
 (7) A person appointed under section 4 of the Licensed Surveyors Act 1909 as a member of the Land Surveyors Licensing Board and holding office immediately before the commencement of this section continues to hold office under the first-mentioned section during the period from that commencement until the following 31 December (the transitional period) as if this section had not been enacted.
@@ -91,29 +91,26 @@ Section 19 of the principal Act is amended by deleting “Surveyor General”, w
 “ Registrar of Titles ”.
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 27 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 and 51 had not come into operation. They read as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Licensed Surveyors Act 1909 | Second Schedule
-Third Schedule | Form of declaration
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-40.Licensed Surveyors Act 1909
-s. 10(1) | (1)(a)The Board (b)Any such | (1A)The Board (1B)Any such
-s. 19(2) | Provided that any request | (3)A request
-Second Sch. cl. 1 | 1.The | 1.Chairman The
-Second Sch. cl. 2 | 2.Every | 2.Execution of documents Every
-Second Sch. cl. 3 | 3.No | 3.Quorum No
-Second Sch. cl. 4 | 4.The The chairman, or, | 4.Chairman to preside (1)The (2)The chairman, or,
-Second Sch. cl. 5 | 5.All powers At all If a member | 5.Voting (1)All powers (2)At all (3)If a member
-Second Sch. cl. 6 | 6.The If a quorum adjournment: Provided that nothing herein contained | 6.Adjournment of meetings (1)The (2)If a quorum adjournment. (3)Nothing in this clause
-Second Sch. cl. 7 | 7.All | 7.Notice of meeting All
-Second Sch. cl. 8 | 8.If any | 8.Effect of refusal or neglect to act or non-attendance If any
-Second Sch. cl. 9 | 9.No | 9.Validity not affected by vacancy etc. No
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+authorised survey3(1)
+Board3(1)
+dominion within Her Majesty’s dominions10(2)
+Institute3(1)
+licence3(1)
+licensed surveyor3(1)
+person aggrieved22A(2)
+practising certificate3(1)
+prescribed3(1)
+prescribed date9(1b)
+reciprocating State3(1)
+register3(1)
+reviewable decision22A(2)
+secretary3(1)
+specified11B(5)
+standard period3(1)
+survey mark3(1)
+Surveyor General3(1)
+the person at fault19(1)
+this Act3(1)

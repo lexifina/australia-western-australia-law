@@ -1,5 +1,6 @@
-## Fourth Schedule
-[Section 222]
+## Fourth Schedule — Application to be registered as proprietor by possession
+[s. 222]
+[Heading inserted by No. 19 of 2010 s. 38(7).]
 Western Australia
 Application to be registered as Proprietor by possession of Land already under the Transfer of Land Act 1893.
 To the Registrar of Titles

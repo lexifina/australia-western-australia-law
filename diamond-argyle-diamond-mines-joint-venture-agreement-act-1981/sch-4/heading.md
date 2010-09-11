@@ -1,5 +1,6 @@
-## Schedule 4
+## Schedule 4 — Second supplementary agreement
 [s. 2]
+[Heading amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 15th day of October 2001
 BETWEEN
 THE HONOURABLE GEOFFREY IAN GALLOP BEc, MA, MPhi1, DPhi1, MLA, Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called the State) of the one part

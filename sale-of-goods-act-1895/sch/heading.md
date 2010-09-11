@@ -1,6 +1,8 @@
-## Schedule
+## Schedule — Imperial Acts that cease to apply
+[s. 58]
+[Heading inserted: No. 19 of 2010 s. 34(2).]
 This Schedule is to be read as referring to the revised edition of the Statutes prepared under the direction of the Statute Law Committee of the Imperial Parliament.
-Enactments Referred To
+[Heading deleted: No. 19 of 2010 s. 34(3).]
 Session and Chapter | Title of Act | Extent of Repeal
 1 Jac. 1, c.21 | An Act against Brokers. | The whole Act.
 29 Cha. 2, c.3 | An Act for the prevention of Frauds and Perjuries. | In part; that is to say, Sections 15 and 16.*

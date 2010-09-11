@@ -1,5 +1,6 @@
-## Schedule 2
-[Heading inserted by No. 17 of 1985 s. 6.]
+## Schedule 2 — Variation agreement
+[s. 2]
+[Heading inserted: No. 17 of 1985 s. 6; amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT made the 8th day of March, 1985 BETWEEN THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and WESTERN MINING CORPORATION LIMITED a company incorporated in the State of Victoria and having its registered office in such State at 360 Collins Street, Melbourne (hereinafter with its successors permitted assigns and appointees called “the Company”) of the other part.
 WHEREAS:
 (a)Poseidon Limited a company incorporated under the Companies Act of the State of South Australia and registered in the State of Western Australia as a foreign company (hereinafter called “Poseidon”) was a party to the Agreement defined in section 2 of the Poseidon Nickel Agreement Act 1971;
@@ -103,4 +104,4 @@ In witness whereof the Minister for Minerals and Energy has affixed his seal and
 IN WITNESS WHEREOF this Agreement has been executed by or on behalf of the parties hereto the day and year first hereinbefore written.
 SIGNED BY THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., in the presence of — DAVID PARKER. MINISTER FOR MINERALS AND ENERGY |  | BRIAN BURKE.
 THE COMMON SEAL of WESTERN MINING CORPORATION LIMITED was hereto affixed in the presence of — DIRECTOR H. S. AMOS J. W. WINTERBOTTOM, ASST. SECRETARY |  | [C.S.]
-[Schedule 2 inserted by No. 17 of 1985 s. 6.]
+[Schedule 2 inserted: No. 17 of 1985 s. 6.]

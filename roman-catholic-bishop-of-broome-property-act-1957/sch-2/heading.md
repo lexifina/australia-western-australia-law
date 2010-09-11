@@ -1,5 +1,6 @@
-## Second Schedule
-[S. 5]
+## Second Schedule — Acts overridden by section 5
+[s. 5]
+[Heading inserted by No. 19 of 2010 s. 30(5).]
 An Ordinance for vesting Roman Catholic Church Lands in Western Australia in the Roman Catholic Bishop Administrator and his Successors (22 Vict., No. 4).
 Roman Catholic Church Lands Act 1895 (59 Vict., — Private).
 Roman Catholic Church Lands Amendment Act 1902 (1 and 2 Edw. VII. — Private).

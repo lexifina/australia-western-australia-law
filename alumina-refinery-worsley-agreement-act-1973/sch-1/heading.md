@@ -1,4 +1,6 @@
-## First Schedule
+## First Schedule — Alumina Refinery (Worsley) Agreement
+[s. 3]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the day of 197 BETWEEN THE HONOURABLE JOHN TREZISE TONKIN, M.L.A., Premier and Treasurer of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and ALWEST PTY. LIMITED (hereinafter called “Alwest”) a Company incorporated under the Companies Act 1961, of Western Australia and having its registered office at 34-36 Stirling Street, Perth, in the said State and DAMPIER MINING COMPANY LIMITED (hereinafter called “Dampier”) a Company also incorporated under the said Act and having its registered office at 37 Saint George’s Terrace, Perth (hereinafter collectively called “the Joint Venturers” in which term shall be included their respective successors and permitted assigns and appointees) of the other part.
 WHEREAS:
 A.By an agreement made between the State and Alwest dated the 10th day of November, 1970 which was ratified by the Alumina Refinery (Bunbury) Agreement Act 1970 the State agreed to grant to Alwest certain rights to mine bauxite and Alwest undertook, subject to the provisions of the said agreement, to erect an alumina refinery at or near Bunbury in the said State.
@@ -427,4 +429,4 @@ DIRECTOR.
 The common Seal of DAMPIER MINING COMPANY LIMITED was hereunto affixed by authority of the Board of Directors
 DIRECTOR.
 SECRETARY.
-[First Schedule amended by No. 10 of 1978 s. 5.]
+[First Schedule amended: No. 10 of 1978 s. 5.]

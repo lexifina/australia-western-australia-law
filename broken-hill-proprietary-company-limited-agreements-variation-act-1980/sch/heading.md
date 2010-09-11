@@ -1,5 +1,6 @@
-## Schedule
-[Section 2]
+## Schedule — Variation agreement
+[s. 2]
+[Heading amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 23rd day of April, 1980 BETWEEN THE HONOURABLE SIR CHARLES WALTER MICHAEL COURT, K.C.M.G., O.B.E., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the first part THE BROKEN HILL PROPRIETARY COMPANY LIMITED a company duly incorporated under the Companies Statutes of the State of Victoria and having its registered office in the State of Western Australia at 37 Saint George’s Terrace, Perth (hereinafter called “B.H.P.”) of the second part AUSTRALIAN IRON & STEEL PROPRIETARY LIMITED a company duly incorporated under the Companies Statutes of the State of New South Wales and having its registered office in the State of Western Australia at 37 Saint George’s Terrace, Perth (hereinafter called “A.I.S.”) of the third part and DAMPIER MINING COMPANY LIMITED a company duly incorporated under the Companies Statutes of the State of Western Australia and having its registered office in the said State at 37 Saint George’s Terrace, Perth (hereinafter called “Dampier”) of the fourth part.
 WHEREAS:
 (a)the State and B.H.P. are parties to the agreement between them dated the 18th day of November 1960 defined in section 3 of the Broken Hill Proprietary Company’s Integrated Steel Works Agreement Act 1960 (which agreement in the form printed in that Act is hereinafter referred to as “the 1960 Agreement”);

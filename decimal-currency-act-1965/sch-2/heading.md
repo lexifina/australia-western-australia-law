@@ -1,11 +1,13 @@
-## Second Schedule
-section 5(5)
-Part A
-Equivalents Specified in the Commonwealth Currency Act
+## Second Schedule — Currency equivalents
+[s. 5(5)]
+[Heading inserted by No. 19 of 2010 s. 16(3).]
+## Part A — Equivalents specified in the Commonwealth Currency Act
+[Heading inserted by No. 19 of 2010 s. 16(3).]
 One sovereign or pound . . . . . . = Two dollars.
 One shilling . . . . . . . . . . . . . . . = Ten cents.
 One penny . . . . . . . . . . . . . . . .= Five-sixths of a cent.
-Part B
+## Part B — Examples of equivalents
+[Heading inserted by No. 19 of 2010 s. 16(4).]
 Examples of Percentages
 Expressed in Old Currency | Equivalent expressed in New Currency
 Five pounds per centum | Five per centum

@@ -1,3 +1,3 @@
-## Schedule 3
-[Section 36]
-Transitional provisions
+## Schedule 3 — Transitional provisions
+[s. 36]
+[Heading amended by No. 19 of 2010 s. 4.]

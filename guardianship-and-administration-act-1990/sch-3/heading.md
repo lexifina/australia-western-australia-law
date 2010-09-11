@@ -1,5 +1,6 @@
-## Schedule 3
-[section 104]
+## Schedule 3 — Forms for enduring power of attorney
+[s. 104]
+[Heading inserted by No. 19 of 2010 s. 18(6).]
 Form 1
 ENDURING POWER OF ATTORNEY
  | This Enduring Power of Attorney is made on the ................... day of ............................. 20..........., by A.B. of ........................ under section 104 of the Guardianship and Administration Act 1990.

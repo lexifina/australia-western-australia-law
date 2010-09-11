@@ -1,5 +1,6 @@
-## Schedule 3
-(Section 3)
+## Schedule 3 — Second Supplementary Agreement
+[s. 3]
+[Heading amended by No. 19 of 2010 s. 4.]
 SECOND SUPPLEMENTARY AGREEMENT BURSWOOD CASINO (1990)
 THIS AGREEMENT made the third day of May 1990
 BETWEEN:

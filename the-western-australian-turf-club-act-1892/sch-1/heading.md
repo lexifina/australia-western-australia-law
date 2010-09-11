@@ -1,6 +1,7 @@
-## First Schedule
+## First Schedule — Form of memorial
+[s. 4]
 THE WESTERN AUSTRALIAN TURF CLUB
-Section 4
+[Heading inserted by No. 19 of 2010 s. 37.]
 Memorial of the name of the chairman of the committee of ‘The Western Australian Turf Club’ to be recorded in the Supreme Court of the State of Western Australia pursuant to an Act of the Parliament of Western Australia passed in theyear of the reign of Her Majesty Queen Victoria No. .
 A.B., Chairman.
 C. D., E. F., &c., |  | Committee

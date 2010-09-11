@@ -1,5 +1,6 @@
-## Schedule 8
-[Section 3A]
+## Schedule 8 — Sixth Supplementary Agreement
+[s. 3A]
+[Heading amended by No. 19 of 2010 s. 4.]
 CASINO (BURSWOOD ISLAND) AGREEMENT
 SIXTH SUPPLEMENTARY AGREEMENT
 THIS AGREEMENT made the 22 day of June 1996

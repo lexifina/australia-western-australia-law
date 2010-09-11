@@ -1,4 +1,4 @@
-## Schedule
-West Kalgoorlie-Lake Lefroy Railway
-Description of line of Railway
+## Schedule — Line of West Kalgoorlie - Lake Lefroy Railway
+[s. 2]
+[Heading inserted: No. 19 of 2010 s. 5.]
 Commencing at a point being 405 miles 12 chains or thereabouts from Perth on the Perth-Kalgoorlie Standard Gauge Railway and proceeding thence in a southwesterly direction for a distance of one mile or thereabouts thence in a south, southeasterly direction for a distance of 31 miles or thereabouts thence in a southerly direction for a distance of 7 miles or thereabouts thence in a southwesterly direction for a distance of 6 miles or thereabouts thence in a southeasterly direction for a distance of 5 miles terminating at a point 7 miles 76 chains or thereabouts on the Lake Lefroy Spur Railway as more particularly set out and delineated in red on map marked CE Plan 63432 deposited pursuant to the Public Works Act 1902, section 96, and being a total length of 50 miles or thereabouts.

@@ -1,5 +1,6 @@
-## Schedule
-[Section 3]
+## Schedule — Trust Funds Agreement
+[s. 3]
+[Heading amended by No. 19 of 2010 s. 4.]
 THIS INDENTURE made the 31st day of October, One Thousand Nine Hundred and Sixty One BETWEEN:
 (i) THE FREMANTLE MUNICIPAL TRANSPORT BOARD a Board constituted pursuant to the Fremantle Municipal Tramways and Electric Lighting Act 1903-1952 of which the registered office is situate at William Street, Fremantle (hereinafter called “the Board”) of the first part
 — and —

@@ -1,4 +1,6 @@
-## First Schedule
+## First Schedule — Land vested in Bishop of Bunbury
+[s. 3]
+[Heading amended by No. 19 of 2010 s. 4.]
 Crown Leases Nos.
 3125/1913 | 63/1934 | 670/1936
 6415/1913 | 248/1935 | 100/1945

@@ -1,5 +1,6 @@
-## First Schedule
-[Heading inserted by No. 29 of 1973 s. 4.]
+## First Schedule — Evaporites (Lake MacLeod) Agreement
+[s. 2]
+[Heading inserted: No. 29 of 1973 s. 4; amended: No. 19 of 2010 s. 4.]
 AN AGREEMENT under seal made the 16th day of February One thousand nine hundred and sixty-seven BETWEEN THE HONOURABLE CHARLES WALTER MICHAEL COURT O.B.E. M.L.A. Acting Premier and Minister for Industrial Development of the State of Western Australia acting for and on behalf of the said State and its instrumentalities (the State of Western Australia and its instrumentalities being hereinafter referred to as “the State”) of the one part AND TEXADA MINES PTY. LIMITED a company incorporated under the Companies Act 1961, of the State of Western Australia and having its registered office at 97 Saint George’s Terrace Perth in the State of Western Australia (hereinafter referred to as “the Company” which term shall include the successors and assigns of the Company including where the context so admits the assignees and appointees of the Company under clause 14 hereof) of the other part.
 WHEREAS the parties hereto enter into this Agreement with the object of establishing and carrying on in the vicinity of Carnarvon works for the mining of potash and other evaporites and such other allied mining and ancillary industries as may conveniently be carried on in conjunction therewith and such other industries as may be approved by the Minister and doing all acts matters and things to attain and to facilitate the abovementioned objects.
 NOW THIS AGREEMENT WITNESSETH and the parties hereto COVENANT AND AGREE with one another as follows: —

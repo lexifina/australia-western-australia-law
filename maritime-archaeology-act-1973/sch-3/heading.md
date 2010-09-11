@@ -1,6 +1,6 @@
-## Third Schedule
+## Third Schedule — Register of discoverers of ancient shipwrecks
 [s. 24]
-## Register of discoverers of ancient shipwrecks
+[Heading amended by No. 19 of 2010 s. 4.]
 Name of Ship | Primary Discoverer/s | Secondary Discoverer/s
 Tryal | Eric Christiansen | Naoom Haimson
  |  | David Nelley

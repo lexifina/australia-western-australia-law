@@ -1,6 +1,6 @@
-## Third Schedule
-section 7(2)
-Recommendations for Notation in Decimal Currency
+## Third Schedule — Recommendations for Notation in Decimal Currency
+[s. 7(2)]
+[Heading amended by No. 19 of 2010 s. 16(5).]
 Expression of Amounts in Figures
 $59 or $59.00 where the amount consists of an exact number of dollars.
 $59.01 or $59.09 where the amount consists of dollars plus cents in the range from 1 to 9.

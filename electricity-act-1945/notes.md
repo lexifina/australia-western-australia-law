@@ -32,10 +32,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 
 Gas and Electricity Safety Legislation Amendment Act 2007 Pt. 2 | 5 of 2007 | 18 Apr 2007 | 1 Dec 2007 (see s. 2 and Gazette 30 Nov 2007 p. 5927)
 Reprint 7: The Electricity Act 1945 as at 2 May 2008 (includes amendments listed above)
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 49 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 43(3) and 57 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 43(3) and 57 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Repealed by the Interpretation Act 1984.
 Marginal notes in the Electricity Act 1945 referring to the legislation from which provisions were derived have been omitted from this compilation.
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
@@ -46,30 +43,6 @@ Every instrument under a provision of the principal Act in force immediately bef
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 16 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 43(3) and 57 had not come into operation. They read as follows:
-43.Part heading inserted before section 1
-(1) This section amends the Acts listed in Tables 1 and 2.
-(3) In the Acts listed in Table 2:
-(a) before section 1 insert:
-Part I — Preliminary
-(b) before the section listed in Table 2 for that Act delete the heading to Part I.
-57.Electricity Act 1945 amended
-(1) This section amends the Electricity Act 1945.
-(2) In section 18(e) delete the proviso and “and” after it.
-(3) At the end of section 18 insert:
-(6) If the owner of a building referred to in subsection (1)(e) shall rebuild or alter the same, any work attached to the building shall be removed so far as may be necessary to enable such rebuilding or alteration to be carried out, and, if so required shall be affixed to the new or altered building at the cost of the supply authority.
-(4) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-s. 18 | Subject to such supply. Provided that — (i)the supply this proviso or apparatus; (ii)before the supply sufficient; (iii)no such street, Director. Provided that if the paragraph (ii) of this proviso | (1)Subject to such supply; (2)A supply subsections (2) to (5) or apparatus. (3)Before a supply sufficient. (4)No street, Director. (5)Despite subsection (4), if the subsection (3)
-s. 20(2) | (2)(a)Any (b)Where this subsection | (2)Any (3)Where subsection (2)
-s. 24(1) | Provided that if | (1A)If
-s. 24(2) | Provided that when | (3)When
-s. 33B(1) | (1)(a)The Director (b)An application paragraph (a) | (1A)The Director (1B)An application subsection (1A)
-s. 33B(5) | (5)(a)The Director (i)approved; (ii)not (iii)deferred. (b)The Director (i)the appliance (ii)the appliance (c)The recognition paragraph (b) does (d)The Director of paragraph (b). | (5A)The Director (a)approved; (b)not (c)deferred. (5B)The Director (a)the appliance (b)the appliance (5C)The recognition subsection (5B) does (5D)The Director of subsection (5B).
-s. 36(3) | Provided that where | (4)Despite subsection (3), where
-s. 41(3) | (a)The test by the Director. (b)The testing exceed $50. (c)If it be authority. (d)If it be | (a)the test by the Director; (b)the testing exceed $50; (c)if it be authority; (d)if it be
-s. 43(2) | (2)(a)A supply | (2)A supply
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

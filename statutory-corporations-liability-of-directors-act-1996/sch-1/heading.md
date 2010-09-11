@@ -1,6 +1,6 @@
-## Schedule 1
-## Persons who are directors under Part 3
-[Section 7(1)]
+## Schedule 1 — Persons who are directors under Part 3
+[s. 7(1)]
+[Heading amended by No. 19 of 2010 s. 4.]
 Corporation | Persons who are directors for the purposes of this Act | Act under which holds position
 Albany Port Authority | a director of the Authority | Port Authorities Act 1999
 Armadale Redevelopment Authority | a member of the board of management of the Authority | Armadale Redevelopment Act 2001

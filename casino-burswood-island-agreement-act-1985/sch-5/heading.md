@@ -1,5 +1,6 @@
-## Schedule 5
-[Section 3A]
+## Schedule 5 — Third Supplementary Agreement
+[s. 3A]
+[Heading amended by No. 19 of 2010 s. 4.]
 CASINO (BURSWOOD ISLAND) AGREEMENT
 THIRD SUPPLEMENTARY AGREEMENT
 THIS AGREEMENT made the 13th day of November 1991

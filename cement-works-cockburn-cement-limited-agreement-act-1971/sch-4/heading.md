@@ -1,5 +1,6 @@
-## Fourth Schedule
-[Section 2]
+## Fourth Schedule — Second Variation Agreement
+[s. 2]
+[Heading amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 14th day of May 1997
 B E T W E E N:
 THE HONOURABLE RICHARD FAIRFAX COURT, B.Com., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the first part

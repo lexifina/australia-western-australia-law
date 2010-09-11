@@ -1,6 +1,6 @@
 ## Schedule 1 — Penalties
-[Sections 99Q and 99R]
-[Heading inserted by No. 14 of 1988 s. 18.]
+[s. 99Q and 99R]
+[Heading inserted by No. 14 of 1988 s. 18; amended by No. 19 of 2010 s. 4.]
 ## Part 1 — Tier 1 offences and penalties
 [Heading inserted by No. 14 of 1988 s. 18.]
 ## Division 1 — Individuals

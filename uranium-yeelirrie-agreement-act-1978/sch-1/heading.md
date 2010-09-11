@@ -1,5 +1,6 @@
-## First Schedule
-[Heading amended by No. 40 of 1982 s.4.]
+## First Schedule — Uranium (Yeelirrie) Agreement
+[s. 2]
+[Heading amended: No. 40 of 1982 s.4; No. 19 of 2010 s. 4.]
 THIS AGREEMENT made this first day of November 1978 BETWEEN THE HONOURABLE SIR CHARLES WALTER MICHAEL COURT, O.B.E., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and WESTERN MINING CORPORATION LIMITED a company duly incorporated in the State of Victoria and having its registered office in that State at 459 Collins Street, Melbourne and having its principal office in the State of Western Australia at 181 Great Eastern Highway, Belmont (hereinafter referred to as “the Corporation” which term shall where the context so admits or requires extend to and include the Corporation its successors and assigns or such of them who for the time being are entitled to the benefit of, or who are required to fulfil the obligations of the Corporation under this Agreement), of the other part.
 WHEREAS:
 (a)The Corporation has established the existence of an are body containing in excess of 20 million tonnes of commercial grade uranium ore.

@@ -1,6 +1,6 @@
-## Schedule 2
-[Section 33]
-## Consequential amendments
+## Schedule 2 — Consequential amendments
+[s. 33]
+[Heading amended by No. 19 of 2010 s. 4.]
  | Short title of Act | Amendment
 1. | Constitution Acts Amendment Act 1899 | In Part 3 of Schedule V insert in the appropriate alphabetical position the following — “The Caravan Parks and Camping Grounds Advisory Committee established under the Caravan Parks and Camping Grounds Act 1995. ”.
 2. | Health Act 1911 | Section 343(6) is repealed.

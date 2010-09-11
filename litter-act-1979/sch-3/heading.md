@@ -1,6 +1,6 @@
-## Third Schedule
-[Sections 30 and 31]
-## Institutions of proceedings
+## Third Schedule — Institutions of proceedings
+[s. 30 and 31]
+[Heading amended by No. 19 of 2010 s. 4.]
 Column 1 | Column 2
 Class of authorised officer serving infringement notice or instituting proceedings | Public authority on behalf of which notice is served or proceedings instituted
 Members of the Police Force | The Commissioner of Police

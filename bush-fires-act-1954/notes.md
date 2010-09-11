@@ -50,11 +50,12 @@ Land Information Authority Act 2006 s. 126 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
 Bush Fires Amendment Act 2009 Pt. 2 | 25 of 2009 | 17 Nov 2009 | 1 Dec 2009 (see s. 2(b) and Gazette 1 Dec 2009 p. 4829)
 Arson Legislation Amendment Act 2009 Pt. 2 | 43 of 2009 | 3 Dec 2009 | 19 Dec 2009 (see s. 2(b) and Gazette 18 Dec 2009 p. 5167)
 Reprint 8: The Bush Fires Act 1954 as at 9 Apr 2010 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Standardisation of Formatting Act 2010 s. 43(3) and 52 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 28 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
-Standardisation of Formatting Act 2010 s. 43(3) and 52 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 52(4) | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Provisions of the Bush Fires Act 1954 referred to in s. 64 are not the same references as originally enacted. Under the Interpretation Act 1984 s. 16(2), as a result of amendments to the Bush Fires Act 1954 by the Bush Fires Act Amendment Act 1977 (No. 65 of 1977), those references may be construed as if amended. The references were changed under the Reprints Act 1984 s. 7(3)(g).
 The Third Schedule was inserted by the Metric Conversion Act Amendment Act (No. 2) 1973.
@@ -62,7 +63,7 @@ The Bush Fires Amendment Act 1992 s. 6(2) reads as follows:
 (2) Where, immediately before the commencement of this Act, a delegation was in force under section 9(1)(a) or (c) of the principal Act, the delegation shall, on and after that commencement, be deemed to be a delegation to the Chief Executive Officer under section 9(1)(a) of the principal Act as in force after that commencement, and may be varied or revoked accordingly.
 The Fire and Emergency Services Authority of Western Australia (Consequential Provisions) Act 1998 s. 11(2) is a transitional provision that is of no further effect.
 The Fire and Emergency Services Legislation Amendment Act 2002 s. 27(2) and (3) are transitional provisions that are of no further effect.
-On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 28 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 28 had not come into operation. It reads as follows:
 28.Bush Fires Act 1954 amended
 (1) The amendments in this section are to the Bush Fires Act 1954.
 (2) Section 26(5) is repealed and the following subsection is inserted instead —
@@ -73,73 +74,19 @@ On the date as at which this reprint was prepared, the Biosecurity and Agricultu
 “
 A plant that is a declared pest as that term is defined by the Biosecurity and Agriculture Management Act 2007
 ”.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 43(3) and 52 had not come into operation. They read as follows:
-43.Part heading inserted before section 1
-(1) This section amends the Acts listed in Tables 1 and 2.
-(3) In the Acts listed in Table 2:
-(a) before section 1 insert:
-Part I — Preliminary
-(b) before the section listed in Table 2 for that Act delete the heading to Part I.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 52(4) had not come into operation. It reads as follows:
 52.Bush Fires Act 1954 amended
-(1) This section amends the Bush Fires Act 1954.
-(2) In section 58(3):
-(a) delete the passage that begins with “by this Act — ” and ends with “to this Act —” and insert:
-the relevant body may —
-(b) in paragraph (a) delete “may”;
-(c) in paragraph (b) delete “may” (first occurrence);
-(d) in paragraph (b) delete “conviction.” and insert:
-conviction; or
-(e) delete paragraph (b)(i) and (ii) and “or” after subparagraph (ii);
-(f) in paragraph (c) delete “may”.
-(3) After section 58(3) insert:
-(3A) In subsection (3) —
-relevant body, in relation to an expense, means —
-(a)if the expense is incurred by an authorised CALM Act officer, the CALM Act CEO; or
-(b)if the expense is incurred by a bush fire control officer employed by a local government, or by an officer or member of a bush fire brigade established and maintained by a local government, the local government; or
-(c)if the expense is incurred by any other person acting pursuant to this Act, the Authority.
-(3B) If an application has been made under subsection (3)(b) —
-(a) the court may grant the application wholly or in part or refuse the application, and payment of an amount specified in an order may be enforced in the same manner as payment of a pecuniary penalty; and
-(b) refusal of the court to grant an order for payment of the whole or part of the expenses is not a bar to proceedings to recover the whole or part, as the case may be, in any other court of competent jurisdiction.
 (4) Amend the provisions listed in the Table as set out in the Table.
 Table
 Provision | Delete | Insert
-s. 4 | (a)This Act (b)This Act | (1)This Act (2)This Act
-s. 14(1) | the proviso to this section, Provided that a paragraphs (a), | subsection (1A), (1A)Despite subsection (1), a subsection (1)(a),
-s. 17(7) | (7)(a)Subject to paragraph (b), (i)shortening, (ii)imposing (b)A variation this subsection | (7)Subject to subsection (7B), (a)shortening, (b)imposing (7B)A variation subsection (7)
-s. 17(9) | subsections (7) and (8) publish | subsection (8) — publish
-s. 18(5) | (5)(a)Subject to paragraph (b) (i)vary (A)shortening, (B)imposing (ii)vary (b)A variation this subsection if (i)shortening (ii)suspending this subsection, be (c)The (d)For the purposes of this subsection prescribed | (5)Subject to subsection (5B) (a)vary (i)shortening, (ii)imposing (b)vary (5B)A variation subsection (5) if (a)shortening (b)suspending subsection (5), be (5C)The (5D)In subsections (5) and (5C) — prescribed
-s. 18(10) | (10)(a) Subject (b)A person so resolved (c)The burning | (10A)Subject (10B)A person made a declaration under subsection (10A) (10C)Any burning permitted under subsection (10B)
 s. 21(1) | (1)(a)Where (b)The Minister | (1A)Where (1B)The Minister
 s. 21(2) | (2)(a)Subject (b)Permission under this subsection | (2A)Subject (2B)Permission under subsection (2A)
 s. 21(3) | (3)(a)During subsection (1) (b)Where | (3A)During subsection (1A) (3B)Where
-s. 22(6) | (6)(a)A local (b)Where of paragraph (a) (c)Where paragraph (a) — (i)the (ii)a bush | (6)A local (7)Where of subsection (6) (8)Where subsection (6) — (a)the (b)a bush
-s. 24A(2) | subsection (3) of this section. | subsection (4).
-s. 24A(3) | (3)(a)A fee paragraph (b) (b)The provisions paragraph (a) of this subsection, | (3)A fee subsection (4) (4)The provisions subsection (3),
-s. 25(1)(c) | (c)(i)a fire shall not be lit for the purpose of disposing of the carcass of a dead animal, or a part of the carcass, unless (ii)the fire shall not be lit within (iii)the fire shall not be lit except (iv)the fire shall not be lit unless | (c)a fire for the purpose of disposing of the carcass of a dead animal, or a part of the carcass, shall not be lit — (i)unless (ii)within (iii)except (iv)unless
-s. 28(1) | (1)(a)Where (i)at any (ii)during (b)Where | (1)Where (a)at any (b)during (1B)Where
-s. 28(4) | (4)(a)In so (b)The Authority, | (4)In so (5)The Authority,
-s. 33(1) | as a separate land, and in any event to do so to the | (c)as a separate land; and (d)in any event, to the
-s. 33(4) | (4)(a)Where in the notice, the local complied with. (b)The bush | (4)Where in the notice — (a)the local complied with; and (b)the bush
-s. 33(5) | (5)(a)The amount subsection (4) shall the amount. (b)The local government may recover the amount | (5)The amount subsection (4) — (a)shall the amount; and (b)may be recovered by the local government
-s. 34(1) | (1)(a)Subject (b)Before of this subsection, (c)A bush | (1)Subject (1AB)Before of subsection (1), (1AC)A bush
-s. 34(1a) | subsection (1) would subsection (1) shall | subsections (1) to (1AC) would subsections (1) to (1AC) shall
-s. 34(2) | (2)(a)Where (b)When paragraph (a), | (2)Where (3)When subsection (2),
-s. 35(3) | (3)(a)Where (b)A certificate the amount | (3)Where (3B)A certificate the amount referred to in subsection (3)
-s. 35(4) | subsection (3) | subsection (3B)
-s. 35(5) | (5)(a)Where, (b)The Authority | (5)Where, (6)The Authority
-s. 38(2) | (2)(a)The local (c)The local (d)Where paragraph (c) fails (e)A bush | (2A)The local (2C)The local (2D)Where subsection (2C) fails (2E)A bush
-s. 38(5) | (5)(a)A local (b)The bush so issued (c)The provisions of this subsection | (5A)A local (5B)The bush issued under subsection (5A) (5C)The provisions of subsections (5A) and (5B)
-s. 38(6) | (6)(a)In this paragraph (b) (b)If it (i)may this subsection applies; and (ii)may from paragraph. (c)An approved (ca)Where paragraph (h). (cb)An approved (cc)Where paragraph (cb) is, subject to paragraph (cd), (cd)A deputy paragraph (cb) is (d)The local paragraph (c) or (cb) (e)An approved subsection. (f)Where paragraph (h), (g)The provisions of this subsection (h)A fire (i)This subsection does | (6)In this subsection (7) (7)If it (a)may subsections (6) to (18) apply; and (b)may from subsection. (8)An approved (9)Where subsection (17). (10)An approved (11)Where subsection (10) is, subject to subsection (12), (12)A deputy subsection (10) is (13)The local subsection (8) or (10) (14)An approved subsections (6) to (18). (15)Where subsection (17), (16)The provisions of subsections (6) to (18) (17)A fire (18)Subsections (6) to (18) do
-s. 38A(3) | section 38(3), (4) and (5) | section 38(3) to (5C)
-s. 38A(4) | Section 38(3), (4) and (5) | Section 38(3) to (5C)
 s. 39(2) | (2)(a)Where | (2)Where
-s. 44(3) | (3)(a)Where (b)Subject | (3)Where (4)Subject
+s. 44(3) | (3)(a)Where | (3)Where
 s. 45 | (a)Where (b)Where | (1)Where (2)Where
-s. 46(1) | (1)(a)Notwithstanding (i)subject to the provisions of the next succeeding paragraph (ii)where (b)Where | (1A)Notwithstanding (a)subject to subsection (1B) (b)where (1B)Where
-s. 46(3) | subsection (1), | subsection (1A) or (1B),
 s. 47 | section 39(2)(a) | section 39(2)
-s. 59(2) | (2)(a)A person (b)The person | (1)A person (2)The person
-s. 64 | section 21(2), section 38(5). | section 21(2A) and (2B), section 38(5A) or (5B).
+s. 64 | section 21(2), | section 21(2A) and (2B),
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

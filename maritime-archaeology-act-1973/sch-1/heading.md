@@ -1,5 +1,6 @@
-## First Schedule
+## First Schedule — Ships notified under Museums Acts
 [s. 6]
+[Heading amended by No. 19 of 2010 s. 4.]
 Name of Ship | Year of loss | Approximate location
 Known as the —
 “Tryal” ..................................... | 1622 | Tryal Rocks, Monte Bello Islands.

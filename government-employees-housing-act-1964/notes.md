@@ -20,10 +20,7 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 10 Div. 2 | 28 o
 Reprint 2: The Government Employees’ Housing Act 1964 as at 13 Oct 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 43(3) | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 43(3) | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 The Government Employees’ Housing Amendment Act 1987 s. 4(2) reads as follows:
 “
 (2) The appointment of the holder of an office specified in section 8(2) of the principal Act as in force immediately before the coming into operation of this section is hereby determined.
@@ -65,10 +62,15 @@ former body means —
 Housing Authority means the Housing Authority referred to in section 6(4) of the Housing Act 1980 as in force after commencement.
 ”.
 The amendment to s. 25 in the Financial Legislation Amendment and Repeal Act 2006 s. 17, which gives effect to Sch. 1 cl.77, is not included because the section it sought to amend was repealed by the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 306.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 43(3) had not come into operation. It reads as follows:
-43.Part heading inserted before section 1
-(1) This section amends the Acts listed in Tables 1 and 2.
-(3) In the Acts listed in Table 2:
-(a) before section 1 insert:
-Part I — Preliminary
-(b) before the section listed in Table 2 for that Act delete the heading to Part I.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Account5
+Authority5
+Department5
+Government employee5
+house5
+member5
+officer5
+owner28(4)
+tenant5

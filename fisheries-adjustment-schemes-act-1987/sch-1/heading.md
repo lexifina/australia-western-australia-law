@@ -1,3 +1,3 @@
-## Schedule 1
-[Section 12]
-Constitution and proceedings of committees of management
+## Schedule 1 — Constitution and proceedings of committees of management
+[s. 12]
+[Heading amended by No. 19 of 2010 s. 4.]

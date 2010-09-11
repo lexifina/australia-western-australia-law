@@ -1,2 +1,3 @@
-## Schedule 1
-[Section 6(1)]
+## Schedule 1 — Provisions relating to the Trustees
+[s. 6(1)]
+[Heading amended by No. 19 of 2010 s. 4.]

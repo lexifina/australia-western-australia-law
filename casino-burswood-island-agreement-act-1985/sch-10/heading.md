@@ -1,5 +1,6 @@
-## Schedule 10
+## Schedule 10 — Ninth Supplementary Agreement
 [s. 3A]
+[Heading amended by No. 19 of 2010 s. 4.]
 Casino (Burswood Island) Agreement
 NINTH SUPPLEMENTARY AGREEMENT
 Dated 23 November 2005

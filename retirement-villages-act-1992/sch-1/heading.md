@@ -1,2 +1,3 @@
-## Schedule 1
-[Section 84]
+## Schedule 1 — Savings and transitional provisions
+[s. 84]
+[Heading amended by No. 19 of 2010 s. 4.]

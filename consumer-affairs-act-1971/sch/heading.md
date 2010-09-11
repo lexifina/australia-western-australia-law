@@ -1,5 +1,6 @@
-## Schedule
-Acts prohibiting or regulating the supply of goods
+## Schedule — Acts prohibiting or regulating the supply of goods
+[s. 23C]
+[Heading amended by No. 19 of 2010 s. 4.]
 The following enactments are specified for the purpose of section 23C —
 Agricultural Products Act 1929.
 Agriculture and Related Resources Protection Act 1976.

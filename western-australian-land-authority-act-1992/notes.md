@@ -22,12 +22,12 @@ Reprint 2: The Western Australian Land Authority Act 1992 as at 4 Feb 2005 (incl
 Land Information Authority Act 2006 s. 119 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 15 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 136 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 41 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 72 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 State Superannuation Amendment Act 2007 s. 88 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
-Standardisation of Formatting Act 2010 s. 41 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The Western Australian Land Authority Amendment Act 1998 s. 19(3) and (4) read as follows:
 “
 (3) Despite subsections (1) and (2), on and from the commencement of this Act —
@@ -93,21 +93,3 @@ On the date as at which this compilation was prepared, the State Superannuation 
 (2) Section 13A(1) is amended by deleting “section 30” and inserting instead —
 “ section 76 ”.
 ”.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 41 had not come into operation. It reads as follows:
-41.Western Australian Land Authority Act 1992 amended
-(1) This section amends the Western Australian Land Authority Act 1992.
-(2) In Schedule 1:
-(a) delete “Schedule 1”;
-(b) delete “[section 6(4)]”;
-(c) delete “Part A”;
-(d) delete “Constitution and proceedings of directors and board”,
-and insert:
-Schedule 1 — Board and directors
-[s. 6(4)]
-Part A — Constitution and proceedings of directors and board
-(3) In Schedule 1:
-(a) delete “Part B”;
-(b) delete “Duties of directors”,
-and insert:
-Part B — Duties of directors
-(4) In Schedules 2 and 4 reformat the heading to the Schedule so it is in the current format.

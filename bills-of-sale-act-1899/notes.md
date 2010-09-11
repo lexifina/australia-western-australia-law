@@ -43,10 +43,7 @@ Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 5 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 12 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 8 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
 The Bills of Sale Amendment Act 1986 s. 6 reads as follows:
 6.Transitional provision
@@ -55,38 +52,3 @@ The Bills of Sale Amendment Act 1986 s. 6 reads as follows:
 The Bills of Sale Amendment Act 1987 s. 8 reads as follows:
 8.Transitional
 The provisions of the principal Act as in force before the day that this Act comes into operation apply to and in relation to a bill of sale made or given before that day but nothing in this section affects the operation of section 7 of the Chattel Securities Act 1987.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 and 51 had not come into operation. They read as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Bills of Sale Act 1899 | Second Schedule
-Third Schedule | Bill of sale over crops
-Fourth Schedule
-Tenth Schedule
-Eleventh Schedule
-Twelfth Schedule
-Fourteenth Schedule | Attestation of witness | [s. 8(1)]
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-9.Bills of Sale Act 1899
-s. 5 def. of Bill of Sale | or bailment; (1)Transferring, (2)By which | or bailment — (a)transferring, (b)by which
-s. 6 | Every bill of sale shall contain: — (1)The names occupations; provided that it shall | (1)Every bill of sale shall contain the names occupations. (1A)It shall
- | (2)The true debt; provided that the consideration (3)The place (4)The sums, Provided that it shall | (2)Every bill of sale shall contain the true debt. (2A)The consideration (3)Every bill of sale shall contain the place (4)Every bill of sale shall contain the sums, (5)It shall
-s. 7 | The following equity, that is to say: — (1)Crops shall grow. (2)The progeny And the possession | (1)The following equity — (a)crops shall grow; (b)the progeny (2)The possession
-s. 7A | Where, by This section | (1)Where, by (2)This section
-s. 10 | The periods shall be: — (1)10 days (2)14 days (3)30 days (4)60 days (5)if executed Provided that the periods: And provided further, that when | (1)The periods shall be — (a)10 days (b)14 days (c)30 days (d)60 days (e)if executed (2)The periods. (3)When
-s. 21 | Upon the registered. The execution The Registrar | (1)Upon the registered. (2)The execution (3)The Registrar
-s. 30 | If any Provided that in This section | (1)If any (2)Despite subsection (1), in (3)This section
-s. 31 | Every bill thereby. Provided that this section | (1)Every bill thereby. (2)This section
-s. 34 | In case chattels: Provided that such | (1)In case chattels. (2)Despite subsection (1), any such
-s. 36 | Notwithstanding (1)Bid such bill of sale. (2)Appoint The remuneration | (1)Notwithstanding (a)bid such bill of sale; and (b)appoint (2)The remuneration
-s. 37 | In any bill sale: Provided that in | (1)In any bill sale. (2)Despite subsection (1), in
-s. 41 | No such sale: Provided that no | (1)No such sale. (2)No
-s. 51 | Every debenture the following manner: — The renewal | (1A)Every debenture the manner set out in subsections (1), (2) and (3). (3)The renewal
-s. 53 | If more series: Provided that no mentioned. Provided that a Judge | (1)If more series. (2)Despite subsection (1), no mentioned. (3)A Judge

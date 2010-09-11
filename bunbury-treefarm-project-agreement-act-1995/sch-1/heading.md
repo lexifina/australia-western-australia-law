@@ -1,5 +1,6 @@
-## Schedule 1
-[Section 3]
+## Schedule 1 — Bunbury Treefarm Project Agreement
+[s. 3]
+[Heading amended: No. 19 of 2010 s. 4.]
 BUNBURY TREEFARM PROJECT AGREEMENT
 THIS AGREEMENT is made this 1st day of September 1995
 B E T W E E N :

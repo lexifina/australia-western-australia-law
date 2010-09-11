@@ -19,18 +19,13 @@ Duties Legislation Amendment Act 2008 Pt. 2 Div. 3 | 12 of 2008 | 14 Apr 2008 | 
 Revenue Laws Amendment Act (No. 2) 2008 Pt. 2 Div. 1 and 3 and Pt. 3 | 31 of 2008 | 27 Jun 2008 | Pt. 2 Div. 1 and Pt. 3 Div. 1 and 2: 28 Jun 2008 (see s. 2(b)); Pt. 2 Div. 3: 1 Jul 2008 (see s. 2(c)(ii)) Pt. 3 Div. 3: 11 Oct 2008 (see s. 2(d) and Gazette 10 Oct 2008 p. 4539)
 Reprint 3: The Taxation Administration Act 2003 as at 22 Aug 2008 (includes amendments listed above, except those the Revenue Laws Amendment Act (No. 2) 2008 Pt. 3 Div. 3)
 Revenue Laws Amendment and Repeal Act 2010 Pt. 5 and s. 30 | 17 of 2010 | 25 Jun 2010 | 26 Jun 2010 (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 94 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
-Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-82.Taxation Administration Act 2003
-Glossary | Unless | 1.Terms used Unless
+Footnote no longer applicable.
 The amendment to s. 114(3)(f) in the Workers’ Compensation Reform Act 2004 s. 174 is not included because the paragraph it seeks to amend was deleted by the Business Tax Review (Assessment) Act (No. 2) 2003 s. 100.
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 7 Div. 1 of those regulations read as follows:
 “

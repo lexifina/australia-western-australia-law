@@ -1,5 +1,6 @@
-## Schedule
-Section 3
+## Schedule — 1987 agreement
+[s. 3]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 10th day of November 1987 BETWEEN THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the Government of the said State and its instrumentalities (hereinafter called “the State”) of the one part and ALCOA OF AUSTRALIA LIMITED a company duly incorporated in the State of Victoria and having its principal place of business in the State of Western Australia at Cnr Davy and Marmion Streets, Booragoon (hereinafter called “the Company” which term shall include its successors and permitted assigns) of the other part.
 WHEREAS:
 (a)the parties are the parties to —

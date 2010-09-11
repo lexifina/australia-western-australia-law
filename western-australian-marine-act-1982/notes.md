@@ -20,12 +20,12 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 2: The Western Australian Marine Act 1982 as at 2 Dec 2005 (includes amendments listed above, except those in the Dangerous Goods Safety Act 2004 s. 70)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 137 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Western Australian Marine Amendment Act 1987 s. 4-6 | 15 of 1987 | 25 Jun 1987 | To be proclaimed (see s. 2)
 Western Australian Marine Amendment Act 1990 s. 4(d), 6-9 and 12 | 35 of 1990 | 9 Oct 1990 | To be proclaimed (see s. 2)
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 On the date as at which this compilation was prepared, the Western Australian Marine Amendment Act 1987 s. 4-6 had not come into operation. They read as follows:
 “
@@ -192,17 +192,3 @@ Section 20 of the principal Act is repealed.
 12.Section 65 repealed
 Section 65 of the principal Act is repealed.
 ”.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Western Australian Marine Act 1982 | Schedule 1 | Container Convention
-Schedule 2 | Limitation Convention
-Schedule 3 | Prevention of Collisions Convention
-Schedule 4 | Safety Convention
-Schedule 5 | 1978 Protocol relating to Safety Convention

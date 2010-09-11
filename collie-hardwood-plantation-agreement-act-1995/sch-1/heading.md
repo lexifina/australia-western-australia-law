@@ -1,5 +1,6 @@
-## Schedule 1
-[Section 3]
+## Schedule 1 — Collie Hardwood Plantation Agreement
+[s. 3]
+[Heading amended: No. 19 of 2010 s. 4.]
 COLLIE HARDWOOD PLANTATION AGREEMENT
 THIS AGREEMENT is made this 4th day of January 1994
 B E T W E E N:

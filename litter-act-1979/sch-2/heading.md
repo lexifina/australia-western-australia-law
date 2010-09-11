@@ -1,6 +1,6 @@
-## Second Schedule
-[Section 7]
-## Objects and functions of the Council
+## Second Schedule — Objects and functions of the Council
+[s. 7]
+[Heading amended by No. 19 of 2010 s. 4.]
 (a)To educate members of the public in, and to awaken, stimulate, encourage and maintain the interest of members of the public in, and to promote public knowledge of, the correct disposal of waste items.
 (b)To foster and encourage the appreciation of clean and well-kept cities and countryside.
 (c)To safeguard the character and beauty of the Australian landscape through the prevention of litter.

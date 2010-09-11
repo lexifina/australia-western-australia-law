@@ -44,10 +44,7 @@ Acts Amendment (Bankruptcy) Act 2009 s. 80 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Statutes (Repeals and Minor Amendments) Act 2009 s. 15 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Reprint 5: The Settlement Agents Act 1981 as at 26 Mar 2010 (includes amendments listed above)
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 79 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 35 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 35 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 The appointed day is 1 Nov 1982, see Gazette 29 Oct 1982 p. 4322.
 The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 7(2) and (3) read as follows:
 (2) A person may give notice of a claim under section 93(2) as amended by this section even if the time within which that notice was to be given under that section before that amendment had expired.
@@ -73,33 +70,6 @@ statutory rule means a regulation, rule or by-law.
 (b) that could not have been validly and lawfully done or omitted if this Act had received the Royal Assent before the FSR commencement time,
 is taken not to be valid, and to never have been valid.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 35 and 51 had not come into operation. They read as follows:
-35.Settlement Agents Act 1981 amended
-(1) This section amends the Settlement Agents Act 1981.
-(2) In Schedule 1:
-(a) delete “Schedule 1”;
-(b) delete “Qualifications for grant of licence”;
-(c) delete “[Sections 27, 28 and 29]” (first occurrence),
-and insert:
-Schedule 1 — Grant of licence
-[s. 27, 28 and 29]
-Division 1 — Qualifications
-(3) In Schedule 1:
-(a) delete “Disqualification”;
-(b) delete “[Sections 27, 28 and 29]” (second occurrence),
-and insert:
-Division 2 — Disqualification
-(4) In Schedule 1:
-(a) delete “Temporary arrangements”;
-(b) delete “[Sections 28 and 29]”,
-and insert:
-Division 3 — Temporary arrangements
-(5) In Schedule 2 reformat the heading to the Schedule so it is in the current format.
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-77.Settlement Agents Act 1981
-s. 46(6) | (6)(a)A licensee (b)In paragraph (a) discharge | (6)A licensee (7)In subsection (6) — discharge
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

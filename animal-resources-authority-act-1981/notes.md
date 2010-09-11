@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Animal Resources Authority Act 1981 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Animal Resources Authority Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Animal Resources Authority Act 1981 | 53 of 1981 | 25 Sep 1981 | 2 Jul 1982 (see s. 2 and Gazette 2 Jul 1982 p. 2311)
@@ -12,11 +12,11 @@ Equal Opportunity Amendment Act (No. 3) 1997 s. 8 | 42 of 1997 | 9 Dec 1997 | 6 
 Reprint of the Animal Resources Authority Act 1981 as at 9 Nov 2001 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Acts Amendment (Bankruptcy) Act 2009 s. 9 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnote referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 30 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Formerly referred to the Western Australian Institute of Technology, the name of which was changed to the Curtin University of Technology by the Western Australian Institute of Technology Amendment Act 1986 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the State Superannuation Act 2000 s. 39.
@@ -28,12 +28,3 @@ The Animal Resources Authority Act 1981 is amended as follows:
 (a) in section 13(b) by deleting “, including his rights under the Superannuation and Family Benefits Act 1938”;
 (b) by repealing section 14.
 ”.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Act | Identifier | Title | Shoulder note
-Animal Resources Authority Act 1981 | Schedule

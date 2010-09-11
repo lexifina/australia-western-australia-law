@@ -1,5 +1,6 @@
-## Schedule
-[Section 5.]
+## Schedule — Objects of Trust
+[s. 5.]
+[Heading amended: No. 19 of 2010 s. 4.]
 (a)To establish and maintain within the State of Western Australia a public educational institution the purpose of which is to educate members of the public and to awaken, stimulate, encourage and maintain the interest of members of the public in, and to promote public knowledge of, places and things which are of national or local importance by reason of educational, historic, architectural, traditional, legendary, artistic, literary, scientific, antiquarian, archaeological or other special interest attaching to them and of places of natural beauty and the flora and fauna thereof by giving effect to all or any of the objects and purposes hereinafter set out.
 (b)To provide for the holding of classes, lectures, seminars, exhibitions, meetings and conferences calculated directly or indirectly to advance the cause of education of members of the public and imparting knowledge of history of places and things of national or local importance as aforesaid and to that end to co-operate with the Department of Education of the State of Western Australia, The University of Western Australia, the Director of Adult Education of the State and any other public educational institution.
 (c)To print, publish, sell, distribute and circulate books, advertisements and publications of any and every kind as are calculated to promote and advance the objects and purposes of The Trust.
@@ -32,4 +33,4 @@
 (ad)To place any moneys of The Trust on deposit with any bank and to open and pay moneys of The Trust into and operate upon accounts current with any bank.
 (ae)To promote legislation likely to further and advance the objects and purposes of The Trust and to apply for and accept the grant of a Royal Charter for The Trust.
 (af)To do such other acts and things within the State of Western Australia as are incidental or conducive to the attainment of the above objects and purposes or any of them.
-[Schedule amended by No. 14 of 1996 s. 4; No. 8 of 2009 s. 96.]
+[Schedule amended: No. 14 of 1996 s. 4; No. 8 of 2009 s. 96.]

@@ -14,11 +14,11 @@ Bank of Western Australia Act 1995, section 44 | 14 of 1995 | 4 Jul 1995 | 1 Dec
 Financial Legislation Amendment Act 1996, section 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
 Acts Amendment (Land Administration) Act 1997, Part 63 and section 141 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Standardisation of Formatting Act 2010 s. 39 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 10 | 8 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
-Standardisation of Formatting Act 2010 s. 39 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Now Interpretation Act 1984 (No. 12 of 1984).
 Repealed by the Conservation and Land Management Act 1984 (No. 126 of 1984).
 Repealed by the Petroleum Act 1967 (No. 72 of 1967).
@@ -43,23 +43,3 @@ After section 10 insert:
 (2) The protection given by this section applies even though the thing done as described in subsection (1) may have been capable of being done whether or not this Act had been enacted.
 (3) Despite subsection (1), neither the Minister nor the State is relieved of any liability that it might have for another person having done anything as described in that subsection.
 (4) In this section, a reference to the doing of anything includes a reference to an omission to do anything.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 39 and 51 had not come into operation. They read as follows:
-39.War Service Land Settlement Scheme Act 1954 amended
-(1) This section amends the War Service Land Settlement Scheme Act 1954.
-(2) In the Schedule:
-(a) delete “The Schedule”;
-(b) delete “Western Australia”;
-(c) delete “FORM OF CROWN GRANT”,
-and insert:
-Schedule — Form of Crown grant
-[s. 8(3)(b) and 9(2)]
-Western Australia
-CROWN GRANT
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-92.War Service Land Settlement Scheme Act 1954
-s. 6(3) | prevail. Provided that subject | prevail. (3A)Subject
-s. 7 | or another Act, (a)may, after the expiration the Minister, but subject to the conditions, (first occurrence) Commonwealth Act, (first occurrence) the provisions, mortgages and the provisions of the regulations compliance Act, at any time and from time to time during the period of 10 years from the commencement of the term of the lease, pay such amount or amounts, not exceeding in the aggregate 90% of the purchase price for the fee simple, as he thinks fit on account of that purchase price; and on | or another Act, may — (a)after the expiration the Minister, but subject to — (i)the conditions, Commonwealth Act; (ii)the provisions, (iii)mortgages and (iv)the provisions of the regulations (v)compliance Act, at any time and from time to time during the period of 10 years from the commencement of the term of the lease, pay such amount or amounts, not exceeding in the aggregate 90% of the purchase price for the fee simple, as he thinks fit on account of that purchase price; and on
-s. 8(1) def. of mineral rights | reservation — to the Company; or to a person mineral rights — | reservation to — (a)the Company; or (b)a person mineral rights,
-s. 8(2) | acquired under the (first occurrence) the subject rights; | (aa)acquired (ab)under the (ac)the subject rights,

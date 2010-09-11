@@ -1,6 +1,6 @@
-## Schedule 1
-[Section 24]
-## Licence terms and conditions
+## Schedule 1 — Licence terms and conditions
+[s. 24]
+[Heading amended by No. 19 of 2010 s. 4.]
 An operating licence may include provisions —
 (a) requiring the licensee to enter into agreements on specified terms or on terms of a specified type;
 (b) requiring the licensee to observe specified industry codes with such modifications or exemptions as may be determined by the Authority;

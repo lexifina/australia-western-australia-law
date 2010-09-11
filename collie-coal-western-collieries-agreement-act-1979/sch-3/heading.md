@@ -1,4 +1,6 @@
-## Schedule 3
+## Schedule 3 — Supplementary Agreement (1990)
+[s. 2]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 30th day of April 1990
 BETWEEN:
 THE HONOURABLE CARMEN MARY LAWRENCE, B. Psych., Ph.D., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the first part WESTERN COLLIERIES LTD. a company incorporated in Western Australia and having its registered office at 10th Floor, 40 The Esplanade, Perth (hereinafter called “the Company”) of the second part WESTERN COLLIERIES & DAMPIER PTY. LTD. a company incorporated in Western Australia and having its registered office at 10th Floor, 40 The Esplanade, Perth (hereinafter called “WCD”) of the third part and BHP MINERALS LIMITED a company incorporated in Western Australia and having its registered office at 12 Level, 221 St George’s Terrace, Perth (hereinafter called “BHPM”) of the fourth part.
@@ -138,4 +140,4 @@ Secretary M. A. EGERT
 THE COMMON SEAL of BHP MINERALS LIMITED was was hereto affixed by authority of the Board of Directors — | ) ) ) ) | (C.S.)
 Director D. J. WOOD
 Secretary G. J. HEATH
-[Schedule 3 inserted by No. 9 of 1990 s. 7.]
+[Schedule 3 inserted: No. 9 of 1990 s. 7.]

@@ -25,41 +25,9 @@ Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2
 Public Trustee and Trustee Companies Legislation Amendment Act 2008 Pt. 3 | 9 of 2008 | 31 Mar 2008 | 1 Jul 2008 (see s. 2(2) and Gazette 24 Jun 2008 p. 2885)
 Reprint 3: The Trustee Companies Act 1987 as at 10 Oct 2008 (includes amendments listed above)
 Trustee Companies (Designation of Trustee Companies) Regulations 2010 published in Gazette 12 Feb 2010 p. 591 | r. 1 and 2: 12 Feb 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Feb 2010 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Repealed by the Revenue Laws Amendment and Repeal Act 2004.
 Repealed by the Unclaimed Money Act 1990.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 and 51 had not come into operation. They read as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Trustee Companies Act 1987 | Schedule 2
-Schedule 3
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-87.Trustee Companies Act 1987
-Sch. 2 cl. 1 | 1.On the | 1.Powers and duties of body corporate On the
-Sch. 2 cl. 2 | 2.Clause 1 | 2.Other powers and duties not affected Clause 1
-Sch. 2 cl. 3 | 3.Without | 3.Powers of Court Without
-Sch. 3 cl. 1 | 1.(1)In this | 1.Terms used (1)In this
-Sch. 3 cl. 2 | 2.Subject | 2.Existing powers and duties not affected Subject
-Sch. 3 cl. 3 | 3.The provisions | 3.Exiting provisions for commissions and fees continue to apply The provisions
-Sch. 3 cl. 3A | 3A.If — | 3A.Charging of GST If —
-Sch. 3 cl. 3B | 3B.In clause 3A — | 3B.Terms used In clause 3A —
-Sch. 3 cl. 4 | 4.(1)Part IV | 4.Application of Part IV to existing companies (1)Part IV
-Sch. 3 cl. 5 | 5.In the | 5.Unclaimed money In the
-Sch. 3 cl. 6 | 6.On the | 6.Funds administered by Treasurer On the
-Sch. 3 cl. 7 | 7.On a day | 7.Documents held by Treasurer On a day
-Sch. 3 cl. 8 | 8.Section 29 | 8.Application of section 29 Section 29
-Sch. 3 cl. 9 | 9.In relation | 9.Application of section 33 In relation
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

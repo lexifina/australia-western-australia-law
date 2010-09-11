@@ -31,12 +31,12 @@ Petroleum Amendment Act 2007 s. 88 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see
 Reprint 4: The Aboriginal Affairs Planning Authority Act 1972 as at 8 May 2009 (includes amendments listed above)
 Acts Amendment (Bankruptcy) Act 2009 s. 6 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Aboriginal Housing Legislation Amendment Act 2010 Pt. 3 | 6 of 2010 | 25 May 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 22 Jun 2010 p. 2767)
+Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 2 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 2 | 8 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
-Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Native Welfare Act 1963 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Mining Act 1978.
 Repealed by the Land Administration Act 1997.
@@ -62,20 +62,6 @@ This Part amends the Aboriginal Affairs Planning Authority Act 1972.
 5.Section 30 amended
 In section 30 delete “Mining Act 1904” and insert:
 Mining Act 1978
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 and 51 had not come into operation. They read as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Act | Identifier | Title | Shoulder note
-Aboriginal Affairs Planning Authority Act 1972 | First Schedule
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-1.Aboriginal Affairs Planning Authority Act 1972
-s. 30 | No application Provided that nothing | (1)No application (2)Nothing
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

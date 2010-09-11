@@ -1,6 +1,6 @@
-## Schedule 1
-[section 3]
-IRON ORE PROCESSING (BHP MINERALS) AGREEMENT
+## Schedule 1 — Iron Ore Processing (BHP Minerals) Agreement
+[s. 3]
+[Heading amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 31st day of March 1994
 BETWEEN
 THE HONOURABLE RICHARD FAIRFAX COURT B.Com., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and

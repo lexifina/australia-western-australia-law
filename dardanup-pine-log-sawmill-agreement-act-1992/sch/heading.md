@@ -1,5 +1,6 @@
-## Schedule
-[Section 3]
+## Schedule — Dardanup Pine Log Sawmill Agreement
+[s. 3]
+[Heading amended: No. 19 of 2010 s. 4.]
 THE AGREEMENT
 DARDANUP PINE LOG SAWMILL AGREEMENT
 THIS AGREEMENT is made this 26th day of May 1992

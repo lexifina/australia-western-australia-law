@@ -1,5 +1,6 @@
-## Third Schedule
-[Section 24]
+## Third Schedule — Notice to be posted on land
+[s. 24]
+[Heading inserted by No. 19 of 2010 s. 38(6).]
 Western Australia
 Notice
 Application has been made to bring the land hereunder described under the Transfer of Land Act 1893 on a title claimed by possession (insert if applicable “as to part”).

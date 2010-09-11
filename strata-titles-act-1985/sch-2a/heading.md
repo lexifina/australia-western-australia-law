@@ -1,7 +1,6 @@
-## Schedule 2A
-[Heading inserted by No. 58 of 1995 s. 89.]
-[Sections 5C and 42]
-## Matters that may be provided for in management statement
+## Schedule 2A — Matters that may be provided for in management statement
+[s. 5C and 42]
+[Heading inserted by No. 58 of 1995 s. 89; amended by No. 19 of 2010 s. 4.]
 1.The amendment or repeal of a by-law contained in Schedule 1.
 2.The amendment or repeal of a by-law contained in Schedule 2.
 3.Any additional by-law that may be made under section 42.

@@ -1,4 +1,6 @@
-## Schedule
+## Schedule — Industrial Lands (CSBP & Farmers Ltd.) Agreement
+[s. 2]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made this 12th day of MAY 1976 BETWEEN THE HONOURABLE SIR CHARLES WALTER MICHAEL COURT O.B.E. M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part, and
 CSBP & FARMERS LTD. a company incorporated under the Companies Act 1961 of the State of Western Australia and having its registered office at 133 St. George’s Terrace, Perth (hereinafter called “CSBP” in which term shall be included its successors and permitted assigns) of the other part.
 WHEREAS:

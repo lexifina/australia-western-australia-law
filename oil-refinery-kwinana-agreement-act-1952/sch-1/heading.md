@@ -1,5 +1,6 @@
-## Schedule 1
-[S. 3(1).]
+## Schedule 1 — Oil Refinery (Kwinana) Agreement
+[s. 3(1)]
+[Heading amended by No. 19 of 2010 s. 4.]
 AN AGREEMENT under seal made the 3rd day of March, one thousand nine hundred and fifty-two, between The Honourable Duncan Ross McLarty, M.L.A., Premier and Treasurer of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities (hereinafter referred to as “the State”) of the one part, and Anglo-Iranian Oil Company Limited, a company incorporated in England, whose principal office is situate at Britannic House, Finsbury Circus, in the City of London (hereinafter with its successors and assigns referred to as “the Company”) of the other part: Witnesseth: —
 1.In this Agreement, except where the context otherwise requires, the following terms have the following meanings —
 “commencing date” means the date or the substituted date, as the case may be, referred to in clause three, subclause (d) hereof;

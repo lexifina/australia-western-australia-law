@@ -1,4 +1,6 @@
-## Second Schedule
+## Second Schedule — Variation Agreement
+[s. 2]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT made this Fourth day of May 1982, BETWEEN THE HONOURABLE RAYMOND JAMES O’CONNOR, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and YEELIRRIE DEVELOPMENT COMPANY PTY. LTD. a company duly incorporated in the State of Western Australia and having its registered office in such State at 191 Great Eastern Highway Belmont ESSO EXPLORATION AND PRODUCTION AUSTRALIA INC. a company duly incorporated in the State of Delaware United States of America and having its principal office in the State of Western Australia at 200 St. George’s Terrace Perth and URANGESELLSCHAFT AUSTRALIA PTY. LIMITED a company duly incorporated in the State of Victoria and having its registered office in that State at 608 St. Kilda Road Melbourne and having its principal office in the State of Western Australia at care of Veritatem Nominees (W.A.) Pty. Ltd. of 55 St. George’s Terrace, Perth (hereinafter collectively called “the Corporation” in which term shall be included their respective successors and permitted assigns and appointees) of the other part.
 WHEREAS:
 (a)pursuant to a deed of assignment dated 14th January, 1980 the parties to this Agreement are now the parties to the agreement dated 1st November, 1978 defined in section 2 of the Uranium (Yeelirrie) Agreement Act 1978 which agreement was varied by agreement dated 13th November, 1981 (the said agreement as varied being hereinafter referred to as “the Principal Agreement”); and
@@ -135,4 +137,4 @@ SIGNED for and on behalf of URANGESELLSCHAFT AUSTRALIA PTY. LIMITED by its duly 
 ERIC FREEMAN,
 Solicitor
 Perth.
-[Second Schedule inserted by No. 40 of 1982 s.5.]
+[Second Schedule inserted: No. 40 of 1982 s.5.]

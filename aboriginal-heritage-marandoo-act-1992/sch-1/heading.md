@@ -1,4 +1,6 @@
-## Schedule 1
+## Schedule 1 — Temporary Reserve 5623H and construction camp
+[s. 3(1)]
+[Heading amended: No. 19 of 2010 s. 4.]
 Part 1 — Portion of Temporary Reserve 5623H (“the TR”) and construction camp
 Windell Locations 122 and 130 but excluding the land described in Parts 2 and 3.
 Part 2 — Thoongarie Burial Site Complex (PO 6725)

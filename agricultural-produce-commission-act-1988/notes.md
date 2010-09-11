@@ -14,11 +14,11 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 2 Div. 1 | 28 of
 Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 3 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The Agricultural Produce Commission Act 1988 as at 1 May 2009 (includes amendments listed above)
 Acts Amendment (Bankruptcy) Act 2009 s. 7 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 7 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 63 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
-Standardisation of Formatting Act 2010 s. 7 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 3 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 Now known as the Agricultural Produce Commission Act 1988; short title changed (see note under s. 1).
@@ -49,15 +49,6 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 orchard means any land used for the purpose of growing or cultivating plants, and includes any garden, farm, vinery, vineyard, and hothouse, any place where any plant is cultivated or where any plant which has been cultivated is growing;
 specified area means the portion of the State specified in a notice under section 11(1)(a)(ii) in relation to which the producers’ committee is established.
 ”.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 7 had not come into operation. It reads as follows:
-7.Agricultural Produce Commission Act 1988 amended
-(1) This section amends the Agricultural Produce Commission Act 1988.
-(2) In the Schedule:
-(a) delete “Schedule”;
-(b) delete “[Section 5(3)]”,
-and insert:
-Schedule — The Commission and its proceedings
-[s. 5(6)]
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

@@ -1,5 +1,6 @@
-## Schedule 1
-[Section 4]
+## Schedule 1 — Convention on the continental shelf
+[s. 4]
+[Heading amended by No. 19 of 2010 s. 4.]
 ## CONVENTION ON THE CONTINENTAL SHELF
 The States Parties to this Convention
 have agreed as follows:

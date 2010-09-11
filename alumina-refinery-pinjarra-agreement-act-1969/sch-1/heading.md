@@ -1,5 +1,6 @@
-## First Schedule
+## First Schedule — Alumina Refinery (Pinjarra) Agreement
 [s. 1A]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT UNDER SEAL is made the 30th day of September One thousand nine hundred and sixty-nine BETWEEN THE HONOURABLE SIR DAVID BRAND, K.C.M.G., M.L.A., Premier and Treasurer of the State of Western Australia acting for and on behalf of the Government of the said State and its instrumentalities (hereinafter referred to as “the State”) of the one part and WESTERN ALUMINIUM NO LIABILITY a company duly incorporated under the Companies Statutes of the State of Victoria and having its principal office in that State at 155 Queen Street Melbourne and having its registered office in the State of Western Australia at Hope Valley Road Kwinana (hereinafter referred to as “the Company” which term shall include its successors and permitted assigns) of the other part.
 WHEREAS:
 (a)the parties are the parties to the agreement between them defined in section 2 of the Alumina Refinery Agreement Act 1961-1967 of the State of Western Australia (which agreement is hereinafter referred to as “the principal agreement”);
@@ -199,4 +200,4 @@ In tons per financial year up to but not exceeding |  | Rates per ton mile expre
 IN WITNESS whereof these presents have been executed the day and year first hereinbefore written.
 SIGNED SEALED AND DELIVERED by the said THE HONOURABLE SIR DAVID BRAND, K.C.M.G., M.L.A., in the presence of — C. W. COURT, Minister for Industrial Development. ARTHUR GRIFFITH, Minister for Mines. |  | DAVID BRAND [L.S.]
 SIGNED BY WESTERN ALUMINIUM NO LIABILITY by its Attorney GEORGE DUNDAS WRIGHT in the presence of — J. N. LANGFORD. |  | Western Aluminium No Liability by its Attorney G. D. WRIGHT.
-[First Schedule amended by No. 48 of 1972 s.5.]
+[First Schedule amended: No. 48 of 1972 s.5.]

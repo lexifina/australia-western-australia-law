@@ -1,2 +1,4 @@
-## First Schedule
+## First Schedule — Discontinued railway
+[s. 3]
+[Heading amended: No. 19 of 2010 s. 4.]
 Commencing at a point 179.118 km or thereabouts from Perth on the Bunbury-Boyanup Railway and thence proceeding in a south east by east direction for a distance of 1592.647 m or thereabouts, thence in an east south east direction for a distance of 1090.099 m or thereabouts, thence in a south east by east direction for a distance of 147.858 m or thereabouts terminating at a point 181.948 km or thereabouts on the Bunbury-Boyanup Railway and being a total length of 2.83 km or thereabouts.

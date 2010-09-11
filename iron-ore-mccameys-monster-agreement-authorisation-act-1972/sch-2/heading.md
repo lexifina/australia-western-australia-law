@@ -1,4 +1,6 @@
-## Schedule 2
+## Schedule 2 — First Variation Agreement
+[s. 4]
+[Heading amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 14th day of July 1986
 BETWEEN:
 THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and

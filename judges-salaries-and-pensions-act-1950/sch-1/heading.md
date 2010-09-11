@@ -1,5 +1,6 @@
-## First Schedule
-[section 4]
+## First Schedule — Acts amended
+[s. 4]
+[Heading amended by No. 19 of 2010 s. 4.]
 First Column | Second Column | Third Column
 Acts Amendment (Increase in number of Judges of the Supreme Court) Act 1949. | Delete from section one the words “a day to be fixed by proclamation after the King’s approval thereto has been proclaimed in the State,” and substitute the words “the twenty-fourth day of September, 1949.” | Acts Amendment (Increase in number of Judges of the Supreme Court) Act 1949-1950.
 Constitution Act 1889. | Section fifty-six is repealed. | Constitution Act 1889-1950.

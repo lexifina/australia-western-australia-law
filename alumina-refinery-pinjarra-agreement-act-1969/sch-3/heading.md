@@ -1,5 +1,6 @@
-## Third Schedule
-[S.1A.]
+## Third Schedule — Second supplementary agreement
+[s. 1A]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT made the Fifteenth day of November 1976 BETWEEN THE HONOURABLE SIR CHARLES WALTER MICHAEL COURT, O.B.E., M.L.A. Premier of the State of Western Australia acting for and on behalf of the Government of the said State and its instrumentalities (hereinafter referred to as “the State”) of the one part and ALCOA OF AUSTRALIA (W.A.) LIMITED the name whereof was formerly Western Aluminium No Liability and later Alcoa of Australia (W.A.) N.L. a company duly incorporated under the Companies Statutes of the State of Victoria and having its principal office in that State at 535 Bourke Street, Melbourne and having its registered office in the State of Western Australia at Hope Valley Road, Kwinana (hereinafter referred to as “the Company” which term shall include its successors and permitted assigns) of the other part.
 WHEREAS the parties are the parties to and desire to amend the agreement between them defined in Section 1A of the Alumina Refinery (Pinjarra) Agreement Act 1969-1972 of the State of Western Australia (which agreement is hereinafter referred to as “the principal agreement”).
 NOW THIS AGREEMENT WITNESSETH
@@ -45,4 +46,4 @@ Procedure.
 IN WITNESS whereof these presents have been executed by or on behalf of the parties hereto the day and year first hereinbefore written.
 SIGNED by THE HONOURABLE SIR CHARLES WALTER MICHAEL COURT, O.B.E., M.L.A. in the presence of — ANDREW MENSAROS, MINISTER FOR INDUSTRIAL DEVELOPMENT. |  | CHARLES COURT
 THE COMMON SEAL OF ALCOA OF AUSTRALIA (W.A.) LIMITED was hereunto affixed in the presence of — Director, WALDO PORTER Jr. Secretary, E. W. HUMPHREYS. |  | [C.S.]
-[Third Schedule inserted by No. 116 of 1976 s.5.]
+[Third Schedule inserted: No. 116 of 1976 s.5.]

@@ -1,5 +1,6 @@
-## Fifth Schedule
-[section 6C]
+## Fifth Schedule — Fourth Supplementary Agreement
+[s. 6C]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 26 day of February 1994
 B E T W E E N :
 THE HONOURABLE RICHARD FAIRFAX COURT, B.Com., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the Government of the said State and its instrumentalities (hereinafter called “the State”) of the one part
@@ -54,4 +55,4 @@ authority of the Directors in
 the presence of:
 DirectorT Ueno [C.S.]
 SecretaryJ A Jansen
-[Fifth Schedule inserted by No. 15 of 1995 s. 7.]
+[Fifth Schedule inserted: No. 15 of 1995 s. 7.]

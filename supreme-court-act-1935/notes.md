@@ -84,12 +84,12 @@ Compilation table
  | Reprint 8: The Supreme Court Act 1935 as at 7 Nov 2008 (includes amendments listed above except those in the Bail Amendment Act 2008 and the Legal Profession Act 2008)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 9 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 13 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
+Standardisation of Formatting Act 2010 s. 4, 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Standardisation of Formatting Act 2010 s. 4, 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
-Repealed by the Interpretation Act 1984 s. 77(1).
+Footnote no longer applicable.
 The Acts Amendment (Court of Appeal) Act 2004 s. 5(2) and Pt. 5 read as follows:
 5.Sections 6 and 7 replaced by sections 6, 7 and 7A, and transitional provision
 (2) A person who holds any of the offices of which the Court consists immediately before the coming into operation of subsection (1) continues to hold the corresponding office in the General Division when subsection (1) comes into operation.
@@ -200,42 +200,6 @@ Section 11B of the Supreme Court Act 1935 is amended as follows:
 (2)Where a Master was, immediately before his appointment as such, an officer of the Public Service of the State he retains his existing and accruing rights and for the purpose of determining those rights, his service as Master shall be taken into account as if it were service in the Public Service of the State.
 ”;
 (b) by repealing subsection (3a).
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4, 44(2) and 51 had not come into operation. They read as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Supreme Court Act 1935 | First Schedule
-44.Ad hoc headings
-(1) This section amends the Acts listed in Tables 1 and 2.
-(2) In each Act listed in Table 1 before each section listed in the Table delete the heading and insert the heading or headings set out in the Table in relation to that section.
-6.Supreme Court Act 1935
-s. 16 | Division 1 — Jurisdiction
-s. 24 | Division 2 — Law and equity
-s. 25 | Division 3 — Miscellaneous rules of law
-s. 38 | Division 1 — Sittings and vacations
-s. 46 | Division 2 — Circuit towns
-s. 49 | Division 3 — Jurisdiction of a commissioner
-s. 50 | Division 4 — Inquiries and trials by referees
-s. 56 | Division 5 — Assessors
-s. 57 | Division 6 — The Court of Appeal
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-81.Supreme Court Act 1935
-s. 3 | The Acts stated: Provided that, subject 1918: — (a)Nothing (b)Any (c)Save as (i)shall this Act: (ii)shall thereof: (iii)shall (d)All | (1)The Acts stated. (2)Subject 1918, subsections (3) to (6) have effect in respect of those repeals. (3)Nothing (4)Any (5)Save as (a)shall this Act; (b)shall thereof; (c)shall (6)All
-s. 24 | Subject to rules following: — Every person as aforesaid defence thereto: Provided that — | (1A)Subject to rules set out in subsections (1) to (7). (3A)Every person as mentioned in subsection (3)(b) defence thereto. (5A)However —
-s. 25 | The law as follows: — directs: Provided that nothing in this subsection from this subsection. | (1)The law as set out in subsections (6) to (12). directs. (10A) Nothing in subsection (10) from that subsection.
-s. 26(1) | in fault: Provided that if, | in fault. (1A)If,
-s. 28(1) | in fault: Provided that no | in fault. (1A)However, no
-s. 42 | Subject as without a jury: Provided that the | (1)Subject as without a jury. (2)The
-s. 63(2) | judge: Provided that the plaintiff custody: Provided also that where | judge. (2A)The plaintiff custody. (2B)Where
-s. 167(1) | purposes: — (a)For be made. (b)For chambers. (ba)For specify. (each occurrence) (bb)For (c)For exercise. (d)For section 252). (each occurrence) (da)For (e)For apply. (f)For jury. (g)For proceedings. (h)For thereto. (i)For thereof. (ia)For Registrar. (j)For appeals. (k)Relating Court. (l)For business. (m)For otherwise. (o)For subparagraph (i). (oa)For matter). (ob)For cause. (oc)For enforced. (p)For evidence. (q)For mediation. (r)For The power given by the preceding paragraphs | purposes — (a)for be made; (b)for chambers; (ba)for specify; (bb)for (c)for exercise; (d)for section 252); (da)for (e)for apply; (f)for jury; (g)for proceedings; (h)for thereto; (i)for thereof; (ia)for Registrar; (j)for appeals; (k)relating Court; (l)for business; (m)for otherwise; (o)for subparagraph (i); (oa)for matter); (ob)for cause; (oc)for enforced; (p)for evidence; (q)for mediation; (r)for (1A)The power given by subsection (1)
-s. 170(2) | This subsection | (2A)Subsection (2)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

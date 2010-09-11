@@ -1,8 +1,8 @@
-## Second Schedule
-[Section 5]
-## Part I
-## Persons not eligible to serve as jurors
-[Heading inserted by No. 59 of 1984 s. 23.]
+## Second Schedule — Persons ineligible or entitled to be excused
+[s. 5]
+[Heading inserted by No. 19 of 2010 s. 20(2).]
+## Part I — Persons not eligible to serve as jurors
+[Heading inserted by No. 19 of 2010 s. 20(2).]
 1.A person who is or has been a —
 (a) judge of the Supreme Court, Family Court or District Court;
 (b) master or registrar of the Supreme Court, Family Court or District Court;
@@ -36,9 +36,8 @@
 (iii) is a contract worker as defined in section 3 of the Court Security and Custodial Services Act 1999 or section 15A of the Prisons Act 1981,
 being a person prescribed or of a class prescribed by regulations.
 [Clause 2 inserted by No. 59 of 1984 s. 23; amended by No. 31 of 1993 s. 47; No. 104 of 1994 s. 236; No. 78 of 1995 s. 57; No. 48 of 2003 s. 62; No. 50 of 2003 s. 29(3); No. 34 of 2004 Sch. 2 cl. 16; No. 59 of 2004 s. 141; No. 28 of 2006 s. 39(2); No. 41 of 2006 s. 91; No. 65 of 2006 s. 66; No. 5 of 2008 s. 69; No. 8 of 2008 s. 14 and 23(4); No. 46 of 2009 s. 17.]
-## Part II
-[Heading inserted by No. 59 of 1984 s. 23.]
-## Persons who are excused as of right from serving as jurors if they claim to be excused by virtue of that fact, namely —
+## Part II — Persons entitled to be excused from serving as jurors
+[Heading inserted by No. 19 of 2010 s. 20(3).]
 1.Emergency services.
 Full-time operational staff of the State Emergency Service.
 Officers and firemen of permanent fire brigades.

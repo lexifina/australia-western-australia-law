@@ -1,6 +1,6 @@
-## Schedule 1
+## Schedule 1 — Employers
 [s. 3]
-## Employers
+[Heading amended by No. 19 of 2010 s. 4.]
 Griffin Coal Mining Pty Limited
 Chamber of Commerce and Industry
 The Board

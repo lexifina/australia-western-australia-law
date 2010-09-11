@@ -1,4 +1,6 @@
-## Schedule
+## Schedule — Enabling agreement
+[s. 3]
+[Heading amended by No. 19 of 2010 s. 4.]
 THIS ENABLING AGREEMENT is made the 1st day of November 1985
 BETWEEN:
 THE HONOURABLE BRIAN THOMAS BURKE M.L.A. Premier of the State of Western Australia acting for and on behalf of the State of Western Australia and its instrumentalities from time to time (“the state”) of the first part

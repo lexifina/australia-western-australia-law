@@ -1,4 +1,6 @@
-## Schedule
+## Schedule — Cemetery land
+[s. 2]
+[Heading amended by No. 19 of 2010 s. 4.]
 Land | Instrument of Title | Proprietors
 Albany Town Lots 327 and 328 | Vol. 35, Fols. 172 and 173 | James Young Simpson, Superintendent Wesleyan Minister; George Shenton, merchant; Richard Watson Hardey, gentleman, all of Perth; John Henry Monger, merchant, of York, and Charles Crowther, merchant, of Geraldton, as trustees for the Wesleyan Methodist Church.
 Albany building Lot 329. | Enrolment 1298. | The Roman Catholic Bishop of Perth.

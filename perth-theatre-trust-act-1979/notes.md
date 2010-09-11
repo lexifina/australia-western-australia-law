@@ -17,23 +17,14 @@ Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 99 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 65 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date on which this compilation was prepared, provisions referred to in the following table had not come into operation and are not included in this compilation. For the text of the provisions see the endnote referred to after the short title.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation(Transitional and Consequential Provisions) Act 2000 s. 57 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Under section 31(1)(f) of the Acts Amendment (Public Service) Act 1987 (No. 113 of 1987) references to “Permanent Head” may be construed as references to “chief executive officer”.
 Repealed by the Mental Health (Consequential Provisions) Act 1996 (No. 69 of 1996). Now see the Mental Health Act 1996 (No. 68 of 1996).
 Under section 112(2) of the Public Sector Management Act 1994 (No. 31 of 1994) references to the Public Service Board may be construed as references to the Minister for Public Sector Management.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Act | Identifier | Title | Shoulder note
-Perth Theatre Trust Act 1979 | Schedule
 Footnote no longer applicable.
 Under section 112(1) of the Public Sector Management Act 1994 (No. 31 of 1994) references to the Public Service Act 1978 are to be construed as references to the Public Sector Management Act 1994).
 On the date on which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 57 had not come into operation. It reads:

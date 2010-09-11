@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Art Gallery Act 1959 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Art Gallery Act 1959 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Art Gallery Act 1959 | 62 of 1959 (8 Eliz. II No. 62) | 10 Dec 1959 | 27 May 1960 (see s. 2 and Gazette 27 May 1960 p. 1436)
@@ -25,33 +25,21 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 12 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 22 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 4: The Art Gallery Act 1959 as at 4 Jun 2010 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 32 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Other notes
 Repealed by s. 3 of this Act.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to “chief executive officer”. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the former Department of the Arts is now called the Department of Culture and the Arts.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. This reference was changed under the Reprints Act 1984 s. 7(3)(g).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Came into operation on 16 June 1997.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 32 had not come into operation. It reads as follows:
-32.Art Gallery Act 1959 amended
-Section 16(3) of the Art Gallery Act 1959 is amended by deleting “and to such rights prescribed by or pursuant to the provisions of the Superannuation and Family Benefits Act 1938,”.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 had not come into operation. It reads as follows:
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-7.Art Gallery Act 1959
-s. 11(2) | (2)(a)The (b)When (c)The (d)If | (2)The (3)When (4)The (5)If
-s. 13 | each member 5 members the majority | (a)each member (b)5 members (c)the majority
-s. 20(1) | (1)(a)So much (b)A proclamation this subsection | (1A)So much (1B)A proclamation subsection (1A)
-s. 20(3) | subsection (1), | subsection (1A),
-s. 21(4) | (4)(a)All (b)(i)All (ii)The (iii)The | (4)All (5)All (6)The (7)The
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Account28B(1)
 appointed member4
 Art Gallery4

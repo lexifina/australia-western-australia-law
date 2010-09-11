@@ -1,6 +1,6 @@
-## Schedule 2
+## Schedule 2 — Entities which are SES organisations
 [s. 3 and 108]
-## Entities which are SES organisations
+[Heading amended by No. 19 of 2010 s. 4.]
 Column 1 Item | Column 2 Entity
 [1, 2 | deleted]
 3 | Botanic Gardens and Parks Authority, established under the Botanic Gardens and Parks Authority Act 1998

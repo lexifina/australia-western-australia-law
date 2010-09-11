@@ -1,5 +1,6 @@
-## First Schedule
-[s. 2.]
+## First Schedule — Broken Hill Proprietary Steel Industry Agreement
+[s. 2]
+[Heading inserted by No. 19 of 2010 s. 10(2).]
 AGREEMENT under Seal made seventh day of October 1952 BETWEEN THE HONOURABLE DUNCAN ROSS McLARTY M.L.A. Premier and Treasurer of the State of Western Australia contracting for and on behalf of the said State and the Government and Instrumentalities thereof from time to time (hereinafter referred to as “the State”) of the one part and THE BROKEN HILL PROPRIETARY COMPANY LIMITED a company duly incorporated under the Companies Statutes of the State of Victoria and having its registered office in the State of Western Australia at Steamship Building Saint George’s Terrace Perth (hereinafter referred to as “the Company” in which term shall be incorporated its successors and permitted assigns) of the other part WHEREAS:
 (a)The State of Western Australia is desirous that an integrated iron and steel industry should be established in the said State and has requested the Company whose principal business is that of iron and steel masters in the Commonwealth of Australia to assist in that objective.
 (b)The Company from its experience of smelting iron ores and from investigations already made by its technical officers has advised the State that the Company has satisfied itself and the State accepts that a practical and economical method of using coal of the type found in the Collie coalfields of the said State for the production of pig iron has not yet been developed.
@@ -108,3 +109,4 @@ L. DARLING,
 Directors
 R. G. NEWTON,
 Secretary
+[Second Schedule deleted by No. 19 of 2010 s. 10(3).]

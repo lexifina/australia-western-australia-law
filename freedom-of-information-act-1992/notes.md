@@ -41,12 +41,12 @@ Perth International Centre for Application of Solar Energy Repeal Act 2006 s. 6 
 Children and Community Services Amendment (Reporting Sexual Abuse of Children) Act 2008 s. 13 | 26 of 2008 | 19 Jun 2008 | 1 Jan 2009 (see s. 2(b) and Gazette 9 Dec 2008 p. 5107)
 Reprint 5: The Freedom of Information Act 1992 as at 27 Feb 2009 (includes amendments listed above)
 National Gas Access (WA) Act 2009 s. 70 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327
+Standardisation of Formatting Act 2010 s. 4 and 59 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Standardisation of Formatting Act 2010 s. 4 and 59 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Health and Disability Services Legislation Amendment Act 2010 s. 57 | 33 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
@@ -75,30 +75,6 @@ Act | Provision
 Freedom of Information Act 1992 | s. 62(2)
 ...................... | ........
 ”.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 and 59 had not come into operation. They read as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Freedom of Information Act 1992 | Schedule 1
-Schedule 2
-59.Freedom of Information Act 1992 amended
-(1) This section amends the Freedom of Information Act 1992.
-(2) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 1 cl. 1, 2, 4, 5, 6, 8, 9, 10, 11, 12, 14 | Exemptions
-Sch. 1 cl. 3, 7, 13, 15 | Exemption
-Sch. 1 cl. 1, 4, 5, 6 | Limits on exemptions
-Sch. 1 cl. 2, 10, 11 | Limit on exemptions
-Sch. 1 cl. 3, 8 | Limits on exemption
-Sch. 1 cl. 7, 9 | Limit on exemption
-Sch. 1 cl. 1, 2, 15 | Definition
-Sch. 1 cl. 5 | Definitions
 On the date as at which this compilation was prepared, the Health and Disability Services Legislation Amendment Act 2010 s. 57 had not come into operation. It reads as follows:
 57.Freedom of Information Act 1992 amended
 (1) This section amends the Freedom of Information Act 1992.

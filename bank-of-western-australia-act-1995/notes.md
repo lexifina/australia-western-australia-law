@@ -7,23 +7,14 @@ Corporations (Consequential Amendments) Act 2001 Pt. 6 | 10 of 2001 | 28 Jun 200
 Reprint 1: The Bank of Western Australia Act 1995 as at 7 May 2004 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 24 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date on which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the Bank of Western Australia Act 1990 and other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Bank of Western Australia Act 1990, the short title of which was changed to the R & I Holdings Act 1990 by the Bank of Western Australia Act 1995, was repealed in Gazette 26 Jun 2001 p. 3063 under s. 22(2) of the R & I Holdings Act 1990.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Act | Identifier | Title | Shoulder note
-Bank of Western Australia Act 1995 | Schedule 1 | Provisions relating to Bank of Western Australia Act 1990
-Schedule 2 | Provisions relating to other Acts
+Footnote no longer applicable.
 Repealed by the Rural and Industries Bank of Western Australia Act 1987 s. 36.
 Repealed by the R & I Bank Act 1990 s. 43.
 Section 28 expired 25 Oct 1996. It reads as follows:

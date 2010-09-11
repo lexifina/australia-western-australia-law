@@ -1,6 +1,6 @@
-## Tenth Schedule
-[Section 17R]
-Bill of sale by way of security
+## Tenth Schedule — Bill of sale by way of security
+[s. 17R]
+[Heading amended by No. 19 of 2010 s. 4.]
 This Indenture, made the day of , 20 , between (names in full of grantor, his residence or place of business, and occupation), hereinafter called the grantor, of the one part, and (names in full of grantee, his residence or place of business, and occupation), hereinafter called the grantee, of the other part, witnesseth that in consideration of the sum of dollars this day paid by the grantee to the grantor (or as the case may be), the receipt of which the grantor hereby acknowledges, the grantor hereby assigns unto the grantee all and singular the chattels described in the schedule hereto, and which are situated (state the place where the chattels are situated) by way of security for the payment by the grantor to the grantee of the sum of dollars and interest thereon at the rate of per centum per annum on demand (or at such time or by such instalments as may be agreed upon). And it is agreed that upon payment in full by the grantor to the grantee of all the moneys hereby secured, this bill of sale shall become void, and the grantee will at the request and cost of the grantor sign and cause to be registered a memorandum of satisfaction thereof, and that it shall be lawful for the grantor to retain possession of the said chattels until default is made in the express or implied terms, covenants, conditions, and agreements of this security.
 The Schedule
 In witness whereof the parties to these presents have hereunto set their hands and seals, the day and year first above written.

@@ -22,12 +22,12 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 5 Div. 1 | 28 of
 Volunteers (Protection from Liability) Amendment Act 2006 s. 12(2) | 53 of 2006 | 26 Oct 2006 | 2 Dec 2006 (see s. 2 and Gazette 1 Dec 2006 p. 5297)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 3: The Disability Services Act 1993 as at 21 Sep 2007 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
-Health and Disability Services Legislation Amendment Act 2010 Pt. 3 | 33 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health and Disability Services Legislation Amendment Act 2010 Pts. 3 | 33 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004 s. 250. Under the Children and Community Services Act 2004 Sch. 1 cl. 24 a reference to the Child Welfare Act 1947 is, unless the context otherwise requires, to be read as if it had been amended to be a reference to the Children and Community Services Act 2004.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Disability Services Act 1993 Sch. 6 Pt. 2 reads as follows:
@@ -69,7 +69,7 @@ old Council means the Advisory Council for Disability Services established under
 (2) A public authority that had a disability service plan immediately before commencement of this section is taken to have a disability access and inclusion plan for the purposes of section 28 of the Disability Services Act 1993 as inserted by this section.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 “
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
@@ -79,16 +79,6 @@ Act | Provision
 Disability Services Act 1993 | Sch. 4, cl. 1
 ...................... | ........
 ”.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Act | Identifier | Title | Shoulder note
-Disability Services Act 1993 | Schedule 3
-Schedule 4
 On the date as at which this compilation was prepared, the Health and Disability Services Legislation Amendment Act 2010 Pt. 3 had not come into operation. It reads as follows:
 Part 3 — Disability Services Act 1993 amended
 31.Act amended
