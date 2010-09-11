@@ -227,7 +227,7 @@ Class 13 (c/kL) | 390.4 | 501.6
 Class 14 (c/kL) | 427.8 | 546.2
 Class 15 (c/kL) | 468.6 | 594.8
  | (c)farmland —
- | all water supplied | 141.4 cents
+ | all water supplied | 128.7 cents
  | (d)mining —
  | all water supplied | 230.1 cents
  | (e)institutional public —
@@ -268,7 +268,7 @@ Class 15 (c/kL) | 98.2 | 468.6 | 594.8
  | over quota | 1 257.9 cents
  | where the quota for the year is 105 kL or such greater amount as the Corporation may from time to time determine for the land concerned.
 30. | Local government standpipes
- | For each kilolitre of water supplied through a local government standpipe ............................ | 141.4 cents
+ | For each kilolitre of water supplied through a local government standpipe ............................ | 128.7 cents
 31. | Shipping
  | For each kilolitre of water supplied for the purpose of being taken on board any ship in port —
  | (a)in the metropolitan area —
@@ -294,13 +294,13 @@ Class 13 (c/kL) | 390.4 | 501.6
 Class 14 (c/kL) | 427.8 | 546.2
 Class 15 (c/kL) | 468.6 | 594.8
 32. | Stock
- | For each kilolitre of water supplied for the purpose of watering stock on land that is not the subject of a charge under item 10 | 141.4 cents
+ | For each kilolitre of water supplied for the purpose of watering stock on land that is not the subject of a charge under item 10 | 128.7 cents
 33. | Building
  | For each kilolitre of water supplied to land that is neither a residential property, nor any other property held for residential purposes, through a water supply connection that is provided for building purposes —
  | (a)in the metropolitan area, the charge that would apply under item 24 if the water supplied through that connection were the only water supplied to the land;
  | (b)not in the metropolitan area, the charge that would apply under item 27(b) if the water supplied through that connection were the only water supplied to the land.
 34. | Metropolitan hydrant standpipes
  | For each kilolitre of water supplied through a hydrant standpipe in the metropolitan area | 143.5 cents
-[Division 2 inserted in Gazette 25 Jun 2010 p. 2913-25.]
+[Division 2 inserted in Gazette 25 Jun 2010 p. 2913-25; amended in Gazette 10 Sep 2010 p. 4351.]
 ## Division 3 — Formula for the purposes of by-law 17(3)
 [Heading inserted in Gazette 25 Jun 2010 p. 2926.]
