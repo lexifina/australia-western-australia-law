@@ -261,7 +261,7 @@ Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative at “transfer time” fixed under the State Superannuation Act 2000 s. 56 (see s. 2(1)(c))
 Grain Marketing Repeal Act 2010 s. 4 | 30 of 2010 | 25 Aug 2010 | To be proclaimed (see s. 2(b))
 Pharmacy Act 2010 Pt. 8 Div. 1 | 32 of 2010 | 26 Aug 2010 | To be proclaimed (see s. 2(b))
-Health and Disability Services Legislation Amendment Act 2010 s. 55 | 33 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health and Disability Services Legislation Amendment Act 2010 s. 55 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 10 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
