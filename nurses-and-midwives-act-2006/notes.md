@@ -9,7 +9,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 33 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Health and Disability Services Legislation Amendment Act 2010 s. 61 | 33 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health and Disability Services Legislation Amendment Act 2010 s. 61 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Health Practitioner Regulation National Law (WA) Act 2010 s. 14(f) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 33 had not come into operation. It reads as follows:
 “
