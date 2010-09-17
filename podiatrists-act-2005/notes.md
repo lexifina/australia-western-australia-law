@@ -8,7 +8,7 @@ Medical Practitioners Act 2008 Sch. 3 cl. 45 | 22 of 2008 | 27 May 2008 | 1 Dec 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Health and Disability Services Legislation Amendment Act 2010 s. 66 | 33 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health and Disability Services Legislation Amendment Act 2010 s. 66 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Health Practitioner Regulation National Law (WA) Act 2010 s. 14(l) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Health and Disability Services Legislation Amendment Act 2010 s. 66 had not come into operation. It reads as follows:
 66.Podiatrists Act 2005 amended
