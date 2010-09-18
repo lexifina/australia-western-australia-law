@@ -8,14 +8,14 @@ Compilation table
  | Land Information Authority Act 2006 s. 147 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 1: The Planning and Development Act 2005 as at 23 Nov 2007 (includes amendments listed above)
- | Acts Amendment (Justice) Act 2008 Pt. 18 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
- | Legal Profession Act 2008 s. 690 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+Acts Amendment (Justice) Act 2008 Pt. 18 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
+Legal Profession Act 2008 s. 690 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 100 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 8 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
-Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 8 | 8 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 1, Pt. 3, 4 and 5 Div. 1 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Land Administration Act 1997.
 Repealed by the Mining Act 1978.
@@ -291,32 +291,7 @@ but if the City of Swan does not accept that advice, the City of Swan is to refe
 (8) Clause 30B(6) is amended by deleting “council of the Shire” and inserting instead —
 “ City ”.
 ”.
-On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 8 had not come into operation. It reads as follows:
-Part 8 — Planning and Development Act 2005 amended
-24.Act amended
-This Part amends the Planning and Development Act 2005.
-25.Section 267A inserted
-After section 266 insert:
-267A.Authority to perform certain functions in relation to Crown land for purposes of this Act
-(1) If the approval or signature of the owner of Crown land or freehold land in the name of the State is required for the purposes of this Act, the approval or signature may be given by —
-(a) the Minister as defined in the Land Administration Act 1997 section 3(1) (the Minister for Lands); or
-(b) a person who is authorised in writing by the Minister for Lands to do so.
-(2) Nothing in this section limits the ability of the Minister for Lands to otherwise perform a function through an officer or agent.
-(3) Nothing in this section affects —
-(a) a right or obligation that any other person, as an owner of land mentioned in subsection (1), has under this Act in relation to that land; or
-(b) how that right may be exercised or that obligation may be satisfied.
-26.Section 267 amended
-(1) Delete section 267(1) and (2) and insert:
-(1) An action in tort does not lie against —
-(a) a person for anything that the person has done, in good faith, in the performance or purported performance of a function under this Act; or
-(b) a person acting under an authority mentioned in section 152(5)(c) or 267A(1) for anything that the person has done, in good faith, in the performance or purported performance of a function to which the authority applies.
-(2) In section 267(3) delete “subsection (2)” and insert:
-subsection (1)
-(3) In section 267(4):
-(a) delete “subsection (2)” and insert:
-subsection (1)
-(b) delete “Commission nor the State” and insert:
-Commission, the State nor a local government
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 1, Pt. 3, 4 and 5 Div. 1 had not come into operation. They read as follows:
 Part 2 — Improvement plans and schemes under Planning and Development Act 2005
 Division 1 — Planning and Development Act 2005 amended

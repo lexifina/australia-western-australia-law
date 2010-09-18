@@ -72,12 +72,12 @@ Duties Legislation Amendment Act 2008 Sch. 1 cl. 38 | 12 of 2008 | 14 Apr 2008 |
 Legal Profession Act 2008 s. 711 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 10 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 9: The Transfer of Land Act 1893 as at 21 Aug 2009 (includes amendments listed above)
+Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 9 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Standardisation of Formatting Act 2010 s. 38, 43(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
-Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 9 | 8 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997.
 The Land Valuers Licensing Act 1978 came into operation on 1 July 1979.
 The Transfer of Land Amendment Act 1996 s. 6(2) reads as follows:
@@ -162,36 +162,6 @@ and the proprietors of the freehold in the land (the proprietors) wish to subdiv
 Section 167 is amended by deleting “or 166A” and inserting instead —
 “ , 166A or 166C ”.
 The amendment in the Financial Legislation Amendment and Repeal Act 2006 s. 4 to s. 190 is not included because s. 190 had been replaced by the Land Information Authority Act 2006 s. 115.
-On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 9 had not come into operation. It reads as follows:
-Part 9 — Transfer of Land Act 1893 amended
-27.Act amended
-This Part amends the Transfer of Land Act 1893.
-28.Section 4 amended
-In section 4(1) in the definition of Minister for Lands delete “to whom the administration of the Land Administration Act 1997 is committed;” and insert:
-as defined in the Land Administration Act 1997 section 3(1);
-29.Section 17 inserted
-At the end of Part 1 insert:
-17.Authority to perform certain functions of Minister for Lands under this Act
-(1) A function that the Minister for Lands has under a provision listed in the Table may be performed by a public service officer of the Department, as defined in the Land Administration Act 1997 section 3(1), who is authorised in writing by the Minister for Lands to do so.
-(2) Nothing in this section limits the ability of the Minister for Lands to otherwise perform a function through an officer or agent.
-Table
-s. 70A(1), (2)(b), (3) | s. 81D(1)(a)
-s. 81E | s. 81F(1), (2), (3), (4)
-s. 81L | s. 81V(1)
-s. 81ZA(3) | s. 104(2)
-s. 129BA(2) | s. 129BB(1), (2), (3)
-s. 136J(1), (2), (3) | s. 145(2)
-s. 153A | s. 166A(1), (3)
-s. 166B(1), (3)
-30.Section 81D amended
-In section 81D(1)(a) delete “Lands, or an officer authorised by that Minister to do so,” and insert:
-Lands
-31.Section 153A amended
-In section 153A after “Minister” insert:
-for Lands
-32.Section 198 amended
-In section 198 after “them” insert:
-or of the Minister for Lands
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
