@@ -42,12 +42,12 @@ Reprint 6: The Environmental Protection Act 1986 as at 11 Apr 2008 (includes ame
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 53 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 35 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Bush Fires Amendment Act 2009 Pt. 3 | 25 of 2009 | 17 Nov 2009 | 1 Dec 1009 (see s. 2(b) and Gazette 1 Dec 2009 p. 4829)
+Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 4 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(3)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
-Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 4 | 8 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 2 Subdiv. 1 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
@@ -119,26 +119,7 @@ The Waste Avoidance and Resource Recovery Regulations 2008 r. 24 reads as follow
 24.Transitional provision — Waste Management and Recycling Fund
 The Waste Avoidance and Resource Recovery Act 2007 Schedule 5 clause 6 prevails to the extent that there is an inconsistency between that provision and Part VIIA Division 2 of the EP Act.
 ”.
-On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 4 had not come into operation. It reads as follows:
-Part 4 — Environmental Protection Act 1986 amended
-9.Act amended
-This Part amends the Environmental Protection Act 1986.
-10.Section 121A inserted
-After section 120 insert:
-121A.Authority to perform certain functions in relation to Crown land for purposes of this Act
-(1) If, under a provision of this Act, the owner or occupier of Crown land or freehold land in the name of the State may give, or is required to give, notice or may make an application or representation, give comments or authority, show cause, provide information or do any other thing, that thing may be done by —
-(a) the Minister as defined in the Land Administration Act 1997 section 3(1) (the Minister for Lands); or
-(b) a public service officer of the Department, as defined in the Land Administration Act 1997 section 3(1), who is authorised in writing by the Minister for Lands to do so.
-(2) Nothing in this section limits the ability of the Minister for Lands to otherwise perform a function through an officer or agent.
-(3) Nothing in this section affects —
-(a) a right or obligation that any other person has under Part V Division 2 in relation to land mentioned in subsection (1) if the person is an owner or occupier of that land because of the meaning of those terms in that Division; or
-(b) a right or obligation that any other person has under any other provision of this Act in relation to land mentioned in subsection (1) if the person is an occupier of that land because of the meaning of occupier in section 3(1); or
-(c) how that right may be exercised or that obligation may be satisfied.
-11.Section 121 amended
-In section 121(1) delete “against a person for anything that the person has done, in good faith, in the performance or purported performance of a function under this Act.” and insert:
-against —
-(a) a person for anything that the person has done, in good faith, in the performance or purported performance of a function under this Act; or
-(b) a person acting under an authority mentioned in section 121A(1) for anything that the person has done, in good faith, in the performance or purported performance of a function to which the authority applies.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 2 Subdiv 1 had not come into operation. It reads as follows:
 Division 2 — Consequential amendments
 Subdivision 1 — Environmental Protection Act 1986 amended

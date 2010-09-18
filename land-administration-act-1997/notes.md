@@ -40,13 +40,13 @@ Acts Amendment (Bankruptcy) Act 2009 s. 48 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Land Administration Amendment Act 2009 | 32 of 2009 | 26 Nov 2009 | s. 1 and 2: 26 Nov 2009 (see s. 2(a)); Act other than s. 1 and 2: 27 Nov 2009 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Reprint 5: The Land Administration Act 1997 as at 9 Apr 2010 (includes amendments listed above)
+Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 5 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
-Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 5 | 8 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 4.Section 6A inserted
 After section 6 the following section is inserted in Part 1 —
@@ -372,42 +372,6 @@ declared pests on the land under the lease in compliance with the Biosecurity an
 “
 (a) the Biosecurity and Agriculture Management Act 2007;
 ”.
-On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 5 had not come into operation. It reads as follows:
-Part 5 — Land Administration Act 1997 amended
-12.Act amended
-This Part amends the Land Administration Act 1997.
-13.Section 91 amended
-In section 91(5):
-(a) delete “there is in effect an agreement between the Minister and”;
-(b) delete “Governor enabling that area to be” and insert:
-Governor, or a public service officer of the department that is principally assisting in the administration of the relevant Act, who is authorised in writing by that Minister to do so, approves of that area being
-14.Section 259 amended
-In section 259(2) delete “who is the Minister, a delegate of the Minister, an authorised land officer or a public service officer of the Department”.
-15.Section 275A inserted
-After section 274 insert:
-275A.Disclosure of information about Crown land interest holders
-(1) In this section —
-contact details includes postal address, telephone number, facsimile number and email address;
-Crown land interest holder means the holder of —
-(a)a pastoral lease or other lease; or
-(b)a licence; or
-(c)an interest in relation to Crown land;
-public authority means —
-(a)a department of the Public Service; or
-(b)a State instrumentality; or
-(c)a local government; or
-(d)a body that provides to members of the public water, drainage, gas, electricity or ambulance or other emergency services; or
-(e)a prescribed agency of the Commonwealth.
-(2) The chief executive officer of the Department may disclose the name and contact details of a Crown land interest holder to —
-(a) an officer or employee of a public authority for use in the performance of the public authority’s functions; or
-(b) the Director General of Mines, as defined in the Mining Act 1978 section 8(1), for providing the information to applicants for, or holders of, mining tenements, as defined in that section, or to any other person who is required, under that Act, to give notice to a Crown land interest holder; or
-(c) a prescribed person, in the circumstances and on such conditions as may be prescribed.
-(3) For the purposes of this section, the Pastoral Lands Board may disclose the name and contact details of a pastoral lessee to the chief executive officer of the Department from the most recent return submitted by the pastoral lessee under section 113.
-(4) Information may be disclosed under subsection (2) or (3), or provided under subsection (2)(b), despite any written law relating to confidentiality or secrecy.
-(5) If information is disclosed, in good faith, under subsection (2) or (3), or provided under subsection (2)(b) (the disclosure) —
-(a) no civil or criminal liability, or liability to be punished for a contempt of court, is incurred in respect of the disclosure; and
-(b) the disclosure is not to be regarded as a breach of any duty of confidentiality or secrecy imposed by law; and
-(c) the disclosure is not to be regarded as a breach of professional ethics or standards or as unprofessional conduct.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

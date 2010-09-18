@@ -68,13 +68,13 @@ Legal Profession Act 2008 s. 681 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Revenue Laws Amendment Act (No. 2) 2008 Pt. 2 Div. 2 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 8 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 7: The Mining Act 1978 as at 3 Jul 2009 (includes amendments listed above)
+Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 6 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
-Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 6 | 8 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
 Approvals and Related Reforms (No. 2) (Mining) Act 2010 Pt. 2 and 3 | 12 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
@@ -408,30 +408,7 @@ Section 132(2) is amended by inserting after “the State” —
 “
 , including any area that comes within paragraph (b) of the definition of “land” in section 8(1),
 ”.
-On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 6 had not come into operation. It reads as follows:
-Part 6 — Mining Act 1978 amended
-16.Act amended
-This Part amends the Mining Act 1978.
-17.Section 8 amended
-In section 8(1) insert in alphabetical order:
-LAA Minister means the Minister to whom the administration of the Land Administration Act 1997 is for the time being committed by the Governor;
-18.Section 25 amended
-(1) In section 25(2)(b) delete “Minister to whom the administration of the Land Administration Act 1997 is for the time being committed by the Governor” and insert:
-LAA Minister
-(2) In section 25(3)(b) delete “Minister to whom the administration of the Land Administration Act 1997 is for the time being committed by the Governor” and insert:
-LAA Minister
-19.Section 160AA inserted
-After section 160 insert:
-160AA.Authority to perform certain functions of LAA Minister under this Act
-(1) A function that the LAA Minister has under a provision of this Act listed in the Table may be performed by a public service officer of the Department, as defined in the Land Administration Act 1997 section 3(1), who is authorised in writing by the LAA Minister to do so.
-(2) Nothing in this section limits the ability of the LAA Minister to otherwise perform a function through an officer or agent.
-Table
-s. 24(3)(b), (5)(b), as the responsible Minister under s. 24(8) | s. 25(2)(b), (3)(b)
-s. 26(2)(a) | s. 55(1), (3), (4)
-s. 69C(1), (3), (4) | s. 94J
-20.Section 160A amended
-In section 160A delete “Mines” and insert:
-Mines, or the LAA Minister
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 2) (Mining) Act 2010 Pt. 2 and 3 had not come into operation. They read as follows:
 Part 2 — Mine closure plans, and other measures to minimise damage to land, under Mining Act 1978
 3.Act amended
