@@ -11,7 +11,7 @@ Plant Diseases Act 1914
  | For a natural person: | 200
  | For a body corporate: | 500
 Plant Diseases Regulations 1989
-6A.Regulation 3B(1) | Bringing plant into State that is not listed in Schedule 5 or approved by the Director General and according to any conditions imposed by the Director General | 150
+6A.Regulation 3B(1) | Bringing into State non-native plant not listed in Schedule 5 without approval or in breach of conditions of approval | 150
 6.Regulation 4(2) | Importing a potential carrier in contravention of Scheduled conditions | 150
 7.Regulation 6(2) | Failure to present a specified potential carrier, being imported, for inspection | 150
 7A.Regulation 6(5) | Failure to stop a conveyance or keep it stationary at an inspection point | 150
@@ -35,4 +35,4 @@ Plant Diseases Regulations 1989
 24.Regulation 19E(4) | Failure to comply with Schedule 4C, Part 1 (steps and measures to eradicate, etc., codling moth under section 11 of the Act) | 200
 25.Regulation 19E(7) | Failure to comply with Schedule 4C, Part 2 (steps and measures to eradicate, etc., codling moth under section 12 of the Act) | 150
 26.Regulation 19F(3) | Failure to comply with Schedule 4C, Part 3 (steps and measures by persons referred to in regulation 19F to eradicate, etc., disease) | 150
-[Schedule 8 inserted in Gazette 30 Sep 1994 p. 4955-6; amended in Gazette 20 Aug 1996 p. 4059; 14 Jan 1997 p. 380; 3 Oct 1997 p. 5514; 11 Aug 2000 p. 4693; 8 Jun 2001 p. 2922 (correction to reprint 3 Dec 2002 p. 5713); 10 Jan 2003 p. 31.]
+[Schedule 8 inserted in Gazette 30 Sep 1994 p. 4955-6; amended in Gazette 20 Aug 1996 p. 4059; 14 Jan 1997 p. 380; 3 Oct 1997 p. 5514; 11 Aug 2000 p. 4693; 8 Jun 2001 p. 2922 (correction to reprint 3 Dec 2002 p. 5713); 10 Jan 2003 p. 31; 17 Sep 2010 p. 4754.]

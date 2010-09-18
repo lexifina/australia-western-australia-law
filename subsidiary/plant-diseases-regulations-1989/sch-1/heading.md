@@ -76,6 +76,8 @@ Cumquat .............. | see Citrus
 Custard apple........ | see Annona spp. and Annona sp. hybrids
 Cut flowers and foliage (not specified elsewhere) ........ | — | 28, 41, 52, 55 | — | —
 Cydonia spp. (Quince)............ | 13, 17, 18, 27, 29, 41, 45, 52, 55 | 18, 29, 41, 52, 55 | 16 | 1
+Column 1 | Column 2 | Column 3 | Column 4 | Column 5
+Potential carrier | Plants or parts thereof | Cuttings, budwood | Seed | Fruit, vegetables and products
 Date...................... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
 Douglas fir............ | 3, 13, 17, 27, 29, 45, 55 | 3, 29, 55 | 16 | 55
 Durian................... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9/9C, 41, 52, 55
@@ -126,6 +128,8 @@ Lucerne................. | 1 | 1 | 1, 16, 20 | —
 Lupin.................... |  |  | 16 | —
 Lychee.................. | 13, 17, 27, 29, 45, 55 | 29, 55 | 16 | 4/4A/7/9/9C, 55
 Lyonia spp. .......... | 13, 17, 27, 29, 41, 45, 52, 55, 57 | 29, 41, 52, 55, 57 | 16 | 41, 52, 55, 57
+Column 1 | Column 2 | Column 3 | Column 4 | Column 5
+Potential carrier | Plants or parts thereof | Cuttings, budwood | Seed | Fruit, vegetables and products
 Maize.................... | 1 | 1 | 16, 19, 28 | —
 Malay apple.......... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9E, 41, 52, 55
 Mandarin.............. | 13, 17, 27, 29, 41, 45, 50A, 51, 52, 55 | 29, 41, 50A, 51, 52, 55 | 16 | 4/7/9C, 41, 51, 52, 55
@@ -177,6 +181,8 @@ Pumpkin............... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 4/8A/9J, 41
 Pyracantha spp. (Firethorn)......... | 1 | 1 | 16 | 1
 Pyrus spp. (Pear).. | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 1
 Quince.................. | see Cydonia spp.
+Column 1 | Column 2 | Column 3 | Column 4 | Column 5
+Potential carrier | Plants or parts thereof | Cuttings, budwood | Seed | Fruit, vegetables and products
 Radish................... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | —
 Rambutan............. | 13, 17, 27, 29, 45, 55 | 29, 55 | 16 | 4/4A/7/9/9C, 55
 Raspberry............. | see Berries
@@ -192,7 +198,7 @@ Rubus ideus (Red raspberry)......... | see Berries
 Santol.................... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/7/9C, 41, 52, 55
 Sapodilla............... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
 Sapote................... | see Black sapote and Casimiroa
-Seed (see also Douglas fir, European larch, Mango, Pinus, Lucerne, Maize, Rice, Soybean, Sorghum and Schedule 5) ....... | — | — | 16 | —
+Seed not specified elsewhere ....... | — | — | 16 | —
 Serviceberry......... | see Amelanchier spp.
 Shallots................. | 13, 17, 27, 29, 35, 41, 45, 55 | — | 16 | 41, 35, 55
 Sorbus spp. (Mountain ash).. | 1 | 1 | 16 | 1
@@ -213,6 +219,8 @@ Sweetcorn............. | see Maize
 Sweet potatoes...... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | —
 Sweetsop (Sugar apple) ................ | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
 Swinglea spp. ...... | 13, 17, 27, 29, 41, 45, 51, 52 | 29, 41, 51, 52 | 16 | 41, 51, 52
+Column 1 | Column 2 | Column 3 | Column 4 | Column 5
+Potential carrier | Plants or parts thereof | Cuttings, budwood | Seed | Fruit, vegetables and products
 Tahiti lime............ | 13, 17, 27, 29, 41, 45, 50A, 51, 52, 55 | 29, 41, 50A, 51, 52, 55 | 16 | 4/7/9A/9E, 29, 41, 51, 52, 55
 Tamarillo.............. | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
 Tamaruis............... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9E, 41, 52, 55
@@ -235,7 +243,7 @@ Watsonia............... | 13, 17, 27, 29, 41, 45, 52, 53, 55 | 29, 41, 52, 53, 5
 Wax jambu (Rose apple) ................ | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9C, 41, 52, 55
 Yams.................... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | —
 Zucchini................ | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 4/7/9G, 41, 52, 55
-[Part A inserted in Gazette 7 Jun 1996 p. 2373-83; amended in Gazette 14 Jan 1997 p. 381-2 and 383; 4 Mar 1997 p. 1353; 6 Jan 1998 p. 50-2; 19 Aug 1998 p. 4475-6; 9 Mar 1999 p. 1145; 23 Mar 1999 p. 1260-2; 22 Jun 1999 p. 2669; 4 Feb 2000 p. 420; 29 Sep 2000 p. 5534-5; 6 Jan 2001 p. 113; 13 Feb 2001 p. 866; 19 Apr 2002 p. 2077; 11 Feb 2003 p. 409; 31 Oct 2003 p. 4554-5; 16 Jan 2004 p. 193; 21 Sep 2004 p. 4108-9; 17 May 2005 p. 2105-6 and 2131-2; 16 Dec 2005 p. 6074; 7 Feb 2006 p. 615; 21 Apr 2006 p. 1571-2; 6 Mar 2007 p. 725-6.]
+[Part A inserted in Gazette 7 Jun 1996 p. 2373-83; amended in Gazette 14 Jan 1997 p. 381-2 and 383; 4 Mar 1997 p. 1353; 6 Jan 1998 p. 50-2; 19 Aug 1998 p. 4475-6; 9 Mar 1999 p. 1145; 23 Mar 1999 p. 1260-2; 22 Jun 1999 p. 2669; 4 Feb 2000 p. 420; 29 Sep 2000 p. 5534-5; 6 Jan 2001 p. 113; 13 Feb 2001 p. 866; 19 Apr 2002 p. 2077; 11 Feb 2003 p. 409; 31 Oct 2003 p. 4554-5; 16 Jan 2004 p. 193; 21 Sep 2004 p. 4108-9; 17 May 2005 p. 2105-6 and 2131-2; 16 Dec 2005 p. 6074; 7 Feb 2006 p. 615; 21 Apr 2006 p. 1571-2; 6 Mar 2007 p. 725-6; 17 Sep 2010 p. 4419.]
 ## Part AA — Potential carriers — other than plants
 [Heading inserted in Gazette 18 Sep 1992 p. 4670.]
 Column 1 Potential Carrier | Column 2 Conditions for Entry
@@ -586,8 +594,8 @@ subclause (1), (3), (4) or (5).
 Sugar cane plants or parts of plants are prohibited from entering Western Australia from other parts of Australia without the prior approval of the Director General.
 [Item 15 amended in Gazette 16 Jan 2004 p. 194.]
 16.Seed
-All seed imported into Western Australia must not contain seeds of any plant not listed in Schedule 5.
-[Item 16 amended in Gazette 6 Jan 1998 p. 52.]
+All seed imported into Western Australia must not contain seeds of any plant that is neither native to the State nor listed in Schedule 5.
+[Item 16 amended in Gazette 6 Jan 1998 p. 52; 17 Sep 2010 p. 4419.]
 17.Plants — grape phylloxera (Daktulosphaira vitifolii)
 (1) From South Australia, Tasmania and the Northern Territory — must be identified as grown in that State or Territory.
 (2) From all other States and Territories —
@@ -854,9 +862,9 @@ stonefruit means fresh fruit of —
 (1) Sterilized growing medium accepted from approved nurseries provided it is certified as prepared and sterilized in isolation from mushroom growing areas.
 (2) Sterilization can be either steam pasteurization at 60°C for 30 minutes or fumigation with methyl bromide at 0.5 kg/m3 for 24 hours on an impervious floor with the material to be fumigated being not more than 300 mm deep.
 33.Hay, straw and straw packing — prohibited and restricted seeds
-(1) Subject to subitem (2), to be certified free from all plants not listed in Schedule 5.
+(1) Subject to subitem (2), to be certified free from all plants that are neither native to the State nor listed in Schedule 5.
 (2) For packing, may be accepted with the prior approval of the Director General and subject to supervised destruction at discharge.
-[Item 33 amended in Gazette 6 Jan 1998 p. 53.]
+[Item 33 amended in Gazette 6 Jan 1998 p. 53; 17 Sep 2010 p. 4419.]
 [34.Deleted in Gazette 7 Jun 1996 p. 2388.]
 35.Onions, garlic, leek, chives, spring onions and shallots — onion rust (Puccinia allii), white rot (Sclerotium cepivorum), American onion smut (Uracystis cepulae)
 (1) To be certified as inspected and found to be free from —
@@ -914,11 +922,11 @@ To be certified as —
 (2) This condition does not apply to aseptic cultures of plant material grown on agar in sealed flasks (i.e. tissue culture).
 [Item 41 inserted in Gazette 1 Oct 1993 p. 5344; amended in Gazette 28 Oct 1994 p. 5462; 14 Jan 1997 p. 382; 21 Sep 2004 p. 4120.]
 42.Agricultural machinery, animals, animal skins/coats, live fish
-Shall be free from the seeds of any plant not listed in Schedule 5.
-[Item 42 inserted in Gazette 18 Sep 1992 p. 4675; amended in Gazette 6 Jan 1998 p. 53; 16 Jan 2004 p. 194.]
+Shall be free from the seeds of all plants that are neither native to the State nor listed in Schedule 5.
+[Item 42 inserted in Gazette 18 Sep 1992 p. 4675; amended in Gazette 6 Jan 1998 p. 53; 16 Jan 2004 p. 194; 17 Sep 2010 p. 4419.]
 43.Live fish
-Shall be free from aquatic snails and any plant not listed in Schedule 5.
-[Item 43 inserted in Gazette 18 Sep 1992 p. 4675; amended in Gazette 6 Jan 1998 p. 53; 16 Jan 2004 p. 194.]
+Shall be free from aquatic snails and all plants that are neither native to the State nor listed in Schedule 5.
+[Item 43 inserted in Gazette 18 Sep 1992 p. 4675; amended in Gazette 6 Jan 1998 p. 53; 16 Jan 2004 p. 194; 17 Sep 2010 p. 4419.]
 44.Tissue cultured grapevines — downy mildew (Plasmopara viticola)
 Tissue cultured grapevines imported from any other State or Territory —
 (a) shall be on a growth medium free of antibiotics and fungicides held in a transparent sealed sterile container and kept in the container until placed in quarantine at an approved propagation house;
