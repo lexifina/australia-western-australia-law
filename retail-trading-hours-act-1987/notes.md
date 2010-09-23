@@ -17,6 +17,8 @@ Reprint 2: The Retail Trading Hours Act 1987 as at 16 Nov 2007 (includes amendme
 Training Legislation Amendment and Repeal Act 2008 s. 60 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
 Acts Amendment (Bankruptcy) Act 2009 s. 75 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Retail Trading Hours Amendment (Joondalup Special Trading Precinct) Act 2010 | 22 of 2010 | 7 Jul 2010 | s. 1 and 2: 7 Jul 2010 (see s. 2(a)); Act other than s. 1 and 2: 8 Jul 2010 (see s. 2(b))
+Retail Trading Hours Amendment (Armadale Special Trading Precinct) Act 2010 | 36 of 2010 | 22 Sep 2010 | s. 1 and 2: 22 Sep 2010 (see s. 2(a)); Act other than s. 1 and 2: 23 Sep 2010 (see s. 2(b))
+Retail Trading Hours Amendment (Midland Special Trading Precinct) Act 2010 | 37 of 2010 | 22 Sep 2010 | s. 1 and 2: 22 Sep 2010 (see s. 2(a)); Act other than s. 1 and 2: 23 Sep 2010 (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
 The Retail Shops and Fair Trading Legislation Amendment Act 2006 s. 18 reads as follows:
@@ -32,6 +34,7 @@ Defined Terms
 Defined TermProvision(s)
 accessory14A(2)
 agreement3(1)
+Armadale special trading precinct12A(4)
 authorised person3(1)
 chief executive officer3(1)
 commencement day42(2)
@@ -45,6 +48,7 @@ holiday resort12A(4)
 inspector3(1)
 Joondalup special trading precinct12A(4)
 member3(1)
+Midland special trading precinct12A(4)
 motor vehicle3(1)
 motor vehicle shop3(1)
 officer10(3ab)
