@@ -42,11 +42,11 @@ Acts Amendment (Justice) Act 2008 Pt. 10 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008
 Legal Profession Act 2008 s. 661 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Acts Amendment (Bankruptcy) Act 2009 s. 36 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Co-operatives Act 2009 s. 509 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975)
+Equal Opportunity Amendment Act 2010 | 2 of 2010 | 1 Apr 2010 | s. 1 and 2: 1 Apr 2010 (see s. 2(a)); Act other than s. 1 and 2: 25 Sep 2010 (see s. 2(b) and Gazette 24 Sep 2010 p. 5047)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 514 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
-Equal Opportunity Amendment Act 2010 s. 3-21 | 2 of 2010 | 1 Apr 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 of the Commonwealth (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 of the Commonwealth.
 Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1) which was repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
 The Uniform Building By-laws 1974 were repealed in Gazette 28 July 1989 p. 2280.
@@ -79,91 +79,3 @@ On the date as at which this compilation was prepared, the Co-operatives Act 200
 (2) In section 35N(1)(a) delete “of a society registered under the Co-operative and Provident Societies Act 1903 or”.
 (3) In section 66ZS(1)(a)(i) delete “of a society registered under the Co-operative and Provident Societies Act 1903 or”.
 (4) In section 69(1)(b)(i) delete “of a society registered under the Co-operative and Provident Societies Act 1903 or”.
-On the date as at which this compilation was prepared, the Equal Opportunity Amendment Act 2010 s. 3-21 had not come into operation. They read as follows:
-3.Act amended
-This Act amends the Equal Opportunity Act 1984.
-4.Heading to Part II amended
-The heading to Part II is amended by deleting “or pregnancy” and inserting instead:
-, pregnancy or breast feeding
-5.Section 10A inserted
-After section 10 insert:
-10A.Discrimination on the ground of breast feeding
-(1) For the purposes of this Act a person (in this subsection referred to as the discriminator) discriminates against another person (in this subsection referred to as the aggrieved person) on the ground of breast feeding if on the ground of —
-(a) aggrieved person breast feeding or bottle feeding an infant or proposing to do so;
-(b) a characteristic that appertains generally to persons who are breast feeding or bottle feeding; or
-(c) a characteristic that is generally imputed to persons who are breast feeding or bottle feeding,
-the discriminator treats the aggrieved person less favourably than, in circumstances that are the same or not materially different, the discriminator treats or would treat a person who was not breast feeding or bottle feeding; and
-(2) For the purposes of this Act, a person (in this subsection referred to as the discriminator) discriminates against another person (in this subsection referred to as the aggrieved person) on the ground of breast feeding or bottle feeding if the discriminator requires the aggrieved person to comply with a requirement or condition —
-(a) with which a substantially higher proportion of persons who are not breast feeding or bottle feeding comply or are able to comply;
-(b) which is not reasonable having regard to the circumstances of the case; and
-(c) with which the aggrieved person does not or is not able to comply.
-6.Section 11 amended
-(1) In section 11(1) delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-(2) In section 11(2) delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-7.Section 12 amended
-(1) In section 12(1) delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-(2) In section 12(2) delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-8.Section 13 amended
-In section 13(1) delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-9.Section 14 amended
-(1) In section 14(1) delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-(2) In section 14(2) delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-(3) In section 14(3) delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-10.Section 15 amended
-(1) In section 15(2) delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-(2) In section 15(3) delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-11.Section 16 amended
-In section 16 delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-12.Section 17 amended
-In section 17 delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-13.Section 18 amended
-(1) In section 18(1) delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-(2) In section 18(2) delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-14.Section 19 amended
-In section 19 delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-15.Section 20 amended
-In section 20 delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-16.Section 21 amended
-(1) In section 21(1) delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-(2) In section 21(2) delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-17.Section 21A amended
-In section 21A(1) delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-18.Section 22 amended
-(1) In section 22(1) delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-(2) In section 22(2) delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-19.Section 23 amended
-In section 23(1):
-(a) delete “or pregnancy” and insert:
-, pregnancy or breast feeding
-(b) insert after “who are not pregnant,”:
-or persons who are not breast feeding or bottle feeding,
-20.Section 28 amended
-In section 28 delete “or childbirth” and insert:
-, childbirth, breast feeding or bottle feeding
-21.Section 31 amended
-In section 31:
-(a) delete in subparagraph (a) “or persons who are pregnant” and insert:
-, persons who are pregnant or persons who are breast feeding or bottle feeding
-(b) delete in subparagraph (b) “or persons who are pregnant” and insert:
-, persons who are pregnant or persons who are breast feeding or bottle feeding
