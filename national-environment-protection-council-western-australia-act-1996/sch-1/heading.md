@@ -1,6 +1,6 @@
 ## Schedule 1 — Intergovernmental agreement on the environment
 [s. 6(1)]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 AN AGREEMENT made the 1st day of May one thousand nine hundred and ninety two
 BETWEEN
 THE COMMONWEALTH OF AUSTRALIA of the first part,
@@ -15,7 +15,7 @@ THE NORTHERN TERRITORY OF AUSTRALIA of the ninth part,
 THE AUSTRALIAN LOCAL GOVERNMENT ASSOCIATION of the tenth part.
 WHEREAS
 On 31 October 1990, Heads of Government of the Commonwealth, States and Territories of Australia, and representatives of Local Government in Australia, meeting at a Special Premiers’ Conference held in Brisbane, agreed to develop and conclude an Intergovernmental Agreement on the Environment to provide a mechanism by which to facilitate:
-· a cooperative national approach to the environment;
+·a cooperative national approach to the environment;
 ·a better definition of the roles of the respective governments;
 ·a reduction in the number of disputes between the Commonwealth and the States and Territories on environment issues;
 ·greater certainty of Government and business decision making; and
@@ -302,7 +302,7 @@ Australian Industry and Technology Council.
 SCHEDULE 7
 NATIONAL ESTATE
 1.The parties acknowledge that the primary role of the Australian Heritage Commission is to identify the National Estate and advise the Commonwealth on its conservation.
-2. The parties further acknowledge that primary responsibility for land use and resource planning decisions rests with States.
+2.The parties further acknowledge that primary responsibility for land use and resource planning decisions rests with States.
 3.The parties agree that the register of the National Estate is one of the factors that the States may consider when making land use and resource planning decisions and that Section 30 of the Australian Heritage Commission Act 1975 applies only to decisions of the Commonwealth Ministers, Departments and Authorities. The parties recognise however that some applications of s.30 of the Act may have significant land and resource use planning implications.
 4.The Commonwealth supports the current practice whereby the Australian Heritage Commission provides information on all places nominated to the Register of the National Estate or which are identified by studies, to the designated agencies in the relevant State. The Commonwealth agrees to support the current practice whereby the Commission seeks and considers the views of the relevant State on all nominated places before making a decision on interim listing.
 5.Each State agrees to establish and advise the Australian Heritage Commission on appropriate channels of communication, the persons responsible for consultation and the persons responsible for coordination of responses to the Australian Heritage Commission on matters related to National Estate nominations and listings.
