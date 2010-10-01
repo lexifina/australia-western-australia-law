@@ -28,6 +28,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 38 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 86 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(1), a reference in a written law to the Public Service Act 1978 is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 The Planning Legislation Amendment Act 1996 s. 39(2), (3) and (4) read as follows:
 “
@@ -47,6 +48,18 @@ On the date as at which this compilation was prepared, the Approvals and Related
 or improvement scheme
 (3) In section 45(3) in the definition of planning schemes paragraph (aa) after “local planning scheme” insert:
 or improvement scheme
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 86 had not come into operation. It reads as follows:
+86.Subiaco Redevelopment Act 1994 amended
+(1) This section amends the Subiaco Redevelopment Act 1994.
+(2) In section 3 delete the definition of Public Service Act.
+(3) In section 10 delete “Minister to whom the administration of the Public Service Act is for the time being committed by the Governor.” and insert:
+Public Sector Commissioner.
+(4) In section 14(1) delete “Public Service Act” and insert:
+Public Sector Management Act 1994
+(5) In section 15(1) delete “Minister to whom the administration of the Public Service Act is for the time being committed by the Governor,” and insert:
+Public Sector Commissioner
+(6) In section 17 delete “Public Service Act” and insert:
+Public Sector Management Act 1994
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
