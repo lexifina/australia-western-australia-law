@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Country High School Hostels Authority Act 1960 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any previous reprint.
+This is a compilation of the Country High School Hostels Authority Act 1960 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Country High School Hostels Authority Act 1960 | 37 of 1960 | 3 Nov 1960 | 2 Dec 1960 (see s. 2 and Gazette 2 Dec 1960 p. 3861)
@@ -21,7 +21,18 @@ Statutes (Repeals and Minor Amendments) Act 2000 s. 10 | 24 of 2000 | 4 Jul 2000
 Reprint of the Country High School Hostels Authority Act 1960 as at 15 Feb 2002 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Acts Amendment (Bankruptcy) Act 2009 s. 24 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Sector Reform Act 2010 s. 90 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Repealed by the School Education Act 1999 s. 246(1).
 Repealed by the Industrial Arbitration Act 1979 s. 4, the short title of which was changed to the Industrial Relations Act 1979 by the Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984.
 Repealed by the Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984 s. 83(c).
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 90 had not come into operation. It reads as follows:
+90.Various references to “Public Service Board” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Public Service Board” and insert:
+Public Sector Commissioner
+Table
+Country High School Hostels Authority Act 1960 | s. 10(2)
