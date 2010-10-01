@@ -16,7 +16,8 @@ Reprint 2: The Criminal Injuries Compensation Act 2003 as at 2 Jan 2009 (include
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 15 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 15 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The Criminal Injuries Compensation Act 1985 was repealed by s. 73 of this Act.
 The Criminal Injuries (Compensation) Act 1970 was repealed by the Criminal Injuries Compensation Act 1982 s. 43(1).
 The Criminal Injuries Compensation Act 1982 was repealed by the Criminal Injuries Compensation Act 1985 s. 50(1).
@@ -37,6 +38,13 @@ health professional means —
 (a)a person registered under the Health Practitioner Regulation National Law (Western Australia) in the dental profession whose name is entered on the Dentists Division of the Register of Dental Practitioners kept under that Law or under a law of another place that is substantially similar to that Law; or
 (b)a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession or under a law of another place that is substantially similar to that Law; or
 (c)a person registered under the Health Practitioner Regulation National Law (Western Australia) in the psychology profession or under a law of another place that is substantially similar to that Law;
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Criminal Injuries Compensation Act 2003 | Sch. 1 cl. 3(4)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
