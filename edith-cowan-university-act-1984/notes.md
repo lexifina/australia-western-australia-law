@@ -32,6 +32,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 40 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Repealed by the School Education Act 1999.
 Under the Teacher Education Act 1972 s. 57, the appointed day was 26 November 1973. See Gazette 23 November 1973 p. 4266. The Act was repealed by the Colleges Act 1978 s. 5.
 Repealed by the Vocational Education and Training Act 1996.
@@ -76,3 +77,10 @@ The Edith Cowan University Act 1984 is amended as follows:
 Member of a superannuation scheme continued by section 29(c) or (d) of the State Superannuation Act 2000.
 ”.
 ”.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Edith Cowan University Act 1984 | s. 31(2)
