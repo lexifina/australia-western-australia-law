@@ -1,4 +1,4 @@
-### Terms used in this Schedule
+### Terms used
 In this Schedule —
 hazard perception test means a test under the Road Traffic (Authorisation to Drive) Regulations 2008 regulation 16(2)(c);
 practical driving assessment —
