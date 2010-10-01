@@ -26,7 +26,8 @@ Reprint 4: The Corruption and Crime Commission Act 2003 as at 2 Jul 2010 (includ
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 12 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 12 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Public Sector Reform Act 2010 s. 74 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Now called the Telecommunications (Interception and Access) Act 1979 (Commonwealth).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
@@ -135,6 +136,18 @@ Delete section 54(1) and insert:
 (1) In this section —
 medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
 registered nurse means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing and midwifery profession whose name is entered on Division 1 of the Register of Nurses kept under that Law as a registered nurse.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 74 had not come into operation. It reads as follows:
+74.Corruption and Crime Commission Act 2003 amended
+(1) This section amends the Corruption and Crime Commission Act 2003.
+(2) In section 3(1):
+(a) in the definition of independent agency delete paragraph (e) and insert:
+(e)the Public Sector Commissioner;
+(b) after each of paragraphs (a), (b) and (c) insert:
+and
+(3) Delete section 90(6) and insert:
+(6) A report about a person proposed to be appointed as a chief executive officer may be given to —
+(a) the Public Sector Commissioner; and
+(b) any Minister that the Public Sector Commissioner considers has a relevant interest in the report.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
