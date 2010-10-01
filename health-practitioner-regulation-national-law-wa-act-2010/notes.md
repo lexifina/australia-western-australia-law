@@ -6,7 +6,7 @@ Health Practitioner Regulation National Law (WA) Act 2010 s. 1-2 | 35 of 2010 | 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law (WA) Act 2010 s. 3, Pt. 2-5 and Sch. | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 s. 3, Pt. 2-5 and Sch. | 35 of 2010 | 30 Aug 2010 | s. 3, 4 (and the Sch.), s. 5-13, 14(a)-(d), (f) and (h)-(m), 15(1)(a) and (b), (2)(a)-(e), (g), (i)-(n) and (3), 16-40, 41(1), 42, 43, 44(2)-(6), (8) and (10)-(15), 45-77, 78(1), 79-90, 91(1)-(3), 92-111, 112(1), 113-142, 146, 147(1), 150-156, 157(1) and (2) and 158-166: 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6); s. 14(e) and (g), 15(1)(c), (2)(f) and (h), 41(2), 44(1), (7) and (9), 78(2), 91(4) and (5), 112(2), 143-145, 147(2)-(4), 148-149 and 157(3): to be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 3, Pt. 2-5 and Sch. had not come into operation. They read as follows:
 3.Terms used
 (1) For the purposes of this Act the local application provisions of this Act are the provisions of this Act other than the Health Practitioner Regulation National Law set out in the Schedule.
