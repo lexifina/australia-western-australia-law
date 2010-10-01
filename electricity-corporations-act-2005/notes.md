@@ -12,6 +12,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 81 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 31 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 75 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending these Acts have, except for Sch. 5 Div. 4 cl. 7 and 22, been omitted under the Reprints Act 1984 s. 7(4)(e).
 Schedule 5 clause 21(2)(a)(ii) of this Act had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 50(3)(b).
 On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 81 had not come into operation. It reads as follows:
@@ -29,6 +30,16 @@ sections 218 and 221,
 scheme; or
 (c) after paragraph (b) insert:
 (c) an improvement scheme,
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 75 had not come into operation. It reads as follows:
+75.Electricity Corporations Act 2005 amended
+(1) This section amends the Electricity Corporations Act 2005.
+(2) In section 3(1) delete the definition of Commissioner for Public Sector Standards.
+(3) In the provisions listed in the Table delete “Commissioner for Public Sector Standards” (each occurrence) and insert:
+Public Sector Commissioner
+Table
+s. 21(1), (5) and (6) | s. 22(1) and (3)
+s. 31(2) and (4) | s. 32(1) and (3)
+s. 33(2)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
