@@ -76,6 +76,7 @@ Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
 Approvals and Related Reforms (No. 2) (Mining) Act 2010 Pt. 2 and 3 | 12 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
 The Mining Amendment Act 1981 s. 3 reads as follows:
@@ -620,6 +621,13 @@ mining tenement document means —
 43.Second Schedule clause 13 amended
 In the Second Schedule clause 13 delete “registrar.” and insert:
 registrar of the mineral field or district in which the largest portion of the land to which the application relates is situated.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Mining Act 1978 | s. 13(4)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
