@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 35 and 362 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Owner-Drivers (Contracts and Disputes) Act 2007 s. 35 and 36 had not come into operation. They read as follows:
 “
 35.Right of entry by representative to investigate breaches
@@ -36,6 +37,13 @@ the representative is not entitled under subsection (2) to enter or remain in th
 (2) A person must not intentionally and unduly hinder or obstruct a representative in the exercise of the powers conferred by section 35.
 (3) A contravention of subsection (1) or (2) is not an offence but those subsections are civil penalty provisions for the purposes of the IR Act section 83E.
 ”.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Owner-Drivers (Contracts and Disputes) Act 2007 | s. 24
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
