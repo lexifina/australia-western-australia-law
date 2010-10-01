@@ -29,6 +29,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Rail Safety Act 2010 Pt. 11 Div. 2 | 18 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The amendment in the Coroners Act 1996 Sch. 1 it. 11 is not included because of an error in the reference to the provision to be amended. The amendment intended was made in the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 51.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 100 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(10).
 The Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 115(7) reads as follows:
@@ -80,6 +81,13 @@ This Division amends the Mines Safety and Inspection Act 1994.
 264.Section 7 amended
 In section 7(2) delete “Rail Safety Act 1998” and insert:
 Rail Safety Act 2010
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Mines Safety and Inspection Act 1994 | s. 19(3), 20(3), 48(3), 82(5)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
