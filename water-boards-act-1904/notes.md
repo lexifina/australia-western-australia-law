@@ -58,6 +58,10 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 131 | 8 of 2009 | 21
 Acts Amendment (Bankruptcy) Act 2009 s. 89 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Reprint 6: The Water Boards Act 1904 as at 14 May 2010 (includes amendments listed above)
  | Standardisation of Formatting Act 2010 s. 40, 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The Water Boards Act Amendment Act 1918 and the Water Boards Act Amendment Act 1928 which were to be read as one with this Act were repealed by the Acts Amendment and Repeal (Water Authorities) Act 1985 s. 361.
 Section 48A and the Second Schedule were inserted by No. 73 of 1954 s. 5 and 8.
 The Acts Amendment (Statutory Designations) and Validation Act 1981 s. 5 was a validation provision that is of no further effect.
@@ -76,6 +80,13 @@ Water Board means a Water Board constituted under the WB Act.
 (2) If advice has been given under the WB Act section 87(7) before the commencement day, on or after the commencement day the advice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
 (3) If a Water Board receives, before the commencement day, a notice in accordance with the WB Act section 88(1) (as in force when the notice was received by the Water Board) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Water Board must refer the relevant entry in the rating records to the State Administrative Tribunal for a review as if the notice were a notice served on the Water Board under the WB Act section 88(1).
 (4) If a Water Board receives, before the commencement day, a notice in accordance with the WB Act section 89(1) (as in force when the notice was received by the Water Board) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Water Board must refer the decision to refuse to extend time to the State Administrative Tribunal for a review as if the notice were a notice served on the Water Board under the WB Act section 89(1).
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Water Boards Act 1904 | s. 29(1)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
