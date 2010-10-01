@@ -29,7 +29,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 82 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 48 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 48 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Now known as the Veterinary Chemical Control and Animal Feeding Stuffs Act 1976; short title changed (see note under s. 1).
 The Acts Amendment (Chemistry Centre (W.A.) Act 1990 s. 13 reads as follows:
 “
