@@ -8,6 +8,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Food Act 2008 Pt. 8 | 43 of 2008 | 8 Jul 2008 | Pt 8 Div. 2: 23 Oct 2010 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Food Act 2008 Pt. 8 Div. 2 had not come into operation. It reads as follows:
 Part 8 — Auditing
 Division 2 — Auditing and reporting requirements
@@ -65,6 +66,13 @@ priority classification means a priority classification set out in the priority 
 (4) A food safety auditor must have regard to the following matters in making such a determination —
 (a) the compliance history of the food business concerned in relation to any requirements of the regulations regarding food safety programs and the requirements of the Food Safety Standards;
 (b) any audit compliance history relevant to food safety programs established by the food business concerned before the commencement of this subsection.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Food Act 2008 | s. 124(2)(c)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
