@@ -59,6 +59,8 @@ On the date as at which this was compiled, provisions referred to in the followi
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 26 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 25 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 Now known as the Hospitals and Health Services Act 1927; short title changed (see note under s. 1).
@@ -94,6 +96,22 @@ On the date as at which this compilation was prepared, the State Superannuation 
 Members of a superannuation scheme continued by section 29(c) or (d) of the State Superannuation Act 2000.
 ”.
 ”.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 26 had not come into operation. It reads as follows:
+Division 26 — Hospitals and Health Services Act 1927 amended
+92.Act amended
+This Division amends the Hospitals and Health Services Act 1927.
+93.Section 2 amended
+In section 2(1) delete the definition of practitioner and insert:
+practitioner includes —
+(a)a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession; and
+(b)any other person practising in the field of health or medicine who is declared by the Minister under section 3(5) to be a practitioner for the purposes of this Act;
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Hospitals and Health Services Act 1927 | s. 7E(4)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
