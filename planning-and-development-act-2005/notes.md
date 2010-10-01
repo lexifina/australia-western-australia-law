@@ -17,6 +17,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 1, Pt. 3, 4 and 5 Div. 1 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Land Administration Act 1997.
 Repealed by the Mining Act 1978.
 On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149 had not come into operation. It reads as follows:
@@ -783,3 +784,10 @@ After section 263(2)(d) insert:
 68.Schedule 7 amended
 (1) After Schedule 7 clause 13(3) insert:
 (4) Requiring the preparation and approval of documents ancillary to the carrying out of a scheme.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Planning and Development Act 2005 | s. 13
