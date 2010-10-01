@@ -16,6 +16,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 Pt. 3, 4 and 5 Div. 3 Subdiv. 2 | 25 of 2007 | 16 Oct 2007 | Pt. 3: operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c)); Pt. 4: to be proclaimed (see s. 2(1)(d)); Pt. 5 Div. 3 Subdiv. 2: operative on publication of an order under the State Superannuation Act 2000 s. 75K (“separation time”) (see s. 2(8)(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 and the Government Employees Superannuation Act 1987were repealed by s. 39 of this Act. Certain provisions of those Acts continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
 “
@@ -349,3 +350,10 @@ Section 33(2)(g) and “and” after it are deleted.
 Section 51(1) and (2) are amended by inserting after “section 43(3)(c)” —
 “ or 75K(5) ”.
 ”.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+State Superannuation Act 2000 | s. 68(2), Sch. 1 cl. 7
