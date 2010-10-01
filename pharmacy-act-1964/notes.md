@@ -32,7 +32,7 @@ Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law (WA) Act 2010 s. 14(j) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 s. 14(j) | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075)
 Repealed by the Interpretation Act 1984.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment to s. 18(3) in the Criminal Law Amendment (Simple Offences) Act 2004 s. 82 is not included because the subsection it seeks to amend was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 926.
