@@ -22,6 +22,7 @@ On the date on which this compilation was prepared, provisions referred to in th
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation(Transitional and Consequential Provisions) Act 2000 s. 57 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Public Sector Reform Act 2010 s. 90 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Under section 31(1)(f) of the Acts Amendment (Public Service) Act 1987 (No. 113 of 1987) references to “Permanent Head” may be construed as references to “chief executive officer”.
 Repealed by the Mental Health (Consequential Provisions) Act 1996 (No. 69 of 1996). Now see the Mental Health Act 1996 (No. 68 of 1996).
 Under section 112(2) of the Public Sector Management Act 1994 (No. 31 of 1994) references to the Public Service Board may be construed as references to the Minister for Public Sector Management.
@@ -34,3 +35,10 @@ Section 17 of the Perth Theatre Trust Act 1979 is amended as follows:
 (a) in subsection (4)(b) by deleting “, including his rights under the Superannuation Act,”;
 (b) by repealing subsections (5) and (8).
 ”.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 90 had not come into operation. It reads as follows:
+90.Various references to “Public Service Board” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Public Service Board” and insert:
+Public Sector Commissioner
+Table
+Perth Theatre Trust Act 1979 | s. 9(1), 17(3)
