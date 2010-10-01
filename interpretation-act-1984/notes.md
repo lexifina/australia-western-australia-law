@@ -47,6 +47,10 @@ Criminal Law Amendment (Homicide) Act 2008 s. 35 | 29 of 2008 | 27 Jun 2008 | 1 
 Surrogacy Act 2008 Pt. 4 Div. 6 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 512)
 Acts Amendment (Bankruptcy) Act 2009 Pt. 2 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Interpretation and Reprints Amendment Act 2010 Pt. 2 | 31 of 2010 | 25 Aug 2010 | 26 Aug 2010 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Sector Reform Act 2010 s. 78 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Now see the Public Sector Management Act 1994.
 Under s. 77(2), the Interpretation Act 1918 s. 11 continues to apply to Acts passed before 1 July 1984. Section 11 reads as follows:
 11.Exercise of statutory power between passing and coming into operation of an Act or any provision thereof.
@@ -75,3 +79,9 @@ And, for the protection of persons acting in execution of this Act, where an act
 H.
 No action shall lie against any Justice of the Peace, Officer of Police, Policeman, Constable, Peace Officer, or any other person in the employ of the Government authorised to carry the provisions of this Act, or any of them, into effect, or any person acting for, or under such persons, or any of them, on account of any act, matter, or thing done, or to be done, or commanded by them, or any of them, in carrying the provisions of this Act into effect again any parties offending or suspected of offending against the same, unless there is direct proof of corruption or malice; and if any such person shall be sued for any act, matter, or thing which he shall have so done, or shall so do, in carrying the provisions of this Act into effect, he may plead the general issue and give the special matter in evidence; and in case of judgment after verdict, or by a Judge sitting as a jury, or on demurrer being given for the defendant, or of the plaintiff discontinuing, or becoming non-suit in any such action, the Court before which the action was brought may award treble costs to the defendant or such portion of those costs as the Court thinks fit.
 The Sunday Observance Laws Amendment and Repeal Act 1997 s. 4(2) is a transitional provision that is of no further effect.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 78 had not come into operation. It reads as follows:
+78.Interpretation Act 1984 amended
+(1) This section amends the Interpretation Act 1984.
+(2) In section 5 insert in alphabetical order:
+Public Sector Commissioner means the person holding the office established by the Public Sector Management Act 1994 section 16;
+public service officer has the meaning given in the Public Sector Management Act 1994 section 3(1);
