@@ -91,99 +91,159 @@ a Medical Practitioner, attended the examination of the above claimant.
 (Chairman)
 [Form 2 amended in Gazette 8 Mar 1991 p. 1076; 24 Dec 1993 p. 6845-6; 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276.]
 [Form 2A deleted in Gazette 15 Oct 1999 p. 4900.]
-Form 2B
-[r. 6AA]
-Workers’ Compensation and Injury Management Act 1981
-(Section 178(1)(b))
-WORKERS’ COMPENSATION CLAIM FORM
-Employer Details
-(To be completed by employer after receipt from the worker)
-Name of policy holder: Address: Suburb/town: .............................................................................Postcode: Trading name of employer: (e.g. Browns Pharmacy; E.J. Imports) Address of worker’s usual workplace or base: ......................................................................................................... .............................................................................Postcode: Major activity of workplace: (e.g. sheep or grain farming; aluminium window screen . manufacturing)
-Office Use only | ANZSIC CODE -
-Insurance Co. Policy No. WorkCover No. W C Claim No. Insurer/Self Insurer to complete
-EMPLOYER: Forward to your insurer within 3 full working days of receipt from the Worker
-Injured worker details
-Surname: Mr/Mrs/Miss/Ms. Other names: Address: .......................................................................Postcode: Phone No.: ........................... Date of birth: ......./......./.......Age: .........Sex Male/Female
- | If you have difficulty understanding English, what is your preferred language?
-Occupation (e.g. first class welder; accounts clerk) Main tasks or duties performed? (e.g. welding of high pressure steam pipes; recording and paying accounts)
-At the time of the occurrence were you working as a: — direct employee? — working director? — contractor? — employee of contractor? — sub-contractor? — other? | r 1 r 2 r 3 r 4 r 5 r 6 | Full-Time r F Part-Time r P
-ASCO
-Occurrence details
-Day of occurrence: .............................................Date ......./......./.......Time: ................... am/pm At what address did the occurrence occur?
-When did you have to stop working? Date ......./......./.......Time: ....... am/pm
-Were you | - on duty? - on duty & in a road traffic accident? - on a work break? | r 1 r 2 r 3 | - travelling between home and work? - doing something else, if so what? | r 4 r 5
-What actually happened and what caused the occurrence? Include: (i) what action was involved, e.g. fall, caught between, struck by moving object (ii) what object/machine was involved, e.g. petrol fumes, wooden door frame Describe: (i) the most serious injury caused by the occurrence, e.g. fracture, burn, cut, abrasion (ii) bodily location of the injury, e.g. upper arm, ankle, eye | Mechanism Agency Nature Bodily Location
-Occurrence report
-Where did the occurrence occur? (e.g. store room, machinery shop) What were you doing at the time of the occurrence?
-What were the normal working hours for that day? | Starting time | .... ...am/pm | Finishing time | .... ...am/pm
-When did you first report the occurrence? | Date: ......../....../...... | Time: ...................
-To whom did you report the occurrence? | Name / Title
-If the occurrence was not reported immediately, state the reason:
-Name and address of witness(es) to the occurrence:
-Medical attention/history – this event
-1. When did you first seek medical attention? | Date: ......../....../...... Time: ...................am/pm
-2. If not immediately, state reason:
-3. Was the part of the body affected or injured by this occurrence healthy before the occurrence? If not, give details:
-Medical attention/history – similar or related previous events
-4. Is the present injury totally attributable to this occurrence? If not, give details:
-5. Give details of any similar injury prior to this occurrence:
-6. Name & address of usual medical practitioner, and any person who has treated you for a similar injury:
-Other or previous claims
-1. Is compensation being claimed from any other source? | Yes/No If so, from whom?
-2. Give details of similar or related previous workers’ compensation claims
-Name & address of employer | Name of insurer (if known) | Nature of injury, disease or other claim
-Injured worker’s declaration
-I solemnly and sincerely declare that each and every answer above and the particulars contained herein or annexed hereto relating to myself and the occurrence are true both in substance and in fact to the best of my knowledge and belief. I take notice that, under the provisions of section 59(2) of the Workers’ Compensation and Injury Management Act 1981, I am required to notify my employer in writing within 7 days if I commence work with another employer after making a claim, or while receiving weekly payments of workers’ compensation.
-Dated this ........................... day of ............................... Year ................
-Signature of worker .............................................. Signature of witness ...........................................
-Consent authority (to be signed at the option of the worker)
-I authorise any doctor who treats me (whether named in this certificate or not) to discuss my medical condition, in relation to my claim for workers’ compensation and return to work options, with my employer and with their insurer.
-Dated this ........................... day of ............................... Year ................
-Signature of worker .............................................. Signature of witness ...........................................
-IMPORTANT: FAILURE TO PROVIDE YOUR SIGNATURE ON EITHER THE DECLARATION OR THE AUTHORITY ABOVE MAY DELAY A DECISION BY YOUR EMPLOYER ON YOUR CLAIM.
-Insurer/Self-insurer to complete | Insurer/Self-insurer’s Date Stamp
- | Estimated time off work — - less than one dayr - 1-4 work days (inclusive)r - 5-9 work days (inclusive)r | - 10-20 work days (inclusive)r - more than 20 work daysr - fatalityr
-Front
-Employer please complete If the First Medical Certificate indicates the injured worker will be absent from the workplace for more than 3 working days and/or is unable to return to normal duties please complete the section overleaf and fax to the medical practitioner who provided the worker’s First Medical Certificate within 2 working days.
-" = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-Employer, please provide the information overleaf to the injured worker.
-Reverse
-ATTENTION Dr.___________________________ Fax No. ____________________
-DETAILS TO BE PROVIDED TO MEDICAL PRACTITIONER
-Please complete all sections of this form
-WORKER’S DETAILS
-Name in full:
+Workers’ Compensation Claim Form
+Insurer please complete
+Date form received from employer:
+ASCO (office use only):
+Insurer name:
+Claim number:
+ANZSIC code:
+Policy number:
+WorkCover number:
+Has employer contacted medical practitioner?
+Estimated time off work:
+⁯ less than one day
+⁯ 1-4 work days (inclusive)
+⁯ 5-9 work days (inclusive)
+⁯ 10-20 work days (inclusive)
+⁯ more than 20 work days
+⁯ fatality
+Employer please complete
+Name of policy holder/employer:
+Trading as (if different to above):
 Address:
-Telephone: ....................................................................................................Date of birth ........./............/
-Occupation:
-INSURER’S DETAILS
-Name of insurer:
-Contact person: ...................................................................... Telephone:
-EMPLOYER’S DETAILS
-Trading name:
-Address of worker’s usual workplace:
-ALTERNATIVE DUTIES FOR WORKER
-Name of contact for liaison with medical practitioner:
-Role within organisation:
-Telephone: ................................................................................ Fax:
-r The above nominated contact is willing to discuss alternative duties and / or appropriate return-to-work options with the medical practitioner.
-This organisation can provide alternative duties which are attached. | r Yes | r No
-Signature ...................................................................................................... Date ....../......./
-" = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-INFORMATION TO BE PROVIDED TO THE INJURED WORKER
-EMPLOYER please ensure this section is given to the injured worker.
-Workers’ Compensation Information for Injured Worker
-•WorkCover WA is the government authority that administers the workers’ compensation system in Western Australia. WorkCover WA is available as an independent third party to help answer your questions about how the workers’ compensation system works. Contact WorkCover WA’s Infoline if you need any information about the system.
-•You should be notified by your employer’s insurance company if your claim is accepted or not within 3 weeks of submitting your claim to your employer.
-•You have the right to choose your doctor and vocational rehabilitation provider.
-•Provide your employer with all medical certificates from your doctor as quickly as possible.
-•Under section 59(2) of the Workers’ Compensation and Injury Management Act 1981 you must notify your employer in writing within 7 days if you commence work with another employer after making a claim, or while receiving weekly payments of workers’ compensation.
-•Regular contact between you, your doctor and employer is important and will assist the overall management of your claim. Make sure your doctor gives you a WorkCover WA brochure. This outlines what you should know about the system.
-•An injury management system is in place and it is important you understand your rights and responsibilities in relation to your return to work. Contact WorkCover WA’s Infoline to find out more.
-•WorkCover WA runs free information seminars aimed at helping you understand the workers’ compensation system. Contact WorkCover WA to arrange your attendance.
-For workers’ compensation information or assistance contact
-WorkCover WA’s Infoline: 08 9388 5555 Country callers: 1 800 670 055
-[Form 2B inserted in Gazette 13 Apr 1999 p. 1533-38 (printer’s correction in Gazette 16 Apr 1999 p. 1598); amended in Gazette 15 Oct 1999 p. 4893; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4915.]
+Postcode:
+Contact person:
+Name:
+Phone number:
+Email:
+Address of injured worker’s usual workplace or base:
+Postcode:
+Major activity of workplace: (e.g. sheep farming, plumbing)
+Date employer received the completed claim form from the injured worker:
+Date employer received first medical certificate from the injured worker:
+Date employer sent the claim form and medical certificate/s to insurer:
+Worker please complete
+Surname:
+Other names:
+Date of birth:
+⁯ Male ⁯ Female
+Preferred language (if not English):
+Address
+Postcode
+Email:
+Daytime contact phone number:
+Occupation (e.g. first class welder):
+Main tasks/duties performed (e.g. welding of high pressure steam pipes):
+At the time of the injury I was working as a:
+⁯ direct employee
+⁯ working director
+⁯ contractor
+⁯ employee of a contractor
+⁯ subcontractor
+⁯ visa worker
+⁯ other
+At the time of the injury I was engaged as:
+⁯ full-time
+⁯ part-time
+⁯ permanent
+⁯ temporary
+⁯ casual
+Worker please complete — Other employment
+Do you have any other job?
+If yes, please give details:
+Employer name:
+Contact phone number:
+Hours of work per week:
+Worker please complete — Occurrence details
+Day of occurrence:
+Date of occurrence:
+Time of occurrence:
+At what address did the occurrence happen?
+Did you have to stop working?
+If so when?
+Date:
+Time:
+Were you:
+⁯ working — at your normal workplace
+⁯ working — away from normal workplace
+⁯ working — road traffic accident
+⁯ on work break — at normal workplace
+⁯ on work break — away from normal workplace
+⁯ other duty status
+⁯ commuting/journey
+Describe the occurrence. Include:
+(i)What action was involved (i.e. fall, struck by object,): [Mechanism]
+(ii)What object/machine/substance was involved (i.e. fumes, door frame): [Agency]
+(iii)The most serious injury or disease caused (i.e. fracture, burn, abrasion): [Nature]
+(iv)The bodily location of the injury or disease (i.e. upper arm, eye): [Bodily location]
+Worker please complete — Occurrence report — Describe how it happened
+Where did the occurrence happen? (i.e. store room, machinery shop):
+What were you doing at the time of the occurrence?
+What were the normal working hours for that day?
+Starting time:
+Finish time:
+When did you first report the occurrence?
+Date:
+Time:
+Who did you report the occurrence to?
+Name:
+Position:
+Phone number:
+If you didn’t report the occurrence immediately, please state the reason if any:
+Please provide the name and daytime contact phone number of witnesses of the occurrence:
+Name:
+Phone number:
+Name:
+Phone number:
+Worker please complete — Medical help/history — This occurrence
+When did you first seek medical attention?
+Date:
+Time:
+If not immediately, please state the reason:
+Was the part of the body affected by this occurrence healthy before this occurrence?
+If not, please give details:
+Is the present injury completely related to this occurrence?
+If not, please give details:
+Please give details of any similar injury prior to this occurrence:
+Name and contact details of your usual medical practitioner and any health provider who has treated you for a similar injury:
+Name:
+Address:
+Phone number:
+Worker please complete — Other / Previous claims
+Are you claiming compensation from any other source?
+If yes, from whom?
+Have you had any similar or related workers’ compensation claims?
+If yes, please give details:
+Name of employer:
+Address of employer:
+Name of insurer (if known):
+Type of injury or disease:
+Worker’s declaration — worker please complete
+I solemnly and sincerely declare that each and every answer above and the particulars contained herein or annexed hereto relating to myself and the occurrence are true both in substance and in fact to the best of my knowledge and belief.
+I take notice that, under the provisions of section 59(2) of the Workers’ Compensation and Injury Management Act 1981, I am required to notify my employer in writing within 7 days if I commence work with another employer after making a claim, or while receiving weekly payments of workers’ compensation.
+Dated this day of: Year:
+Signature of worker
+Signature of witness
+Consent authority 1 (to be signed at the option of the worker)
+I authorise any doctor who treats me (whether named in this certificate or not) to discuss my medical condition, in relation to my claim for workers’ compensation and return to work options, with my employer and with their insurer.
+Signed:
+Date:
+Print your name:
+Witness signature:
+Witness print name:
+Consent authority 2 (to be signed at the option of the worker)
+I consent to my employer’s insurer and its appointed service providers collecting personal information, inclusive of sensitive information such as medical information about me and using it for the purpose of assessing and managing my workers’ compensation claim, including determining liability and whether my claim is true.
+This consent extends to my employer’s insurer disclosing my personal information, inclusive of sensitive information, to other insurers, medical practitioners, rehabilitation providers, investigators, legal practitioners and other experts or consultants for the purpose of assessing and managing my claim.
+My personal information, inclusive of sensitive information, may also be disclosed as required or permitted by law. I also consent to my employer’s insurer disclosing my personal details to WorkCover WA which is authorised to use this information to fulfil its functions and obligations under the Workers’ Compensation and Injury Management Act 1981.
+I have read all the information on this form regarding the consent authority and I consent to the Insurer dealing with my personal information in the manner described.
+Signed:
+Date:
+Print your name:
+Witness signature:
+Witness print name:
+IMPORTANT: FAILURE TO PROVIDE YOUR SIGNATURE ON EITHER THE DECLARATION OR THE CONSENT AUTHORITIES MAY DELAY A DECISION BY THE INSURER ON YOUR CLAIM.
+[Form 2B inserted in Gazette 10 Sep 2010 p. 4352-7.]
 Form 2C
 [regs 4(1), 6AA]
 Workers’ Compensation and Injury Management Act 1981
@@ -415,15 +475,15 @@ To:
 [name and address of employer]
 From:
 [name and address of insurer]
-* Claim number:
+* Claim Number: .............................................
 Date of injury by accident or approximate date of onset of condition:
 Nature of incapacity:
-Date claim made by employer:
+Date claim made by employer: ...........................................................
 In respect of the above claim you are notified that liability is accepted in respect of the weekly payments claimed by the worker.
 Date on which weekly payments are proposed to commence:
 [Insurer to liaise with employer to ascertain the commencement date]
 Signed on behalf of the insurer:
-Date: ....................................................
+Date: ......................................................
 * Please provide this claim number to your general practitioner at your next appointment in relation to this claim
 [Form 3A inserted in Gazette 14 Dec 1999 p. 6151; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4920.]
 Form 3B
@@ -438,7 +498,7 @@ To:
 [name and address of employer]
 From:
 [name and address of insurer]
-Claim number:
+Claim Number: .............................................
 Date of injury by accident or approximate date of onset of condition:
 Nature of incapacity:
 Date claim made by employer:
@@ -453,13 +513,13 @@ If a reason is that the injury was not suffered in the course of employment, sta
 The provisions of the Workers’ Compensation and Injury Management Act 1981 relied on to dispute liability are:
 Signed on behalf of the insurer.
 (signature of senior officer responsible for claim)
-Date: ....................................................
+Date: ......................................................
 [*delete if appropriate]
 NOTE THAT if you wish you may —
-1.discuss this notice with the insurer or apply to have the matter heard under any internal dispute resolution process of the insurer;
-2.under section 181 of the Act apply to the Director Dispute Resolution for resolution of a dispute by an arbitrator;
-3.seek advice in relation to the dispute from WorkCover WA;
-4.seek advice or assistance in relation to the dispute from your trade union organisation, a legal practitioner or a registered agent.
+·discuss this notice with the insurer or apply to have the matter heard under any internal dispute resolution process of the insurer;
+·under section 181 of the Act apply to the Director Dispute Resolution for resolution of a dispute by an arbitrator;
+·seek advice in relation to the dispute from WorkCover WA;
+·seek advice or assistance in relation to the dispute from your trade union organisation, a legal practitioner or a registered agent.
 [Form 3B inserted in Gazette 8 Mar 1991 p. 1074; amended in Gazette 5 Feb 1993 p. 1059; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4921-2.]
 Form 3C
 [r. 6D]
@@ -474,22 +534,22 @@ To:
 3. Director Dispute Resolution
 From:
 [name and address of insurer]
-Claim number: .......................................
+Claim Number: .............................................
 Date of injury by accident or approximate date of onset of condition:
 Nature of incapacity:
-Date claim made by employer: ....................................
+Date claim made by employer: .......................................
 In respect of the above claim you are notified that a decision as to whether or not liability is to be accepted in respect of the weekly payments claimed by the worker is not able to be made within the time allowed by section 57A(3) of the Act.
 The reasons why the decision is not able to be made are as follows:
 Where further medical information is required to make a decision about liability, state the nature and substance of the medical information and whether a written authority from the worker is required:
 Where further information on the worker’s weekly earnings is required to make a decision about liability, state the nature and substance of the information:
 Where other particulars are required to help make a decision about liability, specify the particulars required:
 Signed on behalf of the insurer:
-Date: ..................................................
+Date: ........................................................
 NOTE THAT if you wish you may —
-1.discuss this notice with the insurer or employer or apply to have the matter heard under any internal dispute resolution process of the insurer;
-2.under section 181 of the Act apply to the Director Dispute Resolution for resolution of a dispute by an arbitrator;
-3.seek advice in relation to the dispute from WorkCover WA;
-4.seek advice or assistance in relation to the dispute from your trade union organisation, a legal practitioner or a registered agent.
+·discuss this notice with the insurer or employer or apply to have the matter heard under any internal dispute resolution process of the insurer;
+·under section 181 of the Act apply to the Director Dispute Resolution for resolution of a dispute by an arbitrator;
+·seek advice in relation to the dispute from WorkCover WA;
+·seek advice or assistance in relation to the dispute from your trade union organisation, a legal practitioner or a registered agent.
 [Form 3C inserted in Gazette 8 Mar 1991 p. 1075; amended in Gazette 5 Feb 1993 p. 1059; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4922-3.]
 Form 3D
 [r. 6E]
@@ -502,23 +562,21 @@ From:
 [name and address of uninsured or self-insured employer]
 Date of injury by accident or approximate date of onset of condition:
 Nature of incapacity:
-Date claim made by worker: ..............................................
+Date claim made by worker: ..........................................................
 In respect of the above claim you are notified that liability is disputed in respect of the weekly payments claimed by you.
 The reasons why liability is disputed are as follows:
-If a reason is that the applicant is not a worker, state the grounds upon which this assertion is made: .................................................................................................................................................................................
-....................................................................................................
-............................................................................................................................................
+If a reason is that the applicant is not a worker, state the grounds upon which this assertion is made:
 If a reason is that the applicant did not suffer an injury as defined in section 5(1) of the Act, state the grounds upon which this assertion is made:
 If a reason is that the injury was not suffered in the course of employment, state the grounds upon which this assertion is made:
 The provisions of the Workers’ Compensation and Injury Management Act 1981 relied on to dispute liability are:
 Signed on behalf of the uninsured or self-insured employer
 (signature of senior officer responsible for claim)
-Date: ...............................................
+Date: ................................................................
 NOTE THAT if you wish you may —
-1.discuss this notice with the employer or, if the employer is self insured, apply to have the matter heard under any internal dispute resolution process of the employer;
-2.under section 181 of the Act apply to the Director Dispute Resolution for resolution of a dispute by an arbitrator;
-3.seek advice in relation to the dispute from WorkCover WA;
-4.seek advice or assistance in relation to the dispute from your trade union organisation, a legal practitioner or a registered agent.
+·discuss this notice with the employer or, if the employer is self insured, apply to have the matter heard under any internal dispute resolution process of the employer;
+·under section 181 of the Act apply to the Director Dispute Resolution for resolution of a dispute by an arbitrator;
+·seek advice in relation to the dispute from WorkCover WA;
+·seek advice or assistance in relation to the dispute from your trade union organisation, a legal practitioner or a registered agent.
 [Form 3D inserted in Gazette 8 Mar 1991 p. 1075; amended in Gazette 5 Feb 1993 p. 1059; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4923-4.]
 Form 3E
 [r. 6F]
@@ -543,9 +601,9 @@ Where other particulars are required to help make a decision about liability, sp
 Signed on behalf of the uninsured or self-insured employer:
 Date: .................................................
 NOTE THAT if you wish you may —
-1.under section 181 of the Act apply to the Director Dispute Resolution for resolution of a dispute by an arbitrator;
-2.seek advice in relation to the dispute from WorkCover WA;
-3.seek advice or assistance in relation to the dispute from your trade union organisation, a legal practitioner or a registered agent.
+·under section 181 of the Act apply to the Director Dispute Resolution for resolution of a dispute by an arbitrator;
+·seek advice in relation to the dispute from WorkCover WA;
+·seek advice or assistance in relation to the dispute from your trade union organisation, a legal practitioner or a registered agent.
 [Form 3E inserted in Gazette 8 Mar 1991 p. 1075-6; amended in Gazette 5 Feb 1993 p. 1060; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4925-6.]
 Form 4
 [r. 7(1)]
