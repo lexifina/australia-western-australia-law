@@ -22,7 +22,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 513 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 18 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 18 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 18 had not come into operation. It reads as follows:
 Division 18 — Criminal Property Confiscation Act 2000 amended
