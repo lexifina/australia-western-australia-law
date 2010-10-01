@@ -7,7 +7,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, Div. 3 (other than s. 22), Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2 and 3, Pt. 7 Div. 4 and 5, s. 183-186, s. 193 and Pt. 9 | 23 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2)
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 5 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 5 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, s. 23-42, Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2 and 3, Pt. 7 Div. 4 and 5, s. 183-186, s. 193 and Pt. 9 have not come into operation. They read as follows:
 “
 Part 2 — Biosecurity
@@ -605,6 +606,13 @@ person registered under the Health Practitioner Regulation National Law (Western
 32.Section 118 amended
 In section 118(1)(m) delete “or a pharmaceutical chemist.” and insert:
 or a person registered under the Health Practitioner Regulation National Law (Western Australia) in the pharmacy profession.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Biosecurity and Agriculture Management Act 2007 | s. 48(4)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
