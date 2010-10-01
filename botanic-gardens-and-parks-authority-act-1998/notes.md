@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 August 2010 of the Botanic Gardens and Parks Authority Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Botanic Gardens and Parks Authority Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Botanic Gardens and Parks Authority Act 1998 | 53 of 1998 | 7 Dec 1998 | s. 1 and 2: 7 Dec 1998; Act other than s. 1 and 2: 1 Jul 1999 (see s. 2 and Gazette 30 Jun 1999 p. 2879)
@@ -11,8 +11,19 @@ Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 publis
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and Sch. 1 cl. 16 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The Botanic Gardens and Parks Authority Act 1998 as at 6 Aug 2010 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The provision in this Act consequentially amending other Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Botanic Gardens and Parks Authority Act 1998 | s. 8
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
