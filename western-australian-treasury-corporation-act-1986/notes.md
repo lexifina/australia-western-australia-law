@@ -30,6 +30,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 518 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The Western Australian Treasury Corporation Amendment Act 1992 s. 7(4) reads as follows:
 (4) Any agreement or arrangement entered into, or transaction effected, before the commencement of this section which would have been lawful and valid had —
 (a) section 10(2)(fa) and (fb) of the principal Act as inserted by subsection (1); and
@@ -83,6 +84,13 @@ On the date as at which this compilation was prepared, the Co-operatives Act 200
 518.Western Australian Treasury Corporation Act 1986 amended
 (1) This section amends the Western Australian Treasury Corporation Act 1986.
 (2) In Schedule 1 delete items 5 and 6.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Western Australian Treasury Corporation Act 1986 | s. 5D
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
