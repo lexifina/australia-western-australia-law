@@ -38,6 +38,7 @@ On the date as at which this compilationwas prepared, provisions referred to in 
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Appointed day 17 April 1978; see Gazette 17 March 1978 p. 800.
 Repealed by the Associations Incorporation Act 1987.
 Repealed by the Statute Stocktake Act 1999 s. 3 of the Commonwealth (No. 118 of 1999).
@@ -55,6 +56,13 @@ Act | Provision
 ...................... | ........
 Legal Aid Commission Act 1976 | s. 22
 ...................... | ........
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Legal Aid Commission Act 1976 | s. 20(1), 21(1)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
