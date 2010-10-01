@@ -66,6 +66,10 @@ Water Resources Legislation Amendment Act 2007 s. 198 | 38 of 2007 | 21 Dec 2007
 Reprint 10: The Public Works Act 1902 as at 16 May 2008 (includes amendments listed above)
  | Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 43(3), 44(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Roads Act 1911 which was repealed by the Road Districts Act 1919 which was repealed by the Local Government Act 1960 which is now cited as the Local Government (Miscellaneous Provisions) Act 1960. The main Act now dealing with local governments is the Local Government Act 1995.
 Repealed by the Dividing Fences Act 1961 s. 2(1).
@@ -79,6 +83,13 @@ The Public Works Amendment Act 1994 s. 11 is a validation provision that is of n
 (2) A reference in a document executed before the commencement of this Act to the Western Australian Building Authority Account is to be construed, unless the context otherwise requires, as if that reference had been amended to be a reference to the Western Australian Building Management Authority Account.
 ”.
 The Statutes (Repeals and Minor Amendments) Act 2000 s. 35(2) and (3) is a validation provision that is of no further effect.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Public Works Act 1902 | s. 9D
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
