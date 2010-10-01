@@ -25,7 +25,7 @@ Reprint 3: The Pharmacy Act Regulations 1976 as at 8 Aug 2008 (includes amendmen
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law (WA) Act 2010 s. 15(2)(k) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 s. 15(2)(k) | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Repealed by the Friendly Societies (Western Australia) Act 1999.
 The commencement date of 1 Jul 1985 that was specified was before the date of gazettal.
 On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 15(2)(k) had not come into operation. It reads as follows:
