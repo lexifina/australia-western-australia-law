@@ -36,6 +36,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
@@ -116,7 +117,6 @@ as if section 68 had not been enacted.
 (1) An application for leave to appeal made under section 54B(2) of the Occupational Safety and Health Act 1984 but not finally determined before the commencement of section 68, and an appeal for which leave is granted on such an application, may be dealt with and determined as if that section had not been enacted.
 (2) An appeal brought under section 54B(2) of the Occupational Safety and Health Act 1984 but not finally determined before the commencement of section 68, may be dealt with and determined as if that section had not been enacted.
 ”.
-Footnotes no longer applicable.
 On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
 4.Schedule headings reformatted
 (1) This section amends the Acts listed in the Table.
@@ -126,8 +126,16 @@ On the date as at which this compilation was prepared, the Standardisation of Fo
 (c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
 Act | Identifier | Title | Shoulder note
 Occupational Safety and Health Act 1984 | Schedule |  | [s. 60(5)]
+Footnote no longer applicable.
 This amendment took effect on 15 May 2010 when the Petroleum Legislation Amendment and Repeal Act 2005 s. 50 came into operation, see Gazette 14 May 2010 p. 2015.
 A reference to the Petroleum Safety Act 1999 is not included in the table because that Act was repealed before the amendments in Sch. 2 to that Act came into operation. The repeal was made by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Occupational Safety and Health Act 1984 | s. 8(2), 9(3), 14A(6), 15(4)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
