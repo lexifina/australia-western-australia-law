@@ -24,9 +24,23 @@ Water Resources Legislation Amendment Act 2007 Pt. 7 | 38 of 2007 | 21 Dec 2007 
 Reprint 3: The Water Corporation Act 1995 as at 4 Jul 2008 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 132 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Sector Reform Act 2010 s. 87 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 4 is a validation provision.
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 127(5) is not included because the Schedule it sought to amend had been replaced in Gazette 24 May 2002 p. 2605-17 before the amendment purported to come into operation.
 The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 87 had not come into operation. It reads as follows:
+87.Water Corporation Act 1995 amended
+(1) This section amends the Water Corporation Act 1995.
+(2) In section 3(1) delete the definition of Commissioner for Public Sector Standards.
+(3) In the provisions listed in the Table delete “Commissioner for Public Sector Standards” (each occurrence) and insert:
+Public Sector Commissioner
+Table
+s. 16(1), (5) and (6) | s. 17(1) and (3)
+s. 24(1) and (3) | s. 25(1) and (3)
+s. 26(2)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
