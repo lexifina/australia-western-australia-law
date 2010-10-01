@@ -1,9 +1,9 @@
 ## Appendix 1 — Information to be given to owner-driver
-[s. 7(b)]
+[s. 7(2)(b)]
 Owner-Drivers (Contracts and Disputes) Act 2007
 Western Australian Owner-Drivers
 Information Pamphlet
-It is a requirement of the Owner-Drivers (Contracts and Disputes) (Code of Conduct) Regulations 2010 (“the Code of Conduct”) for a hirer to provide an owner-driver with a copy of this form and any current guideline rates before entering into an owner-driver contract with the owner-driver.
+It is a requirement of the Owner-Driver Contracts Code of Conduct 2010 (“the Code of Conduct”) for a hirer to provide an owner-driver with a copy of this form and any current guideline rates before entering into an owner-driver contract with the owner-driver.
 Where an owner-driver advises the hirer that they already have current copies of the documents, the hirer is not required to provide additional copies.
 In some circumstances, it might not be reasonably practical for the hirer to provide the documents before entering into a contract with the owner-driver. In those cases, the hirer should advise the owner-driver where the documents can be obtained.
 The Act and Code of Conduct
@@ -34,7 +34,7 @@ or
 (ii)operated by an officer of the body corporate (whether solely or with the use of other operators) whose principal occupation is the operation of those vehicles;
 or
 (c)a partnership of persons, at least one of whom is a person referred to in paragraph (a).
-Where :
+Where:
 listed public company has the same meaning as it has in the Income Tax Assessment Act 1997 of the Commonwealth; and
 officer, of a body corporate, has the same meaning as it has in the Corporations Act 2001 of the Commonwealth.
 Rights and Obligations
@@ -46,7 +46,7 @@ An owner-driver contract or any other kind of agreement cannot:
 Any terms or conditions that attempt to do either of these things will have no effect.
 Breaches of the Act, Code of Conduct or a Contract
 Industrial Inspectors from the Labour Relations Division of the Department of Commerce can investigate alleged breaches of the Act, of the Code of Conduct, or of an owner-driver contract.
-To contact the Department: | 111 St Georges Terrace, Perth 6000
+To contact the Department: | 2 Havelock Street, West Perth 6005
  | Tel: 1300 655 266 (Wageline)
  | Website: www.commerce.wa.gov.au/LabourRelations
 Requirements of the Act and Code of Conduct
@@ -55,16 +55,16 @@ Making Payment Claims
 If an owner-driver contract does not have a written provision about how to make a claim for payment, then the Act implies into the contract a requirement that a payment claim must:
 ·state the name of the claimant and date of the claim;
 ·in the case of a claim by an owner-driver — itemise and describe the services provided by the owner-driver in enough detail to allow the hirer to assess the claim;
-·in the case of a claim made by a hirer - describe the basis for the claim in enough detail to allow the owner-driver to assess the claim; and
+·in the case of a claim made by a hirer — describe the basis for the claim in enough detail to allow the owner-driver to assess the claim; and
 ·be given to the other party.
-14-day / 30-day Payment Time Limits
+14-day/30-day Payment Time Limits
 Where an owner-driver contract contains a provision that purports to require a payment to be made more than 30 days after a payment claim is made, the Act provides that the contract is to be read as being amended to require payment within 30 days after the claim is made.
 Where an owner-driver contract does not have a written provision about the time by when a payment must be made, the Act implies the following terms into the contract:
 Within 14 days after receiving a payment claim, the party receiving the claim must —
 ·pay the whole amount of the claim; or
 ·where part of the claim is in dispute, pay the part of the claim not in dispute.
 ‘If paid/when paid’ Banned
-The Act bans use of ‘If paid / when paid’ conditions in owner-driver contracts. If an owner-driver contract includes such a condition, that condition will have no effect.
+The Act bans use of ‘If paid/when paid’ conditions in owner-driver contracts. If an owner-driver contract includes such a condition, that condition will have no effect.
 Penalty Cannot be Imposed
 The Code of Conduct provides that an owner-driver is not liable to pay a hirer any amount that is a penalty. A penalty is the payment of an amount to the extent that it exceeds the amount necessary to compensate a hirer for actual loss or damage suffered by the hirer due to the default of an owner-driver or breach by an owner-driver of an owner-driver contract. A penalty might include any money or property of an owner-driver being forfeited to or retained by a hirer as a penalty.
 Interest Payable on Overdue Amounts
