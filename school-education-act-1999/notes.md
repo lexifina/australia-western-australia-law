@@ -19,6 +19,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 s. 182(3) and 208 | 36 of 1999 | 2 Nov 1999 | To be proclaimed (see s. 2)
+Public Sector Reform Act 2010 s. 89 and 110 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Children and Community Services Act 2004.
 On the date as at which this compilation was prepared, the School Education Act 1999 s. 182(3) and 208 had not come into operation. They read as follows:
@@ -50,3 +51,23 @@ year 11 and year 12 have the meanings given to those terms by section 4 of the p
 as mentioned in section 11B(1) of the principal Act (inserted by section 20), notice under section 11D(1) of the principal Act (as so inserted) must be given no later than 1 February 2006.
 ”.
 The Financial Legislation Amendment and Repeal Act 2006 (now known as the Financial Management (Transitional Provisions) Act 2006) Sch. 2 deals with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 and 110 had not come into operation. They read as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+School Education Act 1999 | s. 39(9)(b), 87(7)(b), 93(9)(b), 241(7)(b)
+110.School Education Act 1999 amended
+(1) This section amends the School Education Act 1999.
+(2) In section 239(1)(b) delete “that is not the Minister (within the meaning in that Part)”.
+(3) Delete section 239(2) and insert:
+(2) In addition to —
+(a) the actions that may be taken under section 79(3) of the PSMA; and
+(b) any disciplinary action or improvement action that may be taken under section 82A(3)(b) or 88(b) of the PSMA,
+the chief executive officer may under those provisions make a determination under section 238(1)(a) in respect of a member of the teaching staff.
+(4) In section 240(1):
+(a) in paragraph (a) delete “is guilty of an act or omission that comes within” and insert:
+may have committed a breach of discipline as referred to in
+(b) delete paragraph (c)(ii) and “or” after it and insert:
+(ii) in the case of a suspected breach of discipline dealt with under Part 5 of the PSMA — a decision is made under section 81(1)(b), 82A(2) or (3) or 88 of the PSMA; or
