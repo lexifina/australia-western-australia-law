@@ -10,6 +10,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 Sch. 1 cl. 2 and 3 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 s. 65, which gives effect to Sch. 1 cl. 2 and 3, had not come into operation. It reads as follows:
 “
 65.Consequential amendments
@@ -68,3 +69,10 @@ s. 19(1), (9) and (10) | s. 44(3), (4) and (5)
 s. 20(2), (3), (5) and (6) | s. 45(1), (3), (4) and (6)
 ”.
 The amendment in the Statute (Repeals and Minor Amendments) Act 2009 s. 5(5) is not included because the paragraph it sought to amend had been replaced by the Acts Amendment (Bankruptcy) Act 2009 s. 17 before the amendment purported to come into operation.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Commissioner for Children and Young People Act 2006 | s. 56
