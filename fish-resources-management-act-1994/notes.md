@@ -35,6 +35,7 @@ Short title | Number and year | Assent | Commencement
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 4 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The Fish Resources Management Amendment Act 2002 s. 8(2)-(4) read as follows:
 “
 (2) The arrangements of 15 April 1995 by which the Minister for Fisheries purported to lease from the Minister for Transport that portion of land known as “Aquaculture Park Area”, being a total area of 7.8152 hectares situated in the Broome Port area, for the purposes of establishing an aquaculture park are to be taken to be, and always to have been, as valid as they would have been if the amendments made to the Fish Resources Management Act 1994 by this Act were in effect at the time the arrangements were made.
@@ -118,6 +119,13 @@ On the date as at which this compilation was prepared, the Standardisation of Fo
 (c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
 Act | Identifier | Title | Shoulder note
 Fish Resources Management Act 1994 | Schedule 1
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Fish Resources Management Act 1994 | s. 245(1)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
