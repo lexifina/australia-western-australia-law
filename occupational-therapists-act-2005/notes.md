@@ -9,7 +9,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health and Disability Services Legislation Amendment Act 2010 s. 62 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
-Health Practitioner Regulation National Law (WA) Act 2010 s. 14(g) and Pt. 5 Div. 39 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 s. 14(g) and Pt. 5 Div. 39 | 35 of 2010 | 30 Aug 2010 | Pt. 5 Div. 39: 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075); s. 14(g): to be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Health and Disability Services Legislation Amendment Act 2010 s. 62 had not come into operation. It reads as follows:
 62.Occupational Therapists Act 2005 amended
 (1) This section amends the Occupational Therapists Act 2005.
@@ -27,3 +28,10 @@ This Division amends the Occupational Therapists Act 2005.
 122.Section 3 amended
 In section 3 delete the definition of medical practitioner and insert:
 medical practitioner means a person who is registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Occupational Therapists Act 2005 | s. 9
