@@ -21,7 +21,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 29 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 2 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 2 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Public Sector Reform Act 2010 s. 90 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Industrial Relations Act 1979.
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. See also note 9.
@@ -41,6 +42,13 @@ This Division amends the Alcohol and Drug Authority Act 1974.
 25.Section 4 amended
 In section 4 delete the definition of medical practitioner and insert:
 medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 90 had not come into operation. It reads as follows:
+90.Various references to “Public Service Board” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Public Service Board” and insert:
+Public Sector Commissioner
+Table
+Alcohol and Drug Authority Act 1974 | s. 21(2)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
