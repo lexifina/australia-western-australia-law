@@ -35,7 +35,8 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Health and Disability Services Legislation Amendment Act 2010 Pts. 2 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 25 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 25 | 35 of 2010 | 30 Aug 2010 | s. 79-90 and 91(1)-(3): 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075) s. 91(4) and (5): to be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
@@ -295,3 +296,10 @@ In section 71(5)(d) delete “44(3),”.
 1b.Chinese Medicine Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
 3a.Medical Radiation Practice Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
 5.Occupational Therapy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Health Services (Conciliation and Review) Act 1995 | Sch. 2 cl. 2(a), 6
