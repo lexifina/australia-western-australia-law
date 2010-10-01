@@ -19,6 +19,7 @@ Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 36 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 State Superannuation Amendment Act 2007 s. 82 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 Health and Disability Services Legislation Amendment Act 2010 s. 56 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
+Public Sector Reform Act 2010 s. 76 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 36 had not come into operation. It reads as follows:
 “
@@ -40,6 +41,11 @@ On the date as at which this compilation was prepared, the Health and Disability
 (a) delete “Office of Health Review”;
 (b) insert in alphabetical order:
 Health and Disability Services Complaints Office
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 76 had not come into operation. It reads as follows:
+76.Financial Management Act 2006 amended
+(1) This section amends the Financial Management Act 2006.
+(2) In section 51(3) delete “sections 12 and 13” and insert:
+sections 24I and 24J
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
