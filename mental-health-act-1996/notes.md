@@ -22,7 +22,8 @@ Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (s
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 34 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 34 | 35 of 2010 | 30 Aug 2010 | s. 109-111 and 112(1): 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075) s. 112(2): to be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The Mental Health (Consequential Provisions) Act 1996 Pt. 12 Div. 2 (s. 53-72 inclusive) reads as follows:
 “
 Division 2 — Transitional
@@ -208,3 +209,10 @@ or
 (i) registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing and midwifery profession; or
 (ii) registered under the Health Practitioner Regulation National Law (Western Australia) in the occupational therapy profession;
 or
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Mental Health Act 1996 | s. 180(1), Sch. 1 cl. 2(2)
