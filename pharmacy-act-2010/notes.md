@@ -6,7 +6,7 @@ Pharmacy Act 2010 s. 1 and 2 | 32 of 2010 | 26 Aug 2010 | 26 Aug 2010 (see s. 2(
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Pharmacy Act 2010 s. 3, and Pt. 2-9 | 32 of 2010 | 26 Aug 2010 | To be proclaimed (see s. 2(b))
+Pharmacy Act 2010 s. 3, and Pt. 2-9 | 32 of 2010 | 26 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5076)
 On the date as at which this compilation was prepared, the Pharmacy Act 2010 s. 3 and Pt. 2-9 had not come into operation. They read as follows:
 3.Terms used
 (1) In this Act, unless the context otherwise requires —
