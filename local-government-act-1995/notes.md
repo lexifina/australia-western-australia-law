@@ -53,6 +53,7 @@ Short title | Number and year | Assent | Commencement
 Local Government Amendment Act 2009 s. 34 | 17 of 2009 | 16 Sep 2009 | To be proclaimed (see s. 2(b))
 Co-operatives Act 2009 s. 506 and 516 | 24 of 2009 | 22 Oct 2009 | s. 506: operative on the day Co-operative Bulk Handling Limited becomes registered under this Act (see s. 2(d)); s. 516: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 34 and Pt. 5 Div 2 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -229,14 +230,14 @@ the LG Act means the Local Government Act 1995.
 (2) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.77 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.77.
 (3) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.78 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.78.
 References to the Executive Director were replaced by references to the Departmental CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
-On the date as at which this reprint was prepared, the Local Government Amendment Act 2009 s. 34 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Local Government Amendment Act 2009 s. 34 had not come into operation. It reads as follows:
 34.Section 5.100A inserted
 After section 5.99A insert:
 5.100A.Gifts to council members
 A local government cannot give a gift to a council member unless —
 (a) the gift is given in prescribed circumstances; and
 (b) the value of the gift is less than a prescribed amount.
-On the date as at which this reprint was prepared, the Co-operatives Act 2009 s. 506 and 516 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 506 and 516 had not come into operation. They read as follows:
 506.Local Government Act 1995 amended
 (1) This section amends the Local Government Act 1995.
 (2) In section 6.26(2)(i) delete “company” (each occurrence) and insert:
@@ -263,6 +264,13 @@ In section 5.42(1) delete “duties under this Act other than those referred to 
 duties under —
 (a) this Act other than those referred to in section 5.43; or
 (b) the Planning and Development Act 2005 section 214(2), (3) or (5).
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Local Government Act 1995 | Sch. 2.5 cl. 8(1), Sch. 5.1 cl. 9(1)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
