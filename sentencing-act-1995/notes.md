@@ -59,7 +59,7 @@ Under the Cross-border Justice Act 2008 section 14, in order to give effect to t
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 46 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 46 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
 The Fruit Growing Industry (Trust Fund) Act 1941 was repealed by the Fruit Growing Industry (Trust Fund) Repeal Act 1996.
