@@ -12,6 +12,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 505 | 24 of 2009 | 22 Oct 2009 | Operative on the date the Co-operative Bulk Handling Limited becomes registered under this Act (see s. 2(d))
 Grain Marketing Repeal Act 2010 s. 3 | 30 of 2010 | 25 Aug 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 505 had not come into operation. It reads as follows:
 505.Grain Marketing Act 2002 amended
 (1) This section amends the Grain Marketing Act 2002.
@@ -22,3 +23,10 @@ a co-operative registered under the Co-operatives Act 2009.
 On the date as at which this compilation was prepared, the Grain Marketing Repeal Act 2010 s. 3 had not come into operation. It reads as follows:
 3.Act repealed
 The Grain Marketing Act 2002 is repealed.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Grain Marketing Act 2002 | s. 9
