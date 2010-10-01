@@ -26,13 +26,14 @@ Last digit of property’s street number or, where there is no street number, lo
 0 | Monday and Friday
 ## Division 3 — Specified days for Schedule 2 clause 5(1)(a)
 Last digit of property’s street number or, where there is no street number, lot number | Day for watering by reticulation
-1 | Monday
-2 | Tuesday
-3 | Wednesday
-4 | Thursday
-5 | Friday
-6 | Saturday
-7 | Sunday
-8 | Monday
-9 | Tuesday
-0 | Wednesday
+1 | Wednesday
+2 | Thursday
+3 | Friday
+4 | Saturday
+5 | Sunday
+6 | Monday
+7 | Tuesday
+8 | Wednesday
+9 | Thursday
+0 | Friday
+[Division 3 amended in Gazette 28 Sep 2010 p. 5065.]
