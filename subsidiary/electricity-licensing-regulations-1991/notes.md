@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity (Licensing) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 October 2010 of the Electricity (Licensing) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Electricity (Licensing) Regulations 1991 | 14 Oct 1991 p. 5249-99 (corrigendum 1 Nov 1991 p. 5665) | 1 Nov 1991 (see r. 2)
@@ -30,15 +30,16 @@ Electricity (Licensing) Amendment Regulations (No. 4) 2009 | 23 Jun 2009 p. 2438
 Electricity (Licensing) Amendment Regulations (No. 3) 2009 | 30 Jun 2009 p. 2622-3 | r. 1 and 2: 30 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Electricity (Licensing) Amendment Regulations (No. 5) 2009 | 1 Sep 2009 p. 3394-5 | r. 1 and 2: 1 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Sep 2009 (see r. 2(b))
 Electricity (Licensing) Amendment Regulations 2010 | 25 Jun 2010 p. 2864-5 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+Reprint 5: The Electricity (Licensing) Regulations 1991 as at 1 Oct 2010 (includes amendments listed above)
+The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
+Repealed by the Training Legislation Amendment and Repeal Act 2008 s. 50
+The Training Legislation Amendment and Repeal Act 2008 Pt. 2 came into operation 10 June 2009.
+Now called the Tradesperson’s Rights Regulation Act 1946 (Cwlth.).
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
-“
-(4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the “licensing regulations”) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
-”.
+(4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
 The Electricity (Licensing) Amendment Regulations 2007 r. 5(4) reads as follows:
-“
 5.Regulation 5 amended and transitional
 (4) For the purposes of the appointment of a person in accordance with the Electricity (Licensing) Regulations 1991 regulation 5(2)(b)(i) and (d)(i), as amended by this regulation, regard may be had to any period during which the person was the holder of an “A” grade licence for electrical installing work issued under the Electricity (Licensing) Regulations 1991, as in force before the commencement of this regulation.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -48,7 +49,6 @@ Board3(1)
 Chairman3(1)
 commencement day67(1)
 department13(5)
-Department of Training22(6)
 electrical accident63(1)
 electrical appliance3(1)
 electrical contractor3(1)
@@ -87,8 +87,8 @@ private generating plant3(1)
 professionally qualified engineer19(4)
 relevant licence45A(1)
 relevant network operator3(1)
+required time51(3)
 SA amendment49(1a)(a)
-supervising electrical worker50(3)(a), 50AA(1)
-the required time51(3)
+supervising electrical worker 50(3)(a), 50AA(1)
 W A Electrical Requirements3(1)
 working days3(1)
