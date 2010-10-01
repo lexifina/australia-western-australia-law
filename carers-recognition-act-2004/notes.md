@@ -10,6 +10,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health and Disability Services Legislation Amendment Act 2010 s. 53 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Health and Disability Services Legislation Amendment Act 2010 s. 53 had not come into operation. It reads as follows:
 53.Carers Recognition Act 2004 amended
 (1) This section amends the Carers Recognition Act 2004.
@@ -17,3 +18,10 @@ On the date as at which this compilation was prepared, the Health and Disability
 (3) Delete Part 5.
 (4) In Schedule 2 Division 1 clause 1 delete “Health Services (Conciliation and Review) Act 1995” and insert:
 Health and Disability Services (Complaints) Act 1995
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Carers Recognition Act 2004 | s. 17
