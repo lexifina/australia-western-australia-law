@@ -14,8 +14,9 @@ Compilation table
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 27 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
+ | Short title | Number and year | Assent | Commencement
+ | Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 27 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 71 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Under the Alteration of Statutory Designations Order 2004 a reference in a written law to the Department of Environmental Protection is, unless the contrary is intended, to be read and construed as a reference to the Department of Environment.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Environment is called the Department of Environment and Conservation.
 On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 27 had not come into operation. It reads as follows:
@@ -23,3 +24,10 @@ On the date as at which this compilation was prepared, the Approvals and Related
 (1) This section amends the Agricultural Practices (Disputes) Act 1995.
 (2) In section 3 in the definition of rural land delete “as that term is” and insert:
 or an improvement scheme as those terms are
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 71 had not come into operation. It reads as follows:
+71.Agricultural Practices (Disputes) Act 1995 amended
+(1) This section amends the Agricultural Practices (Disputes) Act 1995.
+(2) In section 19(1) delete “Minister to whom the administration of the Public Sector Management Act 1994 is committed.” and insert:
+Public Sector Commissioner.
+(3) In section 19(2) delete “Minister to whom the administration of that Act is committed,” and insert:
+Public Sector Commissioner,
