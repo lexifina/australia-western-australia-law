@@ -128,11 +128,11 @@ Medical Practitioners Act 2008 Sch. 3 cl. 23 | 22 of 2008 | 27 May 2008 | 1 Dec 
 Criminal Law Amendment (Homicide) Act 2008 s. 34 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Food Act 2008 s. 147 | 43 of 2008 | 8 Jul 2008 | 24 Oct 2009 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 71 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
-Reprint 15: The Health Act 1911 as at 20 Nov 2009 (includes amendments listed above) (Correction in Gazette 14 Dec 2010 p. 6301)
+Reprint 15: The Health Act 1911 as at 20 Nov 2009 (includes amendments listed above) (correction in Gazette 14 Dec 2010 p. 6301)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 22 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 22 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 Repealed by the Nurses and Midwives Act 2006.
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
