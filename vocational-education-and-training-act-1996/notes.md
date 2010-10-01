@@ -17,6 +17,7 @@ On the date as at which this was prepared, provisions referred to in the followi
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Pt. 7 (s. 58-62) and Sch. 2 of this Act had not come into operation when they were deleted by the Training Legislation Amendment and Repeal Act 2008 s. 39 and 48.
 The Acts Amendment (Education Loan Scheme) Act 1998 Pt. 5 reads as follows:
 Part 5 — Transitional
@@ -38,6 +39,13 @@ Act | Provision
 Vocational Education and Training Act 1996 | Sch. 4, cl. 7A
 ...................... | ........
 The Schedule that it seeks to amend has been deleted.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Vocational Education and Training Act 1996 | s. 63
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
