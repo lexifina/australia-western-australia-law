@@ -24,6 +24,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 84 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
+Public Sector Reform Act 2010 s. 81 and 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The Ports and Marine Legislation Amendment Act 2003 s. 4(2) reads as follows:
 “
 (2) The amendment made by subsection (1) does not affect the operation of the Port Authorities (Withdrawal and Revesting of Property) Order 2000 published in the Gazette on 2 June 2000.
@@ -118,6 +119,22 @@ On the date as at which this compilation was prepared, the State Superannuation 
 (2) Section 19(1) is amended by deleting “section 30” and inserting instead —
 “ section 76 ”.
 ”.
+On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 81 and 89 had not come into operation. They read as follows:
+81.Port Authorities Act 1999 amended
+(1) This section amends the Port Authorities Act 1999.
+(2) In section 3(1) delete the definition of Commissioner for Public Sector Standards.
+(3) In the provisions listed in the Table delete “Commissioner for Public Sector Standards” (each occurrence) and insert:
+Public Sector Commissioner
+Table
+s. 17(1), (4) and (5) | s. 18(1) and (3)
+s. 21(1) and (3) | s. 22(1) and (3)
+s. 23(2)
+89.Various references to “Minister for Public Sector Management” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
+Public Sector Commissioner
+Table
+Port Authorities Act 1999 | s. 7(2)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
