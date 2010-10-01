@@ -125,7 +125,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 93 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 40 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 40 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 The designation of Ministers may be altered by the Governor under the Alteration of Statutory Designations Act 1974. As at the date of this compilation the former Minister for Agriculture is known as the Minister for Agriculture and Food.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 40 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
