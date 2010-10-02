@@ -8,6 +8,7 @@ Commissioner of Main Roads
 Disability Services Commission
 Fire and Emergency Services Authority of Western Australia
 Metropolitan Cemeteries Board
+Perth Theatre Trust
 Small Business Development Corporation
 Swan River Trust
 The Western Australian Government Railways Commission
@@ -15,7 +16,7 @@ Western Australian Alcohol and Drug Authority
 Western Australian Sports Centre Trust
 Wheatbelt Development Commission
 WorkCover Western Australia Authority
-[Part 1 inserted in Gazette 18 Feb 2000 p. 917; amended in Gazette 20 Feb 2001 p. 1085; 22 Feb 2002 p. 766; 26 Feb 2002 p. 787; 3 Jan 2003 p. 12-13; 28 Mar 2003 p. 985; 1 Jul 2003 p. 2664; 28 Oct 2003 p. 4530; 15 Jul 2005 p. 3305; 13 Jul 2007 p. 3455; 23 May 2008 p. 1995; 26 Feb 2010 p. 817; 3 Aug 2010 p. 3568.]
+[Part 1 inserted in Gazette 18 Feb 2000 p. 917; amended in Gazette 20 Feb 2001 p. 1085; 22 Feb 2002 p. 766; 26 Feb 2002 p. 787; 3 Jan 2003 p. 12-13; 28 Mar 2003 p. 985; 1 Jul 2003 p. 2664; 28 Oct 2003 p. 4530; 15 Jul 2005 p. 3305; 13 Jul 2007 p. 3455; 23 May 2008 p. 1995; 26 Feb 2010 p. 817; 3 Aug 2010 p. 3568; 1 Oct 2010 p. 5077.]
 ## Part 2 — Prescribed activities (regulation 5)
 Boards of public hospitals
 The provision by a hospital board of goods, information or intellectual property relating to the functions of that hospital board.
@@ -42,6 +43,8 @@ The provision by the Metropolitan Cemeteries Board of —
 (a)the cemetery renewal manual and records system and enhancements of the manual or system;
 (b)scientific, technical, educational, training, management or advisory services relating to cemetery management services; and
 (c)advertising opportunities on the Board’s property.
+Perth Theatre Trust
+The provision by the Perth Theatre Trust of management services relating to the issue and sale of admission tickets for events at a venue that is not a theatre as defined in the Perth Theatre Trust Act 1979 section 3(1).
 Small Business Development Corporation
 The provision by Small Business Development Corporation of —
 (a)goods, information, or intellectual property developed by the Corporation;
@@ -70,4 +73,4 @@ The provision by the Wheatbelt Development Commission of —
 (c)advertising opportunities.
 WorkCover Western Australia Authority
 The sale, leasing or licensing by the WorkCover Western Australia Authority of intellectual property or software that is, or has been, developed to meet the operational requirements of the WorkCover Western Australia Authority.
-[Part 2 inserted in Gazette 18 Feb 2000 p. 917; amended in Gazette 20 Feb 2001 p. 1085; 22 Feb 2002 p. 766; 26 Feb 2002 p. 788; 3 Jan 2003 p. 13; 28 Mar 2003 p. 986; 1 Jul 2003 p. 2664; 28 Oct 2003 p. 4530-1; 15 Jul 2005 p. 3305; 13 Jul 2007 p. 3455; 23 May 2008 p. 1995; 26 Feb 2010 p. 818; 3 Aug 2010 p. 3568.]
+[Part 2 inserted in Gazette 18 Feb 2000 p. 917; amended in Gazette 20 Feb 2001 p. 1085; 22 Feb 2002 p. 766; 26 Feb 2002 p. 788; 3 Jan 2003 p. 13; 28 Mar 2003 p. 986; 1 Jul 2003 p. 2664; 28 Oct 2003 p. 4530-1; 15 Jul 2005 p. 3305; 13 Jul 2007 p. 3455; 23 May 2008 p. 1995; 26 Feb 2010 p. 818; 3 Aug 2010 p. 3568; 1 Oct 2010 p. 5077.]
