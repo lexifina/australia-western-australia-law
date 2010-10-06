@@ -10,5 +10,6 @@ Working with Children (Criminal Record Checking) Amendment Regulations (No. 4) 2
 Reprint 1: The Working with Children (Criminal Record Checking) Regulations 2005 as at 20 Jul 2007 (includes amendments above)
 Working with Children (Criminal Record Checking) Amendment Regulations 2007 | 7 Dec 2007 p. 5977-80 | r. 1 and 2: 7 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2007 (see r. 2(b))
 Working with Children (Criminal Record Checking) Amendment (Road Traffic) Regulations 2008 | 20 Jun 2008 p. 2706-7 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
+Working with Children (Criminal Record Checking) Amendment Regulations 2010 | 5 Oct 2010 p. 5113-18 | r. 1, 2 and 3: 5 Oct 2010 (see r. 2(a)); r. 5: 6 Oct 2010 (see r. 2(b) and Gazette 5 Oct 2010 p. 5113); Regulations other than r. 1, 2, 3 and 5: 6 Oct 2010 (see r. 2(c))
 Now known as the Electricity Transmission and Distribution Systems (Access) Act 1994.
 Repealed by the Children and Community Services Act 2004 s. 250.
