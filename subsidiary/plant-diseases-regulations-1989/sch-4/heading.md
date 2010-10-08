@@ -12,8 +12,8 @@
 or part thereof required to be treated in such a way that each fruit tree or fruit vine is thoroughly treated; and
 (b) during the period commencing 6 weeks before the ripening of the fruits on the fruit trees or fruit vines, as the case requires, and ending 2 weeks after all those fruits have been picked, or have fallen, therefrom do so at intervals of not more than 7 days commencing with the first day of that period.
 3.Fruit fly bait shall for the purposes of item 1 be made by mixing —
-(a) 14 grams of sodium fluosilicate and 0.5 kilograms of sugar with 9 litres of water;
-(b) 7 millilitres of 500 grams/litre of maldison emulsion and 7 millilitres of protein hydrolysate of yeast with 1 litre of water;
+(a) 14 grams of sodium fluosilicate and 0.5 kilograms of sugar with 9 litres of water; or
+(b) 7 millilitres of 500 grams/litre of maldison emulsion and 7 millilitres of protein hydrolysate of yeast with 1 litre of water; or
 (c) 7 millilitres of 500 grams/litre of maldison emulsion and 50 grams of sugar with 1 litre of water; or
 (d) 7 millilitres of 625 grams/litre of trichlorfon liquid and 7 millilitres of protein hydrolysate of yeast with 1 litre of water.
 [Part 1 amended in Gazette 20 Aug 1996 p. 4058.]

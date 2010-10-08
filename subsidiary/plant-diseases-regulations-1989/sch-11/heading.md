@@ -19,7 +19,6 @@ Enterobacteriaceae | Erwinia | tracheiphila
 Acetobacteraceae | Gluconacetobacter | liquefaciens
 Microbacteriaceae | Leifsonia | xyli | subsp. xyli
 Phyllobacteriaceae | Liberobacter | asiaticum
-Phyllobacteriaceae | Liberobacter | asiaticum
 Enterobacteriaceae | Pantoea | ananatis
 Acholeplasmataceae | Phytoplasma | Grapevine flavescence doree
 Acholeplasmataceae | Phytoplasma | mali
@@ -390,7 +389,7 @@ Comoviridae | Nepovirus | Peach rosette mosaic virus
 Not assigned | Not assigned | Peach stubby twig
 Not assigned | Not assigned | Peach wart disease
 Not assigned | Pecluvirus | Peanut clump virus
-Potyviridae | Potyvirus | Peanutmottlevirus
+Potyviridae | Potyvirus | Peanut mottle virus
 Flexiviridae | Potexvirus | Pepino mosaic virus
 Potyviridae | Potyvirus | Plumpoxvirus
 Flexiviridae | Potexvirus | Potato aucuba mosaic virus
