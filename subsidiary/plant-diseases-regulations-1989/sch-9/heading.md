@@ -1,5 +1,5 @@
 ## Schedule 9 — Genera within the Poaceae (Gramineae) family
-[Schedule 1 Part B item 28]
+[Schedule 1 Part B condition 28]
 [Heading inserted in Gazette 21 Sep 2004 p. 4110.]
 Acamptoclados
 Achlaena
