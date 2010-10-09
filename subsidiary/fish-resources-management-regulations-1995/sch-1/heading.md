@@ -91,7 +91,7 @@ Fee | $
 (7)Cockburn Sound (Mussel) Managed Fishery | 122.00
 (8)Esperance Rock Lobster Managed Fishery, per pot | 61.93
 (9)Exmouth Gulf Prawn Managed Fishery | 18 792.00
-(10)Kimberley Gillnet and Barramundi Managed Fishery, per boat | 4 932,00
+(10)Kimberley Gillnet and Barramundi Managed Fishery, per boat | 4 932.00
 (11)Kimberley Prawn Managed Fishery —
 (a)for a Class 1 licence | 945.00
 (b)for a Class 2 licence | 945.00
