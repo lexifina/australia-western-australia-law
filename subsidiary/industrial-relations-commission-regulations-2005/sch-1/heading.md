@@ -210,8 +210,8 @@ on the ground/s set forth in the attached schedule.
  | ..............................................................
  | .............................................................
  | (signature of appellant/s)
-This form must be completed by the appellant, sealed and, where necessary, sealed by him or her and a statement of the grounds of appeal must be attached. (Stamp of Commission)
-[Form 8 amended in Gazette 10 Jul 2009 p. 2743.]
+This form must be completed by the appellant, signed and, where necessary, sealed by him or her and a statement of the grounds of appeal must be attached. (Stamp of Commission)
+[Form 8 amended in Gazette 10 Jul 2009 p. 2743; 12 Oct 2010 p. 5155.]
 Form 9A — Notice of appeal under Vocational Education and Training Act 1996
 [r. 101(1)]
 Industrial Relations Act 1979
@@ -233,8 +233,8 @@ in respect of —
 on the ground/s set out in the attached schedule.
  | .....................................................................
  | (signature of appellant/s)
-This form must be completed by the appellant, sealed and, where necessary, sealed by him or her and a statement of the grounds of appeal must be attached. (Stamp of Commission)
-[Form 9A inserted in Gazette 16 Jun 2009 p. 2190-1.]
+This form must be completed by the appellant, signed and, where necessary, sealed by him or her and a statement of the grounds of appeal must be attached. (Stamp of Commission)
+[Form 9A inserted in Gazette 16 Jun 2009 p. 2190-1; amended in Gazette 12 Oct 2010 p. 5155.]
 Form 9 — Notice of appeal to Full Bench
 [r. 99 and 102(1)]
 Industrial Relations Act 1979
