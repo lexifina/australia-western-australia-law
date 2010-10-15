@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Criminal Code and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 15 October 2010 of the Criminal Code and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Code Act Compilation Act 1913 | 28 of 1913 (4 Geo. V No. 28) | 30 Dec 1913 | 1 Jan 1914 (see s. 1)
@@ -155,12 +155,13 @@ Acts Amendment (Bankruptcy) Act 2009 s. 26 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Criminal Code Amendment Act 2009 | 21 of 2009 | 21 Sep 2009 | s. 1 and 2: 21 Sep 2009 (see s. 2(a)); Act other than s. 1 and 2: 22 Sep 2009 (see s. 2(b))
 Criminal Code Amendment (Graffiti) Act 2009 | 26 of 2009 | 17 Nov 2009 | s. 1 and 2: 17 Nov 2009 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5317)
 Acts Amendment (Weapons) Act 2009 Pt. 2 | 34 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(c))
+Police Amendment Act 2009 s. 14 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Arson Legislation Amendment Act 2009 Pt. 3 | 43 of 2009 | 3 Dec 2009 | 19 Dec 2009 (see s. 2(b) and Gazette 18 Dec 2009 p. 5167)
 Criminal Code Amendment Act (No. 2) 2009 | 44 of 2009 | 3 Dec 2009 | Pt. 1: 3 Dec 2009 (see s. 2(a)); Act other than Pt. 1: 4 Dec 2009 (see s. 2(b))
-Reprint 15: The Criminal Code Act Compilation Act 1913 as at 19 Feb 2010 (includes amendments listed above)
-Police Amendment Act 2009 s. 14 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
+Reprint 15: The Criminal Code Act Compilation Act 1913 as at 19 Feb 2010 (includes amendments listed above except those in the Police Amendment Act 2009)
 Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 Pt. 2 Div. 1 | 21 of 2010 | 7 Jul 2010 | 28 Aug 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 16: The Criminal Code Act Compilation Act 1913 as at 15 Oct 2010 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
@@ -169,6 +170,7 @@ Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints 
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 See Firearms Regulations 1974 r. 2B.
+Renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Criminal Code Amendment Act (No. 2) 1996 s. 4(3) is a transitional provision.
 The Criminal Code is the Schedule to the Criminal Code Act 1913 which is Appendix B to the Criminal Code Act Compilation Act 1913.
 The Limitation Act 1935 s. 48A and the Second Schedule were inserted by No. 73 of 1954 s. 8.
@@ -187,7 +189,7 @@ The Mental Health (Consequential Provisions) Act 1996 s. 20 is a transitional pr
 The Corruption and Crime Commission Act 2003 Sch. 3 was renumbered as Sch. 4 by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(12) and the reference to it in s. 62 was amended by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(13).
 The Criminal Law Amendment (Simple Offences) Act 2004 s. 37 did not come into operation and was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 76(2).
 The amendment in the Criminal Law Amendment (Simple Offences) Act 2004 s. 35(4) to The Criminal Code s. 635A(5) is not included because s. 635A was deleted by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 24 before s. 35(4) commenced.
-The Criminal Law Amendment (Simple Offences) Act 2004 s. 39 did not come into operation and was repealed by the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Sch. 1 item. 7.
+The Criminal Law Amendment (Simple Offences) Act 2004 s. 39 did not come into operation and was repealed by the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Sch. 1 item 7.
 The Criminal Code Amendment (Racial Vilification) Act 2004 s. 7-9 did not have any effect as, before the Act received the Royal Assent, the provisions they would have amended were amended by the Acts Amendment (Family and Domestic Violence) Act 2004 s. 67-69. They were repealed by the Criminal Law and Evidence Amendment Act 2008 s. 6(2), 7(2) and 8(2).
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 to The Criminal Code s. 5(11) is not included because s. 5(11) was amended by the Courts Legislation Amendment and Repeal Act 2004 s. 80 before s. 82 commenced.
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Sch. 2 cl. 36, which proposed to amend s. 133A, was amended by the Criminal Law and Evidence Amendment Act 2008 s. 78(7).
@@ -204,14 +206,14 @@ repeal day means the day on which section 27 comes into operation.
 (4) If immediately before repeal day a warrant issued under The Criminal Code section 716 is in force but not executed, then, subject to the terms of the warrant, the warrant may be executed on or after repeal day and, if any person is found under it, then, despite section 716 and the warrant, the person must be released unless another written law provides to the contrary.
 (5) If immediately before repeal day a person is in possession of any thing seized or taken under The Criminal Code, then on repeal day, subject to any order previously made in respect of the thing under The Criminal Code section 714, the thing is to be taken to be seized property for the purposes of the Criminal and Found Property Disposal Act 2006 and that Act applies to and in respect of it accordingly.
 (6) If immediately before repeal day proceedings under The Criminal Code section 714A in respect of any property are pending in the Magistrates Court, then section 714A operates in respect of the property on and after repeal day despite its repeal on repeal day.
-On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 30 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 30 had not come into operation. It reads as follows:
 30.The Criminal Code amended
 (1) The amendments in this section are to The Criminal Code.
 (2) Section 190 is repealed.
 (3) Section 191 is repealed.
 (4) Section 557K(1) paragraph (h) of the definition of child sex offender is amended by deleting “Prostitution Act 2000” and inserting instead —
 “ Sexual Services Act 2000 ”.
-On the date as at which this compilation was prepared, the Criminal Code Amendment (Identity Crime) Act 2010 s. 3-5 had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Criminal Code Amendment (Identity Crime) Act 2010 s. 3-5 had not come into operation. They read as follows:
 3.The Criminal Code amended
 This Act amends The Criminal Code.
 4.Part VI Division III heading replaced
@@ -305,7 +307,9 @@ bulletproof clothing557I(1)
 carnal connection6
 carnal knowledge6
 charge5(1)(b)
-child1(1), 306(1), 320(1), 321(1), 322(1), 331A, 557K(1)
+child1(1), 217A, 306(1), 320(1), 321(1), 322(1), 331A, 557K(1)
+child exploitation material217A
+child pornography217A
 child sex offender557K(1)
 circumstances of aggravation221(1), 319(1), 338D(1), 391, 400(1)
 circumstances of racial aggravation80I
@@ -337,7 +341,7 @@ destroy1(1)
 detriment97(1)
 disclosure81(1)
 display76
-distribute76
+distribute76, 219(1)
 District Court1(1)
 drive74B(1), 284(1)
 dwelling1(1)
@@ -373,10 +377,11 @@ intoxicant206(1)
 intoxicating substance305A(1)
 judicial proceeding120
 kill270
+law enforcement agency221A(4)
 lawful excuse68B(1), 68C(1), 68D(1)
 liable1(1)
 lineal relative329(1)
-material204A(1)
+material204A(1), 217A
 medical practitioner199(4)
 member76
 member of the crew1(1)
@@ -389,6 +394,7 @@ night1(1)
 night-time1(1)
 obstruct172(1)
 obtains1(1)
+occupant244(1), 254(2)
 offence2, 244(6), 563A(3), 563B(5)
 offence A10B(1) and (2)
 offender446(1)
@@ -401,16 +407,17 @@ person1(1)
 person employed in the Public Service1(1)
 person having business relations with the principal546(10)
 person in authority70A(1)
-picture204B(1)
+picture204B(1), 217A
 place244(6), 254(1), 400(1)
 place of public entertainment68B(1)
 possession1(1)
+prescribed amount68D(1)
 prescribed circumstances297(8), 318(5)
 prescribed offence321A(1)
 prescribed place68B(1), 68D(1)
 principal546(2)
 principal offence10D, 10E, 10F, 10G(1) and (2), 10H(1) and (2),
-552(1), 553(1), 558(1), 562(1)
+552(1), 553(1), 558(1)(a) and (b), 562(1)
 print98(1), 99(1)
 prison145(1)
 proceeds563A(3)
@@ -435,7 +442,7 @@ restricted-access computer system440A(1)
 reward96(1)
 riot62
 riotously assembled62
-seditious enterprises46
+seditious enterprise46
 seditious intention44
 seditious words46
 seditious writing46
@@ -451,7 +458,6 @@ steal371
 summarily1(1)
 summary conviction1(1)
 summary conviction penalty5
-the occupant244(1), 254(2)
 thing sent by post1(1)
 threat332(4), 338
 to indecently record319(1)
@@ -475,7 +481,7 @@ volatile substance206(1)
 wilfully destroy or damage443
 writing397
 written or pictorial material76
-Index to Reprint 15
+Index to Reprint 16
 References are to sections of The Criminal Code unless the following are mentioned:
 Criminal Code Act Compilation Act 1913 (“CompAct”)
 Criminal Code Act 1913 (“CCAct”)
@@ -497,7 +503,7 @@ Administration of justice, offences relating to | 120-143
 Advertisement— as to reward for return of stolen property inserting without authority of court | 138 142
 Affidavit See also Oath; Oaths, Affidavits and Statutory Declarations Act 2005 false statement in | 169
 Affirmation See Oath
-Age— belief as to is a defence belief as to not a defence criminal responsibility, of | 186, 204A, 204B, 216, 321(9), 321A, 205, 321(9a), 322, 331 29
+Age— belief as to is a defence belief as to not a defence criminal responsibility, of | 186, 204A, 204B, 216, 321(9), 321A, 205, 221(1A), 321(9a), 322, 331 29
 Aged person, necessaries of life for | 262
 Agent— commission agent included in term “clerk” or “servant” corruption of See Secret commission funds held under direction by ownership of money received by pledge or lien by, when not deemed stealing funds received by agent for sale stealing by | 1 373 375 372(2) 374 372-375, 378(9)
 Aggravation See Circumstance of aggravation
@@ -536,6 +542,7 @@ Subject | Section
 Bail See Bail Act 1982
 Bail Act 1982, not affected by Code | 1(3)
 Ballot papers See Elections
+Bank account details See Identification material
 Bank draft included in term “money” | 1
 Bank note, included in term “money” | 1
 Bank or wall of canal, sea, river, etc., interfering with | 458
@@ -545,7 +552,7 @@ Besetting See Stalking
 Bestiality | 181, 319(4)
 Bill of sale, fraudulent removal of goods | 389, 427
 Bird, included in term “animal” | 370
-Birth See also Abortion concealment of killing child at killing child before | 291 269, 271 290
+Birth See also Abortion concealment of information about See Identification material killing child at killing child before | 291 269, 271 290
 Boat See Ship; Vessel | 1
 Bodily harm See also Grievous bodily harm assault, occasioning circumstance of aggravation is— in burglary etc. in unlawful use of conveyance in sexual offences death, resulting in defined in defence of property See also Trespasser negligent act or omission causing police officer etc. suffering in assault robbery by person causing threat to commit See Threat unlawful act causing | 317 400(1) 390A 319(1) 274 1(1), (4) 251-256 304 318 392, 393 338 304
 Book— account, of See Account company, of, falsifying or destroying destroying, required in evidence falsification of See Account refusal to produce, before Parliament | 419(2), 548 132 59(1)
@@ -576,7 +583,8 @@ Certificate— false— procuring confinement of sane person on public officer, 
 Challenge to fight duel | 72
 Charge— conspiracy to make false fraudulent disposition of goods subject to of indictable offence, threatening to make— for extortion to induce crime of offence, compounding or concealing | 134 389, 427 398 398 136
 Cheque See also Valuable security included in term “money” | 1
-Child See also Young Offenders Act 1994— abduction of See Abduction birth, killing at concealing birth of correction by force defined desertion of human being, when it becomes illegitimate, taking away, by father killing at birth killing unborn necessaries of life for relative, offences against selling graffiti implement to sex offenders, consorting stealing article on person of publication of report without authority, unlawful unborn— killing surgical operation upon under 10, not criminally responsible under 13, sexual offences against under 14, criminal responsibility of under 16— outside WA, facilitating offences against sexual offences against under 18, sexual offences against | 269, 271 291 257 1 344 269 343 269, 271 290 262, 344 329 216 557K 343 343 343A 290 259 29 204B, 320 29 187 204A, 204B, 321, 321A 322, 331B-331D
+Child See also Young Offenders Act 1994— abduction of See Abduction birth, killing at concealing birth of correction by force defined desertion of exploitation material See Child exploitation material exploitation, involving a child in human being, when it becomes illegitimate, taking away, by father killing at birth killing unborn necessaries of life for pornography See Child exploitation material relative, offences against selling graffiti implement to sex offenders, consorting stealing article on person of publication of report without authority, unlawful unborn— killing surgical operation upon under 10, not criminally responsible under 13, sexual offences against under 14, criminal responsibility of under 16— outside WA, facilitating offences against sexual offences against under 18, sexual offences against | 269, 271 291 257 1 344 217 269 343 269, 271 290 262, 344 329 216 557K 343 343 343A 290 259 29 204B, 320 29 187 204A, 204B, 217, 321, 321A 322, 331B-331D
+Child exploitation material— defences to charges relating to defined distributing forfeiture of inviting etc. child to be involved in production of possession of producing | 221A 217A 219 221B 217 220 218
 Children’s Court, jurisdiction of not affected by Code | 1(6)
 Circumstance of aggravation— defined for burglary defined for Part V defined for sexual assaults defined for stalking | 400 221 319 338D
 Circumstances of racial aggravation, defined | 1, 80I
@@ -613,6 +621,7 @@ Corruption See also Abuse of office; Bribery; Secret commission agents, trustees
 Counselling See also Procuring commission of offence by person out of Western Australia person counselling, is a “principal offender” suicide | 7, 9 12, 13 7 288(2)
 Court See also Judge advertisement, inserting, without authority of constitution of, before which perjury committed immaterial contempt of See Contempt of court disobedience to order of obstructing officer executing order of of record, power of, to punish for contempt of court officer of— obstruction of refusal by, to perform duty | 142 124 178 151 CCAct s 7 151 173
 Court of summary jurisdiction See also Justice of the Peace charge that may be dealt with summarily, procedure on defined effect of conviction of indictable offence by | 5 1 3
+Credit card See Identification material
 Creditor— company of, false statement to defraud concealment of name of, on reduction of capital concealing or removing property to defraud | 420(a) 547(1), (2) 527
 Crime See also Criminal responsibility accessory after the fact to See Accessory arrest for See Arrest; Criminal investigation attempt to commit or to procure commission of See Attempt compounding conspiracy to commit person found armed, etc, with intent to commit preparation to commit prevention of See Criminal Investigation Act 2006 proceeds of See Proceeds of crime; Property laundering term “felony” in statute, by-law, etc, means | 562 4, 552, 556 136 558 407 474, 557 CCAct s 3(1)
 Criminal damage | 444
@@ -641,8 +650,8 @@ Declared drug traffickers, consorting | 557J
 Deed See also Document; Valuable security concealing falsely acknowledging procuring execution of, by threat | 381, 427 512 399
 Defacing See also Graffiti boundary mark marine light, beacon, etc See Marine light | 461 457
 Defamation | 345
-Defence See also Criminal responsibility; Evidence; Onus of proof accident against harmful act autrefois acquit See Autrefois acquit autrefois convict See Autrefois convict belief that child was 13 or over belief that child was 16 or over belief that child was 18 or over claim of right See Claim of right defence of property duress emergency former acquittal See Autrefois acquit former conviction See Autrefois convict home invasion against ignorance of law intoxication or stupefaction lawful authority married to victim necessity provocation self defence surgical operation for benefit of patient unwilled act or omission of custom, in cases of corruption of agents, etc of person against harmful act of property, against trespasser See Trespasser of want of knowledge— on indictment for attempting offence of age of victim on charge of— child-stealing consorting with child sex offender consorting with declared drug trafficker dealing with property used in connection with offence defamation fraud, against trustee or officer of company injuring property permitting carnal connection with child on premises possessing property suspected of being stolen etc. property laundering taking unlawful oath, compulsion, how far a self See Self-defence | 23B 248 17 17 204B(11) 186, 204A(4), 204B(10), 321(9), 321A(9) 322(7) 22 251-255 32 25 17 17 244 22 28 31 321(10), 321A(10), 322(8), 330(9) 265 246 248 259 23A 542 248 251-256 4 205, 331 343 557K 557J 563B 345 422 441 186 428 563A 49
-Defence force, officer of— giving information of, unlawful oath to order by, as to suppression of riot subject to Code and special Laws | 49 242 15
+Defence See also Criminal responsibility; Evidence; Onus of proof accident against harmful act autrefois acquit See Autrefois acquit autrefois convict See Autrefois convict belief that child was 13 or over belief that child was 16 or over belief that child was 18 or over claim of right See Claim of right defence of property duress emergency former acquittal See Autrefois acquit former conviction See Autrefois convict home invasion against ignorance of law intoxication or stupefaction lawful authority married to victim necessity provocation self defence surgical operation for benefit of patient unwilled act or omission of custom, in cases of corruption of agents, etc of person against harmful act of property, against trespasser See Trespasser of want of knowledge— on indictment for attempting offence of age of victim on charge of— child-stealing consorting with child sex offender consorting with declared drug trafficker dealing with property used in connection with offence defamation fraud, against trustee or officer of company injuring property permitting carnal connection with child on premises possessing property suspected of being stolen etc. property laundering taking unlawful oath, compulsion, how far a on charge relating to child exploitation material self See Self-defence | 23B 248 17 17 204B(11) 186, 204A(4), 204B(10), 321(9), 321A(9) 322(7) 22 251-255 32 25 17 17 244 22 28 31 321(10), 321A(10), 322(8), 330(9) 265 246 248 259 23A 542 248 251-256 4 205, 331 343 557K 557J 563B 345 422 441 186 428 563A 49 221A
+Defence force, officer of— giving information of, unlawful oath to order by, as to suppression of riot subject to Code and special laws | 49 242 15
 Defendant See Accused person
 Definitions See list of Defined Terms after the notes to this reprint
 Delusion, criminal responsibility in case of | 27
@@ -673,6 +682,7 @@ Document— alteration of See Alteration company of See Company concealment of S
 Domestic discipline | 257
 Draft, bank, term “money” includes | 1
 Drink spiking | 305A
+Driver’s licence See Identification material
 Drug See also Intoxicant; Misuse of Drugs Act 1981 administering— indictable offence, to commit injure, with intent to procure carnal connection, to possession of when armed possession of with intent to facilitate offence etc. traffickers, declared, consorting | 293 301(2) 192 68E 557D 557J
 Duel, challenge to fight | 72
 Duress, act or omission under, criminal responsibility for | 32
@@ -707,7 +717,7 @@ Fabricating evidence | 129
 Face, disguising, with intent to commit crime | 407(e)
 Fact— accessory after the See Accessory mistake of, criminal responsibility how affected by | 24
 Factor, pledge or lien by, when not deemed stealing | 372(2)
-False See also Fraudulent accounting See Account accusation, conspiracy to bring acknowledgment of deed, recognizance, etc belief as to offence, fire etc., creating books of account, etc, keeping See Account certificate See Certificate claim See Claim declaration See Declaration document See Document; Forgery and uttering evidence See Evidence; Perjury information to official light or signal See Marine light; Railway light pretence See also Fraudulent procuring person for carnal connection, by representation— certificate, as to being person named in debt of creditor, as to, on reduction of capital public officer, as to being testimony of witness, to affect report as to offence, fire etc., making return as to moneys received by public officer statement— as to the existence of threats official of company, by on oath or in statutory declaration public officer, by, touching remuneration security, to induce person to enter into testimony of witness, to affect testimony See Perjury writing See Document; Forgery; Writing | 134 512 171 170 192 513 547(2) 87 131 171 85 338C 420, 421, 422 169 85 420(b) 131
+False See also Fraudulent accounting See Account accusation, conspiracy to bring acknowledgment of deed, recognisance, etc belief as to offence, fire etc., creating books of account, etc, keeping See Account certificate See Certificate claim See Claim declaration See Declaration document See Document; Forgery and uttering evidence See Evidence; Perjury information to official light or signal See Marine light; Railway light pretence See also Fraudulent procuring person for carnal connection, by representation— certificate, as to being person named in debt of creditor, as to, on reduction of capital public officer, as to being testimony of witness, to affect report as to offence, fire etc., making return as to moneys received by public officer statement— as to the existence of threats official of company, by on oath or in statutory declaration public officer, by, touching remuneration security, to induce person to enter into testimony of witness, to affect testimony See Perjury writing See Document; Forgery; Writing | 134 512 171 170 192 513 547(2) 87 131 171 85 338C 420, 421, 422 169 85 420(b) 131
 Falsification of records, fraudulent | 424
 Family, duty of head of, to provide necessaries of life | 263
 Father See also Guardian; Parent sexual offences by | 329
@@ -730,7 +740,7 @@ Force See also Duress disorderly person, to remove, from land, vessel, etc domes
 Forcible entry on land | 69
 Forcible detainer of land | 70
 Foreign government, prosecution only at request | 556
-Forfeiture to State of things related to offence— general power to order for any offence under Ch XI under Ch LVIIA | 731 80J 557C
+Forfeiture to State of things related to offence— general power to order for any offence under Ch XI under Ch XXV under Ch LVIIA | 731 80J 221B 557C
 Forfeitures at common law, abolished | 730
 Forge, defined | 1
 Forgery and uttering preparation for | 473 474
@@ -863,7 +873,7 @@ Minister of Crown, interference with | 54(2)
 Minor See Age; Child
 Mistake of fact, criminal responsibility, how affected by | 24
 Mixing uncertified with certified articles | 549
-Money See also Bribery advanced on stolen property, offer to return agent for sale, received by stealing cash, possession of when armed collector of is “clerk” or “servant” defined direction in writing, held under stealing company, to, to induce person to make false statement fraudulently dealing with property to defeat order for immaterial on charge of exhibiting indecent show, etc order for, is “money” received— by agent for sale, stealing for another, is deemed the property of that other reward for See Reward stealing See Stealing | 138(2) 374 378(9) 68D 1 1 373 378(9) 420(b) 527 202, 203 1 374, 378(9) 375
+Money See also Bribery advanced on stolen property, offer to return agent for sale, received by stealing cash, possession of when armed collector of is “clerk” or “servant” company, to, to induce person to make false statement defined direction in writing, held under stealing fraudulently dealing with property to defeat order for immaterial on charge of exhibiting indecent show, etc order for, is “money” received— by agent for sale, stealing for another, is deemed the property of that other reward for See Reward stealing See Stealing | 138(2) 374 378(9) 68D 1 420(b) 1 373 378(9) 527 202, 203 1 374, 378(9) 375
 Morality, offences against | 181-205
 Mortgage See also Lien; Pledge goods subject to, destroying, damaging, fraudulent disposition of included in term “special property” | 389, 427 371(2)
 Mother See Guardian; Parent
@@ -917,6 +927,7 @@ Parliamentary elections, Ch XIV not to apply to | 94
 Parties to offence | 7-10
 Partner— criminal responsibility of of Agent, giving or receiving secret gift stealing by | 34 531 376
 Passion, assault in heat of | 246
+Passport See Identification material
 Pawn See Pledge
 Peace— breach of the See Breach of the peace neglect to aid in preserving oath to disturb public | 176 48(1)(c)
 Penal statute, bringing fictitious action on | 141
@@ -939,6 +950,7 @@ Police officer— aiding See Aiding escape from arrest, preventing not aiding, i
 Police station— indecent act in obscene act in | 203 202
 Political liberty, offence against | 75
 Polling-booth See Elections
+Pornography See Child exploitation material; Classification (Publications, Films and Computer Games) Enforcement Act 1996
 Port, damaging or interfering with work appertaining to | 458
 Possession of See also Using; Uttering instrument to commit crime See Instrument material for display to harass a racial group material for publication etc to incite racial hatred property, defending See Trespasser property suspected of being stolen etc., of stolen property See Stolen property things, includes control things to facilitate offences | 80C, 80D 79, 80 251-256 428 388, 414, 415, 426 1 557D-557I
 Post, things sent by, defined | 1
@@ -990,7 +1002,7 @@ Receipt, giving false to agent | 532
 Receives, defined | 1
 Receiving See also Receipt after change of ownership of property obtained outside WA joint charge of, convictions open stolen child under 16 stolen property, etc See Stolen property | 415 10I 343(2) 414, 426
 Recent possession See Suspected stolen property
-Recognizance See also Bail; Security falsely acknowledging | 512
+Recognisance See also Bail; Security falsely acknowledging | 512
 Record, defined | 1
 Recording, indecent See Indecent recording
 Records, fraudulent falsification | 424
@@ -1023,7 +1035,7 @@ Royalty concealing | 386, 427
 S
 Subject | Section
 Safety of person— endangering on aircraft, endangering | 266, 304, 305 294A, 451A
-Sale— graffiti implement of, to child intoxicant of, to person likely to abuse property, of held under direction received by agent | 216 206 373 374
+Sale— graffiti implement of, to child intoxicant of, to person likely to abuse property, of— held under direction received by agent | 216 206 373 374
 Samples See Forensic procedures
 Sanity, presumed | 26
 Schoolmaster, use of force by, by way of correction | 257
@@ -1046,9 +1058,9 @@ Servant See Clerk or servant; Employer; Master of ship; Public officer
 Setting or not removing man-trap | 305
 Severing with intent to steal | 383, 426
 Sex offenders, child, consorting | 557K
-Sexual activity See also Sexual behaviour by child under 16, material depicting may be “offensive material” by child under 16, procuring using electronic communication | 204A 204B
+Sexual activity See also Sexual behaviour by child under 16 — material depicting may be “child exploitation material” material depicting may be “offensive material” procuring using electronic communication | 217A 204A 204B
 Sexual behaviour See also Sexual activity compelling a person to engage in aggravated offence engaging in, defined procuring etc | 327, 331B 328 319(4) 320(3), 321(3), 322(3), 329(3), 330(3)
-Sexual offences See also Carnal connection child, against child under 16 against, outside WA, facilitating child relative, against incapable person, against indecent assault aggravated offence relative, by sexual coercion aggravated offence sexual penetration without consent aggravated offence sexual servitude | 204A, 204B, 320, 321, 321A, 322 187 329 330 323 324 329 327 328 325 326 331B, 331C
+Sexual offences See also Carnal connection child, against child under 16 against, outside WA, facilitating child relative, against incapable person, against indecent assault aggravated offence relative, by sexual coercion aggravated offence sexual penetration without consent aggravated offence sexual servitude | 204A, 204B, 217, 320, 321, 321A, 322 187 329 330 323 324 329 327 328 325 326 331B, 331C
 Sexual conduct with child under 16 | 321A
 Sexual services, deceptive recruiting for | 331D
 Shaft of mine, obstructing | 456(1)(a)
@@ -1091,7 +1103,7 @@ Summary conviction, defined | 1
 Summary conviction of indictable offences— generally procedure on See Criminal Procedure Act 2004 stealing and analogous indictable offences value of property, relevance to See Value of property | 1(5), 5 426, 427
 Summary conviction penalty, meaning and effect of | 5
 Summary jurisdiction See Summary conviction contempt of Court, in respect of | CCAct s 7
-Sureties See Bail Act 1982; Recognizance
+Sureties See Bail Act 1982; Recognisance
 Surgical operation See also Medical treatment criminal responsibility with reference to inoculation | 259, 265 259A
 Surrender to be demanded before extreme force used | 233
 Suspected stolen property, possession of | 428
@@ -1137,6 +1149,7 @@ Value of property, where relevant to charge or penalty | 378(5), 401(3), 409(2),
 Vegetation, capable of being property that can be destroyed or damaged by fire | 444A(4), 444(2)
 Vehicle See also Conveyance; Motor vehicle defined railway, obstructing stealing goods from unauthorised use of | 1 462 378(5)(c) 371A
 Vessel Also see Conveyance; Ship defined navigation of causing death or grievous bodily harm | 1 284
+Victim of offence See also Criminal Injuries Compensation Act 2003; Victims of Crime Act 1994
 Violence See also Assault execution of deed, etc, procuring, by interfering with political liberty by mentally impaired person, by, prevention of stealing with See Robbery threatening See also Threat to person in dwelling with stealing | 399 75 243 392 74 378(5)(b)
 Voting See Elections
 W
@@ -1144,7 +1157,6 @@ Subject | Section
 Wall of the sea, river, etc, interfering with | 458
 Warder permitting escape | 147
 Warrant— arrest of wrong person under arrest without See Arrest execution of erroneous irregular issued without jurisdiction obstructing officer in use of force in production of, if required search See Criminal Investigation Act 2006 | 229 226 227 230 228 151 231 231
-Subject | Section
 Water, causing to run into mine | 456(1)(a)
 Weapon See Armed; Instrument; Firearms Act 1973; Weapons Act 1999
 Western Australia— attempt to procure commission of criminal acts out of offence occurring partly in offence procured in, to be committed out of offence procured or counselled by person out of sexual offences outside, facilitating statutes of, repealed stolen goods, bringing, into | 556 12 14 13 187 CompAct s 2 388, 426
@@ -1154,6 +1166,7 @@ Wild animal, when capable of being stolen | 370, 372(1)
 Wilful murder See Murder
 Wilfully destroy or damage, defined | 443
 Will See also Intention concealing stealing | 380 378(1)
+Subject | Section
 Witness See also Evidence corruption of deceiving preventing attendance of Parliament, before, threatening protection of refusing to attend or give evidence before Parliament Royal commission, before, threatening | 130 131 133 58 738 59 128
 Woman See Girl; Spouse
 Wounding See also Assault; Bodily harm; Grievous bodily harm unlawfully with intent to do grievous bodily harm, etc | 301(1) 294(1)
