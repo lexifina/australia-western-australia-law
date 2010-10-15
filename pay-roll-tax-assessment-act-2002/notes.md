@@ -1,30 +1,23 @@
 Notes
-This is a compilation of the Pay-roll Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 15 October 2010 of the Pay-roll Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Pay-roll Tax Assessment Act 2002 | 48 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see. s. 2 and Gazette 27 Jun 2003 p. 2383)
 Business Tax Review (Assessment) Act 2003 Pt. 4 and 5 | 40 of 2003 | 30 Jun 2003 | 1 Jul 2003 (see s. 2(1))
 Revenue Laws Amendment and Repeal Act 2004 Pt. 3 | 12 of 2004 | 29 Jun 2004 | 29 Jun 2004 (see s. 2(1))
-Revenue Laws Amendment (Tax Relief) Act 2004 | 82 of 2004 | 8 Dec 2004 | Pt. 2 Div. 1 & 2: 1 Jan 2005 (see s. 2(2)); Pt. 2 Div. 3: 1 Jul 2006 (see s. 2(3))
+Revenue Laws Amendment (Tax Relief) Act 2004 Pt. 2 | 82 of 2004 | 8 Dec 2004 | Div. 1 and 2: 1 Jan 2005 (see s. 2(2)); Div. 3: 1 Jul 2006 (see s. 2(3))
 Revenue Laws Amendment Act 2005 Pt. 2 | 11 of 2005 | 30 Aug 2005 | 18 May 2005 (see s. 2(2))
-Reprint 1: The Pay-roll Tax Assessment Act 2002 as at 6 Jan 2006 (includes amendments listed above)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-Training Legislation Amendment and Repeal Act 2008 s. 59 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2008 (see s. 2(2))
+Reprint 1: The Pay-roll Tax Assessment Act 2002 as at 6 Jan 2006 (includes amendments listed above except those in the Revenue Laws Amendment (Tax Relief) Act 2004 Pt. 2 Div. 3)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Training Legislation Amendment and Repeal Act 2008 s. 59 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
 Pay-roll Tax Assessment Amendment Act 2010 Pt. 2 Div. 1 and 2 | 15 of 2010 | 25 Jun 2010 | 25 Jun 2010 (see s. 2(a))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 2: The Pay-roll Tax Assessment Act 2002 as at 15 Oct 2010 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Pay-roll Tax Assessment Amendment Act 2010 Pt. 2 Div. 3 | 15 of 2010 | 25 Jun 2010 | 1 Jul 2012 (see s. 2(b))
-The Revenue Laws Amendment (Tax Relief) Act 2004 s. 5(6) reads as follows:
-“
-(6) The amendments made by this section do not affect an exemption given before the coming into operation of this section.
-”.
-The Revenue Laws Amendment (Tax Relief) Act 2004 s. 15(7) reads as follows:
-“
-(7) The amendments made by this section do not affect an exemption given before the coming into operation of this section.
-”.
+Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 of the Commonwealth.
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 5 Div. 2 of those regulations read as follows:
-“
 1.Citation
 These regulations are the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
 2.Commencement
@@ -58,7 +51,7 @@ After section 4 the following section is inserted —
 (c) a reference to the Pay-roll Tax Act 2002 is to be read as a reference to that Act in its application as a law of Western Australia; and
 (d) a reference to the Taxation Administration Act 2003 is to be read as a reference to that Act in its application as a law of Western Australia.
 (2)This Act is to be read with the applied Pay-roll Tax Assessment Act as a single body of law.
-(3)In the following provisions, a reference to WA taxable wages is to be read as a reference to WA taxable wages as defined in this Act or WA taxable wages as defined in the applied Pay-roll Tax Assessment Act — sections 17(1) and (3) and 23(1) and the Glossary clause 1 (the definitions of “interstate non-group employer” and “local non-group employer”).
+(3)In the following provisions, a reference to WA taxable wages is to be read as a reference to WA taxable wages as defined in this Act or WA taxable wages as defined in the applied Pay-roll Tax Assessment Act — sections 17(1) and (3) and 23(1) and the Glossary clause 1 (the definitions of interstate non-group employer and local non-group employer).
 (4)In section 22A(6), a reference to WA taxable wages is to be read as a reference to WA taxable wages as defined in this Act and WA taxable wages as defined in the applied Pay-roll Tax Assessment Act.
 ”.
 29.Section 5 modified
@@ -117,9 +110,7 @@ Commonwealth Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Co
 “
 (3) In subclause (1)(a) and (b), a reference to Western Australia (except the reference inserted by the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 regulation 34(3)(a)) is to be read as not including Commonwealth places in Western Australia.
 ”.
-”.
 Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007. r. 1-5 and Pt. 5 Div. 2 of that notice read as follows:
-“
 1.Citation
 This notice is the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
 2.Commencement
@@ -158,7 +149,7 @@ After section 4 the following section is inserted —
 (c) a reference to the Pay-roll Tax Act 2002 is to be read as a reference to the Pay-roll Tax Act 2002 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
 (d) a reference to the Taxation Administration Act 2003 is to be read as a reference to the Taxation Administration Act 2003 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act.
 (2) This Act is to be read with the corresponding Pay-roll Tax Assessment Act as a single body of law.
-(3) In the following provisions, a reference to WA taxable wages is to be read as a reference to WA taxable wages as defined in this Act or WA taxable wages as defined in the corresponding Pay-roll Tax Assessment Act — sections 17(1) and (3) and 23(1) and the Glossary clause 1 (the definitions of “interstate non-group employer” and “local non-group employer”).
+(3) In the following provisions, a reference to WA taxable wages is to be read as a reference to WA taxable wages as defined in this Act or WA taxable wages as defined in the corresponding Pay-roll Tax Assessment Act — sections 17(1) and (3) and 23(1) and the Glossary clause 1 (the definitions of interstate non-group employer and local non-group employer).
 (4) In section 22A(6), a reference to WA taxable wages is to be read as a reference to WA taxable wages as defined in this Act and WA taxable wages as defined in the corresponding Pay-roll Tax Assessment Act.
 (5) In addition to being modified as prescribed by the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007, this Act is deemed to be further modified to any extent that is necessary or convenient —
 (a) to enable this Act to operate effectively as a law of the Commonwealth; and
@@ -224,8 +215,11 @@ corresponding Pay-roll Tax Assessment Act means the Pay-roll Tax Assessment Act 
 “
 (3) In subclause (1)(a) and (b), a reference to Western Australia (except the references inserted by the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007 clause 35(5)(a)) is to be read as referring only to Commonwealth places in Western Australia.
 ”.
-”.
-On the date as at which this compilation was prepared, the Pay-roll Tax Assessment Amendment Act 2010 Pt. 2 Div. 3 had not come into operation. It reads as follows:
+The Revenue Laws Amendment (Tax Relief) Act 2004 s. 5(6) reads as follows:
+(6) The amendments made by this section do not affect an exemption given before the coming into operation of this section.
+The Revenue Laws Amendment (Tax Relief) Act 2004 s. 15(7) reads as follows:
+(7) The amendments made by this section do not affect an exemption given before the coming into operation of this section.
+On the date as at which this reprint was prepared, the Pay-roll Tax Assessment Amendment Act 2010 Pt. 2 Div. 3 had not come into operation. It reads as follows:
 Division 3 — Amendments relating to grouping of employers
 20.Section 31 amended
 In section 31(4) delete the passage that begins with “section 38” and continues to the end of the subsection and insert:
@@ -315,40 +309,100 @@ Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 2004/5 year22A(1)
-actual value9BB(2)
+ABNGl.
+actual value9BB(2), Gl.
+actuaryGl.
 adoption leave41A(1)
-AV9BE(1)
+agentGl.
+annual threshold amountGl.
+apportioned threshold amountGl.
+assessment yearGl.
+Australian jurisdictionGl.
+Australian superannuation fundGl.
+businessGl.
 calculation provision22A(5)
+charitable body or organisationGl.
 Commonwealth income tax provisions9DD(1)
+companyGl.
+controlling interestGl.
+corporationGl.
+Corporations ActGl.
+corresponding lawGl.
+defined benefit fundGl.
+defined superannuation benefitGl.
+designated group employerGl.
+DGEGl.
+directorGl.
 employee9CA
-employer9CA
+employer9CA, Gl.
+employment agentGl.
 employment termination payment9EA(2)
+exemptGl.
 expected pay-roll tax liability28A(3), 29(1b)
-FBT rate9BB(1)
-first part of the tax period22A(4)
+FBT yearGl.
+FBTA ActGl.
+first part of the tax period22A(4)(a)(i)
 first period22A(2)
+fringe benefitGl.
+groupGl.
+GSTGl.
+individual superannuation guarantee shortfallGl.
 instrument6D(1)
+interstate non-group employerGl.
+interstate taxable wagesGl.
+ITA ActGl.
 local company9DH(1)
+local non-group employerGl.
 maternity leave41A(1)
-N9BE(1)
+monthly threshold amountGl.
+motor vehicle allowanceGl.
 new rate22A(2)
+nominated deductionGl.
+non-group employerGl.
+non-profit organisationGl.
 notional contribution9CA
 old rate22A(2)
+optionGl.
+paidGl.
 parental leave41A(1)
 part period factor22A(6)
+payGl.
+payableGl.
+pay-roll taxGl.
+pay-roll tax ActGl.
+pay-roll tax rateGl.
+progressive return periodGl.
+provideGl.
 quarter29(4d)
+registeredGl.
+registered business addressGl.
+related corporationGl.
 relevant day9DA(4)
 relevant part period22A(5)
-second part of the tax period22A(4)
+remote locationGl.
+returnGl.
+return periodGl.
+second part of the tax period22A(4)(a)(ii)
 second period22A(2)
-smaller group36(1), 36(2)
+shareGl.
+smaller group36(1) and (2), Gl.
+specified exempt allowanceGl.
+specified taxable benefitGl.
+StateGl.
 superannuation contribution9CA
+superannuation fundGl.
+Superannuation Guarantee ActGl.
 tax period22A(4)
-taxes42(2), 43(11)
+taxes42(2), 43(11), Gl.
+tax-reducing arrangementGl.
 termination payment9EA(2)
-TV9BB(1)
+TerritoryGl.
+trusteeGl.
 unused annual leave payment9EA(2)
 unused long service leave payment9EA(2)
-vesting day9DB(2), 9DB(3)
-WA taxable wages5(2)
-wages9AA(1)
+valueGl.
+vesting day9DB(2) and (3)
+voting shareGl.
+WA fringe benefitsGl.
+WA taxable wages5(2), Gl.
+wages9AA(1), Gl.
