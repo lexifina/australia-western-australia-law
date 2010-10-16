@@ -48,5 +48,5 @@ Item | Regulation | Matter to which regulation relates | Modified penalty $
 44. | 70(1)(d) | Acting in such a way as to cause a nuisance or annoyance to persons | 200
 45. | 70(3) | Writing etc. or distributing or otherwise disseminating indecent or obscene matter | 200
 46. | 71 | Causing or producing noise that unreasonably interferes with convenience, comfort or amenity of any person | 200
-47. | 72(1) | Consuming alcoholic liquor in unauthorised place | 200
-[Schedule 4 inserted in Gazette 8 Dec 2009 p. 5007-9.]
+47. | 72(1) | Consuming liquor in unauthorised place | 200
+[Schedule 4 inserted in Gazette 8 Dec 2009 p. 5007-9; amended in Gazette 15 Oct 2010 p. 5177.]
