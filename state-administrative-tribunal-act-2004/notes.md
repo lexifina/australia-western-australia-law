@@ -22,48 +22,23 @@ Legal Profession Act 2008 s. 706 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 2: The State Administrative Tribunal Act 2004 as at 16 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 120 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Pharmacy Act 2010 Pt. 8 Div. 2 | 32 of 2010 | 26 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5076)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 47 (except s. 157(3)) | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
-Pharmacy Act 2010 Pt. 8 Div. 2 | 32 of 2010 | 26 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5076)
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 47 | 35 of 2010 | 30 Aug 2010 | s. 156 & 157(1) and (2): 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5076-6) s. 157(3): to be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 s. 157(3) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Public Sector Reform Act 2010 s. 84 and 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Footnote no longer applicable.
-Repealed by the Optical Dispensers Repeal Act 2006.
 On the date as at which this compilation was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 had not come into operation. It reads as follows:
 82.State Administrative Tribunal Act 2004 amended
 (1) This section amends the State Administrative Tribunal Act 2004.
 (2) In Schedule 1 delete “Finance Brokers Control Act 1975”.
-On the date as at which this compilation was prepared, the Pharmacy Act 2010 Pt. 8 Div. 2 had not come into operation. It reads as follows:
-Part 8 — Consequential amendments
-Division 2 — State Administrative Tribunal Act 2004 amended
-75.Act amended
-This Division amends the State Administrative Tribunal Act 2004.
-76.Schedule 1 amended
-In Schedule 1 insert in alphabetical order:
-Pharmacy Act 2010
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 47 had not come into operation. It reads as follows:
+Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 157(3) had not come into operation. It reads as follows:
 Division 47 — State Administrative Tribunal Act 2004 amended
-156.Act amended
-This Division amends the State Administrative Tribunal Act 2004.
 157.Schedule 1 amended
-(1) In Schedule 1:
-(a) delete the items for:
-Chiropractors Act 2005
-Dental Act 1939
-Dental Prosthetists Act 1985
-Medical Practitioners Act 2008
-Nurses and Midwives Act 2006
-Optical Dispensers Act 1966
-Optometrists Act 2005
-Osteopaths Act 2005
-Physiotherapists Act 2005
-Podiatrists Act 2005
-Psychologists Act 2005
-(b) insert in alphabetical order:
-Health Practitioner Regulation National Law (Western Australia)
-(2) In Schedule 1 delete “Pharmacy Act 1964”.
 (3) In Schedule 1 delete the items for:
 Medical Radiation Technologists Act 2006
 Occupational Therapists Act 2005
