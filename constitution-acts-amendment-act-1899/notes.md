@@ -253,6 +253,8 @@ National Gas Access (WA) Act 2009 s. 68 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (
 Acts Amendment (Bankruptcy) Act 2009 s. 20 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Royalties for Regions Act 2009 Pt. 5 | 41 of 2009 | 3 Dec 2009 | 17 Jul 2010 (see s. 2(b) and Gazette 16 Jul 2010 p. 3357)
 Standardisation of Formatting Act 2010 s. 14, 43(2), 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Pharmacy Act 2010 Pt. 8 Div. 1 | 32 of 2010 | 26 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5076)
+Health Practitioner Regulation National Law (WA) Act 2010 s. 43, 44(2)-(6), (8) and (10)-(15) | 35 of 2010 | 30 Aug 2010 | s. 43, 44(2)-(6), (8) and (10)-(15): 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -260,9 +262,8 @@ Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 1
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 and 35 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative at “transfer time” fixed under the State Superannuation Act 2000 s. 56 (see s. 2(1)(c))
 Grain Marketing Repeal Act 2010 s. 4 | 30 of 2010 | 25 Aug 2010 | To be proclaimed (see s. 2(b))
-Pharmacy Act 2010 Pt. 8 Div. 1 | 32 of 2010 | 26 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5076)
 Health and Disability Services Legislation Amendment Act 2010 s. 55 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 10 | 35 of 2010 | 30 Aug 2010 | s. 43, 44(2)-(6), (8) and (10)-(15): 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6); s. 44(1), (7) and (9): to be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010s. 44(1), (7) and (9) | 35 of 2010 | 30 Aug 2010 | s. 43, 44(2)-(6), (8) and (10)-(15): 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6); s. 44(1), (7) and (9): to be proclaimed (see s. 2(b))
 Public Sector Reform Act 2010 s. 73 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
@@ -375,14 +376,7 @@ On the date as at which this compilation was prepared, the Grain Marketing Repea
 4.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete “The Grain Licensing Authority appointed under the Grain Marketing Act 2002.”.
-On the date as at which this compilation was prepared, the Pharmacy Act 2010 Pt. 8 Div. 1 had not come into operation. It reads as follows:
-Part 8 — Consequential amendments
-Division 1 — Constitution Acts Amendment Act 1899 amended
-73.Act amended
-This Division amends the Constitution Acts Amendment Act 1899.
-74.Schedule V Part 3 amended
-In Schedule V Part 3 insert in alphabetical order:
-The Pharmacy Registration Board of Western Australia established under the Pharmacy Act 2010.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Health and Disability Services Legislation Amendment Act 2010 s. 55 had not come into operation. It reads as follows:
 55.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
@@ -390,40 +384,16 @@ On the date as at which this compilation was prepared, the Health and Disability
 (a) delete “The Director appointed under the Health Services (Conciliation and Review) Act 1995.”;
 (b) insert in alphabetical order:
 Director of the Health and Disability Services Complaints Office appointed under the Health and Disability Services (Complaints) Act 1995.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 10 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 44(1), (7) and (9) had not come into operation. It reads as follows:
 Division 10 — Constitution Acts Amendment Act 1899 amended
-43.Act amended
-This Division amends the Constitution Acts Amendment Act 1899.
 44.Schedule V Part 3 amended
 (1) In Schedule V Part 3 insert in alphabetical order:
 The Aboriginal and Torres Strait Islander Health Practice Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
 The Chinese Medicine Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-(2) In Schedule V Part 3 delete the item commencing “The Chiropractors Registration Board of Western Australia” and insert:
-The Chiropractic Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-(3) In Schedule V Part 3 delete the item commencing “The Chiropodists Registration Board”.
-(4) In Schedule V Part 3 delete the item commencing “The Dental Board of Western Australia” and insert:
-The Dental Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-(5) In Schedule V Part 3 delete the item commencing “The Dental Charges Committee”.
-(6) In Schedule V Part 3 delete the item commencing “The Medical Board of Western Australia” and insert:
-The Medical Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
 (7) In Schedule V Part 3 delete the item commencing “The Medical Radiation Technologists Registration Board of Western Australia” and insert:
 The Medical Radiation Practice Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-(8) In Schedule V Part 3 delete the item commencing “The Nurses and Midwives Board of Western Australia” and insert:
-The Nursing and Midwifery Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
 (9) In Schedule V Part 3 delete the item commencing “The Occupational Therapists Registration Board of Western Australia” and insert:
 The Occupational Therapy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-(10) In Schedule V Part 3 delete the item commencing “The Optometrists Registration Board of Western Australia” and insert:
-The Optometry Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-(11) In Schedule V Part 3 delete the item commencing “The Osteopaths Registration Board of Western Australia” and insert:
-The Osteopathy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-(12) In Schedule V Part 3 insert in alphabetical order:
-The Pharmacy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-(13) In Schedule V Part 3 delete the item commencing “The Physiotherapists Registration Board of Western Australia” and insert:
-The Physiotherapy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-(14) In Schedule V Part 3 delete the item commencing “The Podiatrists Registration Board of Western Australia” and insert:
-The Podiatry Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-(15) In Schedule V Part 3 delete the item commencing “The Psychologists Registration Board of Western Australia” and insert:
-The Psychology Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
 On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 73 had not come into operation. It reads as follows:
 73.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
