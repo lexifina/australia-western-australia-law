@@ -55,11 +55,11 @@ Reprint 6: The Hospitals and Health Services Act 1927 as at 13 Feb 2009 (include
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 13 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 43 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 26 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 On the date as at which this was compiled, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 26 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 25 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
@@ -96,15 +96,6 @@ On the date as at which this compilation was prepared, the State Superannuation 
 Members of a superannuation scheme continued by section 29(c) or (d) of the State Superannuation Act 2000.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 26 had not come into operation. It reads as follows:
-Division 26 — Hospitals and Health Services Act 1927 amended
-92.Act amended
-This Division amends the Hospitals and Health Services Act 1927.
-93.Section 2 amended
-In section 2(1) delete the definition of practitioner and insert:
-practitioner includes —
-(a)a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession; and
-(b)any other person practising in the field of health or medicine who is declared by the Minister under section 3(5) to be a practitioner for the purposes of this Act;
 On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
 89.Various references to “Minister for Public Sector Management” amended
 (1) This section amends the Acts listed in the Table.

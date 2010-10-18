@@ -48,12 +48,12 @@ Reprint 6: The Prisons Act 1981 as at 16 Nov 2007 (includes amendments listed ab
 Police Amendment Act 2008 s. 16 and 23(6) | 8 of 2008 | 31 Mar 2008 | s. 16: 1 Apr 2008 (see s. 2(1)) s. 23(6): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Criminal Law Amendment (Homicide) Act 2008 s. 36(3) | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 41 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 16 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2)
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 41 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
@@ -85,16 +85,6 @@ Schedule 2 cl. 6(5) reads as follows:
 The amendments in the Corruption and Crime Commission Amendment and Repeal Act 2003 Sch. 2 cl. 11(3)-(6) are not included because the sections they sought to amend had been repealed by No. 75 of 2003 s. 56(1) before the amendment purported to come into operation.
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Sch. 1 cl. 25 (amendment to s. 23) was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 78(4).
 Footnotes no longer applicable.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 41 had not come into operation. It reads as follows:
-Division 41 — Prisons Act 1981 amended
-135.Act amended
-This Division amends the Prisons Act 1981.
-136.Section 3 amended
-In section 3(1) in the definition of medical practitioner delete paragraph (a) and “and” after it and insert:
-(a)a person who is registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession; and
-137.Section 46 amended
-In section 46 delete “a medical practitioner registered under the Medical Practitioners Act 2008” and insert:
-a person who is registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession
 On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 36(2) had not come into operation. It reads as follows:
 “
 36.Prisons Act 1981

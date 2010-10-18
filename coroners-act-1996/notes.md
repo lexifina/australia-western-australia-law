@@ -21,11 +21,11 @@ Courts Legislation Amendment and Repeal Act 2004 Pt. 8 | 59 of 2004 | 23 Nov 200
 Reprint 2: The Coroners Act 1996 as at 10 Jun 2005 (includes amendments listed above except those in the Children and Community Services Act 2004)
 Legal Profession Act 2008 s. 652 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 11 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 36(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 11 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 The provision of this Act repealing that Act has been omitted under s. 7(4)(f) of the Reprints Act 1984.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 36(2) had not come into operation. It reads as follows:
@@ -44,10 +44,3 @@ The Courts Legislation Amendment and Repeal Act 2004 s. 75(2) reads as follows:
 “
 (2) If immediately before the commencement of this section a person holds office as a Coroner’s clerk, then on the commencement the person is to be taken to have been appointed as a Coroner’s registrar.
 ”.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 11 had not come into operation. It reads as follows:
-Division 11 — Coroners Act 1996 amended
-45.Act amended
-This Division amends the Coroners Act 1996.
-46.Section 3 amended
-In section 3 delete the definition of doctor and insert:
-doctor means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;

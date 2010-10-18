@@ -23,18 +23,16 @@ Nurses and Midwives Act 2006 Sch. 3 cl. 19 | 50 of 2006 | 6 Oct 2006 | 19 Sep 20
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 107 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 73 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Reprint 3: The Radiation Safety Act 1975 as at 6 Nov 2009 (includes amendments listed above)
+Health Practitioner Regulation National Law (WA) Act 2010 142, 146 and 147(1) | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 44 | 35 of 2010 | 30 Aug 2010 | s. 142, 146 and 147(1): 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075); s. 143-145, 147(2)-(4), 148 and 149: to be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010s. 143-145, 147(2)-(4), 148 and 149 | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Repealed by section 5 of this Act.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 44 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 44 had not come into operation. It reads as follows:
-Division 44 — Radiation Safety Act 1975 amended
-142.Act amended
-This Division amends the Radiation Safety Act 1975.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 143-145, 147(2)-(4), 148 and 149 had not come into operation. They read as follows:
 143.Section 4 amended
 (1) In section 4 delete the definition of medical radiation technologist.
 (2) In section 4 insert in alphabetical order:
@@ -53,20 +51,7 @@ Delete section 13(2)(b)(vii) and insert:
 medical radiation practitioner
 Note:The heading to amended section 24A is to read:
 Disclosure of information to the Medical Radiation Practice Board of Australia
-146.Section 26 amended
-In section 26(2a):
-(a) delete “a nurse practitioner as defined in the Nurses and Midwives Act 2006” and insert:
-a person registered under the Health Practitioner Regulation National Law (Western Australia) whose name is entered on the Register of Nurses kept under that Law as being qualified to practise as a nurse practitioner
-(b) delete “a code of practice issued under section 100(1)(b)” and insert:
-a code or guidelines approved under section 39
 147.Section 27 amended
-(1) Delete section 27(2)(a) and “or” after it and insert:
-(a) the person was —
-(i) registered under the Health Practitioner Regulation National Law (Western Australia) in the chiropractic profession; or
-(ii) registered under the Health Practitioner Regulation National Law (Western Australia) in the dental profession whose name is entered on the Dentists Division of the Register of Dental Practitioners kept under that Law; or
-(iii) registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession; or
-(iv) registered under the Health Practitioner Regulation National Law (Western Australia) in the physiotherapy profession,
-and engaged in his or her professional practice, and was the holder of a relevant licence under this Act authorising him or her so to do; or
 (2) In section 27(2)(b) delete “medical radiation technology as defined in section 3 of the Medical Radiation Technologists Act 2006,” and insert:
 medical radiation technology,
 (3) In section 27(2)(ba)(i) delete “medical radiation technologist” and insert:
@@ -116,5 +101,5 @@ purchaser4
 radioactive substance4
 sell4
 seller4
-supervisor27(2)(bb)(i)
+supervisor27(2)
 the repealed Acts4

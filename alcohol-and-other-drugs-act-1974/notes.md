@@ -17,11 +17,11 @@ Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 8 | 77 of 2006 | 
 Medical Practitioners Act 2008 Sch. 3 cl. 2 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Acts Amendment (Bankruptcy) Act 2009 s. 8 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Reprint 2: The Alcohol and Drug Authority Act 1974 as at 5 Feb 2010 (includes amendments listed above)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 2 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 29 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 2 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 90 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Industrial Relations Act 1979.
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
@@ -35,13 +35,7 @@ On the date on which this reprint was prepared, the State Superannuation (Transi
 The Alcohol and Drug Authority Act 1974 is amended as follows:
 (a) in section 21(3)(a) by deleting “, and, subject to section 22, in particular his rights if any under the Superannuation and Family Benefits Act 1938”;
 (b) by repealing section 22.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 2 had not come into operation. It reads as follows:
-Division 2 — Alcohol and Drug Authority Act 1974 amended
-24.Act amended
-This Division amends the Alcohol and Drug Authority Act 1974.
-25.Section 4 amended
-In section 4 delete the definition of medical practitioner and insert:
-medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
+No longer applicable.
 On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 90 had not come into operation. It reads as follows:
 90.Various references to “Public Service Board” amended
 (1) This section amends the Acts listed in the Table.

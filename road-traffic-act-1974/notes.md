@@ -139,12 +139,12 @@ Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 2 | 39 of 
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 12 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Road Traffic Amendment Act 2010 | 20 of 2010 | 7 Jul 2010 | s. 1 and 2: 7 Jul 2010 (see s. 2(a)) Act other than s. 1 and 2: 1 Sep 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 45 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 (s. 27-30) | 39 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(g))
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 45 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Repealed by the Nurses and Midwives Act 2006.
 Repealed by the Interpretation Act 1984.
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
@@ -308,35 +308,10 @@ Section 104R(1) is amended by inserting before paragraph (b) —
 “
 (aa) an excessive demerit points (novice driver) notice; or
 ”.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 45 had not come into operation. It reads as follows:
-Division 45 — Road Traffic Act 1974 amended
-150.Act amended
-This Division amends the Road Traffic Act 1974.
-151.Section 63 amended
-Delete section 63(7)(a) and “and” after it and insert:
-(a) that those drugs were —
-(i) taken by him pursuant to a prescription of a medical practitioner, nurse practitioner or dentist; or
-(ii) administered to him by a medical practitioner, nurse practitioner or dentist,
-for therapeutic purposes; and
-152.Section 64AB amended
-Delete section 64AB(8)(a) and “and” after it and insert:
-(a) that the drug was —
-(i) taken pursuant to a prescription of a medical practitioner, nurse practitioner or dentist; or
-(ii) administered by a medical practitioner, nurse practitioner or dentist,
-for therapeutic purposes; and
-153.Section 65 amended
-(1) In section 65 delete the definitions of:
-medical practitioner
-registered nurse
-(2) In section 65 insert in alphabetical order:
-dentist means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the dental profession whose name is entered on the Dentists Division of the Register of Dental Practitioners kept under that Law;
-medical practitioner means a person who is registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
-nurse practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) whose name is entered on the Register of Nurses kept under that Law as being qualified to practise as a nurse practitioner;
-registered nurse means a person who is registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing and midwifery profession whose name is entered on Division 1 of the Register of Nurses kept under that Law as a registered nurse;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-alleged offender102(5a)
+alleged offender79BCA(1), 79D(2), 102(5a)
 amended provisions72A(1)
 analyst65
 another jurisdiction’s driving authorisation44B(4), 104C(2)
@@ -366,16 +341,16 @@ demerit point offence104(1)
 demerit point offence in WA104(1)
 demerit point registry jurisdiction104(1)
 demerit points register104(1)
+dentist65
 destroyed42E(7)
 director112(1)
 Director General5(1)
 disqualification period104M(1)
-disqualified76(13)(b)
+disqualified76(13)
 distance measuring equipment98A(1)
 district5(1)
 drive5(1)
-driver5(1), 49A(1), 54(1), (2) and (6), 55(1) and (4),
-56(1) and (4), 59(1), 59A(1), 79BC(1)
+driver 5(1), 49A(1), 54(1), (2) & (6), 55(1) & (4), 56(1) & (4), 59(1), 59A(1), 79BC(1)
 driver assessment65
 driver identity request58A(1)
 driver licence44C(2)
@@ -401,11 +376,14 @@ impounding offence (driving)78A
 impounding or confiscation order78A
 impounding order78A
 impounding period78A
-impounding provision 79BA(1)
+impounding provision79BA(1), 79BCA(5)
 infringement notice45(5), 104(1)
-interest80G(1), 80JA(1)
+initially impounded vehicle79BCA(1)
+interest80G(1)
+interest,80JA(1)
 item80J(1)
 jurisdiction5(1)
+label27AA, 40, 97(1)
 learner’s permit5(1)
 lent78A
 licence5(1), 8(1)
@@ -425,16 +403,17 @@ national demerit point offence schedule104(1)
 necessity permit49A(5)
 new licensing jurisdiction104P
 new owner24(2b)
-new provision113(5)
+notice to surrender79BCC(1)
 novice driver64AAA(2), 104(1)
 novice driver (type 1)104(1)
 novice driver (type 2)104(1)
 number plate5(1)
-offence79BA(1), 98(2c)
+nurse practitioner65
+offence79BA(1), 79BCA(1), 98(2c)
 offence particulars8(1)
-offender71B(1)
+offender71B(1), 80LA(1)
 omnibus5(1)
-optional number plates113(1)(a)
+optional number plates113(1)
 order80G(1), 81A
 owner5(1), 87(1)
 passenger vehicle5(1)
@@ -464,19 +443,25 @@ sample71A(1)
 section 104J election104(1)
 section 104J election period104(1)
 self-testing breath analysing equipment65
+selling expenses80LA(2)
 senior police officer78A
-shorter impounding period79BC(2) and (3)
+service79D(1)
+shorter impounding period79BC(2) & (3)
 specified day28A(3)
 speed measuring equipment98A(1)
 starting time104N(2)
 stock5(1)
 subject71A(1)
+substitute vehicle79BCA(4), 79B(3A)
 supply8(1)
 surrender notice79(1A), 79BA(2)
 surrender period78A
+surrender substitute vehicle notice79BCA(2)
+taxi79D(1)
+taxi operator,79D(1)
 technologist70(7)
-the present offence75(1a), (2)(c) and (2b), 105(a)
-time of sampling71(1)(c)
+the present offence75(1a), (2) & (2b), 105
+time of sampling71(1)
 traffic infringement notice5(1), 102(1)
 traffic regulation provisions of this Act5(1)
 uncollected vehicle80J(1)
@@ -484,6 +469,7 @@ undergoes65
 vehicle5(1), 79BA(1)
 vehicle licence charge5(1)
 vehicle referred to in section 80GA78A
-victim54(2) and (6)
+vehicle service provider79D(1)
+victim54(2) & (6)
 WA driving authorisation104C(3)
 warden5(1)

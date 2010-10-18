@@ -18,18 +18,25 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 129 | 8 of 2009 | 21
 Veterinary Surgeons Amendment Act 2009 | 9 of 2009 | 21 May 2009 | s. 1 and 2: 21 May 2009 (see s. 2(a)); Act other than s. 1 and 2: 12 Dec 2009 (see s. 2(b) and Gazette 11 Dec 2009 p. 5045)
 Acts Amendment (Bankruptcy) Act 2009 s. 87 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 49 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 The provision of this Act repealing those Acts has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Now known as Manager, Animal Industry Protection, Animal Protection Program.
 Repealed by s. 1(3) of this Act, which was omitted under the Reprints Act 1984 s. 7(4)(f).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 49 had not come into operation. It reads as follows:
-Division 49 — Veterinary Surgeons Act 1960 amended
-161.Act amended
-This Division amends the Veterinary Surgeons Act 1960.
-162.Section 28 amended
-In section 28(a) delete “any registered pharmaceutical chemist” and insert:
-a person registered under the Health Practitioner Regulation National Law (Western Australia) in the pharmacy profession
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+animal2
+Board2
+diploma2
+member2
+practice2
+practise2
+Register2
+registered veterinary surgeon2
+Registrar2
+unprofessional conduct as a veterinary surgeon23(4)
+veterinary clinic2
+veterinary hospital2
+veterinary nurse2
+veterinary surgery2

@@ -18,19 +18,13 @@ Reprint 2: The Criminal Property Confiscation Act 2000 as at 20 Mar 2009 (includ
 Acts Amendment (Bankruptcy) Act 2009 s. 27 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Co-operatives Act 2009 s. 508 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 18 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 513 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 18 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 18 had not come into operation. It reads as follows:
-Division 18 — Criminal Property Confiscation Act 2000 amended
-59.Act amended
-This Division amends the Criminal Property Confiscation Act 2000.
-60.Glossary amended
-In the Glossary delete the definition of medical practitioner and insert:
-medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 513 had not come into operation. It reads as follows:
 513.Criminal Property Confiscation Act 2000 amended
 (1) This section amends the Criminal Property Confiscation Act 2000.

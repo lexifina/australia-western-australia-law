@@ -38,11 +38,11 @@ Security and Related Activities (Control) Amendment Act 2008 s. 81 | 4 of 2008 |
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 5: The Firearms Act 1973 as at 9 Jan 2009 (includes amendments listed above except those in the Security and Related Activities (Control) Amendment Act 2008 s. 81)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 58 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 20 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 37 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 20 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 The provision in this Act repealing the Firearms and Guns Act 1931 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision that is of no further effect.
 The Firearms Amendment Act 1996 s. 9(2), 10(2), 11(2), 15(2), 39 and 53 are transitional, savings and related provisions that are of no further effect.
@@ -95,18 +95,6 @@ department means the department principally assisting in the administration of t
 (d) by deleting the definition of “subsection”;
 (e) by deleting the definition of “the Board”.
 ”.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 20 had not come into operation. It reads as follows:
-Division 20 — Firearms Act 1973 amended
-63.Act amended
-This Division amends the Firearms Act 1973.
-64.Section 4 amended
-In section 4 delete the definition of medical practitioner and insert:
-medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
-65.Section 23B amended
-(1) In section 23B(3) in the definition of health professional delete paragraph (b) and insert:
-(b)a person registered under the Health Practitioner Regulation National Law (Western Australia) in the psychology profession;
-(2) In section 23B(3) delete the definition of registered nurse and insert:
-registered nurse means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing and midwifery profession whose name is entered on Division 1 of the Register of Nurses kept under that Law as a registered nurse.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

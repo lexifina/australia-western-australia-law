@@ -53,12 +53,12 @@ Medical Practitioners Act 2008 Sch. 3 cl. 4 | 22 of 2008 | 27 May 2008 | 1 Dec 2
 Criminal Law Amendment (Homicide) Act 2008 s. 24 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Reprint 7: The Bail Act 1982 as at 6 Mar 2009 (includes amendments listed above)
 Police Amendment Act 2009 s. 12 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 4 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 3 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 4 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The short title of the Justices Act 1902 was changed to the Criminal Procedure (Summary) Act 1902 by the Courts Legislation Amendment and Repeal Act 2004 s. 25. The Act was then repealed by the Criminal Procedure and Appeal (Consequential and Other Provisions) Act 2004.
 The amendment in the Sentencing Legislation Amendment and Repeal Act 1999 s. 26 had not come into operation when it was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -191,13 +191,6 @@ s. 50D(1)(a) | Sch. 1 Part D cl. 3(3)(e)
 Note:The headings to sections 27A, 50A, 50E, 50F and 50J will be altered by deleting “(Justice)”.
 ”.
 The amendments to the Bail Act 1982 in the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 cl. 31(1)(b) and (c), cl. 32 and 33 would conflict with amendments by the Prisons and Sentencing Legislation Amendment Act 2006 Pt. 5.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 4 had not come into operation. It reads as follows:
-Division 4 — Bail Act 1982 amended
-28.Act amended
-This Division amends the Bail Act 1982.
-29.Schedule 1 amended
-In Schedule 1 Part D clause 2(7) delete the definition of medical practitioner and “and” after it and insert:
-medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

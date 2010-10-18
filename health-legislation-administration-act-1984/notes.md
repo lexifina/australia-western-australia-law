@@ -12,10 +12,10 @@ Reprint of the Health Legislation Administration Act 1984 as at 11 Jan 2002 (inc
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 23 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 23 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Under the Interpretation Act 1984 s. 16, a reference to the Industrial Arbitration Act 1979 may be read as a reference to the Industrial Relations Act 1979. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Repealed by the Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984.

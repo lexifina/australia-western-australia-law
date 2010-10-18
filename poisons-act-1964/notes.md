@@ -121,11 +121,11 @@ Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (s
 Reprint 8: The Poisons Act 1964 as at 13 Feb 2009 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 101 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 67 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 40 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 93 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 40 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 The designation of Ministers may be altered by the Governor under the Alteration of Statutory Designations Act 1974. As at the date of this compilation the former Minister for Agriculture is known as the Minister for Agriculture and Food.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 40 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
@@ -150,102 +150,6 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 under the Biosecurity and Agriculture Management Act 2007
 ”.
 ”.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 40 had not come into operation. It reads as follows:
-Division 40 — Poisons Act 1964 amended
-123.Act amended
-This Division amends the Poisons Act 1964.
-124.Section 5 amended
-(1) In section 5(1) delete the definitions of:
-dentist
-medical practitioner
-nurse practitioner
-pharmaceutical chemist
-(2) In section 5(1) insert in alphabetical order:
-dentist means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the dental profession whose name is entered on the Dentists Division of the Register of Dental Practitioners kept under that Law;
-endorsed health practitioner, in relation to a scheduled medicine or class of scheduled medicine, means a health practitioner who is registered under the Health Practitioner Regulation National Law (Western Australia) to practise a health profession and whose registration is endorsed to administer, obtain, possess, prescribe, sell, supply or use the scheduled medicine or class of scheduled medicine;
-medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
-medicine means a substance included in Schedule 2, 3, 4 or 8;
-nurse practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) whose name is entered on the Register of Nurses kept under that Law as a being qualified to practise as a nurse practitioner;
-pharmacist means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the pharmacy profession;
-125.Section 8 amended
-(1) Delete section 8(3)(g) and “and” after it and insert:
-(g) one is to be a person nominated by the Pharmacy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia) section 31(1); and
-(2) In section 8(3) after each of paragraphs (a), (b), (c), (d), (e) and (f) insert:
-and
-126.Section 20 amended
-Delete section 20(2) and insert:
-(2) A Schedule includes substances of the kind described in the Table for the Schedule.
-Table
-Schedule 1 — [Blank]
-Schedule 2 — Pharmacy medicines Substances, the safe use of which may require advice from a pharmacist and which should be available from a pharmacy or, where a pharmacy service is not available, from a licensed person.
-Schedule 3 — Pharmacist only medicines Substances, the safe use of which requires professional advice but which should be available to the public from a pharmacist without a prescription.
-Schedule 4 — Prescription only medicines, or Prescription Animal Remedy Substances, the use or supply of which should be by or on the order of persons permitted under the Act to prescribe and should be available from a pharmacist on prescription.
-Schedule 5 — Caution Substances with a low potential for causing harm, the extent of which can be reduced through the use of appropriate packaging with simple warnings and safety directions on the label.
-Schedule 6 — Poison Substances with a moderate potential for causing harm, the extent of which can be reduced through the use of distinctive packaging with strong warnings and safety directions on the label.
-Schedule 7 — Dangerous Poison Substances with a high potential for causing harm at low exposure and which require special precautions during manufacture, handling or use. These poisons should be available only to specialised or authorised users who have the skills necessary to handle them safely. Special regulations restricting their availability, possession, storage or use may apply.
-Schedule 8 — Controlled Drug Substances which should be available for use but require restriction of manufacture, supply, distribution, possession and use to reduce abuse, misuse and physical or psychological dependence.
-Schedule 9 — Prohibited Substance Substances which may be abused or misused, the manufacture, possession, sale or use of which should be prohibited by law except when required for medical or scientific research, or for analytical, teaching or training purposes with approval of the CEO.
-127.Section 23 amended
-(1) In section 23(2)(a) delete “a pharmaceutical chemist” and insert:
-a pharmacist
-(2) After section 23(3) insert:
-(4A) If the CEO gives a dentist, medical practitioner, nurse practitioner or pharmacist a notice pursuant to any regulations made under section 64(2)(ha), the CEO may give a copy of the notice to the National Board as defined in the Health Practitioner Regulation National Law (Western Australia) section 5 for the person’s health profession.
-(4B) Subject to this Act, a person who is a member of a prescribed class of endorsed health practitioner is authorised in the lawful practice of his or her profession to do any one or more of the following things in relation to a medicine as is prescribed in relation to the prescribed class —
-(a) possess;
-(b) use;
-(c) supply;
-(d) sell;
-(e) prescribe.
-(4C) The authorisation given by subsection (4B) is subject to —
-(a) such conditions and restrictions as may be prescribed; and
-(b) any notice given by the CEO pursuant to any regulations made under section 64(2)(ha).
-(4D) If the CEO gives an endorsed health practitioner a notice pursuant to any regulations made under section 64(2)(ha), the CEO may give a copy of the notice to the National Board as defined in the Health Practitioner Regulation National Law (Western Australia) section 5 that endorsed the registration of the health practitioner.
-(4E) Subsection (4B) does not authorise a person to sell any poison in an open shop unless the person is licensed under this Act to do so.
-128.Section 24 amended
-(1) In section 24(1) delete “or at any pharmacy or other premises or” and insert:
-premises or at a
-(2) Delete section 24(4).
-129.Section 26 amended
-In section 26(2) delete “pharmacy or other”.
-130.Section 30 amended
-(1) In section 30(1):
-(a) delete “pharmaceutical chemist;” and insert:
-pharmacist;
-(b) delete “pharmaceutical chemist” (second and third occurrences) and insert:
-pharmacist
-(2) In section 30(2):
-(a) delete “pharmaceutical chemist” and insert:
-pharmacist
-(b) delete “pharmaceutical chemist,” and insert:
-pharmacist,
-(3) In section 30(3) delete the definition of friendly society and insert:
-friendly society means a company that is a friendly society under the Corporations Act and that —
-(a)provides mutual benefits to its members; and
-(b)is a non-profit organisation; and
-(c)has a constitution that provides that the main object of the company is to carry on the business of pharmacy.
-131.Section 50 amended
-In section 50(2) delete “pharmaceutical chemists” and insert:
-pharmacists
-132.Section 55C amended
-In section 55C after “provisions of the” insert:
-Health Practitioner Regulation National Law (Western Australia) or the
-Note:The heading to amended section 55C is to read:
-Sections 54 to 55A do not derogate from the Health Practitioner Regulation National Law (Western Australia) or the Misuse of Drugs Act 1981
-133.Section 61 replaced
-Delete section 61 and insert:
-61.Evidence of qualifications
-In all courts and before all persons and bodies authorised to receive evidence, in the absence of evidence to the contrary —
-(a) a certificate purporting to be issued by the CEO and stating that a person is or is not, or was or was not, on a certain date or for a certain period the holder of a licence, permit or authority under this Act is evidence of that matter; and
-(b) the production of a copy of the Gazette containing the list as last published under section 59 in relation to the time in question of persons holding licences or permits under this Act is, if the name of the accused does not appear in the list, prima facie proof that he or she is not a person who holds a licence or permit under this Act; and
-(c) a certificate purporting to be issued by the Registrar as defined in the Veterinary Surgeons Act 1960 section 2 that any person is or is not, or was or was not, on a certain date or for a certain period a registered veterinary surgeon is evidence of that matter.
-134.Section 64 amended
-In section 64(2):
-(a) in paragraph (ha) delete “section 23(2) in relation to drugs of addiction or specified drugs or both;” and insert:
-section 23(2) or (4B) in relation to a poison or medicine;
-(b) in paragraph (q) delete “pharmaceutical chemist” and insert:
-pharmacist
-(c) in paragraph (r) delete “pharmaceutical chemists” and insert:
-pharmacists
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -261,6 +165,7 @@ dentist5(1)
 department5(1)
 document5(1)
 drug of addiction5(1)
+endorsed health practitioner5(1)
 environmental health officer5(1)
 friendly society30(3)
 internal use5(1)
@@ -269,11 +174,12 @@ labelled5(1)
 licence5(1)
 licensee5(1)
 medical practitioner5(1)
+medicine5(1)
 member5(1)
 needle and syringe programme5(1)
 nurse practitioner5(1)
 package5(1)
-pharmaceutical chemist5(1)
+pharmacist5(1)
 poison5(1)
 prohibited plant5(1)
 sale5(1)
@@ -283,7 +189,6 @@ specified drug5(1)
 standard5(1)
 subsidiary legislation21(2)
 substance5(1)
-SUSDPApp. A cl. 1
 to sell5(1)
 veterinary surgeon5(1)
 wholesale dealing5(1)

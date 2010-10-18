@@ -44,16 +44,16 @@ Officers and firemen of permanent fire brigades.
 Pilots employed by the Royal Flying Doctor Service.
 [Clause 1 inserted by No. 59 of 1984 s. 23.]
 2.Health.
-Medical practitioners registered under the Medical Practitioners Act 2008 if actually practising.
-Dentists registered under the Dental Act 1939 if actually practising.
+A person registered under the Health Practitioner Regulation National Law (Western Australia) in the chiropractic profession if actually practising.
+A person registered under the Health Practitioner Regulation National Law (Western Australia) in the dental profession whose name is entered on the Dentists Division of the Register of Dental Practitioners kept under that Law if actually practising.
+A person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession if actually practising.
+A person registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing and midwifery profession if actually practising.
+A person registered under the Health Practitioner Regulation National Law (Western Australia) in the osteopathy profession if actually practising.
+A person registered under the Health Practitioner Regulation National Law (Western Australia) in the pharmacy profession if actually in business whether as principal or manager for a principal.
+A person registered under the Health Practitioner Regulation National Law (Western Australia) in the physiotherapy profession if actually practising.
+A person registered under the Health Practitioner Regulation National Law (Western Australia) in the psychology profession if actually practising.
 Veterinary surgeons registered under the Veterinary Surgeons Act 1960 if actually practising.
-Psychologists registered under the Psychologists Act 2005 if actually practising.
-Midwives and nurses registered under the Nurses and Midwives Act 2006 if actually practising.
-Chiropractors registered under the Chiropractors Act 2005 if actually practising.
-Physiotherapists registered under the Physiotherapists Act 2005 and in private practice.
-Pharmaceutical chemists registered under the Pharmacy Act 1964 and actually in business whether as principal or manager for a principal.
-Osteopaths registered under the Osteopaths Act 2005 if actually practising.
-[Clause 2 inserted by No. 59 of 1984 s. 23; amended by No. 58 of 1997 s. 97; No. 28 of 2005 Sch. 3 cl. 7; No. 31 of 2005 Sch. 3 cl. 5; No. 32 of 2005 Sch. 3 cl. 5; No. 33 of 2005 Sch. 3 cl. 5; No. 50 of 2006 Sch. 3 cl. 12; No. 22 of 2008 Sch. 3 cl. 31.]
+[Clause 2 inserted by No. 35 of 2010 s. 102.]
 3.Religion.
 Persons in holy orders, or who preach or teach in any religious congregation, but only if they follow no secular occupation except that of a schoolteacher.
 [Clause 3 inserted by No. 59 of 1984 s. 23.]
