@@ -3,11 +3,11 @@ This is a compilation of the Biosecurity and Agriculture Management Act 2007. Th
 Compilation table
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management Act 2007 | 23 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; Pt. 1 (other than s. 1 and 2), Pt. 2 Div. 6, Pt. 7 Div. 1 and s. 181 and 187: 24 Oct 2007 (see s. 2 and Gazette 23 Oct 2007 p. 5643); s. 22, Pt. 4 and 5, Pt. 6 Div. 1 SubDiv 1, Div. 2 and 3, Pt. 7 Div. 2, 3 and 6, s. 182, Pt. 8 (other than s. 193) and Sch. 1: 22 May 2010 (see s. 2 and Gazette 21 May 2010 p. 2177)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 5 | 35 of 2010 | 1 Oct 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, Div. 3 (other than s. 22), Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2 and 3, Pt. 7 Div. 4 and 5, s. 183-186, s. 193 and Pt. 9 | 23 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2)
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 5 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, s. 23-42, Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2 and 3, Pt. 7 Div. 4 and 5, s. 183-186, s. 193 and Pt. 9 have not come into operation. They read as follows:
 “
@@ -596,16 +596,7 @@ Part 9 — Miscellaneous
 (b) any other matters that appear to the Minister to be relevant to the operation and effectiveness of this Act.
 (2) The Minister must prepare a report based on the review carried out under subsection (1) and, as soon as is practicable after the preparation of the report, cause it to be laid before each House of Parliament.
 ”.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 5 had not come into operation. It reads as follows:
-Division 5 — Biosecurity and Agriculture Management Act 2007 amended
-30.Act amended
-This Division amends the Biosecurity and Agriculture Management Act 2007.
-31.Section 6 amended
-In section 6 in the definition of veterinary chemical product paragraph (a)(i) delete “pharmaceutical chemist registered under the Pharmacy Act 1964” and insert:
-person registered under the Health Practitioner Regulation National Law (Western Australia) in the pharmacy profession
-32.Section 118 amended
-In section 118(1)(m) delete “or a pharmaceutical chemist.” and insert:
-or a person registered under the Health Practitioner Regulation National Law (Western Australia) in the pharmacy profession.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
 89.Various references to “Minister for Public Sector Management” amended
 (1) This section amends the Acts listed in the Table.

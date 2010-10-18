@@ -30,12 +30,13 @@ Compilation table
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 73 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 40 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Health Practitioner Regulation National Law (WA) Act 2010 s. 79-90 and 91(1)-(3) | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Health and Disability Services Legislation Amendment Act 2010 Pts. 2 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 25 | 35 of 2010 | 30 Aug 2010 | s. 79-90 and 91(1)-(3): 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075) s. 91(4) and (5): to be proclaimed (see s. 2(b))
+Health and Disability Services Legislation Amendment Act 2010 Pts. 2 | 33 of 2010 (as amended by 35 of 2010 s. 83(3)) | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
+Health Practitioner Regulation National Law (WA) Act 2010 s. 91(4) and (5) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -231,65 +232,8 @@ Delete section 80 and insert:
 80.Transitional provisions
 (1) A reference in any written law or other document to the Director of the Office of Health Review is to be taken to be a reference to the Director.
 (2) A reference in any written law or other document to the Office of Health Review is to be taken to be a reference to the Office.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 25 had not come into operation. It reads as follows:
-Division 25 — Health Services (Conciliation and Review) Act 1995 amended
-79.Act amended
-This Division amends the Health Services (Conciliation and Review) Act 1995 (citation changed to the Health and Disability Services (Complaints) Act 1995 by the Health and Disability Services Legislation Amendment Act 2010 section 5).
-80.Section 11 amended
-In section 11(2) delete “or 46”.
-81.Section 31 replaced
-Delete section 31 and insert:
-31.Complaints not dealt with by National Board under the Health Practitioner Regulation National Law (Western Australia)
-If a complaint, or an element of a complaint, relates to a registered provider and the complaint, or the element of the complaint, is not to be dealt with under the Health Practitioner Regulation National Law (Western Australia) section 150 by the National Board established for the provider’s health profession, the Director may deal with the complaint, or the element of the complaint, under this Part.
-32A.Notice that complaint being dealt with by National Board
-If a complaint, or an element of a complaint, is being dealt with by a National Board under the Health Practitioner Regulation National Law (Western Australia) section 150, the Director must within 28 days of the Board beginning to so deal with it notify the user that the Board is dealing with it.
-82.Section 33 amended
-In section 33:
-(a) delete “31 or”;
-(b) in paragraph (b) delete “registration board,”.
-83.Section 34 amended
-(1) In section 34(1) delete “complaint” and insert:
-complaint, or an element of a complaint, that is not to be dealt with by the National Board established for a registered provider’s health profession,
-(2) If this section comes into operation after the Health and Disability Services Legislation Amendment Act 2010 section 17 comes into operation —
-(a) in the Health Services (Complaints) Act 1995 section 34(1)(c) (as inserted by the Health and Disability Services Legislation Amendment Act 2010 section 17) delete “section 28, 31 or 32,” and insert:
-section 28 or 32,
-(b) delete subsection (3).
-(3) If this section comes into operation before the Health and Disability Services Legislation Amendment Act 2010 section 17 comes into operation —
-(a) in the Health and Disability Services Legislation Amendment Act 2010 section 17(1) delete “section 28, 31 or 32,” and insert:
-section 28 or 32,
-(b) delete subsection (2).
-(4) Delete section 34(5).
-84.Section 35 amended
-(1) Delete section 35(1)(b) and “and” after it.
-(2) After paragraph (a) insert:
-and
-85.Section 43 amended
-Delete section 43(3).
-86.Section 44 amended
-Delete section 44(3).
-87.Section 46 deleted
-Delete section 46.
-88.Section 49 deleted
-Delete section 49.
-89.Sections 53, 54 and 55 deleted
-Delete sections 53, 54 and 55.
-90.Section 71 amended
-In section 71(5)(d) delete “44(3),”.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 91(4) and (5) had not come into operation. They read as follows:
 91.Schedule 1 amended
-(1) In Schedule 1 delete “[Sections 3 and 54]” and insert:
-[s. 3]
-(2) Delete Schedule 1 items 1, 2, 3, 4, 6, 6a, 7, 8, 9 and 10.
-(3) In Schedule 1 insert in alphanumerical order:
-1.Chiropractor Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-2.Dental Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-3.Medical Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-4.Nursing and Midwifery Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-6.Optometry Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-6a.Osteopathy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-7.Pharmacy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-8.Physiotherapy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-9.Podiatry Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-10.Psychology Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
 (4) Delete Schedule 1 items 3a and 5.
 (5) In Schedule 1 insert in alphanumerical order:
 1a.Aboriginal and Torres Strait Islander Health Practice Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).

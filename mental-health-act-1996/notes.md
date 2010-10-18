@@ -19,10 +19,11 @@ Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see
 Reprint 2: The Mental Health Act 1996 as at 12 Jan 2007 (includes amendments listed above except those in the Occupational Therapists Act 2005 and the Nurses and Midwives Act 2006)
 Legal Profession Act 2008 s. 680 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+Health Practitioner Regulation National Law (WA) Act 2010 s. 109-111 and 112(1) | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 34 | 35 of 2010 | 30 Aug 2010 | s. 109-111 and 112(1): 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075) s. 112(2): to be proclaimed (see s. 2(b))
+Health Practitioner Regulation National Law (WA) Act 2010 s. 112(2) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The Mental Health (Consequential Provisions) Act 1996 Pt. 12 Div. 2 (s. 53-72 inclusive) reads as follows:
 “
@@ -183,27 +184,8 @@ CEO has the meaning given by section 3 of the Health Legislation Administration 
 commencement means the time at which this Division comes into operation;
 Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
 ”.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 34 had not come into operation. It reads as follows:
-Division 34 — Mental Health Act 1996 amended
-109.Act amended
-This Division amends the Mental Health Act 1996.
-110.Section 3 amended
-(1) In section 3 delete the definitions of:
-medical practitioner
-psychiatrist
-psychologist
-(2) In section 3 insert in alphabetical order:
-medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
-psychiatrist means a person whose name is contained in the register of specialist psychiatrists kept by the Medical Board of Australia under the Health Practitioner Regulation National Law (Western Australia) section 223;
-psychologist means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the psychology profession;
-111.Section 17 deleted
-Delete section 17.
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 112(2) had not come into operation. It reads as follows:
 112.Section 19 amended
-(1) Delete section 19(1)(b) and “or” after it and insert:
-(b) a person —
-(i) registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing and midwifery profession; or
-(ii) registered as an occupational therapist under the Occupational Therapists Act 2005;
-or
 (2) Delete section 19(1)(b) and “or” after it and insert:
 (b) a person —
 (i) registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing and midwifery profession; or

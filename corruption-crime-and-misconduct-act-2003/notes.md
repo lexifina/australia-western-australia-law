@@ -23,10 +23,10 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 41 | 8 of 2009 | 21 
 Acts Amendment (Bankruptcy) Act 2009 s. 23 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Reprint 4: The Corruption and Crime Commission Act 2003 as at 2 Jul 2010 (includes amendments listed above)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 12 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 12 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 74 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Now called the Telecommunications (Interception and Access) Act 1979 (Commonwealth).
@@ -127,15 +127,7 @@ to or in relation to any matter.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not operate so as to —
 (a) affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 12 had not come into operation. It reads as follows:
-Division 12 — Corruption and Crime Commission Act 2003 amended
-47.Act amended
-This Division amends the Corruption and Crime Commission Act 2003.
-48.Section 54 amended
-Delete section 54(1) and insert:
-(1) In this section —
-medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
-registered nurse means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing and midwifery profession whose name is entered on Division 1 of the Register of Nurses kept under that Law as a registered nurse.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 74 had not come into operation. It reads as follows:
 74.Corruption and Crime Commission Act 2003 amended
 (1) This section amends the Corruption and Crime Commission Act 2003.

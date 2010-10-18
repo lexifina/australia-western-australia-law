@@ -19,11 +19,11 @@ Criminal Investigation (Consequential Provisions) Act 2006 Pt. 13 | 59 of 2006 |
 Criminal Law and Evidence Amendment Act 2008 s. 69 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 s. 14 | 21 of 2010 | 7 Jul 2010 | 28 Aug 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 42 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 Pt. 2 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 42 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 Pt. 2 had not come into operation. It reads as follows:
@@ -559,12 +559,35 @@ s. 6(1) | s. 6(3)(a) | s. 6(4)(c)
 s. 6(2)(a) | s. 6(3)(b)(i)
 s. 6(3) | s. 6(3)(b)(ii)
 ”.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 42 had not come into operation. It reads as follows:
-Division 42 — Prostitution Act 2000 amended
-138.Act amended
-This Division amends the Prostitution Act 2000.
-139.Section 29 amended
-Delete section 29(7) and insert:
-(7) In this section —
-medical practitioner means a person who is registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
-registered nurse means a person who is registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing and midwifery profession whose name is entered on Division 1 of the Register of Nurses kept under that Law as a registered nurse.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+act as a prostitute3
+act of prostitution3
+administrative head57(4)
+child3
+client3
+Commissioner22(1)
+Commissioner of Police3
+conveyance22(1)
+document3
+family order48(2)
+juvenile justice team22(1)
+managerial officer59(2)
+medical practitioner29(7)
+Minister35(7)
+offence22(1)
+place3
+prohibited drug3
+prostitute3
+prostitution3
+public place3
+registered nurse29(7)
+relevant charge32(3)
+relevant juvenile justice team matter32(3)
+sponsorship10(3)
+the client4
+the offender5(4), 6(3)
+the prostitute4
+the respondent42(4)
+undercover officer35(7)

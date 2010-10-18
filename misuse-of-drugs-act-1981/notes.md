@@ -35,9 +35,6 @@ Reprint 4: The Misuse of Drugs Act 1981 as at 29 Feb 2008 (includes amendments l
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Police Amendment Act 2009 s. 21 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 37 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 read as follows:
@@ -97,19 +94,6 @@ If, immediately before the commencement of this Act, a warrant issued under the 
 (9) To the extent that a provision of this section relating to any property is inconsistent with the Transfer of Land Act 1983, the provision prevails, but this section does not otherwise affect the operation of that Act in relation to the property.
 ”.
 This should read “1893”.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 37 had not come into operation. It reads as follows:
-Division 37 — Misuse of Drugs Act 1981 amended
-117.Act amended
-This Division amends the Misuse of Drugs Act 1981.
-118.Section 3 amended
-(1) In section 3(1) delete the definitions of:
-dentist
-medical practitioner
-nurse practitioner
-(2) In section 3(1) insert in alphabetical order:
-dentist means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the dental profession whose name is entered on the Dentists Division of the Register of Dental Practitioners kept under that Law;
-medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
-nurse practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) whose name is entered on the Register of Nurses kept under that Law as a being qualified to practise as a nurse practitioner;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

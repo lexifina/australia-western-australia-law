@@ -23,9 +23,6 @@ Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (s
 Reprint 4: The Queen Elizabeth II Medical Centre Act 1966 as at 6 Feb 2009 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 105 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 27 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 43 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 The Queen Elizabeth II Medical Centre Amendment Act 1985 s. 9 reads as follows:
 “
@@ -68,13 +65,6 @@ Minister means the Minister in whom the management of a teaching hospital is ves
 principal Act means the Queen Elizabeth II Medical Centre Act 1966;
 teaching hospital means a hospital to which section 16(1) of the principal Act applies.
 ”.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 43 had not come into operation. It reads as follows:
-Division 43 — Queen Elizabeth II Medical Centre Act 1966 amended
-140.Act amended
-This Division amends the Queen Elizabeth II Medical Centre Act 1966.
-141.Section 16 amended
-In section 16(4a) delete “a medical practitioner as defined in the Medical Practitioners Act 2008 section 4.” and insert:
-a person who is registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

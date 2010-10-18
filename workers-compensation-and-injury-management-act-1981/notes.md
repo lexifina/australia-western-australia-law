@@ -66,12 +66,12 @@ Compilation table
  | Police Amendment Act 2009 s. 25 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
  | Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4, 42(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 50 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 (as amended by No. 42 of 2004 s. 155) | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 50 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 The name of the State Government Insurance Commission was changed to the Insurance Commission of Western Australia by the Acts Amendment (ICWA) Act 1996 s. 8 (see also note 47).
 Under the Acts Amendment (ICWA) Act 1996 s. 31(2)(h), a reference to the State Government Insurance Corporation in a written law is, unless because of the context it would be inappropriate so to do, to be construed, or have effect, as if it had been amended to be a reference to the Insurance Commission of Western Australia (see also note 47).
@@ -413,24 +413,8 @@ Section 5(1) | (a)After the definition of “industrial disease premium”, inse
 Section 162(1) | Delete “State Government Insurance Commission”, substitute “Insurance Commission of Western Australia”.
 Section 163 | Delete “State Government Insurance Commission”, substitute “Insurance Commission of Western Australia”.
 [Item 16 amended by No. 42 of 2004 s. 155(2)(a).]
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 50 had not come into operation. It reads as follows:
-Division 50 — Workers’ Compensation and Injury Management Act 1981 amended
-163.Act amended
-This Division amends the Workers’ Compensation and Injury Management Act 1981.
-164.Section 5 amended
-(1) In section 5(1) delete the definitions of:
-chiropractor
-physiotherapist
-(2) In section 5(1) insert in alphabetical order:
-chiropractor means a person who is resident in this State and is registered under the Health Practitioner Regulation National Law (Western Australia) in the chiropractic profession;
-physiotherapist means a person who is resident in this State and is registered under the Health Practitioner Regulation National Law (Western Australia) in the physiotherapy profession;
-(3) In section 5(1) in the definition of dentist delete paragraph (a) and “or” after it and insert:
-(a)a person who is resident in this State and is registered under the Health Practitioner Regulation National Law (Western Australia) in the dental profession whose name is entered on the Dentists Division of the Register of Dental Practitioners kept under that Law; or
-(4) In section 5(1) in the definition of medical practitioner delete paragraph (a) and “or” after it and insert:
-(a)a person who is resident in this State and who is registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession; or
-(5) In section 5(1) in the definition of specialist delete paragraph (a) and “or” after it and insert:
-(a)who is resident in this State and whose name is contained in a register of specialists kept by the Medical Board of Australia under the Health Practitioner Regulation National Law (Western Australia) section 223; or
-Under s.45 the following order in council was published in Gazette 19 June 2009 p 2253:
+Footnote no longer applicable.
+Under s. 45 the following order in council was published in Gazette 19 June 2009 p. 2253:
 Workers’ Compensation and Injury Management Act 1981
 Workers’ Compensation and Injury Management (Specified Industrial Diseases) Order 2008
 Made by the Governor in Executive Council under section 45 of the Act.

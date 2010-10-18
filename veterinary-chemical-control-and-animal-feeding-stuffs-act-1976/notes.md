@@ -25,11 +25,11 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Financial Administration Legislation Amendment Act 2005 s. 45 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
 Reprint 2: The Veterinary Chemical Control and Animal Feeding Stuffs Act 1976 as at 3 Feb 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 48 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 82 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 48 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Now known as the Veterinary Chemical Control and Animal Feeding Stuffs Act 1976; short title changed (see note under s. 1).
 The Acts Amendment (Chemistry Centre (W.A.) Act 1990 s. 13 reads as follows:
 “
@@ -44,17 +44,53 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 82.Repeal
 The Veterinary Chemical Control and Animal Feeding Stuffs Act 1976 is repealed.
 ”.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 48 had not come into operation. It reads as follows:
-Division 48 — Veterinary Chemical Control and Animal Feeding Stuffs Act 1976 amended
-158.Act amended
-This Division amends the Veterinary Chemical Control and Animal Feeding Stuffs Act 1976.
-159.Section 5 amended
-In section 5(1) in the definition of veterinary chemical product paragraph (a)(i) delete “pharmaceutical chemist registered under the Pharmacy Act 1964; or” and insert:
-person registered under the Health Practitioner Regulation National Law (Western Australia) in the pharmacy profession; or
-160.Section 65 amended
-(1) Delete section 65(b).
-(2) In section 65(c):
-(a) delete “registered pharmaceutical chemist,” and insert:
-person registered under the Health Practitioner Regulation National Law (Western Australia) in the pharmacy profession (pharmaceutical chemist),
-(b) delete subparagraph (i) and insert:
-(i) in the case of a pharmaceutical chemist, by the chief executive officer of the National Agency as defined in the Health Practitioner Regulation National Law (Western Australia) section 5; and
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+additive5(1)
+adulterant5(1)
+advertisement5(1)
+Agvet Code of Western Australia5(1)
+analysis5(1)
+analyst5(1)
+animal5(1)
+animal feeding stuff5(1)
+approved label5(1)
+basic feed5(1)
+biological product5(1)
+by-product5(1)
+carcass5(1)
+container5(1)
+import5(1)
+impurity5(1)
+ingredient5(1)
+inspector5(1)
+invoice5(1)
+label5(1)
+manufactured stock food5(1)
+package5(1)
+packaging5(1)
+pesticide5(1)
+pharmaceutical chemist65
+premises5(1)
+preparation5(1)
+preparation for sale5(1)
+prescribed substance5(1)
+processed food5(1)
+product5(1)
+purchaser5(1)
+registered veterinary chemical product5(1)
+sell5(1)
+seller5(1)
+specified41(6)
+stock5(1)
+stock product5(1)
+substance5(1)
+sub-standard animal feeding stuff14(1)
+supplement5(1)
+the Director5(1)
+tissue5(1)
+treated36AA
+veterinary chemical product5(1)
+veterinary surgeon5(1)
+wholesale5(1)

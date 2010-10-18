@@ -20,23 +20,9 @@ Police Amendment Act 2008 s. 12 and 23(2) | 8 of 2008 | 31 Mar 2008 | s. 12: 1 A
 Medical Practitioners Act 2008 Sch. 3 cl. 12 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 3: The Court Security and Custodial Services Act 1999 as at 3 Apr 2009 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 43 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 13 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 The “Inspector provisions” as defined in the Prisons Amendment Act 1999 s. 2(4) came into operation on 18 Jun 2000 (see Gazette 16 Jun 2000 p. 2939).
 The Inspector of Custodial Services Act 2003 s. 57 and Sch. 3 are transitional provisions.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 13 had not come into operation. It reads as follows:
-Division 13 — Court Security and Custodial Services Act 1999 amended
-49.Act amended
-This Division amends the Court Security and Custodial Services Act 1999.
-50.Section 3 amended
-(1) In section 3 delete the definitions of:
-doctor
-nurse
-(2) In section 3 insert in alphabetical order:
-doctor means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
-nurse means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing and midwifery profession whose name is entered on Division 1 of the Register of Nurses kept under that Law as a registered nurse;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

@@ -60,11 +60,11 @@ Reprint 6: The Juries Act 1957 as at 5 Jun 2009 (includes amendments listed abov
 Police Amendment Act 2009 s. 20 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 20, 43(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 30 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 30 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Repealed by the Interpretation Act 1984.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Juries Amendment Act 1984 s. 25 reads as follows:
@@ -79,22 +79,6 @@ On the date as at which this compilation was prepared, the Machinery of Governme
 (i) Officer or employee of the department of the Public Service principally assisting in the administration of this Act, other than an officer in the Public Trust Office;
 ”.
 The amendment to the Second Schedule, Pt. I it. (2)(i) in the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) would not be included because the item it seeks to amend was repealed by the Prisons and Sentencing Legislation Amendment Act 2006 s. 66.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 30 had not come into operation. It reads as follows:
-Division 30 — Juries Act 1957 amended
-101.Act amended
-This Division amends the Juries Act 1957.
-102.Second Schedule amended
-In the Second Schedule Part II delete clause 2 and insert:
-2.Health.
-A person registered under the Health Practitioner Regulation National Law (Western Australia) in the chiropractic profession if actually practising.
-A person registered under the Health Practitioner Regulation National Law (Western Australia) in the dental profession whose name is entered on the Dentists Division of the Register of Dental Practitioners kept under that Law if actually practising.
-A person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession if actually practising.
-A person registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing and midwifery profession if actually practising.
-A person registered under the Health Practitioner Regulation National Law (Western Australia) in the osteopathy profession if actually practising.
-A person registered under the Health Practitioner Regulation National Law (Western Australia) in the pharmacy profession if actually in business whether as principal or manager for a principal.
-A person registered under the Health Practitioner Regulation National Law (Western Australia) in the physiotherapy profession if actually practising.
-A person registered under the Health Practitioner Regulation National Law (Western Australia) in the psychology profession if actually practising.
-Veterinary surgeons registered under the Veterinary Surgeons Act 1960 if actually practising.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
