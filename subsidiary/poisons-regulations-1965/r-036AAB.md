@@ -6,7 +6,7 @@ Community Emergency Response Team means a service, provided by a public hospital
 (b) responds to psychiatric emergencies in the community; and
 (c) is designated by the CEO for the purposes of this definition;
 metropolitan region has the meaning given in section 4 of the Planning and Development Act 2005;
-psychiatric emergency pack means a pack, approved by the CEO for the purposes of this regulation and prepared by a pharmaceutical chemist, containing a quantity of a poison included in Schedule 4 that —
+psychiatric emergency pack means a pack, approved by the CEO for the purposes of this regulation and prepared by a pharmacist, containing a quantity of a poison included in Schedule 4 that —
 (a) if the poison is supplied in prepacked individual packs — is one individual standard pack; or
 (b) if the poison is a liquid — is the smallest pack of the poison available from the manufacturer; or
 (c) otherwise — does not exceed 3 days worth of medication of the poison;
@@ -63,4 +63,4 @@ and
 (e) any directions for use given by the psychiatrist or medical practitioner; and
 (f) a unique number identifying the entry in the Book; and
 (g) the nurse’s name and signature.
-[Regulation 36AAB inserted in Gazette 2 Oct 2007 p. 4965-8.]
+[Regulation 36AAB inserted in Gazette 2 Oct 2007 p. 4965-8; amended in Gazette 1 Oct 2010 p. 5079-80.]

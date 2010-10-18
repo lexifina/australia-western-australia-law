@@ -150,10 +150,7 @@ Reprint 9: The Poisons Regulations 1965 as at 13 Nov 2009 (includes amendments l
 Poisons Amendment Regulations (No. 2) 2010 | 5 Mar 2010 p. 845-7 | r. 1 and 2: 5 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Mar 2010 (see r. 2(b))
 Poisons Amendment Regulations (No. 3) 2010 | 26 Mar 2010 p. 1145-8 | r. 1 and 2: 26 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Mar 2010 (see r. 2(b))
 Poisons Amendment Regulations 2010 | 27 Apr 2010 p. 1583-4 | r. 1 and 2: 27 Apr 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Apr 2010 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Poisons Amendment Regulations (No. 5) 2010 r. 3-12 | 1 Oct 2010 p. 5078-80 | 18 Oct 2010 (see r. 2(b) and Gazette 1 Oct 2010 p. 5076)
+Poisons Amendment Regulations (No. 5) 2010 | 1 Oct 2010 p. 5078-80 | r. 1 and 2: 1 Oct 2010 (see r. 2(a); Regulations other than r. 1 and 2: 18 Oct 2010 (see r. 2(b) and Gazette 1 Oct 2010 p. 5076)
 Repealed by the Medical Practitioners Act 2008.
 Repealed by the Mental Health Act 1981 which was repealed by the Mental Health Act 1996.
 Repealed by the Nurses and Midwives Act 2006.
@@ -167,62 +164,6 @@ The Poisons Amendment Regulations (No. 3) 2001 r. 4(2) reads as follows:
 The Nurses Amendment Act 2003 s. 50 reads as follows:
 50.Existing power to amend regulations unaffected
 Nothing in this Division prevents any of the Poisons Regulations 1965 from being amended in accordance with the Poisons Act 1964.
-On the date as at which this compilation was prepared, the Poisons Amendment Regulations (No. 5) 2010 r. 3-12 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Poisons Regulations 1965.
-4.Regulation 2 amended
-In regulation 2(1) insert in alphabetical order:
-pharmacist’s licence means a licence to sell or supply poison referred to in regulation 5;
-pharmacy means a registered pharmacy as defined in the Pharmacy Act 2010 section 3(1);
-5.Regulation 5 amended
-In regulation 5 delete “registered under the Pharmacy Act 1964, and”.
-6.Regulation 35A amended
-In regulation 35A(1), (1a), (1c) and (2) delete “a graduate trainee” and “graduate trainee” (each occurrence) and insert:
-intern
-7.Regulation 36AA amended
-In regulation 36AA(4)(c) delete “registered under the Pharmacy Act 1964”.
-8.Regulation 42 amended
-(1) In regulation 42(1)(b) delete “licence is held under regulation 5; and” and insert:
-pharmacist’s licence is held; and
-(2) After regulation 42(1)(d) insert:
-and
-9.Regulation 50 amended
-In regulation 50(a) before “hospital” insert:
-public
-10.Regulation 51A amended
-In regulation 51A(1) delete the definition of pharmacy.
-11.Appendix A Form 3 amended
-In Appendix A Form 3 delete “PHARMACEUTICAL CHEMIST’S” and insert:
-PHARMACIST’S
-12.Various references to “pharmaceutical chemist” amended
-In the provisions listed in the Table:
-(a) delete “pharmaceutical chemist” (each occurrence) and insert:
-pharmacist
-(b) delete “pharmaceutical chemists” and insert:
-pharmacists
-(c) delete “Pharmaceutical Chemist” and insert:
-pharmacist
-(d) delete “Pharmaceutical chemist’s” and insert:
-Pharmacist’s
-(e) delete “Pharmaceutical Chemist’s” and insert:
-pharmacist’s
-Table
-r. 2(1) def. of qualified person par. (a) | r. 5
-r. 21(a), (b) and (c) | r. 21A(1)
-r. 32B(1)(b)(ii) and (3)(a) | r. 35A(1), (1a), (1b), (1c) and (2)
-r. 36(2) and (3)(f) | r. 36AA(1) def. of starter pack
-r. 36AAB(1) def. of psychiatric emergency pack | r. 36A(1)
-r. 39(1) | r. 40(1)(b)
-r. 42(1)(b) | r. 43(1)
-r. 44(3)(f) | r. 44A(3)(a), (5) and (7)
-r. 50(a) and (b) | r. 51E
-r. 51EA(2) | r. 51F(7)
-r. 51FB(1)(b)(i) | r. 51GB(8)
-r. 52(2), (6), (6a) and (8) | r. 52C(2)
-r. 56(3)(a) and (aa) | r. 56E
-r. 56F | Appendix G it. 3
-Note:The heading to amended regulation 5 is to read:
-Pharmacist’s licence to sell poisons
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -287,7 +228,8 @@ old authorisation67(1)(b), 68(1)(b)
 permit2(1)
 personal supervision2(1)
 pharmacotherapy51A(1)
-pharmacy51A(1)
+pharmacist’s licence2(1)
+pharmacy2(1)
 physician2(1)
 poisons cupboard2(1)
 Policies Manual51A(1)

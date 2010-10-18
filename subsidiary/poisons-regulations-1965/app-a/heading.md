@@ -19,7 +19,7 @@ Duration of licence | Date of issue Date of expiry
 [Form 2A deleted in Gazette 19 Mar 1996 p. 1234.]
 Form 3
 Poisons Act 1964
-PHARMACEUTICAL CHEMIST’S LICENCE TO SELL POISONS
+PHARMACIST’S LICENCE TO SELL POISONS
 This licence is granted to ....................................................................................... and authorises that person to sell poisons at premises known as .......................... .......................................................................................................................... and
 (name of pharmacy)
 situated at ...............................................................................................................
@@ -27,7 +27,7 @@ situated at ....................................................................
 Dated at Perth .............................. 20.............
 Valid until 30 June 20............
 .........................................
-[Form 3 amended in Gazette 7 Jun 1985 p. 1941; 27 May 1988 p. 1771; 14 Jun 1991 p. 2879; 16 Apr 1992 p. 1635; 16 Sep 1994 p. 4748.]
+[Form 3 amended in Gazette 7 Jun 1985 p. 1941; 27 May 1988 p. 1771; 14 Jun 1991 p. 2879; 16 Apr 1992 p. 1635; 16 Sep 1994 p. 4748; 1 Oct 2010 p. 5079.]
 [Forms 3A, 4 and 4A deleted in Gazette 19 Mar 1996 p. 1234.]
 Form 5
 Poisons Act 1964
