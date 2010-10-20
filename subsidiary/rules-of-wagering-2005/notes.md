@@ -8,3 +8,4 @@ Rules of Wagering Amendment Rules 2006 | 7 Apr 2006 p. 1489-90 | 7 Apr 2006
 Rules of Wagering Amendment Rules (No. 2) 2006 | 18 Aug 2006 p. 3369-70 | 18 Aug 2006
 Rules of Wagering Amendment Rules (No. 2) 2007 | 20 Jul 2007 p. 3629-30 | 20 Jul 2007
 Rules of Wagering Amendment Rules 2007 | 18 Sep 2007 p. 4711-14 | r. 1 and 2: 18 Sep 2007 (see r. 2(a)); Rules other than r. 1 and 2: 19 Sep 2007 (see r. 2(b))
+Rules of Wagering Amendment Rules (No. 2) 2010 | 19 Oct 2010 p. 5191-2 | r. 1 and 2: 19 Oct 2010 (see r. 2(a); Rules other than r. 1 and 2: 20 Oct 2010 (see r. 2(b))
