@@ -47,7 +47,7 @@ and
 (f) the date on which the psychiatric emergency pack was given to the patient; and
 (g) any directions for use given by the psychiatrist or medical practitioner; and
 (h) the number referred to in subregulation (11)(f) identifying the relevant entry in the Emergency Pack Supply Book; and
-(i) any relevant cautionary or advisory statements set out in Appendix K to the SUSDP.
+(i) any relevant cautionary or advisory statements set out in Appendix K to the SUSMP.
 (10) A person in charge of a Community Emergency Response Team or a Rural Community Mental Health Team must —
 (a) maintain an Emergency Pack Supply Book for that Team consisting of handwritten records in a book with sequentially numbered pages; and
 (b) keep the Emergency Pack Supply Book for at least 2 years after the last entry is made in it; and
@@ -63,4 +63,4 @@ and
 (e) any directions for use given by the psychiatrist or medical practitioner; and
 (f) a unique number identifying the entry in the Book; and
 (g) the nurse’s name and signature.
-[Regulation 36AAB inserted in Gazette 2 Oct 2007 p. 4965-8; amended in Gazette 1 Oct 2010 p. 5079-80.]
+[Regulation 36AAB inserted in Gazette 2 Oct 2007 p. 4965-8; amended in Gazette 1 Oct 2010 p. 5079-80; 22 Oct 2010 p. 5218.]

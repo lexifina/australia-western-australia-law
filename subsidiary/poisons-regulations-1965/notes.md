@@ -151,6 +151,7 @@ Poisons Amendment Regulations (No. 2) 2010 | 5 Mar 2010 p. 845-7 | r. 1 and 2: 5
 Poisons Amendment Regulations (No. 3) 2010 | 26 Mar 2010 p. 1145-8 | r. 1 and 2: 26 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Mar 2010 (see r. 2(b))
 Poisons Amendment Regulations 2010 | 27 Apr 2010 p. 1583-4 | r. 1 and 2: 27 Apr 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Apr 2010 (see r. 2(b))
 Poisons Amendment Regulations (No. 5) 2010 | 1 Oct 2010 p. 5078-80 | r. 1 and 2: 1 Oct 2010 (see r. 2(a); Regulations other than r. 1 and 2: 18 Oct 2010 (see r. 2(b) and Gazette 1 Oct 2010 p. 5076)
+Poisons Amendment Regulations (No. 7) 2010 | 22 Oct 2010 p. 5217-19 | r. 1 and 2: 22 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Oct 2010 (see r. 2(b))
 Repealed by the Medical Practitioners Act 2008.
 Repealed by the Mental Health Act 1981 which was repealed by the Mental Health Act 1996.
 Repealed by the Nurses and Midwives Act 2006.
@@ -164,6 +165,7 @@ The Poisons Amendment Regulations (No. 3) 2001 r. 4(2) reads as follows:
 The Nurses Amendment Act 2003 s. 50 reads as follows:
 50.Existing power to amend regulations unaffected
 Nothing in this Division prevents any of the Poisons Regulations 1965 from being amended in accordance with the Poisons Act 1964.
+The Poisons Amendment Regulations (No. 7) 2010 r. 5 to amend r. 42(1)(d) is not included because the para it sought to amend had been amended by the Poisons Amendment Regulations (No. 5) 2010 r. 8(2).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -261,7 +263,7 @@ starter pack instruction36AA(1)
 stimulant51FA
 Stimulant Prescribing Code51FA
 supply2(1)
-SUSDP2(1)
+SUSMP2(1)
 system identifier32A(1)
 team medical practitioner36AAB(1)
 team psychiatrist36AAB(1)
