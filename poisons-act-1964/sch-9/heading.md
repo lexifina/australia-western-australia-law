@@ -1,6 +1,6 @@
 ## Schedule 9
-All substances listed in Schedule 9 to the SUSDP, subject to the following modification —
-The following substances are added to Schedule 9 to the SUSDP —
+All substances listed in Schedule 9 to the SUSMP, subject to the following modification —
+The following substances are added to Schedule 9 to the SUSMP —
 *ALKOXYAMPHETAMINES AND BROMO-SUBSTITUTED ALKOXYAMPHETAMINES except where separately specified in Schedule 9.
 *ALKOXYPHENETHYLAMINES AND ALKYL-SUBSTITUTED ALKOXYPHENETHYLAMINES except where separately specified in Schedule 9.
 *BENZYLPIPERAZINE *(BZP).
@@ -31,4 +31,4 @@ The following substances are added to Schedule 9 to the SUSDP —
 *2,4,5-TRIMETHOXYAMPHETAMINE.
 *2,4,6-TRIMETHOXYAMPHETAMINE.
 *2,4,5-TRIMETHOXYPHENYLETHYLAMINE.
-[Schedule 9 inserted in Gazette 19 Mar 1996 p. 1209-10; amended in Gazette 8 Nov 2002 p. 5434.]
+[Schedule 9 inserted in Gazette 19 Mar 1996 p. 1209-10; amended in Gazette 8 Nov 2002 p. 5434; 22 Oct 2010 p. 5217.]
