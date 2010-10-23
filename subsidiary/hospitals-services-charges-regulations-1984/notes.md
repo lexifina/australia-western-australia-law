@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 September 2010 of the Hospitals (Services Charges) Regulations 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Hospitals (Services Charges) Regulations 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Hospitals (Services Charges) Regulations 1984 | 27 Jan 1984 p. 231-4 | 1 Feb 1984 (see r. 2)
@@ -114,6 +114,7 @@ Hospitals (Services Charges) Amendment Regulations (No. 5) 2009 | 8 Dec 2009 p. 
 Hospitals (Services Charges) Amendment Regulations (No. 6) 2009 | 19 Jan 2010 p. 148-9 | r. 1 and 2: 19 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Jan 2010 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations 2010 | 30 Jun 2010 p. 3099-100 | r. 1 and 2: 30 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b) and (c))
 Reprint 7: The Hospitals (Services Charges) Regulations 1984 as at 10 Sep 2010 (includes amendments listed above)
+Hospitals (Services Charges) Amendment Regulations (No. 3) 2010 | 22 Oct 2010 p. 5219-20 | r. 1 and 2: 22 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Oct 2010 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with the Interpretation Act 1984 s. 42(1), subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The commencement date of 1 September 1990 that was specified in these regulations was before the date of their publication in the Gazette.
