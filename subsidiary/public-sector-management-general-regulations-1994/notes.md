@@ -18,7 +18,8 @@ Reprint 2: The Public Sector Management (General) Regulations 1994 as at 25 Jul 
 Inspector of Custodial Services Act 2003 s. 56(1) assented to 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Public Sector Management (General) Amendment Regulations 2005 | 16 Sep 2005 p. 4347-8 | 16 Sep 2005
 Public Sector Management (General) Amendment Regulations 2006 | 29 Dec 2006 p. 5920 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
-Under the Alteration of Statutory Designations Order (No. 2) 2001 references to the former Department of Planning and Urban Development are to be read and construed as references to the Department for Planning and Infrastructure.
+Public Sector Management (General) Amendment Regulations (No. 2) 2010 | 22 Oct 2010 p. 5223-4 | r. 1 and 2: 22 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Oct 2010 (see r. 2(b))
+Footnote no longer applicable.
 Repealed by the Country Housing Act 1998.
 Footnote no longer applicable.
 Repealed by the School Education Act 1999.
