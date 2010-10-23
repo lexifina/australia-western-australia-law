@@ -122,6 +122,7 @@ Reprint 8: The Poisons Act 1964 as at 13 Feb 2009 (includes amendments listed ab
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 101 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 67 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 40 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Poisons (Appendix A Amendment) Order 2010 published in Gazette 22 Oct 2010 p. 5216-17 | cl. 1 and 2: 22 Oct 2010 (see cl. 2(a)); Clauses other than cl. 1 and 2: 23 Oct 2010 (see cl. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
