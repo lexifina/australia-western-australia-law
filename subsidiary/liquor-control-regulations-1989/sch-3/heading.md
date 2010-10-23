@@ -7,14 +7,7 @@ Item | Description | Fee $ | Electronic lodgment fee $
 3. | Application for the transfer of a licence | 750
 4. | Licence fee for any licence other than a club restricted licence | 500
 5. | Licence fee for a club restricted licence | 250
-6. | Application for an occasional licence where the anticipated number of persons attending* is —
- | (a)up to 250 | 50
- | (b)between 251 and 500 | 100
- | (c)between 501 and 1 000 | 200
- | (d)between 1 001 and 5 000 | 1 000
- | (e)between 5 001 and 10 000 | 2 000
- | (f)over 10 000 | 4 000
- | [*See regulation 26(4) as to the anticipated number of persons attending]
+6. | Application for an occasional licence if the anticipated number of patrons is — (a)up to 250 (b)between 251 and 500 (c)between 501 and 1 000 (d)between 1 001 and 5 000 (e)between 5 001 and 10 000 (f)over 10 000 .. | 50 100 200 1 000 2 000 4 000
 7. | Application for extended trading permit for a period of over 21 days —
  | (a)issued for a purpose referred to in section 60(4)(ca) | 400 | 360
  | (b)issued for a purpose referred to in section 60(4)(h) | 300 | 270
@@ -56,4 +49,4 @@ Item | Description | Fee $ | Electronic lodgment fee $
 33. | For a search of postcodes —
  | (a)1 to 10 postcodes | 35
  | (b)more than 10 postcodes | 75
-[Schedule 3 inserted in Gazette 20 Nov 2009 p. 4663-6; amended in Gazette 2 Mar 2010 p. 834.]
+[Schedule 3 inserted in Gazette 20 Nov 2009 p. 4663-6; amended in Gazette 2 Mar 2010 p. 834; 22 Oct 2010 p. 5229.]
