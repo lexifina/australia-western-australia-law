@@ -19,6 +19,7 @@ Rail Safety Amendment Regulations 2008 | 14 Mar 2008 p. 835-6 | r. 1 and 2: 14 M
 Rail Safety Amendment Regulations (No. 2) 2008 | 30 May 2008 p. 2085 | r. 1 and 2: 30 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Rail Safety Amendment Regulations 2009 | 15 Jan 2010 p. 73-4 | r. 1 and 2: 15 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jan 2010 (see r. 2(b))
 Rail Safety Amendment Regulations 2010 | 18 Jun 2010 p. 2699-700 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+Rail Safety Amendment Regulations (No. 2) 2010 | 26 Oct 2010 p. 5297-8 | r. 1 and 2: 26 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Oct 2010 (see r. 2(b))
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Under the Interpretation Act 1984 s. 16, a reference to the Nurses Act 1992 may be read as a reference to the Nurses and Midwives Act 2006. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
