@@ -127,6 +127,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 93 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
+Agriculture and Related Resources Protection Amendment Act 2010 s. 71 | 46 of 2010 | 28 Oct 2010 | To be proclaimed (s. 2(b))
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 The designation of Ministers may be altered by the Governor under the Alteration of Statutory Designations Act 1974. As at the date of this compilation the former Minister for Agriculture is known as the Minister for Agriculture and Food.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 40 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
@@ -151,6 +152,11 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 under the Biosecurity and Agriculture Management Act 2007
 ”.
 ”.
+On the date as at which this compilation was prepared, the Agriculture and Related Resources Protection Amendment Act 2010 s. 71 had not come into operation. It reads as follows:
+71.Poisons Act 1964 amended
+(1) This section amends the Poisons Act 1964.
+(2) In section 32(c) delete “provided by section 69 of the Agriculture and Related Resources Protection Act 1976 or section 8(2) of the Agriculture Protection Board Act 1950,” and insert:
+for the purposes of the Agriculture and Related Resources Protection Act 1976 section 69,
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
