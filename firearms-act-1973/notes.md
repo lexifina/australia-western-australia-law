@@ -43,6 +43,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 37 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
+Agriculture and Related Resources Protection Amendment Act 2010 s. 69 | 46 of 2010 | 28 Oct 2010 | To be proclaimed (s. 2(b))
 The provision in this Act repealing the Firearms and Guns Act 1931 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision that is of no further effect.
 The Firearms Amendment Act 1996 s. 9(2), 10(2), 11(2), 15(2), 39 and 53 are transitional, savings and related provisions that are of no further effect.
@@ -95,6 +96,42 @@ department means the department principally assisting in the administration of t
 (d) by deleting the definition of “subsection”;
 (e) by deleting the definition of “the Board”.
 ”.
+On the date as at which this compilation was prepared, the Agriculture and Related Resources Protection Amendment Act 2010 Pt. 2 had not come into operation. It reads as follows:
+69.Firearms Act 1973 amended
+(1) This section amends the Firearms Act 1973.
+(2) In section 17B(1) delete “officer or employee of the Board” and insert:
+agriculture inspector
+(3) In section 17B(3):
+(a) delete “officer or employee” and insert:
+agriculture inspector
+(b) delete paragraph (c) and insert:
+(c) shall not use a silencer otherwise than in conjunction with a .22 calibre rifle named and identified in the Corporate Licence referred to in subsection (7) for the purpose of shooting birds that are —
+(i) declared animals under the Agriculture and Related Resources Protection Act 1976; or
+(ii) declared pests under the Biosecurity and Agriculture Management Act 2007;
+and
+(c) after each of paragraphs (a), (b) and (d) insert:
+and
+(4) In section 17B(4):
+(a) delete “officer or employee” and insert:
+agriculture inspector
+(b) delete “the Board” and insert:
+the Director General
+(5) After each of section 17B(5)(a) and (b) insert:
+or
+(6) In section 17B(6) delete “officer or employee of the Board” and insert:
+agriculture inspector
+(7) In section 17B(7) delete “the Board” (each occurrence) and insert:
+the department
+(8) In section 17B(8) delete the definitions of:
+subsection
+the Board
+(9) In section 17B(8) insert in alphabetical order:
+agriculture inspector means —
+(a)an inspector appointed under the Biosecurity and Agriculture Management Act 2007 section 162; or
+(b)an authorised person as defined in the Agriculture and Related Resources Protection Act 1976 section 7(1);
+department means the department principally assisting in the administration of the Biosecurity and Agriculture Management Act 2007;
+(10) In section 17B(8) in the definition of silencer delete “nature;” and insert:
+nature.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
