@@ -19,6 +19,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 18 and 19 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Agriculture and Related Resources Protection Amendment Act 2010 s. 67 | 46 of 2010 | 28 Oct 2010 | To be proclaimed (s. 2(b))
 Short title changed to Air Navigation Regulations 1947 (see Air Navigation Amendment Regulations 1998 (No. 1) of the Commonwealth).
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 2 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
@@ -33,3 +34,7 @@ aerial spraying has the same meaning as in the repealed Act;
 repealed Act means the Aerial Spraying Control Act 1966.
 spray drift has the same meaning as in the repealed Act;
 (2) Sections 14(4), (5) and (6) and 15 of the repealed Act continue to apply in relation to aerial spraying carried out before the coming into operation of this section, and in relation to any spray drift from that aerial spraying.
+On the date as at which this compilation was prepared, the Agriculture and Related Resources Protection Amendment Act 2010 s. 67 had not come into operation. It reads as follows:
+67.Aerial Spraying Control Act 1966 amended
+(1) This section amends the Aerial Spraying Control Act 1966.
+(2) In section 13A(1) delete “or the Agriculture Protection Board”.
