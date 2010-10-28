@@ -73,6 +73,7 @@ Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 (as amended by No. 42 of 2004 s. 155) | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Petroleum and Energy Legislation Amendment Act 2010 s. 186 | 42 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
 The name of the State Government Insurance Commission was changed to the Insurance Commission of Western Australia by the Acts Amendment (ICWA) Act 1996 s. 8 (see also note 47).
 Under the Acts Amendment (ICWA) Act 1996 s. 31(2)(h), a reference to the State Government Insurance Corporation in a written law is, unless because of the context it would be inappropriate so to do, to be construed, or have effect, as if it had been amended to be a reference to the Insurance Commission of Western Australia (see also note 47).
 Repealed by the Industrial Relations (Consequential Provisions) Act 1998 (C’th). Now see Workplace Relations Act 1996 (C’th).
@@ -432,6 +433,26 @@ On the date as at which this compilation was prepared, the Public Sector Reform 
 Public Sector Commissioner
 Table
 Workers’ Compensation and Injury Management Act 1981 | s. 99(2), 100A(4)
+On the date as at which this compilation was prepared, the Petroleum and Energy Legislation Amendment Act 2010 s. 186 had not come into operation. It reads as follows:
+186.Workers’ Compensation and Injury Management Act 1981 amended
+(1) This section amends the Workers’ Compensation and Injury Management Act 1981.
+(2) In Schedule 6 clause 1 insert in alphabetical order:
+Joint Petroleum Development Area has the same meaning as in the Petroleum (Timor Sea Treaty) Act 2003 (Commonwealth);
+(3) In Schedule 6 clause 1 in the definition of Petroleum Act delete “Petroleum (Submerged Lands) Act 1967” and insert:
+Offshore Petroleum and Greenhouse Gas Storage Act 2006
+(4) In Schedule 6 clause 2(1), (2)(a), (3) and (4)(a) delete “Schedule 2” and insert:
+Schedule 1
+(5) In Schedule 6 clause 2(2)(b) delete “subsection (7) of section 5A” and insert:
+section 7(2)
+(6) In Schedule 6 clause 2(3)(b) and (4)(a)(ii) delete “Area A of the Zone of Cooperation” and insert:
+the Joint Petroleum Development Area
+(7) In Schedule 6 clause 2(4)(b):
+(a) delete “adjacent area” and insert:
+offshore area
+(b) delete “subsection (3) of section 5A” and insert:
+section 7(1)
+(8) After Schedule 6 clause 2(5) insert:
+(6) A reference in this clause to the area described in Schedule 1 to the Petroleum Act in relation to a State or Territory is a reference to the scheduled area for that State or Territory within the meaning given in that Schedule.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
