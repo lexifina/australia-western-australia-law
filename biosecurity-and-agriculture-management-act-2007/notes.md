@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Biosecurity and Agriculture Management Act 2007. The following table contains information about that Act.
+This is a compilation of the Biosecurity and Agriculture Management Act 2007 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management Act 2007 | 23 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; Pt. 1 (other than s. 1 and 2), Pt. 2 Div. 6, Pt. 7 Div. 1 and s. 181 and 187: 24 Oct 2007 (see s. 2 and Gazette 23 Oct 2007 p. 5643); s. 22, Pt. 4 and 5, Pt. 6 Div. 1 SubDiv 1, Div. 2 and 3, Pt. 7 Div. 2, 3 and 6, s. 182, Pt. 8 (other than s. 193) and Sch. 1: 22 May 2010 (see s. 2 and Gazette 21 May 2010 p. 2177)
@@ -9,6 +9,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, Div. 3 (other than s. 22), Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2 and 3, Pt. 7 Div. 4 and 5, s. 183-186, s. 193 and Pt. 9 | 23 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Agriculture and Related Resources Protection Amendment Act 2010 s. 68 | 46 of 2010 | 28 Oct 2010 | To be proclaimed (s. 2(b))
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, s. 23-42, Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2 and 3, Pt. 7 Div. 4 and 5, s. 183-186, s. 193 and Pt. 9 have not come into operation. They read as follows:
 “
 Part 2 — Biosecurity
@@ -604,6 +605,15 @@ On the date as at which this compilation was prepared, the Public Sector Reform 
 Public Sector Commissioner
 Table
 Biosecurity and Agriculture Management Act 2007 | s. 48(4)
+On the date as at which this compilation was prepared, the Agriculture and Related Resources Protection Amendment Act 2010 s. 68 had not come into operation. It reads as follows:
+68.Biosecurity and Agriculture Management Act 2007 amended
+(1) This section amends the Biosecurity and Agriculture Management Act 2007.
+(2) In section 138(a) delete “prescribed land in prescribed situations (if any);” and insert:
+areas for which the rates were collected under Division 1;
+(3) In section 138(e) delete “section 139(3).” and insert:
+section 139(3);
+(4) After section 138(e) insert:
+(f) for any purpose authorised under this Act or another written law.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
