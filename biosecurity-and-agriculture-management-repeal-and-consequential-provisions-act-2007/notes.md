@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-8, 10, 12, 13 and 15-18 and Pt. 3 (except s. 85(4)) | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2)
+Agriculture and Related Resources Protection Amendment Act 2010 Pt. 3 | 46 of 2010 | 28 Oct 2010 | To be proclaimed (s. 2(b))
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-8, 10, 12, 13 and 15 18 and Pt. 3 (except s. 85(4)) had not come into operation. They read as follows:
 “
 Division 3 — Aerial Spraying Control Act 1966
@@ -435,4 +436,44 @@ under the Biosecurity and Agriculture Management Act 2007
 “
 a declared pest as that term is defined in the Biosecurity and Agriculture Management Act 2007
 ”.
+”.
+On the date as at which this compilation was prepared, the Agriculture and Related Resources Protection Amendment Act 2010 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Amendments to Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007
+57.Act amended
+This Part amends the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
+58.Section 2 amended
+Delete section 2(3).
+59.Section 30A inserted
+At the end of Part 2 Division 6 Subdivision 1 insert:
+30A.Firearms Act 1973 amended
+(1) This section amends the Firearms Act 1973.
+(2) Delete section 17B(3)(c) and insert:
+(c) shall not use a silencer otherwise than in conjunction with a .22 calibre rifle named and identified in the Corporate Licence referred to in subsection (7) for the purpose of shooting birds that are declared pests under the Biosecurity and Agriculture Management Act 2007;
+(3) In section 17B(8) delete the definition of agriculture inspector and insert:
+agriculture inspector means an inspector appointed under the Biosecurity and Agriculture Management Act 2007 section 162;
+60.Section 30 amended
+In section 30 delete the definition of former account.
+61.Sections 32 and 33 deleted
+Delete sections 32 and 33.
+62.Section 37 deleted
+Delete section 37.
+63.Section 38 deleted
+Delete section 38.
+64.Section 58 amended
+(1) In section 58(1) delete the passage that begins with “to be applied —” and continues to the end of paragraph (c) and insert:
+(the cattle industry account)
+(2) After section 58(1) insert:
+(2A) Moneys credited to the cattle industry account as referred to in subsection (1) are to be applied for the following purposes —
+(a) in the payment of compensation payable on an application referred to in section 57 made under the repealed Act;
+(b) in the payment of any liabilities of the former account which arose before the commencement day;
+(c) in the payment of the costs of the provision of, or the promotion and encouragement of, scientific research for the improvement of cattle health and production;
+(d) for the purposes set out in the regulations under the BAM Act section 141 establishing the account;
+(e) for any other purpose that, in the opinion of the management committee established for the account, will promote and encourage the cattle industry.
+65.Section 92 deleted
+Delete section 92.
+66.Section 93 amended
+Delete section 93(2) and insert:
+(2) Section 32(c) is amended by deleting “for the purposes of the Agriculture and Related Resources Protection Act 1976 section 69” and inserting instead —
+“
+for the purposes of the Biosecurity and Agriculture Management Act 2007 section 42
 ”.
