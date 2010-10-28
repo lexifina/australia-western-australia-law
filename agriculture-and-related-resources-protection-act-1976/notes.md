@@ -37,6 +37,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 27 and 30-33 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Agriculture and Related Resources Protection Amendment Act 2010 Pt. 2 | 46 of 2010 | 28 Oct 2010 | To be proclaimed (s. 2(b))
 Repealed by the Mining Act 1978.
 Repealed by the Public Service Appeal Board Act Repeal Act 1977.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. See also endnote 14.
@@ -225,3 +226,385 @@ and the former account is then to be closed.
 33.Reference to former account
 If in an agreement, instrument or other document there is a reference to the former account, that reference is, unless the context otherwise requires, to be read and have effect on and after the commencement day as if it were a reference to the Declared Pest Account established under the BAM Act.
 ”.
+On the date as at which this compilation was prepared, the Agriculture and Related Resources Protection Amendment Act 2010 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Agriculture and Related Resources Protection Act 1976 amended
+3.Act amended
+This Part amends the Agriculture and Related Resources Protection Act 1976.
+4.Section 4 amended
+Delete section 4(2).
+5.Section 6 deleted
+Delete section 6.
+6.Section 7 amended
+(1) In section 7(1) delete the definitions of:
+authority
+chairman
+Chief Officer
+committee
+Control Account
+Deputy Chief Officer
+eligible person
+inspector
+member
+producer association
+Protection Board
+region
+zone
+(2) In section 7(1) insert in alphabetical order:
+Declared Pest Account has the meaning given in the Biosecurity and Agriculture Management Act 2007 section 6;
+department means the department principally assisting in the administration of this Act;
+Director General means the chief executive officer of the department;
+inspector means an inspector appointed under the Biosecurity and Agriculture Management Act 2007 section 162;
+(3) In section 7(1) in the definition of animal-proof fence paragraph (b) delete “Chief Officer” and insert:
+Director General
+(4) In section 7(1) in the definition of authorised person delete “Protection Board or the Chief Officer” and insert:
+Director General
+(5) In section 7(1) in the definition of rabbit-proof fence paragraph (b) delete “Chief Officer his” and insert:
+Director General as
+(6) In section 7(1) in the definition of watercourse delete “constructed;” and insert:
+constructed.
+7.Sections 8 and 9 deleted
+Delete sections 8 and 9.
+8.Section 10 replaced
+Delete section 10 and insert:
+10.Delegation by Minister
+(1) The Minister may delegate to the Director General any power or duty of the Minister under another provision of this Act.
+(2) The delegation must be in writing signed by the Minister.
+(3) The delegation may expressly authorise the Director General to further delegate the power or duty.
+(4) A person exercising or performing a power or duty that has been delegated to the person under, or as authorised under, this section, is to be taken to do so in accordance with the terms of the delegation unless the contrary intention is shown.
+(5) Nothing in this section limits the ability of the Minister to perform a function through an officer or agent.
+11A.Delegation by Director General
+(1) The Director General may delegate to an officer of the department any power or duty of the Director General under another provision of this Act.
+(2) The delegation must be in writing signed by the Director General.
+(3) A person exercising or performing a power or duty that has been delegated to the person under this section is to be taken to do so in accordance with the terms of the delegation unless the contrary intention is shown.
+(4) Nothing in this section limits the ability of the Director General to perform a function through an officer or agent.
+9.Section 11 amended
+In section 11(1) delete “Chairman of the Protection Board or the Chief Officer” and insert:
+Director General
+10.Section 12 deleted
+Delete section 12.
+11.Part III deleted
+Delete Part III.
+12.Section 37 replaced
+Delete section 37 and insert:
+37.List of declared animals and plants
+The Director General must —
+(a) maintain, on or accessible through the department’s website, a publicly accessible list setting out —
+(i) every class of plants or animals that is for the time being the subject of a declaration made under section 35; and
+(ii) the matters for the time being specified under section 35(2) in relation to each class referred to in subparagraph (i);
+and
+(b) make copies of the list available to the public for inspection at the head office and regional offices of the department during business hours.
+13.Section 41 amended
+After section 41(2) insert:
+(3) The Director General may supply poison under subsection (1) despite anything to the contrary in the Poisons Act 1964.
+14.Section 42 amended
+In section 42 delete the Penalty and insert:
+Penalty: a fine of $20 000.
+15.Section 44 amended
+In section 44(1) delete the Penalty and insert:
+Penalty: a fine of $50 000.
+16.Section 45 amended
+In section 45(1) delete “Protection Board and may be sued for and recovered” and insert:
+State and may be sued for and recovered by the Director General on behalf of the State
+17.Section 46 amended
+After section 46(2) insert:
+(3) The Director General may supply poison under subsection (1) despite anything to the contrary in the Poisons Act 1964.
+18.Section 49 amended
+In section 49 delete the Penalty and insert:
+Penalty: a fine of $20 000.
+19.Section 51 amended
+In section 51(1) delete the Penalty and insert:
+Penalty: a fine of $50 000.
+20.Section 52 amended
+In section 52(2):
+(a) delete “authorised officer” and insert:
+authorised person
+(b) delete “Protection Board, and may be sued for and recovered” and insert:
+State, and may be sued for and recovered by the Director General on behalf of the State
+Note:The heading to amended section 52 is to read:
+Work and recovery of costs
+21.Section 54 amended
+(1) In section 54(1):
+(a) delete “or the Protection Board,” and insert:
+or an inspector or authorised person,
+(b) delete “determined by the Protection Board, which shall notify the parties concerned of its decision forthwith on the making thereof.” and insert:
+decided by the Director General.
+(2) After section 54(1) insert:
+(2) The Director General must notify the parties concerned of any decision made under subsection (1).
+(3) In section 54(4):
+(a) delete “Protection Board for it” and insert:
+Director General for the Director General
+(b) delete “Protection Board may,” (each occurrence) and insert:
+Director General may,
+(c) delete “it considers” and insert:
+the Director General considers
+(d) delete “Protection Board declares” and insert:
+Director General declares
+22.Section 55 amended
+After section 55(2) insert:
+(3) The Director General may supply poison under subsection (1) despite anything to the contrary in the Poisons Act 1964.
+23.Section 56 amended
+(1) In section 56(1) delete “by written authorisation under seal,”.
+(2) After section 56(1) insert:
+(2A) The delegation must be in writing signed by the Director General.
+Note:The heading to amended section 56 is to read:
+Director General may delegate powers to local governments
+24.Heading to Part V Division 5 amended
+In the heading to Part V Division 5 delete “by Protection Board”.
+25.Section 58 amended
+(1) Delete section 58(1) and insert:
+(1) In this section —
+dwelling has the meaning given in the Biosecurity and Agriculture Management Act 2007 section 63.
+(2A) Inspectors and authorised persons may, at any time and to such extent as the Director General may determine, carry out operational work on and in relation to any place other than a dwelling without cost to the owner or occupier of that place.
+(2B) The operational work may be carried out —
+(a) out of moneys from time to time appropriated by Parliament for that purpose; or
+(b) out of moneys from time to time standing to the credit of the Declared Pest Account other than moneys derived from rates under section 60; or
+(c) on and in relation to private land held under pastoral lease out of moneys from time to time standing to the credit of the Declared Pest Account and derived from rates under section 60; or
+(d) on and in relation to public land, land under the control of a local government or private land pursuant to an agreement under section 41, 46 or 55.
+(2) In section 58(2) delete “the powers of the Protection Board” and insert:
+powers
+Note:The heading to amended section 58 is to read:
+Operational work may be carried out
+26.Section 59 amended
+In section 59(1) delete “on the Protection Board or an inspector or authorised person”.
+27.Section 60 amended
+(1) In section 60(1) delete “1 July 2006” and insert:
+1 July immediately following the coming into operation of the Agriculture and Related Resources Protection Amendment Act 2010 section 27
+(2) In section 60(3) delete “Protection Board, with the approval of the Minister, may,” and insert:
+Minister may,
+(3) Delete section 60(5) and (6) and insert:
+(5) Different rates may be imposed in respect of different land and different classes of land.
+(4) After section 60(7) insert:
+(8) Despite the amendments made by the Agriculture and Related Resources Protection Amendment Act 2010 section 27 (the amending section), this section, as in force immediately before the amending section came into operation, continues to apply in relation to a rate payable for a financial year commencing before a financial year referred to in subsection (1).
+Note:The heading to amended section 60 is to read:
+Rates on pastoral leases
+28.Section 61 deleted
+Delete section 61.
+29.Section 62 amended
+(1) In section 62(2) delete “each of sections 60 and 61,” and insert:
+section 60,
+(2) In section 62(8) delete “or 61”.
+30.Section 63 amended
+(1) In section 63(1) delete “or 61”.
+(2) Delete section 63(2).
+(3) In section 63(3) delete “or 61”.
+(4) In section 63(3a):
+(a) delete “or 61”;
+(b) in paragraph (a) delete “Protection Board” and insert:
+State
+(c) in paragraph (b) delete “Protection Board;” and insert:
+State;
+(5) In section 63(4) delete “Protection Board,” and insert:
+Minister,
+(6) Delete section 63(5).
+(7) In section 63(6) delete “or 61”.
+31.Section 64 amended
+(1) In section 64(1) and (2) delete “or 61”.
+(2) In section 64(5) delete “or 61”.
+32.Section 65 amended
+(1) Delete section 65(1) and insert:
+(1) All rates recovered under section 60 are to be credited to the Declared Pest Account.
+(2) Delete section 65(3)(a).
+(3) In section 65(3)(b):
+(a) delete “to which this subsection applies”;
+(b) delete “Control Account.” and insert:
+Declared Pest Account.
+(4) Delete section 65(4) and insert:
+(4) The costs of assessing, receiving and recovering rates under section 60 are to be charged under this subsection to the Consolidated Account.
+(5) If, in any financial year, the costs referred to in subsection (4) exceed the sum approved from time to time by the Treasurer, the Minister must, upon receipt of a certificate from the Commissioner certifying the amount of that excess, charge to the Declared Pest Account and credit to the Consolidated Account a sum equal to the amount of that excess.
+Note:The heading to amended section 65 is to read:
+Rates to be credited to Declared Pest Account
+33.Section 72 amended
+In section 72 delete the Penalty and insert:
+Penalty: a fine of $50 000.
+34.Section 74 amended
+(1) At the end of section 74(1) insert:
+Penalty: a fine of $50 000.
+(2) Delete section 74(2) and insert:
+(2) A person who brings into the State from elsewhere any coat, fodder, machinery, sack, seed, wool pack or restricted animal must, immediately on arrival of that thing, deliver the thing into the custody of an inspector or authorised person.
+Penalty: a fine of $50 000.
+(3) At the end of section 74 delete the Penalty.
+35.Section 75 amended
+(1) At the end of section 75(1) insert:
+Penalty: a fine of $20 000.
+(2) At the end of section 75(1a) insert:
+Penalty: a fine of $20 000.
+(3) At the end of section 75(1b) insert:
+Penalty: a fine of $20 000.
+(4) At the end of section 75(2) insert:
+Penalty: a fine of $20 000.
+(5) At the end of section 75 delete the Penalty.
+36.Section 77 amended
+(1) In section 77(1) delete the Penalty and insert:
+Penalty: a fine of $50 000.
+(2) In section 77(2) delete “it considers” and insert:
+the Director General considers
+37.Section 78 amended
+In section 78 delete the Penalty and insert:
+Penalty: a fine of $20 000.
+38.Section 79 amended
+(1) At the end of section 79(1) insert:
+Penalty: a fine of $20 000.
+(2) At the end of section 79(2) insert:
+Penalty: a fine of $20 000.
+(3) At the end of section 79 delete the Penalty.
+39.Section 80 amended
+(1) In section 80(1) delete the Penalty and insert:
+Penalty: a fine of $20 000.
+(2) In section 80(2) delete “it considers” and insert:
+the Director General considers
+40.Section 81 amended
+In section 81 delete the Penalty and insert:
+Penalty: a fine of $20 000.
+41.Section 83 amended
+In section 83(1) delete the Penalty and insert:
+Penalty: a fine of $20 000.
+42.Section 83A amended
+Delete section 83A(3), (4), (5) and (6).
+43.Section 94A amended
+In section 94A delete “Chief Officer” and insert:
+Director General
+44.Sections 95 and 96 replaced
+Delete sections 95 and 96 and insert:
+95.Judicial notice of signatures
+A person acting judicially must take judicial notice of the signature of the Director General and of the Minister.
+96.Authentication of documents
+Subject to this Act, every document required or used for or in connection with the purposes of this Act may be authenticated by the signature of the Director General or the Minister.
+45.Section 97 amended
+In section 97(1):
+(a) delete “the Minister or the Protection Board,” and insert:
+the State under this Act,
+(b) delete “Minister, the Chairman of the Protection Board or the Chief Officer,” and insert:
+Minister or the Director General,
+(c) delete “the Minister or the Protection Board in” and insert:
+the Minister or the Director General in
+46.Section 98 replaced
+Delete section 98 and insert:
+98.Prosecutions
+A prosecution for an offence under this Act cannot be commenced except by or with the approval of the Director General.
+47.Section 99 amended
+In section 99 delete “it may,” and insert:
+the Minister may,
+48.Section 103 replaced
+Delete section 103 and insert:
+103.Governor may make regulations
+The Governor may make regulations prescribing all matters which by this Act are required or permitted to be prescribed or are contemplated as being prescribed or which are necessary or expedient to be prescribed for carrying this Act into effect.
+49.Section 104 amended
+In section 104:
+(a) delete paragraphs (a), (b), (c) and (d);
+(b) in paragraph (g) delete “Protection Board.” and insert:
+State.
+50.Section 105 amended
+In section 105:
+(a) in paragraph (e) delete “to the Protection Board”;
+(b) delete paragraph (s)(iii) and “and” after it and insert:
+(iii) providing for the recovery from the owner, consignor, consignee, or person in possession or control of any animal, thing or prohibited material, of the expenses incurred by officers of the department in connection with that animal, thing or prohibited material;
+(c) in paragraph (t)(iii) delete “Protection Board to impose, in any permit issued by it under regulations made pursuant to this paragraph, any further conditions and restrictions as to such introduction, keeping, sale, or disposal that it” and insert:
+Director General to impose, in any permit issued by the Director General under regulations made under this paragraph, any further conditions and restrictions as to such introduction, keeping, sale or disposal that the Director General
+(d) in paragraph (w) delete “Protection Board” and insert:
+department
+(e) in paragraph (x) delete “referred to in section 8(1)(k) of the Agriculture Protection Board Act 1950” and insert:
+for the destruction of declared animals
+51.Section 106 amended
+In section 106(1):
+(a) in paragraph (a) delete “Minister and the Protection Board to erect,” and insert:
+Director General to erect,
+(b) in paragraph (a) delete “Minister and the Protection Board and their respective” and insert:
+Director General and the department’s
+(c) in paragraph (b) delete “Crown and the Protection Board” and insert:
+State
+(d) in paragraph (b) delete “Crown or Protection Board;” and insert:
+State;
+(e) in paragraph (j) delete “Chief Officer” and insert:
+Director General
+(f) in paragraph (n)(i) delete “Minister or Protection Board” and insert:
+State
+(g) in paragraph (p) delete “Minister or the Protection Board” and insert:
+State
+52.Section 108 replaced
+Delete section 108 and insert:
+108.Penalties under regulations
+Regulations made under this Act may impose for a breach of a regulation so made a maximum penalty not exceeding $20 000, with or without a fine for each separate and further offence committed under the Interpretation Act 1984 section 71 of not more than $500.
+53.Part X deleted
+Delete Part X.
+54.Part XI inserted
+At the end of the Act insert:
+Part XI — Agriculture and Related Resources Protection Amendment Act 2010 — Savings and transitional provisions
+120.Terms used
+In this Part —
+commencement day means the day on which the Agriculture and Related Resources Protection Amendment Act 2010 section 7 comes into operation;
+Protection Board means the Agriculture Protection Board of Western Australia constituted under the Agriculture Protection Board Act 1950.
+121.Approvals and certificates
+An approval or certificate given by the Chief Officer under this Act as in force before the commencement day and of effect on that day has effect on and after that day as if it were an approval or certificate of the Director General.
+122.Authorised persons
+An authorisation given under section 11 as in force before the commencement day and in effect immediately before that day has effect on and after that day as if it were an authorisation of the Director General.
+123.Declarations
+A declaration made by the Protection Board under this Act as in force before the commencement day and in effect immediately before that day has effect on and after that day as if it were a declaration of the Minister.
+124.Rates payable under section 61
+Despite the amendments made by the Agriculture and Related Resources Protection Amendment Act 2010 sections 28 to 32 (the amending sections), sections 61 to 65, as in force before the amending sections came into operation, continue to apply in relation to a rate payable for a financial year commencing on a day before the amending sections came into operation except that —
+(a) any reference in section 63(3a) or (4) to the Protection Board is to be taken to be a reference to the Minister; and
+(b) rates recovered under section 61 after the coming into operation of the Agriculture and Related Resources Protection Amendment Act 2010 section 28 are to be credited to the Declared Pest Account.
+125.Funds in, or payable to, former account
+(1) In this section —
+closure day means the day on which the Agriculture and Related Resources Protection Amendment Act 2010 section 32 comes into operation;
+former account means the Declared Plants and Animals Control Fund referred to in section 65 as in force before the closure day.
+(2) On the closure day any moneys standing to the credit of the former account are to be credited to the Declared Pest Account and the former account is then to be closed.
+(3) Moneys referred to in subsection (2) may be applied —
+(a) in the payment of any liabilities of the former account which arose before the closure day; and
+(b) for the purposes set out in the Biosecurity and Agriculture Management Act 2007 section 138.
+(4) The Declared Pest Account is to be credited with any money that became payable to the former account before the closure day and that is paid after that day.
+(5) If in an agreement, instrument or other document there is a reference to the former account, that reference is, unless the context otherwise requires, to be read and have effect on and after the closure day as if it were a reference to the Declared Pest Account.
+126.Management programmes
+A management programme made and published under section 66 as in force before the commencement day and in effect immediately before that day has effect on and after that day as if it were made and published under that section by the Minister.
+127.Notices
+A notice given to the Protection Board under section 74, 75 or 76 as in force before the commencement day has effect on and after that day as if it were a notice given under that section to the Director General.
+128.Permissions and authorities
+(1) Permission granted by the Protection Board under section 77 or 80 as in force before the commencement day has effect on and after that day as if it were permission granted under that section by the Director General.
+(2) A written authority given by the Protection Board under section 79(2) as in force before the commencement day has effect on and after that day as if it were given under that section by the Director General.
+129.Transitional regulations
+(1) If there is no sufficient provision in this Part for dealing with a transitional matter, regulations may prescribe all matters that are required or necessary or convenient to be prescribed for dealing with the matter.
+(2) In subsection (1) —
+transitional matter means a matter that needs to be dealt with for the purpose of effecting the transition from an Act (including this Act) as enacted immediately before the commencement day to the Act as amended by the Agriculture and Related Resources Protection Amendment Act 2010.
+(3) Regulations made under subsection (1) may provide that specified provisions of this Act as in force after the commencement of the Agriculture and Related Resources Protection Amendment Act 2010, or of subsidiary legislation made under this Act, or of an Act amended by the Agriculture and Related Resources Protection Amendment Act 2010 —
+(a) do not apply; or
+(b) apply with specified modifications,
+to or in relation to any matter.
+(4) If regulations under subsection (1) provide that a specified state of affairs is to be taken to have existed, or not to have existed, on and from a day that is earlier than the day on which the regulations are published in the Gazette but not earlier than the commencement day, the regulations have effect according to their terms.
+(5) In subsections (3) and (4) —
+specified means specified or described in the regulations.
+(6) If regulations contain a provision referred to in subsection (4), the provision does not operate so as to —
+(a) affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
+(b) impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
+55.Various references to “Protection Board” amended
+(1) In the provisions listed in the Table delete “Protection Board” (each occurrence) and insert:
+Minister
+Table
+s. 7(1) def. of declaration | s. 7(1) def. of management programme
+s. 35(1) | s. 36(1), (3) and (4)
+s. 66(1), (3) and (4)(c) | s. 99
+(2) In the provisions listed in the Table delete “Protection Board” (each occurrence) and insert:
+Director General
+Table
+s. 7(1) def. of barrier fence | s. 41(1) and (2)
+s. 46(1) and (2) | s. 48
+s. 50(1)(b) | s. 51(2a)
+s. 54(5) | s. 55(1) and (2)
+s. 56(1) and (2) | s. 68(3), (4) and (5)
+s. 69(1) | s. 71(2)
+s. 74(1) | s. 75(2)
+s. 76(1) and (2) | s. 77(2) and (4)
+s. 79(2) | s. 80(2) and (4)
+s. 84(4) | s. 106(1)(c), (d), (i) and (k)
+56.Various penalties amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+s. 48 | $200 | a fine of $20 000
+s. 53 | $500 | a fine of $20 000
+s. 68(6) | $1 000 | a fine of $50 000
+s. 69(3) | $500 | a fine of $20 000
+s. 70(3) | $500 | a fine of $20 000
+s. 83A(2) | $1 000 | a fine of $50 000
+s. 85(4) | $2 000 | a fine of $20 000
+s. 87 | $2 000 | a fine of $20 000
+s. 88 | $1 500 | a fine of $20 000
+s. 92(6) | $200 | a fine of $20 000
