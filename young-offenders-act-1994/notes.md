@@ -46,6 +46,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Cannabis Law Reform Act 2010 Pt. 5 | 45 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -97,6 +98,22 @@ s. 17 | Obtaining payment for commercial sexual act by a child
 s. 18 | Agreement for a child to act as a sex worker
 ”.
 ”.
+On the date as at which this compilation was prepared, the Cannabis Law Reform Act 2010 Pt. 5 had not come into operation. It reads as follows:
+Part 5 — Young Offenders Act 1994 amended
+11.Act amended
+This Part amends the Young Offenders Act 1994.
+12.Section 25 amended
+Delete section 25(3) and insert:
+(3) In subsection (2) —
+infringement notice means —
+(a)a notice issued under a written law to a person alleging the commission of an offence and offering the person an opportunity, by paying an amount of money prescribed under the written law and specified in the notice, to have the matter dealt with out of court; or
+(b)a cannabis intervention requirement given under the Misuse of Drugs Act 1981 Part IIIA.
+13.Section 29 amended
+In section 29(2):
+(a) after paragraph (a) insert:
+(ba) has been given an infringement notice, as defined in section 25(3); or
+(b) after paragraph (a) insert:
+or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
