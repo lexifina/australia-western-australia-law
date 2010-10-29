@@ -7,5 +7,6 @@ Cement Works (Cockburn Cement Limited) Agreement Amendment Act 1986 | 82 of 1986
 Cement Works (Cockburn Cement Limited) Agreement Amendment Act 1997 | 27 of 1997 | 24 Sep 1997 | 24 Sep 1997 (see s. 2)
 Reprint of the Cement Works (Cockburn Cement Limited) Agreement Act 1971 as at 17 May 2002 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Cement Works (Cockburn Cement Limited) Agreement Amendment Act 2010 | 41 of 2010 | 28 Oct 2010 | s. 1 and 2: 28 Oct 2010 (see s. 2(a)); Act other than s. 1 and 2: 29 Oct 2010 (see s. 2(b))
 Marginal notes in the agreement have been represented as bold headnotes in this reprint but that does not change their status as marginal notes.
 Documents formerly registered in the Office of Titles are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
