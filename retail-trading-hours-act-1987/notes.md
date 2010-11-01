@@ -19,10 +19,10 @@ Acts Amendment (Bankruptcy) Act 2009 s. 75 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Retail Trading Hours Amendment (Joondalup Special Trading Precinct) Act 2010 | 22 of 2010 | 7 Jul 2010 | s. 1 and 2: 7 Jul 2010 (see s. 2(a)); Act other than s. 1 and 2: 8 Jul 2010 (see s. 2(b))
 Retail Trading Hours Amendment (Armadale Special Trading Precinct) Act 2010 | 36 of 2010 | 22 Sep 2010 | s. 1 and 2: 22 Sep 2010 (see s. 2(a)); Act other than s. 1 and 2: 23 Sep 2010 (see s. 2(b))
 Retail Trading Hours Amendment (Midland Special Trading Precinct) Act 2010 | 37 of 2010 | 22 Sep 2010 | s. 1 and 2: 22 Sep 2010 (see s. 2(a)); Act other than s. 1 and 2: 23 Sep 2010 (see s. 2(b))
+Retail Trading Hours Amendment Act 2010 | 38 of 2010 | 1 Oct 2010 | s. 1 and 2: 1 Oct 2010 (see s. 2(a)); Act other than s. 1 and 2: 1 Nov 2010 (see s. 2(b) and Gazette 22 Oct 2010 p. 5207)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Retail Trading Hours Amendment Act 2010 s. 3-7 | 38 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
@@ -34,41 +34,6 @@ An order made, or purporting to have been made, under the Retail Trading Hours A
 (b) continues, on and after that commencement, to have effect and the force of law; and
 (c) in relation to an order made under section 5, 12, 13 or 14 of that Act that continues to have effect and the force of law under paragraph (b) — may be amended or revoked as if it had been made under section 12E of that Act as amended by this Act.
 ”.
-On the date as at which this compilation was prepared, the Retail Trading Hours Amendment Act 2010 s. 3-7 had not come into operation. They read as follows:
-3.Act amended
-This Act amends the Retail Trading Hours Act 1987.
-4.Section 12 amended
-(1) In section 12(1):
-(a) after “retail shop” (second occurrence) insert:
-that is not in the metropolitan area
-(b) after each of paragraphs (a) to (c) insert:
-and
-(2) In section 12(2):
-(a) in paragraph (a) delete “special trading precinct or”;
-(b) delete paragraph (b) and “or” after it;
-(c) after paragraph (a) insert:
-or
-(3) After section 12(2) insert:
-(3) Subject to this Act and any order made under section 12E(1) that affects the trading hours of a general retail shop, a general retail shop in the metropolitan area shall be closed —
-(a) on Monday, Tuesday, Wednesday, Thursday and Friday in each week, until 8 a.m. and from and after 9 p.m.; and
-(b) on Saturday in each week, until 8 a.m. and from and after 5 p.m.; and
-(c) on Sunday in each week; and
-(d) on each public holiday and public half-holiday.
-(4) Subsection (3) does not apply to —
-(a) a general retail shop in a special trading precinct or holiday resort, as defined in section 12A(4); or
-(b) a general retail shop to which an order under section 12A applies by the operation of subsection (3) of that section; or
-(c) a motor vehicle shop.
-5.Section 12E amended
-(1) In section 12E(1)(a) delete “section 12(1),” insert:
-section 12(1) or (3),
-(2) Delete section 12E(2) and insert:
-(2) An order varying the trading hours of general retail shops in the metropolitan area (other than an order under section 12A) can have effect only in relation to a day or days within the period of 28 days ending on 1 January.
-6.Section 14A amended
-In section 14A(1) delete “section 12(1),” and insert:
-section 12(1) if the filling station is not in the metropolitan area or section 12(3) if the filling station is in the metropolitan area,
-7.Section 14C amended
-In section 14C(4)(a) delete “section 12(1);” and insert:
-section 12(1) if the filling station is not in the metropolitan area or section 12(3) if the filling station is in the metropolitan area; or
 On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
 89.Various references to “Minister for Public Sector Management” amended
 (1) This section amends the Acts listed in the Table.
