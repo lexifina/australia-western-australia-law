@@ -70,6 +70,7 @@ Occupational Safety and Health Amendment Regulations 2010 | 25 May 2010 p. 2276-
 Occupational Safety and Health Amendment Regulations (No. 3) 2010 | 25 Jun 2010 p. 2885-6 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 2) 2010 | 9 Jul 2010 p. 3246-7 | r. 1 and 2: 9 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jul 2010 (see r. 2(b) and Gazette 13 Jul 2010 p. 3291)
 Occupational Safety and Health Amendment Regulations (No. 5) 2010 | 14 Sep 2010 p. 4406-7 | r. 1 and 2: 14 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Sep 2010 (see r. 2(b))
+Occupational Safety and Health Amendment Regulations (No. 4) 2010 | 2 Nov 2010 p. 5499-500 | r. 1 and 2: 2 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Nov 2010 (see r. 2(b))
 The amendment to r. 5.46 in the Occupational Safety and Health Amendment Regulations (No. 3) 2009 r. 10(b) is not included because it was unclear where the amendment was intended to be made. Regulation 10(b) reads as follows:
 10.Regulation 5.46 amended
 In regulation 5.46(1):

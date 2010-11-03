@@ -17,7 +17,7 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
  | AS 1418.5-2002 | Mobile cranes
  | AS 1418.6-2004 | Cranes, hoists and winches — Guided storing and retrieving appliances
  | AS 1418.7-1999 | Builders’ hoists and associated equipment
- | AS 1418.8-2002 | Special purpose appliances
+ | AS 1418.8-2008 | Special purpose appliances
  | AS/NZS 1418.9:1996 | Vehicle hoists
  | AS 1418.10(Int)-2004 | Cranes, hoists and winches — Elevating work platforms
  | AS 1418.11-2007 | Cranes, hoists and winches — Vehicle-loading cranes
@@ -39,7 +39,7 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
 9 | AS 1674 | Safety in welding and allied processes | 3.96
  | AS 1674.1-1997 | Fire precautions
  | AS 1674.2-2007 | Safety in welding and allied processes — Electrical
-10 | AS/NZS 1715:1994 | Selection, use and maintenance of respiratory protective devices | 3.37, 3.40, 3.42
+10 | AS/NZS 1715:2009 | Selection, use and maintenance of respiratory protective devices | 3.37, 3.40, 3.42
 11 | AS/NZS 1716:2003 | Respiratory protective devices | 3.40, 3.42
 12 | AS 1735 | Lifts, escalators, and moving walks (known as the SAA Lift Code) | 4.56, Sch. 4.3
  | AS 1735.1-2003 | Lifts, escalators and moving walks — General requirements
@@ -69,7 +69,7 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
  | AS/NZS 1892.1:1996 | Metal
  | AS 1892.2-1992 | Timber
 16 | AS 2030 | The verification, filling, inspection, testing and maintenance of cylinders for storage and transport of compressed gases | 4.1, 4.43, Sch. 4.2, Sch. 4.3
- | AS 2030.1-1999 | Cylinders for compressed gases other than acetylene
+ | AS 2030.1-2009 | Cylinders for compressed gases other than acetylene
  | AS 2030.2-1996 | Cylinders for dissolved acetylene
  | AS 2030.4-1985 | Welded cylinders — Insulated
  | AS 2030 Supplement 1-1986 | Foreign gas cylinder specifications
@@ -111,7 +111,8 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
 24 | AS/NZS 2299 | Occupational diving operations | 3.29
  | AS/NZS 2299.1:1999 | Occupational diving operations — Standard operational practice
  | AS/NZS 2299.1 Supplement 1:1999 | Standard operational practice — AS/NZS 2299 Diving Medical Examination Forms
-25 | AS/NZS ISO 2800: 2008 | Clothing for protection against heat and flame — General recommendations for selection, use, care and maintenance | 3.33
+25 | AS/NZS ISO 2801: 2008 | Clothing for protection against heat and flame — General recommendations for selection, use, care and maintenance | 3.33
+26A | AS/NZS 4501.1:2008 | Occupational protective clothing — Guidelines on the selection, use, care and maintenance of protective clothing | 3.33
 26 | AS 2397-1993 | Safe use of lasers in the building and construction industry | 4.49
 27 | AS 2444-2001 | Portable fire extinguishers and fire blankets — Selection and location | 3.9
 28 | AS 2550 | Cranes — Safe use | 4.54
@@ -136,7 +137,7 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
 35 | AS/NZS 3000:2007 | Electrical installations (known as the Australian/New Zealand Wiring Rules) | 3.101, 4.27
 36 | AS/NZS 3012:2003 | Electrical installations — Construction and demolition sites | 3.58, 3.60, 3.61, 3.62, 3.63, 3.64
 37 | AS/NZS 61558.2.23:2001 | Safety of power transformers, power supply units and similar devices — Particular requirements for transformers for construction sites (IEC 61558-2-23:2000, MOD) | 3.60
-38 | AS/NZS 3509:2003 | LP gas fuel vessels for automotive use | Sch. 4.2, Sch. 4.3
+38 | AS/NZS 3509:2009 | LP gas fuel vessels for automotive use | Sch. 4.2, Sch. 4.3
 39 | AS 3533 | Amusement rides and devices | 4.52, Sch. 4.1, Sch. 4.2, Sch. 4.3
  | AS 3533.1-1997 | Amusement rides and devices — Design and construction
  | AS 3533.1 Supplement 1-2003 | Amusement rides and devices — Design and construction — Intrinsic safety (Supplement to AS 3533.1-1997)
@@ -157,4 +158,4 @@ Item | AS or AS/NZS Number | Title | Regulation Reference
 48 | AS 4343-2005 | Pressure equipment — Hazard levels | 4.1, Sch. 4.1, Sch. 4.2, Sch. 4.3
 49 | AS/NZS 4431:1996 | Guidelines for safe working on new lift installations in new constructions | 4.57
 50 | AS/NZS 4576:1995 | Guidelines for scaffolding | 3.26
-[Schedule 1 inserted in Gazette 28 Nov 2008 p. 5032-41; amended in Gazette 5 Jun 2009 p. 1880-1; 15 Jan 2010 p. 75.]
+[Schedule 1 inserted in Gazette 28 Nov 2008 p. 5032-41; amended in Gazette 5 Jun 2009 p. 1880-1; 15 Jan 2010 p. 75; 2 Nov 2010 p. 5499-500.]
