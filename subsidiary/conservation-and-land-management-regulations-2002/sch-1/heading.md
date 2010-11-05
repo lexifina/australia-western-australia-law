@@ -45,14 +45,23 @@
 ## Division 6 — Camping site fees
 [Heading inserted in Gazette 29 Sep 2006 p. 4329.]
  |  | Fee per night $
-1. | Fee for site with no ablutions or showers — each person 16 years of age or over each person 16 years of age or over who holds a concession card each person of more than 5 and less than 16 years of age | 7.00 5.00 2.00
-2. | Fee for site with facilities including ablutions or showers — each person 16 years of age or over each person 16 years of age or over who holds a concession card each person of more than 5 and less than 16 years of age | 9.00 6.00 2.00
-3. | Fee for site in Windjana Gorge National Park, Purnululu National Park or King Leopold Ranges Conservation Park — each person 16 years of age or over each person 16 years of age or over who holds a concession card each person of more than 5 and less than 16 years of age | 11.00 8.00 2.00
+1. | Fee for site with no ablutions or showers — each person 16 years of age or over | 7.00
+ | each person 16 years of age or over who holds a concession card | 5.00
+ | each person of more than 5 and less than 16 years of age | 2.00
+2. | Fee for site with facilities including ablutions or showers — each person 16 years of age or over | 9.00
+ | each person 16 years of age or over who holds a concession card | 6.00
+ | each person of more than 5 and less than 16 years of age | 2.00
+3. | Fee for site in Windjana Gorge National Park, Purnululu National Park or King Leopold Ranges Conservation Park — each person 16 years of age or over | 11.00
+ | each person 16 years of age or over who holds a concession card | 8.00
+ | each person of more than 5 and less than 16 years of age | 2.00
 [Division 6 inserted in Gazette 29 Sep 2006 p. 4329; amended in Gazette 28 Aug 2009 p. 3355 and 3356.]
 ## Division 7 — Cave entrance fees
  |  | $
-1. | Crystal Cave, Yanchep National Park — each person 16 years of age or over each person of more than 5 and less than 16 years of age a family (2 adults and 2 children of more than 5 and lessthan 16 years of age) each person who holds a concession card | 10.00 5.00 25.00 8.00
-2. | Calgardup and Giants Caves, Leeuwin-Naturaliste National Park — each person 16 years of age or over each person of more than 5 and less than 16 years of age a family (2 adults and 2 children of more than 5 and less than 16 years of age) each person who holds a concession card | 15.00 8.00 40.00 10.00
+1. | Crystal Cave, Yanchep National Park — each person 16 years of age or over each person of more than 5 and less than 16 years of age a family (2 adults and 2 children of more than 5 and less than 16 years of age) each person who holds a concession card | 10.00 5.00 25.00 8.00
+2. | Calgardup and Giants Caves, Leeuwin-Naturaliste National Park — each person 16 years of age or over | 15.00
+ | each person of more than 5 and less than 16 years of age | 8.00
+ | a family (2 adults and 2 children of more than 5 and less than 16 years of age) | 40.00
+ | each person who holds a concession card | 10.00
 [Division 7 amended in Gazette 29 Sep 2006 p. 4329-30; 28 Aug 2009 p. 3357.]
 ## Division 8 — Licence and permit fees
  |  | $
