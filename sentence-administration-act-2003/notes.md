@@ -16,7 +16,7 @@ Under the Cross-border Justice Act 2008 section 14, in order to give effect to t
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The Sentencing Legislation Amendment and Repeal Act 2003 Pt. 2 Div. 4 commenced 31 Aug 2003 (see Gazette 29 Aug 2003 p. 3833).
 The Sentencing Legislation Amendment and Repeal Act 2003 Pt. 6 requires a review of certain provisions. It was repealed by the Parole and Sentencing Legislation Amendment Act 2006 (No. 41 of 2006) s. 94 (commenced on 28 Jan 2007 see s. 2 and Gazette 29 Dec 2006 p. 5867).
 The Parole and Sentencing Legislation Amendment Act 2006 Pt. 7 reads as follows:
