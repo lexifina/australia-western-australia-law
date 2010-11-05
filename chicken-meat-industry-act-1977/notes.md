@@ -14,7 +14,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 The appointed day is 21 August 1987; see Gazette 21 Aug 1987 p. 3261.
 Act continued for 7 years succeeding 31 Dec 1989 until 31 Dec 1996 (see notice in Gazette 15 Dec 1989 p. 4586) and for a further period of 7 years succeeding 31 Dec 1996 until 31 Dec 2003 (see notice in Gazette 14 Nov 1996 p. 6441) and for a further period of 7 years succeeding 31 Dec 2003 until 31 Dec 2010 (see notice in Gazette 19 Dec 2003 p. 5140).
