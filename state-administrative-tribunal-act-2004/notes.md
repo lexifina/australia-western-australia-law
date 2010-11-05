@@ -29,7 +29,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
 Health Practitioner Regulation National Law (WA) Act 2010 s. 157(3) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
-Public Sector Reform Act 2010 s. 84 and 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 84 and 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 had not come into operation. It reads as follows:
 82.State Administrative Tribunal Act 2004 amended
