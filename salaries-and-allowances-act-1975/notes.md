@@ -50,7 +50,7 @@ Reprint 5: The Salaries and Allowances Act 1975 as at 2 Jul 2010 (includes amend
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Public Sector Reform Act 2010 s. 83 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 83 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The provision in this Act repealing the Parliamentary Salaries and Allowances Act 1967 was repealed by the Parliamentary Superannuation Legislation Amendment Act 2000 s. 22.
 Now see the Interpretation Act 1984 s. 52.
 The Salaries and Allowances Amendment Act 1995 s. 6 reads as follows:
