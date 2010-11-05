@@ -53,7 +53,7 @@ Short title | Number and year | Assent | Commencement
 Local Government Amendment Act 2009 s. 34 | 17 of 2009 | 16 Sep 2009 | To be proclaimed (see s. 2(b))
 Co-operatives Act 2009 s. 506 and 516 | 24 of 2009 | 22 Oct 2009 | s. 506: operative on the day Co-operative Bulk Handling Limited becomes registered under this Act (see s. 2(d)); s. 516: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 34 and Pt. 5 Div 2 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
