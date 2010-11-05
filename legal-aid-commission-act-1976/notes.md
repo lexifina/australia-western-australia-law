@@ -38,7 +38,7 @@ On the date as at which this compilationwas prepared, provisions referred to in 
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Appointed day 17 April 1978; see Gazette 17 March 1978 p. 800.
 Repealed by the Associations Incorporation Act 1987.
 Repealed by the Statute Stocktake Act 1999 s. 3 of the Commonwealth (No. 118 of 1999).
