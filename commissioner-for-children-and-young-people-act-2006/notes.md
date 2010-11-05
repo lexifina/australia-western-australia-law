@@ -10,7 +10,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 Sch. 1 cl. 2 and 3 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 s. 65, which gives effect to Sch. 1 cl. 2 and 3, had not come into operation. It reads as follows:
 “
 65.Consequential amendments
