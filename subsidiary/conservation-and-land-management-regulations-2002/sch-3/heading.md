@@ -25,12 +25,12 @@ Conservation and Land Management Act 1984
 Date . . . ./ . . . . / . . . .
 To . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (name)
 of . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .(address)
-1. Infringement Notice No. . . . . . . . . . . . . . . . Date . . . ./ . . . ./ . . for the alleged offence of . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .and specifying the modified penalty of $. . . . . . . . is withdrawn.
+1. Infringement Notice No. . . . . . . . . . . . . . Date . . . ./ . . . ./ . . . . for the alleged offence of . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .and specifying the modified penalty of $. . . . . . . . is withdrawn.
 2. No further action will be taken against you. *
 OR
 It is proposed to commence court proceedings against you for the alleged offence. *
 (* Delete whichever does not apply.)
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Chief Executive Officer,
 Department of Environment and Conservation
 [Form 2 amended in Gazette 29 Sep 2006 p. 4333.]
