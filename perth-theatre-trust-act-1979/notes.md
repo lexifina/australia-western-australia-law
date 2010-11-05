@@ -22,7 +22,7 @@ On the date on which this compilation was prepared, provisions referred to in th
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation(Transitional and Consequential Provisions) Act 2000 s. 57 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Public Sector Reform Act 2010 s. 90 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 90 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Under section 31(1)(f) of the Acts Amendment (Public Service) Act 1987 (No. 113 of 1987) references to “Permanent Head” may be construed as references to “chief executive officer”.
 Repealed by the Mental Health (Consequential Provisions) Act 1996 (No. 69 of 1996). Now see the Mental Health Act 1996 (No. 68 of 1996).
 Under section 112(2) of the Public Sector Management Act 1994 (No. 31 of 1994) references to the Public Service Board may be construed as references to the Minister for Public Sector Management.
