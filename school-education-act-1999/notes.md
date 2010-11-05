@@ -19,7 +19,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 s. 182(3) and 208 | 36 of 1999 | 2 Nov 1999 | To be proclaimed (see s. 2)
-Public Sector Reform Act 2010 s. 89 and 110 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 and 110 | 39 of 2010 | 1 Oct 2010 | s. 89: 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563) s. 110: 28 Mar 2011 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The provisions in this Act amending the other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Children and Community Services Act 2004.
 On the date as at which this compilation was prepared, the School Education Act 1999 s. 182(3) and 208 had not come into operation. They read as follows:
