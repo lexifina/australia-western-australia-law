@@ -38,7 +38,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 28 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 34 and 40-48 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Under the Public Sector Management Act 1994 s. 112(2), a reference to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Public Service Appeal Board Act Repeal Act 1977.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
