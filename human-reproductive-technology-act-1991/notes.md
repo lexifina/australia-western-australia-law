@@ -29,7 +29,7 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 27 | 35 of 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendments to s. 29(3) in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 525(1)(c) are not included because it was unclear where it was intended to be made. Section 525(1)(c) reads as follows:
 (c) by deleting “it” after “as and after “provided”” and inserting instead —
