@@ -52,6 +52,7 @@
 [13, 14.deleted]
 15.Disability Services Commission continued under the Disability Services Act 1993
 16.East Perth Redevelopment Authority established under the East Perth Redevelopment Act 1991
+[17.deleted]
 17A.Electricity Generation Corporation established by the Electricity Corporations Act 2005
 17B.Electricity Networks Corporation established by the Electricity Corporations Act 2005
 17C.Electricity Retail Corporation established by the Electricity Corporations Act 2005
