@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Superannuation Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 November 2010 of the State Superannuation Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 State Superannuation Regulations 2001 | 16 Feb 2001 p. 921-1074 | 17 Feb 2001 (see r. 2 and Gazette 16 Feb 2001 p. 903)
@@ -33,17 +33,21 @@ Reprint 3: The State Superannuation Regulations 2001 as at 3 Aug 2007 (includes 
 State Superannuation Amendment Regulations 2008 Pt. 2 | 18 Jan 2008 p. 149-56 | 19 Jan 2008 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 2) 2008 | 1 Apr 2008 p. 1283-6 | r. 1 and 2: 1 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2008 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 3) 2008 | 11 Apr 2008 p. 1376-80 | r. 1 and 2: 11 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Apr 2008 (see r. 2(b))
-State Superannuation Amendment Regulations (No. 6) 2008 | 8 Jul 2008 p. 3211-38 | 8 Jul 2008 (see r. 2)
 Eastern Goldfields Transport Board Repeal Act 2008 s. 16 assented to 1 Jul 2008 | 29 Jul 2008
+State Superannuation Amendment Regulations (No. 6) 2008 | 8 Jul 2008 p. 3211-38 | 8 Jul 2008 (see r. 2)
 State Superannuation Amendment Regulations 2009 Pt. 2 | 24 Nov 2009 p. 4740-3 | 25 Nov 2009 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 4) 2009 | 8 Jan 2010 p. 29-30 | r. 1 and 2: 8 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jan 2010 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 2) 2010 | 30 Jun 2010 p. 3131-55 | r. 1 and 2: 30 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
-The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional And Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. Part 9 of these regulations were amending regulations under that subsection. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed in the Acts database of the Statutes of Western Australia.
+Reprint 4: The State Superannuation Regulations 2001 as at 5 Nov 2010 (includes amendments listed above)
+The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. Part 9 of these regulations were amending regulations under that subsection. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed in the Acts database of the Statutes of Western Australia.
 Formerly referred to the Water Services Coordination Act 1995 the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Repealed by the Nurses and Midwives Act 2006.
+Repealed by the Water Resources Legislation Amendment Act 2007.
+The Waterways Conservation Act 1976 s. 14 has been deleted by the Water Resources Legislation Amendment Act 2007 s. 150.
 Formerly referred to the Workers’ Compensation and Rehabilitation Commission constituted under the Workers’ Compensation and Rehabilitation Act 1981. The name of the Commission was changed to WorkCover Western Australia Authority and the short title of the Act was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5 and 81. The references were changed under the Reprints Act 1984 s. 7(3)(gb) and (h).
 Repealed by the State Superannuation Act 2000.
+Repealed by the Courts Legislation Amendment and Repeal Act 2004.
 The Superannuation Legislation Amendment and Validation Act 2006 s. 19 reads as follows:
-“
 19.Validation of statutory membership of workers who ceased to be excluded
 (1) A person who —
 (a) when the State Superannuation Regulations 2001 came into operation —
@@ -53,9 +57,226 @@ and
 (b) before the State Superannuation Amendment Regulations 2006 came into operation, ceased to be so excluded,
 is taken to have become a statutory Member when he or she ceased to be so excluded.
 (2) Anything done or purported to have been done under the State Superannuation Regulations 2001 before this Act came into operation in relation to a person to whom subsection (1) applies, is as valid as it would have been if the State Superannuation Amendment Regulations 2006 had come into operation immediately after the State Superannuation Regulations 2001 came into operation.
-”.
-The State Superannuation Amendment Regulations 2006 r. 20(2) reads as follows:
-“
-(2) If a preserved benefit of less than $200 has not been paid because of the operation of regulation 76(4) (as in force before this regulation came into operation), the benefit ceases to be a preserved benefit when this regulation comes into operation even if, at that time, the benefit plus interest on it, is or exceeds $200.
-”.
 The State Superannuation Amendment Regulations (No. 4) 2008 had not come into operation when it was deleted by the State Superannuation Amendment Regulations 2009 Pt. 3.
+The State Superannuation Amendment Regulations 2006 r. 20(2) reads as follows:
+(2) If a preserved benefit of less than $200 has not been paid because of the operation of regulation 76(4) (as in force before this regulation came into operation), the benefit ceases to be a preserved benefit when this regulation comes into operation even if, at that time, the benefit plus interest on it, is or exceeds $200.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+1987 part-time transfereeSch. 2 cl. 1(1)
+1987 schemeSch. 3 cl. 1(1)
+1993 schemeSch. 3 cl. 1(1)
+abridged financial information224(3)
+accumulation account3(1)
+accumulation scheme219F(1), 220
+ActSch. 3 cl. 56(2)
+actual tax amount49A(6), 81A(6)
+adjusted final remunerationSch. 2 cl. 1(1)
+adjustment day12, Sch. 3 cl. 5
+allocated pension fund171
+annual reporting day220
+ASICSch. 2 cl. 13
+ASIC workerSch. 2 cl. 13
+assessment notice49A(6), 81A(6)
+average contribution rate12, 13(1)
+average Part 6 contribution rateSch. 2 cl. 17
+benefit47(5)
+casual worker12
+charge percentage3(1)
+close of nominations225
+commencement day3(1)
+Commonwealth maximum171
+Commonwealth minimum171
+Commonwealth payment3(1)
+compassionate ground47A(8), 79A(7), 123(7)
+compulsory transfereeSch. 2 cl. 1(1)
+condition of release3(1)
+contact details220
+continued contributions option35(2)(a)
+continuesSch. 3 cl. 1(1)
+continuing Gold State Super MemberSch. 3 cl. 1(1)
+continuing MemberSch. 3 cl. 1(1)
+continuing West State Super MemberSch. 3 cl. 1(1)
+contribution day12
+contribution period3(1)
+contributions tax3(1)
+contributions-split transfer3(1)
+contributor64A(1), 94(3), 95(1)
+contributory membership period12, 14(1), Sch. 3 cl. 5
+covered GESB Super Member111A
+covered risk benefits Member69G
+CPI rate3(1)
+currentSch. 3 cl. 1(1)
+death benefit48(4), 80(4), 121(4)
+default plan69A, 105, 183, 196J, 211
+deferred contributions option35(2)
+dependant80(4), 121(4), 219(4)
+disablement benefit49(5), 81(5)
+discounted benefit47A(8)
+discretion noticeSch. 2 cl. 27(4)
+Division 1 Employer3(1)
+Division 2 Employer3(1)
+document251(5)
+DPPSch. 2 cl. 10
+earning rate3(1)
+earnings76A, 79AA(4), 117, 122(7)
+eligible Gold State worker12, 15(1)
+eligible risk benefits Member69G
+eligible rollover fund3(1)
+eligible statutory GESB Super Member83(1)
+eligible statutory WSS Member50(1)
+eligible termination payment3(1)
+employee54(1), 88(1)
+Employer3(1)
+employer contribution12
+employing authority9(5)
+end dateSch. 2 cl. 17
+estimated tax amount49A(2), 81A(2)(a)
+ex-spouse219A(1)
+Family Law Act3(1)
+final remuneration12, 16(1)
+flag lifting agreement219A(2)
+former member3(1)
+former MemberSch. 3 cl. 55(2)
+gainfully employed50(1), 83(1)
+GESB Super (Retirement Access) Member3(1)
+GESB Super (Retirement Access) Scheme3(1)
+GESB Super account83(1)
+GESB Super Member3(1)
+GESB Super Scheme3(1)
+GESB withdrawal benefit83(1)
+Gold State Super Member3(1)
+Gold State Super Scheme3(1)
+GSS withdrawal benefit12, Sch. 3, cl. 2
+health condition12, 50(1), 111A
+individual superannuation guarantee shortfall54(1), 88(1)
+industrial commissionerSch. 2 cl. 17
+investment powers246B(4)
+life expectancy196P(4)
+magistrateSch. 2 cl. 17
+Member3(1), 225
+member contribution12, 50(1)
+member contribution rate12, Sch. 3 cl. 5
+Member’s assets69E(3), 109(3), 187(4), 196N(4), 215(3)
+non-contributory periodSch. 2 cl. 7
+notional funded amount44D(4)
+notional unfunded amount44D(4)
+notional unreduced amount44D(4)
+old lawSch. 2 cl. 14(1)(a)
+operative time219A(2)
+opt-in notice69G, 111A
+organisation9(5), 225
+over 50 transferee police officerSch. 2 cl. 17
+over-OTE item55(1), 89(1)
+overpayment248B(1)
+parliamentarian3(1)
+Part 1 MemberSch. 2 cl. 1(1)
+Part 2 MemberSch. 2 cl. 7
+Part 6 MemberSch. 2 cl. 17
+part payment80B(1)
+partial and permanent disablement3(1)
+partner3(1), 65BA, 97
+partner GESB Super Member83(1)
+partner WSS Member50(1)
+payment split219A(2)
+pension day171, 196A
+Pension Scheme3(1)
+Pension Scheme Member3(1)
+pension total171
+permanent incapacity71(1)
+personalised investment plan69A, 105, 183, 196J, 211
+phased retirement benefit3(1)
+police officerSch. 2 cl. 17
+post-1987 part-time transfereeSch. 2 cl. 1(1)
+preservation age3(1)
+preserved3(1)
+previous lawSch. 2 cl. 7
+primary Member195, 196V(1)
+protected amount50(1)
+protected member103(6)
+provide medical information18(8)
+Provident Scheme3(1)
+Provident Scheme Member3(1)
+quarter3(1)
+readymade investment plan69A, 105, 183, 196J, 211
+recognised unpaid leave12
+reduced benefit option35(2)
+Registrar225
+regulated superannuation fund3(1)
+relevant MemberSch. 3 cl. 29(3)
+relevant parliamentarian6A(3)
+relevant regulationsSch. 2 cl. 13 and 15
+remuneration3(1), 5(1)
+reporting period220
+resignation daySch. 3 cl. 29(3)
+restricted non-preserved benefit3(1)
+retire50(2), 83(2)
+retirement access account201
+retirement income account171
+Retirement Income Member3(1)
+Retirement Income Scheme3(1)
+retrenched19(2)
+retrenched transfereeSch. 2 cl. 1(1)
+returning officer225
+reversionary pensioner171
+S&FB Act3(1)
+salary sacrifice agreement3(1)
+scheme entitlement amount44D(4)
+section 29 contributions6A(3)
+selection day12, 69E(2), 109(2)(a), 215(2)(a)
+severe financial hardship47A(8), 79A(7), 123(7)
+SGA Act3(1)
+SG-exempt Member55(1), 89(1)
+SG-Member55(1), 89(1)
+significant event224A(2)
+SIS Act3(1)
+SIS amount72(1), 116(1)
+SIS annual amount196R(6)
+SIS annuity or pension196S(4)
+SIS minimum amount196S(4)
+SIS Regulations3(1)
+special allowance12
+specified percentage44D(4)
+splittable contribution50(1), 83(1)
+splitting instrument219A(1)
+splitting order219A(2)
+statutory GESB Super Member83(1)
+statutory WSS Member50(1)
+suffering permanent incapacity76(4), 118(5)
+superannuation agreement219A(2)
+Superannuation Complaints Tribunal220
+superannuation fund3(1)
+superannuation guarantee charge54(1), 88(1)
+superannuation interest219A(1)
+superannuation salary in respect of a contribution period26(1)
+tax saving amount3(1)
+temporarily incapacitated72(1), 116(1)
+term allocated pension196A
+term allocated pension account196A
+Term Allocated Pension Member3(1)
+Term Allocated Pension Scheme3(1)
+total and permanent disablement12
+transfer benefit44B(1), 44D(4)
+transfer daySch. 2 cl. 1(1)
+transferred benefit79AA(4), 122(7)
+transferred contributionsSch. 2 cl. 1(1)
+transferred contributor for limited benefitsSch. 2 cl. 5(1)
+transferred serviceSch. 2 cl. 1(1)
+UnionsWA225
+UniversitySch. 2 cl. 6(2) and 15
+University staff memberSch. 2 cl. 15
+unpaid leave12
+unrecognised unpaid leave12
+unrestricted condition of release3(1)
+unrestricted non-preserved benefit3(1)
+unsplittable interest219A(2)
+value219A(1)
+voluntary GESB Super Member83(1)
+voluntary transfereeSch. 2 cl. 1(1)
+voluntary WSS Member50(1)
+west state account50(1)
+West State Super Member3(1)
+West State Super Scheme3(1)
+withheld amount49A(6), 81A(6)
+worker3(1)
+WSS withdrawal benefit50(1), Sch. 3 cl. 2
