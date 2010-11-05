@@ -19,7 +19,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 63 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 3 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 Now known as the Agricultural Produce Commission Act 1988; short title changed (see note under s. 1).
