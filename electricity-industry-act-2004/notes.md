@@ -15,7 +15,7 @@ Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The Electricity Corporation Act 1994 was renamed as the Electricity Transmission and Distribution Systems (Access) Act 1994 by the Electricity Corporations Act 2005 Sch. 5 cl. 9.
 The Electricity Corporations Act 2005 Pt. 2 and Sch. 5 (other than cl. 21(2)(a)(ii)) came into operation on 1 Apr 2006, see Gazette 31 Mar 2006 p. 1153.
 The National Gas Access (WA) Act 2009 s. 51 and s. 59(1) came into operation on 1 Jan 2010, see Gazette 31 Dec 2009 p. 5327.
