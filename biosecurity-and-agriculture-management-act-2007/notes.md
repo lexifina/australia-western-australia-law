@@ -8,8 +8,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, Div. 3 (other than s. 22), Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2 and 3, Pt. 7 Div. 4 and 5, s. 183-186, s. 193 and Pt. 9 | 23 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2)
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
-Agriculture and Related Resources Protection Amendment Act 2010 s. 68 | 46 of 2010 | 28 Oct 2010 | To be proclaimed (s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Agriculture and Related Resources Protection Amendment Act 2010 s. 68 | 46 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, s. 23-42, Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2 and 3, Pt. 7 Div. 4 and 5, s. 183-186, s. 193 and Pt. 9 have not come into operation. They read as follows:
 “
 Part 2 — Biosecurity
