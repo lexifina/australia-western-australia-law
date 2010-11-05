@@ -12,7 +12,7 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 6 | 8 of 2009 | 21 M
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Public Sector Reform Act 2010 s. 90 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 90 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Footnote no longer applicable.
 The Companies Act 1961 and related Acts about companies were superseded by the Companies (Application of Laws) Act 1981 and the Companies (Western Australia) Code, see s. 18 of the Act.
 The Companies (Application of Laws) Act 1981 and the Companies (Western Australia) Code and related Acts and codes were superseded by the Corporations (Western Australia) Act 1990 and the Corporations Law (see s. 85 of the Act) which, on 15 July 2001, were superseded by the Corporations Act 2001 of the Commonwealth, see the Corporations (Ancillary Provisions) Act 2001 s. 6.
