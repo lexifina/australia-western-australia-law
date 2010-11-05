@@ -7,7 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 35 and 362 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, the Owner-Drivers (Contracts and Disputes) Act 2007 s. 35 and 36 had not come into operation. They read as follows:
 “
 35.Right of entry by representative to investigate breaches
