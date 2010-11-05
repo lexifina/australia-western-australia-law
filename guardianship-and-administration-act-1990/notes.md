@@ -40,7 +40,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 | 25 of 2008 | 19 Jun 2008 | s. 11 (to the extent that it inserts s. 110RA, 110ZAA, 110ZAB and 110ZAC) and s. 12: to be proclaimed (see s. 2)
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The reference in s. 45(2)(d) is a reference to subsection (4) as inserted by the Acts Amendment (Consent to Medical Treatment) Act 2008 s. 6(3), which reads as follows:
 (4) A plenary guardian cannot consent to the sterilisation of the represented person, except in accordance with Division 3.
 Section 45(4) (second occurrence) was inserted by the Wills Amendment Act 2007 s. 25.
