@@ -34,7 +34,7 @@ Salaries and Allowances Amendment Regulations 2008 | 25 Jul 2008 p. 3391-2 | r. 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Salaries and Allowances Tribunal Amendment Regulations 2010 r. 3 and 4 | 29 Oct 2010 p. 5333 | To be proclaimed (see s. 2(b))
+Salaries and Allowances Tribunal Amendment Regulations 2010 r. 3 and 4 | 29 Oct 2010 p. 5333 | 1 Dec 2010 (see r. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993.
 Repealed by the Public Transport Authority Act 2003.
 Formerly referred to the Occupational Health, Safety and Welfare Act 1984 the short title of which was changed to the Occupational Safety and Health Act 1984 by the Occupational Safety and Health Legislation Amendment Act 1995 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
