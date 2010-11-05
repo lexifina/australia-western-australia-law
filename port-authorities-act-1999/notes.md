@@ -24,7 +24,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 84 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
-Public Sector Reform Act 2010 s. 81 and 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 81 and 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The Ports and Marine Legislation Amendment Act 2003 s. 4(2) reads as follows:
 “
 (2) The amendment made by subsection (1) does not affect the operation of the Port Authorities (Withdrawal and Revesting of Property) Order 2000 published in the Gazette on 2 June 2000.
