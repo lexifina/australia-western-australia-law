@@ -179,10 +179,10 @@ ENGINEERING ENDORSEMENT OF MASTER’S OR MATE’S CERTIFICATE — Prerequisites 
 (c)Completion of an acceptable training course and 4 months’ approved qualifying service assisting to service and operate the machinery on vessels of 5 QN or more.
 Examinations —
 An applicant shall be required to pass a 1 hour written paper and oral examination in engineering knowledge demonstrating a practical knowledge of the operation of the mechanical equipment in the engine room of a small vessel, with particular reference to:
-(a)marine motor engines and their fittings, shafting and propellers, preparing for use;
-(b)precautions necessary for the prevention of fire or explosion associated with the use of petrol, LP gas and distillate and with the charging of batteries;
-(c)the action that should be taken in the event of fire or explosion, including the use of fire fighting appliances;
-(d)cooling water and fuel systems, bilge pumping arrangements including precautions against back-flooding;
+(a)marine motor engines and their fittings, shafting and propellers, preparing for use; and
+(b)precautions necessary for the prevention of fire or explosion associated with the use of petrol, LP gas and distillate and with the charging of batteries; and
+(c)the action that should be taken in the event of fire or explosion, including the use of fire fighting appliances; and
+(d)cooling water and fuel systems, bilge pumping arrangements including precautions against back-flooding; and
 (e)care of low-voltage electrical systems, including batteries and accumulators; and
 (f)fuel consumption: estimation and calculation.
 COXSWAIN — Prerequisites —
@@ -209,13 +209,13 @@ Collision and Port Regulations........................................... | 6
 Local Knowledge................................................................ | 7
 Note: Holders of a valid Second Mate and Mate Class IV certificate of competency may be exempted from examination in all the above subjects, except Engineering and Local Knowledge.
 COXSWAIN — INSTRUCTOR OF COMMERCIAL SKI BOAT — Candidates —
-(a)shall be not less than 19 years of age;
-(b)shall have had at least 1 year’s experience in a speedboat;
-(c)shall hold the Commercial Ski Operators rating as Ski Instructor issued by the Western Australian Water Ski Association;
+(a)shall be not less than 19 years of age; and
+(b)shall have had at least 1 year’s experience in a speedboat; and
+(c)shall hold the Commercial Ski Operators rating as Ski Instructor issued by the Western Australian Water Ski Association; and
 (d)shall hold a First Aid Certificate issued by the St. John Ambulance Association; and
 (e)shall be required to pass an examination in —
-(i)the rules of the road;
-(ii)practical boat handling;
+(i)the rules of the road; and
+(ii)practical boat handling; and
 (iii)ski-ing regulations as applicable to private pleasure craft; and
 (iv)the appropriate sight test.
 MARINE ENGINEER CLASS III — Prerequisites —
@@ -249,6 +249,7 @@ MARINE ENGINE DRIVER GRADE I — Prerequisites —
 (i)6 months’ qualifying sea service on vessels of 15 QN or over; and
 2 years as an apprentice or journeyman mechanical fitter, or motor mechanic, or as an assistant to a journeyman mechanical fitter, or motor mechanic, engaged in work on engines or motors; or
 2 years as a trainee in such other form of training as may be approved;
+or
 (ii)3 years’ qualifying service afloat on vessels of 15 QN or over; or
 (iii)1 year’s qualifying service afloat on vessels of 15 QN or over while holding a Marine Engine Driver Grade II certificate of competency.
 Note: Qualifying sea service shall be counted as follows —
@@ -359,4 +360,3 @@ NOTE 8 — For vessels of 50 QN and over but less than 1 500 kW propulsion power
 NOTE 9 — In the case of a vessel fitted with refrigerated equipment associated with the carriage of refrigerated commercial cargo or the refrigerated commercial catch on a commercial vessel, the person in charge of the machinery shall hold a Marine Engine-Driver Grade II certificate with refrigeration endorsement and be a person other than the Master.
 [Schedule 5 amended in Gazette 29 Jun 1984 p. 1760; 11 Aug 1992 p. 3977.]
 [Schedule 6 omitted under the Reprints Act 1984 s. 7(4)(e).]
-·

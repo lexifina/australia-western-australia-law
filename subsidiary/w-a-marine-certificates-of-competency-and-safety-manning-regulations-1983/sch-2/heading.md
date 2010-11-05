@@ -19,7 +19,7 @@ Notes:
 4.Master Class IV certificates of competency endorsed for use in Offshore operations up to 100 nautical miles to seaward only may be granted. Certain requirements for the unendorsed certificate of competency may be omitted (see note to Offshore Navigation syllabus) and the certificates of competency should be endorsed for Offshore operations up to 100 nautical miles to seaward.
 5.An engineering endorsement of a Master Class IV certificate of competency may be granted. An engineering endorsement is an acceptable basic qualification for taking charge of the machinery on vessels of less than 15 QN engaged in operations up to offshore limits out to 100 nautical miles and on vessels of less than 20 QN engaged in operations up to inshore limits.
 MATE CLASS IV — Acceptable basic qualification for —
-(a)Chief mate of vessels of less than 80 metres in length engaged in operations up to Offshore limits;
+(a)Chief mate of vessels of less than 80 metres in length engaged in operations up to Offshore limits; and
 (b)Officer in charge of a navigation watch (if carried in addition to a chief mate) on vessels of less than 80 metres in length engaged in operations up to Australian Coastal and Middle-Water limits; and
 (c)Officers in charge of a navigation watch (if carried in addition to a chief mate) on vessels of less than 35 metres in length in any operating area.
 Notes:
@@ -42,11 +42,11 @@ COXSWAIN — Acceptable basic qualification for command of vessels of less than 
 (b)Coxswain certificates of competency endorsed for use in Sheltered Water operations only may be granted. Certain of the requirements for the unendorsed certificate of competency may be omitted. The certificate may be endorsed for a particular Sheltered Water Area (estuary, harbour or inland water) as appropriate.
 COXSWAIN — INSTRUCTOR OF COMMERCIAL SKI BOAT — Acceptable basic qualification for command of a speed boat used commercially for the towing or training of water skiers when the speed boat is licensed for that purpose.
 MARINE ENGINEER CLASS III — Acceptable basic qualification for —
-(a)Chief engineer on vessels of less than 50 QN engaged in any operating area, or on vessels of less than 3 000 kW propulsion power engaged in operations up to Offshore limits, or on fishing vessels of 50 QN and over but less than 1 500 kW propulsion power engaged in operations up to Australian Coastal and Middle-Water limits;
+(a)Chief engineer on vessels of less than 50 QN engaged in any operating area, or on vessels of less than 3 000 kW propulsion power engaged in operations up to Offshore limits, or on fishing vessels of 50 QN and over but less than 1 500 kW propulsion power engaged in operations up to Australian Coastal and Middle-Water limits; and
 (b)Second engineer on vessels of less than 6 000 kW propulsion power engaged in operations up to Offshore limits; and
 (c)Third engineer on any vessel in operating areas up to Offshore limits.
 MARINE ENGINE DRIVER GRADE I — Acceptable basic qualification for —
-(a)Taking charge of the machinery on vessels of less than 35 QN engaged in operations in any area, or on vessels of less than 50 QN engaged in operations up to Australian Coastal and Middle-Water limits, or on vessels of less than 1 500 kW propulsion power engaged in operations up to inshore limits;
+(a)Taking charge of the machinery on vessels of less than 35 QN engaged in operations in any area, or on vessels of less than 50 QN engaged in operations up to Australian Coastal and Middle-Water limits, or on vessels of less than 1 500 kW propulsion power engaged in operations up to inshore limits; and
 (b)Second-in-charge of the machinery on vessels of less than 35 QN engaged in operations in any area or on vessels of less than 50 QN engaged in operations up to Australian Coastal and Middle-Water limits, or (if carried) on vessels of less than 1 500 kW propulsion power engaged in operations up to Offshore limits; and
 (c)Watchkeeping engineer (if carried in addition to a second-in-charge) on vessels of less than 1 500 kW propulsion power engaged in operations up to Australian Coastal and Middle-Water limits.
 Note: A refrigeration endorsement of a Marine Engine Driver Grade I certificate of competency may be granted. A refrigeration endorsement is an acceptable basic qualification for taking charge of the refrigeration equipment on those vessels in which the holder of the certificate may take charge of the propulsion machinery and on fishing vessels which carry a refrigerated commercial catch.
