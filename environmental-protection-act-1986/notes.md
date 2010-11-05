@@ -49,7 +49,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(3)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 2 Subdiv. 1 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Approvals and Related Reforms (No. 1) (Environment) Act 2010 s. 3, Pt.2 and 3 | 40 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
