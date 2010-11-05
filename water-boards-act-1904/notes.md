@@ -61,7 +61,7 @@ Reprint 6: The Water Boards Act 1904 as at 14 May 2010 (includes amendments list
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The Water Boards Act Amendment Act 1918 and the Water Boards Act Amendment Act 1928 which were to be read as one with this Act were repealed by the Acts Amendment and Repeal (Water Authorities) Act 1985 s. 361.
 Section 48A and the Second Schedule were inserted by No. 73 of 1954 s. 5 and 8.
 The Acts Amendment (Statutory Designations) and Validation Act 1981 s. 5 was a validation provision that is of no further effect.
