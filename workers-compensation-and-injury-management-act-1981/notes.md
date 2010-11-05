@@ -72,7 +72,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 (as amended by No. 42 of 2004 s. 155) | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Petroleum and Energy Legislation Amendment Act 2010 s. 186 | 42 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
 The name of the State Government Insurance Commission was changed to the Insurance Commission of Western Australia by the Acts Amendment (ICWA) Act 1996 s. 8 (see also note 47).
 Under the Acts Amendment (ICWA) Act 1996 s. 31(2)(h), a reference to the State Government Insurance Corporation in a written law is, unless because of the context it would be inappropriate so to do, to be construed, or have effect, as if it had been amended to be a reference to the Insurance Commission of Western Australia (see also note 47).
