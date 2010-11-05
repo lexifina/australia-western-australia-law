@@ -11,7 +11,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health and Disability Services Legislation Amendment Act 2010 s. 62 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Health Practitioner Regulation National Law (WA) Act 2010 s. 14(g) | 35 of 2010 | 30 Aug 2010 | s. 14(g): to be proclaimed (see s. 2(b))
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | To be proclaimed (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, the Health and Disability Services Legislation Amendment Act 2010 s. 62 had not come into operation. It reads as follows:
 62.Occupational Therapists Act 2005 amended
 (1) This section amends the Occupational Therapists Act 2005.
