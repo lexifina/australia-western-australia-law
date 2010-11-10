@@ -17,4 +17,5 @@
 15.Transport Industries Skills Centre Incorporated (ACT)
 16.Petya Pty Ltd trading as Drive Safe Australia WA
 17.Job Drive and Skills Training Incorporated trading as B A Workforce
-[Schedule 2 inserted in Gazette 30 Jan 2001 p. 619-20; amended in Gazette 11 Mar 2003 p. 751; 18 Aug 2006 p. 3371.]
+18.Jasmonie Pty Ltd trading as Miro Training Centre
+[Schedule 2 inserted in Gazette 30 Jan 2001 p. 619-20; amended in Gazette 11 Mar 2003 p. 751; 18 Aug 2006 p. 3371; 9 Nov 2010 p. 5633.]
