@@ -144,7 +144,7 @@ Under the Cross-border Justice Act 2008 section 14, in order to give effect to t
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 (s. 27-30) | 39 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(g))
+Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 (s. 27-30) | 39 of 2007 | 21 Dec 2007 | 1 Dec 2010 (see s. 2(g) and Gazette 12 Nov 2010 p. 5659)
 Repealed by the Nurses and Midwives Act 2006.
 Repealed by the Interpretation Act 1984.
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
