@@ -14,19 +14,21 @@ Misuse of Drugs Amendment Regulations 2007 | 20 Apr 2007 p. 1740-2 | 28 Apr 2007
 Reprint 2: The Misuse of Drugs Regulations 1982 as at 22 Feb 2008 (includes amendments listed above)
 Misuse of Drugs Amendment Regulations 2009 | 23 Jun 2009 p. 2492-3 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jun 2009 (see r. 2(b))
 Misuse of Drugs Amendment Regulations 2010 | 30 Mar 2010 p. 1265-7 | r. 1 and 2: 30 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2010 (see r. 2(b))
+Misuse of Drugs Amendment Regulations (No. 2) 2010 | 12 Nov 2010 p. 5660-3 | r. 1 and 2: 12 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Nov 2010 (see r. 2(b))
 Repealed by the Optometrists Act 2005.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court. The reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-chosen analyst or botanist7B(8)
+chosen analyst7B(1)
+chosen botanist7B(1)
 Commonwealth Criminal Code10A(1)
-drug movement bag7B(8)
+departmental officer4A
+drug movement bag7B(1)
 Form3
-investigating officer7B(8)
+investigating officer7B(1)
 optometrist5B(2)
 other thing7(1)
 pharmaceutical chemist5B(2)
-prescribed person7B(8)
-staff member of the Police Service7B(8)
-sufficient samples7B(8)
+prescribed person7B(1)
+sufficient samples7B(1)

@@ -84,13 +84,13 @@ Form M.D. 8B
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
 MISUSE OF DRUGS REGULATIONS 1982
-APPLICATION TO HAVE SAMPLE OF PROHIBITED DRUG, PROHIBITED PLANT OR DANGEROUS SUBSTANCE ANALYSED OR EXAMINED BY ANALYST OR BOTANIST CHOSEN BY DEFENDANT
+APPLICATION TO HAVE SAMPLE OF PROHIBITED DRUG, PROHIBITED PLANT OR DANGEROUS SUBSTANCE ANALYSED OR EXAMINED BY ANALYST OR BOTANIST CHOSEN BY ACCUSED
 I [insert name and address of applicant], having been charged with [insert details of offence(s)] in relation to [insert details of prohibited drug, prohibited plant or dangerous substance], hereby apply to have a sample of [insert details of alleged prohibited drug, prohibited plant or dangerous substance] analysed or examined by [insert full name and address of analyst or botanist who is to carry out analysis or examination], who is an analyst*/botanist* other than an approved analyst*/approved botanist*.
 Analysis*/examination* applied for on ............................. at ...............................
 ..................................................
 Signature of applicant
 * Please delete inapplicable alternative.
-[Form M.D. 8B inserted in Gazette 2 Jul 1996 p. 3200.]
+[Form M.D. 8B inserted in Gazette 2 Jul 1996 p. 3200; amended in Gazette 12 Nov 2010 p. 5663.]
 Form M.D. 9
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
@@ -190,8 +190,8 @@ WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
 MISUSE OF DRUGS REGULATIONS 1982
 APPLICATION FOR COPY OF CERTIFICATE OF APPROVED ANALYST OR APPROVED BOTANIST
-I [insert name of applicant defendant] apply for a copy of [insert details of relevant certificate given under section 38 of Act] to be provided to me at [insert address at which copy of certificate can be provided to applicant defendant].
+I [insert name of applicantaccused] apply for a copy of [insert details of relevant certificate given under section 38 of Act] to be provided to me at [insert address at which copy of certificate can be provided to applicantaccused].
 Certificate applied for on ..................... at .....................
 ...............................................................
-Signature of applicant defendant
-[Form 15 inserted in Gazette 2 Jul 1996 p. 3202.]
+Signature of applicant accused
+[Form 15 inserted in Gazette 2 Jul 1996 p. 3202; amended in Gazette 12 Nov 2010 p. 5663.]
