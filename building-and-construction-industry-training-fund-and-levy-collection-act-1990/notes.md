@@ -15,6 +15,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Building and Construction Industry Training Fund and Levy Collection Amendment Act 2009 Pt. 2 | 6 of 2009 | 19 May 2009 | 20 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Building and Construction Industry Training Fund and Levy Collection Amendment Act 2010 | 47 of 2010 | 12 Nov 2010 | s. 1 and 2: 12 Nov 2010 (see s. 2(a)); Act other than s. 1 and 2: 13 Nov 2010 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
