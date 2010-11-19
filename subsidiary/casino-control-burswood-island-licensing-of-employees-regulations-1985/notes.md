@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 20 August 2010 of the Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985 | 16 Aug 1985 p. 2905-16 | 16 Aug 1985
@@ -28,6 +28,24 @@ Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 
 Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2008 | 28 Oct 2008 p. 4739-40 | r. 1 and 2: 28 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2009 (see r. 2(b))
 Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2009 | 30 Oct 2009 p. 4315-16 | r. 1 and 2: 30 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
 Reprint 3: The Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985 as at 20 Aug 2010 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2010 r. 3 and 4 | 19 Nov 2010 p. 5741-2 | 1 Jan 2011 (see r. 2(b))
+On the date as at which this compilation was prepared, the Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2010 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985.
+4.Regulation 6 amended
+(1) In regulation 6(1):
+(a) in paragraph (a) delete “$400; and” and insert:
+$405; and
+(b) in paragraph (b) delete “$250.” and insert:
+$255.
+(2) In regulation 6(2):
+(a) in paragraph (a) delete “$290;” and insert:
+$295; or
+(b) in paragraph (c) delete “$40.” and insert:
+$50.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
