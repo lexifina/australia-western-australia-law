@@ -56,11 +56,34 @@ Gaming and Wagering Commission Amendment Regulations (No. 2) 2008 | 10 Jun 2008 
 Gaming and Wagering Commission Amendment Regulations (No. 3) 2008 | 28 Oct 2008 p. 4735-7 | r. 1 and 2: 28 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2009 (see r. 2(b))
 Gaming and Wagering Commission Amendment Regulations 2009 | 30 Oct 2009 p. 4316-19 | r. 1 and 2: 30 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
 Gaming and Wagering Commission Amendment Regulations (No. 2) 2009 | 8 Jan 2010 p. 17-19 | r. 1 and 2: 8 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jan 2010 (see r. 2(b) and Gazette 8 Jan 2010 p. 9-10)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Gaming and Wagering Commission Amendment Regulations 2010 r. 3 and 4 | 19 Nov 2010 p. 5747-8 | 1 Jan 2011 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Formerly referred to the Gaming Commission Act 1987 the short title of which was changed to the Gaming and Wagering Commission Act 1987 by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 122. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now known as the Gaming and Wagering Commission Regulations 1988; citation changed (see note under r. 1).
 The commencement date of 1 Oct 2001 that was specified was before the date of gazettal.
 The Gaming and Wagering Commission Amendment Regulations 2008 published in the Gazette on 29 Apr 2008 p. 1591-3 have been repealed in Gazette 10 Jun 2008 p. 2496 due to an error in the citation of the principal regulations.
+On the date as at which this compilation was prepared, the Gaming and Wagering Commission Amendment Regulations 2010 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Gaming and Wagering Commission Regulations 1988.
+4.Schedule 1 amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Sch. 1 it. 1 | 7.50 | 8
+Sch. 1 it. 4(b) | 55 | 60
+Sch. 1 it. 5(f)(i) | 195 | 200
+Sch. 1 it. 5(f)(ii) | 320 | 330
+Sch. 1 it. 5(f)(iii) | 390 | 400
+Sch. 1 it. 5(g)(ii) | 195 | 200
+Sch. 1 it. 6(d)(iii) | 190 | 195
+Sch. 1 it. 6(d)(iv) | 390 | 400
+Sch. 1 it. 6(d)(v) | 650 | 665
+Sch. 1 it. 6(f)(ii) | 290 | 295
+Sch. 1 it. 6(f)(iii) | 355 | 365
+Sch. 1 it. 11 | 260 | 265
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
