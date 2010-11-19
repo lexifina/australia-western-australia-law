@@ -6,7 +6,7 @@ Building maintenance units
 Lifts
 Mobile cranes, other than tow trucks, with a safe working load greater than 10 tonnes
 Pressure vessels categorized as hazard level A, B or C according to the criteria set out in AS 4343, but not —
-(a)gas cylinders to which AS 2030 applies;
+(a)gas cylinders to which AS 2030 applies; and
 (b)LP gas fuel vessels for automotive use to which AS/NZS 3509 applies; and
 (c)serially produced vessels to which AS 2971 applies
 Tower cranes

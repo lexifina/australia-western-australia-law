@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Occupational Safety and Health Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 19 November 2010 of the Occupational Safety and Health Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Occupational Safety and Health Regulations 1996 | 27 Sep 1996 p. 4837-5080 | 1 Oct 1996 (see r. 1.2)
@@ -71,15 +71,14 @@ Occupational Safety and Health Amendment Regulations (No. 3) 2010 | 25 Jun 2010 
 Occupational Safety and Health Amendment Regulations (No. 2) 2010 | 9 Jul 2010 p. 3246-7 | r. 1 and 2: 9 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jul 2010 (see r. 2(b) and Gazette 13 Jul 2010 p. 3291)
 Occupational Safety and Health Amendment Regulations (No. 5) 2010 | 14 Sep 2010 p. 4406-7 | r. 1 and 2: 14 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Sep 2010 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 4) 2010 | 2 Nov 2010 p. 5499-500 | r. 1 and 2: 2 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Nov 2010 (see r. 2(b))
+Reprint 8: The Occupational Safety and Health Regulations 1996 as at 19 Nov 2010 (includes amendments listed above)
+The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
+The amendment to r. 3.88 in the Occupational Safety and Health Amendment Regulations (No. 6) 2004 r. 24(5) is not included because it would conflict with the amendment in the Occupational Safety and Health Amendment Regulations (No. 3) 2004 r. 7.
 The amendment to r. 5.46 in the Occupational Safety and Health Amendment Regulations (No. 3) 2009 r. 10(b) is not included because it was unclear where the amendment was intended to be made. Regulation 10(b) reads as follows:
 10.Regulation 5.46 amended
 In regulation 5.46(1):
 (b) in paragraph (a) delete “every person employed to do asbestos removal work; and” and insert:
 any person employed or otherwise engaged to do work involving friable asbestos-containing material; and
-Repealed by the Training Legislation Amendment and Repeal Act 2008.
-The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
-Footnote no longer applicable.
-The amendment to r. 3.88 in the Occupational Safety and Health Amendment Regulations (No. 6) 2004 r. 24(5) is not included because it would conflict with the amendment in the Occupational Safety and Health Amendment Regulations (No. 3) 2004 r. 7.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -91,18 +90,17 @@ amusement structure4.1
 anchorage3.48
 appointed medical practitioner5.1(1)
 approved1.3
-approved safety awareness training course3.135
 article5.1(1)
 AS1.3
 AS/NZS1.3
 asbestos1.3, 5.1(1)
-asbestos-containing material3.126, 5.42
-asbestos demolition site3.126
-asbestos dust5.42
-asbestos removalist licence5.53A
-asbestos work5.42
-asbestos work area5.42
-assessment instrument6.1(1)
+asbestos-containing material3.126(1), 5.42(1),
+asbestos demolition site3.126(1),
+asbestos dust5.42(1),
+asbestos removalist licence5.53A(1),
+asbestos work5.42(1),
+asbestos work area5.42(1),
+assessment instrument6.20(1)
 assessor6.1(1)
 atmospheric monitoring5.53
 audiogram7.4(1)
@@ -123,7 +121,7 @@ building maintenance unit1.3, 4.1
 building or structure1.3
 cantilevered scaffold3.66, Sch. 6.3 cl. 2
 carcinogenic substance5.28
-certificate of competency6.1(1), 7.9(1)
+certificate of competency6.6(1), 7.9(1)
 chemical name5.1(1)
 class 13.114
 class 23.114
@@ -155,7 +153,6 @@ curing agent5.72
 damp5.53
 danger tag1.3
 danger zone3.64(1)
-dangerous substance5.32A(9)
 demolition1.3, 3.114
 demolition licence5.53A
 derrick craneSch. 6.3 cl. 6
@@ -181,20 +178,20 @@ escalator4.1
 exhaust system1.3
 existing assessor7.20(1)
 existing assessor of forklift competency7.21(1)
-expiry date5.45F, 6.11(2), 6.27(2)(a)
+expiry date5.45F(2), 6.11(2), 6.27(2)(a)
 explosive powered tool4.1
 exposure standard5.1(1)
 exposure standard for noise3.45
 fall injury prevention system3.48
 filter3.37
-finalised5.42, 6.1(2), 7.9(2)
+finalised5.42(2), 6.1(2), 7.9(2)
 fired heater4.1
 first aid3.12(1)
 flammable paint3.99
 forklift truck7.9(1), Sch. 6.3 cl. 8
 forklift work7.9(1)
 former regulations6.1(1), 7.9(1)
-friable asbestos-containing material5.42
+friable asbestos-containing material5.42(1)
 gantry3.66, Sch. 6.3 cl. 2
 gantry crane4.1, Sch. 6.3 cl. 6
 gas cylinder1.3, 4.1
@@ -218,6 +215,7 @@ industrial lift truck4.1
 industrial robot4.1
 ingredient5.1(1)
 inorganic lead5.53
+instructor4.44(8)
 interlocked4.1
 introductory course2.2(2)
 isocyanate5.72
@@ -228,7 +226,7 @@ laser product4.1
 lead material5.53
 lead process5.53
 lead-risk job5.53
-licence3.114, 5.42, 6.4
+licence3.114, 5.42(1), 6.4
 licensed person3.72(1), 3.114, 6.3(1)
 lift4.1
 lower explosive limit5.68
@@ -244,9 +242,9 @@ monitoring5.1(1)
 MSDS5.1(1)
 nail gun4.1
 national standard7.9(1)
-NOHSC1.11
+NOHSC1.11(1)
 noise3.45
-non-friable asbestos-containing material5.42
+non-friable asbestos-containing material5.42(1)
 non-slewing mobile craneSch. 6.3 cl. 6
 notice of satisfactory assessment6.1(1), 7.9(1)
 ongoing surveillance5.24(1)
@@ -256,6 +254,7 @@ other facility3.20(1)
 out-of-service tag4.1
 overhead power line3.64(1)
 oxygen deficient atmosphere3.37
+passenger4.44(7)
 person having control of a workplace1.3
 person having control of access to a workplace1.3
 personal hearing protectors3.45
@@ -284,6 +283,8 @@ recognised construction induction training course3.135
 record5.1(1)
 registered training organisation1.3
 registration6.18
+regulation 1.15 penalty1.3
+regulation 1.16 penalty1.3
 regulatory authority4.1
 removal level5.53
 repair4.1
@@ -293,7 +294,7 @@ representative2.2(2), 2.3(2)
 resin5.72
 responsible person3.88H, 4.54(1)
 responsible person at a workplace3.130
-restricted licence5.42
+restricted licence5.42(1)
 retailer5.1(1)
 rigger4.54(1)
 rigging workSch. 6.3 cl. 4
@@ -320,10 +321,6 @@ supplied air respirator1.3, 3.37
 supplier5.1(1)
 supply authority3.58
 suspended scaffold3.66, Sch. 6.3 cl. 1
-the instructor4.44(8)
-the passenger4.44(7)
-the regulation 1.15 penalty1.3
-the regulation 1.16 penalty1.3
 tilt-up work3.88(1)
 tobacco product3.44A
 tower crane4.1, Sch. 6.3 cl. 6
@@ -336,7 +333,7 @@ turbineSch. 6.3 cl. 10
 type I ingredient5.1(1), Sch. 5.1
 type II ingredient5.1(1), Sch. 5.1
 type III ingredient5.1(1), Sch. 5.1
-unrestricted licence5.42
+unrestricted licence5.42(1)
 use4.1, 5(1), 6.3(1), Sch. 6.3 cl. 1
 vehicle hoist4.1
 vehicle loading crane4.54(1), Sch. 6.3 cl. 6

@@ -1,7 +1,7 @@
 ## Schedule 6.1 — Rate payable for assessments and tests
 [Regulations 4.5, 4.8, 4.9(b) and 4.18.]
 The rate payable for —
-(a) the provision of a design verification statement;
+(a) the provision of a design verification statement; and
 (b) an assessment for the purposes of regulation 4.8 and regulation 4.18; and
 (c) the witnessing of a test specified under regulation 4.7(1)(c)(ii),
 is $30.00 for every quarter hour it takes to prepare the statement or in which the assessment is conducted or the test is witnessed.
