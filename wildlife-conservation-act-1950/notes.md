@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Wildlife Conservation Act 1950 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 19 November 2010 of the Wildlife Conservation Act 1950 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fauna Protection Act 1950 | 77 of 1950 (14 and 15 Geo. VI No. 77) | 5 Jan 1951 | 1 Jul 1952 (see s. 2 and Gazette 13 Jun 1952 p. 1497-8)
@@ -30,7 +30,7 @@ Acts Amendment (Land Administration) Act 1997 s. 142 and 143 | 31 of 1997 | 3 Oc
 Statutes (Repeals and Minor Amendments) Act 1997 s. 132 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 75 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
 Reprint of the Wildlife Conservation Act 1950 as at 20 Nov 1998 (includes amendments listed above)
-Criminal Investigation (Identifying People) Act 2002 s. 96 | 6 of 2002 | 4 Jun 2002 | 29 Jun 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
+Criminal Investigation (Identifying People) Act 2002 Sch. 2 cl. 7 | 6 of 2002 | 4 Jun 2002 | 29 Jun 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
 Animal Welfare Act 2002 s. 97 | 33 of 2002 | 15 Nov 2002 | 4 Apr 2003 (see s. 2 and Gazette 4 Apr 2003 p. 1023)
 Environmental Protection Amendment Act 2003 s. 120 | 54 of 2003 | 20 Oct 2003 | 8 Jul 2004 (see s. 2 and Gazette 30 Jun 2004 p. 2581)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 133 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
@@ -40,21 +40,53 @@ Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 200
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78, 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 5 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 7: The Wildlife Conservation Act 1950 as at 6 Oct 2006 (includes amendments listed above)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 187 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 8: The Wildlife Conservation Act 1950 as at 19 Nov 2010 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 95 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 95 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(2))
 Now known as the Wildlife Conservation Act 1950; short title changed (see note under s. 1).
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
-The amendments in the Statutes (Repeals and Minor Amendments) Act 1997 s. 132(23) to s. 15(1a) and (16) and 23C(2a) are not included because the provisions to be amended were repealed by s. 132(3) and (13) of that Act.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 95 had not come into operation. It reads as follows:
-“
+The amendments in the Statutes (Repeals and Minor Amendments) Act 1997 s. 132(23) to s. 15(1a) and (1b) and 23C(2a) are not included because the provisions to be amended were repealed by s. 132(3) and (13) of that Act.
+On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 95 had not come into operation. It reads as follows:
 95.Wildlife Conservation Act 1950 amended
 (1) The amendments in this section are to the Wildlife Conservation Act 1950.
 (2) Section 6(5) is amended by deleting “a declared plant within the meaning of the Agriculture and Related Resources Protection Act 1976” and inserting instead —
 “
 a declared pest as that term is defined in the Biosecurity and Agriculture Management Act 2007
 ”.
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+animal6(1)
+carcass6(1)
+CEO6(1)
+class6(1)
+close season6(1)
+Crown land6(1)
+fauna6(1), 20(6), 27(4)
+flora6(1)
+government department9(4)
+honorary wildlife officer6(1)
+illegal device6(1)
+illegal means6(1)
+keep6(1)
+licence6(1)
+nature reserve6(1)
+open season6(1)
+other animal27A(1)
+private land6(1)
+processing establishment6(1)
+protected6(1)
+protected flora6(1)
+protection6(1)
+purposes of sport or recreation15A(3)
+rare flora23F(1)
+skin6(1)
+to process6(1)
+to sell6(1)
+to take6(1))
+wildlife officer6(1)
+wildlife sanctuary6(1)
