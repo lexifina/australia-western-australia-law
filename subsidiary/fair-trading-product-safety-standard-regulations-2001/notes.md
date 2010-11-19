@@ -1,5 +1,5 @@
 Notes
-1This is a compilation of the Fair Trading (Product Safety Standard) Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 19 November 2010 of the Fair Trading (Product Safety Standard) Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fair Trading (Product Safety Standard) Regulations 2001 | 15 Jan 2002 p. 183-228 | 15 Jan 2002
@@ -24,13 +24,14 @@ Fair Trading (Product Safety Standard) Amendment Regulations (No. 2) 2008 | 27 J
 Fair Trading (Product Safety Standard) Amendment Regulations (No. 3) 2008 | 22 Aug 2008 p. 3659-67 | r. 1 and 2: 22 Aug 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Aug 2008 (see r. 2(b))
 Reprint 3: The Fair Trading (Product Safety Standard) Regulations 2001 as at 28 Nov 2008 (includes amendments listed above)
 Fair Trading (Product Safety Standard) Amendment Regulations (No. 4) 2008 | 30 Dec 2008 p. 5634-9 | r. 1 and 2: 30 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2008 (see r. 2(b))
-Fair Trading (Product Safety Standard) Amendment Regulations (No. 2) 2009 | 2 Feb 2010 p. 224-6 | r. 1 and 2: 2 Feb 2010 (see r. 2(a)); r. 3 and 4: 3 Feb 2010 (see r. 2(b)); r. 5 and 6: 3 Feb 200 (see r. 2(c)(ii))
+Fair Trading (Product Safety Standard) Amendment Regulations (No. 2) 2009 | 2 Feb 2010 p. 224-6 | r. 1 and 2: 2 Feb 2010 (see r. 2(a)); r. 3 and 4: 3 Feb 2010 (see r. 2(b)); r. 5 and 6: 3 Feb 2010 (see r. 2(c)(ii))
 Fair Trading (Product Safety Standard) Amendment Regulations 2010 | 28 May 2010 p. 2341-82 | r. 1 and 2: 28 May 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 29 May 2010 (see r. 2(b))
 Fair Trading (Product Safety Standard) Amendment Regulations (No. 2) 2010 | 25 Jun 2010 p. 2858-64 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+Reprint 4: The Fair Trading (Product Safety Standard) Regulations 2001 as at 19 Nov 2010 (includes amendments listed above)
 The amendments in the Fair Trading (Product Safety Standard) Amendment Regulations 2002 (published in Gazette 26 Mar 2002 p. 1741-3) were not included because, before they came into operation, they were repealed by the Fair Trading (Product Safety Standard) Amendment Repeal Regulations 2002 (see Gazette 23 Apr 2002 p. 2123-4).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 adjustable lighter2(1)
 aerosol type portable fire extinguisher20
 American Standard2(1)
@@ -86,7 +87,7 @@ safe operation2(1)
 safety alert symbol76
 safety pin with a catch cover57(1)
 slide-fastener43
-specific vehicle jack25
+specific vehicle jack 25
 spit or sputter2(1)
 Statistician14
 stopper64
