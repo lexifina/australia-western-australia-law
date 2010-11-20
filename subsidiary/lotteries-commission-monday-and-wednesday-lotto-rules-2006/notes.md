@@ -10,6 +10,7 @@ Lotteries Commission (Monday and Wednesday Lotto) Amendment Rules (No. 2) 2008 |
 Reprint 1: The Lotteries Commission (Monday and Wednesday Lotto) Rules 2006 as at 20 Mar 2009 (includes amendments listed above)
 Lotteries Commission Amendment Rules 2009 Pt. 3 | 15 May 2009 p. 1632-5 | 17 May 2009 (see r. 2(b))
 Lotteries Commission (Monday and Wednesday Lotto) Amendment Rules 2010 | 12 Mar 2010 p. 941-3 | r. 1 and 2: 12 Mar 2010 (see r. 2(a)); Rules other than r. 1 and 2: 14 Mar 2010 (see r. 2(b))
+Lotteries Commission (Monday and Wednesday Lotto) Amendment Rules (No. 2) 2010 | 19 Nov 2010 p. 5720-3 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Rules other than r. 1 and 2: 20 Nov 2010 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -20,7 +21,7 @@ entry3(1)
 game3(1)
 game board3(1)
 lotto3(2), 3(3)
-lotto draw3(2), 3(3), 10(9), 23(2)
+lotto draw3(1), 3(2), 3(3), 10(9), 23(2)
 Monday and Wednesday Lotto Bloc3(1)
 Monday lotto3(1)
 payout period3(2), 3(3)
