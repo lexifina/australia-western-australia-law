@@ -16,9 +16,10 @@ Lotteries Commission (Soccer Pools) Amendment Rules 2008 | 6 Jun 2008 p. 2323-46
 Reprint 2: The Lotteries Commission (Soccer Pools) Rules 1996 as at 22 Aug 2008 (includes amendments listed above)
 Lotteries Commission Amendment Rules 2009 Pt. 3 | 15 May 2009 p. 1632-5 | 17 May 2009 (see r. 2(b))
 Lotteries Commission (Soccer Pools) Amendment Rules 2010 | 12 Mar 2010 p. 950-2 | r. 1 and 2: 12 Mar 2010 (see r. 2(a)); Rules other than r. 1 and 2: 14 Mar 2010 (see r. 2(b))
-Defined Terms
+Lotteries Commission (Soccer Pools) Amendment Rules (No. 2) 2010 | 19 Nov 2010 p. 5734-6 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Rules other than r. 1 and 2: 20 Nov 2010 (see r. 2(b))
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 agent2
 agent’s component2
 Australian Soccer Pools Bloc2
@@ -45,7 +46,7 @@ selling period2
 Soccer Pools2
 subscription2
 supplementary number2
-syndicate sales (subscription) adjustment19B
+syndicate sales (subscription) adjustment19B(6)
 total prize pool2
 validation period2
 void match3
