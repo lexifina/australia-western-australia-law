@@ -152,6 +152,8 @@ Poisons Amendment Regulations (No. 3) 2010 | 26 Mar 2010 p. 1145-8 | r. 1 and 2:
 Poisons Amendment Regulations 2010 | 27 Apr 2010 p. 1583-4 | r. 1 and 2: 27 Apr 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Apr 2010 (see r. 2(b))
 Poisons Amendment Regulations (No. 5) 2010 | 1 Oct 2010 p. 5078-80 | r. 1 and 2: 1 Oct 2010 (see r. 2(a); Regulations other than r. 1 and 2: 18 Oct 2010 (see r. 2(b) and Gazette 1 Oct 2010 p. 5076)
 Poisons Amendment Regulations (No. 7) 2010 | 22 Oct 2010 p. 5217-19 | r. 1 and 2: 22 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Oct 2010 (see r. 2(b))
+Poisons Amendment Regulations (No. 4) 2010 | 19 Nov 2010 p. 5709-10 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2010 (see r. 2(b))
+Poisons Amendment Regulations (No. 6) 2010 | 19 Nov 2010 p. 5711-15 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2010 (see r. 2(b))
 Repealed by the Medical Practitioners Act 2008.
 Repealed by the Mental Health Act 1981 which was repealed by the Mental Health Act 1996.
 Repealed by the Nurses and Midwives Act 2006.
@@ -178,6 +180,7 @@ approved health service36AA(1)
 approved name35C(4), 36AA(1), 36AAB(1), 64(1)
 approved needle and syringe programme2(1)
 approved starter pack36AA(1)
+book35A(1A)
 Australian Register of Therapeutic Goods35C(4), 64(1)
 authorised person44(1), 44C(1)
 authorised prescriber51A(1)
@@ -203,6 +206,7 @@ distribute2(1)
 distributor2(1)
 dosage unit2(1)
 drug addict51A(1)
+endorsed optometrist2(1)
 emergency supplies36A(4)
 entry44C(1)
 experienced person2(1)
@@ -227,6 +231,7 @@ NIMC38A, 51AAA
 nominated co-prescriber51FA
 obstetrician2(1)
 old authorisation67(1)(b), 68(1)(b)
+optometrist2(1)
 permit2(1)
 personal supervision2(1)
 pharmacotherapy51A(1)
