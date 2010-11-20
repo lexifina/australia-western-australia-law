@@ -38,6 +38,11 @@ Road Traffic Code Amendment Regulations (No. 5) 2009 | 9 Oct 2009 p. 3996 | r. 1
 Road Traffic Code Amendment Regulations (No. 4) 2009 | 13 Nov 2009 p. 4541 | r. 1 and 2: 13 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2009 (see r. 2(b))
 Road Traffic Code Amendment Regulations 2009 | 13 Nov 2009 p. 4561-615 | r. 1 and 2: 13 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2009 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 2) 2010 | 4 Jun 2010 p. 2395-415 | r. 1 and 2: 4 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2010 (see r. 2(b))
+Road Traffic Code Amendment Regulations (No. 3) 2010 | 19 Nov 2010 p. 5749-57 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Regulations other than r. 1, 2, 22 and 23: 20 Nov 2010 (see r. 2(c))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Traffic Code Amendment Regulations (No. 3) 2010 r. 22 and 23 | 19 Nov 2010 p. 5749-57 | 1 Mar 2011 (see r. 2(b))
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 “
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
@@ -46,3 +51,228 @@ Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in 
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Road Traffic Amendment Regulations (No. 4) 2000 r. 5 is not included because of an error in the reference to the provision to be amended.
 The commencement date of 1 Oct 2007 that was specified in r. 2(b) was before the date of gazettal.
+On the date as at which this compilation was prepared, the Road Traffic Code Amendment Regulations (No. 3) 2010 r. 22 and 23 had not come into operation. They read as follows:
+22.Regulation 264 amended
+(1) Delete regulation 264(2)(b) and insert:
+(b) the visual display unit is, or is part of, a driver’s aid and either —
+(i) is an integrated part of the vehicle design; or
+(ii) is secured in a mounting affixed to the vehicle while being used;
+or
+(2) After regulation 264(2) insert:
+(3) For the purposes of subregulation (2)(b)(ii), a visual display unit is secured in a mounting affixed to the vehicle if, and only if —
+(a) the mounting is commercially designed and manufactured for that purpose; and
+(b) the unit is secured in the mounting, and the mounting is affixed to the vehicle, in the manner intended by the manufacturer.
+23.Regulation 265 replaced
+Delete regulation 265 and insert:
+265.Use of mobile phones
+(1) In this regulation —
+body, in relation to a mobile phone, means the part of the phone that contains the majority of the phone’s mechanisms;
+held includes held by, or resting on, any part of the driver’s body, but does not include held in a pocket of the driver’s clothing or in a pouch worn by the driver;
+mobile phone does not include a CB radio or any other two-way radio;
+use, in relation to a mobile phone, includes any of the following actions by the driver of a vehicle —
+(a)hold the phone;
+(b)enter or place anything into the phone, or send or look at anything that is in the phone;
+(c)turn the phone on or off;
+(d)operate any other function of the phone.
+(2) A driver of a vehicle must not use a mobile phone while the vehicle is moving, or is stationary but not parked, unless —
+(a) the phone is being used to make or receive a phone call, other than a text message, video message, email or similar communication, and the body of the phone —
+(i) is secured in a mounting affixed to the vehicle while being so used; or
+(ii) is not secured in a mounting affixed to the vehicle and is not being held by the driver, and the use of the phone does not require the driver, at any time while using it, to press any thing on the body of the phone or otherwise to manipulate any part of the body of the phone;
+or
+(b) the visual display of the phone is being used as a driver’s aid in accordance with regulation 264 and the use of the phone does not require the driver, at any time while using it, to press any thing on the body of the phone or otherwise to manipulate any part of the body of the phone.
+Points: 3Modified penalty: 5 PU
+(3) For the purposes of this regulation, a driver does not use a mobile phone if —
+(a) a text message, video message, email or similar communication is received automatically by the phone; and
+(b) on and after the receipt, the communication itself, rather than any indication that the communication has been received, does not become automatically visible on the screen of the phone.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+“bus lane” road marking3(1)
+“end of heavy vehicle speed zone” sign3(1)
+“end trucks and buses low gear” sign90(3)
+“heavy vehicle speed zone” sign3(1)
+“trucks and buses low gear” sign90(3)
+abreast216(6)
+accredited pilot3(1)
+ACROD sticker3(1)
+agricultural implement289(3)
+agricultural machine289(3)
+alcohol ignition interlock device3(1)
+appliance181(4)
+arrester bed91A(1)
+articulated vehicle3(1)
+AS/NZS:1754-1991230
+authorised body3(1)
+authorised person3(1)
+B light3(1)
+B lights3(1)
+bicycle3(1)
+bicycle crossing lights3(1)
+bicycle hook turn storage area3(1)
+bicycle lane3(1)
+bicycle path3(1)
+bicycle path road marking3(1)
+bicycle storage area3(1)
+bicycle trailer223(3)
+booster seat230
+Botanic Gardens and Parks Authority3(1)
+built-up area3(1)
+bus3(1)
+bus embayment3(1)
+bus lane3(1)
+bus stop3(1)
+bus zone3(1)
+busway3(1)
+carriageway3(1)
+centre3(1)
+child restraint230
+child safety harness230
+children’s crossing3(1)
+combination3(1)
+continuing road3(1)
+continuous dividing line176(12)
+dangerous goods184(4)
+default speed limit3(1)
+de-restriction sign3(1)
+dipped3(1)
+dipping device3(1)
+dividing line3(1)
+dividing strip3(1)
+edge line3(1)
+emergency stopping lane3(1)
+emergency vehicle3(1)
+emergency worker283(2)
+fire hydrant3(1)
+footpath3(1)
+freeway3(1)
+front fog light3(1)
+g258(7)
+GCM3(1)
+give way line3(1)
+GVM3(1)
+halfway around91(2)
+hazard warning lights188(2)
+heavy vehicle3(1), 191(1), 192(1)
+heavy vehicle speed zone3(1)
+holiday period3(1)
+hook turn3(1)
+hours of darkness3(1)
+intersection3(1)
+keep clear marking3(1)
+laned carriageway3(1)
+leaves181(4)
+left lane21(3), 59(2)
+left line of traffic59(2)
+left turn signal91(1)
+level crossing3(1)
+loading zone3(1)
+long vehicle110(1)
+mail zone3(1)
+marked foot crossing3(1)
+marked lane113(1)
+median strip3(1)
+medical certificate230
+medical practitioner230
+mobile phone265(2)
+moped79(2), 130(5)
+motor break-down service vehicle288A(1)
+motor cycle3(1), 130(5)
+motor vehicle3(1)
+motor cycle246A(1), 246B(1)
+motorised scooter3(1)
+motorised wheelchair3(1)
+nature strip3(1)
+no bicycles road marking3(1)
+no parking area3(1)
+no stopping area3(1)
+obstruction3(1)
+omnibus230
+one-way carriageway3(1)
+oversize3(1)
+painted island3(1)
+park3(1)
+parking area3(1)
+parking area for people with disabilities171(2)
+parking control sign3(1)
+path3(1)
+pedestrian3(1), 203(6)
+pedestrian crossing3(1)
+pedestrian light3(1)
+pedestrian mall3(1)
+permitted distance136(5)
+placard load184(4)
+postal vehicle3(1)
+primary brake90(3)
+produced230
+protective helmet209A(1), 222(1), 222A(1), 223A(1), 223(3), 244(1)
+public bus3(1), 59(2)
+public holiday3(3)
+rear fog light3(1)
+relevant time230
+required distance110(1)
+required time141(2)
+rider3(1)
+right lane26(3), 113(1)
+right turn signal91(1)
+road marking3(1)
+road sign3(1)
+roadworks285(4)
+roundabout91(1)
+safety ramp91A(1)
+school zone3(1)
+school zone periods3(1)
+scooter3(1)
+seatbelt 230
+seating position230
+separated footpath3(1)
+separated footpath road marking3(1)
+service road3(1)
+shared path3(1)
+shared path road marking3(1)
+shared zone3(1)
+slip lane3(1)
+slow vehicle turn out lane113(1)
+special purpose lane3(1)
+special purpose vehicle3(1)
+speed limit sign3(1)
+speed limited area3(1)
+speed zone3(1)
+stop3(1)
+stop line3(1)
+stop sign3(1)
+suitable child restraint230
+suitable child safety harness230
+taxi3(1)
+taxi zone3(1)
+terminating road3(1)
+the performance standards258(7)
+the safety area197(3), 198(3)
+the Vehicle Standards3(1)
+T-intersection3(1)
+to become dislodged from257(5)
+tow truck3(1)
+traffic island3(1)
+traffic sign3(1)
+traffic-control signal3(1)
+trailer3(1)
+train3(1)
+transit lane3(1)
+truck3(1)
+truck lane3(1)
+truck zone3(1)
+turn line3(1)
+turning lane3(1)
+turning left34(1)
+turning left from the continuing road into the terminating road56(7)
+turning right34(2), 34(3)
+turning right from the continuing road into the terminating road56(7)
+two-up driver230
+two-way carriageway3(1)
+U turn3(1)
+unattended141(2), 163(2)
+unrestrained,235A(1)
+vehicle3(1)
+weekend3(1)
+wheeled recreational device3(1)
+wheeled toy3(1)
+works zone3(1)
