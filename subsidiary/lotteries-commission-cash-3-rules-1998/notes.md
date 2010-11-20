@@ -12,6 +12,7 @@ Lotteries Commission (Cash 3) Amendment Rules (No. 2) 2005 | 6 Sep 2005 p. 4128-
 Lotteries Commission (Cash 3) Amendment Rules 2008 | 6 Jun 2008 p. 2355-65 | r. 1 and 2: 6 Jun 2008 (see r. 2(a)); Rules other than r. 1 and 2: 8 Jun 2008 (see r. 2(b))
 Reprint 2: The Lotteries Commission (Cash 3) Rules 1998 as at 22 Aug 2008 (includes amendments listed above)
 Lotteries Commission (Cash 3) Amendment Rules 2009 | 15 May 2009 p. 1636-7 | r. 1 and 2: 15 May 2009 (see r. 2(a)); Rules other than r. 1 and 2: 17 May 2009 (see r. 2(b))
+Lotteries Commission (Cash 3) Amendment Rules 2010 | 19 Nov 2010 p. 5737-8 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Rules other than r. 1 and 2: 20 Nov 2010 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
