@@ -21,11 +21,11 @@ Revenue Laws Amendment Act 2008 Pt. 4 | 30 of 2008 | 27 Jun 2008 | 1 Jul 2008 (s
 Revenue Laws Amendment (Taxation) Act 2009 Pt. 2 | 19 of 2009 | 16 Sep 2009 | 1 Jul 2009 (see s. 2(b)(ii))
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Land Tax Assessment Amendment Act 2010 | 27 of 2010 | 7 Jul 2010 | Act other than s. 1 and 2: 1 Jul 2010 (see s. 2(b)(ii)); s. 1 and 2: 7 Jul 2010 (see s. 2(a))
+Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 33 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 83 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
-Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 33 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources.
@@ -161,17 +161,4 @@ On the date as at which this compilation was prepared, the State Superannuation 
 (2) The Glossary clause 1 is amended in the definition of “taxable authority” by deleting “Government Employees Superannuation Board” and inserting instead —
 “ State Superannuation Board ”.
 ”.
-On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 33 had not come into operation. It reads as follows:
-33.Land Tax Assessment Act 2002 amended
-(1) This section amends the Land Tax Assessment Act 2002.
-(2) In section 15(3)(b) delete “scheme.” and insert:
-scheme or an improvement scheme.
-(3) In section 28(2)(a) delete “scheme,” and insert:
-scheme or an improvement scheme,
-(4) In section 28(7) in the definition of residential equivalent value delete “planning scheme” and insert:
-planning scheme, improvement scheme
-(5) In the Glossary:
-(a) in clause 1 insert in alphabetical order:
-improvement scheme has the meaning given in the Planning and Development Act 2005 section 4(1);
-(b) in clause 4 delete “scheme.” and insert:
-scheme or an improvement scheme.
+The amendment in the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 33(4) is not included because the subsection it sought to amend had been deleted by the Revenue Laws Amendment (Taxation) Act 2009 s. 9 before the amendment purported to come into operation.

@@ -37,11 +37,11 @@ Compilation table
  | Reprint 4: The Control of Vehicles (Off-road Areas) Act 1978 as at 20 Feb 2009 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 40 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 22 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 29 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Control of Vehicles (Off-road Areas) Act 1978 s. 11 | 117 of 1978 (as amended by No. 7 of 2002 s. 7) | 12 Dec 1978 | To be proclaimed (see s. 2)
-Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 29 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Control of Vehicles (Off-road Areas) Act 1978 s. 11 (as amended by the Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 7) had not come into operation. It reads as follows:
 “
 11.Responsibility of owners
@@ -63,11 +63,6 @@ The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 12 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 29 had not come into operation. It reads as follows:
-29.Control of Vehicles (Off-road Areas) Act 1978 amended
-(1) This section amends the Control of Vehicles (Off-road Areas) Act 1978.
-(2) In section 16(5)(d) delete “scheme.” and insert:
-scheme or improvement scheme under the Planning and Development Act 2005.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
