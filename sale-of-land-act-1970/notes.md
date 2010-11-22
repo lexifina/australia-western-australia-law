@@ -20,13 +20,32 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Reprint 3: The Sale of Land Act 1970 as at 19 May 2006 (includes amendments listed above)
 Land Information Authority Act 2006 s. 157 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Legal Profession Act 2008 s. 702 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 36 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
+Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 36 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
 Repealed by the Real Estate and Business Agents Act 1978.
-On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 36 had not come into operation. It reads as follows:
-36.Sale of Land Act 1970 amended
-(1) This section amends the Sale of Land Act 1970.
-(2) In section 16 delete “scheme,” and insert:
-scheme or improvement scheme,
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+advertise5
+advertisement5
+charge7(2)
+Court5
+deposit5
+invite the public to purchase19A(2)
+land5
+lot11
+mortgage14(3)
+notice in writing7(2)
+offer to the public for purchase19A(2)
+offer to the public options to purchase19A(2)
+offeror19A(1)
+option to purchase19A(1)
+position17(2)
+proprietor11
+public amenity17(2)
+Registrar19A(1)
+section5
+sell11
+selling11
+sold11
+statement17(2)
+terms contract5

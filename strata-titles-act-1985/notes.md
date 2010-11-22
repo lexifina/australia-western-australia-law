@@ -42,11 +42,11 @@ Compilation table
  | Legal Profession Act 2008 s. 707 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
  | Reprint 6: The Strata Titles Act 1985 as at 25 Jul 2008 (includes amendments listed above except those in the Legal Profession Act 2008)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 37 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 37 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
 “
 (5) A plan registered under the principal Act before the provision inserted by subsection (3) came into operation is declared to be, and to have always been, valid if it would have been valid at the time of registration had that provision been then in operation.
@@ -143,21 +143,6 @@ On the date as at which this compilation was prepared, the State Superannuation 
 Section 73(1)(g)(i) of the Strata Titles Act 1985 is amended by deleting “, and in particular his rights, if any, under the Superannuation and Family Benefits Act 1938.”.
 ”.
 The section that it seeks to amend has been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1125.
-On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 37 had not come into operation. It reads as follows:
-37.Strata Titles Act 1985 amended
-(1) This section amends the Strata Titles Act 1985.
-(2) In section 21U(3) delete “planning scheme” and insert:
-planning scheme or improvement scheme
-(3) In section 21U(5) delete “planning scheme.” and insert:
-planning scheme or improvement scheme.
-(4) In section 23(2):
-(a) in paragraph (a) after “local planning scheme” insert:
-or improvement scheme
-(b) in paragraph (b) delete “local”.
-(5) In section 31F(2)(e) after “local planning scheme” insert:
-or improvement scheme
-(6) In section 31F(4) delete “scheme.” and insert:
-scheme or improvement scheme.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

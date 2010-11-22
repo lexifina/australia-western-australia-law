@@ -47,12 +47,12 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Local Government Amendment Act 2009 | 17 of 2009 | 16 Sep 2009 | s. 1 and 2: 16 Sep 2009 (see s. 2(a)); Act other than s. 1, 2 and 34: 21 Nov 2009 (see s. 2(b) and Gazette 20 Nov 2009 p. 4649)
  | Reprint 5: The Local Government Act 1995 as at 5 Feb 2010 (includes amendments listed above)
  | Standardisation of Formatting Act 2010 s. 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+ | Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 34 and Pt. 5 Div 2 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Local Government Amendment Act 2009 s. 34 | 17 of 2009 | 16 Sep 2009 | To be proclaimed (see s. 2(b))
 Co-operatives Act 2009 s. 506 and 516 | 24 of 2009 | 22 Oct 2009 | s. 506: operative on the day Co-operative Bulk Handling Limited becomes registered under this Act (see s. 2(d)); s. 516: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
-Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 34 and Pt. 5 Div 2 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
@@ -250,20 +250,7 @@ co-operative
 (a) delete paragraph (d) and “or” after it;
 (b) after each of paragraphs (a) and (b) insert:
 or
-On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 34 and Pt. 5 Div 2 had not come into operation. They read as follows:
-34.Local Government Act 1995 amended
-(1) This section amends the Local Government Act 1995.
-(2) In section 6.33(1)(a) after “planning scheme” insert:
-or improvement scheme
-Part 5 — Other amendments related to Planning and Development Act 2005
-Division 2 — Local Government Act 1995 amended
-69.Act amended
-This Division amends the Local Government Act 1995.
-70.Section 5.42 amended
-In section 5.42(1) delete “duties under this Act other than those referred to in section 5.43.” and insert:
-duties under —
-(a) this Act other than those referred to in section 5.43; or
-(b) the Planning and Development Act 2005 section 214(2), (3) or (5).
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
 89.Various references to “Minister for Public Sector Management” amended
 (1) This section amends the Acts listed in the Table.

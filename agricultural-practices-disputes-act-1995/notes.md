@@ -12,18 +12,14 @@ Compilation table
  | Legal Profession Act 2008 s. 639 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 20 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 27 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 27 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 Public Sector Reform Act 2010 s. 71 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Under the Alteration of Statutory Designations Order 2004 a reference in a written law to the Department of Environmental Protection is, unless the contrary is intended, to be read and construed as a reference to the Department of Environment.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Environment is called the Department of Environment and Conservation.
-On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 27 had not come into operation. It reads as follows:
-27.Agricultural Practices (Disputes) Act 1995 amended
-(1) This section amends the Agricultural Practices (Disputes) Act 1995.
-(2) In section 3 in the definition of rural land delete “as that term is” and insert:
-or an improvement scheme as those terms are
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 71 had not come into operation. It reads as follows:
 71.Agricultural Practices (Disputes) Act 1995 amended
 (1) This section amends the Agricultural Practices (Disputes) Act 1995.

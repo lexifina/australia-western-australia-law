@@ -44,11 +44,11 @@ Acts Amendment (Bankruptcy) Act 2009 s. 35 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Bush Fires Amendment Act 2009 Pt. 3 | 25 of 2009 | 17 Nov 2009 | 1 Dec 1009 (see s. 2(b) and Gazette 1 Dec 2009 p. 4829)
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 4 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 2 Subdiv. 1 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(3)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
-Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 2 Subdiv. 1 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Approvals and Related Reforms (No. 1) (Environment) Act 2010 s. 3, Pt.2 and 3 | 40 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
@@ -121,50 +121,7 @@ The Waste Avoidance and Resource Recovery Regulations 2008 r. 24 reads as follow
 24.Transitional provision — Waste Management and Recycling Fund
 The Waste Avoidance and Resource Recovery Act 2007 Schedule 5 clause 6 prevails to the extent that there is an inconsistency between that provision and Part VIIA Division 2 of the EP Act.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 2 Subdiv 1 had not come into operation. It reads as follows:
-Division 2 — Consequential amendments
-Subdivision 1 — Environmental Protection Act 1986 amended
-24.Act amended
-This Subdivision amends the Environmental Protection Act 1986.
-25.Section 3 amended
-(1) In section 3(1) insert in alphabetical order:
-improvement scheme has the meaning given in the Planning and Development Act 2005 section 4(1);
-(2) In section 3(1) in the definition of assessed scheme:
-(a) after paragraph (b)(iii) insert:
-(iv)which is a local planning scheme or a region planning scheme, or an amendment to a local planning scheme or a region planning scheme, amended under the Planning and Development Act 2005 section 122J or 122K to the extent, if any, necessary in relation to an improvement scheme, or an amendment to an improvement scheme, which amendment or scheme is a scheme referred to in paragraph (a) or subparagraph (i) or (ii);
-(b) after paragraph (b)(i) and (iii) insert:
-or
-(3) In section 3(1) in the definition of final approval:
-(a) after paragraph (e) insert:
-(f)an improvement scheme, or an amendment to an improvement scheme, means an approval under the Planning and Development Act 2005 section 87(2), as read with section 122B(1) of that Act;
-(b) after each of paragraphs (a) to (c) and (e) insert:
-or
-(4) In section 3(1) in the definition of period of public review:
-(a) after paragraph (e) insert:
-(f)an improvement scheme, or an amendment to an improvement scheme, means the period of advertisement for public inspection prescribed for the purposes of the Planning and Development Act 2005 section 84, as read with section 122B(1) of that Act;
-(b) after each of paragraphs (a) to (c) and (e) insert:
-or
-(5) In section 3(1) in the definition of responsible authority:
-(a) after paragraph (a)(viii) insert:
-(ix)an improvement scheme, or an amendment to an improvement scheme, means the Western Australian Planning Commission;
-(b) in paragraph (a) after each of subparagraphs (i) to (vi) and (viii) insert:
-or
-(6) In section 3(1) in the definition of scheme:
-(a) after paragraph (h) insert:
-(i)an improvement scheme or an amendment to an improvement scheme;
-(b) after each of paragraphs (a) to (f) and (h) insert:
-or
-26.Section 48C amended
-In section 48C(7) in the definition of public review:
-(a) in paragraph (e) delete “that Act.” and insert:
-that Act; or
-(b) after paragraph (e) insert:
-(f)an improvement scheme, or an amendment to an improvement scheme, means the procedure referred to in the Planning and Development Act 2005 sections 84 and 87(1) as read with section 122B(1) of that Act.
-(c) in each of paragraphs (a) to (e) after “means” insert:
-the
-(d) after each of paragraphs (a) to (c) insert:
-or
+Footnotes no longer applicable.
 On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
 89.Various references to “Minister for Public Sector Management” amended
 (1) This section amends the Acts listed in the Table.
@@ -367,6 +324,7 @@ fuel burning equipment3(1)
 implementation agreement or decision3(1)
 implementation conditions3(1)
 improper conduct51S(1)
+improvement scheme3(1)
 industrial plant3(1)
 infringement notice offence99H
 inspector3(1)

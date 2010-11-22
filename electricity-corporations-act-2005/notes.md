@@ -7,11 +7,11 @@ Compilation table
  | Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and Sch. 1 cl. 53 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 50 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 1: The Electricity Corporations Act 2005 as at 14 May 2010 (includes amendments listed above)
+Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 31 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 81 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
-Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 31 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 Public Sector Reform Act 2010 s. 75 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The provisions in this Act amending these Acts have, except for Sch. 5 Div. 4 cl. 7 and 22, been omitted under the Reprints Act 1984 s. 7(4)(e).
 Schedule 5 clause 21(2)(a)(ii) of this Act had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 50(3)(b).
@@ -20,16 +20,7 @@ On the date as at which this compilation was prepared, the State Superannuation 
 (1) The amendments in this section are to the Electricity Corporations Act 2005.
 (2) Section 26(4) is amended by deleting “section 30.” and inserting instead —
 “ section 76. ”.
-On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 31 had not come into operation. It reads as follows:
-31.Electricity Corporations Act 2005 amended
-(1) This section amends the Electricity Corporations Act 2005.
-(2) In section 60(3):
-(a) delete “sections 221 and 218,” and insert:
-sections 218 and 221,
-(b) in paragraph (b) delete “scheme,” and insert:
-scheme; or
-(c) after paragraph (b) insert:
-(c) an improvement scheme,
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 75 had not come into operation. It reads as follows:
 75.Electricity Corporations Act 2005 amended
 (1) This section amends the Electricity Corporations Act 2005.
