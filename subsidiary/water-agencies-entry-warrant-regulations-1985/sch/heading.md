@@ -4,12 +4,12 @@ WESTERN AUSTRALIA
 Water Agencies (Powers) Act 1984
 WARRANT (Section 72(6))
 TO ........................................................................................................................
-(Name of officer of *Water Corporation/Water and Rivers Commission)
+(Name of officer of *Water Corporation/Department)
 of ................................................................................................................. in the
 (Address)
 State of Western Australia.
 WHEREAS it has been shown to the satisfaction of me ............................................................................................................................., a Justice of the Peace, that —
-(a)entry on or into the land, premises or thing, namely, .......................... ...................................... (here describe the land, premises or thing) is reasonably required by the *Water Corporation/Water and Rivers Commission for the purpose of ............................................................ .............................................................................................................. (here state the purpose of entry and the legislative provision by which that purpose is authorised); and
+(a)entry on or into the land, premises or thing, namely, .......................... ...................................... (here describe the land, premises or thing) is reasonably required by the *Water Corporation/Minister for the purpose of ............................................................ .............................................................................................................. (here state the purpose of entry and the legislative provision by which that purpose is authorised); and
 *(b)entry to the said land, premises or thing has been refused;
 OR
 *(c)entry to the said land, premises or thing is opposed;
@@ -24,4 +24,4 @@ This is therefore, to authorise you ............................................
 Given under my hand this day of
 ...................................................
 Justice of the Peace
-[Schedule amended in Gazette 29 Dec 1995 p. 6301.]
+[Schedule amended: Gazette 29 Dec 1995 p. 6301; 23 Nov 2010 p. 5869.]
