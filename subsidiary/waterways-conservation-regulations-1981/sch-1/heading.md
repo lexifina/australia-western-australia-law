@@ -26,24 +26,19 @@ Application must be accompanied by the following in duplicate: —
 (d)Any other details considered relevant.
 Form 2
 Waterways Conservation Act 1976
-........................................................... Management Authority
 LICENCE FOR A PRIVATE BOAT RAMP
-THIS LICENCE is issued in accordance with Section 46 of the Waterways Conservation Act 1976, for a private boat ramp on:
-...........................................................................................................
-Lot NumberDiagram Number
-................................................................................................................................
-Name
-................................................................................................................................
-Address
-................................................................................................................................
-THIS Licence authorises the abovenamed person to construct a private boat ramp on the premises specified and in accordance with the plans and specifications as submitted to and approved by the Management Authority.
+Issued under section 46 of the Act.
+This licence authorises
+................................................................................................................. Name
+................................................................................................................. Address
+to construct a private boat ramp at
+....................................................................................................………. (Location of boat ramp)
+in accordance with the plans and specifications attached.
 Subject to special conditions as set out on the reverse side of this licence.
-...........................................................................................................
-Date of IssueChairman
-........................................................
-Member
+...................................................................................................... Date of issueMinister (or delegate)
 (Reverse of Form 2)
 SPECIAL CONDITIONS
+[Form 2 inserted in Gazette 23 Nov 2010 p. 5865-6.]
 Form 3
 Waterways Conservation Act 1976
 APPLICATION FOR A LICENCE TO CONSTRUCT A RETAINING WALL
@@ -62,27 +57,21 @@ Application must be accompanied by the following in duplicate: —
 (d)Any other details considered relevant.
 Form 4
 Waterways Conservation Act 1976
-........................................................... Management Authority
 LICENCE TO CONSTRUCT A RETAINING WALL
-THIS LICENCE is issued in accordance with Section 46 of the Waterways Conservation Act 1976, for a retaining wall located at:
-...........................................................................................................
-Lot NumberDiagram Number
-................................................................................................................................
-Name
-................................................................................................................................
-Address
-................................................................................................................................
-THIS LICENCE authorises the abovenamed person to construct a retaining wall on the premises specified in accordance with the plans and specifications as submitted to and approved by the Management Authority.
+Issued under section 46 of the Act.
+This licence authorises
+................................................................................................................. Name
+................................................................................................................. Address
+to construct a retaining wall at
+..................................................................................................………... (Location of retaining wall)
+in accordance with the plans and specifications attached.
 Subject to special conditions as set out on the reverse side of this licence.
-...........................................................................................................
-Date of IssueChairman
-........................................................
-Member
+...................................................................................................... Date of issueMinister (or delegate)
 (Reverse of Form 4)
 SPECIAL CONDITIONS
+[Form 4 inserted in Gazette 23 Nov 2010 p. 5866.]
 Form 5
 Waterways Conservation Act 1976
-........................................................... Management Authority
 APPLICATION FOR A LICENCE TO CARRY OUT DREDGING AND/OR RECLAMATION
 I/We, the undersigned, hereby make an application for a licence to carry out dredging and/or reclamation works at: —
 ................................................................................................................................
@@ -105,33 +94,25 @@ In support of the above application the following information is submitted.
 The application is to be accompanied by —
 (a)a plan (in duplicate) showing extent of proposed dredging, depth to be dredged, and area proposed to receive spoil; and
 (b)evidence of ownership of the land on which the works are proposed to be carried out (e.g. copy of certificate of title).
+[Form 5 amended in Gazette 23 Nov 2010 p. 5866.]
 Form 6
 Waterways Conservation Act 1976
-........................................................... Management Authority
 LICENCE TO DREDGE AND/OR RECLAIM
-THIS LICENCE is issued in accordance with section 46 of the Waterways Conservation Act 1976.
-................................................................................................................................
-Name
-................................................................................................................................
-Address
-................................................................................................................................
-................................................................................................................................
-Description and Location of works (plans and specifications attached*)
-................................................................................................................................
-THIS LICENCE authorises the dredging and/or reclamation of the waters of the ................................................................................................................................
-in accordance with the plans and specifications as submitted to and approved by the Management Authority.
-THIS LICENCE is valid for the period ending .....................................................
-and is subject to the special conditions as set out on the reverse side of this licence.
-...........................................................................................................
-Date of IssueChairman
-........................................................
-Member
-* Plans and specifications showing extent and depth of proposed dredging.
+Issued under section 46 of the Act.
+This licence authorises
+................................................................................................................. Name
+................................................................................................................. Address
+to carry out dredging and/or reclamation of the waters of the
+.................................................................................................................
+at ............................................................................................................. (Location of dredging and/or reclamation works)
+in accordance with the plans and specifications attached.
+This licence is for the period ending / / and is subject to the special conditions set out on the reverse side of this licence.
+...................................................................................................... Date of issueMinister (or delegate)
 (Reverse of Form 6)
 SPECIAL CONDITIONS
+[Form 6 inserted in Gazette 23 Nov 2010 p. 5866-7.]
 Form 7
 Waterways Conservation Act 1976
-........................................................... Management Authority
 APPLICATION FOR A DISPOSAL LICENCE
 I/We, the undersigned, hereby make an application for a licence to discharge wastes into the waters.
 Name ......................................................................................................................
@@ -161,33 +142,23 @@ A flow diagram indicating the path of proposed waste(s) up to the point where it
 Each application must be supported by sketched plans and details of any plant installed to treat wastes prior to discharge to the water.*
 Applications to be forwarded IN DUPLICATE.
 Note: Where the requirement of information is marked with an asterisk if the information required is substantially the same as information submitted in respect of a current licence only the variations need be specified.
+[Form 7 amended in Gazette 23 Nov 2010 p. 5867.]
 Form 8
 Waterways Conservation Act 1976
-........................................................... Management Authority
 DISPOSAL LICENCE
-THIS LICENCE is issued in accordance with section 47 of the Waterways Conservation Act 1976.
-................................................................................................................................
-Name
-................................................................................................................................
-Address
-................................................................................................................................
-................................................................................................................................
-................................................................................................................................
-Type of Industry
-................................................................................................................................
-................................................................................................................................
-Location
-................................................................................................................................
-................................................................................................................................
-Point of Discharge
-THIS LICENCE authorises the discharge into ...................................................... directly or via a drain, wastes as detailed on the reverse side of this licence.
-THIS LICENCE is valid for one year from the date of issue, and is subject to the special conditions set out on the reverse side of this licence.
-...........................................................................................................
-Date of IssueChairman
-........................................................
-Member
-(Reverse of Form 10)
-SPECIAL CONDITIONS
+Issued under section 47 of the Act.
+This licences authorises
+................................................................................................................. Name
+................................................................................................................. Address
+to discharge directly or via a drain, the wastes detailed on the reverse side of this licence into the waters of the
+.................................................................................................................
+at .............................................................................................................
+(Location of discharge point)
+This licence is for one year from the date of issue and is subject to the special conditions set out on the reverse side of this licence.
+...................................................................................................... Date of issueMinister (or delegate)
+(Reverse of Form 8)
+SPECIAL CONDITIONS AND DETAILS OF WASTE
+[Form 8 inserted in Gazette 23 Nov 2010 p. 5867-8.]
 Form 9
 Waterways Conservation Act 1976
 CERTIFICATE OF APPOINTMENT INSPECTOR
@@ -195,7 +166,8 @@ This is to certify that:
 was appointed
 on as an inspector under the Waterways Conservation Act 1976, to exercise his powers in
 (area)
-Affix photograph here | ................................................................................ Signature of Authorised officer of the Water and Rivers Commission* the ................................................ Management Authority* (*delete as appropriate) .................................................................. Signature of Inspector
+Affix photograph here | ................................................................................ Signature of CEO (or delegate) .................................................................. Signature of Inspector
+[Form 9 amended in Gazette 23 Nov 2010 p. 5868.]
 Form 10
 Waterways Conservation Act 1976
 CERTIFICATE OF APPOINTMENT HONORARY WARDEN
@@ -204,10 +176,11 @@ was appointed on
 as an honorary warden under the Waterways Conservation Act 1976 and, subject to any limitations shown on the reverse side of this certificate, is authorised to exercise the powers of any honorary warden under the Act within the area
 in the
 management area.
-Affix photograph here | ................................................................................ Signature of Authorised officer of the Water and Rivers Commission* the ................................................. Management Authority* (*delete as appropriate) .................................................................. Signature of honorary warden
+Affix photograph here | ................................................................................ Signature of CEO (or delegate) .................................................................. Signature of honorary warden
 Note:Certificate to be produced on request.
 (Reverse of Form 10)
 The authority of the person named in this certificate as an honorary warden is limited to the area shown herein, and to the doing of all or any of the following things:
+[Form 10 amended in Gazette 23 Nov 2010 p. 5868.]
 Form 11
 Waterways Conservation Act 1976
 INFRINGEMENT NOTICE
@@ -225,10 +198,10 @@ in contravention of ............................................................
 The modified penalty prescribed for this offence is $ .
 If you do not wish to have a prosecution notice of the above offence heard and determined by a court you may pay the modified penalty within 21 days after receipt of this notice.
 If payment is not made within 21 days after receipt of this notice, court proceedings may be instituted against you.
-Payment may be made either by posting this form, together with the amount of the modified penalty mentioned above, to the office of the .................................. Management Authority at ............................................................................ or by presenting this form and paying that amount personally at the above address between the hours of a.m. and p.m. on any day except a Saturday, Sunday, or public holiday.
+Payment may be made either by posting this form, together with the amount of the modified penalty mentioned above, to the office of the .................................. Department at ............................................................................ or by presenting this form and paying that amount personally at the above address between the hours of a.m. and p.m. on any day except a Saturday, Sunday, or public holiday.
 ........................................................................
 Signature of Inspector.
-[Form 11 amended in Gazette 4 Apr 2008 p. 1314.]
+[Form 11 amended in Gazette 4 Apr 2008 p. 1314; 23 Nov 2010 p. 5868.]
 Form 12
 Waterways Conservation Act 1976
 WITHDRAWAL OF INFRINGEMENT NOTICE
@@ -243,6 +216,6 @@ The modified penalty of $
 * | has not been, and should not be, paid
 (* delete as appropriate)
 ........................................................................
-Signature of Chairman,
-Management Authority.
-[Schedule 1 amended in Gazette 29 Dec 1995 p. 6303; 26 Nov 1996 p. 6638-9; 4 Apr 2008 p. 1314.]
+Signature of CEO (or delegate).
+[Form 12 amended in Gazette 23 Nov 2010 p. 5868.]
+[Schedule 1 amended in Gazette 29 Dec 1995 p. 6303; 26 Nov 1996 p. 6638-9; 4 Apr 2008 p. 1314; 23 Nov 2010 p. 5865-8.]
