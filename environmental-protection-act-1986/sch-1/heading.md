@@ -53,6 +53,8 @@ Column 1 | Column 2 | Column 3 | Column 4
 Item | Section | Penalty — individual | Daily penalty
 1 | 41A(1) | $62 500 | $12 500
 1B | 49(5) | $62 500 | $12 500
+1CA | 49A(2) | $62 500 | Nil
+1CB | 49A(3) | $62 500 | Nil
 1C | 50B(2) | $125 000 | $25 000
 1D | 50D | $50 000 | $10 000
 1E | 51J(1) | $62 500 | $12 500
@@ -73,13 +75,15 @@ Item | Section | Penalty — individual | Daily penalty
 13 | 92E(1) | $62 500 | Nil
 14 | 99X(4) | $62 500 | Nil
 15 | 111A(1) | $62 500 | $12 500
-[Division 1 inserted by No. 14 of 1998 s. 18; amended by No. 54 of 2003 s. 25(2), 66(5)-(7), 85(1), (2) and (5), 88(1), 115(3) and 132(2).]
+[Division 1 inserted by No. 14 of 1998 s. 18; amended by No. 54 of 2003 s. 25(2), 66(5)-(7), 85(1), (2) and (5), 88(1), 115(3) and 132(2); No. 48 of 2010 s. 11.]
 ## Division 2 — Bodies corporate
 [Heading inserted by No. 14 of 1988 s. 18.]
 Column 1 | Column 2 | Column 3 | Column 4
 Item | Section | Penalty — body corporate | Daily penalty
 1 | 41A(1) | $125 000 | $25 000
 1B | 49(5) | $125 000 | $25 000
+1CA | 49A(2) | $125 000 | Nil
+1CB | 49A(3) | $125 000 | Nil
 1C | 50B(2) | $250 000 | $50 000
 1D | 50D | $100 000 | $20 000
 1E | 51J(1) | $125 000 | $25 000
@@ -100,7 +104,7 @@ Item | Section | Penalty — body corporate | Daily penalty
 13 | 92E(1) | $125 000 | Nil
 14 | 99X(4) | $125 000 | Nil
 15 | 111A(1) | $125 000 | $25 000
-[Division 2 inserted by No. 14 of 1998 s. 18; amended by No. 54 of 2003 s. 25(3), 66(8) and (9), 85(3)-(5), 88(2), 115(4) and 132(3).]
+[Division 2 inserted by No. 14 of 1998 s. 18; amended by No. 54 of 2003 s. 25(3), 66(8) and (9), 85(3)-(5), 88(2), 115(4) and 132(3) No. 48 of 2010 s. 11.]
 ## Division 3 — Individuals and bodies corporate
 [Heading inserted by No. 14 of 1988 s. 18.]
 Column 1 | Column 2 | Column 3 | Column 4
@@ -141,6 +145,7 @@ Item | Section | Penalty — individual or body corporate | Daily penalty
 7 | 80 | $5 000 | Nil
 8 | 84(1) | $5 000 | Nil
 9 | 85(1) | $5 000 | Nil
+10A | 91A(2) | $5 000 | Nil
 10 | 97(2) | $5 000 | $1 000
 11 | 110H(6) | $5 000 | Nil
-[Part 3 inserted by No. 14 of 1998 s. 18.]
+[Part 3 inserted by No. 14 of 1998 s. 18; amended by No. 48 of 2010 s. 11.]
