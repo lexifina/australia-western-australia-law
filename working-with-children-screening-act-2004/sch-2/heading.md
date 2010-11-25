@@ -41,6 +41,8 @@ s. 343 | Child stealing
 Classification (Publications, Films and Computer Games) Enforcement Act 1996
 the deleted s. 60 | Child pornography
 s. 101 | Objectionable material offences (if the objectionable material is child pornography)
+Misuse of Drugs Act 1981
+s. 19B(2) | Selling, or offering to sell, ice pipe to child
 Prostitution Act 2000
 s. 16 | Causing, permitting or seeking to induce child to act as prostitute
 s. 17 | Obtaining payment for prostitution by child
@@ -65,4 +67,4 @@ s. 474.26 | Using a carriage service to procure persons under 16
 s. 474.27 | Using a carriage service to “groom” persons under 16
 Customs Act 1901 of the Commonwealth
 s. 233BAB | Special offences relating to tier 2 goods (if the offence involves items of child pornography or of child abuse material)
-[Schedule 2 amended by No. 3 of 2006 s. 7; No. 27 of 2008 s. 13(3) and (4); No. 29 of 2008 s. 40; No. 8 of 2009 s. 140(3); No. 7 of 2010 s. 25; No. 21 of 2010 s. 15.]
+[Schedule 2 amended by No. 3 of 2006 s. 7; No. 27 of 2008 s. 13(3) and (4); No. 29 of 2008 s. 40; No. 8 of 2009 s. 140(3); No. 7 of 2010 s. 25; No. 21 of 2010 s. 15; No. 50 of 2010 s. 6.]
