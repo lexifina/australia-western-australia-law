@@ -36,6 +36,7 @@ Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (s
 Police Amendment Act 2009 s. 21 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 37 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Misuse of Drugs Amendment Act (No. 2) 2010 Pt. 2 | 50 of 2010 | 24 Nov 2010 | 25 Nov 2010 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
