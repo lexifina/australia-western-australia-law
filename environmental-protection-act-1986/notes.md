@@ -45,13 +45,13 @@ Bush Fires Amendment Act 2009 Pt. 3 | 25 of 2009 | 17 Nov 2009 | 1 Dec 1009 (see
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 4 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 2 Subdiv. 1 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
+Approvals and Related Reforms (No. 1) (Environment) Act 2010 | 40 of 2010 | 28 Oct 2010 | Pt. 1 other than s. 3: 28 Oct 2010 (see s. 2(a)); Act other than heading to Pt. 1 and s. 1 & 2: 26 Nov 2010 (see s. 2(b) and Gazette 23 Nov 2010 p. 5851)
 Environmental Protection Amendment Act 2010 | 48 of 2010 | 24 Nov 2010 | s. 1 and 2: 24 Nov 2010 (see s. 2(a)); Act other than s. 1 and 2: 25 Nov 2010 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(3)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Approvals and Related Reforms (No. 1) (Environment) Act 2010 s. 3, Pt.2 and 3 | 40 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -130,129 +130,6 @@ On the date as at which this compilation was prepared, the Public Sector Reform 
 Public Sector Commissioner
 Table
 Environmental Protection Act 1986 | s. 9, 22(2), 25(3), 29(4), 40(8), 108(2), Sch. 7 cl. 2(1)(a) and 5
-On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 1) (Environment) Act 2010 s. 3, Pt.2 and 3 had not come into operation. They read as follows:
-3.Act amended
-This Act amends the Environmental Protection Act 1986.
-Part 2 — Appeals
-Division 1 — Appeals in respect of proposals
-4.Section 45A amended
-(1) In section 45A(2) delete “when a section 39B declaration is final,” and insert:
-when the Minister is notified under section 39B(5)(b) of a section 39B declaration,
-(2) Delete section 45A(4).
-5.Section 48F amended
-In section 48F(3)(a) delete “section 100(3a)(d); or” and insert:
-section 100(3a)(c); or
-6.Section 100 amended
-(1) In section 100(1):
-(a) in paragraph (a) delete “assessed;” and insert:
-assessed, other than a decision that includes a recommendation that the proposal be dealt with under Part V Division 2; or
-(b) delete paragraphs (b) and (c);
-(c) in paragraph (e) delete “scheme; or” and insert:
-scheme,
-(d) delete paragraph (f);
-(e) after paragraph (d) insert:
-or
-(2) Delete section 100(2).
-(3) In section 100(3a):
-(a) in paragraph (a) delete “subsection (1)(a), (b), (c) or (f),” and insert:
-subsection (1)(a),
-(b) delete paragraph (d) and “or” after it;
-(c) after each of paragraphs (a), (b) and (c) insert:
-or
-Note:The heading to amended section 100 is to read:
-Lodging of appeals in respect of proposals
-7.Section 101 amended
-(1) In section 101(1):
-(a) delete “section 100(1), (2)” and insert:
-section 100(1)
-(b) in paragraph (b) delete “section 100(1)(a) or (b),” and insert:
-section 100(1)(a),
-(c) in paragraph (c) delete “section 100(1)(a), (b) or (f),” and insert:
-section 100(1)(a),
-(d) delete paragraph (da);
-(e) delete paragraph (dc);
-(f) after each of paragraphs (a), (b), (c), (d) and (db) insert:
-or
-(2) In section 101(2) delete “(c), (d) or (dc)” and insert:
-(c) or (d)
-(3) Delete section 101(2a), (2b) and (2c).
-(4) In section 101(3):
-(a) delete paragraph (a) and insert:
-(a) referred to in section 100(1)(a) does not affect the relevant decision; or
-(b) delete “subsection (1), (2c) or (2d).” and insert:
-subsection (1) or (2d).
-(c) after each of paragraphs (b) and (c) insert:
-or
-8.Section 106 amended
-In section 106(3) delete “section 101(2a) or (2d).” and insert:
-section 101(2d).
-9.Section 107 amended
-In section 107(3) delete “section 101(2a) or (2d).” and insert:
-section 101(2d).
-Division 2 — Appeals in respect of clearing permits
-10.Section 101A amended
-(1) In section 101A(1) delete “28 days” and insert:
-21 days
-(2) In section 101A(2) delete “28 days” and insert:
-21 days
-(3) In section 101A(3):
-(a) in paragraph (a) delete “refusal or”;
-(b) in paragraph (b) delete “amendment, revocation or suspension” and insert:
-amendment
-(c) delete “refusal, specification, revocation, suspension or amendment” and insert:
-specification or amendment
-Division 3 — Appeals in respect of works approvals and licences
-11.Section 102 amended
-In section 102(3):
-(a) in paragraph (a) delete “refusal or”;
-(b) in paragraph (b) delete “amendment, revocation or suspension” and insert:
-amendment
-(c) delete “refusal, specification, revocation, suspension or amendment” and insert:
-specification or amendment
-Division 4 — Transitional provisions
-12.Part IX Division 1 heading inserted
-At the beginning of Part IX insert:
-Division 1 — Transitional provisions for Environmental Protection Act 1986
-13.Part IX Division 2 inserted
-After Part IX Division 1 insert:
-Division 2 — Transitional provisions for Approvals and Related Reforms (No. 1) (Environment) Act 2010 Part 2
-129.Term used: amending Act
-In this Division —
-amending Act means the Approvals and Related Reforms (No. 1) (Environment) Act 2010.
-130.Appeals in respect of proposals
-(1) In this section —
-former EP Act means the Environmental Protection Act 1986 as in force immediately before the amending Act Part 2 Division 1 comes into operation.
-(2) The former EP Act continues to apply in respect of a decision of the Authority made before the day on which the amending Act Part 2 Division 1 comes into operation.
-131.Appeals in respect of clearing permits
-(1) In this section —
-former EP Act means the Environmental Protection Act 1986 as in force immediately before the amending Act Part 2 Division 2 comes into operation.
-(2) The former EP Act continues to apply in respect of a decision of the CEO made before the day on which the amending Act Part 2 Division 2 comes into operation.
-132.Appeals in respect of works approvals and licences
-(1) In this section —
-former EP Act means the Environmental Protection Act 1986 as in force immediately before the amending Act Part 2 Division 3 comes into operation.
-(2) The former EP Act continues to apply in respect of a decision of the CEO made before the day on which the amending Act Part 2 Division 3 comes into operation.
-Part 3 — Decisions about minor or preliminary work that has Authority’s consent
-14.Section 41 amended
-After section 41(3) insert:
-(4) Subsections (2) and (3) do not apply to a decision in relation to a proposal if the effect of the decision would be to cause or allow the doing of minor or preliminary work to which the Authority has consented under section 41A(3).
-15.Section 51F amended
-After section 51F(1) insert:
-(2A) Subsection (1) does not apply if the application is for a clearing permit for the purpose of doing minor or preliminary work to which the Authority has consented under section 41A(3).
-16.Section 54 amended
-After section 54(4) insert:
-(5A) Subsection (4) does not apply if the application is for a works approval for the purpose of doing minor or preliminary work to which the Authority has consented under section 41A(3).
-17.Section 57 amended
-After section 57(4) insert:
-(4AA) Subsection (4) does not apply if the application is for a licence for the purpose of doing minor or preliminary work to which the Authority has consented under section 41A(3).
-18.Part IX Division 3 inserted
-At the end of Part IX insert:
-Division 3 — Transitional provisions for Approvals and Related Reforms (No. 1) (Environment) Act 2010 Part 3
-133.Minor or preliminary work that has Authority’s consent
-(1) In this section —
-amended EP Act means the Environmental Protection Act 1986 as amended by the Approvals and Related Reforms (No. 1) (Environment) Act 2010 Part 3.
-(2) The amended EP Act applies —
-(a) in respect of a proposal irrespective of when the proposal was or is referred to the Authority; and
-(b) in respect of an application irrespective of when the application was or is made to the CEO.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -260,6 +137,8 @@ a first notice28(1)(c)(i), 32(1)(a)(i)
 a prevention notice73A(1)
 Account110A
 agreement to reserve51D(1)
+amended EP Act133(1)
+amending Act129
 an environmental protection notice65(1)
 analysis3(1)
 analyst3(1)
@@ -321,6 +200,7 @@ establish51I(4)
 existing authorisation61(3)
 final approval3(1)
 financial assurance requirement86A
+former EP Act130(1), 131(1), 132(1)
 fuel burning equipment3(1)
 implementation agreement or decision3(1)
 implementation conditions3(1)
