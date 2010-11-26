@@ -6,7 +6,7 @@ Legal Profession Conduct Rules 2010 | 19 Nov 2010 p. 5775-825 | r. 1 and 2: 19 N
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Legal Profession Conduct Rules 2010 s. 3 and 4, Pt. 2-7 and Sch. 1 | 19 Nov 2010 p. 5775-825 | Rules other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
+Legal Profession Conduct Rules 2010 s. 3 and 4, Pt. 2-7 and Sch. 1 | 19 Nov 2010 p. 5775-825 (Printers correction in Gazette 26 Nov 2010 p. 5953-4) | Rules other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
 On the date as at which this compilation was prepared, the Legal Profession Conduct Rules 2010 s. 3 and 4, Pt. 2-7 and Sch. 1 had not come into operation. They read as follows:
 3.Terms used
 In these rules —
@@ -448,7 +448,8 @@ has not, by that action, breached subrule (1) or (2).
 (b) one of the witnesses may be affected by, or may affect, evidence to be given by another of the witnesses,
 unless the practitioner believes on reasonable grounds that special circumstances require such a conference.
 (2) Subrule (1) does not apply in respect of an issue about undertakings to a court, admissions or concessions of fact, amendments of pleadings or compromise.
-41.Communicatio ust not confer with a witness, including a party or client, called by the practitioner on any matter related to proceedings while that witness remains under cross-examination, unless —
+41.Communication with witness under cross-examination
+A practitioner must not confer with a witness, including a party or client, called by the practitioner on any matter related to proceedings while that witness remains under cross-examination, unless —
 (a) the cross-examiner has consented beforehand to the practitioner conferring with the witness; or
 (b) the practitioner —
 (i) believes on reasonable grounds that special circumstances (including the need for instructions on a proposed compromise) require the practitioner to confer with the witness; and
