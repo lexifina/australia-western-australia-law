@@ -20,11 +20,11 @@ Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 2009 | 23 Jun 2009 p. 2441-2 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 3: The Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 as at 21 Aug 2009 (includes amendments listed above)
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2010 | 25 Jun 2010 p. 2865-6 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 2010 | 26 Nov 2010 p. 5928-34 | r. 1 and 2: 26 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Nov 2010 (see r. 2(b))
 The Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2000 r. 16 is a transitional provision that is of no further effect.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-AG3(1)
 apparatus3(1)
 appeal31A
 appellant31A
@@ -38,8 +38,14 @@ bayonet fittingSch. 6 cl. 504(4)
 bedroomSch. 6 cl. 101
 caravan3(1)
 certificate of competency3(1)
+child care centreSch. 6 cl. 604A(1)
+child care serviceSch. 6 cl. 604A(1)
+Class I permit3(1)
+commercial42B(1)
 commission17
+domestic42B(1)
 employer16(3)
+family day care serviceSch. 6 cl. 604A(1)
 fitting3(1)
 fitting line3(1)
 fitting line regulatorSch. 6 cl. 406(2)
@@ -64,6 +70,7 @@ pressure raising device3(1)
 registered gas fitter3(1)
 regulator3(1)
 repealed regulations43(2)
+schoolSch. 6 cl. 604A(1)
 service apparatus37(2)
 service information23(4)
 servicing3(1)
