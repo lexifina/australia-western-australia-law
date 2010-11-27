@@ -39,6 +39,7 @@ Road Traffic Code Amendment Regulations (No. 4) 2009 | 13 Nov 2009 p. 4541 | r. 
 Road Traffic Code Amendment Regulations 2009 | 13 Nov 2009 p. 4561-615 | r. 1 and 2: 13 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2009 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 2) 2010 | 4 Jun 2010 p. 2395-415 | r. 1 and 2: 4 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2010 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 3) 2010 | 19 Nov 2010 p. 5749-57 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Regulations other than r. 1, 2, 22 and 23: 20 Nov 2010 (see r. 2(c))
+Road Traffic Code Amendment Regulations 2010 | 26 Nov 2010 p. 5958-9 | r. 1 and 2: 26 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Nov 2010 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
