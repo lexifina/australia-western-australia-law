@@ -42,12 +42,12 @@ Children and Community Services Amendment (Reporting Sexual Abuse of Children) A
 Reprint 5: The Freedom of Information Act 1992 as at 27 Feb 2009 (includes amendments listed above)
 National Gas Access (WA) Act 2009 s. 70 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327
 Standardisation of Formatting Act 2010 s. 4 and 59 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Health and Disability Services Legislation Amendment Act 2010 s. 57 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Health and Disability Services Legislation Amendment Act 2010 s. 57 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.
@@ -75,18 +75,6 @@ Act | Provision
 Freedom of Information Act 1992 | s. 62(2)
 ...................... | ........
 ”.
-On the date as at which this compilation was prepared, the Health and Disability Services Legislation Amendment Act 2010 s. 57 had not come into operation. It reads as follows:
-57.Freedom of Information Act 1992 amended
-(1) This section amends the Freedom of Information Act 1992.
-(2) In Schedule 1 clause 14(3):
-(a) delete “a conciliation” and insert:
-negotiating the settlement of or conciliating a complaint
-(b) in paragraph (a) after “Division” insert:
-3A or
-(c) delete “Health Services (Conciliation and Review) Act 1995.” and insert:
-Health and Disability Services (Complaints) Act 1995.
-(3) After Schedule 1 clause 14(3) insert:
-(4A) Matter is exempt matter if its disclosure would reveal anything said or admitted for the purposes of negotiating the settlement of or conciliating a complaint under Division 2 of Part 6 of the Disability Services Act 1993.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

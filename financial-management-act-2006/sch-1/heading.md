@@ -31,6 +31,7 @@ Gold Corporation
 Goldfields-Esperance Development Commission
 Government Employees Superannuation Board
 Great Southern Development Commission
+Health and Disability Services Complaints Office
 Heritage Council of Western Australia
 Agencies established under the Hospitals and Health Services Act 1927 section 7B
 Hospital boards constituted under the Hospitals and Health Services Act 1927 section 15 and the Minister in relation to any public hospital controlled by the Minister under section 7 of that Act
@@ -50,7 +51,6 @@ Midland Redevelopment Authority
 Mid West Development Commission
 Minerals and Energy Research Institute of Western Australia
 Murdoch University
-Office of Health Review
 Parliamentary Inspector of the Corruption and Crime Commission
 Peel Development Commission
 Perth Market Authority
@@ -103,4 +103,4 @@ Western Australian Treasury Corporation
 Wheatbelt Development Commission
 WorkCover Western Australia Authority
 Zoological Parks Authority
-[Schedule 1 amended by No. 77 of 2006 s. 17; No. 10 of 2007 s. 43; No. 38 of 2007 s. 195; No. 28 of 2008 s. 13; No. 16 of 2009 s. 69; amended in Gazette 13 Jul 2007 p. 3454; 4 Jan 2008 p. 29; 8 Feb 2008 p. 323; 20 Aug 2010 p. 4072.]
+[Schedule 1 amended by No. 77 of 2006 s. 17; No. 10 of 2007 s. 43; No. 38 of 2007 s. 195; No. 28 of 2008 s. 13; No. 16 of 2009 s. 69; No. 33 of 2010 s. 56; amended in Gazette 13 Jul 2007 p. 3454; 4 Jan 2008 p. 29; 8 Feb 2008 p. 323; 20 Aug 2010 p. 4072.]
