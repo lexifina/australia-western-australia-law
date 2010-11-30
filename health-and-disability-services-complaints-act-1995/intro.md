@@ -1,3 +1,4 @@
 Western Australia
-Health Services (Conciliation and Review) Act 1995
-An Act to establish an agency as a readily accessible means of having complaints about the provision of health services reviewed, conciliated and dealt with in confidence, and for related purposes.
+Health and Disability Services (Complaints) Act 1995
+An Act to establish a readily accessible agency to which complaints may be made about the provision of health and disability services, to establish a means of having such complaints dealt with in confidence, and for related purposes.
+[Long title inserted by No. 33 of 2010 s. 4.]
