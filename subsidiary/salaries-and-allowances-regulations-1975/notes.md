@@ -31,10 +31,7 @@ Reprint 2: The Salaries and Allowances Regulations 1975 as at 2 Sep 2005 (includ
 Solicitor-General Amendment Act 2006 s. 13 assented to 30 Jun 2006 | 18 Jul 2006 (see s. 2)
 Salaries and Allowances Amendment Regulations 2007 | 16 Jan 2007 p. 129-30 | 16 Jan 2007
 Salaries and Allowances Amendment Regulations 2008 | 25 Jul 2008 p. 3391-2 | r. 1 and 2: 25 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Jul 2008 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Salaries and Allowances Tribunal Amendment Regulations 2010 r. 3 and 4 | 29 Oct 2010 p. 5333 | 1 Dec 2010 (see r. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Salaries and Allowances Tribunal Amendment Regulations 2010 | 29 Oct 2010 p. 5333 | r. 1 and 2: 29 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2010 (see r. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993.
 Repealed by the Public Transport Authority Act 2003.
 Formerly referred to the Occupational Health, Safety and Welfare Act 1984 the short title of which was changed to the Occupational Safety and Health Act 1984 by the Occupational Safety and Health Legislation Amendment Act 1995 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -42,9 +39,3 @@ Formerly referred to the Water Authority Act 1984 the short title of which was c
 Now known as the Salaries and Allowances Regulations 1975; citation changed (see note under r. 1).
 The Solicitor-General Amendment Act 2006 s. 13(3) reads as follows:
 (3) This section does not prevent the Salaries and Allowances Regulations 1975 from being amended or repealed in accordance with the Salaries and Allowances Act 1975.
-On the date as at which this compilation was prepared the Salaries and Allowances Tribunal Amendment Regulations 2010 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Salaries and Allowances Regulations 1975.
-4.Regulation 3 amended
-In regulation 3 in the Schedule delete the item relating to the Public Sector Management Act 1994 and insert:
-Public Sector Management Act 1994 | Public Sector Commissioner
