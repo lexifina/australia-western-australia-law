@@ -32,12 +32,12 @@ Acts Amendment (Bankruptcy) Act 2009 s. 40 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health and Disability Services Legislation Amendment Act 2010 Pt. 2 | 33 of 2010 (as amended by 35 of 2010 s. 83(3)) | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Health Practitioner Regulation National Law (WA) Act 2010 s. 79-90 and 91(1)-(3) | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Health Practitioner Regulation National Law (WA) Act 2010 s. 91(4) and (5) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
@@ -60,7 +60,7 @@ Act | Provision
 Health Services (Conciliation and Review) Act 1995 | Sch. 2, cl. 3
 .............................................. | ................
 ”.
-Now known as the Health and Disability Services (Complaint) Act 1995; citation changed see note under s. 1.
+Now known as the Health and Disability Services (Complaints) Act 1995; citation changed see note under s. 1.
 On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 91(4) and (5) had not come into operation. They read as follows:
 91.Schedule 1 amended
 (4) Delete Schedule 1 items 3a and 5.
@@ -69,10 +69,3 @@ On the date as at which this compilation was prepared, the Health Practitioner R
 1b.Chinese Medicine Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
 3a.Medical Radiation Practice Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
 5.Occupational Therapy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Health Services (Conciliation and Review) Act 1995 | Sch. 2 cl. 2(a), 6

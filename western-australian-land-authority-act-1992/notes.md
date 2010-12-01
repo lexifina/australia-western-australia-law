@@ -23,12 +23,12 @@ Land Information Authority Act 2006 s. 119 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 15 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 136 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 41 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Public Sector Reform Act 2010 s. 88 and 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 72 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 State Superannuation Amendment Act 2007 s. 88 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
-Public Sector Reform Act 2010 s. 88 and 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The Western Australian Land Authority Amendment Act 1998 s. 19(3) and (4) read as follows:
 “
 (3) Despite subsections (1) and (2), on and from the commencement of this Act —
@@ -94,19 +94,60 @@ On the date as at which this compilation was prepared, the State Superannuation 
 (2) Section 13A(1) is amended by deleting “section 30” and inserting instead —
 “ section 76 ”.
 ”.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 88 and 89 had not come into operation. They read as follows:
-88.Western Australian Land Authority Act 1992 amended
-(1) This section amends the Western Australian Land Authority Act 1992.
-(2) In section 4(1) delete the definition of Commissioner for Public Sector Standards.
-(3) In the provisions listed in the Table delete “Commissioner for Public Sector Standards” (each occurrence) and insert:
-Public Sector Commissioner
-Table
-s. 12(1), (4) and (5) | s. 13(1) and (3)
-s. 14B(1) and (3) | s. 14C(1) and (3)
-s. 14D(2)
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Western Australian Land Authority Act 1992 | s. 8(1)
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+account31(1)
+accounting standardSch. 3A, cl. 1(2)
+acquire4(1)
+administrative policy requirement23E(1)
+alternate director4(1)
+Authority4(1)
+board4(1)
+business arrangement17(5)
+chairperson4(1)
+chief executive officer4(1)
+commencement daySch. 4, cl. 1
+committee4(1)
+community service obligation25A(3)
+companySch. 3A, cl. 1(2)
+Corporations Act4(1)
+Crown land4(1)
+develop4(1)
+director4(1)
+dispose of4(1)
+document25(4)
+executive officer4(1)
+financial recordsSch. 3A, cl. 1(2)
+financial yearSch. 3A, cl. 1(1)
+former bodySch. 4, cl. 1
+function4(1)
+industrial purposes4(1)
+information25(4)
+interest rate35A(2)
+Joondalup Centre16(2)
+land4(1)
+liabilities51(11)
+liabilitySch. 4, cl. 1
+management4(1)
+member of staff4(1)
+members of staff13A(3), 14B(4)
+Ministers51(11)
+near relativeSch. 1, cl. 1(1)
+new owner23B(1)
+notifiable interest8B(3)
+officerSch. 1A, cl. 2(1)
+participate17(5)
+person17(5)
+property51(11), Sch. 4, cl. 1
+public authority4(1)
+public service officer8A(2)
+regulationsSch. 3A, cl. 1(1)
+subsidiary4(1)
+summary conviction penaltySch. 1A, cl. 2(1), 3A, cl. 30(3)
+the prescribed daySch. 3A, cl. 31(1)
+the repealed ActSch. 4, cl. 7(1), 4, cl. 9(1)
+third party23B(1)
+transaction17C
+Treasurer4(1)
+WADC51(9), 51(11)

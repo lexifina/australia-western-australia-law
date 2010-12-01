@@ -20,11 +20,8 @@ Retail Trading Hours Amendment (Joondalup Special Trading Precinct) Act 2010 | 2
 Retail Trading Hours Amendment (Armadale Special Trading Precinct) Act 2010 | 36 of 2010 | 22 Sep 2010 | s. 1 and 2: 22 Sep 2010 (see s. 2(a)); Act other than s. 1 and 2: 23 Sep 2010 (see s. 2(b))
 Retail Trading Hours Amendment (Midland Special Trading Precinct) Act 2010 | 37 of 2010 | 22 Sep 2010 | s. 1 and 2: 22 Sep 2010 (see s. 2(a)); Act other than s. 1 and 2: 23 Sep 2010 (see s. 2(b))
 Retail Trading Hours Amendment Act 2010 | 38 of 2010 | 1 Oct 2010 | s. 1 and 2: 1 Oct 2010 (see s. 2(a)); Act other than s. 1 and 2: 1 Nov 2010 (see s. 2(b) and Gazette 22 Oct 2010 p. 5207)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
+Footnote no longer applicable.
 Repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
 The Retail Shops and Fair Trading Legislation Amendment Act 2006 s. 18 reads as follows:
 “
@@ -34,13 +31,6 @@ An order made, or purporting to have been made, under the Retail Trading Hours A
 (b) continues, on and after that commencement, to have effect and the force of law; and
 (c) in relation to an order made under section 5, 12, 13 or 14 of that Act that continues to have effect and the force of law under paragraph (b) — may be amended or revoked as if it had been made under section 12E of that Act as amended by this Act.
 ”.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Retail Trading Hours Act 1987 | s. 17(5)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

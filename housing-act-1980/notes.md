@@ -31,12 +31,12 @@ Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Aboriginal Housing Legislation Amendment Act 2010 Pt. 2 | 6 of 2010 | 25 May 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 22 Jun 2010 p. 2767)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | it. 31 the amendment to s. 5(1): 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341); it. 31 the amendment to s. 55(5) other than the amendment to delete “or on termination” and insert “or (ii) on termination”: 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341);
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | it. 31 the amendment to s. 55(5) the amendment to delete “or on termination” and insert “or (ii) on termination”: to be proclaimed (see s. 2(b))
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Under the Public Sector Management Act 1994 s. 112(2), a reference to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
+Footnote no longer applicable.
 Repealed by the Interpretation Act 1984 s. 77(1).
 The Housing Amendment Act 1983 s. 4(2) is a transitional provision that is of no further effect.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 10 Div. 6 reads as follows:
@@ -81,13 +81,6 @@ Table
 Provision | Delete | Insert
 31.Housing Act 1980
 s. 55(5) | or on termination | or (ii)on termination
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Housing Act 1980 | s. 18(1)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

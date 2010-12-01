@@ -15,22 +15,11 @@ Legal Profession Act 2008 s. 647 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Training Legislation Amendment and Repeal Act 2008 s. 51 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
 Reprint 2: The Coal Industry Tribunal of Western Australia Act 1992 as at 24 Apr 2009 (includes amendments listed above except those in the Training Legislation Amendment and Repeal Act 2008)
 Acts Amendment (Bankruptcy) Act 2009 s. 15 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
-Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Coal Industry Tribunal of Western Australia Act 1992 | s. 27
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 act29(2)
 board of investigation3
 chairperson3

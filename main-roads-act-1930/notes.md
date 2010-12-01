@@ -49,9 +49,6 @@ Reprinted as at 28 Jan 2000
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 13 Div 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Standardisation of Formatting Act 2010 s. 44(2) and 63 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Proclamation published in Gazette 28 November 1930 p. 2564.
 Section 5 of the Main Roads Amendment Act 1984 (No. 38 of 1984) reads as follows —
@@ -62,10 +59,3 @@ Where before the coming into operation of this Act a person was appointed by the
 Under section 112(1) of the Public Sector Management Act 1994 references to the Public Service Act 1978 may be construed as references to the Public Sector Management Act 1994 (No. 31 of 1994).
 Section 35 was renumbered as section 34 in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia).
 The Limitation Act 1935 s. 48A and the Second Schedule were inserted by No. 73 of 1954 s. 8.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Main Roads Act 1930 | First Sch. cl. 5

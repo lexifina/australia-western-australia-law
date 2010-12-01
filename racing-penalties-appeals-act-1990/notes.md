@@ -22,27 +22,17 @@ Legal Profession Act 2008 s. 695 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Acts Amendment (Bankruptcy) Act 2009 s. 72 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 3: The Racing Penalties (Appeals) Act 1990 as at 24 Sep 2010 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
+Footnote no longer applicable.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
 19.Power to amend regulations
 (1) The Governor, on the recommendation of the Minister, may make regulations amending subsidiary legislation made under any Act.
 (2) The Minister may make a recommendation under subsection (1) only if the Minister considers that each amendment proposed to be made by the regulations is necessary or desirable as a consequence of the enactment of the RWWA Act or this Act.
 (3) Nothing in this section prevents subsidiary legislation from being amended in accordance with the Act under which it was made.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 Pt. 11 Div. 2 are transitional provisions that are of no further effect.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Racing Penalties (Appeals) Act 1990 | Sch. cl. 1(3), 2
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 appellant13(1)
 bet3(1)
 bookmaker3(1)

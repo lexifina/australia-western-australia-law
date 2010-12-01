@@ -68,9 +68,6 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(4) and 17 | 77 of 20
 Eastern Goldfields Transport Board Repeal Act 2008 s. 15 | 28 of 2008 | 1 Jul 2008 | 29 Jul 2008
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 14 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
 Standardisation of Formatting Act 2010 s. 4, 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The State Transport Co-ordination Act 1966 was repealed by the State Transport Co-ordination Act 1981, which was repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.
 The reference in the Taxi Act 1994 s. 49(a) to an amendment of s. 2 of this Act should refer to an amendment of s. 4 of this Act. Section 49(a) reads as follows:
@@ -80,7 +77,7 @@ The reference in the Taxi Act 1994 s. 49(a) to an amendment of s. 2 of this Act 
 a vehicle operating as a taxi using taxi plates issued under the Taxi Act 1994 or licensed as a taxi-car under;
 ”.
 ”.
-Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
+Footnote no longer applicable.
 Repealed by the Interpretation Act 1984.
 The amendment in the Labour Relations Reform Act 2002 s. 27 is not included because the section it sought to amend had been replaced before the amendment purported to come into operation.
 Now called the Transport Co-ordination Act 1966; short title changed (see note under s. 1).
@@ -151,10 +148,3 @@ The Public Transport Authority Act 2003 Pt. 7 Div. 1, 5, and 6 deal with transit
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 121(3) is not included because the section it sought to amend had been replaced by Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 47 before the amendment purported to come into operation.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 50 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Transport Co-ordination Act 1966 | s. 7B(9)

@@ -24,12 +24,12 @@ Reprint 2: The State Administrative Tribunal Act 2004 as at 16 Jan 2009 (include
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 120 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Pharmacy Act 2010 Pt. 8 Div. 2 | 32 of 2010 | 26 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5076)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 47 (except s. 157(3)) | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Public Sector Reform Act 2010 s. 84 and 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
 Health Practitioner Regulation National Law (WA) Act 2010 s. 157(3) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
-Public Sector Reform Act 2010 s. 84 and 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 had not come into operation. It reads as follows:
 82.State Administrative Tribunal Act 2004 amended
@@ -42,17 +42,6 @@ Division 47 — State Administrative Tribunal Act 2004 amended
 (3) In Schedule 1 delete the items for:
 Medical Radiation Technologists Act 2006
 Occupational Therapists Act 2005
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 84 and 89 had not come into operation. They read as follows:
-84.State Administrative Tribunal Act 2004 amended
-(1) This section amends the State Administrative Tribunal Act 2004.
-(2) In section 121(2) delete “Commissioner for Public Sector Standards” and insert:
-Public Sector Commissioner
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-State Administrative Tribunal Act 2004 | s. 119(5)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

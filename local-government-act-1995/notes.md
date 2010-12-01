@@ -48,12 +48,12 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Reprint 5: The Local Government Act 1995 as at 5 Feb 2010 (includes amendments listed above)
  | Standardisation of Formatting Act 2010 s. 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 34 and Pt. 5 Div 2 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
+ | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Local Government Amendment Act 2009 s. 34 | 17 of 2009 | 16 Sep 2009 | To be proclaimed (see s. 2(b))
 Co-operatives Act 2009 s. 506 and 516 | 24 of 2009 | 22 Oct 2009 | s. 506: operative on the day Co-operative Bulk Handling Limited becomes registered under this Act (see s. 2(d)); s. 516: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -250,14 +250,6 @@ co-operative
 (a) delete paragraph (d) and “or” after it;
 (b) after each of paragraphs (a) and (b) insert:
 or
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Local Government Act 1995 | Sch. 2.5 cl. 8(1), Sch. 5.1 cl. 9(1)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

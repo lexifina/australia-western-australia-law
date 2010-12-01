@@ -35,9 +35,6 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Reprint 3: The Water Agencies (Powers) Act 1984 as at 4 Aug 2006 (includes amendments listed above)
 Water Resources Legislation Amendment Act 2007 Pt. 6 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Acts Amendment (Water Authority Rates and Charges) Act 1987 s. 4 reads as follows:
@@ -83,10 +80,3 @@ Now known as the Water Agencies (Powers) Act 1984; short title changed (see note
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 14 contains transitional provisions relating to the replacement of the Water Authority and Waterways Commission with the Water Corporation, Water and Rivers Commission and the Coordinator of Water Services.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Water Agencies (Powers) Act 1984 | s. 21, 109(2)

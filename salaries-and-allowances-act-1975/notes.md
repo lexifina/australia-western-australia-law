@@ -47,9 +47,6 @@ Compilation table
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 114 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 78 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Reprint 5: The Salaries and Allowances Act 1975 as at 2 Jul 2010 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 83 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The provision in this Act repealing the Parliamentary Salaries and Allowances Act 1967 was repealed by the Parliamentary Superannuation Legislation Amendment Act 2000 s. 22.
 Now see the Interpretation Act 1984 s. 52.
@@ -60,11 +57,6 @@ The Salaries and Allowances Amendment Act 1995 s. 6 reads as follows:
 (a) if the offence was a Schedule 1 offence committed by the person while holding public office, on the day when the person is convicted;
 (b) in any other case, on the day when the person was sentenced.
 Now known as the Salaries and Allowances Act 1975; short title changed (see note under s. 1).
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 83 had not come into operation. It reads as follows:
-83.Salaries and Allowances Act 1975 amended
-(1) This section amends the Salaries and Allowances Act 1975.
-(2) In section 10(4)(b) delete “chief executive officer of the department principally assisting the Minister in the administration of the Public Sector Management Act 1994” and insert:
-Public Sector Commissioner
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

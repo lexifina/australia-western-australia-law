@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building and Construction Industry Training Fund and Levy Collection Act 1990 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the Building and Construction Industry Training Fund and Levy Collection Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Building and Construction Industry Training Fund and Levy Collection Act 1990 | 76 of 1990 | 20 Dec 1990 | 1 Jul 1991 (see s. 2 and Gazette 28 Jun 1991 p. 3101)
@@ -15,20 +15,10 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Building and Construction Industry Training Fund and Levy Collection Amendment Act 2009 Pt. 2 | 6 of 2009 | 19 May 2009 | 20 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-Building and Construction Industry Training Fund and Levy Collection Amendment Act 2010 | 47 of 2010 | 12 Nov 2010 | s. 1 and 2: 12 Nov 2010 (see s. 2(a)); Act other than s. 1 and 2: 13 Nov 2010 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Building and Construction Industry Training Fund and Levy Collection Amendment Act 2010 | 47 of 2010 | 12 Nov 2010 | s. 1 and 2: 12 Nov 2010 (see s. 2(a)); Act other than s. 1 and 2: 13 Nov 2010 (see s. 2(b))
 This Act shall be read as one with the Building and Construction Industry Training Levy Act 1990 (see s. 3 of that Act).
 The Building and Construction Industry Training Fund and Levy Collection Amendment Act 1998 s. 7(2) reads as follows:
 “
 (2) A person holding office as a member of the Board immediately before the day on which this Act comes into operation ceases to hold office on that day but, subject to the principal Act as amended by this Act, is eligible for reappointment to the Board.
 ”.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Building and Construction Industry Training Fund and Levy Collection Act 1990 | Sch. 1 cl. 2

@@ -54,9 +54,6 @@ Water Resources Legislation Amendment Act 2007 Pt. 5 | 38 of 2007 | 21 Dec 2007 
 Reprint 8: The Rights in Water and Irrigation Act 1914 as at 6 Jun 2008 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 14 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The short title of the Water Authority Act 1984 was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7.
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 2 commenced 1 January 1996.
@@ -162,13 +159,6 @@ the RWI Act means the Rights in Water and Irrigation Act 1914.
 (4) If the Corporation receives, before the commencement day, a notice in accordance with the RWI Act section 39G(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the decision to refuse to extend time to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the RWI Act section 39G(1).
 (5) If a notice has been given under the RWI Act section 39E(7) before the commencement day, on or after the commencement day the notice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
 ”.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Rights in Water and Irrigation Act 1914 | s. 26GR
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

@@ -47,9 +47,6 @@ Criminal Law Amendment (Homicide) Act 2008 s. 35 | 29 of 2008 | 27 Jun 2008 | 1 
 Surrogacy Act 2008 Pt. 4 Div. 6 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 512)
 Acts Amendment (Bankruptcy) Act 2009 Pt. 2 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Interpretation and Reprints Amendment Act 2010 Pt. 2 | 31 of 2010 | 25 Aug 2010 | 26 Aug 2010 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 78 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Now see the Public Sector Management Act 1994.
 Under s. 77(2), the Interpretation Act 1918 s. 11 continues to apply to Acts passed before 1 July 1984. Section 11 reads as follows:
@@ -79,9 +76,138 @@ And, for the protection of persons acting in execution of this Act, where an act
 H.
 No action shall lie against any Justice of the Peace, Officer of Police, Policeman, Constable, Peace Officer, or any other person in the employ of the Government authorised to carry the provisions of this Act, or any of them, into effect, or any person acting for, or under such persons, or any of them, on account of any act, matter, or thing done, or to be done, or commanded by them, or any of them, in carrying the provisions of this Act into effect again any parties offending or suspected of offending against the same, unless there is direct proof of corruption or malice; and if any such person shall be sued for any act, matter, or thing which he shall have so done, or shall so do, in carrying the provisions of this Act into effect, he may plead the general issue and give the special matter in evidence; and in case of judgment after verdict, or by a Judge sitting as a jury, or on demurrer being given for the defendant, or of the plaintiff discontinuing, or becoming non-suit in any such action, the Court before which the action was brought may award treble costs to the defendant or such portion of those costs as the Court thinks fit.
 The Sunday Observance Laws Amendment and Repeal Act 1997 s. 4(2) is a transitional provision that is of no further effect.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 78 had not come into operation. It reads as follows:
-78.Interpretation Act 1984 amended
-(1) This section amends the Interpretation Act 1984.
-(2) In section 5 insert in alphabetical order:
-Public Sector Commissioner means the person holding the office established by the Public Sector Management Act 1994 section 16;
-public service officer has the meaning given in the Public Sector Management Act 1994 section 3(1);
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+act5
+Act5
+Act of the Commonwealth5
+affidavit5
+alternative offence5
+amend5
+ASIC Law5
+ASIC Regulations5
+association54(2)
+Auditor General5
+Australia5
+Australia Acts5
+bank holiday5
+bankrupt and bankrupt or a person whose affairs are under insolvency laws5
+book5
+British possession5
+by-law5
+cause52(2)
+chief executive officer5
+Children’s Court5
+commencement5
+Commissioner of State Revenue5
+Commonwealth5
+Commonwealth Act5, 13(1)
+Consolidated Account5
+contravene5
+Corporations Law5
+Corporations Regulations5
+Court of Appeal5
+court of summary jurisdiction5
+de facto partner5
+de facto relationship5
+death5
+definition5
+District Court5
+District Court judge5
+document5
+enactment5
+estate5
+excluded day61(2)
+Family Court5
+Family Court of Western Australia5
+fee45A(4)
+financial year5
+first person13A(5)
+function5
+Gazette5
+Government5
+Government Gazette5
+Government Printer5
+Governor5
+Her Majesty5
+His Majesty5
+Imperial Act5
+indictable offence5
+individual5
+issue45A(4)
+JP5
+Judge5
+justice5
+justice of the peace5
+land5
+law of the State13(1)
+licence45A(4)
+local government5
+local government district5, 13CA(1)
+local law5
+magistrate5
+Magistrates Court5
+may56(1)
+Minister5
+Minister for Public Sector Management5
+month5, 62(1)
+oath5
+or17
+other17
+otherwise17
+paragraph15A(1)
+parent5
+Parliament5
+penalty5
+perform5
+person5
+police officer5
+power5
+prescribed5
+proclamation5
+public half-holiday5
+public holiday5
+Public Sector Commissioner5
+Public Service5
+public service holiday5
+public service officer5
+publication5
+regional local government5
+regulation5
+regulations42(8)
+repeal5
+Royal Assent5
+rule5
+rules of court5, 66(1)
+sell5
+shall56(2)
+sign5
+simple offence5
+sitting days5
+specified43(9)
+spouse5
+Standards Australia5
+State5
+State Administrative Tribunal5
+statutory declaration5
+subsidiary legislation5
+summary conviction5
+summary conviction penalty5
+Supreme Court5
+swear5
+Territory5
+the Act44(2)
+the Crown5
+the King5
+the Queen5
+the State5
+this State5
+under5
+United Kingdom5
+Valuer-General5
+will5
+words5
+writing5
+written law5
+year5

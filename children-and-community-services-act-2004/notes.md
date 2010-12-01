@@ -15,10 +15,10 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 32 | 8 of 2009 | 21 
 Parliamentary Commissioner Amendment Act 2009 s. 11 | 10 of 2009 | 29 Jun 2009 | 30 Jun 2009 (see s. 2(b))
 Reprint 2: The Children and Community Services Act 2004 as at 27 Nov 2009 (includes amendments listed above)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 8 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Children and Community Services Amendment Act 2010 Pt. 2 Div. 1, Pts. 3-5 | 49 of 2010 | 24 Nov 2010 | To be proclaimed (see s. 2(b))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions which read as follows:
@@ -58,13 +58,6 @@ specified means specified or described in the regulations.
 (a) affect, in a manner prejudicial to any person (other than the State, an authority of the State or a local government), rights that the person had before the regulations were published in the Gazette; or
 (b) impose liabilities on any person (other than the State, an authority of the State or a local government) in respect of anything done or omitted to be done before the regulations were published in the Gazette.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Children and Community Services Act 2004 | s. 27(8), 92(7)(b)
 On the date as at which this compilation was prepared, the Children and Community Services Amendment Act 2010 Pt. 2 Div. 1, Pts. 3-5 had not come into operation. They read as follows:
 Part 2 — Secure care arrangements
 Division 1 — Children and Community Services Act 2004 amended

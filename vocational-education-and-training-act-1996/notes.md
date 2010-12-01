@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Vocational Education and Training Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Vocational Education and Training Act 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Vocational Education and Training Act 1996 | 42 of 1996 | 16 Oct 1996 | s. 1 and 2: 16 Oct 1996; Act other than s. 1 and 2, Pt. 7 and Sch. 2: 1 Jan 1997 (see s. 2 and Gazette 12 Nov 1996 p. 6301)
@@ -13,11 +13,12 @@ Training Legislation Amendment and Repeal Act 2008 Pt. 2 | 44 of 2008 | 10 Dec 2
 Reprint 2: The Vocational Education and Training Act 1996 as at 7 Aug 2009 (includes amendments listed above)
 Acts Amendment (Bankruptcy) Act 2009 s. 88 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2)
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Other notes
 Pt. 7 (s. 58-62) and Sch. 2 of this Act had not come into operation when they were deleted by the Training Legislation Amendment and Repeal Act 2008 s. 39 and 48.
 The Acts Amendment (Education Loan Scheme) Act 1998 Pt. 5 reads as follows:
 Part 5 — Transitional
@@ -30,25 +31,10 @@ Despite the repeal of sections 9A(5)(c) and 27C(3) of the Education Act 1928, se
 (4) In this section —
 Education Minister means the Minister in whom the administration of the Education Act 1928 is for the time being committed by the Governor;
 Vocational Education and Training Minister means the Minister in whom the administration of the Vocational Education and Training Act 1996 is for the time being committed by the Governor.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
-75.Various provisions repealed
-The provisions listed in the Table to this section are repealed.
-Table of provisions repealed
-Act | Provision
-...................... | ........
-Vocational Education and Training Act 1996 | Sch. 4, cl. 7A
-...................... | ........
-The Schedule that it seeks to amend has been deleted.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Vocational Education and Training Act 1996 | s. 63
-Defined Terms
+The State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. The Schedule that it seeks to amend has been deleted.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 account5(1)
 apprentice60A
 approved purposes17(4)

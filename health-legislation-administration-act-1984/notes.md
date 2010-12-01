@@ -13,13 +13,10 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 3 | 28 of
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 23 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Under the Interpretation Act 1984 s. 16, a reference to the Industrial Arbitration Act 1979 may be read as a reference to the Industrial Relations Act 1979. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Repealed by the Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984.
-Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
+Footnote no longer applicable.
 The Mental Health (Consequential Provisions) Act 1996 s. 38(2) reads as follows:
 “
 (2) The person who immediately before the commencement of this provision held office as the Director, Psychiatric Services under the section amended by subsection (1) is to be taken after the commencement to hold the office of Chief Psychiatrist under that section.
@@ -42,10 +39,3 @@ This Division amends the Health Legislation Administration Act 1984.
 76.Section 6 amended
 Delete section 6(4)(a) and insert:
 (a) an office referred to in subsection (1)(b) or (c) unless the person is registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Health Legislation Administration Act 1984 | s. 6(3), 11(3)

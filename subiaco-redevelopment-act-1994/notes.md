@@ -25,9 +25,6 @@ Acts Amendment (Bankruptcy) Act 2009 s. 83 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 38 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 86 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Under the Public Sector Management Act 1994 s. 112(1), a reference in a written law to the Public Service Act 1978 is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 The Planning Legislation Amendment Act 1996 s. 39(2), (3) and (4) read as follows:
@@ -41,19 +38,6 @@ The Statutes (Repeals and Minor Amendments) Act 1997 s. 116(2) reads as follows:
 (2) The person appointed and holding office under section 7(1)(c) as a member of the Subiaco Redevelopment Authority immediately before the commencement of this section continues to hold office after that commencement as if appointed as a member of the Subiaco Redevelopment Authority under section 7(1)(a).
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 86 had not come into operation. It reads as follows:
-86.Subiaco Redevelopment Act 1994 amended
-(1) This section amends the Subiaco Redevelopment Act 1994.
-(2) In section 3 delete the definition of Public Service Act.
-(3) In section 10 delete “Minister to whom the administration of the Public Service Act is for the time being committed by the Governor.” and insert:
-Public Sector Commissioner.
-(4) In section 14(1) delete “Public Service Act” and insert:
-Public Sector Management Act 1994
-(5) In section 15(1) delete “Minister to whom the administration of the Public Service Act is for the time being committed by the Governor,” and insert:
-Public Sector Commissioner
-(6) In section 17 delete “Public Service Act” and insert:
-Public Sector Management Act 1994
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -85,7 +69,6 @@ officer53(2)
 participate21(8)
 planning schemes45(3)
 public authority3
-Public Service Act3
 redevelopment area3
 redevelopment scheme3
 Registrar23(7)
