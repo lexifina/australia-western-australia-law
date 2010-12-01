@@ -19,17 +19,12 @@ Inspector of Custodial Services Act 2003 s. 56(1) assented to 15 Dec 2003 | 15 D
 Public Sector Management (General) Amendment Regulations 2005 | 16 Sep 2005 p. 4347-8 | 16 Sep 2005
 Public Sector Management (General) Amendment Regulations 2006 | 29 Dec 2006 p. 5920 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
 Public Sector Management (General) Amendment Regulations (No. 2) 2010 | 22 Oct 2010 p. 5223-4 | r. 1 and 2: 22 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Oct 2010 (see r. 2(b))
+Public Sector Management (General) Amendment Regulations 2010 | 5 Nov 2010 p. 5570-3 | Pt. 2: 1 Dec 2010 (see r. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Public Sector Management (General) Amendment Regulations 2010 Pt. 2 and 3 | 5 Nov 2010 p. 5570-3 | 1 Oct 2010 | Pt. 2: 1 Dec 2010 (see r. 2(b) and Gazette 5 Nov 2010 p. 5563); Pt. 3: 28 Mar 2011 (see r. 2(c) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this compilation was prepared, the Public Sector Management (General) Amendment Regulations 2010 Pt. 2 and 3 had not come into operation. They read as follows:
-Part 2 — Amendments relating to Public Sector Reform Act 2010 Part 2
-4.Regulation 8A amended
-In regulation 8A(1) delete the definition of class and insert:
-class, in relation to a non-SAT CEO, means the classification of the officer determined under a classification system specified in a Commissioner’s instruction;
-5.Regulation 24 deleted
-Delete regulation 24.
+Citation | Gazettal | Commencement
+Public Sector Management (General) Amendment Regulations 2010 Pt. 3 | 5 Nov 2010 p. 5570-3 | Pt. 3: 28 Mar 2011 (see r. 2(c) and Gazette 5 Nov 2010 p. 5563)
+On the date as at which this compilation was prepared, the Public Sector Management (General) Amendment Regulations 2010 Pt. 3 had not come into operation. It reads as follows:
 Part 3 — Amendments relating to Public Sector Reform Act 2010 Part 3
 6.Regulation 15 replaced
 Delete regulation 15 and insert:
