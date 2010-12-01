@@ -15,19 +15,10 @@ Compilation table
  | Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
  | Reprint 2: The Midland Redevelopment Act 1999 as at 19 Mar 2010 (includes amendments listed above)
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 35 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 79 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)))
 At the date this reprint was prepared the local government formerly known as the Shire of Swan is called the City of Swan.
 The Town Planning and Development Act 1928 was repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 Schedule 1.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 79 had not come into operation. It reads as follows:
-79.Midland Redevelopment Act 1999 amended
-(1) This section amends the Midland Redevelopment Act 1999.
-(2) In section 10 delete “Minister to whom the administration of the PSM Act is for the time being committed by the Governor.” and insert:
-Public Sector Commissioner.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

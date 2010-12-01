@@ -23,15 +23,15 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 79 | 8 of 2009 | 21 
 Acts Amendment (Bankruptcy) Act 2009 s. 47 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 3: The Insurance Commission of Western Australia Act 1986 as at 1 Oct 2010 (includes amendments listed above)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 6(a), 13, 14, 20-22, 24, 25, 27 and 28 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 50 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 s. 5. Now the Life Insurance Act 1995 of the Commonwealth.
 Repealed by the Insurance Commission of Western Australia Act 1986 s. 46(1).
-Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). The reference was amended under the Reprints Act 1984 s. 7(5)(a).
+Footnote no longer applicable.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 The SGIO Privatisation Act 1992 Pt. 3 came into operation on 24 December 1992.
 The appointed day under the SGIO Privatisation Act 1992 was 7 January 1993.
@@ -83,13 +83,6 @@ Schedule 4 to the principal Act is repealed.
 On the date on which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 50 had not come into operation. It reads as follows:
 50.Insurance Commission of Western Australia Act 1986 amended
 Clause 16(2) of Schedule 4 to the Insurance Commission of Western Australia Act 1986 is amended by deleting “(including, if he is a contributor under the Superannuation and Family Benefits Act 1938, his rights under that Act)”.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Insurance Commission of Western Australia Act 1986 | s. 5(5), 11(5)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

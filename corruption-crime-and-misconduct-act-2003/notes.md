@@ -24,9 +24,6 @@ Acts Amendment (Bankruptcy) Act 2009 s. 23 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Reprint 4: The Corruption and Crime Commission Act 2003 as at 2 Jul 2010 (includes amendments listed above)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 12 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 74 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Now called the Telecommunications (Interception and Access) Act 1979 (Commonwealth).
@@ -127,19 +124,6 @@ to or in relation to any matter.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not operate so as to —
 (a) affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 74 had not come into operation. It reads as follows:
-74.Corruption and Crime Commission Act 2003 amended
-(1) This section amends the Corruption and Crime Commission Act 2003.
-(2) In section 3(1):
-(a) in the definition of independent agency delete paragraph (e) and insert:
-(e)the Public Sector Commissioner;
-(b) after each of paragraphs (a), (b) and (c) insert:
-and
-(3) Delete section 90(6) and insert:
-(6) A report about a person proposed to be appointed as a chief executive officer may be given to —
-(a) the Public Sector Commissioner; and
-(b) any Minister that the Public Sector Commissioner considers has a relevant interest in the report.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

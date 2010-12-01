@@ -43,15 +43,15 @@ Legal Profession Act 2008 s. 661 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Acts Amendment (Bankruptcy) Act 2009 s. 36 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Co-operatives Act 2009 s. 509 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975)
 Equal Opportunity Amendment Act 2010 | 2 of 2010 | 1 Apr 2010 | s. 1 and 2: 1 Apr 2010 (see s. 2(a)); Act other than s. 1 and 2: 25 Sep 2010 (see s. 2(b) and Gazette 24 Sep 2010 p. 5047)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 514 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 of the Commonwealth (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 of the Commonwealth.
 Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1) which was repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
 The Uniform Building By-laws 1974 were repealed in Gazette 28 July 1989 p. 2280.
-Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner or Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
+Footnote no longer applicable.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Acts 1984 s. 7(3)(g).
 Now known as the Police Service.
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision that is of no further effect.
@@ -80,10 +80,3 @@ On the date as at which this compilation was prepared, the Co-operatives Act 200
 (2) In section 35N(1)(a) delete “of a society registered under the Co-operative and Provident Societies Act 1903 or”.
 (3) In section 66ZS(1)(a)(i) delete “of a society registered under the Co-operative and Provident Societies Act 1903 or”.
 (4) In section 69(1)(b)(i) delete “of a society registered under the Co-operative and Provident Societies Act 1903 or”.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Equal Opportunity Act 1984 | s. 75(5), 78(3)(a), 142(4)

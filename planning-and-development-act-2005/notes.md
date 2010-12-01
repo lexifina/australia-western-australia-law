@@ -13,12 +13,12 @@ Legal Profession Act 2008 s. 690 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 100 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 8 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 1, Pt. 4 and Pt. 5 Div. 1 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 312 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Repealed by the Land Administration Act 1997.
 Repealed by the Mining Act 1978.
 On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149 had not come into operation. It reads as follows:
@@ -399,12 +399,6 @@ local government;
 (f)a member of a DAP.
 (2) In section 266(6) delete “Commission.” and insert:
 Commission or any other person.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Planning and Development Act 2005 | s. 13
+Footnote no longer applicable.
 The Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 76(4) reads as follows:
 (4) The Minister must, as soon as is practicable after an order is given to the local government under subsection (1), cause a copy of the order to be laid before each House of Parliament or dealt with under section 268A.

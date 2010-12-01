@@ -109,12 +109,12 @@ Parliamentary Commissioner Amendment Act 2009 s. 3-10 | 10 of 2009 | 29 Jun 2009
 National Gas Access (WA) Act 2009 s. 71 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327
 Acts Amendment (Bankruptcy) Act 2009 s. 62 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Public Sector Reform Act 2010 s. 80 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Public Sector Reform Act 2010 s. 80 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Under the Liquor Control Act 1988 Sch. 1A cl. 9 a reference to the Liquor Licensing Court is to be read and construed as a reference to the Liquor Commission.
 The Health Legislation Administration Act 1984 s. 6(1) was amended by the Mental Health (Consequential Provisions) Act 1996 s. 38 to replace the office of Director, Psychiatric Services with the office of Chief Psychiatrist.
@@ -150,11 +150,6 @@ Act | Provision
 .............................................. | ................
 Parliamentary Commissioner Act 1971 | s. 10(2)
 .............................................. | ................
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 80 had not come into operation. It reads as follows:
-80.Parliamentary Commissioner Act 1971 amended
-(1) This section amends the Parliamentary Commissioner Act 1971.
-(2) In Schedule 1 delete the item relating to the Public Sector Management Act 1994 and insert:
-Public Sector Management Act 1994 | Public Sector Commissioner to the extent of the Commissioner’s functions other than that of chief executive officer of the department of the Public Service principally assisting in the administration of the Public Sector Management Act 1994
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

@@ -257,6 +257,7 @@ Grain Marketing Repeal Act 2010 s. 4 | 30 of 2010 | 25 Aug 2010 | 27 Oct 2010 (s
 Pharmacy Act 2010 Pt. 8 Div. 1 | 32 of 2010 | 26 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5076)
 Health and Disability Services Legislation Amendment Act 2010 s. 55 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Health Practitioner Regulation National Law (WA) Act 2010 s. 43, 44(2)-(6), (8) and (10)-(15) | 35 of 2010 | 30 Aug 2010 | s. 43, 44(2)-(6), (8) and (10)-(15): 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Public Sector Reform Act 2010 s. 73 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -264,7 +265,6 @@ Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 1
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 and 35 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative at “transfer time” fixed under the State Superannuation Act 2000 s. 56 (see s. 2(1)(c))
 Health Practitioner Regulation National Law (WA) Act 2010s. 44(1), (7) and (9) | 35 of 2010 | 30 Aug 2010 | s. 44(1), (7) and (9): to be proclaimed (see s. 2(b))
-Public Sector Reform Act 2010 s. 73 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions repealed by the Health Amendment Act 1985.
@@ -383,13 +383,6 @@ The Chinese Medicine Board of Australia established under the Health Practitione
 The Medical Radiation Practice Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
 (9) In Schedule V Part 3 delete the item commencing “The Occupational Therapists Registration Board of Western Australia” and insert:
 The Occupational Therapy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 73 had not come into operation. It reads as follows:
-73.Constitution Acts Amendment Act 1899 amended
-(1) This section amends the Constitution Acts Amendment Act 1899.
-(2) In Schedule V Part I Division 2:
-(a) delete the item relating to the Commissioner for Public Sector Standards;
-(b) insert in alphabetical order:
-Public Sector Commissioner appointed under the Public Sector Management Act 1994.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

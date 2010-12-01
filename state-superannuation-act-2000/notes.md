@@ -12,11 +12,11 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 9 | 28 o
 Reprint 1: The State Superannuation Act 2000 as at 18 Aug 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 State Superannuation Amendment Act 2007 Pt. 1, 2 and 5 (other than Div. 3 Subdiv. 2) | 25 of 2007 | 16 Oct 2007 | Pt. 1: 16 Oct 2007 (see s. 2(1)(a)); Pt. 2: 6 Dec 2007 (see s. 2(1)(b) and Gazette 5 Dec 2007 p. 5973); Pt. 5 Div. 1 and 2 repealed by No. 25 of 2007 s. 2(8)(a); Pt. 5 Div. 3 Subdiv. 1: 6 Dec 2007 (see s. 2(1)(e) and Gazette 5 Dec 2007 p. 5973)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 Pt. 3, 4 and 5 Div. 3 Subdiv. 2 | 25 of 2007 | 16 Oct 2007 | Pt. 3: operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c)); Pt. 4: to be proclaimed (see s. 2(1)(d)); Pt. 5 Div. 3 Subdiv. 2: operative on publication of an order under the State Superannuation Act 2000 s. 75K (“separation time”) (see s. 2(8)(b))
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The Superannuation and Family Benefits Act 1938 and the Government Employees Superannuation Act 1987were repealed by s. 39 of this Act. Certain provisions of those Acts continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
 “
@@ -350,10 +350,3 @@ Section 33(2)(g) and “and” after it are deleted.
 Section 51(1) and (2) are amended by inserting after “section 43(3)(c)” —
 “ or 75K(5) ”.
 ”.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-State Superannuation Act 2000 | s. 68(2), Sch. 1 cl. 7

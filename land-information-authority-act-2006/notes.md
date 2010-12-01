@@ -4,14 +4,36 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Land Information Authority Act 2006 | 60 of 2006 | 16 Nov 2006 | Pt. 1: 17 Nov 2006 (see s. 2(2)); Act other than Pt. 1: 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Land Information Authority Act 2006 | s. 23
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+acquire12(5)
+appointed member3
+Authority3
+Authority’s liability13(3)
+business concern12(5)
+chief executive officer3
+commencement day94(1)
+confidential information89(2)
+dispose of12(5)
+document67(4), 95
+former body95
+former office95
+fundamental land information16(10)
+goods and services3
+information67(4)
+interest rate74(2)
+land information3
+latest draft plan52(2)
+latest draft statement60(2)
+member of the Authority’s staff3
+new owner84(1)
+participate in12(5)
+relevant amount13(3)
+relevant financial year47(1), 55(1)
+specified101(5)
+third party84(1)
+transaction15
+transitional matter101(2)
+Treasurer3

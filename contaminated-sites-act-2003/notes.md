@@ -9,14 +9,58 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Contaminated Sites Amendment Act 2005 | 40 of 2005 | 12 Dec 2005 | 1 Dec 2006 (see s. 2 and Gazette 8 Aug 2006 p. 2899)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 1: The Contaminated Sites Act 2003 as at 9 Feb 2007 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Contaminated Sites Act 2003 | s. 33(5)
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+a hazard51(1)
+Account60(1)
+act3(1)
+affected site3(1), 3(1)
+an act that was done without lawful authority25(5)
+auditor3(1)
+binding3(1)
+CEO3(1)
+CEO of the Health Department3(1)
+certificate of contamination audit3(1)
+classify3(1)
+clean up notice3(1)
+committee3(1), 33(1)
+contaminated3(1), 4(1)
+Crown land5(2)
+database3(1)
+decision as to responsibility for remediation3(1), 35
+detrimental action95(3)
+director28(7)
+engage in conduct28(7)
+EP Act3(1)
+exemption certificate3(1)
+first person54(1)
+guidelines3(1)
+hazard abatement notice3(1)
+insolvent3(1)
+insolvent body corporate28(7)
+interested person36(3)
+investigation notice3(1)
+land61
+management body5(2)
+management plan3(1)
+mandatory auditor’s report3(1)
+notice41
+occupier3(1)
+orphan site3(1), 32(1)
+owner3(1), 5(1)
+person responsible3(1)
+principal offence88(2)
+programme12(7)
+records3(1)
+register58(9)
+Registrar58(9)
+relevant time28(7)
+remediation3(1)
+site3(1)
+source site3(1), 3(1)
+specified10(14), 86(2)
+state of mind28(7)
+summary of records21(2)
+well93(2)

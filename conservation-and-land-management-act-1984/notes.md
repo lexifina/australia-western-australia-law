@@ -53,11 +53,11 @@ Reprint 7: The Conservation and Land Management Act 1984 as at 4 Apr 2008 (inclu
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 34 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 19 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4, 44(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of the Offshore Minerals Act 2003 (see s. 2)
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The Land Act 1933 was repealed by section 281 of the Land Administration Act 1997.
 The Forests Act 1918 was repealed by s. 147(1) of this Act.
 The Acts Amendment (Marine Reserves) Act 1997 s. 7(2) reads as follows:
@@ -242,13 +242,6 @@ Section 4(1) is amended by inserting after “Mining Act 1978,” —
 Section 60(2b) is amended by inserting after “Mining Act 1978,” —
 “ the Offshore Minerals Act 2003, ”.
 ”.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Conservation and Land Management Act 1984 | s. 20(4)(b), 30
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

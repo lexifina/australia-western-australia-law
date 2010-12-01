@@ -16,20 +16,29 @@ Local Government Amendment Act 2004 s. 13 | 49 of 2004 | 12 Nov 2004 | 1 Apr 200
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 5 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 2: The Regional Development Commissions Act 1993 as at 15 Sep 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
+Footnote no longer applicable.
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Regional Development Commissions Amendment Act 2003 s. 4(2) reads as follows:
 “
 (2) The provision by a commission, within the meaning of the Regional Development Commissions Act 1993, of financial support in the form of a grant before the commencement of this Act is as valid, and is to be regarded as always having been as valid, as it would have been if this Act had commenced before the financial support was provided.
 ”.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Regional Development Commissions Act 1993 | s. 19(1) and (2)(a), 29(2)
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+a CommitteeSch. 2 cl. 8(1)
+appointed member3(1)
+board3(1)
+board member3(1)
+commission3(1)
+committee3(1)
+Council3(1)
+Director3(1)
+document26(4)
+existing bodySch. 3 cl. 1(1), Sch. 3 cl. 1(2), Sch. 3 cl. 1(3), Sch. 3 cl. 1(4), Sch. 3 cl. 1(5)
+information26(4)
+land38
+Minister3(2), 3(3), 32(2)
+new bodySch. 3 cl. 1(1), Sch. 3 cl. 1(2), Sch. 3 cl. 1(3), Sch. 3 cl. 1(4), Sch. 3 cl. 1(5)
+region3(1)
+repealed Act3(1)

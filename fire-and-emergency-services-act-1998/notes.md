@@ -14,9 +14,6 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 20
 Petroleum Amendment Act 2007 s. 93 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Reprint 2: The Fire and Emergency Services Authority of Western Australia Act 1998 as at 14 Mar 2008 (includes amendments as listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 57 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Repealed by the Mining Act 1978.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -27,13 +24,6 @@ The State Administrative Tribunal Regulations 2004 r. 49 reads as follows:
 commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 47 comes into operation.
 (2) If the Minister receives, before the commencement day, a written notice in accordance with the Fire and Emergency Services Authority of Western Australia Act 1998 section 36ZF (as in force when the notice was received by the Minister) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Minister must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the determination under the Fire and Emergency Services Authority of Western Australia Act 1998 section 36G(5) of the purpose for which the land is used.
 ”.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Fire and Emergency Services Authority of Western Australia Act 1998 | s. 10, 28
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

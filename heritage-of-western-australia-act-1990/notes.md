@@ -27,12 +27,12 @@ Petroleum Amendment Act 2007 s. 96 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see
 Reprint 3: The Heritage of Western Australia Act 1990 as at 18 Apr 2008 (includes amendments listed above)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Acts Amendment (Bankruptcy) Act 2009 s. 41 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Under the Public Sector Management Act 1994 s. 112(2), a reference in a written law to the Public Service Commissioner is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984). This reference was amended under the Reprints Act 1984 s. 7(5)(a).
+Footnote no loner applicable.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. See also note 4.
 On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 “
@@ -61,13 +61,6 @@ the HWA Act means the Heritage of Western Australia Act 1990.
 (6) If, before the commencement day, the Minister is required in accordance with the HWA Act section 73(4) (as in force when the requirement was received by the Minister) to refer a question to the Town Planning Appeal Tribunal but does not do so before the commencement day, on and after the commencement day the Minister must refer the question to the State Administrative Tribunal as if the requirement had referred to the State Administrative Tribunal and not to the Town Planning Appeal Tribunal.
 (7) If, before the commencement day, the Minister is requested in accordance with the HWA Act section 76(1) (as in force when the requirement was received by the Minister) to refer a question to the Town Planning Appeal Tribunal but does not do so before the commencement day, on and after the commencement day the Minister must refer the question to the State Administrative Tribunal as if the request had referred to the State Administrative Tribunal and not to the Town Planning Appeal Tribunal.
 ”.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Heritage of Western Australia Act 1990 | s. 10(2), 27(2), 28(1)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

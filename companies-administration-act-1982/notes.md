@@ -9,9 +9,6 @@ Compilation table
  | Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
  | Reprint 1: The Companies (Administration) Act 1982 as at 12 Oct 2007 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 6 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 90 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Footnote no longer applicable.
 The Companies Act 1961 and related Acts about companies were superseded by the Companies (Application of Laws) Act 1981 and the Companies (Western Australia) Code, see s. 18 of the Act.
@@ -26,14 +23,16 @@ the Companies and Securities (Interpretation and Miscellaneous Provisions) (West
 The National Companies and Securities Commission Act 1979 (Commonwealth) was repealed by Act No. 110 of 1991 (Commonwealth) s. 14. The National Companies and Securities Commission was replaced by the Australian Securities and Investments Commission.
 The National Companies and Securities Commission (State Provisions) Act 1980 was repealed by the Corporations (Western Australia) Amendment Act 1991 s. 19.
 The Securities Industry Act 1975 was superseded by the Securities Industry (Application of Laws) Act 1981 and the Securities Industry (Western Australia) Code. See also note 4.
-Under the Public Sector Management Act 1994 s. 112(2), a reference to the Public Service Board is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Minister for Public Sector Management (as defined in the Interpretation Act 1984).
+Footnote no longer applicable.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 The “Registrar of Companies” was an office created by the Companies Act 1943. That Act is now cited as the Companies (Co-operative) Act 1943.
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference in a written law to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 90 had not come into operation. It reads as follows:
-90.Various references to “Public Service Board” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Public Service Board” and insert:
-Public Sector Commissioner
-Table
-Companies (Administration) Act 1982 | s. 4(6)
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Commission3
+Commissioner3
+functions3
+futures contract3
+power3
+the Agreement3

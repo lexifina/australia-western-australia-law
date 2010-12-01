@@ -12,9 +12,9 @@ Equal Opportunity Act 1984 | Commissioner for Equal Opportunity. Director of Equ
 Freedom of Information Act 1992 | Information Commissioner.
 Inspector of Custodial Services Act 2003 | Inspector of Custodial Services.
 Parliamentary Commissioner Act 1971 | Parliamentary Commissioner for Administrative Investigations. Deputy Parliamentary Commissioner for Administrative Investigations.
-Public Sector Management Act 1994 | Commissioner for Public Sector Standards to the extent of the Commissioner’s functions other than that of chief executive officer of the department of the Public Service principally assisting the Commissioner in the performance of the Commissioner’s functions under the Public Sector Management Act 1994.
+Public Sector Management Act 1994 | Public Sector Commissioner to the extent of the Commissioner’s functions other than that of chief executive officer of the department of the Public Service principally assisting in the administration of the Public Sector Management Act 1994
 Racing and Wagering Western Australia Act 2003 | Racing and Wagering Western Australia.
 Royal Commissions Act 1968 | Any Royal Commission.
 Solicitor-General Act 1969 | Solicitor-General.
 State Administrative Tribunal Act 2004 | State Administrative Tribunal.
-[Schedule 1 inserted by No. 10 of 2009 s. 10; amended by No. 16 of 2009 s. 71.]
+[Schedule 1 inserted by No. 10 of 2009 s. 10; amended by No. 16 of 2009 s. 71; No. 39 of 2010 s. 80.]

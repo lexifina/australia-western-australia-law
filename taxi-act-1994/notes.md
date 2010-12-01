@@ -19,11 +19,11 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 2
 Taxi Amendment Act 2007 | 26 of 2007 | 16 Oct 2007 | s. 1 and 2: 16 Oct 2007 (see s. 2(a)); Act other than s. 1 and 2: 17 Oct 2007 (see s. 2(b))
 Co-operatives Act 2009 s. 510 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 517 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 The provision in this Act repealing the Taxi-car Control Act 1985 has been omitted under s. 7(4)(f) of the Reprints Act 1984.
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Land Administration Act 1997.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -32,10 +32,3 @@ On the date as at which this compilation was prepared, the Co-operatives Act 200
 517.Taxi Act 1994 amended
 (1) This section amends the Taxi Act 1994.
 (2) In section 3(3)(b) delete “a company within the meaning of the Companies (Co-operative) Act 1943, and”.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Taxi Act 1994 | s. 12

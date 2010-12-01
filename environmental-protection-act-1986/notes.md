@@ -45,13 +45,13 @@ Bush Fires Amendment Act 2009 Pt. 3 | 25 of 2009 | 17 Nov 2009 | 1 Dec 1009 (see
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 4 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 2 Subdiv. 1 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
-Approvals and Related Reforms (No. 1) (Environment) Act 2010 | 40 of 2010 | 28 Oct 2010 | Pt. 1 other than s. 3: 28 Oct 2010 (see s. 2(a)); Act other than heading to Pt. 1 and s. 1 & 2: 26 Nov 2010 (see s. 2(b) and Gazette 23 Nov 2010 p. 5851)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Approvals and Related Reforms (No. 1) (Environment) Act 2010 | 40 of 2010 | 28 Oct 2010 | s. 1 and 2: 23 Nov 2010 (see s. 2(a)); Act other than s. 1 and 2: 26 Nov 2010 (see s. 2(b))
 Environmental Protection Amendment Act 2010 | 48 of 2010 | 24 Nov 2010 | s. 1 and 2: 24 Nov 2010 (see s. 2(a)); Act other than s. 1 and 2: 25 Nov 2010 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(3)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -122,14 +122,6 @@ The Waste Avoidance and Resource Recovery Regulations 2008 r. 24 reads as follow
 24.Transitional provision — Waste Management and Recycling Fund
 The Waste Avoidance and Resource Recovery Act 2007 Schedule 5 clause 6 prevails to the extent that there is an inconsistency between that provision and Part VIIA Division 2 of the EP Act.
 ”.
-Footnotes no longer applicable.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Environmental Protection Act 1986 | s. 9, 22(2), 25(3), 29(4), 40(8), 108(2), Sch. 7 cl. 2(1)(a) and 5
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

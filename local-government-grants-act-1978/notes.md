@@ -12,9 +12,6 @@ Reprint of the Local Government Grants Act 1978 as at 1 Mar 2002 (includes amend
 Local Government Amendment Act 2004 s. 13 | 49 of 2004 | 12 Nov 2004 | 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div 4 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Acts Amendment (Bankruptcy) Act 2009 s. 53 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Footnote no longer applicable.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to chief executive officer. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
@@ -23,10 +20,3 @@ The Local Government Grants Amendment Act 1988 s. 7 reads as follows:
 7.Saving
 Anything done before the commencement of this Act by the Commission in accordance with the Local Government (Financial Assistance) Act 1986 of the Commonwealth is valid notwithstanding anything to the contrary in the principal Act as in force before the commencement of this Act.
 ”.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Local Government Grants Act 1978 | s. 7(2)

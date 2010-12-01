@@ -36,9 +36,6 @@ Reprint 5: The Gaming and Wagering Commission Act 1987 as at 2 Nov 2007 (include
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 63 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Racing and Wagering Legislation Amendment Act 2009 Pt. 3 | 29 of 2009 | 23 Nov 2009 | 11 Jan 2010 (see s. 2(b) and Gazette 8 Jan 2010 p. 9-10)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 Now known as the Gaming and Wagering Commission Act 1987; short title changed (see note under s. 1).
@@ -85,10 +82,3 @@ Division 2 — Transitional and savings provisions
 170.Members of the Commission
 Each person holding office as a member of the Gaming Commission under the Gaming Commission Act 1987 immediately before the coming into operation of this section continues in office as a member of the Gaming and Wagering Commission under and subject to the Gaming and Wagering Commission Act 1987 until the expiry of the term of office.
 ”.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 89 had not come into operation. It reads as follows:
-89.Various references to “Minister for Public Sector Management” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Minister for Public Sector Management” and insert:
-Public Sector Commissioner
-Table
-Gaming and Wagering Commission Act 1987 | s. 13(1), 109D(8)
