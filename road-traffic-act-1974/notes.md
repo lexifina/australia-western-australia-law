@@ -127,13 +127,13 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2
 Road Traffic Amendment Act 2007 | 4 of 2007 | 11 Apr 2007 | s. 1 and 2: 11 Apr 2007; Act other than s. 1 and 2: 1 May 2007 (see s. 2 and Gazette 27 Apr 2007 p. 1831)
 Road Traffic Amendment (Drugs) Act 2007 Pt. 2 | 6 of 2007 | 23 May 2007 | 12 Oct 2007 (see s. 2 and Gazette 11 Oct 2007 p. 5475)
 Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2(1) and Gazette 27 Jul 2007 p. 3735)
-Road Traffic Amendment Act (No. 2) 2007 Pt. 2 (except s. 27-30) | 39 of 2007 | 21 Dec 2007 | Pt. 2 Div. 6: 22 Dec 2007 (see s. 2(j)); Pt. 2 (other than s. 6(2)(b)(ii), 17, 18 & 25 and Div. 4, 5 & 6): 15 Mar 2008 (see s. 2(b)-(j) and Gazette 14 Mar 2008 p. 829); Pt. 2 s. 6(2)(b)(ii): 15 Mar 2008 (see s. 2(c)); Pt. 2 s. 17, 18 and 25: 30 Jun 2008 (see s. 2(d)-(f)); Pt. 2 (s. 26) and Pt. 2 Div. 5: 1 Jul 2008 (see s. 2(g)-(i) and Gazette 27 Jun 2008 p. 3117)
+Road Traffic Amendment Act (No. 2) 2007 | 39 of 2007 | 21 Dec 2007 | Pt. 2 Div. 6: 22 Dec 2007 (see s. 2(j)); Pt. 2 (other than s. 6(2)(b)(ii), 17, 18 & 25 and Div. 4, 5 & 6): 15 Mar 2008 (see s. 2(b)-(j) and Gazette 14 Mar 2008 p. 829); Pt. 2 s. 6(2)(b)(ii): 15 Mar 2008 (see s. 2(c)); Pt. 2 s. 17, 18 and 25: 30 Jun 2008 (see s. 2(d)-(f)); Pt. 2 (s. 26) and Pt. 2 Div. 5: 1 Jul 2008 (see s. 2(g)-(i) and Gazette 27 Jun 2008 p. 3117) Pt. 2 Div 4 (other than s. 26): 1 Dec 2010 (see s. 2(g) and Gazette 12 Nov 2010 p. 5659)
 Acts Amendment (Justice) Act 2008 s. 131 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Road Traffic Amendment Act 2008 | 24 of 2008 | 13 Jun 2008 | s. 1 and 2: 13 Jun 2008 (see s. 2(1)(a)); Act other than s. 1, 2 5(a) and 8: 19 Jul 2008 (see s. 2(1)(b) and Gazette 18 Jul 2008 p. 3329); s. 5(a) and 8: 1 Jul 2009 (see s. 2(1)(b) and (2) and Gazette 23 Jun 2009 p. 2423)
 Criminal Law Amendment (Homicide) Act 2008 s. 38 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
-Reprint 10: The Road Traffic Act 1974 as at 3 Oct 2008 (includes amendments listed above, except those in the Medical Practitioners Act 2008 s. 162 and the Road Traffic Amendment Act 2008 s. 5(a) and 8) (Correction to Reprint in Gazette 19 Oct 2010 p. 5202)
+Reprint 10: The Road Traffic Act 1974 as at 3 Oct 2008 (includes amendments listed above, except those in the Medical Practitioners Act 2008 s. 162, the Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 (other than s. 26) and the Road Traffic Amendment Act 2008 s. 5(a) and 8) (Correction to Reprint in Gazette 19 Oct 2010 p. 5202)
 Road Traffic Amendment (Hoons) Act 2009 Pt. 2 | 23 of 2009 | 6 Oct 2009 | 1 Jan 2010 (see s. 2(1)(b) and (2) and Gazette 31 Dec 2009 p. 5421)
 Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 2 | 39 of 2009 | 3 Dec 2009 | 1 Jan 2010 (see s. 2(b))
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 12 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
@@ -141,10 +141,6 @@ Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep
 Road Traffic Amendment Act 2010 | 20 of 2010 | 7 Jul 2010 | s. 1 and 2: 7 Jul 2010 (see s. 2(a)) Act other than s. 1 and 2: 1 Sep 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 45 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 (s. 27-30) | 39 of 2007 | 21 Dec 2007 | 1 Dec 2010 (see s. 2(g) and Gazette 12 Nov 2010 p. 5659)
 Repealed by the Nurses and Midwives Act 2006.
 Repealed by the Interpretation Act 1984.
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
@@ -270,44 +266,6 @@ Part 3 — Transitional provision
 36.Existing demerit points
 Points currently recorded in respect of a person under section 103 of the Road Traffic Act 1974 immediately before that section is repealed by section 29, and details of any offence in respect of which the points were recorded, are to be recorded as demerit points against the person in the demerit points register referred to in Part VIA of the Road Traffic Act 1974 as inserted by section 31.
 The Road Traffic Amendment Act 2006 Pt. 4 Div. 4 will not be included because the Road Traffic Amendment (Vehicle Licensing) Act 2001 has already commenced (see s. 45-48).
-On the date as at which this compilation was prepared, the Road Traffic Amendment Act (No. 2) 2007 Pt. 2 Div. 4 had not come into operation. It reads as follows:
-Part 2 — Road Traffic Act 1974 amended
-Division 4 — Amendments about graduated demerit point system for novice drivers
-27.Section 104IA inserted
-After section 104I the following section is inserted —
-“
-104IA.Excessive demerit points (novice driver) notice
-(1) In this section —
-post-commencement demerit points means current demerit points other than those recorded for an offence committed before the day on which the Road Traffic Amendment Act (No. 2) 2007 section 27 comes into operation.
-(2) If the number of post-commencement demerit points recorded in the demerit points register against a novice driver (type 1) reaches at least 4, or against a novice driver (type 2) reaches at least 8, the Director General is to give the novice driver, in accordance with section 104R, an excessive demerit points (novice driver) notice stating —
-(a) the day on which that number of post-commencement demerit points was reached; and
-(b) the number of post-commencement demerit points reached on that day; and
-(c) that the period of disqualification is 3 months; and
-(d) that the period of disqualification will commence on the day after the notice is given or a later day specified in the notice.
-(3) Post-commencement demerit points recorded against the person in the demerit points register on or before the day on which, according to the notice, the stated number of demerit points was reached are cancelled.
-(4) The person to whom the notice is given is disqualified from holding or obtaining a driver’s licence for the period of 3 months specified in the notice.
-(5) Nothing in this section prevents the day on which the period of disqualification commences from being postponed under section 104M.
-(6) Regulations referred to in section 104O(7) may provide for all or some of the post-commencement demerit points cancelled under subsection (3) to be again recorded against the person.
-(7) Nothing in this section prevents section 104I from applying to a novice driver.
-”.
-28.Section 104J amended
-Section 104J(2) is amended by deleting the full stop at the end of the subsection and inserting instead —
-“ and must not be a novice driver. ”.
-29.Section 104O amended
-(1) Section 104O(2) is amended as follows:
-(a) before paragraph (e), by inserting —
-“
-(da) the day on which an excessive demerit points (novice driver) notice was given, and the number of demerit points and period of disqualification stated in it; and
-”;
-(b) after each of paragraphs (a) to (f), by inserting —
-“ and ”.
-(2) Section 104O(4) is amended by inserting after paragraph (a) —
-“ or ”.
-30.Section 104R amended
-Section 104R(1) is amended by inserting before paragraph (b) —
-“
-(aa) an excessive demerit points (novice driver) notice; or
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
