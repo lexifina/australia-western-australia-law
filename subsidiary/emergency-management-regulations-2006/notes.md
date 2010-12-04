@@ -10,6 +10,8 @@ Emergency Management Amendment Regulations (No. 2) 2008 | 29 Apr 2008 p. 1577-8 
 Emergency Management Amendment Regulations (No. 3) 2008 | 13 Jan 2009 p. 55-7 | r. 1 and 2: 13 Jan 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jan 2009 (see r. 2(b))
 Emergency Management Amendment Regulations (No. 2) 2009 | 19 Feb 2010 p. 661-2 | r. 1 and 2: 19 Feb 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2010 (see r. 2(b))
 Emergency Management Amendment Regulations 2010 | 10 Sep 2010 p. 4344-6 | r. 1 and 2: 10 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Sep 2010 (see r. 2(b))
+Emergency Management Amendment Regulations (No. 2) 2010 | 3 Dec 2010 p. 6055-6 | r. 1 and 2: 3 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2010 (see r. 2(b))
+Emergency Management Amendment Regulations (No. 3) 2010 | 3 Dec 2010 p. 6056-7 | r. 1 and 2: 3 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2010 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
