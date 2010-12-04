@@ -48,7 +48,7 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 28. | 37(2) | Damaging or interfering with thing or structure | 200
 29. | 38(1) | Erecting unauthorised sign or notice | 100
 30. | 39(1) or (2) | Unlawful lighting of fires etc. | 200
-31. | 40(2) | Failing to comply with direction to extinguish fire | 200
+31. | 40(3) | Failing to comply with direction under regulation 40(1) or (2) | 200
 32. | 41 | Entering certain classified areas | 200
 33. | 42 | Entering limited access area other than on foot or by vessel | 200
 34. | 43 | Entering wilderness area by vehicle, vessel or animal | 100
@@ -82,6 +82,7 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 53. | 64(1) | Launching etc. vessel in restricted area | 100
 53a. | 64(2) | Launching etc. vessel in restricted area — contravention of restriction | 100
 54. | 64(4) | Failing to comply with direction to remove vessel | 100
+54aa. | 65A(2) | Unlawful use of vessel storage facility | 200
 54a. | 65(1) | Unlawful landing of aircraft etc. | 100
 55. | 66(1) | Camping other than in camping area | 50
 56. | 66(2) | Failing to comply with condition of camping area | 50
@@ -101,7 +102,8 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 67. | 88(2) | Failing to comply with requirement to return licence | 50
 68. | 98(3) | Contravention of condition of commercial operations licence | 100
 69. | 99(5) | Failing to pay entrance fee | 35
-69a. | 99A(3) | Failing to pay landing fee for tour aircraft | 100
+69a. | 99A(4) | Failing to pay landing fee for aircraft | 100
+69b. | 99C(4) | Failing to pay entrance fee for Monkey Mia Conservation Park | 35
 70. | 100(4) | Failing to pay fee for Tree Top Walk | 35
 70a. | 100A(4) | Failing to pay entrance fee | 35
 71. | 102 | Failing to pay entrance fee when entering on horseback | 35
@@ -114,4 +116,4 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 76. | 108 | Unlawfully taking still or motion pictures | 50
 77. | 109 | Failing to produce licence etc. | 100
 78. | 110 | Giving false or misleading information | 100
-[Division 2 amended in Gazette 29 Sep 2006 p. 4331-3; 27 Feb 2007 p. 625-6.]
+[Division 2 amended in Gazette 29 Sep 2006 p. 4331-3; 27 Feb 2007 p. 625-6; 3 Dec 2010 p. 6052.]

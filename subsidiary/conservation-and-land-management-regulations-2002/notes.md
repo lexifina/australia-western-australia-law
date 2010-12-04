@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 November 2010 of the Conservation and Land Management Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Conservation and Land Management Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Conservation and Land Management Regulations 2002 | 3 May 2002 p. 2233-308 | 3 May 2002
@@ -14,6 +14,7 @@ Financial Management (Transitional Provisions) Regulations 2009 r. 3 | 27 Feb 20
 Conservation and Land Management Amendment Regulations 2009 | 28 Aug 2009 p. 3354-7 | r. 1 and 2: 28 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2009 (see r. 2(b))
 Conservation and Land Management Amendment Regulations (No. 2) 2010 | 3 Sep 2010 p. 4278-84 | r. 1 and 2: 3 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Sep 2010 (see r. 2(b) and Gazette 3 Sep 2010 p. 4273)
 Reprint 2: The Conservation and Land Management Regulations 2002 as at 5 Nov 2010 (includes amendments listed above)
+Conservation and Land Management Amendment Regulations (No. 3) 2010 | 3 Dec 2010 p. 6045-54 | r. 1 and 2: 3 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2010 (see r. 2(b))
 The Swan River Trust Act 1988 was repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006.
 Repealed by these regulations r. 115.
 The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads as follows:
@@ -27,6 +28,9 @@ Defined Terms
 Defined TermProvision(s)
 aboriginal artefact2
 aboriginal site2
+abseiling area2
+aircraft2
+aircraft landing area99A(1)
 apiarist98G(1)
 apiary authority98A
 apiary licence98A
@@ -46,12 +50,13 @@ commercial operations licence2
 commercial purpose2
 Companion Card2
 concession card2
-designated abseiling area102A(5)
 designated area2
+dog area2
 fauna8(3)
 firewood71(4)
 fishing activity9(2)
 former provision116(5)
+horse area2
 licence82
 litter24(2)
 local departmental office98G(1)
@@ -59,6 +64,7 @@ mooring2
 naturally occurring feature31(4)
 non-indigenous animal2
 non-tour motor vehicle99(1)
+occupant99A(1)
 plant13(2)
 property77(1)
 restricted area2
@@ -74,10 +80,10 @@ specified56(6)
 structure34(2)
 take2
 ticket vending machine56(6)
-tour aircraft99A(4)
 tour vehicle99(1)
 tree2
 Tree Top Walk100(1)
 vehicle2
 vessel2
+vessel storage facility65A(1)
 waste21(5)
