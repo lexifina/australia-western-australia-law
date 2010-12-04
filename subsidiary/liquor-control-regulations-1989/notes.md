@@ -83,6 +83,8 @@ Liquor Control Amendment Regulations (No. 6) 2010 | 17 Sep 2010 p. 4762 | r. 1 a
 Liquor Control Amendment Regulations (No. 5) 2010 | 17 Sep 2010 p. 4765 | r. 1 and 2: 17 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Sep 2010 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 7) 2010 | 17 Sep 2010 p. 4768 | r. 1 and 2: 17 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Sep 2010 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 4) 2010 | 22 Oct 2010 p. 5225-9 | r. 1 and 2: 22 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Oct 2010 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 8) 2010 | 3 Dec 2010 p. 6059-60 | r. 1 and 2: 3 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2010 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 9) 2010 | 3 Dec 2010 p. 6062-3 | r. 1 and 2: 3 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2010 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
