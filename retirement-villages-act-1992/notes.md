@@ -27,6 +27,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 60(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Acts Amendment (Fair Trading) Act 2010 s. 190 and 199 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 45 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 37 reads as follows:
@@ -88,6 +89,16 @@ On the date as at which this reprint was prepared, the State Superannuation (Tra
 (2) Section 25(1)(g)(i) of the Retirement Villages Act 1992 is amended by deleting “, and in particular his or her rights, if any, under the Superannuation and Family Benefits Act 1938”.
 ”.
 The section that it seeks to amend has been repealed.
+On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 s. 190 and 199 had not come into operation. They read as follows:
+190.Retirement Villages Act 1992 amended
+(1) This section amends the Retirement Villages Act 1992.
+(2) Delete section 11B and insert:
+11B.Powers of investigation
+The Fair Trading Act 2010 section 61 and Part 6 of that Act apply to this Act.
+199.Retirement Villages Act 1992 amended
+(1) This section amends the Retirement Villages Act 1992.
+(2) In section 3(1) in the definition of code delete “Fair Trading Act 1987” and insert:
+Fair Trading Act 2010
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
