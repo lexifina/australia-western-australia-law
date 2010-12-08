@@ -21,6 +21,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Business Licensing Amendment Act 1995 Pt. 3 | 56 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2(2))
+Acts Amendment (Fair Trading) Act 2010 s. 181 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28, 42 and 46 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 46 reads as follows:
 “
@@ -73,3 +74,8 @@ Section 26 of the principal Act is amended —
 ”.
 The insertion of s. 12A in the Business Licensing Amendment Act 1995 s. 9 would conflict with an amendment in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 226.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 13 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 s. 181 had not come into operation. It reads as follows:
+181.Debt Collectors Licensing Act 1964 amended
+(1) This section amends the Debt Collectors Licensing Act 1964.
+(2) In section 3 delete the definition of Commissioner and insert:
+Commissioner has the meaning given in the Fair Trading Act 2010 section 6;
