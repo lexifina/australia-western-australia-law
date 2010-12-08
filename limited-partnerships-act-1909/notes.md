@@ -16,6 +16,10 @@ Compilation table
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 14 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Acts Amendment (Fair Trading) Act 2010 188 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “
 Division 23 — Transitional provisions
@@ -60,3 +64,10 @@ commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
+On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 s. 188 had not come into operation. It reads as follows:
+188.Limited Partnerships Act 1909 amended
+(1) This section amends the Limited Partnerships Act 1909.
+(2) Delete section 15(3) and insert:
+(3) The Fair Trading Act 2010 section 61 and Part 6 of that Act apply, with such modifications as are necessary, to and in relation to the functions of the Registrar and persons and matters affected by the exercise of those functions as if —
+(a) that section and Part were part of this Act; and
+(b) a reference to the Commissioner in those provisions were a reference to the Registrar.
