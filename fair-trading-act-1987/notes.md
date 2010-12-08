@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 February 2010 of the Fair Trading Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fair Trading Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Fair Trading Act 1987 | 108 of 1987 | 19 Dec 1987 | s. 1 and 2: 19 Dec 1987; Pt. I other than s. 1 and 2, III, IV and VII: 8 Apr 1988 (see s. 2 and Gazette 8 Apr 1988 p. 1107); Act other than Pt. I, III, IV and VII: 9 Sep 1988 (see s. 2 and Gazette 9 Sep 1988 p. 3518)
@@ -20,10 +20,41 @@ Compilation table
  | Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 5 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 56 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 3: The Fair Trading Act 1987 as at 5 Feb 2010 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Fair Trading Act 2010 Pt. 10 Div. 3 | 57 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(b))
 This reference, and all following references, to “TPA”, refers to the Trade Practices Act 1974 of the Commonwealth.
 Formerly referred to The Sale of Goods Act 1895, the short title of which was changed to the Sale of Goods Act 1895 by the Statutes (Repeals and Minor Amendments) Act 2003 s. 150(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now see the Broadcasting Services Act 1992 of the Commonwealth.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues, some of which may be relevant to this Act.
+On the date as at which this compilation was prepared, the Fair Trading Act 2010 Pt. 10 Div. 3 had not come into operation. It reads as follows:
+Part 10 — Amendments
+Division 3 — Fair Trading Act 1987 amended
+126.Act amended
+This Division amends the Fair Trading Act 1987.
+127.Sections 3A to 3D inserted
+After section 2 insert:
+3A.Application of Act limited
+(1) This Act does not apply on or after the date on which the Fair Trading Act 2010 Part 10 comes into force.
+(2) This section is subject to sections 3C and 3D.
+3B.Expiry of Act
+(1) This Act expires on a day fixed by proclamation.
+(2) A proclamation cannot be made under subsection (1) unless the Commissioner has given the Minister a certificate signed by the Commissioner stating that the operation of this Act is no longer necessary.
+(3) In subsection (2) —
+Commissioner has the meaning given in the Fair Trading Act 2010 section 6.
+3C.Act continues to apply for certain purposes
+(1) In this section —
+commencement day means the day on which the Fair Trading Act 2010 Part 10 comes into force.
+(2) This Act continues to apply on and after the commencement day only for the following purposes —
+(a) the investigation and prosecution of offences against this Act committed before the commencement day;
+(b) the giving, withdrawal or payment of infringement notices under section 73 in respect of offences against this Act committed before the commencement day;
+(c) the continuation, settlement or discontinuation of proceedings, under or in relation to this Act, that were commenced, but not concluded, before the commencement day.
+(3) To avoid doubt, the Fair Trading (Infringement Notices) Regulations 2006 continue in force on and after the commencement day for the purposes of subsection (3) and section 3D and for no other purpose.
+(4) Subsection (2)(c) is subject to the Fair Trading Act 2010 section 37.
+3D.Acts or omissions that occurred before the commencement day
+(1) This Act continues to apply on and after the commencement day (as defined in section 3C(1)) in relation to acts or omissions that occurred before the commencement day.
+(2) Without limiting subsection (1), action may be taken under this Act in relation to those acts or omissions.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
