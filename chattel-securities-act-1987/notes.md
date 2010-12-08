@@ -16,6 +16,10 @@ Compilation table
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 4 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
  | Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 30 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Acts Amendment (Fair Trading) Act 2010 186 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 The provision in this Act amending the Consumer Affairs Act 1971 has been omitted under s. 7(4)(e) of the Reprints Act 1984.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 Footnote no longer applicable.
@@ -63,3 +67,9 @@ commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
+On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 s. 186 had not come into operation. It reads as follows:
+186.Chattel Securities Act 1987 amended
+(1) This section amends the Chattel Securities Act 1987.
+(2) Delete section 30D and insert:
+30D.Powers of investigation
+The Fair Trading Act 2010 section 61 and Part 6 of that Act apply to this Act.
