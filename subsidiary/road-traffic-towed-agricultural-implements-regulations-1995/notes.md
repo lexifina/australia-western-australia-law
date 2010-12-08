@@ -14,3 +14,4 @@ Electricity Corporations (Consequential Amendments) Regulations 2006 r. 85 | 31 
 Road Traffic (Towed Agricultural Implements) Amendment Regulations (No. 2) 2006 | 28 Nov 2006 p. 4917 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
 Reprint 2: The Road Traffic (Towed Agricultural Implements) Regulations 1995 as at 9 Feb 2007 (includes amendments listed above)
 Road Traffic (Towed Agricultural Implements) Amendment Regulations 2007 | 24 Oct 2007 p. 5647-8 | r. 1 and 2: 24 Oct 2007 (see r. 2(a); Regulations other than r. 1 and 2: 25 Oct 2007 (see r. 2(b))
+Road Traffic (Towed Agricultural Implements) Amendment Regulations 2010 Pt. 2 | 7 Dec 2010 p. 6096-100 | r. 1 and 2: 7 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2010 (see r. 2(b))
