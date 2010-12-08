@@ -38,6 +38,10 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 74 | 8 of 2009 | 21 
 Acts Amendment (Bankruptcy) Act 2009 s. 42 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 11 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
 Standardisation of Formatting Act 2010 s. 19 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Acts Amendment (Fair Trading) Act 2010 187 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “
@@ -84,3 +88,9 @@ Commissioner for Fair Trading means the Commissioner for Fair Trading referred t
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 24 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 s. 187 had not come into operation. It reads as follows:
+187.Hire-Purchase Act 1959 amended
+(1) This section amends the Hire-Purchase Act 1959.
+(2) Delete section 36C and insert:
+36C.Powers of investigation
+The Fair Trading Act 2010 section 61 and Part 6 of that Act apply to this Act.
