@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 490, 491, Pt. 20 Div. 1 and 3 | 24 of 2009 | 22 Oct 2009 | s. 490 and 491 and Pt. 20 Div. 3: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975); Pt. 20 Div. 1: operative on the day that Co-operative Bulk Handling Limited becomes registered under this Act (see s. 2(d))
+Acts Amendment (Fair Trading) Act 2010 s. 180 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 490, 491, Pt. 20 Div. 1 and 3 had not come into operation. They read as follows:
 490.Companies (Co-operative) Act 1943 repealed
 The Companies (Co-operative) Act 1943 is repealed.
@@ -54,3 +55,8 @@ or
 518.Western Australian Treasury Corporation Act 1986 amended
 (1) This section amends the Western Australian Treasury Corporation Act 1986.
 (2) In Schedule 1 delete items 5 and 6.
+On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 s. 180 had not come into operation. It reads as follows:
+180.Co-operatives Act 2009 amended
+(1) This section amends the Co-operatives Act 2009.
+(2) In section 451 delete “Consumer Affairs Act 1971 section 4(1)” and insert:
+Fair Trading Act 2010 section 6
