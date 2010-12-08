@@ -54,6 +54,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Local Government Amendment Act 2009 s. 34 | 17 of 2009 | 16 Sep 2009 | To be proclaimed (see s. 2(b))
 Co-operatives Act 2009 s. 506 and 516 | 24 of 2009 | 22 Oct 2009 | s. 506: operative on the day Co-operative Bulk Handling Limited becomes registered under this Act (see s. 2(d)); s. 516: operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
+Acts Amendment (Fair Trading) Act 2010 s. 182 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -250,6 +251,11 @@ co-operative
 (a) delete paragraph (d) and “or” after it;
 (b) after each of paragraphs (a) and (b) insert:
 or
+On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 s. 182 had not come into operation. It reads as follows:
+182.Local Government Act 1995 amended
+(1) This section amends the Local Government Act 1995.
+(2) In section 9.58(4)(b) delete “section 4(1) of the Consumer Affairs Act 1971,” and insert:
+the Fair Trading Act 2010 section 6,
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
