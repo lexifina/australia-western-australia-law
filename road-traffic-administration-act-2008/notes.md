@@ -1,13 +1,15 @@
 Notes
-This is a compilation of the Road Traffic (Administration) Act 2008. The following table contains information about that Act.
+This is a compilation of the Road Traffic (Administration) Act 2008 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic (Administration) Act 2008 s. 1 and 2 | 39 of 2008 | 15 Aug 2008 | 15 Aug 2008 (see s. 2(a))
+Trade Measurement Legislation (Amendment and Expiry) Act 2010 s. 10 | 54 of 2010 | 8 Dec 2010 | 8 Dec 2010 (see s. 2(b)(ii))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 | 39 of 2008 (as amended by No. 39 of 2009 s. 11) | 15 Aug 2008 | To be proclaimed (see s. 2(b))
+Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 | 39 of 2008 (as amended by No. 39 of 2009 s. 11, No. 54 of 2010 s. 10) | 15 Aug 2008 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 3 | 39 of 2009 | 3 Dec 2009 | 1 Jan 2010 (see s. 2(b))
+Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 3 | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 On the date as at which this compilation was prepared, the Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 (as amended by the Road Traffic (Administration) Act 2008 s. 11) had not come into operation. They read as follows:
 “
 3.Crown bound
@@ -1149,13 +1151,14 @@ is admissible in any proceedings and is prima facie evidence of the matters stat
 is admissible in any proceedings and is prima facie evidence of the matters stated.
 112.Ascertainment of mass by weighbridge
 (1) The mass of a vehicle or the mass supported on any part of a vehicle, whether loaded or not, may be ascertained by weighing the vehicle or part of the vehicle on —
-(a) a public weighbridge, as defined in the Trade Measurement Act 2006 section 3(1), that is mentioned in a public weighbridge licence in force under Part 6 of that Act; or
-(b) a weighbridge as defined in section 3(1) of that Act, other than a public weighbridge, that is verified or re-verified under that Act.
+(a) a public weighbridge, as defined in the National Measurement Act 1960 (Commonwealth) section 3(1), that is mentioned in a public weighbridge licence in force under Part XI of that Act; or
+(b) a weighbridge as defined in section 3(1) of that Act, other than a public weighbridge, that is verified under that Act.
 (2) Evidence of a record made by —
 (a) the licensee who has been granted a licence mentioned in subsection (1)(a); or
 (b) the operator of a weighbridge mentioned in subsection (1)(b); or
 (c) a person employed by such a licensee or operator to operate the weighbridge,
 of the mass of a vehicle or part of a vehicle weighed at the weighbridge is admissible in any proceedings under a road law and is prima facie evidence of the mass of the vehicle or part at the time it was weighed.
+[Section 112 amended by No. 54 of 2010 s. 10.]
 113.Ascertainment of mass by loadmeter etc.
 (1) In this section —
 loadmeter means a portable weighing device designed to determine —
@@ -1502,3 +1505,9 @@ This Part amends the Road Traffic (Administration) Act 2008.
 (1) In section 36(2)(b), (c), (d), (e)(i), (ii) and (iii), (f) and (g) delete “registration” (each occurrence).
 (2) In section 36(3) insert in alphabetical order —
 label means a label issued under a regulation mentioned in the Road Traffic (Vehicles) Act 2009 section 15 or 26;
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Road Traffic (Administration) Act 2008 amended
+16.Act amended
+This Part amends the Road Traffic (Administration) Act 2008.
+17.Section 117 amended
+Delete section 117(10) and (11).
