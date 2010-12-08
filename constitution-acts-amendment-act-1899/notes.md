@@ -265,6 +265,7 @@ Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 1
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 and 35 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative at “transfer time” fixed under the State Superannuation Act 2000 s. 56 (see s. 2(1)(c))
 Health Practitioner Regulation National Law (WA) Act 2010s. 44(1), (7) and (9) | 35 of 2010 | 30 Aug 2010 | s. 44(1), (7) and (9): to be proclaimed (see s. 2(b))
+Acts Amendment (Fair Trading) Act 2010 s. 191 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions repealed by the Health Amendment Act 1985.
@@ -383,6 +384,16 @@ The Chinese Medicine Board of Australia established under the Health Practitione
 The Medical Radiation Practice Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
 (9) In Schedule V Part 3 delete the item commencing “The Occupational Therapists Registration Board of Western Australia” and insert:
 The Occupational Therapy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
+On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 s. 191 had not come into operation. It reads as follows:
+191.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 3:
+(a) delete “The Consumer Affairs Council established under the Consumer Affairs Act 1971.”;
+(b) delete “The Consumer Products Safety Committee established under the Consumer Affairs Act 1971.”.
+(3) In Schedule V Part 3 insert in alphabetical order:
+The Consumer Advisory Committee established under the Fair Trading Act 2010.
+The Motor Vehicle Industry Advisory Committee established under the Fair Trading Act 2010.
+The Property Industry Advisory Committee established under the Fair Trading Act 2010.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
