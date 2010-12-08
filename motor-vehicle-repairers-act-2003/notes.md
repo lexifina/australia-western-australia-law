@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 October 2008 of the Motor Vehicle Repairers Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Motor Vehicle Repairers Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Repairers Act 2003 | 68 of 2003 | 9 Dec 2003 | s. 1-2: 9 Dec 2003; Pt. 1 (other than s. 1, 2, 3(4) and 4), Pt. 3, Pt. 4, s. 65 and 69, Pt. 7, s. 89 and 90, Pt. 10 (other than s. 108 and 109), Pt. 11 and Sch. 3 cl. 2 and 3: 19 Mar 2007 (see s. 2 and Gazette 9 Feb 2007 p. 451); s. 4, Pt. 2 and 5, Pt. 6 (other than s. 65 and 69), Pt. 8 (other than s. 85(3)(b)), Pt 9 (other than s. 89 and 90), s. 108 and 109, Sch. 1 and 2 and Sch. 3 cl. 1: 1 Jul 2008 (see s. 2 and Gazette 24 Jun 2008 p. 2885)
@@ -14,6 +14,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Repairers Act 2003 s. 3(4) and 85(3)(b) | 68 of 2003 | 9 Dec 2003 | To be proclaimed (see s. 2)
+Acts Amendment (Fair Trading) Act 2010 Pt. 5 and s. 178 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 On the date as at which this reprint was prepared, the Motor Vehicle Repairers Act 2003 s. 3(4) and 85(3)(b) had not come into operation. They read as follows:
 “
 3.Terms used in this Act
@@ -66,6 +67,255 @@ commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
+On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 Pt. 5 and s. 178 had not come into operation. They read as follows:
+Part 5 — Motor Vehicle Repairers Act 2003 amended
+51.Act amended
+This Part amends the Motor Vehicle Repairers Act 2003.
+52.Long title amended
+In the long title delete “•the Motor Vehicle Industry Board to be responsible for such licensing and certification and for the conciliation of certain disputes relating to motor vehicle repair work;”.
+53.Section 3 amended
+(1) In section 3(1) delete the definitions of:
+Board
+Commissioner
+inquiry
+secretary
+(2) In section 3(1) insert in alphabetical order:
+Commissioner has the meaning given in the Fair Trading Act 2010 section 6;
+(3) In the definition of repairer’s certificate delete “42;” and insert:
+42.
+(4) Delete section 3(4).
+54.Section 7 replaced
+Delete section 7 and insert:
+7.Powers of investigation
+The Fair Trading Act 2010 section 61 and Part 6 of that Act apply to this Act.
+55.Section 21 deleted
+Delete section 21.
+56.Section 32 amended
+(1) Delete section 32(2) and insert:
+(2) If the Commissioner is considering refusing to renew a business licence under subsection (1), the Commissioner must give the licensee the opportunity to give additional information in relation to that application for renewal.
+(2) In section 32(3)(b)(ii) delete “Board to hold an inquiry as required by subsection (2),” and insert:
+Commissioner to give proper consideration to that matter,
+(3) In section 32(3) delete “Board’s power” and insert:
+State Administrative Tribunal’s power
+57.Section 35 amended
+In section 35(4) delete “Board may refuse to give its approval under subsection (2) only if it” and insert:
+Commissioner may refuse to give an approval under subsection (2) only if the Commissioner
+58.Section 36 amended
+In section 36(4) delete “Board may refuse to give its approval under subsection (2) only if it” and insert:
+Commissioner may refuse to give an approval under subsection (2) only if the Commissioner
+59.Section 62 amended
+Delete section 62(2).
+60.Part 6 heading replaced
+Delete the heading to Part 6 and insert:
+Part 6 — Disciplinary powers
+61.Section 65 replaced
+Delete section 65 and insert:
+65.Application of Part
+(1) This Part applies to a person if that person is —
+(a) a licensee or one of the licensees; or
+(b) a person concerned in the management or conduct of a body corporate that is a licensee or one of the licensees; or
+(c) the holder of a certificate.
+(2) An order cannot be made under this Part in respect of a person unless —
+(a) an inquiry has been conducted; and
+(b) the person has been given an opportunity to show cause why the order should not be made.
+62.Sections 66 and 67 deleted
+Delete sections 66 and 67.
+63.Section 68 amended
+In section 68(1):
+(a) delete “section 66, the Board” and insert:
+section 65(2), the State Administrative Tribunal
+(b) delete “Board —” and insert:
+State Administrative Tribunal —
+(c) in paragraph (b) delete “Board” and insert:
+State Administrative Tribunal
+64.Section 70 amended
+In section 70 delete “section 66, the Board” and insert:
+section 65(2), the State Administrative Tribunal
+65.Section 71 amended
+In section 71(1) and (2) delete “Board” (first and second occurrence) and insert:
+State Administrative Tribunal
+66.Section 73 amended
+(1) In section 73(2):
+(a) in paragraph (c) delete “exercise of —” and insert:
+exercise of the Commissioner’s —
+(b) delete paragraph (c)(i);
+(c) in paragraph (c)(ii) and (iii) delete “its”.
+(2) After section 73(2) insert:
+(3) This section applies to a decision or order of the State Administrative Tribunal in exercise of its powers under section 68 or 70.
+67.Section 74 deleted
+Delete section 74.
+68.Section 76 deleted
+Delete section 76.
+69.Section 77 amended
+In section 77(2) delete “person, the Board and the Commissioner” and insert:
+person and the Commissioner
+70.Section 78 amended
+(1) In section 78(1)(a) delete “Board; and” and insert:
+Commissioner or the State Administrative Tribunal; and
+(2) In section 78(2) delete “Board” (each occurrence) and insert:
+Commissioner or the State Administrative Tribunal
+71.Section 80 amended
+(1) In section 80(1):
+(a) in paragraph (a) delete “Board;” and insert:
+Commissioner or the State Administrative Tribunal; and
+(b) in paragraphs (b) and (c) delete “Board” and insert:
+Commissioner or the State Administrative Tribunal
+(c) after paragraph (b) insert:
+and
+(2) In section 80(2):
+(a) in paragraph (a) delete “Board; or” and insert:
+Commissioner or the State Administrative Tribunal; or
+(b) in paragraph (b) delete “Board” and insert:
+Commissioner or the State Administrative Tribunal
+(c) delete “Board.” and insert:
+Commissioner or the State Administrative Tribunal.
+72.Section 85 amended
+In section 85(3):
+(a) in paragraph (a) delete “conciliation; and” and insert:
+conciliation.
+(b) delete paragraph (b).
+Note:The heading to amended section 85 is to read:
+Conciliation at request of owner
+73.Section 97 amended
+In section 97 in the definition of authorised officer delete “section 3(1) except that it does not include the secretary if he or she is an authorised officer;” and insert:
+section 3(1);
+74.Section 111 replaced
+Delete section 111 and insert:
+111.Confidentiality of information officially obtained
+The Fair Trading Act 2010 section 112 applies to information obtained for the purposes of this Act.
+75.Sections 112 and 113 deleted
+Delete sections 112 and 113.
+76.Section 116 deleted
+Delete section 116.
+77.Part 11 replaced
+Delete Part 11 and insert:
+Part 11 — Transitional provisions
+120.Terms used
+In this Part —
+commencement day means the day on which the Acts Amendment (Fair Trading) Act 2010 Part 5 comes into operation;
+the former Board means the Motor Vehicle Industry Board established by the Motor Vehicle Dealers Act 1973 section 7 prior to the commencement day.
+121.Unfinished proceedings by the former Board
+(1) Proceedings before the former Board that are not complete at the commencement day —
+(a) are taken to have been commenced by the Commissioner for the purposes of the Act; and
+(b) are to continue under the direction and control of the Commissioner.
+(2) Proceedings before the State Administrative Tribunal or another court commenced by allegation against a licensed motor vehicle dealer or repairer brought by the former Board that are not complete at the commencement day —
+(a) are taken to have been commenced by an allegation by the Commissioner for the purposes of the Act; and
+(b) are to continue under the direction and control of the Commissioner.
+122.Powers in relation to transitional matters
+(1) The Governor may make regulations prescribing all matters that are required, necessary or convenient to be prescribed in relation to transitional matters consequential upon the enactment of the Acts Amendment (Fair Trading) Act 2010 Part 5.
+(2) In subsection (1) —
+transitional matter means a matter that needs to be dealt with for the purpose of effecting the transition from this Act as enacted immediately before the commencement day to this Act as amended by the Acts Amendment (Fair Trading) Act 2010.
+(3) Regulations made under subsection (1) may provide that specific provisions of a written law —
+(a) do not apply; or
+(b) apply with specific modifications,
+to or in relation to any matter.
+(4) Regulations made under subsection (1) must be made within 12 months after the commencement day.
+(5) If regulations made under subsection (1) provide that a specified state of affairs is to be taken to have existed, or not to have existed, on and from a day that is earlier than the day on which the regulations are published in the Gazette but not earlier than the commencement day, the regulations have effect according to their terms.
+(6) In subsection (5) —
+specified means specified or described in the regulations.
+(7) If regulations contain a provision referred to in subsection (5), the provision does not operate so as —
+(a) to affect, in a manner prejudicial to any person (other than the State), the right of that person existing before the day of publication of those regulations; or
+(b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
+78.Schedule 2 amended
+(1) In Schedule 2 clause 1(b) delete “Board.” and insert:
+State Administrative Tribunal or a court.
+(2) In Schedule 2 clause 3(1) and (2) delete “Board” (each occurrence) and insert:
+State Administrative Tribunal
+79.Various references to “Commissioner” inserted
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+s. 3(1) def. of approved | Board | Commissioner
+s. 13(4) | Board it | Commissioner the Commissioner
+s. 14(2) | Board | Commissioner
+s. 15 | Board | Commissioner
+s. 16(1) | Board | Commissioner
+s. 16(2) | Board it | Commissioner the Commissioner
+s. 17 | Board | Commissioner
+s. 18(1) | Board | Commissioner
+s. 18(2) | Board it | Commissioner the Commissioner
+s. 19 | Board | Commissioner
+s. 20(1) | Board | Commissioner
+s. 20(2) | Board it | Commissioner the Commissioner
+s. 22 | Board | Commissioner
+s. 23(1) | Board | Commissioner
+s. 23(2) | Board it | Commissioner the Commissioner
+s. 24(2) and (3) | Board | Commissioner
+s. 25 | Board it | Commissioner the Commissioner
+s. 27(1), (2), (3), (4), (5) and (6) | Board (each occurrence) | Commissioner
+s. 31(1) and (4) | Board | Commissioner
+s. 32(1) | Board (each occurrence) | Commissioner
+s. 32(3) | Board (each occurrence) | Commissioner
+s. 33(2) | Board | Commissioner
+s. 34(2) | Board | Commissioner
+s. 34(4) | Board it | Commissioner the Commissioner
+s. 34(5) | Board | Commissioner
+s. 35(2) | Board | Commissioner
+s. 36(2) | Board | Commissioner
+s. 37(1), (2), (3) and (4) | Board (each occurrence) | Commissioner
+s. 41(1) | Board | Commissioner
+s. 42(1) | Board it | Commissioner the Commissioner
+s. 42(2)(b) | Board | Commissioner
+s. 43(1), (2), (3), (4), (5) and (6) | Board (each occurrence) | Commissioner
+s. 44(1) and (2) | Board (each occurrence) | Commissioner
+s. 45(1) | Board | Commissioner
+s. 47 | Board | Commissioner
+s. 48(1) and (2) | secretary | Commissioner
+s. 50(1) | secretary | Commissioner
+s. 50(3) | Board | Commissioner
+s. 51 | secretary | Commissioner
+s. 52(1) | secretary | Commissioner
+s. 53(1) | Board it | Commissioner the Commissioner
+s. 53(2) | Board (each occurrence) | Commissioner
+s. 54(1) and (3) | secretary | Commissioner
+s. 58(1)(b) | Board | Commissioner
+s. 59(1) | Board, if it | Commissioner, if the Commissioner
+s. 60(3) | Board, if it | Commissioner, if the Commissioner
+s. 60(3)(a) | Board | Commissioner
+s. 60(3)(b) | Board it | Commissioner the Commissioner
+s. 61(1) | Board (each occurrence) | Commissioner
+s. 61(3) | Board, if it | Commissioner, if the Commissioner
+s. 61(3)(a) and (b) | Board (each occurrence) | Commissioner
+s. 62(1) | Board (each occurrence) | Commissioner
+s. 62(3) | Board it | Commissioner the Commissioner
+s. 63(1) | Board | Commissioner
+s. 64(1) | Board (each occurrence) | Commissioner
+s. 69(2) | Board (each occurrence) | Commissioner
+s. 71(1) and (2) | Board (third occurrence) | Commissioner
+s. 72(2) | Board | Commissioner
+s. 73(1) and (2) | Board | Commissioner
+s. 82(1)(a) | Board | Commissioner
+s. 85(1) | Board (each occurrence) | Commissioner
+s. 85(1) | its | the Commissioner’s
+s. 85(2), (3) and (4) | Board | Commissioner
+s. 86(1) | Board | Commissioner
+s. 86(1)(c) | it | the Commissioner
+s. 86(2) and (3) | Board | Commissioner
+s. 88(1) | Board | Commissioner
+s. 90(4)(b) and (5)(b) | Board | Commissioner
+s. 92(3)(b) and (4) | Board (each occurrence) | Commissioner
+s. 93(2) | Board it may at its | Commissioner the Commissioner may at the Commissioner’s
+s. 93(3) and (4) | Board (each occurrence) | Commissioner
+s. 94(1) and (2) | Board (each occurrence) | Commissioner
+s. 102(1) | Board or the secretary | Commissioner
+s. 103(1) | Board or the secretary | Commissioner
+s. 107(5) | Board | Commissioner
+Notes:The heading to amended section 22 is to read:
+Business licence not to be granted if applicant or other person disqualified
+The heading to amended section 27 is to read:
+Conditions may be imposed
+The heading to amended section 33 is to read:
+Loss of member etc., notice to be given
+The heading to amended section 52 is to read:
+Certification of matters in the register
+The heading to amended section 59 is to read:
+Authorisation of premises
+The heading to amended section 69 is to read:
+Notification of a person’s conviction
+178.Motor Vehicle Repairers Act 2003 amended
+(1) This section amends the Motor Vehicle Repairers Act 2003.
+(2) In section 3(1) delete the definition of Commissioner and insert:
+Commissioner has the meaning given in the Fair Trading Act 2010 section 6;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
