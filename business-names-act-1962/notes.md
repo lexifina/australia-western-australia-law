@@ -22,6 +22,10 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Reprint 3: The Business Names Act 1962 as at 28 Oct 2005 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Acts Amendment (Fair Trading) Act 2010 s. 185 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 Repealed by the Interpretation Act 1984 s. 77(1).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
@@ -68,3 +72,9 @@ commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
+On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 s. 185 had not come into operation. It reads as follows:
+185.Business Names Act 1962 amended
+(1) This section amends the Business Names Act 1962.
+(2) Delete section 31D and insert:
+31D.Powers of investigation
+The Fair Trading Act 2010 section 61 and Part 6 of that Act apply to this Act.
