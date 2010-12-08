@@ -15,7 +15,27 @@ Reprint 2: The Criminal Investigation (Identifying People) Act 2002 as at 18 Sep
 Police Amendment Act 2009 s. 16 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 16 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 8 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Liquor Control Amendment Act 2010 Pt, 6 | 56 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(b))
+Prohibited Behaviour Orders Act 2010 Pt. 5 Div. 3 | 59 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(b))
 Section 95 of this Act gave effect to Sch. 1 which set out some temporary provisions relating to obtaining and using identifying particulars of people in custody and others. These provisions ceased to have effect on 29 June 2005.
+On the date as at which this compilation was prepared, the Liquor Control Amendment Act 2010 Pt, 6 had not come into operation. It reads as follows:
+Part 6 — Criminal Investigation (Identifying People) Act 2002 amended
+70.Act amended
+This Part amends the Criminal Investigation (Identifying People) Act 2002.
+71.Section 73 amended
+Before section 73(1)(n) insert:
+(nb) for the purposes of the Liquor Control Act 1988 section 115AC or 152K;
+On the date as at which this compilation was prepared, the Prohibited Behaviour Orders Act 2010 Pt. 5 Div. 3 had not come into operation. It reads as follows:
+Part 5 — Amendments to other Acts
+Division 3 — Criminal Investigation (Identifying People) Act 2002 amended
+48.Act amended
+This Division amends the Criminal Investigation (Identifying People) Act 2002.
+49.Section 73 amended
+After section 73(1)(m) insert:
+(na) for the purposes of the Prohibited Behaviour Orders Act 2010 section 34;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
