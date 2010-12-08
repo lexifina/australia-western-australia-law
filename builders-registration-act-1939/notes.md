@@ -71,6 +71,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 33(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Acts Amendment (Fair Trading) Act 2010 s. 179 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Repealed by the Architects Act 2004.
 In this compilation the renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and retained in subsequent reprints has again been retained. References to the original numbering are contained in the 1943 reprint.
@@ -92,6 +93,13 @@ On the date as at which this compilation was prepared, the State Superannuation 
 “
 (2) Section 5AA(2)(a) of the Builders’ Registration Act 1939 is amended by deleting “, including rights under the Superannuation and Family Benefits Act 1938,”.
 ”.
+On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 s. 179 had not come into operation. It reads as follows:
+179.Builders’ Registration Act 1939 amended
+(1) This section amends the Builders’ Registration Act 1939.
+(2) In section 4A(5) delete “section 4(1) of the Consumer Affairs Act 1971” and insert:
+the Fair Trading Act 2010 section 6
+(3) In section 37(3) delete “section 4(1) of the Consumer Affairs Act 1971” and insert:
+the Fair Trading Act 2010 section 6
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
