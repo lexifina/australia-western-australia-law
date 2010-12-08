@@ -40,14 +40,14 @@ Legal Profession Act 2008 s. 643 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Reprint 5: The Children’s Court of Western Australia Act 1988 as at 13 Feb 2009 (includes amendments listed above except those in the Cross-border Justice Act 2008, the Legal Profession Act 2008 and the Parental Support and Responsibility Act 2008)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross border Justice Regulations 2009 Part 3 Division 4 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Compilation table
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Prohibited Behaviour Orders Act 2010 Pt. 5 Div. 1 | 59 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
 Chapter XXXII of The Criminal Code was repealed by the Acts Amendment (Evidence) Act 1991 s. 12(9).
 Now known as the Children’s Court of Western Australia Act 1988; short title changed (see note under s. 1).
 On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
-“
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed
@@ -55,7 +55,30 @@ Act | Provision
 .......................... | ........
 Children’s Court of Western Australia Act 1988 | s. 7(4)
 ...................... | ........
-”.
+On the date as at which this compilation was prepared, the Prohibited Behaviour Orders Act 2010 Pt. 5 Div. 1 had not come into operation. It reads as follows:
+Part 5 — Amendments to other Acts
+Division 1 — Children’s Court of Western Australia Act 1988 amended
+41.Act amended
+This Division amends the Children’s Court of Western Australia Act 1988.
+42.Section 3 amended
+In section 3(1) in the definition of child:
+(a) after paragraph (c) insert:
+(d) a boy or girl dealt with under section 20(3)(b);
+(b) after each of paragraphs (a) and (c) insert:
+and
+43.Section 20 amended
+After section 20(2) insert:
+(3) Subject to this Act, the Court has exclusive jurisdiction to hear PBO proceedings under the Prohibited Behaviour Orders Act 2010 relating to —
+(a) a person who is under 18 years of age; or
+(b) a person who has reached 18 years of age but who committed the relevant offence referred to in the Prohibited Behaviour Orders Act 2010 section 8(2)(a)(ii) while he or she was under 18 years of age.
+44.Section 35 amended
+(1) In section 35(1) delete “section 36A,” and insert:
+section 36A or in accordance with the Prohibited Behaviour Orders Act 2010 section 34,
+(2) In section 35(3) delete “section 36A,” and insert:
+section 36A or in accordance with the Prohibited Behaviour Orders Act 2010 section 34,
+45.Section 36 amended
+In section 36(1) delete “section 36A.” and insert:
+section 36A or in accordance with the Prohibited Behaviour Orders Act 2010 section 34.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
