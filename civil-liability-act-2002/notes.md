@@ -28,6 +28,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law (WA) Act 2010s. 42(2) | 35 of 2010 | 30 Aug 2010 | s. 41(2): to be proclaimed (see s. 2(b))
+Acts Amendment (Fair Trading) Act 2010 s. 193 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 9 had not come into operation. It reads as follows:
 Division 9 — Civil Liability Act 2002 amended
 41.Section 5PA amended
@@ -50,6 +51,11 @@ health professional means —
 (xiv)psychology;
 or
 (b)any other person who practises a discipline or profession in the health area that involves the application of a body of learning.
+On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 s. 193 had not come into operation. It reads as follows:
+193.Civil Liability Act 2002 amended
+(1) This section amends the Civil Liability Act 2002.
+(2) In section 5AI in the definition of apportionable claim delete paragraph (b) and insert:
+(b)a claim for economic loss or damage to property in an action for damages under the Fair Trading Act 2010 based on misleading or deceptive conduct;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
