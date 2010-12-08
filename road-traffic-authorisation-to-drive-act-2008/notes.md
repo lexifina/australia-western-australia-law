@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic (Authorisation to Drive) Act 2008 s. 3 and Pt. 2-62 | 39 of 2008 | 15 Aug 2008 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b))
+Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 4 | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 On the date as at which this compilation was prepared, the Road Traffic (Authorisation to Drive) Act 2008 s. 3 and Pt. 2-6 had not come into operation. They read as follows:
 “
 3.Terms used in this Act
@@ -619,6 +620,62 @@ Regulations may contain provisions that are necessary or convenient for dealing 
 (a) matters concerning the transition from the provisions applying before the commencement of Part 2 to the provisions of Part 2, or regulations made for the purposes of Part 2, applying after that commencement; and
 (b) matters concerning the transition from the provisions applying before the commencement of Part 4 to the provisions of Part 4, or regulations made for the purposes of Part 4, applying after that commencement; and
 (c) transitional matters related to Part 4 that arise from a change in the jurisdiction that is a person’s demerit point registry jurisdiction.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — Road Traffic (Authorisation to Drive) Act 2008 amended
+18.Act amended
+This Part amends the Road Traffic (Authorisation to Drive) Act 2008.
+19.Section 17 amended
+Delete section 17(1) and insert:
+(1) If the holder of a driver’s licence that is a provisional licence is disqualified from holding or obtaining a driver’s licence —
+(a) by a licence suspension order made under the Fines, Penalties and Infringement Notices Enforcement Act 1994; or
+(b) by a disqualification notice given to the person under the Road Traffic Act 1974 section 71C,
+the provisional licence is, by operation of this subsection, suspended so long as the disqualification continues in force.
+20.Section 25 replaced
+Delete section 25 and insert:
+25.Term used: application
+In this Division —
+application, except in sections 35, 36 and 37, means an application under section 27.
+21.Section 27 amended
+In section 27(3):
+(a) after paragraph (a) insert:
+(ba) under the Road Traffic Act 1974 section 71D(1); or
+(b) delete “paragraph (a)” and insert:
+paragraph (a), (ba)
+22.Section 28 amended
+(1) In section 28(2) delete “An” and insert:
+Subject to subsection (3), an
+(2) Delete section 28(3) and insert:
+(3) A period referred to in subsection (2) in relation to an offence is to be reduced by any period during which the applicant was disqualified by a disqualification notice given to the applicant under the Road Traffic Act 1974 section 71C in relation to the offence.
+(3) In section 28(4) delete the passage that begins with “and” and ends with “25”.
+23.Section 29 amended
+Delete section 29(3).
+24.Section 30 amended
+(1) In section 30(2):
+(a) in paragraph (e) delete “disqualification; and” and insert:
+disqualification.
+(b) delete paragraph (f).
+(2) Delete section 30(3).
+(3) In section 30(4) delete the passage that begins with “For” and ends with “hardship if” and insert:
+Despite subsections (1) and (2), the court must not make an order directing the grant of an extraordinary licence unless it is satisfied that
+25.Section 31 replaced
+Delete section 31 and insert:
+31.When further application can be made
+If an application is refused no further application can be made within 6 months after the date of the refusal.
+26.Section 36 amended
+In section 36 delete “or that is a special application”.
+27.Section 37 amended
+In section 37 delete “or that is a special application”.
+28.Section 52 amended
+(1) Delete section 52(2).
+(2) In section 52(4) delete the passage that begins with “election,” and continues to the end of the subsection and insert:
+election.
+(3) After section 52(4) insert:
+(5A) The day stated in the notice as the day on which the period of disqualification is to commence is to be —
+(a) a day that is after the notice is given; and
+(b) if subsection (1)(b) applies, a day that is after the period of disqualification referred to in that paragraph has ended.
+29.Section 67 amended
+In section 67(4) delete “76(1), not being a special application,” and insert:
+76(1)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
