@@ -140,7 +140,12 @@ Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 201
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Road Traffic Amendment Act 2010 | 20 of 2010 | 7 Jul 2010 | s. 1 and 2: 7 Jul 2010 (see s. 2(a)) Act other than s. 1 and 2: 1 Sep 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 45 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 3 and 6-10 | 51 of 2010 | 8 Dec 2010 | 9 Dec 2010 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 2 (except s. 3 and 6-10) | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 Repealed by the Nurses and Midwives Act 2006.
 Repealed by the Interpretation Act 1984.
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
@@ -266,6 +271,132 @@ Part 3 — Transitional provision
 36.Existing demerit points
 Points currently recorded in respect of a person under section 103 of the Road Traffic Act 1974 immediately before that section is repealed by section 29, and details of any offence in respect of which the points were recorded, are to be recorded as demerit points against the person in the demerit points register referred to in Part VIA of the Road Traffic Act 1974 as inserted by section 31.
 The Road Traffic Amendment Act 2006 Pt. 4 Div. 4 will not be included because the Road Traffic Amendment (Vehicle Licensing) Act 2001 has already commenced (see s. 45-48).
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 2 (except s. 3 and 6-10) had not come into operation. They read as follows:
+Part 2 — Road Traffic Act 1974 amended
+4.Section 6AA inserted
+After section 6 insert:
+6AA.Delegation of functions of Commissioner of Police
+(1) The Commissioner of Police may delegate to —
+(a) a specified member of the Police Force; or
+(b) a member of the Police Force of a specified class; or
+(c) a person who is employed in the department of the Public Service principally assisting in the administration of the Police Act 1892,
+any power or duty of the Commissioner under another provision of this Act other than a power delegated to the Commissioner under section 83(6).
+(2) The delegation must be in writing signed by the Commissioner of Police.
+(3) A person to whom a power or duty is delegated under this section cannot delegate that power or duty.
+(4) A person exercising or performing a power or duty that has been delegated to the person under this section, is to be taken to do so in accordance with the terms of the delegation unless the contrary is shown.
+(5) Nothing in this section limits the ability of the Commissioner of Police to perform a function through an officer or agent.
+Note:The heading to section 6A is to be amended to read:
+Delegation of functions of Director General
+5.Section 51 amended
+Delete section 51(4) and insert:
+(4A) If the holder of a driver’s licence that is a provisional licence is disqualified from holding or obtaining a driver’s licence —
+(a) by a licence suspension order made under the Fines, Penalties and Infringement Notices Enforcement Act 1994; or
+(b) by a disqualification notice given to the person under section 71C,
+the provisional licence is, by operation of this subsection, suspended so long as the disqualification continues in force.
+(4) While a provisional licence is suspended under subsection (4A) it is of no effect, but this section does not operate so as to extend the period for which the licence may be valid or effective beyond the time when the licence would be due to expire.
+11.Sections 71C to 71H inserted
+After section 71B insert:
+71C.Disqualification by member of Police Force
+(1) This section applies if —
+(a) a member of the Police Force (the member), as a result of an analysis of a sample of a person’s breath or blood, has reason to suspect that the person (the alleged offender) has committed an offence under section 63 or 64 (the alleged offence); or
+(b) a member of the Police Force (the member) has reason to suspect that a person (the alleged offender) has committed an offence against section 67 (the alleged offence).
+(2) If this section applies the member may give the alleged offender a notice that is in accordance with this section (a disqualification notice) by delivering the notice to the alleged offender personally.
+(3) The disqualification notice must contain a statement to the effect that the alleged offender is disqualified from holding or obtaining a driver’s licence for a period commencing on receipt of the notice and ending on the day that is 2 months after the day the notice is received unless before the expiry of that period the notice is revoked under section 71E, 71F or 71G.
+(4) The disqualification notice must —
+(a) identify the provision under which the notice is given; and
+(b) specify the grounds on which the notice is given; and
+(c) identify the time and date on which the alleged offence was committed; and
+(d) identify where the alleged offence was committed; and
+(e) describe the alleged offence with reasonable clarity; and
+(f) identify the provision that creates the alleged offence.
+(5) The disqualification notice must also include a statement to the effect that section 71F contains law about the circumstances in which the alleged offender may apply to a court for an order revoking the notice.
+(6) A disqualification notice cannot be given to an alleged offender —
+(a) if the alleged offence is an offence under section 63 or 64, more than 10 days after the later of —
+(i) the day of the alleged offence; or
+(ii) if a sample of the alleged offender’s blood was taken under section 66 in connection with the alleged offence, the day on which a member of the Police Force receives an analysis result of the sample;
+or
+(b) if the alleged offence is an offence under section 67, more than 10 days after the day of the alleged offence.
+(7) If a member gives a person a disqualification notice the member must write on the notice the time and date when it was given and the time and date when the disqualification expires.
+(8) A member may, by written notice given to a person to whom a disqualification notice has been given, amend the disqualification notice to correct any error in the disqualification notice.
+(9) If a member gives a person a disqualification notice or a notice amending a disqualification notice in accordance with this section the member must, as soon as is practicable, cause particulars of the notice to be sent to the Director General.
+71D.Consequences of disqualification notice
+(1) A person who is given a disqualification notice in accordance with section 71C is disqualified from holding or obtaining a driver’s licence for the period set out in the notice unless the notice is sooner revoked.
+(2) The period of disqualification imposed under subsection (1) is concurrent with any other period for which the person is disqualified from holding or obtaining a driver’s licence.
+71E.Revocation of disqualification notice by member of Police Force
+(1) A member of the Police Force must immediately revoke a disqualification notice if —
+(a) the member becomes aware that the breath analysing equipment used to analyse the sample of the person’s breath provided in connection with the offence to which the notice relates was faulty at the time of the analysis; or
+(b) a charge for the offence to which the notice relates has not been laid within 10 days after the time when the notice was given; or
+(c) a charge for the offence to which the notice relates is discontinued.
+(2) If under this section a member of the Police Force revokes a disqualification notice the member must, as soon as is practicable, cause notice of the revocation to be given to —
+(a) the person to whom the disqualification notice was given under section 71C; and
+(b) the Director General.
+71F.Revocation of disqualification notice by court order
+(1) A person to whom a disqualification notice is given under section 71C may apply to the Magistrates Court or, if the person is under 18 years of age, to the Children’s Court, for an order directing the Commissioner of Police to revoke the notice.
+(2) An application made under subsection (1) must —
+(a) be made in accordance with any applicable rules of court; and
+(b) include particulars of the exceptional circumstances that the applicant alleges justifies the making of the order; and
+(c) be served on the Commissioner of Police at least 14 days before it is heard and determined.
+(3) The Commissioner of Police is entitled to be heard on an application made under subsection (1).
+(4) The court may either make an order directing the Commissioner of Police to revoke the disqualification notice from the day specified in the order or refuse the application.
+(5) The court must not make an order directing the Commissioner of Police to revoke a disqualification notice unless it is satisfied that exceptional circumstances exist that justify the making of such an order.
+(6) If a court makes an order directing the Commissioner of Police to revoke a disqualification notice, the court is to cause a copy of the order to be sent to the Director General.
+71G.Revocation of disqualification on acquittal or dismissal of charge
+(1) If a court —
+(a) acquits a person of an offence to which a disqualification notice relates; or
+(b) dismisses a charge for an offence to which a disqualification notice relates,
+the disqualification notice is revoked.
+(2) If under this section a disqualification notice is revoked, the court is to cause particulars of the revocation to be sent to the Director General.
+71H.Period of disqualification to be taken into account on conviction
+(1) This section applies if a court convicts a person of the offence to which a disqualification notice relates.
+(2) If this section applies, the court is to take into account any period of disqualification imposed under section 71D(1) in respect of the disqualification notice when making an order disqualifying the person from holding or obtaining a driver’s licence.
+12.Section 76 amended
+(1) In section 76(1ac):
+(a) before paragraph (a) insert:
+(aa) under section 71D(1); or
+(b) delete “paragraph (a)” and insert:
+paragraph (aa), (a)
+(2) In section 76(1a):
+(a) delete “No” and insert:
+Subject to subsection (1B), no
+(b) in paragraph (f) delete “64(2)(a)” and insert:
+64(2)(b)
+(c) after each of paragraphs (a) to (f) insert:
+or
+(3) After section 76(1a) insert:
+(1B) A period referred to in subsection (1a) in relation to an offence is to be reduced by any period during which the applicant was disqualified from holding or obtaining a driver’s licence by a disqualification notice given to the applicant under section 71C in relation to the offence.
+(4) Delete section 76(2)(c).
+(5) In section 76(3):
+(a) delete “Subject to subsection (3a), the” and insert:
+The
+(b) in paragraph (e) delete “disqualification; and” and insert:
+disqualification,
+(c) delete paragraph (f);
+(d) after each of paragraphs (a) to (d) insert:
+and
+(6) Delete section 76(3a).
+(7) In section 76(3b):
+(a) delete the passage that begins with “For” and ends with “hardship if” and insert:
+Despite subsection (3), the court shall not make an order directing the grant of an extraordinary licence unless it is satisfied that
+(b) after paragraph (a) insert:
+or
+(8) In section 76(4) delete “subsection (1), not being a special application,” and insert:
+subsection (1)
+(9) Delete section 76(4a), (12) and (12a).
+(10) In section 76(13) delete “subsection (1a) and (12) —” and insert:
+subsection (1a) —
+13.Section 98A amended
+Delete section 98A(6) and (7).
+14.Section 104K amended
+(1) Delete section 104K(2).
+(2) In section 104K(4) delete the passage that begins with “election,” and continues to the end of the subsection and insert:
+election.
+(3) After section 104K(4) insert:
+(5A) The day stated in the notice as the day on which the period of disqualification is to commence is to be —
+(a) a day that is after the notice is given; and
+(b) if subsection (1)(b) applies, a day that is after the period of disqualification referred to in that paragraph has ended.
+15.Section 106A amended
+After section 106A(2) insert:
+(3) Despite subsection (2), a period for which the court must, in accordance with subsection (1), disqualify an offender for an offence is to be reduced by any period during which the offender was disqualified by a disqualification notice given to the offender under section 71C in relation to the offence.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -308,7 +439,8 @@ disqualified76(13)
 distance measuring equipment98A(1)
 district5(1)
 drive5(1)
-driver 5(1), 49A(1), 54(1), (2) & (6), 55(1) & (4), 56(1) & (4), 59(1), 59A(1), 79BC(1)
+driver5(1), 49A(1), 54(1), 54(2), 54(6), 55(1), 55(4), 56(1),
+56(4), 59(1), 59A(1), 79BC(1)
 driver assessment65
 driver identity request58A(1)
 driver licence44C(2)
@@ -334,7 +466,7 @@ impounding offence (driving)78A
 impounding or confiscation order78A
 impounding order78A
 impounding period78A
-impounding provision79BA(1), 79BCA(5)
+impounding provision79BA(1), 79BA(1), 79BCA(5)
 infringement notice45(5), 104(1)
 initially impounded vehicle79BCA(1)
 interest80G(1)
@@ -379,6 +511,7 @@ period for complying102B(4a), 102C(1a)
 permit5(1), 8(1)
 photograph42E(7)
 photographic evidence102B(7)
+post-commencement demerit points104IA(1)
 power assisted pedal cycle5(1)
 preliminary oral fluid test65
 preliminary test65
@@ -404,7 +537,7 @@ self-testing breath analysing equipment65
 selling expenses80LA(2)
 senior police officer78A
 service79D(1)
-shorter impounding period79BC(2) & (3)
+shorter impounding period79BC(2), 79BC(3)
 specified day28A(3)
 speed measuring equipment98A(1)
 starting time104N(2)
@@ -418,7 +551,7 @@ surrender substitute vehicle notice79BCA(2)
 taxi79D(1)
 taxi operator,79D(1)
 technologist70(7)
-the present offence75(1a), (2) & (2b), 105
+the present offence75(1a), 75(2), 75(2b), 105
 time of sampling71(1)
 traffic infringement notice5(1), 102(1)
 traffic regulation provisions of this Act5(1)
@@ -428,6 +561,6 @@ vehicle5(1), 79BA(1)
 vehicle licence charge5(1)
 vehicle referred to in section 80GA78A
 vehicle service provider79D(1)
-victim54(2) & (6)
+victim54(2), 54(6)
 WA driving authorisation104C(3)
 warden5(1)
