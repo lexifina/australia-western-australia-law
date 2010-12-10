@@ -67,11 +67,11 @@ Participation in the marketing, licensing and sale of intellectual property asso
 Participation in the licensing and sale of intellectual property associated with any multimedia productions, developed by the Department either singly or jointly, that relate to the subjects of culture or the arts.
 Department of Premier and Cabinet
 The provision by the Department of Premier and Cabinet of —
-(a) goods, information, or intellectual property;
+(a) goods, information, or intellectual property; or
 (b) training, management, or advisory services; or
 (c) advertising opportunities, or opportunities to participate in arrangements having a purpose similar to advertising.
 Department of Transport
-The provision or sale by the Department of Transport of advertising opportunities, or opportunities to participate in arrangements in the nature of advertising or having a purpose similar to advertising, in relation to its activities
+The provision or sale by the Department of Transport of advertising opportunities, or opportunities to participate in arrangements in the nature of advertising or having a purpose similar to advertising, in relation to its activities.
 Office of the Auditor General
 The provision by the Office of the Auditor General of information or intellectual property, and training, management or advisory services, relating to auditing, and other activities developed, or currently carried out, by the Office of the Auditor General.
 Office of the Public Sector Standards Commissioner

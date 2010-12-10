@@ -40,14 +40,14 @@ Fire and Emergency Services Authority of Western Australia
 The provision by the Fire and Emergency Services Authority of Western Australia of advertising opportunities, by means of entering into arrangements under which property of the Fire and Emergency Services Authority of Western Australia specified in the arrangement may be used for the display of advertising, in return for money or goods.
 Metropolitan Cemeteries Board
 The provision by the Metropolitan Cemeteries Board of —
-(a)the cemetery renewal manual and records system and enhancements of the manual or system;
+(a)the cemetery renewal manual and records system and enhancements of the manual or system; and
 (b)scientific, technical, educational, training, management or advisory services relating to cemetery management services; and
 (c)advertising opportunities on the Board’s property.
 Perth Theatre Trust
 The provision by the Perth Theatre Trust of management services relating to the issue and sale of admission tickets for events at a venue that is not a theatre as defined in the Perth Theatre Trust Act 1979 section 3(1).
 Small Business Development Corporation
 The provision by Small Business Development Corporation of —
-(a)goods, information, or intellectual property developed by the Corporation;
+(a)goods, information, or intellectual property developed by the Corporation; or
 (b)scientific, technical, educational, training, management, or advisory services; or
 (c)advertising opportunities.
 Swan River Trust
@@ -68,7 +68,7 @@ The provision by the Western Australian Sports Centre Trust of —
 (c)advertising opportunities or opportunities to participate in arrangements in the nature of advertising or having a purpose similar to advertising in connection with the functions of the Trust.
 Wheatbelt Development Commission
 The provision by the Wheatbelt Development Commission of —
-(a)goods, information or intellectual property developed by the Commission;
+(a)goods, information or intellectual property developed by the Commission; or
 (b)scientific, technical, educational, training, management or advisory services; or
 (c)advertising opportunities.
 WorkCover Western Australia Authority

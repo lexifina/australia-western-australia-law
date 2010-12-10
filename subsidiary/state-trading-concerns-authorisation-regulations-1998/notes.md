@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Trading Concerns (Authorisation) Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 10 December 2010 of the State Trading Concerns (Authorisation) Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 State Trading Concerns (Authorization) Regulations 1998 | 17 Apr 1998 p. 2105 | 17 Apr 1998
@@ -40,10 +40,21 @@ State Trading Concerns (Authorisation) Amendment Regulations (No. 3) 2005 | 15 N
 State Trading Concerns (Authorisation) Amendment Regulations (No. 4) 2005 | 17 Mar 2006 p. 1028 | 17 Mar 2006 (see r. 2)
 Reprint 3: The State Trading Concerns (Authorisation) Regulations 1998 as at 1 Dec 2006 (includes amendments listed above)
 State Trading Concerns (Authorisation) Amendment Regulations (No. 2) 2006 | 22 Dec 2006 p. 5809-10 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
-State Trading Concerns (Authorisation) Amendment Regulations 2007 | 13 Jul 2007 p. 3454-5 | r. 1 and 2: 13 Jul 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jul 2007 (see s. 2(b))
+State Trading Concerns (Authorisation) Amendment Regulations 2007 | 13 Jul 2007 p. 3454-5 | r. 1 and 2: 13 Jul 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jul 2007 (see r. 2(b))
 State Trading Concerns (Authorisation) Amendment Regulations 2008 | 23 May 2008 p. 1994-5 | r. 1 and 2: 23 May 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 24 May 2008 (see r. 2(b))
 State Trading Concerns (Authorisation) Amendment Regulations 2009 | 26 Feb 2010 p. 817-18 | r. 1 and 2: 26 Feb 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Feb 2010 (see r. 2(b))
 State Trading Concerns (Authorisation) Amendment Regulations (No. 2) 2009 | 26 Feb 2010 p. 818-19 | r. 1 and 2: 26 Feb 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Feb 2010 (see r. 2(b))
 State Trading Concerns (Authorisation) Amendment Regulations 2010 | 3 Aug 2010 p. 3567-8 | r. 1 and 2: 3 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Aug 2010 (see r. 2(b))
 State Trading Concerns (Authorisation) Amendment Regulations (No. 2) 2010 | 1 Oct 2010 p. 5077 | r. 1 and 2: 1 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Oct 2010 (see r. 2(b))
-Under the Public Sector Management Act 1994 departments can be established and named. At the time of this compilation, the designation of the department known as the Department of Justice has been altered to the Department of the Attorney General and the Department of Corrective Services is established.
+Reprint 4: The State Trading Concerns (Authorisation) Regulations 1998 as at 10 Dec 2010 (includes amendments listed above)
+Under the Alteration of Statutory Designations Order 2007 a reference in any law to the Department for Community Development is to be read and construed as a reference to the Department for Child Protection unless the contrary intention appears.
+Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in any law to the Department for Planning and Infrastructure is to be read and construed as a reference to the Department of Planning or the Department of Transport or the Department of Regional Development and Lands (as the case requires) unless the contrary intention appears.
+Under the Public Sector Management Act 1994 the designations of departments can be altered. At the time of this reprint the designation of the Department of Consumer and Employment Protection has been altered to the Department of Commerce (see Gazette 2 Jan 2009 p. 8).
+Under the Public Sector Management Act 1994 the designations of departments can be altered. At the time of this reprint the designation of the Department of Industry and Resources has been altered to the Department of Mines and Petroleum (see Gazette 2 Jan 2009 p. 8).
+Under the Public Sector Management Act 1994 the designations of departments can be altered. At the time of this reprint the designation of the department known as the Department of Justice has been altered to the Department of the Attorney General (see Gazette 10 Jan 2006 p. 39).
+The Office of Water Regulation was abolished on 1 Jan 2004 (see Gazette 6 Jan 2004 p. 41).
+The Western Australian Government Railways Commission no longer exists. Its successor is the Public Transport Authority. See Public Transport Authority Act 2003 s. 80.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+scientific supportSch. 2 Pt. 2
