@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Iron Ore (Hamersley Range) Agreement Act 1963 and includes all amendments effected by the other Acts referred to in the following Table.
+This is a compilation of the Iron Ore (Hamersley Range) Agreement Act 1963 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Iron Ore (Hamersley Range) Agreement Act 1963 | 24 of 1963 | 13 Nov 1963 | 13 Nov 1963
@@ -15,5 +15,6 @@ Iron Ore (Hamersley Range) Agreement Amendment Act 1990 | 32 of 1990 | 9 Oct 199
 Iron Ore (Hamersley Range) Agreement Amendment Act 1992 | 42 of 1992 | 2 Oct 1992 | 2 Oct 1992 (see s. 2)
 Standardisation of Formatting Act 2010 s. 4 and 42(2) | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Iron Ore Agreements Legislation Amendment Act 2010 Pt. 3 | 34 of 2010 | 26 Aug 2010 | 1 Jul 2010 (see s. 2(b)(ii))
+Iron Ore Agreements Legislation Amendment Act (No. 2) 2010 Pt. 2 | 61 of 2010 | 10 Dec 2010 | 11 Dec 2010 (see s. 2(c))
 Repealed by the Mining Act 1978 (No. 107 of 1978).
 Repealed by the Interpretation Act 1984 (No. 12 of 1984).

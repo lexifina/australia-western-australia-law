@@ -10,6 +10,7 @@ Acts Amendment (Iron Ore Agreements) Act 2000 Pt. 5 | 57 of 2000 | 7 Dec 2000 | 
 Reprint of the Iron Ore (Mount Goldsworthy) Agreement Act 1964 as at 21 Jun 2002 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 4 and 42(2) | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Iron Ore Agreements Legislation Amendment Act 2010 Pt. 7 | 34 of 2010 | 26 Aug 2010 | 1 Jul 2010 (see s. 2(b)(ii))
+Iron Ore Agreements Legislation Amendment Act (No. 2) 2010 Pt. 8 | 61 of 2010 | 10 Dec 2010 | 11 Dec 2010 (see s. 2(c))
 Repealed by the Interpretation Act 1984.
 Repealed by the Mining Act 1978.
 Marginal notes in the agreement have been represented as bold headnotes in this reprint but that does not change their status as marginal notes.

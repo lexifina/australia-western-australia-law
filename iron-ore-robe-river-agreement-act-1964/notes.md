@@ -13,6 +13,7 @@ Iron Ore (Cleveland-Cliffs) Agreement Amendment Act 1987 | 87 of 1987 | 9 Dec 19
 Reprint of the Iron Ore (Robe River) Agreement Act 1964 as at 3 Aug 2001 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 4 and 42(2) | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Iron Ore Agreements Legislation Amendment Act 2010 Pt. 10 | 34 of 2010 | 26 Aug 2010 | 1 Jul 2010 (see s. 2(b)(ii))
+Iron Ore Agreements Legislation Amendment Act (No. 2) 2010 Pt. 3 | 61 of 2010 | 10 Dec 2010 | 11 Dec 2010 (see s. 2(c))
 The Mining Act 1904 was repealed by the Mining Act 1978.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
 Marginal notes in the agreement have been represented as bold headnotes in this reprint but that does not change their status as marginal notes.
