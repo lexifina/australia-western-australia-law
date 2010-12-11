@@ -12,6 +12,7 @@ Public Transport Authority Act 2003 s. 152 | 31 of 2003 | 26 May 2003 | 1 Jul 20
 Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Railway and Port (The Pilbara Infrastructure Pty Ltd) Agreement Act 2004 Pt. 3 Div. 1 | 77 of 2004 | 8 Dec 2004 | 1 Jul 2008 (see s. 2(2) and Gazette 17 Jun 2008 p. 2543)
 Reprint 3: The Railways (Access) Act 1998 as at 8 Aug 2008 (includes amendments listed above)
+Railway and Port (The Pilbara Infrastructure Pty Ltd) Agreement Amendment Act 2010 Pt. 3 | 60 of 2010 | 10 Dec 2010 | 11 Dec 2010 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
