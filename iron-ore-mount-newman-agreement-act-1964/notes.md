@@ -13,6 +13,7 @@ Compilation table
  | Reprint of the Iron Ore (Mount Newman) Agreement Act 1964 as at 8 Mar 2002 (includes amendments listed above)
  | Standardisation of Formatting Act 2010 s. 4 and 42(2) | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Iron Ore Agreements Legislation Amendment Act 2010 Pt. 8 | 34 of 2010 | 26 Aug 2010 | 1 Jul 2010 (see s. 2(b)(ii))
+ | Iron Ore Agreements Legislation Amendment Act (No. 2) 2010 Pt. 7 | 61 of 2010 | 10 Dec 2010 | 11 Dec 2010 (see s. 2(c))
 Repealed by the Mining Act 1978.
 Repealed by the Land Administration Act 1997.
 Formerly referred to the Local Government Act 1960 the short title of which was changed to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 s. 9.70. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
