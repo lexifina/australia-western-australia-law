@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 November 2010 of the Occupational Safety and Health Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Occupational Safety and Health Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Occupational Safety and Health Regulations 1996 | 27 Sep 1996 p. 4837-5080 | 1 Oct 1996 (see r. 1.2)
@@ -72,6 +72,7 @@ Occupational Safety and Health Amendment Regulations (No. 2) 2010 | 9 Jul 2010 p
 Occupational Safety and Health Amendment Regulations (No. 5) 2010 | 14 Sep 2010 p. 4406-7 | r. 1 and 2: 14 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Sep 2010 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 4) 2010 | 2 Nov 2010 p. 5499-500 | r. 1 and 2: 2 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Nov 2010 (see r. 2(b))
 Reprint 8: The Occupational Safety and Health Regulations 1996 as at 19 Nov 2010 (includes amendments listed above)
+Occupational Safety and Health Amendment Regulations (No. 6) 2010 | 10 Dec 2010 p. 6277-83 | r. 1 and 2: 10 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Dec 2010 (see r. 2(b))
 The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
 The amendment to r. 3.88 in the Occupational Safety and Health Amendment Regulations (No. 6) 2004 r. 24(5) is not included because it would conflict with the amendment in the Occupational Safety and Health Amendment Regulations (No. 3) 2004 r. 7.
 The amendment to r. 5.46 in the Occupational Safety and Health Amendment Regulations (No. 3) 2009 r. 10(b) is not included because it was unclear where the amendment was intended to be made. Regulation 10(b) reads as follows:
@@ -82,6 +83,7 @@ any person employed or otherwise engaged to do work involving friable asbestos-c
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
+AC classified hazardous substance5.1(1)
 abrasive blasting1.3, 3.102
 abrasive material1.3, 3.102
 allied process1.3, 3.94
@@ -197,8 +199,12 @@ gantry crane4.1, Sch. 6.3 cl. 6
 gas cylinder1.3, 4.1
 gear1.3
 generic name5.1(1)
+GHS5.1(1)
+GHS classified hazardous substance5.1(1)
 hand-held equipment3.60(2)
+hazard classSch. 5.1
 hazardous substance5.1(1)
+Hazardous Substances Information System5.1(1)
 health surveillance5.1(1), 5.53
 high risk work6.1(1), 7.9(1)
 high risk work (interstate) licence6.1(1), 7.9(1)
@@ -241,6 +247,7 @@ mobile crane4.1, Sch. 6.3 cl. 6
 monitoring5.1(1)
 MSDS5.1(1)
 nail gun4.1
+National Code5.1(1)
 national standard7.9(1)
 NOHSC1.11(1)
 noise3.45
@@ -300,6 +307,7 @@ rigger4.54(1)
 rigging workSch. 6.3 cl. 4
 risk phrase5.1(1)
 roof3.44A
+Safe Work Australia5.1(1)
 safe work method statement3.137
 safety phrase5.1(1)
 sanitary facilities3.20(1)
