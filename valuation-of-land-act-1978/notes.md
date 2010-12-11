@@ -45,10 +45,7 @@ Petroleum Amendment Act 2007 s. 107 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (se
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 128 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Land Administration Amendment Act 2009 s. 7 | 32 of 2009 | 26 Nov 2009 | 27 Nov 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Valuation of Land Amendment (Assessed Value) Act 2009 s. 3 and 4 | 33 of 2009 | 26 Nov 2009 | To be proclaimed (see s. 2(b))
+Valuation of Land Amendment (Assessed Value) Act 2009 | 33 of 2009 | 26 Nov 2009 | s. 1 and 2: 26 Nov 2009 (see s. 2(a)); Act other than s. 1 and 2: 11 Dec 2010 (see s. 2(b) and Gazette 10 Dec 2010 p. 6262)
 Under the Land Administration Act 1997 s. 281(3), a reference to the Land Act 1933 in a written law is, unless the contrary intention appears, to be read and construed as being a reference to the Land Administration Act 1997.
 The name of the Local Government Act 1960 was changed to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.
 Repealed by the Interpretation Act 1984 s. 77(1).
@@ -93,14 +90,3 @@ the VL Act means the Valuation of Land Act 1978.
 (3) If the Valuer-General receives, before the commencement day, a notice in accordance with the VL Act section 33(1) (as in force when the notice was received by the Valuer-General) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Valuer-General must refer the valuation to the State Administrative Tribunal for a review as if the notice were a notice served on the Valuer-General under the VL Act section 33(1).
 (4) If the Valuer-General receives, before the commencement day, a notice in accordance with the VL Act section 35(1) (as in force when the notice was received by the Valuer-General) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Valuer-General must refer the decision to the State Administrative Tribunal for a review as if the notice were a notice served on the Valuer-General under the VL Act section 35(1).
 ”.
-On the date as at which this reprint was prepared, the Valuation of Land Amendment (Assessed Value) Act 2009 s. 3 and 4 had not come into operation. They read as follows:
-3.Act amended
-This Act amends the Valuation of Land Act 1978.
-4.Section 4 amended
-In section 4(1) in the definition of assessed value:
-(a) delete “thereof” and insert:
-of the land
-(b) delete “prescribed;” and insert:
-prescribed either —
-(a)in respect of land generally; or
-(b)in respect of a class of lands which includes the land;
