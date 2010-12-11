@@ -1,13 +1,14 @@
 Notes
-This is a compilation of the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007. The following table contains information about that Act.
+This is a compilation of the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 | 24 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; s. 3, Pt. 2 Div. 1 and 2 (s. 4-17) and s. 85(4): 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645): Pt. 2 Div. 9: 21 Feb 2009 (see s. 2(1) and Gazette 20 Feb 2009 p. 353); Pt. 2 Div. 11 and 14: 14 Aug 2010 (see s. 2(1), (4) and (5) and Gazette 13 Aug 2010 p. 4021 and Notices published in Gazette 13 Aug 2010 p. 4028)
+Agriculture and Related Resources Protection Amendment Act 2010 Pt. 3 | 46 of 2010 | 28 Oct 2010 | 11 Dec 2010 (see s. 2(b) and Gazette 10 Dec 2010 p. 6261)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-8, 10, 12, 13 and 15-18 and Pt. 3 (except s. 85(4)) | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2)
-Agriculture and Related Resources Protection Amendment Act 2010 Pt. 3 | 46 of 2010 | 28 Oct 2010 | To be proclaimed (s. 2(b))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-8, 10, 12, 13 and 15-18 and Pt. 3 (except s. 85(4)) | 24 of 2007 (as amended by No. 46 of 2010 s. 59-63, 65 and 66) | 12 Oct 2007 | To be proclaimed (see s. 2)
+Acts Amendment (Fair Trading) Act 2010 s. 192 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-8, 10, 12, 13 and 15 18 and Pt. 3 (except s. 85(4)) had not come into operation. They read as follows:
 “
 Division 3 — Aerial Spraying Control Act 1966
@@ -66,22 +67,22 @@ A plant that is a declared pest as that term is defined by the Biosecurity and A
 29.Consumer Affairs Act 1971 amended
 (1) The amendment in this section is to the Consumer Affairs Act 1971.
 (2) The Schedule is amended by deleting “Agriculture and Related Resources Protection Act 1976.”.
+30A.Firearms Act 1973 amended
+(1) This section amends the Firearms Act 1973.
+(2) Delete section 17B(3)(c) and insert:
+(c) shall not use a silencer otherwise than in conjunction with a .22 calibre rifle named and identified in the Corporate Licence referred to in subsection (7) for the purpose of shooting birds that are declared pests under the Biosecurity and Agriculture Management Act 2007;
+(3) In section 17B(8) delete the definition of agriculture inspector and insert:
+agriculture inspector means an inspector appointed under the Biosecurity and Agriculture Management Act 2007 section 162;
+[Section 30A inserted by No. 46 of 2010 s. 59.]
 Subdivision 2 — Transitional and savings provisions
 30.Meaning of terms used in this Subdivision
 In this Subdivision —
 commencement day means the day on which the repealed Act Part V Division 6 is repealed;
-former account means the Declared Plants and Animals Control Fund referred to in the repealed Act section 65;
 repealed Act means the Agriculture and Related Resources Protection Act 1976.
+[Section 30 amended by No. 46 of 2010 s. 60.]
 31.Rates on pastoral leases
 Despite section 27, the repealed Act Part V Division 6, as in force immediately before the commencement day, continues to apply in relation to a rate payable under that Division for a financial year commencing before the commencement day.
-32.Funds in, or payable to, former account
-(1) On the commencement day any moneys standing to the credit of the former account are to be credited to the Declared Pest Account established under the BAM Act to be applied —
-(a) in the payment of any liabilities of the former account which arose before the commencement day; and
-(b) for the purposes set out in the BAM Act section 138,
-and the former account is then to be closed.
-(2) The Declared Pest Account established under the BAM Act is to be credited with any money that became payable to the former account before the commencement day and that is paid after that day.
-33.Reference to former account
-If in an agreement, instrument or other document there is a reference to the former account, that reference is, unless the context otherwise requires, to be read and have effect on and after the commencement day as if it were a reference to the Declared Pest Account established under the BAM Act.
+[32, 33.Deleted by No. 46 of 2010 s. 61]
 Division 7 — Agriculture Protection Board Act 1950
 Subdivision 1 — Repeal and consequential amendments
 34.Repeal
@@ -92,49 +93,8 @@ The Agriculture Protection Board Act 1950 is repealed.
 36.Financial Management Act 2006 amended
 (1) The amendment in this section is to the Financial Management Act 2006.
 (2) Schedule 1 is amended by deleting “The Agriculture Protection Board of Western Australia”.
-37.Firearms Act 1973 amended
-(1) The amendments in this section are to the Firearms Act 1973.
-(2) Section 17B(1) is amended by deleting “officer or employee of the Board” and inserting instead —
-“ agriculture inspector ”.
-(3) Section 17B(3) is amended as follows:
-(a) by deleting “officer or employee” and inserting instead —
-“ agriculture inspector ”;
-(b) in paragraph (c) by deleting “common starlings Sturnus vulgaris” and inserting instead —
-“
-birds that are declared pests under the Biosecurity and Agriculture Management Act 2007
-”.
-(4) Section 17B(4) is amended as follows:
-(a) by deleting “officer or employee” and inserting instead —
-“ agriculture inspector ”;
-(b) by deleting “the Board” and inserting instead —
-“ the Director General ”.
-(5) Section 17B(6) is amended by deleting “officer or employee of the Board” and inserting instead —
-“ agriculture inspector ”.
-(6) Section 17B(7) is amended by deleting “the Board” in both places where it occurs and inserting instead —
-“ the department ”.
-(7) Section 17B(8) is amended as follows:
-(a) by inserting before the definition of “authority” —
-“
-agriculture inspector means an inspector appointed under the Biosecurity and Agriculture Management Act 2007 section 162;
-”;
-(b) by inserting after the definition of “Corporate Licence” —
-“
-department means the department principally assisting in the administration of the Biosecurity and Agriculture Management Act 2007;
-”;
-(c) in the definition of “silencer” by deleting the semicolon and inserting instead a full stop;
-(d) by deleting the definition of “subsection”;
-(e) by deleting the definition of “the Board”.
-38.Plant Pests and Diseases (Eradication Funds) Act 1974 amended
-(1) The amendments in this section are to the Plant Pests and Diseases (Eradication Funds) Act 1974.
-(2) After section 4 the following section is inserted —
-“
-4A.Authority has functions of Protection Board
-(1) On and after the coming into operation of the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 section 34 —
-(a) a reference in this Act to the Protection Board is to be taken to be a reference to the Authority; and
-(b) the Authority has all of the functions conferred on the Protection Board under this Act.
-(2) In this section —
-Authority means the Western Australian Agriculture Authority established under the Biosecurity and Agriculture Management Act 2007.
-”.
+[37.Deleted by No. 46 of 2010 s. 62]
+[38.Deleted by No. 46 of 2010 s. 63]
 39.Public Sector Management Act 1994 amended
 (1) The amendment in this section is to the Public Sector Management Act 1994.
 (2) Schedule 2 item 48 is deleted.
@@ -385,44 +345,14 @@ declared pests on the land under the lease in compliance with the Biosecurity an
 “
 label it with an identifier in accordance with the Biosecurity and Agriculture Management Act 2007.
 ”.
-92.Plant Pests and Diseases (Eradication Funds) Act 1974 amended
-(1) The amendments in this section are to the Plant Pests and Diseases (Eradication Funds) Act 1974.
-(2) Section 4(1) is amended as follows:
-(a) by deleting the definition of “inspector” and inserting instead —
-“
-inspector means an inspector appointed under the Biosecurity and Agriculture Management Act 2007;
-”;
-(b) by deleting the definition of “resistant grain insects” and inserting instead —
-“
-resistant grain insects means insects that belong to a class of animals designated under subsection (3);
-”.
-(3) After section 4(2) the following subsection is inserted —
-“
-(3) The Minister may, for the purposes of the definition of “resistant grain insects” in subsection (1), by notice published in the Gazette —
-(a) designate any class of insects that —
-(i) have a detrimental effect on grain; and
-(ii) the Protection Board believes, on the basis of reasonable evidence available to it, have a resistance to insecticides that are in general use to such an extent as to render those insecticides inadequate for the eradication of those insects;
-and
-(b) amend or revoke a designation made under this subsection.
-”.
-(4) Section 9(2b) is amended by deleting “the Plant Diseases Act 1914” and inserting instead —
-“ the Biosecurity and Agriculture Management Act 2007 ”.
-(5) Section 13(1) is amended by deleting “the Agriculture and Related Resources Protection Act 1976 or Plant Diseases Act 1914” and inserting instead —
-“ the Biosecurity and Agriculture Management Act 2007 ”.
-(6) Section 13(4) is amended by deleting “the Agriculture and Related Resources Protection Act 1976 or Plant Diseases Act 1914” and inserting instead —
-“ the Biosecurity and Agriculture Management Act 2007 ”.
-(7) Section 13(6) is amended by deleting “the Agriculture and Related Resources Protection Act 1976 or Plant Diseases Act 1914” and inserting instead —
-“ the Biosecurity and Agriculture Management Act 2007 ”.
-(8) Section 14(2)(a) is amended by deleting “the Agriculture and Related Resources Protection Act 1976” and inserting instead —
-“ the Biosecurity and Agriculture Management Act 2007 ”.
-(9) Section 14(3)(a) is amended by deleting “the Agriculture and Related Resources Protection (Property Quarantine) Regulations 1981 made under the Agriculture and Related Resources Protection Act 1976” and inserting instead —
-“ the Biosecurity and Agriculture Management Act 2007 ”.
+[92.Deleted by No. 46 of 2010 s. 65]
 93.Poisons Act 1964 amended
 (1) The amendments in this section are to the Poisons Act 1964.
-(2) Section 32(c) is amended by deleting “by section 69 of the Agriculture and Related Resources Protection Act 1976 or section 8(2) of the Agriculture Protection Board Act 1950” and inserting instead —
+(2) Section 32(c) is amended by deleting “for the purposes of the Agriculture and Related Resources Protection Act 1976 section 69” and inserting instead —
 “
-under the Biosecurity and Agriculture Management Act 2007
+for the purposes of the Biosecurity and Agriculture Management Act 2007 section 42
 ”.
+[Section 93 amended by No. 46 of 2010 s. 66.]
 94.Taxation Administration Act 2003 amended
 (1) The amendment in this section is to the Taxation Administration Act 2003.
 (2) After section 3(1)(j) the following paragraphs are inserted —
@@ -437,43 +367,35 @@ under the Biosecurity and Agriculture Management Act 2007
 a declared pest as that term is defined in the Biosecurity and Agriculture Management Act 2007
 ”.
 ”.
-On the date as at which this compilation was prepared, the Agriculture and Related Resources Protection Amendment Act 2010 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Amendments to Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007
-57.Act amended
-This Part amends the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
-58.Section 2 amended
-Delete section 2(3).
-59.Section 30A inserted
-At the end of Part 2 Division 6 Subdivision 1 insert:
-30A.Firearms Act 1973 amended
-(1) This section amends the Firearms Act 1973.
-(2) Delete section 17B(3)(c) and insert:
-(c) shall not use a silencer otherwise than in conjunction with a .22 calibre rifle named and identified in the Corporate Licence referred to in subsection (7) for the purpose of shooting birds that are declared pests under the Biosecurity and Agriculture Management Act 2007;
-(3) In section 17B(8) delete the definition of agriculture inspector and insert:
-agriculture inspector means an inspector appointed under the Biosecurity and Agriculture Management Act 2007 section 162;
-60.Section 30 amended
-In section 30 delete the definition of former account.
-61.Sections 32 and 33 deleted
-Delete sections 32 and 33.
-62.Section 37 deleted
-Delete section 37.
-63.Section 38 deleted
-Delete section 38.
-64.Section 58 amended
-(1) In section 58(1) delete the passage that begins with “to be applied —” and continues to the end of paragraph (c) and insert:
-(the cattle industry account)
-(2) After section 58(1) insert:
-(2A) Moneys credited to the cattle industry account as referred to in subsection (1) are to be applied for the following purposes —
-(a) in the payment of compensation payable on an application referred to in section 57 made under the repealed Act;
-(b) in the payment of any liabilities of the former account which arose before the commencement day;
-(c) in the payment of the costs of the provision of, or the promotion and encouragement of, scientific research for the improvement of cattle health and production;
-(d) for the purposes set out in the regulations under the BAM Act section 141 establishing the account;
-(e) for any other purpose that, in the opinion of the management committee established for the account, will promote and encourage the cattle industry.
-65.Section 92 deleted
-Delete section 92.
-66.Section 93 amended
-Delete section 93(2) and insert:
-(2) Section 32(c) is amended by deleting “for the purposes of the Agriculture and Related Resources Protection Act 1976 section 69” and inserting instead —
-“
-for the purposes of the Biosecurity and Agriculture Management Act 2007 section 42
-”.
+On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 s. 192 had not come into operation. It reads as follows:
+192.Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 amended
+(1) This section amends the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
+(2) Delete section 23 and insert:
+23.Fair Trading Act 2010 amended
+(1) This section amends the Fair Trading Act 2010.
+(2) In Schedule 1 delete “Agricultural Products Act 1929”.
+(3) Delete section 29 and insert:
+29.Fair Trading Act 2010 amended
+(1) This section amends the Fair Trading Act 2010.
+(2) In Schedule 1 delete “Agriculture and Related Resources Protection Act 1976”.
+(4) Delete section 61 and insert:
+61.Fair Trading Act 2010 amended
+(1) This section amends the Fair Trading Act 2010.
+(2) In Schedule 1 delete “Fertilizers Act 1977”.
+(5) Delete section 64 and insert:
+64.Fair Trading Act 2010 amended
+(1) This section amends the Fair Trading Act 2010.
+(2) In Schedule 1 delete “Plant Diseases Act 1914”.
+(6) Delete section 75 and insert:
+75.Fair Trading Act 2010 amended
+(1) This section amends the Fair Trading Act 2010.
+(2) In Schedule 1 delete “Seeds Act 1981”.
+(7) Delete section 83 and insert:
+83.Fair Trading Act 2010 amended
+(1) This section amends the Fair Trading Act 2010.
+(2) In Schedule 1 delete “Veterinary Chemical Control and Animal Feeding Stuffs Act 1976”.
+(8) Delete section 86 and insert:
+86.Fair Trading Act 2010 amended
+(1) This section amends the Fair Trading Act 2010.
+(2) In Schedule 1 insert in alphabetical order:
+Biosecurity and Agriculture Management Act 2007
