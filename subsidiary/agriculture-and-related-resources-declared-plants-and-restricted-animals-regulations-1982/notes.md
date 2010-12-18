@@ -8,3 +8,4 @@ Agriculture and Related Resources (Declared Plants and Restricted Animals) Amend
 Agriculture and Related Resources (Declared Plants and Restricted Animals) Amendment Regulations 1984 | 3 Aug 1984 p. 2333 | 31 Aug 1984 (see r. 2)
 Agriculture and Related Resources (Declared Plants and Restricted Animals) Amendment Regulations 1991 | 18 Oct 1991 p. 5325-6 | 18 Oct 1991
 Reprint of the Agriculture and Related Resources (Declared Plants and Restricted Animals) Regulations 1982 as at 9 Nov 2001 (includes amendments listed above)
+Agriculture and Related Resources Protection (Repeals and Amendments) Regulations 2010 Pt. 3 | 17 Dec 2010 p. 6403-32 | 18 Dec 2010 (see r. 2(b) and Gazette 17 Dec 2010 p. 6349)

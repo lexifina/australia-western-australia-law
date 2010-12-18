@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 June 2003 of the Agriculture and Related Resources Protection (Fencing) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Agriculture and Related Resources Protection (Fencing) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Agriculture and Related Resources Protection (Fencing) Regulations 1985 | 8 Nov 1985 p. 4297-300 | 8 Nov 1985
@@ -7,6 +7,7 @@ Agriculture and Related Resources Protection (Fencing) Amendment Regulations 198
 Agriculture and Related Resources Protection (Fencing) Amendment Regulations 1991 | 18 Oct 1991 p. 5326-7 | 18 Oct 1991
 Agriculture and Related Resources Protection (Fencing) Amendment Regulations 1994 | 28 Oct 1994 p. 5461 | 28 Oct 1994
 Reprint 1: The Agriculture and Related Resources Protection (Fencing) Regulations 1985 as at 6 Jun 2003 (includes amendments listed above)
+Agriculture and Related Resources Protection (Repeals and Amendments) Regulations 2010 Pt. 7 | 17 Dec 2010 p. 6403-32 | 18 Dec 2010 (see r. 2(b) and Gazette 17 Dec 2010 p. 6349)
 Repealed by the Local Government Act 1995.
 Repealed by the Commercial Arbitration Act 1985.
 The Agriculture and Related Resources Protection (Fencing) Amendment Regulations 1994 r. 4 reads as follows:

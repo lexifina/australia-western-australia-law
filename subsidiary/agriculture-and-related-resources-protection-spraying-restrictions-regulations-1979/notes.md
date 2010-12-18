@@ -7,4 +7,11 @@ Agriculture and Related Resources Protection (Spraying Restrictions) Amendment R
 Agriculture and Related Resources Protection (Spraying Restrictions) Amendment Regulations 1982 | 16 Apr 1982 p. 1316 | 16 Apr 1982
 Agriculture and Related Resources Protection (Spraying Restrictions) Amendment Regulations 1986 | 28 Nov 1986 p. 4415 | 28 Nov 1986
 Agriculture and Related Resources Protection (Spraying Restrictions) Amendment Regulations 1989 | 1 Sep 1989 p. 3074-5 | 1 Sep 1989
-Reprint of the Agriculture and Related Resources Proteection (Spraying Restrictions) Regulations 1979 as at 2 Nov 2001 (includes amendments listed above)
+Reprint of the Agriculture and Related Resources Protection (Spraying Restrictions) Regulations 1979 as at 2 Nov 2001 (includes amendments listed above)
+Agriculture and Related Resources Protection (Repeals and Amendments) Regulations 2010 Pt. 12 | 17 Dec 2010 p. 6403-32 | 18 Dec 2010 (see r. 2(b) and Gazette 17 Dec 2010 p. 6349)
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+acid2
+Director2
+prescribed area2

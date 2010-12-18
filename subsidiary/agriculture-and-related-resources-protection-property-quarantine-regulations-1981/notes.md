@@ -8,3 +8,4 @@ Agriculture and Related Resources Protection (Property Quarantine) Amendment Reg
 Reprint of the Agriculture and Related Resources Protection (Property Quarantine) Regulations 1981 as at 14 Sep 2001 (includes amendments listed above)
 Agriculture and Related Resources Protection (Property Quarantine) Amendment Regulations 2003 | 11 Jul 2003 p. 2739-40 | 11 Jul 2003
 Agriculture and Related Resources Protection (Property Quarantine) Amendment Regulations 2005 | 8 Feb 2005 p. 647 | 8 Feb 2005
+Agriculture and Related Resources Protection (Repeals and Amendments) Regulations 2010 Pt. 10 | 17 Dec 2010 p. 6403-32 | 18 Dec 2010 (see r. 2(b) and Gazette 17 Dec 2010 p. 6349)

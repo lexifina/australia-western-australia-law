@@ -1,11 +1,12 @@
 Notes
-This reprint is a compilation as at 9 April 2010 of the Agriculture and Related Resources Protection (European House Borer) Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Agriculture and Related Resources Protection (European House Borer) Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Agriculture and Related Resources Protection (European House Borer) Regulations 2006 | 7 Feb 2006 p. 639-56 | 7 Feb 2006
 Agriculture and Related Resources Protection (European House Borer) Amendment Regulations 2007 | 28 Dec 2007 p. 6477-84 | r. 1 and 2: 28 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Dec 2007 (see r. 2(b))
 Agriculture and Related Resources Protection (European House Borer) Amendment Regulations 2010 | 5 Feb 2010 p. 241-6 | r. 1 and 2: 5 Feb 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Feb 2010 (see r. 2(b))
 Reprint 1: The Agriculture and Related Resources Protection (European House Borer) Regulations 2006 as at 9 Apr 2010 (includes amendments listed above)
+Agriculture and Related Resources Protection (Repeals and Amendments) Regulations 2010 Pt. 6 | 17 Dec 2010 p. 6403-32 | 18 Dec 2010 (see r. 2(b) and Gazette 17 Dec 2010 p. 6349)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
