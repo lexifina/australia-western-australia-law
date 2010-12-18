@@ -3,6 +3,8 @@
 [Heading inserted in Gazette 8 Dec 2009 p. 5007.]
 Item | Regulation | Matter to which regulation relates | Modified penalty $
 1. | 5(4) | Failing or refusing to pay admission, not being a passenger on commercial transport | 150
+2A. | 7(2) | Failing to ensure annual payment sticker is exhibited on non-commercial vessels or aircraft | 150
+2B. | 7A(4) | Failing to ensure annual payment sticker is exhibited on fishing or diving charter vessels | 150
 2. | 9(1) | Taking up unauthorised casual residence | 200
 3. | 11(1)(a) | Installing mooring without permission | 200
 4. | 11(1)(b) | Securing vessel to mooring installed without permission | 200
@@ -11,6 +13,7 @@ Item | Regulation | Matter to which regulation relates | Modified penalty $
 7. | 11(3)(b) | Securing vessel to vessel secured to mooring | 150
 8. | 12(1) | Anchoring vessel closer than 50 metres to mooring or so that it obstructs mooring | 150
 9. | 28(3) | Licensee failing to have mooring inspection report | 150
+10A. | 28(4) | Licensee failing to provide copy of any mooring site inspection report within 7 days | 150
 10. | 28(5) | Licensee using mooring in respect of which Authority does not have mooring inspection report | 150
 11. | 29(3) | Failing to comply with notice to move unattended vessel | 150
 12. | 30(8) | Removing mooring that is subject to notice prohibiting removal | 150
@@ -49,4 +52,8 @@ Item | Regulation | Matter to which regulation relates | Modified penalty $
 45. | 70(3) | Writing etc. or distributing or otherwise disseminating indecent or obscene matter | 200
 46. | 71 | Causing or producing noise that unreasonably interferes with convenience, comfort or amenity of any person | 200
 47. | 72(1) | Consuming liquor in unauthorised place | 200
-[Schedule 4 inserted in Gazette 8 Dec 2009 p. 5007-9; amended in Gazette 15 Oct 2010 p. 5177.]
+48. | 72AA(2) | Failure to comply with direction of ranger | 200
+49. | 74B(1) | Altering information on sticker or document issued by the Authority | 200
+50. | 74(b)2 | Wrongly displaying a sticker on a vessel | 200
+51. | 74C | Altering information on authorisation issued by mooring site licensee | 200
+[Schedule 4 inserted in Gazette 8 Dec 2009 p. 5007-9; amended in Gazette 15 Oct 2010 p. 5177; 17 Dec 2010 p. 6362.]
