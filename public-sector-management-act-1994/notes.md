@@ -82,6 +82,7 @@ Reprint 7: The Public Sector Management Act 1994 as at 25 Aug 2006 (includes ame
 Land Information Authority Act 2006 s. 187 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 6, 7 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2(1) and Gazette 27 Jul 2007 p. 3735)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 39 | 24 of 2007 | 12 Oct 2007 | 18 Dec 2010 (see s. 2 and Gazette 17 Dec 2010 p. 6349
 Water Resources Legislation Amendment Act 2007 s. 197 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Reprint 8: The Public Sector Management Act 1994 as at 14 Nov 2008 (includes amendments listed above)
 Public Sector Management (SES Organisations) Regulations 2009 published in Gazette 9 Jun 2009 p. 1926 | r. 1 and 2: 9 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jun 2009 (see r. 2(b))
@@ -93,7 +94,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 39 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 State Superannuation Amendment Act 2007 s. 85 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 Public Sector Reform Act 2010 Pt. 3 Div. 1 | 39 of 2010 | 1 Oct 2010 | 28 Mar 2011 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
@@ -106,12 +106,7 @@ On the date as at which this compilation was prepared, the State Superannuation 
 The Public Sector Management Act 1994 is amended as follows:
 (a) by repealing section 20(1);
 ”.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 39 had not come into operation. It reads as follows:
-“
-39.Public Sector Management Act 1994 amended
-(1) The amendment in this section is to the Public Sector Management Act 1994.
-(2) Schedule 2 item 48 is deleted.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 85 had not come into operation. It reads as follows:
 “
 85.Public Sector Management Act 1994 amended

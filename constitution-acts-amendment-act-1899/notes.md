@@ -241,13 +241,13 @@ Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 |
 Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
 Child Care Services Act 2007 Pt. 7 Div. 2 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
 Reprint 15: The Constitution Acts Amendment Act 1899 as at 2 Aug 2007 (includes amendments listed above except those in the Commissioner for Children and Young People Act 2006, the Nurses and Midwives Act 2006, the Owner-Drivers (Contracts and Disputes) Act 2007 and the Child Care Services Act 2007)
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 51 | 24 of 2007 | 12 Oct 2007 | 21 Feb 2009 (see s. 2 and Gazette 20 Feb 2009 p. 353)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 35 and 51 | 24 of 2007 | 12 Oct 2007 | s. 51: 21 Feb 2009 (see s. 2 and Gazette 20 Feb 2009 p. 353) s. 35: 18 Dec 2010 (see s. 2 and Gazette 17 Dec 2010 p. 6349)
 Waste Avoidance and Resource Recovery Act 2007 s. 100 | 36 of 2007 | 21 Dec 2007 | 1 Jul 2008 (see s. 2(b) and Gazette 20 Jun 2008 p. 2705)
 Water Resources Legislation Amendment Act 2007 s. 192 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Legal Profession Act 2008 s. 650 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Eastern Goldfields Transport Board Repeal Act 2008 s. 12 | 28 of 2008 | 1 Jul 2008 | 29 Jul 2008
-Reprint 16: The Constitution Acts Amendment Act 1899 as at 16 Jan 2009 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 51 and the Legal Profession Act 2008)
+Reprint 16: The Constitution Acts Amendment Act 1899 as at 16 Jan 2009 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 35 and 51 and the Legal Profession Act 2008)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 37 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 National Gas Access (WA) Act 2009 s. 68 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327)
 Acts Amendment (Bankruptcy) Act 2009 s. 20 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
@@ -262,7 +262,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 and 35 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative at “transfer time” fixed under the State Superannuation Act 2000 s. 56 (see s. 2(1)(c))
 Health Practitioner Regulation National Law (WA) Act 2010s. 44(1), (7) and (9) | 35 of 2010 | 30 Aug 2010 | s. 44(1), (7) and (9): to be proclaimed (see s. 2(b))
 Acts Amendment (Fair Trading) Act 2010 s. 191 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
@@ -270,16 +270,13 @@ Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions repealed by the Health Amendment Act 1985.
 Established by the Agricultural Practices (Disputes) Act 1995.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 and 35 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 had not come into operation. It reads as follows:
 “
 22.Constitution Acts Amendment Act 1899 amended
 (1) The amendments in this section are to the Constitution Acts Amendment Act 1899.
 (2) Schedule V Part 3 is amended by deleting “The Apple Sales Advisory Committee constituted under the Agricultural Products Act 1929.”.
 (3) Schedule V Part 3 is amended by deleting “The Citrus Sales Advisory Committee constituted under the Agricultural Products Act 1929.”.
 (4) Schedule V Part 3 is amended by deleting “The Stone-Fruit Sales Advisory Committee constituted under the Agricultural Products Act 1929.”.
-35.Constitution Acts Amendment Act 1899 amended
-(1) The amendment in this section is to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended by deleting “The Agriculture Protection Board of Western Australia constituted under the Agriculture Protection Board Act 1950.”.
 ”.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Relevant provisions repealed by the Agricultural Products Amendment Act 1985.
