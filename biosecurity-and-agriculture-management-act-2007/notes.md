@@ -5,13 +5,12 @@ Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management Act 2007 | 23 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; Pt. 1 (other than s. 1 and 2), Pt. 2 Div. 6, Pt. 7 Div. 1 and s. 181 and 187: 24 Oct 2007 (see s. 2 and Gazette 23 Oct 2007 p. 5643); s. 22, Pt. 4 and 5, Pt. 6 Div. 1 SubDiv 1, Div. 2 and 3, Pt. 7 Div. 2, 3 and 6, s. 182, Pt. 8 (other than s. 193) and Sch. 1: 22 May 2010 (see s. 2 and Gazette 21 May 2010 p. 2177)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 5 | 35 of 2010 | 1 Oct 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Agriculture and Related Resources Protection Amendment Act 2010 s. 68 | 46 of 2010 | 28 Oct 2010 | 18 Dec 2010 (see s. 2(b) and Gazette 17 Dec 2010 p. 6349)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, Div. 3 (other than s. 22), Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2 and 3, Pt. 7 Div. 4 and 5, s. 183-186, s. 193 and Pt. 9 | 23 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2)
-Agriculture and Related Resources Protection Amendment Act 2010 s. 68 | 46 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
+Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, Div. 3 (other than s. 22), Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2 and 3, Pt. 7 Div. 4 and 5, s. 183-186, s. 193 and Pt. 9 | 23 of 2007 (as amended by No. 46 of 2010 s. 68) | 12 Oct 2007 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, s. 23-42, Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2 and 3, Pt. 7 Div. 4 and 5, s. 183-186, s. 193 and Pt. 9 have not come into operation. They read as follows:
-“
 Part 2 — Biosecurity
 Division 1 — Permitted, prohibited and unlisted organisms
 11.Permitted organisms
@@ -463,11 +462,13 @@ Subdivision 3 — Establishment and operation of Declared Pest Account
 (e) any other amounts lawfully received by the Director General for the purposes of the Account.
 138.Use of funds in Declared Pest Account
 Money may be debited to the Declared Pest Account for the following purposes —
-(a) to carry out measures to control declared pests on and in relation to prescribed land in prescribed situations (if any);
+(a) to carry out measures to control declared pests on and in relation to areas for which the rates were collected under Division 1;
 (b) to promote public awareness of the measures being taken or required to be taken to control declared pests;
 (c) to purchase capital assets required in connection with the purposes mentioned in paragraphs (a) and (b);
 (d) the payment of the costs of assessing and collecting rates under Subdivision 2 as determined by the Commissioner;
-(e) the credit of amounts under section 139(3).
+(e) the credit of amounts under section 139(3);
+(f) for any purpose authorised under this Act or another written law.
+[Section 138 amended by No. 46 of 2010 s. 68.]
 139.Appropriations against the Consolidated Account
 (1) For each financial year for which a rate is determined for the purposes of the Declared Pest Account, an amount equal to the rates amounts collected by the Commissioner under the rate determination is charged to the Consolidated Account, which this subsection appropriates accordingly.
 (2) Despite any other law, for the purposes of this section the amount of rates treated as having been collected by the Commissioner in a financial year is to be the amount of the rates which becomes payable in that financial year.
@@ -596,17 +597,6 @@ Part 9 — Miscellaneous
 (a) the adequacy of the penalties imposed under this Act; and
 (b) any other matters that appear to the Minister to be relevant to the operation and effectiveness of this Act.
 (2) The Minister must prepare a report based on the review carried out under subsection (1) and, as soon as is practicable after the preparation of the report, cause it to be laid before each House of Parliament.
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Agriculture and Related Resources Protection Amendment Act 2010 s. 68 had not come into operation. It reads as follows:
-68.Biosecurity and Agriculture Management Act 2007 amended
-(1) This section amends the Biosecurity and Agriculture Management Act 2007.
-(2) In section 138(a) delete “prescribed land in prescribed situations (if any);” and insert:
-areas for which the rates were collected under Division 1;
-(3) In section 138(e) delete “section 139(3).” and insert:
-section 139(3);
-(4) After section 138(e) insert:
-(f) for any purpose authorised under this Act or another written law.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
