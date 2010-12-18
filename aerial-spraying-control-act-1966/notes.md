@@ -15,17 +15,16 @@ Agricultural Legislation (Penalties) Amendment Act 1989 s. 3 | 20 of 1989 | 1 De
 Sentencing Legislation Amendment and Repeal Act 2003 s. 36 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Reprint 3: The Aerial Spraying Control Act 1966 as at 18 Jun 2004 (includes amendments listed above)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 3 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+Agriculture and Related Resources Protection Amendment Act 2010 s. 67 | 46 of 2010 | 28 Oct 2010 | 18 Dec 2010 (see s. 2(b) and Gazette 17 Dec 2010 p. 6349)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 18 and 19 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Agriculture and Related Resources Protection Amendment Act 2010 s. 67 | 46 of 2010 | 28 Oct 2010 | To be proclaimed (s. 2(b))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 18 and 19 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(2))
 Short title changed to Air Navigation Regulations 1947 (see Air Navigation Amendment Regulations 1998 (No. 1) of the Commonwealth).
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 2 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 18 and 19 had not come into operation. They read as follows:
-“
 18.Repeal
 The Aerial Spraying Control Act 1966 is repealed.
 19.Transitional provision
@@ -34,7 +33,17 @@ aerial spraying has the same meaning as in the repealed Act;
 repealed Act means the Aerial Spraying Control Act 1966.
 spray drift has the same meaning as in the repealed Act;
 (2) Sections 14(4), (5) and (6) and 15 of the repealed Act continue to apply in relation to aerial spraying carried out before the coming into operation of this section, and in relation to any spray drift from that aerial spraying.
-On the date as at which this compilation was prepared, the Agriculture and Related Resources Protection Amendment Act 2010 s. 67 had not come into operation. It reads as follows:
-67.Aerial Spraying Control Act 1966 amended
-(1) This section amends the Aerial Spraying Control Act 1966.
-(2) In section 13A(1) delete “or the Agriculture Protection Board”.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+aerial spraying3
+agricultural chemical3
+aircraft3
+approved company10(3)
+certificate3
+hazardous area3
+owner3
+pilot in command3
+spray drift3
+the Department3
+the Director3
