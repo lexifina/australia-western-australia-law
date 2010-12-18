@@ -8,4 +8,4 @@ Chemicals within the meaning of “Acid”
 (5)2, 4, 5-T
 (6)Dicamba
 (7)Picloram
-[Schedule inserted in Gazette 1 Sep 1989 p. 3075.]
+[Schedule inserted: Gazette 1 Sep 1989 p. 3075.]
