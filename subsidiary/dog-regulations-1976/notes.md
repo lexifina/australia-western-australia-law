@@ -12,6 +12,7 @@ Dog Amendment Regulations 1997 | 15 Aug 1997 p. 4682-4 | 15 Aug 1997
 Reprint of the Dog Regulations 1976 as at 21 Nov 1997 (includes amendments listed above)
 Reprint 2: The Dog Regulations 1976 as at 13 Feb 2004 (includes amendments listed above)
 Dog Amendment Regulations 2004 | 30 Dec 2004 p. 7013-14 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
+Dog Amendment Regulations 2010 | 21 Dec 2010 p. 6762 | r. 1 and 2: 21 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Dec 2010 (see r. 2(b))
 Now known as the Dog Regulations 1976; citation changed (see note under r. 1).
 The Dog Amendment Regulations 1987 r. 14 is a transitional provision of no further effect.
 The Dog Amendment Regulations 1988 r. 12 is an application provision.
