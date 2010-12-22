@@ -10,3 +10,4 @@ Reprint 1: The Local Government (Audit) Regulations 1996 as at 10 Oct 2003 (incl
 Local Government (Audit) Amendment Regulations 2004 | 1 Jun 2004 p. 1917 | 1 Jun 2004
 Local Government (Audit) Amendment Regulations 2005 | 31 Mar 2005 p. 1042-3 | 7 May 2005 (see r. 2)
 Local Government (Audit) Amendment Regulations (No. 2) 2005 | 30 Sep 2005 p. 4418-20 | 30 Sep 2005
+Local Government (Audit) Amendment Regulations 2010 | 21 Dec 2010 p. 6758-61 | r. 1 and 2: 21 Dec 2010 (see r. 2(a)); Regualtions other than r. 1 and 2: 22 Dec 2010 (see r. 2(b))
