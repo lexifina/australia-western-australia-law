@@ -18,7 +18,7 @@ Under the Cross-border Justice Act 2008 section 14, in order to give effect to t
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Liquor Control Amendment Act 2010 Pt, 6 | 56 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(b))
+Liquor Control Amendment Act 2010 Pt, 6 | 56 of 2010 | 8 Dec 2010 | 17 Jan 2011 (see s. 2(b) and Gazette 31 Dec 2010 p. 6887)
 Prohibited Behaviour Orders Act 2010 Pt. 5 Div. 3 | 59 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(b))
 Section 95 of this Act gave effect to Sch. 1 which set out some temporary provisions relating to obtaining and using identifying particulars of people in custody and others. These provisions ceased to have effect on 29 June 2005.
 On the date as at which this compilation was prepared, the Liquor Control Amendment Act 2010 Pt, 6 had not come into operation. It reads as follows:
