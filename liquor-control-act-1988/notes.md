@@ -45,7 +45,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
  | Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
- | Liquor Control Amendment Act 2010 s. 3 and Pt. 2-5 | 56 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(b))
+ | Liquor Control Amendment Act 2010 s. 3 and Pt. 2-5 | 56 of 2010 | 8 Dec 2010 | s. 3, Pt. 4 and 5: 17 Jan 2011 (see s.2(b) and Gazette 31 Dec 2010 p. 6887); s. 3 and Pt. 2 and 3: to be proclaimed (see s. 2(b))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Acts 1984 s. 7(4)(f).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Repealed by the Public Sector Management Act 1994.
