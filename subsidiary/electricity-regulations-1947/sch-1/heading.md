@@ -1,60 +1,73 @@
 ## Schedule 1 — Prescribed offences and modified penalties
 [r. 342]
-[Heading inserted in Gazette 20 Mar 2007 p. 1039.]
-Offences under Electricity Act 1945 | Modified penalty
-Individual | Body corporate
-s. 25(1)(a), 52 | Failing to maintain service apparatus in safe and fit condition ....................................... |  | $4 000
-s. 25(1)(b), 52 | Failing to take all reasonable precautions to avoid the risk of fire or damage ...................... |  | $4 000
-s. 30(7) | Failing to comply with order of inspector ....... | $500 | $2 000
-s. 33B(2) | Selling or hiring, or exposing or advertising for sale or hire, prescribed appliance without approval .............................................. | $1 000 | $4 000
-s. 33C(3) | Failing to comply with notice prohibiting sale, hire or use of unsafe or dangerous apparatus ........................................................ | $1 000 | $4 000
-s. 33F | Selling or hiring, or exposing or advertising for sale or hire apparatus or installation that does not comply with energy efficiency labelling regulations .................................…... | $500 | $2 000
-Offences under Electricity Regulations 1947 | Modified penalty
-Individual | Body corporate
-r. 10 | Selling or hiring, or exposing or advertising for sale or hire apparatus or installation that does not comply with energy efficiency standards .......................................................... | $500 | $2 000
-r. 242(1)(b), 340 | Supplying electricity without receiving certificate of correct installation and fitting .... |  | $4 000
-r. 253(1), (9)(b) | Failing to establish and maintain system of inspection or ensure installation is individually inspected ..................................... |  | $4 000
-r. 253(7)(a), (9)(b) | Failing to modify inspection practice when ordered to do so ............................................... |  | $4 000
-r. 253(7)(b), (9)(b) | Failing to review inspection practice and submit revised system plan and policy statement within required time ........................ |  | $4 000
-r. 253(9)(a) | Supplying electricity in contravention of s. 253(1) ...................................................... |  | $4 000
-r. 316A, 340 | Performing vegetation control work in danger zone of overhead power lines .............. | $500 | $4 000
-Offences under Electricity (Licensing) Regulations 1991 | Modified penalty
-Individual | Body corporate
-r. 19(1) | Carrying out electrical work without a licence or permit .............................................. | $500 | $2 000
-r. 19(2a), 65 | Failing to ensure electrical work is checked, tested and certified .......................................... | $500 | $2 000
-r. 28(1), 65 | Failing to notify Board of change of address .. | $250 | $1 000
-r. 33(1), 65 | Carrying on business as an electrical contractor without a licence ............................ | $1 000 | $4 000
-r. 34 | Knowingly contracting unlicensed person to do electrical work ........................................ | $500 | $2 000
-r. 35 | Falsely representing electrical work to be carried out by or on behalf of employer .......... | $500 | $2 000
-r. 37(1) | Carrying out in-house electrical installing work without a licence .................................... | $1 000 | $4 000
-r. 45(1), 65 | Failing to display licence and certificate of registration at principal place of business ....... | $500 | $2 000
-r. 45(1), 65 | Failing to include licence number in advertisement .................................................. | $500 | $1 000
-r. 45(2), 65 | Failing to notify Board of change of address .. | $250 | $1 000
-r. 49(1), (3), 65 | Carrying out, or causing or permitting to be carried out, electrical work contrary to Wiring Rules, WA Electrical Requirements or specified standards ...................................... | $500 | $2 000
-r. 50(1), 65 | Failing to effectively supervise the carrying out of electrical work ...................................... | $500 | $2 000
-r. 50A | Causing or permitting unsafe wiring or equipment to be, or to remain, connected ....... | $500 | $2 000
-r. 51(1) | Failing to deliver preliminary notice within required time ................................................... | $500 | $2 000
-r. 52(1) | Failing to give notice of completion within required time .................................................. | $500 | $2 000
-r. 52(3) | Giving notice of completion in relation to uncompleted work ....................................... | $500 | $2 000
-r. 53(2), 65 | Employing, engaging or instructing unlicensed person to carry out electrical work | $500 | $2 000
-r. 54(1), (2) | Unauthorised person signing notice of completion or record of work carried out .... | $500 | $2 000
-r. 57(1), 65 | Failing to maintain record of electrical workers ............................................................ | $250 | $1 000
-r. 57(3), 65 | Failing to produce record for inspection ......... | $500 | $2 000
-r. 58 | Failing to produce licence and registration certificate on request ....................................... | $500 | $2 000
-r. 59(1) | Giving false information, evidence, statements etc., personation etc. ...................... | $500 | $2 000
-r. 62, 65 | Failing to report defect .................................... | $500 | $2 000
-r. 63, 65 | Failing to report accident ................................ | $500 | $2 000
-Offences under Electricity (Supply Standards and System Safety) Regulations 2001 [Failure to comply with these regulations is an offence under r. 46.] | Modified penalty
-Individual | Body corporate
-r. 14(2)(a) | Failing to give notice before commencing major activity .................................................. |  | $2 000
-r. 14(2)(b) | Failing to give quarterly outline of proposed major activities ................................ |  | $2 000
-r. 16 | Failing to ensure prescribed activity is carried out in accordance with specified standard or code .............................................. |  | $4 000
-r. 29 | Failing to ensure prescribed activity is carried out in accordance with accepted safety case ....................................................... |  | $4 000
-r. 30(2) | Failing to lodge report in respect of accepted safety case ........................................ |  | $4 000
-r. 33(1) | Failing to establish and maintain record keeping system in relation to accepted safety case ....................................................... |  | $4 000
-r. 33(3) | Failing to keep records in required manner ..... |  | $4 000
-r. 33(4) | Failing to keep records for required time ........ |  | $4 000
-r. 35(1) | Failing to notify Director of notifiable incident within required time .......................... |  | $4 000
-r. 36(2) | Failing to give report of notifiable incident within required time ........................................ |  | $2 000
-r. 38(1) | Failing to ensure site of notifiable incident is not disturbed ................................................ |  | $4 000
-[Schedule 1 inserted in Gazette 20 Mar 2007 p. 1039-41.]
+[Heading inserted in Gazette 31 Dec 2010 p. 6888.]
+Table 1 — Electricity Act 1945 offences
+Provision(s) | Description of offence under Electricity Act 1945 | Modified penalty
+For individual | For body corporate
+s. 25(1)(a) & 52 | Failing to maintain service apparatus in safe and fit condition |  | $50 000
+s. 25(1)(d) & 52 | Failing to maintain pressure within the limit of ± 6% of the declared pressure |  | $50 000
+s. 33B(2) & 33D | Selling or hiring, or exposing or advertising for sale or hire, prescribed appliance without approval | $1 250 | $5 000
+s. 33C(3) & 33D | Failing to comply with notice prohibiting sale, hire or use of unsafe or dangerous apparatus | $2 500 | $10 000
+s. 33F | Selling or hiring, or exposing or advertising for sale or hire apparatus or installation that does not comply with energy efficiency labelling regulations | $1 250 | $5 000
+Table 2 — Electricity Regulations 1947 offences
+Provision(s) | Description of offence under Electricity Regulations 1947 | Modified penalty
+For individual | For body corporate
+r. 10 & 340 | Selling or hiring, or exposing or advertising for sale or hire apparatus or installation that does not comply with energy efficiency standards | $1 250 | $5 000
+r. 15 | Owner of common property failing to ensure at least one residual current device is installed before 9 August 2011 | $1 000 | $4 000
+r. 242(1)(b) & 340 | Supplying electricity without receiving notice certifying installation and fitting is proper and as required by Act |  | $10 000
+r. 253(7)(a), (9)(b) & 340 | Failing to give effect to an order to modify inspection practice |  | $20 000
+r. 253(7)(b), (9)(b) & 340 | Failing to give effect to an order to review inspection practice and submit revised system plan and policy statement |  | $10 000
+r. 254(1) & 340 | Network operator supplying electricity to new, altered or expanded electric installation that has not been inspected and does not comply with prescribed requirements |  | $20 000
+r. 254(2) & 340 | Failing to send copy of order to Director within 28 days after inspection |  | $3 000
+r. 254(3) & 340 | Failing to give Director report after accident |  | $3 000
+r. 316A & 340 | Performing vegetation control work for reward in danger zone of overhead power lines | $2 000 | $8 000
+Table 3 — Electricity (Licensing) Regulations 1991 offences
+Provision(s) | Description of offence under Electricity (Licensing) Regulations 1991 | Modified penalty
+For individual | For body corporate
+r. 19(1) | Carrying out electrical work without a licence or permit | $1 000
+r. 19(2a) & 65 | Failing to ensure electrical work is checked, tested and certified | $1 000 | $4 000
+r. 28(1) & 65 | Failing to notify Board of change of address | $100 | $400
+r. 33(1) & 65 | Carrying on business as an electrical contractor without a licence | $1 250 | $5 000
+r. 34 | Knowingly contracting unlicensed person to do electrical work | $1 250 | $5 000
+r. 35 | Falsely representing electrical work to be carried out by or on behalf of employer | $1 250 | $5 000
+r. 38(4) | Licence holder nominating ineligible person to be nominee or permitting ineligible person to continue as nominee | $1 250 | $5 000
+r. 38(5) | Ineligible person permitting himself or herself to be nominated as nominee for licence or to continue to be nominee for licence | $1 250
+r. 44A(2) & 65 | Failing to comply with notice requiring details of insurance policy | $750 | $3 000
+r. 45(1) & 65 | Failing to display licence and certificate of registration at principal place of business | $1 000 | $3 000
+r. 45(1) & 65 | Failing to include licence number in advertisement | $200 | $800
+r. 45(2) & 65 | Failing to notify Board of change of business name, trading name or principal place of business | $100 | $400
+r. 49(1) & 65 | Carrying out electrical work contrary to requirements specified in r. 49(1) | $1 000 | $4 000
+r. 49A(b) & 65 | Not ensuring a design of electrical installation is accompanied by information about safe installation | $1 000 | $4 000
+r. 50AA(2) & 65 | Employer not ensuring persons are informed of electrical worker’s experience etc. | $500 | $2 000
+r. 50AA(3) & 65 | Supervising electrical worker not ensuring receipt of electrical worker’s experience etc. | $500 | $2 000
+r. 51(1) | Failing to deliver preliminary notice within required time | $100 | $400
+r. 52(1) | Failing to give notice of completion of notifiable work within required time | $750 | $3 000
+r. 52(1a) | Failing to keep copy of notice of completion of notifiable work for 5 years | $100 | $400
+r. 52(3) | Sending notice of completion of notifiable work in relation to uncompleted work | $1 000 | $4 000
+r. 52A(5) | Giving preliminary notice or notice of completion that is false or misleading | $1 250 | $5 000
+r. 52B(1) | Failing to prepare and deliver certificate of compliance for electrical installing work to person for whom work carried out | $500 | $2 000
+r. 52B(2) | Failing to keep copy of certificate of compliance for electrical installing work for 5 years | $200 | $800
+r. 52B(7) | Giving false or misleading certificate of compliance | $1 250 | $5 000
+r. 53(2) & 65 | Employing, engaging or instructing unlicensed person to carry out electrical work for which licence required | $1 000 | $4 000
+r. 53(3) & 65 | Employing, engaging or instructing electrical worker in training to carry out electrical work without electrician’s training licence | $1 000 | $4 000
+r. 54(1) | Unauthorised person signing notice of completion | $750 | $3 000
+r. 54(2) | Unauthorised person signing record of work carried out | $750 | $3 000
+r. 57(1) & 65 | Failing to maintain or keep record of employed licence holder | $200 | $800
+r. 57(3) & 65 | Failing to produce record of employed licence holder on request | $750 | $3 000
+r. 58(2) | Failing to produce licence and registration certificate on request | $750 | $3 000
+r. 59(1) | Falsifying any matter, presenting forged etc. document etc., impersonating another, making false etc. statement etc., or giving false testimonial | $1 250 | $5 000
+r. 62(1) & 65 | Electrical worker failing to report defect in installation or equipment | $750 | $3 000
+r. 62(2) & 65 | Employer failing to report reported defect in installation or equipment | $750 | $3 000
+r. 63(2) & 65 | Failing to report electrical accident | $750 | $3 000
+r. 63(3) & 65 | Network operator failing to report electrical accident to Director |  | $3 000
+r. 63(4) & 65 | Employee failing to report electrical accident to employer | $750 | $3 000
+Table 4 — Electricity (Supply Standards and System Safety) Regulations 2001 offences
+Provision(s) [to be read with r. 46] | Description of offence under Electricity (Supply Standards and System Safety) Regulations 2001 | Modified penalty
+For individual | For body corporate
+r. 14(2) | Network operator failing to give notice of major activity or outline of major activities |  | $3 000
+r. 30(2) | Failing to lodge report in respect of accepted safety case after an auditing period |  | $20 000
+r. 33(3)(a) | Failing to keep records at nominated address |  | $20 000
+r. 33(4) | Failing to keep record for 5 years |  | $20 000
+r. 35(1) | Failing to notify Director within required time of incident or event resulting in serious injury or serious damage |  | $20 000
+r. 36(2) | Failing to give Director within required time report of notifiable incident |  | $20 000
+[Schedule 1 inserted in Gazette 31 Dec 2010 p. 6888-92.]
