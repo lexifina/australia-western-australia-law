@@ -2,14 +2,13 @@ Notes
 This is a compilation of the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 | 24 of 2007 (as amended by No. 46 of 2010 s. 59-63, 65 and 66) | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; s. 3, Pt. 2 Div. 1 and 2 (s. 4-17) and s. 85(4): 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645): Pt. 2 Div. 9: 21 Feb 2009 (see s. 2(1) and Gazette 20 Feb 2009 p. 353); Pt. 2 Div. 11 and 14: 14 Aug 2010 (see s. 2(1), (4) and (5) and Gazette 13 Aug 2010 p. 4021 and Notices published in Gazette 13 Aug 2010 p. 4028) Pt. 2 Div. 7: 18 Dec 2010 (see s. 2(1) and Gazette 17 Dec 2010 p. 6349)
-Agriculture and Related Resources Protection Amendment Act 2010 Pt. 3 | 46 of 2010 | 28 Oct 2010 | 11 Dec 2010 (see s. 2(b) and Gazette 10 Dec 2010 p. 6261)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 | 24 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; s. 3, Pt. 2 Div. 1 and 2 (s. 4-17) and s. 85(4): 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645); Pt. 2 Div. 9: 21 Feb 2009 (see s. 2(1) and Gazette 20 Feb 2009 p. 353); Pt. 2 Div. 11 and 14: 14 Aug 2010 (see s. 2(1), (4) and (5) and Gazette 13 Aug 2010 p. 4021 and Notices published in Gazette 13 Aug 2010 p. 4028); Pt. 2 Div. 7: 18 Dec 2010 (see s. 2(1) and Gazette 17 Dec 2010 p. 6349)
+Agriculture and Related Resources Protection Amendment Act 2010 Pt. 3 (other than s. 59-61 & 65 & 66) | 46 of 2010 | 28 Oct 2010 | 11 Dec 2010 (see s. 2(b) and Gazette 10 Dec 2010 p. 6261)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-6, 8, 10, 12, 13 and 15-18 and Pt. 3 (except s. 85(4)) | 24 of 2007 (as amended by No. 46 of 2010 s. 59-63, 65 and 66) | 12 Oct 2007 | To be proclaimed (see s. 2)
-Acts Amendment (Fair Trading) Act 2010 s. 192 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-6, 8, 10, 12, 13 and 15 18 and Pt. 3 (except s. 85(4)) had not come into operation. They read as follows:
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-6, 8, 10, 12, 13 and 15-18 and Pt. 3 (other than s. 85(4)) | 24 of 2007 (as amended by No. 46 of 2010 s. 59-61, 65 and 66 and No. 58 of 2010 s. 192) | 12 Oct 2007 | To be proclaimed (see s. 2)
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-6, 8, 10, 12, 13 and 15-18 and Pt. 3 (other than s. 85(4)) (as amended by No. 46 of 2010 s. 59-61, 65 and 66 and No. 58 of 2010 s. 192) had not come into operation. They read as follows:
 “
 Division 3 — Aerial Spraying Control Act 1966
 18.Repeal
@@ -32,9 +31,10 @@ The Agricultural Products Act 1929 is repealed.
 (2) Schedule V Part 3 is amended by deleting “The Apple Sales Advisory Committee constituted under the Agricultural Products Act 1929.”.
 (3) Schedule V Part 3 is amended by deleting “The Citrus Sales Advisory Committee constituted under the Agricultural Products Act 1929.”.
 (4) Schedule V Part 3 is amended by deleting “The Stone-Fruit Sales Advisory Committee constituted under the Agricultural Products Act 1929.”.
-23.Consumer Affairs Act 1971 amended
-(1) The amendment in this section is to the Consumer Affairs Act 1971.
-(2) The Schedule is amended by deleting “Agricultural Products Act 1929.”.
+23.Fair Trading Act 2010 amended
+(1) This section amends the Fair Trading Act 2010.
+(2) In Schedule 1 delete “Agricultural Products Act 1929”.
+[Section 23 inserted by No. 58 of 2010 s. 192(2).]
 Subdivision 2 — Transitional and savings provisions
 24.Meaning of terms used in this Subdivision
 In this Subdivision —
@@ -64,9 +64,10 @@ Subdivision 1 — Repeal and consequential amendments
 “
 A plant that is a declared pest as that term is defined by the Biosecurity and Agriculture Management Act 2007
 ”.
-29.Consumer Affairs Act 1971 amended
-(1) The amendment in this section is to the Consumer Affairs Act 1971.
-(2) The Schedule is amended by deleting “Agriculture and Related Resources Protection Act 1976.”.
+29.Fair Trading Act 2010 amended
+(1) This section amends the Fair Trading Act 2010.
+(2) In Schedule 1 delete “Agriculture and Related Resources Protection Act 1976”.
+[Section 29 inserted by No. 58 of 2010 s. 192(3).]
 30A.Firearms Act 1973 amended
 (1) This section amends the Firearms Act 1973.
 (2) Delete section 17B(3)(c) and insert:
@@ -92,9 +93,10 @@ The Beekeepers Act 1963 is repealed.
 Division 12 — Fertilizers Act 1977
 60.Repeal
 The Fertilizers Act 1977 is repealed.
-61.Consumer Affairs Act 1971 amended
-(1) The amendment in this section is to the Consumer Affairs Act 1971.
-(2) The Schedule is amended by deleting “Fertilizers Act 1977.”.
+61.Fair Trading Act 2010 amended
+(1) This section amends the Fair Trading Act 2010.
+(2) In Schedule 1 delete “Fertilizers Act 1977”.
+[Section 61 inserted by No. 58 of 2010 s. 192(4).]
 Division 13 — Plant Diseases Act 1914
 Subdivision 1 — Repeal and consequential amendments
 62.Repeal
@@ -114,9 +116,10 @@ The Plant Diseases Act 1914 is repealed.
 orchard means any land used for the purpose of growing or cultivating plants, and includes any garden, farm, vinery, vineyard, and hothouse, any place where any plant is cultivated or where any plant which has been cultivated is growing;
 specified area means the portion of the State specified in a notice under section 11(1)(a)(ii) in relation to which the producers’ committee is established.
 ”.
-64.Consumer Affairs Act 1971 amended
-(1) The amendment in this section is to the Consumer Affairs Act 1971.
-(2) The Schedule is amended by deleting “Plant Diseases Act 1914.”.
+64.Fair Trading Act 2010 amended
+(1) This section amends the Fair Trading Act 2010.
+(2) In Schedule 1 delete “Plant Diseases Act 1914”.
+[Section 64 inserted by No. 58 of 2010 s. 192(5).]
 Subdivision 2 — Savings and transitional provisions
 65.Meaning of terms used in this Subdivision
 In this Subdivision —
@@ -134,9 +137,10 @@ If in an agreement, instrument or other document there is a reference to the for
 Division 15 — Seeds Act 1981
 74.Repeal
 The Seeds Act 1981 is repealed.
-75.Consumer Affairs Act 1971 amended
-(1) The amendment in this section is to the Consumer Affairs Act 1971.
-(2) The Schedule is amended by deleting “Seeds Act 1981.”.
+75.Fair Trading Act 2010 amended
+(1) This section amends the Fair Trading Act 2010.
+(2) In Schedule 1 delete “Seeds Act 1981”.
+[Section 75 inserted by No. 58 of 2010 s. 192(6).]
 Division 16 — Stock Diseases (Regulations) Act 1968
 76.Repeal
 The Stock Diseases (Regulations) Act 1968 is repealed.
@@ -186,9 +190,10 @@ repealed Act means the Stock (Identification and Movement) Act 1970.
 Division 18 — Veterinary Chemical Control and Animal Feeding Stuffs Act 1976
 82.Repeal
 The Veterinary Chemical Control and Animal Feeding Stuffs Act 1976 is repealed.
-83.Consumer Affairs Act 1971 amended
-(1) The amendment in this section is to the Consumer Affairs Act 1971.
-(2) The Schedule is amended by deleting “Veterinary Chemical Control and Animal Feeding Stuffs Act 1976.”.
+83.Fair Trading Act 2010 amended
+(1) This section amends the Fair Trading Act 2010.
+(2) In Schedule 1 delete “Veterinary Chemical Control and Animal Feeding Stuffs Act 1976”.
+[Section 83 inserted by No. 58 of 2010 s. 192(7).]
 Part 3 — Amendments consequential to enactment of Biosecurity and Agriculture Management Act 2007
 84.Animal Welfare Act 2002 amended
 (1) The amendments in this section are to the Animal Welfare Act 2002.
@@ -205,10 +210,11 @@ inspector means an inspector appointed under the Biosecurity and Agriculture Man
 ”.
 (3) Section 19(b) is amended by deleting “the Stock Diseases (Regulations) Act 1968” and inserting instead —
 “ the Biosecurity and Agriculture Management Act 2007 ”.
-86.Consumer Affairs Act 1971 amended
-(1) The amendment in this section is to the Consumer Affairs Act 1971.
-(2) The Schedule is amended by inserting in the appropriate alphabetical position —
-“ Biosecurity and Agriculture Management Act 2007. ”.
+86.Fair Trading Act 2010 amended
+(1) This section amends the Fair Trading Act 2010.
+(2) In Schedule 1 insert in alphabetical order:
+Biosecurity and Agriculture Management Act 2007
+[Section 86 inserted by No. 58 of 2010 s. 192(8).]
 87.Country Areas Water Supply Act 1947 amended
 (1) The amendments in this section are to the Country Areas Water Supply Act 1947.
 (2) Section 12C(1)(c) is amended by deleting “the Agriculture and Related Resources Protection Act 1976” and inserting instead —
@@ -309,35 +315,3 @@ for the purposes of the Biosecurity and Agriculture Management Act 2007 section 
 a declared pest as that term is defined in the Biosecurity and Agriculture Management Act 2007
 ”.
 ”.
-On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 s. 192 had not come into operation. It reads as follows:
-192.Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 amended
-(1) This section amends the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
-(2) Delete section 23 and insert:
-23.Fair Trading Act 2010 amended
-(1) This section amends the Fair Trading Act 2010.
-(2) In Schedule 1 delete “Agricultural Products Act 1929”.
-(3) Delete section 29 and insert:
-29.Fair Trading Act 2010 amended
-(1) This section amends the Fair Trading Act 2010.
-(2) In Schedule 1 delete “Agriculture and Related Resources Protection Act 1976”.
-(4) Delete section 61 and insert:
-61.Fair Trading Act 2010 amended
-(1) This section amends the Fair Trading Act 2010.
-(2) In Schedule 1 delete “Fertilizers Act 1977”.
-(5) Delete section 64 and insert:
-64.Fair Trading Act 2010 amended
-(1) This section amends the Fair Trading Act 2010.
-(2) In Schedule 1 delete “Plant Diseases Act 1914”.
-(6) Delete section 75 and insert:
-75.Fair Trading Act 2010 amended
-(1) This section amends the Fair Trading Act 2010.
-(2) In Schedule 1 delete “Seeds Act 1981”.
-(7) Delete section 83 and insert:
-83.Fair Trading Act 2010 amended
-(1) This section amends the Fair Trading Act 2010.
-(2) In Schedule 1 delete “Veterinary Chemical Control and Animal Feeding Stuffs Act 1976”.
-(8) Delete section 86 and insert:
-86.Fair Trading Act 2010 amended
-(1) This section amends the Fair Trading Act 2010.
-(2) In Schedule 1 insert in alphabetical order:
-Biosecurity and Agriculture Management Act 2007
