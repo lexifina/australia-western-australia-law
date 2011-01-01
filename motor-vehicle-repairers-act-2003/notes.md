@@ -10,11 +10,12 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 16 | 28 o
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 1: The Motor Vehicle Repairers Act 2003 as at 8 Feb 2008 (includes amendments listed above except those in the Motor Vehicle Repairers Act 2003 s. 4, Pt. 2 and 5, Pt. 6 (other than s. 65 and 69), Pt. 8, Pt. 9 (other than s. 89 and 90), s. 108 and 109, Sch. 1 and 2 and Sch. 3 cl. 1)
 Reprint 2: The Motor Vehicle Repairers Act 2003 as at 3 Oct 2008 (includes amendments listed above)
+Acts Amendment (Fair Trading) Act 2010 s. 54 and s. 178 | 58 of 2010 | 8 Dec 2010 | s. 54: 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805); s. 178: 1 Jan 2011 (see s. 2(b))
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Repairers Act 2003 s. 3(4) and 85(3)(b) | 68 of 2003 | 9 Dec 2003 | To be proclaimed (see s. 2)
-Acts Amendment (Fair Trading) Act 2010 Pt. 5 and s. 178 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
+Acts Amendment (Fair Trading) Act 2010 Pt. 5 (other than s. 54) | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 On the date as at which this reprint was prepared, the Motor Vehicle Repairers Act 2003 s. 3(4) and 85(3)(b) had not come into operation. They read as follows:
 “
 3.Terms used in this Act
@@ -23,37 +24,10 @@ On the date as at which this reprint was prepared, the Motor Vehicle Repairers A
 (3) The Board may appoint an authorised officer to assist it in investigating and conciliating the dispute and, for those purposes, may delegate to such an officer —
 (b) any power of the Board under section 14 of the Motor Vehicle Dealers Act 1973.
 ”.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 (other than s. 151) (as amended by Acts Amendment (Fair Trading) Act 2010 s. 184) reads as follows:
 “
 Division 23 — Transitional provisions
-151.Commissioner for Fair Trading
-(1) On commencement, the person holding the office of Commissioner for Fair Trading immediately before commencement is to be taken to have been designated as the Commissioner or Registrar (as the case requires) for the purposes of each of the following enactments —
-(a) the Associations Incorporation Act 1987;
-(b) the Business Names Act 1962;
-(c) the Chattel Securities Act 1987;
-(d) the Companies (Co-operative) Act 1943;
-(e) Part 8 of the Competition Policy Reform (Western Australia) Act 1996;
-(f) the Consumer Affairs Act 1971;
-(g) the Co-operative and Provident Societies Act 1903;
-(h) the Credit Act 1984;
-(i) the Credit (Administration) Act 1984;
-(j) the Employment Agents Act 1976;
-(k) the Hire-Purchase Act 1959;
-(l) the Limited Partnerships Act 1909;
-(m) the Motor Vehicle Dealers Act 1973;
-(n) the Petroleum Products Pricing Act 1983;
-(o) the Petroleum Retailers Rights and Liabilities Act 1982;
-(p) the Residential Tenancies Act 1987;
-(q) the Retirement Villages Act 1992;
-(r) the Travel Agents Act 1985.
-(2) A thing done or omitted to be done by, to or in relation to, the Commissioner for Fair Trading (including in his or her capacity as the Prices Commissioner) before commencement under a provision of the Consumer Affairs Act 1971 for the purposes of another enactment listed in subsection (1) has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted —
-(a) by, to or in relation to, the Commissioner or Registrar (as the case requires) as defined in that other enactment as in force after commencement; and
-(b) where relevant, under the corresponding provision of that other enactment as in force after commencement.
-(3) To the extent that a thing done or omitted to be done by, to or in relation to, the Commissioner for Fair Trading (including in his or her capacity as the Prices Commissioner) before commencement under, or for the purposes of, an enactment listed in subsection (1) is not covered by subsection (2), it has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the Commissioner or Registrar (as the case requires) as defined in that enactment as in force after commencement.
-(4) A thing done or omitted to be done by, to or in relation to, the Commissioner for Fair Trading before commencement under, or for the purposes of, an enactment not listed in subsection (1) has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the Commissioner as defined in the Consumer Affairs Act 1971 as in force after commencement.
-(5) A reference in an enactment to the Commissioner for Fair Trading is to have effect after commencement as if it had been amended to be a reference to —
-(a) in the case of an enactment listed in subsection (1) or subsidiary legislation made under such an enactment — the Commissioner or Registrar (as the case requires) as defined in the enactment as in force after commencement; or
-(b) in the case of any other enactment or subsidiary legislation — the Commissioner as defined in the Consumer Affairs Act 1971 as in force after commencement.
+[151.Deleted by No. 58 of 2010 s. 184.]
 152.Commissioner for Corporate Affairs and Registrar of Co-operative and Financial Institutions
 (1) A thing done or omitted to be done by, to or in relation to, the Commissioner for Corporate Affairs before commencement under, or for the purposes of, the Companies (Co-operative) Act 1943 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
 (2) A thing done or omitted to be done by, to or in relation to, the Registrar of Co-operative and Financial Institutions before commencement under, or for the purposes of, the Co-operative and Provident Societies Act 1903 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
@@ -67,7 +41,7 @@ commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
-On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 Pt. 5 and s. 178 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 Pt. 5 (other than s. 54) had not come into operation. They read as follows:
 Part 5 — Motor Vehicle Repairers Act 2003 amended
 51.Act amended
 This Part amends the Motor Vehicle Repairers Act 2003.
@@ -84,10 +58,6 @@ Commissioner has the meaning given in the Fair Trading Act 2010 section 6;
 (3) In the definition of repairer’s certificate delete “42;” and insert:
 42.
 (4) Delete section 3(4).
-54.Section 7 replaced
-Delete section 7 and insert:
-7.Powers of investigation
-The Fair Trading Act 2010 section 61 and Part 6 of that Act apply to this Act.
 55.Section 21 deleted
 Delete section 21.
 56.Section 32 amended
@@ -312,10 +282,6 @@ The heading to amended section 59 is to read:
 Authorisation of premises
 The heading to amended section 69 is to read:
 Notification of a person’s conviction
-178.Motor Vehicle Repairers Act 2003 amended
-(1) This section amends the Motor Vehicle Repairers Act 2003.
-(2) In section 3(1) delete the definition of Commissioner and insert:
-Commissioner has the meaning given in the Fair Trading Act 2010 section 6;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

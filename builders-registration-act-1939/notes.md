@@ -67,11 +67,11 @@ Reprint 12: The Builders’ Registration Act 1939 as at 12 Sep 2008 (includes am
 Legal Profession Act 2008 s. 641 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Acts Amendment (Bankruptcy) Act 2009 s. 13 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Acts Amendment (Fair Trading) Act 2010 s. 179 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 33(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Acts Amendment (Fair Trading) Act 2010 s. 179 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Repealed by the Architects Act 2004.
 In this compilation the renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and retained in subsequent reprints has again been retained. References to the original numbering are contained in the 1943 reprint.
@@ -80,26 +80,15 @@ The Builders’ Registration Amendment Act 1986 s. 11(2) is a transitional provi
 The Builders’ Registration Amendment Act 1990 s. 16(2) and (3) are transitional provisions that are of no further effect.
 The Builders’ Registration Amendment Act 1991 s. 16(2) is a transitional provision that is of no further effect.
 The Building Legislation Amendment Act 2000 s. 59 and 62 read as follows:
-“
 59.References to Committee in other written laws
 A reference in any written law to the Building Disputes Committee constituted under the Builders’ Registration Act 1939 is to be read and construed as a reference to the Building Disputes Tribunal under that Act as amended by this Act.
 62.Review
 (1) The Minister is to carry out a review of the operation and effectiveness of the amendments made by this Act as soon as is practicable after the expiration of 3 years from the commencement of section 1 of this Act.
 (2) The Minister is to prepare a report based on the review made under subsection (1) and, as soon as is practicable after the report is prepared, is to cause it to be laid before each House of Parliament.
-”.
 The Building Legislation Amendment Act 2000 s. 60 is a transitional provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 33(2) had not come into operation. It reads as follows:
-“
 (2) Section 5AA(2)(a) of the Builders’ Registration Act 1939 is amended by deleting “, including rights under the Superannuation and Family Benefits Act 1938,”.
-”.
-On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 s. 179 had not come into operation. It reads as follows:
-179.Builders’ Registration Act 1939 amended
-(1) This section amends the Builders’ Registration Act 1939.
-(2) In section 4A(5) delete “section 4(1) of the Consumer Affairs Act 1971” and insert:
-the Fair Trading Act 2010 section 6
-(3) In section 37(3) delete “section 4(1) of the Consumer Affairs Act 1971” and insert:
-the Fair Trading Act 2010 section 6
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
