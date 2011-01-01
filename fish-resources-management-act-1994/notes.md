@@ -14,25 +14,25 @@ Acts Amendment (Australian Datum) Act 2000 s. 3 | 54 of 2000 | 28 Nov 2000 | 8 N
 Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Fish Resources Management Amendment Act 2002 | 2 of 2002 | 9 Apr 2002 | 9 Apr 2002 (see s. 2)
 Animal Welfare Act 2002 s. 96 | 33 of 2002 | 15 Nov 2002 | 4 Apr 2003 (see s. 2 and Gazette 4 Apr 2003 p. 1023)
+Offshore Minerals (Consequential Amendments) Act 2003 Pt. 4 | 12 of 2003 | 17 Apr 2003 | 1 Jan 2011 (see s. 2 and Gazette 17 Dec 2010 p. 6350)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 63 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 36 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 56 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 (Sch. 1 cl. 65) | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 51 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 2: The Fish Resources Management Act 1994 as at 11 Mar 2005 (includes amendments listed above except those in the Courts Legislation Amendment and Repeal Act 2004 and the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004)
+Reprint 2: The Fish Resources Management Act 1994 as at 11 Mar 2005 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 4, the Courts Legislation Amendment and Repeal Act 2004 and the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 8 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Fish Resources Management Amendment Act 2007 | 28 of 2007 | 26 Oct 2007 | 26 Oct 2007 (see s. 2)
 Petroleum Amendment Act 2007 s. 94 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
-Reprint 3: The Fish Resources Management Act 1994 as at 16 May 2008 (includes amendments listed above)
+Reprint 3: The Fish Resources Management Act 1994 as at 16 May 2008 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 4)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 60 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Fish Resources Management Amendment Act 2009 | 37 of 2009 | 3 Dec 2009 | s. 1 and 2: 3 Dec 2009 (see s. 2(a)); Act other than s. 1 and 2: 31 Jul 2010 (see s. 2(b) and Gazette 30 Jul 2010 p. 3493)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Offshore Minerals (Consequential Amendments) Act 2003 Pt. 4 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The Fish Resources Management Amendment Act 2002 s. 8(2)-(4) read as follows:
@@ -82,13 +82,7 @@ Division 5 — Transitional provisions
 commencement means the time at which section 232 comes into operation.
 ”.
 The requirement to appoint an Executive Director was removed from the Act and references to the Executive Director were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 8 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
-On the date as at which this compilation was prepared, the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 4 had not come into operation. It reads as follows:
-“
-Part 4 — Amendment to Fish Resources Management Act 1994
-16.Section 114 amended
-Section 114 of the Fish Resources Management Act 1994 is amended by inserting after “Mining Act 1978,” —
-“ the Offshore Minerals Act 2003, ”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 had not come into operation. It reads as follows:
 “
 89.Fish Resources Management Act 1994 amended

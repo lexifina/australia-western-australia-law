@@ -33,31 +33,28 @@ Criminal Investigation (Identifying People) Act 2002 s. 96 | 6 of 2002 | 4 Jun 2
 Labour Relations Reform Act 2002 s. 17 | 20 of 2002 | 8 Jul 2002 | 15 Sep 2002 (see s. 2 and Gazette 6 Sep 2002 p. 4487)
 Fire and Emergency Services Legislation Amendment Act 2002 s. 41 | 38 of 2002 | 20 Nov 2002 | 30 Nov 2002 (see s. 2 and Gazette 29 Nov 2002 p. 5651-2)
 Conservation and Land Management Amendment Act 2002 | 43 of 2002 | 11 Dec 2002 | 11 Dec 2002 (see s. 2)
-Reprint 4: The Conservation and Land Management Act 1984 as at 24 Apr 2003 (includes amendments listed above)
+Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3 | 12 of 2003 | 17 Apr 2003 | 1 Jan 2011 (see s. 2 and Gazette 17 Dec 2010 p. 6350)
+Reprint 4: The Conservation and Land Management Act 1984 as at 24 Apr 2003 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 47 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 20 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
 Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 5 | 70 of 2003 | 15 Dec 2003 | 21 Apr 2004 (see s. 2 and Gazette 20 Apr 2004 p. 1297)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 21(2) and 39(1)-(10) | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
-Reprint 5: The Conservation and Land Management Act 1984 as at 24 Sep 2004 (includes amendments listed above)
+Reprint 5: The Conservation and Land Management Act 1984 as at 24 Sep 2004 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-Reprint 6: The Conservation and Land Management Act 1984 as at 9 Jun 2006 (includes amendments listed above)
+Reprint 6: The Conservation and Land Management Act 1984 as at 9 Jun 2006 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1 14-16 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Petroleum Amendment Act 2007 s. 92 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Water Resources Legislation Amendment Act 2007 s. 191 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
-Reprint 7: The Conservation and Land Management Act 1984 as at 4 Apr 2008 (includes amendments listed above)
+Reprint 7: The Conservation and Land Management Act 1984 as at 4 Apr 2008 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 34 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 19 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4, 44(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of the Offshore Minerals Act 2003 (see s. 2)
 The Land Act 1933 was repealed by section 281 of the Land Administration Act 1997.
 The Forests Act 1918 was repealed by s. 147(1) of this Act.
 The Acts Amendment (Marine Reserves) Act 1997 s. 7(2) reads as follows:
@@ -215,33 +212,6 @@ and, unless the contrary intention appears, other words and expressions in this 
 The requirement to appoint an Executive Director was removed from the Act and references to the Executive Director were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
 The requirement to establish the Department of Conservation and Land Management was removed from the Act, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 453 of that Act is a general transitional provision that applies to references to the Department of Conservation and Land Management in written laws.
 The Conservation and Land Management Amendment Act 1991 s. 51 had not come into operation when it was deleted by the Statutes (Repeal and Miscellaneous Amendment) Act 2009 s. 35(2).
-On the date as at which this reprint was prepared, the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3 had not come into operation. It reads as follows:
-“
-Part 3 — Amendments to Conservation and Land Management Act 1984
-11.The Act amended by this Part
-The amendments in this Part are to the Conservation and Land Management Act 1984.
-12.Section 3 amended
-Section 3 is amended, in the definition of “Minister for Mines”, by inserting after “Mining Act 1978,” —
-“ the Offshore Minerals Act 2003, ”.
-13.Section 4 amended
-Section 4(1) is amended by inserting after “Mining Act 1978,” —
-“ the Offshore Minerals Act 2003, ”.
-14.Section 13C amended
-(1) Section 13C(2) is amended, in the definition of “commercial purposes”, by inserting after paragraph (b) the following paragraph —
-“
-(ba)exploration for and recovery of minerals under the Offshore Minerals Act 2003;
-”.
-(2) Section 13C(7) is amended as follows:
-(a) after paragraph (a) by deleting “and” and inserting —
-“
-(aa)exploration for and recovery of minerals under the Offshore Minerals Act 2003; and
-”;
-(b) in paragraph (b) by deleting “those Acts” and inserting instead —
-“ the Acts mentioned in paragraphs (a) and (aa) ”.
-15.Section 60 amended
-Section 60(2b) is amended by inserting after “Mining Act 1978,” —
-“ the Offshore Minerals Act 2003, ”.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
