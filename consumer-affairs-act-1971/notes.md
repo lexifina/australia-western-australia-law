@@ -45,11 +45,7 @@ Legal Profession Act 2008 s. 651 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Reprint 6: The Consumer Affairs Act 1971 as at 24 Oct 2008 (includes amendments listed above except those in the Legal Profession Act 2008)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Trade Measurement Legislation (Amendment and Expiry) Act 2010 s. 9 | 54 of 2010 | 8 Dec 2010 | 8 Dec 2010 (see s. 2(b)(ii))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 23, 29, 61, 64, 75, 83 and 86 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
-Fair Trading Act 2010 Pt. 10 Div. 1 | 57 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(b))
+Fair Trading Act 2010 Pt. 10 Div. 1 | 57 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(b) and Gazette 24 Dec 2010 p. 6805)
 Legal Practitioners Amendment (Disciplinary and Miscellaneous Provisions) Act 1992 Pt. 2 came into operation on 1 Feb 1993 (see s. 3(a) and Gazette 26 Jan 1993 p. 823).
 Repealed by the Acts Amendment and Repeal (Fair Trading) Act 1988.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -106,59 +102,12 @@ commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 23, 29, 61, 64, 75, 83 and 86 had not come into operation. They read as follows:
-“
-23.Consumer Affairs Act 1971 amended
-(1) The amendment in this section is to the Consumer Affairs Act 1971.
-(2) The Schedule is amended by deleting “Agricultural Products Act 1929.”.
-29.Consumer Affairs Act 1971 amended
-(1) The amendment in this section is to the Consumer Affairs Act 1971.
-(2) The Schedule is amended by deleting “Agriculture and Related Resources Protection Act 1976.”.
-61.Consumer Affairs Act 1971 amended
-(1) The amendment in this section is to the Consumer Affairs Act 1971.
-(2) The Schedule is amended by deleting “Fertilizers Act 1977.”.
-64.Consumer Affairs Act 1971 amended
-(1) The amendment in this section is to the Consumer Affairs Act 1971.
-(2) The Schedule is amended by deleting “Plant Diseases Act 1914.”.
-75.Consumer Affairs Act 1971 amended
-(1) The amendment in this section is to the Consumer Affairs Act 1971.
-(2) The Schedule is amended by deleting “Seeds Act 1981.”.
-83.Consumer Affairs Act 1971 amended
-(1) The amendment in this section is to the Consumer Affairs Act 1971.
-(2) The Schedule is amended by deleting “Veterinary Chemical Control and Animal Feeding Stuffs Act 1976.”.
-86.Consumer Affairs Act 1971 amended
-(1) The amendment in this section is to the Consumer Affairs Act 1971.
-(2) The Schedule is amended by inserting in the appropriate alphabetical position —
-“ Biosecurity and Agriculture Management Act 2007. ”.
-”.
-On the date as at which this compilation was prepared, the Fair Trading Act 2010 Pt. 10 Div. 1 had not come into operation. It reads as follows:
-Part 10 — Amendments
-Division 1 — Consumer Affairs Act 1971 amended
-122.Act amended
-This Division amends the Consumer Affairs Act 1971.
-123.Sections 2A to 2D inserted
-After section 2 insert:
-2A.Application of Act limited
-(1) This Act does not apply on or after the date on which the Fair Trading Act 2010 Part 10 comes into force.
-(2) This section is subject to sections 2C and 2D.
-2B.Expiry of Act
-(1) This Act expires on a day fixed by proclamation.
-(2) A proclamation cannot be made under subsection (1) unless the Commissioner has given the Minister a certificate signed by the Commissioner stating that the operation of this Act is no longer necessary.
-(3) In subsection (2) —
-Commissioner has the meaning given in the Fair Trading Act 2010 section 6.
-2C.Act continues to apply for certain purposes
-(1) In this section —
-commencement day means the day on which the Fair Trading Act 2010 Part 10 comes into force.
-(2) This Act continues to apply on and after the commencement day only for the following purposes —
-(a) the investigation and prosecution of offences against this Act committed before the commencement day;
-(b) the continuation, settlement or discontinuation of proceedings, under or in relation to this Act, that were commenced, but not concluded, before the commencement day.
-2D.Acts or omissions that occurred before the commencement day
-(1) This Act continues to apply on and after the commencement day (as defined in section 2C(1)) in relation to acts or omissions that occurred before the commencement day.
-(2) Without limiting subsection (1), action may be taken under this Act in relation to those acts or omissions.
+The Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 23, 29, 61, 64, 75, 83 and 86 (as enacted) proposed to amend this Act. However those sections were deleted by the Acts Amendment (Fair Trading) Act 2010 s. 192 before they came into operation.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-Commissioner4(1)
+commencement day2C
+Commissioner2B, 4(1)
 Committee4(1)
 component part23B
 consumer4(1)
