@@ -51,6 +51,7 @@ Mining Amendment Act 2000 | 63 of 2000 | 4 Dec 2000 | s. 1 and 2: 4 Dec 2000; Ac
 Corporations (Consequential Amendments) Act 2001 Pt. 39 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Reprint of the Mining Act 1978 as at 7 Sep 2001 (includes amendments listed above except those in the Mining Amendment Act 1996 s. 3, 4, 6, 8, 11, 12 and 14-22)
 Mining Amendment Act 2002 | 15 of 2002 | 8 Jul 2002 | s. 1 and 2: 8 Jul 2002; s. 23: 15 Jul 2001 (see s. 2(3) and Cwlth. Gazette 13 Jul 2001 No. S285); Act other than s. 1, 2, 12 and 23: 18 Jan 2003 (see s. 2(1) and (2) and Gazette 17 Jan 2003 p. 105); Proclamation published 14 Jan 2005 p. 164 revoked (see Gazette 24 Mar 2005 p. 1001); s. 12: 10 Feb 2006 (see s. 2(2) and Gazette 3 Feb 2006 p. 516)
+Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2 | 12 of 2003 | 17 Apr 2003 | 1 Jan 2011 (see s. 2 and Gazette 17 Dec 2010 p. 6350)
 Acts Amendment (Equality of Status) Act 2003 Pt. 46 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 52 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Mining Amendment Act 2004 | 39 of 2004 (as amended by No. 19 of 2008 Pt. 2) | 3 Nov 2004 | s. 1 and 2: 3 Nov 2004; Proclamation published 14 Jan 2005 p. 164 revoked (see Gazette 24 Mar 2005 p. 1002); Act other than s. 1 and 2 and Pt. 9: 10 Feb 2006 (see s. 2 and Gazette 3 Feb 2006 p. 516); Pt. 9: 31 Mar 2007 (see s. 2 and Gazette 9 Mar 2007 p. 847)
@@ -62,12 +63,12 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 15 (s. 61-62) | 24 of 2005 | 2 Dec 2005 | s. 61: 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244); s. 62: 31 Mar 2007 (see s. 2(3) and Gazette 9 Mar 2007 p. 847)
 Mining Amendment Act 2005 | 27 of 2005 | 12 Dec 2005 | s. 1 and 2: 12 Dec 2005; Act other than s. 1 and 2: 10 Feb 2006 (see s. 2 and Gazette 3 Feb 2006 p. 516)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-Reprint 6: The Mining Act 1978 as at 10 Apr 2006 (includes amendments listed above except those in the Mining Amendment Act 2004 Pt. 9 and the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 62)
+Reprint 6: The Mining Act 1978 as at 10 Apr 2006 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2, the Mining Amendment Act 2004 Pt. 9 and the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 62)
 Petroleum Amendment Act 2007 s. 100 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Legal Profession Act 2008 s. 681 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Revenue Laws Amendment Act (No. 2) 2008 Pt. 2 Div. 2 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 8 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
-Reprint 7: The Mining Act 1978 as at 3 Jul 2009 (includes amendments listed above)
+Reprint 7: The Mining Act 1978 as at 3 Jul 2009 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2)
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 6 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
@@ -75,7 +76,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2 | 12 of 2003 | 17 Apr 2003 | Operative on commencement of No. 10 of 2003 (see s. 2)
 Approvals and Related Reforms (No. 2) (Mining) Act 2010 Pt. 2 and 3 | 12 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
@@ -347,67 +347,6 @@ Immediately before section 91 the following section is inserted —
 90A.This Division subject to Native Title (State Provisions) Act 1999
 (1)The operation of this Division is subject to section 2.6, 3.5 or 4.3, as the case may be, of the Native Title (State Provisions) Act 1999 where the grant of a miscellaneous licence is a Part 2 act, a Part 3 act or a Part 4 act within the meaning of that Act.
 (2)The provisions relating to objections to the granting of an application that apply for the purposes of this Division do not apply to an objection of the kind referred to in section 2.16, 3.15 or 4.11 of the Native Title (State Provisions) Act 1999, and objections of that kind can only be made under that Act.
-”.
-On the date as at which this compilation was prepared, the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Amendments to Mining Act 1978
-3.The Act amended by this Part
-The amendments in this Part are to the Mining Act 1978.
-4.Section 8 amended
-(1) Section 8(1) is amended, in the definition of Crown land, by deleting “in the State,”.
-(2) Section 8(1) is amended, in the definition of land, by deleting “includes the foreshore and the sea bed within the meaning of section 25” and inserting instead —
-“
-includes —
-(a)the foreshore as defined in section 25(1)(a); and
-(b)the sea bed and subsoil between the mean low water springs level and the inner limits of the coastal waters of the State as defined in section 16(1) and (2) of the Offshore Minerals Act 2003
-”.
-5.Section 9 amended
-Section 9(1) is amended by deleting “in the State” in both places where it appears.
-6.Section 9A inserted
-After section 9 the following section is inserted in Part I —
-“
-9A.Effect of change of baseline
-(1)If —
-(a)an offshore area is covered by a mining tenement;
-(b)there is a change to the inner limit of the coastal waters of the State as defined in section 16(1) and (2) of the Offshore Minerals Act 2003; and
-(c)as a result of the change the offshore area comes within those coastal waters,
-this Act applies, while the tenement or any successor tenement remains in force, as if the area were still within the offshore area.
-(2)In subsection (1) —
-offshore area means an area that comes within paragraph (b) of the definition of “land” in section 8(1).
-(3)If —
-(a)a mining lease takes effect immediately after an exploration licence expires; and
-(b)the holder of the mining lease immediately after it takes effect was the holder of the exploration licence immediately before it expired,
-the mining lease is a successor tenement to the exploration licence for the purposes of subsection (1).
-(4)If —
-(a)a retention licence takes effect immediately after an exploration licence expires; and
-(b)the holder of the retention licence immediately after it takes effect was the holder of the exploration licence immediately before it expired,
-the retention licence is a successor tenement to the exploration licence for the purposes of subsection (1).
-(5)If —
-(a)a mining lease takes effect immediately after a retention licence expires; and
-(b)the retention licence took effect immediately after an exploration licence expired; and
-(c)the holder of the mining lease immediately after it takes effect was the holder of the retention licence immediately before it expired; and
-(d)the holder of the retention licence immediately after it took effect was the holder of the exploration licence immediately before it expired,
-the mining lease is a successor tenement to the exploration licence and the retention licence for the purposes of subsection (1).
-”.
-7.Section 16 amended
-Section 16(1)(a) is amended by inserting after “State” —
-“
-, including any area that comes within paragraph (b) of the definition of “land” in section 8(1),
-”.
-8.Section 25 amended
-Section 25(1)(b) is amended by deleting “seaward limits of the territorial waters of the State” and inserting instead —
-“
-inner limits of the coastal waters of the State as defined in section 16(1) and (2) of the Offshore Minerals Act 2003
-”.
-9.Section 56C amended
-After section 56C(4) the following subsection is inserted —
-“
-(5)In subsection (2) —
-State includes any area that comes within paragraph (b) of the definition of “land” in section 8(1).
-”.
-10.Section 132 amended
-Section 132(2) is amended by inserting after “the State” —
-“
-, including any area that comes within paragraph (b) of the definition of “land” in section 8(1),
 ”.
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 2) (Mining) Act 2010 Pt. 2 and 3 had not come into operation. They read as follows:
@@ -698,6 +637,7 @@ mining tenement8(1)
 native title holders125A(3)
 new mining tenementSch. 2 cl. 10(1)(a)
 occupier8(1)
+offshore area9A
 oil shale8(1)
 old mining tenementSch. 2 cl. 10(1)(a)
 old mining tenementsSch. 2 cl. 10(1)(a)
