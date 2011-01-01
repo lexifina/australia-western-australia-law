@@ -13,7 +13,7 @@ Gas Standards (Gas Supply and System Safety) Amendment Regulations 2010 Pt. 2 | 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Gas Standards (Gas Supply and System Safety) Amendment Regulations (No. 2) 2009 r. 4(5), 11-13, 14(1) and (3), and 18 | 8 Jan 2010 p. 10-16 (as amended 15 Oct 2010 p. 5175) | r. 11-13 and 14(1) and (3) and 18: 8 Jan 2011 (see r. 2(c)) r. 4(5): 1 Jan 2012 (see r. 2(b))
+Gas Standards (Gas Supply and System Safety) Amendment Regulations (No. 2) 2009 r. 4(5), 11-13, 14(1) and (3), and 18 | 8 Jan 2010 p. 10-16 (as amended 15 Oct 2010 p. 5175 and 31 Dec 2010 p. 6893) | r. 11-13 and 14(1) and (3) and 18: 3 Aug 2011 (see r. 2(c) and Gazette 31 Dec 2010 p. 6892-3) r. 4(5): 1 Jan 2012 (see r. 2(b))
 On the date as at which this compilation was prepared, the Gas Standards (Gas Supply and System Safety) Amendment Regulations (No. 2) 2009 r. 4(5), 11-13, 14(1) and (3), and 18 (as amended by the Gas Standards (Gas Supply and System Safety) Amendment Regulations 2010 Pt. 3) had not come into operation. They read as follows:
 4.Regulation 5 amended
 (5) Delete regulation 5(2)(d) and “and” after it.
