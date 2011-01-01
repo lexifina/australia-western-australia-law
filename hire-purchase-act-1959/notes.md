@@ -38,42 +38,12 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 74 | 8 of 2009 | 21 
 Acts Amendment (Bankruptcy) Act 2009 s. 42 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 11 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
 Standardisation of Formatting Act 2010 s. 19 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Acts Amendment (Fair Trading) Act 2010 187 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
+Acts Amendment (Fair Trading) Act 2010 187 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805);
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 (other than s. 151) (as amended by Acts Amendment (Fair Trading) Act 2010 s. 184) reads as follows:
 “
 Division 23 — Transitional provisions
-151.Commissioner for Fair Trading
-(1) On commencement, the person holding the office of Commissioner for Fair Trading immediately before commencement is to be taken to have been designated as the Commissioner or Registrar (as the case requires) for the purposes of each of the following enactments —
-(a) the Associations Incorporation Act 1987;
-(b) the Business Names Act 1962;
-(c) the Chattel Securities Act 1987;
-(d) the Companies (Co-operative) Act 1943;
-(e) Part 8 of the Competition Policy Reform (Western Australia) Act 1996;
-(f) the Consumer Affairs Act 1971;
-(g) the Co-operative and Provident Societies Act 1903;
-(h) the Credit Act 1984;
-(i) the Credit (Administration) Act 1984;
-(j) the Employment Agents Act 1976;
-(k) the Hire-Purchase Act 1959;
-(l) the Limited Partnerships Act 1909;
-(m) the Motor Vehicle Dealers Act 1973;
-(n) the Petroleum Products Pricing Act 1983;
-(o) the Petroleum Retailers Rights and Liabilities Act 1982;
-(p) the Residential Tenancies Act 1987;
-(q) the Retirement Villages Act 1992;
-(r) the Travel Agents Act 1985.
-(2) A thing done or omitted to be done by, to or in relation to, the Commissioner for Fair Trading (including in his or her capacity as the Prices Commissioner) before commencement under a provision of the Consumer Affairs Act 1971 for the purposes of another enactment listed in subsection (1) has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted —
-(a) by, to or in relation to, the Commissioner or Registrar (as the case requires) as defined in that other enactment as in force after commencement; and
-(b) where relevant, under the corresponding provision of that other enactment as in force after commencement.
-(3) To the extent that a thing done or omitted to be done by, to or in relation to, the Commissioner for Fair Trading (including in his or her capacity as the Prices Commissioner) before commencement under, or for the purposes of, an enactment listed in subsection (1) is not covered by subsection (2), it has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the Commissioner or Registrar (as the case requires) as defined in that enactment as in force after commencement.
-(4) A thing done or omitted to be done by, to or in relation to, the Commissioner for Fair Trading before commencement under, or for the purposes of, an enactment not listed in subsection (1) has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the Commissioner as defined in the Consumer Affairs Act 1971 as in force after commencement.
-(5) A reference in an enactment to the Commissioner for Fair Trading is to have effect after commencement as if it had been amended to be a reference to —
-(a) in the case of an enactment listed in subsection (1) or subsidiary legislation made under such an enactment — the Commissioner or Registrar (as the case requires) as defined in the enactment as in force after commencement; or
-(b) in the case of any other enactment or subsidiary legislation — the Commissioner as defined in the Consumer Affairs Act 1971 as in force after commencement.
+[151.Deleted by No. 58 of 2010 s. 184.]
 152.Commissioner for Corporate Affairs and Registrar of Co-operative and Financial Institutions
 (1) A thing done or omitted to be done by, to or in relation to, the Commissioner for Corporate Affairs before commencement under, or for the purposes of, the Companies (Co-operative) Act 1943 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
 (2) A thing done or omitted to be done by, to or in relation to, the Registrar of Co-operative and Financial Institutions before commencement under, or for the purposes of, the Co-operative and Provident Societies Act 1903 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
@@ -88,9 +58,3 @@ Commissioner for Fair Trading means the Commissioner for Fair Trading referred t
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 24 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
-On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 s. 187 had not come into operation. It reads as follows:
-187.Hire-Purchase Act 1959 amended
-(1) This section amends the Hire-Purchase Act 1959.
-(2) Delete section 36C and insert:
-36C.Powers of investigation
-The Fair Trading Act 2010 section 61 and Part 6 of that Act apply to this Act.

@@ -35,11 +35,11 @@ Legal Profession Act 2008 s. 674 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Reprint 5: The Legal Aid Commission Act 1976 as at 19 Jun 2009 (includes amendments listed above)
 Acts Amendment (Bankruptcy) Act 2009 s. 50 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Acts Amendment (Fair Trading) Act 2010 s. 197 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 On the date as at which this compilationwas prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Acts Amendment (Fair Trading) Act 2010 s. 197 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 Appointed day 17 April 1978; see Gazette 17 March 1978 p. 800.
 Repealed by the Associations Incorporation Act 1987.
 Repealed by the Statute Stocktake Act 1999 s. 3 of the Commonwealth (No. 118 of 1999).
@@ -57,18 +57,13 @@ Act | Provision
 ...................... | ........
 Legal Aid Commission Act 1976 | s. 22
 ...................... | ........
-On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 s. 197 had not come into operation. It reads as follows:
-197.Legal Aid Commission Act 1976 amended
-(1) This section amends the Legal Aid Commission Act 1976.
-(2) In section 7(1)(b)(ii) delete “Consumer Affairs Act 1971” and insert:
-Fair Trading Act 2010
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 administrative information64(2b)
 applicant4(1)
-approved14(1b)
 appointed day4(1)
+approved14(1b)
 assisted person4(1)
 Attorney General4(1)
 Australian lawyer4(1)
@@ -84,7 +79,7 @@ court64(6)
 decision46
 Department37(3b)
 Director4(1)
-disclose64(2b) and (2c)
+disclose64(2b), 64(2c)
 disclosure64(2b)
 law practice4(1)
 Law Society4(1)
