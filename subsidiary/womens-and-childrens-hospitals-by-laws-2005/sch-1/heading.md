@@ -15,6 +15,7 @@ King Edward Memorial Hospital for Women
 12 | Portion of Perth Suburban Lot 228, being Lot 21 and part of Lot 22 on Plan 1178
 13 | Crown Reserve 40541, Swan Location, Lot 11162
 14 | Unnumbered Rail Reserve shown on Public Transport Authority Plan 2106 (Railway Road Reserve, Daglish) So much of the Reserve as is leased from the Public Transport Authority for the purposes of the Hospital while it is leased for that purpose.
+15 | Perth Suburban Lot 10 on Plan 489551 (10 Oxford Close, West Leederville)
 Princess Margaret Hospital for Children
  | Main site and surrounding car parks
 1 | Perth Lot 903 on Diagram 82676
@@ -32,7 +33,7 @@ Princess Margaret Hospital for Children
 13 | Portion of Perth Town Lot H119, being Lot 1 on Diagram 20062
 14 | Portion of Perth Town Lot H119, being Lot 2 on Diagram 20062
  | Other sites
-[15 | deleted]
+15 | Perth Suburban Lot 56 on Plan 79450 (1260 Hay Street, West Perth)
 16 | Certificate of Title Volume 483 Folio 133 being portion of Perth Town Lot H117 and being Lot 53 and part of Lot 56 on Plan 123 (36-38 Hay Street, Subiaco) while it is leased for the purposes of the Hospital
 17 | Certificate of Title Volume 1401 Folio 380 being portion of Perth Town Lot H117 and being Lot 54 and part of Lots 55 and 56 on Plan 123 (36-38 Hay Street, Subiaco) while it is leased for the purposes of the Hospital
 18 | Certificate of Title Volume 1409 Folio 836 being portion of Perth Town Lot H117 and being Lot 54 and part of Lots 55 and 56 on Plan 123 (36-38 Hay Street, Subiaco) while it is leased for the purposes of the Hospital
@@ -44,4 +45,4 @@ State Child Development Centre
  | Crown Reserve 33853. Lot 890
 Stubbs Terrace Hospital
  | Part of Crown Reserve 20074 bounded by Stubbs Terrace to the east, Grace Vaughan House to the north and perimeter fences to the south and west.
-[Schedule 1 amended in Gazette 22 May 2009 p. 1699.]
+[Schedule 1 amended in Gazette 22 May 2009 p. 1699; 26Nov 2010 p. 5951-2.]
