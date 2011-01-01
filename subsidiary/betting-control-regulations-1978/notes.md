@@ -54,37 +54,8 @@ Betting Control Amendment Regulations (No. 3) 2009 | 25 Sep 2009 p. 3751-2 | r. 
 Betting Control Amendment Regulations (No. 4) 2009 | 30 Oct 2009 p. 4312-13 | r. 1 and 2: 30 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
 Betting Control Amendment Regulations (No. 5) 2009 | 8 Jan 2010 p. 19-27 | r. 1 and 2: 8 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jan 2010 (see r. 2(b) and Gazette 8 Jan 2010 p. 9-10)
 Reprint 6: The Betting Control Regulations 1978 as at 9 Apr 2010 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Betting Control Amendment Regulations (No. 3) 2010 r. 3-6 | 19 Nov 2010 p. 5739-40 | 1 Jan 2011 (see r. 2(b))
+Betting Control Amendment Regulations (No. 3) 2010 | 19 Nov 2010 p. 5739-40 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
 Under the Alteration of Statutory Designations Order (No. 2) 1996 a reference in any law to the Commissioner of State Taxation is read and construed as a reference to the Commissioner of State Revenue unless the contrary intention appears.
-On the date as at which this compilation was prepared, the Betting Control Amendment Regulations (No. 3) 2010 r. 3-6 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Betting Control Regulations 1978.
-4.Regulation 17 amended
-In regulation 17(1) amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 17(1)(aa) | $40 | $45
-r. 17(1)(ac) | $310 | $315
-r. 17(1)(ad) | $65 | $70
-r. 17(1)(a) | $620 | $635
-r. 17(1)(bb) | $80 | $85
-r. 17(1)(d) | $4 | $4.50
-r. 17(1)(f) | $575 | $590
-5.Regulation 17A amended
-In regulation 17A(1) amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 17A(1)(a)(i) | $340 | $345
-r. 17A(1)(a)(ii) | $685 | $700
-r. 17A(1)(a)(iii) | $1 030 | $1 050
-6.Regulation 17B amended
-Delete regulation 17B(1)(a)(i) to (iii) and insert:
-(i) on total turnover not exceeding $10 000 — no fee;
-(ii) on total turnover greater than $10 000 but not exceeding $150 000 — $45;
-(iii) on total turnover greater than $150 000 — 0.03% of the turnover,
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
