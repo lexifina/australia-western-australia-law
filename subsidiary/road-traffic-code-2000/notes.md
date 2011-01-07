@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic Code 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 January 2011 of the Road Traffic Code 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic Code 2000 | 4 Aug 2000 p. 4213-538 | 1 Dec 2000 (see r. 2)
@@ -40,20 +40,21 @@ Road Traffic Code Amendment Regulations 2009 | 13 Nov 2009 p. 4561-615 | r. 1 an
 Road Traffic Code Amendment Regulations (No. 2) 2010 | 4 Jun 2010 p. 2395-415 | r. 1 and 2: 4 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2010 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 3) 2010 | 19 Nov 2010 p. 5749-57 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Regulations other than r. 1, 2, 22 and 23: 20 Nov 2010 (see r. 2(c))
 Road Traffic Code Amendment Regulations 2010 | 26 Nov 2010 p. 5958-9 | r. 1 and 2: 26 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Nov 2010 (see r. 2(b))
-Road Traffic (Towed Agricultural Implements) Amendment Regulations 2010 Pt. 3 | 7 Dec 2010 p. 6096-100 | r. 1 and 2: 7 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2010 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Road Traffic (Towed Agricultural Implements) Amendment Regulations 2010 Pt. 3 | 7 Dec 2010 p. 6096-100 | 8 Dec 2010 (see r. 2(b))
+Reprint 3: The Road Traffic Code 2000 as at 7 Jan 2011 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Road Traffic Code Amendment Regulations (No. 3) 2010 r. 22 and 23 | 19 Nov 2010 p. 5749-57 | 1 Mar 2011 (see r. 2(b))
+Repealed by the Dangerous Goods Safety Act 2004.
+Repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
-“
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
-”.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-The Road Traffic Amendment Regulations (No. 4) 2000 r. 5 is not included because of an error in the reference to the provision to be amended.
+The Road Traffic Code Amendment Regulations (No. 4) 2000 r. 5 is not included because of an error in the reference to the provision to be amended.
 The commencement date of 1 Oct 2007 that was specified in r. 2(b) was before the date of gazettal.
-On the date as at which this compilation was prepared, the Road Traffic Code Amendment Regulations (No. 3) 2010 r. 22 and 23 had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Road Traffic Code Amendment Regulations (No. 3) 2010 r. 22 and 23 had not come into operation. They read as follows:
 22.Regulation 264 amended
 (1) Delete regulation 264(2)(b) and insert:
 (b) the visual display unit is, or is part of, a driver’s aid and either —
@@ -89,18 +90,13 @@ Points: 3Modified penalty: 5 PU
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-“bus lane” road marking3(1)
-“end of heavy vehicle speed zone” sign3(1)
-“end trucks and buses low gear” sign90(3)
-“heavy vehicle speed zone” sign3(1)
-“trucks and buses low gear” sign90(3)
 abreast216(6)
 accredited pilot3(1)
 ACROD sticker3(1)
 agricultural implement289(3)
 agricultural machine289(3)
 alcohol ignition interlock device3(1)
-appliance181(4)
+appliance181(4)(b)
 arrester bed91A(1)
 articulated vehicle3(1)
 AS/NZS:1754-1991230
@@ -122,6 +118,7 @@ built-up area3(1)
 bus3(1)
 bus embayment3(1)
 bus lane3(1)
+“bus lane” road marking3(1)
 bus stop3(1)
 bus zone3(1)
 busway3(1)
@@ -144,6 +141,8 @@ edge line3(1)
 emergency stopping lane3(1)
 emergency vehicle3(1)
 emergency worker283(2)
+“end of heavy vehicle speed zone” sign3(1)
+“end trucks and buses low gear” sign90(3)
 fire hydrant3(1)
 footpath3(1)
 freeway3(1)
@@ -156,13 +155,14 @@ halfway around91(2)
 hazard warning lights188(2)
 heavy vehicle3(1), 191(1), 192(1)
 heavy vehicle speed zone3(1)
+“heavy vehicle speed zone” sign3(1)
 holiday period3(1)
 hook turn3(1)
 hours of darkness3(1)
 intersection3(1)
 keep clear marking3(1)
 laned carriageway3(1)
-leaves181(4)
+leaves181(4)(a)
 left lane21(3), 59(2)
 left line of traffic59(2)
 left turn signal91(1)
@@ -201,6 +201,7 @@ pedestrian3(1), 203(6)
 pedestrian crossing3(1)
 pedestrian light3(1)
 pedestrian mall3(1)
+performance standards258(7)
 permitted distance136(5)
 placard load184(4)
 postal vehicle3(1)
@@ -220,6 +221,7 @@ road marking3(1)
 road sign3(1)
 roadworks285(4)
 roundabout91(1)
+safety area197(3)(a), 198(3)(a)
 safety ramp91A(1)
 school zone3(1)
 school zone periods3(1)
@@ -247,9 +249,6 @@ suitable child safety harness230
 taxi3(1)
 taxi zone3(1)
 terminating road3(1)
-the performance standards258(7)
-the safety area197(3), 198(3)
-the Vehicle Standards3(1)
 T-intersection3(1)
 to become dislodged from257(5)
 tow truck3(1)
@@ -262,11 +261,12 @@ transit lane3(1)
 truck3(1)
 truck lane3(1)
 truck zone3(1)
+“trucks and buses low gear” sign90(3)
 turn line3(1)
 turning lane3(1)
 turning left34(1)
 turning left from the continuing road into the terminating road56(7)
-turning right34(2), 34(3)
+turning right34(2) and (3)
 turning right from the continuing road into the terminating road56(7)
 two-up driver230
 two-way carriageway3(1)
@@ -274,6 +274,7 @@ U turn3(1)
 unattended141(2), 163(2)
 unrestrained,235A(1)
 vehicle3(1)
+Vehicle Standards3(1)
 weekend3(1)
 wheeled recreational device3(1)
 wheeled toy3(1)
