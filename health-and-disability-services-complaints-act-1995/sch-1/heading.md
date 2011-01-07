@@ -13,4 +13,4 @@
 8.Physiotherapy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
 9.Podiatry Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
 10.Psychology Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-[Schedule 1 amended by No. 58 of 1997 s. 97; No. 28 of 2005 s. 108; No. 29 of 2005 s. 109; No. 30 of 2005 s. 109; No. 31 of 2005 s. 109; No. 32 of 2005 s. 109; No. 33 of 2005 s. 108; No. 42 of 2005 s. 109; No. 21 of 2006 s. 105; No. 50 of 2006 s. 114; No. 22 of 2008 s. 162; No. 37 of 2010 s. 91(1)-(3).]
+[Schedule 1 amended by No. 58 of 1997 s. 97; No. 28 of 2005 Sch. 3 cl. 6; No. 29 of 2005 Sch. 3 cl. 4; No. 30 of 2005 Sch. 3 cl. 4; No. 31 of 2005 Sch. 3 cl. 4; No. 32 of 2005 Sch. 3 cl. 4; No. 33 of 2005 Sch. 3 cl. 4(5); No. 42 of 2005 Sch. 3 cl. 4; No. 21 of 2006 Sch. 3 cl. 4; No. 50 of 2006 Sch. 3 cl. 11; No. 22 of 2008 Sch. 3 cl. 26; No. 35 of 2010 s. 91(1)-(3).]
