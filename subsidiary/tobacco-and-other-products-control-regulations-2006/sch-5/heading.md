@@ -5,9 +5,9 @@ Form 1 — Infringement notice
 Tobacco Products Control Act 2006 Infringement notice | Infringement notice no.
 Alleged offender | Name:Family name
 Given names
-orCompany name _____________________________________________ ACN
-Address _____________________________________________ Postcode
-Alleged offence | Description of offence _____________________________________________
+orCompany name ______________________________________________ ACN
+Address ______________________________________________ Postcode
+Alleged offence | Description of offence ______________________________________________
 Tobacco Products Control Act 2006 s. or Tobacco Products Control Regulations 2006 r.
 Date //20Time a.m./p.m.
 Modified penalty $
@@ -21,11 +21,11 @@ Form 2 — Withdrawal of infringement notice
 Tobacco Products Control Act 2006 Withdrawal of infringement notice | Withdrawal no.
 Alleged offender | Name:Family name
 Given names
-orCompany name _____________________________________________ ACN
-Address _____________________________________________ Postcode
+orCompany name ______________________________________________ ACN
+Address ______________________________________________ Postcode
 Infringement notice | Infringement notice no.
 Date of issue //20
-Alleged offence | Description of offence _____________________________________________
+Alleged offence | Description of offence ______________________________________________
 Tobacco Products Control Act 2006 s. or Tobacco Products Control Regulations 2006 r.
 Date //20Timea.m./p.m.
 Officer withdrawing notice | Name
