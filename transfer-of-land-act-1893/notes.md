@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Transfer of Land Act 1893 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 January 2011 of the Transfer of Land Act 1893 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 The Transfer of Land Act 1893 | 1893 (56 Vict. No. 14) | 13 Jan 1893 | 13 Jan 1893
@@ -52,7 +52,7 @@ Land Administration Amendment Act 2000 s. 51 | 59 of 2000 | 7 Dec 2000 | 10 Apr 
 Reprint of the Transfer of Land Act 1893 as at 9 Feb 2001 (includes amendments listed above except those in the Land Administration Amendment Act 2000)
 Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth. Gazette 13 Jul 2001 No. S285)
 Taxation Administration (Consequential Provisions) Act 2002 s. 25 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2383)
-Transfer of Land Amendment Act 2003 s. 4-84 | 6 of 2003 | 25 Mar 2003 | Act other than s. 43, 46, 56, 57, 74, 80-82: 3 May 2003 (see s. 2 and Gazette 2 May 2003 p. 1491); s. 74, 80-82: 6 Sep 2004 (see s. 2 and Gazette 2 Sep 2004 p. 3821)
+Transfer of Land Amendment Act 2003 s. 4-42, 44-45, 47-55, 58-84 | 6 of 2003 | 25 Mar 2003 | Act other than s. 43, 46, 56, 57, 74, 80-82: 3 May 2003 (see s. 2 and Gazette 2 May 2003 p. 1491); s. 74, 80-82: 6 Sep 2004 (see s. 2 and Gazette 2 Sep 2004 p. 3821)
 Acts Amendment (Equality of Status) Act 2003 s. 129 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Acts Amendment (Carbon Rights and Tree Plantation Agreements) Act 2003 Pt. 5 | 56 of 2003 | 29 Oct 2003 | 24 Mar 2004 (see s. 2 and Gazette 23 Mar 2004 p. 975)
 Contaminated Sites Act 2003 s. 100 | 60 of 2003 | 7 Nov 2003 | 1 Dec 2006 (see s. 2 and Gazette 8 Aug 2006 p. 2899)
@@ -74,7 +74,8 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 10 | 8 of 2009 | 21 
 Reprint 9: The Transfer of Land Act 1893 as at 21 Aug 2009 (includes amendments listed above)
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 9 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Standardisation of Formatting Act 2010 s. 38, 43(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 10: The Transfer of Land Act 1893 as at 7 Jan 2011 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
@@ -89,7 +90,7 @@ The Acts Amendment (Land Administration) Act 1997 s. 94(2) reads as follows:
 Repealed by the Trustees Act 1962.
 The Transfer of Land Amendment Act 1996 s. 37(3) reads as follows:
 (3) Section 65 of and the Ninth Schedule to the principal Act as in force immediately before the commencement of subsection (1) continue to apply to all transfers, leases and certificates of title in effect before that commencement on which an easement was marked in accordance with those provisions.
-On the date as at which this compilation was prepared, the Western Australian Land Information Authority was principally assisting in the administration of the Transfer of Land Act 1893.
+On the date as at which this reprint was prepared, the Western Australian Land Information Authority was principally assisting in the administration of the Transfer of Land Act 1893.
 The Acts Amendment (Land Administration) Act 1997 s. 104(2) reads as follows:
 (2) A lease of Crown land (not being a Crown lease) granted before the commencement of this section, which lease would have been valid had it been granted as a lease under the Land Administration Act 1997, is validated by force of this subsection and is to be treated as if it were a lease registered under section 81Q of the principal Act as amended by this Act.
 Repealed by the Property Law Act 1969 Second Schedule.
@@ -110,7 +111,7 @@ The Transfer of Land Amendment Act 1996 s. 152 reads as follows:
 commencement means the day on which section 1 of this Act comes into operation.
 (2) The account called the “assurance fund” immediately before commencement is to be closed on commencement and the money that is in the account at the time when the account is being closed is to be credited to the Consolidated Fund.
 (3) Subsection (2) does not affect or prejudice the application of the Interpretation Act 1984 but a right, obligation or liability of, or in respect of, the assurance fund subsisting immediately before commencement becomes, on commencement, a right, obligation or liability of, or in respect of, the State in accordance with Part XI or XII of the principal Act, as the case requires.
-On the date as at which this compilation was prepared, the Transfer of Land Amendment Act 2003 s. 43, 46, 56 (as amended by No. 60 of 2003 s. 164) and 57 had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 (as amended by No. 60 of 2003 s. 164) had not come into operation. They read as follows:
 43.Section 136A amended
 Section 136A is amended by deleting “section 166 or 166A” and inserting instead —
 “ section 166(1), 166A(1) or 166C(2)(a) ”.
@@ -191,6 +192,7 @@ Crown lease4(1)
 dealing4(1)
 digital title4(1)
 disposition242(4)
+document54(4)
 encumbrance81RA(1)
 encumbrances4(1)
 endorsed4(1)
@@ -200,6 +202,7 @@ geothermal energy resources3(3)
 grant4(1)
 grantor4(1)
 graphic4(1)
+inspector of plans and surveys163(2)
 instrument4(1)
 interest4(1)
 judge4(1)
@@ -213,7 +216,7 @@ metropolitan region4(1)
 mining, petroleum or geothermal energy rights3(3)
 Minister for Lands4(1)
 ministerial order4(1)
-mortgage money126(1)(b)
+mortgage money126(1E)
 paper title4(1)
 person4(1)
 plan136A
@@ -228,6 +231,7 @@ qualified valuer4(1)
 Register4(1)
 register133(1)
 registered disposition242(4)
+relevant authority129BB(1)(b), 136J(1)(b)
 relevant carbon right104A
 relevant graphic4(1)
 repealed Act81K
@@ -241,12 +245,9 @@ sheriff’s dealing133(1)
 short form4(3)
 single dwelling covenant129C(1d)
 stamped81U(3)
-statutory declaration188(i)
+statutory declaration188(2)
 strata/survey-strata plan4(1)
 symbol4(1)
-the document54(4)
-the inspector of plans and surveys163(2)
-the relevant authority129BB(1)(b), 136J(1)(b)
 transitional period81K
 transmission4(1)
 tree plantation agreement4(1)
