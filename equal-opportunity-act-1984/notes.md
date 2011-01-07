@@ -1,11 +1,11 @@
 Notes
-This is a compilation of the Equal Opportunity Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 January 2011 of the Equal Opportunity Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Equal Opportunity Act 1984 | 83 of 1984 | 7 Dec 1984 | 8 Jul 1985 (see s. 2 and Gazette 5 Jul 1985 p. 2387)
+Equal Opportunity Act 1984 | 83 of 1984 | 7 Dec 1984 | s. 1 and 2: 7 Dec 1984; Act other than s. 1 and 2: 8 Jul 1985 (see s. 2 and Gazette 5 Jul 1985 p. 2387)
 Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
-Equal Opportunity Amendment Act 1988 | 40 of 1988 | 30 Nov 1988 | s. 14-26, 28 and 31-33: 30 Nov 1988 (see s. 2(2)); balance: 20 Jan 1989 (see s. 2(1) and Gazette 13 Jan 1989 p. 61)
-Equal Opportunity Amendment Act 1992 | 74 of 1992 | 11 Dec 1992 | s. 4-8, 10-31, 33-35 and 37-40: 8 Jan 1993 (see s. 2(2)); balance (subject to s. 9(2) and (3) and s. 36(2)): 11 Dec 1992 (see s. 2(1))
+Equal Opportunity Amendment Act 1988 | 40 of 1988 | 30 Nov 1988 | s. 1 and 2: 30 Nov 1988; s. 14-26, 28 and 31-33: 30 Nov 1988 (see s. 2(2)); s. 3-13, 27, 29-30: 20 Jan 1989 (see s. 2(1) and Gazette 13 Jan 1989 p. 61)
+Equal Opportunity Amendment Act 1992 | 74 of 1992 | 11 Dec 1992 | Act other than s. 4-8, 10-31, 33-35 and 37 –40 (subject to s. 9(2) and (3) and s. 36(2)): 11 Dec 1992 (see s. 2(1)); s. 4-8, 10-31, 33-35 and 37-40: 8 Jan 1993 (see s. 2(2))
 Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
 Energy Corporations (Transitional and Consequential Provisions) Act 1994 s. 109 | 89 of 1994 | 15 Dec 1994 | 1 Jan 1995 (see s. 2(2) and Gazette 23 Dec 1994 p. 7069)
 Sentencing (Consequential Provisions) Act 1995 s. 147 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
@@ -14,7 +14,7 @@ Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 
 Vocational Education and Training Act 1996 s. 71(1) | 42 of 1996 | 16 Oct 1996 | 1 Jan 1997 (see s. 2 and Gazette 12 Nov 1996 p. 6301)
 Electoral Legislation Amendment Act 1996 s. 28 | 43 of 1996 | 16 Oct 1996 | 9 Nov 1996 (see s. 2(2) and Gazette 8 Nov 1996 p. 6265)
 Acts Amendment and Repeal (Family Court) Act 1997 s. 31 | 41 of 1997 | 9 Dec 1997 | 26 Sep 1998 (see s. 2 and Gazette 25 Sep 1998 p. 5295)
-Equal Opportunity Amendment Act (No. 3) 1997 | 42 of 1997 | 9 Dec 1997 | s. 4: 1 Dec 1993 (see s. 2(2)); balance: 6 Jan 1998 (see s. 2(1))
+Equal Opportunity Amendment Act (No. 3) 1997 | 42 of 1997 | 9 Dec 1997 | s. 4: 1 Dec 1993 (see s. 2(2)); Act other than s. 4: 6 Jan 1998 (see s. 2(1))
 Statutes (Repeals and Minor Amendments) Act 1997 s. 55 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 33 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
 Friendly Societies (Western Australia) Act 1999 s. 19 | 2 of 1999 | 25 Mar 1999 | 24 May 1999 (see s. 2 and Gazette 21 May 1999 p. 1999)
@@ -36,47 +36,106 @@ Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 452(1) | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Solicitor-General Amendment Act 2006 s. 12 | 29 of 2006 | 30 Jun 2006 | 18 Jul 2006 (see s. 2)
 Liquor and Gaming Legislation Amendment Act 2006 s. 117 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 5: The Equal Opportunity Act 1984 as at 2 Mar 2007 (includes amendments listed above except those in the Housing Societies Repeal Act 2005 s. 26)
+Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 60 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 5: The Equal Opportunity Act 1984 as at 2 Mar 2007 (includes amendments listed above except those in the Housing Societies Repeal Act 2005 and Liquor and Gaming Legislation Amendment Act 2006)
 Acts Amendment (Justice) Act 2008 Pt. 10 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 661 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Acts Amendment (Bankruptcy) Act 2009 s. 36 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Co-operatives Act 2009 s. 509 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975)
 Equal Opportunity Amendment Act 2010 | 2 of 2010 | 1 Apr 2010 | s. 1 and 2: 1 Apr 2010 (see s. 2(a)); Act other than s. 1 and 2: 25 Sep 2010 (see s. 2(b) and Gazette 24 Sep 2010 p. 5047)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 6: The Equal Opportunity Act 1984 as at 7 Jan 2011 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 514 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 of the Commonwealth (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 of the Commonwealth.
-Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1) which was repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
 The Uniform Building By-laws 1974 were repealed in Gazette 28 July 1989 p. 2280.
-Footnote no longer applicable.
+Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1) which was repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
+The Western Australian Government Railways Commission no longer exists. Its successor is the Public Transport Authority. See the Public Transport Authority Act 2003 s. 80.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Acts 1984 s. 7(3)(g).
 Now known as the Police Service.
-The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision that is of no further effect.
-The Equal Opportunity Amendment Act 1988 s. 33 is a transitional provision that is of no further effect.
-The Equal Opportunity Amendment Act 1992s. 36(2) is a saving provision that is of no further effect.
+The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision of no further effect.
+The Equal Opportunity Amendment Act 1988 s. 33 is a transitional provision of no further effect.
+The Equal Opportunity Amendment Act 1992s. 36(2) is a saving provision of no further effect.
 The Equal Opportunity Amendment Act 1992 s. 9(2) and (3) read as follows:
-“
 (2) To the extent that it affects the application of the principal Act to conduct by a person who was, at the time of the conduct, a Member of Parliament, subsection (1) is deemed to have come into operation immediately after the commencement of the principal Act.
 (3) Where a contravention of the principal Act is alleged to have been committed before the day on which this Act receives the Royal Assent and it would not have been a contravention but for subsection (2), the reference in section 83(4) of the principal Act to the date on which the contravention is alleged to have been committed is to be regarded as a reference to the day on which this Act received the Royal Assent.
-”.
-The Acts Amendment (Lesbian and Gay Law Reform) Act 2002 s. 51(3) reads as follows:
-“
-(3) Despite the repeal of section 34(1) by this section, that subsection continues to have effect for 12 months from the date of that repeal.
-”.
+The Acts Amendment (Lesbian and Gay Law Reform) Act 2002 s. 51(3) is a savings provision of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 48 reads as follows:
-“
 48.Equal Opportunity Act 1984
 Unless the context otherwise requires, where in an arrangement made under the Equal Opportunity Act 1984 section 7 there is a reference to the Equal Opportunity Tribunal that reference is to be read and construed as a reference to the State Administrative Tribunal.
-”.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or repealed by that Act.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 514 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Co-operatives Act 2009 s. 514 had not come into operation. It reads as follows:
 514.Equal Opportunity Act 1984 amended
 (1) This section amends the Equal Opportunity Act 1984.
 (2) In section 35N(1)(a) delete “of a society registered under the Co-operative and Provident Societies Act 1903 or”.
 (3) In section 66ZS(1)(a)(i) delete “of a society registered under the Co-operative and Provident Societies Act 1903 or”.
 (4) In section 69(1)(b)(i) delete “of a society registered under the Co-operative and Provident Societies Act 1903 or”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+accommodation4(1)
+advertisement66ZS(2), 68(2)
+age4(1)
+aggrieved person 8(1) and (2), 9(1) and (2), 10(1) and (2), 10A(1) and (2), 19, 35A(1) and (2), 35O(1), (2) and (3), 35X, 36(1), (1a) and (2), 45, 53(1) and (2), 66A(1), (1a), (3) and (4), 66J(1), 66V(1), (2) and (3), 66ZE(1) and 67ZD(3)
+amending section66ZL(2)
+authority138, 163(4)
+charitable benefits4(1), 70(2)
+club4(1)
+commission agent4(1)
+Commissioner4(1)
+committee of management4(1)
+complainant4(1)
+complaint4(1)
+contract worker4(1)
+court167(4)
+Director4(1)
+discriminator8(1) and (2), 9(1) and (2), 10(1) and (2), 10A(1) and (2), 19, 35AB(1) and (3), 35AK, 35A(1) and (2), 35O(1), (2) and (3), 35X, 36(1), (1a) and (2), 45, 53(1) and (2), 66A(1), (1a), (3) and (4), 66J(1), 66V(1), (2) and (3) and 66ZE(1)
+document4(1)
+educational authority4(1)
+educational institution4(1)
+employment4(1)
+employment agency4(1)
+existing condition66ZL(2)
+family responsibility or family status4(1)
+functions4(1)
+gender reassigned person4(1)
+harasser49A(1) and (2)
+impairment4(1)
+incorporated association4(1)
+infectious disease66U(3)
+inquiry4(1)
+institution74(1)
+institution of tertiary education4(1)
+man4(1)
+management plan138
+marital status4(1)
+near relative4(1)
+opposite sex35AA(2)
+person victimised67(1)
+principal4(1)
+private educational authority4(1)
+produce167(4)
+public authority139(3)
+race4(1)
+relative4(1)
+relevant documents86(1)
+relevant information86(1)
+relevant person165(2)(d)
+relevant sex27(2)
+religious or political conviction4(3)
+representative complaint4(1)
+respondent4(1)
+services4(1)
+sexual orientation4(1)
+State employee4(1)
+trade union83(6)
+Tribunal4(1)
+vehicle4(1)
+victimiser67(1)
+voluntary body4(1)
+Western Australian law4(1)
+woman4(1)
+By Authority: JOHN A. STRIJK, Government Printer
