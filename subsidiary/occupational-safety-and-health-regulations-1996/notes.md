@@ -73,6 +73,7 @@ Occupational Safety and Health Amendment Regulations (No. 5) 2010 | 14 Sep 2010 
 Occupational Safety and Health Amendment Regulations (No. 4) 2010 | 2 Nov 2010 p. 5499-500 | r. 1 and 2: 2 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Nov 2010 (see r. 2(b))
 Reprint 8: The Occupational Safety and Health Regulations 1996 as at 19 Nov 2010 (includes amendments listed above)
 Occupational Safety and Health Amendment Regulations (No. 6) 2010 | 10 Dec 2010 p. 6277-83 | r. 1 and 2: 10 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Dec 2010 (see r. 2(b))
+Occupational Safety and Health Amendment Regulations (No. 7) 2010 | 7 Jan 2011 p. 53-4 | r. 1 and 2: 7 Jan 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Jan 2011 (see r. 2(b))
 The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
 The amendment to r. 3.88 in the Occupational Safety and Health Amendment Regulations (No. 6) 2004 r. 24(5) is not included because it would conflict with the amendment in the Occupational Safety and Health Amendment Regulations (No. 3) 2004 r. 7.
 The amendment to r. 5.46 in the Occupational Safety and Health Amendment Regulations (No. 3) 2009 r. 10(b) is not included because it was unclear where the amendment was intended to be made. Regulation 10(b) reads as follows:
