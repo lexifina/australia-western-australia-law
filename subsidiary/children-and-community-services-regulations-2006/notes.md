@@ -10,5 +10,13 @@ Reprint 1: The Children and Community Services Regulations 2006 as at 2 Feb 2007
 Children and Community Services Amendment Regulations 2007 | 7 Aug 2007 p. 4029-30 | r. 1 and 2: 7 Aug 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Aug 2007 (see r. 2(b) and Gazette 9 Aug 2007 p. 4071)
 Children and Community Services Amendment Regulations 2008 | 9 Dec 2008 p. 5107-8 | r. 1 and 2: 9 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2009 (see r. 2(b) and Gazette 9 Dec 2008 p. 5107)
 Children and Community Services Amendment Regulations 2009 | 19 Jun 2009 p. 2225-9 | r. 1 and 2: 19 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Jun 2009 (see r. 2(b))
+Children and Community Services Amendment Regulations 2010 (other than r. 4) | 18 Jan 2006 p. 145-6 | r. 1 and 2: 18 Jan 2011 (see r. 2(a)); Regulations other than r. 1, 2 and 4: 19 Jan 2011 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Children and Community Services Amendment Regulations 2010 r. 4 | 18 Jan 2006 p. 145-6 | On commencement of the Children and Community Services Act 2010 s. 72
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Children and Community Services Act 2004 s. 250.
+On the date as at which this compilation was prepared, the Children and Community Services Amendment Regulations 2010 r. 4 had not come into operation. It reads as follows:
+4.Part 4A deleted
+Delete Part 4A.
