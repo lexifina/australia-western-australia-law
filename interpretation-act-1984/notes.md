@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Interpretation Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 21 January 2011 of the Interpretation Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Interpretation Act 1984 | 12 of 1984 | 31 May 1984 | 1 Jul 1984 (see s. 2)
@@ -41,19 +41,21 @@ Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Land Information Authority Act 2006 s. 183 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 6: The Interpretation Act 1984 as at 25 May 2007 (includes amendments listed above except the amendments in the Criminal Investigation (Consequential Provisions) Act 2006 s. 73)
+Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 92 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 6: The Interpretation Act 1984 as at 25 May 2007 (includes amendments listed above except the amendments in the Criminal Investigation (Consequential Provisions) Act 2006)
 Criminal Law Amendment (Homicide) Act 2008 s. 35 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Surrogacy Act 2008 Pt. 4 Div. 6 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 512)
 Acts Amendment (Bankruptcy) Act 2009 Pt. 2 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Interpretation and Reprints Amendment Act 2010 Pt. 2 | 31 of 2010 | 25 Aug 2010 | 26 Aug 2010 (see s. 2(b))
 Public Sector Reform Act 2010 s. 78 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Now see the Public Sector Management Act 1994.
+Reprint 7: The Interpretation Act 1984 as at 21 Jan 2011 (includes amendments listed above)
 Under s. 77(2), the Interpretation Act 1918 s. 11 continues to apply to Acts passed before 1 July 1984. Section 11 reads as follows:
 11.Exercise of statutory power between passing and coming into operation of an Act or any provision thereof.
 (1) Where an Act is not to come into operation immediately on the passing thereof, and confers power or will, upon its coming into operation, amend another Act so as to confer power under the other Act as so amended, to make any appointment, to hold any election, to make, grant or issue any instrument that is to say any proclamation, Order in Council, order, warrant, scheme, letters patent, rules, regulations, or by-laws, to give notices, to prescribe forms, or to do any other thing for the purposes of the Act, the power that is or will be conferred may, unless the Act otherwise provides, be exercised at any time after the passing of the first-mentioned Act but the exercise of the power does not confer a right or impose an obligation upon a person before the coming into operation of the first-mentioned Act except in so far as is necessary or expedient for the purpose of making the first-mentioned Act fully effective upon its coming into operation or the other Act fully effective when so amended.
 (2) A power purporting to have been exercised at a time before the date of the coming into operation of the Interpretation Act Amendment Act 1975 for the purposes of an Act that came into operation before that date, shall be deemed to have been exercised as validly and effectually as it would have been if this section as re-enacted by the Interpretation Act Amendment Act 1975 had been in operation at that time.
 (3) In this section a reference to an Act includes a reference to a provision or provisions of an Act.
+Now see the Public Sector Management Act 1994.
+Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 s. 42. Now see the Australian Citizenship Act 2007.
 Under s. 77(4), the Interpretation Act 1918 s. 47(2) and the Second Schedule continue to apply to Acts passed before 1 July 1984. Section 47 and the Second Schedule read as follows:
 47.Sections in Second Schedule may be incorporated in Act by reference.
 (1) Any of the provisions contained in the sections of the Second Schedule hereto, and distinguished respectively by the letters A, B, C, D, E, F, G, and H, may be incorporated as enactments in any Act by reference to the said Schedule and to the letters distinguishing the said sections respectively.
@@ -92,7 +94,8 @@ Auditor General5
 Australia5
 Australia Acts5
 bank holiday5
-bankrupt and bankrupt or a person whose affairs are under insolvency laws5
+bankrupt5
+bankrupt or a person whose affairs are under insolvency laws5
 book5
 British possession5
 by-law5
@@ -109,9 +112,10 @@ Corporations Law5
 Corporations Regulations5
 Court of Appeal5
 court of summary jurisdiction5
+Crown5
+death5
 de facto partner5
 de facto relationship5
-death5
 definition5
 District Court5
 District Court judge5
@@ -137,9 +141,10 @@ indictable offence5
 individual5
 issue45A(4)
 JP5
-Judge5
+judge5
 justice5
 justice of the peace5
+King5
 land5
 law of the State13(1)
 licence45A(4)
@@ -173,9 +178,10 @@ Public Service5
 public service holiday5
 public service officer5
 publication5
+Queen5
 regional local government5
 regulation5
-regulations42(8)
+regulations42(8)(b)
 repeal5
 Royal Assent5
 rule5
@@ -198,9 +204,6 @@ Supreme Court5
 swear5
 Territory5
 the Act44(2)
-the Crown5
-the King5
-the Queen5
 the State5
 this State5
 under5
