@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Waterways Conservation Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 28 January 2011 of the Waterways Conservation Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Waterways Conservation Regulations 1981 | 14 Jul 1981 p. 2843-62 | 25 Aug 1981 (see r. 1(2))
@@ -11,3 +11,18 @@ Reprint of the Waterways Conservation Regulations 1981 as at 16 Nov 2001 (includ
 Waterways Conservation Amendment Regulations 2004 | 30 Dec 2004 p. 7001 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Waterways Conservation Amendment Regulations 2008 | 4 Apr 2008 p. 1313-14 | r. 1 and 2: 4 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Apr 2008 (see r. 2(b))
 Waterways Conservation Amendment Regulations 2010 | 23 Nov 2010 p. 5860-8 | r. 1 and 2: 23 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Nov 2010 (see r. 2(b))
+Reprint 2: The Waterways Conservation Regulations 1981 as at 28 Jan 2011 (includes amendments listed above)
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Act2(1)
+aircraft2(1)
+Jetties Act2(1)
+jetties CEO17(1)
+jetty17(1)
+jetty licence17(1)
+proximate to any waters2(1)
+regulation2(1)
+Schedule2(1)
+subregulation2(1)
+waters6
