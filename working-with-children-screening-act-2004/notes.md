@@ -12,15 +12,15 @@ Reprint 1: The Working with Children (Criminal Record Checking) Act 2004 as at 1
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 140 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Working with Children (Criminal Record Checking) Amendment Act 2010 Pt. 2 | 7 of 2010 | 27 May 2010 | 6 Oct 2010 (see s. 2(b) and Gazette 5 Oct 2010 p. 5113)
 Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 s. 15 | 21 of 2010 | 7 Jul 2010 | 28 Aug 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
+Children and Community Services Amendment Act 2010 Pt. 2 Div. 2 | 49 of 2010 | 24 Nov 2010 | 31 Jan 2011 (see s. 2(b) and Gazette 28 Jan 2011 p. 241
 Misuse of Drugs Amendment Act (No. 2) 2010 Pt. 3 | 50 of 2010 | 24 Nov 2010 | 25 Nov 2010 (see s. 2(b))
-Reprint 2: The Working with Children (Criminal Record Checking) Act 2004 as at 7 Jan 2011 (includes amendments listed above)
+Reprint 2: The Working with Children (Criminal Record Checking) Act 2004 as at 7 Jan 2011 (includes amendments listed above except those in the Children and Community Services Amendment Act 2010 Pt. 2 Div. 2)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Cannabis Law Reform Act 2010 Pt. 6 | 45 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
-Children and Community Services Amendment Act 2010 Pt. 2 Div. 2 | 49 of 2010 | 24 Nov 2010 | To be proclaimed (see s. 2(b))
 On the date as at which this reprint was prepared, the Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 had not come into operation. It reads as follows:
 Schedule 1 — Consequential amendments
 [s. 65]
@@ -80,13 +80,6 @@ This Part amends the Working with Children (Criminal Record Checking) Act 2004.
 In Schedule 2 after the item relating to the Children and Community Services Act 2004 section 192 insert:
 Misuse of Drugs Act 1981
 s. 19A(2) | Selling, or offering to sell, cannabis smoking paraphernalia to a child
-On the date as at which this reprint was prepared, the Children and Community Services Amendment Act 2010 Pt. 2 Div. 2 had not come into operation. It reads as follows:
-Division 2 — Working with Children (Criminal Record Checking) Act 2004 amended
-22.Act amended
-This Division amends the Working with Children (Criminal Record Checking) Act 2004.
-23.Section 6 amended
-In section 6(1)(a)(vi) after “arrangement” insert:
-or secure care arrangement
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
