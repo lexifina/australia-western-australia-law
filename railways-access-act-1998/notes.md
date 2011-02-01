@@ -12,11 +12,8 @@ Public Transport Authority Act 2003 s. 152 | 31 of 2003 | 26 May 2003 | 1 Jul 20
 Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Railway and Port (The Pilbara Infrastructure Pty Ltd) Agreement Act 2004 Pt. 3 Div. 1 | 77 of 2004 | 8 Dec 2004 | 1 Jul 2008 (see s. 2(2) and Gazette 17 Jun 2008 p. 2543)
 Reprint 3: The Railways (Access) Act 1998 as at 8 Aug 2008 (includes amendments listed above)
+Rail Safety Act 2010 Pt. 11 Div. 5 | 18 of 2010 | 28 Jun 2010 | 1 Feb 2011 (see s. 2(b) and Gazette 28 Jan 2011 p. 241)
 Railway and Port (The Pilbara Infrastructure Pty Ltd) Agreement Amendment Act 2010 Pt. 3 | 60 of 2010 | 10 Dec 2010 | 11 Dec 2010 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Rail Safety Act 2010 Pt. 11 Div. 5 | 18 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the National Rail Corporation Agreement Repeal Act 1999 s. 3.
 Now known as the Railways (Access) Act 1998; short title changed (see note under s. 1).
@@ -77,18 +74,9 @@ The operation of any provision of this Schedule is not to be regarded —
 (d) as causing any contract or instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
 ”.
-On the date as at which this compilation was prepared, the Rail Safety Act 2010 Pt. 11 Div. 5 had not come into operation. It reads as follows:
-Division 5 — Railways (Access) Act 1998 amended
-270.Act amended
-This Division amends the Railways (Access) Act 1998.
-271.Section 8 amended
-In section 8 delete “Rail Safety Act 1998.” and insert:
-Rail Safety Act 2010.
-Note:The heading to amended section 8 is to read:
-Code is subject to Rail Safety Act 2010
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 access3(1)
 access agreement3(1)
 access-related functions24
@@ -106,5 +94,5 @@ Regulator3(1)
 relevant officer24
 route5(5)
 the Code9(7)
-the current railway owner3B(2)(a)
+the current railway owner3B(2)
 TPI Railway and Port Agreement3(1)

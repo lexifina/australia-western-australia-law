@@ -8,25 +8,13 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 12 and Sch. 1 cl. 138 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Public Transport Authority Amendment Act 2008 | 42 of 2008 | 3 Jul 2008 | s. 1 and 2: 3 Jul 2008 (see s. 2(a)); Act other than s. 1 and 2: 28 Mar 2009 (see s. 2(b) and Gazette 27 Mar 2009 p. 917)
 Reprint 1: The Public Transport Authority Act 2003 as at 3 Apr 2009 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Rail Safety Act 2010 Pt. 11 Div. 3 | 18 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Rail Safety Act 2010 Pt. 11 Div. 3 | 18 of 2010 | 28 Jun 2010 | 1 Feb 2011 (see s. 2(b) and Gazette 28 Jan 2011 p. 241)
 The provisions in the Public Transport Authority Act 2003 amending or repealing these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
-On the date as at which this compilation was prepared, Rail Safety Act 2010 Pt. 11 Div. 3 had not come into operation. It reads as follows:
-Division 3 — Public Transport Authority Act 2003 amended
-265.Act amended
-This Division amends the Public Transport Authority Act 2003.
-266.Section 3 amended
-In section 3 in the definition of train delete “Rail Safety Act 1998 section 3(1);” and insert:
-Rail Safety Act 2010 section 3;
-267.Section 4 amended
-In section 4(1)(a) delete “Rail Safety Act 1998” and insert:
-Rail Safety Act 2010
+Footnote no longer applicable.
 The Government Railways Act 1904 s. 43(5) was redesignated as s. 43(e) on 11 Sep 2010 by the Standardisation of Formatting Act 2010 s. 60.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 acceptable contract53(4)
 acquire13(5)
 asset71, 79, 86
@@ -42,7 +30,7 @@ dangerous article60(1)
 dispose of13(5)
 document28(4)
 employing authority55(10)
-exception64A(4)(b)
+exception64A(4)
 facility64A(1)
 former body79
 former holder71
@@ -67,7 +55,7 @@ property71
 public3
 public passenger transport service3
 Rail Corridor Minister86
-relevant financial year20(2a)(b)
+relevant financial year20(2a)
 relevant instrument15(2)
 relevant official75(3), 83(3), 89(3)
 relevant property75(3), 83(3), 89(3)

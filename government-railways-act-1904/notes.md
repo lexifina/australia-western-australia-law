@@ -71,11 +71,8 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 8: The Government Railways Act 1904 as at 2 Sep 2005 (includes amendments listed above)
 Liquor and Gaming Legislation Amendment Act 2006 s. 115 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
+Rail Safety Act 2010 Pt. 11 Div. 1 | 18 of 2010 | 28 Jun 2010 | 1 Feb 2011 (see s. 2(b) and Gazette 28 Jan 2011 p. 241)
 Standardisation of Formatting Act 2010 s. 60 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Rail Safety Act 2010 Pt. 11 Div. 1 | 18 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Footnote no longer applicable.
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 62 is not included because the subsection it sought to amend had been replaced by the Public Transport Authority Act 2003 s. 137(1) before the amendment purported to come into operation.
 The Second Schedule was inserted by the Limitation Act Amendment Act 1954 s. 8.
@@ -176,18 +173,5 @@ The operation of a provision of this Part is not to be regarded as —
 (d) causing any contract or instrument to be void or otherwise unenforceable; or
 (e) releasing, or allowing the release of, any surety.
 ”.
-On the date as at which this compilation was prepared, the Rail Safety Act 2010 Pt. 11 Div. 1 had not come into operation. It reads as follows:
-Part 11 — Consequential amendments
-Division 1 — Government Railways Act 1904 amended
-259.Act amended
-This Division amends the Government Railways Act 1904.
-260.Section 2A amended
-In section 2A delete “Rail Safety Act 1998” and insert:
-Rail Safety Act 2010
-261.Section 13 amended
-In section 13(1a) delete paragraph (d) and insert:
-(d) the Rail Safety Act 2010.
-262.Section 61 amended
-In section 61(5) delete “Rail Safety Act 1998.” and insert:
-Rail Safety Act 2010.
+Footnote no longer applicable.
 Office of Titles plans are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
