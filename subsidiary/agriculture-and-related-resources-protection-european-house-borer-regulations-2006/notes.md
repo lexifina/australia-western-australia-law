@@ -7,9 +7,10 @@ Agriculture and Related Resources Protection (European House Borer) Amendment Re
 Agriculture and Related Resources Protection (European House Borer) Amendment Regulations 2010 | 5 Feb 2010 p. 241-6 | r. 1 and 2: 5 Feb 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Feb 2010 (see r. 2(b))
 Reprint 1: The Agriculture and Related Resources Protection (European House Borer) Regulations 2006 as at 9 Apr 2010 (includes amendments listed above)
 Agriculture and Related Resources Protection (Repeals and Amendments) Regulations 2010 Pt. 6 | 17 Dec 2010 p. 6403-32 | 18 Dec 2010 (see r. 2(b) and Gazette 17 Dec 2010 p. 6349)
-Defined Terms
+Agriculture and Related Resources Protection (European House Borer) Amendment Regulations 2011 | 1 Feb 2011 p. 375-6 | r. 1 and 2: 1 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Feb 2011 (see r. 2(b)(ii))
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 builder14
 building14
 building inspector14
