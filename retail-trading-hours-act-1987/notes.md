@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Retail Trading Hours Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 February 2011 of the Retail Trading Hours Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Retail Trading Hours Act 1987 | 123 of 1987 | 31 Dec 1987 | s. 1 and 2: 31 Dec 1987; Act other than s. 1 and 2: 1 Sep 1988 (see s. 2 and Gazette 12 Aug 1988 p. 2695)
@@ -21,16 +21,14 @@ Retail Trading Hours Amendment (Armadale Special Trading Precinct) Act 2010 | 36
 Retail Trading Hours Amendment (Midland Special Trading Precinct) Act 2010 | 37 of 2010 | 22 Sep 2010 | s. 1 and 2: 22 Sep 2010 (see s. 2(a)); Act other than s. 1 and 2: 23 Sep 2010 (see s. 2(b))
 Retail Trading Hours Amendment Act 2010 | 38 of 2010 | 1 Oct 2010 | s. 1 and 2: 1 Oct 2010 (see s. 2(a)); Act other than s. 1 and 2: 1 Nov 2010 (see s. 2(b) and Gazette 22 Oct 2010 p. 5207)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Footnote no longer applicable.
+Reprint 3: The Retail Trading Hours Act 1987 as at 4 Feb 2011 (includes amendments listed above)
 Repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
 The Retail Shops and Fair Trading Legislation Amendment Act 2006 s. 18 reads as follows:
-“
 18.Validation
 An order made, or purporting to have been made, under the Retail Trading Hours Act 1987 section 5, 10, 12, 13 or 14 that had effect, or purported to have effect, immediately before the commencement of this section —
 (a) is taken to have been validly made under that section of that Act;
 (b) continues, on and after that commencement, to have effect and the force of law; and
 (c) in relation to an order made under section 5, 12, 13 or 14 of that Act that continues to have effect and the force of law under paragraph (b) — may be amended or revoked as if it had been made under section 12E of that Act as amended by this Act.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -44,7 +42,6 @@ Committee3(1)
 corporation10(3ab)
 filling station3(1)
 Fremantle special trading precinct12A(4)
-Fremantle tourism precinct12A(4)
 fuel3(1)
 holiday resort12A(4)
 inspector3(1)
@@ -56,7 +53,6 @@ motor vehicle shop3(1)
 officer10(3ab)
 operate3(1)
 Perth special trading precinct12A(4)
-Perth tourism precinct12A(4)
 place3(1)
 prescribed services3(1)
 publish26(2)
@@ -68,5 +64,5 @@ Rottnest Island holiday resort12A(4)
 sell3(1)
 special trading precinct12A(4)
 specified12E(8)
-tourism precinct12A(4)
 Wanneroo holiday resort12A(4)
+By Authority: JOHN A. STRIJK, Government Printer
