@@ -75,7 +75,7 @@ Item | Section | Penalty — individual | Daily penalty
 13 | 92E(1) | $62 500 | Nil
 14 | 99X(4) | $62 500 | Nil
 15 | 111A(1) | $62 500 | $12 500
-[Division 1 inserted by No. 14 of 1998 s. 18; amended by No. 54 of 2003 s. 25(2), 66(5)-(7), 85(1), (2) and (5), 88(1), 115(3) and 132(2); No. 48 of 2010 s. 11.]
+[Division 1 inserted by No. 14 of 1998 s. 18; amended by No. 54 of 2003 s. 25(2), 66(5)-(7), 85(1), (2) and (5), 88(1), 115(3) and 132(2); No. 48 of 2010 s. 11(1).]
 ## Division 2 — Bodies corporate
 [Heading inserted by No. 14 of 1988 s. 18.]
 Column 1 | Column 2 | Column 3 | Column 4
@@ -104,7 +104,7 @@ Item | Section | Penalty — body corporate | Daily penalty
 13 | 92E(1) | $125 000 | Nil
 14 | 99X(4) | $125 000 | Nil
 15 | 111A(1) | $125 000 | $25 000
-[Division 2 inserted by No. 14 of 1998 s. 18; amended by No. 54 of 2003 s. 25(3), 66(8) and (9), 85(3)-(5), 88(2), 115(4) and 132(3) No. 48 of 2010 s. 11.]
+[Division 2 inserted by No. 14 of 1998 s. 18; amended by No. 54 of 2003 s. 25(3), 66(8) and (9), 85(3)-(5), 88(2), 115(4) and 132(3); No. 48 of 2010 s. 11(2).]
 ## Division 3 — Individuals and bodies corporate
 [Heading inserted by No. 14 of 1988 s. 18.]
 Column 1 | Column 2 | Column 3 | Column 4
@@ -148,4 +148,4 @@ Item | Section | Penalty — individual or body corporate | Daily penalty
 10A | 91A(2) | $5 000 | Nil
 10 | 97(2) | $5 000 | $1 000
 11 | 110H(6) | $5 000 | Nil
-[Part 3 inserted by No. 14 of 1998 s. 18; amended by No. 48 of 2010 s. 11.]
+[Part 3 inserted by No. 14 of 1998 s. 18; amended by No. 48 of 2010 s. 11(3).]
