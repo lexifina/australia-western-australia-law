@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Land Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 February 2011 of the Land Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Tax Assessment Act 2002 | 52 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -17,148 +17,108 @@ Land Information Authority Act 2006 s. 142 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Revenue Laws Amendment (Taxation) Act 2007 Pt. 3 | 12 of 2007 | 29 Jun 2007 | 30 Jun 2007 (see s. 2(c)(i))
 Reprint 2: The Land Tax Assessment Act 2002 as at 28 Mar 2008 (includes amendments listed above)
-Revenue Laws Amendment Act 2008 Pt. 4 | 30 of 2008 | 27 Jun 2008 | 1 Jul 2008 (see s. 2(1)(c))
+Revenue Laws Amendment Act 2008 Pt. 4 | 30 of 2008 | 27 Jun 2008 | 1 Jul 2008 (see s. 2(1)(c)(i))
 Revenue Laws Amendment (Taxation) Act 2009 Pt. 2 | 19 of 2009 | 16 Sep 2009 | 1 Jul 2009 (see s. 2(b)(ii))
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Land Tax Assessment Amendment Act 2010 | 27 of 2010 | 7 Jul 2010 | Act other than s. 1 and 2: 1 Jul 2010 (see s. 2(b)(ii)); s. 1 and 2: 7 Jul 2010 (see s. 2(a))
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 33 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 3: The Land Tax Assessment Act 2002 as at 11 Feb 2011 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 83 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
-Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources.
-Repealed by the Land Administration Act 1997 s. 281.
-Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007. r. 1-5 and Pt. 3 Div. 2 of that notice read as follows:
-“
-1.Citation
-This notice is the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
-2.Commencement
-This notice comes into operation on the day after the day on which it is registered under the Legislative Instruments Act 2003 of the Commonwealth.
-3.When certain modifications have effect
-(1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
-(2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2002 Part 5 to the extent of any inconsistency.
-Note:Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
-4.Definitions
-In this notice —
-applied WA law means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
-Commissioner of State Revenue means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
-Commonwealth Mirror Taxes Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
-5.Modification of applied WA laws
-(1) For the purposes of the Commonwealth Mirror Taxes Act section 8, each applied WA law is taken to be modified to the extent necessary to give effect to subclause (2).
-(2) If —
-(a) an applied WA law applies, or could apply, to any extent, to or in relation to an event, state of affairs or transaction, and the corresponding State taxing law also applies, or could apply, to any extent, to or in relation to the same event, state of affairs or transaction; and
-(b) a person is required or permitted, or could be required or permitted, to take an action under both the applied WA law and the corresponding State taxing law in relation to the event, state of affairs or transaction; and
-(c) the person has taken the action in accordance with the corresponding State taxing law; and
-(d) the Commissioner of State Revenue has sufficient information about the event, state of affairs or transaction to carry out his or her functions in relation to it under the applied WA law or the corresponding State taxing law or both, as the case requires,
-then —
-(e) the person is not required to take the action under the applied WA law; and
-(f) the Commissioner may carry out his or her functions in relation to the event, state of affairs or transaction as if the person had taken whatever action is required or permitted under the applied WA law in relation to the event, state of affairs or transaction.
-(3) The particular modifications set out in this notice of certain applied WA laws have effect for the purposes of the Commonwealth Mirror Taxes Act section 8.
-Part 3 — Land tax
-Division 2 — The applied Land Tax Assessment Act 2002
-16.Modification of the applied Land Tax Assessment Act 2002
-This Division sets out modifications of the Land Tax Assessment Act 2002 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia.
-17.Section 4A inserted
-After section 4 the following section is inserted —
-“
-4A.Application of Act in Commonwealth places
-(1) In this Act, unless the contrary intention appears —
-(a) a reference to this Act is to be read as a reference to this Act in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
-(b) a reference to the regulations is to be read as a reference to the Land Tax Assessment Regulations 2003 of Western Australia in their application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
-(c) a reference to the Land Tax Act 2002 is to be read as a reference to the Land Tax Act 2002 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
-(d) a reference to the Taxation Administration Act 2003 is to be read as a reference to the Taxation Administration Act 2003 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
-(e) a reference to the Crown (other than in the Glossary clause 2) is to be read as a reference to the Crown in right of the Commonwealth; and
-(f) a reference to the Crown in the Glossary clause 2 is to be read as a reference to the Crown in right of Western Australia; and
-(g) a reference to the Minister is to be read as a reference to the Minister of the Crown in right of Western Australia administering the corresponding Land Tax Assessment Act.
-(2) This Act is to be read with the corresponding Land Tax Assessment Act as a single body of law.
-(3) In addition to being modified as prescribed by the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007, this Act is deemed to be further modified to any extent that is necessary or convenient —
-(a) to enable this Act to operate effectively as a law of the Commonwealth; and
-(b) to ensure that the combined liability of a taxpayer under this Act and the corresponding Land Tax Assessment Act is as nearly as possible the same as the taxpayer’s liability would be under the corresponding Land Tax Assessment Act alone if the Commonwealth places in Western Australia were not Commonwealth places.
-”.
-18.Section 5 modified
-Section 5 is modified by inserting before “in the State” —
-“ in Commonwealth places ”.
-19.Glossary modified
-(1) The Glossary clause 1 is modified by inserting in their appropriate alphabetical positions —
-“
-Commonwealth Mirror Taxes Act means the Commonwealth Places (Mirror Taxes) Act 1998;
-corresponding Land Tax Act means the Land Tax Act 2002 of Western Australia in its application as a law of Western Australia;
-corresponding Land Tax Assessment Act means the Land Tax Assessment Act 2002 of Western Australia in its application as a law of Western Australia;
-”.
-(2) The Glossary clause 1 is modified in the definition of “registered” by inserting after “any Act” —
-“ of the Parliament of Western Australia ”.
-(3) The Glossary clause 1 is modified in the definition of “taxable authority” as follows:
-(a) in paragraph (b) by deleting “other”;
-(b) after paragraph (b) by inserting —
-“
-or
-(c)any body that the Parliament of the Commonwealth has given consent to the State to impose tax on or in respect of;
-”.
-”.
-Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 3 Div. 2 of those regulations read as follows:
-“
-1.Citation
-These regulations are the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
-2.Commencement
-These regulations come into operation on the day on which the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007 comes into operation.
-3.When certain modifications have effect
-(1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
-(2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes Administration) Regulations 2002 Part 5 to the extent of any inconsistency.
-Note:Modifications prescribed for the purposes of section 7(2) of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Gazette, see section 7(3) of the Act.
-4.Modification of State taxing laws
-(1) For the purposes of section 7(2) of the Act, each State taxing law is taken to be modified to the extent necessary to give effect to subregulation (2).
-(2) If —
-(a) a State taxing law applies, or could apply, to any extent, to or in relation to an event, state of affairs or transaction, and the corresponding applied law also applies, or could apply, to any extent, to or in relation to the same event, state of affairs or transaction; and
-(b) a person is required or permitted, or could be required or permitted, to take an action under both the State taxing law and the corresponding applied law in relation to the event, state of affairs or transaction; and
-(c) the person has taken the action in accordance with the corresponding applied law; and
-(d) the Commissioner of State Revenue has sufficient information about the event, state of affairs or transaction to carry out his or her functions in relation to it under the State taxing law or the corresponding applied law or both, as the case requires,
-then —
-(e) the person is not required to take the action under the State taxing law; and
-(f) the Commissioner may carry out his or her functions in relation to the event, state of affairs or transaction as if the person had taken whatever action is required or permitted under the State taxing law in relation to the event, state of affairs or transaction.
-(3) The particular modifications set out in these regulations of certain State taxing laws have effect for the purposes of section 7(2) of the Act.
-Part 3 — Land tax
-Division 2 — The Land Tax Assessment Act 2002
-15.Modification of the Land Tax Assessment Act 2002
-This Division sets out modifications of the Land Tax Assessment Act 2002 in its application as a law of Western Australia.
-16.Section 4A inserted
-After section 4 the following section is inserted —
-“
-4A.Application of Act in non-Commonwealth places
-(1)In this Act, unless the contrary intention appears —
-(a)a reference to this Act is to be read as a reference to this Act in its application as a law of Western Australia; and
-(b)a reference to the regulations is to be read as a reference to the Land Tax Assessment Regulations 2003 in their application as a law of Western Australia; and
-(c)a reference to the Land Tax Act 2002 is to be read as a reference to that Act in its application as a law of Western Australia; and
-(d)a reference to the Taxation Administration Act 2003 is to be read as a reference to that Act in its application as a law of Western Australia.
-(2)This Act is to be read with the applied Land Tax Assessment Act as a single body of law.
-”.
-17.Section 5 modified
-Section 5 is modified by inserting after “State” —
-“ (other than in Commonwealth places) ”.
-18.Glossary modified
-The Glossary clause 1 is modified by inserting in their appropriate alphabetical positions —
-“
-applied Land Tax Act means the Land Tax Act 2002 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act;
-applied Land Tax Assessment Act means the Land Tax Assessment Act 2002 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act;
-Commonwealth Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth;
-”.
-”.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
+Under the Public Sector Management Act 1994 the designations of departments can be changed. At the time of this reprint the designation of the Department of Mines has been changed to the Department of Mines and Petroleum.
+Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
+Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
+Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
 The Business Tax Review (Assessment) Act 2003 s. 7 and s. 10 read as follows:
-“
 7.Financial years before the commencement day
 (1) Despite the amendments effected by this Part, the Land Tax Assessment Act 2002, as in force immediately before the commencement day, continues to apply in relation to land tax payable for financial years that commence before the commencement day.
 (2) In this section —
 commencement day means the day on which this Part comes into operation.
 10.Requirement to reassess
 The Commissioner of State Revenue must make any reassessment necessary to give effect to the amendments effected by this Part.
-”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 83 had not come into operation. It reads as follows:
-“
+The amendment in the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 33(4) is not included because the subsection it sought to amend had been deleted by the Revenue Laws Amendment (Taxation) Act 2009 s. 9 before the amendment purported to come into operation.
+On the date as at which this reprint was prepared, the State Superannuation Amendment Act 2007 s. 83 had not come into operation. It reads as follows:
 83.Land Tax Assessment Act 2002 amended
 (1) The amendments in this section are to the Land Tax Assessment Act 2002.
-(2) The Glossary clause 1 is amended in the definition of “taxable authority” by deleting “Government Employees Superannuation Board” and inserting instead —
+(2) The Glossary clause 1 is amended in the definition of taxable authority by deleting “Government Employees Superannuation Board” and inserting instead —
 “ State Superannuation Board ”.
-”.
-The amendment in the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 33(4) is not included because the subsection it sought to amend had been deleted by the Revenue Laws Amendment (Taxation) Act 2009 s. 9 before the amendment purported to come into operation.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+aged care facility38A(1)
+agentGl. cl. 1
+aggregated taxable valueGl. cl. 1
+approvedGl. cl. 1
+assessmentGl. cl. 1
+assessment yearGl. cl. 1
+beneficiary23A(1)(b)
+building contractGl. cl. 1
+clauseGl. cl. 1
+commencement dateGl. cl. 1
+completion dateGl. cl. 1
+conservation covenantGl. cl. 1
+disabled beneficiaryGl. cl. 1
+disabled person26A(1)
+dwelling park land39A(1)
+dwelling park purposes39A(1)
+excluded purpose39A(1)
+exemptGl. cl. 1
+exempt purposeGl. cl. 1
+grazing businessGl. cl. 1
+home lotGl. cl. 2(4)
+home unitGl. cl. 1
+horse-breeding businessGl. cl. 1
+improvement schemeGl. cl. 1
+improvementsGl. cl. 1
+joint ownersGl. cl. 1
+landGl. cl. 1
+Land Information AuthorityGl. cl. 1
+land taxGl. cl. 1
+land tax ActGl. cl. 1
+local planning schemeGl. cl. 1
+lotGl. cl. 1 and 2(1)
+metropolitan regionGl. cl. 1
+new lot43A(1)
+non-profit associationGl. cl. 1
+non-rural zoneGl. cl. 1
+non-strata home unitGl. cl. 1
+old lot43A(1)
+other lotsGl. cl. 2(4)
+ownerGl. cl. 1
+owner-builderGl. cl. 1
+parcelGl. cl. 1
+primary residenceGl. cl. 1
+private residenceGl. cl. 1
+private residential propertyGl. cl. 1
+property A27(1)
+property B27(1)(a)
+public statutory authorityGl. cl. 1
+registeredGl. cl. 1
+related purpose39A(1)
+reserved land32(5), 33(6), Gl. cl. 1
+residential care38A(1)
+retirement villageGl. cl. 1
+rural businessGl. cl. 1
+rural business landGl. cl. 1
+sportGl. cl. 1
+sports associationGl. cl. 1
+strata planGl. cl. 1
+strata schemeGl. cl. 1
+strata title home unitGl. cl. 1
+subdividedGl. cl. 1
+subdividing ownerGl. cl. 1
+survey-strata planGl. cl. 1
+survey-strata schemeGl. cl. 1
+taxable authorityGl. cl. 1
+taxable landGl. cl. 1
+taxable valueGl. cl. 1
+taxes9(6), 31(6), Gl. cl. 1
+total net incomeGl. cl. 1
+trusteeGl. cl. 1
+unimproved valueGl. cl. 1
+year A39A(5A)
