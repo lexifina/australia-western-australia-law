@@ -3,18 +3,18 @@
 [s. 51C]
 1.Clearing that is done in order to give effect to a requirement to clear under a written law.
 2.Clearing that is done —
-(a) in the implementation of a proposal in accordance with an implementation agreement or decision;
+(a) in the implementation of a proposal in accordance with an implementation agreement or decision; or
 (b) in the case of a proposal that —
 (i) was made under an assessed scheme; and
 (ii) because of section 48I(2), was not referred to the Authority,
-in the implementation of the proposal in accordance with a subdivision approval, a development approval or a planning approval given by the responsible authority;
+in the implementation of the proposal in accordance with a subdivision approval, a development approval or a planning approval given by the responsible authority; or
 (c) in accordance with —
-(i) a prescribed standard;
-(ii) a works approval;
-(iii) a licence;
-(iv) a requirement contained in a closure notice, an environmental protection notice or a prevention notice;
-(v) an approved policy;
-(vi) a declaration under section 6;
+(i) a prescribed standard; or
+(ii) a works approval; or
+(iii) a licence; or
+(iv) a requirement contained in a closure notice, an environmental protection notice or a prevention notice; or
+(v) an approved policy; or
+(vi) a declaration under section 6; or
 (vii) an exemption under section 75; or
 (viii) a licence, permit, approval or exemption granted, issued or given under the regulations;
 or
@@ -46,7 +46,7 @@ of the Bush Fires Act 1954.
 11.Clearing that is done under section 34(a), (c) or (h) of the Fire Brigades Act 1942.
 12.Clearing that is done for fire prevention or control purposes or other fire management works on Crown land, within the meaning of the Land Administration Act 1997, by the Fire and Emergency Services Authority of Western Australia established under the Fire and Emergency Services Authority of Western Australia Act 1998.
 13.Clearing caused by the grazing of stock on land under a pastoral lease within the meaning of the Land Administration Act 1997 as long as that grazing is not in breach of —
-(a) that Act;
+(a) that Act; or
 (b) the pastoral lease; or
 (c) any relevant condition set or determination made by the Pastoral Board under Part 7 of that Act.
 14.Clearing of aquatic vegetation that occurs under the authority of a licence or permit within the meaning of the Fish Resources Management Act 1994.

@@ -15,8 +15,8 @@
 12.Any model by-laws published under section 30(4) of the repealed Act and in force immediately before the coming into operation of this clause shall on that coming into operation cease to be in force.
 13.Any regulations made under section 30(4) of the repealed Act and in force immediately before the coming into operation of this clause shall on that coming into operation cease to be in force.
 14.Any criteria established and developed under section 30(4)(j), and any standards and criteria and methods of sampling and testing specified under section 30(4)(k), of the repealed Act and subsisting immediately before the coming into operation of this clause shall on that coming into operation continue to subsist for the purposes of this Act —
-(a) unless inconsistent with any standards prescribed for the purposes of this Act; or
-(b) if not inconsistent within the meaning of paragraph (a), until abolished by the CEO.
+(a)unless inconsistent with any standards prescribed for the purposes of this Act; or
+(b)if not inconsistent within the meaning of paragraph (a), until abolished by the CEO.
 15.A delegation made under section 31 of the repealed Act and in force immediately before the coming into operation of this clause shall on that coming into operation be deemed to have been made under section 19 and may be amended or revoked accordingly.
 16.A request made under section 54(1) of the repealed Act and not complied with before the coming into operation of this clause shall be deemed on that coming into operation to be a requirement made under section 38(3).
 17.A matter referred to the Minister for Conservation and Environment under section 55(1) of the repealed Act and not reported on to him by the Authority before the coming into operation of this clause shall be deemed on that coming into operation to be a proposal referred to the Authority under section 38.
@@ -27,9 +27,9 @@
 (b) agreement, whether in writing or not;
 (c) deed or other instrument,
 unless the context is such that it would be incorrect or inappropriate, a reference to —
-(d) an Environmental Appeal Board shall be construed as a reference to an appeals committee;
-(e) the Conservation and Environment Council shall be construed as a reference to the Authority;
-(f) the Department shall be construed as a reference to the Authority;
+(d) an Environmental Appeal Board shall be construed as a reference to an appeals committee; or
+(e) the Conservation and Environment Council shall be construed as a reference to the Authority; or
+(f) the Department shall be construed as a reference to the Authority; or
 (g) the Director shall be construed as a reference to the CEO; or
 (h) the repealed Act or to a provision thereof shall be construed as a reference to this Act or to the equivalent provision thereof, if any, as the case requires.
 (2) The Minister, by notice published in the Gazette, may determine that a reference in any written law, agreement, deed or other instrument referred to in subitem (1) to “the Department of Conservation and Environment” or “the Department” shall be construed as a reference to the Department of the Public Service of the State through which this Act is administered, and the determination shall have effect accordingly.

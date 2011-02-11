@@ -9,7 +9,7 @@
 4.An inspector appointed under section 22(3) of the Clean Air Act 1964 and holding office as such immediately before the coming into operation of this clause shall on that coming into operation be deemed to have been appointed to be an inspector under section 88.
 5.A person who has applied for a licence or a renewal or transfer thereof under section 24 of the Clean Air Act 1964 and whose application is awaiting determination immediately before the coming into operation of this clause shall be deemed on that coming into operation to have applied under section 59 for, or for the renewal or transfer of, a licence of the same kind as the first-mentioned licence.
 6.A person who is immediately before the coming into operation of this clause the holder of a licence under the Clean Air Act 1964 shall on that coming into operation be deemed to be the holder of a licence under Part V —
-(a) of the same kind as the first-mentioned licence;
+(a) of the same kind as the first-mentioned licence; and
 (b) valid for the remainder of the period for which the first-mentioned licence would have been valid had the Clean Air Act 1964 not been repealed; and
 (c) subject to the same conditions as those to which the first-mentioned licence was subject.
 7.An exemption granted under section 33 of the Clean Air Act 1964 and in force immediately before the coming into operation of this clause shall on that coming into operation be deemed to be an exemption granted under section 6.
