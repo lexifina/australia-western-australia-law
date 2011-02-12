@@ -2,15 +2,15 @@ Notes
 This is a compilation of the Biosecurity and Agriculture Management Act 2007 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management Act 2007 | 23 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; Pt. 1 (other than s. 1 and 2), Pt. 2 Div. 6, Pt. 7 Div. 1 and s. 181 and 187: 24 Oct 2007 (see s. 2 and Gazette 23 Oct 2007 p. 5643); s. 22, Pt. 4 and 5, Pt. 6 Div. 1 SubDiv 1, Div. 2 and 3, Pt. 7 Div. 2, 3 and 6, s. 182, Pt. 8 (other than s. 193) and Sch. 1: 22 May 2010 (see s. 2 and Gazette 21 May 2010 p. 2177)
+Biosecurity and Agriculture Management Act 2007 | 23 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; Pt. 1 (other than s. 1 and 2), Pt. 2 Div. 6, Pt. 7 Div. 1 and s. 181 and 187: 24 Oct 2007 (see s. 2 and Gazette 23 Oct 2007 p. 5643); s. 22, Pt. 4 and 5, Pt. 6 Div. 1 SubDiv 1, Div. 2 and 3, Pt. 7 Div. 2, 3 and 6, s. 182, Pt. 8 (other than s. 193) and Sch. 1: 22 May 2010 (see s. 2 and Gazette 21 May 2010 p. 2177); Pt. 6 Div. 1 SubDiv. 3 and Pt. 7 Div. 5: 12 Feb 2011 (see s. 2 and Gazette 11 Feb 2011 p. 479)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 5 | 35 of 2010 | 1 Oct 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Agriculture and Related Resources Protection Amendment Act 2010 s. 68 | 46 of 2010 | 28 Oct 2010 | 18 Dec 2010 (see s. 2(b) and Gazette 17 Dec 2010 p. 6349)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, Div. 3 (other than s. 22), Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2 and 3, Pt. 7 Div. 4 and 5, s. 183-186, s. 193 and Pt. 9 | 23 of 2007 (as amended by No. 46 of 2010 s. 68) | 12 Oct 2007 | To be proclaimed (see s. 2)
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, s. 23-42, Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2 and 3, Pt. 7 Div. 4 and 5, s. 183-186, s. 193 and Pt. 9 have not come into operation. They read as follows:
+Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, Div. 3 (other than s. 22), Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2, Pt. 7 Div. 4, s. 183-186, s. 193 and Pt. 9 | 23 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2)
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, s. 23-42, Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2, Pt. 7 Div. 4, s. 183-186, s. 193 and Pt. 9 have not come into operation. They read as follows:
 Part 2 — Biosecurity
 Division 1 — Permitted, prohibited and unlisted organisms
 11.Permitted organisms
@@ -449,30 +449,6 @@ pensioner concession card means a currently valid card, known by that name, issu
 (5) A person is not entitled to be exempt under this section from liability for payment of a rates amount in respect of any land if —
 (a) the land is occupied by that person and a person who is neither a pensioner nor a dependant of the first-mentioned person; or
 (b) the land is partly owned by that person and partly owned by a person who is neither a pensioner nor a dependant of the first-mentioned person.
-Subdivision 3 — Establishment and operation of Declared Pest Account
-137.Declared Pest Account
-(1) An account called the Declared Pest Account must be established —
-(a) as an operating account; or
-(b) as part of an operating account nominated by the Director General.
-(2) The following money must be credited to the Declared Pest Account —
-(a) rates collected under Subdivision 2;
-(b) unpaid rates recovered by the Commissioner under the Taxation Administration Act 2003 section 60;
-(c) amounts appropriated under section 139 in connection with a rate determination made for the purposes of the Account;
-(d) the proceeds of the sale of any capital asset purchased using money from the Account;
-(e) any other amounts lawfully received by the Director General for the purposes of the Account.
-138.Use of funds in Declared Pest Account
-Money may be debited to the Declared Pest Account for the following purposes —
-(a) to carry out measures to control declared pests on and in relation to areas for which the rates were collected under Division 1;
-(b) to promote public awareness of the measures being taken or required to be taken to control declared pests;
-(c) to purchase capital assets required in connection with the purposes mentioned in paragraphs (a) and (b);
-(d) the payment of the costs of assessing and collecting rates under Subdivision 2 as determined by the Commissioner;
-(e) the credit of amounts under section 139(3);
-(f) for any purpose authorised under this Act or another written law.
-[Section 138 amended by No. 46 of 2010 s. 68.]
-139.Appropriations against the Consolidated Account
-(1) For each financial year for which a rate is determined for the purposes of the Declared Pest Account, an amount equal to the rates amounts collected by the Commissioner under the rate determination is charged to the Consolidated Account, which this subsection appropriates accordingly.
-(2) Despite any other law, for the purposes of this section the amount of rates treated as having been collected by the Commissioner in a financial year is to be the amount of the rates which becomes payable in that financial year.
-(3) If the Commissioner refunds under the Taxation Administration Act 2003 section 54 an amount collected by the Commissioner under this Division, an equivalent amount must be credited to the Consolidated Account from the Declared Pest Account.
 Part 7 — Administration
 Division 4 — Quarantine facilities, inspection points and other places
 165.Arrangements for provision of quarantine facilities
@@ -481,36 +457,6 @@ The Director General may make arrangements with any public authority or other pe
 The Director General may, by notice in the Gazette, designate a place named or described in the notice as an inspection point for the purposes of this Act.
 167.Use of other places
 The Director General may make arrangements with any public authority or other person to use the person’s place for the purposes of this Act.
-Division 5 — Advisory groups and recognised biosecurity groups
-168.Advisory groups
-(1) The Minister, by instrument signed by the Minister, may appoint persons to constitute an advisory group.
-(2) A person is eligible for appointment if the person has a general or specific interest, or expertise, in a matter regulated under this Act.
-(3) An advisory group has such advisory functions as are specified in the instrument made under subsection (1).
-(4) The Minister may, by instrument signed by the Minister, amend or cancel an instrument made under subsection (1).
-169.Recognised biosecurity groups
-(1) The Minister, by instrument signed by the Minister, may with the consent of an existing body of persons, recognise the body as a biosecurity group for the purposes of this section.
-(2) A body is eligible for recognition if the body is established for a purpose which includes controlling declared pests in a specified area.
-(3) The Minister may, by instrument signed by the Minister, amend or cancel an instrument made under subsection (1).
-170.Funds available to recognised biosecurity groups
-(1) The Minister may, with the consent of a body recognised under section 169, authorise the Director General to transfer money to the body from the Declared Pest Account for a purpose referred to in section 138(a).
-(2) The purpose for which money is transferred under subsection (1) must relate to the area for which the rates included in the money were collected under Part 6 Division 1 Subdivision 2.
-(3) The Director General must give the body written notice of the transfer specifying —
-(a) the purposes for which the money is to be used; and
-(b) directions to the body as to —
-(i) the use of the money for those purposes; and
-(ii) reporting to the Director General on the use of the money;
-and
-(c) the period within which those purposes are to be accomplished.
-(4) The Director General may, by notice in writing, vary the purposes or directions specified in a notice of transfer given under subsection (3) and may extend the period within which the purposes are to be accomplished.
-(5) The body must use the money for the purposes specified in the notice under subsection (3) —
-(a) within the specified period, or within any further time allowed by the Director General; and
-(b) in accordance with the specified directions.
-(6) If a body does not use any or all of the money in accordance with subsection (5) —
-(a) the body must pay an amount equal to the amount that was not spent in accordance with that subsection to the Director General within such time as is specified by the Director General; and
-(b) the Director General must credit the amount to the Declared Pest Account.
-(7) If a body does not comply with subsection (6), an amount equal to the amount that was not spent in accordance with subsection (5) is recoverable from the body in a court of competent jurisdiction as a debt due to the State.
-171.Publication of report by recognised biosecurity group
-Any report made to the Director General pursuant to directions under section 170 must be published on the department’s electronic site.
 Division 7 — General
 183.Arrangements with corresponding authorities
 (1) In this section —
