@@ -57,4 +57,4 @@ first day (including all necessary preparation) ................................
 second or subsequent days .......................... | 450
 or ................................................................. | 85 per hour
 (13)Appeal to President of Children’s Court from Magistrate or Justice ........................................... | 500
-[Schedule 1 inserted in Gazette 30 Oct 1992 p. 5536-7.]
+[Schedule 1 inserted: Gazette 30 Oct 1992 p. 5536-7.]

@@ -31,4 +31,4 @@ Federal or High Court
 QUEEN’S COUNSEL
 18.The rates set out above plus an amount not exceeding 50% where the appearance of Queen’s Counsel has been approved in advance.
 19.Preparation — at the hourly rate where counsel is not the assigned practitioner or a member of his or her firm.
-[Schedule 3 inserted in Gazette 30 Oct 1992 p. 5338-9.]
+[Schedule 3 inserted: Gazette 30 Oct 1992 p. 5338-9.]

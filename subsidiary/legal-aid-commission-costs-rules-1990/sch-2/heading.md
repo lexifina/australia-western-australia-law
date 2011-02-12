@@ -31,4 +31,4 @@ ItemDescription | Maximum Rate
 (2)Other papers ............................................. | 5 per page
 10.Scanning 60 folios per hour ............................................... | 60
 11.Hourly rate where no other fee applies .............. | 115 per hour
-[Schedule 2 inserted in Gazette 30 Oct 1992 p. 5338.]
+[Schedule 2 inserted: Gazette 30 Oct 1992 p. 5338.]
