@@ -13,9 +13,9 @@
 [Heading inserted in Gazette 10 Jun 2008 p. 2490.]
 5. | For pathological service — for each request to a separate department of the laboratory ……..... | $166
 6. | For radiological service — for each item of service ……………………………………….... | $166
-7. | For drugs and medications, subject to item 8, for each item — (a)at a participating hospital — (i)for an item on the PBS list ……...... (ii)for an item not on the PBS list ….... (b)at a hospital that is not a participating hospital ……………………………….. | PBS price up to a maximum of $33.30 $26.60 $26.60
+7. | For drugs and medications, subject to item 8, for each item — (a)at a participating hospital — (i)for an item on the PBS list ……...... (ii)for an item not on the PBS list ….... (b)at a hospital that is not a participating hospital ……………………………….. | PBS price up to a maximum of $34.20 $27.40 $27.40
 8. | For each other individual service (with any drugs and medications supplied at the time of the initial service being treated as included in that service) ……………………… | $166
-[Division 2 inserted in Gazette 10 Jun 2008 p. 2490-1; amended in Gazette 10 Feb 2009 p. 275; 23 Jun 2009 p. 2465; 19 Jan 2010 p. 150; 30 Jun 2010 p. 3101-2.]
+[Division 2 inserted in Gazette 10 Jun 2008 p. 2490-1; amended in Gazette 10 Feb 2009 p. 275; 23 Jun 2009 p. 2465; 19 Jan 2010 p. 150; 30 Jun 2010 p. 3101-2; 11 Feb 2011 p. 481.]
 ## Division 3 — Compensable same day patients
 [Heading inserted in Gazette 10 Jun 2008 p. 2491.]
 9. | In hospitals, other than day hospitals, nursing homes and nursing posts — (a)for a patient, not being a patient mentioned in paragraph (aa), in respect of whose care and treatment the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | $1 448 per day
