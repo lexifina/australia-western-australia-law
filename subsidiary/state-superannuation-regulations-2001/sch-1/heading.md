@@ -10,7 +10,7 @@
 [6, 7.deleted]
 8.Colleges established or continued under the Vocational Education and Training Act 1996
 8a.Commission for Occupational Safety and Health (WorkSafe W A) established by the Occupational Safety and Health Act 1984
-9.Commissioner for Public Sector Standards under the Public Sector Management Act 1994
+[9.deleted]
 10.Commissioner for Equal Opportunity appointed under the Equal Opportunity Act 1984
 11.Commissioner of Police appointed under the Police Act 1892
 12.Coordinator of Energy appointed under the Energy Coordination Act 1994
@@ -34,7 +34,7 @@
 29.The Western Australian Museum constituted by the Museum Act 1969
 30.Western Australian Land Information Authority established by the Land Information Authority Act 2006
 31.Western Australian Planning Commission established by the Planning and Development Act 2005
-[Division 1 amended in Gazette 29 Jun 2001 p. 3105; 26 Aug 2003 p. 3757; 1 Dec 2004 p. 5703 and 5717; 26 May 2006 p. 1931; 13 Apr 2007 p. 1609-10; amended by Act No. 75 of 2003 s. 56(1); No. 10 of 2007 s. 43.]
+[Division 1 amended in Gazette 29 Jun 2001 p. 3105; 26 Aug 2003 p. 3757; 1 Dec 2004 p. 5703 and 5717; 26 May 2006 p. 1931; 13 Apr 2007 p. 1609-10; amended by Act No. 75 of 2003 s. 56(1); No. 10 of 2007 s. 43; 11 Feb 2011 p. 506.]
 ## Division 2 — Self funding employers
 1.The Government of Western Australia in relation to a worker in respect of whom the obligations of the Government are being discharged by a person, or by the employing authority of a department or organisation, specified in an order under regulation 9(1)(b) unless the order specifies that in relation to that worker the Government is a Division 1 Employer
 2.Animal Resources Authority established by the Animal Resources Authority Act 1981

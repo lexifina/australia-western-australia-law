@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 November 2010 of the State Superannuation Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the State Superannuation Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 State Superannuation Regulations 2001 | 16 Feb 2001 p. 921-1074 | 17 Feb 2001 (see r. 2 and Gazette 16 Feb 2001 p. 903)
@@ -39,6 +39,7 @@ State Superannuation Amendment Regulations 2009 Pt. 2 | 24 Nov 2009 p. 4740-3 | 
 State Superannuation Amendment Regulations (No. 4) 2009 | 8 Jan 2010 p. 29-30 | r. 1 and 2: 8 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jan 2010 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 2) 2010 | 30 Jun 2010 p. 3131-55 | r. 1 and 2: 30 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Reprint 4: The State Superannuation Regulations 2001 as at 5 Nov 2010 (includes amendments listed above)
+Public Sector Reform (Consequential Amendments) Regulations 2011 Pt. 8 | 11 Feb 2011 p. 502-7 | 12 Feb 2011 (see r. 2(d))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. Part 9 of these regulations were amending regulations under that subsection. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed in the Acts database of the Statutes of Western Australia.
 Formerly referred to the Water Services Coordination Act 1995 the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Nurses and Midwives Act 2006.

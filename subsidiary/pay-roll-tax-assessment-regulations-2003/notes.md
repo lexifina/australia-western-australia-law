@@ -20,9 +20,10 @@ Pay-roll Tax Assessment Amendment Regulations 2007 | 15 May 2007 p. 2096 | 1 Jul
 Pay-roll Tax Assessment Amendment Regulations 2009 | 19 Jun 2009 p. 2252 | r. 1 and 2: 19 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 2: The Pay-roll Tax Assessment Regulations 2003 as at 14 Aug 2009 (includes amendments listed above)
 Pay-roll Tax Assessment Amendment Act 2010 Part 3 assented to 25 Jun 2010 | 25 Jun 2010 (see s. 2(a))
+Public Sector Reform (Consequential Amendments) Regulations 2011 Pt. 6 | 11 Feb 2011 p. 502-7 | 12 Feb 2011 (see r. 2(d))
 The Workplace Agreements Act 1993 expired 14 Sep 2003.
-At the time of this reprint the Commissioner of Workplace Agreements does not exist.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection is called the Department of Commerce.
+At the time of this compilation the Commissioner of Workplace Agreements does not exist.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Consumer and Employment Protection is called the Department of Commerce.
 The Office of Water Regulation was abolished with effect 1 Jan 2004 (see Notice in Gazette 6 Jan 2004 p. 41).
 The Water Resources Legislation Amendment Act 2007 s. 223 reads as follows:
 223.Agreements and instruments generally

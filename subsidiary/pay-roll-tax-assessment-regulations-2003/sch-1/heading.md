@@ -39,12 +39,12 @@ The Office of the Auditor General
 The Office of the Director of Public Prosecutions
 The Office of the Information Commissioner
 The Office of the Inspector of Custodial Services
-The Office of the Public Sector Standards Commissioner
 The Office of Water Regulation
 The Parliament
 The Parliamentary Commissioner for Administrative Investigations
 The Peel Development Commission
 The Pilbara Development Commission
+The Public Sector Commission
 The Recreation Camps and Reserves Board
 The South West Development Commission
 The State Supply Commission
@@ -53,4 +53,4 @@ The Western Australian Building Management Authority
 The Western Australian Electoral Commission
 The Western Australia Police Service and the Police Force within the meaning of the Police Act 1892
 The Wheatbelt Development Commission
-[Schedule 1 amended in Gazette 7 Sep 2004 p. 3884; 5 Nov 2004 p. 4987; 2 May 2006 p. 1709-10; 11 Jul 2006 p. 2546; 22 Aug 2006 p. 3469; 22 Dec 2006 p. 5807.]
+[Schedule 1 amended in Gazette 7 Sep 2004 p. 3884; 5 Nov 2004 p. 4987; 2 May 2006 p. 1709-10; 11 Jul 2006 p. 2546; 22 Aug 2006 p. 3469; 22 Dec 2006 p. 5807; 11 Feb 2011 p. 504-5.]
