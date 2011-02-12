@@ -10,8 +10,8 @@ MASTER CLASS III —
 3 years of approved watchkeeping service since obtaining the Second Mate certificate.
 (iii)Holder of another acceptable qualification
 a period of service appropriate to the qualification, based on the above requirements.
-(b)Qualifying service for endorsement of basic certificate of competency for “Trading” or “Fishing” endorsement
-12 months of approved sea service in the industry (i.e. trading or fishing) appropriate to the endorsement, including 6 months of approved service in vessels of not less than 20 metres in length since obtaining the Master Class III certificate.
+(b)Qualifying service for annotation of basic certificate of competency for “Trading” or “Fishing” —
+12 months of approved sea service in the industry (i.e. trading or fishing) appropriate to the annotation, including 6 months of approved service in vessels of not less than 20 metres in length since obtaining the Master Class III certificate.
 Notes: Candidates may take Parts B-1 and B-2 of the examination after completing one-half of the qualifying service. However Part C may be attempted only after all the qualifying service is acquired.
 (c)Minimum Age: 21 years.
 (d)Compulsory Training and Qualifications —
@@ -20,7 +20,7 @@ Notes: Candidates may take Parts B-1 and B-2 of the examination after completing
 (ii)To qualify for issue of the certificate of competency
 —In addition to obtaining a satisfactory pass at all parts of the examination candidates must satisfy the following requirements —
 successfully complete approved courses in —
-(a)For the Master Class III certificate of competency which is restricted for use within State jurisdiction;
+(a)For the Master Class III certificate of competency which is restricted by the chief executive officer;
 —elements of personnel and shipboard safety, firefighting training and accident prevention —
 —radiotelephony;
 —proficiency in administering first aid to the injured;
@@ -30,8 +30,7 @@ successfully complete approved courses in —
 —first aid at sea;
 —prevention and control of fires on board ship;
 —proficiency in survival craft;
-—simulated radar navigation and anticollision exercises
-produce an acceptable certificate indicating a specified minimum standard of physical fitness.
+—simulated radar navigation and anticollision exercises.
 Examination Subjects
 The examination for a certificate of competency as Master Class III shall be in accordance with the syllabuses set out in Schedule One to Section 2 of the Code and shall consist of —
  | Subject No. | Pass Mark
@@ -64,8 +63,8 @@ MASTER CLASS IV — Prerequisites —
 1 year of approved watchkeeping service and appropriate experience in vessels of less than 80 metres length.
 (iii)Holder of another acceptable qualification —
 a period of service appropriate to the qualification based on the above requirements.
-(b)Qualifying service for endorsement of basic certificate of competency for “Trading” and “Fishing” endorsements —
-6 months of approved service in the industry (i.e. trading or fishing) appropriate to the endorsement, including 3 months (within the last 5 years) of approved service since obtaining the Master Class IV certificate of competency.
+(b)Qualifying service for annotation of basic certificate of competency for “Trading” and “Fishing” —
+6 months of approved service in the industry (i.e. trading or fishing) appropriate to the annotation, including 3 months (within the last 5 years) of approved service since obtaining the Master Class IV certificate of competency.
 Notes: Candidates may take Parts B-1 and B-2 of the examination after completing one-half of the qualifying service. However, Part C may be attempted only after all the qualifying service is acquired.
 (c)Minimum Age 20 years.
 (d)Compulsory Training and Qualifications:
@@ -76,8 +75,7 @@ Notes: Candidates may take Parts B-1 and B-2 of the examination after completing
 successfully complete approved courses in —
 —elements of personnel and shipboard safety, firefighting training and accident prevention;
 —radiotelephony;
-—proficiency in administering first aid to the injured;
-produce an acceptable certificate indicating a specified minimum standard of physical fitness.
+—proficiency in administering first aid to the injured.
 Examination Subjects
 The examination for a certificate of competency as Master Class IV shall be in accordance with the syllabuses set out in Schedule One to Section 2 of the Code and shall consist of —
  | Subject No. | Pass Mark
@@ -98,13 +96,13 @@ Fishing | 7F
 Notes:
 1.Holders of a valid Second Mate certificate of competency may be exempted from examination in subjects No. l, 2, 3, 4 and 5. (N.B. not 3F).
 2.Candidates who hold a valid Mate Class IV certificate of competency may be exempted from examination in subjects No. 1, 2, 3 or 3F, as appropriate, 4 and 5.
-3.Candidates for Master Class IV certificates of competency endorsed for Offshore operations up to 100 nautical miles to seaward, Inshore and/or Sheltered Water operations only shall not be required to take the Offshore Navigation paper.
+3.Candidates for Master Class IV certificates of competency restricted for Offshore operations up to 100 nautical miles to seaward, Inshore and/or Sheltered Water operations only shall not be required to take the Offshore Navigation paper.
 4.In Part B-1 subjects may be taken separately, that is on a single subject basis. In Part B-2 the subjects must be attempted and passed as a group.
 MATE CLASS IV — Prerequisites —
 (a)Qualifying service (in trading and/or fishing vessels as appropriate) required for the basic certificate of competency —
 —3 years of approved sea service.
-(b)Qualifying service for endorsement of basic certificate of competency for “Trading” or “Fishing” endorsements —
-—6 months of approved service in the industry (i.e. trading or fishing) in vessels of less than 80 metres in length engaged in operations appropriate to the endorsement, including 3 months obtained within the preceding 5 years.
+(b)Qualifying service for annotation of basic certificate of competency for “Trading” or “Fishing” —
+—6 months of approved service in the industry (i.e. trading or fishing) in vessels of less than 80 metres in length engaged in operations appropriate to the annotation, including 3 months obtained within the preceding 5 years.
 Notes: Candidates may take Parts B-1 and B-2 of the examination after completing one-half of the qualifying service. However Part C may be attempted only after all the qualifying service is acquired.
 (c)Minimum Age: 19 years.
 (d)Compulsory Training and Qualifications —
@@ -115,8 +113,7 @@ In addition to obtaining a satisfactory pass at all parts of the examination, ca
 successfully complete approved courses in —
 —elements of personnel and shipboard safety, firefighting training and accident prevention;
 —radiotelephony;
-—proficiency in administering first aid to the injured;
-produce an acceptable certificate indicating a specified minimum standard of physical fitness.
+—proficiency in administering first aid to the injured.
 Examination Subjects
 The examination for a certificate of competency as Mate Class IV shall be the same as that for a certificate of competency as Master Class IV except that the examination in Nautical Knowledge may be varied so as to take into consideration that the holder will not be permitted to take command of a vessel. The examination shall be in accordance with the syllabuses set out in Schedule One to Section 2 of the Code and shall consist of —
  | Subject No. | Pass Mark
@@ -134,7 +131,7 @@ Signals | 6
 Nautical Knowledge —
 Trading | 7
 Fishing | 7F
-Notes: Candidates for Mate Class IV certificates of competency endorsed for offshore operations up to 100 nautical miles to seaward, Inshore and/or Sheltered Water operations only shall not be required to take the Offshore Navigation paper.
+Notes: Candidates for Mate Class IV certificates of competency restricted for offshore operations up to 100 nautical miles to seaward, Inshore and/or Sheltered Water operations only shall not be required to take the Offshore Navigation paper.
 MASTER CLASS V — Prerequisites —
 (a)Qualifying service (in trading and/or fishing vessels as appropriate) required for the basic certificate of competency.
 (i)Candidate not holding any certificate of competency —
@@ -143,7 +140,7 @@ MASTER CLASS V — Prerequisites —
 3 months of appropriate service obtained within the previous 5 years in vessels of less than 35 metres in length engaged in operations (i.e. trading or fishing) appropriate to the certificate of competency required.
 (iii)Holder of another acceptable qualification —
 a period of service appropriate to the qualification, based on the above requirements.
-(b)Qualifying service for endorsement of basic certificate of competency for “Trading” or “Fishing” endorsements —
+(b)Qualifying service for annotation of basic certificate of competency for “Trading” or “Fishing” —
 3 months of approved sea service in the industry (i.e. trading or fishing) in vessels of less than 35 metres in length engaged in operations appropriate to the endorsement and obtained within the preceding 5 years.
 Notes: Candidates may take Parts B-1 and B-2 of the examination after completing one-half of the qualifying service. However Part C may be attempted only after all the qualifying service is acquired.
 (c)Minimum Age: 19 years.
@@ -154,8 +151,7 @@ Notes: Candidates may take Parts B-1 and B-2 of the examination after completing
 —In addition to obtaining a satisfactory pass at all parts of the examination candidates must satisfy the following requirements —
 satisfactorily complete approved courses in —
 —elements of personnel and shipboard safety, firefighting training and accident prevention;
-—radiotelephony; and
-produce an acceptable certificate indicating a specified minimum standard of physical fitness.
+—radiotelephony.
 Examination Subjects
 The examination for a certificate of competency as Master Class V shall be in accordance with the syllabuses set out in Schedule One to Section 2 of the Code and shall consist of —
  | Subject No. | Pass Mark
@@ -216,8 +212,8 @@ COXSWAIN — INSTRUCTOR OF COMMERCIAL SKI BOAT — Candidates —
 (e)shall be required to pass an examination in —
 (i)the rules of the road; and
 (ii)practical boat handling; and
-(iii)ski-ing regulations as applicable to private pleasure craft; and
-(iv)the appropriate sight test.
+(iii)ski-ing regulations as applicable to private pleasure craft.
+[(iv)deleted]
 MARINE ENGINEER CLASS III — Prerequisites —
 (a)Qualifying service —
 (i)12 months of qualifying sea service on vessels of 20 QN or over;
@@ -235,8 +231,7 @@ not less than 6 months’ qualifying service has been performed on vessels prope
 passed the requisite examinations — holders of a valid engineer watchkeeper certificate are only required to pass the Engineering Knowledge written and oral examinations.
 successfully completed approved courses in —
 —elements of personnel safety and shipboard safety, firefighting training and accident prevention;
-—first aid at sea;
-produced evidence of a satisfactory minimum standard of medical fitness.
+—first aid at sea.
 Attained the age of 20 years.
 Note: Before the certificate may be used on vessels of 3 000 kW propulsion power, or over, it shall be endorsed for completion of an approved course in prevention and control of fires in ships.
 Examination Subjects
@@ -294,7 +289,7 @@ Examination Subjects —
 Engineering Knowledge (1 3-hour paper)
 Engineering Knowledge (Oral)
 (b)The examination for refrigeration endorsement of a certificate as Marine Engine-Driver Grade II shall be in accordance with the syllabuses set out in Schedule Two to Section 2 of the Code.
-[Schedule 4 amended in Gazette 2 Aug 1985 p. 2697; 11 Aug 1992 p. 3977; 24 Aug 2004 p. 3661; 8 Dec 2006 p. 5390; 11 Dec 2009 p. 5091.]
+[Schedule 4 amended in Gazette 2 Aug 1985 p. 2697; 11 Aug 1992 p. 3977; 24 Aug 2004 p. 3661; 8 Dec 2006 p. 5390; 11 Dec 2009 p. 5091; 11 Feb 2011 p. 490-3.]
 Schedule 5 [r. 28] Safety manning PART I TOTAL SAFETY MANNING FOR SHELTERED WATERS (SEE NOTE 7) AND INSHORE OPERATIONAL AREAS | Engine room manning | Other personnel | As determined by Manning Committee
 Certificated personnel (see Note 1) | Qualification (see Note 3) | Marine Engine Driver Grade I | Marine Engine Driver Grade II | Master’s certificate with Engineer Endorsement (see Note 9)
 Duty | Engineer | Engineer | Engineer

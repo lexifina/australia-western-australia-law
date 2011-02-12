@@ -8,7 +8,7 @@ Fees for matters under Act
 Fees for matters under regulations
 2. | r. 8(1) | Application for certificate of competency | $193.90
 3. | r. 8(1) | Grant of certificate of competency | $141.60
-4. | r. 9(1) | Deciding application for addition or deletion of endorsement | $193.90 per hour or part of an hour
+4. | r. 9(1) | Deciding application for addition or deletion of restriction or endorsement | $193.90 per hour or part of an hour
 5. | r. 10(1b) | Application for revalidation of certificate of competency: ·Master Class III ·Master Class IV ·Mate Class IV ·Marine Engineer Class III ·Marine Engine Driver Grade I | $193.90
 6. | r. 10(1b) | Application for revalidation of certificate of competency: ·Master Class V ·Coxswain ·Marine Engine Driver Grade II | $141.60
 7. | r. 13 | Application for acceptance of certificate of competency issued by another marine authority | $193.90
@@ -20,4 +20,4 @@ Fees for matters under regulations
 13. | r. 27A(3) | Issue of certificate of proficiency | $12.90
 14. | r. 28(1A) | Application for safety manning direction | $193.90
 15. | r. 29(1) | Application for dispensation | $193.90
-[Schedule 3 inserted in Gazette 30 Jun 2010 p. 3163-5.]
+[Schedule 3 inserted in Gazette 30 Jun 2010 p. 3163-5; amended in Gazette 11 Feb 2011 p. 490.]
