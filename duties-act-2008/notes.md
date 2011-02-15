@@ -13,7 +13,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv 3 | 12 of 2008 (as amended by No. 9 of 2010 Pt. 3 Div. 1) | 14 Apr 2008 | 1 Jul 2013 (see s. 2(c))
-Revenue Laws Amendment and Repeal Act 2010 s. 4-11, 14 and 15 | 17 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(d))
+Revenue Laws Amendment and Repeal Act 2010 s. 4-11, 14 and 15 | 17 of 2010 | 25 Jun 2010 | 1 Mar 2011 (see s. 2(d) and Gazette 15 Feb 2011 p. 535)
 On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv. 3 (as amended by No. 9 of 2010 s. 9) had not come into operation. It reads as follows:
 Part 2 — Amendments
 Division 2 — Duties Act 2008 amended
