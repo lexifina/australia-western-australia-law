@@ -1,28 +1,29 @@
 Notes
-This is a compilation of the Planning and Development Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 18 February 2011 of the Planning and Development Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
- | Short title | Number and year | Assent | Commencement
- | Planning and Development Act 2005 | 37 of 2005 | 12 Dec 2005 | s. 1 and 2: 12 Dec 2005; Act other than s. 1, 2, 149, 150 and Pt. 13 Div. 3: 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077) s. 150 and Pt. 13 Div. 3: 1 Jul 2009 (see s. 2 and Gazette 19 Jun 2009 p. 2225)
- | Swan Valley Planning Legislation Amendment Act 2006 s. 20(3) | 7 of 2006 | 19 Apr 2006 | 18 Jun 2006 (see s. 2 and Gazette 16 Jun 2006 p. 2109)
- | Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
- | Land Information Authority Act 2006 s. 147 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 1: The Planning and Development Act 2005 as at 23 Nov 2007 (includes amendments listed above)
+Short title | Number and year | Assent | Commencement
+Planning and Development Act 2005 | 37 of 2005 | 12 Dec 2005 | s. 1 and 2: 12 Dec 2005; Act other than s. 1, 2, 149, 150 and Pt. 13 Div. 3: 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077); s. 150 and Pt. 13 Div. 3: 1 Jul 2009 (see s. 2 and Gazette 19 Jun 2009 p. 2225)
+Swan Valley Planning Legislation Amendment Act 2006 s. 20(3) | 7 of 2006 | 19 Apr 2006 | 18 Jun 2006 (see s. 2 and Gazette 16 Jun 2006 p. 2109)
+Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
+Land Information Authority Act 2006 s. 147 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 127 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 1: The Planning and Development Act 2005 as at 23 Nov 2007 (includes amendments listed above except those in the Planning and Development Act 2005 s. 150 and Pt. 13 Div. 3)
 Acts Amendment (Justice) Act 2008 Pt. 18 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 690 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 100 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 8 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 1, Pt. 4 and Pt. 5 Div. 1 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 2: The Planning and Development Act 2005 as at 18 Feb 2011 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
-Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 312 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
+Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 3 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Land Administration Act 1997.
+Repealed by the Water Resources Legislation Amendment Act 2007.
 Repealed by the Mining Act 1978.
-On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149 had not come into operation. It reads as follows:
-“
+On the date as at which this reprint was prepared, the Planning and Development Act 2005 s. 149 had not come into operation. It reads as follows:
 149.Conditions on rural land (tied lots)
 (1) In this section —
 rural land means land zoned for agricultural or rural use under a local planning scheme.
@@ -52,11 +53,9 @@ a condition referred to in subsection (2) commits an offence.
 (d) the procedure for the approval;
 (e) the certification of relevant facts in relation to the approval; and
 (f) any other matter necessary or convenient to be prescribed for giving effect to the purposes of this section.
-”.
-Now known as the Local Government (Miscellaneous Provisions) Act 1960. Section 48 was repealed by the Local Government Act 1995 s. 970.
+Now known as the Local Government (Miscellaneous Provisions) Act 1960. Section 248 was repealed by the Local Government Act 1995 s. 9.70.
 Lands Titles Office diagrams are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 The Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 3, s. 4 (which gives effect to Sch. 1), Pt. 3 and 4 read as follows:
-“
 3.Interpretation
 In this Act —
 commencement day means the day on which this section comes into operation;
@@ -67,16 +66,12 @@ TPD Act means the Town Planning and Development Act 1928;
 WAPC Act means the Western Australian Planning Commission Act 1985.
 4.Acts in Schedule 1 repealed
 The Acts mentioned in Schedule 1 are repealed.
-”.
 Schedule 1 reads as follows:
-“
 Schedule 1 — Acts repealed
 [s. 4]
 Metropolitan Region Town Planning Scheme Act 1959
 Town Planning and Development Act 1928
 Western Australian Planning Commission Act 1985
-”.
-“
 Part 3 — Transitional and saving provisions
 Division 1 — Preliminary
 17.Application of Interpretation Act 1984
@@ -172,129 +167,11 @@ The repeal of section 37A(4a) of the MRTPS Act does not affect the validity of a
 Part 4 — Validation provision
 31.Validation of certain endorsed approvals
 Any approval of the Commission endorsed on a diagram or plan of survey of a stage of a subdivision under the Town Planning and Development Act 1928 before the coming into operation of this section is taken to be, and always to have been, as valid and effective as it would have been if section 145 of the Planning and Development Act 2005 had been in operation at the time of the endorsement and the approval had been endorsed under that section.
-”.
-Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 4 Div. 2 of those regulations read as follows:
-“
-1.Citation
-These regulations are the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
-2.Commencement
-These regulations come into operation on the day on which the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007 comes into operation.
-3.When certain modifications have effect
-(1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
-(2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes Administration) Regulations 2002 Part 5 to the extent of any inconsistency.
-Note:Modifications prescribed for the purposes of section 7(2) of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Gazette, see section 7(3) of the Act.
-4.Modification of State taxing laws
-(1) For the purposes of section 7(2) of the Act, each State taxing law is taken to be modified to the extent necessary to give effect to subregulation (2).
-(2) If —
-(a) a State taxing law applies, or could apply, to any extent, to or in relation to an event, state of affairs or transaction, and the corresponding applied law also applies, or could apply, to any extent, to or in relation to the same event, state of affairs or transaction; and
-(b) a person is required or permitted, or could be required or permitted, to take an action under both the State taxing law and the corresponding applied law in relation to the event, state of affairs or transaction; and
-(c) the person has taken the action in accordance with the corresponding applied law; and
-(d) the Commissioner of State Revenue has sufficient information about the event, state of affairs or transaction to carry out his or her functions in relation to it under the State taxing law or the corresponding applied law or both, as the case requires,
-then —
-(e) the person is not required to take the action under the State taxing law; and
-(f) the Commissioner may carry out his or her functions in relation to the event, state of affairs or transaction as if the person had taken whatever action is required or permitted under the State taxing law in relation to the event, state of affairs or transaction.
-(3) The particular modifications set out in these regulations of certain State taxing laws have effect for the purposes of section 7(2) of the Act.
-Part 4 — Metropolitan region improvement and planning
-Division 2 — The Planning and Development Act 2005
-23.Modification of the Planning and Development Act 2005
-This Division sets out modifications of the Planning and Development Act 2005 in its application as a law of Western Australia.
-24.Section 201A inserted
-After section 201 the following section is inserted —
-“
-201A.Application of Division in non-Commonwealth places
-(1)In this section —
-applied Planning and Development Act means the Planning and Development Act 2005 in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
-(2)In this Division, unless the contrary intention appears —
-(a)a reference to this Act is to be read as a reference to this Act in its application as a law of Western Australia; and
-(b)a reference to any of the following Acts is to be read as a reference to the Act of that name in its application as a law of Western Australia —
-(i)the Land Tax Act 2002;
-(ii)the Land Tax Assessment Act 2002;
-(iii)the Metropolitan Region Improvement Tax Act 1959;
-(iv)the Taxation Administration Act 2003.
-(3)This Act is to be read with the applied Planning and Development Act as a single body of law.
-”.
-”.
-Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007. r. 1-5 and Pt. 4 Div. 2 of that notice read as follows:
-“
-1.Citation
-This notice is the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
-2.Commencement
-This notice comes into operation on the day after the day on which it is registered under the Legislative Instruments Act 2003 of the Commonwealth.
-3.When certain modifications have effect
-(1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
-(2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2002 Part 5 to the extent of any inconsistency.
-Note:Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
-4.Definitions
-In this notice —
-applied WA law means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
-Commissioner of State Revenue means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
-Commonwealth Mirror Taxes Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
-5.Modification of applied WA laws
-(1) For the purposes of the Commonwealth Mirror Taxes Act section 8, each applied WA law is taken to be modified to the extent necessary to give effect to subclause (2).
-(2) If —
-(a) an applied WA law applies, or could apply, to any extent, to or in relation to an event, state of affairs or transaction, and the corresponding State taxing law also applies, or could apply, to any extent, to or in relation to the same event, state of affairs or transaction; and
-(b) a person is required or permitted, or could be required or permitted, to take an action under both the applied WA law and the corresponding State taxing law in relation to the event, state of affairs or transaction; and
-(c) the person has taken the action in accordance with the corresponding State taxing law; and
-(d) the Commissioner of State Revenue has sufficient information about the event, state of affairs or transaction to carry out his or her functions in relation to it under the applied WA law or the corresponding State taxing law or both, as the case requires,
-then —
-(e) the person is not required to take the action under the applied WA law; and
-(f) the Commissioner may carry out his or her functions in relation to the event, state of affairs or transaction as if the person had taken whatever action is required or permitted under the applied WA law in relation to the event, state of affairs or transaction.
-(3) The particular modifications set out in this notice of certain applied WA laws have effect for the purposes of the Commonwealth Mirror Taxes Act section 8.
-Part 4 — Metropolitan region improvement and planning
-Division 2 — The applied Planning and Development Act 2005
-24.Modification of the applied Planning and Development Act 2005
-This Division sets out modifications of the Planning and Development Act 2005 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia.
-25.Section 201 replaced
-Section 201 is repealed and the following section is inserted instead —
-“
-201.Application of Division in Commonwealth places
-(1) In this section —
-corresponding Planning and Development Act means the Planning and Development Act 2005 of Western Australia in its application as a law of Western Australia;
-Commonwealth Mirror Taxes Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
-(2) In this Division, unless the contrary intention appears —
-(a) a reference to this Act is to be read as a reference to this Act in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
-(b) a reference to any of the following enactments is to be read as a reference to the enactment of that name of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act —
-(i) the Land Tax Act 2002;
-(ii) the Land Tax Assessment Act 2002;
-(iii) the Metropolitan Region Improvement Tax Act 1959;
-(iv) the Taxation Administration Act 2003.
-(3) This Act is to be read with the corresponding Planning and Development Act as a single body of law.
-”.
-”.
-The Swan Valley Planning Legislation Amendment Act 2006 Sch. 1 it. 4 reads as follows:
-“
-4.Metropolitan Region Scheme amended
-(1) In this item —
-Metropolitan Region Scheme has the same meaning as it has in the Planning and Development Act 2005.
-(2) The amendments in this item are to the Metropolitan Region Scheme.
-(3) The amendments to the Metropolitan Region Scheme effected by this item have effect as though the provisions were enacted by the Planning and Development Act 2005.
-(4) Nothing in this item affects the operation of the Planning and Development Act 2005 with respect to the amendments to the Metropolitan Region Scheme as amended by this Act.
-(5) Clause 26 is amended as follows:
-(a) by inserting before “Except” the subclause designation “(1)”;
-(b) after “provided” by inserting —
-“ in subclause (2) or (3) of this clause or ”;
-(c) at the end of the clause by inserting the following subclauses —
-“
-(2) In respect of applications for approval to develop land in the Swan Valley, where the advice of the Swan Valley Planning Committee is accepted by the City of Swan, the determination of the City of Swan under the local planning scheme is taken to be a determination under this Scheme.
-(3) In respect of applications for approval to develop land in the Swan Valley, where the advice of the Committee is not accepted by the City of Swan, the City of Swan is to refer the application, together with any recommendations provided by all bodies consulted, and the reasons why the advice of the Committee was not accepted by the City of Swan, to the Commission for determination.
-(4) In this clause Committee, Swan Valley and Swan Valley Planning Committee have the same meanings as they have in the Swan Valley Planning Act 1995.
-”.
-(6) Clause 30B(4) is deleted and the following subclause is inserted instead —
-“
-(4) Where the responsible authority is the Commission, the Commission is required to have due regard to the advice of the Committee, but may determine the application otherwise than in accordance with that advice.
-”.
-(7) Clause 30B(5) is amended as follows:
-(a) by deleting “council of the Shire of Swan, the council” and inserting instead —
-“ City of Swan, the City ”;
-(b) by deleting “but may determine the application otherwise than in accordance with that advice.” and inserting instead —
-“
-but if the City of Swan does not accept that advice, the City of Swan is to refer the application, together with any recommendations provided by all bodies consulted, and the reasons why the advice of the Committee was not accepted by the City of Swan, to the Commission for determination.
-”.
-(8) Clause 30B(6) is amended by deleting “council of the Shire” and inserting instead —
-“ City ”.
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 3 had not come into operation. It reads as follows:
+Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
+Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
+The Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 76(4) reads as follows:
+(4) The Minister must, as soon as is practicable after an order is given to the local government under subsection (1), cause a copy of the order to be laid before each House of Parliament or dealt with under section 268A.
+On the date as at which this reprint was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 3 had not come into operation. It reads as follows:
 Part 3 — Development Assessment Panels: Planning and Development Act 2005
 40.Act amended
 This Part amends the Planning and Development Act 2005.
@@ -399,6 +276,117 @@ local government;
 (f)a member of a DAP.
 (2) In section 266(6) delete “Commission.” and insert:
 Commission or any other person.
-Footnote no longer applicable.
-The Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 76(4) reads as follows:
-(4) The Minister must, as soon as is practicable after an order is given to the local government under subsection (1), cause a copy of the order to be laid before each House of Parliament or dealt with under section 268A.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+Account4(1)
+affected local government122B(3B)
+alleged offender226
+amendment day122B(7)
+applicant253(1)
+appointed memberSch. 1 cl. 1
+artificial waterway4(1)
+assessed scheme217(1)
+associate member4(1)
+Authority4(1)
+board4(1)
+Board172, Sch. 9 cl. 1
+building lineSch. 8 cl. 8(2)
+business arrangement15(5)
+chairperson4(1)
+chief executive officer4(1)
+Commission4(1)
+cost of providing a road159(3)
+CPI159(2)
+Crown land4(1)
+decision period253(1)
+deemed provision257B(1)
+deputy member4(1)
+designated person226
+development4(1)
+development application4(1)
+district4(1)
+district planning committee4(1)
+document18(4)
+environmental condition4(1), 217(1)
+environmental harm217(1)
+EP Act4(1)
+EPA4(1)
+fee261(1)
+first owner154(2)(d)
+function266(1)
+Heritage Council4(1)
+improvement plan4(1)
+improvement scheme4(1)
+improvement scheme area4(1), 122A(2)
+information18(4)
+instructions39(1)
+interim development order4(1)
+issue261(1)
+judicial member237
+LAA Department4(1)
+land4(1), 136(3)
+later subdivider159(1)(a)
+legal practitioner4(1)
+licence261(1)
+licence to use or occupy136(3)
+licensed valuer155(1)
+local interim development order4(1)
+local order area4(1)
+local planning scheme4(1)
+lot4(1), 136(3)
+market value of land155(1), 159(2)
+meeting266(1)
+member4(1), 266(1)
+metropolitan improvement scheme199(1A)
+metropolitan region4(1)
+Metropolitan Region Scheme4(1)
+Minister245(5)(a) and (b)
+Minister for Lands267A(1)(a)
+Minister for the Environment4(1)
+model provision257A(1)
+MRI Account4(1)
+non-conforming use172
+officer of the Commission4(1)
+original compensation181(1)(a)
+original subdivider159(1)(b)
+other local government210(1)
+participate15(5)
+party237
+planning control area4(1)
+planning matter261(1)
+planning scheme4(1), 236(1)
+pollution217(1)
+prescribed offence226
+prescribed period145(2)
+President237
+proposed amendment45(1), 60(1)
+public authority4(1)
+public purpose172
+public work4(1)
+refund181(1)
+region4(1)
+region planning scheme4(1)
+regional interim development order4(1)
+regional matter11(1)
+Regional Minister4(1)
+regional order area4(1)
+register181(17), 197(6)
+Registrar181(17), 197(6)
+removed land122E(1), 122G(1)(a)
+repeal day122B(7)
+responsible authority4(1), 170(1A)
+road4(1), 135(3), 159(2), Sch. 8 cl. 7(2) and 8(2)
+scheme or amendment41
+second owner154(2)(d)(i)
+specified99(3), 103(3)
+start day122D(1)
+State planning policy4(1)
+subdivision4(1)
+Swan Valley4(1)
+Swan Valley Planning Committee4(1)
+title application146(2)
+Tribunal member237
+utility services4(1)
+vehicle offence225(1)
+WALGA4(1)
