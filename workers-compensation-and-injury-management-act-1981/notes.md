@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Workers’ Compensation and Injury Management Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 25 February 2011 of the Workers’ Compensation and Injury Management Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Workers’ Compensation and Assistance Act 1981 | 86 of 1981 | 23 Nov 1981 | 3 May 1982 (see s. 2 and Gazette 8 Apr 1982 p. 1205)
@@ -7,7 +7,7 @@ Compilation table
  | Workers’ Compensation and Assistance Amendment Act (No. 2) 1983 | 79 of 1983 | 22 Dec 1983 | 22 Dec 1983
  | Health Legislation Amendment Act 1984 Pt. XXIV | 28 of 1984 | 31 May 1984 | 1 Jul 1984 (see s. 2 and Gazette 15 Jun 1984 p. 1629)
  | Workers’ Compensation and Assistance Amendment Act 1984 | 104 of 1984 | 19 Dec 1984 | 19 Dec 1984 (see s. 2)
- | Workers’ Compensation and Assistance Amendment Act 1985-19 | 44 of 1985 | 20 May 1985 | s. 1 and 2: 20 May 1985; s. 3(1) and (2) and 26: 20 May 1985 (see s. 2(1)); s. 3(3), 4-9, 13-18, 21, 22, 24, 27-37, 39-43: 28 Jun 1985 (see s. 2(2) and Gazette 14 Jun 1985 p. 2134); s. 25: 1 Jul 1985 (see s. 2(3)); s. 20: 25 Oct 1985 (see s. 2(2) and Gazette 25 Oct 1985 p. 4100); s. 23: 7 Feb 1986 (see s. 2(2) and Gazette 7 Feb 1986 p. 425); s. 38: 25 Jul 1986 (see s. 2(2) and Gazette 25 Jul 1986 p. 2453)
+ | Workers’ Compensation and Assistance Amendment Act 1985-21 | 44 of 1985 | 20 May 1985 | s. 1 and 2: 20 May 1985; s. 3(1) and (2) and 26: 20 May 1985 (see s. 2(1)); s. 3(3), 4-9, 13-18, 21, 22, 24, 27-37, 39-43: 28 Jun 1985 (see s. 2(2) and Gazette 14 Jun 1985 p. 2134); s. 25: 1 Jul 1985 (see s. 2(3)); s. 20: 25 Oct 1985 (see s. 2(2) and Gazette 25 Oct 1985 p. 4100); s. 23: 7 Feb 1986 (see s. 2(2) and Gazette 7 Feb 1986 p. 425); s. 38: 25 Jul 1986 (see s. 2(2) and Gazette 25 Jul 1986 p. 2453)
  | Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
  | Workers’ Compensation and Assistance Amendment Act 1986 | 33 of 1986 | 1 Aug 1986 | 1 Aug 1986 (see s. 2)
  | State Government Insurance Commission Act 1986 s. 46(2) | 51 of 1986 | 5 Aug 1986 | 1 Jan 1987 (see s. 2 and Gazette 19 Dec 1986 p. 4859)
@@ -68,27 +68,40 @@ Compilation table
 Standardisation of Formatting Act 2010 s. 4, 42(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 50 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 9: The Workers’ Compensation and Injury Management Act 1981 as at 25 Feb 2011 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 (as amended by No. 42 of 2004 s. 155) | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Petroleum and Energy Legislation Amendment Act 2010 s. 186 | 42 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
+Repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009. Now see Fair Work Act 2009 (Cwlth).
 The name of the State Government Insurance Commission was changed to the Insurance Commission of Western Australia by the Acts Amendment (ICWA) Act 1996 s. 8 (see also note 47).
 Under the Acts Amendment (ICWA) Act 1996 s. 31(2)(h), a reference to the State Government Insurance Corporation in a written law is, unless because of the context it would be inappropriate so to do, to be construed, or have effect, as if it had been amended to be a reference to the Insurance Commission of Western Australia (see also note 47).
-Repealed by the Industrial Relations (Consequential Provisions) Act 1998 (C’th). Now see Workplace Relations Act 1996 (C’th).
+Repealed by the Industrial Relations (Consequential Provisions) Act 1998 (Cwlth). Now see Fair Work Act 2009 (Cwlth).
 The Workers’ Compensation Act Amendment Act (No. 2) 1977 s. 3 became operative on 28 Nov 1977.
 The effect of this section was removed by the Western Australian Marine Act 1982 s. 135, subject to the savings provisions in section 135(4) of that Act.
-Repealed by the Statute Stocktake Act 1999 (C’th).
+Repealed by the Statute Stocktake Act 1999 (Cwlth).
+Under s. 45 the following order in council was published in Gazette 19 June 2009 p. 2253:
+Workers’ Compensation and Injury Management Act 1981
+Workers’ Compensation and Injury Management (Specified Industrial Diseases) Order 2008
+Made by the Governor in Executive Council under section 45 of the Act.
+1.Citation
+This order is the Workers’ Compensation and Injury Management (Specified Industrial Diseases) Order 2008.
+2.Addition to Schedule 3
+The disease and the process named in the Table are included in Schedule 3.
+Column 1 Description of Disease | Column 2 Description of Process
+Pleural plaques (diffuse pleural fibrosis) | Any process entailing substantial exposure to asbestos dust.
+Note:In accordance with section 45(2) of the Act this order takes effect on the expiration of 3 months from the date of publication in the Gazette.
 The Workers’ Compensation (Common Law Proceedings) Act 2004 Pt. 2 may also be relevant.
 Repealed by s. 317 of this Act.
 Repealed by the Interpretation Act 1984.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 (as amended by the Workers’ Compensation Reform Act 2004 s. 174) had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 (as amended by the Workers’ Compensation Reform Act 2004 s. 174) had not come into operation. It reads as follows:
 74.Workers’ Compensation and Injury Management Act 1981 amended
 Section 201(2) of the Workers’ Compensation and Injury Management Act 1981 is amended by deleting “or the Superannuation and Family Benefits Act 1938”.
 [Section 74 amended by No. 42 of 2004 s. 174.]
-Repealed by the Offshore Petroleum (Repeals and Consequential Amendments) Act 2006 (C’th). Now see Offshore Petroleum and Greenhouse Gas Storage Act 2006 (C’th).
+Repealed by the Offshore Petroleum (Repeals and Consequential Amendments) Act 2006 (Cwlth). Now see Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Cwlth).
 Now known as the Workers’ Compensation and Injury Management Act 1981; short title changed (see note under s. 1).
 The Workers’ Compensation and Assistance Amendment Act 1984 s. 9 and 10 are transitional and validation provisions that are of no further effect.
 The Workers’ Compensation and Assistance Amendment Act 1985 s. 4(2) is a savings provision relating to the s. 10A inserted by s. 4(1) of that Act. That s. 10A was replaced by the Workers’ Compensation Legislation Amendment Act 2005 s. 9.
@@ -99,11 +112,9 @@ The Workers’ Compensation and Assistance Amendment Act 1985 s. 23(2) and 41(2)
 (b) except as provided in paragraph (a) — continue to apply notwithstanding the coming into operation of this section as if this section had not been enacted.
 41.Schedule 1 amended and transitional
 (2) Clause 17 of Schedule 1 of the principal Act as amended by subsection (1) applies to and in respect of liability and the extent of liability to pay, and entitlement and the extent of entitlement to receive, benefits for such expenses as are provided for in that clause incurred before, on or after the coming into operation of this section but nothing in subsection (1) shall revive or increase the entitlement to such expenses where a worker had received a sum equal to 10% of the prescribed amount or such further amount as the Board had allowed under that clause before the coming into operation of this section.
-The Workers’ Compensation and Assistance Amendment Act 1985 s. 10-12, 19, 44 and 45 were repealed without having come into operation by the Workers’ Compensation and Assistance Amendment Act 1988 s. 13.
+The Workers’ Compensation and Assistance Amendment Act 1985 s. 10-12, 19, 44 and 45 were deleted without having come into operation by the Workers’ Compensation and Assistance Amendment Act 1988 s. 13.
 The Workers’ Compensation and Assistance Amendment Act 1985 s. 30(2) was a transitional provision that was repealed by the Workers’ Compensation and Assistance Amendment Act 1990 s. 30(2).
-The Workers’ Compensation and Assistance Amendment Act 1986 s. 6(2) reads as follows:
-6.Section 153A inserted and validation
-(2) Any minimum premium recommended by the Committee for the purposes of Part VIII of the principal Act before the commencement of this section is deemed to be, and always to have been, lawfully recommended by the Committee and properly chargeable by an insurer.
+The Workers’ Compensation and Assistance Amendment Act 1986 s. 6(2) is a validation provision that is of no further effect.
 The Workers’ Compensation and Assistance Amendment Act 1987 s. 6(2) is a validation provision that is of no further effect.
 The Workers’ Compensation and Assistance Amendment Act 1990 s. 48(2) reads as follows:
 48.Schedule 1 amended
@@ -217,20 +228,12 @@ The Workers’ Compensation and Rehabilitation Amendment Act 1993 s. 19(2) reads
 The Workers’ Compensation and Rehabilitation Amendment Act 1993 s. 20(2) reads as follows:
 20.Schedule 2 amended
 (2) The amendments made by subsection (1) have effect on and from 1 July 1993.
-The Workers’ Compensation and Rehabilitation Amendment Act 1993 s. 27 reads as follows:
-27.Transitional provision as to proceedings
-(1) On the commencement of section 24, all proceedings pending before the Board are to be transferred to the Director and dealt with as if they had been referred for conciliation.
-(2) In this section —
-Board has the meaning given to that expression by the principal Act as in force immediately before the commencement of section 24;
-Director has the meaning given to that expression by the principal Act as amended by section 21.
-The Workers’ Compensation and Rehabilitation Amendment Act 1993 s. 28(2) reads as follows:
-Part 4 — Amendments Concerning Dispute Resolution and Compensation Magistrates Courts
-28.Other transitional, consequential and incidental matters
-(2) Regulations may be made amending the principal Act (including any provision amended by Schedule 1) to deal with any matter of a transitional nature that arises from the amendments made by this Part or to deal with any matter that is consequential on or incidental to those amendments.
+The Workers’ Compensation and Rehabilitation Amendment Act 1993 s. 27 is a transitional provision that is of no further effect.
+The Workers’ Compensation and Rehabilitation Amendment Act 1993 s. 28(2) is a provision for regulations as to transitional and other matters and is of no further relevance.
 The amendments in the Workers’ Compensation and Rehabilitation Amendment Act 1993 Sch. 1 cl. 28 which sought to amend s. 73(4) will not be included because of amendments to s. 73(4) made by Sch. 1 cl. 16 of that Act.
 The amendments in the Workers’ Compensation and Rehabilitation Amendment Act 1993 Sch. 1 cl. 30 which sought to amend s. 73(1) and (6) will not be included because of amendments to s. 73 made by Sch. 1 cl. 16 of that Act.
 The amendments in the Workers’ Compensation and Rehabilitation Amendment Act 1993 Sch. 1 cl. 30 which sought to amend Sch. 7 cl. 6(1)(a), 6(2)(a) and 8(3) will not be included because of amendments made by Sch. 1 cl. 27 of that Act.
-The Workers’ Compensation and Rehabilitation Amendment Act (No. 2) 1999 s. 7(3) is a transitional provision relating to the s. 84E inserted by s. 7(2) of that Act. That s. 84E was repealed by the Workers’ Compensation Reform Act 2004 s. 67.
+The Workers’ Compensation and Rehabilitation Amendment Act (No. 2) 1999 s. 7(3) is a transitional provision relating to the s. 84E inserted by s. 7(2) of that Act. That s. 84E was deleted by the Workers’ Compensation Reform Act 2004 s. 67.
 The Workers’ Compensation and Rehabilitation Amendment Act 1999 s. 32(6), (7) and (8) (as amended by the Workers’ Compensation and Rehabilitation Amendment Act (No. 3) 1999 s. 3) read as follows:
 32.Amendments about awarding damages and related matters (sections 5, 61, 84ZH, 84ZR and 193, Part IV Division 2 and Schedule 1), and saving and transitional provisions
 (6) In subsections (7) and (8) —
@@ -253,9 +256,9 @@ the termination day is to be regarded as being the day that is 3 months after th
 The Workers’ Compensation and Rehabilitation Amendment Act 1999 s. 46(2), (3) and (4) read as follows:
 46.Part X Division 3 inserted and transitional provisions
 (2) A person who —
-(a) before the commencement of section 35, was authorized by the Commission under the former section 103 as an inspector; or
-(b) before the commencement of section 44, was authorized by the Minister under the former section 172,
-is to be regarded as having been authorized by the Commission as an inspector under section 175A(1) of the principal Act and as having taken the oath required by section 175A(2).
+(a) before the commencement of section 35, was authorised by the Commission under the former section 103 as an inspector; or
+(b) before the commencement of section 44, was authorised by the Minister under the former section 172,
+is to be regarded as having been authorised by the Commission as an inspector under section 175A(1) of the principal Act and as having taken the oath required by section 175A(2).
 (3) If —
 (a) a requirement made under the former section 103 by a person referred to in subsection (2)(a); or
 (b) a request or requirement made under the former section 172 or 172A by a person referred to in subsection (2)(b),
@@ -265,11 +268,7 @@ former section means a section of the principal Act as in force before its repea
 The Workers’ Compensation and Rehabilitation Amendment Act 1999 s. 56(2) reads as follows:
 56.Schedule 7 amended and transitional provisions
 (2) Clause 5(3) of Schedule 7 to the principal Act, as inserted in the principal Act by subsection (1), applies to and in relation to the results of audiometric tests whether delivered to the Commission before or after the commencement of that subsection.
-The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
-19.Power to amend regulations
-(1) The Governor, on the recommendation of the Minister, may make regulations amending subsidiary legislation made under any Act.
-(2) The Minister may make a recommendation under subsection (1) only if the Minister considers that each amendment proposed to be made by the regulations is necessary or desirable as a consequence of the enactment of the RWWA Act or this Act.
-(3) Nothing in this section prevents subsidiary legislation from being amended in accordance with the Act under which it was made.
+The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 is a regulation making power of no further relevance.
 The Workers’ Compensation and Rehabilitation Amendment (Cross Border) Act 2004 Pt. 2 Div. 2 (as amended by s. 16, 17(5) and 19 of that Act) reads as follows:
 Division 2 — Transitional
 14.Transitional provisions
@@ -391,11 +390,11 @@ WorkCover WA has the meaning given to that term by the Workers’ Compensation a
 corresponding thing means anything done by WorkCover WA after the commencement of the Part VIII amendments that would have substantially the same effect after the commencement as what was done by the former Committee would have had if the Part VIII amendments had not been made;
 former Committee means the Premium Rates Committee under the Workers’ Compensation and Rehabilitation Act 1981 as in force before the commencement of the Part VIII amendments;
 Part VIII amendments means the amendments that sections 104 to 117 and 150 to 153 make to Part VIII of the Workers’ Compensation and Rehabilitation Act 1981.
-The amendments in the Workers’ Compensation Reform Act 2004 s. 146, 147 and 148(2) which sought to amend s. 15 will not be included because s. 15 has been repealed by the Workers’ Compensation and Rehabilitation Amendment (Cross Border) Act 2004 s. 5.
-The amendments in the Workers’ Compensation Reform Act 2004 s. 146 and 147 which sought to amend s. 16(1a) will not be included because s. 16(1a) has been repealed by the Workers’ Compensation and Rehabilitation Amendment (Cross Border) Act 2004 s. 6(1).
+The amendments in the Workers’ Compensation Reform Act 2004 s. 146, 147 and 148(2) which sought to amend s. 15 will not be included because s. 15 has been deleted by the Workers’ Compensation and Rehabilitation Amendment (Cross Border) Act 2004 s. 5.
+The amendments in the Workers’ Compensation Reform Act 2004 s. 146 and 147 which sought to amend s. 16(1a) will not be included because s. 16(1a) has been deleted by the Workers’ Compensation and Rehabilitation Amendment (Cross Border) Act 2004 s. 6(1).
 The amendments in the Workers’ Compensation Reform Act 2004 s. 148(1) which sought to amend s. 16(2) will not be included because of amendments to s. 16(2) made by the Workers’ Compensation and Rehabilitation Amendment (Cross Border) Act 2004 s. 6(2).
 The amendments in the Workers’ Compensation Reform Act 2004 s. 147 which sought to amend s. 23 will not be included because s. 23 has been replaced by the Workers’ Compensation and Rehabilitation Amendment (Cross Border) Act 2004 s. 8.
-The Acts Amendment (Court of Appeal) Act 2004 Sch. 1 cl. 29 which was proclaimed to commence on 1 July 2005 (see Gazette 14 Jan 2005 p. 163), is not included because the sections in the Workers’ Compensation and Injury Management Act 1981 that it purports to amend were not in operation on 1 July 2005. Subsequently Sch. 1 cl. 29 was repealed by the Workers’ Compensation Legislation Amendment Act 2005 s. 31.
+The Acts Amendment (Court of Appeal) Act 2004 Sch. 1 cl. 29 which was proclaimed to commence on 1 July 2005 (see Gazette 14 Jan 2005 p. 163), is not included because the sections in the Workers’ Compensation and Injury Management Act 1981 that it purports to amend were not in operation on 1 July 2005. Subsequently Sch. 1 cl. 29 was deleted by the Workers’ Compensation Legislation Amendment Act 2005 s. 31.
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Sch. 2 cl. 157 (the amendment to s. 175H(2)(c)) was deleted without having come into operation by the Criminal Law and Evidence Amendment Act 2008 s. 78(10).
 The Workers’ Compensation Legislation Amendment Act 2005 s. 9(2) reads as follows:
 9.Section 10A replaced and transitional provision
@@ -406,28 +405,15 @@ The Workers’ Compensation Legislation Amendment Act 2005 s. 30(3) reads as fol
 (a) any compensation paid under the relevant clause before this Act received the Royal Assent is to be deducted; and
 (b) if an apportionment of compensation has been determined or agreed in relation to compensation under the relevant clause before this Act receives the Royal Assent, any compensation payable under the relevant clause after this Act receives the Royal Assent is to be apportioned in a like manner.
 The amendment in the Chiropractors Act 2005 s. 109 which sought to amend s. 176(1b)(d) is not included because s. 176 had been replaced by the Workers’ Compensation Reform Act 2004 s. 130 before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 16 (as amended by the Workers’ Compensation Reform Act 2004 s. 155(2)(a)) had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 16 (as amended by the Workers’ Compensation Reform Act 2004 s. 155(2)(a)) had not come into operation. It reads as follows:
 Schedule 1 — Consequential amendments to other Acts
 16.Workers’ Compensation and Rehabilitation Act 1981
-Section 5(1) | (a)After the definition of “industrial disease premium”, insert the following definition — “ Insurance Commission of Western Australia means the body continued under that name under the Insurance Commission of Western Australia Act 1986; ”.
- | (b)Delete the definitions of “State Government Insurance Commission” and “State Government Insurance Corporation”.
+Section 5(1) | (a)After the definition of industrial disease premium, insert the following definition — “ Insurance Commission of Western Australia means the body continued under that name under the Insurance Commission of Western Australia Act 1986; ”.
+ | (b)Delete the definitions of State Government Insurance Commission and State Government Insurance Corporation.
 Section 162(1) | Delete “State Government Insurance Commission”, substitute “Insurance Commission of Western Australia”.
 Section 163 | Delete “State Government Insurance Commission”, substitute “Insurance Commission of Western Australia”.
 [Item 16 amended by No. 42 of 2004 s. 155(2)(a).]
-Footnote no longer applicable.
-Under s. 45 the following order in council was published in Gazette 19 June 2009 p. 2253:
-Workers’ Compensation and Injury Management Act 1981
-Workers’ Compensation and Injury Management (Specified Industrial Diseases) Order 2008
-Made by the Governor in Executive Council under section 45 of the Act.
-1.Citation
-This order is the Workers’ Compensation and Injury Management (Specified Industrial Diseases) Order 2008.
-2.Addition to Schedule 3
-The disease and the process named in the Table are included in Schedule 3.
-Column 1 Description of Disease | Column 2 Description of Process
-Pleural plaques (diffuse pleural fibrosis) | Any process entailing substantial exposure to asbestos dust.
-Note:In accordance with section 45(2) of the Act this order takes effect on the expiration of 3 months from the date of publication in the Gazette.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Petroleum and Energy Legislation Amendment Act 2010 s. 186 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Petroleum and Energy Legislation Amendment Act 2010 s. 186 had not come into operation. It reads as follows:
 186.Workers’ Compensation and Injury Management Act 1981 amended
 (1) This section amends the Workers’ Compensation and Injury Management Act 1981.
 (2) In Schedule 6 clause 1 insert in alphabetical order:
@@ -450,7 +436,6 @@ section 7(1)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-a compound discount table68(4)
 a State’s legislation about damages for a work related injury93AE
 additional medical examination66A(1)
 adjacent areaSch. 6 cl. 2(1)-(4)
@@ -477,6 +462,7 @@ audiometric testSch. 7 cl. 1
 auditor175B(2)
 authorised officer175E
 bonus or allowanceSch. 1 cl. 11(2)
+Chairman of WorkCover WA5(1)
 chief executive officer5(1)
 child’s allowance5(1)
 chiropractor5(1)
@@ -486,6 +472,7 @@ code155
 commencement day93EA(4)(b)(i), 93EB(4)(b)(i)
 Commissioner5(1)
 company5(1), 10A(1), 175AA(1)(c)(i)
+compound discount table68(4)
 continental shelfSch. 6 cl. 1
 contract of insurance5(1)
 contractor175(1) and (6)(b)
@@ -502,6 +489,7 @@ decision5(1)
 decision of a specialised retraining assessment panel146V(9)
 decision of an approved medical specialist146J(2)
 decision of an approved medical specialist panel146O(7)
+defendant92, 93(1)(b)
 degree of disability93E(1)
 degree of impairment146
 degree of permanent impairment31B
@@ -523,7 +511,7 @@ drug of addiction5(1)
 E175AA(1), 303A
 earnings5(1), 10A(1), Sch. 1 cl. 11(2)
 election registration day93H(1)
-employer5(1), 93AC(a), 154A(2)
+employer5(1), 59(1), 93AC(a), 154A(2)
 estimate5(1)
 event93H(2), 158(2), Sch. 1 cl. 18C(4)
 former Board316
@@ -548,6 +536,7 @@ interim suspension order238(3)
 Legal Costs Committee269(1)
 legal service261
 loss of 25
+LPI5(1), 93F(8)(b)(i)
 March CPI5A(2)
 medical assessment panel5(1)
 medical practitioner5(1)
@@ -563,7 +552,7 @@ new Supplementary Board316
 noise induced hearing loss5(1)
 normal evaluation93M(5), 93N(6), 146C(3)
 notifiable person182(2)
-notification day93EC(b)
+notification day93EC(b)(i)
 notional residual entitlement5(1)
 NRE amount5(1)
 officer of the DRD5(1)
@@ -585,6 +574,7 @@ proclaimed date4(1), 316, Sch. 5 cl. 1(1), Sch. 7 cl. 1
 prohibited drug31F(1), 93Q(8)
 redemption amountSch. 5 cl. 1(1)
 registered agent5(1)
+relevant daySch. 5 cl. 3(8)
 relevant document180(1)
 relevant employment5(1)
 relevant level93D(1)
@@ -614,16 +604,11 @@ substantive law93AE
 supplementary amountSch. 5 cl. 1(1)
 termination day93E(1), 93L(1)
 territorial seaSch. 6 cl. 1
-the Chairman of WorkCover WA5(1)
-the defendant92, 93(1)(b)
-the employer59(1)
-the relevant daySch. 5 cl. 3(8)
 treating medical practitioner155
 tributer5(1)
 Trust Account5(1)
 vocational rehabilitation5(1)
 W175AA(1)
-WCI5(1) defs of NRE amount and prescribed amount, 93F(8)(b)(i)
 weekly earningsSch. 1 cl. 11(1) and 14
 weekly paymentsSch. 5 cl. 3(2)
 weekly payments of compensation5(1)
