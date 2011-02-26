@@ -135,7 +135,8 @@ Road Traffic (Licensing) Amendment Regulations (No. 3) 2008 | 30 May 2008 p. 208
 Road Traffic (Licensing) Amendment Regulations 2009 | 31 Dec 2009 p. 5405-13 | r. 1 and 2: 31 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
 Reprint 8: The Road Traffic (Licensing) Regulations 1975 as at 9 Apr 2010 (includes amendments listed above)
 Road Traffic (Licensing) Amendment Regulations 2010 | 24 Sep 2010 p. 5017-22 | r. 1 and 2: 24 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Sep 2010 (see r. 2(b))
-Repealed by the Trade Measurement Administration Act 2006.
+Road Traffic (Licensing) Amendment Regulations 2011 | 25 Feb 2011 p. 657-8 | r. 1 and 2: 25 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2011 (see r. 2(b))
+Footnote no longer applicable.
 Repealed by the Motor Vehicle (Third Party Insurance) Regulations 2009.
 Revoked on 4 Oct 1974 (see Gazette 3 Oct 1974 p. 3701).
 Revoked on 1 Jun 1975 (see Gazette 29 May 1975 p. 1577).
