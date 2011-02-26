@@ -4,6 +4,7 @@
 Item | Matter | Fee
 1. | Application for approval of purpose of an association under section 4(1)(f) .......................................................................... | $37.75
 2. | Application for incorporation of an association under section 5(1) ......................................................................... | $126.00
+3. | Application for approval to apply for registration or incorporation as a prescribed body corporate under section 10B(2) .................................................................. | $280.00
 4. | (a)Lodgment of notice of special resolution setting out particulars of alteration of rules of an association under section 17 ................................. (b)Where alteration of rules has effect to change name of an association, on approval of change of name and issue of certificate of incorporation on change of name under section 18(6) .............. (c)Where alteration of rules has effect to change objects or purposes of an association, on approval of the alteration under section 19 ......... | $21.00 $21.00 $21.00
 5. | Lodgment of application for extension of period for holding an annual general meeting under section 23(1)... | $37.75
 6. | Lodgment of application for approval of variation of provisions of rules of an association relating to distribution of surplus property upon winding up under section 33(4) ..................................................................... | $35.00
@@ -15,4 +16,4 @@ Item | Matter | Fee
 10. | Issue of uncertified copy of current rules of an incorporated association lodged with Commissioner ....... | $29.50
 11. | Issue of certified copy of, or extract from document lodged with Commissioner — (a)for the first page .................................................. (b)for each additional page ...................................... | $11.60 $1.50
 12. | Application for certificate of Commissioner under section 38 .......................................................................... | $11.60
-[Schedule 2 inserted in Gazette 28 Jun 2005 p. 2909-10; amended in Gazette 15 Jun 2007 p. 2765-6; 23 Jun 2009 p. 2430-1.]
+[Schedule 2 inserted in Gazette 28 Jun 2005 p. 2909-10; amended in Gazette 15 Jun 2007 p. 2765-6; 23 Jun 2009 p. 2430-1; 25 Feb 2011 p. 652.]
