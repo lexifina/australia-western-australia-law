@@ -28,9 +28,9 @@ Acts Amendment (Fair Trading) Act 2010 s. 193 | 58 of 2010 | 8 Dec 2010 | 1 Jan 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law (WA) Act 2010s. 42(2) | 35 of 2010 | 30 Aug 2010 | s. 41(2): to be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 9 had not come into operation. It reads as follows:
-Division 9 — Civil Liability Act 2002 amended
+Health Practitioner Regulation National Law (WA) Act 2010 s. 41(2) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 Pt. 2 | 1 of 2011 | 1 Mar 2011 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 41(2) had not come into operation. It reads as follows:
 41.Section 5PA amended
 (2) In section 5PA delete the definition of health professional and insert:
 health professional means —
@@ -51,6 +51,53 @@ health professional means —
 (xiv)psychology;
 or
 (b)any other person who practises a discipline or profession in the health area that involves the application of a body of learning.
+On the date as at which this compilation was prepared, the Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Civil Liability Act 2002 amended
+3.Act amended
+This Part amends the Civil Liability Act 2002.
+4.Section 3A amended
+In section 3A(1) in the Table item 1 column 3 after “1C,” insert:
+1CA,
+5.Section 4A amended
+In section 4A(1) after “1C,” insert:
+1CA,
+6.Part 1CA inserted
+After section 5AA insert:
+Part 1CA — Liability relating to emergency medical assistance given to enrolled children
+5AAA.Terms used
+In this Part —
+child care service has the meaning given in the Child Care Services Act 2007 section 4;
+community kindergarten means a kindergarten registered under the School Education Act 1999 Part 5;
+emergency medical assistance means medical assistance of a type prescribed by the regulations as assistance to which this Part applies;
+enrolled child means —
+(a)a child enrolled at community kindergarten; or
+(b)a child for whom a child care service is provided; or
+(c)a student within the meaning given in the School Education Act 1999 section 4;
+staff member means a natural person who is —
+(a)employed in the department of the Public Service referred to in the School Education Act 1999 section 228; or
+(b)employed in a school registered under the School Education Act 1999 section 160; or
+(c)a supervising officer as defined in the Child Care Services Act 2007 section 3; or
+(d)a member of the staff of a child care service; or
+(e)prescribed (or of a class prescribed) by the regulations as a person to whom this Part applies.
+5AAB.Application of this Part
+(1) In this section —
+commencement day means the day on which the Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 section 6 comes into operation.
+(2) Subject to sections 3A and 4A, this Part applies to civil liability of any kind unless this section states otherwise.
+(3) This Part extends to a claim even if the damages are sought to be recovered in an action for breach of contract or any other action.
+(4) This Part does not apply unless the civil liability giving rise to the claim arises out of an incident happening on or after the commencement day.
+(5) If in a claim for damages —
+(a) it cannot be ascertained whether or not the incident out of which the personal injury arises happened on or after the commencement day; and
+(b) the symptoms of the injury first appeared on or after the commencement day,
+the incident is to be taken, for the purpose of subsection (4), to have happened on or after the commencement day.
+(6) This Part does not limit the protection from liability given by another written law.
+5AAC.Protection of staff members
+(1) A staff member does not incur any personal civil liability in respect of —
+(a) an act or omission done or made by the staff member at the scene of an emergency in assisting an enrolled child in apparent need of emergency medical assistance; or
+(b) advice given by the staff member about assistance to be given to an enrolled child in apparent need of emergency medical assistance,
+if the act or omission is done or made, or the advice given, in good faith and without recklessness in the course of the staff member’s employment as a staff member.
+(2) This section does not affect the vicarious liability of any person for the acts or omissions of a staff member.
+5AAD.Exclusion from protection
+The protection from personal civil liability conferred by this Part does not apply if the ability of the staff member to exercise reasonable care and skill, at the relevant time, was significantly impaired by reason of the staff member being intoxicated by alcohol or a drug or other substance capable of intoxicating a person and the intoxication was self-induced.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
