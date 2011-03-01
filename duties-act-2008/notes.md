@@ -7,13 +7,12 @@ Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv. 1 and 2 | 12 of 2008 
 Revenue Laws Amendment Act 2008 Pt. 2 Div. 1 and Pt. 7 | 30 of 2008 | 27 Jun 2008 | Pt. 2 Div. 1: 27 Jun 2008 (see s. 2(2)(a)) Pt. 7: 1 Jul 2008 (see s. 2(1)(c))
 Revenue Laws Amendment Act (No. 2) 2008 s. 32 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 Revenue Laws Amendment Act 2010 Pt. 2 and Pt. 3 Div. 2 | 9 of 2010 | 10 Jun 2010 | s. 5 and 6: 10 Mar 2010 (see s. 2(d)); s. 3: 10 Jun 2010 (see s. 2(a)); Pt. 3 Div. 2: 10 Jun 2010 (see s. 2(b)(i)); s. 4: 11 Jun 2010 (see s. 2(c))
-Revenue Laws Amendment and Repeal Act 2010 Pt. 2 (s. 3, 12-13 and 16) | 17 of 2010 | 25 Jun 2010 | s. 12: 1 Jul 2008 (see s. 2(c)); s. 3, 13 and 16: 25 Jun 2010 (see s. 2(a))
-Duties Amendment Act (No. 2) 2011 Pt. 2 | 33 of 2011 | 12 Sep 2011 | 24 Dec 2010 (see s. 2(b))
+Revenue Laws Amendment and Repeal Act 2010 Pt. 2 | 17 of 2010 | 25 Jun 2010 | s. 12: 1 Jul 2008 (see s. 2(c)); s. 3, 13 and 16: 25 Jun 2010 (see s. 2(a)); s. 4-11, 14 and 15: 1 Mar 2011 (see s. 2(d) and Gazette 15 Feb 2011 p. 535)
+Duties Legislation Amendment Act (No. 2) 2011 Pt. 2 | 33 of 2011 | 12 Sep 2011 | 24 Dec 2010 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv 3 | 12 of 2008 (as amended by No. 9 of 2010 Pt. 3 Div. 1) | 14 Apr 2008 | 1 Jul 2013 (see s. 2(c))
-Revenue Laws Amendment and Repeal Act 2010 s. 4-11, 14 and 15 | 17 of 2010 | 25 Jun 2010 | 1 Mar 2011 (see s. 2(d) and Gazette 15 Feb 2011 p. 535)
+Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv 3 | 12 of 2008 (as amended by No. 9 of 2010 s. 9) | 14 Apr 2008 | 1 Jul 2013 (see s. 2(c))
 On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv. 3 (as amended by No. 9 of 2010 s. 9) had not come into operation. It reads as follows:
 Part 2 — Amendments
 Division 2 — Duties Act 2008 amended
@@ -44,72 +43,6 @@ Chapter 2 Part 6 Division 4 is repealed.
 Section 277 is repealed.
 32.Schedule 2 Division 2 amended
 Schedule 2 Division 2 is amended by deleting the item relating to section 147.
-On the date as at which this compilation was prepared, the Revenue Laws Amendment and Repeal Act 2010 s. 4-11, 14 and 15 had not come into operation. They reads as follows:
-Division 2 — Amendments about conditional agreements
-4.Section 9 amended
-(1) In section 9 delete the definitions of:
-off-the-plan conditional agreement
-unconditional
-(2) In section 9 insert in alphabetical order:
-issue of title conditional agreement has the meaning given in section 90;
-(3) In section 9 in the definition of general conditional agreement delete paragraph (c) and insert:
-(c)an issue of title conditional agreement;
-(4) In section 9 in the definition of terminated on relevant grounds delete “section 87(3)” and insert:
-section 88A(2)
-5.Section 19 amended
-In section 19(2) delete “a transaction record for it is required to be lodged under section 23” and insert:
-an instrument is required to be lodged under section 23 in respect of the agreement
-6.Section 23 amended
-(1) In section 23(1) delete the passage that begins with “within —” and continues to the end of paragraph (d) and insert:
-within 2 months after the day on which liability for duty on the transaction arises.
-(2) Delete section 23(3).
-7.Section 25 replaced
-Delete section 25 and insert:
-25.Payment of duty
-(1) A person liable to pay duty on a dutiable transaction is to pay the duty within one month after the date of the assessment notice issued in relation to the assessment of the duty, unless a later time is provided under subsection (2) or (3) in respect of the transaction.
-(2) Unless subsection (3) applies, duty is to be paid within 12 months after the day on which liability for duty on the transaction arises if the transaction is —
-(a) a conditional agreement; or
-(b) a dutiable transaction referred to in section 11(1)(a), (b), (c) or (d) if a document relating to the transaction must be registered under —
-(i) the Mining Act 1978; or
-(ii) the Registration of Deeds Act 1856; or
-(iii) the Transfer of Land Act 1893.
-(3) Duty is to be paid within 3 years after the day on which liability for duty on the transaction arises if the transaction is —
-(a) a subdivision conditional agreement; or
-(b) an issue of title conditional agreement.
-8.Section 87 amended
-(1) Delete section 87(3) and (4).
-(2) In section 87(5) delete “subsections (1)(c) and (3)(a),” and insert:
-subsection (1)(c),
-Note:The heading to amended section 87 is to read:
-The term “conditional agreement”
-9.Section 88A inserted
-After section 87 insert:
-88A.General conditional agreements terminated on relevant grounds
-(1) Duty is not chargeable on a general conditional agreement if, after an instrument effecting or evidencing the agreement has been lodged under section 23 but before duty on the transaction is paid, or is due to be paid, under section 25 (whichever is the earlier in time) —
-(a) the agreement is terminated on relevant grounds; and
-(b) the Commissioner is notified of the termination of the agreement in the approved form.
-(2) A general conditional agreement is terminated on relevant grounds if —
-(a) it is not carried into effect because the condition to which it is or was subject cannot be fulfilled for reasons that are not within the control of a party to the agreement, or a person that is related (within the meaning given in section 87(5)) to a party to the agreement; and
-(b) duty is not chargeable on the agreement under section 107 because it is a cancelled transaction.
-10.Section 90 replaced
-Delete section 90 and insert:
-90.The term “issue of title conditional agreement”
-A reference to an issue of title conditional agreement is to a conditional agreement —
-(a) for the sale of land conditional on the happening of one or more of the events described in section 87(2)(j) or (m); or
-(b) for —
-(i) the sale of a strata lot; and
-(ii) the construction on the strata lot, after liability for duty on the agreement arises, of a building for commercial, residential or mixed use purposes.
-11.Section 3 amended
-In section 3 in the definition of lodge delete “Commissioner;” and insert:
-Commissioner, and if the Commissioner has established procedures for the electronic lodgment and recording of data on dutiable transactions, includes to lodge in accordance with those procedures;
-14.Section 147E amended
-In section 147E delete “the application of the taxpayer,” and insert:
-application being made in the approved form,
-15.Section 147F amended
-(1) In section 147F(2) delete “the application of the taxpayer,” and insert:
-application being made in the approved form,
-(2) In section 147F(4) delete “the application of the taxpayer,” and insert:
-application being made in the approved form,
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -233,6 +166,7 @@ interest148
 interest in a discretionary trust9
 intermediary206
 interstate duty206
+issue of title conditional agreement9
 intervening transactions42(8)
 land3, 148
 landholder148
@@ -264,7 +198,6 @@ new vehicle228
 nominal duty3
 notifiable event264(1), 264(2), 264(3)
 offshore risk insurance206
-off-the-plan conditional agreement9
 old partnership77(4)
 old public unit trust119(1)
 option property44(1)
@@ -362,7 +295,6 @@ transfers42(8)
 trust acquisition9
 trust surrender9
 trustee118(1), 122(1)
-unconditional9
 unencumbered value9, 36(1), 148
 unlisted corporation63
 vehicle228, 230(1)
