@@ -21,6 +21,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 s. 182(3) and 208 | 36 of 1999 | 2 Nov 1999 | To be proclaimed (see s. 2)
 Public Sector Reform Act 2010 s. 110 | 39 of 2010 | 1 Oct 2010 | s. 110: 28 Mar 2011 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 Pt. 3 | 1 of 2011 | 1 Mar 2011 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Children and Community Services Act 2004.
 On the date as at which this compilation was prepared, the School Education Act 1999 s. 182(3) and 208 had not come into operation. They read as follows:
@@ -66,3 +67,16 @@ the chief executive officer may under those provisions make a determination unde
 may have committed a breach of discipline as referred to in
 (b) delete paragraph (c)(ii) and “or” after it and insert:
 (ii) in the case of a suspected breach of discipline dealt with under Part 5 of the PSMA — a decision is made under section 81(1)(b), 82A(2) or (3) or 88 of the PSMA; or
+On the date as at which this compilation was prepared, the Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — School Education Act 1999 amended
+7.Act amended
+This Part amends the School Education Act 1999.
+8.Section 17 amended
+In section 17(1)(b) delete “16(1)(b) or (c)” and insert:
+16(1)(b), (c) or (g)
+9.Section 244 amended
+In section 244(2):
+(a) after paragraph (a) insert:
+(ba) make provision for requirements as to the health and safety of children enrolled at a school or a community kindergarten registered under Part 5; and
+(b) after paragraph (a) insert:
+and
