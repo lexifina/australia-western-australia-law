@@ -112,6 +112,7 @@ Mining Amendment Regulations 2010 | 5 Mar 2010 p. 849-50 | r. 1 and 2: 5 Mar 201
 Reprint 8: The Mining Regulations 1981 as at 14 May 2010 (includes amendments listed above)
 Mining Amendment Regulations (No. 2) 2010 | 11 Jun 2010 p. 2633-5 | r. 1 and 2: 11 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Mining Amendment Regulations 2011 | 4 Feb 2011 p. 392-5 | r. 1 and 2: 4 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Feb 2011 (see r. 2(b))
+Mining Amendment Regulations (No. 2) 2011 | 1 Mar 2011 p. 684-5 | r. 1 and 2: 1 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Mar 2011 (see r. 2(b))
 The Mining Amendment Act 1990 was operative 28 June 1991.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -143,7 +144,6 @@ Australian Geodetic DatumSch. 3 cl. 1(1)
 beneficiation plant86AC(1)
 block2, Sch. 3 cl. 1(1)
 CSch. 4 cl. 1
-circumstances justifying royalty relief86F(3)
 combined mineral exploration report96(1)
 commencement daySch. 3 cl. 1(1)
 concentrate85(1)
@@ -164,7 +164,7 @@ expense85AA(3)
 first body corporate85(1)
 Form2
 gold bearing material86AA(11)
-gold metal86AA(11), 86F(3)
+gold metal86AA(11)
 gold royalty project86AA(11)
 gold spot price86AA(11)
 graticular exploration licence2
@@ -224,7 +224,6 @@ relevant land22A(b)(iii)
 relevant operations report58A(1)
 relevant period86(2a)
 reversion licence63A(1)
-royalty base86F(3)
 royalty return2
 royalty value85(1)
 sale85(1)
