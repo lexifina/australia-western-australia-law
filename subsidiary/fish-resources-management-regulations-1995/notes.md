@@ -137,6 +137,9 @@ Fish Resources Management Amendment Regulations (No. 6) 2010 | 27 Aug 2010 p. 41
 Fish Resources Management Amendment Regulations (No. 7) 2010 | 10 Sep 2010 p. 4347 | r. 1 and 2: 10 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Sep 2010 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 8) 2010 | 8 Oct 2010 p. 5134-5 | r. 1 and 2: 8 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Oct 2010 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 9) 2010 | 2 Dec 2010 p. 6031-4 | r. 1 and 2: 2 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2010 (see r. 2(b))
+Fish Resources Management Amendment Regulations 2011 | 1 Mar 2011 p. 667 | r. 1 and 2: 1 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Mar 2011 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 2) 2011 | 1 Mar 2011 p. 668-73 | r. 1 and 2: 1 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Mar 2011 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 3) 2011 | 1 Mar 2011 p. 673-5 | r. 1 and 2: 1 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Mar 2011 (see r. 2(b))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Recreational Fishing Account.
@@ -165,6 +168,7 @@ Broome area waters64ZJ
 camp72
 carrier boat119(1)
 carrier boat licence3(1)
+Central West Zone3(1)
 charter boat16E(1)
 chlorine tarping110(2)
 closed season38G, 45(1)
@@ -180,6 +184,7 @@ deep sea crab38A
 demersal scalefish45(1), 64OAA(1)
 disease3(1)
 disposable part16B(5)
+Easter Group Zone3(1)
 eastern gulf land area3(1)
 Exmouth Gulf Land Zone64ZCA(2)
 Exmouth townsite16L(1)
@@ -234,6 +239,7 @@ operator72
 Ord River area16M(3), 64ZF
 Ord River area waters64ZF
 package22(5)
+Pelsaert Group Zone3(1)
 Pilbara and Kimberley Region3(1)
 Point Quobba restricted area113D
 prawn hand trawl net3(1)
