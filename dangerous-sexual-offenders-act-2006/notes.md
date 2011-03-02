@@ -1,5 +1,29 @@
 Notes
-This is a compilation of the Dangerous Sexual Offenders Act 2006. The following table contains information about that Act.
+This is a compilation of the Dangerous Sexual Offenders Act 2006 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
-Short title | Number and Year | Assent | Commencement
+Short title | Number and year | Assent | Commencement
 Dangerous Sexual Offenders Act 2006 | 1 of 2006 | 30 Mar 2006 | 13 May 2006 (see s. 2 and Gazette 12 May 2006 p. 1781)
+Dangerous Sexual Offenders Amendment Act 2011 | 3 of 2011 | 1 Mar 2011 | s. 1 and 2: 1 Mar 2011 (see s. 2(a); Act other than s. 1 and 2: 2 Mar 2011 (see s. 2(b))
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+chief executive officer3(1)
+commencement daySch. 1, cl. 1(1)
+commit a serious sexual offence3(1)
+community3(1)
+community corrections officer3(1)
+continuing detention order3(1)
+criminal record3(1)
+Division 2 continuing detention order3(1)
+Division 2 order3(1)
+Division 4 continuing detention order3(1)
+DPP3(1)
+offender3(1), 8(1)
+pending proceedings24A(1)
+preliminary hearing3(1)
+protected person46A(1)
+psychiatrist3(1)
+serious danger to the community3(1)
+serious sexual offence3(1)
+supervision order3(1)
+under sentence of imprisonment3(1)
