@@ -28,6 +28,7 @@ Reprint 3: The Heritage of Western Australia Act 1990 as at 18 Apr 2008 (include
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Acts Amendment (Bankruptcy) Act 2009 s. 41 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Heritage and Planning Legislation Amendment Act 2011 Pt. 2 | 4 of 2011 | 2 Mar 2011 | 3 Mar 2011 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
