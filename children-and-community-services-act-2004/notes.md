@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Children and Community Services Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 March 2011 of the Children and Community Services Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 | 34 of 2004 | 20 Oct 2004 | s. 1 and 2: 20 Oct 2004; s. 3 and 102: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); Act other than s. 1-3 and 102 and Sch. 2 cl. 9(2) and 25: 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695); Sch. 2 cl. 9(2): 11 Mar 2006 (see s. 2 and Gazette 10 Mar 2006 p. 987); Sch. 2 cl. 25 deleted by No. 8 of 2009 s. 32(4)
@@ -17,43 +17,9 @@ Reprint 2: The Children and Community Services Act 2004 as at 27 Nov 2009 (inclu
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 8 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Children and Community Services Amendment Act 2010 Pt. 2 Div. 1 and Pt. 3-5 | 49 of 2010 | 24 Nov 2010 | 31 Jan 2011 (see s. 2(b) and Gazette 28 Jan 2011 p. 241)
+Reprint 3: The Children and Community Services Act 2004 as at 4 Mar 2011 (includes amendments listed above)
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
-The Child Care Services Act 2007 Pt. 6 contains transitional provisions which read as follows:
-Part 6 — Transitional provisions
-54.Terms used
-In this Part —
-commencement day means the day on which section 65 comes into operation;
-Part 8 provisions means the provisions of the Children and Community Services Act 2004 Part 8 in force immediately before the commencement day.
-55.Interpretation Act 1984 not affected
-This Part is additional to and does not affect the operation of the Interpretation Act 1984 (in particular, section 36 of that Act) in relation to the repeal and re-enactment of the Part 8 provisions by this Act.
-56.Continuation of certain regulations
-(1) In this section —
-child care regulations means the following regulations as in force immediately before the commencement day —
-(a)the Children and Community Services (Child Care) Regulations 2006;
-(b)the Children and Community Services (Family Day Care) Regulations 2006;
-(c)the Children and Community Services (Outside School Hours Care) Regulations 2006;
-(d)the Children and Community Services (Outside School Hours Family Day Care) Regulations 2006.
-(2) The child care regulations have effect on and after the commencement day, with all necessary changes, as if they were regulations made under section 52 and may be amended or repealed accordingly.
-57.Exemptions
-An order under the Children and Community Services Act 2004 section 229(1) that is in force immediately before the commencement day has effect on and after that day, with all necessary changes, as if it were an order made under section 45(1) and may be amended or repealed accordingly.
-58.Applications for licence or renewal of licence
-An application for a licence or the renewal of a licence made under the Part 8 provisions that has not been finally determined immediately before the commencement day is to be dealt with and determined as if it were an application for a licence or the renewal of a licence under this Act.
-59.Licences
-(1) A licence under the Part 8 provisions that is in force immediately before the commencement day is to be regarded on and after that day as a licence under this Act and may be dealt with accordingly.
-(2) The reference in subsection (1) to a licence under the Part 8 provisions includes a reference to a licence or permit that has effect as if it were a licence under the Part 8 provisions because of the Children and Community Services Act 2004 Schedule 1 clause 18(1).
-60.References to Part 8 provisions
-If in a written law or other document or instrument there is a reference to a Part 8 provision, the reference is, unless the context otherwise requires, to be read on and after the commencement day as a reference to the provision of this Act that corresponds to the Part 8 provision.
-61.Transitional regulations
-(1) If there is no sufficient provision in this Part for dealing with a transitional matter, regulations under this Act may prescribe all matters that are required or necessary or convenient to be prescribed for dealing with the matter.
-(2) In subsection (1) —
-transitional matter means a matter that needs to be dealt with for the transition from the Part 8 provisions to the provisions of this Act.
-(3) Regulations under subsection (1) may provide that specified provisions of a written law do not apply, or apply with specified modifications, to or in relation to any matter.
-(4) If regulations under subsection (1) provide that a specified state of affairs is to be taken to have existed, or not to have existed, on and from a day that is earlier than the day on which the regulations are published in the Gazette but not earlier than the commencement day, the regulations have effect according to their terms.
-(5) In subsections (3) and (4) —
-specified means specified or described in the regulations.
-(6) If regulations contain a provision referred to in subsection (4), the provision does not —
-(a) affect, in a manner prejudicial to any person (other than the State, an authority of the State or a local government), rights that the person had before the regulations were published in the Gazette; or
-(b) impose liabilities on any person (other than the State, an authority of the State or a local government) in respect of anything done or omitted to be done before the regulations were published in the Gazette.
+The Child Care Services Act 2007 Pt. 6 contains transitional provisions relating to the repealed Pt. 8 of this Act.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -61,33 +27,33 @@ Aboriginal child3
 Aboriginal person3
 adult3
 advisory body27(1)
-amending sectionSch. 1, cl. 26
+amending sectionSch. 1 cl. 26
 another law107(1)
 applicant91
 application for assistance235(1)
 approved person112
 assessor3
 assistance22(4A)
-authorisationSch. 1, cl. 1
-authorised officer3, 195(1), 195(1)
+authorisationSch. 1 cl. 1
+authorised officer3, 195(1)
 authorised person112
+body piercing104A(1)
 care plan10(4), 88I(1), 89(1), 91
 care planning decision91
 carer3
-case planning decision91
 case review panel91
 CEO3, 24A(1)
-child3, 42, 42, 74, 79(1), 84(1), 105(1), 126(1), 131, 150(1)
+child3, 42, 74, 79(1), 84(1), 105(1), 124F(1), 126(1), 131, 150(1), 240(1)
 child protection order157(1)
 child protection proceeding157(1)
 child welfare law157(1)
 Children’s Court157(1)
-commencementSch. 1, cl. 28(1)
-commencement day124A, Sch. 1, cl. 1
+commencementSch. 1 cl. 28(1)
+commencement day124A, Sch. 1 cl. 1
 Commissioner242A(1)
 Commissioner of Police124D(1)
 Commonwealth agency23(1)
-condition51(1), 64(1), 64(1)
+condition51(1), 64(1)
 consent127(1)
 continuation order88E(1)
 corresponding authority23(1)
@@ -100,12 +66,11 @@ disclosing CEO24A(2)
 disposable article112
 doctor124A
 employ188
-enduring parental carer42
 engage in conduct101(2)
-existing appealSch. 1, cl. 1
-existing orderSch. 1, cl. 1
-existing proceedingsSch. 1, cl. 1
-extended orderSch. 1, cl. 1
+existing appealSch. 1 cl. 1
+existing orderSch. 1 cl. 1
+existing proceedingsSch. 1 cl. 1
+extended orderSch. 1 cl. 1
 facility125A(1)
 family business188
 firearm112
@@ -131,13 +96,13 @@ leave124H(1)
 legal practitioner148(1)
 magistrate3
 midwife124A
-Ministerial Body17, 17, Sch. 1, cl. 27(1)
+Ministerial Body17, Sch. 1 cl. 27(1)
 neglect28(1)
 negotiated placement agreement3
 notice193(1), 194A(1)
 notifier240(1)
 nurse124A
-officer3, 37(1), 41(1), 87(1), 88J(1), 112
+officer3, 37(1), 41(1), 87(1), 88J(1)
 officer in charge40(1)
 old order237(1)
 order124H(1)
@@ -152,8 +117,6 @@ party to the initial proceedings42
 personal material97(1)
 place3
 place of residence105(1)
-placed3
-placement3
 placement arrangement3
 police officer3
 pre-hearing conference3
@@ -161,13 +124,11 @@ prescribed authority24A(1)
 prescribed period104(1)
 prohibited article112
 proposal143(1)
-proposed carer61(1)
-proposed interstate order158(1), 167(1)
+proposed interstate order158(1)(c), 167(1)
 proposed special guardian61(1)
 protected child88A
 protection application3
 protection order3
-protection order (enduring parental responsibility)3
 protection order (special guardianship) 3
 protection order (supervision)3
 protection order (time-limited)3
@@ -178,21 +139,21 @@ provisional care plan10(4), 39(1), 88I(1)
 provisional protection and care3
 provisionally protected child88A
 public authority3
-publication day88B(3)
+publication day88B(3)(a)
 publish237(1)
 registrar of the Court157(1)
 relative3
 relevant information23(1)
 relevant person73(1)
 remote communication120(1)
-repealed ActSch. 1, cl. 1
+repealed ActSch. 1 cl. 1
 report124A, 138
 reporter124A
 representation146(1)
 requesting CEO24A(3)
 residential facility3
 responsible person41(1)
-section 18(1)Sch. 1, cl. 27(1)
+section 18(1)Sch. 1 cl. 27(1)
 secure care arrangement3, 88C(1)
 secure care decision88G(1)
 secure care facility3
@@ -203,10 +164,9 @@ service provider3
 sexual abuse124A
 social services3
 special guardian42
-specifiedSch. 1, cl. 25(5)
+specifiedSch. 1 cl. 25(5)
 State157(1)
 teacher124A
-the child124F(1), 240(1)
 Torres Strait Islander3
 Torres Strait Islander child3
 transferred order181(1)
