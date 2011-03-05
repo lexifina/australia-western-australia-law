@@ -1,6 +1,6 @@
-## Schedule 5 — Annual payment by fishing or diving charter operator
+## Schedule 5 — Annual payment by charter operator
 [r. 7A(1)(a)]
-[Heading inserted in Gazette 24 Jul 2007 p. 3666.]
+[Heading inserted in Gazette 24 Jul 2007 p. 3666; amended in Gazette 4 Mar 2011 p. 701.]
 Declared number of visits by a vessel to the Island in respect of a financial year | Annual payment
 Less than 15 visits | $37.00 multiplied by capacity*
 15 to 30 visits | $75.50 multiplied by capacity
