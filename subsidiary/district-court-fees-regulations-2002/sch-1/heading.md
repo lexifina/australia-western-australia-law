@@ -2,20 +2,22 @@
 [r. 4]
 [Heading amended in Gazette 23 Jun 2005 p. 2690.]
 Item | Matter | Fee for individuals/personal injury $ | Fee for person other than an individual $
-1. | On filing any originating process by which a cause, matter or other proceeding in the court is commenced, other than proceedings of the kind referred to in item 2, 3 or 8 .............................................. | 512.00 | 998.00
+1. | On filing any originating process by which a cause, matter or other proceeding in the court is commenced, other than proceedings of the kind referred to in item 2A, 2B, 2, 3 or 8 ............................................ | 523.00 | 1 019.00
+2A. | On filing an application for an extraordinary licence under the Road Traffic Act 1974, section 76(1) ............….. | 158.50 | N/A
+2B. | On filing an application for an order made under the Spent Convictions Act 1988, section 6(1) .......................... | 76.00 | N/A
 2. | On filing —
- | (a)a counterclaim ................................. | 512.00 | 998.00
- | (b)a third party notice ........................... | 512.00 | 998.00
- | (c)an application — (i)to extend a period of time fixed by law, including an application to extend time before proceedings are commenced; (ii)to limit a period of time within which proceedings may be taken; (iii)for leave to serve a writ or notice of a writ out of jurisdiction; (iv)for leave to appeal ................... | 193.00 | 331.00
- | (d)any other application for which no fee has been provided in this Schedule .......................................... | 193.00 | 331.00
-3. | Commencing an appeal ............................. | 64.00 | 166.00
+ | (a)a counterclaim ................................. | 523.00 | 1 019.00
+ | (b)a third party notice ........................... | 523.00 | 1 019.00
+ | (c)an application — (i)to extend a period of time fixed by law, including an application to extend time before proceedings are commenced; (ii)to limit a period of time within which proceedings may be taken; (iii)for leave to serve a writ or notice of a writ out of jurisdiction; (iv)for leave to appeal ................... | 197.00 | 338.00
+ | (d)any other application for which no fee has been provided in this Schedule .......................................... | 197.00 | 338.00
+3. | Commencing an appeal ............................. | 65.50 | 169.50
 [4.deleted]
-5. | Entry for hearing a cause or matter (including the assessment of damages in an action for personal injury) or notice of an appointment to hear an originating summons .................................................... | 512.00 | 998.00
+5. | Entry for hearing a cause or matter (including the assessment of damages in an action for personal injury) or notice of an appointment to hear an originating summons .................................................... | 523.00 | 1 019.00
  | NOTE:
  | This item does not apply to entering an appeal for hearing.
-6. | Allocation of hearing date, for each day allocated ..................................................... | 450.00 | 1 170.00
+6. | Allocation of hearing date, for each day allocated ..................................................... | 459.00 | 1 194.00
  | NOTE: See regulation 9.
-7. | Daily hearing fee before a court constituted by a judge ................................ | 450.00 | 1 170.00
+7. | Daily hearing fee before a court constituted by a judge ................................ | 459.00 | 1 194.00
  | NOTE 1:
  | No fee is payable if the proceedings are of an interlocutory nature only.
  | NOTE 2:
@@ -30,7 +32,7 @@ Item | Matter | Fee for individuals/personal injury $ | Fee for person other tha
  | (i)interlocutory application or summons or motion returnable;
  | (ii)application for assessment of damages other than in an action for personal injury; or
  | (iii)application for summary judgment,
- | before a judge or registrar in chambers ..... | 128.00 | 250.00
+ | before a judge or registrar in chambers ..... | 130.50 | 255.00
  | NOTE 1:
  | This fee includes the first day of hearing of the application or summons and includes any adjournment of the hearing.
  | NOTE 2:
@@ -39,7 +41,7 @@ Item | Matter | Fee for individuals/personal injury $ | Fee for person other tha
  | NOTE:
  | The daily fee becomes payable on a day to day basis and is payable prior to the daily reconvening of the hearing.
 10. | On an appointment to tax a bill of costs in a cause or matter or under the Commercial Arbitration Act 1985 —
- | (a)lodgement fee .................................. | 128.00 | 250.00
+ | (a)lodgement fee .................................. | 130.50 | 255.00
  | (b)in addition to the lodgement fee, a taxing fee at the rate of ..................... | 2.5% | 2.5%
  | NOTE 1:
  | The % rate is to be applied to the amount at which the bill is drawn.
@@ -48,21 +50,21 @@ Item | Matter | Fee for individuals/personal injury $ | Fee for person other tha
  | NOTE 3:
  | If the parties agree on the bill of costs in a cause or matter or under the Commercial Arbitration Act 1985 and the appointment is cancelled, the following percentage of the fee paid is to be refunded — (a)if the appointment is cancelled less than 3 days before the day of the appointment, nil; (b)if the appointment is cancelled 3 days or more and less than 10 days before the day of the appointment, 50%;
  | (c)if the appointment is cancelled 10 or more days before the day of the appointment, 80%.
-11. | For searching any record or proceeding .... | 26.00 | 26.00
+11. | For searching any record or proceeding .... | 26.50 | 26.50
  | NOTE:
  | No fee is payable under item 11 for a search made — (a)by or on behalf of a party to the proceedings; or (b)by an approved recipient of searchable information provided to it under regulation 11A.
 11A. | For provision of searchable information to approved recipients under regulation 11A —
  | (a)fee per action or matter provided to recipient ............................................ | 1.15 | 1.15
- | (b)annual fee for information provided by email to approved recipient ......... | 1 176.00 | 1 176.00
+ | (b)annual fee for information provided by email to approved recipient ......... | 1 201.00 | 1 201.00
  | NOTE:
  | The fee under item 11A(b) is payable on the date on which the recipient is approved by the Attorney General and on each anniversary of that date.
-12. | (a)On an application for the production of records or documents that are required to be produced to any court, tribunal, arbitrator or umpire . | 38.00 | 38.00
- | (b)If an officer is required to attend at any court or place out of the District Court building, the officer’s reasonable expenses and, in addition for each hour when the officer is necessarily absent from his or her office ................................................ | 64.00 | 64.00
+12. | (a)On an application for the production of records or documents that are required to be produced to any court, tribunal, arbitrator or umpire . | 39.00 | 39.00
+ | (b)If an officer is required to attend at any court or place out of the District Court building, the officer’s reasonable expenses and, in addition for each hour when the officer is necessarily absent from his or her office ................................................ | 65.50 | 65.50
 13. | (a)For a copy of a document of any kind or an exhibit, including marking as an office copy if required, for each page or part thereof .............................................. | 1.50 | 1.50
- | (b)For a copy of reasons for judgment — (i)for each copy consisting of not more than 10 pages issued to a person not a party to the proceedings and for each copy in excess of one copy issued to a party to the proceedings ........ (ii)for each copy consisting of 10 or more pages an additional fee per page of ...................................... | 9.00 1.15 | 9.00 1.15
- | (c)For certifying under seal that a document is a true copy, an additional fee of ............................... | 12.50 | 12.50
- | (d)For a certificate under the hand of a registrar ............................................ | 27.00 | 27.00
-14. | (a)For a copy of a transcript, for each page or part of a page ....................... | 5.05 | 5.05
- | (b)For each copy of a transcript in electronic format if a fee has been paid under paragraph (a) by the applicant for a copy of the transcript, for each day of transcript | 12.50 | 12.50
+ | (b)For a copy of reasons for judgment — (i)for each copy consisting of not more than 10 pages issued to a person not a party to the proceedings and for each copy in excess of one copy issued to a party to the proceedings ........ (ii)for each copy consisting of 10 or more pages an additional fee per page of ...................................... | 9.20 1.15 | 9.20 1.15
+ | (c)For certifying under seal that a document is a true copy, an additional fee of ............................... | 12.75 | 12.75
+ | (d)For a certificate under the hand of a registrar ............................................ | 27.50 | 27.50
+14. | (a)For a copy of a transcript, for each page or part of a page ....................... | 5.15 | 5.15
+ | (b)For each copy of a transcript in electronic format if a fee has been paid under paragraph (a) by the applicant for a copy of the transcript, for each day of transcript | 12.75 | 12.75
  | (c)For each copy of a transcript not in electronic format if a fee has been paid under paragraph (a) by the applicant for a copy of the transcript, for each page or part of a page .................................................. | 1.50 | 1.50
-[Schedule 1 amended in Gazette 30 Dec 2003 p. 5705-7; 28 Apr 2005 p. 1754-5; 23 Jun 2005 p. 2690-1; 23 Jun 2006 p. 2188; 26 Jun 2007 p. 3036; 27 Jun 2008 p. 3063; 9 Jun 2009 p. 1923; 4 Sep 2009 p. 3488-90; 30 Jul 2010 p. 3498.]
+[Schedule 1 amended in Gazette 30 Dec 2003 p. 5705-7; 28 Apr 2005 p. 1754-5; 23 Jun 2005 p. 2690-1; 23 Jun 2006 p. 2188; 26 Jun 2007 p. 3036; 27 Jun 2008 p. 3063; 9 Jun 2009 p. 1923; 4 Sep 2009 p. 3488-90; 30 Jul 2010 p. 3498; 8 Mar 2011 p. 785-7.]
