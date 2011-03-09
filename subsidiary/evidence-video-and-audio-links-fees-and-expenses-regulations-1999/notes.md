@@ -11,3 +11,4 @@ Evidence (Video and Audio Links Fees and Expenses) Amendment Regulations 2007 | 
 Evidence (Video and Audio Links Fees and Expenses) Amendment Regulations 2008 | 27 Jun 2008 p. 3072-3 | r. 1 and 2: 27 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Reprint 2: The Evidence (Video and Audio Links Fees and Expenses) Regulations 1999 as at 7 Nov 2008 (includes amendments listed above)
 Evidence (Video and Audio Links Fees and Expenses) Amendment Regulations 2009 | 4 Sep 2009 p. 3494 | r. 1 and 2: 4 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2009 (see r. 2(b))
+Evidence (Video and Audio Links Fees and Expenses) Amendment Regulations 2011 | 8 Mar 2011 p. 798-9 | r. 1 and 2: 8 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Mar 2011 (see r. 2(b))
