@@ -13,6 +13,7 @@ Reprint 1: The Magistrates Court (Fees) Regulations 2005 as at 13 Feb 2009 (incl
 Magistrates Court (Fees) Amendment Regulations 2009 | 9 Jun 2009 p. 1924 | r. 1 and 2: 9 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jun 2009 (see r. 2(b))
 Magistrates Court (Fees) Amendment Regulations (No. 2) 2009 | 4 Sep 2009 p. 3472-9 | r. 1 and 2: 4 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2009 (see r. 2(b))
 Magistrates Court (Fees) Amendment Regulations 2010 | 30 Jul 2010 p. 3499-500 | r. 1 and 2: 30 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Jul 2010 (see r. 2(b))
+Magistrates Court (Fees) Amendment Regulations 2011 | 8 Mar 2011 p. 787-90 | r. 1 and 2: 8 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Mar 2011 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
