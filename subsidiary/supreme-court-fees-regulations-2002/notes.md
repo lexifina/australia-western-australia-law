@@ -17,6 +17,7 @@ Supreme Court (Fees) Amendment Regulations 2009 | 9 Jun 2009 p. 1921-2 | r. 1 an
 Supreme Court (Fees) Amendment Regulations (No. 2) 2009 | 4 Sep 2009 p. 3461-72 | r. 1 and 2: 4 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2009 (see r. 2(b))
 Reprint 2: The Supreme Court (Fees) Regulations 2002 as at 13 Nov 2009 (includes amendments listed above)
 Supreme Court (Fees) Amendment Regulations 2010 | 30 Jul 2010 p. 3496-7 | r. 1 and 2: 30 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Jul 2010 (see r. 2(b))
+Supreme Court (Fees) Amendment Regulations 2011 | 8 Mar 2011 p. 781-4 | r. 1 and 2: 8 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Mar 2011 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
