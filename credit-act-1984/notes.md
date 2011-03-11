@@ -1,10 +1,10 @@
 Notes
-This is a compilation of the Credit Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 March 2011 of the Credit Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Credit Act 1984 | 99 of 1984 | 27 Dec 1984 | Act other than s. 91(3): 31 Mar 1985 (see s. 2 and Gazette 8 Mar 1985 p. 867); s. 91(3) deleted by No. 8 of 2009 s. 44(2)
-Acts Amendment (Credit) Act 1989 Pt. 2 | 47 of 1989 | 9 Jan 1990 | s. 4 and 5: 9 Jan 1990 (see s. 2(1)); s. 3: 31 Mar 1985 (see s. 2(2) and Gazette 8 Mar 1985 p. 867)
-Credit Amendment Act 1992 | 58 of 1992 | 11 Dec 1992 | 11 Jan 1993 (see s. 2 and Gazette 8 Jan 1993 p. 25)
+Credit Act 1984 | 99 of 1984 | 27 Dec 1984 | s. 1 and 2: 27 Dec 1984; Act other than s. 1, 2 and 91(3): 31 Mar 1985 (see s. 2 and Gazette 8 Mar 1985 p. 867); s. 91(3) deleted by No. 8 of 2009 s. 44(2)
+Acts Amendment (Credit) Act 1989 Pt. 2 | 47 of 1989 | 9 Jan 1990 | s. 3: 31 Mar 1985 (see s. 2(2) and Gazette 8 Mar 1985 p. 867); s. 4 and 5: 9 Jan 1990 (see s. 2(1))
+Credit Amendment Act 1992 | 58 of 1992 | 11 Dec 1992 | s. 1 and 2: 11 Dec 1992; Act other than s. 1 and 2: 11 Jan 1993 (see s. 2 and Gazette 8 Jan 1993 p. 25)
 Consumer Credit (Western Australia) Act 1996 s. 13 | 30 of 1996 | 10 Sep 1996 | 1 Nov 1996 (see s. 2)
 Statutes (Repeals and Minor Amendments) Act 1997 s. 39(10) | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
 Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 70 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
@@ -20,59 +20,109 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 2: The Credit Act 1984 as at 24 Jun 2005 (includes amendments listed above)
 Housing Societies Repeal Act 2005 s. 24 | 17 of 2005 | 5 Oct 2005 | 10 Jul 2010 (see s. 2(3) and Gazette 9 Jul 2010 p. 3239)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 9 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Duties Legislation Amendment Act 2008 Sch. 1 cl. 6 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 44 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
-Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 9 and Pt. 3 Div. 2 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
+Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 9 and 36 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
  | Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+ | Reprint 3: The Credit Act 1984 as at 11 Mar 2011 (includes amendments listed above)
 Repealed by the Strata Titles Act 1985.
-Footnote no longer applicable.
+Repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010.
+The Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 was part of a legislative exercise in which the regulation of credit and certain other transactions was referred to the Commonwealth. As part of that exercise the National Consumer Credit Protection Act 2009 (Cwlth), which contains the National Credit Code, was adopted in WA on 1 July 2010.
 Now see the Broadcasting Services Act 1992 of the Commonwealth.
-Repealed by the Revenue Laws Amendment and Repeal Act 2004 s. 37(1).
+Repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004.
 The Acts Amendment (Credit) Act 1989 s. 5(2) reads as follows:
 (2) Nothing in section 86A of the principal Act as enacted by subsection (1) —
 (a) applies to any failure, error or misdescription in any regulated contract as defined in the principal Act that is the subject of an application made under section 85 or 86 of the principal Act before the day that this section comes into operation and that is pending on the day;
 (b) affects any final order made under section 85 or 86 of the principal Act before the day that this section comes into operation.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-Footnote no longer applicable.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
-Division 23 — Transitional provisions
-151.Commissioner for Fair Trading
-(1) On commencement, the person holding the office of Commissioner for Fair Trading immediately before commencement is to be taken to have been designated as the Commissioner or Registrar (as the case requires) for the purposes of each of the following enactments —
-(a) the Associations Incorporation Act 1987;
-(b) the Business Names Act 1962;
-(c) the Chattel Securities Act 1987;
-(d) the Companies (Co-operative) Act 1943;
-(e) Part 8 of the Competition Policy Reform (Western Australia) Act 1996;
-(f) the Consumer Affairs Act 1971;
-(g) the Co-operative and Provident Societies Act 1903;
-(h) the Credit Act 1984;
-(i) the Credit (Administration) Act 1984;
-(j) the Employment Agents Act 1976;
-(k) the Hire-Purchase Act 1959;
-(l) the Limited Partnerships Act 1909;
-(m) the Motor Vehicle Dealers Act 1973;
-(n) the Petroleum Products Pricing Act 1983;
-(o) the Petroleum Retailers Rights and Liabilities Act 1982;
-(p) the Residential Tenancies Act 1987;
-(q) the Retirement Villages Act 1992;
-(r) the Travel Agents Act 1985.
-(2) A thing done or omitted to be done by, to or in relation to, the Commissioner for Fair Trading (including in his or her capacity as the Prices Commissioner) before commencement under a provision of the Consumer Affairs Act 1971 for the purposes of another enactment listed in subsection (1) has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted —
-(a) by, to or in relation to, the Commissioner or Registrar (as the case requires) as defined in that other enactment as in force after commencement; and
-(b) where relevant, under the corresponding provision of that other enactment as in force after commencement.
-(3) To the extent that a thing done or omitted to be done by, to or in relation to, the Commissioner for Fair Trading (including in his or her capacity as the Prices Commissioner) before commencement under, or for the purposes of, an enactment listed in subsection (1) is not covered by subsection (2), it has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the Commissioner or Registrar (as the case requires) as defined in that enactment as in force after commencement.
-(4) A thing done or omitted to be done by, to or in relation to, the Commissioner for Fair Trading before commencement under, or for the purposes of, an enactment not listed in subsection (1) has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the Commissioner as defined in the Consumer Affairs Act 1971 as in force after commencement.
-(5) A reference in an enactment to the Commissioner for Fair Trading is to have effect after commencement as if it had been amended to be a reference to —
-(a) in the case of an enactment listed in subsection (1) or subsidiary legislation made under such an enactment — the Commissioner or Registrar (as the case requires) as defined in the enactment as in force after commencement; or
-(b) in the case of any other enactment or subsidiary legislation — the Commissioner as defined in the Consumer Affairs Act 1971 as in force after commencement.
-152.Commissioner for Corporate Affairs and Registrar of Co-operative and Financial Institutions
-(1) A thing done or omitted to be done by, to or in relation to, the Commissioner for Corporate Affairs before commencement under, or for the purposes of, the Companies (Co-operative) Act 1943 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
-(2) A thing done or omitted to be done by, to or in relation to, the Registrar of Co-operative and Financial Institutions before commencement under, or for the purposes of, the Co-operative and Provident Societies Act 1903 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
-153.Consumer Affairs Act 1971
-Each office in existence immediately before commencement because of section 15(1) of the Consumer Affairs Act 1971 does not cease merely because that subsection is repealed by this Act.
-154.Petroleum Products Pricing Act 1983
-Each office in existence immediately before commencement because of section 5(2)(b) of the Petroleum Products Pricing Act 1983 does not cease merely because that paragraph is deleted by this Act.
-155.Interpretation
-In this Division —
-commencement means the time at which this Division comes into operation;
-Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
-Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 has transitional provisions some of which may be relevant to this Act.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+acceptable rate of interest5(1)
+account charge5(1)
+accrued credit charge5(1)
+actuarial method5(1)
+advertisement121(8)(a)
+amount financed5(1)
+annual percentage rate5(1)
+assignment150(5)
+bank5(1)
+billing cycle5(1)
+body corporate5(1)
+cash5(1)
+cash price5(1), 13(5)(b)
+civil penalty85B(8)
+commencement day19A(1)
+commercial broadcasting station121(8)(c)
+commercial television station121(8)(c)
+commercial vehicle5(1)
+commission charge5(1)
+Commissioner5(1)
+compulsory insurance5(1)
+condition127(1)
+continuing credit contract5(1)
+contract for the hiring of goods5(1)
+contract of guarantee139(1)
+credit5(1)
+credit charge5(1)
+credit contract5(1)
+credit provider5(1)
+credit sale contract5(1)
+creditor48(2)(a)
+cross-claim5(1)
+daily percentage rate5(1)
+debtor5(1)
+deed150(5)
+default113(5)
+default charge5(1)
+deferral charge5(1)
+Department5(1)
+deposit5(1)
+determination5(1)
+discharge5(1)
+enforcement expense5(1)
+estimated credit charge5(1)
+exempt credit provider5(1)
+farm machinery5(1)
+farming undertaking5(1)
+goods5(1)
+guarantee5(1)
+guarantor5(1)
+instalment5(1)
+judgment5(1)
+land5(1)
+licensed credit provider5(1)
+licensee121(8)(c)
+linked credit provider5(1)
+loan contract5(1)
+minimum credit charge5(1)
+mortgage5(1)
+offer in writing32(7), 33(3)
+officer5(1)
+pastoral finance company5(1)
+pre-determined credit charge5(1)
+property5(1)
+recognised State5(1)
+record5(1)
+registered office164(2)
+registration fees5(1)
+regulated continuing credit contract5(1)
+regulated contract5(1)
+regulated credit sale contract5(1)
+regulated loan contract5(1)
+regulated mortgage5(1)
+relevant date35(4), 36(4), 69(2), Sch. 2 cl. 2, Sch. 3 cl. 2,
+Sch. 4 cl. 2, Sch. 5 cl. 2
+rescission5(1)
+security interest5(1)
+services5(1)
+statutory rebate5(1)
+supplier5(1)
+supply5(1)
+tied continuing credit contract5(1)
+tied loan contract5(1)
+trade or tie agreement5(1)
+trade-in allowance5(1)
+Tribunal5(1)
+By Authority: JOHN A. STRIJK, Government Printer
