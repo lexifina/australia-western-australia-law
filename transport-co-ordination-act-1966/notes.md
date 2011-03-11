@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Transport Co-ordination Act 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 March 2011 of the Transport Co-ordination Act 1966 and includes the amendments made by the other written laws referred to in the following table 6, 7, 15-19. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road and Air Transport Commission Act 1966 | 53 of 1966 | 5 Dec 1966 | 19 Jun 1967 (see s. 2 and Gazette 9 Jun 1967 p. 1547)
@@ -24,15 +24,15 @@ Acts Amendment (Traffic Board) Act 1981 Pt. V | 106 of 1981 | 4 Dec 1981 | 2 Feb
 Acts Amendment (Motor Vehicle Fees) Act 1982 Pt. IV | 25 of 1982 | 27 May 1982 | 1 Jul 1982 (see s. 2)
 Reprint of the Transport Act 1966 approved 19 Jul 1983 (includes amendments listed above)
 Acts Amendment and Repeal (Credit) Act 1984 Pt. IX | 102 of 1984 | 19 Dec 1984 | 31 Mar 1985 (see s. 2 and Gazette 8 Mar 1985 p. 867)
-Transport Amendment Act 1985 | 30 of 1985 | 24 Apr 1985 | 7 Jun 1985 (see s. 2 and Gazette 7 Jun 1985 p. 1932)
+Transport Amendment Act 1985 | 30 of 1985 | 24 Apr 1985 | s. 1 and 2: 24 Apr 1985; Act other than s. 1 and 2: 7 Jun 1985 (see s. 2 and Gazette 7 Jun 1985 p. 1932)
 Acts Amendment and Repeal (Transport Co-ordination) Act 1985 Pt. II | 54 of 1985 | 28 Oct 1985 | 1 Jan 1986 (see s. 2 and Gazette 20 Dec 1985 p. 4822)
 Transport Co-ordination Amendment Act 1986 | 2 of 1986 | 26 Jun 1986 | 26 Jun 1986 (see s. 2)
 Acts Amendment (Financial Administration and Audit) Act 1986 s. 4 | 4 of 1986 | 27 Jun 1986 | 1 Jul 1986 (see s. 2)
 Transport Co-ordination Amendment Act (No. 2) 1986 | 46 of 1986 | 1 Aug 1986 | 1 Jul 1986 (see s. 2)
 Reprint of the Transport Co-ordination Act 1966 as at 6 Mar 1987 (includes amendments listed above) (corrigenda in Gazette 8 May 1987 p. 2065)
 Transport Co-ordination Amendment Act (No. 2) 1987 | 95 of 1987 | 16 Dec 1987 | 16 Dec 1987 (see s. 2)
-Transport Co-ordination Amendment Act 1987 | 115 of 1987 | 31 Dec 1987 | 1 May 1988 (see s. 2 and Gazette 29 Apr 1988 p. 1292)
-Transport Co-ordination Amendment Act 1989 | 13 of 1989 | 2 Nov 1989 | 29 Jun 1990 (see s. 2 and Gazette 15 Jun 1990 p. 2707)
+Transport Co-ordination Amendment Act 1987 | 115 of 1987 | 31 Dec 1987 | s. 1 and 2: 31 Dec 1987; Act other than s. 1 and 2: 1 May 1988 (see s. 2 and Gazette 29 Apr 1988 p. 1292)
+Transport Co-ordination Amendment Act 1989 | 13 of 1989 | 2 Nov 1989 | s. 1 and 2: 2 Nov 1989; Act other than s. 1 and 2: 29 Jun 1990 (see s. 2 and Gazette 15 Jun 1990 p. 2707)
 Transport Co-ordination Amendment Act 1990 | 34 of 1990 | 9 Oct 1990 | 9 Oct 1990 (see s. 2)
 Financial Administration Legislation Amendment Act 1993 s. 7 | 6 of 1993 | 27 Aug 1993 | 27 Aug 1993 (see s. 2(2))
 Acts Amendment (Department of Transport) Act 1993 Pt. 14 | 47 of 1993 | 20 Dec 1993 | 1 Jan 1994 (see s. 2 and Gazette 31 Dec 1993 p. 6861)
@@ -52,10 +52,10 @@ Perth Parking Management (Consequential Provisions) Act 1999 s. 7(6) | 16 of 199
 Acts Amendment (Police Immunity) Act 1999 s. 10 | 42 of 1999 | 25 Nov 1999 | 25 Nov 1999 (see s. 2)
 Reprint of the Transport Co-ordination Act 1966 as at 19 May 2000 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2000 s. 43 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
-Road Traffic Amendment Act 2000 s. 66 | 39 of 2000 | 10 Oct 2000 | 22 Mar 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+Road Traffic Amendment Act 2000 Pt. 3 Div. 4 | 39 of 2000 | 10 Oct 2000 | 22 Mar 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Transport Co-ordination Amendment Act 2000 | 40 of 2000 | 2 Nov 2000 | 2 Nov 2000 (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 69 | 43 of 2000 | 2 Nov 2000 | 17 Feb 2001 (see s. 2(1) and Gazette 16 Feb 2001 p. 903)
-Reprint of the Transport Co-ordination Act 1966 as at 11 May 2001 (includes amendments listed above)
+Reprint of the Transport Co-ordination Act 1966 as at 11 May 2001 (includes amendments listed above except those in the Road Traffic Amendment Act 2000)
 Machinery of Government (Planning and Infrastructure) Amendment Act 2002 Pt. 9 | 7 of 2002 | 19 Jun 2002 | 1 Jul 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
 Bulk Handling Amendment Act 2002 s. 25 | 29 of 2002 | 25 Oct 2002 | 25 Oct 2002 (see s. 2)
 Public Transport Authority Act 2003 Pt. 8 Div. 5 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
@@ -63,32 +63,29 @@ Sentencing Legislation Amendment and Repeal Act 2003 s. 99 | 50 of 2003 | 9 Jul 
 Statutes (Repeals and Minor Amendments) Act 2003 s. 121 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 127 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 8: The Transport Co-ordination Act 1966 as at 5 Aug 2005 (includes amendments listed above)
-Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(4) and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 8: The Transport Co-ordination Act 1966 as at 5 Aug 2005 (includes amendments listed above except those in the Road Traffic Amendment Act 2000)
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(4) and Sch. 1 cl. 169 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Eastern Goldfields Transport Board Repeal Act 2008 s. 15 | 28 of 2008 | 1 Jul 2008 | 29 Jul 2008
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 14 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
 Standardisation of Formatting Act 2010 s. 4, 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Reprint 9: The Transport Co-ordination Act 1966 as at 11 Mar 2011 (includes amendments listed above)
 The State Transport Co-ordination Act 1966 was repealed by the State Transport Co-ordination Act 1981, which was repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.
 The reference in the Taxi Act 1994 s. 49(a) to an amendment of s. 2 of this Act should refer to an amendment of s. 4 of this Act. Section 49(a) reads as follows:
-“
-(a) in section 2, in the definition of “omnibus” by deleting “a vehicle licensed for use as a taxi-car under the Taxi-cars (Co-ordination and Control) Act 1963, or” and substituting the following —
+(a) in section 2, in the definition of omnibus by deleting “a vehicle licensed for use as a taxi-car under the Taxi-cars (Co-ordination and Control) Act 1963, or” and substituting the following —
 “
 a vehicle operating as a taxi using taxi plates issued under the Taxi Act 1994 or licensed as a taxi-car under;
 ”.
-”.
-Footnote no longer applicable.
+The Australian Airlines Act 1945 (Cwlth. Act No. 31 of 1945) was repealed by the Qantas Sales Act 1992 (Cwlth. Act No. 196 of 1992).
 Repealed by the Interpretation Act 1984.
 The amendment in the Labour Relations Reform Act 2002 s. 27 is not included because the section it sought to amend had been replaced before the amendment purported to come into operation.
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 50 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 Now called the Transport Co-ordination Act 1966; short title changed (see note under s. 1).
 The Third Schedule was inserted by the Metric Conversion Act Amendment Act (No. 2) 1973.
 The Transport Co-ordination Amendment Act 2000 s. 14 reads as follows:
-“
 14.Validation
 For the avoidance of doubt, any thing done by the Minister before the coming into operation of section 7 that the Minister would have been empowered to do if section 18C of the principal Act as amended by that section had then been in force is declared to be, and to have always been, valid.
-”.
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 Pt. 12 reads as follows:
-“
 Part 12 — Transitional matters
 66.Transport Co-ordination Ministerial Body
 (1) In relation to the functions that the former body corporate had for the purposes of the Transport Co-ordination Act 1966 before section 39 of this Act came into operation, the Transport Co-ordination Ministerial Body established by section 6 of that Act as inserted by section 39 of this Act is a continuation of, and the same legal person as, the former body corporate.
@@ -143,8 +140,63 @@ transitional matter means a matter that needs to be dealt with for the purpose o
 (4) To the extent that a regulation including a provision described in subsection (1) may have effect before the day of its publication in the Gazette, it does not —
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State), the rights of that person existing before the day of its publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of its publication.
-”.
 The Public Transport Authority Act 2003 Pt. 7 Div. 1, 5, and 6 deal with transitional matters to do with the transfer to the Public Transport Authority of metropolitan passenger transport functions that the Transport Coordination Ministerial Body previously had under the Transport Co-ordination Act 1966 Pt. II Div. 4.
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 121(3) is not included because the section it sought to amend had been replaced by Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 47 before the amendment purported to come into operation.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 50 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+The amendment in the Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 was deleted by the Acts Amendment (Financial Administration and Audit) Act 1986 s. 3(a) before the amendment purported to come into operation.
+The amendment in the Bulk Handling Repeal Act 2000 s. 16 is not included because the Act was repealed by the Statute Law Revision Act 2006 s. 3(1) before the amendment purported to come into operation.
+The amendment in the Labour Relations Reform Act 2002 s. 27 is not included because the section it sought to amend had been replaced by the Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 42 before the amendment purported to come into operation.
+The Statutes (Repeals and Minor Amendments) Act 2003 s. 121(3) is not included because the section it sought to amend had been replaced by the Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 47 before the amendment purported to come into operation.
+The amendment in the Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 50 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13) before the amendment purported to come into operation.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+appointed day42C(6)
+authorised person42A, 58A(1), 58B(3)
+body7A(1)
+carrying of passengers for reward47Z(3)
+commercial goods vehicle4(1)
+control area47Z(1)
+Department4(1)
+Director General4(1)
+district47Z(1)
+employing authority8(2)
+facilities15C(4)
+ferry4(1)
+farmFirst Sch. it. 1
+goods4(1)
+gross weight4(1)
+licence4(1), 57(7)
+local government27(5)
+manage15C(4)
+master47A(1)
+Ministerial Body4(1)
+motor vehicle58B(3)
+officer4(1)
+omnibus4(1)
+operate4(1), 47Z(1)
+owner4(1), 47Z(1) and (5), 58B(3)
+permit4(1)
+port47A(1)
+prime contractor42A
+provide15C(4)
+public authority8(2)
+public vehicle4(1)
+railway4(1)
+railway stationFirst Sch.
+road4(1)
+Schedule4(1)
+section4(1)
+service42A
+services42A
+ship47A(1)
+specified47ZF(3)
+sub-contractor42A
+subsection47Z(1)
+taxi-car47Z(1)
+taxi-stand47Z(1)
+this Part47Z(2)
+to license4(1)
+transport service4(1)
+vehicle4(1)
+By Authority: JOHN A. STRIJK, Government Printer
