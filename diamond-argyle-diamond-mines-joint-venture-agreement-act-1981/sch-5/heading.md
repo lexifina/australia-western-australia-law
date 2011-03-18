@@ -1,6 +1,6 @@
 ## Schedule 5 — Third supplementary agreement
 [s. 2]
-[Heading inserted by No. 37 of 2008 s. 6.]
+[Heading inserted: No. 37 of 2008 s. 6.]
 2008
 THE HONOURABLE ALAN JOHN CARPENTER
 PREMIER OF THE STATE OF WESTERN AUSTRALIA
@@ -34,9 +34,9 @@ THE PARTIES AGREE AS FOLLOWS:
 4.The Principal Agreement is hereby varied as follows:
 (1)in clause 1:
 (a)by inserting the following new definitions in their appropriate alphabetical positions:
-primary cleaning and sizing means the removal of all non-diamond material from the surface of rough diamonds by chemical means and their classification after such cleaning into size categories as required by subclause (1) of Clause 30;
-RTDL means Rio Tinto Diamonds Limited (Company No. 05266164) a company incorporated in the United Kingdom and having, at the date of the variation agreement made on or about 22 May 2008 between the State, the Joint Venturers and RTDL, its registered office at 2 Eastbourne Terrace, London, England and in which term shall be included its successors and permitted assigns;
-variation date means the date on which the Bill to ratify the variation agreement made on or about 22 May 2008 between the State, the Joint Venturers and RTDL comes into operation as an Act;
+“primary cleaning and sizing” means the removal of all non-diamond material from the surface of rough diamonds by chemical means and their classification after such cleaning into size categories as required by subclause (1) of Clause 30;
+“RTDL” means Rio Tinto Diamonds Limited (Company No. 05266164) a company incorporated in the United Kingdom and having, at the date of the variation agreement made on or about 22 May 2008 between the State, the Joint Venturers and RTDL, its registered office at 2 Eastbourne Terrace, London, England and in which term shall be included its successors and permitted assigns;
+“variation date” means the date on which the Bill to ratify the variation agreement made on or about 22 May 2008 between the State, the Joint Venturers and RTDL comes into operation as an Act;
 (b)by deleting “parties hereto” in the definition of “Argyle mining area” and substituting “State and the Joint Venturers”;
 (c)by deleting “parties” in the definition of “private road” and substituting “State and the Joint Venturers”; and
 (d)in the definition of “sorting”:
@@ -251,17 +251,17 @@ The Bank’s obligations under this Undertaking shall continue in force until th
 ·written notification being received by the Bank from the State that the Undertaking is no longer required;
 ·the Undertaking being returned to the Bank by the State; and
 ·the aggregate of all payments made by the Bank to the State under this Undertaking equalling the Amount.
-Dated at ……………………., this ……………………………...
-Signed as a deed for and on behalf of .....………………………..
-...…………………………………………………………………
+Dated at ................................., this ...................................................
+Signed as a deed for and on behalf of ...............................................
+............................................................................................................
 Print name of the Bank
-by its duly appointed attorney pursuant to a power of attorney dated .............................…………………………………………
-…………………………………………………………………...
+by its duly appointed attorney pursuant to a power of attorney dated ............................................................................................................
+............................................................................................................
 SignatureSignature
 Name:Name:
 Title:Title:
 In the presence of:
-……………………………………………
+....................................................................
 Signature
 Name:”
 EXECUTED as a deed.
@@ -291,4 +291,4 @@ in the presence of:)
 [Signature][Signature]
 ________________________________________________
 WitnessAttorney Name: CATHRYN WELLSName: SHANE SULLIVAN
-[Schedule 5 inserted by No. 37 of 2008 s. 6.]
+[Schedule 5 inserted: No. 37 of 2008 s. 6.]
