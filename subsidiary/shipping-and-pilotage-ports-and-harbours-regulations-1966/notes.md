@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Shipping and Pilotage (Ports and Harbours) Regulations 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 18 March 2011 of the Shipping and Pilotage (Ports and Harbours) Regulations 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Ports and Harbours Regulations | 3 Feb 1966 p. 277-92 | 3 Feb 1966
@@ -82,19 +82,21 @@ Ports and Harbours Amendment Regulations 2010 | 4 Jun 2010 p. 2417-67 | r. 1 and
 Shipping and Pilotage (Ports and Harbours) Amendment Regulations (No. 3) 2010 | 30 Jun 2010 p. 3167-70 | r. 1 and 2: 30 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b)(i))
 Shipping and Pilotage (Ports and Harbours) Amendment Regulations 2010 | 30 Jun 2010 p. 3171-3 | r. 1 and 2: 30 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Shipping and Pilotage (Ports and Harbours) Amendment Regulations (No. 4) 2010 | 29 Oct 2010 p. 5331-2 | r. 1 and 2: 29 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Oct 2010 (see r. 2(b))
+Reprint 4: The Shipping and Pilotage (Ports and Harbours) Regulations 1966 as at 18 Mar 2011 (includes amendments listed above)
+Repealed by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. That Act was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 Citation was initially the Ports and Harbours Regulations and was subsequently changed to the Ports and Harbours Regulations 1966 and then to the Shipping and Pilotage (Ports and Harbours) Regulations 1966 (see note under r. 1).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-amending Act52
+amending Act52(1)
 approved4
 certificate4
 certificate of health4
 coasting vessel4
-commencement day52
+commencement day52(1)
 commercial vessel18(2a)
 exempt master4
-existing port52
+existing port52(1)
 gross registered tonnage4
 inflammable liquid30
 International Tonnage Certificate (1969)4

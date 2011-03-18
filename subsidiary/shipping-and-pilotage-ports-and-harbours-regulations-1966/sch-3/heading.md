@@ -36,7 +36,7 @@ Exceeding 30 000 | $12 503.45
  | (a)Storeships, for each period of 12 months ending on 31 December, in any year | $13.64
  | (b)Other pearl fishing vessels, for each period of 6 months ending on 30 June and 31 December respectively, in any year | $6.37
 3. | Conservancy dues payable in respect of the use by a fishing vessel of —
- | ·the Emu Point Fishing Boat Harbour, Albany; ·the Fishing Boat Harbour, Carnarvon; ·the Bandy Creek Small Boat Harbour, Esperance; ·the Fishing Boat Harbour, Fremantle; ·the Inner Harbour, Geraldton; or ·the Fishing Boat Harbour, Port Denison,
+ | ·the Emu Point Fishing Boat Harbour, Albany; or ·the Fishing Boat Harbour, Carnarvon; or ·the Bandy Creek Small Boat Harbour, Esperance; or ·the Fishing Boat Harbour, Fremantle; or ·the Inner Harbour, Geraldton; or ·the Fishing Boat Harbour, Port Denison,
  | for a period of 12 months ending on 30 June, where the length of the vessel exclusive of the bowsprit —
  | (a)does not exceed 6 m | $108.00
  | (b)exceeds 6 m but does not exceed 10 m | $141.40
