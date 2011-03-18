@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Rottnest Island Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 18 March 2011 of the Rottnest Island Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Rottnest Island Regulations 1988 | 30 May 1988 p. 1825-46 | 30 May 1988 (see r. 2 and Gazette 30 May 1998 p. 1823)
@@ -29,11 +29,11 @@ Rottnest Island Amendment Regulations (No. 2) 2009 | 4 Dec 2009 p. 4920-6 | r. 1
 Rottnest Island Amendment Regulations (No. 3) 2009 | 8 Dec 2009 p. 5002-9 | r. 1 and 2: 8 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Dec 2009 (see r. 2(b))
 Rottnest Island Amendment Regulations (No. 2) 2010 | 31 Aug 2010 p. 4189-91 | r. 1 and 2: 31 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2010 (see r. 2(b)(ii))
 Rottnest Island Amendment Regulations 2010 | 15 Oct 2010 p. 5176-7 | r. 1 and 2: 15 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Oct 2010 (see r. 2(b))
-Rottnest Island Amendment Regulations (No. 3) 2010 | 17 Dec 2010 p. 6259-62 | r. 1 and 2: 17 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2010 (see r. 2(b))
+Rottnest Island Amendment Regulations (No. 3) 2010 | 17 Dec 2010 p. 6359-62 | r. 1 and 2: 17 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2010 (see r. 2(b))
 Rottnest Island Amendment Regulations 2011 | 4 Mar 2011 p. 701 | r. 1 and 2: 4 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Mar 2011 (see r. 2(b))
+Reprint 4: The Rottnest Island Regulations 1988 as at 18 Mar 2011 (includes amendments listed above)
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Fish Resources Management Act 1994 s. 265.
-Repealed by the Liquor Control Act 1988.
 Regulations 5, 7 and 18 disallowed on 28 May 1991, see Gazette 31 May 1991 p. 2710-11.
 The Rottnest Island Amendment Regulations 1997 r. 5(2) is a transitional provision that is of no further effect.
 The Rottnest Island Amendment Regulations 2003 r. 4(3) is a transitional provision that is of no further effect.
@@ -43,8 +43,8 @@ Defined TermProvision(s)
 accommodation8(7), 10(2)
 additional vessel19
 adequate insurance cover3
+aerodrome63
 aircraft63, 66(2)
-alcoholic liquor72(2)
 anchor3
 annual admission payment3
 approved3
@@ -77,18 +77,20 @@ licensed vessel19
 liquid waste38C(1)
 liquor3
 litter60B(2)
+loss18(1)
 mooring3
 mooring area3
 mooring inspection report19
 mooring site3
 mooring site licence3
 mooring site licensee3
-nominated vessel31B
+nominated vessel31B(2), 31C(3)(a)
 other road users48(2)
 overall length3
 owner3
 permanent resident3
 permitted area37(2)(b)
+previous licensee30(4)
 register3
 registered owner35C
 rental licence3
@@ -102,9 +104,6 @@ structure52(5)
 suitable vessel19
 sullage38C(1)
 take39(2)(b)
-the aerodrome63
-the loss18(1)
-the previous licensee30(4)
 unlawfully70(2)
 use3
 vehicle3, 46(2)
