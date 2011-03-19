@@ -76,9 +76,9 @@ Reprint 6: The Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 as 
 Water Agencies Amendment By-laws 2009 Pt. 6 | 19 Jun 2009 p. 2393-406 | bl. 1 and 2: 19 Jun 2009 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2009 (see bl. 2(b))
 Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws (No. 2) 2010 | 25 Jun 2010 p. 2883 | bl. 1 and 2: 25 Jun 2010 (see bl. 2(a)); By-laws other than bl. 1 and 2: 26 Jun 2010 (see bl. 2(b))
 Water Agencies Amendment By-laws 2010 Pt. 6 | 25 Jun 2010 p. 2983-96 | 1 Jul 2010 (see bl. 2(b))
+Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2011 | 18 Mar 2011 p. 927-8 | bl. 1 and 2: 18 Mar 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 19 Mar 2011 (see bl. 2(b)(i))
 These by-laws have effect for the purposes of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 The Water Resources Legislation Amendment Act 2007 s. 223 reads as follows:
-“
 223.Agreements and instruments generally
 (1) Any agreement or instrument (including subsidiary legislation) in force immediately before the transfer time —
 (a) to which a former body was a party; or
@@ -87,12 +87,11 @@ has effect after the transfer time, to the extent to which the agreement or inst
 (c) the relevant successor were substituted for the former body as a party to the agreement or instrument; and
 (d) any reference in the agreement or instrument to the former body were (unless the context otherwise requires) amended to be or include a reference to the relevant successor.
 (2) This section does not apply to any agreement or instrument covered by another provision of this Part.
-”.
 See Bush Fires Act 1954.
 Under the Conservation and Land Management Act 1984 s. 151(a), a reference in any law to the former Forests Department shall be read as a reference to the Department of Conservation and Land Management.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management was called the Department of Environment and Conservation.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Public Health Department is to be read and construed as a reference to the Department of Health.
-Formerly referred to the Pesticides Regulations the citation of which was changed to the Health (Pesticides) Regulations 1956 by the Pesticides Amendment Regulations 1986 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Footnote no longer applicable.
 Repealed by the Dangerous Goods Safety Act 2004.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines was to be read and construed as a reference to the Department of Industry and Resources.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Industry and Resources was called the Department of Mines and Petroleum.
@@ -104,15 +103,11 @@ See Strata Titles Act 1985.
 These by-laws contain an application provision concerning fees and charges for a period commencing before, or for a matter or thing done before, the by-laws came into operation.
 The Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws (No. 2) 1989 contains a savings and transitional provision (bl. 11) that is of no further effect.
 The Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws (No. 2) 2007 bl. 4 reads as follows:
-“
 4.Transitional provision
 By-law 28.1 of the Metropolitan Water Supply, Sewerage and Drainage By-laws 1981, as amended by these by-laws, applies, after the commencement of these by-laws, in relation to a permit to discharge industrial waste, whether the permit is granted before, on or after that commencement.
-”.
 The Water Agencies Amendment By-laws 2008 bl. 3 reads as follows:
-“
 3.Application
 Nothing in these by-laws affects the application after 1 July 2008 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
