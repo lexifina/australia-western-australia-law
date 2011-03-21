@@ -48,7 +48,7 @@ Note: ATTACHMENT 1 — SUMMARY OF MINERAL-EXPLORATION AND/OR MINING ACTIVITIES |
 Page 3
 INSTRUCTIONS FOR THE COMPLETION OF FORM 5
 1.The Form 5 “Operations Report” and mineral exploration report are required to be lodged annually for each mining tenement within sixty (60) days from the anniversary or surrender date of the mining tenement (or such further period as may be approved by the Minister prior to the expiry of that period).
-These reports should be lodged with the Department at Perth.
+These reports should be lodged at any mining registrar’s office.
 N.B. A mineral exploration report is not required if the general prospecting activities detailed in Attachment 2 are the only activities carried out.
 2.The Form 5 and attachments must show expenditure incurred on the activities undertaken during the annual period of the mining tenement or the period up to surrender and may be varied according to the type of activities undertaken —
 (a)for mineral-exploration and/or mining activities (see 3 below); and/or
@@ -97,7 +97,7 @@ MINERAL EXPLORATION REPORTS
 COPYRIGHT
 9.Each mineral-exploration report must show that written authorisation has been provided by the tenement holder(s), or any other person who is the owner of copyright for any data contained in the report, to allow the Minister to release all information in the report in accordance with regulation 96.
 EXEMPTION FROM EXPENDITURE CONDITIONS
-10.A tenement holder or an authorised agent can apply for an exemption from expenditure on a mining tenement in accordance with section 102 of the Act. Such application should be lodged with the Mining Registrar.
+10.A tenement holder or an authorised agent can apply for an exemption from expenditure on a mining tenement in accordance with section 102 of the Act. Such application should be lodged at any mining registrar’s office.
 ATTACHMENT 1
 SUMMARY OF MINERAL EXPLORATION AND/OR MINING ACTIVITIES
 (Complete in accordance with instructions on pages 3 and 4.)
@@ -143,4 +143,4 @@ Administration/Overheads/Native Title: | SUBTOTAL (E) | $
 (not to exceed 20% of the minimum expenditure commitment or total expenditure on the activities shown at subheadings (A) & (B), whichever is greater)
 TOTAL EXPENDITURE (add SUBTOTALS A to E) | $
 A copy of this page can be obtained by any person on the payment of the prescribed fee in accordance with regulation 96(3).
-[Form 5 inserted in Gazette 11 Jun 1999 p. 2546-51; amended in Gazette 15 Jan 2010 p. 120-1.]
+[Form 5 inserted in Gazette 11 Jun 1999 p. 2546-51; amended in Gazette 15 Jan 2010 p. 120-1; 18 Mar 2011 p. 924-5.]

@@ -113,6 +113,11 @@ Reprint 8: The Mining Regulations 1981 as at 14 May 2010 (includes amendments li
 Mining Amendment Regulations (No. 2) 2010 | 11 Jun 2010 p. 2633-5 | r. 1 and 2: 11 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Mining Amendment Regulations 2011 | 4 Feb 2011 p. 392-5 | r. 1 and 2: 4 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Feb 2011 (see r. 2(b))
 Mining Amendment Regulations (No. 2) 2011 | 1 Mar 2011 p. 684-5 | r. 1 and 2: 1 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Mar 2011 (see r. 2(b))
+Mining Amendment Regulations (No. 3) 2011 | 18 Mar 2011 p. 911-25 | r. 1 and 2: 18 Mar 2011 (see r. 2(a)); Regulations other than r. 1, 2 and 28: 21 Mar 2011 (see r. 2(c) and Gazette 18 Mar 2011 p. 909)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Mining Amendment Regulations (No. 3) 2011 r. 28 | 18 Mar 2011 p. 911-25 | 1 Jul 2011 (see r. 2(b) and Gazette 18 Mar 2011 p. 909)
 The Mining Amendment Act 1990 was operative 28 June 1991.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -129,6 +134,14 @@ The Mining Amendment Regulations (No. 2) 2006 r. 10(7) and (8) read as follows:
 (8) In subregulation (7) —
 commencement day means the day on which these regulations come into operation;
 existing licence means an exploration licence in force under the Act on the day on which these regulations come into operation.
+On the date as at which this compilation was prepared, the Mining Amendment Regulations (No. 3) 2011 r. 28 had not come into operation. It reads as follows:
+28.Regulation 33A inserted
+At the end of Part IV Division 3 insert:
+33A.Act s. 84AA, prescribed matters for
+(1) For the purposes of section 84AA(1)(c), (2)(b) and (3) the prescribed officials are —
+(a) Director, Environment Division in the Department;
+(b) Manager Minerals, Environment Division in the Department.
+(2) For the purposes of section 84AA(3) the prescribed time is 30 days after the day on which the applicable review period under section 84AA(1) or (2) expires.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

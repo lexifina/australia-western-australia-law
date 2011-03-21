@@ -9,7 +9,7 @@ AND it is hereby agreed and declared that unless the Lessee shall at all times d
 2. use the land in respect of which this lease is granted only for mining purposes in accordance with the Mining Act 1978
 3. comply with the prescribed expenditure conditions applicable to such land unless partial or total exemption therefrom is granted in such manner as is prescribed
 4. not transfer or mortgage a legal interest in such land or any part thereof without the prior written consent of the Minister, or of an officer of the Department acting with the authority of the Minister
-5. lodge with the Department at Perth such periodical reports and returns as may be prescribed
+5. lodge at any mining registrar’s office such periodical reports and returns as may be prescribed
 6. promptly report in writing to the Minister details of all minerals of economic significance discovered in, on or under the land the subject of this lease
 7. duly and punctually observe and perform all other provisions of the Mining Act 1978 and of any other Act for the time being in force applicable or relating to the Lessee or this lease or the land the subject of this lease
 8. if any mineral is specified in the Fifth Schedule to this lease, be authorised by this lease to mine on or under or both and remove from the land the subject of this lease only the mineral so specified
@@ -40,4 +40,4 @@ IN witness whereof the Minister has affixed his seal
 and set his hand hereto
 this ......................... day of ......................20...............
 MINISTER
-[Form 8 amended in Gazette 2 Oct 1987 p. 3828; 3 Feb 2006 p. 524 and 602; 15 Jan 2010 p. 121.]
+[Form 8 amended in Gazette 2 Oct 1987 p. 3828; 3 Feb 2006 p. 524 and 602; 15 Jan 2010 p. 121; 18 Mar 2011 p. 925.]

@@ -18,7 +18,7 @@ For all Licences see Note 3.) | (j)
  | (k)
 (l)Signature of applicant or | (l) ................................................................... DATE ..........................................................
 agent
-O F F | OBJECTIONS to this application may be lodged at the office of the mining registrar at .................................................. on or before the .......................................... day of ......................................................... 20 ................... (see Note 4) Where an objection to this application is lodged the hearing will take place on a date to be set.
+O F F | OBJECTIONS to this application may be lodged at any mining registrar’s office at .................................................. on or before the .......................................... day of ......................................................... 20 ................... (see Note 4) Where an objection to this application is lodged the hearing will take place on a date to be set.
 I |  | FEES PAID | $ | c | Receipt No:
 C |  | Application |  |  | SHIRE:
 E |  | Rent
@@ -99,5 +99,5 @@ q | r | s | t | u | q | r | s | t | u | q | r | s | t | u | q | r | s | t | u | 
 v | w | x | y | z | v | w | x | y | z | v | w | x | y | z | v | w | x | y | z | v | w | x | y | z
  |  | + | + | + | + | +
  | 1:1,000,000 PLAN NAME(S)
-[Form 21 inserted in Gazette 24 Jun 1994 p. 2940-2; amended in Gazette 13 Oct 1995 p. 4823; 4 Apr 1997 p. 1780; 15 Jan 2010 p. 124.]
+[Form 21 inserted in Gazette 24 Jun 1994 p. 2940-2; amended in Gazette 13 Oct 1995 p. 4823; 4 Apr 1997 p. 1780; 15 Jan 2010 p. 124; 18 Mar 2011 p. 925.]
 [Form 21A deleted in Gazette 31 May 1991 p. 2705.]
