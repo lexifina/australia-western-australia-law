@@ -70,13 +70,14 @@ Revenue Laws Amendment Act (No. 2) 2008 Pt. 2 Div. 2 | 31 of 2008 | 27 Jun 2008 
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 8 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 7: The Mining Act 1978 as at 3 Jul 2009 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2)
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 6 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
+Approvals and Related Reforms (No. 2) (Mining) Act 2010 Pt. 3 | 12 of 2010 | 3 Jun 2010 | 21 Mar 2011 (see s. 2(b) and Gazette 18 Mar 2011 p. 909)
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Approvals and Related Reforms (No. 2) (Mining) Act 2010 Pt. 2 and 3 | 12 of 2010 | 3 Jun 2010 | To be proclaimed (see s. 2(b))
+Approvals and Related Reforms (No. 2) (Mining) Act 2010 Pt. 2 | 12 of 2010 | 3 Jun 2010 | 1 Jul 2011 (see s. 2(b) and Gazette 18 Mar 2011 p. 909)
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
 The Mining Amendment Act 1981 s. 3 reads as follows:
@@ -349,7 +350,7 @@ Immediately before section 91 the following section is inserted —
 (2)The provisions relating to objections to the granting of an application that apply for the purposes of this Division do not apply to an objection of the kind referred to in section 2.16, 3.15 or 4.11 of the Native Title (State Provisions) Act 1999, and objections of that kind can only be made under that Act.
 ”.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 2) (Mining) Act 2010 Pt. 2 and 3 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 2) (Mining) Act 2010 Pt. 2 had not come into operation. It reads as follows:
 Part 2 — Mine closure plans, and other measures to minimise damage to land, under Mining Act 1978
 3.Act amended
 This Part amends the Mining Act 1978.
@@ -408,158 +409,6 @@ In section 84(1):
 or below
 12.Section 123 amended
 In section 123(4)(b) delete “natural surface of the”.
-Part 3 — Lodgment of documents under Mining Act 1978
-13.Act amended
-This Part amends the Mining Act 1978.
-14.Section 8 amended
-In section 8(1) delete the definition of the office of the mining registrar.
-15.Section 20A amended
-In section 20A(3):
-(a) in paragraph (b) delete “at the office of the mining registrar or the principal office of the Department at Perth; and” and insert:
-in the prescribed manner; and
-(b) after paragraph (a) insert:
-and
-16.Section 41 amended
-In section 41(1):
-(a) in paragraph (e) delete “at the office of the mining registrar;” and insert:
-in the prescribed manner; and
-(b) after each of paragraphs (a), (b) and (c) insert:
-and
-17.Section 42 amended
-In section 42(1) delete “at the office of the mining registrar”.
-18.Section 51 amended
-In section 51 delete “with the Department at Perth”.
-19.Section 52 amended
-(1) In section 52(1) delete “at the office of the mining registrar” and insert:
-in the prescribed manner and
-(2) In section 52(1a) delete “lodge at the office of the mining registrar or the Department at Perth,” and insert:
-lodge, in the prescribed manner and
-20.Section 56A amended
-In section 56A(5a) delete “period, lodge at the office of the mining registrar” and insert:
-period and in the prescribed manner, lodge
-21.Section 58 amended
-(1) In section 58(1):
-(a) in paragraph (d) delete “at the office of the mining registrar; and” and insert:
-in the prescribed manner; and
-(b) after each of paragraphs (a), (b) and (c) insert:
-and
-(c) in paragraph (b) after each of subparagraphs (i) and (ii) insert:
-and
-(2) Delete section 58(1a).
-22.Section 59 amended
-In section 59(1) delete “at the office of the mining registrar”.
-23.Section 60 amended
-(1) In section 60(1) delete “lodge at the office of the mining registrar” and insert:
-lodge, in the prescribed manner and
-(2) In section 60(1a) delete “lodge at the office of the mining registrar or the Department at Perth,” and insert:
-lodge, in the prescribed manner and
-24.Section 67A amended
-In section 67A(6a)(c) delete “at the office of the mining registrar.” and insert:
-in the prescribed manner.
-25.Section 68 amended
-In section 68(3) delete “with the Department at Perth”.
-26.Section 70 amended
-In section 70(5a) delete “period, lodge at the office of the mining registrar” and insert:
-period and in the prescribed manner, lodge
-27.Section 70C amended
-(1) In section 70C(1):
-(a) in paragraph (d) delete “at the office of the mining registrar;” and insert:
-in the prescribed manner; and
-(b) in paragraph (e)(ii) delete “work; and” and insert:
-work.
-(c) delete paragraph (f);
-(d) after each of paragraphs (a), (b) and (c) insert:
-and
-(2) After section 70C(1) insert:
-(2A) An applicant is to lodge within the prescribed time and in the prescribed manner a statutory declaration made by the applicant to the effect that —
-(a) there is an identified mineral resource in the area in respect of which the licence is sought; and
-(b) mining of that identified mineral resource is for the time being impracticable for one or more of the reasons referred to in subsection (2) (that reason or those reasons being set out in the statutory declaration).
-(3) In section 70C(2) delete “(1)(f)(ii)” and insert:
-(2A)(b)
-28.Section 70D amended
-In section 70D(1) delete “at the office of the mining registrar”.
-29.Section 70F amended
-(1) In section 70F(1) delete “lodge at the office of the mining registrar,” and insert:
-lodge, in the prescribed manner and
-(2) In section 70F(2) delete “lodge at the office of the mining registrar or the Department at Perth,” and insert:
-lodge, in the prescribed manner and
-30.Section 70H amended
-In section 70H(1)(f) delete “lodge with the Department at Perth” and insert:
-lodge, in the prescribed manner,
-31.Section 74 amended
-(1) In section 74(1):
-(a) in paragraph (d) delete “at the office of the mining registrar.” and insert:
-in the prescribed manner.
-(b) after each of paragraphs (a), (b) and (c) insert:
-and
-(2) After section 74(1) insert:
-(1AA) Instead of accompanying an application for a mining lease under subsection (1)(ca), a mining proposal may be lodged within the prescribed time and in the prescribed manner and, if so lodged, is to be treated for the purposes of this Division as a mining proposal that accompanied the application for the mining lease under section 74(1)(ca).
-32.Section 75 amended
-In section 75(1) delete “at the office of the mining registrar”.
-33.Section 82 amended
-In section 82(1)(e) delete “lodge with the Department at Perth” and insert:
-lodge, in the prescribed manner,
-34.Section 84A amended
-(1) In section 84A(1) delete “lodge at the office of the mining registrar,” and insert:
-lodge, in the prescribed manner and
-(2) In section 84A(2) delete “lodge at the office of the mining registrar or the Department at Perth,” and insert:
-lodge, in the prescribed manner and
-35.Section 97A amended
-(1) In section 97A(3):
-(a) in paragraph (b) delete “at the office of the mining registrar; and” and insert:
-in the prescribed manner; and
-(b) after paragraph (a) insert:
-and
-(2) In section 97A(6) delete “at the office of the mining registrar”.
-36.Section 105A amended
-(1) In section 105A(3):
-(a) delete “same time,” and insert:
-same time or within a prescribed period,
-(b) delete “at the office of the mining registrar” and insert:
-in the prescribed manner and
-(2) In section 105A(4)(a) delete “at the office of the mining registrar;” and insert:
-in the prescribed manner;
-(3) In section 105A(4)(b):
-(a) in subparagraph (ia) delete “at the office of the mining registrar;” and insert:
-in the prescribed manner;
-(b) in subparagraph (ii) delete “at the office of the mining registrar;” and insert:
-in the prescribed manner;
-37.Section 115A amended
-In section 115A(3) delete “with the Department at Perth” and insert:
-in the prescribed manner
-38.Section 115B amended
-In section 115B(2) delete “with the Department at Perth” and insert:
-in the prescribed manner and
-39.Section 122A amended
-(1) In section 122A(1) delete “lodge at the Department at Perth or at the office of the mining registrar —” and insert:
-lodge —
-(2) In section 122A(2) delete “at the Department at Perth or at the office of the mining registrar”.
-(3) In section 122A(3):
-(a) after paragraph (a) insert:
-(ba) be lodged in the prescribed manner; and
-(b) after each of paragraphs (a), (b) and (c) insert:
-and
-40.Section 123 amended
-In section 123(3)(a) delete “lodged at the office of the mining registrar and”.
-41.Section 136 amended
-After section 136(2) insert:
-(3) The rules of court may provide for documents to be lodged with or issued by a warden’s court, or served, in an electronic form.
-42.Section 162 amended
-(1) After section 162(2)(d) insert:
-(ea) provide for matters relating to the lodgment, in electronic form, of mining tenement documents;
-(eb) provide for the time at which a mining tenement document is to be taken to have been lodged;
-(2) In section 162(2)(ka)(v) delete “surveys with the Department;” and insert:
-surveys;
-(3) After section 162(2)(rb) insert:
-(rca) provide for documents for use in Part IV proceedings to be lodged with or issued by the warden, or served, in electronic form;
-(4) After section 162(2a) insert:
-(3A) In subsection (2) —
-mining tenement document means —
-(a)an application for a mining tenement; or
-(b)an agreement, claim, notice of objection, security, or any other document, in respect of a mining tenement.
-43.Second Schedule clause 13 amended
-In the Second Schedule clause 13 delete “registrar.” and insert:
-registrar of the mineral field or district in which the largest portion of the land to which the application relates is situated.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
