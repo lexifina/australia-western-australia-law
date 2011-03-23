@@ -55,6 +55,7 @@ Condenser | Joint size B19 or greater
 Splash heads and distillation heads
 Description | Details
 Heating mantles | Capacity 500 ml or greater (including the repair or supply of parts)
-Pill presses | Manual or mechanical
+Encapsulators (Capsule filling machines) | Manual or mechanical
+Pill presses (including a part for a pill press) | Manual or mechanical
 Rotary evaporators
-[Division 2 inserted in Gazette 10 Dec 2004 p. 5979.]
+[Division 2 inserted in Gazette 10 Dec 2004 p. 5979; amended in Gazette 22 Mar 2011 p. 972.]
