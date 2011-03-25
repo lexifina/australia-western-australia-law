@@ -1,6 +1,6 @@
 ## Schedule 5
 [Regulation 151]
-## Miscellaneous Fees
+## Miscellaneous fees
 Column 1 | Column 2
  | $
 1.Registration as a timber worker | 25.00
@@ -10,5 +10,4 @@ Column 1 | Column 2
  | per page
 5.Preparation of timber shipping certificate | 10.00
 6.Transfer of a lease or permit | 30.00
-[7-11deleted]
 [Schedule 5 amended in Gazette 21 Apr 1998 p. 2113-14; 3 Sep 2010 p. 4276.]

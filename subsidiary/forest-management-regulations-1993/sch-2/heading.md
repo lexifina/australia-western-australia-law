@@ -4,12 +4,12 @@ Form 1
 [Regulation 69]
 Forest Management Regulations 1993
 FOREST PRODUCE LICENCE
-Licence No. . . . . . . . . . . . . . .
+Licence No. …………………….
 ……………………………………………………………………………………
 (name of licensee)
 of …………………………………………………………………………………
 (address)
-is authorized, subject to the Act and the Forest Management Regulations 1993, to take forest produce from Crown land in accordance with the terms, conditions and limitations set out below, and not otherwise.
+is authorised, subject to the Act and the Forest Management Regulations 1993, to take forest produce from Crown land in accordance with the terms, conditions and limitations set out below, and not otherwise.
 Note:The authority conferred by this licence is of no effect at any time when a term, condition or limitation of the licence is not being complied with.
 TERMS
 Land from which forest produce may be taken:
@@ -30,7 +30,7 @@ MC |  | Craftwood FW |  | Firewood
 MG |  | Garden sticks MD |  | Forest debris
 OT |  | Other ............................................(specify)
 (Refer to Manual of Logging Specifications or Schedule or Royalties for product type guide)
-Note: This licence does not authorize the felling of any tree (Reg. 71(1)(a)).
+Note: This licence does not authorise the felling of any tree (Reg. 71(1)(a)).
 Quantity:
 ............................................................................................................. tonnes; or ......................................................................... specify other unit of measurement (Refer to Manual of Logging Specifications for quantity determination guide)
 Price to be paid:
@@ -46,17 +46,16 @@ CONDITIONS
 2.Where any forest produce is taken under this licence, the licensee shall, as soon as practicable after the taking of the produce, complete the forest produce removal record at the end of this form in respect of that produce.
 3.[insert other conditions here]
 LIMITATIONS (if any)
-. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+...................................................
 for CEO
-Date of issue of licence . . . . . . . . . . . . . . . . . . . . . .
+Date of issue of licence .........................................
 Received the sum of ............. dollars ............... cents ($... c..) in prepayment of royalty/stumpage and other charges.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+....................................................
 for CEO
-Date . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Date ....................................................
 Forest produce removal record
 Date of removal | Quantity removed | Site removed to | Signature of licensee
 [Form 1 amended in Gazette 3 Sep 2010 p. 4276-7.]
 [Form 2 deleted in Gazette 3 Sep 2010 p. 4275.]
-[Forms 3 and 4 deleted]
-[Schedule 2 amended in Gazette 29 Mar 1996 p. 1508-09; 3 May 2002 p. 2295; 3 Sep 2010 p. 4275 and p. 4276-7.]
-[Schedules 2A and 2B Deleted in Gazette 3 May 2002 p.2294-5.]
+[Forms 3 and 4 deleted in Gazette 3 May 2002 p. 2295.]
+[Schedules 2A and 2B deleted in Gazette 3 May 2002 p. 2294-5.]
