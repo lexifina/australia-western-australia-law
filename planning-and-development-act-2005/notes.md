@@ -12,15 +12,14 @@ Acts Amendment (Justice) Act 2008 Pt. 18 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008
 Legal Profession Act 2008 s. 690 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 100 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 8 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
-Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 1, Pt. 4 and Pt. 5 Div. 1 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
+Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 1, Pt. 3, 4 and Pt. 5 Div. 1 | 28 of 2010 | 19 Aug 2010 | Pt. 2 Div. 1, Pt. 4 and Pt. 5 Div. 1: 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709); Pt. 3: 25 Mar 2011 (see s. 2(b) and Gazette 24 Mar 2011 p. 1035)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Reprint 2: The Planning and Development Act 2005 as at 18 Feb 2011 (includes amendments listed above)
+Reprint 2: The Planning and Development Act 2005 as at 18 Feb 2011 (includes amendments listed above, except those in the Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 3)
 Heritage and Planning Legislation Amendment Act 2011 Pt. 3 | 4 of 2011 | 2 Mar 2011 | 3 Mar 2011 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
-Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 3 | 28 of 2010 | 19 Aug 2010 | To be proclaimed (see s. 2(b))
 Repealed by the Land Administration Act 1997.
 Repealed by the Water Resources Legislation Amendment Act 2007.
 Repealed by the Mining Act 1978.
@@ -170,113 +169,8 @@ Part 4 — Validation provision
 Any approval of the Commission endorsed on a diagram or plan of survey of a stage of a subdivision under the Town Planning and Development Act 1928 before the coming into operation of this section is taken to be, and always to have been, as valid and effective as it would have been if section 145 of the Planning and Development Act 2005 had been in operation at the time of the endorsement and the approval had been endorsed under that section.
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
 Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
-The Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 76(4) reads as follows:
+The Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 56(4) reads as follows:
 (4) The Minister must, as soon as is practicable after an order is given to the local government under subsection (1), cause a copy of the order to be laid before each House of Parliament or dealt with under section 268A.
-On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Development Assessment Panels: Planning and Development Act 2005
-40.Act amended
-This Part amends the Planning and Development Act 2005.
-41.Section 4 amended
-(1) In section 4(1) insert in alphabetical order:
-Development Assessment Panel or DAP means a JDAP or LDAP;
-JDAP means a Joint Development Assessment Panel established under section 171C;
-LDAP means a Local Development Assessment Panel established under section 171C;
-(2) In section 4(1) in the definition of responsible authority delete “responsible authority means —” and insert:
-responsible authority, except as provided in regulations made under section 171A(2)(a), means —
-42.Section 16 amended
-After section 16(9) insert:
-(10) This section does not affect the operation of section 171B.
-43.Part 11A inserted
-After section 170 insert:
-Part 11A — Development Assessment Panels and development control
-Division 1 — Functions of DAPs
-171A.Prescribed development applications to be determined by DAP
-(1) In this section —
-planning instrument means —
-(a)a planning scheme; or
-(b)an interim development order;
-prescribed development application means —
-(a) a development application of a class or kind prescribed for the purposes of subsection (2)(a); or
-(b) a development application of a class or kind prescribed for the purposes of subsection (2)(ba) in respect of which an applicant has made an election in accordance with regulations made under subsection (2)(ba)(i);
-(2) The Governor may make regulations —
-(a) providing that, despite any other provision of this Act or a planning instrument, a development application of a class or kind prescribed for the purposes of this paragraph —
-(i) must be determined by a DAP as if the DAP were the responsible authority under the relevant planning instrument in relation to the development; and
-(ii) cannot be determined by a local government or the Commission;
-(ba) providing that, despite any other provision of this Act or a planning instrument, if —
-(i) an applicant for approval of development elects in accordance with the prescribed procedure to have a development application determined by a DAP; and
-(ii) the development application is of a class or kind prescribed by the regulations for the purposes of this paragraph,
-the development application —
-(iii) must be determined by a DAP as if the DAP were the responsible authority under the relevant planning instrument in relation to the development; and
-(iv) cannot be determined by a local government or the Commission;
-(b) providing for the duties and responsibilities of local governments and the Commission in relation to prescribed development applications;
-(c) providing for the procedures for dealing with prescribed development applications;
-(d) providing for the application of the provisions of this Act and planning instruments in relation to prescribed development applications;
-(e) providing for the procedures to be followed by, and powers of, a DAP when determining a prescribed development application;
-(f) providing for the effect of a determination of a prescribed development application;
-(g) providing for the notification of a determination of a prescribed development application;
-(h) providing for the review of a determination of a prescribed development application.
-(3) Unless otherwise provided under regulations made for the purposes of subsection (2) —
-(a) a determination by a DAP of a prescribed development application; and
-(b) a failure by a DAP to make a determination of a prescribed development application,
-is to be regarded as, and has effect as if it were, a determination or failure of the responsible authority to which the application was made.
-171B.DAP to carry out delegated functions
-(1) In addition to the functions conferred on it by regulations made under section 171A, a DAP is to perform the functions that are delegated to it by a responsible authority in accordance with regulations made under subsection (2).
-(2) The Governor may make regulations —
-(a) prescribing the functions under this Act or a planning scheme that may be delegated by a responsible authority to a DAP; and
-(b) making provision in relation to the making and effect of the delegation of functions by a responsible authority to a DAP.
-Division 2 — Development Assessment Panels: establishment and administration
-171C.Establishment of Development Assessment Panels
-(1) The Minister may, by order published in the Gazette, establish —
-(a) a LDAP for a district;
-(b) a JDAP for 2 or more districts.
-(2) The order must give the DAP a name.
-(3) A JDAP cannot be established for a district for which a LDAP is established.
-(4) A LDAP cannot be established for a district for which a JDAP is established.
-(5) If a JDAP is established for 2 or more districts, the districts need not be contiguous.
-(6) The Minister may revoke or amend an order made under subsection (1) by further order published in the Gazette.
-(7) The regulations may prescribe transitional provisions in relation to the revocation or amendment of an order under this section.
-171D.Constitution, procedure and conduct of DAPs
-(1) The Governor may make regulations prescribing all matters that are required or permitted by this Act to be prescribed, or that are necessary or convenient to be prescribed, for the establishment and functioning of DAPs.
-(2) Without limiting subsection (1), regulations may be made about the constitution, procedure and conduct of DAPs, including but not limited to regulations about the following —
-(a) the total number of persons who are to be on a DAP;
-(b) the qualifications to be held by each person on a DAP;
-(c) the procedure to be followed for nominating and appointing DAP members;
-(d) the remuneration and allowances payable to DAP members;
-(e) the term of office of DAP members;
-(f) the removal of DAP members;
-(g) compiling and maintaining a register of persons who are eligible to be DAP members;
-(h) the paid training of persons appointed to be DAP members;
-(i) procedures at DAP meetings;
-(j) the conduct of DAP members.
-(3) The qualifications to be held by a person on a DAP may be specified in the regulations by reference to one or more of these —
-(a) an office or position;
-(b) an educational qualification;
-(c) a type or level of knowledge;
-(d) a type or level of experience.
-171E.Administration and costs of DAPs
-(1) The Governor may make regulations about —
-(a) the administration of DAPs; and
-(b) the payment of the costs and expenses of DAPs.
-(2) Without limiting subsection (1), regulations may be made —
-(a) about the staffing, facilities and services that are to be provided to DAPs by the chief executive officer or by local governments; and
-(b) about the access of the Minister to information in the possession of a DAP; and
-(c) about reporting requirements in relation to —
-(i) directions under the regulations; and
-(ii) expenditure in relation to DAPs; and
-(iii) determinations by DAPs; and
-(iv) any other matter specified in the regulations.
-(3) A local government must comply with a direction given and requirements prescribed under subsection (2).
-171F.Review of regulations
-(1) An appropriate Standing Committee of the Legislative Council is to carry out a review of the operation and effectiveness of all regulations made under this Part as soon as practicable after the expiry of 2 years from the day on which regulations made under this Part first come into operation.
-(2) The Standing Committee is to prepare a report based on the review and, as soon as practicable after the report is prepared, is to cause the report to be laid before each House of Parliament.
-44.Section 266 amended
-(1) In section 266(1) in the definition of member:
-(a) in paragraph (e) delete “local government.” and insert:
-local government;
-(b) after paragraph (e) insert:
-(f)a member of a DAP.
-(2) In section 266(6) delete “Commission.” and insert:
-Commission or any other person.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
