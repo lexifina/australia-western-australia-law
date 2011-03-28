@@ -15,12 +15,11 @@ Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 Pt. 2
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 6 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The School Education Act 1999 as at 16 Mar 2007 (includes amendments listed above (except those in the Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 Pt. 2 Div. 3))
 Training Legislation Amendment and Repeal Act 2008 s. 61 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Public Sector Reform Act 2010 s. 89 and 110 | 39 of 2010 | 1 Oct 2010 | s. 89: 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563) s. 110: 28 Mar 2011 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 s. 182(3) and 208 | 36 of 1999 | 2 Nov 1999 | To be proclaimed (see s. 2)
-Public Sector Reform Act 2010 s. 110 | 39 of 2010 | 1 Oct 2010 | s. 110: 28 Mar 2011 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 Pt. 3 | 1 of 2011 | 1 Mar 2011 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Children and Community Services Act 2004.
@@ -53,20 +52,7 @@ year 11 and year 12 have the meanings given to those terms by section 4 of the p
 as mentioned in section 11B(1) of the principal Act (inserted by section 20), notice under section 11D(1) of the principal Act (as so inserted) must be given no later than 1 February 2006.
 ”.
 The Financial Legislation Amendment and Repeal Act 2006 (now known as the Financial Management (Transitional Provisions) Act 2006) Sch. 2 deals with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 110 had not come into operation. It reads as follows:
-110.School Education Act 1999 amended
-(1) This section amends the School Education Act 1999.
-(2) In section 239(1)(b) delete “that is not the Minister (within the meaning in that Part)”.
-(3) Delete section 239(2) and insert:
-(2) In addition to —
-(a) the actions that may be taken under section 79(3) of the PSMA; and
-(b) any disciplinary action or improvement action that may be taken under section 82A(3)(b) or 88(b) of the PSMA,
-the chief executive officer may under those provisions make a determination under section 238(1)(a) in respect of a member of the teaching staff.
-(4) In section 240(1):
-(a) in paragraph (a) delete “is guilty of an act or omission that comes within” and insert:
-may have committed a breach of discipline as referred to in
-(b) delete paragraph (c)(ii) and “or” after it and insert:
-(ii) in the case of a suspected breach of discipline dealt with under Part 5 of the PSMA — a decision is made under section 81(1)(b), 82A(2) or (3) or 88 of the PSMA; or
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 Pt. 3 had not come into operation. It reads as follows:
 Part 3 — School Education Act 1999 amended
 7.Act amended

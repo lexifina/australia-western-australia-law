@@ -83,12 +83,12 @@ Police Amendment Act 2009 s. 19 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 
 Reprint 13: The Industrial Relations Act 1979 as at 9 Apr 2010 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 29 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Public Sector Reform Act 2010 s. 109 | 39 of 2010 | 1 Oct 2010 | 28 Mar 2011 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
-Public Sector Reform Act 2010 s. 109 | 39 of 2010 | 1 Oct 2010 | 28 Mar 2011 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 Repealed by the Offshore Petroleum (Repeals andConsequential Amendments) Act 2006 s. 3 of the Commonwealth.
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
@@ -197,14 +197,6 @@ On the date as at which this compilation was prepared, the Petroleum Legislation
 (a) after paragraph (a) by deleting “or”;
 (4) Section 113(1)(d)(ii) is amended as follows:
 (a) after item (I) by deleting “and”;
-On the date as at which this compilation was prepared, the Public Sector Reform Act 2010 s. 109 had not come into operation. It reads as follows:
-109.Industrial Relations Act 1979 amended
-(1) This section amends the Industrial Relations Act 1979.
-(2) In section 80I(1):
-(a) in paragraph (b) after “decision” insert:
-or finding
-(b) in paragraph (d) after “decision” insert:
-or finding
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
