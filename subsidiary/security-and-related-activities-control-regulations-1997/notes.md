@@ -30,22 +30,9 @@ Security and Related Activities (Control) Amendment Regulations (No. 2) 2009 | 4
 Reprint 5: The Security and Related Activities (Control) Regulations 1997 as at 5 Mar 2010 (includes amendments listed above)
 Security and Related Activities (Control) Amendment Regulations 2010 | 18 Jun 2010 p. 2691-3 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Security and Related Activities (Control) Amendment Regulations (No. 2) 2010 | 22 Jun 2010 p. 2784 | r. 1 and 2: 22 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2010 (see r. 2(b))
-Public Sector Reform (Consequential Amendments) Regulations 2011 s. 15(a) | 11 Feb 2011 p. 502-7 | 12 Feb 2011 (see r. 2(d))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Public Sector Reform (Consequential Amendments) Regulations 2011 r. 15(b)-(d) | 11 Feb 2011 p. 502-7 | 28 Mar 2011 (see r. 2(b) and (c) and Gazette 5 Nov 2010 p. 5563)
+Public Sector Reform (Consequential Amendments) Regulations 2011 Pt. 7 | 11 Feb 2011 p. 502-7 | r. 14 and 15(a): 12 Feb 2011 (see r. 2(d)); r. 15(b) & (d): 28 Mar 2011 (see r. 2(b) and Gazette 5 Nov 2010 p. 5563); r. 15(c): 28 Mar 2011 (see r. 2(c) and Gazette 5 Nov 2011 p. 5563)
 The Medical Act 1894 was repealed by the Medical Practitioners Act 2008.
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-On the date as at which this compilation was prepared, the Public Sector Reform (Consequential Amendments) Regulations 2011 r. 15(b)-(d) had not come into operation. They read as follows:
-15.Regulation 13A amended
-(b) delete paragraph (c) and insert:
-(c) a person authorised under the Public Sector Management Act 1994 section 81(1) to deal with a matter as a disciplinary matter, while acting in the ordinary course of investigating that matter;
-(da) a person directed under the Public Sector Management Act 1994 section 81(2) to prepare a report, while acting in the ordinary course of investigating for the purpose of preparing that report;
-(c) in paragraph (d) delete “directed under section 86 of the Public Sector Management Act 1994 to hold a disciplinary inquiry, or” and insert:
-directed under the Public Sector Management Act 1994 section 87 to carry out
-(d) in paragraph (e) delete “(c) or (d),” and insert:
-(c), (da) or (d),
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
