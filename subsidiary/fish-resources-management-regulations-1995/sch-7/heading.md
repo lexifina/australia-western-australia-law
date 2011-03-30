@@ -112,7 +112,7 @@ Shark, Whaler | Family Carcharhinidae
 Sharks | Orders Squatiniformes, Pristiophoriformes, Squaliformes, Hexanchiformes, Carcharhiniformes, Lamniformes, Orectolobiformes and Heterodontiformes
 Snapper, Deep water | Pristipomoides spp. and Etelis spp.
 Snapper, Goldband | Pristipomoides multidens
-Snapper, Northwest | Lethrinus spp. excluding L. nebulosus
+Snapper, Northwest | Lethrinus spp. excluding L. nebulosus and L. laticaudis
 Snapper, Pink | Pagrus auratus
 Snapper, Queen (Blue Morwong) | Nemadactylus valenciennesi
 Snapper, Red (Redfish) | Centroberyx spp.
@@ -154,7 +154,7 @@ Whiting, Southern School (Silver) | Sillago bassensis
 Whiting, Yellow-finned | Sillago schomburgkii
 Wrasse | Family Labridae
 Wrasse, Humphead Maori | Cheilinus undulatus
-[Division 1 amended in Gazette 30 Aug 1996 p. 4320-1; 12 Sep 1997 p. 5154; 19 Jun 1998 p. 3264; 1 Oct 2003 p. 4341-3; 4 Nov 2005 p. 5317; 22 Dec 2005 p. 6238-9; 10 Nov 2006 p. 4710; 13 Nov 2007 p. 5693; 13 Feb 2009 p. 299; 29 Sep 2009 p. 3874-5; 8 Dec 2009 p. 4997.]
+[Division 1 amended in Gazette 30 Aug 1996 p. 4320-1; 12 Sep 1997 p. 5154; 19 Jun 1998 p. 3264; 1 Oct 2003 p. 4341-3; 4 Nov 2005 p. 5317; 22 Dec 2005 p. 6238-9; 10 Nov 2006 p. 4710; 13 Nov 2007 p. 5693; 13 Feb 2009 p. 299; 29 Sep 2009 p. 3874-5; 8 Dec 2009 p. 4997; 29 Mar 2011 p. 1153.]
 ## Division 2 — Freshwater fish
 [Heading inserted in Gazette 13 Nov 2007 p. 5692.]
 Common Name | Scientific Name
