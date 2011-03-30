@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building and Construction Industry Training Fund and Levy Collection Regulations 1991 and includes the amendments referred to in the following Table.
+This is a compilation of the Building and Construction Industry Training Fund and Levy Collection Regulations 1991 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Building and Construction Industry Training Fund and Levy Collection Regulations 1991 | 28 Jun 1991 p. 3122-5 | 1 Jul 1991 (see r. 2 and Gazette 28 Jun 1991 p.3101)
@@ -11,4 +11,5 @@ Building and Construction Industry Training Fund and Levy Collection Amendment R
 Building and Construction Industry Training Fund and Levy Collection Amendment Regulations 2000 | 7 Jan 2000 p. 19-20 | 7 Jan 2000
 Building and Construction Industry Training Fund and Levy Collection Amendment Regulations 2001 | 16 Jan 2001 p. 338 | 1 Feb 2001 (see r. 2)
 Building and Construction Industry Training Fund and Levy Collection Amendment Act 2009 Pt. 3 assented 19 May 2009 | 20 May 2009 (see s. 2(b))
+Building and Construction Industry Training Fund and Levy Collection Amendment Regulations 2010 | 29 Mar 2011 p. 1155-9 | r. 1 and 2: 29 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Mar 2011 (see r. 2(b))
 Now see Local Government Act 1995 (No. 74 of 1995).
