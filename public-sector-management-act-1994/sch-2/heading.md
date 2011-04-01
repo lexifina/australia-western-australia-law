@@ -30,7 +30,7 @@ Column 1 Item | Column 2 Entity
 [24, 25 | deleted]
 26 | Lotteries Commission, continued under the Lotteries Commission Act 1990
 27 | Metropolitan Cemeteries Board, established under the Cemeteries Act 1986
-[28 | deleted]
+[28, 28A | deleted]
 28B | Midland Redevelopment Authority established under the Midland Redevelopment Act 1999
 29 | Mid West Development Commission, established under the Regional Development Commissions Act 1993
 30 | Minerals and Energy Research Institute of Western Australia established under the Minerals and Energy Research Act 1987
@@ -52,8 +52,7 @@ Column 1 Item | Column 2 Entity
 47 | Housing Authority, provided for under the Housing Act 1980
 47A | State Supply Commission established under the State Supply Commission Act 1991
 47B | Subiaco Redevelopment Authority, established under the Subiaco Redevelopment Act 1994
-[47C | deleted]
-[48 | deleted]
+[47C, 48 | deleted]
 49 | The Board of the Art Gallery of Western Australia, referred to in the Art Gallery Act 1959
 50 | The Library Board of Western Australia, constituted under the Library Board of Western Australia Act 1951
 [51-53 | deleted]
