@@ -1,43 +1,42 @@
 Notes
-This is a compilation of the State Administrative Tribunal Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 April 2011 of the State Administrative Tribunal Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 State Administrative Tribunal Act 2004 | 54 of 2004 | 23 Nov 2004 | s. 1 and 2: 23 Nov 2004; Act other than s. 1 and 2: 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129)
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 Pt. 10 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
-Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | 4 May 2007 (see s. 2 and Gazette 4 May 2007 p. 1963)
-Optometrists Act 2005 s. 109 | 29 of 2005 | 12 Dec 2005 | 20 Apr 2007 (see s. 2 and Gazette 30 Mar 2007 p. 1451)
-Podiatrists Act 2005 s. 109 | 30 of 2005 | 12 Dec 2005 | 30 May 2007 (see s. 2 and Gazette 29 May 2007 p. 2486)
-Chiropractors Act 2005 s. 109 | 31 of 2005 | 12 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
-Physiotherapists Act 2005 s. 109 | 32 of 2005 | 12 Dec 2005 | 23 Feb 2007 (see s. 2 and Gazette 20 Feb 2007 p. 505)
-Osteopaths Act 2005 s. 108 | 33 of 2005 | 12 Dec 2005 | 30 May 2007 (see s. 2 and Gazette 29 May 2007 p. 2486)
-Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
+Psychologists Act 2005 Sch. 3 cl. 9 | 28 of 2005 | 12 Dec 2005 | 4 May 2007 (see s. 2 and Gazette 4 May 2007 p. 1963)
+Optometrists Act 2005 Sch. 3 cl. 6 | 29 of 2005 | 12 Dec 2005 | 20 Apr 2007 (see s. 2 and Gazette 30 Mar 2007 p. 1451)
+Podiatrists Act 2005 Sch. 3 cl. 5 | 30 of 2005 | 12 Dec 2005 | 30 May 2007 (see s. 2 and Gazette 29 May 2007 p. 2486)
+Chiropractors Act 2005 Sch. 3 cl. 7 | 31 of 2005 | 12 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
+Physiotherapists Act 2005 Sch. 3 cl. 6 | 32 of 2005 | 12 Dec 2005 | 23 Feb 2007 (see s. 2 and Gazette 20 Feb 2007 p. 505)
+Osteopaths Act 2005 Sch. 3 cl. 6 | 33 of 2005 | 12 Dec 2005 | 30 May 2007 (see s. 2 and Gazette 29 May 2007 p. 2486)
+Occupational Therapists Act 2005 Sch. 3 cl. 4 | 42 of 2005 | 19 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
 Reprint 1: The State Administrative Tribunal Act 2004 as at 7 Apr 2006 (includes amendments listed above except those in the Psychologists Act 2005, Optometrists Act 2005, Osteopaths Act 2005, Physiotherapists Act 2005, Podiatrists Act 2005, Chiropractors Act 2005 and Occupational Therapists Act 2005)
-Medical Radiation Technologists Act 2006 s. 105 | 21 of 2006 | 9 Jun 2006 | 1 Jul 2007 (see s. 2 and Gazette 26 Jun 2007 p. 3013)
-Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
+Medical Radiation Technologists Act 2006 Sch. 3 cl. 6 | 21 of 2006 | 9 Jun 2006 | 1 Jul 2007 (see s. 2 and Gazette 26 Jun 2007 p. 3013)
+Nurses and Midwives Act 2006 Sch. 3 cl. 21 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Acts Amendment (Justice) Act 2008 Pt. 22 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 706 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+Medical Practitioners Act 2008 Sch. 3 cl. 53 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 2: The State Administrative Tribunal Act 2004 as at 16 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 120 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Pharmacy Act 2010 Pt. 8 Div. 2 | 32 of 2010 | 26 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5076)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 47 (except s. 157(3)) | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 84 and 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Acts Amendment (Fair Trading) Act 2010 s. 183 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 3: The State Administrative Tribunal Act 2004 as at 1 Apr 2011 (includes amendments listed above
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
 Health Practitioner Regulation National Law (WA) Act 2010 s. 157(3) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
-Footnotes no longer applicable.
-On the date as at which this compilation was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 had not come into operation. It reads as follows:
 82.State Administrative Tribunal Act 2004 amended
 (1) This section amends the State Administrative Tribunal Act 2004.
 (2) In Schedule 1 delete “Finance Brokers Control Act 1975”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 157(3) had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 157(3) had not come into operation. It reads as follows:
 Division 47 — State Administrative Tribunal Act 2004 amended
 157.Schedule 1 amended
 (3) In Schedule 1 delete the items for:
