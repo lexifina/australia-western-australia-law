@@ -24,5 +24,5 @@ Column 1 Item | Column 2 Entity
 19 | Water Corporation established by the Water Corporation Act 1995
 20 | Western Australian Greyhound Racing Association established by the Western Australian Greyhound Racing Association Act 1981
 21 | A body established by section 4(1) of the Electricity Corporations Act 2005, namely —
- | (i)the Electricity Generation Corporation; (ii)the Electricity Networks Corporation; (iii)the Electricity Retail Corporation; and (iv)the Regional Power Corporation.
-[Schedule 1 amended by No. 73 of 1990 s. 22(3)(a)(iii); No. 89 of 1994 s. 109; No. 73 of 1995 s. 188; No. 14 of 1996 s. 4; No. 57 of 1997 s. 99(4); No. 5 of 1999 s. 23; No. 58 of 1999 s. 106; No. 24 of 2000 s. 14(13) and 34(2); No. 35 of 2003 s. 23 and 221(3); No. 67 of 2004 s. 45(2); No. 18 of 2005 s. 139; and in Gazette 16 Sep 1994 p. 4803; 23 Jun 1995 p. 2508; 3 Nov 1995 p. 5204; 4 Jan 2005 p. 6.]
+ |  | (i)the Electricity Generation Corporation; and (ii)the Electricity Networks Corporation; and (iii)the Electricity Retail Corporation; and (iv)the Regional Power Corporation.
+[Schedule 1 amended by No. 73 of 1990 s. 22(3)(a)(iii); No. 89 of 1994 s. 109; No. 73 of 1995 s. 188; No. 14 of 1996 s. 4; No. 57 of 1997 s. 99(4); No. 5 of 1999 s. 23; No. 58 of 1999 s. 106; No. 24 of 2000 s. 14(13) and 34(2); No. 35 of 2003 s. 23 and 221(3); No. 67 of 2004 s. 45(2); No. 18 of 2005 s. 139; amended in Gazette 16 Sep 1994 p. 4803; 23 Jun 1995 p. 2508; 3 Nov 1995 p. 5204; 4 Jan 2005 p. 6.]
