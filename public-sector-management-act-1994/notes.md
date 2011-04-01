@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Public Sector Management Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 April 2011 of the Public Sector Management Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Public Sector Management Act 1994 | 31 of 1994 | 8 Jul 1994 | s. 1 and 2: 8 Jul 1994; s. 3, 16, 19, 20, 26, 28 and Sch. 4: 20 Aug 1994 (see s. 2 and Gazette 19 Aug 1994 p. 4155); s. 4-6, Pt. 2 Div. 1, 2 and 4, s. 17, 18, 21-25 and 27, Pt. 3-6, 8, and 9 and Sch. 1-3, 5 and 6: 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948); Pt. 7: 1 Jan 1996 (see s. 2 and Gazette 24 Nov 1995 p. 5389)
@@ -80,113 +80,105 @@ Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 15 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Reprint 7: The Public Sector Management Act 1994 as at 25 Aug 2006 (includes amendments listed above)
 Land Information Authority Act 2006 s. 187 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
-Financial Legislation Amendment and Repeal Act 2006 s. 4, 6, 7 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 6, 7 and Sch. 1 cl. 137 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2(1) and Gazette 27 Jul 2007 p. 3735)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 39 | 24 of 2007 | 12 Oct 2007 | 18 Dec 2010 (see s. 2 and Gazette 17 Dec 2010 p. 6349
 Water Resources Legislation Amendment Act 2007 s. 197 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
-Reprint 8: The Public Sector Management Act 1994 as at 14 Nov 2008 (includes amendments listed above)
+Reprint 8: The Public Sector Management Act 1994 as at 14 Nov 2008 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
 Public Sector Management (SES Organisations) Regulations 2009 published in Gazette 9 Jun 2009 p. 1926 | r. 1 and 2: 9 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jun 2009 (see r. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 71 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Public Sector Management (SES Organisations) Regulations 2010 published in Gazette 18 Jun 2010 p. 2696-7 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jun 2010 (see r. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-Public Sector Reform Act 2010 Pt. 2 Div. 1 and Pt. 3 Div. 1 | 39 of 2010 | 1 Oct 2010 | Pt. 2 Div. 1: 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563) Pt. 3 Div. 1: 28 Mar 2011 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Public Sector Reform Act 2010 Pt. 2 Div. 1 and Pt. 3 Div. 1 | 39 of 2010 | 1 Oct 2010 | Pt. 2 Div. 1: 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563); Pt. 3 Div. 1: 28 Mar 2011 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Reprint 9: The Public Sector Management Act 1994 as at 1 Apr 2011 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 State Superannuation Amendment Act 2007 s. 85 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
-The R & I Holdings Act 1990 was repealed in Gazette 26 Jun 2001 p. 3063 under s. 22(2) of the R & I Holdings Act 1990.
+The R & I Holdings Act 1990 was repealed in Gazette 26 Jun 2001 p. 3063 under the R & I Holdings Act 1990 s. 22(2).
 The amendment in the Western Australian Greyhound Racing Association Amendment Act 1998 s. 20 is not included because of an error in the reference to the item to be amended. The same amendment was made by the Statutes (Repeals and Minor Amendments) Act 2000 s. 34(2) and then the provision amended was again amended by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 221(3).
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) had not come into operation. It reads as follows:
-“
+The amendments in the Public Sector Reform Act 2010 s. 68 and 70 to amend the Public Sector Management Act 1994 s. 79(6) and 99 are not included as those sections were deleted by the Public Sector Reform Act 2010 s. 55(3) and 57 respectively.
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) had not come into operation. It reads as follows:
 59.Public Sector Management Act 1994 amended
 The Public Sector Management Act 1994 is amended as follows:
 (a) by repealing section 20(1);
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 85 had not come into operation. It reads as follows:
-“
+On the date as at which this reprint was prepared, the State Superannuation Amendment Act 2007 s. 85 had not come into operation. It reads as follows:
 85.Public Sector Management Act 1994 amended
 (1) The amendments in this section are to the Public Sector Management Act 1994.
 (2) Schedule 2 item 16 is deleted.
-”.
-The amendments in the Public Sector Reform Act 2010 s. 68 and 70 to amend the Public Sector Management Act 1994 s. 79(6) and 99 are not included as those sections were deleted by the Public Sector Reform Act 2010 s. 55(3) and 57 respectively.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-accountable authority5(2)
+accountable authority5(2)(b)
 affected department or organisation93(3)
 agency3(1)
-amended ActSch. 7, cl. 1
+agency of destination50(5)
+amended ActSch. 7 cl. 1
 appoint3(1)
-approved3(1)
 authorised person24A, 24C
 breach of discipline3(1)
 chief employee3(1)
 chief executive officer3(1)
 classification system3(1)
 code of conduct3(1)
-code of ethics3(1), 3(1)
+code of ethics3(1)
 commencement daySch. 7 cl. 1, Sch. 8 cl. 1
-Commissioner3(1), 3(1)
+Commissioner3(1),
 Commissioner’s instructions3(1)
 compensation3(1)
 department3(1)
-directed person86(13)
-disciplinary action80A
-disciplinary inquiry86(13)
+disciplinary action3(1), 80A
 document3(1)
 employee3(1)
 employing authority3(1), 5(1)
 executive officer3(1)
-former CommissionerSch. 7, cl. 1
-former officeSch. 7, cl. 2(1)
+former CommissionerSch. 7 cl. 1
+former officeSch. 7 cl. 2(1)
 function3(1)
 improvement action3(1)
+incumbent107(1)
 Industrial Commission3(1)
 Minister3(1)
 ministerial office3(1)
 ministerial officer3(1), 74(3), 105(4)
 non-SES organisation3(1)
 organisation3(1)
+original contract56(4)
+paragraph (a) provision32(2)(a)
 performance agreement3(1)
 permanent officer3(1)
 political office holder3(1)
 Public Sector3(1)
 public sector body3(1)
 public sector notice3(1)
-public sector standard3(1), 3(1)
+public sector standard3(1)
 Public Service3(1)
-public service notices3(1)
 public service officer3(1)
-reasonable excuseSch. 3, cl. 3(5), 3, cl. 4(3)
-registered employee94(3)
+reasonable excuseSch. 3 cl. 3(5) and 4(3)
+registered employee94(3)(a)
 remuneration3(1)
 repealed Act3(1)
 responsible authority3(1)
 review24A
 right of return58(7)
+seconding authority66
 section 94 breach of discipline80A
 senior executive officer3(1)
 Senior Executive Service3(1)
 serious offence80A
 SES organisation3(1)
 special disciplinary inquiry3(1)
-special inquirer3(1), 3(1)
-special inquiry3(1), 3(1)
+special inquirer3(1)
+special inquiry3(1)
 specifiedSch. 7 cl. 12(5), Sch. 8 cl. 6(5)
 statutory office58(7)
 substandard performance3(1)
 suitable employment94(6)
 suitable office, post or position94(6)
 term officer3(1)
-the agency of destination50(5)
-the incumbent46(1), 107(1)
-the original contract56(4)
-the paragraph (a) provision32(2)
-the seconding authority66
 this Act3(1)
-transitional matterSch. 7 cl. 12(2). Sch. 8 cl. 6(2)
+transitional matterSch. 7 cl. 12(2), Sch. 8 cl. 6(2)
 Tribunal57(2)
