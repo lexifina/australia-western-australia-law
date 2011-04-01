@@ -41,7 +41,7 @@ Item | Description | Fee $
  | (e)a continuing lottery | 25
  | (f)gaming (per day authorised) —
  | (i)1-5 tables | 160
- | (ii)6-10 tables. | 295
+ | (ii)6-10 tables | 295
  | (iii)over 10 tables | 365
  | (g)two-up —
  | (i)by a country race club, per day authorised | 105
@@ -58,4 +58,4 @@ Item | Description | Fee $
 10. | Issue of a certificate under section 88(5) | 280
 11. | Application to be a licensed supplier | 265
 12. | Approval to operate, or remove money from, gaming equipment | 25
-[Schedule 1 inserted in Gazette 30 Oct 2009 p. 4317-19; amended in Gazette 19 Nov 2010 p. 5748.]
+[Schedule 1 inserted in Gazette 30 Oct 2009 p. 4317-19; amended in Gazette 19 Nov 2010 p. 5748 (correction in Gazette 20 May 2011 p. 1840).]

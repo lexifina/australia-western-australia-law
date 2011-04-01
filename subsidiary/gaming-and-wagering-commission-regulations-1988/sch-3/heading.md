@@ -42,7 +42,7 @@ No. ..................................
 Date of Service .......................... 20 ......
 To ............................................................of ...........................................................
 (Name)(Address)
-Infringement notice No ...................... served on you on the ..................... day of ................................ 20 ...... for the offence described below is hereby withdrawn.
+Infringement notice No ...................... served on you on the ..................... day of ............................................ 20 ...... for the offence described below is hereby withdrawn.
 ..............................................
 Authorised officer for
 the Gaming and Wagering Commission of Western Australia.
@@ -84,7 +84,7 @@ Gaming and Wagering Commission Act 1987
 [s. 25]
 WARRANT
 I, [insert name of justice of the peace granting the warrant], of ............................ .............................., being a JUSTICE OF THE PEACE and being satisfied upon complaint by [insert name of complainant] that there is reason to suspect that contrary to the Gaming and Wagering Commission Act 1987
-(1)(a)premises are or are to be opened, kept or used as a common gaming house;
+(1)(a)premises are or are to be opened, kept or used as a common gaming house; or
 (b)unlawful gaming is, has been or is about to be conducted at the premises; or
 (c)an offence in relation to permitted gaming is, or is likely to be, committed at the premises;
 at (2)........................................................................................................................
