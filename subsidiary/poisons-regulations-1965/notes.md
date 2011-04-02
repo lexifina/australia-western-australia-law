@@ -154,8 +154,8 @@ Poisons Amendment Regulations (No. 5) 2010 | 1 Oct 2010 p. 5078-80 | r. 1 and 2:
 Poisons Amendment Regulations (No. 7) 2010 | 22 Oct 2010 p. 5217-19 | r. 1 and 2: 22 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Oct 2010 (see r. 2(b))
 Poisons Amendment Regulations (No. 4) 2010 | 19 Nov 2010 p. 5709-10 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2010 (see r. 2(b))
 Poisons Amendment Regulations (No. 6) 2010 | 19 Nov 2010 p. 5711-15 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2010 (see r. 2(b))
-Repealed by the Medical Practitioners Act 2008.
-Repealed by the Mental Health Act 1981 which was repealed by the Mental Health Act 1996.
+Poisons Amendment Regulations 2011 | 1 Apr 2011 p. 1181-3 | r. 1 and 2: 1 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2011 (see r. 2(b))
+Footnote no longer applicable.
 Repealed by the Nurses and Midwives Act 2006.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Repealed by the Security and Related Activities (Control) Act 1996.
