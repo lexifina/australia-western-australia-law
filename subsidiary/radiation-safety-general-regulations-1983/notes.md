@@ -49,11 +49,10 @@ Radiation Safety (General) Amendment Regulations 2003 | 2 Jan 2004 p. 3 | 2 Jan 
 Radiation Safety (General) Amendment Regulations 2008 | 2 Sep 2008 p. 4117-20 | r. 1 and 2: 2 Sep 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Sep 2008 (see r. 2(b))
 Reprint 3: The Radiation Safety (General) Regulations 1983 as at 19 Dec 2008 (includes amendments listed above)
 Radiation Safety (General) Amendment Regulations 2010 | 17 Aug 2010 p. 4045-8 | r. 1 and 2: 17 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Aug 2010 (see r. 2(b))
-Repealed by the Chiropractors Act 2005.
+Radiation Safety (General) Amendment Regulations 2011 | 1 Apr 2011 p. 1183-4 | r. 1 and 2: 1 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2011 (see r. 2(b))
+Footnote no longer applicable.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
-Repealed by the Medical Practitioners Act 2008.
-Repealed by the Physiotherapists Act 2005.
-Repealed by the Podiatrists Act 2005.
+4-6Footnote no longer applicable.
 Repealed by the National Health and Medical Research Council Act 1992 (Commonwealth).
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Health Department of Western Australia is read and construed as a reference to the Department of Health.
 Repealed by the Mines Safety and Inspection Act 1994.
