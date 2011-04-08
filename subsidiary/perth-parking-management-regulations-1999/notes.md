@@ -18,7 +18,22 @@ Reprint 2: The Perth Parking Management Regulations 1999 as at 12 Sep 2008 (incl
 Perth Parking Management Amendment Regulations 2009 | 23 Jun 2009 p. 2489-90 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jun 2009 (see r. 2(b))
 Perth Parking Management Amendment Regulations (No. 2) 2009 | 30 Jun 2009 p. 2659-60 | r. 1 and 2: 30 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Perth Parking Management Amendment Regulations 2010 | 1 Apr 2010 p. 1280 | r. 1 and 2: 1 Apr 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Perth Parking Management Amendment Regulations 2011 | 8 Apr 2011 p. 1291-2 | 1 Jul 2011 (see r. 2(b))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
+On the date as at which this compilation was prepared, the Perth Parking Management Amendment Regulations 2011 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Perth Parking Management Regulations 1999.
+4.Schedule 2 amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Sch. 2 item 11(ii) | 598.30 | 616.30
+Sch. 2 item 11(iii) | 567.20 | 584.30
+Sch. 2 item 11(iv) | 567.20 | 584.30
+Sch. 2 item 11(v) | 598.30 | 616.30
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
