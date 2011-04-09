@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 28 January 2011 of the Road Traffic Act 1974 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the Road Traffic Act 1974 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic Act 1974 | 59 of 1974 | 3 Dec 1974 | s. 4: 3 Dec 1974 (see s. 2(2)); s. 6-10 and 12: 21 Feb 1975 (see s. 2(1) and Gazette 21 Feb 1975 p. 633); Act other than s. 4, 6-10 and 12: 1 Jun 1975 (see s. 2(1) and Gazette 29 May 1975 p. 1442)
@@ -140,13 +140,13 @@ Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 201
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Road Traffic Amendment Act 2010 | 20 of 2010 | 7 Jul 2010 | s. 1 and 2: 7 Jul 2010 (see s. 2(a)); Act other than s. 1 and 2: 1 Sep 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 45 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
-Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 3 and 6-10 | 51 of 2010 | 8 Dec 2010 | 9 Dec 2010 (see s. 2(b))
-Reprint 11: The Road Traffic Act 1974 as at 28 Jan 2011 (includes amendments listed above)
+Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 2 (other than s. 5, 11, 12, 14 and 15) | 51 of 2010 | 8 Dec 2010 | s. 3 and 6-10: 9 Dec 2010 (see s. 2(b)); s. 4 and 13: 9 Apr 2011 (see s. 2(c) and Gazette 8 Apr 2011 p. 1281)
+Reprint 11: The Road Traffic Act 1974 as at 28 Jan 2011 (includes amendments listed above, except the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 4 and 13 )
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 2 (except s. 3 and 6-10) | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
+Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 5, 11, 12, 14 and 15 | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 Repealed by the Interpretation Act 1984.
 Section 111(2)(f) of this Act has been deleted.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
@@ -272,22 +272,8 @@ Part 3 — Transitional provision
 36.Existing demerit points
 Points currently recorded in respect of a person under section 103 of the Road Traffic Act 1974 immediately before that section is repealed by section 29, and details of any offence in respect of which the points were recorded, are to be recorded as demerit points against the person in the demerit points register referred to in Part VIA of the Road Traffic Act 1974 as inserted by section 31.
 The Road Traffic Amendment Act 2006 Pt. 4 Div. 4 will not be included because the Road Traffic Amendment (Vehicle Licensing) Act 2001 has already commenced (see s. 45-48).
-On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 4, 5 and 11-15 had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 5, 11, 12, 14 and 15 had not come into operation. They read as follows:
 Part 2 — Road Traffic Act 1974 amended
-4.Section 6AA inserted
-After section 6 insert:
-6AA.Delegation of functions of Commissioner of Police
-(1) The Commissioner of Police may delegate to —
-(a) a specified member of the Police Force; or
-(b) a member of the Police Force of a specified class; or
-(c) a person who is employed in the department of the Public Service principally assisting in the administration of the Police Act 1892,
-any power or duty of the Commissioner under another provision of this Act other than a power delegated to the Commissioner under section 83(6).
-(2) The delegation must be in writing signed by the Commissioner of Police.
-(3) A person to whom a power or duty is delegated under this section cannot delegate that power or duty.
-(4) A person exercising or performing a power or duty that has been delegated to the person under this section, is to be taken to do so in accordance with the terms of the delegation unless the contrary is shown.
-(5) Nothing in this section limits the ability of the Commissioner of Police to perform a function through an officer or agent.
-Note:The heading to section 6A is to be amended to read:
-Delegation of functions of Director General
 5.Section 51 amended
 Delete section 51(4) and insert:
 (4A) If the holder of a driver’s licence that is a provisional licence is disqualified from holding or obtaining a driver’s licence —
@@ -385,8 +371,6 @@ subsection (1)
 (9) Delete section 76(4a), (12) and (12a).
 (10) In section 76(13) delete “subsection (1a) and (12) —” and insert:
 subsection (1a) —
-13.Section 98A amended
-Delete section 98A(6) and (7).
 14.Section 104K amended
 (1) Delete section 104K(2).
 (2) In section 104K(4) delete the passage that begins with “election,” and continues to the end of the subsection and insert:
