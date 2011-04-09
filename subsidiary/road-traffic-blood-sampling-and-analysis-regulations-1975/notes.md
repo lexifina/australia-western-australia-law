@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 26 March 2010 of the Road Traffic (Blood Sampling and Analysis) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic (Blood Sampling and Analysis) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Blood Sampling and Analysis) Regulations 1975 | 29 May 1975 p. 1537-42 | 1 Jun 1975
@@ -26,6 +26,7 @@ Road Traffic Legislation Amendment Regulations 2008 Pt. 2 | 14 Mar 2008 p. 832-4
 Road Traffic (Blood Sampling and Analysis) Amendment Regulations 2009 | 9 Oct 2009 p. 3997-8 | r. 1 and 2: 9 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Oct 2009 (see r. 2(b))
 Road Traffic (Blood Sampling and Analysis) Amendment Regulations (No. 2) 2009 | 8 Jan 2010 p. 31-3 | r. 1 and 2: 8 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jan 2010 (see r. 2(b))
 Reprint 4: The Road Traffic (Blood Sampling and Analysis) Regulations 1975 as at 26 Mar 2010 (includes amendments listed above)
+Road Traffic (Blood Sampling and Analysis) Amendment Regulations 2011 | 8 Apr 2011 p. 1292-3 | r. 1 and 2: 8 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Apr 2011 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
