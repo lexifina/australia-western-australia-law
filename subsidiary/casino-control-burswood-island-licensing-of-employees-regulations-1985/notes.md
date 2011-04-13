@@ -29,6 +29,7 @@ Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 
 Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2009 | 30 Oct 2009 p. 4315-16 | r. 1 and 2: 30 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
 Reprint 3: The Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985 as at 20 Aug 2010 (includes amendments listed above)
  | Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2010 | 19 Nov 2010 p. 5741-2 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
+ | Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2011 | 12 Apr 2011 p. 1324-5 | r. 1 and 2: 12 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Apr 2011 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
