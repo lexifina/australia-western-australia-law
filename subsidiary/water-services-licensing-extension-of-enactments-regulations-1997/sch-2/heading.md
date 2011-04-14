@@ -11,7 +11,7 @@ Water Agencies (Powers) Act 1984
 s. 98 s. 99 | s. 100 s. 101
 Division 3
 Country Areas Water Supply Act 1947
-s. 35 | s. 71(2)
+s. 35
 Water Agencies (Powers) Act 1984
 s. 62(2) | s. 84(2)
-[Schedule 2 amended in Gazette 9 Jul 1999 p. 3092; 31 Jul 2001 p 3928; correction to reprint in Gazette 1 Oct 2004 p. 4284; 16 Aug 2005 p. 3816.]
+[Schedule 2 amended in Gazette 9 Jul 1999 p. 3092; 31 Jul 2001 p 3928; correction to reprint in Gazette 1 Oct 2004 p. 4284; 16 Aug 2005 p. 3816; 23 Nov 2010 p. 5860.]
