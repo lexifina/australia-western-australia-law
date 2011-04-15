@@ -19,3 +19,50 @@ Pearling (General) Amendment Regulations (No. 2) 2003 | 7 Oct 2003 p. 4380-1 | 7
 Pearling (General) Amendment Regulations 2005 | 15 Nov 2005 p. 5597-8 | 15 Nov 2005
 Reprint 2: The Pearling (General) Regulations 1991 as at 5 May 2006 (includes amendments listed above)
 Pearling (General) Amendment Regulations 2007 | 10 Jul 2007 p. 3417-18 | r. 1 and 2: 10 Jul 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jul 2007 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Pearling (General) Amendment Regulations 2011r. 3-9 | 15 Apr 2011 p. 1415-17 | 1 Jul 2011 (see r. 2(b))
+On the date as at which this compilation was prepared, the Pearling (General) Amendment Regulations 2011 r. 3-9 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Pearling (General) Regulations 1991.
+4.Regulation 3 amended
+In regulation 3(1) in the definition of approved form delete “Executive Director;” and insert:
+CEO;
+5.Regulation 6 amended
+(1) Delete regulation 6(1) and insert:
+(1) An application under section 22 of the Act for the issue or renewal of a lease, licence or permit referred to in the Table is to be accompanied by the application fee set out opposite the lease, licence or permit, unless payment of the fee is waived by the CEO.
+Table
+Lease, licence or permit | Application fee ($)
+Farm lease | 2 283
+Pearling licence or permit | 395
+Hatchery licence or permit | 395
+(2) In regulation 6(2) delete “$1 600.” and insert:
+$1 683.
+6.Regulation 8 replaced
+Delete regulation 8 and insert:
+8.Annual fees for certain licences
+For the purposes of section 27(1)(b) of the Act, the annual fee for a licence referred to in the Table is the fee set out opposite the licence.
+Table
+Licence | Fee ($)
+Pearl diver’s licence | 80
+Pearl boat licence | 80
+Pearl boat master’s licence | 80
+7.Regulation 9 amended
+(1) In regulation 9(1):
+(a) delete “Executive Director” and insert:
+CEO
+(b) in the Table delete “680” and insert:
+716
+(c) in the Table delete “76” (each occurrence) and insert:
+80
+(d) in the Table delete “420” and insert:
+442
+(2) In regulation 9(3) delete “Executive Director” and insert:
+CEO
+8.Regulation 10 amended
+In regulation 10 delete “Executive Director” and insert:
+CEO
+9.Regulation 47 amended
+In regulation 47 delete “Executive Director.” and insert:
+CEO.
