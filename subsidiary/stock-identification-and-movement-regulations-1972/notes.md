@@ -57,6 +57,7 @@ Reprint 4: The Stock (Identification and Movement) Regulations 1972 as at 14 Nov
 Stock (Identification and Movement) Amendment Regulations 2009 | 29 May 2009 p. 1831-2 | r. 1 and 2: 29 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 30 May 2008 (see r. 2(b))
 Stock (Identification and Movement) Amendment Regulations (No. 2) 2009 | 26 Jun 2009 p. 2617-18 | r. 1 and 2: 26 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Stock (Identification and Movement) Amendment Regulations 2010 | 30 Jun 2010 p. 3125-6 | r. 1 and 2: 30 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+Stock (Identification and Movement) Amendment Regulations 2011 | 15 Apr 2011 p. 1412-13 | r. 1 and 2: 15 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Apr 2011 (see r. 2(b))
 Now known as the Stock (Identification and Movement) Regulations 1972; citation changed (see note under r. 1).
 The commencement date of 1 Jul 1982 that was specified was before the date of gazettal.
 The commencement date of 1 Oct 1983 that was specified was before the date of gazettal.
