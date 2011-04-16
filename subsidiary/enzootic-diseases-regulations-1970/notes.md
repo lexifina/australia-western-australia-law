@@ -113,6 +113,7 @@ Reprint 5: The Enzootic Diseases Regulations 1970 as at 15 Aug 2008 (includes am
 Enzootic Diseases Amendment Regulations 2009 | 23 Jun 2009 p. 2424-9 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jun 2009 (see r. 2(b))
 Enzootic Diseases Amendment Regulations (No. 2) 2009 | 26 Jun 2009 p. 2613-16 | r. 1 and 2: 26 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Enzootic Diseases Amendment Regulations 2010 | 30 Jun 2010 p. 3111-13 | r. 1 and 2: 30 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+Enzootic Diseases Amendment Regulations 2011 | 15 Apr 2011 p. 1399-1412 | r. 1 and 2: 15 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Apr 2011 (see r. 2(b))
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is, unless the contrary is intended, to be read and construed as a reference to the Department of Agriculture and Food.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -188,8 +189,8 @@ manufacture76, 85A
 Monitored NegativeSch. 2 cl. 9A(2) and 36(2)
 monitored negative herdSch. 5 Div. 1
 National GuidelinesSch. 2 cl. 9A(2)
-NLIS database76
-NLIS device76
+NLIS database4
+NLIS device4
 NLIS post breeder device76
 NLIS post breeder tag85A
 NLIS tag85A, 85M(1), 85S(1), 85W(1)
@@ -238,7 +239,7 @@ tuberculosis control area55
 tuberculosis eradication area55
 tuberculosis free area55
 tuberculosis provisionally free area55
-update the NLIS database76
+update the NLIS database4
 vessel4(1)
 visible identification number76
 Western Australian pearl oyster fishery100(1)
