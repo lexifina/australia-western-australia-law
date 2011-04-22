@@ -77,28 +77,11 @@ Water Agencies Amendment By-laws 2009 Pt. 6 | 19 Jun 2009 p. 2393-406 | bl. 1 an
 Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws (No. 2) 2010 | 25 Jun 2010 p. 2883 | bl. 1 and 2: 25 Jun 2010 (see bl. 2(a)); By-laws other than bl. 1 and 2: 26 Jun 2010 (see bl. 2(b))
 Water Agencies Amendment By-laws 2010 Pt. 6 | 25 Jun 2010 p. 2983-96 | 1 Jul 2010 (see bl. 2(b))
 Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2011 | 18 Mar 2011 p. 927-8 | bl. 1 and 2: 18 Mar 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 19 Mar 2011 (see bl. 2(b)(i))
+Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws (No. 2) 2011 | 21 Apr 2011 p. 1473-83 | bl. 1 and 2: 21 Apr 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 22 Apr 2011 (see bl. 2(b))
 These by-laws have effect for the purposes of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
-The Water Resources Legislation Amendment Act 2007 s. 223 reads as follows:
-223.Agreements and instruments generally
-(1) Any agreement or instrument (including subsidiary legislation) in force immediately before the transfer time —
-(a) to which a former body was a party; or
-(b) which contains a reference to a former body,
-has effect after the transfer time, to the extent to which the agreement or instrument relates to the functions of a relevant successor to the former body, as if —
-(c) the relevant successor were substituted for the former body as a party to the agreement or instrument; and
-(d) any reference in the agreement or instrument to the former body were (unless the context otherwise requires) amended to be or include a reference to the relevant successor.
-(2) This section does not apply to any agreement or instrument covered by another provision of this Part.
-See Bush Fires Act 1954.
-Under the Conservation and Land Management Act 1984 s. 151(a), a reference in any law to the former Forests Department shall be read as a reference to the Department of Conservation and Land Management.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management was called the Department of Environment and Conservation.
-Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Public Health Department is to be read and construed as a reference to the Department of Health.
 Footnote no longer applicable.
-Repealed by the Dangerous Goods Safety Act 2004.
-Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines was to be read and construed as a reference to the Department of Industry and Resources.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Industry and Resources was called the Department of Mines and Petroleum.
-The Flammable Liquids Regulations 1967 were repealed by the Dangerous Goods Regulations 1992 r. 8.2, which were later known as the Explosives and Dangerous Goods (Dangerous Goods Handling and Storage) Regulations 1992 and were repealed by the Dangerous Goods Safety Act 2004.
-See Health Act 1911.
-The Metropolitan Water Supply, Sewerage, and Drainage Act 1909 s. 147 was repealed by the Acts Amendment and Repeal (Water Authorities) Act 1985 s. 76.
-Now see the Local Government Act 1995.
+See Bush Fires Act 1954.
+5-13Footnotes no longer applicable.
 See Strata Titles Act 1985.
 These by-laws contain an application provision concerning fees and charges for a period commencing before, or for a matter or thing done before, the by-laws came into operation.
 The Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws (No. 2) 1989 contains a savings and transitional provision (bl. 11) that is of no further effect.
@@ -123,6 +106,7 @@ bulk liquid storage tank system5.6.1
 commercial type1.1
 container1.1
 cross connection1.1
+Dangerous Goods Storage Regulations1.1
 diameter1.1
 discharge pipe1.1
 disconnector trap1.1
@@ -152,6 +136,7 @@ multi-unit development6.7.1a.5
 observation well1.1
 owner5.6.1
 pesticides1.1
+petroleum product1.1
 pipework1.1
 plans5.6.1
 plumbing standards1.1
@@ -169,6 +154,7 @@ tank5.6.1
 the Act1.1
 trade waste1.1
 trap seal1.1
+underground storage or handling system1.1
 unpolluted water5.6.1
 vent pipe1.1
 vent stack1.1
@@ -180,4 +166,5 @@ water service1.1
 wellhead5.6.1
 wellhead protection zone5.6.1
 work28.9.19.1(d)
+works1.1
 yard gully1.1

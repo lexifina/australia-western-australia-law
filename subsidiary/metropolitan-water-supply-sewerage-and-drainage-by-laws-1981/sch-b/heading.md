@@ -1,7 +1,6 @@
 ## Schedule B
 Form 1
 (5.2.1.1)
-WATER AND RIVERS COMMISSION
 APPLICATION FOR A WELL LICENCE
 (Under Section 57G of the Metropolitan
 Water Supply, Sewerage, and Drainage
@@ -32,8 +31,8 @@ SITE PLAN.
 •Distances of existing and proposed wells from side boundaries of the property are to be shown in metres.
 •Show the location of any existing or abandoned septic tanks, leach drains or soak wells and their distance from the proposed well.
 •The Health Act (Underground Water Supply) Regulations 1959 require wells to be not less than 30 m from septic tanks, soak wells or leach drains.
-•The Commission may require alterations to the location, plans and specification of any work proposed in this application before it issues a licence.
-[Form 1 inserted in Gazette 31 Jul 1981 p. 3169-71; amended in Gazette 29 Dec 1995 p. 6324.]
+•The Minister may require alterations to the location, plans and specification of any work proposed in this application before a licence is issued.
+[Form 1 inserted in Gazette 31 Jul 1981 p. 3169-71; amended in Gazette 29 Dec 1995 p. 6324; 21 Apr 2011 p. 1482.]
 Form 2
 (5.2.1.3)
 Water Agencies (Powers) Act 1984
@@ -51,7 +50,6 @@ Given under my hand this ......................................... day of ......
 [Form 2 inserted in Gazette 12 May 1989 p. 1446; amended in Gazette 29 Dec 1995 p. 6324.]
 Form 3
 (5.2.2.1)
-WATER AND RIVERS COMMISSION
 WELL COMPLETION STATEMENT
 LICENCE No.
 LICENSEE: | Name.........................................................................................
@@ -73,9 +71,9 @@ LOCATION PLAN: REMARKS: | Draw a location plan of the well on the back of this S
 Signature of Licensee..........................................................Date ...........................
 Note: The Contractor may complete this form but the accuracy of the information should be verified as far as possible by the licensee or his representative and forwarded to:
 Chief Executive Officer
-Water and Rivers Commission
-Hyatt Centre, 87 Adelaide Terrace
-EAST PERTH WA 6004
+Department of Water
+168 St Georges Terrace
+PERTH WA 6000
 LOCATION PLAN OF WELL.
 Distances from side boundaries should be measured in metres.
 Location of septic tanks, leach drains and soak wells should be shown in relation to the well.
@@ -110,4 +108,4 @@ SEE DIAGRAMS BELOW
 3.SCREENS: | Length ............ m Diam ............. mm Aperture ........... mm
  | Material of construction.........................................................
  | Make.......................................................................................
-[Form 3 inserted in Gazette 31 Jul 1981 p. 3172-3; amended in Gazette 29 Dec 1995 p. 6324.]
+[Form 3 inserted in Gazette 31 Jul 1981 p. 3172-3; amended in Gazette 29 Dec 1995 p. 6324; 21 Apr 2011 p. 1482-3.]
