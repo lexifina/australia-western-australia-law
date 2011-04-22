@@ -91,6 +91,7 @@ Reprint 4: The Country Areas Water Supply By-laws 1957 as at 19 Dec 2008 (includ
 Water Agencies Amendment By-laws 2009 Pt. 3 | 19 Jun 2009 p. 2393-406 | bl. 1 and 2: 19 Jun 2009 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2009 (see bl. 2(b))
 Country Areas Water Supply Amendment By-laws 2010 | 25 Jun 2010 p. 2884 | bl. 1 and 2: 25 Jun 2010 (see bl. 2(a)); By-laws other than bl. 1 and 2: 26 Jun 2010 (see bl. 2(b))
 Water Agencies Amendment By-laws 2010 Pt. 3 | 25 Jun 2010 p. 2983-96 | 1 Jul 2010 (see bl. 2(b))
+Country Areas Water Supply Amendment By-laws 2011 | 21 Apr 2011 p. 1470-2 | bl. 1 and 2: 21 Apr 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 22 Apr 2011 (see bl. 2(b))
 These by-laws have effect for the purposes of the Country Areas Water Supply Act 1947 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 The Water Resources Legislation Amendment Act 2007 s. 223 reads as follows:
 “
@@ -135,4 +136,3 @@ public house1A(3)
 shared fire service99
 water supply plumbing work1A(1)
 working day1A(1)
-By Authority: JOHN A. STRIJK, Government Printer
