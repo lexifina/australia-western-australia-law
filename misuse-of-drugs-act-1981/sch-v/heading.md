@@ -19,6 +19,7 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 15. | BARBITONE | 10.0
 16. | BENZETHIDINE | 10.0
 17. | BENZYLMORPHINE | 5.0
+18A. | BENZYLPIPERAZINE (BZP) | 2.0
 18. | BETACETYLMETHADOL | 5.0
 19. | BETAMEPRODINE | 5.0
 20. | BETAMETHADOL | 5.0
@@ -48,6 +49,7 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 44. | DIMEPHEPTANOL | 10.0
 45. | 2, 5-DIMETHOXY-4-BROMOAMPHETAMINE | 0.05
 46. | 2, 5-DIMETHOXY-4-METHYLAMPHETAMINE | 0.05
+47A. | DIMETHYLAMPHETAMINE | 2.0
 47. | DIMETHYLTHIAMBUTENE | 20.0
 48. | DIMETHYLTRYPTAMINE | 2.0
 49. | DIOXAPHETYL BUTYRATE | 2.0
@@ -84,6 +86,7 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 79. | METHADONE-INTERMEDIATE | 0.2
 80. | METHAQUALONE | 50.0
 81. | METHARBITONE | 10.0
+82A. | METHCATHINONE | 2.0
 82 | METHYLAMPHETAMINE | 2.0
 83. | METHYLDESORPHINE | 2.0
 84. | METHYLDIHYDROMORPHINE | 2.0
@@ -149,4 +152,4 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 142. | THEBAINE | 10.0
 143. | TRIMEPERIDINE | 10.0
 144. | VINBARBITONE | 10.0
-[Schedule V amended by No. 48 of 1995 s. 43; amended in Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041.]
+[Schedule V amended by No. 48 of 1995 s. 43; amended in Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041; 29 Apr 2011 p. 1533.]
