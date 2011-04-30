@@ -19,6 +19,7 @@ Pearling (General) Amendment Regulations (No. 2) 2003 | 7 Oct 2003 p. 4380-1 | 7
 Pearling (General) Amendment Regulations 2005 | 15 Nov 2005 p. 5597-8 | 15 Nov 2005
 Reprint 2: The Pearling (General) Regulations 1991 as at 5 May 2006 (includes amendments listed above)
 Pearling (General) Amendment Regulations 2007 | 10 Jul 2007 p. 3417-18 | r. 1 and 2: 10 Jul 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jul 2007 (see r. 2(b))
+Pearling (General) Amendment Regulations (No. 2) 2011 | 29 Apr 2011 p. 1523 | r. 1 and 2: 29 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Apr 2011 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
