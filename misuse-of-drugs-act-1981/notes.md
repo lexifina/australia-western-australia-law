@@ -39,6 +39,7 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 37 | 35 of 
 Misuse of Drugs Amendment Act 2010 | 44 of 2010 | 28 Oct 2010 | s. 1 and 2: 28 Oct 2010 (see s. 2(a)); s. 3, 4 and 7(3) and (4): 22 Jan 2011 (see s. 2(b) and Gazette 21 Jan 2011 p. 157)
 Misuse of Drugs Amendment Act (No. 2) 2010 Pt. 2 | 50 of 2010 | 24 Nov 2010 | 25 Nov 2010 (see s. 2(b))
 Misuse of Drugs (Numbers of Cannabis Plants) Order 2010 published in Gazette 15 Apr 2011 p. 1425-6 | cl. 1 and 2: 15 Apr 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 16 Apr 2011 (see cl. 2(b))
+Misuse of Drugs (Amounts of Prohibited Drugs) Order 2011 published in Gazette 29 Apr 2011 p. 1532-4 | cl. 1 and 2: 29 Apr 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 30 Apr 2011 (see cl. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
