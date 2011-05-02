@@ -11,6 +11,29 @@ Legal Profession Act 2008 s. 657 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Criminal Law Amendment (Homicide) Act 2008 s. 30 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Reprint 1: The Criminal Procedure Act 2004 as at 2 Jan 2009 (includes amendments listed above except those in the Bail Amendment Act 2008 and the Legal Profession Act 2008)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 10 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Juries Legislation Amendment Act 2011 Pt. 2 Div. 1 and Pt. 3 Div. 2 | 13 of 2011 | 2 May 2011 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Juries Legislation Amendment Act 2011 Pt. 2 Div. 1 and Pt. 3 Div. 2 had not come into operation. They read as follows:
+Part 2 — Amendments about peremptory challenges
+Division 1 — Criminal Procedure Act 2004 amended
+3.Act amended
+This Division amends the Criminal Procedure Act 2004.
+4.Section 104 amended
+(1) Delete section 104(3) and insert:
+(3) The prosecutor may challenge peremptorily —
+(a) if there is one accused, 3 jurors;
+(b) if there are 2 or more accused, the number of jurors equal to 3 times the number of accused, whether or not any of the accused consent to join in their challenges.
+(2) In section 104(4) delete “5 jurors” and insert:
+3 jurors
+Part 3 — Amendments about liability to serve as a juror and being excused
+Division 2 — Criminal Procedure Act 2004 amended
+37.Act amended
+This Division amends the Criminal Procedure Act 2004.
+38.Section 104 amended
+Delete section 104(5)(a) and insert:
+(a) that under the Juries Act 1957 section 5 the juror is not eligible or not qualified to serve as a juror; or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
