@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 October 2010 of the Criminal Code and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Criminal Code and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Code Act Compilation Act 1913 | 28 of 1913 (4 Geo. V No. 28) | 30 Dec 1913 | 1 Jan 1914 (see s. 1)
@@ -71,7 +71,7 @@ Criminal Law Amendment Act 1988 Pt. 2 (s. 3-33) | 70 of 1988 | 15 Dec 1988 | s. 
 Acts Amendment (Children’s Court) Act 1988 Pt. 4 | 49 of 1988 | 22 Dec 1988 | 1 Dec 1989 (see s. 2 and Gazette 24 Nov 1989 p. 4327)
 Law Reform (Decriminalization of Sodomy) Act 1989 Pt. 1 | 32 of 1989 | 19 Dec 1989 | 23 Mar 1990 (see s. 2 and Gazette 23 Mar 1990 p. 1469)
 Criminal Code Amendment (Racist harassment and incitement to racial hatred) Act 1990 | 33 of 1990 | 9 Oct 1990 | 6 Nov 1990
-Criminal Law Amendment Act 1990 Pt. 2 | 101 of 1990 | 20 Dec 1990 | s. 51: 20 Dec 1990 (see s. 2(2)); Pt. 2 other than s. 51: 14 Feb 1991 (see s. 2(1))
+Criminal Law Amendment Act 1990 Pt. 2 (s. 3-55) | 101 of 1990 | 20 Dec 1990 | s. 51: 20 Dec 1990 (see s. 2(2)); Pt. 2 other than s. 51: 14 Feb 1991 (see s. 2(1))
 Reprint of the Criminal Code Act Compilation Act 1913 as at 31 May 1991 (includes amendments listed above)
 Criminal Law Amendment Act 1991 | 37 of 1991 | 12 Dec 1991 | Act other than s. 4 and 7 and Pt. 4-5: 12 Dec 1991 (see s. 2(1)); s. 4 and 7 and Pt. 4-5: 10 Feb 1992 (see s. 2(2) and Gazette 31 Jan 1992 p. 477)
 Acts Amendment (Evidence) Act 1991 Pt. 3 | 48 of 1991 | 17 Dec 1991 | 31 Mar 1992 (see s. 2 and Gazette 24 Mar 1992 p. 1317)
@@ -133,7 +133,7 @@ Acts Amendment (Family and Domestic Violence) Act 2004 Pt. 4 | 38 of 2004 | 9 No
 Acts Amendment (Court of Appeal) Act 2004 s. 30 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Law Amendment (Sexual Assault and Other Matters) Act 2004 Pt. 2 | 46 of 2004 | 9 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 9 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-Criminal Law Amendment (Simple Offences) Act 2004 Pt. 2 | 70 of 2004 (as amended by No. 24 of 2005 s. 63; No. 2 of 2008 s. 76(2)) | 8 Dec 2004 | Pt. 2 other than s. 37 and 39: 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
+Criminal Law Amendment (Simple Offences) Act 2004 Pt. 2 (s. 3-39) | 70 of 2004 (as amended by No. 24 of 2005 s. 63; No. 2 of 2008 s. 76(2)) | 8 Dec 2004 | Pt. 2 other than s. 37 and 39: 31 May 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Criminal Code Amendment (Racial Vilification) Act 2004 | 80 of 2004 (as amended by No. 2 of 2008 s. 6(2), 7(2) and 8(2)) | 8 Dec 2004 | 8 Dec 2004 (see s. 2)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 5, s. 80 and 82 | 84 of 2004 (as amended by No. 2 of 2008 s. 78(7)) | 16 Dec 2004 | Pt. 5, s. 80 (Sch. 2 cl. 36 (the amendments to s. 17, 711 and 716)) and s. 82: 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 12: The Criminal Code Act Compilation Act 1913 as at 1 Jun 2005 (includes amendments listed above)
@@ -166,6 +166,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (Identity Crime) Act 2010 s. 3-5 | 16 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
+Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 | 10 of 2011 | 2 May 2011 | To be proclaimed (see s. 2(b))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -280,6 +281,40 @@ victim, of an identity offence, means a person whose identification material has
 (5) A certificate issued under this section is, in the absence of evidence to the contrary, evidence of its contents.
 (6) A court, for good reason and either on its own initiative or on an application made by the prosecutor, may cancel a certificate it has issued under this section.
 (7) The Governor may make regulations providing for any matter to be set out in certificates issued under this section.
+On the date as at which this compilation was prepared, the Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 had not come into operation. They read as follows:
+3.The Criminal Code amended
+This Act amends The Criminal Code.
+4.Chapter LXXIII inserted
+At the beginning of Part VIII insert:
+Chapter LXXIII — Infringement notices
+720.Term used: CP Act
+In this Chapter —
+CP Act means the Criminal Procedure Act 2004.
+721.Regulations to allow infringement notices to be issued for Code offences
+(1) This Code is taken to be a prescribed Act for the purposes of the CP Act Part 2.
+(2) The Governor may make regulations under this Code prescribing all matters that may or must be prescribed under the CP Act Part 2 to enable the CP Act Part 2 to apply to and in relation to offences under this Code.
+(3) Regulations made under subsection (2) —
+(a) may, despite the CP Act section 5(2), prescribe any offence under this Code to be a prescribed offence for Part 2 of the CP Act; and
+(b) may prescribe classes of person to whom an infringement notice cannot be issued for an alleged offence under this Code; and
+(c) may prescribe circumstances in which an infringement notice cannot be issued for an alleged offence under this Code.
+722.Alleged offenders taken to be charged suspects for purposes of Criminal Investigation (Identifying People) Act 2002
+If under the CP Act an infringement notice is issued to an alleged offender for an alleged offence under this Code, then —
+(a) for the purposes of the Criminal Investigation (Identifying People) Act 2002 Part 7 and section 67 the alleged offender is taken —
+(i) to be a charged suspect; and
+(ii) to have been charged with the alleged offence;
+and
+(b) without limiting the operation of section 67 of that Act, identifying information obtained under Part 7 of that Act from the alleged offender must be destroyed if —
+(i) the alleged offender pays the modified penalty prescribed for the offence; and
+(ii) destruction is requested under section 69 of that Act by or on behalf of the alleged offender;
+and
+(c) that Act, with any necessary changes, applies accordingly.
+723.Monitoring of Chapter by Ombudsman
+(1) For the period of 12 months after the commencement of this section, the Ombudsman is to keep under scrutiny the operation of the provisions of this Chapter and the regulations made under this Chapter and the Criminal Investigation (Identifying People) Act 2002 Part 7 and section 67.
+(2) The scrutiny referred to in subsection (1) is to include review of the impact of the operation of the provisions referred to in that subsection on Aboriginal and Torres Strait Islander communities.
+(3) For that purpose, the Ombudsman may require the Commissioner of Police or any public authority to provide information about police or the public authority’s participation in the operation of the provisions referred to in subsection (1).
+(4) The Ombudsman must, as soon as practicable after the expiration of that 12 month period, prepare a report on the Ombudsman’s work and activities under this section and furnish a copy of the report to the Minister for Police and the Commissioner of Police.
+(5) The Ombudsman may identify, and include recommendations in the report to be considered by the Minister about, amendments that might appropriately be made to this Act with respect to the operation of the provisions referred to in subsection (1).
+(6) The Minister is to lay (or cause to be laid) a copy of the report furnished to the Minister under this section before both Houses of Parliament as soon as practicable after the Minister receives the report.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
