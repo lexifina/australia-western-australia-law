@@ -121,6 +121,10 @@ Police Amendment Act 2009 Pt. 2 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 
 Reprint 14: The Police Act 1892 as at 16 Apr 2010 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 42(3), 43(2), 44(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 14 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Police Amendment Act 2011 s. 3-5 | 12 of 2011 | 2 May 2011 | To be proclaimed (see s. 2(b))
 Part IIIA commenced 1 Apr 2008.
 Now known as the Police Act 1892; short title changed (see note under s. 3).
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973 s. 3.
@@ -144,9 +148,118 @@ repeal day means the day on which section 64 comes into operation.
 (1) In this section —
 repeal day means the day on which section 65 comes into operation.
 (2) If immediately before repeal day any property is subject to an embargo notice granted under the Police Act 1892 section 90B, whether the property was seized under Part V of that Act or under an Act that refers to that section, then on and after repeal day sections 90B and 90C of that Act apply to and in respect of the notice as if they had not been repealed.
-Defined Terms
+On the date as at which this compilation was prepared, the Police Amendment Act 2011 s. 3-5 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Police Act 1892.
+4.Part IVB inserted
+After section 39C insert:
+Part IVB — Charging for services at major events
+39D.Purpose of this Part
+The purpose of this Part is to empower the Commissioner of Police to charge on a cost-recovery basis for the attendance of police officers at major sporting or entertainment events where that attendance is requested by the promoter or organiser of the event.
+39E.Terms used
+In this Part —
+charitable organisation means —
+(a)a public benevolent or religious institution;
+(b)a public hospital or a hospital carried on by an association or other body of persons otherwise than for purposes of profit or gain to the individual members of that association or body;
+(c)a university;
+(d)a government college, a government school, or a college or school carried on by an association or other body of persons otherwise than for purposes of profit or gain to the individual members of that association or body;
+(e)a trust the moneys of which may be applied only for charitable purposes;
+(f)an institution established for any other charitable purpose;
+(g)a society, institution or organisation established, and carried on, solely for the purpose of raising money for, or otherwise promoting the interests of, an entity that is a charitable organisation under any of paragraphs (a) to (f);
+Department has the same meaning as in section 39A;
+event —
+(a)means an event of a sporting or entertainment nature (whether it takes place wholly or partly in a public place or on private property), where —
+(i)a charge is made for admission to the event or to participate in the event; or
+(ii)the event is run for commercial gain; or
+(iii)the event is promoted, advertised or sponsored under a commercial arrangement;
+but
+(b)does not include —
+(i)an event run wholly or mainly for a charitable purpose as defined in the Charitable Collections Act 1946 section 5; or
+(ii)an event run by or for the benefit of a charitable organisation; or
+(iii)a public event that celebrates or commemorates a day of national or local significance (for example, an Australia Day public fireworks display, or an ANZAC Day parade); or
+(iv)an event run for the benefit of a local community (for example, a street fair); or
+(v)a government-sponsored event exempted by the Minister under section 39H; or
+(vi)any other event or class of event exempted from this Part by regulations made under this Act;
+government-sponsored event means an event sponsored by a local government or a regional local government or the State or the Commonwealth;
+major event has the meaning given in section 39F;
+police services, in relation to an event, means the attendance of police officers at the event in order to do any of the following —
+(a)keep order;
+(b)provide an immediate emergency management capability;
+(c)provide traffic management in the immediate vicinity of the event.
+39F.Term used: major event
+In this Part —
+major event means an event —
+(a)that is reasonably expected by the promoter or organiser, or the Commissioner of Police, to attract at least 5 000 attendees or participants; or
+(b)for which the Commissioner of Police reasonably considers it necessary or desirable to assign at least 10 police officers to provide police services.
+39G.Providing and charging for services at major events
+(1) If the promoter or organiser of an event requests the Commissioner of Police to provide police services for that event, the Commissioner may charge the promoter or organiser for providing those services if the event is a major event.
+(2) The amount that the Commissioner may charge is to be determined in accordance with regulations made under section 138A.
+(3) For the avoidance of doubt —
+(a) this Part does not impose an obligation on the Commissioner of Police to provide police services for a major event; and
+(b) the Commissioner is the final judge of the number of police officers required to provide police services for an event, but that does not lessen or limit any obligation that the Commissioner has —
+(i) to consult on the matter with the promoter or organiser of the event; and
+(ii) to have regard to the current charging policy published under section 39L;
+and
+(c) the fact that the Commissioner has agreed to provide police services for a major event does not limit the ability of the Commissioner to redeploy any police officer for another purpose that the Commissioner considers has a higher operational priority (of which the Commissioner is the sole judge).
+(4) If the Commissioner decides to charge a person for providing police services for an event, that person may apply to the State Administrative Tribunal for a review of the decision on the ground that what the person is promoting or organising is not an event as defined in section 39E.
+39H.Minister may exempt government-sponsored events
+(1) The Minister may, by notice published in the Gazette, exempt a government-sponsored event from the imposition of a charge under this Part if the Minister is satisfied that the event —
+(a) will provide significant economic benefits to the State; or
+(b) will provide significant publicity for the State through media coverage of the event; or
+(c) will contribute significantly to the State’s national or international profile as a host of sporting, entertainment or other events.
+(2) The Minister may, by notice published in the Gazette, cancel or vary a notice given under this section.
+39I.Regulations prescribing amounts chargeable for police services at major events
+(1) Without limiting section 138A, regulations may be made under that section prescribing the amounts chargeable for the provision of police services under this Part or the method of calculating those amounts.
+(2) The amounts, or the method of calculating the amounts, are to be prescribed on a cost-recovery basis, and (to avoid doubt) both the costs of the Police Force and the costs of the Department may be recovered.
+(3) Without limiting subsection (2), the costs that may be recovered include the following —
+(a) the personnel costs associated with the time spent by a police officer in planning the deployment of police officers for an event;
+(b) the personnel costs associated with the police officers who attend an event to provide police services;
+(c) the overhead expenses associated with the provision of police services for an event.
+(4) For the purpose of determining the personnel costs of police officers attending an event, the regulations may prescribe or provide for —
+(a) different hourly rates for police officers of different ranks; or
+(b) a standard hourly rate for a police officer regardless of rank, and (without limitation) the standard hourly rate may be an average of the hourly rates of the police officers of various ranks who would normally be required to attend a major event.
+(5) The regulations may specify or provide for the payment of a minimum amount to recover costs unavoidably incurred by the Police Force or the Department where —
+(a) an event is cancelled or postponed or runs for a shorter period than expected; or
+(b) the number of police officers assigned to provide police services for an event is reduced at short notice at the request of the promoter or organiser of the event, and in that case the minimum amount applies even though the number of police officers who attend the event is fewer than the minimum number referred to in paragraph (b) of the definition of major event in section 39F.
+39J.Recovery of amounts payable
+The Commissioner of Police may recover, in any court of competent jurisdiction, as a debt due to the State, any amount due and owing under this Part in respect of the provision of police services.
+39K.Power to waive or refund amounts payable
+The Commissioner of Police may reduce, waive or refund the whole or any part of any amount payable under this Part where the Commissioner considers it appropriate to do so.
+39L.Commissioner of Police to publish charging policy
+(1) The Commissioner of Police must prepare and maintain a document setting out the policy that the Commissioner intends to follow in exercising the Commissioner’s functions under this Part.
+(2) The policy must not be inconsistent with this Part or the regulations.
+(3) The policy —
+(a) must set out the following —
+(i) the matters that the Commissioner will take into account in determining (after consultation with the promoter or organiser of an event) the number of police officers who will provide police services for the event (which matters may be included in a risk assessment process set out in the policy);
+(ii) the circumstances in which the Commissioner may consider reducing, refunding or waiving amounts in accordance with section 39K;
+and
+(b) may include any other matters the Commissioner considers appropriate.
+(4) The Commissioner may amend or replace the policy from time to time.
+(5) The Commissioner must make the current policy publicly available.
+39M.Delegation by Commissioner of Police
+(1) The Commissioner of Police may delegate any power or duty of the Commissioner of Police under this Part to a specified police officer or police officers of a specified class.
+(2) A delegate must be a police officer who —
+(a) is, or is acting as, an inspector or an officer of a rank more senior than an inspector; or
+(b) is the officer in charge of a police station.
+(3) The delegation must be in writing signed by the Commissioner.
+(4) A police officer to whom a power or duty is delegated under this section cannot delegate that power or duty.
+39N.Review of Part IVB
+(1) In this section —
+commencement day means the day on which the Police Amendment Act 2011 section 4 comes into operation.
+(2) The Minister is to carry out a review of the operation and effectiveness of this Part as soon as is practicable after the expiration of 36 months after the commencement day, and in the course of that review the Minister is to consider and have regard to —
+(a) the effectiveness of this Part; and
+(b) the need for the retention of this Part; and
+(c) any other matters that appear to the Minister to be relevant to the operation and effectiveness of this Part.
+(3) The Minister is to prepare a report based on the review and, as soon as is practicable after the report is prepared, cause it to be laid before each House of Parliament.
+5.Section 138AA inserted
+After section 138 insert:
+138AA.Application of Financial Management Act 2006 and Auditor General Act 2006 to moneys received by Commissioner
+(1) In this section —
+Department has the same meaning as in section 39A.
+(2) For the purposes of the Financial Management Act 2006 and the Auditor General Act 2006, moneys received by the Commissioner of Police under this Act or another written law are moneys received by the Department.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Account39A
 APLO38A
 appellant33K
@@ -171,6 +284,6 @@ removal from office33K
 Senior Commissioner33K
 special constable34
 the claimant138(1)
-the defendant138(1)(a) and (b)
+the defendant138(1), 138(1)
 Treasury39A
 WAIRC33K
