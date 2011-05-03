@@ -10,5 +10,6 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Reprint 1: The Hope Valley-Wattleup Redevelopment Act 2000 as at 1 Sep 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 32 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
+Hope Valley-Wattleup Redevelopment Amendment Act 2011 | 8 of 2011 | 2 May 2011 | s. 1 and 2: 2 May 2011 (see s. 2(a)); Act other than s. 1 and 2: 3 May 2011 (see s. 2(b))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
