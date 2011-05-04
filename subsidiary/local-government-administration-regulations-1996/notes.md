@@ -15,6 +15,7 @@ Local Government (Administration) Amendment Regulations (No. 4) 2005 | 19 Aug 20
 Reprint 2: The Local Government (Administration) Regulations 1996 as at 17 Nov 2006 (includes amendments listed above)
 Local Government (Administration) Amendment Regulations 2007 | 21 Aug 2007 p. 4189-93 | r. 1 and 2: 21 Aug 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Oct 2007 (see r. 2(b) and Gazette 21 Aug 2007 p. 4173)
 Local Government (Administration) Amendment Regulations 2009 | 20 Nov 2009 p. 4660-1 | r. 1 and 2: 20 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Nov 2009 (see r. 2(b) and Gazette 20 Nov 2009 p. 4649)
+Local Government (Administration) Amendment Regulations 2011 | 3 May 2011 p. 1593-7 | r. 1 and 2: 3 May 2011 (see r. 2(a)); r. 7: 4 May 2011 (see r. 2(b) and Gazette 3 May 2011 p. 1577); Regulations other than r. 1, 2 and 7: 4 May 2011 (see r. 2(c))
 The Local Government (Administration) Amendment Regulations 2005 r. 15 reads as follows:
 “
 15.Increased minimum fees and allowances not mandatory until 1 July 2005
