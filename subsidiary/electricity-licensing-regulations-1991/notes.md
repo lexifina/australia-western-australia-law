@@ -32,6 +32,7 @@ Electricity (Licensing) Amendment Regulations (No. 5) 2009 | 1 Sep 2009 p. 3394-
 Electricity (Licensing) Amendment Regulations 2010 | 25 Jun 2010 p. 2864-5 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Reprint 5: The Electricity (Licensing) Regulations 1991 as at 1 Oct 2010 (includes amendments listed above)
 Public Sector Reform (Consequential Amendments) Regulations 2011 Pt. 2 | 11 Feb 2011 p. 502-7 | 12 Feb 2011 (see r. 2(d))
+Electricity (Licensing) Amendment Regulations 2011 | 10 May 2011 p. 1666-7 | r. 1 and 2: 10 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 11 May 2011 (see r. 2(b))
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
 Repealed by the Training Legislation Amendment and Repeal Act 2008 s. 50
 The Training Legislation Amendment and Repeal Act 2008 Pt. 2 came into operation 10 June 2009.
@@ -58,7 +59,7 @@ electrical equipment3(1)
 electrical fitting work3(1)
 electrical installation3(1)
 electrical installing work3(1)
-electrical work3(1)
+electrical work3(1), 4A
 electrical worker3(1)
 electrical worker in training50AA(1), 53(4)
 electrical worker’s licence3(1)
