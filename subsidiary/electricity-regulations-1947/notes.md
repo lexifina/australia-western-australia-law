@@ -58,6 +58,7 @@ Electricity Amendment Regulations (No. 3) 2009 | 27 Oct 2009 p. 4211-13 | r. 1 a
 Reprint 5: The Electricity Regulations 1947 as at 19 Feb 2010 (includes amendments listed above)
 Electricity Amendment Regulations (No. 5) 2009 | 5 Mar 2010 p. 841-2 | r. 1 and 2: 5 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Mar 2010 (see r. 2(b))
 Electricity Amendment Regulations 2010 | 31 Dec 2010 p. 6888-92 | r. 1 and 2: 31 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
+Electricity Amendment Regulations (No. 3) 2010 | 10 May 2011 p. 1662-6 | r. 1 and 2: 10 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 11 May 2011 (see r. 2(b))
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Electricity Regulations 1947; citation changed (see note under r. 1).
 Regulations 180 and 278 disallowed on 24 Sep 1947, see Gazette 5 Dec 1947 p. 2209.
@@ -67,6 +68,7 @@ Regulations 113, 117-19, 123, 124, 129-32, 138, 139 and 142 disallowed on 21 Sep
 Regulation 278 disallowed on 22 Sep 1948, see Gazette 1 Oct 1948 p. 2375 and 25 Feb 1949 p. 340.
 The commencement date of 1 Jun 1979 that was specified was before the date of gazettal.
 The headings before r. 238-277, 279 and 321-341 were deleted by the Electricity Amendment Regulations 2000, see Gazette 30 May 2000 p. 2571-2.
+The amendment in the Electricity Amendment Regulations (No. 2) 2007 r. 3 is not included because the regulation it sought to amend had been deleted before the amendment purported to come into operation.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -81,11 +83,18 @@ commencement day12
 common property12
 conductors316A(5)(a)
 duly constituted authority in another State of the Commonwealth321
+inspection plan242(1A)
 installed12
+new owner12
+notice of completion242(1A)
+notice of intended demolition12
 network241(2)
 network operator241(1) and (3)
 occupied by an owner12
 overhead power lines316A(5)(a)
+post-transfer period15A
+prior owner12
 published specification321
 residential premises12
 residential tenancy agreement12
+transferred residential premises12
