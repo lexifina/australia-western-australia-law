@@ -1,21 +1,21 @@
 Notes
-This is a compilation of the Classification (Publications, Films and Computer Games) Enforcement Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 13 May 2011 of the Classification (Publications, Films and Computer Games) Enforcement Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Censorship Act 1996 | 40 of 1996 | 10 Oct 1996 | 5 Nov 1996 (see s. 2 and Gazette 5 Nov 1996 p. 5845)
-Censorship Amendment Act 2003 | 30 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
+Censorship Act 1996 | 40 of 1996 | 10 Oct 1996 | s. 1 and 2: 10 Oct 1996; Act other than s. 1 and 2: 5 Nov 1996 (see s. 2 and Gazette 5 Nov 1996 p. 5845)
+Censorship Amendment Act 2003 | 30 of 2003 | 26 May 2003 | s. 1 and 2: 26 May 2003; Act other than s. 1 and 2: 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
 Reprint 1: The Censorship Act 1996 as at 28 Nov 2003 (includes amendments listed above)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Censorship Amendment Act 2006 | 10 of 2006 | 8 May 2006 | Pt. 4 and Sch. 2: 26 May 2005 (see s. 2(3)); Act other than Pt. 4 and Sch. 2: 10 Jun 2006 (see s. 2 and Gazette 9 Jun 2006 p. 2029)
 Reprint 2: The Classification (Publications, Films and Computer Games) Enforcement Act 1996 as at 21 Jul 2006 (includes amendments listed above)
-Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 Pt. 2 Div. 2, Pt 3 and 4 | 21 of 2010 | 7 Jul 2010 | 28 Aug 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
+Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 Pt. 2 Div. 2, Pt. 3 and 4 | 21 of 2010 | 7 Jul 2010 | 28 Aug 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
+Reprint 3: The Classification (Publications, Films and Computer Games) Enforcement Act 1996 as at 13 May 2011 (includes amendments listed above)
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 Repealed by s. 153 of this Act.
 The amendment in the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 16 is not included because the section it sought to amend had been repealed by the Censorship Amendment Act 2003 s. 35 before the amendment purported to come into operation.
 Now known as the Classification (Publications, Films and Computer Games) Enforcement Act 1996; short title changed (see note under s. 1).
 The Censorship Amendment Act 2003 s. 45-49 read as follows:
-“
 45.Transitional and savings provisions: publications
 (1) A publication that —
 (a) has been classified Unrestricted under the Censorship Act 1996; and
@@ -61,14 +61,10 @@ is taken to have been so approved or refused approval under the Commonwealth Act
 (2) Sections 102E and 102F of the Censorship Act 1996, as inserted by section 22 of this Act, apply to a publication, film or computer game whether published before or after the commencement of section 22 of this Act.
 49.Transitional: offences
 Section 141A of the Censorship Act 1996 as amended by this Act applies in relation to proceedings for offences commenced after the commencement of section 38 of this Act whether the offences were committed before or after the commencement of section 38.
-”.
 The Censorship Amendment Act 2006 s. 36, which gives effect to Sch. 2, reads as follows:
-“
 36.Transitional
 Schedule 2 sets out transitional provisions.
-”.
 Schedule 2 reads as follows:
-“
 Schedule 2 — Transitional
 [s. 36]
 1.Transitional provisions for films and advertisements with older ratings
@@ -88,9 +84,70 @@ Column 1 Item | Column 2 Former type of classification | Column 3 New type of cl
 1 | G (8+) | PG
 2 | M (15+) | M
 3 | MA (15+) | MA 15+
-”.
 The Censorship Amendment Act 2006 s. 4(3) and (4) read as follows:
-“
 (3) A reference in any Act or regulation to the “Censorship Act 1996” shall, unless the context otherwise requires, be read and construed as a reference to the Classification (Publications, Films and Computer Games) Enforcement Act 1996.
 (4) The reference in the Community Protection (Offender Reporting) Act 2004 Schedule 2 or the Working with Children (Criminal Record Checking) Act 2004 Schedule 2 to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 is taken to include, and always to have included, a reference to the Censorship Act 1996.
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+acceptable proof of age3
+adult3
+advertisement3
+advertising scheme3
+approved advertisement3
+approved form3, 97A(4), 133(4)
+article3
+authorised person3
+Board3
+business day3
+buy3
+classification certificate3
+classified3
+code of practice99
+commencement144
+Commonwealth Act3
+Commonwealth Gazette3
+computer game3
+computer service99
+consumer advice3
+contentious material3
+Convenor3
+demonstrate3
+Deputy Director3
+designated person117C
+determined markings3
+Director3
+exempt computer game3
+exempt film3
+exhibit3
+feature film92(1), 94(1)
+film3
+former Act146(1), 147(1), 148(1)
+illegal advertisement96(2)
+international flight3
+international voyage3
+lawfully seized117(9)
+main game95(1)
+minor3
+objectionable material99
+Ordinance149(1)
+place3
+plain64(5)
+prescribed period117A(8), 141A(8)
+products117A(8)
+public place3
+publication3
+publish3
+registered person3
+registered premises3
+Registrar3
+restricted material99
+Review Board3
+seized copies117A(1)(c)
+seized products117A(1)(a)
+sell3
+sound recording3
+submittable publication3
+transitional Commonwealth regulation152A(2)
+unapproved advertisement90(2)
+By Authority: JOHN A. STRIJK, Government Printer
