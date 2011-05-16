@@ -45,7 +45,8 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 87 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
  | Local Government Amendment (Elections) Act 2009 | 15 of 2009 | 17 Aug 2009 | s. 1 and 2: 17 Aug 2009 (see s. 2(a)); Act other than s. 1 and 2: 29 Aug 2009 (see s. 2(b) and Gazette 28 Aug 2009 p. 3347)
  | Local Government Amendment Act 2009 | 17 of 2009 | 16 Sep 2009 | s. 1 and 2: 16 Sep 2009 (see s. 2(a)); Act other than s. 1, 2 and 34: 21 Nov 2009 (see s. 2(b) and Gazette 20 Nov 2009 p. 4649); s. 34: 4 May 2011 (see s. 2(b) and Gazette 3 May 2011 p. 1577)
- | Reprint 5: The Local Government Act 1995 as at 5 Feb 2010 (includes amendments listed above)
+ | Co-operatives Act 2009 s. 506 | 24 of 2009 | 22 Oct 2009 | 16 May 2011 (see s. 2(d) and Gazette 24 Jun 2011 p. 2516)
+ | Reprint 5: The Local Government Act 1995 as at 5 Feb 2010 (includes amendments listed above except those in the Local Government Amendment Act 2009 s. 34 and the Co-operatives Act 2009)
  | Standardisation of Formatting Act 2010 s. 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 34 and Pt. 5 Div 2 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
  | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
@@ -53,7 +54,7 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Co-operatives Act 2009 s. 506 and 516 | 24 of 2009 | 22 Oct 2009 | s. 506: operative on the day Co-operative Bulk Handling Limited becomes registered under this Act (see s. 2(d)); s. 516: 1 Sep 2012 (see s. 2(c)) and Gazette 13 Aug 2010 p. 3975)
+Co-operatives Act 2009 s. 516 | 24 of 2009 | 22 Oct 2009 | s. 516: 1 Sep 2012 (see s. 2(c)) and Gazette 13 Aug 2010 p. 3975)
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -231,13 +232,7 @@ the LG Act means the Local Government Act 1995.
 (3) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.78 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.78.
 References to the Executive Director were replaced by references to the Departmental CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 506 and 516 had not come into operation. They read as follows:
-506.Local Government Act 1995 amended
-(1) This section amends the Local Government Act 1995.
-(2) In section 6.26(2)(i) delete “company” (each occurrence) and insert:
-co-operative
-(3) In section 6.26(3) delete “company” and insert:
-co-operative
+On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 516 had not come into operation. They read as follows:
 516.Local Government Act 1995 amended
 (1) This section amends the Local Government Act 1995.
 (2) In section 5.74 in the definition of corporation:
