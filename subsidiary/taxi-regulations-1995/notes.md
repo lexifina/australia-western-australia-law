@@ -29,9 +29,21 @@ Taxi Amendment Regulations 2007 | 12 Jun 2007 p. 2738-9 | 1 Jul 2007 (see r. 2)
 Taxi Amendment Regulations 2008 | 7 Mar 2008 p. 750 | r. 1 and 2: 7 Mar 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Mar 2008 (see r. 2(b))
 Taxi Amendment Regulations 2009 | 24 Apr 2009 p. 1387 | r. 1 and 2: 24 Apr 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Apr 2009 (see r. 2(b))
 Taxi Amendment Regulations (No. 2) 2009 | 29 Sep 2009 p. 3854 | r. 1 and 2: 29 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Sep 2009 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Taxi Amendment Regulations (No. 2) 2011 r. 3-4 | 17 May 2011 p. 1825 | 1 Jul 2011 (see r. 2(b))
 Plans of the former Department of Land Administration are now held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 Now cited as the Local Government (Miscellaneous Provisions) Act 1960.
 Under the Public Sector Management Act 1994 departments can be established and named. At the time this compilation was prepared, the designation of the department known as the Department of Justice had been altered to the Department of the Attorney General and the Department of Corrective Services is established.
 Now known as the registrar of the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
+On the date as at which this compilation was prepared, the Taxi Amendment Regulations (No. 2) 2011 r. 3-4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Taxi Regulations 1995.
+4.Regulation 19 amended
+(1) In regulation 19(3a) delete “$100.” and insert:
+$103.
+(2) Delete regulation 19(4) and insert:
+(4) The charge payable for the issue of taxi plates or the issue of replacements for lost, damaged or stolen taxi plates is $33.50.
