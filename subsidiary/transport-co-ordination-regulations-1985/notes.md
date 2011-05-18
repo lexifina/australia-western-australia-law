@@ -23,6 +23,7 @@ Transport Co-ordination Amendment Regulations (No. 2) 2008 | 1 Jul 2008 p. 3159-
 Transport Co-ordination Amendment Regulations 2009 | 30 Jun 2009 p. 2661-2 | r. 1 and 2: 30 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 3: The Transport Co-ordination Regulations 1985 as at 20 Nov 2009 (includes amendments listed above)
 Transport Co-ordination Amendment Regulations 2010 | 18 Jun 2010 p. 2697-8 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+Transport Co-ordination Amendment Regulations 2011 | 17 May 2011 p. 1827 | r. 1 and 2: 17 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 18 May 2011 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2), a reference in a written law to the clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the registrar of the Magistrates Court. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Defined Terms
