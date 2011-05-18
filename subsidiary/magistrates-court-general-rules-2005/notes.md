@@ -11,7 +11,7 @@ Magistrates Court (General) Amendment (Road Traffic) Rules 2008 | 23 May 2008 p.
 Magistrates Court (General) Amendment Rules (No. 2) 2008 | 3 Oct 2008 p. 4485-7 | r. 1 and 2: 3 Oct 2008 (see r. 2(a)); Rules other than r. 1 and 2: 4 Oct 2008 (see r. 2(b))
 Reprint 1: The Magistrates Court (General) Rules 2005 as at 13 Feb 2009 (includes amendments listed above)
 Magistrates Court (General) Amendment Rules 2010 | 7 Jan 2011 p. 51-2 | r. 1 and 2: 7 Jan 2011 (see r. 2(a)); Rules other than r. 1 and 2: 8 Jan 2011 (see r. 2(b))
-Magistrates Court (General) Amendment Rules 2011 r. 1 and 2 | 15 Feb 2011 p. 536-8 | 15 Feb 2011 (see r. 2(a))
+Magistrates Court (General) Amendment Rules (No. 2) 2011 | 17 May 2011 p. 1823 | r. 1 and 2: 17 May 2011 (see r. 2(a)); Rules other than r. 1 and 2: 18 May 2011 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
@@ -47,6 +47,7 @@ Act3, 47
 approved form3
 approved recipient41A(1)
 contempt29
+civil case28B
 CPA3
 defendant29
 Director General50
