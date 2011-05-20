@@ -146,7 +146,7 @@ Under the Cross-border Justice Act 2008 section 14, in order to give effect to t
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 5, 11, 12, 14 and 15 | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
+Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 5, 11, 12, 14 and 15 | 51 of 2010 | 8 Dec 2010 | s. 12 (other than 12(2)(c), (5)(d) and (7)(b): 4 Jul 2011 (see s. 2(c) and Gazette 20 May 2011p. 1837)); Balance: To be proclaimed (see s. 2(c))
 Repealed by the Interpretation Act 1984.
 Section 111(2)(f) of this Act has been deleted.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
