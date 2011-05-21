@@ -1,3 +1,3 @@
 Western Australia
 Health and Disability Services (Complaints) Act 1995
-Health Services (Conciliation and Review) Regulations 2010
+Health and Disability Services (Complaints) Regulations 2010
