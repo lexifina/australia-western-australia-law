@@ -13,3 +13,4 @@ Reprint of the W.A. Marine (Load Lines) Regulations 1983 as at 18 May 2001 (incl
 W.A. Marine (Load Lines) Amendment Regulations 2008 | 24 Oct 2008 p. 4677-8 | r. 1 and 2: 24 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Oct 2008 (see r. 2(b))
 W.A. Marine Amendment Regulations 2009 Pt. 8 | 11 Dec 2009 p. 5087-109 | 12 Dec 2009 (see r. 2(b))
 W.A. Marine (Load Lines) Amendment Regulations 2010 | 4 Jun 2010 p. 2474 | r. 1 and 2: 4 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+W.A. Marine (Load Lines) Amendment Regulations 2011 | 20 May 2011 p. 1851-2 | r. 1 and 2: 20 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 21 May 2011 (see r. 2(b))
