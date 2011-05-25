@@ -147,6 +147,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 5, 11, 12, 14 and 15 | 51 of 2010 | 8 Dec 2010 | s. 12 (other than 12(2)(c), (5)(d) and (7)(b): 4 Jul 2011 (see s. 2(c) and Gazette 20 May 2011p. 1837)); Balance: To be proclaimed (see s. 2(c))
+Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 2 | 14 of 2011 | 25 May 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 Section 111(2)(f) of this Act has been deleted.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
@@ -382,6 +383,163 @@ election.
 15.Section 106A amended
 After section 106A(2) insert:
 (3) Despite subsection (2), a period for which the court must, in accordance with subsection (1), disqualify an offender for an offence is to be reduced by any period during which the offender was disqualified by a disqualification notice given to the offender under section 71C in relation to the offence.
+On the date as at which this compilation was prepared, the Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Road Traffic Act 1974 amended
+3.Act amended
+This Part amends the Road Traffic Act 1974.
+4.Section 42C amended
+In section 42C(1) delete “97(b)” and insert:
+97(2)(b)
+5.Section 63 amended
+(1) In section 63(2):
+(a) in paragraph (a)(ii) delete “16 PU” and insert:
+18 PU
+(b) in paragraph (a)(ii) delete “6 months;” and insert:
+10 months;
+(c) in paragraph (b) delete “30 PU” and insert:
+42 PU
+(d) in paragraph (b) delete “2 years; and” and insert:
+30 months; and
+(e) in paragraph (c) delete “40 PU” and insert:
+42 PU
+(2) Delete section 63(6) and insert:
+(6) A person charged with an offence against this section may, instead of being convicted of that offence, be convicted of —
+(a) an offence against section 64, 64AA, 64AB or 64AC; or
+(b) an offence against section 64A(1) or 64AAA(1) if, at the time of the alleged offence, the person was a person to whom section 64A(1) applied; or
+(c) an offence against section 64A(4) or 64AAA(2) if, at the time of the alleged offence, the motor vehicle concerned was a motor vehicle to which section 64A(4) applied.
+6.Section 64 amended
+(1) In section 64(2) delete the Table and the note after it and insert:
+Table
+Blood alcohol content (g/100ml) |  | First offence | Second offence | Subsequent offence
+≥ 0.08 but < 0.09 | Min: Max: Disq: | 10 PU 30 PU 6 months | 12 PU 30 PU 8 months | 12 PU 30 PU 10 months
+≥ 0.09 but < 0.11 | Min: Max: Disq: | 11 PU 30 PU 7 months | 18 PU 30 PU 10 months | 18 PU 30 PU 13 months
+≥ 0.11 but < 0.13 | Min: Max: Disq: | 13 PU 30 PU 8 months | 24 PU 40 PU 14 months | 24 PU 40 PU 17 months
+≥ 0.13 | Min: Max: Disq: | 15 PU 30 PU 9 months | 32 PU 50 PU 18 months | 32 PU 60 PU 30 months
+Note:≥ signifies of or above
+< signifies less than
+(2) Delete section 64(4) and insert:
+(4) A person charged with an offence against this section may, instead of being convicted of that offence, be convicted of —
+(a) an offence against section 64AA; or
+(b) an offence against section 64A(1) or 64AAA(1) if, at the time of the alleged offence, the person was a person to whom section 64A(1) applied; or
+(c) an offence against section 64A(4) or 64AAA(2) if, at the time of the alleged offence, the motor vehicle concerned was a motor vehicle to which section 64A(4) applied.
+7.Section 64AA amended
+(1) In section 64AA(2) delete “4 PU.” and insert:
+10 PU.
+(2) In section 64AA(2a) delete the Table and the note after it and insert:
+Table
+Blood alcohol content (g/100ml) |  | Second offence | Subsequent offence
+≥ 0.05 but < 0.07 | Min: Max: Disq: | 10 PU 20 PU 6 months | 10 PU 20 PU 8 months
+≥ 0.07 | Min: Max: Disq: | 12 PU 20 PU 8 months | 12 PU 20 PU 10 months
+Note:≥ signifies of or above
+< signifies less than
+(3) Delete section 64AA(3) and insert:
+(3) A person charged with an offence against this section may, instead of being convicted of that offence, be convicted of —
+(a) an offence against section 64A(1) or 64AAA(1) if, at the time of the alleged offence, the person was a person to whom section 64A(1) applied; or
+(b) an offence against section 64A(4) or 64AAA(2) if, at the time of the alleged offence, the motor vehicle concerned was a motor vehicle to which section 64A(4) applied.
+8.Section 64A amended
+(1) In section 64A(1) in the Penalty delete “2 PU” and insert:
+3 PU
+(2) Delete section 64A(2)(a) and (b) and insert:
+(a) is a novice driver as defined in section 104(2); or
+(3) Delete section 64A(4) and insert:
+(4) A person who drives or attempts to drive a motor vehicle to which this subsection applies while having a blood alcohol content of or above 0.02g of alcohol per 100ml of blood commits an offence.
+Penalty: not less than 3 PU or more than 6 PU; and, in any event, the court convicting a person shall order that the person be disqualified from holding or obtaining a driver’s licence for a period of not less than 3 months.
+(4A) Subsection (4) does not apply to a person who drives or attempts to drive a motor vehicle described in subsection (5)(a) or (d) if the person —
+(a) is a person of a class prescribed by the regulations for the purposes of this paragraph; and
+(b) is driving or attempting to drive the vehicle in the course of responding to an incident as defined in the Fire and Emergency Services Authority of Western Australia Act 1998 section 3.
+(5) Subsection (4) applies to a motor vehicle —
+(a) that is equipped to seat more than 12 adult persons (including the driver), if, at the relevant time, the vehicle is carrying passengers, whether or not the passengers are being carried for hire or reward; or
+(b) that is an omnibus as defined in the Transport Co-ordination Act 1966 section 4(1), but is not a vehicle referred to in paragraph (a), if, at the relevant time, the vehicle is carrying passengers for hire or reward; or
+(c) on which taxi plates issued under the Taxi Act 1994 are being used, or in respect of which a taxi-car licence has been issued under the Transport Co-ordination Act 1966 Part IIIB, if, at the relevant time, the vehicle is carrying passengers for hire or reward; or
+(d) that has a gross combination mass exceeding 22.5 tonnes; or
+(e) that is of a class prescribed by the regulations for the purposes of this paragraph, if, at the relevant time, the vehicle is being used to transport dangerous goods as defined in the Dangerous Goods Safety Act 2004 section 3(1).
+(6) For the purposes of subsection (5)(d) —
+gross combination mass means the greatest possible sum of the maximum loaded mass of the motor vehicle and of any vehicles that may lawfully be towed by it at one time —
+(a)as specified by the motor vehicle’s manufacturer; or
+(b)as specified by the relevant authority if —
+(i)the manufacturer has not specified the sum of the maximum loaded mass; or
+(ii)the manufacturer cannot be identified; or
+(iii)the motor vehicle has been modified to the extent that the manufacturer’s specification is no longer appropriate;
+relevant authority means —
+(a)if the motor vehicle has never been licensed or registered but is used or is intended to be used in this State — the Director General; or
+(b)if the motor vehicle was last licensed in this State — the Director General; or
+(c)if the motor vehicle was last licensed or registered in another State or a Territory — the authority in that State or Territory whose functions most nearly correspond to those of the Director General.
+(7) A person charged with an offence against subsection (1) may, instead of being convicted of that offence, be convicted of an offence against section 64AAA(1).
+(8) A person charged with an offence against subsection (4) may, instead of being convicted of that offence, be convicted of an offence against section 64AAA(2).
+9.Section 64AAA replaced
+Delete section 64AAA and insert:
+64AAA.Certain persons driving with any blood alcohol content
+(1) A person to whom section 64A(1) applies who drives or attempts to drive a motor vehicle while having any blood alcohol content commits an offence.
+Penalty: not less than 3 PU or more than 6 PU.
+(2) A person who drives or attempts to drive a motor vehicle to which section 64A(4) applies while having any blood alcohol content commits an offence.
+Penalty: not less than 3 PU or more than 6 PU.
+(2A) Subsection (2) does not apply to a person who drives or attempts to drive a motor vehicle described in section 64A(5)(a) or (d) if the person —
+(a) is a person of a class prescribed by the regulations for the purposes of this paragraph; and
+(b) is driving or attempting to drive the vehicle in the course of responding to an incident as defined in the Fire and Emergency Services Authority of Western Australia Act 1998 section 3.
+(3) It is a defence to a charge of an offence against subsection (1) or (2) for the accused to prove that the accused’s blood alcohol content was not to any extent caused by any of the following —
+(a) the consumption of an alcoholic beverage (otherwise than for the purposes of religious observance);
+(b) the consumption or use of any other substance (for example, food or medicine) for the purpose of consuming alcohol.
+10.Section 64AB amended
+In section 64AB(2):
+(a) in paragraph (a) delete “16 PU” and insert:
+18 PU
+(b) in paragraph (a) delete “6 months; and” and insert:
+10 months; and
+(c) in paragraph (b) delete “30 PU” and insert:
+42 PU
+(d) in paragraph (b) delete “2 years; and” and insert:
+30 months; and
+(e) in paragraph (c) delete “40 PU” and insert:
+42 PU
+11.Section 64AC amended
+In section 64AC(2):
+(a) in paragraph (a) delete “4 PU; and” and insert:
+10 PU; and
+(b) in paragraph (b) delete “5 PU or more than 10 PU;” and insert:
+10 PU or more than 20 PU;
+(c) in paragraph (b) delete “3 months.” and insert:
+6 months.
+12.Section 66 amended
+In section 66(2)(a)(ii) delete “or 64AAA applies;” and insert:
+applies or that the motor vehicle concerned is a motor vehicle to which section 64A(4) applies;
+13.Section 67 amended
+In section 67(3):
+(a) in paragraph (a)(ii) delete “16 PU” and insert:
+18 PU
+(b) in paragraph (a)(ii) delete “6 months;” and insert:
+10 months;
+(c) in paragraph (b) delete “30 PU” and insert:
+42 PU
+(d) in paragraph (b) delete “2 years;” and insert:
+30 months;
+(e) in paragraph (c) delete “40 PU” and insert:
+42 PU
+14.Section 67AA amended
+In section 67AA(3):
+(a) in paragraph (a) delete “16 PU” and insert:
+18 PU
+(b) in paragraph (a) delete “6 months; and” and insert:
+10 months; and
+(c) in paragraph (b) delete “30 PU” and insert:
+42 PU
+(d) in paragraph (b) delete “2 years; and” and insert:
+30 months; and
+(e) in paragraph (c) delete “40 PU” and insert:
+42 PU
+15.Section 67AB amended
+In section 67AB(3):
+(a) in paragraph (a) delete “4 PU; and” and insert:
+10 PU; and
+(b) in paragraph (b) delete “5 PU or more than 10 PU;” and insert:
+10 PU or more than 20 PU;
+(c) in paragraph (b) delete “3 months.” and insert:
+6 months.
+16.Section 98 amended
+In section 98(1a) delete the passage that begins with “that the alleged offender” and continues to the end of the subsection and insert:
+that —
+(a) the alleged offender was, at the time of the alleged offence, a person to whom section 64A(1) applied; or
+(b) the vehicle to which the alleged offence relates was, at the time of the alleged offence, a motor vehicle to which section 64A(4) applied,
+is to be taken to be proved in the absence of proof to the contrary.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
