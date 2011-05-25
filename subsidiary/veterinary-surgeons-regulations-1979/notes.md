@@ -37,5 +37,6 @@ Reprint 3: The Veterinary Surgeons Regulations 1979 as at 7 Dec 2007 (includes a
 Veterinary Surgeons Amendment Regulations 2009 | 13 Oct 2009 p. 4027-9 | r. 1 and 2: 13 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Oct 2009 (see r. 2(b))
 Veterinary Surgeons Amendment Regulations (No. 2) 2009 | 11 Dec 2009 p. 5045-6 | r. 1 and 2: 11 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Dec 2009 (see r. 2(b)) and Gazette 11 Dec 2009 p. 5045)
 Veterinary Surgeons Amendment Regulations 2010 | 28 Sep 2010 p. 5051-2 | r. 1 and 2: 28 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Sep 2010 (see r. 2(b))
+Veterinary Surgeons Amendment Regulations 2011 | 24 May 2011 p. 1893 | r. 1 and 2: 24 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 25 May 2011 (see r. 2(b))
 The headings before r. 1-4, 7-9, 13, 15, 18, 19-23, 28, 34, 44, 55, 60, 61, 63, 64, 67, 69, 74 and 80 were deleted by the Veterinary Surgeons Amendment Regulations (No. 3) 2003, see Gazette 16 Dec 2003 p. 5089-90.
 Now known as the Veterinary Surgeons Regulations 1979; citation changed (see note under r. 1).
