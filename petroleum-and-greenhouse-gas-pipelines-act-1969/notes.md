@@ -28,12 +28,12 @@ Petroleum Amendment Act 2007 s. 102 | 35 of 2007 | 21 Dec 2007 | 15 May 2010
 National Gas Access (WA) Act 2009 s. 72 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 7 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Reprint 4: The Petroleum Pipelines Act 1969 as at 1 Oct 2010 (includes amendments listed above)
+Petroleum and Energy Legislation Amendment Act 2010 Pt. 4 | 42 of 2010 | 28 Oct 2010 | 25 May 2011 (see s. 2(b) and Gazette 24 May 2011 p. 1892)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Petroleum Legislation Amendment and Repeal Act 2005 s. 29(2) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
-Petroleum and Energy Legislation Amendment Act 2010 Pt. 4 | 42 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
 The Acts Amendment (Petroleum) Act 1990 s. 122(2) reads as follows:
 (2) A declaration made under —
 (a) section 5(1)(a) of the principal Act before its repeal and substitution by this section and in force immediately before the commencement of this section shall on that commencement be deemed to have been made under section 5(1)(a)(iii); or
@@ -126,117 +126,7 @@ After section 19(1) the following subsection is inserted —
 On the date as at which this reprint was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 29(2) had not come into operation. It reads as follows:
 29.Sections 66BA and 66BB inserted and transitional provision
 (2) Section 51 of the Justices Act 1902 as in force immediately before the commencement of subsection (1) applies to an offence against the Petroleum Pipelines Act 1969 committed before that commencement as if subsection (1) had not been enacted.
-On the date as at which this compilation was prepared, the Petroleum and Energy Legislation Amendment Act 2010 Pt. 4 had not come into operation. It reads as follows:
-Part 4 — Petroleum Pipelines Act 1969 amended
-172.Act amended
-This Part amends the Petroleum Pipelines Act 1969.
-173.Section 4 amended
-(1) In section 4 in the definition of petroleum:
-(a) after paragraph (a) insert:
-or
-(b) in paragraph (c) delete “hydrogen, sulphide,” and insert:
-hydrogen sulphide,
-(2) In section 4 in the definition of pipeline delete paragraph (d).
-(3) In section 4 in the definition of public authority:
-(a) after paragraph (a) insert:
-or
-(b) after paragraph (c)(i) insert:
-and
-174.Section 8 amended
-Delete section 8(1)(a).
-175.Section 11 deleted
-Delete section 11.
-176.Section 14 replaced
-Delete section 14 and insert:
-14.Term of licence
-(1) Subject to this Part, a licence remains in force indefinitely.
-(2) Subsection (1) applies to pipeline licences in force immediately before the commencement of section 176 of the amending Act as well as to pipeline licences granted on or after the commencement of that section.
-(3) In subsection (2), a reference to a pipeline licence in force is to be read as including a reference to —
-(a) a pipeline licence in force as a result of being renewed under section 11 as in force before its deletion by section 175 of the amending Act; and
-(b) a pipeline licence deemed to be in force under section 11(7) as in force before that deletion.
-(4) In subsections (2) and (3) —
-amending Act means the Petroleum and Energy Legislation Amendment Act 2010.
-15A.Termination of pipeline licence if no operations for 5 years
-(1) If a licensee —
-(a) has not carried out any construction work under the licence at any time during a continuous period of 5 years; and
-(b) has not used the pipeline, or has not used a particular part of it, at any time during a continuous period of 5 years,
-the Minister may, by written notice served on the licensee, inform the licensee that the Minister proposes to terminate the licence, or to terminate the licence in respect of the unused part of the pipeline, as the case may be, after the end of the period of one month after the notice is served.
-(2) At any time after the end of the period of one month after the notice referred to in subsection (1) is served on the licensee, the Minister may, by written notice served on the licensee, terminate the licence, or terminate the licence in respect of the part of the pipeline, as the case may be.
-(3) In working out, for the purposes of subsection (1), the duration of the period in which a licensee did not carry out any construction work under the licence or did not use the pipeline or a part of the pipeline, any period in which construction work was not carried out, or the pipeline or the part of it was not used, because of circumstances beyond the licensee’s control is to be disregarded.
-177.Section 15 amended
-Delete section 15(2)(a).
-178.Section 47A deleted
-Delete section 47A.
-179.Section 61 replaced
-Delete section 61 and insert:
-61.Power of Minister to delegate
-(1) The Minister may delegate to a person any power or duty of the Minister under another provision of this Act.
-(2) The delegation is to be in writing signed by the Minister.
-(3) A person to whom a power or duty is delegated under this section cannot delegate that power or duty.
-(4) A person exercising or performing a power or duty that has been delegated to the person under this section is to be taken to do so in accordance with the terms of the delegation unless the contrary is shown.
-(5) Nothing in this section limits the ability of the Minister to perform a function through an officer or agent.
-(6) A copy of each instrument making, amending or revoking a delegation under this section shall be published in the Gazette.
-180.Section 67 amended
-(1) After section 67(1)(d) insert:
-(ea) the preparation, submission and approval of environment plans;
-(eb) the prohibition of the doing of an act or thing otherwise than in accordance with an approved environment plan;
-(2) In section 67(1c) delete “Petroleum Act 1967,” and insert:
-Petroleum and Geothermal Energy Resources Act 1967,
-181.Schedule 1 amended
-(1) In Schedule 1 clause 53 delete the Penalty and insert:
-Penalty for an offence under subsection (3): a fine of $3 300 or imprisonment for 6 months or both.
-(2) In Schedule 1 clause 54 delete the Penalty and insert:
-Penalty for an offence under subclause (5): a fine of $3 300 or imprisonment for 6 months or both.
-(3) In Schedule 1 clause 62 delete the Penalty and insert:
-Penalty for an offence under subclause (1), (2) or (3): a fine of $11 000.
-(4) In Schedule 1 clause 66 delete the Penalty and insert:
-Penalty for an offence under subclause (3): a fine of $5 000.
-(5) In Schedule 1 clause 71(1) delete “67” and insert:
-70
-(6) In the provisions listed in the Table after “Penalty:” insert:
-a fine of
-Table
-Sch. 1 cl. 4(1) and (2) | Sch. 1 cl. 7(1) and (2)
-Sch. 1 cl. 8(1) and (2) | Sch. 1 cl. 9(1), (2), (4) and (5)
-Sch. 1 cl. 10(1) and (2) | Sch. 1 cl. 11(1)
-Sch. 1 cl. 12(1) | Sch. 1 cl. 13(1)
-Sch. 1 cl. 52 | Sch. 1 cl. 57(7)
-Sch. 1 cl. 59(1) | Sch. 1 cl. 61
-Sch. 1 cl. 64(5) | Sch. 1 cl. 70(1)
-Sch. 1 cl. 74 | Sch. 1 cl. 75
-Sch. 1 cl. 76(1)
-182.Various penalties amended
-(1) In section 6 delete the Penalty and insert:
-Penalty for an offence under subsection (1) or (2): a fine of $50 000 or imprisonment for 5 years, or both.
-(2) In section 20 delete the Penalty and insert:
-Penalty for an offence under subsection (6)(b): a fine of $500.
-(3) In section 27 delete the Penalty and insert:
-Penalty for an offence under subsection (4): a fine of $10 000.
-(4) In section 50(1c) delete the Penalty.
-(5) In section 50(2) delete the Penalty and insert:
-Penalty for an offence under subsection (1c) or (2): a fine of $5 000.
-(6) In section 51 delete the Penalty and insert:
-Penalty for an offence under subsection (2): a fine of $5 000.
-(7) In section 56 delete “offence and is liable to a penalty of $5 000.” and insert:
-offence.
-(8) At the end of section 56 insert:
-Penalty: a fine of $5 000.
-(9) In section 62 delete the Penalty and insert:
-Penalty for an offence under subsection (3): a fine of $500.
-(10) In section 63 delete the Penalty and insert:
-Penalty for an offence under subsection (2) or (3): a fine of $5 000.
-(11) In section 65 delete “offence and is liable to a penalty of $50 000 or imprisonment for 5 years, or both.” and insert:
-offence.
-(12) At the end of section 65 insert:
-Penalty: a fine of $50 000 or imprisonment for 5 years, or both.
-(13) In the provisions listed in the Table after “Penalty:” insert:
-a fine of
-Table
-s. 7(5) | s. 21(6)
-s. 25(2) | s. 35(1)
-s. 36A | s. 37
-s. 38 | s. 40
-s. 41(3), (4), (5) and (9) | s. 48
+The amendments in the Petroleum and Energy Legislation Amendment Act 2010 s. 182(11) and (12) are not included because the section they sought to amend had been deleted before the amendments purported to come into operation.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

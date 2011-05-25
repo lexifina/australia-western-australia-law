@@ -1,17 +1,9 @@
 Notes about National Gas Access (WA) Act 2009
-This is a compilation of the National Gas Access (WA) Act 2009 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the National Gas Access (WA) Act 2009 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 National Gas Access (WA) Act 2009 | 16 of 2009 | 1 Sep 2009 | s. 1 and 2: 1 Sep 2009 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Petroleum and Energy Legislation Amendment Act 2010 s. 184 | 42 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Petroleum and Energy Legislation Amendment Act 2010 s. 184 had not come into operation. It reads as follows:
-184.National Gas Access (WA) Act 2009 amended
-(1) This section amends the National Gas Access (WA) Act 2009.
-(2) In section 9(1) in the definitions of adjacent area of another participating jurisdiction and adjacent area of this jurisdiction after “Offshore Petroleum” insert:
-and Greenhouse Gas Storage
+Petroleum and Energy Legislation Amendment Act 2010 s. 184 | 42 of 2010 | 28 Oct 2010 | 25 May 2011 (see s. 2(b) Gazette 24 May 2011 p. 1892)
 ## Note — Western Australian National Gas Access Law text
 [This note is not part of the Act. It shows the text that, under section 7(1), applies as the National Gas Access (Western Australia) Law.]
 ## Chapter 1 — Preliminary
