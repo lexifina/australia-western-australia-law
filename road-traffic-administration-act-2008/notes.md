@@ -10,6 +10,7 @@ Short title | Number and year | Assent | Commencement
 Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 | 39 of 2008 (as amended by No. 39 of 2009 s. 11, No. 54 of 2010 s. 10) | 15 Aug 2008 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 3 | 39 of 2009 | 3 Dec 2009 | 1 Jan 2010 (see s. 2(b))
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 3 | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
+Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 3 | 14 of 2011 | 25 May 2011 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 (as amended by the Road Traffic (Administration) Act 2008 s. 11) had not come into operation. They read as follows:
 “
 3.Crown bound
@@ -1511,3 +1512,12 @@ Part 3 — Road Traffic (Administration) Act 2008 amended
 This Part amends the Road Traffic (Administration) Act 2008.
 17.Section 117 amended
 Delete section 117(10) and (11).
+On the date as at which this compilation was prepared, the Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Road Traffic (Administration) Act 2008 amended
+17.Act amended
+This Part amends the Road Traffic (Administration) Act 2008.
+18.Section 109 amended
+In section 109(1):
+(a) in paragraph (f) delete “or 64AAA”;
+(b) after paragraph (f) insert:
+(ga) that the vehicle to which the alleged offence relates was, at the time of the alleged offence, a motor vehicle to which the Road Traffic Act 1974 section 64A(4) applied;
