@@ -1,3 +1,5 @@
-## Schedule 3 — Scheme for transitional arrangements
-[s. 3(2)]
-[Heading amended by No. 19 of 2010 s. 4.]
+## Schedule 3 — Transitional provisions
+[s. 153]
+[Heading inserted by No. 42 of 2010 s. 169.]
+## Division 1 — Provisions for Petroleum and Energy Legislation Amendment Act 2010
+[Heading inserted by No. 42 of 2010 s. 169.]
