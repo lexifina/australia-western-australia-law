@@ -24,6 +24,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Caravan Parks and Camping Grounds Act 1995 s. 33 | 34 of 1995 | 29 Sep 1995 | To be proclaimed (see s. 2)
+Building Services (Complaint Resolution and Administration) Act 2011 Pt. 10 Div. 1 | 16 of 2011 | 25 May 2011 | To be proclaimed (see s. 2(a))
 The Building Legislation Amendment Act 2000 s. 59 and 62 read as follows:
 “
 59.References to Committee in other written laws
@@ -41,3 +42,76 @@ Schedule 2 item 3 reads as follows:
 “
 3. | Home Building Contracts Act 1991 | In the definition of “dwelling” in section 3(1), insert after “residence” the following — “, but does not include a park home, as defined in the Caravan Parks and Camping Grounds Act 1995 ”.
 ”.
+On the date as at which this compilation was prepared, the Building Services (Complaint Resolution and Administration) Act 2011 Pt. 10 Div. 1 had not come into operation. It reads as follows:
+Part 10 — Consequential amendments and transitional provisions
+Division 1 — Home Building Contracts Act 1991 amended
+112.Home Building Contracts Act 1991 amended
+This Division amends the Home Building Contracts Act 1991.
+113.Section 3 amended
+(1) In section 3(1) delete the definition of Disputes Tribunal.
+(2) In section 3(1) insert in alphabetical order:
+Building Commissioner means the officer referred to in the Building Services (Complaint Resolution and Administration) Act 2011 section 85;
+114.Section 8 amended
+Delete section 8(3) and insert:
+(3) Where —
+(a) a statement is given to the owner by the builder for the purposes of subsection (1)(b); and
+(b) the owner considers that the variation is not one to which subsection (1) applies,
+the owner cannot make a complaint as provided in section 17 unless the owner makes the complaint within 10 working days after the statement was given to the owner.
+115.Section 15 amended
+(1) In section 15(4) delete “Disputes Tribunal may approve a form of contract submitted to it for its” and insert:
+State Administrative Tribunal may approve a form of contract submitted to the Building Commissioner for an
+(2) In section 15(6) delete “under section 21” and insert:
+as referred to in section 17
+116.Section 16 deleted
+Delete section 16.
+117.Section 17 replaced
+Delete section 17 and insert:
+17.Complaint in respect of breach or entitlement to compensation
+If an owner or builder under a contract claims that —
+(a) there has been a breach of —
+(i) the contract, not being a breach in respect of which a building remedy order may be made under the Building Services (Complaint Resolution and Administration) Act 2011; or
+(ii) a provision in Part 2;
+or
+(b) the owner or builder is entitled to compensation under Schedule 1,
+then, subject to the Building Services (Complaint Resolution and Administration) Act 2011, the owner or builder may make a complaint under section 5(2) of that Act.
+118.Section 18 deleted
+Delete section 18.
+119.Section 20 replaced
+Delete section 20 and insert:
+20.Adjustment of rights in certain cases
+If a contract is terminated under section 4(5), 10(4) or 14(3) or Schedule 1, the owner or builder may make a complaint under the Building Services (Complaint Resolution and Administration) Act 2011 section 5(2) claiming that the owner or builder is entitled to —
+(a) the return or repayment of the whole or part of any consideration, or the value of any consideration, given by the owner under or in relation to the contract; or
+(b) payment to the builder in respect of —
+(i) any materials supplied by the builder; or
+(ii) any home building work or other services performed by the builder; or
+(iii) costs, including overhead expenses and loss of profit, incurred by the builder,
+under or in relation to the contract.
+120.Sections 21, 22, 23 and 24 deleted.
+Delete sections 21, 22, 23 and 24.
+121.Section 25D amended
+In section 25D(1)(b) delete “remedy under section 12A of the Builders’ Registration Act 1939” and insert:
+building remedy order under the Building Services (Complaint Resolution and Administration) Act 2011
+122.Section 25G amended
+In section 25G(1)(a) delete “remedy under section 12A of the Builders’ Registration Act 1939” and insert:
+building remedy order under the Building Services (Complaint Resolution and Administration) Act 2011
+123.Section 27 amended
+In section 27(1) delete “21(3)(a) or 26(2), a” and insert:
+or 26(2) or by an order referred to in the Building Services (Complaint Resolution and Administration) Act 2011 section 41(3)(a), a
+124.Section 31 replaced
+Delete section 31 and insert:
+31.Prosecutions
+(1) A prosecution for an offence against this Act can only be commenced by the Building Commissioner or a person authorised to do so by the Building Commissioner.
+(2) Subsection (1) does not limit the functions of the Director of Public Prosecutions under the Director of Public Prosecutions Act 1991 section 11.
+(3) A prosecution for an offence against this Act may be commenced within 3 years after the date on which the offence was allegedly committed, but not later.
+(4) All prosecutions for offences against this Act are to be heard by a court of summary jurisdiction constituted by a magistrate.
+(5) In the absence of evidence to the contrary, proof is not required in any proceeding for an offence against this Act —
+(a) of the authority of a person to take the proceeding; or
+(b) that a signature on a prosecution notice alleging the offence is the signature of a person authorised to take the proceeding.
+125.Section 31A deleted
+Delete section 31A.
+126.Schedule 1 amended
+(1) Delete Schedule 1 clause 5(1) and insert:
+(1) If the owner considers that the amount of a price increase notified under clause 4(a) is excessive or unjustified, the owner may make a complaint under the Building Services (Complaint Resolution and Administration) Act 2011 section 5(2).
+(2) In Schedule 1 clause 5(2) delete “review under this clause” and insert:
+complaint referred to in subclause (1)
+(3) Delete Schedule 1 clause 5(3).
