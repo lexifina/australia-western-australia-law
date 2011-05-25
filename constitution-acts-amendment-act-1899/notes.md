@@ -268,6 +268,7 @@ Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative at “transfer time” fixed under the State Superannuation Act 2000 s. 56 (see s. 2(1)(c))
 Health Practitioner Regulation National Law (WA) Act 2010 s. 44(1), (7) and (9) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Acts Amendment (Fair Trading) Act 2010 s. 191(3) | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
+Building Services (Complaint Resolution and Administration) Act 2011 s. 127 | 16 of 2011 | 25 May 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
@@ -373,6 +374,10 @@ On the date as at which this reprint was prepared, the Acts Amendment (Fair Trad
 The Consumer Advisory Committee established under the Fair Trading Act 2010.
 The Motor Vehicle Industry Advisory Committee established under the Fair Trading Act 2010.
 The Property Industry Advisory Committee established under the Fair Trading Act 2010.
+On the date as at which this compilation was prepared, the Building Services (Complaint Resolution and Administration) Act 2011 s. 127 had not come into operation. It reads as follows:
+127.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 3 delete the item relating to the Building Disputes Tribunal.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
