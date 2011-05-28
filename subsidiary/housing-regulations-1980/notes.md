@@ -12,5 +12,6 @@ Housing Amendment Regulations 1997 | 16 Jan 1998 p. 344 | 16 Jan 1998
 Reprint of the Housing Regulations 1980 as at 24 August 2001 (includes amendments listed above)
 Housing Amendment Regulations 2006 | 30 Jun 2006 p. 2360-1 | 1 Jul 2006 (see r. 2)
 Housing Amendment Regulations 2009 | 12 Jun 2009 p. 2114-15 | r. 1 and 2: 12 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
+Housing Amendment Regulations 2011 | 27 May 2011 p. 1924-7 | r. 1 and 2: 27 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2011 (see r. 2(b))
 Published in Gazette 12 August 1949 p. 2042.
 Repealed by the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998.
