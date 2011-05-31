@@ -22,6 +22,8 @@ Road Traffic (Charges and Fees) Amendment Regulations (No. 4) 2010 | 30 Jul 2010
 Road Traffic (Charges and Fees) Amendment Regulations 2010 | 24 Sep 2010 p. 5023-4 | r. 1 and 2: 24 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Sep 2010 (see r. 2(b))
 Reprint 2: The Road Traffic (Charges and Fees) Regulations 2006 as at 1 Oct 2010 (includes amendments listed above)
 Road Traffic (Charges and Fees) Amendment Regulations 2011 | 11 Feb 2011 p. 502-7 | r. 1 and 2: 11 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Feb 2011 (see r. 2(b))
+Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2011 | 20 May 2011 p. 1854-6 | r. 1 and 2: 20 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 May 2011 (see r. 2(b))
+Road Traffic (Charges and Fees) Amendment Regulations (No. 3) 2011 | 20 May 2011 p. 1857-60 | r. 1 and 2: 20 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 May 2011 (see r. 2(b))
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2007 r. 3 reads as follows:
@@ -33,6 +35,9 @@ For the purposes of section 28A(3) of the Act, the specified day in relation to 
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 4) 2010 r. 4 reads as follows:
 4.Specified day
 For the purposes of section 28A of the Act, the specified day for Part 2 of these regulations is 1 September 2010.
+The Road Traffic (Charges and Fees) Amendment Regulations (No. 3) 2011 r. 4 reads as follows:
+4.Specified day
+For the purposes of section 28A of the Act, the specified day in relation to these regulations is 1 July 2011.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
