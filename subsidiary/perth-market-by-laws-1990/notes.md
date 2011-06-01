@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 February 2009 of the Perth Market By-laws 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Perth Market By-laws 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Perth Market By-laws 1990 | 28 Dec 1990 p. 6415-32 | 1 Jan 1991 (see bl. 2)
@@ -15,6 +15,7 @@ Perth Market Amendment By-laws 2001 | 21 Sep 2001 p. 5219 | 21 Sep 2001
 Perth Market Amendment By-laws 2004 | 21 Sep 2004 p. 4103-6 | 21 Sep 2004
 Perth Market Amendment By-laws 2008 | 10 Oct 2008 p. 4539-42 | bl. 1 and 2: 10 Oct 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 11 Oct 2008 (see bl. 2(b))
 Reprint 2: The Perth Market By-laws 1990 as at 6 Feb 2009 (includes amendments listed above)
+Perth Market Amendment By-laws 2010 | 31 May 2011 p. 1959-64 | bl. 1 and 2: 31 May 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jun 2011 (see bl. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court. The reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
