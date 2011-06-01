@@ -28,4 +28,5 @@ Residential Tenancies Amendment Regulations 2006 | 22 Sep 2006 p. 4126-30 | 22 S
 Reprint 3: The Residential Tenancies Regulations 1989 as at 26 Jan 2007 (includes amendments listed above)
 Residential Tenancies Amendment Regulations 2007 | 30 Mar 2007 p. 1452 | 5 Apr 2007 (see r. 2)
 Residential Tenancies Amendment Regulations (No. 2) 2007 | 31 Jul 2007 p. 3790-1 | r. 1 and 2: 31 Jul 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2007 (see r. 2(b))
+Residential Tenancies Amendment Regulations 2011 | 24 May 2011 p. 1894-5 | r. 1 and 2: 24 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jun 2011 (see r. 2(b))
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
