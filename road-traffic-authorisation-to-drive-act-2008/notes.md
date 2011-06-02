@@ -8,6 +8,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic (Authorisation to Drive) Act 2008 s. 3 and Pt. 2-62 | 39 of 2008 | 15 Aug 2008 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b))
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 4 | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
+Road Traffic Legislation Amendment (Information) Act 2011 Pt. 4 | 18 of 2011 | 2 Jun 2011 | Pt. 4 other than s. 24: operative on commencement of the Road Traffic (Administration) Act 2008 other than s. 1 and 2 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611); s. 25: to be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Road Traffic (Authorisation to Drive) Act 2008 s. 3 and Pt. 2-6 had not come into operation. They read as follows:
 “
 3.Terms used in this Act
@@ -676,6 +677,68 @@ election.
 29.Section 67 amended
 In section 67(4) delete “76(1), not being a special application,” and insert:
 76(1)
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment (Information) Act 2011 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — Road Traffic (Authorisation to Drive) Act 2008 amended
+23.Act amended
+This Part amends the Road Traffic (Authorisation to Drive) Act 2008.
+24.Section 9 amended
+(1) After section 9(3) insert:
+(4A) Subsection (3) does not prevent the grant or renewal of a driver’s licence if the applicant has provided the CEO with a photograph and signature under section 11A within 10 years of the application.
+(2) After section 9(6) insert:
+(7A) Subsection (6) does not apply to a person who possesses a photograph provided under this section as a result of its disclosure under Division 3A.
+(3) Delete section 9(7)(a) and insert:
+(a) reproduces, by any means, a photograph or signature provided under this section; or
+25.Section 11A inserted
+At the end of Part 2 Division 2 insert:
+11A.Matters to do with identity
+(1) In this section —
+destroyed includes damaged so as to be unusable;
+photograph includes a negative or an image stored electronically.
+(2) The CEO cannot issue a learner’s permit until the applicant has provided, in support of the application, any evidence required by the regulations to establish the applicant’s identity and residential address in this State.
+(3) Except as prescribed in the regulations, the CEO cannot issue a learner’s permit unless the applicant has provided the CEO with —
+(a) a photograph taken at the time of the application; and
+(b) a signature made at the time of the application,
+for use on the learner’s permit document and, in the circumstances described in subsection (5), on a driver’s licence document issued to the applicant.
+(4) The photograph and signature are to be provided in a manner and form approved by the CEO.
+(5) A photograph or signature provided under this section may be used on a driver’s licence document for a driver’s licence granted or renewed within 10 years of the application for the learner’s permit.
+(6) The CEO must ensure that any photograph or signature provided under this section is destroyed if it, or a copy of it, has not been used on —
+(a) a learner’s permit document for a learner’s permit issued in the preceding 10 years; or
+(b) a driver’s licence document for a driver’s licence granted or renewed in the preceding 10 years.
+(7) A person who, other than for the purposes of this Part, possesses a photograph or signature provided under this section that is not on a learner’s permit document or a driver’s licence document commits an offence.
+Penalty: Imprisonment for 2 years.
+(8) Subsection (7) does not apply to a person who possesses a photograph provided under this section as a result of its disclosure under Division 3A.
+(9) A person employed or engaged in connection with any aspect of the production of learner’s permit documents or driver’s licence documents or otherwise concerned in the administration of this Part, who, otherwise than in the administration of this Part —
+(a) reproduces, by any means, a photograph or signature provided under this section; or
+(b) causes or permits another person to do so,
+commits an offence.
+Penalty: Imprisonment for 2 years.
+26.Part 2 Division 3A inserted
+After Part 2 Division 2 insert:
+Division 3A — Disclosure of photographs
+11B.Terms used
+In this Division —
+ASIO Act means the Australian Security Intelligence Organisation Act 1979 (Commonwealth);
+ASIO official means —
+(a)the Director-General of Security; or
+(b)an officer or employee of the Australian Security Intelligence Organisation (continued under the ASIO Act) who is authorised by the Director-General of Security for the purposes of this Division;
+Director-General of Security means the Director-General of Security holding office under the ASIO Act;
+law enforcement official means a person prescribed, or a person of a class prescribed, by the regulations for the purposes of this Division;
+photograph means a photograph provided to the CEO under this Part;
+police official means —
+(a)the Commissioner of Police; or
+(b)a member of the Police Force who is authorised by the Commissioner of Police for the purposes of this Division; or
+(c)a person employed or engaged in the department of the Public Service principally assisting in the administration of the Police Act 1892 who is authorised by the Commissioner of Police for the purposes of this Division.
+11C.Disclosure to police, ASIO and law enforcement officials
+(1) The CEO must disclose photographs to a police official for the purposes of the performance of the police official’s functions under a road law or another written law.
+(2) The CEO must disclose photographs to an ASIO official for the purposes of the performance of the ASIO official’s functions under the ASIO Act or another law of the Commonwealth.
+(3) The CEO may, with the prior approval of the Commissioner of Police, disclose photographs to a law enforcement official if the CEO considers that the photographs are required for the purposes of the performance of the law enforcement official’s functions under a written law or a law of another jurisdiction.
+11D.Disclosure to executor or administrator
+If the person shown in a photograph has died, the CEO may disclose the photograph to an executor or administrator of the person’s estate.
+27.Section 47 amended
+(1) In section 47(3) and (4) delete “section 14.” and insert:
+section 13A.
+(2) In section 47(5) delete “section 14” and insert:
+section 13A
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -727,4 +790,3 @@ special application25
 starting time55(2)
 unlicensed person18(1)
 WA driving authorisation43(3)
-”.
