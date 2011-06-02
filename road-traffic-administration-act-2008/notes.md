@@ -10,7 +10,8 @@ Short title | Number and year | Assent | Commencement
 Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 | 39 of 2008 (as amended by No. 39 of 2009 s. 11, No. 54 of 2010 s. 10) | 15 Aug 2008 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 3 | 39 of 2009 | 3 Dec 2009 | 1 Jan 2010 (see s. 2(b))
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 3 | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
-Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 3 | 14 of 2011 | 25 May 2011 | To be proclaimed (see s. 2(b))
+Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 3 | 14 of 2011 | 25 May 2011 | On commencement of the Road Traffic (Administration) Act 2008 other than s. 1 and 2 (see s. 2(b) and Gazette 30 Aug 2011 p. 3503)
+Road Traffic Legislation Amendment (Information) Act 2011 Pt. 3 | 18 of 2011 | 2 Jun 2011 | On commencement of the Road Traffic (Administration) Act 2008 other than s. 1 and 2 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611)
 On the date as at which this compilation was prepared, the Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 (as amended by the Road Traffic (Administration) Act 2008 s. 11) had not come into operation. They read as follows:
 “
 3.Crown bound
@@ -1521,3 +1522,157 @@ In section 109(1):
 (a) in paragraph (f) delete “or 64AAA”;
 (b) after paragraph (f) insert:
 (ga) that the vehicle to which the alleged offence relates was, at the time of the alleged offence, a motor vehicle to which the Road Traffic Act 1974 section 64A(4) applied;
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment (Information) Act 2011 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Road Traffic (Administration) Act 2008 amended
+16.Act amended
+This Part amends the Road Traffic (Administration) Act 2008.
+17.Section 4 amended
+In section 4 insert in alphabetical order:
+demerit points information means information contained in the demerit points register;
+disclose includes to provide, to release and to give access to;
+driver’s licence information means information about driver’s licences including —
+(a)details of the persons who have made applications for or in relation to those licences; and
+(b)details of the persons who hold or have held those licences; and
+(c)information contained in the driver’s licence register,
+but not including photographs and signatures provided to the CEO under the Road Traffic (Authorisation to Drive) Act 2008 Part 2;
+instructor information means information about licences and permits under the Motor Vehicle Drivers Instructors Act 1963 including —
+(a)details of the persons who have made applications for or in relation to those licences and permits; and
+(b)details of the persons who hold or have held those licences and permits;
+permit information means information about learner’s permits including —
+(a)details of the persons who have made applications for or in relation to those permits; and
+(b)details of the persons who hold or have held those permits,
+but not including photographs and signatures provided to the CEO under the Road Traffic (Authorisation to Drive) Act 2008 Part 2;
+vehicle licence information means information about vehicle licences including —
+(a)details of the persons who have made applications for or in relation to those licences; and
+(b)details of the persons who hold or have held those licences;
+18.Section 11 amended
+After section 11(4) insert:
+(5A) The CEO may disclose the following information to the body or person with whom the agreement is made if the CEO considers that the information is required for the purposes of performing a function under the agreement —
+(a) driver’s licence information;
+(b) permit information;
+(c) vehicle licence information;
+(d) demerit points information;
+(e) instructor information.
+19.Section 12 replaced
+Delete section 12 and insert:
+12.Exchange of information between CEO and Commissioner of Police
+(1) In this section —
+incident information means —
+(a)information provided in relation to an incident in a report made under the Road Traffic Act 1974 section 56(1) or (4); and
+(b)details of any evidence, statement, report or other information obtained as a result of any investigation made into the incident;
+offence information means details of —
+(a)any offence of which a person has been convicted whether within the State or elsewhere and whether relating to a road traffic matter or any other matter; and
+(b)any penalty, suspension, cancellation or disqualification arising from any such conviction; and
+(c)the instances in which a person has paid a penalty under an infringement notice;
+relevant authorisation means —
+(a)a driver’s licence; or
+(b)a vehicle licence; or
+(c)a learner’s permit; or
+(d)a licence or permit under the Motor Vehicle Drivers Instructors Act 1963.
+(2) The CEO must disclose the following information to the Commissioner of Police —
+(a) driver’s licence information;
+(b) permit information;
+(c) vehicle licence information;
+(d) demerit points information;
+(e) instructor information;
+(f) information obtained from a relevant authority under section 13A.
+(3) Information disclosed under subsection (2) —
+(a) may be used in the performance of the Commissioner of Police’s functions, whether under a road law or otherwise, but not for any other purpose; and
+(b) may be disclosed by the Commissioner of Police to an officer, department or instrumentality of this State, another State, a Territory, the Commonwealth or another country for use in the performance of the functions of that officer, department or instrumentality but not for any other purpose.
+(4) The Commissioner of Police must disclose the following information to the CEO —
+(a) incident information about a person who has applied for, holds or has held a relevant authorisation;
+(b) offence information about a person who has applied for, holds or has held a relevant authorisation;
+(c) information about the impounding or confiscation of vehicles under the Road Traffic Act 1974 Part V Division 4;
+(d) information of a class prescribed by the regulations for the purposes of this subsection.
+(5) Information disclosed under subsection (4) may be used in the performance of the CEO’s functions under a road law or the Motor Vehicle Drivers Instructors Act 1963 but not for any other purpose.
+(6) The disclosure of information under subsection (2) or (4) is to be free of charge.
+13A.Exchange of information between CEO and other authorities
+(1) In this section —
+infringement notice has the meaning given in the Road Traffic (Authorisation to Drive) Act 2008 section 40(1);
+relevant authority means —
+(a)an Australian driver licensing authority; or
+(b)a corresponding authority; or
+(c)an external licensing authority as defined in the Road Traffic (Authorisation to Drive) Act 2008 section 3(1); or
+(d)a person prescribed, or of a class prescribed, by the regulations for the purposes of this definition.
+(2) The CEO may disclose the following information to a relevant authority if the CEO considers that the information is required by the relevant authority for the purposes of performing its functions —
+(a) driver’s licence information;
+(b) permit information;
+(c) vehicle licence information;
+(d) demerit points information;
+(e) instructor information.
+(3) The disclosure of information under subsection (2) is to be free of charge.
+(4) If information disclosed under subsection (2) includes information about an offence of which a person has been convicted or for which a person has been given an infringement notice, the CEO must also disclose to the relevant authority —
+(a) any quashing of the conviction; or
+(b) any withdrawal of the infringement notice or the matter coming before a court for determination; or
+(c) any withdrawal of proceedings under the Fines, Penalties and Infringement Notices Enforcement Act 1994 Part 3 in respect of the infringement notice; or
+(d) anything else known to the CEO concerning the offence, the disclosure of which is likely to be favourable to that person.
+(5) The CEO may seek from a relevant authority any information that the CEO considers is required for the purposes of performing the CEO’s functions under a road law.
+(6) The CEO may, for the purposes of performing the CEO’s functions under a road law, use information obtained from a relevant authority.
+13B.Disclosure of information to Commissioner of Main Roads
+(1) The CEO must disclose the following information to the Commissioner of Main Roads —
+(a) driver’s licence information;
+(b) permit information;
+(c) vehicle licence information;
+(d) information obtained from a relevant authority under section 13A.
+(2) Information disclosed under subsection (1) may be used in the performance of the functions of the Commissioner of Main Roads under a road law but not for any other purpose.
+(3) The disclosure of information under subsection (1) is to be free of charge.
+13C.Disclosure of information to Registrar
+(1) The CEO must disclose the following information to the Registrar appointed under the Fines, Penalties and Infringement Notices Enforcement Act 1994 —
+(a) driver’s licence information;
+(b) permit information;
+(c) vehicle licence information.
+(2) Information disclosed under subsection (1) may be used in the performance of the Registrar’s functions under the Fines, Penalties and Infringement Notices Enforcement Act 1994 but not for any other purpose.
+(3) The disclosure of information under subsection (1) is to be free of charge.
+20.Section 13 amended
+(1) In section 13(1) delete “provide” and insert:
+disclose
+(2) In section 13(2) delete “section 78.” and insert:
+section 13A or 78.
+Note:The heading to amended section 13 is to read:
+Disclosure of information to corresponding authorities
+21.Sections 14 and 15 replaced
+Delete sections 14 and 15 and insert:
+14.Disclosure of information to prescribed persons
+(1) In this section —
+authorised purpose means —
+(a)the purpose of performing functions under a written law or a law of another jurisdiction; or
+(b)a purpose related to the administration or enforcement of a written law or a law of another jurisdiction; or
+(c)a purpose prescribed by the regulations for the purposes of this definition;
+prescribed person means a person prescribed, or of a class prescribed, by the regulations for the purposes of this definition.
+(2) The CEO may disclose the following information to a prescribed person if the CEO considers that the information is required by the person for an authorised purpose —
+(a) driver’s licence information;
+(b) permit information;
+(c) vehicle licence information;
+(d) demerit points information;
+(e) instructor information.
+(3) A person —
+(a) to whom information is disclosed under subsection (2); or
+(b) who is employed or engaged by a person to whom information is disclosed under subsection (2),
+must not use the information for a purpose other than the authorised purpose for which it was disclosed.
+Penalty: a fine of 100 PU or imprisonment for 12 months.
+15.Disclosure of information for road safety purposes
+(1) In this section —
+road safety purpose means —
+(a)the purpose of research directed to the promotion of road safety; or
+(b)the purpose of distributing information about road safety.
+(2) The CEO may disclose the following information to a person if the CEO considers that the information is required by the person for a road safety purpose —
+(a) driver’s licence information;
+(b) permit information;
+(c) vehicle licence information;
+(d) demerit points information;
+(e) instructor information.
+(3) A person —
+(a) to whom information is disclosed under subsection (2); or
+(b) who is employed or engaged by a person to whom information is disclosed under subsection (2),
+must not use the information for a purpose other than the road safety purpose for which it was disclosed.
+Penalty: a fine of 100 PU or imprisonment for 12 months.
+22.Section 143A inserted
+After section 142 insert:
+143A.Confidentiality of information
+(1) A person who is or has been engaged in the performance of functions under a road law must not, directly or indirectly, record, disclose or make use of information obtained under a road law except —
+(a) for a purpose related to the administration or enforcement of a road law; or
+(b) as required or authorised under a road law or another written law; or
+(c) with the consent of the person to whom the information relates; or
+(d) in circumstances prescribed by the regulations.
+Penalty: a fine of 100 PU or imprisonment for 12 months.
+(2) Subsection (1) does not prevent the disclosure of statistical or other information that could not reasonably be expected to lead to the identification of any person to whom it relates.
