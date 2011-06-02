@@ -148,6 +148,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 5, 11, 12, 14 and 15 | 51 of 2010 | 8 Dec 2010 | s. 12 (other than 12(2)(c), (5)(d) and (7)(b): 4 Jul 2011 (see s. 2(c) and Gazette 20 May 2011p. 1837)); Balance: To be proclaimed (see s. 2(c))
 Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 2 | 14 of 2011 | 25 May 2011 | To be proclaimed (see s. 2(b))
+Road Traffic Legislation Amendment (Information) Act 2011 Pt. 2 | 18 of 2011 | 2 Jun 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 Section 111(2)(f) of this Act has been deleted.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
@@ -540,6 +541,226 @@ that —
 (a) the alleged offender was, at the time of the alleged offence, a person to whom section 64A(1) applied; or
 (b) the vehicle to which the alleged offence relates was, at the time of the alleged offence, a motor vehicle to which section 64A(4) applied,
 is to be taken to be proved in the absence of proof to the contrary.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment (Information) Act 2011 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Road Traffic Act 1974 amended
+3.Act amended
+This Part amends the Road Traffic Act 1974.
+4.Section 5 amended
+In section 5(1) insert in alphabetical order:
+demerit points information means information contained in the demerit points register as defined in section 104;
+disclose includes to provide, to release and to give access to;
+driver’s licence information means information about driver’s licences including —
+(a)details of the persons who have made applications for or in relation to those licences; and
+(b)details of the persons who hold or have held those licences; and
+(c)information contained in the driver’s licence register referred to in section 42(1)(a)(ii),
+but not including photographs and signatures provided to the Director General under Part IVA;
+instructor information means information about licences and permits under the Motor Vehicle Drivers Instructors Act 1963 including —
+(a)details of the persons who have made applications for or in relation to those licences and permits; and
+(b)details of the persons who hold or have held those licences and permits;
+optional plates information means information about optional number plates referred to in section 113 including —
+(a)details of the persons who have the right to use those number plates; and
+(b)details of the persons to whom those number plates have been supplied;
+permit information means information about learner’s permits or permits under section 26(1) including —
+(a)details of the persons who have made applications for or in relation to those permits; and
+(b)details of the persons who hold or have held those permits,
+but not including photographs and signatures provided to the Director General under Part IVA;
+vehicle licence information means information about vehicle licences under this Act including —
+(a)details of the persons who have made applications for or in relation to those licences; and
+(b)details of the persons who hold or have held those licences; and
+(c)information contained in the register of vehicle licences referred to in section 27(1);
+5.Section 6B amended
+After section 6B(4) insert:
+(5A) The Director General may disclose the following information to the body or person with whom the agreement is made if the Director General considers that the information is required for the purposes of performing a function under the agreement —
+(a) driver’s licence information;
+(b) permit information;
+(c) vehicle licence information;
+(d) optional plates information;
+(e) demerit points information;
+(f) instructor information.
+6.Section 8 replaced
+Delete section 8 and insert:
+8.Exchange of information between Director General and Commissioner of Police
+(1) In this section —
+incident information means —
+(a)information provided in relation to an incident in a report made under section 56(1) or (4); and
+(b)details of any evidence, statement, report or other information obtained as a result of any investigation made into the incident;
+offence information means details of —
+(a)any offence of which a person has been convicted whether within the State or elsewhere and whether relating to a road traffic matter or any other matter; and
+(b)any penalty, suspension, cancellation or disqualification arising from any such conviction; and
+(c)the instances in which a person has paid a penalty under a traffic infringement notice under this Act;
+relevant authorisation means —
+(a)a driver’s licence; or
+(b)a vehicle licence under this Act; or
+(c)a learner’s permit; or
+(d)a permit under section 26(1); or
+(e)a licence or permit under the Motor Vehicle Drivers Instructors Act 1963.
+(2) The Director General must disclose the following information to the Commissioner of Police —
+(a) driver’s licence information;
+(b) permit information;
+(c) vehicle licence information;
+(d) optional plates information;
+(e) demerit points information;
+(f) instructor information;
+(g) information obtained from a relevant authority under section 9.
+(3) Information disclosed under subsection (2) —
+(a) may be used in the performance of the Commissioner of Police’s functions, whether under this Act or otherwise, but not for any other purpose; and
+(b) may be disclosed by the Commissioner of Police to an officer, department or instrumentality of this State, another State, a Territory, the Commonwealth or another country for use in the performance of the functions of that officer, department or instrumentality but not for any other purpose.
+(4) The Commissioner of Police must disclose the following information to the Director General —
+(a) incident information about a person who has applied for, holds or has held a relevant authorisation;
+(b) offence information about a person who has applied for, holds or has held a relevant authorisation;
+(c) information about the impounding or confiscation of vehicles under Part V Division 4;
+(d) information of a class prescribed by the regulations for the purposes of this subsection.
+(5) Information disclosed under subsection (4) may be used in the performance of the Director General’s functions under this Act or the Motor Vehicle Drivers Instructors Act 1963 but not for any other purpose.
+(6) The disclosure of information under subsection (2) or (4) is to be free of charge.
+9.Exchange of information between Director General and other authorities
+(1) In this section —
+infringement notice has the meaning given in section 104(1);
+relevant authority means —
+(a)an Australian driver licensing authority; or
+(b)an external licensing authority; or
+(c)a person whose functions under the law of another jurisdiction correspond or substantially correspond to a function of the Director General under this Act; or
+(d)a person prescribed, or of a class prescribed, by the regulations for the purposes of this definition.
+(2) The Director General may disclose the following information to a relevant authority if the Director General considers that the information is required by the relevant authority for the purposes of performing its functions —
+(a) driver’s licence information;
+(b) permit information;
+(c) vehicle licence information;
+(d) optional plates information;
+(e) demerit points information;
+(f) instructor information.
+(3) The disclosure of information under subsection (2) is to be free of charge.
+(4) If information disclosed under subsection (2) includes information about an offence of which a person has been convicted or for which a person has been given an infringement notice, the Director General must also disclose to the relevant authority —
+(a) any quashing of the conviction; or
+(b) any withdrawal of the infringement notice or the matter coming before a court for determination; or
+(c) any withdrawal of proceedings under the Fines, Penalties and Infringement Notices Enforcement Act 1994 Part 3 in respect of the infringement notice; or
+(d) anything else known to the Director General concerning the offence, the disclosure of which is likely to be favourable to that person.
+(5) The Director General may seek from a relevant authority any information that the Director General considers is required for the purposes of performing the Director General’s functions under this Act.
+(6) The Director General may, for the purposes of performing the Director General’s functions under this Act, use information obtained from a relevant authority.
+10.Disclosure of information to Commissioner of Main Roads
+(1) The Director General must disclose the following information to the Commissioner of Main Roads —
+(a) driver’s licence information;
+(b) permit information;
+(c) vehicle licence information;
+(d) information obtained from a relevant authority under section 9.
+(2) Information disclosed under subsection (1) may be used in the performance of the functions of the Commissioner of Main Roads under this Act but not for any other purpose.
+(3) The disclosure of information under subsection (1) is to be free of charge.
+11.Disclosure of information to Registrar
+(1) The Director General must disclose the following information to the Registrar appointed under the Fines, Penalties and Infringement Notices Enforcement Act 1994 —
+(a) driver’s licence information;
+(b) permit information;
+(c) vehicle licence information.
+(2) Information disclosed under subsection (1) may be used in the performance of the Registrar’s functions under the Fines, Penalties and Infringement Notices Enforcement Act 1994 but not for any other purpose.
+(3) The disclosure of information under subsection (1) is to be free of charge.
+12.Disclosure of information to prescribed persons
+(1) In this section —
+authorised purpose means —
+(a)the purpose of performing functions under a written law, a law of another jurisdiction or a law of the Commonwealth; or
+(b)a purpose related to the administration or enforcement of a written law, a law of another jurisdiction or a law of the Commonwealth; or
+(c)a purpose prescribed by the regulations for the purposes of this definition;
+prescribed person means a person prescribed, or of a class prescribed, by the regulations for the purposes of this definition.
+(2) The Director General may disclose the following information to a prescribed person if the Director General considers that the information is required by the person for an authorised purpose —
+(a) driver’s licence information;
+(b) permit information;
+(c) vehicle licence information;
+(d) demerit points information;
+(e) instructor information.
+(3) A person —
+(a) to whom information is disclosed under subsection (2); or
+(b) who is employed or engaged by a person to whom information is disclosed under subsection (2),
+must not use the information for a purpose other than the authorised purpose for which it was disclosed.
+Penalty: a fine of 100 PU or imprisonment for 12 months.
+13.Disclosure of information for road safety purposes
+(1) In this section —
+road safety purpose means —
+(a)the purpose of research directed to the promotion of road safety; or
+(b)the purpose of distributing information about road safety.
+(2) The Director General may disclose the following information to a person if the Director General considers that the information is required by the person for a road safety purpose —
+(a) driver’s licence information;
+(b) permit information;
+(c) vehicle licence information;
+(d) demerit points information;
+(e) instructor information.
+(3) A person —
+(a) to whom information is disclosed under subsection (2); or
+(b) who is employed or engaged by a person to whom information is disclosed under subsection (2),
+must not use the information for a purpose other than the road safety purpose for which it was disclosed.
+Penalty: a fine of 100 PU or imprisonment for 12 months.
+7.Section 42 amended
+Delete section 42(6)(a).
+8.Section 42E amended
+(1) After section 42E(2) insert:
+(3A) Subsection (2) does not prevent the grant or renewal of a driver’s licence if the applicant has provided the Director General with a photograph and signature under section 43A within 10 years of the application.
+(2) After section 42E(5) insert:
+(6A) Subsection (5) does not apply to a person who possesses a photograph provided under this section as a result of its disclosure under Division 4A.
+(3) Delete section 42E(6)(a) and insert:
+(a) reproduces, by any means, a photograph or signature provided under this section; or
+9.Section 43A inserted
+At the end of Part IVA Division 3 insert:
+43A.Matters to do with identity
+(1) In this section —
+destroyed includes damaged so as to be unusable;
+photograph includes a negative or an image stored electronically.
+(2) The Director General cannot issue a learner’s permit until the applicant has provided, in support of the application, any evidence required by the regulations to establish the applicant’s identity and residential address in this State.
+(3) Except as prescribed in the regulations, the Director General cannot issue a learner’s permit unless the applicant has provided the Director General with —
+(a) a photograph taken at the time of the application; and
+(b) a signature made at the time of the application,
+for use on the learner’s permit document and, in the circumstances described in subsection (5), on a driver’s licence document issued to the applicant.
+(4) The photograph and signature are to be provided in a manner and form approved by the Director General.
+(5) A photograph or signature provided under this section may be used on a driver’s licence document for a driver’s licence granted or renewed within 10 years of the application for the learner’s permit.
+(6) The Director General must ensure that any photograph or signature provided under this section is destroyed if it, or a copy of it, has not been used on —
+(a) a learner’s permit document for a learner’s permit issued in the preceding 10 years; or
+(b) a driver’s licence document for a driver’s licence granted or renewed in the preceding 10 years.
+(7) A person who, other than for the purposes of this Part, possesses a photograph or signature provided under this section that is not on a learner’s permit document or a driver’s licence document commits an offence.
+Penalty: Imprisonment for 2 years.
+(8) Subsection (7) does not apply to a person who possesses a photograph provided under this section as a result of its disclosure under Division 4A.
+(9) A person employed or engaged in connection with any aspect of the production of learner’s permit documents or driver’s licence documents or otherwise concerned in the administration of this Part, who, otherwise than in the administration of this Part —
+(a) reproduces, by any means, a photograph or signature provided under this section; or
+(b) causes or permits another person to do so,
+commits an offence.
+Penalty: Imprisonment for 2 years.
+10.Part IVA Division 4A inserted
+After Part IVA Division 3 insert:
+Division 4A — Disclosure of photographs
+44AA.Terms used
+In this Division —
+ASIO Act means the Australian Security Intelligence Organisation Act 1979 (Commonwealth);
+ASIO official means —
+(a)the Director-General of Security; or
+(b)an officer or employee of the Australian Security Intelligence Organisation (continued under the ASIO Act) who is authorised by the Director-General of Security for the purposes of this Division;
+Director-General of Security means the Director-General of Security holding office under the ASIO Act;
+law enforcement official means a person prescribed, or a person of a class prescribed, by the regulations for the purposes of this Division;
+photograph means a photograph provided to the Director General under this Part;
+police official means —
+(a)the Commissioner of Police; or
+(b)a member of the Police Force who is authorised by the Commissioner of Police for the purposes of this Division; or
+(c)a person employed or engaged in the department of the Public Service principally assisting in the administration of the Police Act 1892 who is authorised by the Commissioner of Police for the purposes of this Division.
+44AB.Disclosure to police, ASIO and law enforcement officials
+(1) The Director General must disclose photographs to a police official for the purposes of the performance of the police official’s functions under this Act or another written law.
+(2) The Director General must disclose photographs to an ASIO official for the purposes of the performance of the ASIO official’s functions under the ASIO Act or another law of the Commonwealth.
+(3) The Director General may, with the prior approval of the Commissioner of Police, disclose photographs to a law enforcement official if the Director General considers that the photographs are required for the purposes of the performance of the law enforcement official’s functions under a written law, a law of another jurisdiction or a law of the Commonwealth.
+44AC.Disclosure to executor or administrator
+If the person shown in a photograph has died, the Director General may disclose the photograph to an executor or administrator of the person’s estate.
+11.Sections 45 and 46 deleted
+Delete sections 45 and 46.
+12.Section 103 inserted
+At the end of Part VI insert:
+103.Confidentiality of information
+(1) A person who is or has been engaged in the performance of functions under this Act must not, directly or indirectly, record, disclose or make use of information obtained under this Act except —
+(a) for a purpose related to the administration or enforcement of this Act; or
+(b) as required or authorised under this Act or another written law; or
+(c) with the consent of the person to whom the information relates; or
+(d) in circumstances prescribed by the regulations.
+Penalty: a fine of 100 PU or imprisonment for 12 months.
+(2) Subsection (1) does not prevent the disclosure of statistical or other information that could not reasonably be expected to lead to the identification of any person to whom it relates.
+13.Section 104G amended
+(1) In section 104G(3) and (4) delete “section 45.” and insert:
+section 9.
+(2) In section 104G(5) delete “section 45” and insert:
+section 9
+14.Section 104O amended
+Delete section 104O(9).
+15.Section 107 amended
+In section 107(4) delete “53 or 97” and insert:
+53, 97 or 103(1)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
