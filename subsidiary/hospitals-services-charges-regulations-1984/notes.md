@@ -117,9 +117,29 @@ Reprint 7: The Hospitals (Services Charges) Regulations 1984 as at 10 Sep 2010 (
 Hospitals (Services Charges) Amendment Regulations (No. 3) 2010 | 22 Oct 2010 p. 5219-20 | r. 1 and 2: 22 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Oct 2010 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations 2011 | 11 Feb 2011 p. 480 | r. 1 and 2: 11 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Feb 2011 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 3) 2011 | 12 Apr 2011 p. 1309 | r. 1 and 2: 12 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Apr 2011 (see r. 2(b))
+Hospitals (Services Charges) Amendment Regulations (No. 2) 2011 | 3 Jun 2011 p. 1977-8 | r. 1 and 2: 3 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jun 2011 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Hospitals (Services Charges) Amendment Regulations (No. 4) 2011 r. 3 and 4 | 3 Jun 2011 p. 1976-7 | 1 Jul 2011 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with the Interpretation Act 1984 s. 42(1), subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The commencement date of 1 September 1990 that was specified in these regulations was before the date of their publication in the Gazette.
+On the date as at which this compilation was prepared, the Hospitals (Services Charges) Amendment Regulations (No. 4) 2011 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Hospitals (Services Charges) Regulations 1984.
+4.Schedule 1 amended
+In Schedule 1 amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Sch. 1 it. 1(b)(i) | $524 | $540
+Sch. 1 it. 1(b)(ii) | $303 | $313
+Sch. 1 it. 1(d) | $151.85 | $156
+Sch. 1 it. 1(e) | $1 462 | $1 560
+Sch. 1 it. 4(b) | $166 | $177
+Sch. 1 it. 6(b) | $236 | $243
+Sch. 1 it. 6(d) | $1 332 | $1 422
+Sch. 1 it. 7 | $30.25 | $32.25
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
