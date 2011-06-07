@@ -13,13 +13,32 @@ Item | Description | Fee $ | Electronic lodgment fee $
  | (a)issued for a purpose referred to in section 60(4)(ca) | 410 | 369
  | (b)issued for a purpose referred to in section 60(4)(h) | 305 | 274.50
  | (c)issued for any other purpose | 1 020 | 918
-8. | Application for extended trading permit for a period of 21 days or less —
- | (a)for each day | 100 (up to a max. of 1 000)
- | (b)for each occasion within that period that includes times extending beyond 12 midnight on a Saturday or beyond 10 p.m. on a Sunday (in addition to the fee calculated under paragraph (a))10 p.m. on a Sunday (in addition to the fee calculated under paragraph (a)) | 100
-9. | Application for approval of manager after licence is granted —
- | (a)under licence other than club licence or club restricted licence ................................ | 140
- | (b)under club licence | 95
- | (c)under club restricted licence | 30
+8. | Application for extended trading permit for a period of 21 days or less if the anticipated number of patrons is —
+ | (a)up to 500 | 100
+ | (b)between 501 and 1 000 | 205
+ | (d)between 1 001 and 5 000 | 1 020
+ | (e)between 5 001 and 10 000 | 2 040
+ | (f)over 10 000 | 4 085
+9. | Application for manager’s approval —
+ | (a)lodged under r. 14ADA(3) | 165
+ | (b)lodged under r. 14ADA(4)(a) | 55
+ | (c)lodged under r. 14ADA(4)(b) | 15
+10A. | Application for renewal of manager’s approval (other than transitioned approval under r. 14ADG) —
+ | (a)lodged under r. 14ADD(3)(a) | 160
+ | (b)lodged under r. 14ADD(3)(b) | 120
+10B. | Application for renewal of manager’s approval (transitioned approval under r. 14ADG) —
+ | (a)for 1 year —
+ | (i)lodged under r. 14ADD(3)(a) | 70
+ | (ii)lodged under r. 14ADD(3)(b) | 30
+ | (b)for 3 years —
+ | (i)lodged under r. 14ADD(3)(a) | 115
+ | (ii)lodged under r. 14ADD(3)(b) | 75
+ | (c)for 5 years —
+ | (i)lodged under r. 14ADD(3)(a) | 160
+ | (ii)lodged under r. 14ADD(3)(b) | 120
+10C. | Application for replacement identification card —
+ | (a)lodged under r. 14ADF(2)(b)(i) | 50
+ | (b)lodged under r. 14ADF(2)(b)(ii) | 10
 10. | Application for approval of person in position of authority —
  | (a)under licence other than club licence or club restricted licence | 140
  | (b)under club licence or club restricted licence | 95
@@ -29,10 +48,17 @@ Item | Description | Fee $ | Electronic lodgment fee $
 14. | Application for approval of change of name of licensed premises | 70
 15. | Application to add, vary or cancel condition of licence or permit (other than club restricted licence) —
  | (a)for a period of over 21 days | 205 | 184.50
- | (b)for a period of 21 days or less — for each day | 100 (up to a max. of 1 000)
+ | (b)for a period of 21 days or less if the anticipated number of patrons is —
+ | (i)up to 500 | 100
+ | (ii)between 501 and 1 000 | 205
+ | (iii)between 1 001 and 5 000 | 1 020
+ | (iv)between 5 001 and 10 000 .. | 2 040
+ | (v)over 10 000 | 4 085
 16. | Application to add, vary or cancel condition of club restricted licence | 40
 17. | Application under section 62(6) to vary any plans or specifications the subject of a condition | 245 | 220.50
 18. | Application for approval of agreement or arrangement and for each person who is a party to the agreement or arrangement and in relation to whom a background check is sought from the Police Service | 205 140
+19A. | Application under section 115AD for review of decision to give notice | 228
+19B. | Application under section 119A for approval to conduct non-liquor business on licensed premises | 205
 19. | Application under section 126A for approval of entertainment for juveniles on licensed premises | 60
 20. | Application for Proof of Age Card | 25
 21. | Supply of a list of licensed premises or a list of owners of licensed premises | 85
@@ -50,4 +76,4 @@ Item | Description | Fee $ | Electronic lodgment fee $
 33. | For a search of postcodes —
  | (a)1 to 10 postcodes | 35
  | (b)more than 10 postcodes | 75
-[Schedule 3 inserted in Gazette 19 Nov 2010 p. 5744-7.]
+[Schedule 3 inserted in Gazette 19 Nov 2010 p. 5744-7; amended in Gazette 3 Jun 2011 p. 1998-9 and 2001-2.]
