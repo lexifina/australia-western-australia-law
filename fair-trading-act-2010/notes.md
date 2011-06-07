@@ -6,7 +6,7 @@ Fair Trading Act 2010 | 57 of 2010 | 8 Dec 2010 | s. 1 and 2: 8 Dec 2010 (see s.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (Fair Trading) Act 2010 Pt. 2 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
+Acts Amendment (Fair Trading) Act 2010 Pt. 2 | 58 of 2010 | 8 Dec 2010 | 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
 On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 Pt. 2 had not come into operation. It reads as follows:
 Part 2 — Fair Trading Act 2010 amended
 3.Act amended
