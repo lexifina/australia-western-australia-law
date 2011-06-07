@@ -267,7 +267,7 @@ Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 1
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative at “transfer time” fixed under the State Superannuation Act 2000 s. 56 (see s. 2(1)(c))
 Health Practitioner Regulation National Law (WA) Act 2010 s. 44(1), (7) and (9) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
-Acts Amendment (Fair Trading) Act 2010 s. 191(3) | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
+Acts Amendment (Fair Trading) Act 2010 s. 191(3) | 58 of 2010 | 8 Dec 2010 | 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
 Building Services (Complaint Resolution and Administration) Act 2011 s. 127 | 16 of 2011 | 25 May 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
