@@ -22,7 +22,7 @@ Acts Amendment (Bankruptcy) Act 2009 s. 49 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (Fair Trading) Act 2010 Pt. 3 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
+Acts Amendment (Fair Trading) Act 2010 Pt. 3 | 58 of 2010 | 8 Dec 2010 | 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
 The Land Valuers Licensing Amendment Act 1984 s. 4(2) and 6(2) are transitional provisions that are of no further effect.
 The Business Licensing Amendment Act 1995 s. 32 is a transitional provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
