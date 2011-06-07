@@ -15,7 +15,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Repairers Act 2003 s. 3(4) and 85(3)(b) | 68 of 2003 | 9 Dec 2003 | To be proclaimed (see s. 2)
-Acts Amendment (Fair Trading) Act 2010 Pt. 5 (other than s. 54) | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
+Acts Amendment (Fair Trading) Act 2010 Pt. 5 (other than s. 54) | 58 of 2010 | 8 Dec 2010 | 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
 On the date as at which this reprint was prepared, the Motor Vehicle Repairers Act 2003 s. 3(4) and 85(3)(b) had not come into operation. They read as follows:
 “
 3.Terms used in this Act
