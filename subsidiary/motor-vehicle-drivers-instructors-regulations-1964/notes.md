@@ -53,6 +53,10 @@ Motor Vehicle Drivers Instructors Amendment (Road Traffic) Regulations 2008 | 13
 Reprint 5: The Motor Vehicle Drivers Instructors Regulations 1964 as at 5 Dec 2008 (includes amendments listed above)
 Motor Vehicle Drivers Instructors Amendment Regulations 2010 | 4 Jun 2010 p. 2485-6 | r. 1 and 2: 4 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2010 | 9 Nov 2010 p. 5632-3 | r. 1 and 2: 9 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Nov 2010 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Motor Vehicle Drivers Instructors Amendment Regulations 2011 r. 3-4 | 7 Jun 2011 p. 2062-3 | 1 Jul 2011 (see r. 2(b))
 Under the Alteration of Statutory Designations Order 2003 the name of the former Education Department of Western Australia was changed to the Department of Education and Training.
 Now superseded by the Public Transport Authority of Western Australia.
 Now superseded by the Fire and Emergency Services Authority of Western Australia.
@@ -103,6 +107,15 @@ Any motor cycle | R
 All classes of motor vehicles | R and MC
 [Schedule 2 inserted in Gazette 13 Jul 2001 p. 3472.]
 ”.
+On the date as at which this compilation was prepared, the Motor Vehicle Drivers Instructors Amendment Regulations 2011 r. 3-4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Motor Vehicle Drivers Instructors Regulations 1964.
+4.Regulation 13 amended
+In regulation 13:
+(a) delete “87.30” and insert:
+87.70
+(b) delete “150.30” and insert:
+151.00
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
