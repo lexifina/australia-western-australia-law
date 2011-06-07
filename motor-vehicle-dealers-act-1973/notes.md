@@ -35,12 +35,12 @@ Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 
 Reprint 5: The Motor Vehicle Dealers Act 1973 as at 11 May 2007 (includes amendments listed above except those in the Consumer Protection Legislation Amendment and Repeal Act 2006)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 94 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 57 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-Acts Amendment (Fair Trading) Act 2010 s. 37 and 177 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
+Acts Amendment (Fair Trading) Act 2010 s. 37 and 177 | 58 of 2010 | 8 Dec 2010 | s. 37: 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805); s. 177: 1 Jan 2011 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 | 73 of 2003 | 15 Dec 2003 | To be proclaimed (see s. 2)
-Acts Amendment (Fair Trading) Act 2010 Pt. 4 (other than s. 37) | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
+Acts Amendment (Fair Trading) Act 2010 Pt. 4 (other than s. 37) | 58 of 2010 | 8 Dec 2010 | 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
 The Motor Vehicle Dealers Act 1973 s. 40 did not come into operation and was repealed by the Motor Vehicle Dealers Amendment Act 2002 s. 62.
 The Business Licensing Amendment Act 1995 s. 38 is a transitional provision that is of no further effect.
 The Motor Vehicle Dealers Amendment Act 2002 Pt. 7 reads as follows:
