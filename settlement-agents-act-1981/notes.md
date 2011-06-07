@@ -49,7 +49,7 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (Fair Trading) Act 2010 Pt. 7 | 58 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
+Acts Amendment (Fair Trading) Act 2010 Pt. 7 | 58 of 2010 | 8 Dec 2010 | 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
 The appointed day is 1 Nov 1982, see Gazette 29 Oct 1982 p. 4322.
 The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 7(2) and (3) read as follows:
 (2) A person may give notice of a claim under section 93(2) as amended by this section even if the time within which that notice was to be given under that section before that amendment had expired.
