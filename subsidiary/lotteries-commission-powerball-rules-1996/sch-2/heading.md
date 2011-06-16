@@ -33,8 +33,7 @@ Powerpik | No. of games per game board
 12 | 35 640
 13 | 57 915
 14 | 90 090
-15 | 135 135
-[Schedule 2 inserted in Gazette 6 Jun 2008 p. 2250-1.]
+[Schedule 2 inserted in Gazette 6 Jun 2008 p. 2250-1; amended in Gazette 3 Jun 2011 p. 1989.]
 Schedule 3 [Rule 21(2)] Systems entry prize schedule Powerball [Heading amended in Gazette 16 Nov 2004 p. 5062.] | NUMBER OF PRIZES SYSTEMS | 20 | 1 – 75 1050 – 4550 - | - 1 - - 75 - 1050 | - - 16 480 - 3360 -
 19 | 1 – 70 910 – 3640 - | - 1 - - 70 - 910 | - - 15 420 - 2730 -
 18 | 1 - 65 780 - 2860 - | - 1 - - 65 - 780 | - - 14 364 - 2184 -
@@ -92,7 +91,7 @@ NUMBER OF PRIZES SYSTEMS | 20 | - - - - - - - | - - - - - - - | - - - - - - - | 
 3 | - - - - 3 - 117 | - - - 6 - 152 - | - - - - - - 6 | - - - - - 10 -
 PRIZE DIVISIONS |  | 1 2 3 4 5 6 7 | 1 2 3 4 5 6 7 | 1 2 3 4 5 6 7 | 1 2 3 4 5 6 7
 WINNING NUMBERS |  | 2 winning numbers | 1 winning number and the powerball number | 1 winning number | 0 winning numbers and the powerball number
-[Rule 21(2)] Powerball - Systems entry prize schedule Powerpik systems entries | Systems Type | System 15 P/Pik | Number of Prizes | 1 44 50 450 2200 1200 19800 | - - - - - - - | - - 11 220 484 990 9680 | - - - - - - - | - - - 66 - 660 2904
+[Rule 21(2)] Powerball - Systems entry prize schedule Powerpik systems entries | Systems Type | System 15 P/Pik (up to Draw 787) | Number of Prizes | 1 44 50 450 2200 1200 19800 | - - - - - - - | - - 11 220 484 990 9680 | - - - - - - - | - - - 66 - 660 2904
 System 14 P/Pik | 1 44 45 360 1980 840 15840 | - - - - - - - | - - 10 180 440 720 7920 | - - - - - - - | - - - 55 - 495 2420
 System 13 P/Pik | 1 44 40 280 1760 560 12320 | - - - - - - - | - - 9 144 396 504 6336 | - - - - - - - | - - - 45 - 360 1980
 System 12 P/Pik | 1 44 35 210 1540 350 9240 | - - - - - - - | - - 8 112 352 336 4928 | - - - - - - - | - - - 36 - 252 1584
@@ -122,4 +121,4 @@ System 4 P/Pik | - - - - - - - | - - - 3 - 38 132 | - - - - - - - | - - - - - 4 
 System 3 P/Pik | - - - - - - - | - - 3 117 132 741 5148 | - - - - - - - | - - - 6 - 152 264 | - - - - - - - | - - - - - 10 -
  | Prize Divisions | 1 2 3 4 5 6 7 | 1 2 3 4 5 6 7 | 1 2 3 4 5 6 7 | 1 2 3 4 5 6 7 | 1 2 3 4 5 6 7 | 1 2 3 4 5 6 7
  | Winning Numbers | 3 winning numbers but not the powerball number | 2 winning numbers and the powerball number | 2 winning numbers but not the powerball number | 1 winning number and the powerball number | 1 winning number but not the powerball number | 0 winning numbers and the powerball number
-[Schedule 3 amended in Gazette 16 Nov 2004 p. 5062-4.]
+[Schedule 3 amended in Gazette 16 Nov 2004 p. 5062-4; 3 Jun 2011 p. 1989.]
