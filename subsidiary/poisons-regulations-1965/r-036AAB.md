@@ -1,4 +1,4 @@
-### 36AAB. Provision of psychiatric emergency packs by certain registered nurses
+### 36AAB. Psychiatric emergency packs, supply of by certain registered nurses
 (1) In this regulation —
 approved name has the meaning given in regulation 35C;
 Community Emergency Response Team means a service, provided by a public hospital, that —
