@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Poisons Regulations 1965 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 17 June 2011 of the Poisons Regulations 1965 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Poisons Act Regulations 1965 | 29 Jun 1965 p. 1883-914 | 1 Jul 1965
@@ -85,7 +85,7 @@ Poisons Amendment Regulations 1991 | 12 Apr 1991 p. 1608-9 | 12 Apr 1991
 Poisons Amendment Regulations (No. 2) 1991 | 14 Jun 1991 p. 2879 | 14 Jun 1991
 Poisons Amendment Regulations (No. 4) 1991 | 28 Jun 1991 p. 3149 | 1 Jul 1991 (see r. 2)
 Poisons Amendment Regulations (No. 3) 1991 | 26 Jul 1991 p. 3854-5 | 26 Jul 1991
-Poisons Amendment Regulations (No. 5) 1991 | 13 Dec 1991 p. 6090-1 | 13 Dec 1991
+Poisons Amendment Regulations (No. 5) 1991 | 13 Dec 1991 p. 6190-1 | 13 Dec 1991
 Poisons Amendment Regulations 1992 | 16 Apr 1992 p. 1634-5 | 16 Apr 1992
 Poisons Amendment Regulations (No. 2) 1992 | 26 Jun 1992 p. 2700 | 1 Aug 1992 (see r. 2)
 Poisons Amendment Regulations (No. 4) 1992 | 7 Aug 1992 p. 3864-6 | 7 Aug 1992
@@ -150,28 +150,27 @@ Reprint 9: The Poisons Regulations 1965 as at 13 Nov 2009 (includes amendments l
 Poisons Amendment Regulations (No. 2) 2010 | 5 Mar 2010 p. 845-7 | r. 1 and 2: 5 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Mar 2010 (see r. 2(b))
 Poisons Amendment Regulations (No. 3) 2010 | 26 Mar 2010 p. 1145-8 | r. 1 and 2: 26 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Mar 2010 (see r. 2(b))
 Poisons Amendment Regulations 2010 | 27 Apr 2010 p. 1583-4 | r. 1 and 2: 27 Apr 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Apr 2010 (see r. 2(b))
-Poisons Amendment Regulations (No. 5) 2010 | 1 Oct 2010 p. 5078-80 | r. 1 and 2: 1 Oct 2010 (see r. 2(a); Regulations other than r. 1 and 2: 18 Oct 2010 (see r. 2(b) and Gazette 1 Oct 2010 p. 5076)
+Poisons Amendment Regulations (No. 5) 2010 | 1 Oct 2010 p. 5078-80 | r. 1 and 2: 1 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Oct 2010 (see r. 2(b) and Gazette 1 Oct 2010 p. 5076)
 Poisons Amendment Regulations (No. 7) 2010 | 22 Oct 2010 p. 5217-19 | r. 1 and 2: 22 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Oct 2010 (see r. 2(b))
 Poisons Amendment Regulations (No. 4) 2010 | 19 Nov 2010 p. 5709-10 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2010 (see r. 2(b))
 Poisons Amendment Regulations (No. 6) 2010 | 19 Nov 2010 p. 5711-15 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2010 (see r. 2(b))
 Poisons Amendment Regulations 2011 | 1 Apr 2011 p. 1181-3 | r. 1 and 2: 1 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2011 (see r. 2(b))
-Footnote no longer applicable.
-Repealed by the Nurses and Midwives Act 2006.
+Reprint 10: The Poisons Regulations 1965 as at 17 Jun 2011 (includes amendments listed above)
+Formerly referred to the Health Services (Concilation and Review) Act 1995, the short title of which was changed to the Health and Disability Services (Complaints) Act 1995 by the Health and Disability Services Legislation Amendment Act 2010 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
+Repealed by the Veterans Entitlements Act 1986 (Cwlth. Act No. 27 of 1986).
 Repealed by the Security and Related Activities (Control) Act 1996.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Renumbering of regulation 41 to regulation 40A effected by amendment in Gazette 19 March 1996 p. 1225.
 Now known as the Poisons Regulations 1965; citation amended (see note to r. 1).
-The Poisons Amendment Regulations (No. 3) 2001 r. 4(2) reads as follows:
-(2) A licence issued under regulation 4 of the Poisons Regulations 1965 and in force immediately before the day on which this regulation commences, continues in force on and after that day, as if it were a licence issued under regulation 3 of those regulations as amended by this regulation.
-The Nurses Amendment Act 2003 s. 50 reads as follows:
-50.Existing power to amend regulations unaffected
-Nothing in this Division prevents any of the Poisons Regulations 1965 from being amended in accordance with the Poisons Act 1964.
-The Poisons Amendment Regulations (No. 7) 2010 r. 5 to amend r. 42(1)(d) is not included because the para it sought to amend had been amended by the Poisons Amendment Regulations (No. 5) 2010 r. 8(2).
+The Poisons Amendment Regulations (No. 3) 2001 r. 4(2) is a transitional provision of no further effect.
+The Nurses Amendment Act 2003 s. 50 is a savings provision of no further effect.
+The Poisons Amendment Regulations (No. 7) 2010 r. 5 to amend r. 42(1)(d) is not included because the paragraph it sought to amend had been amended by the Poisons Amendment Regulations (No. 5) 2010 r. 8(2).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 access code32A(1)
+Act2(1)
 animal2(1)
 approved clinic51FA
 approved computer program51(1C)
@@ -190,6 +189,7 @@ brand name35C(4), 36AA(1)
 certificated commercial vessel2(1)
 child2(1)
 child care service41D(1)
+colleague.51FH(5)
 commencement day66
 Commonwealth Schedule51H(3)
 Community Emergency Response Team36AAB(1)
@@ -212,8 +212,9 @@ entry44C(1)
 experienced person2(1)
 exporter39C(5)
 external2(1)
-former manager51FK
+former manager51FK(1)
 gynaecologist2(1)
+HDWA Authorisation No.51GB(2)
 height21A(4)
 immediate container2(1)
 immediate wrapper2(1)
@@ -223,11 +224,10 @@ manager51FA
 manufacture2(1)
 manufacturer2(1)
 master of a ship39C(5)
-Medical Board2(1)
 metropolitan region36AAB(1)
-new manager51FK
+new manager51FK(1)
 new provisions69
-NIMC38A, 51AAA
+NIMC38A(1), 51AAA(1)
 nominated co-prescriber51FA
 obstetrician2(1)
 old authorisation67(1)(b), 68(1)(b)
@@ -241,6 +241,7 @@ physician2(1)
 poisons cupboard2(1)
 Policies Manual51A(1)
 prescribe2(1)
+prescribed medicine.3A(2)
 prescription66
 proprietary preparation8A(16)
 psychiatric emergency pack36AAB(1)
@@ -273,6 +274,4 @@ system identifier32A(1)
 team medical practitioner36AAB(1)
 team psychiatrist36AAB(1)
 team registered nurse36AAB(1)
-the Act2(1)
-the HDWA Authorisation No.51GB(2)
 to sell2(1)
