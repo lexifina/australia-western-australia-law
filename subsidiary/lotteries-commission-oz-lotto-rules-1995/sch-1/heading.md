@@ -1,7 +1,7 @@
 ## Schedule 1 — Calculating the total cost of entry — Oz lotto draw
 [r. 3, 5, 6 and 7]
 [Heading inserted in Gazette 6 Jun 2008 p. 2293.]
-The unit cost of entering an Oz lotto draw is made up of a subscription of $1.00 per game and an agent’s component.
+The unit cost of entering an Oz lotto draw up to and including the Oz lotto draw numbered 904 is made up of a subscription of $1.00 per game and an agent’s component.
 The agent’s component is calculated as 9% of the total subscription amount for a particular week’s entry, rounded* (where necessary) to the nearest 5 cent multiple.
 ((G x $1.00) x .09 ® rounded) x W = T
 where —
@@ -32,4 +32,4 @@ Rounding not required
 Total cost of entry for one week=$27.25
 Total cost of entry for 10 weeks=$272.50
 * Rounding is calculated using the method known as “bankers rounding” or “round-to-even” rounding.
-[Schedule 1 inserted in Gazette 6 Jun 2008 p. 2293-5.]
+[Schedule 1 inserted in Gazette 6 Jun 2008 p. 2293-5; amended in Gazette 3 Jun 2011 p. 1991.]
