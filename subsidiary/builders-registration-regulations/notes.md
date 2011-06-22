@@ -37,9 +37,16 @@ Builders’ Registration Amendment Regulations 2009 | 23 Jun 2009 p. 2431-2 | r.
 Builders’ Registration Amendment Regulations (No. 2) 2009 | 23 Jun 2009 p. 2433 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b)(i) and Gazette 23 Jun 2009 p. 2431)
 Reprint 4: The Builders’ Registration Regulations as at 11 Sep 2009 (includes amendments listed above)
 Builders’ Registration Amendment Regulations 2010 | 25 Jun 2010 p. 2856-7 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Building Services (Registration) Act 2011 s. 109 | 19 of 2011 | 22 Jun 2011 | To be proclaimed (see s. 2(b))
 Under the Alteration of Statutory Designations Order 2007 a reference in any law to the Department for Community Welfare is, unless the contrary is intended, to be read and construed as a reference to the Department for Child Protection.
 The Builders’ Registration Amendment Regulations 2003 as published in Gazette 12 Sep 2003 p. 4071 have no effect because they were made in error by the Governor instead of the Board.
 Now known as the Builders’ Registration Regulations; citation changed (see note under r. 1).
+On the date as at which this compilation was prepared, the Building Services (Registration) Act 2011 s. 109 had not come into operation. It reads as follows:
+109.Builders’ Registration Regulations repealed
+The Builders’ Registration Regulations are repealed.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
