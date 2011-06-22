@@ -72,6 +72,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 33(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Building Services (Registration) Act 2011 s. 107 | 19 of 2011 | 22 Jun 2011 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Repealed by the Architects Act 2004.
 In this compilation the renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and retained in subsequent reprints has again been retained. References to the original numbering are contained in the 1943 reprint.
@@ -89,6 +90,9 @@ The Building Legislation Amendment Act 2000 s. 60 is a transitional provision th
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 33(2) had not come into operation. It reads as follows:
 (2) Section 5AA(2)(a) of the Builders’ Registration Act 1939 is amended by deleting “, including rights under the Superannuation and Family Benefits Act 1938,”.
+On the date as at which this compilation was prepared, the Building Services (Registration) Act 2011 s. 107 had not come into operation. It reads as follows:
+107.Builders’ Registration Act 1939 repealed
+The Builders’ Registration Act 1939 is repealed.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
