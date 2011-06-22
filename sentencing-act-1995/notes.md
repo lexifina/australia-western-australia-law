@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 29 April 2011 of the Sentencing Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Sentencing Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Sentencing Act 1995 | 76 of 1995 | 16 Jan 1996 | s. 1 and 2: 16 Jan 1996; Act other than s. 1, 2 and 19, and Pt. 12: 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
@@ -59,6 +59,10 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 46 | 35 of 
 Prohibited Behaviour Orders Act 2010 Pt. 5 Div. 4 | 59 of 2010 | 8 Dec 2010 | 23 Feb 2011 (see s. 2(b) and Gazette 23 Feb 2011 p. 633)
 Reprint 7: The Sentencing Act 1995 as at 29 Apr 2011 (includes amendments listed above)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Building Services (Registration) Act 2011 s. 157 | 19 of 2011 | 22 Jun 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
@@ -199,6 +203,12 @@ The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004
 The amendments in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 65 that purported to amend s. 84P(3) could not be included because s. 84P(3) was not in operation when s. 65 came into operation. Those amendments were subsequently deleted by the Parole and Sentencing Legislation Amendment Act 2006 s. 75(2).
 The Parole and Sentencing Legislation Amendment Act 2006 s. 74(2) and 75(2) commenced on 22 Sep 2006 (see s. 2(4)(b)).
 The Sentencing Legislation (Transitional Provisions) Amendment Act 2008 s. 3, 4 and 5 commenced on 14 Jan 2009.
+On the date as at which this compilation was prepared, the Building Services (Registration) Act 2011 s. 157 had not come into operation. It reads as follows:
+157.Sentencing Act 1995 amended
+(1) This section amends the Sentencing Act 1995.
+(2) In Schedule 1 delete the items relating to:
+Builders’ Registration Act 1939
+Painters’ Registration Act 1961
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
