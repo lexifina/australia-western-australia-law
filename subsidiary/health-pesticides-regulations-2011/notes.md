@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Health (Pesticides) Regulations 2011. The following table contains information about those regulations.
+This is a compilation of the Health (Pesticides) Regulations 2011 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Health (Pesticides) Regulations 2011 | 1 Feb 2011 p. 291-372 | r. 1 and 2: 1 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Feb 2011 (see r. 2(b))
+Health (Pesticides) Amendment Regulations 2011 | 21 Jun 2011 p. 2219-20 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jun 2011 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
