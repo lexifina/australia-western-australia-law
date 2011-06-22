@@ -25,6 +25,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Caravan Parks and Camping Grounds Act 1995 s. 33 | 34 of 1995 | 29 Sep 1995 | To be proclaimed (see s. 2)
 Building Services (Complaint Resolution and Administration) Act 2011 Pt. 10 Div. 1 | 16 of 2011 | 25 May 2011 | To be proclaimed (see s. 2(a))
+Building Services (Registration) Act 2011 Pt. 10 Div. 1 | 19 of 2011 | 22 Jun 2011 | To be proclaimed (see s. 2(b))
 The Building Legislation Amendment Act 2000 s. 59 and 62 read as follows:
 “
 59.References to Committee in other written laws
@@ -115,3 +116,70 @@ Delete section 31A.
 (2) In Schedule 1 clause 5(2) delete “review under this clause” and insert:
 complaint referred to in subclause (1)
 (3) Delete Schedule 1 clause 5(3).
+On the date as at which this compilation was prepared, the Building Services (Registration) Act 2011 Pt. 10 Div. 1 had not come into operation. It reads as follows:
+Part 10 — Consequential amendments
+Division 1 — Home Building Contracts Act 1991 amended
+147.Home Building Contracts Act 1991 amended
+This Division amends the Home Building Contracts Act 1991.
+148.Section 3 amended
+(1) In section 3(1) delete the definition of building licence.
+(2) In section 3(1) insert in alphabetical order:
+building licence means building licence issued under the Local Government (Miscellaneous Provisions) Act 1960 section 374 before that provision was deleted by the Building Act 2011 section 153(2);
+building permit means building permit as defined in the Building Act 2011 section 3;
+repealed Act means the Builders’ Registration Act 1939;
+(3) In section 3(1) in the definition of Builders’ Registration Board delete “Builders’ Registration Act 1939;” and insert:
+repealed Act;
+149.Section 25A amended
+(1) In section 25A delete the definition of builder.
+(2) In section 25A insert in alphabetical order:
+builder includes, in addition to the meaning given by the definition in section 3(1), a person who —
+(a)was registered under the repealed Act; or
+(b)is a building service contractor in a class of building service contractor prescribed by the regulations,
+whether or not the person carries on a business referred to in that definition;
+building service contractor has the meaning given in the Building Services (Registration) Act 2011 section 3;
+(3) In section 25A in the definition of owner-builder:
+(a) in paragraph (a) delete “Builders’ Registration Act 1939; or” and insert:
+the repealed Act; or
+(b) delete paragraph (b)(i) and insert:
+(i)was registered under the repealed Act; and
+(c) after paragraph (b) insert:
+(c)a person who —
+(i)has owner-builder approval under the Building Services (Registration) Act 2011 section 45 to carry out residential building work for the dwelling; and
+(ii)is issued a building licence or granted a building permit for the residential building work;
+or
+(d)a person who —
+(i)is a building service contractor in a class of building service contractor prescribed by the regulations for the purpose of this definition; and
+(ii)constructs the dwelling for himself or herself as his or her principal place of residence and not for immediate sale; and
+(iii)was issued a building licence or granted a building permit for the residential building work for the dwelling when no policy of insurance that complies with Division 2 was in force, or no corresponding cover (of the type referred to in section 25DA) was provided by an approved fund in relation to the residential building work;
+(d) at the end of paragraph (b) insert:
+or
+150.Section 25B amended
+(1) Delete section 25B(3)(b) and insert:
+(b) the builder —
+(i) had given to the Builders’ Registration Board a statutory declaration verifying that he or she had not, within the last 6 years, obtained a building licence for residential building work; or
+(ii) has given to the Building Commissioner a statutory declaration verifying that he or she has not, within the last 6 years, obtained a building licence or a building permit for residential building work,
+in respect of which no insurance was required because of this subsection.
+151.Section 25F amended
+In section 25F(1) delete “licence” and insert:
+licence, or the date of grant of the relevant building permit,
+152.Section 25FA amended
+(1) In section 25FA(1) in the Penalty delete “$10 000.” and insert:
+a fine of $10 000.
+(2) After section 25FA(1) insert:
+(2A) A person to whom paragraph (d) of the definition of owner-builder applies in relation to a dwelling must not, within 3 years of the date the building licence is issued, or the building permit is granted, to the person for the dwelling, sell or otherwise dispose of the land on which the dwelling was constructed unless the Minister by order otherwise consents.
+Penalty: a fine of $10 000.
+(3) In section 25FA(2) delete “subsection (1),” and insert:
+subsection (1) or (2A),
+(4) After section 25FA(3) insert:
+(4) Subsection (2A) does not apply to a person in relation to a dwelling if the building permit for the dwelling was granted to the person during a period specified in an order made under section 25I for the purposes of section 25C(3).
+153.Section 25G amended
+(1) Delete section 25G(1)(b) and insert:
+(b) it provides that claims may be made under it at any time before the expiration of a period of 7 years from —
+(i) the date of issue to the owner-builder of the relevant building licence for the building work; or
+(ii) the date of grant to the owner-builder of the relevant building permit for the building work;
+and
+(2) After each of paragraphs (a) and (c) insert:
+and
+154.Section 31B amended
+In section 31B(10) and (11) delete “Builders’ Registration Board” and insert:
+Building Commissioner
