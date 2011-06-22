@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 February 2011 of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Constitution Acts Amendment Act 1899 | 1899 (63 Vict. No. 19) | 18 May 1900 | 18 May 1900 (see s. 52 and Gazette 18 May 1900 p. 1686). Reserved for Royal Assent 16 Dec 1899
@@ -260,7 +260,7 @@ Health Practitioner Regulation National Law (WA) Act 2010 s. 43, 44(2)-(6), (8) 
 Public Sector Reform Act 2010 s. 73 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Acts Amendment (Fair Trading) Act 2010 s. 191(1) and (2) | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 Reprint 17: The Constitution Acts Amendment Act 1899 as at 11 Feb 2011 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
@@ -269,12 +269,13 @@ State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Opera
 Health Practitioner Regulation National Law (WA) Act 2010 s. 44(1), (7) and (9) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Acts Amendment (Fair Trading) Act 2010 s. 191(3) | 58 of 2010 | 8 Dec 2010 | 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
 Building Services (Complaint Resolution and Administration) Act 2011 s. 127 | 16 of 2011 | 25 May 2011 | To be proclaimed (see s. 2(b))
+Building Services (Registration) Act 2011 s. 155 | 19 of 2011 | 22 Jun 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
 Established by the Agricultural Practices (Disputes) Act 1995.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
-On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 had not come into operation. It reads as follows:
 22.Constitution Acts Amendment Act 1899 amended
 (1) The amendments in this section are to the Constitution Acts Amendment Act 1899.
 (2) Schedule V Part 3 is amended by deleting “The Apple Sales Advisory Committee constituted under the Agricultural Products Act 1929.”.
@@ -292,7 +293,7 @@ Repealed by the Acts Amendment and Repeal (Statutory Bodies) Act 1985.
 Relevant provisions amended by the Soil and Land Conservation Amendment Act 1988. Committees are now land conservation district committees.
 Under the Environmental Protection Act 1986 Sch. 3 cl. 20, a reference to an environmental appeal board shall be construed as a reference to an appeals committee.
 Authority continued in existence under the Environmental Protection Act 1986 s. 7(1).
-On the date as at which this reprint was prepared, the State Superannuation Amendment Act 2007 s. 79 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 79 had not come into operation. It reads as follows:
 79.Constitution Acts Amendment Act 1899 amended
 (1) The amendments in this section are to the Constitution Acts Amendment Act 1899.
 (2) Schedule V Part 3 is amended by deleting the item for the Government Employees Superannuation Board and inserting in the appropriate alphabetical position —
@@ -348,7 +349,7 @@ The Criminal Law Amendment (Simple Offences) Act 2004 s. 81(4) and (5) read as f
 by reason only of a conviction that occurred before the commencement.
 (5) In subsection (4) —
 commencement means the commencement of this section.
-On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 7.3Consequential amendments
 Schedule 2 has effect.
 Schedule 2 Div. 2 reads as follows:
@@ -358,7 +359,7 @@ Schedule V Part 1 Division 1 to the Constitution Acts Amendment Act 1899 is amen
 “
 Member of the Native Title Commission established by the Native Title (State Provisions) Act 1999.
 ”.
-On the date as at which this reprint was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 44(1), (7) and (9) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 44(1), (7) and (9) had not come into operation. It reads as follows:
 Division 10 — Constitution Acts Amendment Act 1899 amended
 44.Schedule V Part 3 amended
 (1) In Schedule V Part 3 insert in alphabetical order:
@@ -368,7 +369,7 @@ The Chinese Medicine Board of Australia established under the Health Practitione
 The Medical Radiation Practice Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
 (9) In Schedule V Part 3 delete the item commencing “The Occupational Therapists Registration Board of Western Australia” and insert:
 The Occupational Therapy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-On the date as at which this reprint was prepared, the Acts Amendment (Fair Trading) Act 2010 s. 191(3) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Acts Amendment (Fair Trading) Act 2010 s. 191(3) had not come into operation. It reads as follows:
 191.Constitution Acts Amendment Act 1899 amended
 (3) In Schedule V Part 3 insert in alphabetical order:
 The Consumer Advisory Committee established under the Fair Trading Act 2010.
@@ -378,6 +379,15 @@ On the date as at which this compilation was prepared, the Building Services (Co
 127.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete the item relating to the Building Disputes Tribunal.
+On the date as at which this compilation was prepared, the Building Services (Registration) Act 2011 s. 155 had not come into operation. It reads as follows:
+155.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 3 delete the items relating to:
+The Builders’ Registration Board of Western Australia
+The Municipal Building Surveyors Examination Committee
+The Painters’ Registration Board
+(3) In Schedule V Part 3 after the item relating to the Broome Port Authority insert:
+The Building Services Board established under the Building Services (Registration) Act 2011.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
