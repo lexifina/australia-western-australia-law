@@ -123,11 +123,232 @@ Supreme Court Amendment Rules 2009 | 6 Feb 2009 p. 243-5 | r. 1 and 2: 6 Feb 200
 Supreme Court Amendment Rules (No. 2) 2009 | 3 Jul 2009 p. 2682-700 (Printer’s correction 7 Jul 2009 p. 2719) | Pt. 1: 3 Jul 2009 (see r. 2(a)) Pt. 3: 4 Jul 2009 (see r. 2(c)) Pt. 2: 1 Nov 2010 (see r. 2(b) and the Hague Convention on the Service Abroad of Judicial Extrajudicial Documents in Civil or Commercial Matters 1965)
 Supreme Court Amendment Rules (No. 3) 2009 | 22 Dec 2009 p. 5273-4 | 1 Jan 2010 (see r. 2 and Gazette 31 Dec 2009 p. 5327)
 Supreme Court Amendment Rules 2010 | 28 Jul 2010 p. 3433-90 | Pt. 1: 28 Jul 2010 (see r. 2(a)); Rules other than Pt. 1: 29 Jul 2010 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Supreme Court Amendment Rules 2011 r. 3-10 | 28 Jun 2011 p. 2551-63 | 12 Jul 2011 (see r. 2(b))
 This Rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
 Formerly referred to as The Partnership Act 1895, the short title of which was changed to the Partnership Act 1895 by the Statutes (Repeals and Minor Amendments) Act 2003 s. 144. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The commencement date of 1 Jul 1982 that was specified was before the date of gazettal.
 The Supreme Court Amendment Rules 1994 r. 14 is a transitional provision that has no further effect.
 Disallowed on 10 Mar 1998, see Gazette 13 Mar 1998 p. 1389.
+On the date as at which this compilation was prepared, the Supreme Court Amendment Rules 2011 r. 3-10 had not come into operation. They read as follows:
+3.Rules amended
+These rules amend the Rules of the Supreme Court 1971.
+4.Order 1 amended
+(1) In Order 1 rule 4(1) insert in alphabetical order:
+form has a meaning affected by rule 6 and, if followed by a number, means the form of that number in Schedule 2;
+(2) Delete Order 1 rule 5.
+5.Order 65 amended
+(1) In Order 65 rule 18(3) delete “judge of appeal.” and insert:
+judge.
+(2) In Order 65 rule 18(4) delete “of appeal” (each occurrence).
+6.Various references to “paragraph” amended
+(1) In the provisions listed in the Table delete “Paragraph” and insert:
+Subrule
+Table
+Order 18 r. 14(2) | Order 20 r. 11(2)
+Order 24A r. 10(4a) | Order 30 r. 4(2)
+Order 33 r. 10(2) | Order 34 r. 16(2)
+Order 34 r. 19(2) | Order 36A r. 2(6)
+Order 66 r. 24(5) | Order 70 r. 13(8)
+Order 72 r. 1(2) | Order 85 r. 3(2)
+(2) In the provisions listed in the Table delete “Paragraphs” and insert:
+Subrules
+Table
+Order 24A r. 10(3) and (9) | Order 30 r. 4(4)
+(3) In each provision in which “paragraph” appears, other than the provisions listed in the Table, delete “paragraph” (each occurrence) and insert:
+subrule
+Table
+Order 4A r. 2, 6 and 9 | Order 18 r. 3(4) second occurrence
+Order 20 r. 7(2) | Order 26 r. 1B and 4
+Order 37 r. 2(3) | Order 43 r. 9(2)
+Order 56A r. 3(2) | Order 58 r. 30(1)(b)
+Order 67 r. 19(5) | Order 71A r. 3(2)
+Order 81FA r. 7(2) | The Second Schedule
+(4) In each provision in which “paragraphs” appears, other than the provisions listed in the Table, delete “paragraphs” (each occurrence) and insert:
+subrules
+Table
+Order 11A r. 5, 13 and 15 | Order 20 r. 7(2)
+Order 31 r. 1(2) | Order 37 r. 2(3)
+Order 70 r. 1 | The Second Schedule
+7.Other provisions amended
+Amend the provisions in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Order 1 r. 6(1) | the Second Schedule shall the Second Schedule to these Rules, | Schedule 2 shall Schedule 2
+Order 8 r. 7(1) | the foregoing provisions of this Order, | rules 1 to 6,
+Order 9 r. 5 | The foregoing Rules of this Order | Rules 1 to 4
+Order 10 r. 1(1)(j) | subparagraph (e)) | paragraph (e))
+Order 17 r. 15 | the foregoing Rules of this Order, | rules 1 to 11,
+Order 18 r. 3(4) | the last foregoing paragraph, | subrule (3),
+Order 18 r. 8(4) | the foregoing provision | such an order
+Order 19 r. 3(3) | the foregoing provisions of this Rule, | subrules (1) and (2),
+Order 19 r. 11 | the foregoing provisions of this Order | rules 1 to 10
+Order 20 r. 19(3)(b)(i) | subparagraph | paragraph
+Order 20 r. 23(3) | (i)the (ii)the (iii)the (iv)the (v)the (vi)the (vii)the (viii)the (ix)(a)the (ix)(b)the (x)what (xi)what (xii)what (xiii)the (xiv)what (xv)what | (a)the (b)the (c)the (d)the (e)the (f)the (g)the (h)the (i)the (j)the (k)what (l)what (m)what (n)the (o)what (p)what
+Order 24 r. 12 | the Third Schedule. | Schedule 3.
+Order 25 r. 2 | the preceding Rule | rule 1
+Order 27 r. 6(3) | the relevant subparagraph, | subrule (1)(b) or (c), as the case may be,
+Order 28 r. 1 | (1)(a)Where (b)Where (c)If | (1)Where (2A)Where (2B)If
+Order 36 r. 6 | The foregoing Rules of this Order | Rules 1 to 5
+Order 38 r. 16(5) | foregoing table. | Table to subrule (1).
+Order 42 r. 1(2) | the Second Schedule | Schedule 2
+Order 43 r. 8(1) | the last preceding Rule | rule 7
+Order 43 r. 9(2) | the last preceding paragraph | subrule (1)
+Order 43 r. 10 | the preceding Rules of this Order, | rules 1 to 9,
+Order 52 r. 7(1) | the foregoing provisions of this Order, | rules 1 to 6,
+Order 55 r. 4(1) | the last preceding Rule | rule 3
+Order 55 r. 10(1) | the foregoing provisions of this Order | rules 1 to 9
+Order 56 r. 1(3)(a) | (3)(a)Where | (3)Where
+Order 56 r. 1(3)(b) | (b)In | (4A)In
+Order 56 r. 4(4) | the foregoing provisions of this Rule, | subrules (1), (2) or (3),
+Order 58 r. 3 | the last preceding Rule | rule 2
+Order 58 r. 4 | the last 2 preceding Rules A.Where (a)for (b)for (c)for (d)for (e)for (f)for (g)if concur. B.Where | rules 2 and 3 (a)where (i)for (ii)for (iii)for (iv)for (v)for (vi)for (vii)if concur; (b)where
+Order 59 r. 1(1) | (1)applications (2)subject (3)applications (3a)any (3b)applications (4)applications (5)applications (6)applications (7)applications (8)applications (9)applications (10)applications (11)applications (12)applications (13)applications (14)applications (15)such | (a)applications (b)subject (c)applications (d)any (e)applications (f)applications (g)applications (h)applications (i)applications (j)applications (k)applications (l)applications (m)applications (n)applications (o)applications (p)applications (q)such
+Order 66 r. 24(2)(b) | subparagraph (a). | paragraph (a).
+Order 66 r. 24(6) | the foregoing provisions of this Rule | subrules (1) to (5)
+Order 66 r. 24(7) | The foregoing provisions of this Rule | Subrules (1) to (6)
+Order 66 r. 54(1) | the last preceding Rule | rule 53
+Order 66 r. 56 | the last preceding Rule | rule 55
+Order 67 r. 16 | the Second Schedule, | Schedule 2,
+Order 70 r. 4(3)(c) | subparagraph (b) | paragraph (b)
+Order 70 r. 4(5)(b) | subparagraph (a) | paragraph (a)
+Order 70 r. 13(4)(c) | subparagraphs (a) or (b) do | paragraph (a) or (b) does
+Order 81E r. 11(3)(b)(i) | subparagraph (a); or | paragraph (a); or
+The Third Schedule r. 9 | the last 2 preceding regulations | regulations 7 and 8
+8.Heading to The Second Schedule replaced
+Delete the heading to The Second Schedule and insert:
+Schedule 2 — Forms
+9.The Second Schedule amended
+(1) This rule amends The Second Schedule.
+(2) In Form No. 1 delete the heading and insert:
+1.Writ of summons (general form) (O. 5 r. 1)
+(3) In Form No. 2 delete the heading and insert:
+2.Writ of summons indorsed with statement of claim (O. 5 r. 1)
+(4) In Form No. 3 delete the heading and insert:
+3.Writ of summons which, or notice of which, is to be served out of the jurisdiction (O. 5 r. 2)
+(5) In Form No. 4 delete the heading and insert:
+4.Notice of writ of summons for service out of the jurisdiction (O. 5 r. 2)
+(6) In Form No. 5 delete the heading and insert:
+5.Indorsements of representative capacity of parties (O. 6 r. 5)
+(7) In Form No. 7 delete the heading and insert:
+7.Notice limiting defence (O. 12 r. 10)
+(8) In Form No. 10:
+(a) delete the heading and the first sub-heading and insert:
+10.Forms for Order 18
+(1) Notice to be indorsed on copy of counterclaim (O. 18 r. 3(5))
+(b) delete the second sub-heading and insert:
+(2) Memorandum of appearance to counterclaim (O. 18 r. 3)
+(c) delete the third sub-heading and insert:
+(3) Memorandum of appearance of person added as defendant (O. 18 r. 8(3))
+(9) In Form No. 11 delete the heading and insert:
+11.Third party notice (general form) (O. 19 r. 1)
+(10) In Form No. 12 delete the heading and insert:
+12.Third party notice where question or issue to be determined (O. 19 r. 1)
+(11) In Form No. 18 delete the heading and insert:
+18.Affidavit verifying list of documents (O. 26 r. 4(3))
+(12) In Form No. 19 delete the heading and insert:
+19.Request to set down cause for further consideration (O. 33 r. 13(3))
+(13) In Form No. 20 delete the heading and insert:
+20.Notice that cause has been set down for further consideration (O. 33 r. 13(3))
+(14) In Form No. 23 delete the heading and insert:
+23.Writ of subpoena for service in New Zealand (O. 36B r. 3(1))
+(15) In Form No. 23A delete the heading and insert:
+23A.Notice to accompany subpoena for service in New Zealand (O. 36B r. 3(1))
+NOTICE TO WITNESS
+(16) In Form No. 25 delete the heading and insert:
+25.Order for examination of witness of witness before trial (O. 38 r. 1)
+(17) In Form No. 26 delete the heading and insert:
+26.Evidence Act 1906 s. 110 or 111, order under (O. 38A r. 5)
+(18) In Form No. 28 delete the heading and insert:
+28.Letter of request (O. 38A r. 3(4))
+(19) In Form No. 29 delete the heading and insert:
+29.Undertaking as to costs of letter of request (O. 38A r. 5)
+(20) In Form No. 30 delete the heading and insert:
+30.Evidence Act 1906 s. 117, order under (O. 39 r. 3)
+(21) In Form No. 31 delete the heading and insert:
+31.Certificate (O. 39 r. 5(2))
+(22) In Form No. 31A delete the heading and insert:
+31A.Application for subpoena to be set aside (O. 39A r. 4(1))
+(23) In Form No. 31B delete the heading and insert:
+31B.Objection to determination without hearing (O. 39A r. 4(8))
+(24) In Form No. 31C delete the heading and insert:
+31C.Request for hearing by video link or telephone (O. 39A r. 4(9))
+(25) In Form No. 31D delete the heading and insert:
+31D.Certificate of non-compliance with subpoena (O. 39A r. 5)
+(26) In Form No. 32 delete the heading and insert:
+32.Default judgment in action for liquidated demand (O. 13 r. 2; O. 22 r. 2; O. 42 r. 1)
+(27) In Form No. 34 delete the heading and insert:
+34.Default judgment where demand unliquidated (O. 13 r. 7)
+(28) In Form No. 35 delete the heading and insert:
+35.Default judgment in action relating to detention of goods (O. 13 r. 4; O. 22 r. 4; O. 42 r. 1)
+(29) In Form No. 36 delete the heading and insert:
+36.Default judgment in action for possession of land (O. 13 r. 5; O. 22 r. 5; O. 42 r. 1)
+(30) In Form No. 37 delete the heading and insert:
+37.Final judgment after assessment of damages etc. (O. 42 r. 1)
+(31) In Form No. 38 delete the heading and insert:
+38.Judgment under Order 14 (O. 14 r. 3)
+(32) In Form No. 39 delete the heading and insert:
+39.Judgment after trial by judge without a jury (O. 42 r. 1)
+(33) In Form No. 40 delete the heading and insert:
+40.Judgment after trial with a jury (O. 42 r. 1)
+(34) In Form No. 41 delete the heading and insert:
+41.Judgment after trial before master or special referee (O. 42 r. 1)
+(35) In Form No. 42 delete the heading and insert:
+42.Judgment after decision of preliminary issue (O. 32 r. 7)
+(36) In Form No. 43 delete the heading and insert:
+43.Judgment for defendant’s costs on discontinuance (O. 23 r. 2)
+(37) In Form No. 60 delete the heading and insert:
+60.Summons for appointment of receiver (O. 51 r. 1)
+(38) In Form No. 61 delete the heading and insert:
+61.Order directing summons for appointment of receiver and granting injunction meanwhile (O. 51 r. 1)
+(39) In Form No. 62 delete the heading and insert:
+62.Receiver order (interim) (O. 51 r. 1)
+(40) In Form No. 63 delete the heading and insert:
+63.Receiver’s recognisance (O. 51 r. 3(3))
+(41) In Form No. 64 delete the heading and insert:
+64.Notice of originating motion (O. 54 r. 5)
+(42) In Form No. 65 delete the heading and insert:
+65.Notice of motion (O. 54 r. 5)
+(43) In Form No. 66 delete the heading and insert:
+66.Order of committal (O. 55 r. 7(4))
+(44) In Form No. 74 delete the heading and insert:
+74.Originating summons, appearance required (O. 58 r. 14)
+(45) In Form No. 75 delete the heading and insert:
+75.Originating summons, appearance not required (O. 58 r. 14)
+(46) In Form No. 76 delete the heading and insert:
+76.Notice of appointment to hear originating summons (O. 58 r. 19)
+(47) In Form No. 77 delete the heading and insert:
+77.Summons (general form) (O. 59 r. 4(1))
+(48) In Form No. 80 delete the heading and insert:
+80.Notice of judgment or order (O. 61 r. 3(3))
+(49) In Form No. 81 delete the heading and insert:
+81.Advertisement for creditors (O. 61 r. 15(2))
+(50) In Form No. 82 delete the heading and insert:
+82.Advertisement for claimants other than creditors (O. 61 r. 15(2))
+(51) In Form No. 93A delete the heading and insert:
+93A.Public Notaries Act 1979 s. 8, certificate (O. 76 r. 2)
+(52) In Form No. 93B delete the heading and insert:
+93B.Notice of intention to apply for appointment as public notary (O. 76 r. 3)
+(53) In Form No. 93C delete the heading and insert:
+93C.Certificate of appointment as public notary Western Australia (O. 76 r. 5(1))
+(54) In Form No. 93D delete the heading and insert:
+93D.Certificate that name of public notary remains on roll (O. 76 r. 5(2))
+(55) In Form No. 99 delete the heading and insert:
+99.Escheat (Procedure) Act 1940, notice of application under (O. 80 r. 3)
+(56) In Form No. 100 delete the heading and insert:
+100.Escheat (Procedure) Act 1940, order of escheat (O. 80 r. 7)
+(57) In Form No. 105 delete the heading and insert:
+105.Commercial Arbitration Act 1985, title of proceedings (O. 81D r. 2)
+(58) In Form No. 106 delete the heading and insert:
+106.Commercial Arbitration Act 1985, notice of payment into court (O. 81D r. 12)
+(59) In Form No. 107 delete the heading and insert:
+107.Commercial Arbitration Act 1985, notice of acceptance of sum paid into court (O. 81D r. 13)
+10.Heading to The Third Schedule replaced
+Delete the heading to The Third Schedule and insert:
+Schedule 3 — Payment into and out of court
+[O. 24 r. 12]
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
