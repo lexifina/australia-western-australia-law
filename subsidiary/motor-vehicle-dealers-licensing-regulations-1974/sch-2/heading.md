@@ -5,7 +5,8 @@ Western Australia
 Motor Vehicle Dealers Act 1973
 (Section 56(2)(g))
 NOTICE OF CHANGE OF EMPLOYMENT OR PLACE OF EMPLOYMENT
-TO:The Secretary, Motor Vehicle Dealers Licensing Board:
+To:The Commissioner
+Department of Commerce — Consumer Protection:
 This is to notify you that I, .....................................................................................
 (Name)
 of ............................................................................................................................
@@ -25,7 +26,7 @@ Dated this ............................. day of ............................. 20
 (Signature of Yard Manager or Salesperson)
 This notice shall be given within 14 days of the change notified occurring.
 † A person over the age of 18 years.
-[Form 14 amended in Gazette 13 Aug 2002 p. 4156.]
+[Form 14 amended in Gazette 13 Aug 2002 p. 4156; 30 Jun 2011 p. 2661-2.]
 [Forms 15 and 16 deleted in Gazette 29 Dec 1995 p. 6344.]
 Form 17 | Western Australia | Motor Vehicle Dealers Act 1973 (Section 24(1)) | REGISTER OF VEHICLE DEALERS | Licence No. | Licence-holder ................................................................................................................................................................ | Registered Office ............................................................................................................................................................ | Personal/Firm/Body Corporate ....................................................................................................................................... | Names of Yard Manager for Premises |  | [Form 17 amended in Gazette 13 Aug 2002 p. 4156.]
 Authorised Premises at
