@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 August 2010 of the Petroleum Pipelines Regulations 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum Pipelines Regulations 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Petroleum Pipelines Regulations 1970 | 30 Jul 1970 p. 2242-52 | 30 Jul 1970
@@ -18,6 +18,7 @@ Petroleum Pipelines Amendment Regulations (No. 3) 2010 | 11 May 2010 p. 1823-4 |
 Petroleum Pipelines Amendment Regulations (No. 2) 2010 | 14 May 2010 p. 2018-21 | r. 1 and 2: 14 May 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 15 May 2010 (see r. 2(b) and Gazette 14 May 2010 p. 2015)
 Petroleum Pipelines Amendment Regulations (No. 4) 2010 | 16 Jul 2010 p. 3363-4 | r. 1 and 2: 16 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jul 2010 (see r. 2(b)(ii))
 Reprint 2: The Petroleum Pipelines Regulations 1970 as at 13 Aug 2010 (includes amendments listed above)
+Petroleum Pipelines Amendment Regulations 2011 | 1 Jul 2011 p. 2739-41 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 The Acts Amendment (Petroleum) Act 1990 was proclaimed on 1 Oct 1990 (see Gazette 28 Sep 1990 p. 5099).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
