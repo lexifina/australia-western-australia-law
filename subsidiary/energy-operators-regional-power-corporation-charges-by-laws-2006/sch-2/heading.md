@@ -1,33 +1,33 @@
 ## Schedule 2 — Street lighting
 [bl. 4(2)]
-[Heading inserted in Gazette 26 Mar 2010 p. 1185.]
+[Heading inserted in Gazette 24 Jun 2011 p. 2497.]
 Item | Wattage | Type | Midnight Switch-off (Obsolescent) Cents per day | 1.15 a.m. Switch-off Cents per day | Dawn Switch-off Cents per day
 Street lighting on current offer and for existing services
-Z.01 | 50 | Mercury Vapour | 26.7304 | 27.3028 | 29.371
-Z.02 | 80 | Mercury Vapour | 31.4782 | 32.1806 | 35.4065
-Z.03 | 125 | Mercury Vapour | 38.9315 | 40.1932 | 44.7458
-Z.04 | 140 | Low Pressure Sodium | 39.842 | 41.1428 | 46.3718
-Z.07 | 250 | Mercury Vapour | 48.3099 | 50.7683 | 59.9386
-Z.10 | 400 | Mercury Vapour | 71.5673 | 75.3135 | 89.6217
-Z.13 | 150 | High Pressure Sodium | 36.8763 | 38.2291 | 45.7995
-Z.15 | 250 | High Pressure Sodium | 54.6706 | 57.5842 | 68.8227
-Z.18 | per kW | Auxiliary Lighting in Public Places | 156.6234 | 165.3254 | 199.5741
+Z.01 | 50 | Mercury Vapour | 34.7014 | 35.4445 | 38.1294
+Z.02 | 80 | Mercury Vapour | 40.8650 | 41.7769 | 45.9647
+Z.03 | 125 | Mercury Vapour | 50.5409 | 52.1788 | 58.0890
+Z.04 | 140 | Low Pressure Sodium | 51.7229 | 53.4116 | 60.1999
+Z.07 | 250 | Mercury Vapour | 62.7159 | 65.9074 | 77.8123
+Z.10 | 400 | Mercury Vapour | 92.9087 | 97.7720 | 116.3469
+Z.13 | 150 | High Pressure Sodium | 47.8728 | 49.6290 | 59.4569
+Z.15 | 250 | High Pressure Sodium | 70.9734 | 74.7558 | 89.3456
+Z.18 | per kW | Auxiliary Lighting in Public Places | 203.3285 | 214.6254 | 259.0871
 Street lighting for existing services only
-Z.05 | 250 | Mercury Vapour | 62.6052 | 65.0506 | 74.2338
-Z.06 | 400 | Mercury Vapour | 85.8756 | 89.6217 | 103.865
-Z.08 | 250 | Mercury Vapour 50% E.C. cost | 55.451 | 57.8705 | 67.0798
-Z.09 | 250 | Mercury Vapour 100% E.C. cost | 62.6052 | 65.0506 | 74.2338
-Z.11 | 400 | Mercury Vapour 50% E.C. cost | 78.7214 | 82.4806 | 96.7369
-Z.12 | 400 | Mercury Vapour 100% E.C. cost | 85.8756 | 89.6217 | 103.865
-Z.14 | 150 | H.P. Sodium | 56.8949 | 58.2216 | 65.7659
-Z.16 | 250 | H.P. Sodium 50% E.C. cost | 65.3758 | 68.3154 | 79.5279
-Z.17 | 250 | H.P. Sodium 100% E.C. cost | 76.0549 | 79.0336 | 90.2591
-Z.51 | 60 | Incandescent | 26.7304 | 27.3028 | 29.371
-Z.52 | 100 | Incandescent | 26.7304 | 27.3028 | 29.371
-Z.53 | 200 | Incandescent | 31.4782 | 32.1806 | 35.4065
-Z.54 | 300 | Incandescent | 38.9315 | 40.1932 | 44.7458
-Z.55 | 500 | Incandescent | 62.6052 | 65.0506 | 74.2338
-Z.56 | 40 | Fluorescent | 26.7304 | 27.3028 | 29.371
-Z.57 | 80 | Fluorescent | 31.4782 | 32.1806 | 35.4065
-Z.58 | 160 | Fluorescent | 44.0305 | 44.6417 | 51.7959
-[Schedule 2 inserted in Gazette 26 Mar 2010 p. 1185-7.]
+Z.05 | 250 | Mercury Vapour | 81.2741 | 84.4487 | 96.3703
+Z.06 | 400 | Mercury Vapour | 111.4837 | 116.3469 | 134.8375
+Z.08 | 250 | Mercury Vapour 50% E.C. cost | 71.9865 | 75.1275 | 87.0830
+Z.09 | 250 | Mercury Vapour 100% E.C. cost | 81.2741 | 84.4487 | 96.3703
+Z.11 | 400 | Mercury Vapour 50% E.C. cost | 102.1961 | 107.0763 | 125.5838
+Z.12 | 400 | Mercury Vapour 100% E.C. cost | 111.4837 | 116.3469 | 134.8375
+Z.14 | 150 | H.P. Sodium | 73.8610 | 75.5833 | 85.3773
+Z.16 | 250 | H.P. Sodium 50% E.C. cost | 84.8709 | 88.6871 | 103.2431
+Z.17 | 250 | H.P. Sodium 100% E.C. cost | 98.7345 | 102.6014 | 117.1744
+Z.51 | 60 | Incandescent | 34.7014 | 35.4445 | 38.1294
+Z.52 | 100 | Incandescent | 34.7014 | 35.4445 | 38.1294
+Z.53 | 200 | Incandescent | 40.8650 | 41.7769 | 45.9647
+Z.54 | 300 | Incandescent | 50.5409 | 52.1788 | 58.0890
+Z.55 | 500 | Incandescent | 81.2741 | 84.4487 | 96.3703
+Z.56 | 40 | Fluorescent | 34.7014 | 35.4445 | 38.1294
+Z.57 | 80 | Fluorescent | 40.8650 | 41.7769 | 45.9647
+Z.58 | 160 | Fluorescent | 57.1604 | 57.9539 | 67.2414
+[Schedule 2 inserted in Gazette 24 Jun 2011 p. 2497.]
