@@ -115,6 +115,7 @@ Enzootic Diseases Amendment Regulations (No. 2) 2009 | 26 Jun 2009 p. 2613-16 | 
 Enzootic Diseases Amendment Regulations 2010 | 30 Jun 2010 p. 3111-13 | r. 1 and 2: 30 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Enzootic Diseases Amendment Regulations 2011 | 15 Apr 2011 p. 1399-1412 | r. 1 and 2: 15 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Apr 2011 (see r. 2(b))
 Enzootic Diseases Amendment Regulations (No. 2) 2011 | 3 Jun 2011 p. 1975-6 | r. 1 and 2: 3 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jun 2011 (see r. 2(b))
+Enzootic Diseases Amendment Regulations (No. 3) 2011 | 30 Jun 2011 p. 2683-5 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is, unless the contrary is intended, to be read and construed as a reference to the Department of Agriculture and Food.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
