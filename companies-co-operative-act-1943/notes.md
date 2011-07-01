@@ -59,10 +59,11 @@ Legal Profession Act 2008 s. 649 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Companies (Co-operative) (Fees) Regulations 2009 published in Gazette 23 Jun 2009 p. 2434-6 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 4: The Companies (Co-operative) Act 1943 as at 7 Aug 2009 (includes amendments listed above except those in the Housing Societies Repeal Act 2005 s. 21)
 Acts Amendment (Bankruptcy) Act 2009 s. 18 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Companies (Co-operative) (Fees) Regulations 2011 published in Gazette 22 Jun 2011 p. 2339-43 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Co-operatives Act 2009 s. 490 | 24 of 2009 | 22 Oct 2009 | Operative on the last day of the period of 2 years after the day fixed under s. 2(b) (see s. 2(c))
+Co-operatives Act 2009 s. 490 | 24 of 2009 | 22 Oct 2009 | s. 490: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
 This refers to the Commonwealth Bankruptcy Act 1924 which was replaced by the Commonwealth Bankruptcy Act 1966.
 The Companies Act 1893 was repealed by the Companies Act 1943, which was repealed by the Companies Act 1961, s. 4 and 382(2), except in relation to Co-operative Companies, in respect of which it may now be cited as the Companies (Co-operative) Act 1943.
 Repealed by the Public Trustee Act 1941 s. 3.
