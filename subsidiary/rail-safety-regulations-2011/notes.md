@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Rail Safety Regulations 2011. The following table contains information about those regulations.
+This is a compilation of the Rail Safety Regulations 2011 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Rail Safety Regulations 2011 | 28 Jan 2011 p. 187-238 | r. 1 and 2: 28 Jan 2011 (see r. 2(a)); Regulations other than r. 1, 2 and 11: 1 Feb 2011 (see r. 2(b) and Gazette 28 Jan 2011 p. 241)
+Rail Safety Amendment Regulations 2011 | 21 Jun 2011 p. 2254-5 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
