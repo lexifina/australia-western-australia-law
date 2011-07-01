@@ -4,7 +4,7 @@ Item | Article | Description
 1. | Approved electric shock case | Any approved electric shock case.
 2. | Baton flail | An article consisting of 2 or more batons joined by a cord, rope or chain so as to form a flail and includes — (a)the martial arts weapon known as the nunchaku; and (b)a baton constructed in such a way that it can be unscrewed or broken to form a flail.
 3. | Bow | An article made or modified to be used to discharge an arrow by an elastic force and includes the arrow.
-4. | Crossbow | An article made or modified to be used to discharge a missile by an elastic force across a stock grooved to direct the missile and includes the missile.
+[4.deleted]
 5. | Dagger | A sharp pointed stabbing knife having — (a)a flat blade, exceeding 8 cm in length with non-serrated cutting edges along the length of both sides; or (b)a needle-like blade, the cross section of which is elliptical or has 3 or more sides, and includes a bayonet.
 6. | Double end knife | A knife — (a)having fixed blades at both ends of the handle; and (b)made or modified to be used to injure or disable a person or as a martial arts weapon, (e.g. the martial arts weapon known as the suan ywe gou).
 7. | Fixed baton | Any baton other than an extendable baton or a baton flail and includes the martial arts weapon known as the tonfa.
@@ -25,4 +25,4 @@ Item | Article | Description
 20. | Throwing blade or knife | A blade or knife made or modified to be thrown and includes an article consisting of a blade attached to a cord, rope or chain so as to enable the blade to be thrown and retrieved (e.g. the martial arts weapon known as the shoge, ninja kyokeysu shoge or kyotetsu shoge).
 21. | Throwing star | A sharpened, star-shaped article made or modified to be thrown (e.g. the martial arts weapon known as the shuriken or shaken) and includes a throwing star that is attached to a belt buckle.
 22. | Weighted chain or cord weapon | An article — (a)consisting of or incorporating a chain or cord made of any material and weighted at both ends; and (b)made or modified to be used to injure or disable a person or as a martial arts weapon, (e.g. the martial arts weapons known as the kusari fundo, manrikigusari and surujin).
-[Schedule 2 amended in Gazette 1 Oct 2004 p. 4284; 11 Apr 2008 p. 1392.]
+[Schedule 2 amended in Gazette 1 Oct 2004 p. 4284; 11 Apr 2008 p. 1392; 8 Apr 2011 p. 1286.]
