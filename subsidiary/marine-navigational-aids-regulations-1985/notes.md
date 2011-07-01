@@ -25,4 +25,5 @@ Reprint 3: The Marine Navigational Aids Regulations 1985 as at 7 Sep 2007 (inclu
 Marine Navigational Aids Amendment Regulations 2008 | 24 Jun 2008 p. 2890-1 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Marine Navigational Aids Amendment Regulations 2009 | 12 Jun 2009 p. 2127-8 | r. 1 and 2: 12 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Marine Navigational Aids Amendment Regulations 2010 | 18 Jun 2010 p. 2683-4 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+Marine Navigational Aids Amendment Regulations 2011 | 21 Jun 2011 p. 2244 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Formerly referred to the Ports and Harbours Regulations, the citation of which was changed to the Ports and Harbours Regulations 1966 by the Ports and Harbours Amendment Regulations 2005 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
