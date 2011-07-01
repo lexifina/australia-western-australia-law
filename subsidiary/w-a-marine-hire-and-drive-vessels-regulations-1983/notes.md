@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 24 September 2010 of the W.A. Marine (Hire and Drive Vessels) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the W.A. Marine (Hire and Drive Vessels) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Citation | Gazettal | Commencement
  | W.A. Marine (Hire and Drive Vessels) Regulations 1983 | 1 Jul 1983 p. 2185-8 | 1 Jul 1983 (see r. 2)
@@ -17,7 +17,7 @@ Compilation table
  | W.A. Marine Amendment Regulations 2000 r. 4 | 20 Jun 2000 p. 3062-71 | 1 Jul 2000 (see r. 2)
  | Reprint of the W.A. Marine (Hire and Drive Vessels) Regulations 1983 as at 9 Mar 2001 (includes amendments listed above)
  | W.A. Marine Amendment Regulations 2001 r. 4 | 27 Jul 2001 p. 3803-13 | 1 Aug 2001 (see r. 2)
- | W.A. Marine Amendment Regulations 2002 r. 4 | 14 Jun 2002 p. 2825-35 | 1 Jul 2002 (see r. 2)
+ | W.A. Marine Amendment Regulations 2002 r. 4 | 14 Jun 2002 p. 2325-35 | 1 Jul 2002 (see r. 2)
  | W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2003 | 27 Jun 2003 p. 2534 | 1 Jul 2003 (see r. 2)
  | W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2004 | 25 Jun 2004 p. 2263 | 1 Jul 2004 (see r. 2)
  | W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2005 | 24 Jun 2005 p. 2780-1 | 1 Jul 2005 (see r. 2)
@@ -28,6 +28,7 @@ Compilation table
  | W.A. Marine (Hire and Drive Vessels) Amendment Regulations (No. 2) 2008 | 24 Oct 2008 p. 4673-5 | r. 1 and 2: 24 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Oct 2008 (see r. 2(b))
 W.A. Marine Amendment Regulations 2009 Pt. 6 | 11 Dec 2009 p. 5087-109 | 12 Dec 2009 (see r. 2(b))
 Reprint 3: The W.A. Marine (Hire and Drive Vessels) Regulations 1983 as at 24 Sep 2010 (includes amendments listed above)
+W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2011 | 21 Jun 2011 p. 2239-40 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
