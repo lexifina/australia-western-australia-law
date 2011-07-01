@@ -7,17 +7,15 @@ Charitable Collections Act 1946
 Chattel Securities Act 1987
 Child Care Services Act 2007
 Companies (Co-operative) Act 1943
-Consumer Affairs Act 1971
-Consumer Credit (Western Australia) Act 1996
 Co-operative and Provident Societies Act 1903
 Credit Act 1984
 Credit (Administration) Act 1984
 Debt Collectors Licensing Act 1964
-Door to Door Trading Act 1987
 Electricity Act 1945
 Employment Agents Act 1976
 Energy Coordination Act 1994
 Energy Safety Act 2006
+Fair Trading Act 2010
 Gas Standards Act 1972
 Hire-Purchase Act 1959
 Land Administration Act 1997
@@ -32,4 +30,4 @@ Sunday Entertainments Act 1979
 Tobacco Products Control Act 2006
 Travel Agents Act 1985
 Western Australian Meat Industry Authority Act 1976
-[Schedule 1A inserted in Gazette 14 Jul 2006 p. 2568-9; amended in Gazette 13 Nov 2007 p. 5696; 8 May 2009 p. 1502; 23 Jun 2009 p. 2467; 26 Jun 2009 p. 2569; 17 Sep 2010 p. 4758.]
+[Schedule 1A inserted in Gazette 14 Jul 2006 p. 2568-9; amended in Gazette 13 Nov 2007 p. 5696; 8 May 2009 p. 1502; 23 Jun 2009 p. 2467; 26 Jun 2009 p. 2569; 17 Sep 2010 p. 4758; 1 Jul 2011 p. 2724.]
