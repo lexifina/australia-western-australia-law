@@ -34,6 +34,7 @@ Reprint 5: The Electricity (Licensing) Regulations 1991 as at 1 Oct 2010 (includ
 Public Sector Reform (Consequential Amendments) Regulations 2011 Pt. 2 | 11 Feb 2011 p. 502-7 | 12 Feb 2011 (see r. 2(d))
 Electricity (Licensing) Amendment Regulations 2011 | 10 May 2011 p. 1666-7 | r. 1 and 2: 10 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 11 May 2011 (see r. 2(b))
 Electricity (Licensing) Amendment Regulations (No. 2) 2011 | 17 May 2011 p. 1813-22 | r. 1 and 2: 17 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 18 May 2011 (see r. 2(b))
+Electricity (Licensing) Amendment Regulations (No. 3) 2011 | 22 Jun 2011 p. 2311-13 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
 Repealed by the Training Legislation Amendment and Repeal Act 2008 s. 50
 The Training Legislation Amendment and Repeal Act 2008 Pt. 2 came into operation 10 June 2009.
