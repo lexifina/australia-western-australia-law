@@ -9,3 +9,4 @@ Reprint 1: The Petroleum (Submerged Lands) Registration Fees Regulations 1990 as
 Petroleum (Submerged Lands) Registration Fees Amendment Regulations 2009 | 23 Jun 2009 p. 2477-8 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Petroleum (Submerged Lands) Registration Fees Amendment Regulations 2010 | 11 May 2010 p. 1821-2 | r. 1 and 2: 11 May 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 12 May 2010 (see r. 2(b))
 Petroleum (Submerged Lands) Registration Fees Amendment Regulations (No. 2) 2010 | 16 Jul 2010 p. 3361-2 | r. 1 and 2: 16 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jul 2010 (see r. 2(b)(ii))
+Petroleum (Submerged Lands) Registration Fees Amendment Regulations 2011 | 1 Jul 2011 p. 2738-9 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
