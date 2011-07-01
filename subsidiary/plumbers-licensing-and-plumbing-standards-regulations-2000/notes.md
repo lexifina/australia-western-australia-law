@@ -20,6 +20,8 @@ Reprint 2: The Water Services Licensing (Plumbers Licensing and Plumbing Standar
 Water Services Licensing (Plumbers Licensing and Plumbing Standards) Amendment Regulations 2009 | 11 Dec 2009 p. 5060-1 | r. 1 and 2: 11 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Dec 2009 (see r. 2(b))
 Water Services Licensing (Plumbers Licensing and Plumbing Standards) Amendment Regulations 2010 | 25 Jun 2010 p. 2881-2 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Public Sector Reform (Consequential Amendments) Regulations 2011 r. 20 | 11 Feb 2011 p. 502-7 | 12 Feb 2011 (see r. 2(d))
+Water Services Licensing (Plumbers Licensing and Plumbing Standards) Amendment Regulations (No. 2) 2011 | 22 Jun 2011 p. 2329-31 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Water Services Licensing (Plumbers Licensing and Plumbing Standards) Amendment Regulations 2011 | 30 Jun 2011 p. 2655-6 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Formerly referred to the Water Services Coordination Act 1995 the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62.
 Now known as the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000; citation changed (see note under r. 1).
 The Water Services Coordination (Plumbers Licensing) Amendment Regulations (No. 2) 2004 Pt. 3 reads as follows:
