@@ -36,6 +36,7 @@ Seeds Amendment Regulations 2008 | 16 Sep 2008 p. 4187-8 | r. 1 and 2: 16 Sep 20
 Seeds Amendment Regulations 2009 | 26 Jun 2009 p. 2609-11 | r. 1 and 2: 26 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 3: The Seeds Regulations 1982 as at 7 Aug 2009 (includes amendments listed above)
 Seeds Amendment Regulations 2010 | 30 Jun 2010 p. 3121-3 | r. 1 and 2: 30 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+Seeds Amendment Regulations 2011 | 30 Jun 2011 p. 2699-701 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
