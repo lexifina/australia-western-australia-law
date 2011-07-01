@@ -68,6 +68,8 @@ Real Estate and Business Agents (General) Amendment Regulations (No. 5) 2009 | 1
 Reprint 6: The Real Estate and Business Agents (General) Regulations 1979 as at 11 Dec 2009 (includes amendments listed above)
 Real Estate and Business Agents (General) Amendment Regulations 2010 | 28 May 2010 p. 2297-8 | r. 1 and 2: 28 May 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 29 May 2010 (see r. 2(b))
 Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2010 | 25 Jun 2010 p. 2851-2 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+Real Estate and Business Agents (General) Amendment Regulations 2011 | 22 Jun 2011 p. 2367-8 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2011 | 30 Jun 2011 p. 2669-72 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Evidence Act 1906 s. 106 repealed by Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 51.
 The commencement date in r. 2 was of no effect as it was before the date of gazettal.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
