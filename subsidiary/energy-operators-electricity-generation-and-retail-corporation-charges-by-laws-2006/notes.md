@@ -8,6 +8,7 @@ Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 20
 Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2009 | 30 Mar 2009 p. 967-95 | bl. 1 and 2: 30 Mar 2009 (see bl. 2(a)); bl. 3 and Pt. 2: 1 Apr 2009 (see bl. 2(b)); Pt. 3: 1 Jul 2009 (see bl. 2(c))
 Reprint 1: The Energy Operators (Electricity Retail Corporation) (Charges) By-laws 2006 as at 18 Sep 2009 (includes amendments listed above)
 Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2010 | 26 Mar 2010 p. 1135-42 | Pt. 1: 26 Mar 2010 (see bl. 2(a)); Pt. 2: 1 Apr 2010 (see bl. 2(b)); Pt. 3: 1 Jul 2010 (see bl. 2(c))
+Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2011 | 24 Jun 2011 p. 2499-503 | bl. 1 and 2: 24 Jun 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2011 (see bl. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
