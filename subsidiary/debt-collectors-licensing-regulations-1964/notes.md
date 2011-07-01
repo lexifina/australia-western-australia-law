@@ -25,6 +25,7 @@ Debt Collectors Licensing Amendment Regulations 2008 | 17 Jun 2008 p. 2549 | r. 
 Debt Collectors Licensing Amendment Regulations 2009 | 23 Jun 2009 p. 2437 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 4: The Debt Collectors Licensing Regulations 1964 as at 21 Aug 2009 (includes amendments listed above)
 Debt Collectors Licensing Amendment Regulations 2010 | 25 Jun 2010 p. 2844-5 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+Debt Collectors Licensing Amendment Regulations 2011 | 22 Jun 2011 p. 2345-6 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 The Machinery of Government (Miscellaneous Amendments) Act 2006 s. 151(5) provides that a reference to the Commissioner for Fair Trading is to have effect as if it had been amended to be a reference to the Commissioner as defined by the Consumer Affairs Act 1971.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection is called the Department of Commerce.
 Defined Terms
