@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 16 February 2007 of the Motor Vehicle Dealers (Sales) Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Motor Vehicle Dealers (Sales) Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Motor Vehicle Dealers (Sales) Regulations 1974 | 14 Jun 1974 p. 1926-36 | 12 Aug 1974
@@ -24,3 +24,4 @@ Motor Vehicle Dealers (Sales) Amendment Regulations 2002 | 13 Aug 2002 p. 4159-7
 Motor Vehicle Dealers (Sales) Amendment Regulations (No. 2) 2002 | 30 Aug 2002 p. 4455-6 | 1 Sep 2002 (see r. 2 and Gazette 13 Aug 2002 p. 4159 and p. 4151)
 Motor Vehicle Dealers (Sales) Amendment Regulations 2006 | 17 Nov 2006 p. 4750-9 | 1 Jan 2007 (see r. 2)
 Reprint 3: The Motor Vehicle Dealers (Sales) Regulations 1974 as at 16 Feb 2007 (includes amendments listed above)
+Motor Vehicle Dealers (Sales) Amendment Regulations (No. 2) 2011 | 30 Jun 2011 p. 2659-60 | r. 1 and 2: 30 Jun 2011 (see r. 1(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
