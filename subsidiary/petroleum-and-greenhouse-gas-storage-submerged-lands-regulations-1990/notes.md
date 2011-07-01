@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 24 September 2010 of the Petroleum (Submerged Lands) Regulations 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum (Submerged Lands) Regulations 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Petroleum (Submerged Lands) Regulations 1990 | 28 Sep 1990 p. 5105-8 | 1 Oct 1990 (see r. 2 and Gazette 28 Sep 1990 p. 5099)
@@ -18,6 +18,7 @@ Petroleum (Submerged Lands) Amendment Regulations (No. 2) 2010 | 11 May 2010 p. 
 Petroleum (Submerged Lands) Amendment Regulations (No. 3) 2010 | 16 Jul 2010 p. 3359-61 | r. 1 and 2: 16 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jul 2010 (see r. 2(b)(ii))
 Reprint 2: The Petroleum (Submerged Lands) Regulations 1990 as at 24 Sep 2010 (includes amendments listed above)
 Petroleum (Submerged Lands) Amendment Regulations 2011 | 24 May 2011 p. 1897-8 | r. 1 and 2: 24 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 25 May 2011 (see r. 2(b) and Gazette 24 May 2011 p. 1892)
+Petroleum (Submerged Lands) Amendment Regulations (No. 2) 2011 | 1 Jul 2011 p. 2736-8 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Division 4A (s. 74A to 74I) of the Petroleum (Submerged Lands) Act 1982 was deleted by the Acts Amendment and Repeal (Native Title) Act 1995.
 Commencement day was 16 December 2000 (see Gazette 15 December 2000 p. 7201).
 Defined Terms
