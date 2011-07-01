@@ -7,6 +7,7 @@ Women’s and Children’s Hospitals Amendment By-laws 2006 | 19 Dec 2006 p. 568
 Women’s and Children’s Hospitals Amendment By-laws 2009 | 22 May 2009 p. 1695-700 | bl. 1 and 2: 22 May 2009 (see bl. 2(a)); By-laws other than bl. 1 and 2: 23 May 2009 (see bl. 2(b))
 Reprint 1: The Women’s and Children’s Hospitals By-laws 2005 as at 8 Jan 2010 (includes amendments listed above)
 Women’s and Children’s Hospitals Amendment By-laws 2010 | 26 Nov 2010 p. 5951-2 | bl. 1 and 2: 26 Nov 2010 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jan 2011 (see bl. 2(b))
+Women’s and Children’s Hospitals Amendment By-laws 2011 | 24 Jun 2011 p. 2506-7 | bl. 1 and 2: 24 Jun 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2011 (see bl. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
