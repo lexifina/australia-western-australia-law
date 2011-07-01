@@ -1,242 +1,242 @@
 ## Schedule 9 — Classification of towns/areas for the purpose of determining quantity charges in the previous year
 [bl. 17D(3)]
-[Heading inserted in Gazette 25 Jun 2010 p. 2961.]
+[Heading inserted in Gazette 23 Jun 2011 p. 2474.]
 Town/area | Residential classification | Non-residential classification
-Albany | 2 | 3
-Albany Farmlands | 2 | 3
+Albany | 3 | 4
+Albany Farmlands | 3 | 4
 Allanooka Farmlands | 1 | 1
-Allanson | 4 | 7
-Arrino | 5 | 12
-Arrowsmith Farmlands | 5 | 9
-Augusta | 4 | 9
-Australind/Eaton | 1 | 1
-Badgingarra | 5 | 12
-Bakers Hill | 4 | 7
-Balingup | 5 | 9
-Ballidu | 5 | 11
-Beacon | 5 | 12
-Bencubbin | 5 | 12
-Beverley | 4 | 7
-Bindi Bindi | 5 | 12
-Bindoon/Chittering | 5 | 9
-Binningup | 4 | 7
-Bodallin | 4 | 7
-Boddington | 4 | 7
-Bolgart | 5 | 11
-Borden | 5 | 12
-Boyanup | 2 | 3
-Boyup Brook | 4 | 7
-Bremer Bay | 5 | 9
-Bridgetown/Hester | 5 | 9
-Broad Arrow | 5 | 12
-Brookton | 5 | 9
-Broome | 1 | 1
-Broomehill | 5 | 9
-Bruce Rock | 5 | 11
+Allanson | 4 | 8
+Arrino | 5 | 13
+Arrowsmith Farmlands | 5 | 10
+Augusta | 5 | 10
+Australind/Eaton | 2 | 1
+Badgingarra | 5 | 13
+Bakers Hill | 4 | 8
+Balingup | 5 | 10
+Ballidu | 5 | 12
+Beacon | 5 | 13
+Bencubbin | 5 | 13
+Beverley | 5 | 8
+Bindi Bindi | 5 | 13
+Bindoon/Chittering | 5 | 10
+Binningup | 5 | 8
+Bodallin | 5 | 8
+Boddington | 5 | 8
+Bolgart | 5 | 12
+Borden | 5 | 13
+Boyanup | 3 | 4
+Boyup Brook | 5 | 8
+Bremer Bay | 5 | 10
+Bridgetown/Hester | 5 | 10
+Broad Arrow | 5 | 13
+Brookton | 5 | 10
+Broome | 2 | 1
+Broomehill | 5 | 10
+Bruce Rock | 5 | 12
 Brunswick/Burekup/Roelands | 3 | 6
-Bullaring | 5 | 9
-Bullfinch | 5 | 12
-Bunjil | 5 | 11
-Buntine | 5 | 12
-Burracoppin | 4 | 7
-Calingiri | 5 | 9
-Camballin | 5 | 11
-Capel | 1 | 2
-Carnamah | 4 | 7
-Carnarvon | 4 | 7
-Caron | 5 | 11
-Cervantes | 3 | 3
-Collie | 2 | 3
+Bullaring | 5 | 10
+Bullfinch | 5 | 13
+Bunjil | 5 | 12
+Buntine | 5 | 13
+Burracoppin | 5 | 8
+Calingiri | 5 | 10
+Camballin | 5 | 12
+Capel | 2 | 3
+Carnamah | 4 | 8
+Carnarvon | 4 | 8
+Caron | 5 | 12
+Cervantes | 4 | 4
+Collie | 2 | 4
 Collie Farmlands | 1 | 1
-Condingup | 5 | 11
-Coolgardie | 5 | 9
-Coomberdale | 5 | 12
-Coorow | 4 | 7
+Condingup | 5 | 12
+Coolgardie | 5 | 10
+Coomberdale | 5 | 13
+Coorow | 5 | 8
 Coral Bay | 5 | N/A
-Corrigin | 5 | 11
-Cowaramup | 4 | 9
-Cranbrook | 5 | 11
-Cuballing | 5 | 9
-Cue | 5 | 9
-Cunderdin | 3 | 3
-Dalwallinu | 5 | 9
-Dalyellup | 1 | 4
-Dandaragan | 5 | 11
-Dardanup | 5 | 9
-Darkan | 4 | 7
-Dathagnoorara Farmlands | 3 | 3
-Denham (Saline) | 2 | 6
-Denmark | 5 | 11
-Derby | 3 | 7
-Dongara/Denison | 1 | 1
-Donnybrook | 2 | 3
-Doodlakine | 5 | 9
-Dowerin | 4 | 7
-Dudinin/Harrismith/Jitarning | 5 | 12
-Dumbleyung | 5 | 12
-Dunsborough/Yallingup | 2 | 6
-Dwellingup | 5 | 9
-Eneabba | 4 | 7
-Eradu | 5 | 9
-Esperance | 2 | 3
-Exmouth | 3 | 7
-Fitzroy Crossing | 2 | 5
-Frankland | 5 | 11
-Gabbadah | 4 | 7
-Gascoyne Junction | 5 | 11
-Geraldton | 1 | 1
-Gibson | 5 | 11
-Gingin | 4 | 7
-Gnarabup | 3 | 3
-Gnowangerup | 5 | 11
-Goomalling | 5 | 9
-Grass Patch | 5 | 12
-Grass Valley | 4 | 7
-Greenbushes | 5 | 9
-Greenhead | 3 | 7
-Guilderton | 3 | 7
-Halls Creek | 5 | 9
-Hamel/Waroona | 1 | 1
-Harvey/Wokalup | 1 | 1
-Highbury/Piesseville | 5 | 9
-Hines Hill | 5 | 9
-Hopetoun | 5 | 9
-Horrocks | 5 | 11
-Hyden | 5 | 11
-Jerramungup | 5 | 11
-Jurien Bay | 1 | 1
-Kalannie | 5 | 11
-Kalbarri | 1 | 1
-Kalgoorlie/Boulder | 5 | 9
-Kambalda | 2 | 5
-Karakin | 4 | 7
-Karlgarin | 5 | 12
-Karratha | 3 | 7
-Katanning | 5 | 9
-Katanning Farmlands | 4 | 9
-Kellerberrin | 5 | 9
-Kendenup | 5 | 11
-Kendenup Farmlands | 4 | 9
-Kirup | 5 | 11
-Kojonup/Muradup | 5 | 9
-Kondinin | 5 | 11
-Koorda | 5 | 9
-Kukerin/Moulyinning | 5 | 12
-Kulin | 5 | 11
-Kununoppin | 5 | 11
-Kununurra | 2 | 3
-Lake Argyle | 5 | 11
-Lake Grace | 5 | 11
-Lake King | 5 | 12
-Lancelin | 4 | 7
-Latham | 5 | 11
-Laverton | 5 | 9
-Ledge Point | 3 | 7
-Leeman | 4 | 7
-Leonora | 5 | 9
-Mandurah | 1 | 1
-Manjimup | 4 | 7
-Marble Bar | 5 | 11
-Margaret River | 1 | 1
-Marvel Loch | 5 | 11
-Meckering | 4 | 7
-Meekatharra | 4 | 9
-Menzies | 5 | 12
-Merredin | 3 | 7
-Merredin Farmlands | 5 | 11
-Miling | 5 | 9
-Mingenew | 4 | 7
+Corrigin | 5 | 12
+Cowaramup | 5 | 10
+Cranbrook | 5 | 12
+Cuballing | 5 | 10
+Cue | 5 | 10
+Cunderdin | 4 | 4
+Dalwallinu | 5 | 10
+Dalyellup | 2 | 4
+Dandaragan | 5 | 12
+Dardanup | 5 | 10
+Darkan | 5 | 8
+Dathagnoorara Farmlands | 3 | 4
+Denham (Saline) | 2 | 5
+Denmark | 5 | 12
+Derby | 2 | 6
+Dongara/Denison | 2 | 1
+Donnybrook | 2 | 4
+Doodlakine | 5 | 10
+Dowerin | 5 | 8
+Dudinin/Harrismith/Jitarning | 5 | 13
+Dumbleyung | 5 | 13
+Dunsborough/Yallingup | 2 | 5
+Dwellingup | 5 | 10
+Eneabba | 5 | 8
+Eradu | 5 | 10
+Esperance | 2 | 4
+Exmouth | 3 | 8
+Fitzroy Crossing | 2 | 4
+Frankland | 5 | 12
+Gabbadah | 5 | 8
+Gascoyne Junction | 5 | 12
+Geraldton | 2 | 1
+Gibson | 5 | 12
+Gingin | 5 | 8
+Gnarabup | 4 | 4
+Gnowangerup | 5 | 12
+Goomalling | 5 | 10
+Grass Patch | 5 | 13
+Grass Valley | 5 | 8
+Greenbushes | 5 | 10
+Greenhead | 4 | 8
+Guilderton | 3 | 8
+Halls Creek | 5 | 10
+Hamel/Waroona | 2 | 2
+Harvey/Wokalup | 2 | 2
+Highbury/Piesseville | 5 | 10
+Hines Hill | 5 | 10
+Hopetoun | 5 | 10
+Horrocks | 5 | 12
+Hyden | 5 | 12
+Jerramungup | 5 | 12
+Jurien Bay | 2 | 2
+Kalannie | 5 | 12
+Kalbarri | 2 | 2
+Kalgoorlie/Boulder | 5 | 10
+Kambalda | 3 | 6
+Karakin | 5 | 8
+Karlgarin | 5 | 13
+Karratha | 2 | 6
+Katanning | 5 | 10
+Katanning Farmlands | 5 | 10
+Kellerberrin | 5 | 10
+Kendenup | 5 | 12
+Kendenup Farmlands | 5 | 10
+Kirup | 5 | 12
+Kojonup/Muradup | 5 | 10
+Kondinin | 5 | 12
+Koorda | 5 | 10
+Kukerin/Moulyinning | 5 | 13
+Kulin | 5 | 12
+Kununoppin | 5 | 12
+Kununurra | 2 | 2
+Lake Argyle | 5 | 12
+Lake Grace | 5 | 12
+Lake King | 5 | 13
+Lancelin | 5 | 8
+Latham | 5 | 12
+Laverton | 5 | 10
+Ledge Point | 4 | 8
+Leeman | 4 | 8
+Leonora | 5 | 10
+Mandurah | 2 | 2
+Manjimup | 4 | 8
+Marble Bar | 5 | 12
+Margaret River | 2 | 2
+Marvel Loch | 5 | 12
+Meckering | 5 | 8
+Meekatharra | 4 | 10
+Menzies | 5 | 13
+Merredin | 3 | 8
+Merredin Farmlands | 4 | 10
+Miling | 5 | 10
+Mingenew | 4 | 8
 Moora | 2 | 3
-Moorine Rock | 5 | 12
-Morawa | 5 | 9
-Mount Barker | 5 | 9
-Mount Magnet | 4 | 7
-Mount Roe | 5 | 12
-Mukinbudin | 5 | 11
-Mullalyup | 5 | 12
-Mullewa | 5 | 11
-Mullewa Farmlands | 4 | 9
-Munglinup | 5 | 12
-Muntadgin | 5 | 12
-Myalup | 5 | 9
-Nabawa | 5 | 9
-Nannup | 5 | 9
-Narembeen | 5 | 11
+Moorine Rock | 5 | 13
+Morawa | 5 | 10
+Mount Barker | 5 | 10
+Mount Magnet | 4 | 8
+Mount Roe | 5 | 13
+Mukinbudin | 5 | 12
+Mullalyup | 5 | 13
+Mullewa | 4 | 10
+Mullewa Farmlands | 4 | 10
+Munglinup | 5 | 13
+Muntadgin | 5 | 13
+Myalup | 5 | 10
+Nabawa | 5 | 10
+Nannup | 5 | 10
+Narembeen | 5 | 12
 Narngulu | 1 | 1
-Narrikup | 5 | 9
-Narrogin | 4 | 7
-Narrogin Farmlands | 3 | 9
-New Norcia | 5 | 11
-Newdegate | 5 | 11
-Newman | 1 | 3
-Nilgen | 1 | 4
-Norseman | 5 | 11
-North Dandalup | 3 | 7
-Northam | 3 | 3
-Northam Farmlands | 5 | 10
-Northampton | 5 | 9
-Northcliffe | 5 | 11
-Nullagine | 5 | 11
-Nungarin | 5 | 11
-Nyabing | 5 | 11
-Ongerup | 5 | 12
-Onslow | 5 | 11
-Ora Banda | 5 | 12
-Park Ridge | 2 | 3
-Pemberton | 5 | 9
-Peppermint Grove Beach | 4 | 9
-Perenjori | 5 | 11
-Pingaring | 5 | 12
-Pingelly | 5 | 9
-Pingrup | 5 | 12
-Pinjarra | 1 | 2
-Pithara | 5 | 9
-Point Samson | 4 | 9
-Popanyinning | 5 | 11
-Porongurup | 1 | 1
-Porongurup Farmlands | 5 | 9
-Port Hedland | 2 | 3
-Preston Beach | 5 | 9
-Quairading | 5 | 9
-Quinninup | 5 | 12
-Ravensthorpe | 5 | 12
-Rocky Gully | 5 | 12
-Roebourne | 4 | 9
-Salmon Gums | 5 | 12
-Sandstone | 5 | 11
-Seabird | 4 | 9
-South Hedland | 2 | 3
-Southern Cross | 3 | 6
-Tambellup | 5 | 11
-Tammin | 4 | 7
-Three Springs | 5 | 9
-Tincurrin | 5 | 12
-Toodyay | 4 | 7
-Trayning | 5 | 11
-Varley | 5 | 12
-Wagin | 5 | 9
+Narrikup | 5 | 10
+Narrogin | 5 | 8
+Narrogin Farmlands | 3 | 8
+New Norcia | 5 | 12
+Newdegate | 5 | 12
+Newman | 1 | 2
+Nilgen | 2 | 5
+Norseman | 4 | 11
+North Dandalup | 3 | 8
+Northam | 4 | 4
+Northam Farmlands | 4 | 10
+Northampton | 5 | 10
+Northcliffe | 5 | 12
+Nullagine | 5 | 12
+Nungarin | 5 | 12
+Nyabing | 5 | 12
+Ongerup | 5 | 13
+Onslow | 5 | 12
+Ora Banda | 5 | 13
+Park Ridge | 3 | 4
+Pemberton | 5 | 10
+Peppermint Grove Beach | 4 | 10
+Perenjori | 5 | 12
+Pingaring | 5 | 13
+Pingelly | 5 | 10
+Pingrup | 5 | 13
+Pinjarra | 1 | 1
+Pithara | 5 | 10
+Point Samson | 4 | 10
+Popanyinning | 5 | 12
+Porongurup | 2 | 2
+Porongurup Farmlands | 5 | 10
+Port Hedland | 2 | 4
+Preston Beach | 5 | 10
+Quairading | 5 | 10
+Quinninup | 5 | 13
+Ravensthorpe | 5 | 13
+Rocky Gully | 5 | 13
+Roebourne | 4 | 10
+Salmon Gums | 5 | 13
+Sandstone | 5 | 12
+Seabird | 5 | 10
+South Hedland | 2 | 4
+Southern Cross | 3 | 7
+Tambellup | 5 | 12
+Tammin | 5 | 8
+Three Springs | 5 | 10
+Tincurrin | 5 | 13
+Toodyay | 5 | 8
+Trayning | 5 | 12
+Varley | 5 | 13
+Wagin | 5 | 10
 Walkaway | 1 | 1
-Walpole | 5 | 11
-Wandering | 5 | 11
-Watheroo | 5 | 11
-Wellstead | 5 | 12
-Westonia | 4 | 9
-Wickepin | 5 | 9
-Wickham | 4 | 9
-Widgiemooltha | 5 | 11
-Williams | 4 | 7
-Wiluna | 4 | 7
-Wongan Hills | 5 | 11
-Woodanilling | 5 | 9
-Woodridge | 4 | 7
-Wubin | 5 | 11
+Walpole | 5 | 12
+Wandering | 5 | 12
+Watheroo | 5 | 12
+Wellstead | 5 | 13
+Westonia | 5 | 10
+Wickepin | 5 | 10
+Wickham | 4 | 10
+Widgiemooltha | 5 | 12
+Williams | 5 | 8
+Wiluna | 5 | 8
+Wongan Hills | 5 | 12
+Woodanilling | 5 | 10
+Woodridge | 5 | 8
+Wubin | 5 | 12
 Wundowie | 1 | 1
-Wyalkatchem | 5 | 9
-Wyndham | 5 | 11
-Yalgoo | 5 | 11
-Yarloop/Wagerup | 3 | 3
-Yealering | 5 | 9
-Yerecoin | 5 | 12
-York | 3 | 7
-Yuna | 5 | 12
-[Schedule 9 inserted in Gazette 25 Jun 2010 p. 2961-71.]
+Wyalkatchem | 5 | 10
+Wyndham | 5 | 12
+Yalgoo | 5 | 12
+Yarloop/Wagerup | 4 | 4
+Yealering | 5 | 10
+Yerecoin | 5 | 13
+York | 4 | 8
+Yuna | 5 | 13
+[Schedule 9 inserted in Gazette 23 Jun 2011 p. 2474-83.]
