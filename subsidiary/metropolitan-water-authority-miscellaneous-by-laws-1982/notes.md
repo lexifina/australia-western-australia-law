@@ -41,6 +41,7 @@ Water Agencies Amendment By-laws 2007 Pt. 5 | 29 Jun 2007 p. 3233-44 | 1 Jul 200
 Water Agencies Amendment By-laws 2008 Pt. 5 | 27 Jun 2008 p. 3076-84 | 1 Jul 2008 (see bl. 2(b))
 Water Agencies Amendment By-laws 2009 Pt. 5 | 19 Jun 2009 p. 2393-406 | bl. 1 and 2: 19 Jun 2009 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2009 (see bl. 2(b))
 Water Agencies Amendment By-laws 2010 Pt. 5 | 25 Jun 2010 p. 2983-96 | 1 Jul 2010 (see bl. 2(b))
+Water Agencies Amendment By-laws 2011 Pt. 5 | 23 Jun 2011 p. 2403-16 | 1 Jul 2011 (see bl. 2(b))
 These by-laws have effect for the purposes of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 Now known as the Metropolitan Water Authority (Miscellaneous) By-laws 1982; citation changed (see note under bl. 1).
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.

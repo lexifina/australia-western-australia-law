@@ -92,6 +92,7 @@ Water Agencies Amendment By-laws 2009 Pt. 3 | 19 Jun 2009 p. 2393-406 | bl. 1 an
 Country Areas Water Supply Amendment By-laws 2010 | 25 Jun 2010 p. 2884 | bl. 1 and 2: 25 Jun 2010 (see bl. 2(a)); By-laws other than bl. 1 and 2: 26 Jun 2010 (see bl. 2(b))
 Water Agencies Amendment By-laws 2010 Pt. 3 | 25 Jun 2010 p. 2983-96 | 1 Jul 2010 (see bl. 2(b))
 Country Areas Water Supply Amendment By-laws 2011 | 21 Apr 2011 p. 1470-2 | bl. 1 and 2: 21 Apr 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 22 Apr 2011 (see bl. 2(b))
+Water Agencies Amendment By-laws 2011 Pt. 3 | 23 Jun 2011 p. 2403-16 | 1 Jul 2011 (see bl. 2(b))
 These by-laws have effect for the purposes of the Country Areas Water Supply Act 1947 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 The Water Resources Legislation Amendment Act 2007 s. 223 reads as follows:
 “
