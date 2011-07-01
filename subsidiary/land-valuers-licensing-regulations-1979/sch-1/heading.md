@@ -1,13 +1,12 @@
 ## Schedule 1 — Fees
-[r. 4, 5A]
-[Heading inserted in Gazette 25 Jun 2010 p. 2848.]
- |  | $
-1. | Fee for a licence (period of 3 years) | 702.00
-2. | Fee for renewal of licence | 702.00
-3. | Fee for duplicate licence | 30.75
-4. | Fee to inspect register | 10.20
-5. | Fee for certificate as to an individual registration in the register —
- | first page | 10.20
- | each subsequent page | 2.00
-6. | Fee for certificate as to all registrations in the register | 125.00
-[Schedule 1 inserted in Gazette 25 Jun 2010 p. 2848.]
+[r. 4 and 5A]
+[Heading inserted in Gazette 22 Jun 2011 p. 2364.]
+Table
+Item | Description of fee | $
+1. | Grant of licence (for 3 years) | 723.00
+2. | Renewal of licence (for 3 years) | 723.00
+3. | Issue of duplicate licence | 31.75
+4. | Inspection of register | 10.50
+5. | Certificate as to an individual registration in register — first page each subsequent page | 10.50 2.00
+6. | Certificate as to all registrations in register | 129.00
+[Schedule 1 inserted in Gazette 22 Jun 2011 p. 2364.]
