@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 January 2011 of the Working with Children (Criminal Record Checking) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Working with Children (Criminal Record Checking) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Working with Children (Criminal Record Checking) Regulations 2005 | 21 Dec 2005 p. 6189-214 | 1 Jan 2006 (see r. 2 and Gazette 30 Dec 2005 p. 6875)
@@ -12,6 +12,7 @@ Working with Children (Criminal Record Checking) Amendment Regulations 2007 | 7 
 Working with Children (Criminal Record Checking) Amendment (Road Traffic) Regulations 2008 | 20 Jun 2008 p. 2706-7 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 Working with Children (Criminal Record Checking) Amendment Regulations 2010 | 5 Oct 2010 p. 5113-18 | r. 1, 2 and 3: 5 Oct 2010 (see r. 2(a)); r. 5: 6 Oct 2010 (see r. 2(b) and Gazette 5 Oct 2010 p. 5113); Regulations other than r. 1, 2, 3 and 5: 6 Oct 2010 (see r. 2(c))
 Reprint 2: The Working with Children (Criminal Record Checking) Regulations 2005 as at 14 Jan 2011 (includes amendments listed above)
+Working with Children (Criminal Record Checking) Amendment Regulations 2011 | 1 Jul 2011 p. 2713-14 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Now known as the Electricity Transmission and Distribution Systems (Access) Act 1994.
 Repealed by the Children and Community Services Act 2004 s. 250.
 Defined Terms
