@@ -81,6 +81,7 @@ Firearms Amendment (Manufacture of Frangible Ammunition) Regulations 2010 | 23 A
 Firearms Amendment (Fees) Regulations 2010 | 18 Jun 2010 p. 2695-6 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Firearms Amendment Regulations 2010 | 31 Aug 2010 p. 4184-9 | r. 1 and 2: 31 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2010 (see r. 2(b))
 Firearms Amendment Regulations 2011 | 4 Feb 2011 p. 396-7 | r. 1 and 2: 4 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Feb 2011 (see r. 2(b))
+Firearms Amendment Regulations (No. 2) 2011 | 10 Jun 2011 p. 2106-8 | r. 1 and 2: 10 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 The Explosives and Dangerous Goods Act 1961 was repealed by the Dangerous Goods Safety Act 2004 s. 70.
 The Firearms Amendment Regulations 1996 r. 9(2) reads as follows:
 (2) The notation “PR” endorsed on a licence or permit before the commencement of this regulation is to be regarded as if it were the notation “HR”.
