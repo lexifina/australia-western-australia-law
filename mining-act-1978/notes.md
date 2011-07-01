@@ -70,14 +70,13 @@ Revenue Laws Amendment Act (No. 2) 2008 Pt. 2 Div. 2 | 31 of 2008 | 27 Jun 2008 
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 8 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 7: The Mining Act 1978 as at 3 Jul 2009 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 2)
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 6 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
-Approvals and Related Reforms (No. 2) (Mining) Act 2010 Pt. 3 | 12 of 2010 | 3 Jun 2010 | 21 Mar 2011 (see s. 2(b) and Gazette 18 Mar 2011 p. 909)
+Approvals and Related Reforms (No. 2) (Mining) Act 2010 Pt. 2 and 3 | 12 of 2010 | 3 Jun 2010 | Pt. 3: 21 Mar 2011 (see s. 2(b) and Gazette 18 Mar 2011 p. 909); Pt. 2: 1 Jul 2011 (see s. 2(b) and Gazette 18 Mar 2011 p. 909)
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Approvals and Related Reforms (No. 2) (Mining) Act 2010 Pt. 2 | 12 of 2010 | 3 Jun 2010 | 1 Jul 2011 (see s. 2(b) and Gazette 18 Mar 2011 p. 909)
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
 The Mining Amendment Act 1981 s. 3 reads as follows:
@@ -349,66 +348,6 @@ Immediately before section 91 the following section is inserted —
 (1)The operation of this Division is subject to section 2.6, 3.5 or 4.3, as the case may be, of the Native Title (State Provisions) Act 1999 where the grant of a miscellaneous licence is a Part 2 act, a Part 3 act or a Part 4 act within the meaning of that Act.
 (2)The provisions relating to objections to the granting of an application that apply for the purposes of this Division do not apply to an objection of the kind referred to in section 2.16, 3.15 or 4.11 of the Native Title (State Provisions) Act 1999, and objections of that kind can only be made under that Act.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Approvals and Related Reforms (No. 2) (Mining) Act 2010 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Mine closure plans, and other measures to minimise damage to land, under Mining Act 1978
-3.Act amended
-This Part amends the Mining Act 1978.
-4.Section 6 amended
-After section 6(2) insert:
-(3) Whenever a provision of the Contaminated Sites Act 2003 is inconsistent with a provision of this Act or a mining tenement, the provision of the Contaminated Sites Act 2003 prevails.
-5.Section 46A amended
-In section 46A(1):
-(a) delete “natural surface of the”;
-(b) after “anything on” insert:
-or below
-6.Section 63AA amended
-In section 63AA(1):
-(a) delete “natural surface of the”;
-(b) after “anything on” insert:
-or below
-7.Section 70I amended
-In section 70I(1):
-(a) delete “natural surface of the”;
-(b) after “anything on” insert:
-or below
-8.Section 70O amended
-(1) In section 70O(1) insert in alphabetical order:
-mine closure plan means a document that —
-(a)is in the form required by the guidelines; and
-(b)contains information of the kind required by the guidelines about the decommissioning of each proposed mine, and the rehabilitation of the land, in respect of which a mining lease is sought or granted, as the case requires;
-relevant mining proposal, in relation to a mining lease, means —
-(a)a mining proposal that accompanied the application for the mining lease under section 74(1)(ca); or
-(b)a mining proposal for which there is approval as described in section 82A(2)(b).
-(2) In section 70O(1) in the definition of mining proposal:
-(a) in paragraph (b) delete “requires;” and insert:
-requires; and
-(b) after paragraph (b) insert:
-(c)contains a mine closure plan;
-9.Section 82 amended
-(1) After section 82(1)(f) insert:
-(ga) in accordance with section 84AA —
-(i) review the mine closure plan contained in a relevant mining proposal; and
-(ii) obtain the written approval for the reviewed mine closure plan from a prescribed official;
-(2) Delete section 82(1a).
-10.Section 84AA inserted
-After section 83 insert:
-84AA.Review of mine closure plans
-(1) The lessee of a mining lease must ensure that the mine closure plan contained in a relevant mining proposal is reviewed —
-(a)in the case of a mining proposal that accompanied the application for the mining lease under section 74(1)(ca), no later than 3 years after the lease is granted; or
-(b)in the case of a mining proposal for which there is approval as described in section 82A(2)(b), no later than 3 years after the approval; or
-(c) no later than such other time as is approved in writing by a prescribed official.
-(2) The lessee of a mining lease must ensure that a mine closure plan is reviewed no later than —
-(a) 3 years after its most recent review; or
-(b) such other time as is approved in writing by a prescribed official.
-(3) The lessee of a mining lease must ensure that a reviewed mine closure plan is lodged, for the approval of a prescribed official, in the prescribed manner and within the prescribed time.
-11.Section 84 amended
-In section 84(1):
-(a) delete “natural surface of the”;
-(b) after “anything on” insert:
-or below
-12.Section 123 amended
-In section 123(4)(b) delete “natural surface of the”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -472,6 +411,7 @@ marine Minister24A(9)
 marine nature reserve8(1)
 marine park8(1)
 mine8(1), 8(1)
+mine closure plan70O(1)
 mineral exploration report115A(1)
 mineral field8(1)
 mineralisation report74(7), 74A(7)
@@ -508,7 +448,7 @@ registered116(3)
 registration8(1)
 related8(1)
 relevant licence56B(1)
-relevant mining proposal82(1a)
+relevant mining proposal70O(1), 82(1a)
 relevant tenement118A(2)
 remedial work114C(1)
 restricted area24A(9)
