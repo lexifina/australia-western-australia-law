@@ -13,6 +13,7 @@ Charitable Collections Amendment Regulations (No. 2) 1998 | 27 November 1998 p.6
 Charitable Collections Amendment Regulations 2000 | 22 August 2000 pp.4845-8 | 22 August 2000
 Charitable Collections Amendment Regulations 2006 | 22 Sep 2006 p. 4078-81 | 22 Sep 2006 (see r. 2(a))
 Charitable Collections Amendment Regulations 2009 | 12 Jun 2009 p. 2106-7 | r. 1 and 2: 12 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jun 2009 (see r. 2(b))
+Charitable Collections Amendment Regulations 2011 | 30 Jun 2011 p. 2647 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 The Charitable Collections Amendment Regulations 2000 r. 12 reads as follows —
 “
 12.Savings and transition
