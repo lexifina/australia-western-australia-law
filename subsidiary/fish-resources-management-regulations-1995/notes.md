@@ -141,80 +141,12 @@ Fish Resources Management Amendment Regulations 2011 | 1 Mar 2011 p. 667 | r. 1 
 Fish Resources Management Amendment Regulations (No. 2) 2011 | 1 Mar 2011 p. 668-73 | r. 1 and 2: 1 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Mar 2011 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 3) 2011 | 1 Mar 2011 p. 673-5 | r. 1 and 2: 1 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Mar 2011 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 4) 2011 | 29 Mar 2011 p. 1151-3 | r. 1 and 2: 29 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Mar 2011 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Fish Resources Management Amendment Regulations (No. 5) 2011 r. 3 and 4 | 6 May 2011 p. 1609-12 | 1 Jul 2011 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 5) 2011 | 6 May 2011 p. 1609-12 | r. 1 and 2: 6 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 7) 2011 Pt. 2 | 1 Jul 2011 p. 2721-3 | 1 Jul 2011 (see r. 2(b))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Recreational Fishing Account.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
-On the date as at which this compilation was prepared, the Fish Resources Management Amendment Regulations (No. 5) 2011 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Fish Resources Management Regulations 1995.
-4.Schedule 1 amended
-(1) In Schedule 1 Part 1 amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-it. 1(a) | 2 220.00 | 2 335.00
-it. 1(b) | 290.00 | 305.00
-it. 1(c) | 1 170.00 | 1 231.00
-it. 2 | 31.00 | 33.00
-it. 3 | 31.00 | 33.00
-it. 4 | 19.00 | 20.00
-(2) In Schedule 1 Part 2 amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-it. 1 | 82.00 | 87.00
-it. 1 (each occurrence) | 453.00 | 477.00
-it. 2 | 82.00 | 87.00
-it. 2 (each occurrence) | 453.00 | 477.00
-it. 3 | 82.00 | 87.00
-it. 5 | 82.00 | 87.00
-it. 5 | 310.00 | 327.00
-it. 6 | 453.00 | 477.00
-it. 7 | 442.00 | 465.00
-it. 8 | 442.00 | 465.00
-it. 8 | 86.00 | 91.00
-it. 8 (each occurrence) | 517.00 | 544.00
-it. 9 | 517.00 | 544.00
-it. 10 | 2 340.00 | 2 461.00
-it. 11 (each occurrence) | 162.00 | 171.00
-it. 11 | 733.00 | 771.00
-it. 11 | 82.00 | 87.00
-it. 11 (each occurrence) | 539.00 | 567.00
-it. 12 | 312.00 | 329.00
-it. 12 | 82.00 | 87.00
-it. 12 (each occurrence) | 453.00 | 477.00
-it. 13 | 733.00 | 771.00
-it. 14 | 82.00 | 87.00
-it. 15 | 145.00 | 153.00
-it. 16 | 145.00 | 153.00
-it. 17 (each occurrence) | 145.00 | 153.00
-it. 18 | 733.00 | 771.00
-it. 19 | 65.00 | 69.00
-it. 19 | 70.00 | 74.00
-it. 19 (each occurrence) | 393.00 | 414.00
-it. 20 | 65.00 | 69.00
-it. 20 | 70.00 | 74.00
-it. 20 (each occurrence) | 393.00 | 414.00
-(3) In Schedule 1 Part 3 amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-it. 1(a) | 819.00 | 862.00
-it. 1(b) | 1 503.00 | 1 581.00
-it. 1(c) | 2 020.00 | 2 125.00
-it. 1(d) | 1 217.00 | 1 280.00
-it. 1(e), (f) and (g) | 399.00 | 420.00
-it. 2(a) | 345.00 | 363.00
-it. 4 (each occurrence) | 259.00 | 273.00
-it. 4 (each occurrence) | 129.00 | 136.00
-it. 5 (each occurrence) | 1 786.00 | 1 840.00
-it. 5 (each occurrence) | 312.00 | 329.00
-it. 5 (each occurrence) | 1 150.00 | 1 185.00
-it. 5 (each occurrence) | 636.00 | 669.00
-it. 5(2)(a) | 259.00 | 273.00
-it. 5 (each occurrence) | 129.00 | 136.00
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
