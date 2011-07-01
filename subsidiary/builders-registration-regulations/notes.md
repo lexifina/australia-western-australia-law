@@ -37,6 +37,8 @@ Builders’ Registration Amendment Regulations 2009 | 23 Jun 2009 p. 2431-2 | r.
 Builders’ Registration Amendment Regulations (No. 2) 2009 | 23 Jun 2009 p. 2433 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b)(i) and Gazette 23 Jun 2009 p. 2431)
 Reprint 4: The Builders’ Registration Regulations as at 11 Sep 2009 (includes amendments listed above)
 Builders’ Registration Amendment Regulations 2010 | 25 Jun 2010 p. 2856-7 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+Builders’ Registration Amendment Regulations 2011 | 22 Jun 2011 p. 2307-8 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Builders’ Registration Amendment Regulations (No. 2) 2011 | 22 Jun 2011 p. 2309-10 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
