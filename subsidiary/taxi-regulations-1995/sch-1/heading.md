@@ -26,12 +26,21 @@ Item | Section of Act or Regulation | Description of Offence | Modified Penalty 
 22 | Regulation 13(3) | Driver terminating a hiring prior to reaching the agreed destination | 200
 23 | Regulation 13A(1) | Driver failing to inform provider of taxi dispatch service as required | 100
 24 | Regulation 13A(3) | Driver giving incorrect information regarding their identity to the provider of a taxi dispatch service | 200
-25 | Regulation 13B(1) | Driver obstructing, interfering with, damaging etc., a camera surveillance unit | 100
+25 | Regulation 13B(1) | Offences relating to camera surveillance unit requirements | 200
+26A | Regulation 13B(4) | Failing to display approved sign | 100
+26B | Regulation 13C(1) | Failing to comply with direction or rectify defect | 250
+26C | Regulation 13C(2) | Unauthorised removal of notice | 250
+26D | Regulation 13C(3) | Operating a taxi subject to prohibition | 250
+26E | Regulation 13D(2) | Unauthorised installing, removing or servicing of camera surveillance unit | 200
+26F | Regulation 13E(1) | Unauthorised downloading of information from camera surveillance unit | 500
+26G | Regulation 13F(1) | Obstructing or interfering with camera surveillance unit | 500
+26H | Regulation 13G(2) | Failing to provide current certificate | 200
+26I | Regulation 13G(3) | Stating false or misleading information in certificate | 200
 26 | Regulation 14 | Driver failing to transport a guide dog | 300
 27 | Regulation 15 | Driver failing to display approved identification card | 200
 28 | Regulation 16(1) | Offences relating to the conduct of drivers | 200
 29 | Regulation 17 | Offences relating to conduct of driver at taxi rank | 200
 30 | Regulation 17B | Driver failing to wear uniform, uniform not clean etc. | 200
-31 | Regulation 18(2) | Operating or driving taxi with an unsealed meter | 250
+31 | Regulation 18(2) | Operating taxi with an unsealed meter | 250
 32 | Regulation 18(4) and (5) | Offences relating to meters | 250
-[Schedule 1 inserted in Gazette 23 Jan 2004 p. 323-5; amended in Gazette 24 Feb 2006 p. 883; 24 Apr 2009 p. 1387.]
+[Schedule 1 inserted in Gazette 23 Jan 2004 p. 323-5; amended in Gazette 24 Feb 2006 p. 883; 24 Apr 2009 p. 1387; 7 Jun 2011 p. 2061-2.]
