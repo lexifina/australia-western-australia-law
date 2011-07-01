@@ -26,3 +26,4 @@ Rates and Charges (Rebates and Deferments) Amendment Regulations 2008 | 20 Jun 2
 Rates and Charges (Rebates and Deferments) Amendment Regulations 2009 | 26 Jun 2009 p. 2574 | r. 1 and 2: 26 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 3: The Rates and Charges (Rebates and Deferments) Regulations 1992 as at 18 Sep 2009 (includes amendments listed above)
 Rates and Charges (Rebates and Deferments) Amendment Regulations (No. 2) 2010 | 25 Jun 2010 p. 2880-1 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+Rates and Charges (Rebates and Deferments) Amendment Regulations (No. 2) 2011 | 17 Jun 2011 p. 2170 | r. 1 and 2: 17 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
