@@ -34,41 +34,17 @@ Valuation of Land Amendment Regulations 2009 | 27 Mar 2009 p. 925-6 | r. 1 and 2
 Valuation of Land Amendment Regulations (No. 2) 2009 | 19 Jun 2009 p. 2245 | r. 1 and 2: 19 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 3: The Valuation of Land Regulations 1979 as at 14 Aug 2009 (includes amendments listed above)
 Valuation of Land Amendment Regulations 2010 | 18 Jun 2010 p. 2682-3 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Valuation of Land Amendment Regulations 2011 r. 3 and 4 | 4 Mar 2011 p. 699-700 | 1 Jul 2011 (see r. 2(b))
-On the date as at which this compilation was prepared, the Valuation of Land Amendment Regulations 2011 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Valuation of Land Regulations 1979.
-4.Regulation 3 replaced
-Delete regulation 3 and insert:
-3.Prescribed assessed value percentage
-(1) In this regulation —
-designated for residential use, in relation to land, means —
-(a)included in a residential zone; or
-(b)included in a residential precinct; or
-(c) included in a rural-residential zone; or
-(d) included in a rural small-holding zone, and subject to conditions or restrictions (whether imposed under the Planning and Development Act 2005 or otherwise) which in the view of the Valuer-General would limit the predominant use of the land to rural living;
-local planning instrument means —
-(a)a local planning scheme in force under the Planning and Development Act 2005; and
-(b)a local interim development order in force under the Planning and Development Act 2005;
-planning zone means a zone established by a local planning instrument;
-redevelopment scheme means a redevelopment scheme made under —
-(a)the Armadale Redevelopment Act 2001; or
-(b)the East Perth Redevelopment Act 1991; or
-(c)the Hope Valley-Wattleup Redevelopment Act 2000; or
-(d)the Midland Redevelopment Act 1999; or
-(e)the Perry Lakes Redevelopment Act 2005; or
-(f)the Subiaco Redevelopment Act 1994;
-residential precinct means a precinct established by a redevelopment scheme for which residential use is a preferred use;
-residential zone means a planning zone which is to provide for residential development at a range of densities and with a variety of housing to meet the needs of different household types;
-rural-residential zone means a planning zone which is to provide for small rural lot housing in which the predominant use or purpose is rural living rather than productive agriculture;
-rural small-holding zone means a planning zone which is to provide for small rural holdings for rural lifestyle activities, for landscape protection or for environmental resource management.
-(2) The percentage of the capital value of land prescribed for the purposes of the term assessed value in section 4 of the Act is —
-(a) in the case of land which is designated for residential use, 3%; and
-(b) in the case of all other land, 5%.
+Valuation of Land Amendment Regulations 2011 | 4 Mar 2011 p. 699-700 | r. 1 and 2: 4 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Valuation of Land Amendment Regulations (No. 2) 2011 | 14 Jun 2011 p. 2139 | r. 1 and 2: 14 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
+designated for residential use3(1)
+local planning instrument3(1)
+planning zone3(1)
+redevelopment scheme3(1)
+residential precinct3(1)
+residential zone3(1)
+rural-residential zone3(1)
+rural small-holding zone3(1)
 the Act2
