@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Mental Health Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 July 2011 of the Mental Health Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Mental Health Act 1996 | 68 of 1996 | 13 Nov 1996 | 13 Nov 1997 (see s. 2(2))
+Mental Health Act 1996 | 68 of 1996 | 13 Nov 1996 | s. 1 and 2: 13 Nov 1996; Act other than s. 1 and 2: 13 Nov 1997 (see s. 2(2))
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 48 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
 Corporations (Consequential Amendments) Act 2001 Pt. 38 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 9 | 21 of 2003 | 23 Apr 2003 | 11 Mar 2002 (see s. 2 and Cwlth Gazette 24 Oct 2001 No. GN42)
@@ -12,21 +12,22 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 51 | 65 of 200
 Reprint 1: The Mental Health Act 1996 as at 6 Aug 2004 (includes amendments listed above)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 81 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | 4 May 2007 (see s. 2 and Gazette 4 May 2007 p. 1963)
-Occupational Therapists Act 2005 s. 109 | 42 of 2005 | 19 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
+Psychologists Act 2005 Sch. 3 cl. 8 | 28 of 2005 | 12 Dec 2005 | 4 May 2007 (see s. 2 and Gazette 4 May 2007 p. 1963)
+Occupational Therapists Act 2005 Sch. 3 cl. 4 | 42 of 2005 | 19 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 9 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
-Reprint 2: The Mental Health Act 1996 as at 12 Jan 2007 (includes amendments listed above except those in the Occupational Therapists Act 2005 and the Nurses and Midwives Act 2006)
+Nurses and Midwives Act 2006 Sch. 3 cl. 14 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
+Reprint 2: The Mental Health Act 1996 as at 12 Jan 2007 (includes amendments listed above except those in the Psychologists Act 2005, Occupational Therapists Act 2005 and the Nurses and Midwives Act 2006)
 Legal Profession Act 2008 s. 680 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+Medical Practitioners Act 2008 Sch. 3 cl. 34 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Health Practitioner Regulation National Law (WA) Act 2010 s. 109-111 and 112(1) | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 3: The Mental Health Act 1996 as at 1 Jul 2011 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law (WA) Act 2010 s. 112(2) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Repealed by the Mental Health (Consequential Provisions) Act 1996.
 The Mental Health (Consequential Provisions) Act 1996 Pt. 12 Div. 2 (s. 53-72 inclusive) reads as follows:
-“
 Division 2 — Transitional
 53.Interpretation
 In this Division —
@@ -153,41 +154,82 @@ to or in relation to any matter or thing.
 (4) To the extent that a regulation under subsection (1) has effect before the day of its publication in the Gazette, it does not —
 (a) affect in a manner prejudicial to any person (other than the State), the rights of that person existing before the day of its publication; or
 (b) impose liabilities on any person (other than the State) in respect of anything done or omitted to be done before the day of its publication.
-”.
-The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
-“
-2.Commencement
-(1) If this Act receives the Royal Assent before the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act comes into operation at the same time as that Schedule comes into operation.
-(2) If this Act receives the Royal Assent on or after the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act is deemed to have come into operation at the same time as that Schedule comes into operation.
-3.Interpretation
-In this Part —
-Financial Services Reform Act means the Financial Services Reform Act 2001 of the Commonwealth;
-FSR commencement time means the time when Schedule 1 to the Financial Services Reform Act comes into operation;
-statutory rule means a regulation, rule or by-law.
-4.Validation
-(1) This section applies if this Act comes into operation under section 2(2).
-(2) Anything done or omitted to have been done after the FSR commencement time and before this Act receives the Royal Assent that could have been done if this Act had received the Royal Assent before the FSR commencement time is taken to be as valid and lawful, and to always have been as valid and lawful, as it would have been if this Act had received the Royal Assent before the FSR commencement time.
-(3) Anything done or omitted to have been done by a person after the FSR commencement time and before this Act received the Royal Assent that would have been valid and lawful if the Financial Services Reform Act had not commenced, is taken to be valid and lawful.
-(4) Anything done or omitted to have been done after the FSR commencement time and before this Act receives the Royal Assent —
-(a) that could only have been validly and lawfully done or omitted because this Act received the Royal Assent after the FSR commencement time; and
-(b) that could not have been validly and lawfully done or omitted if this Act had received the Royal Assent before the FSR commencement time,
-is taken not to be valid, and to never have been valid.
-”.
+The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 contain a validation provision that may be relevant to this Act.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
-“
-Division 13 — Transitional provisions
-289.Commissioner of Health
-(1) A thing done or omitted to be done by, to or in relation to, the Commissioner of Health before commencement under, or for the purposes of, an enactment has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the CEO.
-(2) In this section —
-CEO has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
-commencement means the time at which this Division comes into operation;
-Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
-”.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 112(2) had not come into operation. It reads as follows:
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 is a transitional provision that may be relevant to this Act.
+On the date as at which this reprint was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 112(2) had not come into operation. It reads as follows:
 112.Section 19 amended
 (2) Delete section 19(1)(b) and “or” after it and insert:
 (b) a person —
 (i) registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing and midwifery profession; or
 (ii) registered under the Health Practitioner Regulation National Law (Western Australia) in the occupational therapy profession;
 or
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+act done213(5)
+affected person175
+agreement86
+authorised hospital3
+authorised medical practitioner3
+authorised mental health practitioner3
+Board3
+CEO3
+Chief Psychiatrist3
+community3
+community support services172
+community treatment order3
+Council of Official Visitors3
+department3
+document3
+electroconvulsive therapy92
+emergency psychiatric treatment92, 113(1)
+executive officer175
+funding and services agreement172
+hospital3
+informed consent92
+initial order138(1)
+inspect3
+involuntary patient3
+lawyer3
+legal practitioner3
+mechanical bodily restraint121
+medical practitioner3
+mental health practitioner3
+Mental Health Review Board3
+mental illness3
+mentally impaired accused3
+Mentally Impaired Accused Review Board3
+official visitor3
+panel175
+participants133(3)
+patient3, 163
+power to which this Division applies193
+prescribed financial market193
+President3
+prison3
+private hospital3
+private psychiatric hostel175
+psychiatric health service13(6)
+psychiatric treatment3
+psychiatrist3
+psychologist3
+psychosurgery92, 100(1)
+public hospital3
+referrer28
+Registrar3
+related person193
+relative3
+relevant determination141(2)
+relevant document160(1)
+relevant interest193
+relevant premises13(6)
+seclusion116
+senior mental health practitioner3
+substantial shareholding193
+superintendent3
+supervising psychiatrist3
+transport order34(1), 41(1), 71(1)
+treating practitioner3
+treating psychiatrist3
+treatment in the community3
