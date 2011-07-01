@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 October 2010 of the Plant Diseases Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Plant Diseases Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Plant Diseases Regulations 1989 | 30 Jun 1989 p. 1980-93 | 1 Jul 1989 (see r. 2)
@@ -108,6 +108,7 @@ Plant Diseases Amendment Regulations 2010 | 30 Mar 2010 p. 1255-65 | r. 1 and 2:
 Plant Diseases Amendment Regulations (No. 3) 2010 | 30 Jun 2010 p. 3117-19 | r. 1 and 2: 30 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Plant Diseases Amendment Regulations (No. 2) 2010 | 17 Sep 2010 p. 4417-754 | r. 1 and 2: 17 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Sep 2010 (see r. 2(b))
 Reprint 6: The Plant Diseases Regulations 1989 as at 8 Oct 2010 (includes amendments listed above)
+Plant Diseases Amendment Regulations 2011 | 30 Jun 2011 p. 2695-8 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the department formerly called Agriculture Western Australia was called the Department of Agriculture.
 Under the Alteration of Statutory Designations Order 2006 a reference to the Department of Agriculture is, unless the contrary is intended, to be read and construed as a reference to the Department of Agriculture and Food.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 30 June 1989, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
@@ -165,3 +166,4 @@ secondary host plantsSch. 1 Pt. B it. 58(1)
 specified diseases3
 stonefruitSch. 1 Pt. B it. 31A(1)
 WSMVSch. 1 Pt. B it. 28(1)
+By Authority: JOHN A. STRIJK, Government Printer

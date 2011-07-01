@@ -69,8 +69,6 @@ Cotoneaster spp.... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 41,
 Cotton................... | 13, 17, 27, 29, 41, 45, 47, 52, 55 | — | 16, 37 | 41, 55
 Cowpea................. | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16, 48 | —
 Crataegus spp. (Hawthorn)........ | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 41, 52, 55
-Column 1 | Column 2 | Column 3 | Column 4 | Column 5
-Potential carrier | Plants or parts thereof | Cuttings, budwood | Seed | Fruit, vegetables and products
 Crocos.................. | 13, 17, 27, 29, 41, 45, 52, 53, 55 | 29, 41, 52, 53, 55 | 16 | —
 Crocosmia aurea (Planchon) ........ | 13, 17, 27, 29, 41, 45, 52, 53, 55 | 29, 41, 52, 53, 55 | 16 | —
 Cucumber............. | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 4/7/9G, 41, 52, 55
@@ -128,8 +126,6 @@ Lucerne................. | 1 | 1 | 1, 16, 20 | —
 Lupin.................... |  |  | 16 | —
 Lychee.................. | 13, 17, 27, 29, 45, 55 | 29, 55 | 16 | 4/4A/7/9/9C, 55
 Lyonia spp. .......... | 13, 17, 27, 29, 41, 45, 52, 55, 57 | 29, 41, 52, 55, 57 | 16 | 41, 52, 55, 57
-Column 1 | Column 2 | Column 3 | Column 4 | Column 5
-Potential carrier | Plants or parts thereof | Cuttings, budwood | Seed | Fruit, vegetables and products
 Maize.................... | 1 | 1 | 16, 19, 28 | —
 Malay apple.......... | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 4/9E, 41, 52, 55
 Mandarin.............. | 13, 17, 27, 29, 41, 45, 50A, 51, 52, 55 | 29, 41, 50A, 51, 52, 55 | 16 | 4/7/9C, 41, 51, 52, 55
@@ -181,8 +177,6 @@ Pumpkin............... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | 4/8A/9J, 41
 Pyracantha spp. (Firethorn)......... | 1 | 1 | 16 | 1
 Pyrus spp. (Pear).. | 13, 17, 27, 29, 41, 45, 52, 55 | 29, 41, 52, 55 | 16 | 1
 Quince.................. | see Cydonia spp.
-Column 1 | Column 2 | Column 3 | Column 4 | Column 5
-Potential carrier | Plants or parts thereof | Cuttings, budwood | Seed | Fruit, vegetables and products
 Radish................... | 13, 17, 27, 29, 41, 45, 52, 55 | — | 16 | —
 Rambutan............. | 13, 17, 27, 29, 45, 55 | 29, 55 | 16 | 4/4A/7/9/9C, 55
 Raspberry............. | see Berries
