@@ -15,6 +15,7 @@ Limited Partnerships Amendment Rules 2007 | 15 Jun 2007 p. 2775 | r. 1 and 2: 15
 Limited Partnerships Amendment Rules 2009 | 23 Jun 2009 p. 2443-4 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Reprint 2: The Limited Partnerships Rules 1909 as at 20 Nov 2009 (includes amendments listed above)
 Limited Partnerships (Repeal and Amendment) Rules 2010 | 7 Jan 2011 p. 45-6 | r. 1 and 2: 7 Jan 2011 (see r. 2(a)); Rules other than r. 1 and 2: 8 Jan 2011 (see r. 2(b))
+Limited Partnerships Amendment Rules 2011 | 22 Jun 2011 p. 2361-2 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
