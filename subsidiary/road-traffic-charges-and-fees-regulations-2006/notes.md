@@ -24,6 +24,7 @@ Reprint 2: The Road Traffic (Charges and Fees) Regulations 2006 as at 1 Oct 2010
 Road Traffic (Charges and Fees) Amendment Regulations 2011 | 11 Feb 2011 p. 502-7 | r. 1 and 2: 11 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Feb 2011 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2011 | 20 May 2011 p. 1854-6 | r. 1 and 2: 20 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 May 2011 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 3) 2011 | 20 May 2011 p. 1857-60 | r. 1 and 2: 20 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 May 2011 (see r. 2(b))
+Road Traffic (Charges and Fees) Amendment Regulations (No. 4) 2011 | 21 Jun 2011 p. 2253 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2007 r. 3 reads as follows:
