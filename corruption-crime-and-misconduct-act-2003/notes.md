@@ -25,12 +25,9 @@ Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009
 Reprint 4: The Corruption and Crime Commission Act 2003 as at 2 Jul 2010 (includes amendments listed above)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 12 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 74 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Telecommunications (Interception) Western Australia Amendment Act 2011 Pt. 3 | 2 of 2011 | 1 Mar 2011 | To be proclaimed (see s. 2(b))
+Telecommunications (Interception) Western Australia Amendment Act 2011 Pt. 3 | 2 of 2011 | 1 Mar 2011 | 2 Jul 2011 (see s. 2(b) and Gazette 1 Jul 2011 p. 2713 )
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
-Now called the Telecommunications (Interception and Access) Act 1979 (Commonwealth).
+No longer required.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 3 Div. 3 Subdiv. 2 reads as follows:
 Part 3 — Repeals, transitional and savings provisions, and consequential amendments
@@ -128,16 +125,6 @@ to or in relation to any matter.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not operate so as to —
 (a) affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
-On the date as at which this compilation was prepared, the Telecommunications (Interception) Western Australia Amendment Act 2011 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Corruption and Crime Commission Act 2003 amended
-11.Act amended
-This Part amends the Corruption and Crime Commission Act 2003.
-12.Section 91 amended
-In section 91(2)(o) delete “(Interception)” and insert:
-(Interception and Access)
-13.Section 155 amended
-In section 155 delete “(Interception)” and insert:
-(Interception and Access)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
