@@ -16,6 +16,7 @@ Misuse of Drugs Amendment Regulations 2009 | 23 Jun 2009 p. 2492-3 | r. 1 and 2:
 Misuse of Drugs Amendment Regulations 2010 | 30 Mar 2010 p. 1265-7 | r. 1 and 2: 30 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2010 (see r. 2(b))
 Misuse of Drugs Amendment Regulations (No. 2) 2010 | 12 Nov 2010 p. 5660-3 | r. 1 and 2: 12 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Nov 2010 (see r. 2(b))
 Misuse of Drugs Amendment Regulations 2011 | 22 Mar 2011 p. 971-2 | r. 1 and 2: 22 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Mar 2011 (see r. 2(b))
+Misuse of Drugs Amendment Regulations (No. 3) 2011 | 1 Jul 2011 p. 2747-8 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2011 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
