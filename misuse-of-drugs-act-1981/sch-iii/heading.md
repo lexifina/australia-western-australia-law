@@ -27,6 +27,7 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 22. | BEZITRAMIDE | 15.0
 23. | BUFOTENINE | 6.0
 24. | BUTOBARBITONE | 30.0
+25A. | 1-BUTYL-3-(1-NAPHTHOYL)INDOLE (JWH – 073) | 500.0
 25. | CANNABIS | 500.0
 26. | CANNABIS RESIN | 40.0
 27. | CANNABIS (in cigarette form) | 400 cigarettes each containing any portion of cannabis
@@ -49,6 +50,8 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 44. | 2,5-DIMETHOXY-4-BROMOAMPHETAMINE | 0.25
 45. | 2,5-DIMETHOXY-4-METHYLAMPHETAMINE | 0.25
 46A. | DIMETHYLAMPHETAMINE | 4.0
+46B. | 5-(1,1-DIMETHYLHEPTYL)-2-[(1R,3S) -3-HYDROXYCYCLOHEXYL]-PHENOL (CP 47,497) | 500.0
+46C. | 5-(1,1-DIMETHYLOCTYL)-2-[(1R,3S) -3-HYDROXYCYCLOHEXYL]-PHENOL (CANNABICYCLOHEXANOL or CP 47,497 C8 HOMOLOGUE) | 500.0
 46. | DIMETHYLTHIAMBUTENE | 60.0
 47. | DIMETHYLTRYPTAMINE | 6.0
 48. | DIOXAPHETYL BUTYRATE | 6.0
@@ -85,6 +88,7 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 78. | METHAQUALONE | 150.0
 79. | METHARBITONE | 30.0
 80A. | METHCATHINONE | 4.0
+80B. | 2-(2-METHOXYPHENYL)-1-(1-PENTYLINDOL-3-YL)ETHANONE (JWH – 250) | 500.0
 80. | METHYLAMPHETAMINE | 4.0
 81. | METHYLDESORPHINE | 6.0
 82. | METHYLDIHYDROMORPHINE | 6.0
@@ -101,6 +105,7 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 91. | MORPHINE METHOBROMIDE AND OTHER PENTAVALENT NITROGEN MORPHINE DERIVATIVES | 6.0
 92. | MORPHINE-N-OXIDE | 6.0
 93. | MORPHINE SUBSTITUTES (not specifically included elsewhere in this Schedule) | 6.0
+94A. | 1-[2-(4-MORPHOLINYL)ETHYL] -3-(1-NAPHTHOYL)INDOLE (JWH – 200) | 500.0
 94. | MYROPHINE | 60.0
 95. | NEALBARBITONE | 30.0
 96. | NICOCODINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 6.0
@@ -117,6 +122,8 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 107. | OXYMORPHONE | 6.0
 108. | PENTAZOCINE | 30.0
 109. | PENTOBARBITONE | 30.0
+110A. | 1-PENTYL-3-(1-NAPHTHOYL)INDOLE (JWH – 018) | 500.0
+110B. | 1-PENTYL-3-(4-METHYL-1-NAPHTHOYL) INDOLE (JWH – 122) | 500.0
 110. | PETHIDINE | 15.0
 111. | PETHIDINE-INTERMEDIATE A | 15.0
 112. | PETHIDINE-INTERMEDIATE B | 15.0
@@ -150,4 +157,4 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 140. | THEBAINE | 6.0
 141. | TRIMEPERIDINE | 30.0
 142. | VINBARBITONE | 30.0
-[Schedule III amended by No. 48 of 1995 s. 43; amended in Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041; 7 Dec 2007 p. 5985; 29 Apr 2011 p. 1533.]
+[Schedule III amended by No. 48 of 1995 s. 43; amended in Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041; 7 Dec 2007 p. 5985; 29 Apr 2011 p. 1533; 1 Jul 2011 p. 2743.]
