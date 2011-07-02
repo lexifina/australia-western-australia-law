@@ -33,7 +33,8 @@ Security and Related Activities (Control) Amendment Regulations (No. 2) 2010 | 2
 Public Sector Reform (Consequential Amendments) Regulations 2011 Pt. 7 | 11 Feb 2011 p. 502-7 | r. 14 and 15(a): 12 Feb 2011 (see r. 2(d)); r. 15(b) & (d): 28 Mar 2011 (see r. 2(b) and Gazette 5 Nov 2010 p. 5563); r. 15(c): 28 Mar 2011 (see r. 2(c) and Gazette 5 Nov 2011 p. 5563)
 Security and Related Activities (Control) Amendment Regulations (No. 2) 2011 | 29 Apr 2011 p. 1532 | r. 1 and 2: 29 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Apr 2011 (see r. 2(b))
 Security and Related Activities (Control) Amendment Regulations (No. 3) 2011 | 10 Jun 2011 p. 2112-13 | r. 1 and 2: 10 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
-The Medical Act 1894 was repealed by the Medical Practitioners Act 2008.
+Security and Related Activities (Control) Amendment Regulations (No. 4) 2011 | 1 Jul 2011 p. 2748-9 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2011 (see r. 2(b))
+Footnote no longer applicable.
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
