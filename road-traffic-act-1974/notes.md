@@ -140,14 +140,14 @@ Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 201
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Road Traffic Amendment Act 2010 | 20 of 2010 | 7 Jul 2010 | s. 1 and 2: 7 Jul 2010 (see s. 2(a)); Act other than s. 1 and 2: 1 Sep 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 45 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
-Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 2 (other than s. 5, 11, 12, 14 and 15) | 51 of 2010 | 8 Dec 2010 | s. 3 and 6-10: 9 Dec 2010 (see s. 2(b)); s. 4 and 13: 9 Apr 2011 (see s. 2(c) and Gazette 8 Apr 2011 p. 1281)
+Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 2 (other than s. 5, 11, 12(2)(c), (5)(d) and (7)(b), 14 and 15) | 51 of 2010 | 8 Dec 2010 | s. 3 and 6-10: 9 Dec 2010 (see s. 2(b)); s. 4 and 13: 9 Apr 2011 (see s. 2(c) and Gazette 8 Apr 2011 p. 1281); s. 12 (other than 12(2)(c), (5)(d) and (7)(b)): 4 Jul 2011 (see s. 2(c) and Gazette 20 May 2011p. 1837)
 Reprint 11: The Road Traffic Act 1974 as at 28 Jan 2011 (includes amendments listed above, except the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 4 and 13 )
 Road Traffic Legislation Amendment (Information) Act 2011 Pt. 2 (other than s. 9) | 18 of 2011 | 2 Jun 2011 | 30 Jun 2011 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 5, 11, 12, 14 and 15 | 51 of 2010 | 8 Dec 2010 | s. 12 (other than 12(2)(c), (5)(d) and (7)(b): 4 Jul 2011 (see s. 2(c) and Gazette 20 May 2011p. 1837)); Balance: To be proclaimed (see s. 2(c))
+Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 5, 11, 12(2)(c), (5)(d) and (7)(b), 14 and 15 | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 2 | 14 of 2011 | 25 May 2011 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment (Information) Act 2011 s. 9 | 18 of 2011 | 2 Jun 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
@@ -275,7 +275,7 @@ Part 3 — Transitional provision
 36.Existing demerit points
 Points currently recorded in respect of a person under section 103 of the Road Traffic Act 1974 immediately before that section is repealed by section 29, and details of any offence in respect of which the points were recorded, are to be recorded as demerit points against the person in the demerit points register referred to in Part VIA of the Road Traffic Act 1974 as inserted by section 31.
 The Road Traffic Amendment Act 2006 Pt. 4 Div. 4 will not be included because the Road Traffic Amendment (Vehicle Licensing) Act 2001 has already commenced (see s. 45-48).
-On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 5, 11, 12, 14 and 15 had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 5, 11, 12(2)(c), (5)(d) and (7)(b), 14 and 15 had not come into operation. They read as follows:
 Part 2 — Road Traffic Act 1974 amended
 5.Section 51 amended
 Delete section 51(4) and insert:
@@ -340,40 +340,15 @@ the disqualification notice is revoked.
 (1) This section applies if a court convicts a person of the offence to which a disqualification notice relates.
 (2) If this section applies, the court is to take into account any period of disqualification imposed under section 71D(1) in respect of the disqualification notice when making an order disqualifying the person from holding or obtaining a driver’s licence.
 12.Section 76 amended
-(1) In section 76(1ac):
-(a) before paragraph (a) insert:
-(aa) under section 71D(1); or
-(b) delete “paragraph (a)” and insert:
-paragraph (aa), (a)
 (2) In section 76(1a):
-(a) delete “No” and insert:
-Subject to subsection (1B), no
-(b) in paragraph (f) delete “64(2)(a)” and insert:
-64(2)(b)
 (c) after each of paragraphs (a) to (f) insert:
 or
-(3) After section 76(1a) insert:
-(1B) A period referred to in subsection (1a) in relation to an offence is to be reduced by any period during which the applicant was disqualified from holding or obtaining a driver’s licence by a disqualification notice given to the applicant under section 71C in relation to the offence.
-(4) Delete section 76(2)(c).
 (5) In section 76(3):
-(a) delete “Subject to subsection (3a), the” and insert:
-The
-(b) in paragraph (e) delete “disqualification; and” and insert:
-disqualification,
-(c) delete paragraph (f);
 (d) after each of paragraphs (a) to (d) insert:
 and
-(6) Delete section 76(3a).
 (7) In section 76(3b):
-(a) delete the passage that begins with “For” and ends with “hardship if” and insert:
-Despite subsection (3), the court shall not make an order directing the grant of an extraordinary licence unless it is satisfied that
 (b) after paragraph (a) insert:
 or
-(8) In section 76(4) delete “subsection (1), not being a special application,” and insert:
-subsection (1)
-(9) Delete section 76(4a), (12) and (12a).
-(10) In section 76(13) delete “subsection (1a) and (12) —” and insert:
-subsection (1a) —
 14.Section 104K amended
 (1) Delete section 104K(2).
 (2) In section 104K(4) delete the passage that begins with “election,” and continues to the end of the subsection and insert:
