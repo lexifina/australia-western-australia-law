@@ -3,7 +3,7 @@
 ## List of common and scientific names
 ## Division 1 — Marine or fluvio-marine fish
 [Heading inserted in Gazette 13 Nov 2007 p. 5692.]
-Common Name | Scientific Name
+Common name | Scientific name
 Amberjack | Seriola dumerlii
 Anchovy, Australian | Engraulis australis
 Bait Fish | Families Clupeidae and Engraulidae
@@ -64,7 +64,7 @@ Javelinfish and Sweetlips | Family Haemuidae
 Kingfish, Yellowtail | Seriola lalandi
 Leatherjacket | Family Monacanthidae
 Longtom | Family Belonidae
-Mackerel .. | Scomberomorus spp.
+Mackerel | Scomberomorus spp.
 Mackerel, Australian Spotted | Scomberomorus munroi
 Mackerel, Blue (Common) | Scomber australasicus
 Mackerel, Broad-barred Spanish | Scomberomorus semifasciatus
@@ -157,7 +157,7 @@ Wrasse, Humphead Maori | Cheilinus undulatus
 [Division 1 amended in Gazette 30 Aug 1996 p. 4320-1; 12 Sep 1997 p. 5154; 19 Jun 1998 p. 3264; 1 Oct 2003 p. 4341-3; 4 Nov 2005 p. 5317; 22 Dec 2005 p. 6238-9; 10 Nov 2006 p. 4710; 13 Nov 2007 p. 5693; 13 Feb 2009 p. 299; 29 Sep 2009 p. 3874-5; 8 Dec 2009 p. 4997; 29 Mar 2011 p. 1153.]
 ## Division 2 — Freshwater fish
 [Heading inserted in Gazette 13 Nov 2007 p. 5692.]
-Common Name | Scientific Name
+Common name | Scientific name
 Carp, European (Common) | Cyprinus carpio
 Cobbler, Freshwater | Tandanus bostocki
 Cod, Murray | Maccullochella peeli
@@ -173,7 +173,7 @@ Trout, Rainbow | Oncorhynchus mykiss
 [Division 2 amended in Gazette 22 Dec 2005 p. 6239; 13 Nov 2007 p. 5693; 23 Jul 2010 p. 3406.]
 ## Division 3 — Crustaceans
 [Heading inserted in Gazette 13 Nov 2007 p. 5692.]
-Common Name | Scientific Name
+Common name | Scientific name
 Cherabin | Macrobrachium spp.
 Crab | Chaceon, Hypothalassia, Ovalipes, Portunus, Pseudocarcinus and Scylla spp.
 Crab, Blue Manna (Blue Swimmer) | Portunus pelagicus
@@ -204,7 +204,7 @@ Yabbie, White | Cherax albidus
 [Division 3 amended in Gazette 30 Aug 1996 p. 4321; 15 Jan 1999 p. 113; 21 Dec 1999 p. 6410; 13 Dec 2002 p. 5798; 22 Dec 2005 p. 6239; 13 Nov 2007 p. 5692-3.]
 ## Division 4 — Molluscs
 [Heading inserted in Gazette 13 Nov 2007 p. 5693.]
-Common Name | Scientific Name
+Common name | Scientific name
 CEPHALOPODS
 Cuttlefish | Sub-class Coleoidea Order Sepioidea
 Octopus | Sub-class Coleoidea Order Octopoda
@@ -230,7 +230,7 @@ Scallop | Family Pectinidae
 [Division 4 amended in Gazette 23 Apr 1999 p. 1716; 4 Jun 1999 p. 2271; 1 Oct 2003 p. 4343; 30 Sep 2004 p. 4187; 13 Nov 2007 p. 5693-4; 29 Sep 2009 p. 3875; 23 Jul 2010 p. 3406.]
 ## Division 5 — Other
 [Heading inserted in Gazette 13 Nov 2007 p. 5693.]
-Common Name | Scientific Name
+Common name | Scientific name
 Coral | Class Anthozoa and Class Hydrozoa
 Live Rock | Family Corallinaceae, Class Polychaeta, Class Crinoidea, Class Ascidiacea, Class Ophiuroidea, Phylum Bryozoa and Phylum Porifera and dead fish of Class Anthozoa and Class Hydrozoa
 Sea Cucumber (Beche-de-mer, Trepang) | Class Holothurioidae
