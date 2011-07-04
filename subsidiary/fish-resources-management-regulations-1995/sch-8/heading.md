@@ -22,8 +22,8 @@ The volume of space which is filled by whole, undamaged fish without compressing
 ## Part 3 — Method of determining the length of fish trunks and fillets
 [Heading inserted in Gazette 4 Nov 2005 p. 5317.]
 A fish trunk or fillet is to be measured —
-(a) when the fish is lying flat;
-(b) without being held;
+(a) when the fish is lying flat; and
+(b) without being held; and
 (c) lengthwise along the longest part of the fish to which both the skin and the flesh of the fish extends; and
 (d) in the case of a fillet, the measurement is not to include any part of the head or tail of the fish still attached.
 [Part 3 inserted in Gazette 4 Nov 2005 p. 5317.]

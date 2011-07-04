@@ -13,7 +13,7 @@ Female crab with eggs or spawn attached beneath its body.
 Female marron with eggs, spawn, larvae or young marron attached beneath its body.
 Female rock lobster with eggs or spawn attached beneath its body.
 Setose or tarspot western rock lobster —
-(a) taken from;
+(a) taken from; or
 (b) in the possession of, or consigned by, a person on a boat on; or
 (c) brought onto land from,
 waters south of 21° 44′ south latitude and west of 116° east longitude.
@@ -25,10 +25,10 @@ tarspot means a female rock lobster that has a black putty-like mass (spermatoph
 [Division 1 amended in Gazette 22 Dec 1995 p. 6169; 30 Sep 1997 p. 5418; 7 Jul 1998 p. 3614; 8 Sep 2000 p. 5187-8; 4 Nov 2005 p. 5313.]
 ## Division 2 — Miscellaneous
 Abalone in the waters or land between 31° 59.48′ south latitude (the main Cottesloe Groyne) and 32° 03.15′ south latitude (Rous Head) and —
-(a) within 800 metres of, and on the seaward side of, the high water mark; or
-(b) within 200 metres of, and on the landward side of, the high water mark.
+(a) within 800 m of, and on the seaward side of, the high water mark; or
+(b) within 200 m of, and on the landward side of, the high water mark.
 Cod in Rowley Shoals Marine Park.
-Coral of the Order Scleractinia in any waters within 3 000 metres in any direction of the service jetty near the end of Port Street in Port Gregory.
+Coral of the Order Scleractinia in any waters within 3 000 m in any direction of the service jetty near the end of Port Street in Port Gregory.
 Fish of Class Anthozoa and Class Hydrozoa in Rowley Shoals Marine Park.
 Great White Shark.
 Groper, Queensland.
@@ -37,7 +37,7 @@ Live coral of the Order Scleractinia in the waters bounded by a line commencing 
 Leafy Seadragon.
 Molluscs, other than cuttlefish, squid and octopus, in Rowley Shoals Marine Park.
 Potato Cod.
-Rock Lobster tail weighing less than 140 grams.
+Rock Lobster tail weighing less than 140 g.
 Sawfish.
 Shark, Speartooth.
 Shark, Whaler —

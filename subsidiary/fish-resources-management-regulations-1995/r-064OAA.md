@@ -1,4 +1,4 @@
-### 64OAA. Release weight to be on boat used for fishing for demersal scalefish in West Coast Region
+### 64OAA. Release weight to be on boat used to fish for demersal scalefish
 (1) In this regulation —
 demersal scalefish has the meaning given in regulation 45(1);
 release weight means a weight that —

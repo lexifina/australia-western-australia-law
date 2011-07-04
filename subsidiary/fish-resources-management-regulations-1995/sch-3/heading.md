@@ -10,7 +10,7 @@
 Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in the Division for one day
 Barracuda | 4 |  | 7
 Barramundi | 2
-Billfish (Marlins, Sailfish and Spearfish) and Swordfish (combined) . | 1
+Billfish (Marlins, Sailfish and Spearfish) and Swordfish (combined) | 1
 Bonefish | 2
 Cobia | 2
 Cod (combined, except Coral Trout and Coronation Trout) | 4
@@ -19,12 +19,12 @@ Cod, Estuary and Rankin (combined, except Estuary Cod in the waters of the Shark
 Cod, Estuary, in the waters of the Shark Bay western gulf and the Shark Bay eastern | 1
 Coral Trout and Coronation Trout (combined) | 1
 Dhufish, West Australian and Pearl Perch (combined) | 2
-Dolphinfish (Mahi Mahi) . | 4
-Emperor and Seabream (combined) . | 4
-Emperor, Red .. | 2
-Mackerel, Shark . | 4 |  | 7
-Mackerel, Broad-barred Spanish and Narrow-barred Spanish (combined) . | 2
-Mackerel, Wahoo .. | 2
+Dolphinfish (Mahi Mahi) | 4
+Emperor and Seabream (combined) | 4
+Emperor, Red | 2 |  | 7
+Mackerel, Shark | 4
+Mackerel, Broad-barred Spanish and Narrow-barred Spanish (combined) | 2
+Mackerel, Wahoo | 2
 Mulloway and Northern Mulloway (combined) | 2
 Parrot Fish (combined) . | 4
 Sea Perch, Tropical, except Red Emperor (combined) | 4
@@ -32,11 +32,11 @@ Snapper, Pink, except in the waters of Shark Bay | 4
 Snapper, Pink, in the waters of the Shark Bay western gulf and the waters of the Shark Bay eastern gulf | 1
 Queenfish | 4
 Samson Fish, Amberjack and Yellowtail Kingfish (combined) | 2
-Sharks and Rays (combined) . | 2
-Tuskfish and Baldchin Groper (combined), except in the waters of the Shark Bay western gulf and the Shark Bay eastern gulf . | 4
+Sharks and Rays (combined) | 2
+Tuskfish and Baldchin Groper (combined), except in the waters of the Shark Bay western gulf and the Shark Bay eastern gulf | 4
 Tuskfish and Baldchin Groper (combined), in the waters of the Shark Bay western gulf and the Shark Bay eastern gulf | 2
 Trevally, Giant and Golden (combined) | 2
-Tuna, Southern Bluefin, Yellowfin and Bigeye (combined) . | 2
+Tuna, Southern Bluefin, Yellowfin and Bigeye (combined) | 2
 [Division 1 inserted in Gazette 1 Oct 2003 p. 4332-3; amended in Gazette 6 Apr 2004 p. 1134; 4 Nov 2005 p. 5314; 22 Dec 2005 p. 6229-30.]
 ## Division 2 — Grouped bag limit of 16 fish
 [Heading inserted in Gazette 1 Oct 2003 p. 4334.]
@@ -71,7 +71,7 @@ Whiting, Southern School All other Gascoyne species of fish not specifically cov
 Fish | Species, or group of species, bag limit for one day
 Crab, Blue Manna | 20
 Crab, Brown Mud and Green Mud (combined) | 5
-Prawn . | 9 litres
+Prawn | 9 L
 Rock Lobster, except when taken from the waters of the Ningaloo Marine Park | 8
 Rock Lobster, taken from the waters of the Ningaloo Marine Park | 4
 [Division 4 inserted in Gazette 1 Oct 2003 p. 4335; amended in Gazette 1 Mar 2011 p. 672.]
@@ -80,11 +80,11 @@ Rock Lobster, taken from the waters of the Ningaloo Marine Park | 4
 Fish | Species, or group of species, bag limit for one day
 Abalone | 20
 Cuttlefish, Octopus and Squid (combined) | 15
-Mussel | 9 litres
+Mussel | 9 L
 Oyster | 20
 Razorfish | 20
 Scallop | 20
-Ark Shell, Cockle, Pipis, Venus Clams and all other species of edible molluscs not specifically mentioned in this Division | 2 litres
+Ark Shell, Cockle, Pipis, Venus Clams and all other species of edible molluscs not specifically mentioned in this Division | 2 L
 [Division 5 inserted in Gazette 1 Oct 2003 p. 4335.]
 ## Part 2 — Bag limits in the Pilbara and Kimberley Region
 [Reg. 64Z]
@@ -107,21 +107,21 @@ Emperor, Red | 2
 Mackerel, Shark | 4
 Mackerel, Broad-barred Spanish | 2
 Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in the Division for one day
- | Mackerel, Narrow-barred Spanish | 2 |  | 7
- | Mackerel, Wahoo | 2
- | Mangrove Jack, except when taken from Dampier Archipelago waters (as defined in r. 64OB) | 4
- | Mangrove Jack, when taken from Dampier Archipelago waters (as defined in r. 64OB) | 2
- | Mulloway, Northern | 2
- | Parrot Fish (combined) | 4
- | Pearl Perch . | 4
- | Samson Fish, Amberjack and Yellowtail Kingfish (combined) | 2
- | Sea Perch, Crimson and Scarlet (combined) | 4
- | Snapper, Pink | 4
- | Sharks and Rays (combined) | 2
- | Threadfin, Giant | 2
- | Tripletail | 1
- | Tuna, Southern Bluefin, Northern Bluefin, Yellowfin, Bigeye and Dogtooth (combined) | 2
- | Wrasse (combined) | 2
+Mackerel, Narrow-barred Spanish | 2 |  | 7
+Mackerel, Wahoo | 2
+Mangrove Jack, except when taken from Dampier Archipelago waters (as defined in r. 64OB) | 4
+Mangrove Jack, when taken from Dampier Archipelago waters (as defined in r. 64OB) | 2
+Mulloway, Northern | 2
+Parrot Fish (combined) | 4
+Pearl Perch . | 4
+Samson Fish, Amberjack and Yellowtail Kingfish (combined) | 2
+Sea Perch, Crimson and Scarlet (combined) | 4
+Snapper, Pink | 4
+Sharks and Rays (combined) | 2
+Threadfin, Giant | 2
+Tripletail | 1
+Tuna, Southern Bluefin, Northern Bluefin, Yellowfin, Bigeye and Dogtooth (combined) | 2
+Wrasse (combined) | 2
 [Division 1 inserted in Gazette 22 Dec 2005 p. 6231-2.]
 ## Division 2 — Grouped bag limit of 16 fish
 [Heading inserted in Gazette 22 Dec 2005 p. 6232.]
@@ -153,31 +153,31 @@ Longtom
 Milkfish
 Mullet, Sea and Yellow-eye
 Whiting
-All other Pilbara and Kimberley species of fish not specifically covered in this Part except Redfin Perch, Goldfish and European Carp ….
+All other Pilbara and Kimberley species of fish not specifically covered in this Part except Redfin Perch, Goldfish and European Carp
 [Division 3 inserted in Gazette 22 Dec 2005 p. 6233; amended in Gazette 23 Jul 2010 p. 3403.]
 ## Division 4 — Crustaceans
 [Heading inserted in Gazette 22 Dec 2005 p. 6233.]
 Fish | Species, or group of species, bag limit for one day
-Cherabin | 9 litres
+Cherabin | 9 L
 Crab, Blue Manna | 20
 Crab, Brown Mud and Green Mud (combined) | 5
-Prawn | 9 litres
+Prawn | 9 L
 Rock Lobster (combined), only 2 of which may be Western or Ornate | 4
 [Division 4 inserted in Gazette 22 Dec 2005 p. 6233; amended in Gazette 1 Mar 2011 p. 672.]
 ## Division 5 — Molluscs
 [Heading inserted in Gazette 22 Dec 2005 p. 6233.]
 Fish | Species, or group of species, bag limit for one day
-Cockle | 2 litres
+Cockle | 2 L
 Cuttlefish, Octopus and Squid (combined) | 15
-Mussel | 9 litres
-Oyster | 9 litres
+Mussel | 9 L
+Oyster | 9 L
 Razorfish | 20
-Ark Shells, Pipis, Venus Clams and all other species of edible molluscs not specifically mentioned in this Division | 2 litres
+Ark Shells, Pipis, Venus Clams and all other species of edible molluscs not specifically mentioned in this Division | 2 L
 [Division 5 inserted in Gazette 22 Dec 2005 p. 6233.]
 ## Division 6 — Miscellaneous
 [Heading inserted in Gazette 22 Dec 2005 p. 6234.]
 Fish | Species, or group of species, bag limit for one day
-Bait fish of the Families Clupeidae (Pilchards and Whitebait), Atherinidae (Hardyheads) and Engraulidae (Anchovy) (combined) | 9 litres
+Bait fish of the Families Clupeidae (Pilchards and Whitebait), Atherinidae (Hardyheads) and Engraulidae (Anchovy) (combined) | 9 L
 Sea Urchin | 20
 [Division 6 inserted in Gazette 22 Dec 2005 p. 6234.]
 ## Part 3 — Bag limits in the West Coast Region
@@ -257,20 +257,20 @@ Crab, Blue Manna —
 (b)on and after 1 November 2007 | 10
 Crab, Brown Mud and Green Mud (combined) | 5
 Marron | 10
-Prawn | 9 litres
+Prawn | 9 L
 Rock Lobster | 6
 [Division 4 inserted in Gazette 1 Oct 2003 p. 4340; amended in Gazette 6 Jul 2007 p. 3389; 21 Nov 2008 p. 4927; 1 Mar 2011 p. 672.]
 ## Division 5 — Molluscs
 [Heading inserted in Gazette 1 Oct 2003 p. 4340.]
- | Fish | Species, or group of species, bag limit for one day
+Fish | Species, or group of species, bag limit for one day
 Abalone, Brownlip and Greenlip (combined) | 5
 Abalone, other than Brownlip and Greenlip | 20
 Cuttlefish, Octopus and Squid (combined) | 15
-Mussel | 9 litres
+Mussel | 9 L
 Oyster | 20
 Razorfish | 20
 Scallop | 20
-Ark Shell, Cockle, Pipis, Venus Clams and all other species of edible molluscs not specifically mentioned in this Division | 2 litres
+Ark Shell, Cockle, Pipis, Venus Clams and all other species of edible molluscs not specifically mentioned in this Division | 2 L
 [Division 5 inserted in Gazette 1 Oct 2003 p. 4340.]
 ## Division 6 — Miscellaneous
 [Heading inserted in Gazette 1 Oct 2003 p. 4341.]
@@ -337,27 +337,27 @@ Fish | Species, or group of species, bag limit for one day
 Crab, Blue Manna | 20
 Crab, Green Mud | 5
 Marron | 10
-Prawn | 9 litres
+Prawn | 9 L
 Rock Lobster | 8
 [Division 4 inserted in Gazette 22 Dec 2005 p. 6237.]
 ## Division 5 — Molluscs
 [Heading inserted in Gazette 22 Dec 2005 p. 6237.]
 Fish | Species, or group of species, bag limit for one day
- | Abalone, Brownlip and Greenlip (combined) | 5
- | Abalone, other than Brownlip and Greenlip | 20
- | Ark Shell | 20
- | Cockle | 20
- | Cuttlefish, Octopus and Squid (combined) | 15
- | Mussel | 9 litres
- | Oyster | 20
- | Razorfish | 20
- | Scallop | 20
- | All other species of edible molluscs not specifically mentioned in this Division | 2 litres
+Abalone, Brownlip and Greenlip (combined) | 5
+Abalone, other than Brownlip and Greenlip | 20
+Ark Shell | 20
+Cockle | 20
+Cuttlefish, Octopus and Squid (combined) | 15
+Mussel | 9 L
+Oyster | 20
+Razorfish | 20
+Scallop | 20
+All other species of edible molluscs not specifically mentioned in this Division | 2 L
 [Division 5 inserted in Gazette 22 Dec 2005 p. 6237.]
 ## Division 6 — Miscellaneous
 [Heading inserted in Gazette 22 Dec 2005 p. 6238.]
 Fish | Species, or group of species, bag limit for one day
- | Sea Urchin | 20
+Sea Urchin | 20
 [Division 6 inserted in Gazette 22 Dec 2005 p. 6238.]
 ## Part 5 — Bag limits for persons on West Coast Purse Seine Managed Fishery Boat
 [reg. 64ZE]

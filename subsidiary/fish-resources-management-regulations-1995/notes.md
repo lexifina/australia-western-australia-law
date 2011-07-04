@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 July 2011 of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fish Resources Management Regulations 1995 | 29 Sep 1995 p. 4503-646 | 1 Oct 1995 (see r. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -143,6 +143,7 @@ Fish Resources Management Amendment Regulations (No. 3) 2011 | 1 Mar 2011 p. 673
 Fish Resources Management Amendment Regulations (No. 4) 2011 | 29 Mar 2011 p. 1151-3 | r. 1 and 2: 29 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Mar 2011 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 5) 2011 | 6 May 2011 p. 1609-12 | r. 1 and 2: 6 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 7) 2011 Pt. 2 | 1 Jul 2011 p. 2721-3 | 1 Jul 2011 (see r. 2(b))
+Reprint 10: The Fish Resources Management Regulations 1995 as at 4 Jul 2011 (includes amendments listed above)
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Recreational Fishing Account.
@@ -154,13 +155,14 @@ Abalone Zone38D(1)
 Abrolhos Islands Fish Habitat Protection AreaSch. 2 Pt. 2 Div. 3 cl. 2(2)
 aircraft3(1)
 ALC55A
-an ALC fishing boat55C(1)
+ALC fishing boat55C(1)
 approved72
 approved automatic location communicator55A
 approved directions55A
 artificial lure44A(2)
 associated camp72
 attend64B, 64M
+authorisation129A
 automatic location communicator55A
 bag limit3(1)
 bait fish64OE(4)
@@ -169,9 +171,10 @@ bona fide64I(2)
 Broome area64ZJ
 Broome area waters64ZJ
 camp72
+cancelled authorisation129A
 carrier boat119(1)
 carrier boat licence3(1)
-Central West Zone3(1)
+Central West Zone38(1)
 charter boat16E(1)
 chlorine tarping110(2)
 closed season38G, 45(1)
@@ -187,7 +190,8 @@ deep sea crab38A
 demersal scalefish45(1), 64OAA(1)
 disease3(1)
 disposable part16B(5)
-Easter Group Zone3(1)
+due date137(4)
+Easter Group Zone 38(1)
 eastern gulf land area3(1)
 Exmouth Gulf Land Zone64ZCA(2)
 Exmouth townsite16L(1)
@@ -199,9 +203,12 @@ fishing boat licence3(1)
 fishing net3(1)
 fishing year16G
 form3(1)
-Freycinet Estuary 3(1)
+former authorisation holder129A
+Freycinet Estuary3(1)
 Freycinet Estuary area16G
+full amount outstanding of the fee137(5)
 Gascoyne Region3(1)
+GDA152(1)
 gear identification number3(1)
 ground64I(2)
 GRS80152(2)
@@ -241,8 +248,8 @@ one day3(1)
 operator72
 Ord River area16M(3), 64ZF
 Ord River area waters64ZF
-package22(5)
-Pelsaert Group Zone3(1)
+package22(5), 61(3a)
+Pelsaert Group Zone38(1)
 Pilbara and Kimberley Region3(1)
 Point Quobba restricted area113D
 prawn hand trawl net3(1)
@@ -261,9 +268,10 @@ rock lobster pot3(1)
 rock lobster pot licence3(1)
 rock lobster tail3(1)
 Rottnest Island ReserveSch. 2 Pt. 2 Div. 3 cl. 4(2)
-Rowley Shoals Marine Park Sch. 2 Pt. 2 Div. 2
+Rowley Shoals Marine ParkSch. 2 Pt. 2 Div. 2
 sea lion exclusion device38(3)
-sea lion protection zone38(1)
+Sea Lion Protection Zone38(1)
+section 224129A
 set3(1)
 setoseSch. 2 Pt. 2 Div. 1
 share arrangement72
@@ -277,10 +285,6 @@ sunset3(1)
 tail clip31(3)
 tail punch31(3)
 tarspotSch. 2 Pt. 2 Div. 1
-the due date137(4)
-the full amount outstanding of the fee137(5)
-the GDA152(1)
-the package61(3a)
 unauthorised structure87
 unlicensed person124B(3)
 usual entitlement118A(2)
@@ -291,7 +295,6 @@ waters of the Shark Bay western gulf3(1)
 West Coast Demersal Scalefish (Interim) Managed Fishery64OAA(1)
 West Coast Purse Seine Managed Fishery boat64ZE(1)
 West Coast Region3(1)
-West Coast Rock Lobster Managed FisherySch. 13 Pt. 2 cl. 2A
 western gulf land area3(1)
 whole fish3(1)
 whole shark or ray16B(5)
