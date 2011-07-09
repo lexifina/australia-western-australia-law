@@ -36,7 +36,7 @@ Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (s
 Police Amendment Act 2009 s. 21 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 37 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
-Misuse of Drugs Amendment Act 2010 | 44 of 2010 | 28 Oct 2010 | s. 1 and 2: 28 Oct 2010 (see s. 2(a)); s. 3, 4 and 7(3) and (4): 22 Jan 2011 (see s. 2(b) and Gazette 21 Jan 2011 p. 157)
+Misuse of Drugs Amendment Act 2010 | 44 of 2010 | 28 Oct 2010 | s. 1 and 2: 28 Oct 2010 (see s. 2(a)); s. 3, 4 and 7(3) and (4): 22 Jan 2011 (see s. 2(b) and Gazette 21 Jan 2011 p. 157); s. 5-7(1) and (2), 8-10: 9 Jul 2011 (see 2(b) and Gazette 8 Jul 2011 p. 2895)
 Misuse of Drugs Amendment Act (No. 2) 2010 Pt. 2 | 50 of 2010 | 24 Nov 2010 | 25 Nov 2010 (see s. 2(b))
 Misuse of Drugs (Numbers of Cannabis Plants) Order 2010 published in Gazette 15 Apr 2011 p. 1425-6 | cl. 1 and 2: 15 Apr 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 16 Apr 2011 (see cl. 2(b))
 Misuse of Drugs (Amounts of Prohibited Drugs) Order 2011 published in Gazette 29 Apr 2011 p. 1532-4 | cl. 1 and 2: 29 Apr 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 30 Apr 2011 (see cl. 2(b))
@@ -44,7 +44,6 @@ Misuse of Drugs (Amounts of Prohibited Drugs) Order (No. 2) 2011 published in Ga
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Misuse of Drugs Amendment Act 2010 s. 5-7(1) and (2), 8-10 | 44 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
 Cannabis Law Reform Act 2010 Pt. 3 | 45 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 read as follows:
@@ -104,58 +103,7 @@ If, immediately before the commencement of this Act, a warrant issued under the 
 (9) To the extent that a provision of this section relating to any property is inconsistent with the Transfer of Land Act 1983, the provision prevails, but this section does not otherwise affect the operation of that Act in relation to the property.
 ”.
 This should read “1893”.
-On the date as at which this compilation was prepared, the Misuse of Drugs Amendment Act 2010 s. 5-7(1) and (2), 8-10 had not come into operation. They read as follows:
-5.Section 21 amended
-In section 21 delete the definition of holding order.
-6.Section 26 amended
-(1) In section 26(1):
-(a) delete “requires, may seize that thing and —” and insert:
-requires —
-(b) delete paragraphs (a) and (b) and insert:
-(a) in the case of —
-(i) a thing that is a prohibited drug, prohibited plant or dangerous substance; or
-(ii) a thing that is contaminated by a dangerous substance,
-may seize and detain the thing until it is dealt with under section 27; or
-(b) in the case of any other thing, may seize it.
-(2) After section 26(1) insert:
-(2A) If under subsection (1)(b) a thing may be seized, the Criminal Investigation Act 2006 Part 13, with any necessary changes, applies to and in relation to the exercise of the power to seize the thing.
-(2B) If under subsection (1)(b) a thing is seized, the Criminal Investigation Act 2006 Part 13 and the Criminal and Found Property Disposal Act 2006, with any necessary changes, apply to and in relation to it.
-7.Section 27 amended
-(1) In section 27(1) delete “prohibited drug, prohibited plant or dangerous substance” (each occurrence) and insert:
-relevant thing
-(2) In section 27(2):
-(a) delete “prohibited drug, prohibited plant or dangerous substance” and insert:
-relevant thing
-(b) delete paragraph (b) and insert:
-(b) sufficient samples have been taken of or from the thing,
-8.Section 28 replaced
-Delete section 28 and insert:
-28.Compensation for destroyed seized property
-(1) In this section —
-seized property means a dangerous substance, or a thing contaminated with a dangerous substance, seized under section 26.
-(2) This section does not apply to or in respect of any seized property that has been forfeited to the Crown.
-(3) If any seized property is destroyed —
-(a) under section 27(1)(a)(i); or
-(b) under an order made under section 27(1)(b),
-a person who was entitled to possession of it when it was seized is entitled to recover from the State (if necessary, by action in a court of competent jurisdiction) compensation equal to its market value at the time it was seized.
-(4) If under section 27(4) any seized property is destroyed and —
-(a) in the 12 months after the date on which the property was seized no person is charged with an offence that involved the possession, use, sale or supply of it; or
-(b) a person is charged with such an offence but is acquitted, whether at trial or on appeal, and any appeal against the acquittal is concluded,
-any person who was entitled to possession of the property when it was seized is entitled to recover from the State (if necessary, by action in a court of competent jurisdiction) compensation equal to its market value at the time it was seized.
-9.Section 43 inserted
-After section 42 insert:
-43.Transitional provisions (Sch. IX)
-Schedule IX sets out transitional provisions.
-10.Schedule IX inserted
-After Schedule VIII insert:
-Schedule IX — Transitional provisions
-[s. 43]
-1.Property subject to holding orders under repealed s. 28
-(1) In this clause —
-repeal day means the day on which section 28 is repealed by the Misuse of Drugs Amendment Act 2010 section 8.
-(2) If immediately before repeal day any property is subject to a holding order granted under section 28, then on repeal day —
-(a) the repealed section 28 ceases to apply to and in respect of the property and the holding order; and
-(b) the property is to be taken to be seized property for the purposes of the Criminal and Found Property Disposal Act 2006 and that Act applies to and in respect of it accordingly.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Cannabis Law Reform Act 2010 Pt. 3 had not come into operation. It reads as follows:
 Part 3 — Misuse of Drugs Act 1981 amended
 4.Act amended
@@ -328,7 +276,6 @@ dentist3(1)
 drug of addiction3(1)
 external serious drug offence32A(3)
 heroin3(1)
-holding order21
 industrial hemp3(1)
 industrial hemp seed3(1)
 medical practitioner3(1)
@@ -340,9 +287,12 @@ processed industrial hemp3(1)
 prohibited drug3(1)
 prohibited plant3(1)
 recipient12
+relevant thing27
+repeal daySch IX cl. 1
 sample3(1)
 search warrant21
 serious drug offence32A(3)
+seized property28
 simple offence3(1)
 specified27A(7)
 specified drug3(1)
