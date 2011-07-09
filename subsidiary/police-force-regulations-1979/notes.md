@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 September 2010 of the Police Force Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Police Force Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Police Regulations 1979 | 20 Dec 1978 p. 4731-62 | 1 Jan 1979
@@ -59,6 +59,7 @@ Police Force Amendment Regulations (No. 2) 2008 | 30 Dec 2008 p. 5643-7 | r. 1 a
 Police Force Amendment Regulations 2010 | 12 Mar 2010 p. 954-6 | r. 1 and 2: 12 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Mar 2010 (see r. 2(b) and Gazette 12 Mar 2010 p. 941)
 Police Force Amendment Regulations (No. 2) 2010 | 16 Jul 2010 p. 3366-8 | r. 1 and 2: 16 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jul 2010 (see r. 2(b))
 Reprint 5: The Police Force Regulations 1979 as at 17 Sep 2010 (includes amendments listed above)
+Police Force Amendment Regulations (No. 2) 2011 | 8 Jul 2011 p. 2898-9 | r. 1 and 2: 8 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jul 2011 (see r. 2(b))
 Repealed by the Medical Practitioners Act 2008.
 Formerly referred to the Commissioner of Public Health, the name of which was changed to the Commissioner of Health by the Health Legislation Amendment Act 1984. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Now known as the Police Force Regulations 1979, citation changed (see note under r. 101).
@@ -99,7 +100,6 @@ non-commissioned officer103
 notice6A01
 officer103
 personal issue firearm404(1)
-pharmaceutical chemist1301
 physical performance evaluation103
 police auxiliary officer103
 Police Gazette103
