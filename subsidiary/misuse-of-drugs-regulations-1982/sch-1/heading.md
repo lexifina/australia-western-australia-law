@@ -66,58 +66,32 @@ Form M.D. 8A
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
 MISUSE OF DRUGS REGULATIONS 1982
-DESTRUCTION OF PROHIBITED DRUGS, PROHIBITED PLANTS OR DANGEROUS SUBSTANCES
+DESTRUCTION OF PROHIBITED DRUGS, PROHIBITED PLANTS, DANGEROUS SUBSTANCES OR OTHER RELEVANT THINGS
 Laboratory reference No. ........................
 Police reference No. ...........................
 I, [insert name of Commissioner of Police or name and rank of delegate], being the Commissioner of Police*/a delegate of the Commissioner of Police* and being satisfied that —
-(a)it is not reasonably practicable to detain [insert particulars of prohibited drug, prohibited plant or dangerous substance] until it is dealt with under section 27(1) of the Act; and
-(b)sufficient samples of that prohibited drug*/prohibited plant*/dangerous substance* have been taken,
-direct that that prohibited drug*/prohibited plant*/dangerous substance* (apart from those samples) be destroyed in accordance with regulation 7 before it is dealt with under section 27(1) of the Act.
+(a)it is not reasonably practicable to detain [insert particulars of prohibited drug, prohibited plant, dangerous substance or other relevant thing] until it is dealt with under section 27(1) of the Act; and
+(b)sufficient samples of or from that prohibited drug*/prohibited plant*/dangerous substance*/other relevant thing* have been taken,
+direct that that prohibited drug*/prohibited plant*/dangerous substance*/other relevant thing* (apart from those samples) be destroyed in accordance with regulation 7 before it is dealt with under section 27(1) of the Act.
 Directed on .............................................................................................................
 at .............................................................................................................................
 ...............................................................
 Signature of Commissioner of Police*/
 delegate of Commissioner of Police*
 * Please delete inapplicable alternative.
-[Form M.D. 8A inserted in Gazette 2 Jul 1996 p. 3199-200.]
+[Form M.D. 8A inserted in Gazette 2 Jul 1996 p. 3199-200; amended in Gazette 6 May 2011 p. 1621.]
 Form M.D. 8B
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
 MISUSE OF DRUGS REGULATIONS 1982
-APPLICATION TO HAVE SAMPLE OF PROHIBITED DRUG, PROHIBITED PLANT OR DANGEROUS SUBSTANCE ANALYSED OR EXAMINED BY ANALYST OR BOTANIST CHOSEN BY ACCUSED
-I [insert name and address of applicant], having been charged with [insert details of offence(s)] in relation to [insert details of prohibited drug, prohibited plant or dangerous substance], hereby apply to have a sample of [insert details of alleged prohibited drug, prohibited plant or dangerous substance] analysed or examined by [insert full name and address of analyst or botanist who is to carry out analysis or examination], who is an analyst*/botanist* other than an approved analyst*/approved botanist*.
+APPLICATION TO HAVE SAMPLE OF PROHIBITED DRUG, PROHIBITED PLANT, DANGEROUS SUBSTANCE OR OTHER RELEVANT THING ANALYSED OR EXAMINED BY ANALYST OR BOTANIST CHOSEN BY ACCUSED
+I [insert name and address of applicant], having been charged with [insert details of offence(s)] in relation to [insert details of prohibited drug, prohibited plant, dangerous substance or other relevant thing], hereby apply to have a sample of [insert details of alleged prohibited drug, prohibited plant, dangerous substance or other relevant thing] analysed or examined by [insert full name and address of analyst or botanist who is to carry out analysis or examination], who is an analyst*/botanist* other than an approved analyst*/approved botanist*.
 Analysis*/examination* applied for on ............................. at ...............................
 ..................................................
 Signature of applicant
 * Please delete inapplicable alternative.
-[Form M.D. 8B inserted in Gazette 2 Jul 1996 p. 3200; amended in Gazette 12 Nov 2010 p. 5663.]
-Form M.D. 9
-WESTERN AUSTRALIA
-MISUSE OF DRUGS ACT 1981
-MISUSE OF DRUGS REGULATIONS 1982
-APPLICATION OF POLICE OFFICER OR APPROVED PERSON FOR HOLDING ORDER
-I, [insert name of applicant police officer or approved person], being a police officer*/approved person* and suspecting that the following thing (not being a prohibited drug, prohibited plant or dangerous substance) [insert particulars of thing] seized or acquired and detained under section 26 of the Misuse of Drugs Act 1981 is a thing referred to in section 23(1)(a), (b) or (c) of that Act on the following grounds [insert grounds for suspicion], hereby apply for a holding order authorising the continued detention of that thing for the period specified in section 28(1) of that Act.
-Holding order applied for
-on .......................................................... at ............................................................
-.....................................................................................
-............................................................................
-Signature and designation, if any, of applicant
-police officer*/approved person*.
-* Please delete inapplicable alternative.
-[Form M.D. 9 amended in Gazette 2 Jul 1996 p. 3200.]
-Form M.D. 10
-WESTERN AUSTRALIA
-MISUSE OF DRUGS ACT 1981
-MISUSE OF DRUGS REGULATIONS 1982
-HOLDING ORDER
-I, [insert name of justice of the peace granting holding order] of , being a justice of the peace and being satisfied on the application of the following police officer*/approved person* [insert name and designation, if any, of applicant police officer or approved person] that there are reasonable grounds to suspect that the following thing (not being a prohibited drug, prohibited plant or dangerous substance) [insert particulars of thing] seized or acquired and detained under section 26 of the Misuse of Drugs Act 1981 is a thing referred to in section 23(1)(a), (b) or (c) of that Act, hereby grant to that police officer*/approved person* a holding order authorising the continued detention of that thing for the period specified in section 28(1) of that Act.
-Granted on .............................................................................................................
-at ............................................................................................................................
-.........................................................
-Signature of justice of the peace
-granting holding order.
-* Please delete inapplicable alternative.
-[Form M.D. 10 inserted in Gazette 2 Jul 1996 p. 3200.]
+[Form M.D. 8B inserted in Gazette 2 Jul 1996 p. 3200; amended in Gazette 12 Nov 2010 p. 5663; 6 May 2011 p. 1621.]
+[Forms 9 and 10 deleted in Gazette 6 May 2011 p. 1621.]
 Form M.D. 11
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
