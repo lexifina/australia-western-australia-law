@@ -28,6 +28,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 60(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Building Act 2011 s. 171 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 45 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 37 reads as follows:
@@ -56,6 +57,11 @@ On the date as at which this reprint was prepared, the State Superannuation (Tra
 60.Retirement Villages Act 1992 amended
 (2) Section 25(1)(g)(i) of the Retirement Villages Act 1992 is amended by deleting “, and in particular his or her rights, if any, under the Superannuation and Family Benefits Act 1938”.
 The section that it seeks to amend has been repealed.
+On the date as at which this compilation was prepared, the Building Act 2011 s. 171 had not come into operation. It reads as follows:
+171.Retirement Villages Act 1992 amended
+(1) This section amends the Retirement Villages Act 1992.
+(2) In section 15(5)(b) after “1960,” insert:
+or for which a building permit was granted under the Building Act 2011,
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
