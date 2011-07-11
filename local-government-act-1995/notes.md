@@ -55,6 +55,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 516 | 24 of 2009 | 22 Oct 2009 | s. 516: 1 Sep 2012 (see s. 2(c)) and Gazette 13 Aug 2010 p. 3975)
+Building Act 2011 s. 166 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -239,6 +240,16 @@ On the date as at which this compilation was prepared, the Co-operatives Act 200
 (a) delete paragraph (d) and “or” after it;
 (b) after each of paragraphs (a) and (b) insert:
 or
+On the date as at which this compilation was prepared, the Building Act 2011 s. 166 had not come into operation. It reads as follows:
+166.Local Government Act 1995 amended
+(1) This section amends the Local Government Act 1995.
+(2) After section 3.5(3) insert:
+(4A) Nothing in the Building Act 2011 prevents a local government from making local laws under this Act about building work, demolition work, a standard for the construction or demolition of buildings or incidental structures, or the use and maintenance of, and requirements in relation to, existing buildings or incidental structures, as those terms are defined in section 3 of that Act.
+(3) In section 9.61:
+(a) in paragraph (f) delete “recovered.” and insert:
+recovered;
+(b) after paragraph (f) insert:
+(g) contain provisions that are necessary or convenient for dealing with matters concerning the transition from the Local Government (Miscellaneous Provisions) Act 1960 sections 375, 377, 378, 379 and 380, before they were deleted by the Building Act 2011 section 153(2), to the provisions of this Act, including the regulations.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
