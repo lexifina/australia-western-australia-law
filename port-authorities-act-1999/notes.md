@@ -25,6 +25,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 84 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
+Building Act 2011 s. 169 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
 The Ports and Marine Legislation Amendment Act 2003 s. 4(2) reads as follows:
 “
 (2) The amendment made by subsection (1) does not affect the operation of the Port Authorities (Withdrawal and Revesting of Property) Order 2000 published in the Gazette on 2 June 2000.
@@ -119,6 +120,23 @@ On the date as at which this compilation was prepared, the State Superannuation 
 (2) Section 19(1) is amended by deleting “section 30” and inserting instead —
 “ section 76 ”.
 ”.
+On the date as at which this compilation was prepared, the Building Act 2011 s. 169 had not come into operation. It reads as follows:
+169.Port Authorities Act 1999 amended
+(1) This section amends the Port Authorities Act 1999.
+(2) In section 38(1) delete the definitions of:
+Building Code
+performance requirements
+responsible Minister
+(3) In section 38(1) in the definition of port authority delete “section 35(2);” and insert:
+section 35(2).
+(4) Delete section 38(2) and insert:
+(2) For the purposes of port works and port facilities, the Planning and Development Act 2005 section 6 applies to a port authority as if it were an agency of the Crown in right of the State.
+(5) In section 38(3) delete “subsection (2)(a).” and insert:
+subsection (2).
+(6) Delete section 38(4) and (5).
+(7) In section 38(6) delete “or building”.
+(8) In section 38(7) delete “responsible Minister,” and insert:
+Minister administering the Planning and Development Act 2005,
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
