@@ -1,6 +1,6 @@
 Notes
 This is a compilation of the Building Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
-`Compilation table
+Compilation table
 Citation | Gazettal | Commencement
 Building Regulations 1989 | 28 Jul 1989 p. 2261-93 | 28 Jul 1989 (see r. 2)
 Building Amendment Regulations 1991 | 11 Jan 1991 p. 58-9 | 11 Jan 1991
@@ -50,6 +50,10 @@ Building Amendment Regulations (No. 5) 2009 | 8 Dec 2009 p. 4991 | r. 1 and 2: 8
 Reprint 7: The Building Regulations 1989 as at 13 Aug 2010 (includes amendments listed above)
 Building Amendment Regulations 2010 | 31 Aug 2010 p. 4179 | r. 1 and 2: 31 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2010 (see r. 2(b))
 Building Amendment Regulations 2011 | 10 May 2011 p. 1661-2 | r. 1 and 2: 10 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 11 May 2011 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Building Act 2011 s. 157 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
 The Gas Corporation does not exist. The Act that established it was repealed by the Gas Corporation (Business Disposal) Act 1999 s. 93.
 The Building Amendment Regulations (No. 2) 2001 r. 7 reads as follows:
 7.Transitional
@@ -77,6 +81,9 @@ transitional period means the period beginning on the day on which these regulat
 (2) During the transitional period, despite regulation 38B(3) of the Building Regulations 1989 a building may be included within the area enclosed for a pre-July 1992 pool even though —
 (a) the building is not a Class 10a building under the Building Code; and
 (b) any external door or window in the building does not satisfy the requirements of Australian Standard AS 1926.1.
+On the date as at which this compilation was prepared, the Building Act 2011 s. 157 had not come into operation. It reads as follows:
+157.Building Regulations 1989 repealed
+The Building Regulations 1989 are repealed.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
