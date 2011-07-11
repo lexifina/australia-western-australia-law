@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 February 2011 of the Land Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Land Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Tax Assessment Act 2002 | 52 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -27,6 +27,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 83 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
+Building Act 2011 s. 164 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Under the Public Sector Management Act 1994 the designations of departments can be changed. At the time of this reprint the designation of the Department of Mines has been changed to the Department of Mines and Petroleum.
@@ -47,6 +48,13 @@ On the date as at which this reprint was prepared, the State Superannuation Amen
 (1) The amendments in this section are to the Land Tax Assessment Act 2002.
 (2) The Glossary clause 1 is amended in the definition of taxable authority by deleting “Government Employees Superannuation Board” and inserting instead —
 “ State Superannuation Board ”.
+On the date as at which this compilation was prepared, the Building Act 2011 s. 164 had not come into operation. It reads as follows:
+164.Land Tax Assessment Act 2002 amended
+(1) This section amends the Land Tax Assessment Act 2002.
+(2) In section 39(b) delete “Part XV of the Local Government (Miscellaneous Provisions) Act 1960” and insert:
+the Building Act 2011
+(3) In the Glossary clause 1 in the definition of commencement date paragraph (b) delete “building licence for the construction or refurbishment is issued under Part XV of the Local Government (Miscellaneous Provisions) Act 1960;” and insert:
+building permit for the work is granted under the Building Act 2011;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
