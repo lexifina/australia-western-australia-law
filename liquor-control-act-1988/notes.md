@@ -47,6 +47,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
  | Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
  | Liquor Control Amendment Act 2010 Pt. 3 | 56 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(b))
+ | Building Act 2011 s. 165 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Acts 1984 s. 7(4)(f).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Repealed by the Public Sector Management Act 1994.
@@ -207,3 +208,10 @@ application means any application for the purposes of this Part.
 (b) may decline to deal with the application and, if so, must advise the applicant accordingly.
 152X.Decisions under Part 5B not subject to review
 A decision made by the Director under this Part is not subject to review under section 25.
+On the date as at which this compilation was prepared, the Building Act 2011 s. 165 had not come into operation. It reads as follows:
+165.Liquor Control Act 1988 amended
+(1) This section amends the Liquor Control Act 1988.
+(2) In section 39(2)(a)(iv) delete “Local Government (Miscellaneous Provisions) Act 1960;” and insert:
+Building Act 2011;
+(3) In section 69(8)(c) delete “Local Government (Miscellaneous Provisions) Act 1960,” and insert:
+Building Act 2011,
