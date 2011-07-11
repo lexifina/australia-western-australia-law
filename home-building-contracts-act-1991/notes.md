@@ -26,6 +26,7 @@ Short title | Number and year | Assent | Commencement
 Caravan Parks and Camping Grounds Act 1995 s. 33 | 34 of 1995 | 29 Sep 1995 | To be proclaimed (see s. 2)
 Building Services (Complaint Resolution and Administration) Act 2011 Pt. 10 Div. 1 | 16 of 2011 | 25 May 2011 | To be proclaimed (see s. 2(a))
 Building Services (Registration) Act 2011 Pt. 10 Div. 1 | 19 of 2011 | 22 Jun 2011 | To be proclaimed (see s. 2(b))
+Building Act 2011 s. 163 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
 The Building Legislation Amendment Act 2000 s. 59 and 62 read as follows:
 “
 59.References to Committee in other written laws
@@ -183,3 +184,20 @@ and
 154.Section 31B amended
 In section 31B(10) and (11) delete “Builders’ Registration Board” and insert:
 Building Commissioner
+On the date as at which this compilation was prepared, the Building Act 2011 s. 163 had not come into operation. It reads as follows:
+163.Home Building Contracts Act 1991 amended
+(1) This section amends the Home Building Contracts Act 1991.
+(2) In section 8(1)(a) delete “building surveyor or other”.
+(3) Delete section 8(5).
+(4) In section 9(1)(a) delete “licence being issued,” and insert:
+permit being granted,
+(5) In section 9(1)(b) delete “licence” and insert:
+permit
+(6) In section 25A in the definition of cost of the building work delete “licence under Part XV of the Local Government (Miscellaneous Provisions) Act 1960;” and insert:
+permit;
+(7) In section 25C(3)(b)(ii) delete “licence issued” and insert:
+permit granted
+(8) In section 25J(3) delete “licence issued” and insert:
+permit granted
+(9) In section 25J(5)(b) delete “licence for the residential building work is issued,” and insert:
+permit for the residential building work is granted,
