@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 March 2011 of the Building and Construction Industry Training Fund and Levy Collection Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Building and Construction Industry Training Fund and Levy Collection Act 1990 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Building and Construction Industry Training Fund and Levy Collection Act 1990 | 76 of 1990 | 20 Dec 1990 | s. 1 and 2: 20 Dec 1990; Act other than s. 1 and 2: 1 Jul 1991 (see s. 2 and Gazette 28 Jun 1991 p. 3101)
@@ -18,11 +18,31 @@ Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Building and Construction Industry Training Fund and Levy Collection Amendment Act 2010 | 47 of 2010 | 12 Nov 2010 | s. 1 and 2: 12 Nov 2010 (see s. 2(a)); Act other than s. 1 and 2: 13 Nov 2010 (see s. 2(b))
 Reprint 3: The Building and Construction Industry Training Fund and Levy Collection Act 1990 as at 4 Mar 2011 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Building Act 2011 s. 159 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 (Cwlth).
 Repealed by the Offshore Petroleum (Repeals and Consequential Amendments) Act 2006 (Cwlth). Now see Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Cwlth).
 This Act shall be read as one with the Building and Construction Industry Training Levy Act 1990 (see s. 3 of that Act).
 The Building and Construction Industry Training Fund and Levy Collection Amendment Act 1998 s. 7(2) reads as follows:
 (2) A person holding office as a member of the Board immediately before the day on which this Act comes into operation ceases to hold office on that day but, subject to the principal Act as amended by this Act, is eligible for reappointment to the Board.
+On the date as at which this compilation was prepared, the Building Act 2011 s. 159 had not come into operation. It reads as follows:
+159.Building and Construction Industry Training Fund and Levy Collection Act 1990 amended
+(1) This section amends the Building and Construction Industry Training Fund and Levy Collection Act 1990.
+(2) In section 3(1) delete the definition of building licence.
+(3) In section 3(1) insert in alphabetical order:
+permit, except in section 5(2)(e), means a building permit or a demolition permit as defined in the Building Act 2011 section 3;
+(4) In section 3(1) in the definition of construction work delete paragraph (b) and insert:
+(b)that is building work or demolition work as defined in the Building Act 2011 section 3,
+(5) In section 3(1) in the definition of project owner paragraph (a) delete “building licence” and insert:
+permit
+(6) In section 3(2)(a) delete “building licence” (each occurrence) and insert:
+permit
+(7) In section 3(3) delete “has been” and insert:
+or a demolition licence under the Local Government (Miscellaneous Provisions) Act 1960 was
+(8) In section 21(1)(a) and (b) delete “building licence” (each occurrence) and insert:
+permit
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -44,4 +64,3 @@ regulation 621(5)
 relevant componentsSch. 2 cl. 1
 required amount21(5)
 specified25A(3)
-By Authority: JOHN A. STRIJK, Government Printer
