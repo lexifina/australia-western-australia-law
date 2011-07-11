@@ -269,6 +269,7 @@ State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Opera
 Health Practitioner Regulation National Law (WA) Act 2010 s. 44(1), (7) and (9) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Building Services (Complaint Resolution and Administration) Act 2011 s. 127 | 16 of 2011 | 25 May 2011 | To be proclaimed (see s. 2(b))
 Building Services (Registration) Act 2011 s. 155 | 19 of 2011 | 22 Jun 2011 | To be proclaimed (see s. 2(b))
+Building Act 2011 s. 160 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
@@ -382,6 +383,10 @@ The Municipal Building Surveyors Examination Committee
 The Painters’ Registration Board
 (3) In Schedule V Part 3 after the item relating to the Broome Port Authority insert:
 The Building Services Board established under the Building Services (Registration) Act 2011.
+On the date as at which this compilation was prepared, the Building Act 2011 s. 160 had not come into operation. It reads as follows:
+160.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 3 delete the item relating to the Advisory Committee appointed under section 435 of the Local Government (Miscellaneous Provisions) Act 1960.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
