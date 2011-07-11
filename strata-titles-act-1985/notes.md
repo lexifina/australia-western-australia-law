@@ -47,6 +47,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Building Act 2011 s. 174 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
 “
 (5) A plan registered under the principal Act before the provision inserted by subsection (3) came into operation is declared to be, and to have always been, valid if it would have been valid at the time of registration had that provision been then in operation.
@@ -143,6 +144,60 @@ On the date as at which this compilation was prepared, the State Superannuation 
 Section 73(1)(g)(i) of the Strata Titles Act 1985 is amended by deleting “, and in particular his rights, if any, under the Superannuation and Family Benefits Act 1938.”.
 ”.
 The section that it seeks to amend has been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1125.
+On the date as at which this compilation was prepared, the Building Act 2011 s. 174 had not come into operation. It reads as follows:
+174.Strata Titles Act 1985 amended
+(1) This section amends the Strata Titles Act 1985.
+(2) In section 5B(2) delete “by a certificate given by the local government in accordance with section 23.” and insert:
+by —
+(a) an occupancy permit granted under an application mentioned in the Building Act 2011 section 50(1)(a); or
+(b) a building approval certificate granted under an application mentioned in the Building Act 2011 section 50(1)(b).
+(3) In section 8A(f) delete “by a certificate given by the local government containing, subject to appropriate and necessary modifications, the same particulars as are required by section 23 and the local government shall not issue a certificate for the purposes of this paragraph unless satisfied, subject to appropriate and necessary modifications, in respect of the matters referred to in section 23(2);” and insert:
+by —
+(i) an occupancy permit granted under an application mentioned in the Building Act 2011 section 50(2)(a); or
+(ii) a building approval certificate granted under an application mentioned in the Building Act 2011 section 50(2)(b);
+(4) In section 21R(1)(a) after “subject of” insert:
+a building permit under the Building Act 2011 or
+(5) In section 21U(2):
+(a) in paragraph (a) after “subject of” insert:
+a building permit under the Building Act 2011 or
+(b) at the end of paragraphs (a) and (b) insert:
+and
+(6) Delete section 23.
+(7) Delete section 24(1).
+(8) In section 24(2) delete “satisfied that the proposed development will not be contrary to any of the requirements referred to in section 23(2)(a), (b) and (c).” and insert:
+satisfied, in relation to the proposed development, that —
+(a) separate occupation of the proposed lots will not contravene the provisions of any local planning scheme in force under the Planning and Development Act 2005; and
+(b) any consent or approval required under any such local planning scheme or under the provisions of the last-mentioned Act relating to any interim development order, has been given in relation to the separate occupation of the proposed lots; and
+(c) the development of the parcel as a whole, the building and the proposed subdivision of the parcel into lots for separate occupation will not interfere with the existing or likely future amenity of the neighbourhood, having regard to the circumstances of the case and to the public interest.
+(9) Delete section 24(7) and (8).
+(10) In section 26(1):
+(a) delete paragraphs (a) to (i);
+(b) in paragraph (j) delete “a proposed development will not be contrary to any of the matters referred to in section 23(2)(a), (b) and (c);” and insert:
+the local government is satisfied as to the matters referred to in section 24(2)(a), (b) and (c) in relation to a proposed development;
+(c) delete paragraph (l).
+(11) In section 26(5)(a) delete “(1)(c), (e), (f), (g), (j), (k), (l)(ii),” and insert:
+(1)(j), (k),
+(12) After section 132 insert:
+Part VIII — Transitional provisions for amendments made to this Act
+Division 1 — Transitional provisions arising from certain amendments made by the Building Act 2011
+133.Terms used
+In this Division —
+amendments means the amendments made by the Building Act 2011 section 174;
+commencement day means the day on which the Building Act 2011 section 174 comes into operation.
+134.Certificates of local government required by s. 5B(2)
+A strata plan that was lodged for registration, but not registered, before commencement day must be dealt with as if the amendments had not been made.
+135.Certificates of local government required by s. 8A(f)
+An application to register a plan of re-subdivision of a lot in a strata scheme that was started, but not finalised, before commencement day must be dealt with as if the amendments had not been made.
+136.Applications for certificates of local government and review of related decisions
+(1) In this section —
+application means an application as defined in section 26(1) as in force immediately before commencement day.
+(2) An application that was started, but not finalised, before commencement day must be dealt with as if the amendments had not been made.
+(3) A review under section 26 of an application mentioned in subsection (2) must be dealt with as if the amendments had not been made.
+(4) A review under section 26 that was started, but not finalised, before commencement day must be dealt with as if the amendments had not been made.
+(5) If a certificate that had been required by section 5B(2) and 8A(f) before the amendments is given by a local government as a consequence of —
+(a) an application mentioned in subsection (2); or
+(b) a review mentioned in subsection (3) or (4),
+sections 5B(2) and 8A(f) are to be read as if that particular certificate must accompany the plan.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
