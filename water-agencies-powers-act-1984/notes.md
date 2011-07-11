@@ -37,6 +37,10 @@ Water Resources Legislation Amendment Act 2007 Pt. 6 | 38 of 2007 | 21 Dec 2007 
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 4: The Water Agencies (Powers) Act 1984 as at 7 Jan 2011 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Building Act 2011 s. 175 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Acts Amendment (Water Authority Rates and Charges) Act 1987 s. 4 reads as follows:
 4.Application of Part
@@ -71,6 +75,18 @@ The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain tra
 Now known as the Water Agencies (Powers) Act 1984; short title changed (see note under s. 1).
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 14 contains transitional provisions relating to the replacement of the Water Authority and Waterways Commission with the Water Corporation, Water and Rivers Commission and the Coordinator of Water Services.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Building Act 2011 s. 175 had not come into operation. It reads as follows:
+175.Water Agencies (Powers) Act 1984 amended
+(1) This section amends the Water Agencies (Powers) Act 1984.
+(2) In section 65(1) in the definition of planning condition paragraph (b) delete “Part XV of the Local Government (Miscellaneous Provisions) Act 1960 to the granting of a building licence;” and insert:
+the Building Act 2011 to the granting of a building permit;
+(3) In section 67(4) delete “Part XV of the Local Government (Miscellaneous Provisions) Act 1960 for the grant of a building licence” and insert:
+the Building Act 2011 for the grant of a building permit
+(4) In section 67(7):
+(a) delete “licence being issued” and insert —
+permit being granted
+(b) delete “licence not issued or the proposal” and insert:
+permit is not granted or the proposal is
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
