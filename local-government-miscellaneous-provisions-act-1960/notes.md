@@ -135,6 +135,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 91 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 Building Services (Registration) Act 2011 s. 156 | 19 of 2011 | 22 Jun 2011 | To be proclaimed (see s. 2(b))
+Building Act 2011 s. 151-6 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
 Act No. 90 of 1964 was passed as the Local Government Act Amendment Act (No. 2) 1964, but was proclaimed to come into operation as the Local Government Act Amendment Act 1964.
 Repealed by the Stock (Brands and Movement) Act 1970, which is now known as the Stock (Identification and Movement) Act 1970.
 Repealed by the Auction Sales Act 1973 s. 3(1).
@@ -337,6 +338,20 @@ On the date as at which this compilation was prepared, the Building Services (Re
 (c) whether the person is registered, or has been granted approval, under the Building Services (Registration) Act 2011,
 commits an offence.
 Penalty: a fine of $10 000.
+On the date as at which this compilation was prepared, the Building Act 2011 s. 151-6 had not come into operation. They read as follows:
+151.Act amended
+This Division amends the Local Government (Miscellaneous Provisions) Act 1960.
+152.Parts VIII and IX deleted
+Delete Parts VIII and IX.
+153.Part XV amended
+(1) Delete Part XV Division 1.
+(2) Delete Part XV Divisions 2, 3, 4, 6, 7, 8, 9, 9A, 10, 11, 12, 13, 14, 15, 16, 17, 18 and 20.
+154.Sections 666 and 667 deleted
+Delete sections 666 and 667.
+155.Section 684 amended
+In section 684 delete “287(4)(b), 288(8), 291(5)(b) or”.
+156.Section 687 deleted
+Delete section 687.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
