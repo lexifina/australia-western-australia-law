@@ -35,6 +35,8 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Fish Resources Management Amendment (Fees) Act 2011 s. 3-5 | 21 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
+Fish Resources Management Amendment (Fees) Act (No. 2) 2011 s. 3-5 | 22 of 2011 | 11 Jul 2011 | s. 3: operative on commencement of the Fish Resources Management Amendment (Fees) Act 2011 s. 3 (see s. 2(b)); s. 4: operative on commencement of the Fish Resources Management Amendment (Fees) Act 2011 s. 4 (see s. 2(c)); s. 5: operative on commencement of the Fish Resources Management Amendment (Fees) Act 2011 s. 5 (see s. 2(d))
 The Fish Resources Management Amendment Act 2002 s. 8(2)-(4) read as follows:
 “
 (2) The arrangements of 15 April 1995 by which the Minister for Fisheries purported to lease from the Minister for Transport that portion of land known as “Aquaculture Park Area”, being a total area of 7.8152 hectares situated in the Broome Port area, for the purposes of establishing an aquaculture park are to be taken to be, and always to have been, as valid as they would have been if the amendments made to the Fish Resources Management Act 1994 by this Act were in effect at the time the arrangements were made.
@@ -113,6 +115,33 @@ On the date as at which this compilation was prepared, the Standardisation of Fo
 Act | Identifier | Title | Shoulder note
 Fish Resources Management Act 1994 | Schedule 1
 The amendment to s. 245(1) in the Public Sector Reform Act 2010 s. 89 is not included because the section it sought to amend was deleted by the Fish Resources Management Amendment Act 2009 s. 19.
+On the date as at which this compilation was prepared, the Fish Resources Management Amendment (Fees) Act 2011 s. 3-5 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Fish Resources Management Act 1994.
+4.Section 58 amended
+After section 58(2) insert:
+(3) A fee prescribed under subsection (2)(m) may include one or more of the following —
+(a) an amount in respect of the extent or value of any authority conferred by an authorisation;
+(b) an amount in connection with any purpose referred to in section 238(5) that is relevant to an authorisation;
+(c) an amount in respect of the costs of administering this Act.
+5.Section 258 amended
+(1) In section 258 delete “The regulations” and insert:
+(1) The regulations
+(2) At the end of section 258 insert:
+(2) A fee prescribed under subsection (1)(zc)(ii) may include one or more of the following —
+(a) an amount in respect of the extent or value of any authority conferred by an authorisation;
+(b) an amount in connection with any purpose referred to in section 238(5) or 239(4) that is relevant to an authorisation;
+(c) if the fee is for the issue of an aquaculture licence — an amount in respect of the area to which the licence relates;
+(d) an amount in respect of the costs of administering this Act.
+On the date as at which this compilation was prepared, the Fish Resources Management Amendment (Fees) Act (No. 2) 2011 s. 3-5 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Fish Resources Management Act 1994 as amended by the Fish Resources Management Amendment (Fees) Act 2011.
+4.Section 58 amended
+After section 58(3) insert:
+(4) To the extent that a management plan prescribes under subsection (2)(m) a fee that includes an amount referred to in subsection (3) that is a tax, the management plan may impose the tax.
+5.Section 258 amended
+After section 258(2) insert:
+(3) To the extent that the regulations prescribe under subsection (1)(zc)(ii) a fee that includes an amount referred to in subsection (2) that is a tax, the regulations may impose the tax.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
