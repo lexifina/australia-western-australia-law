@@ -19,6 +19,10 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Retail Shops and Fair Trading Legislation Amendment Act 2006 Pt. 3 | 47 of 2006 | 4 Oct 2006 | 11 May 2007 (see s. 2 and Gazette 11 May 2007 p. 2017)
 Reprint 3: The Commercial Tenancy (Retail Shops) Agreements as at 8 Jun 2007 (includes amendments listed above)
 Acts Amendment (Justice) Act 2008 Pt. 4 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Small Business and Retail Shop Legislation Amendment Act 2011 Pt. 3 | 20 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
 The Commercial Tenancy (Retail Shops) Agreements Amendment Act 1990 s. 22 reads as follows:
 “
 22.Saving and transitional
@@ -166,3 +170,50 @@ the CTRS Act means the Commercial Tenancy (Retail Shops) Agreements Act 1985.
 on or after the commencement day the question is to be dealt with as if it had been referred for mediation under the Act section 54(1) and the Tribunal is to specify a person to be the mediator.
 ”.
 The Petroleum Retail Marketing Franchise Act 1980 (Cwlth) has been repealed by the Petroleum Retail Legislation Repeal Act 2006 (Cwlth) (No. 2006/113).
+On the date as at which this compilation was prepared, the Small Business and Retail Shop Legislation Amendment Act 2011 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Commercial Tenancy (Retail Shops) Agreements Act 1985 amended
+29.Act amended
+This Part amends the Commercial Tenancy (Retail Shops) Agreements Act 1985.
+30.Section 3 amended
+In section 3(1) insert in alphabetical order:
+Small Business Commissioner means the Commissioner as defined in the Small Business Development Corporation Act 1983 section 3(1);
+31.Section 11 amended
+(1) In section 11(3):
+(a) delete “either —” and insert:
+any of the following —
+(b) after paragraph (a) insert:
+(ba) a person licensed under that Act and nominated, at the request of each of the parties, by the Small Business Commissioner;
+(c) after paragraph (a) delete “or”.
+(2) In section 11(4) delete “(a) or (b)”.
+(3) In section 11(5)(b) delete “(a) or (b)”.
+32.Sections 25A to 25E inserted
+After section 24 insert:
+25A.Request to Small Business Commissioner
+A person who may, under this Act, make an application, referral or submission to the Tribunal may request the Small Business Commissioner —
+(a) to provide assistance to attempt to resolve the matter under the Small Business Development Corporation Act 1983 section 15C; or
+(b) to undertake alternative dispute resolution in respect of the matter under the Small Business Development Corporation Act 1983 section 15E.
+25B.Disclosure of information
+(1) In this section —
+confidential information, in relation to a matter, means information given to a person who acts under section 11(3) in the matter.
+(2) A person who has confidential information in relation to a matter that is the subject of a request under section 25A may disclose the information if the Small Business Commissioner so requires.
+25C.Small Business Commissioner to issue certificate in respect of request
+(1) The Small Business Commissioner must, on the request of a person who may, under this Act, make an application, referral or submission to the Tribunal, issue a certificate to the person if the Commissioner is satisfied that —
+(a) the matter is unlikely to be resolved with the assistance of alternative dispute resolution; or
+(b) it would not be reasonable in the circumstances to commence an alternative dispute resolution proceeding in respect of the matter; or
+(c) alternative dispute resolution has failed to resolve the matter.
+(2) The certificate is to be in a form approved by the Small Business Commissioner and may include any information about the conduct of the parties that the Commissioner considers appropriate in the circumstances.
+25D.Application to Tribunal restricted in certain circumstances
+(1) An application, referral or submission in respect of a matter may not be made to the Tribunal under this Act unless the Small Business Commissioner has issued a certificate in respect of the matter under section 25C.
+(2) Subsection (1) does not apply in respect of a matter prescribed by the regulations for the purposes of this section.
+(3) Nothing in this section prevents a person from making a request to the Small Business Commissioner under section 25A.
+25E.Small Business Commissioner may intervene in proceeding of Tribunal
+The Small Business Commissioner may intervene at any time in a proceeding of the Tribunal in relation to a matter.
+33.Section 26 amended
+After section 26(1aa) insert:
+(2) In considering whether to make an order under the State Administrative Tribunal Act 2004 section 87(2) in a proceeding, the Tribunal may have regard to a certificate issued under section 25C that relates to the proceeding.
+34.Section 30A inserted
+Before section 30 insert:
+30A.Small Business Commissioner to perform certain functions
+The Small Business Commissioner has the following functions under this Act —
+(a) to provide assistance to attempt to resolve disputes that arise in respect of retail shop leases;
+(b) to provide information and guidance in respect of retail shop leases or the provisions of this Act.
