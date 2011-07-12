@@ -17,6 +17,7 @@ Casino (Burswood Island) Agreement Amendment Order 2007 (see Gazette 12 Jun 2007
 Reprint 2: The Casino (Burswood Island) Agreement Act 1985 as at 1 Feb 2008 (includes amendments listed above)
 Casino (Burswood Island) Agreement Amendment Act 2008 | 17 of 2008 | 16 Apr 2008 | s. 1 and 2: 16 Apr 2008 (see s. 2(a)); Act other than s. 1 and 2: 17 Apr 2008 (see s. 2(b))
  | Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+ | Casino (Burswood Island) Agreement Amendment Act 2011 Pt. 2 | 25 of 2011 | 11 Jul 2011 | 12 Jul 2011 (see s. 2(b))
 The Liquor Licensing (Moratorium) Act 1983 expired on 31 December 1986.
 The Liquor Act 1970 was repealed by the Liquor Licensing Act 1988 which is now known as the Liquor Control Act 1988.
 Lands and Surveys and Department of Land Administration plans and surveys are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
@@ -26,9 +27,9 @@ On the date as at which this compilation was prepared the title of the Minister 
 The Land Act 1933 was repealed by the Land Administration Act 1997.
 The page number index to the Agreement set out in Schedule 1 does not reflect the relevant page numbers of this compilation.
 Marginal notes in the agreements have been represented as bold headnotes in this compilation but that does not change their status as marginal notes.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 approved company11(1)
 Commission11(1)
 entrenched provisions10(3)
@@ -37,6 +38,7 @@ probity approval notice11(1)
 street8(5)
 the Agreement3
 the Eighth Supplementary Agreement3
+the Eleventh Supplementary Agreement3
 the Minister for Lands and Surveys8(5)
 the Resort Lands3
 the Resort Site7(4)
@@ -45,3 +47,4 @@ the Seventh Supplementary Agreement3
 the Site7(4)
 the Supplementary Agreement3
 the Surveyor General8(5)
+the Twelfth Supplementary Agreement3
