@@ -37,6 +37,7 @@ Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 63 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Racing and Wagering Legislation Amendment Act 2009 Pt. 3 | 29 of 2009 | 23 Nov 2009 | 11 Jan 2010 (see s. 2(b) and Gazette 8 Jan 2010 p. 9-10)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Casino (Burswood Island) Agreement Amendment Act 2011 Pt. 3 | 25 of 2011 | 11 Jul 2011 | 12 Jul 2011 (see s. 2(b))
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 Now known as the Gaming and Wagering Commission Act 1987; short title changed (see note under s. 1).
 The Acts Amendment (Continuing Lotteries) Act 2000 Pt. 4 (as amended by the Taxation Administration (Consequential Provisions) Act 2002 s. 6) reads as follows:
