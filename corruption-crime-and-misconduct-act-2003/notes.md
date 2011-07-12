@@ -26,8 +26,9 @@ Reprint 4: The Corruption and Crime Commission Act 2003 as at 2 Jul 2010 (includ
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 12 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 74 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Telecommunications (Interception) Western Australia Amendment Act 2011 Pt. 3 | 2 of 2011 | 1 Mar 2011 | 2 Jul 2011 (see s. 2(b) and Gazette 1 Jul 2011 p. 2713 )
+Commonwealth Heads of Government Meeting (Special Powers) Act 2011 Pt. 9 | 23 of 2011 | 11 Jul 2011 | 12 Jul 2011 (see s. 2(b))
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
-No longer required.
+The Commonwealth Heads of Government Meeting (Special Powers) Act 2011 Pt. 8 is to be read in conjunction with, and as supplementary to, this Act as if the provisions of that Part were incorporated with, and formed part of, this Act.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 3 Div. 3 Subdiv. 2 reads as follows:
 Part 3 — Repeals, transitional and savings provisions, and consequential amendments
