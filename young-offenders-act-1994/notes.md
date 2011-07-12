@@ -41,6 +41,7 @@ Criminal Law Amendment (Homicide) Act 2008 s. 41 | 29 of 2008 | 27 Jun 2008 | 1 
 Reprint 4: The Young Offenders Act 1994 as at 2 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008 and the Parental Support and Responsibility Act 2008)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 51 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Young Offenders Legislation Amendment (Research Information) Act 2011 Pt. 3 | 26 of 2011 | 11 Jul 2011 | 12 Jul 2011 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 22 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
