@@ -90,6 +90,7 @@ Liquor Control Amendment Regulations (No. 2) 2011 | 3 May 2011 p. 1600 | r. 1 an
 Liquor Control Amendment Regulations 2011 | 27 May 2011 p. 1931-2 | r. 1 and 2: 27 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2011 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 7) 2011 | 27 May 2011 p. 1934-5 | r. 1 and 2: 27 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2011 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 3) 2011 | 3 Jun 2011 p. 1994-2002 | Pt. 1: 3 Jun 2011 (see r. 2(a)); Regulations other than Pt. 1: 7 Jun 2011 (see r. 2(b) and Gazette 3 Jun 2011 p. 1975)
+Liquor Control Amendment Regulations (No. 5) 2011 | 15 Jul 2011 p. 2955-66 | r. 1 and 2: 15 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jul 2011 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 of the Commonwealth.
 Commenced 7 May 2007.
@@ -103,6 +104,7 @@ Defined Terms
 Defined TermProvision(s)
 accredited higher education course18F(1)
 aged person8(2)
+agricultural region8D
 aggregate amount24(2)
 alcohol based food essence4A(2)
 alcohol based novelty food item4A(2)
@@ -113,38 +115,58 @@ approved manager3A(1)
 approved operator8(2)
 approved VET course18F(1)
 approved viticulture course9A(10e)
+attendee8B
+authorised arrangement8E
 bar11(1)
 caterer9A(14A)
 commencement day8(4), 14ADG(1)
+commercial vessel8
+country charter vehicle8F
 course of instruction or training9A(10e)
 crowd controller18EB(3)
 current26(1ab)
+current negative determination8A
 disabled person8(2)
+entertainment8A
+farmers’ market8D
+function8F
 higher education course3A(1)
 higher education institution 3A(1)
 host club9G
 hostel8(2)
+inter-State voyage8
+live entertainment8A
 lodgment fee26(4)
 lodgment period26(4)
 manager’s approval3A(1)
 maximum number of patrons3A(1), 14AC(1)
+negative determination8A
 notional wholesale selling price3A(1)
+organised function8E
+overseas voyage8
 permit area14AC(1)
 photograph18B(3a), 18C(2)
 prescribed permit14AC(1)
+primary production8D
 producer3A(1)
+producers’ association8D
 purchase5(2)
 relevant body corporate5B(2), 5B(3), 5B(4)
 relevant lot11(1)
 relevant premises11(1)
 renewal application14ADD(1)
+responsible adult8A, *F
+restricted material8A
 retail sale4A(2)
 room service restaurant9A(17)
 sale5(2)
 secure web page18EBA
 signature18C(2)
+school8F
+small charter vehicle8F
 special event9A(10e)
 specified9A(3)
+standard drink8C
 tax period3A(1)
 tourist9A(9)
 transitioned approval14ADG(1)
