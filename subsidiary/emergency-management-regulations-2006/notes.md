@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 April 2011 of the Emergency Management Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Emergency Management Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Emergency Management Regulations 2006 | 21 Apr 2006 p. 1582-4 | 21 Apr 2006
@@ -13,6 +13,7 @@ Emergency Management Amendment Regulations 2010 | 10 Sep 2010 p. 4344-6 | r. 1 a
 Emergency Management Amendment Regulations (No. 2) 2010 | 3 Dec 2010 p. 6055-6 | r. 1 and 2: 3 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2010 (see r. 2(b))
 Emergency Management Amendment Regulations (No. 3) 2010 | 3 Dec 2010 p. 6056-7 | r. 1 and 2: 3 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2010 (see r. 2(b))
 Reprint 2: The Emergency Management Regulations 2006 as at 1 Apr 2011 (includes amendments listed above)
+Emergency Management Amendment Regulations 2011 | 19 Jul 2011 p. 2985-6 | r. 1 and 2: 19 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Jul 2011 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
