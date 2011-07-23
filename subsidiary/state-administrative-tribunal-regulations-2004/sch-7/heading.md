@@ -10,7 +10,7 @@ Credit (Administration) Act 1984 s. 23(5), 30(1) or (2) or 31
 Debt Collectors Licensing Act 1964 s. 10(1c) or 11(2)
 Employment Agents Act 1976 s. 25(1)
 Equal Opportunity Act 1984 s. 85, 90(2), 93(1), 107(1), 126 or 135(1), (2) or (6)(b)
-Fair Trading Act 1987 s. 44(b) and 46(2), 46(3) or (8) or 47(1)
+Fair Trading Act 2010 s. 47(1) and (2), or 48(1) and (2)
 Finance Brokers Control Act 1975 s. 82
 Fire and Emergency Services Authority of Western Australia Act 1998 s. 36ZF
 Gender Reassignment Act 2000 s. 21(1)
@@ -29,5 +29,5 @@ Strata Titles Act 1985 s. 82
 Taxation Administration Act 2003 s. 38(5)
 Valuation of Land Act 1978 s. 33(2) or 35(2)
 Water Boards Act 1904 s. 88(2) or 89(2)
-[Schedule 7 inserted in Gazette 26 Jun 2007 p. 2994-5.]
+[Schedule 7 inserted in Gazette 26 Jun 2007 p. 2994-5; amended in Gazette 22 Jul 2011 p. 3018.]
 [Schedules 8-19 deleted in Gazette 26 Jun 2007 p. 2987.]
