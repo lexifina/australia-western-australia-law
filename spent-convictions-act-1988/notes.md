@@ -45,11 +45,11 @@ Police Amendment Act 2009 s. 23 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 
 Spent Convictions (Act Amendment) Regulations (No. 2) 2009 published in Gazette 29 Jan 2010 p. 197-9 | r. 1 and 2: 29 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2010 (see r. 2(b))
 Working with Children (Criminal Record Checking) Amendment Act 2010 Pt. 3 | 7 of 2010 | 27 May 2010 | 6 Oct 2010 (see s. 2(b) and Gazette 5 Oct 2010 p. 5113)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Cannabis Law Reform Act 2010 Pt. 4 | 45 of 2010 | 28 Oct 2010 | 1 Aug 2011 (see s. 2(b) and Gazette 29 Jul 2011 p. 3127)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 5 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
-Cannabis Law Reform Act 2010 Pt. 4 | 45 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 s. 34, 34B and 40 were repealed by the Young Offenders Act 1994, which was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
@@ -65,17 +65,3 @@ The amendments in this Division are to the Spent Convictions Act 1988.
 Schedule 3 clause 1 item 10 of the Table is amended by deleting “Community and Juvenile Justice Division or the Prisons Division of the Department of Justice” and inserting instead —
 department of the Public Service principally assisting in the administration of this Act
 The amendment to item 10 in the table to Sch. 3 cl. 1 in the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 5 would conflict with amendments in the Prisons and Sentencing Legislation Amendment Act 2006 s. 70.
-On the date as at which this compilation was prepared, the Cannabis Law Reform Act 2010 Pt. 4 had not come into operation. It reads as follows:
-Part 4 — Spent Convictions Act 1988 amended
-9.Act amended
-This Part amends the Spent Convictions Act 1988.
-10.Section 11 amended
-(1) In section 11(1)(a) after “10 years” insert:
-, or 3 years if subsection (6) applies,
-(2) After section 11(5) insert:
-(6) The prescribed period for a conviction is 3 years if the conviction —
-(a) is for an offence that involves cannabis under the Misuse of Drugs Act 1981 —
-(i) section 5(1)(d)(i); or
-(ii) section 6(2), but does not involve a cannabis plant under cultivation, cannabis resin or any other cannabis derivative;
-and
-(b) was not incurred before the commencement of the Cannabis Law Reform Act 2010 Part 4.
