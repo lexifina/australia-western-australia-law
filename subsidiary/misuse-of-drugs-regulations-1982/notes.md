@@ -18,6 +18,7 @@ Misuse of Drugs Amendment Regulations (No. 2) 2010 | 12 Nov 2010 p. 5660-3 | r. 
 Misuse of Drugs Amendment Regulations 2011 | 22 Mar 2011 p. 971-2 | r. 1 and 2: 22 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Mar 2011 (see r. 2(b))
 Misuse of Drugs Amendment Regulations (No. 2) 2011 | 6 May 2011 p. 1619-21 | r. 1 and 2: 6 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jul 2011 (see r. 2(b) and Gazette 8 Jul 2011 p. 2895)
 Misuse of Drugs Amendment Regulations (No. 3) 2011 | 1 Jul 2011 p. 2747-8 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2011 (see r. 2(b))
+Misuse of Drugs Amendment Regulations (No. 4) 2011 | 29 Jul 2011 p. 3138-43 | r. 1 and 2: 29 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2011 (see r. 2(b) and Gazette 29 Jul 2011 p. 3127)
 Repealed by the Optometrists Act 2005.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court. The reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Defined Terms

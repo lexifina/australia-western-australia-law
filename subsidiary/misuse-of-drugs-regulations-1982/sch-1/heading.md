@@ -91,7 +91,7 @@ Analysis*/examination* applied for on ............................. at .........
 Signature of applicant
 * Please delete inapplicable alternative.
 [Form M.D. 8B inserted in Gazette 2 Jul 1996 p. 3200; amended in Gazette 12 Nov 2010 p. 5663; 6 May 2011 p. 1621.]
-[Forms 9 and 10 deleted in Gazette 6 May 2011 p. 1621.]
+[Forms M.D. 9 and M.D. 10 deleted in Gazette 6 May 2011 p. 1621.]
 Form M.D. 11
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
@@ -168,4 +168,93 @@ I [insert name of applicantaccused] apply for a copy of [insert details of relev
 Certificate applied for on ..................... at .....................
 ...............................................................
 Signature of applicant accused
-[Form 15 inserted in Gazette 2 Jul 1996 p. 3202; amended in Gazette 12 Nov 2010 p. 5663.]
+[Form M.D. 15 inserted in Gazette 2 Jul 1996 p. 3202; amended in Gazette 12 Nov 2010 p. 5663.]
+Form M.D. 16
+WESTERN AUSTRALIA
+MISUSE OF DRUGS ACT 1981
+MISUSE OF DRUGS REGULATIONS 1982
+CANNABIS INTERVENTION REQUIREMENT
+CIR No.
+Date of Issue |  |  | / |  |  | /
+Alleged offender
+Surname
+Given name/s
+Number & street
+Suburb / town |  |  |  |  | Postcode
+Telephone (H)
+Telephone (M)
+Date of birth |  |  | / |  |  | /
+MDL Number
+Gender
+Alleged Offence
+It is alleged that at the following place and time
+Place (Address)
+ | Postcode
+Date ........../........../20.......
+Time ..................... a.m./p.m.
+You committed the following minor cannabis related offence/s.
+Misuse of Drugs Act 1981 | Description of offence
+⁯ s. 5(1)(d)(i) | Possession of a smoking utensil that has detectable traces of cannabis
+⁯ s. 6(2) | Possession or use of not more than 10 grams of cannabis* * not including any cannabis plant under cultivation, cannabis resin or any other cannabis derivative
+Issuing Officer
+Station
+Signature
+Date |  |  | / |  |  | /
+WHAT YOU MUST DO You have a period of 28 days after this notice was given to you to complete a CANNABIS INTERVENTION SESSION (CIS) OR elect to be prosecuted for the alleged offence. If you do not complete the CIS, then you will be prosecuted for the alleged offence. YOUR FAILURE TO COMPLETE THE CIS OR ELECT TO BE PROSECUTED WILL RESULT IN FURTHER ACTION AGAINST YOU.
+CANNABIS INTERVENTION SESSION The Cannabis Intervention Session (CIS) is a mandatory one-to-one therapeutic intervention with a trained alcohol and drug counsellor. As part of the CIS you will be provided with information on — ·the adverse health and social consequences of cannabis use; and ·the laws relating to the use, possession and cultivation of cannabis; and ·effective strategies to address cannabis using behaviour. The CIS takes approximately 60-90 minutes to complete. You are required to complete the CIS within 28 days after this Cannabis Intervention Requirement (CIR) was given to you. What you need to do/know ·Contact the Cannabis Intervention Session Booking Service on 1800 722 362 between 7.00 a.m. — 7.00 p.m., Monday to Sunday, to book a CIS with an approved treatment provider. The personal information provided during the booking process will be recorded and passed on to the approved treatment provider and stored on a health database. ·When making your booking ensure you have a pen available to write down the time, date and address of the CIS in the space provided below on this form.
+You are strongly advised to phone the CIS Booking Service within 3 days from the date this CIR was given to you to ensure a booking can be made for you within the 28 day permitted period. No reminders will be issued. You need to bring to the CIS — ·Photographic identification ·This CIR. You must arrive on time and complete the entire CIS.
+CIS appointment details
+Appointment Date _____________________________________
+Address_______________________________________________
+Appointment Time _____________________________________
+Electing to be prosecuted in a court
+I elect to have the offence alleged in this CIR dealt with by a court.
+Signature
+Date |  |  | / |  |  | /
+Address for service
+ |  |  |  |  |  |  |  |  | Postcode
+Post to: Drug Diversion Coordinator, Licensing Enforcement Division, WA Police, Level 2, Cambridge House, 297 Hay Street, Perth WA 6000
+[Form M.D. 16 inserted in Gazette 29 Jul 2011 p. 3140-2.]
+Form M.D. 17
+WESTERN AUSTRALIA
+MISUSE OF DRUGS ACT 1981
+MISUSE OF DRUGS REGULATIONS 1982
+WITHDRAWAL OF CANNABIS INTERVENTION REQUIREMENT
+The Cannabis Intervention Requirement (CIR) identified in this notice is withdrawn.
+Details of Alleged Offender
+Surname
+Given Name/s
+Address
+ |  |  |  | Postcode
+Cannabis Intervention Requirement
+CIR No.
+Date of Issue |  |  | / |  |  | /
+The Cannabis Intervention Requirement (CIR) referred to above and given to you under the Misuse of Drugs Act 1981 section 8E has been withdrawn. The following action will now be taken in respect of the alleged offence — ⁭a prosecution will be commenced ⁭a juvenile caution will be given ⁭a referral will be made to a juvenile justice team ⁭no further action will be taken ⁭the following action will be taken ............................................................................................................. .............................................................................................................
+Authorised Person issuing this withdrawal notice
+Surname |  |  |  |  |  | Reg.
+Section |  |  |  |  |  | Signature
+[Form M.D. 17 inserted in Gazette 29 Jul 2011 p. 3142-3.]
+Form M.D. 18
+WESTERN AUSTRALIA
+MISUSE OF DRUGS ACT 1981
+MISUSE OF DRUGS REGULATIONS 1982
+CERTIFICATE OF COMPLETION OF CANNABIS INTERVENTION SESSION
+Person who has attended and completed the CIS
+Surname
+Given Name/s
+Address
+ |  |  |  | Postcode
+_______________________________________ Signature of person who has completed the CIS
+Date |  |  | / |  |  | /
+Cannabis Intervention Requirement
+Details of CIR that required the completion of the CIS
+CIR No.
+Date of Issue |  |  | / |  |  | /
+About the Cannabis Intervention Session
+Date of completion |  |  | / |  |  | /
+CIS treatment provider
+Name
+Agency
+Signature
+Date |  |  | / |  |  | /
+[Form M.D. 18 inserted in Gazette 29 Jul 2011 p. 3143.]
