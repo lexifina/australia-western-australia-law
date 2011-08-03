@@ -8,3 +8,4 @@ Mainly tetra hydro thiophene (THT) | Natural gas: industrial | 2 | 8 | 20
 Mainly tetra hydro thiophene (THT) | Natural gas: general | 3 | 12 | 30
 Ethyl mercaptan | Liquefied petroleum gas: reticulated | Not applicable | 20 | 100
 [Schedule 1 inserted in Gazette 8 Jan 2010 p. 16; amended in Gazette 15 Oct 2010 p. 5174.]
+[Schedule 2 deleted in Gazette 8 Jan 2010 p. 16.]
