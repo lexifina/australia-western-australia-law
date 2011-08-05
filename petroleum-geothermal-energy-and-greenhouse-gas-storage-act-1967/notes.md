@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum and Geothermal Energy Resources Act 1967 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 August 2011 of the Petroleum and Geothermal Energy Resources Act 1967 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum Act 1967 | 72 of 1967 | 11 Dec 1967 | 5 Sep 1969 (see s. 2 and Gazette 5 Sep 1969 p. 2540)
@@ -35,12 +35,13 @@ Reprint 5: The Petroleum and Geothermal Energy Resources Act 1967 as at 2 May 20
 Revenue Laws Amendment Act (No. 2) 2008 s. 34 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 Reprint 6: The Petroleum and Geothermal Energy Resources Act 1967 as at 22 Oct 2010 (includes amendments listed above)
 Petroleum and Energy Legislation Amendment Act 2010 Pt. 2 other than s. 51, 57, 58(b) (to the extent that it inserts s. 153(2)(lc)), 61 (to the extent that it inserts Sch. 2 cl. 3) | 42 of 2010 | 28 Oct 2010 | 25 May 2011 (see s. 2(b) and Gazette 24 May 2011 p. 1892)
+Reprint 7: The Petroleum and Geothermal Energy Resources Act 1967 as at 5 Aug 2011 (includes amendments listed above)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 Sch. 2 Div. 7 | 60 of 1999 | 10 Jan 2000 | s. 7.3 operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Petroleum and Energy Legislation Amendment Act 2010 s. 51, 57, 58(b) (to the extent that it inserts s. 153(2)(lc)), 61 (to the extent that it inserts Sch. 2 cl. 3) | 42 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
-Repealed by this Act, s. 3.
+The Petroleum Act 1936 was repealed by this Act, s. 3.
 Repealed by the Interpretation Act 1984.
 The amendment in the Petroleum Safety Act 1999 s. 92 is not included as it was deleted by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51 before it came into operation.
 Short title was initially the Petroleum Act 1967 and was subsequently changed to the Petroleum and Geothermal Energy Resources Act 1967 (see note under s. 1).
@@ -48,7 +49,7 @@ The Schedule to the Metric Conversion Act 1972 was redesignated as the First Sch
 The Acts Amendment (Mining) Act 1981 s. 34(2) and (3) are transitional provisions that are of no further effect.
 The Acts Amendment (Petroleum) Act 1990 s. 26(2) reads as follows:
 (2) A permit granted before the commencement of this section is not invalidated by reason of any error that may have occurred in specifying the date of commencement of the permit and the term of such a permit shall be deemed to have commenced on the day of commencement specified in it.
-The Acts Amendment (Petroleum) Act 1990 s. 32(2)-(6) reads as follows:
+The Acts Amendment (Petroleum) Act 1990 s. 32(2)-(6) read as follows:
 (2) Where —
 (a) at the commencement of this section, a nomination has been made under section 46 of the principal Act; and
 (b) at that commencement, a declaration had not been made under section 47 of the principal Act as a result of the making of the nomination,
@@ -176,7 +177,8 @@ After section 116(1) the following subsection is inserted —
 “
 (1a)Where the giving of a consent under subsection (1) is a Part 2 act, a Part 3 act or Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the operation of that subsection is subject to section 2.6, 3.5 or 4.3, as the case may be, of that Act.
 ”.
-On the date as at which this compilation was prepared, the Petroleum and Energy Legislation Amendment Act 2010 s. 51, 57, 58(b) (to the extent that it inserts s. 153(2)(lc)), 61 (to the extent that it inserts Sch. 2 cl. 3) had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Petroleum and Energy Legislation Amendment Act 2010 s. 51, 57, 58(b) (to the extent that it inserts s. 153(2)(lc)), 61 (to the extent that it inserts Sch. 2 cl. 3) had not come into operation. They read as follows:
+Part 2 — Petroleum and Geothermal Energy Resources Act 1967 amended
 51.Section 112 deleted
 Delete section 112.
 57.Part IVA inserted
@@ -264,3 +266,164 @@ Division 1 — Provisions for Petroleum and Energy Legislation Amendment Act 201
 (a) continues in force for the purposes of that section as it continues to apply under subclause (1); and
 (b) also separately continues in force on and after the commencement of section 57 of the amending Act as if it had been made for the purposes of Part IVB.
 (4) Regulation 3 as continued in force under subclause (3)(a) or (b) may, for the purposes of its application under subclause (3)(a) or (b), be amended or deleted by regulations.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+access authority5(1)
+access authority area7A(2)
+accidentSch. 1 cl. 3
+actual supplierSch. 1 cl. 11(2)(b)
+affected area6A(3)(a)
+affected lessee24(1)
+amending Act154(3), Sch. 2 cl. 1
+application for a primary licence5(1)
+application for a secondary licence5(1)
+approved5(1)
+approved development plan5(1)
+area to which the surrender relates98(5)
+Australian Standard126A(4)
+Australian/New Zealand Standard126A(4)
+authorisation24A(3)
+Barrow Island lease5(1), 128
+block5(1)
+CEO126A(4)
+charge75(15)
+commencement day42A(1)(a)
+commencing day128
+compensable lessee 21(1)
+construct5(1)
+construction5(1)
+contractSch. 1 cl. 3
+contractorSch. 1 cl. 3
+court126(2)
+Crown land5(1)
+dangerous occurrenceSch. 1 cl. 3
+dealing69(10)
+debenture75(15)
+designated work groupSch. 1 cl. 3
+document5(1)
+drilling reservation5(1)
+drilling reservation application43DA(1)
+employeeSch. 1 cl. 3
+employerSch. 1 cl. 3
+equipment supplierSch. 1 cl. 13(1)(c)
+explore for29(3)
+facility 5(1)
+federal duty144A(3)
+former area133(2)(a)
+former provisions128
+Gazettal day154(1)
+geothermal access authority5(1)
+geothermal drilling reservation5(1)
+geothermal energy5(1)
+geothermal energy operation5(1)
+geothermal energy resources5(1)
+geothermal exploration permit5(1)
+geothermal lease area5(1)
+geothermal lessee5(1)
+geothermal licensee5(1)
+geothermal permit area5(1)
+geothermal permittee5(1)
+geothermal production licence5(1)
+geothermal resources area5(1)
+geothermal retention lease5(1)
+geothermal special prospecting authority5(1)
+geothermal title69A(1), 106(13)
+good oil-field practice5(1)
+graticular section5(1)
+group memberSch. 1 cl. 3
+holder91B(1)
+holder of a drilling reservation5(1)
+improvement noticeSch. 1 cl. 3
+inshore area6A(1)
+inspectionSch. 1 cl. 3
+inspector5(1)
+lease5(1)
+lease area5(1)
+lessee5(1), 128
+licence5(1)
+licence area5(1)
+licensee5(1)
+listed OSH law5(1)
+location5(1)
+marine reserve28A(3)
+member of the workforceSch. 1 cl. 3
+native title holders24A(3)
+oil shale5(1)
+operations area92(1)
+operations to which this Division applies128
+operative day154(5)
+operator5(1), 92(1)
+operator’s representativeSch. 1 cl. 3 and 4(1)
+original licence61(1)
+original permit37A(1)
+ostensible supplierSch. 1 cl. 11(2)
+other protected person5(1)
+ownSch. 1 cl. 3
+partly cancelled5(1)
+partly determined5(1)
+permit5(1)
+permit application32(1A)
+permit area5(1)
+permittee5(1)
+petroleum5(1)
+petroleum access authority5(1)
+petroleum drilling reservation5(1)
+petroleum exploration permit5(1)
+petroleum lease area5(1)
+petroleum lessee5(1)
+petroleum licensee5(1)
+petroleum operation5(1)
+petroleum permit area5(1)
+petroleum permittee5(1)
+petroleum pool5(1)
+petroleum production licence5(1)
+petroleum retention lease5(1)
+petroleum special prospecting authority5(1)
+petroleum title69A(1), 106(13)
+plantSch. 1 cl. 3
+premisesSch. 1 cl. 3
+prescribed instrument128
+prescribed occupational safety and health laws7AA(2)
+primary entitlement5(1)
+primary licence5(1)
+private land5(1)
+prohibition noticeSch. 1 cl. 3
+recovery5(1)
+Register5(1)
+registered holder5(1)
+registered organisationSch. 1 cl. 3
+regulated business premisesSch. 1 cl. 3
+regulation 3Sch. 2 cl. 1
+regulations5(1), Sch. 1 cl. 3
+relevant personSch. 1 cl. 6
+relinquished area5(1)
+reservoir16(2)(a)
+responsible personSch. 1 cl. 36(2) and 60(1)
+reviewing authoritySch. 1 cl. 21(5) and 64(10)
+royalty period5(1)
+royalty value5(1)
+safety zone112A(1)
+secondary licence5(1)
+special prospecting authority5(1)
+State26
+structure5(1)
+supervisorSch. 1 cl. 42(1)(a)
+this ScheduleSch. 1 cl. 81(4)
+tight gas52(4A)
+title69J, 127A(5)
+transitional matter154(1)
+transitional regulations154(1)
+TribunalSch. 1 cl. 3
+unit development69(1)
+unused area48CA(1)(b) and (2)(b)
+variation agreement128
+vessel5(1)
+water113(2)
+well5(1)
+wholly cancelled5(1)
+wholly determined5(1)
+workSch. 1 cl. 3
+work group employerSch. 1 cl. 3
+workforce representativeSch. 1 cl. 3
+workplaceSch. 1 cl. 3
