@@ -125,6 +125,7 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 40 | 35 of 
 Poisons (Appendix A Amendment) Order 2010 published in Gazette 22 Oct 2010 p. 5216-17 | cl. 1 and 2: 22 Oct 2010 (see cl. 2(a)); Order other than cl. 1 and 2: 23 Oct 2010 (see cl. 2(b))
 Agriculture and Related Resources Protection Amendment Act 2010 s. 71 | 46 of 2010 | 28 Oct 2010 | 18 Dec 2010 (see s. 2(b) and Gazette 17 Dec 2010 p. 6349)
 Poisons (Appendix A Amendment) Order 2011 published in Gazette 17 Jun 2011 p. 2152 | cl. 1 and 2: 17 Jun 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 18 Jun 2011 (see cl. 2(b))
+Poisons (Appendix A Amendment) Order (No. 2) 2011 published in Gazette 5 Aug 2011 p. 3182-3 | cl. 1 and 2: 5 Aug 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 6 Aug 2011 (see cl. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
