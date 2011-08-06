@@ -31,6 +31,7 @@ Taxi Amendment Regulations 2009 | 24 Apr 2009 p. 1387 | r. 1 and 2: 24 Apr 2009 
 Taxi Amendment Regulations (No. 2) 2009 | 29 Sep 2009 p. 3854 | r. 1 and 2: 29 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Sep 2009 (see r. 2(b))
 Taxi Amendment Regulations (No. 2) 2011 | 17 May 2011 p. 1825 | r. 1 and 2: 17 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Taxi Amendment Regulations 2011 | 7 Jun 2011 p. 2057-62 | r. 1 and 2: 7 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Taxi Amendment Regulations (No. 3) 2011 | 5 Aug 2011 p. 3187-8 | r. 1 and 2: 5 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Aug 2011 (see r. 2(b))
 Plans of the former Department of Land Administration are now held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 Now cited as the Local Government (Miscellaneous Provisions) Act 1960.
 Under the Public Sector Management Act 1994 departments can be established and named. At the time this compilation was prepared, the designation of the department known as the Department of Justice had been altered to the Department of the Attorney General and the Department of Corrective Services is established.
