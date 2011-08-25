@@ -100,6 +100,7 @@ Salmon, Australian | Arripis truttaceus
 Samson Fish (Sea Kingfish) | Seriola hippos
 Scad, Yellowtail | Trachurus novaezelandiae
 Seadragon, Leafy | Phycodurus eques
+Seadragon, Weedy | Phyllopteryx taeniolatus
 Sea Perch, Crimson | Lutjanus erythropterus
 Sea Perch, Scarlett | Lutjanus malabaricus
 Sea Perch, Stripey | Lutjanus carponotatus
@@ -154,7 +155,7 @@ Whiting, Southern School (Silver) | Sillago bassensis
 Whiting, Yellow-finned | Sillago schomburgkii
 Wrasse | Family Labridae
 Wrasse, Humphead Maori | Cheilinus undulatus
-[Division 1 amended in Gazette 30 Aug 1996 p. 4320-1; 12 Sep 1997 p. 5154; 19 Jun 1998 p. 3264; 1 Oct 2003 p. 4341-3; 4 Nov 2005 p. 5317; 22 Dec 2005 p. 6238-9; 10 Nov 2006 p. 4710; 13 Nov 2007 p. 5693; 13 Feb 2009 p. 299; 29 Sep 2009 p. 3874-5; 8 Dec 2009 p. 4997; 29 Mar 2011 p. 1153.]
+[Division 1 amended in Gazette 30 Aug 1996 p. 4320-1; 12 Sep 1997 p. 5154; 19 Jun 1998 p. 3264; 1 Oct 2003 p. 4341-3; 4 Nov 2005 p. 5317; 22 Dec 2005 p. 6238-9; 10 Nov 2006 p. 4710; 13 Nov 2007 p. 5693; 13 Feb 2009 p. 299; 29 Sep 2009 p. 3874-5; 8 Dec 2009 p. 4997; 29 Mar 2011 p. 1153; 24 Aug 2011 p. 3409.]
 ## Division 2 — Freshwater fish
 [Heading inserted in Gazette 13 Nov 2007 p. 5692.]
 Common name | Scientific name

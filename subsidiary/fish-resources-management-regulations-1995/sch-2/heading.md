@@ -46,6 +46,7 @@ Shark, Whaler —
 (ii) the West Coast Region;
 and
 (b) with an interdorsal fin length of 70 cm or greater.
+Weedy Seadragon.
 Whale Shark.
 Wrasse in Rowley Shoals Marine Park.
 In this Division —
@@ -57,7 +58,7 @@ interdorsal fin length means the distance between the first and second dorsal fi
 (i)the second dorsal fin insertion; or
 (ii)if all or part of that fin has been removed so that point of insertion cannot be ascertained, the posterior end of the cut made to remove the fin or that part of the fin;
 Rowley Shoals Marine Park means all waters reserved under the Conservation and Land Management Act 1984 section 13 as Class “A” Marine Reserve No. 3, Rowley Shoals Marine Park.
-[Division 2 amended in Gazette 5 Dec 1997 p. 7123; 19 Jun 1998 p. 3264; 13 Aug 1999 p. 3827; 28 Nov 2003 p. 4776; 22 Dec 2005 p. 6228; 13 Feb 2009 p. 299.]
+[Division 2 amended in Gazette 5 Dec 1997 p. 7123; 19 Jun 1998 p. 3264; 13 Aug 1999 p. 3827; 28 Nov 2003 p. 4776; 22 Dec 2005 p. 6228; 13 Feb 2009 p. 299; 24 Aug 2011 p. 3408.]
 ## Division 3 — Marine or fluvio-marine fish
 ## Subdivision 1 — Protected by reference to species, area and period
 [Heading inserted in Gazette 28 Feb 2003 p. 662.]
