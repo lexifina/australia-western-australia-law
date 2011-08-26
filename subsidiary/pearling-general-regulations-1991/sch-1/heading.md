@@ -1,6 +1,6 @@
 ## Schedule 1
 [Regulations 3 and 5]
-Designated containers
+## Designated containers
 Type | Specification
 6 pocket panel | The frame of this panel is made of steel, is of a flat, rigid construction with a maximum length of 870 mm and a maximum width of 510 mm and is covered with mesh net.
  | This panel contains 6 mesh net pockets, each of which has a maximum length of 290 mm and a maximum width of 230 mm.
