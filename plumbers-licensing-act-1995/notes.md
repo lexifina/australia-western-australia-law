@@ -21,10 +21,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 133 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Building Services (Complaint Resolution and Administration) Act 2011 s. 130 | 16 of 2011 | 25 May 2011 | To be proclaimed (see s. 2(b))
+Building Services (Complaint Resolution and Administration) Act 2011 s. 130 | 16 of 2011 | 25 May 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475)
 Under the Land Administration Act 1997 s. 281(3), references to the Land Act 1933 may be construed as references to the Land Administration Act 1997.
 Now known as the Water Services Licensing Act 1995; short title changed (see note under s. 1).
 The Taxes and Charges (Land Subdivision) Legislation Amendment Act 1996 Pt. 6 reads as follows:
@@ -94,17 +91,3 @@ The operation of any provision of this Schedule is not to be regarded —
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment to s. 57 in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1302 is not included because the section it seeks to amend was repealed by the Economic Regulation Authority Act 2003 s. 62.
-On the date as at which this compilation was prepared, the Building Services (Complaint Resolution and Administration) Act 2011 s. 130 had not come into operation. It reads as follows:
-130.Water Services Licensing Act 1995 amended
-(1) This section amends the Water Services Licensing Act 1995.
-(2) In section 59H(1) —
-(a) in paragraph (a) delete “department” and insert:
-department of the Public Service principally assisting the Minister in the administration of this Part
-(b) in paragraph (b) delete “the department” and insert:
-that department
-(3) In section 59J delete “Regulations” and insert:
-(1) Regulations
-(4) At the end of section 59J insert:
-(2) The Building Services Account is to be credited with fees paid or recovered under regulations referred to in subsection (1).
-(3) In subsection (2) —
-Building Services Account means the account referred to in the Building Services (Complaint Resolution and Administration) Act 2011 section 92(1).
