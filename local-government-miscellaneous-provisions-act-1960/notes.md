@@ -130,11 +130,12 @@ Local Government (Miscellaneous Provisions) Amendment Act 2007 | 11 of 2007 | 29
 Local Government (Miscellaneous Provisions) Amendment (Smoke Alarms) Act 2007 | 34 of 2007 | 21 Dec 2007 | 18 Jan 2008
 Reprint 8: The Local Government (Miscellaneous Provisions) Act 1960 as at 1 Aug 2008 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 21, 49 and 62 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Building Services (Registration) Act 2011 s. 156(4) | 19 of 2011 | 22 Jun 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 91 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
-Building Services (Registration) Act 2011 s. 156 | 19 of 2011 | 22 Jun 2011 | To be proclaimed (see s. 2(b))
+Building Services (Registration) Act 2011 s. 156(2) and (3) | 19 of 2011 | 22 Jun 2011 | To be proclaimed (see s. 2(b))
 Building Act 2011 s. 151-6 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
 Act No. 90 of 1964 was passed as the Local Government Act Amendment Act (No. 2) 1964, but was proclaimed to come into operation as the Local Government Act Amendment Act 1964.
 Repealed by the Stock (Brands and Movement) Act 1970, which is now known as the Stock (Identification and Movement) Act 1970.
@@ -319,25 +320,10 @@ On the date as at which this reprint was prepared, the Biosecurity and Agricultu
 label it with an identifier in accordance with the Biosecurity and Agriculture Management Act 2007.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Building Services (Registration) Act 2011 s. 156 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Building Services (Registration) Act 2011 s. 156(2) and (3) had not come into operation. They read as follows:
 156.Local Government (Miscellaneous Provisions) Act 1960 amended
-(1) This section amends the Local Government (Miscellaneous Provisions) Act 1960.
 (2) In section 364(3C) delete “building surveyor of the”.
 (3) Delete Part XV Division 1A.
-(4) After section 374 insert —
-374AAA.Local governments not to issue building licences in certain circumstances
-(1) A local government must not issue a building licence to commence or proceed with any building work unless the licence is issued to a person who —
-(a) is a building service contractor, as defined in the Building Services (Registration) Act 2011 section 3, registered in a class of building service contractor prescribed by the regulations for the purposes of this section; or
-(b) has been granted owner-builder approval, as defined in the Building Services (Registration) Act 2011 section 38, to carry out the building work.
-(2) Subsection (1) does not apply in respect of a building licence for building work —
-(a) with a value of less than $20 000; or
-(b) that is to be carried out in an area of the State prescribed by the regulations for the purposes of this section.
-(3) A person who for the purposes of obtaining or attempting to obtain a building licence from a local government makes a representation or statement that is false in a material particular in relation to —
-(a) the value of building work to be carried out under the building licence; or
-(b) the fee or charge payable in respect of the carrying out of the building work; or
-(c) whether the person is registered, or has been granted approval, under the Building Services (Registration) Act 2011,
-commits an offence.
-Penalty: a fine of $10 000.
 On the date as at which this compilation was prepared, the Building Act 2011 s. 151-6 had not come into operation. They read as follows:
 151.Act amended
 This Division amends the Local Government (Miscellaneous Provisions) Act 1960.
