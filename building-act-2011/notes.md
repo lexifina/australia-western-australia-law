@@ -2,71 +2,12 @@ Notes
 This is a compilation of the Building Act 2011. The following table contains information about that Act.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Building Act 2011 s. 1 and 2 | 24 of 2011 | 11 Jul 2011 | 11 Jul 2011 (see s. 2(a))
+Building Act 2011 s. 1- 3 | 24 of 2011 | 11 Jul 2011 | s. 1 and 2: 11 Jul 2011 (see s. 2(a)) s. 3: 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3476)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Building Act 2011 s. 3-8, Pt. 2-16 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Building Act 2011 s. 3-8, Pt. 2-16 had not come into operation. They read as follows:
-3.Terms used
-In this Act, unless the contrary intention appears —
-adult means a person who has reached 18 years of age, and in the absence of positive evidence as to age, means a person who is apparently 18 or more years of age;
-adversely affect land includes —
-(a)reduce the stability or bearing capacity of the land or a building or structure on the land; or
-(b)damage, or reduce the structural adequacy of, a building or structure on the land; or
-(c)the changing of the natural site drainage in a way that reduces the effectiveness of the drainage of the land or existing or future buildings or structures on the land;
-applicable certificate of design compliance, in relation to a building permit, means the certificate of design compliance —
-(a)that, as required by section 16(e), accompanied a certified application for the building permit; or
-(b)that was signed under section 17 on an uncertified application for the building permit,
-as is relevant in the case;
-approved, in relation to the manner or form of something, means approved —
-(a)by a prescribed person; or
-(b)in a prescribed way;
-authorised person means a person designated under section 96 as an authorised person;
-authority under a written law includes an approval, licence, registration, right, permit or exemption granted under a written law;
-building includes a part of a building;
-building approval certificate means a building approval certificate granted on an application of a kind mentioned in Part 4 Division 2;
-Building Commissioner has the meaning given in the Building Services (Complaint Resolution and Administration) Act 2011 section 3;
-building order means an order made under section 110(1);
-building order (emergency) means a building order made in the circumstances mentioned in section 111(2);
-building permit means a permit granted under section 20;
-building service contractor has the meaning given in the Registration Act section 3;
-building standard means a prescribed requirement in relation to the technical aspects of the construction or demolition of a building or an incidental structure;
-building surveyor means a building service practitioner, as defined in the Registration Act section 3, who is registered in a class of building service practitioner that is prescribed for the purposes of this definition;
-building work means —
-(a)the construction, erection, assembly or placement of a building or an incidental structure; or
-(b)the renovation, alteration, extension, improvement or repair of a building or an incidental structure; or
-(c)the assembly, reassembly or securing of a relocated building or a relocated incidental structure; or
-(d)the changing of ground levels of land for the purposes of work of a kind mentioned in paragraph (a), (b) or (c) to an extent that could adversely affect land beyond its boundaries; or
-(e)site work on any land for the purposes of, or required because of, work of a kind mentioned in —
-(i)paragraph (a), (b), (c) or (d); or
-(ii)paragraph (a) or (b) of the definition of demolition work;
-or
-(f)other prescribed work,
-but does not include work of a kind prescribed for the purposes of this definition as not being building work;
-classification, in relation to a building or incidental structure, means the classification of the building or incidental structure under the regulations;
-commencement day means the day on which section 9 comes into operation;
-Crown land has the meaning given in the Land Administration Act 1997 section 3(1);
-demolition permit means a permit granted under section 21;
-demolition work means —
-(a)the demolition, dismantling or removal of a building or an incidental structure; or
-(b)the changing of ground levels for the purposes of work of a kind mentioned in paragraph (a) to an extent that could adversely affect land owned by a person other than an owner of the land on which the building or incidental structure that is the subject of the demolition work is located; or
-(c)other prescribed work,
-but does not include work of a kind prescribed for the purposes of this definition as not being demolition work;
-incidental structure means a structure attached to or incidental to a building and includes —
-(a)a chimney, mast, swimming pool, fence, free-standing wall, retaining wall or permanent protection structure; and
-(b)a part of a structure;
-independent building surveyor has the meaning given in section 4;
-land includes a lot as defined in the Strata Titles Act 1985 section 3(1);
-Minister for Lands means the Minister as defined in the Land Administration Act 1997 section 3(1);
-occupancy permit means an occupancy permit granted or modified on an application of a kind mentioned in Part 4 Division 2;
-owner has the meaning given in section 5;
-permit authority for a building or permit authority for an incidental structure has the meaning given in section 6;
-prescribed means prescribed by regulation;
-Registration Act means the Building Services (Registration) Act 2011;
-specialist, in relation to a technical certificate, means a person who belongs to a class of persons prescribed as persons who can sign the technical certificate for the purposes of this Act;
-survey means a survey for the purpose of recording the condition of land including the existing cracks and defects in a building or structure on the land;
-technical certificate means a certificate in relation to a specific building standard applicable to, or any other technical aspect of, the construction or demolition of a building or incidental structure that is the subject of an application for a building permit, demolition permit, occupancy permit or building approval certificate.
+Building Act 2011 s. 4-8, Pt. 2-16 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Building Act 2011 s. 4-8, Pt. 2-16 had not come into operation. They read as follows:
 4.Meaning of independent building surveyor
 (1) In this section —
 application means an application for a building permit or a demolition permit, or an application under Part 4 Division 2.
@@ -1867,3 +1808,40 @@ notice means a notice under section 417(1) of the former provisions.
 Despite the Interpretation Act 1984 section 37(1), on or after commencement day the Magistrates Court, on an application under section 667(1) of the former provisions, is not to make an order under that provision.
 203.Regulations for transitional matters
 The regulations may contain provisions that are necessary or convenient for dealing with matters concerning the transition from the provisions of any written law applying before commencement day to the provisions of this Act, including regulations made under this Act, applying after commencement day.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+adult3
+adversely affect land3
+applicable certificate of design compliance3
+approved3
+authorised person3
+authority under a written law3
+building3
+building approval certificate3
+Building Commissioner3
+building order3
+building order (emergency)3
+building permit3
+building service contractor3
+building standard3
+building surveyor3
+building work3
+classification3
+commencement day3
+Crown land3
+demolition permit3
+demolition work3
+incidental structure 3
+independent building surveyor3
+land3
+Minister for Lands3
+occupancy permit3
+owner3
+permit authority for a building3
+permit authority for an incidental structure 3
+prescribed3
+Registration Act3
+specialist3
+survey3
+technical certificate3
