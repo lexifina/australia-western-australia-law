@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 February 2008 of the Home Building Contracts Regulations 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Home Building Contracts Regulations 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Home Building Contracts Regulations 1992 | 3 Apr 1992 p. 1465-8 | 4 Apr 1992 (see r. 2 and Gazette 3 Apr 1992 p. 1461)
@@ -17,3 +17,4 @@ Home Building Contracts (Home Indemnity Insurance — Multi-storey Multi-unit De
 Home Building Contracts Amendment Regulations 2003 | 2 Sep 2003 p. 3923-30 | 2 Sep 2003
 Home Building Contracts Amendment Regulations 2007 | 29 Jun 2007 p. 3190-2 | r. 1 and 2: 29 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2007 (see r. 2(b)(i))
 Reprint 3: The Home Building Contracts Regulations 1992 as at 1 Feb 2008 (includes amendments listed above)
+Home Building Contracts Amendment Regulations 2011 | 26 Aug 2011 p. 3477-8 | r. 1 and 2: 26 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2011 (see r. 2(b) and Gazette 26 Aug 2011 p. 3475-6)

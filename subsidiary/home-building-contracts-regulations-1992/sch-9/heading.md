@@ -1,15 +1,7 @@
 ## Schedule 9 — Prescribed forms
 [r. 6A, 9, 10]
 [Heading inserted in Gazette 31 Jul 2001 p. 3948.]
-Form 1
-Home Building Contracts Act 1991
-Home Building Contracts Regulations 1992
-PRELIMINARY NOTICE UNDER SECTION 17(3)
-[If you intend to make an application to the Disputes Tribunal under section 17(1) of the Home Building Contracts Act 1991, the application cannot be made until this preliminary notice has been completed and given to the other party. A copy of this notice must also be given to the Disputes Tribunal at the time the application is made to the Disputes Tribunal.]
-PART A | Who is making the application (the “applicant”)? Name of applicant: .......................................................................... Address of applicant: ...................................................................... Who is the other party (“the respondent”) in relation to the matters complained of in the application? Name of respondent ........................................................................ Address of respondent .....................................................................
-PART B | What are the matters the respondent is called on to rectify or attempt to settle? [Set out here the matters that you are calling on the respondent to rectify/attempt to settle and indicate what remedy or settlement you are seeking. You may attach further written details to this notice if there is not enough space to include all relevant matters.] Signed (by applicant): ..................................................................... Date: ................................................................................................
-TAKE NOTICE that the applicant calls on the respondent to rectify the matters, or to attempt to settle the matters that are in dispute, as set out in Part B above.
-[Form 1 inserted in Gazette 31 Jul 2001 p. 3948-9.]
+[Form 1 deleted in Gazette 26 Aug 2011 p. 3478.]
 Form 2
 Home Building Contracts Act 1991
 Home Building Contracts Regulations 1992
