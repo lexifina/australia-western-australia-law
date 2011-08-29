@@ -50,6 +50,7 @@ Building Amendment Regulations (No. 5) 2009 | 8 Dec 2009 p. 4991 | r. 1 and 2: 8
 Reprint 7: The Building Regulations 1989 as at 13 Aug 2010 (includes amendments listed above)
 Building Amendment Regulations 2010 | 31 Aug 2010 p. 4179 | r. 1 and 2: 31 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2010 (see r. 2(b))
 Building Amendment Regulations 2011 | 10 May 2011 p. 1661-2 | r. 1 and 2: 10 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 11 May 2011 (see r. 2(b))
+Building Amendment Regulations (No. 3) 2011 | 26 Aug 2011 p. 3479-81 | r. 1 and 2: 26 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2011 (see r. 2(b) and Gazette 26 Aug 2011 p. 3475-6.)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -94,6 +95,7 @@ approved3(1)
 Australian Standard AS 1926.138A
 builder3(1)
 Building Code3(1)
+building contractors11AA
 building product11(1b)
 CodeMark certificate11(1b)
 district3(1)
@@ -112,6 +114,7 @@ relevant electricity corporation31(2)
 repair3(1)
 residential tenancy agreement38I(1)
 swimming pool38A
+townsiteSch 3, cl 1
 transfer day38N(5)
 unit38I(1)
 young child38A
