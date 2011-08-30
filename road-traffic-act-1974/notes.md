@@ -148,7 +148,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 5, 11, 12(2)(c), (5)(d) and (7)(b), 14 and 15 | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
-Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 2 | 14 of 2011 | 25 May 2011 | To be proclaimed (see s. 2(b))
+Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 2 | 14 of 2011 | 25 May 2011 | 1 Oct 2011 (see s. 2(b) and Gazette 30 Aug 2011 p. 3503)
 Road Traffic Legislation Amendment (Information) Act 2011 s. 9 | 18 of 2011 | 2 Jun 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 Section 111(2)(f) of this Act has been deleted.
