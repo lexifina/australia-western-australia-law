@@ -80,8 +80,19 @@ Reprint 6: The Road Traffic (Infringements) Regulations 1975 as at 3 Apr 2009 (i
 Road Traffic (Infringements) Amendment Regulations (No. 2) 2009 | 16 Oct 2009 p. 4069 | r. 1 and 2: 16 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Oct 2009 (see r. 2(b))
 Road Traffic (Infringements) Amendment Regulations 2009 | 13 Nov 2009 p. 4539-40 | r. 1 and 2: 13 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2009 (see r. 2(b))
 Road Traffic (Infringements) Amendment Regulations (No. 3) 2009 | 31 Dec 2009 p. 5415-16 | r. 1 and 2: 31 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Traffic (Infringements) Amendment Regulations 2011 r. 3 and 4 | 30 Aug 2011 p. 3512 | 1 Oct 2011 (see r. 2(b) and Gazette 30 Aug 2011 p. 3503)
 This amendment was superseded in Gazette 29 Jun 1979 p. 1777-8.
 The amendments to the First Schedule do not have effect because the items they would have amended were deleted in Gazette 1 Dec 2000 p. 6759.
+On the date as at which this compilation was prepared, Road Traffic (Infringements) Amendment Regulations 2011 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Road Traffic (Infringements) Regulations 1975.
+4.Schedule 1 amended
+Delete Schedule 1 items 9 and 9A and insert:
+9.Section 64AA | A first offence of driving or attempting to drive a motor vehicle while having a blood alcohol content of or above 0.05 g of alcohol per 100 mL of blood | 5
+9A.Section 64AAA | Driving or attempting to drive a motor vehicle while having any blood alcohol content ..................................... | 2
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
