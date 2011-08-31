@@ -7,3 +7,4 @@ Legal Profession Amendment Regulations 2009 | 27 Feb 2009 p. 655-7 | r. 1 and 2:
 Public Sector Reform (Consequential Amendments) Regulations 2011 Pt. 4 | 11 Feb 2011 p. 502-7 | 12 Feb 2011 (see r. 2(d))
 Legal Profession Amendment Regulations (No. 3) 2011 | 3 Jun 2011 p. 1981-2 | r. 1 and 2: 3 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jun 2011 (see r. 2(b))
 Legal Profession Amendment Regulations (No. 2) 2011 | 22 Jul 2011 p. 3018-19 | r. 1 and 2: 22 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jul 2011 (see r. 2(b))
+Legal Profession Amendment Regulations (No. 4) 2011 | 30 Aug 2011 p. 3507-8 | r. 1 and 2: 30 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Aug 2011 (see r. 2(b))
