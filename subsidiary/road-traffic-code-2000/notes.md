@@ -43,6 +43,7 @@ Road Traffic Code Amendment Regulations 2010 | 26 Nov 2010 p. 5958-9 | r. 1 and 
 Road Traffic (Towed Agricultural Implements) Amendment Regulations 2010 Pt. 3 | 7 Dec 2010 p. 6096-100 | 8 Dec 2010 (see r. 2(b))
 Reprint 3: The Road Traffic Code 2000 as at 7 Jan 2011 (includes amendments listed above except those in the Road Traffic Code Amendment Regulations (No. 3) 2010 r. 22 and 23)
 Road Traffic Code Amendment Regulations 2011 | 18 Mar 2011 p. 925-6 | r. 1 and 2: 18 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Mar 2011 (see r. 2(b))
+Road Traffic Code Amendment Regulations (No. 2) 2011 | 30 Aug 2011 p. 3517-18 | r. 1 and 2: 30 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Aug 2011 (see r. 2(b))
 Repealed by the Dangerous Goods Safety Act 2004.
 Repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
