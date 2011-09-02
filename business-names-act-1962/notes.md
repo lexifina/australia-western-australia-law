@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Business Names Act 1962 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 2 September 2011 of the Business Names Act 1962 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Business Names Act 1962 | 8 of 1962 | 27 Sep 1962 | 12 Oct 1962 (see s. 2 and Gazette 12 Oct 1962 p. 3366)
+Business Names Act 1962 | 8 of 1962 (11 Eliz. II No. 8) | 27 Sep 1962 | 12 Oct 1962 (see s. 2 and Gazette 12 Oct 1962 p. 3366)
 Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
 Reprint of the Business Names Act 1962 authorised 17 Mar 1971 (includes amendments listed above)
 Business Names Act Amendment Act 1976 | 40 of 1976 | 9 Jun 1976 | 6 Aug 1976 (see s. 2 and Gazette 6 Aug 1976 p. 2657)
@@ -23,22 +23,29 @@ Reprint 3: The Business Names Act 1962 as at 28 Oct 2005 (includes amendments li
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Acts Amendment (Fair Trading) Act 2010 s. 185 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
+Reprint 4: The Business Names Act 1962 as at 2 Sep 2011 (includes amendments listed above)
 Repealed by the Interpretation Act 1984 s. 77(1).
-The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 (other than s. 151) (as amended by Acts Amendment (Fair Trading) Act 2010 s. 184) reads as follows:
-“
-Division 23 — Transitional provisions
-[151.Deleted by No. 58 of 2010 s. 184.]
-152.Commissioner for Corporate Affairs and Registrar of Co-operative and Financial Institutions
-(1) A thing done or omitted to be done by, to or in relation to, the Commissioner for Corporate Affairs before commencement under, or for the purposes of, the Companies (Co-operative) Act 1943 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
-(2) A thing done or omitted to be done by, to or in relation to, the Registrar of Co-operative and Financial Institutions before commencement under, or for the purposes of, the Co-operative and Provident Societies Act 1903 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
-153.Consumer Affairs Act 1971
-Each office in existence immediately before commencement because of section 15(1) of the Consumer Affairs Act 1971 does not cease merely because that subsection is repealed by this Act.
-154.Petroleum Products Pricing Act 1983
-Each office in existence immediately before commencement because of section 5(2)(b) of the Petroleum Products Pricing Act 1983 does not cease merely because that paragraph is deleted by this Act.
-155.Interpretation
-In this Division —
-commencement means the time at which this Division comes into operation;
-Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
-Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
-”.
+Repealed by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 4.
+The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant to this Act.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 has transitional provisions some of which may be relevant to this Act.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+business4(1)
+business name4(1)
+carrying on business4(1)
+christian name4(1)
+Commissioner4(1)
+corporation4(1)
+Department4(1)
+director4(1)
+executive officer4AA(3)
+firm4(1)
+individual4(1)
+information31B(3)
+initial4(1)
+register4(1)
+repealed Act4(1)
+secretary4(1)
+section4(1)
+By Authority: JOHN A. STRIJK, Government Printer
