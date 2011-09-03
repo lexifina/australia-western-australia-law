@@ -1,7 +1,7 @@
 ## Schedule 1
 [Reg. 4]
-Office Use Only
-Application No. _____________
+EPRA Use Only
+File No. ___________________
 FORM 1
 EAST PERTH REDEVELOPMENT ACT 1991
 SECTION 40
@@ -35,9 +35,9 @@ Signature of owner(s) of the land Signature of Applicant(s)
 ................................. Date ................. .................................. Date ..................
 ................................. Date .................. .................................. Date ..................
 State position if signing on behalf of a Company
-Note 1:This application is to be accompanied by 6 copies of the plan(s) and specifications for the development and the prescribed fee.
+Note 1:This application is to be accompanied by 5 copies of the plan(s) and specifications for the development and the prescribed fee.
 Note 2:It is an offence under regulation 7 for a person —
 (a)to make a statement or give any information which that person knows is false in a material particular in connection with an application for approval of a development; or
 (b)to omit to supply to the Authority any information or particular which that person knows to be relevant to the application.
 The offence is punishable by a fine of up to $1 000.
-[Form 1 (correction to Reprint in Gazette 27 Feb 2004 p. 639); amended in Gazette 29 Dec 2006 p. 5894.]
+[Form 1 (correction to Reprint in Gazette 27 Feb 2004 p. 639); amended in Gazette 29 Dec 2006 p. 5894; 2 Sep 2011 p. 3622.]
