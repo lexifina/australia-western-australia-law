@@ -39,7 +39,8 @@ Strata Titles General Amendment Regulations (No. 2) 2008 | 9 Jan 2009 p. 27-8 | 
 Strata Titles General Amendment Regulations 2009 | 19 Jun 2009 p. 2243-4 | r. 1 and 2: 19 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Strata Titles General Amendment Regulations 2010 | 18 Jun 2010 p. 2678-9 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Reprint 6: The Strata Titles General Regulations 1996 as at 3 Sep 2010 (includes amendments listed above)
-Strata Titles General Amendment Regulations 2011 | 14 Jun 2011 p. 2137-8 | r. 1 and 2: 14 Jun 2011(see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Strata Titles General Amendment Regulations 2011 | 14 Jun 2011 p. 2137-8 | r. 1 and 2: 14 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Strata Titles General Amendment Regulations (No. 2) 2011 | 2 Sep 2011 p. 3616-17 | r. 1 and 2: 2 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Sep 2011 (see r. 2(b))
 Repealed by the Strata Titles Act 1985.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
@@ -49,14 +50,15 @@ The Strata Titles General Amendment Regulations 2000 r. 2(2) is a transitional p
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-dominant lot14D(2)(a)
-easement area14D(2)(b)
+dominant lot14D(2)
+easement area14D(2)
 form3
-GSTSch. 1 it. 6
+GSTSch. 1,
 Licensed Surveyors Regulations3
 plan3
 relevant written laws39(3)
 section3
-servient lot14D(2)(a)
+servient lot14D(2)
+single tier building37AA(2)
 Survey Regulations3
 TLA Regulations3
