@@ -17,6 +17,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 Pt. 3, 4 and 5 Div. 3 Subdiv. 2 | 25 of 2007 | 16 Oct 2007 | Pt. 3: operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c)); Pt. 4: to be proclaimed (see s. 2(1)(d)); Pt. 5 Div. 3 Subdiv. 2: operative on publication of an order under the State Superannuation Act 2000 s. 75K (“separation time”) (see s. 2(8)(b))
+State Superannuation Amendment Act 2011 s. 3, Pt. 2-5 | 35 of 2011 | 12 Sep 2011 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 and the Government Employees Superannuation Act 1987were repealed by s. 39 of this Act. Certain provisions of those Acts continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
 “
@@ -350,3 +351,363 @@ Section 33(2)(g) and “and” after it are deleted.
 Section 51(1) and (2) are amended by inserting after “section 43(3)(c)” —
 “ or 75K(5) ”.
 ”.
+On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2011 s. 3, Pt. 2-5 had not come into operation. They read as follows:
+3.Act amended
+This Act, other than Part 2 Division 1, amends the State Superannuation Act 2000.
+Part 2 — State Superannuation Amendment Act 2007 repealed and related amendments
+Division 1 — State Superannuation Amendment Act 2007 repealed
+4.Act repealed
+The State Superannuation Amendment Act 2007 is repealed.
+Division 2 — Provisions related to the repeal of the State Superannuation Amendment Act 2007
+5.Long title replaced
+Delete the long title and insert:
+An Act to provide for superannuation contributions and superannuation schemes for and in respect of people working or formerly working in the public sector and for related purposes.
+6.Section 3 amended
+(1) In section 3(1) delete the definitions of:
+regulated superannuation fund
+SIS Act
+transfer time
+West State Scheme
+working day
+(2) In section 3(1) insert in alphabetical order:
+benefit means a benefit paid or payable under a scheme, whether paid or payable as a lump sum, pension, allowance or annuity or in any other form;
+Fund means the Government Employees Superannuation Fund under section 14;
+Member means a member of a scheme;
+scheme, except in section 30, means a superannuation scheme established or continued under this Act;
+subsidiary means a body determined under subsection (3) to be a subsidiary of the Board;
+Treasurer’s guidelines means guidelines issued by the Treasurer under section 33(2).
+(3) After section 3(2) insert:
+(3) Part 1.2 Division 6 of the Corporations Act applies for the purpose of determining whether a body is a subsidiary of the Board.
+7.Part 3 heading deleted
+Delete the heading to Part 3.
+8.Part 3 Division 1 deleted
+Delete Part 3 Division 1.
+9.Part 3 Division 2 heading deleted and Part 2 heading inserted
+Delete the heading to Part 3 Division 2 and insert:
+Part 2 — Government Employees Superannuation Board
+10.Section 6 amended
+(1) Delete section 6(1)(a).
+(2) In section 6(1)(e)(i) delete “superannuation schemes administered by the Board under this Part or any other written law; and” and insert:
+the schemes; and
+11.Section 7B amended
+(1) In section 7B(2)(b) delete “Part; and” and insert:
+Act; and
+(2) In section 7B(2)(c) delete “Part.” and insert:
+Act.
+(3) In section 7B(4) delete “Part” and insert:
+Act
+12.Section 9 amended
+(1) In section 9(1) delete “Part.” and insert:
+Act.
+(2) In section 9(2) delete “Part” and insert:
+Act
+13.Part 3 Division 3 heading deleted and Part 3 heading inserted
+Delete the heading to Part 3 Division 3 and insert:
+Part 3 — Government Employees Superannuation Fund
+14.Section 14 amended
+Delete section 14(3) and (4).
+15.Section 15 amended
+In section 15(1)(a) delete “Part; and” and insert:
+Act; and
+16.Part 3 Division 4 heading deleted and Part 4 heading inserted
+Delete the heading to Part 3 Division 4 and insert:
+Part 4 — Superannuation Schemes
+17.Section 29 amended
+(1) In section 29(1) delete “Part —” and insert:
+Act —
+(2) Delete section 29(2).
+18.Section 30 amended
+In section 30(2)(a) delete “Part;” and insert:
+Act; or
+19.Part 3 Division 5 heading deleted and Part 5 heading inserted
+Delete the heading to Part 3 Division 5 and insert:
+Part 5 — Government guarantees and appropriation of the Consolidated Account
+20.Section 31 amended
+In section 31(1)(b) delete “Part” and insert:
+Act
+21.Part 3 Division 6 heading deleted and Part 6 heading inserted
+Delete the heading to Part 3 Division 6 and insert:
+Part 6 — Miscellaneous
+22.Section 33B amended
+(1) In section 33B(3) delete “section 78 —” and insert:
+section 36A —
+(2) At the end of section 33B insert:
+(5) The text of a direction referred to in subsection (3) is to be included in the annual report submitted by the accountable authority of the Board under the Financial Management Act 2006 Part 5.
+23.Section 34 amended
+In section 34(1) delete “Part” and insert:
+Act
+24.Section 35 amended
+Delete section 35(3) and insert:
+(3) Subject to subsections (5) and (6), a direction becomes effective on the expiry of 7 days after the Board receives it or of such longer period as the Treasurer may, at the Board’s request, determine.
+(4) If the Board asks the Treasurer to extend the 7 day period under subsection (3), the Treasurer must decide whether or not to agree to the request and notify the Board of that decision before the 7 day period has expired.
+(5) If a direction is the subject of a notice under the Statutory Corporations (Liability of Directors) Act 1996 section 17, it does not become effective before it is confirmed under that section or the expiry of any extension of time notified under subsection (2).
+(6) Despite the Statutory Corporations (Liability of Directors) Act 1996 section 17(4), the Treasurer may, when confirming a direction under that section, extend the time for the direction to become effective and is to notify the Board of the extension.
+(7) The Treasurer must cause a copy of a direction to be laid before each House of Parliament or dealt with under section 36A —
+(a) within 14 days after the direction is given; or
+(b) if the direction is the subject of a notice under the Statutory Corporations (Liability of Directors) Act 1996 section 17, within 14 days after it is confirmed under that section.
+(8) The text of a direction is to be included in the annual report submitted by the accountable authority of the Board under the Financial Management Act 2006 Part 5.
+25.Section 36A inserted
+After section 35 insert:
+36A.Supplementary provision about laying documents before Parliament
+(1) If a provision of this Act requires a person to cause a document to be laid before each House of Parliament or dealt with under this section within a period and —
+(a) at the commencement of the period, a House of Parliament is not sitting; and
+(b) the person is of the opinion that the House will not sit during that period,
+the person must transmit a copy of the document to the Clerk of that House.
+(2) A copy of a direction transmitted to the Clerk of a House is to be taken to have been laid before that House.
+(3) The laying of a copy of a direction that is regarded as having occurred under subsection (2) is to be recorded in the Minutes, or Votes and Proceedings, of the House on the first sitting day of the House after the Clerk received the copy.
+26.Section 38 amended
+(1) Before section 38(2) insert:
+(1) Subject to subsections (3) to (8), the Governor may make regulations prescribing all matters that are required or permitted by this Act or the State Superannuation (Transitional and Consequential Provisions) Act 2000 section 26 to be prescribed, or are necessary or convenient to be prescribed for giving effect to the purposes of this Act.
+(2) In section 38(2):
+(a) delete “section 79 but subject to this section,” and insert:
+subsection (1),
+(b) delete “under section 79” and insert:
+under subsection (1)
+(3) Delete section 38(3) and insert:
+(3) Regulations cannot be made under subsection (1) if they reduce the amount of a benefit that —
+(a) accrued or became payable before the regulations came into operation; or
+(b) is, or may become, payable in relation to a period before the regulations came into operation.
+(4) After section 38(4) insert:
+(5A) Regulations cannot be made under subsection (1) in relation to the superannuation schemes continued by section 29(1)(a), (b) or (c) unless —
+(a) the Board has certified that it is satisfied that the proposed regulations will not affect contributions or benefits; or
+(b) an actuary appointed by the Board has certified that the proposed regulations will not reduce, or have the same effect as reducing —
+(i) in the case of a scheme continued by section 29(1)(a) or (b), the multiplying factor for any relevant benefit; or
+(ii) in the case of the scheme continued by section 29(1)(c), the pension value factor for any Member of that scheme,
+to less than it was immediately before 17 February 2001; or
+(c) any reduction of the kind referred to in paragraph (b) will apply only in respect of Members who have agreed with the Board that the reduction is to apply in the calculation of their benefit.
+(5B) In subsection (5A) and in this subsection —
+multiplying factor, in relation to a relevant benefit, means the components of the benefit formula by which the Member’s salary is to be multiplied in order to calculate the benefit;
+pension value factor means —
+(a)the number of units that a Member may, or may become entitled to, acquire per dollar of the Member’s salary; or
+(b)the amount of the pension that will or may become payable in respect of each unit held by a Member;
+relevant benefit means a benefit, or part of a benefit, the amount of which was, immediately before 17 February 2001, calculated as a multiple of a Member’s salary.
+(5C) Subsections (3) and (5A) do not apply in respect of regulations that reduce or provide for the reduction of a Member’s benefit if —
+(a) a superannuation agreement, flag lifting agreement or splitting order is in force in respect of the Member; and
+(b) the reduction does not reduce the Member’s benefit to less than the Member’s entitlement under the agreement or order.
+(5D) In subsection (5C) —
+flag lifting agreement has the meaning given in the Family Law Act 1975 (Commonwealth) section 90MD;
+splitting order has the meaning given in the Family Law Act 1975 (Commonwealth) section 90MD;
+superannuation agreement has the meaning given in the Family Law Act 1975 (Commonwealth) section 90MD.
+(5E) Regulations under subsection (1) may permit the Board to pay a pension or other benefit under the scheme continued by section 29(1)(c) for the purpose of —
+(a) giving effect to a payment split; or
+(b) satisfying the requirements of the Family Law (Superannuation) Regulations 2001 (Commonwealth) Division 2.2 in relation to an entitlement in respect of a superannuation interest in the scheme.
+(5F) In subsection (5E) —
+payment split has the meaning given in the Family Law Act 1975 (Commonwealth) section 90MD;
+superannuation interest has the meaning given in the Family Law Act 1975 (Commonwealth) section 90MD.
+(5) In section 38(5):
+(a) delete “Regulations that —” and insert:
+Regulations cannot be made under subsection (1), unless they have been approved by the Treasurer, if they —
+(b) in paragraph (a) delete “Part to the extent that” and insert:
+Act and
+(c) in paragraph (b) delete “subsection (2)(j),” and insert:
+subsection (2)(j).
+(d) delete “cannot be made unless they have been approved by the Treasurer.”.
+(6) Delete section 38(6) and insert:
+(6) Regulations that prescribe an authority, body or person for the purposes of the definition of Employer in section 3 may specify as the day on which they come into operation a day that is earlier than the day on which they are published in the Gazette.
+(7) Regulations of the kind referred to in subsection (6) cannot be made if they will or may affect a person, except the Crown or an Employer, by —
+(a) prejudicing rights that existed before the regulation was published; or
+(b) imposing liabilities in respect of anything that occurred before the regulation was published.
+(7) In section 38(8) delete “section 37 or”.
+(8) Delete section 38(9) and (10).
+27.Section 40 amended
+In section 40 delete “this Part and the regulations referred to in section 38” and insert:
+this Act and the regulations made or applying under it
+28.Parts 4, 4A and 5 deleted
+Delete Parts 4, 4A and 5.
+29.Schedule 1 amended
+In Schedule 1 clause 6(2)(e) delete “Part 3; or” and insert:
+this Act; or
+30.Schedule 2 amended
+In Schedule 2 clause 1 delete “Part 3.” and insert:
+this Act.
+Part 3 — Amendments relating to the Treasurer
+31.Various references to “Minister” amended
+In the provisions listed in the Table delete “Minister” (each occurrence) and insert:
+Treasurer
+Table
+s. 3 def. of actuary | s. 7A(1) and (3)
+s. 7B(5) | s. 8(1)(a)
+s. 33B(1) and (3) | s. 34(1)
+s. 35(1) and (2) | s. 36(1), (2), (3) and (4) def. of information
+Sch. 1 cl. 1(1) | Sch. 1 cl. 1(2)
+Sch. 1 cl. 2(1) | Sch. 1 cl. 2(2)
+Sch. 1 cl. 6(1)(b) and (d) | Sch. 1 cl. 6(2)
+Sch. 1 cl. 6(3) | Sch. 1 cl. 6(4)
+Sch. 2 cl. 11(2) | Sch. 2 cl. 12(3)
+Sch. 3 cl. 2(2) | Sch. 3 cl. 3(3)
+Note:The heading to amended section 35 is to read:
+Treasurer may give directions to Board
+32.Section 6 amended
+In section 6(1)(d) delete “the Minister and”.
+33.Section 7A amended
+Delete section 7A(2).
+34.Section 30 amended
+(1) In section 30(1) delete “Minister and the Treasurer have” and insert:
+Treasurer has
+(2) In section 30(2) delete “Minister and the Treasurer have” and insert:
+Treasurer has
+(3) In section 30(3) delete “Minister and the”.
+35.Section 33B amended
+(1) In section 33B(2)(d) delete “Board, the Minister” and insert:
+Board
+(2) Delete section 33B(4).
+36.Section 36 amended
+In section 36(1) delete “Minister’s” and insert:
+Treasurer’s
+Note:The heading to amended section 36 is to read:
+Treasurer to have access to information
+37.Section 37 deleted
+Delete section 37.
+38.Schedule 1 amended
+In Schedule 1 clause 7 delete “Minister” and insert:
+Treasurer
+39.Schedule 3 amended
+In Schedule 3 clause 1 in the definition of prior approval delete “Minister given with the Treasurer’s concurrence.” and insert:
+Treasurer.
+Part 4 — Amendments relating to administration and funding
+40.Section 6 amended
+In section 6(1):
+(a) in paragraph (c) delete “schemes; and” and insert:
+schemes or, in accordance with any relevant Treasurer’s guidelines, select and appoint external administrators of the schemes and monitor their administration; and
+(b) after paragraph (d) insert:
+(ea) so far as practicable, provide information to Members regarding their rights and entitlements under the schemes; and
+(c) in paragraph (f) after “under” insert:
+this Act or
+41.Section 7 amended
+In section 7(2):
+(a) in paragraph (b) before “enter” insert:
+in accordance with any relevant Treasurer’s guidelines,
+(b) in paragraph (c) before “enter” insert:
+in accordance with any relevant Treasurer’s guidelines,
+(c) in paragraph (ca) delete “subsidiary for the purpose of performing the function referred to in section 6(1)(e); and” and insert:
+subsidiary; and
+42.Section 11 amended
+(1) In section 11(2) delete “Board.” and insert:
+Board on the advice of the Public Sector Commissioner.
+(2) After section 11(2) insert:
+(3) If the Board appoints an external administrator to conduct the administration of a scheme or schemes and in connection with that appointment the external administrator makes an offer of employment to a person appointed or employed by the Board under subsection (1) or (2) (a Board officer), the Board may enter into an agreement with the Board officer on terms approved by the Public Sector Commissioner providing for —
+(a) in the case of a Board officer who is a permanent public service officer appointed or employed under subsection (1) —
+(i) the right of the Board officer, during a stated period, to resume appointment or employment under subsection (1); and
+(ii) the making by the Board of a payment to the Board officer if the offer of employment is accepted and the right of election under subparagraph (i) expires without being exercised;
+and
+(b) in the case of any other Board officer, the making by the Board of a payment to the Board officer if the offer of employment is accepted.
+43.Section 18 amended
+(1) Delete section 18(2).
+(2) In section 18(3) —
+(a) in paragraph (b) delete “investment,” and insert:
+investment.
+(b) delete “as it considers appropriate.”.
+44.Section 19 amended
+(1) In section 19(1) delete “and give effect to a broad investment strategy for the investment of” and insert:
+a strategy for
+(2) After section 19(1) insert:
+(2A) The Board’s investment strategy for the Fund is to be consistent with any relevant Treasurer’s guidelines.
+(3) In section 19(2) delete “and in making investment decisions the Board is to endeavour to optimize returns having” and insert:
+the Board is to have
+(4) In section 19(3):
+(a) in paragraph (a) delete “broad”;
+(b) delete “the Treasurer’s” and insert:
+any relevant Treasurer’s
+(5) After section 19(3) insert:
+(4) In exercising its powers under section 18 the Board is to —
+(a) act in accordance with any relevant Treasurer’s guidelines; and
+(b) act so as to give effect to its investment strategy.
+Note:The heading to amended section 19 is to read:
+Exercise of investment powers
+45.Section 20A inserted
+After section 19 insert:
+20A.Reserves
+(1) The Board may maintain reserves within the Fund.
+(2) The Board is to formulate a reserving strategy for the Fund.
+(3) The Board’s reserving strategy for the Fund is to be consistent with —
+(a) the Board’s capacity to discharge the liabilities of the Fund, actual and contingent, as they fall due; and
+(b) any relevant Treasurer’s guidelines.
+(4) The Board is to review its reserving strategy from time to time in accordance with any relevant Treasurer’s guidelines.
+(5) In exercising its power under subsection (1) the Board is to —
+(a) act in accordance with any relevant Treasurer’s guidelines; and
+(b) act so as to give effect to the Fund reserving strategy.
+46.Section 22 replaced
+Delete section 22 and insert:
+22.Allocation of earnings and costs
+(1) The Board is to allocate —
+(a) earnings derived from the investment of the Fund; and
+(b) the costs of managing and administering the Fund and the schemes,
+between the schemes and where appropriate between Members.
+(2) In allocating earnings and costs under subsection (1) the Board is to —
+(a) ensure compliance with any relevant guidelines; and
+(b) otherwise act in accordance with section 6(2).
+47.Section 23 amended
+In section 23(2) delete “the Treasurer’s” and insert:
+any relevant Treasurer’s
+48.Section 24 amended
+In section 24(1)(c) delete “the Treasurer’s” and insert:
+any relevant Treasurer’s
+49.Section 33 amended
+(1) In section 33(2):
+(a) delete “may issue” and insert:
+may, after consulting the Board, issue
+(b) before paragraph (a) insert:
+(aa) the exercise by the Board of its powers under section 6(1)(c) to select and appoint external administrators of the schemes and monitor their administration; and
+(c) after paragraph (b) insert:
+(ca) the exercise by the Board of its powers under section 7(2)(b) and (c); and
+(d) in paragraph (d) delete “making of investments” and insert:
+exercise of the Board’s powers
+(e) after paragraph (e) insert:
+(fa) the formulation and review of an investment strategy under section 19; and
+(f) after paragraph (f) insert:
+(ga) the maintenance of reserves and the formulation and review of a reserving strategy under section 20A; and
+(g) in paragraph (g) after “earnings” insert:
+and costs of managing and administering the Fund and the schemes
+(2) After section 33(3) insert:
+(4A) Where guidelines are issued under subsection (2), the Treasurer is to —
+(a) publish notice of the guidelines in the Gazette within 21 days of the issue; and
+(b) make and, for so long as they remain current, keep the guidelines accessible on or through a website maintained by the Department.
+(4B) In subsection (4A) —
+Department means the department of the Public Service principally assisting in the administration of this Act.
+Part 5 — Amendments to introduce choice
+50.Part 2A inserted
+After section 4 insert:
+Part 2A — Employer contribution obligation
+4A.Terms used
+(1) In this Part —
+chosen fund means a fund chosen by an employee in accordance with the SGA Act Part 3A Division 4;
+default fund means —
+(a)in relation to an employee who is not an exempt employee, a fund prescribed by the regulations as the default fund for that employee; and
+(b)in relation to an exempt employee, a fund named by the Employer of that employee, with the approval of the Treasurer, as the default fund for that employee;
+employee has the meaning given in the SGA Act section 12;
+exempt employee means an employee for whom an Employer, in accordance with section 30(1) or (2), makes or may make superannuation contributions to a fund that is not a scheme under this Act;
+fund has the meaning given in the SGA Act section 32E;
+individual superannuation guarantee shortfall has the meaning given in the SGA Act section 19;
+SGA Act means the Superannuation Guarantee (Administration) Act 1992 (Commonwealth);
+superannuation guarantee charge means the charge imposed by the Superannuation Guarantee Charge Act 1992 (Commonwealth).
+(2) For the purposes of this Part an employee is to be regarded as an employee of the person or body prescribed by the regulations for that employee.
+4B.Employers to make contributions
+(1) An Employer must make superannuation contributions such that the Employer will avoid incurring an individual superannuation guarantee shortfall for any of its employees.
+(2) Where subsection (1) requires an Employer to make contributions for an employee, the Employer must pay the contributions to —
+(a) a chosen fund for the employee; or
+(b) if at the time the contribution is paid there is no chosen fund for the employee, the default fund.
+(3) Except as prescribed in the regulations, an Employer must comply with the requirements of the SGA Act Part 3A Division 6, even if it is not required by that Act to do so.
+(4) If an Employer becomes liable to pay the superannuation guarantee charge as a result of incurring an individual superannuation guarantee shortfall for an employee for a period, the Employer has no obligation under subsection (1) to make contributions in respect of that employee for that period.
+(5) This section does not apply in relation to an employee who is in a class of employees prescribed by the regulations.
+4C.Regulations may require extra contributions
+(1) Subject to subsection (2), the regulations may require an Employer to make superannuation contributions which exceed any contributions the Employer is required to make under section 4B or any other written law.
+(2) Regulations which require an Employer to make contributions to a fund must either —
+(a) specify the amount or rate of contributions to be made; or
+(b) specify the way in which the amount or rate of contributions is to be determined, in which case the regulations must provide that the determination of the rate or amount of contributions is to be subject to the approval of the Treasurer.
+51.Section 6 amended
+After section 6(1)(a) insert:
+(ba) if so agreed with the Treasurer, provide a service of receiving superannuation contributions paid by Employers and —
+(i) crediting them to the Fund; or
+(ii) remitting them on behalf of the Employers to other funds,
+in accordance with Part 2A; and
+52.Section 15 amended
+After section 15(2)(a) insert:
+(aa) amounts transferred from the Fund to other superannuation funds; and
+53.Section 30 amended
+(1) In section 30(2) delete “and only if the Minister and the Treasurer have” and insert:
+the Treasurer has
+(2) After section 30(2) insert:
+(3A) An Employer may make superannuation contributions in accordance with section 4B(2) for persons who work for the Employer to a superannuation fund or scheme other than —
+(a) a scheme under this Act; or
+(b) a superannuation scheme or fund established in accordance with subsection (1); or
+(c) a superannuation scheme or fund established before 28 December 1989.
