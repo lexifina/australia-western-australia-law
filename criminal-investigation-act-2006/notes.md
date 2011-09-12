@@ -12,6 +12,20 @@ Reprint 1: The Criminal Investigation Act 2006 as at 14 Jan 2011 (includes amend
 Prohibited Behaviour Orders Act 2010 Pt. 5 Div. 2 | 59 of 2010 | 8 Dec 2010 | 23 Feb 2011 (see s. 2(b) and Gazette 23 Feb 2011 p. 633)
 Criminal Investigation Amendment Act 2011 | 11 of 2011 | 2 May 2011 | s. 1 and 2: 2 May 2011 (see. s. 2(a)); Act other than s. 1 and 2: 3 May 2011 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 6 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Restraining Orders Amendment Act 2011 Pt. 32 | 32 of 2011 | 12 Sep 2011 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Restraining Orders Amendment Act 2011 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Criminal Investigation Act 2006 amended
+16.Act amended
+This Part amends the Criminal Investigation Act 2006.
+17.Section 128 amended
+In section 128(1) delete the definition of serious offence and insert:
+serious offence means an offence —
+(a)the statutory penalty for which is or includes imprisonment for 5 years or more or life; or
+(b)under the Restraining Orders Act 1997 section 61(1) or (2a); or
+(c)that involves an act of family and domestic violence as referred to in the definition of act of family and domestic violence paragraphs (a) to (c) and (f) in the Restraining Orders Act 1997 section 6(1).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
