@@ -24,6 +24,10 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 7 | 28 o
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 4: The Parliamentary Superannuation Act 1970 as at 4 Jul 2008 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Parliamentary Superannuation Amendment Act 2011 s. 3-15 | 34 of 2011 | 12 Sep 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Salaries and Allowances Tribunal Act 1975 s. 13.
 The Parliamentary Superannuation Legislation Amendment Act 2000 s. 8(2) reads as follows:
 “
@@ -110,6 +114,195 @@ Trustees means the Trustees of the Parliamentary Superannuation Fund established
 (8) References to the Trustees in an enactment as in force immediately before the commencement shall, unless because of the context it would be inappropriate so to do, be read and construed as references to the State.
 (9) The Treasurer is authorised to act on behalf of the State in the performance of any function that is necessary or expedient to be performed to give effect to the purposes of this section.
 ”.
+On the date as at which this compilation was prepared, the Parliamentary Superannuation Amendment Act 2011 s. 3-15 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Parliamentary Superannuation Act 1970.
+4.Section 5 amended
+In section 5(1) insert in alphabetical order:
+benefit certificate has the meaning given in the SG(A) Act section 10;
+complying superannuation fund has the meaning given in the SG(A) Act section 7;
+individual superannuation guarantee shortfall has the meaning given in the SG(A) Act section 19;
+SG(A) Act means the Superannuation Guarantee (Administration) Act 1992 (Commonwealth);
+5.Section 6 amended
+(1) Delete section 6(3)(b) and insert:
+(b) 5 other Board members, of whom —
+(i) 2 are to be appointed by the Legislative Council from members of the Council; and
+(ii) 2 are to be appointed by the Legislative Assembly from members of the Assembly; and
+(iii) one is to be appointed by the Minister from former members to whom the scheme applies.
+(2) In section 6(4) delete “subsection (3)(b)” and insert:
+subsection 3(b)(i) and (ii)
+(3) After section 6(4) insert:
+(5A) The Minister is to make an appointment under subsection (3)(b)(iii) whenever required to fill a vacancy.
+(4) In section 6(6):
+(a) delete “member —” and insert:
+member appointed under subsection (3)(b)(i) or (ii) —
+(b) after paragraphs (a) and (b) insert:
+and
+(5) After section 6(6) insert:
+(7) A Board member appointed under subsection (3)(b)(iii) —
+(a) may be removed by the Minister; and
+(b) may resign by notice in writing to the Minister; and
+(c) ceases to hold office on the day fixed for the taking of the poll next following a dissolution or expiry of the Legislative Assembly.
+6.Section 7 amended
+In section 7(2) delete “3” and insert:
+4
+7.Section 10 deleted
+Delete section 10.
+8.Section 14 amended
+(1) In section 14(1)(b) after each of subparagraphs (i), (ia) and (ii) insert:
+or
+(2) In section 14(1aa) after paragraph (a) insert:
+and
+(3) In section 14(1a)(b) after each of subparagraphs (i) and (iii) insert:
+and
+(4) In section 14(3) after “at the rate” insert:
+of 10% per annum or at such other rate as may be
+9.Section 16 amended
+After section 16(2)(a) insert:
+and
+10.Section 19 amended
+Delete section 19(4) and (5) and insert:
+(4) A pension is not payable under this section to a spouse or de facto partner referred to in subsection (1) or (1a) if the marriage to the former member took place after the former member finally ceased to be a member except in the following cases —
+(a) if the former member died before the coming into operation of the Parliamentary Superannuation Amendment Act 2011 section 10 a pension is payable —
+(i) if the spouse or de facto partner is aged 55 years or more at the date of the former member’s death, as from that date; or
+(ii) if the spouse or de facto partner is aged less than 55 years at the date of the former member’s death, as from the date of attaining that age;
+(b) if the former member dies on or after the coming into operation of the Parliamentary Superannuation Amendment Act 2011 section 10 a pension is payable if —
+(i) the marriage took place not less than 5 years before the date of the former member’s death; or
+(ii) at the date of the former member’s death there is at least one child of the former member and the spouse or de facto partner who is wholly or substantially dependent on them; or
+(iii) the Board is satisfied that —
+(I) the marriage was of a bona fide nature; and
+(II) the special circumstances of the case warrant the payment of a pension to the spouse or de facto partner;
+(c) if the former member dies on or after the coming into operation of the Parliamentary Superannuation Amendment Act 2011 section 10 and the marriage to the former member took place before the coming into operation of that Act and no pension is payable under paragraph (b) a pension is payable —
+(i) if the spouse or de facto partner is aged 55 years or more at the date of the former member’s death, as from that date; or
+(ii) if the spouse or de facto partner is aged less than 55 years at the date of the former member’s death, as from the date of attaining that age.
+11.Section 19B amended
+(1) In section 19B(1) delete “A spouse or de facto partner of a member” and insert:
+Where a member dies before the coming into operation of the Parliamentary Superannuation Amendment Act 2011 section 11, a spouse or de facto partner of the member
+(2) After section 19B(1) insert:
+(2A) Where a member or former member dies on or after the coming into operation of the Parliamentary Superannuation Amendment Act 2011 section 11, a spouse or de facto partner of the member or former member who becomes entitled to be paid an annual pension pursuant to section 19 may elect, by notice in writing served on the Board within 6 months of so becoming entitled, to convert to a lump sum payment determined in accordance with subsection (2) all or part of the annual pension entitlement.
+(3) In section 19B(2) after “subsection (1)” (each occurrence) insert:
+or (2A)
+12.Section 23 amended
+In section 23(1):
+(a) in paragraph (c) delete “3%” and insert:
+5%
+(b) in paragraph (d) delete “6%” and insert:
+10%
+13.Section 24 replaced
+Delete section 24 and insert:
+24.Minimum Benefits
+(1) Subject to subsection (2), the Board is to pay a minimum benefit to or in respect of each member of —
+(a) the amount of the member’s contributions with interest at the rate of 10% per annum; plus
+(b) any further amount which, in the opinion of an actuary who prepares a benefit certificate in relation to the member, the scheme must provide if the individual superannuation guarantee shortfall for the member is to be nil.
+(2) The Tribunal may from time to time inquire into and determine an alternative basis for calculating the amount of the minimum benefits payable under the scheme having regard to the SG(A) Act, and the Board is to pay minimum benefits in accordance with any determination.
+14.Section 29 amended
+Delete section 29(1) and insert:
+(1) In this section —
+non-participant means a member in respect of whom contributions have never been made to the scheme or a member who has during the period beginning on 10 October 2000 and ending on 30 June 2001 elected to cease participating in the scheme.
+15.Various provisions amended to remove gender-specific language
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+s. 5(1) def. of salary par. (a) | the basic salary of the member together with any salary paid to him | the member’s basic salary together with any salary
+s. 5(1) def. of salary par. (b) | the basic salary of the member together with any additional remuneration paid to him | the member’s basic salary together with any additional remuneration paid
+s. 5(1) def. of salary par. (b) | payable to him | payable to the member
+s. 5(2) | his
+s. 6(5) | on his behalf | on behalf of the Minister
+s. 6(6)(a) | he | the member
+s. 6(6)(c) | if he ceases | upon ceasing
+s. 13(1) def. of basic pension | he ceased | ceasing
+s. 13(2) | he so contributed | the person so contributed
+s. 13(2) | which he received | received
+s. 14(1)(b)(i) | when he so ceases | upon so ceasing
+s. 14(1)(b)(ii), (iii) and (iv) | his
+s. 14(1aa) | he (first occurrence) | the member
+s. 14(1aa)(a) and (b) | he | the member
+s. 14(1aa)(c) | his (each occurrence) | the member’s
+s. 14(1a)(a)(i) | he shall, whether or not he is elected | the member shall, whether or not elected
+s. 14(1a)(a)(i) | his resignation | the resignation
+s. 14(1a)(a)(i) | he pays | the member pays
+s. 14(1a)(a)(i) | he would have been required to make had he continued | would have been required had the member continued
+s. 14(1a)(a)(i) | if he is defeated at the election for the Legislative Assembly he shall be entitled to the same pension, if any, to which he would have been entitled if he had ceased | the member, if defeated at the election for the Legislative Assembly, shall be entitled to the same pension, if any, to which the member would have been entitled on ceasing
+s. 14(1a)(a)(i) | his being defeated | being defeated
+s. 14(1a)(a)(ii) | he (each occurrence) | the member
+s. 14(1a)(a)(ii) | his death (each occurrence) | death
+s. 14(1a)(a)(ii) | his spouse | the member’s spouse
+s. 14(1a)(a)(ii) | his resignation | the resignation
+s. 14(1a)(b)(i) | he shall, if he is elected | the member shall, if elected
+s. 14(1a)(b)(i) | the day on which he ceased | the day of ceasing
+s. 14(1a)(b)(i) | he becomes | the member becomes
+s. 14(1a)(b)(i) | he pays | the member pays
+s. 14(1a)(b)(i) | he would have been required to make if he had continued | would have been required had the member continued
+s. 14(1a)(b)(iii) | he shall, if he is defeated | the member shall, if defeated
+s. 14(1a)(b)(iii) | he would have been entitled if he had been defeated | the member would have been entitled, if defeated
+s. 14(1a)(b)(iv) | he shall, if he dies | the member shall, in the event of dying
+s. 14(1a)(b)(iv) | his death (each occurrence) | death
+s. 14(1a)(b)(iv) | his spouse | the member’s spouse
+s. 14(1a)(b)(iv) | he shall be deemed | the member shall be deemed
+s. 14(1a)(b)(iv) | the day on which he ceased | the day of ceasing
+s. 14(3) | he | the person
+s. 14(3) | contributions made by him | the person’s contributions
+s. 14(3) | to him
+s. 14(3a) | he | that person
+s. 14(4) and (5) | he (each occurrence) | that person
+s. 14(6) | his | an
+s. 16(1) | his so ceasing | so ceasing
+s. 16(1) | his annual | the person’s annual
+s. 16(2)(a) | when he ceases | on ceasing
+s. 16(2)(a) | before he ceases | before ceasing
+s. 16(2)(b) | before he ceases | before ceasing
+s. 16(2)(b) | when he ceases | on ceasing
+s. 16(3) | when he so ceased (each occurrence) | on so ceasing
+s. 16(3) | he (first occurrence) | the former member
+s. 16(3)(a) and (b) | he | the former member
+s. 16(4) | his (first occurrence) | the former member’s
+s. 16(4) | his (second occurrence) | the
+s. 17(1) | his (first occurrence) | an
+s. 17(1) | he again became | again becoming
+s. 17(1) | he would | that person would
+s. 17(1) | if he had not so converted | but for so converting
+s. 17(1) | his (second occurrence) | the
+s. 17(2) | the amount of annual pension payable to him under this Act | the annual amount of the pension
+s. 18(1) | she is entitled until her death | the spouse is entitled until death
+s. 18(2) | his
+s. 18(3) | she (each occurrence) | the spouse or de facto partner
+s. 18A | her | the
+s. 18B | her (each occurrence) | the
+s. 19(1) | her
+s. 19(1)(a) | he | the former member
+s. 19(1)(a) | his | the former member’s
+s. 19(1)(b) | he had not died and if he had retired | the former member had not died but retired
+s. 19(1)(b) | his death | death
+s. 19(1)(b) | his pension | the former member’s pension
+s. 19(1b)(a) | his | an
+s. 19(1b)(b) | his (first occurrence) | an
+s. 19(1b)(b) | his (last occurrence) | the
+s. 19(2) | her death | death
+s. 19(2) | to the member if he | if the member
+s. 19(2) | his death | the member’s death
+s. 19(3) | her death | death
+s. 19(3)(a) | he had | the member had
+s. 19(3)(a) | the same day as that on which he died | the date of death
+s. 19(3)(b) | he had | the member had
+s. 19(3)(b) | the same day as that on which he died | the date of death
+s. 19B(1) | her | the
+s. 19B(2)(a) | when she becomes | on becoming
+s. 19B(2)(a) | before she became | before becoming
+s. 19B(2)(b) | before she became | before becoming
+s. 19B(2)(b) | when she becomes | on becoming
+s. 20(1) | he may | the person may
+s. 20(1)(a) | His
+s. 20(1)(a) | so made to him | made under section 14(3)
+s. 20(1)(b) | he continues | the person continues
+s. 20(1)(b) | so made to him | made under section 14(3)
+s. 21 | His | the
+s. 22 | Him | the former member
+s. 22 | he receives | received
+s. 23(1) | His
+s. 23(2) | His | an
+s. 30 | his spouse or de facto partner (first occurrence) | the spouse or de facto partner of the member
+s. 30 | or his spouse or de facto partner or children | or the spouse or de facto partner or children of the member or former member
+s. 30 | to his spouse | to the spouse
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
