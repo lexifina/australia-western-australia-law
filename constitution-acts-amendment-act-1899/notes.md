@@ -271,6 +271,7 @@ State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Opera
 Health Practitioner Regulation National Law (WA) Act 2010 s. 44(1), (7) and (9) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Building Services (Registration) Act 2011 s. 155(2) (the item relating to The Municipal Building Surveyors Examination Committee) | 19 of 2011 | 22 Jun 2011 | To be proclaimed (see s. 2(b))
 Building Act 2011 s. 160 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
+Curriculum Council Amendment Act 2011 Pt. 3 Div. 1 | 37 of 2011 | 13 Sep 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
@@ -370,7 +371,16 @@ The Chinese Medicine Board of Australia established under the Health Practitione
 The Medical Radiation Practice Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
 (9) In Schedule V Part 3 delete the item commencing “The Occupational Therapists Registration Board of Western Australia” and insert:
 The Occupational Therapy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-Footnote no longer applicable.
+The Real Estate and Business Agents Supervisory Board was abolished on 1 Jul 2011. The Real Estate and Business Agents Act 1978 s. 149 and 150 read as follows:
+149.Former Board abolished
+Subject to sections 156 and 157, at the beginning of the commencement day, the former Board is abolished and its members go out of office.
+150.References to the former Board
+If in a written law or other document or instrument there is a reference to the former Board, that reference may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
+The Settlement Agents Supervisory Board was abolished on 1 Jul 2011. The Settlement Agents Act 1981 s. 125 and 126 read as follows:
+125.Former Board abolished
+Subject to sections 132 and 133, at the beginning of the commencement day, the former Board is abolished and its members go out of office.
+126.References to the former Board
+If in a written law or other document or instrument there is a reference to the former Board, that reference may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
 On the date as at which this compilation was prepared, the Building Services (Registration) Act 2011 s. 155(2) (the item relating to The Municipal Building Surveyors Examination Committee) had not come into operation. It reads as follows:
 155.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
@@ -380,6 +390,13 @@ On the date as at which this compilation was prepared, the Building Act 2011 s. 
 160.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete the item relating to the Advisory Committee appointed under section 435 of the Local Government (Miscellaneous Provisions) Act 1960.
+On the date as at which this compilation was prepared, the Curriculum Council Amendment Act 2011 Pt. 3 Div. 1 had not come into operation. It reads as follows:
+Division 1 — Constitution Acts Amendment Act 1899 amended
+55.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 3 delete “The Curriculum Council established under the Curriculum Council Act 1997.”.
+(3) In Schedule V Part 3 insert in alphabetical order:
+The governing body of the School Curriculum and Standards Authority established by the School Curriculum and Standards Authority Act 1997.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
