@@ -21,6 +21,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 s. 182(3) and 208 | 36 of 1999 | 2 Nov 1999 | To be proclaimed (see s. 2)
 Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 Pt. 3 | 1 of 2011 | 1 Mar 2011 | To be proclaimed (see s. 2(b))
+Curriculum Council Amendment Act 2011 Pt. 3 Div. 4 | 37 of 2011 | 13 Sep 2011 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Children and Community Services Act 2004.
 On the date as at which this compilation was prepared, the School Education Act 1999 s. 182(3) and 208 had not come into operation. They read as follows:
@@ -66,3 +67,16 @@ In section 244(2):
 (ba) make provision for requirements as to the health and safety of children enrolled at a school or a community kindergarten registered under Part 5; and
 (b) after paragraph (a) insert:
 and
+On the date as at which this compilation was prepared, the Curriculum Council Amendment Act 2011 Pt. 3 Div. 4 had not come into operation. It reads as follows:
+Division 4 — School Education Act 1999 amended
+58.School Education Act 1999 amended
+(1) This section amends the School Education Act 1999.
+(2) Delete section 53(2)(a) and insert:
+(a) the outline of curriculum and assessment in schools established under the School Curriculum and Standards Authority Act 1997;
+(3) In the provisions listed in the Table delete “Curriculum Council” and insert:
+School Curriculum and Standards Authority
+Table
+s. 6(c)(ii)(II) | s. 6(d)(ii)(II)
+s. 63(1)(d)(i) | s. 67
+s. 167(1)(a)(ii) | s. 176(1)(b)
+s. 177(1)(a)(ii) | s. 200(1)(c)(ii)
