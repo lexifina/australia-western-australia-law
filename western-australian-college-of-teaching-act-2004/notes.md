@@ -14,6 +14,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 34 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Curriculum Council Amendment Act 2011 Pt. 3 Div. 5 | 37 of 2011 | 13 Sep 2011 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 34 had not come into operation. It reads as follows:
 “
@@ -36,6 +37,12 @@ s. 21 | Allowing child to be at place involving commercial sexual act or certain
 s. 21A | Obligations of those who operate sexual service business in relation to children
 ”.
 ”.
+On the date as at which this compilation was prepared, the Curriculum Council Amendment Act 2011 Pt. 3 Div. 5 had not come into operation. It reads as follows:
+Division 5 — Western Australian College of Teaching Act 2004 amended
+59.Western Australian College of Teaching Act 2004 amended
+(1) This section amends the Western Australian College of Teaching Act 2004.
+(2) In section 3(1) in the definition of teaching paragraph (a) delete “curriculum framework approved under the Curriculum Council Act 1997” and insert:
+outline of curriculum and assessment in schools established under the School Curriculum and Standards Authority Act 1997
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
