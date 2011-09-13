@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 12 July 2011 of the Duties Act 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Duties Act 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Duties Act 2008 | 11 of 2008 | 14 Apr 2008 | s. 1 and 2: 14 Apr 2008 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2008 (see s. 2(b))
@@ -10,14 +10,14 @@ Revenue Laws Amendment Act 2010 Pt. 2 and Pt. 3 Div. 2 | 9 of 2010 | 10 Jun 2010
 Revenue Laws Amendment and Repeal Act 2010 Pt. 2 | 17 of 2010 | 25 Jun 2010 | s. 12: 1 Jul 2008 (see s. 2(c)); s. 3, 13 and 16: 25 Jun 2010 (see s. 2(a)); s. 4-11, 14 and 15: 1 Mar 2011 (see s. 2(d) and Gazette 15 Feb 2011 p. 535)
 Duties Amendment Act 2011 | 27 of 2011 | 11 Jul 2011 | s. 1 and 2: 11 Jul 2011 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2011 (see s. 2(b)(ii))
 Reprint 1: The Duties Act 2008 as at 12 Jul 2011 (includes amendments listed above)
-Duties Amendment Act (No. 2) 2011 Pt. 2 | 33 of 2011 | 12 Sep 2011 | 24 Dec 2010 (see s. 2(b))
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Duties Amendment Act (No. 2) 2011 | 33 of 2011 | 12 Sep 2011 | Pt. 2: 24 Dec 2010 (see s. 2(b)); Pt. 1: 12 Sep 2011 (see s. 2(a)); Pt. 3: 13 Sep 2011 (see s. 2(c))
+On the date as at which this complation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv 3 | 12 of 2008 (as amended by No. 9 of 2010 s. 9) | 14 Apr 2008 | 1 Jul 2013 (see s. 2(c))
 The Mining Act 1904 was repealed by the Mining Act 1978.
 The Acts Amendment (Land Administration) Act 1997commenced 30 Mar 1998 (Gazette 27 Mar 1998 p. 1765)
-On the date as at which this reprint was prepared, the Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv. 3 (as amended by No. 9 of 2010 s. 9) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv. 3 (as amended by No. 9 of 2010 s. 9) had not come into operation. It reads as follows:
 Part 2 — Amendments
 Division 2 — Duties Act 2008 amended
 Subdivision 3 — Amendments commencing on 1 July 2013
@@ -241,7 +241,7 @@ relevant acquisition148, 163, 164, Sch. 3 cl. 1(1)
 relevant consolidation transaction257(1), 259(2), (3) and (4)
 relevant entity126(1)
 relevant interest177(1)
-relevant period29(3), 147F(2) and (4), 193(1), 194(6), 201(2)
+relevant period29(3), 147F(2) and (4), 193(1), 194(6), 201(2), Sch. 3 cl. 33
 relevant person154(2)
 relevant reconstruction transaction257(1), 260(1), (2), (3) and (4)
 relevant transaction257(1)
