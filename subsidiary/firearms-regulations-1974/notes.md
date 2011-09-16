@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Firearms Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 16 September 2011 of the Firearms Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Firearms Regulations 1974 | 29 Mar 1974 p. 1056-76 | 1 Jul 1974 (see r. 1 and Gazette 29 Mar 1974 p. 1027)
@@ -83,28 +83,32 @@ Firearms Amendment Regulations 2010 | 31 Aug 2010 p. 4184-9 | r. 1 and 2: 31 Aug
 Firearms Amendment Regulations 2011 | 4 Feb 2011 p. 396-7 | r. 1 and 2: 4 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Feb 2011 (see r. 2(b))
 Firearms Amendment Regulations (No. 2) 2011 | 10 Jun 2011 p. 2106-8 | r. 1 and 2: 10 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Firearms Amendment Regulations (No. 3) 2011 | 5 Jul 2011 p. 2826-33 | r. 1 and 2: 5 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jul 2011 (see r. 2(b))
-The Explosives and Dangerous Goods Act 1961 was repealed by the Dangerous Goods Safety Act 2004 s. 70.
+Reprint 8: The Firearms Regulations 1974 as at 16 Sep 2011 (includes amendments listed above)
 The Firearms Amendment Regulations 1996 r. 9(2) reads as follows:
 (2) The notation “PR” endorsed on a licence or permit before the commencement of this regulation is to be regarded as if it were the notation “HR”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
+Act2(1)
 application3BA
-approvedSch. 3
+approvedSch. 3 cl. 12(7)
 authorised person25A(1)
 barrel lengthSch. 3
-category2
+calibre2(1)
+category2(1)
 close associate6C(2)
-current firearm serviceability certificate2
+current firearm serviceability certificate2(1)
 faceSch. 4 cl. 1(6)
-fee2
+fee2(1)
 firearm serviceability certificate25A(1)
-firearms safety test2
-Form2
+firearms safety test2(1)
+Form2(1)
 licence20(1)
 locking pointSch. 4 cl. 4(8)
 major firearm part18(1a)
+pastoral leaseSch. 3 cl. 12(7)
 prescribed person6F(1)
+previous licence3BA(2)(b)
 relevant financial interest6C(1)
 relevant position6C(1)
 relevant power6C(1)
