@@ -24,8 +24,8 @@ Have your bank details changed? No r Yes r If yes please provide new bank detail
 BANK NAME: |  | BRANCH NAME:
 BSB No. |  | ACCOUNT No:
 8.DECLARATION: I, _______________________________________________ certify that: name of licensee
-(a)I am the licensee of the above named premises; (b)the claim I am making for liquor subsidy is complete, true and correct; (c)the claim I am making is honestly based on my WET obligations; (d)I have all the necessary records to provide information to substantiate my claim; | WARNING Penalties apply if you provide false or misleading information
-(e)I will provide information to substantiate my claim, if requested, at any time by the relevant authorities; (f)I have prepared and issued invoices reflecting the liquor subsidy in accordance with requirements of the Australian Taxation Office; and (g)my prices to my customers incorporate the amount of the subsidy.
+(a)I am the licensee of the above named premises; and (b)the claim I am making for liquor subsidy is complete, true and correct; and (c)the claim I am making is honestly based on my WET obligations; and (d)I have all the necessary records to provide information to substantiate my claim; and | WARNING Penalties apply if you provide false or misleading information
+(e)I will provide information to substantiate my claim, if requested, at any time by the relevant authorities; and (f)I have prepared and issued invoices reflecting the liquor subsidy in accordance with requirements of the Australian Taxation Office; and (g)my prices to my customers incorporate the amount of the subsidy.
 WHERE THE LICENSEE IS A COMPANY:
 The common seal of ________________________________ was hereunto affixed by order of its Directors in accordance with its Articles of Association, in the presence of:
 Name and Signature of Director(s)Common Seal
@@ -59,8 +59,8 @@ Have your bank details changed? No r Yes r If yes please provide new bank detail
 BANK NAME: |  | BRANCH NAME:
 BSB No. |  | ACCOUNT No:
 8.DECLARATION: I, _______________________________________________ certify that: name of licensee
-(a)I am the licensee of the above named premises; (b)the claim I am making for liquor subsidy is complete, true and correct; (c)I have all the necessary records to provide information to substantiate my claim; | WARNING Penalties apply if you provide false or misleading information
-(d)I will provide information to substantiate my claim, if requested, at any time by the relevant authorities; (e)I have prepared and issued invoices reflecting the liquor subsidy; and (f)my prices to my customers incorporate the amount of the subsidy.
+(a)I am the licensee of the above named premises; and (b)the claim I am making for liquor subsidy is complete, true and correct; and (c)I have all the necessary records to provide information to substantiate my claim; and | WARNING Penalties apply if you provide false or misleading information
+(d)I will provide information to substantiate my claim, if requested, at any time by the relevant authorities; and (e)I have prepared and issued invoices reflecting the liquor subsidy; and (f)my prices to my customers incorporate the amount of the subsidy.
 WHERE THE LICENSEE IS A COMPANY:
 The common seal of ________________________________ was hereunto affixed by order of its Directors in accordance with its Articles of Association, in the presence of:
 Name and Signature of Director(s)Common Seal

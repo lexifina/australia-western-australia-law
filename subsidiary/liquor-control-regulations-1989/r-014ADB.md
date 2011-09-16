@@ -1,4 +1,4 @@
-### 14ADB. Conditions on manager’s approval — s. 102C
+### 14ADB. Manager’s approval, conditions on (Act s. 102C)
 (1) The Director may impose a condition on a manager’s approval —
 (a) when the manager’s approval is granted or renewed; or
 (b) at any other time by giving notice in writing to the approved manager.

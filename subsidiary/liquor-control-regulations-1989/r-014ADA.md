@@ -1,4 +1,4 @@
-### 14ADA. Application for manager’s approval — s. 102B
+### 14ADA. Manager’s approval, application for (Act s. 102B)
 (1) In this regulation —
 approval application means an application for a manager’s approval under section 102B.
 (2) An approval application must be —

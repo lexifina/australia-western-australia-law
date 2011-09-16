@@ -1,4 +1,4 @@
-### 14ADG. Transitioned approvals — Sch. 1B of Act
+### 14ADG. Transitioned approvals (Act Sch. 1B)
 (1) In this regulation —
 commencement day has the meaning given in Schedule 1B clause 1 of the Act;
 transitioned approval has the meaning given in Schedule 1B clause 3(1) of the Act.

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Liquor Control Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 16 September 2011 of the Liquor Control Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Liquor Licensing Regulations 1989 | 27 Jan 1989 p. 209-61 | 1 Feb 1989 (see r. 2 and Gazette 27 Jan 1989 p. 263)
@@ -83,7 +83,7 @@ Liquor Control Amendment Regulations (No. 6) 2010 | 17 Sep 2010 p. 4762 | r. 1 a
 Liquor Control Amendment Regulations (No. 5) 2010 | 17 Sep 2010 p. 4765 | r. 1 and 2: 17 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Sep 2010 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 7) 2010 | 17 Sep 2010 p. 4768 | r. 1 and 2: 17 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Sep 2010 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 4) 2010 | 22 Oct 2010 p. 5225-9 | r. 1 and 2: 22 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Oct 2010 (see r. 2(b))
-Liquor Control Amendment Regulations (No. 10) 2010 | 19 Nov 2010 p. 5743-6 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 10) 2010 | 19 Nov 2010 p. 5743-7 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 8) 2010 | 3 Dec 2010 p. 6059-60 | r. 1 and 2: 3 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2010 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 9) 2010 | 3 Dec 2010 p. 6062-3 | r. 1 and 2: 3 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2010 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 2) 2011 | 3 May 2011 p. 1600 | r. 1 and 2: 3 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 4 May 2011 (see r. 2(b))
@@ -91,8 +91,10 @@ Liquor Control Amendment Regulations 2011 | 27 May 2011 p. 1931-2 | r. 1 and 2: 
 Liquor Control Amendment Regulations (No. 7) 2011 | 27 May 2011 p. 1934-5 | r. 1 and 2: 27 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2011 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 3) 2011 | 3 Jun 2011 p. 1994-2002 | Pt. 1: 3 Jun 2011 (see r. 2(a)); Regulations other than Pt. 1: 7 Jun 2011 (see r. 2(b) and Gazette 3 Jun 2011 p. 1975)
 Liquor Control Amendment Regulations (No. 5) 2011 | 15 Jul 2011 p. 2955-66 | r. 1 and 2: 15 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jul 2011 (see r. 2(b))
+Reprint 10: The Liquor Control Regulations 1989 as at 16 Sep 2011 (includes amendments listed above)
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 of the Commonwealth.
+Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
+Repealed by the Aged Care Amendment Act 2011 (Cwlth).
 Commenced 7 May 2007.
 Now known as the Liquor Control Regulations 1989; citation changed (see note under r. 1).
 Disallowed on 26 Apr 1992, see Gazette 1 May 1992 p. 1844.
@@ -104,7 +106,7 @@ Defined Terms
 Defined TermProvision(s)
 accredited higher education course18F(1)
 aged person8(2)
-agricultural region8D
+agricultural region8D(1)
 aggregate amount24(2)
 alcohol based food essence4A(2)
 alcohol based novelty food item4A(2)
@@ -115,58 +117,57 @@ approved manager3A(1)
 approved operator8(2)
 approved VET course18F(1)
 approved viticulture course9A(10e)
-attendee8B
-authorised arrangement8E
+attendee8B(2)
+authorised arrangement8E(1)
 bar11(1)
 caterer9A(14A)
-commencement day8(4), 14ADG(1)
-commercial vessel8
-country charter vehicle8F
+commencement day 14ADG(1)
+commercial vessel8(3)
+country charter vehicle8F(1)
 course of instruction or training9A(10e)
 crowd controller18EB(3)
 current26(1ab)
-current negative determination8A
+current negative determination8A(3)
 disabled person8(2)
-entertainment8A
-farmers’ market8D
-function8F
+entertainment8A(1)
+farmers’ market8D(1)
+function8F(1)
 higher education course3A(1)
 higher education institution 3A(1)
 host club9G
 hostel8(2)
-inter-State voyage8
-live entertainment8A
-lodgment fee26(4)
-lodgment period26(4)
+inter-State voyage8(3)
+live entertainment8A(1)
+lodgment fee26(4)(b)
+lodgment period26(4)(a)
 manager’s approval3A(1)
 maximum number of patrons3A(1), 14AC(1)
-negative determination8A
+negative determination8A(1)
 notional wholesale selling price3A(1)
-organised function8E
-overseas voyage8
+organised function8E(1)
+overseas voyage8(3)
 permit area14AC(1)
 photograph18B(3a), 18C(2)
 prescribed permit14AC(1)
-primary production8D
+primary production8D(1)
 producer3A(1)
-producers’ association8D
-purchase5(2)
-relevant body corporate5B(2), 5B(3), 5B(4)
+producers’ association8D(1)
+purchase5(2)(b)
+relevant body corporate5B(2), (3) and (4)(a)
 relevant lot11(1)
 relevant premises11(1)
 renewal application14ADD(1)
-responsible adult8A, *F
-restricted material8A
+responsible adult8A(1), 8F(1)
+restricted material8A(1)
 retail sale4A(2)
 room service restaurant9A(17)
-sale5(2)
-secure web page18EBA
+sale5(2)(a)
 signature18C(2)
-school8F
-small charter vehicle8F
+school8F(1)
+small charter vehicle8F(1)
 special event9A(10e)
 specified9A(3)
-standard drink8C
+standard drink8C(1)
 tax period3A(1)
 tourist9A(9)
 transitioned approval14ADG(1)
@@ -177,3 +178,4 @@ wholesaler3A(1)
 wine produced by a producer21A(3)
 worker9A(3)
 works canteen9A(3)
+By Authority: JOHN A. STRIJK, Government Printer

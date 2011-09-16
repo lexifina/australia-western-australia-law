@@ -1,4 +1,4 @@
-### 14ADD. Renewal of manager’s approval — s. 102E
+### 14ADD. Manager’s approval, renewal of (Act s. 102E)
 (1) In this regulation —
 renewal application means an application for the renewal of a manager’s approval under section 102E.
 (2) A renewal application must be —

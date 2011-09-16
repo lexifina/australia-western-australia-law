@@ -16,9 +16,9 @@ Item | Description | Fee $ | Electronic lodgment fee $
 8. | Application for extended trading permit for a period of 21 days or less if the anticipated number of patrons is —
  | (a)up to 500 | 100
  | (b)between 501 and 1 000 | 205
- | (d)between 1 001 and 5 000 | 1 020
- | (e)between 5 001 and 10 000 | 2 040
- | (f)over 10 000 | 4 085
+ | (c)between 1 001 and 5 000 | 1 020
+ | (d)between 5 001 and 10 000 | 2 040
+ | (e)over 10 000 | 4 085
 9. | Application for manager’s approval —
  | (a)lodged under r. 14ADA(3) | 165
  | (b)lodged under r. 14ADA(4)(a) | 55

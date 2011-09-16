@@ -1,4 +1,4 @@
-### 18EBA. Prescribed persons — s. 115AC
+### 18EBA. Prescribed persons (Act s. 115AC)
 For the purposes of the definition of secure web page paragraph (c) in section 115AC(1A), each of the following persons is prescribed —
 (a) an authorised officer;
 (b) a person appointed to assist the Director under section 14(1)(b).
