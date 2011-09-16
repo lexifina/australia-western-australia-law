@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Misuse of Drugs Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 16 September 2011 of the Misuse of Drugs Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Misuse of Drugs Act 1981 | 66 of 1981 | 23 Oct 1981 | 1 Sep 1982 (see s. 2 and Gazette 20 Aug 1982 p. 3250)
@@ -29,10 +29,10 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 3: The Misuse of Drugs Act 1981 as at 1 Jul 2005 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 14 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Misuse of Drugs Amendment Act 2006 | 40 of 2006 | 22 Sep 2006 | s. 1 and 2: 22 Sep 2006; Act other than s. 1 and 2: 28 Apr 2007 (see s. 2 and Gazette 27 Apr 2007 p. 1775)
-Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
+Nurses and Midwives Act 2006 Sch. 3 cl. 15 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Misuse of Drugs (Amounts of Prohibited Drugs) Order 2007 published in Gazette 7 Dec 2007 p. 5985 | cl. 1 and 2: 7 Dec 2007 (see cl. 2(a)); Order other than cl. 1 and 2: 8 Dec 2007 (see cl. 2(b))
 Reprint 4: The Misuse of Drugs Act 1981 as at 29 Feb 2008 (includes amendments listed above)
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+Medical Practitioners Act 2008 Sch. 3 cl. 37 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Police Amendment Act 2009 s. 21 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 37 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
@@ -42,9 +42,10 @@ Misuse of Drugs Amendment Act (No. 2) 2010 Pt. 2 | 50 of 2010 | 24 Nov 2010 | 25
 Misuse of Drugs (Numbers of Cannabis Plants) Order 2010 published in Gazette 15 Apr 2011 p. 1425-6 | cl. 1 and 2: 15 Apr 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 16 Apr 2011 (see cl. 2(b))
 Misuse of Drugs (Amounts of Prohibited Drugs) Order 2011 published in Gazette 29 Apr 2011 p. 1532-4 | cl. 1 and 2: 29 Apr 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 30 Apr 2011 (see cl. 2(b))
 Misuse of Drugs (Amounts of Prohibited Drugs) Order (No. 2) 2011 published in Gazette 1 Jul 2011 p. 2742-5 | cl. 1 and 2: 1 Jul 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 2 Jul 2011 (see cl. 2(b))
+Reprint 5: The Misuse of Drugs Act 1981 as at 16 Sep 2011 (includes amendments listed above)
+This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 read as follows:
-“
 3.Interpretation
 In this Act, unless the contrary intention appears —
 appeal period, in relation to a forfeiture order, has the same meaning as in the repealed Act;
@@ -98,31 +99,34 @@ If, immediately before the commencement of this Act, a warrant issued under the 
 (7) If, under subsection (5), the Registrar of Titles dispenses with the production of a duplicate certificate of title, then, on the application of the registered proprietor, the Registrar may cancel the certificate of title for which the duplicate was issued, and create and register a new certificate of title for the property.
 (8) The Registrar of Titles is not required to obtain the consent or direction of the Commissioner of Titles to perform a function conferred on the Registrar under this section.
 (9) To the extent that a provision of this section relating to any property is inconsistent with the Transfer of Land Act 1983, the provision prevails, but this section does not otherwise affect the operation of that Act in relation to the property.
-”.
 This should read “1893”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-adult8B
+adult8B(1)
 analyst3(1)
-an amending Act44
+an amending Act44(1)(a)
 approved analyst3(1)
 approved botanist3(1)
 approved person21
-authorised person8B, 14(4)(a), 26(3), 31(8)
+authorised person8B(1), 14(4)(a), 26(3), 31(8)
 authorised prescription3(1)
 botanist3(1)
 cannabis3(1)
-cannabis intervention requirement8B
-cannabis intervention session8B
-cannabis smoking paraphernalia19A
+cannabis intervention requirement8B(1)
+cannabis intervention session8B(1)
+cannabis smoking paraphernalia19A(1)
 cannabis resin3(1)
 category 1 item12
 category 2 item12
-CEO (Health)8B, 38D(1)
-child3
-CIR8B
-CIS8B
+CEO (Health)8B(1), 38D(1)
+child3(1), 19B(1)
+CIN45
+CIR8B(1)
+CIS8B(1)
+CIR8B(1)
+CIR8B(1)
+claimant27(1)(b)
 commencement day45
 Commissioner3(1)
 confidential information27B(1)
@@ -131,28 +135,30 @@ dentist3(1)
 drug of addiction3(1)
 external serious drug offence32A(3)
 heroin3(1)
+ice pipe19B(1)
 industrial hemp3(1)
 industrial hemp seed3(1)
 medical practitioner3(1)
-minor cannabis related offence8B
-new offence8E, 8G
+minor cannabis related offence8B(1)
+new offence8E(4), 8G(1)
 nurse practitioner3(1)
 opium3(1)
 owner5(2)
-police officer8B
-principal offence33(1), 33(3)
+Poisons Act 19643(1)
+police officer8B(1)
+principal offence33(1), (2) and (3)
 processed industrial hemp3(1)
 prohibited drug3(1)
 prohibited plant3(1)
 recipient12
-relevant thing27
+relevant thing27(6)
+regulations3(1)
 repeal daySch IX cl. 1
-responsible officer8B
-responsible adult8B
+responsible adult8B(1)
 sample3(1)
 search warrant21
 serious drug offence32A(3)
-seized property28
+seized property28(1)
 simple offence3(1)
 specified27A(7)
 specified drug3(1)
@@ -160,15 +166,12 @@ substance12
 sufficient samples27(6)
 summary court3(1)
 supplier12
-the claimant27(1)(b), 28(2)
-the Poisons Act 19643(1)
 the principal offence33(2)
-the regulations3(1)
 to cultivate3(1)
 to possess3(1)
 to supply3(1)
 undercover officer26(3), 31(8)
 vehicle21
 veterinary surgeon3(1)
-young person8B
-young person at risk8H
+young person8B(1)
+young person at risk8H(2)
