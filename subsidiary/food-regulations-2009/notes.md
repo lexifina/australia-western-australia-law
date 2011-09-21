@@ -3,6 +3,7 @@ This is a compilation of the Food Regulation 2009. The following table contains 
 Compilation table
 Citation | Gazettal | Commencement
 Food Regulations 2009 | 23 Oct 2009 p. 4095-142 | r. 1 and 2: 23 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Oct 2009 (see r. 2(b) and Gazette 23 Oct 2009 p. 4157)
+Food Amendment Regulations 2011 | 20 Sep 2011 p. 3799 | r. 1 and 2: 20 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2011 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
