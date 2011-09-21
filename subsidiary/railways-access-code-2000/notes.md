@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 February 2010 of the Railways (Access) Code 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Railways (Access) Code 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Railways (Access) Code 2000 | 8 Sep 2000 p. 5123-81 | 1 Sep 2001 (see s. 2 and Gazette 28 Aug 2001 p. 4795)
@@ -7,6 +7,7 @@ Railways (Access) Amendment Code 2004 | 23 Jul 2004 p. 2988-97 | 23 Jul 2004 (se
 Railway and Port (The Pilbara Infrastructure Pty Ltd) Agreement Act 2004 Pt. 3 Div. 2 assented to 8 Dec 2004 | 1 Jul 2008 (see s. 2(2) and Gazette 17 Jun 2008 p. 2543)
 Railways (Access) Amendment Code 2009 | 23 Jun 2009 p. 2407-19 | s. 1 and 2: 23 Jun 2009 (see s. 2(a)); Code other than s. 1 and 2: 24 Jun 2009 (see s. 2(b))
 Reprint 1: The Railways (Access) Code 2000 as at 5 Feb 2010 (includes amendments listed above)
+Railways (Access) Amendment Code 2011 | 20 Sep 2011 p. 3801-2 | s. 1 and 2: 20 Sep 2011 (see s. 2(a)); Code other than s. 1 and 2: 21 Sep 2011 (see s. 2(b))
 For notices published under Schedule 4 clause 3(1) see –
 Government Gazette16 Aug 2002 p. 4218; 4 Jul 2003 p. 2720; 6 Jul 2004 p. 2762; 15 Jul 2005 p. 3307-8; 10 Jul 2007 p. 3445; 26 Aug 2008 p. 4039; 26 Jun 2009 p. 2588.
 The Railways (Access) Amendment Code 2004 s. 3(2) reads as follows:
