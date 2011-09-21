@@ -34,6 +34,7 @@ Mines Safety and Inspection Amendment Regulations 2009 | 21 Jul 2009 p. 2918-27 
 Mines Safety and Inspection Amendment Regulations (No. 3) 2009 | 21 Aug 2009 p. 3270 | r. 1 and 2: 21 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Aug 2009 (see r. 2(b))
 Reprint 5: The Mines Safety and Inspection Regulations 1995 as at 16 Oct 2009 (includes amendments listed above except those in the Mines Safety and Inspection Amendment Regulations 2009 r. 18)
 Mines Safety and Inspection Amendment Regulations 2010 | 25 Jun 2010 p. 2871 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+Mines Safety and Inspection Amendment Regulations 2011 | 20 Sep 2011 p. 3800 | r. 1 and 2: 20 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2011 (see r. 2(b))
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Repealed by the Medical Practitioners Act 2008.
 Repealed by the National Occupational Health and Safety Commission (Repeal, Consequential and Transitional Provisions) Act 2005 (Commonwealth).
