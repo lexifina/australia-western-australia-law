@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Juries Act 1957 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 23 September 2011 of the Juries Act 1957 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Juries Act 1957 | 50 of 1957 (6 Eliz. II No. 50) | 9 Dec 1957 | 1 Jul 1960 (see s. 1(2) and Gazette 6 Mar 1959 p. 539)
@@ -11,7 +11,7 @@ Juries Act Amendment Act 1973 | 44 of 1973 | 18 Oct 1973 | 1 Jan 1974 (see s. 2 
 Reprint of the Juries Act 1957 approved 26 Apr 1974 (includes amendments listed above)
 Juries Act Amendment Act 1975 | 64 of 1975 | 24 Oct 1975 | Act other than s. 3 and 4: 24 Oct 1975 (see s. 2(1)); s. 3 and 4: 1 Jan 1976 (see s. 2(2) and Gazette 7 Nov 1975 p. 4123)
 Juries Act Amendment Act 1976 | 34 of 1976 | 9 Jun 1976 | 3 Sep 1976 (see s. 2 and Gazette 3 Sep 1976 p. 3271)
-Juries Amendment Act 1981 | 6 of 1981 | 18 May 1981 | s. 4(a) and (b), and only that part of s. 22 which repeals and substitutes s. 33: 1 Jul 1981 (see s. 2 and Gazette 26 Jun 1981 p. 2285); s. 7(a)-(g), and (i), and 8: 30 Oct 1981 (see s. 2 and Gazette 30 Oct 1981 p. 4467);
+Juries Amendment Act 1981 | 6 of 1981 | 18 May 1981 | s. 4(a) and (b), and only that part of s. 22 which repeals and substitutes s. 33: 1 Jul 1981 (see s. 2 and Gazette 26 Jun 1981 p. 2285); s. 7(a)-(g) and (i), and 8: 30 Oct 1981 (see s. 2 and Gazette 30 Oct 1981 p. 4467);
  |  |  | Act other than s. 4(a) and (b), 6-8, 17 and 22: 12 Mar 1982 (see s. 2 and Gazette 12 Mar 1982 p. 801); s. 6, 7(h) and (j), 17 and that part of s. 22 which inserts s. 33A: 1 Jul 1982 (see s. 2 and Gazette 12 Mar 1982 p. 801)
 Acts Amendment (Abolition of Capital Punishment) Act 1984 Pt. IV | 52 of 1984 | 5 Sep 1984 | 3 Oct 1984
 Juries Amendment Act 1984 | 59 of 1984 | 24 Oct 1984 | s. 1 and 2: 24 Oct 1984; Act other than s. 1 and 2: 1 Jul 1985 (see s. 2 and Gazette 14 Dec 1984 p. 4115)
@@ -61,27 +61,23 @@ Police Amendment Act 2009 s. 20 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 20, 43(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 30 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
-Juries Legislation Amendment Act 2011 Pt. 2 Div. 2, Pt. 3 Div. 1 and Pt. 4 (other than s. 42-44) | 13 of 2011 | 2 May 201 | Pt. 2 Div. 2, Pt. 3 Div. 1 and Pt. 4 (other than s. 42-44): 1 Jul 2011 (see s. 2(b) and Gazette 30 Jun 2011 p. 2613)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Juries Legislation Amendment Act 2011 Pt. 2 Div. 2, Pt. 3 Div. 1 and Pt. 4 (other than s. 42-44) | 13 of 2011 | 2 May 201 | 1 Jul 2011 (see s. 2(b) and Gazette 30 Jun 2011 p. 2613)
+Reprint 7: The Juries Act 1957 as at 23 Sep 2011 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 Juries Legislation Amendment Act 2011 s. 42-44 | 13 of 2011 | 2 May 2011 | To be proclaimed (see s. 2(b))
-Repealed by the Interpretation Act 1984.
+The Criminal Code s. 282 and 679 have been deleted.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
-The Juries Amendment Act 1984 s. 25 reads as follows:
-25.Saving
-A certificate of permanent exemption issued or purporting to have been issued pursuant to section 34A(2) of the principal Act as in force before the day that this Act comes into operation and in force before that day shall continue to have effect for the purposes of the principal Act after that day and, notwithstanding anything in the principal Act, the person with respect to whom the certificate is issued is not liable to serve as a juror.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 contains savings and transitional provisions that are of no further effect.
 The Juries Amendment Act 2003 s. 5(2) is a savings provision that is of no further effect.
-On the date as at which this compilation was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) had not come into operation. It reads as follows:
 39.Second Schedule amended
 (1) The Second Schedule Part I item 2(i) is deleted and the following item is inserted instead —
-“
 (i) Officer or employee of the department of the Public Service principally assisting in the administration of this Act, other than an officer in the Public Trust Office;
-”.
 The amendment to the Second Schedule, Pt. I it. (2)(i) in the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) would not be included because the item it seeks to amend was repealed by the Prisons and Sentencing Legislation Amendment Act 2006 s. 66.
-On the date as at which this compilation was prepared, the Juries Legislation Amendment Act 2011 s. 42-44 had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Juries Legislation Amendment Act 2011 s. 42-44 had not come into operation. They read as follows:
 Part 4 — Miscellaneous amendments
 42.Sections 55 and 56 replaced
 Delete sections 55 and 56 and insert:
@@ -164,6 +160,7 @@ protected information56A(1)
 publish56A(1)
 relevant period5(1)
 sheriff3(1)
+summoned34C
 summoning officer3(1)
 summons and notice list33(2)
 Supreme Court3(1)
