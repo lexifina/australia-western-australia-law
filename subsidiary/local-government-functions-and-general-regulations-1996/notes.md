@@ -19,6 +19,7 @@ Local Government (Functions and General) Amendment Regulations (No. 2) 2005 | 31
 Reprint 2: The Local Government (Functions and General) Regulations 1996 as at 20 Jan 2006 (includes amendments listed above)
 Local Government (Functions and General) Amendment Regulations 2007 | 2 Feb 2007 p. 244-6 | 30 Mar 2007 (see r. 2)
 Local Government (Functions and General) Amendment Regulations 2009 | 20 Nov 2009 p. 4659-60 | r. 1 and 2: 20 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Nov 2009 (see r. 2(b) and Gazette 20 Nov 2009 p. 4649)
+Local Government (Functions and General) Amendment Regulations 2011 | 27 Sep 2011 p. 3843-7 | r. 1 and 2: 27 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Sep 2011 (see r. 2(b))
 The Local Government Act 1995 came into operation on 1 July 1996.
 The Local Government (Functions and General) Amendment Regulations 2001 r. 11 reads as follows:
 “
