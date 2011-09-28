@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 16 September 2011 of the Liquor Control Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Liquor Control Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Liquor Licensing Regulations 1989 | 27 Jan 1989 p. 209-61 | 1 Feb 1989 (see r. 2 and Gazette 27 Jan 1989 p. 263)
@@ -92,6 +92,7 @@ Liquor Control Amendment Regulations (No. 7) 2011 | 27 May 2011 p. 1934-5 | r. 1
 Liquor Control Amendment Regulations (No. 3) 2011 | 3 Jun 2011 p. 1994-2002 | Pt. 1: 3 Jun 2011 (see r. 2(a)); Regulations other than Pt. 1: 7 Jun 2011 (see r. 2(b) and Gazette 3 Jun 2011 p. 1975)
 Liquor Control Amendment Regulations (No. 5) 2011 | 15 Jul 2011 p. 2955-66 | r. 1 and 2: 15 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jul 2011 (see r. 2(b))
 Reprint 10: The Liquor Control Regulations 1989 as at 16 Sep 2011 (includes amendments listed above)
+Liquor Control Amendment Regulations (No. 8) 2011 | 27 Sep 2011 p. 3847-8 | r. 1 and 2: 27 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Sep 2011 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
 Repealed by the Aged Care Amendment Act 2011 (Cwlth).
@@ -178,4 +179,3 @@ wholesaler3A(1)
 wine produced by a producer21A(3)
 worker9A(3)
 works canteen9A(3)
-By Authority: JOHN A. STRIJK, Government Printer
