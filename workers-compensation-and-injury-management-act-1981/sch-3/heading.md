@@ -31,5 +31,6 @@ Occupational asthma caused by sensitizing agents or irritants inherent to the wo
 Extrinsic allergic alveolitis caused by the inhalation of organic dusts | Any process entailing exposure to organic dusts.
 Diseases caused by alcohols, glycols or ketones | Any process entailing exposure to alcohols, glycols or ketones.
 Diseases caused by the asphyxiants carbon monoxide, hydrogen cyanide or its toxic derivatives or hydrogen sulfide | Any process in which carbon monoxide, hydrogen cyanide or its toxic derivatives or hydrogen sulfide is used.
+Diffuse pleural fibrosis | Any process entailing substantial exposure to asbestos dust.
 * See section 48(2)
-[Schedule 3 amended by No. 44 of 1985 s. 43; No. 48 of 1993 s. 42; (see Orders made under s. 45).]
+[Schedule 3 amended by No. 44 of 1985 s. 43; No. 48 of 1993 s. 42; (see Orders made under s. 45); No. 31 of 2011 s. 124.]

@@ -70,13 +70,14 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 50 | 35 of 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 9: The Workers’ Compensation and Injury Management Act 1981 as at 25 Feb 2011 (includes amendments listed above)
 Petroleum and Energy Legislation Amendment Act 2010 s. 186 | 42 of 2010 | 28 Oct 2010 | 25 May 2011 (see s. 2(b) and Gazette 24 May 2011 p. 1892)
+Workers’ Compensation and Injury Management Amendment Act 2011 | 31 of 2011 | 31 Aug 2011 | s. 1 and 2: 31 Aug 2011 (see s. 2(a)); s. 3 and Pt. 3 other than s. 123(2)-(7): 1 Oct 2011 (see s. 2(b) and Gazette 23 Sep 2011 p. 3811)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 (as amended by No. 42 of 2004 s. 155) | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Workers’ Compensation and Injury Management Amendment Act 2011 s. 3, Pt. 2 Div. 1 and 2, Pt. 3 Div 1 | 31 of 2011 | 31 Aug 2011 | To be proclaimed (see s. 2(b))
-Repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009. Now see Fair Work Act 2009 (Cwlth).
+Workers’ Compensation and Injury Management Amendment Act 2011 Pt. 2 Div. 1 and 2 and s. 123(2)-(7) | 31 of 2011 | 31 Aug 2011 | To be proclaimed (see s. 2(b))
+Footnote no longer applicable.
 The name of the State Government Insurance Commission was changed to the Insurance Commission of Western Australia by the Acts Amendment (ICWA) Act 1996 s. 8 (see also note 47).
 Under the Acts Amendment (ICWA) Act 1996 s. 31(2)(h), a reference to the State Government Insurance Corporation in a written law is, unless because of the context it would be inappropriate so to do, to be construed, or have effect, as if it had been amended to be a reference to the Insurance Commission of Western Australia (see also note 47).
 Repealed by the Industrial Relations (Consequential Provisions) Act 1998 (Cwlth). Now see Fair Work Act 2009 (Cwlth).
@@ -414,9 +415,7 @@ Section 5(1) | (a)After the definition of industrial disease premium, insert the
 Section 162(1) | Delete “State Government Insurance Commission”, substitute “Insurance Commission of Western Australia”.
 Section 163 | Delete “State Government Insurance Commission”, substitute “Insurance Commission of Western Australia”.
 [Item 16 amended by No. 42 of 2004 s. 155(2)(a).]
-On the date as at which this compilation was prepared, the Workers’ Compensation and Injury Management Amendment Act 2011 s. 3, Pt. 2 Div. 1 and 2, Pt. 3 Div 1 had not come into operation. They read as follows:
-3.Act amended
-This Act amends the Workers’ Compensation and Injury Management Act 1981.
+On the date as at which this compilation was prepared, the Workers’ Compensation and Injury Management Amendment Act 2011 Pt. 2 Div. 1 and 2 and s. 123(2)-(7) had not come into operation. They read as follows:
 Part 2 — Amendments about dispute resolution
 Division 1 — Main amendments
 4.Section 177 replaced
@@ -1158,374 +1157,7 @@ s. 182(4) | s. 183(7)
 s. 188(2)(a) | s. 193(5)
 s. 195(5) | s. 199(b)
 s. 200(1) and (2) | s. 213(1)(a) and (3)(a)
-Part 3 — Other amendments
-Division 1 — Amendments
-78.Long title amended
-In the long title delete “and a Dispute Resolution Directorate,” and insert:
-to provide for the resolution of disputes,
-79.Section 3 amended
-Delete section 3(a), (b), (ba) and (c) and insert:
-(a) to establish a workers’ compensation scheme for Western Australia dealing with —
-(i) compensation payable to or in respect of workers who suffer an injury; and
-(ii) the management of workers’ injuries in a manner directed at enabling injured workers to return to work; and
-(iii) specialised retraining programs for injured workers; and
-(iv) ancillary and related matters;
-and
-(b) to establish WorkCover WA to oversee the operation of the workers’ compensation scheme; and
-(c) to provide for the resolution of disputes under this Act;
-80.Section 5 amended
-(1) In section 5(1) in the definition of industrial award delete paragraph (d) and insert:
-(d)an award, order, agreement or other instrument —
-(i)of a class prescribed by the regulations; and
-(ii)under a law of the State or the Commonwealth prescribed by the regulations,
-(2) In section 5(1) in the definition of relevant employment paragraph (b) delete “pneumoconiosis or mesothelioma,” and insert:
-pneumoconiosis, mesothelioma, lung cancer or diffuse pleural fibrosis,
-(3) In section 5(1) in the definition of worker:
-(a) in the first paragraph of the definition delete “1892, or except as hereinafter provided in this definition a member of the employer’s family dwelling in his house;” and insert:
-1892;
-(b) in the second paragraph of the definition delete the passage that begins with “injury, and any” and continues to the end of the paragraph and insert:
-injury;
-81.Section 10A amended
-(1) In section 10A(2) after “unless” insert:
-and to the extent that
-(2) In section 10A(4) delete “Act — ” and insert:
-Act other than section 174(1AA) —
-82.Section 24A amended
-(1) In section 24A(2)(b)(ii):
-(a) delete “where the worker has reached the age of 65 years or on the worker’s retirement from work before that age,”;
-(b) delete “hearing.” and insert:
-hearing and at the time of the subsequent election the worker is retired from work.
-(2) In section 24A(3)(a) delete “work before attaining the age of 65 years;” and insert:
-work; and
-(3) In section 24A(4) delete “years.” and insert:
-years if the hearing loss occurred before the day on which the Workers’ Compensation and Injury Management Amendment Act 2011 section 82 comes into operation.
-83.Section 31E amended
-(1) In section 31E(3)(b)(ii) —
-(a) delete “where the worker has reached the age of 65 years or on the worker’s retirement from work before that age,”;
-(b) delete “hearing.” and insert:
-hearing and at the time of the subsequent election the worker is retired from work.
-(2) In section 31E(4)(a) delete “work before attaining the age of 65 years; and” and insert:
-work; and
-(3) In section 31E(5) delete “years.” and insert:
-years if the hearing loss occurred before the day on which the Workers’ Compensation and Injury Management Amendment Act 2011 section 83 comes into operation.
-84.Section 32 amended
-In section 32 delete “or lung cancer,” and insert:
-lung cancer, or diffuse pleural fibrosis,
-85.Section 33 amended
-In section 33:
-(a) in paragraph (c) delete “lung cancer,” and insert:
-lung cancer; or
-(b) after paragraph (c) insert:
-(d) on or after 19 September 2009, diffuse pleural fibrosis,
-(c) delete “or lung cancer,” and insert:
-lung cancer or diffuse pleural fibrosis,
-Note:The heading to amended section 33 is to read:
-Pneumoconiosis, mesothelioma, lung cancer or diffuse pleural fibrosis
-86.Section 38 amended
-In section 38(1):
-(a) in paragraph (a) delete “mesothelioma or lung cancer?” and insert:
-mesothelioma, lung cancer or diffuse pleural fibrosis?
-(b) in paragraph (c)(iii) delete “cancer,” and insert:
-cancer; or
-(c) after paragraph (c)(iii) insert:
-(iv) diffuse pleural fibrosis,
-(d) after each of subparagraphs (i) and (ii) insert:
-or
-87.Section 41 amended
-In section 41(1) delete “or lung cancer,” and insert:
-lung cancer or diffuse pleural fibrosis,
-88.Section 56 amended
-(1) In section 56 delete “Subject” and insert:
-(1) Subject to subsection (2) and
-(2) At the end of section 56 insert:
-(2) An entitlement of a worker to weekly payments of compensation for incapacity for work resulting from an injury under this Act is not to cease under subsection (1) if the injury occurs on or after the date on which the Workers’ Compensation and Injury Management Amendment Act 2011 section 88 comes into operation.
-89.Section 57 amended
-In section 57 delete “18A(1c).” and insert:
-18A(1CA) and (1C).
-90.Section 57A amended
-(1) In section 57A(1):
-(a) in paragraph (a) delete “has been” and insert:
-is
-(b) after paragraph (a) insert:
-(ba) the employer is indemnified by a policy of insurance against liability to pay the compensation claimed; and
-(c) in paragraph (b) delete “has served” and insert:
-serves
-(d) in paragraph (b)(ii) delete “been served,” and insert:
-been served.
-(e) delete “and the employer is indemnified by a policy of insurance against his liability to pay the compensation claimed.”
-(2) After section 57A(1) insert:
-(2A) In the circumstances mentioned in subsection (1), before the expiration of 5 full working days the employer must claim under and in accordance with his or her policy of insurance in respect of liability to pay the compensation claimed.
-Penalty: a fine of $1 000.
-(3) In section 57A(2):
-(a) delete “3 full working days” and insert:
-5 full working days
-(b) delete “3 working days” and insert:
-5 working days
-(4) In section 57A(7):
-(a) delete “as soon as practicable” and insert:
-not later than 14 days
-(b) in paragraph (a) delete “insurer; and” and insert:
-insurer; or
-(c) in paragraph (b) delete “the worker has complied with the requirements of sections 178 and 179 or,”;
-(d) in paragraph (b) delete “subsection notwithstanding that those requirements have not been complied with,” and insert:
-subsection,
-(5) After section 57A(7) insert:
-(8A) An employer who fails to make a weekly payment by the due date under subsection (7) commits an offence.
-Penalty for each weekly payment not made when due: a fine of $2 000.
-91.Section 57B amended
-After section 57B(7) insert:
-(8) An employer who fails to make a weekly payment by the due date under subsection (2), (4) or (7) commits an offence.
-Penalty for each weekly payment not made when due: a fine of $2 000.
-92.Section 58 amended
-In section 58(1)(a) delete “17 days” and insert:
-19 days
-93.Section 67 amended
-(1) Delete section 67(5) and insert:
-(5) Where an order is made under subsection (1)(a) or (4), or an agreement is made under subsection (1)(b) and registered under Division 7, for the redemption of a liability for incapacity, from —
-(a) the date specified in the order or agreement as the date on which weekly payments of compensation are to cease; or
-(b) if no such date is specified, the date of the order or the date of registration of the agreement, as the case may be,
-the worker is not entitled to further weekly payments of compensation for incapacity, and clauses 9, 10, 17, 18, 18A and 19 cease to apply to the worker.
-(2) After section 67(6) insert:
-(7) Where an order is made under subsection (1)(a) or (4), or an agreement is made under subsection (1)(b) and registered under Division 7, for the redemption of a liability for incapacity the employer must pay or cause to be paid the lump sum within 14 days after the date referred to in subsection (5).
-Penalty: a fine of $2 000.
-94.Section 71 amended
-(1) In section 71:
-(a) delete “Where” and insert:
-(1) Where
-(b) delete “and to make” and insert:
-and, subject to subsection (3), to make
-(2) At the end of section 71 insert:
-(2) Without limiting the orders that may be made under subsection (1), the arbitrator may, instead of making an order for a refund, order any person who the arbitrator determines was liable for the whole or any part of the compensation or expenses to reimburse the person who paid the compensation or expenses.
-(3) If the payment of compensation or expenses was in accordance with an order of an arbitrator, the arbitrator hearing and determining an application under subsection (1) may make an order for a refund only if satisfied that the claim for the payment was fraudulent or made without proper justification.
-(4) If —
-(a) the arbitrator makes or, apart from subsection (3), would have made an order for a refund of an amount of compensation or expenses; or
-(b) makes an order under subsection (2) in relation to such an amount,
-the amount is to be excluded from any determinations of the claims experience of the employer for the purposes of calculating the premium payable by the employer for a policy of insurance.
-95.Section 83 amended
-(1) In section 83(1) delete “award or certified agreement as those terms are defined in the Workplace Relations Act 1996 of the Commonwealth,” and insert:
-prescribed Commonwealth award or agreement,
-(2) After section 83(1) insert:
-(2A) In subsection (1) —
-prescribed Commonwealth award or agreement means an award, order, agreement or other instrument —
-(a)of a class prescribed by the regulations; and
-(b)under a law of the Commonwealth prescribed by the regulations.
-96.Section 93K amended
-Delete section 93K(4)(c) and “and” after it and insert:
-(c) court proceedings seeking the damages are commenced after the Director gives the worker written notice that the Director has registered the election; and
-97.Section 100 replaced
-Delete section 100 and insert:
-100.Functions of WorkCover WA
-The functions of WorkCover WA are to ensure the efficient and effective operation of the workers’ compensation scheme established by this Act and without limiting the generality of the foregoing —
-(a) to monitor compliance with the workers’ compensation scheme by employers, insurers and others participating in or affected by the workers’ compensation scheme; and
-(b) to control and administer the General Account and the Trust Account; and
-(c) to promote and co-ordinate the management and treatment of accidents, injuries, losses of functions and diseases in respect of which compensation may be payable under this Act; and
-(d) to fix insurance premium rates and perform the related functions conferred upon it by Part VIII; and
-(e) to resolve or assist in resolving disputes under this Act through conciliation and arbitration; and
-(f) to obtain from insurers, self insurers and others who participate in or provide services in connection with the workers’ compensation scheme data enabling WorkCover WA to compile and record such statistics, records and reports as it considers necessary or desirable for the operation of the workers’ compensation scheme and administration of this Act; and
-(g) to review the sufficiency of the data provided to WorkCover WA by insurers, self insurers and others who participate in or provide services in connection with the workers’ compensation scheme, and whether or not criteria developed by WorkCover WA or prescribed by the regulations for assessing the performance of those persons are being met; and
-(h) to promote awareness of and disseminate information about the workers’ compensation scheme; and
-(i) to undertake research to advance or support the purposes of the Act or the performance of the other functions of WorkCover WA; and
-(j) to promote the prevention of accidents, injuries, losses of functions, and diseases of a kind in respect of which compensation may be payable under this Act; and
-(k) to advise the Minister on —
-(i) matters to do with insurance that is required by this Act; and
-(ii) WorkCover WA’s functions under this Act; and
-(iii) the policy to be followed in the State with regard to workers’ compensation; and
-(iv) any other matter referred by the Minister to WorkCover WA for its advice.
-98.Section 101 amended
-After section 101(c) insert:
-(caa) to effect contracts of insurance providing indemnity against liability to make payments out of moneys standing to the credit of the General Account; and
-99.Section 106 amended
-(1) In section 106(2):
-(a) in paragraph (d) delete “1980.” and insert:
-1980; and
-(b) after paragraph (d) insert:
-(e) the proceeds of any insurance policy effected under section 101(caa).
-(2) After section 106(3)(da) insert:
-(db) the premiums due under any insurance policy effected under section 101(caa); and
-100.Section 146H amended
-Delete section 146H(4).
-101.Section 151 amended
-In section 151(a)(iii) delete “pneumoconiosis and mesothelioma” and insert:
-pneumoconiosis, mesothelioma, lung cancer and diffuse pleural fibrosis
-102.Section 155E inserted
-After section 155D insert:
-155E.Notice of requirements of sections 155C and 155D
-If WorkCover WA is of the opinion that a worker’s injury should be reviewed to determine whether a return to work program should be established for the worker, WorkCover WA may —
-(a) notify the worker, the worker’s employer and the employer’s insurer of that opinion; and
-(b) inform those persons of the requirements of sections 155C and 155D and their obligations under those provisions.
-103.Section 157A deleted
-Delete section 157A.
-104.Section 159 inserted
-At the beginning of Part X Division 1 insert:
-159.Terms used
-In this Part —
-compensable injury means an injury for which an employer is liable;
-damages means damages due, claimed or paid independently of this Act;
-liable, in relation to a compensable injury, means liable to pay compensation in accordance with this Act;
-remuneration means —
-(a)unless regulations provide that it is not to be treated as remuneration for the purposes of this definition, any amount of any of the following —
-(i)wages;
-(ii)salaries;
-(iii)sums paid to workers under an agreement to perform —
-(I) a specified quantity of work for a specified sum; or
-(II) work on piece rates; or
-(III) work on a bonus or commission system for payment by results;
-and
-(b)any other amount which regulations provide is to be treated as remuneration for the purposes of this definition, not being —
-(i)an amount paid by way of compensation under this Act; or
-(ii)an amount paid by way of damages in respect of a compensable injury.
-105.Section 160 amended
-(1) Delete section 160(1) and (2) and insert:
-(1) Subject to this Act, every employer shall obtain from an approved insurance office and shall keep current a policy of insurance for —
-(a) the full amount of the employer’s liability to pay compensation under this Act to any worker employed by the employer including any increase in amount occurring during currency of the policy; and
-(b) the full amount of the employer’s liability to pay damages to any worker employed by the employer in respect of a compensable injury for which the employer is liable.
-(2) An employer obliged by this section to effect or renew a policy of insurance shall, on applying to an approved insurance office, for that purpose, furnish to that office an estimate, made to the best of that employer’s knowledge, information and belief, of the aggregate amount of remuneration to be paid or payable over the period for which the policy is to be effected or renewed, and shall forthwith after the termination of that period —
-(a) furnish a statement of the aggregate amount of remuneration paid or payable in fact; and
-(b) include in that statement every sum paid during that period to an employee in respect of overtime worked by the employee.
-(2) In section 160(2b)(a) delete “the wages, salary and other remuneration paid” and insert:
-remuneration paid or payable
-(3) In section 160(3) delete “pay compensation under this Act to all workers employed by him.” and insert:
-pay to all workers employed by the employer —
-(a) compensation under this Act; and
-(b) damages in respect of compensable injuries for which the employer is liable.
-(4) In section 160(4):
-(a) in paragraph (a) delete “Act; and” and insert:
-Act or damages in respect of compensable injuries for which the employer is liable; and
-(b) in paragraph (b) delete “compensation under this Act” and insert:
-such compensation or such damages
-106.Section 161A amended
-In section 161A after “Act” insert:
-or damages in respect of compensable injuries for which the employer is liable
-107.Section 164 amended
-In section 164(1) delete “Act for” and insert:
-Act for, or to pay damages in respect of,
-108.Section 165 amended
-(1) Delete section 165(2)(d) and insert:
-(d) any change in the extent of the liability to pay compensation under this Act, or to pay damages in respect of compensable injuries for which the employer is liable, since the last review.
-(2) In section 165(3)(a) delete “compensation; or” and insert:
-compensation or damages in respect of compensable injuries for which the employer is liable; or
-(3) In section 165(4)(b):
-(a) in subparagraph (i) delete “under this Act,” and insert:
-for which insurance would, but for the exemption, be required by this Act,
-(b) in subparagraph (ii) delete “under this Act.” and insert:
-for which insurance would, but for the exemption, be required by this Act.
-109.Section 168 amended
-In section 168(b):
-(a) delete subparagraph (iii) and insert:
-(iii) there are no outstanding or potential claims for compensation or actions for damages in respect of an injury for which the employer is or may be liable; or
-(b) in subparagraph (iv) delete “claims for compensation,” and insert:
-or potential claims or actions,
-110.Section 171 amended
-In section 171(1)(a) delete “with the insurance office concerned against liability under this Act; and” and insert:
-required by this Act with the insurance office concerned; and
-111.Section 172 amended
-In section 172:
-(a) delete “wages, salary and other forms of”;
-(b) in paragraph (a) delete “wages, salary, and other forms of”.
-112.Section 173 amended
-In section 173(1):
-(a) after “currency of a contract” insert:
-under this Act
-(b) delete “liability under this Act” and insert:
-liability
-(c) in paragraph (a) delete “insurer; and” and insert:
-insurer that the employer otherwise would have had under the contract; and
-(d) in paragraph (b) delete “the liability,” and insert:
-that liability that the employer otherwise would have had to that worker and in respect of that liability.
-(e) delete “that the employer otherwise would have had under the contract.”
-113.Section 174 amended
-(1) After section 174(1) insert:
-(1AA) Where —
-(a) on or after the day on which the Workers’ Compensation and Injury Management Amendment Act 2011 section 113 comes into operation, an action for damages is brought by a worker against the worker’s employer in respect of a compensable injury; and
-(b) before that day no claim for compensation under this Act has been made in respect of the same injury; and
-(c) the action —
-(i) proceeds to judgment, including the acceptance of an offer to consent to judgment, against the employer and damages are awarded to the worker against the employer; or
-(ii) is settled by an agreement of the kind described in section 92(f) made between the worker and WorkCover WA, in the exercise of its powers under section 174AB(1), under which damages are to be paid to the worker;
-and
-(d) the employer is not insured under this Act against the employer’s liability to pay damages to the worker or the case is one to which section 173(2) applies or the employer’s insurer declines to indemnify the employer against the worker’s claim for damages; and
-(e) the employer does not pay the damages awarded or agreed within 60 days after the date payment is due under the judgment or agreement,
-subject to section 174AAA, WorkCover WA is to pay to the worker from moneys standing to the credit of the General Account the amount required to satisfy the judgment or agreement and any order against the employer for costs in respect of the action.
-(2) In section 174(1a) delete “under this Act in relation to the payment of that award.” and insert:
-in relation to the payment of that amount.
-(3) In section 174(3) after “satisfy an award” insert:
-of compensation in accordance with this Act
-(4) In section 174(5a) after “pay compensation” insert:
-or damages
-(5) In section 174(6) after “subsection (1)” insert:
-or (1AA)
-(6) In section 174(9):
-(a) delete “by reason of section 175”;
-(b) after “to a worker,” insert:
-or to pay damages to a worker in respect of a compensable injury,
-114.Section 174AAA inserted
-After section 174 insert:
-174AAA. Setting aside judgments and agreements
-(1) If —
-(a) an action brought by a worker as described in section 174(1AA)(a) proceeds to judgment as described in section 174(1AA)(c)(i) or is settled by an agreement of the kind described in section 174(1AA)(c)(ii); and
-(b) a claim on the General Account is made under section 174(1AA) in respect of any amount due under the judgment or agreement,
-WorkCover WA may apply to the Supreme Court for an order setting aside the judgment or agreement.
-(2) The Supreme Court may set aside the judgment or agreement if satisfied that there are reasonable grounds for believing that the employer has not taken all reasonable steps to protect the employer’s own interests.
-(3) If the Supreme Court sets the judgment or agreement aside the costs of the respondent in relation to the application are to be paid from the General Account unless the Supreme Court orders otherwise.
-(4) The Supreme Court may make an order about costs under subsection (3) only if satisfied that it is appropriate to make the order because of the special circumstances surrounding the giving of the judgment or the making of the agreement.
-(5) If a judgment or agreement is set aside under this section —
-(a) the judgment or agreement is taken never to have had effect for the purpose of any proceeding in any court; and
-(b) evidence of a statement or communication, or a part of a statement or communication, tending to establish the existence of the agreement is not admissible in any proceeding in a court, unless the Supreme Court orders otherwise.
-(6) The Supreme Court may make an order under subsection (5)(b) only if satisfied that the admission of the evidence is necessary to avoid injustice to a party to the proceeding.
-115.Section 174AB amended
-(1) In section 174AB(1):
-(a) delete “is uninsured and is not defending a claim brought by a worker, WorkCover WA has all of the rights of the employer under this Act” and insert:
-against whom a claim for compensation under this Act, or an action for damages in respect of a compensable injury for which the employer is liable, is brought by a worker is uninsured, WorkCover WA has all of the rights of the employer as the party against whom the claim or action is brought
-(b) after paragraph (a) insert:
-(ba) consent to a judgment being given in a proceeding before a court; and
-(c) in paragraph (b) delete “claim; and” and insert:
-claim or compromise of the action; and
-(d) in paragraph (c) delete “claim; and” and insert:
-claim or action; and
-(2) Delete section 174AB(2), (3) and (4).
-116.Section 174AC replaced
-Delete section 174AC and insert:
-174AC.WorkCover WA’s rights of indemnity and subrogation
-If WorkCover WA has paid, or is liable to pay, from the General Account an amount as compensation or damages for which an employer is liable, WorkCover WA is subrogated to —
-(a) any right of the employer to indemnity from an insurer in respect of that payment; and
-(b) any right of the employer and any insurer of the employer to recover any amount from any other person in respect of that payment (had the payment been made by the employer or insurer), whether the right arises by way of liability for contribution, apportionment of liability or otherwise.
-174AD.Employer’s duty to assist WorkCover WA
-(1) Where under section 174AB or 174AC WorkCover WA has or is subrogated to any right of an employer, WorkCover WA may by notice in writing require the employer to —
-(a) give WorkCover WA any information and assistance which WorkCover WA considers necessary or desirable in relation to the exercise or proposed exercise of the right; and
-(b) provide to WorkCover WA any documents in the employer’s possession or control which WorkCover WA considers necessary or desirable in relation to the exercise or contemplated exercise of the right; and
-(c) execute any documents or instruments which may be necessary to enable WorkCover WA to exercise the right, or to ratify or confirm any exercise or purported exercise of the right by WorkCover WA.
-(2) An employer must comply with any requirement made under subsection (1).
-Penalty: a fine of $5 000.
-117.Section 174A amended
-In section 174A(1):
-(a) delete “claimed under this Act” and insert:
-or damages in respect of a compensable injury for which the employer is liable
-(b) before “claimed,” insert:
-or damages are
-118.Section 175 amended
-After section 175(7) insert:
-(8) Nothing in this section makes either a principal or a contractor liable to pay any damages which, but for this section, the principal or contractor would not be liable to pay.
-119.Section 175A amended
-(1) In section 175A(1) delete “WorkCover WA” and insert:
-The chief executive officer
-(2) In section 175A(4) delete “Chairman of WorkCover WA” and insert:
-chief executive officer
-(3) After section 175A(5) insert:
-(6) If, immediately before the commencement of the Workers’ Compensation and Injury Management Amendment Act 2011 section 119, a person was an inspector authorised by WorkCover WA under subsection (1), as in force at that time, the person is taken to have been authorised as an inspector by the chief executive officer.
-(7) If, immediately before the commencement of the Workers’ Compensation and Injury Management Amendment Act 2011 section 119, a person authorised as an inspector held a certificate issued by the Chairman of WorkCover WA under subsection (4), as in force at that time, the person is taken to hold a certificate issued by the chief executive officer.
-120.Section 178 amended
-After section 178(1) insert:
-(2A) For the purposes of showing that the employer has not been prejudiced in defending the proceedings for subsection (1)(d), the period from the occurrence of the injury, or from the time of death, to the time the claim is made is to be taken into account.
-121.Section 270A inserted
-After section 269 insert:
-270A.Remuneration
-(1) A member of the Costs Committee is entitled to be paid such fees and allowances as may be determined by the Minister on the recommendation of the Public Sector Commissioner.
-(2) The fees and allowances mentioned in subsection (1) are to be paid by WorkCover WA from moneys standing to the credit of the General Account.
-122.Section 277 amended
-In section 277(1)(b) delete “Workplace Relations Act 1996 of the Commonwealth;” and insert:
-Fair Work (Registered Organisations) Act 2009 (Commonwealth) or under another law of the Commonwealth prescribed by the regulations;
 123.Schedule 1 amended
-(1) In Schedule 1 clause 7(4) delete “18A(1c).” and insert:
-18A(1CA) and (1C).
 (2) In Schedule 1 clause 11(2) delete the definitions of:
 Amount A
 Amount D
@@ -1545,60 +1177,24 @@ Amount Aa.
 one year mentioned in subclause (5), or if for part of that period the worker was not in the employment that the worker is in on the date of incapacity,
 (7) In Schedule 1 clause 11(7) delete “Amount D” and insert:
 Amount Aa
-(8) In Schedule 1 clause 16(2) delete “any percentage increase in wages ordered in a National Wage Decision made under the Conciliation and Arbitration Act 1904 of the Commonwealth as a result, inter alia, of consumer price index movements.” and insert:
-any percentage increase in minimum wages resulting from —
-(a) a national minimum wage order made under the Fair Work Act 2009 (Commonwealth); or
-(b) any other instrument determining or regulating minimum wages prescribed by the regulations in place of national minimum wage orders.
-(9) Before Schedule 1 clause 18A(1) insert:
-(1AA) In this clause —
-reasonable expenses referred to in clause 17(1) includes the vehicle running expenses, reasonable fares and expenses and reasonable cost of meals and lodging referred to in clause 19(1).
-(10) In Schedule 1 clause 18A(1) delete “subclauses (1c)(a) and (2),” and insert:
-subclauses (1CA) and (2),
-(11) In Schedule 1 clause 18A(1a) delete “subclauses (1c)(a) and (2),” and insert:
-subclauses (1CA) and (2),
-(12) In Schedule 1 clause 18A(1b) delete “subclauses (1c)(b)” and insert:
-subclauses (1C)
-(13) Delete Schedule 1 clause 18A(1c) and insert:
-(1CA) In the exercise of a discretion under subclause (1) or (1a), an arbitrator is not to allow an additional sum which exceeds, or additional sums which in aggregate exceed —
-(a) $50 000; less
-(b) any sum or sums in excess of the maximum amount provided by clause 17(1) that the insurer or employer has voluntarily paid in respect of reasonable expenses referred to in that clause.
-(1C) In the exercise of a discretion under subclause (1b), an arbitrator is not to allow a further additional sum which exceeds, or further additional sums which in aggregate exceed —
-(a) the prescribed amount; less
-(b) any sum or sums in excess of the maximum amount provided by clause 17(1) that the insurer or employer has voluntarily paid in respect of reasonable expenses referred to in that clause.
-(14) In Schedule 1 clause 18A(1d) delete “subclause (1c)(b) —” and insert:
-subclause (1C) —
-(15) In Schedule 1 clause 18A(3)(a)(ii) delete “$30 000;” and insert:
-$30 000, less any sum or sums in excess of the maximum amount provided by clause 17(1) that the insurer or employer has voluntarily paid in respect of reasonable expenses referred to in that clause;
-(16) In Schedule 1 clause 18A(4)(b) delete “$30 000.” and insert:
-$30 000, less any sum or sums in excess of the maximum amount provided by clause 17(1) that the insurer or employer has voluntarily paid in respect of reasonable expenses referred to in that clause.
-(17) Before Schedule 1 clause 18D(1) insert:
-(1A) In this clause —
-reasonable expenses referred to in clause 17(1) includes the vehicle running expenses, reasonable fares and expenses and reasonable cost of meals and lodging referred to in clause 19(1).
-(18) After Schedule 1 clause 19(2) insert:
-(3A) In any case where a worker travels for the worker’s degree of impairment to be assessed by an approved medical specialist or an approved medical specialist panel, the employer is liable to pay the worker’s vehicle running expenses, reasonable fares and expenses and reasonable cost of meals and lodging —
-(a) as if subclause (1), with any necessary modifications, applied to the travelling; and
-(b) if the worker proves that the travelling was necessary in the circumstances of the case.
-124.Schedule 3 amended
-In Schedule 3 after the item relating to Diseases caused by the asphyxiants insert:
-Diffuse pleural fibrosis | Any process entailing substantial exposure to asbestos dust.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 a State’s legislation about damages for a work related injury93AE
 additional medical examination66A(1)
-adjacent areaSch. 6 cl. 2(1)-(4)
+adjacent areaSch. 6, cl. 2(1), 6, cl. 2(2), 6, cl. 2(3), 6, cl. 2(4)
 agent261
 agent service261
 agreed93E(1)
 AIDS31F(1), 93Q(8)
 AMA Guides93CA
 amendment day24(1), 31A(1)
-Amount A93F(8), 93K(12), Sch. 1 cl. 11(2)
-Amount AaSch. 1 cl. 11(2)
-Amount BSch. 1 cl. 11(2)
-Amount CSch. 1 cl. 11(2)
-Amount DSch. 1 cl. 11(2)
-Amount ESch. 1 cl. 11(2)
+Amount A93F(8), 93K(12), Sch. 1, cl. 11(2)
+Amount AaSch. 1, cl. 11(2)
+Amount BSch. 1, cl. 11(2)
+Amount CSch. 1, cl. 11(2)
+Amount DSch. 1, cl. 11(2)
+Amount ESch. 1, cl. 11(2)
 another State93AF(2)
 approved insurance office5(1)
 approved medical specialist5(1)
@@ -1606,10 +1202,10 @@ approved medical specialist panel5(1)
 approved treatment5(1)
 approved vocational rehabilitation provider5(1)
 arbitrator5(1)
-audiometric testSch. 7 cl. 1
+audiometric testSch. 7, cl. 1
 auditor175B(2)
 authorised officer175E
-bonus or allowanceSch. 1 cl. 11(2)
+bonus or allowanceSch. 1, cl. 11(2)
 Chairman of WorkCover WA5(1)
 chief executive officer5(1)
 child’s allowance5(1)
@@ -1617,13 +1213,14 @@ chiropractor5(1)
 claim for compensation by way of weekly payments93M(2)
 clause5(1)
 code155
-commencement day93EA(4)(b)(i), 93EB(4)(b)(i)
+commencement day93EA(4), 93EB(4)
 Commissioner5(1)
-company5(1), 10A(1), 175AA(1)(c)(i)
+company5(1), 10A(1), 175AA(1)
+compensable injury 159
 compound discount table68(4)
-continental shelfSch. 6 cl. 1
+continental shelfSch. 6, cl. 1
 contract of insurance5(1)
-contractor175(1) and (6)(b)
+contractor175(1), 175(6)
 Contribution Act93F(4), 93K(8)
 corporate body10A(1)
 costs261
@@ -1631,17 +1228,17 @@ costs determination261
 costs of a proceeding261
 court23A
 Crown14(1)
-damages93A
+damages93A, 159
 de facto partner5(1)
 decision5(1)
 decision of a specialised retraining assessment panel146V(9)
 decision of an approved medical specialist146J(2)
 decision of an approved medical specialist panel146O(7)
-defendant92, 93(1)(b)
+defendant92, 93(1)
 degree of disability93E(1)
 degree of impairment146
 degree of permanent impairment31B
-degree of permanent whole of person impairment 93H(1), 158(1), Sch. 1 cl. 18C(3)
+degree of permanent whole of person impairment93H(1), 158(1), Sch. 1, cl. 18C(3)
 dentist5(1)
 dependants5(1)
 determined93E(1)
@@ -1656,35 +1253,37 @@ document111A(4)
 DRD5(1)
 DRD Rules5(1)
 drug of addiction5(1)
-E175AA(1), 303A
-earnings5(1), 10A(1), Sch. 1 cl. 11(2)
+E175AA(1), 303A(1)
+earnings5(1), 10A(1), Sch. 1, cl. 11(2)
 election registration day93H(1)
-employer5(1), 59(1), 93AC(a), 154A(2)
+employer5(1), 5(1), 5(1), 59(1), 93AC, 154A(2)
 estimate5(1)
-event93H(2), 158(2), Sch. 1 cl. 18C(4)
+event93H(2), 158(2), Sch. 1, cl. 18C(4)
 former Board316
 former Supplementary Board316
 full amount31D(1)
 General Account5(1)
 HIV31F(1), 93Q(8)
 impairment31G(1)
-incorporated insurance office161(1)
 in respect of the injury or injuries93P(3)
+incorporated insurance office161(1)
 industrial agreement5(1)
 industrial award5(1)
 industrial disease premium5(1)
 information111A(4)
-injury5(1), 93AC(a), 180(1)
+injury5(1), 93AC, 180(1)
 injury management5(1)
 injury management system155
 inspector5(1)
 interim payment order232(2), 233(2)
 interim reduction order238(3)
 interim suspension order238(3)
+Joint Petroleum Development AreaSch. 6, cl. 1
 Legal Costs Committee269(1)
 legal service261
-loss of 25
-LPI5(1), 93F(8)(b)(i)
+liable159
+loss of i25
+LPI5(1), 5(1), 93F(8)
 March CPI5A(2)
 medical assessment panel5(1)
 medical practitioner5(1)
@@ -1700,40 +1299,43 @@ new Supplementary Board316
 noise induced hearing loss5(1)
 normal evaluation93M(5), 93N(6), 146C(3)
 notifiable person182(2)
-notification day93EC(b)(i)
+notification day93EC
 notional residual entitlement5(1)
 NRE amount5(1)
 officer of the DRD5(1)
-overtimeSch. 1 cl. 11(2)
+overtimeSch. 1, cl. 11(2)
 parliamentary purposes111A(4)
-Part XI application238(1)
+Part XI application238(1), 238(1)
 participate5(1)
 personal injury by accident5(3)
-Petroleum ActSch. 6 cl. 1
+Petroleum ActSch. 6, cl. 1
 physiotherapist5(1)
 place of residence19(3)
 prescribed175E
-prescribed amount5(1), Sch. 1 cl. 18A(1d)
-prescribed workplaceSch. 7 cl. 1
+prescribed amount5(1), Sch. 1, cl. 18A(1d)
+prescribed Commonwealth award or agreement83(2A)
+prescribed workplaceSch. 7, cl. 1
 primary power212
-principal175(1) and (6)(a)
-principal contractor175(1)
-proclaimed date4(1), 316, Sch. 5 cl. 1(1), Sch. 7 cl. 1
+principal175(1), 175(6)
+proclaimed date4(1), 316, Sch. 5, cl. 1(1), Sch. 7, cl. 1
 prohibited drug31F(1), 93Q(8)
-redemption amountSch. 5 cl. 1(1)
+reasonable expenses referred to in clause 17(1)Sch. 1, cl. 18A(1AA),
+Sch. 1, cl. 18D(1A)
+redemption amountSch. 5, cl. 1(1)
 registered agent5(1)
-relevant daySch. 5 cl. 3(8)
+relevant daySch. 5, cl. 3(8)
 relevant document180(1)
 relevant employment5(1)
 relevant level93D(1)
 relevant period93E(12)
+remuneration159
 repealed Act5(1)
 representative265(1)
 responsible officer170(6)
 retraining criteria158(1)
 return to work5(1)
 return to work program155
-Seas and Submerged Lands ActSch. 6 cl. 1
+Seas and Submerged Lands ActSch. 6, cl. 1
 secondary condition146
 self-insurer5(1)
 ship5(1)
@@ -1749,19 +1351,19 @@ State Government Insurance Corporation5(1)
 statutory expenses226
 substantial interruption19(3)
 substantive law93AE
-supplementary amountSch. 5 cl. 1(1)
+supplementary amountSch. 5, cl. 1(1)
 termination day93E(1), 93L(1)
-territorial seaSch. 6 cl. 1
+territorial seaSch. 6, cl. 1
 treating medical practitioner155
 tributer5(1)
 Trust Account5(1)
 vocational rehabilitation5(1)
 W175AA(1)
-weekly earningsSch. 1 cl. 11(1) and 14
-weekly paymentsSch. 5 cl. 3(2)
+weekly earningsSch. 1, cl. 11(1), 1, cl. 14
+weekly paymentsSch. 5, cl. 3(2)
 weekly payments of compensation5(1)
 WorkCover Guides5(1)
 WorkCover WA5(1), 314(2)
-worker5(1), 8, 9, 10(a), 11A(1), 93AC(a)
+worker5(1), 5(1), 5(1), 8, 9, 10, 11A(1), 93AC
 workers’ compensation cover170(7)
 working director10A(1)
