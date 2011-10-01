@@ -142,13 +142,13 @@ Road Traffic Amendment Act 2010 | 20 of 2010 | 7 Jul 2010 | s. 1 and 2: 7 Jul 20
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 45 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 2 (other than s. 5, 11, 12(2)(c), (5)(d) and (7)(b), 14 and 15) | 51 of 2010 | 8 Dec 2010 | s. 3 and 6-10: 9 Dec 2010 (see s. 2(b)); s. 4 and 13: 9 Apr 2011 (see s. 2(c) and Gazette 8 Apr 2011 p. 1281); s. 12 (other than 12(2)(c), (5)(d) and (7)(b)): 4 Jul 2011 (see s. 2(c) and Gazette 20 May 2011p. 1837)
 Reprint 11: The Road Traffic Act 1974 as at 28 Jan 2011 (includes amendments listed above, except the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 4 and 13 )
+Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 2 | 14 of 2011 | 25 May 2011 | 1 Oct 2011 (see s. 2(b) and Gazette 30 Aug 2011 p. 3503)
 Road Traffic Legislation Amendment (Information) Act 2011 Pt. 2 (other than s. 9) | 18 of 2011 | 2 Jun 2011 | 30 Jun 2011 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 5, 11, 12(2)(c), (5)(d) and (7)(b), 14 and 15 | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
-Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 2 | 14 of 2011 | 25 May 2011 | 1 Oct 2011 (see s. 2(b) and Gazette 30 Aug 2011 p. 3503)
 Road Traffic Legislation Amendment (Information) Act 2011 s. 9 | 18 of 2011 | 2 Jun 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 Section 111(2)(f) of this Act has been deleted.
@@ -360,163 +360,7 @@ election.
 15.Section 106A amended
 After section 106A(2) insert:
 (3) Despite subsection (2), a period for which the court must, in accordance with subsection (1), disqualify an offender for an offence is to be reduced by any period during which the offender was disqualified by a disqualification notice given to the offender under section 71C in relation to the offence.
-On the date as at which this compilation was prepared, the Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Road Traffic Act 1974 amended
-3.Act amended
-This Part amends the Road Traffic Act 1974.
-4.Section 42C amended
-In section 42C(1) delete “97(b)” and insert:
-97(2)(b)
-5.Section 63 amended
-(1) In section 63(2):
-(a) in paragraph (a)(ii) delete “16 PU” and insert:
-18 PU
-(b) in paragraph (a)(ii) delete “6 months;” and insert:
-10 months;
-(c) in paragraph (b) delete “30 PU” and insert:
-42 PU
-(d) in paragraph (b) delete “2 years; and” and insert:
-30 months; and
-(e) in paragraph (c) delete “40 PU” and insert:
-42 PU
-(2) Delete section 63(6) and insert:
-(6) A person charged with an offence against this section may, instead of being convicted of that offence, be convicted of —
-(a) an offence against section 64, 64AA, 64AB or 64AC; or
-(b) an offence against section 64A(1) or 64AAA(1) if, at the time of the alleged offence, the person was a person to whom section 64A(1) applied; or
-(c) an offence against section 64A(4) or 64AAA(2) if, at the time of the alleged offence, the motor vehicle concerned was a motor vehicle to which section 64A(4) applied.
-6.Section 64 amended
-(1) In section 64(2) delete the Table and the note after it and insert:
-Table
-Blood alcohol content (g/100ml) |  | First offence | Second offence | Subsequent offence
-≥ 0.08 but < 0.09 | Min: Max: Disq: | 10 PU 30 PU 6 months | 12 PU 30 PU 8 months | 12 PU 30 PU 10 months
-≥ 0.09 but < 0.11 | Min: Max: Disq: | 11 PU 30 PU 7 months | 18 PU 30 PU 10 months | 18 PU 30 PU 13 months
-≥ 0.11 but < 0.13 | Min: Max: Disq: | 13 PU 30 PU 8 months | 24 PU 40 PU 14 months | 24 PU 40 PU 17 months
-≥ 0.13 | Min: Max: Disq: | 15 PU 30 PU 9 months | 32 PU 50 PU 18 months | 32 PU 60 PU 30 months
-Note:≥ signifies of or above
-< signifies less than
-(2) Delete section 64(4) and insert:
-(4) A person charged with an offence against this section may, instead of being convicted of that offence, be convicted of —
-(a) an offence against section 64AA; or
-(b) an offence against section 64A(1) or 64AAA(1) if, at the time of the alleged offence, the person was a person to whom section 64A(1) applied; or
-(c) an offence against section 64A(4) or 64AAA(2) if, at the time of the alleged offence, the motor vehicle concerned was a motor vehicle to which section 64A(4) applied.
-7.Section 64AA amended
-(1) In section 64AA(2) delete “4 PU.” and insert:
-10 PU.
-(2) In section 64AA(2a) delete the Table and the note after it and insert:
-Table
-Blood alcohol content (g/100ml) |  | Second offence | Subsequent offence
-≥ 0.05 but < 0.07 | Min: Max: Disq: | 10 PU 20 PU 6 months | 10 PU 20 PU 8 months
-≥ 0.07 | Min: Max: Disq: | 12 PU 20 PU 8 months | 12 PU 20 PU 10 months
-Note:≥ signifies of or above
-< signifies less than
-(3) Delete section 64AA(3) and insert:
-(3) A person charged with an offence against this section may, instead of being convicted of that offence, be convicted of —
-(a) an offence against section 64A(1) or 64AAA(1) if, at the time of the alleged offence, the person was a person to whom section 64A(1) applied; or
-(b) an offence against section 64A(4) or 64AAA(2) if, at the time of the alleged offence, the motor vehicle concerned was a motor vehicle to which section 64A(4) applied.
-8.Section 64A amended
-(1) In section 64A(1) in the Penalty delete “2 PU” and insert:
-3 PU
-(2) Delete section 64A(2)(a) and (b) and insert:
-(a) is a novice driver as defined in section 104(2); or
-(3) Delete section 64A(4) and insert:
-(4) A person who drives or attempts to drive a motor vehicle to which this subsection applies while having a blood alcohol content of or above 0.02g of alcohol per 100ml of blood commits an offence.
-Penalty: not less than 3 PU or more than 6 PU; and, in any event, the court convicting a person shall order that the person be disqualified from holding or obtaining a driver’s licence for a period of not less than 3 months.
-(4A) Subsection (4) does not apply to a person who drives or attempts to drive a motor vehicle described in subsection (5)(a) or (d) if the person —
-(a) is a person of a class prescribed by the regulations for the purposes of this paragraph; and
-(b) is driving or attempting to drive the vehicle in the course of responding to an incident as defined in the Fire and Emergency Services Authority of Western Australia Act 1998 section 3.
-(5) Subsection (4) applies to a motor vehicle —
-(a) that is equipped to seat more than 12 adult persons (including the driver), if, at the relevant time, the vehicle is carrying passengers, whether or not the passengers are being carried for hire or reward; or
-(b) that is an omnibus as defined in the Transport Co-ordination Act 1966 section 4(1), but is not a vehicle referred to in paragraph (a), if, at the relevant time, the vehicle is carrying passengers for hire or reward; or
-(c) on which taxi plates issued under the Taxi Act 1994 are being used, or in respect of which a taxi-car licence has been issued under the Transport Co-ordination Act 1966 Part IIIB, if, at the relevant time, the vehicle is carrying passengers for hire or reward; or
-(d) that has a gross combination mass exceeding 22.5 tonnes; or
-(e) that is of a class prescribed by the regulations for the purposes of this paragraph, if, at the relevant time, the vehicle is being used to transport dangerous goods as defined in the Dangerous Goods Safety Act 2004 section 3(1).
-(6) For the purposes of subsection (5)(d) —
-gross combination mass means the greatest possible sum of the maximum loaded mass of the motor vehicle and of any vehicles that may lawfully be towed by it at one time —
-(a)as specified by the motor vehicle’s manufacturer; or
-(b)as specified by the relevant authority if —
-(i)the manufacturer has not specified the sum of the maximum loaded mass; or
-(ii)the manufacturer cannot be identified; or
-(iii)the motor vehicle has been modified to the extent that the manufacturer’s specification is no longer appropriate;
-relevant authority means —
-(a)if the motor vehicle has never been licensed or registered but is used or is intended to be used in this State — the Director General; or
-(b)if the motor vehicle was last licensed in this State — the Director General; or
-(c)if the motor vehicle was last licensed or registered in another State or a Territory — the authority in that State or Territory whose functions most nearly correspond to those of the Director General.
-(7) A person charged with an offence against subsection (1) may, instead of being convicted of that offence, be convicted of an offence against section 64AAA(1).
-(8) A person charged with an offence against subsection (4) may, instead of being convicted of that offence, be convicted of an offence against section 64AAA(2).
-9.Section 64AAA replaced
-Delete section 64AAA and insert:
-64AAA.Certain persons driving with any blood alcohol content
-(1) A person to whom section 64A(1) applies who drives or attempts to drive a motor vehicle while having any blood alcohol content commits an offence.
-Penalty: not less than 3 PU or more than 6 PU.
-(2) A person who drives or attempts to drive a motor vehicle to which section 64A(4) applies while having any blood alcohol content commits an offence.
-Penalty: not less than 3 PU or more than 6 PU.
-(2A) Subsection (2) does not apply to a person who drives or attempts to drive a motor vehicle described in section 64A(5)(a) or (d) if the person —
-(a) is a person of a class prescribed by the regulations for the purposes of this paragraph; and
-(b) is driving or attempting to drive the vehicle in the course of responding to an incident as defined in the Fire and Emergency Services Authority of Western Australia Act 1998 section 3.
-(3) It is a defence to a charge of an offence against subsection (1) or (2) for the accused to prove that the accused’s blood alcohol content was not to any extent caused by any of the following —
-(a) the consumption of an alcoholic beverage (otherwise than for the purposes of religious observance);
-(b) the consumption or use of any other substance (for example, food or medicine) for the purpose of consuming alcohol.
-10.Section 64AB amended
-In section 64AB(2):
-(a) in paragraph (a) delete “16 PU” and insert:
-18 PU
-(b) in paragraph (a) delete “6 months; and” and insert:
-10 months; and
-(c) in paragraph (b) delete “30 PU” and insert:
-42 PU
-(d) in paragraph (b) delete “2 years; and” and insert:
-30 months; and
-(e) in paragraph (c) delete “40 PU” and insert:
-42 PU
-11.Section 64AC amended
-In section 64AC(2):
-(a) in paragraph (a) delete “4 PU; and” and insert:
-10 PU; and
-(b) in paragraph (b) delete “5 PU or more than 10 PU;” and insert:
-10 PU or more than 20 PU;
-(c) in paragraph (b) delete “3 months.” and insert:
-6 months.
-12.Section 66 amended
-In section 66(2)(a)(ii) delete “or 64AAA applies;” and insert:
-applies or that the motor vehicle concerned is a motor vehicle to which section 64A(4) applies;
-13.Section 67 amended
-In section 67(3):
-(a) in paragraph (a)(ii) delete “16 PU” and insert:
-18 PU
-(b) in paragraph (a)(ii) delete “6 months;” and insert:
-10 months;
-(c) in paragraph (b) delete “30 PU” and insert:
-42 PU
-(d) in paragraph (b) delete “2 years;” and insert:
-30 months;
-(e) in paragraph (c) delete “40 PU” and insert:
-42 PU
-14.Section 67AA amended
-In section 67AA(3):
-(a) in paragraph (a) delete “16 PU” and insert:
-18 PU
-(b) in paragraph (a) delete “6 months; and” and insert:
-10 months; and
-(c) in paragraph (b) delete “30 PU” and insert:
-42 PU
-(d) in paragraph (b) delete “2 years; and” and insert:
-30 months; and
-(e) in paragraph (c) delete “40 PU” and insert:
-42 PU
-15.Section 67AB amended
-In section 67AB(3):
-(a) in paragraph (a) delete “4 PU; and” and insert:
-10 PU; and
-(b) in paragraph (b) delete “5 PU or more than 10 PU;” and insert:
-10 PU or more than 20 PU;
-(c) in paragraph (b) delete “3 months.” and insert:
-6 months.
-16.Section 98 amended
-In section 98(1a) delete the passage that begins with “that the alleged offender” and continues to the end of the subsection and insert:
-that —
-(a) the alleged offender was, at the time of the alleged offence, a person to whom section 64A(1) applied; or
-(b) the vehicle to which the alleged offence relates was, at the time of the alleged offence, a motor vehicle to which section 64A(4) applied,
-is to be taken to be proved in the absence of proof to the contrary.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment (Information) Act 2011 s. 9 had not come into operation. It reads as follows:
 Part 2 — Road Traffic Act 1974 amended
 9.Section 43A inserted
@@ -546,8 +390,8 @@ Penalty: Imprisonment for 2 years.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-alleged offender79BCA(1)(c), 79BCD(1)(a), 79D(2)(f)(ii), (g)(ii), (h)(ii), (i)(ii)
-and (6)(b), 102(5a)
+a surrender alternative vehicle notice79BCD(2)
+alleged offender79BCA(1), 79BCD(1), 79D(2), 79D(2), 79D(2), 79D(2), 79D(6), 102(5a)
 alternative vehicle79BCD(4), 79B(3C)
 amended provisions72A(1)
 analyst65
@@ -556,7 +400,7 @@ approved78A
 approved device65
 approved expert70(7)
 ASIO Act44AA
-ASIO Official44AA
+ASIO official44AA
 Australian driver licence5(1)
 Australian driver licensing authority5(1)
 authorised drug tester65
@@ -565,7 +409,7 @@ authorised purpose12(1)
 blood alcohol content65
 bodily harm49AA
 breath analysing equipment65
-business owner 79D(2)(g)(i)
+business owner79D(2)
 circumstances of aggravation59B(3)
 commencement day28A(3), 72A(1)
 Commissioner78A, 80G(1), 87(1)
@@ -584,18 +428,17 @@ demerit point registry jurisdiction104(1)
 demerit points information5(1)
 demerit points register104(1)
 dentist65
-destroyed42E(7), 43A
+destroyed42E(7)
 director112(1)
 Director General5(1)
 Director-General of Security44AA
 disclose5(1)
 disqualification period104M(1)
-disqualified76(13)(b)
+disqualified76(13)
 distance measuring equipment98A(1)
 district5(1)
 drive5(1)
-driver 5(1), 49A(1), 54(1), (2) and (6), 55(1) and (4), 56(1) and (4), 59(1),
-59A(1), 79BC(1)(a)
+driver5(1), 49A(1), 54(1), 54(2), 54(6), 55(1), 55(4), 56(1), 56(4), 59(1), 59A(1), 79BC(1)
 driver assessment65
 driver identity request58A(1)
 driver licence44C(2)
@@ -614,6 +457,7 @@ foreign law44D(2)
 former demerit point registry jurisdiction104Q(1)
 Government road5(1)
 grievous bodily harm49AA
+gross combination mass64A(6)
 gross vehicle mass111AB(4)
 hired78A
 impounded vehicle79D(1), 80JA(1)
@@ -622,15 +466,15 @@ impounding offence (driving)78A
 impounding or confiscation order78A
 impounding order78A
 impounding period78A
-impounding provision79BA(1)(b)(i) and (ii), 79BCA(5)(b), 79BCD(5)(b)
+impounding provision79BA(1), 79BA(1), 79BCA(5), 79BCD(5)
 incident information8(1)
-infringement notice9(1), 45(5), 104(1)
-initially impounded vehicle79BCA(1)(i)
+infringement notice9(1), 104(1)
+initially impounded vehicle79BCA(1)
 instructor information5(1)
-interest80G(1), 80JAA(1)
+interest80G(1), 80JA(1)
 item80J(1)
 jurisdiction5(1)
-label27AA(a), 40(ea)(i), 97(1)
+label27AA, 40, 97(1)
 law enforcement official44AA
 learner’s permit5(1)
 lent78A
@@ -642,7 +486,7 @@ light87(1)
 material time71(1)
 mechanical power5(1)
 medical practitioner65
-member79BA(1)(a)
+member79BA(1)
 minimum fine106(1)
 modified penalty102D(1)
 motor vehicle5(1)
@@ -652,16 +496,16 @@ necessity permit49A(5)
 new licensing jurisdiction104P
 new owner24(2b)
 notice to surrender79BCC(1)
-novice driver64AAA(2), 104(1)
+novice driver104(1)
 novice driver (type 1)104(1)
 novice driver (type 2)104(1)
 number plate5(1)
 nurse practitioner65
-offence79BA(1)(a), 79BCA(1)(c), 79BCD(1)(a), 98(2c)
+offence79BA(1), 79BCA(1), 79BCD(1), 98(2c)
 offence information8(1)
 offender71B(1), 80LA(1)
 omnibus5(1)
-optional number plates113(1)(a)
+optional number plates113(1)
 optional plates information5(1)
 order80G(1), 81A
 owner5(1), 87(1)
@@ -680,13 +524,14 @@ prescribed area86(1)
 prescribed illicit drug65
 prescribed offence75(6)
 prescribed person12(1)
-present offence75(1a), (2)(c) and (2b), 105(a)
-previous offender79(1A), 79BC(1)(a)
+present offence75(1a), 75(2), 75(2b)
+present offence105
+previous offender79(1A), 79BC(1)
 provisional licence5(1)
 recording fee5(1)
 registered nurse65
 relevant authorisation8(1)
-relevant authority9(1), 111AB(4)
+relevant authority9(1), 64A(6), 111AB(4)
 relevant offence49(7)
 requirement67(1), 67AA(1), 67AB(1)
 responsible person5(1), 58(3)
@@ -702,31 +547,30 @@ self-testing breath analysing equipment65
 selling expenses80LA(2)
 senior police officer78A
 service79D(1)
-shorter impounding period79BC(2) and (3)
+shorter impounding period79BC(2), 79BC(3)
 specified day28A(3)
 speed measuring equipment98A(1)
 starting time104N(2)
 stock5(1)
 subject71A(1)
 substitute vehicle79BCA(4), 79B(3A)
-surrender alternative vehicle notice79BCD(2)
 surrender notice79(1A), 79BA(2)
 surrender period78A
 surrender substitute vehicle notice79BCA(2)
 taxi79D(1)
 taxi operator79D(1)
 technologist70(7)
-time of sampling71(1)(c)
+time of sampling71(1)
 traffic infringement notice5(1), 102(1)
 traffic regulation provisions of this Act5(1)
 uncollected vehicle80J(1)
 undergoes65
 vehicle5(1), 79BA(1)
-vehicle A79BCD(1)(a)
+vehicle A79BCD(1)
 vehicle licence charge5(1)
 vehicle licence information5(1)
 vehicle referred to in section 80GA78A
 vehicle service provider79D(1)
-victim54(2) and (6)
+victim54(2), 54(6)
 WA driving authorisation104C(3)
 warden5(1)
