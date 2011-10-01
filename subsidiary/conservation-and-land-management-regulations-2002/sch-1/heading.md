@@ -25,18 +25,18 @@
 [Division 2 inserted in Gazette 28 Aug 2009 p. 3354-5.]
 ## Division 3 — Daily entrance fees for Tree Top Walk
  |  | $
-1. | For person 16 years of age or over | 10.00
-2. | For person of more than 5 and less than 16 years of age | 5.00
-3. | For family (2 adults and 2 children of more than 5 and less than 16 years of age) | 25.00
-4. | For holder of a concession card | 8.00
-[Division 3 amended in Gazette 29 Sep 2006 p. 4328; 28 Aug 2009 p. 3356.]
+1. | For person 16 years of age or over | 12.50
+2. | For person of more than 5 and less than 16 years of age | 6.50
+3. | For family (2 adults and 2 children of more than 5 and less than 16 years of age) | 31.50
+4. | For holder of a concession card | 9.00
+[Division 3 amended in Gazette 29 Sep 2006 p. 4328; 28 Aug 2009 p. 3356; 30 Sep 2011 p. 3898.]
 ## Division 4 — Fees for Geikie Gorge National Park Boat Trip
  |  | $
-1. | For person 16 years and over | 28.00
+1. | For person 16 years and over | 30.00
 2. | For person of more than 5 and less than 16 years of age | 7.50
-3. | For family (2 adults and 2 children of more than 5 and less than 16 years of age) | 60.00
-4. | For holder of a concession card | 20.00
-[Division 4 amended in Gazette 29 Sep 2006 p. 4328; 28 Aug 2009 p. 3355 and 3356.]
+3. | For family (2 adults and 2 children of more than 5 and less than 16 years of age) | 62.50
+4. | For holder of a concession card | 21.50
+[Division 4 amended in Gazette 29 Sep 2006 p. 4328; 28 Aug 2009 p. 3355 and 3356; 30 Sep 2011 p. 3898.]
 ## Division 5 — Horse riding
  |  | $
 1. | Daily fee for one person | 6.50

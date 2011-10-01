@@ -15,6 +15,7 @@ Conservation and Land Management Amendment Regulations 2009 | 28 Aug 2009 p. 335
 Conservation and Land Management Amendment Regulations (No. 2) 2010 | 3 Sep 2010 p. 4278-84 | r. 1 and 2: 3 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Sep 2010 (see r. 2(b) and Gazette 3 Sep 2010 p. 4273)
 Reprint 2: The Conservation and Land Management Regulations 2002 as at 5 Nov 2010 (includes amendments listed above)
 Conservation and Land Management Amendment Regulations (No. 3) 2010 | 3 Dec 2010 p. 6045-54 | r. 1 and 2: 3 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2010 (see r. 2(b))
+Conservation and Land Management Amendment Regulations (No. 2) 2011 | 30 Sep 2011 p. 3897-8 | r. 1 and 2: 30 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2011 (see r. 2(b))
 The Swan River Trust Act 1988 was repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006.
 Repealed by these regulations r. 115.
 The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads as follows:
