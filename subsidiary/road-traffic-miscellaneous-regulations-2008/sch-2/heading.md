@@ -16,11 +16,11 @@ provision | description of offence | points
  | (c)of or above 0.07 g of alcohol per 100 mL of blood —
  | (i)during a holiday period | 10
  | (ii)other than during a holiday period | 5
-64AAA | Driving or attempting to drive a motor vehicle while being a novice driver and having any blood alcohol content | 3
+64AAA | Driving or attempting to drive a motor vehicle while having any blood alcohol content | 3
 64AC | A first offence of driving or attempting to drive a motor vehicle while a prescribed illicit drug is present in the person’s oral fluid or blood —
  | (a)during a holiday period | 6
  | (b)other than during a holiday period | 3
 67AB | A first offence of failing to comply with a requirement under section 66D or 66E by either failing to provide a sample of oral fluid for drug testing, or failing to allow a medical practitioner or registered nurse to take a sample of blood for analysis —
  | (a)during a holiday period | 6
  | (b)other than during a holiday period | 3
-[Schedule 2 amended in Gazette 27 Jun 2008 p. 3124.]
+[Schedule 2 amended in Gazette 27 Jun 2008 p. 3124; 30 Aug 2011 p. 3515.]
