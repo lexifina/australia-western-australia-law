@@ -28,6 +28,10 @@ Gas Supply (Gas Quality Specifications) Act 2009 Pt. 7 Div. 1 | 35 of 2009 | 3 D
 Reprint 4: The Energy Coordination Act 1994 as at 7 May 2010 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+ | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 5 Div. 2 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 Expired 30 June 1988.
 The Energy Legislation Amendment Act 2003 Pt. 3 Div. 3 (other than s. 19) reads as follows:
 Part 3 — Amendments to facilitate a contestable retail gas market, and related transitional provisions
@@ -287,6 +291,14 @@ The operation of any provision of this Schedule is not to be regarded —
 (d) as causing any contract or instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 5 Div. 2 had not come into operation. It reads as follows:
+Division 2 — Energy Coordination Act 1994 amended
+62.Act amended
+This Division amends the Energy Coordination Act 1994.
+63.Section 26A inserted
+After section 25 insert:
+26A.Licence not personal property for the purposes of the Personal Property Securities Act 2009 (Commonwealth)
+If a licence is transferable by the licensee, in accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), the licence is declared not to be personal property for the purposes of that Act.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
