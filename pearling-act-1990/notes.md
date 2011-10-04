@@ -20,8 +20,23 @@ Reprint 2: The Pearling Act 1990 as at 6 Oct 2006 (includes amendments listed ab
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+ | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 7 Div. 2 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 Repealed by the Fish Resources Management Act 1994.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 7 Div. 2 had not come into operation. It reads as follows:
+Division 2 — Pearling Act 1990 amended
+77.Act amended
+This Division amends the Pearling Act 1990.
+78.Section 23 amended
+After section 23(1) insert:
+(2A) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), the following rights, entitlements or authorities are declared not to be personal property for purposes of that Act —
+(a) a pearl oyster farm lease issued under subsection (1)(a);
+(b) a pearling licence issued under subsection (1)(b);
+(c) a pearl oyster hatchery licence issued under subsection (1)(c);
+(d) a pearling permit issued under subsection (1)(g);
+(e) a pearl oyster hatchery permit issued under subsection (1)(h).
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991 of the Commonwealth.
 The Pearling Amendment Act 1994 s. 6 reads as follows:
 “
