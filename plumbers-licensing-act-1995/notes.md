@@ -22,6 +22,10 @@ Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 133 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Building Services (Complaint Resolution and Administration) Act 2011 s. 130 | 16 of 2011 | 25 May 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+ | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 4 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 Under the Land Administration Act 1997 s. 281(3), references to the Land Act 1933 may be construed as references to the Land Administration Act 1997.
 Now known as the Water Services Licensing Act 1995; short title changed (see note under s. 1).
 The Taxes and Charges (Land Subdivision) Legislation Amendment Act 1996 Pt. 6 reads as follows:
@@ -91,3 +95,11 @@ The operation of any provision of this Schedule is not to be regarded —
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment to s. 57 in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1302 is not included because the section it seeks to amend was repealed by the Economic Regulation Authority Act 2003 s. 62.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 4 had not come into operation. It reads as follows:
+Division 4 — Water Services Licensing Act 1995 amended
+121.Act amended
+This Division amends the Water Services Licensing Act 1995.
+122.Section 60C inserted
+After section 60B insert:
+60C.Operating licence (water supply services) is not personal property for the purposes of the Personal Property Securities Act 2009 (Commonwealth)
+If an operating licence granted under section 18 is transferable by the licensee, in accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), the licence is declared not to be personal property for the purposes of that Act.
