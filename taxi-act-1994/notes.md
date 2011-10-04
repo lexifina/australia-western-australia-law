@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 April 2011 of the Taxi Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Taxi Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Taxi Act 1994 | 83 of 1994 | 20 Dec 1994 | s. 1 and 2: 20 Dec 1994; Act other than s. 1 and 2 and Pt. 3 Div. 2: 10 Jan 1995 (see s. 2 and Gazette 10 Jan 1995 p. 73); Pt. 3 Div. 2: 1 Apr 1995 (see s. 2 and Gazette 31 Mar 1995 p. 1150)
@@ -25,6 +25,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 517 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 5 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 The provision in this Act repealing the Taxi-car Control Act 1985 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Land Administration Act 1997.
 Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
@@ -34,6 +35,13 @@ On the date as at which this reprint was prepared, the Co-operatives Act 2009 s.
 517.Taxi Act 1994 amended
 (1) This section amends the Taxi Act 1994.
 (2) In section 3(3)(b) delete “a company within the meaning of the Companies (Co-operative) Act 1943, and”.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 5 had not come into operation. It reads as follows:
+Division 5 — Taxi Act 1994 amended
+106.Act amended
+This Division amends the Taxi Act 1994.
+107.Section 16 amended
+After section 16(9) insert:
+(10A) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), a lease of taxi plates under this section is declared not to be personal property for the purposes of that Act.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
