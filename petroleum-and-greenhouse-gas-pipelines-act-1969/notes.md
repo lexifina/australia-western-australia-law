@@ -34,6 +34,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Petroleum Legislation Amendment and Repeal Act 2005 s. 29(2) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 4 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 The Acts Amendment (Petroleum) Act 1990 s. 122(2) reads as follows:
 (2) A declaration made under —
 (a) section 5(1)(a) of the principal Act before its repeal and substitution by this section and in force immediately before the commencement of this section shall on that commencement be deemed to have been made under section 5(1)(a)(iii); or
@@ -127,6 +128,14 @@ On the date as at which this reprint was prepared, the Petroleum Legislation Ame
 29.Sections 66BA and 66BB inserted and transitional provision
 (2) Section 51 of the Justices Act 1902 as in force immediately before the commencement of subsection (1) applies to an offence against the Petroleum Pipelines Act 1969 committed before that commencement as if subsection (1) had not been enacted.
 The amendments in the Petroleum and Energy Legislation Amendment Act 2010 s. 182(11) and (12) are not included because the section they sought to amend had been deleted before the amendments purported to come into operation.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 4 had not come into operation. It reads as follows:
+Division 4 — Petroleum Pipelines Act 1969 amended
+88.Act amended
+This Division amends the Petroleum Pipelines Act 1969.
+89.Section 66E inserted
+After section 66D insert:
+66E.Licences under section 10 are not personal property for the purposes of the Personal Property Securities Act 2009 (Commonwealth)
+In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), a licence granted under section 10 is declared not to be personal property for the purposes of that Act.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
