@@ -30,6 +30,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 46(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 10 Div. 1 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 Now known as the Western Australian Mint Act 1970, which is repealed by this Act.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Acts 1984 s. 7(3)(g).
 The Companies (Western Australia) Code was superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1990 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
@@ -62,6 +63,15 @@ On the date on which this compilation was prepared, the State Superannuation (Tr
 (c) in clause 4(1) by deleting “or otherwise was a contributor to units of pension or to the Provident Account under the Superannuation and Family Benefits Act 1938” and “or any existing accruing rights under the Superannuation and Family Benefits Act 1938”;
 (d) by deleting clause 4(2) and (3).
 ”.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 10 Div. 1 had not come into operation. It reads as follows:
+Division 1 — Gold Corporation Act 1987 amended
+92.Act amended
+This Division amends the Gold Corporation Act 1987.
+93.Section 67 amended
+(1) In section 67 delete “Where gold” and insert:
+(1) Where gold
+(2) At the end of section 67 insert:
+(2) For the purposes of the Personal Property Securities Act 2009 (Commonwealth) section 259, gold that is collateral purchased by Gold Corporation, the Mint or GoldCorp under subsection (1), but not the proceeds from the sale of gold to Gold Corporation, the Mint, or GoldCorp, is declared to be an excluded matter in relation to section 32 of that Act.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
