@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 November 2010 of the Wildlife Conservation Act 1950 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Wildlife Conservation Act 1950 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fauna Protection Act 1950 | 77 of 1950 (14 and 15 Geo. VI No. 77) | 5 Jan 1951 | 1 Jul 1952 (see s. 2 and Gazette 13 Jun 1952 p. 1497-8)
@@ -48,6 +48,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 95 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(2))
 Conservation Legislation Amendment Act 2011 Pt. 3 | 36 of 2011 | 13 Sep 2011 | To be proclaimed (see s. 2(b))
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 6 Div. 3 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 Now known as the Wildlife Conservation Act 1950; short title changed (see note under s. 1).
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
 The amendments in the Statutes (Repeals and Minor Amendments) Act 1997 s. 132(23) to s. 15(1a) and (1b) and 23C(2a) are not included because the provisions to be amended were repealed by s. 132(3) and (13) of that Act.
@@ -110,6 +111,13 @@ Penalty: a fine of $4 000.
 (e) the manner of taking;
 (f) the quantity of fauna or flora taken;
 (g) the circumstances of the taking.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 6 Div. 3 had not come into operation. It reads as follows:
+Division 3 — Wildlife Conservation Act 1950 amended
+71.Act amended
+This Division amends the Wildlife Conservation Act 1950.
+72.Section 15 amended
+After section 15(5) insert:
+(6) If such licences as are prescribed under subsection (1) are transferable by the licensee, in accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), the licences are declared not to be personal property for the purposes of that Act.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
