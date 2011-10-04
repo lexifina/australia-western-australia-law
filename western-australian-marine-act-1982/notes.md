@@ -26,6 +26,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Western Australian Marine Amendment Act 1987 s. 4-6 | 15 of 1987 | 25 Jun 1987 | To be proclaimed (see s. 2)
 Western Australian Marine Amendment Act 1990 s. 4(d), 6-9 and 12 | 35 of 1990 | 9 Oct 1990 | To be proclaimed (see s. 2)
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 7 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 On the date as at which this compilation was prepared, the Western Australian Marine Amendment Act 1987 s. 4-6 had not come into operation. They read as follows:
 “
@@ -192,3 +193,17 @@ Section 20 of the principal Act is repealed.
 12.Section 65 repealed
 Section 65 of the principal Act is repealed.
 ”.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 7 had not come into operation. It reads as follows:
+Division 7 — Western Australian Marine Act 1982 amended
+111.Act amended
+This Division amends the Western Australian Marine Act 1982.
+112.Section 71 amended
+(1) Delete section 71(3) and insert:
+(3) The cost of removal under subsection (2) is a debt due to the Crown and a first charge in priority to all other claims on the navigational hazard.
+(4A) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 73(2)(a), it is declared that section 73(2) of that Act applies to a charge created under subsection (3).
+(4B) The chief executive officer may recover the cost of removal under subsection (2) by —
+(a) action in a court of competent jurisdiction against the owner of the navigational hazard; or
+(b) selling or causing to be sold the navigational hazard.
+(4C) If under subsection (4B)(b) any navigational hazard is sold in good faith to a person and the person takes the property in good faith, the person receives good title to the navigational hazard against every other person including its true owner.
+(2) In section 71(4) delete “subsection (3)(b)” and insert:
+subsection (4B)(b)
