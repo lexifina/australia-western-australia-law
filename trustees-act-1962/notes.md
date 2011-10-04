@@ -22,8 +22,26 @@ Limitation Legislation Amendment and Repeal Act 2005 s. 23 | 20 of 2005 | 15 Nov
 Reprint 4: The Trustees Act 1962 as at 19 Jan 2007 (includes amendments listed above)
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 126 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Trustee Companies (Commonwealth Regulation) Amendment Act 2011 Pt. 3 | 39 of 2011 | 4 Oct 2011 | To be proclaimed (see s. 2(b))
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 5 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 Interpretation Act 1918 repealed by the Interpretation Act 1984.
 Repealed by this Act; see Sch. 1.
 There is no Bills of Exchange Act 1903 (Cwlth). See Bills of Exchange Act 1909 (Cwlth).
 Imperial Acts Adopting Ordinance 1867 (31 Vict. No. 8).
 Marginal notes in the Trustees Act 1962 referring to legislation of other jurisdictions have been omitted from this compilation.
+On the date as at which this compilation was prepared, the Trustee Companies (Commonwealth Regulation) Amendment Act 2011 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Consequential amendment to the Trustees Act 1962
+17.Act amended
+This Part amends the Trustees Act 1962.
+18.Section 6 amended
+In section 6(1) in the definition of trustee corporation delete “corporation authorised by any Act of the Parliament of a State to administer the estates of deceased persons and other trust estates;” and insert:
+trustee company under the Trustee Companies Act 1987;
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 5 had not come into operation. It reads as follows:
+Division 5 — Trustees Act 1962 amended
+24.Act amended
+This Division amends the Trustees Act 1962.
+25.Section 72 amended
+Delete section 72(3).
