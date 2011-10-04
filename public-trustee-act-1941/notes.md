@@ -45,6 +45,10 @@ Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2
 Public Trustee and Trustee Companies Legislation Amendment Act 2008 Pt. 2 | 9 of 2008 | 31 Mar 2008 | 1 Jul 2008 (see s. 2(2) and Gazette 24 Jun 2008 p. 2885)
 Reprint 6: The Public Trustee Act 1941 as at 10 Oct 2008 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+ | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 4 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 Repealed in the First Schedule to this Act.
 The Administration Act 1903 s. 22 was repealed by the Public Trustee Act 1941 s. 3.
 Repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988, and which is now known as the Liquor Control Act 1988.
@@ -65,6 +69,18 @@ The Public Trustee and Trustee Companies Legislation Amendment Act 2008 s. 25(2)
 “
 (2) The last rates of interest fixed and published in the Gazette before the day on which section 25 of the Public Trustee and Trustee Companies Legislation Amendment Act 2008 comes into operation are to be taken on and after that day to be the rates fixed and published in the Gazette under section 39A(5) of the Public Trustee Act 1941 until rates are fixed under section 39A(5).
 ”.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 4 had not come into operation. It reads as follows:
+Division 4 — Public Trustee Act 1941 amended
+22.Act amended
+This Division amends the Public Trustee Act 1941.
+23.Section 63 amended
+(1) In section 63:
+(a) delete “Where” and insert:
+(1) Where
+(b) delete “thereon.” and insert:
+thereon in priority to all other claims upon the policy moneys.
+(2) At the end of section 63 insert:
+(2) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 73(2)(a), it is declared that section 73(2) of that Act applies to a lien created under subsection (1).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
