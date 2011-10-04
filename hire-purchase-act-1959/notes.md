@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 18 February 2011 of the Hire-Purchase Act 1959 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Hire-Purchase Act 1959 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Hire-Purchase Act 1959 | 58 of 1959 (8 Eliz. II No. 58) | 3 Dec 1959 | 31 Mar 1960 (see s. 1(2) and Gazette 26 Feb 1960 p. 475)
@@ -40,6 +40,10 @@ Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 201
 Standardisation of Formatting Act 2010 s. 19 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Acts Amendment (Fair Trading) Act 2010 s. 187 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 Reprint 8: The Hire-Purchase Act 1959 as at 18 Feb 2011 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+ | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 6 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 24 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 (other than s. 151) (as amended by Acts Amendment (Fair Trading) Act 2010 s. 184) reads as follows:
@@ -57,6 +61,20 @@ In this Division —
 commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 6 had not come into operation. It reads as follows:
+Division 6 — Hire-Purchase Act 1959 amended
+51.Act amended
+This Division amends the Hire-Purchase Act 1959.
+52.Section 3 amended
+Delete section 3(2)(e)(vii).
+53.Section 9 amended
+In section 9(4)(b) delete “counterparts and if required by the owner also the reasonable costs incurred by the owner in registering the same under the Bills of Sale Act 1899.” and insert:
+counterparts.
+54.Section 36A amended
+In section 36A(2a)(b) delete “and agreement registration fees”.
+55.First Schedule Part 1 amended
+In the First Schedule Part 1 delete:
+”Agreement Registration Fees ............................... | .............. | ..............
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
