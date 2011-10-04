@@ -26,6 +26,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Shipping and Pilotage Amendment Act 2006 s. 8 and 13(1)(b) | 71 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 4 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 The Shipping and Pilotage Amendment Act 1983 s. 3(2) reads as follows:
 (2) All proclamations made prior to the commencement of this section, under section 10(2) of the principal Act are hereby revoked.
 The ports of Augusta, Balla Balla, Dongara and Point Cloates were declared by proclamation under s. 10(2) to no longer be ports. See Gazette 29 May 1998 p. 2981.
@@ -90,6 +91,13 @@ On the date as at which this compilation was prepared, the Standardisation of Fo
 Table
 Act | Identifier | Title | Shoulder note
 Shipping and Pilotage Act 1967 | Schedule
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 4 had not come into operation. It reads as follows:
+Division 4 — Shipping and Pilotage Act 1967 amended
+104.Act amended
+This Division amends the Shipping and Pilotage Act 1967.
+105.Section 5 amended
+After section 5(3) insert:
+(4A) If under subsection (3) any wreckage is sold in good faith to a person and the person takes the property in good faith, the person receives good title to the wreckage against every other person including its true owner.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
