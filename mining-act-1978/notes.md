@@ -77,6 +77,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 1 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
 The Mining Amendment Act 1981 s. 3 reads as follows:
@@ -348,6 +349,20 @@ Immediately before section 91 the following section is inserted —
 (1)The operation of this Division is subject to section 2.6, 3.5 or 4.3, as the case may be, of the Native Title (State Provisions) Act 1999 where the grant of a miscellaneous licence is a Part 2 act, a Part 3 act or a Part 4 act within the meaning of that Act.
 (2)The provisions relating to objections to the granting of an application that apply for the purposes of this Division do not apply to an objection of the kind referred to in section 2.16, 3.15 or 4.11 of the Native Title (State Provisions) Act 1999, and objections of that kind can only be made under that Act.
 ”.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 1 had not come into operation. It reads as follows:
+Division 1 — Mining Act 1978 amended
+82.Act amended
+This Division amends the Mining Act 1978.
+83.Section 162A inserted
+After section 161 insert:
+162A.Certain things are not personal property for the purposes of the Personal Property Securities Act 2009 (Commonwealth)
+In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), the following rights, entitlements or authorities are declared not to be personal property for the purposes of that Act —
+(a) a prospecting licence granted under section 40(1), 56A(6) or 70(6);
+(b) an exploration licence granted under section 57(1);
+(c) a retention licence granted under section 70B(1);
+(d) a mining lease granted under section 71;
+(e) a general purpose lease granted under section 86(1);
+(f) a miscellaneous licence granted under section 91(1).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
