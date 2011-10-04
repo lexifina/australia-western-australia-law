@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 August 2011 of the Petroleum and Geothermal Energy Resources Act 1967 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum and Geothermal Energy Resources Act 1967 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum Act 1967 | 72 of 1967 | 11 Dec 1967 | 5 Sep 1969 (see s. 2 and Gazette 5 Sep 1969 p. 2540)
@@ -41,6 +41,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 Sch. 2 Div. 7 | 60 of 1999 | 10 Jan 2000 | s. 7.3 operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Petroleum and Energy Legislation Amendment Act 2010 s. 51, 57, 58(b) (to the extent that it inserts s. 153(2)(lc)), 61 (to the extent that it inserts Sch. 2 cl. 3) | 42 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 3 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 The Petroleum Act 1936 was repealed by this Act, s. 3.
 Repealed by the Interpretation Act 1984.
 The amendment in the Petroleum Safety Act 1999 s. 92 is not included as it was deleted by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51 before it came into operation.
@@ -266,6 +267,18 @@ Division 1 — Provisions for Petroleum and Energy Legislation Amendment Act 201
 (a) continues in force for the purposes of that section as it continues to apply under subclause (1); and
 (b) also separately continues in force on and after the commencement of section 57 of the amending Act as if it had been made for the purposes of Part IVB.
 (4) Regulation 3 as continued in force under subclause (3)(a) or (b) may, for the purposes of its application under subclause (3)(a) or (b), be amended or deleted by regulations.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 3 had not come into operation. It reads as follows:
+Division 3 — Petroleum and Geothermal Energy Resources Act 1967 amended
+86.Act amended
+This Division amends the Petroleum and Geothermal Energy Resources Act 1967.
+87.Section 152 inserted
+After section 151 insert:
+152.Certain things are not personal property for the purposes of the Personal Property Securities Act 2009 (Commonwealth)
+In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), the following rights, entitlements or authorities are declared not to be personal property for the purposes of that Act —
+(a) a petroleum exploration permit or a geothermal exploration permit granted under section 37;
+(b) a drilling reservation granted under section 43C(4);
+(c) a petroleum retention lease or geothermal retention lease granted under section 48B(5);
+(d) a petroleum production licence or geothermal production licence granted under section 61(4).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
