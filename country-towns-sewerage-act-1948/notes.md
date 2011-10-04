@@ -43,9 +43,21 @@ Reprint 6: The Country Towns Sewerage Act 1948 as at 21 Jul 2006 (includes amend
 Land Information Authority Act 2006 s. 131 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Standardisation of Formatting Act 2010 s. 45 and 55 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+ | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 2 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 Now known as the Water Agencies (Powers) Act 1984.
 Metropolitan Water Supply, Sewerage, and Drainage Act 1909.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 2 had not come into operation. It reads as follows:
+Division 2 — Country Towns Sewerage Act 1948 amended
+117.Act amended
+This Division amends the Country Towns Sewerage Act 1948.
+118.Section 79 amended
+(1) In section 79 delete “The” and insert:
+(1) The
+(2) At the end of section 79 insert:
+(2) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 73(2)(a), it is declared that section 73(2) of that Act applies to a charge created under subsection (1).
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources.
 Marginal notes in the Country Towns Sewerage Act 1948 referring to other legislation have been omitted from this compilation.
 The amendments in the Sentencing (Consequential Provisions) Act 1995 Pt. 17 are not included because, before it came into operation, it was repealed by the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 24(2).
