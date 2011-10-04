@@ -150,6 +150,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 5, 11, 12(2)(c), (5)(d) and (7)(b), 14 and 15 | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 Road Traffic Legislation Amendment (Information) Act 2011 s. 9 | 18 of 2011 | 2 Jun 2011 | To be proclaimed (see s. 2(b))
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 3 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 Repealed by the Interpretation Act 1984.
 Section 111(2)(f) of this Act has been deleted.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
@@ -360,7 +361,16 @@ election.
 15.Section 106A amended
 After section 106A(2) insert:
 (3) Despite subsection (2), a period for which the court must, in accordance with subsection (1), disqualify an offender for an offence is to be reduced by any period during which the offender was disqualified by a disqualification notice given to the offender under section 71C in relation to the offence.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 3 had not come into operation. It reads as follows:
+Division 3 — Road Traffic Act 1974 amended
+102.Act amended
+This Division amends the Road Traffic Act 1974.
+103.Section 15A inserted
+At the end of Part II insert:
+15A.Disclosure of information for the purposes of the Personal Property Securities Act 2009 (Commonwealth)
+The Director General may disclose the following information to the Registrar as defined in the Personal Property Securities Act 2009 (Commonwealth) section 10 —
+(a) information relating to vehicles that have been stolen or written off;
+(b) information contained in the register of vehicle licences referred to in section 27(1) that the Director General considers to be relevant to the operation of the register as defined in section 10 of that Act.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment (Information) Act 2011 s. 9 had not come into operation. It reads as follows:
 Part 2 — Road Traffic Act 1974 amended
 9.Section 43A inserted
