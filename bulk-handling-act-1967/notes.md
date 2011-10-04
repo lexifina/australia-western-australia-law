@@ -28,6 +28,10 @@ Bulk Handling Amendment Act 2002 | 29 of 2002 | 25 Oct 2002 | 25 Oct 2002 (see s
 Grain Marketing Act 2002 s. 47 | 30 of 2002 | 25 Oct 2002 | 31 Oct 2002 (see s. 2 and Gazette 30 Oct 2002 p. 5351)
 Reprint 4: The Bulk Handling Act 1967 as at 5 Dec 2003 (includes amendments listed above) (correction in Gazette 23 Jan 2004 p. 306)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 69 | 24 of 2007 | 12 Oct 2007 | 14 Aug 2010 (see s. 2(1) and Gazette 13 Aug 2010 p. 4021)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+ | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 2 Div. 1 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 The Companies Act 1893 was repealed by the Companies Act 1943. The latter Act was repealed by the Companies Act 1961 s. 4 except in relation to co-operative companies in respect of which it is now cited as the Companies (Co-operative) Act 1943 (s. 382).
 Now 30 Delhi Street, West Perth.
 Now see Insurance (Deposits) Act 1932 of the Commonwealth.
@@ -55,3 +59,16 @@ Repealed by the Wheat Marketing Act 1984 s. 31.
 Marginal notes containing sectional references to the Bulk Handling Act 1935 have been omitted from this reprint.
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 and the Financial Administration Legislation Amendment Act 1993 s. 18 are transitional provisions that are of no further effect.
 The amendment in the Grain Marketing Act 2002 Sch. 2 cl. 1(2) to s. 8 of this Act is not included because s. 8 was repealed by the Bulk Handling Amendment Act 2002 s. 5.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 2 Div. 1 had not come into operation. It reads as follows:
+Division 1 — Bulk Handling Act 1967 amended
+3.Act amended
+This Division amends the Bulk Handling Act 1967.
+4.Section 34D amended
+After section 34D(3) insert:
+(4) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 73(2)(a), it is declared that section 73(2) of that Act applies to a charge created under subsection (2)(b).
+5.Section 35 amended
+After section 35(1) insert:
+(2A) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 73(2)(a), it is declared that section 73(2) of that Act applies to a lien created under subsection (1).
+6.Section 51 amended
+After section 51(2) insert:
+(3) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 73(2)(a), it is declared that section 73(2) of that Act applies to a charge created under subsection (1)(a) or (aa).
