@@ -23,8 +23,43 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 513 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 1 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 Repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 1 had not come into operation. It reads as follows:
+Division 1 — Criminal Property Confiscation Act 2000 amended
+9.Act amended
+This Division amends the Criminal Property Confiscation Act 2000.
+10.Section 10 amended
+In section 10(2) after “registerable under” insert:
+the Personal Property Securities Act 2009 (Commonwealth) or
+11.Section 31 amended
+In section 31(2) after “registrable under” insert:
+the Personal Property Securities Act 2009 (Commonwealth) or
+12.Section 36 amended
+In section 36(3) after “registrable under” insert:
+the Personal Property Securities Act 2009 (Commonwealth) or
+13.Section 39 amended
+In section 39(5) after “registrable under” insert:
+the Personal Property Securities Act 2009 (Commonwealth) or
+14.Section 46 amended
+In section 46(3) after “registrable under” insert:
+the Personal Property Securities Act 2009 (Commonwealth) or
+15.Section 125 amended
+(1) In section 125 delete “A charge” and insert:
+(1) A charge
+(2) At the end of section 125 insert:
+(2) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 73(2)(a), it is declared that section 73(2) of that Act applies to a charge created on property under section 123(1).
+16.Section 127 amended
+(1) In section 127(1):
+(a) after “land under” insert:
+the Personal Property Securities Act 2009 (Commonwealth) or
+(b) after “accordance with” insert:
+that Act or
+(2) In section 127(3):
+(a) after “memorial in accordance with” insert:
+the Personal Property Securities Act 2009 (Commonwealth) or
+(b) after “accordance with” insert:
+that Act or
 On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 513 had not come into operation. It reads as follows:
 513.Criminal Property Confiscation Act 2000 amended
 (1) This section amends the Criminal Property Confiscation Act 2000.
