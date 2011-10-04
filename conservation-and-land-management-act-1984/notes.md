@@ -59,6 +59,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation Legislation Amendment Act 2011 Pt. 2 | 36 of 2011 | 13 Sep 2011 | To be proclaimed (see s. 2(b))
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 6 Div. 1 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 The Land Act 1933 was repealed by section 281 of the Land Administration Act 1997.
 The Forests Act 1918 was repealed by s. 147(1) of this Act.
 The Acts Amendment (Marine Reserves) Act 1997 s. 7(2) reads as follows:
@@ -783,6 +784,22 @@ At the end of Part XI insert:
 (a) whether the policy objectives upon which the amendments made to this Act by the amendment Act were based remain valid; and
 (b) whether those amendments remain appropriate to achieve those objectives.
 (3) The Minister must prepare a report based on the review and, as soon as practicable after the report is prepared and in any event not more than 2 years after the expiry of the period referred to in subsection (1), cause it to be laid before each House of Parliament.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 6 Div. 1 had not come into operation. It reads as follows:
+Division 1 — Conservation and Land Management Act 1984 amended
+64.Act amended
+This Division amends the Conservation and Land Management Act 1984.
+65.Section 88 amended
+After section 88(2) insert:
+(3) If a permit or licence granted under subsection (1) to take forest produce on or from Crown land is transferable by the permit holder or licensee, in accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), the permit or licence is declared not to be personal property for the purposes of that Act.
+66.Section 97A amended
+After section 97A(10) insert:
+(11) If a licence granted under subsection (1) or a permit granted under subsection (3) is transferable by the licensee or permit holder, in accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), the licence or permit is declared not to be personal property for the purposes of that Act.
+67.Section 99A amended
+After section 99A(6) insert:
+(7) If a licence granted under subsection (1) is transferable by the licensee, in accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), the licence is declared not to be personal property for the purposes of that Act.
+68.Section 101 amended
+After section 101(5) insert:
+(6) If a licence granted under subsection (1) to enter and use any land to which this Division applies is transferable by the licensee, in accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), the licence is declared not to be personal property for the purposes of that Act.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
