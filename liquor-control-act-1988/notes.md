@@ -48,6 +48,7 @@ Short title | Number and year | Assent | Commencement
  | Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
  | Liquor Control Amendment Act 2010 Pt. 3 | 56 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(b))
  | Building Act 2011 s. 165 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
+ | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 11 Div. 1 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Acts 1984 s. 7(4)(f).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Repealed by the Public Sector Management Act 1994.
@@ -215,3 +216,10 @@ On the date as at which this compilation was prepared, the Building Act 2011 s. 
 Building Act 2011;
 (3) In section 69(8)(c) delete “Local Government (Miscellaneous Provisions) Act 1960,” and insert:
 Building Act 2011,
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 11 Div. 1 had not come into operation. It reads as follows:
+Division 1 — Liquor Control Act 1988 amended
+94.Act amended
+This Division amends the Liquor Control Act 1988.
+95.Section 30A amended
+After section 30A(2) insert:
+(3) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), a licence granted under subsection (1) that is transferable by the licensee is declared not to be personal property for the purposes of that Act.
