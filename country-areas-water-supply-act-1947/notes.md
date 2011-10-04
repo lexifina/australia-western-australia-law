@@ -65,6 +65,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 87 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 1 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Formerly referred to the Water Authority Act 1984 the short title of which was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -97,3 +98,12 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 “ the Biosecurity and Agriculture Management Act 2007 ”.
 ”.
 ”.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 1 had not come into operation. It reads as follows:
+Division 1 — Country Areas Water Supply Act 1947 amended
+115.Act amended
+This Division amends the Country Areas Water Supply Act 1947.
+116.Section 81 amended
+(1) In section 81 delete “The” and insert:
+(1) The
+(2) At the end of section 81 insert:
+(2) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 73(2)(a), it is declared that section 73(2) of that Act applies to a charge created under subsection (1).
