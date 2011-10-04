@@ -40,6 +40,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 | 73 of 2003 | 15 Dec 2003 | To be proclaimed (see s. 2)
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 7 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 The Motor Vehicle Dealers Act 1973 s. 40 did not come into operation and was repealed by the Motor Vehicle Dealers Amendment Act 2002 s. 62.
 The Business Licensing Amendment Act 1995 s. 38 is a transitional provision that is of no further effect.
 The Motor Vehicle Dealers Amendment Act 2002 Pt. 7 reads as follows:
@@ -170,3 +171,10 @@ A person must not, in relation to a request under section 39B(1), or any attempt
 (b) likely to deceive in a material way.
 Penalty: $5 000.
 The amendments in the Acts Amendment (Fair Trading) Act 2010 s. 177 will not come into operation (see s. 2(b)(i)).
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 7 had not come into operation. It reads as follows:
+Division 7 — Motor Vehicle Dealers Act 1973 amended
+56.Act amended
+This Division amends the Motor Vehicle Dealers Act 1973.
+57.Section 32A amended
+In section 32A delete the definition of security interest and insert:
+security interest has the meaning given in the Personal Property Securities Act 2009 (Commonwealth) section 10;
