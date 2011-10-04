@@ -47,6 +47,10 @@ Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 201
 Standardisation of Formatting Act 2010 s. 35 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Acts Amendment (Fair Trading) Act 2010 Pt. 7 | 58 of 2010 | 8 Dec 2010 | 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+ | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 8 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 The appointed day is 1 Nov 1982, see Gazette 29 Oct 1982 p. 4322.
 The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 7(2) and (3) read as follows:
 (2) A person may give notice of a claim under section 93(2) as amended by this section even if the time within which that notice was to be given under that section before that amendment had expired.
@@ -72,6 +76,12 @@ statutory rule means a regulation, rule or by-law.
 (b) that could not have been validly and lawfully done or omitted if this Act had received the Royal Assent before the FSR commencement time,
 is taken not to be valid, and to never have been valid.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 8 had not come into operation. It reads as follows:
+Division 8 — Settlement Agents Act 1981 amended
+58.Act amended
+This Division amends the Settlement Agents Act 1981.
+59.Schedule 2 amended
+Delete Schedule 2 clause 2(fa).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
