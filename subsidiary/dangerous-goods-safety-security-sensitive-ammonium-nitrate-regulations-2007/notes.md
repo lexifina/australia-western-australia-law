@@ -4,3 +4,4 @@ Compilation table
 Citation | Gazettal | Commencement
 Dangerous Goods Safety (Security Risk Substances) Regulations 2007 | 31 Dec 2007 p. 6719-75 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
 Dangerous Goods Safety (Security Risk Substances) Amendment Regulations (No. 2) 2010 | 25 Jun 2010 p. 2877-8 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
+Dangerous Goods Safety (Security Risk Substances) Amendment Regulations 2011 | 4 Oct 2011 p. 3949-52 | r. 1 and 2: 4 Oct 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Oct 2011 (see r. 2(b))
