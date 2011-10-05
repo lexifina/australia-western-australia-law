@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 February 2011 of the Retail Trading Hours Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Retail Trading Hours Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Retail Trading Hours Act 1987 | 123 of 1987 | 31 Dec 1987 | s. 1 and 2: 31 Dec 1987; Act other than s. 1 and 2: 1 Sep 1988 (see s. 2 and Gazette 12 Aug 1988 p. 2695)
@@ -22,6 +22,7 @@ Retail Trading Hours Amendment (Midland Special Trading Precinct) Act 2010 | 37 
 Retail Trading Hours Amendment Act 2010 | 38 of 2010 | 1 Oct 2010 | s. 1 and 2: 1 Oct 2010 (see s. 2(a)); Act other than s. 1 and 2: 1 Nov 2010 (see s. 2(b) and Gazette 22 Oct 2010 p. 5207)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 3: The Retail Trading Hours Act 1987 as at 4 Feb 2011 (includes amendments listed above)
+Retail Trading Hours Amendment Act 2011 | 40 of 2011 | 4 Oct 2011 | s. 1 and 2: 4 Oct 2011 (see s. 2(a)); Act other than s. 1 and 2: 5 Oct 2011 (see s. 2(b))
 Repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
 The Retail Shops and Fair Trading Legislation Amendment Act 2006 s. 18 reads as follows:
 18.Validation
