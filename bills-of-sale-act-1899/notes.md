@@ -45,6 +45,11 @@ Acts Amendment (Bankruptcy) Act 2009 s. 12 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 8 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 6: The Bills of Sale Act 1899 as at 18 Mar 2011 (includes amendments listed above)
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 31 | 42 of 2011 | 4 Oct 2011 | 5 Oct 2011 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 32(1) | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
 The Bills of Sale Amendment Act 1986 s. 6 reads as follows:
 6.Transitional provision
@@ -53,6 +58,9 @@ The Bills of Sale Amendment Act 1986 s. 6 reads as follows:
 The Bills of Sale Amendment Act 1987 s. 8 reads as follows:
 8.Transitional
 The provisions of the principal Act as in force before the day that this Act comes into operation apply to and in relation to a bill of sale made or given before that day but nothing in this section affects the operation of section 7 of the Chattel Securities Act 1987.
+On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 32(1) had not come into operation. It reads as follows:
+32.Bills of Sale Act 1899 and regulations repealed
+(1) The Bills of Sale Act 1899 is repealed.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -67,8 +75,11 @@ debenture5
 grantee5
 grantor5
 hire-purchase agreement5
+migration time6A
+pre-PPS transition period6A
 prescribed5
 registrar5
+registration commencement time6A
+registration function6A
 stock5
 wool5
-By Authority: JOHN A. STRIJK, Government Printer

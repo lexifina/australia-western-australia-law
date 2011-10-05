@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 23 September 2011 of the Chattel Securities Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Chattel Securities Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Chattel Securities Act 1987 | 101 of 1987 | 18 Dec 1987 | s. 1 and 2: 18 Dec 1987; s. 3, 12-14, 15(1), (2) and (4), 16-23, 31-32: 29 Aug 1988 (see s. 2 and Gazette 5 Aug 1988 p. 2583); s. 4-11, 15(3) and 24-30: 14 Nov 1988 (see s. 2 and Gazette 5 Aug 1988 p. 2583)
@@ -18,6 +18,7 @@ Compilation table
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 30 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Fair Trading) Act 2010 s. 186 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 Reprint 3: The Chattel Securities Act 1987 as at 23 Sep 2011 (includes amendments listed above)
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 2 | 42 of 2011 | 4 Oct 2011 | 5 Oct 2011 (see s. 2(b))
 The provision in this Act amending the Consumer Affairs Act 1971 has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant to this Act.
 Defined Terms
@@ -41,13 +42,20 @@ inventory security interest3(1)
 lease3(1)
 lessee3(1)
 lessor3(1)
+migration time3B
 owner3(1)
+pre-PPS transition period3B
+primary provision3C(1)
 purchase3(1)
 purchase price3(1)
 purchaser3(1)
 register3(1)
 registered3(1)
 registrable goods3(1)
+Registrar3B
+registration commencement time3B
+registration function3B
+related provision3C(1)
 secured party3(1)
 security interest3(1)
 supply3(1)
