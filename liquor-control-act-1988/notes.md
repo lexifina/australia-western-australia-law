@@ -41,12 +41,11 @@ Reprint 6: The Liquor Control Act 1988 as at 20 Nov 2009 (includes amendments li
  | Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 31 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
  | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
- | Liquor Control Amendment Act 2010 | 56 of 2010 | 8 Dec 2010 | s. 1 and 2: 8 Dec 2010; s. 3, Pt. 4 and 5: 17 Jan 2011 (see s. 2(b) and Gazette 31 Dec 2010 p. 6887) Pt. 2: 7 Jun 2011 (see s. 2(b) and Gazette 3 Jun 2011 p. 1975)
+ | Liquor Control Amendment Act 2010 | 56 of 2010 | 8 Dec 2010 | s. 1 and 2: 8 Dec 2010; s. 3, Pt. 4 and 5: 17 Jan 2011 (see s. 2(b) and Gazette 31 Dec 2010 p. 6887); Pt. 2: 7 Jun 2011 (see s. 2(b) and Gazette 3 Jun 2011 p. 1975) Pt. 3: 8 Oct 2011 (see s. 2(b) and Gazette 7 Oct 2011 p. 4067)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
  | Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
- | Liquor Control Amendment Act 2010 Pt. 3 | 56 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(b))
  | Building Act 2011 s. 165 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
  | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 11 Div. 1 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Acts 1984 s. 7(4)(f).
@@ -62,153 +61,7 @@ On the date as at which this compilation was prepared, the Prostitution Amendmen
 (1) The amendment in this section is to the Liquor Control Act 1988.
 (2) After section 37(6) the following subsection is inserted —
 (7) An application shall not be granted where the licensing authority is satisfied that the premises to which the application relates are premises at or from which a sexual service business within the meaning of the Sexual Services Act 2000 section 3 operates.
-On the date as at which this compilation was prepared, the Liquor Control Amendment Act 2010 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Amendments relating to liquor restricted premises
-26.Part 5B inserted
-After Part 5A insert:
-Part 5B — Liquor restricted premises
-152N.Terms used
-In this Part —
-applicant, in relation to a liquor restriction declaration, means the person on whose application the declaration was granted;
-liquor restricted premises means premises that are the subject of a liquor restriction declaration that is in force;
-liquor restriction declaration means a declaration made under section 152P;
-occupier, in relation to premises, means a person who is, or is entitled to be, in occupation or control of the premises, whether exclusively or jointly or in common with other persons.
-152O.Liquor prohibited on liquor restricted premises
-(1) A person who —
-(a) brings liquor onto; or
-(b) causes liquor to be brought onto; or
-(c) has in his or her possession or control any liquor on; or
-(d) consumes liquor on,
-liquor restricted premises commits an offence.
-Penalty: a fine of $2 000.
-(2) Subsection (1)(a), (b) and (c) do not apply if —
-(a) the person in possession of the liquor is passing through a part of the liquor restricted premises that is open to the public or through which the person has a right of access; and
-(b) the liquor —
-(i) is in an unopened container or a container that having been opened is securely re-closed; and
-(ii) is intended for consumption off the liquor restricted premises.
-(3) It is a defence to a charge of an offence against subsection (1) to show that the person charged —
-(a) did not know; and
-(b) could not reasonably have been expected to know,
-that the premises were liquor restricted premises.
-152P.Declaration of liquor restricted premises
-(1) The Director may, by notice in writing, declare any of, or any part of, the following to be liquor restricted premises —
-(a) residential premises;
-(b) non-residential private premises, even if all or part of the premises is open to the public;
-(c) Crown land that is occupied by a person who has a right to exclusive possession of the land.
-(2) A declaration may be made so as to declare premises to be a liquor restricted premises —
-(a) at all times; or
-(b) only during such periods as are specified in the declaration.
-(3) A declaration may be made subject to any exemptions or conditions the Director thinks fit.
-(4) The Director may exercise a power under subsection (1) on the application of —
-(a) an owner or occupier of the premises; or
-(b) a person who is, in relation to the premises, in a prescribed class of persons.
-152Q.Making of liquor restriction declaration
-(1) The Director may make a liquor restriction declaration if satisfied that making the declaration —
-(a) either —
-(i) reflects the wishes of the majority of the occupiers of the premises; or
-(ii) is in the public interest, despite not reflecting the wishes of the majority of the occupiers of the premises;
-and
-(b) is reasonable in the circumstances.
-(2) The Director may make a liquor restriction declaration in relation to all or part of the premises to which the application relates.
-(3) If the applicant is not the sole owner and occupier of premises to which an application relates the Director must not declare the premises to be liquor restricted premises unless the Director is satisfied that each other person who owns or occupies any part of the premises —
-(a) consents to the declaration being made; or
-(b) has —
-(i) been informed of the application; and
-(ii) had a reasonable opportunity to make submissions to the Director.
-(4) For the purposes of deciding whether to declare premises to be liquor restricted premises the Director may consult with all or any of the following persons —
-(a) owners or occupiers of the premises the subject of the application;
-(b) owners or occupiers of premises near the premises the subject of the application;
-(c) the Commissioner of Police;
-(d) the relevant local government;
-(e) any other person, body or authority the Director considers may be able to provide information relevant to the application.
-(5) If the Director refuses to make a liquor restriction declaration the Director must notify the applicant of the refusal and the grounds on which it was made.
-152R.Director to notify persons of declaration
-(1) On making a liquor restriction declaration the Director must give a copy of the declaration to —
-(a) the applicant; and
-(b) the Commissioner of Police.
-(2) On making a liquor restriction declaration the Director must give notice of the declaration to each other person who owns or occupies any part of the liquor restricted premises.
-(3) A notice under subsection (2) —
-(a) must comply with section 152S(3)(a); and
-(b) may be given in person or by post.
-(4) A failure to give notice as required by subsection (2) does not affect the validity of the declaration.
-152S.Notice of declaration to be displayed at premises
-(1) As soon as practicable after a liquor restriction declaration is made the applicant must cause a notice about the declaration to be displayed at the liquor restricted premises.
-Penalty: a fine of $2 000.
-(2) The applicant must ensure that the notice remains on display at all times while the declaration is in force.
-Penalty: a fine of $2 000.
-(3) The notice must —
-(a) include —
-(i) a statement that the premises are liquor restricted premises; and
-(ii) a description or diagram of the area that is subject to the declaration in sufficient detail for it to be clearly identified; and
-(iii) a copy of the declaration; and
-(iv) a statement as to the effect of section 152O;
-and
-(b) be displayed in a conspicuous position on the premises; and
-(c) be in a readily legible condition; and
-(d) comply with any requirements prescribed in the regulations.
-(4) If the declaration is varied under section 152U, the notice must be changed accordingly.
-(5) A person must not remove, deface or otherwise interfere with a notice displayed as required by this section.
-Penalty: a fine of $2 000.
-152T.Duration of declaration
-(1) A liquor restriction declaration comes into force when it is made or at any later time specified in the declaration.
-(2) A liquor restriction declaration ceases to be in force when the first of the following occurs —
-(a) if the declaration was granted for a specified period — that period expires;
-(b) the Director revokes the declaration;
-(c) the applicant ceases to be a person who could apply for the declaration.
-(3) The applicant for a declaration must give written notice to the Director if the person ceases to be a person who could apply for the declaration, unless the declaration has already ceased to be in force under subsection (2)(a) or (b).
-Penalty: a fine of $2 000.
-152U.Variation of declaration
-(1) The Director may vary a liquor restriction declaration if the Director is satisfied that varying the declaration —
-(a) either —
-(i) reflects the wishes of the majority of the occupiers of the premises; or
-(ii) is in the public interest, despite not reflecting the wishes of the majority of the occupiers of the premises;
-and
-(b) is reasonable in the circumstances.
-(2) Without limiting the variations that may be made under subsection (1) a declaration may be varied to do any or all of following —
-(a) change the area to which the declaration relates;
-(b) change the periods during which the premises is a liquor restricted premises;
-(c) create or change exemptions to, or conditions on, the declaration;
-(d) change the duration of the declaration.
-(3) The Director may exercise a power under subsection (1) —
-(a) at any time on the Director’s own initiative; or
-(b) on the application of —
-(i) the applicant for the declaration; or
-(ii) any other person who owns or occupies any part of the premises; or
-(iii) the Commissioner of Police.
-(4) The Director must not vary a liquor restriction declaration unless the Director is satisfied that each person who owns or occupies any part of the premises —
-(a) consents to the variation being made; or
-(b) has —
-(i) been informed of the proposed variation; and
-(ii) had a reasonable opportunity to make submissions to the Director.
-(5) Section 152Q(4) and (5) apply, with any necessary modifications, to the exercise by the Director of a power under subsection (1).
-152V.Revocation of declaration
-(1) The Director may revoke a liquor restriction declaration if the Director is satisfied that the continuation of the declaration —
-(a) does not reflect the wishes of the majority of the occupiers of the premises; or
-(b) is not in the public interest; or
-(c) is not reasonable in the circumstances.
-(2) The Director may exercise a power under subsection (1) —
-(a) at any time on the Director’s own initiative; or
-(b) on the application of —
-(i) the applicant for the declaration; or
-(ii) any other person who owns or occupies any part of the premises; or
-(iii) the Commissioner of Police.
-(3) The Director must not revoke a liquor restriction declaration unless the Director is satisfied that each person who owns or occupies any part of the premises —
-(a) consents to the revocation being made; or
-(b) has —
-(i) been informed of the proposed revocation; and
-(ii) had a reasonable opportunity to make submissions to the Director.
-(4) Section 152Q(4) and (5) apply, with any necessary modifications, to the exercise by the Director of a power under subsection (1).
-152W.Applications generally
-(1) In this section —
-application means any application for the purposes of this Part.
-(2) An application must be made to the Director in the form and manner approved by the Director.
-(3) An application must be accompanied by the prescribed fee.
-(4) An applicant must provide the Director with any information or document that the Director reasonably requires.
-(5) If an applicant does not comply with the requirements of this Part for the making of the application the Director —
-(a) may accept the application if the Director considers it appropriate to do so; or
-(b) may decline to deal with the application and, if so, must advise the applicant accordingly.
-152X.Decisions under Part 5B not subject to review
-A decision made by the Director under this Part is not subject to review under section 25.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Building Act 2011 s. 165 had not come into operation. It reads as follows:
 165.Liquor Control Act 1988 amended
 (1) This section amends the Liquor Control Act 1988.
@@ -223,3 +76,167 @@ This Division amends the Liquor Control Act 1988.
 95.Section 30A amended
 After section 30A(2) insert:
 (3) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), a licence granted under subsection (1) that is transferable by the licensee is declared not to be personal property for the purposes of that Act.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+3 unrelated adults117(2b)
+a director3(1)
+a function3(1)
+a juvenile3(1)
+a kind3(1)
+a member of the family125(3)
+ActSch. 1, cl. 1(1)
+alleged offence167(1)
+alleged offender167(1)
+applicable day65A(1)
+applicant152N, Sch. 1B, cl. 4(1)
+application152W(1), Sch. 1, cl. 1(1)
+approved manager102A, Sch. 1B, cl. 1
+approved restricted manager3(1)
+approved unrestricted manager3(1)
+assessment3(1)
+authorised officer3(1)
+authorised person3(1)
+beer3(1)
+buyer109(4A)
+casino3(1)
+casino complex3(1)
+casino complex agreement3(1)
+casino gaming licence3(1)
+casino liquor licence3(1)
+chairperson3(1)
+closing time3(1)
+club49(1)
+club licence3(1)
+club restricted licence3(1)
+commencement daySch. 1A, cl. 1, 1B, cl. 1
+Commission3(1)
+Commissioner of Police3(1)
+condition3(1)
+confidential police information3(1)
+consume3(1)
+country townsite36A(1), 65A(1)
+CourtSch. 1A, cl. 1
+crowd control agent3(1)
+crowd controller126C(1)
+crowd controller’s licence3(1)
+decision3(1)
+dining area3(1)
+Director3(1)
+Director of Liquor Licensing3(1)
+disqualified3(1)
+drunk3(1), 3A(1)
+employed152A
+employee3(7), 165(4)
+Executive Director69(8b)
+extended trading permit3(1)
+former ActSch. 1A, cl. 1
+Gaming and Wagering Commission3(1)
+gross turnover3(1)
+guest3(1)
+host club48(5)
+hotel licence3(1)
+hotel restricted licence3(1)
+identification notice37B(1)
+infringement notice167(1)
+inspector3(1)
+interest of the community3(1)
+lawyer3(1)
+lease3(1)
+lessee3(1)
+lessor3(1)
+licence3(1), Sch. 1, cl. 1(1)
+licence fee3(1)
+licence period3(1)
+licensed premises3(1), 153(3), 154(4), Sch. 1, cl. 1(1)
+licensee3(1), Sch. 1, cl. 1(1)
+licensing authority3(1)
+liquor3(1)
+liquor accord64(1b)
+liquor merchant3(1)
+liquor restricted premises152N
+liquor restriction declaration152N
+liquor store licence3(1)
+lodger3(1)
+low alcohol liquor3(1)
+manager3(1)
+manager’s approval102A
+meal3(1)
+member3(1), 3(1)
+metropolitan area3(1)
+modified penalty167(1)
+new ActSch. 1A, cl. 1
+nightclub licence3(1)
+non-liquor business on licensed premises119A(1)
+notice115AD(1)
+occasional licence3(1)
+occupier152N
+officer164(2)
+old section 35BSch. 1B, cl. 1
+other licensee55(1a), 58(2a)
+owner3(1)
+packaged liquor3(1)
+packaged liquor outlet36A(1)
+party to proceedings3(1)
+permit3(1), Sch. 1, cl. 1(1)
+permitted hours3(1)
+person authorised to sell liquor3(1)
+petrol station36A(1), 65A(1)
+premises3(1)
+prescribed3(1)
+producer129
+producer’s licence3(1)
+prohibition order152A
+proprietary company3(1)
+protection order3(1), 87(1)
+public body37(1A)
+public event110(4B)
+reception3(1)
+reception area3(1)
+record3(1)
+regulated premises3(1)
+related body corporate3(1)
+relative3(1)
+relevant liquor57(1)
+relevant matters69(8b)
+relevant period57(1), 93(1a)
+relevant person152A
+removal3(1)
+responsible person3(1)
+restaurant3(1)
+restaurant licence3(1)
+sample3(1)
+Secretary3(1)
+secure webpage115AC(1A)
+sell3(1)
+seller109(4A)
+serious and organised crime152A
+ship3(1)
+small bar licence3(1)
+special event notice126E(1)
+special facility licence3(1)
+specified31(8), 40(3), 53(2), 59(6), 60(9), 99(5), 115AA(1), 126E(1), 172(12)
+spirits3(1)
+sports arena110(4B)
+subsidy3(1)
+substance3(1)
+tavern licence3(1)
+tavern restricted licence3(1)
+the appointed daySch. 1, cl. 1(1)
+the AssociationSch. 2, cl. 1
+the clubSch. 2, cl. 1, 2, cl. 1
+the Committee of ManagementSch. 2, cl. 1
+the LeagueSch. 2, cl. 1
+the repealed ActSch. 1, cl. 1(1)
+the required day62(4)
+the State Branch HeadquartersSch. 2, cl. 1
+the State ExecutiveSch. 2, cl. 1
+this Act3(1)
+townsite3(1)
+transitional regulationsSch. 1A, cl. 10(1)
+transitioned approvalSch. 1B, cl. 3(1)
+trustee3(1)
+vehicle3(1)
+wholesaler129
+wholesaler’s licence3(1)
+wine3(1)
