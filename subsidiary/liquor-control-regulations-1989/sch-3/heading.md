@@ -59,6 +59,7 @@ Item | Description | Fee $ | Electronic lodgment fee $
 18. | Application for approval of agreement or arrangement and for each person who is a party to the agreement or arrangement and in relation to whom a background check is sought from the Police Service | 205 140
 19A. | Application under section 115AD for review of decision to give notice | 228
 19B. | Application under section 119A for approval to conduct non-liquor business on licensed premises | 205
+19C. | Application under section 152W(3), other than by an occupier of premises, for a liquor restriction declaration in relation to the premises | 250.00
 19. | Application under section 126A for approval of entertainment for juveniles on licensed premises | 60
 20. | Application for Proof of Age Card | 25
 21. | Supply of a list of licensed premises or a list of owners of licensed premises | 85
@@ -76,4 +77,4 @@ Item | Description | Fee $ | Electronic lodgment fee $
 33. | For a search of postcodes —
  | (a)1 to 10 postcodes | 35
  | (b)more than 10 postcodes | 75
-[Schedule 3 inserted in Gazette 19 Nov 2010 p. 5744-7; amended in Gazette 3 Jun 2011 p. 1998-9 and 2001-2.]
+[Schedule 3 inserted in Gazette 19 Nov 2010 p. 5744-7; amended in Gazette 3 Jun 2011 p. 1998-9 and 2001-2; 7 Oct 2011 p. 4070.]
