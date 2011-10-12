@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 16 September 2011 of the Misuse of Drugs Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Misuse of Drugs Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Misuse of Drugs Act 1981 | 66 of 1981 | 23 Oct 1981 | 1 Sep 1982 (see s. 2 and Gazette 20 Aug 1982 p. 3250)
@@ -43,6 +43,7 @@ Misuse of Drugs (Numbers of Cannabis Plants) Order 2010 published in Gazette 15 
 Misuse of Drugs (Amounts of Prohibited Drugs) Order 2011 published in Gazette 29 Apr 2011 p. 1532-4 | cl. 1 and 2: 29 Apr 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 30 Apr 2011 (see cl. 2(b))
 Misuse of Drugs (Amounts of Prohibited Drugs) Order (No. 2) 2011 published in Gazette 1 Jul 2011 p. 2742-5 | cl. 1 and 2: 1 Jul 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 2 Jul 2011 (see cl. 2(b))
 Reprint 5: The Misuse of Drugs Act 1981 as at 16 Sep 2011 (includes amendments listed above)
+Misuse of Drugs (Amounts of Prohibited Drugs) Order (No. 3) 2011 published in Gazette 11 Oct 2011 p. 4316-20 | cl. 1 and 2: 11 Oct 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 12 Oct 2011 (see cl. 2(b))
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 read as follows:
