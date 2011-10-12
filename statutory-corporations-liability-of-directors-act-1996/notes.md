@@ -34,6 +34,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 87 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
+Metropolitan Redevelopment Authority Act 2011 s. 143 | 45 of 2011 | 12 Oct 2011 | To be proclaimed (see s. 2(b))
 The Insurance Commission of Western Australia Act 1986 Part III provides for the establishment of the State Government Insurance Corporation and for a board of directors of the Corporation. The Acts Amendment (ICWA) Act 1996 s. 20, which had not come into operation at the date on which this reprint was prepared, would repeal that Part.
 Formerly referred to the State Government Insurance Commission Act 1986 the short title of which was changed to the Insurance Commission of Western Australia Act 1986 by the Acts Amendment (ICWA) Act 1996 s. 5. The reference was substituted under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993.
@@ -53,3 +54,13 @@ On the date as at which this compilation was prepared, the State Superannuation 
 State Superannuation Board | a director | State Superannuation Act 2000
 ”.
 ”.
+On the date as at which this compilation was prepared, the Metropolitan Redevelopment Authority Act 2011 s. 143 had not come into operation. It reads as follows:
+143.Statutory Corporations (Liability of Directors) Act 1996 amended
+(1) This section amends the Statutory Corporations (Liability of Directors) Act 1996.
+(2) In Schedule 1 delete the items for:
+Armadale Redevelopment Authority
+East Perth Redevelopment Authority
+Midland Redevelopment Authority
+Subiaco Redevelopment Authority
+(3) In Schedule 1 insert in alphabetical order:
+Metropolitan Redevelopment Authority | a member of the board of management of the Authority | Metropolitan Redevelopment Authority Act 2011
