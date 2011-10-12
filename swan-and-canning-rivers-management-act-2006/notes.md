@@ -12,6 +12,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
  | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 6 Div. 2 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
+ | Metropolitan Redevelopment Authority Act 2011 s. 144 | 45 of 2011 | 12 Oct 2011 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 6 Div. 2 had not come into operation. It reads as follows:
 Division 2 — Swan and Canning Rivers Management Act 2006 amended
 69.Act amended
@@ -19,6 +20,69 @@ This Division amends the Swan and Canning Rivers Management Act 2006.
 70.Section 32 amended
 After section 32(7) insert:
 (8) If a licence granted under subsection (1) in respect of the River reserve is transferable by the licensee, in accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), the licence is declared not to be personal property for the purposes of that Act.
+On the date as at which this compilation was prepared, the Metropolitan Redevelopment Authority Act 2011 s. 144 had not come into operation. It reads as follows:
+144.Swan and Canning Rivers Management Act 2006 amended
+(1) This section amends the Swan and Canning Rivers Management Act 2006.
+(2) In section 3(1) delete the definition of redevelopment authority.
+(3) In section 3(1) insert in alphabetical order:
+Metropolitan Redevelopment Authority means the body established by the Metropolitan Redevelopment Authority Act 2011 section 4;
+(4) In section 3(1):
+(a) in the definition of development after paragraph (a) insert:
+and
+(b) in the definition of officer of the Trust after paragraph (a) insert:
+or
+(c) in the definition of owner after paragraph (b)(i) insert:
+and
+(d) in the definition of public authority after paragraph (a) insert:
+or
+(e) in the definition of strategic document after paragraph (a) insert:
+or
+(5) In section 22(1):
+(a) delete “government, or a redevelopment authority, referred to in Schedule 7” and insert:
+government referred to in Schedule 7 or the Metropolitan Redevelopment Authority,
+(b) delete “or redevelopment authority.” and insert:
+or the Metropolitan Redevelopment Authority.
+(6) Delete section 22(3) and insert:
+(3) A relevant matter for the Metropolitan Redevelopment Authority is one that relates to a development or proposed development that is in a redevelopment area as defined in the Metropolitan Redevelopment Authority Act 2011 section 3.
+(7) In section 22(4) delete “a redevelopment authority” and insert:
+the Metropolitan Redevelopment Authority
+(8) In section 22(5) delete “a redevelopment authority” and insert:
+the Metropolitan Redevelopment Authority
+(9) In section 22(6) delete “redevelopment authority” (each occurrence) and insert:
+Metropolitan Redevelopment Authority
+(10) In section 26(1):
+(a) delete “government, or a redevelopment authority, referred to in Schedule 7” and insert:
+government referred to in Schedule 7 or the Metropolitan Redevelopment Authority,
+(b) delete “or redevelopment authority.” and insert:
+or the Metropolitan Redevelopment Authority.
+(11) Delete section 26(2) and insert:
+(2) If a proposal is referred to it, the Metropolitan Redevelopment Authority or a local government may make submissions to the Trust on the proposal.
+(12) In section 26(4) delete “redevelopment authority” and insert:
+Metropolitan Redevelopment Authority
+(13) In section 72(1) delete “subsection (2) or (3).” and insert:
+subsection (2).
+(14) Delete section 72(2) and (3) and insert:
+(2) If —
+(a) a development is proposed to be carried out on land that is within a redevelopment area as defined in the Metropolitan Redevelopment Authority Act 2011 section 3; and
+(b) a redevelopment scheme that is in operation under that Act applies to the land,
+an application for development approval must be made to the Metropolitan Redevelopment Authority.
+(15) In section 72(4) delete “subsection (1), (2) or (3),” and insert:
+subsection (1) or (2),
+(16) In section 72(6) delete “subsection (1), (2) or (3)” and insert:
+subsection (1) or (2)
+(17) In Schedule 5 item 1:
+(a) delete paragraphs (a) and (d);
+(b) delete paragraph (q) insert:
+(q) the Metropolitan Redevelopment Authority Act 2011;
+(c) delete paragraph (aa).
+(18) Delete Schedule 5 items 2, 5, 10 and 13.
+(19) In Schedule 7:
+(a) in the heading delete “and redevelopment authorities”;
+(b) delete the heading “Local governments”;
+(c) delete the heading “Redevelopment authorities”;
+(d) delete the items for:
+East Perth Redevelopment Authority
+Midland Redevelopment Authority
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
