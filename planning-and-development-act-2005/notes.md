@@ -21,6 +21,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Building Act 2011 s. 168 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
+Metropolitan Redevelopment Authority Act 2011 s. 141 | 45 of 2011 | 12 Oct 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Land Administration Act 1997.
 Repealed by the Water Resources Legislation Amendment Act 2007.
 Repealed by the Mining Act 1978.
@@ -187,6 +188,44 @@ Note:The heading to amended s. 131 is to read:
 Building standards etc. to prevail
 (5) In section 136(3) in the definition of land paragraph (a) delete “or under an Act repealed by that Act, or a building licence to construct the building is in force under that section; and” and insert:
 (deleted by the Building Act 2011 section 153(2)) or a building permit granted under the Building Act 2011, or a building permit, occupancy permit or building approval certificate is in effect under the Building Act 2011 in respect of the building; and
+On the date as at which this compilation was prepared, the Metropolitan Redevelopment Authority Act 2011 s. 141 had not come into operation. It reads as follows:
+141.Planning and Development Act 2005 amended
+(1) This section amends the Planning and Development Act 2005.
+(2) Delete section 16(6) and insert:
+(6) Except as provided in subsection (7A), a delegate must not further delegate any function.
+(3) After section 16(6) insert:
+(7A) If the Commission delegates a function of the Commission to the Metropolitan Redevelopment Authority established under the Metropolitan Redevelopment Authority Act 2011, the Authority may subdelegate the exercise or performance of the function to any land redevelopment committee established under that Act.
+(7B) A subdelegation under subsection (7A) takes effect when notice of the subdelegation is published in the Gazette.
+(7C) Subsections (4), (5) and (7) and the Interpretation Act 1984 sections 58 and 59 apply to a subdelegation of a function under this section in the same way as they apply to a delegation of a function.
+(7D) A subdelegate must not further delegate any function subdelegated under subsection (7A).
+(4) Delete section 36(c) and insert:
+(c) except as provided in the Metropolitan Redevelopment Authority Act 2011 section 58 and without limiting section 51 of that Act, to make any provision in respect of any land to which an approved redevelopment scheme that is in operation under that Act applies; or
+(5) Delete section 71 and insert:
+71.Local planning schemes not to apply to redevelopment areas
+A local planning scheme must not be made or amended under this Act —
+(a) except as provided in the Metropolitan Redevelopment Authority Act 2011 sections 57 and 58 and without limiting section 51 of that Act, to make any provision in respect of any land to which an approved redevelopment scheme that is in operation under that Act applies; or
+(b) without limiting the Hope Valley-Wattleup Redevelopment Act 2000 section 23, to make any provision in respect of land in the redevelopment area as defined in that Act.
+(6) After section 76(3) insert:
+(4) The Minister must ensure that written reasons for making an order under subsection (1) are provided with the order.
+(5) The Minister must, as soon as is practicable after an order is given to the local government under subsection (1), cause to be laid before each House of Parliament or dealt with under section 268A —
+(a) a copy of the order; and
+(b) a copy of the reasons for making the order.
+(7) Delete section 112(2)(a) and insert:
+(a) land to which an approved redevelopment scheme under the Metropolitan Redevelopment Authority Act 2011 applies; or
+(8) Delete section 119(3A)(a) and insert:
+(a) land to which an approved redevelopment scheme under the Metropolitan Redevelopment Authority Act 2011 applies; or
+(9) Delete section 199(2) and insert:
+(2) The Commission is also authorised to apply money standing to the credit of the MRI Account to payment of expenditure required for the purpose of carrying out the Metropolitan Redevelopment Authority Act 2011 or the Hope Valley-Wattleup Redevelopment Act 2000.
+(10) Delete section 262(5) and insert:
+(5) In subsection (4) a reference to a planning scheme includes a reference to —
+(a) an approved redevelopment scheme as defined in the Metropolitan Redevelopment Authority Act 2011 section 3; and
+(b) a master plan approved under the Hope Valley-Wattleup Redevelopment Act 2000.
+(11) In section 268A(1) delete “section 77A(4) or (5), 119(5A) or 246(4)” and insert:
+a provision of this Act
+The Metropolitan Redevelopment Authority Act 2011 s. 135 reads as follows:
+135.Approvals and Related Reforms (No. 4) (Planning) Act 2010 amended
+(1) This section amends the Approvals and Related Reforms (No. 4) (Planning) Act 2010.
+(2) In section 56 delete the passage that begins with “(4)” and ends with “section 268A.”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
