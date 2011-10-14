@@ -25,8 +25,8 @@
 (e)permit under section 20A | r. 4D(2) | 25.00
 (f)prospecting licence |  | 260.00
 (g)retention licence |  | 665.00
-10.Application fee for approval of retention status ............................................................... |  | 250.00
-11.Copy of all or part of document or report (per copy) ............................................................... | r. 25B | 8.00
+10.Application fee for approval of retention status |  | 250.00
+11.Copy of all or part of document or report (per copy) | r. 25B | 8.00
 12.Copy of —
 (a)entry in the register (per tenement) | r. 84D | 8.00
 (b)dealing or other instrument (per tenement) | r. 84D | 8.00
