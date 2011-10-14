@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government (Audit) Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 October 2011 of the Local Government (Audit) Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Local Government (Audit) Regulations 1996 | 24 Jun 1996 p. 2827-32 | 1 Jul 1996 (see r. 2)
@@ -10,4 +10,15 @@ Reprint 1: The Local Government (Audit) Regulations 1996 as at 10 Oct 2003 (incl
 Local Government (Audit) Amendment Regulations 2004 | 1 Jun 2004 p. 1917 | 1 Jun 2004
 Local Government (Audit) Amendment Regulations 2005 | 31 Mar 2005 p. 1042-3 | 7 May 2005 (see r. 2)
 Local Government (Audit) Amendment Regulations (No. 2) 2005 | 30 Sep 2005 p. 4418-20 | 30 Sep 2005
-Local Government (Audit) Amendment Regulations 2010 | 21 Dec 2010 p. 6758-61 | r. 1 and 2: 21 Dec 2010 (see r. 2(a)); Regualtions other than r. 1 and 2: 22 Dec 2010 (see r. 2(b))
+Local Government (Audit) Amendment Regulations 2010 | 21 Dec 2010 p. 6758-61 | r. 1 and 2: 21 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Dec 2010 (see r. 2(b))
+Reprint 2: The Local Government (Audit) Regulations 1996 as at 14 Oct 2011 (includes amendments listed above)
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+audit committee3
+Australian Accounting Standards3
+certified15(2)
+compliance audit3
+relevant person6(3)
+section3
+value6(3)
