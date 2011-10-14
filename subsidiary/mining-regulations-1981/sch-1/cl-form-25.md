@@ -1,7 +1,7 @@
 ### Form 25Mortgage
  | Form 25 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 77) |  | STAMP DUTY
  |  | MORTGAGENo.
- | DETAILS OF TENEMENTS BEING MORTGAGED. State Type, Number and Mineral field
+ | DETAILS OF TENEMENTS BEING MORTGAGED. State Type, Number and Mineral Field
  | INTEREST BEING MORTGAGED. State whether the whole of the shares in the above tenement or some lesser interest
  | ENCUMBRANCES. Insert details of any encumbrances registered against the mining tenement. If none insert ‘NIL’
  | MORTGAGOR. Full name and address

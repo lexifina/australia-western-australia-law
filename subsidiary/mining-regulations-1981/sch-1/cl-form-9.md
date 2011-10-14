@@ -1,7 +1,7 @@
 ### Form 9Application for extension of term/renewal of a mining tenement
 Form 9WESTERN AUSTRALIA Mining Act 1978 (Secs. 45, 61, 70E, 78, 88, 91A, 91B) (Regs. 16B, 23A, 23F, 29, 36A, 42A)
  | APPLICATION FOR EXTENSION OF TERM/RENEWAL OF A MINING TENEMENT No.
-(a)Type of Tenement (b)Number (c)Mineral field (d)Expiry date | Details of mining tenement (a) (b) (c) (d)
+(a)Type of Tenement (b)Number (c)Mineral Field (d)Expiry date | Details of mining tenement (a) (b) (c) (d)
 (e)Full name and address of holder(s) | Holder (e)
 (f)Signature of holder or agent | THE HOLDER of the abovementioned mining tenement hereby applies for extension/renewal thereof for a further period of years. DATED THIS day of 20 Signed (f) ....................................................................................................
 O F F I C E U S E |  | Received at ....................................m. on ........................................................ together with rent of $ for the year ending ....../....../...... ............................................................. (Mining Registrar)

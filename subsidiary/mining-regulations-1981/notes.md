@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mining Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 October 2011 of the Mining Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Mining Regulations 1981 | 13 Nov 1981 p. 4601-76 | 1 Jan 1982 (see r. 1(2) and Gazette 11 Dec 1981 p. 5085)
@@ -116,6 +116,7 @@ Mining Amendment Regulations (No. 2) 2011 | 1 Mar 2011 p. 684-5 | r. 1 and 2: 1 
 Mining Amendment Regulations (No. 3) 2011 | 18 Mar 2011 p. 911-25 | r. 1 and 2: 18 Mar 2011 (see r. 2(a)); Regulations other than r. 1, 2 and 28: 21 Mar 2011 (see r. 2(c) and Gazette 18 Mar 2011 p. 909); r. 28: 1 Jul 2011 (see r. 2(b) and Gazette 18 Mar 2011 p. 909)
 Mining Amendment Regulations (No. 4) 2011 | 24 Jun 2011 p. 2510-15 | r. 1 and 2: 24 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Mining Amendment Regulations (No. 5) 2011 | 11 Oct 2011 p. 4315-16 | r. 1 and 2: 11 Oct 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Oct 2011 (see r. 2(b))
+Reprint 9: The Mining Regulations 1981 as at 14 Oct 2011 (includes amendments listed above)
 The Mining Amendment Act 1990 was operative 28 June 1991.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -142,6 +143,7 @@ allowed period84B(1)
 Amount A86(2a)
 Amount B86(2a)
 another tenementSch. 3 cl. 7(5)
+application70BA(1), 70BB(1), 70BC(1), 70BD(1)
 approved surveyor116
 Australian Geodetic DatumSch. 3 cl. 1(1)
 beneficiation plant86AC(1)
@@ -158,14 +160,17 @@ datum post37(1)(a)
 decreasing adjustment85AA(5)
 deliverer86AA(11)
 determination137(1)
-Director120P
+Director116, 120P
 Director, Environment Division2
+document59A(1)
 environmental officer2
 existing amount86(2d)
 existing exploration licence2, Sch. 3 cl. 1(1)
 expense85AA(3)
+file2
 first body corporate85(1)
 Form2
+GDA89A(2)
 gold bearing material86AA(11)
 gold metal86AA(11)
 gold royalty project86AA(11)
@@ -188,12 +193,13 @@ lawyer2
 lease application63A(1)
 licensed surveyor116
 licensee statement4A
-lodge137(1)
+lodge2
 mention hearing137(1)
 mineral exploration report2, 96(1)
 mining information96(1)
 mining survey116
 mining tenement86AA(11)
+mining tenement document59B(1)
 net GST85AA(5)
 net input tax credit85AA(4)
 nickel by-product85(1)
@@ -207,7 +213,6 @@ party137(1)
 permit4A
 permit holder4A
 PLSch. 4 cl. 1
-prescribed application69A(1)
 prescribed fee2
 prescribed landSch. 3 cl. 1(1)
 prescribed period84F(1)
@@ -225,7 +230,7 @@ relevant depth101A(1)
 relevant exploration licence4A
 relevant land22A(b)(iii)
 relevant operations report58A(1)
-relevant period86(2a)
+relevant period86(2a), 86(2a)
 reversion licence63A(1)
 royalty return2
 royalty value85(1)
@@ -241,7 +246,5 @@ sold85(1)
 summons125(1a)
 supply85AA(5)
 tenement116
-the Act2
-the Director116
-the GDA89A(2)
 treatment facility86AA(11)
+working day2

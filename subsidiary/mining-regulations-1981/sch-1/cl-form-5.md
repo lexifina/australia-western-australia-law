@@ -41,7 +41,7 @@ I certify that the information on pages 1 and 2 and in Attachment 1 “Summary o
  |  | Gold | $ |  |  | Diamond | $
  |  | Iron ore | $ |  |  | Mineral Sands | $
  |  | Nickel/Cobalt | $ |  |  | Other (specify) | $
- |  | Copper/Lead/ Zinc/Silver | $ |  |  | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ |  | Copper/Lead/ Zinc/Silver | $ |  |  | ................................. .................................
 This page is not to be copied in conjunction with regulation 96(3).
 Note: ATTACHMENT 1 — SUMMARY OF MINERAL-EXPLORATION AND/OR MINING ACTIVITIES | OR | ATTACHMENT 2 — SUMMARY OF PROSPECTING AND/OR SMALL SCALE MINING ACTIVITIES |  | HEAD OFFICE USE | This operations report received
 (A)The attachments to the Form 5 are to provide a summary of the activities carried out and the cost of each activity. For Attachment 1 you may either use the pro-forma sheet or a separate sheet with the suggested headings as shown under 4(A) and (B) in the instructions. For Attachment 2 the pro-forma sheet available from the Department must be used. (B)A copy of Attachment 1 or 2 will be provided together with a copy of the front page of the Form 5 to any person on payment of the prescribed fee.
@@ -86,8 +86,8 @@ All other native title and land access costs including private land access costs
 N.B. The amount allowed under E and F not to exceed 20% of the minimum expenditure commitment or the total expenditure incurred on activities, whichever is the greater.
 NON-ALLOWABLE EXPENDITURE
 5.This includes the following —
-(a)cost of marking-out of mining tenements;
-(b)acquisition costs of tenements and associated expenses;
+(a)cost of marking-out of mining tenements; and
+(b)acquisition costs of tenements and associated expenses; and
 (c)research activities not directly related to a specific tenement; and
 (d)compensation payments.
 MINERAL EXPLORATION REPORTS
