@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Land Valuers Licensing Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 October 2011 of the Land Valuers Licensing Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Valuers Licensing Act 1978 | 55 of 1978 | 6 Sep 1978 | 1 Jul 1979 (see s. 2 and Gazette 22 Jun 1979 p. 1677)
@@ -20,27 +20,33 @@ Legal Profession Act 2008 s. 671 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Reprint 3: The Land Valuers Licensing Act 1978 as at 17 Jul 2009 (includes amendments listed above)
 Acts Amendment (Bankruptcy) Act 2009 s. 49 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Acts Amendment (Fair Trading) Act 2010 Pt. 3 | 58 of 2010 | 8 Dec 2010 | 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
+Reprint 4: The Land Valuers Licensing Act 1978 as at 14 Oct 2011 (includes amendments listed above) (correction to reprint in Gazette 24 Aug 2012 p. 3959)
 The Land Valuers Licensing Amendment Act 1984 s. 4(2) and 6(2) are transitional provisions that are of no further effect.
 The Business Licensing Amendment Act 1995 s. 32 is a transitional provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82, to the extent it amends this Act, was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 78(2)(b).
+The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82, to the extent it amends this Act, was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 78(2)(b).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 approved4
 Australian Property Institute4
-Chairman4
+commencement day37
+Commissioner4
 corporation4
+department4
+former Board37
+former Registrar37
 land4
 lawyer4
-legal experience6(1a)
 legal practitioner4
+liability37
 licence4
 licensed valuer4
 licensed valuers code of conduct4
-member4
 officer4
 person aggrieved16(2)
-Registrar4
+residual assets44(b)
 reviewable decision16(2)
-the Board4
+right37
+specified46(6)
+transitional matter46(2)
