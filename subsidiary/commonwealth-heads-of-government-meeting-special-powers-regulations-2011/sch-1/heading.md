@@ -1,5 +1,86 @@
 ## Schedule 1 — Core security areas
 [r. 6, 7, 8, 9, 10, 11, 12, 13 and 14]
+## Division 1A — Big Aussie Barbeque core security area
+[Heading inserted in Gazette 21 Oct 2011 p. 4454.]
+(1) The area of land in the City of Perth, City of South Perth and the Town of Victoria Park contained within a line that —
+(a) starts at the point on the north eastern side of the Causeway perpendicularly above the high water mark of the north eastern side of the Swan River (the start point); and
+(b) then continues in a generally north westerly direction along the north eastern side of the carriageway of the Causeway to the point it becomes Hay Street; and
+(c) then continues in a generally northerly direction along the eastern side of the carriageway of Hay Street to the north eastern corner of the intersection of Hay Street and Trinity Avenue; and
+(d) then continues in a generally westerly direction along the northern side of that intersection to the western corner of that intersection; and
+(e) then continues in a generally southerly direction along the western side of that intersection and the western side of the carriageway of Hay Street to the roundabout at the intersection of Hay Street and Adelaide Terrace; and
+(f) then continues around the northern side of the carriageway of the roundabout to the northern side of Adelaide Terrace; and
+(g) then continues along the northern side of Adelaide Terrace to the north eastern corner of the intersection of Adelaide Terrace and Erskine Link; and
+(h) then continues along the eastern side of Erskine Link to its intersection with the southern side of Hay Street; and
+(i) then continues in a generally westerly direction at a right angle to the eastern side of Erskine Link to the western side of Erskine Link; and
+(j) then continues along the western side of Erskine Link to the north western corner of its intersection with Adelaide Terrace; and
+(k) then continues along the northern side of Adelaide Terrace to the north eastern corner of the intersection of Adelaide Terrace and De Vlamingh Avenue; and
+(l) then continues along the eastern side of De Vlamingh Avenue to its intersection with the southern side of Hay Street; and
+(m) then continues in a generally westerly direction at a right angle to the eastern side of De Vlamingh Avenue to the western side of De Vlamingh Avenue; and
+(n) then continues along the western side of De Vlamingh Avenue to the north western corner of its intersection with Adelaide Terrace; and
+(o) then continues along the northern side of Adelaide Terrace to the north eastern corner of the intersection of Adelaide Terrace and Plain Street; and
+(p) then continues along the eastern side of Plain Street to its intersection with the southern side of Hay Street; and
+(q) then continues in a generally westerly direction at a right angle to the eastern side of Plain Street to the western side of Plain Street; and
+(r) then continues along the western side of Plain Street to the north western corner of its intersection with Adelaide Terrace; and
+(s) then continues along the northern side of Adelaide Terrace to the north eastern corner of the intersection of Adelaide Terrace and Bennett Street; and
+(t) then continues along the eastern side of Bennett Street to its intersection with the southern side of Hay Street; and
+(u) then continues in a generally westerly direction at a right angle to the eastern side of Bennett Street to the western side of Bennett Street; and
+(v) then continues along the western side of Bennett Street to the north western corner of its intersection with Adelaide Terrace; and
+(w) then continues along the northern side of Adelaide Terrace to the north eastern corner of the intersection of Adelaide Terrace and Hill Street; and
+(x) then continues along the eastern side of Hill Street to its intersection with the southern side of Hay Street; and
+(y) then continues in a generally westerly direction at a right angle to the eastern side of Hill Street to the western side of Hill Street; and
+(z) then continues along the western side of Hill Street to the north western corner of its intersection with Adelaide Terrace; and
+(aa) then continues along the northern side of Adelaide Terrace to the north eastern corner of the intersection of Adelaide Terrace and Victoria Avenue; and
+(bb) then continues along the eastern side of Victoria Avenue to its intersection with the southern side of Hay Street; and
+(cc) then continues in a generally westerly direction at a right angle to the eastern side of Victoria Avenue to the western side of Victoria Avenue; and
+(dd) then continues along the western side of Victoria Avenue to the north western corner of its intersection with St Georges Terrace; and
+(ee) then continues along the northern side of St Georges Terrace to the north eastern corner of the intersection of St Georges Terrace and Irwin Street; and
+(ff) then continues along the eastern side of Irwin Street to its intersection with the southern side of Hay Street; and
+(gg) then continues in a generally westerly direction at a right angle to the eastern side of Irwin Street to the western side of Irwin Street; and
+(hh) then continues along the western side of Irwin Street to the north western corner of its intersection with St Georges Terrace; and
+(ii) then continues along the northern side of St Georges Terrace to the north eastern corner of the intersection of St Georges Terrace and Pier Street; and
+(jj) then continues along the eastern side of Pier Street to its intersection with the southern side of Hay Street; and
+(kk) then continues in a generally westerly direction at a right angle to the eastern side of Pier Street to the western side of Pier Street; and
+(ll) then continues along the western side of Pier Street to the north western corner of its intersection with St Georges Terrace; and
+(mm) then continues along the northern side of St Georges Terrace to the north eastern corner of the intersection of St Georges Terrace and Cathedral Avenue; and
+(nn) then continues along the eastern side of Cathedral Avenue to its intersection with the southern side of Hay Street; and
+(oo) then continues in a generally westerly direction at a right angle to the eastern side of Cathedral Avenue to the western side of Cathedral Avenue; and
+(pp) then continues along the western side of Cathedral Avenue to the north western corner of its intersection with St Georges Terrace; and
+(qq) then continues along the northern side of St Georges Terrace to the north eastern corner of the intersection of St Georges Terrace and Barrack Street; and
+(rr) then continues along the eastern side of Barrack Street to its intersection with the southern side of Hay Street; and
+(ss) then continues in a generally westerly direction at a right angle to the eastern side of Barrack Street to the western side of Barrack Street; and
+(tt) then continues along the western side of Barrack Street to the north western corner of its intersection with St Georges Terrace; and
+(uu) then continues along the northern side of St Georges Terrace to the north eastern corner of the intersection of St Georges Terrace and London Court; and
+(vv) then continues along the eastern side of London Court to its intersection with the southern side of Hay Street; and
+(ww) then continues in a generally westerly direction at a right angle to the eastern side of London Court to the western side of London Court; and
+(xx) then continues along the western side of London Court to the north western corner of its intersection with St Georges Terrace; and
+(yy) then continues along the northern side of St Georges Terrace to the north eastern corner of the intersection of St Georges Terrace and William Street; and
+(zz) then continues along the eastern side of William Street to its intersection with the southern side of Hay Street; and
+(aaa) then continues in a generally westerly direction at a right angle to the eastern side of William Street to the western side of William Street; and
+(bbb) then continues along the western side of William Street to the north western corner of its intersection with St Georges Terrace; and
+(ccc) then continues along the northern side of St Georges Terrace to the north eastern corner of the intersection of St Georges Terrace and King Street; and
+(ddd) then continues along the eastern side of King Street to its intersection with the southern side of Hay Street; and
+(eee) then continues in a generally westerly direction at a right angle to the eastern side of King Street to the western side of King Street; and
+(fff) then continues along the western side of King Street to the north western corner of its intersection with St Georges Terrace; and
+(ggg) then continues along the northern side of St Georges Terrace to the north western corner of the intersection of St Georges Terrace and Mill Street; and
+(hhh) then continues at a right angle to the northern side of St Georges Terrace in a generally southerly direction to the western side of Mill Street and along the western side of Mill Street to the north western corner of its intersection with Mounts Bay Road; and
+(iii) then continues along the northern side of Mounts Bay Road to the north eastern corner of its intersection with Spring Street and then along the eastern side of Spring Street to the south eastern corner of the intersection of Spring Street and Mount Street; and
+(jjj) then continues in a generally westerly direction along the southern side of Mount Street and the pedestrian overpass over the Mitchell Freeway to the point perpendicularly above the western side of the Mitchell Freeway; and
+(kkk) then continues from a point perpendicularly below that point along the western side of the Mitchell Freeway to and along the western side of the Narrows Bridge in a generally southerly direction to the point on that Bridge perpendicularly above the southern wall of the Swan River; and
+(lll) then continues from a point perpendicularly below that point along the southern wall or high water mark, as the case may be, of the Swan River in a generally westerly and southerly direction to its intersection with a straight line projecting in a generally westerly direction from the northern side of Queen Street; and
+(mmm) then continues along that line in a generally easterly direction to its intersection with the southern side of the Swan River and then proceeds along the southern wall or high water mark, as the case may be, of the Swan River in a generally easterly direction to the point perpendicularly below the western side of the Causeway; and
+(nnn) then continues in a generally southerly direction along the western side of the Causeway and then in a generally southerly and westerly direction along the western side of the carriageway of Shepperton Road, the on ramp from Canning Highway to Shepperton Road and the northern side of the carriageway of Canning Highway to its intersection with a straight line projecting in a generally northerly direction from the western side of Washington Street; and
+(ooo) then continues in a generally southerly direction along that line to the southern side of the carriageway of Canning Highway and then continues in a generally easterly direction along that carriageway and the carriageway of the road between Canning Highway and Albany Highway and Shepperton Road; and
+(ppp) then continues in a generally southerly direction along the western side of the carriageway of Shepperton Road to the south western corner of the intersection of Shepperton Road and the off ramp from Great Eastern Highway; and
+(qqq) then continues in a generally easterly direction across that intersection to the off ramp from Great Eastern Highway and along the southern side of the carriageway of that off ramp and Great Eastern Highway to the south eastern corner of the intersection of Great Eastern Highway and Craig Street; and
+(rrr) then continues in a generally northerly direction to the north eastern corner of the intersection of Great Eastern Highway and the eastern side of the eastern carriageway of Resort Drive; and
+(sss) then continues in a generally north easterly direction along the south eastern carriageway of Resort Drive to the south western corner of its intersection with Camfield Drive; and
+(ttt) then continues in a generally north westerly direction at a right angle to that carriageway of Resort Drive to its intersection with the high water mark of the southern side of the Swan River; and
+(uuu) then continues in a generally south westerly direction along the southern wall or high water mark, as the case may be, of the Swan River to a point perpendicularly below the eastern side of the Causeway; and
+(vvv) then continues in a generally north westerly direction along the north eastern side of the Causeway to the point of the high water mark of the Swan River on the southern side of Heirisson Island perpendicularly below the eastern side of the Causeway; and
+(www) then continues in a generally easterly, northerly and westerly direction along the high water mark of the Swan River on Heirisson Island to a point perpendicularly below the eastern side of the Causeway; and
+(xxx) then continues in a generally north westerly direction along the north eastern side of the Causeway to the start point.
+(2) For information purposes, the area described above is shown bordered in white on the following map.
+[Division 1A inserted in Gazette 21 Oct 2011 p. 4454-60.]
 ## Division 1 — Burswood Entertainment Complex core security area
 (1) The area of land in the Town of Victoria Park contained within a line that —
 (a) starts at the north western corner of the fence on the western side of Car Park Number 5 situated on the north western side of the Burswood Entertainment Complex (the start point); and
