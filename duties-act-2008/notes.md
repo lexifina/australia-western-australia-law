@@ -15,6 +15,7 @@ On the date as at which this complation was prepared, provisions referred to in 
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv 3 | 12 of 2008 (as amended by No. 9 of 2010 s. 9) | 14 Apr 2008 | 1 Jul 2013 (see s. 2(c))
+Inheritance (Family and Dependants Provision) Amendment Act 2011 s. 15 | 48 of 2011 | 25 Oct 2011 | To be proclaimed (see s. 2(b))
 The Mining Act 1904 was repealed by the Mining Act 1978.
 The Acts Amendment (Land Administration) Act 1997commenced 30 Mar 1998 (Gazette 27 Mar 1998 p. 1765)
 On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv. 3 (as amended by No. 9 of 2010 s. 9) had not come into operation. It reads as follows:
@@ -47,6 +48,13 @@ Chapter 2 Part 6 Division 4 is repealed.
 Section 277 is repealed.
 32.Schedule 2 Division 2 amended
 Schedule 2 Division 2 is amended by deleting the item relating to section 147.
+On the date as at which this compilation was prepared, the Inheritance (Family and Dependants Provision) Amendment Act 2011 s. 15 had not come into operation. It reads as follows:
+15.Duties Act 2008 amended
+(1) This section amends the Duties Act 2008.
+(2) Delete section 139(2)(c) and insert:
+(c) a vesting of dutiable property by, or as a consequence of, a court order made —
+(i) under the Family Provision Act 1972; or
+(ii) under the Trustees Act 1962 section 65 on an application under the Family Provision Act 1972.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
