@@ -4,6 +4,19 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Legal Profession Act 2008 | 21 of 2008 | 27 May 2008 | s. 1 and 2: 27 May 2008 (see s. 2(a)) Act other than s. 1 and 2: 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Electronic Transactions Act 2011 s. 25 | 46 of 2011 | 25 Oct 2011 | To be proclaimed (see s. 2(c))
+On the date as at which this compilation was prepared, the Electronic Transactions Act 2011 s. 25 had not come into operation. It reads as follows:
+25.Acts amended
+(1) This section amends the Acts listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+3.Legal Profession Act 2008
+s. 290(6)(d) | Electronic Transactions Act 2003 section 9 | Electronic Transactions Act 2011 section 10
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
