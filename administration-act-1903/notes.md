@@ -71,6 +71,10 @@ Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005
 Reprint 11: The Administration Act 1903 as at 14 Jul 2006 (includes amendments listed above)
 Land Information Authority Act 2006 s. 120 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
  | Standardisation of Formatting Act 2010 s. 6 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Inheritance (Family and Dependants Provision) Amendment Act 2011 s. 14 | 48 of 2011 | 25 Oct 2011 | To be proclaimed (see s. 2(b))
 Repealed by section 2 of this Act.
 Part IV, Curator of Intestate Estates, as enacted by this Act, was repealed by the Curator of Intestate Estates Act 1918. Now see the Public Trustee Act 1941.
 This Part was enacted as Part II of the Administration Act (Estate and Succession Duties) Amendment Act 1934. By section 3 of that Act it was enacted as follows:
@@ -78,9 +82,39 @@ This Part was enacted as Part II of the Administration Act (Estate and Successio
 3.This Act shall apply in the case of any person dying after its commencement, but the provisions of Part VI of the principal Act as hereby repealed shall apply to any person dying before the commencement of this Act.
 ”.
 [It was inserted as Part VI in the 1934 reprint and renumbered as Part V in the 1943 reprint: See also the Administration Act (Estate and Succession Duties) Amendment Act 1934 s. 77(3)(c).]
-This amount is now declared to be $6 000; see proclamation in Gazette 6 February 2009 p. 243.
+This amount is now declared to be $50 000; see proclamation in Gazette 6 February 2009 p. 243.
 See Public Trustee Act 1941 s. 16.
 In this reprint the numbering of Parts, sections, Divisions etc. effected in the 1934 reprint (not in a volume), the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and subsequent reprints has again been retained. References to the original numbering are contained in those reprints.
 The Administration Act Amendment Act 1970 s. 2(2) is a transitional provision that is of no further effect.
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973 s. 4.
 The Death Duty Assessment Act 1973 s. 3(2), (3), (4) and (5) are transitional provisions that are of no further effect.
+On the date as at which this compilation was prepared, the Inheritance (Family and Dependants Provision) Amendment Act 2011 s. 14 had not come into operation. It reads as follows:
+14.Administration Act 1903 amended
+(1) This section amends the Administration Act 1903.
+(2) In section 60A delete “section 6 of the Inheritance (Family and Dependants Provision) Act 1972.” and insert:
+Family Provision Act 1972 section 6.
+Note:The heading to amended section 60A is to read:
+Application of Family Provision Act 1972
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+ADI139(2)
+administration3
+administrator3
+Court3
+exemplification of probate3
+household chattels14(2)
+insolvent3
+personal estate3
+prescribed3
+Principal Registrar3
+probate3
+Public Trustee3
+real estate3
+registrar3
+the deceased17A(1)
+the intestate14(1), 15(6)
+the intestate property14(1), 15(6)
+the relevant property14(2b), 14(3a)
+the Table14(1)
+will3
