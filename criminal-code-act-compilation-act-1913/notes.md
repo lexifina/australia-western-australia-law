@@ -161,12 +161,13 @@ Criminal Code Amendment Act (No. 2) 2009 | 44 of 2009 | 3 Dec 2009 | Pt. 1: 3 De
 Reprint 15: The Criminal Code Act Compilation Act 1913 as at 19 Feb 2010 (includes amendments listed above except those in the Police Amendment Act 2009)
 Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 Pt. 2 Div. 1 | 21 of 2010 | 7 Jul 2010 | 28 Aug 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
 Reprint 16: The Criminal Code Act Compilation Act 1913 as at 15 Oct 2010 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (Identity Crime) Act 2010 s. 3-5 | 16 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 | 10 of 2011 | 2 May 2011 | To be proclaimed (see s. 2(b))
+Electronic Transactions Act 2011 s. 25 and 26 | 46 of 2011 | 25 Oct 2011 | s. 25: to be proclaimed (see s. 2(c)); s. 26: if the Criminal Code Amendment (Identity Crime) Act 2010 section 5 (section 5) comes into operation on or before the day on which section 24 comes into operation — when section 24 comes into operation; otherwise — when section 5 comes into operation (see s. 2(b));
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -315,6 +316,18 @@ and
 (4) The Ombudsman must, as soon as practicable after the expiration of that 12 month period, prepare a report on the Ombudsman’s work and activities under this section and furnish a copy of the report to the Minister for Police and the Commissioner of Police.
 (5) The Ombudsman may identify, and include recommendations in the report to be considered by the Minister about, amendments that might appropriately be made to this Act with respect to the operation of the provisions referred to in subsection (1).
 (6) The Minister is to lay (or cause to be laid) a copy of the report furnished to the Minister under this section before both Houses of Parliament as soon as practicable after the Minister receives the report.
+On the date as at which this compilation was prepared, the Electronic Transactions Act 2011 s. 25 and 26 had not come into operation. They read as follows:
+25.Acts amended
+(1) This section amends the Acts listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+2.The Criminal Code
+s. 204B(1) def. of electronic communication | section 5 of the Electronic Transactions Act 2003 | the Electronic Transactions Act 2011 section 5(1)
+26.The Criminal Code amended
+(1) This section amends The Criminal Code (as amended by the Criminal Code Amendment (Identity Crime) Act 2010 section 5).
+(2) In section 489 in the definition of electronic communication delete “Electronic Transactions Act 2003 section 5;” and insert:
+Electronic Transactions Act 2011 section 5(1);
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
