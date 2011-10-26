@@ -12,6 +12,7 @@ War Service Land Settlement Scheme Act Regulations 1954 | 4 Feb 1955 p. 207-22 |
 Reprint of the War Service Land Settlement Scheme Act Regulations 1954 as at 6 July 2001 (includes amendments listed above)
 War Service Land Settlement Scheme Amendment Regulations 2004 | 24 Aug 2004 p. 3662 | 24 Aug 2004
 War Service Land Settlement Scheme Amendment Regulations 2006 | 29 Dec 2006 p. 5918-19 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 17 assented to 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Repealed by the Land Administration Act 1997.
 The Act was proclaimed on 28 Jan 1955.
 Repealed by the Acts Amendment and Repeal (Statutory Bodies) Act 1985.
