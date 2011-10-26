@@ -1,5 +1,6 @@
-## Schedule 1
-[regs. 14 and 73(2)]
+## Schedule 1 — Forms
+[r. 14 and 73(2)]
+[Heading inserted in Gazette 25 Oct 2011 p. 4515.]
 [Form 1 deleted in Gazette 4 Jul 1997 p. 3535.]
 Form 2
 Rottnest Island Authority Act 1987
@@ -26,9 +27,9 @@ o | Regulation 59(1)(a) — without permission carrying or discharging firearm, 
 o | Regulation 60(1) — without permission lighting, making or using fire other than in gas stove or indoor fireplace | $200
 o | Regulation 60B(1) — littering | $200
 o | Regulation 70(1)(c) — doing or engaging in any offensive, indecent or improper act, conduct or behaviour | $200
-o | Regulation 72(1) — consuming alcohol in an unauthorised place | $200
+o | Regulation 72(2) — consuming alcohol in Kingstown Barracks Restricted Alcohol Consumption Area | $200
 o | Other (specify) | $
-[Form 2 inserted in Gazette 7 Dec 2001 p. 6189-90; amended in Gazette 8 Dec 2009 p. 5005-6.]
+[Form 2 inserted in Gazette 7 Dec 2001 p. 6189-90; amended in Gazette 8 Dec 2009 p. 5005-6; 25 Oct 2011 p. 4515.]
 Form 3
 Rottnest Island Authority Act 1987
 WITHDRAWAL OF INFRINGEMENT NOTICE
