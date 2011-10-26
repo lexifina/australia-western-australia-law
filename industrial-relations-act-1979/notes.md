@@ -88,7 +88,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 Repealed by the Offshore Petroleum (Repeals andConsequential Amendments) Act 2006 s. 3 of the Commonwealth.
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
@@ -191,12 +190,7 @@ remains of effect until a State Wage order takes effect.
 (c) if it comes into effect on a date after 1 July, is applicable in respect of an employee, apprentice or trainee on and from the commencement of the first pay period of the employee, apprentice or trainee on or after that date.
 (4) A date specified under subsection (3)(b) must not be a date that is earlier than the day on which the order is made.
 (5) Despite section 50A(1)(b), the Commission must not adjust rates of wages paid under awards in a State Wage order made in relation to the period ending 30 June 2007 if, during 2006 and before that State Wage order is made, the Commission has made a General Order under section 50 of the Industrial Relations Act 1979 adjusting rates of wages paid under awards generally.
-On the date as at which this compilation was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2a) and (4)(a) had not come into operation. They read as follows:
-49.Industrial Relations Act 1979 amended
-(2) Section 7(3) is amended as follows:
-(a) after paragraph (a) by deleting “or”;
-(4) Section 113(1)(d)(ii) is amended as follows:
-(a) after item (I) by deleting “and”;
+The Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2a) and (4)(a) were repealed by the Statutes (Repeals and Minor Amendments) Act 2011 s. 24(2) before it purported to come into operation.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
