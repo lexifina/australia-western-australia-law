@@ -45,7 +45,7 @@ Psychologists Act 2005 Sch. 3 cl. 7 | 28 of 2005 | 12 Dec 2005 | 4 May 2007 (see
 Chiropractors Act 2005 Sch. 3 cl. 5 | 31 of 2005 | 12 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
 Physiotherapists Act 2005 Sch. 3 cl. 5 | 32 of 2005 | 12 Dec 2005 | 23 Feb 2007 (see s. 2 and Gazette 20 Feb 2007 p. 505)
 Osteopaths Act 2005 Sch. 3 cl. 5 | 33 of 2005 | 12 Dec 2005 | 30 May 2007 (see s. 2 and Gazette 29 May 2007 p. 2486)
-Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(2) | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 3 (except s. 39(1)) | 28 of 2006 (as amended by No. 47 of 2011 s. 23(3)) | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Parole and Sentencing Legislation Amendment Act 2006 s. 91 | 41 of 2006 | 22 Sep 2006 | 28 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
 Nurses and Midwives Act 2006 Sch. 3 cl. 12 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Prisons and Sentencing Legislation Amendment Act 2006 Pt. 9 | 65 of 2006 | 8 Dec 2006 | 4 Apr 2007 (see s. 2 and Gazette 3 Apr 2007 p. 1491)
@@ -66,17 +66,13 @@ Reprint 7: The Juries Act 1957 as at 23 Sep 2011 (includes amendments listed abo
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
 Juries Legislation Amendment Act 2011 s. 42-44 | 13 of 2011 | 2 May 2011 | To be proclaimed (see s. 2(b))
 The Criminal Code s. 282 and 679 have been deleted.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 contains savings and transitional provisions that are of no further effect.
 The Juries Amendment Act 2003 s. 5(2) is a savings provision that is of no further effect.
-On the date as at which this reprint was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) had not come into operation. It reads as follows:
-39.Second Schedule amended
-(1) The Second Schedule Part I item 2(i) is deleted and the following item is inserted instead —
-(i) Officer or employee of the department of the Public Service principally assisting in the administration of this Act, other than an officer in the Public Trust Office;
-The amendment to the Second Schedule, Pt. I it. (2)(i) in the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 39(1) would not be included because the item it seeks to amend was repealed by the Prisons and Sentencing Legislation Amendment Act 2006 s. 66.
+The Machinery of Government (Miscellaneous Amendment) Act 2006 s. 39(1) was repealed by the Statutes (Repeals and Minor Amendments) Act 2011 s. 23(3) before it purported to come into operation.
+Footnote no longer applicable.
 On the date as at which this reprint was prepared, the Juries Legislation Amendment Act 2011 s. 42-44 had not come into operation. They read as follows:
 Part 4 — Miscellaneous amendments
 42.Sections 55 and 56 replaced
