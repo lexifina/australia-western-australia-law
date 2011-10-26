@@ -51,10 +51,11 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 34 and Pt. 5 Div 2 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
  | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
  | Acts Amendment (Fair Trading) Act 2010 s. 182 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
+ | Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Co-operatives Act 2009 s. 516 | 24 of 2009 | 22 Oct 2009 | s. 516: 1 Sep 2012 (see s. 2(c)) and Gazette 13 Aug 2010 p. 3975)
+Co-operatives Act 2009 s. 516 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c)) and Gazette 13 Aug 2010 p. 3975)
 Building Act 2011 s. 166 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.

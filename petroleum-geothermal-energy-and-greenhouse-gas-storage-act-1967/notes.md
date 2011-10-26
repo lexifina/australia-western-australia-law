@@ -36,7 +36,8 @@ Revenue Laws Amendment Act (No. 2) 2008 s. 34 | 31 of 2008 | 27 Jun 2008 | 28 Ju
 Reprint 6: The Petroleum and Geothermal Energy Resources Act 1967 as at 22 Oct 2010 (includes amendments listed above)
 Petroleum and Energy Legislation Amendment Act 2010 Pt. 2 other than s. 51, 57, 58(b) (to the extent that it inserts s. 153(2)(lc)), 61 (to the extent that it inserts Sch. 2 cl. 3) | 42 of 2010 | 28 Oct 2010 | 25 May 2011 (see s. 2(b) and Gazette 24 May 2011 p. 1892)
 Reprint 7: The Petroleum and Geothermal Energy Resources Act 1967 as at 5 Aug 2011 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 Sch. 2 Div. 7 | 60 of 1999 | 10 Jan 2000 | s. 7.3 operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
@@ -126,7 +127,7 @@ relevant licence means a production licence for petroleum in force under Part II
 The Acts Amendment (Mining and Petroleum) Act 1999 s. 26(5) reads as follows:
 (5) Despite the amendments made by this section, section 43F of the Petroleum Act 1967 continues to apply to and in relation to the extension of a drilling reservation in force on the commencement of this section.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 7.3.Consequential amendments
 Schedule 2 has effect.
 Schedule 2 Div. 7 reads as follows:
@@ -178,7 +179,7 @@ After section 116(1) the following subsection is inserted —
 “
 (1a)Where the giving of a consent under subsection (1) is a Part 2 act, a Part 3 act or Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the operation of that subsection is subject to section 2.6, 3.5 or 4.3, as the case may be, of that Act.
 ”.
-On the date as at which this reprint was prepared, the Petroleum and Energy Legislation Amendment Act 2010 s. 51, 57, 58(b) (to the extent that it inserts s. 153(2)(lc)), 61 (to the extent that it inserts Sch. 2 cl. 3) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Petroleum and Energy Legislation Amendment Act 2010 s. 51, 57, 58(b) (to the extent that it inserts s. 153(2)(lc)), 61 (to the extent that it inserts Sch. 2 cl. 3) had not come into operation. They read as follows:
 Part 2 — Petroleum and Geothermal Energy Resources Act 1967 amended
 51.Section 112 deleted
 Delete section 112.

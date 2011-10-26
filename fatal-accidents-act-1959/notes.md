@@ -14,12 +14,14 @@ Limitation Legislation Amendment and Repeal Act 2005 Pt. 6 | 20 of 2005 | 15 Nov
 Fatal Accidents Amendment Act 2008 | 20 of 2008 | 19 May 2008 | 19 May 2008 (see s. 2)
 Reprint 3: The Fatal Accidents Act 1959 as at 17 Apr 2009 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 4 and 58 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 5 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 The Limitation Legislation Amendment and Repeal Act 2005 s. 13(2) reads as follows:
 (2) The Fatal Accidents Act 1959 section 7, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 adopted person3(3)
 commencement day5(3)
 court3(1)
-relative3(1), 6(c), Sch. 2
+relative3(1)
+relative, Sch. 2 cl. 1

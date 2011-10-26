@@ -8,6 +8,7 @@ Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 
 Trustees Amendment Act 1997 s. 18 | 1 of 1997 | 6 May 1997 | 16 Jun 1997 (see s. 2 and Gazette 10 Jun 1997 p. 2661)
 Reprint 1: The Geraldton Sailors and Soldiers’ Memorial Institute Act 1929 as at 9 May 2003 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 17 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 The reference to the old currency is of historical interest only and so has not been amended under the Decimal Currency Act 1965.
 Repealed by the Associations Incorporation Act 1987.
 This Act shall be read with the following Acts:
@@ -15,3 +16,4 @@ Geraldton Sailors and Soldiers’ Memorial Institute Enabling Act 1934.
 Geraldton Sailors and Soldiers’ Memorial Institute (Trust Property Disposition) Act 1938.
 Related Act:
 Geraldton Sailors and Soldiers’ Memorial Institute Lands Vesting Act 1933.
+The amendment in the Statutes (Repeals and Minor Amendments) Act 2011 s. 17 to s. 6(c) is not included because it was unclear where the amendment was intended to be made.

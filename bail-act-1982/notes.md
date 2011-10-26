@@ -54,11 +54,12 @@ Criminal Law Amendment (Homicide) Act 2008 s. 24 | 29 of 2008 | 27 Jun 2008 | 1 
 Reprint 7: The Bail Act 1982 as at 6 Mar 2009 (includes amendments listed above)
 Police Amendment Act 2009 s. 12 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 4 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 19 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 3 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 | 28 of 2006 | 26 Jun 2006 | To be proclaimed (see s. 2)
+Electronic Transactions Act 2011 s. 25 | 46 of 2011 | 25 Oct 2011 | To be proclaimed (see s. 2(c))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The short title of the Justices Act 1902 was changed to the Criminal Procedure (Summary) Act 1902 by the Courts Legislation Amendment and Repeal Act 2004 s. 25. The Act was then repealed by the Criminal Procedure and Appeal (Consequential and Other Provisions) Act 2004.
 The amendment in the Sentencing Legislation Amendment and Repeal Act 1999 s. 26 had not come into operation when it was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -158,39 +159,16 @@ specified means specified or described in the transitional regulations.
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
 ”.
-On the date as at which this reprint was prepared, the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 had not come into operation. It reads as follows:
-“
-Part 3 — Attorney General, and Justice
-Division 1 — Bail Act 1982
-30.The Act amended
-The amendments in this Division are to the Bail Act 1982.
-31.Section 3 amended
-(1) Section 3(1) is amended as follows:
-(a) by inserting the following definitions in the appropriate alphabetical positions —
-“
-CEO means the chief executive officer of the Department;
-Department means the department of the Public Service principally assisting in the administration of this Act;
-”;
-(b) in the definition of “authorised community services officer” in paragraph (a) by deleting “(Justice)” in both places where it occurs;
-(c) by deleting the definition of “CEO (Justice)”.
-(2) Section 3(5) is amended by deleting “department of which he is the chief executive officer” and inserting instead —
-“ Department ”.
-32.Section 66A amended
-Section 66A(2) is amended by deleting “department of which the CEO (Justice) is the chief executive officer” and inserting instead —
-“ Department ”.
-33.Various references to CEO (Justice) changed to CEO
-Each provision listed in the Table to this section is amended by deleting “CEO (Justice)” in each place where it occurs and inserting instead —
-“ CEO ”.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 was repealed by the Statutes (Repeals and Minor Amendments) Act 2011 s. 23(2) before it purported to come into operation.
+On the date as at which this compilation was prepared, the Electronic Transactions Act 2011 s. 25 had not come into operation. It reads as follows:
+25.Acts amended
+(1) This section amends the Acts listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
 Table
-s. 3(5) | s. 50E
-s. 24A(4) | s. 50F(1), (3), (4) and (5)
-s. 27A | s. 50H
-s. 50A | s. 50J
-s. 50C(4)(a) and (b) | s. 50L(1)
-s. 50D(1)(a) | Sch. 1 Part D cl. 3(3)(e)
-Note:The headings to sections 27A, 50A, 50E, 50F and 50J will be altered by deleting “(Justice)”.
-”.
-The amendments to the Bail Act 1982 in the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 cl. 31(1)(b) and (c), cl. 32 and 33 would conflict with amendments by the Prisons and Sentencing Legislation Amendment Act 2006 Pt. 5.
+Provision | Delete | Insert
+1.Bail Act 1982
+s. 3(1) def. of electronic communication | Electronic Transactions Act 2003 section 5 | Electronic Transactions Act 2011 section 5(1)
+s. 3A(2) | Electronic Transactions Act 2003 section 5 | Electronic Transactions Act 2011 section 5(1)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

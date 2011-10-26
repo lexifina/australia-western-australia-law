@@ -131,6 +131,7 @@ Local Government (Miscellaneous Provisions) Amendment (Smoke Alarms) Act 2007 | 
 Reprint 8: The Local Government (Miscellaneous Provisions) Act 1960 as at 1 Aug 2008 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 21, 49 and 62 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Building Services (Registration) Act 2011 s. 156(4) | 19 of 2011 | 22 Jun 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

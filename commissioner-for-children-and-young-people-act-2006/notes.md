@@ -2,33 +2,19 @@ Notes
 This is a compilation of the Commissioner for Children and Young People Act 2006 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Commissioner for Children and Young People Act 2006 | 48 of 2006 | 4 Oct 2006 | s. 1 and 2: 4 Oct 2006; Act other than s. 1 and 2 and Sch. 1 cl. 2 and 3: 10 Dec 2007 (see s. 2 and Gazette 23 Nov 2007 p. 5861)
+Commissioner for Children and Young People Act 2006 | 48 of 2006 | 4 Oct 2006 | s. 1 and 2: 4 Oct 2006; Act other than s. 1 and 2 and Sch. 1 cl. 2 and 3: 10 Dec 2007 (see s. 2 and Gazette 23 Nov 2007 p. 5861); Sch 1 cl. 2 deleted by No. 47 of 2011 s. 11
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Acts Amendment (Bankruptcy) Act 2009 s. 17 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2009 s. 5 | 48 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see r. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 11 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-Commissioner for Children and Young People Act 2006 Sch. 1 cl. 2 and 3 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
-On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 s. 65, which gives effect to Sch. 1 cl. 2 and 3, had not come into operation. It reads as follows:
-“
-65.Consequential amendments
-The Acts mentioned in Schedule 1 are amended as set out in that Schedule.
-”.
-Schedule 1 cl. 2 and 3 read as follows:
-“
+Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
+On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 had not come into operation. It reads as follows:
 Schedule 1 — Consequential amendments
 [s. 65]
-2.Financial Administration and Audit Act 1985 amended
-(1) The amendments in this clause are to the Financial Administration and Audit Act 1985.
-(2) Section 3(2) is amended as follows:
-(a) by deleting “and” after paragraph (f);
-(b) by deleting the comma after paragraph (g) and inserting instead —
-“
-; and
-(h) the Commissioner for Children and Young People,
-”.
 3.Working with Children (Criminal Record Checking) Act 2004 amended
 (1) The amendments in this clause are to the Working with Children (Criminal Record Checking) Act 2004.
 (2) Section 4 is amended as follows:
@@ -67,5 +53,5 @@ s. 17(1) and (3) | s. 38(2), (3) and (4)
 s. 18(1) and (2) | s. 42(2)
 s. 19(1), (9) and (10) | s. 44(3), (4) and (5)
 s. 20(2), (3), (5) and (6) | s. 45(1), (3), (4) and (6)
-”.
 The amendment in the Statute (Repeals and Minor Amendments) Act 2009 s. 5(5) is not included because the paragraph it sought to amend had been replaced by the Acts Amendment (Bankruptcy) Act 2009 s. 17 before the amendment purported to come into operation.
+Schedule 1 cl. 2 of this Act had not come into operation when it was deleted by the Statute (Repeals and Minor Amendments) Act 2011 s. 11.

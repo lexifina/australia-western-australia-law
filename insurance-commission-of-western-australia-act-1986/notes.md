@@ -24,6 +24,7 @@ Acts Amendment (Bankruptcy) Act 2009 s. 47 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 3: The Insurance Commission of Western Australia Act 1986 as at 1 Oct 2010 (includes amendments listed above)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 6 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

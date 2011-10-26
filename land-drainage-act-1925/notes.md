@@ -32,6 +32,7 @@ Land Information Authority Act 2006 s. 141 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
 Reprint 4: The Land Drainage Act 1925 as at 5 Apr 2007 (includes amendment listed above)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 61 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Now known as the Water Agencies (Powers) Act 1984. Short title changed by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7.
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 2 commenced 1 Jan 1996.
 Repealed by the Land Administration Act 1997.

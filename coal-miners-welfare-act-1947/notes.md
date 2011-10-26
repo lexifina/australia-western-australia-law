@@ -23,6 +23,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 
 Reprint 3: The Coal Miners’ Welfare Act 1947 as at 22 Feb 2008 (includes amendments listed above)
 Acts Amendment (Bankruptcy) Act 2009 s. 16 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 43(3) | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
 The Coal Mines Legislation Amendment and Revival Act 1998 Pt. 3 reads as follows:
 “
@@ -74,14 +75,15 @@ before the commencement of this Act is as valid and effective as it would have b
 12.Expiry of revived provisions
 When the Minister is satisfied that there are no moneys in the Relief Fund and no moneys to be paid into the Relief Fund, the Minister is to make an order to that effect, and publish that order in the Gazette.
 ”.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Board4
 Chairman4
 coal miners4
 Fund4
 Member4
+relevant entity12(1)
 Secretary4
 subsection (1a) account16(4)
 vacating Member12(1)

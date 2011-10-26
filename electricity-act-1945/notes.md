@@ -33,6 +33,7 @@ Gas and Electricity Safety Legislation Amendment Act 2007 Pt. 2 | 5 of 2007 | 18
 Reprint 7: The Electricity Act 1945 as at 2 May 2008 (includes amendments listed above)
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 49 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 43(3) and 57 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 Marginal notes in the Electricity Act 1945 referring to the legislation from which provisions were derived have been omitted from this compilation.
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 August 2011 of the Petroleum (Submerged Lands) Act 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum (Submerged Lands) Act 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum (Submerged Lands) Act 1982 | 33 of 1982 | 27 May 1982 | 14 Feb 1983 (see s. 2(1))
@@ -30,14 +30,15 @@ Duties Legislation Amendment Act 2008 Sch. 1 cl. 30 | 12 of 2008 | 14 Apr 2008 |
 Standardisation of Formatting Act 2010 s. 4 and 50 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Petroleum and Energy Legislation Amendment Act 2010 Pt. 3 (other than s. 149, 163, 165(1)(b) (to the extent that it inserts s. 152(2)(lc)) and 169 (to the extent that it inserts Sch. 3 cl. 4)) | 42 of 2010 | 28 Oct 2010 | 25 May 2011 (see s. 2(b) and Gazette 24 May 2011 p. 1892)
 Reprint 4: The Petroleum (Submerged Lands) Act 1982 as at 5 Aug 2011 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Petroleum and Energy Legislation Amendment Act 2010 s. 149, 163, 165(1)(b) (to the extent that it inserts s. 152(2)(lc)) and 169 (to the extent that it inserts Sch. 3 cl. 4) | 42 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 5 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 See the Gas Pipelines Access (Western Australia) Act 1998 s. 9.
 Repealed by the Off-shore (Application of Laws) Act 1982 s. 5.
-On the date as at which this reprint was prepared, the Petroleum and Energy Legislation Amendment Act 2010 s. 149, 163, 165(1)(b) (to the extent that it inserts s. 152(2)(lc)) and 169 (to the extent that it inserts Sch. 3 cl. 4) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Petroleum and Energy Legislation Amendment Act 2010 s. 149, 163, 165(1)(b) (to the extent that it inserts s. 152(2)(lc)) and 169 (to the extent that it inserts Sch. 3 cl. 4) had not come into operation. They read as follows:
 149.Section 118 deleted
 Delete section 118.
 163.Part IVA inserted

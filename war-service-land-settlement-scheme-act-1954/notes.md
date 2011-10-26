@@ -16,6 +16,7 @@ Acts Amendment (Land Administration) Act 1997, Part 63 and section 141 | 31 of 1
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 10 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Standardisation of Formatting Act 2010 s. 39 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Now Interpretation Act 1984 (No. 12 of 1984).
 Repealed by the Conservation and Land Management Act 1984 (No. 126 of 1984).
 Repealed by the Petroleum Act 1967 (No. 72 of 1967).
