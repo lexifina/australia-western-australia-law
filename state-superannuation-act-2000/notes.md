@@ -13,6 +13,7 @@ Reprint 1: The State Superannuation Act 2000 as at 18 Aug 2006 (includes amendme
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 State Superannuation Amendment Act 2007 Pt. 1, 2 and 5 (other than Div. 3 Subdiv. 2) | 25 of 2007 | 16 Oct 2007 | Pt. 1: 16 Oct 2007 (see s. 2(1)(a)); Pt. 2: 6 Dec 2007 (see s. 2(1)(b) and Gazette 5 Dec 2007 p. 5973); Pt. 5 Div. 1 and 2 repealed by No. 25 of 2007 s. 2(8)(a); Pt. 5 Div. 3 Subdiv. 1: 6 Dec 2007 (see s. 2(1)(e) and Gazette 5 Dec 2007 p. 5973)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

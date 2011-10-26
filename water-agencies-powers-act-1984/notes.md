@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 January 2011 of the Water Agencies (Powers) Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Water Agencies (Powers) Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Water Authority Act 1984 | 3 of 1984 | 18 May 1984 | 1 Jul 1985 (see s. 2 and Gazette 7 Jun 1985 p. 1931)
@@ -37,6 +37,7 @@ Water Resources Legislation Amendment Act 2007 Pt. 6 | 38 of 2007 | 21 Dec 2007 
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 4: The Water Agencies (Powers) Act 1984 as at 7 Jan 2011 (includes amendments listed above)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

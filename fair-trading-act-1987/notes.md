@@ -21,6 +21,7 @@ Compilation table
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 56 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 3: The Fair Trading Act 1987 as at 5 Feb 2010 (includes amendments listed above)
 Fair Trading Act 2010 Pt. 10 Div. 3 | 57 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(b) and Gazette 24 Dec 2010 p. 6805)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 This reference, and all following references, to “TPA”, refers to the Trade Practices Act 1974 of the Commonwealth.
 Formerly referred to The Sale of Goods Act 1895, the short title of which was changed to the Sale of Goods Act 1895 by the Statutes (Repeals and Minor Amendments) Act 2003 s. 150(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now see the Broadcasting Services Act 1992 of the Commonwealth.

@@ -11,6 +11,7 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 43 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The Dampier to Bunbury Pipeline Act 1997 as at 24 Apr 2009 (includes the amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 46 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 The Gas Corporation Act 1994 was repealed by the Gas Corporation (Business Disposal) Act 1999.
 The Gas Transmission Regulations 1994 were repealed by the Gas Transmission Repeal Regulations 1998.
 Short title changed to the Public Works Act 1902, and section 33A repealed, by the Acts Amendment (Land Administration) Act 1997.
@@ -33,9 +34,9 @@ repealed access scheme means —
 (c)the Dampier to Bunbury Pipeline Regulations 1998; and
 (d)the Gas Referee Regulations 1995.
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2000 s. 14(13) is not included because the section it sought to amend had been repealed by the Gas Pipelines Access (Western Australia) Act 1998 Sch. 3 Div. 2 before the amendment purported to come into operation.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 access20(5)
 Act Minister27(1)
 affected landSch. 2 cl. 1
@@ -51,10 +52,10 @@ corporation3
 corporation’s DBNGP system3
 corporation’s transmission business19(4)
 court38(6)
-DBNGP corridor27(1), Sch. 4 cl. 36(5) and 46(2)
+DBNGP corridor27(1), Sch. 4 cl. 36(5), Sch. 4 cl. 46(2)
 DBNGP Land Access Minister27(1), Sch. 4 cl. 36(5)
 effective date33(5a)
-exempt contract20(5)
+exempt contract 20(5)
 holder27(1)
 land holder42(4)
 liability14

@@ -51,6 +51,7 @@ Bush Fires Amendment Act 2009 Pt. 2 | 25 of 2009 | 17 Nov 2009 | 1 Dec 2009 (see
 Arson Legislation Amendment Act 2009 Pt. 2 | 43 of 2009 | 3 Dec 2009 | 19 Dec 2009 (see s. 2(b) and Gazette 18 Dec 2009 p. 5167)
 Reprint 8: The Bush Fires Act 1954 as at 9 Apr 2010 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 43(3) and 52 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

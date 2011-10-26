@@ -12,6 +12,7 @@ Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 20
 Security and Related Activities (Control) Amendment Act 2008 Pt. 2 | 4 of 2008 | 2 Apr 2008 | 13 Dec 2009 (see s. 2(b) and Gazette 4 Dec 2009 p. 4919)
 Legal Profession Act 2008 s. 703 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Reprint 2: The Security and Related Activities (Control) Act 1996 as at 19 Mar 2010 (includes amendments listed above)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

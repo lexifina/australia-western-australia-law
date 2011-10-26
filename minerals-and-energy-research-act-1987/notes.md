@@ -12,6 +12,7 @@ Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 108 | 77 of 2006 
 Minerals and Energy Research Amendment Act 2008 | 23 of 2008 | 13 Jun 2008 | 13 Jun 2008 (see s. 2)
 Reprint 2: The Minerals and Energy Research Act 1987 as at 3 Jul 2009 (includes amendments listed above)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 The provision in this Act repealing the Mining and Petroleum Research Act 1981 has been repealed by the Energy Legislation Amendment Act 2003 s. 88.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to the Permanent Head is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 The Energy Legislation Amendment Act 2003 s. 80(2) reads as follows:

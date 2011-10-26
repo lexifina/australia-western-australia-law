@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Judges’ Salaries and Pensions Act 1950 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Judges’ Salaries and Pensions Act 1950 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Judges’ Salaries and Pensions Act 1950 | 35 of 1950 (14 and 15 Geo. VI No. 35) | 16 Dec 1950 | 16 Dec 1950
@@ -41,51 +41,31 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and 5(2) | 77 of 2006 |
 Judges’ Salaries and Pensions Amendment Act 2007 | 33 of 2007 | 21 Dec 2007 | s. 1 and 2: 21 Dec 2007 (see s. 2(a)); Act other than s. 1 and 2: 22 Dec 2007 (see s. 2(b))
 Reprint 6: The Judges’ Salaries and Pensions Act 1950 as at 7 Mar 2008 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 51 | 43 of 2000 (as amended by No. 65 of 2003 s. 106) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 but its provisions continue to apply in relation to certain schemes because of the State Superannuation (Transitional and Consequential) Act 2000 s. 26; and those provisions may be amended by regulations under subsection (3) of that section.
-On the date on which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 51 (as amended by the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 106) had not come into operation. It reads as follows:
-“
-51.Judges’ Salaries and Pensions Act 1950 amended
-(1) The amendments in this section are to the Judges’ Salaries and Pensions Act 1950.
-(2) Section 6(3)(c) is deleted and the following paragraph is inserted instead —
-“
-(c) is a Member under the State Superannuation Act 2000 and is in receipt of a pension under that Act, then the pension under this Act is to be reduced by an amount equal to the State share (as defined under that Act) of the pension payable under the State Superannuation Act 2000.
-”.
-(3) Section 6(4) is repealed.
-(4) Section 8A is repealed and the following section is inserted instead —
-“
-8A.Reduction of spouse or de facto partner’s pension
-If the spouse or de facto partner of a Judge —
-(a) is entitled to, or in receipt of, a spouse or de facto partner’s pension under this Act; and
-(b) is in receipt of a spouse or de facto partner’s pension under the State Superannuation Act 2000,
-then the pension under this Act is to be reduced by an amount equal to the State share (as defined under the State Superannuation Act 2000) of the pension under that Act.
-[Section 8A amended by No. 65 of 2003 s. 106(2).]
-”.
-”.
 The Superannuation and Family Benefits Act 1938 s. 80 was repealed by the Superannuation Legislation Amendment Act 1993 s. 72.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 actuary2(1)
 auxiliary judge6(3c)
 commencement of the 1987 Act2(1)
 current judicial salary2(1)
-eligible childSecond Sch. Pt. II Div. B
 final salary2(1)
 Index2(1)
 individual superannuation guarantee shortfall17(8)
 judge2(1)
 P%6(2ab)
 pensionable office2(4)
-relevant pensionSecond Sch. Pt. II Div. B
 requested amount16(3), 18(2)
 retirement2(1)
 senior puisne judge2(1)
 spouse or de facto partner2(1)
 State share of his pension6(4)
 surcharge16(8), 18(4)
-the other judicial pension6(3)(b)
-By Authority: JOHN A. STRIJK, Government Printer
+the other judicial pension6(3)

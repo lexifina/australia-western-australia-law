@@ -11,6 +11,7 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Rail Safety Act 2010 Pt. 11 Div. 4 | 18 of 2010 | 28 Jun 2010 | 1 Feb 2011 (see s. 2(b) and Gazette 28 Jan 2011 p. 241)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 The provisions in this Act amending other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Government Railways (Access) Act 1998 the short title of which was changed to the Railways (Access) Act 1998 by s. 62 of this Act. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the National Rail Corporation Agreement Repeal Act 1999.

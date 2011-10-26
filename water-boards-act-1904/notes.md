@@ -59,6 +59,7 @@ Acts Amendment (Bankruptcy) Act 2009 s. 89 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Reprint 6: The Water Boards Act 1904 as at 14 May 2010 (includes amendments listed above)
  | Standardisation of Formatting Act 2010 s. 40, 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+ | Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 The Water Boards Act Amendment Act 1918 and the Water Boards Act Amendment Act 1928 which were to be read as one with this Act were repealed by the Acts Amendment and Repeal (Water Authorities) Act 1985 s. 361.
 Section 48A and the Second Schedule were inserted by No. 73 of 1954 s. 5 and 8.
 The Acts Amendment (Statutory Designations) and Validation Act 1981 s. 5 was a validation provision that is of no further effect.

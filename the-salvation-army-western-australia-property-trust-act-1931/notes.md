@@ -8,3 +8,4 @@ Compilation table
  | Land Administration Amendment Act 2000 s. 51 | 59 of 2000 | 7 Dec 2000 | 10 Apr 2001 (see s. 2(2) and Gazette 10 Apr 2001 p. 2073)
  | Land Information Authority Act 2006 s. 162 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))

@@ -18,6 +18,7 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 1 | 28 of
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Associations Incorporation Amendment (Transfer of Incorporation) Act 2010 | 55 of 2010 | 8 Dec 2010 | s. 1 and 2: 8 Dec 2010 (see s. 2(a)); Act other than s. 1 and 2: 26 Feb 2011 (see s. 2(b) and Gazette 25 Feb 2011 p. 651)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 The Corporations (Consequential Amendments) Act 2001 s. 11(2) reads as follows:
 “
 (2) Regulations (the “old regulations”) made under section 30(4) (the “old provision”) of the Associations Incorporation Act 1987 as in force immediately before the commencement of subsection (1) of this section continue in force, despite the repeal of the old provision, until regulations are made under section 30(4) of the Associations Incorporation Act 1987 as in force immediately after the commencement of subsection (1) of this section, and any winding up commenced under the old regulations is to be dealt with under the provisions applied by those old regulations.

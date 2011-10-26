@@ -71,6 +71,7 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Reprint 9: The Workers’ Compensation and Injury Management Act 1981 as at 25 Feb 2011 (includes amendments listed above)
 Petroleum and Energy Legislation Amendment Act 2010 s. 186 | 42 of 2010 | 28 Oct 2010 | 25 May 2011 (see s. 2(b) and Gazette 24 May 2011 p. 1892)
 Workers’ Compensation and Injury Management Amendment Act 2011 | 31 of 2011 | 31 Aug 2011 | s. 1 and 2: 31 Aug 2011 (see s. 2(a)); s. 3 and Pt. 3 other than s. 123(2)-(7): 1 Oct 2011 (see s. 2(b) and Gazette 23 Sep 2011 p. 3811)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 7 and 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

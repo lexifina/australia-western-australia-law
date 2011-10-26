@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Parental Support and Responsibility Act 2008. The following table contains information about that Act.
+This is a compilation of the Parental Support and Responsibility Act 2008 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Parental Support and Responsibility Act 2008 | 14 of 2008 | 15 Apr 2008 | 28 Mar 2009 (see s. 2 and Gazette 27 Mar 2009 p. 917)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 14 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

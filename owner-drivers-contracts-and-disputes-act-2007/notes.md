@@ -1,9 +1,10 @@
 Notes
-This is a compilation of the Owner-Drivers (Contracts and Disputes) Act 2007. The following table contains information about that Act.
+This is a compilation of the Owner-Drivers (Contracts and Disputes) Act 2007 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Owner-Drivers (Contracts and Disputes) Act 2007 | 7 of 2007 | 6 Jun 2007 | s. 1 and 2: 6 Jun 2007; Act other than s. 1, 2, 35 and 36: 1 Aug 2008 (see s. 2 and Gazette 18 Jul 2008 p. 3329)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 13 and 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

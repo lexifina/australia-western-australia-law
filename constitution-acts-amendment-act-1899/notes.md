@@ -262,6 +262,7 @@ Acts Amendment (Fair Trading) Act 2010 s. 191 | 58 of 2010 | 8 Dec 2010 | s. 191
 Reprint 17: The Constitution Acts Amendment Act 1899 as at 11 Feb 2011 (includes amendments listed above, except those in the Acts Amendment (Fair Trading) Act 2010 s. 191(3))
 Building Services (Complaint Resolution and Administration) Act 2011 s. 127 | 16 of 2011 | 25 May 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475)
 Building Services (Registration) Act 2011 | 19 of 2011 | 22 Jun 2011 | s. 155 (except to the extent that it deletes the item relating to The Municipal Building Surveyors Examination Committee): 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 4 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -306,7 +307,7 @@ The State Superannuation Board under the State Superannuation Act 2000.
 Repealed by the General Insurance Brokers and Agents Act Repeal Act 1986.
 Repealed by the Legislative Review and Advisory Committee Repeal Act 1987.
 Relevant provisions deleted by the Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 115. Committee replaced by Mining Industry Advisory Committee established under the Occupational Safety and Health Act 1984 s. 14A.
-The Mine Workers’ Relief Board was dissolved. See the Mine Workers’ Relief Act 1932 Sch. 2 para. 3.
+Footnote no longer applicable.
 Repealed by the Minerals and Energy Research Act 1987.
 Repealed by the Local Government (Qualifications of Municipal Officers) Regulations 1984 in Gazette 24 Aug 1984 p. 2607 which were repealed by the Local Government (Building Surveyors) Regulations 2008 r. 28 in Gazette 6 Jun 2008 p. 2224.
 Repealed by the Statute Law Revision Act 2006 s. 3(1).

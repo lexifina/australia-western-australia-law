@@ -33,6 +33,7 @@ Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 5(1) | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 6: The Constitution Act 1889 as at 13 Jul 2007 (includes amendments listed above)
  | Standardisation of Formatting Act 2010 s. 13 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+ | Statutes (Repeals and Minor Amendments) Act 2011 s. 20 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 N.B.:The Constitution Act 1889 was or is affected by —
 An Act to augment Ministerial Salaries. 55 Vict. No. 23 (1892). (Repealed by 60 Vict. No. 18.)
 The Officers of Parliament Act 1893. (56 Vict. No. 17). (Repealed by 63 Vict. No. 19.)
@@ -59,5 +60,15 @@ See Western Australia Constitution Act 1890 (U.K.) (53 and 54 Vict. c. 26) s. 2 
 (a) The provisions of the Acts of the session held in the 13th and 14th years of Her Majesty, chapter 59, and of the session held in the 5th and 6th years of Her Majesty, chapter 76 (being 2 of the Acts mentioned in the said schedule), which relate to the giving or withholding of Her Majesty’s assent to Bills, ... and the instructions to be conveyed to Governors for their guidance in relation to the matters aforesaid, and the disallowance of Bills by Her Majesty, shall apply to Bills to be passed by the Legislative Council and Assembly constituted under the scheduled Bill and this Act, and by any other legislative body or bodies which may at any time hereafter be substituted for the said Legislative Council and Assembly.
 ”.
 [Note the proviso was amended by the Australian States Constitution Act 1907 (U.K.) (7 Ed. VII c. 7).]
-Now known as the Constitution Act 1889; short title amended (see note under s. 78).
+Now known as the Constitution Act 1889; short title amended (see note under s. 1).
 The Aborigines Act 1905 commenced on 23 April 1906 (see s. 1 and Gazette 20 Apr 1906 p. 1221, 21 Apr 1906 p. 1261 and 27 Apr 1906 p. 1263). It is not clear why there were 3 Gazettals.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Aborigines Protection Board75
+Governor in Council75
+Her Majesty75
+Month75
+Person75
+Royal Sign Manual51
+Treasurer75

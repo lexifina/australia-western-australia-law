@@ -29,7 +29,8 @@ National Gas Access (WA) Act 2009 s. 72 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 7 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Reprint 4: The Petroleum Pipelines Act 1969 as at 1 Oct 2010 (includes amendments listed above)
 Petroleum and Energy Legislation Amendment Act 2010 Pt. 4 | 42 of 2010 | 28 Oct 2010 | 25 May 2011 (see s. 2(b) and Gazette 24 May 2011 p. 1892)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Statutes (Repeals and Minor Amendments) Act 2011 s. 15 and 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
@@ -66,7 +67,7 @@ to the Minister for approval of the dealing.
 (c) the application shall not be dealt with by the Minister until after the end of 30 days after the day on which notice is given for the purpose of paragraph (a); and
 (d) where the applicant lodges an instrument under paragraph (b), the applicant shall lodge with the instrument 2 copies of the instrument.
 (7) An instrument lodged under subsection (6) shall be taken, for the purposes of section 47(13) of the principal Act, as amended by this Act, to have accompanied the application when the application was lodged.
-As at the date this reprint was prepared, these offices (of the former Department of Mines) no longer exist.
+As at the date this compilation was prepared, these offices (of the former Department of Mines) no longer exist.
 The Petroleum Amendment Act 2007 s. 102 commenced on 19 Jan 2008 (see s. 2(2) and Gazette 18 Jan 2008 p. 147). It purported to amend the Petroleum Pipelines Act 1969 s. 67(1c). However, on 19 Jan 2008 s. 67(1c) had not been inserted in the Petroleum Pipelines Act 1969 by the Petroleum Legislation Amendment and Repeal Act 2005 s. 30(2) because s. 30(2) had not commenced. Section 30(2) commenced on 15 May 2010 (see s. 2(b) and Gazette 14 May 2010 p. 2015) and the amendment to s. 67(1c) by s. 102 has been taken to have occurred on 15 May 2010.
 The Petroleum Pipelines Act 1969 is affected by the Dampier to Bunbury Pipeline Act 1997 Sch. 4 Div. 8 which reads as follows:
 Division 8 — Petroleum Pipelines Act 1969
@@ -102,7 +103,7 @@ The amendment in the Petroleum Safety Act 1999 s. 92 that was to amend this Act 
 The Fourth Schedule was inserted by the Metric Conversion Act Amendment Act 1975.
 The Acts Amendment (Petroleum) Act 1990 s. 148(2) is a savings provision of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 7.3.Consequential amendments
 Schedule 2 has effect.
 Schedule 2 Div. 8 reads as follows:
@@ -124,7 +125,7 @@ After section 19(1) the following subsection is inserted —
 “
 (1a)Where the taking of land or an easement in land under subsection (1) is a Part 2 act, a Part 3 act or Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the operation of that subsection is subject to section 2.6, 3.5 or 4.3, as the case may be, of that Act.
 ”.
-On the date as at which this reprint was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 29(2) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 29(2) had not come into operation. It reads as follows:
 29.Sections 66BA and 66BB inserted and transitional provision
 (2) Section 51 of the Justices Act 1902 as in force immediately before the commencement of subsection (1) applies to an offence against the Petroleum Pipelines Act 1969 committed before that commencement as if subsection (1) had not been enacted.
 The amendments in the Petroleum and Energy Legislation Amendment Act 2010 s. 182(11) and (12) are not included because the section they sought to amend had been deleted before the amendments purported to come into operation.

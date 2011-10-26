@@ -30,6 +30,7 @@ Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 3 Div. 1 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
 Acts Amendment (Fair Trading) Act 2010 s. 194 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 Reprint 5: The Credit (Administration) Act 1984 as at 17 Jun 2011 (includes amendments listed above)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 12 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Repealed by the Strata Titles Act 1985.
 I.e. 1 Jul 2010 (see Credit (Commonwealth Powers) Act 2010 s. 2(b) and Gazette 30 Jun 2010 p. 3187).
 Repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 (Commonwealth).
@@ -37,15 +38,14 @@ Repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendm
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 30 and 45 are transitional provisions that are of no further effect.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 (other than s. 151) (as amended by Acts Amendment (Fair Trading) Act 2010 s. 184) are transitional provisions that are of no further effect.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 annual percentage rate4
 ASIC4
-authorised person 55(1)
+authorised person55(1)
 bank4
 body corporate4
-business of providing credit5
 Code4
 cognate Acts4
 Commissioner4

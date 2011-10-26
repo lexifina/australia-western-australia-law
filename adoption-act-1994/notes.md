@@ -29,6 +29,7 @@ Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009
 Reprint 4: The Adoption Act 1994 as at 5 Mar 2010 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 1 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Statutes (Repeals and Minor Amendments) Act 2011 s. 18 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 of the Commonwealth. Now see the Australian Citizenship Act 2007 of the Commonwealth.
 The day fixed under s. 2(1) of the Adoption Amendment Act (No. 2) 2003 is 1 June 2003: see Gazette 20 May 2003 p. 1783.
 The correct short title of this Act is the Commonwealth Electoral Act 1918.

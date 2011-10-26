@@ -8,4 +8,11 @@ Compilation table
  | Acts Amendment (Land Administration) Act 1997 s. 141 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
  | Reprint 1: The Real Property (Foreign Governments) Act 1951 as at 16 May 2003 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 108 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Marginal notes in the Real Property (Foreign Governments) Act 1951 referring to legislation of other jurisdictions have been omitted from this reprint.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+foreign State2
+land2
+representative2

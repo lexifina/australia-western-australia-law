@@ -11,6 +11,8 @@ Statutes (Repeals and Minor Amendments) Act 2000 s. 38 | 24 of 2000 | 4 Jul 2000
 Statutes (Repeals and Minor Amendments) Act 2003 s. 102 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 2: The Reprints Act 1984 as at 19 Mar 2004 (includes amendments listed above)
 Interpretation and Reprints Amendment Act 2010 Pt. 3 | 31 of 2010 | 25 Aug 2010 | 26 Aug 2010 (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+The positions of Senior Parliamentary Counsel and Senior Assistant Parliamentary Counsel have been authorised under section 5(3).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 reads as follows:
 “
 Part 19 — Savings and transitional
@@ -19,3 +21,13 @@ If this Act is not passed until after 1 July 1993, anything done after that day 
 69.Transitional
 Unless the contrary intention appears, a reference, however expressed, in any law or document to the former Department of Corrective Services or Crown Law Department, the chief executive officer of either of those departments, or an office or organizational unit within either of those departments, is to be read as a reference to the Ministry of Justice, the chief executive officer of the Ministry of Justice, or the corresponding office or unit within the Ministry of Justice, as is appropriate.
 ”.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+authorised officer4(1)
+clerk’s amendment7(5c)
+law4(1)
+paragraph7(4D)
+referential expression4(1)
+relevant conjunction7(4A), 7(4B)
+written law4(1)
