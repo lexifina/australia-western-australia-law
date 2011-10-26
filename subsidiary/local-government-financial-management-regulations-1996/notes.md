@@ -16,3 +16,4 @@ Local Government (Financial Management) Amendment Regulations 2005 | 7 Jan 2005 
 Local Government (Financial Management) Amendment Regulations (No. 2) 2005 | 31 Mar 2005 p. 1047-53 | 1 Jul 2005 (see r. 2)
 Reprint 2: The Local Government (Financial Management) Regulations 1996 as at 17 Feb 2006 (includes amendments listed above)
 Local Government (Financial Management) Amendment Regulations 2008 | 20 Jun 2008 p. 2720-8 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2011 s. 16 assented to 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
