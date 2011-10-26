@@ -9,7 +9,7 @@ Agriculture and Related Resources Protection Amendment Act 2010 s. 68 | 46 of 20
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, Div. 3 (other than s. 22), Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2, Pt. 7 Div. 4, s. 183-186, s. 193 and Pt. 9 | 23 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2)
+Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, Div. 3 (other than s. 22), Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2, Pt. 7 Div. 4, s. 183-186, s. 193 and Pt. 9 | 23 of 2007 (as amended by No. 47 of 2011 s. 27) | 12 Oct 2007 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, s. 23-42, Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2, Pt. 7 Div. 4, s. 183-186, s. 193 and Pt. 9 have not come into operation. They read as follows:
 Part 2 — Biosecurity
 Division 1 — Permitted, prohibited and unlisted organisms
@@ -517,7 +517,7 @@ relevant information means information relevant to the administration or enforce
 186.Compliance statements
 (1) The Director General must prepare —
 (a) a statement for the period 1 January to 30 June in each year; and
-(b) a statement for the period 1 July to 30 December in each year,
+(b) a statement for the period 1 July to 31 December in each year,
 on the performance of public authorities that have failed to comply with a pest exclusion notice, section 30(2) or (3) or a pest control notice during that period.
 (2) Before preparing a statement the Director General must consult with each public authority whose performance is to be referred to in the statement.
 (3) Each statement is to be included in the department’s next annual report after the period for which it is prepared.
@@ -529,6 +529,7 @@ on the performance of public authorities that have failed to comply with a pest 
 the Minister must transmit a copy of the statement to the Clerk of that House.
 (7) A copy of a statement transmitted to the Clerk of a House is to be regarded as having been laid before that House.
 (8) The laying of a copy of a direction that is regarded as having occurred under subsection (7) is to be recorded in the Minutes, or Votes and Proceedings, of the House on the first sitting day of the House after the Clerk received the copy.
+[Section 186 amended by No. 47 of 2011 s. 27.]
 Part 8 — Regulations, codes of practice and local laws
 193.Local government may make local laws
 (1) In this section —
