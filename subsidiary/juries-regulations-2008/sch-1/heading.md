@@ -1,6 +1,6 @@
-## Schedule 1 — Forms
-[r. 4 and 5]
-[Heading inserted in Gazette 30 Jun 2011 p. 2618.]
+## Schedule 1 — Forms concerning jury pools
+[r. 3A and 3B]
+[Heading inserted in Gazette 30 Jun 2011 p. 2618; amended in Gazette 27 Oct 2011 p. 4553.]
 Form 1 — Summons to Juror
 Juries Act 1957
 To
