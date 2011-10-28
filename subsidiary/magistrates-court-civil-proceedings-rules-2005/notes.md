@@ -8,6 +8,7 @@ Magistrates Court (Civil Proceedings) Amendment Rules (No. 2) 2008 | 3 Jun 2008 
 Reprint 1: The Magistrates Court (Civil Proceedings) Rules 2005 as at 17 Jul 2009 (includes amendments listed above)
 Magistrates Court (Civil Proceedings) Amendment Rules 2010 | 2 Jul 2010 p. 3191-5 | r. 1 and 2: 2 Jul 2010 (see r. 2(a)); Rules other than r. 1 and 2: 3 Jul 2010 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules 2011 | 20 May 2011 p. 1841-6 | r. 1 and 2: 20 May 2011 (see r. 2(a)); Rules other than r. 1 and 2: 21 May 2011 (see r. 2(b))
+Magistrates Court (Civil Proceedings) Amendment Rules (No. 2) 2011 | 27 Oct 2011 p. 4556-7 | r. 1 and 2: 27 Oct 2011 (see r. 2(a)); Rules other than r. 1 and 2: 28 Oct 2011 (see r. 2(b))
 The Public Trustee Act 1941 s. 40, as inserted by the Public Trustee and Trustee Companies Legislation Amendment Act 2008 s. 25(1), does not refer to the “Common Fund” but to a “Fund”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
