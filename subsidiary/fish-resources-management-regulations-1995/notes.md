@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 July 2011 of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fish Resources Management Regulations 1995 | 29 Sep 1995 p. 4503-646 | 1 Oct 1995 (see r. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -148,10 +148,33 @@ Fish Resources Management Amendment Regulations (No. 6) 2011 | 2 Aug 2011 p. 316
 Fish Resources Management Amendment Regulations (No. 8) 2011 | 2 Aug 2011 p. 3168-9 | r. 1 and 2: 2 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Aug 2011 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 10) 2011 | 24 Aug 2011 p. 3405-9 | r. 1 and 2: 24 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Aug 2011 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 11) 2011 | 9 Sep 2011 p. 3682-3 | r. 1 and 2: 9 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Sep 2011 (see r. 2(b))
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
+Fish Resources Management Regulations (No. 9) 2011 | 2 Nov 2011 p. 4619-25 | r. 1 and 2: 2 Nov 2011 (see r. 2(a)); Regulations other than r. 1, 2 and 9: 3 Nov 2011 (see r. 2(c))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Fish Resources Management Regulations (No. 9) 2011 r. 9 | 2 Nov 2011 p. 4619-25 | 15 Nov 2011 (see r. 2(b))
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Recreational Fishing Account.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
+On the date as at which this compilation was prepared, the Fish Resources Management Regulations (No. 9) 2011 r. 9 had not come into operation. It reads as follows:
+9.Part 4 Division 7B inserted
+After regulation 55D insert:
+Division 7B — Requirements relating to bait bands
+55E.Terms used
+In this Division —
+bait band means plastic tape used for the purpose of securing cartons of bulk bait;
+WCRL Managed Fishery means the West Coast Rock Lobster Managed Fishery declared under the West Coast Rock Lobster Management Plan 1993.
+55F.Bait bands on boats prohibited
+(1) Subject to subregulations (2), (3) and (4), the master of a boat being used for or in connection with fishing must not cause or permit any bait bands to be on board the boat.
+Penalty: a fine of $2 000.
+(2) Subregulation (1) does not apply in relation to a licensed carrier boat being used in the WCRL Managed Fishery to transport fish taken with the use of another boat.
+(3) Subregulation (1) does not apply in relation to a boat that is authorised to be used for or in connection with the taking of rock lobster in the WCRL Managed Fishery if that boat —
+(a) is being used in that fishery to transport bait from a licensed carrier boat to the Abrolhos Islands; or
+(b) is a licensed fishing boat that is moored or anchored in that fishery not more than 800 m from the high water mark on the mainland or the Abrolhos Islands.
+(4) Subregulation (1) does not apply in relation to a boat being used in the WCRL Managed Fishery to transport —
+(a) bait to or from a boat referred to in subregulation (3)(b); or
+(b) bait bands from a boat referred to in subregulation (3)(b).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -208,6 +231,7 @@ fishing net3(1)
 fishing year16G
 form3(1)
 former authorisation holder129A
+freshwater fish44A
 Freycinet Estuary3(1)
 Freycinet Estuary area16G
 full amount outstanding of the fee137(5)
