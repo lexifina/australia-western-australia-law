@@ -130,9 +130,24 @@ Reprint 14: The Navigable Waters Regulations 1958 as at 14 May 2010 (includes am
 Navigable Waters Amendment Regulations (No. 3) 2010 | 27 Aug 2010 p. 4112-14 | r. 1 and 2: 27 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Aug 2010 (see r. 2(b))
 Navigable Waters Amendment Regulations (No. 4) 2010 | 27 Aug 2010 p. 4114-15 | r. 1 and 2: 27 Aug 2010 (see r. 2(a)); r. 3, 4(2), 5 and 6: 28 Aug 2010 (see r. 2(b)) r. 4(1): 1 Sep 2010 (see r. 2(c))
 Navigable Waters Amendment Regulations 2011 | 21 Jun 2011 p. 2240-2 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Navigable Waters Amendment Regulations (No. 3) 2011 r. 3 and 4 | 4 Nov 2011 p. 4634 | 1 Dec 2011 (see r. 2(b))
 Repealed by the Dangerous Goods Safety Act 2004.
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
+On the date as at which this compilation was prepared, the Navigable Waters Amendment Regulations (No. 3) 2011 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Navigable Waters Regulations 1958.
+4.Regulation 45B amended
+In regulation 45B(3a)(b) delete the Table and insert:
+Table of fees
+Length of vessel | Fee ($)
+(i)less than 5 m | 80.00
+(ii)5 m or more but less than 10 m | 170.00
+(iii)10 m or more but less than 20 m | 341.20
+(iv)20 m or more | 499.10
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
