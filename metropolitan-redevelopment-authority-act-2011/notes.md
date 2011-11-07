@@ -2,56 +2,12 @@ Notes
 This is a compilation of the Metropolitan Redevelopment Authority Act 2011. The following table contains information about that Act.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Metropolitan Redevelopment Authority Act 2011 s. 1-2 | 45 of 2011 | 12 Oct 2011 | 12 Oct 2011 (see s. 2(a))
+Metropolitan Redevelopment Authority Act 2011 s. 1-3, 29, 30, 36 and 132 | 45 of 2011 | 12 Oct 2011 | s. 1 and 2: 12 Oct 2011 (see s. 2(a)); s. 3, 29, 30, 36 and 132: 7 Nov 2011 (see s. 2(b) and Gazette 4 Nov 2011 p. 4629)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Metropolitan Redevelopment Authority Act 2011 s. 3, Pt. 2-11 | 45 of 2011 | 12 Oct 2011 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Metropolitan Redevelopment Authority Act 2011 s. 3, Pt. 2-11 had not come into operation. They read as follows:
-3.Terms used
-In this Act, unless the contrary intention appears —
-acquire includes take —
-(a)by way of lease, licence or easement; or
-(b)in any other manner in which an interest in property may be acquired;
-approved redevelopment scheme means a redevelopment scheme, as amended from time to time under section 49, in operation under section 48(2);
-Authority means the Metropolitan Redevelopment Authority established by section 4;
-chief executive officer means the chief executive officer, under the Public Sector Management Act 1994, of the Authority;
-development means —
-(a)the erection, construction, demolition, alteration or carrying out of any building, excavation, or other works in, on, over, or under land; and
-(b)a material change in the use of land; and
-(c)any other act or activity in relation to land declared by regulation to constitute development,
-but does not include any work, act or activity declared by regulation not to constitute development;
-development application means an application for a development approval or for an approval under section 60(2);
-development approval means a development approval issued by the Authority under section 66(2)(b);
-dispose of includes —
-(a)sell; or
-(b)dispose of —
-(i)by way of lease, licence, easement or right of way; or
-(ii)in any other way in which an interest in property may be disposed of;
-Environment Minister means the Minister who administers the EP Act;
-EPA means the Environmental Protection Authority continued in existence under the EP Act;
-EP Act means the Environmental Protection Act 1986;
-improvement scheme has the meaning given in the PAD Act section 4(1);
-local planning scheme has the meaning given in the PAD Act section 4(1);
-LRC means a land redevelopment committee established under section 26;
-metropolitan region has the meaning given in the PAD Act section 4(1);
-PAD Act means the Planning and Development Act 2005;
-Planning Minister means the Minister who administers the PAD Act;
-planning scheme means any of the following —
-(a)a local planning scheme;
-(b)a region planning scheme as defined in the PAD Act section 4(1);
-(c)an improvement scheme;
-public authority means any of the following —
-(a)a Minister of the State;
-(b)a department of the Public Service, a State instrumentality or a State public utility;
-(c)any other person or body, whether corporate or not, who or which, under the authority of a written law, administers or carries on for the benefit of the State a social service or public utility;
-redevelopment area means any land declared to be a redevelopment area by regulations made under Part 4;
-scheme start day, for land declared to be a redevelopment area, means —
-(a)the day on which an approved redevelopment scheme that applies to the land comes into operation under section 48(2); or
-(b)if the land is added to a redevelopment area, the day on which an approved redevelopment scheme applies to that land;
-staff member means the chief executive officer or a person appointed, employed or engaged as referred to in section 110;
-thoroughfare has the meaning given in the Local Government Act 1995 section 1.4;
-WAPC means the Western Australian Planning Commission established under the PAD Act section 7.
+Metropolitan Redevelopment Authority Act 2011 Pt. 2-11 (other than s. 3, 29, 30, 36 and 132) | 45 of 2011 | 12 Oct 2011 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Metropolitan Redevelopment Authority Act 2011 Pt. 2-11 (other than s. 3, 29, 30, 36 and 132) had not come into operation. They read as follows:
 Part 2 — Metropolitan Redevelopment Authority
 Division 1 — Metropolitan Redevelopment Authority
 4.Authority established
@@ -239,46 +195,6 @@ The function of an LRC is to exercise or perform any powers or duties delegated 
 (b) may be dissolved by the Authority on its own initiative, with the approval of the Minister.
 (2) Regulations may prescribe all matters that are required, necessary or convenient to be prescribed in relation to anything to be done, or that occurs, because of the dissolution of an LRC.
 Part 4 — Redevelopment areas
-29.Recommendation of Minister to declare a redevelopment area
-(1) The Governor must not make regulations under section 30 or 31 that declare land to be, or that add land to, a redevelopment area except on the recommendation of the Minister.
-(2) Before making such a recommendation the Minister must —
-(a) have regard to whether including the land in a redevelopment area will facilitate —
-(i) the regeneration of the area; or
-(ii) the provision of land suitable for commercial or residential purposes close to public transport; or
-(iii) the establishment of new industries;
-and
-(b) have regard to —
-(i) the likely effect of including the land in a redevelopment area on the efficiency, effectiveness and integrity of the land use planning system provided for under the PAD Act; and
-(ii) whether including the land in a redevelopment area is consistent with orderly and proper planning across the State;
-and
-(c) advise the WAPC and each relevant local government of the proposed content of the regulations; and
-(d) allow the WAPC and each relevant local government at least 30 days to make written recommendations to the Minister on the proposed content of the regulations.
-(3) In subsection (2) —
-relevant local government, in relation to a proposed redevelopment area or a redevelopment area, means the local government of any district in which the redevelopment area will be, or is, wholly or partly situated.
-(4) Without limiting subsection (2), the Minister must not recommend the making of regulations to add land that is not contiguous with land in an existing redevelopment area to that area unless, in the Minister’s opinion, the addition would be consistent with the objectives of the redevelopment area prescribed under section 30(5)(c).
-(5) If the Minister recommends the making of regulations the content of which is, in the Minister’s opinion, significantly different to any recommendation made by the WAPC under this section, the Minister must cause notice of the difference to be laid before each House of Parliament or dealt with under section 132, within 14 days after the day on which the Minister’s recommendation is given.
-(6) A notice under subsection (5) must include so much of the text of the Minister’s and WAPC’s recommendations as is sufficient to identify the area of difference.
-(7) The text of a notice under subsection (5) must be included in the annual report submitted by the accountable authority of the Authority under the Financial Management Act 2006 Part 5.
-30.Regulations may declare redevelopment areas and provide for related matters
-(1) Regulations may declare land that is —
-(a) in the metropolitan region; and
-(b) described in the regulations,
-to be a redevelopment area.
-(2) Regulations cannot be made under subsection (1) in respect of land that is the subject of an improvement scheme.
-(3) Land may be described under subsection (1)(b) by a land description or by reference to a plan held by the Authority, or both.
-(4) Under subsection (1) —
-(a) one or more separate redevelopment areas may be declared; and
-(b) more than one parcel of land may be declared to be a single redevelopment area; and
-(c) if more than one parcel is so declared, the parcels need not be contiguous.
-(5) The regulations must —
-(a) give each redevelopment area a name for the purposes of this Act; and
-(b) if the redevelopment area is described in the regulations by reference to a plan held by the Authority, include for guidance a plan depicting the redevelopment area; and
-(c) prescribe the objectives of the redevelopment area, being matters that —
-(i) are of importance to the planning and development of the redevelopment area; and
-(ii) must be taken into account in the preparation and approval of a redevelopment scheme for the area and the approval of development in the area.
-(6) When regulations made under this section are laid before a House of Parliament under the Interpretation Act 1984 section 42, they must be accompanied by —
-(a) an explanatory statement setting out the reasons for declaring the redevelopment area; and
-(b) a plan depicting the redevelopment area.
 31.Regulations may amend redevelopment area
 (1) Regulations declaring land to be a redevelopment area may be amended —
 (a) to add land to the redevelopment area; or
@@ -306,8 +222,6 @@ the development application or review must be decided in accordance with this Ac
 35.Transitional regulations
 (1) Regulations may be made for transitional purposes in respect of land and development on that land if the land is removed from a redevelopment area by regulations made under section 31(1)(b).
 (2) The regulations may save rights existing when the land is removed or the area ceases to exist, but subject to any provisions in an approved redevelopment scheme that applied to the land and related to nonconforming uses.
-36.Evidentiary matters
-In any proceedings a plan purporting to be a copy of a plan referred to in section 30(3) or 31(2) showing the boundaries or any boundary of a redevelopment area is evidence of those boundaries or that boundary.
 Part 5 — Redevelopment schemes
 Division 1 — Preparation and approval of redevelopment schemes
 37.Draft redevelopment scheme: work prior to declaration of redevelopment area
@@ -1007,13 +921,6 @@ the officer is guilty of the same offence.
 (3) A fee or charge imposed under subsection (2)(e) —
 (a) may be a specified amount or an amount calculated in a specified manner; and
 (b) for an application for approval of development that has commenced or been carried out, may include an amount prescribed by way of penalty.
-132.Laying documents before House of Parliament not sitting
-(1) If a provision of this Act requires the Minister to cause a document to be laid before each House of Parliament, or be dealt with under this section, within a period and —
-(a) when the Minister is ready to act, a House of Parliament is not sitting; and
-(b) the Minister is of the opinion that the House will not sit during that period,
-the Minister must transmit a copy of the document to the Clerk of that House.
-(2) A copy of a document transmitted to the Clerk of a House is to be regarded as having been laid before that House.
-(3) The laying of a copy of a document that is regarded as having occurred under subsection (2) is to be recorded in the Minutes, or Votes and Proceedings, of the House on the first sitting day of the House after the Clerk received the copy.
 133.Review of Act
 (1) The Minister must carry out a review of the operation and effectiveness of this Act as soon as is practicable after the fifth anniversary of the commencement of this section.
 (2) In the course of the review the Minister must consider and have regard to —
@@ -1310,3 +1217,31 @@ specified means specified or described in the transitional regulations.
 (5) If the transitional regulations contain a provision referred to in subsection (3), the provision does not operate so as —
 (a) to affect in a manner prejudicial to any person (other than the State), the rights of that person existing before the day of publication of those regulations; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+acquire3
+approved redevelopment scheme3
+Authority3
+chief executive officer3
+development3
+development application3
+development approval3
+dispose of3
+Environment Minister3
+EP Act3
+EPA3
+improvement scheme3
+local planning scheme3
+LRC3
+metropolitan region3
+PAD Act3
+Planning Minister3
+planning scheme3
+public authority3
+redevelopment area3
+relevant local government29(3)
+scheme start day3
+staff member3
+thoroughfare3
+WAPC3
