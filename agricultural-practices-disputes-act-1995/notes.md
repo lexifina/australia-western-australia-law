@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 June 2011 of the Agricultural Practices (Disputes) Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Agricultural Practices (Disputes) Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Agricultural Practices (Disputes) Act 1995 | 26 of 1995 | 6 Sep 1995 | s. 1 and 2: 6 Sep 1995; Act other than s. 1 and 2: 26 Jun 1996 (see s. 2 and Gazette 25 Jun 1996 p. 2901)
@@ -15,7 +15,15 @@ Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 27 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
 Public Sector Reform Act 2010 s. 71 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 2: The Agricultural Practices (Disputes) Act 1995 as at 10 Jun 2011 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Agricultural Practices (Disputes) Repeal Act 2011 Pt. 2 | 54 of 2011 | 9 Nov 2011 | 7 Dec 2011 (see note under s. 1)
 Under the Alteration of Statutory Designations Order 2006 a reference in a law to the Department of Environmental Protection is, unless the contrary is intended, to be read and construed as a reference to the Department of Environment and Conservation.
+On the date as at which this compilation was prepared, the Agricultural Practices (Disputes) Repeal Act 2011 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Agricultural Practices (Disputes) Act 1995 repealed
+2.Agricultural Practices (Disputes) Act 1995 repealed
+The Agricultural Practices (Disputes) Act 1995 is repealed.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
