@@ -22,6 +22,7 @@ Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 82 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 Curriculum Council Amendment Act 2011 Pt. 3 Div. 2 | 37 of 2011 | 13 Sep 2011 | To be proclaimed (see s. 2(b))
 Metropolitan Redevelopment Authority Act 2011 s. 138 | 45 of 2001 | 12 Oct 2011 | To be proclaimed (see s. 2(b))
+Agricultural Practices (Disputes) Repeal Act 2011 s. 5 | 54 of 2011 | 9 Nov 2011 | 7 Dec 2011 (see note under s. 1)
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 82 had not come into operation. It reads as follows:
@@ -58,6 +59,10 @@ Midland Redevelopment Authority
 Subiaco Redevelopment Authority
 (3) In Schedule 1 insert in alphabetical order:
 Metropolitan Redevelopment Authority
+On the date as at which this compilation was prepared, the Agricultural Practices (Disputes) Repeal Act 2011 s. 5 had not come into operation. It reads as follows:
+5.Financial Management Act 2006 amended
+(1) This section amends the Financial Management Act 2006.
+(2) In Schedule 1 delete the item for the Agricultural Practices Board of Western Australia.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
