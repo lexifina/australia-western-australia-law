@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 January 2011 of the Occupational Safety and Health Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Occupational Safety and Health Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Occupational Health, Safety and Welfare Act 1984 | 101 of 1984 | 19 Dec 1984 | s. 1 and 2: 19 Dec 1984; Act other than s. 1 and 2; 4 Apr 1985 (see s. 2 and Gazette 4 Apr 1985 p. 1241)
@@ -38,6 +38,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Industrial Legislation Amendment Act 2011 Pt. 7 | 53 of 2011 | 11 Nov 2011 | To be proclaimed (see s. 2(b))
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 A reference to the Petroleum Safety Act 1999 is not included in the table because that Act was repealed before the amendments in Sch. 2 to that Act came into operation. The repeal was made by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51.
 Now known as the Occupational Safety and Health Act 1984; short title changed (see note under s. 1).
@@ -81,7 +82,7 @@ as if section 68 had not been enacted.
 (1) An application for leave to appeal made under section 54B(2) of the Occupational Safety and Health Act 1984 but not finally determined before the commencement of section 68, and an appeal for which leave is granted on such an application, may be dealt with and determined as if that section had not been enacted.
 (2) An appeal brought under section 54B(2) of the Occupational Safety and Health Act 1984 but not finally determined before the commencement of section 68, may be dealt with and determined as if that section had not been enacted.
 This amendment took effect on 15 May 2010 when the Petroleum Legislation Amendment and Repeal Act 2005 s. 50 came into operation, see Gazette 14 May 2010 p. 2015.
-On the date as at which this reprint was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
 4.Schedule headings reformatted
 (1) This section amends the Acts listed in the Table.
 (2) In each Schedule listed in the Table:
@@ -90,6 +91,13 @@ On the date as at which this reprint was prepared, the Standardisation of Format
 (c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
 Act | Identifier | Title | Shoulder note
 Occupational Safety and Health Act 1984 | Schedule |  | [s. 60(5)]
+On the date as at which this compilation was prepared, the Industrial Legislation Amendment Act 2011 Pt. 7 had not come into operation. It reads as follows:
+Part 7 — Occupational Safety and Health Act 1984 amended
+60.Act amended
+This Part amends the Occupational Safety and Health Act 1984.
+61.Section 6 amended
+In section 6(2)(d)(ii) delete “the body known as The Trades and Labor Council of Western Australia; and” and insert:
+UnionsWA; and
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
