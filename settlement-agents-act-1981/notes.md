@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Settlement Agents Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 November 2011 of the Settlement Agents Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Settlement Agents Act 1981 | 33 of 1981 | 26 May 1981 | 1 Jul 1981 (see s. 2 and Gazette 26 Jun 1981 p. 2285)
@@ -47,7 +47,8 @@ Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 201
 Standardisation of Formatting Act 2010 s. 35 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Acts Amendment (Fair Trading) Act 2010 Pt. 7 | 58 of 2010 | 8 Dec 2010 | 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 6: The Settlement Agents Act 1981 as at 11 Nov 2011 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
  | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 8 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
@@ -58,25 +59,9 @@ The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 7(2
 Repealed by the Real Estate and Business Agents Act 1978 s. 5.
 Repealed by the Land Administration Act 1997 s. 281.
 The Real Estate Legislation Amendment Act 1995 s. 65(2) and 87 are saving and transitional provisions that are of no further effect.
-The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
-2.Commencement
-(1) If this Act receives the Royal Assent before the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act comes into operation at the same time as that Schedule comes into operation.
-(2) If this Act receives the Royal Assent on or after the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act is deemed to have come into operation at the same time as that Schedule comes into operation.
-3.Interpretation
-In this Part —
-Financial Services Reform Act means the Financial Services Reform Act 2001 of the Commonwealth;
-FSR commencement time means the time when Schedule 1 to the Financial Services Reform Act comes into operation;
-statutory rule means a regulation, rule or by-law.
-4.Validation
-(1) This section applies if this Act comes into operation under section 2(2).
-(2) Anything done or omitted to have been done after the FSR commencement time and before this Act receives the Royal Assent that could have been done if this Act had received the Royal Assent before the FSR commencement time is taken to be as valid and lawful, and to always have been as valid and lawful, as it would have been if this Act had received the Royal Assent before the FSR commencement time.
-(3) Anything done or omitted to have been done by a person after the FSR commencement time and before this Act received the Royal Assent that would have been valid and lawful if the Financial Services Reform Act had not commenced, is taken to be valid and lawful.
-(4) Anything done or omitted to have been done after the FSR commencement time and before this Act receives the Royal Assent —
-(a) that could only have been validly and lawfully done or omitted because this Act received the Royal Assent after the FSR commencement time; and
-(b) that could not have been validly and lawfully done or omitted if this Act had received the Royal Assent before the FSR commencement time,
-is taken not to be valid, and to never have been valid.
+The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 contain validation provisions for certain acts and omissions occurring before 23 Apr 2003.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 8 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 8 had not come into operation. It reads as follows:
 Division 8 — Settlement Agents Act 1981 amended
 58.Act amended
 This Division amends the Settlement Agents Act 1981.
@@ -95,47 +80,49 @@ AuthoritySch. 2 cl. 1(1)(a)
 bank3(1)
 bank account48
 banker48
-Board3(1)
 body corporate36(3)
 business3(1)
 business day48
 business licenceSch. 1 cl. 6
 business settlement agent3(1)
-business transaction3(1)
-Chairman3(1)
+business transaction 3(1)
 code of conduct3(1)
+commencement day124
+Commissioner3(1)
 defalcation by a licensee3(1)
-discharge of mortgage46(6)(b)
-document12C(4)
+department3(1)
+discharge of mortgage46(7)
 Fidelity Guarantee Account3(1)
 fidelity guarantee fee3(1)
 fit and proper27(2)
+former Board124
+former Registrar124
 General Purpose Account3(1)
-information12C(4)
-inspector3(1)
 Interest Account3(1)
 land3(1)
 legal practitioner3(1)
+liability124
 licence3(1)
 licensed3(1)
 licensee3(1)
-member3(1)
 person aggrieved23(2)
 prescribed financial market36(4)
 real estate3(1)
 real estate settlement agent3(1)
 real estate transaction3(1)
-Registrar3(1)
 renewal3(1)
 request49A(7)
 reviewable decision23(2)
 reward3(1)
+right124
 separate account48
 settlement3(1)
 settlement agent3(1), 4(1), 73(5)(b)
 settlement agents’ code of conduct3(1)
+specified135(6)
 supervisor3(1)
 transaction3(1)
+transitional matter135(2)
 Treasurer3(1)
 Treasury3(1)
 triennial certificate3(1)
@@ -144,4 +131,3 @@ trust accounts48
 trustee company3(1)
 vendor49(5b)
 year48
-By Authority: JOHN A. STRIJK, Government Printer
