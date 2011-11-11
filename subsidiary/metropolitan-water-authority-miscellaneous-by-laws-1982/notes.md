@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Metropolitan Water Authority (Miscellaneous) By-laws 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 November 2011 of the Metropolitan Water Authority (Miscellaneous) By-laws 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Metropolitan Water Authority (Rates and Charges) By-laws 1982 | 18 Jun 1982 p. 2025-9 | 1 Jul 1982 (see bl. 2)
@@ -37,33 +37,20 @@ Water Agencies Amendment By-laws 2004 Pt. 4 | 29 Jun 2004 p. 2497-503 | 1 Jul 20
 Water Agencies Amendment By-laws 2005 Pt. 5 | 1 Jul 2005 p. 3009-17 | 1 Jul 2005 (see bl. 2)
 Water Agencies Amendment By-laws 2006 Pt. 5 | 30 Jun 2006 p. 2399-412 | 1 Jul 2006 (see bl. 2)
 Reprint 3: The Metropolitan Water Authority (Miscellaneous) By-laws 1982 as at 1 Dec 2006 (includes amendments listed above)
-Water Agencies Amendment By-laws 2007 Pt. 5 | 29 Jun 2007 p. 3233-44 | 1 Jul 2007 (see bl. 2)
+Water Agencies Amendment By-laws 2007 Pt. 5 | 29 Jun 2007 p. 3233-44 | 1 Jul 2007 (see bl. 2(b))
 Water Agencies Amendment By-laws 2008 Pt. 5 | 27 Jun 2008 p. 3076-84 | 1 Jul 2008 (see bl. 2(b))
-Water Agencies Amendment By-laws 2009 Pt. 5 | 19 Jun 2009 p. 2393-406 | bl. 1 and 2: 19 Jun 2009 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2009 (see bl. 2(b))
+Water Agencies Amendment By-laws 2009 Pt. 5 | 19 Jun 2009 p. 2393-406 | 1 Jul 2009 (see bl. 2(b))
 Water Agencies Amendment By-laws 2010 Pt. 5 | 25 Jun 2010 p. 2983-96 | 1 Jul 2010 (see bl. 2(b))
 Water Agencies Amendment By-laws 2011 Pt. 5 | 23 Jun 2011 p. 2403-16 | 1 Jul 2011 (see bl. 2(b))
+Reprint 4: The Metropolitan Water Authority (Miscellaneous) By-laws 1982 as at 11 Nov 2011 (includes amendments listed above)
 These by-laws have effect for the purposes of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 Now known as the Metropolitan Water Authority (Miscellaneous) By-laws 1982; citation changed (see note under bl. 1).
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The Metropolitan Water Authority (Rates and Charges) Amendment By-laws 1986 bl. 11 was a savings provision that is of no further effect.
 These by-laws contain an application provision concerning the period before the by-laws came into operation.
-The Metropolitan Water Authority (Miscellaneous) Amendment By-laws 2002 bl. 5 reads as follows:
-“
-5.Saving
-Where, before the commencement of these by-laws, a person hired a standpipe from the Corporation for attachment to a fire hydrant, the charge under Schedule 6 item 3 to the Metropolitan Water Authority (Miscellaneous) By-laws 1982 in respect of the standpipe is to be assessed as if these by-laws had not come into operation.
-”.
-The Water Authority Amendment By-laws 2006 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2006 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 2007 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2007 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 2008 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2008 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
+The Metropolitan Water Authority (Miscellaneous) Amendment By-laws 2002 bl. 5 is a savings provision.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+land3
+service3
