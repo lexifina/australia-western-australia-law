@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Real Estate and Business Agents Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 18 November 2011 of the Real Estate and Business Agents Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Real Estate and Business Agents Act 1978 | 72 of 1978 | 20 Oct 1978 | Act other than s. 5, 54, 55, 57-100, 102-131 and 135: 1 Sep 1979 (see s. 2(1) and Gazette 31 Aug 1979 p. 2601); s. 5: 1 Dec 1979 (see s. 2(2) and Gazette 31 Aug 1979 p. 2615); s. 54, 55, 57-100, 102-131 and 135: 1 Dec 1979 (see s. 2(1) and Gazette 31 Aug 1979 p. 2601)
@@ -43,15 +43,16 @@ Housing Societies Repeal Act 2005 s. 29 | 17 of 2005 | 5 Oct 2005 | 10 Jul 2010 
 Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 19 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 8 | 69 of 2006 | 13 Dec 2006 | 25 Jul 2007 (see s. 2 and Gazette 24 Jul 2007 p. 3657)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 6: The Real Estate and Business Agents Act 1978 as at 24 Aug 2007 (includes amendments listed above except those in the Housing Societies Repeal Act 2005 s. 29)
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 147 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 6: The Real Estate and Business Agents Act 1978 as at 24 Aug 2007 (includes amendments listed above except those in the Housing Societies Repeal Act 2005)
+Duties Legislation Amendment Act 2008 Sch. 1 cl. 32 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Legal Profession Act 2008 s. 696 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Acts Amendment (Bankruptcy) Act 2009 s. 74 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 28 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Acts Amendment (Fair Trading) Act 2010 Pt. 6 | 58 of 2010 | 8 Dec 2010 | 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 25 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Reprint 7: The Real Estate and Business Agents Act 1978 as at 18 Nov 2011 (includes amendments listed above)
 The provision in this Act repealing the Land Agents Act 1921 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The “appointed day” was 1 December 1979. See Gazette 31 August 1979 p. 2615.
 The Land Agents Act 1921.
@@ -59,31 +60,87 @@ Repealed by the Interpretation Act 1984.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 The Business Licensing Amendment Act 1995 s. 49 is a transitional provision that is of no further effect.
 The Real Estate Legislation Amendment Act 1995 s. 10(2) reads as follows:
-“
 (2) A notice under section 61(1) of the principal Act in force immediately before the commencement of this section continues to have effect on that commencement, and may be amended or revoked, as if the notice were a notice under section 61(1) of the principal Act as inserted by this section.
-”.
 The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 4(2) and (3) read as follows:
-“
 (2) A person may give notice of a claim under section 116(2) as amended by this section even if the time within which that notice was to be given under that section before that amendment had expired.
 (3) Where a person may give notice of a claim under section 116(2) as amended by this section, notice of the claim given by the person previously in writing to the Board (whether or not dealt with by the Board) is to be taken to be notice of the claim for the purposes of that section.
-”.
-The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
-“
-2.Commencement
-(1) If this Act receives the Royal Assent before the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act comes into operation at the same time as that Schedule comes into operation.
-(2) If this Act receives the Royal Assent on or after the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act is deemed to have come into operation at the same time as that Schedule comes into operation.
-3.Interpretation
-In this Part —
-Financial Services Reform Act means the Financial Services Reform Act 2001 of the Commonwealth;
-FSR commencement time means the time when Schedule 1 to the Financial Services Reform Act comes into operation;
-statutory rule means a regulation, rule or by-law.
-4.Validation
-(1) This section applies if this Act comes into operation under section 2(2).
-(2) Anything done or omitted to have been done after the FSR commencement time and before this Act receives the Royal Assent that could have been done if this Act had received the Royal Assent before the FSR commencement time is taken to be as valid and lawful, and to always have been as valid and lawful, as it would have been if this Act had received the Royal Assent before the FSR commencement time.
-(3) Anything done or omitted to have been done by a person after the FSR commencement time and before this Act received the Royal Assent that would have been valid and lawful if the Financial Services Reform Act had not commenced, is taken to be valid and lawful.
-(4) Anything done or omitted to have been done after the FSR commencement time and before this Act receives the Royal Assent —
-(a) that could only have been validly and lawfully done or omitted because this Act received the Royal Assent after the FSR commencement time; and
-(b) that could not have been validly and lawfully done or omitted if this Act had received the Royal Assent before the FSR commencement time,
-is taken not to be valid, and to never have been valid.
-”.
+The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 contain validation provisions which may be relevant to this Act.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+agent4(1), 92(5)(b)
+agents code of conduct4(1)
+applicant131A
+appointed day4(1)
+approved4(1)
+Assistance Account4(1)
+assisted person131A
+auditor4(1)
+authorised financial institution67
+bank4(1)
+bank account67
+banker67
+business4(1)
+business agent4(1)
+business day67
+business sales representative4(1)
+business transaction4(1)
+certificate of registration4(1)
+code of conduct for sales representatives4(1)
+commencement day148
+Commissioner4(1)
+committee23A(1)
+defalcation by a licensee4(1)
+department4(1)
+developer4(1)
+dwelling131A
+Fidelity Account4(1)
+fit and proper27(2), 47(2)
+former Board148
+former Registrar148
+franchising agreement4(1)
+General Purpose Account4(1)
+incidental expenses131A
+Interest Account4(1)
+legal practitioner4(1)
+lending institution131A
+liability148
+licence4(1)
+licensed4(1)
+licensee4(1)
+member4(1)
+metropolitan regionSch. cl. 8(4)
+party23C(7)
+person aggrieved23(2)
+real estate4(1)
+real estate agent4(1)
+real estate sales representative4(1)
+real estate transaction4(1)
+registered4(1)
+registered sales representative4(1)
+registration4(1)
+renewal4(1)
+repealed Act4(1)
+request68A(7)
+residential premises61A(3)
+reviewable decision23(2)
+right148
+sales representative4(1)
+separate account67
+settlement61(4a)
+specified159(6)
+strata company4(1)
+subsection103(1)(d)
+supervisor4(1)
+tenancy61A(3)
+tenant61A(3)
+transaction4(1), 61(4a)
+transitional matter159(2)
+Treasurer4(1)
+Treasury4(1)
+triennial certificate4(1)
+trust account92(5)(a)
+trust accounts67
+year67
+By Authority: JOHN A. STRIJK, Government Printer
