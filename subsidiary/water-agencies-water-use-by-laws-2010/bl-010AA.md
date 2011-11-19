@@ -1,8 +1,8 @@
-### 10AA. Use of scheme water in Area 2 to 31 October 2011
+### 10AA. Use of scheme water in Area 2 to 31 October 2012
 (1) In this by-law —
-commencement day means the day on which the Water Agencies (Water Use) Amendment By-laws 2011, other than by-laws 1 and 2, come into operation;
+commencement day means the day on which the Water Agencies (Water Use) Amendment By-laws (No. 2) 2011, other than by-laws 1 and 2, come into operation;
 coordinate means a Map Grid of Australia (Geocentric Datum of Australia 1994) coordinate for zone 50.
-(2) This by-law applies from commencement day to 31 October 2011.
+(2) This by-law applies from commencement day to 31 October 2012.
 (3) The stage of restrictions that applies in relation to the use of scheme water in the following areas is stage 5 —
 (a) the Grass Patch scheme water area;
 (b) the Salmon Gums scheme water area.
@@ -28,4 +28,4 @@ Table
 (a) the Department of Water, 168 St Georges Terrace, Perth; and
 (b) the Shire of Esperance, Administration Centre, Windich Street, Esperance; and
 (c) the Water Corporation, 629 Newcastle Street, Leederville or corner of Harbour Road and Sim Street, Esperance.
-[By-law 10AA inserted in Gazette 8 Mar 2011 p. 802-3.]
+[By-law 10AA inserted in Gazette 8 Mar 2011 p. 802-3; amended in Gazette 18 Nov 2011 p. 4819.]
