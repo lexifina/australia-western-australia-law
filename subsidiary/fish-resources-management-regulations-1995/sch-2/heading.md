@@ -6,7 +6,8 @@ All freshwater aquatic organisms other than sooty grunter and catfish of the Fam
 Billfish (marlins, sailfish and spearfish).
 Oyster of the Families Ostreidae and Pteriidae.
 Sharks and Rays, other than sharks or rays that are totally protected fish.
-[Part 1 amended in Gazette 12 Sep 1997 p. 5154; 5 Dec 1997 p. 7123; 1 Oct 2003 p. 4344; 10 Nov 2006 p. 4709; 4 Sep 2007 p. 4520.]
+Western rock lobster less than 77 mm in length.
+[Part 1 amended in Gazette 12 Sep 1997 p. 5154; 5 Dec 1997 p. 7123; 1 Oct 2003 p. 4344; 10 Nov 2006 p. 4709; 4 Sep 2007 p. 4520; 18 Nov 2011 p. 4810.]
 ## Part 2 — Totally protected fish
 ## Division 1 — Certain reproducing crustaceans
 Female crab with eggs or spawn attached beneath its body.
