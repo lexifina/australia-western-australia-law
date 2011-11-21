@@ -22,6 +22,7 @@ Short title | Number and year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Child Care Services Amendment Act 2011 Pt. 3 | 38 of 2011 | 4 Oct 2011 | To be proclaimed (see s. 2(b))
+Misuse of Drugs Amendment Act 2011 Pt. 5 | 56 of 2011 | 21 Nov 2011 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 had not come into operation. It reads as follows:
 Schedule 1 — Consequential amendments
 [s. 65]
@@ -79,6 +80,13 @@ Part 3 — Working with Children (Criminal Record Checking) Act 2004 amended
 This Part amends the Working with Children (Criminal Record Checking) Act 2004.
 41.Section 38 amended
 In section 38(3)(b) delete “a nominated supervising officer,”.
+On the date as at which this compilation was prepared, the Misuse of Drugs Amendment Act 2011 Pt. 5 had not come into operation. It reads as follows:
+Part 5 — Working with Children (Criminal Record Checking) Act 2004 amended
+14.Act amended
+This Part amends the Working with Children (Criminal Record Checking) Act 2004.
+15.Schedule 2 amended
+In Schedule 2 in the item relating to the Misuse of Drugs Act 1981 insert in numerical order:
+s. 7B(4) | Selling drug paraphernalia to a child
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
