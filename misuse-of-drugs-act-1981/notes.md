@@ -44,6 +44,10 @@ Misuse of Drugs (Amounts of Prohibited Drugs) Order 2011 published in Gazette 29
 Misuse of Drugs (Amounts of Prohibited Drugs) Order (No. 2) 2011 published in Gazette 1 Jul 2011 p. 2742-5 | cl. 1 and 2: 1 Jul 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 2 Jul 2011 (see cl. 2(b))
 Reprint 5: The Misuse of Drugs Act 1981 as at 16 Sep 2011 (includes amendments listed above)
 Misuse of Drugs (Amounts of Prohibited Drugs) Order (No. 3) 2011 published in Gazette 11 Oct 2011 p. 4316-20 | cl. 1 and 2: 11 Oct 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 12 Oct 2011 (see cl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Misuse of Drugs Amendment Act 2011 Pt. 2 | 56 of 2011 | 21 Nov 2011 | To be proclaimed (see s. 2(b))
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 read as follows:
@@ -101,6 +105,91 @@ If, immediately before the commencement of this Act, a warrant issued under the 
 (8) The Registrar of Titles is not required to obtain the consent or direction of the Commissioner of Titles to perform a function conferred on the Registrar under this section.
 (9) To the extent that a provision of this section relating to any property is inconsistent with the Transfer of Land Act 1983, the provision prevails, but this section does not otherwise affect the operation of that Act in relation to the property.
 This should read “1893”.
+On the date as at which this compilation was prepared, the Misuse of Drugs Amendment Act 2011 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Misuse of Drugs Act 1981 amended
+3.Act amended
+This Part amends the Misuse of Drugs Act 1981.
+4.Section 3 amended
+In section 3(1) insert in alphabetical order:
+adult means a person who has reached 18 years of age;
+5.Section 5 amended
+(1) Delete section 5(1)(d).
+(2) Delete section 5(3).
+6.Section 7B inserted
+After section 7A insert:
+7B.Drug paraphernalia, offences as to
+(1) In this section —
+display, in relation to drug paraphernalia, includes to authorise or allow drug paraphernalia to be displayed;
+drug paraphernalia means —
+(a)any thing made or modified to be used in connection with manufacturing or preparing a prohibited drug or a prohibited plant —
+(i)for administration to a person; or
+(ii)for smoking, inhaling or ingesting by a person; or
+(iii)to be burned or heated so its smoke or fumes can be smoked or inhaled by a person;
+or
+(b)any thing made or modified to be used by a person —
+(i)to administer a prohibited drug or a prohibited plant to a person; or
+(ii)to smoke, inhale or ingest a prohibited drug or a prohibited plant; or
+(iii)to smoke or inhale the smoke or fumes resulting from burning or heating a prohibited drug or a prohibited plant.
+(2) A person who displays any drug paraphernalia for sale in a retail outlet commits a simple offence.
+Penalty: a fine of $10 000.
+(3) A person who sells any drug paraphernalia to an adult commits a simple offence.
+Penalty: a fine of $10 000.
+(4) A person who sells any drug paraphernalia to a child commits a simple offence.
+Penalty: a fine of $24 000 or imprisonment for 2 years or both.
+(5) It is a defence to a charge of an offence under subsection (2), (3) or (4) to prove —
+(a) the accused was a person prescribed; or
+(b) the drug paraphernalia displayed or sold was a thing prescribed or of a class prescribed; or
+(c) the display or sale occurred in circumstances prescribed,
+for the purposes of that subsection.
+(6) A person who is in possession of any drug paraphernalia in or on which there is a prohibited drug or a prohibited plant commits a simple offence.
+Penalty: a fine of $36 000 or imprisonment for 3 years or both.
+(7) It is a defence to a charge of an offence under subsection (6) to prove —
+(a) the accused was authorised by or under this Act or the Poisons Act 1964 to possess the prohibited drug or prohibited plant; or
+(b) the accused had possession of the drug paraphernalia —
+(i) only for the purpose of delivering it to a person authorised under this Act or the Poisons Act 1964 to have possession of any prohibited drug or prohibited plant in or on it; and
+(ii) in accordance with the authority in writing of the person so authorised,
+and that, after taking possession of the drug paraphernalia, the accused took all such steps as were reasonably open to the accused to deliver it into the possession of that person; or
+(c) the accused had possession of the drug paraphernalia only for the purpose of analysing material in or on it, examining it or otherwise dealing with it for the purposes of this Act in his or her capacity as an analyst, botanist or other expert.
+7.Section 8B amended
+In section 8B(1) in the definition of minor cannabis related offence paragraph (a) after “section 5(1)(d)(i)” insert:
+or 7B(6)
+8.Sections 19A and 19B deleted
+Delete sections 19A and 19B.
+9.Section 34 amended
+(1) In section 34(1) delete “subsection (2),” and insert:
+subsections (2) and (3),
+(2) After section 34(2) insert:
+(3) If a court is sentencing a person for an offence referred to in subsection (1)(a) that involved selling or supplying, or offering to sell or supply, a prohibited drug or a prohibited plant to a child, and the person was an adult when the offence was committed, then, despite the Sentencing Act 1995 Part 5 —
+(a) for a first offence the court must use one of only these sentencing options —
+(i) suspended imprisonment imposed under the Sentencing Act 1995 section 39 and Part 11;
+(ii) conditional suspended imprisonment imposed under section 39 and Part 12 of that Act;
+(iii) a term of imprisonment imposed under section 39 and Part 13 of that Act;
+and
+(b) for any subsequent offence (whether or not under the same provision) the court —
+(i) must impose a term of imprisonment of at least 6 months; and
+(ii) must not suspend the term of imprisonment.
+(4) If a court is sentencing a person for —
+(a) an offence under section 6(1)(b); or
+(b) an offence under section 7(1)(a) that involved cultivating a prohibited plant; or
+(c) an offence under section 14(1),
+committed in circumstances where the acts constituting the offence endangered the life, health or safety of a child under 16 years of age, and the person was an adult when the offence was committed, then, despite the Sentencing Act 1995 Part 5 —
+(d) for a first offence the court must use one of only these sentencing options —
+(i) suspended imprisonment imposed under the Sentencing Act 1995 section 39 and Part 11;
+(ii) conditional suspended imprisonment imposed under section 39 and Part 12 of that Act;
+(iii) a term of imprisonment imposed under section 39 and Part 13 of that Act;
+and
+(e) for any subsequent offence (whether or not under the same provision) the court —
+(i) must impose a term of imprisonment of at least 6 months; and
+(ii) must not suspend the term of imprisonment.
+(5) If a court is sentencing a person for —
+(a) an offence under section 6(1)(b); or
+(b) an offence under section 7(1)(a) that involved cultivating a prohibited plant; or
+(c) an offence under section 14(1),
+committed in circumstances where the acts constituting the offence caused bodily harm (as defined in The Criminal Code section 1(1) and (4)) to a child under 16 years of age, and the person was an adult when the offence was committed, then, despite the Sentencing Act 1995 Part 5, the court —
+(d) must impose a term of imprisonment of at least 12 months; and
+(e) must not suspend the term of imprisonment.
+(6) The Minister must carry out a review of the operation and effectiveness of the amendments made to this section by the Misuse of Drugs Amendment Act 2011 section 9 as soon as practicable after the expiry of 3 years from the commencement of that section.
+(7) The Minister is to lay (or cause to be laid) a report of the review under this section before both Houses of Parliament as soon as practicable after the review is completed.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
