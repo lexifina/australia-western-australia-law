@@ -47,6 +47,10 @@ Working with Children (Criminal Record Checking) Amendment Act 2010 Pt. 3 | 7 of
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Cannabis Law Reform Act 2010 Pt. 4 | 45 of 2010 | 28 Oct 2010 | 1 Aug 2011 (see s. 2(b) and Gazette 29 Jul 2011 p. 3127)
 Reprint 6: The Spent Convictions Act 1988 as at 5 Aug 2011 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Misuse of Drugs Amendment Act 2011 Pt. 4 | 56 of 2011 | 21 Nov 2011 | To be proclaimed (see s. 2(b))
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
@@ -55,6 +59,13 @@ Under the Alteration of Statutory Designations Order 2007 a reference in any law
 Repealed by the Children and Community Services Act 2004.
 The Children and Community Services Act 2004 Sch. 2 cl. 25 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 32(4).
 The Machinery of Government (Miscellaneous Amendment) Act 2006 Pt. 3 Div. 5 was repealed by the Statutes (Repeals and Minor Amendments) Act 2011 s. 23(4) before it purported to come into operation.
+On the date as at which this compilation was prepared, the Misuse of Drugs Amendment Act 2011 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — Spent Convictions Act 1988 amended
+12.Act amended
+This Part amends the Spent Convictions Act 1988.
+13.Section 11 amended
+Delete section 11(6)(a)(i) and insert:
+(i) section 5(1)(d)(i) or 7B(6); or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
