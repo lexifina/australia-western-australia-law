@@ -2,12 +2,12 @@ Notes
 This is a compilation of the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 | 24 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; s. 3, Pt. 2 Div. 1 and 2 (s. 4-17) and s. 85(4): 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645); Pt. 2 Div. 9: 21 Feb 2009 (see s. 2(1) and Gazette 20 Feb 2009 p. 353); Pt. 2 Div. 11 and 14: 14 Aug 2010 (see s. 2(1), (4) and (5) and Gazette 13 Aug 2010 p. 4021 and Notices published in Gazette 13 Aug 2010 p. 4028); Pt. 2 Div. 7: 18 Dec 2010 (see s. 2(1) and Gazette 17 Dec 2010 p. 6349)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 | 24 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; s. 3, Pt. 2 Div. 1 and 2 (s. 4-17) and s. 85(4): 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645); Pt. 2 Div. 9: 21 Feb 2009 (see s. 2(1) and Gazette 20 Feb 2009 p. 353); Pt. 2 Div. 11 and 14: 14 Aug 2010 (see s. 2(1), (4) and (5) and Gazette 13 Aug 2010 p. 4021 and Notices published in Gazette 13 Aug 2010 p. 4028); Pt. 2 Div. 7: 18 Dec 2010 (see s. 2(1) and Gazette 17 Dec 2010 p. 6349); s. 27 and Pt. 2 Div. 6 Subdiv 2: 23 Nov 2011 (see s. 2(1) and Gazette 22 Nov 2011 p. 4843)
 Agriculture and Related Resources Protection Amendment Act 2010 Pt. 3 (other than s. 59-61 & 65 & 66) | 46 of 2010 | 28 Oct 2010 | 11 Dec 2010 (see s. 2(b) and Gazette 10 Dec 2010 p. 6261)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-6, 8, 10, 12, 13 and 15-18 and Pt. 3 (other than s. 85(4)) | 24 of 2007 (as amended by No. 46 of 2010 s. 59-61, 65 and 66 and No. 58 of 2010 s. 192) | 12 Oct 2007 | To be proclaimed (see s. 2)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-6 (except s. 27, 30-33), 8, 10, 12, 13 and 15-18 and Pt. 3 (other than s. 85(4)) | 24 of 2007 (as amended by No. 46 of 2010 s. 59-61, 65 and 66 and No. 58 of 2010 s. 192) | 12 Oct 2007 | To be proclaimed (see s. 2)
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 3-6, 8, 10, 12, 13 and 15-18 and Pt. 3 (other than s. 85(4)) (as amended by No. 46 of 2010 s. 59-61, 65 and 66 and No. 58 of 2010 s. 192) had not come into operation. They read as follows:
 “
 Division 3 — Aerial Spraying Control Act 1966
@@ -51,9 +51,6 @@ and the former account is then to be closed.
 If in an agreement, instrument or other document there is a reference to the former account, that reference is, unless the context otherwise requires, to be read and have effect on and after the commencement day as if it were a reference to the Modified Penalties Revenue Account established under the BAM Act.
 Division 6 — Agriculture and Related Resources Protection Act 1976
 Subdivision 1 — Repeal and consequential amendments
-27.Repeal
-(1) The Agriculture and Related Resources Protection Act 1976 is repealed on a day to be fixed by proclamation.
-(2) Different days may be fixed under subsection (1) for different provisions.
 28.Bush Fires Act 1954 amended
 (1) The amendments in this section are to the Bush Fires Act 1954.
 (2) Section 26(5) is repealed and the following subsection is inserted instead —
@@ -75,15 +72,6 @@ A plant that is a declared pest as that term is defined by the Biosecurity and A
 (3) In section 17B(8) delete the definition of agriculture inspector and insert:
 agriculture inspector means an inspector appointed under the Biosecurity and Agriculture Management Act 2007 section 162;
 [Section 30A inserted by No. 46 of 2010 s. 59.]
-Subdivision 2 — Transitional and savings provisions
-30.Meaning of terms used in this Subdivision
-In this Subdivision —
-commencement day means the day on which the repealed Act Part V Division 6 is repealed;
-repealed Act means the Agriculture and Related Resources Protection Act 1976.
-[Section 30 amended by No. 46 of 2010 s. 60.]
-31.Rates on pastoral leases
-Despite section 27, the repealed Act Part V Division 6, as in force immediately before the commencement day, continues to apply in relation to a rate payable under that Division for a financial year commencing before the commencement day.
-[32, 33.Deleted by No. 46 of 2010 s. 61]
 Division 8 — Argentine Ant Act 1968
 49.Repeal
 The Argentine Ant Act 1968 is repealed.
