@@ -37,7 +37,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 27 and 30-33 | 24 of 2007 (as amended by No. 46 of 2010 s. 60 and 61) | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 27 | 24 of 2007 | 12 Oct 2007 | 23 Nov 2011 (see s. 2(2) and Gazette 22 Nov 2011 p. 4843); Repeal of Act operative when proclamation published under s. 27
 Repealed by the Mining Act 1978.
 Repealed by the Public Service Appeal Board Act Repeal Act 1977.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. See also endnote 14.
@@ -157,7 +157,6 @@ Section 9(5) of the Agriculture and Related Resources Protection Act 1976 is ame
 (b) by deleting “or the Superannuation and Family Benefits Act 1938”.
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 4 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
-Footnote no longer applicable.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “
 Division 23 — Transitional provisions
@@ -202,12 +201,13 @@ commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 27 and 30-33 (as amended by the Agriculture and Related Sources Protection Amendment Act 2010 s. 60 and 61) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 27 was in force. This does not have effect of repealing the Agriculture and Related Resources Protection Act 1976. This Act will be repealed upon publication of a proclamation made under s. 27 of the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007. It reads as follows:
 Division 6 — Agriculture and Related Resources Protection Act 1976
 Subdivision 1 — Repeal and consequential amendments
 27.Repeal
 (1) The Agriculture and Related Resources Protection Act 1976 is repealed on a day to be fixed by proclamation.
 (2) Different days may be fixed under subsection (1) for different provisions.
+The Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 Pt. 2 Div. 6 Subdivision 2 reads as follows:
 Subdivision 2 — Transitional and savings provisions
 30.Meaning of terms used in this Subdivision
 In this Subdivision —
@@ -216,4 +216,3 @@ repealed Act means the Agriculture and Related Resources Protection Act 1976.
 [Section 30 amended by No. 46 of 2010 s. 60.]
 31.Rates on pastoral leases
 Despite section 27, the repealed Act Part V Division 6, as in force immediately before the commencement day, continues to apply in relation to a rate payable under that Division for a financial year commencing before the commencement day.
-[32, 33.Deleted by No. 46 of 2010 s. 61]
