@@ -2,15 +2,15 @@ Notes
 This is a compilation of the Biosecurity and Agriculture Management Act 2007 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management Act 2007 | 23 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; Pt. 1 (other than s. 1 and 2), Pt. 2 Div. 6, Pt. 7 Div. 1 and s. 181 and 187: 24 Oct 2007 (see s. 2 and Gazette 23 Oct 2007 p. 5643); s. 22, Pt. 4 and 5, Pt. 6 Div. 1 SubDiv 1, Div. 2 and 3, Pt. 7 Div. 2, 3 and 6, s. 182, Pt. 8 (other than s. 193) and Sch. 1: 22 May 2010 (see s. 2 and Gazette 21 May 2010 p. 2177); Pt. 6 Div. 1 SubDiv. 3 and Pt. 7 Div. 5: 12 Feb 2011 (see s. 2 and Gazette 11 Feb 2011 p. 479)
+Biosecurity and Agriculture Management Act 2007 | 23 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; Pt. 1 (other than s. 1 and 2), Pt. 2 Div. 6, Pt. 7 Div. 1 and s. 181 and 187: 24 Oct 2007 (see s. 2 and Gazette 23 Oct 2007 p. 5643); s. 22, Pt. 4 and 5, Pt. 6 Div. 1 SubDiv 1, Div. 2 and 3, Pt. 7 Div. 2, 3 and 6, s. 182, Pt. 8 (other than s. 193) and Sch. 1: 22 May 2010 (see s. 2 and Gazette 21 May 2010 p. 2177); Pt. 6 Div. 1 Subdiv. 3 and Pt. 7 Div. 5: 12 Feb 2011 (see s. 2 and Gazette 11 Feb 2011 p. 479); Pt. 6 Div. 1 Subdiv. 2: 23 Nov 2011 (see s. 2 and Gazette 22 Nov 2011 p. 4843)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 5 | 35 of 2010 | 1 Oct 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Agriculture and Related Resources Protection Amendment Act 2010 s. 68 | 46 of 2010 | 28 Oct 2010 | 18 Dec 2010 (see s. 2(b) and Gazette 17 Dec 2010 p. 6349)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, Div. 3 (other than s. 22), Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2, Pt. 7 Div. 4, s. 183-186, s. 193 and Pt. 9 | 23 of 2007 (as amended by No. 47 of 2011 s. 27) | 12 Oct 2007 | To be proclaimed (see s. 2)
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, s. 23-42, Div. 4 and 5, Pt. 3, Pt. 6 Div. 1 Subdiv. 2, Pt. 7 Div. 4, s. 183-186, s. 193 and Pt. 9 have not come into operation. They read as follows:
+Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, Div. 3 (other than s. 22), Div. 4 and 5, Pt. 3, Pt. 7 Div. 4, s. 183-186, s. 193 and Pt. 9 | 23 of 2007 (as amended by No. 47 of 2011 s. 27) | 12 Oct 2007 | To be proclaimed (see s. 2)
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, s. 23-42, Div. 4 and 5, Pt. 3, Pt. 7 Div. 4, s. 183-186, s. 193 and Pt. 9 have not come into operation. They read as follows:
 Part 2 — Biosecurity
 Division 1 — Permitted, prohibited and unlisted organisms
 11.Permitted organisms
@@ -392,63 +392,6 @@ Penalty: a fine of $100 000 and imprisonment for 12 months.
 (ii) economic loss.
 Penalty: a fine of $100 000 and imprisonment for 12 months.
 (2) For the purposes of this section, making a statement includes conveying information by any means.
-Part 6 — Financial provisions
-Division 1 — Declared Pest Account
-Subdivision 2 — Rates imposed on land
-130.Determination of rate
-(1) The Minister may, by notice published in the Gazette, determine a rate that is chargeable for a financial year on land in a prescribed area.
-(2) The rate is for the purposes of the Declared Pest Account.
-(3) A rate determination must specify the land or the class of land on which the rate is chargeable.
-(4) Different rates may be determined in respect of different land and different classes of land.
-(5) The Minister may, in the exercise of the power under subsection (1), exempt land from the application of the rate.
-(6) To the extent (if any) that a rate is not a tax imposed by the Biosecurity and Agriculture Management Rates and Charges Act 2007, this Act imposes the rate.
-(7) The Interpretation Act 1984 section 42 applies to a rate determination as if the determination were a regulation.
-131.Procedure for making rate determination
-Before determining a rate chargeable on land, the Minister must consult in accordance with the regulations with the owners of the land, and other prescribed persons (if any).
-132.Minimum and maximum rates
-(1) The Minister may determine a flat rate, or an ad valorem rate, chargeable on land.
-(2) A flat rate must not exceed the prescribed amount.
-(3) The rates amount payable in relation to a financial year when calculated by applying the ad valorem rate to the amount equal to the unimproved value of the land must not exceed —
-(a) in the case of land held under a pastoral lease, an amount equal to 10% of the unimproved value of the land according to the valuation in force under the Valuation of Land Act 1978 at midnight on 30 June in the previous financial year; and
-(b) in any other case, an amount equal to 2% of the unimproved value of the land according to the valuation in force under the Valuation of Land Act 1978 at midnight on 30 June in the previous financial year.
-(4) The Minister may determine the minimum rates amount payable and the maximum rates amount payable, irrespective of the amount payable when calculated by applying the ad valorem rate.
-133.Rates amounts
-(1) If a flat rate is determined in respect of land, the rates amount payable is the amount determined as the rate.
-(2) If an ad valorem rate is determined in respect of land, the rates amount payable in relation to a financial year is, subject to section 132(4), the amount calculated by applying the rate to the amount equal to the unimproved value of the land according to the valuation in force under the Valuation of Land Act 1978 at midnight on 30 June in the previous financial year.
-(3) Rates amounts are payable to the Commissioner.
-134.Multiple rating
-(1) In this section —
-Government agreement has the meaning given to that term by the Government Agreements Act 1979.
-(2) If —
-(a) under the Mining Act 1978 or a Government agreement a person holds in respect of land a mining tenement within the meaning given to that term by that Act or agreement; or
-(b) in accordance with the Mining Act 1978 a person holds, occupies, uses or enjoys in respect of land a mining tenement within the meaning given to that term by the Mining Act 1904; or
-(c) under the Petroleum Act 1967 a person holds in respect of land a petroleum production licence or exploration permit,
-the land the subject of that tenement, licence or permit may be the subject of a rate determination notwithstanding that the land may be the subject of a rate determination in the hands of the holder of another estate in that land.
-135.Application of Taxation Administration Act 2003 and Land Tax Assessment Act 2002
-(1) In this section —
-assessment notice has the meaning given to that term by the Taxation Administration Act 2003.
-(2) The Commissioner does not have to issue an assessment notice under the Taxation Administration Act 2003 section 23 if no tax is payable under an exemption under section 130(5).
-(3) The Taxation Administration Act 2003 Part 6 and section 116(1) apply as if the references in that Part and that section to land tax were references to a rates amount.
-(4) The Land Tax Assessment Act 2002 sections 6, 7, 8, 9, 12, 13 and 43 apply as if the references in those sections to —
-(a) “land tax” were references to a rates amount; and
-(b) “assessment year” were, in relation to a rates amount, a reference to the financial year for which the rates amount is, or is to be assessed; and
-(c) “taxable land” were references to land in respect of which a rate is determined; and
-(d) “land tax Act” were a reference to —
-(i) this Division; or
-(ii) the Biosecurity and Agriculture Management Rates and Charges Act 2007; or
-(iii) the Taxation Administration Act 2003, to the extent that it relates to rateable amounts;
-and
-(e) “this Act” were references to this Division.
-136.Postponement of rates payable by pensioners
-(1) In this section —
-pensioner means a person who holds a pensioner concession card;
-pensioner concession card means a currently valid card, known by that name, issued on behalf of the Commonwealth to the holder or, where a card of another kind is prescribed for the purposes of this definition, that other card.
-(2) Subject to subsection (5), a person who is a pensioner may claim to be exempt from liability for the payment of a rates amount in respect of land of which the person is in actual occupation as owner.
-(3) On receipt of the claim the Commissioner must postpone the payment of the rates amount to which the claim relates until the person ceases to own the land or dies, whichever first occurs, or until the person ceases to be entitled to be exempt from liability for payment of rates amounts under this Division.
-(4) Where the payment of a rates amount is postponed under subsection (3), nothing in the Limitation Act 2005 prevents the Commissioner from recovering any rates amount which but for this subsection the Commissioner would have been prevented from so doing by that Act.
-(5) A person is not entitled to be exempt under this section from liability for payment of a rates amount in respect of any land if —
-(a) the land is occupied by that person and a person who is neither a pensioner nor a dependant of the first-mentioned person; or
-(b) the land is partly owned by that person and partly owned by a person who is neither a pensioner nor a dependant of the first-mentioned person.
 Part 7 — Administration
 Division 4 — Quarantine facilities, inspection points and other places
 165.Arrangements for provision of quarantine facilities
