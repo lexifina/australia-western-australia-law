@@ -151,6 +151,7 @@ Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 5, 11, 12(2)(c), (5)(d) and (7)(b), 14 and 15 | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 Road Traffic Legislation Amendment (Information) Act 2011 s. 9 | 18 of 2011 | 2 Jun 2011 | To be proclaimed (see s. 2(b))
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 3 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
+Manslaughter Legislation Amendment Act 2011 Pt. 3 | 58 of 2011 | 30 Nov 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 Section 111(2)(f) of this Act has been deleted.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
@@ -397,6 +398,20 @@ Penalty: Imprisonment for 2 years.
 (b) causes or permits another person to do so,
 commits an offence.
 Penalty: Imprisonment for 2 years.
+On the date as at which this compilation was prepared, the Manslaughter Legislation Amendment Act 2011 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Road Traffic Act 1974 amended
+5.Act amended
+This Part amends the Road Traffic Act 1974.
+6.Section 59 amended
+(1) In section 59(1) in the Summary conviction penalty delete “penalty:” and insert:
+penalty in a case in which the incident does not occasion the death of another person:
+(2) After section 59(1) insert:
+(2A) For an offence against this section that was committed before the day on which the Manslaughter Legislation Amendment Act 2011 section 6(1) came into operation amending subsection (1), subsection (1) applies as if that amendment had not been made.
+7.Section 67 amended
+(1) In section 67(3a) in the Summary conviction penalty delete “penalty:” and insert:
+penalty in a case in which the incident does not occasion the death of another person:
+(2) After section 67(3a) insert:
+(3B) For an offence against this section that was committed before the day on which the Manslaughter Legislation Amendment Act 2011 section 7(1) came into operation amending subsection (3a), subsection (3a) applies as if that amendment had not been made.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
