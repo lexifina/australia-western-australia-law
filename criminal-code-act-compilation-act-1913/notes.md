@@ -168,6 +168,7 @@ Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclai
 Criminal Code Amendment (Identity Crime) Act 2010 s. 3-5 | 16 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 | 10 of 2011 | 2 May 2011 | To be proclaimed (see s. 2(b))
 Electronic Transactions Act 2011 s. 25 and 26 | 46 of 2011 | 25 Oct 2011 | s. 25: to be proclaimed (see s. 2(c)); s. 26: if the Criminal Code Amendment (Identity Crime) Act 2010 section 5 (section 5) comes into operation on or before the day on which section 24 comes into operation — when section 24 comes into operation; otherwise — when section 5 comes into operation (see s. 2(b));
+Manslaughter Legislation Amendment Act 2011 Pt. 2 | 58 of 2011 | 30 Nov 2011 | To be proclaimed (see s. 2(b))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -328,6 +329,13 @@ s. 204B(1) def. of electronic communication | section 5 of the Electronic Transa
 (1) This section amends The Criminal Code (as amended by the Criminal Code Amendment (Identity Crime) Act 2010 section 5).
 (2) In section 489 in the definition of electronic communication delete “Electronic Transactions Act 2003 section 5;” and insert:
 Electronic Transactions Act 2011 section 5(1);
+On the date as at which this compilation was prepared, the Manslaughter Legislation Amendment Act 2011 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — The Criminal Code amended
+3.Act amended
+This Part amends The Criminal Code.
+4.Section 280 amended
+In section 280 delete “20 years.” and insert:
+life.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
