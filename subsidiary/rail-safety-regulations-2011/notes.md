@@ -5,6 +5,7 @@ Citation | Gazettal | Commencement
 Rail Safety Regulations 2011 | 28 Jan 2011 p. 187-238 | r. 1 and 2: 28 Jan 2011 (see r. 2(a)); Regulations other than r. 1, 2 and 11: 1 Feb 2011 (see r. 2(c) and Gazette 28 Jan 2011 p. 241)
 Rail Safety Amendment Regulations 2011 | 21 Jun 2011 p. 2254-5 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Rail Safety Amendment Regulations (No. 2) 2011 | 14 Oct 2011 p. 4342-3 | r. 1 and 2: 14 Oct 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Oct 2011 (see r. 2(b))
+Rail Safety Amendment Regulations (No. 3) 2011 | 22 Nov 2011 p. 4853-4 | r. 1 and 2: 22 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2011 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
