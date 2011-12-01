@@ -64,6 +64,7 @@ Workers’ Compensation and Injury Management Amendment Regulations 2008 | 17 De
 Reprint 6: The Workers’ Compensation and Injury Management Regulations 1982 as at 14 Aug 2009 (includes amendments listed above)
 Workers’ Compensation and Injury Management Amendment Regulations 2010 | 19 Mar 2010 p. 1038-9 | r. 1 and 2: 19 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Mar 2010 (see r. 2(b))
 Workers’ Compensation and Injury Management Amendment Regulations (No. 2) 2010 | 10 Sep 2010 p. 4351-7 | r. 1 and 2: 10 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2010 (see r. 2(b))
+Workers’ Compensation and Injury Management Amendment Regulations 2011 | 18 Nov 2011 p. 4819-26 | r. 1 and 2: 18 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2011 (see r. 2(b) and Gazette 8 Nov 2011 p. 4673)
 Formerly referred to the Workers’ Compensation and Assistance Act 1981 the short title of which was changed to the Workers’ Compensation and Rehabilitation Act 1981 by the Workers’ Compensation and Assistance Amendment Act 1990 s. 5 and then to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Workers’ Compensation and Injury Management Regulations 1982; citation changed (see note under r. 1).
@@ -83,21 +84,24 @@ audiometric officer19A
 Australian Standard19A
 clause19A
 code of conduct26
-commencement day43(4)
+commencement day18B, 43(4)
 counselling psychologist44A(1)
 criminal record check28(6)
+dispute resolution authority18B
 dispute resolution body43(4)
 employer26
 estimated total cost13(3)
 exercise physiologist44B(1)
 extension period19N(1)
 fit and proper person26
+former provisions18B
 independent agent26
 Insurer/Self-Insurer Electronic Data Specification (Edition Q1)13(3)
 L peak19I(2)
 legal service18B
 March CPI17AA(2), 17AE(2), 17A(2)
 MBS item17AB(3)
+pending application18LA(1)
 pending proceeding43(4)
 prescribed details18L
 registered Australian body3(2)

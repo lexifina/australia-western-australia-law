@@ -71,7 +71,8 @@ DETERMINATION
 3.To what extent if any does, or did —
 (i)pneumoconiosis;
 (ii)mesothelioma;
-(iii)lung cancer,
+(iii)lung cancer;
+(iv)diffuse pleural fibrosis,
 adversely affect the worker’s ability to undertake physical effort?
 4.What other, if any, disease or physical condition is, or was, contributing to the worker’s being less able to earn full wages, or death and to what extent?
 5.Is, or was, the worker fit for work? If so, at what level — light, moderate, or heavy?
@@ -89,8 +90,12 @@ of
 a Medical Practitioner, attended the examination of the above claimant.
 ................................................
 (Chairman)
-[Form 2 amended in Gazette 8 Mar 1991 p. 1076; 24 Dec 1993 p. 6845-6; 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276.]
+[Form 2 amended in Gazette 8 Mar 1991 p. 1076; 24 Dec 1993 p. 6845-6; 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276; 18 Nov 2011 p. 4823.]
 [Form 2A deleted in Gazette 15 Oct 1999 p. 4900.]
+Form 2B
+[r. 6AA]
+Workers’ Compensation and Injury Management Act 1981
+(Section 178(1)(b))
 Workers’ Compensation Claim Form
 Insurer please complete
 Date form received from employer:
@@ -243,7 +248,7 @@ Print your name:
 Witness signature:
 Witness print name:
 IMPORTANT: FAILURE TO PROVIDE YOUR SIGNATURE ON EITHER THE DECLARATION OR THE CONSENT AUTHORITIES MAY DELAY A DECISION BY THE INSURER ON YOUR CLAIM.
-[Form 2B inserted in Gazette 10 Sep 2010 p. 4352-7.]
+[Form 2B inserted in Gazette 10 Sep 2010 p. 4352-7; amended in Gazette 18 Nov 2011 p. 4824.]
 Form 2C
 [regs 4(1), 6AA]
 Workers’ Compensation and Injury Management Act 1981
@@ -256,7 +261,7 @@ TYPE 32 AGENCY 991 ICD 250 LOCN 130 ______________________________ office use on
 ELECTION FOR SCHEDULE 2 INJURY — item 6
 NIHL FILE No. ...................... (Office Use Only) Date of compensable test ....../....../...... Compensable noise induced hearing loss ...........% (of item 6)Entitlement $ ............... Employer at time of test ................................................................................................... Address ......Post Code ...................... Previous settlement date ....../....../...... PLH ................................................................
 WORKER’S DECLARATION
-I elect to accept under Part III Division 2 of the Workers’ Compensation and Injury Management Act 1981 the sum of $ ......... representing ..........% of loss of Schedule 2 item 6 of the Act, being loss of hearing. In making this election I declare that I have not received nor am I eligible to receive compensation in respect of the noise induced hearing loss under any law of the Commonwealth, another State or Territory of the Commonwealth, or country other than Australia. In making this election and upon an agreement being registered by the Director, Dispute Resolution Directorate, I acknowledge that after registration or making an award: 1.I shall have no further entitlement to compensation under the Act for the percentage loss of hearing which is the subject of this election; 2.I shall have no entitlement to further monies upon any increase to the prescribed amount for the percentage loss of hearing which is the subject of this election. DATED the .................... day of .............. 20........ (Signature of worker) in the presence of : (Signature and full name and address of witness)
+I elect to accept under Part III Division 2 of the Workers’ Compensation and Injury Management Act 1981 the sum of $ ......... representing ..........% of loss of Schedule 2 item 6 of the Act, being loss of hearing. In making this election I declare that I have not received nor am I eligible to receive compensation in respect of the noise induced hearing loss under any law of the Commonwealth, another State or Territory of the Commonwealth, or country other than Australia. In making this election and upon an agreement being registered by the Director, I acknowledge that after registration or making an award: 1.I shall have no further entitlement to compensation under the Act for the percentage loss of hearing which is the subject of this election; 2.I shall have no entitlement to further monies upon any increase to the prescribed amount for the percentage loss of hearing which is the subject of this election. DATED the .................... day of .............. 20........ (Signature of worker) in the presence of : (Signature and full name and address of witness)
 EMPLOYER DETAILS — (Employer to complete) |  | WorkCover No. ..........
 Trading name of employer (e.g. Browns Welding; E.J. Drilling Service) |  | Local Gov.
  | Insurance Co.
@@ -300,7 +305,7 @@ NIHL Claims Officer
 check:Date......./......../........Signature
 NIHL Manager
 check:Date......./......../........Signature
-[Form 2C inserted in Gazette 25 Aug 1995 p. 3885-7; amended in Gazette 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4915-16.]
+[Form 2C inserted in Gazette 25 Aug 1995 p. 3885-7; amended in Gazette 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4915-16; 18 Nov 2011 p. 4824.]
 Form 2CA
 [regs 4(2), 6AA]
 Workers’ Compensation and Injury Management Act 1981
@@ -414,7 +419,7 @@ Body Locn:
 Form 3
 [r. 6A, 7(1)]
 Workers’ Compensation and Injury Management Act 1981
-(Sections 57A(1)(b), 57B(1)(b), 61(1) and 231(1)(b))
+(Sections 57A(1)(b), 57B(1)(b) and 61(1))
 FIRST MEDICAL CERTIFICATE
 1. Worker’s Details
 First name(s): ......................................................... Surname:
@@ -462,7 +467,7 @@ Telephone ................................................. Signature
 Fax .......................................................... Time & Date of examination
 For workers’ compensation information or assistance contact
 WorkCover WA’s Infoline: 1300 794 744
-[Form 3 inserted in Gazette 13 Apr 1999 p. 1539-40; amended in Gazette 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4919-20.]
+[Form 3 inserted in Gazette 13 Apr 1999 p. 1539-40; amended in Gazette 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4919-20; 18 Nov 2011 p. 4824.]
 Form 3A
 [r. 6B]
 Workers’ Compensation and Injury Management Act 1981
@@ -517,10 +522,10 @@ Date: ......................................................
 [*delete if appropriate]
 NOTE THAT if you wish you may —
 ·discuss this notice with the insurer or apply to have the matter heard under any internal dispute resolution process of the insurer;
-·under section 181 of the Act apply to the Director Dispute Resolution for resolution of a dispute by an arbitrator;
 ·seek advice in relation to the dispute from WorkCover WA;
+·if reasonable attempts have been made to resolve the dispute by negotiation with the employer and the insurer, apply to the Director under section 182E of the Act for resolution of a dispute by conciliation;
 ·seek advice or assistance in relation to the dispute from your trade union organisation, a legal practitioner or a registered agent.
-[Form 3B inserted in Gazette 8 Mar 1991 p. 1074; amended in Gazette 5 Feb 1993 p. 1059; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4921-2.]
+[Form 3B inserted in Gazette 8 Mar 1991 p. 1074; amended in Gazette 5 Feb 1993 p. 1059; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4921-2; 18 Nov 2011 p. 4824.]
 Form 3C
 [r. 6D]
 Workers’ Compensation and Injury Management Act 1981
@@ -531,7 +536,7 @@ To:
 [name and address of worker to whom the claim relates]
 2.
 [name and address of employer]
-3. Director Dispute Resolution
+3. Director
 From:
 [name and address of insurer]
 Claim Number: .............................................
@@ -547,10 +552,10 @@ Signed on behalf of the insurer:
 Date: ........................................................
 NOTE THAT if you wish you may —
 ·discuss this notice with the insurer or employer or apply to have the matter heard under any internal dispute resolution process of the insurer;
-·under section 181 of the Act apply to the Director Dispute Resolution for resolution of a dispute by an arbitrator;
 ·seek advice in relation to the dispute from WorkCover WA;
+·if reasonable attempts have been made to resolve the dispute by negotiation with the employer and the insurer, apply to the Director under section 182E of the Act for resolution of a dispute by conciliation;
 ·seek advice or assistance in relation to the dispute from your trade union organisation, a legal practitioner or a registered agent.
-[Form 3C inserted in Gazette 8 Mar 1991 p. 1075; amended in Gazette 5 Feb 1993 p. 1059; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4922-3.]
+[Form 3C inserted in Gazette 8 Mar 1991 p. 1075; amended in Gazette 5 Feb 1993 p. 1059; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4922-3; 18 Nov 2011 p. 4824.]
 Form 3D
 [r. 6E]
 Workers’ Compensation and Injury Management Act 1981
@@ -574,10 +579,10 @@ Signed on behalf of the uninsured or self-insured employer
 Date: ................................................................
 NOTE THAT if you wish you may —
 ·discuss this notice with the employer or, if the employer is self insured, apply to have the matter heard under any internal dispute resolution process of the employer;
-·under section 181 of the Act apply to the Director Dispute Resolution for resolution of a dispute by an arbitrator;
 ·seek advice in relation to the dispute from WorkCover WA;
+·if reasonable attempts have been made to resolve the dispute by negotiation with the employer, apply to the Director under section 182E of the Act for resolution of a dispute by conciliation;
 ·seek advice or assistance in relation to the dispute from your trade union organisation, a legal practitioner or a registered agent.
-[Form 3D inserted in Gazette 8 Mar 1991 p. 1075; amended in Gazette 5 Feb 1993 p. 1059; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4923-4.]
+[Form 3D inserted in Gazette 8 Mar 1991 p. 1075; amended in Gazette 5 Feb 1993 p. 1059; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4923-4; 18 Nov 2011 p. 4824.]
 Form 3E
 [r. 6F]
 Workers’ Compensation and Injury Management Act 1981
@@ -586,7 +591,7 @@ UNINSURED OR SELF-INSURED EMPLOYER’S NOTICE WHERE NO DECISION ABOUT LIABILITY
 To:
 1.
 [name and address of worker to whom the claim relates]
-2. Director Dispute Resolution
+2. Director
 From:
 [name and address of uninsured or self-insured employer]
 Claim number: .....................................
@@ -601,10 +606,10 @@ Where other particulars are required to help make a decision about liability, sp
 Signed on behalf of the uninsured or self-insured employer:
 Date: .................................................
 NOTE THAT if you wish you may —
-·under section 181 of the Act apply to the Director Dispute Resolution for resolution of a dispute by an arbitrator;
 ·seek advice in relation to the dispute from WorkCover WA;
+·if reasonable attempts have been made to resolve the dispute by negotiation with the employer, apply to the Director under section 182E of the Act for resolution of a dispute by conciliation;
 ·seek advice or assistance in relation to the dispute from your trade union organisation, a legal practitioner or a registered agent.
-[Form 3E inserted in Gazette 8 Mar 1991 p. 1075-6; amended in Gazette 5 Feb 1993 p. 1060; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4925-6.]
+[Form 3E inserted in Gazette 8 Mar 1991 p. 1075-6; amended in Gazette 5 Feb 1993 p. 1060; 18 Feb 1994 p. 662; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4925-6; 18 Nov 2011 p. 4824-5.]
 Form 4
 [r. 7(1)]
 Workers’ Compensation and Injury Management Act 1981
@@ -708,31 +713,7 @@ IF A WORKER RESIDES OUTSIDE THE STATE, PROOF OF THE
 WORKER’S IDENTITY AND CONTINUING INCAPACITY IS
 REQUIRED EVERY 3 MONTHS
 [Form 6 inserted in Gazette 24 Dec 1993 p. 6849; amended in Gazette 18 Feb 1994 p. 663; 24 Jun 1994 p. 2889; 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4926.]
-Form 7
-[r. 10A]
-Workers’ Compensation and Injury Management Act 1981
-(Sections 231(2)(b) and 241(2)(b))
-MEDICAL CERTIFICATE — INTERIM PAYMENT OF STATUTORY ENTITLEMENTS OR MINOR CLAIM
-1.Worker’s details
-First name(s):
-Surname:
-Address:
-Telephone: Date of birth: ......./......../
-Occupation:
-Date of injury:
-Description of injury:
-2.Employer’s details
-Name and address of worker’s employer:
-3.Statutory expenses claimed by worker
-4.Medical practitioner’s details
-Name:
-Registration No:
-Address:............................................................................................................
-........................................................................................................................
-It is my opinion that the statutory expenses set out in item 3 are expenses that have been incurred by the worker for treatment or services required in relation to the injury suffered by the worker.
-Signature of medical practitioner: ...................................................................................
-Date: ........./......./...........
-[Form 7 inserted in Gazette 28 Oct 2005 p. 4927-8.]
+[Form 7 deleted in Gazette 18 Nov 2011 p. 4825.]
 [Forms 8-11 deleted in Gazette 8 Mar 1991 p. 1076.]
 [Form 12 deleted in Gazette 18 Feb 1994 p. 663.]
 [Form 13 deleted in Gazette 28 Oct 2005 p. 4928.]
@@ -792,8 +773,8 @@ TAKE NOTICE
 4.If you have any doubts as to the effect of the agreement, or your rights to compensation generally you should contact me immediately.
 Dated this ................ day of ........................................ 20...............
 ...............................................................
-Director Dispute Resolution
-[Form 15A inserted in Gazette 18 Feb 1994 p. 663; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4929.]
+Director
+[Form 15A inserted in Gazette 18 Feb 1994 p. 663; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4929; 18 Nov 2011 p. 4825.]
 Form 15B
 [r. 12(5)]
 Workers’ Compensation and Injury Management Act 1981
@@ -807,14 +788,14 @@ The Agreement has been numbered ..................................
 You may, without fee, obtain a certificate of the memorandum and its recording.
 Dated this .............................. day of ....................................... 20.............
 ............................................................
-Director Dispute Resolution
-[Form 15B inserted in Gazette 18 Feb 1994 p. 664; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4929.]
+Director
+[Form 15B inserted in Gazette 18 Feb 1994 p. 664; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4929; 18 Nov 2011 p. 4825.]
 Form 15C
 [r. 12(1a)]
 Workers’ Compensation and Injury Management Act 1981
 MEMORANDUM OF AGREEMENT
 (Section 76 & 67(2))
-TO: the Director Dispute Resolution
+TO: the Director
 Perth, Western Australia
 In the matter of an Agreement made the day of (year)
 Between (Employer)
@@ -871,7 +852,7 @@ in the presence of:
 SIGNED by or on behalf of the employer:
 in the presence of-
 *Delete if not applicable.
-[Form 15C inserted in Gazette 15 Oct 1999 p. 4907-10; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4929-31.]
+[Form 15C inserted in Gazette 15 Oct 1999 p. 4907-10; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4929-31; 18 Nov 2011 p. 4825.]
 Form 15D
 [r. 12(3a)]
 Workers’ Compensation and Injury Management Act 1981
@@ -925,10 +906,10 @@ a party affected by such Memorandum, in the following particulars:
 a party interested in the Memorandum in the abovementioned matter, left (or sent to) me for registration objects to the same being recorded, on the following grounds:)
 (Here state grounds)
 The Memorandum will therefore not be recorded, except with the consent in writing of
-or by order of the Commissioner.
+or by order of the Registrar.
 Dated this day of , (year)
-Director Dispute Resolution
-[Form 15F inserted in Gazette 15 Oct 1999 p. 4911-12; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4932.]
+Director
+[Form 15F inserted in Gazette 15 Oct 1999 p. 4911-12; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4932; 18 Nov 2011 p. 4825.]
 Form 15G
 [r. 12AA]
 Workers’ Compensation and Injury Management Act 1981
@@ -1165,8 +1146,8 @@ Degree of disability as assessed by medical practitioner |  | Degree of disabili
 Tick if the worker and the employer cannot agree on whether the degree of disability is not less than the relevant level | r
 The action taken by or on behalf of the worker to obtain the employer’s agreement
 Signature of worker |  | Date | / /
-Lodging this form This form should be lodged with — Director Dispute Resolution WorkCover WA Perth, Western Australia You must also give to the Director medical evidence from a medical practitioner indicating that, in his or her opinion, your degree of disability is not less than the relevant level.
-[Form 22 inserted in Gazette 14 Dec 1999 p. 6153-4; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4934-5.]
+Lodging this form This form should be lodged with — Director WorkCover WA Perth, Western Australia You must also give to the Director medical evidence from a medical practitioner indicating that, in his or her opinion, your degree of disability is not less than the relevant level.
+[Form 22 inserted in Gazette 14 Dec 1999 p. 6153-4; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4934-5; 18 Nov 2011 p. 4825.]
 Form 22A
 [r. 19JA]
 Workers’ Compensation and Injury Management Act 1981
@@ -1205,8 +1186,8 @@ The following details must be completed regarding the medical evidence relied up
 Name of Medical Practitioner/s | Date of medical report/s
 Note: Under section 93EA(4)(c) of the Act, this form is to be accompanied by a copy of the medical evidence that complies with section 93D(6) of the Act, unless the worker satisfies the Director that the complying evidence has already been produced.
 Signature of worker | ________________________________ | Date | / /
-Lodging this form This form should be lodged with — Director Dispute Resolution WorkCover WA Perth, Western Australia
-[Form 22A inserted in Gazette 26 Oct 2004 p. 4902-5; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4935.]
+Lodging this form This form should be lodged with — Director WorkCover WA Perth, Western Australia
+[Form 22A inserted in Gazette 26 Oct 2004 p. 4902-5; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4935; 18 Nov 2011 p. 4825.]
 Form 22B
 [r. 19JB]
 Workers’ Compensation and Injury Management Act 1981
@@ -1245,8 +1226,8 @@ The following details must be completed regarding the medical evidence relied up
 Name of Medical Practitioner/s | Date of medical report/s
 Note: Under section 93EB(4)(c) of the Act, this form is to be accompanied by a copy of the medical evidence that complies with section 93D(6) of the Act, unless the worker satisfies the Director that the complying evidence has already been produced.
 Signature of worker |  | Date | / /
-Lodging this form This form should be lodged with — Director Dispute Resolution WorkCover WA Perth, Western Australia
-[Form 22B inserted in Gazette 26 Oct 2004 p. 4905-8; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4936.]
+Lodging this form This form should be lodged with — Director WorkCover WA Perth, Western Australia
+[Form 22B inserted in Gazette 26 Oct 2004 p. 4905-8; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4936; 18 Nov 2011 p. 4825.]
 Form 23
 [r. 19J(2), (3)]
 Workers’ Compensation and Injury Management Act 1981
@@ -1266,12 +1247,12 @@ Description of injury
 Date injury occurred
 Degree of disability as assessed by medical practitioner |  | Degree of disability
  | r r | not less than 30% not less than 16%
-Question referred The question of whether the worker’s degree of disability is or is not less than the relevant level has been referred to the Director Dispute Resolution, for consideration. Medical evidence Accompanying this notice is a copy of the medical evidence provided by the worker which indicates that in the opinion of the worker’s medical practitioner the worker’s degree of disability is not less than the relevant level. Objection If you (the employer) consider the worker’s degree of disability is less than the relevant level, you should complete the bottom section of this form and return it to the Director within 21 days of receiving this notice. If you do not notify the Director within 21 days you will be taken to have agreed that the worker’s degree of disability is not less than the relevant level
+Question referred The question of whether the worker’s degree of disability is or is not less than the relevant level has been referred to the Director, for consideration. Medical evidence Accompanying this notice is a copy of the medical evidence provided by the worker which indicates that in the opinion of the worker’s medical practitioner the worker’s degree of disability is not less than the relevant level. Objection If you (the employer) consider the worker’s degree of disability is less than the relevant level, you should complete the bottom section of this form and return it to the Director within 21 days of receiving this notice. If you do not notify the Director within 21 days you will be taken to have agreed that the worker’s degree of disability is not less than the relevant level
 Signature of Director |  | Date | / /
 Employer’s objection
 Employer’s assessment of degree of disability
 Signature of employer |  | Date | / /
-[Form 23 inserted in Gazette 14 Dec 1999 p. 6154-5; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4936-7.]
+[Form 23 inserted in Gazette 14 Dec 1999 p. 6154-5; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4936-7; 18 Nov 2011 p. 4825.]
 Form 23A
 [r. 19JA]
 Workers’ Compensation and Injury Management Act 1981
@@ -1292,7 +1273,7 @@ Description of injury
 Date injury occurred
 Degree of disability as assessed by medical practitioner |  | Degree of disability
  | r r | not less than 30% not less than 16%
-Question referred The question of whether the worker’s degree of disability is or is not less than the relevant level has been referred to the Director Dispute Resolution, for consideration under section 93D(5), due to the application of section 93EA(3). Medical evidence Accompanying this notice is a copy of the medical evidence produced by the worker that complies with section 93D(6) of the Act.
+Question referred The question of whether the worker’s degree of disability is or is not less than the relevant level has been referred to the Director, for consideration under section 93D(5), due to the application of section 93EA(3). Medical evidence Accompanying this notice is a copy of the medical evidence produced by the worker that complies with section 93D(6) of the Act.
 Director’s opinion In accordance with section 93EA(5)(a) and (b)(i) of the Act, it is my opinion that —
 (a) | evidence complying with section 93D(6) has been produced and in all other respects the referral is properly made; and | r
 (b) | the referral is accepted. | r
@@ -1311,7 +1292,7 @@ Signature of Director |  | Date | / /
 Employer’s objection
 Employer’s assessment of degree of disability
 Signature of employer |  | Date | / /
-[Form 23A inserted in Gazette 26 Oct 2004 p. 4908-10; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4937-8; 9 Dec 2005 p. 5897.]
+[Form 23A inserted in Gazette 26 Oct 2004 p. 4908-10; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4937-8; 9 Dec 2005 p. 5897; 18 Nov 2011 p. 4825.]
 Form 23B
 [r. 19JB]
 Workers’ Compensation and Injury Management Act 1981
@@ -1332,7 +1313,7 @@ Description of injury
 Date injury occurred
 Degree of disability as assessed by medical practitioner |  | Degree of disability
  | r r | not less than 30% not less than 16%
-Question referred The question of whether the worker’s degree of disability is or is not less than the relevant level has been referred to the Director Dispute Resolution, for consideration under section 93D(5), due to the application of section 93EB(3). Medical evidence Accompanying this notice is a copy of the medical evidence produced by the worker that complies with section 93D(6) of the Act.
+Question referred The question of whether the worker’s degree of disability is or is not less than the relevant level has been referred to the Director, for consideration under section 93D(5), due to the application of section 93EB(3). Medical evidence Accompanying this notice is a copy of the medical evidence produced by the worker that complies with section 93D(6) of the Act.
 Director’s opinion In accordance with section 93EB(5)(a) and (b)(i) of the Act, it is my opinion that —
 (a) | evidence complying with section 93D(6) has been produced and in all other respects the referral is properly made; and | r
 (b) | the referral is accepted. | r
@@ -1351,7 +1332,7 @@ Signature of Director |  | Date | / /
 Employer’s objection
 Employer’s assessment of degree of disability
 Signature of employer |  | Date | / /
-[Form 23B inserted in Gazette 26 Oct 2004 p. 4911-13; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4937-8; 9 Dec 2005 p. 5897.]
+[Form 23B inserted in Gazette 26 Oct 2004 p. 4911-13; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4937-8; 9 Dec 2005 p. 5897; 18 Nov 2011 p. 4825.]
 Form 24
 [r. 19K(1), (2)]
 Workers’ Compensation and Injury Management Act 1981
@@ -1457,12 +1438,12 @@ Extension of time sought
 The application for extension of time is made under — r regulation 19N(2)(a) OR r regulation 19N(2)(c)
 Extension sought until
 Signature of Worker |  | Date | / /
-Lodging this form This form should be lodged with — Director Dispute Resolution WorkCover WA Perth, Western Australia If applying under regulation 19N(2)(a) you must also give to the Director medical evidence from a medical practitioner who is a specialist in a relevant field of medicine indicating that you will require major surgery in the extension period (see regulation 19N(1)). If applying under regulation 19N(2)(c) you must give the Director evidence of the medical panel’s determination.
+Lodging this form This form should be lodged with — Director WorkCover WA Perth, Western Australia If applying under regulation 19N(2)(a) you must also give to the Director medical evidence from a medical practitioner who is a specialist in a relevant field of medicine indicating that you will require major surgery in the extension period (see regulation 19N(1)). If applying under regulation 19N(2)(c) you must give the Director evidence of the medical panel’s determination.
 Granting of extension
 An extension of time to make an election under section 93E(3)(b) of the Act — ris granted until / / OR ris not granted
 The extension of time is granted under — r regulation 19N(2)(a) OR r regulation 19N(2)(c)
 Signature of Director |  | Date | / /
-[Form 26 inserted in Gazette 14 Dec 1999 p. 6159-61; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4938-9.]
+[Form 26 inserted in Gazette 14 Dec 1999 p. 6159-61; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4938-9; 18 Nov 2011 p. 4825.]
 Form 27
 [r. 19N(4)(a)]
 Workers’ Compensation and Injury Management Act 1981
@@ -1496,11 +1477,11 @@ State grounds on which the worker submits that he or she will require major surg
 State the action that has been taken by or on behalf of the worker to obtain medical evidence from a medical practitioner who is a specialist in a relevant field of medicine that the worker will require major surgery in respect of the injury in the extension period
 (attach separate sheet if insufficient room)
 Signature of Worker |  | Date | / /
-Lodging this form This form should be lodged with — Director Dispute Resolution WorkCover WA Perth, Western Australia You must also give to the Director any further evidence that the Director may request in relation to this application.
+Lodging this form This form should be lodged with — Director WorkCover WA Perth, Western Australia You must also give to the Director any further evidence that the Director may request in relation to this application.
 Granting of extension
 An extension of time to make an election under section 93E(3)(b) of the Act — ris granted until / / OR ris not granted
 Signature of Director |  | Date | / /
-[Form 27 inserted in Gazette 14 Dec 1999 p. 6161-3; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4939.]
+[Form 27 inserted in Gazette 14 Dec 1999 p. 6161-3; amended in Gazette 17 Nov 2000 p. 6321; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4939; 18 Nov 2011 p. 4825.]
 Form 28
 [r. 19N(3a)(a)]
 Workers’ Compensation and Injury Management Act 1981
@@ -1532,11 +1513,11 @@ Extension of time sought
 Extension sought until
 The extension is needed to give sufficient time for the preparation of a specialist’s report, based on treatment or medical investigation of the worker, as to whether the worker will require major surgery in respect of the injury in the extension period (see regulation 19N(1)). The treatment or medical investigation is (describe below):
 Signature of Worker |  | Date | / /
-Lodging this form This form should be lodged with — Director Dispute Resolution WorkCover WA Perth, Western Australia You must also give to the Director medical evidence from a specialist in a relevant field of medicine indicating that a report could not be satisfactorily prepared without the treatment or investigation having been carried out, and that the extension sought is needed to give sufficient time for the preparation of the report
+Lodging this form This form should be lodged with — Director WorkCover WA Perth, Western Australia You must also give to the Director medical evidence from a specialist in a relevant field of medicine indicating that a report could not be satisfactorily prepared without the treatment or investigation having been carried out, and that the extension sought is needed to give sufficient time for the preparation of the report
 Granting of extension
 An extension of time to make an election under section 93E(3)(b) of the Act — ris granted until / / OR ris not granted
 Signature of Director |  | Date | / /
-[Form 28 inserted in Gazette 17 Nov 2000 p. 6317-19; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4939.]
+[Form 28 inserted in Gazette 17 Nov 2000 p. 6317-19; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4939; 18 Nov 2011 p. 4825.]
 Form 29
 [r. 16A(1)]
 Workers’ Compensation and Injury Management Act 1981
@@ -1556,8 +1537,8 @@ If an election is not made within 30 days of receiving this notification, and re
 The Director may refuse to register the election if not satisfied that you have been independently advised of the financial consequences of the election.
 Dated this ..................... day of ................ 20.........
 .............................................................................
-Director Dispute Resolution Directorate
-[Form 29 inserted in Gazette 28 Oct 2005 p. 4939-40.]
+Director
+[Form 29 inserted in Gazette 28 Oct 2005 p. 4939-40; amended in Gazette 18 Nov 2011 p. 4825.]
 Form 30
 [r. 16A(2)]
 Workers’ Compensation and Injury Management Act 1981
@@ -1630,7 +1611,7 @@ Attach a copy of any such request.
 Signature of worker |  | Date | / /
 How to lodge this form
 1. This form should be lodged with:
- | Director, Dispute Resolution Directorate WorkCover WA Perth, WA
+ | Director WorkCover WA Perth, WA
 2.WHEN LODGING THIS FORM ALSO PROVIDE ANYTHING ELSE THAT REGULATION 17AD REQUIRES YOU TO PROVIDE.
 Extension given or refused
 The final day
@@ -1644,7 +1625,7 @@ employer |  | Date | / /
  | (signature of person sending copy)
 Note
 Section 93E(14) of the Workers’ Compensation and Injury Management Act 1981 provides that if a further additional sum has been allowed to a worker under Schedule 1 clause 18A(1b) of that Act in relation to an injury that is compensable under the Act, damages are not to be awarded in respect of the injury.
-[Form 31 inserted in Gazette 28 Oct 2005 p. 4942-4.]
+[Form 31 inserted in Gazette 28 Oct 2005 p. 4942-4; amended in Gazette 18 Nov 2011 p. 4825.]
 Form 32
 [r. 20]
 Workers’ Compensation and Injury Management Act 1981
@@ -1845,7 +1826,7 @@ Extension sought
 Signature of worker | ________________________________ | Date | / /
 How to lodge this form
 1.This form should be lodged with:
- | Director Dispute Resolution WorkCover WA Perth, WA
+ | Director WorkCover WA Perth, WA
 2.WHEN LODGING THIS FORM ALSO PROVIDE ANYTHING ELSE THAT REGULATION 23 REQUIRES YOU TO PROVIDE.
 Extension given or refused
 The termination day
@@ -1857,7 +1838,7 @@ worker |  | Date | / /
  | (signature of person sending copy)
 employer |  | Date | / /
  | (signature of person sending copy)
-[Form 35 inserted in Gazette 28 Oct 2005 p. 4951-3.]
+[Form 35 inserted in Gazette 28 Oct 2005 p. 4951-3; amended in Gazette 18 Nov 2011 p. 4825.]
 Form 36
 [r. 25]
 Workers’ Compensation and Injury Management Act 1981
@@ -1871,7 +1852,7 @@ Date of injury (insert date)
 Date when claim for compensation made on employer: (insert date)
 IMPORTANT INFORMATION
 Section 93O of the Workers’ Compensation and Injury Management Act 1981 entitles you to notice of certain things that may affect the damages you could recover in court.
-If your cause of action arises on or after 14 November 2005, a court will not be able to award damages for your injury if you do not elect under section 93K of the Act to retain the right to seek damages and have the election registered by WorkCover’s Director Dispute Resolution.
+If your cause of action arises on or after 14 November 2005, a court will not be able to award damages for your injury if you do not elect under section 93K of the Act to retain the right to seek damages and have the election registered by WorkCover’s Director.
 On the other hand, registering your election may affect your entitlement to statutory compensation. You should seek advice on whether or not to make an election.
 One rule about electing is that, if you claim compensation by way of weekly payments because of your injury, you cannot elect after the termination day (there are exceptions to this rule for AIDS and specified industrial diseases).
 Your termination day for this injury is .............. (specify date), which is about 6 months away.
@@ -1886,7 +1867,7 @@ Postcode
 Telephone no. |  | WorkCover number (WCN)
 Contact person
 Title |  | Telephone no.
-[Form 36 inserted in Gazette 28 Oct 2005 p. 4953-4.]
+[Form 36 inserted in Gazette 28 Oct 2005 p. 4953-4; amended in Gazette 18 Nov 2011 p. 4825.]
 Form 37
 [r. 47(4)(a)]
 Workers’ Compensation and Injury Management Act 1981
@@ -2016,7 +1997,7 @@ Extension sought
 Signature of worker |  | Date | / /
 How to lodge this form
 1.This form should be lodged with:
- | Director Dispute Resolution WorkCover WA Perth, WA
+ | Director WorkCover WA Perth, WA
 2.WHEN LODGING THIS FORM ALSO PROVIDE ANYTHING ELSE THAT REGULATION 48 REQUIRES YOU TO PROVIDE.
 Extension given or refused
 The final day
@@ -2028,7 +2009,7 @@ worker |  | Date | / /
  | (signature of person sending copy)
 employer |  | Date | / /
  | (signature of person sending copy)
-[Form 39 inserted in Gazette 28 Oct 2005 p. 4959-61.]
+[Form 39 inserted in Gazette 28 Oct 2005 p. 4959-61; amended in Gazette 18 Nov 2011 p. 4825.]
 Form 40
 [r. 52]
 Workers’ Compensation and Injury Management Act 1981

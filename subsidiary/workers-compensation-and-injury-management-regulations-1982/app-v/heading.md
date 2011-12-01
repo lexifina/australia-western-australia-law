@@ -2,11 +2,15 @@
 [r. 50, 51]
 [Heading inserted in Gazette 28 Oct 2005 p. 4970.]
 Item | Section of Act | Description of offence | Modified penalty
+1A. | 57A(2A) | Failing to claim under policy of insurance | $200.00
 1. | 57A(3) | Failing to provide notice | $200.00
 2. | 57A(4) | Failing to cause notification to be accompanied by means for conveying information in machine-readable form | $200.00
+3A. | 57A(8A) | Failing to make weekly payment | $400.00
+3B. | 57A(8) | Failing to make weekly payment having received payment from insurer | $400.00
 3. | 57B(2) | Failing to make first weekly payment or give notice | $200.00
 4. | 57B(2b) | Failing to notify WorkCover WA of having declined to indemnify employer | $200.00
 5. | 57B(3) | Failing to cause notification to be accompanied by means for conveying information in machine-readable form | $200.00
+6A. | 57B(8) | Failing to make weekly payment | $400.00
 6. | 57C(2) | Failing to notify WorkCover WA after weekly payments commenced | $200.00
 7. | 57C(4) | Failing to notify WorkCover WA of discontinuance of weekly payments | $200.00
 8. | 61(2a)(a) | Failing to give notice of intention to discontinue or reduce weekly payments | $400.00
@@ -26,4 +30,4 @@ Item | Section of Act | Description of offence | Modified penalty
 22. | 165(5) | Failing to give securities to State as directed by Minister | $200.00
 23. | 171(1) | Failing to transmit to WorkCover WA statements and means for conveying information in machine-readable form | $200.00
 24. | 180(5) | Failing to comply with request to provide copy of relevant document | $200.00
-[Appendix V inserted in Gazette 28 Oct 2005 p. 4970-2.]
+[Appendix V inserted in Gazette 28 Oct 2005 p. 4970-2; amended in Gazette 18 Nov 2011 p. 4826.]
