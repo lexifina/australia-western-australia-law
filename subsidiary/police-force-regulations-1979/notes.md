@@ -61,6 +61,7 @@ Police Force Amendment Regulations (No. 2) 2010 | 16 Jul 2010 p. 3366-8 | r. 1 a
 Reprint 5: The Police Force Regulations 1979 as at 17 Sep 2010 (includes amendments listed above)
 Police Force Amendment Regulations (No. 2) 2011 | 8 Jul 2011 p. 2898-9 | r. 1 and 2: 8 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jul 2011 (see r. 2(b))
 Police Force Amendment Regulations (No. 3) 2011 | 15 Jul 2011 p. 2954 | r. 1 and 2: 15 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jul 2011 (see r. 2(b))
+Police Force Amendment Regulations 2011 | 2 Dec 2011 p. 5071-2 | r. 1 and 2: 2 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2011 (see r. 2(b))
 Repealed by the Medical Practitioners Act 2008.
 Formerly referred to the Commissioner of Public Health, the name of which was changed to the Commissioner of Health by the Health Legislation Amendment Act 1984. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Now known as the Police Force Regulations 1979, citation changed (see note under r. 101).
