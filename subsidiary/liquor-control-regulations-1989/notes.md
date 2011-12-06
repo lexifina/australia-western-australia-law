@@ -98,6 +98,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Liquor Control Amendment Regulations (No. 9) 2011 r. 3-5 | 4 Nov 2011 p. 4640-4 | 1 Jan 2012 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 11) 2011 r. 3 and 4 | 6 Dec 2011 p. 5132 | 1 Jan 2012 (see r. 2(b) and Gazette 4 Nov 2011 p. 4640-4)
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
 Repealed by the Aged Care Amendment Act 2011 (Cwlth).
@@ -200,6 +201,12 @@ Item | Description | Fee $
 33. | For a search of postcodes —
  | (a)1 to 10 postcodes | 35
  | (b)more than 10 postcodes | 75
+On the date as at which this compilation was prepared, the Liquor Control Amendment Regulations (No. 11) 2011 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Liquor Control Regulations 1989.
+4.Schedule 3 amended
+In Schedule 3 after item 19B insert:
+19C. | Application under section 152W(3), other than by an occupier of premises, for a liquor restriction declaration in relation to the premises ....................... | 250.00
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
