@@ -1,6 +1,6 @@
 ## Schedule 6 — Fees
-[r. 33 and 34]
-[Heading inserted in Gazette 30 Jun 2011 p. 2708.]
+[r. 33, 34A, 34B and 34]
+[Heading inserted in Gazette 30 Jun 2011 p. 2708; amended in Gazette 6 Dec 2011 p. 5190.]
 ## Part 1 — Abattoir fees
 [Heading inserted in Gazette 30 Jun 2011 p. 2708.]
 1.Application for approval to operate —
@@ -14,6 +14,18 @@
 5.Any other notification under regulation 23 ……… | $51.50
 6.Application for variation of approval of conditions . | $51.50
 [Part 1 inserted in Gazette 30 Jun 2011 p. 2708.]
+## Part 2A — Fees for stock agent approvals and renewals
+[Heading inserted in Gazette 6 Dec 2011 p. 5190.]
+1.Application for approval to act as stock agent ......... | $200
+2.Annual fee for renewal of approval to act as stock agent ......................................................................... | $200
+3.Late application fee for renewal of approval to act as stock agent ............................................................ | $20
+4.Application for approval to act as stock agent, where duration of approval less than one month ...... | $15
+[Part 2A inserted in Gazette 6 Dec 2011 p. 5190.]
+## Part 2B — Muchea Livestock Centre: parking permit fees
+[Heading inserted in Gazette 6 Dec 2011 p. 5190.]
+1.Monthly fee for parking permit for heavy vehicle ... | $275
+2.Annual fee for parking permit for any other type of motor vehicle ............................................................ | $200
+[Part 2B inserted in Gazette 6 Dec 2011 p. 5190.]
 ## Part 2 — Muchea Livestock Centre: yard fees
 [Heading inserted in Gazette 30 Jun 2011 p. 2709.]
 Animal | Fee per head
