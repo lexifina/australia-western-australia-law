@@ -26,6 +26,7 @@ Reprint 3: The Land Administration Regulations 1998 as at 28 Aug 2009 (includes 
 Land Administration Amendment Regulations (No. 3) 2009 | 18 Sep 2009 p. 3619-22 | r. 1 and 2: 18 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2009 (see r. 2(b))
 Land Administration Amendment Regulations (No. 2) 2009 | 24 Dec 2009 p. 5297-8 | r. 4: 1 Jul 2009 (see r. 2(c)); r. 1 and 2: 24 Dec 2009 (see r. 2(a)); r. 3: 25 Dec 2009 (see r. 2(b))
 Public Sector Reform (Consequential Amendments) Regulations 2011 r. 20 | 11 Feb 2011 p. 502-7 | 12 Feb 2011 (see r. 2(d))
+Land Administration Amendment Regulations 2011 | 6 Dec 2011 p. 5130-1 | r. 1 and 2: 6 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Dec 2011 (see r. 2(b))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 Published again in Gazette 19 Nov 2004 p. 5081 but amendment of 19 Nov 2004 has no effect.
 Defined Terms
