@@ -49,12 +49,12 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Approvals and Related Reforms (No. 1) (Environment) Act 2010 | 40 of 2010 | 28 Oct 2010 | Pt. 1 other than s. 3: 28 Oct 2010 (see s. 2(a)); Act other than Pt. 1 heading, s. 1 and 2: 26 Nov 2010 (see s. 2(b) and Gazette 23 Nov 2010 p. 5851)
 Environmental Protection Amendment Act 2010 | 48 of 2010 | 24 Nov 2010 | s. 1 and 2: 24 Nov 2010 (see s. 2(a)); Act other than s. 1 and 2: 25 Nov 2010 (see s. 2(b))
 Reprint 7: The Environmental Protection Act 1986 as at 11 Feb 2011 (includes amendments listed above)
+Agricultural Practices (Disputes) Repeal Act 2011 s. 4 | 54 of 2011 | 9 Nov 2011 | 7 Dec 2011 (see note under s. 1)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(3)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Metropolitan Redevelopment Authority Act 2011 s. 137 | 45 of 2011 | 12 Oct 2011 | To be proclaimed (see s. 2(b))
-Agricultural Practices (Disputes) Repeal Act 2011 s. 4 | 54 of 2011 | 9 Nov 2011 | 7 Dec 2011 (see note under s. 1)
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -143,15 +143,6 @@ or
 Act; or
 (c) after paragraph (f) insert:
 (g)prepared under the Metropolitan Redevelopment Authority Act 2011, means a procedure referred to in sections 43 and 44 of that Act, or in section 49 of that Act as read with those sections.
-On the date as at which this compilation was prepared, the Agricultural Practices (Disputes) Repeal Act 2011 s. 4 had not come into operation. It reads as follows:
-4.Environmental Protection Act 1986 amended
-(1) This section amends the Environmental Protection Act 1986.
-(2) Delete section 74B(2)(c) and (d) and insert:
-(c) an act of a kind that the chief executive officer of the department of the Public Service principally assisting in the administration of the Biosecurity and Agriculture Management Act 2007 has specified, by order published in the Gazette, to be a normal agricultural activity for the purposes of this paragraph; or
-(d) an agricultural activity (including the management or harvesting of a plantation) done in compliance with a code of practice relating to an activity of that kind —
-(i) issued under section 122A; or
-(ii) made or approved under any other written law;
-or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
