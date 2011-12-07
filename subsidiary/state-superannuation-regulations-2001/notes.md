@@ -43,6 +43,7 @@ Public Sector Reform (Consequential Amendments) Regulations 2011 Pt. 8 | 11 Feb 
 State Superannuation Amendment Regulations 2011 | 10 May 2011 p. 1668-9 | r. 1 and 2: 10 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 11 May 2011 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 2) 2011 | 8 Jul 2011 p. 2899-2901 | r. 1 and 2: 8 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jul 2011 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 3) 2011 | 22 Jul 2011 p. 3028-9 | r. 1 and 2: 22 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jul 2011 (see r. 2(b))
+State Superannuation Amendment Regulations (No. 4) 2011 | 6 Dec 2011 p. 5133-4 | r. 1 and 2: 6 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Dec 2011 (see r. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. Part 9 of these regulations were amending regulations under that subsection. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed in the Acts database of the Statutes of Western Australia.
 Formerly referred to the Water Services Coordination Act 1995 the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Nurses and Midwives Act 2006.
@@ -64,6 +65,7 @@ is taken to have become a statutory Member when he or she ceased to be so exclud
 The State Superannuation Amendment Regulations (No. 4) 2008 had not come into operation when it was deleted by the State Superannuation Amendment Regulations 2009 Pt. 3.
 The State Superannuation Amendment Regulations 2006 r. 20(2) reads as follows:
 (2) If a preserved benefit of less than $200 has not been paid because of the operation of regulation 76(4) (as in force before this regulation came into operation), the benefit ceases to be a preserved benefit when this regulation comes into operation even if, at that time, the benefit plus interest on it, is or exceeds $200.
+The Metropolitan Redevelopment Authority Act 2011 s. 134(b) repeals the East Perth Redevelopment Act 1991, s. 134(c) repeals the Midland Redevelopment Act 1999 and s. 134(d) repeals the Subiaco Redevelopment Act 1994.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
