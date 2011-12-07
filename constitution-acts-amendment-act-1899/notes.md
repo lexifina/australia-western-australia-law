@@ -263,6 +263,7 @@ Reprint 17: The Constitution Acts Amendment Act 1899 as at 11 Feb 2011 (includes
 Building Services (Complaint Resolution and Administration) Act 2011 s. 127 | 16 of 2011 | 25 May 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475)
 Building Services (Registration) Act 2011 | 19 of 2011 | 22 Jun 2011 | s. 155 (except to the extent that it deletes the item relating to The Municipal Building Surveyors Examination Committee): 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 4 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Agricultural Practices (Disputes) Repeal Act 2011 s. 3 | 54 of 2011 | 9 Nov 2011 | 7 Dec 2011 (see note under s. 1)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -274,12 +275,11 @@ Building Services (Registration) Act 2011 s. 155(2) (the item relating to The Mu
 Building Act 2011 s. 160 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
 Curriculum Council Amendment Act 2011 Pt. 3 Div. 1 | 37 of 2011 | 13 Sep 2011 | To be proclaimed (see s. 2(b))
 Metropolitan Redevelopment Authority Act 2011 s. 136 | 45 of 2011 | 12 Oct 2011 | To be proclaimed (see s. 2(b))
-Agricultural Practices (Disputes) Repeal Act 2011 s. 3 | 54 of 2011 | 9 Nov 2011 | 7 Dec 2011 (see note under s. 1)
 Electoral and Constitution Amendment Act 2011 Pt. 3 | 49 of 2011 | 11 Nov 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
-Established by the Agricultural Practices (Disputes) Act 1995.
+Footnote no longer applicable.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 had not come into operation. It reads as follows:
 22.Constitution Acts Amendment Act 1899 amended
@@ -412,10 +412,7 @@ The Subiaco Redevelopment Authority established by the Subiaco Redevelopment Act
 (3) In Schedule V Part 3 before the item for The Mines Occupational Safety and Health Advisory Board insert:
 The board of management of the Metropolitan Redevelopment Authority established under the Metropolitan Redevelopment Authority Act 2011.
 Any land redevelopment committee established under the Metropolitan Redevelopment Authority Act 2011.
-On the date as at which this compilation was prepared, the Agricultural Practices (Disputes) Repeal Act 2011 s. 3 had not come into operation. It reads as follows:
-3.Constitution Acts Amendment Act 1899 amended
-(1) This section amends the Constitution Acts Amendment Act 1899.
-(2) In Schedule V Part 3 delete the item for the Agricultural Practices Board of Western Australia.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Electoral and Constitution Amendment Act 2011 Pt. 3 had not come into operation. It reads as follows:
 Part 3 — Constitution Acts Amendment Act 1899 amended
 11.Act amended

@@ -1,6 +1,5 @@
 ## Schedule 1 — Statutory authorities
 [s. 3 and 6]
-Agricultural Practices Board of Western Australia
 Agricultural Produce Commission
 Animal Resources Authority
 Armadale Redevelopment Authority
@@ -102,4 +101,4 @@ Western Australian Treasury Corporation
 Wheatbelt Development Commission
 WorkCover Western Australia Authority
 Zoological Parks Authority
-[Schedule 1 amended by No. 77 of 2006 s. 17; No. 10 of 2007 s. 43; No. 24 of 2007 s. 36; No. 38 of 2007 s. 195; No. 28 of 2008 s. 13; No. 16 of 2009 s. 69; No. 33 of 2010 s. 56; amended in Gazette 13 Jul 2007 p. 3454; 4 Jan 2008 p. 29; 8 Feb 2008 p. 323; 20 Aug 2010 p. 4072.]
+[Schedule 1 amended by No. 77 of 2006 s. 17; No. 10 of 2007 s. 43; No. 24 of 2007 s. 36; No. 38 of 2007 s. 195; No. 28 of 2008 s. 13; No. 16 of 2009 s. 69; No. 33 of 2010 s. 56; No. 54 of 2011 s. 5; amended in Gazette 13 Jul 2007 p. 3454; 4 Jan 2008 p. 29; 8 Feb 2008 p. 323; 20 Aug 2010 p. 4072.]
