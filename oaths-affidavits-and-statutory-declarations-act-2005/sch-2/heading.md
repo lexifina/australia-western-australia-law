@@ -2,7 +2,7 @@
 [s. 12(6)(a)]
 Item | Formal description | Informal description
 1. | A member of the academic staff of an institution established under any of the following Acts — •Curtin University of Technology Act 1966; •Edith Cowan University Act 1984; •Murdoch University Act 1973; •University of Notre Dame Australia Act 1989; •University of Western Australia Act 1911; •Vocational Education and Training Act 1996. | Academic (post-secondary institution)
-2. | A member of any of the following bodies — •Association of Taxation and Management Accountants (ACN 002 876 208); •CPA Australia (ACN 008 392 452); •The Institute of Chartered Accountants in Australia (ARBN 084 642 571); •National Institute of Accountants (ACN 004 130 643); •National Tax & Accountants’ Association Limited (ACN 057 551 854). | Accountant
+2. | A member of any of the following bodies — •Association of Taxation and Management Accountants (ACN 002 876 208); •CPA Australia (ACN 008 392 452); •The Institute of Chartered Accountants in Australia (ARBN 084 642 571); •Institute of Public Accountants (ACN 004 130 643); •National Tax & Accountants’ Association Limited (ACN 057 551 854). | Accountant
 3. | A person who is registered under the Architects Act 2004. | Architect
 4. | An Australian Consular Officer within the meaning of the Consular Fees Act 1955 of the Commonwealth. | Australian Consular Officer
 5. | An Australian Diplomatic Officer within the meaning of the Consular Fees Act 1955 of the Commonwealth. | Australian Diplomatic Officer
@@ -47,4 +47,4 @@ Item | Formal description | Informal description
 42. | A person employed as a member of the teaching staff within the meaning of the School Education Act 1999 or as a teacher of a non-government school within the meaning of that Act. | Teacher
 43. | A member, registrar or clerk, or the chief executive officer, of any tribunal of the State or the Commonwealth. | Tribunal officer
 44. | A registered veterinary surgeon within the meaning of the Veterinary Surgeons Act 1960. | Veterinary surgeon
-[Schedule 2 amended in Gazette 9 Jun 2006 p. 2030; 21 Dec 2007 p. 6328; amended by No. 21 of 2008 s. 684(5); No. 22 of 2008 s. 162; No. 35 of 2010 s. 120.]
+[Schedule 2 amended in Gazette 9 Jun 2006 p. 2030; 21 Dec 2007 p. 6328; 9 Dec 2011 p. 5235; amended by No. 21 of 2008 s. 684(5); No. 22 of 2008 s. 162; No. 35 of 2010 s. 120.]
