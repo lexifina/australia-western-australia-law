@@ -13,4 +13,16 @@ Public Transport Authority Act 2003 s. 157 and 203 | 31 of 2003 | 26 May 2003 | 
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
  | Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Residential Tenancies Amendment Act 2011 Pt. 5 Div. 1 | 60 of 2011 | 14 Dec 2011 | To be proclaimed (see s. 2(b))
 N.B.This Act is affected by the Unclaimed Money Act 1990 (No. 31 of 1990).
+On the date as at which this compilation was prepared, the Residential Tenancies Amendment Act 2011 Pt. 5 Div. 1 had not come into operation. It reads as follows:
+Part 5 — Amendments to other Acts
+Division 1 — Disposal of Uncollected Goods Act 1970 amended
+97.Act amended
+This Division amends the Disposal of Uncollected Goods Act 1970.
+98.Schedule amended
+In the Schedule delete “Section 79 of the Residential Tenancies Act 1987.” and insert
+Residential Tenancies Act 1987 sections 79 and 80A.
