@@ -26,6 +26,10 @@ Revenue Laws Amendment (Assessment) Act 2007 Pt. 2 | 13 of 2007 | 29 Jun 2007 | 
 Revenue Laws Amendment Act 2008 Pt. 6 | 30 of 2008 | 27 Jun 2008 | 1 Jul 2008 (see s. 2(1)(c)(i))
 Revenue Laws Amendment Act (No. 2) 2008 s. 35 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 Reprint 3: The Rates and Charges (Rebates and Deferments) Act 1992 as at 7 Nov 2008 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Residential Tenancies Amendment Act 2011 Pt. 5 Div. 4 | 60 of 2011 | 14 Dec 2011 | To be proclaimed (see s. 2(b))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.
 Repealed by s. 51(1) of this Act.
@@ -59,6 +63,17 @@ The Rates and Charges (Rebates and Deferments) Amendment Act 2005 s. 16 reads as
 16.Transitional
 If an eligible person who holds a relevant interest in land of a kind referred to in section 29A or 29B of the Rates and Charges (Rebates and Deferments) Act 1992 registers an entitlement in respect of land under section 32 of that Act after 30 June 2005 and before 1 October 2005, section 40 of that Act applies to that person as if the entitlement had been registered at the commencement of the charged period.
 ”.
+On the date as at which this compilation was prepared, the Residential Tenancies Amendment Act 2011 Pt. 5 Div. 4 had not come into operation. It reads as follows:
+Part 5 — Amendments to other Acts
+Division 4 — Rates and Charges (Rebates and Deferments) Act 1992 amended
+103.Act amended
+This Division amends the Rates and Charges (Rebates and Deferments) Act 1992.
+104.Section 29B amended
+(1) In section 29B(1) delete the definition of owner.
+(2) In section 29B(1) insert in alphabetical order:
+lessor, in relation to land, has the meaning given in the Residential Tenancies Act 1987 section 3;
+(3) In section 29B(3) delete “the owner” and insert:
+the lessor
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
