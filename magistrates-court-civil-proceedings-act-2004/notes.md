@@ -8,3 +8,15 @@ Acts Amendment (Justice) Act 2008 Pt. 16 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008
 Legal Profession Act 2008 s. 678 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Building Services (Complaint Resolution and Administration) Act 2011 s. 129 | 16 of 2011 | 25 May 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Residential Tenancies Amendment Act 2011 Pt. 5 Div. 3 | 60 of 2011 | 14 Dec 2011 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Residential Tenancies Amendment Act 2011 Pt. 5 Div. 3 had not come into operation. It reads as follows:
+Part 5 — Amendments to other Acts
+Division 3 — Magistrates Court (Civil Proceedings) Act 2004 amended
+101.Act amended
+This Division amends the Magistrates Court (Civil Proceedings) Act 2004.
+102.Section 7 amended
+In section 7(1) in the definition of trader delete “an owner” and insert
+a lessor
