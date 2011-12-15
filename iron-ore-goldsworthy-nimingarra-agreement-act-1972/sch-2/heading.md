@@ -37,4 +37,4 @@ MICHAEL APPLEBEE Secretary
 THE COMMON SEAL of MITSUI IRON ORE CORPORATION PTY. LTD. was hereunto affixed by authority of the Directors in the presence of: |  | [C.S.]
 YOICHI HASHIMOTO Director
 JOHN SMITH Secretary
-[Schedule 2 inserted by No. 57 of 2000 s. 7.]
+[Schedule 2 inserted: No. 57 of 2000 s. 7.]

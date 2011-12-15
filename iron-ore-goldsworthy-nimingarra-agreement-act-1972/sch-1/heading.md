@@ -1,5 +1,5 @@
 ## Schedule 1 — Agreement
-[Heading inserted by No. 57 of 2000 s. 6.]
+[Heading inserted: No. 57 of 2000 s. 6.]
 s. 2.
 THIS AGREEMENT made this 12th day of April One thousand nine hundred and seventy-two BETWEEN THE HONOURABLE JOHN TREZISE TONKIN, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and Instrumentalities thereof from time to time (hereinafter called “the State”) of the one part and CONSOLIDATED GOLD FIELDS AUSTRALIA LIMITED a company incorporated under the Companies Ordinances of the Australian Capital Territory and having its executive office at Gold Fields House Sydney Cove in the State of New South Wales and its registered office in the State of Western Australia (hereinafter referred to as “the said State”) at 156 Saint George’s Terrace Perth CYPRUS MINES CORPORATION a corporation incorporated in the State of New York in the United States of America and having its executive offices situate at 1234 Pacific Mutual Building 523 West Sixth Street Los Angeles California in the United States of America and UTAH DEVELOPMENT COMPANY a corporation incorporated under the laws of the State of Nevada in the United States of America with its executive offices situate at 550 California Street San Francisco in the said United States of America and having its registered office in the State of Queensland at Pearl Assurance House at the corner of Queen and Eagle Streets Brisbane (hereinafter called “the Joint Venturers” in which term shall be included the Joint Venturers and each of them and their and each of their respective successors and assigns) of the other part.
 WHEREAS —
@@ -392,4 +392,4 @@ SIGNED SEALED AND DELIVERED for and on behalf of CYPRUS MINES CORPORATION by its
 D. E. MOORE
 SIGNED SEALED AND DELIVERED for and on behalf of UTAH DEVELOPMENT COMPANY by its duly authorised agent in the presence of — |  | B. C. RYAN
 D. E. MOORE
-[Schedule 1 amended by No. 57 of 2000 s. 6.]
+[Schedule 1 amended: No. 57 of 2000 s. 6.]
