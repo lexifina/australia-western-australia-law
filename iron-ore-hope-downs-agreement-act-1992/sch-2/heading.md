@@ -1,6 +1,6 @@
 ## Schedule 2 — First Variation Agreement
 [s. 3]
-[Heading inserted by No. 61 of 2010 s. 20.]
+[Heading inserted: No. 61 of 2010 s. 20.]
 2010
 THE HONOURABLE COLIN JAMES BARNETT
 PREMIER OF THE STATE OF WESTERN AUSTRALIA
@@ -600,4 +600,4 @@ in the presence of:)
 Director
 [Signature] |  | HELEN FERNIHOUGH
 Secretary
-[Schedule 2 inserted by No. 61 of 2010 s. 20.]
+[Schedule 2 inserted: No. 61 of 2010 s. 20.]
