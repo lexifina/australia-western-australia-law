@@ -10,3 +10,4 @@ Compilation table
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Iron Ore Agreements Legislation Amendment Act 2010 Pt. 4 | 34 of 2010 | 26 Aug 2010 | 1 Jul 2010 (see s. 2(b)(ii))
 Iron Ore Agreements Legislation Amendment Act (No. 2) 2010 Pt. 11 | 61 of 2010 | 10 Dec 2010 | s. 45: 1 Jul 2010 (see s. 2(b)); Pt. 11 other than s. 45: 11 Dec 2010 (see s. 2(c))
+Iron Ore Agreements Legislation (Amendment, Termination and Repeals) Act 2011 Pt. 6 | 62 of 2011 | 14 Dec 2011 | 15 Dec 2011 (see s. 2(b))
