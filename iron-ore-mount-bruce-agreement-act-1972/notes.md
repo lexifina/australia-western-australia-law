@@ -9,6 +9,7 @@ Reprint 1 as at 7 Feb 2003
 Standardisation of Formatting Act 2010 s. 4 and 42(2) | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Iron Ore Agreements Legislation Amendment Act 2010 Pt. 6 | 34 of 2010 | 26 Aug 2010 | 1 Jul 2010 (see s. 2(b)(ii))
 Iron Ore Agreements Legislation Amendment Act (No. 2) 2010 Pt. 4 | 61 of 2010 | 10 Dec 2010 | 11 Dec 2010 (see s. 2(c))
+Iron Ore Agreements Legislation Amendment Act 2011 Pt. 4 | 61 of 2011 | 14 Dec 2011 | 15 Dec 2011 (see s. 2(b))
 Repealed by the Mining Act 1978.
 Repealed by the Interpretation Act 1984.
 Marginal notes in the agreement have been represented as bold headnotes in this reprint but that does not change their status as marginal notes.
