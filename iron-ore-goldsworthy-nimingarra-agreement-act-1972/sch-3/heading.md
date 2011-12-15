@@ -1,6 +1,6 @@
 ## Schedule 3 — Second Variation Agreement
 [s. 2]
-[Heading inserted by No. 61 of 2010 s. 37.]
+[Heading inserted: No. 61 of 2010 s. 37.]
 2010
 THE HONOURABLE COLIN JAMES BARNETT
 PREMIER OF THE STATE OF WESTERN AUSTRALIA
@@ -540,4 +540,4 @@ in the presence of:)
 Signature of witness | Shuzaburo Tsuchihashi
 YASUSHI FUKUMURA
 Name of witness (print)
-[Schedule 3 inserted by No. 61 of 2010 s. 37.]
+[Schedule 3 inserted: No. 61 of 2010 s. 37.]
