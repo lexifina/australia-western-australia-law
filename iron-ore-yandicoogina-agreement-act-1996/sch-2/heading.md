@@ -1,6 +1,6 @@
 ## Schedule 2 — First Variation Agreement
 [s. 3]
-[Heading inserted by No. 61 of 2010 s. 25.]
+[Heading inserted: No. 61 of 2010 s. 25.]
 2010
 THE HONOURABLE COLIN JAMES BARNETT
 PREMIER OF THE STATE OF WESTERN AUSTRALIA
@@ -531,4 +531,4 @@ THE COMMON SEAL of HAMERSLEY IRON PTY. LIMITED ACN 004 558 276 was hereunto affi
 Director
 [Signature] |  | HELEN FERNIHOUGH
 Secretary
-[Schedule 2 inserted by No. 61 of 2010 s. 25.]
+[Schedule 2 inserted: No. 61 of 2010 s. 25.]
