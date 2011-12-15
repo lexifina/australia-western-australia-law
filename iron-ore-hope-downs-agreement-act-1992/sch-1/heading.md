@@ -1,6 +1,6 @@
 ## Schedule 1 — Iron Ore (Hope Downs) Agreement
 [s. 3]
-[Heading amended by No. 19 of 2010 s. 4; No. 61 of 2010 s. 19.]
+[Heading amended: No. 19 of 2010 s. 4; No. 61 of 2010 s. 19.]
 THIS AGREEMENT is made this 30th day of November 1992
 B E T W E E N:
 THE HONOURABLE CARMEN MARY LAWRENCE, B.Psych., Ph.D., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and
