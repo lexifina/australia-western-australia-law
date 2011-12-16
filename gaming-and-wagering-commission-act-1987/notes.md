@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Gaming and Wagering Commission Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 16 December 2011 of the Gaming and Wagering Commission Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Gaming Commission Act 1987 | 50 of 1987 | 8 Oct 1987 | s. 1 and 2: 8 Oct 1987; s. 3, Pt. II, V Div. 2 and s. 111, 112, 115-117: 4 Mar 1988 (see s. 2 and Gazette 4 Mar 1988 p. 665); Act other than Pt. I, II, V Div. 2 and s. 111, 112 and 115-117: 2 May 1988 (see s. 2 and Gazette 29 Apr 1988 p. 1291)
@@ -10,7 +10,7 @@ Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1
 Sentencing (Consequential Provisions) Act 1995 s. 147 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Financial Legislation Amendment Act 1996 s. 55 and 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
-Reprint of the Gaming Commission Act 1987 as at 5 May 1997 (includes amendments listed above) (Correction in Gazette 6 Jun 1997 p. 2644)
+Reprint of the Gaming Commission Act 1987 as at 5 May 1997 (includes amendments listed above) (correction in Gazette 6 Jun 1997 p. 2644)
 Acts Amendment (Gaming) Act 1998 Pt. 3 | 24 of 1998 | 30 Jun 1998 | 5 Aug 1998 (see s. 2 and Gazette 4 Aug 1998 p. 3981)
 Lotteries Commission Amendment Act 1998 s. 23 | 26 of 1998 | 30 Jun 1998 | 22 Jul 1998 (see s. 2 and Gazette 21 Jul 1998 p. 3825)
 Reprint of the Gaming Commission Act 1987 as at 30 Oct 1998 (includes amendments listed above)
@@ -30,50 +30,19 @@ Reprint 4: The Gaming and Wagering Commission Act 1987 as at 18 Aug 2006 (includ
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 9 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Betting and Racing Legislation Amendment Act 2006 s. 9(2) | 70 of 2006 | 13 Dec 2006 | 9 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2837)
 Liquor and Gaming Legislation Amendment Act 2006 Pt. 3 and s. 114 | 73 of 2006 | 13 Dec 2006 | s. 114: 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893); Pt. 3: 14 Jun 2008 (see s. 2(2) and Gazette 13 Jun 2008 p. 2515)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 71 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Racing, Wagering and Betting Legislation Amendment and Repeal Act 2007 Pt. 3 | 8 of 2007 | 13 Jun 2007 | 14 Jun 2007 (see s. 2)
-Reprint 5: The Gaming and Wagering Commission Act 1987 as at 2 Nov 2007 (includes amendments listed above)
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Reprint 5: The Gaming and Wagering Commission Act 1987 as at 2 Nov 2007 (includes amendments listed above except those in the Liquor and Gaming Legislation Amendment Act 2006 Pt. 3)
+Duties Legislation Amendment Act 2008 Sch. 1 cl. 9 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 63 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Racing and Wagering Legislation Amendment Act 2009 Pt. 3 | 29 of 2009 | 23 Nov 2009 | 11 Jan 2010 (see s. 2(b) and Gazette 8 Jan 2010 p. 9-10)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Casino (Burswood Island) Agreement Amendment Act 2011 Pt. 3 | 25 of 2011 | 11 Jul 2011 | 12 Jul 2011 (see s. 2(b))
+Reprint 6: The Gaming and Wagering Commission Act 1987 as at 16 Dec 2011 (includes amendments listed above)
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 Now known as the Gaming and Wagering Commission Act 1987; short title changed (see note under s. 1).
-The Acts Amendment (Continuing Lotteries) Act 2000 Pt. 4 (as amended by the Taxation Administration (Consequential Provisions) Act 2002 s. 6) reads as follows:
-“
-Part 4 — Savings and transitional provisions
-17.Interpretation
-In this Part —
-commencement day means the day on which this Act comes into operation;
-Commission means the Gaming Commission of Western Australia, established under the Gaming Commission Act 1987;
-Gaming Commission Act means the Gaming Commission Act 1987 as amended by this Act;
-Stamp Act means the Stamp Act 1921 as in force immediately prior to the commencement day.
-[Section 17 amended by No. 45 of 2002 s. 6.]
-18.Licences
-A licence issued under Part IVAA of the Stamp Act and in force immediately before the commencement day —
-(a) is taken to be a licence issued under Part V Division 7 of the Gaming Commission Act; and
-(b) subject to that Division, continues in force until —
-(i) the day on which the licence would have expired under Part IVAA of the Stamp Act; or
-(ii) 5 years after the commencement day,
-whichever is the earlier.
-19.Cancellation of licence
-For the purposes of section 104B(3)(c) of the Gaming Commission Act, the cancellation of a licence under Part IVAA of the Stamp Act is to be treated as if it were a cancellation under the Gaming Commission Act, Part V Division 7.
-20.Pending appeals
-(1) Subject to subsection (2), an appeal commenced under section 111 of the Stamp Act before the commencement day, may be continued and dealt with as if the amendments in Parts 2 and 3 of this Act had not been passed.
-(2) For the purposes of continuing and dealing with pending appeals, if a Local Court wishes to exercise its power, under section 111(3)(b) of the Stamp Act, to remit a matter under appeal, it is to remit that matter to the Commission, instead of the Commissioner of State Revenue.
-21.Continuing effect of approvals
-Any approval granted under section 111B of the Stamp Act continues in force until that approval is varied or revoked by the Commission under section 104F(2) of the Gaming Commission Act.
-22.Returns
-If duty payable to the Commissioner of State Revenue under section 111B of the Stamp Act on a return lodged, or to be lodged, with the Commissioner of State Revenue under section 111B of the Stamp Act has not been paid prior to the commencement day then, despite this Act, the duty payable continues as a debt due to the Commissioner of State Revenue.
-23.Refund of duty
-Where a licensed supplier is entitled to a refund of duty from the Commissioner of State Revenue under section 111D of the Stamp Act, and that duty has not been refunded before or on the commencement day, then despite this Act, the licensed supplier is entitled to a refund of that amount of duty from the Commissioner of State Revenue.
-24.Memoranda
-(1) Where the Commissioner of State Revenue was entitled to create a memorandum under section 111E of the Stamp Act, and that entitlement had not been exercised by the Commissioner of State Revenue before or on the commencement day, then on and from the commencement day the Commission is instead entitled to create that memorandum.
-(2) In addition to the entitlement under subsection (1), the Commission is entitled to assess the amount to be paid (including any fine), and to collect the outstanding amount, in relation to a memorandum created under subsection (1).
-”.
+The Acts Amendment (Continuing Lotteries) Act 2000 Pt. 4 (as amended by the Taxation Administration (Consequential Provisions) Act 2002 s. 6) contains savings and transitional provisions.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 Pt. 9 Div. 2 reads as follows:
-“
 Part 9 — Gaming Commission Act 1987 amended, transitional and savings provisions and consequential amendments
 Division 2 — Transitional and savings provisions
 169.Gaming and Wagering Commission
@@ -82,4 +51,117 @@ Division 2 — Transitional and savings provisions
 (3) If, in a written law or in a document of any kind there is a reference to the Gaming Commission, that reference is, unless because of the context it would be inappropriate to do so, to be read and construed as if it had been amended to be a reference to the Gaming and Wagering Commission.
 170.Members of the Commission
 Each person holding office as a member of the Gaming Commission under the Gaming Commission Act 1987 immediately before the coming into operation of this section continues in office as a member of the Gaming and Wagering Commission under and subject to the Gaming and Wagering Commission Act 1987 until the expiry of the term of office.
-”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+appointed member109D(9)
+approval43A(4)
+approved3(1)
+approved premises3(1)
+authorised officer3(1)
+authorised person85(6)
+banking day63(4)
+batch101(1)
+bingo94(1)
+books3(1)
+cards94(2)
+casino3(1)
+casino complex agreement3(1)
+certificate3(1)
+charitable organisation94(1)
+Chief Casino Officer16(4)
+closing date101(1)
+club94(1)
+Commission3(1)
+condition3(1)
+conduct3(1)
+conducting101(1)
+confidential police information20A(1)
+continuing lotteries levy3(1)
+continuing lottery101(1)
+credit card3(1)
+date of drawing101(1)
+debit card3(1)
+Department3(1)
+drawing101(1)
+employing authority18(2a)
+face value101(1)
+foreign lottery101(1)
+gambling3(1), 40A
+game of chance3(1)
+gaming3(1)
+gaming equipment3(1)
+gaming machine84(1)
+gaming permit3(1)
+government inspector16(4)
+house3(1)
+imposed3(1)
+instruments of gaming3(1)
+licence3(1)
+licensed supplier3(1)
+lottery3(1)
+machine3(1)
+material evidence26(2)
+minor fund raising activity3(1)
+money3(1), 94(1)
+multiple bingo3(1), 94(1), 96(4)
+object58(2)
+occupier3(1)
+opening date101(1)
+organiser94(1)
+owner3(1)
+paid94(1)
+permit3(1)
+permit holder3(1)
+permitted two-up3(1)
+permitted amusement with prizes3(1)
+permitted bingo3(1)
+permitted gaming3(1)
+permitted lottery3(1)
+player3(1)
+playing3(1)
+possession3(1)
+premises3(1)
+prescribed gaming equipment84(1)
+prize94(1)
+prohibited advertisement43A(1)
+promoter94(1)
+public place3(1)
+Public Service18(2a)
+quarter101(1)
+race3(1)
+race club3(1)
+race day80(1a)
+race meeting3(1)
+related furnishings3(1)
+relevant Act20A(1)
+responsible person109B(1)(d)
+RWWA3(1)
+RWWA Act3(1)
+seized thing32A(1)
+service agreement91(5)
+simultaneous bingo3(1), 94(1)
+slot machine84(1)
+social gambling3(1)
+specified48(2), 87(2), 91(8)
+standard lottery101(1)
+terms89(3)
+ticket101(1)
+token3(1)
+trade promotion lottery3(1)
+Trust109A
+Trust Account109A
+two-up3(1)
+unclaimed winnings109A, 109B(1)
+unlawful game3(1)
+unlawful gaming43A(1)
+unlawful gaming equipment84(1)
+unlawful gaming machine84(1)
+unlawful lottery101(1)
+unlawful wagering43A(1)
+value94(1)
+vehicle3(1)
+vessel3(1)
+wagering3(1), 40A
+winner109B(1)(d)
+winnings3(1)
