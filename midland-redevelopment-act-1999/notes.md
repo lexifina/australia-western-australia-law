@@ -16,6 +16,7 @@ Compilation table
  | Reprint 2: The Midland Redevelopment Act 1999 as at 19 Mar 2010 (includes amendments listed above)
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 35 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
 Public Sector Reform Act 2010 s. 79 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)))
+ | Midland Redevelopment (Subtracted Area) Regulations 2011 r. 4 published in Gazette 13 Dec 2011 p. 5282-4 | 17 Dec 2011 (see r. 5(3) and Gazette 16 Dec 2011 p. 5345-8)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
