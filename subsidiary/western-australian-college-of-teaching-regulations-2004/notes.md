@@ -8,6 +8,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Western Australian College of Teaching Amendment Regulations 2011 r. 3-6 | 2 Dec 2011 p. 5057-9 | 1 Jan 2012 (see r. 2(b))
+Western Australian College of Teaching Amendment Regulations (No. 2) 2011 r. 3 and 4 | 20 Dec 2011 p. 5373-4 | 1 Jan 2012 (see r. 2(b) and Gazette 2 Dec 2011 p. 5057-9)
 On the date as at which this compilation was prepared, the Western Australian College of Teaching Amendment Regulations 2011 r. 3-6 had not come into operation. They read as follows:
 3.Regulations amended
 These regulations amend the Western Australian College of Teaching Regulations 2004.
@@ -31,3 +32,11 @@ Provision | Delete | Insert
 r. 8 | $50.00 | $70.00
 r. 14 | $50.00 | $150.00
 r. 17(1) | $76.00 | $80.00
+On the date as at which this compilation was prepared, the Western Australian College of Teaching Amendment Regulations (No. 2) 2011 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Western Australian College of Teaching Regulations 2004.
+4.Regulation 16 amended
+Delete regulation 16(1)(a) and (b) and insert:
+(a) $330.00, if the application involves the consideration for approval of a qualification or qualifications conferred by a body that is not established, or primarily based, in Australia or New Zealand; or
+(b) $50.00, if the application is in accordance with the mutual recognition principle or the Trans-Tasman mutual recognition principle; or
+(c) $50.00, otherwise.
