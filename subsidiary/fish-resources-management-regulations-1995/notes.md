@@ -151,10 +151,22 @@ Fish Resources Management Amendment Regulations (No. 11) 2011 | 9 Sep 2011 p. 36
 Fish Resources Management Amendment Regulations (No. 9) 2011 | 2 Nov 2011 p. 4619-25 | r. 1 and 2: 2 Nov 2011 (see r. 2(a)); Regulations other than r. 1, 2 and 9: 3 Nov 2011 (see r. 2(c)); r. 9: 15 Nov 2011 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 12) 2011 | 18 Nov 2011 p. 4809-10 | r. 1 and 2: 18 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2011 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 13) 2011 | 22 Nov 2011 p. 4847-8 | r. 1 and 2: 22 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Nov 2011 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 14) 2011 r. 1-3 and 5 | 20 Dec 2011 p. 5374-5 | r. 1 and 2: 20 Dec 2011 (see r. 2(a)); r. 3 and 5: 21 Dec 2011 (see r. 2(c))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Fish Resources Management Amendment Regulations (No. 14) 2011 r. 4 and 6 | 20 Dec 2011 p. 5374-5 | 8 Jan 2012 (see r. 2(b))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Recreational Fishing Account.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
+On the date as at which this compilation was prepared, the Fish Resources Management Amendment Regulations (No. 14) 2011 r. 4 and 6 had not come into operation. They read as follows:
+4.Regulation 16N amended
+In regulation 16N(1)(b) delete “20” and insert:
+16
+6.Schedule 3 amended
+In Schedule 3 Part 3 Division 4 in the item beginning “Marron” delete “10” and insert:
+8
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
