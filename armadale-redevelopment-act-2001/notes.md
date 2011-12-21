@@ -22,6 +22,7 @@ Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 28 | 28 of 2010 | 1
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Armadale Redevelopment (Subtracted Area) Regulations 2011 published in Gazette 1 Nov 2011 p. 4595-601 | 2 Nov 2011 (see r. 2(b))
 Armadale Redevelopment (Addition of Land to Redevelopment Area) Regulations 2011 r. 4 published in Gazette 16 Dec 2011 p. 5348-9 | 17 Dec 2011 (see r. 2(b))
+Armadale Redevelopment (Subtracted Area) Regulations (No. 2) 2011 r. 4 published in Gazette 16 Dec 2011 p. 5350-8 | 21 Dec 2011 (see r. 5(2) and Gazette 20 Dec 2011 p. 5403-10)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
