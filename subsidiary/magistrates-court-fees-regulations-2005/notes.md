@@ -14,6 +14,8 @@ Magistrates Court (Fees) Amendment Regulations 2009 | 9 Jun 2009 p. 1924 | r. 1 
 Magistrates Court (Fees) Amendment Regulations (No. 2) 2009 | 4 Sep 2009 p. 3472-9 | r. 1 and 2: 4 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2009 (see r. 2(b))
 Magistrates Court (Fees) Amendment Regulations 2010 | 30 Jul 2010 p. 3499-500 | r. 1 and 2: 30 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Jul 2010 (see r. 2(b))
 Magistrates Court (Fees) Amendment Regulations 2011 | 8 Mar 2011 p. 787-90 | r. 1 and 2: 8 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Mar 2011 (see r. 2(b))
+Magistrates Court (Fees) Amendment Regulations (No. 2) 2011 | 20 Dec 2011 p. 5387-90 | r. 1 and 2: 20 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2011 (see r. 2(b))
+The Magistrates Court (Fees) Amendment Regulations (No. 2) 2011, Table to r. 4 included amendments to Schedule 1 Divisions 2 and 3. These amendments are not included because the instruction in r. 4 referred only to Schedule 1 Division 1.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
