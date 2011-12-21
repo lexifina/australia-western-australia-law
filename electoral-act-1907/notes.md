@@ -95,11 +95,11 @@ Electoral Amendment Act 2008 | 38 of 2008 | 3 Jul 2008 | s. 1 and 2: 3 Jul 2008 
 Electoral Amendment (Miscellaneous) Act 2009 | 7 of 2009 | 21 May 2009 | Pt. 1: 21 May 2009 (see s. 2(a)); Act other than Part 1: 1 Oct 2009 (see s. 2(b) and Gazette 1 Sep 2009 p. 3393)
 Acts Amendment (Bankruptcy) Act 2009 s. 34 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Reprint 15: The Electoral Act 1907 as at 23 Jul 2010 (includes amendments listed above)
+Electoral and Constitution Amendment Act 2011 Pt. 2 | 49 of 2011 | 11 Nov 2011 | 21 Dec 2011 (see s. 2(b) and Gazette 20 Dec 2011 p. 5373)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2`(2))
-Electoral and Constitution Amendment Act 2011 Pt. 2 | 49 of 2011 | 11 Nov 2011 | To be proclaimed (see s. 2(b))
+State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 15.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as a reference to the Public Sector Management Act 1994.
@@ -134,63 +134,6 @@ Act | Provision
 ……………………….. | …….
 Electoral Act 1907 | s. 5E(2)
 ……………………….. | …….
-On the date as at which this compilation was prepared, the Electoral and Constitution Amendment Act 2011 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Electoral Act 1907 amended
-3.Act amended
-This Part amends the Electoral Act 1907.
-4.Section 4 amended
-(1) In section 4(1) insert in alphabetical order:
-election year, in relation to a periodic election, means the year in which the writ for the periodic election is issued;
-expiry year means a year in which an Assembly, if it is not previously dissolved, will expire by effluxion of time;
-periodic election means —
-(a)a general election for the Assembly the writ for which is issued under section 64(2); or
-(b)any general election for the Council;
-(2) In section 4(1) in the definition of general election:
-(a) in paragraph (a) delete “section 64(1);” and insert:
-section 64(1) or (2);
-(b) in paragraph (b) delete “section 64(2);” and insert:
-section 64(3);
-5.Section 64 replaced
-Delete section 64 and insert:
-64.Issue of writs for general election
-(1) If an Assembly is dissolved before 1 November last preceding its expiry year, the Governor shall cause a writ for elections in all the districts to be issued not later than 10 days after the dissolution.
-(2) If an Assembly is not dissolved before 1 November last preceding its expiry year, the Governor shall cause a writ for elections in all the districts to be issued on the first Wednesday of February in the expiry year.
-(3) In order to fill seats in the Council that are to be vacated by effluxion of time at the end of 21 May in a year, the Governor shall cause a writ for elections in all the regions to be issued on the first Wednesday of February last preceding that 21 May.
-6.Section 70 replaced
-Delete section 70 and insert:
-70.Date of nomination
-(1) Subject to subsection (2), the date fixed as the last day for the nomination of candidates shall be not less than 7 nor more than 45 days after the date of the writ.
-(2) In the case of a periodic election the date fixed as the last day for the nomination of candidates shall be the second Friday next following the date of the writ.
-7.Section 71 replaced
-Delete section 71 and insert:
-71.Date of polling
-(1) In this section —
-available day means any day that is not an excluded day;
-excluded day means —
-(a)a day appointed as polling day for an election of the Senate or a general election of the House of Representatives or as the voting day for a referendum as defined in the Referendum (Machinery Provisions) Act 1984 (Commonwealth); or
-(b)Easter Saturday or the Saturday immediately preceding or succeeding Easter Saturday.
-(2) Subsection (3) applies to any election other than an election held as part of a periodic election.
-(3) The date fixed for the polling in an election to which this subsection applies shall be a Saturday that —
-(a) is not less than 21 nor more than 45 days after the date of nomination; and
-(b) is an available day.
-(4) The same date shall be fixed under subsection (3) for the polling in each election in a district held as part of a general election for the Assembly for which the writ is issued under section 64(1).
-(5) In the case of a periodic election, the date fixed for the polling in each election in a region or election in a district, as the case requires, shall be —
-(a) the second Saturday of March in the election year; or
-(b) if the second Saturday of March in the election year is an excluded day, the first succeeding Saturday that is an available day.
-(6) If in the case of a periodic election the Premier, with the agreement of the Leader of the Opposition in the Legislative Assembly, recommends to the Governor that the date to be fixed for the polling be postponed because of exceptional circumstances, the date fixed for the polling shall be the first Saturday after the second Saturday of March that is an available day on which polling is practicable.
-(7) In the case of a general election for the Council, the date fixed for the polling shall not be postponed to such an extent as would prevent the return of the writ on or before 21 May in the year in which seats in the Council are to be vacated by effluxion of time.
-8.Section 72 amended
-After section 72(1) insert:
-(2) In the case of a general election for the Council, the date fixed as the last day for the return of a writ in the election shall be not later than 21 May in the year in which seats in the Council are to be vacated by effluxion of time.
-9.Section 76 amended
-Delete section 76(3) and insert:
-(3) In the case of a general election for the Council —
-(a) the time appointed for the nomination of candidates or the taking of the poll shall not be extended to such an extent as would prevent the return of the writ on or before 21 May; and
-(b) the time appointed for the return of the writ shall not be extended beyond 21 May,
-in the year in which seats in the Council are to be vacated by effluxion of time.
-10.Section 156E amended
-In section 156E(2) delete “sections 8(6) and 10 of the Constitution Acts Amendment Act 1899” and insert:
-section 64(3) and the Constitution Acts Amendment Act 1899 section 10
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -208,9 +151,10 @@ Australian Electoral Officer31(6)
 authorised officer175W(1)
 authorised witness4(1)
 automated146I(6)
+available day71(1)
 average district enrolment16A, 16G(1)
 B175LC(2)
-ballotSch. 2 it. 2
+ballotSch. 2
 ballot paper regulations213(3)
 ballot papers99B(1)
 breach or neglect of official duty180
@@ -225,7 +169,7 @@ Commissioners16A
 conjoint election4(1)
 consenting candidate156D(1)
 constitution4(1)
-continuing candidateSch. 1 it. 2(1)
+continuing candidateSch. 1
 Council4(1)
 CPI175LC(3)
 Deputy Electoral Commissioner4(1)
@@ -236,17 +180,20 @@ early ballot paper4(1)
 early vote4(1)
 election4(1), 175LA(1), 175Q(6)
 election period62C(1), 175
+election year4(1)
 elector4(1)
 electoral census4(1)
 Electoral Commissioner4(1), 5B(1)
 electoral expenditure175
 electoral matter175
 electoral paper191(3)
-eligible political party62C(1) and (4)
+eligible political party62C(1)
 eligible vote175LA(1)
 enrolment information4(1)
 entity 175
+excluded day71(1)
 existing party62J(1)
+expiry year4(1)
 financial controller175
 general election4(1), 175
 general polling place4(1), 100(3)
@@ -261,7 +208,7 @@ large district allowance16G(4)
 member62C(1)
 mentally impaired accused59(1)
 metropolitan area of Perth16H(2)
-modified penalty156(6)(c)(iii) and (12)(d)
+modified penalty156(6), 156(12)
 name113C(10)
 non-participating candidate156D(14)
 officer4(1)
@@ -271,6 +218,7 @@ parent body62C(4)
 parliamentary party25A(6), 62C(1)
 party group175LA(1)
 party nomination81A(1)
+periodic election4(1)
 permitted purpose25D(2)
 person with judicial experience16A
 political gift199A(2)
@@ -302,7 +250,7 @@ relevant number4(1)
 relevant period191A(4)
 required deposit81(2)
 required information59(1)
-response date156(6)(c) and (12)(d)
+response date156(6), 156(12)
 returning officer4(1)
 roll4(1)
 secretary4(1)
@@ -312,17 +260,17 @@ Speaker4(1)
 specified amount175
 State party62C(4)
 sub-district4(1)
-surplus votesSch. 1 it. 4
+surplus votesSch. 1
 the donor175R(1)
-the enrolment officer42(c)
+the enrolment officer42
 the party agents register175F(1)
 the recipient175R(1)
 the relevant election175O(2), 175Q(4)
 the tied candidates145(3)
-tied candidates144(2)(g), Sch. 1 it. 17
+tied candidates144(2), Sch. 1
 undue influence184
 vacancy156A
-valid and sufficient reason156(16)(a)
+valid and sufficient reason156(16)
 voting ticket4(1)
 voting ticket square4(1)
 writ4(1)
