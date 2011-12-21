@@ -15,6 +15,7 @@ Reprint 2: The State Administrative Tribunal Regulations 2004 as at 19 Feb 2010 
 Standardisation of Formatting Act 2010 s. 51 assented 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 State Administrative Tribunal Amendment Regulations 2011 | 8 Mar 2011 p. 792-5 | r. 1 and 2: 8 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Mar 2011 (see r. 2(b))
 State Administrative Tribunal Amendment Regulations (No. 4) 2011 | 22 Jul 2011 p. 3017-18 | r. 1 and 2: 22 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jul 2011 (see r. 2(b))
+State Administrative Tribunal Amendment Regulations (No. 5) 2011 | 20 Dec 2011 p. 5383-7 | r. 1 and 2: 20 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2011 (see r. 2(b))
 The Nurses Act 1992 was repealed by the Nurses and Midwives Act 2006.
 The Occupational Therapists Registration Act 1980was repealed by the Occupational Therapists Act 2005.
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
