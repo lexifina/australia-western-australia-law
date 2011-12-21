@@ -2,15 +2,15 @@
 [r. 41]
 ## Division 1 — Port of Broome
 [Heading inserted in Gazette 2 Oct 2007 p. 4972.]
-1. | Pilotage of a vessel of not more than 10 000 gross registered tonnes into and out of the port ...................... | $5 366.91
-2. | Pilotage of a vessel of more than 10 000 but not more than 30 000 gross registered tonnes into and out of the port ................................................................................. | $8 116.90
-3. | Pilotage of a vessel of more than 30 000 gross registered tonnes into and out of the port ....................... | $8 776.90
-4. | Pilotage of a vessel from a place in the port to another place in the port .............................................................. | $2 679.00
-5. | Detention of pilot, per hour or part of an hour ............... | $825.00
-6A. | Detention of pilot vessel, per hour or part of an hour .... | $550.00
+1. | Pilotage of a vessel of not more than 10 000 gross registered tonnes into and out of the port ...................... | $5 635.26
+2. | Pilotage of a vessel of more than 10 000 but not more than 30 000 gross registered tonnes into and out of the port ................................................................................. | $8 522.75
+3. | Pilotage of a vessel of more than 30 000 gross registered tonnes into and out of the port ....................... | $9 215.75
+4. | Pilotage of a vessel from a place in the port to another place in the port .............................................................. | $2 812.94
+5. | Detention of pilot, per hour or part of an hour ............... | $866.25
+6A. | Detention of pilot vessel, per hour or part of an hour .... | $577.50
 6. | Cancellation of pilot ....................................................... | 50% of the charge set out in item 1, 2, 3 or 4, as the case requires.
-7. | Cancellation of pilot vessel | $825.00
-[Division 1 inserted in Gazette 2 Oct 2007 p. 4972; amended in Gazette 4 Jun 2010 p. 2477.]
+7. | Cancellation of pilot vessel | $866.25
+[Division 1 inserted in Gazette 2 Oct 2007 p. 4972; amended in Gazette 4 Jun 2010 p. 2477; 20 Dec 2011 p. 5401.]
 ## Division 2 — Port of Bunbury
 [Heading inserted in Gazette 4 Jun 2010 p. 2482.]
 1. | Pilotage of a vessel into and out of the port ..............…. | $5 671.90
