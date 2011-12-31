@@ -2,7 +2,6 @@
 [s. 3 and 6]
 Agricultural Produce Commission
 Animal Resources Authority
-Armadale Redevelopment Authority
 Botanic Gardens and Parks Authority
 Building and Construction Industry Training Board
 Bunbury Water Board
@@ -18,7 +17,6 @@ Country Housing Authority
 Curriculum Council
 Curtin University of Technology
 Disability Services Commission
-East Perth Redevelopment Authority
 Economic Regulation Authority
 Edith Cowan University
 Fire and Emergency Services Authority of Western Australia
@@ -46,7 +44,7 @@ Legal Costs Committee
 Local Health Authorities Analytical Committee
 Lotteries Commission
 Metropolitan Cemeteries Board
-Midland Redevelopment Authority
+Metropolitan Redevelopment Authority
 Mid West Development Commission
 Minerals and Energy Research Institute of Western Australia
 Murdoch University
@@ -71,7 +69,6 @@ Small Business Development Corporation
 South West Development Commission
 State Government Insurance Corporation
 State Supply Commission
-Subiaco Redevelopment Authority
 Swan Bells Foundation Incorporated
 Swan River Trust
 The Aboriginal Affairs Planning Authority
@@ -101,4 +98,4 @@ Western Australian Treasury Corporation
 Wheatbelt Development Commission
 WorkCover Western Australia Authority
 Zoological Parks Authority
-[Schedule 1 amended by No. 77 of 2006 s. 17; No. 10 of 2007 s. 43; No. 24 of 2007 s. 36; No. 38 of 2007 s. 195; No. 28 of 2008 s. 13; No. 16 of 2009 s. 69; No. 33 of 2010 s. 56; No. 54 of 2011 s. 5; amended in Gazette 13 Jul 2007 p. 3454; 4 Jan 2008 p. 29; 8 Feb 2008 p. 323; 20 Aug 2010 p. 4072.]
+[Schedule 1 amended by No. 77 of 2006 s. 17; No. 10 of 2007 s. 43; No. 24 of 2007 s. 36; No. 38 of 2007 s. 195; No. 28 of 2008 s. 13; No. 16 of 2009 s. 69; No. 33 of 2010 s. 56; No. 45 of 2011 s. 138; No. 54 of 2011 s. 5; amended in Gazette 13 Jul 2007 p. 3454; 4 Jan 2008 p. 29; 8 Feb 2008 p. 323; 20 Aug 2010 p. 4072.]

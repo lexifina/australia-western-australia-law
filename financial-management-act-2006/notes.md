@@ -16,13 +16,13 @@ National Gas Access (WA) Act 2009 s. 69 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (
 Financial Management (Statutory Authorities) Regulations 2010 published in Gazette 20 Aug 2010 p. 4071-2 | r. 1 and 2: 20 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2010 (see r. 2(b))
 Health and Disability Services Legislation Amendment Act 2010 s. 56 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Public Sector Reform Act 2010 s. 76 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Metropolitan Redevelopment Authority Act 2011 s. 138 | 45 of 2001 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Agricultural Practices (Disputes) Repeal Act 2011 s. 5 | 54 of 2011 | 9 Nov 2011 | 7 Dec 2011 (see note under s. 1)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 82 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 Curriculum Council Amendment Act 2011 Pt. 3 Div. 2 | 37 of 2011 | 13 Sep 2011 | To be proclaimed (see s. 2(b))
-Metropolitan Redevelopment Authority Act 2011 s. 138 | 45 of 2001 | 12 Oct 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 82 had not come into operation. It reads as follows:
@@ -49,16 +49,6 @@ The Settlement Agents Supervisory Board was abolished on 1 Jul 2011. The Settlem
 Subject to sections 132 and 133, at the beginning of the commencement day, the former Board is abolished and its members go out of office.
 126.References to the former Board
 If in a written law or other document or instrument there is a reference to the former Board, that reference may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
-On the date as at which this compilation was prepared, the Metropolitan Redevelopment Authority Act 2011 s. 138 had not come into operation. It reads as follows:
-138.Financial Management Act 2006 amended
-(1) This section amends the Financial Management Act 2006.
-(2) In Schedule 1 delete the items for:
-Armadale Redevelopment Authority
-East Perth Redevelopment Authority
-Midland Redevelopment Authority
-Subiaco Redevelopment Authority
-(3) In Schedule 1 insert in alphabetical order:
-Metropolitan Redevelopment Authority
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
