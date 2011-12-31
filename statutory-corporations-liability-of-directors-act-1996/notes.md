@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 November 2011 of the Statutory Corporations (Liability of Directors) Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Statutory Corporations (Liability of Directors) Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Statutory Corporations (Liability of Directors) Act 1996 | 41 of 1996 | 10 Oct 1996 | s. 1 and 2: 10 Oct 1996; Act other than s. 1 and 2: 1 Dec 1996 (see s. 2 and Gazette 12 Nov 1996 p. 6301)
@@ -31,31 +31,21 @@ Eastern Goldfields Transport Board Repeal Act 2008 s. 14 | 28 of 2008 | 1 Jul 20
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 121 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 5: The Statutory Corporations (Liability of Directors) Act 1996 as at 4 Nov 2011 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Metropolitan Redevelopment Authority Act 2011 s. 143 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation Amendment Act 2007 s. 87 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
-Metropolitan Redevelopment Authority Act 2011 s. 143 | 45 of 2011 | 12 Oct 2011 | To be proclaimed (see s. 2(b))
 The Insurance Commission of Western Australia Act 1986 Part III provides for the establishment of the State Government Insurance Corporation and for a board of directors of the Corporation. The Acts Amendment (ICWA) Act 1996 s. 20, which had not come into operation at the date on which this reprint was prepared, would repeal that Part.
 Formerly referred to the State Government Insurance Commission Act 1986 the short title of which was changed to the Insurance Commission of Western Australia Act 1986 by the Acts Amendment (ICWA) Act 1996 s. 5. The reference was substituted under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993.
-On the date as at which this reprint was prepared, the State Superannuation Amendment Act 2007 s. 87 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 87 had not come into operation. It reads as follows:
 87.Statutory Corporations (Liability of Directors) Act 1996 amended
 (1) The amendments in this section are to the Statutory Corporations (Liability of Directors) Act 1996.
 (2) Schedule 1 is amended by deleting the item for the Government Employees Superannuation Board and inserting in the appropriate alphabetical position —
 “
 State Superannuation Board | a director | State Superannuation Act 2000
 ”.
-On the date as at which this reprint was prepared, the Metropolitan Redevelopment Authority Act 2011 s. 143 had not come into operation. It reads as follows:
-143.Statutory Corporations (Liability of Directors) Act 1996 amended
-(1) This section amends the Statutory Corporations (Liability of Directors) Act 1996.
-(2) In Schedule 1 delete the items for:
-Armadale Redevelopment Authority
-East Perth Redevelopment Authority
-Midland Redevelopment Authority
-Subiaco Redevelopment Authority
-(3) In Schedule 1 insert in alphabetical order:
-Metropolitan Redevelopment Authority | a member of the board of management of the Authority | Metropolitan Redevelopment Authority Act 2011
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
