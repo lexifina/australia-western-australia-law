@@ -1,6 +1,6 @@
-## Schedule 7 — Local governments and redevelopment authorities
+## Schedule 7 — Local governments
 [s. 22, 26]
-Local governments
+[Heading amended by No. 45 of 2011 s. 144(19).]
 City of Armadale
 Town of Bassendean
 City of Bayswater
@@ -22,6 +22,4 @@ City of Subiaco
 City of Swan
 Town of Victoria Park
 Town of Vincent
-Redevelopment authorities
-East Perth Redevelopment Authority
-Midland Redevelopment Authority
+[Schedule 7 amended by No. 45 of 2011 s. 144(19).]

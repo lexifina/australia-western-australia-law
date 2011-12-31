@@ -49,12 +49,12 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Approvals and Related Reforms (No. 1) (Environment) Act 2010 | 40 of 2010 | 28 Oct 2010 | Pt. 1 other than s. 3: 28 Oct 2010 (see s. 2(a)); Act other than Pt. 1 heading, s. 1 and 2: 26 Nov 2010 (see s. 2(b) and Gazette 23 Nov 2010 p. 5851)
 Environmental Protection Amendment Act 2010 | 48 of 2010 | 24 Nov 2010 | s. 1 and 2: 24 Nov 2010 (see s. 2(a)); Act other than s. 1 and 2: 25 Nov 2010 (see s. 2(b))
 Reprint 7: The Environmental Protection Act 1986 as at 11 Feb 2011 (includes amendments listed above)
+Metropolitan Redevelopment Authority Act 2011 s. 137 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Agricultural Practices (Disputes) Repeal Act 2011 s. 4 | 54 of 2011 | 9 Nov 2011 | 7 Dec 2011 (see note under s. 1)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(3)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
-Metropolitan Redevelopment Authority Act 2011 s. 137 | 45 of 2011 | 12 Oct 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -109,40 +109,6 @@ Schedule 4 — Amendments and repeals
 The Waste Avoidance and Resource Recovery Regulations 2008 r. 24 reads as follows:
 24.Transitional provision — Waste Management and Recycling Fund
 The Waste Avoidance and Resource Recovery Act 2007 Schedule 5 clause 6 prevails to the extent that there is an inconsistency between that provision and Part VIIA Division 2 of the EP Act.
-On the date as at which this compilation was prepared, the Metropolitan Redevelopment Authority Act 2011 s. 137 had not come into operation. It reads as follows:
-137.Environmental Protection Act 1986 amended
-(1) This section amends the Environmental Protection Act 1986.
-(2) In section 3(1) delete the definition of scheme Act and insert:
-scheme Act means any of the following Acts —
-(a)the Planning and Development Act 2005;
-(b)the Metropolitan Redevelopment Authority Act 2011;
-(c)the Hope Valley-Wattleup Redevelopment Act 2000;
-(3) In section 3(1) in the definition of final approval:
-(a) delete paragraphs (a), (aa), (ac) and (b);
-(b) after paragraph (f) insert:
-or
-(g)prepared under the Metropolitan Redevelopment Authority Act 2011, means an approval given under section 47 of that Act, or under section 49 of that Act as read with that section;
-(4) In section 3(1) in the definition of period of public review:
-(a) delete paragraphs (a), (aa), (ac) and (b);
-(b) after paragraph (f) insert:
-or
-(g)prepared under the Metropolitan Redevelopment Authority Act 2011, means the period set and notified under section 43 of that Act, or under section 49 of that Act as read with that section;
-(5) In section 3(1) in the definition of responsible authority paragraph (a):
-(a) delete subparagraphs (i), (ii), (iv) and (v);
-(b) after subparagraph (ix) insert:
-or
-(x)prepared under the Metropolitan Redevelopment Authority Act 2011, means the Metropolitan Redevelopment Authority established by that Act;
-(6) In section 3(1) in the definition of scheme:
-(a) delete paragraphs (a), (b), (d) and (e);
-(b) after paragraph (i) insert:
-or
-(j)a redevelopment scheme prepared under the Metropolitan Redevelopment Authority Act 2011 or an amendment to such a scheme;
-(7) In section 48C(7) in the definition of public review:
-(a) delete paragraphs (a), (aa), (ac) and (b);
-(b) in paragraph (f) delete “Act.” and insert:
-Act; or
-(c) after paragraph (f) insert:
-(g)prepared under the Metropolitan Redevelopment Authority Act 2011, means a procedure referred to in sections 43 and 44 of that Act, or in section 49 of that Act as read with those sections.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
