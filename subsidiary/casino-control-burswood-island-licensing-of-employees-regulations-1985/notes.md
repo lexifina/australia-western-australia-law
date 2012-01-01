@@ -30,26 +30,7 @@ Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 
 Reprint 3: The Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985 as at 20 Aug 2010 (includes amendments listed above)
  | Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2010 | 19 Nov 2010 p. 5741-2 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
  | Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2011 | 12 Apr 2011 p. 1324-5 | r. 1 and 2: 12 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Apr 2011 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2011 r. 3 and 4 | 4 Nov 2011 p. 4638-9 | 1 Jan 2012 (see r. 2(b))
-On the date as at which this compilation was prepared, the Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2011 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985.
-4.Regulation 6 amended
-(1) In regulation 6(1):
-(a) in paragraph (a) delete “$405; and” and insert:
-$415; and
-(b) in paragraph (b) delete “$255.” and insert:
-$260.
-(2) In regulation 6(1a):
-(a) in paragraph (a) delete “$110; and” and insert:
-$115; and
-(b) in paragraph (b) delete “$110.” and insert:
-$115.
-(3) In regulation 6(2)(a) delete “$295; or” and insert:
-$300; or
+ | Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2011 | 4 Nov 2011 p. 4638-9 | r. 1 and 2: 4 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2012 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
