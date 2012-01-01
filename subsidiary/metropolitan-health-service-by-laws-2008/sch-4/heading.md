@@ -1,21 +1,24 @@
 ## Schedule 4 — Forms
 [bl. 12(3) and 13]
 [Heading inserted in Gazette 26 Nov 2010 p. 5945.]
-Form 1 — Infringement notice
-Metropolitan Health Service By-laws 2008 Infringement notice | Notice No.
-Hospital | ❑Graylands Hospital ❑Rockingham Hospital ❑Kalamunda Hospital
-Vehicle | Make
-Model
-Plate no. | Colour
-Alleged offence | Description of offence _____________________________________________
-Metropolitan Health Service By-laws 2008 bl.
-Date //20Time a.m./p.m.
-Modified penalty $
-Issuing officer | Name
-Signature
-Date ………/……../20…….
-What you must do | You have 28 days from when this notice was given to you to pay the modified penalty or elect to go to court. If you do not, enforcement proceedings will be taken against you. To pay the modified penalty — By post: Send your payment to — Metropolitan Health Service Hawthorn House, 100 Flinders Street Mt Hawthorn WA 6016 In person:Pay the cashier at Graylands Hospital, Rockingham Hospital or Kalamunda Hospital (as the case requires). To elect to go to court, sign this notice here ….……………………………………………………… then send it to the Director, Metropolitan Access and Parking, Hawthorn House, 100 Flinders Street, Mt Hawthorn WA 6016. Make sure you keep a copy. If you go to court and are convicted you may be fined $50 and ordered to pay costs. If enforcement proceedings are taken against you, your driver’s licence and/or vehicle licence may be suspended until you pay the modified penalty and expenses or you elect to go to court.
-[Form 1 inserted in Gazette 26 Nov 2010 p. 5945-6; amended in Gazette 18 Feb 2011 p. 583.]
+Form 1 — Infringement Notice
+Infringement Notice Metropolitan Health Service By-laws 2008
+Notice No. | Issue date | Issue time
+Location
+Vehicle
+Plate no. & type | Make | Model/Style
+Alleged Offence
+Date | Time
+By-law | Modified penalty
+Issuing Officer
+Name | Signature/Officer No.
+You have 28 days from when this Notice is given to you to pay the modified penalty or elect to go to court. If you don’t, enforcement proceedings will be taken against you.
+Paying the modified penalty By post:Send a cheque or money order payable to “Metropolitan Access and Parking” to — Metropolitan Access and Parking PO Box 1135 Osborne Park WA 6916
+In person:Pay at the Metropolitan Access and Parking Department at — 100 Flinders Street Mt. Hawthorn WA
+OR Pay at any Australia Post Office or agency. By telephone:Call 1800 753 191
+Electing to go to court If you wish to elect to go to court, sign here: .................................................................................. Date: ............. then send this notice to — The Chief Executive Officer Metropolitan Access and Parking Department 100 Flinders Street Mt. Hawthorn WA 6016 Make sure you keep a copy. If you go to court and are convicted you may be fined $50 and ordered to pay costs.
+If enforcement proceedings are taken against you, your driver’s licence and/or vehicle licence may be suspended until you pay the modified penalty and expenses or you elect to go to court.
+[Form 1 inserted in Gazette 23 Dec 2011 p. 5444-5.]
 Form 2 — Withdrawal of infringement notice
 Metropolitan Health Service By-laws 2008 Withdrawal of infringement notice | Notice No.
 To [Person to whom infringement notice was issued] | Family name
