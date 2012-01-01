@@ -31,12 +31,12 @@ Standardisation of Formatting Act 2010 s. 4 and 50 | 19 of 2010 | 28 Jun 2010 | 
 Petroleum and Energy Legislation Amendment Act 2010 Pt. 3 (other than s. 149, 163, 165(1)(b) (to the extent that it inserts s. 152(2)(lc)) and 169 (to the extent that it inserts Sch. 3 cl. 4)) | 42 of 2010 | 28 Oct 2010 | 25 May 2011 (see s. 2(b) and Gazette 24 May 2011 p. 1892)
 Reprint 4: The Petroleum (Submerged Lands) Act 1982 as at 5 Aug 2011 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Petroleum (Submerged Lands) Amendment Act 2011 | 57 of 2011 | 30 Nov 2011 | s. 1 and 2: 30 Nov 2011 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2012 (see s. 2(b) and Gazette 30 Dec 2011 p. 5537)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Petroleum and Energy Legislation Amendment Act 2010 s. 149, 163, 165(1)(b) (to the extent that it inserts s. 152(2)(lc)) and 169 (to the extent that it inserts Sch. 3 cl. 4) | 42 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 5 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
-Petroleum (Submerged Lands) Amendment Act 2011 s. 3-35 | 57 of 2011 | 30 Nov 2011 | To be proclaimed (see s. 2(b))
 See the Gas Pipelines Access (Western Australia) Act 1998 s. 9.
 Repealed by the Off-shore (Application of Laws) Act 1982 s. 5.
 On the date as at which this compilation was prepared, the Petroleum and Energy Legislation Amendment Act 2010 s. 149, 163, 165(1)(b) (to the extent that it inserts s. 152(2)(lc)) and 169 (to the extent that it inserts Sch. 3 cl. 4) had not come into operation. They read as follows:
@@ -254,252 +254,63 @@ In accordance with the Personal Property Securities Act 2009 (Commonwealth) sect
 (b) a retention lease granted under section 38B(5);
 (c) a production licence for petroleum granted under section 44(2);
 (d) a licence to construct and operate a pipeline granted under section 65(10).
-On the date as at which this compilation was prepared, the Petroleum (Submerged Lands) Amendment Act 2011 s. 3-35 had not come into operation. They read as follows:
-3.Act amended
-This Act amends the Petroleum (Submerged Lands) Act 1982.
-4.Section 4 amended
-(1) In section 4 delete the definitions of:
-listed OSH law
-OHS inspector
-Safety Authority
-(2) In section 4 insert in alphabetical order:
-listed OSH law means —
-(a)section 124B, to the extent to which that section relates to —
-(i)damage to, or interference with, a facility; or
-(ii)interference with any operation or activity being carried out, or any works being executed, on, by means of, or in connection with, a facility;
-or
-(b)Schedule 5; or
-(c)a regulation made for the purposes of Schedule 5; or
-(d)a regulation made for the purposes of section 151D; or
-(e)any other written law relating to occupational safety and health matters that is prescribed for the purposes of this paragraph;
-5.Section 125 amended
-In section 125(1) delete “except Part IIIA”.
-6.Section 126 amended
-In section 126(1) delete “Act other than Part IIIA,” and insert:
-Act,
-7.Section 137A amended
-In section 137A(2)(c) delete “the Safety Authority or”.
-8.Part IIIA Division 1 heading deleted
-Delete the heading to Part IIIA Division 1.
-9.Section 151A deleted
-Delete section 151A.
-10.Section 151C deleted
-Delete section 151C.
-11.Part IIIA Division 2 heading deleted
-Delete the heading to Part IIIA Division 2.
-12.Section 151E amended
-(1) In section 151E:
-(a) delete “The Safety Authority” and insert:
-(1) The Minister
-(b) delete paragraph (a);
-(c) delete paragraph (d) and insert:
-(d) to investigate accidents, occurrences and circumstances that affect, or have the potential to affect, the occupational safety and health of persons engaged in offshore petroleum operations;
-(d) in paragraph (e) delete “its” and insert:
-the Minister’s
-(e) in paragraph (e) delete “operations;” and insert:
-operations.
-(f) delete paragraphs (f) and (g).
-(2) At the end of section 151E insert:
-(2) The Minister has power to do all things necessary or convenient to be done for or in connection with the performance of the Minister’s functions.
-Note:The heading to amended section 151E is to read:
-Minister’s occupational safety and health functions
-13.Sections 151F and 151G deleted
-Delete sections 151F and 151G.
-14.Part IIIA Divisions 3, 4 and 5 deleted
-Delete Part IIIA Divisions 3, 4 and 5.
-15.Schedule 3 Division 2 inserted
-At the end of Schedule 3 insert:
-Division 2 — Provisions for Petroleum (Submerged Lands) Amendment Act 2011
-6.Interpretation of references to Safety Authority in regulations
-(1) This clause applies to these regulations —
-(a) the Petroleum (Submerged Lands) (Diving Safety) Regulations 2007;
-(b) the Petroleum (Submerged Lands) (Management of Safety on Offshore Facilities) Regulations 2007;
-(c) the Petroleum (Submerged Lands) (Occupational Safety and Health) Regulations 2007;
-(d) the Petroleum (Submerged Lands) (Pipelines) Regulations 2007.
-(2) On and from the commencement of the Petroleum (Submerged Lands) Amendment Act 2011 section 12, a reference in the regulations to which this clause applies to the Safety Authority is to be taken, unless the context otherwise requires, to be a reference to the Minister.
-(3) This clause expires 12 months after the commencement referred to in subclause (2).
-16.Schedule 5 clause 2 amended
-At the end of Schedule 5 clause 2 delete “Safety Authority.” and insert:
-Minister.
-17.Schedule 5 clause 26 amended
-Delete Schedule 5 clause 26(b)(ii) and insert:
-(ii) inspectors.
-18.Schedule 5 clause 33 amended
-In Schedule 5 clause 33(1)(a)(iii) delete “OHS inspector or to the Safety Authority” and insert:
-inspector
-19.Schedule 5 clause 38 amended
-In Schedule 5 clause 38(1) delete “the Safety Authority or an OHS inspector” and insert:
-an inspector
-20.Schedule 5 clause 43 amended
-(1) In Schedule 5 clause 43(4) delete “the Safety Authority or an OHS inspector” and insert:
-an inspector
-(2) In Schedule 5 clause 43(6) delete “OHS inspector or the Safety Authority” and insert:
-inspector
-21.Schedule 5 clause 45 amended
-In Schedule 5 clause 45(2):
-(a) delete “Safety Authority” and insert:
-Minister
-(b) delete “unless it” and insert:
-unless the Minister
-22.Schedule 5 clause 46 amended
-At the end of Schedule 5 clause 46 delete “Safety Authority.” and insert:
-Minister.
-23.Schedule 5 clause 47 amended
-(1) In Schedule 5 clause 47(1) delete “OHS inspector” and insert:
-inspector
-(2) In Schedule 5 clause 47(2):
-(a) delete “Safety Authority” and insert:
-Minister
-(b) delete “OHS inspectors” (each occurrence) and insert:
-inspectors
-(c) delete “it does” and insert:
-the Minister does
-(3) In Schedule 5 clause 47(3):
-(a) delete “Safety Authority” and insert:
-Minister
-(b) delete “it does” and insert:
-the Minister does
-(c) delete “OHS inspector” (each occurrence) and insert:
-inspector
-Note:The heading to amended Schedule 5 clause 47 is to read:
-Powers, functions and duties of inspectors
-24.Schedule 5 Division 4 Subdivision 3 heading amended
-In the heading to Schedule 5 Division 4 Subdivision 3 delete “OHS”.
-25.Schedule 5 clause 49 amended
-In Schedule 5 clause 49(2):
-(a) in paragraph (c) delete “OHS inspector’s” and insert:
-inspector’s
-(b) in paragraph (d) delete “Safety Authority’s” and insert:
-Minister’s
-26.Schedule 5 clause 50 amended
-In Schedule 5 clause 50(2):
-(a) in paragraph (a) delete “OHS inspector’s” and insert:
-inspector’s
-(b) in paragraph (b) delete “Safety Authority’s” and insert:
-Minister’s
-27.Schedule 5 clause 51 amended
-In Schedule 5 clause 51(3):
-(a) in paragraph (b) delete “OHS inspector’s” and insert:
-inspector’s
-(b) in paragraph (c)(i) delete “Safety Authority’s” and insert:
-Minister’s
-28.Schedule 5 clause 53 amended
-In Schedule 5 clause 53:
-(a) delete “OHS inspector” and insert:
-inspector
-(b) delete “OHS inspector’s” and insert:
-inspector’s
-Note:The heading to amended Schedule 5 clause 53 is to read:
-Obstructing or hindering inspector
-29.Schedule 5 clause 54 amended
-In Schedule 5 clause 54(1)(f) delete “OHS inspector’s” and insert:
-inspector’s
-30.Schedule 5 clause 59 amended
-In Schedule 5 clause 59(3)(a) delete “OHS inspector’s” and insert:
-inspector’s
-31.Schedule 5 clause 64 amended
-(1) In Schedule 5 clause 64(2)(a) delete “OHS inspector’s” and insert:
-inspector’s
-(2) In Schedule 5 clause 64(3):
-(a) delete “Safety Authority” and insert:
-Minister
-(b) delete “it wishes” and insert:
-the Minister wishes
-32.Schedule 5 Division 4 Subdivision 5 heading amended
-In the heading to Schedule 5 Division 4 Subdivision 5 delete “OHS”.
-33.Schedule 5 clause 78 amended
-(1) Delete Schedule 5 clause 78(1) and insert:
-(1) Proceedings for an offence against a listed OSH law may be instituted by an inspector, but an inspector is not to be personally responsible for any costs incurred by or awarded against the inspector in connection with any proceeding for an offence against a listed OSH law.
-(2) In Schedule 5 clause 78(2) delete “the Safety Authority” and insert:
-an inspector
-(3) In Schedule 5 clause 78(3) delete “the Safety Authority” (each occurrence) and insert:
-an inspector
-(4) In Schedule 5 clause 78(5) delete “The Safety Authority” and insert:
-An inspector
-34.Various references in Schedule 5 to “OHS inspector” amended
-In Schedule 5 in the provisions listed in the Table delete “OHS inspector” (each occurrence) and insert:
-inspector
-Table
-Sch. 5 cl. 2 | Sch. 5 cl. 33(1)(a)(iv) and (c)(i)
-Sch. 5 cl. 34(4)(a) | Sch. 5 cl. 38(2), (3), (4), (6)(a) and (8)
-Sch. 5 cl. 39(1)(b)(i) | Sch. 5 cl. 43(5)
-Sch. 5 cl. 44(b)(ii) | Sch. 5 cl. 46
-Sch. 5 cl. 48(1) and (2) | Sch. 5 cl. 49(1), (2) and (3)
-Sch. 5 cl. 50(1) and (2) | Sch. 5 cl. 51(1), (2), (3), (4) and (5)
-Sch. 5 cl. 52(1) | Sch. 5 cl. 54(1) and (2)
-Sch. 5 cl. 55(1) and (3) | Sch. 5 cl. 57(1), (2), (3), (4) and (5)
-Sch. 5 cl. 58(1), (2), (3), (5) and (6) | Sch. 5 cl. 59(1), (5) and (7)
-Sch. 5 cl. 60(2), (3) and (4) | Sch. 5 cl. 61(1), (4)(a), (5) and (8)
-Sch. 5 cl. 64(1) and (2)(b) | Sch. 5 cl. 65(1), (3) and (9)
-Sch. 5 cl. 77(1)(g)(ii)
-Note:The heading to amended Schedule 5 clause 65 is to read:
-Reviews of decisions of inspectors
-35.Various references in Schedule 5 to “Safety Authority” amended
-In Schedule 5 in the provisions listed in the Table delete “Safety Authority” (each occurrence) and insert:
-Minister
-Table
-Sch. 5 cl. 25(2) and (8) | Sch. 5 cl. 29(1)
-Sch. 5 cl. 34(2) | Sch. 5 cl. 45(1)
-Sch. 5 cl. 48(2) | Sch. 5 cl. 64(1), (4) and (5)
-Sch. 5 cl. 71(1) | Sch. 5 cl. 72(1)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 access authority4
 access authority area9(1)
-accidentSch. 5 cl. 3
-actual supplierSch. 5 cl. 12(2)(b)
+accidentSch. 5, cl. 3
+actual supplierSch. 5, cl. 12(2)
 adjacent area4, 5(2A), 60K(2)
-amending Act153(3), Sch. 3 cl. 1
+amending Act153(3), Sch. 3, cl. 1
 application for a primary licence4
 application for a secondary licence4
 approved4
 area to which the surrender relates104(5)
-associated offshore placeSch. 5 cl. 3
+associated offshore placeSch. 5, cl. 3
 Australian Standard137A(4)
 Australian/New Zealand Standard137A(4)
 authorisation124A(3)
 block4
-Board151A
 cancelled106(1)
-CEO137A(4), 151A
+CEO137A(4)
 charge81(16)
-commencement day32A(1)(i)
+commencement day32A(1)
 Commonwealth Act4, 11
 Commonwealth instrument6A(1)
 Commonwealth licence area9(4)
 Commonwealth Minister4
 construct4
 construction4
-contractSch. 5 cl. 3
-contractorSch. 5 cl. 3
+contractSch. 5, cl. 3
+contractorSch. 5, cl. 3
 corresponding law4
 court137(2)
-dangerous occurrenceSch. 5 cl. 3
+dangerous occurrenceSch. 5, cl. 3
 dealing59(10)
 debenture81(16)
 Designated Authority11
-designated work groupSch. 5 cl. 3
+designated work groupSch. 5, cl. 3
 document4
-employeeSch. 5 cl. 3
-employerSch. 5 cl. 3
-equipment supplierSch. 5 cl. 14(1)(c)(i)
-existing pipelineSch. 5 cl. 82(4)
+employeeSch. 5, cl. 3
+employerSch. 5, cl. 3
+equipment supplierSch. 5, cl. 14(1)
+existing pipelineSch. 5, cl. 82(4)
 explore for petroleum19(2)
-facility4, Sch. 5 cl. 3 and 4(9)
+facility4, Sch. 5, cl. 3, Sch. 5, cl. 4(9)
 federal duty145A(3)
 first area6A(3)
 Gazettal day153(1)
 good oil-field practice4
 good processing and transport practice4
 graticular section4
-group memberSch. 5 cl. 3
-improvement noticeSch. 5 cl. 3
+group memberSch. 5, cl. 3
+improvement noticeSch. 5, cl. 3
 infrastructure facilities4, 6B(1)
 infrastructure licence4
 infrastructure licence area4
 infrastructure licensee4
-inspectionSch. 5 cl. 3
+inspectionSch. 5, cl. 3
 inspector4
 interstate Minister4
 Joint Authority4
@@ -509,23 +320,22 @@ lessee4
 licence4
 licence area4
 licensee4
-listed OSH law4, 151C
+listed OSH law4
 location4
 marine reserve18A(2)
-member of the workforceSch. 5 cl. 3
+member of the workforceSch. 5, cl. 3
 native title holders124A(3)
 natural resources4
 offshore area4
 offshore petroleum operation4
-OHS inspector4
 operations area98(1)
 operative day153(5)
-operator98(1), Sch. 5 cl. 3
-operator’s representativeSch. 5 cl. 3 and 5(1)
+operator98(1), Sch. 5, cl. 3
+operator’s representativeSch. 5, cl. 3, 5, cl. 5(1)
 original licence51(1)
-ostensible supplierSch. 5 cl. 12(2)
+ostensible supplierSch. 5, cl. 12(2)
 other licence area9(6)
-ownSch. 5 cl. 3
+ownSch. 5, cl. 3
 partly cancelled4
 partly determined4
 permit4
@@ -536,61 +346,61 @@ petroleum mining instrument6A(1)
 petroleum pool4
 petroleum title112(13)
 pipeline4
-pipeline licence4, Sch. 5 cl. 82(4)
+pipeline licence4, Sch. 5, cl. 82(4)
 pipeline licensee4
 pipeline operator under the Commonwealth Act or a corresponding law64(5), 65(13)
 place4
-plantSch. 5 cl. 3
-premisesSch. 5 cl. 3
+plantSch. 5, cl. 3
+premisesSch. 5, cl. 3
 prescribed occupational safety and health laws15A(3)
 primary entitlement4
 primary licence4
-prohibition noticeSch. 5 cl. 3
-proposed facilitySch. 5 cl. 3
+prohibition noticeSch. 5, cl. 3
+proposed facilitySch. 5, cl. 3
 proposed infrastructure licence60D(1)
 pumping station4
-recoverySch. 5 cl. 3
+recoverySch. 5, cl. 3
 register4
 registered holder4
-registered organisationSch. 5 cl. 3
+registered organisationSch. 5, cl. 3
 Registration Fees Act4
-regulated business premisesSch. 5 cl. 3
-regulations4, Sch. 5 cl. 3
-relevant personSch. 5 cl. 7
+regulated business premisesSch. 5, cl. 3
+regulations4, Sch. 5, cl. 3
+relevant personSch. 5, cl. 7
 relinquished area4
-responsible personSch. 5 cl. 37(2) and 61(1)
-reviewing authoritySch. 5 cl. 22(5) and 65(10)
+responsible personSch. 5, cl. 37(2), 5, cl. 61(1)
+reviewing authoritySch. 5, cl. 22(5), 5, cl. 65(10)
 royalty period4
 royalty value4
-Safety Authority4
 safety zone119(1)
 scheduled area4
-second area6A(5)(a)
+second area6A(5)
 secondary licence4
 secondary line4
 special prospecting authority4
 structure124B(2)
-supervisorSch. 5 cl. 43(1)(a)
+supervisorSch. 5, cl. 43(1)
 tank station4
 terminal station4
 territorial sea4
+the Barrow Island PipelineSch. 5, cl. 82(4)
+the Withnell Bay PipelineSch. 5, cl. 82(4)
 this Act106(1), 126(4)
 this Part106(1)
-this ScheduleSch. 5 cl. 82(4)
+this ScheduleSch. 5, cl. 82(4)
 title74J, 138A(5)
 transitional matter153(1)
 transitional regulations153(1)
-TribunalSch. 5 cl. 3
+TribunalSch. 5, cl. 3
 unit development59(1)
-unused area38CA(1)(b)
+unused area38CA(1)
 valve station4
 vessel4
 water line4
 well4
 wholly cancelled4
 wholly determined4
-workSch. 5 cl. 3
-work group employerSch. 5 cl. 3
-workforce representativeSch. 5 cl. 3
-workplaceSch. 5 cl. 3
-By Authority: JOHN A. STRIJK, Government Printer
+workSch. 5, cl. 3
+work group employerSch. 5, cl. 3
+workforce representativeSch. 5, cl. 3
+workplaceSch. 5, cl. 3
