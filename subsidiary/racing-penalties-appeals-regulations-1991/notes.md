@@ -16,21 +16,4 @@ Reprint 2: The Racing Penalties (Appeals) Regulations 1991 as at 14 Mar 2008 (in
  | Racing Penalties (Appeals) Amendment Regulations 2008 | 28 Oct 2008 p. 4734 | r. 1 and 2: 28 Oct 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2009 (see r. 2(b))
 Racing Penalties (Appeals) Amendment Regulations 2009 | 30 Oct 2009 p. 4319-20 | r. 1 and 2: 30 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
 Racing Penalties (Appeals) Amendment Regulations 2010 | 19 Nov 2010 p. 5742-3 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Racing Penalties (Appeals) Amendment Regulations 2011 r. 3 and 4 | 4 Nov 2011 p. 4639-40 | 1 Jan 2012 (see r. 2(b))
-On the date as at which this compilation was prepared, the Racing Penalties (Appeals) Amendment Regulations 2011 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Racing Penalties (Appeals) Regulations 1991.
-4.Regulation 4 amended
-(1) In regulation 4(1):
-(a) in paragraph (a) delete “$135; and” and insert:
-$140; and
-(b) in paragraph (b) delete “$330.” and insert:
-$340.
-(2) In regulation 4(2):
-(a) in paragraph (a)(i) delete “$135; and” and insert:
-$140; and
-(b) in paragraph (a)(ii) delete “$330;” and insert:
-$340;
+Racing Penalties (Appeals) Amendment Regulations 2011 | 4 Nov 2011 p. 4639-40 | r. 1 and 2: 4 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2012 (see r. 2(b))
