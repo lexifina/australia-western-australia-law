@@ -5,3 +5,26 @@ Citation | Gazettal | Commencement
 Royal Perth Hospital By-laws 2009 | 17 Apr 2009 p. 1295-315 | bl. 1 and 2: 17 Apr 2009 (see bl. 2(a)); By-laws other than bl. 1 and 2: 18 Apr 2009 (see bl. 2(b))
 Royal Perth Hospital Amendment By-laws 2010 | 26 Nov 2010 p. 5948-9 | bl. 1 and 2: 26 Nov 2010 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jan 2011 (see bl. 2(b))
 Royal Perth Hospital Amendment By-laws 2011 | 24 Jun 2011 p. 2505-6 | bl. 1 and 2: 24 Jun 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2011 (see bl. 2(b))
+Royal Perth Hospital Amendment By-laws (No. 2) 2011 | 23 Dec 2011 p. 5434-8 | bl. 1 and 2: 23 Dec 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jan 2012 (see bl. 2(b))
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+alleged offender19
+authorised person3(1)
+chief executive officer3(1)
+driver3(1)
+Hospital3(1)
+infringement notice19
+modified penalty19
+parking facility3(1)
+parking space3(1)
+permission3(2)
+permit3(1)
+registered owner3(1)
+roadway3(1)
+sign3(1)
+site3(1)
+specified5(1), 16(1), 17(1)
+speed restriction sign3(1)
+vehicle3(1)
+Wellington Street Campus3(1)
