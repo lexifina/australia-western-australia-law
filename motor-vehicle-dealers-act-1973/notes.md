@@ -1,16 +1,16 @@
 Notes
-This is a compilation of the Motor Vehicle Dealers Act 1973 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 January 2012 of the Motor Vehicle Dealers Act 1973 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Motor Vehicle Dealers Act 1973 | 101 of 1973 | 28 Dec 1973 | s. 1-3 and 5-13: 15 Feb 1974 (see s. 2 and Gazette 15 Feb 1974 p. 375); s. 14-24, 30, 50 and 56: 5 Apr 1974 (see s. 2 and Gazette 5 Apr 1974 p. 1180); balance, except s. 40: 12 Aug 1974 (see s. 2 and Gazette 9 Aug 1974 p. 2935)
+Motor Vehicle Dealers Act 1973 | 101 of 1973 | 28 Dec 1973 | s. 1-3 and 5-13: 15 Feb 1974 (see s. 2 and Gazette 15 Feb 1974 p. 375); s. 14-24, 30, 50 and 56: 5 Apr 1974 (see s. 2 and Gazette 5 Apr 1974 p. 1180); s. 4, 25-29, 31-39, 41-49 and 51-55: 12 Aug 1974 (see s. 2 and Gazette 9 Aug 1974 p. 2935)
 Acts Amendment (Road Traffic) Act 1974 Pt. III | 58 of 1974 | 3 Dec 1974 | 29 Aug 1975 (see s. 2 and Gazette 29 Aug 1975 p. 3085)
 Motor Vehicle Dealers Act Amendment Act 1975 | 74 of 1975 | 14 Nov 1975 | 9 Jan 1976 (see s. 2 and Gazette 9 Jan 1976 p. 2)
 Motor Vehicle Dealers Act Amendment Act 1976 | 66 of 1976 | 22 Sep 1976 | 22 Sep 1976
 Reprint of the Motor Vehicle Dealers Act 1973 approved 14 Dec 1978 (includes amendments listed above)
 Motor Vehicle Dealers Act Amendment Act 1979 | 49 of 1979 | 7 Nov 1979 | 1 Jan 1980 (see s. 2 and Gazette 21 Dec 1979 p. 3909)
 Motor Vehicle Dealers Amendment Act 1981 | 87 of 1981 | 26 Nov 1981 | Act other than s. 15 and 16: 26 Nov 1981 (see s. 2(1)); s. 15 and 16: 1 Feb 1982 (see s. 2(2) and Gazette 31 Dec 1981 p. 5364)
-Acts Amendment (Traffic Board) Act 1981 Pt. III | 106 of 1981 | 4 Dec 1981 | 2 Feb 1982 (see s. 2 and Gazette 16 Jul 1982 p. 2713)
-Motor Vehicle Dealers Amendment Act 1982 | 6 of 1982 | 6 May 1982 | 1 Aug 1982 (see s. 2 and Gazette 2 Feb 1982 p. 393)
+Acts Amendment (Traffic Board) Act 1981 Pt. III | 106 of 1981 | 4 Dec 1981 | 2 Feb 1982 (see s. 2 and Gazette 2 Feb 1982 p. 393)
+Motor Vehicle Dealers Amendment Act 1982 | 6 of 1982 | 6 May 1982 | 1 Aug 1982 (see s. 2 and Gazette 16 Jul 1982 p. 2713)
 Motor Vehicle Dealers Amendment Act (No. 2) 1982 | 68 of 1982 | 6 Oct 1982 | 6 Oct 1982
 Reprint of the Motor Vehicle Dealers Act 1973 approved 1 Feb 1983 (includes amendments listed above)
 Acts Amendment (Consumer Affairs) Act 1985 Pt. V | 1 of 1985 | 8 Mar 1985 | s. 24 and 25: 6 Apr 1983 (see s. 2(1)); s. 26 and 27: 8 Mar 1985 (see s. 2(3))
@@ -27,16 +27,17 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 86 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 4: The Motor Vehicle Dealers Act 1973 as at 17 Jun 2005 (includes amendments listed above)
-Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
+Limitation Legislation Amendment and Repeal Act 2005 s. 23 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2(1))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 15 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 7 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 109 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 5: The Motor Vehicle Dealers Act 1973 as at 11 May 2007 (includes amendments listed above except those in the Consumer Protection Legislation Amendment and Repeal Act 2006)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 94 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 57 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-Acts Amendment (Fair Trading) Act 2010 Pt. 4 | 58 of 2010 | 8 Dec 2010 | s. 37: 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805); Pt. 4 (other than s. 37): 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Acts Amendment (Fair Trading) Act 2010 Pt. 4 | 58 of 2010 | 8 Dec 2010 | s. 36: 1 Jan 2011 (see s. 2(b)(ii) and Gazette 24 Dec 2010 p. 6805); s. 37: 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805); Pt. 4 (other than s. 36 and 37): 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
+Reprint 6: The Motor Vehicle Dealers Act 1973 as at 6 Jan 2012 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 | 73 of 2003 | 15 Dec 2003 | To be proclaimed (see s. 2)
@@ -44,7 +45,6 @@ Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt.
 The Motor Vehicle Dealers Act 1973 s. 40 did not come into operation and was repealed by the Motor Vehicle Dealers Amendment Act 2002 s. 62.
 The Business Licensing Amendment Act 1995 s. 38 is a transitional provision that is of no further effect.
 The Motor Vehicle Dealers Amendment Act 2002 Pt. 7 reads as follows:
-“
 Part 7 —Transitional provisions
 73.Definition
 In this Part —
@@ -92,9 +92,7 @@ for the purpose of providing an effective and efficient transition from the prin
 (3) To the extent that a regulation under subsection (1) has effect before the day of its publication in the Gazette, it does not —
 (a) affect in a manner prejudicial to any person the rights of that person existing before the day of its publication; or
 (b) impose liabilities on any person in respect of anything done or omitted to be done before the day of its publication.
-”.
 The Motor Vehicle Dealers Amendment Act 2003 s. 25 and 26 read as follows:
-“
 25.Transitional provision: membership of Board
 The persons who were members of the Motor Vehicle Dealers Licensing Board immediately before the commencement of section 10 cease to hold office on that commencement.
 26.Transitional provisions: change of title of Board
@@ -105,27 +103,7 @@ The persons who were members of the Motor Vehicle Dealers Licensing Board immedi
 (c) any proceedings in progress; or
 (d) anything previously done by, to or in respect of the body.
 (3) On and after the commencement of this Act a reference to the “Motor Vehicle Dealers Licensing Board” in any instrument (including any subsidiary legislation) is to be construed, unless the context otherwise requires, as if the reference had been amended to be a reference to the “Motor Vehicle Industry Board”.
-”.
-The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 (other than s. 151) (as amended by Acts Amendment (Fair Trading) Act 2010 s. 184) reads as follows:
-“
-Division 23 — Transitional provisions
-[151.Deleted by No. 58 of 2010 s. 184.]
-152.Commissioner for Corporate Affairs and Registrar of Co-operative and Financial Institutions
-(1) A thing done or omitted to be done by, to or in relation to, the Commissioner for Corporate Affairs before commencement under, or for the purposes of, the Companies (Co-operative) Act 1943 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
-(2) A thing done or omitted to be done by, to or in relation to, the Registrar of Co-operative and Financial Institutions before commencement under, or for the purposes of, the Co-operative and Provident Societies Act 1903 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
-153.Consumer Affairs Act 1971
-Each office in existence immediately before commencement because of section 15(1) of the Consumer Affairs Act 1971 does not cease merely because that subsection is repealed by this Act.
-154.Petroleum Products Pricing Act 1983
-Each office in existence immediately before commencement because of section 5(2)(b) of the Petroleum Products Pricing Act 1983 does not cease merely because that paragraph is deleted by this Act.
-155.Interpretation
-In this Division —
-commencement means the time at which this Division comes into operation;
-Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
-Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
-”.
-On the date as at which this compilation was prepared, the Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 had not come into operation. They read as follows:
-“
+On the date as at which this reprint was prepared, the Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 had not come into operation. They read as follows:
 20.Part III Division 5 Subdivision 1 heading inserted
 Before section 36 the following heading is inserted —
 “ Subdivision 1 — Resolution of disputes ”.
@@ -170,11 +148,86 @@ A person must not, in relation to a request under section 39B(1), or any attempt
 (a) false or misleading in a material particular; or
 (b) likely to deceive in a material way.
 Penalty: $5 000.
+The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 has transitional provisions some of which may be relevant to this Act.
 The amendments in the Acts Amendment (Fair Trading) Act 2010 s. 177 will not come into operation (see s. 2(b)(i)).
-On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 7 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 7 had not come into operation. It reads as follows:
 Division 7 — Motor Vehicle Dealers Act 1973 amended
 56.Act amended
 This Division amends the Motor Vehicle Dealers Act 1973.
 57.Section 32A amended
 In section 32A delete the definition of security interest and insert:
 security interest has the meaning given in the Personal Property Securities Act 2009 (Commonwealth) section 10;
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+accused52(3)
+approved5(1)
+authorisation5(1)
+authorised officer5(1)
+authorised premises5(1), 27(1a)(b)
+“built date” shown on the vehicle34F(4)
+buying or selling5(1)
+camper van5(4)
+car hire operator5(1)
+car market5(1)
+car market operator5(1)
+cash price5(1)
+category 1 vehicle34C(1)
+category 2 vehicle34C(1)
+certificate of registration5(1)
+collateral credit agreement41A(7)
+commencement day57
+Commissioner5(1)
+compliance plate34F(4)
+consignment agreement28(12), 32A
+consignor32A
+dealer5(1), 27(1a)
+dealer’s licence5(1)
+defect28(12)
+defective28(12)
+demonstration vehicle5(1)
+Department5(1)
+designated official55A(1)
+financier5(1)
+former Board57
+grant5(1)
+hire-purchase agreement5(1)
+hold5(1)
+inspecting officer28(12)
+liability57
+licence5(1)
+model designation5(1)
+motor cycle5(4)
+other person53(1)
+owner28(12)
+passenger car5(4)
+passenger car derivative5(4)
+person aggrieved22(2)
+prescribed amount45(4)
+registered company auditor32I(2)
+relevant maximum fine20B(3)
+relevant person17C(4)
+residual assets63(b)
+reviewable decision22(2)
+right57
+sale5(1)
+salesperson5(1), 27(1a)(a)
+salesperson’s licence5(1)
+second-hand vehicle5(1a)
+section5(1)
+security interest32A
+sell5(1)
+sold5(1)
+specified65(6)
+sufficient knowledge of this Act15(6)
+sufficient resources15(6)
+trade owner5(1)
+trade-in32D(2)
+transitional matter65(2)
+trust account32A
+vehicle5(2) and (3), 34C(1)
+yard manager5(1), 27(1a)(a)
+yard manager’s licence5(1)
+year of first registration5(1)
+year of manufacture5(1)
