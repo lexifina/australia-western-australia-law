@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Supreme Court Act 1935 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 January 2012 of the Supreme Court Act 1935 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Supreme Court Act 1935 | 36 of 1935 (26 Geo. V No. 36) | 3 Mar 1936 | 1 May 1936 (see s. 1 and Gazette 9 Apr 1936 p. 527). Reserved for Royal Assent 7 Jan 1936. Assented: 3 Mar 1936 (see Gazette 3 Apr 1936 p. 484)
@@ -86,11 +86,12 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 9 | 8 of 2009 | 21 M
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 13 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
 Standardisation of Formatting Act 2010 s. 4, 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 9: The Supreme Court Act 1935 as at 6 Jan 2012 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Footnote no longer applicable.
+The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
 The Acts Amendment (Court of Appeal) Act 2004 s. 5(2) and Pt. 5 read as follows:
 5.Sections 6 and 7 replaced by sections 6, 7 and 7A, and transitional provision
 (2) A person who holds any of the offices of which the Court consists immediately before the coming into operation of subsection (1) continues to hold the corresponding office in the General Division when subsection (1) comes into operation.
@@ -108,9 +109,8 @@ then the hearing and determination of the appeal or application may be completed
 (1) A reference in a written law or book, document or writing to the Full Court of the Supreme Court (whether those or some other words are used) is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Court of Appeal.
 (2) A reference in a written law or book, document or writing to the Court of Criminal Appeal is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Court of Appeal.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
-The Companies Act 1961 was superseded by the Companies (Western Australia) Code, see section 18 of the Companies (Application of Laws) Act 1981. The Companies (Western Australia) Code was superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1990 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
-Supreme Court Ordinance 1861 commenced on 18 June 1861. It was repealed by this Act, s. 3.
-Supreme Court Act 1880 commenced on 1 August 1881. It was repealed by this Act, s. 3.
+The Supreme Court Ordinance 1861 commenced on 18 June 1861. It was repealed by this Act, s. 3.
+The Supreme Court Act 1880 commenced on 1 August 1881. It was repealed by this Act, s. 3.
 The Acts Amendment (Insolvent Estates) Act 1984 s. 11 contains a transitional provision about persons who died before that Act commenced
 The Acts Amendment (Actions for Damages) Act 1986 s. 6(2) contains a transitional provision about causes of action in which a court had given judgment before that section commenced.
 Repealed by the Statute Law Revision Act 1967.
@@ -122,7 +122,7 @@ Part 6 — Validation
 To the extent that, before the coming into operation of section 22, provisions of the Rules of the Supreme Court 1971 related or purported to relate to mediation —
 (a) those provisions are to be regarded as having been validly and lawfully made and published under and within the authority of the Supreme Court Act 1935 and to have always had effect according to their terms; and
 (b) anything done under or purportedly done under those provisions is to be regarded as having been validly done and, to have always been, effectual in all respects.
-The Acts Amendment (Court of Appeal) Act 2004 s. 14 repealed by the Criminal Law and Evidence Amendment Act 2008 s. 75(2).
+The Acts Amendment (Court of Appeal) Act 2004 s. 14 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 75(2).
 The Courts Legislation Amendment and Repeal Act 2004 s. 128 (to amend s. 20) was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(5).
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 Part 22 — Transitional provisions
@@ -189,11 +189,9 @@ Division 2 — General
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State) the rights of that person existing before the day of publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of publication.
 The Limitation Legislation Amendment and Repeal Act 2005 s. 18(2) reads as follows:
-“
 18.Section 29 repealed and a savings provision
 (2) The Supreme Court Act 1935 section 29, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
-”.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 had not come into operation. It reads as follows:
 68.Supreme Court Act 1935 amended
 Section 11B of the Supreme Court Act 1935 is amended as follows:
 (a) by repealing subsection (2) and inserting the following subsection instead —
