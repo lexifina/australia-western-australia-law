@@ -1,6 +1,6 @@
 ## Schedule 2 — 1978 Protocol
 [s. 3]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 PROTOCOL OF 1978 RELATING TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973
 THE PARTIES TO THE PRESENT PROTOCOL,
 RECOGNIZING the significant contribution which can be made by the International Convention for the Prevention of Pollution from Ships, 1973, to the protection of the marine environment from pollution from ships,
@@ -152,7 +152,7 @@ Regulation 13A
 Requirements for Oil Tankers with Dedicated Clean Ballast Tanks
 (1) An oil tanker operating with dedicated clean ballast tanks in accordance with the provisions of Regulation 13(9) or (10) of this Annex, shall have adequate tank capacity, dedicated solely to the carriage of clean ballast as defined in Regulation 1(16) of this Annex, to meet the requirements of Regulation 13(2) and (3) of this Annex.
 (2) The arrangements and operational procedures for dedicated clean ballast tanks shall comply with the requirements established by the Administration. Such requirements shall contain at least all the provisions of the Specifications for Oil Tankers with Dedicated Clean Ballast Tanks adopted by the International Conference on Tanker Safety and Pollution Prevention, 1978, in Resolution 14 and as may be revised by the Organization.
-(3) An oil tanker operating with dedicated clean ballast tanks shall be equipped with an oil content meter, approved by the Administration on the basis of specifications recommended by the Organization[14]*, to enable supervision of the oil content in ballast water being discharged. The oil content meter shall be installed no later than at the first scheduled shipyard visit of the tanker following the entry into force of the present Protocol. Until such time as the oil content meter is installed, it shall immediately before discharge of ballast be established by examination of the ballast water from dedicated tanks that no contamination with oil has taken place.
+(3) An oil tanker operating with dedicated clean ballast tanks shall be equipped with an oil content meter, approved by the Administration on the basis of specifications recommended by the Organization[13]*, to enable supervision of the oil content in ballast water being discharged. The oil content meter shall be installed no later than at the first scheduled shipyard visit of the tanker following the entry into force of the present Protocol. Until such time as the oil content meter is installed, it shall immediately before discharge of ballast be established by examination of the ballast water from dedicated tanks that no contamination with oil has taken place.
 (4) Every oil tanker operating with dedicated clean ballast tanks shall be provided with:
 (a) a Dedicated Clean Ballast Tank Operation Manual detailing the system and specifying operational procedures. Such a manual shall be to the satisfaction of the Administration and shall contain all the information set out in the Specifications referred to in paragraph (2) of this Regulation. If an alteration affecting the dedicated clean ballast tank system is made, the Operation Manual shall be revised accordingly; and
 (b) a Supplement to the Oil Record Book referred to in Regulation 20 of this Annex as set out in Supplement 1 to Appendix III of this Annex. The Supplement shall be permanently attached to the Oil Record Book.
@@ -238,7 +238,7 @@ by .............................................................................
 (full designation of the competent person or organization authorized under the provisions of the Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973)
 Name of Ship | Distinctive Number or Letters | Port of Registry | Gross Tonnage
 Type of ship:
-Crude oil tanker[15]*
+Crude oil tanker[14]*
 Product carrier*
 Crude oil/product carrier*
 Ship other than an oil tanker with cargo tanks coming under Regulation 2(2) of Annex I of the Protocol*
@@ -248,7 +248,7 @@ Date on which keel was laid or ship was at a similar stage of construction or on
 Date of delivery or completion of major conversion .............................................
 PART AALL SHIPS
 The ship is equipped with: for ships of 400 tons gross tonnage and above:
-(a) oily-water separating equipment[16]* (capable of producing effluent with an oil content not exceeding 100 parts per million)
+(a) oily-water separating equipment[15]* (capable of producing effluent with an oil content not exceeding 100 parts per million)
 (b) an oil filtering system* (capable of producing effluent with an oil content not exceeding 100 parts per million)
 for ships of 10,000 tons gross tonnage and above:
 (c) an oil discharge monitoring and control system* (additional to (a) or (b) above) or
@@ -267,19 +267,19 @@ Date ............................................................
 ________________________
 *This entry need not be reproduced on a certificate other than the first Certificate issued to any ship.
 **The period after the entry into force of the Protocol within which oily-water separating equipment, oil discharge control systems, oil filtering systems and/or slop tank arrangements must be provided is set out in Regulations 13A(3), 15(1) and 16(4) of Annex I of the Protocol.
-PART BOIL TANKERS[17]*
+PART BOIL TANKERS[16]*
 Carrying Capacity of Ship (m3) | Deadweight of Ship (metric tons) | Length of Ship (m)
 It is certified that this ship is constructed and equipped, and must operate, in accordance with the following:
-1. This ship is:
-(a) required to be constructed according to and complies with[18]*
+1.This ship is:
+(a) required to be constructed according to and complies with[17]*
 (b) not required to be constructed according to*
 (c) not required to be constructed according to, but complies with*
 the requirements of Regulation 24 of Annex I of the Protocol.
-2. This ship is:
+2.This ship is:
 (a) required to be constructed according to and complies with*
 (b) not required to be constructed according to*
 the requirements of Regulation 13E of Annex I of the Protocol.
-3. This ship is:
+3.This ship is:
 (a) required to be provided with segregated ballast tanks according to, and complies with*
 (b) not required to be provided with segregated ballast tanks according to*
 (c) not required to be provided with segregated ballast tanks according to, but complies with*
@@ -287,11 +287,11 @@ the requirements of Regulation 13E of Annex I of the Protocol.
 the requirements of Regulation 13 of Annex I of the Protocol
 (e) fitted with a cargo tank cleaning system using crude oil washing in accordance with the provisions of Regulation 13B of Annex I of the Protocol, in lieu of being provided with segregated ballast tanks*
 (f) provided with dedicated clean ballast tanks in accordance with the provisions of Regulation 13A of Annex I of the Protocol, in lieu of being either provided with segregated ballast tanks or fitted with a cargo tank cleaning system using crude oil washing*
-4. This ship is:
-(a) required to be fitted with a cargo tank cleaning system using crude oil washing according to, and complies with[19]*
+4.This ship is:
+(a) required to be fitted with a cargo tank cleaning system using crude oil washing according to, and complies with[18]*
 (b) not required to be fitted with a cargo tank cleaning system using crude oil washing according to*
 the requirements of Regulation 13(6) of Annex I of the Protocol.
-Segregated ballast tanks[20]**
+Segregated ballast tanks[19]**
 The segregated ballast tanks are distributed as follows:
 Tank | Volume (m3) | Tank | Volume (m3)
 Dedicated Clean Ballast Tanks**
@@ -300,9 +300,9 @@ This ship is operating with dedicated clean ballast tanks until ................
 in accordance with the requirements of Regulation 13A of Annex I of the Protocol.
 The dedicated clean ballast tanks are designated as follows:
 Tank | Volume (m3) | Tank | Volume (m3)
-Manual[21]*
+Manual[20]*
 This is to certify that this ship has been supplied with:
-(a) a valid Dedicated Clean Ballast Tank Operation Manual in accordance with Regulation 13A of Annex I of the Protocol[22]**
+(a) a valid Dedicated Clean Ballast Tank Operation Manual in accordance with Regulation 13A of Annex I of the Protocol[21]**
 (b) a valid Operations and Equipment Manual for Crude Oil Washing in accordance with Regulation 13B of Annex I of the Protocol**
 Identification of the valid Manual .........................................................................
 Signed ......................................................
@@ -319,7 +319,7 @@ Date...........................................................
 PART CEXEMPTIONS*
 This is to certify that this ship is:
 (a) solely engaged in trade between..................................................................................................and............................................................................in accordance with Regulation 13C of Annex I of the Protocol**; or
-(b) operating with special ballast arrangements in accordance with Regulation 13D of Annex I of the Protocol[23]**
+(b) operating with special ballast arrangements in accordance with Regulation 13D of Annex I of the Protocol[22]**
 and is therefore exempted from the requirements of Regulation 13 of Annex I of the Protocol.
 Signed ......................................................
 (Signature of duly authorized official)
@@ -367,7 +367,7 @@ Appendix III
 FORM OF OIL RECORD BOOK
 The following forms of Supplements to the Oil Record Book are added to the existing form:
 Supplement 1
-FORM OF SUPPLEMENT TO OIL RECORD BOOK FOR OIL TANKERS OPERATED WITH DEDICATED CLEAN BALLAST TANKS[24]*
+FORM OF SUPPLEMENT TO OIL RECORD BOOK FOR OIL TANKERS OPERATED WITH DEDICATED CLEAN BALLAST TANKS[23]*
 Name of ship ..........................................................................................................
 Distinctive numbers or letters ................................................................................
 Total cargo carrying capacity ........................................................... cubic metres
@@ -398,25 +398,25 @@ Date of entry ................................Officer in charge ................
 The undersigned certifies that, in addition to the above, all sea valves overboard discharge valves, cargo tank and pipeline connexions between tanks or inter-tank connexions, were secured on completion of discharge of clean ballast and that the pump(s) and pipes designated for clean ballast operations were properly cleaned upon completion of discharge of clean ballast.
 Date of entry ................................Officer in charge .............................................. Master ..............................................................
 Supplement 2
-FORM OF SUPPLEMENT TO OIL RECORD BOOK FOR CRUDE OIL TANKERS OPERATING WITH A CARGO TANK CLEANING PROCEDURE USING CRUDE OIL WASHING[25]*
+FORM OF SUPPLEMENT TO OIL RECORD BOOK FOR CRUDE OIL TANKERS OPERATING WITH A CARGO TANK CLEANING PROCEDURE USING CRUDE OIL WASHING[24]*
 Name of ship ..........................................................................................................
 Distinctive number or letters .................................................................................
 Total cargo carrying capacity ........................................................... cubic metres
-Voyage from ...................... ..................... to..................... ......................
+Voyage from ........................ ..................... to..................... ......................
 (Port(s))(date)(Port(s))(date)
 NOTES:The periods covered by the Supplement should be consistent with the periods covered by the Oil Record Book.
 The cargo tanks crude oil washed should he those laid down in the Operations and Equipment Manual required by Regulation 13B(5)(a) of the Protocol.
 A separate column should be used for each tank washed or water rinsed.
 (A) Crude oil washing
 201.Date when and port where crude oil washing was carried out or ship’s position if carried out between two discharge ports
-202.Identity of tank(s) washed (see [26]Note 1)
+202.Identity of tank(s) washed (see [25]Note 1)
 203.Number of machines in use
 204.Commenced washing (a)date and time (b)ullage
-205.Washing pattern employed (see [27]Note 2)
+205.Washing pattern employed (see [26]Note 2)
 206.Washing line pressure
 207.Completed or stopped washing (a)date and time (b)ullage
 208.Remarks
-The tanks were washed in accordance with programmes given in the Operations and Equipment Manual (see [28]Note 3) and confirmed dry on completion.
+The tanks were washed in accordance with programmes given in the Operations and Equipment Manual (see [27]Note 3) and confirmed dry on completion.
 Date of entry ................................Officer in charge .............................................. Master ..............................................................
 (B) Water rinsing or flushing of tank bottoms
 209.Date and position of ship when rinsing or flushing was carried out
@@ -425,7 +425,7 @@ Date of entry ................................Officer in charge ................
 212.Transferred to: (a)reception facilities (b)slop tank(s) (identify slop tank(s))
 Date of entry ................................Officer in charge .............................................. Master ..............................................................
 Supplement 3
-FORM OF SUPPLEMENT TO OIL RECORD BOOK FOR OIL TANKERS ENGAGED IN SPECIFIC TRADES[29]*
+FORM OF SUPPLEMENT TO OIL RECORD BOOK FOR OIL TANKERS ENGAGED IN SPECIFIC TRADES[28]*
 Name of ship ..........................................................................................................
 Distinctive number or letters .................................................................................
 Total cargo carrying capacity ....................................................... cubic metres

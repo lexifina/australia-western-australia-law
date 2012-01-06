@@ -1,6 +1,6 @@
 ## Schedule 3 — 1984 amendments to annex to Protocol
 [s. 3]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1978 RELATING TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973
 THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
 NOTING the functions which Article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the “1973 Convention”) and resolution A.297(VIII) confer on the Marine Environment Protection Committee for the consideration and adoption of amendments to the 1973 Convention,
@@ -234,7 +234,7 @@ by .............................................................................
 (full designation of the competent person or organization authorized under the provisions of the Convention)
 Name of ship | Distinctive number or letters | Port of registry | Gross tonnage
 Type of ship:
-Oil tanker[30]*
+Oil tanker[29]*
 Ship other than an oil tanker with cargo tanks coming under Regulation 2(2) of Annex I of the Convention*
 Ship other than any of the above*
 THIS IS TO CERTIFY:
@@ -254,7 +254,7 @@ Annual survey:Signed ......................................................
 Place .........................................................
 Date ..........................................................
 (Seal or stamp of the Authority, as appropriate)
-Annual[31]*/Intermediate* survey:Signed ......................................................
+Annual[30]*/Intermediate* survey:Signed ......................................................
 (Signature of duly authorized official)
 Place .........................................................
 Date ..........................................................
@@ -314,7 +314,7 @@ Notes:
 2.4.3The oil content meter has been approved in accordance with resolution A.393(X)¨
 2.5Maximum throughput of the system is...............m3/h
 2.6Application:
-2.6.1The ship is not required to be fitted with the above equipment until .................... 19.............[32]* in accordance with Regulation 16(4)¨
+2.6.1The ship is not required to be fitted with the above equipment until .................... 19...........[31]* in accordance with Regulation 16(4)¨
 3TANKS FOR OIL RESIDUES (SLUDGE) (Regulation 17)
 3.1The ship is provided with oil residue (sludge) tanks with the total capacity of. ...................m3¨
 3.2Means for the disposal of oil residue in addition to the provision of sludge tanks ..........................................¨
@@ -393,7 +393,7 @@ Notes:
 2.4.3The oil content meter has been approved in accordance with resolution A.393(X)¨
 2.5Maximum throughput of the system is ................ m3/h
 2.6Application:
-2.6.1The ship is not required to be fitted with the above equipment until ..................19........[33]* in accordance with Regulation 16(4)¨
+2.6.1The ship is not required to be fitted with the above equipment until ..................19........[32]* in accordance with Regulation 16(4)¨
 3TANKS FOR OIL RESIDUES (SLUDGE) (Regulation 17)
 3.1The ship is provided with oil residue (sludge) tanks with the total capacity of .................................... m3¨
 3.2Means for the disposal of oil residue in addition to the provision of sludge tanks .............................. ..................................................................................¨
@@ -414,7 +414,7 @@ Notes:
 Tank | Volume (m3) | Tank | Volume (m3)
  |  | Total
 5.3Dedicated clean ballast tanks (CBT)
-5.3.1The ship is provided with CBT in compliance with Regulation 13A, and may operate: .1 as a product carrier¨ .2 as a crude oil tanker until .........................19................[34]*¨
+5.3.1The ship is provided with CBT in compliance with Regulation 13A, and may operate: .1 as a product carrier¨ .2 as a crude oil tanker until .........................19................[33]*¨
 5.3.2CBT are distributed as follows:
 Tank | Volume (m3) | Tank | Volume (m3)
  |  | Total
@@ -442,7 +442,7 @@ Tank | Volume (m3) | Tank | Volume (m3)
 6.1.3The system is: .1 fitted with a starting interlock¨ .2 fitted with automatic stopping device¨
 6.1.4The oil content meter is approved under the terms of resolution A.393(X) suitable for: .1 crude oil¨ .2 black products¨ .3 white products¨
 6.1.5The ship has been supplied with an operations manual for the oil discharge monitoring and control system¨
-6.1.6The ship is not required to be fitted with an oil discharge monitoring and control system, until ........................... 19 ..........[35]* in accordance with Regulation 15(1)¨
+6.1.6The ship is not required to be fitted with an oil discharge monitoring and control system, until ........................... 19 ..........[34]* in accordance with Regulation 15(1)¨
 6.2Slop tanks
 6.2.1The ship is provided with dedicated slop tank(s) with the total capacity of .................... m3which is .....................% of the oil carrying capacity, in accordance with:¨
 .1 Regulation 15(2)(c)¨ .2 Regulation 15(2)(c)(i)¨ .3 Regulation 15(2)(c)(ii)¨ .4 Regulation 15(2)(c)(iii)¨
@@ -457,7 +457,7 @@ Tank | Volume (m3) | Tank | Volume (m3)
 7.1The overboard discharge outlets for segregated ballast are located:
 7.1.1above the waterline¨
 7.1.2below the waterline¨
-7.2The overboard discharge outlets, other than the discharge manifold, for clean ballast are located:[36]**
+7.2The overboard discharge outlets, other than the discharge manifold, for clean ballast are located:[35]**
 7.2.1above the waterline¨
 7.2.2below the waterline¨
 7.3The overboard discharge outlets, other than the discharge manifold, for dirty ballast are located:**
@@ -556,7 +556,7 @@ PLAN VIEW OF CARGO AND SLOP TANKS (to be completed on board)
 INTRODUCTION
 The following pages of this section show a comprehensive list of items of cargo and ballast operations which are, when appropriate, to be recorded in the Oil Record Book in accordance with Regulation 20 of Annex I of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto (MARPOL 73/78). The items have been grouped into operational sections, each of which is denoted by a letter code.
 When making entries in the Oil Record Book, the date, operational code and item number shall be inserted in the appropriate columns and the required particulars shall be recorded chronologically in the blank spaces.
-Each completed operation shall be signed for and dated by the officer or officers in charge. Each completed page shall be countersigned by the master of the ship. In respect of the oil tankers engaged in specific trades in accordance with Regulation 13C of Annex 1 of MARPOL 73/78, appropriate entry in the Oil Record Book shall be endorsed by the competent Port State authority.[37]*
+Each completed operation shall be signed for and dated by the officer or officers in charge. Each completed page shall be countersigned by the master of the ship. In respect of the oil tankers engaged in specific trades in accordance with Regulation 13C of Annex 1 of MARPOL 73/78, appropriate entry in the Oil Record Book shall be endorsed by the competent Port State authority.[36]*
 LIST OF ITEMS TO BE RECORDED
 (A)LOADING OF OIL CARGO
 1.Place of loading.
@@ -571,14 +571,14 @@ LIST OF ITEMS TO BE RECORDED
 8.Was (were) tank(s) emptied?
 (D)CRUDE OIL WASHING (COW TANKERS ONLY) (To be completed for each tank being crude oil washed)
 9.Port where crude oil washing was carried out or ship’s position if carried out between two discharge ports.
-10.Identity of tank(s) washed.[38]1
+10.Identity of tank(s) washed.[37]1
 11.Number of machines in use.
 12.Time of start of washing.
-13.Washing pattern employed.[39]2
+13.Washing pattern employed.[38]2
 14.Washing line pressure.
 15.Time completed or stopped washing.
 16.State method of establishing that tank(s) was (were) dry.
-17.Remarks.[40]3
+17.Remarks.[39]3
 (E)BALLASTING OF CARGO TANKS
 18.Identity of tank(s) ballasted.
 19.Position of ship at start of ballasting.
@@ -594,7 +594,7 @@ LIST OF ITEMS TO BE RECORDED
 27.Identity of tank(s) cleaned.
 28.Port or ship’s position.
 29.Duration of cleaning.
-30.Method of cleaning.[41]4
+30.Method of cleaning.[40]4
 31.Tank washings transferred to: .1 Reception facilities; .2 Slop tank(s) or cargo tank(s) designated as slop tank(s) (identify tank(s)).
 (H)DISCHARGE OF DIRTY BALLAST
 32.Identity of tank(s).
@@ -664,6 +664,6 @@ TANKERS ENGAGED IN SPECIFIC TRADES
 85.Date, signature and stamp of port authority official.
 NAME OF SHIP: ...................................................................................................
 DISTINCTIVE NUMBER OR LETTERS: .......................................................................................................
-CARGO/BALLAST OPERATIONS (OIL TANKERS)*/MACHINERY SPACE OPERATIONS (ALL SHIPS)[42]*
+CARGO/BALLAST OPERATIONS (OIL TANKERS)*/MACHINERY SPACE OPERATIONS (ALL SHIPS)[41]*
 Date | Code (letter) | Item (number) | Record of operations/signature of officer in charge
 Signature of Master ..................................
