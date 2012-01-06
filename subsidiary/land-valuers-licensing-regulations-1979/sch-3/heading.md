@@ -26,7 +26,7 @@ orCompany name _____________________________________ ACN
 Address _________________________________________________ Postcode
 Infringement notice | Infringement notice no.
 Date of issue //20
-Alleged offence | Description of offence ____________________________________
+Alleged offence | Description of offence _____________________________________
 Land Valuers Licensing Act 1978 s. Land Valuers Licensing Regulations 1979 r.
 Date //20Timea.m./p.m.
 Officer withdrawing notice | Name
