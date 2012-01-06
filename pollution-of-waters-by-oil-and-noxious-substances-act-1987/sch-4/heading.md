@@ -1,6 +1,6 @@
 ## Schedule 4 — 1985 amendments to annex to Protocol
 [s. 3]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 ADOPTION OF AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1978 RELATING TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973(RELATING TO ANNEX II OF THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973 AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO)
 adopted on 5 December 1985
 THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
@@ -719,16 +719,16 @@ Existing list is replaced by the following:
 Substance | UN Number
 Acetone........................................................................................... | 1090
 Acetonitrile..................................................................................... | 1648
-Alcohols, C1, C2, C3 as individuals and mixtures...........................
-Alcohols, C4....................................................................................
-Alcohols, C13 and above as individuals and mixtures....................
-Alum (15% solution) .....................................................................
+Alcohols, C1, C2, C3 as individuals and mixtures
+Alcohols, C4
+Alcohols, C13 and above as individuals and mixtures
+Alum (15% solution)
 tert-Amyl alcohol............................................................................ | 1105
 n-Butyl alcohol............................................................................... | 1120
 sec-Butyl alcohol............................................................................ | 1120
 tert-Butyl alcohol............................................................................ | 1120
-Butyl stearate.. Calcium bromide solution Cetyl/Eicosyl methacrylate mixture Citric juice Dextrose solution Dibutyl sebacate Dicyclopentadiene.......................................................................... | 2048
-Diethanolamine Diethylene glycol............................................................................
+Butyl stearate Calcium bromide solution Cetyl/Eicosyl methacrylate mixture Citric juice Dextrose solution Dibutyl sebacate Dicyclopentadiene.......................................................................... | 2048
+Diethanolamine Diethylene glycol
 Diethylene glycol diethyl ether Diethylene glycol butyl ether Diethylene glycol ethyl ether Diethylenetriamine pentaacetic acid, pentasodium salt solution Diethyl ether................................................................................... | 1155
 Diethyl ketone................................................................................. | 1156
 Diheptyl phthalate Dihexyl phthalate Diisooctyl phthalate Dioctyl phthalate Dipropylene glycol Dodecyl methacrylate Dodecyl/Pentadecyl methacrylate mixture Ethyl alcohol................................................................................... | 1170
@@ -740,12 +740,12 @@ Isopropyl acetate...............................................................
 Isopropyl alcohol............................................................................ | 1219
 Lard Latex (carboxylated styrene/butadiene copolymer) Lignin sulphonic acid, salt (low COD) solution Magnesium chloride solution Magnesium hydroxide slurry 3-Methoxy-1-butanol Methyl acetate................................................................................. | 1231
 Methyl alcohol................................................................................ | 1230
-2-Methyl-2-hydroxy-3-butyne 3-Methyl-3-methoxy butanol 3-Methyl-3-methoxy butyl acetate 2-Methylpentane[43]*........................................................................... | 1208
+2-Methyl-2-hydroxy-3-butyne 3-Methyl-3-methoxy butanol 3-Methyl-3-methoxy butyl acetate 2-Methylpentane[42]*........................................................................... | 1208
 Milk Molasses 1-Octadecanol Olefins (C13 and above, all isomers) Paraffin wax 1-Pentadecene Petroleum spirit............................................................................... | 1271
 Polyaluminium chloride solution Polybutene Polyethylene glycols Polyethylene glycol dimethyl ether Polypropylene glycol methyl ether
 Polysiloxane 1,2-Propylene glycol Propylene tetramer.......................................................................... | 2850
 Sodium alumino silicate slurry Sodium chlorate solution (50% or less) ......................................... | 2428
-Sodium salicylate Sorbitol Sulpholane* Sulphur (molten) ............................................................................ | 2448
+Sodium salicylate Sorbitol Sulpholane[43]* Sulphur (molten) ............................................................................ | 2448
 1-Tetradecanol Tetradecene Tridecanol Tridecene Triethylene glycol Triethylene glycol butyl ether Triisobutylene................................................................................. | 2324
 Tripropylene butyl glycol Urea solution Urea resin solution Vegetable protein solution (hydrolyzed) Wine
 APPENDIX IV
