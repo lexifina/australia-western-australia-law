@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Misuse of Drugs Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 January 2012 of the Misuse of Drugs Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Misuse of Drugs Regulations 1982 | 13 Aug 1982 p. 3113-19 | 1 Sep 1982 (see r. 2 and Gazette 20 Aug 1982 p. 3250)
@@ -19,8 +19,8 @@ Misuse of Drugs Amendment Regulations 2011 | 22 Mar 2011 p. 971-2 | r. 1 and 2: 
 Misuse of Drugs Amendment Regulations (No. 2) 2011 | 6 May 2011 p. 1619-21 | r. 1 and 2: 6 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jul 2011 (see r. 2(b) and Gazette 8 Jul 2011 p. 2895)
 Misuse of Drugs Amendment Regulations (No. 3) 2011 | 1 Jul 2011 p. 2747-8 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2011 (see r. 2(b))
 Misuse of Drugs Amendment Regulations (No. 4) 2011 | 29 Jul 2011 p. 3138-43 | r. 1 and 2: 29 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2011 (see r. 2(b) and Gazette 29 Jul 2011 p. 3127)
-Repealed by the Optometrists Act 2005.
-Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court. The reference was amended under the Reprints Act 1984 s. 7(5)(a).
+Reprint 3: The Misuse of Drugs Regulations 1982 as at 6 Jan 2012 (includes amendments listed above)
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

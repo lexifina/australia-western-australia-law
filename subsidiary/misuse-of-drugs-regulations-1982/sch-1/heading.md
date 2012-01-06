@@ -57,7 +57,7 @@ SEARCH WARRANT
 I, [insert name of justice of the peace granting search warrant], of
 , being a justice of the peace and being satisfied by information on oath furnished by [insert name of informant] that there are reasonable grounds to suspect that the following thing referred to in section 23(1)(a), (b) or (c) of the Misuse of Drugs Act 1981 [insert particulars of thing] may be in or on the following vehicle* [insert particulars of vehicle]/in or on the following premises or other place* [insert particulars of premises or other place], hereby grant to the following police officer [insert name and designation of police officer] this search warrant authorising a police officer at any time or times within 30 days from the date of this search warrant to enter that vehicle, or those premises or that other place, and, subject to section 24 of that Act, to search that vehicle or those premises or that other place and any person and any baggage, package or other thing of any kind whatsoever found therein or thereon, using such force as is reasonably necessary and with such assistance as the police officer acting under this search warrant considers necessary.
 Granted on .............................................................................................................
-at .........................................................................................................
+at ............................................................................................................................
 ........................................................
 Signature of justice of the peace
 granting search warrant.
@@ -143,7 +143,7 @@ WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
 MISUSE OF DRUGS REGULATIONS 1982
 CERTIFICATE OF APPROVED BOTANIST
-Department of Conservation and Land Management reference No. .....................
+Department of Conservation and Land Management reference No. ...................
 Police reference No. .............................
 I, ................................................................................, being an approved botanist within the meaning of the Misuse of Drugs Act 1981, hereby certify that —
 (a)I obtained*/received* for examination the following quantity*/mass* of
@@ -164,7 +164,7 @@ WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
 MISUSE OF DRUGS REGULATIONS 1982
 APPLICATION FOR COPY OF CERTIFICATE OF APPROVED ANALYST OR APPROVED BOTANIST
-I [insert name of applicantaccused] apply for a copy of [insert details of relevant certificate given under section 38 of Act] to be provided to me at [insert address at which copy of certificate can be provided to applicantaccused].
+I [insert name of applicant accused] apply for a copy of [insert details of relevant certificate given under section 38 of Act] to be provided to me at [insert address at which copy of certificate can be provided to applicant accused].
 Certificate applied for on ..................... at .....................
 ...............................................................
 Signature of applicant accused
@@ -194,8 +194,8 @@ Date ........../........../20.......
 Time ..................... a.m./p.m.
 You committed the following minor cannabis related offence/s.
 Misuse of Drugs Act 1981 | Description of offence
-⁯ s. 5(1)(d)(i) | Possession of a smoking utensil that has detectable traces of cannabis
-⁯ s. 6(2) | Possession or use of not more than 10 grams of cannabis* * not including any cannabis plant under cultivation, cannabis resin or any other cannabis derivative
+p s. 5(1)(d)(i) | Possession of a smoking utensil that has detectable traces of cannabis
+p s. 6(2) | Possession or use of not more than 10 grams of cannabis* * not including any cannabis plant under cultivation, cannabis resin or any other cannabis derivative
 Issuing Officer
 Station
 Signature
@@ -204,15 +204,15 @@ WHAT YOU MUST DO You have a period of 28 days after this notice was given to you
 CANNABIS INTERVENTION SESSION The Cannabis Intervention Session (CIS) is a mandatory one-to-one therapeutic intervention with a trained alcohol and drug counsellor. As part of the CIS you will be provided with information on — ·the adverse health and social consequences of cannabis use; and ·the laws relating to the use, possession and cultivation of cannabis; and ·effective strategies to address cannabis using behaviour. The CIS takes approximately 60-90 minutes to complete. You are required to complete the CIS within 28 days after this Cannabis Intervention Requirement (CIR) was given to you. What you need to do/know ·Contact the Cannabis Intervention Session Booking Service on 1800 722 362 between 7.00 a.m. — 7.00 p.m., Monday to Sunday, to book a CIS with an approved treatment provider. The personal information provided during the booking process will be recorded and passed on to the approved treatment provider and stored on a health database. ·When making your booking ensure you have a pen available to write down the time, date and address of the CIS in the space provided below on this form.
 You are strongly advised to phone the CIS Booking Service within 3 days from the date this CIR was given to you to ensure a booking can be made for you within the 28 day permitted period. No reminders will be issued. You need to bring to the CIS — ·Photographic identification ·This CIR. You must arrive on time and complete the entire CIS.
 CIS appointment details
-Appointment Date _____________________________________
-Address_______________________________________________
-Appointment Time _____________________________________
+Appointment Date ______________________________________________
+Address_______________________________________________________
+Appointment Time ______________________________________________
 Electing to be prosecuted in a court
 I elect to have the offence alleged in this CIR dealt with by a court.
 Signature
 Date |  |  | / |  |  | /
 Address for service
- |  |  |  |  |  |  |  |  | Postcode
+ |  |  |  |  |  |  |  |  |  |  | Postcode
 Post to: Drug Diversion Coordinator, Licensing Enforcement Division, WA Police, Level 2, Cambridge House, 297 Hay Street, Perth WA 6000
 [Form M.D. 16 inserted in Gazette 29 Jul 2011 p. 3140-2.]
 Form M.D. 17
@@ -229,7 +229,7 @@ Address
 Cannabis Intervention Requirement
 CIR No.
 Date of Issue |  |  | / |  |  | /
-The Cannabis Intervention Requirement (CIR) referred to above and given to you under the Misuse of Drugs Act 1981 section 8E has been withdrawn. The following action will now be taken in respect of the alleged offence — ⁭a prosecution will be commenced ⁭a juvenile caution will be given ⁭a referral will be made to a juvenile justice team ⁭no further action will be taken ⁭the following action will be taken ............................................................................................................. .............................................................................................................
+The Cannabis Intervention Requirement (CIR) referred to above and given to you under the Misuse of Drugs Act 1981 section 8E has been withdrawn. The following action will now be taken in respect of the alleged offence — pa prosecution will be commenced pa juvenile caution will be given pa referral will be made to a juvenile justice team pno further action will be taken pthe following action will be taken ........................................................................................................................... ...........................................................................................................................
 Authorised Person issuing this withdrawal notice
 Surname |  |  |  |  |  | Reg.
 Section |  |  |  |  |  | Signature
