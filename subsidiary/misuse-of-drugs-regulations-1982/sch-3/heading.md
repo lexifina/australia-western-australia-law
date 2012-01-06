@@ -5,7 +5,7 @@
 [Heading inserted in Gazette 10 Dec 2004 p. 5974.]
 Chemical name | Alternate name | Quantity substance in seized sample
 Acetic anhydride |  | 50 ml
-Acetyl Chloride |  | 50ml
+Acetyl Chloride |  | 50 ml
 4-Amino-Butanoic acid | Piperidinic acid
 Bromobenzene | Phenylbromide
 Bromo safrole
