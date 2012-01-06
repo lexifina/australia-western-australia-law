@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Land Valuers Licensing Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 January 2012 of the Land Valuers Licensing Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Land Valuers Licensing Regulations 1979 | 22 Jun 1979 p. 1698-9 | 22 Jun 1979
@@ -32,11 +32,12 @@ Land Valuers Licensing Amendment Regulations 2009 | 23 Jun 2009 p. 2442-3 | r. 1
 Land Valuers Licensing Amendment Regulations 2010 | 25 Jun 2010 p. 2847-8 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Land Valuers Licensing Amendment Regulations (No. 2) 2011 | 22 Jun 2011 p. 2363-4 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Land Valuers Licensing Amendment Regulations (No. 3) 2011 | 30 Jun 2011 p. 2649-52 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Reprint 4: The Land Valuers Licensing Regulations 1979 as at 6 Jan 2012 (includes amendments listed above)
 The Curtin University of Technology Act 1966 s. 5 established the Western Australian Institute of Technology as the Curtin University of Technology from 1 January 1987.
 The commencement date of 1 Jul 1989 that was specified was before the date of gazettal.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
+Act2
 Commissioner2
 section2
-the Act2
