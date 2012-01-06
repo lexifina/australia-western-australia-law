@@ -2,22 +2,22 @@
 [r. 41]
 ## Division 1 — Port of Broome
 [Heading inserted in Gazette 2 Oct 2007 p. 4972.]
-1. | Pilotage of a vessel of not more than 10 000 gross registered tonnes into and out of the port ...................... | $5 635.26
-2. | Pilotage of a vessel of more than 10 000 but not more than 30 000 gross registered tonnes into and out of the port ................................................................................. | $8 522.75
-3. | Pilotage of a vessel of more than 30 000 gross registered tonnes into and out of the port ....................... | $9 215.75
-4. | Pilotage of a vessel from a place in the port to another place in the port .............................................................. | $2 812.94
-5. | Detention of pilot, per hour or part of an hour ............... | $866.25
-6A. | Detention of pilot vessel, per hour or part of an hour .... | $577.50
-6. | Cancellation of pilot ....................................................... | 50% of the charge set out in item 1, 2, 3 or 4, as the case requires.
+1. | Pilotage of a vessel of not more than 10 000 gross registered tonnes into and out of the port | $5 635.26
+2. | Pilotage of a vessel of more than 10 000 but not more than 30 000 gross registered tonnes into and out of the port | $8 522.75
+3. | Pilotage of a vessel of more than 30 000 gross registered tonnes into and out of the port | $9 215.75
+4. | Pilotage of a vessel from a place in the port to another place in the port | $2 812.94
+5. | Detention of pilot, per hour or part of an hour | $866.25
+6A. | Detention of pilot vessel, per hour or part of an hour | $577.50
+6. | Cancellation of pilot | 50% of the charge set out in item 1, 2, 3 or 4, as the case requires.
 7. | Cancellation of pilot vessel | $866.25
 [Division 1 inserted in Gazette 2 Oct 2007 p. 4972; amended in Gazette 4 Jun 2010 p. 2477; 20 Dec 2011 p. 5401.]
 ## Division 2 — Port of Bunbury
 [Heading inserted in Gazette 4 Jun 2010 p. 2482.]
-1. | Pilotage of a vessel into and out of the port ..............…. | $5 671.90
-2. | Pilotage of a vessel from a place in the port to another place in the port ............................................................. | $2 835.95
-3. | Detention of pilot, for each hour or part of an hour ..…. | $1 417.98
-4. | Cancellation of pilot ..................................................… | $1 417.98
-5. | Cancellation of pilot boat crew only .........................…. | $1 417.98
+1. | Pilotage of a vessel into and out of the port | $5 671.90
+2. | Pilotage of a vessel from a place in the port to another place in the port | $2 835.95
+3. | Detention of pilot, for each hour or part of an hour | $1 417.98
+4. | Cancellation of pilot | $1 417.98
+5. | Cancellation of pilot boat crew only | $1 417.98
 [Division 2 inserted in Gazette 4 Jun 2010 p. 2482; amended in Gazette 30 Jun 2011 p. 2627-8.]
 ## Division 3 — Port of Esperance
 [Heading inserted in Gazette 30 Jun 2011 p. 2624.]
@@ -54,10 +54,10 @@
 7. | Cancellation of pilot | $402.94
 [Division 4 inserted in Gazette 30 Jun 2011 p. 2625-6.]
 ## Division 5 — Port of Geraldton
-1. | Pilotage of a vessel into and out of the port ............. | $0.38609 for each gross registered tonne of vessel
-2. | Pilotage of a vessel from a place in the port to another place in the port ........................................... | $0.038609 for each gross registered tonne of vessel
-3. | Detention of pilot ..................................................... | $676.30 for each hour or part of an hour
-4. | Cancellation of pilot ................................................. | $676.30
+1. | Pilotage of a vessel into and out of the port | $0.38609 for each gross registered tonne of vessel
+2. | Pilotage of a vessel from a place in the port to another place in the port | $0.038609 for each gross registered tonne of vessel
+3. | Detention of pilot | $676.30 for each hour or part of an hour
+4. | Cancellation of pilot | $676.30
 [Division 5 amended in Gazette 16 Sep 2005 p. 4327-8; 4 Jun 2010 p. 2475.]
 ## Division 6 — Port of Port Hedland
 [Heading inserted in Gazette 4 Jun 2010 p. 2478.]
