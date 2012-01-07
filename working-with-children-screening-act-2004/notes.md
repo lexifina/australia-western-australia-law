@@ -16,12 +16,12 @@ Cannabis Law Reform Act 2010 Pt. 6 | 45 of 2010 | 28 Oct 2010 | 1 Aug 2011 (see 
 Children and Community Services Amendment Act 2010 Pt. 2 Div. 2 | 49 of 2010 | 24 Nov 2010 | 31 Jan 2011 (see s. 2(b) and Gazette 28 Jan 2011 p. 241
 Misuse of Drugs Amendment Act (No. 2) 2010 Pt. 3 | 50 of 2010 | 24 Nov 2010 | 25 Nov 2010 (see s. 2(b))
 Reprint 2: The Working with Children (Criminal Record Checking) Act 2004 as at 7 Jan 2011 (includes amendments listed above except those in the Cannabis Law Reform Act 2010 Pt. 6 and the Children and Community Services Amendment Act 2010 Pt. 2 Div. 2)
+Child Care Services Amendment Act 2011 Pt. 3 | 38 of 2011 | 4 Oct 2011 | 7 Jan 2012 (see s. 2(b) and Gazette 6 Jan 2012 p. 3)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Child Care Services Amendment Act 2011 Pt. 3 | 38 of 2011 | 4 Oct 2011 | To be proclaimed (see s. 2(b))
 Misuse of Drugs Amendment Act 2011 Pt. 5 | 56 of 2011 | 21 Nov 2011 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 had not come into operation. It reads as follows:
 Schedule 1 — Consequential amendments
@@ -74,12 +74,7 @@ s. 16 | Causing, permitting or seeking to induce a child to act as a sex worker
 s. 17 | Obtaining payment for commercial sexual act by a child
 s. 18 | Agreement for a child to act as a sex worker
 ”.
-On the date as at which this compilation was prepared, the Child Care Services Amendment Act 2011 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Working with Children (Criminal Record Checking) Act 2004 amended
-40.Act amended
-This Part amends the Working with Children (Criminal Record Checking) Act 2004.
-41.Section 38 amended
-In section 38(3)(b) delete “a nominated supervising officer,”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Misuse of Drugs Amendment Act 2011 Pt. 5 had not come into operation. It reads as follows:
 Part 5 — Working with Children (Criminal Record Checking) Act 2004 amended
 14.Act amended
