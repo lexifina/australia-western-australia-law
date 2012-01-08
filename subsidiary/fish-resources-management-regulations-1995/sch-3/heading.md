@@ -256,10 +256,10 @@ Crab, Blue Manna —
 (a)before 1 November 2007 | 20
 (b)on and after 1 November 2007 | 10
 Crab, Brown Mud and Green Mud (combined) | 5
-Marron | 10
+Marron | 8
 Prawn | 9 L
 Rock Lobster | 6
-[Division 4 inserted in Gazette 1 Oct 2003 p. 4340; amended in Gazette 6 Jul 2007 p. 3389; 21 Nov 2008 p. 4927; 1 Mar 2011 p. 672.]
+[Division 4 inserted in Gazette 1 Oct 2003 p. 4340; amended in Gazette 6 Jul 2007 p. 3389; 21 Nov 2008 p. 4927; 1 Mar 2011 p. 672; 20 Dec 2011 p. 5375.]
 ## Division 5 — Molluscs
 [Heading inserted in Gazette 1 Oct 2003 p. 4340.]
 Fish | Species, or group of species, bag limit for one day
