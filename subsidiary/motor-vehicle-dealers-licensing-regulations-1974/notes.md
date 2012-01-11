@@ -39,3 +39,10 @@ Motor Vehicle Dealers (Licensing) Amendment Regulations 2009 | 23 Jun 2009 p. 24
 Motor Vehicle Dealers (Licensing) Amendment Regulations 2010 | 25 Jun 2010 p. 2848-51 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Motor Vehicle Dealers (Licensing) Amendment Regulations 2011 | 22 Jun 2011 p. 2357-60 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Motor Vehicle Dealers (Licensing) Amendment Regulations (No. 2) 2011 | 30 Jun 2011 p. 2661-2 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Motor Vehicle Dealers (Licensing) Amendment Regulations (No. 3) 2011 | 10 Jan 2012 p. 409-11 | r. 1 and 2: 10 Jan 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jan 2012 (see r. 2(b))
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+form2
+related company9(1)
+section2
