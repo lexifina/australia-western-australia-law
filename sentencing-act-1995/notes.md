@@ -69,11 +69,9 @@ The Fruit Growing Industry (Trust Fund) Act 1941 was repealed by the Fruit Growi
 The Sentencing Act 1995 s. 19 and Pt. 12 did not come into operation and were deleted by the Criminal Law Amendment Act (No. 2) 1998 s. 17 and 18.
 The Sentencing Legislation Amendment and Repeal Act 1999 Pt. 2 Div. 3 (s. 14-26) are transitional provisions. They did not come into operation before the Act was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Sentencing Amendment (Adjustment of Sentences) Act 2000 (No. 62 of 2000) s. 4-6 commenced on 7 Dec 2000 (see s. 2).
-The Sentencing Legislation Amendment and Repeal Act 2003 s. 22 and 29(2), which give effect to Sch. 1 (amended by No. 5 of 2008 s. 109 and No. 49 of 2008 s. 3-5), read as follows:
+The Sentencing Legislation Amendment and Repeal Act 2003 s. 22, which gives effect to Sch. 1 (amended by No. 5 of 2008 s. 109 and No. 49 of 2008 s. 3-5), read as follows:
 22.Transitional provisions
 Schedule 1 has effect in relation to the amendments effected by this Division.
-29.Sentence Administration Act 1995 repealed and consequential amendments
-(2) Schedule 1 has effect in relation to the repeal effected by subsection (1).
 Schedule 1 reads as follows:
 Schedule 1 — Transitional provisions
 [s. 22 and 29(2)]
@@ -88,20 +86,7 @@ repealed Act means the Sentence Administration Act 1995;
 sentencing amendments means the amendments to the Sentencing Act 1995 effected by Part 2 Division 4 and the repeal of the Sentence Administration Act 1995 effected by section 29(1).
 (2) In this Schedule, words and expressions have the same meanings as they have in the Sentencing Act 1995 and in particular, in Part 13 of that Act.
 [2.Deleted by No. 49 of 2008 s. 3.]
-3A.Provisions relating to deletion of clause 2
-(1) In this clause —
-clause 2 means clause 2 of this Schedule as in force immediately before the relevant commencement;
-minimum custodial period of a fixed term, is the amount of the fixed term required to be served in custody before the offender would be, or was or would have been, eligible or entitled to be released, whether on parole or on being discharged from the sentence;
-relevant commencement means the commencement of the Sentencing Legislation (Transitional Provisions) Amendment Act 2008.
-(2) After the relevant commencement, clause 2 does not apply to the sentencing of an offender for an offence —
-(a) even if the offence was committed before the relevant commencement; and
-(b) even if the offender was convicted before the relevant commencement; and
-(c) even if the sentencing is as a result of an appeal against a sentence imposed before the relevant commencement,
-despite any written or unwritten law to the contrary.
-(3) A court sentencing an offender to a fixed term can have regard to the minimum custodial period of the fixed term to be imposed and the minimum custodial periods of fixed terms imposed before the relevant commencement, whether or not clause 2 applied to their imposition.
-(4) A court sentencing an offender to a fixed term can impose a penalty up to the statutory penalty for the offence.
-(5) This clause expires 3 years after the relevant commencement.
-[Section 3A inserted by No. 49 of 2008 s. 4.]
+[3A.As inserted by No. 49 of 2008 s. 4, expired 14 Jan 2012 (see cl. 3A(5).]
 3.Application of Interpretation Act 1984 s. 36
 Section 36 of the Interpretation Act 1984 applies as if the Sentence Administration Act 1995 had been repealed and re-enacted by the Sentence Administration Act 2003.
 4.Community orders imposed before commencement
