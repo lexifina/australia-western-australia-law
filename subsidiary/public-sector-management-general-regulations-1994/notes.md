@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 June 2011 of the Public Sector Management (General) Regulations 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Public Sector Management (General) Regulations 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Public Sector Management (General) Regulations 1994 | 16 Sep 1994 p. 4798-803 | 1 Oct 1994 (see r. 2 and Gazette 30 Sep 1994 p. 4948)
@@ -21,9 +21,10 @@ Public Sector Management (General) Amendment Regulations 2006 | 29 Dec 2006 p. 5
 Public Sector Management (General) Amendment Regulations (No. 2) 2010 | 22 Oct 2010 p. 5223-4 | r. 1 and 2: 22 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Oct 2010 (see r. 2(b))
 Public Sector Management (General) Amendment Regulations 2010 | 5 Nov 2010 p. 5570-3 | Pt. 1: 5 Nov 2010 (see r. 2(a)); Pt. 2: 1 Dec 2010 (see r. 2(b) and Gazette 5 Nov 2010 p. 5563); Pt. 3: 28 Mar 2011 (see r. 2(c) and Gazette 5 Nov 2010 p. 5563)
 Reprint 3: The Public Sector Management (General) Regulations 1994 as at 3 Jun 2011 (includes amendments listed above)
+Public Sector Management (General) Amendment Regulations 2012 | 24 Jan 2012 p. 555-6 | r. 1 and 2: 24 Jan 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jan 2012 (see r. 2(b))
 The Government Employees’ Housing Act 1964 s.15 was deleted by the Machinery of Government(Miscellaneous Amendments) Act 2006 s. 300.
 Repealed by the Country Housing Act 1998 s. 47.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Repealed by the School Education Act 1999 s. 246.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Training was to be read and construed as a reference to the Department of Education and Training. Under the Alteration of Statutory Designation (DET) Order 2009 a reference in any law to the Department of Education and Training is to be read and construed as a reference to the Department of Education or to the Department of Training and Workforce Development, unless the contrary intention appears.
 Repealed by the Vocational Education and Training Act 1996 s. 70.
