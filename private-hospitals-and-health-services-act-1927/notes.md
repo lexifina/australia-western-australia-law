@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Hospitals and Health Services Act 1927 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 27 January 2012 of the Hospitals and Health Services Act 1927 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Hospitals Act 1927 | 23 of 1927 (18 Geo. V No. 23) | 23 Dec 1927 | 1 Jan 1928 (see s. 1)
@@ -48,8 +48,8 @@ Health Legislation Amendment Act 2004 Pt. 4 | 61 of 2004 | 24 Nov 2004 | 24 Nov 
 Reprint 5: The Hospitals and Health Services Act 1927 as at 26 Aug 2005 (includes amendments listed above except those in the Workers’ Compensation Reform Act 2004)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 6 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Hospitals and Health Services Amendment Act 2006 | 45 of 2006 | 4 Oct 2006 | 4 Oct 2006 (see s. 2)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 86 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Duties Legislation Amendment Act 2008 Sch. 1 cl. 16 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Medical Practitioners Act 2008 Sch. 3 cl. 27 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 6: The Hospitals and Health Services Act 1927 as at 13 Feb 2009 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 13 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
@@ -58,24 +58,22 @@ Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 26 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 and 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
-On the date as at which this was compiled, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 7: The Hospitals and Health Services Act 1927 as at 27 Jan 2012 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
-The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 25 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 25 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 Now known as the Hospitals and Health Services Act 1927; short title changed (see note under s. 1).
 The amendments in the Statutes (Repeals and Minor Amendments) Act 1997 s. 74(1) and (2) are not included because the subsections they sought to amend were amended by the Mental Health (Consequential Provisions) Act 1996 s. 42 before the amendments purported to come into operation.
 The Hospitals and Health Services Amendment Act 2002 s. 8 reads as follows:
-“
 8.Validation
 (1) In this section —
 agency has the same meaning as it has in the Hospitals and Health Services Act 1927.
 (2) Anything done or purporting to have been done by an agency for the purposes referred to in section 7B(1) of the Hospitals and Health Services Act 1927 is, and is taken always to have been, as valid and effective as it would have been if the amendments to that Act in sections 5 and 6 had at all relevant times been made.
-”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
-“
 Division 13 — Transitional provisions
 289.Commissioner of Health
 (1) A thing done or omitted to be done by, to or in relation to, the Commissioner of Health before commencement under, or for the purposes of, an enactment has the same effect after commencement, to the extent that it has any force or significance after commencement, as if it had been done or omitted by, to or in relation to, the CEO.
@@ -83,9 +81,7 @@ Division 13 — Transitional provisions
 CEO has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
 commencement means the time at which this Division comes into operation;
 Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
-”.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) had not come into operation. It reads as follows:
-“
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) had not come into operation. It reads as follows:
 48.Hospitals and Health Services Act 1927 amended
 (2) The Hospitals and Health Services Act 1927 is amended as follows:
 (a) in section 7E(2) —
@@ -96,25 +92,25 @@ On the date as at which this compilation was prepared, the State Superannuation 
 “
 Members of a superannuation scheme continued by section 29(c) or (d) of the State Superannuation Act 2000.
 ”.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-additional board16(2)(a)
+additional board16(2)
 agency2(1)
 agency board2(1)
-amalgamated board16(2)(b)
+amalgamated board16(2)
 board2(1)
 body corporate26A
 CEO2(1)
-Commonwealth Minister34(5)(b)
+Commonwealth Act2(1)
+Commonwealth Minister34(5)
 day hospital facility2(1)
 Department2(1)
 document7D(8)
-eligible person34(5)(a)
+eligible person34(5)
 eligible persons37(2e)
 Executive Director2(1)
-former board16(2)(b)
+former board16(2)
 hospital2(1)
 hospital service2(1)
 hospital service provider2(1)
@@ -127,7 +123,7 @@ Minister for Works35C(6)
 nursing home2(1)
 nursing post2(1)
 officer or servant of the board22(1a)
-original board16(2)(a)
+original board16(2)
 personal information26S(8)
 practitioner2(1)
 private hospital2(1)
@@ -135,15 +131,14 @@ private non-profit hospital2(1)
 private psychiatric hostel26P
 public authority7B(10)
 public hospital2(1)
-public patient34(5)(a)
+public patient34(5)
 recognized hospitals37(2e)
+relevant notice16(1)
 resident26P
 services18(2b)
 specified22(1a), 37(4)
 State Supply Commission35C(6)
 superannuation arrangement7E(5)
 teaching hospital2(1)
-the Commonwealth Act2(1)
 the contractor35C(1)
-the relevant notice16(1)
 waiting times34(2)
