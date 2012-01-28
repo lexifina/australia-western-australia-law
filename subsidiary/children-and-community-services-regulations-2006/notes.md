@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 April 2011 of the Children and Community Services Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Children and Community Services Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Children and Community Services Regulations 2006 | 18 Jan 2006 p. 353-72 | 1 Mar 2006 (see r. 2 and Gazette 14 Feb 2006 p. 695)
@@ -13,6 +13,7 @@ Children and Community Services Amendment Regulations 2009 | 19 Jun 2009 p. 2225
 Children and Community Services Amendment Regulations 2010 | 18 Jan 2011 p. 145-6 | r. 1 and 2: 18 Jan 2011 (see r. 2(a)); Regulations other than r. 1, 2 and 4: 19 Jan 2011 (see r. 2(c)); r. 4: 31 Jan 2011 (see r. 2(b) and Gazette 28 Jan 2011 p. 241)
 Children and Community Services Amendment Regulations 2011 | 28 Jan 2011 p. 243-56 | r. 1 and 2: 28 Jan 2011 (see r. 2(a)); r. 5: 31 Jan 2011 (see r. 2(b) and Gazette 28 Jan 2011 p. 241); Regulations other than r. 1, 2 and 5: 31 Jan 2011 (see r. 2(c) and Gazette 28 Jan 2011 p. 241)
 Reprint 2: The Children and Community Services Regulations 2006 as at 8 Apr 2011 (includes amendments listed above)
+Children and Community Services Amendment Regulations 2012 | 27 Jan 2012 p. 567 | r. 1 and 2: 27 Jan 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jan 2012 (see r. 2(b))
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Children and Community Services Act 2004 s. 250.
 Defined Terms
