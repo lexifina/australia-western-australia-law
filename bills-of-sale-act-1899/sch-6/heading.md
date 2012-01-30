@@ -1,6 +1,0 @@
-## Twelfth Schedule — Covenant to insure
-[s. 17S]
-[Heading inserted by No. 24 of 1914 s. 11 (as amended by No. 40 of 1957 s. 21); amended by No. 19 of 2010 s. 4.]
-The grantor will forthwith insure and, so long as any money shall remain due from him to the grantee on the security of the bill of sale, keep insured in some public insurance office, to be approved of by the grantee, against loss or damage by fire, in the name of the grantee, the chattels comprised in such bill of sale to the full amount then due thereon, and will hand over to the grantee the policy of such insurance and produce to him the receipts for the annual or other periodical premiums payable on account thereof, and that all moneys payable by virtue of such insurance shall be received by the grantee towards satisfaction of the moneys due on such security, and that if default shall be made by the grantor in effecting or keeping on foot such insurance it shall be lawful for, but not obligatory upon the grantee (without prejudice to any other remedy) to insure the said chattels in manner aforesaid, and the money paid on account of such insurance shall be a charge on the said chattels.
-[Twelfth Schedule inserted by No. 24 of 1914 s. 11 (as amended by No. 40 of 1957 s. 21).]
-[Thirteenth Schedule deleted by No. 49 of 1983 s. 11.]

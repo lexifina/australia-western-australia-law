@@ -144,13 +144,13 @@ Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 2 (
 Reprint 11: The Road Traffic Act 1974 as at 28 Jan 2011 (includes amendments listed above, except the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 4 and 13 )
 Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 2 | 14 of 2011 | 25 May 2011 | 1 Oct 2011 (see s. 2(b) and Gazette 30 Aug 2011 p. 3503)
 Road Traffic Legislation Amendment (Information) Act 2011 Pt. 2 (other than s. 9) | 18 of 2011 | 2 Jun 2011 | 30 Jun 2011 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611)
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 3 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 5, 11, 12(2)(c), (5)(d) and (7)(b), 14 and 15 | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 Road Traffic Legislation Amendment (Information) Act 2011 s. 9 | 18 of 2011 | 2 Jun 2011 | To be proclaimed (see s. 2(b))
-Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 3 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 Manslaughter Legislation Amendment Act 2011 Pt. 3 | 58 of 2011 | 30 Nov 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 Section 111(2)(f) of this Act has been deleted.
@@ -277,7 +277,7 @@ Part 3 — Transitional provision
 36.Existing demerit points
 Points currently recorded in respect of a person under section 103 of the Road Traffic Act 1974 immediately before that section is repealed by section 29, and details of any offence in respect of which the points were recorded, are to be recorded as demerit points against the person in the demerit points register referred to in Part VIA of the Road Traffic Act 1974 as inserted by section 31.
 The Road Traffic Amendment Act 2006 Pt. 4 Div. 4 will not be included because the Road Traffic Amendment (Vehicle Licensing) Act 2001 has already commenced (see s. 45-48).
-On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 5, 11, 12(2)(c), (5)(d) and (7)(b), 14 and 15 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 5, 11, 12(2)(c), (5)(d) and (7)(b), 14 and 15 had not come into operation. They read as follows:
 Part 2 — Road Traffic Act 1974 amended
 5.Section 51 amended
 Delete section 51(4) and insert:
@@ -362,16 +362,7 @@ election.
 15.Section 106A amended
 After section 106A(2) insert:
 (3) Despite subsection (2), a period for which the court must, in accordance with subsection (1), disqualify an offender for an offence is to be reduced by any period during which the offender was disqualified by a disqualification notice given to the offender under section 71C in relation to the offence.
-On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 3 had not come into operation. It reads as follows:
-Division 3 — Road Traffic Act 1974 amended
-102.Act amended
-This Division amends the Road Traffic Act 1974.
-103.Section 15A inserted
-At the end of Part II insert:
-15A.Disclosure of information for the purposes of the Personal Property Securities Act 2009 (Commonwealth)
-The Director General may disclose the following information to the Registrar as defined in the Personal Property Securities Act 2009 (Commonwealth) section 10 —
-(a) information relating to vehicles that have been stolen or written off;
-(b) information contained in the register of vehicle licences referred to in section 27(1) that the Director General considers to be relevant to the operation of the register as defined in section 10 of that Act.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment (Information) Act 2011 s. 9 had not come into operation. It reads as follows:
 Part 2 — Road Traffic Act 1974 amended
 9.Section 43A inserted

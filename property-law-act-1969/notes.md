@@ -25,10 +25,7 @@ Liquor and Gaming Legislation Amendment Act 2006 s. 115 | 73 of 2006 | 13 Dec 20
 Reprint 4: The Property Law Act 1969 as at 24 Aug 2007 (includes amendments listed above)
 Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
 Standardisation of Formatting Act 2010 s. 26 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
- | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 3 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 3 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Repealed by the Interpretation Act 1984.
 Repealed by the Strata Titles Act 1985.
 Section 31A proclaimed 21 January 1972, see Gazette 21 January 1972 p 72.
@@ -42,11 +39,66 @@ The Acts Amendment (Equality of Status) Act 2003 s. 125(3) reads as follows:
 (b) continued to have effect after the commencement of section 31 of the Property Law Act 1969,
 is of no effect.
 ”.
-On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 3 had not come into operation. It reads as follows:
-Division 3 — Property Law Act 1969 amended
-20.Act amended
-This Division amends the Property Law Act 1969.
-21.Section 6 replaced
-Delete section 6 and insert:
-6.Application of this Act to certain Acts
-Except as in this Act expressly provided, this Act so far as inconsistent with the Transfer of Land Act 1893, or the Strata Titles Act 1985, does not apply to land that is under the provisions of either of those Acts.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+a purchaser in good faith95(3)
+annuities130(1)
+any debt or other legal chose in action20(3)
+bankruptcy7
+building122(7)
+convey7
+conveyance7
+Court7, 100
+decision of the Court100
+deed7
+dispose of7
+disposition7
+dividends130(1)
+employee115(2)
+employer115(2)
+encumbrance7
+encumbrancee7
+estate tail23(3)
+fine7
+income7
+instrument7, 100
+land7, 49(2)
+land under the Transfer of Land Act 18937
+lease7, 69, 81(5)
+lessee7, 81(5)
+lessor7, 81(5)
+limitation100
+mines and minerals7
+month8
+mortgage7, 7
+mortgage money7
+mortgaged property55(6)
+mortgagee7
+mortgagee in possession7
+mortgagor7
+notice7
+order absolute53(2)
+periodic tenancy7
+person8
+personal representative7
+possession7
+prescribed notice83C(1)
+property7, 100
+purchase7
+purchaser7
+registered or duly registered7
+rent7, 130(1)
+represented person7
+reversionary interest92(2)
+right of redemption7
+right of re-entry76(2)
+sale7
+securities7
+successors in title47(2), 48(3)
+trust100
+trustee100
+under-lease81(5)
+under-lessee81(5)
+valuable consideration7
+will7, 100

@@ -19,47 +19,13 @@ Acts Amendment (Bankruptcy) Act 2009 s. 27 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Co-operatives Act 2009 s. 508 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 18 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 513 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
-Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 1 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 Repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
-On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 1 had not come into operation. It reads as follows:
-Division 1 — Criminal Property Confiscation Act 2000 amended
-9.Act amended
-This Division amends the Criminal Property Confiscation Act 2000.
-10.Section 10 amended
-In section 10(2) after “registerable under” insert:
-the Personal Property Securities Act 2009 (Commonwealth) or
-11.Section 31 amended
-In section 31(2) after “registrable under” insert:
-the Personal Property Securities Act 2009 (Commonwealth) or
-12.Section 36 amended
-In section 36(3) after “registrable under” insert:
-the Personal Property Securities Act 2009 (Commonwealth) or
-13.Section 39 amended
-In section 39(5) after “registrable under” insert:
-the Personal Property Securities Act 2009 (Commonwealth) or
-14.Section 46 amended
-In section 46(3) after “registrable under” insert:
-the Personal Property Securities Act 2009 (Commonwealth) or
-15.Section 125 amended
-(1) In section 125 delete “A charge” and insert:
-(1) A charge
-(2) At the end of section 125 insert:
-(2) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 73(2)(a), it is declared that section 73(2) of that Act applies to a charge created on property under section 123(1).
-16.Section 127 amended
-(1) In section 127(1):
-(a) after “land under” insert:
-the Personal Property Securities Act 2009 (Commonwealth) or
-(b) after “accordance with” insert:
-that Act or
-(2) In section 127(3):
-(a) after “memorial in accordance with” insert:
-the Personal Property Securities Act 2009 (Commonwealth) or
-(b) after “accordance with” insert:
-that Act or
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 513 had not come into operation. It reads as follows:
 513.Criminal Property Confiscation Act 2000 amended
 (1) This section amends the Criminal Property Confiscation Act 2000.

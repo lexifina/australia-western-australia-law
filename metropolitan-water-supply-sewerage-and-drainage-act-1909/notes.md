@@ -69,10 +69,7 @@ Land Information Authority Act 2006 s. 145 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
 Water Resources Legislation Amendment Act 2007 Pt. 4 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Standardisation of Formatting Act 2010 s. 22, 42(3), 47 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 10: The Metropolitan Water Supply, Sewerage, and Drainage Act 1909 as at 10 Jun 2011 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
- | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 3 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 3 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 The short title of the Water Authority Act 1984 was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995.
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 5 and 8.
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
@@ -83,15 +80,6 @@ The Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 50(2) reads as f
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 32 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 3 had not come into operation. It reads as follows:
-Division 3 — Metropolitan Water Supply, Sewerage, and Drainage Act 1909 amended
-119.Act amended
-This Division amends the Metropolitan Water Supply, Sewerage, and Drainage Act 1909.
-120.Section 109 amended
-(1) In section 109 delete “The” and insert:
-(1) The
-(2) At the end of section 109 insert:
-(2) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 73(2)(a), it is declared that section 73(2) of that Act applies to a charge created under subsection (1).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

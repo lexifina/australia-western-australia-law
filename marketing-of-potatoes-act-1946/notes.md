@@ -32,18 +32,9 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 2 Div. 5 | 28 of
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Standardisation of Formatting Act 2010 s. 43(3) | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
- | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 2 Div. 2 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 2 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 The provision in this Act repealing this Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
-On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 2 Div. 2 had not come into operation. It reads as follows:
-Division 2 — Marketing of Potatoes Act 1946 amended
-7.Act amended
-This Division amends the Marketing of Potatoes Act 1946.
-8.Section 31 amended
-In section 31 delete “The Corporation” and insert:
-Subject to the Personal Property Securities Act 2009 (Commonwealth), the Corporation
+Footnote no longer applicable.
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
 The Marketing of Potatoes Amendment Act 1995 s. 9(2) and (3) are transitional provisions that are of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.

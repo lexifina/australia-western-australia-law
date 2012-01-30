@@ -13,10 +13,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Reprint 3: The Western Australian Turf Club Act 1892 as at 4 Jul 2008 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 37 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
- | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 11 Div. 2 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 11 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by Government Railways Act 1904.
 This Act is to be read in conjunction with the Western Australian Turf Club (Property) Act 1944 (see s. 2 of that Act).
@@ -44,16 +41,9 @@ Division 2 — Transitional provision
 (3) The by-laws continued in force under subsection (1), expire 12 months after the coming into operation of this section, or on a day fixed by order of the Minister published in the Gazette, whichever is the earlier day.
 (4) Nothing in this section affects the operation of section 36 of the RWWA Act.
 ”.
-On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 11 Div. 2 had not come into operation. It reads as follows:
-Division 2 — The Western Australian Turf Club Act 1892 amended
-96.Act amended
-This Division amends The Western Australian Turf Club Act 1892.
-97.Section 30 amended
-In section 30 delete “The respective” and insert:
-Subject to the Personal Property Securities Act 2009 (Commonwealth), the respective
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 building2
 chairman2
 club2

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 January 2012 of the Liquor Control Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Liquor Control Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Liquor Licensing Act 1988 | 54 of 1988 | 9 Dec 1988 | s. 1 and 2: 9 Dec 1988; Act other than s. 1 and 2: 1 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
@@ -42,14 +42,14 @@ Reprint 6: The Liquor Control Act 1988 as at 20 Nov 2009 (includes amendments li
  | Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 31 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
  | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
  | Liquor Control Amendment Act 2010 | 56 of 2010 | 8 Dec 2010 | s. 1 and 2: 8 Dec 2010; (see s. 2(a)) s. 3, Pt. 4-6: 17 Jan 2011 (see s. 2(b) and Gazette 31 Dec 2010 p. 6887); Pt. 2: 7 Jun 2011 (see s. 2(b) and Gazette 3 Jun 2011 p. 1975); Pt. 3: 8 Oct 2011 (see s. 2(b) and Gazette 7 Oct 2011 p. 4067)
+ | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 11 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
  | Statutes (Repeals and Minor Amendments) Act 2011 s. 17 and 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
- | Reprint 7: The Liquor Control Act 1988 as at 6 Jan 2012 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+ | Reprint 7: The Liquor Control Act 1988 as at 6 Jan 2012 (includes amendments listed above except those in the Personal Property Securities (Consequential Repeals and Amendments) Act 2011)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Building Act 2011 s. 165 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
-Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 11 Div. 1 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth.) s. 306(2) (see s. 2(c))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Acts 1984 s. 7(4)(f).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Repealed by the Public Sector Management Act 1994.
@@ -59,25 +59,18 @@ Repealed by the Liquor Act 1970, which was repealed by this Act.
 Now known as the Liquor Control Act 1988; short title changed (see note under s. 1).
 The Courts Legislation Amendment Act 2000 s. 14 is a transitional provision that is of no further effect.
 The Liquor Licensing Amendment Act 2001 s. 5(2) and 6(2) are transitional provisions that are of no further effect.
-On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 32 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 32 had not come into operation. It reads as follows:
 32.Liquor Control Act 1988 amended
 (1) The amendment in this section is to the Liquor Control Act 1988.
 (2) After section 37(6) the following subsection is inserted —
 (7) An application shall not be granted where the licensing authority is satisfied that the premises to which the application relates are premises at or from which a sexual service business within the meaning of the Sexual Services Act 2000 section 3 operates.
-On the date as at which this reprint was prepared, the Building Act 2011 s. 165 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Building Act 2011 s. 165 had not come into operation. It reads as follows:
 165.Liquor Control Act 1988 amended
 (1) This section amends the Liquor Control Act 1988.
 (2) In section 39(2)(a)(iv) delete “Local Government (Miscellaneous Provisions) Act 1960;” and insert:
 Building Act 2011;
 (3) In section 69(8)(c) delete “Local Government (Miscellaneous Provisions) Act 1960,” and insert:
 Building Act 2011,
-On the date as at which this reprint was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 11 Div. 1 had not come into operation. It reads as follows:
-Division 1 — Liquor Control Act 1988 amended
-94.Act amended
-This Division amends the Liquor Control Act 1988.
-95.Section 30A amended
-After section 30A(2) insert:
-(3) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), a licence granted under subsection (1) that is transferable by the licensee is declared not to be personal property for the purposes of that Act.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

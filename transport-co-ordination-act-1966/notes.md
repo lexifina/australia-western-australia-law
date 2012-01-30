@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Transport Co-ordination Act 1966 and includes the amendments made by the other written laws referred to in the following table 1a, 6, 7, 15-19. The table also contains information about any reprint.
+This is a compilation of the Transport Co-ordination Act 1966 and includes the amendments made by the other written laws referred to in the following table 6, 7, 15-19. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road and Air Transport Commission Act 1966 | 53 of 1966 | 5 Dec 1966 | 19 Jun 1967 (see s. 2 and Gazette 9 Jun 1967 p. 1547)
@@ -70,10 +70,7 @@ Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 201
 Standardisation of Formatting Act 2010 s. 4, 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 9: The Transport Co-ordination Act 1966 as at 11 Mar 2011 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
- | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 6 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 6 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 The State Transport Co-ordination Act 1966 was repealed by the State Transport Co-ordination Act 1981, which was repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.
 The reference in the Taxi Act 1994 s. 49(a) to an amendment of s. 2 of this Act should refer to an amendment of s. 4 of this Act. Section 49(a) reads as follows:
 (a) in section 2, in the definition of omnibus by deleting “a vehicle licensed for use as a taxi-car under the Taxi-cars (Co-ordination and Control) Act 1963, or” and substituting the following —
@@ -152,16 +149,6 @@ The amendment in the Bulk Handling Repeal Act 2000 s. 16 is not included because
 The amendment in the Labour Relations Reform Act 2002 s. 27 is not included because the section it sought to amend had been replaced by the Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 42 before the amendment purported to come into operation.
 The Statutes (Repeals and Minor Amendments) Act 2003 s. 121(3) is not included because the section it sought to amend had been replaced by the Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 47 before the amendment purported to come into operation.
 The amendment in the Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 50 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13) before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 6 had not come into operation. It reads as follows:
-Division 6 — Transport Co-ordination Act 1966 amended
-108.Act amended
-This Division amends the Transport Co-ordination Act 1966.
-109.Section 20 amended
-After section 20(4) insert:
-(5) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), a licence granted under this Part is declared not to be personal property for the purposes of that Act.
-110.Section 47ZD amended
-After section 47ZD(6) insert:
-(7) If a licence issued under subsection (1) is transferable by the licensee, in accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), the licence is declared not to be personal property for the purposes of that Act.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

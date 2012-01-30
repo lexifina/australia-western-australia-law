@@ -9,20 +9,30 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 1: The Perth Parking Management Act 1999 as at 28 Oct 2005 (includes amendments listed above)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
- | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 2 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 21(2) and (3) read as follows:
 “
 (2) The balance of the Perth Parking Licensing Account as it was before this section came into operation is to be the opening balance of the account of that name established under the Perth Parking Management Act 1999 section 23(1) as amended by subsection (1).
 (3) The amount of that opening balance is to be reflected by a closing entry in the Perth Parking Licensing Account that was, before this section came into operation, required to be maintained as a part of the Transport Co-ordination Fund established under section 62 of the Transport Co-ordination Act 1966.
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 2 had not come into operation. It reads as follows:
-Division 2 — Perth Parking Management Act 1999 amended
-100.Act amended
-This Division amends the Perth Parking Management Act 1999.
-101.Section 9 amended
-After section 9(5) insert:
-(6) If a licence issued under subsection (1) is transferable by the licensee, in accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), the licence is declared not to be personal property for the purposes of that Act.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+CEO4
+common property4
+infringement notice4
+inspector4
+licensee4
+lot4
+motor vehicle4
+owner4
+parking bay licence4
+Perth Parking Licensing Account4
+Perth parking management area4
+Perth Parking Policy4
+power assisted pedal cycle4
+strata company4
+strata scheme4
+survey-strata scheme4
+vehicle4

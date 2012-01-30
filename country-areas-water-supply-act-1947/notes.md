@@ -61,11 +61,11 @@ Compilation table
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 42 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
  | Standardisation of Formatting Act 2010 s. 15, 43(3) and 54 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+ | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 87 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 1 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Formerly referred to the Water Authority Act 1984 the short title of which was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -97,13 +97,46 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 (2) Section 12C(1)(c) is amended by deleting “the Agriculture and Related Resources Protection Act 1976” and inserting instead —
 “ the Biosecurity and Agriculture Management Act 2007 ”.
 ”.
-”.
-On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 1 had not come into operation. It reads as follows:
-Division 1 — Country Areas Water Supply Act 1947 amended
-115.Act amended
-This Division amends the Country Areas Water Supply Act 1947.
-116.Section 81 amended
-(1) In section 81 delete “The” and insert:
-(1) The
-(2) At the end of section 81 insert:
-(2) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 73(2)(a), it is declared that section 73(2) of that Act applies to a charge created under subsection (1).
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+Authority37(1)
+by-laws5(1)
+catchment area5(1)
+CEO5(1)
+controlled land12AA
+Corporation5(1)
+country water area5(1)
+Department5(1)
+district5(1)
+farm land5(1)
+Fire Brigades Act37(1)
+fire district37(1)
+fire hydrant37(1)
+former authority5(1)
+former Authority5(1)
+former Commission5(1)
+former Minister5(1)
+Goldfields Water Supply Act5(1)
+holding5(1)
+metropolitan area5(1)
+officer5(1)
+old section 85(1) notice83(4)
+old section 90 notice88A(4)
+order45(5)
+prescribed5(1)
+proclaimed day37(1)
+Registrar of Deeds5(1)
+re-instatement37(1)
+the former Department5(1)
+the land in question12AA
+the subject land12AA
+to clear12AA
+townsite5(1)
+water board5(1)
+Water Boards Act5(1)
+water reserve5(1)
+Water Supply Act5(1)
+water supply charge5(1)
+water works5(1)
+watercourse5(1)

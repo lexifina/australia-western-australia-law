@@ -30,13 +30,13 @@ Duties Legislation Amendment Act 2008 Sch. 1 cl. 30 | 12 of 2008 | 14 Apr 2008 |
 Standardisation of Formatting Act 2010 s. 4 and 50 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Petroleum and Energy Legislation Amendment Act 2010 Pt. 3 (other than s. 149, 163, 165(1)(b) (to the extent that it inserts s. 152(2)(lc)) and 169 (to the extent that it inserts Sch. 3 cl. 4)) | 42 of 2010 | 28 Oct 2010 | 25 May 2011 (see s. 2(b) and Gazette 24 May 2011 p. 1892)
 Reprint 4: The Petroleum (Submerged Lands) Act 1982 as at 5 Aug 2011 (includes amendments listed above)
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 5 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Petroleum (Submerged Lands) Amendment Act 2011 | 57 of 2011 | 30 Nov 2011 | s. 1 and 2: 30 Nov 2011 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2012 (see s. 2(b) and Gazette 30 Dec 2011 p. 5537)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Petroleum and Energy Legislation Amendment Act 2010 s. 149, 163, 165(1)(b) (to the extent that it inserts s. 152(2)(lc)) and 169 (to the extent that it inserts Sch. 3 cl. 4) | 42 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
-Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 5 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 See the Gas Pipelines Access (Western Australia) Act 1998 s. 9.
 Repealed by the Off-shore (Application of Laws) Act 1982 s. 5.
 On the date as at which this compilation was prepared, the Petroleum and Energy Legislation Amendment Act 2010 s. 149, 163, 165(1)(b) (to the extent that it inserts s. 152(2)(lc)) and 169 (to the extent that it inserts Sch. 3 cl. 4) had not come into operation. They read as follows:
@@ -242,18 +242,6 @@ The Acts Amendment (Petroleum) Act 1990 s. 218(2) and (3) read as follows:
 The Land (Titles and Traditional Usage) Act 1993 Sch. 1 Pt. 4 cl. 5(2) reads as follows:
 (2) Division 4A inserted by subsection (1) does not apply to an application for approval lodged before the commencement of this section.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 5 had not come into operation. It reads as follows:
-Division 5 — Petroleum (Submerged Lands) Act 1982 amended
-90.Act amended
-This Division amends the Petroleum (Submerged Lands) Act 1982.
-91.Section 152I inserted
-At the beginning of Part IV insert:
-152I.Certain things are not personal property for the purposes of the Personal Property Securities Act 2009 (Commonwealth)
-In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), the following rights, entitlements or authorities are declared not to be personal property for the purposes of that Act —
-(a) an exploration permit for petroleum granted under section 27;
-(b) a retention lease granted under section 38B(5);
-(c) a production licence for petroleum granted under section 44(2);
-(d) a licence to construct and operate a pipeline granted under section 65(10).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

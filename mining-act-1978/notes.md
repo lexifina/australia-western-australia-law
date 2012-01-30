@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 October 2011 of the Mining Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Mining Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Mining Act 1978 | 107 of 1978 | 8 Dec 1978 | Long title, heading to Pt. I, s. 1 and 2, heading to, and cl. 3 of, the Second Sch: 8 Dec 1978 (see s. 2(1)); Act other than long title, heading to Pt. I, s. 1 and 2, heading to, and cl. 3 of, the Second Sch.: 1 Jan 1982 (see s. 2(2) and Gazette 11 Dec 1981 p. 5085)
@@ -73,12 +73,12 @@ Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 6 | 8 of 2010 | 
 Approvals and Related Reforms (No. 2) (Mining) Act 2010 Pt. 2 and 3 | 12 of 2010 | 3 Jun 2010 | Pt. 3: 21 Mar 2011 (see s. 2(b) and Gazette 18 Mar 2011 p. 909); Pt. 2: 1 Jul 2011 (see s. 2(b) and Gazette 18 Mar 2011 p. 909)
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Reprint 8: The Mining Act 1978 as at 7 Oct 2011 (includes amendments listed above) (correction to reprint in Gazette 1 Jun 2012 p. 2282)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
+Reprint 8: The Mining Act 1978 as at 7 Oct 2011 (includes amendments listed above except those in the Personal Property Securities (Consequential Repeals and Amendments) Act 2011) (correction to reprint in Gazette 1 Jun 2012 p. 2282)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 1 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
 The Mining Amendment Act 1981 s. 3 reads as follows:
@@ -88,7 +88,7 @@ The Mining Amendment Act 1981 s. 3 reads as follows:
 (3) A miner’s right issued under the Mining Act 1904 before 8 December 1978 shall be deemed to have been valid and in force until the date of expiry expressed thereon.
 (4) Subsection (3) of this section shall not be construed so as to derogate in any way from the effect of the Mining Act Amendment Clause 1978 as set out in Clause 3 of the Second Schedule to the Mining Act 1978.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in a written law to the Department of Mines is, unless the contrary is intended, to be read and construed as a reference to the Department of Industry and Resources.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Industry and Resources is called the Department of Mines and Petroleum.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Industry and Resources is called the Department of Mines and Petroleum.
 The Mining Legislation Amendment and Validation Act 2008 Pt. 2 Div. 2 and Pt. 3 read as follows:
 Division 2 — Validation and pending applications
 6.Validation of extension of term of certain exploration licences
@@ -250,7 +250,7 @@ to or in relation to any matter.
 (a) affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 7.3Consequential amendments
 Schedule 2 has effect.
 Schedule 2 Div. 5 reads as follows:
@@ -347,20 +347,6 @@ Immediately before section 91 the following section is inserted —
 ”.
 The insertion of s. 70O in this Act by the Native Title (State Provisions) Act 1999 s. 7.3 would conflict with an amendment in the Mining Amendment Act 2004 s. 27.
 The insertion of s. 75(8) in this Act by the Native Title (State Provisions) Act 1999 s. 7.3 would conflict with an amendment in the Mining Amendment Act 2004 s. 31(7).
-On the date as at which this reprint was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 1 had not come into operation. It reads as follows:
-Division 1 — Mining Act 1978 amended
-82.Act amended
-This Division amends the Mining Act 1978.
-83.Section 162A inserted
-After section 161 insert:
-162A.Certain things are not personal property for the purposes of the Personal Property Securities Act 2009 (Commonwealth)
-In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), the following rights, entitlements or authorities are declared not to be personal property for the purposes of that Act —
-(a) a prospecting licence granted under section 40(1), 56A(6) or 70(6);
-(b) an exploration licence granted under section 57(1);
-(c) a retention licence granted under section 70B(1);
-(d) a mining lease granted under section 71;
-(e) a general purpose lease granted under section 86(1);
-(f) a miscellaneous licence granted under section 91(1).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
