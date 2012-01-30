@@ -8,4 +8,4 @@ with the object of —
 (d) defining standards of conduct in the marketing of gas to customers.
 (3) The code of conduct may contain such ancillary and incidental provisions as are necessary or expedient for the purposes of subsection (2).
 (4) Subsection (1) has effect subject to section 53 of the Energy Legislation Amendment Act 2003.
-[Section 11ZPM inserted by No. 53 of 2003 s. 31.]
+[Section 11ZPM inserted: No. 53 of 2003 s. 31.]

@@ -6,4 +6,4 @@
 (a) the conduct of the person or of any other person; or
 (b) other relevant circumstances.
 (3) Subsection (2) does not limit the manner in which the purpose of a person may be established for the purpose of section 11ZOV.
-[Section 11ZOX inserted by No. 53 of 2003 s. 15.]
+[Section 11ZOX inserted: No. 53 of 2003 s. 15.]

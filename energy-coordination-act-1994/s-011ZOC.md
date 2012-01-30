@@ -5,4 +5,4 @@
 (2) This section has effect subject to —
 (a) section 11ZOE; and
 (b) any exemption granted under section 11ZOS.
-[Section 11ZOC inserted by No. 53 of 2003 s. 15.]
+[Section 11ZOC inserted: No. 53 of 2003 s. 15.]

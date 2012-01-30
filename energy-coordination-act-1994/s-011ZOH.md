@@ -8,4 +8,4 @@ or
 (b) making any provision that —
 (i) facilitates the operation of a retail market scheme or retail market rules; and
 (ii) cannot be included in the scheme or rules under the provisions of section 11ZOF or 11ZOG.
-[Section 11ZOH inserted by No. 53 of 2003 s. 15.]
+[Section 11ZOH inserted: No. 53 of 2003 s. 15.]

@@ -5,4 +5,4 @@
 (b) given a reasonable opportunity to show why the order should not be made.
 (3) The Authority may recover a penalty imposed under subsection (1) in a court of competent jurisdiction as a debt due to the Crown by the formal entity.
 (4) References in this section to a formal entity include, in the case of an entity that is not a body corporate, the members of the entity.
-[Section 11ZPB inserted by No. 53 of 2003 s. 15; amended by No. 53 of 2003 s. 19(1).]
+[Section 11ZPB inserted: No. 53 of 2003 s. 15; amended: No. 53 of 2003 s. 19(1).]

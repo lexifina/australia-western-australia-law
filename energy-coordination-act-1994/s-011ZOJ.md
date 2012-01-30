@@ -10,4 +10,4 @@
 (b) refuse to approve it,
 in accordance with sections 11ZON and 11ZOP.
 (4) The Authority is to cause notice of the approval of a retail market scheme to be published in the Gazette.
-[Section 11ZOJ inserted by No. 53 of 2003 s. 15; amended by No. 53 of 2003 s. 19(1).]
+[Section 11ZOJ inserted: No. 53 of 2003 s. 15; amended: No. 53 of 2003 s. 19(1).]

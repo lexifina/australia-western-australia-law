@@ -1,7 +1,7 @@
 ## Division 4 — Enforcement
-[Heading inserted by No. 53 of 2003 s. 15.]
+[Heading inserted: No. 53 of 2003 s. 15.]
 ## Subdivision 1 — Enforcement of requirements for membership of scheme
-[Heading inserted by No. 53 of 2003 s. 15.]
+[Heading inserted: No. 53 of 2003 s. 15.]
 ### 11ZOR. Membership required
 (1) A gas distribution operator contravenes this section if the operator —
 (a) transports gas through a distribution system; and
@@ -13,4 +13,4 @@
 (a) section 11ZOE; and
 (b) any exemption granted under section 11ZOS.
 (4) A person who contravenes this section is liable to a penalty under section 11ZOT.
-[Section 11ZOR inserted by No. 53 of 2003 s. 15.]
+[Section 11ZOR inserted: No. 53 of 2003 s. 15.]

@@ -6,4 +6,4 @@
 (a) notified in writing of the proposed order; and
 (b) given a reasonable opportunity to show why the order should not be made.
 (5) The Authority may recover a penalty imposed under subsection (2) in a court of competent jurisdiction as a debt due by the person to the Crown.
-[Section 11ZOT inserted by No. 53 of 2003 s. 15; amended by No. 53 of 2003 s. 19(1).]
+[Section 11ZOT inserted: No. 53 of 2003 s. 15; amended: No. 53 of 2003 s. 19(1).]

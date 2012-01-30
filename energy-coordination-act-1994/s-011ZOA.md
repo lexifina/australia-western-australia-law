@@ -1,7 +1,7 @@
 ## Part 2B — Gas supply: retail market schemes
-[Heading inserted by No. 53 of 2003 s. 15.]
+[Heading inserted: No. 53 of 2003 s. 15.]
 ## Division 1 — Preliminary
-[Heading inserted by No. 53 of 2003 s. 15.]
+[Heading inserted: No. 53 of 2003 s. 15.]
 ### 11ZOA. Terms used
 In this Part, unless the contrary intention appears —
 approved means approved by the Authority under Division 3;
@@ -19,4 +19,4 @@ relevant provisions, in relation to a person, means the provisions of a retail m
 retail gas operator has the meaning given by section 11ZOC(1)(b);
 retail market rules means rules of the kind described in section 11ZOG, as from time to time amended, that have effect as part of a retail market scheme;
 retail market scheme means a scheme of the kind described in section 11ZOF.
-[Section 11ZOA inserted by No. 53 of 2003 s. 15; amended by No. 53 of 2003 s. 19(3).]
+[Section 11ZOA inserted: No. 53 of 2003 s. 15; amended: No. 53 of 2003 s. 19(3).]

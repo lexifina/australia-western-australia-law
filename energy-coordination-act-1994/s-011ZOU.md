@@ -1,5 +1,5 @@
 ## Subdivision 2 — Enforcement of retail market scheme and rules
-[Heading inserted by No. 53 of 2003 s. 15.]
+[Heading inserted: No. 53 of 2003 s. 15.]
 ### 11ZOU. Authority may impose penalty for breach
 (1) This section applies if, in the opinion of the Authority —
 (a) a person who is a gas market participant contravenes a relevant provision of a retail market scheme; or
@@ -15,4 +15,4 @@ contravenes a relevant provision of retail market rules.
 (a) notified in writing that the Authority proposes to take action under subsection (3); and
 (b) given a reasonable opportunity to show why such action should not be taken.
 (5) The Authority may recover a penalty imposed under subsection (3)(b) in a court of competent jurisdiction as a debt due to the Crown by the person concerned.
-[Section 11ZOU inserted by No. 53 of 2003 s. 15; amended by No. 53 of 2003 s. 19(1).]
+[Section 11ZOU inserted: No. 53 of 2003 s. 15; amended: No. 53 of 2003 s. 19(1).]

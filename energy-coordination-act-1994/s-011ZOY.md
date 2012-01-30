@@ -5,4 +5,4 @@
 (a) to bring civil proceedings in respect of any matter or thing; or
 (b) to seek any relief or remedy,
 if the cause of action arises, or the relief or remedy is sought, on grounds that do not rely on section 11ZOV.
-[Section 11ZOY inserted by No. 53 of 2003 s. 15.]
+[Section 11ZOY inserted: No. 53 of 2003 s. 15.]

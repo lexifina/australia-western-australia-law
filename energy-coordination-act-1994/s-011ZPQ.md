@@ -4,4 +4,4 @@ The code of conduct may provide —
 (b) that an offence is punishable by a penalty not exceeding —
 (i) $5 000 for an individual; and
 (ii) $20 000 for a body corporate.
-[Section 11ZPQ inserted by No. 53 of 2003 s. 31.]
+[Section 11ZPQ inserted: No. 53 of 2003 s. 31.]

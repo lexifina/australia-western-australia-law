@@ -23,4 +23,4 @@ that system or that part of a system;
 (k) any other matter that is prescribed.
 (3) Retail market rules are of no effect to the extent that they are inconsistent with this Act or another written law.
 (4) Retail market rules are not subsidiary legislation for the purposes of the Interpretation Act 1984.
-[Section 11ZOG inserted by No. 53 of 2003 s. 15.]
+[Section 11ZOG inserted: No. 53 of 2003 s. 15.]
