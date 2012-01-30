@@ -26,11 +26,11 @@ Compilation table
  | Reprint 4: The Gold Corporation Act 1987 as at 1 Aug 2008 (includes amendments listed above)
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 65 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 10 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 46(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 10 Div. 1 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 Now known as the Western Australian Mint Act 1970, which is repealed by this Act.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Acts 1984 s. 7(3)(g).
 The Companies (Western Australia) Code was superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1990 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
@@ -63,18 +63,9 @@ On the date on which this compilation was prepared, the State Superannuation (Tr
 (c) in clause 4(1) by deleting “or otherwise was a contributor to units of pension or to the Provident Account under the Superannuation and Family Benefits Act 1938” and “or any existing accruing rights under the Superannuation and Family Benefits Act 1938”;
 (d) by deleting clause 4(2) and (3).
 ”.
-On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 10 Div. 1 had not come into operation. It reads as follows:
-Division 1 — Gold Corporation Act 1987 amended
-92.Act amended
-This Division amends the Gold Corporation Act 1987.
-93.Section 67 amended
-(1) In section 67 delete “Where gold” and insert:
-(1) Where gold
-(2) At the end of section 67 insert:
-(2) For the purposes of the Personal Property Securities Act 2009 (Commonwealth) section 259, gold that is collateral purchased by Gold Corporation, the Mint or GoldCorp under subsection (1), but not the proceeds from the sale of gold to Gold Corporation, the Mint, or GoldCorp, is declared to be an excluded matter in relation to section 32 of that Act.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Australian currency3(1)
 benefitSch. 2 cl. 1
 Board3(1)
@@ -88,7 +79,7 @@ director3(1)
 document6(11)
 employeeSch. 2 cl. 1
 employees70(3)
-established personSch. 2 cl.1
+established personSch. 2 cl. 1
 foreign currency3(1)
 Gold Bank3(1)
 Gold Corporation3(1)
@@ -114,7 +105,7 @@ subsidiary3(1)
 the Account3(1)
 the Deputy MasterSch. 2 cl. 1
 The Director of The Perth Mint3(1), Sch. 2 cl. 1
-the Mint47(5)(f)
+the Mint47(5)
 the Royal Mint3(1), Sch. 2 cl. 1
 to divulge74(6)
 to produce74(6)

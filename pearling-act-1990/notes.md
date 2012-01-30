@@ -20,23 +20,9 @@ Reprint 2: The Pearling Act 1990 as at 6 Oct 2006 (includes amendments listed ab
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
- | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 7 Div. 2 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 7 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Repealed by the Fish Resources Management Act 1994.
-On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 7 Div. 2 had not come into operation. It reads as follows:
-Division 2 — Pearling Act 1990 amended
-77.Act amended
-This Division amends the Pearling Act 1990.
-78.Section 23 amended
-After section 23(1) insert:
-(2A) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), the following rights, entitlements or authorities are declared not to be personal property for purposes of that Act —
-(a) a pearl oyster farm lease issued under subsection (1)(a);
-(b) a pearling licence issued under subsection (1)(b);
-(c) a pearl oyster hatchery licence issued under subsection (1)(c);
-(d) a pearling permit issued under subsection (1)(g);
-(e) a pearl oyster hatchery permit issued under subsection (1)(h).
+Footnote no longer applicable.
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991 of the Commonwealth.
 The Pearling Amendment Act 1994 s. 6 reads as follows:
 “
@@ -56,3 +42,51 @@ commencement day means the day on which the State Administrative Tribunal (Confe
 (2) If a notice has been published in the Gazette under the Pearling Act 1990 section 23(8) in the period of 14 days before the commencement day, on or after the commencement day the notice is to be taken to refer to a right of review set out in section 33 of the Pearling Act 1990.
 (3) If a notice has been served under the Pearling Act 1990 section 33(2) in the period of 14 days before the commencement day, on or after the commencement day the notice is to be taken to refer to a right of review set out in section 33 of the Pearling Act 1990.
 ”.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+arrangementSch. 3, cl. 6(3)
+Australian fishing zone3(1)
+boat3(1)
+CEO3(1)
+Committee3(1)
+Commonwealth Fisheries Act3(1)
+conditionSch. 3, cl. 6(3)
+Department3(1)
+farm lease3(1)
+Fisheries Research and Development Account3(1)
+foreign boat3(1)
+hatchery activities3(1)
+hatchery licence3(1)
+hatchery permit3(1)
+inspector3(1)
+Joint Authority pearl oyster fishery43(2)
+licence3(1), Sch. 3, cl. 6(3)
+marine management area23A(5), 27A(5)
+marine nature reserve23A(5), 27A(5)
+marine park23A(5), 27A(5)
+master3(1)
+pearl3(1)
+pearl boat licence3(1)
+pearl boat master’s licence3(1)
+pearl culture techniques3(1)
+pearl diver’s licence3(1)
+pearl oyster3(1)
+pearl oyster farm3(1)
+pearl oyster fishery43(2)
+pearling3(1)
+pearling licence3(1)
+pearling permit3(1)
+permit3(1)
+person aggrieved33(10)
+quota3(1)
+sale3(1)
+the primary offence57(1)
+the quota offence9(1)
+the regulations3(1)
+the repeal timeSch. 3, cl. 1
+the repealed ActSch. 3, cl. 1
+unattached27B(4)
+waters3(1)
+Western Australian waters3(1)
+zone3(1)

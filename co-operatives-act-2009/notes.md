@@ -4,12 +4,11 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 | 24 of 2009 | 22 Oct 2009 | s. 1 and 2: 22 Oct 2009 (see s. 2(a)); Act other than s. 1, 2, 490, 491, Pt. 20 Div. 1 and 3: 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975)
 Acts Amendment (Fair Trading) Act 2010 s. 180 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
-Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 44 | 42 of 2011 | 4 Oct 2011 | 5 Oct 2011 (see s. 2(b))
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 4 (s. 37-44) | 42 of 2011 | 4 Oct 2011 | s. 44: 5 Oct 2011 (see s. 2(b)) s. 37-43: 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 490, 491, Pt. 20 Div. 1 and 3 | 24 of 2009 | 22 Oct 2009 | s. 490 and 491 and Pt. 20 Div. 3: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975); Pt. 20 Div. 1: operative on the day that Co-operative Bulk Handling Limited becomes registered under this Act (see s. 2(d))
-Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 37-43 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwth) s. 306(2) (see s. 2(c))
 On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 490, 491, Pt. 20 Div. 1 and 3 had not come into operation. They read as follows:
 490.Companies (Co-operative) Act 1943 repealed
 The Companies (Co-operative) Act 1943 is repealed.
@@ -57,32 +56,6 @@ or
 518.Western Australian Treasury Corporation Act 1986 amended
 (1) This section amends the Western Australian Treasury Corporation Act 1986.
 (2) In Schedule 1 delete items 5 and 6.
-On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 37-43 had not come into operation. They read as follows:
-Division 4 — Co-operatives Act 2009 amended
-37.Act amended
-This Division amends the Co-operatives Act 2009.
-38.Section 44 amended
-Delete section 44(2).
-39.Section 230 amended
-Delete section 230(1)(f).
-40.Section 267 amended
-In section 267:
-(a) in paragraph (b) delete “the Mining Act 1978; or” and insert:
-the Mining Act 1978.
-(b) delete paragraph (c).
-41.Section 337 amended
-(1) In section 337 delete “A co-operative” and insert:
-(1) Subject to subsection (2), a co-operative
-(2) At the end of section 337 insert:
-(2) If the Registrar gives a certificate under section 314 for the winding-up of a co-operative, a co-operative is declared to be an applied Corporations legislation matter for the purposes of the Corporations (Ancillary Provisions) Act 2001 Part 3 in relation to the Corporations Act sections 588FL and 588FM, subject to the following modifications —
-(a) those sections are to be read as if a co-operative were a company;
-(b) any other modifications (within the meaning of the Corporations (Ancillary Provisions) Act 2001 Part 3) that are prescribed by the regulations.
-42.Section 454 amended
-After section 454(2) insert:
-(3) The obligation to keep the Register of Co-operative Charges established under Schedule 3 clause 18 ceases on the day after the end of the period of 7 years beginning at the registration commencement time as defined in Schedule 3 clause 4A.
-43.Section 457 amended
-After section 457(3) insert:
-(4) On and after the day after the end of the period of 7 years beginning at the registration commencement time as defined in Schedule 3 clause 4A, this section has no effect in relation to the Register of Co-operative Charges referred to in clause 18 of that Schedule.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

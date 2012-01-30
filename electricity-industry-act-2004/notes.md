@@ -13,22 +13,11 @@ Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009
 Reprint 2: The Electricity Industry Act 2004 as at 9 Apr 2010 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
- | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 5 Div. 1 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 5 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 The Electricity Corporation Act 1994 was renamed as the Electricity Transmission and Distribution Systems (Access) Act 1994 by the Electricity Corporations Act 2005 Sch. 5 cl. 9.
 The Electricity Corporations Act 2005 Pt. 2 and Sch. 5 (other than cl. 21(2)(a)(ii)) came into operation on 1 Apr 2006, see Gazette 31 Mar 2006 p. 1153.
 The National Gas Access (WA) Act 2009 s. 51 and s. 59(1) came into operation on 1 Jan 2010, see Gazette 31 Dec 2009 p. 5327.
 The Gas Pipelines Access (Western Australia) Act 1998 was renamed as the Energy Arbitration and Review Act 1998 by the National Gas Access (WA) Act 2009 s. 26.
-On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 5 Div. 1 had not come into operation. It reads as follows:
-Division 1 — Electricity Industry Act 2004 amended
-60.Act amended
-This Division amends the Electricity Industry Act 2004.
-61.Section 131A inserted
-After section 130 insert:
-131A.Licence not personal property for the purposes of the Personal Property Securities Act 2009 (Commonwealth)
-If a licence is transferable by the licensee, in accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), the licence is declared not to be personal property for the purposes of that Act.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

@@ -28,10 +28,7 @@ Gas Supply (Gas Quality Specifications) Act 2009 Pt. 7 Div. 1 | 35 of 2009 | 3 D
 Reprint 4: The Energy Coordination Act 1994 as at 7 May 2010 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
- | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 5 Div. 2 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 5 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Expired 30 June 1988.
 The Energy Legislation Amendment Act 2003 Pt. 3 Div. 3 (other than s. 19) reads as follows:
 Part 3 — Amendments to facilitate a contestable retail gas market, and related transitional provisions
@@ -291,17 +288,10 @@ The operation of any provision of this Schedule is not to be regarded —
 (d) as causing any contract or instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 5 Div. 2 had not come into operation. It reads as follows:
-Division 2 — Energy Coordination Act 1994 amended
-62.Act amended
-This Division amends the Energy Coordination Act 1994.
-63.Section 26A inserted
-After section 25 insert:
-26A.Licence not personal property for the purposes of the Personal Property Securities Act 2009 (Commonwealth)
-If a licence is transferable by the licensee, in accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), the licence is declared not to be personal property for the purposes of that Act.
-Defined Terms
+The Economic Regulation Authority Act 2003 s. 10 is not included because the section it sought to amend was deleted by the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 170 before the amendment purported to come into operation.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 amendment11ZOL(5)
 appropriate amendment11WI(3)
 approved11ZOA
@@ -315,7 +305,7 @@ commercial information3(1)
 committee11ZPL
 component3(1)
 contravene11ZOA
-cooling-off period11WC(1)(b)
+cooling-off period11WC(1)
 Coordinator3(1)
 CourtSch. 2A cl. 1
 customer11WB, 11ZPL, 11ZPX
@@ -337,11 +327,11 @@ existing operator11I(1)
 formal entity11ZOA
 gas3(1)
 gas business operator11ZOA
-gas distribution operator11ZOA, 11ZOC(1)(a)
+gas distribution operator11ZOA, 11ZOC(1)
 gas industry ombudsman11ZPX, 11ZPZ(1)
 gas market participant11ZOA, 11ZOC(1)
 gas marketing agent11ZPL, 11ZPX
-gas transmission operator11ZOA, 11ZOD(1)(a)
+gas transmission operator11ZOA, 11ZOD(1)
 governing body of a scheme11ZPA(7)
 information4E(4), 11(4)
 inspector3(1)
@@ -354,7 +344,7 @@ Minister3(1)
 network operator3(1)
 non-standard contract11WB
 period of exclusivity11WM(2)
-prescribed person11ZOD(1)(b)
+prescribed person11ZOD(1)
 prescribed provision11ZO(4)
 prohibited conduct11ZOV(1)
 public authority11ZJ(2)
@@ -363,7 +353,7 @@ relevant official24(1)
 relevant provisions11ZOA
 researcherSch. 1 cl. 1
 retail competition implementation costs11Q(4)
-retail gas operator11ZOA, 11ZOC(1)(b)
+retail gas operator11ZOA, 11ZOC(1)
 retail market rules11WJ, 11ZOA
 retail market scheme11WJ, 11ZOA
 safety provision24A(3)

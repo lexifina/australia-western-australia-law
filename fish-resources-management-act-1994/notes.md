@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 January 2012 of the Fish Resources Management Act 1994 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the Fish Resources Management Act 1994 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fish Resources Management Act 1994 | 53 of 1994 | 2 Nov 1994 | s. 1 and 2: 2 Nov 1994; Act other than s. 1 and 2: 1 Oct 1995 (see s. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -32,14 +32,14 @@ Fish Resources Management Amendment Act 2009 | 37 of 2009 | 3 Dec 2009 | s. 1 an
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Fish Resources Management Amendment (Fees) Act 2011 | 21 of 2011 | 11 Jul 2011 | s. 1 and 2: 11 Jul 2011 (see s. 2(a)); Act other than s. 1 and 2: 30 Jul 2011 (see s. 2(b) and Gazette 29 Jul 2011 p. 3127)
 Fish Resources Management Amendment (Fees) Act (No. 2) 2011 | 22 of 2011 | 11 Jul 2011 | s. 1 and 2: 11 Jul 2011 (see s. 2(a)); s. 3: 30 Jul 2011 (see s. 2(b) and Gazette 29 Jul 2011 p. 3127); s. 4: 30 Jul 2011 (see s. 2(c) and Gazette 29 Jul 2011 p. 3127); s. 5: 30 Jul 2011 (see s. 2(d) and Gazette 29 Jul 2011 p. 3127)
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 7 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Fish Resources Management Amendment Act 2011 | 43 of 2011 | 12 Oct 2011 | s. 1 and 2: 12 Oct 2011 (see s. 2(a)); Act other than s. 1 and 2: 5 Nov 2011 (see s. 2(b) and Gazette 4 Nov 2011 p. 4629)
-Reprint 4: The Fish Resources Management Act 1994 as at 13 Jan 2012 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Reprint 4: The Fish Resources Management Act 1994 as at 13 Jan 2012 (includes amendments listed above except those in the Personal Property Securities (Consequential Repeals and Amendments) Act 2011)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
-Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 7 Div. 1 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 The amendment to s. 245(1) in the Public Sector Reform Act 2010 s. 89 is not included because the section it sought to amend was deleted by the Fish Resources Management Amendment Act 2009 s. 19.
 The Fish Resources Management Amendment Act 2002 s. 8(2)-(4) read as follows:
 (2) The arrangements of 15 April 1995 by which the Minister for Fisheries purported to lease from the Minister for Transport that portion of land known as “Aquaculture Park Area”, being a total area of 7.8152 hectares situated in the Broome Port area, for the purposes of establishing an aquaculture park are to be taken to be, and always to have been, as valid as they would have been if the amendments made to the Fish Resources Management Act 1994 by this Act were in effect at the time the arrangements were made.
@@ -62,7 +62,7 @@ Division 5 — Transitional provisions
 (3) In this section —
 commencement means the time at which section 232 comes into operation.
 The requirement to appoint an Executive Director was removed from the Act and references to the Executive Director were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 8 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
-On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 had not come into operation. It reads as follows:
 89.Fish Resources Management Act 1994 amended
 (1) The amendments in this section are to the Fish Resources Management Act 1994.
 (2) Section 4(1) is amended by deleting the definition of “noxious fish”.
@@ -80,20 +80,7 @@ On the date as at which this reprint was prepared, the Biosecurity and Agricultu
 (7) Section 224(1)(a) is amended by inserting after “Act” —
 “ or the Biosecurity and Agriculture Management Act 2007 ”.
 (8) Section 258(i) is deleted.
-On the date as at which this reprint was prepared, the Standardisation of Formatting Act 2010 s. 4 the amendment to Schedule 1 had not come into operation. It proposes to amend the heading to Schedule 1. Schedule 1 was deleted by the Fish Resources Management Amendment Act 2009 s. 20.
-On the date as at which this reprint was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 7 Div. 1 had not come into operation. It reads as follows:
-Division 1 — Fish Resources Management Act 1994 amended
-73.Act amended
-This Division amends the Fish Resources Management Act 1994.
-74.Section 66 amended
-After section 66(4) insert:
-(5) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), an authorisation granted under subsection (1) is declared not to be personal property for the purposes of that Act.
-75.Section 83 amended
-After section 83(3) insert:
-(4) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), a fish processor’s licence granted under subsection (1) is declared not to be personal property for the purposes of that Act.
-76.Section 92 amended
-After section 92(6) insert:
-(7) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 10 the definition of licence paragraph (d), an aquaculture licence granted under subsection (1) is declared not to be personal property for the purposes of that Act.
+On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 the amendment to Schedule 1 had not come into operation. It proposes to amend the heading to Schedule 1. Schedule 1 was deleted by the Fish Resources Management Amendment Act 2009 s. 20.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

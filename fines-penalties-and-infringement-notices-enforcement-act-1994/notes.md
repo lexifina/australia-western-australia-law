@@ -26,12 +26,9 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2
 Fines Legislation Amendment Act 2008 Pt. 2 | 3 of 2008 | 12 Mar 2008 | s. 12(3): 28 Mar 2008 (see s. 2(b)); Pt. 2 other than s. 12(3): 28 Mar 2008 (see s. 2(c) and Gazette 27 Mar 2008 p. 899)
 Reprint 4: The Fines, Penalties and Infringement Notices Enforcement Act 1994 as at 8 Aug 2008 (includes amendments listed above)
 Fines, Penalties and Infringement Notices Enforcement Amendment (Compensation) Act 2009 | 4 of 2009 | 14 May 2009 | s. 1 and 2: 14 May 2009 (see s. 2(a)); Act other than s. 1 and 2: 23 Jun 2009 (see s. 2(b) and Gazette 23 Jun 2009 p. 2423)
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 12 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
- | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 2 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Fines, Penalties and Infringement Notices Enforcement Amendment Act 2003 s. 12 reads as follows:
 “
@@ -46,16 +43,6 @@ of the Fines, Penalties and Infringement Notices Enforcement Act 1994.
 (2) An agreement entered into, or purportedly entered into, by or on behalf of the Sheriff of Western Australia with an offender before the commencement has, and is deemed always to have had, force and effect.
 (3) An agreement entered into, or purportedly entered into, by a delegate of the Sheriff of Western Australia with an offender before the commencement has, and is deemed always to have had, force and effect.
 ”.
-On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 2 had not come into operation. It reads as follows:
-Division 2 — Fines, Penalties and Infringement Notices Enforcement Act 1994 amended
-17.Act amended
-This Division amends the Fines, Penalties and Infringement Notices Enforcement Act 1994.
-18.Section 96 amended
-In section 96(3)(c) delete “Bills of Sale Act 1899, the Chattel Securities Act 1987, the Transfer of Land Act 1893, the Registration of Deeds Act 1856, or the Corporations Act 2001 of the Commonwealth,” and insert:
-Personal Properties Securities Act 2009 (Commonwealth), the Transfer of Land Act 1893, the Registration of Deeds Act 1856 or the Corporations Act 2001 (Commonwealth),
-19.Section 99 amended
-In section 99 delete “the Bills of Sale Act 1899, the Chattel Securities Act 1987, the Transfer of Land Act 1893,”and insert:
-the Transfer of Land Act 1893
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

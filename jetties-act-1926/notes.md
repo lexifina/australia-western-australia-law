@@ -25,20 +25,16 @@ Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 3: The Jetties Act 1926 as at 8 Jun 2007 (includes amendments listed above except those in the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 81 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
- | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 1 | 42 of 2011 | 4 Oct 2011 | Operative immediately before the registration commencement time as defined in the Personal Property Securities Act 2009 (Cwlth) s. 306(2) (see s. 2(c))
+Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 1 had not come into operation. It reads as follows:
-Division 1 — Jetties Act 1926 amended
-98.Act amended
-This Division amends the Jetties Act 1926.
-99.Section 8A amended
-(1) Delete section 8A(4) and insert:
-(4) The cost of removal under subsection (3) is a debt due to the Crown and a first charge in priority to all other claims on the materials comprising the private jetty.
-(5A) In accordance with the Personal Property Securities Act 2009 (Commonwealth) section 73(2)(a), it is declared that section 73(2) of that Act applies to a charge created under subsection (4).
-(5B) The Minister may recover that cost of removal under subsection (3) by causing the materials comprising the private jetty to be sold.
-(5C) If under subsection (5B) any materials comprising the private jetty are sold in good faith to a person and the person takes the property in good faith, the person receives good title to the materials against every other person including its true owner.
-(2) In section 8A(5) delete “subsection (4)” and insert:
-subsection (5B)
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+chief executive officer3
+Department3
+Government3
+jetty3
+officer3
+private jetty3
+public jetty3
+vessel3
