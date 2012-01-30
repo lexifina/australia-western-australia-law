@@ -7,4 +7,4 @@
 (4) A last resort supply plan is of no effect to the extent that it is inconsistent with —
 (a) this Act or another written law; or
 (b) an access arrangement under the National Gas Access (Western Australia) Law.
-[Section 11ZAC inserted by No. 53 of 2003 s. 37; amended by No. 16 of 2009 s. 66.]
+[Section 11ZAC inserted: No. 53 of 2003 s. 37; amended: No. 16 of 2009 s. 66.]

@@ -1,5 +1,5 @@
 ## Subdivision 3 — Prohibition of certain conduct in relation to a retail market scheme
-[Heading inserted by No. 53 of 2003 s. 15.]
+[Heading inserted: No. 53 of 2003 s. 15.]
 ### 11ZOV. Conduct preventing or hindering operation
 (1) A person to whom this section applies must not engage in conduct (the prohibited conduct) for the purpose of —
 (a) preventing or hindering;
@@ -16,4 +16,4 @@ the operation of a retail market scheme in accordance with section 11ZOB.
 (c) an associate of —
 (i) a gas business operator referred to in paragraph (a); or
 (ii) a person referred to in paragraph (b).
-[Section 11ZOV inserted by No. 53 of 2003 s. 15.]
+[Section 11ZOV inserted: No. 53 of 2003 s. 15.]

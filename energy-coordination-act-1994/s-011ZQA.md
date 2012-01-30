@@ -4,4 +4,4 @@
 (a) follow any prescribed procedure; and
 (b) comply with any other prescribed requirements.
 (3) A copy of an instrument under subsection (1) is to be laid before each House of Parliament within 14 sitting days of that House after the day on which the revocation took effect.
-[Section 11ZQA inserted by No. 53 of 2003 s. 32.]
+[Section 11ZQA inserted: No. 53 of 2003 s. 32.]

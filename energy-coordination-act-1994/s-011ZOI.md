@@ -1,5 +1,5 @@
 ## Division 3 — Preparation, approval, review and amendment of retail market schemes
-[Heading inserted by No. 53 of 2003 s. 15.]
+[Heading inserted: No. 53 of 2003 s. 15.]
 ### 11ZOI. Submission of retail market scheme for approval
 (1) A proposed retail market scheme for a distribution system may be submitted to the Authority for approval by —
 (a) the members of; or
@@ -17,4 +17,4 @@ as part of the scheme; and
 (b) in the case of a person referred to in paragraph (a)(ii) to the extent that the person —
 (i) is required by the regulations to be consulted under subsection (3); or
 (ii) meets any criteria in relation to the requirement for consultation that are prescribed for the purposes of this subparagraph.
-[Section 11ZOI inserted by No. 53 of 2003 s. 15; amended by No. 53 of 2003 s. 19(1).]
+[Section 11ZOI inserted: No. 53 of 2003 s. 15; amended: No. 53 of 2003 s. 19(1).]

@@ -10,4 +10,4 @@ for the purposes of this paragraph.
 (b) prescribe a class of persons in terms that retail market rules apply to persons belonging to the class,
 subject to any specified exception or limitation.
 (3) This section has effect subject to any exemption granted under section 11ZOS.
-[Section 11ZOD inserted by No. 53 of 2003 s. 15.]
+[Section 11ZOD inserted: No. 53 of 2003 s. 15.]

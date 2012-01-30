@@ -1,5 +1,5 @@
 ## Subdivision 2 — Directions as to operation of retail market scheme
-[Heading inserted by No. 53 of 2003 s. 15.]
+[Heading inserted: No. 53 of 2003 s. 15.]
 ### 11ZPA. Directions to governing body of a scheme
 (1) The Authority may, by notice in writing to the governing body of a scheme, give directions as to —
 (a) the provision of information or reports, or the making of periodical returns, to the Authority by the governing body;
@@ -21,4 +21,4 @@ to be published in the Gazette within 14 days after the direction is given.
 (6) The Authority may, in writing, revoke or amend a direction given under this section.
 (7) In this section —
 governing body of a scheme means the governing body of the formal entity mentioned in section 11ZOF(1)(b) for a retail market scheme.
-[Section 11ZPA inserted by No. 53 of 2003 s. 15; amended by No. 53 of 2003 s. 19(1).]
+[Section 11ZPA inserted: No. 53 of 2003 s. 15; amended: No. 53 of 2003 s. 19(1).]

@@ -6,4 +6,4 @@ For the purposes of sections 11ZPU(2) and 11ZPV(3) —
 (b) an opportunity to offer comments is an opportunity to furnish written comments to the committee within —
 (i) a period specified by the Authority by notice in writing to the committee; or
 (ii) in the absence of such a notice, a period determined by the committee.
-[Section 11ZPW inserted by No. 53 of 2003 s. 31.]
+[Section 11ZPW inserted: No. 53 of 2003 s. 31.]

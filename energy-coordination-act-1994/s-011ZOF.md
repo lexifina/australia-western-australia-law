@@ -17,4 +17,4 @@ to achieve the purposes set out in section 11ZOB.
 (e) the resolution of disputes and questions that may arise between the gas market participants concerned;
 (f) the scheme to be accessible to any gas market participant in relation to the relevant distribution system; and
 (g) any other matter that is prescribed.
-[Section 11ZOF inserted by No. 53 of 2003 s. 15; amended by No. 53 of 2003 s. 19(1).]
+[Section 11ZOF inserted: No. 53 of 2003 s. 15; amended: No. 53 of 2003 s. 19(1).]

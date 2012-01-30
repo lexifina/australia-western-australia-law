@@ -1,5 +1,5 @@
 ## Part 2C — Code of conduct for marketing of gas to small use customers
-[Heading inserted by No. 53 of 2003 s. 31.]
+[Heading inserted: No. 53 of 2003 s. 31.]
 ### 11ZPL. Terms used
 In this Part —
 code of conduct means the code of conduct approved under section 11ZPM;
@@ -18,4 +18,4 @@ in respect of the supply of gas to the customer or customers;
 marketing includes engaging or attempting to engage in any of the following activities by any means, including door to door or by telephone or other electronic means —
 (a) negotiations for, or dealings in respect of, a contract for the supply of gas to a customer;
 (b) advertising, promotion, market research or public relations in relation to the supply of gas to customers.
-[Section 11ZPL inserted by No. 53 of 2003 s. 31.]
+[Section 11ZPL inserted: No. 53 of 2003 s. 31.]

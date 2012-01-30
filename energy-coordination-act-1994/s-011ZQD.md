@@ -4,4 +4,4 @@
 (3) Regulations made for the purposes of this section may provide for penalties for an offence against the regulations not exceeding —
 (a) $2 000 for an individual; and
 (b) $8 000 for a body corporate.
-[Section 11ZQD inserted by No. 53 of 2003 s. 32.]
+[Section 11ZQD inserted: No. 53 of 2003 s. 32.]

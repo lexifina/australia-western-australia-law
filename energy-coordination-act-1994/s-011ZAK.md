@@ -18,4 +18,4 @@ The regulations may make provision for and in relation to —
 (III) small use customers; and
 (IV) other persons,
 in connection with the carrying out of the arrangements or the operation of a last resort supply plan.
-[Section 11ZAK inserted by No. 53 of 2003 s. 37.]
+[Section 11ZAK inserted: No. 53 of 2003 s. 37.]

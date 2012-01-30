@@ -6,4 +6,4 @@
 (3) The committee must, in accordance with section 11ZPW, give any interested person an opportunity to offer comments relevant to the review.
 (4) The committee must take into account any comments received under subsection (3) in carrying out the review.
 (5) The committee must prepare a report based on the review and give it to the Authority.
-[Section 11ZPV inserted by No. 53 of 2003 s. 31.]
+[Section 11ZPV inserted: No. 53 of 2003 s. 31.]

@@ -8,4 +8,4 @@ or
 (i) is not functioning effectively; or
 (ii) is subject to external administration under the Corporations Act 2001 of the Commonwealth.
 (2) A recommendation made by the Authority under section 11ZPI is not liable to be challenged, reviewed or called in question in any court.
-[Section 11ZPJ inserted by No. 53 of 2003 s. 15; amended by No. 53 of 2003 s. 19(1).]
+[Section 11ZPJ inserted: No. 53 of 2003 s. 15; amended: No. 53 of 2003 s. 19(1).]

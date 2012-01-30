@@ -8,4 +8,4 @@ the committee.
 (4) Subject to this section, the committee may determine its own procedure.
 (5) The Authority is to provide the committee with such support services as it may reasonably require.
 (6) This section has effect subject to section 54 of the Energy Legislation Amendment Act 2003.
-[Section 11ZPO inserted by No. 53 of 2003 s. 31; amended by No. 39 of 2010 s. 89.]
+[Section 11ZPO inserted: No. 53 of 2003 s. 31; amended: No. 39 of 2010 s. 89.]

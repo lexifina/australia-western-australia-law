@@ -11,4 +11,4 @@ from any of the provisions of sections 11ZOC, 11ZOD and 11ZOR.
 (5) An exemption is of no effect at any time when a condition to which it is subject is not being observed.
 (6) An order under subsection (1) is subsidiary legislation for the purposes of the Interpretation Act 1984.
 (7) An order by which an order under subsection (1) is revoked may contain provisions of a transitional or supplementary nature in relation to the application of a provision of this Part to any gas business operator, or class of gas business operators, affected by the revocation.
-[Section 11ZOS inserted by No. 53 of 2003 s. 15; amended by No. 53 of 2003 s. 19(1).]
+[Section 11ZOS inserted: No. 53 of 2003 s. 15; amended: No. 53 of 2003 s. 19(1).]
