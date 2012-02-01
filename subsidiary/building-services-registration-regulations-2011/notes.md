@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Building Services (Registration) Regulations 2011. The following table contains information about those regulations.
+This is a compilation of the Building Services (Registration) Regulations 2011 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Building Services (Registration) Regulations 2011 | 26 Aug 2011 p. 3411-52 | r. 1 and 2: 26 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2011 (see r. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
+Building Services (Registration) Amendment Regulations 2011 | 31 Jan 2012 p. 591-601 | r. 1 and 2: 31 Jan 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2012 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
