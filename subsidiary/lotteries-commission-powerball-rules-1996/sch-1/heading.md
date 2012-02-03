@@ -5,9 +5,9 @@ The unit cost of entering the powerball draw numbered 720 and all subsequent pow
 The agent’s component is calculated as 9% of the total subscription amount for a particular week’s entry, rounded* (where necessary) to the nearest 5 cent multiple.
 ((G x $0.65) x .09 ® rounded) x W = T
 where —
-G = No. of games entered in a draw
-W = No. of weeks the entry spans
-T = Total agent’s component cost payable by the subscriber
+G=No. of games entered in a draw
+W=No. of weeks the entry spans
+T=Total agent’s component cost payable by the subscriber
 Examples:
 The total cost of entry for a Slikpik 25 entry for a single powerball draw is calculated as follows —
 Subscription [25 games @ $0.65 each]=$16.25
