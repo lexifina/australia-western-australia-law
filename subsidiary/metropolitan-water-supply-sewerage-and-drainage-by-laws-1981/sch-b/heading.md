@@ -2,9 +2,7 @@
 Form 1
 (5.2.1.1)
 APPLICATION FOR A WELL LICENCE
-(Under Section 57G of the Metropolitan
-Water Supply, Sewerage, and Drainage
-Act 1909 as amended).
+(Under Section 57G of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 as amended).
 OWNER OF LAND | Name................................................................................................... Address............................................................................................... Telephone...........................................................Postcode .................
 OCCUPIER (if same as Owner write “As above”) | Name................................................................................................... Address............................................................................................... Telephone...........................................................Postcode .................
 PROPERTY | Hse No. ..................Lot No. ................ Street .................................. Postal District..................................................................................... Town/City/Shire of.............................................................................
@@ -64,7 +62,7 @@ COMPLETION: | Date Commenced........................Date Completed .............
  | CappedoEquipment for useo
  | Casing pulledoAbandonedo
  | Left for water levelOther................................
- | Observationo
+ | observationo
  | Motor power .................. kW/HPDepth ...................... m
  | Approx.
 LOCATION PLAN: REMARKS: | Draw a location plan of the well on the back of this Statement where indicated.
