@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Real Estate and Business Agents (General) Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 February 2012 of the Real Estate and Business Agents (General) Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Real Estate and Business Agents (General) Regulations 1979 | 31 Aug 1979 p. 2616-18 | 1 Sep 1979
@@ -54,7 +54,7 @@ Real Estate and Business Agents (General) Amendment Regulations 2006 | 27 Jun 20
 Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2006 | 17 Nov 2006 p. 4759-60 | 17 Nov 2006
 Real Estate and Business Agents (General) Amendment Regulations 2007 | 6 Feb 2007 p. 307-10 | 6 Feb 2007
 Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2007 | 9 Mar 2007 p. 847-8 | 9 Mar 2007
-Reprint 5: The Real Estate and Business Agents (General) Regulations 1979 as at 8 June 2007 (includes amendments listed above)
+Reprint 5: The Real Estate and Business Agents (General) Regulations 1979 as at 8 Jun 2007 (includes amendments listed above)
 Real Estate and Business Agents (General) Amendment Regulations (No. 4) 2007 | 24 Jul 2007 p. 3659-60 | r. 1 and 2: 24 Jul 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2007 (see r. 2(b) and Gazette 25 Jul 2007 p. 3657)
 Real Estate and Business Agents (General) Amendment Regulations (No. 5) 2007 | 28 Dec 2007 p. 6403-7 | r. 1 and 2: 28 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Dec 2007 (see r. 2(b))
 Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2008 | 17 Jun 2008 p. 2557-8 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
@@ -70,18 +70,10 @@ Real Estate and Business Agents (General) Amendment Regulations 2010 | 28 May 20
 Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2010 | 25 Jun 2010 p. 2851-2 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Real Estate and Business Agents (General) Amendment Regulations 2011 | 22 Jun 2011 p. 2367-8 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2011 | 30 Jun 2011 p. 2669-72 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
-Evidence Act 1906 s. 106 repealed by Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 51.
+Reprint 7: The Real Estate and Business Agents (General) Regulations 1979 as at 3 Feb 2012 (includes amendments listed above)
 The commencement date in r. 2 was of no effect as it was before the date of gazettal.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
-The Real Estate and Business Agents (General) Amendment Regulations 2003 r. 4(2) (as amended in Gazette 13 Jan 2004 p. 146) reads as follows:
-(2) Despite the amendments effected by subregulation (1), examinations referred to in a provision of the Real Estate and Business Agents (General) Regulations 1979 referred to in column 1 of the Table to this subregulation, as in force immediately before the commencement of these regulations, continue to be prescribed examinations for the purposes of clause 1(a) of the Schedule to the Act until the date specified in column 2 of that Table opposite the reference to the provision.
-Table
-r. 6(a)(i) | 1 Jul 2003
-r. 6(a)(ii), (b) or (c) | 1 Jan 2004
-r. 6(a)(iii) | 1 Jan 2006
-[Regulation 4(2) amended in Gazette 13 Jan 2004 p. 146.]
-The Real Estate and Business Agents (General) Amendment Regulations 2003 r. 5(2) reads as follows:
-(2) Despite the amendment effected by subregulation (1), the qualification referred to in regulation 6A(c) of the Real Estate and Business Agents (General) Regulations 1979, as in force immediately before the commencement of these regulations, continues to be a prescribed qualification for the purposes of section 47(2) of the Act in respect of an application for registration as a real estate and business sales representative made under the Act on or before 1 January 2004.
+The Real Estate and Business Agents (General) Amendment Regulations 2003 r. 4(2) (as amended in Gazette 13 Jan 2004 p. 146) and r. 5(2) are transitional provisions that are of no further effect.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
