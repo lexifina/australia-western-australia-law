@@ -1,9 +1,9 @@
 Notes
-This is a compilation of the Local Government (Administration) Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 February 2012 of the Local Government (Administration) Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Local Government (Administration) Regulations 1996 | 24 Jun 1996 p. 2799-826 | 1 Jul 1996 (see r. 2)
-Local Government (Administration) Amendment Regulations 1996 | 28 Jun 1996 p. 3171 | 1 Jul 1996 (see r. 3)
+Local Government (Administration) Amendment Regulations 1996 | 28 Jun 1996 p. 3171 | 1 Jul 1996
 Local Government (Administration) Amendment Regulations 1999 | 23 Apr 1999 p. 1717-21 | 23 Apr 1999
 Local Government (Administration) Amendment Regulations 2000 | 25 Feb 2000 p. 969 | 25 Feb 2000 (see r. 2 and Gazette 25 Feb 2000 p. 970)
 Local Government (Administration) Amendment Regulations 2002 | 28 Jun 2002 p. 3079-81 | 28 Jun 2002
@@ -17,12 +17,31 @@ Local Government (Administration) Amendment Regulations 2007 | 21 Aug 2007 p. 41
 Local Government (Administration) Amendment Regulations 2009 | 20 Nov 2009 p. 4660-1 | r. 1 and 2: 20 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Nov 2009 (see r. 2(b) and Gazette 20 Nov 2009 p. 4649)
 Local Government (Administration) Amendment Regulations 2011 | 3 May 2011 p. 1593-7 | r. 1 and 2: 3 May 2011 (see r. 2(a)); r. 7: 4 May 2011 (see r. 2(b) and Gazette 3 May 2011 p. 1577); Regulations other than r. 1, 2 and 7: 4 May 2011 (see r. 2(c))
 Local Government (Administration) Amendment Regulations (No. 2) 2011 | 26 Aug 2011 p. 3481-7 | r. 1 and 2: 26 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Aug 2011 (see r. 2(b))
-The Local Government (Administration) Amendment Regulations 2005 r. 15 reads as follows:
-“
-15.Increased minimum fees and allowances not mandatory until 1 July 2005
-(1) Where these regulations increase the amount of a minimum fee or allowance prescribed under section 5.98 or 5.99 a person is entitled to the increased amount only on and after 1 July 2005.
-(2) Until 1 July 2005, a local government may choose to pay to a person entitled to a minimum fee or allowance prescribed under section 5.98 or 5.99 the amount of the fee or allowance to which the person —
-(a) was entitled immediately before these regulations came into operation; or
-(b) would be entitled on and after 1 July 2005.
-(3) If, under subregulation (2), a local government makes a choice to pay a person a fee or allowance to which the person would be entitled on and after 1 July 2005, then that local government must make the same choice when paying all other persons entitled to be paid that same fee or allowance.
-”.
+Reprint 3: The Local Government (Administration) Regulations 1996 as at 3 Feb 2012 (includes amendments listed above)
+The commencement date of 1 Jul 1996 is the commencement date of the principal regulations.
+The Local Government (Administration) Amendment Regulations 2005 r. 15 is a transitional provision that is of no further effect.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+activity involving a local government discretion34B(1)
+client or adviser20(1)
+code of conduct3(1)
+committee3(1)
+corporate business plan19BA
+final annual remuneration19A(2)
+former regulation 19C19DB(1)
+former regulation 19D19DB(1)
+gift34B(1)
+interest34C(1)
+notifiable gift34B(1)
+operating revenue33(2)
+person referred to in this regulation14B(4)
+plan for the future19DB(1)
+prohibited gift34B(1)
+Public Service Award34AB(2)
+relevant person3(1)
+Schedule3(1)
+section3(1)
+strategic community plan19BA
+suitable place14A(4)
+townsite14A(4)
