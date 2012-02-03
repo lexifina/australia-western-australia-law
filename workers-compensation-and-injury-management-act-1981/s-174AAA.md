@@ -1,4 +1,4 @@
-### 174AAA. Setting aside judgments and agreements
+### 174AAA. Setting aside certain judgments and agreements
 (1) If —
 (a) an action brought by a worker as described in section 174(1AA)(a) proceeds to judgment as described in section 174(1AA)(c)(i) or is settled by an agreement of the kind described in section 174(1AA)(c)(ii); and
 (b) a claim on the General Account is made under section 174(1AA) in respect of any amount due under the judgment or agreement,
