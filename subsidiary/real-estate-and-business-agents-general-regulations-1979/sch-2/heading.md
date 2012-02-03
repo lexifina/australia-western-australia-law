@@ -65,9 +65,9 @@ Form 2 — Infringement notice
 Real Estate and Business Agents Act 1978 Infringement notice | Infringement notice no.
 Alleged offender | Name: Family name
 Given names
-or Company name______________________________ ACN
-Address _________________________________________ Postcode
-Alleged offence | Description of offence _____________________________
+or Company name_______________________________ ACN
+Address __________________________________________ Postcode
+Alleged offence | Description of offence_______________________________
  | Real Estate and Business Agents Act 1978 s. Real Estate and Business Agents (General) Regulations 1979 r.
 Date //20Time a.m./p.m.
 Modified penalty $
@@ -84,11 +84,11 @@ Form 3 — Withdrawal of infringement notice
 Real Estate and Business Agents Act 1978 Withdrawal of infringement notice | Withdrawal no.
 Alleged offender | Name: Family name
 Given names
-or Company name______________________________ ACN
-Address _________________________________________ Postcode
+or Company name_______________________________ ACN
+Address __________________________________________ Postcode
 Infringement notice | Infringement notice no.
 Date of issue //20
-Alleged offence | Description of offence ______________________________
+Alleged offence | Description of offence _______________________________
  | Real Estate and Business Agents Act 1978 s. Real Estate and Business Agents (General) Regulations 1979 r.
 Date //20Timea.m./p.m.
 Officer withdrawing notice | Name
