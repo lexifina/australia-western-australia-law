@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Workers’ Compensation and Injury Management Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 February 2012 of the Workers’ Compensation and Injury Management Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Workers’ Compensation and Assistance Act 1981 | 86 of 1981 | 23 Nov 1981 | 3 May 1982 (see s. 2 and Gazette 8 Apr 1982 p. 1205)
@@ -7,7 +7,7 @@ Compilation table
  | Workers’ Compensation and Assistance Amendment Act (No. 2) 1983 | 79 of 1983 | 22 Dec 1983 | 22 Dec 1983
  | Health Legislation Amendment Act 1984 Pt. XXIV | 28 of 1984 | 31 May 1984 | 1 Jul 1984 (see s. 2 and Gazette 15 Jun 1984 p. 1629)
  | Workers’ Compensation and Assistance Amendment Act 1984 | 104 of 1984 | 19 Dec 1984 | 19 Dec 1984 (see s. 2)
- | Workers’ Compensation and Assistance Amendment Act 1985-21 | 44 of 1985 | 20 May 1985 | s. 1 and 2: 20 May 1985; s. 3(1) and (2) and 26: 20 May 1985 (see s. 2(1)); s. 3(3), 4-9, 13-18, 21, 22, 24, 27-37, 39-43: 28 Jun 1985 (see s. 2(2) and Gazette 14 Jun 1985 p. 2134); s. 25: 1 Jul 1985 (see s. 2(3)); s. 20: 25 Oct 1985 (see s. 2(2) and Gazette 25 Oct 1985 p. 4100); s. 23: 7 Feb 1986 (see s. 2(2) and Gazette 7 Feb 1986 p. 425); s. 38: 25 Jul 1986 (see s. 2(2) and Gazette 25 Jul 1986 p. 2453)
+ | Workers’ Compensation and Assistance Amendment Act 1985-19 | 44 of 1985 | 20 May 1985 | s. 1 and 2: 20 May 1985; s. 3(1) and (2) and 26: 20 May 1985 (see s. 2(1)); s. 3(3), 4-9, 13-18, 21, 22, 24, 27-37, 39-43: 28 Jun 1985 (see s. 2(2) and Gazette 14 Jun 1985 p. 2134); s. 25: 1 Jul 1985 (see s. 2(3)); s. 20: 25 Oct 1985 (see s. 2(2) and Gazette 25 Oct 1985 p. 4100); s. 23: 7 Feb 1986 (see s. 2(2) and Gazette 7 Feb 1986 p. 425); s. 38: 25 Jul 1986 (see s. 2(2) and Gazette 25 Jul 1986 p. 2453)
  | Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
  | Workers’ Compensation and Assistance Amendment Act 1986 | 33 of 1986 | 1 Aug 1986 | 1 Aug 1986 (see s. 2)
  | State Government Insurance Commission Act 1986 s. 46(2) | 51 of 1986 | 5 Aug 1986 | 1 Jan 1987 (see s. 2 and Gazette 19 Dec 1986 p. 4859)
@@ -24,7 +24,7 @@ Compilation table
  | Employers’ Indemnity Supplementation Fund Amendment Act 1993 s. 14 | 1 of 1993 | 19 Jul 1993 | 19 Jul 1993 (see s. 2)
  | Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
  | Mines Regulation Amendment Act 1993 s. 13 | 30 of 1993 | 16 Dec 1993 | 24 Dec 1993 (see s. 2 and Gazette 24 Dec 1993 p. 6796)
- | Workers’ Compensation and Rehabilitation Amendment Act 1993 -33 | 48 of 1993 (as amended by No. 34 of 1999 Pt. 3 and No. 42 of 2004 s. 172) | 20 Dec 1993 | Pt. 1-3: 20 Dec 1993 (see s. 2(1)); s. 21, 23, 25, 28(1) (only so far as it gives effect to Sch. 1 cl. 13, 14, 27(a)(i), (b)(i) and (c) and 31) of Pt. 4, and Pt. 5 (other than s. 36-38, 41 and 43): 24 Dec 1993 (see s. 2(2) and Gazette 24 Dec 1993 p. 6795); balance: 1 Mar 1994 (see s. 2(2) and Gazette 24 Dec 1993 p. 6795)
+ | Workers’ Compensation and Rehabilitation Amendment Act 1993 -31 | 48 of 1993 (as amended by No. 34 of 1999 Pt. 3 and No. 42 of 2004 s. 172) | 20 Dec 1993 | Pt. 1-3: 20 Dec 1993 (see s. 2(1)); s. 21, 23, 25, 28(1) (only so far as it gives effect to Sch. 1 cl. 13, 14, 27(a)(i), (b)(i) and (c) and 31) of Pt. 4, and Pt. 5 (other than s. 36-38, 41 and 43): 24 Dec 1993 (see s. 2(2) and Gazette 24 Dec 1993 p. 6795); balance: 1 Mar 1994 (see s. 2(2) and Gazette 24 Dec 1993 p. 6795)
  | Reprint of the Workers’ Compensation and Rehabilitation Act 1981 as at 14 Mar 1994 (includes amendments listed above)
  | Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
  | Mines Safety and Inspection Act 1994 s. 109 | 62 of 1994 | 7 Nov 1994 | 9 Dec 1995 (see s. 2 and Gazette 8 Dec 1995 p. 5935)
@@ -35,7 +35,7 @@ Compilation table
  | Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
  | Reprint of the Workers’ Compensation and Rehabilitation Act 1981 as at 29 Jan 1999 (includes amendments listed above)
  | Workers’ Compensation and Rehabilitation Amendment Act (No. 2) 1999 | 33 of 1999 | 5 Oct 1999 | 5 Oct 1999 (see s. 2)
- | Workers’ Compensation and Rehabilitation Amendment Act 1999-37 | 34 of 1999 (as amended by No. 37 of 1999 s. 3) (as affected by No. 35 of 2004 Pt. 2) | 5 Oct 1999 | s. 5, 14, 15, 32, 48(a)(iv), 53(a), (c) and (d)(ii): 5 Oct 1999 (see s. 2(1)); balance: 15 Oct 1999 (see s. 2(2) and Gazette 15 Oct 1999 p. 4889 and Printers correction to proclamation in Gazette 19 Nov 1999 p. 5797)
+ | Workers’ Compensation and Rehabilitation Amendment Act 1999-35 | 34 of 1999 (as amended by No. 37 of 1999 s. 3) (as affected by No. 35 of 2004 Pt. 2) | 5 Oct 1999 | s. 5, 14, 15, 32, 48(a)(iv), 53(a), (c) and (d)(ii): 5 Oct 1999 (see s. 2(1)); balance: 15 Oct 1999 (see s. 2(2) and Gazette 15 Oct 1999 p. 4889 and Printers correction to proclamation in Gazette 19 Nov 1999 p. 5797)
  | Workers’ Compensation and Rehabilitation Amendment Act 2000 | 44 of 2000 | 17 Nov 2000 | Act other than s. 1, 2 and 4(2)(b): 5 Oct 1999 (see s. 2(1)); s. 1, 2 and 4(2)(b): 17 Nov 2000 (see s. 2(2))
  | Corporations (Consequential Amendments) Act 2001 Pt. 57 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
  | Reprint of the Workers’ Compensation and Rehabilitation Act 1981 as at 14 Sep 2001 (includes amendments listed above)
@@ -68,19 +68,19 @@ Compilation table
 Standardisation of Formatting Act 2010 s. 4, 42(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 50 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Reprint 9: The Workers’ Compensation and Injury Management Act 1981 as at 25 Feb 2011 (includes amendments listed above)
 Petroleum and Energy Legislation Amendment Act 2010 s. 186 | 42 of 2010 | 28 Oct 2010 | 25 May 2011 (see s. 2(b) and Gazette 24 May 2011 p. 1892)
+Reprint 9: The Workers’ Compensation and Injury Management Act 1981 as at 25 Feb 2011 (includes amendments listed above except those in the Petroleum and Energy Legislation Amendment Act 2010)
 Workers’ Compensation and Injury Management Amendment Act 2011 | 31 of 2011 | 31 Aug 2011 | s. 1 and 2: 31 Aug 2011 (see s. 2(a)); s. 3 and Pt. 3 other than s. 123(2)-(7): 1 Oct 2011 (see s. 2(b) and Gazette 23 Sep 2011 p. 3811); Pt. 2 Div. 1 and 2: 1 Dec 2011 (see s. 2(b) and Gazette 8 Nov 2011 p. 4673)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 7 and 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 10: The Workers’ Compensation and Injury Management Act 1981 as at 3 Feb 2012 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 (as amended by No. 42 of 2004 s. 155) | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) | 31 of 2011 | 31 Aug 2011 | To be proclaimed (see s. 2(b))
-Footnote no longer applicable.
-The name of the State Government Insurance Commission was changed to the Insurance Commission of Western Australia by the Acts Amendment (ICWA) Act 1996 s. 8 (see also note 47).
-Under the Acts Amendment (ICWA) Act 1996 s. 31(2)(h), a reference to the State Government Insurance Corporation in a written law is, unless because of the context it would be inappropriate so to do, to be construed, or have effect, as if it had been amended to be a reference to the Insurance Commission of Western Australia (see also note 47).
+The name of the State Government Insurance Commission was changed to the Insurance Commission of Western Australia by the Acts Amendment (ICWA) Act 1996 s. 8 (see also note 45).
+Under the Acts Amendment (ICWA) Act 1996 s. 31(2)(h), a reference to the State Government Insurance Corporation in a written law is, unless because of the context it would be inappropriate so to do, to be construed, or have effect, as if it had been amended to be a reference to the Insurance Commission of Western Australia (see also note 45).
 Repealed by the Industrial Relations (Consequential Provisions) Act 1998 (Cwlth). Now see Fair Work Act 2009 (Cwlth).
 The Workers’ Compensation Act Amendment Act (No. 2) 1977 s. 3 became operative on 28 Nov 1977.
 The effect of this section was removed by the Western Australian Marine Act 1982 s. 135, subject to the savings provisions in section 135(4) of that Act.
@@ -100,11 +100,10 @@ The Workers’ Compensation (Common Law Proceedings) Act 2004 Pt. 2 may also be 
 Repealed by s. 317 of this Act.
 Repealed by the Interpretation Act 1984.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 (as amended by the Workers’ Compensation Reform Act 2004 s. 174) had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 (as amended by the Workers’ Compensation Reform Act 2004 s. 174) had not come into operation. It reads as follows:
 74.Workers’ Compensation and Injury Management Act 1981 amended
 Section 201(2) of the Workers’ Compensation and Injury Management Act 1981 is amended by deleting “or the Superannuation and Family Benefits Act 1938”.
 [Section 74 amended by No. 42 of 2004 s. 174.]
-Repealed by the Offshore Petroleum (Repeals and Consequential Amendments) Act 2006 (Cwlth). Now see Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Cwlth).
 Now known as the Workers’ Compensation and Injury Management Act 1981; short title changed (see note under s. 1).
 The Workers’ Compensation and Assistance Amendment Act 1984 s. 9 and 10 are transitional and validation provisions that are of no further effect.
 The Workers’ Compensation and Assistance Amendment Act 1985 s. 4(2) is a savings provision relating to the s. 10A inserted by s. 4(1) of that Act. That s. 10A was replaced by the Workers’ Compensation Legislation Amendment Act 2005 s. 9.
@@ -135,7 +134,7 @@ for or in relation to the disability of lung cancer, in determining that liabili
 The Workers’ Compensation and Rehabilitation Amendment Act 1993 s. 4(4) reads as follows:
 4.Part IV amended and application provision
 (4) The provisions inserted by subsection (3) have no operation in relation to a cause of action in respect of which legal proceedings have been instituted before 4 p.m. on 30 June 1993 and, regardless of when legal proceedings are instituted, sections 93E and 93F of those provisions have no operation in relation to a cause of action arising wholly before 1 July 1993 but otherwise the provisions inserted by subsection (3) apply to causes of action arising before the commencement of this section in the same way as they apply to causes of acting arising after that commencement.
-The Workers’ Compensation and Rehabilitation Amendment Act 1993 Pt. 2 Div. 2 (as amended by the Workers’ Compensation and Rehabilitation Amendment Act 1999Pt. 3 and the Workers’ Compensation Reform Act 2004 s. 172(2)) reads as follows:
+The Workers’ Compensation and Rehabilitation Amendment Act 1993 Pt. 2 Div. 2 (as amended by the Workers’ Compensation and Rehabilitation Amendment Act 1999 Pt. 3 and the Workers’ Compensation Reform Act 2004 s. 172(2)) reads as follows:
 Division 2 — Further transitional provisions
 5.Definitions
 (1) In this Division —
@@ -408,7 +407,7 @@ The Workers’ Compensation Legislation Amendment Act 2005 s. 30(3) reads as fol
 (a) any compensation paid under the relevant clause before this Act received the Royal Assent is to be deducted; and
 (b) if an apportionment of compensation has been determined or agreed in relation to compensation under the relevant clause before this Act receives the Royal Assent, any compensation payable under the relevant clause after this Act receives the Royal Assent is to be apportioned in a like manner.
 The amendment in the Chiropractors Act 2005 s. 109 which sought to amend s. 176(1b)(d) is not included because s. 176 had been replaced by the Workers’ Compensation Reform Act 2004 s. 130 before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 16 (as amended by the Workers’ Compensation Reform Act 2004 s. 155(2)(a)) had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 16 (as amended by the Workers’ Compensation Reform Act 2004 s. 155(2)(a)) had not come into operation. It reads as follows:
 Schedule 1 — Consequential amendments to other Acts
 16.Workers’ Compensation and Rehabilitation Act 1981
 Section 5(1) | (a)After the definition of industrial disease premium, insert the following definition — “ Insurance Commission of Western Australia means the body continued under that name under the Insurance Commission of Western Australia Act 1986; ”.
@@ -416,7 +415,7 @@ Section 5(1) | (a)After the definition of industrial disease premium, insert the
 Section 162(1) | Delete “State Government Insurance Commission”, substitute “Insurance Commission of Western Australia”.
 Section 163 | Delete “State Government Insurance Commission”, substitute “Insurance Commission of Western Australia”.
 [Item 16 amended by No. 42 of 2004 s. 155(2)(a).]
-On the date as at which this compilation was prepared, the Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) had not come into operation. They read as follows:
 123.Schedule 1 amended
 (2) In Schedule 1 clause 11(2) delete the definitions of:
 Amount A
@@ -442,30 +441,36 @@ Defined Terms
 Defined TermProvision(s)
 a State’s legislation about damages for a work related injury93AE
 additional medical examination66A(1)
-adjacent areaSch. 6, cl. 2(1), 6, cl. 2(2), 6, cl. 2(3), 6, cl. 2(4)
+adjacent areaSch. 6 cl. 2(1)-(4)
 agent261
 agent service261
 agreed93E(1)
 AIDS31F(1), 93Q(8)
 AMA Guides93CA
+amended provisionsSch. 8 cl. 1
+amending ActSch. 8 cl. 1
 amendment day24(1), 31A(1)
-Amount A93F(8), 93K(12), Sch. 1, cl. 11(2)
-Amount AaSch. 1, cl. 11(2)
-Amount BSch. 1, cl. 11(2)
-Amount CSch. 1, cl. 11(2)
-Amount DSch. 1, cl. 11(2)
-Amount ESch. 1, cl. 11(2)
+Amount A93F(8), 93K(12), Sch. 1 cl. 11(2)
+Amount AaSch. 1 cl. 11(2)
+Amount BSch. 1 cl. 11(2)
+Amount CSch. 1 cl. 11(2)
+Amount DSch. 1 cl. 11(2)
+Amount ESch. 1 cl. 11(2)
 another State93AF(2)
+application for conciliation5(1)
 approved insurance office5(1)
 approved medical specialist5(1)
 approved medical specialist panel5(1)
 approved treatment5(1)
 approved vocational rehabilitation provider5(1)
+arbitration rules5(1), 293B(1)
+Arbitration Service5(1)
 arbitrator5(1)
-audiometric testSch. 7, cl. 1
+audiometric testSch. 7 cl. 1
 auditor175B(2)
 authorised officer175E
-bonus or allowanceSch. 1, cl. 11(2)
+bonus or allowanceSch. 1 cl. 11(2)
+certificate of outcome182ZE
 Chairman of WorkCover WA5(1)
 chief executive officer5(1)
 child’s allowance5(1)
@@ -473,20 +478,25 @@ chiropractor5(1)
 claim for compensation by way of weekly payments93M(2)
 clause5(1)
 code155
-commencement day93EA(4), 93EB(4)
-Commissioner5(1)
-company5(1), 10A(1), 175AA(1)
+commencement day93EA(4)(b)(i), 93EB(4)(b)(i), Sch. 8 cl. 1
+CommissionerSch. 8 cl. 1
+company5(1), 10A(1), 175AA(1)(c)(i)
 compensable injury 159
 compound discount table68(4)
-continental shelfSch. 6, cl. 1
+conciliation agreement182ZE
+conciliation decision182ZE
+conciliation officer5(1), 182G(3)
+conciliation rules5(1), 293A(1)
+Conciliation Service5(1)
+continental shelfSch. 6 cl. 1
 contract of insurance5(1)
-contractor175(1), 175(6)
+contractor175(1), 175(6)(b)
 Contribution Act93F(4), 93K(8)
 corporate body10A(1)
 costs261
 costs determination261
 costs of a proceeding261
-court23A
+court23A, 182ZH(1)
 Crown14(1)
 damages93A, 159
 de facto partner5(1)
@@ -494,35 +504,41 @@ decision5(1)
 decision of a specialised retraining assessment panel146V(9)
 decision of an approved medical specialist146J(2)
 decision of an approved medical specialist panel146O(7)
-defendant92, 93(1)
+defendant92, 93(1)(b)
 degree of disability93E(1)
 degree of impairment146
 degree of permanent impairment31B
-degree of permanent whole of person impairment93H(1), 158(1), Sch. 1, cl. 18C(3)
+degree of permanent whole of person impairment93H(1), 158(1), Sch. 1 cl. 18C(3)
 dentist5(1)
 dependants5(1)
+designation182C(1)
+designation 182ZR(1)
 determined93E(1)
+direction182M(1)
 Director5(1)
 director10A(1)
 disease5(1)
-dispute176(1)
+dispute176(1), 182E(1), Sch. 8 cl. 1
 dispute resolution authority5(1)
 District Court5(1)
 Division5(1)
 document111A(4)
-DRD5(1)
-DRD Rules5(1)
+DRDSch. 8 cl. 1
+DRD recordsSch. 8 cl. 4(1)
+DRD RulesSch. 8 cl. 1
 drug of addiction5(1)
 E175AA(1), 303A(1)
-earnings5(1), 10A(1), Sch. 1, cl. 11(2)
+earnings5(1), 10A(1), Sch. 1 cl. 11(2)
 election registration day93H(1)
-employer5(1), 5(1), 5(1), 59(1), 93AC, 154A(2)
+employer5(1), 59(1), 93AC(a), 154A(2)
 estimate5(1)
-event93H(2), 158(2), Sch. 1, cl. 18C(4)
+event93H(2), 158(2), Sch. 1 cl. 18C(4)
 former Board316
+former provisionsSch. 8 cl. 1
 former Supplementary Board316
 full amount31D(1)
 General Account5(1)
+hearing259(1)
 HIV31F(1), 93Q(8)
 impairment31G(1)
 in respect of the injury or injuries93P(3)
@@ -530,20 +546,17 @@ incorporated insurance office161(1)
 industrial agreement5(1)
 industrial award5(1)
 industrial disease premium5(1)
-information111A(4)
-injury5(1), 93AC, 180(1)
+information111A(4), 182R(1)
+injury5(1), 93AC(a), 180(1)
 injury management5(1)
 injury management system155
 inspector5(1)
-interim payment order232(2), 233(2)
-interim reduction order238(3)
-interim suspension order238(3)
-Joint Petroleum Development AreaSch. 6, cl. 1
+Joint Petroleum Development AreaSch. 6 cl. 1
 Legal Costs Committee269(1)
 legal service261
 liable159
-loss of i25
-LPI5(1), 5(1), 93F(8)
+loss of25
+LPI5(1), 93F(8)
 March CPI5A(2)
 medical assessment panel5(1)
 medical practitioner5(1)
@@ -554,36 +567,41 @@ mine5(1)
 minimum award rate5(1)
 mining operation5(1)
 new Board316
-new information186(1)
+new information 217A(1)
 new Supplementary Board316
 noise induced hearing loss5(1)
 normal evaluation93M(5), 93N(6), 146C(3)
 notifiable person182(2)
-notification day93EC
+notification day93EC(b)(i)
 notional residual entitlement5(1)
 NRE amount5(1)
-officer of the DRD5(1)
-overtimeSch. 1, cl. 11(2)
+overtimeSch. 1 cl. 11(2)
 parliamentary purposes111A(4)
-Part XI application238(1), 238(1)
 participate5(1)
+party5(1)
+pending arbitration proceedingSch. 8 cl. 1
+pending Court of Appeal matterSch. 8 cl. 1
+pending Part XII applicationSch. 8 cl. 1
+pending Part XIII matterSch. 8 cl. 1
 personal injury by accident5(3)
-Petroleum ActSch. 6, cl. 1
+Petroleum ActSch. 6 cl. 1
 physiotherapist5(1)
 place of residence19(3)
 prescribed175E
-prescribed amount5(1), Sch. 1, cl. 18A(1d)
+prescribed amount5(1), Sch. 1 cl. 18A(1d)
 prescribed Commonwealth award or agreement83(2A)
-prescribed workplaceSch. 7, cl. 1
+prescribed workplaceSch. 7 cl. 1
 primary power212
-principal175(1), 175(6)
-proclaimed date4(1), 316, Sch. 5, cl. 1(1), Sch. 7, cl. 1
+principal175(1) and (6)(a)
+proclaimed date4(1), 316, Sch. 5 cl. 1(1), Sch. 7 cl. 1
 prohibited drug31F(1), 93Q(8)
-reasonable expenses referred to in clause 17(1)Sch. 1, cl. 18A(1AA),
-Sch. 1, cl. 18D(1A)
-redemption amountSch. 5, cl. 1(1)
+prohibited person182S(4), 195(4A)
+reasonable expenses referred to in clause 17(1)Sch. 1 cl. 18A(1AA) and 18D(1A)
+redemption amountSch. 5 cl. 1(1)
 registered agent5(1)
-relevant daySch. 5, cl. 3(8)
+Registrar5(1)
+relevant authority144
+relevant daySch. 5 cl. 3(8)
 relevant document180(1)
 relevant employment5(1)
 relevant level93D(1)
@@ -595,7 +613,9 @@ responsible officer170(6)
 retraining criteria158(1)
 return to work5(1)
 return to work program155
-Seas and Submerged Lands ActSch. 6, cl. 1
+rule293(1)
+rules293(1)
+Seas and Submerged Lands ActSch. 6 cl. 1
 secondary condition146
 self-insurer5(1)
 ship5(1)
@@ -608,22 +628,23 @@ spouse5(1)
 State5(1), 20(1)
 State Government Insurance Commission5(1)
 State Government Insurance Corporation5(1)
-statutory expenses226
+statutory expenses182K(4)
+subsequent proceeding182ZM(1)
 substantial interruption19(3)
 substantive law93AE
-supplementary amountSch. 5, cl. 1(1)
+supplementary amountSch. 5 cl. 1(1)
 termination day93E(1), 93L(1)
-territorial seaSch. 6, cl. 1
+territorial seaSch. 6 cl. 1
 treating medical practitioner155
 tributer5(1)
 Trust Account5(1)
 vocational rehabilitation5(1)
 W175AA(1)
-weekly earningsSch. 1, cl. 11(1), 1, cl. 14
-weekly paymentsSch. 5, cl. 3(2)
+weekly earningsSch. 1 cl. 11(1) and 14
+weekly paymentsSch. 5 cl. 3(2)
 weekly payments of compensation5(1)
 WorkCover Guides5(1)
 WorkCover WA5(1), 314(2)
-worker5(1), 5(1), 5(1), 8, 9, 10, 11A(1), 93AC
+worker5(1), 8, 9, 10(a), 11A(1), 93AC(a)
 workers’ compensation cover170(7)
 working director10A(1)
