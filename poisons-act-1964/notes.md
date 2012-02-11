@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 August 2011 of the Poisons Act 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Poisons Act 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Poisons Act 1964 | 70 of 1964 (13 Eliz. II No. 70) | 11 Dec 1964 | 1 Jul 1965 (see s. 2 and Gazette 25 Jun 1965 p. 1836)
@@ -126,12 +126,13 @@ Agriculture and Related Resources Protection Amendment Act 2010 s. 71 | 46 of 20
 Poisons (Appendix A Amendment) Order 2011 published in Gazette 17 Jun 2011 p. 2152 | cl. 1 and 2: 17 Jun 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 18 Jun 2011 (see cl. 2(b))
 Poisons (Appendix A Amendment) Order (No. 2) 2011 published in Gazette 5 Aug 2011 p. 3182-3 | cl. 1 and 2: 5 Aug 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 6 Aug 2011 (see cl. 2(b))
 Reprint 9: The Poisons Act 1964 as at 19 Aug 2011 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Poisons (Appendix A Amendment) Order 2012 published in Gazette 10 Feb 2012 p. 651 | cl. 1 and 2: 10 Feb 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 11 Feb 2012 (see cl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 93 | 24 of 2007 (as amended by No. 46 of 2010 s. 66) | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
-The designation of Ministers may be altered by the Governor under the Alteration of Statutory Designations Act 1974. As at the date of this reprint the former Minister for Agriculture is known as the Minister for Agriculture and Food.
+The designation of Ministers may be altered by the Governor under the Alteration of Statutory Designations Act 1974. As at the date of this compilation the former Minister for Agriculture is known as the Minister for Agriculture and Food.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 40 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
@@ -143,7 +144,7 @@ CEO has the meaning given by section 3 of the Health Legislation Administration 
 commencement means the time at which this Division comes into operation;
 Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides a general transitional provision for references to a chief executive officer by a title that was given by a provision of an Act where the provision was amended to remove that title, or repealed, by the Machinery of Government (Miscellaneous Amendments) Act 2006.
-On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 93 (as amended by the Agriculture and Related Resources Protection Amendment Act 2010 s. 66) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 93 (as amended by the Agriculture and Related Resources Protection Amendment Act 2010 s. 66) had not come into operation. It reads as follows:
 93.Poisons Act 1964 amended
 (1) The amendments in this section are to the Poisons Act 1964.
 (2) Section 32(c) is amended by deleting “for the purposes of the Agriculture and Related Resources Protection Act 1976 section 69” and inserting instead —
@@ -195,4 +196,3 @@ to sell5(1)
 veterinary surgeon5(1)
 wholesale dealing5(1)
 wholesale supplier5(1)
-By Authority: JOHN A. STRIJK, Government Printer
