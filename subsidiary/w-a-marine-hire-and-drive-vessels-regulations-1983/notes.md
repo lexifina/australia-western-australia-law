@@ -29,6 +29,7 @@ Compilation table
 W.A. Marine Amendment Regulations 2009 Pt. 6 | 11 Dec 2009 p. 5087-109 | 12 Dec 2009 (see r. 2(b))
 Reprint 3: The W.A. Marine (Hire and Drive Vessels) Regulations 1983 as at 24 Sep 2010 (includes amendments listed above)
 W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2011 | 21 Jun 2011 p. 2239-40 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2012 | 14 Feb 2012 p. 670-1 | r. 1 and 2: 14 Feb 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Feb 2012 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
