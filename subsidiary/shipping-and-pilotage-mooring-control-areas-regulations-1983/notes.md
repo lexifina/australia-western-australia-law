@@ -8,4 +8,14 @@ Shipping and Pilotage (Mooring Control Areas) Amendment Regulations 1993 | 31 De
 Shipping and Pilotage (Mooring Control Areas) Amendment Regulations 1998 | 11 Dec 1998 p. 6650-1 | 11 Dec 1998 (see r. 2)
 Reprint 1: The Shipping and Pilotage (Mooring Control Areas) Regulations 1983 as at 8 Aug 2003 (includes amendments listed above)
 Shipping and Pilotage (Mooring Control Areas) Amendment Regulations 2011 | 11 Feb 2011 p. 482-3 | r. 1 and 2: 11 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Feb 2011 (see r. 2(b))
+Shipping and Pilotage (Mooring Control Areas) Amendment Regulations 2012 | 14 Feb 2012 p. 669-70 | r. 1 and 2: 14 Feb 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Feb 2012 (see r. 2(b))
 Repealed by the Interpretation Act 1984.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Act3
+displacement tonneage3
+mooring3
+mooring apparatus3
+person3
+registered owner3
