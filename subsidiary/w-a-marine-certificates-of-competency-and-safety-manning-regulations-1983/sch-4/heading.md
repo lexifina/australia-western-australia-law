@@ -23,11 +23,9 @@ successfully complete approved courses in —
 (a)For the Master Class III certificate of competency which is restricted by the chief executive officer;
 —elements of personnel and shipboard safety, firefighting training and accident prevention —
 —radiotelephony;
-—proficiency in administering first aid to the injured;
 —radar training including collision avoidance work;
 (b)For the Master Class III certificate of competency which is not restricted by the chief executive officer
 —radiotelephony;
-—first aid at sea;
 —prevention and control of fires on board ship;
 —proficiency in survival craft;
 —simulated radar navigation and anticollision exercises.
@@ -74,8 +72,7 @@ Notes: Candidates may take Parts B-1 and B-2 of the examination after completing
 —In addition to obtaining a satisfactory pass at all parts of the examination, candidates must satisfy the following requirements —
 successfully complete approved courses in —
 —elements of personnel and shipboard safety, firefighting training and accident prevention;
-—radiotelephony;
-—proficiency in administering first aid to the injured.
+—radiotelephony.
 Examination Subjects
 The examination for a certificate of competency as Master Class IV shall be in accordance with the syllabuses set out in Schedule One to Section 2 of the Code and shall consist of —
  | Subject No. | Pass Mark
@@ -112,8 +109,7 @@ Notes: Candidates may take Parts B-1 and B-2 of the examination after completing
 In addition to obtaining a satisfactory pass at all parts of the examination, candidates must satisfy the following requirements —
 successfully complete approved courses in —
 —elements of personnel and shipboard safety, firefighting training and accident prevention;
-—radiotelephony;
-—proficiency in administering first aid to the injured.
+—radiotelephony.
 Examination Subjects
 The examination for a certificate of competency as Mate Class IV shall be the same as that for a certificate of competency as Master Class IV except that the examination in Nautical Knowledge may be varied so as to take into consideration that the holder will not be permitted to take command of a vessel. The examination shall be in accordance with the syllabuses set out in Schedule One to Section 2 of the Code and shall consist of —
  | Subject No. | Pass Mark
@@ -208,7 +204,7 @@ COXSWAIN — INSTRUCTOR OF COMMERCIAL SKI BOAT — Candidates —
 (a)shall be not less than 19 years of age; and
 (b)shall have had at least 1 year’s experience in a speedboat; and
 (c)shall hold the Commercial Ski Operators rating as Ski Instructor issued by the Western Australian Water Ski Association; and
-(d)shall hold a First Aid Certificate issued by the St. John Ambulance Association; and
+[(d)deleted]
 (e)shall be required to pass an examination in —
 (i)the rules of the road; and
 (ii)practical boat handling; and
@@ -229,9 +225,7 @@ if the service is on vessels engaged in Harbour operations, the service shall co
 not less than 6 months’ qualifying service has been performed on vessels propelled by machinery of the type for which the certificate is valid.
 (b)Compulsory Training and Qualifications. Before issue of the certificate an applicant shall have —
 passed the requisite examinations — holders of a valid engineer watchkeeper certificate are only required to pass the Engineering Knowledge written and oral examinations.
-successfully completed approved courses in —
-—elements of personnel safety and shipboard safety, firefighting training and accident prevention;
-—first aid at sea.
+successfully completed approved courses in elements of personnel safety and shipboard safety, firefighting training and accident prevention.
 Attained the age of 20 years.
 Note: Before the certificate may be used on vessels of 3 000 kW propulsion power, or over, it shall be endorsed for completion of an approved course in prevention and control of fires in ships.
 Examination Subjects
@@ -289,7 +283,7 @@ Examination Subjects —
 Engineering Knowledge (1 3-hour paper)
 Engineering Knowledge (Oral)
 (b)The examination for refrigeration endorsement of a certificate as Marine Engine-Driver Grade II shall be in accordance with the syllabuses set out in Schedule Two to Section 2 of the Code.
-[Schedule 4 amended in Gazette 2 Aug 1985 p. 2697; 11 Aug 1992 p. 3977; 24 Aug 2004 p. 3661; 8 Dec 2006 p. 5390; 11 Dec 2009 p. 5091; 11 Feb 2011 p. 490-3.]
+[Schedule 4 amended in Gazette 2 Aug 1985 p. 2697; 11 Aug 1992 p. 3977; 24 Aug 2004 p. 3661; 8 Dec 2006 p. 5390; 11 Dec 2009 p. 5091; 11 Feb 2011 p. 490-3; 14 Feb 2012 p. 672-3.]
 Schedule 5 [r. 28] Safety manning PART I TOTAL SAFETY MANNING FOR SHELTERED WATERS (SEE NOTE 7) AND INSHORE OPERATIONAL AREAS | Engine room manning | Other personnel | As determined by Manning Committee
 Certificated personnel (see Note 1) | Qualification (see Note 3) | Marine Engine Driver Grade I | Marine Engine Driver Grade II | Master’s certificate with Engineer Endorsement (see Note 9)
 Duty | Engineer | Engineer | Engineer
