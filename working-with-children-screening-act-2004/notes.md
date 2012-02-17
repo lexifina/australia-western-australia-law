@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Working with Children (Criminal Record Checking) Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 17 February 2012 of the Working with Children (Criminal Record Checking) Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Working with Children (Criminal Record Checking) Act 2004 | 65 of 2004 | 8 Dec 2004 | s. 1 and 2: 8 Dec 2004; Act other than s. 1, 2 and 50-52: 1 Jan 2006 (see s. 2 and Gazette 30 Dec 2005 p. 6875); s. 50-52: 1 Jan 2007 (see s. 2 and Gazette 29 Dec 2006 p. 5867)
@@ -13,17 +13,18 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 140 | 8 of 2009 | 21
 Working with Children (Criminal Record Checking) Amendment Act 2010 Pt. 2 | 7 of 2010 | 27 May 2010 | 6 Oct 2010 (see s. 2(b) and Gazette 5 Oct 2010 p. 5113)
 Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 s. 15 | 21 of 2010 | 7 Jul 2010 | 28 Aug 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
 Cannabis Law Reform Act 2010 Pt. 6 | 45 of 2010 | 28 Oct 2010 | 1 Aug 2011 (see s. 2(b) and Gazette 29 Jul 2011 p. 3127)
-Children and Community Services Amendment Act 2010 Pt. 2 Div. 2 | 49 of 2010 | 24 Nov 2010 | 31 Jan 2011 (see s. 2(b) and Gazette 28 Jan 2011 p. 241
+Children and Community Services Amendment Act 2010 Pt. 2 Div. 2 | 49 of 2010 | 24 Nov 2010 | 31 Jan 2011 (see s. 2(b) and Gazette 28 Jan 2011 p. 241)
 Misuse of Drugs Amendment Act (No. 2) 2010 Pt. 3 | 50 of 2010 | 24 Nov 2010 | 25 Nov 2010 (see s. 2(b))
-Reprint 2: The Working with Children (Criminal Record Checking) Act 2004 as at 7 Jan 2011 (includes amendments listed above except those in the Cannabis Law Reform Act 2010 Pt. 6 and the Children and Community Services Amendment Act 2010 Pt. 2 Div. 2)
+Reprint 2: The Working with Children (Criminal Record Checking) Act 2004 as at 7 Jan 2011 (includes amendments listed above except those in the Cannabis Law Reform Act 2010 and Children and Community Services Amendment Act 2010)
 Child Care Services Amendment Act 2011 Pt. 3 | 38 of 2011 | 4 Oct 2011 | 7 Jan 2012 (see s. 2(b) and Gazette 6 Jan 2012 p. 3)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 3: The Working with Children (Criminal Record Checking) Act 2004 as at 17 Feb 2012 (includes amendments listed above
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
+Commissioner for Children and Young People Act 2006 s. 65 (Sch. 1 cl. 3) | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Misuse of Drugs Amendment Act 2011 Pt. 5 | 56 of 2011 | 21 Nov 2011 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 had not come into operation. It reads as follows:
 Schedule 1 — Consequential amendments
 [s. 65]
 3.Working with Children (Criminal Record Checking) Act 2004 amended
@@ -64,18 +65,15 @@ s. 17(1) and (3) | s. 38(2), (3) and (4)
 s. 18(1) and (2) | s. 42(2)
 s. 19(1), (9) and (10) | s. 44(3), (4) and (5)
 s. 20(2), (3), (5) and (6) | s. 45(1), (3), (4) and (6)
-On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 35 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 35 had not come into operation. It reads as follows:
 35.Working with Children (Criminal Record Checking) Act 2004 amended
 (1) The amendments in this section are to the Working with Children (Criminal Record Checking) Act 2004.
 (2) Schedule 2 is amended by deleting the entry relating to the Prostitution Act 2000 and inserting instead —
-“
 Sexual Services Act 2000
 s. 16 | Causing, permitting or seeking to induce a child to act as a sex worker
 s. 17 | Obtaining payment for commercial sexual act by a child
 s. 18 | Agreement for a child to act as a sex worker
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Misuse of Drugs Amendment Act 2011 Pt. 5 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Misuse of Drugs Amendment Act 2011 Pt. 5 had not come into operation. It reads as follows:
 Part 5 — Working with Children (Criminal Record Checking) Act 2004 amended
 14.Act amended
 This Part amends the Working with Children (Criminal Record Checking) Act 2004.
@@ -118,8 +116,8 @@ defined period26(1)
 Department4, 38(1)
 education provider4
 educational institution for children4
-employee16(1)
-employer9B(5), 9(1), 16(1), 22(1), 41(1), 43(1)(a)
+employee9A(1), 6(1)
+employer9A(1), 9B(5), 9(1), 16(1), 22(1), 41(1), 43(1)(a)
 first notice20(2)
 interim negative notice4
 managerial officer5(1)
