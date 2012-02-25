@@ -70,11 +70,11 @@ Whiting, Southern School All other Gascoyne species of fish not specifically cov
 [Heading inserted in Gazette 1 Oct 2003 p. 4335.]
 Fish | Species, or group of species, bag limit for one day
 Crab, Blue Manna | 20
-Crab, Brown Mud and Green Mud (combined) | 5
+Crab, Mud (Brown) and Mud (Green) (combined) | 5
 Prawn | 9 L
 Rock Lobster, except when taken from the waters of the Ningaloo Marine Park | 8
 Rock Lobster, taken from the waters of the Ningaloo Marine Park | 4
-[Division 4 inserted in Gazette 1 Oct 2003 p. 4335; amended in Gazette 1 Mar 2011 p. 672.]
+[Division 4 inserted in Gazette 1 Oct 2003 p. 4335; amended in Gazette 1 Mar 2011 p. 672; 24 Feb 2012 p. 802.]
 ## Division 5 — Molluscs
 [Heading inserted in Gazette 1 Oct 2003 p. 4335.]
 Fish | Species, or group of species, bag limit for one day
@@ -160,10 +160,10 @@ All other Pilbara and Kimberley species of fish not specifically covered in this
 Fish | Species, or group of species, bag limit for one day
 Cherabin | 9 L
 Crab, Blue Manna | 20
-Crab, Brown Mud and Green Mud (combined) | 5
+Crab, Mud (Brown) and Mud (Green) (combined) | 5
 Prawn | 9 L
 Rock Lobster (combined), only 2 of which may be Western or Ornate | 4
-[Division 4 inserted in Gazette 22 Dec 2005 p. 6233; amended in Gazette 1 Mar 2011 p. 672.]
+[Division 4 inserted in Gazette 22 Dec 2005 p. 6233; amended in Gazette 1 Mar 2011 p. 672; 24 Feb 2012 p. 802.]
 ## Division 5 — Molluscs
 [Heading inserted in Gazette 22 Dec 2005 p. 6233.]
 Fish | Species, or group of species, bag limit for one day
@@ -255,11 +255,11 @@ Fish | Species, or group of species, bag limit for one day
 Crab, Blue Manna —
 (a)before 1 November 2007 | 20
 (b)on and after 1 November 2007 | 10
-Crab, Brown Mud and Green Mud (combined) | 5
+Crab, Mud (Brown) and Mud (Green) (combined) | 5
 Marron | 8
 Prawn | 9 L
 Rock Lobster | 6
-[Division 4 inserted in Gazette 1 Oct 2003 p. 4340; amended in Gazette 6 Jul 2007 p. 3389; 21 Nov 2008 p. 4927; 1 Mar 2011 p. 672; 20 Dec 2011 p. 5375.]
+[Division 4 inserted in Gazette 1 Oct 2003 p. 4340; amended in Gazette 6 Jul 2007 p. 3389; 21 Nov 2008 p. 4927; 1 Mar 2011 p. 672; 20 Dec 2011 p. 5375; 24 Feb 2012 p. 803.]
 ## Division 5 — Molluscs
 [Heading inserted in Gazette 1 Oct 2003 p. 4340.]
 Fish | Species, or group of species, bag limit for one day
@@ -335,11 +335,11 @@ All other South Coast species of fish not specifically covered in this Part exce
 [Heading inserted in Gazette 22 Dec 2005 p. 6237.]
 Fish | Species, or group of species, bag limit for one day
 Crab, Blue Manna | 20
-Crab, Green Mud | 5
+Crab, Mud (Brown) and Mud (Green) (combined) | 5
 Marron | 10
 Prawn | 9 L
 Rock Lobster | 8
-[Division 4 inserted in Gazette 22 Dec 2005 p. 6237.]
+[Division 4 inserted in Gazette 22 Dec 2005 p. 6237; amended in Gazette 24 Feb 2012 p. 803.]
 ## Division 5 — Molluscs
 [Heading inserted in Gazette 22 Dec 2005 p. 6237.]
 Fish | Species, or group of species, bag limit for one day

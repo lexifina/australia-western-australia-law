@@ -178,11 +178,11 @@ Common name | Scientific name
 Cherabin | Macrobrachium spp.
 Crab | Chaceon, Hypothalassia, Ovalipes, Portunus, Pseudocarcinus and Scylla spp.
 Crab, Blue Manna (Blue Swimmer) | Portunus pelagicus
-Crab, Brown Mud | Scylla serrata
 Crab, Champagne | Hypothalassia acerba
 Crab, Crystal | Chaceon spp.
 Crab, Giant | Pseudocarcinus gigas
-Crab, Green Mud | Scylla paramamosain
+Crab, Mud (Brown) | Scylla olivacea
+Crab, Mud (Green) | Scylla serrata
 Crab, White Spotted Sand | Ovalipes australiensis
 Freshwater Crayfish | Cherax spp. excluding C. tenuimanus and C. cainii
 Gilgie | Cherax quinquecarinatus and crassimanus
@@ -202,7 +202,7 @@ Rock Lobster, Tropical | Panulirus spp. excluding P. cygnus
 Rock Lobster, Western | Panulirus cygnus
 Yabbie, Common | Cherax destructor
 Yabbie, White | Cherax albidus
-[Division 3 amended in Gazette 30 Aug 1996 p. 4321; 15 Jan 1999 p. 113; 21 Dec 1999 p. 6410; 13 Dec 2002 p. 5798; 22 Dec 2005 p. 6239; 13 Nov 2007 p. 5692-3.]
+[Division 3 amended in Gazette 30 Aug 1996 p. 4321; 15 Jan 1999 p. 113; 21 Dec 1999 p. 6410; 13 Dec 2002 p. 5798; 22 Dec 2005 p. 6239; 13 Nov 2007 p. 5692-3; 24 Feb 2012 p. 803.]
 ## Division 4 — Molluscs
 [Heading inserted in Gazette 13 Nov 2007 p. 5693.]
 Common name | Scientific name

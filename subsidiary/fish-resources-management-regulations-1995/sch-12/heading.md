@@ -12,7 +12,11 @@ Offence Part 1 — Sections of the Act | Modified penalty $
 (b)category 2 fish | 100.00
 (c)category 3 fish | 75.00
 (d)category 4 fish | 50.00
-3.Section 47 | 50.00
+3.Section 47, relating to —
+(a)category 1 fish | 200.00
+(b)category 2 fish | 100.00
+(c)category 3 fish | 75.00
+(d)category 4 fish | 50.00
 4.Section 49 | 200.00
 5.Section 50(3), relating to —
 (a)category 1 fish | 200.00
@@ -32,7 +36,7 @@ Offence Part 1 — Sections of the Act | Modified penalty $
 11.Section 171(1) | 200.00
 12.Section 172 | 200.00
 13.Section 190(2) | 200.00
-[Part 1 amended in Gazette 13 Feb 2009 p. 300.]
+[Part 1 amended in Gazette 13 Feb 2009 p. 300; 24 Feb 2012 p. 803.]
 Offence Part 2 — Regulations | Modified penalty $
 1.Regulation 108 | 50
 2.Regulations 12(3), 16B, 39, 40, 42, 43, 44 and 64L | 75

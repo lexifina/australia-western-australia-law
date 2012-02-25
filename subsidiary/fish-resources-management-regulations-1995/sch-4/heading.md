@@ -16,11 +16,11 @@ Cod, Potato
 Coral Trout
 Coral
 Crab, Blue Manna (Blue Swimmer)
-Crab, Brown Mud
 Crab, Champagne
 Crab, Crystal
 Crab, Giant
-Crab, Green Mud
+Crab, Mud (Brown)
+Crab, Mud (Green)
 Dhufish, West Australian
 Dolphinfish (Mahi Mahi)
 Emperor and Seabream
@@ -128,4 +128,4 @@ Whiting (other than whiting listed as category 2 fish)
 Wrasse (other than wrasse listed as category 1 fish)
 Category 4 fish
 Any species of fish not specified in this Schedule to be category 1 fish, category 2 fish or category 3 fish.
-[Schedule 4 inserted in Gazette 29 Sep 2009 p. 3869-74; amended in Gazette 24 Aug 2011 p. 3409.]
+[Schedule 4 inserted in Gazette 29 Sep 2009 p. 3869-74; amended in Gazette 24 Aug 2011 p. 3409; 24 Feb 2012 p. 803.]
