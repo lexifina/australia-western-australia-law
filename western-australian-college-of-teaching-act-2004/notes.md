@@ -10,11 +10,11 @@ Legal Profession Act 2008 s. 712 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Reprint 1: The Western Australian College of Teaching Act 2004 as at 5 Dec 2008 (includes amendments listed above except those in the Legal Profession Act 2008)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 135 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Curriculum Council Amendment Act 2011 Pt. 3 Div. 5 | 37 of 2011 | 13 Sep 2011 | 1 Mar 2012 (see s. 2(b) and Gazette 28 Feb 2012 p. 841)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 34 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Curriculum Council Amendment Act 2011 Pt. 3 Div. 5 | 37 of 2011 | 13 Sep 2011 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 34 had not come into operation. It reads as follows:
 “
@@ -37,12 +37,6 @@ s. 21 | Allowing child to be at place involving commercial sexual act or certain
 s. 21A | Obligations of those who operate sexual service business in relation to children
 ”.
 ”.
-On the date as at which this compilation was prepared, the Curriculum Council Amendment Act 2011 Pt. 3 Div. 5 had not come into operation. It reads as follows:
-Division 5 — Western Australian College of Teaching Act 2004 amended
-59.Western Australian College of Teaching Act 2004 amended
-(1) This section amends the Western Australian College of Teaching Act 2004.
-(2) In section 3(1) in the definition of teaching paragraph (a) delete “curriculum framework approved under the Curriculum Council Act 1997” and insert:
-outline of curriculum and assessment in schools established under the School Curriculum and Standards Authority Act 1997
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
