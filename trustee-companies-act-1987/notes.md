@@ -27,9 +27,11 @@ Reprint 3: The Trustee Companies Act 1987 as at 10 Oct 2008 (includes amendments
 Trustee Companies (Designation of Trustee Companies) Regulations 2010 published in Gazette 12 Feb 2010 p. 591 | r. 1 and 2: 12 Feb 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Feb 2010 (see r. 2(b))
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Trustee Companies (Commonwealth Regulation) Amendment Act 2011 Pt. 2 | 39 of 2011 | 4 Oct 2011 | 26 Nov 2011 (see s. 2(b) and Gazette 25 Nov 2011 p. 4867)
-Defined Terms
+Reprint 4: The Trustee Companies Act 1987 as at 2 Mar 2012 (includes amendments listed above)
+The section in this Act (s. 46) repealing the West Australian Trustees Limited Act 1893 and the Perpetual Trustees W.A. Ltd., Act 1922, was deleted by the Trustee Companies (Commonwealth Regulation) Amendment Act 2011 s. 15.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 amending Act46
 amending provision48(2)
 board of directors3(1)
