@@ -29,7 +29,7 @@ Note:The fees specified in items 1 to 4 include the creation and registration of
 [Division 1 inserted in Gazette 9 Jan 2009 p. 30-1; amended in Gazette 19 Jun 2009 p. 2236-7 and 2238-9; 18 Jun 2010 p. 2679-80; 14 Jun 2011 p. 2133-4.]
 ## Division 2 — Lodgments
 [Heading inserted in Gazette 9 Jan 2009 p. 31.]
-1. | Of a caveat, a power of attorney or a declaration of trust ........................................................................... | $160.00
+1. | Of a caveat, a power of attorney or a declaration of trust | $160.00
 2. | Of a deposited plan of Crown land that is not a subdivision —
  | (a)general fee | $227.00
  | (b)for each lot | $62.00
@@ -63,7 +63,7 @@ Note:The fees specified in items 1 to 4 include the creation and registration of
 4. | To amend certificates of title of other owners affected by section 170 of the Act — for each certificate of title affected | $160.00
 5. | To serve a section 138A caveator with notice under section 138B of the Act | $300.00
 6. | For each replacement edition of a duplicate certificate of title where a duplicate certificate of title was issued on the registration of the certificate of title | $160.00
-7A. | For information not to be inspected as part of the names index ................................................................ | $160.00
+7A. | For information not to be inspected as part of the names index | $160.00
 7. | An application in respect of any matter not specifically provided for in this Division | $160.00
 [Division 4 inserted in Gazette 9 Jan 2009 p. 32; amended in Gazette 22 May 2009 p. 1705; 19 Jun 2009 p. 2239; 18 Jun 2010 p. 2680-1; 14 Jun 2011 p. 2134-5.]
 ## Division 5 — Certificates
@@ -102,8 +102,8 @@ Note:The fees specified in items 1 to 4 include the creation and registration of
 Note:The fees specified in item 18 include the taking a hard copy of screen print.
 19. | In response to a request via a privately owned facsimile machine or via email for the results of any search referred to in items 1 to 17 — for each request (in addition to the fees payable under items 1 to 17) | $5.20
 20. | For arranging the postal delivery of any material for which a fee is payable under this Schedule —
- | (a)if the material is sent within Australia and is not greater than 50 grams | $9.00
- | (b)if the material is sent outside Australia or is greater than 50 grams | $9.00 plus any additional costs incurred, as assessed by the Registrar
+ | (a)if the material is sent within Australia and is not greater than 50 g | $9.00
+ | (b)if the material is sent outside Australia or is greater than 50 g | $9.00 plus any additional costs incurred, as assessed by the Registrar
 21. | Search of the power of attorney file for the number of a power of attorney document (unless item 18(b) applies) | $12.00
 22. | Inspection of a power of attorney document where the number is known | $24.00
 23. | Copy of a power of attorney document where the number is known | $24.00
@@ -128,9 +128,8 @@ Note:The fees specified in item 18 include the taking a hard copy of screen prin
 10. | Search of an historic tenure | fee as assessed by the Registrar, not exceeding actual cost
 11. | Providing a replica of a certificate of title, plan or document registered in the State | actual cost
 [12.deleted]
- | if a deposited plan, plan or diagram has been certified correct and is to be forwarded to Western Australian Planning Commission, an additional fee of | $60.00
-13. | For rejection of a document under section 192(1) of the Act | 75% of the registration, recording, lodgment or application fee paid or
- |  | payable on the document (rounded down to the nearest multiple of $1)
+13. | For rejection of a document under section 192(1) of the Act | 75% of the registration, recording, lodgment or application fee paid or payable on the
+ |  | document (rounded down to the nearest multiple of $1)
 14. | For registrations and recordings under Division 1, lodgments under Division 2 and applications under Division 4 — involving more than 10 certificates or leases — each certificate or lease in excess of 10 | $6.00
 15. | For the priority processing of a transfer, mortgage, discharge of mortgage, withdrawal of caveat, or survivorship application, or not more than 4 of such documents if lodged together, or of an enduring power of attorney, subject to regulation 5A | $39.00
 [Division 7 inserted in Gazette 9 Jan 2009 p. 34-6; amended in Gazette 19 Jun 2009 p. 2238 and 2240-1; 18 Jun 2010 p. 2682; 14 Jun 2011 p. 2136.]
