@@ -1,4 +1,4 @@
-## Schedule 1 — Fees — Fishing Boats
+## Schedule 1 — Fees — Fishing boats
 [r. 3]
 [Heading inserted in Gazette 12 Jun 2009 p. 2127.]
 The fees in the Table are payable in respect of the provision of marine navigational aids outside any port under the control of a port authority and the approaches to that port.
