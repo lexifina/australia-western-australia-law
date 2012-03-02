@@ -1,9 +1,9 @@
 ## Schedule 2
 ## Survey requirements and intervals
-[r.6]
+[r. 6]
 Appendix II
 In this Appendix items listed shall be subjected to a survey unless otherwise indicated.
-Part I — Vessels less than 35 metres in length
+Part I — Vessels less than 35 m in length
 Annual surveys
 1.Equipment.
 2.Running trial of each main engine and associated gear box.
@@ -15,7 +15,7 @@ Annual surveys
 8.Inspection of all pipe arrangements.
 9.General examination of machinery installation and electrical installation.
 10.All safety and relief valves associated with the safe operation of the vessel to be set at the required working pressure.
-11.Pressure vessels, and associated mountings used for the generation of steam under pressure or the heating of water to a temperature exceeding 99oC.
+11.Pressure vessels, and associated mountings used for the generation of steam under pressure or the heating of water to a temperature exceeding 99°C.
 12.Inspection of the liquefied petroleum gas installation.
 13.Inspection of cargo handling, fishing and trawling gear.
 14.Inspection of escapes from engine room and accommodation spaces.
@@ -36,7 +36,7 @@ Annual surveys
 27.Compressed air pressure vessels having a working pressure of more than 275 kPa and associated mountings.
 28.Pressure vessel and associated mountings of an air pressure/fresh water system having a working pressure of more than 275 kPa.
 29.Cargo handling, fishing and trawling gear.
-30.Insulation tests of all electrical installations above 32V A.C. or D.C.
+30.Insulation tests of all electrical installations above 32 V a.c. or d.c.
 8-Yearly surveys
 31.Each rudder stock and rudder stock bearing.
 32.Steering gear.
@@ -46,7 +46,7 @@ Annual surveys
 35.Fuel oil tanks internally.
 Other survey periods
 36.The survey period for an item not specified in this Part shall be that period determined by the Authority.
-Part II — Vessels of 35 metres in length and over
+Part II — Vessels of 35 m in length and over
 Annual surveys
 1.Equipment.
 2.Running trial of each main engine and associated gear box.
@@ -57,7 +57,7 @@ Annual surveys
 7.Inspection of all pipe arrangements.
 8.General inspection of machinery installation and electrical installation.
 9.All safety and relief valves associated with the safe operation of the vessel to be set at the required working pressure.
-10.Pressure vessels used for the generation of steam at a pressure not exceeding 345 kPa or for heating water to a temperature exceeding 99oC together with their associated mountings (not being a boiler referred to in items 16 and 23).
+10.Pressure vessels used for the generation of steam at a pressure not exceeding 345 kPa or for heating water to a temperature exceeding 99°C together with their associated mountings (not being a boiler referred to in items 16 and 23).
 11.Inspection of the liquefied petroleum gas installation.
 12.Inspection of cargo handling, fishing and trawling gear.
 13.Inspection of escapes from engine room and accommodation spaces.
@@ -91,11 +91,11 @@ Annual surveys
 39.Turbo-generators.
 40.Main engine, steam turbines.
 41.Main engine, internal combustion engines.
-42.Selected lengths of steel steam pipes having bolted joints and carrying steam at a temperature exceeding 455oC. Also hydraulic test of those lengths.
-43.Steel pipes having welded joints carrying steam at a temperature exceeding 455oC. Also hydraulic test of those lengths.
+42.Selected lengths of steel steam pipes having bolted joints and carrying steam at a temperature exceeding 455°C. Also hydraulic test of those lengths.
+43.Steel pipes having welded joints carrying steam at a temperature exceeding 455°C. Also hydraulic test of those lengths.
 44.Pressure vessel and associated mountings of an air pressure/fresh water system having a working pressure of more than 275 kPa.
 45.After the twelfth year in service all solid drawn copper steam pipes having an internal diameter exceeding 75 mm are to be annealed and hydraulically tested.
-46.After the twelfth year in service selected lengths of steel steam pipes having an internal diameter exceeding 75 mm and carrying steam not exceeding 455oC are to be hydraulically tested.
+46.After the twelfth year in service selected lengths of steel steam pipes having an internal diameter exceeding 75 mm and carrying steam not exceeding 455°C are to be hydraulically tested.
 5-Yearly surveys
 47.Peak tanks internally. Peak tanks are to be tested to a head sufficient to give the maximum pressure than can be experienced in service.
 48.Deep tanks (except those tanks used exclusively for oil fuel) internally. All deep tanks are to be tested to a head sufficient to give the maximum pressure that can be experienced in service. Deep tanks used exclusively for oil fuel need not be examined internally subject to satisfactory external survey and hydraulic test.
@@ -107,7 +107,7 @@ Annual surveys
 52.Independent pumps used for the supply of lubricating oil under pressure to hydraulically operated machinery.
 53.Electrically operated or hydraulically operated steering gear.
 54.All solid drawn copper steam pipes having an internal diameter exceeding 75 mm are to be annealed and hydraulically tested.
-55.Selected lengths of steel steam pipes having an internal diameter exceeding 75 mm and carrying steam at a temperature not exceeding 455oC are to be hydraulically tested.
+55.Selected lengths of steel steam pipes having an internal diameter exceeding 75 mm and carrying steam at a temperature not exceeding 455°C are to be hydraulically tested.
 Other survey periods
 56.Emergency generator i.e. generator used normally for emergency purposes shall be surveyed once in the first 12 years and thereafter once in every subsequent period of 8 years.
 57.One deep tank that is used exclusively for fuel oil to be surveyed internally every 5 years starting when the ship is 10 years old and all such deep tanks to be surveyed by the time the ship is 25 years old.
