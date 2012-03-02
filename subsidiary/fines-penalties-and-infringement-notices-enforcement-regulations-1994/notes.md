@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fines, Penalties and Infringement Notices Enforcement Regulations 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 2 March 2012 of the Fines, Penalties and Infringement Notices Enforcement Regulations 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fines, Penalties and Infringement Notices Enforcement Regulations 1994 | 30 Dec 1994 p. 7232-41 | 1 Jan 1995 (see r. 2 and Gazette 30 Dec 1992 p. 7211)
@@ -37,19 +37,22 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No.
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 3) 2008 | 27 Mar 2008 p. 903-4 | r. 1 and 2: 27 Mar 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Mar 2008 (see r. 2(b) and Gazette 27 Mar 2008 p. 899)
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 5) 2008 | 4 Jul 2008 p. 3171 | r. 1 and 2: 4 Jul 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jul 2008 (see r. 2(b))
 Reprint 4: The Fines, Penalties and Infringement Notices Enforcement Regulations 1994 as at 12 Dec 2008 (includes amendments listed above)
-Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2009 | 23 Jun 2009 p. 2466 | r. 1 and 2: 23 Jun 2009(see r. 2(a)); Regulations other than r. 1 and 2: 24 Jun 2009 (see r. 2(b))
+Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2009 | 23 Jun 2009 p. 2466 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jun 2009 (see r. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 2) 2009 | 29 Jan 2010 p. 199-200 | r. 1 and 2: 29 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2010 (see r. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2010 | 25 Jun 2010 p. 2869 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Jun 2010 (see r. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 2) 2010 | 17 Sep 2010 p. 4759 | r. 1 and 2: 17 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Sep 2010 (see r. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2011 | 17 Jun 2011 p. 2169 | r. 1 and 2: 17 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jun 2011 (see r. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 4) 2011 | 13 Dec 2011 p. 5281-2 | r. 1 and 2: 13 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Dec 2011 (see r. 2(b))
+Reprint 5: The Fines, Penalties and Infringement Notices Enforcement Regulations 1994 as at 2 Mar 2012 (includes amendments listed above)
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Now called the General Account.
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management was called the Department of Environment and Conservation.
-Under the Alteration of Statutory Designations Order 2004 a reference in a written law to the Department of Environmental Protection is, unless the contrary is intended, to be read and construed as a reference to the Department of Environment.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Environment was called the Department of Environment and Conservation.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
+Under the Alteration of Statutory Designations Order (No. 2) 2006 a reference in a written law to the Department of Environmental Protection is, unless the contrary is intended, to be read and construed as a reference to the Department of Environment and Conservation.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Fisheries Department of Western Australia is read and construed as a reference to the Department of Fisheries.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Office of Racing, Gaming and Liquor is read and construed as a reference to the Department of Racing, Gaming and Liquor.
 Now superseded by the Water Corporation.
+Repealed by the Building Services (Registration) Act 2011 s. 107.
 Formerly referred to the Censorship Act 1996 the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Repealed by the Building Services (Registration) Act 2011 s. 108.
 The Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 1997 were published on 1 Aug 1997 p. 4394 and again on 4 Nov 1997 p. 6079-80. The publication of 4 Nov 1997 has no effect.
