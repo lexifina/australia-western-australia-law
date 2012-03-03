@@ -60,6 +60,7 @@ Environmental Protection Amendment Regulations (No. 2) 2007 | 30 Oct 2007 p. 587
 Waste Avoidance and Resource Recovery Regulations 2008 r. 22 | 20 Jun 2008 p. 2665-84 | 1 Jul 2008 (see r. 2(b))
 Environmental Protection Amendment Regulations 2010 | 23 Jul 2010 p. 3401 | r. 1 and 2: 23 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jul 2010 (see r. 2(b))
 Environmental Protection (Packaged Fertiliser) Regulations 2010 r. 18 | 31 Dec 2010 p. 6883-4 | 1 Jan 2011 (see r. 2(c))
+Environmental Protection Amendment Regulations 2012 | 2 Mar 2012 p. 855 | r. 1 and 2: 2 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Mar 2012 (see r. 2(b))
 Published in Gazette 18 December 1992 p. 6099.
 Proclaimed 1 July 1988 in Gazette 26 June 1998 p. 3369.
 Expired on 1 July 2004; see Gazette 23 July 2003 p. 3172.
