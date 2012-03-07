@@ -34,10 +34,8 @@ Housing Societies Act 1976 s. 29D(9), 79(a)
 Juries Act 1957 s. 56B(1), 56C(1), 56D(1)
 Land Drainage Act 1925 s. 155
 Local Government (Miscellaneous Provisions) Act 1960 s. 474(7), 482(3)
-Medical Act 1894 s. 16A(1), 19, 21A(1)
 Mental Health Act 1996 s. 206(1), Sch. 2 cl. 13(5), Sch. 2 cl. 16
 Nuclear Activities Regulation Act 1978 s. 9(7)
-Optometrists Act 1940 s. 42
 Plant Diseases Act 1914 s. 34(1)
 Poisons Act 1964 s. 49(2)
 Police Act 1892 s. 16A(1), 31, 54, 54A(3), 59, 65, 66, 76F(3)(a), 82B(1), 82B(3), 97, 107, 124, 125, 128
