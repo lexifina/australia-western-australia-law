@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 March 2009 of the Bail Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Bail Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Bail Regulations 1988 | 30 Dec 1988 p. 5043-80 | 6 Feb 1982 (see r. 2 and Gazette 27 Jan 1989 p. 263)
@@ -17,6 +17,7 @@ Sentencing Legislation (Short Sentences) Amendment Regulations 2004 r. 5 | 14 Ma
 Courts and Legal Practice (Consequential Amendments) Regulations 2005 r. 2 | 19 Apr 2005 p. 1294-302 | 19 Apr 2005
 Bail Amendment Regulations 2009 | 25 Feb 2009 p. 471-90 | r. 1 and 2: 25 Feb 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2009 (see r. 2(b) and Gazette 27 Feb 2009 p. 511)
 Reprint 2: The Bail Regulations 1988 as at 6 Mar 2009 (includes amendments listed above)
+Bail Amendment Regulations 2012 | 6 Mar 2012 p. 895 | r. 1 and 2: 6 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2012 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
