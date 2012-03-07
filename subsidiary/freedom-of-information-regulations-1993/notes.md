@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 March 2008 of the Freedom of Information Regulations 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Freedom of Information Regulations 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Freedom of Information Regulations 1993 | 22 Oct 1993 p. 5800-2 | 1 Nov 1993 (see r. 2 and Gazette 29 Oct 1993 p. 5881)
@@ -10,6 +10,8 @@ Freedom of Information Amendment Regulations 1997 | 2 Sep 1997 p. 4976-7 | 2 Sep
 Freedom of Information Amendment Regulations 2006 | 22 Dec 2006 p. 5805-6 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
 Freedom of Information Amendment Regulations 2007 | 28 Dec 2007 p. 6414-23 | 28 Dec 2007 (see r. 2)
 Reprint 1: The Freedom of Information Regulations 1993 as at 14 Mar 2008 (includes amendments listed above)
+Freedom of Information Amendment Regulations (No. 2) 2012 | 6 Mar 2012 p. 892-3 | r. 1 and 2: 6 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2012 (see r. 2(b))
+Freedom of Information Amendment Regulations 2012 | 6 Mar 2012 p. 896 | r. 1 and 2: 6 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2012 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

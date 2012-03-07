@@ -19,7 +19,6 @@ Western Australian Coastal Shipping Commission (Stateships)
 Western Australian Marine Act Manning Committee
 Western Australian Mercantile Marine Disciplinary Appeal Tribunal
 Western Australian Planning Commission
-Column 1 Agency | Column 2 Office or body
 Department of Agriculture and Food | Agricultural Practices Board
 Agricultural Produce Commission
 Agriculture Protection Board of Western Australia
@@ -71,8 +70,7 @@ Gingin Land Conservation District Committee
 Gnowangerup Land Conservation District Committee
 Goomalling Land Conservation District Committee
 Grain Licensing Authority
-Column 1 Agency | Column 2 Office or body
- | Halls Creek - East Kimberley Land Conservation District Committee
+Halls Creek - East Kimberley Land Conservation District Committee
 Hay River Land Conservation District Committee
 Irwin Land Conservation District Committee
 Jerramungup Land Conservation District Committee
@@ -112,8 +110,7 @@ Mount Marshall Land Conservation District Committee
 Mukinbudin Land Conservation District Committee
 Mullewa Land Conservation District Committee
 Murchison Land Conservation District Committee
-Column 1 Agency | Column 2 Office or body
- | Napier River Land Conservation District Committee
+Napier River Land Conservation District Committee
 Narembeen Land Conservation District Committee
 Narrogin Land Conservation District Committee
 Narrogin Zone Control Authority
@@ -154,34 +151,32 @@ Toodyay Land Conservation District Committee
 Trayning Land Conservation District Committee
 Tunney Land Conservation District Committee
 Upper Gascoyne Land Conservation Committee
-Column 1 Agency | Column 2 Office or body
- | Vasse - Wonnerup Land Conservation District Committee
- | Veterinary Surgeons Board
- | Waddi Forest Land Conservation District Committee
- | Wagin Land Conservation District Committee
- | Walpole - Tingledale Land Conservation District Committee
- | Waroona Zone Control Authority
- | Watheroo - Coomberdale Land Conservation District Committee
- | Wellesley Land Conservation District Committee
- | Wellstead Land Conservation District Committee
- | West Arthur Land Conservation District Committee
- | West Ballidu Land Conservation District Committee
- | West Kimberley Land Conservation District Committee
- | West Koojan Gillingarra Land Conservation District Committee
- | West Maya Land Conservation District Committee
- | West Mount Barker Land Conservation District Committee
- | Western Australian Meat Industry Authority
- | Westonia Land Conservation District Committee
- | Wickepin Land Conservation District Committee
- | Wiluna Land Conservation District Committee
- | Woodanilling Land Conservation District Committee
- | Wooroloo Land Conservation Committee
- | Wyalkatchem Land Conservation District Committee
- | Yalgoo Land Conservation District Committee
- | Yallingup Land Conservation District Committee
- | Yilgarn Land Conservation District Committee
- | York Land Conservation District Committee
-Column 1 Agency | Column 2 Office or body
+Vasse - Wonnerup Land Conservation District Committee
+Veterinary Surgeons Board
+Waddi Forest Land Conservation District Committee
+Wagin Land Conservation District Committee
+Walpole - Tingledale Land Conservation District Committee
+Waroona Zone Control Authority
+Watheroo - Coomberdale Land Conservation District Committee
+Wellesley Land Conservation District Committee
+Wellstead Land Conservation District Committee
+West Arthur Land Conservation District Committee
+West Ballidu Land Conservation District Committee
+West Kimberley Land Conservation District Committee
+West Koojan Gillingarra Land Conservation District Committee
+West Maya Land Conservation District Committee
+West Mount Barker Land Conservation District Committee
+Western Australian Meat Industry Authority
+Westonia Land Conservation District Committee
+Wickepin Land Conservation District Committee
+Wiluna Land Conservation District Committee
+Woodanilling Land Conservation District Committee
+Wooroloo Land Conservation Committee
+Wyalkatchem Land Conservation District Committee
+Yalgoo Land Conservation District Committee
+Yallingup Land Conservation District Committee
+Yilgarn Land Conservation District Committee
+York Land Conservation District Committee
 Department of Consumer and Employment Protection | Board of Examiners (Coal Mining)
 Board of Examiners (Mine Managers and Underground Supervisors)
 Board of Examiners (Quarry Managers)
@@ -197,7 +192,6 @@ Motor Vehicle Industry Board
 Plumbers Licensing Board
 Retail Shops Advisory Committee
 WorkSafe
-Column 1 Agency | Column 2 Office or body
 Department of Corrective Services | Prison Officers Appeal Tribunal
 Department of Culture and the Arts | Art Gallery Board of Western Australia
 Art Gallery Foundation
@@ -221,13 +215,11 @@ Swan Bells Foundation
 Western Australian Museum
 Western Australian Museum Board
 Western Australian Museum Foundation
-Department of Education and Training | Aboriginal Education and Training Council
-Country High Schools Hostels Authority
-Division of Industrial Training
+Department of Education | Country High School Hostels Authority
+Trustees of Public Education Endowment
+Department of Education Services | Aboriginal Education and Training Council
 Non-Government Schools Planning Advisory Committee
-Public Education Endowment Trust (PEET)
 Rural and Remote Education Advisory Council
-State Training Board
 Training Accreditation Council
 Western Australian Higher Education Council
 Department of Environment and Conservation | Cockburn Sound Management Council
@@ -248,8 +240,6 @@ Recreational Fishing Advisory Committee
 Rock Lobster Industry Advisory Committee
 Department of Health | Aged Care Advisory Panel
 Anaesthetic Morality Committee
-Dental Charges Committee
-Dental Prosthetists Advisory Committee
 Fluoridation of Public Water Supplies Advisory Committee
 Food Advisory Committee
 Local Health Authorities Analytical Committee
@@ -257,7 +247,6 @@ Maternal Mortality Committee
 Perinatal and Infant Mortality Committee
 Pesticides Advisory Committee
 Western Australian Reproductive Technology Foundation
-Column 1 Agency | Column 2 Office or body
 Department of Housing and Works | Aboriginal Housing and Infrastructure Council
 Architects Board of Western Australia
 Building and Construction Advisory Council
@@ -310,9 +299,10 @@ Office of e-Government
 Office of Road Safety
 Office of the Premier
 State Law Publisher
+Department of Training and Workforce Development | Division of Industrial Training
+State Training Board
 Department of Treasury and Finance | Anzac Day Trust
 Office of Shared Services
-Column 1 Agency | Column 2 Office or body
 Department of Water | Avon Waterways Committee
 Broome Groundwater Advisory Committee
 Canning – Wungong – Southern River Irrigation Advisory Committee
@@ -338,7 +328,6 @@ Warren Water Management Area Advisory Committee
 Water Resource Allocation Committee
 Whicher Water Resource Management Group
 Disability Services Commission | Advisory Council for Disability Services
-Column 1 Agency | Column 2 Office or body
 Minister for the Environment | Appeals Convenor for the Environmental Protection Act 1986
 Office of Energy | Aboriginal and Remote Communities Power Supply Steering Committee
 Advisory Committee for Wind-up of the Perth International Centre for the Application of Solar Energy
@@ -367,4 +356,4 @@ Land Surveyors Licensing Board
 Pastoral Board
 Valuer General’s Office
 WorkCover Western Australia Authority (Workcover WA) | Dispute Resolution Directorate
-[Schedule 2 inserted in Gazette 28 Dec 2007 p. 6415-23.]
+[Schedule 2 inserted in Gazette 28 Dec 2007 p. 6415-23; amended in Gazette 6 Mar 2012 p. 893 and 896.]
