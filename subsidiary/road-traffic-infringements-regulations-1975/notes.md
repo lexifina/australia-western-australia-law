@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Infringements) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 9 March 2012 of the Road Traffic (Infringements) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Infringements) Regulations 1975 | 29 May 1975 p. 1521-31 | 1 Jun 1975
@@ -80,7 +80,10 @@ Reprint 6: The Road Traffic (Infringements) Regulations 1975 as at 3 Apr 2009 (i
 Road Traffic (Infringements) Amendment Regulations (No. 2) 2009 | 16 Oct 2009 p. 4069 | r. 1 and 2: 16 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Oct 2009 (see r. 2(b))
 Road Traffic (Infringements) Amendment Regulations 2009 | 13 Nov 2009 p. 4539-40 | r. 1 and 2: 13 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2009 (see r. 2(b))
 Road Traffic (Infringements) Amendment Regulations (No. 3) 2009 | 31 Dec 2009 p. 5415-16 | r. 1 and 2: 31 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
-Road Traffic (Infringements) Amendment Regulations 2011 | 30 Aug 2011 p. 3512 | 1 Oct 2011 (see r. 2(b) and Gazette 30 Aug 2011 p. 3503)
+Road Traffic (Infringements) Amendment Regulations 2011 | 30 Aug 2011 p. 3512 | r. 1 and 2: 30 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2011 (see r. 2(b) and Gazette 30 Aug 2011 p. 3503)
+Reprint 7: The Road Traffic (Infringements) Regulations 1975 as at 9 Mar 2012 (includes amendments listed above)
+Under the Alteration of Statutory Designation (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
+Under the Duties Act 2008 Sch. 3 cl. 28(2), a reference to the Stamp Act 1921 in a written law is, if it is appropriate in the context to do so, to be taken to be a reference to the Duties Act 2008.
 This amendment was superseded in Gazette 29 Jun 1979 p. 1777-8.
 The amendments to the First Schedule do not have effect because the items they would have amended were deleted in Gazette 1 Dec 2000 p. 6759.
 Defined Terms

@@ -13,7 +13,7 @@ GENERAL TRAFFIC INFRINGEMENT NOTICE Road Traffic Act, Section 102 | DATE OF ISSU
 SEX o SURNAME oooooooooooooooooooooooooooo
 GIVEN NAMES oooooooooooooooooooooooooooooo
 NUMBER/STREET ooooooooooooooooooooooooooooo
-SUBURB/TOWN ooooooooooooooooo POSTCODE oooooo
+SUBURB/TOWN ooooooooooooooooo POSTCODE oooo
 DRIVER’S LICENCE EXPIRY DATE CLASS STATE PROB.
 NUMBER
 ooooooo oo / oo / oo oooooo ooo o
