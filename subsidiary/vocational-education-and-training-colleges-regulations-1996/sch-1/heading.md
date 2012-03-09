@@ -8,4 +8,4 @@ Item | Fee for | Fee ($)
  | (b)For a person who is a concessional student and is enrolled to undertake the unit — (i)for a band 1 unit (ii)for a band 2 unit (iii)for a band 3 unit (iv)for a band 4 unit | 8.00 17.00 33.00 64.00
 3. | Category B course, per semester (r. 12(1)) | 25.00
 4. | Category C course, per hour or part of an hour, for the course (r. 12(1)) | 4.15
-[Table to Schedule 1 inserted in Gazette 27 Oct 2011 p. 4558-9.]
+[Schedule 1 amended in Gazette 27 Oct 2011 p. 4558-9.]
