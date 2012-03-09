@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Vocational Education and Training (Colleges) Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 9 March 2012 of the Vocational Education and Training (Colleges) Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Vocational Education and Training Regulations 1996 | 27 Dec 1996 p. 7167-84 | 1 Jan 1997 (see r. 2 and Gazette 12 Nov 1996 p. 6301)
@@ -33,6 +33,7 @@ Vocational Education and Training (Colleges) Amendment Regulations (No. 2) 2009 
 Vocational Education and Training (Colleges) Amendment Regulations 2010 | 19 Jan 2010 p. 141-7 | r. 1 and 2: 19 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Jan 2010 (see r. 2(b))
 Vocational Education and Training (Colleges) Amendment Regulations (No. 2) 2010 | 26 Nov 2010 p. 5956-8 | r. 1 and 2: 26 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Nov 2010 (see r. 2(b))
 Vocational Education and Training (Colleges) Amendment Regulations 2011 | 27 Oct 2011 p. 4557-9 | r. 1 and 2: 27 Oct 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Oct 2011 (see r. 2(b))
+Reprint 5: The Vocational Education and Training (Colleges) Regulations 1996 as at 9 Mar 2012 (includes amendments listed above)
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 of the Commonwealth.
 Formerly referred, incorrectly, to the Student and Youth Allowances Act 1973 of the Commonwealth. The correct short title of the Act was the Student and Youth Assistance Act 1973. That short title was changed to the Student Assistance Act 1973 by the Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998 of the Commonwealth. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Now known as the Vocational Education and Training (Colleges) Regulations 1996; citation changed (see note under r. 1).
@@ -43,14 +44,13 @@ The Vocational Education and Training Amendment Regulations 2005 r. 6(3) reads a
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-Centrelink3(1)
 Act3(1)
 Admissions Manager5
 assessment of skills and competency3(1)
 Australian resident15A(4)
 band3(1)
 category3(1)
-Centrelink20(1)
+Centrelink3(1), 20(1)
 completing a course3(3)
 completing a unit3(3)
 concessional student3(1)
@@ -60,7 +60,7 @@ Job Services Australia provider14(1)
 payment period24A
 payment plan13C(1)
 pro rata refund24A
-the seal book31(1)
+seal book31(1)
 unemployed person14(1)
 unforseen circumstances24A
 unit3(1)
