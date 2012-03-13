@@ -21,7 +21,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
-Building Act 2011 s. 168 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
+Building Act 2011 s. 168 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Repealed by the Land Administration Act 1997.
 Repealed by the Water Resources Legislation Amendment Act 2007.
 Repealed by the Mining Act 1978.
