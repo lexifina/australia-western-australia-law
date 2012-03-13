@@ -57,7 +57,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 80 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
-Building Act 2011 s. 173 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
+Building Act 2011 s. 173 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 The designation of Ministers may be altered by the Governor under the Alterations of Statutory Designations Act 1974. As at the date of this reprint the former Minister for Agriculture is known as the Minister for Agriculture and Food.
 Repealed by the Conservation and Land Management Act 1984 s. 147.
