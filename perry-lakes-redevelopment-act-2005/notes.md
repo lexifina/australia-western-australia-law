@@ -10,7 +10,7 @@ Perry Lakes Redevelopment Amendment Act 2010 | 53 of 2010 | 8 Dec 2010 | s. 1 an
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Building Act 2011 s. 167 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
+Building Act 2011 s. 167 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 The department principally assisting in the administration of the Transfer of Land Act 1893 became, in January 2007, a statutory authority. Certificates, plans and diagrams are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 On the date as at which this compilation was prepared, the Building Act 2011 s. 167 had not come into operation. It reads as follows:
 167.Perry Lakes Redevelopment Act 2005 amended
