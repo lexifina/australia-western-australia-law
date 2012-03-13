@@ -3,10 +3,12 @@ This is a compilation of the Building Services (Complaint Resolution and Adminis
 Compilation table
 Citation | Gazettal | Commencement
 Building Services (Complaint Resolution and Administration) Regulations 2011 | 26 Aug 2011 p. 3453-71 | r. 1 and 2: 26 Aug 2011 (see r. 2(a)); Pt. 3 Div. 1 and 3: 29 Aug 2011 (see r. 2(b) and Gazette 26 Aug 2011 p. 3475); r. 3, 4, Pt. 2 (other than r. 7(a)) and Pt. 4: 29 Aug 2011 (see r. 2(d) and Gazette 26 Aug 2011 p. 3475)
+Building Services (Complaint Resolution and Administration) Amendment Regulations 2012 r. 1-4 | 12 Mar 2012 p. 985-7 | r. 1 and 2: 12 Mar 2012 (see r. 2(a)); r. 3 and 4: 13 Mar 2012 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Building Services (Complaint Resolution and Administration) Regulations 2011 r. 7(a) and Pt. 3 Div. 2 | 26 Aug 2011 p. 3453-71 | Operative on the day on which the Building Act 2011 Pt. 2 comes into operation (see r. 2(c))
+Building Services (Complaint Resolution and Administration) Regulations 2011 r. 7(a) and Pt. 3 Div. 2 | 26 Aug 2011 p. 3453-71 | 2 Apr 2012 (see r. 2(c) and Gazette 13 Mar 2012 p. 1033)
+Building Services (Complaint Resolution and Administration) Amendment Regulations 2012 r. 5-6 | 12 Mar 2012 p. 985-7 | 2 Apr 2012 (see r. 2(c) and Gazette 13 Mar 2012 p. 1033)
 On the date as at which this compilation was prepared, the Building Services (Complaint Resolution and Administration) Regulations 2011 r. 7(a) and Pt. 3 Div. 2 had not come into operation. They read as follows:
 7.Criteria for determining date of completion of regulated building service
 For the purposes of section 6(1) of the Act the following criteria apply when determining the date of completion of a regulated building service —
@@ -52,28 +54,35 @@ natural disaster means a cyclone, earthquake, flood, storm, tsunami or other nat
 (1) If a permit authority refuses to grant a permit or building approval certificate to an applicant, the permit authority must refund to the applicant the amount of the building services levy paid in respect of the permit or building approval certificate.
 (2) The permit authority must include the refund with the written notice of the decision to refuse given under the Building Act 2011 section 24 or 60.
 (3) The Building Commissioner may refund all or part of an amount of building services levy that has been paid in a particular case if the Building Commissioner is satisfied that exceptional circumstances warrant the refund being given in that case.
+On the date as at which this compilation was prepared, the Building Services (Complaint Resolution and Administration) Amendment Regulations 2012 r. 5 and 6 had not come into operation. They read as follows:
+5.Part 3 Division 1 deleted
+Delete Part 3 Division 1.
+6.Regulation 26 inserted
+After regulation 25 insert:
+26.Building levy for deemed applications
+(1) In this regulation —
+deemed application means an application for a building licence that is to be taken to be an application for a building permit under the Building Act 2011 section 178(4).
+(2) A person named as the builder on a building permit that is granted on a deemed application must pay to the permit authority that grants the building permit a building services levy of $41.50.
+(3) The building services levy is payable when the building permit is granted.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-applicant12(1)
 building approval certificate3(2)
 building licence3(1)
 building permit3(2)
-building work3(2), 12(1)
+building surveying work4A(1)
+building work3(2)
 Centrelink8(1)
 complainant6(1)
-CPI14(3)
 current proceeding23
 demolition permit3(2)
 demolition work3(2)
 financially disadvantaged person8(1)
 former registrar23
 former Tribunal23
-natural disaster15(2)
 occupancy permit3(2)
 paint4(1)
 painting work4(1)
 permit3(1), 17
 permit authority17
 repealed Act23
-value12(1)
