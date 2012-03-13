@@ -22,7 +22,7 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Building Act 2011 s. 172 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
+Building Act 2011 s. 172 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Department of Land Administration plans and diagrams are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 Footnote no longer applicable.
 Repealed by the Public Sector Management Act 1994 s. 110.
