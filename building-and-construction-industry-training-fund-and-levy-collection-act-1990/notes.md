@@ -21,7 +21,7 @@ Reprint 3: The Building and Construction Industry Training Fund and Levy Collect
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Building Act 2011 s. 159 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
+Building Act 2011 s. 159 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 (Cwlth).
 Repealed by the Offshore Petroleum (Repeals and Consequential Amendments) Act 2006 (Cwlth). Now see Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Cwlth).
 This Act shall be read as one with the Building and Construction Industry Training Levy Act 1990 (see s. 3 of that Act).
