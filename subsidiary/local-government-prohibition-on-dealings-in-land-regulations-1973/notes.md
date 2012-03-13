@@ -8,7 +8,7 @@ Reprint 1: The Local Government (Prohibition on Dealings in Land) Regulations 19
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Building Act 2011 s. 158 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
+Building Act 2011 s. 158 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 On the date as at which this compilation was prepared, the Building Act 2011 s. 158 had not come into operation. It reads as follows:
 158.Local Government (Prohibition on Dealings in Land) Regulations 1973 repealed
 The Local Government (Prohibition on Dealings in Land) Regulations 1973 are repealed.
