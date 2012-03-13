@@ -133,7 +133,7 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 22 | 35 of 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Building Act 2011 s. 161 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
+Building Act 2011 s. 161 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 Footnote no longer applicable.f
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
