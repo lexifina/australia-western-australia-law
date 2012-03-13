@@ -12,4 +12,14 @@ Building and Construction Industry Training Fund and Levy Collection Amendment R
 Building and Construction Industry Training Fund and Levy Collection Amendment Regulations 2001 | 16 Jan 2001 p. 338 | 1 Feb 2001 (see r. 2)
 Building and Construction Industry Training Fund and Levy Collection Amendment Act 2009 Pt. 3 assented 19 May 2009 | 20 May 2009 (see s. 2(b))
 Building and Construction Industry Training Fund and Levy Collection Amendment Regulations 2010 | 29 Mar 2011 p. 1155-9 | r. 1 and 2: 29 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Mar 2011 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Building and Construction Industry Training Fund and Levy Collection Amendment Regulations 2012 r. 3 and 4 | 13 Mar 2012 p. 1039-40 | 2 Apr 2012 (see r. 2(b)(i) and Gazette 13 Mar 2012 p. 1033)
 Now see Local Government Act 1995 (No. 74 of 1995).
+On the date as at which this compilation was prepared, the Building and Construction Industry Training Fund and Levy Collection Amendment Regulations 2012 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Building and Construction Industry Training Fund and Levy Collection Regulations 1991.
+4.Regulation 3 amended
+In regulation 3(2) in the definition of agricultural work delete “building licence” and insert:
+permit
