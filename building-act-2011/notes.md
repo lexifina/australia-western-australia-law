@@ -2,11 +2,11 @@ Notes
 This is a compilation of the Building Act 2011. The following table contains information about that Act.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Building Act 2011 s. 1- 3 | 24 of 2011 | 11 Jul 2011 | s. 1 and 2: 11 Jul 2011 (see s. 2(a)) s. 3: 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3476)
+Building Act 2011 s. 1-3 | 24 of 2011 | 11 Jul 2011 | s. 1 and 2: 11 Jul 2011 (see s. 2(a)) s. 3: 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3476)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Building Act 2011 s. 4-8, Pt. 2-16 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
+Building Act 2011 s. 4-8, Pt. 2-16 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 On the date as at which this compilation was prepared, the Building Act 2011 s. 4-8, Pt. 2-16 had not come into operation. They read as follows:
 4.Meaning of independent building surveyor
 (1) In this section —
