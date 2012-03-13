@@ -137,7 +137,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 91 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 Building Services (Registration) Act 2011 s. 156(2) and (3) | 19 of 2011 | 22 Jun 2011 | To be proclaimed (see s. 2(b))
-Building Act 2011 s. 151-6 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
+Building Act 2011 s. 151-6 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Act No. 90 of 1964 was passed as the Local Government Act Amendment Act (No. 2) 1964, but was proclaimed to come into operation as the Local Government Act Amendment Act 1964.
 Repealed by the Stock (Brands and Movement) Act 1970, which is now known as the Stock (Identification and Movement) Act 1970.
 Repealed by the Auction Sales Act 1973 s. 3(1).
