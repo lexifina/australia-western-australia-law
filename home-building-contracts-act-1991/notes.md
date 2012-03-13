@@ -27,7 +27,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Caravan Parks and Camping Grounds Act 1995 s. 33 | 34 of 1995 | 29 Sep 1995 | To be proclaimed (see s. 2)
-Building Act 2011 s. 163 | 24 of 2011 | 11 Jul 2011 | To be proclaimed (see s. 2(b))
+Building Act 2011 s. 163 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 The Building Legislation Amendment Act 2000 s. 59 and 62 read as follows:
 “
 59.References to Committee in other written laws
