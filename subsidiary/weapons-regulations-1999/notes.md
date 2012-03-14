@@ -17,6 +17,8 @@ Reprint 2: The Weapons Regulations 1999 as at 4 Jul 2008 (includes amendments li
 Weapons Amendment Regulations 2010 | 12 Mar 2010 p. 953 | r. 1 and 2: 12 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Mar 2010 (see r. 2(b))
 Weapons Amendment Regulations 2011 | 8 Apr 2011 p. 1282-6 | r. 1 and 2: 8 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Weapons Amendment Regulations (No. 2) 2011 | 16 Sep 2011 p. 3768-9 | r. 1 and 2: 16 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Sep 2011 (see r. 2(b))
+Weapons Amendment Regulations 2012 | 13 Mar 2012 p. 1037-9 | r. 1 and 2: 13 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Mar 2012 (see r. 2(b))
+These regulations expire 30 Jun 2017 (see r. 15(8).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -24,12 +26,13 @@ approved electric shock case3
 Archery Australia (Inc.) member14(1)
 baton3
 catapult3
-crossbow14(1)
+crossbow14(1), 15(1)
 discharge3
 dramatic production13(1)
 exempt arbalest14(1)
 exempt collector9(6)
 exempt event11(1)
+exempt person15(1)
 exempt production13(1)
 exemption notice13(1)
 extendable baton8(2)
