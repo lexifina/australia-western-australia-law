@@ -55,11 +55,12 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 34 | 8 of 2009 | 21 
 Acts Amendment (Bankruptcy) Act 2009 s. 19 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4, 44(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Conservation Legislation Amendment Act 2011 Pt. 2 (other than s. 40) | 36 of 2011 | 13 Sep 2011 | 14 Mar 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 6 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Conservation Legislation Amendment Act 2011 Pt. 2 | 36 of 2011 | 13 Sep 2011 | To be proclaimed (see s. 2(b))
+Conservation Legislation Amendment Act 2011 s. 40 | 36 of 2011 | 13 Sep 2011 | To be proclaimed (see s. 2(b))
 The Land Act 1933 was repealed by section 281 of the Land Administration Act 1997.
 The Forests Act 1918 was repealed by s. 147(1) of this Act.
 The Acts Amendment (Marine Reserves) Act 1997 s. 7(2) reads as follows:
@@ -217,478 +218,8 @@ and, unless the contrary intention appears, other words and expressions in this 
 The requirement to appoint an Executive Director was removed from the Act and references to the Executive Director were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
 The requirement to establish the Department of Conservation and Land Management was removed from the Act, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 453 of that Act is a general transitional provision that applies to references to the Department of Conservation and Land Management in written laws.
 The Conservation and Land Management Amendment Act 1991 s. 51 had not come into operation when it was deleted by the Statutes (Repeal and Miscellaneous Amendment) Act 2009 s. 35(2).
-On the date as at which this compilation was prepared, the Conservation Legislation Amendment Act 2011 Pt. 2 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Conservation Legislation Amendment Act 2011 s. 40 had not come into operation. It reads as follows:
 Part 2 — Conservation and Land Management Act 1984 amended
-3.Act amended
-This Part amends the Conservation and Land Management Act 1984.
-4.Section 3 amended
-(1) In section 3 delete the definitions of:
-associated body
-conservation park
-marine management area
-marine nature reserve
-marine park
-national park
-nature reserve
-State forest
-timber reserve
-(2) In section 3 insert in alphabetical order:
-Aboriginal person means a person wholly or partly descended from the original inhabitants of Australia;
-associated body means each person or body that, jointly with either the Conservation Commission or the Marine Authority —
-(a)is vested with land, or land and waters; or
-(b)has the care, control and management of land, or land and waters;
-conservation park means land that is a conservation park under section 6(4) or is treated as a conservation park under section 8B(2);
-exclusive native title, in relation to an area of land or waters, means native title rights and interests (as defined in section 223 of the NT Act) —
-(a)that exist in relation to the area, whether or not they have been determined under the NT Act to exist; and
-(b)that confer possession, occupation, use and enjoyment of the area on the holders of the native title rights and interests to the exclusion of all others;
-intertidal zone means the land, or the land and waters, below the high water mark and above the low water mark;
-land to which this Act applies has the meaning given in sections 5(1) and 8B(2) and (3);
-marine management area means waters, land, or land and waters, that are a marine management area under section 6(6);
-marine nature reserve means waters, land, or land and waters, that are a marine nature reserve under section 6(6);
-marine park means waters, land, or land and waters, that are a marine park under section 6(6);
-Minister for Indigenous Affairs means the Minister to whom the administration of the Aboriginal Affairs Planning Authority Act 1972 and the Aboriginal Heritage Act 1972 is committed, or each of the Ministers to whom their administration is committed;
-national park means land that is a national park under section 6(3) or is treated as a national park under section 8B(2);
-nature reserve means land that is a nature reserve under section 6(5) or is treated as a nature reserve under section 8B(2);
-non-exclusive native title, in relation to an area of land or waters, means native title rights and interests (as defined in section 223 of the NT Act) —
-(a)that exist in relation to the area, whether or not they have been determined under the NT Act to exist; and
-(b)that do not confer possession, occupation, use and enjoyment of the area on the holders of the native title rights and interests to the exclusion of all others;
-NT Act means the Native Title Act 1993 (Commonwealth);
-section 8A agreement means an agreement made under section 8A;
-section 8A land means land, waters, or land and waters, that are the subject of a section 8A agreement;
-section 8C land means land that, under an order made under section 8C, is managed by the CEO;
-State forest means land that is a State forest under section 6(1) or is treated as a State forest under section 8B(2);
-timber reserve means land that is a timber reserve under section 6(2) or is treated as a timber reserve under section 8B(2);
-5.Section 4 amended
-After section 4(4) insert:
-(5) Nothing in this Act or in a management plan or in a section 8A agreement —
-(a) prevents the CEO or any other person from taking any action permitted under the Aboriginal Heritage Act 1972 —
-(i) in respect of land to which this Act applies or section 8A land or section 8C land; or
-(ii) in respect of any decision made under that Act in respect of that land;
-or
-(b) limits any action the CEO or any other person may take under that Act in respect of that land; or
-(c) prevents the CEO, or any other person, who is authorised under that Act to do any act in respect of that land from doing the act.
-6.Part II heading replaced
-Delete the heading to Part II and insert:
-Part II — Land subject to this Act
-7.Section 5 amended
-In section 5(1)(h) delete “Authority.” and insert:
-Authority, whether solely or jointly with another person.
-8.Sections 8A, 8B and 8C inserted
-At the end of Part II Division 1 insert:
-8A.CEO may agree to manage private or other land
-(1) In this section —
-agreed area, in relation to an agreement made under this section, means the eligible land to which the agreement applies;
-alienated land has the meaning given in the Land Administration Act 1997 section 3(1);
-Crown land has the meaning given in the Land Administration Act 1997 section 3(1);
-eligible land means land, waters, or land and waters, that are above the low water mark and are —
-(a)alienated land; or
-(b)Crown land unless it is —
-(i)land to which this Act applies; or
-(ii)section 8C land;
-person responsible, for eligible land, means —
-(a)if the land is alienated land, each of these persons —
-(i)the owner;
-(ii)any person who has an interest in the land that is registered under the Transfer of Land Act 1893 or the Registration of Deeds Act 1856;
-(iii)the lessee, if any, of the land;
-(b)if the land is Crown land, each of these persons —
-(i)the Land Administration Minister;
-(ii)the management body (as defined in the Land Administration Act 1997 section 3(1)), if any, of the land under that Act;
-(iii)the person, if any, in whom the land is vested under a written law other than that Act;
-(iv)the person, if any, who has the control and management of the land under a written law other than that Act;
-(v)the lessee, if any, of the land;
-(vi)if exclusive native title has been determined under the NT Act to exist in relation to the land, the registered native title body corporate (as defined in section 253 of the NT Act) in respect of the native title rights and interests concerned.
-(2) This section does not affect the operation of the NT Act in relation to any person who claims or holds exclusive native title or non-exclusive native title.
-(3) An agreement may be made under this section in respect of Crown land that is the subject of an interest (as defined in the Land Administration Act 1997 section 3(1)) granted or entered into under that Act, notwithstanding that Act.
-(4) An agreement made under this section cannot apply to any land, waters, or land and waters to which a mining lease, or a general purpose lease, granted under the Mining Act 1978, applies.
-(5) The CEO may enter into an agreement under which the CEO agrees to manage an area of eligible land, either alone or jointly with one or more other persons —
-(a) as if the agreed area were one of these categories of land under this Act —
-(i) a State forest;
-(ii) a timber reserve;
-(iii) a national park;
-(iv) a conservation park;
-(v) a nature reserve;
-or
-(b) for a public purpose that is consistent with this Act.
-(6) An agreement made under this section cannot agree to manage an area of eligible land as if it were —
-(a) a marine management area; or
-(b) a marine nature reserve; or
-(c) a marine park.
-(7) An agreement made under this section may require the Conservation Commission to assess the implementation of the management plan for the agreed area.
-(8) The parties to an agreement made under this section must include —
-(a) the person responsible, or at least one of the persons responsible, for the agreed area; and
-(b) the CEO; and
-(c) if it provides for the CEO to manage the agreed area jointly with one or more other persons, each such person who is not already a party; and
-(d) if it requires the Conservation Commission to assess the implementation of the management plan for the agreed area, the Conservation Commission.
-(9) An agreement made under this section has no effect unless the Minister for Fisheries, the Minister for Forest Products, the Minister for Indigenous Affairs, the Minister for Mines and the Minister (Water Resources) have each been given —
-(a) in writing, notice of, and an invitation to give the CEO submissions about, the proposed agreement; and
-(b) a reasonable time to respond.
-(10) An agreement made under this section has no effect unless the local government of each local government district in which the agreed area is situated —
-(a) is a party to the agreement; or
-(b) was given, before the agreement was made —
-(i) in writing, notice of, and an invitation to give the CEO submissions about, the proposed agreement; and
-(ii) a reasonable time to respond.
-(11) An agreement made under this section in respect of any eligible land has no effect unless —
-(a) each person responsible for the land is either a party, or has given written approval, to it; and
-(b) the Minister has given written approval to it.
-(12) If the agreed area under an agreement made under this section is or includes the intertidal zone, the agreement has no effect in relation to that land unless —
-(a) the chief executive officer of the Fisheries Department is a party to it; or
-(b) the Minister for Fisheries has given written approval to it.
-(13) An agreement made under this section that says the CEO is to manage the agreed area jointly with another person must include, in addition to any other terms, terms that do the following —
-(a) establish a joint management body to manage the area;
-(b) state the members of the body which must include at least —
-(i) the CEO or a person nominated by the CEO; and
-(ii) a person to represent the interests of each other party to the agreement;
-(c) establish the body’s procedures.
-(14) An agreement made under this section for the management of land for a public purpose that is consistent with this Act must include, in addition to any other terms, terms that —
-(a) state the purpose for which the agreed area is to be managed; and
-(b) state the policies or guidelines to be followed, and summarise the operations to be undertaken, in the management of the agreed area.
-(15) If an agreement made under this section applies to land to which a pastoral lease, or a lease for grazing purposes, granted under the Land Administration Act 1997, applies, the lessee remains entitled to use the land for grazing purposes in accordance with the lease, except to the extent that the agreement otherwise provides.
-8B.Effect of s. 8A agreements
-(1) A section 8A agreement has no effect to the extent it binds the CEO to do anything in relation to the section 8A land concerned that is inconsistent with or contrary to the provisions of section 56(1) that relate to the land by virtue of it being treated, under subsection (2), as if it were of a category of land referred to in section 56(1).
-(2) If under a section 8A agreement the section 8A land concerned is to be managed as if it were land of a category listed in section 8A(5)(a) —
-(a) the land is to be treated under this Act as if it were land, waters, or land and waters, as the case requires, of that category and reserved for that category’s purpose; and
-(b) the land becomes land to which this Act applies for the purposes of this Act,
-but —
-(c) the land does not become land of that category, or land reserved for that category’s purpose, or land to which this Act applies, for the purposes of any written law other than this Act; and
-(d) sections 9 and 17 do not apply to the land; and
-(e) the land is not Crown land for the purposes of Part VIII Division 1 by reason only of paragraph (b) of the definition of Crown land in section 87(1); and
-(f) the land does not vest in the Conservation Commission; and
-(g) a party to the agreement who is not a person responsible for the land (as defined in section 8A(1)) is not an occupier of the land for the purposes of the Mining Act 1978; and
-(h) any right (whether arising before or after the agreement is made) a person has under this Act or another written law that may be exercised on or in relation to the land is not affected unless the person is a party to the agreement and the agreement provides otherwise; and
-(i) any right a person has under the common law to carry out recreational fishing on the land is not affected.
-(3) If under an agreement made under section 8A(5)(b) the section 8A land concerned is to be managed for a public purpose that is consistent with this Act, the land becomes land to which this Act applies for the purposes of this Act but —
-(a) the land does not become land to which this Act applies for the purposes of any written law other than this Act; and
-(b) section 17 does not apply to the land; and
-(c) the land is not Crown land for the purposes of Part VIII Division 1 by reason only of paragraph (a) of the definition of Crown land in section 87(1); and
-(d) a party to the agreement who is not a person responsible for the land (as defined in section 8A(1)) is not an occupier of the land for the purposes of the Mining Act 1978; and
-(e) any right (whether arising before or after the agreement is made) a person has under this Act or another written law that may be exercised on or in relation to the land is not affected unless the person is a party to the agreement and the agreement provides otherwise; and
-(f) any right a person has under the common law to carry out recreational fishing on the land is not affected.
-8C.Certain land may be put under CEO’s management
-(1) In this section —
-eligible land means any Crown land, as defined in the Land Administration Act 1997 section 3, that is —
-(a)unallocated Crown land as defined in that section; or
-(b)an unmanaged reserve as defined in that section.
-(2) On the recommendation of the Minister and the Land Administration Minister, the Governor, by order —
-(a) may place any eligible land under the management of the CEO; and
-(b) may specify the CEO’s functions in relation to managing the land.
-(3) On the recommendation of the Minister and the Land Administration Minister, the Governor, by order, may vary or cancel an order made under subsection (2).
-9.Section 14 amended
-In section 14(2d) before “apply” insert:
-and (2)
-10.Sections 16, 16A and 16B deleted
-Delete sections 16, 16A and 16B.
-11.Section 17 amended
-In section 17(2) delete “vested” and insert:
-vested, or which has the care, control and management of the land,
-12.Section 19 amended
-(1) In section 19(1):
-(a) delete “Commission are —” and insert:
-Commission are as follows —
-(b) in paragraph (b) delete “it;” and insert:
-it, whether solely or jointly with another person;
-(c) in paragraph (c)(iii) delete “and (e);” and insert:
-and (e) and (2);
-(d) delete paragraphs (e), (f) and (g) and insert:
-(e) in accordance with section 17, to consider any cancellation or change of purpose, or boundary alteration, of land vested in or under the care, control and management of the Conservation Commission, whether solely or jointly with an associated body;
-(f) in accordance with Part V, to prepare and deal with proposed management plans for land vested in or under the care, control and management of the Conservation Commission, whether solely or jointly with an associated body;
-(g) in relation to management plans for land vested in or under the care, control and management of the Conservation Commission, whether solely or jointly with an associated body —
-(i) to develop guidelines for monitoring; and
-(ii) to set performance criteria for evaluating; and
-(iii) to conduct periodic assessments of,
-the implementation of the management plans by those responsible for implementing them, including the CEO and, if the land is State forest or a timber reserve, the Forest Products Commission;
-(ha) if a section 8A agreement requires the Conservation Commission to assess the implementation of the management plan for the section 8A land concerned, to do so in accordance with the agreement;
-(e) delete paragraph (k) and insert:
-(k) upon request, to provide advice on matters relating to land vested in or under the care, control and management of the Conservation Commission, whether solely or jointly with an associated body, to any body or person, if to do so is in the public interest and it is practicable for the Conservation Commission to provide it;
-(f) after paragraph (c)(i) insert:
-and
-(2) In section 19(7):
-(a) in paragraph (a) delete “reserve or to enter into an agreement under section 16 for the management of land as a State forest, timber reserve, national park, conservation park or nature”;
-(b) after paragraph (a) insert:
-(ba) any proposal to enter into a section 8A agreement under which land will be managed as if it were a State forest, timber reserve, national park, conservation park or nature reserve; and
-(3) In section 19(9) after “vested in” insert:
-or under the care, control and management of
-13.Section 20 amended
-In section 20(6) delete “in, or land the care, control and management of which are placed with,” and insert:
-in or under the care, control and management of
-14.Section 26B amended
-(1) In section 26B(1):
-(a) delete “Authority are —” and insert:
-Authority are as follows —
-(b) in paragraph (aa) delete “it;” and insert:
-it, whether solely or jointly with another person;
-(c) in paragraph (b)(iv) delete “and (e);” and insert:
-and (e) and (2);
-(d) delete paragraph (c) and insert:
-(c) in accordance with section 17, to consider any cancellation or change of purpose, or boundary alteration, of land and waters vested in or under the care, control and management of the Marine Authority, whether solely or jointly with an associated body;
-(e) delete paragraphs (e), (f) and (g) and insert:
-(e) in accordance with Part V, to prepare and deal with proposed management plans for land and waters vested in or under the care, control and management of the Marine Authority, whether solely or jointly with an associated body;
-(f) in relation to management plans for land and waters vested in or under the care, control and management of the Marine Authority, whether solely or jointly with an associated body —
-(i) to develop guidelines for monitoring; and
-(ii) to set performance criteria for evaluating; and
-(iii) to conduct periodic assessments of,
-the implementation of the management plans by those responsible for implementing them, including the CEO;
-(g) upon request, to provide advice on matters relating to land and waters vested in or under the care, control and management of the Marine Authority, whether solely or jointly with an associated body, to any body or person, if to do so is in the public interest and it is practicable for the Marine Authority to provide it;
-(f) in paragraph (i) delete “advice; and” and insert:
-advice;
-(g) after each of paragraph (b)(i) and (ii) insert:
-and
-(2) In section 26B(4) delete “The Marine Authority shall not advise the Minister on any matter to which this subsection applies” and insert:
-If the Minister, in writing, directs the Marine Authority to advise the Minister on a matter, it must not advise the Minister on the matter
-(3) Delete section 26B(5).
-(4) In section 26B(7) after “vested in” insert:
-or under the care, control and management of
-15.Section 26D amended
-In section 26D(6) after “vested in” insert:
-or under the care, control and management of
-16.Section 33 amended
-(1) In section 33(1):
-(a) delete paragraph (a) and insert:
-(a) to manage —
-(i) land to which this Act applies; and
-(ii) subject to the relevant section 8A agreement, section 8A land; and
-(iii) subject to the relevant order made under section 8C, section 8C land,
-and the associated fauna, flora and forest produce;
-(b) delete paragraph (cb)(iii) and insert:
-(iii) operations, in accordance with the provisions of section 56(1) applicable to the land, on land vested in or under the care, control and management of the Conservation Commission, whether solely or jointly with an associated body, that is State forest, a timber reserve or land referred to in section 5(1)(g) or (h);
-(2) Delete section 33(2) and insert:
-(2) If any land to which this Act applies or any section 8A land —
-(a) is not the subject of a management plan; or
-(b) is the subject of a management plan that, due to an exemption given under section 57A(2), was not prepared in accordance with section 56(2),
-then, despite subsections (1) and (3), the management of it and the associated forest produce, fauna and flora shall be carried out in a manner that —
-(c) protects and conserves the value of the land to the culture and heritage of Aboriginal persons, in particular from any material adverse effect caused by —
-(i) entry on or the use of the land by other persons; or
-(ii) the taking or removal of the land’s fauna, flora or forest produce;
-but
-(d) does not have an adverse effect on the protection or conservation of the land’s fauna and flora.
-(3A) Functions the CEO has in relation to managing section 8C land in accordance with the relevant order made under section 8C shall be performed in a manner that —
-(a) protects and conserves the value of the land to the culture and heritage of Aboriginal persons from any material adverse effect caused by performing the functions; but
-(b) does not have an adverse effect on the protection or conservation of the land’s fauna and flora.
-(3) In section 33(3)(b)(iii) delete “section 56” and insert:
-section 56(1)
-17.Section 33A amended
-Delete section 33A(1) and insert:
-(1) In section 33(1)(cb) and (3)(b) necessary operations on land or waters, means those that are necessary —
-(a) to protect or preserve persons, property, land, waters, flora or fauna; or
-(b) in the case of land or waters for which a management plan is required but not yet approved under this Act, for the preparation of a management plan for the land or waters; or
-(c) to protect or conserve the value of the land or waters to the culture and heritage of Aboriginal persons.
-18.Section 53 amended
-(1) In section 53 insert in alphabetical order:
-responsible body for land means —
-(a)if the land is vested in or under the care, control and management of a controlling body solely, the controlling body;
-(b)if the land is vested in or under the care, control and management of a controlling body jointly with an associated body, the controlling body and the associated body acting jointly;
-(c)if the land is section 8A land and, under the relevant section 8A agreement, is to be managed by the CEO alone as if the land were of a category listed in section 8A(5)(a), the Conservation Commission;
-(d)if the land is section 8A land and, under the relevant section 8A agreement, is to be managed by the CEO alone for a public purpose that is consistent with this Act, the CEO;
-(e)if the land is section 8A land and, under the relevant section 8A agreement, is to be managed jointly, the joint management body established by the agreement.
-(2) In section 53 in the definition of relevant water utility delete “Act 1995.” and insert:
-Act 1995;
-19.Section 54 amended
-(1) Delete section 54(1) and (2) and insert:
-(1) A management plan prepared and approved under this Part is required for —
-(a) all land that is vested in or under the care, control and management of a controlling body, whether solely or jointly with an associated body; and
-(b) all section 8A land.
-(2) The responsible body for land referred to in subsection (1) is responsible for —
-(a) the preparation of the initial and every other proposed management plan; and
-(b) the review of each expiring management plan,
-for the land.
-(2) In section 54(3):
-(a) in paragraph (a)(i) delete “controlling” and insert:
-responsible
-(b) in paragraph (a)(ii) delete “Conservation Commission” and insert:
-responsible body for that land
-(c) in paragraph (a)(iii) delete “Conservation Commission” and insert:
-responsible body for that land
-(3) After section 54(3) insert:
-(4) Without limiting subsection (3), proposed management plans for section 8A land that, under the relevant section 8A agreement, is to be managed jointly as if it were land of a category listed in section 8A(5)(a) shall be prepared by the responsible body for the land through the agency of the CEO in consultation with the controlling body in which the land would be vested under section 7 if the land were of that category.
-20.Section 56A inserted
-After section 55 insert:
-56A.Management plans may require CEO to manage land jointly
-(1) A management plan for land (other than section 8A land) may require the CEO to manage the land jointly with one or more other persons specified in the plan.
-(2) Subsection (1) applies even if the land is vested in or under the care, control and management of a controlling body solely.
-(3) If under subsection (1) a management plan for land requires the CEO to manage the land jointly, the plan must have attached to it an agreement (a section 56A agreement) for the joint management of the land to be signed as soon as practicable after the plan is approved under section 60.
-(4) The parties to a section 56A agreement for the joint management of the land must be the CEO and each person who is to manage the land jointly with the CEO.
-(5) If land is vested in or under the care, control and management of a controlling body jointly with an associated body, this section does not prevent the associated body from being a party to a section 56A agreement for the land.
-(6) A section 56A agreement for land must include, in addition to any other terms, terms that do the following —
-(a) establish a joint management body to manage the land;
-(b) specify the members of the body which must include at least —
-(i) the CEO or a person nominated by the CEO; and
-(ii) a person to represent the interests of each other party to the agreement;
-(c) establish the body’s procedures.
-(7) A section 56A agreement for land has no effect unless —
-(a) the controlling body in which the land is vested or that has the care, control and management of the land has given written approval to the agreement; and
-(b) any associated body in which the land is vested, or that has the care, control and management of the land, jointly with the controlling body, is either a party, or has given written approval, to the agreement; and
-(c) the Minister has given written approval to the agreement.
-21.Section 56 amended
-(1) In section 56(1) delete the passage that begins with “A controlling” and ends with “designed —” and insert:
-In preparing a proposed management plan for any land, the responsible body for the land shall have the objective of achieving or promoting the purpose for which the land is reserved and in particular the proposed plan shall be designed —
-(2) In section 56(1)(e) delete “body.” and insert:
-body, whether solely or jointly.
-(3) After section 56(1) insert:
-(2) In preparing a proposed management plan for any land, the responsible body for the land shall have the objectives of —
-(a) protecting and conserving the value of the land to the culture and heritage of Aboriginal persons, in particular from any material adverse effect caused by —
-(i) entry on or the use of the land by other persons; or
-(ii) the taking or removal of the land’s fauna, flora or forest produce;
-but
-(b) in a manner that does not have an adverse effect on the protection or conservation of the land’s fauna and flora.
-(3) If an objective set out in subsection (1) conflicts or is inconsistent with an objective set out in subsection (2), the objective set out in subsection (2) prevails.
-22.Section 57A inserted
-After section 56 insert:
-57A.Ascertaining value of land to Aboriginal persons
-(1) In preparing a proposed management plan for any land, the responsible body for the land may consult any person for the purposes of determining the value of the land to the culture and heritage of Aboriginal persons.
-(2) If the Minister is satisfied that the time needed to determine the value of any land to the culture and heritage of Aboriginal persons is likely to delay unreasonably the process provided in sections 57 to 60 in relation to a management plan for the land, the Minister, in writing, may exempt the responsible body from complying with section 56(2) in relation to the proposed management plan for the land.
-(3) If the responsible body is exempted from complying with section 56(2) in relation to the proposed management plan for any land, the proposed management plan must state that the exemption has been given.
-(4) A responsible body that is exempted from complying with section 56(2) must, within the period (if any) specified by the Minister in the exemption or, if no period is specified, as soon as practicable after being exempted —
-(a) amend the proposed management plan; or
-(b) subject to section 61, take steps to have the management plan amended or to have it revoked and a new plan substituted for it,
-as the case requires, and in doing so comply with section 56(2).
-(5) The Minister, in writing, may vary or cancel an exemption given under this section.
-23.Section 57 amended
-In section 57(2)(d) delete “controlling” and insert:
-responsible
-24.Section 59 amended
-(1) In section 59(1) delete “controlling” and insert:
-responsible
-(2) In section 59(2) delete “controlling” and insert:
-responsible
-(3) Delete section 59(3) and insert:
-(3) In the case of section 8A land, the responsible body must submit the proposed management plan —
-(a) to any party to the relevant section 8A agreement who, under the agreement, is not involved in managing the land; and
-(b) if the land is or includes the intertidal zone, to the Minister for Fisheries; and
-(c) if the land includes an Aboriginal site, as defined in the Aboriginal Heritage Act 1972 section 4, to the Minister for Indigenous Affairs.
-(4) Delete section 59(4) and insert:
-(4) If a person to whom a proposed plan is referred under subsection (1) or (3) considers the responsible body should vary the plan or make any addition to or delete any provision from the plan, the person, within one month after the date of receiving the plan, may request the responsible body in writing to make the variation, addition or deletion.
-(5) In section 59(5) delete “Marine Authority” and insert:
-responsible body
-(6) In section 59(6) delete “Conservation Commission” and insert:
-responsible body
-(7) In section 59(7) delete “Conservation Commission” and insert:
-responsible body
-(8) In section 59(8) delete “controlling” and insert:
-responsible
-25.Section 59A inserted
-After section 59 insert:
-59A.Plans to be submitted to Minister
-(1) Subject to this Part, the responsible body for land must submit a proposed management plan for the land, modified as it thinks fit to give effect to submissions made under section 58 and any request made under section 59(4), to the Minister for approval together with a copy of all requests so made.
-(2) If a plan submitted under subsection (1) relates to section 8A land that, under the relevant section 8A agreement, is to be managed jointly as if it were land of a category listed in section 8A(5)(a), the Minister may refer the plan to the Conservation Commission with a request that the Commission give the Minister a written report about the plan to enable the Minister to make a decision under section 60(2) about the plan.
-26.Section 60 amended
-(1) Delete section 60(1).
-(2) In section 60(2) delete “the proposed plan” and insert:
-a proposed management plan submitted under section 59A
-(3) In section 60(2a):
-(a) delete “controlling body” and insert:
-relevant responsible body
-(b) delete “park or a marine management area,” and insert:
-park, or a marine management area, or section 8A land that is or includes the intertidal zone,
-(c) in paragraph (a) delete “area; and” and insert:
-area or intertidal zone; and
-(4) In section 60(2b) delete “controlling body” and insert:
-Marine Authority
-27.Section 62 amended
-(1) In section 62(1):
-(a) delete the passage that begins with “Subject” and ends with “Commission as —” and insert:
-Subject to this section, the Minister may, on the recommendation of the responsible body (as defined in section 53) for land to which this subsection applies, by notice published in the Gazette, classify the land or a part of it as —
-(b) in paragraph (f) delete “Conservation Commission,” and insert:
-responsible body,
-(2) After section 62(1) insert:
-(1aaa) Subsection (1) applies to land that is —
-(a) a State forest; or
-(b) a timber reserve; or
-(c) a national park; or
-(d) a conservation park; or
-(e) a nature reserve; or
-(f) land referred to in section 5(1)(g) and vested in the Conservation Commission; or
-(g) land referred to in section 5(1)(h) and under the care, control and management of the Conservation Commission; or
-(h) land that, under an agreement made under section 8A(5)(b), is managed for a public purpose that is consistent with this Act.
-(3) Delete section 62(2) and insert:
-(2) A classification of land as a temporary control area under subsection (1)(d) —
-(a) shall be made for only one or more of these purposes —
-(i) public safety;
-(ii) protecting flora or fauna, or both flora and fauna;
-(iii) protecting the value of the land to the culture and heritage of Aboriginal persons;
-and
-(b) shall not have effect for more than 90 days but may be made more than once for the same purpose and for the same land.
-(4) In section 62(3):
-(a) in paragraph (a) delete “section 56” and insert:
-section 56(1)
-(b) after paragraph (a) insert:
-(ba) unless it is in conformity with section 56(2); and
-(c) delete paragraph (b) and insert:
-(b) in the case of section 8A land, unless each person responsible (as defined in section 8A) for the land, has given written approval to the classification or the amended classification; and
-(d) after paragraph (a) insert:
-and
-28.Section 64 amended
-In section 64(1):
-(a) in paragraph (d) delete “vested in the Conservation Commission” and insert:
-vested in or under the care, control and management of the Conservation Commission,
-(b) in paragraph (da) delete “vested in the Marine Authority; and” and insert:
-vested in or under the care, control and management of the Marine Authority, whether solely or jointly with an associated body; and
-29.Part VIII Division 1A inserted
-At the beginning of Part VIII insert:
-Division 1A — General matters
-86A.Restrictions on performance of functions
-(1) Subsection (2) does not apply in relation to land if it is the subject of a management plan prepared in accordance with section 56(2).
-(2) The functions of the Minister and the CEO under this Part in relation to land must be performed in a manner that —
-(a) protects and conserves the value of the land to the culture and heritage of Aboriginal persons, in particular from any material adverse effect caused by —
-(i) entry on or the use of the land by other persons; or
-(ii) the taking or removal of the land’s fauna, flora or forest produce,
-under any permit, licence, contract, lease or other authority granted under this Part; but
-(b) does not have an adverse effect on the protection or conservation of the land’s fauna and flora.
-30.Section 87 amended
-Delete section 87(2) and insert:
-(2) Despite subsection (1) and section 11, the Governor, by order, may declare to be Crown land, for the purposes of this Division, any land that is section 8C land.
-31.Section 87A amended
-In section 87A(1):
-(a) after paragraph (c) insert:
-(da) in the case of section 8A land, consistently with the relevant section 8A agreement; and
-(db) in the case of section 8C land, consistently with the order made under section 8C that relates to the land; and
-(b) after each of paragraphs (a), (b) and (c) insert:
-and
-32.Section 97 amended
-After section 97(1) insert:
-(2A) The CEO cannot grant a lease under subsection (1) of any section 8A land.
-33.Section 97A amended
-(1) In section 97A(1) delete “to which this Division applies.” and insert:
-within State forest or a timber reserve.
-(2) In section 97A(2) delete “to which this Division applies.” and insert:
-within State forest or a timber reserve.
-(3) In section 97A(4) delete “to which this Division applies,” and insert:
-within State forest or a timber reserve,
-(4) In section 97A(6) delete “to which this Division applies —” and insert:
-within State forest or a timber reserve —
-34.Section 98 amended
-Delete section 98(1)(b) and insert:
-(b) section 8C land,
-35.Section 99 amended
-In section 99(1):
-(a) in paragraph (aa) after “vested in” insert:
-or under the care, control and management of
-(b) delete paragraph (ab) and insert:
-(ab) in the case of land vested in or under the care, control and management of the Marine Authority, after consultation with the Marine Authority and, where applicable, an associated body; and
-(c) delete paragraph (b) and insert:
-(b) in the case of section 8A land, consistently with the relevant section 8A agreement; and
-(baa) in the case of section 8C land, consistently with the order made under section 8C that relates to the land; and
-(d) after each of paragraphs (a), (aa) and (ac) insert:
-and
-36.Section 99A amended
-(1) In section 99A(1) delete “vested in the Conservation Commission.” and insert:
-vested in or under the care, control and management of the Conservation Commission, whether solely or jointly with an associated body.
-(2) In section 99A(3) delete “section 56” and insert:
-section 56(1)
-(3) In section 99A(6) delete “vested in the Conservation Commission.” and insert:
-vested in or under the care, control and management of the Conservation Commission, whether solely or jointly with an associated body.
-37.Section 100 amended
-After section 100(1) insert:
-(2A) The CEO cannot grant a lease under subsection (1) of any section 8A land.
-(2B) The CEO cannot grant a lease under subsection (1) of any section 8C land.
-38.Section 101 amended
-In section 101(1e)(b) delete “vested in the Conservation Commission” and insert:
-vested in or under the care, control and management of the Conservation Commission, whether solely or jointly with an associated body,
-39.Section 102 amended
-In section 102(1) in the definition of land to which this Part applies:
-(a) delete paragraph (b) and insert:
-(b)section 8C land; and
-(ca)land owned by, vested in or under the care, control and management of the Executive Body, whether solely or jointly with another body; and
-(b) after paragraph (a) insert:
-and
 40.Sections 103A and 103B inserted
 At the end of Part IX Division 1 insert:
 103A.Aboriginal persons may do things for customary purposes
@@ -748,46 +279,13 @@ but must not restrict or exclude the operation of subsection (3) in respect of m
 It is a defence to a charge of an offence against this Act alleged to have been committed on section 8A land to prove —
 (a) the accused was a party to the relevant section 8A agreement or was acting with the authority of such a party; and
 (b) the agreement authorised the party to do the act or make the omission constituting the offence.
-41.Section 103 amended
-In section 103(2b):
-(a) delete paragraph (c) and insert:
-(c) in the case of section 8A land, consistently with the relevant section 8A agreement; and
-(b) delete paragraph (d) and insert:
-(d) in conformity with section 33(2) and (3).
-(c) after each of paragraphs (a) and (b) insert:
-and
-42.Section 126 amended
-After section 126(1) insert:
-(2A) The regulations may apply to any or all of the following —
-(a) land to which this Act applies;
-(b) section 8C land;
-(c) land owned by, vested in or under the care, control and management of the Executive Body, whether solely or jointly with another body;
-(d) public land as defined in section 81;
-(e) Crown land as defined in section 87(1);
-(f) land to which section 131 applies.
-43.Section 128A inserted
-After section 127 insert:
-128A.Regulations as to s. 8C land
-Regulations that apply to section 8C land may prescribe only matters that are consistent with the functions that the CEO has in respect of the land under the relevant order made under section 8C.
-44.Section 130 amended
-Delete section 130(2) and insert:
-(2) Regulations made under subsection (1) that apply to section 8A land apply only to the extent the relevant section 8A agreement says they apply.
-45.Section 130B inserted
-At the end of Part X insert:
-130B.Relationship to regulations made under the Land Administration Act 1997
-If a regulation made under this Act that applies to section 8A land or section 8C land is inconsistent with a regulation made under the Land Administration Act 1997 that also applies to the land, the regulation made under this Act prevails to the extent of the inconsistency.
-46.Section 143 inserted
-At the end of Part XI insert:
-143.Review of amendments made by Conservation Legislation Amendment Act 2011
-(1) The Minister must review the operation of the amendments made to this Act by the Conservation Legislation Amendment Act 2011 (the amendment Act) as soon as is practicable after 5 years after the date on which the amendment Act receives the Royal Assent.
-(2) When doing the review the Minister must consider —
-(a) whether the policy objectives upon which the amendments made to this Act by the amendment Act were based remain valid; and
-(b) whether those amendments remain appropriate to achieve those objectives.
-(3) The Minister must prepare a report based on the review and, as soon as practicable after the report is prepared and in any event not more than 2 years after the expiry of the period referred to in subsection (1), cause it to be laid before each House of Parliament.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
+Aboriginal person3
 agency26D(7)
+agreed area8A(1)
+alienated land8A(1)
 aquaculture3
 associated body3
 authorised land officer17A(8)
@@ -808,15 +306,17 @@ Conservator145
 contract87(1)
 contract of sale87(1)
 controlling body27, 53
-Crown land11, 87(1)
+Crown land8A(1), 11, 87(1)
 Department3
 designated park or reserve138(3)
 Director23(6)
 disease area81
 document25(4)
 drilling reservation13E(1)
+eligible land8A(1), 8C(1)
 essential works99A(2)
 excluded waters5(2)
+exclusive native title3
 Executive Body3
 fauna3
 firewood3
@@ -834,8 +334,10 @@ geothermal energy13C(1aa)
 geothermal energy resources13C(1aa)
 infected81
 information25(4)
+intertidal zone3
 land3, 17(8), 53, 98(2)
 Land Administration Minister3
+land to which this Act applies3
 land to which this Part applies102(1)
 lease13E(1)
 licence13E(1), 87(1)
@@ -848,21 +350,25 @@ marine park3
 marine reserve3
 member3
 mining tenement96(5), 130A(2)
+Minister (Water Resources)3
 Minister for Fisheries3
 Minister for Forest Products3
+Minister for Indigenous Affairs3
 Minister for Mines3
-Minister (Water Resources)3
 national park3
 National Parks Authority145
 nature reserve3
 nature reserves130(3)
 NCNP Account68(1)
 necessary operations33A(1)
+non-exclusive native title3
+NT Act3
 owner34B(8), 81
 Part VIII Division 1 authorisation103(2c)
 pastoral region108C(3)
 pearling activity3
 permit13E(1), 87(1)
+person responsible8A(1)
 petroleum authorisation13E(1)
 petroleum law13E(1)
 pipeline licence13E(1)
@@ -878,9 +384,14 @@ relevant offence124(7)
 relevant water utility53
 renewal13E(1)
 repealed Act145
+responsible body53
 risk area81
 road81
 scientific officer26H(3)
+section 56A agreement56A(3)
+section 8A agreement3
+section 8A land3
+section 8C land3
 staff25(4)
 State forest3
 State forests128(2)
