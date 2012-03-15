@@ -11,11 +11,12 @@ Reprint 1: The Community Protection (Offender Reporting) Act 2004 as at 14 Nov 2
 Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 s. 13 | 21 of 2010 | 7 Jul 2010 | 28 Aug 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 5 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 | 72 of 2004 (as amended by No. 29 of 2008 s. 25(4)) | 8 Dec 2004 | s. 12 and Sch. 3: to be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 29 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Community Protection (Offender Reporting) Amendment Act 2012 Pt. 2 | 1 of 2012 | 15 Mar 2012 | To be proclaimed (see s. 2(b))
 Formerly referred to the Criminal Law (Mentally Impaired Defendants) Act 1996 the short title of which was changed to the Criminal Law (Mentally Impaired Accused) Act 1996 by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82. This reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 On the date as at which this compilation was prepared, the Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 (as amended by the Criminal Law Amendment (Homicide) Act 2008 s. 25(4)) had not come into operation. They read as follows:
 “
@@ -53,7 +54,166 @@ Sexual Services Act 2000
 s. 16 | Causing, permitting or seeking to induce a child to act as a sex worker
 s. 17 | Obtaining payment for commercial sexual act by a child
 ”.
-”.
+On the date as at which this compilation was prepared, the Community Protection (Offender Reporting) Amendment Act 2012 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Community Protection (Offender Reporting) Act 2004 amended
+3.Act amended
+This Part amends the Community Protection (Offender Reporting) Act 2004.
+4.Long title amended
+In the long title after “may commit,” insert:
+to enable information to be published about certain offenders,
+5.Part 5A inserted
+After section 84 insert:
+Part 5A — Publication of information about offenders
+Division 1 — Preliminary
+85A.Terms used
+In this Part —
+DSO supervision order means a supervision order under the Dangerous Sexual Offenders Act 2006;
+locality, of a person, means a description of the general locality, such as the town or suburb, in which the person resides;
+publish, except in section 85M, means make available for inspection by members of the public on a website maintained by the Commissioner.
+85B.Delegation by Commissioner
+The Commissioner may delegate under section 110 a power of the Commissioner under Division 2 only to a police officer who holds or is acting in the office of Deputy Commissioner or Assistant Commissioner.
+85C.Commissioner not required to publish or provide information
+Nothing in this Part requires the Commissioner to publish or provide information about any reportable offender or other person.
+85D.Restriction on information about protected witnesses
+Nothing in this Part authorises the Commissioner to publish or provide information about a person to whom Part 3 Division 10 applies.
+Division 2 — Commissioner may publish information
+85E.Application
+This Division has effect despite any written or other law to the contrary.
+85F.Commissioner may publish personal details of certain reportable offenders
+(1) In this section —
+personal details, in relation to a reportable offender, means the information listed in section 26(1) and —
+(a)includes a photograph or digital image of the offender; but
+(b) does not include any details that the offender reports under section 26(1)(e) or any other details that would identify a child.
+(2) The Commissioner may publish any or all of the personal details of a reportable offender, other than a reportable offender who is a child, if —
+(a) the Commissioner is satisfied that the reportable offender —
+(i) has failed to comply with any of his or her reporting obligations; or
+(ii) in purported compliance with Part 3, has provided information that is false or misleading in a material particular;
+and
+(b) the reportable offender’s whereabouts are not known to the Commissioner.
+(3) The Commissioner may at any time —
+(a) remove any or all of the personal details of a reportable offender from the website on which they are published under subsection (2); or
+(b) again publish under subsection (2) any or all of the personal details of the reportable offender after their removal under paragraph (a).
+(4) If —
+(a) the Commissioner has published any personal details of a reportable offender under subsection (2); and
+(b) the reportable offender subsequently reports his or her whereabouts to the Commissioner under Part 3,
+the Commissioner must, as soon as is practicable after receiving the report, remove those personal details from the website on which they are published.
+85G.Commissioner may publish photograph and locality of certain persons
+(1) In this section —
+Department of Corrective Services means the department of the Public Service principally assisting the Minister in the administration of the Prisons Act 1981;
+photograph includes a digital image;
+prescribed offence means a Class 1 offence, a Class 2 offence or a sexual offence, as defined in the Evidence Act 1906 section 36A.
+(2) Subject to this section, the Commissioner may publish a photograph and the locality of a person, other than a person who is a child —
+(a) if the person is subject to a DSO supervision order and that order does not provide that the person’s photograph and locality are not to be published under this section; or
+(b) if —
+(i) the person, after becoming a reportable offender, commits and is found guilty of a prescribed offence; and
+(ii) any offence committed by the person, including the prescribed offence, is a Class 1 offence or an offence committed against a child under The Criminal Code section 323 or 324;
+or
+(c) if —
+(i) the person has been found guilty of an offence punishable by imprisonment for 5 years or more; and
+(ii) on application by the Commissioner, that publication is authorised by the Minister on being satisfied that the person poses a risk to the lives or sexual safety of one or more persons, or persons generally.
+(3) If the Commissioner proposes to publish the photograph and locality of a person under subsection (2), the Commissioner —
+(a) must give the person written notice of the proposal and the reasons for it; and
+(b) must inform the person in that notice that he or she has a specified period (of not less than 21 days) to make submissions or be heard in relation to the proposal; and
+(c) if subsection (2)(a) applies in relation to the person, must give written notice of the proposal to the chief executive officer of the Department of Corrective Services.
+(4) Before publishing the photograph and locality of the person, the Commissioner must have regard to —
+(a) any submission made, or information or document provided, by the person within the period referred to in subsection (3)(b); and
+(b) if notice is given under subsection (3)(c), any submission made by the chief executive officer of the Department of Corrective Services within the period of 21 days after that notice is given.
+(5) For the purposes of subsection (2)(c), it is not necessary that the Minister be able to identify a risk to a particular person or particular persons or a particular class of persons.
+(6) In determining whether to authorise publication under subsection (2)(c), the Minister may take into account the following —
+(a) any medical, psychiatric, psychological or other assessment relating to the person;
+(b) any information indicating whether or not the person is likely to commit a prescribed offence in the future;
+(c) whether or not there is any pattern of offending behaviour on the part of the person;
+(d) the person’s antecedents and the seriousness of his or her total criminal record;
+(e) the person’s age and the age of any victims of any offences committed by the person at the time those offences were committed;
+(f) the difference in age between the person and any victims of those offences;
+(g) any other matter the Minister considers relevant.
+(7) The Commissioner must provide with an application under subsection (2)(c) any information available to the Commissioner that is relevant to the Minister’s determination whether to authorise publication.
+(8) The fact that an offence in respect of which a person has been found guilty becomes spent does not affect the consideration of the offence as part of the person’s total criminal record for the purposes of subsection (6)(d).
+85H.Removal of photograph and locality from website
+(1) The Commissioner may at any time —
+(a) remove the photograph and locality of a person from the website on which they are published under section 85G(2); or
+(b) again publish under section 85G(2) the photograph and locality of a person after their removal under paragraph (a).
+(2) If —
+(a) the Commissioner has published a photograph and the locality of a person under section 85G(2)(a); and
+(b) the person ceases to be subject to the DSO supervision order; and
+(c) neither section 85G(2)(b) nor (c) applies in relation to the person,
+the Commissioner must, as soon as is practicable, remove the photograph and locality from the website on which they are published.
+(3) If —
+(a) the Commissioner has published a photograph and the locality of a person under section 85G(2)(b); and
+(b) the person’s reporting obligations expire; and
+(c) neither section 85G(2)(a) nor (c) applies in relation to the person,
+the Commissioner must, as soon as is practicable, remove the photograph and locality from the website on which they are published.
+85I.Commissioner may take into account certain matters
+(1) In determining whether or not —
+(a) to publish any personal details of a person who is a reportable offender under section 85F(2) or a photograph and the locality of a person under section 85G(2) (the identifying information); or
+(b) to remove the identifying information from a website under section 85F(3) or 85H(1),
+the Commissioner may take into account the matters to which this section applies.
+(2) This section applies to these matters —
+(a) whether the publication of the identifying information about a person would interfere with —
+(i) an investigation by police officers in relation to the person; or
+(ii) the person’s compliance with the reporting obligations of this Act; or
+(iii) the operation of a community order under the Sentencing Act 1995, a DSO supervision order or any other order or requirement under a written law to which the person is subject;
+(b) whether the publication of the identifying information about the person might identify a victim of an offence, or the school attended by a victim of an offence, committed by the person;
+(c) the effect that the publication of the identifying information about the person might have on a victim of an offence committed by the person;
+(d) whether, in statements made by the victim to the Commissioner, the publication of the identifying information about the person has been supported or opposed by a victim of an offence committed by the person;
+(e) whether the publication of the identifying information about the person would increase the risk of the person committing offences;
+(f) the Commissioner’s assessment of the benefit to the community of the publication of the identifying information about the person;
+(g) if the identifying information is about a person who is awaiting trial on a charge of an offence — whether the publication of the identifying information might prejudice the fair trial of the person;
+(h) any other matter the Commissioner considers relevant.
+85J.Commissioner may inform child’s parent or guardian whether specified person is a reportable offender
+(1) A person may apply to the Commissioner to be informed whether or not a person specified in the application (the specified person), other than a person who is a child, is a reportable offender.
+(2) The application must be made in a manner approved by the Commissioner.
+(3) The applicant must provide, in support of the application, any evidence required by the Commissioner to be satisfied that the specified person has regular unsupervised contact with a child of whom the applicant is a parent or guardian.
+(4) For the purposes of subsection (3), a person does not have regular unsupervised contact with a child unless he or she has unsupervised contact with the child for at least 3 days (whether consecutive or not) in any period of 12 months.
+(5) If the Commissioner is satisfied that the specified person has regular unsupervised contact with a child of whom the applicant is a parent or guardian, the Commissioner may inform the applicant whether or not the specified person is a reportable offender.
+85K.Protection as to publication and other provision of information
+(1) In this section —
+information includes the identifying information referred to in section 85I.
+(2) If the Commissioner determines in good faith —
+(a) to publish or provide any information under this Division; or
+(b) not to publish or provide any information under this Division,
+no civil or criminal liability attaches to the Commissioner or the State by reason of publishing or providing that information or omitting to publish or provide that information.
+(3) If information is published or provided by the Commissioner under this Division, that publication or provision of information is not to be regarded —
+(a) as a breach of any duty of confidentiality or secrecy imposed by law; or
+(b) as a breach of professional ethics or standards or as unprofessional conduct.
+Division 3 — Offences
+85L.Conduct intended to incite animosity towards or harassment of identified offenders
+(1) In this section —
+animosity towards means hatred of or serious contempt for;
+harassment includes threat, serious and substantial abuse and severe ridicule;
+identified offender means —
+(a)a person whose personal details are published by the Commissioner under section 85F; or
+(b)a person whose photograph and locality are published by the Commissioner under section 85G; or
+(c)a person in relation to whom the Commissioner provides the information under section 85J that the person is a reportable offender;
+public place includes —
+(a)a place to which the public, or any section of the public, has or is permitted to have access, whether on payment or otherwise; and
+(b)a privately owned place to which the public has access with the express or implied approval of, or without interference from, the owner, occupier or person who has the control or management of the place; and
+(c)a school, university or other place of education, other than a part of it to which neither students nor the public usually have access.
+(2) A reference in subsection (4) or (6) to conduct includes a reference to conduct occurring on a number of occasions over a period of time.
+(3) For the purposes of subsection (4) or (6), conduct is taken not to occur in private if it —
+(a) consists of any form of communication with the public or a section of the public; or
+(b) occurs in a public place or in sight or hearing of people who are in a public place.
+(4) A person must not engage in any conduct, otherwise than in private, by which the person intends to create, promote or increase animosity towards, or harassment of, a person as an identified offender.
+Penalty: imprisonment for 10 years.
+(5) An offence under subsection (4) is a crime.
+(6) A person must not engage in any conduct, otherwise than in private, that is likely to create, promote or increase animosity towards, or harassment of, a person as an identified offender.
+Penalty: imprisonment for 2 years.
+85M.Publication, display and distribution of identifying information
+(1) In this section —
+display means display in or within view of a public place, as defined in section 85L(1);
+distribute means distribute to the public or a section of the public;
+identifying information means information that is identifiable as —
+(a)the personal details of a person published by the Commissioner under section 85F; or
+(b)the photograph and locality of a person published by the Commissioner under section 85G; or
+(c)the information that a person is a reportable offender provided by the Commissioner under section 85J;
+publish means publish to the public or a section of the public.
+(2) A person must not, without having first obtained the written approval of the Minister, publish, distribute or display any identifying information.
+Penalty: imprisonment for 2 years.
+6.Section 115 amended
+(1) After section 115(1) insert:
+(2A) The Minister must carry out a review of the operation and effectiveness of the amendments made to this Act by the Community Protection (Offender Reporting) Amendment Act 2012 as soon as is practicable after the third anniversary of the coming into operation of section 5 of that Act.
+(2) In section 115(2) delete “the review” and insert:
+each review
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
