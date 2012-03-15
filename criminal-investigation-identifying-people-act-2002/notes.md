@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 27 January 2012 of the Criminal Investigation (Identifying People) Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Criminal Investigation (Identifying People) Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Investigation (Identifying People) Act 2002 | 6 of 2002 | 4 Jun 2002 | s. 1 and 2: 4 Jun 2002; Act other than s. 1 and 2, Pt. 4-7 and Sch. 2 cl. 1, 3 and 5(2): 29 Jun 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037); Pt. 4-7 and Sch. 2 cl. 1, 3 and 5(2): 20 Nov 2002 (see s. 2 and Gazette 19 Nov 2002 p. 5505)
@@ -19,7 +19,18 @@ Prohibited Behaviour Orders Act 2010 Pt. 5 Div. 3 | 59 of 2010 | 8 Dec 2010 | 23
 Criminal Investigation (Identifying People) Amendment Act 2011 | 15 of 2011 | 25 May 2011 | s. 1 and 2: 25 May 2011 (see s. 2(a)); Act other than s. 1 and 2: 26 May 2011 (see s. 2(b))
 Reprint 3: The Criminal Investigation (Identifying People) Act 2002 as at 27 Jan 2012 (includes amendments listed above)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 8 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Community Protection (Offender Reporting) Amendment Act 2012 Pt. 3 Div. 1 | 1 of 2012 | 15 Mar 2012 | To be proclaimed (see s. 2(b))
 Section 95 of this Act gave effect to Sch. 1 which set out some temporary provisions relating to obtaining and using identifying particulars of people in custody and others. These provisions ceased to have effect on 29 June 2005.
+On the date as at which this compilation was prepared, the Community Protection (Offender Reporting) Amendment Act 2012 Pt. 3 Div. 1 had not come into operation. It reads as follows:
+Division 1 — Criminal Investigation (Identifying People) Act 2002 amended
+7.Act amended
+This Division amends the Criminal Investigation (Identifying People) Act 2002.
+8.Section 73 amended
+After section 73(1)(nb) insert:
+(nc) for the purposes of the Community Protection (Offender Reporting) Act 2004 section 85F or 85G;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
