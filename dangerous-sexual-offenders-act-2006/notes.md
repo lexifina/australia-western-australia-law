@@ -4,6 +4,17 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Dangerous Sexual Offenders Act 2006 | 1 of 2006 | 30 Mar 2006 | 13 May 2006 (see s. 2 and Gazette 12 May 2006 p. 1781)
 Dangerous Sexual Offenders Amendment Act 2011 | 3 of 2011 | 1 Mar 2011 | s. 1 and 2: 1 Mar 2011 (see s. 2(a); Act other than s. 1 and 2: 2 Mar 2011 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Community Protection (Offender Reporting) Amendment Act 2012 Pt. 3 Div. 2 | 1 of 2012 | 15 Mar 2012 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Community Protection (Offender Reporting) Amendment Act 2012 Pt. 3 Div. 2 had not come into operation. It reads as follows:
+Division 2 — Dangerous Sexual Offenders Act 2006 amended
+9.Act amended
+This Division amends the Dangerous Sexual Offenders Act 2006.
+10.Section 18 amended
+After section 18(2) insert:
+(3) Without limiting subsection (2), the supervision order may provide that the photograph and locality of the person are not to be published under the Community Protection (Offender Reporting) Act 2004 section 85G.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
