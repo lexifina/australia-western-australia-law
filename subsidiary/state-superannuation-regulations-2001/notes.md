@@ -47,7 +47,7 @@ State Superannuation Amendment Regulations (No. 4) 2011 | 6 Dec 2011 p. 5133-4 |
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-State Superannuation Amendment Regulations 2012 r. 3-24 | 17 Jan 2012 p. 466-73 | Operative on the day on which the State Superannuation Amendment Act 2011 Pt. 5 commences (see r. 2(b))
+State Superannuation Amendment Regulations 2012 r. 3-24 | 17 Jan 2012 p. 466-73 | 30 Mar 2012 (see r. 2(b) and Gazette 16 Mar 2012 p. 1245)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. Part 9 of these regulations were amending regulations under that subsection. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed in the Acts database of the Statutes of Western Australia.
 Formerly referred to the Water Services Coordination Act 1995 the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Nurses and Midwives Act 2006.
