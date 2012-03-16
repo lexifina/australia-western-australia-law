@@ -6,7 +6,7 @@ Juries Act 1957 section 55
 Name: Address:
 Infringement Number: | Modified Penalty: $800
 Due Date:
-It is alleged that you failed without reasonable excuse to obey a summons served upon you /a direction given under Juries Act 1957 section 23H(4) that required you to attend at ...................... on ...................... at ...................... a.m./p.m.
+It is alleged that you failed without reasonable excuse to obey a summons served upon you /a direction given under Juries Act 1957 section 23H(4) that required you to attend at ............................. on ...................................... at ...................... a.m./p.m.
 Section 55(1) states: “A person who, without a reasonable excuse, does not obey a summons that has been served on the person under this Act commits an offence.”
 OR
 Section 55(2) states: “A person who, without a reasonable excuse, does not obey a direction given under section 32H(4) commits an offence.”
@@ -15,9 +15,10 @@ Payment can be made: ·In person at any magistrate courthouse in the state of We
 DISPUTING THE ALLEGATION
 If you wish the matter to be dealt with by a court, do not pay the Infringement Notice. You should advise Jury Services of your intentions in writing to the address below before the due date. If you wish to discuss this further, please contact Jury Services as stated below. Under the Juries Act 1957 section 55, the maximum penalty is $5 000.
 JURY SERVICES CONTACT DETAILS
-Address: Level 2, 500 Hay StreetEmail:jurors@justice.wa.gov.au PERTH WA 6000Website:www.justice.wa.gov.au Telephone: 9425 2481Fax: 9425 4406 Office Hours:8:30 a.m. - 4:30 p.m.
+Address: Level 2, 500 Hay StreetEmail:jurors@justice.wa.gov.au PERTH WA 6000Website:www.dotag.wa.gov.au Telephone: 9425 2481Fax: 9425 4406 Office Hours:8:30 a.m. - 4:30 p.m.
 Authorising Officer: ________________Issue Date: __________
 Signature: ________________________Issue Location: _________
+[Form 3 inserted in Gazette 27 Oct 2011 p. 4554-5.]
 Form 4 — Notice Of Withdrawal
 Juries Act 1957
 Criminal Procedure Act 2004 section 15
@@ -32,4 +33,4 @@ As the approving officer I withdraw proceedings under the Criminal Procedure Act
 Approving Officer (name)Signature
 ....................................................
 Issue Date
-[Schedule 3 inserted in Gazette 27 Oct 2011 p. 4554-6.]
+[Form 4 inserted in Gazette 27 Oct 2011 p. 4555-6.]
