@@ -40,7 +40,7 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Industrial Legislation Amendment Act 2011 Pt. 6 | 53 of 2011 | 11 Nov 2011 | To be proclaimed (see s. 2(b))
+Industrial Legislation Amendment Act 2011 Pt. 6 | 53 of 2011 | 11 Nov 2011 | 1 Apr 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1246)
 Repealed by the Associations Incorporation Act 1987.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 On the date as at which this compilation was prepared, the Industrial Legislation Amendment Act 2011 Pt. 6 had not come into operation. It reads as follows:
