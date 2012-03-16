@@ -6,7 +6,7 @@ Employment Dispute Resolution Act 2008 | 18 of 2008 | 19 May 2008 | s. 1 and 2: 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Industrial Legislation Amendment Act 2011 Pt. 5 | 53 of 2011 | 11 Nov 2011 | To be proclaimed (see s. 2(b))
+Industrial Legislation Amendment Act 2011 Pt. 5 | 53 of 2011 | 11 Nov 2011 | 1 Apr 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1246)
 On the date as at which this compilation was prepared, the Industrial Legislation Amendment Act 2011 Pt. 5 had not come into operation. It reads as follows:
 Part 5 — Employment Dispute Resolution Act 2008 amended
 51.Act amended
