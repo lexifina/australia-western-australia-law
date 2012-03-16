@@ -26,7 +26,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
-Industrial Legislation Amendment Act 2011 Pt. 2 | 53 of 2011 | 11 Nov 2011 | To be proclaimed (see s. 2(b))
+Industrial Legislation Amendment Act 2011 Pt. 2 | 53 of 2011 | 11 Nov 2011 | 1 Apr 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1246)
 On the date as at which this compilation was prepared, the Industrial Legislation Amendment Act 2011 Pt. 2 had not come into operation. It reads as follows:
 Part 2 — Construction Industry Portable Paid Long Service Leave Act 1985 amended
 3.Act amended
