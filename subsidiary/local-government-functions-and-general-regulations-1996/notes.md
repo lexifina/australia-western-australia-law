@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government (Functions and General) Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 16 March 2012 of the Local Government (Functions and General) Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Local Government (Functions and General) Regulations 1996 | 24 Jun 1996 p. 2771-97 | 1 Jul 1996 (see r. 2)
@@ -20,9 +20,20 @@ Reprint 2: The Local Government (Functions and General) Regulations 1996 as at 2
 Local Government (Functions and General) Amendment Regulations 2007 | 2 Feb 2007 p. 244-6 | 30 Mar 2007 (see r. 2)
 Local Government (Functions and General) Amendment Regulations 2009 | 20 Nov 2009 p. 4659-60 | r. 1 and 2: 20 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Nov 2009 (see r. 2(b) and Gazette 20 Nov 2009 p. 4649)
 Local Government (Functions and General) Amendment Regulations 2011 | 27 Sep 2011 p. 3843-7 | r. 1 and 2: 27 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Sep 2011 (see r. 2(b))
+Reprint 3: The Local Government (Functions and General) Regulations 1996 as at 16 Mar 2012 (includes amendments listed above)
 The Local Government Act 1995 came into operation on 1 July 1996.
-The Local Government (Functions and General) Amendment Regulations 2001 r. 11 reads as follows:
-“
-11.Transitional
-If a tender is invited under regulation 11, 12, or 13 of the Local Government (Functions and General) Regulations 1996 before the commencement of these regulations, tenders submitted as a result of that invitation are to be dealt with as if these regulations had not come into operation.
-”.
+The Local Government (Functions and General) Amendment Regulations 2001 r. 11 is a transitional provision that is of no further effect.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+former draft model by-law38(4)
+former section6(4)
+joint venture10(2)
+joint venturer10(2)
+land that will lose its access4(3)
+major regional centre7(1)
+minor variation20(3)
+public place29(2)
+regional price preference24B(1)
+regional tenderer24B(1)
+transferee30(2)
