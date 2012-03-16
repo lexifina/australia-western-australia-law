@@ -24,7 +24,7 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 36 | 35 of 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Industrial Legislation Amendment Act 2011 Pt. 4 | 53 of 2011 | 11 Nov 2011 | To be proclaimed (see s. 2(b))
+Industrial Legislation Amendment Act 2011 Pt. 4 | 53 of 2011 | 11 Nov 2011 | 1 Apr 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1246)
 The Labour Relations Reform Act 2002 s. 165(3)-(5) reads as follows:
 “
 (3) An agreement continues to have effect on and from the commencement day in respect of the employee’s entitlement to annual leave that accrued before the commencement day as if former section 8 had not been amended by this Act.
