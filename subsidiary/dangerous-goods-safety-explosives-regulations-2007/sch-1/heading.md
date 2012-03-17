@@ -5,7 +5,7 @@ Item | Fee for | Fee ($)
 2. | Application for a test permit (r. 27(2)(d)) | 160
 3. | Application to have an explosive authorised (r. 30(2)(j)) | 138
 4. | Application for a fireworks event permit (r. 149(1)(e)) — one fee being whichever of the following is the highest fee applicable to the event —
- | (a)if the event fireworks include ground fireworks | 51
+ | (a)if the event fireworks include fireworks that are a ground display | 51
  | (b)if the event fireworks include aerial shells of not more than 125 mm diameter | 102
  | (c)if the event fireworks include aerial shells of more than 125 mm and not more than 300 mm diameter | 255
  | (d)if the event fireworks include aerial shells of more than 300 mm diameter | 510
@@ -26,4 +26,4 @@ Item | Fee for | Fee ($)
  | (k)pyrotechnics (special use) licence | 20.40
 6. | Replacement card (r. 171(2)) | 20
 7. | Application for renewal of a licence (r. 173(3)(i)) — the fee in item 5 for the licence
-[Schedule 1 amended in Gazette 16 Jun 2009 p. 2196; 25 Jun 2010 p. 2876-7.]
+[Schedule 1 amended in Gazette 16 Jun 2009 p. 2196; 25 Jun 2010 p. 2876-7; 16 Mar 2012 p. 1191.]
