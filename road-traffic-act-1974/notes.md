@@ -145,13 +145,13 @@ Reprint 11: The Road Traffic Act 1974 as at 28 Jan 2011 (includes amendments lis
 Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 2 | 14 of 2011 | 25 May 2011 | 1 Oct 2011 (see s. 2(b) and Gazette 30 Aug 2011 p. 3503)
 Road Traffic Legislation Amendment (Information) Act 2011 Pt. 2 (other than s. 9) | 18 of 2011 | 2 Jun 2011 | 30 Jun 2011 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 3 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
+Manslaughter Legislation Amendment Act 2011 Pt. 3 | 58 of 2011 | 30 Nov 2011 | 17 Mar 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1245)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 5, 11, 12(2)(c), (5)(d) and (7)(b), 14 and 15 | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 Road Traffic Legislation Amendment (Information) Act 2011 s. 9 | 18 of 2011 | 2 Jun 2011 | To be proclaimed (see s. 2(b))
-Manslaughter Legislation Amendment Act 2011 Pt. 3 | 58 of 2011 | 30 Nov 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 Section 111(2)(f) of this Act has been deleted.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
@@ -389,20 +389,6 @@ Penalty: Imprisonment for 2 years.
 (b) causes or permits another person to do so,
 commits an offence.
 Penalty: Imprisonment for 2 years.
-On the date as at which this compilation was prepared, the Manslaughter Legislation Amendment Act 2011 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Road Traffic Act 1974 amended
-5.Act amended
-This Part amends the Road Traffic Act 1974.
-6.Section 59 amended
-(1) In section 59(1) in the Summary conviction penalty delete “penalty:” and insert:
-penalty in a case in which the incident does not occasion the death of another person:
-(2) After section 59(1) insert:
-(2A) For an offence against this section that was committed before the day on which the Manslaughter Legislation Amendment Act 2011 section 6(1) came into operation amending subsection (1), subsection (1) applies as if that amendment had not been made.
-7.Section 67 amended
-(1) In section 67(3a) in the Summary conviction penalty delete “penalty:” and insert:
-penalty in a case in which the incident does not occasion the death of another person:
-(2) After section 67(3a) insert:
-(3B) For an offence against this section that was committed before the day on which the Manslaughter Legislation Amendment Act 2011 section 7(1) came into operation amending subsection (3a), subsection (3a) applies as if that amendment had not been made.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
