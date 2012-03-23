@@ -1,6 +1,6 @@
 ## Schedule — Title of Act
 [s. 4]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 Parliamentary Superannuation Act 1948.
 Parliamentary Superannuation Act Amendment Act 1950.
 Parliamentary Superannuation Act Amendment Act 1951.
