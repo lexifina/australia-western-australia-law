@@ -4,7 +4,9 @@
 Act | section(s)
 Associations Incorporation Act 1987
 Botanic Gardens and Parks Authority Act 1998
-Builders’ Registration Act 1939
+Building Act 2011
+Building Services (Complaint Resolution and Administration) Act 2011
+Building Services (Registration) Act 2011
 Bush Fires Act 1954 | 59A
 Business Names Act 1962
 Caravan Parks and Camping Grounds Act 1995 | 23
@@ -48,7 +50,6 @@ Local Government (Miscellaneous Provisions) Act 1960
 Motor Vehicle Dealers Act 1973
 Motor Vehicle Repairers Act 2003
 Murdoch University Act 1973 | 24
-Painters’ Registration Act 1961
 Pawnbrokers and Second-hand Dealers Act 1994
 Perth Market Act 1926 | 13B
 Perth Parking Management Act 1999
@@ -77,4 +78,4 @@ Waterways Conservation Act 1976
 Western Australian Marine Act 1982 | 132
 Western Australian Meat Industry Authority Act 1976
 Zoological Parks Authority Act 2001
-[Schedule 1 amended in Gazette 30 Jun 1995 p. 2637 and 2643; 19 Jul 1996 p. 3458; 1 Aug 1997 p. 4394; 23 Jan 1998 p. 408; 8 Dec 1998 p. 6574; 2 Jul 1999 p. 2919; 31 Dec 1999 p. 7076; 27 Aug 2002 p. 4354; 12 Dec 2003 p. 5037; 4 Jun 2004 p. 1933; 13 May 2005 p. 2080; 14 Jul 2006 p. 2564; 18 May 2007 p. 2257; 11 Mar 2008 p. 818-19; 23 Jun 2009 p. 2466; 29 Jan 2010 p. 200; 25 Jun 2010 p. 2869; 17 Sep 2010 p. 4759; 17 Jun 2011 p. 2169; 13 Dec 2011 p. 5282; 16 Mar 2012 p. 1256.]
+[Schedule 1 amended in Gazette 30 Jun 1995 p. 2637 and 2643; 19 Jul 1996 p. 3458; 1 Aug 1997 p. 4394; 23 Jan 1998 p. 408; 8 Dec 1998 p. 6574; 2 Jul 1999 p. 2919; 31 Dec 1999 p. 7076; 27 Aug 2002 p. 4354; 12 Dec 2003 p. 5037; 4 Jun 2004 p. 1933; 13 May 2005 p. 2080; 14 Jul 2006 p. 2564; 18 May 2007 p. 2257; 11 Mar 2008 p. 818-19; 23 Jun 2009 p. 2466; 29 Jan 2010 p. 200; 25 Jun 2010 p. 2869; 17 Sep 2010 p. 4759; 17 Jun 2011 p. 2169; 13 Dec 2011 p. 5282; 16 Mar 2012 p. 1256; 23 Mar 2012 p. 1370.]

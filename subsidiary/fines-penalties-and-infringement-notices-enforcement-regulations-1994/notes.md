@@ -45,6 +45,7 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2011
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 4) 2011 | 13 Dec 2011 p. 5281-2 | r. 1 and 2: 13 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Dec 2011 (see r. 2(b))
 Reprint 5: The Fines, Penalties and Infringement Notices Enforcement Regulations 1994 as at 2 Mar 2012 (includes amendments listed above)
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2012 | 16 Mar 2012 p. 1255-6 | r. 1 and 2: 16 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Mar 2012 (see r. 2(b))
+Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 2) 2011 | 23 Mar 2012 p. 1369-70 | r. 1 and 2: 23 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Mar 2012 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now called the General Account.
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
@@ -55,5 +56,5 @@ Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in
 Now superseded by the Water Corporation.
 Repealed by the Building Services (Registration) Act 2011 s. 107.
 Formerly referred to the Censorship Act 1996 the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Repealed by the Building Services (Registration) Act 2011 s. 108.
+Footnote no longer applicable.
 The Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 1997 were published on 1 Aug 1997 p. 4394 and again on 4 Nov 1997 p. 6079-80. The publication of 4 Nov 1997 has no effect.
