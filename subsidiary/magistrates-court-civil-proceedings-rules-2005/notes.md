@@ -9,7 +9,17 @@ Reprint 1: The Magistrates Court (Civil Proceedings) Rules 2005 as at 17 Jul 200
 Magistrates Court (Civil Proceedings) Amendment Rules 2010 | 2 Jul 2010 p. 3191-5 | r. 1 and 2: 2 Jul 2010 (see r. 2(a)); Rules other than r. 1 and 2: 3 Jul 2010 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules 2011 | 20 May 2011 p. 1841-6 | r. 1 and 2: 20 May 2011 (see r. 2(a)); Rules other than r. 1 and 2: 21 May 2011 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 2) 2011 | 27 Oct 2011 p. 4556-7 | r. 1 and 2: 27 Oct 2011 (see r. 2(a)); Rules other than r. 1 and 2: 28 Oct 2011 (see r. 2(b))
+Magistrates Court (Civil Proceedings) Amendment Rules 2012 | 23 Mar 2012 p. 1366-8 | r. 1 and 2: 23 Mar 2012 (see r. 2(a)); Rules other than r. 1, 2, 4(1) and (2): 24 Mar 2012 (see r. 2(c))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Magistrates Court (Civil Proceedings) Amendment Rules 2012 r. 4(1) and (2) | 23 Mar 2012 p. 1366-8 | 2 Apr 2012 (see r. 2(b) and Gazette 13 Mar 2012 p. 1033)
 The Public Trustee Act 1941 s. 40, as inserted by the Public Trustee and Trustee Companies Legislation Amendment Act 2008 s. 25(1), does not refer to the “Common Fund” but to a “Fund”.
+On the date as at which this compilation was prepared, the Magistrates Court (Civil Proceedings) Amendment Rules 2012 r. 4(1) and (2) had not come into operation. They read as follows:
+4.Rule 124 amended
+(1) In rule 124(1) in the Table delete the item relating to the Local Government (Miscellaneous Provisions) Act 1960.
+(2) In rule 124(1) in the Table insert in alphabetical order:
+Building Act 2011 | s. 86(1).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
