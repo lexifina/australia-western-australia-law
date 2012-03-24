@@ -36,6 +36,7 @@
 2a. | Misuse of Drugs Act 1981
  | s. 6(1) | Offences concerned with prohibited drugs generally
  | s. 7(1) | Offences concerned with prohibited plants generally
+ | s. 14(1) | Possessing a quantity of a category 1 item or a category 2 item in circumstances where the life, health or safety of a child under 16 years of age was endangered, or bodily harm (as defined in The Criminal Code section 1(1) and (4)) was caused to such a child, by the acts constituting the offence
  | s. 33(1)(a) | Attempting to commit an offence under section 6(1) or 7(1)
  | s. 33(2)(a) | Conspiracy to commit an offence under s. 6(1) or 7(1)
 2b. | Restraining Orders Act 1997
@@ -45,4 +46,4 @@
 3. | Road Traffic Act 1974
  | s. 59 | Dangerous driving causing death, injury, etc.
  | s. 59A | Dangerous driving causing bodily harm
-[Schedule 2 inserted by No. 45 of 1993 s. 11; amended by No. 82 of 1994 s. 13; No. 38 of 1998 s. 4(2); No. 54 of 1998 s. 15; No. 23 of 2001 s. 10(1); No. 4 of 2004 s. 24 and 26; No. 38 of 2004 s. 61; No. 62 of 2004 s. 9(1); No. 84 of 2004 s. 82; No. 6 of 2008 s. 42(2); No. 29 of 2008 s. 24(8); No. 47 of 2011 s. 19.]
+[Schedule 2 inserted by No. 45 of 1993 s. 11; amended by No. 82 of 1994 s. 13; No. 38 of 1998 s. 4(2); No. 54 of 1998 s. 15; No. 23 of 2001 s. 10(1); No. 4 of 2004 s. 24 and 26; No. 38 of 2004 s. 61; No. 62 of 2004 s. 9(1); No. 84 of 2004 s. 82; No. 6 of 2008 s. 42(2); No. 29 of 2008 s. 24(8); No. 47 of 2011 s. 19; No. 56 of 2011 s. 11.]

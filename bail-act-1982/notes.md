@@ -55,12 +55,12 @@ Reprint 7: The Bail Act 1982 as at 6 Mar 2009 (includes amendments listed above)
 Police Amendment Act 2009 s. 12 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 4 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 19 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Misuse of Drugs Amendment Act 2011 Pt. 3 | 56 of 2011 | 21 Nov 2011 | 24 Mar 2012 (see s. 2(b) and Gazette 23 Mar 2012 p. 1363)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 3 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Electronic Transactions Act 2011 s. 25 | 46 of 2011 | 25 Oct 2011 | To be proclaimed (see s. 2(c))
-Misuse of Drugs Amendment Act 2011 Pt. 3 | 56 of 2011 | 21 Nov 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The short title of the Justices Act 1902 was changed to the Criminal Procedure (Summary) Act 1902 by the Courts Legislation Amendment and Repeal Act 2004 s. 25. The Act was then repealed by the Criminal Procedure and Appeal (Consequential and Other Provisions) Act 2004.
 The amendment in the Sentencing Legislation Amendment and Repeal Act 1999 s. 26 had not come into operation when it was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -170,13 +170,6 @@ Provision | Delete | Insert
 1.Bail Act 1982
 s. 3(1) def. of electronic communication | Electronic Transactions Act 2003 section 5 | Electronic Transactions Act 2011 section 5(1)
 s. 3A(2) | Electronic Transactions Act 2003 section 5 | Electronic Transactions Act 2011 section 5(1)
-On the date as at which this compilation was prepared, the Misuse of Drugs Amendment Act 2011 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Bail Act 1982 amended
-10.Act amended
-This Part amends the Bail Act 1982.
-11.Schedule 2 amended
-In Schedule 2 item 2a after the row relating to s. 7(1) insert:
-s. 14(1) | Possessing a quantity of a category 1 item or a category 2 item in circumstances where the life, health or safety of a child under 16 years of age was endangered, or bodily harm (as defined in The Criminal Code section 1(1) and (4)) was caused to such a child, by the acts constituting the offence
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
