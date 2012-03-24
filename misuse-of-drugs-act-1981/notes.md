@@ -44,10 +44,11 @@ Misuse of Drugs (Amounts of Prohibited Drugs) Order 2011 published in Gazette 29
 Misuse of Drugs (Amounts of Prohibited Drugs) Order (No. 2) 2011 published in Gazette 1 Jul 2011 p. 2742-5 | cl. 1 and 2: 1 Jul 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 2 Jul 2011 (see cl. 2(b))
 Reprint 5: The Misuse of Drugs Act 1981 as at 16 Sep 2011 (includes amendments listed above)
 Misuse of Drugs (Amounts of Prohibited Drugs) Order (No. 3) 2011 published in Gazette 11 Oct 2011 p. 4316-20 | cl. 1 and 2: 11 Oct 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 12 Oct 2011 (see cl. 2(b))
+Misuse of Drugs Amendment Act 2011 s. 3, 4 and 9 | 56 of 2011 | 21 Nov 2011 | 24 Mar 2012 (see s. 2(b) and Gazette 23 Mar 2012 p. 1363)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Misuse of Drugs Amendment Act 2011 Pt. 2 | 56 of 2011 | 21 Nov 2011 | To be proclaimed (see s. 2(b))
+Misuse of Drugs Amendment Act 2011 s. 5-8 | 56 of 2011 | 21 Nov 2011 | To be proclaimed (see s. 2(b))
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 read as follows:
@@ -105,13 +106,8 @@ If, immediately before the commencement of this Act, a warrant issued under the 
 (8) The Registrar of Titles is not required to obtain the consent or direction of the Commissioner of Titles to perform a function conferred on the Registrar under this section.
 (9) To the extent that a provision of this section relating to any property is inconsistent with the Transfer of Land Act 1983, the provision prevails, but this section does not otherwise affect the operation of that Act in relation to the property.
 This should read “1893”.
-On the date as at which this compilation was prepared, the Misuse of Drugs Amendment Act 2011 Pt. 2 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Misuse of Drugs Amendment Act 2011 s. 5-8 had not come into operation. They read as follows:
 Part 2 — Misuse of Drugs Act 1981 amended
-3.Act amended
-This Part amends the Misuse of Drugs Act 1981.
-4.Section 3 amended
-In section 3(1) insert in alphabetical order:
-adult means a person who has reached 18 years of age;
 5.Section 5 amended
 (1) Delete section 5(1)(d).
 (2) Delete section 5(3).
@@ -155,68 +151,32 @@ In section 8B(1) in the definition of minor cannabis related offence paragraph (
 or 7B(6)
 8.Sections 19A and 19B deleted
 Delete sections 19A and 19B.
-9.Section 34 amended
-(1) In section 34(1) delete “subsection (2),” and insert:
-subsections (2) and (3),
-(2) After section 34(2) insert:
-(3) If a court is sentencing a person for an offence referred to in subsection (1)(a) that involved selling or supplying, or offering to sell or supply, a prohibited drug or a prohibited plant to a child, and the person was an adult when the offence was committed, then, despite the Sentencing Act 1995 Part 5 —
-(a) for a first offence the court must use one of only these sentencing options —
-(i) suspended imprisonment imposed under the Sentencing Act 1995 section 39 and Part 11;
-(ii) conditional suspended imprisonment imposed under section 39 and Part 12 of that Act;
-(iii) a term of imprisonment imposed under section 39 and Part 13 of that Act;
-and
-(b) for any subsequent offence (whether or not under the same provision) the court —
-(i) must impose a term of imprisonment of at least 6 months; and
-(ii) must not suspend the term of imprisonment.
-(4) If a court is sentencing a person for —
-(a) an offence under section 6(1)(b); or
-(b) an offence under section 7(1)(a) that involved cultivating a prohibited plant; or
-(c) an offence under section 14(1),
-committed in circumstances where the acts constituting the offence endangered the life, health or safety of a child under 16 years of age, and the person was an adult when the offence was committed, then, despite the Sentencing Act 1995 Part 5 —
-(d) for a first offence the court must use one of only these sentencing options —
-(i) suspended imprisonment imposed under the Sentencing Act 1995 section 39 and Part 11;
-(ii) conditional suspended imprisonment imposed under section 39 and Part 12 of that Act;
-(iii) a term of imprisonment imposed under section 39 and Part 13 of that Act;
-and
-(e) for any subsequent offence (whether or not under the same provision) the court —
-(i) must impose a term of imprisonment of at least 6 months; and
-(ii) must not suspend the term of imprisonment.
-(5) If a court is sentencing a person for —
-(a) an offence under section 6(1)(b); or
-(b) an offence under section 7(1)(a) that involved cultivating a prohibited plant; or
-(c) an offence under section 14(1),
-committed in circumstances where the acts constituting the offence caused bodily harm (as defined in The Criminal Code section 1(1) and (4)) to a child under 16 years of age, and the person was an adult when the offence was committed, then, despite the Sentencing Act 1995 Part 5, the court —
-(d) must impose a term of imprisonment of at least 12 months; and
-(e) must not suspend the term of imprisonment.
-(6) The Minister must carry out a review of the operation and effectiveness of the amendments made to this section by the Misuse of Drugs Amendment Act 2011 section 9 as soon as practicable after the expiry of 3 years from the commencement of that section.
-(7) The Minister is to lay (or cause to be laid) a report of the review under this section before both Houses of Parliament as soon as practicable after the review is completed.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-adult8B(1)
+adult3(1), 8B(1)
+an amending Act44(1)
 analyst3(1)
-an amending Act44(1)(a)
 approved analyst3(1)
 approved botanist3(1)
 approved person21
-authorised person8B(1), 14(4)(a), 26(3), 31(8)
+authorised person8B(1), 14(4), 26(3), 31(8)
 authorised prescription3(1)
 botanist3(1)
 cannabis3(1)
 cannabis intervention requirement8B(1)
 cannabis intervention session8B(1)
-cannabis smoking paraphernalia19A(1)
 cannabis resin3(1)
+cannabis smoking paraphernalia19A(1)
 category 1 item12
 category 2 item12
-CEO (Health)8B(1), 38D(1)
+CEO (Health) 8B(1)
+CEO (Health)38D(1)
 child3(1), 19B(1)
 CIN45
-CIR8B(1)
-CIS8B(1)
-CIR8B(1)
-CIR8B(1)
-claimant27(1)(b)
+CIR8B(2)
+CIS8B(2)
+claimant27(1)
 commencement day45
 Commissioner3(1)
 confidential information27B(1)
@@ -236,19 +196,20 @@ opium3(1)
 owner5(2)
 Poisons Act 19643(1)
 police officer8B(1)
-principal offence33(1), (2) and (3)
+principal offence33(1), 33(3)
+principal offence33(2)
 processed industrial hemp3(1)
 prohibited drug3(1)
 prohibited plant3(1)
 recipient12
-relevant thing27(6)
 regulations3(1)
-repeal daySch IX cl. 1
+relevant thing27(6)
+repeal daySch. IX, cl. 1(1)
 responsible adult8B(1)
 sample3(1)
 search warrant21
-serious drug offence32A(3)
 seized property28(1)
+serious drug offence32A(3)
 simple offence3(1)
 specified27A(7)
 specified drug3(1)
@@ -256,7 +217,6 @@ substance12
 sufficient samples27(6)
 summary court3(1)
 supplier12
-the principal offence33(2)
 to cultivate3(1)
 to possess3(1)
 to supply3(1)
