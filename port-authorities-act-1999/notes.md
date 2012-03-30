@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Port Authorities Act 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Port Authorities Act 1999 and includes the amendments made by the other written laws referred to in the following table 1a, 4. 7. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Port Authorities Act 1999 | 22 of 1999 | 29 Jun 1999 | s. 1 and 2: 29 Jun 1999; Act other than s. 1 and 2 and Sch. 1 it. 2: 14 Aug 1999 (see s. 2 and Gazette 13 Aug 1999 p. 3823); Sch. 1 it. 2: 1 Jan 2000 (see s. 2 and Gazette 24 Dec 1999 p. 6871)
@@ -24,7 +24,6 @@ Public Sector Reform Act 2010 s. 81 and 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 201
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-State Superannuation Amendment Act 2007 s. 84 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 Building Act 2011 s. 169 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 The Ports and Marine Legislation Amendment Act 2003 s. 4(2) reads as follows:
 “
@@ -113,13 +112,7 @@ statutory rule means a regulation, rule or by-law.
 (b) that could not have been validly and lawfully done or omitted if this Act had received the Royal Assent before the FSR commencement time,
 is taken not to be valid, and to never have been valid.
 ”.
-On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 84 had not come into operation. It reads as follows:
-“
-84.Port Authorities Act 1999 amended
-(1) The amendments in this section are to the Port Authorities Act 1999.
-(2) Section 19(1) is amended by deleting “section 30” and inserting instead —
-“ section 76 ”.
-”.
+The amendment in the State Superannuation Amendment Act 2007 s. 84 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 On the date as at which this compilation was prepared, the Building Act 2011 s. 169 had not come into operation. It reads as follows:
 169.Port Authorities Act 1999 amended
 (1) This section amends the Port Authorities Act 1999.
