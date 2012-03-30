@@ -272,14 +272,13 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
-State Superannuation Amendment Act 2007 s. 79 | 25 of 2007 | 16 Oct 2007 | Operative at “transfer time” fixed under the State Superannuation Act 2000 s. 56 (see s. 2(1)(c))
 Health Practitioner Regulation National Law (WA) Act 2010 s. 44(1), (7) and (9) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Building Services (Registration) Act 2011 s. 155(2) (the item relating to The Municipal Building Surveyors Examination Committee) | 19 of 2011 | 22 Jun 2011 | To be proclaimed (see s. 2(b))
 Building Act 2011 s. 160 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
-Footnote no longer applicable.
+The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 had not come into operation. It reads as follows:
 22.Constitution Acts Amendment Act 1899 amended
@@ -299,13 +298,7 @@ Repealed by the Acts Amendment and Repeal (Statutory Bodies) Act 1985.
 Relevant provisions amended by the Soil and Land Conservation Amendment Act 1988. Committees are now land conservation district committees.
 Under the Environmental Protection Act 1986 Sch. 3 cl. 20, a reference to an environmental appeal board shall be construed as a reference to an appeals committee.
 Authority continued in existence under the Environmental Protection Act 1986 s. 7(1).
-On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 79 had not come into operation. It reads as follows:
-79.Constitution Acts Amendment Act 1899 amended
-(1) The amendments in this section are to the Constitution Acts Amendment Act 1899.
-(2) Schedule V Part 3 is amended by deleting the item for the Government Employees Superannuation Board and inserting in the appropriate alphabetical position —
-“
-The State Superannuation Board under the State Superannuation Act 2000.
-”.
+Footnote no longer applicable.
 Repealed by the General Insurance Brokers and Agents Act Repeal Act 1986.
 Repealed by the Legislative Review and Advisory Committee Repeal Act 1987.
 Relevant provisions deleted by the Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 115. Committee replaced by Mining Industry Advisory Committee established under the Occupational Safety and Health Act 1984 s. 14A.
