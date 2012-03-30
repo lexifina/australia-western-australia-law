@@ -19,19 +19,9 @@ Public Sector Reform Act 2010 s. 76 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Curriculum Council Amendment Act 2011 Pt. 3 Div. 2 | 37 of 2011 | 13 Sep 2011 | 1 Mar 2012 (see s. 2(b) and Gazette 28 Feb 2012 p. 841)
 Metropolitan Redevelopment Authority Act 2011 s. 138 | 45 of 2001 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Agricultural Practices (Disputes) Repeal Act 2011 s. 5 | 54 of 2011 | 9 Nov 2011 | 7 Dec 2011 (see note under s. 1)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-State Superannuation Amendment Act 2007 s. 82 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the State Superannuation Amendment Act 2007 s. 82 had not come into operation. It reads as follows:
-“
-82.Financial Management Act 2006 amended
-(1) The amendments in this section are to the Financial Management Act 2006.
-(2) Schedule 1 is amended by deleting “Government Employees Superannuation Board” and inserting in the appropriate alphabetical position —
-“ State Superannuation Board ”.
-”.
+The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 Footnote no longer applicable.
 The Real Estate and Business Agents Supervisory Board was abolished on 1 Jul 2011. The Real Estate and Business Agents Act 1978 s. 149 and 150 read as follows:
 149.Former Board abolished
