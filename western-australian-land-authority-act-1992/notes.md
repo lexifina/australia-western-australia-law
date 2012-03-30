@@ -29,7 +29,6 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 72 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-State Superannuation Amendment Act 2007 s. 88 | 25 of 2007 | 16 Oct 2007 | Operative on publication of an order under the State Superannuation Act 2000 s. 56 (“transfer time”) (see s. 2(1)(c))
 Public Sector Management Act 1994 s. 99 deleted by the Public Sector Reform Act 2010 s. 57.
 The Western Australian Land Authority Amendment Act 1998 s. 19(3) and (4) read as follows:
 (3) Despite subsections (1) and (2), on and from the commencement of this Act —
@@ -72,16 +71,11 @@ The Western Australian Land Authority Amendment Act 2004 s. 18(2) is a transitio
 As at the date on which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 72 had not come into operation. It reads as follows:
 72.Western Australian Land Authority Act 1992 amended
 Clause 2(4) in Schedule 4 to the Western Australian Land Authority Act 1992 is amended by deleting “(including rights under the Superannuation and Family Benefits Act 1938)”.
-On the date as at which this reprint was prepared, the State Superannuation Amendment Act 2007 s. 88 had not come into operation. It reads as follows:
-88.Western Australian Land Authority Act 1992 amended
-(1) The amendments in this section are to the Western Australian Land Authority Act 1992.
-(2) Section 13A(1) is amended by deleting “section 30” and inserting instead —
-“ section 76 ”.
-Defined Terms
+The amendment in the State Superannuation Amendment Act 2007 s. 88 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 account31(1)
-accountable authoritySch. 4 cl. 10(1)
 accounting standardSch. 3A cl. 1(2)
 acquire4(1)
 administrative policy requirement23E(1)
@@ -117,7 +111,7 @@ management4(1)
 member of staff4(1)
 members of staff13A(3), 14B(4)
 Ministers51(11)
-near relativeSch. 1 Pt. B cl. 1(1)
+near relativeSch. 1 cl. 1(1)
 new owner23B(1)
 notifiable interest8B(3)
 officerSch. 1A cl. 2(1)
@@ -128,10 +122,10 @@ property51(11), Sch. 4 cl. 1
 public authority4(1)
 public service officer8A(2)
 regulationsSch. 3A cl. 1(1)
-repealed ActSch. 4 cl. 7(1) and 9(1)
+repealed ActSch. 4 cl. 7(1), Sch. 4 cl. 9(1)
 subsidiary4(1)
 summary conviction penaltySch. 1A cl. 2(1), Sch. 3A cl. 30(3)
 third party23B(1)
 transaction17C
 Treasurer4(1)
-WADC51(9) and (11)
+WADC51(9), 51(11)
