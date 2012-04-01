@@ -21,9 +21,6 @@ Reprint 4: The Minimum Conditions of Employment Act 1993 as at 13 Jun 2008 (incl
 Training Legislation Amendment and Repeal Act 2008 s. 56 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 36 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Industrial Legislation Amendment Act 2011 Pt. 4 | 53 of 2011 | 11 Nov 2011 | 1 Apr 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1246)
 The Labour Relations Reform Act 2002 s. 165(3)-(5) reads as follows:
 “
@@ -83,16 +80,6 @@ The Labour Relations Legislation Amendment Act 2006 s. 31(2) reads as follows:
 “
 (2) Nothing in Part 4 Division 2 of the Minimum Conditions of Employment Act 1993 requires an untaken entitlement that arose under section 19(1) or 20A(1) of that Act as enacted before the commencement of this section to be carried over from the year in which the entitlement arose to the next year.
 ”.
-On the date as at which this compilation was prepared, the Industrial Legislation Amendment Act 2011 Pt. 4 had not come into operation. It reads as follows:
-Part 4 — Minimum Conditions of Employment Act 1993 amended
-49.Act amended
-This Part amends the Minimum Conditions of Employment Act 1993.
-50.Schedule 1 amended
-In Schedule 1:
-(a) delete the reference after the heading and insert:
-[s. 3(1)]
-(b) after “Boxing Day.” insert:
-Any special day appointed by proclamation under the Public and Bank Holidays Act 1972 section 7 to be a public holiday.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
