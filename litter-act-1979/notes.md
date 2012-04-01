@@ -37,16 +37,32 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Acts Amendment (Bankruptcy) Act 2009 s. 52 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Industrial Legislation Amendment Act 2011 Pt. 6 | 53 of 2011 | 11 Nov 2011 | 1 Apr 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1246)
 Repealed by the Associations Incorporation Act 1987.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Industrial Legislation Amendment Act 2011 Pt. 6 had not come into operation. It reads as follows:
-Part 6 — Litter Act 1979 amended
-58.Act amended
-This Part amends the Litter Act 1979.
-59.Section 9 amended
-Delete section 9(1)(ka) and insert:
-(k) one shall be appointed on the nomination of UnionsWA;
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+appointed area5(1)
+authorised officer5(1)
+bill5(1)
+Chairman5(1)
+Chamber of Commerce and Industry9(6)
+Department5(1)
+infringement notice30(1)
+land5(1)
+law of the State4(4)
+litter5(1)
+member of the Council5(1)
+post5(1)
+prescribed5(1)
+private land5(1)
+Proceedings31(4)
+public authority5(1)
+public place5(1)
+specified33(5)
+supporting member5(1)
+the Association35(2)
+the Council5(1)
+the Fund5(1)
+waters5(1)

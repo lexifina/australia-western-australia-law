@@ -84,11 +84,11 @@ Reprint 13: The Industrial Relations Act 1979 as at 9 Apr 2010 (includes amendme
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 29 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 109 | 39 of 2010 | 1 Oct 2010 | 28 Mar 2011 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Industrial Legislation Amendment Act 2011 Pt. 3 | 53 of 2011 | 11 Nov 2011 | 1 Apr 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1246)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Industrial Legislation Amendment Act 2011 Pt. 3 | 53 of 2011 | 11 Nov 2011 | 1 Apr 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1246)
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 Repealed by the Offshore Petroleum (Repeals andConsequential Amendments) Act 2006 s. 3 of the Commonwealth.
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
@@ -152,14 +152,13 @@ under 16 years | 40%
 (1) The minimum weekly rate of pay for an apprentice or trainee in relation to whom a workplace agreement or an employer-employee agreement is not in force is the rate of pay that is provided for under an award that applies to that apprentice or trainee.
 (2) The minimum weekly rate of pay for an apprentice or trainee in relation to whom a workplace agreement or an employer-employee agreement is in force is the rate of pay that is provided for under an award that would, if the workplace agreement or employer-employee agreement were not in force, apply to that apprentice or trainee.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed
 Act | Provision
 ...................... | ........
 Industrial Relations Act 1979 | s. 20(8), (8a), (8b), (8c), (8d)
-The Long Service Leave Act 1958 s. 36 was deleted by the Labour Relations Legislation Amendment Act 2006 s. 62.
 Now known as the Industrial Relations Act 1979; short title changed (see note under s. 1).
 The Industrial Relations Amendment Act 1990 s. 14 was deleted before it came into operation by the Industrial Legislation Amendment Act 1995 s. 35.
 The Acts Amendment (Industrial Magistrate’s Courts) Act 1991 s. 6 contains transitional provisions relating to persons who were industrial magistrates when that section commenced and to proceedings begun and decisions made before that commencement.
@@ -192,183 +191,21 @@ remains of effect until a State Wage order takes effect.
 (4) A date specified under subsection (3)(b) must not be a date that is earlier than the day on which the order is made.
 (5) Despite section 50A(1)(b), the Commission must not adjust rates of wages paid under awards in a State Wage order made in relation to the period ending 30 June 2007 if, during 2006 and before that State Wage order is made, the Commission has made a General Order under section 50 of the Industrial Relations Act 1979 adjusting rates of wages paid under awards generally.
 The Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) were repealed by the Statutes (Repeals and Minor Amendments) Act 2011 s. 24(2) before it purported to come into operation.
-On the date as at which this compilation was prepared, the Industrial Legislation Amendment Act 2011 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Industrial Relations Act 1979 amended
-Division 1 — Preliminary
-28.Act amended
-This Part amends the Industrial Relations Act 1979.
-Division 2 — Amendments consequential to Part 2 amendments
-29.Section 81AA amended
-(1) In section 81AA delete “on it by —” and insert:
-on it by the following —
-(2) Before section 81AA(ba) insert:
-(a) the Construction Industry Portable Paid Long Service Leave Act 1985 section 53;
-30.Section 81CA amended
-In section 81CA(1) in the definition of general jurisdiction:
-(a) in paragraph (b) delete “1958;” and insert:
-1958; or
-(b) after paragraph (b) insert:
-(c)the Construction Industry Portable Paid Long Service Leave Act 1985 section 53;
-31.Section 83E amended
-(1) In section 83E(6) delete “An application” and insert:
-Except as provided in subsections (6a) and (7A), an application
-(2) After section 83E(6a) insert:
-(7A) In the case of a contravention of a provision under the Construction Industry Portable Paid Long Service Leave Act 1985 that is a civil penalty provision —
-(a) subsection (6) does not apply; and
-(b) an application for an order under this section may be made, with the written consent of the Construction Industry Long Service Leave Payments Board established under section 5 of that Act, by an officer of the Board.
-(3) In section 83E(7) delete “subsection (6)” and insert:
-subsection (6) or (7A)(b)
-Division 3 — Amendments relating to Commonwealth legislation
-32.Section 7 amended
-(1) In section 7(1) delete the definition of Australian Commission.
-(2) In section 7(1) insert in alphabetical order:
-Fair Work Australia means the body established by the Fair Work Act 2009 (Commonwealth) section 575;
-33.Section 31 amended
-In section 31(1)(c)(i) delete “Commonwealth Act; or” and insert:
-Fair Work Act 2009 (Commonwealth); or
-34.Section 71 amended
-In section 71(1) in the definition of Branch delete “Commonwealth Act;” and insert:
-Fair Work (Registered Organisations) Act 2009 (Commonwealth);
-35.Section 73 amended
-(1) In section 73(3)(a)(ii) delete “under the Commonwealth Act,” and insert:
-made under the Fair Work Act 2009 (Commonwealth) or continued in existence under the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Commonwealth),
-(2) In section 73(7b) delete “under the Commonwealth Act,” and insert:
-made under the Fair Work Act 2009 (Commonwealth) or continued in existence under the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Commonwealth),
-36.Section 80H amended
-In section 80H(6) delete “Commonwealth Act” and insert:
-Fair Work (Registered Organisations) Act 2009 (Commonwealth)
-37.Section 80ZJ amended
-In section 80ZJ(1) delete “Commonwealth Act” and insert:
-Fair Work Act 2009 (Commonwealth)
-Note:The heading to amended section 80ZJ is to read:
-Exercise of powers conferred under Fair Work Act
-38.Section 97VS amended
-In section 97VS(5)(a) delete “under the Commonwealth Act,” and insert:
-made under the Fair Work Act 2009 (Commonwealth) or continued in existence under the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Commonwealth),
-39.Various references to “the Australian Commission” amended
-In the provisions listed in the Table delete “the Australian Commission” (each occurrence) and insert:
-Fair Work Australia
-Table
-s. 7(1) def. of secondary office | s. 14A
-s. 14B(1) | s. 22(2)(c)
-s. 29AA(1) and (2) | s. 80ZF
-s. 80ZG(1), (2) and (3) | s. 80ZH(1), (2), (3) and (4)
-s. 80ZI(2) and (3)
-Notes:
-1.The heading to amended section 80ZF is to read:
-References to Fair Work Australia
-2.The heading to amended section 80ZH is to read:
-Reference of industrial matters to Fair Work Australia for determination under this Act
-Division 4 — Other amendments
-40.Section 7 amended
-(1) In section 7(1) delete the definitions of:
-Council
-deputy registrar
-industrial inspector
-Registrar
-(2) In section 7(1) insert in alphabetical order:
-CEO means the chief executive officer of the Department;
-Department means the department of the Public Service principally assisting the Minister in the administration of this Act;
-departmental officer means a person employed in the Department as referred to in section 99C(2);
-deputy registrar means a person designated as a deputy registrar under this Act;
-industrial inspector means a person designated as an industrial inspector under this Act;
-officer of the Commission means —
-(a)the Registrar, a deputy registrar or any other Registrar’s Department officer assisting the Commission in the performance of its functions; or
-(b)an officer appointed under section 93(1a);
-officer of the Court means the clerk of the Court or any other Registrar’s Department officer assisting the Court in the performance of its functions;
-Registrar means the chief executive officer of the Registrar’s Department or, if another person is designated as the Registrar under this Act, that person;
-Registrar’s Department means the department of the Public Service known as the Department of the Registrar Western Australian Industrial Relations Commission;
-Registrar’s Department officer means a person employed in the Registrar’s Department as referred to in section 99C(3);
-41.Section 29A amended
-Delete section 29A(2a) and insert:
-(2A) The Chief Commissioner may, if of the opinion that it is appropriate to do so in the circumstances, direct that the area and scope provisions of the proposed award or industrial agreement —
-(a) need not be published in the Industrial Gazette; or
-(b) need not be published at all.
-42.Section 81AA amended
-Delete section 81AA(bb).
-43.Section 85 amended
-Delete section 85(7) and insert:
-(7) Subject to subsection (9), the chief executive officer of the Registrar’s Department is to be the clerk of the Court.
-(8) The Public Sector Management Act 1994 section 32(1) does not apply to the performance of functions of the clerk of the Court by the chief executive officer of the Registrar’s Department.
-(9) The chief executive officer of the Registrar’s Department may designate a Registrar’s Department officer as the clerk of the Court.
-44.Section 93 amended
-(1) Delete section 93(1) and insert:
-(1) Subject to subsection (1AB), the chief executive officer of the Registrar’s Department is to be the Registrar.
-(1AA) The Public Sector Management Act 1994 section 32(1) does not apply to the performance of functions of the Registrar by the chief executive officer of the Registrar’s Department.
-(1AB) The chief executive officer of the Registrar’s Department may, after consultation with the Chief Commissioner, designate a Registrar’s Department officer as the Registrar.
-(1AC) The Registrar may designate a Registrar’s Department officer as a deputy registrar.
-(1AD) There are to be as many deputy registrars as are necessary for the purposes of this Act.
-(2) In section 93(1a) delete “appointed under and subject to Part 3 of the Public Sector Management Act 1994.” and insert:
-public service officers.
-(3) After section 93(2) insert:
-(3A) Subsection (2) applies despite the Public Sector Management Act 1994 but if the chief executive officer of the Registrar’s Department is the Registrar, nothing in that subsection affects the functions of the Registrar as chief executive officer.
-45.Section 98 amended
-Delete section 98(1) and insert:
-(1) The CEO may designate a departmental officer as an industrial inspector.
-(2A) There are to be as many industrial inspectors as are necessary to perform the functions conferred on industrial inspectors by this Act or any other written law.
-46.Sections 99A to 99D inserted
-After section 98 insert:
-99A.Identity card
-(1) Every industrial inspector is to be provided with an identity card signed by the CEO or a departmental officer authorised in that behalf by the CEO.
-(2) An identity card purporting to have been provided under subsection (1) is, without proof of the signature of the person purporting to have signed it or of the person’s authority to have signed it, evidence in a court —
-(a) of the appointment to which the identity card purports to relate; and
-(b) of any other matter specified on the identity card.
-(3) If the designation of a person under section 98(1) is revoked or ceases to have effect, the person must, as soon as practicable, but within 21 days, after the designation is revoked or ceases to have effect, return the identity card to the CEO or a departmental officer authorised by the CEO to receive it, unless the person has a reasonable excuse.
-Penalty: a fine of $2 000.
-99B.Production of identification
-(1) An industrial inspector must, if requested to do so by a person in respect of whom the industrial inspector has exercised, or is about to exercise, a power under this Act or any other written law, produce the industrial inspector’s identity card for the person’s inspection.
-(2) Subsection (1) only applies if the industrial inspector is in the physical presence of the person in respect of whom the power has been, or is about to be, exercised.
-(3) If for any reason it is not practicable to comply with subsection (1), the industrial inspector must produce the identity card for inspection by the person at the first reasonable opportunity.
-99C.Staff
-(1) In this section —
-employed in the Department or the Registrar’s Department includes seconded to perform functions or services for, or duties in the service of, that department.
-(2) As many public service officers are to be employed in the Department as are necessary for the purposes of this Act.
-(3) As many public service officers are to be employed in the Registrar’s Department as are necessary —
-(a) for the performance of the Court’s functions; and
-(b) for the performance of the Commission’s functions; and
-(c) otherwise for the purposes of this Act.
-99D.Designation of officers, generally
-(1) This section applies to the following —
-(a) the designation of a person under section 85(9) to be the clerk of the Court;
-(b) the designation of a person under section 93(1AB) to be the Registrar;
-(c) the designation of a person under section 93(1AC) to be a deputy registrar;
-(d) the designation of a person under section 98(1) to be an industrial inspector.
-(2) A designation is to be in writing and the Interpretation Act 1984 section 52 applies to it in the same way as that section applies to an appointment.
-(3) A designation referred to in subsection (1)(a), (b) or (c) ceases to have effect if the person designated ceases to be a Registrar’s Department officer.
-(4) A designation referred to in subsection (1)(d) ceases to have effect if the person designated ceases to be a departmental officer.
-(5) The chief executive officer of the Registrar’s Department, the Registrar or the Minister, as the case may be, may, in writing, delegate the power to make a designation to another person.
-47.Section 113 amended
-(1) Delete section 113(1)(d)(ii)(III) (first occurrence) and insert:
-(IIIA) the Owner-Drivers (Contracts and Disputes) Act 2007; and
-(2) After section 113(1)(d)(ii)(III) (second occurrence) and (IV) insert:
-and
-48.Various references to “the Council” amended
-In the provisions listed in the Table delete “the Council” (each occurrence) and insert:
-UnionsWA
-Table
-s. 29A(2)(a)(i) and (b) | s. 31(1)(c)(i)
-s. 38(1) and (1a)(a) | s. 40B(2) and (3)(a)
-s. 47(5)(a) | s. 50(2)
-s. 51A(1) | s. 51BA(1)(a)
-s. 51I(2)(a) | s. 51J(a)
-s. 51K | s. 97VZ(3) def. of peak industrial body
-s. 112A(1a)(a) and (3)(c)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-a revocation order97XG(b)(ii), 97XI(1)
+a revocation order97XG, 97XI(1)
 alteration7(1)
 applicable order48A(3)
 applicant97WR
 application103(3)
 apprentice7(1)
 arbitration functions32A(1)
+Arbitrator80C(1), Sch. 3, cl. 1
 arbitrator97WH
-Arbitrator80C(1), Sch. 3 cl. 1
 area and scope provisions29A(1a)
 association7(1)
 Association80C(1)
-Australian Commission7(1), 80ZF
 authorised representative49G
 award7(1), 46(5), 97U(1), 97UG(7), 97VR, 97YA(3)
 bargaining agent51O(1), 97U(1)
@@ -379,11 +216,12 @@ breach103(3)
 calling7(1)
 cancellation agreement97U(1)
 canvasser7(1)
+CEO7(1)
 Chamber7(1)
 Chief Commissioner7(1)
 Chief Magistrate81B(6)
 civil penalty provision7(1)
-collective agreement51O(2)(a)
+collective agreement51O(2)
 collegiate electoral system52
 commencement16(2E)
 commencement day20(8b)
@@ -399,12 +237,13 @@ constituent authority7(1)
 conveyance98(6)
 corporation96H(3)
 corresponding authority80ZI(3)
-Council7(1)
 counterpart Federal body71(1), 71A(1)
 Court7(1)
 day of execution97UY(6)
 decision7(1), 84(1)
 declaration7(1)
+Department7(1)
+departmental officer7(1)
 deputy registrar7(1)
 designated deputy registrar95(3)
 direct voting system52
@@ -412,17 +251,19 @@ discriminatory action96E(4)
 dispute97WH
 EEA7(1), 97WB(2)
 EEA dispute provisions97U(1)
-employee7(1), 51O(2)(b), 97U(2) and (3)
-employer7(1), 51O(2)(e), 80C(1), 97U(2) and (3)
+employed99C(1)
+employee7(1), 51O(2), 97U(2), 97U(3)
+employer7(1), 51O(2), 80C(1), 97U(2), 97U(3)
 employer-employee agreement7(1)
 employing authority80C(1)
-employment51O(2)(d)
+employment51O(2)
 employment claim23B(1)
 employment record7(1)
 employment services for persons with disabilities97U(1)
 enterprise72A(1)
 enterprise order7(1), 42I(1)
 existing employee97U(1)
+Fair Work Australia7(1), 80ZF
 final offer arbitration7(1)
 finance official74(1)
 finding7(1)
@@ -459,24 +300,26 @@ Mines and Metals Association7(1)
 negotiating party40C, 51O(1)
 new employee97U(1)
 no-disadvantage test97U(1)
-nominal expiry date42(8), 51O(2)(e)
+nominal expiry date42(8), 51O(2)
 occupier49L(2)
 office7(1)
 officer7(1)
+officer of the Commission7(1)
+officer of the Court7(1)
 one-tier collegiate electoral system52
-organisation7(1), 51O(1), 72A(1), 72B(2)(a), 80H(6), 96A
+organisation7(1), 51O(1), 72A(1), 72B(2), 80H(6), 96A
 organisation of employees96A
 original term56A(4)
-party38(1b), 91(2), 97U(1), 97VC(5), Sch. 4 cl. 1(3)
+party38(1b), 91(2), 97U(1), 97VC(5), Sch. 4, cl. 1(3)
 peak industrial body97VZ(3)
 person with a mental disability97WR
 plenary guardian97WS(4)
 postal ballot52
 post-secondary education institution7(1)
 premises7(1)
-prescribed amount29AA(5)
 prescribed period40C, 42A(1)
 prescribed salary80I(2)
+prescribed amount29AA(5)
 President7(1), 20(13)
 presiding judge7(1)
 principal executive officer7(1)
@@ -494,6 +337,8 @@ published in the required manner7(1)
 railway officer80M(1)
 record7(1)
 Registrar7(1), 96(1)
+Registrar’s Department7(1)
+Registrar’s Department officer7(1)
 registration7(1)
 regulations97U(1)
 relevant employee49G
@@ -517,21 +362,21 @@ subscription7(1)
 supported wage provisions97U(1)
 Supported Wage System97U(1)
 teacher80C(1)
-the adopting provision71A(2)
-the affected person23B(1)(a)
-the auditor65(a)
+the affected person23B(1)
+the auditor65
 the Commission49(1)
 the employees36A(1)
 the exposure draft97WA(1)
 the first agreement41(8)
 the new award36A(1)
-the original dispute97WK(1)(a)
+the original dispute97WK(1)
 the principal7(6)
 the proposed representative97WV(3), 97XM(3)
 the representative97X, 97XO
 the represented person97X, 97XO
 the respondent77(1)
 the State rules71A(2)
+the adopting provision71A(2)
 third party23B(1)
 threats48B(5)
 transport Minister80M(1)
