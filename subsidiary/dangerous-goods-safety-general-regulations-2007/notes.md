@@ -4,48 +4,18 @@ Compilation table
 Citation | Gazettal | Commencement
 Dangerous Goods Safety (General) Regulations 2007 | 31 Dec 2007 p. 7143-60 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
 Dangerous Goods Safety (General) Amendment Regulations 2010 | 22 Jun 2010 p. 2780-2 | r. 1 and 2: 22 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2010 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Dangerous Goods Safety (General) Amendment Regulations 2012 r. 3 and 4 | 16 Mar 2012 p. 1257-9 | 1 Apr 2012 (see r. 2(b))
-On the date as at which this compilation was prepared, the Dangerous Goods Safety (General) Amendment Regulations 2012 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Dangerous Goods Safety (General) Regulations 2007.
-4.Part 6 inserted
-After regulation 13 insert:
-Part 6 — Miscellaneous matters
-14.Fees, Chief Officer may reduce etc.
-If, in the circumstances of a particular case in which a fee is payable under the Act, the Chief Officer thinks it is fair or reasonable to do so, he or she may reduce, or refund or waive all or part of, the fee.
-15.Licences, Chief Officer may synchronise duration of and date for payment of annual fees for
-(1) In this regulation —
-licence means —
-(a)any of these licences granted under the Dangerous Goods Safety (Explosives) Regulations 2007 —
-(i)an explosives import/export licence;
-(ii)an explosives manufacture licence;
-(iii)an explosives manufacture (MPU) licence;
-(iv)an explosives storage licence;
-(v)an explosives transport licence;
-(vi)an explosives supply licence;
-(b)any of these licences granted under the Dangerous Goods Safety (Security Risk Substances) Regulations 2007 —
-(i)an SRS import/export licence;
-(ii)an SRS manufacture licence;
-(iii)an SRS storage licence;
-(iv)an SRS transport licence;
-(v)an SRS supply licence;
-(vi)an SRS fertiliser licence;
-(c)a licence granted under the Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 Part 4;
-(d)a registration for a dangerous goods pipeline granted under the Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 Part 5.
-(2) This regulation operates despite the following —
-(a) the Dangerous Goods Safety (Explosives) Regulations 2007 regulation 167;
-(b) the Dangerous Goods Safety (Security Risk Substances) Regulations 2007 regulation 35;
-(c) the Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 regulations 34 and 97.
-(3) If a person holds 2 or more licences, the Chief Officer, with the person’s consent —
-(a) may reduce the duration of one or more of them in order that all of them will, due to the passage of time, expire simultaneously; and
-(b) may set for all or some of the licences one date in each year as the date on which any fee payable each year for each licence is due (the due date).
-(4) If under subregulation (3)(a) the Chief Officer decides to reduce the duration of a licence —
-(a) he or she must cancel the licence and issue a replacement in identical terms that specifies the date on which the licence will expire; and
-(b) the reduction takes effect on the day on which the replacement licence is issued.
-(5) If under subregulation (3)(b) the Chief Officer decides to set a due date, he or she must give the holder of the licences written notice of —
-(a) the due date; and
-(b) each licence to which the due date applies; and
-(c) each fee to which the due date applies.
+Dangerous Goods Safety (General) Amendment Regulations 2012 | 16 Mar 2012 p. 1257-9 | r. 1 and 2: 16 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2012 (see r. 2(b))
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Act3
+ADG Code3
+combustible liquid3
+Dangerous Goods List4(1)
+due date15(3)
+flashpoint3
+Form3
+licence15(1)
+register9(1)
+section3
+UNTC3
