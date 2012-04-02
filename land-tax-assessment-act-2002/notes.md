@@ -23,11 +23,8 @@ Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep
 Land Tax Assessment Amendment Act 2010 | 27 of 2010 | 7 Jul 2010 | Act other than s. 1 and 2: 1 Jul 2010 (see s. 2(b)(ii)); s. 1 and 2: 7 Jul 2010 (see s. 2(a))
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 33 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
 Reprint 3: The Land Tax Assessment Act 2002 as at 11 Feb 2011 (includes amendments listed above)
-Metropolitan Redevelopment Authority Act 2011 s. 140 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Building Act 2011 s. 164 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
+Metropolitan Redevelopment Authority Act 2011 s. 140 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Under the Public Sector Management Act 1994 the designations of departments can be changed. At the time of this compilation the designation of the Department of Mines has been changed to the Department of Mines and Petroleum.
@@ -44,13 +41,6 @@ The Commissioner of State Revenue must make any reassessment necessary to give e
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment in the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 33(4) is not included because the subsection it sought to amend had been deleted by the Revenue Laws Amendment (Taxation) Act 2009 s. 9 before the amendment purported to come into operation.
 The amendment in the State Superannuation Amendment Act 2007 s. 83 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Building Act 2011 s. 164 had not come into operation. It reads as follows:
-164.Land Tax Assessment Act 2002 amended
-(1) This section amends the Land Tax Assessment Act 2002.
-(2) In section 39(b) delete “Part XV of the Local Government (Miscellaneous Provisions) Act 1960” and insert:
-the Building Act 2011
-(3) In the Glossary clause 1 in the definition of commencement date paragraph (b) delete “building licence for the construction or refurbishment is issued under Part XV of the Local Government (Miscellaneous Provisions) Act 1960;” and insert:
-building permit for the work is granted under the Building Act 2011;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
