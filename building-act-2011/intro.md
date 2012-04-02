@@ -1,6 +1,5 @@
 Western Australia
 Building Act 2011
-No. 24 of 2011
 An Act to provide for the following —
 ·permits for building work and demolition work;
 ·standards for the construction and demolition of buildings and incidental structures;
