@@ -22,12 +22,12 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 75 | 8 of 2009 | 21 
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Building Services (Complaint Resolution and Administration) Act 2011 Pt. 10 Div. 1 | 16 of 2011 | 25 May 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475)
 Building Services (Registration) Act 2011 Pt. 10 Div. 1 | 19 of 2011 | 22 Jun 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
+Building Act 2011 s. 163 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 22 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Caravan Parks and Camping Grounds Act 1995 s. 33 | 34 of 1995 | 29 Sep 1995 | To be proclaimed (see s. 2)
-Building Act 2011 s. 163 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 The Building Legislation Amendment Act 2000 s. 59 and 62 read as follows:
 “
 59.References to Committee in other written laws
@@ -45,21 +45,49 @@ Schedule 2 item 3 reads as follows:
 “
 3. | Home Building Contracts Act 1991 | In the definition of “dwelling” in section 3(1), insert after “residence” the following — “, but does not include a park home, as defined in the Caravan Parks and Camping Grounds Act 1995 ”.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Building Act 2011 s. 163 had not come into operation. It reads as follows:
-163.Home Building Contracts Act 1991 amended
-(1) This section amends the Home Building Contracts Act 1991.
-(2) In section 8(1)(a) delete “building surveyor or other”.
-(3) Delete section 8(5).
-(4) In section 9(1)(a) delete “licence being issued,” and insert:
-permit being granted,
-(5) In section 9(1)(b) delete “licence” and insert:
-permit
-(6) In section 25A in the definition of cost of the building work delete “licence under Part XV of the Local Government (Miscellaneous Provisions) Act 1960;” and insert:
-permit;
-(7) In section 25C(3)(b)(ii) delete “licence issued” and insert:
-permit granted
-(8) In section 25J(3) delete “licence issued” and insert:
-permit granted
-(9) In section 25J(5)(b) delete “licence for the residential building work is issued,” and insert:
-permit for the residential building work is granted,
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+approved fund25A
+associated work3(1)
+authorised person26(3), 31B(1)
+builder3(1), 25A
+Builders’ Registration Board3(1)
+Building Commissioner3(1)
+building contract25A
+building licence3(1)
+building permit3(1)
+building service contractor25A
+construct3(1)
+contract3(1), 7(5)
+corresponding cover25A
+cost of the building work25A
+cost plus contract3(1)
+date of the contract3(1)
+date of the variation3(1)
+defect11(2)
+developer25A, 25L(1)
+dwelling3(1)
+home building work3(1)
+home building work contract3(1)
+insolvency25A
+insurance25B(5)
+minimum amount25A
+officer30(2)
+owner3(1)
+owner-builder25A
+perform3(1)
+practical completion11(2)
+prescribed3(1)
+purchaser25L(1)
+repealed Act3(1)
+rescind25A
+residential building work25A
+residential building work contract25A
+rise-and-fall clause13(3)
+sale contract25A
+settlement25A
+specified period25J(1), 25K(1)
+strata-titled dwelling3(1)
+the Water Act9(6)
+working days3(1)

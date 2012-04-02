@@ -43,11 +43,11 @@ Compilation table
  | Reprint 6: The Strata Titles Act 1985 as at 25 Jul 2008 (includes amendments listed above except those in the Legal Profession Act 2008)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 37 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Building Act 2011 s. 174 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Building Act 2011 s. 174 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
 “
 (5) A plan registered under the principal Act before the provision inserted by subsection (3) came into operation is declared to be, and to have always been, valid if it would have been valid at the time of registration had that provision been then in operation.
@@ -144,79 +144,26 @@ On the date as at which this compilation was prepared, the State Superannuation 
 Section 73(1)(g)(i) of the Strata Titles Act 1985 is amended by deleting “, and in particular his rights, if any, under the Superannuation and Family Benefits Act 1938.”.
 ”.
 The section that it seeks to amend has been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1125.
-On the date as at which this compilation was prepared, the Building Act 2011 s. 174 had not come into operation. It reads as follows:
-174.Strata Titles Act 1985 amended
-(1) This section amends the Strata Titles Act 1985.
-(2) In section 5B(2) delete “by a certificate given by the local government in accordance with section 23.” and insert:
-by —
-(a) an occupancy permit granted under an application mentioned in the Building Act 2011 section 50(1)(a); or
-(b) a building approval certificate granted under an application mentioned in the Building Act 2011 section 50(1)(b).
-(3) In section 8A(f) delete “by a certificate given by the local government containing, subject to appropriate and necessary modifications, the same particulars as are required by section 23 and the local government shall not issue a certificate for the purposes of this paragraph unless satisfied, subject to appropriate and necessary modifications, in respect of the matters referred to in section 23(2);” and insert:
-by —
-(i) an occupancy permit granted under an application mentioned in the Building Act 2011 section 50(2)(a); or
-(ii) a building approval certificate granted under an application mentioned in the Building Act 2011 section 50(2)(b);
-(4) In section 21R(1)(a) after “subject of” insert:
-a building permit under the Building Act 2011 or
-(5) In section 21U(2):
-(a) in paragraph (a) after “subject of” insert:
-a building permit under the Building Act 2011 or
-(b) at the end of paragraphs (a) and (b) insert:
-and
-(6) Delete section 23.
-(7) Delete section 24(1).
-(8) In section 24(2) delete “satisfied that the proposed development will not be contrary to any of the requirements referred to in section 23(2)(a), (b) and (c).” and insert:
-satisfied, in relation to the proposed development, that —
-(a) separate occupation of the proposed lots will not contravene the provisions of any local planning scheme in force under the Planning and Development Act 2005; and
-(b) any consent or approval required under any such local planning scheme or under the provisions of the last-mentioned Act relating to any interim development order, has been given in relation to the separate occupation of the proposed lots; and
-(c) the development of the parcel as a whole, the building and the proposed subdivision of the parcel into lots for separate occupation will not interfere with the existing or likely future amenity of the neighbourhood, having regard to the circumstances of the case and to the public interest.
-(9) Delete section 24(7) and (8).
-(10) In section 26(1):
-(a) delete paragraphs (a) to (i);
-(b) in paragraph (j) delete “a proposed development will not be contrary to any of the matters referred to in section 23(2)(a), (b) and (c);” and insert:
-the local government is satisfied as to the matters referred to in section 24(2)(a), (b) and (c) in relation to a proposed development;
-(c) delete paragraph (l).
-(11) In section 26(5)(a) delete “(1)(c), (e), (f), (g), (j), (k), (l)(ii),” and insert:
-(1)(j), (k),
-(12) After section 132 insert:
-Part VIII — Transitional provisions for amendments made to this Act
-Division 1 — Transitional provisions arising from certain amendments made by the Building Act 2011
-133.Terms used
-In this Division —
-amendments means the amendments made by the Building Act 2011 section 174;
-commencement day means the day on which the Building Act 2011 section 174 comes into operation.
-134.Certificates of local government required by s. 5B(2)
-A strata plan that was lodged for registration, but not registered, before commencement day must be dealt with as if the amendments had not been made.
-135.Certificates of local government required by s. 8A(f)
-An application to register a plan of re-subdivision of a lot in a strata scheme that was started, but not finalised, before commencement day must be dealt with as if the amendments had not been made.
-136.Applications for certificates of local government and review of related decisions
-(1) In this section —
-application means an application as defined in section 26(1) as in force immediately before commencement day.
-(2) An application that was started, but not finalised, before commencement day must be dealt with as if the amendments had not been made.
-(3) A review under section 26 of an application mentioned in subsection (2) must be dealt with as if the amendments had not been made.
-(4) A review under section 26 that was started, but not finalised, before commencement day must be dealt with as if the amendments had not been made.
-(5) If a certificate that had been required by section 5B(2) and 8A(f) before the amendments is given by a local government as a consequence of —
-(a) an application mentioned in subsection (2); or
-(b) a review mentioned in subsection (3) or (4),
-sections 5B(2) and 8A(f) are to be read as if that particular certificate must accompany the plan.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 a disposition statement8B(2), 21V(2), 31H(2)
 acquiring authority29B(4)
 administrator3(1)
-application26(1), 27(1)
-appointed daySch. 3 cl. 1(1)
+amendments133
+application26(1), 27(1), 136(1)
+appointed daySch. 3, cl. 1(1)
 Authority3(1)
 base lines3(1)
 building3(1), 53
 camping ground122A(3)
 caravan park122A(3)
 change-over day21K
-commencement day21K
+commencement day21K, 133
 Commission3(1)
 Commissioner of Titles129A(5), 129B(6)
 common property3(1)
-companySch. 3 cl. 1(1)
+companySch. 3, cl. 1(1)
 contract68
 council3(1)
 date of the contract70(8)
@@ -224,13 +171,13 @@ existing small strata scheme21A
 floor3(1)
 floor area3(1)
 floor plan3(1)
-former ActSch. 3 cl. 1(1)
-former by-lawSch. 3 cl. 1(1)
-former common propertySch. 3 cl. 1(1)
-former lotSch. 3 cl. 1(1)
-former parcelSch. 3 cl. 1(1)
-former proprietorSch. 3 cl. 1(1)
-former strata schemeSch. 3 cl. 1(1)
+former ActSch. 3, cl. 1(1)
+former by-lawSch. 3, cl. 1(1)
+former common propertySch. 3, cl. 1(1)
+former lotSch. 3, cl. 1(1)
+former parcelSch. 3, cl. 1(1)
+former proprietorSch. 3, cl. 1(1)
+former strata schemeSch. 3, cl. 1(1)
 interim order82(1)
 land3(1)
 licensed surveyor3(1)
@@ -249,25 +196,25 @@ parcel3(1)
 permitted boundary deviation3(1)
 person concerned3(1)
 plot ratio3(1)
-post-1985 companySch. 4 cl. 1
+post-1985 companySch. 4, cl. 1
 prescribed3(1)
-proprietor3(1), 53A(c)
+proprietor3(1), 53A
 purchaser68
 real estate agent70(8)
 Register3(1)
 registered interest15(5)
 Registrar of Titles3(1), 129C(6)
 replacement value53
-resolution without dissent3(1), 3AC
+resolution without dissent3(1)
 re-subdivision3(1)
 retired person6A(3)
-scheme3(1), 53A(a)
+scheme3(1), 53A
 settlement69D(6)
 settlement agent70(8)
 single tier strata scheme3(1)
-site value14(2a)(b)
+site value14(2a)
 special resolution3(1)
-strata company3(1), 53A(b), 54(1)
+strata company3(1), 53A, 54(1)
 strata plan3(1)
 strata scheme3(1)
 strata/survey-strata plan3(1)
@@ -280,14 +227,14 @@ taken3(1)
 taking3(1)
 taking order29C(3)
 the allowed period7B(2)
-the dominant lot5D(2)(b)
+the dominant lot5D(2)
 the proprietor in default103B(1)
 the proxy50A(1)
-the servient lot5D(2)(b)
-the sketch plan21T(1)(b)
-the termination daySch. 3 cl. 12(2)
+the servient lot5D(2)
+the sketch plan21T(1)
+the termination daySch. 3, cl. 12(2)
 the transition period123A(2), 123C(2)
-transition periodSch. 4 cl. 1
+transition periodSch. 4, cl. 1
 two-lot scheme3(1)
 unanimous resolution3(1)
 unit entitlement3(1)

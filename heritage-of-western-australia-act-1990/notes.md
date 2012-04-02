@@ -30,11 +30,11 @@ Acts Amendment (Bankruptcy) Act 2009 s. 41 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Heritage and Planning Legislation Amendment Act 2011 Pt. 2 | 4 of 2011 | 2 Mar 2011 | 3 Mar 2011 (see s. 2(b))
 Reprint 4: The Heritage of Western Australia Act 1990 as at 17 Jun 2011 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Building Act 2011 s. 162 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Building Act 2011 s. 162 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. See also note 5.
 The Taxation Administration (Consequential Provisions) Act 2002 contains transitional provisions that may be relevant to this Act.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28, 42 and 53 deal with certain transitional issues some of which may be relevant for this Act.
@@ -51,7 +51,7 @@ the HWA Act means the Heritage of Western Australia Act 1990.
 (5) On and after the commencement day, a reference in the HWA Act section 37(4) to a finding made by the State Administrative Tribunal on a reference in relation to the same or a related matter under the HWA Act section 37(3) is to be taken to include a reference to such a finding lawfully made by the Town Planning Appeal Tribunal before the commencement day.
 (6) If, before the commencement day, the Minister is required in accordance with the HWA Act section 73(4) (as in force when the requirement was received by the Minister) to refer a question to the Town Planning Appeal Tribunal but does not do so before the commencement day, on and after the commencement day the Minister must refer the question to the State Administrative Tribunal as if the requirement had referred to the State Administrative Tribunal and not to the Town Planning Appeal Tribunal.
 (7) If, before the commencement day, the Minister is requested in accordance with the HWA Act section 76(1) (as in force when the requirement was received by the Minister) to refer a question to the Town Planning Appeal Tribunal but does not do so before the commencement day, on and after the commencement day the Minister must refer the question to the State Administrative Tribunal as if the request had referred to the State Administrative Tribunal and not to the Town Planning Appeal Tribunal.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed
@@ -59,31 +59,6 @@ Act | Provision
 .......................... | ........
 Heritage of Western Australia Act 1990 | s. 27(4)
 ...................... | ........
-On the date as at which this compilation was prepared, the Building Act 2011 s. 162 had not come into operation. It reads as follows:
-162.Heritage of Western Australia Act 1990 amended
-(1) This section amends the Heritage of Western Australia Act 1990.
-(2) After section 11(3) insert:
-(4A) Subsections (2) and (3)(a) and (b) do not apply to an application for a building permit or demolition permit under the Building Act 2011 if it appears from the application that that applicant has already referred the proposal to the Council and the Council has given its advice in relation to the proposal.
-(3) In section 11(4)(b) delete “permission,” and insert:
-permission (including a building permit or demolition permit under the Building Act 2011),
-(4) In section 34(2) delete “Local Government (Miscellaneous Provisions) Act 1960” (each occurrence) and insert:
-Building Act 2011
-(5) In section 75(2) after “permission” insert:
-(including a building permit or demolition permit under the Building Act 2011)
-(6) In section 75(3)(a)(i) delete “Local Government (Miscellaneous Provisions) Act 1960;” and insert:
-Building Act 2011;
-(7) Delete section 78(1)(c) and insert:
-(c) applications under the Building Act 2011 for a building permit or demolition permit;
-(8) In section 78(2):
-(a) delete “approval or licence” and insert:
-approval, building permit or demolition permit
-(b) delete “licence or” and insert:
-permit or
-(9) In section 78(3):
-(a) delete “licences” and insert:
-permits
-(b) delete “licence” and insert:
-permit
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

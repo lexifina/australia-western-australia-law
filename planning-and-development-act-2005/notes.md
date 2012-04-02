@@ -16,12 +16,12 @@ Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 1, Pt. 3, 4
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 2: The Planning and Development Act 2005 as at 18 Feb 2011 (includes amendments listed above, except those in the Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 3)
 Heritage and Planning Legislation Amendment Act 2011 Pt. 3 | 4 of 2011 | 2 Mar 2011 | 3 Mar 2011 (see s. 2(b))
+Building Act 2011 s. 168 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Metropolitan Redevelopment Authority Act 2011 s. 141 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
-Building Act 2011 s. 168 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Repealed by the Land Administration Act 1997.
 Repealed by the Water Resources Legislation Amendment Act 2007.
 Repealed by the Mining Act 1978.
@@ -172,21 +172,6 @@ Any approval of the Commission endorsed on a diagram or plan of survey of a stag
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
 Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
 The Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 56(4) is a transitional provision that is of no further effect.
-On the date as at which this compilation was prepared, the Building Act 2011 s. 168 had not come into operation. It reads as follows:
-168.Planning and Development Act 2005 amended
-(1) This section amends the Planning and Development Act 2005.
-(2) In section 129(1)(a) and (2)(a) delete “1960 or any written law for which the latter Act is in substitution; and” (each occurrence) and insert:
-1960; and
-(3) In section 131(1) delete “section 433A of the Local Government (Miscellaneous Provisions) Act 1960, the local planning scheme” and insert:
-the Building Act 2011, the regulation
-(4) In section 131(2):
-(a) delete “not”;
-(b) delete “section 433A of the Local Government (Miscellaneous Provisions) Act 1960.” and insert:
-the Building Act 2011.
-Note:The heading to amended s. 131 is to read:
-Building standards etc. to prevail
-(5) In section 136(3) in the definition of land paragraph (a) delete “or under an Act repealed by that Act, or a building licence to construct the building is in force under that section; and” and insert:
-(deleted by the Building Act 2011 section 153(2)) or a building permit granted under the Building Act 2011, or a building permit, occupancy permit or building approval certificate is in effect under the Building Act 2011 in respect of the building; and
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Port Authorities Act 1999 and includes the amendments made by the other written laws referred to in the following table 1a, 4. 7. The table also contains information about any reprint.
+This is a compilation of the Port Authorities Act 1999 and includes the amendments made by the other written laws referred to in the following table 4. 7. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Port Authorities Act 1999 | 22 of 1999 | 29 Jun 1999 | s. 1 and 2: 29 Jun 1999; Act other than s. 1 and 2 and Sch. 1 it. 2: 14 Aug 1999 (see s. 2 and Gazette 13 Aug 1999 p. 3823); Sch. 1 it. 2: 1 Jan 2000 (see s. 2 and Gazette 24 Dec 1999 p. 6871)
@@ -21,9 +21,6 @@ Reprint 2: The Port Authorities Act 1999 as at 4 Jul 2008 (includes amendments l
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 102 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Public Sector Reform Act 2010 s. 81 and 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Building Act 2011 s. 169 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 The Ports and Marine Legislation Amendment Act 2003 s. 4(2) reads as follows:
 “
@@ -113,23 +110,6 @@ statutory rule means a regulation, rule or by-law.
 is taken not to be valid, and to never have been valid.
 ”.
 The amendment in the State Superannuation Amendment Act 2007 s. 84 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Building Act 2011 s. 169 had not come into operation. It reads as follows:
-169.Port Authorities Act 1999 amended
-(1) This section amends the Port Authorities Act 1999.
-(2) In section 38(1) delete the definitions of:
-Building Code
-performance requirements
-responsible Minister
-(3) In section 38(1) in the definition of port authority delete “section 35(2);” and insert:
-section 35(2).
-(4) Delete section 38(2) and insert:
-(2) For the purposes of port works and port facilities, the Planning and Development Act 2005 section 6 applies to a port authority as if it were an agency of the Crown in right of the State.
-(5) In section 38(3) delete “subsection (2)(a).” and insert:
-subsection (2).
-(6) Delete section 38(4) and (5).
-(7) In section 38(6) delete “or building”.
-(8) In section 38(7) delete “responsible Minister,” and insert:
-Minister administering the Planning and Development Act 2005,
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -140,7 +120,6 @@ area24(3)
 authorised officer114A(2)
 authorised person123
 board3(1)
-Building Code38(1)
 business arrangement35(9)
 CEO3(1)
 channel3(1)
@@ -186,7 +165,6 @@ notifiable interest12(3)
 officerSch. 3 cl. 2(1)
 owner3(1), 105(1)
 participate35(9)
-performance requirements38(1)
 port3(1)
 port activities3(1), 35(9)
 port authority3(1), 38(1), 123
@@ -198,7 +176,6 @@ port works3(1), 35(9)
 Public Bank Account79(1)
 public service officer11(2)
 regulationsSch. 5 cl. 1(1)
-responsible Minister38(1)
 second lesseeSch 6. cl. 2.2
 second lessee appointeeSch 6 cl. 2.2
 sell27(3)
