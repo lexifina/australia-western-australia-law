@@ -2,42 +2,64 @@ Notes
 This is a compilation of the Building Services (Registration) Act 2011. The following table contains information about that Act.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Building Services (Registration) Act 2011 | 19 of 2011 | 22 Jun 2011 | s. 1 and 2: 22 Jun 2011 (see s. 2(a)) s. 3, Pt. 2-8, Pt. 9 other than s. 112 and Div. 3 Subdiv. 3, Pt. 10 Div. 1, s. 155, s. 156(1) and (4) and s. 157-159: 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Building Services (Registration) Act 2011 s. 112, Pt.9 Div. 3 Subdiv. 3, s. 155 (to the extent that it deletes the item relating to The Municipal Building Surveyors Examination Committee) and s. 156(2) and (3) | 19 of 2011 | 22 Jun 2011 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Building Services (Registration) Act 2011 s. 112, Pt.9 Div. 3 Subdiv. 3, s. 155 (to the extent that it deletes the item relating to The Municipal Building Surveyors Examination Committee) and s. 156(2) and (3) had not come into operation. They read as follows:
-Part 9 — Repeal, savings, transitional and other provisions
-112.Local Government (Building Surveyors) Regulations 2008 repealed
-The Local Government (Building Surveyors) Regulations 2008 are repealed.
-Division 3 — Savings and transitional matters
-Subdivision 3 — Building Surveyors
-138.Terms used
-In this Subdivision —
-commencement day means the day on which section 112 comes into operation;
-former committee means the Building Surveyors Qualifications Committee established under regulation 7 of the repealed regulations;
-repealed regulations means the Local Government (Building Surveyors) Regulations 2008.
-139.Registration of certificate holders
-A person who immediately before commencement day held a certificate of qualification granted under regulation 21 of the repealed regulations is taken to be registered under section 17 in a class of building service practitioner determined in accordance with the regulations for the period commencing on commencement day and ending on 1 February immediately following commencement day subject to such conditions, if any, as are prescribed by the regulations.
-140.Existing applications for certificate
-(1) An application for a certificate of qualification made under regulation 20 of the repealed regulations before commencement day that has not been finally determined before commencement day is to be dealt with and determined under the repealed regulations as if they had not been repealed.
-(2) For the purposes of subsection (1), a reference in the repealed regulations to the former committee is to be taken to be a reference to the Board.
-(3) A person who is granted a certificate on the determination of an application to which subsection (1) applies is to be taken to have held a certificate of qualification immediately before commencement day.
-141.Members of former committee
-A member of the former committee ceases to be a member on commencement day.
-142.Records of former committee
-On and after commencement day all records and data of the former committee pass to the Building Commissioner.
-143.Agreements and instruments generally
-Any agreement or instrument subsisting immediately before commencement day —
-(a) to which the former committee was a party; or
-(b) which contains a reference to the former committee,
-has effect on and after commencement day as if —
-(c) the Building Commissioner were substituted for the former committee as a party to the agreement or instrument; and
-(d) any reference in the agreement or instrument to the former committee were (unless the context otherwise requires) amended to be or include a reference to the Building Commissioner.
-155.Constitution Acts Amendment Act 1899 amended
-(2) In Schedule V Part 3 delete the items relating to:
-The Municipal Building Surveyors Examination Committee
-156.Local Government (Miscellaneous Provisions) Act 1960 amended
-(2) In section 364(3C) delete “building surveyor of the”.
-(3) Delete Part XV Division 1A.
+Building Services (Registration) Act 2011 | 19 of 2011 | 22 Jun 2011 | s. 1 and 2: 22 Jun 2011 (see s. 2(a)); s. 3, Pt. 2-8, Pt. 9 other than s. 112 and Div. 3 Subdiv. 3, Pt. 10 Div. 1, s. 155, s. 156(1) and (4) and s. 157-159: 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475-6); s. 112 & Pt. 9 Div. 3 Subdiv. 3, s. 155(2) (the item relating to The Municipal Building Surveyors Examination Committee) and s. 156(2) and (3): 2 Apr 2012 (see s. 2(b) and Gazette 30 Mar 2012 p. 1549)
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+amend3
+assets113, 125
+Board3
+body3
+Building Commissioner3
+building permit3
+building service3
+building service contractor3
+building service practitioner3
+Building Services Account3
+building work38
+CEO3
+class3
+commencement day113, 125, 138
+committee3
+complaint3
+condition3
+corporation3
+Corporations Act3
+Department3
+disqualified person16(1)
+document74(1)
+eligible person21(1)
+expiry day12(1), 12(2)
+former board113, 125
+former committee138
+ineligible person3
+information74(1)
+insolvent3
+jurisdiction3
+nominated supervisor3, 21(2)
+occupation group67(1)
+offence97(1)
+officer3
+owner38, 39(1)
+owner-builder38
+owner-builder approval38, 40(1)
+owner-builder work38
+prescribed building service3
+public authority3
+register3
+registered building service provider3
+registration3
+registration certificate3
+registration number3
+relevant building service22(1)
+relevant official144(1)
+relevant property144(1)
+repealed Act113, 125
+repealed regulations138
+report year94
+reviewable decision64(1)
+serious offence3
+specified103(3), 146(5)
+staff member of the former board120(1), 133(1)
+State tax145(1)
+transitional matter146(2)
