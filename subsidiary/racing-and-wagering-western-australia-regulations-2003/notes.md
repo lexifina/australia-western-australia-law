@@ -18,6 +18,7 @@ Reprint 2: The Racing and Wagering Western Australia Regulations 2003 as at 19 J
 Racing and Wagering Western Australia Amendment Regulations 2009 | 30 Oct 2009 p. 4320-1 | r. 1 and 2: 30 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
 Racing and Wagering Western Australia Amendment Regulations 2010 | 19 Nov 2010 p. 5740-1 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
 Racing and Wagering Western Australia Amendment Regulations 2011 | 4 Nov 2011 p. 4636-7 | r. 1 and 2: 4 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2012 (see r. 2(b))
+Racing and Wagering Western Australia Amendment Regulations (No. 2) 2011 | 3 Apr 2012 p. 1569 | r. 1 and 2: 3 Apr 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Apr 2012 (see r. 2(b))
 The Racing and Wagering Western Australia Amendment Regulations (No. 2) 2004 r. 5 reads as follows:
 5.Transitional provision
 (1) If, immediately before the expiry of the old Rules, an old warning off notice is in force in respect of a person under the old Rules then, on the expiry of the old Rules, the old warning off notice is to be taken to have been made by RWWA in accordance with regulation 72(1) of the Racing and Wagering Western Australia Regulations 2003 (as inserted by regulation 4 of these regulations).
