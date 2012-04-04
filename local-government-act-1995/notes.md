@@ -57,6 +57,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 516 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c)) and Gazette 13 Aug 2010 p. 3975)
+Local Government Amendment Act 2012 Pt. 2 | 2 of 2012 | 4 Apr 2012 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -240,6 +241,209 @@ On the date as at which this compilation was prepared, the Co-operatives Act 200
 (a) delete paragraph (d) and “or” after it;
 (b) after each of paragraphs (a) and (b) insert:
 or
+On the date as at which this compilation was prepared, the Local Government Amendment Act 2012 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Local Government Act 1995 amended
+Division 1 — Act amended
+3.Act amended
+This Part amends the Local Government Act 1995.
+Division 2 — Amendments about disqualification from membership of a council
+Subdivision 1 — Disqualification due to membership of parliament
+4.Section 2.19 amended
+In section 2.19(1):
+(a) delete paragraph (c);
+(b) in paragraph (d) after “section” insert:
+2.20,
+(c) after each of paragraphs (a) and (b) insert:
+and
+5.Section 2.20 amended
+In section 2.20(1) delete “from being elected as a member” and insert:
+for membership
+Note:The heading to amended section 2.20 is to read:
+Members of parliament disqualified
+6.Section 2.27 amended
+In section 2.27(1) in the definition of disqualified paragraph (b) after “section” insert:
+2.20,
+7.Section 2.28 amended
+In section 2.28 in the Table item 6 in the column headed “How elected” delete the passage that begins with “Elected at an” and ends with “extraordinary election” and insert:
+Elected at an extraordinary election to fill a vacancy arising by resignation including an election required under section 4.57 or 4.58 in respect of such an extraordinary election
+8.Section 2.33 deleted
+Delete section 2.33.
+9.Section 2.34 amended
+In section 2.34(1):
+(a) in paragraph (a) delete “2.32 or 2.33;” and insert:
+2.32; or
+(b) after paragraph (b) insert:
+or
+10.Section 4.8 amended
+In section 4.8(1) delete “or 2.33”.
+11.Section 4.16 amended
+Delete section 4.16(5).
+Subdivision 2 — Disqualification due to a conviction
+12.Section 2.22 amended
+(1) In section 2.22(1):
+(a) in paragraph (b) delete “offence.” and insert:
+offence; or
+(b) after paragraph (b) insert:
+(c) has been convicted on indictment of an offence for which the indictable penalty was or included —
+(i) imprisonment for life; or
+(ii) imprisonment for more than 5 years.
+(2) In section 2.22(3) insert in alphabetical order:
+indictable penalty means the penalty that the relevant law specified for the offence in the event of a person being convicted of the offence on indictment;
+offence means an offence against a law of this State, the Commonwealth, another State or a Territory;
+Division 3 — Amendments about fees etc. for council members and remuneration for CEOs
+13.Section 5.39 amended
+Delete section 5.39(7) and insert:
+(7) A CEO is to be paid or provided with such remuneration as is determined by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975 section 7A.
+(8) A local government is to ensure that subsection (7) is complied with in entering into, or renewing, a contract of employment with a CEO.
+14.Section 5.98 amended
+(1) Before section 5.98(1) insert:
+(1A) In this section —
+determined means determined by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975 section 7B.
+(2) In section 5.98(1):
+(a) in paragraph (a) delete “prescribed minimum fee” and insert:
+fee determined
+(b) in paragraph (b) delete “prescribed range” and insert:
+range determined
+(3) In section 5.98(2A):
+(a) in paragraph (a) delete “prescribed minimum fee” and insert:
+fee determined
+(b) in paragraph (b) delete “prescribed range” and insert:
+range determined
+(4) In section 5.98(3):
+(a) delete paragraph (a) and insert:
+(a) where the extent of reimbursement for the expense has been determined, to that extent; or
+(b) in paragraph (b) delete “prescribed range (if any) of” and insert:
+range determined for
+(5) In section 5.98(5):
+(a) in paragraph (a) delete “prescribed minimum annual local government allowance” and insert:
+annual local government allowance determined
+(b) in paragraph (b) delete “prescribed range” and insert:
+range determined
+15.Section 5.98A amended
+In section 5.98A(1) delete the passage that begins with “prescribed percentage” and continues to the end of the subsection and insert:
+percentage that is determined by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975 section 7B of the annual local government allowance to which the mayor or president is entitled under section 5.98(5).
+16.Section 5.99 amended
+Delete section 5.99(a) and (b) and insert:
+(a) the annual fee determined by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975 section 7B; or
+(b) where the local government has set a fee within the range for annual fees determined by that Tribunal under that section, that fee.
+17.Section 5.99A amended
+In section 5.99A:
+(a) in paragraph (a) delete “prescribed minimum annual allowance” and insert:
+annual allowance determined by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975 section 7B
+(b) in paragraph (b) delete “prescribed range” and insert:
+range determined by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975 section 7B
+18.Section 5.100 amended
+In section 5.100(2)(b) delete “prescribed” and insert:
+determined
+Division 4 — Amendments about investment of money held by local governments
+19.Section 6.14 amended
+(1) Delete section 6.14(1) and insert:
+(1) Money held in the municipal fund or the trust fund of a local government that is not, for the time being, required by the local government for any other purpose may be invested as trust funds may be invested under the Trustees Act 1962 Part III.
+(2A) A local government is to comply with the regulations when investing money referred to in subsection (1).
+(2) In section 6.14(2) after “may —” insert:
+(a) make provision in respect of the investment of money referred to in subsection (1); and
+Division 5 — Amendments about specified area rates and service charges
+20.Section 6.37 amended
+After section 6.37(5) insert:
+(6) Where —
+(a) before the coming into operation of the Local Government Amendment Act 2012 Part 2 Division 5, a specified area rate was imposed, or purportedly imposed, under this section by a local government for the purpose of the provision of underground electricity; and
+(b) the underground electricity was not, or will not, be provided, or not wholly provided, by the local government,
+the rate is, and is taken always to have been, as validly imposed under this section as it would have been if, at the time of the imposition of the rate, the local government were to provide the underground electricity.
+21.Section 6.38 amended
+(1) In section 6.38(1) delete “of providing a prescribed service” and insert:
+to the local government in the provision of a prescribed work, service or facility
+(2) In section 6.38(2)(b) delete “service.” and insert:
+work, service or facility.
+(3) In section 6.38(3)(b) and (4)(a) delete “service” and insert:
+work, service or facility
+(4) After section 6.38(6) insert:
+(7) This section applies in respect of a prescribed work, service or facility even if the work, service or facility is not provided, or not wholly provided, by a local government if the local government has facilitated or participated in the provision of the work, service or facility.
+(8) Where —
+(a) before the coming into operation of the Local Government Amendment Act 2012 Part 2 Division 5, a service charge was imposed, or purportedly imposed, under this section by a local government for the purpose of the provision of underground electricity; and
+(b) the underground electricity was not, or will not, be provided, or not wholly provided, by the local government,
+the charge is, and is taken always to have been, as validly imposed under this section as it would have been if, at the time of the imposition of the charge, the amendments effected by Local Government Amendment Act 2012 Part 2 Division 5 had been in effect and the provision of underground electricity had been a prescribed work.
+Division 6 — Amendments about peremptory suspension of councils or the undertaking of remedial action
+22.Part 8 Division 2A inserted
+After section 8.15A insert:
+Division 2A — Council may be peremptorily suspended or required to undertake remedial action
+8.15B.Notice that council may be peremptorily suspended or required to undertake remedial action
+(1) Before the Minister makes an order under section 8.15C(2), the Minister is to give a notice (a show cause notice) in writing to the local government of the intention to do one or both of the following —
+(a) suspend the council of the local government;
+(b) require the council, or one or more of the members of the council, to undertake such remedial action as is specified in the notice.
+(2) Within 21 days of receiving a show cause notice, or such longer period as the Minister allows, the local government is to give the Minister a written response to the notice.
+8.15C.Minister may order that council be peremptorily suspended or required to undertake remedial action
+(1) This section applies if the Minister thinks that —
+(a) the seriousness or duration of a suspected failure of the council of a local government to ensure that the local government performs its functions properly; or
+(b) such other factors as the Minister considers relevant,
+make it inappropriate for the council to act, or to continue to act, without intervention under this section, as the governing body of the local government, whether or not there has been an inquiry under Division 1.
+(2) The Minister may —
+(a) after receiving the local government’s response under section 8.15B(2); or
+(b) after the time allowed by or under section 8.15B(2) runs out, if no response has been received by then,
+by order, do one or more of the following —
+(c) suspend the council;
+(d) require the council, or one or more of the members of the council, to undertake such remedial action as is specified in the order.
+(3) An order under this section suspending a council ceases to have effect when —
+(a) an Inquiry Panel is appointed to conduct an inquiry and make a report about the local government; or
+(b) the council is reinstated by the Minister under section 8.28(3); or
+(c) the period of 6 months from when the order was made ends,
+whichever happens soonest.
+23.Section 8.19 amended
+(1) In section 8.19(1)(a) and (b) delete “to continue to act” (each occurrence) and insert:
+to act, or to continue to act,
+(2) In section 8.19(2) after “when the suspension” insert:
+under an order made under this section
+(3) After section 8.19(2) insert:
+(3) If a council is already suspended under section 8.15C, then an order may be made under subsection (1) extending the suspension of the council and, for the purpose of this Act, such an order is to be taken to be an order suspending the council made under this section.
+24.Section 8.28 amended
+In section 8.28(1) and (2) delete “a council” and insert:
+a council, other than an order made under section 8.15C(2),
+Division 7 — Amendments to Schedule 9.3
+25.Schedule 9.3 amended
+Delete the reference after the heading to Schedule 9.3 and insert:
+[Section 9.71]
+26.Schedule 9.3 Division 1 heading replaced and Schedule 9.3 Division 1 Subdivision 1 heading inserted
+Delete the heading to Schedule 9.3 Division 1 and insert:
+Division 1 — Provisions for Local Government Act 1995
+Subdivision 1 — Preliminary
+27.Schedule 9.3 Division 2 heading deleted and Schedule 9.3 Division 1 Subdivision 2 heading inserted
+Delete the heading to Schedule 9.3 Division 2 and insert:
+Subdivision 2 — Continuation of constitutional arrangements, membership and appointments
+28.Schedule 9.3 Division 3 heading deleted and Schedule 9.3 Division 1 Subdivision 3 heading inserted
+Delete the heading to Schedule 9.3 Division 3 and insert:
+Subdivision 3 — Electoral matters
+29.Schedule 9.3 Division 4 heading deleted and Schedule 9.3 Division 1 Subdivision 4 heading inserted
+Delete the heading to Schedule 9.3 Division 4 and insert:
+Subdivision 4 — Administration
+30.Schedule 9.3 Division 5 heading deleted and Schedule 9.3 Division 1 Subdivision 5 heading inserted
+Delete the heading to Schedule 9.3 Division 5 and insert:
+Subdivision 5 — Financial management and audit
+31.Schedule 9.3 Division 6 heading deleted and Schedule 9.3 Division 1 Subdivision 6 heading inserted
+Delete the heading to Schedule 9.3 Division 6 and insert:
+Subdivision 6 — Former by-laws, uniform general by-laws and regulations
+32.Schedule 9.3 Division 7 heading deleted and Schedule 9.3 Division 1 Subdivision 7 heading inserted
+Delete the heading to Schedule 9.3 Division 7 and insert:
+Subdivision 7 — Miscellaneous
+33.Schedule 9.3 Division 2 inserted
+At the end of Schedule 9.3 insert:
+Division 2 — Provisions for the Local Government Amendment Act 2012
+42.Term used: amending Act
+In this Division —
+amending Act means the Local Government Amendment Act 2012.
+43.Saving provisions for CEOs
+(1) In this clause —
+preserved CEO, in relation to a local government, means a person who is employed, other than in an acting or temporary capacity, as the CEO of the local government on 19 October 2011.
+(2) Section 5.39(7) does not apply in respect of —
+(a) a CEO for such time as that person is employed under a contract of employment —
+(i) that was entered into or renewed before section 13 of the amending Act came into operation; or
+(ii) for a position that was advertised before section 13 of the amending Act came into operation;
+or
+(b) a preserved CEO of a local government if —
+(i) the remuneration paid or provided to the CEO on 19 October 2011 under a contract of employment was more than the amount recommended by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975 section 7A to be paid or provided to the CEO at that time; and
+(ii) the CEO continues to be employed as the CEO of that local government.
+(3) Section 5.39(8) does not apply to a local government that is renewing a contract of employment with its preserved CEO in the circumstances set out in subsection (2)(b).
+(4) Before a local government renews a contract with its preserved CEO in circumstances set out in subsection (2)(b), the local government must take into account any determination by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975 section 7A as to the remuneration to be paid or provided to a CEO of a local government that is of a comparable size and location.
+44.Section 6.14(1) does not apply to existing investments
+Section 6.14(1) as in force immediately before the coming into operation of section 19(1) of the amending Act (the amending provision) continues to operate in respect of any investment made under section 6.14(1) before the coming into operation of the amending provision but does not operate so as to allow any reinvestment under that provision.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
