@@ -20,4 +20,16 @@ Item | Type of fee | Fee $
  | (h)issued other than electronically on or after 16 April 2010 and on or before 15 April 2011 | 39.00
  | (i)issued electronically on or after 16 April 2011 and on or before 15 April 2012 | 35.00
  | (j)issued other than electronically on or after 16 April 2011 and on or before 15 April 2012 | 40.50
-[Schedule 3 inserted in Gazette 13 Apr 2007 p. 1670-1.]
+ | (k)issued electronically on or after 16 April 2012 and on or before 15 April 2013 | 36.50
+ | (l)issued other than electronically on or after 16 April 2012 and on or before 15 April 2013 | 42.00
+ | (m)issued electronically on or after 16 April 2013 and on or before 15 April 2014 | 38.00
+ | (n)issued other than electronically on or after 16 April 2013 and on or before 15 April 2014 | 49.50
+ | (o)issued electronically on or after 16 April 2014 and on or before 15 April 2015 | 39.50
+ | (p)issued other than electronically on or after 16 April 2014 and on or before 15 April 2015 | 51.50
+ | (q)issued electronically on or after 16 April 2015 and on or before 15 April 2016 | 41.00
+ | (r)issued other than electronically on or after 16 April 2015 and on or before 15 April 2016 | 53.50
+ | (s)issued electronically on or after 16 April 2016 and on or before 15 April 2017 | 42.50
+ | (t)issued other than electronically on or after 16 April 2016 and on or before 15 April 2017 | 55.50
+ | (u)issued electronically on or after 16 April 2017 | 44.00
+ | (v)issued other than electronically on or after 16 April 2017 | 57.50
+[Schedule 3 inserted in Gazette 13 Apr 2007 p. 1670-1; amended in Gazette 5 Apr 2012 p. 1599-600.]
