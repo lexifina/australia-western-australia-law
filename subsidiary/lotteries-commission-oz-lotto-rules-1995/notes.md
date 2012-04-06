@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Lotteries Commission (Oz Lotto) Rules 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 April 2012 of the Lotteries Commission (Oz Lotto) Rules 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Lotteries Commission (Oz Lotto) Rules 1995 | 30 Oct 1995 p. 5007-27 | 20 Nov 1995 (see r. 2 and Gazette 30 Oct 1995 p. 5065)
@@ -17,15 +17,16 @@ Reprint 2: The Lotteries Commission (Oz Lotto) Rules 1995 as at 17 Nov 2006 (inc
 Lotteries Commission (Oz Lotto) Amendment Rules 2007 | 26 Jun 2007 p. 3054-5 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Rules other than r. 1 and 2: 27 Jun 2007 (see r. 2(b))
 Lotteries Commission (Oz Lotto) Amendment Rules 2008 | 6 Jun 2008 p. 2275-97 | r. 1 and 2: 6 Jun 2008 (see r. 2(a)); Rules other than r. 1 and 2: 8 Jun 2008 (see r. 2(b))
 Reprint 3: The Lotteries Commission (Oz Lotto) Rules 1995 as at 3 Apr 2009 (includes amendments listed above)
-Lotteries Commission Amendment Rules 2009 Pt. 3 | 15 May 2009 p. 1632-5 | 17 May 2009 (see r. 2(b))
+Lotteries Commission Amendment Rules 2009 r. 9(2) | 15 May 2009 p. 1632-5 | 17 May 2009 (see r. 2(b))
 Lotteries Commission (Oz Lotto) Amendment Rules 2010 | 12 Mar 2010 p. 944-6 | r. 1 and 2: 12 Mar 2010 (see r. 2(a)); Rules other than r. 1 and 2: 14 Mar 2010 (see r. 2(b))
 Lotteries Commission (Oz Lotto) Amendment Rules (No. 2) 2010 | 19 Nov 2010 p. 5723-6 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Rules other than r. 1 and 2: 20 Nov 2010 (see r. 2(b))
 Lotteries Commission (Oz Lotto) Amendment Rules 2011 | 3 Jun 2011 p. 1990-2 | r. 1 and 2: 3 Jun 2011 (see r. 2(a)); Rules other than r. 1 and 2: 21 Jun 2011 (see r. 2(b))
+Reprint 4: The Lotteries Commission (Oz Lotto) Rules 1995 as at 6 Apr 2012 (includes amendments listed above)
 Repealed by the Lotteries Commission (Saturday Lotto) Rules 1996.
 The Lotteries Commission (Oz Lotto) Amendment Rules 1997 r. 9 is a transitional provision that is of no further effect.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 agent3
 agent’s component3
 authorised payout centre3
