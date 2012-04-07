@@ -8,6 +8,7 @@ Road Traffic (Authorisation to Drive) Amendment Regulations 2010 | 14 May 2010 p
 Road Traffic (Authorisation to Drive) Amendment Regulations 2011 | 25 Feb 2011 p. 656-7 | r. 1 and 2: 25 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2011 (see r. 2(b))
 Road Traffic (Authorisation to Drive) Amendment Regulations (No. 2) 2011 | 2 Dec 2011 p. 5074 | r. 1 and 2: 2 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2011 (see r. 2(b))
 Road Traffic (Information) Regulations 2011 r. 7 | 2 Dec 2011 p. 5077-81 | 3 Dec 2011 (see r. 2(b))
+Road Traffic (Authorisation to Drive) Amendment Regulations 2012 | 5 Apr 2012 p. 1578-9 | r. 1 and 2: 5 Apr 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Apr 2012 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
