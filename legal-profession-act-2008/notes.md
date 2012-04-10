@@ -9,6 +9,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Electronic Transactions Act 2011 s. 25 | 46 of 2011 | 25 Oct 2011 | To be proclaimed (see s. 2(c))
+Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 3 | 6 of 2012 | 10 Apr 2012 | Operative on the commencement of the Business Names Registration Act 2011 (Cwlth) Pt 2 (see s. 2(c))
 On the date as at which this compilation was prepared, the Electronic Transactions Act 2011 s. 25 had not come into operation. It reads as follows:
 25.Acts amended
 (1) This section amends the Acts listed in the Table.
@@ -17,6 +18,13 @@ Table
 Provision | Delete | Insert
 3.Legal Profession Act 2008
 s. 290(6)(d) | Electronic Transactions Act 2003 section 9 | Electronic Transactions Act 2011 section 10
+On the date as at which this compilation was prepared, the Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 3 had not come into operation. It reads as follows:
+Division 3 — Legal Profession Act 2008 amended
+40.Act amended
+This Division amends the Legal Profession Act 2008.
+41.Section 157 amended
+In section 157(4) delete “the law of” and insert:
+the law applicable in
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
