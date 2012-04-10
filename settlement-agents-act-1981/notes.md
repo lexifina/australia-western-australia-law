@@ -49,6 +49,10 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Acts Amendment (Fair Trading) Act 2010 Pt. 7 | 58 of 2010 | 8 Dec 2010 | 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 8 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Reprint 6: The Settlement Agents Act 1981 as at 11 Nov 2011 (includes amendments listed above except those in the Personal Property Securities (Consequential Repeals and Amendments) Act 2011)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 4 | 6 of 2012 | 10 Apr 2012 | Operative on the commencement of the Business Names Registration Act 2011 (Cwlth) Pt 2 (see s. 2(c))
 The appointed day is 1 Nov 1982, see Gazette 29 Oct 1982 p. 4322.
 The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 7(2) and (3) read as follows:
 (2) A person may give notice of a claim under section 93(2) as amended by this section even if the time within which that notice was to be given under that section before that amendment had expired.
@@ -58,6 +62,13 @@ Repealed by the Land Administration Act 1997 s. 281.
 The Real Estate Legislation Amendment Act 1995 s. 65(2) and 87 are saving and transitional provisions that are of no further effect.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 contain validation provisions for certain acts and omissions occurring before 23 Apr 2003.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 4 had not come into operation. It reads as follows:
+Division 4 — Settlement Agents Act 1981 amended
+42.Act amended
+This Division amends the Settlement Agents Act 1981.
+43.Schedule 2 clause 2 amended
+In Schedule 2 clause 2(h) delete “an application for transfer of a business name under the Business Names Act 1962;” and insert:
+any applications necessary under the Business Names Registration Act 2011 (Commonwealth) to effect the transfer of a business name under that Act;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
