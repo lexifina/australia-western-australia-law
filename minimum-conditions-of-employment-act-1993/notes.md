@@ -22,6 +22,7 @@ Training Legislation Amendment and Repeal Act 2008 s. 56 | 44 of 2008 | 10 Dec 2
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 36 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Industrial Legislation Amendment Act 2011 Pt. 4 | 53 of 2011 | 11 Nov 2011 | 1 Apr 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1246)
+Western Australia Day (Renaming) Act 2012 Pt. 2 Div. 2 | 3 of 2012 | 10 Apr 2012 | 11 Apr 2012 (see s. 2(b))
 The Labour Relations Reform Act 2002 s. 165(3)-(5) reads as follows:
 “
 (3) An agreement continues to have effect on and from the commencement day in respect of the employee’s entitlement to annual leave that accrued before the commencement day as if former section 8 had not been amended by this Act.
