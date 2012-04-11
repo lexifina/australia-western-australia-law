@@ -16,3 +16,4 @@ Public and Bank Holidays Amendment Act 2004 | 32 of 2004 | 14 Oct 2004 | 14 Oct 
 Reprint 2: The Public and Bank Holidays Act 1972 as at 18 Apr 2008 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 103 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Western Australia Day (Renaming) Act 2012 Pt. 2 Div. 1 | 3 of 2012 | 10 Apr 2012 | 11 Apr 2012 (see s. 2(b))
