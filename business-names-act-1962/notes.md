@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 September 2011 of the Business Names Act 1962 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Business Names Act 1962 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Business Names Act 1962 | 8 of 1962 (11 Eliz. II No. 8) | 27 Sep 1962 | 12 Oct 1962 (see s. 2 and Gazette 12 Oct 1962 p. 3366)
@@ -24,18 +24,24 @@ Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 3 | 28 of
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Acts Amendment (Fair Trading) Act 2010 s. 185 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 Reprint 4: The Business Names Act 1962 as at 2 Sep 2011 (includes amendments listed above)
+Business Names (Commonwealth Powers) Act 2012 Pt. 3 | 6 of 2012 | 10 Apr 2012 | 11 Apr 2012 (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 4.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant to this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 has transitional provisions some of which may be relevant to this Act.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
+ASIC4(1)
 business4(1)
 business name4(1)
+business names information4B(1)
 carrying on business4(1)
+change-over day4(1)
 christian name4(1)
 Commissioner4(1)
+Commonwealth register24(3)
+Commonwealth Transitional Act4(1)
 corporation4(1)
 Department4(1)
 director4(1)
@@ -44,8 +50,8 @@ firm4(1)
 individual4(1)
 information31B(3)
 initial4(1)
+national business names legislation4(1)
 register4(1)
 repealed Act4(1)
 secretary4(1)
 section4(1)
-By Authority: JOHN A. STRIJK, Government Printer
