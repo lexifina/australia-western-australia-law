@@ -37,7 +37,8 @@ LICENCE | Renewal Date
 Granted Date
 LICENCE | Application for Renewal Date Lodged
 Application for Date Lodged
-Form 18 Western Australia Motor Vehicle Dealers Act 1973 (Section 24(1)) REGISTER OF YARD MANAGERS Licence No. Name of Licence-holder ................................................................................................................................................. Residential Address ........................................................................................................................................................ | Yard Manager of Authorised Premises Situate at |  | [Form 18 amended in Gazette 13 Aug 2002 p. 4156.]
+`
+Form 18 Western Australia Motor Vehicle Dealers Act 1973 (Section 24(1)) REGISTER OF YARD MANAGERS Licence No. Name of Licence-holder ............................................................................................................................ Residential Address .................................................................................................................................... | Yard Manager of Authorised Premises Situate at |  | [Form 18 amended in Gazette 13 Aug 2002 p. 4156.]
 Name and Address of Vehicle Dealer Employed by
 LICENCE | Date Renewal
 Date Granted
