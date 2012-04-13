@@ -181,7 +181,7 @@ Fee | $
 (a)fishing for rock lobster | 40.00
 (b)fishing for marron | 40.00
 (c)fishing for abalone | 40.00
-(d)fishing for all freshwater fish (other than crustaceans) in waters south of 29 degrees south latitude above the tidal influence including all lakes, dams, rivers and their tributaries | 40.00
+(d)fishing for all freshwater fish (other than crustaceans) in waters south of 29° south latitude above the tidal influence including all lakes, dams, rivers and their tributaries | 40.00
 (e)fishing by means of a fishing net | 40.00
 9.Recreational (boat) fishing licence (r. 124C) | 30.00
 [Part 3 inserted in Gazette 9 Jun 2009 p. 1915-20; amended in Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5; 27 Aug 2010 p. 4106; 10 Sep 2010 p. 4347; 2 Dec 2010 p. 6031-4; 6 May 2011 p. 1611-12; 24 Aug 2011 p. 3406-8; 9 Sep 2011 p. 3683.]

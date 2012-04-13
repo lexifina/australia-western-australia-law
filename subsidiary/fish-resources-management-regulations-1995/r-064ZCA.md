@@ -1,4 +1,4 @@
-### 64ZCA. Ningaloo and Exmouth areas, bag limit for rock lobsters
+### 64ZCA. Ningaloo and Exmouth areas, bag limit for rock lobsters (Act s. 50)
 (1) For the purposes of section 50 of the Act, the bag limit in respect of rock lobsters brought onto land in the Ningaloo Marine Park Land Zone or the Exmouth Gulf Land Zone is 4 rock lobsters.
 (2) In subregulation (1) —
 Exmouth Gulf Land Zone means all land between 22°35′ south latitude and 21°53′ south latitude, east of the Learmonth-Minilya and Murat Roads and west of 114°19′ east longitude;
