@@ -102,6 +102,7 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 82. | METHYLDIHYDROMORPHINE | 6.0
 82A. | 3, 4-METHYLENEDIOXYAMPHETAMINE (MDA) | 4.0
 82B. | 3, 4-METHYLENEDIOXY-N, ALPHA-DIMETHYLPHENYLE THYLAMINE (MDMA) | 4.0
+82C. | 3, 4-METHYLENEDIOXYPYROVALERONE (MDPV) | 4.0
 83. | METHYLPHENIDATE | 6.0
 84. | METHYLPHENOBARBITONE | 30.0
 85. | 1-METHYL-4-PHENYLPIPERIDINE- 4-CARBOXYLIC ACID ESTERS | 6.0
@@ -172,4 +173,4 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 140. | THEBAINE | 6.0
 141. | TRIMEPERIDINE | 30.0
 142. | VINBARBITONE | 30.0
-[Schedule III amended by No. 48 of 1995 s. 43; amended in Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041; 7 Dec 2007 p. 5985; 29 Apr 2011 p. 1533; 1 Jul 2011 p. 2743; 11 Oct 2011 p. 4316-18.]
+[Schedule III amended by No. 48 of 1995 s. 43; amended in Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041; 7 Dec 2007 p. 5985; 29 Apr 2011 p. 1533; 1 Jul 2011 p. 2743; 11 Oct 2011 p. 4316-18; 13 Apr 2012 p. 1665.]
