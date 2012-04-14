@@ -13,8 +13,11 @@ Table 2 — Electricity Regulations 1947 offences
 Provision(s) | Description of offence under Electricity Regulations 1947 | Modified penalty
 For individual | For body corporate
 r. 10 & 340 | Selling or hiring, or exposing or advertising for sale or hire apparatus or installation that does not comply with energy efficiency standards | $1 250 | $5 000
+r. 13 | Owner of residential premises failing to ensure that at least 2 residual current devices are installed before certain events specified in the regulation occur | $1 000 | $4 000
+r. 14 | Owner of residential premises failing to ensure that at least 2 residual current devices are installed | $1 000 | $4 000
+r. 15A | New owner of residential premises failing to ensure that at least 2 residual current devices are installed | $1 000 | $4 000
 r. 15 | Owner of common property failing to ensure at least one residual current device is installed before 9 August 2011 | $1 000 | $4 000
-r. 242(1)(b) & 340 | Supplying electricity without receiving notice certifying installation and fitting is proper and as required by Act |  | $10 000
+r. 242(1) & 340 | Supplying electricity without receiving a notice of completion where one is required |  | $10 000
 r. 253(7)(a), (9)(b) & 340 | Failing to give effect to an order to modify inspection practice |  | $20 000
 r. 253(7)(b), (9)(b) & 340 | Failing to give effect to an order to review inspection practice and submit revised system plan and policy statement |  | $10 000
 r. 254(1) & 340 | Network operator supplying electricity to new, altered or expanded electric installation that has not been inspected and does not comply with prescribed requirements |  | $20 000
@@ -41,13 +44,17 @@ r. 49A(b) & 65 | Not ensuring a design of electrical installation is accompanied
 r. 50AA(2) & 65 | Employer not ensuring persons are informed of electrical worker’s experience etc. | $500 | $2 000
 r. 50AA(3) & 65 | Supervising electrical worker not ensuring receipt of electrical worker’s experience etc. | $500 | $2 000
 r. 51(1) | Failing to deliver preliminary notice within required time | $100 | $400
-r. 52(1) | Failing to give notice of completion of notifiable work within required time | $750 | $3 000
+r. 52(1) | Failing to deliver notice of completion of notifiable work within required time | $750 | $3 000
 r. 52(1a) | Failing to keep copy of notice of completion of notifiable work for 5 years | $100 | $400
+r. 52(2AC) | Failing to ensure that records of notifiable work comply with paragraph (a) | $500 | $2 000
+r. 52(2AC) | Failing to ensure that records of notifiable work are kept as required by paragraph (b) | $100 | $400
 r. 52(3) | Sending notice of completion of notifiable work in relation to uncompleted work | $1 000 | $4 000
-r. 52A(5) | Giving preliminary notice or notice of completion that is false or misleading | $1 250 | $5 000
-r. 52B(1) | Failing to prepare and deliver certificate of compliance for electrical installing work to person for whom work carried out | $500 | $2 000
-r. 52B(2) | Failing to keep copy of certificate of compliance for electrical installing work for 5 years | $200 | $800
-r. 52B(7) | Giving false or misleading certificate of compliance | $1 250 | $5 000
+r. 52A(6) | Delivering a preliminary notice for proposed work in contravention of paragraph (a) | $1 250 | $5 000
+r. 52A(6) | Delivering a notice of completion for notifiable work in contravention of paragraph (b) | $1 250 | $5 000
+r. 52B(1) | Failing to prepare and deliver electrical safety certificate for electrical installing work to person for whom work carried out | $500 | $2 000
+r. 52B(2) | Failing to keep copy of electrical safety certificate for electrical installing work for 5 years | $200 | $800
+r. 52B(4C) | Failing to ensure that records of electrical installing work comply with paragraph (a) | $500 | $2 000
+r. 52B(4C) | Failing to ensure that records of electrical installing work are kept as required by paragraph (b) | $100 | $400
 r. 53(2) & 65 | Employing, engaging or instructing unlicensed person to carry out electrical work for which licence required | $1 000 | $4 000
 r. 53(3) & 65 | Employing, engaging or instructing electrical worker in training to carry out electrical work without electrician’s training licence | $1 000 | $4 000
 r. 54(1) | Unauthorised person signing notice of completion | $750 | $3 000
@@ -70,4 +77,4 @@ r. 33(3)(a) | Failing to keep records at nominated address |  | $20 000
 r. 33(4) | Failing to keep record for 5 years |  | $20 000
 r. 35(1) | Failing to notify Director within required time of incident or event resulting in serious injury or serious damage |  | $20 000
 r. 36(2) | Failing to give Director within required time report of notifiable incident |  | $20 000
-[Schedule 1 inserted in Gazette 31 Dec 2010 p. 6888-92.]
+[Schedule 1 inserted in Gazette 31 Dec 2010 p. 6888-92; amended in Gazette 13 Apr 2012 p. 1649-51.]
