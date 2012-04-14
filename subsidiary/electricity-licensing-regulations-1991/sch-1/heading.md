@@ -19,4 +19,3 @@
 (i)Application for restoration of name to register (failure to renew) | 39
 3.Further inspection | 154
 [Schedule 1 inserted in Gazette 22 Jun 2011 p. 2312-13.]
-[Schedule 2 deleted in Gazette 6 Sep 1996 p. 4419.]
