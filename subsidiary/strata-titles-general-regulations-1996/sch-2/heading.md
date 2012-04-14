@@ -5,7 +5,6 @@ Section or regulation | Number and description of form
 Section 5(1)(c), 5A(d), 5B(1)(b), 8A(h), 14(2), 21T(1)(d), 31E(1)(d) | Form 3 — Schedule of Unit Entitlement and Certificate of Licensed Valuer.
 Section 5B(1)(a), 8A(d), 8A(e), 22(1) | Form 5 — Certificate of Licensed Surveyor.
 Section 8A(e), 22(2) | Form 6 — Certificate of Licensed Surveyor.
-Section 5B(2), 8A(f), 23(1) | Form 7 — Certificate of Local Government.
 Section 5(1)(f), 5A(g), Regulation 5(1) | Form 8 — Annexure of Strata/Survey Strata Plan No. and Schedule of Encumbrances.
 Section 10(2)(a) | Form 9 — Certificate of Local Government Consenting to Conversion of Common Property.
 Section 10(2)(b) | Form 10 — Certificate of Strata Company Consenting to Conversion of Common Property.
@@ -39,4 +38,4 @@ Sections 31E(1)(b), 31F | Form 38 — Certificate of Licensed Surveyor — Conve
 Sections 21V, 31H, Regulation 21A(1)(b) | Form 39 — Disposition on Merger of Land or Conversion to a Survey-Strata Scheme.
 Sections 123A, 123C | Form 40 — Notice of Objection to Change of Fencing Provisions.
 Section 30 Strata Titles Amendment Act 1996 | Form 41 — Notice of Termination of Insurance Order.
-[Schedule 2 amended in Gazette 28 Jun 1996 p. 3061; 17 Jan 1997 p. 476-8; 30 Dec 2004 p. 6945; 24 Jan 2006 p. 436-7.]
+[Schedule 2 amended in Gazette 28 Jun 1996 p. 3061; 17 Jan 1997 p. 476-8; 30 Dec 2004 p. 6945; 24 Jan 2006 p. 436-7; 13 Apr 2012 p. 1658.]

@@ -34,23 +34,7 @@ I . . . . . . . . . . . . . . . . . . . . . . . being a licensed surveyor regist
 (b)complies with Schedule 1 by-law(s) No(s). . . . . . . . . . . . . . . on Survey-strata Plan No. . . . . . . . . . . . . . . . . . . . . . . . . registered in respect of (name of scheme) or sufficiently complies with that/those by-law(s) in a way that is allowed by regulation 36 of the Strata Titles General Regulations 1996.
 . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . Date Licensed Surveyor
 [Form 6 inserted in Gazette 24 Jan 2006 p. 437.]
-Form 7
-Strata Titles Act 1985
-Sections 5B(2), 8A(f), 23(1)
-STRATA PLAN No.
-DESCRIPTION OF PARCEL AND BUILDING
-CERTIFICATE OF LOCAL GOVERNMENT
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . , the local government hereby certifies that in respect of the strata plan which relates to the parcel and building described above (in this certificate called “the plan”) —
-(1)*(a)the building and the parcel shown on the plan have been inspected and that it is consistent with the approved building plans and specifications in respect of the building; or
-*(b)the building has been inspected and the modification is consistent with the approved building plans and specifications relating to the modification;
-(2)the building, in the opinion of the local government, is of sufficient standard to be brought under the Strata Titles Act 1985;
-(3)where a part of a wall or building, or material attached to a wall or building, encroaches beyond the external surface boundaries of the parcel on to a public road, street or way the local government is of the opinion that retention of the encroachment in its existing state will not endanger public safety or unreasonably interfere with the amenity of the neighbourhood and the local government does not object to the encroachment; and
-(4)*(a)any conditions imposed by the Western Australian Planning Commission have been complied with; or
-*(b)the within strata scheme is exempt from the requirement of approval by the Western Australian Planning Commission.
-. . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . .
-DateChief Executive Officer
-*Delete if inapplicable.
-[Form 7 amended in Gazette 17 Jan 1997 p. 480.]
+[Form 7 deleted in Gazette 13 Apr 2012 p. 1658.]
 Form 8
 ANNEXURE ........... OF STRATA/SURVEY-STRATA PLAN No. ........... REGISTRAR OF TITLES | Schedule of Dealings on Strata/Survey-strata Plan | Signature of Registrar of Titles |  |  |  |  |  |  |  | SCHEDULE OF ENCUMBRANCES ETC. | Cancellation |  |  |  |  |  |  | Note: Entries may be affected by subsequent endorsements.
 Instrument | Time
@@ -694,7 +678,7 @@ CERTIFICATE OF LICENSED SURVEYOR — MERGER IN STRATA SCHEME
 I, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ,
 being a licensed surveyor, certify in respect of the sketch plan under section 21T(1)(b) of the Act accompanying the notice of resolution of merger of land dated . . . . . . relating to the strata plan mentioned above (“the strata plan”) —
 *(a)(if the sketch plan shows an extension or alteration of a building shown on the strata plan, or includes a building not shown on the plan) that —
-(i)the extension, alteration or building not shown on the strata plan has been the subject of a building licence under section 374 of the Local Government (Miscellaneous Provisions) Act 1960;
+(i)the extension, alteration or building not shown on the strata plan has been the subject of a building permit under the Building Act 2011 or a building licence under section 374 of the Local Government (Miscellaneous Provisions) Act 1960;
 (ii)the extension, alteration or building not shown on the strata plan has been approved by the strata company or all of the proprietors of the lots in the scheme; and
 (iii)any building or part of a building not shown on the strata plan, that is shown on the sketch plan as being within a lot, is wholly within the ground surface boundaries of that lot, except for any permitted boundary deviation (as that term is defined in section 3(1) of the Act);
 *(b)(if any land, or building or part of a building not shown on the strata plan is shown on the sketch plan as common property to be merged into a lot) that —
@@ -709,7 +693,7 @@ being a licensed surveyor, certify in respect of the sketch plan under section 2
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Date Licensed Surveyor
 *Delete if inapplicable.
-[Form 35 inserted in Gazette 17 Jan 1997 p. 502-3.]
+[Form 35 inserted in Gazette 17 Jan 1997 p. 502-3; amended in Gazette 13 Apr 2012 p. 1658.]
 Form 36
 CERTIFICATE OF LICENSED VALUER MERGER IN STRATA SCHEME
 Strata Titles Act 1985
