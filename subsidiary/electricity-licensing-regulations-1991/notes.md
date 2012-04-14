@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 March 2012 of the Electricity (Licensing) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity (Licensing) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Electricity (Licensing) Regulations 1991 | 14 Oct 1991 p. 5249-99 (corrigendum 1 Nov 1991 p. 5665) | 1 Nov 1991 (see r. 2)
@@ -36,6 +36,7 @@ Electricity (Licensing) Amendment Regulations 2011 | 10 May 2011 p. 1666-7 | r. 
 Electricity (Licensing) Amendment Regulations (No. 2) 2011 | 17 May 2011 p. 1813-22 | r. 1 and 2: 17 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 18 May 2011 (see r. 2(b))
 Electricity (Licensing) Amendment Regulations (No. 3) 2011 | 22 Jun 2011 p. 2311-13 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Reprint 6: The Electricity (Licensing) Regulations 1991 as at 9 Mar 2012 (includes amendments listed above)
+Electricity (Licensing) Amendment Regulations 2012 | 13 Apr 2012 p. 1651-6 | r. 1 and 2: 13 Apr 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Apr 2012 (see r. 2(b))
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
 Repealed by the Training Legislation Amendment and Repeal Act 2008 s. 50.
@@ -54,6 +55,7 @@ Chairman3(1)
 commencement day67(1)
 consumers mains51(3)
 control or protective gear51(3)
+copy3(1)
 department13(5)
 electrical accident63(1)
 electrical appliance3(1)
@@ -74,6 +76,8 @@ executive officer3(1)
 flexible cord19(1A)
 former apprentice50AB
 holder of a licence46(1a), 47(1aa)
+in-house electrical installing work3(1)
+in-house electrical installing work licence3(1)
 legal practitioner3(1)
 licence3(1)
 licensed electrical worker3(1)
