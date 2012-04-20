@@ -30,7 +30,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Residential Tenancies Amendment Act 2011 Pt. 5 Div. 4 | 60 of 2011 | 14 Dec 2011 | To be proclaimed (see s. 2(b))
-Local Government Amendment Act 2012 Pt. 3 | 2 of 2012 | 4 Apr 2012 | To be proclaimed (see s. 2(b))
+Local Government Amendment Act 2012 Pt. 3 | 2 of 2012 | 4 Apr 2012 | 1 Jul 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695)
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.
 Repealed by s. 51(1) of this Act.
