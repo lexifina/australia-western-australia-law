@@ -2,12 +2,12 @@ Notes
 This is a compilation of the Electronic Transactions Act 2011. The following table contains information about that Act.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Electronic Transactions Act 2011 s. 1 and 2 | 46 of 2011 | 25 Oct 2011 | 25 Oct 2011 (see s. 2(a))
+Electronic Transactions Act 2011 | 46 of 2011 | 25 Oct 2011 | s. 1 and 2: 25 Oct 2011 (see s. 2(a))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Electronic Transactions Act 2011 s. 3-7 and Pt. 2-4 | 46 of 2011 | 25 Oct 2011 | s. 26: if the Criminal Code Amendment (Identity Crime) Act 2010 section 5 (section 5) comes into operation on or before the day on which section 24 comes into operation — when section 24 comes into operation; otherwise — when section 5 comes into operation (see s. 2(b)); Act other than s. 1, 2 and 26: to be proclaimed (see s. 2(c))
-On the date as at which this compilation was prepared, the Electronic Transactions Act 2011 s. 3-7 and Pt. 2-4 had not come into operation. They read as follows:
+Electronic Transactions Act 2011 s. 3-7 and Pt. 2-42 | 46 of 2011 | 25 Oct 2011 | To be proclaimed (see s. 2(c))
+On the date as at which this compilation was prepared, the Electronic Transactions Act 2011 s. 3-7 and Pt. 2-4 (other than s. 26) had not come into operation. They read as follows:
 3.Object
 The object of this Act is to provide a regulatory framework that —
 (a) recognises the importance of the electronic communication of information to the future economic and social prosperity of Western Australia; and
