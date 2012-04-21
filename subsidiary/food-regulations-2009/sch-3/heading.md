@@ -7,6 +7,12 @@ Item | Offence under Food Act 2008 | Modified penalty (individual) | Modified pe
 4. | s. 22(2) | $500 | $1 000
 5. | s. 22(3) | $500 | $1 000
 6. | s. 22(4) | $500 | $1 000
+7A. | s. 36 | $500 | $1 000
+7B. | s. 45(1) | $500 | $1 000
+7C. | s. 46 | $500 | $1 000
+7D. | s. 48(1) | $500 | -
+7E. | s. 48(2) | $500 | -
+7F. | s. 48(3) | $500 | -
 7. | s. 68 | $500 | $1 000
 8. | s. 84 | $150 | -
 9. | s. 90 | $150 | -
@@ -54,3 +60,4 @@ Item | Offence under Food Regulations 2009 | Modified penalty (individual) | Mod
 49. | r. 49(2) | $500 | $1 000
 50. | r. 49(3) | $500 | $1 000
 51. | r. 50 | $500 | $1 000
+[Schedule 3 amended in Gazette 20 Apr 2012 p. 1697-8.]
