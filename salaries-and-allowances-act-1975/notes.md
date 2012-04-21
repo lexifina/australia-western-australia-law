@@ -48,10 +48,11 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 114 | 8 of 2009 | 21
 Acts Amendment (Bankruptcy) Act 2009 s. 78 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Reprint 5: The Salaries and Allowances Act 1975 as at 2 Jul 2010 (includes amendments listed above)
 Public Sector Reform Act 2010 s. 83 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Local Government Amendment Act 2012 Pt. 4 (other than s. 39, 40(b) and 41 to the extent that it inserts s. 10(4)(c)(ii)) | 2 of 2012 | 4 Apr 2012 | 21 Apr 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Local Government Amendment Act 2012 Pt. 4 | 2 of 2012 | 4 Apr 2012 | To be proclaimed (see s. 2(b))
+Local Government Amendment Act 2012 s. 39, 40(b) and 41 to the extent that it inserts s. 10(4)(c)(ii) | 2 of 2012 | 4 Apr 2012 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Parliamentary Salaries and Allowances Act 1967 was repealed by the Parliamentary Superannuation Legislation Amendment Act 2000 s. 22.
 Now see the Interpretation Act 1984 s. 52.
 The Salaries and Allowances Amendment Act 1995 s. 6 reads as follows:
@@ -61,15 +62,7 @@ The Salaries and Allowances Amendment Act 1995 s. 6 reads as follows:
 (a) if the offence was a Schedule 1 offence committed by the person while holding public office, on the day when the person is convicted;
 (b) in any other case, on the day when the person was sentenced.
 Now known as the Salaries and Allowances Act 1975; short title changed (see note under s. 1).
-On the date as at which this compilation was prepared, the Local Government Amendment Act 2012 Pt. 4 had not come into operation. It reads as follows:
-Part 4 — Salaries and Allowances Act 1975 amended
-37.Act amended
-This Part amends the Salaries and Allowances Act 1975.
-38.Section 7A replaced
-Delete section 7A and insert:
-7A.Determinations as to remuneration of local government CEOs
-(1) The Tribunal is to, from time to time as provided by this Act, inquire into and determine, the amount of remuneration, or the minimum and maximum amounts of remuneration, to be paid or provided to chief executive officers of local governments.
-(2) Section 6(2) and (3) apply to a determination under this section.
+On the date as at which this compilation was prepared, the Local Government Amendment Act 2012 s. 39, 40(b) and 41 to the extent that it inserts s. 10(4)(c)(ii)) had not come into operation. They read as follows:
 39.Section 7B inserted
 After section 7A insert:
 7B.Determinations as to fees and allowances of local government councillors
@@ -81,17 +74,10 @@ elected council member means a person elected under the Local Government Act 199
 (c) the amount of allowances, or the minimum and maximum amounts of allowances, to be paid under the Local Government Act 1995 to elected council members.
 (3) Section 6(2) and (3) apply to a determination under this section.
 40.Section 8 amended
-In section 8:
-(a) in paragraph (c) delete “report under section 7A and another.” and insert:
-determination under section 7A and another; and
 (b) after paragraph (c) insert:
 (d) not more than a year elapses between one determination under section 7B(2) and another.
-(c) after paragraph (a) insert:
-and
 41.Section 10 amended
 In section 10(4)(c) delete the passage that begins with “to the remuneration” and continues to the end of the subsection and insert:
-to —
-(i) the remuneration to be paid or provided to chief executive officers of local governments referred to in section 7A; or
 (ii) the fees, expenses and allowances to be paid to elected council members referred to in section 7B.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
