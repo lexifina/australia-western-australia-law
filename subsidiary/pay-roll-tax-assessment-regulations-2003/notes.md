@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Pay-roll Tax Assessment Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 May 2012 of the Pay-roll Tax Assessment Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Pay-roll Tax Assessment Regulations 2003 | 27 Jun 2003 p. 2341-80 | 1 Jul 2003 (see r. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -21,9 +21,11 @@ Pay-roll Tax Assessment Amendment Regulations 2009 | 19 Jun 2009 p. 2252 | r. 1 
 Reprint 2: The Pay-roll Tax Assessment Regulations 2003 as at 14 Aug 2009 (includes amendments listed above)
 Pay-roll Tax Assessment Amendment Act 2010 Part 3 assented to 25 Jun 2010 | 25 Jun 2010 (see s. 2(a))
 Public Sector Reform (Consequential Amendments) Regulations 2011 Pt. 6 | 11 Feb 2011 p. 502-7 | 12 Feb 2011 (see r. 2(d))
+Reprint 3: The Pay-roll Tax Assessment Regulations 2003 as at 4 May 2012 (includes amendments listed above)
 The Workplace Agreements Act 1993 expired 14 Sep 2003.
-At the time of this compilation the Commissioner of Workplace Agreements does not exist.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Consumer and Employment Protection is called the Department of Commerce.
+At the time of this reprint the Commissioner of Workplace Agreements does not exist.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection is called the Department of Commerce.
+Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport, Department of Planning or Department of Regional Development and Lands, as the context requires.
 The Office of Water Regulation was abolished with effect 1 Jan 2004 (see Notice in Gazette 6 Jan 2004 p. 41).
 The Water Resources Legislation Amendment Act 2007 s. 223 reads as follows:
 223.Agreements and instruments generally
@@ -111,12 +113,12 @@ corresponding Pay-roll Tax Assessment Regulations means the Pay-roll Tax Assessm
 (4) In addition to being modified as prescribed by the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007, these regulations are deemed to be further modified to any extent that is necessary or convenient to enable these regulations to operate effectively as a law of the Commonwealth.
 ”.
 38.Glossary modified
-The Glossary clause 1 is modified in paragraph (c) of the definition of “industrial award” by deleting “another State” and inserting instead —
+The Glossary clause 1 is modified in paragraph (c) of the definition of industrial award by deleting “another State” and inserting instead —
 “ a State other than Western Australia ”.
+The amendments set out in the Pay-roll Tax Assessment Amendment Regulations 2010 have not been included in this reprint; equivalent amendments were made by the Pay-roll Tax Assessment Amendment Act 2010 Part 3.
 The Pay-roll Tax Assessment Amendment Act 2010 s. 45 reads as follows:
 45.Power to amend or repeal regulations unaffected
 This Part does not prevent the Pay-roll Tax Assessment Regulations 2003 from being amended or repealed under the Pay-roll Tax Assessment Act 2002.
-The amendments set out in the Pay-roll Tax Assessment Amendment Regulations 2010 have not been included in this compilation; equivalent amendments were made by the Pay-roll Tax Assessment Amendment Act 2010 Part 3.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
