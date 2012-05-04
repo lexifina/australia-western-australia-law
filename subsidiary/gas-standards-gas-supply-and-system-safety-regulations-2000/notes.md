@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Gas Standards (Gas Supply and System Safety) Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 May 2012 of the Gas Standards (Gas Supply and System Safety) Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Gas Standards (Gas Supply and System Safety) Regulations 2000 | 4 Jul 2000 p. 3475-540 | 1 Aug 2000 (see r. 2)
@@ -8,11 +8,12 @@ Gas Standards (Gas Supply and System Safety) Amendment Regulations 2001 | 3 Aug 
 Gas Standards (Gas Supply and System Safety) Amendment Regulations 2007 | 4 Jan 2008 p. 3-15 | r. 1 and 2: 4 Jan 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jan 2008 (see r. 2(b))
 Reprint 1: The Gas Standards (Gas Supply and System Safety) Regulations 2000 as at 11 Apr 2008 (includes amendments listed above)
 Gas Standards (Gas Supply and System Safety) Amendment Regulations 2009 | 6 Nov 2009 p. 4468-9 | r. 1 and 2: 6 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Nov 2009 (see r. 2(b))
-Gas Standards (Gas Supply and System Safety) Amendment Regulations (No. 2) 2009 | 8 Jan 2010 p. 10-16 (as amended 15 Oct 2010 p. 5175 and 31 Dec 2010 p. 6893) | r. 1 and 2: 8 Jan 2010 (see r. 2(a)); Regulations other than 1, 2, 4(5), 11-13, 14(1) and (3) and 18: 9 Jan 2010 (see r. 2(d)); r. 11-13, 14(1) and (3) and 18: 3 Aug 2011 (see r. 2(c) and Gazette 31 Dec 2010 p. 6892-3); r. 4(5): 1 Jan 2012 (see r. 2(b))
+Gas Standards (Gas Supply and System Safety) Amendment Regulations (No. 2) 2009 | 8 Jan 2010 p. 10-16 (as amended 15 Oct 2010 p. 5175 and 31 Dec 2010 p. 6893) | r. 1 and 2: 8 Jan 2010 (see r. 2(a)); Regulations other than r. 1, 2, 4(5), 11-13, 14(1) and (3) and 18: 9 Jan 2010 (see r. 2(d)); r. 11-13, 14(1) and (3) and 18: 3 Aug 2011 (see r. 2(c) and Gazette 31 Dec 2010 p. 6892-3); r. 4(5): 1 Jan 2012 (see r. 2(b))
 Gas Standards (Gas Supply and System Safety) Amendment Regulations 2010 Pt. 2 | 15 Oct 2010 p. 5172-5 | 16 Oct 2010 (see r. 2(b))
-Defined Terms
+Reprint 2: The Gas Standards (Gas Supply and System Safety) Regulations 2000 as at 4 May 2012 (includes amendments listed above)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 accepted safety case3(1)
 application for review65
 approved plan17A
@@ -34,7 +35,7 @@ flow weighted average higher heating value17A
 former distribution system24(1)
 FWAHHV17A
 gas day17A
-gas incident42, Sch. 3, cl. 1
+gas incident42, Sch. 3 cl. 1
 gas operations17D(1)
 gas plant3(1)
 HHV zone17A
@@ -69,7 +70,7 @@ relevant day17D(1)
 retail market scheme17A
 review panel65
 safety case3(1)
-safety critical workSch. 3, cl. 20(2)
+safety critical workSch. 3 cl. 20(2)
 serious damage42
 serious injury42
 simulated natural gas4(1)
