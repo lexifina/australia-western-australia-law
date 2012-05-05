@@ -10,6 +10,7 @@ Restraining Orders Amendment Regulations 2004 | 26 Nov 2004 p. 5257-305 | 1 Dec 
 Reprint 2: The Restraining Orders Regulations 1997 as at 16 Mar 2007 (includes amendments listed above)
 Restraining Orders Amendment Regulations 2007 | 31 Jul 2007 p. 3800-2 | r. 1 and 2: 31 Jul 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2007 (see r. 2(b))
 Restraining Orders Amendment Regulations 2009 | 12 Jan 2010 p. 55-6 | r. 1 and 2: 12 Jan 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jan 2010 (see r. 2(b))
+Restraining Orders Amendment Regulations 2012 | 4 May 2012 p. 1847-60 | r. 1 and 2: 4 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 5 May 2012 (see r. 2(b))
 Footnote no longer applicable.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Formerly referred to the Criminal Law (Mentally Impaired Defendants) Act 1996 the short title of which was changed to the Criminal Law (Mentally Impaired Accused) Act 1996 by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
