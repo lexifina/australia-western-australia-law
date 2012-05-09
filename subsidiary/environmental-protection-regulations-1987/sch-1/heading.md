@@ -110,3 +110,4 @@ Category number | Description of category | Production or design capacity
 88 | Metal finishing: premises on which — (a)metals are chemically cleaned or metals, plastics or metal or plastic products are plated, electroplated, anodised, coloured or otherwise coated or finished; and (b)from which liquid waste is discharged into a sewer. | Not applicable
 89 | Putrescible landfill site: premises on which waste (as determined by reference to the waste type set out in the document entitled “Landfill Waste Classification and Waste Definitions 1996” published by the Chief Executive Officer, as amended from time to time) is accepted for burial. | More than 20 but less than 5 000 tonnes per year
 [Schedule 1 inserted in Gazette 13 Sep 1996 p. 4549-59; amended in Gazette 10 Dec 1996 p. 6877; 12 Sep 1997 p. 5151; 15 Aug 2000 p. 4715-17; 14 Jun 2002 p. 2793-4; 13 Dec 2005 p. 5983; 22 Jun 2007 p. 2843; 23 Jul 2010 p. 3401.]
+[Schedule 2 deleted in Gazette 8 May 2012 p. 1893.]

@@ -11,7 +11,7 @@ Environmental Protection Act 1986
 7.section 97(2) | 250 | 500
 8.section 110H(6) | 250 | 500
 Environmental Protection Regulations 1987
-1.regulation 5B(1) or (4) | 250 | 500
+1.regulation 5B(4) | 250 | 500
 2.regulation 5M(4) | 250 | 500
 3.regulation 13(1) | 250 | 500
 4.regulation 13A(1) | 250 | 500
@@ -198,4 +198,4 @@ Environmental Protection (Packaged Fertiliser) Regulations 2010
 14.regulation 16(2) | 250 | 500
 15.regulation 17(4) | 250 | 500
 16.regulation 17(5) | 250 | 500
-[Schedule 6 inserted in Gazette 11 Dec 1998 p. 6605-8; amended in Gazette 15 Aug 2000 p. 4718; 19 Dec 2000 p. 7284; 5 Jan 2001 p. 119; 30 Mar 2001 p. 1809, p. 1828 and 1867-8; 12 Apr 2001 p. 2097; 30 Nov 2001 p. 6071; 14 Jun 2002 p. 2794-5; 20 Dec 2002 p. 6020; 23 Jul 2003 p. 3173; 12 Mar 2004 p. 748-9; 1 Jul 2004 p. 2664-6; 29 Sep 2006 p. 4267; 27 Apr 2007 p. 1812; 31 Dec 2010 p. 6883-4; 2 Mar 2012 p. 855.]
+[Schedule 6 inserted in Gazette 11 Dec 1998 p. 6605-8; amended in Gazette 15 Aug 2000 p. 4718; 19 Dec 2000 p. 7284; 5 Jan 2001 p. 119; 30 Mar 2001 p. 1809, p. 1828 and 1867-8; 12 Apr 2001 p. 2097; 30 Nov 2001 p. 6071; 14 Jun 2002 p. 2794-5; 20 Dec 2002 p. 6020; 23 Jul 2003 p. 3173; 12 Mar 2004 p. 748-9; 1 Jul 2004 p. 2664-6; 29 Sep 2006 p. 4267; 27 Apr 2007 p. 1812; 31 Dec 2010 p. 6883-4; 2 Mar 2012 p. 855; 8 May 2012 p. 1893.]
