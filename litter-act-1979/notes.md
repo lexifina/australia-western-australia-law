@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Litter Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 May 2012 of the Litter Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Litter Act 1979 | 81 of 1979 | 11 Dec 1979 | 9 May 1980 (see s. 2 and Gazette 9 May 1980 p. 1446)
@@ -14,7 +14,7 @@ Fish Resources Management Act 1994 s. 264 | 53 of 1994 | 2 Nov 1994 | 1 Oct 1995
 Acts Amendment (Fines, Penalties and Infringement Notices) Act 1994 Pt. 12 | 92 of 1994 | 23 Dec 1994 | 1 Jan 1995 (see s. 2(1) and Gazette 30 Dec 1994 p. 7211)
 Aboriginal Heritage Amendment Act 1995 s. 55 | 24 of 1995 | 30 Jun 1995 | 1 Jul 1995 (see s. 2 and Gazette 30 Jun 1995 p. 2781)
 Sentencing (Consequential Provisions) Act 1995 Pt. 48 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
-Litter Amendment Act 1996 | 6 of 1996 | 24 May 1996 | 20 Jul 1996 (see s. 3 and Gazette 19 Jul 1996 p. 3455)
+Litter Amendment Act 1996 | 6 of 1996 | 24 May 1996 | s. 1 and 2: 24 May 1996; Act other than s. 1 and 2: 20 Jul 1996 (see s. 3 and Gazette 19 Jul 1996 p. 3455)
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Education Amendment Act 1996 s. 16(7) | 22 of 1996 | 11 Jul 1996 | 11 Jul 1996 (see s. 2(1))
 Financial Legislation Amendment Act 1996 s. 57 and 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
@@ -32,23 +32,27 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
  | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
  | Reprint 4: The Litter Act 1979 as at 25 Aug 2006 (includes amendments listed above)
- | Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+ | Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 100 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 86 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 52 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Industrial Legislation Amendment Act 2011 Pt. 6 | 53 of 2011 | 11 Nov 2011 | 1 Apr 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1246)
+Reprint 5: The Litter Act 1979 as at 11 May 2012 (includes amendments listed above)
 Repealed by the Associations Incorporation Act 1987.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 appointed area5(1)
+Association35(2)
 authorised officer5(1)
 bill5(1)
 Chairman5(1)
 Chamber of Commerce and Industry9(6)
+Council5(1)
 Department5(1)
+Fund5(1)
 infringement notice30(1)
 land5(1)
 law of the State4(4)
@@ -57,12 +61,9 @@ member of the Council5(1)
 post5(1)
 prescribed5(1)
 private land5(1)
-Proceedings31(4)
+proceedings31(4)
 public authority5(1)
 public place5(1)
 specified33(5)
 supporting member5(1)
-the Association35(2)
-the Council5(1)
-the Fund5(1)
 waters5(1)
