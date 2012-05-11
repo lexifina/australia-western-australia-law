@@ -5,7 +5,7 @@ Column 1 | Column 2
 Class of authorised officer serving infringement notice or instituting proceedings | Public authority on behalf of which notice is served or proceedings instituted
 Members of the Police Force | The Commissioner of Police
 Members of the council of, or employees or honorary inspectors of, a local government | That local government
-Officers or employees of the Council or officers or employees whose services the Council makes use of | The council
+Officers or employees of the Council or officers or employees whose services the Council makes use of | The Council
 Inspectors under the Environmental Protection Act 1986 | The CEO as defined in section 3 of the Environmental Protection Act 1986
 Conservation and land management officers, forest officers, wildlife officers or rangers under the Conservation and Land Management Act 1984 | The CEO as defined in section 3 of the Conservation and Land Management Act 1984
 Members of the staff of The Western Australian Museum | The Western Australian Museum
