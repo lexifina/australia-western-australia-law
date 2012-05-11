@@ -6,4 +6,4 @@ An Act to provide for the following —
 ·to enhance a competitive and fair operating environment for small business in the State;
 ·to provide alternative dispute resolution services in respect of small business disputes and disputes referred under any other Act;
 ·related matters.
-[Long title inserted by No. 20 of 2011 s. 4.]
+[Long title inserted: No. 20 of 2011 s. 4.]
