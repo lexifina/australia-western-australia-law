@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Country Towns Sewerage By-laws 1952 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 May 2012 of the Country Towns Sewerage By-laws 1952 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Country Towns Sewerage Act By-laws | 22 Feb 1952 p. 478-510 | 22 Feb 1952
@@ -25,7 +25,7 @@ Country Towns Sewerage Act Amendment By-laws (No. 2) 1981 | 26 Jun 1981 p. 2321 
 Country Towns Sewerage Act Amendment By-laws 1982 | 25 Jun 1982 p. 2129-30 | 25 Jun 1982
 Country Towns Sewerage Amendment By-laws 1983 | 24 Jun 1983 p. 2002 | 24 Jun 1983
 Country Towns Sewerage Amendment By-laws 1984 | 29 Jun 1984 p. 1790 | 29 Jun 1984
-Country Towns Sewerage Amendment By-laws 1985 | 28 Jun 1985 p. 2334-5 | 1 Jul 1985 (see bl. 3)
+Country Town Sewerage Amendment By-laws 1985 | 28 Jun 1985 p. 2334-5 | 1 Jul 1985 (see bl. 3)
 Country Towns Sewerage Amendment By-laws 1986 | 27 Jun 1986 p. 2135 (erratum 4 Jul 1986 p. 2302) | 27 Jun 1986
 Country Towns Sewerage Amendment By-laws (No. 2) 1986 | 21 Nov 1986 p. 4275 | 21 Nov 1986
 Water Authority Amendment By-laws 1987 bl. 3 and Pt. III | 14 Jul 1987 p. 2649-58 | 14 Jul 1987
@@ -71,13 +71,13 @@ Water Agencies Amendment By-laws 2007 Pt. 4 | 29 Jun 2007 p. 3233-44 | 1 Jul 200
 Reprint 5: The Country Towns Sewerage By-laws 1952 as at 22 Feb 2008 (includes amendments listed above)
  | Water Agencies Amendment By-laws 2008 Pt. 4 | 27 Jun 2008 p. 3076-84 | 1 Jul 2008 (see bl. 2(b))
  | Country Towns Sewerage Amendment By-laws (No. 3) 2008 | 26 Aug 2008 p. 4030-1 | bl. 1 and 2: 26 Aug 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Aug 2008 (see bl. 2(b))
- | Water Agencies Amendment By-laws 2009 Pt. 4 | 19 Jun 2009 p. 2393-406 | bl. 1 and 2: 19 Jun 2009 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2009 (see bl. 2(b))
+ | Water Agencies Amendment By-laws 2009 Pt. 4 | 19 Jun 2009 p. 2393-406 | 1 Jul 2009 (see bl. 2(b))
  | Water Agencies Amendment By-laws 2010 Pt. 4 | 25 Jun 2010 p. 2983-96 | 1 Jul 2010 (see bl. 2(b))
  | Country Towns Sewerage Amendment By-laws 2011 | 21 Apr 2011 p. 1469 | bl. 1 and 2: 21 Apr 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 22 Apr 2011 (see bl. 2(b))
  | Water Agencies Amendment By-laws 2011 Pt. 4 | 23 Jun 2011 p. 2403-16 | 1 Jul 2011 (see bl. 2(b))
+ | Reprint 6: The Country Towns Sewerage By-laws 1952 as at 11 May 2012 (includes amendments listed above)
 These by-laws have effect for the purposes of the Country Towns Sewerage Act 1948 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34. See also the Country Towns Sewerage Act 1948 s. 102.
 Refers to the Standards Association of Australia, which has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
-Footnote no longer applicable.
 The headings before bl. 1-8, 10, 12, 16, 17, 18, 21-36, 38-40, 57, 70, 71 and 229-235 were deleted by the Country Towns Sewerage Amendment By-laws 1999 see Gazette 20 April 1999 p. 1641-2.
 The headings before bl. 9, 11, 13, 14, 15, 19, 20 and 49 were deleted by the Water Agencies Amendment By-laws 1999 see Gazette 29 June 1999 p. 2778-82.
 Now known as the Country Towns Sewerage By-laws 1952; citation inserted (see note under bl. 1).
@@ -85,46 +85,19 @@ By-law 6 of these by-laws is a savings provision that is of no further effect.
 By-law 2 of these by-laws is an application provision that is of no further effect.
 By-law 12 of these by-laws is a savings and transitional provision that is of no further effect.
 By-law 3 of these by-laws is an application provision that is of no further effect.
-The Water Agencies Amendment By-laws 2001 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2001 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 2003 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2003 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 2004 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2004 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
-The Water Agencies Amendment By-laws 2006 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2006 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
 The Country Towns Sewerage Amendment By-laws (No. 2) 2007 bl. 4 reads as follows:
-“
 4.Transitional provision
 By-law 36 of the Country Towns Sewerage By-laws 1952, as amended by these by-laws, applies, after the commencement of these by-laws, in relation to a permit to discharge industrial waste, whether the permit is granted before, on or after that commencement.
-”.
-The Water Agencies Amendment By-laws 2007 bl. 3 reads as follows:
-“
-3.Application
-Nothing in these by-laws affects the application after 1 July 2007 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
 The Water Agencies Amendment By-laws 2008 bl. 3 reads as follows:
-“
 3.Application
 Nothing in these by-laws affects the application after 1 July 2008 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
+Act2
 bore2
 building2
+CEO2
 combined pipe system2
 combined waste pipe2
 diameter2
@@ -144,7 +117,6 @@ sanitary plumbing2
 separate pipe system2
 size2
 soil pipe2
-the Act2
 trap2
 waste pipe2
 water supply plumbing2
