@@ -1,5 +1,5 @@
 ## Schedule 1 — Notices
-[Heading inserted in Gazette 16 Nov 2004 p. 5051.]
+[Heading inserted: Gazette 16 Nov 2004 p. 5051.]
 Form 1
 [r. 4(1), 6(1) and (2)]
 Home Building Contracts Act 1991
@@ -57,7 +57,7 @@ name(s)] rescind the contract dated ............................ [insert date] f
  | Date ..................................
 NB:You should make sure that you have some evidence of the time and date on which you sent or gave this notice.
 *Complete or delete as necessary.
-[Form 1 amended in Gazette 8 Apr 2003 p. 1104; 16 Nov 2004 p. 5051; 21 Dec 2007 p. 6319.]
+[Form 1 amended: Gazette 8 Apr 2003 p. 1104; 16 Nov 2004 p. 5051; 21 Dec 2007 p. 6319.]
 Form 2
 [r. 7(4)]
 Home Building Contracts Act 1991
@@ -83,7 +83,7 @@ Why did you get this notice?
 (a)the developer; and
 (b)you, as a person purchasing the property from the developer,
 are not insured against financial loss if the builder is unable to meet a valid claim for faulty workmanship because the builder has died, disappeared or become insolvent.
-8.If you are in doubt about your rights, or you don’t understand this notice, you should seek legal advice or contact the Department of Consumer and Employment Protection Call Centre on 1300 30 40 54 (local call).
+8.If you are in doubt about your rights, or you don’t understand this notice, you should seek legal advice or contact the Department of Commerce Call Centre on 1300 30 40 54 (local call).
 ............................................................................................................
 Developer
 Date ..........................................
@@ -91,4 +91,4 @@ I acknowledge that I have read this notice:
 ...........................................................................................................
 Person to whom the developer has given this notice
 Date ..........................................
-[Form 2 inserted in Gazette 16 Nov 2004 p. 5052-3; amended in Gazette 21 Dec 2007 p. 6320.]
+[Form 2 inserted: Gazette 16 Nov 2004 p. 5052-3; amended: Gazette 21 Dec 2007 p. 6320; 11 May 2012 p. 2063.]
