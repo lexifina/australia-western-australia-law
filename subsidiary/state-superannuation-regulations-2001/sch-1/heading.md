@@ -40,7 +40,7 @@
 2.Animal Resources Authority established by the Animal Resources Authority Act 1981
 [3.deleted]
 4.Botanic Gardens and Parks Authority established under the Botanic Gardens and Parks Authority Act 1998
-5.Builders’ Registration Board of Western Australia continued under the Builders’ Registration Act 1939
+[5.deleted]
 6.Building and Construction Industry Training Board established under the Building and Construction Industry Training Fund and Levy Collection Act 1990
 6a.Chemistry Centre (WA) established by the Chemistry Centre (WA) Act 2007
 7.Commissioner of Main Roads appointed under the Main Roads Act 1930
@@ -109,4 +109,4 @@
 [67.deleted]
 68.WorkCover Western Australia Authority (WorkCover Western Australia) constituted under the Workers’ Compensation and Injury Management Act 1981
 69.Zoological Parks Authority established under the Zoological Parks Authority Act 2001
-[Division 2 amended in Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; 13 Apr 2007 p. 1610; amended by Act No. 43 of 2006 s. 7; No. 10 of 2007 s. 43; No. 28 of 2008 s. 16.]
+[Division 2 amended in Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; 13 Apr 2007 p. 1610; 11 May 2012 p. 2064; amended by Act No. 43 of 2006 s. 7; No. 10 of 2007 s. 43; No. 28 of 2008 s. 16.]
