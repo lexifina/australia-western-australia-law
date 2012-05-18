@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Hospitals (Services Charges) Regulations 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 18 May 2012 of the Hospitals (Services Charges) Regulations 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Hospitals (Services Charges) Regulations 1984 | 27 Jan 1984 p. 231-4 | 1 Feb 1984 (see r. 2)
@@ -105,7 +105,7 @@ Hospitals (Services Charges) Amendment Regulations (No. 3) 2007 | 30 Oct 2007 p.
 Hospitals (Services Charges) Amendment Regulations 2008 | 25 Jan 2008 p. 213-14 | r. 1 and 2: 25 Jan 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Jan 2008 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 2) 2008 | 10 Jun 2008 p. 2488-9 | r. 1 and 2: 10 Jun 2008 (see r. 2(a)); r. 4(1)(c) and (d): 11 Jun 2008 (see r. 2(b)); Regulations other than r. 1, 2, 4(1)(c) and (d): 1 Jul 2008 (see r. 2(c))
 Reprint 6: The Hospitals (Services Charges) Regulations 1984 as at 22 Aug 2008 (includes amendments listed above)
-Hospitals (Services Charges) Amendment Regulations (No. 4) 2008 | 19 Dec 2008 p. 5364 | r. 1 and 2: 19 Dec 2008 (see r. 2(a)); Regulations other than r. 1and 2 20 Dec 2008 (see r. 2(b))
+Hospitals (Services Charges) Amendment Regulations (No. 4) 2008 | 19 Dec 2008 p. 5364 | r. 1 and 2: 19 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Dec 2008 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations 2009 | 10 Feb 2009 p. 273-4 | r. 1 and 2: 10 Feb 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Feb 2009 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 3) 2009 | 1 May 2009 p. 1434-5 | r. 1 and 2: 1 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 2 May 2009 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 4) 2009 | 23 Jun 2009 p. 2463-4 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
@@ -117,13 +117,14 @@ Reprint 7: The Hospitals (Services Charges) Regulations 1984 as at 10 Sep 2010 (
 Hospitals (Services Charges) Amendment Regulations (No. 3) 2010 | 22 Oct 2010 p. 5219-20 | r. 1 and 2: 22 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Oct 2010 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations 2011 | 11 Feb 2011 p. 480 | r. 1 and 2: 11 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Feb 2011 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 3) 2011 | 12 Apr 2011 p. 1309 | r. 1 and 2: 12 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Apr 2011 (see r. 2(b))
-Hospitals (Services Charges) Amendment Regulations (No. 2) 2011 | 3 Jun 2011 p. 1977-8 | r. 1 and 2: 3 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jun 2011 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 4) 2011 | 3 Jun 2011 p. 1976-7 | r. 1 and 2: 3 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Hospitals (Services Charges) Amendment Regulations (No. 2) 2011 | 3 Jun 2011 p. 1977-8 | r. 1 and 2: 3 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jun 2011 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 6) 2011 | 21 Oct 2011 p. 4450-1 | r. 1 and 2: 21 Oct 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Oct 2011 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 7) 2011 | 30 Dec 2011 p. 5575-6 | r. 1 and 2: 30 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2012 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations 2012 | 24 Feb 2012 p. 804-7 | r. 1 and 2: 24 Feb 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Feb 2012 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 2) 2012 | 13 Mar 2012 p. 1035-6 | r. 1 and 2: 13 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Mar 2012 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 3) 2012 | 20 Apr 2012 p. 1696 | r. 1 and 2: 20 Apr 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Apr 2012 (see r. 2(b))
+Reprint 8: The Hospitals (Services Charges) Regulations 1984 as at 18 May 2012 (includes amendments listed above)
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with the Interpretation Act 1984 s. 42(1), subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The commencement date of 1 September 1990 that was specified in these regulations was before the date of their publication in the Gazette.
