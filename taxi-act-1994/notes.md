@@ -26,6 +26,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 517 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 49 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The provision in this Act repealing the Taxi-car Control Act 1985 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Land Administration Act 1997.
 Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
@@ -35,6 +36,18 @@ On the date as at which this compilation was prepared, the Co-operatives Act 200
 517.Taxi Act 1994 amended
 (1) This section amends the Taxi Act 1994.
 (2) In section 3(3)(b) delete “a company within the meaning of the Companies (Co-operative) Act 1943, and”.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 49 had not come into operation. It reads as follows:
+Division 49 — Taxi Act 1994 amended
+179.Act amended
+This Division amends the Taxi Act 1994.
+180.Section 16 amended
+(1) In section 16(8)(b) delete “the Road Traffic Act 1974 or an Act of another State or a Territory corresponding to either of those Acts; and” and insert:
+a road law as defined in the Road Traffic (Administration) Act 2008 section 4 or an Act of another State or a Territory corresponding to any of those written laws; and
+(2) In section 16(10) in the definition of owner delete “section 5(1) of the Road Traffic Act 1974;” and insert:
+the Road Traffic (Administration) Act 2008 section 5;
+181.Section 32 amended
+In section 32(2)(b) delete “issued under the Road Traffic Act 1974; and” and insert:
+granted under the Road Traffic (Authorisation to Drive) Act 2008; and
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
