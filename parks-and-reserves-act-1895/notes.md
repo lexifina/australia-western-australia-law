@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 July 2011 of the Parks and Reserves Act 1895 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Parks and Reserves Act 1895 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 The Parks and Reserves Act 1895 | 30 of 1895 (59 Vict. No. 30) | 12 Oct 1895 | 12 Oct 1895
@@ -36,13 +36,32 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 98 | 8 of 2009 | 21 
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 5: The Parks and Reserves Act 1895 as at 1 Jul 2011 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 38 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Now known as the Parks and Reserves Act 1895; short title changed (see note under s. 1).
 The Parks and Reserves Amendment Act 1983 s. 4(2) is a transitional provision that is of no further effect.
-Defined Terms
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 38 had not come into operation. It reads as follows:
+Division 38 — Parks and Reserves Act 1895 amended
+152.Act amended
+This Division amends the Parks and Reserves Act 1895.
+153.Section 2 amended
+(1) In section 2 in the definition of owner delete “who is the holder of the requisite vehicle licence or permit under the Road Traffic Act 1974 in respect of that vehicle, or, if the vehicle is not the subject of a licence or permit under that Act,” and insert:
+to whom a licence or permit in respect of the vehicle has been granted under the Road Traffic (Vehicles) Act 2012, or if there is not such a person,
+(2) In section 2 in the definition of vehicle delete “that comes within the interpretation of that term in the Road Traffic Act 1974.” and insert:
+as defined in the Road Traffic (Administration) Act 2008 section 4.
+154.Section 7A amended
+In section 7A(2) delete “Road Traffic Act 1974” and insert:
+Road Traffic (Vehicles) Act 2012
+155.Section 7C amended
+In section 7C(1) delete “section 98A(2) of the Road Traffic Act 1974.” and insert:
+the Road Traffic (Administration) Act 2008 section 117(2).
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 authorised person2
 Board2
 child12A(2)
