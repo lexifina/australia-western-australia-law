@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 March 2008 of the Marine and Harbours Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Marine and Harbours Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Marine and Harbours Act 1981 | 21 of 1981 | 26 May 1981 | 1 Mar 1982 (see s. 2 and Gazette 5 Feb 1982 p. 410)
@@ -22,6 +22,10 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 3: The Marine and Harbours Act 1981 as at 14 Mar 2008 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 32 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The Marine and Harbours Amendment Act 1994 s. 6(2) reads as follows:
 “
 (2) A lease which was granted or purportedly granted under section 12 of the principal Act before the commencement of this section —
@@ -29,9 +33,16 @@ The Marine and Harbours Amendment Act 1994 s. 6(2) reads as follows:
 (b) to enable the commercial development of land or property by any person,
 is to be taken to be, and always to have been, as valid as it would have been if it had been granted for a purpose falling within the purposes of the principal Act or relating to the functions of the Department.
 ”.
-Defined Terms
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 32 had not come into operation. It reads as follows:
+Division 32 — Marine and Harbours Act 1981 amended
+131.Act amended
+This Division amends the Marine and Harbours Act 1981.
+132.Section 18B amended
+In section 18B(3) in the definition of motor vehicle delete “Road Traffic Act 1974.” and insert:
+Road Traffic (Administration) Act 2008 section 4.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 authorised officer18A(1), 18B(3)
 chief executive officer3
 Department3
