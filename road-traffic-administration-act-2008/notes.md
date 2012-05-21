@@ -12,6 +12,7 @@ Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 3 | 39 of 
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 3 | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 3 | 14 of 2011 | 25 May 2011 | On commencement of the Road Traffic (Administration) Act 2008 other than s. 1 and 2 (see s. 2(b) and Gazette 30 Aug 2011 p. 3503)
 Road Traffic Legislation Amendment (Information) Act 2011 Pt. 3 | 18 of 2011 | 2 Jun 2011 | On commencement of the Road Traffic (Administration) Act 2008 other than s. 1 and 2 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611)
+Road Traffic Legislation Amendment Act 2012 Pt. 5 | 8 of 2012 | 21 May 2012 | Pt. 5 (s. 208(1), 210, 211, 212 & 224): operative on commencement of the Road Traffic Legislation Amendment (Information) Act 2011 Pt. 3 (see s. 2(e)); Pt. 5 (other than s. 208(1), 210, 211, 212 & 224): operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(f))
 On the date as at which this compilation was prepared, the Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 (as amended by the Road Traffic (Administration) Act 2008 s. 11) had not come into operation. They read as follows:
 “
 3.Crown bound
@@ -1676,3 +1677,149 @@ After section 142 insert:
 (d) in circumstances prescribed by the regulations.
 Penalty: a fine of 100 PU or imprisonment for 12 months.
 (2) Subsection (1) does not prevent the disclosure of statistical or other information that could not reasonably be expected to lead to the identification of any person to whom it relates.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 5 had not come into operation. It reads as follows:
+Part 5 — Road Traffic (Administration) Act 2008 amended
+206.Act amended
+This Part amends the Road Traffic (Administration) Act 2008.
+207.Long title amended
+In the long title delete “(Vehicles) Act 2008” and insert:
+(Vehicles) Act 2012
+208.Section 4 amended
+(1) In section 4 insert in alphabetical order:
+optional plates information means information about optional number plates to which regulations mentioned in the Road Traffic (Vehicles) Act 2012 section 136 apply including —
+(a)details of the person who have the right to use those number plates; and
+(b)details of the persons to whom those number plates have been supplied;
+(2) In section 4 in the definition of inspection station delete “2008 section 71;” and insert:
+2012 section 70;
+(3) In section 4 in the definition of permit information after “learner’s permits” insert:
+or permits under the Road Traffic (Vehicles) Act 2012 section 13
+(4) In section 4 in the definition of vehicle licence information:
+(a) in paragraph (b) delete “licences;” and insert:
+licences; and
+(b) after paragraph (b) insert:
+(c) information contained in the register of vehicle licences mentioned in the Road Traffic (Vehicles) Act 2012 section 14;
+209.Section 8 amended
+In section 8(5) delete “2008 section 65(1)(b) or 66(1)(b).” and insert:
+2012 section 64(1)(b) or 65(1)(b).
+210.Section 11 amended
+After section 11(5A)(c) insert:
+(da) optional plates information;
+211.Section 12 amended
+(1) In section 12(1) in the definition of relevant authorisation after paragraph (c) insert:
+(da)a permit under the Road Traffic (Vehicles) Act 2012 section 13; or
+(2) After section 12(2)(c) insert:
+(da) optional plates information;
+212.Section 13A amended
+After section 13A(2)(c) insert:
+(da) optional plates information;
+213.Section 16A inserted
+After section 15 insert:
+16A.Disclosure of information for the purposes of the Personal Property Securities Act 2009 (Commonwealth)
+The CEO may disclose the following information to the Registrar as defined in the Personal Property Securities Act 2009 (Commonwealth) section 10 —
+(a) information relating to vehicles that have been stolen or written off;
+(b) vehicle licence information that the CEO considers to be relevant to the operation of the register as defined in that Act.
+214.Section 18 amended
+In section 18(2):
+(a) in paragraph (c) delete “2008 section 64(2) or (3), 65(2) or (5) or 66(3) or (5); or” and insert:
+2012 section 63(2) or (3), 64(2) or (5) or 65(3) or (5); or
+(b) in paragraph (d) delete “2008 section 68(2); or” and insert:
+2012 section 67(2); or
+(c) in paragraph (e) delete “2008 section 72(1); or” and insert:
+2012 section 71(1); or
+215.Section 20 amended
+In section 20(3) delete “2008 section 38(g), 44(g) or 46(j)” and insert:
+2012 section 37(h), 43(g) or 45(j)
+216.Section 36 amended
+In section 36(3) in the definition of label delete “2009 section 15 or 26;” and insert:
+2012 section 15 or 27;
+217.Section 52 amended
+In section 52(2)(b) delete “2008 section 71.” and insert:
+2012 section 70.
+218.Section 70 replaced
+Delete section 70 and insert:
+70.Seized material: receipts, copies, access to originals
+(1) In this section —
+entitled person, in relation to a seized record, means a person who —
+(a)appears entitled to possession of the record; and
+(b)does not already have a copy of the record.
+(2) A police officer who seizes and removes a record, device or other thing under Division 5 must give a receipt for it to the person from whom it is seized and removed.
+(3) A police officer must give a copy of a seized record to an entitled person, on the request of the entitled person to do so, as soon as possible after the request is received but in any event not later than the period ending 6 months after the day on which the request is received.
+(4) A police officer must return a seized record to an entitled person, on the request of the entitled person to do so, unless the officer reasonably suspects that doing so will jeopardise the evidentiary value of the record.
+(5) A police officer must allow an entitled person to inspect a seized record and make and keep a copy of it, on the request of the entitled person to do so, unless the officer reasonably suspects that doing so will jeopardise the evidentiary value of the record.
+(6) Unless a police officer reasonably suspects that complying with a request mentioned in subsection (4) or (5) will jeopardise the evidentiary value of a seized record, the officer must comply with the request as soon as possible after the request is received but in any event not later than the period ending 6 months after the day on which the request is received.
+219.Section 105 amended
+After section 105(3) insert:
+(3A) A prosecution for an offence under the Road Traffic (Vehicles) Act 2012 section 29(1) requires the approval of a prescribed person or a person of a prescribed class of persons.
+(3B) Failure to comply with subsection (3A) does not affect the validity of the prosecution notice.
+220.Section 109 amended
+(1) In section 109(1)(m) delete “2008 section 41” and insert:
+2012 section 40
+(2) After section 109(2) insert:
+(3) In the absence of evidence to the contrary, proof is not required in any proceedings for an offence under a road law —
+(a) that the prosecutor is authorised to commence the prosecution; or
+(b) that the prosecutor has any approval that is required under section 105(3A); or
+(c) that a signature on the prosecution notice alleging the offence is the signature of a person authorised to commence the prosecution.
+221.Section 111 amended
+(1) In section 111(1):
+(a) in paragraph (c)(i) delete “2008 section 67; or” and insert:
+2012 section 70; or
+(b) in paragraph (c)(ii) delete “2008 section 67,” and insert:
+2012 section 70,
+(2) In section 111(3)(d) delete “2008 section 71,” and insert:
+2012 section 70,
+222.Section 116 amended
+In section 116(1) in the definition of office holder delete paragraph (d) and insert:
+(d) a person authorised by the CEO for the purposes of section 105(2)(c); or
+(e) a person who may give an approval for the purposes of section 105(3A); or
+(f) an approved officer, as that term is defined in the Road Traffic (Vehicles) Act 2012 section 77.
+223.Section 133 amended
+In section 133:
+(a) delete “The regulations” and insert:
+(1) The regulations
+(b) in paragraph (f) delete “2008 section 78,” and insert:
+2012 section 77,
+(c) at the end of section 133 insert:
+(2) The regulations may provide for the review of a decision by a court, the State Administrative Tribunal or other tribunal, or any other body or person.
+224.Section 143A amended
+After section 143A(2) insert:
+(3) Subsection (2) does not apply to information relating to particular commercial operations, even if its disclosure could not reasonably be expected to lead to the identification of the commercial operation to which it relates.
+225.Part 9 Division 1 heading amended
+In the heading to Part 9 Division 1 delete “(Consequential Provisions) Act 2008” and insert:
+Legislation Amendment Act 2012
+226.Part 9 Division 1 Subdivision 1 heading amended
+In the heading to Part 9 Division 1 Subdivision 1 delete “(Consequential Provisions) Act 2008” and insert:
+Legislation Amendment Act 2012
+227.Section 147 amended
+(1) In section 147 in the definition of amending Act delete “(Consequential Provisions) Act 2008;” and insert:
+Legislation Amendment Act 2012;
+(2) In section 147 in the definition of commencement day delete “(Consequential Provisions) Act 2008 Part 2” and insert:
+Legislation Amendment Act 2012 Part 3
+228.Part 9 Division 1 Subdivision 2 heading amended
+In the heading to Part 9 Division 1 Subdivision 2 delete “(Consequential Provisions) Act 2008” and insert:
+Legislation Amendment Act 2012
+229.Section 165 amended
+In section 165:
+(a) delete “(Consequential Provisions) Act 2008 Part 3,” and insert:
+Legislation Amendment Act 2012 Part 4,
+(b) delete “(Consequential Provisions) Act 2008 Part 3.” and insert:
+Legislation Amendment Act 2012 Part 4.
+230.Part 9 Division 2 heading amended
+In the heading to Part 9 Division 2 delete “2008”.
+231.Section 166 amended
+In section 166(2) delete “(Vehicles) Act 2008 or the Road Traffic (Consequential Provisions) Act 2008.” and insert:
+(Vehicles) Act 2012 or the Road Traffic Legislation Amendment Act 2012.
+232.Various references to “2008” amended
+In the provisions listed in the Table delete “2008” (each occurrence) and insert:
+2012
+Table
+s. 4 def. of equipment, GCM, GVM, heavy vehicle, involved person, journey documentation, light vehicle, load, passenger, road law par. (d), road transport, transport documentation and vehicle licence | s. 6(1) def. of licensed and (2)(b)
+s. 10(1) | s. 12(1) def. of permit
+s. 18(2)(f) | s. 20(1) and (2)
+s. 28 def. of MDLR compliance purposes par. (a)(i) and MDLR offence par. (a) | s. 36(3) def. of number plate
+s. 52(5)(c) and (d) | s. 54(1) def. of premises par. (d) and (e) and (8)(a) and (b)
+s. 56(1)(a) | s. 58(2)(a)(i) and (ii)
+s. 81(1) def. of offence and (3) | s. 84(2)
+s. 85(a)(iii) | s. 91(a)
+s. 106(1)(c) | s. 109(1)(l)
+s. 111(3)(c) | s. 120
+s. 133(b), (c), (d), (e) and (g)
