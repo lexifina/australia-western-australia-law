@@ -57,6 +57,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 28 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 Standardisation of Formatting Act 2010 s. 52(4) | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 4 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Provisions of the Bush Fires Act 1954 referred to in s. 64 are not the same references as originally enacted. Under the Interpretation Act 1984 s. 16(2), as a result of amendments to the Bush Fires Act 1954 by the Bush Fires Act Amendment Act 1977 (No. 65 of 1977), those references may be construed as if amended. The references were changed under the Reprints Act 1984 s. 7(3)(g).
 The Third Schedule was inserted by the Metric Conversion Act Amendment Act (No. 2) 1973.
@@ -88,6 +89,13 @@ s. 44(3) | (3)(a)Where | (3)Where
 s. 45 | (a)Where (b)Where | (1)Where (2)Where
 s. 47 | section 39(2)(a) | section 39(2)
 s. 64 | section 21(2), | section 21(2A) and (2B),
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 4 had not come into operation. It reads as follows:
+Division 4 — Bush Fires Act 1954 amended
+46.Act amended
+This Division amends the Bush Fires Act 1954.
+47.Section 14B amended
+In section 14B(3) delete “Road Traffic Act 1974” and insert:
+Road Traffic (Vehicles) Act 2012
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
