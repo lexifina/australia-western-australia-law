@@ -168,7 +168,9 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 | 10 of 2011 | 2 May 2011 | To be proclaimed (see s. 2(b))
-Electronic Transactions Act 2011 s. 25 and 26 | 46 of 2011 | 25 Oct 2011 | s. 25: to be proclaimed (see s. 2(c)); s. 26: if the Criminal Code Amendment (Identity Crime) Act 2010 section 5 (section 5) comes into operation on or before the day on which section 24 comes into operation — when section 24 comes into operation; otherwise — when section 5 comes into operation (see s. 2(b));
+Electronic Transactions Act 2011 s. 25 and 26 | 46 of 2011 | 25 Oct 2011 | s. 25: to be proclaimed (see s. 2(c)); s. 26: operative when s. 24 comes into operation (see s. 2(b)(i))
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 6 | 9 of 2012 | 21 May 2012 | To be proclaimed (see s. 2(b))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -263,6 +265,26 @@ s. 204B(1) def. of electronic communication | section 5 of the Electronic Transa
 (1) This section amends The Criminal Code (as amended by the Criminal Code Amendment (Identity Crime) Act 2010 section 5).
 (2) In section 489 in the definition of electronic communication delete “Electronic Transactions Act 2003 section 5;” and insert:
 Electronic Transactions Act 2011 section 5(1);
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50 had not come into operation. It reads as follows:
+Division 50 — The Criminal Code amended
+182.Act amended
+This Division amends The Criminal Code.
+183.Section 1 amended
+In section 1(1) in the definition of motor vehicle delete “Road Traffic Act 1974;” and insert:
+Road Traffic (Administration) Act 2008 section 4;
+184.Section 297 amended
+Delete section 297(4)(c)(iii) and insert:
+(iii) a taxi as defined in the Taxi Act 1994 section 3(1) or an omnibus as defined in the Transport Co-ordination Act 1966 section 4(1);
+185.Section 318 amended
+Delete section 318(1)(g)(iii) and insert:
+(iii) a taxi as defined in the Taxi Act 1994 section 3(1) or an omnibus as defined in the Transport Co-ordination Act 1966 section 4(1);
+On the date as at which this compilation was prepared, the Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 6 had not come into operation. It reads as follows:
+6.Criminal Code amended
+(1) This section amends The Criminal Code.
+(2) In section 17 delete “It” and insert:
+(1) It
+(3) At the end of section 17 insert:
+(2) Subsection (1) is subject to the Criminal Appeals Act 2004 section 46M(4)(b) and (c).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
