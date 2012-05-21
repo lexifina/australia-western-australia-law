@@ -19,11 +19,47 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 30 | 8 of 2009 | 21 
 Acts Amendment (Fair Trading) Act 2010 s. 186 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 Reprint 3: The Chattel Securities Act 1987 as at 23 Sep 2011 (includes amendments listed above)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 2 | 42 of 2011 | 4 Oct 2011 | 5 Oct 2011 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 5 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The provision in this Act amending the Consumer Affairs Act 1971 has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant to this Act.
-Defined Terms
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 5 had not come into operation. It reads as follows:
+Division 5 — Chattel Securities Act 1987 amended
+48.Act amended
+This Division amends the Chattel Securities Act 1987.
+49.Section 3 amended
+In section 3(1) in the definition of lease:
+(a) in paragraph (b) delete “within the meaning of the Road Traffic Act 1974 of which the lessor is registered or an applicant for registration as the owner under the Road Traffic Act 1974 or a corresponding Act of the Commonwealth or another state or territory of the Commonwealth; or” and insert:
+as defined in the Road Traffic (Administration) Act 2008 section 4 of which the lessor is, or is applying to be, a licence holder as defined in section 6(1) of that Act; or
+(b) in paragraph (c) delete “within the meaning of the Road Traffic Act 1974,” and insert:
+as defined in the Road Traffic (Administration) Act 2008 section 4,
+50.Section 7 amended
+(1) In section 7(5)(b):
+(a) delete “within the meaning of the Road Traffic Act 1974” and insert:
+as defined in the Road Traffic (Administration) Act 2008 section 4
+(b) delete “Road Traffic Act 1974 but” and insert:
+Road Traffic (Vehicles) Act 2012 but
+(2) In section 7(6)(d):
+(a) delete “within the meaning of the Road Traffic Act 1974” and insert:
+as defined in the Road Traffic (Administration) Act 2008 section 4
+(b) delete “Road Traffic Act 1974 but” and insert:
+Road Traffic (Vehicles) Act 2012 but
+51.Section 13 amended
+In section 13:
+(a) in paragraph (a) delete “within the meaning of the Road Traffic Act 1974,” and insert:
+as defined in the Road Traffic (Administration) Act 2008 section 4,
+(b) in paragraph (a) delete “that Act;” and insert:
+the Road Traffic (Vehicles) Act 2012;
+(c) in paragraph (b) delete “that Act;” and insert:
+the Road Traffic (Vehicles) Act 2012;
+52.Section 30 amended
+In section 30(3)(c) delete “Road Traffic Act 1974” and insert:
+Road Traffic (Vehicles) Act 2012
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 applicant23(1)
 approved form3(1)
 commercial vehicle3(1)
