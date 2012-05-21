@@ -10,6 +10,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, Div. 3 (other than s. 22), Div. 4 and 5, Pt. 3, Pt. 7 Div. 4, s. 183-186, s. 193 and Pt. 9 | 23 of 2007 (as amended by No. 47 of 2011 s. 27) | 12 Oct 2007 | To be proclaimed (see s. 2)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 2 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, s. 23-42, Div. 4 and 5, Pt. 3, Pt. 7 Div. 4, s. 183-186, s. 193 and Pt. 9 have not come into operation. They read as follows:
 Part 2 — Biosecurity
 Division 1 — Permitted, prohibited and unlisted organisms
@@ -487,6 +488,15 @@ Part 9 — Miscellaneous
 (a) the adequacy of the penalties imposed under this Act; and
 (b) any other matters that appear to the Minister to be relevant to the operation and effectiveness of this Act.
 (2) The Minister must prepare a report based on the review carried out under subsection (1) and, as soon as is practicable after the preparation of the report, cause it to be laid before each House of Parliament.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 2 had not come into operation. It reads as follows:
+Division 2 — Biosecurity and Agriculture Management Act 2007 amended
+41.Act amended
+This Division amends the Biosecurity and Agriculture Management Act 2007.
+42.Section 6 amended
+(1) In section 6 in the definition of owner paragraph (b) delete “Road Traffic Act 1974; and” and insert:
+Road Traffic (Administration) Act 2008 section 5; and
+(2) In section 6 in the definition of vehicle delete “Road Traffic Act 1974;” and insert:
+Road Traffic (Administration) Act 2008 section 4;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
