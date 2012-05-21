@@ -61,6 +61,10 @@ Reprint 7: The Sentencing Act 1995 as at 29 Apr 2011 (includes amendments listed
 Building Services (Registration) Act 2011 s. 157 | 19 of 2011 | 22 Jun 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 26 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 47 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
@@ -186,6 +190,32 @@ The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004
 The amendments in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 65 that purported to amend s. 84P(3) could not be included because s. 84P(3) was not in operation when s. 65 came into operation. Those amendments were subsequently deleted by the Parole and Sentencing Legislation Amendment Act 2006 s. 75(2).
 The Parole and Sentencing Legislation Amendment Act 2006 s. 74(2) and 75(2) commenced on 22 Sep 2006 (see s. 2(4)(b)).
 The Sentencing Legislation (Transitional Provisions) Amendment Act 2008 s. 3, 4 and 5 commenced on 14 Jan 2009.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 47 had not come into operation. It reads as follows:
+Division 47 — Sentencing Act 1995 amended
+174.Act amended
+This Division amends the Sentencing Act 1995.
+175.Section 45 amended
+In section 45(5):
+(a) in paragraph (a)(i) delete “disqualify” and insert:
+disqualify, under a road law as defined in the Road Traffic (Administration) Act 2008 section 4,
+(b) in paragraph (a)(i) delete “under the Road Traffic Act 1974;” and insert:
+as defined in that section;
+(c) in paragraph (b) delete “the Road Traffic Act 1974,” and insert:
+a road law as defined in the Road Traffic (Administration) Act 2008 section 4,
+(d) in paragraph (b) delete “under that Act;” and insert:
+as defined in that section;
+176.Section 105 amended
+(1) In section 105(3) delete “chief executive officer of the department of the Public Service principally assisting in the administration of the provisions of the Road Traffic Act 1974 that section 5 of that Act defines as the “licensing provisions of this Act” for the purposes of administering those provisions.” and insert:
+CEO as defined in the Road Traffic (Administration) Act 2008 section 4.
+(2) In section 105(4)(a):
+(a) delete “disqualify” and insert:
+disqualify, under a road law as defined in the Road Traffic (Administration) Act 2008 section 4,
+(b) delete “under the Road Traffic Act 1974;” and insert:
+as defined in that section;
+(3) In section 105(5) in the definition of driver’s licence delete “Road Traffic Act 1974;” and insert:
+Road Traffic (Administration) Act 2008 section 4;
+(4) In section 105(5) in the definition of motor vehicle delete “Road Traffic Act 1974;” and insert:
+Road Traffic (Administration) Act 2008 section 4;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -264,4 +294,3 @@ victim13, 116, 120(1)
 video link14A(4)
 WDO57A(4)(b)
 written reasons33A(7), 35(4)
-By Authority: JOHN A. STRIJK, Government Printer
