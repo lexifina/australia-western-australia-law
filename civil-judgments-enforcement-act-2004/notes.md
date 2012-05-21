@@ -14,6 +14,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 512 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 8 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “
 Part 22 — Transitional provisions
@@ -85,6 +86,21 @@ On the date as at which this compilation was prepared, the Co-operatives Act 200
 512.Civil Judgments Enforcement Act 2004 amended
 (1) This section amends the Civil Judgments Enforcement Act 2004.
 (2) In section 45 in paragraph (c) of the definition of financial institution delete “a society registered or deemed to be registered under the Co-operative and Provident Societies Act 1903, or”.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 8 had not come into operation. It reads as follows:
+Division 8 — Civil Judgments Enforcement Act 2004 amended
+57.Act amended
+This Division amends the Civil Judgments Enforcement Act 2004.
+58.Section 113 amended
+In section 113 in the Table insert in alphabetical order:
+Road Traffic (Administration) Act 2008
+Road Traffic (Authorisation to Drive) Act 2008
+Road Traffic (Vehicles) Act 2012
+59.Section 114 amended
+In section 114(a):
+(a) delete “the Road Traffic Act 1974” and insert:
+a road law as defined in the Road Traffic (Administration) Act 2008 section 4
+(b) delete “that Act; or” and insert:
+a road law; or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
