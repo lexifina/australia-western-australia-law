@@ -33,6 +33,10 @@ Reprint 5: The Perth Market Act 1926 as at 16 May 2008 (includes amendments list
 Acts Amendment (Bankruptcy) Act 2009 s. 64 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 39 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Footnote no longer applicable.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Short title was initially the Metropolitan Market Act 1926 and was subsequently changed to the Perth Market Act 1926 (see note under s. 1).
@@ -45,9 +49,16 @@ A reference to the Metropolitan Market Trust, whether by use of that name or a s
 (c) made before the commencement of this Act in any other manner,
 shall, unless the context is such that it would be incorrect or inappropriate to do so, be read and construed as if it had been amended to be a reference to the Perth Market Authority.
 ”.
-Defined Terms
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 39 had not come into operation. It reads as follows:
+Division 39 — Perth Market Act 1926 amended
+156.Act amended
+This Division amends the Perth Market Act 1926.
+157.Section 1A amended
+In section 1A in the definition of owner delete “who is the holder of the requisite vehicle licence under the Road Traffic Act 1974 in respect of the vehicle, or, if the vehicle is not licensed under that Act,” and insert:
+to whom a licence in respect of the vehicle has been granted under the Road Traffic (Vehicles) Act 2012, or if there is not such a person,
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 agent1A
 alleged offender13A
 authorised person13A
