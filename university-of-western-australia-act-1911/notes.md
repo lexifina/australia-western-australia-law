@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 December 2010 of the University of Western Australia Act 1911 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the University of Western Australia Act 1911 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 University of Western Australia Act 1911 | 37 of 1911 (1 Geo. V No. 48) | 16 Feb 1911 | 16 Feb 1911
@@ -44,6 +44,10 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 172 | 77
 Acts Amendment (Bankruptcy) Act 2009 s. 86 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 48 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 5: The University of Western Australia Act 1911 as at 10 Dec 2010 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 52 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Repealed by Interpretation Act 1984 s. 77(1).
 The Acts Amendment (Student Guilds and Associations) Act 1983 s. 7 reads as follows:
 7.Transitional — ineligibility for membership of the Guild
@@ -69,6 +73,13 @@ Senate means the University of Western Australia Senate.
 (6) The persons who, immediately before commencement day, were members of the Senate under repealed section 10(h) and (i) respectively continue in office as members of the Senate under new section 8(1)(g) on and from commencement day.
 (7) The persons who, immediately before commencement day, were members of the Senate under repealed section 10(k) continue in office as members of the Senate under new section 8(1)(i) on and from commencement day.
 (8) A person who, under this section, continues in office as a member of the Senate on and from commencement day, continues in office for the balance of the term of office that applied to the person immediately before commencement day.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 52 had not come into operation. It reads as follows:
+Division 52 — University of Western Australia Act 1911 amended
+196.Act amended
+This Division amends the University of Western Australia Act 1911.
+197.Section 16A amended
+In section 16A(1) in the definition of owner delete “Road Traffic Act 1974.” and insert:
+Road Traffic (Administration) Act 2008.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
