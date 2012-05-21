@@ -65,6 +65,10 @@ Duties Legislation Amendment Act 2008 Sch. 1 cl. 23 | 12 of 2008 | 14 Apr 2008 |
 Legal Profession Act 2008 s. 682 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Reprint 12: The Motor Vehicle (Third Party Insurance) Act 1943 as at 24 Apr 2009 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 23 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 34 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 For the purposes of s. 3C and 3D, the Amounts A, B, C and D for the financial years beginning after 30 June 1994 up to the date of this reprint are as set out in this Table.
 Financial year beginning | Amount A | Amount B | Amount C | Amount D | Gazette
 1 July 1994 | $201 000 | $10 000 | $30 000 | $5 000 | 24 Jun 1994 p. 2944
@@ -146,9 +150,50 @@ transitional matter means a matter that needs to be dealt with for the purpose o
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State), the rights of that person existing before the day of its publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of its publication.
 ”.
-Defined Terms
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 34 had not come into operation. It reads as follows:
+Division 34 — Motor Vehicle (Third Party Insurance) Act 1943 amended
+135.Act amended
+This Division amends the Motor Vehicle (Third Party Insurance) Act 1943.
+136.Section 2 amended
+In section 2(2) delete “defined in the Traffic Act” and insert:
+defined in, or for the purposes of, the Vehicles Act
+Note:The heading to amended section 2 is to read:
+This Act to be read with the Road Traffic (Vehicles) Act
+137.Section 3 amended
+(1) In section 3(1) delete the definitions of:
+Director General
+Traffic Act
+(2) In section 3(1) insert in alphabetical order:
+Director General means the CEO as defined in the Road Traffic (Administration) Act 2008 section 4;
+Vehicles Act means the Road Traffic (Vehicles) Act 2012.
+(3) In section 3(1) in the definition of uninsured motor vehicle delete “instrumentality.” and insert:
+instrumentality;
+138.Section 4 amended
+(1) In section 4(3B) delete “of an offence under section 15 of the Traffic Act” and insert:
+of, or the penalty has been paid under an infringement notice served on the person for, an offence under the Vehicles Act section 4(2)
+(2) In section 4(4) delete “Traffic Act a driver’s licence or” and insert:
+Road Traffic (Authorisation to Drive) Act 2008 a driver’s licence or under the Vehicles Act
+(3) In section 4(7A) delete “an inspector appointed under the Traffic Act or by any member of the Police Force,” and insert:
+a police officer,
+(4) In section 4(7B) delete “inspector or the member of the Police Force” and insert:
+police officer
+139.Section 18 amended
+In section 18(1) delete “Traffic Act.” and insert:
+Road Traffic (Authorisation to Drive) Act 2008.
+140.Section 21 amended
+In section 21(1C)(a) delete “provision of section 18 of the Traffic Act,” and insert:
+regulation made under the Vehicles Act section 6,
+141.Various references to “Traffic” amended
+In the provisions listed in the Table delete “Traffic” and insert:
+Vehicles
+Table
+s. 2(1) | s. 3(1) def. of motor vehicle
+s. 3(5) | s. 4(3C)
+s. 4(8) | s. 4(9)
+s. 21(1A) | s. 21(1C)(b)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 action or proceedings16(1)
 Amount A3C(1)
 Amount B3C(1)
@@ -164,9 +209,9 @@ emergency treatment12(4)
 Fund3(1)
 insured person3(1)
 Minister3(1)
-motor vehicle3(1), 4(9a)(b)
+motor vehicle3(1), 4(10)
 non-pecuniary loss3C(1)
-owner3(1), 3G(3)
+owner3(1), 3(1), 3G(3)
 pending action or proceedings16(1)
 policy of insurance3(1)
 proclaimed date16(1)
@@ -174,6 +219,6 @@ the claimant29(2)
 the recalculation date3C(8), 3D(8)
 the relevant quarter3D(4)
 the Tribunal16(1)
-the ActSch.
+the ActSch. —
 Traffic Act3(1)
 uninsured motor vehicle3(1)
