@@ -22,6 +22,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 412 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Repealed by the Land Administration Act 1997.
 Repealed by the Water Resources Legislation Amendment Act 2007.
 Repealed by the Mining Act 1978.
@@ -172,6 +173,13 @@ Any approval of the Commission endorsed on a diagram or plan of survey of a stag
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
 Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
 The Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 56(4) is a transitional provision that is of no further effect.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 41 had not come into operation. It reads as follows:
+Division 41 — Planning and Development Act 2005 amended
+160.Act amended
+This Division amends the Planning and Development Act 2005.
+161.Section 4 amended
+In section 4(1) in the definition of road delete “Road Traffic Act 1974)” and insert:
+Road Traffic (Administration) Act 2008 section 4)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
