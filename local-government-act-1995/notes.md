@@ -59,6 +59,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 516 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c)) and Gazette 13 Aug 2010 p. 3975)
 Local Government Amendment Act 2012 s. 13-1828 | 2 of 2012 | 4 Apr 2012 | s. 13: 1 Jul 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695); s. 14-18: to be proclaimed (see s. 2(b))
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 29 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -288,6 +289,22 @@ range determined by the Salaries and Allowances Tribunal under the Salaries and 
 18.Section 5.100 amended
 In section 5.100(2)(b) delete “prescribed” and insert:
 determined
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 29 had not come into operation. It reads as follows:
+Division 29 — Local Government Act 1995 amended
+120.Act amended
+This Division amends the Local Government Act 1995.
+121.Section 3.38 amended
+In section 3.38 in the definition of vehicle delete “Road Traffic Act 1974” and insert:
+Road Traffic (Vehicles) Act 2012
+122.Section 3.40 amended
+In section 3.40(3) delete “Road Traffic Act 1974” and insert:
+Road Traffic (Vehicles) Act 2012
+123.Section 9.13 amended
+In section 9.13(1) in the definition of owner delete “who holds the licence for the vehicle that is required under the Road Traffic Act 1974 or, if the vehicle is not licensed under that Act,” and insert:
+to whom a licence in respect of the vehicle has been granted under the Road Traffic (Vehicles) Act 2012, or, if there is not such a person,
+124.Section 9.15 amended
+In section 9.15 in the definition of owner delete “who holds the licence for the vehicle that is required under the Road Traffic Act 1974 or, if the vehicle is not licensed under that Act,” and insert:
+to whom a licence in respect of the vehicle has been granted under the Road Traffic (Vehicles) Act 2012, or, if there is not such a person,
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
