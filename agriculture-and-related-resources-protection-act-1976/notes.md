@@ -38,6 +38,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 27 | 24 of 2007 | 12 Oct 2007 | 23 Nov 2011 (see s. 2(2) and Gazette 22 Nov 2011 p. 4843); Repeal of Act operative when proclamation published under s. 27
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 1 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Repealed by the Mining Act 1978.
 Repealed by the Public Service Appeal Board Act Repeal Act 1977.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. See also endnote 14.
@@ -216,3 +217,71 @@ repealed Act means the Agriculture and Related Resources Protection Act 1976.
 [Section 30 amended by No. 46 of 2010 s. 60.]
 31.Rates on pastoral leases
 Despite section 27, the repealed Act Part V Division 6, as in force immediately before the commencement day, continues to apply in relation to a rate payable under that Division for a financial year commencing before the commencement day.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 1 had not come into operation. It reads as follows:
+Division 1 — Agriculture and Related Resources Protection Act 1976 amended
+39.Act amended
+This Division amends the Agriculture and Related Resources Protection Act 1976.
+40.Section 7 amended
+In section 7(1) in the definition of vehicle delete “ascribed to that term in and for the purposes of the Road Traffic Act 1974;” and insert:
+given in the Road Traffic (Administration) Act 2008 section 4;
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+amending section60(8)
+amending sections124
+animal7(1)
+animal-proof fence7(1), 106(1)
+area36(5)
+authorised person7(1)
+barrier fence7(1)
+category7(1)
+cattle106(2)
+class7(1)
+closure day125(1)
+coat71(1)
+commencement day120
+Commissioner7(1)
+control7(1)
+declaration7(1)
+declared animal7(1), 38(1)
+Declared Pest Account7(1)
+declared plant7(1), 38(1)
+department7(1)
+Director General7(1)
+district7(1)
+document93(1)
+dwelling58(1)
+fodder71(1)
+former account125(1)
+Government department7(1)
+inspector7(1)
+land under the control of a local government7(1)
+machinery71(1)
+management programme7(1)
+occupier7(1)
+occupy7(1)
+operational work57
+own7(1)
+owner7(1)
+pastoral lease7(1)
+pensioner64(6)
+pest plant109
+plant7(1)
+private land7(1)
+prohibited material7(1)
+Protection Board120
+public land7(1)
+rabbit-proof fence7(1), 106(1)
+restricted animal71(1)
+sack71(1)
+seed71(1)
+serve93(1)
+specified107(2), 129(5)
+take68(1)
+taking68(1)
+to declare7(1)
+train7(1)
+transitional matter129(2)
+vehicle7(1)
+watercourse7(1)
+wool pack71(1)
