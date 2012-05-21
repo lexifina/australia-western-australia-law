@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 December 2011 of the Main Roads Act 1930 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Main Roads Act 1930 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Main Roads Act 1930 | 5 of 1930 (21 Geo. V No. 5) | 19 Nov 1930 | 1 Dec 1930 (see s. 1 and Gazette 28 Nov 1930 p. 2564)
@@ -51,14 +51,30 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 104 | 77
 Standardisation of Formatting Act 2010 s. 44(2) and 63 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 7: The Main Roads Act 1930 as at 2 Dec 2011 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 31 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Proclamation published in Gazette 28 November 1930 p. 2564.
 The Main Roads Amendment Act 1984 s. 5 is a validation provision.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Section 35 was renumbered as section 34 in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia).
 The Limitation Act 1935 s. 48A and the Second Schedule were inserted by No. 73 of 1954 s. 8.
-Defined Terms
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 31 had not come into operation. It reads as follows:
+Division 31 — Main Roads Act 1930 amended
+127.Act amended
+This Division amends the Main Roads Act 1930.
+128.Section 13 amended
+Delete section 13(4).
+129.Section 16 amended
+In section 16(1b) delete “by regulations made under the Road Traffic Act 1974.” and insert:
+under a road law as defined in the Road Traffic (Administration) Act 2008 section 4.
+130.Section 31 amended
+In section 31(1)(d) delete “pursuant to the Road Traffic Act 1974,” and insert:
+under the Road Traffic (Administration) Act 2008
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Commissioner6
 construct6
 control of access6
@@ -71,7 +87,6 @@ information19C(4)
 interest6
 land6
 main road6
-memberFirst Sch. cl. 1
 motor traffic pass6
 proclaimed area6
 relevant authority28(1)
