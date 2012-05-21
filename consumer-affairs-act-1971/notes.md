@@ -46,6 +46,10 @@ Reprint 6: The Consumer Affairs Act 1971 as at 24 Oct 2008 (includes amendments 
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Trade Measurement Legislation (Amendment and Expiry) Act 2010 s. 9 | 54 of 2010 | 8 Dec 2010 | 8 Dec 2010 (see s. 2(b)(ii))
 Fair Trading Act 2010 Pt. 10 Div. 1 | 57 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(b) and Gazette 24 Dec 2010 p. 6805)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 9 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Legal Practitioners Amendment (Disciplinary and Miscellaneous Provisions) Act 1992 Pt. 2 came into operation on 1 Feb 1993 (see s. 3(a) and Gazette 26 Jan 1993 p. 823).
 Repealed by the Acts Amendment and Repeal (Fair Trading) Act 1988.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -103,6 +107,15 @@ Commissioner for Fair Trading means the Commissioner for Fair Trading referred t
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
 The Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 23, 29, 61, 64, 75, 83 and 86 (as enacted) proposed to amend this Act. However those sections were deleted by the Acts Amendment (Fair Trading) Act 2010 s. 192 before they came into operation.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 9 had not come into operation. It reads as follows:
+Division 9 — Consumer Affairs Act 1971 amended
+60.Act amended
+This Division amends the Consumer Affairs Act 1971.
+61.Schedule amended
+In the Schedule insert in alphabetical order:
+Road Traffic (Administration) Act 2008.
+Road Traffic (Authorisation to Drive) Act 2008.
+Road Traffic (Vehicles) Act 2012.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
