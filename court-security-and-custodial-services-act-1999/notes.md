@@ -21,8 +21,20 @@ Medical Practitioners Act 2008 Sch. 3 cl. 12 | 22 of 2008 | 27 May 2008 | 1 Dec 
 Reprint 3: The Court Security and Custodial Services Act 1999 as at 3 Apr 2009 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 43 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 13 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 11 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The “Inspector provisions” as defined in the Prisons Amendment Act 1999 s. 2(4) came into operation on 18 Jun 2000 (see Gazette 16 Jun 2000 p. 2939).
 The Inspector of Custodial Services Act 2003 s. 57 and Sch. 3 are transitional provisions.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 11 had not come into operation. It reads as follows:
+Division 11 — Court Security and Custodial Services Act 1999 amended
+70.Act amended
+This Division amends the Court Security and Custodial Services Act 1999.
+71.Section 47 amended
+Delete section 47(b) and insert:
+(b) the payment of the whole or a part of a penalty under an infringement notice as defined in the Road Traffic (Administration) Act 2008 section 4 in respect of an alleged offence by the contract worker; and
+(c) the payment of the whole or a part of a penalty under an infringement notice under a law, in any other part of the world, corresponding to a road law as defined in the Road Traffic (Administration) Act 2008 section 4, in respect of an alleged offence by the contract worker.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
