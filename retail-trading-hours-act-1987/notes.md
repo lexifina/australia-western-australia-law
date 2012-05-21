@@ -23,6 +23,10 @@ Retail Trading Hours Amendment Act 2010 | 38 of 2010 | 1 Oct 2010 | s. 1 and 2: 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 3: The Retail Trading Hours Act 1987 as at 4 Feb 2011 (includes amendments listed above)
 Retail Trading Hours Amendment Act 2011 | 40 of 2011 | 4 Oct 2011 | s. 1 and 2: 4 Oct 2011 (see s. 2(a)); Act other than s. 1 and 2: 5 Oct 2011 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 45 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
 The Retail Shops and Fair Trading Legislation Amendment Act 2006 s. 18 reads as follows:
 18.Validation
@@ -30,6 +34,13 @@ An order made, or purporting to have been made, under the Retail Trading Hours A
 (a) is taken to have been validly made under that section of that Act;
 (b) continues, on and after that commencement, to have effect and the force of law; and
 (c) in relation to an order made under section 5, 12, 13 or 14 of that Act that continues to have effect and the force of law under paragraph (b) — may be amended or revoked as if it had been made under section 12E of that Act as amended by this Act.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 45 had not come into operation. It reads as follows:
+Division 45 — Retail Trading Hours Act 1987 amended
+168.Act amended
+This Division amends the Retail Trading Hours Act 1987.
+169.Section 3 amended
+In section 3(1) in the definition of motor vehicle delete “Road Traffic Act 1974 section 5(1);” and insert:
+Road Traffic (Administration) Act 2008 section 4;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -66,4 +77,3 @@ sell3(1)
 special trading precinct12A(4)
 specified12E(8)
 Wanneroo holiday resort12A(4)
-By Authority: JOHN A. STRIJK, Government Printer
