@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Transport Co-ordination Act 1966 and includes the amendments made by the other written laws referred to in the following table 6, 7, 15-19. The table also contains information about any reprint.
+This is a compilation of the Transport Co-ordination Act 1966 and includes the amendments made by the other written laws referred to in the following table 1a, 6, 7, 15-19. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road and Air Transport Commission Act 1966 | 53 of 1966 | 5 Dec 1966 | 19 Jun 1967 (see s. 2 and Gazette 9 Jun 1967 p. 1547)
@@ -71,6 +71,10 @@ Standardisation of Formatting Act 2010 s. 4, 44(2) and 51 | 19 of 2010 | 28 Jun 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 9: The Transport Co-ordination Act 1966 as at 11 Mar 2011 (includes amendments listed above)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 6 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 51 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The State Transport Co-ordination Act 1966 was repealed by the State Transport Co-ordination Act 1981, which was repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.
 The reference in the Taxi Act 1994 s. 49(a) to an amendment of s. 2 of this Act should refer to an amendment of s. 4 of this Act. Section 49(a) reads as follows:
 (a) in section 2, in the definition of omnibus by deleting “a vehicle licensed for use as a taxi-car under the Taxi-cars (Co-ordination and Control) Act 1963, or” and substituting the following —
@@ -149,6 +153,46 @@ The amendment in the Bulk Handling Repeal Act 2000 s. 16 is not included because
 The amendment in the Labour Relations Reform Act 2002 s. 27 is not included because the section it sought to amend had been replaced by the Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 42 before the amendment purported to come into operation.
 The Statutes (Repeals and Minor Amendments) Act 2003 s. 121(3) is not included because the section it sought to amend had been replaced by the Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 47 before the amendment purported to come into operation.
 The amendment in the Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 50 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13) before the amendment purported to come into operation.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 51 had not come into operation. It reads as follows:
+Division 51 — Transport Co-ordination Act 1966 amended
+186.Act amended
+This Division amends the Transport Co-ordination Act 1966.
+187.Section 27 amended
+In section 27(5) delete “part of the Metropolitan Traffic Area, within the meaning of the Road Traffic Act 1974.” and insert:
+road in respect of which the Commissioner may exercise power under the Main Roads Act 1930.
+188.Section 32 amended
+In section 32 delete “the vehicle is licensed in accordance with the Road Traffic Act 1974.” and insert:
+a licence has been granted in respect of the vehicle under the Road Traffic (Vehicles) Act 2012.
+Note:The heading to amended section 32 is to read:
+Omnibuses to be licensed under Road Traffic (Vehicles) Act 2012
+189.Section 42 amended
+In section 42 delete “the vehicle is licensed for its class, under the Road Traffic Act 1974.” and insert:
+a licence has been granted in respect of the vehicle under the Road Traffic (Vehicles) Act 2012 for that class of vehicle.
+Note:The heading to amended section 42 is to read:
+Commercial goods vehicles to be licensed under Road Traffic (Vehicles) Act 2012
+190.Section 47ZD amended
+In section 47ZD(4) delete “the person who is deemed to be the owner pursuant to a notice given to the Director General for the purposes of the Road Traffic Act 1974,” and insert:
+the person who, under the Road Traffic (Administration) Act 2008 section 5(2), is taken to be the owner of the vehicle
+191.Section 47ZE amended
+In section 47ZE delete “is licensed to drive a taxi-car under the Road Traffic Act 1974.” and insert:
+holds a driver’s licence under the Road Traffic (Authorisation to Drive) Act 2008 that authorises the person to drive a taxi-car.
+Note:The heading to amended section 47ZE is to read:
+Taxi drivers to be licensed under Road Traffic (Authorisation to Drive) Act 2008
+192.Section 47ZG amended
+Delete section 47ZG(5).
+193.Section 58B amended
+(1) In section 58B(3) in the definition of motor vehicle delete “Road Traffic Act 1974;” and insert:
+Road Traffic (Administration) Act 2008 section 4;
+(2) In section 58B(3) in the definition of owner delete “who is the holder of the requisite vehicle licence under the Road Traffic Act 1974 in respect of that vehicle,” and insert:
+to whom a licence in respect of the vehicle has been granted under the Road Traffic (Vehicles) Act 2012,
+194.Section 59 amended
+In section 59 delete “the Road Traffic Act 1974, but that Act” and insert:
+a road law as defined in the Road Traffic (Administration) Act 2008 section 4 but a road law
+Note:The heading to amended section 59 is to read:
+Effect of other road laws
+195.First Schedule amended
+In the First Schedule delete “in whose name the vehicle is licensed under the Road Traffic Act 1974.” and insert:
+to whom a licence in respect of the vehicle is granted under the Road Traffic (Vehicles) Act 2012.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -200,4 +244,3 @@ this Part47Z(2)
 to license4(1)
 transport service4(1)
 vehicle4(1)
-By Authority: JOHN A. STRIJK, Government Printer
