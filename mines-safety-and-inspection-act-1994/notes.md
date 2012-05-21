@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 February 2011 of the Mines Safety and Inspection Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Mines Safety and Inspection Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Mines Safety and Inspection Act 1994 | 62 of 1994 | 7 Nov 1994 | s. 1 and 2: 7 Nov 1994; Act other than s. 1 and 2: 9 Dec 1995 (see s. 2 and Gazette 8 Dec 1995 p. 5935)
@@ -28,6 +28,10 @@ Rail Safety Act 2010 Pt. 11 Div. 2 | 18 of 2010 | 28 Jun 2010 | 1 Feb 2011 (see 
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 5: The Mines Safety and Inspection Act 1994 as at 4 Feb 2011 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 33 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The Industrial Relations Act 1988 (Commonwealth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 The amendment in the Coroners Act 1996 Sch. 1 it. 11 is not included because of an error in the reference to the provision to be amended. The amendment intended was made in the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 51.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 100 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(10).
@@ -61,6 +65,13 @@ The Mines Safety and Inspection Amendment Act 2004 s. 85(2) reads as follows:
 (2) An appeal brought under section 52 of the Mines Safety and Inspection Act 1994 but not finally determined before the commencement of subsection (1), may be dealt with and determined under that section as if subsection (1) had not been enacted.
 The Mines Safety and Inspection Amendment Act 2004 s. 86(2) reads as follows:
 (2) An appeal brought under section 86 of the Mines Safety and Inspection Act 1994 but not finally determined before the commencement of subsection (1), may be dealt with and determined under that section as if subsection (1) had not been enacted.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 33 had not come into operation. It reads as follows:
+Division 33 — Mines Safety and Inspection Act 1994 amended
+133.Act amended
+This Division amends the Mines Safety and Inspection Act 1994.
+134.Section 4 amended
+In section 4(1) in the definition of mining operations paragraph (ea) delete “Road Traffic Act 1974; and” and insert:
+Road Traffic (Administration) Act 2008 section 4; and
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
