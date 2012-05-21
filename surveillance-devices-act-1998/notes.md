@@ -13,8 +13,18 @@ Australian Crime Commission (Western Australia) Act 2004 s. 72 | 74 of 2004 | 8 
 Royal Commissions (Powers) Amendment Act 2006 Pt. 3 | 30 of 2006 | 4 Jul 2006 | 16 Sep 2006 (see s. 2 and Gazette 15 Sep 2006 p. 3683)
 Reprint 2: The Surveillance Devices Act 1998 as at 8 Dec 2006 (includes amendments listed above)
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 122 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 11 | 9 of 2012 | 21 May 2012 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The provision in this Act amending that Act has been omitted under the Reprints Act 1984 s. 7(4)(e).
 Section 4B expired on 16 Apr 2004 (see Royal Commission (Police) Act 2002 s. 3(3) and Gazette 16 Apr 2004 p. 1214).
 The Listening Devices Act 1978 was repealed by this Act. The repealing provision has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Corruption and Crime Commission Amendment and Repeal Act 2003 Sch. 2 cl. 15(16) (which refers to s. 41(3)) is not included because the section it sought to amend was previously amended by Sch. 1 cl. 8(21) of the same Act.
+On the date as at which this compilation was prepared, the Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 11 had not come into operation. It reads as follows:
+11.Surveillance Devices Act 1998 amended
+(1) This section amends the Surveillance Devices Act 1998.
+(2) After section 4 insert:
+4AA.Authority required for some investigations
+This Act is subject to the Criminal Appeals Act 2004 section 46C.
