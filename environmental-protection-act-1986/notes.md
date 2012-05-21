@@ -55,6 +55,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(3)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 20 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -109,6 +110,19 @@ Schedule 4 — Amendments and repeals
 The Waste Avoidance and Resource Recovery Regulations 2008 r. 24 reads as follows:
 24.Transitional provision — Waste Management and Recycling Fund
 The Waste Avoidance and Resource Recovery Act 2007 Schedule 5 clause 6 prevails to the extent that there is an inconsistency between that provision and Part VIIA Division 2 of the EP Act.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 20 had not come into operation. It reads as follows:
+Division 20 — Environmental Protection Act 1986 amended
+99.Act amended
+This Division amends the Environmental Protection Act 1986.
+100.Section 3 amended
+(1) In section 3(1) in the definition of driver paragraph (a) delete “within the meaning of the Road Traffic Act 1974, has the meaning given by that Act; or” and insert:
+as defined in the Road Traffic (Administration) Act 2008 section 4, has the meaning given by that section; or
+(2) In section 3(1) in the definition of motor vehicle delete “Road Traffic Act 1974;” and insert:
+Road Traffic (Administration) Act 2008 section 4;
+(3) In section 3(1) in the definition of owner paragraph (a) delete “within the meaning of the Road Traffic Act 1974, has the meaning given by that Act; or” and insert:
+as defined in the Road Traffic (Administration) Act 2008 section 4, has the meaning given by section 5 of that Act; or
+(4) In section 3(1) in the definition of road delete “Road Traffic Act 1974;” and insert:
+Road Traffic (Administration) Act 2008 section 4;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
