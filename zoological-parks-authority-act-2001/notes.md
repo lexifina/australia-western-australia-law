@@ -13,3 +13,52 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and 17 | 77 of 20
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 141 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 95 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 55 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 55 had not come into operation. It reads as follows:
+Division 55 — Zoological Parks Authority Act 2001 amended
+204.Act amended
+This Division amends the Zoological Parks Authority Act 2001.
+205.Section 3 amended
+(1) In section 3 in the definition of owner:
+(a) in paragraph (a) delete “who holds the licence for the vehicle that is required under the Road Traffic Act 1974; or” and insert:
+to whom a licence in respect of the vehicle has been granted under the Road Traffic (Vehicles) Act 2012; or
+(b) in paragraph (b) delete “the vehicle is not licensed under the Road Traffic Act 1974,” and insert:
+there is not such a person,
+(2) In section 3 in the definition of vehicle delete “Road Traffic Act 1974;” and insert:
+Road Traffic (Administration) Act 2008 section 4;
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+Account3
+assetsSch. 4, cl. 1
+authorised person43(1)
+Authority3
+board3
+BoardSch. 4, cl. 1
+business arrangement10(4)
+Chief Executive Officer3, Sch. 3, cl. 4
+commencement daySch. 4, cl. 1
+committee3
+document15(4)
+emergency situation30(5)
+function3
+information15(4)
+latest draft plan16(5), 20(5)
+liabilitySch. 4, cl. 1
+member3
+member of staff3
+misbehaviourSch. 2, cl. 2(3), 3, cl. 8(2)
+owner3
+park management officer3
+participate10(4)
+repealed ActSch. 4, cl. 1
+rightSch. 4, cl. 1
+State taxSch. 4, cl. 12(1)
+Treasurer3
+vehicle3
+vehicle offence42(1)
+zoological park3
+zoological specimen3
