@@ -31,6 +31,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 54 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Legal Deposit Act 2012 Pt. 6 | 10 of 2012 | 21 May 2012 | 1 Jan 2014 (see s. 2(b) and Gazette 17 Dec 2013 p. 6218)
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to the Permanent Head is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Department of the Arts is read and construed as a reference to the Department of Culture and the Arts.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
@@ -79,3 +80,28 @@ The Library Board of Western Australia Act 1951 is amended as follows:
 (a) in section 5(14) by deleting “or the Superannuation and Family Benefits Act 1938-1950,”;
 (b) in section 6(2) by deleting “and to such rights prescribed by or pursuant to the provisions of the Superannuation and Family Benefits Act 1938-1950,”.
 ”.
+On the date as at which this compilation was prepared, the Legal Deposit Act 2012 Pt. 6 had not come into operation. It reads as follows:
+Part 6 — Consequential amendments to Library Board of Western Australia Act 1951
+21.Act amended
+This Part amends the Library Board of Western Australia Act 1951.
+22.Section 12 amended
+In section 12 delete “jurisdiction,” and insert:
+jurisdiction, or proceedings under the Legal Deposit Act 2012 section 14 or 15,
+23.Section 13 amended
+(1) In section 13(1) delete “the regulations” and insert:
+the Legal Deposit Act 2012
+(2) In section 13(2)(a) delete “Act; or” and insert:
+Act or the Legal Deposit Act 2012; or
+24.Section 15 amended
+(1) In section 15(2):
+(a) in paragraph (b) delete “Australia.” and insert:
+Australia; and
+(b) after paragraph (b) insert:
+(c) may perform the functions conferred on the Board under the Legal Deposit Act 2012.
+(2) In section 15 after each of subsections (1)(Aa) to (d) and (2)(a) insert:
+and
+25.Section 16 amended
+(1) In section 16(1) after “this Act” (first occurrence) insert:
+and the Legal Deposit Act 2012
+(2) In section 16(2)(b) delete “this Act.” and insert:
+this Act and the Legal Deposit Act 2012.
