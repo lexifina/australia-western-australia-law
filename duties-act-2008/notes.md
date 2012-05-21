@@ -16,6 +16,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv 3 | 12 of 2008 (as amended by No. 9 of 2010 s. 9) | 14 Apr 2008 | 1 Jul 2013 (see s. 2(c))
 Inheritance (Family and Dependants Provision) Amendment Act 2011 s. 15 | 48 of 2011 | 25 Oct 2011 | To be proclaimed (see s. 2(b))
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 18 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The Mining Act 1904 was repealed by the Mining Act 1978.
 The Acts Amendment (Land Administration) Act 1997commenced 30 Mar 1998 (Gazette 27 Mar 1998 p. 1765)
 On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv. 3 (as amended by No. 9 of 2010 s. 9) had not come into operation. It reads as follows:
@@ -55,6 +56,61 @@ On the date as at which this compilation was prepared, the Inheritance (Family a
 (c) a vesting of dutiable property by, or as a consequence of, a court order made —
 (i) under the Family Provision Act 1972; or
 (ii) under the Trustees Act 1962 section 65 on an application under the Family Provision Act 1972.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 18 had not come into operation. It reads as follows:
+Division 18 — Duties Act 2008 amended
+89.Act amended
+This Division amends the Duties Act 2008.
+90.Section 228 amended
+(1) In section 228 delete the definitions of:
+Director General
+Road Traffic Act
+(2) In section 228 insert in alphabetical order:
+CEO has the meaning given in the Road Traffic (Administration) Act 2008 section 4;
+Vehicles Act means the Road Traffic (Vehicles) Act 2012.
+(3) In section 228 in the definition of heavy vehicle delete “means a vehicle with a gross vehicle mass of more than 4.5 tonnes;” and insert:
+has the meaning given in the Vehicles Act;
+(4) In section 228 in the definition of motor vehicle delete “in the Road Traffic Act section 5,” and insert:
+in the Road Traffic (Administration) Act 2008 section 4,
+(5) In section 228 in the definition of vehicle delete “section 230(1).” and insert:
+section 230(1);
+91.Section 230 amended
+In section 230(2) delete “Road Traffic Act Part III.” and insert:
+the Vehicles Act.
+92.Section 240 amended
+(1) In section 240(1) delete “Road Traffic Act section 19(3).” and insert:
+Vehicles Act section 7(3).
+Note:The heading to amended section 240 is to read:
+If no vehicle licence fee payable under Vehicles Act
+(2) In section 240(2) delete “Road Traffic Act section 19(3)” and insert:
+Vehicles Act section 7(3)
+93.Section 243 amended
+In section 243(b) delete “Road Traffic Act” and insert:
+Road Traffic Act 1974 or the Vehicles Act
+94.Section 244A amended
+In section 244A(5):
+(a) delete “Road Traffic” and insert:
+Vehicles
+(b) delete “section 19(3)” and insert:
+regulations made under section 7(3)
+95.Various references to “Road Traffic Act” amended
+In the provisions listed in the Table delete “Road Traffic Act” (each occurrence) and insert:
+Vehicles Act
+Table
+s. 228 def. of corresponding State law | s. 230(1), (3)
+s. 235(a) | s. 242(1)(a) and (c)
+s. 251(1), (2) | s. 252(1)
+96.Various references to “Director General” amended
+In the provisions listed in the Table delete “Director General” (each occurrence) and insert:
+CEO
+Table
+s. 233(1) | s. 234(2)
+s. 235(a) | s. 241
+s. 252(1), (3) | s. 253(1), (2), (3)
+s. 255
+Note:The heading to amended section 253 is to read:
+Functions of CEO and Commissioner
+Note:The heading to amended section 255 is to read:
+CEO’s duties
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -319,4 +375,3 @@ vehicle B239(1)
 Western Australian business9, 79
 Western Australian business asset9, 79
 wound up3
-By Authority: JOHN A. STRIJK, Government Printer
