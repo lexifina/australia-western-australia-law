@@ -50,6 +50,7 @@ Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 27 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 4.Section 6A inserted
 After section 6 the following section is inserted in Part 1 —
@@ -375,6 +376,16 @@ declared pests on the land under the lease in compliance with the Biosecurity an
 “
 (a) the Biosecurity and Agriculture Management Act 2007;
 ”.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 27 had not come into operation. It reads as follows:
+Division 27 — Land Administration Act 1997 amended
+116.Act amended
+This Division amends the Land Administration Act 1997.
+117.Section 61 amended
+In section 61(2)(a):
+(a) delete “the Road Traffic Act 1974” and insert:
+a road law as defined in the Road Traffic (Administration) Act 2008 section 4
+(b) delete “within the meaning of that Act; and” and insert:
+as defined in that section; and
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -386,7 +397,7 @@ alienated land3(1)
 alleged unauthorised structure270(1)
 amenity15(8)
 ancillary purpose106(3)
-annual rent124A
+annual rent124A(1)
 appointed day3(1)
 appointed members97(1a)
 approved body corporate83(3)
@@ -411,19 +422,22 @@ condition3(1)
 conditional purchase lease80(1)
 conditional tenure land72
 conservation park45(1)
+contact details275A(1)
 continuing lease114(1)
 covenant3(1)
 Crown land3(1)
+Crown land interest holder275A(1)
 Crown lease3(1)
 date of taking151(1)
 dealing3(1)
-deemed application143(6)(c)
+deemed application143(6)
 Department3(1), 202(4)
 designate151(1)
 designated151(1)
 designation151(1)
-determination124A
-determined annual rent124A
+determination124A(1)
+determined annual rent124A(1)
+disclosure275A(5)
 employee72
 existing pastoral lease143(1)
 external Territory3(1)
@@ -434,12 +448,12 @@ high water mark3(1)
 holding authority151(1)
 in accordance with the NTA153(3), 154(3)
 instrument3(1)
-interest3(1), 151(1), Sch. 2 cl. 1(2)
+interest3(1), 151(1), Sch. 2, cl. 1(2)
 inundated land3(1)
 land3(1)
 land administration expertise3(1)
 land district3(1)
-land reservedSch. 3 cl. 1
+land reservedSch. 3, cl. 1
 lease3(1)
 licence3(1)
 location3(1)
@@ -470,7 +484,7 @@ pastoral purposes93
 Planning Commission3(1)
 plant267(1)
 positive covenant3(1)
-pre-1933 legislation283, Sch. 3 cl. 1
+pre-1933 legislation283, Sch. 3, cl. 1
 principal proprietor151(1)
 Principal Registrar of the Supreme Court151(1)
 private road3(1)
@@ -478,7 +492,7 @@ profit à prendre3(1)
 prohibited stock93
 proprietor151(1)
 public access route3(1)
-public authority30(2)
+public authority30(2), 275A(1)
 public purpose143(10)
 public service officer3(1)
 public utility services3(1)
@@ -500,15 +514,15 @@ repealed Act3(1)
 reservation3(1)
 reserve3(1)
 respondent35(1)
-responsible personSch. 2 cl. 45(1)
+responsible personSch. 2, cl. 45(1)
 road3(1)
 scheme3(1)
-small portion176(1)(b)
+small portion176(1)
 soil conservation notice93
 special Act151(1)
 specified purpose144(4)
 State instrumentality3(1)
-status order3(1), Sch. 2 cl. 1(2)
+status order3(1), Sch. 2, cl. 1(2)
 stock3(1), 108(6), 111(7), 113(4)
 structure267(1)
 subject Crown land63
@@ -524,9 +538,9 @@ the adjoining land87(1)
 the Crown264(4)
 the first Act200(2)
 the landholder87(3)
-the original portion176(1)(a)
+the original portion176(1)
 the Program8(1)
-the repealed legislationSch. 2 cl. 30(2)
+the repealed legislationSch. 2, cl. 30(2)
 the return date113(1)
 the second Act200(2)
 the specified use75(1)
@@ -539,5 +553,5 @@ transitional period3(1)
 unallocated Crown land3(1)
 unauthorised structure270(1)
 unmanaged reserve3(1)
-war service landSch. 2 cl. 30(2)
+war service landSch. 2, cl. 30(2)
 work151(1)
