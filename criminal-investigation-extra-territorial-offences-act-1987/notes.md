@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Criminal Investigation (Extra-territorial Offences) Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Criminal Investigation (Extra-territorial Offences) Act 1987 and includes the amendments made by the other written laws referred to in the following table, 1a. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Investigation (Extra-territorial Offences) Act 1987 | 67 of 1987 | 22 Nov 1987 | s. 1 and 2: 22 Nov 1987; Act other than s. 1 and 2: 5 May 1989 (see s. 2 and Gazette 5 May 1989 p. 1367)
@@ -11,3 +11,13 @@ Criminal Investigation (Consequential Provisions) Act 2006 Pt. 6 | 59 of 2006 | 
 Reprint 2: The Criminal Investigation (Extra-territorial Offences) Act 1987 as at 24 Aug 2007 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 7 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 8 | 9 of 2012 | 21 May 2012 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 8 had not come into operation. It reads as follows:
+8.Criminal Investigation (Extra-territorial Offences) Act 1987 amended
+(1) This section amends the Criminal Investigation (Extra-territorial Offences) Act 1987.
+(2) At the end of Part 1 insert:
+3A.Authority required for some investigations
+This Act is subject to the Criminal Appeals Act 2004 section 46C.
