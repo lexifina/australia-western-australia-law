@@ -42,6 +42,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 | 73 of 2003 | 15 Dec 2003 | To be proclaimed (see s. 2)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 35 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The Motor Vehicle Dealers Act 1973 s. 40 did not come into operation and was repealed by the Motor Vehicle Dealers Amendment Act 2002 s. 62.
 The Business Licensing Amendment Act 1995 s. 38 is a transitional provision that is of no further effect.
 The Motor Vehicle Dealers Amendment Act 2002 Pt. 7 reads as follows:
@@ -151,6 +152,21 @@ Penalty: $5 000.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 has transitional provisions some of which may be relevant to this Act.
 The amendments in the Acts Amendment (Fair Trading) Act 2010 s. 177 will not come into operation (see s. 2(b)(i)).
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 35 had not come into operation. It reads as follows:
+Division 35 — Motor Vehicle Dealers Act 1973 amended
+142.Act amended
+This Division amends the Motor Vehicle Dealers Act 1973.
+143.Section 5 amended
+(1) In section 5(1) in the definition of demonstration vehicle paragraph (a) delete “that is licensed under the provisions of the Road Traffic Act 1974 in the name of” and insert:
+in respect of which a licence has been granted under the Road Traffic (Vehicles) Act 2012 to
+(2) In section 5(2)(a) delete “within the meaning given thereto by the Road Traffic Act 1974; and” and insert:
+as defined in the Road Traffic (Administration) Act 2008 section 4; and
+144.Section 28A amended
+In section 28A(2) delete “for the vehicle issued under the Road Traffic Act 1974.” and insert:
+granted in respect of the vehicle under the Road Traffic (Vehicles) Act 2012.
+145.Section 33 amended
+In section 33(3)(e) delete “where the vehicle is not then licensed under the Road Traffic Act 1974,” and insert:
+if a licence has not been granted in respect of the vehicle under the Road Traffic (Vehicles) Act 2012,
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
