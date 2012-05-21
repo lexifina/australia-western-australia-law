@@ -5,6 +5,25 @@ Short title | Number and year | Assent | Commencement
 Cross-border Justice Act 2008 | 7 of 2008 | 31 Mar 2008 | s. 1 and 2: 31 Mar 2008 (see s.2(a)); Act other than s. 1, 2, 67(b), 68(2)(b) and (e), 108, 110, 117, 119, 137 and Pt. 15 Div. 1: 1 Nov 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991); s. 67(b), 68(2)(b) and (e), 108, 110, 117, 119, 137 and Pt. 15 Div. 1: 1 Dec 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991)
 Police Amendment Act 2009 s. 17 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Cross-border Justice Amendment Act 2010 | 1 of 2010 | 9 Mar 2010 | s. 1 and 2: 9 Mar 2010 (see s. 2(a)); Act other than s. 1 and 2: 9 Mar 2010 (see s. 2(b)(ii))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 16 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 16 had not come into operation. It reads as follows:
+Division 16 — Cross-border Justice Act 2008 amended
+83.Act amended
+This Division amends the Cross-border Justice Act 2008.
+84.Section 68 amended
+In section 68(2)(h) delete “the Road Traffic Act 1974” and insert:
+any enactment referred to in paragraph (a) of the definition of road traffic laws in section 138(1)
+85.Section 138 amended
+In section 138(1) in the definition of road traffic laws paragraph (a) delete “State — the Road Traffic Act 1974; or” and insert:
+State, any of the following enactments —
+(i)the Road Traffic Act 1974;
+(ii)the Road Traffic (Administration) Act 2008;
+(iii)the Road Traffic (Authorisation to Drive) Act 2008;
+(iv)the Road Traffic (Vehicles) Act 2012;
+or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
