@@ -9,6 +9,7 @@ Short title | Number and year | Assent | Commencement
 Road Traffic (Authorisation to Drive) Act 2008 s. 3 and Pt. 2-62 | 39 of 2008 | 15 Aug 2008 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b))
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 4 | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 Road Traffic Legislation Amendment (Information) Act 2011 Pt. 4 | 18 of 2011 | 2 Jun 2011 | Pt. 4 other than s. 24: operative on commencement of the Road Traffic (Administration) Act 2008 other than s. 1 and 2 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611); s. 25: to be proclaimed (see s. 2(b))
+Road Traffic Legislation Amendment Act 2012 Pt. 6 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(f))
 On the date as at which this compilation was prepared, the Road Traffic (Authorisation to Drive) Act 2008 s. 3 and Pt. 2-6 had not come into operation. They read as follows:
 “
 3.Terms used in this Act
@@ -739,6 +740,18 @@ If the person shown in a photograph has died, the CEO may disclose the photograp
 section 13A.
 (2) In section 47(5) delete “section 14” and insert:
 section 13A
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 6 had not come into operation. It reads as follows:
+Part 6 — Road Traffic (Authorisation to Drive) Act 2008 amended
+233.Act amended
+This Part amends the Road Traffic (Authorisation to Drive) Act 2008.
+234.Part 6 Division 1 heading amended
+In the heading to Part 6 Division 1 delete “(Consequential Provisions) Act 2008” and insert:
+Legislation Amendment Act 2012
+235.Section 64 amended
+(1) In section 64 in the definition of amending Act delete “(Consequential Provisions) Act 2008;” and insert:
+Legislation Amendment Act 2012;
+(2) In section 64 in the definition of commencement day delete “(Consequential Provisions) Act 2008 Part 2” and insert:
+Legislation Amendment Act 2012 Part 3
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
