@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 June 2009 of the Dangerous Goods Safety Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Dangerous Goods Safety Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Dangerous Goods Safety Act 2004 | 7 of 2004 | 10 Jun 2004 | s. 1 and 2: 10 Jun 2004; Act other than s. 1 and 2: 1 Mar 2008 (see s. 2 and Gazette 29 Feb 2008 p. 669)
@@ -7,8 +7,24 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 1: The Dangerous Goods Safety Act 2004 as at 5 Jun 2009 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 17 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The provisions in this Act repealing these written laws have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 17 had not come into operation. It reads as follows:
+Division 17 — Dangerous Goods Safety Act 2004 amended
+86.Act amended
+This Division amends the Dangerous Goods Safety Act 2004.
+87.Section 14 amended
+(1) In section 14(1) delete “within the meaning of the Road Traffic Act 1974” and insert:
+as defined in the Road Traffic (Administration) Act 2008 section 5
+(2) In section 14(2) delete “within the meaning of the Road Traffic Act 1974” and insert:
+as defined in the Road Traffic (Administration) Act 2008 section 5
+88.Section 15 amended
+In section 15(2) delete “the owner within the meaning of the Road Traffic Act 1974 of” and insert:
+a responsible person, as defined in the Road Traffic (Administration) Act 2008 section 4, for
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
