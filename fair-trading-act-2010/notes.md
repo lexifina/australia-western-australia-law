@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 February 2012 of the Fair Trading Act 2010 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fair Trading Act 2010 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fair Trading Act 2010 | 57 of 2010 | 8 Dec 2010 | s. 1 and 2: 8 Dec 2010 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2011 (see s. 2(b) and Gazette 24 Dec 2010 p. 6805)
@@ -8,7 +8,8 @@ Reprint 1: The Fair Trading Act 2010 as at 3 Feb 2012 (includes amendments liste
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 23, 29, 61, 64, 75, 83 and 86 | 24 of 2007 (as amended by No. 58 of 2010 s. 192) | 12 Oct 2007 | To be proclaimed (see s. 2(1))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 23, 29, 61, 64, 75, 83 and 86 | 24 of 2007 (as amended by No. 58 of 2010 s. 192) | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 21 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 23, 29, 61, 64, 75, 83 and 86 (as amended by the Acts Amendment (Fair Trading) Act 2010 s. 192) had not come into operation. They read as follows:
 23.Fair Trading Act 2010 amended
@@ -40,6 +41,18 @@ On the date as at which this reprint was prepared, the Biosecurity and Agricultu
 (2) In Schedule 1 insert in alphabetical order:
 Biosecurity and Agriculture Management Act 2007
 [Section 86 amended by No. 58 of 2010 s. 192(8).]
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 21 had not come into operation. It reads as follows:
+Division 21 — Fair Trading Act 2010 amended
+101.Act amended
+This Division amends the Fair Trading Act 2010.
+102.Section 63 amended
+In section 63 in the definition of motor vehicle delete “Road Traffic Act 1974 section 5(1).” and insert:
+Road Traffic (Administration) Act 2008 section 4.
+103.Schedule 1 amended
+In Schedule 1 insert in alphabetical order:
+Road Traffic (Administration) Act 2008.
+Road Traffic (Authorisation to Drive) Act 2008.
+Road Traffic (Vehicles) Act 2012.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -98,4 +111,3 @@ this jurisdiction17(1)
 trade or commerce6
 transitional matter117(2)
 variation day38(2)(b)
-By Authority: JOHN A. STRIJK, Government Printer
