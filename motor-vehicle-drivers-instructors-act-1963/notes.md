@@ -19,6 +19,10 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Reprint 3: The Motor Vehicle Drivers Instructors Act 1963 as at 1 Jul 2005 (includes amendments listed above)
 Road Traffic Amendment Act 2006 Pt. 4 Div. 2 | 54 of 2006 | 26 Oct 2006 | 30 Jun 2008 (see s. 2 and Gazette 10 Jun 2008 p. 2471)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 36 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 67-69 read as follows:
 “
 67.Agreements under former Transport Co-ordination Act 1966 section 15C
@@ -73,3 +77,30 @@ transitional matter means a matter that needs to be dealt with for the purpose o
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 33 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 36 had not come into operation. It reads as follows:
+Division 36 — Motor Vehicle Drivers Instructors Act 1963 amended
+146.Act amended
+This Division amends the Motor Vehicle Drivers Instructors Act 1963.
+147.Section 3 amended
+(1) In section 3 in the definition of motor vehicle delete “Part IVA of the Road Traffic Act 1974;” and insert:
+the Road Traffic (Administration) Act 2008 section 4;
+(2) In section 3 in the definition of road delete “Part IVA of the Road Traffic Act 1974;” and insert:
+the Road Traffic (Administration) Act 2008 section 4;
+148.Section 5 amended
+In section 5(1)(d) delete “Road Traffic Act 1974,” and insert:
+Road Traffic (Vehicles) Act 2012,
+149.Section 7 amended
+(1) In section 7(3)(b) delete “such of the provisions of the Road Traffic Act 1974 and of the regulations made under that Act as relate” and insert:
+any road law, as defined in the Road Traffic (Administration) Act 2008 section 4 relating
+(2) In section 7(5)(e) delete “licence under the Road Traffic Act 1974,” and insert:
+driver’s licence under the Road Traffic (Authorisation to Drive) Act 2008,
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Director General3
+driving instructor3
+licence3
+motor vehicle3
+permit3
+road3
+section3
