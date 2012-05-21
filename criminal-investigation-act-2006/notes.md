@@ -13,6 +13,32 @@ Prohibited Behaviour Orders Act 2010 Pt. 5 Div. 2 | 59 of 2010 | 8 Dec 2010 | 23
 Criminal Investigation Amendment Act 2011 | 11 of 2011 | 2 May 2011 | s. 1 and 2: 2 May 2011 (see. s. 2(a)); Act other than s. 1 and 2: 3 May 2011 (see s. 2(b))
 Restraining Orders Amendment Act 2011 Pt. 3 | 32 of 2011 | 12 Sep 2011 | 5 May 2012 (see s. 2(b) and Gazette 4 May 2012 p. 1847)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 6 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 14 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 7 | 9 of 2012 | 21 May 2012 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 14 had not come into operation. It reads as follows:
+Division 14 — Criminal Investigation Act 2006 amended
+76.Act amended
+This Division amends the Criminal Investigation Act 2006.
+77.Section 18 amended
+(1) In section 18(1) in the definition of road delete “Road Traffic Act 1974 section 5(1);” and insert:
+Road Traffic (Administration) Act 2008 section 4;
+(2) In section 18(1) in the definition of vehicle delete “Road Traffic Act 1974 section 5(1).” and insert:
+Road Traffic (Administration) Act 2008 section 4.
+78.Section 28 amended
+In section 28(2) delete “member of the Police Force” and insert:
+police officer
+79.Section 135 amended
+In section 135(2)(b) delete “member of the Police Force acting under the Road Traffic Act 1974 section 66, is accompanying such a member” and insert:
+police officer acting under the Road Traffic Act 1974 section 66, is accompanying a police officer
+On the date as at which this compilation was prepared, the Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 7 had not come into operation. It reads as follows:
+7.Criminal Investigation Act 2006 amended
+(1) This section amends the Criminal Investigation Act 2006.
+(2) After section 7 insert:
+8A.Authority required for some investigations
+This Act is subject to the Criminal Appeals Act 2004 section 46C.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
