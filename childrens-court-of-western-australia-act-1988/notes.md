@@ -45,6 +45,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 7 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
 Footnote no longer applicable.
 Now known as the Children’s Court of Western Australia Act 1988; short title changed (see note under s. 1).
@@ -56,6 +57,13 @@ Act | Provision
 .......................... | ........
 Children’s Court of Western Australia Act 1988 | s. 7(4)
 ...................... | ........
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 7 had not come into operation. It reads as follows:
+Division 7 — Children’s Court of Western Australia Act 1988 amended
+55.Act amended
+This Division amends the Children’s Court of Western Australia Act 1988.
+56.Section 51A amended
+Delete section 51A(3)(h) and insert:
+(h) the CEO as defined in the Road Traffic (Administration) Act 2008 section 4;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
