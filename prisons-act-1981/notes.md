@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 21 January 2011 of the Prisons Act 1981 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the Prisons Act 1981 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Prisons Act 1981 | 115 of 1981 | 14 Dec 1981 | 1 Aug 1982 (see s. 2 and Gazette 23 Jul 1982 p. 2841)
@@ -52,10 +52,11 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 41 | 35 of 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 7: The Prisons Act 1981 as at 21 Jan 2011 (includes amendments listed above)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 16 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2(d))
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 42 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
 Under the Alteration of Statutory Designations Order (No. 3) 2001, a reference to the Western Australian Prisons Department was, unless the contrary intention appears, to be read and construed as a reference to the Department of Justice.
@@ -79,7 +80,7 @@ Schedule 2 cl. 6(5) reads as follows:
 (5) A person who, immediately before the commencement of this Act, was a person who had been appointed by the Governor, under the Prisons Act 1981 section 54, to be a visiting justice is to be regarded, on and from the commencement, as a person who is appointed by the Minister, under the Prisons Act 1981 section 54, as a visiting justice on the same terms and conditions as applied to the person’s appointment by the Governor.
 The amendments in the Corruption and Crime Commission Amendment and Repeal Act 2003 Sch. 2 cl. 11(3)-(6) are not included because the sections they sought to amend had been deleted by the Inspector of Custodial Services Act 2003 s. 56(1) before the amendment purported to come into operation.
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Sch. 1 cl. 25 (amendment to s. 23) was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 78(4).
-On the date as at which this reprint was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 36(2) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Homicide) Act 2008 s. 36(2) had not come into operation. It reads as follows:
 36.Prisons Act 1981
 (2) Section 16(6) is repealed and the following subsection is inserted instead —
 “
@@ -90,6 +91,14 @@ On the date as at which this reprint was prepared, the Criminal Law Amendment (H
 or
 (b) whose release is to be determined by the Governor.
 ”.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 42 had not come into operation. It reads as follows:
+Division 42 — Prisons Act 1981 amended
+162.Act amended
+This Division amends the Prisons Act 1981.
+163.Section 15L amended
+Delete section 15L(b) and insert:
+(b) the payment of the whole or a part of a penalty under an infringement notice as defined in the Road Traffic (Administration) Act 2008 section 4 in respect of an alleged offence by the contract worker; and
+(c) the payment of the whole or a part of a penalty under an infringement notice under a law, in any other part of the world, corresponding to a road law as defined in the Road Traffic (Administration) Act 2008 section 4, in respect of an alleged offence by the contract worker.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -150,4 +159,3 @@ this Act6(6)
 victim113B(1)
 video link74A(1)
 visiting justice3(1)
-By Authority: JOHN A. STRIJK, Government Printer
