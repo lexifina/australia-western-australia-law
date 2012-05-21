@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Rail Safety Act 2010 s. 64-66 | 18 of 2010 | 28 Jun 2010 | s. 64-66: 1 Feb 2014 (see s. 2(d))
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 44 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, the Rail Safety Act 2010 s. 64-66 had not come into operation. They read as follows:
 64.Interface coordination — rail infrastructure manager — public roads
 A rail infrastructure manager —
@@ -34,6 +35,13 @@ and
 (b) must determine measures to manage, so far as is reasonably practicable, those risks; and
 (c) must, for the purpose of managing those risks, seek to enter into an interface agreement with the rail infrastructure manager.
 (3) Nothing in this section authorises or requires a road manager to act inconsistently with, or without regard to, the functions, obligations or powers conferred on it under an Act other than this Act.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 44 had not come into operation. It reads as follows:
+Division 44 — Rail Safety Act 2010 amended
+166.Act amended
+This Division amends the Rail Safety Act 2010.
+167.Section 3 amended
+In section 3 in the definition of public road delete “Road Traffic Act 1974 section 5(1);” and insert:
+Road Traffic (Administration) Act 2008 section 4;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
