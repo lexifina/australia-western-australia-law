@@ -48,6 +48,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 54 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -99,6 +100,22 @@ s. 17 | Obtaining payment for commercial sexual act by a child
 s. 18 | Agreement for a child to act as a sex worker
 ”.
 ”.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 54 had not come into operation. It reads as follows:
+Division 54 — Young Offenders Act 1994 amended
+200.Act amended
+This Division amends the Young Offenders Act 1994.
+201.Section 46 amended
+In section 46(5a) delete “section 106 of the Road Traffic Act 1974” and insert:
+the Road Traffic (Administration) Act 2008 section 121
+202.Section 55 amended
+In section 55(4):
+(a) delete “the Road Traffic Act 1974” and insert:
+a road law as defined in the Road Traffic (Administration) Act 2008 section 4
+(b) delete “under that Act” and insert:
+as defined in that section
+203.Section 189 amended
+In section 189(8)(c) delete “issued under the Road Traffic Act 1974; or” and insert:
+as that term is defined in the Road Traffic (Administration) Act 2008 section 4; or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
