@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 May 2012 of the Government Railways Act 1904 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Government Railways Act 1904 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Government Railways Act 1904 | 23 of 1904 (3 Edw. VII No. 38) | 16 Jan 1904 | 16 Jan 1904
@@ -75,6 +75,10 @@ Rail Safety Act 2010 Pt. 11 Div. 1 | 18 of 2010 | 28 Jun 2010 | 1 Feb 2011 (see 
 Standardisation of Formatting Act 2010 s. 60 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Metropolitan Redevelopment Authority Act 2011 s. 139 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Reprint 9: The Government Railways Act 1904 as at 4 May 2012 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 25 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Office of Titles plans are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 62 is not included because the subsection it sought to amend had been replaced by the Public Transport Authority Act 2003 s. 137(1) before the amendment purported to come into operation.
 The Second Schedule was inserted by the Limitation Act Amendment Act 1954 s. 8.
@@ -169,12 +173,19 @@ The operation of a provision of this Part is not to be regarded as —
 (c) giving rise to a remedy by a party to an instrument, or causing or permitting the termination of any instrument, because of a change in the beneficial or legal ownership of any asset or liability;
 (d) causing any contract or instrument to be void or otherwise unenforceable; or
 (e) releasing, or allowing the release of, any surety.
-Defined Terms
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 25 had not come into operation. It reads as follows:
+Division 25 — Government Railways Act 1904 amended
+112.Act amended
+This Division amends the Government Railways Act 1904.
+113.Section 73 amended
+In section 73(2A) delete “the Road Traffic Act 1974,” and insert:
+a road law as defined in the Road Traffic (Administration) Act 2008 section 4,
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 authorised person53A(1)
 Authority2
-Authority ticket45(d)
+Authority ticket45
 body14(1)
 business concern2AA(2)
 charges2
