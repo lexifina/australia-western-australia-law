@@ -23,6 +23,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Community Protection (Offender Reporting) Amendment Act 2012 Pt. 3 Div. 1 | 1 of 2012 | 15 Mar 2012 | To be proclaimed (see s. 2(b))
+Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 9 | 9 of 2012 | 21 May 2012 | To be proclaimed (see s. 2(b))
 Section 95 of this Act gave effect to Sch. 1 which set out some temporary provisions relating to obtaining and using identifying particulars of people in custody and others. These provisions ceased to have effect on 29 June 2005.
 On the date as at which this compilation was prepared, the Community Protection (Offender Reporting) Amendment Act 2012 Pt. 3 Div. 1 had not come into operation. It reads as follows:
 Division 1 — Criminal Investigation (Identifying People) Act 2002 amended
@@ -31,6 +32,12 @@ This Division amends the Criminal Investigation (Identifying People) Act 2002.
 8.Section 73 amended
 After section 73(1)(nb) insert:
 (nc) for the purposes of the Community Protection (Offender Reporting) Act 2004 section 85F or 85G;
+On the date as at which this compilation was prepared, the Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 9 had not come into operation. It reads as follows:
+9.Criminal Investigation (Identifying People) Act 2002 amended
+(1) This section amends the Criminal Investigation (Identifying People) Act 2002.
+(2) After section 11 insert:
+12A.Authority required for some investigations
+This Act is subject to the Criminal Appeals Act 2004 section 46C.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
