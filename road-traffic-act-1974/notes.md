@@ -152,6 +152,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 5, 11, 12(2)(c), (5)(d) and (7)(b), 14 and 15 | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 Road Traffic Legislation Amendment (Information) Act 2011 s. 9 | 18 of 2011 | 2 Jun 2011 | To be proclaimed (see s. 2(b))
+Road Traffic Legislation Amendment Act 2012 Pt. 3 | 8 of 2012 | 21 May 2012 | Pt. 3 (s. 15-18): operative on commencement of the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 11 (see s. 2(c)(ii)); Pt. 3 (other than s. 15-18): operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Repealed by the Interpretation Act 1984.
 Section 111(2)(f) of this Act has been deleted.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
@@ -389,6 +390,181 @@ Penalty: Imprisonment for 2 years.
 (b) causes or permits another person to do so,
 commits an offence.
 Penalty: Imprisonment for 2 years.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Consequential amendments to the Road Traffic Act 1974
+4.Act amended
+This Part amends the Road Traffic Act 1974.
+5.Long title amended
+In the long title delete “consolidate and amend the law relating to road traffic; to repeal the Traffic Act 1919” and insert:
+make provision in relation to the driving and use of vehicles, the regulation of traffic
+6.Section 5 replaced
+Delete section 5 and insert:
+5.Terms used
+The Road Traffic (Administration) Act 2008 Part 1 Division 2 provides for the meanings of some terms and abbreviations in this Act.
+7.Section 5A deleted
+Delete section 5A.
+8.Parts II to IVA deleted
+Delete Parts II to IVA.
+9.Section 49AA amended
+In section 49AA delete the definition of bodily harm.
+10.Section 49 amended
+(1) In section 49(1)(a) delete “Part IVA” and insert:
+the Road Traffic (Authorisation to Drive) Act 2008 Part 2
+(2) In section 49(2)(a) delete “section 44(1); or” and insert:
+the Road Traffic (Authorisation to Drive) Act 2008 section 11(1); or
+(3) In section 49(4) delete “to the State Administrative Tribunal”.
+(4) In section 49(5) delete “Director General has been ordered under section 76(3)” and insert:
+CEO has been ordered under the Road Traffic (Authorisation to Drive) Act 2008 section 30(1)
+11.Sections 51 and 53 deleted
+Delete sections 51 and 53.
+12.Sections 58 and 58A deleted
+Delete sections 58 and 58A.
+13.Section 64A amended
+(1) In section 64A(2):
+(a) in paragraph (a) delete “licence;” and insert:
+licence as defined in the Road Traffic (Authorisation to Drive) Act 2008 section 3(1); or
+(b) in paragraph (d) delete “section 75(2a) or (2b)” and insert:
+the Road Traffic (Authorisation to Drive) Act 2008 section 22(1) or (2)
+(c) in paragraph (e) delete “licence; or” and insert:
+licence as defined in the Road Traffic (Authorisation to Drive) Act 2008 section 3(1); or
+(2) In section 64A(3)(b) delete “section 75(2a) or (2b)” and insert:
+the Road Traffic (Authorisation to Drive) Act 2008 section 22(1) or (2)
+(3) In section 64A(5)(d) delete “gross combination mass” and insert:
+GCM
+(4) Delete section 64A(6).
+14.Section 64AAA amended
+In section 64AAA(2) in the definition of novice driver delete “section 104(2).” and insert:
+the Road Traffic (Authorisation to Drive) Act 2008 section 40(2).
+15.Section 71C amended
+(1) In section 71C(1):
+(a) in paragraph (a) delete “a member of the Police Force (the member),” and insert:
+a police officer (the police officer),
+(b) in paragraph (b) delete “a member of the Police Force (the member)” and insert:
+a police officer (the police officer)
+(2) In section 71C(2) delete “member” and insert:
+police officer
+(3) In section 71C(6)(a)(ii) delete “member of the Police Force” and insert:
+police officer
+(4) In section 71C(7), (8) and (9) delete “member” (each occurrence) and insert:
+police officer
+(5) In section 71C(9) delete “Director General.” and insert:
+CEO.
+Note:The heading to amended section 71C is to read:
+Disqualification by police officer
+16.Section 71E amended
+(1) In section 71E(1):
+(a) delete “member of the Police Force” and insert:
+police officer
+(b) in paragraph (a) delete “member” and insert:
+police officer
+(2) In section 71E(2):
+(a) delete “member of the Police Force” and insert:
+police officer
+(b) delete “the member” and insert:
+the police officer
+(c) in paragraph (b) delete “Director General.” and insert:
+CEO.
+Note:The heading to amended section 71E is to read:
+Revocation of disqualification notice by police officer
+17.Section 71F amended
+In section 71F(6) delete “Director General.” and insert:
+CEO.
+18.Section 71G amended
+In section 71G(2) delete “Director General.” and insert:
+CEO.
+19.Section 74 amended
+Delete section 74(1) and (2).
+20.Sections 75 to 78 deleted
+Delete sections 75 to 78.
+21.Section 78A amended
+In section 78A in the definition of senior police officer delete “person appointed under the Police Act 1892 Part I to be a member of the Police Force of Western Australia” and insert:
+police officer
+22.Section 78C amended
+In section 78C(6)(b) delete “section 86A.” and insert:
+any other road law in relation to the moving of vehicles.
+23.Section 78D amended
+In section 78D(c) delete “members of the Police Force” and insert:
+police officers
+24.Section 79BA amended
+In section 79BA(1)(a) delete “member of the Police Force (the member)” and insert:
+police officer (the police officer)
+25.Section 80L amended
+Delete section 80L(2) and insert:
+(2) The Road Traffic (Vehicles) Act 2012 section 10(1)(a), (2), (3), (4) and (5) do not apply if the CEO is given notice under subsection (1)(a).
+26.Sections 82 to 87 deleted
+Delete sections 82 to 87.
+27.Sections 92 to 103 deleted
+Delete sections 92 to 103.
+28.Part VIA deleted
+Delete Part VIA.
+29.Section 105 deleted
+Delete section 105.
+30.Section 106 amended
+Delete section 106(1) and (2).
+31.Sections 107, 109 and 110 deleted
+Delete sections 107, 109 and 110.
+32.Section 111 amended
+(1) In section 111(1) delete “licensing,”.
+(2) In section 111(2):
+(a) in paragraph (a)(iii) and (iiia) delete “erect traffic signs and” and insert:
+erect, establish or display traffic or road signs, road markings,
+(b) delete paragraph (a)(iv);
+(c) in paragraph (b) delete “owners, responsible persons,”;
+(d) delete paragraphs (d), (da), (e), (g) and (i);
+(e) in paragraph (k) delete “section, not being an offence referred to in paragraph (l) or (m);” and insert:
+section;
+(f) delete paragraph (l) and (m);
+(g) after each of paragraph (a)(i), (ii) and (iii) insert:
+or
+(3) Delete section 111(2a) and (2b).
+33.Section 111AA deleted
+Delete section 111AA.
+34.Section 111AB amended
+(1) In section 111AB(2) delete “section 111(2)(d).” and insert:
+section 111(2)(aa) or (c).
+(2) Delete section 111AB(3) and (4).
+35.Sections 111A to 113 deleted
+Delete sections 111A to 113.
+36.Various references to “Director General” amended
+In the provisions listed in the Table delete “Director General” (each occurrence) and insert:
+CEO
+Table
+s. 50A(1)(a)(ii) | s. 79BC(4)
+s. 79BD(1), (2) | s. 79B(1)(c), (3A)(b), (3C)(b)
+s. 80G(7) | s. 80L(1)(a) and (b)
+s. 111(4)(b) and (d)(ii) | s. 111AB(2)
+37.Various references to “member of the Police Force” amended
+In the provisions listed in the Table delete “member of the Police Force” (each occurrence) and insert:
+police officer
+Table
+s. 49(3) | s. 50A(1)(b)
+s. 54(6) | s. 55(4)
+s. 56(5)(b) | s. 57(1), (2)
+s. 59B(3)(c) | s. 60(1c)(a)(i), (1D)
+s. 65 def. of driver assessment | s. 66(1), (1aa), (1a), (1b), (2), (3), (4), (5), (6), (6a), (10), (11), (12)
+s. 66A(1), (2), (3), (4), (5), (6), (7) | s. 66B(1), (2), (3), (4)
+s. 66C(1), (2), (3), (4), (5), (6), (7) | s. 66D(1), (3)
+s. 66E(1), (2), (3), (4) | s. 66F(1)
+s. 67(1), (3a) | s. 67AA(1) def. of requirement
+s. 67AB(1) def. of requirement | s. 67A(1)
+s. 68(3), (7) | s. 69(1)
+s. 69A | s. 69B
+s. 70(3b) | s. 71A(1) def. of sample
+s. 71B(1), (2), (3), (5), (6), (8) | s. 78C(1), (2A), (2), (3), (4)
+s. 79(1), (2), (3A), (3) | s. 79A(1)
+s. 79BB(2) | s. 79BCA(2), (7)
+s. 79BCB(2) | s. 79BCD(2), (7)
+s. 79BCE(2) | s. 79C(1), (2), (3)
+s. 79D(2)(a), (7)
+Note:The heading to amended section 67A is to read:
+Failure to comply with other requirements of police officer
+38.Various references to “the member” amended
+In the provisions listed in the Table delete “the member” (each occurrence) and insert:
+the police officer
+Table
+s. 70(3b)(j)(i) | s. 78C(4)
+s. 79(1), (3A) | s. 79A(1)
+s. 79BA(1)(b), (b)(ii) and (2) | s. 79C(1)(a) and (b), (2)(a) and (b)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
