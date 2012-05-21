@@ -63,11 +63,22 @@ Standardisation of Formatting Act 2010 s. 20, 43(3) and 51 | 19 of 2010 | 28 Jun
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 30 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Juries Legislation Amendment Act 2011 Pt. 2 Div. 2, Pt. 3 Div. 1 and Pt. 4 | 13 of 2011 | 2 May 2011 | Pt. 2 Div. 2, Pt. 3 Div. 1 and Pt. 4 (other than s. 42-44): 1 Jul 2011 (see s. 2(b) and Gazette 30 Jun 2011 p. 2613); s. 42-44: 28 Oct 2011 (see s. 2(b) and Gazette 27 Oct 2011 p. 4551)
 Reprint 7: The Juries Act 1957 as at 23 Sep 2011 (includes amendments listed above except those in the Juries Legislation Amendment Act 2011 s. 42-44)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 26 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The Criminal Code s. 282 and 679 have been deleted.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 contains savings and transitional provisions that are of no further effect.
 The Juries Amendment Act 2003 s. 5(2) is a savings provision that is of no further effect.
 The Machinery of Government (Miscellaneous Amendment) Act 2006 s. 39(1) was repealed by the Statutes (Repeals and Minor Amendments) Act 2011 s. 23(3) before it purported to come into operation.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 26 had not come into operation. It reads as follows:
+Division 26 — Juries Act 1957 amended
+114.Act amended
+This Division amends the Juries Act 1957.
+115.Section 5 amended
+In section 5(3)(b)(iv) delete “the Road Traffic Act 1974;” and insert:
+a road law as defined in the Road Traffic (Administration) Act 2008 section 4;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
