@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 March 2011 of the Credit Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Credit Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Credit Act 1984 | 99 of 1984 | 27 Dec 1984 | s. 1 and 2: 27 Dec 1984; Act other than s. 1, 2 and 91(3): 31 Mar 1985 (see s. 2 and Gazette 8 Mar 1985 p. 867); s. 91(3) deleted by No. 8 of 2009 s. 44(2)
@@ -25,6 +25,10 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 44 | 8 of 2009 | 21 
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 9 and 36 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
  | Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Reprint 3: The Credit Act 1984 as at 11 Mar 2011 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 12 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Repealed by the Strata Titles Act 1985.
 Repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010.
 The Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 was part of a legislative exercise in which the regulation of credit and certain other transactions was referred to the Commonwealth. As part of that exercise the National Consumer Credit Protection Act 2009 (Cwlth), which contains the National Credit Code, was adopted in WA on 1 July 2010.
@@ -36,6 +40,13 @@ The Acts Amendment (Credit) Act 1989 s. 5(2) reads as follows:
 (b) affects any final order made under section 85 or 86 of the principal Act before the day that this section comes into operation.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 has transitional provisions some of which may be relevant to this Act.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 12 had not come into operation. It reads as follows:
+Division 12 — Credit Act 1984 amended
+72.Act amended
+This Division amends the Credit Act 1984.
+73.Section 5 amended
+In section 5(1) in the definition of commercial vehicle paragraph (a) delete “within the meaning of the Road Traffic Act 1974,” and insert:
+as defined in the Road Traffic (Administration) Act 2008 section 4,
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
