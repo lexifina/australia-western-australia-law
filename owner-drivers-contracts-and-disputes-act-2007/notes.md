@@ -8,7 +8,8 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 13 and 27 | 47 of 2011 | 25 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Owner-Drivers (Contracts and Disputes) Act 2007 s. 35 and 362 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
+Owner-Drivers (Contracts and Disputes) Act 2007 s. 35 and 36 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 37 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, the Owner-Drivers (Contracts and Disputes) Act 2007 s. 35 and 36 had not come into operation. They read as follows:
 “
 35.Right of entry by representative to investigate breaches
@@ -38,6 +39,14 @@ the representative is not entitled under subsection (2) to enter or remain in th
 (2) A person must not intentionally and unduly hinder or obstruct a representative in the exercise of the powers conferred by section 35.
 (3) A contravention of subsection (1) or (2) is not an offence but those subsections are civil penalty provisions for the purposes of the IR Act section 83E.
 ”.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 37 had not come into operation. It reads as follows:
+Division 37 — Owner-Drivers (Contracts and Disputes) Act 2007 amended
+150.Act amended
+This Division amends the Owner-Drivers (Contracts and Disputes) Act 2007.
+151.Section 3 amended
+(1) In section 3 delete the definition of gross vehicle mass.
+(2) In section 3 in the definition of heavy vehicle delete “means a vehicle, as defined in the Road Traffic Act 1974, with a gross vehicle mass of more than 4.5 tonnes;” and insert:
+has the meaning given in the Road Traffic (Vehicles) Act 2012 section 3(1);
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
