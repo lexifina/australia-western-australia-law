@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 March 2011 of the Children and Community Services Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Children and Community Services Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 | 34 of 2004 | 20 Oct 2004 | s. 1 and 2: 20 Oct 2004; s. 3 and 102: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); Act other than s. 1-3 and 102 and Sch. 2 cl. 9(2) and 25: 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695); Sch. 2 cl. 9(2): 11 Mar 2006 (see s. 2 and Gazette 10 Mar 2006 p. 987); Sch. 2 cl. 25 deleted by No. 8 of 2009 s. 32(4)
@@ -18,8 +18,19 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 8 | 35 of 2
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Children and Community Services Amendment Act 2010 Pt. 2 Div. 1 and Pt. 3-5 | 49 of 2010 | 24 Nov 2010 | 31 Jan 2011 (see s. 2(b) and Gazette 28 Jan 2011 p. 241)
 Reprint 3: The Children and Community Services Act 2004 as at 4 Mar 2011 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 6 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions relating to the repealed Pt. 8 of this Act.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 6 had not come into operation. It reads as follows:
+Division 6 — Children and Community Services Act 2004 amended
+53.Act amended
+This Division amends the Children and Community Services Act 2004.
+54.Section 102 amended
+In section 102 delete “Road Traffic Act 1974)” and insert:
+Road Traffic (Administration) Act 2008 section 4)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -178,3 +189,4 @@ weapon112
 wellbeing3
 working day3, 157(1)
 young child104(1)
+By Authority: JOHN A. STRIJK, Government Printer
