@@ -12,11 +12,30 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and Sch. 1 cl. 16 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The Botanic Gardens and Parks Authority Act 1998 as at 6 Aug 2010 (includes amendments listed above)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 3 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The provision in this Act consequentially amending other Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
-Defined Terms
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 3 had not come into operation. It reads as follows:
+Division 3 — Botanic Gardens and Parks Authority Act 1998 amended
+43.Act amended
+This Division amends the Botanic Gardens and Parks Authority Act 1998.
+44.Section 3 amended
+(1) In section 3 in the definition of owner:
+(a) in paragraph (a) delete “who holds the licence for the vehicle that is required under the Road Traffic Act 1974; or” and insert:
+to whom a licence in respect of the vehicle has been granted under the Road Traffic (Vehicles) Act 2012; or
+(b) in paragraph (b) delete “the vehicle is not licensed under the Road Traffic Act 1974,” and insert:
+there is not such a person,
+(2) In section 3 in the definition of vehicle delete “same meaning as in the Road Traffic Act 1974.” and insert:
+meaning given in the Road Traffic (Administration) Act 2008 section 4.
+45.Section 50 amended
+In section 50(1) in the definition of speed measuring equipment delete “section 98A(2) of the Road Traffic Act 1974.” and insert:
+the Road Traffic (Administration) Act 2008 section 117(2).
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Account3
 assetsSch. 2 cl. 1
 authorised person51(1)
