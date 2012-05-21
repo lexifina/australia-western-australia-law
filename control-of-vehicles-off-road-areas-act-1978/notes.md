@@ -42,6 +42,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Control of Vehicles (Off-road Areas) Act 1978 s. 11 | 117 of 1978 (as amended by No. 7 of 2002 s. 7) | 12 Dec 1978 | To be proclaimed (see s. 2)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 10 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 On the date as at which this compilation was prepared, the Control of Vehicles (Off-road Areas) Act 1978 s. 11 (as amended by the Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 7) had not come into operation. It reads as follows:
 “
 11.Responsibility of owners
@@ -63,6 +64,50 @@ The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 12 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 10 had not come into operation. It reads as follows:
+Division 10 — Control of Vehicles (Off-road Areas) Act 1978 amended
+62.Act amended
+This Division amends the Control of Vehicles (Off-road Areas) Act 1978.
+63.Section 3 amended
+(1) In section 3(1) in the definition of off-road vehicle delete “Road Traffic Act 1974;” and insert:
+Road Traffic (Vehicles) Act 2012;
+(2) In section 3(1) in the definition of responsible person delete “section 5A of the Road Traffic Act 1974;” and insert:
+the Road Traffic (Administration) Act 2008 section 6;
+64.Section 7 amended
+In section 7(1)(a) delete “Road Traffic Act 1974; or” and insert:
+Road Traffic (Vehicles) Act 2012; or
+65.Section 11 amended
+(1) In section 11(1)(b) delete “Road Traffic Act 1974,” and insert:
+Road Traffic (Vehicles) Act 2012,
+(2) Delete section 11(3)(a) and insert:
+(a) the Road Traffic (Administration) Act 2008 section 5(2); or
+66.Section 34 amended
+In section 34(2) delete “Road Traffic Act 1974,” and insert:
+Road Traffic (Vehicles) Act 2012,
+67.Section 36 amended
+(1) In section 36 delete “the Road Traffic Act 1974,” and insert:
+a road law as defined in the Road Traffic (Administration) Act 2008 section 4
+(2) In section 36(a) delete “that Act” and insert:
+the Road Traffic Act 1974
+(3) In section 36(b) delete “in section 53, section 54, section 57, section 58, section 86A or section 89 of that Act to a member of the Police Force” and insert:
+to a police officer in the Road Traffic (Administration) Act 2008 section 32, 33, 34 or 48 or the Road Traffic Act 1974 section 54, 55 or 57
+Note:The heading to amended section 36 is to read:
+Road law provisions
+68.Section 38 amended
+(1) In section 38(2):
+(a) delete paragraph (ga) and insert:
+(ga) a person who is authorised by the CEO under the Road Traffic (Administration) Act 2008 section 22 to perform a function that can be performed by a warden; or
+(b) after each of paragraphs (a), (b), (e) and (f) insert:
+or
+(2) In section 38(11)(a) delete “Road Traffic Act 1974,” and insert:
+Road Traffic (Vehicles) Act 2012,
+(3) In section 38(12)(b) delete “Road Traffic Act 1974,” and insert:
+Road Traffic (Vehicles) Act 2012,
+(4) In section 38(15)(a) delete “Road Traffic Act 1974” and insert:
+Road Traffic (Vehicles) Act 2012
+69.Section 39 amended
+In section 39(1)(a)(ii) delete “Road Traffic Act 1974; or” and insert:
+Road Traffic (Vehicles) Act 2012; or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
