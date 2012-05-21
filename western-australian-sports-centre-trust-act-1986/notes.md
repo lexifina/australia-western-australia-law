@@ -17,22 +17,32 @@ Acts Amendment (Bankruptcy) Act 2009 s. 92 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Reprint 2: The Western Australian Sports Centre Trust Act 1986 as at 7 May 2010 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 53 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The provision of this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 Footnote no longer applicable.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed
 Act | Provision
 Western Australian Sports Centre Trust Act 1986 | s. 19(3)
 ...................... | ........
-Defined Terms
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 53 had not come into operation. It reads as follows:
+Division 53 — Western Australian Sports Centre Trust Act 1986 amended
+198.Act amended
+This Division amends the Western Australian Sports Centre Trust Act 1986.
+199.Section 18D amended
+(1) In section 18D(3) in the definition of motor vehicle delete “Road Traffic Act 1974;” and insert:
+Road Traffic (Administration) Act 2008 section 4;
+(2) In section 18D(3) in the definition of owner delete “who is the holder of the requisite vehicle licence under the Road Traffic Act 1974 in respect of that vehicle, or, if the vehicle is not licensed under that Act,” and insert:
+to whom a licence in respect of the vehicle has been granted under the Road Traffic (Vehicles) Act 2012, or, if there is not such a person,
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 authorised officer18A(2), 18C(1), 18D(3)
 board3
 Centre3
