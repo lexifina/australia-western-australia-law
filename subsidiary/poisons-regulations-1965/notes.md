@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 June 2011 of the Poisons Regulations 1965 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Poisons Regulations 1965 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Poisons Act Regulations 1965 | 29 Jun 1965 p. 1883-914 | 1 Jul 1965
@@ -156,6 +156,7 @@ Poisons Amendment Regulations (No. 4) 2010 | 19 Nov 2010 p. 5709-10 | r. 1 and 2
 Poisons Amendment Regulations (No. 6) 2010 | 19 Nov 2010 p. 5711-15 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2010 (see r. 2(b))
 Poisons Amendment Regulations 2011 | 1 Apr 2011 p. 1181-3 | r. 1 and 2: 1 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2011 (see r. 2(b))
 Reprint 10: The Poisons Regulations 1965 as at 17 Jun 2011 (includes amendments listed above)
+Poisons Amendment Regulations (No. 2) 2012 | 25 May 2012 p. 2207-8 | r. 1 and 2: 25 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 26 May 2012 (see r. 2(b))
 Formerly referred to the Health Services (Concilation and Review) Act 1995, the short title of which was changed to the Health and Disability Services (Complaints) Act 1995 by the Health and Disability Services Legislation Amendment Act 2010 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Repealed by the Veterans Entitlements Act 1986 (Cwlth. Act No. 27 of 1986).
@@ -219,6 +220,7 @@ height21A(4)
 immediate container2(1)
 immediate wrapper2(1)
 inappropriate use32A(1)
+inhaler41D(1)
 livestock39C(5)
 manager51FA
 manufacture2(1)
