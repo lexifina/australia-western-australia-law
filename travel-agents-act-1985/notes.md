@@ -28,10 +28,7 @@ Compilation table
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 125 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Building Services (Registration) Act 2011 s. 159 | 19 of 2011 | 22 Jun 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 5 | 6 of 2012 | 10 Apr 2012 | Operative on the commencement of the Business Names Registration Act 2011 (Cwlth) Pt 2 (see s. 2(c))
+Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 5 | 6 of 2012 | 10 Apr 2012 | 28 May 2012 (see s. 2(c) and Cwlth Gazette 19 Apr 2012 ref. F2012L00891)
 Repealed by the General Insurance Brokers and Agents Act Repeal Act 1986.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 41 and 64 read as follows:
@@ -102,13 +99,6 @@ commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
-On the date as at which this compilation was prepared, the Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 5 had not come into operation. It reads as follows:
-Division 5 — Travel Agents Act 1985 amended
-44.Act amended
-This Division amends the Travel Agents Act 1985.
-45.Section 14 amended
-In section 14(1) delete “Business Names Act 1962,” and insert:
-Business Names Registration Act 2011 (Commonwealth),
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

@@ -20,12 +20,12 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Liquor and Gaming Legislation Amendment Act 2006 s. 115 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 4: The Auction Sales Act 1973 as at 18 May 2007 (includes amendments listed above)
+Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 1 | 6 of 2012 | 10 Apr 2012 | 28 May 2012 (see s. 2(c) and Cwlth Gazette 19 Apr 2012 ref. F2012L00891)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Business Licensing Amendment Act 1995 Pt. 2 | 56 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2(2))
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 77 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 1 | 6 of 2012 | 10 Apr 2012 | Operative on the commencement of the Business Names Registration Act 2011 (Cwlth) Pt 2 (see s. 2(c))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 77 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 The provision in this Act repealing these Acts has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Liquor Licensing Act 1988 s. 176.
 On the date as at which this compilation was prepared, the Business Licensing Amendment Act 1995 Pt. 2 had not come into operation. It reads as follows:
@@ -75,13 +75,6 @@ An inspector appointed under the Biosecurity and Agriculture Management Act 2007
 issued under regulations made under the Biosecurity and Agriculture Management Act 2007.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 1 had not come into operation. It reads as follows:
-Division 1 — Auction Sales Act 1973 amended
-36.Act amended
-This Division amends the Auction Sales Act 1973.
-37.Section 4 amended
-In section 4 in the definition of firm delete “Business Names Act 1962;” and insert:
-Business Names Registration Act 2011 (Commonwealth);
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
