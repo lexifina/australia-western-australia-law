@@ -4,7 +4,7 @@
 1.Application to register veterinary clinic or hospital
 Application to register veterinary clinic or hospital | Veterinary Surgeons Act 1960 s. 24A
 Applicant (person who will be managing veterinary surgeon) | Name ______________________________________________ Address ________________________________________ _______________________________________________ Telephone _______________ Fax __________________ Email
-Premises | ❑ Veterinary clinic ❑ Veterinary hospital
+Premises | p Veterinary clinic p Veterinary hospital
 Name of clinic/hospital
 Street address ________________________________________ _______________________________________________ Postal address __________________________________ _______________________________________________ Telephone _______________ Fax __________________ Email
 Owner or lessee of premises Name __________________________________________ Address ________________________________________
@@ -18,7 +18,7 @@ This is to certify that the [name] _____________________________________________
 3.Application to renew registration of veterinary clinic or hospital
 Application to renew registration of veterinary clinic or hospital | Veterinary Surgeons Act 1960 s. 24A
 Managing veterinary surgeon | Name ______________________________________________ Address ________________________________________ _______________________________________________ Telephone _______________ Fax __________________ Email
-Premises | ❑ Veterinary clinic ❑ Veterinary hospital
+Premises | p Veterinary clinic p Veterinary hospital
 Registration No.
 Name of clinic/hospital
 Street address _________________________________________ _______________________________________________ Postal address __________________________________ _______________________________________________ Telephone ______________ Fax __________________ Email
@@ -27,7 +27,7 @@ Signature | _____________________________ _____________________ Managing veterin
 [Form 3 inserted in Gazette 20 Mar 2007 p. 1031.]
 4.Application to transfer management of veterinary clinic or hospital
 Application to transfer management of veterinary clinic or hospital | Veterinary Surgeons Act 1960 s. 24A
-Premises | ❑ Veterinary clinic ❑ Veterinary hospital
+Premises | p Veterinary clinic p Veterinary hospital
 Registration No.
 Name of clinic/hospital
 Street address _________________________________________ _______________________________________________ Postal address __________________________________ _______________________________________________ Telephone ______________ Fax __________________ Email

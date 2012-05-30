@@ -38,5 +38,22 @@ Veterinary Surgeons Amendment Regulations 2009 | 13 Oct 2009 p. 4027-9 | r. 1 an
 Veterinary Surgeons Amendment Regulations (No. 2) 2009 | 11 Dec 2009 p. 5045-6 | r. 1 and 2: 11 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Dec 2009 (see r. 2(b)) and Gazette 11 Dec 2009 p. 5045)
 Veterinary Surgeons Amendment Regulations 2010 | 28 Sep 2010 p. 5051-2 | r. 1 and 2: 28 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Sep 2010 (see r. 2(b))
 Veterinary Surgeons Amendment Regulations 2011 | 24 May 2011 p. 1893 | r. 1 and 2: 24 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 25 May 2011 (see r. 2(b))
+Veterinary Surgeons Amendment Regulations 2012 | 29 May 2012 p. 2227-30 | r. 1 and 2: 29 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 30 May 2012 (see r. 2(b))
 The headings before r. 1-4, 7-9, 13, 15, 18, 19-23, 28, 34, 44, 55, 60, 61, 63, 64, 67, 69, 74 and 80 were deleted by the Veterinary Surgeons Amendment Regulations (No. 3) 2003, see Gazette 16 Dec 2003 p. 5089-90.
 Now known as the Veterinary Surgeons Regulations 1979; citation changed (see note under r. 1).
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+approved form2(1)
+authorised person47(1)
+commencement day16A(3)
+Department8(2)
+form2(1)
+locum33B(1)
+owner2(1)
+pastoral region2(1)
+prescribe a scheduled drug2(1)
+relevant industrial agreement8(2)
+scheduled drug2(1)
+trainee veterinary nurse2(1)
+veterinary student2(1)
