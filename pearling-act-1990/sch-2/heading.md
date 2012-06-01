@@ -11,7 +11,7 @@
 8.The identification, by marker buoys or otherwise, of an area of waters, including a pearl oyster farm, that the holder of a farm lease, licence or permit is authorised to use under this Act.
 9.The identification of pearl oysters.
 10.Fees for the purposes of this Act, other than fees for applications to the State Administrative Tribunal, including —
-(a) differential and periodic fees;
+(a) differential and periodic fees; and
 (b) allowing the payment of fees by instalments; and
 (c) providing for the payment of a surcharge if the payment of any fee is made by instalments.
 11.Forms to be used for the purposes of this Act.
