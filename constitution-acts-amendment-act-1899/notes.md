@@ -1,12 +1,12 @@
 Notes
-This is a compilation of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 June 2012 of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Constitution Acts Amendment Act 1899 | 1899 (63 Vict. No. 19) | 18 May 1900 | 18 May 1900 (see s. 52 and Gazette 18 May 1900 p. 1686). Reserved for Royal Assent 16 Dec 1899
 Constitution Acts Amendment Act 1899 amendment (1900) | 1900 (64 Vict. No. 2) | 25 Sep 1900 | 25 Sep 1900
 Electoral Act 1904 s. 14 | 20 of 1904 (3 Edw. VII No. 35) | 16 Jan 1904 | 22 Apr 1904 (see Interpretation Act 1918 s. 8 and Gazette 22 Apr 1904 p. 1047). Reserved for Royal Assent 16 Jan 1904
 Electoral Act 1907 s. 211 | 27 of 1907 (7 Edw. VII No. 27) | 20 Dec 1907 | 20 Dec 1907
-Constitution Acts Amendment Act 1911 | 31 of 1911 (1 Geo. V No. 42) | 16 Feb 1911 | 16 Feb 1911
+Constitution Act Amendment Act 1911 | 31 of 1911 (1 Geo. V No. 42) | 16 Feb 1911 | 16 Feb 1911
 Legislative Assembly Duration Act 1919 s. 2 | 48 of 1919 (10 Geo. V No. 36) | 17 Dec 1919 | 17 Dec 1919
 Parliament (Qualification of Women) Act 1920 s. 2(2) | 7 of 1920 (11 Geo. V No. 7) | 3 Nov 1920 | 3 Nov 1920
 Constitution Act Amendment Act 1921 s. 2 | 34 of 1921 (12 Geo. V No. 34) | 30 Dec 1921 | 30 Dec 1921
@@ -19,7 +19,7 @@ Constitution Acts Amendment Act (No. 1) 1947 | 2 of 1947 (11 Geo. VI No. 2) | 26
 Constitution Acts Amendment (Re-election of Ministers) Act 1947 | 4 of 1947 (11 Geo. VI No. 4) (as amended by No. 46 of 1963 s. 10) | 2 Oct 1947 | 2 Oct 1947
 Acts Amendment (Allowances and Salaries Adjustment) Act 1947 s. 4 | 52 of 1947 (11 and 12 Geo. VI No. 52) | 19 Dec 1947 | 19 Dec 1947
 Constitution Acts Amendment Act (No. 1) 1948 | 12 of 1948 (12 Geo. VI No. 12) (as amended by No. 46 of 1963 s. 10) | 11 Nov 1948 | 12 Jun 1947 (see s. 4)
-Acts Amendment (Increase in number of Judges of the Supreme Court) Act 1949 s. 3 | 17 of 1949 (13 Geo. VI No. 103) | 24 Sep 1949 | 24 Sep 1949 (commencement date amended by No. 35 of 1950 s. 4)
+Acts Amendment (Increase in number of Judges of the Supreme Court) Act 1949 s. 3 | 17 of 1949 (13 Geo. VI No. 103) | 24 Sep 1949 | 24 Sep 1949 (see s. 1 and Judges’ Salaries and Pensions Act 1950 s. 4)
 Acts Amendment (Increase in number of Ministers of the Crown) Act 1950 s. 2 | 2 of 1950 (14 Geo. VI No. 2) | 24 Oct 1950 | 24 Oct 1950
 Judges’ Salaries and Pensions Act 1950 s. 4 | 35 of 1950 (14 and 15 Geo. VI No. 35) | 16 Dec 1950 | 16 Dec 1950
 Constitution Acts Amendment Act (No. 2) 1950 | 45 of 1950 (14 and 15 Geo. VI No. 45) (as amended by No. 46 of 1963 s. 10) | 18 Dec 1950 | 18 Dec 1950
@@ -58,7 +58,7 @@ Acts Amendment and Repeal (Disqualification for Parliament) Act 1984 Pt. V | 78 
 Constitution Amendment Act 1984 | 75 of 1984 | 20 Mar 1985 | 14 Jun 1985 (see Interpretation Act 1984 s. 20(3) and Gazette 14 Jun 1985 p. 2133). Reserved for Royal Assent 4 Feb 1985
 Constitution Amendment Act 1986 | 10 of 1986 | 22 Jul 1986 | 22 Jul 1986 (see s. 2)
 Liquor Amendment Act (No. 2) 1986 Pt. IV | 97 of 1986 | 11 Dec 1986 | 11 Feb 1987 (see s. 2(3) and Gazette 6 Feb 1987 p. 287)
-Western Australia Sports Centre Trust Act 1986 s. 23 | 101 of 1986 | 12 Dec 1986 | 24 Dec 1986 (see s. 2 and Gazette 24 Dec 1986 p. 4963)
+Western Australian Sports Centre Trust Act 1986 s. 23 | 101 of 1986 | 12 Dec 1986 | 24 Dec 1986 (see s. 2 and Gazette 24 Dec 1986 p. 4963)
 Workers’ Compensation and Assistance Amendment Act 1987 s. 11 | 21 of 1987 | 25 Jun 1987 | 23 Jul 1987
 Technology Development Amendment Act 1987 s. 36 | 32 of 1987 | 29 Jun 1987 | 30 Jun 1987 (see s. 2 and Gazette 30 Jun 1987 p. 2545)
 Acts Amendment (Electoral Reform) Act 1987 Pt. III | 40 of 1987 | 12 Jul 1987 | 30 Oct 1987 (see s. 2 and Gazette 30 Oct 1987 p. 3977)
@@ -130,7 +130,7 @@ Marketing of Potatoes Amendment Act 1995 s. 58(1) | 11 of 1995 | 30 Jun 1995 | 4
 Bank of Western Australia Act 1995 s. 44 | 14 of 1995 | 4 Jul 1995 | 1 Dec 1995 (see s. 2 and Gazette 29 Nov 1995 p. 5529)
 Agricultural Practices (Disputes) Act 1995 s. 23 | 26 of 1995 | 6 Sep 1995 | 26 Jun 1996 (see s. 2 and Gazette 25 Jun 1996 p. 2901)
 Caravan Parks and Camping Grounds Act 1995 s. 33 | 34 of 1995 | 29 Sep 1995 | 1 Jul 1997 (see s. 2 and Gazette 20 Jun 1997 p. 2805)
-Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 188 | 73 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2 and Gazette 29 Dec 1995 p. 6291)
+Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 188 | 73 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2(2) and Gazette 29 Dec 1995 p. 6291)
 Health Services (Conciliation and Review) Act 1995 s. 80(1) | 75 of 1995 (as amended by No. 57 of 1997 s. 70) | 9 Jan 1996 | 16 Aug 1996 (see s. 2(1) and Gazette 16 Aug 1996 p. 4007)
 Sentencing (Consequential Provisions) Act 1995 Pt. 13 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
 Coroners Act 1996 s. 61 | 2 of 1996 | 24 May 1996 | 7 Apr 1997 (see s. 2 and Gazette 18 Mar 1997 p. 1529)
@@ -145,7 +145,7 @@ Reprint of the Constitution Acts Amendment Act 1899 as at 22 Jan 1997 (includes 
 Curriculum Council Act 1997 s. 35 | 17 of 1997 | 8 Jul 1997 | 1 Aug 1997 (see s. 2 and Gazette 25 Jul 1997 p. 3907)
 Professional Standards Act 1997 s. 58 | 22 of 1997 | 18 Sep 1997 | 18 Apr 1998 (see s. 2 and Gazette 17 Apr 1998 p. 2045)
 Acts Amendment (Land Administration) Act 1997 Pt. 14 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
-Statutes (Repeals and Minor Amendments) Act 1997 s. 37 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2)
+Statutes (Repeals and Minor Amendments) Act 1997 s. 37 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
 Osteopaths Act 1997 s. 97 | 58 of 1997 | 15 Dec 1997 | 22 Dec 1999 (see s. 2 and Gazette 21 Dec 1999 p. 6393)
 Country Housing Act 1998 s. 48 | 4 of 1998 | 14 Apr 1998 | 1 Jul 1998 (see s. 2 and Gazette 30 Jun 1998 p. 3557)
 Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 76 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
@@ -238,7 +238,7 @@ Electoral Legislation Amendment Act 2006 Pt. 2 | 64 of 2006 | 8 Dec 2006 | 5 Mar
 Liquor and Gaming Legislation Amendment Act 2006 s. 116 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 30 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 | 1 Aug 2008 (see s. 2 and Gazette 18 Jul 2008 p. 3329)
-Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
+Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2(1) and Gazette 27 Jul 2007 p. 3735)
 Child Care Services Act 2007 Pt. 7 Div. 2 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
 Reprint 15: The Constitution Acts Amendment Act 1899 as at 2 Aug 2007 (includes amendments listed above except those in the Commissioner for Children and Young People Act 2006, the Nurses and Midwives Act 2006, the Owner-Drivers (Contracts and Disputes) Act 2007 and the Child Care Services Act 2007)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 35 and 51 | 24 of 2007 | 12 Oct 2007 | s. 51: 21 Feb 2009 (see s. 2(1) and Gazette 20 Feb 2009 p. 353); s. 35: 18 Dec 2010 (see s. 2(1) and Gazette 17 Dec 2010 p. 6349)
@@ -258,8 +258,8 @@ Pharmacy Act 2010 Pt. 8 Div. 1 | 32 of 2010 | 26 Aug 2010 | 18 Oct 2010 (see s. 
 Health and Disability Services Legislation Amendment Act 2010 s. 55 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Health Practitioner Regulation National Law (WA) Act 2010 s. 43, 44(2)-(6), (8) and (10)-(15) | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 73 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Acts Amendment (Fair Trading) Act 2010 s. 191 | 58 of 2010 | 8 Dec 2010 | s. 191 (1) and (2): 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805); s. 191 (3): 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
-Reprint 17: The Constitution Acts Amendment Act 1899 as at 11 Feb 2011 (includes amendments listed above, except those in the Acts Amendment (Fair Trading) Act 2010 s. 191(3))
+Acts Amendment (Fair Trading) Act 2010 s. 191 | 58 of 2010 | 8 Dec 2010 | s. 191(1) and (2): 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805); s. 191(3): 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
+Reprint 17: The Constitution Acts Amendment Act 1899 as at 11 Feb 2011 (includes amendments listed above except those in the Acts Amendment (Fair Trading) Act 2010 s. 191(3))
 Building Services (Complaint Resolution and Administration) Act 2011 s. 127 | 16 of 2011 | 25 May 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475)
 Building Services (Registration) Act 2011 s. 155 | 19 of 2011 | 22 Jun 2011 | s. 155 (except to the extent that it deletes the item relating to The Municipal Building Surveyors Examination Committee): 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475-6); s. 155(2) (the item relating to The Municipal Building Surveyors Examination Committee): 2 Apr 2012 (see s. 2(b) and Gazette 30 Mar 2012 p. 1549)
 Building Act 2011 s. 160 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
@@ -268,7 +268,8 @@ Metropolitan Redevelopment Authority Act 2011 s. 136 | 45 of 2011 | 12 Oct 2011 
 Statutes (Repeals and Minor Amendments) Act 2011 s. 4 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Agricultural Practices (Disputes) Repeal Act 2011 s. 3 | 54 of 2011 | 9 Nov 2011 | 7 Dec 2011 (see note under s. 1)
 Electoral and Constitution Amendment Act 2011 Pt. 3 | 49 of 2011 | 11 Nov 2011 | 21 Dec 2011 (see s. 2(b) and Gazette 20 Dec 2011 p. 5373)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 18: The Constitution Acts Amendment Act 1899 as at 1 Jun 2012 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
@@ -277,9 +278,8 @@ Health Practitioner Regulation National Law (WA) Act 2010 s. 44(1), (7) and (9) 
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
-The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 had not come into operation. It reads as follows:
 22.Constitution Acts Amendment Act 1899 amended
 (1) The amendments in this section are to the Constitution Acts Amendment Act 1899.
 (2) Schedule V Part 3 is amended by deleting “The Apple Sales Advisory Committee constituted under the Agricultural Products Act 1929.”.
@@ -297,19 +297,37 @@ Repealed by the Acts Amendment and Repeal (Statutory Bodies) Act 1985.
 Relevant provisions amended by the Soil and Land Conservation Amendment Act 1988. Committees are now land conservation district committees.
 Under the Environmental Protection Act 1986 Sch. 3 cl. 20, a reference to an environmental appeal board shall be construed as a reference to an appeals committee.
 Authority continued in existence under the Environmental Protection Act 1986 s. 7(1).
-Footnote no longer applicable.
+The Hairdressers Registration Act 1946 expired on 13 Mar 2012 (see Gazette 13 Mar 2012 p. 1041).
 Repealed by the General Insurance Brokers and Agents Act Repeal Act 1986.
+The Land Valuers Licensing Board was abolished on 1 Jul 2011. The Land Valuers Licensing Act 1978 s. 38 and 39 read as follows:
+38.Former Board abolished
+Subject to sections 44 and 45, at the beginning of the commencement day, the former Board is abolished and its members go out of office.
+39.References to former Board or Registrar
+If in a written law or other document or instrument there is a reference to the former Board or the former Registrar, that reference may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
 Repealed by the Legislative Review and Advisory Committee Repeal Act 1987.
 Relevant provisions deleted by the Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 115. Committee replaced by Mining Industry Advisory Committee established under the Occupational Safety and Health Act 1984 s. 14A.
-Footnote no longer applicable.
 Repealed by the Minerals and Energy Research Act 1987.
-Repealed by the Local Government (Qualifications of Municipal Officers) Regulations 1984 in Gazette 24 Aug 1984 p. 2607 which were repealed by the Local Government (Building Surveyors) Regulations 2008 r. 28 in Gazette 6 Jun 2008 p. 2224.
+The Motor Vehicle Industry Board was abolished on 1 Jul 2011. The Motor Vehicle Dealers Act 1973 s. 58 and 59 read as follows:
+58.Former Board abolished
+Subject to sections 63 and 64, at the beginning of the commencement day, the former Board is abolished and its members go out of office.
+59.References to former Board
+If in a written law or other document or instrument there is a reference to the former Board, that reference may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
 Repealed by the Statute Law Revision Act 2006 s. 3(1).
 Repealed by the Conservation and Land Management Act 1984.
 Now titled the Geographic Names Committee and responsible to the Minister for Lands.
 The Pastoral Appraisement Board was superseded by the Pastoral Board — see the Land Act 1933 s. 98. The Land Act 1933 was subsequently repealed by the Land Administration Act 1997, s. 94 of which establishes the Pastoral Lands Board of Western Australia.
 Repealed by the School Education Act 1999.
+The Real Estate and Business Agents Supervisory Board was abolished on 1 Jul 2011. The Real Estate and Business Agents Act 1978 s. 149 and 150 read as follows:
+149.Former Board abolished
+Subject to sections 156 and 157, at the beginning of the commencement day, the former Board is abolished and its members go out of office.
+150.References to the former Board
+If in a written law or other document or instrument there is a reference to the former Board, that reference may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
 The Mines Regulation Act Regulations 1976 r. 2.7 was repealed by the Mines Regulation Amendment Regulations 1990 in Gazette 15 Mar 1991 p. 1167.
+The Settlement Agents Supervisory Board was abolished on 1 Jul 2011. The Settlement Agents Act 1981 s. 125 and 126 read as follows:
+125.Former Board abolished
+Subject to sections 132 and 133, at the beginning of the commencement day, the former Board is abolished and its members go out of office.
+126.References to the former Board
+If in a written law or other document or instrument there is a reference to the former Board, that reference may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
 Relevant provisions deleted by the Solar Energy Research Amendment Act 1987 and Act expired 30 Jun 1988.
 Repealed by the Censorship Act 1996, now known as the Classification (Publications, Films and Computer Games) Enforcement Act 1996.
 Repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.
@@ -318,16 +336,17 @@ This Council was not in existence at the date of this reprint.
 Relevant provisions deleted by the Agricultural Legislation Amendment and Repeal Act 1998 s. 21.
 Repealed by the Western Australian Arts Council Repeal Act 1986.
 This committee was not in existence at the date of this reprint.
-Repealed by the Acts Amendment and Repeal (Post Secondary Education) Act 1989.
+Repealed by the Acts Amendment and Repeal (Post-Secondary Education) Act 1989.
 Expired 7 Jun 1991.
 Repealed by the Wheat Marketing Act 1984, which was repealed by the Wheat Marketing Act 1989 which was repealed by the Acts Amendment and Repeal (Competition Policy) Act 2003.
 Expired 31 Oct 1984.
 Relevant provisions deleted by the Acts Amendment (Conservation and Land Management) Act 1984.
 Repealed by the Youth, Sport and Recreation Repeal Act 1984.
+The Corruption and Crime Commission Act 2003 Sch. 3 was renumbered as Sch. 4 by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(12) and the reference to it in s. 62 was amended by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(13).
+The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 Marginal notes in the Constitution Acts Amendment Act 1899 referring to the legislation from which provisions were derived have been omitted from this reprint.
 The amendments in the Sentencing Legislation Amendment and Repeal Act 1999 s. 26 are not included because it was deleted before it came into operation by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
-The Conservation and Land Management Amendment Act 1991 s. 57 had not come into operation when it was deleted by the Statutes (Repeal and Miscellaneous Amendment) Act 2009 s. 35(3).
-The Corruption and Crime Commission Act 2003 Sch. 3 was renumbered as Sch. 4 by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(12) and the reference to it in s. 62 was amended by the Corruption and Crime Commission Amendment and Repeal Act 2003 s. 35(13).
+The Conservation and Land Management Amendment Act 1991 s. 57 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 35(3).
 The Motor Vehicle Dealers Amendment Act 2003 s. 25 and 26 read as follows:
 25.Transitional provision: membership of Board
 The persons who were members of the Motor Vehicle Dealers Licensing Board immediately before the commencement of section 10 cease to hold office on that commencement.
@@ -347,7 +366,7 @@ The Criminal Law Amendment (Simple Offences) Act 2004 s. 81(4) and (5) read as f
 by reason only of a conviction that occurred before the commencement.
 (5) In subsection (4) —
 commencement means the commencement of this section.
-On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 7.3Consequential amendments
 Schedule 2 has effect.
 Schedule 2 Div. 2 reads as follows:
@@ -357,7 +376,7 @@ Schedule V Part 1 Division 1 to the Constitution Acts Amendment Act 1899 is amen
 “
 Member of the Native Title Commission established by the Native Title (State Provisions) Act 1999.
 ”.
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 44(1), (7) and (9) had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 44(1), (7) and (9) had not come into operation. It reads as follows:
 Division 10 — Constitution Acts Amendment Act 1899 amended
 44.Schedule V Part 3 amended
 (1) In Schedule V Part 3 insert in alphabetical order:
@@ -367,16 +386,6 @@ The Chinese Medicine Board of Australia established under the Health Practitione
 The Medical Radiation Practice Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
 (9) In Schedule V Part 3 delete the item commencing “The Occupational Therapists Registration Board of Western Australia” and insert:
 The Occupational Therapy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-The Real Estate and Business Agents Supervisory Board was abolished on 1 Jul 2011. The Real Estate and Business Agents Act 1978 s. 149 and 150 read as follows:
-149.Former Board abolished
-Subject to sections 156 and 157, at the beginning of the commencement day, the former Board is abolished and its members go out of office.
-150.References to the former Board
-If in a written law or other document or instrument there is a reference to the former Board, that reference may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
-The Settlement Agents Supervisory Board was abolished on 1 Jul 2011. The Settlement Agents Act 1981 s. 125 and 126 read as follows:
-125.Former Board abolished
-Subject to sections 132 and 133, at the beginning of the commencement day, the former Board is abolished and its members go out of office.
-126.References to the former Board
-If in a written law or other document or instrument there is a reference to the former Board, that reference may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
