@@ -1,11 +1,11 @@
 Notes
-This is a compilation of the Country Towns Sewerage Act 1948 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 June 2012 of the Country Towns Sewerage Act 1948 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Country Towns Sewerage Act 1948 | 82 of 1948 | 26 Jan 1949 | 8 Apr 1949 (see s. 1 and Gazette 8 Apr 1949 p. 770)
-Country Towns Sewerage Act Amendment Act 1951 | 15 of 1951 | 23 Nov 1951 | 23 Nov 1951
-Limitation Act 1935 s. 48A(1) | 35 of 1935 (as amended by No. 73 of 1954 s. 8) | 14 Jan 1955 | Relevant amendments (see s. 48A and Second Sch.) took effect on 1 Mar 1955 (see No. 73 of 1954 s. 2 and Gazette 18 Feb 1955 p. 343)
-Country Towns Sewerage Act Amendment Act 1964 | 52 of 1964 | 30 Nov 1964 | 30 Nov 1964
+Country Towns Sewerage Act 1948 | 82 of 1948 (12 and 13 Geo. VI No. 82) | 26 Jan 1949 | 8 Apr 1949 (see s. 1 and Gazette 8 Apr 1949 p. 770)
+Country Towns Sewerage Act Amendment Act 1951 | 15 of 1951 (15 Geo. VI No. 15) | 23 Nov 1951 | 23 Nov 1951
+Limitation Act 1935 s. 48A(1) | 35 of 1935 (26 Geo. V No. 35) (as amended by No. 73 of 1954 s. 8) | 14 Jan 1955 | Relevant amendments (see s. 48A and Second Sch.) took effect on 1 Mar 1955 (see No. 73 of 1954 s. 2 and Gazette 18 Feb 1955 p. 343)
+Country Towns Sewerage Act Amendment Act 1964 | 52 of 1964 (13 Eliz. II No. 52) | 30 Nov 1964 | 30 Nov 1964
 Reprint of the Country Towns Sewerage Act 1948 approved 30 Mar 1965 in Volume 19 of Reprinted Acts (includes amendments listed above)
 Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
 Country Towns Sewerage Act Amendment Act 1967 | 47 of 1967 | 24 Nov 1967 | 31 Oct 1969 (see s. 2 and Gazette 31 Oct 1969 p. 3362)
@@ -40,30 +40,20 @@ Criminal Law Amendment (Simple Offences) Act 2004 s. 82 | 70 of 2004 | 8 Dec 200
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Water Legislation Amendment (Competition Policy) Act 2005 Pt. 3 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
 Reprint 6: The Country Towns Sewerage Act 1948 as at 21 Jul 2006 (includes amendments listed above)
-Land Information Authority Act 2006 s. 131 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see r. 2 and Gazette 8 Dec 2006 p. 5369)
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Land Information Authority Act 2006 s. 131 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2 and Gazette 8 Dec 2006 p. 5369)
+Duties Legislation Amendment Act 2008 Sch. 1 cl. 5 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Standardisation of Formatting Act 2010 s. 45 and 55 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
+Reprint 7: The Country Towns Sewerage Act 1948 as at 1 Jun 2012 (includes amendments listed above)
 Now known as the Water Agencies (Powers) Act 1984.
+Repealed by the Water Resources Legislation Amendment Act 2007.
 Metropolitan Water Supply, Sewerage, and Drainage Act 1909.
-Footnote no longer applicable.
-Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Mines is to be read and construed as a reference to the Department of Industry and Resources.
-Marginal notes in the Country Towns Sewerage Act 1948 referring to other legislation have been omitted from this compilation.
+Marginal notes in the Country Towns Sewerage Act 1948 referring to other legislation have been omitted from this reprint.
 The amendments in the Sentencing (Consequential Provisions) Act 1995 Pt. 17 are not included because, before it came into operation, it was repealed by the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 24(2).
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The State Administrative Tribunal Regulations 2004 r. 44 reads as follows:
-“
-44.Country Towns Sewerage Act 1948
-(1) In this regulation —
-commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 29 comes into operation;
-Corporation has the meaning given to that term in the CTS Act section 3(1);
-the CTS Act means the Country Towns Sewerage Act 1948.
-(2) If the Corporation receives, before the commencement day, a notice in accordance with the CTS Act section 62(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the relevant entry to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the CTS Act section 62(1).
-(3) If the Corporation receives, before the commencement day, a notice in accordance with the CTS Act section 63(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the decision to the State Administrative Tribunal under the CTS Act section 63(1).
-(4) If a notice has been given under the CTS Act section 61(6) before the commencement day, on or after the commencement day the notice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
-”.
+The State Administrative Tribunal Regulations 2004 r. 44 is a transition provision of no further effect.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
