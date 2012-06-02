@@ -157,6 +157,7 @@ Poisons Amendment Regulations (No. 6) 2010 | 19 Nov 2010 p. 5711-15 | r. 1 and 2
 Poisons Amendment Regulations 2011 | 1 Apr 2011 p. 1181-3 | r. 1 and 2: 1 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2011 (see r. 2(b))
 Reprint 10: The Poisons Regulations 1965 as at 17 Jun 2011 (includes amendments listed above)
 Poisons Amendment Regulations (No. 2) 2012 | 25 May 2012 p. 2207-8 | r. 1 and 2: 25 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 26 May 2012 (see r. 2(b))
+Poisons Amendment Regulations 2012 | 1 Jun 2012 p. 2305-26 | r. 1 and 2: 1 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jun 2012 (see r. 2(b))
 Formerly referred to the Health Services (Concilation and Review) Act 1995, the short title of which was changed to the Health and Disability Services (Complaints) Act 1995 by the Health and Disability Services Legislation Amendment Act 2010 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Repealed by the Veterans Entitlements Act 1986 (Cwlth. Act No. 27 of 1986).
@@ -167,6 +168,10 @@ Now known as the Poisons Regulations 1965; citation amended (see note to r. 1).
 The Poisons Amendment Regulations (No. 3) 2001 r. 4(2) is a transitional provision of no further effect.
 The Nurses Amendment Act 2003 s. 50 is a savings provision of no further effect.
 The Poisons Amendment Regulations (No. 7) 2010 r. 5 to amend r. 42(1)(d) is not included because the paragraph it sought to amend had been amended by the Poisons Amendment Regulations (No. 5) 2010 r. 8(2).
+The Poisons Amendment Regulations 2012 r. 45(2) to amend r. 56(2)(b) is not included because it was unclear where the amendment was intended to be made. Regulation 45(2) reads as follows:
+45.Regulation 56 amended
+(2) In regulation 56(2)(b) delete “42(1); or” and insert:
+42(1) or (2A); or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -180,6 +185,7 @@ approved health service36AA(1)
 approved name35C(4), 36AA(1), 36AAB(1), 64(1)
 approved needle and syringe programme2(1)
 approved starter pack36AA(1)
+authorised health practitioner2(1)
 book35A(1A)
 Australian Register of Therapeutic Goods35C(4), 64(1)
 authorised person44(1), 44C(1)
@@ -207,8 +213,10 @@ distribute2(1)
 distributor2(1)
 dosage unit2(1)
 drug addict51A(1)
-endorsed optometrist2(1)
 emergency supplies36A(4)
+endorsed midwife2(1)
+endorsed optometrist2(1)
+endorsed podiatrist2(1)
 entry44C(1)
 experienced person2(1)
 exporter39C(5)
@@ -226,6 +234,7 @@ manager51FA
 manufacture2(1)
 manufacturer2(1)
 master of a ship39C(5)
+Medicines List3F
 metropolitan region36AAB(1)
 new manager51FK(1)
 new provisions69
@@ -240,10 +249,12 @@ pharmacotherapy51A(1)
 pharmacist’s licence2(1)
 pharmacy2(1)
 physician2(1)
+podiatrist2(1)
 poisons cupboard2(1)
 Policies Manual51A(1)
 prescribe2(1)
-prescribed medicine.3A(2)
+Prescribed Formulary3C
+prescribed medicine.3A(2), 3D(2), 3G(2)
 prescription66
 proprietary preparation8A(16)
 psychiatric emergency pack36AAB(1)
