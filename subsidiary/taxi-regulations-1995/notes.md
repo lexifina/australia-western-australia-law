@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 January 2012 of the Taxi Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Taxi Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Taxi Regulations 1995 | 10 Jan 1995 p. 75-90 | 10 Jan 1995 (see r. 2 and Gazette 10 Jan 1995 p. 73)
@@ -33,14 +33,27 @@ Taxi Amendment Regulations (No. 2) 2011 | 17 May 2011 p. 1825 | r. 1 and 2: 17 M
 Taxi Amendment Regulations 2011 | 7 Jun 2011 p. 2057-62 | r. 1 and 2: 7 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Taxi Amendment Regulations (No. 3) 2011 | 5 Aug 2011 p. 3187-8 | r. 1 and 2: 5 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Aug 2011 (see r. 2(b))
 Reprint 4: The Taxi Regulations 1995 as at 13 Jan 2012 (includes amendments listed above)
+Taxi Amendment Regulations 2012 r. 1 and 2 | 5 Jun 2012 p. 2368-9 | 5 Jun 2012 (see r. 2(a))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Taxi Amendment Regulations 2012 r. 3 and 4 | 5 Jun 2012 p. 2368-9 | 1 Jul 2012 (see r. 2(b))
 Plans of the former Department of Land Administration are now held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 Now cited as the Local Government (Miscellaneous Provisions) Act 1960.
 The Taxi Act 1994 s. 34 and 35 were deleted by the Acts Amendment (Criminal Procedure) Act 1999 s. 9.
 Under the Alteration of Statutory Designation (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
-Under the Public Sector Management Act 1994 departments can be established and named. At the time this reprint was prepared, the designation of the department known as the Department of Justice had been altered to the Department of the Attorney General, and the Department of Corrective Services is established.
+Under the Public Sector Management Act 1994 departments can be established and named. At the time this compilation was prepared, the designation of the department known as the Department of Justice had been altered to the Department of the Attorney General, and the Department of Corrective Services is established.
 Now known as the registrar of the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
+On the date as at which this compilation was prepared, the Taxi Amendment Regulations 2012 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Taxi Regulations 1995.
+4.Regulation 19 amended
+(1) In regulation 19(3a) delete “$103.” and insert:
+$107.10.
+(2) In regulation 19(4) delete “$33.50.” and insert:
+$34.85.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
