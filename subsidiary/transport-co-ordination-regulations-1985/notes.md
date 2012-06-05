@@ -24,8 +24,25 @@ Transport Co-ordination Amendment Regulations 2009 | 30 Jun 2009 p. 2661-2 | r. 
 Reprint 3: The Transport Co-ordination Regulations 1985 as at 20 Nov 2009 (includes amendments listed above)
 Transport Co-ordination Amendment Regulations 2010 | 18 Jun 2010 p. 2697-8 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Transport Co-ordination Amendment Regulations 2011 | 17 May 2011 p. 1827 | r. 1 and 2: 17 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 18 May 2011 (see r. 2(b))
+Transport Co-ordination Amendment Regulations (No. 2) 2012 r. 1 and 2 | 5 Jun 2012 p. 2367-8 | 5 Jun 2012 (see r. 2(a))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Transport Co-ordination Amendment Regulations (No. 2) 2012 r. 3-5 | 5 Jun 2012 p. 2367-8 | 1 Jul 2012 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2), a reference in a written law to the clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the registrar of the Magistrates Court. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
+On the date as at which this compilation was prepared, the Transport Co-ordination Amendment Regulations (No. 2) 2012 r. 3-5 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Transport Co-ordination Regulations 1985.
+4.Regulation 8A amended
+In regulation 8A:
+(a) in paragraph (a)(ii) delete “$24.50;” and insert:
+$25.45;
+(b) in paragraph (d) delete “$1.46.” and insert:
+$1.52.
+5.Regulation 8B amended
+In regulation 8B(b) delete “$24.60.” and insert:
+$25.55.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
