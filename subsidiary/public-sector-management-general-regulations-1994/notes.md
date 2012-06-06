@@ -22,6 +22,7 @@ Public Sector Management (General) Amendment Regulations (No. 2) 2010 | 22 Oct 2
 Public Sector Management (General) Amendment Regulations 2010 | 5 Nov 2010 p. 5570-3 | Pt. 1: 5 Nov 2010 (see r. 2(a)); Pt. 2: 1 Dec 2010 (see r. 2(b) and Gazette 5 Nov 2010 p. 5563); Pt. 3: 28 Mar 2011 (see r. 2(c) and Gazette 5 Nov 2010 p. 5563)
 Reprint 3: The Public Sector Management (General) Regulations 1994 as at 3 Jun 2011 (includes amendments listed above)
 Public Sector Management (General) Amendment Regulations 2012 | 24 Jan 2012 p. 555-6 | r. 1 and 2: 24 Jan 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jan 2012 (see r. 2(b))
+Public Sector Management (General) Amendment Regulations (No. 2) 2012 | 5 Jun 2012 p. 2363-6 | r. 1 and 2: 5 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jun 2012 (see r. 2(b))
 The Government Employees’ Housing Act 1964 s.15 was deleted by the Machinery of Government(Miscellaneous Amendments) Act 2006 s. 300.
 Repealed by the Country Housing Act 1998 s. 47.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
@@ -32,8 +33,9 @@ Now known as Pilbara TAFE. See Gazette 26 Nov 2004 p. 5316 concerning the amalga
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-class8A(1)
 non-SAT CEO8A(1)
-personal merit allowance8A(5)
+PSC class8A(1)
+SAT CEO8A(1)
+SAT class8A(1)
 SAT office8A(1)
 Tribunal8A(1)
