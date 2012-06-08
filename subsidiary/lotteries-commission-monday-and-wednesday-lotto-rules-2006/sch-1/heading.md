@@ -41,25 +41,25 @@ The unit cost of entering a Monday lotto or a Wednesday lotto draw on and after 
 The agent’s component is calculated as 9% of the total subscription amount for a particular week’s entry, rounded* (where necessary) to the nearest 5 cent multiple.
 ((G x $0.50) x .09 ® rounded) x W = T
 where —
-G = No. of games entered in a draw
-W = No. of weeks the entry spans
-T = Total agent’s component cost payable by the subscriber
+G=No. of games entered in a draw
+W=No. of weeks the entry spans
+T=Total agent’s component cost payable by the subscriber
 Examples:
 The total cost of entry for a Slikpik 25 entry for a single Monday lotto or Wednesday lotto draw is calculated as follows —
 Subscription [25 games @ $0.50 each]=$12.50
 9% of subscription [.09 x $12.50]=$1.125
 Rounded using “bankers rounding”=$1.10
-Total cost of entry$13.60
+Total cost of entry=$13.60
 The total cost of entry for a System 8 entry for a single Monday lotto or Wednesday lotto draw is calculated as follows —
 Subscription [28 games @ $0.50 each]=$14.00
 9% of subscription [.09 x $14.00]=$1.26
 Rounded using “bankers rounding”=$1.25
-Total cost of entry$15.25
+Total cost of entry=$15.25
 The total cost of entry for a 6 game board System 9 entry for a single Monday lotto or Wednesday lotto draw is calculated as follows —
 Subscription [6 x 84 games @ $0.50 each]=$252.00
 9% of subscription [.09 x $252.00]=$22.68
 Rounded using “bankers rounding”=$22.70
-Total cost of entry$274.70
+Total cost of entry=$274.70
 The total cost of entry for a Slikpik 25 entry spanning 10 weeks of Monday lotto or Wednesday lotto is calculated as follows —
 Subscription for one week [25 games @ $0.50 each]=$12.50
 9% of subscription [.09 x $12.50]=$1.125
