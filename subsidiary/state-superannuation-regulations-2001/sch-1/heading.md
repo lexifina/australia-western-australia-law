@@ -48,7 +48,7 @@
 9.Construction Industry Long Service Leave Payments Board established under Construction Industry Portable Paid Long Service Leave Act 1985
 10.Country High School Hostels Authority established under the Country High School Hostels Authority Act 1960
 11.Country Housing Authority established under the Country Housing Act 1998
-12.Curriculum Council established under the Curriculum Council Act 1997
+12.Curriculum Council established under the School Curriculum and Standards Authority Act 1997
 [13, 14.deleted]
 15.Disability Services Commission continued under the Disability Services Act 1993
 16.East Perth Redevelopment Authority established under the East Perth Redevelopment Act 1991
@@ -75,7 +75,7 @@
 33.Midland Redevelopment Authority established under the Midland Redevelopment Act 1999
 34.Minerals and Energy Research Institute of Western Australia established under the Minerals and Energy Research Act 1987
 35.Nurses Board of Western Australia established under the Nurses Act 1992
-36.Office of Health Review established under the Health Services (Conciliation and Review) Act 1995
+36.Office of Health Review established under the Health and Disability Services (Complaints) Act 1995
 [37.deleted]
 38.Perth Market Authority preserved and continued under the Perth Market Act 1926
 39.Port authorities established under the Port Authorities Act 1999

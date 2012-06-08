@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Superannuation Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 8 June 2012 of the State Superannuation Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 State Superannuation Regulations 2001 | 16 Feb 2001 p. 921-1074 | 17 Feb 2001 (see r. 2 and Gazette 16 Feb 2001 p. 903)
@@ -41,14 +41,20 @@ State Superannuation Amendment Regulations (No. 2) 2010 | 30 Jun 2010 p. 3131-55
 Reprint 4: The State Superannuation Regulations 2001 as at 5 Nov 2010 (includes amendments listed above)
 Public Sector Reform (Consequential Amendments) Regulations 2011 Pt. 8 | 11 Feb 2011 p. 502-7 | 12 Feb 2011 (see r. 2(d))
 State Superannuation Amendment Regulations 2011 | 10 May 2011 p. 1668-9 | r. 1 and 2: 10 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 11 May 2011 (see r. 2(b))
-State Superannuation Amendment Regulations (No. 2) 2011 | 8 Jul 2011 p. 2899-2901 | r. 1 and 2: 8 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jul 2011 (see r. 2(b))
+State Superannuation Amendment Regulations (No. 2) 2011 | 8 Jul 2011 p. 2899-901 | r. 1 and 2: 8 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jul 2011 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 3) 2011 | 22 Jul 2011 p. 3028-9 | r. 1 and 2: 22 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jul 2011 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 4) 2011 | 6 Dec 2011 p. 5133-4 | r. 1 and 2: 6 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Dec 2011 (see r. 2(b))
 State Superannuation Amendment Regulations 2012 | 17 Jan 2012 p. 466-73 | r. 1 and 2: 17 Jan 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Mar 2012 (see r. 2(b) and Gazette 16 Mar 2012 p. 1245)
 State Superannuation Amendment Regulations (No. 2) 2012 | 11 May 2012 p. 2063-4 | r. 1 and 2: 11 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 12 May 2012 (see r. 2(b))
+Reprint 5: The State Superannuation Regulations 2001 as at 8 Jun 2012 (includes amendments listed above)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. Part 9 of these regulations were amending regulations under that subsection. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed in the Acts database of the Statutes of Western Australia.
-Formerly referred to the Water Services Coordination Act 1995 the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Repealed by the Nurses and Midwives Act 2006.
+Formerly referred to the Water Services Coordination Act 1995, the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
+Repealed by the Building Services (Registration) Act 2011.
+Formerly referred to the Curriculum Council Act 1997, the short title of which was changed by the Curriculum Council Amendment Act 2011 s. 5 to the School Curriculum and Standards Authority Act 1997. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+The Metropolitan Redevelopment Authority Act 2011 s. 134(b) repealed the East Perth Redevelopment Act 1991, s. 134(c) repealed the Midland Redevelopment Act 1999 and s. 134(d) repealed the Subiaco Redevelopment Act 1994.
+Repealed by the Nurses and Midwives Act 2006, which was repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
+Formerly referred to the Health Services (Conciliation and Review) Act 1995, the short title of which was changed by the Health and Disability Services Legislation Amendment Act 2010 s. 5 to the Health and Disability Services (Complaints) Act 1995. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Water Resources Legislation Amendment Act 2007.
 The Waterways Conservation Act 1976 s. 14 has been deleted by the Water Resources Legislation Amendment Act 2007 s. 150.
 Formerly referred to the Workers’ Compensation and Rehabilitation Commission constituted under the Workers’ Compensation and Rehabilitation Act 1981. The name of the Commission was changed to WorkCover Western Australia Authority and the short title of the Act was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5 and 81. The references were changed under the Reprints Act 1984 s. 7(3)(gb) and (h).
@@ -67,7 +73,6 @@ is taken to have become a statutory Member when he or she ceased to be so exclud
 The State Superannuation Amendment Regulations (No. 4) 2008 had not come into operation when it was deleted by the State Superannuation Amendment Regulations 2009 Pt. 3.
 The State Superannuation Amendment Regulations 2006 r. 20(2) reads as follows:
 (2) If a preserved benefit of less than $200 has not been paid because of the operation of regulation 76(4) (as in force before this regulation came into operation), the benefit ceases to be a preserved benefit when this regulation comes into operation even if, at that time, the benefit plus interest on it, is or exceeds $200.
-The Metropolitan Redevelopment Authority Act 2011 s. 134(b) repeals the East Perth Redevelopment Act 1991, s. 134(c) repeals the Midland Redevelopment Act 1999 and s. 134(d) repeals the Subiaco Redevelopment Act 1994.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -117,7 +122,7 @@ CPI rate3(1)
 currentSch. 3 cl. 1(1)
 death benefit48(4), 80(4), 121(4)
 default plan69A, 105, 183, 196J, 211
-deferred contributions option35(2)
+deferred contributions option35(2)(b)
 dependant80(4), 121(4), 219(4)
 disablement benefit49(5), 81(5)
 discounted benefit47A(8)
@@ -134,12 +139,12 @@ eligible rollover fund3(1)
 eligible statutory GESB Super Member83(1)
 eligible statutory WSS Member50(1)
 eligible termination payment3(1)
-employee54(1), 88(1)
+employee12A
 Employer3(1)
 employer contribution12
 employing authority9(5)
 end dateSch. 2 cl. 17
-estimated tax amount49A(2), 81A(2)(a)
+estimated tax amount49A(2)(a), 81A(2)(a)
 ex-spouse219A(1)
 Family Law Act3(1)
 final remuneration12, 16(1)
@@ -147,17 +152,17 @@ flag lifting agreement219A(2)
 former member3(1)
 former MemberSch. 3 cl. 55(2)
 gainfully employed50(1), 83(1)
-GESB Super (Retirement Access) Member3(1)
-GESB Super (Retirement Access) Scheme3(1)
 GESB Super account83(1)
 GESB Super Member3(1)
+GESB Super (Retirement Access) Member3(1)
+GESB Super (Retirement Access) Scheme3(1)
 GESB Super Scheme3(1)
 GESB withdrawal benefit83(1)
 Gold State Super Member3(1)
 Gold State Super Scheme3(1)
-GSS withdrawal benefit12, Sch. 3, cl. 2
+GSS withdrawal benefit12, Sch. 3 cl. 2
 health condition12, 50(1), 111A
-individual superannuation guarantee shortfall54(1), 88(1)
+individual superannuation guarantee shortfall12A
 industrial commissionerSch. 2 cl. 17
 investment powers246B(4)
 life expectancy196P(4)
@@ -175,7 +180,7 @@ operative time219A(2)
 opt-in notice69G, 111A
 organisation9(5), 225
 over 50 transferee police officerSch. 2 cl. 17
-over-OTE item55(1), 89(1)
+over-OTE item12A
 overpayment248B(1)
 parliamentarian3(1)
 Part 1 MemberSch. 2 cl. 1(1)
@@ -208,7 +213,7 @@ Provident Scheme Member3(1)
 quarter3(1)
 readymade investment plan69A, 105, 183, 196J, 211
 recognised unpaid leave12
-reduced benefit option35(2)
+reduced benefit option35(2)(c)
 Registrar225
 regulated superannuation fund3(1)
 relevant MemberSch. 3 cl. 29(3)
@@ -218,7 +223,6 @@ remuneration3(1), 5(1)
 reporting period220
 resignation daySch. 3 cl. 29(3)
 restricted non-preserved benefit3(1)
-retire50(2), 83(2)
 retirement access account201
 retirement income account171
 Retirement Income Member3(1)
@@ -231,11 +235,9 @@ S&FB Act3(1)
 salary sacrifice agreement3(1)
 scheme entitlement amount44D(4)
 section 29 contributions6A(3)
-selection day12, 69E(2), 109(2)(a), 215(2)(a)
+selection day12, 69E(2)(a), 109(2)(a), 215(2)(a)
 severe financial hardship47A(8), 79A(7), 123(7)
 SGA Act3(1)
-SG-exempt Member55(1), 89(1)
-SG-Member55(1), 89(1)
 significant event224A(2)
 SIS Act3(1)
 SIS amount72(1), 116(1)
@@ -251,11 +253,11 @@ splitting order219A(2)
 statutory GESB Super Member83(1)
 statutory WSS Member50(1)
 suffering permanent incapacity76(4), 118(5)
-suffers from a terminal medical condition3
+suffers from a terminal medical condition3(1)
 superannuation agreement219A(2)
 Superannuation Complaints Tribunal220
 superannuation fund3(1)
-superannuation guarantee charge54(1), 88(1)
+superannuation guarantee charge12A
 superannuation interest219A(1)
 superannuation salary in respect of a contribution period26(1)
 tax saving amount3(1)
