@@ -1,9 +1,9 @@
 Notes
-This is a compilation of the Financial Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 8 June 2012 of the Financial Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Financial Management Act 2006 | 76 of 2006 | 21 Dec 2006 | s. 1 and 2: 21 Dec 2006; Act other than s. 1 and 2: 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 63 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2(1) and Gazette 27 Jul 2007 p. 3735)
 Financial Management (Statutory Authorities) Regulations 2007 published in Gazette 13 Jul 2007 p. 3453-4 | 13 Jul 2007
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 36 | 24 of 2007 | 12 Oct 2007 | 18 Dec 2010 (see s. 2(1) and Gazette 17 Dec 2010 p. 6349)
@@ -11,28 +11,27 @@ Water Resources Legislation Amendment Act 2007 s. 195 | 38 of 2007 | 21 Dec 2007
 Financial Management (Statutory Authorities) Regulations (No. 2) 2007 published in Gazette 4 Jan 2008 p. 29 | 4 Jan 2008
 Financial Management (Statutory Authorities) Regulations 2008 published in Gazette 8 Feb 2008 p. 322-3 | r. 1 and 2: 8 Feb 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2008 (see r. 2(b))
 Eastern Goldfields Transport Board Repeal Act 2008 s. 13 | 28 of 2008 | 1 Jul 2008 | 29 Jul 2008
-Reprint 1: The Financial Management Act 2006 as at 26 Sep 2008 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 36)
+Reprint 1: The Financial Management Act 2006 as at 26 Sep 2008 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
 National Gas Access (WA) Act 2009 s. 69 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327)
 Financial Management (Statutory Authorities) Regulations 2010 published in Gazette 20 Aug 2010 p. 4071-2 | r. 1 and 2: 20 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2010 (see r. 2(b))
 Health and Disability Services Legislation Amendment Act 2010 s. 56 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Public Sector Reform Act 2010 s. 76 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Curriculum Council Amendment Act 2011 Pt. 3 Div. 2 | 37 of 2011 | 13 Sep 2011 | 1 Mar 2012 (see s. 2(b) and Gazette 28 Feb 2012 p. 841)
-Metropolitan Redevelopment Authority Act 2011 s. 138 | 45 of 2001 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
+Metropolitan Redevelopment Authority Act 2011 s. 138 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Agricultural Practices (Disputes) Repeal Act 2011 s. 5 | 54 of 2011 | 9 Nov 2011 | 7 Dec 2011 (see note under s. 1)
+Reprint 2: The Financial Management Act 2006 as at 8 Jun 2012 (includes amendments listed above)
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
-Footnote no longer applicable.
-The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
-Footnote no longer applicable.
 The Real Estate and Business Agents Supervisory Board was abolished on 1 Jul 2011. The Real Estate and Business Agents Act 1978 s. 149 and 150 read as follows:
 149.Former Board abolished
 Subject to sections 156 and 157, at the beginning of the commencement day, the former Board is abolished and its members go out of office.
 150.References to the former Board
 If in a written law or other document or instrument there is a reference to the former Board, that reference may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
-The Settlement Agents Supervisory Board was abolished on 1 Jul 2011. The Settlement Agents Act 1981 s. 125 and 125 read as follows:
+The Settlement Agents Supervisory Board was abolished on 1 Jul 2011. The Settlement Agents Act 1981 s. 125 and 126 read as follows:
 125.Former Board abolished
 Subject to sections 132 and 133, at the beginning of the commencement day, the former Board is abolished and its members go out of office.
 126.References to the former Board
 If in a written law or other document or instrument there is a reference to the former Board, that reference may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
+The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
