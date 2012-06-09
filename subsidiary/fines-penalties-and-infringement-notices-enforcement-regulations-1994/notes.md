@@ -46,6 +46,7 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No.
 Reprint 5: The Fines, Penalties and Infringement Notices Enforcement Regulations 1994 as at 2 Mar 2012 (includes amendments listed above)
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2012 | 16 Mar 2012 p. 1255-6 | r. 1 and 2: 16 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Mar 2012 (see r. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 2) 2011 | 23 Mar 2012 p. 1369-70 | r. 1 and 2: 23 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Mar 2012 (see r. 2(b))
+Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 3) 2012 | 8 Jun 2012 p. 2385-6 | r. 1 and 2: 8 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jun 2012 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now called the General Account.
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
