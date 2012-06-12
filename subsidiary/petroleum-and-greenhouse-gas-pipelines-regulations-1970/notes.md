@@ -19,7 +19,32 @@ Petroleum Pipelines Amendment Regulations (No. 2) 2010 | 14 May 2010 p. 2018-21 
 Petroleum Pipelines Amendment Regulations (No. 4) 2010 | 16 Jul 2010 p. 3363-4 | r. 1 and 2: 16 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jul 2010 (see r. 2(b)(ii))
 Reprint 2: The Petroleum Pipelines Regulations 1970 as at 13 Aug 2010 (includes amendments listed above)
 Petroleum Pipelines Amendment Regulations 2011 | 1 Jul 2011 p. 2739-41 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Petroleum Pipelines Amendment Regulations 2012 r. 1 and 2 | 12 Jun 2012 p. 2458-9 | 12 Jun 2012 (see r. 2(a))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Petroleum Pipelines Amendment Regulations 2012 r. 3-5 | 12 Jun 2012 p. 2458-9 | 1 Jul 2012 (see r. 2(b))
 The Acts Amendment (Petroleum) Act 1990 was proclaimed on 1 Oct 1990 (see Gazette 28 Sep 1990 p. 5099).
+On the date as at which this compilation was prepared, the Petroleum Pipelines Amendment Regulations 2012 r. 3-5 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Petroleum Pipelines Regulations 1970.
+4.Regulation 4B amended
+In regulation 4B delete “$108.00.” and insert:
+$123.00.
+5.Third Schedule replaced
+Delete the Third Schedule and insert:
+Third Schedule — Fees
+[r. 4]
+Item | Purpose | Provision of Act | Fee ($)
+1. | Application for licence | s. 8(l)(j) | 5 622.00
+2. | Application for variation of licence | s. 15(2)(d) | 1 125.00
+3. | Registration of memorandum of transfer and name of transferee | s. 44(9) | 112.00
+4. | Registration as licensee on devolution by operation of law | s. 45(2) | 112.00
+5. | Application by company licensee for registration of change of name | s. 45(3) | 112.00
+6. | Entry on memorial of registration of approval of dealing | s. 47(12) | 112.00
+7. | Inspection of register | s. 52(1) | 23.00
+8. | Copies of or extracts from the register or of or from an instrument certified by Minister | s. 53(2) | 4.00
+9. | Certificate by Minister as to entry, matter or things under the Act | s. 53(3) | 56.00
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
