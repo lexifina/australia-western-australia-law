@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 July 2011 of the Rules of the Supreme Court 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Rules of the Supreme Court 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Rules of the Supreme Court 1971 | 18 Nov 1971 p. 4397-758 | 14 Feb 1972 (see O. 1 r. 2(1))
@@ -125,6 +125,11 @@ Supreme Court Amendment Rules (No. 3) 2009 | 22 Dec 2009 p. 5273-4 | 1 Jan 2010 
 Supreme Court Amendment Rules 2010 | 28 Jul 2010 p. 3433-90 | Pt. 1: 28 Jul 2010 (see r. 2(a)); Rules other than Pt. 1: 29 Jul 2010 (see r. 2(b))
 Supreme Court Amendment Rules 2011 | 28 Jun 2011 p. 2551-63 | r. 1 and 2: 28 Jun 2011 (see r. 2(a)); Rules other than r. 1 and 2: 12 Jul 2011 (see r. 2(b))
 Reprint 8: The Rules of the Supreme Court 1971 as at 15 Jul 2011 (includes amendments listed above)
+Supreme Court Amendment Rules 2012 r. 1 and 2 | 12 Jun 2012 p. 2445-53 | 12 Jun 2012 (see r. 2(a))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Supreme Court Amendment Rules 2012 r. 3-22 | 12 Jun 2012 p. 2445-53 | 26 Jun 2012 (see r. 2(b))
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
 Formerly referred to as The Partnership Act 1895, the short title of which was changed to the Partnership Act 1895 by the Statutes (Repeals and Minor Amendments) Act 2003 s. 144. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Gas Pipelines Access (Western Australia) Act 1998, the short title of which was changed to the Energy Arbitration and Review Act 1998 by the National Gas Access (WA) Act 2009 s. 26. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -132,6 +137,153 @@ The Gas Pipelines Access Law ceased to apply when the National Gas Access (WA) A
 The commencement date of 1 Jul 1982 that was specified was before the date of gazettal.
 The Supreme Court Amendment Rules 1994 r. 14 is a transitional provision that has no further effect.
 Disallowed on 10 Mar 1998, see Gazette 13 Mar 1998 p. 1389.
+On the date as at which this compilation was prepared, the Supreme Court Amendment Rules 2012 r. 3-22 had not come into operation. They read as follows:
+3.Rules amended
+These rules amend the Rules of the Supreme Court 1971.
+4.Order 1 amended
+In Order 1 rule 4C delete “registrar” and insert:
+Principal Registrar
+5.Order 4A amended
+(1) Delete Order 4A rule 26 and insert:
+26.Consequences of case being on Inactive Cases List
+(1) If a case is on the Inactive Cases List, only these documents may be filed in the Court in relation to the case —
+(a) a summons for an order under rule 27(1);
+(b) a notice of discontinuance by the plaintiff under Order 23 rule 2;
+(c) an application for leave made by the plaintiff or the defendant under Order 23 rule 2;
+(d) a written consent under Order 43 rule 16 to the making of an order that would finally dispose of the case.
+(2) If the plaintiff or defendant in a case on the Inactive Cases List files an application for leave under Order 23 rule 2, the Court may grant leave under that rule even though the case has not been removed from that list.
+(3) If a written consent is filed under Order 43 rule 16 to the making of an order in a case on the Inactive Cases List that would finally dispose of the case, the Court may make the order even though the case has not been removed from that list.
+(2) After Order 4A rule 28(3) insert:
+(4) Notwithstanding a case is dismissed under subrule (1) or (2) —
+(a) any party to the case may apply for an order for costs; and
+(b) the Court may make an order as to costs.
+6.Order 5 amended
+(1) Delete Order 5 rule 2 and insert:
+2.Writ for service outside WA, form of
+A writ to be served outside the State shall be in the form of Form 3.
+(2) Delete Order 5 rule 9 and insert:
+9.Writ for service outside Australia, leave to issue needed
+A writ for service outside Australia shall not be issued without the leave of the Court.
+7.Order 7 amended
+Delete Order 7 rule 3(3) and insert:
+(3) Without affecting the generality of subrule (1) —
+(a) a writ to be served within the jurisdiction may be issued as a concurrent writ with one to be served out of the jurisdiction; and
+(b) a writ to be served out of the jurisdiction may be issued as a concurrent writ with one to be served within the jurisdiction.
+8.Order 9A inserted
+After Order 8 insert:
+Order 9A — Interested non-parties
+1.Term used: interested non-party
+In this Order —
+interested non-party, in relation to a party to a case, means a person, other than a practitioner for the party, who —
+(a)provides funding or other financial assistance to the party for the purposes of conducting the case; and
+(b)exercises direct or indirect control or influence over the way in which the party conducts the case.
+2.Parties to advise identity of interested non-parties
+(1) A party to a case must notify the Principal Registrar and each other party to the case of the identity of any person who is an interested non-party in relation to the party to the case.
+(2) The notice is to be given in writing as soon as is reasonably practicable after the person becomes an interested non-party in relation to the party to the case.
+3.Duties of interested non-party
+The duties to the Court of an interested non-party in relation to a party to a case are the following —
+(a) not to engage in conduct which is misleading or deceptive, or to aid, abet or induce such conduct, in connection with the conduct of the case;
+(b) to cooperate with the parties and the Court in connection with the conduct of the case;
+(c) to use reasonable endeavours to ensure that the goal in Order 1 rule 4A and the objects in Order 1 rule 4B are attained.
+9.Order 9 amended
+Delete Order 9 rule 3(2) and insert:
+(2) A writ served outside Australia in accordance with a contract shall not be deemed to have been duly served on the defendant by virtue of subrule (1) unless leave to serve the writ outside Australia has been granted under Order 10 rule 1 or 2.
+10.Order 10 amended
+(1) In Order 10 rule 1A(2):
+(a) delete “or notice of a writ”;
+(b) delete “the Commonwealth of”.
+(2) Delete Order 10 rule 1A(3) and insert:
+(3) Rules 9 to 11 do not apply to or in relation to the service of a writ on a person outside Australia under the convention referred to in Order 11A.
+(3) In Order 10 rule 1(1) delete “may, subject to rule 3,” and insert:
+may
+(4) In Order 10 rule 2 delete “may, subject to rule 3,” and insert:
+may
+(5) Delete Order 10 rule 3.
+(6) Delete Order 10 rule 4(1) and insert:
+(1) An application for a grant of leave under rule 1 or 2 must be supported by an affidavit that states —
+(a) that in the deponent’s belief, the plaintiff has a good cause of action; and
+(b) where, outside Australia, the person to be served is or probably may be.
+(7) Delete Order 10 rules 5 and 6 and insert:
+5.Time for appearance
+(1) An order made under this Order granting leave to serve a writ outside Australia must limit the time within which the person to be served can enter an appearance.
+(2) In fixing that limit, the Court must have regard to the place or country where the writ is to be served.
+(3) If the writ is to be served under the convention referred to in Order 11A, subrule (1) is subject to that Order.
+(8) Delete Order 10 rule 7 and insert:
+7.Other documents, service of outside Australia
+The Court may grant leave to serve a person outside Australia with any originating process, other than a writ, or with any summons, order or notice in any proceedings duly instituted, whether by writ of summons or otherwise, and rules 1A, 4 and 5, with any necessary changes, apply to such service.
+(9) Delete Order 10 rule 9(2), (3) and (4) and insert:
+(2) If leave is granted to serve a writ on a person in a foreign country and a convention about such service applies to the country and to Australia or this State, the notice may be served —
+(a) through the judicial authorities of that country; or
+(b) through a British or Australian diplomatic or consular agent in that country (subject to any provision of the convention as to the nationality of persons who may be so served).
+(3) If leave is granted to serve a writ on a person in a country and there is no such convention, the notice may be served —
+(a) through the government of that country, if the government is willing to effect service; or
+(b) through a British or Australian diplomatic or consular agent in that country except where service through such an authority is contrary to the law of that country.
+(4) A person who wishes to serve a writ by a method described in subrule (2) or (3) must lodge in the Central Office a request for service of the writ by that method, together with a copy of the writ and an additional copy thereof for each person to be served.
+(10) In Order 10 rule 9(5) delete “notice” (each occurrence) and insert:
+writ
+(11) In Order 10 rule 9(7) delete “for use out of the jurisdiction”.
+(12) In Order 10 rule 9(9) delete “a notice of”.
+(13) Delete Order 10 rule 10(1) and insert:
+(1) Subject to rule 9(9), to the following provisions of this rule and to any direction given by the Court as to the manner in which the writ shall be served or brought to the notice of the person, Order 9 rule 1 and Order 72 rule 4 apply in relation to the service of a writ, notwithstanding it is to be served outside Australia.
+(14) In Order 10 rule 10(3) delete “A writ or notice of a writ which is to be served out of the jurisdiction —” and insert:
+A writ to be served outside Australia —
+11.Order 11 amended
+(1) In Order 11 rule 2(4) delete “Court for use out of the jurisdiction.” and insert:
+Court.
+(2) In Order 11 rule 3(5) delete “Court for use out of the jurisdiction.” and insert:
+Court.
+12.Order 12 amended
+Delete Order 12 rule 7 and insert:
+7.Setting aside writ etc. before appearance
+A defendant to an action, at any time before entering an appearance in it, may serve notice of motion to —
+(a) set aside the writ or service of the writ on the defendant; or
+(b) discharge any order that granted leave to serve the writ on the defendant outside Australia.
+13.Order 13 amended
+In Order 13 rule 1(1)(a) delete “or notice of the writ”.
+14.Order 18 amended
+In Order 18 rule 3(4) delete “Order 10 except rule 3,” and insert:
+Order 10,
+15.Order 19 amended
+In Order 19 rule 3(3) delete “except rule 3”.
+16.Order 20 amended
+In Order 20 rule 1:
+(a) delete “or notice of the writ,”;
+(b) delete “or notice” (second occurrence).
+17.Order 43 amended
+In Order 43 rule 2(2)(a) delete “the jurisdiction,” and insert:
+Australia,
+18.Order 60A amended
+Delete Order 60A rule 4(2) and insert:
+(2) The appeal must be made to a master unless a judge orders otherwise.
+19.Order 70 amended
+In Order 70 rule 12(1) delete “Common Fund.” and insert:
+Common Account established under the Public Trustee Act 1941.
+20.Order 73 amended
+(1) Delete Order 73 rule 3.
+(2) Delete Order 73 rule 10(5) and insert:
+(5) Order 10 rules 9, 10 and 11 apply to a citation issued pursuant to rule 8 as they apply to a writ.
+(3) In Order 73 rule 13(2) delete “or notice of the writ”.
+(4) Delete Order 73 rule 13(4) and insert:
+(4) Before applying for leave under subrule (3), the plaintiff must file an affidavit proving due service of the writ and of the citation (if any).
+21.Schedule 2 amended
+(1) In Schedule 2 Form 3 delete “When the defendant to be served is outside the Commonwealth of Australia notice of the writ, and not the writ itself, is to be served upon him.”.
+Note:The heading to amended Form 3 is to read:
+Writ of summons to be served outside WA
+(2) Delete Schedule 2 Form 4.
+(3) After Schedule 2 Form 43 insert:
+44.Judgment by consent (O. 42 r. 1(2))
+In the Supreme Court of Western Australia | No:
+Judgment by consent
+Parties | Plaintiff Defendant
+Judgment | In accordance with the consent of the parties, the Court orders — 1. 2.
+Judicial officer’s signature | Judicial officer | Date:
+22.References to “Commonwealth of Australia” amended
+In the provisions listed in the Table delete “the Commonwealth of” (each occurrence).
+Table
+O. 5 r. 11(1) | O. 5 r. 11(2)
+O. 5 r. 11(3) | O. 10 r. 1A(1)
+O. 10 r. 1(1) | O. 10 r. 2
+O. 11 r. 3(1) | O. 44A r. 4(2)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
