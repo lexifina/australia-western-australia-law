@@ -1,9 +1,9 @@
 Notes
-This is a compilation of the Swan and Canning Rivers Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 15 June 2012 of the Swan and Canning Rivers Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Swan and Canning Rivers Management Act 2006 | 51 of 2006 | 6 Oct 2006 | s. 1 and 2: 6 Oct 2006; Act other than s. 1 and 2: 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 165 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Swan and Canning Rivers Management Regulations 2007 r. 45 published in Gazette 25 Sep 2007 p. 4787-831 | 25 Sep 2007 (see note under r. 1 and Gazette 25 Sep 2007 p. 4835)
 Reprint 1: The Swan and Canning Rivers Management Act 2006 as at 6 Mar 2009 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
@@ -11,6 +11,10 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 6 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Metropolitan Redevelopment Authority Act 2011 s. 144 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Reprint 2: The Swan and Canning Rivers Management Act 2006 as at 15 Jun 2012 (includes amendments listed above)
+Repealed by the Water Resources Legislation Amendment Act 2007.
+Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
+Now a city.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -52,8 +56,8 @@ lot3(1)
 management programme3(1)
 Marine Authority11(1)
 marine reserve11(1)
-member3(1), 21(1), 134(1), 135(1), Sch. 6 cl. 8(8), 10(1), and 13
-Metropolitan Redevelopment Authority 3(1)
+member3(1), 21(1), 134(1), 135(1), Sch. 6 cl. 8(8), 10(1) and 13
+Metropolitan Redevelopment Authority3(1)
 Metropolitan Region Scheme3(1)
 Minister for Lands12(1)
 Minister for Planning3(1)
