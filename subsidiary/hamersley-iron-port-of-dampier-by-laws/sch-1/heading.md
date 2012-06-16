@@ -8,4 +8,4 @@ IN WITNESS whereof I have set my hand and seal this . . . . . . . . . . . . . . 
 day of . . . . . . . . . . . . . . . 20 . . .
 Signed Sealed and Delivered by the said
 in the presence of— |  | (seal)
-[First Schedule amended in Gazette 29 Nov 1974 p. 5198.]
+[First Schedule amended: Gazette 29 Nov 1974 p. 5198.]
