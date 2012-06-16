@@ -15,3 +15,41 @@ Hamersley Iron (Port of Dampier) Amendment By-laws 1985 | 28 Jun 1985 p. 2373 | 
 Hamersley Iron (Port of Dampier) Amendment By-laws 1986 | 7 Feb 1986 p. 467 | 7 Feb 1986
 Hamersley Iron (Port of Dampier) Amendment By-laws 1987 | 3 Jul 1987 p. 2590 | 3 Jul 1987
 Reprint 1: The Hamersley Iron (Port of Dampier) By-laws as at 7 May 2004 (includes amendments listed above)
+Hamersley Iron (Port of Dampier) Amendment By-laws 2012 | 15 Jun 2012 p. 2542-3 | bl. 1 and 2: 15 Jun 2012 (see bl. 2(a)); By-laws other than bl. 1 and 2: 16 Jun 2012 (see bl. 2(b))
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Ballast3
+Beacon3
+Berth3
+Boat3
+Buoy3
+Cargo3
+Consignee3
+Consignor3
+Due3
+Harbour Light3
+inflammable liquid40
+Master3
+Motor Vehicle3
+oil vessel40
+Owner3, 3
+Port Facility3
+Port Installation3
+Port Service3
+Ship3
+The Act3
+the Agreement3
+The Collector3
+The Company3
+the harbour master3
+The Harbourmaster3
+The Marine Manager3
+The Port3
+Tonnage3
+Tons3
+Tug3
+Unberth3
+Vessel3
+Vessel of War3
+Wharf3
