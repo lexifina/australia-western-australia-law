@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 February 2012 of the Criminal Procedure Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Criminal Procedure Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Criminal Procedure Rules 2005 | 29 Apr 2005 p. 1885-964 | 2 May 2005 (see r. 2)
@@ -9,8 +9,8 @@ Criminal Procedure Amendment Rules 2010 | 21 Dec 2010 p. 6755-7 | r. 1 and 2: 21
 Criminal Procedure Amendment Rules 2011 | 12 Jul 2011 p. 2923-4 | r. 1 and 2: 12 Jul 2011 (see r. 2(a)); Rules other than r. 1 and 2: 13 Jul 2011 (see r. 2(b))
 Criminal Procedure Amendment Rules (No. 3) 2011 | 8 Nov 2011 p. 4673-5 | r. 1 and 2: 8 Nov 2011 (see r. 2(a)); Rules other than r. 1 and 2: 9 Nov 2011 (see r. 2(b))
 Reprint 1: The Criminal Procedure Rules 2005 as at 3 Feb 2012 (includes amendments listed above)
+Criminal Procedure Amendment Rules 2012 | 19 Jun 2012 p. 2647-9 | r. 1 and 2: 19 Jun 2012 (see r. 2(a)); Rules other than r. 1 and 2: 20 Jun 2012 (see r. 2(b))
 The Parole Board was replaced by the Prisoners Review Board. See Parole and Sentencing Legislation Amendment Act 2006.
-The Juries Act 1957 s. 56 was replaced by the Juries Legislation Amendment Act 2011 s. 42.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
