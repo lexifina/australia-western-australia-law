@@ -30,6 +30,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law (WA) Act 2010 s. 41(2) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 Pt. 2 | 1 of 2011 | 1 Mar 2011 | To be proclaimed (see s. 2(b))
+Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 3 | 11 of 2012 | 20 Jun 2012 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 41(2) had not come into operation. It reads as follows:
 41.Section 5PA amended
 (2) In section 5PA delete the definition of health professional and insert:
@@ -98,6 +99,18 @@ if the act or omission is done or made, or the advice given, in good faith and w
 (2) This section does not affect the vicarious liability of any person for the acts or omissions of a staff member.
 5AAD.Exclusion from protection
 The protection from personal civil liability conferred by this Part does not apply if the ability of the staff member to exercise reasonable care and skill, at the relevant time, was significantly impaired by reason of the staff member being intoxicated by alcohol or a drug or other substance capable of intoxicating a person and the intoxication was self-induced.
+On the date as at which this compilation was prepared, the Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 3 had not come into operation. It reads as follows:
+Part 4 — Amendments to other Acts
+Division 3 — Civil Liability Act 2002 amended
+28.Act amended
+This Division amends the Civil Liability Act 2002.
+29.Section 5AAA amended
+(1) In section 5AAA delete the definition of child care service and insert:
+child care service means —
+(a)an education and care service as defined in the Education and Care Services National Law (Western Australia) section 5(1); or
+(b)a child care service as defined in the Child Care Services Act 2007 section 4;
+(2) In section 5AAA in the definition of staff member after paragraph (c) insert:
+(da)a nominated supervisor as defined in the Education and Care Services National Law (Western Australia) section 5(1); or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
