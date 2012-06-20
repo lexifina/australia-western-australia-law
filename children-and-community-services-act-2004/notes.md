@@ -22,6 +22,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 6 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 2 | 11 of 2012 | 20 Jun 2012 | To be proclaimed (see s. 2(c))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions relating to the repealed Pt. 8 of this Act.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 6 had not come into operation. It reads as follows:
@@ -31,6 +32,16 @@ This Division amends the Children and Community Services Act 2004.
 54.Section 102 amended
 In section 102 delete “Road Traffic Act 1974)” and insert:
 Road Traffic (Administration) Act 2008 section 4)
+On the date as at which this compilation was prepared, the Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 2 had not come into operation. It reads as follows:
+Part 4 — Amendments to other Acts
+Division 2 — Children and Community Services Act 2004 amended
+26.Act amended
+This Division amends the Children and Community Services Act 2004.
+27.Section 3 amended
+In section 3 insert in alphabetical order:
+child care services means —
+(a)any education and care service as defined in the Education and Care Services National Law (Western Australia) section 5(1); or
+(b)any child care service as defined in the Child Care Services Act 2007 section 4;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
