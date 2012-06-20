@@ -24,6 +24,7 @@ Short title | Number and year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 s. 65 (Sch. 1 cl. 3) | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Misuse of Drugs Amendment Act 2011 Pt. 5 | 56 of 2011 | 21 Nov 2011 | To be proclaimed (see s. 2(b))
+Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 9 | 11 of 2012 | 20 Jun 2012 | To be proclaimed (see s. 2(c))
 On the date as at which this reprint was prepared, the Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 had not come into operation. It reads as follows:
 Schedule 1 — Consequential amendments
 [s. 65]
@@ -80,6 +81,30 @@ This Part amends the Working with Children (Criminal Record Checking) Act 2004.
 15.Schedule 2 amended
 In Schedule 2 in the item relating to the Misuse of Drugs Act 1981 insert in numerical order:
 s. 7B(4) | Selling drug paraphernalia to a child
+On the date as at which this compilation was prepared, the Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 9 had not come into operation. It reads as follows:
+Part 4 — Amendments to other Acts
+Division 9 — Working with Children (Criminal Record Checking) Act 2004 amended
+51.Act amended
+This Division amends the Working with Children (Criminal Record Checking) Act 2004.
+52.Section 4 amended
+In section 4 delete the definition of child care service and insert:
+child care service means —
+(a)an education and care service as defined in the Education and Care Services National Law (Western Australia) section 5(1); or
+(b)a child care service as defined in the Child Care Services Act 2007 section 4;
+53.Section 5 amended
+(1) In section 5(1) delete the definition of managerial officer and insert:
+managerial officer, means —
+(a)a managerial officer, as defined in the Child Care Services Act 2007 section 3, in relation to a body corporate that holds a licence under that Act; or
+(b)a person with management or control, as defined in the Education and Care Services National Law (Western Australia) section 5(1), in relation to an education and care service under that Law.
+(2) In section 5(2) delete “managerial officer in relation to a body corporate that holds a licence under the Child Care Services Act 2007 —” and insert:
+managerial officer —
+54.Section 38 amended
+(1) In section 38(3)(a) delete “2007; or” and insert:
+2007, or is an approved provider as defined in the Education and Care Services National Law (Western Australia) section 5(1); or
+(2) Delete section 38(3)(b) and insert:
+(b) is —
+(i) a supervising officer or a managerial officer, as defined in the Child Care Services Act 2007 section 3; or
+(ii) a certified supervisor, a nominated supervisor or a person with management or control, in relation to an education and care service under the Education and Care Services National Law (Western Australia),
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
