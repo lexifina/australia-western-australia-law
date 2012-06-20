@@ -171,6 +171,7 @@ Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 | 10 of 2011 
 Electronic Transactions Act 2011 s. 25 and 26 | 46 of 2011 | 25 Oct 2011 | s. 25: to be proclaimed (see s. 2(c)); s. 26: operative when s. 24 comes into operation (see s. 2(b)(i))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 6 | 9 of 2012 | 21 May 2012 | To be proclaimed (see s. 2(b))
+Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 4 | 11 of 2012 | 20 Jun 2012 | To be proclaimed (see s. 2(c))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -218,7 +219,16 @@ On the date as at which this compilation was prepared, the Prostitution Amendmen
 (3) Section 191 is repealed.
 (4) Section 557K(1) paragraph (h) of the definition of child sex offender is amended by deleting “Prostitution Act 2000” and inserting instead —
 “ Sexual Services Act 2000 ”.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 4 had not come into operation. It reads as follows:
+Part 4 — Amendments to other Acts
+Division 4 — The Criminal Code amended
+30.Act amended
+This Division amends The Criminal Code.
+31.Section 557K amended
+In section 557K(1) insert in alphabetical order:
+child care centre means a place where —
+(a)an education and care service as defined in the Education and Care Services National Law (Western Australia) section 5(1) operates; or
+(b)a child care service as defined in the Child Care Services Act 2007 section 4 is provided;
 On the date as at which this compilation was prepared, the Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 had not come into operation. They read as follows:
 3.The Criminal Code amended
 This Act amends The Criminal Code.
