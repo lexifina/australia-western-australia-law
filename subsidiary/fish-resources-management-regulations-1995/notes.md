@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 April 2012 of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fish Resources Management Regulations 1995 | 29 Sep 1995 p. 4503-646 | 1 Oct 1995 (see r. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -154,7 +154,8 @@ Fish Resources Management Amendment Regulations (No. 13) 2011 | 22 Nov 2011 p. 4
 Fish Resources Management Amendment Regulations (No. 14) 2011 | 20 Dec 2011 p. 5374-5 | r. 1 and 2: 20 Dec 2011 (see r. 2(a)); Regulations other than r. 1, 2, 4 and 6: 21 Dec 2011 (see r. 2(c)); r. 4 and 6: 8 Jan 2012 (see r. 2(b))
 Fish Resources Management Amendment Regulations 2012 | 24 Feb 2012 p. 801-3 | r. 1 and 2: 24 Feb 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Feb 2012 (see r. 2(b))
 Reprint 11: The Fish Resources Management Regulations 1995 as at 13 Apr 2012 (includes amendments listed above)
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
+Fish Resources Management Amendment Regulations (No. 3) 2012 | 22 Jun 2012 p. 2778-9 | r. 1 and 2: 22 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2012 (see r. 2(b))
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Recreational Fishing Account.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
