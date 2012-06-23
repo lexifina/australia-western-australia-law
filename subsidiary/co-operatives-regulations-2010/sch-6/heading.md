@@ -59,21 +59,10 @@ It may be unsuitable for a co-operative to be called Hypothetical Co-operative L
 (f)Geneva Conventions Act 1957 to the extent it prevents the use of ‘Red Cross’, ‘Geneva Cross’, ‘Red Crescent’ or ‘Red Lion and Sun’ or wording resembling any of those expressions.
 12.Names that are subject to restrictions under Western Australian Acts including, but not limited to, the following —
 (a)Architects Act 2004;
-(b)Chiropractors Act 2005;
-(c)Dental Act 1939;
-(d)Dental Prosthetists Act 1985;
-(e)Hairdressers Registration Act 1946;
-(f)Legal Profession Act 2008;
-(g)Licensed Surveyors Act 1909;
-(h)Medical Practitioners Act 2008;
-(i)Medical Radiation Technologists Act 2006;
-(j)Nurses and Midwives Act 2006;
-(k)Occupational Therapists Act 2005;
-(l)Optometrists Act 2005;
-(m)Osteopaths Act 2005;
-(n)Pharmacy Act 1964;
-(o)Physiotherapists Act 2005;
-(p)Podiatrists Act 2005;
-(q)Police Act 1892;
-(r)Psychologists Act 2005;
-(s)Veterinary Surgeons Act 1960.
+(b)Health Practitioner Regulation National Law (Western Australia);
+(c)Legal Profession Act 2008;
+(d)Licensed Surveyors Act 1909;
+(e)Pharmacy Act 2010;
+(f)Police Act 1892;
+(g)Veterinary Surgeons Act 1960.
+[Schedule 6 amended in Gazette 22 Jun 2012 p. 2778.]
