@@ -39,7 +39,7 @@ The
 24.Delete Part 2M.4 Division 7.
 ## Division 3 — Changes for the Act (section 316)
 25.In section 461(h) delete “ASIC has stated in a report prepared under Division 1 of Part 3 of the ASIC Act that, in its opinion:” and insert:
-the Registrar has, because of an inquiry held under Part 15, Division 2 or 4of the Act, stated that:
+the Registrar has, because of an inquiry held under Part 15, Division 2 or 4 of the Act, stated that:
 26.In section 464 delete “Where ASIC is investigating, or has investigated, under Division 1 of Part 3 of the ASIC Act:” and insert:
 If the Registrar is holding or has held an inquiry under Part 15, Division 2 or 4 of the Act, in relation to:
 27.In section 542(3) —
