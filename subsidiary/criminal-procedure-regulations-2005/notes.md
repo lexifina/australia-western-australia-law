@@ -20,6 +20,7 @@ Criminal Procedure Amendment Regulations 2010 | 17 Sep 2010 p. 4758 | r. 1 and 2
 Criminal Procedure Amendment Regulations 2011 | 1 Jul 2011 p. 2724 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Criminal Procedure Amendment Regulations (No. 3) 2011 | 27 Oct 2011 p. 4551-2 | r. 1 and 2: 27 Oct 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Oct 2011 (see r. 2(b))
 Criminal Procedure Amendment Regulations (No. 4) 2011 | 23 Mar 2012 p. 1368-9 | r. 1 and 2: 23 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Mar 2012 (see r. 2(b))
+Criminal Procedure Amendment Regulations 2012 | 22 Jun 2012 p. 2780-1 | r. 1 and 2: 22 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2012 (see r. 2(b))
 Repealed by the Road Transport (General) Act 2005 (NSW). See the Road Transport (General) Act 2005 (NSW).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
