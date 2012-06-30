@@ -50,12 +50,13 @@ Reprint 4: The State Trading Concerns (Authorisation) Regulations 1998 as at 10 
 Public Sector Reform (Consequential Amendments) Regulations 2011 Pt. 9 | 11 Feb 2011 p. 502-7 | 12 Feb 2011 (see r. 2(d))
 State Trading Concerns (Authorisation) Amendment Regulations 2011 | 23 Sep 2011 p. 3820-1 | r. 1 and 2: 23 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Sep 2011 (see r. 2(b))
 State Trading Concerns (Authorisation) Amendment Regulations (No. 2) 2011 | 8 Nov 2011 p. 4676-7 | r. 1 and 2: 8 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Nov 2011 (see r. 2(b))
+State Trading Concerns (Authorisation) Amendment Regulations 2012 | 29 Jun 2012 p. 2965-6 | r. 1 and 2: 29 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2012 (see r. 2(b))
 Under the Alteration of Statutory Designations Order 2007 a reference in any law to the Department for Community Development is to be read and construed as a reference to the Department for Child Protection unless the contrary intention appears.
 Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in any law to the Department for Planning and Infrastructure is to be read and construed as a reference to the Department of Planning or the Department of Transport or the Department of Regional Development and Lands (as the case requires) unless the contrary intention appears.
 Under the Public Sector Management Act 1994 the designations of departments can be altered. At the time of this compilation the designation of the Department of Consumer and Employment Protection has been altered to the Department of Commerce (see Gazette 2 Jan 2009 p. 8).
 Under the Public Sector Management Act 1994 the designations of departments can be altered. At the time of this compilation the designation of the Department of Industry and Resources has been altered to the Department of Mines and Petroleum (see Gazette 2 Jan 2009 p. 8).
 Under the Public Sector Management Act 1994 the designations of departments can be altered. At the time of this compilation the designation of the department known as the Department of Justice has been altered to the Department of the Attorney General (see Gazette 10 Jan 2006 p. 39).
-The Office of Water Regulation was abolished on 1 Jan 2004 (see Gazette 6 Jan 2004 p. 41).
+Footnote no longer applicable.
 The Western Australian Government Railways Commission no longer exists. Its successor is the Public Transport Authority. See Public Transport Authority Act 2003 s. 80.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
