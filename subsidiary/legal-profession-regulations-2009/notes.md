@@ -10,6 +10,7 @@ Legal Profession Amendment Regulations (No. 2) 2011 | 22 Jul 2011 p. 3018-19 | r
 Legal Profession Amendment Regulations (No. 4) 2011 | 30 Aug 2011 p. 3507-8 | r. 1 and 2: 30 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Aug 2011 (see r. 2(b))
 Legal Profession Amendment Regulations 2012 | 6 Mar 2012 p. 894 | r. 1 and 2: 6 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2012 (see r. 2(b))
 Legal Profession Amendment Regulations (No. 2) 2012 | 1 May 2012 p. 1805 | r. 1 and 2: 1 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 2 May 2012 (see r. 2(b))
+Legal Profession Amendment Regulations (No. 4) 2012 | 29 Jun 2012 p. 2951-2 | r. 1 and 2: 29 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2012 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -20,6 +21,7 @@ approved CPD arrangements12
 associate44(1), 45(1), 50(3), 57(1)
 Australian law5(1)
 authorised44(1), 45(1), 50(3), 57(1)
+barrister’s indorsement5(1)
 BSB number34
 Cash Rate Target79(3)
 commencement day113
