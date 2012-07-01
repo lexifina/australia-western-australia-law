@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 November 2008 of the Rates and Charges (Rebates and Deferments) Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Rates and Charges (Rebates and Deferments) Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Rates and Charges (Rebates and Deferments) Act 1992 | 31 of 1992 | 19 Jun 1992 | s. 1 and 2: 19 Jun 1992; Act other than s. 1 and 2: 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2643)
@@ -26,11 +26,11 @@ Revenue Laws Amendment (Assessment) Act 2007 Pt. 2 | 13 of 2007 | 29 Jun 2007 | 
 Revenue Laws Amendment Act 2008 Pt. 6 | 30 of 2008 | 27 Jun 2008 | 1 Jul 2008 (see s. 2(1)(c)(i))
 Revenue Laws Amendment Act (No. 2) 2008 s. 35 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 Reprint 3: The Rates and Charges (Rebates and Deferments) Act 1992 as at 7 Nov 2008 (includes amendments listed above)
+Local Government Amendment Act 2012 Pt. 3 | 2 of 2012 | 4 Apr 2012 | 1 Jul 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Residential Tenancies Amendment Act 2011 Pt. 5 Div. 4 | 60 of 2011 | 14 Dec 2011 | To be proclaimed (see s. 2(b))
-Local Government Amendment Act 2012 Pt. 3 | 2 of 2012 | 4 Apr 2012 | 1 Jul 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695)
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.
 Repealed by s. 51(1) of this Act.
@@ -75,37 +75,6 @@ This Division amends the Rates and Charges (Rebates and Deferments) Act 1992.
 lessor, in relation to land, has the meaning given in the Residential Tenancies Act 1987 section 3;
 (3) In section 29B(3) delete “the owner” and insert:
 the lessor
-On the date as at which this compilation was prepared, the Local Government Amendment Act 2012 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Rates and Charges (Rebates and Deferments) Act 1992 amended
-34.Act amended
-This Part amends the Rates and Charges (Rebates and Deferments) Act 1992.
-35.Section 3 amended
-(1) In section 3(1) in the definition of charged period delete “made;” and insert:
-made and has a meaning affected by section 40(2A);
-(2) In section 3(1) in the definition of prescribed charge after paragraph (c) insert:
-(da)a charge, by way of a service charge, made under the Local Government Act 1995 section 6.38 in relation to the provision of underground electricity; or
-36.Section 40 amended
-(1) After section 40(1) insert:
-(2A) Despite anything else in this Act, this section does not apply to an eligible senior in respect of a prescribed charge for the provision of underground electricity for any charged period other than the first year or part of the first year for which that charge is to be or was made.
-(2) In section 40(5) in the definition of the variable “PC” delete “(9)(a);” and insert:
-(9) in respect of an eligible senior;
-(3) In section 40(6) in the definition of the variable “PC” delete “(9)(b);” and insert:
-(9) in respect of an eligible pensioner;
-(4) In section 40(7):
-(a) in the definition of the variable “PCS” delete “(9)(a);” and insert:
-(9) in respect of an eligible senior;
-(b) in the definition of the variable “PCP” delete “(9)(b);” and insert:
-(9) in respect of an eligible pensioner;
-(5) In section 40(9):
-(a) in paragraph (b) after “drainage” insert:
-or underground electricity
-(b) in paragraph (b) delete “concerned; and” and insert:
-concerned;
-(c) delete paragraph (c) and insert:
-(c) for an eligible senior, on any prescribed charge for the provision of underground electricity — 25% of the prescribed charge concerned, up to such limit as is prescribed;
-(d) on any other prescribed charge —
-(i) for an eligible senior — the prescribed percentage of the charge, up to such limit as is prescribed;
-(ii) for an eligible pensioner — the prescribed percentage of the charge.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
