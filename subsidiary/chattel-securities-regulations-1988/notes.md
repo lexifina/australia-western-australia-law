@@ -19,6 +19,7 @@ Chattel Securities Amendment Regulations (No. 2) 2006 | 27 Jun 2006 p. 2252 | 1 
 Reprint 2: The Chattel Securities Regulations 1988 as at 25 Aug 2006 (includes amendments listed above)
 Chattel Securities Amendment Regulations 2006 | 22 Sep 2006 p. 4081-4 | 22 Sep 2006 (see r. 2(a))
 Chattel Securities Amendment Regulations 2011 | 22 Jun 2011 p. 2337-8 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Chattel Securities Amendment Regulations 2012 | 15 Jun 2012 p. 2583 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Taxi Act 1994.
 Repealed by the Fish Resources Management Act 1994.
