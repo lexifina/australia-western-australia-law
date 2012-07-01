@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 February 2012 of the Stock (Identification and Movement) Regulations 1972 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Stock (Identification and Movement) Regulations 1972 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Stock (Brands and Movement) Act Regulations | 30 Jun 1972 p. 2205-12 | 30 Jun 1972
@@ -60,6 +60,7 @@ Stock (Identification and Movement) Amendment Regulations 2010 | 30 Jun 2010 p. 
 Stock (Identification and Movement) Amendment Regulations 2011 | 15 Apr 2011 p. 1412-13 | r. 1 and 2: 15 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Apr 2011 (see r. 2(b))
 Stock (Identification and Movement) Amendment Regulations (No. 2) 2011 | 30 Jun 2011 p. 2703-4 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Reprint 5: The Stock (Identification and Movement) Regulations 1972 as at 3 Feb 2012 (includes amendments listed above)
+Stock (Identification and Movement) Amendment Regulations 2012 | 19 Jun 2012 p. 2636-7 | r. 1 and 2: 19 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 Now known as the Stock (Identification and Movement) Regulations 1972; citation changed (see note under r. 1).
 The commencement date of 1 Jul 1982 that was specified was before the date of gazettal.
