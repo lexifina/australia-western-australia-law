@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 February 2012 of the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Water Services Coordination (Plumbers Licensing) Regulations 2000 | 16 Jun 2000 p. 2897-936 | 19 Jun 2000 (see r. 2 and Gazette 16 Jun 2000 p. 2939)
@@ -23,6 +23,7 @@ Public Sector Reform (Consequential Amendments) Regulations 2011 r. 20 | 11 Feb 
 Water Services Licensing (Plumbers Licensing and Plumbing Standards) Amendment Regulations (No. 2) 2011 | 22 Jun 2011 p. 2329-31 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Water Services Licensing (Plumbers Licensing and Plumbing Standards) Amendment Regulations 2011 | 30 Jun 2011 p. 2655-6 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Reprint 3: The Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 as at 3 Feb 2012 (includes amendments listed above)
+Water Services Licensing (Plumbers Licensing and Plumbing Standards) Amendment Regulations (No. 2) 2012 | 15 Jun 2012 p. 2621-3 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Formerly referred to the Water Services Coordination Act 1995, the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62.
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
 Under the Legal Profession Act 2008 s. 630(1), a reference in an Act or document to the Legal Practice Act 2003 may, if the context permits, be taken to be a reference to the Legal Profession Act 2008.
