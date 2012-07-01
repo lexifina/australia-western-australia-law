@@ -8,9 +8,11 @@ Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2009 |
 Reprint 1: The Energy Operators (Regional Power Corporation) (Charges) By-laws 2006 as at 16 Oct 2009 (includes amendments listed above)
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2010 | 26 Mar 2010 p. 1171-89 | Pt. 1: 26 Mar 2010 (see bl. 2(a)); Pt. 2: 1 Apr 2010 (see bl. 2(b)); Pt. 3: 1 Jul 2010 (see bl. 2(c))
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2011 | 24 Jun 2011 p. 2495-8 | bl. 1 and 2: 24 Jun 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2011 (see bl. 2(b))
+Energy Operators (Regional Power Corporation) (Charges) Amendment By laws 2012 | 29 Jun 2012 p. 2899-911 | bl. 1 and 2: 29 Jun 2012 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2012 (see bl. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
+carbon component3
 corporation3
 dwelling3
 eligible person9(1)

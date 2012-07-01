@@ -11,6 +11,6 @@
 7. | Disconnection of overhead service leads following unauthorised reconnection .................... | $412.00
 8. | Meter reading where reading requested by consumer ............................................................... | $22.77
 9. | Supply of electricity to standard railway crossing lights (per day) ...................................................... | 61.3044 cents
-10. | Overdue account notices ....................................... | $4.65
+10. | Overdue account notices ....................................... | $4.75
 11. | Rejected account payment (where payment made through Australia Post) ......................................... | $24.20
-[Schedule 4 inserted in Gazette 26 Mar 2010 p. 1187-8; amended in Gazette 24 Jun 2011 p. 2498.]
+[Schedule 4 inserted in Gazette 26 Mar 2010 p. 1187-8; amended in Gazette 24 Jun 2011 p. 2498; 29 Jun 2012 p. 2911.]
