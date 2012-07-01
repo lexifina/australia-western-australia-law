@@ -42,6 +42,7 @@ Settlement Agents Amendment Regulations 2010 | 25 Jun 2010 p. 2852-3 | r. 1 and 
 Reprint 5: The Settlement Agents Regulations 1982 as at 20 Aug 2010 (includes amendments listed above)
 Settlement Agents Amendment Regulations 2011 | 22 Jun 2011 p. 2365-6 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Settlement Agents Amendment Regulations (No. 2) 2011 | 30 Jun 2011 p. 2675-8 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Settlement Agents Amendment Regulations (No. 2) 2012 | 15 Jun 2012 p. 2601-2 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 These regulations were in place of the Settlement Agents Amendment Regulations 1996 published in Gazette 5 Jul 1996 p. 3224-5. Those regulations were published in the Gazette after the day on which they purported to commence (1 Jul 1996 — see proclamation published in Gazette 1 Jul 1996 p. 3179 fixing 1 Jul 1996 as the day on which Part 9 of the Business Licensing Amendment Act 1995 came into operation).
 The Settlement Agents Amendment Regulations (No. 2) 2004 r. 4 (as amended in Gazette 21 Jan 2004 p. 258 and 16 Jun 2006 p. 2122) reads as follows:
 4.Transitional
