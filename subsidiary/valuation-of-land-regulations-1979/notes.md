@@ -36,6 +36,7 @@ Reprint 3: The Valuation of Land Regulations 1979 as at 14 Aug 2009 (includes am
 Valuation of Land Amendment Regulations 2010 | 18 Jun 2010 p. 2682-3 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Valuation of Land Amendment Regulations 2011 | 4 Mar 2011 p. 699-700 | r. 1 and 2: 4 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Valuation of Land Amendment Regulations (No. 2) 2011 | 14 Jun 2011 p. 2139 | r. 1 and 2: 14 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Valuation of Land Amendment Regulations (No. 2) 2012 | 22 Jun 2012 p. 2786 | r. 1 and 2: 22 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
