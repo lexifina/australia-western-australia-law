@@ -86,6 +86,8 @@ Reprint 4: The Shipping and Pilotage (Ports and Harbours) Regulations 1966 as at
 Shipping and Pilotage (Ports and Harbours) Amendment Regulations (No. 2) 2011 | 21 Jun 2011 p. 2230-1 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Shipping and Pilotage (Ports and Harbours) Amendment Regulations 2011 | 21 Jun 2011 p. 2242-3 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Shipping and Pilotage (Ports and Harbours) Amendment Regulations (No. 4) 2011 | 30 Nov 2011 p. 4983-4 | r. 1 and 2: 30 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2011 (see r. 2(b))
+Shipping and Pilotage (Ports and Harbours) Amendment Regulations (No. 2) 2012 | 15 Jun 2012 p. 2521-2 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+Shipping and Pilotage (Ports and Harbours) Amendment Regulations 2012 | 15 Jun 2012 p. 2526-7 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Repealed by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. That Act was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 Citation was initially the Ports and Harbours Regulations and was subsequently changed to the Ports and Harbours Regulations 1966 and then to the Shipping and Pilotage (Ports and Harbours) Regulations 1966 (see note under r. 1).
 Defined Terms
