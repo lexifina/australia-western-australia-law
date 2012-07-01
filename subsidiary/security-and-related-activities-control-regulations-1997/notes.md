@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 December 2011 of the Security and Related Activities (Control) Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Security and Related Activities (Control) Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Security and Related Activities (Control) Regulations 1997 | 27 Mar 1997 p. 1651-90 | 1 Apr 1997 (see r. 2 and Gazette 27 Mar 1997 p. 1693)
@@ -35,6 +35,7 @@ Security and Related Activities (Control) Amendment Regulations (No. 2) 2011 | 2
 Security and Related Activities (Control) Amendment Regulations (No. 3) 2011 | 10 Jun 2011 p. 2112-13 | r. 1 and 2: 10 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Security and Related Activities (Control) Amendment Regulations (No. 4) 2011 | 1 Jul 2011 p. 2748-9 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2011 (see r. 2(b))
 Reprint 6: The Security and Related Activities (Control) Regulations 1997 as at 2 Dec 2011 (includes amendments listed above)
+Security and Related Activities (Control) Amendment Regulations 2012 | 15 Jun 2012 p. 2540-2 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
