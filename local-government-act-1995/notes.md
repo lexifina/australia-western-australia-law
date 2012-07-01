@@ -46,19 +46,19 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Local Government Amendment (Elections) Act 2009 | 15 of 2009 | 17 Aug 2009 | s. 1 and 2: 17 Aug 2009 (see s. 2(a)); Act other than s. 1 and 2: 29 Aug 2009 (see s. 2(b) and Gazette 28 Aug 2009 p. 3347)
  | Local Government Amendment Act 2009 | 17 of 2009 | 16 Sep 2009 | s. 1 and 2: 16 Sep 2009 (see s. 2(a)); Act other than s. 1, 2 and 34: 21 Nov 2009 (see s. 2(b) and Gazette 20 Nov 2009 p. 4649); s. 34: 4 May 2011 (see s. 2(b) and Gazette 3 May 2011 p. 1577)
  | Co-operatives Act 2009 s. 506 | 24 of 2009 | 22 Oct 2009 | 16 May 2011 (see s. 2(d) and Gazette 24 Jun 2011 p. 2516)
- | Reprint 5: The Local Government Act 1995 as at 5 Feb 2010 (includes amendments listed above except those in the Local Government Amendment Act 2009 s. 34 and the Co-operatives Act 2009)
+ | Reprint 5: The Local Government Act 1995 as at 5 Feb 2010 (includes amendments listed above except those in the Local Government Act 2009 s. 34 and the Co-operatives Act 2009)
  | Standardisation of Formatting Act 2010 s. 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 34 and Pt. 5 Div 2 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
  | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
  | Acts Amendment (Fair Trading) Act 2010 s. 182 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
  | Building Act 2011 s. 166 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
  | Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
- | Local Government Amendment Act 2012 Pt. 2 (other than s. 13-18) | 2 of 2012 | 4 Apr 2012 | s. 1 and 2: 4 Apr 2012 (see s. 2(a)); Pt. 2 (other than s. 13-18: (21 Apr 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695)
+ | Local Government Amendment Act 2012 Pt. 2 (other than s. 14-18) | 2 of 2012 | 4 Apr 2012 | Pt. 2 (other than s. 13-18): 21 Apr 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695); s. 13: 1 Jul 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 s. 516 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c)) and Gazette 13 Aug 2010 p. 3975)
-Local Government Amendment Act 2012 s. 13-1828 | 2 of 2012 | 4 Apr 2012 | s. 13: 1 Jul 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695); s. 14-18: to be proclaimed (see s. 2(b))
+Local Government Amendment Act 2012 s. 14-1828 | 2 of 2012 | 4 Apr 2012 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 29 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
@@ -243,12 +243,8 @@ On the date as at which this compilation was prepared, the Co-operatives Act 200
 (a) delete paragraph (d) and “or” after it;
 (b) after each of paragraphs (a) and (b) insert:
 or
-On the date as at which this compilation was prepared, the Local Government Amendment Act 2012 s. 13-18 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Local Government Amendment Act 2012 s. 14-18 had not come into operation. They read as follows:
 Division 3 — Amendments about fees etc. for council members and remuneration for CEOs
-13.Section 5.39 amended
-Delete section 5.39(7) and insert:
-(7) A CEO is to be paid or provided with such remuneration as is determined by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975 section 7A.
-(8) A local government is to ensure that subsection (7) is complied with in entering into, or renewing, a contract of employment with a CEO.
 14.Section 5.98 amended
 (1) Before section 5.98(1) insert:
 (1A) In this section —
