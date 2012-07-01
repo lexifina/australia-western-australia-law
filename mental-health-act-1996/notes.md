@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 July 2011 of the Mental Health Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Mental Health Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Mental Health Act 1996 | 68 of 1996 | 13 Nov 1996 | s. 1 and 2: 13 Nov 1996; Act other than s. 1 and 2: 13 Nov 1997 (see s. 2(2))
@@ -19,13 +19,9 @@ Nurses and Midwives Act 2006 Sch. 3 cl. 14 | 50 of 2006 | 6 Oct 2006 | 19 Sep 20
 Reprint 2: The Mental Health Act 1996 as at 12 Jan 2007 (includes amendments listed above except those in the Psychologists Act 2005, Occupational Therapists Act 2005 and the Nurses and Midwives Act 2006)
 Legal Profession Act 2008 s. 680 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Medical Practitioners Act 2008 Sch. 3 cl. 34 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
-Health Practitioner Regulation National Law (WA) Act 2010 s. 109-111 and 112(1) | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 34 | 35 of 2010 | 30 Aug 2010 | s. 109-111 and 112(1): 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6); s. 112(2): 1 Jul 2012 (see s. 2(b) and Gazette 19 Jun 2012 p. 2631)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Reprint 3: The Mental Health Act 1996 as at 1 Jul 2011 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law (WA) Act 2010 s. 112(2) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
+Reprint 3: The Mental Health Act 1996 as at 1 Jul 2011 (includes amendments listed above except the Health Practitioner Regulation National Law (WA) Act 2010 s. 112(2))
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 The Mental Health (Consequential Provisions) Act 1996 Pt. 12 Div. 2 (s. 53-72 inclusive) reads as follows:
 Division 2 — Transitional
@@ -157,13 +153,6 @@ to or in relation to any matter or thing.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 contain a validation provision that may be relevant to this Act.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 is a transitional provision that may be relevant to this Act.
-On the date as at which this reprint was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 112(2) had not come into operation. It reads as follows:
-112.Section 19 amended
-(2) Delete section 19(1)(b) and “or” after it and insert:
-(b) a person —
-(i) registered under the Health Practitioner Regulation National Law (Western Australia) in the nursing and midwifery profession; or
-(ii) registered under the Health Practitioner Regulation National Law (Western Australia) in the occupational therapy profession;
-or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

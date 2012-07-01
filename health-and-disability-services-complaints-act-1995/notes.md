@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 January 2011 of the Health and Disability Services (Complaints) Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Health and Disability Services (Complaints) Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Health Services (Conciliation and Review) Act 1995 | 75 of 1995 | 9 Jan 1996 | s. 1 and 2: 9 Jan 1996; Act other than s. 1 and 2, Pt. 3 and 4 and Sch. 1: 16 Aug 1996 (see s. 2 and Gazette 16 Aug 1996 p. 4007); Pt. 3 and 4 and Sch. 1: 16 Sep 1996 (see s. 2 and Gazette 16 Sep 1996 p. 4683)
@@ -31,14 +31,13 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 73 | 8 of 2009 | 21 
 Acts Amendment (Bankruptcy) Act 2009 s. 40 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health and Disability Services Legislation Amendment Act 2010 Pt. 2 | 33 of 2010 (as amended by 35 of 2010 s. 83(3)) | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
-Health Practitioner Regulation National Law (WA) Act 2010 s. 79-90 and 91(1)-(3) | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 25 | 35 of 2010 | 30 Aug 2010 | s. 79-90 and 91(1)-(3): 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6); s. 91(4) and (5): 1 Jul 2012 (see s. 2(b) and Gazette 19 Jun 2012 p. 2631)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Reprint 4: The Health and Disability Services (Complaints) Act 1995 as at 7 Jan 2011 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Reprint 4: The Health and Disability Services (Complaints) Act 1995 as at 7 Jan 2011 (includes amendments listed above except those in the Health Practitioner Regulation National Law (WA) Act 2010 s. 91(4) and (5))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Health Practitioner Regulation National Law (WA) Act 2010 s. 91(4) and (5) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Now known as the Health and Disability Services (Complaints) Act 1995; short title changed (see note under s. 1).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -50,7 +49,7 @@ Division 13 — Transitional provisions
 CEO has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
 commencement means the time at which this Division comes into operation;
 Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. The relevant part of it reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. The relevant part of it reads as follows:
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed
@@ -58,14 +57,6 @@ Act | Provision
 .............................................. | ................
 Health Services (Conciliation and Review) Act 1995 | Sch. 2, cl. 3
 .............................................. | ................
-On the date as at which this reprint was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 91(4) and (5) had not come into operation. They read as follows:
-91.Schedule 1 amended
-(4) Delete Schedule 1 items 3a and 5.
-(5) In Schedule 1 insert in alphanumerical order:
-1a.Aboriginal and Torres Strait Islander Health Practice Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-1b.Chinese Medicine Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-3a.Medical Radiation Practice Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
-5.Occupational Therapy Board of Australia established under the Health Practitioner Regulation National Law (Western Australia).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
