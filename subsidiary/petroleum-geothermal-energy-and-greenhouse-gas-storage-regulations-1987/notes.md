@@ -21,52 +21,11 @@ Petroleum and Geothermal Energy Resources Amendment Regulations (No. 2) 2010 | 1
 Petroleum and Geothermal Energy Resources Amendment Regulations (No. 3) 2010 | 16 Jul 2010 p. 3357-9 | r. 1 and 2: 16 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jul 2010 (see r. 2(b)(ii))
 Petroleum and Geothermal Energy Resources Amendment Regulations 2011 | 24 May 2011 p. 1898-9 | r. 1 and 2: 24 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 25 May 2011 (see r. 2(b) and Gazette 24 May 2011 p. 1892)
 Petroleum and Geothermal Energy Resources Amendment Regulations (No. 2) 2011 | 1 Jul 2011 p. 2734-6 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
-Petroleum and Geothermal Energy Resources Amendment Regulations 2012 r. 1 and 2 | 12 Jun 2012 p. 2463-4 | 12 Jun 2012 (see r. 2(a))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Petroleum and Geothermal Energy Resources Amendment Regulations 2012 r. 3-5 | 12 Jun 2012 p. 2463-4 | 1 Jul 2012 (see r. 2(b))
+Petroleum and Geothermal Energy Resources Amendment Regulations 2012 | 12 Jun 2012 p. 2463-4 | r. 1 and 2: 12 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 The Acts Amendment (Petroleum) Act 1990 (other than s. 32) came into operation 1 Oct 1990 (see Gazette 28 Sep 1990 p. 5099).
 Commencement day was 16 Dec 2000 (see Gazette 15 Dec 2000 p. 7201).
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
 Now known as the Petroleum and Geothermal Energy Resources Regulations 1987; citation changed (see note under r. 1).
-On the date as at which this compilation was prepared, the Petroleum and Geothermal Energy Resources Amendment Regulations 2012 r. 3-5 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Petroleum and Geothermal Energy Resources Regulations 1987.
-4.Regulation 3 amended
-In regulation 3 amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 3(2) | $3.50 | $4.00
-r. 3(4)(a) and (b) | $41.00 | $47.00
-r. 3(5)(a) and (b) | $41.00 | $47.00
-r. 3(6) | $82.00 | $94.00
-r. 3(7) | $9 886.00 | $11 270.00
-r. 3(8) | $13 228.00 | $15 080.00
-5.Schedule 1 replaced
-Delete Schedule 1 and insert:
-Schedule 1 — Prescribed fees
-[r. 3(1)]
-Column 1 Item | Column 2 Provision of Act | Column 3 Amount of prescribed fee ($)
-1. | s. 31(1)(f) | 5 622.00
-2. | s. 34(1)(a) | 5 622.00
-3. | s. 37A(2)(e) | 1 125.00
-4. | s. 40(2)(c) | 2 250.00
-5. | s. 43B(1)(f) | 5 622.00
-6. | s. 43F(3)(d) | 2 250.00
-7. | s. 48A(2)(e) | 2 250.00
-8. | s. 48CA(3)(d) | 2 250.00
-9. | s. 48F(2)(d) | 2 250.00
-10. | s. 51(1)(e) | 2 250.00
-11. | s. 58(1)(a) | 5 622.00
-12. | s. 61(2)(e) | 1 125.00
-13. | s. 64(2)(d) | 2 250.00
-14. | s. 73(2) | 112.00
-15. | s. 73(3)(b) | 112.00
-16. | s. 80(1) | 23.00
-17. | s. 81(3) | 56.00
-18. | s. 105(2)(d) | 1 125.00
-19. | s. 137(a) | 1 966.00
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
