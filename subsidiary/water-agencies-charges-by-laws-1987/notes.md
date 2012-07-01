@@ -106,6 +106,7 @@ Reprint 6: The Water Agencies (Charges) By-laws 1987 as at 7 Aug 2009 (includes 
 Water Agencies (Charges) Amendment By-laws 2010 | 25 Jun 2010 p. 2901-81 | bl. 1 and 2: 25 Jun 2010 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2010 (see bl. 2(b))
 Water Agencies (Charges) Amendment By-laws (No. 2) 2010 | 10 Sep 2010 p. 4350-1 | bl. 1 and 2: 10 Sep 2010 (see bl. 2(a)); By-laws other than bl. 1 and 2: 11 Sep 2010 (see bl. 2(b))
 Water Agencies (Charges) Amendment By-laws 2011 | 23 Jun 2011 p. 2417-93 | bl. 1 and 2: 23 Jun 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2011 (see bl. 2(b))
+Water Agencies (Charges) Amendment By-laws 2012 | 20 Jun 2012 p. 2693-774 | bl. 1 and 2: 20 Jun 2012 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2012 (see bl. 2(b))
 Now established by the Port Authorities Act 1999 s. 4.
 Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act.
 Repealed by the Gas Corporation (Business Disposal) Act 1999.
@@ -133,6 +134,7 @@ Defined Terms
 Defined TermProvision(s)
 >2(3)
 ≤2(3)
+aged home2(1)
 AGRV14(2), 24(2)
 caravan bay2(1)
 charge7(1)
@@ -148,11 +150,11 @@ discharge factor2(1)
 discharge period2(1)
 discharge volume2(1)
 eligible pensioner18(1), 18A(1), 18B(1)
+exempt land5A
 formula21A
 Government trading organisation2(1)
 GRV2(1)
 holiday accommodation2(1)
-home for the aged2(1)
 irrigation district2(1)
 land19A(1)
 long term residential caravan bay2(1)
