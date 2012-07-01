@@ -35,14 +35,15 @@ Reprint 4: The Aerial Spraying Control Regulations 1971 as at 8 Aug 2008 (includ
 Aerial Spraying Control Amendment Regulations 2009 | 26 Jun 2009 p. 2597-8 | r. 1 and 2: 26 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Aerial Spraying Control Amendment Regulations 2010 | 30 Jun 2010 p. 3105-6 | r. 1 and 2: 30 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Aerial Spraying Control Amendment Regulations 2011 | 30 Jun 2011 p. 2693-4 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Aerial Spraying Control Amendment Regulations 2012 | 19 Jun 2012 p. 2632 | r. 1 and 2: 19 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Now the Director General of Agriculture. See Agriculture Act 1988 s. 16.
 The designation of Ministers may be altered by the Governor under the Alterations of Statutory Designations Act 1974. As at the date of this compilation the former Minister for Agriculture was known as the Minister for Agriculture and Food.
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 Land Act 1933 repealed. Now see Land Administration Act 1997 s. 6 and Sch. 1.
 Now known as the Aerial Spraying Control Regulations 1971; citation changed (see note under r. 1).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Act3
 Agvet Code of Western Australia3A(2)
 Schedule3
