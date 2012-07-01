@@ -1,23 +1,23 @@
 ## Seventh Schedule — Seed analysis and report fees
 [r. 13]
-[Heading inserted in Gazette 30 Jun 2011 p. 2700.]
+[Heading inserted in Gazette 19 Jun 2012 p. 2642.]
 Item | Description | Fee ($)
 1. | Pure seed content analysis [Note:The pure seed content analysis group is displayed in column 6 of the First Schedule.]
- | (a)group 1 | 76.00
- | (b)group 2 | 95.00
- | (c)group 3 | 116.00
- | (d)group 4 | 139.00
+ | (a)group 1 | 78.50
+ | (b)group 2 | 97.50
+ | (c)group 3 | 120.00
+ | (d)group 4 | 143.00
 2. | Germination analysis [Note:The germination analysis group is displayed in column 7 of the First Schedule.]
- | (a)group 1 | 70.00
- | (b)group 2 | 80.50
- | (c)group 3 | 90.50
-3. | Pure seed content analysis of chaffy seed | 160.00
-4. | Cultivar determination by grow-on test | 283.00
-5. | Moisture content determination | 102.00
-6. | Pest or disease test | 109.00
-7. | Weed seed presence test | 99.00
-8. | Caryopsis presence test | 92.50
-9. | Pigmented seed content | 62.00
-10. | Number of seeds (per unit volume) | 82.50
-11. | Seed identification | 47.25
-[Seventh Schedule inserted in Gazette 30 Jun 2011 p. 2700-1.]
+ | (a)group 1 | 72.00
+ | (b)group 2 | 82.50
+ | (c)group 3 | 93.00
+3. | Pure seed content analysis of chaffy seed | 164.00
+4. | Cultivar determination by grow-on test | 291.00
+5. | Moisture content determination | 105.00
+6. | Pest or disease test | 112.00
+7. | Weed seed presence test | 102.00
+8. | Caryopsis presence test | 95.50
+9. | Pigmented seed content | 63.50
+10. | Number of seeds (per unit volume) | 84.50
+11. | Seed identification | 48.75
+[Seventh Schedule inserted in Gazette 19 Jun 2012 p. 2642-3.]
