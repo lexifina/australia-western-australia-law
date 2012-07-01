@@ -38,26 +38,12 @@ Port Authorities Amendment Regulations (No. 2) 2011 | 30 Jun 2011 p. 2627-8 | r.
 Port Authorities Amendment Regulations (No. 4) 2011 | 12 Aug 2011 p. 3244-5 | r. 1 and 2: 12 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Aug 2011 (see r. 2(b))
 Port Authorities Amendment Regulations (No. 5) 2011 | 20 Dec 2011 p. 5401 | r. 1 and 2: 20 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2011 (see r. 2(b))
 Reprint 5: The Port Authorities Regulations 2001 as at 6 Jan 2012 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Port Authorities Amendment Regulations 2012 r. 3-4 | 25 May 2012 p. 2209 | 1 Jul 2012 (see r. 2(b))
+Port Authorities Amendment Regulations 2012 | 25 May 2012 p. 2209 | r. 1 and 2: 25 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+Port Authorities Amendment Regulations (No. 2) 2012 | 15 Jun 2012 p. 2520 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Tobacco Products Control Act 2006.
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Dangerous Goods Safety Act 2004.
-On the date as at which this compilation was prepared, the Port Authorities Amendment Regulations 2012 r. 3-4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Port Authorities Regulations 2001.
-4.Schedule 2 Division 2 amended
-In Schedule 2 Division 2 amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 2 Div. 2 it. 1 | $5 671.90 | $5 918.54
-Sch. 2 Div. 2 it. 2 | $2 835.95 | $2 959.27
-Sch. 2 Div. 2 it. 3 | $1 417.98 | $1 479.64
-Sch. 2 Div. 2 it. 4 | $1 417.98 | $1 479.64
-Sch. 2 Div. 2 it. 5 | $1 417.98 | $1 479.64
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
