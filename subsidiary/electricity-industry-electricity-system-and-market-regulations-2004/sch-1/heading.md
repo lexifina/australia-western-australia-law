@@ -1,9 +1,9 @@
 ## Schedule 1 — Civil penalty provisions and amounts
 [r. 30]
-[Heading inserted in Gazette 16 Aug 2005 p. 3854.]
-Table
+[Heading inserted in Gazette 5 Jun 2012 p. 2354.]
 Provision | Category | Maximum civil penalty amounts
 cl. 2.13.13 | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
+cl. 2.13.13A | C | first contravention: $50 000 subsequent contraventions: $100 000
 cl. 2.13.14(a) | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
 cl. 2.13.25 | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
 cl. 2.16.6(b) | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
@@ -45,7 +45,7 @@ cl. 3.17.6 | C | first contravention: $50 000 subsequent contraventions: $100 00
 cl. 3.18.7 | C | first contravention: $40 000 subsequent contraventions: $80 000
 cl. 3.18.8 | C | first contravention: $40 000 subsequent contraventions: $80 000
 cl. 3.18.9 | C | first contravention: $40 000 subsequent contraventions: $80 000
-cl. 3.18.13 (d)(i) | C | first contravention: $40 000 plus a daily amount of $5 000 subsequent contraventions: $80 000 plus a daily amount of $15 000
+cl. 3.18.13(d)(i) | C | first contravention: $40 000 plus a daily amount of $5 000 subsequent contraventions: $80 000 plus a daily amount of $15 000
 cl. 3.19.1 | C | first contravention: $40 000 subsequent contraventions: $80 000
 cl. 3.19.8 | C | first contravention: $50 000 subsequent contraventions: $100 000
 cl. 3.20.2 | C | first contravention: $50 000 subsequent contraventions: $100 000
@@ -53,7 +53,7 @@ cl. 3.21.4 | C | first contravention: $40 000 subsequent contraventions: $80 000
 cl. 3.21A.2 | C | first contravention: $40 000 subsequent contraventions: $80 000
 cl. 3.21A.6 | C | first contravention: $30 000 subsequent contraventions: $60 000
 cl. 3.21A.12 | C | first contravention: $30 000 subsequent contraventions: $60 000
-cl. 3.21A.13 | C | first contravention: $30 000 subsequent contraventions: $60 000
+cl. 3.21A.13(a) | C | first contravention: $30 000 subsequent contraventions: $60 000
 cl. 3.21B.1 | C | first contravention: $30 000 subsequent contraventions: $60 000
 cl. 3.21B.2 | C | first contravention: $30 000 subsequent contraventions: $60 000
 cl. 4.5.4 | C | first contravention: $50 000 plus a daily amount of $10 000 subsequent contraventions: $100 000 plus a daily amount of $20 000
@@ -72,7 +72,8 @@ cl. 7.6A.2(g) | C | first contravention: $30 000 subsequent contraventions: $60 
 cl. 7.6A.3(c) | C | first contravention: $30 000 subsequent contraventions: $60 000
 cl. 7.6A.5(e) | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
 cl. 7.6A.6 | B | first contravention: $25 000 subsequent contraventions: $50 000
-cl. 7.7.9(b) | C | first contravention: $30 000 subsequent contraventions: $60 000
+cl. 7.7.6(b)(i) | C | first contravention: $50 000 subsequent contraventions: $100 000
+cl. 7.7.6A | C | first contravention: $30 000 subsequent contraventions: $60 000
 cl. 7.9.1 | C | first contravention: $30 000 subsequent contraventions: $60 000
 cl. 7.9.3 | C | first contravention: $30 000 subsequent contraventions: $60 000
 cl. 7.9.5 | C | first contravention: $45 000 subsequent contraventions: $90 000
@@ -81,11 +82,19 @@ cl. 7.9.9 | C | first contravention: $30 000 subsequent contraventions: $60 000
 cl. 7.9.10 | C | first contravention: $45 000 subsequent contraventions: $90 000
 cl. 7.9.12(a) | C | first contravention: $30 000 subsequent contraventions: $60 000
 cl. 7.10.1 | C | first contravention: $50 000 subsequent contraventions: $100 000
-cl. 7.10.3 | C | first contravention: $30 000 subsequent contraventions: $60 000
+cl. 7.10.3 | C | first contravention: $50 000 subsequent contraventions: $100 000
+cl. 7.10.3A | C | first contravention: $40 000 subsequent contraventions: $80 000
 cl. 7.10.6 | C | first contravention: $35 000 subsequent contraventions: $70 000
-cl. 7.10.6A | C | first contravention: $30 000 subsequent contraventions: $60 000
+cl. 7.10.6A(a) | C | first contravention: $30 000 subsequent contraventions: $60 000
 cl. 7.11.7 | C | first contravention: $40 000 subsequent contraventions: $80 000
 cl. 7.11.9 | C | first contravention: $30 000 subsequent contraventions: $60 000
+cl. 7A.2.8 | C | first contravention: $50 000 subsequent contraventions: $100 000
+cl. 7A.2.9 | C | first contravention: $50 000 subsequent contraventions: $100 000
+cl. 7A.2.13 | C | first contravention: $50 000 subsequent contraventions: $100 000
+cl. 7A.2.17 | C | first contravention: $50 000 subsequent contraventions: $100 000
+cl. 7B.2.10 | C | first contravention: $50 000 subsequent contraventions: $100 000
+cl. 7B.2.11 | C | first contravention: $50 000 subsequent contraventions: $100 000
+cl. 7B.2.15 | C | first contravention: $50 000 subsequent contraventions: $100 000
 cl. 8.1.3 | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
 cl. 8.3.1 | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
 cl. 8.3.3 | B | first contravention: $25 000 plus a daily amount of $5 000 subsequent contraventions: $50 000 plus a daily amount of $10 000
@@ -100,4 +109,4 @@ cl. 9.23.3 | B | first contravention: $25 000 plus a daily amount of $5 000 subs
 cl. 9.24.7 | C | first contravention: $40 000 plus a daily amount of $5 000 subsequent contraventions: $80 000 plus a daily amount of $10 000
 cl. 10.1.2 | B | first contravention: $25 000 subsequent contraventions: $50 000
 cl. 10.2.4 | B | first contravention: $25 000 subsequent contraventions: $50 000
-[Schedule 1 inserted in Gazette 16 Aug 2005 p. 3854-61; amended in Gazette 31 Mar 2006 p. 1321-2; 29 Dec 2006 p. 5881-3; 25 Nov 2011 p. 4871.]
+[Schedule 1 inserted in Gazette 5 Jun 2012 p. 2354-60.]
