@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 16 September 2011 of the Firearms Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Firearms Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Firearms Regulations 1974 | 29 Mar 1974 p. 1056-76 | 1 Jul 1974 (see r. 1 and Gazette 29 Mar 1974 p. 1027)
@@ -84,6 +84,7 @@ Firearms Amendment Regulations 2011 | 4 Feb 2011 p. 396-7 | r. 1 and 2: 4 Feb 20
 Firearms Amendment Regulations (No. 2) 2011 | 10 Jun 2011 p. 2106-8 | r. 1 and 2: 10 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Firearms Amendment Regulations (No. 3) 2011 | 5 Jul 2011 p. 2826-33 | r. 1 and 2: 5 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jul 2011 (see r. 2(b))
 Reprint 8: The Firearms Regulations 1974 as at 16 Sep 2011 (includes amendments listed above)
+Firearms Amendment Regulations 2012 | 15 Jun 2012 p. 2535-6 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 The Firearms Amendment Regulations 1996 r. 9(2) reads as follows:
 (2) The notation “PR” endorsed on a licence or permit before the commencement of this regulation is to be regarded as if it were the notation “HR”.
 Defined Terms
