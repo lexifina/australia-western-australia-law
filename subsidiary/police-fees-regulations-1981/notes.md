@@ -35,6 +35,7 @@ Police (Fees) Amendment Regulations 2009 | 26 May 2009 p. 1806-8 | r. 1 and 2: 2
 Police (Fees) Amendment Regulations 2010 | 18 Jun 2010 p. 2689-91 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Reprint 3: The Police (Fees) Regulations 1981 as at 1 Oct 2010 (includes amendments listed above)
 Police (Fees) Amendment Regulations 2011 | 10 Jun 2011 p. 2110-11 | r. 1 and 2: 10 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Police (Fees) Amendment Regulations 2012 | 15 Jun 2012 p. 2538-40 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
