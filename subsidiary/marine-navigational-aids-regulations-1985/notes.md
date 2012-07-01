@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 March 2012 of the Marine Navigational Aids Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Marine Navigational Aids Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Marine Navigational Aids Regulations 1985 | 28 Jun 1985 p. 2318 | 1 Jul 1985 (see r. 2 and Gazette 28 Jun 1985 p. 2292)
@@ -27,4 +27,5 @@ Marine Navigational Aids Amendment Regulations 2009 | 12 Jun 2009 p. 2127-8 | r.
 Marine Navigational Aids Amendment Regulations 2010 | 18 Jun 2010 p. 2683-4 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Marine Navigational Aids Amendment Regulations 2011 | 21 Jun 2011 p. 2244 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Reprint 4: The Marine Navigational Aids Regulations 1985 as at 2 Mar 2012 (includes amendments listed above)
+Marine Navigational Aids Amendment Regulations 2012 | 15 Jun 2012 p. 2522-3 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Formerly referred to the Ports and Harbours Regulations, the citation of which was changed to the Ports and Harbours Regulations 1966 by the Ports and Harbours Amendment Regulations 2005 r. 4 then to the Shipping and Pilotage (Ports and Harbours) Regulations 1966 by the Ports and Harbours Amendment Regulations 2010 r. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
