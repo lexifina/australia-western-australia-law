@@ -33,12 +33,13 @@ Compilation table
  | Sentencing (Consequential Provisions) Act 1995 Pt. 84 | 78 of 1995 | 16 Jan 1996 | 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
  | Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
  | Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
- | Reprint of the Workers’ Compensation and Rehabilitation Act 1981 as at 29 Jan 1999 (includes amendments listed above)
+ | Acts Amendment (ICWA) Act 1996 Sch. 1 it. 16 | 45 of 1996 (as amended by No. 42 of 2004 s. 155) | 25 Oct 1996 | 1 Jul 2012 (see s. 2 and Gazette 8 Jun 2012 p. 2385)
+ | Reprint of the Workers’ Compensation and Rehabilitation Act 1981 as at 29 Jan 1999 (includes amendments listed above except those in the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 16)
  | Workers’ Compensation and Rehabilitation Amendment Act (No. 2) 1999 | 33 of 1999 | 5 Oct 1999 | 5 Oct 1999 (see s. 2)
  | Workers’ Compensation and Rehabilitation Amendment Act 1999-35 | 34 of 1999 (as amended by No. 37 of 1999 s. 3) (as affected by No. 35 of 2004 Pt. 2) | 5 Oct 1999 | s. 5, 14, 15, 32, 48(a)(iv), 53(a), (c) and (d)(ii): 5 Oct 1999 (see s. 2(1)); balance: 15 Oct 1999 (see s. 2(2) and Gazette 15 Oct 1999 p. 4889 and Printers correction to proclamation in Gazette 19 Nov 1999 p. 5797)
  | Workers’ Compensation and Rehabilitation Amendment Act 2000 | 44 of 2000 | 17 Nov 2000 | Act other than s. 1, 2 and 4(2)(b): 5 Oct 1999 (see s. 2(1)); s. 1, 2 and 4(2)(b): 17 Nov 2000 (see s. 2(2))
  | Corporations (Consequential Amendments) Act 2001 Pt. 57 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
- | Reprint of the Workers’ Compensation and Rehabilitation Act 1981 as at 14 Sep 2001 (includes amendments listed above)
+ | Reprint of the Workers’ Compensation and Rehabilitation Act 1981 as at 14 Sep 2001 (includes amendments listed above except those in the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 16)
  | Acts Amendment (Equality of Status) Act 2003 Pt. 63 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
  | Racing and Gambling Legislation Amendment and Repeal Act 2003 Pt. 15 | 35 of 2003 | 26 Jun 2003 | 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259)
  | Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 72 and 96 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
@@ -50,17 +51,17 @@ Compilation table
  | Acts Amendment (Court of Appeal) Act 2004 s. 37 (Sch. 1 cl. 28) | 45 of 2004 (as amended by No. 16 of 2005 s. 31) | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
  | Courts Legislation Amendment and Repeal Act 2004 Pt. 19 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
  | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 and 80 (Sch. 2 cl. 156 and 157) | 84 of 2004 (as amended by No. 2 of 2008 s. 78(10)) | 16 Dec 2004 | s. 78 and 80 (Sch. 2 cl. 156 and 157 — the amendment to s. 188B(3)): 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
- | Reprint 6: The Workers’ Compensation and Injury Management Act 1981 as at 5 Aug 2005 (includes amendments listed above except those in the Workers’ Compensation and Rehabilitation Amendment (Cross Border) Act 2004 Pt. 3 and certain provisions of the Workers’ Compensation Reform Act 2004)
+ | Reprint 6: The Workers’ Compensation and Injury Management Act 1981 as at 5 Aug 2005 (includes amendments listed above except those in the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 16 and the Workers’ Compensation and Rehabilitation Amendment (Cross Border) Act 2004 Pt. 3 and certain provisions of the Workers’ Compensation Reform Act 2004)
  | Workers’ Compensation Legislation Amendment Act 2005 Pt. 3, 4 and s. 32 | 16 of 2005 | 27 Sep 2005 | s. 30(1) and (2): 1 Jul 2005 (see s. 2(2)); s. 30(3): 27 Sep 2005 (see s. 2(1)); Pt. 3 and s. 32: 14 Nov 2005 (see s. 2(3))
  | Limitation Legislation Amendment and Repeal Act 2005 Pt. 9 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
  | Chiropractors Act 2005 Sch. 3 cl. 8 | 31 of 2005 | 12 Dec 2005 | 1 Aug 2007 (see s. 2 and Gazette 31 Jul 2007 p. 3789)
- | Reprint 7: The Workers’ Compensation and Injury Management Act 1981 as at 3 Feb 2006 (includes amendments listed above except those in the Chiropractors Act 2005)
+ | Reprint 7: The Workers’ Compensation and Injury Management Act 1981 as at 3 Feb 2006 (includes amendments listed above except those in the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 16 and the Chiropractors Act 2005 Sch. 3 cl. 8)
  | Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 189 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
  | Criminal Law and Evidence Amendment Act 2008 s. 73 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
  | Duties Legislation Amendment Act 2008 Sch. 1 cl. 42 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
  | Legal Profession Act 2008 s. 713 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
  | Medical Practitioners Act 2008 Sch. 3 cl. 54 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
- | Reprint 8: The Workers’ Compensation and Injury Management Act 1981 as at 8 May 2009 (includes amendments listed above)
+ | Reprint 8: The Workers’ Compensation and Injury Management Act 1981 as at 8 May 2009 (includes amendments listed above except those in the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 16)
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 139 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
  | Acts Amendment (Bankruptcy) Act 2009 s. 94 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
  | Police Amendment Act 2009 s. 25 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
@@ -69,18 +70,17 @@ Standardisation of Formatting Act 2010 s. 4, 42(3) and 51 | 19 of 2010 | 28 Jun 
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 50 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Petroleum and Energy Legislation Amendment Act 2010 s. 186 | 42 of 2010 | 28 Oct 2010 | 25 May 2011 (see s. 2(b) and Gazette 24 May 2011 p. 1892)
-Reprint 9: The Workers’ Compensation and Injury Management Act 1981 as at 25 Feb 2011 (includes amendments listed above except those in the Petroleum and Energy Legislation Amendment Act 2010)
+Reprint 9: The Workers’ Compensation and Injury Management Act 1981 as at 25 Feb 2011 (includes amendments listed above except those in the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 16 and the Petroleum and Energy Legislation Amendment Act 2010)
 Workers’ Compensation and Injury Management Amendment Act 2011 | 31 of 2011 | 31 Aug 2011 | s. 1 and 2: 31 Aug 2011 (see s. 2(a)); s. 3 and Pt. 3 other than s. 123(2)-(7): 1 Oct 2011 (see s. 2(b) and Gazette 23 Sep 2011 p. 3811); Pt. 2 Div. 1 and 2: 1 Dec 2011 (see s. 2(b) and Gazette 8 Nov 2011 p. 4673)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 7 and 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
-Reprint 10: The Workers’ Compensation and Injury Management Act 1981 as at 3 Feb 2012 (includes amendments listed above)
+Reprint 10: The Workers’ Compensation and Injury Management Act 1981 as at 3 Feb 2012 (includes amendments listed above except those in the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 16)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (ICWA) Act 1996 Sch. 1 it. 16 | 45 of 1996 (as amended by No. 42 of 2004 s. 155) | 25 Oct 1996 | 1 Jul 2012 (see s. 2 and Gazette 8 Jun 2012 p. 2385)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) | 31 of 2011 | 31 Aug 2011 | To be proclaimed (see s. 2(b))
-The name of the State Government Insurance Commission was changed to the Insurance Commission of Western Australia by the Acts Amendment (ICWA) Act 1996 s. 8 (see also note 45).
-Under the Acts Amendment (ICWA) Act 1996 s. 31(2)(h), a reference to the State Government Insurance Corporation in a written law is, unless because of the context it would be inappropriate so to do, to be construed, or have effect, as if it had been amended to be a reference to the Insurance Commission of Western Australia (see also note 45).
+Footnote no longer applicable.
+Under the Acts Amendment (ICWA) Act 1996 s. 31(2)(h), a reference to the State Government Insurance Corporation in a written law is, unless because of the context it would be inappropriate so to do, to be construed, or have effect, as if it had been amended to be a reference to the Insurance Commission of Western Australia.
 Repealed by the Industrial Relations (Consequential Provisions) Act 1998 (Cwlth). Now see Fair Work Act 2009 (Cwlth).
 The Workers’ Compensation Act Amendment Act (No. 2) 1977 s. 3 became operative on 28 Nov 1977.
 The effect of this section was removed by the Western Australian Marine Act 1982 s. 135, subject to the savings provisions in section 135(4) of that Act.
@@ -407,14 +407,7 @@ The Workers’ Compensation Legislation Amendment Act 2005 s. 30(3) reads as fol
 (a) any compensation paid under the relevant clause before this Act received the Royal Assent is to be deducted; and
 (b) if an apportionment of compensation has been determined or agreed in relation to compensation under the relevant clause before this Act receives the Royal Assent, any compensation payable under the relevant clause after this Act receives the Royal Assent is to be apportioned in a like manner.
 The amendment in the Chiropractors Act 2005 s. 109 which sought to amend s. 176(1b)(d) is not included because s. 176 had been replaced by the Workers’ Compensation Reform Act 2004 s. 130 before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 16 (as amended by the Workers’ Compensation Reform Act 2004 s. 155(2)(a)) had not come into operation. It reads as follows:
-Schedule 1 — Consequential amendments to other Acts
-16.Workers’ Compensation and Rehabilitation Act 1981
-Section 5(1) | (a)After the definition of industrial disease premium, insert the following definition — “ Insurance Commission of Western Australia means the body continued under that name under the Insurance Commission of Western Australia Act 1986; ”.
- | (b)Delete the definitions of State Government Insurance Commission and State Government Insurance Corporation.
-Section 162(1) | Delete “State Government Insurance Commission”, substitute “Insurance Commission of Western Australia”.
-Section 163 | Delete “State Government Insurance Commission”, substitute “Insurance Commission of Western Australia”.
-[Item 16 amended by No. 42 of 2004 s. 155(2)(a).]
+The Acts Amendment (ICWA) Act 1996 Sch. 1 it.16 (the reference to a provision of section 95, 147 and 154 of the Workers’ Compensation and Rehabilitation Act 1981 and the amendment to that provision) is not included because the sections it sought to amend were deleted by the Workers’ Compensation Reform Act 2004 s. 155.
 On the date as at which this compilation was prepared, the Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) had not come into operation. They read as follows:
 123.Schedule 1 amended
 (2) In Schedule 1 clause 11(2) delete the definitions of:
@@ -551,6 +544,7 @@ injury5(1), 93AC(a), 180(1)
 injury management5(1)
 injury management system155
 inspector5(1)
+Insurance Commission of Western Australia5(1)
 Joint Petroleum Development AreaSch. 6 cl. 1
 Legal Costs Committee269(1)
 legal service261
@@ -626,8 +620,6 @@ specialist5(1)
 specified154A(2)
 spouse5(1)
 State5(1), 20(1)
-State Government Insurance Commission5(1)
-State Government Insurance Corporation5(1)
 statutory expenses182K(4)
 subsequent proceeding182ZM(1)
 substantial interruption19(3)
