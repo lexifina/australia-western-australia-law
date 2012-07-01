@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 November 2011 of the Metropolitan Water Authority (Miscellaneous) By-laws 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Metropolitan Water Authority (Miscellaneous) By-laws 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Metropolitan Water Authority (Rates and Charges) By-laws 1982 | 18 Jun 1982 p. 2025-9 | 1 Jul 1982 (see bl. 2)
@@ -43,6 +43,7 @@ Water Agencies Amendment By-laws 2009 Pt. 5 | 19 Jun 2009 p. 2393-406 | 1 Jul 20
 Water Agencies Amendment By-laws 2010 Pt. 5 | 25 Jun 2010 p. 2983-96 | 1 Jul 2010 (see bl. 2(b))
 Water Agencies Amendment By-laws 2011 Pt. 5 | 23 Jun 2011 p. 2403-16 | 1 Jul 2011 (see bl. 2(b))
 Reprint 4: The Metropolitan Water Authority (Miscellaneous) By-laws 1982 as at 11 Nov 2011 (includes amendments listed above)
+Water Agencies Amendment By-laws 2012 Pt. 5 | 20 Jun 2012 p. 2677-92 | 1 Jul 2012 (see bl. 2(b))
 These by-laws have effect for the purposes of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 Now known as the Metropolitan Water Authority (Miscellaneous) By-laws 1982; citation changed (see note under bl. 1).
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.

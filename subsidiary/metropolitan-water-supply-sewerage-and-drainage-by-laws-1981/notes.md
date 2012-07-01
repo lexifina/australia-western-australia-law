@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 February 2012 of the Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Citation | Gazettal | Commencement
  | Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 | 22 Jan 1981 p. 165-384 (corrigendum 30 Jan 1981 p. 488) | 1 Mar 1981 (see bl. 1.0)
@@ -80,6 +80,7 @@ Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2011 | 18 Mar
 Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws (No. 2) 2011 | 21 Apr 2011 p. 1473-83 | bl. 1 and 2: 21 Apr 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 22 Apr 2011 (see bl. 2(b))
 Water Agencies Amendment By-laws 2011 Pt. 6 | 23 Jun 2011 p. 2403-16 | 1 Jul 2011 (see bl. 2(b))
 Reprint 7: The Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 as at 3 Feb 2012 (includes amendments listed above)
+Water Agencies Amendment By-laws 2012 Pt. 6 | 20 Jun 2012 p. 2677-92 | 1 Jul 2012 (see bl. 2(b))
 These by-laws have effect for the purposes of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 See Bush Fires Act 1954.
 See Strata Titles Act 1985.

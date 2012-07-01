@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 March 2012 of the Country Areas Water Supply By-laws 1957 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Country Areas Water Supply By-laws 1957 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Citation | Gazettal | Commencement
  | Untitled by-laws | 20 Jun 1957 p. 1947-78 | 1 Jul 1957 (see bl. 1)
@@ -94,6 +94,7 @@ Water Agencies Amendment By-laws 2010 Pt. 3 | 25 Jun 2010 p. 2983-96 | 1 Jul 201
 Country Areas Water Supply Amendment By-laws 2011 | 21 Apr 2011 p. 1470-2 | bl. 1 and 2: 21 Apr 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 22 Apr 2011 (see bl. 2(b))
 Water Agencies Amendment By-laws 2011 Pt. 3 | 23 Jun 2011 p. 2403-16 | 1 Jul 2011 (see bl. 2(b))
 Reprint 5: The Country Areas Water Supply By-laws 1957 as at 9 Mar 2012 (includes amendments listed above)
+Water Agencies Amendment By-laws 2012 Pt. 3 | 20 Jun 2012 p. 2677-92 | 1 Jul 2012 (see bl. 2(b))
 These by-laws have effect for the purposes of the Country Areas Water Supply Act 1947 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 Repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988, which is now known as the Liquor Control Act 1988.
 Repealed by the Factories and Shops Act 1963, which was repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
@@ -125,4 +126,3 @@ public house1A(3)
 shared fire service99
 water supply plumbing work1A(1)
 working day1A(1)
-By Authority: JOHN A. STRIJK, Government Printer
