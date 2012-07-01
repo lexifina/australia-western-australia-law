@@ -37,6 +37,7 @@ Electricity (Licensing) Amendment Regulations (No. 2) 2011 | 17 May 2011 p. 1813
 Electricity (Licensing) Amendment Regulations (No. 3) 2011 | 22 Jun 2011 p. 2311-13 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Reprint 6: The Electricity (Licensing) Regulations 1991 as at 9 Mar 2012 (includes amendments listed above)
 Electricity (Licensing) Amendment Regulations 2012 | 13 Apr 2012 p. 1651-6 | r. 1 and 2: 13 Apr 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Apr 2012 (see r. 2(b))
+Electricity (Licensing) Amendment Regulations (No. 2) 2012 | 15 Jun 2012 p. 2611-13 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
 Repealed by the Training Legislation Amendment and Repeal Act 2008 s. 50.
