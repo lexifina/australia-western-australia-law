@@ -1,44 +1,41 @@
 ## Schedule 1 — Blood donor declaration
 [r. 6]
-[Heading inserted in Gazette 22 Jun 2010 p. 2769.]
-There are some people in the community who MUST NOT give blood as it may transmit infections to people who receive it. So before you give blood we need you to answer some questions to ensure that it will be safe for people to be given your blood or blood products. The following questions are a vital part of our effort to eliminate these diseases from the blood supply.
-Even though there are a lot of questions they are all important and you need to answer every question on the form honestly and to the best of your ability. Answering these questions honestly is important because THERE ARE PENALTIES INCLUDING FINES AND/OR IMPRISONMENT FOR GIVING FALSE OR MISLEADING ANSWERS TO ANY OF THE QUESTIONS.
-All donations of blood are tested for the presence of Hepatitis B and C, HIV 1 and 2 (AIDS virus), syphilis and HTLV I and II. Should your blood test be positive for any of these diseases or show a significantly abnormal result you will be notified.
-DECLARATION
-Thank you for answering the following questions.
-If you are uncertain about how you should answer any of the questions please discuss your concerns with the interviewer.
-You will be asked to sign this declaration in the presence of the interviewer once you have answered all the questions.
+[Heading inserted in Gazette 22 May 2012 p. 2164.]
+There are some people who MUST NOT give blood as it may transmit infections to those people who receive it. To determine if your blood or blood products will be safe to be given to people in need, we would like you to answer some questions. These questions are a vital part of our efforts to eliminate diseases from the blood supply.
+All of the questions are important to answer. Answer each question on the form as honestly as you can and to the best of your knowledge. THERE ARE PENALTIES INCLUDING FINES AND IMPRISONMENT FOR ANYONE PROVIDING FALSE OR MISLEADING INFORMATION.
+All donations of blood are tested for the presence of hepatitis B and C, HIV (the AIDS virus), HTLV and syphilis. If your blood test proves positive for any of these conditions, or for any reason the test shows a significantly abnormal result, you will be informed.
 Please respond by placing a cross or a tick in the relevant box. Do not circle.
-To the best of your knowledge have you:
-1.In the last 12 months had an illness with swollen glands and a rash, with or without a fever? | ⁯ Yes⁯ No
-2.Ever thought you could be infected with HIV or have AIDS? | ⁯ Yes⁯ No
-3.Ever “used drugs” by injection or been injected, even once, with drugs not prescribed by your doctor or dentist? | ⁯ Yes⁯ No
-4.Ever had treatment with clotting factors such as Factor VIII or Factor IX? | ⁯ Yes⁯ No
-5.Ever had a test which showed you had Hepatitis B, Hepatitis C, HIV or HTLV? | ⁯ Yes⁯ No
-6.In the last 12 months have you engaged in sexual activity with someone you might think would answer “yes” to any of questions 1-5? | ⁯ Yes⁯ No
-7.Since your last donation or in the last 12 months have you had sexual activity with a new partner who currently lives or who has previously lived overseas? | ⁯ Yes⁯ No
-Within the last 6 months have you:
-8.Had a tattoo (including cosmetic tattooing), body and/or ear piercing, electrolysis or acupuncture? | ⁯ Yes⁯ No
-Within the last 12 months have you:
-9.Had male to male sex (that is, oral or anal sex) with or without a condom? | ⁯ Yes⁯ No
-10.Had sex (with or without a condom) with a man who you think may have had oral or anal sex with another man? | ⁯ Yes⁯ No
-11.Been a male or female sex worker (e.g. received payment for sex in money, gifts or drugs)? | ⁯ Yes⁯ No
-12.Engaged in sexual activity with a male or female sex worker? | ⁯ Yes⁯ No
-13.Been injured with a used needle (needlestick)? | ⁯ Yes⁯ No
-14.Had a blood/body fluid splash to eyes, mouth, nose or to broken skin? | ⁯ Yes⁯ No
-15.Been imprisoned in a prison or lock-up? | ⁯ Yes⁯ No
-16.Had a blood transfusion? | ⁯ Yes⁯ No
-17.Had (yellow) jaundice or hepatitis or been in contact with someone who has? | ⁯ Yes⁯ No
-In making this declaration I understand that —
-•as scientific knowledge advances, I may be asked to undergo further blood tests; and
-•my donation is a gift, which may be used for therapeutic purposes and in some instances for the manufacture of diagnostic agents and research; and
-•there are penalties, including fines and imprisonment, for providing false or misleading information.
-I have also been advised by the interviewer that —
-•there are some possible risks associated with donating blood; and
-•I must follow the instructions of the staff to minimise those risks.
-I hereby declare that I have answered the above questions honestly and to the best of my knowledge.
-Donor’s signature: ______________________ | Witness’ signature: ________________
-Print full name: _________________________ | Print full name: ___________________
-Donation number: _______________________ | Category of authorisation: _____________
- | Date and time of declaration: _______________
-[Schedule 1 inserted in Gazette 22 Jun 2010 p. 2769-71.]
+To the best of your knowledge, have you ever:
+1.Thought you could be infected with HIV or have AIDS? | ⁯ Yes⁯ No
+2.“Used drugs” by injection or been injected, even once, with drugs not prescribed by a doctor or dentist? | ⁯ Yes⁯ No
+3.Had treatment with clotting factors such as Factor VIII or Factor IX? | ⁯ Yes⁯ No
+4.Had a test which showed you had hepatitis B, hepatitis C, HIV or HTLV? | ⁯ Yes⁯ No
+In the last 12 months have you:
+5.Had an illness with swollen glands and a rash, with or without a fever? | ⁯ Yes⁯ No
+6.Engaged in sexual activity with someone you might think would answer “yes” to any of questions 1-5? | ⁯ Yes⁯ No
+7.Had sexual activity with a new partner who currently lives or who has previously lived overseas? | ⁯ Yes⁯ No
+8.Had sex (with or without a condom) with a man who you think may have had oral or anal sex with another man? | ⁯ Yes⁯ No
+9.Had male to male sex (that is, oral or anal sex) with or without a condom? (Females please tick “I am female”) | ⁯ Yes⁯ No I am female ⁯
+10.Been a male or female sex worker (e.g. received payment for sex in money, gifts or drugs)? | ⁯ Yes⁯ No
+11.Engaged in sexual activity with a male or female sex worker? | ⁯ Yes⁯ No
+12.Been imprisoned in a prison or been held in a lock-up or detention centre? | ⁯ Yes⁯ No
+13.Had a blood transfusion? | ⁯ Yes⁯ No
+14.Had (yellow) jaundice or hepatitis or been in contact with someone who has? | ⁯ Yes⁯ No
+In the last 6 months have you:
+15.Been injured with a used needle (needlestick)? | ⁯ Yes⁯ No
+16.Had a blood/body fluid splash to eyes, mouth, nose or to broken skin? | ⁯ Yes⁯ No
+17.Had a tattoo (including cosmetic tattooing), body and/or ear piercing, electrolysis or acupuncture (including dry-needling)? | ⁯ Yes⁯ No
+Thank you for answering these questions. If you are uncertain about any of your answers, please discuss them with your interviewer.
+We would like you to sign this declaration in the presence of your interviewer to show that you have understood the information on this form and have answered the questions in the declaration to the best of your knowledge.
+Your donation is a gift to be used to treat patients. In some circumstances, your donation may be used for the purposes of research, teaching, quality assurance or the making of essential diagnostic reagents (including commercial reagents). A part of your donation will also be stored for possible future testing and research; samples that are no longer required will be destroyed. Approval from an appropriate Human Research Ethics Committee is required before any research is undertaken on your donation or any part of it.
+You may be asked to undergo further testing, which you have the option to decline.
+Should you become aware of any reason why your blood should not be used for transfusion after your donation, please call us. In particular, if you develop a cough, cold, diarrhoea or other infection within a week after donating, please report it immediately.
+I agree to have blood taken from me under the conditions above and — •I have been provided with “Information about the risk of donating blood”. I have read and understood this information and have had the opportunity to ask questions. I accept the risks associated with donation and agree to follow the instructions of the staff to minimise these risks. •I declare that I have understood the information on this form and answered the questions in the declaration honestly and to the best of my knowledge. I understand that there are penalties, including fines and imprisonment, for providing false or misleading information.
+Donor | Witness
+Surname/ Family name: | Surname/ Family name:
+Given name: | Given name:
+Date of birth: | Signature:
+Signature: | Date:
+Date: | Time:
+ | Donation number:
+[Schedule 1 inserted in Gazette 22 May 2012 p. 2164-6.]
