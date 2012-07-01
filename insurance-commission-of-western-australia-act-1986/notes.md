@@ -9,26 +9,26 @@ SGIO Privatisation Act 1992 s. 28 | 49 of 1992 | 9 Dec 1992 | 7 Jan 1993 (see s.
 Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
 Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
 Statutory Corporations (Liability of Directors) Act 1996 s. 3 | 41 of 1996 | 10 Oct 1996 | 1 Dec 1996 (see s. 2 and Gazette 12 Nov 1996 p. 6301)
-Acts Amendment (ICWA) Act 1996 s. 3-5, 6(b), 7-12, 15-19, 23, 26, 29-37 | 45 of 1996 | 25 Oct 1996 | s. 3, 6(b) (to the extent it inserts definition of Commission Account), 6(c), 9-12, 15-19, 23 and 26: 14 Dec 1996 (see s. 2 and Gazette 13 Dec 1996 p. 6901); s. 4, 5, 6(b) (to the extent it inserts the definition of Commission), 7, 8 and 29-37: 1 Oct 1997 (see s. 2 and Gazette 23 Sep 1997 p. 5357)
+Acts Amendment (ICWA) Act 1996 Pt. 2 (other than s. 25 and 28) | 45 of 1996 | 25 Oct 1996 | s. 3, 6(b) (to the extent it inserts definition of Commission Account), 6(c), 9-12, 15-19, 23 and 26: 14 Dec 1996 (see s. 2 and Gazette 13 Dec 1996 p. 6901); s. 4, 5, 6(b) (to the extent it inserts the definition of Commission), 7, 8 and 29-37: 1 Oct 1997 (see s. 2 and Gazette 23 Sep 1997 p. 5357); s. 6(a), 13, 14, 20-22, 24 and 27: 1 Jul 2012 (see s. 2 and Gazette 8 Jun 2012 p. 2385)
 Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
 State Enterprises (Commonwealth Tax Equivalents) Act 1996 s. 10(1) | 55 of 1996 | 11 Nov 1996 | 1 Jul 1996 (see s. 2 and 3(3))
-Reprint of the Insurance Commission of Western Australia Act 1986 as at 12 Nov 1999 (includes amendments listed above)
+Reprint of the Insurance Commission of Western Australia Act 1986 as at 12 Nov 1999 (includes amendments listed above except those in the Acts Amendment (ICWA) Act 1996 s. 6(a), 13, 14, 20-22, 24 and 27)
 Insurance Commission of Western Australia Amendment Act 2002 | 34 of 2002 | 20 Nov 2002 | 20 Nov 2002 (see s. 2)
 Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 17 Div. 5 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Reprint 2: The Insurance Commission of Western Australia Act 1986 as at 8 Sep 2006 (includes amendments listed above)
+Reprint 2: The Insurance Commission of Western Australia Act 1986 as at 8 Sep 2006 (includes amendments listed above except those in the Acts Amendment (ICWA) Act 1996 s. 6(a), 13, 14, 20-22, 24 and 27)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 91 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Duties Legislation Amendment Act 2008 Sch. 1 cl. 18 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 79 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 47 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-Reprint 3: The Insurance Commission of Western Australia Act 1986 as at 1 Oct 2010 (includes amendments listed above)
+Reprint 3: The Insurance Commission of Western Australia Act 1986 as at 1 Oct 2010 (includes amendments listed above except those in the Acts Amendment (ICWA) Act 1996 s. 6(a), 13, 14, 20-22, 24 and 27)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 6 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Acts Amendment (ICWA) Act 1996 s. 6(a), 13, 14, 20-22, 24, 25, 27 and 28 | 45 of 1996 | 25 Oct 1996 | s. 6(a), 13, 14, 20-22, 24 and 27: 1 Jul 2012 (see s. 2 and Gazette 8 Jun 2012 p. 2385) s. 25 and 28: to be proclaimed (see s. 2)
+Acts Amendment (ICWA) Act 1996 s. 25 and 28 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 50 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 s. 5. Now the Life Insurance Act 1995 of the Commonwealth.
 Repealed by the Insurance Commission of Western Australia Act 1986 s. 46(1).
@@ -49,36 +49,9 @@ The Acts Amendment (ICWA) Act 1996 Pt. 3 contained transitional and savings prov
 The Insurance Commission of Western Australia Amendment Act 2002 s. 10 reads as follows:
 10.Transition and savings
 The functions conferred on the Insurance Commission of Western Australia by section 6(ca) and (e) of the Insurance Commission of Western Australia Act 1986 as amended by this Act are taken always to have been functions of the Commission.
-On the date as at which this compilation was prepared, the Acts Amendment (ICWA) Act 1996 s. 6(a), 13, 14, 20-22, 24, 25, 27 and 28 had not come into operation. They read as follows:
-6.Section 3 amended
-(a) by deleting the definitions of board of directors, Corporation, debt paper and director of the Corporation;
-13.Section 12 amended
-(1) Section 12(1) of the principal Act is amended by deleting “and the Corporation to carry out their respective functions” and substituting the following —
-“ to carry out its functions ”.
-(2) Section 12(4) of the principal Act is amended by deleting “it considers necessary to enable the Commission and the Corporation to carry out their respective functions” and substituting the following —
-“
-the board considers necessary to enable the Commission to carry out its functions
-”.
-14.Section 15 amended
-Section 15(2)(d) of the principal Act is deleted.
-20.Part III repealed
-Part III of the principal Act is repealed.
-21.Section 42 amended
-Section 42(2) of the principal Act is repealed and the following subsection is substituted —
-“
-(2) This section applies to every person who is or has been a commissioner or alternate commissioner, is or has been an officer or employee of the Commission, or is rendering, or has rendered services to the Commission under section 12, 13 or 13A.
-”.
-22.Section 43 amended
-Section 43(9) of the principal Act is repealed.
-24.Section 45 amended
-Section 45(2) of the principal Act is repealed and the following subsection is substituted —
-“
-(2) Without limiting subsection (1), regulations may provide for the use of the common seal of the Commission in Western Australia and elsewhere.
-”.
+On the date as at which this compilation was prepared, the Acts Amendment (ICWA) Act 1996 s. 25 and 28 had not come into operation. They read as follows:
 25.Sections 47 and 48 repealed
 Sections 47 and 48 of the principal Act are repealed.
-27.Schedule 2 repealed
-Schedule 2 to the principal Act is repealed.
 28.Schedule 4 repealed
 Schedule 4 to the principal Act is repealed.
 On the date on which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 50 had not come into operation. It reads as follows:
