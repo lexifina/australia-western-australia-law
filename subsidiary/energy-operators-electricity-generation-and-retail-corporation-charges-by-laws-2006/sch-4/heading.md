@@ -14,6 +14,6 @@ Description of fee | Amount
 7.Disconnection of overhead service leads following unauthorised reconnection .......................................... | $194.00
 8.Meter reading where reading requested by consumer.. | $19.60
 9.Supply of electricity to standard railway crossing lights (per day) ............................................................ | 61.3044 cents
-10.Overdue account notices ............................................ | $4.65
+10.Overdue account notices ............................................ | $4.75
 11.Tariff R1 or R3 “time-of-use meter” installation fee .. | $809.60
-[Schedule 4 amended in Gazette 26 Jun 2007 p. 3017; 30 Mar 2009 p. 982 and 994; 26 Mar 2010 p. 1138 and 1141-2; 24 Jun 2011 p. 2502.]
+[Schedule 4 amended in Gazette 26 Jun 2007 p. 3017; 30 Mar 2009 p. 982 and 994; 26 Mar 2010 p. 1138 and 1141-2; 24 Jun 2011 p. 2502; 29 Jun 2012 p. 2926.]
