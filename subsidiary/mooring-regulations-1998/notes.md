@@ -19,6 +19,7 @@ Mooring Amendment Regulations 2009 | 12 Jun 2009 p. 2119 | r. 1 and 2: 12 Jun 20
 Mooring Amendment Regulations 2010 | 4 Jun 2010 p. 2473 | r. 1 and 2: 4 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Mooring Amendment Regulations 2011 | 21 Jun 2011 p. 2229-30 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Mooring Amendment Regulations 2012 | 14 Feb 2012 p. 668-9 | r. 1 and 2: 14 Feb 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Feb 2012 (see r. 2(b))
+Mooring Amendment Regulations (No. 2) 2012 | 15 Jun 2012 p. 2524 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Defined Terms
