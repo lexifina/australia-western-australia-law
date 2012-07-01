@@ -28,6 +28,7 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 29 assented to 21 Ma
 Pawnbrokers and Second-hand Dealers Amendment Regulations 2009 | 26 May 2009 p. 1808-10 | r. 1 and 2: 26 May 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Pawnbrokers and Second-hand Dealers Amendment Regulations 2010 | 18 Jun 2010 p. 2693-4 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Pawnbrokers and Second-hand Dealers Amendment Regulations 2011 | 10 Jun 2011 p. 2108-10 | r. 1 and 2: 10 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Pawnbrokers and Second-hand Dealers Amendment Regulations 2012 | 15 Jun 2012 p. 2536-8 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
 Repealed by the Financial Sector (Collection of Data — Consequential and Transitional Provisions) Act 2001 of the Commonwealth.
 Formerly referred to the Liquor Licensing Regulations 1989 the citation of which was changed to the Liquor Control Regulations 1989 by the Liquor Licensing Amendment Regulations 2007 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
