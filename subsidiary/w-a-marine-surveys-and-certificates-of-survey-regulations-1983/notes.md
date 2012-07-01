@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 March 2012 of the W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Citation | Gazettal | Commencement
  | W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 | 1 Jul 1983 p. 2195-208 | 1 Jul 1983 (see r. 2)
@@ -45,6 +45,7 @@ W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2010 | 18
 W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2011 | 20 May 2011 p. 1853 | r. 1 and 2: 20 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 21 May 2011 (see r. 2(b))
 W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations (No. 2) 2011 | 21 Jun 2011 p. 2233-9 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Reprint 5: The W.A. Marine (Surveys and Certificates of Survey) Regulations 1983 as at 2 Mar 2012 (includes amendments listed above)
+W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2012 | 29 Jun 2012 p. 2954-60 | r. 1 and 2: 29 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 The W.A. Marine (Surveys and Certificates of Survey) Amendment Regulations 2002 r. 4 reads as follows:
 4.Saving
