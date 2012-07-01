@@ -21,25 +21,10 @@ Perth Parking Management Amendment Regulations 2010 | 1 Apr 2010 p. 1280 | r. 1 
 Perth Parking Management Amendment Regulations 2011 | 8 Apr 2011 p. 1291-2 | r. 1 and 2: 8 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Perth Parking Management Amendment Regulations (No. 2) 2011 | 29 Apr 2011 p. 1535-6 | r. 1 and 2: 29 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Apr 2011 (see r. 2(b))
 Reprint 3: The Perth Parking Management Regulations 1999 as at 6 Jan 2012 (includes amendments listed above)
-Perth Parking Management Amendment Regulations 2012 r. 1 and 2 | 1 Jun 2012 p. 2287 | 1 Jun 2012 (see r. 2(a))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Perth Parking Management Amendment Regulations 2012 r. 3 and 4 | 1 Jun 2012 p. 2287 | 1 Jul 2012 (see r. 2(b))
+Perth Parking Management Amendment Regulations 2012 | 1 Jun 2012 p. 2287 | r. 1 and 2: 1 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Deleted by the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 51.
 Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
-On the date as at which this compilation was prepared, the Perth Parking Management Amendment Regulations 2012 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Perth Parking Management Regulations 1999.
-4.Schedule 2 amended
-In Schedule 2 amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 2 it. 11(ii) | 616.30 | 633.60
-Sch. 2 it. 11(iii) | 584.30 | 600.70
-Sch. 2 it. 11(iv) | 584.30 | 600.70
-Sch. 2 it. 11(v) | 616.30 | 633.60
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
