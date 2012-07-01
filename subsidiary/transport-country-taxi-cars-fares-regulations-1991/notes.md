@@ -35,6 +35,8 @@ Reprint 2: The Country Taxi-cars (Fares and Charges) Regulations 1991 as at 6 Fe
 Country Taxi-cars (Fares and Charges) Amendment Regulations 2010 | 9 Feb 2010 p. 272-81 | r. 1 and 2: 9 Feb 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Feb 2010 (see r. 2(b))
 Country Taxi-cars (Fares and Charges) Amendment Regulations 2011 | 11 Feb 2011 p. 508-15 | r. 1 and 2: 11 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Feb 2011 (see r. 2(b))
 Country Taxi-cars (Fares and Charges) Amendment Regulations (No. 2) 2011 | 30 Nov 2011 p. 4973-7 | r. 1 and 2: 30 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2011 (see r. 2(b))
+Country Taxi-cars (Fares and Charges) Amendment Regulations 2012 | 22 Jun 2012 p. 2798-9 | r. 1 and 2: 22 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+Country Taxi-cars (Fares and Charges) Amendment Regulations (No. 2) 2012 | 29 Jun 2012 p. 2962-3 | r. 1 and 2: 29 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
 If immediately before commencement of the Courts Legislation Amendment and Repeal Act 2004 Pt. 2 Div. 2, a person held office under the Local Courts Act 1904 s. 13 as a clerk, then on commencement the person is taken under the Courts Legislation Amendment and Repeal Act 2004 s. 6(1) to have been appointed as a registrar of the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
@@ -44,3 +46,4 @@ Defined TermProvision(s)
 a 30 km radius3(4)
 business entity2A
 call out2A
+designated radius3

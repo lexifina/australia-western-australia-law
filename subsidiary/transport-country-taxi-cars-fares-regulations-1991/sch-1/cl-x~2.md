@@ -10,9 +10,9 @@ These major towns and cities are specified for the purposes of regulation 3(1) a
 ·York — (Shire of York)
 Metered rates
  | Flagfall | Distance rate | Detention
-Tariff 1 Monday to Friday 6 a.m. to 6 p.m. | $3.90 | $1.63/km | $45.70/hour
-Tariff 2 Monday to Friday 6 p.m. to 6 a.m. Friday 6 p.m. to Monday 6 a.m. All day Public Holidays | $5.70 | $1.63/km | $45.70/hour
-Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $5.70 | $2.36/km | $70.80/hour
+Tariff 1 Monday to Friday 6 a.m. to 6 p.m. | $3.90 | $1.70/km | $45.70/hour
+Tariff 2 Monday to Friday 6 p.m. to 6 a.m. Friday 6 p.m. to Monday 6 a.m. All day Public Holidays | $5.70 | $1.70/km | $45.70/hour
+Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $5.70 | $2.43/km | $70.80/hour
 Off meter rates
  | Distance rate (during hiring and for forward or return journey)
 When carrying fewer than 5 passengers | $1.06/km
@@ -24,6 +24,6 @@ Surcharges
 Ultra-Peak — Between midnight Friday to 5 a.m. Saturday or midnight Saturday to 5 a.m. Sunday | $2.00
 Christmas Day — midnight to midnight | $4.75
 New Year’s Eve — 6 p.m. New Year’s Eve to 6 a.m. New Year’s Day | $5.35
-[Division 1 inserted in Gazette 9 Feb 2010 p. 272-4; amended in Gazette 11 Feb 2011 p. 508-9; 30 Nov 2011 p. 4974.]
+[Division 1 inserted in Gazette 9 Feb 2010 p. 272-4; amended in Gazette 11 Feb 2011 p. 508-9; 30 Nov 2011 p. 4974; 22 Jun 2012 p. 2799.]
 ## Division 2 — Kalbarri region
 [Heading inserted in Gazette 9 Feb 2010 p. 274.]
