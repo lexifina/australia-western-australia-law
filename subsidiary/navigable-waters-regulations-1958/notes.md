@@ -132,6 +132,7 @@ Navigable Waters Amendment Regulations (No. 4) 2010 | 27 Aug 2010 p. 4114-15 | r
 Navigable Waters Amendment Regulations 2011 | 21 Jun 2011 p. 2240-2 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Navigable Waters Amendment Regulations (No. 3) 2011 | 4 Nov 2011 p. 4634 | r. 1 and 2: 4 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2011 (see r. 2(b))
 Navigable Waters Amendment Regulations (No. 2) 2011 | 25 Nov 2011 p. 4873-4 | r. 1 and 2: 25 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Nov 2011 (see r. 2(b))
+Navigable Waters Amendment Regulations 2012 | 15 Jun 2012 p. 2525-6 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Repealed by the Dangerous Goods Safety Act 2004.
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
