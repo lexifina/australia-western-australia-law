@@ -23,35 +23,14 @@ Medical Practitioners Act 2008 Sch. 3 cl. 8 | 22 of 2008 | 27 May 2008 | 1 Dec 2
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 3 | 25 of 2008 | 19 Jun 2008 | 27 Jun 2009 (see s. 2 and Gazette 26 Jun 2009 p. 2565)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 33 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 3: The Civil Liability Act 2002 as at 20 Aug 2010 (includes amendments listed above)
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 9 | 35 of 2010 | 30 Aug 2010 | s. 40, 41(1) and 42: 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 9 | 35 of 2010 | 30 Aug 2010 | s. 40, 41(1) and 42: 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6); s. 41(2): 1 Jul 2012 (see s. 2(b) and Gazette 19 Jun 2012 p. 2631)
 Acts Amendment (Fair Trading) Act 2010 s. 193 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Health Practitioner Regulation National Law (WA) Act 2010 s. 41(2) | 35 of 2010 | 30 Aug 2010 | To be proclaimed (see s. 2(b))
 Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 Pt. 2 | 1 of 2011 | 1 Mar 2011 | To be proclaimed (see s. 2(b))
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 3 | 11 of 2012 | 20 Jun 2012 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Health Practitioner Regulation National Law (WA) Act 2010 s. 41(2) had not come into operation. It reads as follows:
-41.Section 5PA amended
-(2) In section 5PA delete the definition of health professional and insert:
-health professional means —
-(a)a person registered under the Health Practitioner Regulation National Law (Western Australia) in any of the following health professions —
-(i)Aboriginal and Torres Strait Islander health practice;
-(ii)Chinese medicine;
-(iii)chiropractic;
-(iv)dental;
-(v)medical;
-(vi)medical radiation practice;
-(vii)nursing and midwifery;
-(viii)occupational therapy;
-(ix)optometry;
-(x)osteopathy;
-(xi)pharmacy;
-(xii)physiotherapy;
-(xiii)podiatry;
-(xiv)psychology;
-or
-(b)any other person who practises a discipline or profession in the health area that involves the application of a body of learning.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 Pt. 2 had not come into operation. It reads as follows:
 Part 2 — Civil Liability Act 2002 amended
 3.Act amended
