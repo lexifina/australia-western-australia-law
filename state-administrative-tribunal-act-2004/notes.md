@@ -32,10 +32,16 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
+Teacher Registration Act 2012 s. 170 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 On the date as at which this compilation was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 had not come into operation. It reads as follows:
 82.State Administrative Tribunal Act 2004 amended
 (1) This section amends the State Administrative Tribunal Act 2004.
 (2) In Schedule 1 delete “Finance Brokers Control Act 1975”.
+On the date as at which this compilation was prepared, the Teacher Registration Act 2012 s. 170 had not come into operation. It reads as follows:
+170.State Administrative Tribunal Act 2004 amended
+(1) This section amends the State Administrative Tribunal Act 2004.
+(2) In Schedule 1 insert in alphabetical order:
+Teacher Registration Act 2012
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
