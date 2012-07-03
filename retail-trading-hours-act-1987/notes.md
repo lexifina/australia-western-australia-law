@@ -23,10 +23,12 @@ Retail Trading Hours Amendment Act 2010 | 38 of 2010 | 1 Oct 2010 | s. 1 and 2: 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 3: The Retail Trading Hours Act 1987 as at 4 Feb 2011 (includes amendments listed above)
 Retail Trading Hours Amendment Act 2011 | 40 of 2011 | 4 Oct 2011 | s. 1 and 2: 4 Oct 2011 (see s. 2(a)); Act other than s. 1 and 2: 5 Oct 2011 (see s. 2(b))
+Retail Trading Hours Amendment Act 2012 s. 1 and 2 | 13 of 2012 | 3 Jul 2012 | 3 Jul 2012 (see s. 2(a))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 45 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Retail Trading Hours Amendment Act 2012 s. 3-6 | 13 of 2012 | 3 Jul 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
 The Retail Shops and Fair Trading Legislation Amendment Act 2006 s. 18 reads as follows:
 18.Validation
@@ -41,6 +43,38 @@ This Division amends the Retail Trading Hours Act 1987.
 169.Section 3 amended
 In section 3(1) in the definition of motor vehicle delete “Road Traffic Act 1974 section 5(1);” and insert:
 Road Traffic (Administration) Act 2008 section 4;
+On the date as at which this compilation was prepared, the Retail Trading Hours Amendment Act 2012 s. 3-6 had not come into operation. They read as follows:
+3.Act amended
+This Act, other than section 7, amends the Retail Trading Hours Act 1987.
+4.Section 12 amended
+(1) Delete section 12(3)(c) and insert:
+(c) on Sunday in each week, until 11 a.m. and from and after 5 p.m.; and
+(2) In section 12(4):
+(a) in paragraph (a) delete “special trading precinct or”;
+(b) delete paragraph (b).
+5.Section 12A amended
+(1) In section 12A(1) and (2) delete “special trading precinct or” (each occurrence).
+(2) Delete section 12A(3).
+(3) In section 12A(4) delete the definitions of:
+Armadale special trading precinct
+Fremantle special trading precinct
+Joondalup special trading precinct
+Midland special trading precinct
+Perth special trading precinct
+special trading precinct
+(4) Delete section 12A(5).
+Note:The heading to amended section 12A is to read:
+Trading hours for general retail shops in holiday resorts
+6.Section 12E amended
+(1) Delete section 12E(2) and insert:
+(2) Without limiting the effect of subsection (3A), but despite any other provision of this section, an order can vary the trading hours of general retail shops in the metropolitan area only in relation to a day that is —
+(a) within the period of 28 days ending on 1 January; or
+(b) a public holiday or public half-holiday outside that period.
+(3A) An order cannot authorise general retail shops in the metropolitan area to be open on Anzac Day (25 April), Christmas Day (25 December) or Good Friday.
+(2) In section 12E(3) delete “Subject to subsection (2), an” and insert:
+An
+(3) In section 12E(8) insert in alphabetical order:
+order means an order made under subsection (1);
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
