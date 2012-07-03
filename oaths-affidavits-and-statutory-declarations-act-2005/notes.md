@@ -11,12 +11,21 @@ Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (s
 Reprint 1: The Oaths, Affidavits and Statutory Declarations Act 2005 as at 9 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 38 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Oaths, Affidavits and Statutory Declarations (Act Amendment) Regulations 2011 r. 4 published in Gazette 9 Dec 2011 p. 5235 | 10 Dec 2011 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Teacher Registration Act 2012 s. 165 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Repealed by the Chiropractors Act 2005 s. 106.
 Repealed by the Nurses and Midwives Act 2006 s. 111.
 Repealed by the Optometrists Act 2005 s. 106.
 Repealed by the Physiotherapists Act 2005 s. 106.
 Repealed by the Podiatrists Act 2005 s. 106.
 Repealed by the Psychologists Act 2005 s. 105.
+On the date as at which this compilation was prepared, the Teacher Registration Act 2012 s. 165 had not come into operation. It reads as follows:
+165.Oaths, Affidavits and Statutory Declarations Act 2005 amended
+(1) This section amends the Oaths, Affidavits and Statutory Declarations Act 2005.
+(2) In Schedule 2 delete item 42 and insert:
+42.A person registered under the Teacher Registration Act 2012. | Registered teacher
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
