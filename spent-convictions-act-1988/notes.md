@@ -52,6 +52,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Misuse of Drugs Amendment Act 2011 Pt. 4 | 56 of 2011 | 21 Nov 2011 | To be proclaimed (see s. 2(b))
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 8 | 11 of 2012 | 20 Jun 2012 | To be proclaimed (see s. 2(c))
+Teacher Registration Act 2012 s. 169 | 16 of 2012 | 3 Jul 2012 | To be proclaimed (see s. 2(b))
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
@@ -76,6 +77,17 @@ This Division amends the Spent Convictions Act 1988.
 In Schedule 3 clause 1(5) in the Table delete item 5 and insert:
 5.A person who holds, or is applying for, a licence to provide a child care service under the Child Care Services Act 2007. | Sections 18, 20 and 22 and Division 4
 6A.A person who holds, or is applying for — (a)a provider approval or, if that person is not an individual, each person who is, or will be, a person with management or control of an education and care service operated by the person, or to be operated by the applicant; or (b)a supervisor certificate, under the Education and Care Services National Law (Western Australia). | Sections 18, 20 and 22 and Division 4
+On the date as at which this compilation was prepared, the Teacher Registration Act 2012 s. 169 had not come into operation. It reads as follows:
+169.Spent Convictions Act 1988 amended
+(1) This section amends the Spent Convictions Act 1988.
+(2) In Schedule 3 clause 1(3) in the Table —
+(a) in item 14 delete “section 7 of the Western Australian College of Teaching Act 2004.” and insert:
+the Teacher Registration Act 2012 section 86.
+(b) delete item 15;
+(c) delete item 16 and insert:
+16.A person who is registered, or who has applied for registration, under the Teacher Registration Act 2012.
+(3) In Schedule 3 delete clause 1(4)(d) and insert:
+(d) who has registered or is considering registering the person.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
