@@ -23,6 +23,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 6 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 2 | 11 of 2012 | 20 Jun 2012 | To be proclaimed (see s. 2(c))
+Teacher Registration Act 2012 s. 163 | 16 of 2012 | 3 Jul 2012 | To be proclaimed (see s. 2(b))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions relating to the repealed Pt. 8 of this Act.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 6 had not come into operation. It reads as follows:
@@ -42,6 +43,11 @@ In section 3 insert in alphabetical order:
 child care services means —
 (a)any education and care service as defined in the Education and Care Services National Law (Western Australia) section 5(1); or
 (b)any child care service as defined in the Child Care Services Act 2007 section 4;
+On the date as at which this compilation was prepared, the Teacher Registration Act 2012 s. 163 had not come into operation. It reads as follows:
+163.Children and Community Services Act 2004 amended
+(1) This section amends the Children and Community Services Act 2004.
+(2) In section 124A in the definition of teacher delete paragraphs (a) and (b) and insert:
+(a)a person who is registered under the Teacher Registration Act 2012; or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
