@@ -8,19 +8,19 @@
 6.The remuneration of members of the Board and members of any committee established by the Board.
 7.To permit the Board to establish committees for supervisory, regulatory, or other purposes and to provide for the constitution, practice and procedure of any such committee.
 8.The licensing of plumbers, including, without limitation —
-(a)the persons who may hold a licence;
-(b)classes of licence and the plumbing work that may be carried out under the authority of a licence of a particular class;
-(c)the qualifications, level of experience or competency requirements necessary for the grant of a licence of a particular class;
-(d)the matters of which the Board must be satisfied before granting a licence of a particular class;
-(e)the issue, duration, renewal, suspension or cancellation of licences;
-(f)the imposition of conditions or restrictions on licences;
-(g)the keeping of a register of specified information in respect of licences and matters relating to the amendment and accuracy of the register;
-(h)the manner of making a complaint against or concerning a person who is or was the holder of a licence, and who may make such a complaint;
-(i)disciplinary matters and the regulation of the practice and procedure to be followed in the investigation of disciplinary matters;
-(j)the conferral on the State Administrative Tribunal of jurisdiction to deal with disciplinary matters and the orders that may be made following the hearing and determination of disciplinary matters, which may include orders imposing disciplinary penalties;
-(k)the conferral on the State Administrative Tribunal of jurisdiction to deal with applications for the review of decisions of the Board or any committee established by the Board;
+(a)the persons who may hold a licence; and
+(b)classes of licence and the plumbing work that may be carried out under the authority of a licence of a particular class; and
+(c)the qualifications, level of experience or competency requirements necessary for the grant of a licence of a particular class; and
+(d)the matters of which the Board must be satisfied before granting a licence of a particular class; and
+(e)the issue, duration, renewal, suspension or cancellation of licences; and
+(f)the imposition of conditions or restrictions on licences; and
+(g)the keeping of a register of specified information in respect of licences and matters relating to the amendment and accuracy of the register; and
+(h)the manner of making a complaint against or concerning a person who is or was the holder of a licence, and who may make such a complaint; and
+(i)disciplinary matters and the regulation of the practice and procedure to be followed in the investigation of disciplinary matters; and
+(j)the conferral on the State Administrative Tribunal of jurisdiction to deal with disciplinary matters and the orders that may be made following the hearing and determination of disciplinary matters, which may include orders imposing disciplinary penalties; and
+(k)the conferral on the State Administrative Tribunal of jurisdiction to deal with applications for the review of decisions of the Board or any committee established by the Board; and
 [(l)deleted]
-(m)the publication in specified circumstances of information relating to the cancellation or suspension of a licence, and the manner of such publication;
+(m)the publication in specified circumstances of information relating to the cancellation or suspension of a licence, and the manner of such publication; and
 (n)the manner in which holders of licences may advertise, display or otherwise publicise the fact that they carry out plumbing work; and
 (o)matters of a savings or transitional nature.
 9.The prohibition of persons other than holders of licences from carrying out plumbing work.
