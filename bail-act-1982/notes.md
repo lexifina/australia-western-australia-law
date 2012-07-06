@@ -1,10 +1,10 @@
 Notes
-This is a compilation of the Bail Act 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 July 2012 of the Bail Act 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Bail Act 1982 | 86 of 1982 | 18 Nov 1982 | 6 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
 Acts Amendment (Abolition of Capital Punishment) Act 1984 Pt. III | 52 of 1984 | 5 Sep 1984 | 3 Oct 1984
-Bail Amendment Act 1984 | 74 of 1984 | 29 Nov 1984 | 6 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
+Bail Amendment Act 1984 | 74 of 1984 (as amended by 15 of 1980 s. 20) | 29 Nov 1984 | 6 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
 Bail Amendment Act 1988 | 15 of 1988 | 6 Sep 1988 | 6 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
 Reprint of the Bail Act 1982 under the Reprints Act 1984 and s. 21 of the Bail Amendment Act 1988 (includes amendments listed above)
 Criminal Law Amendment Act 1988 Pt. 4 | 70 of 1988 | 15 Dec 1988 | 6 Feb 1989 (see s. 2(2)(b) and Gazette 27 Jan 1989 p. 263)
@@ -29,14 +29,14 @@ Bail Amendment Act 1998 | 54 of 1998 | 11 Jan 1999 | s. 1 and 2: 11 Jan 1999; Pt
 Reprint of the Bail Act 1982 as at 27 Aug 1999 (includes amendments listed above except those in the Bail Amendment Act 1998 Pt. 2, 3, 5 and 6)
 Court Security and Custodial Services (Consequential Provisions) Act 1999 Pt. 3 | 47 of 1999 | 8 Dec 1999 | 18 Dec 1999 (see s. 2 and Gazette 17 Dec 1999 p. 6175-6)
 Criminal Law Amendment Act 2001 s. 10(1) | 23 of 2001 | 26 Nov 2001 | 24 Dec 2001
-Criminal Investigation (Identifying People) Act 2002 s. 96 | 6 of 2002 | 4 Jun 2002 | 20 Nov 2002 (see s. 2 and Gazette 19 Nov 2002 p. 5505)
+Criminal Investigation (Identifying People) Act 2002 Sch. 2 cl. 1 | 6 of 2002 | 4 Jun 2002 | 20 Nov 2002 (see s. 2 and Gazette 19 Nov 2002 p. 5505)
 Criminal Law (Procedure) Amendment Act 2002 Pt. 4 Div. 1 | 27 of 2002 | 25 Sep 2002 | 27 Sep 2002 (see s. 2 and Gazette 27 Sep 2002 p. 4875)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 29(3) and 37 | 50 of 2003 | 9 Jul 2003 | s. 29(3): 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); s. 37: 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 88 and 121 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 29 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Criminal Code Amendment Act 2004 s. 24, 26 and 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Sentencing Legislation Amendment Act 2004 s. 13 | 27 of 2004 | 14 Oct 2004 | 31 May 2006 (see s. 2 and Gazette 30 May 2006 p. 1965)
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
+Children and Community Services Act 2004 Sch. 2 cl. 3 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Acts Amendment (Family and Domestic Violence) Act 2004 Pt. 3 | 38 of 2004 | 9 Nov 2004 | 1 Dec 2004 (see s. 2 and Gazette 26 Nov 2004 p. 5309)
 Acts Amendment (Court of Appeal) Act 2004 s. 28 | 45 of 2004 | 9 Nov 2004 | s. 28(1), (2) and (4) (other than the amendment to s. 7A(1)): 1 Feb 2005 (see. s. 2 and Gazette 14 Jan 2005 p. 163); s. 28(3) and (4) (the amendment to s. 7A(1)): 2 May 2005 (see. s. 2 and Gazette 14 Jan 2005 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
@@ -56,112 +56,27 @@ Police Amendment Act 2009 s. 12 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 4 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 19 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Misuse of Drugs Amendment Act 2011 Pt. 3 | 56 of 2011 | 21 Nov 2011 | 24 Mar 2012 (see s. 2(b) and Gazette 23 Mar 2012 p. 1363)
+Reprint 8: The Bail Act 1982 as at 6 Jul 2012 (includes amendments listed above)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 3 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Electronic Transactions Act 2011 s. 25 | 46 of 2011 | 25 Oct 2011 | To be proclaimed (see s. 2(c))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The short title of the Justices Act 1902 was changed to the Criminal Procedure (Summary) Act 1902 by the Courts Legislation Amendment and Repeal Act 2004 s. 25. The Act was then repealed by the Criminal Procedure and Appeal (Consequential and Other Provisions) Act 2004.
 The amendment in the Sentencing Legislation Amendment and Repeal Act 1999 s. 26 had not come into operation when it was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 was repealed by the Statutes (Repeals and Minor Amendments) Act 2011 s. 23(2) before it purported to come into operation.
 The Bail Amendment Act 1984 s. 10 and 11 were repealed by the Bail Amendment Act 1988 s. 20.
 The Bail Act 1982 was not in operation at the time when the reprint was compiled, but the reprinting was authorised by the Bail Amendment Act 1988 s. 21.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a transitional provision that is of no further effect.
 The Criminal Procedure Amendment Act 1993 s. 13 is a transitional provision that is of no further effect.
 The Bail Amendment Act 1998 s. 6(2) is a transitional provision that is of no further effect.
 The Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 97 reads as follows:
-“
 97.References to Crown Solicitor
 If in a written law or other document or instrument there is a reference to the Crown Solicitor that reference may, where the context so requires, be read as if it had been amended to be a reference to the State Solicitor.
-”.
 The amendment in the Courts Legislation Amendment and Repeal Act 2004 s. 141 (amending Sch. 1 Pt. A cl. 4) is not included because the clause it sought to amend had been amended by the Acts Amendment (Court of Appeal) Act 2004 s. 28(4) before the amendment purported to come into operation.
-The Bail Amendment Act 2008 s. 6(2), 9(4)-(11), 10(2), 11(3), 15(5)-(8), 16(2), 18(4)-(5), 21(3), 22(2), 23(4), 24(6)-(7), 27(2)-(3), 28(6), 30(4)-(5), 31(2)-(3), 32(3)-(4), 33(6), 40(2), 41(5)-(9), 42(3) and 44 read as follows:
-“
-6.Section 4A inserted and transitional provision
-(2) The Bail Act 1982 section 4A as inserted by subsection (1) applies to appearances in court referred to in subsection (1)(a) of that section that occur after the commencement of this section.
-9.Section 7A replaced by sections 7A to 7F, related amendments to sections 8 and 21 and transitional provisions
-(4) The Bail Act 1982 section 7A as inserted by subsection (1) applies in relation to appearances in court coming within the Bail Act 1982 section 7(1) that occur after the commencement of this section.
-(5) The Bail Act 1982 section 7B(3) as inserted by subsection (1) applies so as to enable an accused who is detained in custody after the commencement of this section to make an application allowed for by that subsection.
-(6) The Bail Act 1982 section 7B(4) as inserted by subsection (1) applies in relation to appearances in court coming within that subsection that occur after the commencement of this section.
-(7) The Bail Act 1982 section 7B(5) as inserted by subsection (1) applies in relation to an accused who is in custody on the commencement of this section as if the reference in section 7B(5)(a) to an application under subsection (3) included a reference to an application under the Bail Act 1982 as in force immediately before the commencement of this section.
-(8) The Bail Act 1982 section 7C(2) as inserted by subsection (1) applies in relation to appearances in court coming within that subsection that occur after the commencement of this section.
-(9) The Bail Act 1982 section 7D as inserted by subsection (1) applies to any subsequent consideration of bail referred to in section 7D(1) that occurs after the commencement of this section.
-(10) The Bail Act 1982 section 7E as inserted by subsection (1) applies to any trial as defined in section 7E(2), or part of a trial, that takes place after the commencement of this section.
-(11) The Bail Act 1982 section 7F(2) as inserted by subsection (1) applies in relation to a pending application for bail under the Bail Act 1982 section 7A(1), as in force immediately before the commencement of this section, as if it were an application for bail under the Bail Act 1982 section 7F(1) as inserted by subsection (1).
-10.Section 9 amended and transitional provision
-(2) The Bail Act 1982 section 9(1)(b) as amended by subsection (1) applies to any consideration of a case for bail that occurs after the commencement of this section.
-11.Section 11 amended and transitional provision
-(3) A certificate under the Bail Act 1982 section 11(2) as in force immediately before the commencement of this section that has not been fully acted upon is to be treated after that commencement as a certificate under the Bail Act 1982 section 11(3) as inserted by subsection (2).
-15.Section 14 amended and transitional provisions
-(5) The Bail Act 1982 section 14(4)(a)(i) as inserted by subsection (4) applies in respect of a child charged with an offence on or after the commencement.
-(6) The Bail Act 1982 section 14(4)(a)(ii) as inserted by subsection (4) applies in respect of an accused committed to the District Court on or after the commencement for trial or sentence.
-(7) The Bail Act 1982 section 14(4)(b) as inserted by subsection (4) applies in respect of any power referred to in the Bail Act 1982 section 14(1) that is exercised, or could be exercised, on or after the commencement by any other judicial officer as defined in that paragraph.
-(8) In subsections (5), (6) and (7) —
-commencement means the commencement of subsection (4).
-16.Sections 15A and 15B inserted and transitional provision
-(2) The Bail Act 1982 sections 15A and 15B as inserted by subsection (1) apply to a bail decision, as defined in section 15A(1), made after the commencement of this section by a judge referred to in section 15A(2).
-18.Section 28 amended, related amendments to sections 35, 49, 51 and 58 and Schedule 1 and transitional provisions
-(4) A bail undertaking that has effect under the Bail Act 1982 immediately before the commencement of this section continues to have effect, on and after that commencement, as if it were a bail undertaking described in the Bail Act 1982 section 28(2) as amended by subsection (1).
-(5) A surety undertaking that has effect under the Bail Act 1982 immediately before the commencement of this section continues to have effect, on and after that commencement, as if it were a surety undertaking within the meaning of the Bail Act 1982 section 35(1) as amended by subsection (3).
-21.Section 31 amended and transitional provision
-(3) The Bail Act 1982 section 31 as amended by this section applies in relation to any adjournment or committal to which it refers that occurs after the commencement of this section.
-22.Section 31A inserted and transitional provision
-(2) The Bail Act 1982 section 31A as inserted by subsection (1) applies to any trial as defined in section 31A(1), or part of a trial, that takes place after the commencement of this section.
-23.Section 32 amended and transitional provision
-(4) The Bail Act 1982 section 32 as amended by this section applies in relation to oral notifications given, and written notices given or sent, after the commencement of this section.
-24.Section 36 replaced, related amendments to sections 3, 37, 39, 40, 41 and 42 and transitional provisions
-(6) The Bail Act 1982 section 36(1) as inserted by subsection (1) applies to any decision as to whether a person should be approved as a surety that has to be made after the commencement of this section.
-(7) The Bail Act 1982 section 36(2) as inserted by subsection (1) applies to any grant of bail that occurs after the commencement of this section.
-27.Section 44 replaced and transitional provisions
-(2) The Bail Act 1982 section 44 as inserted by subsection (1) applies to a surety undertaking whether entered into before or after the commencement of this section.
-(3) For the purposes of subsection (2), if a surety undertaking entered into before the commencement of this section contains a provision of the kind referred to in the Bail Act 1982 section 44(2) as in force before that commencement, the provision is to be taken to be a provision of the kind referred to in the Bail Act 1982 section 44(5) as inserted by subsection (1).
-28.Section 45 amended and transitional provision
-(6) The Bail Act 1982 section 45 as amended by subsection (1) applies to notices given for the purposes of the Bail Act 1982 section 44(5) after the commencement of this section.
-30.Section 49 amended, related amendment to section 67 and transitional provisions
-(4) Subject to subsection (5), the Bail Act 1982 section 49 as amended by this section applies in relation to a failure by an accused to comply with any requirement of the accused’s bail undertaking irrespective of when the failure occurred.
-(5) Any proceedings under the Bail Act 1982 section 49 in progress immediately before the commencement of this section may be continued after that commencement as if this section had not come into operation.
-31.Section 51A inserted and transitional provisions
-(2) Subject to subsection (3), the Bail Act 1982 section 51A as inserted by this section applies for the purpose of prosecuting an offence described in subsection (1) of that section irrespective of when the offence occurred.
-(3) Any prosecution for an offence referred to in subsection (2) in progress immediately before the commencement of this section may be continued after that commencement as if this section had not come into operation.
-32.Section 52 amended and transitional provisions
-(3) Subject to subsection (4), the Bail Act 1982 section 52 as amended by this section applies for the purpose of prosecuting an offence described in subsection (1) of that section irrespective of when the offence occurred.
-(4) Any prosecution for an offence referred to in subsection (3) in progress immediately before the commencement of this section may be continued after that commencement as if this section had not come into operation.
-33.Section 54 amended, related amendment to section 46 and transitional provision
-(6) Despite the amendments made by subsections (1) to (4), the Bail Act 1982 section 54 as in force immediately before the commencement of this section continues to apply in relation to —
-(a) an accused arrested under subsection (2)(a) of that section; and
-(b) an application made under subsection (2)(b) of that section,
-before that commencement.
-40.Section 66B inserted and transitional provision
-(2) The Bail Act 1982 section 66B as inserted by subsection (1) applies in relation to any bail proceedings, as defined in section 66B, conducted after the commencement of this section irrespective of when those proceedings were initiated.
-41.Schedule 1 amended and transitional provisions
-(5) The Bail Act 1982 Schedule 1 Part B clause 1A as inserted by subsection (3)(b) applies in respect of —
-(a) a grant or refusal of bail; or
-(b) a dispensation from the requirement for bail,
-coming within that clause that occurs after the commencement of subsection (3)(b).
-(6) The Bail Act 1982 Schedule 1 Part B clause 3 as inserted by subsection (3)(e) applies in relation to a refusal of bail for an initial appearance that occurs after the commencement of subsection (3)(e).
-(7) The Bail Act 1982 Schedule 1 Part C clause 3C as inserted by subsection (4)(e) applies to any consideration of a case for bail that occurs after the commencement of subsection (4)(e).
-(8) The Bail Act 1982 Schedule 1 Part C clauses 4 and 4A as inserted by subsection (4)(f) apply to any consideration of a case for bail that occurs after the commencement of subsection (4)(f).
-(9) The Bail Act 1982 Schedule 1 Part C clause 7 as amended by subsection (4)(i) applies to any grant of bail that occurs after the commencement of subsection (4)(i).
-42.Schedule 2 amended and transitional provision
-(3) A reference in —
-(a) the Bail Act 1982 section 16A; or
-(b) the Bail Act 1982 Schedule 1 Part C clause 3A or 3B,
-to a serious offence includes a reference to an offence against The Criminal Code section 283 committed, or alleged to have been committed, before the commencement of this section.
-44.Transitional regulations
-(1) If this Part does not provide sufficiently for a matter or issue of a transitional nature that arises as a result of the amendments made to the Bail Act 1982 by this Part, the Governor may make regulations (the transitional regulations) prescribing all matters that are required, necessary or convenient to be prescribed for providing for the matter or issue.
-(2) The transitional regulations may provide that specified provisions of the Bail Act 1982 or this Part —
-(a) do not apply; or
-(b) apply with specified modifications,
-to or in relation to any matter.
-(3) If the transitional regulations provide that a specified state of affairs is to be taken to have existed, or not to have existed, on and from a day that is earlier than the day on which the transitional regulations are published in the Gazette but not earlier than the commencement of this section, the transitional regulations have effect according to their terms.
-(4) In subsections (2) and (3) —
-specified means specified or described in the transitional regulations.
-(5) If the transitional regulations contain a provision referred to in subsection (3), the provision does not operate so as —
-(a) to affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
-(b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
-”.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 3 Div. 1 was repealed by the Statutes (Repeals and Minor Amendments) Act 2011 s. 23(2) before it purported to come into operation.
-On the date as at which this compilation was prepared, the Electronic Transactions Act 2011 s. 25 had not come into operation. It reads as follows:
+The Bail Amendment Act 2008 s. 6(2), 9(4)-(11), 10(2), 11(3), 15(5)-(8), 16(2), 18(4)-(5), 21(3), 22(2), 23(4), 24(6)-(7), 27(2)-(3), 28(6), 30(4)-(5), 31(2)-(3), 32(3)-(4), 33(6), 40(2), 41(5)-(9), 42(3) and 44 are transitional provisions.
+On the date as at which this reprint was prepared, the Electronic Transactions Act 2011 s. 25 had not come into operation. It reads as follows:
 25.Acts amended
 (1) This section amends the Acts listed in the Table.
 (2) Amend the provisions listed in the Table as set out in the Table.
@@ -216,6 +131,7 @@ registrar3(1)
 released6A(1)
 relevant officer54(1a), 59A(1)
 relevant official43A(1)
+relevant papers27(2)
 relevant personSch. 1 Pt. C cl. 3B(3)
 responsible personSch. 1 Pt. C cl. 2(1)
 serious offence3(1), 6A(1)
@@ -224,7 +140,6 @@ summary court6A(1)
 surety3(1)
 surety approval officer3(1)
 surety undertaking3(1)
-the relevant papers27(2)
 trial3(1), 7E(2), 31A(1), 44(3)
 urban area16A(4)
 video link43A(1), 66B(1)
