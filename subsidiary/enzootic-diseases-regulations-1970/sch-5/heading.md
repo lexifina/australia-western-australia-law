@@ -7,7 +7,7 @@
 [Heading inserted in Gazette 14 Jun 2005 p. 2595.]
 In this Schedule unless the contrary intention appears —
 cattle includes buffalo;
-confirmed free in relation to tuberculosis has the meaning given to “accredited tuberculosis free herd” in regulation 57;
+confirmed free in relation to tuberculosis has the meaning given to accredited tuberculosis free herd in regulation 57;
 infected herd means a herd that has shown unequivocal evidence of infection with —
 (a)in the case of brucellosis, Brucella abortus; and
 (b)in the case of tuberculosis, Mycobacterium bovis,
@@ -16,12 +16,12 @@ Kimberley Tuberculosis Eradication Area means an area of the Kimberley Land Divi
 Kimberley Tuberculosis Provisionally Free Area means an area of the Kimberley Land Division declared to be a tuberculosis provisionally free area under regulation 56;
 monitored negative herd means a herd in which monitoring information or survey testing indicates that the herd is free of brucellosis or tuberculosis as the case may be, but a whole herd test has not been carried out;
 not assessed herd means a herd that has not been tested and for which insufficient information is available for it to be classified otherwise;
-provisionally clear herd means a previously “infected” or “suspect” herd that has qualified for removal of restrictions on the movement of cattle on and off the property, and which has not yet completed all the confirmatory tests necessary to become confirmed free;
-restricted herd means a previously “infected” or “suspect” herd that has had one negative herd test without subsequent evidence of infection;
+provisionally clear herd means a previously infected or suspect herd that has qualified for removal of restrictions on the movement of cattle on and off the property, and which has not yet completed all the confirmatory tests necessary to become confirmed free;
+restricted herd means a previously infected or suspect herd that has had one negative herd test without subsequent evidence of infection;
 suspect herd means, a herd —
 (a)in which monitoring information suggests that the herd is infected, but further evidence is required to classify the herd as infected or otherwise; or
 (b)in which the field situation suggests that the herd has a high risk of becoming infected;
-tested negative herd means a herd not previously classified as “infected” that has had at least one negative herd test without subsequent evidence of infection.
+tested negative herd means a herd not previously classified as infected that has had at least one negative herd test without subsequent evidence of infection.
 [Subdivision 1, formerly Fifth Schedule, inserted in Gazette 31 Mar 1989 p. 875; amended in Gazette 14 Jun 2005 p. 2609.]
 ## Subdivision 2 — Cattle not for immediate slaughter
 [Heading inserted in Gazette 14 Jun 2005 p. 2595.]
@@ -96,7 +96,7 @@ tuberculin test means a single intradermal caudal fold test using Bovine PPD tub
 2.Permit in the form of Form 3 issued by an inspector.
 3.Movement shall be direct and any off-loading into areas or premises of lower status shall be only into approved yards or premises.
 4A.When moving stock under condition 11 the consignee shall —
-(a) notify the nearest inspector within 14 days of the date of introduction of the stock;
+(a) notify the nearest inspector within 14 days of the date of introduction of the stock; and
 (b) isolate and keep isolated from the herd, any stock introduced on to the property, unless and until otherwise directed by an inspector; and
 (c) submit any introduced stock to such tests as an inspector may direct.
 [Subdivision 2, formerly Fifth Schedule, inserted in Gazette 31 Mar 1989 p. 877; amended in Gazette 29 Apr 2008 p. 1573-4; 26 Jun 2009 p. 2616.]
@@ -144,7 +144,7 @@ tuberculin test means a single intradermal caudal fold test using Bovine PPD tub
 (ii) consigned directly from a property on which the cattle have been depastured for at least 6 months and on which cattle tick is not known or suspected to exist;
 and
 (b) shall be presented free of tick, and —
-(i) shall be treated with an approved veterinary preparation lethal to cattle tick and treated with an approved veterinary preparation lethal to buffalo fly, under the supervision of an inspector;
+(i) shall be treated with an approved veterinary preparation lethal to cattle tick and treated with an approved veterinary preparation lethal to buffalo fly, under the supervision of an inspector; and
 (ii) shall be moved out of the infected area within 72 hours of being treated; and
 (iii) shall not be unloaded anywhere en route to the destination endorsed on the permit, without the permission of an inspector.
 21.Where the stock consists of a horse, mule, donkey, camel or deer, every animal to be moved shall be treated with an approved veterinary preparation under the supervision of an inspector at a place that has been approved and within 24 hours prior to movement.

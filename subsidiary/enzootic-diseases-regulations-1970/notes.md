@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Enzootic Diseases Regulations 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 July 2012 of the Enzootic Diseases Regulations 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Enzootic Diseases Regulations 1970 | 24 Jun 1970 p. 1784-819 | 24 Jun 1970
@@ -118,7 +118,9 @@ Enzootic Diseases Amendment Regulations (No. 2) 2011 | 3 Jun 2011 p. 1975-6 | r.
 Enzootic Diseases Amendment Regulations (No. 3) 2011 | 30 Jun 2011 p. 2683-5 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Enzootic Diseases Amendment Regulations (No. 4) 2011 | 22 Jul 2011 p. 3007-12 | r. 1 and 2: 22 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jul 2011 (see r. 2(b))
 Enzootic Diseases Amendment Regulations 2012 | 19 Jun 2012 p. 2635-6 | r. 1 and 2: 19 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+Reprint 6: The Enzootic Diseases Regulations 1970 as at 6 Jul 2012 (includes amendments listed above)
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is, unless the contrary is intended, to be read and construed as a reference to the Department of Agriculture and Food.
+Now a city.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -243,7 +245,7 @@ tuberculosis control area55
 tuberculosis eradication area55
 tuberculosis free area55
 tuberculosis provisionally free area55
-update the NLIS database4
+update the NLIS database4(1)
 vessel4(1)
 visible identification number76
 Western Australian pearl oyster fishery100(1)
