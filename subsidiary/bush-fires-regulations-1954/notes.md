@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Bush Fires Regulations 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 July 2012 of the Bush Fires Regulations 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Bush Fires Act 1954 Regulations | 14 Oct 1955 p. 2575-97 | 14 Oct 1955
@@ -34,8 +34,8 @@ Bush Fires Amendment Regulations (No. 2) 2010 | 10 Sep 2010 p. 4342-4 | r. 1 and
 Bush Fires Amendment Regulations (No. 3) 2010 | 5 Nov 2010 p. 5564-6 | r. 1 and 2: 5 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Nov 2010 (see r. 2(b))
 Bush Fires Amendment Regulations 2010 | 17 Dec 2010 p. 6351-4 | r. 1 and 2: 17 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2010 (see r. 2(b))
 Bush Fires Amendment Regulations 2011 | 2 Dec 2011 p. 5059-60 | r. 1 and 2: 2 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2011 (see r. 2(b))
+Reprint 6: The Bush Fires Regulations 1954 as at 6 Jul 2012 (includes amendments listed above)
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-The Evidence Act 1906 s. 106 was repealed by the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 51.
 The Bush Fires Amendment Regulations (No. 2) 2000 deleted headings to r. 1-3, 15, 18, 23, 37, 37A, 38, 39, 39A, 39B, 39BA, 39D, 41, 43 and 44 that formed part of the written law. The deletions are not noted in footnotes to the regulations. The headings to the regulations in this reprint do not form part of the written law (see Interpretation Act 1984 s. 32).
 Now known as the Bush Fires Regulations 1954; citation changed (see note under r. 1).
 Defined Terms
@@ -47,13 +47,11 @@ bush fire officer45A(1), 45B(1)
 engine, vehicle, plant, equipment or machinery24A(1)
 Executive Body45(1)
 fire extinguisher3
-fire fighting vehicle24A(1)
-necessary agricultural activity24A(1)
 notifiable authority3
+permit holder15B(1)
 prescribed period39CA(1)
 road24A(1)
-take control45A(1) , 45B(1)
-the permit holder15B(1)
-the subject land3
+subject land3
+take control45A(1), 45B(1)
 unallocated Crown land45(1)
 volunteer fire fighter40(1)
