@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Water Services Licensing Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 July 2012 of the Water Services Licensing Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Water Services Coordination Act 1995 | 72 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2 and Gazette 29 Dec 1995 p. 6291)
@@ -17,30 +17,20 @@ Financial Administration Legislation Amendment Act 2005 s. 46 | 5 of 2005 | 27 J
 Water Legislation Amendment (Competition Policy) Act 2005 s. 7(4), 28(2), 60(2) and Pt. 8 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 2: The Water Services Licensing Act 1995 as at 4 Aug 2006 (includes amendments listed above)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 178 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Duties Legislation Amendment Act 2008 Sch. 1 cl. 40 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 133 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Building Services (Complaint Resolution and Administration) Act 2011 s. 130 | 16 of 2011 | 25 May 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 4 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
+Reprint 3: The Water Services Licensing Act 1995 as at 6 Jul 2012 (includes amendments listed above)
 Under the Land Administration Act 1997 s. 281(3), references to the Land Act 1933 may be construed as references to the Land Administration Act 1997.
 Now known as the Water Services Licensing Act 1995; short title changed (see note under s. 1).
-The Taxes and Charges (Land Subdivision) Legislation Amendment Act 1996 Pt. 6 reads as follows:
-“
-Part 6 — Review
-17. Review
-(1) Each relevant Minister is to carry out a review of the operation and effectiveness of the amendments made by this Act as soon as is practicable after the expiration of 3 years from the commencement of this Act.
-(2) The relevant Ministers are to prepare a joint report based on the review and, as soon as is practicable after the report is prepared, cause it to be laid before each House of Parliament.
-(3) In this section —
-relevant Minister means a Minister responsible for the administration of an Act amended by this Act or the Minister responsible for the administration of the Town Planning and Development Act 1978.
-”.
+The Taxes and Charges (Land Subdivision) Legislation Amendment Act 1996 Pt. 6 is a review provision that is of no further effect.
 The Economic Regulation Authority Act 2003 s. 63(1), which gives effect to Sch. 3, reads as follows:
-“
 63.Transitional and saving provisions
 (1) Schedule 3 has effect to make transitional and saving provisions in respect of the amendments made in Schedule 2 Divisions 8, 12 and 18.
-”.
 Schedule 3 reads as follows:
-“
 Schedule 3 — Transitional and saving provisions for amendments in Schedule 2 Divisions 8, 12 and 18
 [s. 63(1)]
 1.Definitions
@@ -89,7 +79,6 @@ The operation of any provision of this Schedule is not to be regarded —
 (c) as giving rise to any remedy by a party to an instrument or as causing or permitting the termination of any instrument, because of a change in the beneficial or legal ownership of any asset, right or liability;
 (d) as causing any contract or instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
-”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment to s. 57 in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1302 is not included because the section it seeks to amend was repealed by the Economic Regulation Authority Act 2003 s. 62.
 Defined Terms
@@ -97,6 +86,7 @@ Defined Terms
 Defined TermProvision(s)
 affected land46A
 asset46A
+assets46K
 Authority3
 Board3
 Building Services Account59J(3)
@@ -106,6 +96,7 @@ department3
 document59F(5)
 except as agreed46C(2)
 existing operator21(1)
+holding body46K
 information59F(5)
 inspector3
 irrigation3
@@ -124,8 +115,6 @@ specified59I
 staff59F(5)
 statutory asset owner46A
 technical standards38(1)
-the assets46K
-the holding body46K
 transfer day46A
 transfer order46A
 transferee46A
