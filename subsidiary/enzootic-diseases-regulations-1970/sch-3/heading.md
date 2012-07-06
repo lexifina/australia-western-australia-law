@@ -125,16 +125,16 @@ I am an approved fish pathologist and certify that:
 1.This certificate has been issued in respect of a sample of pearl oysters marked ______________________ which was taken from pearl oysters being held at (location of hatchery, quarantine site etc.) ______________
 _________________________________________________________
 _________________________________________________________
-The sample was delivered to me for disease testing on _____________
+The sample was delivered to me for disease testing on ______________
 by _______________________________________________________
 2.I have no reason to doubt the information given as to the origins of the pearl oysters or the levels of mortality or clinical disease in the hatchery, quarantine site or other place where the pearl oysters are being held.
 3.The following tests were carried out for clinical disease or significant pathogens
 Test | Number tested | Date | Result
 4.No clinical disease or significant pathogen was detected in the sample.
-5.*The following genetic tests were carried out ______________________
-_________________________________________________________
-with the following results ____________________________________
-_________________________________________________________
+5.*The following genetic tests were carried out _______________________
+__________________________________________________________
+with the following results _____________________________________
+__________________________________________________________
 and no genetic components not of Western Australian origin were detected.
 * Delete if inapplicable.
 Signature: _______________________________________________________
