@@ -27,7 +27,7 @@ Form |  | Provisions of Act
 11 | Restraining order made during other proceedings — Record of proceedings | Section 63
 12 | Part A — Interstate restraining order — Application to register Part B — Information to be on the copy of the application given to the applicant Part C — Information to be on the copy of the application given to the Commissioner of Police Part D — Information to be on the copy of the application given to the interstate court where the interstate order was made | Section 75(2)
 13 | Part A — Restraining order — Summons Part B — Information to be on the proof of service copy | Sections 26(3) and 39
-14A. | Application to have final order under section 32(2) of the Act set aside | Section 32(5)
+14A | Application to have final order under section 32(2) of the Act set aside | Section 32(5)
 14 | Application to have decision under section 42 of the Act set aside | Section 43A
 [Table of forms inserted in Gazette 26 Nov 2004 p. 5267-8; amended in Gazette 4 May 2012 p. 1848.]
 Form 1 — Application for violence restraining order
@@ -624,7 +624,7 @@ Form 13 — Restraining order — summons
 Part B — Information to be on the proof of service copy
 Certificate of Service
 Person serving summons | Name of person serving summons:
-I amrthe registrar of the court ra police officer Rank, number and station: ____________________________ ra prison officerPrison: ____________________________________________ ra person authorised by the registrar Date of authorisation: _______________________
+I amrthe registrar of the court ra police officer Rank, number and station: ____________________________ ra prison officerPrison: ____________________________________________ ra person authorised by the registrar Date of authorisation: ______________________
 Details of service | Method of service: r personalr by postr substituted service
 Place where summons served:
 Date of service: | Time of service:
@@ -635,7 +635,7 @@ Certificate | I certify that on the day and at the time and place set out above:
 Signature: | Date:
 OR
 Summons not served | Name of person attempting to serve summons:
-I amrthe registrar of the court ra police officer Rank, number and station: ____________________________ ra prison officerPrison: ____________________________________________ ra person authorised by the registrar Date of authorisation: _______________________
+I amrthe registrar of the court ra police officer Rank, number and station: ____________________________ ra prison officerPrison: ____________________________________________ ra person authorised by the registrar Date of authorisation: _____________________
 Attempted method of service: r personalr by postr substituted service
 Steps taken to attempt service:
 I was unable to serve this summons because: r the respondent does not appear to live or work at the addresses given and cannot be found elsewhere r the respondent appears to be deliberately avoiding being served with this summons r other [give details]
