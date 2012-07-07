@@ -7,6 +7,7 @@ Child Care Services Amendment Regulations 2007 | 30 Nov 2007 p. 5929-30 | r. 1 a
 Child Care Services Amendment Regulations 2008 | 26 Feb 2008 p. 659 | r. 1 and 2: 26 Feb 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Feb 2008 (see r. 2(b))
 Reprint 1: The Child Care Services Regulations 2007 as at 6 Mar 2009 (includes amendments listed above)
 Child Care Services Amendment Regulations 2011 | 6 Jan 2012 p. 4-14 | r. 1 and 2: 6 Jan 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jan 2012 (see r. 2(b) and Gazette 6 Jan 2012 p. 3)
+Child Care Services Amendment Regulations 2012 | 6 Jul 2012 p. 3021-3 | r. 1 and 2: 6 Jul 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jul 2012 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
