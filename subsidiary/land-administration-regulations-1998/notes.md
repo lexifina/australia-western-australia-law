@@ -28,6 +28,7 @@ Land Administration Amendment Regulations (No. 2) 2009 | 24 Dec 2009 p. 5297-8 |
 Public Sector Reform (Consequential Amendments) Regulations 2011 r. 20 | 11 Feb 2011 p. 502-7 | 12 Feb 2011 (see r. 2(d))
 Land Administration Amendment Regulations 2011 | 6 Dec 2011 p. 5130-1 | r. 1 and 2: 6 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Dec 2011 (see r. 2(b))
 Land Administration Amendment Regulations (No. 2) 2012 | 23 Mar 2012 p. 1370-1 | r. 1 and 2: 23 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Mar 2012 (see r. 2(b))
+Land Administration Amendment Regulations 2012 | 6 Jul 2012 p. 3023-5 | r. 1 and 2: 6 Jul 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jul 2012 (see r. 2(b))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 Published again in Gazette 19 Nov 2004 p. 5081 but amendment of 19 Nov 2004 has no effect.
 Defined Terms
@@ -40,13 +41,15 @@ Crown land transaction3A(3)
 departmental surveyor18
 existing pastoral lease15(2)
 land17E
+marine navigational aid3(1)
 member24
 panel24
 Public Trustee17E
 relevant matter24
 survey18
+survey mark3(1)
 surveyor at fault20(2)
-telecommunications network3(2)
+telecommunications network3(1)
 the AGD17A(1)
 the decreased amount of rent15(1)(b)
 the increased amount of rent15(1)(a)
