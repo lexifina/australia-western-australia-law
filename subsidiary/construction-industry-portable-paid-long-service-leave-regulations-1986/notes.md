@@ -34,6 +34,7 @@ Construction Industry Portable Paid Long Service Leave Amendment Regulations 200
 Reprint 3: The Construction Industry Portable Paid Long Service Leave Regulations 1986 as at 24 Aug 2007 (includes amendments listed above)
 Construction Industry Portable Paid Long Service Leave Amendment Regulations 2008 | 30 Dec 2008 p. 5642 | r. 1 and 2: 30 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2009 (see r. 2(b))
 Construction Industry Portable Paid Long Service Leave Amendment Regulations 2011 | 30 Dec 2011 p. 5574-5 | r. 1 and 2: 30 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2011 (see r. 2(b))
+Construction Industry Portable Paid Long Service Leave Amendment Regulations 2012 | 10 Jul 2012 p. 3057-60 | r. 1 and 2: 10 Jul 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jul 2012 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
