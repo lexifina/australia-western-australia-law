@@ -1,4 +1,4 @@
-### 52BAB. Certain vessels must carry Emergency Position Indicating Radio Beacons
+### 52BAB. Certain vessels to carry Emergency Position Indicating Radio Beacons
 (1A) In this regulation —
 AS/NZS, followed by a designation means the Australian/New Zealand Standard having that designation that is jointly published by Standards Australia and the Standards Council of New Zealand;
 MS 241 means the Ministerial Standard for Emergency Position Indicating Radio Beacons, made by the Federal Minister under the Radiocommunications Act 1983 of the Commonwealth section 9;

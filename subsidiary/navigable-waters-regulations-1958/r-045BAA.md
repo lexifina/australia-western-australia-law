@@ -6,21 +6,21 @@ proposed departure date in relation to a foreign pleasure vessel means the date 
 (2a) A person who contravenes subregulation (2) commits an offence.
 (3) A person may, within the period of 30 days immediately succeeding the day of entry of the foreign pleasure vessel into any navigable waters, use or have in navigable waters a foreign pleasure vessel that is not registered with the department in accordance with this regulation.
 (4) Every application for the registration of a foreign pleasure vessel shall be made to the department in writing on a form specified by the Minister and shall include particulars of —
-(a) the full name and residential address of the owner of the vessel and the telephone number of any telephone installed at that address for the owner;
-(b) the full name and residential address of the master of the vessel;
-(c) the overall length of the vessel expressed in metres expressed to 2 decimal places;
-(d) the type of construction of the vessel and its colour;
-(e) the power in kilowatts and name of the manufacturer of the engine fitted to the vessel or carried as an auxiliary in the vessel and a statement as to whether the engine is of the inboard or outboard type;
+(a) the full name and residential address of the owner of the vessel and the telephone number of any telephone installed at that address for the owner; and
+(b) the full name and residential address of the master of the vessel; and
+(c) the overall length of the vessel expressed in metres expressed to 2 decimal places; and
+(d) the type of construction of the vessel and its colour; and
+(e) the power in kilowatts and name of the manufacturer of the engine fitted to the vessel or carried as an auxiliary in the vessel and a statement as to whether the engine is of the inboard or outboard type; and
 (f) the date of entry of the vessel into navigable waters; and
 (g) the proposed date of departure of the vessel from navigable waters, and the application shall be accompanied by a recording fee of $19.60 and the appropriate fee ascertained in accordance with the following table for each 3 month period or part of a 3 month period for which it is proposed the vessel will be in navigable waters —
 Table
 Where the length of the vessel is — | $
-(i)less than 5 metres .................... | 4.00
-(ii)5 metres or over but less than 10 metres ................................. | 7.25
-(iii)10 metres or over but less than 20 metres ................................. | 9.50
-(iv)20 metres or over but less than 30 metres ................................. | 19.00
-(v)30 metres or over but less than 40 metres ................................. | 38.00
-(vi)40 metres or over ..................... | 76.00
+(i)less than 5 m ................................ | 4.00
+(ii)5 m or over but less than 10 m ..... | 7.25
+(iii)10 m or over but less than 20 m ... | 9.50
+(iv)20 m or over but less than 30 m ... | 19.00
+(v)30 m or over but less than 40 m ... | 38.00
+(vi)40 m or over ................................. | 76.00
 (5) When the department registers a foreign pleasure vessel under this regulation the department shall, if the vessel has not previously been registered under this regulation, allot a registration number for the vessel and issue to the owner for whom the application was made —
 (a) a boat registration label; and
 (b) a certificate of registration for the vessel, which certificate shall indicate the date of expiry of the registration of the vessel.

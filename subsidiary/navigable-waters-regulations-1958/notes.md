@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Navigable Waters Regulations 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 20 July 2012 of the Navigable Waters Regulations 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Navigable Waters Regulations | 2 Apr 1958 p. 622-32 | 1 May 1958 (see r. 1)
@@ -69,7 +69,7 @@ Navigable Waters Amendment Regulations (No. 3) 1987 | 24 Jul 1987 p. 2830 | 24 J
 Navigable Waters Amendment Regulations (No. 2) 1987 | 11 Sep 1987 p. 3545 | 11 Sep 1987
 Navigable Waters Amendment Regulations (No. 4) 1987 | 16 Oct 1987 p. 3893 | 16 Oct 1987
 Navigable Waters Amendment Regulations 1988 | 12 Aug 1988 p. 2715 | 12 Aug 1988
-Navigable Waters Amendment Regulations (No. 2) 1988 | 28 Oct 1988 p. 4289 | 28 Oct 1989
+Navigable Waters Amendment Regulations (No. 2) 1988 | 28 Oct 1988 p. 4289 | 28 Oct 1988
 Navigable Waters Amendment Regulations (No. 3) 1988 | 13 Jan 1989 p. 75 | 13 Jan 1989
 Navigable Waters Amendment Regulations (No. 2) 1989 | 30 Jun 1989 p. 1926-8 | 1 Jul 1989 (see r. 2)
 Navigable Waters Amendment Regulations 1989 | 25 Aug 1989 p. 2846 | 25 Aug 1989
@@ -128,11 +128,12 @@ Navigable Waters Amendment Regulations (No. 4) 2009 | 11 Dec 2009 p. 5058-9 | r.
 Navigable Waters Amendment Regulations 2010 | 19 Mar 2010 p. 1036 | r. 1 and 2: 19 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Mar 2010 (see r. 2(b))
 Reprint 14: The Navigable Waters Regulations 1958 as at 14 May 2010 (includes amendments listed above)
 Navigable Waters Amendment Regulations (No. 3) 2010 | 27 Aug 2010 p. 4112-14 | r. 1 and 2: 27 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Aug 2010 (see r. 2(b))
-Navigable Waters Amendment Regulations (No. 4) 2010 | 27 Aug 2010 p. 4114-15 | r. 1 and 2: 27 Aug 2010 (see r. 2(a)); r. 3, 4(2), 5 and 6: 28 Aug 2010 (see r. 2(b)) r. 4(1): 1 Sep 2010 (see r. 2(c))
+Navigable Waters Amendment Regulations (No. 4) 2010 | 27 Aug 2010 p. 4114-15 | r. 1 and 2: 27 Aug 2010 (see r. 2(a)); r. 3, 4(2), 5 and 6: 28 Aug 2010 (see r. 2(b)); r. 4(1): 1 Sep 2010 (see r. 2(c))
 Navigable Waters Amendment Regulations 2011 | 21 Jun 2011 p. 2240-2 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Navigable Waters Amendment Regulations (No. 3) 2011 | 4 Nov 2011 p. 4634 | r. 1 and 2: 4 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2011 (see r. 2(b))
 Navigable Waters Amendment Regulations (No. 2) 2011 | 25 Nov 2011 p. 4873-4 | r. 1 and 2: 25 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Nov 2011 (see r. 2(b))
 Navigable Waters Amendment Regulations 2012 | 15 Jun 2012 p. 2525-6 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+Reprint 15: The Navigable Waters Regulations 1958 as at 20 Jul 2012 (includes amendments listed above)
 Repealed by the Dangerous Goods Safety Act 2004.
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
@@ -140,9 +141,10 @@ Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 ABP standard45A(2)
-AS/NZS52BAB(1A)
+Acts2
 appropriate personal flotation device50B(3)
 appropriate signal19E(4)
+AS/NZS52BAB(1A)
 authorised person2
 CEO47(1)
 commencement date47CA(3)
@@ -157,10 +159,15 @@ hull identification number45A(2)
 inspector2
 jetty21
 learner47B(2)
+Level 10046(2)
+Level 15046(2)
+Level 27546(2)
+Level 5046(2)
+Level 50S (Special)46(2)
 motor boat2
 MS 24152BAB(1A)
 navigable waters2
-officer of the department2
+officer of the department 2
 owner2, 45A(2), 46(1), 47CA(3)
 para-sailing46(2)
 personal watercraft46(2)
@@ -176,11 +183,11 @@ registered interstate pleasure vessel45A(2)
 registered vessel45A(2)
 registrable vessel45A(2)
 RST vessel47(1)
+SOLAS jacket46(2)
 speed boat2
 surfing50A(4)
 tender45A(2)
 territorial sea2
-the Acts2
 trick water ski-ing46(2)
 vessel18A(1), 19(1), 21
 water skier46(2)
