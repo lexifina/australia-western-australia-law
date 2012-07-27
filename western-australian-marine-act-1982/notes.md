@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Western Australian Marine Act 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 27 July 2012 of the Western Australian Marine Act 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Western Australian Marine Act 1982 | 55 of 1982 | 5 Nov 1982 | 1 Jul 1983 (see s. 2 and Gazette 24 Jun 1983 p. 1977)
@@ -17,19 +17,20 @@ Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | 1 Mar 2008 (se
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 135 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Reprint 2: The Western Australian Marine Act 1982 as at 2 Dec 2005 (includes amendments listed above, except those in the Dangerous Goods Safety Act 2004 s. 70)
+Reprint 2: The Western Australian Marine Act 1982 as at 2 Dec 2005 (includes amendments listed above except those in the Dangerous Goods Safety Act 2004)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 137 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 7 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 3: The Western Australian Marine Act 1982 as at 27 Jul 2012 (includes amendments listed above) Correction in Gazette 26 Jul 2013 p. 3354
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Western Australian Marine Amendment Act 1987 s. 4-6 | 15 of 1987 | 25 Jun 1987 | To be proclaimed (see s. 2)
 Western Australian Marine Amendment Act 1990 s. 4(d), 6-9 and 12 | 35 of 1990 | 9 Oct 1990 | To be proclaimed (see s. 2)
+Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991 s. 3(2) (Cwlth).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Western Australian Marine Amendment Act 1987 s. 4-6 had not come into operation. They read as follows:
-“
+On the date as at which this reprint was prepared, the Western Australian Marine Amendment Act 1987 s. 4-6 had not come into operation. They read as follows:
 4.Section 76 amended
 Section 76 of the principal Act is amended by inserting after the definition of “Prevention of Collisions Convention” the following definition —
 “
@@ -95,7 +96,7 @@ Penalty —
 (a)if the offender is a natural person — $10 000, or imprisonment for 4 years, or both; or
 (b)if the offender is a body corporate — $50 000.
 (4)The regulations may exempt ships included in a prescribed class of ships from the application of subsection (1), either absolutely or subject to conditions.
-(5)In this section “ship construction certificate” means —
+(5)In this section ship construction certificate means —
 (a)a ship construction certificate issued under section 90C;
 (b)a ship construction certificate issued under section 267B of the Navigation Act;
 (c)a ship construction certificate issued under a law of another State or the Northern Territory and being a certificate of a kind prescribed as acceptable for the purposes of this Division;
@@ -157,14 +158,10 @@ Penalty —
 (4)The owner of a ship of the kind referred to in subsection (1) in respect of which a chemical tanker construction certificate is in force shall cause the certificate to be carried on board the ship.
 Penalty: $1 000.
 ”.
-”.
-On the date as at which this compilation was prepared, the Western Australian Marine Amendment Act 1990 s. 4(d), 6-9 and 12 had not come into operation. They read as follows:
-“
+On the date as at which this reprint was prepared, the Western Australian Marine Amendment Act 1990 s. 4(d), 6-9 and 12 had not come into operation. They read as follows:
 4.Section 3 amended
 Section 3 of the principal Act is amended in subsection (1) —
-“
 (d) by deleting the definition of “Manning Committee”;
-”.
 6.Section 12 amended
 Section 12 of the principal Act is amended in paragraphs (a) and (b) by deleting “by the Manning Committee” wherever occurring.
 7.Sections 15, 16, 17 and 18 repealed and section 15 inserted
@@ -192,10 +189,9 @@ and
 Section 20 of the principal Act is repealed.
 12.Section 65 repealed
 Section 65 of the principal Act is repealed.
-”.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 agreement3(1)
 alleged offence132(11)
 alleged offender132(11)
@@ -212,6 +208,7 @@ commercial vessel3(1)
 container76
 Container Convention76
 dangerous goods3(1)
+delegator116(1)
 Department3(1)
 designated officer132(11)
 Disciplinary Appeal Tribunal3(1)
@@ -247,6 +244,7 @@ partially smooth waters3(1)
 passenger3(1)
 passenger vessel3(1)
 person in charge of a vessel66(5)
+person who was in charge of the vessel132(12), 133(5)
 pleasure vessel3(1), 98(1)
 ply3(1)
 port3(1)
@@ -265,8 +263,6 @@ special personnel3(1)
 specified114(3)
 speed measuring equipment68(5)
 surveyor3(1)
-the delegator116(1)
-the person who was in charge of the vessel132(12), 133(5)
 trading ship3(1)
 vessel3(1)
 vessel record book47(2)
