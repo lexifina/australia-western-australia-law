@@ -85,7 +85,7 @@ Done at Brussels, this tenth day of October 1957, in the French and English lang
 PROTOCOL OF SIGNATURE
 (1)Any State, at the time of signing, ratifying or acceding to this Convention may make any of the reservations set forth in paragraph (2). No other reservations to this Convention shall be admissible.
 (2)The following are the only reservations admissible:
-(a) Reservation of the right to exclude the application of Article 1 paragraph (1) (c).
+(a) Reservation of the right to exclude the application of Article 1 paragraph (1)(c).
 (b) Reservation of the right to regulate by specific provisions of national law the system of limitation of liability to be applied to ships of less than 300 tons.
 (c) Reservation of the right to give effect to this Convention either by giving it the force of law or by including in national legislation, in a form appropriate to that legislation, the provisions of this Convention.
 (Here follow the signatures of the Plenipotentiaries of the States on behalf of which the Protocol was signed.)

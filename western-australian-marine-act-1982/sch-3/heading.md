@@ -530,10 +530,10 @@ The range of audibility of the signal from a whistle shall be determined by thos
 (iii) 250-700 Hz, for a vessel less than 75 metres in length.
 (c) Sound signal intensity and range of audibility. A whistle fitted in a vessel shall provide, in the direction of maximum intensity of the whistle and at a distance of 1 metre from it, a sound pressure level in at least one 1/3rd-octave band within the range of frequencies 180-700 Hz (± 1 per cent) of not less than the appropriate figure given in the table below.
 Length of vessel in metres | 1/3rd-octave band level at 1 metre in dB referred to 2 x 10-5 N/m2 | Audibility range in nautical miles
-200 or more ......................……………. | 143 | 2
-75 but less than 200…………………… | 138 | 1.5
-20 but less than 75…………………….. | 130 | 1
-Less than 20…………………………… | 120 | 0.5
+200 or more ........................................... | 143 | 2
+75 but less than 200 ............................... | 138 | 1.5
+20 but less than 75 ................................. | 130 | 1
+Less than 20 ........................................... | 120 | 0.5
 The range of audibility in the table above is for information and is approximately the range at which a whistle may be heard on its forward axis with 90 per cent probability in conditions of still air on board a vessel having average background noise level at the listening posts (taken to be 68 dB in the octave band centred on 250 Hz and 63 dB in the octave band centred on 500 Hz).
 In practice the range at which a whistle may be heard is extremely variable and depends critically on weather conditions; the values given can be regarded as typical but under conditions of strong wind or high ambient noise level at the listening post the range may be much reduced.
 (d) Directional properties. The sound pressure level of a directional whistle shall be not more than 4 dB below the sound pressure level on the axis at any direction in the horizontal plane within ± 45 degrees of the axis. The sound pressure level at any other direction in the horizontal plane shall be not more than 10 dB below the sound pressure level on the axis, so that the range in any direction will be at least half the range on the forward axis. The sound pressure level shall be measured in that 1/3rd-octave band which determines the audibility range.
