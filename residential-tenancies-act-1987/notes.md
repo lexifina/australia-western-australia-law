@@ -28,10 +28,11 @@ Reprint 4: The Residential Tenancies Act 1987 as at 20 Jul 2007 (includes amendm
 Legal Profession Act 2008 s. 698 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Standardisation of Formatting Act 2010 s. 29 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Acts Amendment (Fair Trading) Act 2010 s. 189 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
+Residential Tenancies Amendment Act 2011 s. 5(2) (to the extent that it inserts the definition of lessor), 42(1) and (2), 45(1), 57, 58, 60, 69, 88, 89 (to the extent that it amends s. 71) and 90-95 | 60 of 2011 | 14 Dec 2011 | 30 Jul 2012 (see s. 2(b) and Gazette 27 Jul 2012 p. 3663)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Residential Tenancies Amendment Act 2011 s. 3 and Pt. 2-4 | 60 of 2011 | 14 Dec 2011 | To be proclaimed (see s. 2(b))
+Residential Tenancies Amendment Act 2011 s. 3-5 (except to the extent that it inserts the definition of lessor), 6-41, 42(3), 43-44, 45(2), 46-56, 59, 61-68, 70-87, 89 (except to the extent that it amends s. 71) and Pt. 4 (s. 96) | 60 of 2011 | 14 Dec 2011 | 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
 The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
@@ -54,7 +55,7 @@ In this Division —
 commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
-On the date as at which this compilation was prepared, the Residential Tenancies Amendment Act 2011 s. 3 and Pt. 2-4 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Residential Tenancies Amendment Act 2011 s. 3-5 (except to the extent that it inserts the definition of lessor), 6-41, 42(3), 43-44, 45(2), 46-56, 59, 61-68, 70-87, 89 (except to the extent that it amends s. 71) and Pt. 4 (s. 96) had not come into operation. They read as follows:
 3.Act amended
 This Act amends the Residential Tenancies Act 1987.
 Part 2 — General amendments
@@ -69,11 +70,6 @@ tenant
 bond means a security bond or a tenant compensation bond;
 bond administrator means the Commissioner as defined in the Fair Trading Act 2010 section 6;
 expiry day, in relation to a residential tenancy agreement that creates a tenancy for a fixed term, means the day on which the residential tenancy agreement would (but for the operation of this Act) upon its terms have terminated by effluxion of time or the happening of an event;
-lessor —
-(a)means a person who grants the right to occupy residential premises under a residential tenancy agreement; and
-(b)includes —
-(i)a personal representative, successor or assignee of a lessor; and
-(ii)where the context requires, a prospective, or former, lessor;
 property manager means a person who is —
 (a)licensed under the Real Estate and Business Agents Act 1978; and
 (b)in relation to a residential tenancy agreement, the agent of the lessor of the premises to which the agreement relates;
@@ -507,10 +503,6 @@ reasonable time means —
 (b) must not, without the tenant’s consent, stay or permit others to stay on the premises longer than is necessary to achieve the purpose of the entry.
 (8) It is a term of every residential tenancy agreement that the lessor is to compensate the tenant if the lessor or any person accompanying the lessor causes damage to the tenant’s goods on the premises when exercising a right of entry under subsection (2).
 42.Section 47 amended
-(1) In section 47(1) delete “An agreement” and insert:
-A residential tenancy agreement
-(2) In section 47(2)(b) and (c) delete “he” (each occurrence) and insert:
-the tenant
 (3) After section 47(2) insert:
 (3) It is a term of every residential tenancy agreement that —
 (a) the lessor may affix any fixture or make any renovation, alteration or addition to the premises, but only with the tenant’s consent; and
@@ -540,11 +532,6 @@ and
 (ii) the agreed method of calculating referred to in paragraph (b)(ii),
 and the amount of GST payable in respect of the provision of the public utility service to the residential premises.
 45.Section 49 amended
-(1) In section 49(1):
-(a) delete “An agreement” and insert:
-A residential tenancy agreement
-(b) in paragraphs (a), (b) and (c) delete “his” and insert:
-the tenant’s
 (2) In section 49(2)(b) delete “his” and insert:
 the lessor’s
 46.Section 50 amended
@@ -672,11 +659,6 @@ Penalty: a fine of $20 000.
 (2) A property manager of residential premises who, without reasonable excuse alters, removes or adds a lock or other means of securing the residential premises without the consent of the tenant given at, or immediately before, the time that the alteration, removal or addition is carried out, in addition to any civil liability that the property manager might incur, commits an offence.
 Penalty: a fine of $20 000.
 (3) The liability of a person in civil proceedings is not affected by the commencement of proceedings against the person for an offence under this section or the conviction of the person in proceedings for the offence.
-57.Part V Division 1 heading inserted
-At the beginning of Part V insert:
-Division 1 — How residential tenancy agreements are terminated
-58.Section 59 deleted
-Delete section 59.
 59.Section 60 amended
 (1) In section 60(1):
 (a) delete “(1) Notwithstanding” and insert:
@@ -692,9 +674,6 @@ except in one of the following circumstances —
 (e) after paragraph (h) insert:
 (i) where every tenant dies.
 (2) Delete section 60(2) and (3).
-60.Part V Division 2 heading inserted
-After section 60 insert:
-Division 2 — Notices of termination
 61.Section 61 replaced
 Delete section 61 and insert:
 61.Form of notice of termination by lessor
@@ -760,9 +739,6 @@ possession day means the day specified in a notice as the day on which possessio
 (a) the day on which the term of the agreement is to expire under subsection (5)(a) is the possession day under a notice given by the lessor; and
 (b) the tenant delivers up possession of the premises after the expiry day but before the possession day,
 then the day on which the tenant delivers up possession of the premises is to be taken to be the possession day for the purposes of subsection (5).
-69.Part V Division 4 heading inserted
-Before section 71 insert:
-Division 4 — Orders for termination of residential tenancy agreement
 70.Section 71 amended
 (1) In section 71(1) after “under this Act” insert:
 except under section 70A
@@ -1256,26 +1232,6 @@ and
 pay the amount of the tenant compensation bond, or part of that amount, ordered by the court in accordance with the application.
 Note:The heading to amended Schedule 1 clause 8 is to read:
 Court may determine disposal of security bond
-88.Various references to “agreement” amended
-In the provisions listed in the Table delete “an agreement” and insert:
-a residential tenancy agreement
-Table
-s. 30(2)(a) | s. 33(2)
-s. 47(2) | s. 49(2)
-s. 49(3) | s. 52
-s. 57(1) | s. 57(2)
-s. 60(1) (first occurrence) | s. 62(1)
-s. 62(6) | s. 62(7)
-s. 67 | s. 68(1)
-s. 68(3) | s. 69(1)
-s. 69(4) | s. 70
-s. 71(1) | s. 71(5)
-s. 72(4) | s. 73(1)
-s. 73(2) | s. 74(1)
-s. 74(2) | s. 75(1)
-s. 75(2) | s. 78(1)
-s. 79(1) | s. 79(2)
-s. 79(6) | s. 80 (each occurrence)
 89.Various references to “owner” amended
 In the provisions listed in the Table:
 (a) delete “An owner” (each occurrence) and insert:
@@ -1304,9 +1260,7 @@ s. 62(2) | s. 62(4)(b)
 s. 62(5)(a), (b) | s. 65(1)(a), (b)
 s. 65(2) | s. 66
 s. 68(1) | s. 69(1)(b)
-s. 69(2) | s. 71(1)
-s. 71(2)(a), (b) | s. 71(3)(a), (b)(i), (ii), (iii)
-s. 71(4) | s. 72(3)(a)(i), (b)(i)
+s. 69(2) | s. 72(3)(a)(i), (b)(i)
 s. 73(1) | s. 75(1)
 s. 76(1) | s. 76(2)
 s. 78(1) | s. 78(2)
@@ -1328,135 +1282,9 @@ s. 62 | Notice of termination by lessor upon ground of breach of term of agreeme
 s. 65 | Termination by lessor where section 32 invoked
 s. 66 | Notice by lessor not waived by acceptance of rent
 s. 69 | Notice of termination by lessor or tenant where agreement frustrated
-s. 71 | Application by lessor for termination and order for possession
 s. 75 | Termination of agreement for breach by lessor
 s. 76 | Compensation to lessor for holding over
 s. 78 | Right of lessor to compensation where tenant abandons premises
-Part 3 — Amendments relating to terminating social housing tenancy agreements
-90.Section 3 amended
-In section 3 insert in alphabetical order:
-social housing premises has the meaning given in section 71A;
-social housing provider has the meaning given in section 71A;
-social housing tenancy agreement has the meaning given in section 71A;
-91.Section 60 amended
-In section 60(1)(c) delete “74” and insert:
-74, 75A
-92.Part V Division 3 inserted
-After section 70 insert:
-Division 3 — Special provisions about terminating social housing tenancy agreements
-Subdivision 1 — Preliminary
-71A.Terms used
-In this Division —
-criteria means the criteria approved under section 71E;
-Housing Authority means the Housing Authority referred to in the Housing Act 1980 section 6(4);
-Minister for Housing means the Minister to whom the administration of the Housing Act 1980 is committed;
-social housing premises means residential premises let by a social housing provider under a social housing tenancy agreement, but does not include any premises that are excluded by regulation from the ambit of this definition;
-social housing provider means any of the following —
-(a)the Housing Authority;
-(b)a body or person prescribed, or of a class prescribed, for the purposes of this definition;
-social housing tenancy agreement means a residential tenancy agreement in respect of social housing premises, but does not include any agreement that is excluded by regulation from the ambit of this definition.
-71B.Application of Division
-This Division does not limit the operation of the other provisions of this Part in relation to residential tenancy agreements that are social housing tenancy agreements.
-Subdivision 2 — Notice of termination where tenant not eligible for social housing premises
-71C.Notice of termination by lessor on ground that tenant not eligible for social housing premises
-A lessor under a social housing tenancy agreement may give notice of termination of the agreement to the tenant on the ground that the lessor has determined, as the result of an assessment carried out under section 71D, that the tenant is not eligible to reside in social housing premises, or to reside in the class of social housing premises to which the agreement relates.
-71D.Assessment of tenants eligibility for social housing premises
-(1) In carrying out an assessment of the eligibility of a tenant under a social housing tenancy agreement (the agreement) to reside in social housing premises, or to reside in the class of social housing premises to which the agreement relates, the lessor is to apply the criteria approved under section 71E for the purposes of this Subdivision.
-(2) The lessor may request the tenant to provide any information that is reasonably required to enable the lessor to determine whether the tenant meets the criteria for the purposes of an assessment under this section.
-(3) If the tenant refuses to provide any such information to the lessor, the lessor may determine, without further inquiry, that the tenant is not eligible to reside in social housing premises, or to reside in the class of social housing premises to which the agreement relates.
-(4) In the case of a social housing tenancy agreement that creates a tenancy for a fixed term, an assessment under this section may not be carried out prior to 6 months before the end of the term.
-71E.Criteria for assessing eligibility of tenants for social housing premises under section 71D
-(1) The Minister for Housing is to approve criteria for the purposes of this Subdivision.
-(2) The criteria may differ from the criteria used to assess a person’s eligibility to commence residing in social housing premises, or in a particular class of social housing premises.
-(3) The criteria must not relate to whether or not a tenant has complied with any term of a residential tenancy agreement.
-(4) The criteria must be made publicly available.
-(5) A copy of the criteria must be provided, on request, to any tenant under a social housing tenancy agreement free of charge and to other persons either free of charge or on payment of the reasonable cost incurred in copying the criteria.
-71F.Review of decision to give notice on ground that tenant not eligible for social housing premises
-(1) Before giving notice of termination of a social housing tenancy agreement to a tenant on the ground referred to in section 71C, the lessor must advise the tenant of the decision to do so by notice in writing.
-(2) A notice given under this section must —
-(a) contain particulars of the reasons why the tenant is no longer considered eligible to reside in the premises; and
-(b) state that the tenant may apply to the lessor for a review of the decision within 30 days after the notice is given and give particulars of how such an application may be made; and
-(c) state that the tenant is entitled to make representations to the lessor in writing, or (if the tenant wishes) orally, as to why the agreement should not be terminated.
-(3) The tenant may, in accordance with the notice —
-(a) apply to the lessor for a review of the decision; and
-(b) make representations in writing, or (if the tenant wishes) orally, to the lessor as to why the agreement should not be terminated.
-(4) If the tenant applies to the lessor for a review under this section, the lessor must review the decision, in accordance with any procedures approved by the Minister for Housing for the purposes of this section, and consider any representations made by the tenant.
-(5) After the review is carried out, the lessor may —
-(a) give notice of termination of the agreement on the ground referred to in section 71C; or
-(b) advise the tenant, by notice in writing, that the lessor has decided not to give notice of termination of the agreement.
-71G.Time periods to be observed where notice of termination given under this Subdivision
-(1) A notice of termination of a social housing tenancy agreement cannot be given to a tenant on the ground referred to in section 71C before the later of the following —
-(a) the end of the 30 day period within which the tenant may apply for a review under section 71F of the decision to give notice of termination;
-(b) the end of any such review carried out in respect of that decision.
-(2) The notice of termination cannot specify as the day on which vacant possession of the premises is to be delivered up to the lessor a day that is earlier than —
-(a) in the case of a social housing tenancy agreement that creates a tenancy for a fixed term, 60 days after the day on which the notice is given or the day the term of the agreement ends, whichever is the later; or
-(b) in any other case, 60 days after the day on which the notice of termination is given.
-Subdivision 3 — Notice of termination where tenant offered alternative social housing premises
-71H.Notice of termination by lessor where tenant offered alternative social housing premises
-A lessor under a social housing tenancy agreement may give notice of termination of the agreement (the existing agreement) to the tenant on the ground that the lessor has offered to enter into a new social housing tenancy agreement with the tenant in respect of alternative premises to the premises the subject of the existing agreement.
-71I.Review of decision to give notice on ground that tenant offered alternative social housing premises
-(1) Before giving notice of termination of a social housing tenancy agreement to a tenant on the ground referred to in section 71H, the lessor must advise the tenant of the decision to do so by notice in writing.
-(2) The lessor may make the offer to enter into a new social housing tenancy agreement and give notice of the decision at the same time.
-(3) A notice given under this section must —
-(a) contain particulars of the reasons why the lessor wishes the tenant to move to alternative premises; and
-(b) state that the tenant may apply to the lessor for a review of the decision within 30 days after the notice is given and give particulars of how such an application may be made; and
-(c) state that the tenant is entitled to make representations to the lessor in writing, or (if the tenant wishes) orally, as to why the existing agreement should not be terminated.
-(4) The tenant may, in accordance with the notice —
-(a) apply to the lessor for a review of the decision; and
-(b) make representations in writing, or (if the tenant wishes) orally, to the lessor as to why the existing agreement should not be terminated.
-(5) If the tenant applies to the lessor for a review under this section, the lessor must review the decision, in accordance with any procedures approved by the Minister for Housing for the purposes of this section, and consider any representations made by the tenant.
-(6) After the review is carried out, the lessor may —
-(a) give notice of termination of the existing agreement on the ground referred to in section 71H; or
-(b) advise the tenant, by notice in writing, that the lessor has decided not to give notice of termination of the existing agreement; or
-(c) make a new offer to the tenant to enter into a new social housing tenancy agreement in respect of alternative premises that differ from those the subject of the offer in respect of which the review was carried out.
-(7) If a new offer is made under subsection (6)(c), subsections (1) to (6) apply in relation to giving notice of termination in connection with the new offer.
-(8) If the situation referred to in subsection (7) applies, the lessor is required to give a second notice, and the tenant is entitled to a second review, under this section, however, the lessor is not required to give any further notice, and the tenant is not entitled to any further review, under this section in relation to giving notice of termination following a second review.
-71J.Time periods to be observed where notice of termination given under this Subdivision
-(1) A notice of termination of a social housing tenancy agreement cannot be given to a tenant on the ground referred to in section 71H before the later of the following —
-(a) the end of the 30 day period within which the tenant may apply for any review under section 71I of the decision to give the notice of termination;
-(b) the end of any such review carried out in respect of that decision.
-(2) Despite subsection (1), if the lessor and tenant enter into a new social housing tenancy agreement before the end of that 30 day period or any such review, the notice of termination may be given on or after the day on which they enter into the new agreement.
-(3) The notice of termination cannot specify a day earlier than 60 days after the day on which the notice is given as the day on which vacant possession of the premises the subject of the existing agreement is to be delivered up to the lessor, unless it specifies an earlier day to which the tenant has consented.
-(4) The notice of termination is ineffective unless the alternative premises in connection with which the notice of termination is given are available for occupation no later than 7 days before the date specified in the notice as the day on which vacant possession is to be delivered up to the lessor.
-(5) In the case of a social housing tenancy agreement that creates a tenancy for a fixed term, the notice of termination is not ineffective merely because a day earlier than the day on which the term ends is specified as the day on which vacant possession is to be delivered up to the lessor.
-93.Section 71 amended
-(1) In section 71(2):
-(a) in paragraph (b) after “Act,” insert:
-other than a notice given by a lessor on a ground referred to in section 71C or 71H,
-(b) in paragraph (b) delete “agreement.” and insert:
-agreement; and
-(c) after paragraph (b) insert:
-(c) where the notice was given by a lessor upon a ground referred to in section 71C or 71H, in respect of the relevant matters referred to in subsection (3A).
-(2) After section 71(2) insert:
-(3A) The matters in respect of which the court is to be satisfied for the purposes of subsection (2)(c) in respect of a social housing tenancy agreement are —
-(a) where the notice was given by the lessor upon a ground referred to in section 71C, that the tenant is not eligible to reside in social housing premises, or to reside in the class of social housing premises to which the agreement relates under the criteria approved under section 71E for the purposes of Division 3 Subdivision 2; or
-(b) where the notice was given by the lessor upon a ground referred to in section 71H, that the lessor has offered to enter into a new social housing tenancy agreement with the tenant in respect of alternative premises to the premises the subject of the existing agreement and those alternative premises (which might or might not be the same as the premises in connection which the notice was given) are available for occupation by the tenant.
-(3B) The court is not to make an order terminating a social housing tenancy agreement on a ground referred to in section 71C or 71H unless it is satisfied that —
-(a) any notice required to be given under section 71F or 71I before giving notice of termination was given and that it was given in accordance with that section; and
-(b) any review required to be carried out under section 71F or 71I was carried out and that it was carried out in accordance with that section.
-(3C) Without limiting the obligations of the court under subsection (2), in considering the circumstances of a case concerning social housing premises under that provision, the court, in addition to having regard to the circumstances of the tenant and other circumstances of the case, is to have regard to such of the following matters as may be relevant —
-(a) any serious adverse effects the tenancy has had on neighbouring residents or other persons;
-(b) whether any breach of the residential tenancy agreement was a serious one, and whether, given the behaviour or likely behaviour of the tenant, a failure to terminate the agreement would subject, or continue to subject, neighbouring residents or any persons or property to unreasonable risk;
-(c) the lessor’s responsibility to its other tenants;
-(d) whether the tenant, wilfully or otherwise, is or has been in breach of an order of the court;
-(e) the history of the tenancy concerned, including, if the tenant is a tenant under a social housing tenancy agreement, any prior tenancy of the tenant arising under any such agreement.
-94.Section 73A inserted
-After section 72 insert:
-73A.Notice of termination not required in certain cases
-An application under section 73, 74, 75A or 75 may be made whether or not notice of termination has been given.
-95.Section 75A inserted
-After section 74 insert:
-75A.Termination of social housing tenancy agreement due to objectionable behaviour
-(1) A competent court may, upon application by the lessor under a social housing tenancy agreement, terminate the agreement if it is satisfied that the tenant has —
-(a) used the social housing premises, or caused or permitted the social housing premises to be used, for an illegal purpose; or
-(b) caused or permitted a nuisance by the use of the social housing premises; or
-(c) interfered, or caused or permitted any interference, with the reasonable peace, comfort or privacy of any person who resides in the immediate vicinity of the premises,
-and that the behaviour justifies terminating the agreement.
-(2) The court may, on an application made under this section, make such other orders or give such other directions as the court in the circumstances of the case thinks fit, including, if there has been a breach of the agreement, making any order that the court may make under section 15.
-(3) In deciding if the behaviour justifies terminating the agreement, or making any order or giving any direction referred to in subsection (2), the court may have regard to whether the behaviour was recurrent and, if it was recurrent, the frequency of the recurrences.
-(4) Subsection (3) does not limit the issues to which the court may have regard.
-(5) Where a court terminates a social housing tenancy agreement under this section, it must also make an order for possession of the social housing premises and must specify a day as from which the orders are to operate that it considers, in the circumstances of the case, appropriate.
-(6) For the purposes of section 16(1), an order made by the court under subsection (2) is to be taken to have been made under section 15(2).
 Part 4 — Amendments relating to residential tenancy databases
 96.Part VIA inserted
 After section 81 insert:
@@ -1596,3 +1424,38 @@ Penalty: a fine of $5 000.
 (a) other personal information about the person in the database is attached to the name; and
 (b) the other personal information is not required to be removed under subsection (2) or another law.
 (4) This section does not limit the operation of another provision of this Part or of another law that requires the removal of the personal information.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+agent22(6)
+agreement37, 71D(1)
+authorised agentSch. 1, cl. 1
+authorised financial institutionSch. 1, cl. 1
+bond administratorSch. 1, cl. 1
+Commissioner3
+competent court3
+criteria71A
+Department3
+executive officer7A(3)
+existing agreement71H
+Housing Authority71A
+information11A(3)
+legal practitioner22(6)
+legally qualified person22(6)
+lessor3
+Minister for Housing71A
+owner3, 79(16)
+party9(10)
+premises3, 38(2), 40(2), 42(2), 43(4), 44(2), 46(2)
+prescribed amount12
+prescribed dispute12
+rent3
+Rental Accommodation Account79(16)
+residential premises3
+residential tenancy agreement3
+security bond3
+social housing premises3, 71A
+social housing provider3, 71A
+social housing tenancy agreement3, 71A
+tenancy3
+tenant3, 9(10)
