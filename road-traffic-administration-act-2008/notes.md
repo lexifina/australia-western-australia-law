@@ -3,17 +3,14 @@ This is a compilation of the Road Traffic (Administration) Act 2008 and includes
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic (Administration) Act 2008 s. 1 and 2 | 39 of 2008 | 15 Aug 2008 | 15 Aug 2008 (see s. 2(a))
-Trade Measurement Legislation (Amendment and Expiry) Act 2010 s. 10 | 54 of 2010 | 8 Dec 2010 | 8 Dec 2010 (see s. 2(b)(ii))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 | 39 of 2008 (as amended by No. 39 of 2009 s. 11, No. 54 of 2010 s. 10) | 15 Aug 2008 | To be proclaimed (see s. 2(b))
-Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 3 | 39 of 2009 | 3 Dec 2009 | 1 Jan 2010 (see s. 2(b))
-Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 3 | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
+Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 | 39 of 2008 (as amended by No. 39 of 2009 s. 11, No. 51 of 2010 s. 17, No. 54 of 2010 s. 10) | 15 Aug 2008 | To be proclaimed (see s. 2(b))
 Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 3 | 14 of 2011 | 25 May 2011 | On commencement of the Road Traffic (Administration) Act 2008 other than s. 1 and 2 (see s. 2(b) and Gazette 30 Aug 2011 p. 3503)
 Road Traffic Legislation Amendment (Information) Act 2011 Pt. 3 | 18 of 2011 | 2 Jun 2011 | On commencement of the Road Traffic (Administration) Act 2008 other than s. 1 and 2 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611)
 Road Traffic Legislation Amendment Act 2012 Pt. 5 | 8 of 2012 | 21 May 2012 | Pt. 5 (s. 208(1), 210, 211, 212 & 224): operative on commencement of the Road Traffic Legislation Amendment (Information) Act 2011 Pt. 3 (see s. 2(e)); Pt. 5 (other than s. 208(1), 210, 211, 212 & 224): operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(f))
-On the date as at which this compilation was prepared, the Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 (as amended by the Road Traffic (Administration) Act 2008 s. 11) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 (as amended by the Road Traffic Legislation Amendment (Registration Labels) Act 2009 s. 11, the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 17 and the Trade Measurement Legislation (Amendment and Expiry) Act 2010 s. 10) had not come into operation. They read as follows:
 “
 3.Crown bound
 (1) Each of the road laws binds the Crown in right of the State and, so far as the legislative power of the Parliament of the State permits, the Crown in all its other capacities.
@@ -1218,8 +1215,8 @@ speed measuring equipment means apparatus of a type approved by the Minister und
 (7) In a prosecution mentioned in subsection (5), evidence by an authorised person that apparatus used by the person was distance measuring equipment is prima facie evidence of that fact.
 (8) In a prosecution mentioned in subsection (4) or (5), a certificate purporting to be signed by the Commissioner of Police certifying that a specified person is, or was at the material time, a person certified by the Commissioner as being competent to use distance measuring equipment or to use speed measuring equipment is prima facie evidence of the matters in the certificate, without proof of the signature of the person purporting to have signed it or proof that the purported signatory was the Commissioner.
 (9) Nothing in this section is to be construed as precluding or restricting the introduction of any competent evidence, whether in addition to, or independent of, any evidence for which provision is made by this section, bearing on the question of whether a person was or was not guilty of an offence under a written law.
-(10) The Commissioner of Police may, either generally or as provided by the instrument of delegation, delegate to any person the performance of the Commissioner’s functions under this section, other than this power of delegation.
-(11) Unless the contrary is proved, it is to be presumed that a certificate purporting to have been signed by a person as a delegate of the Commissioner of Police was signed by the person in the performance of a function that at the time was delegated to the person by the Commissioner.
+[(10), (11)deleted]
+[Section 117 amended by No. 51 of 2010 s. 17.]
 118.Proof of transport, journey documentation
 In a prosecution for an offence under a road law, transport documentation or journey documentation is admissible without further proof and the following matters mentioned in the documentation are to be taken to be proved in the absence of proof to the contrary —
 (a) the identity and status of the parties to the transaction to which it relates, including a person’s status as an involved person;
@@ -1500,20 +1497,6 @@ Division 2 — Amendments to regulations as a consequence of certain 2008 enactm
 (1) The Governor, on the recommendation of the Minister to whom the administration of this Act is committed (the Minister), may make regulations amending subsidiary legislation made under any Act.
 (2) The Minister may make a recommendation under subsection (1) only if the Minister considers that each amendment proposed to be made by the regulations is necessary or desirable as a consequence of the enactment of this Act, the Road Traffic (Authorisation to Drive) Act 2008, the Road Traffic (Vehicles) Act 2008 or the Road Traffic (Consequential Provisions) Act 2008.
 (3) Nothing in this section prevents subsidiary legislation from being amended in accordance with the Act under which it was made.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Road Traffic (Administration) Act 2008 amended
-10.Act amended
-This Part amends the Road Traffic (Administration) Act 2008.
-11.Section 36 amended
-(1) In section 36(2)(b), (c), (d), (e)(i), (ii) and (iii), (f) and (g) delete “registration” (each occurrence).
-(2) In section 36(3) insert in alphabetical order —
-label means a label issued under a regulation mentioned in the Road Traffic (Vehicles) Act 2009 section 15 or 26;
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Road Traffic (Administration) Act 2008 amended
-16.Act amended
-This Part amends the Road Traffic (Administration) Act 2008.
-17.Section 117 amended
-Delete section 117(10) and (11).
 On the date as at which this compilation was prepared, the Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 3 had not come into operation. It reads as follows:
 Part 3 — Road Traffic (Administration) Act 2008 amended
 17.Act amended
