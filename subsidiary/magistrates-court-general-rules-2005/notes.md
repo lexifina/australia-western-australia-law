@@ -13,6 +13,7 @@ Reprint 1: The Magistrates Court (General) Rules 2005 as at 13 Feb 2009 (include
 Magistrates Court (General) Amendment Rules 2010 | 7 Jan 2011 p. 51-2 | r. 1 and 2: 7 Jan 2011 (see r. 2(a)); Rules other than r. 1 and 2: 8 Jan 2011 (see r. 2(b))
 Magistrates Court (General) Amendment Rules 2011 | 15 Feb 2011 p. 536-8 | r. 1 and 2: 15 Feb 2011 (see r. 2(a)); Rules other than r. 1 and 2: 4 Jul 2011 (see r. 2(b) and Gazette 20 May 2011 p. 1837)
 Magistrates Court (General) Amendment Rules (No. 2) 2011 | 17 May 2011 p. 1823 | r. 1 and 2: 17 May 2011 (see r. 2(a)); Rules other than r. 1 and 2: 18 May 2011 (see r. 2(b))
+Magistrates Court (General) Amendment Rules 2012 | 31 Jul 2012 p. 3689-95 | r. 1 and 2: 31 Jul 2012 (see r. 2(a)); Rules other than r. 1 and 2: 1 Aug 2012 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
