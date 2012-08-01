@@ -74,13 +74,12 @@ Reprint 9: The Workers’ Compensation and Injury Management Act 1981 as at 25 F
 Workers’ Compensation and Injury Management Amendment Act 2011 | 31 of 2011 | 31 Aug 2011 | s. 1 and 2: 31 Aug 2011 (see s. 2(a)); s. 3 and Pt. 3 other than s. 123(2)-(7): 1 Oct 2011 (see s. 2(b) and Gazette 23 Sep 2011 p. 3811); Pt. 2 Div. 1 and 2: 1 Dec 2011 (see s. 2(b) and Gazette 8 Nov 2011 p. 4673)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 7 and 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 10: The Workers’ Compensation and Injury Management Act 1981 as at 3 Feb 2012 (includes amendments listed above except those in the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 16)
-Workers’ Compensation and Injury Management Amendment Act 2012 s. 1 and 2 | 12 of 2012 | 3 Jul 2012 | 3 Jul 2012 (see s. 2(a))
+Workers’ Compensation and Injury Management Amendment Act 2012 | 12 of 2012 | 3 Jul 2012 | Pt. 1: 3 Jul 2012 (see s. 2(a)); Act other than Pt. 1: 1 Aug 2012 (see s. 2(b) and Gazette 27 Jul 2012 p. 3663)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) | 31 of 2011 | 31 Aug 2011 | To be proclaimed (see s. 2(b))
-Workers’ Compensation and Injury Management Amendment Act 2012 Pt. 2 and 3 | 12 of 2012 | 3 Jul 2012 | To be proclaimed (see s. 2(b))
 Footnote no longer applicable.
 Under the Acts Amendment (ICWA) Act 1996 s. 31(2)(h), a reference to the State Government Insurance Corporation in a written law is, unless because of the context it would be inappropriate so to do, to be construed, or have effect, as if it had been amended to be a reference to the Insurance Commission of Western Australia.
 Repealed by the Industrial Relations (Consequential Provisions) Act 1998 (Cwlth). Now see Fair Work Act 2009 (Cwlth).
@@ -431,83 +430,7 @@ Amount Aa.
 one year mentioned in subclause (5), or if for part of that period the worker was not in the employment that the worker is in on the date of incapacity,
 (7) In Schedule 1 clause 11(7) delete “Amount D” and insert:
 Amount Aa
-On the date as at which this compilation was prepared, the Workers’ Compensation and Injury Management Amendment Act 2012 Pt. 2 and 3 had not come into operation. They read as follows:
-Part 2 — Workers’ Compensation and Injury Management Act 1981 amended
-3.Act amended
-This Part amends the Workers’ Compensation and Injury Management Act 1981.
-4.Section 159 amended
-(1) In section 159 delete the definition of damages.
-(2) In section 159 insert in alphabetical order:
-damages means —
-(a)damages due or payable to, or claimed by, a worker for an injury caused to that worker by the negligence, other tort or breach of statutory duty of the employer of the worker or the negligence of any person for whose conduct the employer is vicariously liable; or
-(b)damages due or payable to, or claimed by, a dependant of a deceased worker under the Fatal Accidents Act 1959 for an injury causing the death of the worker; or
-(c)damages due or payable to, or claimed on behalf of, the estate of a deceased worker under the Law Reform (Miscellaneous Provisions) Act 1941 for an injury causing the death of the worker; or
-(d)the amount of any contribution or indemnity due or payable to, or claimed by, a concurrent tortfeasor under the Law Reform (Contributory Negligence and Tortfeasors’ Contribution) Act 1947 in respect of an injury to, or death of, a worker,
-but does not include a liability imposed by contract that would not arise as a coordinate liability in negligence or other tort or breach of statutory duty;
-deemed worker, in relation to an employer, means —
-(a)a worker of whom the employer would not be the employer, but for being deemed by section 175(1) to be the employer; or
-(b)a person to whom the employer would be liable to pay compensation in the circumstances described in section 175AA(5)(a);
-insurable damages means damages in respect of which an employer is required by section 160(1)(b) to insure;
-5.Section 160 amended
-(1) Delete section 160(1)(b) and insert:
-(b) the amount of the employer’s liability to pay damages to or in respect of any worker employed by the employer, other than a deemed worker of the employer, in respect of a compensable injury for which the employer is liable.
-(2) Delete section 160(3) and insert:
-(3) An approved insurance office is to insure any employer requesting it for the amount of the liabilities for which the employer is required by subsection (1) to insure.
-Penalty: a fine of $2 000.
-(3) In section 160(4)(a) delete “damages in respect of compensable injuries for which the employer is liable; and” and insert:
-insurable damages; and
-6.Section 161A amended
-In section 161A delete “damages in respect of compensable injuries for which the employer is liable” and insert:
-insurable damages
-7.Section 165 amended
-(1) In section 165(2)(d) delete “damages in respect of compensable injuries for which the employer is liable,” and insert:
-insurable damages,
-(2) In section 165(3)(a) delete “damages in respect of compensable injuries for which the employer is liable; or” and insert:
-insurable damages; or
-8.Section 168 amended
-Delete section 168(b)(iii) and insert:
-(iii) there are no outstanding or potential —
-(I) claims for compensation; or
-(II) actions for insurable damages;
-or
-9.Section 169 replaced
-Delete section 169 and insert:
-169.Terms of insurance and form of policies
-(1) The regulations may —
-(a) limit, modify or exclude any requirement in section 160(1) to obtain or keep current an insurance policy in respect of liabilities arising in prescribed circumstances or out of prescribed events; and
-(b) limit the amount for which an employer is required by section 160(1) to obtain or keep current an insurance policy; and
-(c) otherwise limit, modify or exclude the requirement in section 160(1) to obtain or keep current an insurance policy.
-(2) The regulations may prescribe any or all of the terms and conditions of an insurance policy required by section 160(1).
-(3) The regulations may prescribe the form of any insurance policy required by section 160(1).
-10.Section 174 amended
-(1) In section 174(1) delete “shall” and insert:
-is, subject to subsection (5AA), to
-(2) In section 174(1AA) —
-(a) before paragraph (d) insert:
-(da) the damages awarded or agreed are, or include, insurable damages; and
-(b) in paragraph (d) after “to pay” insert:
-the insurable
-(c) in paragraph (d) after “claim for” insert:
-insurable
-(d) delete “subject to section 174AAA, WorkCover WA is” and insert:
-Workcover WA is, subject to subsection (5AA) and section 174AAA,
-(e) after “the amount required to satisfy the judgment or agreement” insert:
-to the extent that the judgment or agreement provides for the payment of insurable damages,
-(3) After section 174(5) insert:
-(5AA) Where WorkCover WA is to make a payment under subsection (1) or (1AA) to a worker in respect of an injury —
-(a) the amount of that payment is to be reduced by any amount of compensation payable to the worker by any employer in respect of the injury; and
-(b) the employer paying that compensation has no right under section 92 or 93 to recovery of, or indemnity for, the compensation from the worker.
-(5AB) Nothing in this section requires WorkCover WA to make any payment to the employer of a worker or to any person who is deemed by section 175(1) to be the employer of a worker.
-(4) In section 174(9) delete “or to pay damages to a worker in respect of a compensable injury,”.
-11.Section 174AB amended
-In section 174AB(1) delete “damages in respect of a compensable injury for which the employer is liable,” and insert:
-damages which are, or which include, insurable damages,
-12.Section 175 amended
-After section 175(2) insert:
-(3A) The indemnity conferred by subsection (2) does not allow the principal to recover from the worker —
-(a) any amount which the worker receives from the contractor by way of compensation or damages in respect of a compensable injury; or
-(b) any amount which the worker receives from WorkCover WA under section 174 in respect of the contractor’s liability to pay compensation or damages to the worker.
-(3B) The indemnity conferred by subsection (2) does not allow the principal to recover any amount from WorkCover WA.
+The Workers’ Compensation and Injury Management Amendment Act 2012 Pt. 3 reads as follows:
 Part 3 — Transitional
 13.Terms used
 In this Part —
@@ -593,6 +516,7 @@ decision5(1)
 decision of a specialised retraining assessment panel146V(9)
 decision of an approved medical specialist146J(2)
 decision of an approved medical specialist panel146O(7)
+deemed worker159
 defendant92, 93(1)(b)
 degree of disability93E(1)
 degree of impairment146
@@ -640,6 +564,7 @@ injury5(1), 93AC(a), 180(1)
 injury management5(1)
 injury management system155
 inspector5(1)
+insurable damages159
 Insurance Commission of Western Australia5(1)
 Joint Petroleum Development AreaSch. 6 cl. 1
 Legal Costs Committee269(1)
