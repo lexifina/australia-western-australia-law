@@ -101,30 +101,18 @@ Criminal Law Amendment (Homicide) Act 2008 s. 33 | 29 of 2008 | 27 Jun 2008 | 1 
 Reprint 15: The Evidence Act 1906 as at 23 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 7 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 5 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 11 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 31 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 5 | 11 of 2012 | 20 Jun 2012 | To be proclaimed (see s. 2(c))
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 “
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
 ”.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
 Repealed by the Defamation Act 2005.
-On the date as at which this compilation was prepared, the Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 5 had not come into operation. It reads as follows:
-Part 4 — Amendments to other Acts
-Division 5 — Evidence Act 1906 amended
-32.Act amended
-This Division amends the Evidence Act 1906.
-33.Section 19L amended
-Delete section 19L(4a) and insert:
-(5A) If in criminal proceedings leave is given under the protection provisions to require disclosure of —
-(a) a child care record as defined in the Child Care Services Act 2007 section 46(1), then section 46(5) to (8) of that Act applies as if the child care record had been produced in response to a requirement referred to in section 46(2) of that Act; or
-(b) protected information as defined in the Education and Care Services National Law (Western Australia) section 273(3), then section 46(5) to (8) of the Child Care Services Act 2007 applies as if the protected information —
-(i) was a child care record; and
-(ii) had been produced in response to a requirement referred to section 46(2) of that Act.
 -7Footnote no longer applicable.
 The Acts Amendment (Video and Audio Links) Act 1998 s. 3 reads as follows:
 “

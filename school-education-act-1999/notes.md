@@ -17,12 +17,12 @@ Reprint 2: The School Education Act 1999 as at 16 Mar 2007 (includes amendments 
 Training Legislation Amendment and Repeal Act 2008 s. 61 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
 Public Sector Reform Act 2010 s. 89 and 110 | 39 of 2010 | 1 Oct 2010 | s. 89: 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563) s. 110: 28 Mar 2011 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Curriculum Council Amendment Act 2011 Pt. 3 Div. 4 | 37 of 2011 | 13 Sep 2011 | 1 Mar 2012 (see s. 2(b) and Gazette 28 Feb 2012 p. 841)
+Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 7 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 s. 182(3) and 208 | 36 of 1999 | 2 Nov 1999 | To be proclaimed (see s. 2)
 Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 Pt. 3 | 1 of 2011 | 1 Mar 2011 | To be proclaimed (see s. 2(b))
-Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 7 | 11 of 2012 | 20 Jun 2012 | To be proclaimed (see s. 2(c))
 The provisions in this Act amending the other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Children and Community Services Act 2004.
 On the date as at which this compilation was prepared, the School Education Act 1999 s. 182(3) and 208 had not come into operation. They read as follows:
@@ -54,83 +54,7 @@ year 11 and year 12 have the meanings given to those terms by section 4 of the p
 as mentioned in section 11B(1) of the principal Act (inserted by section 20), notice under section 11D(1) of the principal Act (as so inserted) must be given no later than 1 February 2006.
 ”.
 The Financial Legislation Amendment and Repeal Act 2006 (now known as the Financial Management (Transitional Provisions) Act 2006) Sch. 2 deals with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 7 had not come into operation. It reads as follows:
-Part 4 — Amendments to other Acts
-Division 7 — School Education Act 1999 amended
-36.Act amended
-This Division amends the School Education Act 1999.
-37.Section 4 amended
-(1) In section 4 insert in alphabetical order:
-early education period for a child means the period before the child’s pre-compulsory education period;
-(2) In the definition of educational programme:
-(a) delete “student” and insert:
-student, or a child enrolled at a community kindergarten,
-(b) after “student’s” insert:
-or child’s
-38.Section 74A amended
-At the end of Part 3 Division 3 insert:
-74A.Educational programme for children in their early education period
-(1) An educational programme must not be provided at a government school for a child in the early education period for that child unless the Minister has approved the provision of the programme at the school.
-(2) The content and implementation of an educational programme referred to in subsection (1) is to be decided by the principal subject to the direction and control of the chief executive officer.
-(3) An organised set of learning activities provided at a government school for a child in the early education period for that child before the commencement of the Education and Care Services National Law (WA) Act 2012 Part 4 Division 7 is, and is to be taken to always have been, an educational programme lawfully and validly provided to a student under this Act.
-39.Section 77 amended
-In section 77 delete “in which the child’s pre-compulsory” and insert:
-before the child’s compulsory
-40.Section 82 amended
-Delete section 82(1) and insert:
-(1) This section applies to a child —
-(a) in the child’s —
-(i) pre-compulsory education period; or
-(ii) compulsory education period;
-and
-(b) in respect of whom an application for enrolment has been made under section 74 but who has not been enrolled in accordance with the application.
-41.Section 83 amended
-Delete section 83(1) and insert:
-(1) This section applies to a child —
-(a) in the child’s —
-(i) pre-compulsory education period; or
-(ii) compulsory education period;
-and
-(b) who is enrolled in a government school.
-42.Section 154 amended
-In section 154(1):
-(a) in paragraph (b) delete “period,” and insert:
-period; or
-(b) after paragraph (b) insert:
-(c) early education period,
-43.Section 156 amended
-In section 156(3):
-(a) delete “both” and insert:
-more
-(b) in paragraph (b) delete “period.” and insert:
-period;
-(c) after paragraph (b) insert:
-(c) education for children in their early education period or for any specified part of that period.
-44.Section 192 amended
-In section 192 delete “children in the first year of their pre-compulsory education period.” and insert:
-one or both of the following —
-(a) education for children in the first year of their pre-compulsory education period;
-(b) education for children in their early education period or for any specified part of that period.
-45.Section 197 amended
-In section 197(1) delete “kindergarten that is” and insert:
-kindergarten, specifying the kind or kinds of education, in terms of section 192, for which it is
-46.Section 199 amended
-In section 199(1)(b) delete “attendance is approved by the chief executive officer.” and insert:
-attendance —
-(i) is approved by the chief executive officer; or
-(ii) if the kindergarten is registered to provide the kind of education referred to in section 192(b), is in accordance with the regulations.
-47.Schedule 1 Division 1 heading inserted
-At the beginning of Schedule 1 insert:
-Division 1 — Transitional provisions for the commencement of this Act
-48.Schedule 1 Division 2 inserted
-At the end of Schedule 1 insert:
-Division 2 — Transitional provisions for the Education and Care Services National Law (WA) Act 2012
-24.Term used: commencement
-In this Division —
-commencement means the commencement of the Education and Care Services National Law (WA) Act 2012 section 48.
-25.Registration extended for a period of time
-(1) If, immediately before commencement, a non-government school was providing a kind of education referred to in section 156(3)(c), then after commencement, the registration of the school under section 160 is to be taken to extend to the provision of that kind of education.
-(2) Subject to Part 4, the registration provided for by subclause (1) continues in force for 3 years from the commencement.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 Pt. 3 had not come into operation. It reads as follows:
 Part 3 — School Education Act 1999 amended
 7.Act amended

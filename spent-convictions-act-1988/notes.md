@@ -47,12 +47,12 @@ Working with Children (Criminal Record Checking) Amendment Act 2010 Pt. 3 | 7 of
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Cannabis Law Reform Act 2010 Pt. 4 | 45 of 2010 | 28 Oct 2010 | 1 Aug 2011 (see s. 2(b) and Gazette 29 Jul 2011 p. 3127)
 Reprint 6: The Spent Convictions Act 1988 as at 5 Aug 2011 (includes amendments listed above)
+Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 8 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Misuse of Drugs Amendment Act 2011 Pt. 4 | 56 of 2011 | 21 Nov 2011 | To be proclaimed (see s. 2(b))
-Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 8 | 11 of 2012 | 20 Jun 2012 | To be proclaimed (see s. 2(c))
-Teacher Registration Act 2012 s. 169 | 16 of 2012 | 3 Jul 2012 | To be proclaimed (see s. 2(b))
+Teacher Registration Act 2012 s. 169 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
@@ -68,15 +68,7 @@ This Part amends the Spent Convictions Act 1988.
 13.Section 11 amended
 Delete section 11(6)(a)(i) and insert:
 (i) section 5(1)(d)(i) or 7B(6); or
-On the date as at which this compilation was prepared, the Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 8 had not come into operation. It reads as follows:
-Part 4 — Amendments to other Acts
-Division 8 — Spent Convictions Act 1988 amended
-49.Act amended
-This Division amends the Spent Convictions Act 1988.
-50.Schedule 3 amended
-In Schedule 3 clause 1(5) in the Table delete item 5 and insert:
-5.A person who holds, or is applying for, a licence to provide a child care service under the Child Care Services Act 2007. | Sections 18, 20 and 22 and Division 4
-6A.A person who holds, or is applying for — (a)a provider approval or, if that person is not an individual, each person who is, or will be, a person with management or control of an education and care service operated by the person, or to be operated by the applicant; or (b)a supervisor certificate, under the Education and Care Services National Law (Western Australia). | Sections 18, 20 and 22 and Division 4
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Teacher Registration Act 2012 s. 169 had not come into operation. It reads as follows:
 169.Spent Convictions Act 1988 amended
 (1) This section amends the Spent Convictions Act 1988.
