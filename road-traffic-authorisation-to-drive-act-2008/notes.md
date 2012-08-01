@@ -1,16 +1,15 @@
 Notes
-This is a compilation of the Road Traffic (Authorisation to Drive) Act 2008. The following table contains information about that Act.
+This is a compilation of the Road Traffic (Authorisation to Drive) Act 2008 and includes the amendments made by the other written laws referred to in the following table..
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic (Authorisation to Drive) Act 2008 s. 1 and 2 | 39 of 2008 | 15 Aug 2008 | 15 Aug 2008 (see s. 2(a))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic (Authorisation to Drive) Act 2008 s. 3 and Pt. 2-62 | 39 of 2008 | 15 Aug 2008 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b))
-Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 4 | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
+Road Traffic (Authorisation to Drive) Act 2008 s. 3 and Pt. 2-62 | 39 of 2008 (as amended by No. 51 of 2010 Pt. 4) | 15 Aug 2008 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b))
 Road Traffic Legislation Amendment (Information) Act 2011 Pt. 4 | 18 of 2011 | 2 Jun 2011 | Pt. 4 other than s. 24: operative on commencement of the Road Traffic (Administration) Act 2008 other than s. 1 and 2 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611); s. 25: to be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 6 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(f))
-On the date as at which this compilation was prepared, the Road Traffic (Authorisation to Drive) Act 2008 s. 3 and Pt. 2-6 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Road Traffic (Authorisation to Drive) Act 2008 s. 3 and Pt. 2-6 (as amended by Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 4) had not come into operation. They read as follows:
 “
 3.Terms used in this Act
 (1) In this Act —
@@ -166,8 +165,12 @@ the provisional licence is, by operation of this subsection, cancelled.
 (3) If the holder of a driver’s licence that is a provisional licence is disqualified under Part 4 from holding or obtaining a driver’s licence, the provisional licence is, by operation of this subsection, cancelled.
 (4) Regulations made for the purpose of subsection (1)(a)(v) may limit the application of that subsection to offences under the regulations mentioned in that subparagraph that are committed in prescribed circumstances.
 17.Suspension of provisional licence
-(1) If the holder of a driver’s licence that is a provisional licence is disqualified from holding or obtaining a driver’s licence by a licence suspension order made under the Fines, Penalties and Infringement Notices Enforcement Act 1994, the provisional licence is, by operation of this subsection, suspended so long as the disqualification continues in force.
+(1) If the holder of a driver’s licence that is a provisional licence is disqualified from holding or obtaining a driver’s licence —
+(a) by a licence suspension order made under the Fines, Penalties and Infringement Notices Enforcement Act 1994; or
+(b) by a disqualification notice given to the person under the Road Traffic Act 1974 section 71C,
+the provisional licence is, by operation of this subsection, suspended so long as the disqualification continues in force.
 (2) During the period of its suspension under subsection (1) a provisional licence is of no effect, but the provisions of this section do not operate so as to extend the period for which the licence may be valid or effective beyond the time when the licence would be due to expire.
+[Section 17 amended by No. 51 of 2010 s. 19.]
 18.Disqualification from holding provisional licence
 (1) In this section —
 unlicensed person means a person —
@@ -230,12 +233,10 @@ either make an order removing the disqualification from the day specified in the
 (10) Nothing in this section is to be construed as limiting or otherwise affecting any right that a person may have to appeal against an order or judgment of a court disqualifying the person from holding or obtaining a driver’s licence.
 (11) The CEO has a right to be heard in proceedings under this section and may be represented by any person the CEO authorises for that purpose.
 Division 3 — Extraordinary licences
-25.Terms used in this Division
+25.Term used: application
 In this Division —
-application, except in sections 35, 36 and 37, means an application under section 27;
-special application means an application made —
-(a)within 2 months after the applicant has been disqualified under the Road Traffic Act 1974 section 63(2)(a), 64AB(2)(a), 67(3)(a) or 67AA(3)(a) from holding or obtaining a driver’s licence; or
-(b)within one month after the applicant has been disqualified under the Road Traffic Act 1974 section 64(2)(a) or 67A(3)(a) from holding or obtaining a driver’s licence.
+application, except in sections 35, 36 and 37, means an application under section 27.
+[Section 25 inserted by No. 51 of 2010 s. 20.]
 26.Inconsistency with Part 2
 To the extent that anything in this Division may be inconsistent with anything in Part 2 or regulations made for the purposes of that Part, this Division prevails.
 27.Application for extraordinary licence
@@ -246,13 +247,15 @@ To the extent that anything in this Division may be inconsistent with anything i
 from being granted a driver’s licence does not amount to being disqualified under this or any other written law from holding or obtaining a driver’s licence.
 (3) An extraordinary licence cannot authorise a person to drive at any time while the person is disqualified from holding or obtaining a driver’s licence —
 (a) under Part 4; or
+(ba) under the Road Traffic Act 1974 section 71D(1); or
 (b) because of a licence suspension order under the Fines, Penalties and Infringement Notices Enforcement Act 1994,
-and an application cannot be made, received or heard while the person is disqualified as described in paragraph (a) or (b).
+and an application cannot be made, received or heard while the person is disqualified as described in paragraph (a), (ba) or (b).
 (4) In the case of a licence suspension order, subsection (3) has effect whether or not the disqualification under the order is concurrent with any other disqualification from holding or obtaining a driver’s licence.
+[Section 27 amended by No. 51 of 2010 s. 21.]
 28.When an application can be made
 (1) In this section —
 disqualified means disqualified from holding or obtaining a driver’s licence.
-(2) An application cannot be made to, or heard by, any court —
+(2) Subject to subsection (3), an application cannot be made to, or heard by, any court —
 (a) within 4 months after the applicant has been disqualified under the Road Traffic Act 1974 section 63(2)(b) or (c), 64AB(2)(b) or (c), 67(3)(b) or (c) or 67AA(3)(b) or (c); or
 (b) within 3 months after the applicant has been disqualified under the Road Traffic Act 1974 section 63(2)(a), 64AB(2)(a), 67(3)(a) or 67AA(3)(a) where the applicant has previously been convicted of an offence under the Road Traffic Act 1974 section 64 or 67A; or
 (c) within 3 months after the applicant has been disqualified under the Road Traffic Act 1974 section 64(2)(b) on conviction of an offence that is a third or subsequent offence for the purposes of the Road Traffic Act 1974 section 64(2); or
@@ -261,13 +264,15 @@ disqualified means disqualified from holding or obtaining a driver’s licence.
 (f) within 2 months after the applicant has been disqualified under the Road Traffic Act 1974 section 64(2)(b) where the applicant has previously been convicted of an offence under the Road Traffic Act 1974 section 67A; or
 (g) within 2 months after the applicant has been disqualified under the Road Traffic Act 1974 section 67A(3)(b) on conviction of an offence that is a second offence for the purposes of the Road Traffic Act 1974 section 67A(3); or
 (h) within 21 days after the applicant has been disqualified in any case not referred to in paragraph (a), (b), (c), (d), (e), (f) or (g).
-(3) Nothing in the definition of “special application” in section 25 is to be construed as enabling an application to be made or heard at a time when the making or hearing of the application is prohibited by subsection (2).
-(4) For the purposes of this section and the definition of “special application” in section 25 any period during which the applicant was imprisoned is not to be taken into account in determining whether a period of time has elapsed.
+(3) A period referred to in subsection (2) in relation to an offence is to be reduced by any period during which the applicant was disqualified by a disqualification notice given to the applicant under the Road Traffic Act 1974 section 71C in relation to the offence.
+(4) For the purposes of this section any period during which the applicant was imprisoned is not to be taken into account in determining whether a period of time has elapsed.
+[Section 28 amended by No. 51 of 2010 s. 22.]
 29.Court to which an application can be made
 (1) In the case of a disqualification imposed by the Supreme Court or the District Court an application is to be made to the court by which the disqualification was imposed.
 (2) In the case of a disqualification imposed by a court of summary jurisdiction, or a disqualification that takes effect by the operation of a provision of a road law, an application is to be made to the Magistrates Court or, in the case of a person under 18 years of age, the Children’s Court.
-(3) A special application is to be made to the District Court, the Magistrates Court or, in the case of a person under 18 years of age, the Children’s Court.
+[(3)deleted]
 (4) An application that is made to the Magistrates Court or the Children’s Court is to be heard by the court constituted by a magistrate.
+[Section 29 amended by No. 51 of 2010 s. 23.]
 30.Matters for consideration of court
 (1) A court may —
 (a) make an order directing the CEO, on payment of the prescribed fee, to grant to the applicant an extraordinary licence for a period not exceeding 12 months from the date on which it is granted as the court thinks fit; or
@@ -277,16 +282,17 @@ disqualified means disqualified from holding or obtaining a driver’s licence.
 (b) the character of the applicant; and
 (c) the circumstances of the case; and
 (d) the nature of the offence or offences giving rise to the disqualification; and
-(e) the conduct of the applicant subsequent to the disqualification; and
-(f) the degree of hardship and inconvenience which would otherwise result to the applicant and his or her family, if it refrains from making the order.
-(3) Despite subsections (1) and (2), if the Magistrates Court or the Children’s Court hears a special application the court must not make an order directing the grant of an extraordinary licence unless it is satisfied that the application is attended by circumstances of extreme hardship, but nothing in this subsection authorises or requires the court to make such an order if, having regard to any of the matters mentioned in subsection (2)(a), (b), (c), (d) or (e), it considers that the application should be refused.
-(4) For the purposes of subsection (3) an application is attended by circumstances of extreme hardship if the refusal of the application would —
+(e) the conduct of the applicant subsequent to the disqualification.
+[(f)deleted]
+[(3)deleted]
+(4) Despite subsections (1) and (2), the court must not make an order directing the grant of an extraordinary licence unless it is satisfied that the refusal of the application would —
 (a) deprive the applicant of the means of obtaining urgent medical treatment for an illness, disease or disability known to be suffered by the applicant or a person who is a member of his or her family; or
 (b) place an undue financial burden on the applicant or his or her family, by depriving the applicant of his or her principal means of obtaining income; or
 (c) deprive the applicant or a person who is a member of the applicant’s family of the only practicable means of travelling to and from the place at which the applicant or that person, as the case may be, is employed.
+[Section 30 amended by No. 51 of 2010 s. 24.]
 31.When further application can be made
-(1) If an application other than a special application is refused no further application can be made within 6 months after the date of the refusal.
-(2) If a special application is refused no further special application can be made unless the first-mentioned application was refused by the Magistrates Court or the Children’s Court and the further application is made to the District Court of Western Australia.
+If an application is refused no further application can be made within 6 months after the date of the refusal.
+[Section 31 inserted by No. 51 of 2010 s. 25.]
 32.Conditions
 An order directing the grant of an extraordinary licence may impose —
 (a) a condition requiring the applicant to comply with the requirements of regulations under Part 2 about applying for a driver’s licence before the extraordinary licence is granted to the applicant; and
@@ -319,9 +325,11 @@ An extraordinary licence ceases to have effect, despite the period for which it 
 (iv) is not of good character; or
 (v) should not, by reason of the number or nature of his or her convictions for offences incurred since the granting of the extraordinary licence, being offences under any road law or offences under the law in force in any other jurisdiction or other country of which the driving or using of a motor vehicle was an element, be the holder of a driver’s licence.
 36.How applications to be made
-An application that is made under section 27 or 35(1) or (2) or that is a special application is to be made in accordance with the rules of court to which it is made.
+An application that is made under section 27 or 35(1) or (2) is to be made in accordance with the rules of court to which it is made.
+[Section 36 amended by No. 51 of 2010 s. 26.]
 37.Costs of applications
-The court may order the applicant in an application that is made under section 27 or 35(1) or (2) or that is a special application to pay the whole or any part of the costs of the application.
+The court may order the applicant in an application that is made under section 27 or 35(1) or (2) to pay the whole or any part of the costs of the application.
+[Section 37 amended by No. 51 of 2010 s. 27.]
 38.Extraordinary licences to be complied with
 (1) A person who has an extraordinary licence must not drive on a road any motor vehicle —
 (a) at a time, for a purpose, or in a locality or on roads, other than as specified in the licence; or
@@ -465,7 +473,7 @@ post-commencement demerit points means current demerit points other than those r
 (i) the court is required by law to disqualify the person from holding or obtaining a driver’s licence but the disqualification is not required to be permanent; or
 (ii) the person is disqualified by operation of a road law from holding or obtaining a driver’s licence,
 the CEO is to give the person, in accordance with section 59, a notice in writing disqualifying the person from holding or obtaining a driver’s licence.
-(2) If subsection (1)(b) applies, the commencement of the period of disqualification referred to in that paragraph is postponed until the period of disqualification fixed under subsection (4) has ended.
+[(2)deleted]
 (3) The notice is to state —
 (a) if it is given under subsection (1)(a) —
 (i) the number of demerit points because of which the notice is given; and
@@ -476,7 +484,10 @@ and
 (ii) the day on which the offence of which the person was convicted was committed;
 and
 (c) the period of disqualification fixed under subsection (4) and the day on which that period commences.
-(4) The period of disqualification to be stated in the notice is to be double the period of disqualification that was stated in the excessive demerit points notice that led to the person making the section 51 election, and any day after the notice under this section is given may be stated as the day on which the period is to commence.
+(4) The period of disqualification to be stated in the notice is to be double the period of disqualification that was stated in the excessive demerit points notice that led to the person making the section 51 election.
+(5A) The day stated in the notice as the day on which the period of disqualification is to commence is to be —
+(a) a day that is after the notice is given; and
+(b) if subsection (1)(b) applies, a day that is after the period of disqualification referred to in that paragraph has ended.
 (5) The person to whom the notice is given is disqualified from holding or obtaining a driver’s licence for the period of disqualification stated in the notice.
 (6) Nothing in this section prevents —
 (a) the commencement of the period of disqualification under a notice under this section from being postponed under section 54; or
@@ -487,6 +498,7 @@ and
 (8) Regulations referred to in section 56(7) —
 (a) may provide for all or some of the demerit points cancelled under subsection (7)(a) to be again recorded against the person; and
 (b) may provide for the period for which the section 51 election applies to be reinstated.
+[Section 52 amended by No. 51 of 2010 s. 28.]
 53.Permanent disqualification ends section 51 election period
 (1) If, before the end of a person’s section 51 election period, a court permanently disqualifies the person from holding or obtaining a driver’s licence, the period for which the section 51 election applies ends even though the year for which the election was made may not have elapsed.
 (2) Subsection (1) applies whether or not the disqualification is for an offence committed during a section 51 election period.
@@ -606,7 +618,8 @@ A learner’s permit issued to a person under the RT Act section 43(1) that was 
 (1) An extraordinary licence granted by the Director General as ordered under the RT Act section 76 that was in effect immediately before commencement day is, on and from commencement day, to be taken to be an extraordinary licence granted by the CEO as ordered on an application under section 27.
 (2) An application that was made under the RT Act section 76(1) before commencement day but not decided before commencement day is, on and from commencement day, to be taken to be an application made under section 27(1).
 (3) An application that was made under the RT Act section 76(7) before commencement day but not decided before commencement day is, on and from commencement day, to be taken to be an application made under section 35(1) or (2), as is applicable to the case.
-(4) If an application that was made under the RT Act section 76(1), not being a special application, was decided before commencement day and was refused, an application cannot be made under section 27(1) in relation to the same matter within 6 months after the day of the refusal.
+(4) If an application that was made under the RT Act section 76(1) was decided before commencement day and was refused, an application cannot be made under section 27(1) in relation to the same matter within 6 months after the day of the refusal.
+[Section 67 amended by No. 51 of 2010 s. 29.]
 68.Removal of disqualification
 (1) An application that was made under the RT Act section 78(1) before commencement day but not decided before commencement day is, on and from commencement day, to be taken to be an application made under section 24(1).
 (2) If an application that was made under the RT Act section 78(1) was decided before commencement day and was refused, an application cannot be made under section 24(1) in relation to the same matter within one year after the day of the refusal.
