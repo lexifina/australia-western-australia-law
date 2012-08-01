@@ -162,16 +162,16 @@ Reprint 15: The Criminal Code Act Compilation Act 1913 as at 19 Feb 2010 (includ
 Criminal Code Amendment (Identity Crime) Act 2010 | 16 of 2010 | 25 Jun 2010 | s. 1 and 2: 25 Jun 2010 (see s. 2(a)); Act other than s. 1 and 2: 21 Apr 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695)
 Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 Pt. 2 Div. 1 | 21 of 2010 | 7 Jul 2010 | 28 Aug 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
 Reprint 16: The Criminal Code Act Compilation Act 1913 as at 15 Oct 2010 (includes amendments listed above except those in the Criminal Code Amendment (Identity Crime) Act 2010)
+Electronic Transactions Act 2011 s. 25 and 26 | 46 of 2011 | 25 Oct 2011 | s. 25: 1 Aug 2012 (see s. 2(c) and Gazette 31 Jul 2012 p. 3683); s. 26: 1 Aug 2012 (see s. 2(b)(i) and Gazette 31 Jul 2012 p. 3683)
 Manslaughter Legislation Amendment Act 2011 Pt. 2 | 58 of 2011 | 30 Nov 2011 | 17 Mar 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1245)
+Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 4 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 | 10 of 2011 | 2 May 2011 | To be proclaimed (see s. 2(b))
-Electronic Transactions Act 2011 s. 25 and 26 | 46 of 2011 | 25 Oct 2011 | s. 25: to be proclaimed (see s. 2(c)); s. 26: operative when s. 24 comes into operation (see s. 2(b)(i))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 6 | 9 of 2012 | 21 May 2012 | To be proclaimed (see s. 2(b))
-Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 4 | 11 of 2012 | 20 Jun 2012 | To be proclaimed (see s. 2(c))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -219,16 +219,7 @@ On the date as at which this compilation was prepared, the Prostitution Amendmen
 (3) Section 191 is repealed.
 (4) Section 557K(1) paragraph (h) of the definition of child sex offender is amended by deleting “Prostitution Act 2000” and inserting instead —
 “ Sexual Services Act 2000 ”.
-On the date as at which this compilation was prepared, the Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 4 had not come into operation. It reads as follows:
-Part 4 — Amendments to other Acts
-Division 4 — The Criminal Code amended
-30.Act amended
-This Division amends The Criminal Code.
-31.Section 557K amended
-In section 557K(1) insert in alphabetical order:
-child care centre means a place where —
-(a)an education and care service as defined in the Education and Care Services National Law (Western Australia) section 5(1) operates; or
-(b)a child care service as defined in the Child Care Services Act 2007 section 4 is provided;
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 had not come into operation. They read as follows:
 3.The Criminal Code amended
 This Act amends The Criminal Code.
@@ -263,18 +254,7 @@ and
 (4) The Ombudsman must, as soon as practicable after the expiration of that 12 month period, prepare a report on the Ombudsman’s work and activities under this section and furnish a copy of the report to the Minister for Police and the Commissioner of Police.
 (5) The Ombudsman may identify, and include recommendations in the report to be considered by the Minister about, amendments that might appropriately be made to this Act with respect to the operation of the provisions referred to in subsection (1).
 (6) The Minister is to lay (or cause to be laid) a copy of the report furnished to the Minister under this section before both Houses of Parliament as soon as practicable after the Minister receives the report.
-On the date as at which this compilation was prepared, the Electronic Transactions Act 2011 s. 25 and 26 had not come into operation. They read as follows:
-25.Acts amended
-(1) This section amends the Acts listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-2.The Criminal Code
-s. 204B(1) def. of electronic communication | section 5 of the Electronic Transactions Act 2003 | the Electronic Transactions Act 2011 section 5(1)
-26.The Criminal Code amended
-(1) This section amends The Criminal Code (as amended by the Criminal Code Amendment (Identity Crime) Act 2010 section 5).
-(2) In section 489 in the definition of electronic communication delete “Electronic Transactions Act 2003 section 5;” and insert:
-Electronic Transactions Act 2011 section 5(1);
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50 had not come into operation. It reads as follows:
 Division 50 — The Criminal Code amended
 182.Act amended
@@ -323,6 +303,7 @@ carnal connection6
 carnal knowledge6
 charge5(1)(b)
 child1(1), 217A, 306(1), 320(1), 321(1), 322(1), 331A, 557K(1)
+child care centre557K(1)
 child exploitation material217A
 child pornography217A
 child sex offender557K(1)
