@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Housing Regulations 1980 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 August 2012 of the Housing Regulations 1980 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Housing Regulations 1980 | 24 Dec 1980 p. 4361-3 | 1 Jan 1981 (see r. 2 and Gazette 24 Dec 1980 p. 4349)
@@ -9,18 +9,20 @@ Housing Amendment Regulations 1993 | 1 Jun 1993 p. 2682 | 1 Jul 1993 (see r. 2)
 Housing Amendment Regulations 1995 | 13 Apr 1995 p. 1323-4 | 13 Apr 1995
 Housing Amendment Regulations 1996 | 16 Jul 1996 p. 3397-8 | 16 Jul 1996
 Housing Amendment Regulations 1997 | 16 Jan 1998 p. 344 | 16 Jan 1998
-Reprint of the Housing Regulations 1980 as at 24 August 2001 (includes amendments listed above)
-Housing Amendment Regulations 2006 | 30 Jun 2006 p. 2360-1 | 1 Jul 2006 (see r. 2)
+Reprint of the Housing Regulations 1980 as at 24 Aug 2001 (includes amendments listed above)
+Housing Amendment Regulations 2006 | 30 Jun 2006 p. 2360-1 | 1 Jul 2006 (see r. 2(a))
 Housing Amendment Regulations 2009 | 12 Jun 2009 p. 2114-15 | r. 1 and 2: 12 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Housing Amendment Regulations 2011 | 27 May 2011 p. 1924-7 | r. 1 and 2: 27 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2011 (see r. 2(b))
 Housing Amendment Regulations 2012 | 5 Jun 2012 p. 2361-2 | r. 1 and 2: 5 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
-Published in Gazette 12 August 1949 p. 2042.
+Reprint 2: The Housing Regulations 1980 as at 3 Aug 2012 (includes amendments listed above)
 Repealed by the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Aboriginal corporate entity6A
 Aboriginal land6A
+Act4
+agreement6(1)
 applied provisions6A
 Common Seal5(1)
 home purchaser6(1)
@@ -34,5 +36,3 @@ proprietor10(3)
 residential tenancy agreement6A
 State-Commonwealth agreement6A
 strata company10(3)
-the Act4
-the agreement6(1)
