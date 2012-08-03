@@ -126,6 +126,11 @@ Supreme Court Amendment Rules 2010 | 28 Jul 2010 p. 3433-90 | Pt. 1: 28 Jul 2010
 Supreme Court Amendment Rules 2011 | 28 Jun 2011 p. 2551-63 | r. 1 and 2: 28 Jun 2011 (see r. 2(a)); Rules other than r. 1 and 2: 12 Jul 2011 (see r. 2(b))
 Reprint 8: The Rules of the Supreme Court 1971 as at 15 Jul 2011 (includes amendments listed above)
 Supreme Court Amendment Rules 2012 | 12 Jun 2012 p. 2445-53 | r. 1 and 2: 12 Jun 2012 (see r. 2(a)); Rules other than r. 1 and 2: 26 Jun 2012 (see r. 2(b))
+Supreme Court Amendment Rules (No. 3) 2012 r. 1 and 2 | 3 Aug 2012 p. 3748-56 | 3 Aug 2012 (see r. 2(a))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Supreme Court Amendment Rules (No. 3) 2012 r. 3-8 | 3 Aug 2012 p. 3748-56 | Operative on commencement of the Trans-Tasman Proceedings Act 2010 (Cwlth) s. 3 to 110 (see r. 2(b))
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
 Formerly referred to as The Partnership Act 1895, the short title of which was changed to the Partnership Act 1895 by the Statutes (Repeals and Minor Amendments) Act 2003 s. 144. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Gas Pipelines Access (Western Australia) Act 1998, the short title of which was changed to the Energy Arbitration and Review Act 1998 by the National Gas Access (WA) Act 2009 s. 26. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -133,6 +138,145 @@ The Gas Pipelines Access Law ceased to apply when the National Gas Access (WA) A
 The commencement date of 1 Jul 1982 that was specified was before the date of gazettal.
 The Supreme Court Amendment Rules 1994 r. 14 is a transitional provision that has no further effect.
 Disallowed on 10 Mar 1998, see Gazette 13 Mar 1998 p. 1389.
+On the date as at which this compilation was prepared, the Supreme Court Amendment Rules (No. 3) 2012 r. 3-8 had not come into operation. They read as follows:
+3.Rules amended
+These rules amend the Rules of the Supreme Court 1971.
+4.Order 10 amended
+(1) In Order 10 rule 1A(2) delete “Australia” and insert:
+Australia, except a writ served on a person in New Zealand under the Trans-Tasman Proceedings Act 2010 (Commonwealth),
+(2) After Order 10 rule 1A(2) insert:
+(3A) A writ served on a person in New Zealand has no effect unless it is served under the Trans-Tasman Proceedings Act 2010 (Commonwealth).
+5.Order 36B amended
+Delete Order 36B rule 3(1) and insert:
+(1) A subpoena must be in the form of Form No. 22, unless it is a subpoena for which leave to serve the subpoena in New Zealand is to be sought under Order 39A, in which case the subpoena must be in the form of Form No. 23.
+6.Order 39A heading replaced and Order 39A Division 1 heading inserted
+Delete the heading to Order 39A and insert:
+Order 39A — Trans-Tasman Proceedings Act 2010 (Commonwealth) rules
+Division 1 — General
+7.Order 39A amended
+(1) In Order 39A rule 1(1) delete the definition of Act and insert:
+Act means the Trans-Tasman Proceedings Act 2010 (Commonwealth).
+(2) In Order 39A rule 2(1) and (2) after “proceedings” insert:
+and NZ judgments
+(3) After Order 39A rule 2 insert:
+Division 2 — Subpoenas to be served in New Zealand
+(4) In Order 39A rule 3(1) delete “Leave” and insert:
+For the purposes of section 31 of the Act, leave
+(5) In Order 39A rule 3(2)(g) delete “14(2) or (3)” and insert:
+36
+(6) Delete Order 39A rule 3(3).
+Note:The heading to amended Order 39A rule 3 is to read:
+Leave to serve subpoena (Act s. 31)
+(7) Delete Order 39A rule 4(1) and insert:
+(1) An application to the Court under section 35(1) of the Act must be made by filing an application in the form of Form No. 31A.
+(8) Delete Order 39A rule 4(4) and insert:
+(4) In addition to the requirements of section 35(3) of the Act, the application must contain the applicant’s telephone number.
+(9) Delete Order 39A rule 4(6) and insert:
+(6) For the purposes of section 35(4) of the Act, the Principal Registrar must serve the copy of the application, and any accompanying affidavit, in accordance with Order 72 rule 6.
+(10) Delete Order 39A rule 4(8) and (9) and insert:
+(8) A request made under section 36(5) of the Act must be made by filing a notice in the form of Form No. 31B not later than 7 days after —
+(a) if the request is made by the person named in the subpoena, the date on which the application was filed; or
+(b) otherwise, the date on which the application is served on the party who obtained leave to serve the subpoena.
+(9) A request made under section 36(6)(b) of the Act that is not made in the application must be made by filing a request in the form of Form No. 31C.
+Note:The heading to amended Order 39A rule 4 is to read:
+Setting aside subpoena (Act s. 35 and 36)
+(11) Before Order 39A rule 5(1) insert:
+(1A) In this rule —
+certificate means a certificate referred to in section 38 of the Act.
+(12) In Order 39A rule 5(1) delete “under section 16 of the Act, in accordance with Form No. 31D,”.
+(13) In Order 39A rule 5(2)(a) delete “accordance with” and insert:
+the form of
+(14) In Order 39A rule 5(3):
+(a) delete paragraph (a) and insert:
+(a) an affidavit of service of —
+(i) the subpoena; and
+(ii) the order giving leave for the subpoena to be served in New Zealand; and
+(iii) the notice referred to in section 32(2) of the Act;
+and
+(b) delete paragraph (b)(i).
+(15) After Order 39A rule 5(3) insert:
+(4) It is not necessary to attach the documents referred to in subrule (3)(a) to the affidavit of service.
+(5) A certificate must be in the form of Form No. 31D.
+Note:The heading to amended Order 39A rule 5 is to read:
+Failure to comply with subpoena (Act s. 38)
+(16) After Order 39A rule 5 insert:
+Division 3 — Remote appearances from New Zealand
+6A.Appearances by audio link or audiovisual link (Act s. 48)
+(1) An application for leave under section 48(1) of the Act may be made orally or by summons.
+(2) The application must be supported by an affidavit stating the following —
+(a) the reasons why the applicant or the applicant’s lawyer can more conveniently participate in the hearing from New Zealand;
+(b) which audio link or audiovisual link facilities are available for the hearing or can reasonably be made available;
+(c) that the requirements of section 51 or 52, as the case requires, of the Act can be met;
+(d) if leave is sought for the applicant’s lawyer to appear before the Court, and the lawyer is not entitled to appear before the Court —
+(i) that the lawyer is a qualified NZ lawyer; and
+(ii) the applicant ordinarily resides or, if the applicant is not an individual, has its principal place of business, in New Zealand.
+(17) In Order 39A rule 6(1) delete “a direction under section 25” and insert:
+leave under section 50(1)
+(18) In Order 39A rule 6(2):
+(a) in paragraph (g) before “facilities” insert:
+audio link or audiovisual link
+(b) in paragraph (h) delete “26 or 27” and insert:
+51 or 52, as the case requires,
+(19) In Order 39A rule 6(3) delete “the application,” and insert:
+leave,
+(20) In Order 39A rule 6(4) delete “video link or telephone, the Principal Registrar may be directed” and insert:
+audio link or audiovisual link, the Court may direct the Principal Registrar
+Note:The heading to amended Order 39A rule 6 is to read:
+Evidence by audio link or audiovisual link (Act s. 50)
+(21) Delete Order 39A rule 7.
+(22) At the end of Order 39A insert:
+Division 4 — Registration and enforcement of NZ judgments
+7.Setting aside registration of NZ judgment (Act s. 72)
+(1) An application under section 72(2) of the Act must be made by filing a notice of originating motion in the form of Form No. 64.
+(2) The application must be supported by an affidavit setting out the facts and grounds on which the application is made.
+(3) The notice of originating motion and the accompanying affidavit must be served on the entitled person not less than 7 clear days before the day named in the notice for hearing the motion.
+8.Stay of enforcement of registered NZ judgment (Act s. 76)
+(1) An application under section 76(3) of the Act must be made by filing a notice of originating motion in the form of Form No. 64.
+(2) The application must be supported by an affidavit setting out the facts and grounds on which the application is made.
+(3) The notice of originating motion and the accompanying affidavit must be served on the entitled person not less than 7 clear days before the day named in the notice for hearing the motion.
+8.Schedule 2 amended
+(1) In Schedule 2 Form 23 delete “section 16 of the Evidence Amendment Act 1994 of New Zealand.” and insert:
+the Evidence Act 2006 (New Zealand) section 165.
+(2) Delete Schedule 2 Form 23A.
+(3) In Schedule 2 Form 31A:
+(a) delete “The applicant seeks” and insert:
+Under the Trans-Tasman Proceedings Act 2010 (Commonwealth) section 35, the applicant seeks
+(b) delete “video link or telephone.” and insert:
+audio link or audiovisual link.
+(c) delete “[Applicant’s address, telephone number and, if applicable, fax number for service.]” and insert:
+[Applicant’s address for service and telephone number.]
+(4) Delete Schedule 2 Form 31B and insert:
+31B.Request for application to be determined with hearing (O. 39A r. 4(8))
+(Heading as in order for leave to issue subpoena)
+Under the Trans-Tasman Proceedings Act 2010 (Commonwealth) section 36(5), the [identify person] requests that the application to set aside the subpoena [identify subpoena] be determined with a hearing.
+Dated:
+[Signature of applicant or applicant’s solicitor]
+(5) Delete Schedule 2 Form 31C and insert:
+31C.Request to appear remotely in hearing to set aside subpoena (O. 39A r. 4(9))
+(Heading as in order for leave to issue subpoena)
+1.Under the Trans-Tasman Proceedings Act 2010 (Commonwealth) section 36(6)(b), the [identify person] requests to appear remotely in the hearing of the application to set aside the subpoena [identify subpoena].
+2.The applicant was [served/purportedly served*] with the subpoena in New Zealand under the Trans-Tasman Proceedings Act 2010 (Commonwealth) Part 5 Division 2.
+3.A remote appearance medium is, or can reasonably be made, available for the hearing.
+4.The remote appearance can be made from [place in New Zealand].
+5.The [audio link/audiovisual link*] facilities are available at [courtroom or other place in New Zealand where remote appearance is to be made].
+6.I estimate the remote appearance will take [amount of time for remote appearance].
+*[Select one]
+Dated:
+[Signature of applicant or applicant’s solicitor]
+(6) Delete Schedule 2 Form 31D and insert:
+31D.Certificate of non-compliance with subpoena (O. 39A r. 5)
+To:The High Court of New Zealand
+[Address]
+Under the Trans-Tasman Proceedings Act 2010 (Commonwealth) section 38, the [issuing Australian court] certifies as follows —
+1.On [date] under the Trans-Tasman Proceedings Act 2010 (Commonwealth) section 31, the [issuing Australian court] gave [identify person] leave to serve a subpoena on [identify person] in New Zealand. Copies of the subpoena and the order giving leave are attached.
+2.On [date] the subpoena was served on [identify person].
+3.*No application to set aside the subpoena either wholly or in part has been made. An application to set aside the subpoena was dismissed by order made on [insert date]. A copy of this order is attached to this certificate.
+4.On [date] [identify person] failed to comply with the subpoena.
+*[Delete the inapplicable]
+Dated:
+BY THE COURT
+[Signature of appropriate officer]
+Note: The seal of the court is to be affixed.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
