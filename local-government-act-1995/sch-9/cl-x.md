@@ -1,3 +1,0 @@
-### In this Division —
-amending Act means the Local Government Amendment Act 2012.
-[Clause 42 inserted by No. 2 of 2012 s. 33.]
