@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 August 2012 of the Local Government Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Local Government Act 1995 | 74 of 1995 | 9 Jan 1996 | 1 Jul 1996 (see s. 1.2)
@@ -45,27 +45,27 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 87 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
  | Local Government Amendment (Elections) Act 2009 | 15 of 2009 | 17 Aug 2009 | s. 1 and 2: 17 Aug 2009 (see s. 2(a)); Act other than s. 1 and 2: 29 Aug 2009 (see s. 2(b) and Gazette 28 Aug 2009 p. 3347)
  | Local Government Amendment Act 2009 | 17 of 2009 | 16 Sep 2009 | s. 1 and 2: 16 Sep 2009 (see s. 2(a)); Act other than s. 1, 2 and 34: 21 Nov 2009 (see s. 2(b) and Gazette 20 Nov 2009 p. 4649); s. 34: 4 May 2011 (see s. 2(b) and Gazette 3 May 2011 p. 1577)
- | Co-operatives Act 2009 s. 506 | 24 of 2009 | 22 Oct 2009 | 16 May 2011 (see s. 2(d) and Gazette 24 Jun 2011 p. 2516)
- | Reprint 5: The Local Government Act 1995 as at 5 Feb 2010 (includes amendments listed above except those in the Local Government Act 2009 s. 34 and the Co-operatives Act 2009)
+ | Reprint 5: The Local Government Act 1995 as at 5 Feb 2010 (includes amendments listed above except those in the Local Government Amendment Act 2009 s. 34)
  | Standardisation of Formatting Act 2010 s. 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 34 and Pt. 5 Div 2 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
  | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
  | Acts Amendment (Fair Trading) Act 2010 s. 182 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
  | Building Act 2011 s. 166 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
  | Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
- | Local Government Amendment Act 2012 Pt. 2 (other than s. 14-18) | 2 of 2012 | 4 Apr 2012 | Pt. 2 (other than s. 13-18): 21 Apr 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695); s. 13: 1 Jul 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+ | Local Government Amendment Act 2012 Pt. 2 (other than s. 14-18) | 2 of 2012 | 4 Apr 2012 | Pt. 2 other than s. 13-18: 21 Apr 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695); s. 13: 1 Jul 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695)
+ | Reprint 6: The Local Government Act 1995 as at 3 Aug 2012 (includes amendments listed above) (correction in Gazette 7 Sep 2012 p. 4329 and 28 Mar 2013 p. 1317)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Co-operatives Act 2009 s. 516 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c)) and Gazette 13 Aug 2010 p. 3975)
-Local Government Amendment Act 2012 s. 14-1828 | 2 of 2012 | 4 Apr 2012 | To be proclaimed (see s. 2(b))
+Co-operatives Act 2009 s. 506 and 516 | 24 of 2009 | 22 Oct 2009 | s. 506: operative on the day Co-operative Bulk Handling Limited becomes registered under this Act (see s. 2(d)); s. 516: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
+Local Government Amendment Act 2012 s. 14-18 | 2 of 2012 | 4 Apr 2012 | s. 14-18: to be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 29 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be read and construed as if that reference were a reference to the Land Administration Act 1997.
 The Criminal Code s. 348 and 349 were deleted by the Defamation Act 2005 s. 47.
-The provisions of the Local Government Act 1960 Pt. VIA as continued by Sch. 9.3 cl. 16 of this Act and amended by the Local Government (Amendment of Part VIA – Employee Superannuation) Regulations 2006 r. 4 and 5 (published in Gazette 26 May 2006 p. 1877-8) reads as follows:
+The provisions of the Local Government Act 1960 Pt. VIA as continued by Sch. 9.3 cl. 16 of this Act and amended by the Local Government (Amendment of Part VIA – Employee Superannuation) Regulations 2006 r. 4 and 5 (published in Gazette 26 May 2006 p. 1877-8) read as follows:
 Part VIA — Employee Superannuation
 170A.Interpretation
 (1) In this Part —
@@ -154,18 +154,7 @@ The Local Government Amendment Act 1998 s. 5(2)-(4) and 14(2) are transitional p
 The amendment purported to be made by the Local Government Amendment Act 1998 s. 28 is not included because prior to its commencement cl. 4(2) of Sch. 9.2 had been previously amended by the Statutes (Repeals and Minor Amendments) Act 1997 s. 81(1).
 The Local Government Amendment Act (No. 2) 1998 s. 14(3) reads as follows:
 (3) The amendments made by this section have no effect in relation to a notice given under section 3.49 before the commencement of this section or anything done in consequence of such a notice.
-The Local Government Amendment Act (No. 2) 1998 s. 56 is a transitional provision that is of no further effect and 57 reads as follows:
-57.Quarterly reports by Joondalup and Wanneroo commissioners
-(1) In this section —
-commissioners has the meaning given by clause 7 of the Joondalup and Wanneroo Order 1998 published in the Gazette on 26 June 1998.
-(2) Within 14 days after the end of each quarter, the commissioners of the City of Joondalup are to report to the Minister about the performance of their functions.
-(3) Within 14 days after the end of each quarter, the commissioners of the Shire of Wanneroo are to report to the Minister about the performance of their functions.
-(4) The first reports under subsections (2) and (3) are to be given to the Minister after the quarter ending on 31 March 1999.
-(5) The Minister is to cause each report to be laid before each House of Parliament on the next sitting day of that House after the Minister receives it.
-(6) If because a House of Parliament is not sitting, a report can not be laid before that House within 7 days after the Minister receives it, the Minister, within that time, is to —
-(a) give a copy of the report to the Clerk of that House; and
-(b) cause the report to be printed and made available to the public.
-(7) A copy of the report given to the Clerk of a House under subsection (6) is to be laid before that House on its next sitting day.
+The Local Government Amendment Act (No. 2) 1998 s. 56 is a transitional provision that is of no further effect.
 The Perth Parking Management (Consequential Provisions) Act 1999 s. 5(2) is a transitional provision that is of no further effect.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
 2.Commencement
@@ -236,15 +225,20 @@ the LG Act means the Local Government Act 1995.
 (2) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.77 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.77.
 (3) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.78 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.78.
 References to the Executive Director were replaced by references to the Departmental CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
-On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 516 had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Co-operatives Act 2009 s. 506 and 516 had not come into operation. They read as follows:
+506.Local Government Act 1995 amended
+(1) This section amends the Local Government Act 1995.
+(2) In section 6.26(2)(i) delete “company” (each occurrence) and insert:
+co-operative
+(3) In section 6.26(3) delete “company” and insert:
+co-operative
 516.Local Government Act 1995 amended
 (1) This section amends the Local Government Act 1995.
 (2) In section 5.74 in the definition of corporation:
 (a) delete paragraph (d) and “or” after it;
 (b) after each of paragraphs (a) and (b) insert:
 or
-On the date as at which this compilation was prepared, the Local Government Amendment Act 2012 s. 14-18 had not come into operation. They read as follows:
-Division 3 — Amendments about fees etc. for council members and remuneration for CEOs
+On the date as at which this reprint was prepared, the Local Government Amendment Act 2012 s. 14-18 had not come into operation. They read as follows:
 14.Section 5.98 amended
 (1) Before section 5.98(1) insert:
 (1A) In this section —
@@ -285,7 +279,7 @@ range determined by the Salaries and Allowances Tribunal under the Salaries and 
 18.Section 5.100 amended
 In section 5.100(2)(b) delete “prescribed” and insert:
 determined
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 29 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 29 had not come into operation. It reads as follows:
 Division 29 — Local Government Act 1995 amended
 120.Act amended
 This Division amends the Local Government Act 1995.
@@ -317,7 +311,8 @@ affected electorsSch. 2.1 cl. 1, Sch. 2.2 cl. 1
 affected local governmentSch. 2.1 cl. 1
 affected person9.2
 alleged offender3.38
-amending ActSch. 9.3 cl. 14A(1), 42
+amending ActSch. 9.3 cl. 14A(1) and 42
+amending provisionSch. 9.3 cl. 44
 amount misapplied8.35(3)
 an authorised person8.3(6)(a) and (b)
 annual budget6.1
@@ -370,14 +365,14 @@ disposition of real property5.86(3)
 disqualified2.27(1)
 disqualified person7.1, 7.4(2)
 district1.4
+districtsSch. 2.1 cl. 8(1)
 disused materialSch. 3.1 Div. 1
 early vote4.67(b)
-election4.1, Sch. 2.3 cl. 10
+election4.1, 4.36(2), Sch. 2.3 cl. 10
 election day4.1
 election notice4.1, 4.64(2)
 election year1.4
 elector1.4
-elector mayor or president1.4
 Electoral Commissioner1.4
 electoral conduct4.85(4)
 Electoral Division4.1A(6)
@@ -385,6 +380,8 @@ electoral material4.87(3)
 electoral officer4.1
 electoral requirements1.4, 4.1
 electoral roll4.1
+elector mayor or president1.4
+electorate4.29(1), 4.30(1), Sch. 9.3 cl. 12(2)(a)
 electors5.26
 eligible body5.49(1)
 employee1.4, 5.48(1), 5.70(1), 7.10(2)
@@ -398,6 +395,7 @@ financial year1.4
 former districtSch. 9.3 cl. 1
 former municipalitySch. 9.3 cl. 1
 former provisions2.22(3), Sch. 9.3 cl. 1
+former sectionSch. 9.3 cl. 38(1)
 former section 3003.53(1)
 former valuationSch. 6.1 cl. 1(2)
 general funds6.21(4)
@@ -442,6 +440,7 @@ notice recipient3.26(2)
 notifiable gift5.62(2)
 occupier1.4
 offence2.22(3)
+officeSch. 2.3 cl. 1 and 6
 official plan9.48(2)
 officially certified9.48(2)
 ordinary election1.4, 4.4(2)
@@ -464,7 +463,7 @@ power to borrow6.20(2)
 power to lease6.65
 prescribed1.4, 9.13(1), 9.15
 prescribed financial market5.84(2)
-preserved CEO43
+preserved CEOSch. 9.3 cl. 43(1)
 primary return5.74(1)
 primary standards panel5.102A, 5.122(1)
 print4.87(3), 4.88(4)
@@ -473,6 +472,7 @@ private thoroughfareSch. 3.1 Div. 3, Sch. 9.1 cl. 7(1)
 proceedings9.29(1)
 property3.58(1)
 proposalSch. 2.1 cl. 1
+proposal land5.60B(2)
 public facility9.46(4)
 publish4.88(4), 5.90(2)
 qualified person7.1
@@ -496,7 +496,7 @@ senior employeeSch. 9.3 cl. 1
 serious breach5.102A
 serious local government offence2.22(3)
 service charge6.1, 6.42, 6.54, 6.63
-show cause notice8.15B
+show cause notice8.15B(1)
 Special majority required1.10
 specified3.38
 specified area rate6.1
@@ -508,12 +508,6 @@ statutory provision administered by the local government9.28(2)
 submissionSch. 2.2 cl. 1
 suspended order5.117(2)
 the authorised person8.3(6)(a)
-the districtsSch. 2.1 cl. 8(1)
-the election4.36(2)
-the electorate4.29(1), 4.30(1), Sch. 9.3 cl. 12(2)(a)
-the former sectionSch. 9.3 cl. 38(1)
-the officeSch. 2.3 cl. 1 and 6
-the proposal land5.60B(2)
 this Act4.1
 this Part4.1
 thoroughfare1.4
