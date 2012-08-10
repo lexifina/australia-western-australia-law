@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Young Offenders Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 10 August 2012 of the Young Offenders Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Young Offenders Act 1994 | 104 of 1994 | 11 Jan 1995 | s. 1 and 2: 11 Jan 1995; Act other than s. 1 and 2: 13 Mar 1995 (see s. 2 and Gazette 10 Mar 1995 p. 895)
@@ -34,17 +34,18 @@ Prisons and Sentencing Legislation Amendment Act 2006 Pt. 13 | 65 of 2006 | 8 De
 Road Traffic Amendment (Drugs) Act 2007 Pt. 3 | 6 of 2007 | 23 May 2007 | 12 Oct 2007 (see s. 2 and Gazette 11 Oct 2007 p. 5475)
 Road Traffic Amendment Act (No. 2) 2007 Pt. 3 | 39 of 2007 | 21 Dec 2007 | 15 Mar 2008 (see s. 2(k) and Gazette 14 Mar 2008 p. 829)
 Acts Amendment (Justice) Act 2008 s. 132 | 5 of 2008 | 31 Mar 2008 | 31 Jul 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
-Parental Support and Responsibility Act 2008 s. 44 | 14 of 2008 | 15 Apr 2008 | 28 Mar 2009 (see s. 2 and Gazette 27 Mar 2009 p. 917)
+Parental Support and Responsibility Act 2008 Pt. 7 Div. 2 | 14 of 2008 | 15 Apr 2008 | 28 Mar 2009 (see s. 2 and Gazette 27 Mar 2009 p. 917)
 Legal Profession Act 2008 s. 714 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+Medical Practitioners Act 2008 Sch. 3 cl. 55 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Criminal Law Amendment (Homicide) Act 2008 s. 41 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Reprint 4: The Young Offenders Act 1994 as at 2 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008 and the Parental Support and Responsibility Act 2008)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 51 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Cannabis Law Reform Act 2010 Pt. 5 | 45 of 2010 | 28 Oct 2010 | 1 Aug 2011 (see s. 2(b) and Gazette 29 Jul 2011 p. 3127)
 Young Offenders Legislation Amendment (Research Information) Act 2011 Pt. 3 | 26 of 2011 | 11 Jul 2011 | 12 Jul 2011 (see s. 2(b))
+Reprint 5: The Young Offenders Act 1994 as at 10 Aug 2012 (includes amendments listed above)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 22 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
@@ -57,23 +58,16 @@ The Criminal Law Amendment Act 1996 Pt. 6 did not come into operation and was re
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Sentencing Amendment Act 2000 Pt. 2 Div. 2 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 32.
 The Inspector of Custodial Services Act 2003 s. 56(1), which gives effect to Sch. 2, reads as follows:
-“
 56.Consequential amendments to other Acts and regulations
 (1) Schedule 2 has effect.
-”.
 Schedule 2 cl. 7(3) reads as follows:
-“
 Schedule 2 — Consequential amendments to Acts and regulations
 [s. 56]
 (3) A person who, immediately before the commencement of this Act, was a person who had been appointed by the Governor, under the Young Offenders Act 1994 section 166, to be a visiting justice is to be regarded, on and from the commencement, as a person who is appointed by the Minister, under the Young Offenders Act 1994 section 166, as a visiting justice on the same terms and conditions as applied to the person’s appointment by the Governor.
-”.
 The Young Offenders Amendment Act 2004 s. 6(3), which gives effect to Sch. 1, reads as follows:
-“
 6.Section 11 amended and transitional
 (3) Schedule 1 has effect.
-”.
 Schedule 1 reads as follows:
-“
 Schedule 1 — Transitional
 [s. 6(3)]
 1.Interpretation
@@ -86,9 +80,7 @@ principal Act means the Young Offenders Act 1994.
 3.Conditions of employment of other employees and officers on commencement to continue
 (1) A person who was appointed by the Minister under the Act as an overseer, or as an officer or employee without custodial functions, before commencement, and who is still employed immediately before commencement, is to be regarded, on commencement, as having been appointed by the chief executive officer under section 11(1a)(b) of the principal Act (as amended by this Act), on the same terms and conditions, including as to remuneration, as those which applied to the person immediately before commencement.
 (2) A person to whom subclause (1) applies retains all existing and accruing rights and benefits as if the person’s employment, for the purposes of the principal Act, were a continuation of the person's employment immediately before commencement.
-”.
-On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 36 had not come into operation. It reads as follows:
-“
+On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 36 had not come into operation. It reads as follows:
 36.Young Offenders Act 1994 amended
 (1) The amendments in this section are to the Young Offenders Act 1994.
 (2) Schedule 2 is amended by deleting the entry relating to the Prostitution Act 2000 and inserting instead —
@@ -99,8 +91,7 @@ s. 16 | Causing, permitting or seeking to induce a child to act as a sex worker
 s. 17 | Obtaining payment for commercial sexual act by a child
 s. 18 | Agreement for a child to act as a sex worker
 ”.
-”.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 54 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 54 had not come into operation. It reads as follows:
 Division 54 — Young Offenders Act 1994 amended
 200.Act amended
 This Division amends the Young Offenders Act 1994.
@@ -120,23 +111,26 @@ Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 Aboriginal community3
-appointed person or body15A
+appointed person or body15A(3c)
 appropriate person23B(3)
 approved35
 attendance conditions3
-authorised officer15A
+authorised officer15A(3c)
 authorised person169A(7)
 Board131
 body sample3
 CEO (child welfare)15A(2)
 chief executive officer3
-child15A
+child15A(3c)
 community work conditions3
 community work order63
 conditional release order3
 contractor16(1)
 Coordinator35
+council17A
 court3
+current offence124(1)
+defaulter65A(1)
 Department3
 detainee3, 188(1)
 detention3
@@ -145,6 +139,7 @@ detention order63
 earliest release day3
 exempt responsible adult3
 fine63
+first sentence123(1)
 former provisions234(1), 235(1)
 general principles of juvenile justice3
 group workers11(1a)(a)
@@ -158,8 +153,10 @@ medical officer179(1)
 medical treatment179(1)
 monitor17A
 notice to attend court3
+offender50(1), 50A(1), 50B(1)
+original offence83(2)(c)
 party32(3)
-proceedings for or in respect of a responsible parenting order15A
+proceedings for or in respect of a responsible parenting order15A(3c)
 public authority16(1)
 registrar of the court3
 relevant day127(1)
@@ -168,23 +165,17 @@ research16(1)
 responsible adult3, 58(1)
 Schedule 1 offence3
 Schedule 2 offence3
+second sentence123(1)
 Secretary131
 sentence 1124(1)(a)
 sentence 2124(1)(b)
+sentencing court129(1)
 serious offence124(3)
 special order3
 superintendent3
 supervise17A
 supervised release order3
 supervision conditions3
-the council17A
-the current offence124(1)
-the defaulter65A(1)
-the first sentence123(1)
-the offender50(1), 50A(1), 50B(1)
-the original offence83(2)(c)
-the second sentence123(1)
-the sentencing court129(1)
 victim31(1), 133(3)
 welfare agency15A(2)
 work3
