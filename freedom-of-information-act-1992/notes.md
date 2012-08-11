@@ -43,12 +43,12 @@ Reprint 5: The Freedom of Information Act 1992 as at 27 Feb 2009 (includes amend
 National Gas Access (WA) Act 2009 s. 70 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327
 Standardisation of Formatting Act 2010 s. 4 and 59 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health and Disability Services Legislation Amendment Act 2010 s. 57 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
+Bank of Western Australia Amendment Act 2012 Pt. 3 | 14 of 2012 | 3 Jul 2012 | 11 Aug 2012 (see s. 2(b) and Gazette 10 Aug 2012 p. 3803)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Bank of Western Australia Amendment Act 2012 Pt. 3 | 14 of 2012 | 3 Jul 2012 | To be proclaimed (see s. 2(b))
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.
@@ -76,16 +76,6 @@ Act | Provision
 Freedom of Information Act 1992 | s. 62(2)
 ...................... | ........
 ”.
-On the date as at which this compilation was prepared, the Bank of Western Australia Amendment Act 2012 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Freedom of Information Act 1992 amended
-8.Act amended
-This Part amends the Freedom of Information Act 1992.
-9.Schedule 1 amended
-Delete Schedule 1 clause 4A and insert:
-4A.Information provided under Bank of Western Australia Act 1995
-Matter is exempt matter if it consists of information provided to —
-(a) the Treasurer under the Bank of Western Australia Act 1995 section 22; or
-(b) the Minister under the Bank of Western Australia Act 1995 section 42O.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
