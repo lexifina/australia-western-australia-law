@@ -1,3 +1,3 @@
 Western Australia
-Curriculum Council Act 1997
-Curriculum Council Regulations 2005
+School Curriculum and Standards Authority Act 1997
+School Curriculum and Standards Authority Regulations 2005
