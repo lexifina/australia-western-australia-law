@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Industrial Relations Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 24 August 2012 of the Industrial Relations Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Industrial Arbitration Act 1979 | 114 of 1979 | 21 Dec 1979 | 1 Mar 1980 (see s. 2 and Gazette 8 Feb 1980 p. 383)
@@ -85,80 +85,25 @@ Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 29 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 109 | 39 of 2010 | 1 Oct 2010 | 28 Mar 2011 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Industrial Legislation Amendment Act 2011 Pt. 3 | 53 of 2011 | 11 Nov 2011 | 1 Apr 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1246)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 14: The Industrial Relations Act 1979 as at 24 Aug 2012 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 Repealed by the Offshore Petroleum (Repeals andConsequential Amendments) Act 2006 s. 3 of the Commonwealth.
+Repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth). Now see Fair Work Act 2009 (Cwlth).
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
-The Labour Relations Reform Act 2002 s. 112, 113(6), 117(2) and (3), 138(2), 140(2), 141(2), 146(2), 152(2), 155(2) and (3), 186(2)-(4) and Sch. 1 read as follows:
-112.Transitional provisions relating to section 111(4)
-(1) A claim that —
-(a) was referred to the Industrial Relations Commission under section 7G of the Industrial Relations Act 1979 before the commencement of section 111(4); and
-(b) immediately before that commencement had not been finally determined,
-may be dealt with by the Commission as if section 7G had not been repealed.
-(2) A provision of the kind described in subsection (1)(b) of section 7G of the Industrial Relations Act 1979 that, immediately before the commencement of section 111(4), has effect in relation to a claim referred to in subsection (1)(a) of that section ceases to have effect after that commencement.
-(3) If a person wishes to refer to the Commission a claim mentioned in subsection (2) he or she may do so under section 51 of the Workplace Agreements Act 1993.
-113.Further amendments to the Industrial Relations Act 1979 as from the expiry of the Workplace Agreements Act 1993 and transitional provision
-(6) A question or dispute that —
-(a) was referred to the Industrial Relations Commission under section 7F of the Industrial Relations Act 1979 before the commencement of subsection (1); and
-(b) immediately before that commencement had not been finally determined,
-may be dealt with by the Commission as if section 7F had not been repealed.
-117.Section 38 amended and a savings provision
-(2) If an employer was added as a named party to an award under former section 38(3) before the commencement day, the scope of that award is not varied by reason only of the coming into operation of subsection (1).
-(3) In this section —
-commencement day means the day on which subsection (1) comes into operation;
-former section 38(3) means section 38(3) of the Industrial Relations Act 1979 as it was in effect immediately before the commencement day.
-138.Section 23A replaced by sections 23A and 23B and transitional provision
-(2) Notwithstanding subsection (1), section 23A of the Industrial Relations Act 1979 as in force immediately before the coming into operation of this section continues to operate in respect of any claim made under that section before the coming into operation of this section.
-140.Section 29AA inserted and a transitional provision
-(2) Section 29AA of the Industrial Relations Act 1979 as inserted by this section does not apply to or in respect of a claim made before the coming into operation of this section.
-141.Section 44 amended and a transitional provision
-(2) Section 44(6)(bb) of the Industrial Relations Act 1979 as inserted by this section does not apply to or in respect of a claim made before the coming into operation of this section.
-146.Part II Divisions 2F and 2G inserted and a transitional provision
-(2) A provision of an award, order or industrial agreement made or registered before the coming into operation of subsection (1) does not cease to have effect by reason of the operation of section 49N(3), as inserted by subsection (1), until 28 days after the coming into operation of subsection (1).
-152.Section 70 amended and a transitional provision
-(2) Despite subsection (1), section 70 of the Industrial Relations Act 1979 as in force immediately before the coming into operation of this section continues to operate in respect of any proceedings commenced before the coming into operation of this section.
-155.Section 83 repealed and sections 83, 83A, 83B and 83C inserted instead and transitional provisions
-(2) Any proceedings begun before an industrial magistrate’s court under section 83 of the Industrial Relations Act 1979, and not abandoned or finally determined, before the commencement of this section are to be dealt with after the coming into operation of this section as if section 83 had not been amended by this Act.
-(3) Subject to subsection (2), sections 83, 83A and 83B of the Industrial Relations Act 1979 as amended by this Act apply to and in relation to an award, industrial agreement or order made before the coming into operation of this section as if the award, industrial agreement or order were made after the coming into operation of this Act.
-186.Section 20 amended and transitional and savings provisions
-(2) Until remuneration becomes payable to a member of the Commission pursuant to the first determination, the member is to receive remuneration at the rate that would be applicable to that member if the former provisions were still in operation.
-(3) Despite any determination under section 6 of the Salaries and Allowances Act 1975, while a person who was a member of the Commission at the time of the publication of the first determination in the Government Gazette remains a member he or she is to receive remuneration at a rate that is not less than the rate that was applicable to him or her immediately before that time.
-(4) In this section —
-first determination means the first determination made under section 6 of the Salaries and Allowances Act 1975 that gives effect to the amendment made by subsection (1);
-former provisions means section 20(1) to (6) of the Industrial Relations Act 1979 as they were in effect immediately before the coming into operation of subsection (1);
-member of the Commission has the meaning given by the Industrial Relations Act 1979;
-remuneration has the meaning given by the Salaries and Allowances Act 1975.
-Schedule 1 — Transitional minimum weekly rates of pay
-[s. 168]
-1.Interpretation
-Unless the contrary intention appears, words and expressions used in this Schedule have the same respective meanings as they have in the Minimum Conditions of Employment Act 1993.
-2.Minimum weekly rate of pay for employees 21 or more years of age
-The minimum weekly rate of pay applicable at a particular time to employees who have reached 21 years of age but who are not apprentices or trainees is the rate for the minimum adult weekly award wage for employees who have reached 21 years of age and who are not apprentices or trainees, as provided for in the General Order made under section 51(2) of the Industrial Relations Act 1979 that is in effect at that time.
-3.Minimum weekly rate of pay for employees less than 21 years of age
-(1) The minimum weekly rate of pay applicable at a particular time to employees who are of the age mentioned in the first column in the Table to this subclause but who are not apprentices or trainees is the percentage, set out opposite that age in the second column in the Table of the rate referred to in clause 2 in effect at that time, rounded up to the nearest 10 cents.
-Table
-Age | Percentage of 21 year old rate
-20 years | 90%
-19 years | 80%
-18 years | 70%
-17 years | 60%
-16 years | 50%
-under 16 years | 40%
-(2) Subclause (1) is for information only and if there is any inconsistency between subclause (1) and section 13 of the Minimum Conditions of Employment Act 1993, the section prevails.
-4.Minimum weekly rate of pay for apprentices and trainees
-(1) The minimum weekly rate of pay for an apprentice or trainee in relation to whom a workplace agreement or an employer-employee agreement is not in force is the rate of pay that is provided for under an award that applies to that apprentice or trainee.
-(2) The minimum weekly rate of pay for an apprentice or trainee in relation to whom a workplace agreement or an employer-employee agreement is in force is the rate of pay that is provided for under an award that would, if the workplace agreement or employer-employee agreement were not in force, apply to that apprentice or trainee.
+The Labour Relations Reform Act 2002 s. 112, 113(6), 117(2) and (3), 138(2), 140(2), 141(2), 146(2), 152(2), 155(2) and (3), 186(2)-(4) and Sch. 1 contain transitional and savings provisions.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed
 Act | Provision
 ...................... | ........
 Industrial Relations Act 1979 | s. 20(8), (8a), (8b), (8c), (8d)
+Deleted by the Public Sector Reform Act 2010 s. 57.
 Now known as the Industrial Relations Act 1979; short title changed (see note under s. 1).
 The Industrial Relations Amendment Act 1990 s. 14 was deleted before it came into operation by the Industrial Legislation Amendment Act 1995 s. 35.
 The Acts Amendment (Industrial Magistrate’s Courts) Act 1991 s. 6 contains transitional provisions relating to persons who were industrial magistrates when that section commenced and to proceedings begun and decisions made before that commencement.
@@ -173,39 +118,25 @@ The Industrial Relations Legislation Amendment and Repeal Act 1995 s. 12 and 13 
 The Vocational Education and Training Act 1996 Sch. 2 had not come into operation when it was deleted by the Training Legislation Amendment and Repeal Act 2008 s. 48.
 Reprints before Reprint 9 are not numbered. Reprint 9 and subsequent reprints are numbered consecutively but are out by one number.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The Labour Relations Legislation Amendment Act 2006 s. 22 reads as follows:
-22.Transitional provisions
-(1) In this section —
-commencement day means the day on which Part 4 of the Labour Relations Legislation Amendment Act 2006 comes into operation;
-section 50A means section 50A of the Industrial Relations Act 1979 as in force immediately after the commencement day;
-section 51 means section 51 of the Industrial Relations Act 1979 as in force immediately before the commencement day;
-State Wage order means a General Order made under section 50A.
-(2) Any —
-(a) General Order of effect under section 51; and
-(b) order of effect under section 51F of the Industrial Relations Act 1979 as in force immediately before the commencement day,
-remains of effect until a State Wage order takes effect.
-(3) Despite section 50A, the first State Wage order —
-(a) may be made after 1 July;
-(b) if it is made after 1 July, comes into effect on a date specified by the Commission; and
-(c) if it comes into effect on a date after 1 July, is applicable in respect of an employee, apprentice or trainee on and from the commencement of the first pay period of the employee, apprentice or trainee on or after that date.
-(4) A date specified under subsection (3)(b) must not be a date that is earlier than the day on which the order is made.
-(5) Despite section 50A(1)(b), the Commission must not adjust rates of wages paid under awards in a State Wage order made in relation to the period ending 30 June 2007 if, during 2006 and before that State Wage order is made, the Commission has made a General Order under section 50 of the Industrial Relations Act 1979 adjusting rates of wages paid under awards generally.
 The Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) were repealed by the Statutes (Repeals and Minor Amendments) Act 2011 s. 24(2) before it purported to come into operation.
+The Labour Relations Legislation Amendment Act 2006 s. 22 contains transitional provisions.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-a revocation order97XG, 97XI(1)
+adopting provision71A(2)
+affected person23B(1)(a)
 alteration7(1)
 applicable order48A(3)
 applicant97WR
 application103(3)
 apprentice7(1)
 arbitration functions32A(1)
-Arbitrator80C(1), Sch. 3, cl. 1
+Arbitrator80C(1), Sch. 3 cl. 1
 arbitrator97WH
 area and scope provisions29A(1a)
 association7(1)
 Association80C(1)
+auditor65(a)
 authorised representative49G
 award7(1), 46(5), 97U(1), 97UG(7), 97VR, 97YA(3)
 bargaining agent51O(1), 97U(1)
@@ -221,11 +152,11 @@ Chamber7(1)
 Chief Commissioner7(1)
 Chief Magistrate81B(6)
 civil penalty provision7(1)
-collective agreement51O(2)
+collective agreement51O(2)(a)
 collegiate electoral system52
 commencement16(2E)
 commencement day20(8b)
-Commission7(1), 16(1), 22A, 42C(6), 50(1), 51C(1), 97VW
+Commission7(1), 16(1), 22A, 42C(6), 49(1), 50(1), 51C(1), 97VW
 Commission in Court Session7(1)
 commissioner7(1)
 Commonwealth Act7(1)
@@ -252,21 +183,24 @@ dispute97WH
 EEA7(1), 97WB(2)
 EEA dispute provisions97U(1)
 employed99C(1)
-employee7(1), 51O(2), 97U(2), 97U(3)
-employer7(1), 51O(2), 80C(1), 97U(2), 97U(3)
+employee7(1), 51O(2)(b), 97U(2) and (3)
+employees36A(1)
+employer7(1), 51O(2)(c), 80C(1), 97U(2) and (3)
 employer-employee agreement7(1)
 employing authority80C(1)
-employment51O(2)
+employment51O(2)(d)
 employment claim23B(1)
 employment record7(1)
 employment services for persons with disabilities97U(1)
 enterprise72A(1)
 enterprise order7(1), 42I(1)
 existing employee97U(1)
+exposure draft97WA(1)
 Fair Work Australia7(1), 80ZF
 final offer arbitration7(1)
 finance official74(1)
 finding7(1)
+first agreement41(8)
 Full Bench7(1)
 general jurisdiction81CA(1), 81CB(1)
 government officer80C(1)
@@ -298,19 +232,21 @@ member of the Commission7(1)
 mental disability97WR
 Mines and Metals Association7(1)
 negotiating party40C, 51O(1)
+new award36A(1)
 new employee97U(1)
 no-disadvantage test97U(1)
-nominal expiry date42(8), 51O(2)
+nominal expiry date42(8), 51O(2)(e)
 occupier49L(2)
 office7(1)
 officer7(1)
 officer of the Commission7(1)
 officer of the Court7(1)
 one-tier collegiate electoral system52
-organisation7(1), 51O(1), 72A(1), 72B(2), 80H(6), 96A
+organisation7(1), 51O(1), 72A(1), 72B(2)(a), 80H(6), 96A
 organisation of employees96A
+original dispute97WK(1)(a)
 original term56A(4)
-party38(1b), 91(2), 97U(1), 97VC(5), Sch. 4, cl. 1(3)
+party38(1b), 91(2), 97U(1), 97VC(5), Sch. 4 cl. 1(3)
 peak industrial body97VZ(3)
 person with a mental disability97WR
 plenary guardian97WS(4)
@@ -322,9 +258,10 @@ prescribed salary80I(2)
 prescribed amount29AA(5)
 President7(1), 20(13)
 presiding judge7(1)
+principal7(6)
 principal executive officer7(1)
 proceedings49(4)
-proposed representative97WR
+proposed representative97WR, 97WV(3), 97XM(3)
 prosecution jurisdiction81CA(1)
 protected information97WB(1)
 Public Advocate97WR
@@ -347,36 +284,23 @@ relevant order97VR
 relevant organisation80H(5)
 relevant person49E(4)
 repealed Act7(1)
-representative7(1)
-represented person7(1)
-revocation order97WR
+representative7(1), 97X, 97XO
+represented person7(1), 97X, 97XO
+respondent77(1)
+revocation order97WR, 97XG(b)(ii), 97XI(1)
 salaried position80M(1)
 secondary office7(1)
 section 97UM signatory97U(1)
 Senior Commissioner7(1)
 specified51A(3)
 State organisation71(1), 71A(1)
+State rules71A(2)
 State Wage order50A(1)
 sub-head of branch80M(1)
 subscription7(1)
 supported wage provisions97U(1)
 Supported Wage System97U(1)
 teacher80C(1)
-the affected person23B(1)
-the auditor65
-the Commission49(1)
-the employees36A(1)
-the exposure draft97WA(1)
-the first agreement41(8)
-the new award36A(1)
-the original dispute97WK(1)
-the principal7(6)
-the proposed representative97WV(3), 97XM(3)
-the representative97X, 97XO
-the represented person97X, 97XO
-the respondent77(1)
-the State rules71A(2)
-the adopting provision71A(2)
 third party23B(1)
 threats48B(5)
 transport Minister80M(1)
