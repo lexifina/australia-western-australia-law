@@ -3,10 +3,10 @@
 [Heading amended by No. 19 of 2010 s. 4.]
 1.Retirements from industrial agreements.
 2.All decisions and published reasons for decision of —
-(a)the Court;
-(b)the Full Bench;
-(c)the President;
-(d)the Commission;
+(a)the Court; and
+(b)the Full Bench; and
+(c)the President; and
+(d)the Commission; and
 (e)industrial magistrates; and
 (f)Boards of Reference.
 3.All directions and orders which alter the qualifications for membership of any organisation the area in respect of which the organisation is registered, or the name of the organisation.
