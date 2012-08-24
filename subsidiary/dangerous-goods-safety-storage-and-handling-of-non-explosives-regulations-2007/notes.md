@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 24 August 2012 of the Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 | 31 Dec 2007 p. 6777-892 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2 and Pt. 5 Div. 1: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669); Pt. 5 Div. 1: 1 Mar 2009 (see r. 2(c) and Gazette 29 Feb 2008 p. 669)
@@ -7,6 +7,8 @@ Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regula
 Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations (No. 2) 2010 | 25 Jun 2010 p. 2872-3 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations (No. 3) 2010 | 31 Dec 2010 p. 6893-6 | r. 1 and 2: 31 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
 Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations 2012 | 16 Mar 2012 p. 1197-242 | r. 1 and 2: 16 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2012 (see r. 2(b))
+Reprint 1: The Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 as at 24 Aug 2012 (includes amendments listed above)
+Repealed by the Safe Work Australia (Consequential and Transitional Provisions) Act 2008 Sch. 1 (Cwlth). Now see the Safe Work Australia Act 2008 (Cwlth).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -16,14 +18,14 @@ annual fee24
 approved form4
 AS4
 AS/NZS4
-bulk4
+bulk4, 9A
 C1 combustible liquid4
 capacity4
 class4
 class label4
 code75(1)
 combustible liquid4
-commencement daySch. 6, cl. 1
+commencement daySch. 6 cl. 1
 compatible4
 consumer container4
 control temperature53(1)
@@ -55,7 +57,7 @@ hazardous atmosphere57(1)
 IBC4
 ignition source4
 importer16
-kg or LSch. 1,, 5, cl. 1(2)
+kg or LSch. 1, Sch. 5 cl. 1(2)
 label4
 level 1 fine4
 level 2 fine4
@@ -81,20 +83,21 @@ pipework4
 plant4
 proper shipping name4
 proposed action40(1), 103(1)
+redSch. 4 cl. 2(3)
 registration87
 registration application87
 relevant dangerous goods70(1)
 relevant sign69(1), 70(1)
-repealed regulationsSch. 6, cl. 1
+repealed regulationsSch. 6 cl. 1
 risk assessment4
 risk control measures4
 rural dangerous goods location4
 small quantity dangerous goods location4
 stabiliser53(1)
 storage area25(1A)
-storage locationSch. 3, cl. 1
+storage locationSch. 3 cl. 1
 storage or handling system4
-submission date40(2), 103(2)
+submission date40(2)(e), 103(2)(e)
 subsidiary risk4
 subsidiary risk label4
 supplier16
