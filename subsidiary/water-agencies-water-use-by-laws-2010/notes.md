@@ -7,6 +7,7 @@ Water Agencies (Water Use) Amendment By-laws 2010 | 28 Sep 2010 p. 5063-5 | bl. 
 Water Agencies (Water Use) Amendment By-laws (No. 2) 2010 | 30 Nov 2010 p. 6016-22 | bl. 1 and 2: 30 Nov 2010 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Dec 2010 (see bl. 2(b))
 Water Agencies (Water Use) Amendment By-laws 2011 | 8 Mar 2011 p. 801-4 | bl. 1 and 2: 8 Mar 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 9 Mar 2011 (see bl. 2(b))
 Water Agencies (Water Use) Amendment By-laws (No. 2) 2011 | 18 Nov 2011 p. 4818-19 | bl. 1 and 2: 18 Nov 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 19 Nov 2011 (see bl. 2(b))
+Water Agencies (Water Use) Amendment By-laws 2012 | 24 Aug 2012 p. 3961-3 | bl. 1 and 2: 24 Aug 2012 (see bl. 2(a)); By-laws other than bl. 1 and 2: 25 Aug 2012 (see bl. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
