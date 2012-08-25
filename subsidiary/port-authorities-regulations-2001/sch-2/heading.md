@@ -38,21 +38,30 @@
 15. | Cancellation of pilot | $605.00
 [Division 3 inserted in Gazette 30 Jun 2011 p. 2624-5.]
 ## Division 4 — Port of Fremantle
-[Heading inserted in Gazette 30 Jun 2011 p. 2625.]
-1. | Pilotage of a vessel of not more than 1 000 gross registered tonnes between Gage Roads and the Inner Harbour | $791.50
-2. | Pilotage of a vessel of more than 1 000 gross registered tonnes —
- | (a)between the sea pilot boarding ground and Gage Roads | $2 590.38
- | (b)between Gage Roads and Cockburn Sound | $1 798.86
- | (c)between Gage Roads and the Inner Harbour | $1 583.03
- | (d)between the Inner Harbour and the Outer Harbour | $2 726.73
- | (e)between the sea pilot boarding ground and the Inner Harbour | $3 166.03
- | (f)between the sea pilot boarding ground and Cockburn Sound | $3 453.84
-3. | Pilotage of a vessel from a place in Cockburn Sound to another place in Cockburn Sound | $791.50
-4. | Pilotage of a vessel from a place in the Inner Harbour to another place in the Inner Harbour | $359.76
-5. | Any other pilotage service, per hour or part of an hour | $215.87
-6. | Detention of pilot, per hour or part of an hour | $359.76
-7. | Cancellation of pilot | $402.94
-[Division 4 inserted in Gazette 30 Jun 2011 p. 2625-6.]
+[Heading inserted in Gazette 24 Aug 2012 p. 3960.]
+1. | Pilotage of a vessel of not more than 1 000 gross registered tonnes between Gage Roads and the Inner Harbour | $870.65
+2. | Pilotage of a vessel of more than 1 000 gross registered tonnes and a length overall of less than 275 metres —
+ | (a)between the sea pilot boarding ground and Gage Roads | $2 849.42
+ | (b)between Gage Roads and Cockburn Sound | $1 978.75
+ | (c)between Gage Roads and the Inner Harbour | $1 741.33
+ | (d)between the Inner Harbour and the Outer Harbour | $2 999.41
+ | (e)between the sea pilot boarding ground and the Inner Harbour | $3 482.64
+ | (f)between the sea pilot boarding ground and Cockburn Sound | $3 799.22
+ | (g)surcharge for Alcoa arrivals | $562.10
+3. | Pilotage of a vessel of more than 1 000 gross registered tonnes and a length overall of more than 275 metres —
+ | (a)between the sea pilot boarding ground and Gage Roads | $3 411.52
+ | (b)between Gage Roads and Cockburn Sound | $2 540.85
+ | (c)between Gage Roads and the Inner Harbour | $2 303.43
+ | (d)between the Inner Harbour and the Outer Harbour | $3 561.51
+ | (e)between the sea pilot boarding ground and the Inner Harbour | $4 044.74
+ | (f)between the sea pilot boarding ground and Cockburn Sound | $4 361.32
+ | (g)surcharge for Alcoa arrivals | $562.10
+4. | Pilotage of a vessel from a place in Cockburn Sound to another place in Cockburn Sound | $870.65
+5. | Pilotage of a vessel from a place in the Inner Harbour to another place in the Inner Harbour | $395.74
+6. | Any other pilotage service, per hour or part of an hour | $237.46
+7. | Detention of pilot, per hour or part of an hour | $395.74
+8. | Cancellation of pilot | $443.23
+[Division 4 inserted in Gazette 24 Aug 2012 p. 3960.]
 ## Division 5 — Port of Geraldton
 1. | Pilotage of a vessel into and out of the port | $0.38609 for each gross registered tonne of vessel
 2. | Pilotage of a vessel from a place in the port to another place in the port | $0.038609 for each gross registered tonne of vessel

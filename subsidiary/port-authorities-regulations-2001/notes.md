@@ -40,6 +40,7 @@ Port Authorities Amendment Regulations (No. 5) 2011 | 20 Dec 2011 p. 5401 | r. 1
 Reprint 5: The Port Authorities Regulations 2001 as at 6 Jan 2012 (includes amendments listed above)
 Port Authorities Amendment Regulations 2012 | 25 May 2012 p. 2209 | r. 1 and 2: 25 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Port Authorities Amendment Regulations (No. 2) 2012 | 15 Jun 2012 p. 2520 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+Port Authorities Amendment Regulations (No. 3) 2012 | 24 Aug 2012 p. 3959-60 | r. 1 and 2: 24 Aug 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Aug 2012 (see r. 2(b))
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Tobacco Products Control Act 2006.
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
