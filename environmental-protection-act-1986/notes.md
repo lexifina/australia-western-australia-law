@@ -56,6 +56,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(3)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 20 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 6 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -123,6 +124,13 @@ Road Traffic (Administration) Act 2008 section 4;
 as defined in the Road Traffic (Administration) Act 2008 section 4, has the meaning given by section 5 of that Act; or
 (4) In section 3(1) in the definition of road delete “Road Traffic Act 1974;” and insert:
 Road Traffic (Administration) Act 2008 section 4;
+On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 6 had not come into operation. It reads as follows:
+Division 6 — Environmental Protection Act 1986 amended
+122.Act amended
+This Division amends the Environmental Protection Act 1986.
+123.Schedule 6 amended
+In Schedule 6 item 12 delete “Fire and Emergency Services Authority of Western Australia established under the Fire and Emergency Services Authority of Western Australia Act 1998.” and insert:
+FES Commissioner as defined in the Fire and Emergency Services Act 1998 section 3.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
