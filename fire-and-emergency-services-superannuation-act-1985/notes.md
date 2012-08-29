@@ -17,6 +17,10 @@ Fire and Emergency Services Legislation Amendment Act 2002 Pt. 5 | 38 of 2002 | 
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 2: The Fire and Emergency Services Superannuation Act 1985 as at 16 Feb 2007 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 5 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 Now known as the Fire and Emergency Services Superannuation Act 1985; short title changed (see note under s. 1).
 The Fire Brigades Superannuation Amendment Act 1994 Pt. 3 reads as follows:
 “
@@ -59,3 +63,67 @@ Schedule 1 cl. 13 reads as follows:
 “
 (13) Despite the amendments made to section 4 of the Fire Brigades Superannuation Act 1985 by subclause (12), a person appointed and holding office under that section immediately before the commencement of this clause as a member or alternate member of the Western Australian Fire Brigades Superannuation Board continues, subject to that Act, to hold that office on and after that commencement for the remainder of the period for which the person was appointed.
 ”.
+On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 5 had not come into operation. It reads as follows:
+Part 5 — Fire and Emergency Services Superannuation Act 1985 amended
+95.Act amended
+This Part amends the Fire and Emergency Services Superannuation Act 1985.
+96.Long title amended
+In the long title:
+(a) delete “Authority of Western Australia”;
+(b) before “Western Australian” insert:
+Fire and Emergency Services Authority of Western Australia and the
+97.Section 3 amended
+(1) In section 3(1) delete the definitions of:
+chief executive officer
+eligible Authority employee
+(2) In section 3(1) insert in alphabetical order:
+eligible FES employee means a firefighter, or a person holding a prescribed office or of a prescribed class employed in the department principally assisting in the administration of the Fire and Emergency Services Act 1998;
+FES Commissioner has the same meaning as in the Fire and Emergency Services Act 1998 section 3;
+former Authority employee means a person to whom section 5(4)(a) applied immediately before the coming into operation of the Fire and Emergency Services Legislation Amendment Act 2012 section 99(2);
+(3) In section 3(1) in the definition of Authority delete “Fire and Emergency Services Authority of Western Australia Act 1998;” and insert:
+Fire and Emergency Services Act 1998, as in force immediately before the coming into operation of the Fire and Emergency Services Legislation Amendment Act 2012 section 7;
+(4) In section 3(1) in the definition of Fire Brigades Board delete “Authority of Western Australia”.
+98.Section 4 amended
+(1) In section 4(4)(a) delete “Authority; and” and insert:
+FES Commissioner; and
+(2) In section 4(5) delete “Authority” and insert:
+FES Commissioner
+99.Section 5 amended
+(1) In section 5(2)(a) delete “chief executive officer” and insert:
+FES Commissioner
+(2) In section 5(4):
+(a) in paragraph (a) delete “Authority employees;” and insert:
+FES employees; and
+(b) after paragraph (c) insert:
+(da) former Authority employees; and
+(c) in paragraph (d) delete “(b) and (c).” and insert:
+(b), (c) and (da).
+(3) In section 5(4) after paragraph (b) insert:
+and
+100.Section 6 amended
+In section 6(3)(e) delete “Authority” and insert:
+FES Commissioner
+101.Section 17 amended
+In section 17(4) delete “Authority” and insert:
+FES Commissioner
+102.Section 27 amended
+In section 27(1) and (2) delete “chief executive officer” (each occurrence) and insert:
+FES Commissioner
+103.Section 28 amended
+In section 28(1) delete “chief executive officer” and insert:
+FES Commissioner
+104.Section 31 amended
+In section 31 delete “Authority” (each occurrence) and insert:
+FES Commissioner
+Note:The heading to amended section 31 is to read:
+Assistance from FES Commissioner
+105.Section 32 amended
+In section 32(b) delete “chief executive officer” and insert:
+FES Commissioner
+106.Schedule 2 amended
+(1) In Schedule 2 clause 1 in the definition of appointed member delete “Authority” and insert:
+FES Commissioner
+(2) In Schedule 2 clause 6(2) delete “Authority” and insert:
+FES Commissioner
+(3) In Schedule 2 clause 7(2) and (3) delete “Authority” and insert:
+FES Commissioner
