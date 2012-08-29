@@ -86,6 +86,10 @@ Fire Brigades (Fire Districts) Notice (No. 2) 2005 published in Gazette 29 Nov 2
 Reprint 7: The Fire Brigades Act 1942 as at 2 Jun 2006 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 9 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4, 43(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 4 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 The Fire and Emergency Services Legislation (Emergency Services Levy) Amendment Act 2002 s. 36, which gives effect to Sch. 1, reads as follows:
 “
 36.Transitional provisions
@@ -201,3 +205,219 @@ The Fire and Emergency Services Legislation Amendment Act 2002 s. 45(4) and 54(3
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 18 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — Fire Brigades Act 1942 amended
+70.Act amended
+This Part amends the Fire Brigades Act 1942.
+71.Section 4 amended
+(1) In section 4(1) delete the definitions of:
+Authority
+Chief Executive Officer
+Director
+member of the Authority
+the FESA Act
+(2) In section 4(1) insert in alphabetical order:
+Department has the meaning given in the FES Act section 3;
+employed in the Department means employed or engaged in the Department in accordance with the FES Act section 20(1);
+FES Act means the Fire and Emergency Services Act 1998;
+FES Commissioner has the meaning given in the FES Act section 3;
+property of the Department means property vested in the Minister that is under the control of the FES Commissioner;
+(3) Delete section 4(2).
+72.Part VI heading amended
+In the heading to Part VI delete “Authority” and insert:
+Minister and FES Commissioner
+73.Section 24 amended
+(1) In section 24(1):
+(a) delete “Authority may purchase,” and insert:
+Minister may, under the FES Act section 8, purchase,
+(b) delete “Authority may think” and insert:
+Minister may think
+(c) delete “to time” insert:
+to time, under that section,
+(d) delete “in the Authority” and insert:
+in the Minister
+(2) In section 24(2):
+(a) delete “Authority” (first occurrence) and insert:
+Minister
+(b) delete “Authority” (second occurrence) and insert:
+Department
+(c) delete “Authority.” and insert:
+Department.
+(3) In section 24(3):
+(a) delete “Authority, or a body corporate to which the Authority is” and insert:
+Minister or the former Authority, or a body corporate to which the former Authority was
+(b) delete “Authority” (last occurrence) and insert:
+Minister
+(4) After section 24(3) insert:
+(4) In subsection (3) —
+former Authority means the Fire and Emergency Services Authority of Western Australia established by the FES Act section 4, as in force immediately before the commencement of the Fire and Emergency Services Legislation Amendment Act 2012 section 7.
+74.Section 25 amended
+In section 25(e) delete “it” and insert:
+the FES Commissioner
+75.Section 26A amended
+(1) In section 26A(1) delete “its functions under this Act the Authority” and insert:
+the FES Commissioner’s functions under this Act the FES Commissioner
+(2) In section 26A(2):
+(a) delete “Authority” (first occurrence) and insert:
+FES Commissioner
+(b) delete paragraph (c) and insert:
+(c) utilise the apparatus, plant and other property of the Department and use the persons employed in the Department to promote public awareness of the functions of the FES Commissioner under this Act or to enhance the Department’s public image; and
+(c) in paragraph (f) delete “Authority” (each occurrence) and insert:
+FES Commissioner
+(d) in paragraph (h) delete “by the Authority” and insert:
+in the Department
+(e) in paragraph (h) delete “Authority;” and insert:
+FES Commissioner; and
+(f) in paragraph (i) delete “its functions;” and insert:
+the FES Commissioner’s functions; and
+(g) in paragraph (k) delete “on it” and insert:
+on the FES Commissioner
+(3) In section 26A(2) after each of paragraphs (a), (b), (d), (f) and (g) insert:
+and
+Note:The heading to amended section 26A is to read:
+Further powers of FES Commissioner
+76.Part VII heading amended
+In the heading to Part VII delete “other employees” and insert:
+others
+77.Section 29 deleted
+Delete section 29.
+78.Section 31 replaced
+Delete section 31 and insert:
+31.Brigades are under control of FES Commissioner
+Every brigade and all the officers and members of a brigade are under the immediate order and control of the FES Commissioner.
+79.Section 33 amended
+In section 33(1):
+(a) delete the passage that begins with “The Director” and ends with “to say —” and insert:
+The FES Commissioner, or a person employed in the Department who is authorised by the FES Commissioner for the purposes of this section, is to perform or exercise, in addition to any other duties, the following general duties and powers —
+(b) in paragraph (c) delete “and report to the Authority” and insert:
+and, in the case of a person other than the FES Commissioner, report to the FES Commissioner
+(c) in paragraph (d) delete “Authority” and insert:
+Department
+(d) delete paragraph (g) and insert:
+(g) in the case of a person other than the FES Commissioner, the person is to make any inquiries and reports as directed by the FES Commissioner.
+Note:The heading to amended section 33 is to read:
+General duties and powers of FES Commissioner and authorised persons
+80.Section 33A amended
+(1) In section 33A(1):
+(a) delete “Director or an officer of the Authority authorised by the Authority in that behalf” and insert:
+FES Commissioner, or a person employed in the Department who is authorised by the FES Commissioner for the purposes of this section,
+(b) in paragraph (b) delete “Director or officer” and insert:
+FES Commissioner or person
+(2) In section 33A(3), (4), (5), (6), (9), (11) and (14)(a) and (c) delete “Director” (each occurrence) and insert:
+FES Commissioner
+(3) In section 33A(15) in the definition of authorised officer delete “an officer of the Authority authorised by the Authority” and insert:
+a person employed in the Department who is authorised by the FES Commissioner
+(4) In section 33A(15) in the definition of presumed occupier delete “Director” and insert:
+FES Commissioner
+Note:The heading to amended section 33A is to read:
+Duties and powers of FES Commissioner and authorised officers in relation to public buildings
+81.Section 34 amended
+In section 34:
+(a) delete “Director or, in his absence” and insert:
+FES Commissioner or
+(b) delete “an officer of the Authority authorised by the Authority in that behalf,” and insert:
+a person employed in the Department who is authorised by the FES Commissioner for the purposes of this section,
+Note:The heading to amended section 34 is to read:
+Duties and powers of FES Commissioner and others at fires
+82.Section 34A amended
+(1) Delete section 34A(3) and insert:
+(3) An authorised officer other than the FES Commissioner must not specify a period of more than 3 hours under subsection (1)(a) or (b) unless the FES Commissioner has given written authorisation for a longer period to be specified in relation to the person exposed to the hazardous material.
+(2) Delete section 34A(10) and insert:
+(10) In this section —
+authorised officer, in relation to a hazardous material incident, means the FES Commissioner or the officer or any member of the brigade who for the time being is in charge.
+83.Section 35 amended
+In section 35(2):
+(a) in paragraph (d) delete “employees,” and insert:
+persons employed or engaged for the purposes of this Act in accordance with the FES Act section 20(1)(b) or (c),
+(b) in paragraph (d) delete “employees;” and insert:
+persons;
+(c) in paragraph (e) delete “employees;” and insert:
+persons employed or engaged for the purposes of this Act in accordance with the FES Act section 20(1)(b) or (c);
+(d) in paragraph (g) delete “employees of the Authority” and insert:
+persons employed or engaged for the purposes of this Act in accordance with the FES Act section 20(1)(b) or (c)
+(e) after paragraph (x) delete “and”.
+84.Section 47A deleted
+Delete section 47A.
+85.Section 49 amended
+In section 49 delete “member or officer of the Authority.” and insert:
+person employed in the Department who is authorised by the FES Commissioner for the purposes of this section.
+86.Section 51 amended
+In section 51:
+(a) delete “Director certifying” and insert:
+FES Commissioner being satisfied
+(b) delete “Authority may, in its discretion,” and insert:
+FES Commissioner may, in his or her discretion,
+(c) delete “Authority thinks” and insert:
+FES Commissioner thinks
+(d) delete “Authority may by resolution” and insert:
+FES Commissioner may
+87.Section 52 amended
+(1) In section 52(1) delete “regulations, the Authority” and insert:
+the regulations, the FES Commissioner
+(2) In section 52(2) delete “in that behalf by the Authority” and insert:
+under subsection (1) by the FES Commissioner
+88.Section 54 amended
+(1) In section 54(4):
+(a) delete “On and after the proclaimed day, the Authority” and insert:
+The FES Commissioner
+(b) delete “Authority” (second occurrence) and insert:
+FES Commissioner
+(2) In section 54(5) delete “Authority” (first and second occurrences) and insert:
+FES Commissioner
+(3) In section 54(9):
+(a) delete “Authority” (first occurrence) and insert:
+FES Commissioner
+(b) delete “Authority” (second occurrence) and insert:
+State
+(4) In section 54(10):
+(a) delete “shall vest in the Authority” and insert:
+vests, or is to be taken to have vested, in the Minister
+(b) in the Table item 3 Column 1 delete “Authority.” and insert:
+FES Commissioner.
+89.Section 58 amended
+In section 58 delete “Director” (each occurrence) and insert:
+FES Commissioner
+Note:The heading to amended section 58 is to read:
+Police and others to aid FES Commissioner
+90.Section 59 amended
+In section 59(b) delete “Authority;” and insert:
+Department;
+91.Section 66 amended
+In section 66:
+(a) delete “by the Authority” and insert:
+in the Department for the purposes of this Act
+(b) delete “belonging to the Authority,” and insert:
+of the Department,
+(c) delete “Authority” (third, fourth and fifth occurrences) and insert:
+FES Commissioner
+92.Section 67 amended
+(1) Delete section 67(1) and insert:
+(1A) In this section —
+authorised officer means —
+(a)the FES Commissioner; or
+(b)a person employed in the Department, or an agent of the FES Commissioner, who is authorised in writing by the FES Commissioner for the purposes of this section.
+(1) An authorised officer may enter, and, if necessary, break into any place where any property of the Department is detained contrary to the order of the FES Commissioner, and may remove that property.
+(2) In section 67(2) delete “the Director or any such officer, employee, or agent” and insert:
+an authorised officer
+Note:The heading to amended section 67 is to read:
+Detention of property of the Department
+93.Section 73 deleted
+Delete section 73.
+94.Various references to “Authority” amended
+In the provisions listed in the Table delete “Authority” (each occurrence) and insert:
+FES Commissioner
+Table
+s. 4(1) def. of permanent fire brigade, private fire brigade and volunteer fire brigade | s. 25
+s. 25A(1) and (4) | s. 26
+s. 27(1) and (2) | s. 30
+s. 34(h) | s. 48
+s. 50 | s. 55
+s. 56(b) | s. 57
+s. 61
+Note:The headings to the amended sections listed in the Table are to read as set out in the Table.
+Table
+Amended section | Section heading
+s. 25 | Functions of FES Commissioner
+s. 25A | FES Commissioner may require certain fire fighting appliances
+s. 27 | FES Commissioner’s proposals to be submitted to local government
+s. 48 | FES Commissioner to furnish information to Commissioner of Public Health
