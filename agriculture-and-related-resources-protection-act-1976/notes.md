@@ -39,6 +39,7 @@ Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 27 | 24 of 2007 | 12 Oct 2007 | 23 Nov 2011 (see s. 2(2) and Gazette 22 Nov 2011 p. 4843); Repeal of Act operative when proclamation published under s. 27
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 1 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Commercial Arbitration Act 2012 s. 45 it. 1 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 Repealed by the Mining Act 1978.
 Repealed by the Public Service Appeal Board Act Repeal Act 1977.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. See also endnote 14.
@@ -224,6 +225,14 @@ This Division amends the Agriculture and Related Resources Protection Act 1976.
 40.Section 7 amended
 In section 7(1) in the definition of vehicle delete “ascribed to that term in and for the purposes of the Road Traffic Act 1974;” and insert:
 given in the Road Traffic (Administration) Act 2008 section 4;
+On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 it. 1 had not come into operation. It reads as follows:
+45.Acts amended
+(1) This section amends the Acts listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+1.Agriculture and Related Resources Protection Act 1976
+s. 106(1)(g) | Arbitration Act 1895 | Commercial Arbitration Act 2012
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
