@@ -23,6 +23,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 412 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Commercial Arbitration Act 2012 s. 45 it. 16 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 Repealed by the Land Administration Act 1997.
 Repealed by the Water Resources Legislation Amendment Act 2007.
 Repealed by the Mining Act 1978.
@@ -180,6 +181,14 @@ This Division amends the Planning and Development Act 2005.
 161.Section 4 amended
 In section 4(1) in the definition of road delete “Road Traffic Act 1974)” and insert:
 Road Traffic (Administration) Act 2008 section 4)
+On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 it. 16 had not come into operation. It reads as follows:
+45.Acts amended
+(1) This section amends the Acts listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+16.Planning and Development Act 2005
+s. 156(2), 176(2), 184(4), 185(3), 188(2)(a), (3)(a) and (4) | Commercial Arbitration Act 1985 | Commercial Arbitration Act 2012
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
