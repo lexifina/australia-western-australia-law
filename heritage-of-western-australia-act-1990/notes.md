@@ -35,6 +35,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Commercial Arbitration Act 2012 s. 45 it. 10 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. See also note 5.
 The Taxation Administration (Consequential Provisions) Act 2002 contains transitional provisions that may be relevant to this Act.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28, 42 and 53 deal with certain transitional issues some of which may be relevant for this Act.
@@ -59,6 +60,14 @@ Act | Provision
 .......................... | ........
 Heritage of Western Australia Act 1990 | s. 27(4)
 ...................... | ........
+On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 it. 10 had not come into operation. It reads as follows:
+45.Acts amended
+(1) This section amends the Acts listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+10.Heritage of Western Australia Act 1990
+s. 75(4)(b)(ii), 76(3) | Commercial Arbitration Act 1985 | Commercial Arbitration Act 2012
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
