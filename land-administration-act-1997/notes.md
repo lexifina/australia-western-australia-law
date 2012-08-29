@@ -51,6 +51,7 @@ Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 |
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 27 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Commercial Arbitration Act 2012 s. 45 it. 11 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 4.Section 6A inserted
 After section 6 the following section is inserted in Part 1 —
@@ -386,6 +387,14 @@ In section 61(2)(a):
 a road law as defined in the Road Traffic (Administration) Act 2008 section 4
 (b) delete “within the meaning of that Act; and” and insert:
 as defined in that section; and
+On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 it. 11 had not come into operation. It reads as follows:
+45.Acts amended
+(1) This section amends the Acts listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+11.Land Administration Act 1997
+s. 35(5)(a)(ii) | Commercial Arbitration Act 1985 | Commercial Arbitration Act 2012
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
