@@ -29,6 +29,10 @@ Grain Marketing Act 2002 s. 47 | 30 of 2002 | 25 Oct 2002 | 31 Oct 2002 (see s. 
 Reprint 4: The Bulk Handling Act 1967 as at 5 Dec 2003 (includes amendments listed above) (correction in Gazette 23 Jan 2004 p. 306)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 69 | 24 of 2007 | 12 Oct 2007 | 14 Aug 2010 (see s. 2(1) and Gazette 13 Aug 2010 p. 4021)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 2 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Commercial Arbitration Act 2012 s. 45 it. 3 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 The Companies Act 1893 was repealed by the Companies Act 1943. The latter Act was repealed by the Companies Act 1961 s. 4 except in relation to co-operative companies in respect of which it is now cited as the Companies (Co-operative) Act 1943 (s. 382).
 Now 30 Delhi Street, West Perth.
 Now see Insurance (Deposits) Act 1932 of the Commonwealth.
@@ -56,6 +60,14 @@ Repealed by the Wheat Marketing Act 1984 s. 31.
 Marginal notes containing sectional references to the Bulk Handling Act 1935 have been omitted from this compilation.
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 and the Financial Administration Legislation Amendment Act 1993 s. 18 are transitional provisions that are of no further effect.
 The amendment in the Grain Marketing Act 2002 Sch. 2 cl. 1(2) to s. 8 of this Act is not included because s. 8 was repealed by the Bulk Handling Amendment Act 2002 s. 5.
+On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 it. 3 had not come into operation. It reads as follows:
+45.Acts amended
+(1) This section amends the Acts listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+3.Bulk Handling Act 1967
+s. 48(3) | Arbitration Act 1895 | Commercial Arbitration Act 2012
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
