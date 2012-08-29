@@ -172,6 +172,7 @@ Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclai
 Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 | 10 of 2011 | 2 May 2011 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 6 | 9 of 2012 | 21 May 2012 | To be proclaimed (see s. 2(b))
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 3 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -275,6 +276,20 @@ On the date as at which this compilation was prepared, the Criminal Appeals Amen
 (1) It
 (3) At the end of section 17 insert:
 (2) Subsection (1) is subject to the Criminal Appeals Act 2004 section 46M(4)(b) and (c).
+On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 3 had not come into operation. It reads as follows:
+Division 3 — The Criminal Code amended
+114.Act amended
+This Division amends The Criminal Code.
+115.Section 297 amended
+In section 297(4)(d)(ii):
+(a) delete “FESA Unit” and insert:
+FES Unit
+(b) delete “Authority of Western Australia”.
+116.Section 318 amended
+In section 318(1)(h)(ii):
+(a) delete “FESA Unit,” and insert:
+FES Unit,
+(b) delete “Authority of Western Australia”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
