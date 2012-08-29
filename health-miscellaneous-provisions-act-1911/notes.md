@@ -132,8 +132,19 @@ Reprint 15: The Health Act 1911 as at 20 Nov 2009 (includes amendments listed ab
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 22 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Building Act 2011 s. 161 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 6 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Commercial Arbitration Act 2012 s. 45 it. 9 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 it. 9 had not come into operation. It reads as follows:
+45.Acts amended
+(1) This section amends the Acts listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+9.Health Act 1911
+s. 64(4) and (5), 96 | Commercial Arbitration Act 1985 | Commercial Arbitration Act 2012
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
 Section 53B was deleted by the Health Act Amendment Act 1933 (No. 2) s. 6.
 Other proclamations relating to offensive trades were published in the Gazette on —
