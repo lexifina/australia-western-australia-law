@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 June 2012 of the Swan and Canning Rivers Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Swan and Canning Rivers Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Swan and Canning Rivers Management Act 2006 | 51 of 2006 | 6 Oct 2006 | s. 1 and 2: 6 Oct 2006; Act other than s. 1 and 2: 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
@@ -12,9 +12,29 @@ Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt.
 Metropolitan Redevelopment Authority Act 2011 s. 144 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 2: The Swan and Canning Rivers Management Act 2006 as at 15 Jun 2012 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 156 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
+Commercial Arbitration Act 2012 s. 45 it. 20 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 Repealed by the Water Resources Legislation Amendment Act 2007.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 Now a city.
+On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 it. 20 had not come into operation. It reads as follows:
+45.Acts amended
+(1) This section amends the Acts listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+20.Swan and Canning Rivers Management Act 2006
+s. 89(7) | Commercial Arbitration Act 1985 | Commercial Arbitration Act 2012
+On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 15 had not come into operation. It reads as follows:
+Division 15 — Swan and Canning Rivers Management Act 2006 amended
+142.Act amended
+This Division amends the Swan and Canning Rivers Management Act 2006.
+143.Schedule 5 amended
+(1) In Schedule 5 item 1(f) delete “Authority of Western Australia”.
+(2) Delete Schedule 5 item 6.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
