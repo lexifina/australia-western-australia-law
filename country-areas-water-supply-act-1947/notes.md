@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 May 2012 of the Country Areas Water Supply Act 1947 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the Country Areas Water Supply Act 1947 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Country Areas Water Supply Act 1947 | 62 of 1947 (11 and 12 Geo. VI No. 62) | 10 Jan 1948 | 1 Jan 1949 (see s. 1 and Gazette 24 Dec 1948 p. 3038-9)
@@ -63,10 +63,11 @@ Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009
  | Standardisation of Formatting Act 2010 s. 15, 43(3) and 54 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
  | Reprint 9: The Country Areas Water Supply Act 1947 as at 4 May 2012 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 87 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(2))
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 28 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Formerly referred to the Water Authority Act 1984, the short title of which was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -74,7 +75,7 @@ Repealed by the Water Resources Legislation Amendment Act 2007.
 Repealed by section 4 of this Act (and see endnote 2).
 Repealed by the Mining Act 1978.
 Under the Alteration of Statutory Designations Order 2003, a reference in any law to the Department of Mines is, unless the contrary intention appears, to be read and construed as a reference to the Department of Industry and Resources.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Industry and Resources is called the Department of Mines and Petroleum.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Industry and Resources is called the Department of Mines and Petroleum.
 The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973 s. 4.
@@ -83,11 +84,34 @@ The Sentencing (Consequential Provisions) Act 1995 Pt. 16 is not included becaus
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 43 contains provisions which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or deleted by that Act.
-On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 87 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 87 had not come into operation. It reads as follows:
 87.Country Areas Water Supply Act 1947 amended
 (1) The amendments in this section are to the Country Areas Water Supply Act 1947.
 (2) Section 12C(1)(c) is amended by deleting “the Agriculture and Related Resources Protection Act 1976” and inserting instead —
 “ the Biosecurity and Agriculture Management Act 2007 ”.
+On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 2 had not come into operation. It reads as follows:
+Division 2 — Country Areas Water Supply Act 1947 amended
+112.Act amended
+This Division amends the Country Areas Water Supply Act 1947.
+113.Section 37 amended
+(1) In section 37(1) delete the definition of Authority.
+(2) In section 37(1) insert in alphabetical order:
+FES Commissioner has the meaning given in the Fire and Emergency Services Act 1998 section 3;
+(3) In section 37(3) and (7) delete “Authority” (each occurrence) and insert:
+FES Commissioner
+(4) In section 37(9) delete “Authority or the local government to whom the statement is rendered” and insert:
+State or the local government, according to whether the statement is rendered to the FES Commissioner or the local government,
+(5) In section 37(10)(a) delete “Authority” and insert:
+Minister responsible for the administration of the Fire and Emergency Services Act 1998
+(6) In section 37(11)(a) delete “Authority” and insert:
+FES Commissioner
+(7) In section 37(15):
+(a) delete “Authority” (first occurrence) and insert:
+Minister referred to in that subsection
+(b) delete “Authority” (second occurrence) and insert:
+the FES Commissioner
+(c) delete “as the case may be, in which the property in the fire hydrant is vested” and insert:
+according to whether the property in the fire hydrant is vested in the Minister referred to in subsection (10) or the local government,
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
