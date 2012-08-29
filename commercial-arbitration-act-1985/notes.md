@@ -9,6 +9,10 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 21 | 65 of 200
 Reprint 1: The Commercial Arbitration Act 1985 as at 2 Apr 2004 (includes amendments listed above)
 Limitation Legislation Amendment and Repeal Act 2005 Pt. 3 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
 Legal Profession Act 2008 s. 648 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Commercial Arbitration Act 2012 s. 44 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 The provision in this Act repealing the Arbitration Act 1895 has been omitted under the Reprints Act 1984 s. 7(4)(e) and (f).
 The Commercial Arbitration Amendment Act 1997 s. 3 reads as follows:
 “
@@ -24,3 +28,6 @@ The Limitation Legislation Amendment and Repeal Act 2005 s. 6(4) reads as follow
 6.Section 48 amended and a savings provision
 (4) The Commercial Arbitration Act 1985 section 48, as it was immediately before commencement day, continues to apply after commencement day to causes of action that accrued before commencement day as if subsections (1), (2) and (3) had not been enacted.
 ”.
+On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 44 had not come into operation. It reads as follows:
+44.Commercial Arbitration Act 1985 repealed
+The Commercial Arbitration Act 1985 is repealed.
