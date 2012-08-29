@@ -154,6 +154,7 @@ Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 12(2)(c), (5)(d) and (7)(b) | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 Road Traffic Legislation Amendment (Information) Act 2011 s. 9 | 18 of 2011 | 2 Jun 2011 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 3 (other than s. 15-18) | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 13 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 Section 111(2)(f) of this Act has been deleted.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
@@ -456,6 +457,14 @@ Table
 s. 70(3b)(j)(i) | s. 78C(4)
 s. 79(1), (3A) | s. 79A(1)
 s. 79BA(1)(b), (b)(ii) and (2) | s. 79C(1)(a) and (b), (2)(a) and (b)
+On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 13 had not come into operation. It reads as follows:
+Division 13 — Road Traffic Act 1974 amended
+137.Act amended
+This Division amends the Road Traffic Act 1974.
+138.Section 64A amended
+In section 64A(4A)(b) delete “Authority of Western Australia”.
+139.Section 64AAA amended
+In section 64AAA(2A)(b) delete “Authority of Western Australia”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
