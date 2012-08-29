@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 January 2012 of the Supreme Court Act 1935 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Supreme Court Act 1935 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Supreme Court Act 1935 | 36 of 1935 (26 Geo. V No. 36) | 3 Mar 1936 | 1 May 1936 (see s. 1 and Gazette 9 Apr 1936 p. 527). Reserved for Royal Assent 7 Jan 1936. Assented: 3 Mar 1936 (see Gazette 3 Apr 1936 p. 484)
@@ -87,10 +87,11 @@ Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 201
 Standardisation of Formatting Act 2010 s. 4, 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 9: The Supreme Court Act 1935 as at 6 Jan 2012 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Commercial Arbitration Act 2012 s. 45 it. 19 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
 The Acts Amendment (Court of Appeal) Act 2004 s. 5(2) and Pt. 5 read as follows:
 5.Sections 6 and 7 replaced by sections 6, 7 and 7A, and transitional provision
@@ -191,7 +192,7 @@ Division 2 — General
 The Limitation Legislation Amendment and Repeal Act 2005 s. 18(2) reads as follows:
 18.Section 29 repealed and a savings provision
 (2) The Supreme Court Act 1935 section 29, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 had not come into operation. It reads as follows:
 68.Supreme Court Act 1935 amended
 Section 11B of the Supreme Court Act 1935 is amended as follows:
 (a) by repealing subsection (2) and inserting the following subsection instead —
@@ -199,6 +200,14 @@ Section 11B of the Supreme Court Act 1935 is amended as follows:
 (2)Where a Master was, immediately before his appointment as such, an officer of the Public Service of the State he retains his existing and accruing rights and for the purpose of determining those rights, his service as Master shall be taken into account as if it were service in the Public Service of the State.
 ”;
 (b) by repealing subsection (3a).
+On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 it. 19 had not come into operation. It reads as follows:
+45.Acts amended
+(1) This section amends the Acts listed in the Table.
+(2) Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+19.Supreme Court Act 1935
+s. 53 | Commercial Arbitration Act 1985 | Commercial Arbitration Act 2012
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
