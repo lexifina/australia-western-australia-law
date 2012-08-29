@@ -31,6 +31,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Residential Tenancies Amendment Act 2011 Pt. 5 Div. 4 | 60 of 2011 | 14 Dec 2011 | To be proclaimed (see s. 2(b))
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 12 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.
 Repealed by s. 51(1) of this Act.
@@ -75,6 +76,17 @@ This Division amends the Rates and Charges (Rebates and Deferments) Act 1992.
 lessor, in relation to land, has the meaning given in the Residential Tenancies Act 1987 section 3;
 (3) In section 29B(3) delete “the owner” and insert:
 the lessor
+On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 12 had not come into operation. It reads as follows:
+Division 12 — Rates and Charges (Rebates and Deferments) Act 1992 amended
+134.Act amended
+This Division amends the Rates and Charges (Rebates and Deferments) Act 1992.
+135.Section 3 amended
+(1) In section 3(1) in the definition of emergency services levy delete “Authority of Western Australia”.
+(2) In section 3(1a) delete “Authority of Western Australia”.
+136.Section 17 amended
+(1) In section 17(1b) delete “Fire and Emergency Services Authority of Western Australia established by section 4 of the Fire and Emergency Services Authority of Western Australia Act 1998.” and insert:
+FES Commissioner as defined in the Fire and Emergency Services Act 1998 section 3.
+(2) In section 17(1c) delete “Authority of Western Australia”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
