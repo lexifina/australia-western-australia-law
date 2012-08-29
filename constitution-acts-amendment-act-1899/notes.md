@@ -275,6 +275,7 @@ Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 Teacher Registration Act 2012 s. 164 | 16 of 2012 | 3 Jul 2012 | To be proclaimed (see s. 2(b))
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 1 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
@@ -382,6 +383,12 @@ On the date as at which this compilation was prepared, the Teacher Registration 
 (2) In Schedule V Part 3 delete the item relating to The Western Australian College of Teaching.
 (3) In Schedule V Part 3 after the item relating to The Taxi Industry Board insert:
 The Teacher Registration Board of Western Australia established under the Teacher Registration Act 2012.
+On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 1 had not come into operation. It reads as follows:
+Division 1 — Constitution Acts Amendment Act 1899 amended
+110.Act amended
+This Division amends the Constitution Acts Amendment Act 1899.
+111.Schedule V amended
+In Schedule V Part 3 delete the item relating to the Fire and Emergency Services Authority of Western Australia.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
