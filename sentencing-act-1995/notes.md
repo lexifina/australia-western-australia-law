@@ -66,6 +66,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 47 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Teacher Registration Act 2012 s. 168 | 16 of 2012 | 3 Jul 2012 | To be proclaimed (see s. 2(b))
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 14 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
@@ -223,6 +224,12 @@ On the date as at which this compilation was prepared, the Teacher Registration 
 (2) In Schedule 1 delete the item relating to the Western Australian College of Teaching Act 2004.
 (3) In Schedule 1 insert in alphabetical order:
 Teacher Registration Act 2012 | Teacher Registration Board Account
+On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 14 had not come into operation. It reads as follows:
+Division 14 — Sentencing Act 1995 amended
+140.Act amended
+This Division amends the Sentencing Act 1995.
+141.Schedule 1 amended
+In Schedule 1 delete the item relating to the Bush Fires Act 1954.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
