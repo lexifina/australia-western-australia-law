@@ -11,6 +11,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 17 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 4 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 The provisions in this Act repealing these written laws have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 17 had not come into operation. It reads as follows:
@@ -25,6 +26,13 @@ as defined in the Road Traffic (Administration) Act 2008 section 5
 88.Section 15 amended
 In section 15(2) delete “the owner within the meaning of the Road Traffic Act 1974 of” and insert:
 a responsible person, as defined in the Road Traffic (Administration) Act 2008 section 4, for
+On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 4 had not come into operation. It reads as follows:
+Division 4 — Dangerous Goods Safety Act 2004 amended
+117.Act amended
+This Division amends the Dangerous Goods Safety Act 2004.
+118.Section 40 amended
+In section 40(1) in the definition of unauthorised person paragraph (a) delete “of the Fire and Emergency Services Authority of Western Australia; or” and insert:
+in the department of the Public Service that principally assists the Minister with the administration of the Fire and Emergency Services Act 1998; or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
