@@ -21,6 +21,7 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 89 | 8 of 2009 | 21 
 Acts Amendment (Bankruptcy) Act 2009 s. 54 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Lotteries Commission Amendment Act 2012 | 21 of 2012 | 29 Aug 2012 | s. 1 and 2: 29 Aug 2012 (see s. 2(a)); Act other than s. 1 and 2: 30 Aug 2012 (see s. 2(b))
 Footnote no longer applicable.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Now known as the Gaming and Wagering Commission Act 1987.
