@@ -127,10 +127,11 @@ Poisons (Appendix A Amendment) Order 2011 published in Gazette 17 Jun 2011 p. 21
 Poisons (Appendix A Amendment) Order (No. 2) 2011 published in Gazette 5 Aug 2011 p. 3182-3 | cl. 1 and 2: 5 Aug 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 6 Aug 2011 (see cl. 2(b))
 Reprint 9: The Poisons Act 1964 as at 19 Aug 2011 (includes amendments listed above)
 Poisons (Appendix A Amendment) Order 2012 published in Gazette 10 Feb 2012 p. 651 | cl. 1 and 2: 10 Feb 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 11 Feb 2012 (see cl. 2(b))
+Poisons (Appendix A Amendment) Order (No. 2) 2012 published in Gazette 31 Aug 2012 p. 4209 | cl. 1 and 2: 31 Aug 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Sep 2012 (see cl. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 93 | 24 of 2007 (as amended by No. 46 of 2010 s. 66) | 12 Oct 2007 | To be proclaimed (see s. 2(1))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 93 | 24 of 2007 (as amended by No. 46 of 2010 s. 66) | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 The designation of Ministers may be altered by the Governor under the Alteration of Statutory Designations Act 1974. As at the date of this compilation the former Minister for Agriculture is known as the Minister for Agriculture and Food.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 40 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
