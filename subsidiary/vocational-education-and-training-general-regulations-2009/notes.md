@@ -6,6 +6,7 @@ Vocational Education and Training (General) Regulations 2009 | 22 May 2009 p. 17
 Vocational Education and Training (General) Amendment Regulations 2011 | 25 Oct 2011 p. 4508-11 | r. 1 and 2: 25 Oct 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Oct 2011 (see r. 2(b))
 Vocational Education and Training (General) Amendment Regulations (No. 2) 2011 | 25 Oct 2011 p. 4511-12 | r. 1 and 2: 25 Oct 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2012 (see r. 2(b))
 Vocational Education and Training (General) Amendment Regulations 2012 | 16 Mar 2012 p. 1247-8 | r. 1 and 2: 16 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Mar 2012 (see r. 2(b))
+Vocational Education and Training (General) Amendment Regulations (No. 2) 2012 | 21 Aug 2012 p. 3927 | r. 1 and 2: 21 Aug 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2012 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
