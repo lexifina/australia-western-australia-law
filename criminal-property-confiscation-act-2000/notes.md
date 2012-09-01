@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 May 2012 of the Criminal Property Confiscation Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Criminal Property Confiscation Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Property Confiscation Act 2000 | 68 of 2000 | 6 Dec 2000 | s. 1 and 2: 6 Dec 2000; Act other than s. 1 and 2: 1 Jan 2001 (see s. 2 and Gazette 29 Dec 2000 p. 7903)
@@ -16,20 +16,12 @@ Criminal Law and Evidence Amendment Act 2008 s. 61 | 2 of 2008 | 12 Mar 2008 | 2
 Medical Practitioners Act 2008 Sch. 3 cl. 17 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 2: The Criminal Property Confiscation Act 2000 as at 20 Mar 2009 (includes amendments listed above except those in the Housing Societies Repeal Act 2005)
 Acts Amendment (Bankruptcy) Act 2009 s. 27 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-Co-operatives Act 2009 s. 508 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975)
+Co-operatives Act 2009 s. 508 and 513 | 24 of 2009 | 22 Oct 2009 | s. 508: 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975); s. 513: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 18 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
-Reprint 3: The Criminal Property Confiscation Act 2000 as at 4 May 2012 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Co-operatives Act 2009 s. 513 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
+Reprint 3: The Criminal Property Confiscation Act 2000 as at 4 May 2012 (includes amendments listed above except those in the Co-operatives Act 2009 s. 513)
 Repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
-On the date as at which this reprint was prepared, the Co-operatives Act 2009 s. 513 had not come into operation. It reads as follows:
-513.Criminal Property Confiscation Act 2000 amended
-(1) This section amends the Criminal Property Confiscation Act 2000.
-(2) In the Glossary in paragraph (e) of the definition of financial institution delete “a registered society within the meaning of the Co-operative and Provident Societies Act 1903, or”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
