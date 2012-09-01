@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 January 2011 of the Equal Opportunity Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Equal Opportunity Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Equal Opportunity Act 1984 | 83 of 1984 | 7 Dec 1984 | s. 1 and 2: 7 Dec 1984; Act other than s. 1 and 2: 8 Jul 1985 (see s. 2 and Gazette 5 Jul 1985 p. 2387)
@@ -41,14 +41,10 @@ Reprint 5: The Equal Opportunity Act 1984 as at 2 Mar 2007 (includes amendments 
 Acts Amendment (Justice) Act 2008 Pt. 10 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 661 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Acts Amendment (Bankruptcy) Act 2009 s. 36 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-Co-operatives Act 2009 s. 509 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975)
+Co-operatives Act 2009 s. 509 and 514 | 24 of 2009 | 22 Oct 2009 | s. 509: 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975); s. 514: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
 Equal Opportunity Amendment Act 2010 | 2 of 2010 | 1 Apr 2010 | s. 1 and 2: 1 Apr 2010 (see s. 2(a)); Act other than s. 1 and 2: 25 Sep 2010 (see s. 2(b) and Gazette 24 Sep 2010 p. 5047)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Reprint 6: The Equal Opportunity Act 1984 as at 7 Jan 2011 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Co-operatives Act 2009 s. 514 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
+Reprint 6: The Equal Opportunity Act 1984 as at 7 Jan 2011 (includes amendments listed above except those in the Co-operatives Act 2009 s. 514)
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 of the Commonwealth (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 of the Commonwealth.
 The Uniform Building By-laws 1974 were repealed in Gazette 28 July 1989 p. 2280.
 Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1) which was repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
@@ -67,12 +63,8 @@ The State Administrative Tribunal Regulations 2004 r. 48 reads as follows:
 48.Equal Opportunity Act 1984
 Unless the context otherwise requires, where in an arrangement made under the Equal Opportunity Act 1984 section 7 there is a reference to the Equal Opportunity Tribunal that reference is to be read and construed as a reference to the State Administrative Tribunal.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or repealed by that Act.
-On the date as at which this reprint was prepared, the Co-operatives Act 2009 s. 514 had not come into operation. It reads as follows:
-514.Equal Opportunity Act 1984 amended
-(1) This section amends the Equal Opportunity Act 1984.
-(2) In section 35N(1)(a) delete “of a society registered under the Co-operative and Provident Societies Act 1903 or”.
-(3) In section 66ZS(1)(a)(i) delete “of a society registered under the Co-operative and Provident Societies Act 1903 or”.
-(4) In section 69(1)(b)(i) delete “of a society registered under the Co-operative and Provident Societies Act 1903 or”.
+The amendments in the Co-operatives Act 2009 s. 509(2) and 514(2) are not included because the section it sought to amend had expired on 9 Jan 1995 (see s. 35N(2)). Section 35N(2) reads as follows:
+(2) Subsection (1) shall, except to the extent that regulations made for the purposes of this subsection provide otherwise, cease to be in force at the expiration of 2 years after the coming into operation of section 11 of the Equal Opportunity Amendment Act 1992.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -138,4 +130,3 @@ victimiser67(1)
 voluntary body4(1)
 Western Australian law4(1)
 woman4(1)
-By Authority: JOHN A. STRIJK, Government Printer

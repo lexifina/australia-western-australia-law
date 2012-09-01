@@ -17,25 +17,21 @@ Taxi Amendment Act 2006 | 4 of 2006 | 30 Mar 2006 | Act other than Pt. 2: 30 Mar
 Reprint 2: The Taxi Act 1994 as at 4 Aug 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 167 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Taxi Amendment Act 2007 | 26 of 2007 | 16 Oct 2007 | s. 1 and 2: 16 Oct 2007 (see s. 2(a)); Act other than s. 1 and 2: 17 Oct 2007 (see s. 2(b))
-Co-operatives Act 2009 s. 510 and 517 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975)
+Co-operatives Act 2009 s. 510 and 517 | 24 of 2009 | 22 Oct 2009 | s. 510: 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975); s. 517: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Reprint 3: The Taxi Act 1994 as at 8 Apr 2011 (includes amendments listed above)
+Reprint 3: The Taxi Act 1994 as at 8 Apr 2011 (includes amendments listed above except those in the Co-operatives Act 2009 s. 517)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 5 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Co-operatives Act 2009 s. 517 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 49 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The provision in this Act repealing the Taxi-car Control Act 1985 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Land Administration Act 1997.
 Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 49 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 517 had not come into operation. It reads as follows:
-517.Taxi Act 1994 amended
-(1) This section amends the Taxi Act 1994.
-(2) In section 3(3)(b) delete “a company within the meaning of the Companies (Co-operative) Act 1943, and”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 49 had not come into operation. It reads as follows:
 Division 49 — Taxi Act 1994 amended
 179.Act amended

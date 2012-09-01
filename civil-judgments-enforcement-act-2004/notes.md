@@ -8,12 +8,11 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Acts Amendment (Justice) Act 2008 Pt. 3 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 645 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Reprint 1: The Civil Judgments Enforcement Act 2004 as at 20 Feb 2009 (includes amendments listed above except those in the Housing Societies Repeal Act 2005 s. 20 and the Legal Profession Act 2008 s. 645)
-Co-operatives Act 2009 s. 507 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975)
+Co-operatives Act 2009 s. 507 and 512 | 24 of 2009 | 22 Oct 2009 | s. 507: 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975); s. 512: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
 Police Amendment Act 2009 s. 13 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Co-operatives Act 2009 s. 512 | 24 of 2009 | 22 Oct 2009 | 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 8 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “
@@ -82,10 +81,6 @@ Division 2 — General
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of publication.
 ”.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Co-operatives Act 2009 s. 512 had not come into operation. It reads as follows:
-512.Civil Judgments Enforcement Act 2004 amended
-(1) This section amends the Civil Judgments Enforcement Act 2004.
-(2) In section 45 in paragraph (c) of the definition of financial institution delete “a society registered or deemed to be registered under the Co-operative and Provident Societies Act 1903, or”.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 8 had not come into operation. It reads as follows:
 Division 8 — Civil Judgments Enforcement Act 2004 amended
 57.Act amended
