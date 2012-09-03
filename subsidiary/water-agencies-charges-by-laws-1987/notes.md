@@ -107,6 +107,10 @@ Water Agencies (Charges) Amendment By-laws 2010 | 25 Jun 2010 p. 2901-81 | bl. 1
 Water Agencies (Charges) Amendment By-laws (No. 2) 2010 | 10 Sep 2010 p. 4350-1 | bl. 1 and 2: 10 Sep 2010 (see bl. 2(a)); By-laws other than bl. 1 and 2: 11 Sep 2010 (see bl. 2(b))
 Water Agencies (Charges) Amendment By-laws 2011 | 23 Jun 2011 p. 2417-93 | bl. 1 and 2: 23 Jun 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2011 (see bl. 2(b))
 Water Agencies (Charges) Amendment By-laws 2012 | 20 Jun 2012 p. 2693-774 | bl. 1 and 2: 20 Jun 2012 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2012 (see bl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Water Services Legislation Amendment and Repeal Act 2012 s. 202(b) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Now established by the Port Authorities Act 1999 s. 4.
 Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act.
 Repealed by the Gas Corporation (Business Disposal) Act 1999.
@@ -129,6 +133,10 @@ The Water Agencies (Charges) Amendment By-Laws (No. 5) 2001 bl. 2 and 6 are tran
 The Water Agencies (Charges) Amendment By-laws 2002 bl. 3 reads as follows:
 3.Saving
 Where a hydrant standpipe in the metropolitan area was issued by the Corporation before the commencement of these by-laws, the charge under Schedule 1 item 31 to the Water Agencies (Charges) By-laws 1987 in respect of the standpipe is to be assessed as if these by-laws had not come into operation.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 202(b) had not come into operation. It reads as follows:
+202.Other legislation repealed
+These written laws are repealed:
+(b) the Water Agencies (Charges) By-laws 1987;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
