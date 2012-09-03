@@ -11,6 +11,7 @@ Revenue Laws Amendment and Repeal Act 2010 Pt. 2 | 17 of 2010 | 25 Jun 2010 | s.
 Duties Amendment Act 2011 | 27 of 2011 | 11 Jul 2011 | s. 1 and 2: 11 Jul 2011 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2011 (see s. 2(b)(ii))
 Reprint 1: The Duties Act 2008 as at 12 Jul 2011 (includes amendments listed above)
 Duties Amendment Act (No. 2) 2011 | 33 of 2011 | 12 Sep 2011 | Pt. 2: 24 Dec 2010 (see s. 2(b)); Pt. 1: 12 Sep 2011 (see s. 2(a)); Pt. 3: 13 Sep 2011 (see s. 2(c))
+Revenue Laws Amendment Act 2012 Heading to Pt. 2, Pt. 2 Div. 1 and 2 | 29 of 2012 | 3 Sep 2012 | 1 Dec 2011 (see s. 2(b))
 On the date as at which this complation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -18,7 +19,7 @@ Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv 3 | 12 of 2008 (as ame
 Inheritance (Family and Dependants Provision) Amendment Act 2011 s. 15 | 48 of 2011 | 25 Oct 2011 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 18 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The Mining Act 1904 was repealed by the Mining Act 1978.
-The Acts Amendment (Land Administration) Act 1997commenced 30 Mar 1998 (Gazette 27 Mar 1998 p. 1765)
+The Acts Amendment (Land Administration) Act 1997 commenced 30 Mar 1998 (Gazette 27 Mar 1998 p. 1765).
 On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv. 3 (as amended by No. 9 of 2010 s. 9) had not come into operation. It reads as follows:
 Part 2 — Amendments
 Division 2 — Duties Act 2008 amended
@@ -111,6 +112,7 @@ Note:The heading to amended section 253 is to read:
 Functions of CEO and Commissioner
 Note:The heading to amended section 255 is to read:
 CEO’s duties
+This section has a retrospective commencement date effective from 1 Dec 2011 (see the Revenue Law Amendment Act 2012 Pt. 2 Div. 1 and 2).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
