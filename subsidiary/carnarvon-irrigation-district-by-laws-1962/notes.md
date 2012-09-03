@@ -46,9 +46,17 @@ Reprint 2: The Carnarvon Irrigation District By-laws 1962 as at 2 Oct 2009 (incl
 Water Agencies Amendment By-laws 2010 Pt. 2 | 25 Jun 2010 p. 2983-96 | 1 Jul 2010 (see bl. 2(b))
 Water Agencies Amendment By-laws 2011 Pt. 2 | 23 Jun 2011 p. 2403-16 | 1 Jul 2011 (see bl. 2(b))
 Water Agencies Amendment By-laws 2012 Pt. 2 | 20 Jun 2012 p. 2677-92 | 1 Jul 2012 (see bl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Water Services Legislation Amendment and Repeal Act 2012 s. 199(a) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 These by-laws have effect for the purposes of the Rights in Water and Irrigation Act 1914 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 Now known as the Carnarvon Irrigation District By-laws 1962; citation changed (see note under bl. 1).
 These by-laws contain an application provision concerning fees and charges for a period commencing before, or for a matter or thing done before, the by-laws came into operation.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 199(a) had not come into operation. It reads as follows:
+199.Irrigation legislation repealed
+These written laws are repealed:
+(a) the Carnarvon Irrigation District By-laws 1962;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
