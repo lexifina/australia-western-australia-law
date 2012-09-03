@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 June 2012 of the Country Towns Sewerage Act 1948 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Country Towns Sewerage Act 1948 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Country Towns Sewerage Act 1948 | 82 of 1948 (12 and 13 Geo. VI No. 82) | 26 Jan 1949 | 8 Apr 1949 (see s. 1 and Gazette 8 Apr 1949 p. 770)
@@ -45,6 +45,10 @@ Duties Legislation Amendment Act 2008 Sch. 1 cl. 5 | 12 of 2008 | 14 Apr 2008 | 
 Standardisation of Formatting Act 2010 s. 45 and 55 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Reprint 7: The Country Towns Sewerage Act 1948 as at 1 Jun 2012 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Water Services Legislation Amendment and Repeal Act 2012 s. 200(a) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Now known as the Water Agencies (Powers) Act 1984.
 Repealed by the Water Resources Legislation Amendment Act 2007.
 Metropolitan Water Supply, Sewerage, and Drainage Act 1909.
@@ -54,6 +58,10 @@ Section 48A and the Second Schedule were inserted by the Limitation Act Amendmen
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 44 is a transition provision of no further effect.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 200(a) had not come into operation. It reads as follows:
+200.Sewerage legislation repealed
+These written laws are repealed:
+(a) the Country Towns Sewerage Act 1948;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
