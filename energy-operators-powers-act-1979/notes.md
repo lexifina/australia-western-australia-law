@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 April 2008 of the Energy Operators (Powers) Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Energy Operators (Powers) Act 1979 and includes the amendments made by the other written laws referred to in the following table,. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 State Energy Commission Act 1979 | 111 of 1979 | 21 Dec 1979 | 1 Feb 1980 (see s. 2 and Gazette 1 Feb 1980 p. 284)
@@ -42,6 +42,10 @@ Energy Operators (Powers) Amendment Act 2006 s. 1-4 | 8 of 2006 | 5 May 2006 | 5
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Water Resources Legislation Amendment Act 2007 s. 193 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Reprint 5: The Energy Operators (Powers) Act 1979 as at 4 Apr 2008 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Water Services Legislation Amendment and Repeal Act 2012 s. 210 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 The State Electricity Commission Act 1945 was repealed by this Act.
 The Energy Operators (Powers) Act 1979 is affected by the Dampier to Bunbury Pipeline Act 1997 Sch. 4 Div. 3 it. 9, which reads as follows:
@@ -278,3 +282,8 @@ the energy operator, as mentioned in subsection (3), is to be presumed to be cor
 appropriate network development means “appropriate network development” as defined in section 58(3a) or section 61(1a) of the principal Act, as the case may require;
 Western Power Corporation has the meaning given to that term in section 4(1) of the principal Act.
 ”.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 210 had not come into operation. It reads as follows:
+210.Energy Operators (Powers) Act 1979 amended
+(1) This section amends the Energy Operators (Powers) Act 1979.
+(2) Delete section 42(2)(a) and insert:
+(a) the powers, authorities and functions of a licensee as defined in the Water Services Act 2012 section 3(1), the Minister administering the Water Agencies (Powers) Act 1984 and any statutory authority within the meaning of that Act; and
