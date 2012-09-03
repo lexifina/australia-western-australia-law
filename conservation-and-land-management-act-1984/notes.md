@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 May 2012 of the Conservation and Land Management Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Conservation and Land Management Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Conservation and Land Management Act 1984 | 126 of 1984 | 8 Jan 1985 | s. 1 and 2: 8 Jan 1985; Act other than s. 1 and 2: 22 Mar 1985 (see s. 2 and Gazette 15 Mar 1985 p. 931)
@@ -58,10 +58,11 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Conservation Legislation Amendment Act 2011 Pt. 2 (other than s. 40) | 36 of 2011 | 13 Sep 2011 | 14 Mar 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 6 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Reprint 8: The Conservation and Land Management Act 1984 as at 11 May 2012 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Conservation Legislation Amendment Act 2011 s. 40 | 36 of 2011 | 13 Sep 2011 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 207 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The Land Act 1933 was repealed by the Land Administration Act 1997 s. 281.
 The Forests Act 1918 was repealed by s. 147(1) of this Act.
 The Acts Amendment (Marine Reserves) Act 1997 s. 7(2) reads as follows:
@@ -207,7 +208,7 @@ Executive Director means the Executive Director referred to in section 36 of the
 and, unless the contrary intention appears, other words and expressions in this section have the same respective meanings as they have in the Conservation and Land Management Act 1984.
 The requirement to appoint an Executive Director was removed from the Act and references to the Executive Director were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
 The requirement to establish the Department of Conservation and Land Management was removed from the Act, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 453 of that Act is a general transitional provision that applies to references to the Department of Conservation and Land Management in written laws.
-On the date as at which this reprint was prepared, the Conservation Legislation Amendment Act 2011 s. 40 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Conservation Legislation Amendment Act 2011 s. 40 had not come into operation. It reads as follows:
 Part 2 — Conservation and Land Management Act 1984 amended
 40.Sections 103A and 103B inserted
 At the end of Part IX Division 1 insert:
@@ -268,6 +269,15 @@ but must not restrict or exclude the operation of subsection (3) in respect of m
 It is a defence to a charge of an offence against this Act alleged to have been committed on section 8A land to prove —
 (a) the accused was a party to the relevant section 8A agreement or was acting with the authority of such a party; and
 (b) the agreement authorised the party to do the act or make the omission constituting the offence.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 207 had not come into operation. It reads as follows:
+207.Conservation and Land Management Act 1984 amended
+(1) This section amends the Conservation and Land Management Act 1984.
+(2) In section 3 in the definition of public water catchment area:
+(a) in paragraph (b)(ii) delete “1909; or” and insert:
+1909;
+(b) delete paragraph (b)(iii).
+(3) In section 53 in the definition of relevant water utility delete paragraph (b) and insert:
+(b)a licence under the Water Services Act 2012.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
