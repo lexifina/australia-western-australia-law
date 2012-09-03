@@ -57,9 +57,10 @@ Building Act 2011 s. 173 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) an
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 80 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 80 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
+Water Services Legislation Amendment and Repeal Act 2012 s. 229 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
-The designation of Ministers may be altered by the Governor under the Alterations of Statutory Designations Act 1974. As at the date of this reprint the former Minister for Agriculture is known as the Minister for Agriculture and Food.
+The designation of Ministers may be altered by the Governor under the Alterations of Statutory Designations Act 1974. As at the date of this compilation the former Minister for Agriculture is known as the Minister for Agriculture and Food.
 Repealed by the Conservation and Land Management Act 1984 s. 147.
 Repealed by the Acts Amendment and Repeal (Statutory Bodies) Act 1985.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
@@ -73,6 +74,13 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 (1) The amendment in this section is to the Soil and Land Conservation Act 1945.
 (2) The Schedule is amended by deleting “Stock (Identification and Movement) Act 1970”.
 ”.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 229 had not come into operation. It reads as follows:
+229.Soil and Land Conservation Act 1945 amended
+(1) This section amends the Soil and Land Conservation Act 1945.
+(2) In the Schedule:
+(a) delete “Land Drainage Act 1925”;
+(b) after “Stock (Identification and Movement) Act 1970” insert:
+Water Services Act 2012
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
