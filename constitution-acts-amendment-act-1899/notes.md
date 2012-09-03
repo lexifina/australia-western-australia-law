@@ -276,6 +276,7 @@ Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 1
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 Teacher Registration Act 2012 s. 164 | 16 of 2012 | 3 Jul 2012 | To be proclaimed (see s. 2(b))
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 1 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 208 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
@@ -389,6 +390,17 @@ Division 1 — Constitution Acts Amendment Act 1899 amended
 This Division amends the Constitution Acts Amendment Act 1899.
 111.Schedule V amended
 In Schedule V Part 3 delete the item relating to the Fire and Emergency Services Authority of Western Australia.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 208 had not come into operation. It reads as follows:
+208.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 3 delete the item relating to the board of directors of the Water Corporation and insert:
+The board of directors of a corporation established by the Governor under the Water Corporations Act 1995 section 4(4).
+The board of directors of the Bunbury Water Corporation established by the Water Corporations Act 1995 section 4(2).
+The board of directors of the Busselton Water Corporation established by the Water Corporations Act 1995 section 4(3).
+The board of directors of the Water Corporation established by the Water Corporations Act 1995 section 4(1).
+(3) In Schedule V Part 3 in the item relating to the Plumbers Licensing Board delete “Water Services” and insert:
+Plumbers
+(4) In Schedule V Part 3 delete the item relating to water board constituted under the Water Boards Act 1904.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
