@@ -16,6 +16,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Commercial Arbitration Act 2012 s. 45 it. 8 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 214 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Commercial Arbitration Act 1985.
 The Acts Amendment (Chemistry Centre (WA)) Act 1990 s. 6 reads as follows:
 “
@@ -30,3 +31,8 @@ Table
 Provision | Delete | Insert
 8.Fluoridation of Public Water Supplies Act 1966
 s. 13(3) | Arbitration Act 1895 | Commercial Arbitration Act 2012
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 214 had not come into operation. It reads as follows:
+214.Fluoridation of Public Water Supplies Act 1966 amended
+(1) This section amends the Fluoridation of Public Water Supplies Act 1966.
+(2) In section 5(2)(b) delete “Water Corporation Act 1995” and insert:
+Water Corporations Act 1995 section 4(1)
