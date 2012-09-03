@@ -39,6 +39,10 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Reprint 4: The Water Agencies (Powers) Act 1984 as at 7 Jan 2011 (includes amendments listed above)
 Building Act 2011 s. 175 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Water Services Legislation Amendment and Repeal Act 2012 Pt. 6 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Acts Amendment (Water Authority Rates and Charges) Act 1987 s. 4 reads as follows:
 4.Application of Part
@@ -73,6 +77,162 @@ The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain tra
 Now known as the Water Agencies (Powers) Act 1984; short title changed (see note under s. 1).
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 14 contains transitional provisions relating to the replacement of the Water Authority and Waterways Commission with the Water Corporation, Water and Rivers Commission and the Coordinator of Water Services.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 Pt. 6 had not come into operation. It reads as follows:
+Part 6 — Water Agencies (Powers) Act 1984 amended
+75.Act amended
+This Part amends the Water Agencies (Powers) Act 1984.
+76.Long title amended
+In the long title delete “powers, to give the Water Corporation powers, to make other provisions in respect of their functions,” and insert:
+powers, to make other provisions in respect of the Minister’s functions,
+77.Section 3 amended
+(1) In section 3(1) delete the definitions of:
+charge
+Corporation
+gross rental value
+local authority
+officer
+unimproved value
+valuation
+waste
+(2) In section 3(1) in the definition of statutory authority delete “Minister, the CEO or the Corporation,” and insert:
+Minister or the CEO,
+(3) In section 3(1) in the definition of works delete “by the Corporation for the purposes of water services or”.
+78.Section 5 amended
+(1) In section 5(1):
+(a) in paragraph (a) delete “Water Authority” and insert:
+Arterial Drainage
+(b) in paragraph (f) delete “1947;” and insert:
+1947.
+(c) delete paragraphs (d), (e), (g), (h) and (i).
+(2) After section 5(1) insert:
+(2) In a provision of this Act that has effect by reference to a past event or status, a reference to a relevant Act includes a reference to an Act referred to subsection (1) as in force immediately before the commencement of the Water Services Legislation Amendment and Repeal Act 2012 section 78.
+79.Section 8 amended
+In section 8:
+(a) delete “Corporation, or the”;
+(b) delete “Corporation or the” (each occurrence).
+Note:The heading to amended section 8 is to read:
+Vesting interest in land in Minister
+80.Section 10 amended
+Delete section 10(2).
+Note:The heading to amended section 10 is to read:
+Functions and powers of Minister — relation to other functions and powers
+81.Section 14 amended
+In section 14(12) in the definition of water services licensee delete “section 3 of the Water Services Licensing Act 1995.” and insert:
+the Water Services Act 2012 section 3(1).
+82.Section 34 amended
+(1) In section 34(1) delete “or the Corporation of their respective functions” and insert:
+of functions
+(2) In section 34(3):
+(a) in paragraph (g) delete “watercourse;” and insert:
+watercourse.
+(b) delete paragraphs (h), (i), (j), (k), (l) and (n).
+83.Part III heading replaced
+Delete the heading to Part III and insert:
+Part III — Liability, indemnity etc.
+84.Part III Divisions 1A and 2 deleted
+Delete Part III Divisions 1A and 2.
+85.Part III Division 6 heading deleted
+Delete the heading to Part III Division 6.
+86.Parts IV and V deleted
+Delete Parts IV and V.
+87.Section 70 amended
+In section 70(2) delete “or a person authorised by the Corporation”.
+88.Section 71 amended
+(1) Delete section 71(1)(a)(i).
+(2) In section 71(3):
+(a) delete “Minister, or the Corporation by its officers or agents,” and insert:
+Minister
+(b) delete “or the Corporation” (second occurrence).
+89.Section 72 amended
+In section 72(6):
+(a) delete “or the Corporation” (first occurrence);
+(b) delete “or the Corporation by its officers,”.
+90.Section 73 amended
+In section 73(1):
+(a) delete “Minister or the Corporation, an officer of the Department or the Corporation or any other person who pursuant to section 3(3) is deemed to be authorised to exercise a power of the Minister or the Corporation,” and insert:
+Minister, an officer of the Department or any other person who pursuant to section 3(3) is deemed to be authorised to exercise a power of the Minister,
+(b) in paragraph (b) delete “Minister or the Corporation, any property sewer or any fixture or fitting; or” and insert:
+Minister; or
+(c) delete paragraphs (c) and (d);
+(d) delete “or the Corporation” (second and third occurrences).
+91.Section 78 amended
+(1) In section 78(1):
+(a) delete “or the Corporation” (first and third occurrences);
+(b) delete “Commission, the Minister or the Corporation” and insert:
+Commission or the Minister
+(2) In section 78(2) delete “Commission, the Minister or the Corporation” and insert:
+Commission or the Minister
+92.Section 82 amended
+Delete section 82(1a).
+93.Section 83 amended
+(1) Delete section 83(1).
+(2) In section 83(2) delete “subsections (1) and (1a)” and insert:
+subsection (1a)
+94.Section 84 amended
+Delete section 84(1).
+95.Section 85 deleted
+Delete section 85.
+96.Section 86 amended
+In section 86 in the definition of major works delete paragraph (b) and insert:
+(b)such other works as the Minister considers, by virtue of their location, size or nature, to be of sufficient public interest to require public advertisement and that an opportunity to object or comment thereon should be given.
+97.Section 87 amended
+Delete section 87(1).
+98.Section 88 amended
+In section 88(1) delete “works, and the Corporation must, before submitting proposals to the Minister for the carrying out, construction or provision of major”.
+99.Section 89 amended
+Delete section 89(3) and insert:
+(3) Where the Minister so determines, and whether or not by reason of objections or comments received, the Minister may amend the proposal by making alterations to the plans or proposals so deposited and advise the persons who are, in the opinion of the Minister, likely to be affected by such alterations.
+100.Section 90 deleted
+Delete section 90.
+101.Section 91 amended
+Delete section 91(1), (2) and (3).
+102.Section 95 amended
+Delete section 95(1), (2), (3) and (4).
+103.Section 97 amended
+Delete section 97(4) and insert:
+(4) Where the Minister is satisfied that a deviation or modification of a kind to which subsection (1), (2) or (3) does not apply —
+(a) is not inconsistent with the general proposal; and
+(b) is necessary in the public interest; and
+(c) does not adversely affect the interest of any person who is the owner or occupier of the land where the works are to be situate,
+the Minister may carry out the works as so varied, despite the provisions of sections 88 and 89, or 93, 94 and 95, not having been complied with.
+104.Part VIII Divisions 3 and 4 deleted
+Delete Part VIII Divisions 3 and 4.
+105.Section 103 amended
+In section 103(11) delete “Corporation shall” and insert:
+chief executive officer of a water corporation (as defined in section 106(1A)) must
+106.Section 106 amended
+(1) Before section 106(1) insert:
+(1A) In this section —
+water corporation means a corporation as defined in the Water Corporations Act 1995 section 3(1).
+(2) In section 106(1) delete “the Water Corporation or a water board” and insert:
+a water corporation
+(3) Delete section 106(4).
+107.Section 111 amended
+Delete section 111(4).
+108.Section 112 amended
+Delete section 112(3)(a).
+109.Various references to “Corporation” amended
+In the provisions listed in the Table:
+(a) delete “or the Corporation” (each occurrence);
+(b) delete “or the Corporation’s”;
+(c) delete “or Corporation”.
+Table
+s. 3(3) | s. 34(3)(b)
+s. 36(1)(c), (3), (4), (6) and (7) | s. 62(1) and (3)
+s. 63 | s. 70(1), (2) and (3)
+s. 71(1) and (2) | s. 72(1), (2), (4) and (7)
+s. 73(3) and (4) | s. 75
+s. 77 | s. 79
+s. 81(1), (2) and (3) | s. 83(2) and (3)
+s. 84(2), (3) and (4) | s. 86 def. of exempt works par. (c)
+s. 88(1) | s. 89(2)
+s. 92 | s. 93
+s. 94(2) and (3) | s. 96
+s. 97(1), (2) and (3)
+Note:The heading to amended section 81 is to read:
+Claims against Crown for use of land and application of Public Works Act 1902
+Note:The heading to amended section 96 is to read:
+Minister to carry out exempt works
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
