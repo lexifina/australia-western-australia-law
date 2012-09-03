@@ -21,6 +21,10 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Petroleum Amendment Act 2007 s. 89 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Reprint 4: The Aboriginal Heritage Act 1972 as at 7 Mar 2008 (includes amendments listed above)
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 3 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Water Services Legislation Amendment and Repeal Act 2012 s. 203 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Aboriginal Heritage Amendment Act 1995 s. 19(2), (3) and (4) read as follows:
 “
@@ -35,3 +39,11 @@ The Aboriginal Heritage Amendment Act 1995 s. 51(2) and (3) read as follows:
 ”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 1 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 203 had not come into operation. It reads as follows:
+203.Aboriginal Heritage Act 1972 amended
+(1) This section amends the Aboriginal Heritage Act 1972.
+(2) In section 18(1a):
+(a) in paragraph (b) delete “land.” and insert:
+land; or
+(b) after paragraph (b) insert:
+(c) the person is the holder of a licence under the Water Services Act 2012 as a result of which the person has rights or powers in respect of the land.
