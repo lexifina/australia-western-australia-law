@@ -33,6 +33,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Commercial Arbitration Act 2012 s. 45 it. 3 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 206 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The Companies Act 1893 was repealed by the Companies Act 1943. The latter Act was repealed by the Companies Act 1961 s. 4 except in relation to co-operative companies in respect of which it is now cited as the Companies (Co-operative) Act 1943 (s. 382).
 Now 30 Delhi Street, West Perth.
 Now see Insurance (Deposits) Act 1932 of the Commonwealth.
@@ -68,6 +69,10 @@ Table
 Provision | Delete | Insert
 3.Bulk Handling Act 1967
 s. 48(3) | Arbitration Act 1895 | Commercial Arbitration Act 2012
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 206 had not come into operation. It reads as follows:
+206.Bulk Handling Act 1967 amended
+(1) This section amends the Bulk Handling Act 1967.
+(2) Delete section 52A.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
