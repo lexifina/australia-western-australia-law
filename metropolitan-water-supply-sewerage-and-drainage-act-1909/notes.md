@@ -74,6 +74,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 9 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 Pt. 4 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The short title of the Water Authority Act 1984 was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995.
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 5 and 8.
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
@@ -100,6 +101,93 @@ State or the local government, according to whether the statement is rendered to
 Minister responsible for the administration of the Fire and Emergency Services Act 1998
 (6) In section 45(11)(a) delete “Authority” and insert:
 FES Commissioner
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — Metropolitan Water Supply, Sewerage, and Drainage Act 1909 amended
+31.Act amended
+This Part amends the Metropolitan Water Supply, Sewerage, and Drainage Act 1909.
+32.Section 5 amended
+(1) In section 5(1) delete the definitions of:
+aquifer
+artesian bore
+Corporation
+officer
+prescribed
+sewerage charge
+sewerage works
+water charge
+water supply charge
+waterworks
+(2) In section 5(1) in the definition of watercourse delete “(c);” and insert:
+(c).
+(3) Delete section 5(2).
+33.Section 14 amended
+(1) In section 14(1) delete “the Corporation” and insert:
+a licensee (as defined in the Water Services Act 2012 section 3(1))
+(2) In section 14(2) delete “The Corporation” and insert:
+A licensee
+34.Section 16 amended
+In section 16(c) delete “Act” and insert:
+act
+35.Part V deleted
+Delete Part V.
+36.Part VI heading replaced
+Delete the heading to Part VI and insert:
+Part VI — The protection of underground water
+37.Part VI Divisions 1 and 2 deleted
+Delete Part VI Divisions 1 and 2.
+38.Part VI Division 3 heading deleted
+Delete the heading to Part VI Division 3.
+39.Section 57B amended
+(1) In section 57B(1)(a) delete “water under this Act;” and insert:
+water;
+(2) In section 57B(3) delete “Act” and insert:
+act
+40.Part VI Division 4 deleted
+Delete Part VI Division 4.
+41.Parts VII and VIII deleted
+Delete Parts VII and VIII.
+42.Section 146 amended
+In section 146(1):
+(a) in paragraph (d) delete “banks;” and insert:
+banks.
+(b) delete paragraphs (e) to (m).
+43.Section 148 deleted
+Delete section 148.
+44.Sections 150 to 152 deleted
+Delete sections 150 to 152.
+45.Section 153 amended
+In section 153 delete “or the Corporation”.
+46.Sections 154 and 155 deleted
+Delete sections 154 and 155.
+47.Section 156 replaced
+Delete section 156 and insert:
+156.Obstructing Minister, officers or authorised persons in performance of duty
+A person who obstructs —
+(a) the Minister; or
+(b) an officer of the Department; or
+(c) a person authorised by the Minister,
+in the performance of any act or thing which the Minister, officer or person is authorised or required to do in the execution of the Metropolitan Arterial Drainage Act 1982 or this Act commits an offence.
+Penalty: a fine of $5 000.
+48.Section 157 amended
+In section 157:
+(a) delete “or the Corporation,”;
+(b) delete “the Metropolitan Water Authority Act 1982 or”.
+49.Section 158 amended
+In section 158 delete “the Metropolitan Water Authority Act 1982 or”.
+50.Section 158A amended
+In section 158A delete “the Metropolitan Water Authority Act 1982 or”.
+51.Section 159 amended
+Delete section 159(1) and insert:
+(1) Proceedings for an offence against this Act may only be taken by the Minister or an officer of the Department or a person authorised to do so by the Minister.
+52.Section 161 deleted
+Delete section 161.
+53.Section 165 amended
+In section 165 delete “Water Agencies (Powers) Act 1984, the Metropolitan Water Authority Act 1982” and insert:
+Water Agencies (Powers) Act 1984
+54.Section 166 deleted
+Delete section 166.
+55.Schedule 9 deleted
+Delete Schedule 9.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
