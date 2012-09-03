@@ -44,12 +44,20 @@ Water Agencies Amendment By-laws 2010 Pt. 5 | 25 Jun 2010 p. 2983-96 | 1 Jul 201
 Water Agencies Amendment By-laws 2011 Pt. 5 | 23 Jun 2011 p. 2403-16 | 1 Jul 2011 (see bl. 2(b))
 Reprint 4: The Metropolitan Water Authority (Miscellaneous) By-laws 1982 as at 11 Nov 2011 (includes amendments listed above)
 Water Agencies Amendment By-laws 2012 Pt. 5 | 20 Jun 2012 p. 2677-92 | 1 Jul 2012 (see bl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Water Services Legislation Amendment and Repeal Act 2012 s. 202(a) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 These by-laws have effect for the purposes of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 Now known as the Metropolitan Water Authority (Miscellaneous) By-laws 1982; citation changed (see note under bl. 1).
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The Metropolitan Water Authority (Rates and Charges) Amendment By-laws 1986 bl. 11 was a savings provision that is of no further effect.
 These by-laws contain an application provision concerning the period before the by-laws came into operation.
 The Metropolitan Water Authority (Miscellaneous) Amendment By-laws 2002 bl. 5 is a savings provision.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 202(a) had not come into operation. It reads as follows:
+202.Other legislation repealed
+These written laws are repealed:
+(a) the Metropolitan Water Authority (Miscellaneous) By-laws 1982;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
