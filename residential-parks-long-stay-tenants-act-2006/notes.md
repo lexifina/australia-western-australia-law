@@ -8,7 +8,8 @@ Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Residential Tenancies Amendment Act 2011 Pt. 5 Div. 5 | 60 of 2011 | 14 Dec 2011 | To be proclaimed (see s. 2(b))
+Residential Tenancies Amendment Act 2011 Pt. 5 Div. 5 | 60 of 2011 | 14 Dec 2011 | 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
+Water Services Legislation Amendment and Repeal Act 2012 s. 227 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Residential Tenancies Amendment Act 2011 Pt. 5 Div. 5 had not come into operation. It reads as follows:
 Part 5 — Amendments to other Acts
 Division 5 — Residential Parks (Long-stay Tenants) Act 2006 amended
@@ -37,3 +38,8 @@ s. 51 | s. 75(3)
 s. 76(3) | s. 77(1)
 s. 77(2) | s. 92(b)
 s. 94(a)
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 227 had not come into operation. It reads as follows:
+227.Residential Parks (Long-stay Tenants) Act 2006 amended
+(1) This section amends the Residential Parks (Long-stay Tenants) Act 2006.
+(2) Delete Schedule 1 clause 15(c) and insert:
+(c) the Water Services Act 2012, except a charge for the volume of water consumed.
