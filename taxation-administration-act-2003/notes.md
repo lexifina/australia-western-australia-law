@@ -20,7 +20,8 @@ Revenue Laws Amendment Act (No. 2) 2008 Pt. 2 Div. 1 and 3 and Pt. 3 | 31 of 200
 Reprint 3: The Taxation Administration Act 2003 as at 22 Aug 2008 (includes amendments listed above, except those in the Revenue Laws Amendment Act (No. 2) 2008 Pt. 3 Div. 3)
 Revenue Laws Amendment and Repeal Act 2010 Pt. 5 and s. 30 | 17 of 2010 | 25 Jun 2010 | 26 Jun 2010 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-Reprint 4: The Taxation Administration Act 2003 as at 3 Dec 2010 (includes amendments listed above)
+Reprint 4: The Taxation Administration Act 2003 as at 3 Dec 2010 (includes amendments listed above except those in the Revenue Laws Amendment Act 2012 s. 42(4))
+Revenue Laws Amendment Act 2012 Heading to Pt. 8, s. 40 and 42(4) | 29 of 2012 | 3 Sep 2012 | 1 Jul 2009 (see s. 2(d))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -275,6 +276,7 @@ This Division amends the Taxation Administration Act 2003.
 178.Section 34 amended
 In section 34(2)(b) delete “a traffic infringement notice issued under the Road Traffic Act 1974 section 102,” and insert:
 an infringement notice as defined in the Road Traffic (Administration) Act 2008 section 4,
+This section has a retrospective commencement date effective from 1 Jul 2009 (see the Revenue Laws Amendment Act 2012 s. 2(d)).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
