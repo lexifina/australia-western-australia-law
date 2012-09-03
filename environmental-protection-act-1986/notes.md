@@ -57,6 +57,7 @@ Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(3)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 20 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 6 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 211 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -131,6 +132,15 @@ This Division amends the Environmental Protection Act 1986.
 123.Schedule 6 amended
 In Schedule 6 item 12 delete “Fire and Emergency Services Authority of Western Australia established under the Fire and Emergency Services Authority of Western Australia Act 1998.” and insert:
 FES Commissioner as defined in the Fire and Emergency Services Act 1998 section 3.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 211 had not come into operation. It reads as follows:
+211.Environmental Protection Act 1986 amended
+(1) This section amends the Environmental Protection Act 1986.
+(2) In section 57(5) in the definition of designated area:
+(a) in paragraph (b) delete “or Public Water Supply Area”;
+(b) in paragraph (c) delete “water-course, lake, lagoon, swamp or marsh” and insert:
+watercourse or wetland
+(c) in paragraph (d) delete “section 26,” and insert:
+section 26B,
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
