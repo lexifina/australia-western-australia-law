@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 December 2010 of the Parliamentary Commissioner Act 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Parliamentary Commissioner Act 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Parliamentary Commissioner Act 1971 | 64 of 1971 | 22 Dec 1971 | 12 May 1972 (see s. 2 and Gazette 12 May 1972 p. 1043)
@@ -111,11 +111,12 @@ Acts Amendment (Bankruptcy) Act 2009 s. 62 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 80 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 9: The Parliamentary Commissioner Act 1971 as at 3 Dec 2010 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Water Services Legislation Amendment and Repeal Act 2012 s. 221 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Under the Liquor Control Act 1988 Sch. 1A cl. 9 a reference to the Liquor Licensing Court is to be read and construed as a reference to the Liquor Commission.
 The Health Legislation Administration Act 1984 s. 6(1) was amended by the Mental Health (Consequential Provisions) Act 1996 s. 38 to replace the office of Director, Psychiatric Services with the office of Chief Psychiatrist.
@@ -136,7 +137,7 @@ records includes —
 (c) transfer to the CCC any records in the possession of the Parliamentary Commissioner immediately before the commencement of this Division that relate to an investigation referred to in section 14(1a) of the Parliamentary Commissioner Act 1971.
 (3) Records transferred under subsection (1) become the records of the CCC and may be dealt with accordingly.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-As at the date on which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+As at the date on which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 7.3Consequential provisions
 Schedule 2 has effect.
 Schedule 2 cl. 48 reads:
@@ -145,7 +146,7 @@ Schedule 1 to the Parliamentary Commissioner Act 1971 is amended by inserting in
 “
 The Native Title Commission established by the Native Title (State Provisions) Act 1999.
 ”.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed
@@ -153,6 +154,23 @@ Act | Provision
 .............................................. | ................
 Parliamentary Commissioner Act 1971 | s. 10(2)
 .............................................. | ................
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 221 had not come into operation. It reads as follows:
+221.Parliamentary Commissioner Act 1971 amended
+(1) This section amends the Parliamentary Commissioner Act 1971.
+(2) In section 34(1) after “energy ombudsman scheme” insert:
+or a water ombudsman scheme
+(3) In section 34(4) delete “energy ombudsman”.
+(4) In section 34(5) delete “under the” and insert:
+under an
+(5) In section 34(7) insert in alphabetical order:
+water ombudsman scheme means a scheme approved under the Water Services Act 2012 Part 4.
+(6) In section 34(7) in the definition of governing body:
+(a) after “ombudsman scheme” insert:
+or a water ombudsman scheme
+(b) delete “scheme.” and insert:
+scheme;
+Note:The heading to amended section 34 is to read:
+Energy and water ombudsman schemes
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
