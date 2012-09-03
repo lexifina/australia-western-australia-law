@@ -16,6 +16,10 @@ Reprint of the Anglican Church of Australia (Diocesan Trustees) Act 1888 as at 3
 Taxation Administration (Consequential Provisions) Act 2002 s. 8 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Water Services Legislation Amendment and Repeal Act 2012 s. 204 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Under No. 4 of 1960 s. 5 a reference to “the Church of England in Western Australia” is to be construed as a reference to the Church of England in Australia so far as it is in the State. The name of the “Church of England in Australia” was changed to the “Anglican Church of Australia” by No. 121 of 1976 s. 7. This reference to the original name has not been changed due to its context.
 Formerly referred to “The Diocesan Trustees of the Church of England in Western Australia” the name of which was changed to “The Perth Diocesan Trustees” by No. 34 of 1918 s. 11. Reference changed under the Reprints Act 1984 s. 7(3)(h).
 Formerly referred to the “branch of the Church of England in Western Australia”. Under No. 4 of 1960 s. 5, that reference is to be read and construed as if it were a reference to the “Church of England in Australia so far as it is in the State”. Under No. 121 of 1976 s. 4 a reference to the “Church of England in Australia” is to be construed as a reference to the “Anglican Church of Australia”.
@@ -134,4 +138,8 @@ cannot be made more than 15 months after the licence was granted or transferred.
 (1) A permission granted under section 112V of the old Stamp Act and in force immediately before the commencement day continues in force on and after that day as a special tax arrangement under the Taxation Administration Act 2003.
 (2) Any requirement that applied, immediately before the commencement day, to a person to whom a permission continued by subsection (1) had been granted (whether imposed by the old Stamp Act or as a condition to which the permission was subject), continues as a condition to which the special tax arrangement referred to in subsection (1) is subject.
 ”.
-”.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 204 had not come into operation. It reads as follows:
+204.Anglican Church of Australia (Diocesan Trustees) Act 1888 amended
+(1) This section amends the Anglican Church of Australia (Diocesan Trustees) Act 1888.
+(2) In section 5A(6) delete “or the Metropolitan Water Supply, Sewerage and Drainage Act 1909,” and insert:
+is not subject to statutory water service charges under the Water Services Act 2012 unless the land is connected to water service works as defined in section 3(1) of that Act,
