@@ -21,9 +21,17 @@ Harvey, Waroona and Collie River Irrigation Districts Amendment By-laws 1996 | 2
 Reprint of the Harvey, Waroona and Collie River Irrigation Districts By-laws 1975 as at 27 May 1996 (includes amendments listed above)
 Water Agencies Amendment By-laws 2001 Pt. 5 | 29 Jun 2001 p. 3230-42 | 1 Jul 2001 (see bl. 2)
 Reprint 2: The Harvey, Waroona and Collie River Irrigation Districts By-laws 1975 as at 2 Apr 2004 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Water Services Legislation Amendment and Repeal Act 2012 s. 199(b) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 These by-laws have effect for the purposes of the Rights in Water and Irrigation Act 1914 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 The Water Agencies Amendment By-laws 2001 bl. 3 reads as follows:
 “
 3.Application
 Nothing in these by-laws affects the application after 1 July 2001 of a by-law in force before that day in so far as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
 ”.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 199(b) had not come into operation. It reads as follows:
+199.Irrigation legislation repealed
+These written laws are repealed:
+(b) the Harvey, Waroona and Collie River Irrigation Districts By-laws 1975;
