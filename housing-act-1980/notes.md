@@ -37,7 +37,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | it. 31 the amendment to s. 55(5) the amendment to delete “or on termination” and insert “or (ii) on termination”: to be proclaimed (see s. 2(b))
-Residential Tenancies Amendment Act 2011 Pt. 5 Div. 2 | 60 of 2011 | 14 Dec 2011 | To be proclaimed (see s. 2(b))
+Residential Tenancies Amendment Act 2011 Pt. 5 Div. 2 | 60 of 2011 | 14 Dec 2011 | 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
+Water Services Legislation Amendment and Repeal Act 2012 s. 218 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The body preserved and continued by this Act is now called the “Housing Authority” (see s. 6).
 The body corporate established under the State Housing Act 1946 (the repealed Act) was called “The State Housing Commission”. (See s. 8 of the repealed Act).
 Repealed by the Housing Societies Repeal Act 2005.
@@ -95,6 +96,14 @@ This Division amends the Housing Act 1980.
 lessor,
 (2) In section 62G(2) delete “owner” and insert
 lessor
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 218 had not come into operation. It reads as follows:
+218.Housing Act 1980 amended
+(1) This section amends the Housing Act 1980.
+(2) In section 38(1) after “government” insert:
+or with the Water Services Act 2012
+(3) In section 38(2) delete the definition of local government.
+(4) In section 38(2) in the definition of additions delete “fittings;” and insert:
+fittings.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
