@@ -32,10 +32,19 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 121 | 8 of 2009 | 21
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 5: The Statutory Corporations (Liability of Directors) Act 1996 as at 4 Nov 2011 (includes amendments listed above)
 Metropolitan Redevelopment Authority Act 2011 s. 143 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
-The Insurance Commission of Western Australia Act 1986 Part III provides for the establishment of the State Government Insurance Corporation and for a board of directors of the Corporation. The Acts Amendment (ICWA) Act 1996 s. 20, which had not come into operation at the date on which this reprint was prepared, would repeal that Part.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Water Services Legislation Amendment and Repeal Act 2012 s. 231 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+The Insurance Commission of Western Australia Act 1986 Part III provides for the establishment of the State Government Insurance Corporation and for a board of directors of the Corporation. The Acts Amendment (ICWA) Act 1996 s. 20, which had not come into operation at the date on which this compilation was prepared, would repeal that Part.
 Formerly referred to the State Government Insurance Commission Act 1986 the short title of which was changed to the Insurance Commission of Western Australia Act 1986 by the Acts Amendment (ICWA) Act 1996 s. 5. The reference was substituted under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993.
 The amendment in the State Superannuation Amendment Act 2007 s. 87 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 231 had not come into operation. It reads as follows:
+231.Statutory Corporations (Liability of Directors) Act 1996 amended
+(1) This section amends the Statutory Corporations (Liability of Directors) Act 1996.
+(2) In Schedule 1 delete the item relating to the Bunbury Water Board.
+(3) In Schedule 1 delete the item relating to the Busselton Water Board.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
