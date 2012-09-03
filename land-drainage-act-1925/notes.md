@@ -33,6 +33,10 @@ Reprint 4: The Land Drainage Act 1925 as at 5 Apr 2007 (includes amendment liste
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 61 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Water Services Legislation Amendment and Repeal Act 2012 s. 198(a) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Now known as the Water Agencies (Powers) Act 1984. Short title changed by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7.
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 2 commenced 1 Jan 1996.
 Repealed by the Land Administration Act 1997.
@@ -60,3 +64,7 @@ the LD Act means the Land Drainage Act 1925.
 (3) If the Corporation receives, before the commencement day, a notice in accordance with the LD Act section 99A(1) (as in force when the notice was received by the Corporation) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Corporation must refer the decision to refuse to extend time to the State Administrative Tribunal for a review as if the notice were a notice served on the Corporation under the LD Act section 99A(1).
 (4) If a notice has been given under the LD Act section 98(6) before the commencement day, on or after the commencement day the notice is to be taken to refer to the time within which and the manner in which a review of the decision may be made be sought.
 ”.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 198(a) had not come into operation. It reads as follows:
+198.Drainage legislation repealed
+These written laws are repealed:
+(a) the Land Drainage Act 1925;
