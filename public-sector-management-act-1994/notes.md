@@ -98,6 +98,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 11 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 224 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The R & I Holdings Act 1990 was repealed in Gazette 26 Jun 2001 p. 3063 under the R & I Holdings Act 1990 s. 22(2).
@@ -114,6 +115,12 @@ Division 11 — Public Sector Management Act 1994 amended
 This Division amends the Public Sector Management Act 1994.
 133.Schedule 2 amended
 Delete Schedule 2 item 10A.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 224 had not come into operation. It reads as follows:
+224.Public Sector Management Act 1994 amended
+(1) This section amends the Public Sector Management Act 1994.
+(2) Delete Schedule 1 item 19 and insert:
+19 | A body established by or under the Water Corporations Act 1995 section 4, namely — (i)the Water Corporation; and
+ | (ii)the Bunbury Water Corporation; and (iii)the Busselton Water Corporation; and (iv)a body established by the Governor.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
