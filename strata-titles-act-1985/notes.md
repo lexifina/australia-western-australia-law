@@ -48,6 +48,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Water Services Legislation Amendment and Repeal Act 2012 s. 232 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
 “
 (5) A plan registered under the principal Act before the provision inserted by subsection (3) came into operation is declared to be, and to have always been, valid if it would have been valid at the time of registration had that provision been then in operation.
@@ -144,6 +145,17 @@ On the date as at which this compilation was prepared, the State Superannuation 
 Section 73(1)(g)(i) of the Strata Titles Act 1985 is amended by deleting “, and in particular his rights, if any, under the Superannuation and Family Benefits Act 1938.”.
 ”.
 The section that it seeks to amend has been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1125.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 232 had not come into operation. It reads as follows:
+232.Strata Titles Act 1985 amended
+(1) This section amends the Strata Titles Act 1985.
+(2) Delete section 60(4).
+(3) In section 66 after “an authority” insert:
+(including a licensee as defined in the Water Services Act 2012 section 3(1))
+(4) At the end of Part IV Division 5 insert:
+67.Water service charges under the Water Services Act 2012
+For the purposes of this Division —
+(a) a statutory water service charge (as defined in the Water Services Act 2012 section 71(1)) that applies in respect of land is to be taken to be a rate made and levied by an authority (that is, the licensee to whom the charge is payable); and
+(b) the licensee is to be taken to be an authority authorised to make and levy the rate on the land.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
