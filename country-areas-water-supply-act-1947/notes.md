@@ -68,6 +68,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 87 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(2))
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 28 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 Pt. 2 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Formerly referred to the Water Authority Act 1984, the short title of which was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -112,6 +113,75 @@ Minister referred to in that subsection
 the FES Commissioner
 (c) delete “as the case may be, in which the property in the fire hydrant is vested” and insert:
 according to whether the property in the fire hydrant is vested in the Minister referred to in subsection (10) or the local government,
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Country Areas Water Supply Act 1947 amended
+3.Act amended
+This Part amends the Country Areas Water Supply Act 1947.
+4.Long title amended
+In the long title delete the passage that begins with “to make” and ends with “areas,”.
+5.Section 5 amended
+In section 5(1) delete the definitions of:
+Corporation
+country water area
+farm land
+metropolitan area
+officer
+water board
+Water Boards Act
+Water Supply Act
+water supply charge
+6.Section 6 deleted
+Delete section 6.
+7.Section 8 deleted
+Delete section 8.
+8.Section 11 amended
+(1) In section 11(1):
+(a) delete “Land Drainage Act 1925,” and insert:
+Water Services Act 2012,
+(b) delete “the Corporation” and insert:
+a licensee (as defined in the Water Services Act 2012 section 3(1))
+(2) In section 11(2) delete “The Corporation” and insert:
+A licensee
+9.Section 12A inserted
+After section 11 insert:
+12A.Penalty for diverting or taking water
+Any person who, other than with the authority of the Minister or under another written law, diverts water from any watercourse or source of supply within any catchment area or water reserve or does any act by which the watercourse or source of supply may be diverted or diminished in quantity or injured in quality or purity is guilty of an offence.
+Penalty:
+(a)for an individual — a fine of $10 000;
+(b)for a body corporate — a fine of $20 000.
+10.Parts IV, V, VI and VII deleted
+Delete Parts IV, V, VI and VII.
+11.Section 105 amended
+Delete section 105(1)(b), (c) and (d).
+12.Section 108 amended
+In section 108 delete “Minister or the Corporation,” and insert:
+Minister,
+13.Section 111 amended
+In section 111 delete “or the Corporation”.
+14.Section 112 replaced
+Delete section 112 and insert:
+112.Obstructing Minister, officers or authorised persons in performance of duty
+A person who obstructs —
+(a) the Minister; or
+(b) an officer of the Department; or
+(c) a person authorised by the Minister,
+in the performance of any act or thing which the Minister, officer or person is authorised or required to do in the execution of this Act or any regulation or by-law made for the purposes of this Act commits an offence.
+Penalty: a fine of $5 000.
+15.Section 113 amended
+In section 113(1) delete “or the Corporation,”.
+16.Section 115 amended
+(1) Delete section 115(1) and insert:
+(1) Proceedings for an offence against this Act may only be taken by the Minister or an officer of the Department or a person authorised to do so by the Minister.
+(2) In section 115(3) delete “sections 46 and” and insert:
+section
+17.Section 116 deleted
+Delete section 116.
+18.Section 121 amended
+In section 121 delete “or the chief executive officer of the Corporation”.
+Note:The heading to amended section 121 is to read:
+Certificate of CEO evidence of certain facts
+19.Section 122 deleted
+Delete section 122.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
