@@ -90,6 +90,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 4 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 213 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The Fire and Emergency Services Legislation (Emergency Services Levy) Amendment Act 2002 s. 36, which gives effect to Sch. 1, reads as follows:
 “
 36.Transitional provisions
@@ -421,3 +422,15 @@ s. 25 | Functions of FES Commissioner
 s. 25A | FES Commissioner may require certain fire fighting appliances
 s. 27 | FES Commissioner’s proposals to be submitted to local government
 s. 48 | FES Commissioner to furnish information to Commissioner of Public Health
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 213 had not come into operation. It reads as follows:
+213.Fire Brigades Act 1942 amended
+(1) This section amends the Fire Brigades Act 1942.
+(2) Delete sections 54 and 55.
+(3) At the beginning of section 61 insert:
+(1) In this section —
+water services licensee means a licensee as defined in the Water Services Act 2012 section 3(1).
+(4) In section 61:
+(a) delete “The Authority,” and insert:
+(2) The Authority,
+(b) delete “water supply authority” and insert:
+water services licensee
