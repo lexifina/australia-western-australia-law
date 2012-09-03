@@ -33,6 +33,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 23 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Fines, Penalties and Infringement Notices Enforcement Amendment (Taxation) Act 2012 s. 3 and 4 | 28 of 2012 | 3 Sep 2012 | Operative on commencement of the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 s. 39 (see s. 2(b))
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Fines, Penalties and Infringement Notices Enforcement Amendment Act 2003 s. 12 reads as follows:
 “
@@ -84,6 +85,13 @@ s. 19(9) | s. 20(6)
 s. 27A(9) | s. 43(9)
 s. 44(6) | s. 47A(5)
 s. 55A(9)
+On the date as at which this compilation was prepared, the Fines, Penalties and Infringement Notices Enforcement Amendment (Taxation) Act 2012 s. 3 and 4 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Fines, Penalties and Infringement Notices Enforcement Act 1994.
+4.Section 109 inserted
+After section 108 insert:
+109.Imposition of tax
+To the extent that any fee that the regulations prescribe under section 108 is a tax, the fee is imposed.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
