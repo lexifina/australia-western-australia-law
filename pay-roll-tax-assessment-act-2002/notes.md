@@ -11,7 +11,8 @@ Reprint 1: The Pay-roll Tax Assessment Act 2002 as at 6 Jan 2006 (includes amend
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Training Legislation Amendment and Repeal Act 2008 s. 59 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
 Pay-roll Tax Assessment Amendment Act 2010 Pt. 2 | 15 of 2010 | 25 Jun 2010 | Pt. 2 Div. 1 and 2: 25 Jun 2010 (see s. 2(a)); Pt. 2 Div. 3: 1 Jul 2012 (see s. 2(b))
-Reprint 2: The Pay-roll Tax Assessment Act 2002 as at 15 Oct 2010 (includes amendments listed above except those in the Pay-roll Tax Assessment Amendment Act 2010 Pt. 2 Div. 3)
+Reprint 2: The Pay-roll Tax Assessment Act 2002 as at 15 Oct 2010 (includes amendments listed above except those in the Pay-roll Tax Assessment Amendment Act 2010 Pt. 2 Div. 3 and the Revenue Laws Amendment Act 2012 Pt. 5 Div. 1 and 2)
+Revenue Laws Amendment Act 2012 Heading to Pt. 5, Pt. 5 Div. 1 and 2 | 29 of 2012 | 3 Sep 2012 | 1 Jul 2011 (see s. 2(c))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -228,6 +229,7 @@ In section 40(2)(p)(i):
 (a) delete “FESA Unit,” and insert:
 FES Unit,
 (b) delete “Authority of Western Australia”.
+This section has a retrospective commencement date effective from 1 Jul 2011 (see the Revenue Laws Amendment Act 2012 Pt. 5).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
