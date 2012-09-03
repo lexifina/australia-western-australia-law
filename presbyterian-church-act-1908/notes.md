@@ -16,9 +16,14 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Presbyterian Church of Australia Act 1970 s. 7 | 91 of 1970 | 30 Nov 1970 | Notice to be published (see s. 7(2) and 2(2))
+Water Services Legislation Amendment and Repeal Act 2012 s. 223 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 I.e. 48 Vict. No. 20.
 Repealed by the Trustees Act 1962.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 223 had not come into operation. It reads as follows:
+223.Presbyterian Church Act 1908 amended
+(1) This section amends the Presbyterian Church Act 1908.
+(2) In section 21(6) delete “1995 or the Metropolitan Water Supply, Sewerage, and Drainage Act 1909” and insert:
+1995, is not subject to statutory water service charges under the Water Services Act 2012 unless the land is connected to water service works as defined in section 3(1) of that Act,
 The Presbyterian Church Act 1908 was temporarily modified by the Presbyterian Church Act 1976 s. 4. Section 4 ceased to operate or have effect on 28 Jun 1985. See Gazette 28 Jun 1985 p. 2374 and the 1976 Act s. 5 which reads as follows:
 “
 5.Reversion to General Assembly
