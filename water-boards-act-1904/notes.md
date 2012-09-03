@@ -64,6 +64,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 17 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 201(a) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The Water Boards Act Amendment Act 1918 and the Water Boards Act Amendment Act 1928 which were to be read as one with this Act were repealed by the Acts Amendment and Repeal (Water Authorities) Act 1985 s. 361.
 Section 48A and the Second Schedule were inserted by No. 73 of 1954 s. 5 and 8.
 The Acts Amendment (Statutory Designations) and Validation Act 1981 s. 5 was a validation provision that is of no further effect.
@@ -105,6 +106,10 @@ Minister referred to in that subsection
 FES Commissioner
 (c) delete “as the case may be, in which the property in the fire hydrant is vested” and insert:
 according to whether the property in the fire hydrant is vested in the Minister referred to in subsection (10) or the local government,
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 201(a) had not come into operation. It reads as follows:
+201.Water boards legislation repealed
+These written laws are repealed:
+(a) the Water Boards Act 1904;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
