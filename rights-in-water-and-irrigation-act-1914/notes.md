@@ -60,6 +60,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Commercial Arbitration Act 2012 s. 45 it. 18 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
+Water Services Legislation Amendment and Repeal Act 2012 Pt. 5 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The short title of the Water Authority Act 1984 was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7.
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 2 commenced 1 January 1996.
 Repealed by the Water Resources Legislation Amendment Act 2007.
@@ -172,6 +173,67 @@ Table
 Provision | Delete | Insert
 18.Rights in Water and Irrigation Act 1914
 s. 37, Sch. 1 cl. 17(3)(b)(ii) and 39(8) | Commercial Arbitration Act 1985 | Commercial Arbitration Act 2012
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 Pt. 5 had not come into operation. It reads as follows:
+Part 5 — Rights in Water and Irrigation Act 1914 amended
+56.Act amended
+This Part amends the Rights in Water and Irrigation Act 1914.
+57.Long title amended
+In the long title delete “water resources, to provide for irrigation schemes,” and insert:
+water resources,
+58.Section 2 amended
+In section 2(1) delete the definitions of:
+Corporation
+irrigation charge
+officer
+water charge
+59.Section 26GZJ amended
+(1) In section 26GZJ(2) delete “an operating” and insert:
+a water services
+(2) Delete section 26GZJ(3) and insert:
+(3) In subsection (2) —
+water services licence means a licence under the Water Services Act 2012 that authorises the provision of a water supply service or an irrigation service.
+60.Section 27 amended
+(1) Delete section 27(1)(ga) and insert:
+(ga) charges that are to be paid by the holder of a water services licence (as defined in section 26GZJ(3)) in respect of water taken under a licence issued under this Act; and
+(2) In section 27(1) after each of paragraphs (e) to (g) and (h) insert:
+and
+61.Section 33 deleted
+Delete section 33.
+62.Section 35 amended
+In section 35 delete “or the Corporation, or against any officer of the Corporation, or contractor under the Crown or the Corporation,” and insert:
+or against any contractor under the Crown,
+63.Section 36 amended
+(1) In section 36(1) delete “or the Corporation”.
+(2) Delete section 36(2).
+64.Section 37 amended
+In section 37 delete “or the Corporation”.
+65.Section 38 amended
+In section 38 delete “or the Corporation” (each occurrence).
+66.Parts VII and X deleted
+Delete Parts VII and X.
+67.Section 63 deleted
+Delete section 63.
+68.Section 66 amended
+In section 66(3) delete “or the Corporation, as the case requires,”.
+69.Section 69 amended
+In section 69 delete “Crown, the Corporation” and insert:
+Crown
+70.Section 70 amended
+In section 70:
+(a) delete “the Corporation,” (each occurrence);
+(b) delete “or the Corporation” (each occurrence).
+71.Section 71 amended
+In section 71 delete “or the Corporation,”.
+72.Section 75 deleted
+Delete section 75.
+73.Section 79A amended
+In section 79A delete “or the chief executive officer of the Corporation, as the case requires,”.
+74.Schedule 1 Appendix amended
+In Schedule 1 Appendix:
+(a) in item 1(b) delete “an operating licence under the Water Services Licensing Act 1995.” and insert:
+a licence under the Water Services Act 2012.
+(b) in item 10 delete “Commission,” and insert:
+Minister or the CEO,
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
