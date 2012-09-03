@@ -77,6 +77,10 @@ Reprint 5: The Country Towns Sewerage By-laws 1952 as at 22 Feb 2008 (includes a
  | Water Agencies Amendment By-laws 2011 Pt. 4 | 23 Jun 2011 p. 2403-16 | 1 Jul 2011 (see bl. 2(b))
  | Reprint 6: The Country Towns Sewerage By-laws 1952 as at 11 May 2012 (includes amendments listed above)
  | Water Agencies Amendment By-laws 2012 Pt. 4 | 20 Jun 2012 p. 2677-92 | 1 Jul 2012 (see bl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Water Services Legislation Amendment and Repeal Act 2012 s. 200(b) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 These by-laws have effect for the purposes of the Country Towns Sewerage Act 1948 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34. See also the Country Towns Sewerage Act 1948 s. 102.
 Refers to the Standards Association of Australia, which has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 The headings before bl. 1-8, 10, 12, 16, 17, 18, 21-36, 38-40, 57, 70, 71 and 229-235 were deleted by the Country Towns Sewerage Amendment By-laws 1999 see Gazette 20 April 1999 p. 1641-2.
@@ -92,6 +96,10 @@ By-law 36 of the Country Towns Sewerage By-laws 1952, as amended by these by-law
 The Water Agencies Amendment By-laws 2008 bl. 3 reads as follows:
 3.Application
 Nothing in these by-laws affects the application after 1 July 2008 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b) had not come into operation. It reads as follows:
+200.Sewerage legislation repealed
+These written laws are repealed:
+(b) the Country Towns Sewerage By-laws 1952.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
