@@ -24,6 +24,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 7 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 212 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 The Real Estate and Business Agents Supervisory Board was abolished on 1 Jul 2011. The Real Estate and Business Agents Act 1978 s. 149 and 150 read as follows:
 149.Former Board abolished
@@ -42,6 +43,11 @@ Division 7 — Financial Management Act 2006 amended
 This Division amends the Financial Management Act 2006.
 125.Schedule 1 amended
 In Schedule 1 delete “Fire and Emergency Services Authority of Western Australia”.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 212 had not come into operation. It reads as follows:
+212.Financial Management Act 2006 amended
+(1) This section amends the Financial Management Act 2006.
+(2) In Schedule 1 delete “Bunbury Water Board”.
+(3) In Schedule 1 delete “Busselton Water Board”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
