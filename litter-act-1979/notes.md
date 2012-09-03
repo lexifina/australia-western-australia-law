@@ -43,6 +43,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 8 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
+Litter Amendment Act 2012 s. 3-13 | 30 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Associations Incorporation Act 1987.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 8 had not come into operation. It reads as follows:
@@ -52,6 +53,88 @@ This Division amends the Litter Act 1979.
 127.Third Schedule amended
 In the Third Schedule in column 2 delete “Fire and Emergency Services Authority of Western Australia” and insert:
 The FES Commissioner as defined in the Fire and Emergency Services Act 1998 section 3
+On the date as at which this compilation was prepared, the Litter Amendment Act 2012 s. 3-13 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Litter Act 1979.
+4.Section 23 amended
+In section 23 delete the Penalty and insert:
+Penalty:
+(a)for an individual, a fine of $5 000;
+(b)for a body corporate, a fine of $10 000.
+5.Section 24 amended
+In section 24 delete the Penalty and insert:
+Penalty:
+(a)for an individual, a fine of $5 000;
+(b)for a body corporate, a fine of $10 000.
+6.Section 24A amended
+(1) In section 24A(1) delete the Penalty and insert:
+Penalty:
+(a)for an individual, a fine of $5 000;
+(b)for a body corporate, a fine of $10 000.
+(2) In section 24A(2) delete the Penalty and insert:
+Penalty:
+(a)for an individual, a fine of $5 000;
+(b)for a body corporate, a fine of $10 000.
+7.Section 24B amended
+In section 24B(1) in the Penalty after “Penalty:” insert:
+a fine of
+8.Section 25 amended
+In section 25(9) in the Penalty after “Penalty:” insert:
+a fine of
+9.Section 26 amended
+In section 26(2) delete “Minister” and insert:
+CEO, as defined in the Environmental Protection Act 1986 section 3(1),
+10.Section 27 amended
+In section 27(1a) and (3) in the Penalty after “Penalty:” insert:
+a fine of
+11.Section 27A amended
+(1) Before section 27A(1) insert:
+(1A) In this section —
+infringement notice means an infringement notice under section 30;
+prosecution notice means a prosecution notice under the Criminal Procedure Act 2004;
+relevant time, in relation to an offence, means the time at which the offence is alleged to have been committed;
+responsible person, for a vehicle, means —
+(a)if the Road Traffic (Administration) Act 2008 section 6 is in operation — a person responsible for the vehicle under that section; or
+(b)if the Road Traffic (Administration) Act 2008 section 6 is not in operation — a person responsible for the vehicle under the Road Traffic Act 1974 section 5A.
+(2) In section 27A(1):
+(a) delete “glass” (second occurrence);
+(b) delete “offence, the driver or person in charge of the vehicle is” and insert:
+offence —
+(a) the driver or person in charge of the vehicle at the relevant time; or
+(b) if the authorised officer investigating the offence is unable to establish who was the driver or person in charge of the vehicle at the relevant time, a responsible person for the vehicle at that time,
+is
+(3) Delete section 27A(2), (3) and (4) and insert:
+(2) Despite subsection (1), a person is not to be taken to have committed an offence under that subsection if —
+(a) within 14 days after the date of service of an infringement notice on the person for the offence, the person gives to the person who served the infringement notice; or
+(b) within 14 days after the date of service of a copy of a prosecution notice on the person for the offence, the person gives to the person who commenced the prosecution,
+a written statement, on oath or by statutory declaration, that complies with subsection (3) or (4), as the case requires.
+(3) If the person was the driver or person in charge of the vehicle at the relevant time, the statement must verify that some other person committed the offence and either —
+(a) state the name and address of that other person; or
+(b) if that name and address are not known to the person, verify that the person does not know and cannot by reasonable diligence find out that name and address.
+(4) If the person was a responsible person for the vehicle at the relevant time, the statement must verify that the person was not the driver or person in charge of the vehicle at that time and either —
+(a) state the name and address of the driver or person in charge of the vehicle at that time; or
+(b) if that name and address are not known to the person, verify that the person does not know and cannot by reasonable diligence find out that name and address.
+(5A) If an infringement notice is served on a person named in a statement given under subsection (2), a copy of the statement must be served with the infringement notice.
+(5B) If a prosecution is commenced against a person named in a statement given under subsection (2), a copy of the statement must be served, in accordance with the Criminal Procedure Act 2004 Schedule 2 clause 2, 3 or 4, with the copy of the prosecution notice.
+(4) In section 27A(5):
+(a) delete “subsection (3),” and insert:
+subsections (5A) and (5B),
+(b) delete “supplied” and insert:
+given
+12.Section 30 amended
+In section 30(1) delete the passage that begins with “Where” and ends with “officer may” and insert:
+If —
+(a) an authorised officer has reason to believe that a person has committed a prescribed offence against this Act, the authorised officer; or
+(b) under section 27(1) a person is to be taken to have committed a prescribed offence against this Act, an authorised officer,
+may
+13.Section 33 amended
+(1) In section 33(2)(h):
+(a) in subparagraph (i) delete “$200; or” and insert:
+$2 000; or
+(b) in subparagraph (ii) delete “$200,” and insert:
+$2 000,
+(2) In section 33(3) delete “$1 000” and insert:
+$5 000
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
