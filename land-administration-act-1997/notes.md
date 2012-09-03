@@ -52,6 +52,7 @@ Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Ope
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 27 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Commercial Arbitration Act 2012 s. 45 it. 11 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 220 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 4.Section 6A inserted
 After section 6 the following section is inserted in Part 1 —
@@ -395,6 +396,13 @@ Table
 Provision | Delete | Insert
 11.Land Administration Act 1997
 s. 35(5)(a)(ii) | Commercial Arbitration Act 1985 | Commercial Arbitration Act 2012
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 220 had not come into operation. It reads as follows:
+220.Land Administration Act 1997 amended
+(1) This section amends the Land Administration Act 1997.
+(2) In section 159(eb) delete “Water Services Licensing Act 1995;” and insert:
+Water Services Act 2012;
+(3) In section 160(1)(eb) delete “for the purposes of section 18 of the Water Services Licensing Act 1995 or to any officer” and insert:
+under the Water Services Act 2012 section 11 or to any officer or employee
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
