@@ -136,6 +136,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Commercial Arbitration Act 2012 s. 45 it. 9 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 216 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 it. 9 had not come into operation. It reads as follows:
 45.Acts amended
@@ -215,6 +216,11 @@ specified means specified or described in the regulations.
 (4) If regulations contain a provision referred to in subsection (2), the provision does not operate so as —
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State) the rights of that person existing before the day of publication; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 216 had not come into operation. It reads as follows:
+216.Health Act 1911 amended
+(1) This section amends the Health Act 1911.
+(2) In section 63A delete “Water Corporation established by the Water Corporation Act 1995” and insert:
+a licensee as defined in the Water Services Act 2012 section 3(1)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
