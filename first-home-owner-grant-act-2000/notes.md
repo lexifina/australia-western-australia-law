@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 July 2010 of the First Home Owner Grant Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the First Home Owner Grant Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 First Home Owner Grant Act 2000 | 16 of 2000 | 9 Jun 2000 | 1 Jul 2000 (see s. 2)
@@ -17,6 +17,7 @@ Revenue Laws Amendment Act (No. 2) 2008 s. 33 | 31 of 2008 | 27 Jun 2008 | 28 Ju
 First Home Owner Grant Amendment Act 2009 | 27 of 2009 | 17 Nov 2009 | s. 3 and Pt. 2: 14 Oct 2008 (see s. 2(b)); s. 1 and 2: 17 Nov 2009 (see s. 2(a)); Pt. 4: 18 Nov 2009 (see s. 2(d)); Pt. 3: 1 Jan 2010 (see s. 2(c) and Gazette 22 Dec 2009 p. 5253)
 Revenue Laws Amendment and Repeal Act 2010 Pt. 3 | 17 of 2010 | 25 Jun 2010 | 26 Jun 2010 (see s. 2(b))
 Reprint 2: The First Home Owner Grant Act 2000 as at 9 Jul 2010 (includes amendments listed above)
+Revenue Laws Amendment Act 2012 Pt. 3 | 29 of 2012 | 3 Sep 2012 | 4 Sep 2012 (see s. 2(e))
 The First Home Owner Grant Amendment Act 2001 s. 7 is a savings provision of no further effect.
 The First Home Owner Grant Amendment Act 2003 s. 10 is a savings provision of no further effect.
 The First Home Owner Grant Amendment Act 2004 Pt. 3 is a transitional provision of no further effect.
@@ -101,11 +102,13 @@ eligible transaction3(1), 14(1)
 established home14A
 first home owner grant3(1)
 first home owner grant scheme3(1)
+garnishee54A(2)
 guardian3(1)
 home3(1), 4
 home owner5
 identity card3(1)
 interested person16(3)
+liable person54A(1)
 licensed valuer41A(1)
 new home14A
 non-conforming interest6(3)

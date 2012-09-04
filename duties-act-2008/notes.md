@@ -11,7 +11,7 @@ Revenue Laws Amendment and Repeal Act 2010 Pt. 2 | 17 of 2010 | 25 Jun 2010 | s.
 Duties Amendment Act 2011 | 27 of 2011 | 11 Jul 2011 | s. 1 and 2: 11 Jul 2011 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2011 (see s. 2(b)(ii))
 Reprint 1: The Duties Act 2008 as at 12 Jul 2011 (includes amendments listed above)
 Duties Amendment Act (No. 2) 2011 | 33 of 2011 | 12 Sep 2011 | Pt. 2: 24 Dec 2010 (see s. 2(b)); Pt. 1: 12 Sep 2011 (see s. 2(a)); Pt. 3: 13 Sep 2011 (see s. 2(c))
-Revenue Laws Amendment Act 2012 Heading to Pt. 2, Pt. 2 Div. 1 and 2 | 29 of 2012 | 3 Sep 2012 | 1 Dec 2011 (see s. 2(b))
+Revenue Laws Amendment Act 2012 Pt. 2 | 29 of 2012 | 3 Sep 2012 | Heading to Pt. 2, Pt. 2 Div. 1 and 2: 1 Dec 2011 (see s. 2(b)); Pt. 2 Div. 3: 4 Sep 2012 (see s. 2(e))
 On the date as at which this complation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

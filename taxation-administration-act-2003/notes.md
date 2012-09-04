@@ -21,11 +21,11 @@ Reprint 3: The Taxation Administration Act 2003 as at 22 Aug 2008 (includes amen
 Revenue Laws Amendment and Repeal Act 2010 Pt. 5 and s. 30 | 17 of 2010 | 25 Jun 2010 | 26 Jun 2010 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 4: The Taxation Administration Act 2003 as at 3 Dec 2010 (includes amendments listed above except those in the Revenue Laws Amendment Act 2012 s. 42(4))
-Revenue Laws Amendment Act 2012 Heading to Pt. 8, s. 40 and 42(4) | 29 of 2012 | 3 Sep 2012 | 1 Jul 2009 (see s. 2(d))
+Revenue Laws Amendment Act 2012 Pt. 8 | 29 of 2012 | 3 Sep 2012 | Heading to Pt. 8, s. 40 and 42(4): 1 Jul 2009 (see s. 2(d)); s. 41, 42(1)-(3), 43 and 44: 4 Sep 2012 (see s. 2(e))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 94 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 94 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 482 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 The amendment to s. 114(3)(f) in the Workers’ Compensation Reform Act 2004 s. 174 is not included because the paragraph it seeks to amend was deleted by the Business Tax Review (Assessment) Act (No. 2) 2003 s. 100.

@@ -27,11 +27,13 @@ Revenue Laws Amendment Act 2008 Pt. 6 | 30 of 2008 | 27 Jun 2008 | 1 Jul 2008 (s
 Revenue Laws Amendment Act (No. 2) 2008 s. 35 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 Reprint 3: The Rates and Charges (Rebates and Deferments) Act 1992 as at 7 Nov 2008 (includes amendments listed above)
 Local Government Amendment Act 2012 Pt. 3 | 2 of 2012 | 4 Apr 2012 | 1 Jul 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695)
+Revenue Laws Amendment Act 2012 Pt. 6 | 29 of 2012 | 3 Sep 2012 | 4 Sep 2012 (see s. 2(e))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Residential Tenancies Amendment Act 2011 Pt. 5 Div. 4 | 60 of 2011 | 14 Dec 2011 | To be proclaimed (see s. 2(b))
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 12 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 226 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.
 Repealed by s. 51(1) of this Act.
@@ -87,6 +89,25 @@ This Division amends the Rates and Charges (Rebates and Deferments) Act 1992.
 (1) In section 17(1b) delete “Fire and Emergency Services Authority of Western Australia established by section 4 of the Fire and Emergency Services Authority of Western Australia Act 1998.” and insert:
 FES Commissioner as defined in the Fire and Emergency Services Act 1998 section 3.
 (2) In section 17(1c) delete “Authority of Western Australia”.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 226 had not come into operation. It reads as follows:
+226.Rates and Charges (Rebates and Deferments) Act 1992 amended
+(1) This section amends the Rates and Charges (Rebates and Deferments) Act 1992.
+(2) In section 3(1) delete the definition of Water Board.
+(3) In section 3(1) in the definition of prescribed charge delete paragraph (b)(i) and (ii) and insert:
+(i)the Water Services Act 2012; or
+(4) In section 3(1):
+(a) in the definition of the pension means test after paragraph (a)(i) insert:
+and
+(b) in the definition of dependant after each of paragraphs (a) and (ab), the definition of eligibility after each of paragraphs (a) and (a)(i) and (ii) and the definition of prescribed charge after each of paragraphs (a) and (b) insert:
+or
+(5) In section 16(4):
+(a) delete “Water Board” (first occurrence) and insert:
+prescribed licensee
+(b) delete “Water Board” (second occurrence) and insert:
+licensee
+(6) After section 16(4) insert:
+(5) In subsection (4) —
+prescribed licensee means a licensee under the Water Services Act 2012 (other than a body established by or under the Water Corporations Act 1995 section 4 or a local government) who is prescribed for the purposes of subsection (4).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Stamp Act 1921 and includes the amendments made by the other written laws referred to in the following table 1a, 6-10. The table also contains information about any reprint.
+This is a compilation of the Stamp Act 1921 and includes the amendments made by the other written laws referred to in the following table 6-10. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Stamp Act 1921 | 10 of 1922 (12 Geo. V No. 44) | 31 Jan 1922 | 1 Apr 1922 (see s. 1 and Gazette 17 Mar 1922 p. 479)
@@ -172,6 +172,7 @@ Revenue Laws Amendment Act 2008 s. 8 and Pt. 8 | 30 of 2008 | 27 Jun 2008 | Pt. 
 Reprint 18: The Stamp Act 1921 as at 29 Aug 2008 (includes amendments listed above except those in the Housing Societies Repeal Act 2005 s. 30 and the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 55)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 119 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Revenue Laws Amendment Act 2012 Pt. 7 | 29 of 2012 | 3 Sep 2012 | 4 Sep 2012 (see s. 2(e))
 Repealed by the Mining Act 1978.
 Section 75AH has a retrospective commencement date effective from 1 Jul 2004; see the Revenue Laws Amendment Act 2006 s. 2(3).
 Section 76 has a retrospective commencement date effective from 6 Feb 2008; see the Revenue Laws Amendment Act 2008 s. 2(1)(d).
@@ -187,7 +188,8 @@ These regulations come into operation on the day on which the Commonwealth Place
 3.When certain modifications have effect
 (1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
 (2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes Administration) Regulations 2002 Part 5 to the extent of any inconsistency.
-Note:Modifications prescribed for the purposes of section 7(2) of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Gazette, see section 7(3) of the Act.
+Note:
+Modifications prescribed for the purposes of section 7(2) of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Gazette, see section 7(3) of the Act.
 4.Modification of State taxing laws
 (1) For the purposes of section 7(2) of the Act, each State taxing law is taken to be modified to the extent necessary to give effect to subregulation (2).
 (2) If —
@@ -249,7 +251,8 @@ This notice comes into operation on the day after the day on which it is registe
 3.When certain modifications have effect
 (1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
 (2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2002 Part 5 to the extent of any inconsistency.
-Note:Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
+Note:
+Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
 4.Definitions
 In this notice —
 “applied WA law” means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
@@ -710,37 +713,36 @@ The Stamp Amendment (Assessment) Act 2005 s. 7 and 8 read as follows:
 “old Part IIIF” means Part IIIF of the Stamp Act 1921 as in force immediately before commencement and, for the purposes of this section, is to be taken to include item 16 of the Second Schedule and item 8 of the Third Schedule of the Stamp Act 1921, as in force immediately before commencement.
 ”.
 The Revenue Laws Amendment (Taxation) Act 2007 s. 13(2) was repealed on 27 Jun 2008 by the Revenue Laws Amendment Act 2008 s. 7(3).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-A74B(2)(a), 75J(2)(a), 75JB(1)(a)
+Defined termProvision(s)
+A75J(2)
 accident insurance92
 acquire73DB(1), 76(1)
 acquisition A76AT(3), 76ATG(3)
-additional insurance92B(2)(a)
+additional insurance92B(2)
 additional interest76A(3), 76ATD(3), 76ATK(3)
 Administration Act75AG(12)
 advance81, 83(1), 83(3)
 aged care service112R(2)
-aggregated dispositions63AG(1)(a), 73DC(2)
+aggregated dispositions63AG(1), 73DC(2)
 aggregated duty63AI(2)
 annual duty-free threshold112IF, 112LB(2)
 apportioned liability75G(3)
 approved provider112R(2)
 arrangement70(1)
-attributable amount112LD(2)(b) and (3)(b)
-B74B(2)(a), 75J(2)(b), 75JB(1)(a)
+attributable amount112LD(2), 112LD(3)
+B75J(2)
 bankruptcy trustee75ABA(2)
 beneficiary74(3g), 76A(3)
 bidder76ATG(3)
-body corporate 75J(1)
+body corporate75J(1)
 business asset74C(1)
 business identity74C(1)
 business licence73F(1)
 business mortgage86B(4)
 business owner86B(6)
 business property75AE(3)
-C74B(9)(a), 75JB(1)(d)(iv)
 call option74B(1)
 caveat28(6)
 charitable organisation76B(1)
@@ -750,13 +752,13 @@ collateral mortgage81
 commercial hire business112I(1), 112IF
 commodities74C(1)
 Commonwealth Act76B(1)
-company73DA(3)(a), 73E(1)
+company73DA(3), 73E(1)
 Company A31B(4)
 Company B31B(4)
 Company C31B(5)
 contingent consideration75CA(1)
 continuing instrument16(7)
-continuing proprietor or proprietors74B(4)(b)(i)
+continuing proprietor or proprietors74B(4)
 contract75CA(1)
 contract of insurance92
 controlling body75JB(5c)
@@ -764,7 +766,7 @@ controlling interest76A(3), 76ATD(2), 76ATK(2)
 conveyance on sale63(1)
 corporation4(1)
 Corporations Act4(1)
-correcting transfer73AB(a)
+correcting transfer73AB
 corresponding Act81
 corresponding State law76B(1)
 current exempted property75HA(1)
@@ -797,7 +799,7 @@ duty-free threshold112IF
 dwellinghouse4(1)
 earlier acquisition76AJ(3), 76AQ(3)
 eligible conditional contract4(1), 6(1)
-eligible purchaser75AE(3)
+eligible purchaser75AE(3), 75AE(3)
 eligible vehicle76B(1)
 endorse4(1)
 entitled76(1)
@@ -823,8 +825,8 @@ FHOG Act75AG(12)
 financial institution4(1)
 financial market4(1)
 financial services licensee92
-first business74C(5)(a)
-first instrument75AH(2) (a)
+first business74C(5)
+first instrument75AH(2)
 foreign company4(1)
 former de facto partner of 2 years4(1)
 franchise arrangement74C(1)
@@ -832,10 +834,11 @@ franchisee74C(1)
 franchisor74C(1)
 full duty20(9)
 funds manager63AB(2a)
-further instrument75AH(2)(b)
+further instrument75AH(2)
 further interest76A(3)
 general conditional contract4(1), 8(1)
-general insurance92, 92A(1)
+general insurance92
+General insurance92A(1)
 goods112IA, 112IF
 government body4(1)
 grant76B(1)
@@ -845,7 +848,8 @@ heavy vehicle76B(1)
 hire of goods112IB(1), 112IF
 hire purchase agreement112ID(2), 112IF
 hirer112IF
-hiring charges112IE(1), 112IF
+Hiring charges112IE(1)
+hiring charges112IF
 holding corporation76AR(4), 76ATK(4)
 home mortgage81
 independent person20(9)
@@ -855,7 +859,7 @@ instrument of conveyance75D(1)
 instrument of transfer35(4), 75AG(12)
 insurer92
 intellectual property74C(1)
-interest74(1aa), 76A(3), 76ATD(1), 76ATK(1)
+interest74(1aa), 76A(3), 76A(3), 76ATD(1), 76ATK(1)
 intermediary92
 interstate duty4(1)
 interstate security duty63AI(2), 73DC(9)
@@ -872,8 +876,8 @@ loan81, 84
 local government4(1)
 lot75C(4)
 maintenance agreement112UA(1)
-majority interest 76A(3), 76AK(2), 76AR(2)
-majority shareholder63(6)(c)
+majority interest76A(3), 76AK(2), 76AR(2)
+majority shareholder63(6)
 managed investment scheme74(1aa)
 market value76B(1)
 marketable security4(1)
@@ -898,7 +902,7 @@ option property74B(1)
 optional feature76B(1)
 order112UA(1)
 ordinary hiring arrangement112IF
-original equipment76D(6)(c), 76J(1)(b)
+original equipment76D(6), 76J(1)
 other property70(1)
 own and control75JB(5c)
 parent body75JB(5c)
@@ -908,8 +912,8 @@ payment4(1), 73G(1)
 plant breeder right74C(1)
 premium92
 prescribed relationship75JB(5d)
-previous duty76ATA(5)(b), 76ATH(5)(b)
-previous mortgage86A(2)(b), 86B(2)(b)
+previous duty76ATA(5), 76ATH(5)
+previous mortgage86A(2), 86B(2)
 primary advance90(1)
 primary produce contract4(1), 9(2)
 primary production75D(1)
@@ -937,7 +941,7 @@ relevant acquisition76A(3), 76ATC(1), 76ATJ(1)
 relevant aggregated dispositions73DC(3)
 relevant circumstances75JB(5e)
 relevant day76AJ(4), 76AQ(4)
-relevant disposition73DD(5)(b)
+relevant disposition73DD(5)
 relevant interest73DD(1)
 relevant period76AJ(5), 76AQ(5), 76AT(3), 76ATG(3)
 relevant proportion75HA(1)
@@ -960,7 +964,7 @@ section 76ATG statement4(1)
 secured amount81, 90(1)
 security interest81
 share73E(1), 76(1)
-share transfer75JB(4)(ca)
+share transfer75JB(4)
 shareholding76(1)
 shares75J(1)
 specialised equipment76B(1)
@@ -976,30 +980,29 @@ terminated on relevant grounds4(1), 14
 the determiner73B(3)
 the dutiable value76AL(1), 76AS(1)
 the initial instrument75E(5)
-the initial transfer75E(6)(a)
-the intermediary69(1)(b)
+the initial transfer75E(6)
+the intermediary69(1)
 the licensee73F(2)
 the property73A(1), 73B(1)
-the target75JA(1)(a)
-the transferee69(1)(a) 75JA(1)(a)
-the transferor69(1), 75E(1), 75HA(1)
-trailerThird Sch. it. 9(8)
+the target75JA(1)
+the transferee69(1), 75JA(1)
+the transferor69(1), 75E(1), 75E(1), 75HA(1)
 transfer35(4), 63(1), 70(1)
 transfer or assignment72(1)
 transferee75AG(12)
 transferring body31C(1)
 transitional disposition63AG(1)
 trust76(1)
-Trust A73D(1b)(a)
-Trust B73D(1b)(b)
-trustee63(1), 63(6)(d), 75AE(4), 75D(1), 76B(1)
-Trustee A73D(1b)(a)
+Trust A73D(1b)
+Trust B73D(1b)
+trustee63(1), 63(6), 75AE(4), 75D(1), 76B(1)
+Trustee A73D(1b)
 unconditional4(1)
 unencumbered value4(1)
 unit4(1), 63(1)
 unit trust scheme63(1), 76B(1)
 unit trustee63(1), 76B(1)
 vehicle75J(1), 76B(1)
-vehicle A76D(6)(a)
+vehicle A76D(6)
 vehicle B76D(6)
 WA company4(1)
