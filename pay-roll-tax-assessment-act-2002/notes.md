@@ -12,7 +12,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2
 Training Legislation Amendment and Repeal Act 2008 s. 59 | 44 of 2008 | 10 Dec 2008 | 10 Jun 2009 (see s. 2(2))
 Pay-roll Tax Assessment Amendment Act 2010 Pt. 2 | 15 of 2010 | 25 Jun 2010 | Pt. 2 Div. 1 and 2: 25 Jun 2010 (see s. 2(a)); Pt. 2 Div. 3: 1 Jul 2012 (see s. 2(b))
 Reprint 2: The Pay-roll Tax Assessment Act 2002 as at 15 Oct 2010 (includes amendments listed above except those in the Pay-roll Tax Assessment Amendment Act 2010 Pt. 2 Div. 3 and the Revenue Laws Amendment Act 2012 Pt. 5 Div. 1 and 2)
-Revenue Laws Amendment Act 2012 Heading to Pt. 5, Pt. 5 Div. 1 and 2 | 29 of 2012 | 3 Sep 2012 | 1 Jul 2011 (see s. 2(c))
+Revenue Laws Amendment Act 2012 Pt. 5 | 29 of 2012 | 3 Sep 2012 | Heading to Pt. 5, Pt. 5 Div. 1 and 2: 1 Jul 2011 (see s. 2(c)); Pt. 5 Div. 3: 4 Sep 2012 (see s. 2(e))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -239,11 +239,12 @@ actual value9BB(2), Gl.
 actuaryGl.
 adoption leave41A(1)
 agentGl.
-aggregate interest35D
+aggregate interest35D(1)
 annual threshold amountGl.
 apportioned threshold amountGl.
+assessment amendmentsSch. 1, cl. 5(1)
 assessment yearGl.
-associated person35A
+associated person35A(1)
 Australian jurisdictionGl.
 Australian superannuation fundGl.
 businessGl.
@@ -259,24 +260,25 @@ defined benefit fundGl.
 defined superannuation benefitGl.
 designated group employerGl.
 DGEGl.
-direct interest35B, 35C
-directly controlled corporation35C
+direct interest35B(1)
+directly controlled corporation35C(1)
 directorGl.
 employee9CA
 employer9CA, Gl.
 employment agentGl.
 employment termination payment9EA(2)
-entity35A
+entity35A(1)
 exemptGl.
 expected pay-roll tax liability28A(3), 29(1b)
 FBT yearGl.
 FBTA ActGl.
-first part of the tax period22A(4)(a)(i)
+first part of the tax period22A(4)
 first period22A(2)
 fringe benefitGl.
 groupGl.
 GSTGl.
-indirectly controlled corporation35C
+indirect interest35C(1)
+indirectly controlled corporation35C(3)
 individual superannuation guarantee shortfallGl.
 instrument6D(1)
 interstate non-group employerGl.
@@ -288,11 +290,13 @@ maternity leave41A(1)
 monthly threshold amountGl.
 motor vehicle allowanceGl.
 new rate22A(2)
+new section 9DASch. 1, cl. 5(1)
 nominated deductionGl.
 non-group employerGl.
 non-profit organisationGl.
 notional contribution9CA
 old rate22A(2)
+old section 9DASch. 1, cl. 5(1)
 optionGl.
 paidGl.
 parental leave41A(1)
@@ -302,23 +306,23 @@ payableGl.
 pay-roll taxGl.
 pay-roll tax ActGl.
 pay-roll tax rateGl.
-private company35A
+private company35A(1)
 progressive return periodGl.
 provideGl.
 quarter29(4d)
 registeredGl.
 registered business addressGl.
-related body corporateGl
-related person35A
-relevant day9DA(4)
+related body corporateGl.
+related person35A(1)
+relevant day9DA(4), Sch. 1, cl. 5(1)
 relevant part period22A(5)
 remote locationGl.
 returnGl.
 return periodGl.
-second part of the tax period22A(4)(a)(ii)
+second part of the tax period22A(4)
 second period22A(2)
 shareGl.
-smaller group36(1) and (2), Gl.
+smaller group36(1), 36(2), Gl.
 specified exempt allowanceGl.
 specified taxable benefitGl.
 StateGl.
@@ -334,8 +338,8 @@ trusteeGl.
 unused annual leave payment9EA(2)
 unused long service leave payment9EA(2)
 valueGl.
-vesting day9DB(2) and (3)
+vesting day9DB(2), 9DB(3)
 voting shareGl.
 WA fringe benefitsGl.
 WA taxable wages5(2), Gl.
-wages9AA(1), Gl.
+wages9AA(1), 9DA(1), 9DG(1), Gl.
