@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Control of Vehicles (Off-road Areas) Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 September 2012 of the Control of Vehicles (Off-road Areas) Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Control of Vehicles (Off-road Areas) Act 1978 | 117 of 1978 | 12 Dec 1978 | Act other than s. 11: 5 Oct 1979 (see s. 2 and Gazette 5 Oct 1979 p. 3079)
@@ -18,33 +18,33 @@ Compilation table
  | Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
  | Road Traffic Amendment Act 1996 Pt. 3 Div. 2 | 76 of 1996 | 14 Nov 1996 | 1 Feb 1997 (see s. 2 and Gazette 31 Jan 1997 p. 613)
  | Acts Amendment (Land Administration) Act 1997 Pt. 15 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
- | Reprint of the Control of Vehicles (Off-road Areas) Act 1978 as at 5 Mar 1999 (includes amendments listed above except those in the Control of Vehicles (Off-road Areas) Act 1978 s. 11) (correction to reprint in Gazette 18 May 1999 p. 1965)
+ | Reprint of the Control of Vehicles (Off-road Areas) Act 1978 as at 5 Mar 1999 (includes amendments listed above) (correction to reprint in Gazette 18 May 1999 p. 1965)
  | Statutes (Repeals and Minor Amendments) Act 2000 s. 48 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
  | Road Traffic Amendment Act 2000 Pt. 3 Div. 1 | 39 of 2000 | 10 Oct 2000 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244-5)
  | Road Traffic Amendment (Vehicle Licensing) Act 2001 Pt. 3 Div. 2 | 28 of 2001 | 21 Dec 2001 | 4 Dec 2006 (see s. 2 and Gazette 28 Nov 2006 p. 4889)
  | Machinery of Government (Planning and Infrastructure) Amendment Act 2002 Pt. 2 | 7 of 2002 | 19 Jun 2002 | 1 Jul 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
- | Reprint of the Control of Vehicles (Off-road Areas) Act 1978 as at 2 Aug 2002 (includes amendments listed above except those in the Control of Vehicles (Off-road Areas) Act 1978 s. 11, the Road Traffic Amendment Act 2000 and the Road Traffic Amendment (Vehicle Licensing) Act 2001)
+ | Reprint of the Control of Vehicles (Off-road Areas) Act 1978 as at 2 Aug 2002 (includes amendments listed above except those in the Road Traffic Amendment Act 2000 and the Road Traffic Amendment (Vehicle Licensing) Act 2001)
  | Environmental Protection Amendment Act 2003 s. 142 | 54 of 2003 | 20 Oct 2003 | 19 Nov 2003 (see s. 2 and Gazette 18 Nov 2003 p. 4723)
  | Local Government Amendment Act 2004 s. 13 | 49 of 2004 | 12 Nov 2004 | 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029)
  | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
  | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 26 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
  | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
  | Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
- | Reprint 3: The Control of Vehicles (Off-road Areas) Act 1978 as at 17 Feb 2006 (includes amendments listed above except those in the Control of Vehicles (Off-road Areas) Act 1978 s. 11, the Road Traffic Amendment (Vehicle Licensing) Act 2001 and the Planning and Development (Consequential and Transitional Provisions) Act 2005)
+ | Reprint 3: The Control of Vehicles (Off-road Areas) Act 1978 as at 17 Feb 2006 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001 and the Planning and Development (Consequential and Transitional Provisions) Act 2005)
  | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
  | Land Information Authority Act 2006 s. 128 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
- | Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+ | Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 34 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
  | Reprint 4: The Control of Vehicles (Off-road Areas) Act 1978 as at 20 Feb 2009 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 40 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 22 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 29 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 5: The Control of Vehicles (Off-road Areas) Act 1978 as at 7 Sep 2012 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Control of Vehicles (Off-road Areas) Act 1978 s. 11 | 117 of 1978 (as amended by No. 7 of 2002 s. 7) | 12 Dec 1978 | To be proclaimed (see s. 2)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 10 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-On the date as at which this compilation was prepared, the Control of Vehicles (Off-road Areas) Act 1978 s. 11 (as amended by the Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 7) had not come into operation. It reads as follows:
-“
+On the date as at which this reprint was prepared, the Control of Vehicles (Off-road Areas) Act 1978 s. 11 (as amended by the Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 7) had not come into operation. It reads as follows:
 11.Responsibility of owners
 (1) Subject to the provisions of subsection (2) of this section, the owner of any vehicle which is —
 (a) required to be registered under this Act; or
@@ -56,15 +56,10 @@ shall in all proceedings in respect of damage, injury or death arising from the 
 (b) subsection (2) of section 3 of this Act,
 a person has been nominated and is deemed, for the purposes of that Act or for the purposes of this Act other than this section, to be the owner of the vehicle to which the nomination relates that nomination shall not take or have effect to limit the liability of any other person who would but for such nomination be or be deemed to be an owner of the vehicle.
 [Section 11 amended by No. 7 of 2002 s. 7.]
-”.
-The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 11(2) and (3) read as follows:
-“
-(2) The balance of the Off-Road Vehicles Account as it was before this section came into operation is to be the opening balance of the account of that name established under the Control of Vehicles (Off-road Areas) Act 1978 section 43(3) as amended by subsection (1).
-(3) The amount of that opening balance is to be reflected by a closing entry in the Off-Road Vehicles Account that was, before this section came into operation, required to be maintained as a part of the Trust Fund constituted under the Financial Administration and Audit Act 1985 section 9.
-”.
+The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 11(2) and (3) are transitional provisions that are of no further effect.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 12 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 10 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 10 had not come into operation. It reads as follows:
 Division 10 — Control of Vehicles (Off-road Areas) Act 1978 amended
 62.Act amended
 This Division amends the Control of Vehicles (Off-road Areas) Act 1978.
@@ -108,9 +103,9 @@ Road Traffic (Vehicles) Act 2012
 69.Section 39 amended
 In section 39(1)(a)(ii) delete “Road Traffic Act 1974; or” and insert:
 Road Traffic (Vehicles) Act 2012; or
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 alleged offender37(5a)
 authorised officer3(1)
 certificate3(1)
