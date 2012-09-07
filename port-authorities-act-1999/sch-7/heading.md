@@ -12,8 +12,8 @@
 (2) The landing, shipping, trans-shipping, unshipping, warehousing, stowing, depositing, removal or keeping of goods other than those substances referred to in subitem (1).
 8.The movement, mooring, loading and unloading of vessels.
 9.The control of the provision, at or in relation to a port, of —
-(a) pilotage services;
-(b) towage services;
+(a) pilotage services; or
+(b) towage services; or
 (c) stevedoring services; or
 (d) port services of any other kind.
 10.The taking on and landing of passengers.
@@ -44,7 +44,7 @@ vehicles or other things that are obstructing, or may obstruct, traffic in the p
 (a) descriptions of and statements about goods (including as to value) in bills of lading, manifests or receipts; and
 (b) the terms and conditions of bills of lading, manifests or receipts.
 30.Pilotage matters generally and, in particular —
-(a) procedures for and matters relating to the approval of persons as pilots for a port;
+(a) procedures for and matters relating to the approval of persons as pilots for a port; and
 (b) vessels that do not have to have an approved pilot; and
 (c) procedures for and matters relating to pilotage exemption certificates.
 31.The speed of vessels in a port.
