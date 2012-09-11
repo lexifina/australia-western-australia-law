@@ -14,13 +14,13 @@ By-law | Description of offence | Modified penalty
 14 | Parking a vehicle on site not in a parking space | 40
 15 | Failing to obey a stop sign on site | 45
 15 | Parking, standing or moving a vehicle on site contrary to a sign other than a stop sign | 40
-16(3) & 16(1)(b) | Parking in an area on site set aside for vehicles of disabled persons identified in the manner specified in a sign, contrary to the sign | 40
+16(3) & 16(1)(b) | Parking in an area on site set aside for vehicles of disabled persons identified in the manner specified in a sign, contrary to the sign | 45
 16(3) & 16(1)(e) | Displaying a visitor’s ticket or permit in a manner other than that specified in a sign | 10
-16(3) & 16(1)(e) | Failing to display a permit, contrary to a sign | 40
+16(3) & 16(1)(e) | Failing to display a permit, contrary to a sign | 20
 16(3) | Parking, standing or moving a vehicle in a parking space or parking facility contrary to a sign in relation to vehicles of disabled persons or contrary to any sign other than sign with a direction under by-law 16(1)(e) | 40
-16(4)(a) | Failing to pay the visitor parking charge | 40
-16(4)(b) | Failing to display a visitor’s ticket, contrary to a sign | 40
-17(9) | Parking in an area on site set apart for permit holders only, without a current permit | 40
+16(4)(a) | Failing to pay the visitor parking charge | 20
+16(4)(b) | Failing to display a visitor’s ticket, contrary to a sign | 20
+17(9) | Parking in an area on site set apart for permit holders only, without a current permit | 30
 23 | Unauthorised person endorsing or altering an infringement notice | 20
 24 | Removing an infringement notice when not authorised to do so | 20
-[Schedule 2 amended in Gazette 29 Aug 1995 p. 3900; 23 Dec 2011 p. 5427-8.]
+[Schedule 2 amended in Gazette 29 Aug 1995 p. 3900; 23 Dec 2011 p. 5427-8 (disallowed in Gazette 18 Sep 2012 p. 4411).]
