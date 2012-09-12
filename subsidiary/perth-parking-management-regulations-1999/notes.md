@@ -22,8 +22,8 @@ Perth Parking Management Amendment Regulations 2011 | 8 Apr 2011 p. 1291-2 | r. 
 Perth Parking Management Amendment Regulations (No. 2) 2011 | 29 Apr 2011 p. 1535-6 | r. 1 and 2: 29 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Apr 2011 (see r. 2(b))
 Reprint 3: The Perth Parking Management Regulations 1999 as at 6 Jan 2012 (includes amendments listed above)
 Perth Parking Management Amendment Regulations 2012 | 1 Jun 2012 p. 2287 | r. 1 and 2: 1 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
-Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
-Deleted by the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 51.
+Perth Parking Management Amendment Regulations (No. 2) 2012 | 11 Sep 2012 p. 4347-9 | r. 1 and 2: 11 Sep 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Sep 2012 (see r. 2(b))
+Footnotes no longer applicable.
 Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
