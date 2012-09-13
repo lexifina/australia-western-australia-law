@@ -108,6 +108,7 @@ Disallowed on 26 Apr 1992, see Gazette 1 May 1992 p. 1844.
 The Liquor Licensing Amendment Regulations (No. 2) 2001 r. 2(3) and (4) are transitional provisions that are of no further effect.
 The amendments in the Liquor Licensing Amendment Regulations 2004 r. 3 and 5 are not included because of an error in the reference to the provisions to be amended.
 The Liquor Control Amendment Regulations (No. 2) 2007 r. 12 could not have effect as the reference to the Liquor Licensing Act 1988 was changed to the Liquor Control Act 1988 under the Reprints Act 1984 s. 7(3)(gb) (see note above).
+Disallowed on 13 Sep 2012, see Gazette 18 Sep 2012 p. 4411.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
