@@ -2,54 +2,54 @@
 [r. 33, 34A, 34B and 34]
 [Heading inserted in Gazette 30 Jun 2011 p. 2708; amended in Gazette 6 Dec 2011 p. 5190.]
 ## Part 1 — Abattoir fees
-[Heading inserted in Gazette 30 Jun 2011 p. 2708.]
+[Heading inserted in Gazette 14 Sep 2012 p. 4369.]
 1.Application for approval to operate —
-(a)an abattoir that is accredited by Aus-Meat ....... | $772.50
-(b)an abattoir that is not accredited by Aus-Meat ……………………………………. | $1 030.00
+(a)an abattoir that is accredited by Aus-Meat | $794.00
+(b)an abattoir that is not accredited by | $1 058.00
 2.Annual fee for approval to operate —
-(a)an abattoir that is accredited by Aus-Meat …... | $772.50 plus throughput fee
-(b)an abattoir that is not accredited by Aus-Meat …………………………………. | $1 030.00 plus throughput fee
-3.Application to construct an abattoir ……………… | $257.50
-4.Notification of a change of ownership …………... | $309.00
-5.Any other notification under regulation 23 ……… | $51.50
-6.Application for variation of approval of conditions . | $51.50
-[Part 1 inserted in Gazette 30 Jun 2011 p. 2708.]
+(a)an abattoir that is accredited by Aus-Meat | $794.00 plus throughput fee
+(b)an abattoir that is not accredited by Aus-Meat | $1 058.00 plus throughput fee
+3.Application to construct an abattoir | $264.50
+4.Notification of a change of ownership | $317.00
+5.Any other notification under regulation 23 | $53.00
+6.Application for variation of approval of conditions | $53.00
+[Part 1 inserted in Gazette 14 Sep 2012 p. 4369-70.]
 ## Part 2A — Fees for stock agent approvals and renewals
 [Heading inserted in Gazette 6 Dec 2011 p. 5190.]
-1.Application for approval to act as stock agent ......... | $200
-2.Annual fee for renewal of approval to act as stock agent ......................................................................... | $200
-3.Late application fee for renewal of approval to act as stock agent ............................................................ | $20
-4.Application for approval to act as stock agent, where duration of approval less than one month ...... | $15
+1.Application for approval to act as stock agent | $200
+2.Annual fee for renewal of approval to act as stock agent | $200
+3.Late application fee for renewal of approval to act as stock agent | $20
+4.Application for approval to act as stock agent, where duration of approval less than one month | $15
 [Part 2A inserted in Gazette 6 Dec 2011 p. 5190.]
 ## Part 2B — Muchea Livestock Centre: parking permit fees
 [Heading inserted in Gazette 6 Dec 2011 p. 5190.]
-1.Monthly fee for parking permit for heavy vehicle ... | $275
-2.Annual fee for parking permit for any other type of motor vehicle ............................................................ | $200
+1.Monthly fee for parking permit for heavy vehicle | $275
+2.Annual fee for parking permit for any other type of motor vehicle | $200
 [Part 2B inserted in Gazette 6 Dec 2011 p. 5190.]
 ## Part 2 — Muchea Livestock Centre: yard fees
-[Heading inserted in Gazette 30 Jun 2011 p. 2709.]
+[Heading inserted in Gazette 14 Sep 2012 p. 4370.]
 Animal | Fee per head
-Calves | $3.86
-Cattle | $6.70
-Goats | $0.72
-Horses | $6.70
-Lambs | $0.72
-Sheep | $0.72
-[Part 2 inserted in Gazette 30 Jun 2011 p. 2709.]
+Calves | $3.97
+Cattle | $6.88
+Goats | $0.74
+Horses | $6.88
+Lambs | $0.74
+Sheep | $0.74
+[Part 2 inserted in Gazette 14 Sep 2012 p. 4370.]
 ## Part 3 — Muchea Livestock Centre: transhipment fees
-[Heading inserted in Gazette 30 Jun 2011 p. 2709.]
+[Heading inserted in Gazette 14 Sep 2012 p. 4370.]
 Animal | Fee per head
-Calves | $1.03
-Cattle | $1.03
+Calves | $1.06
+Cattle | $1.06
 Goats | $0.11
-Horses | $1.03
-Lambs | $0.10
-Sheep | $0.10
-[Part 3 inserted in Gazette 30 Jun 2011 p. 2709.]
+Horses | $1.06
+Lambs | $0.11
+Sheep | $0.11
+[Part 3 inserted in Gazette 14 Sep 2012 p. 4370.]
 ## Part 4 — Interpretation
 [Heading inserted in Gazette 2 Feb 1996 p. 393.]
 In this Schedule —
-throughput fee means an amount equal to 0.9 cents per unit based on the number of units processed by the abattoir in the 12 month period immediately prior to the period to which the fee relates using the following animal to unit conversion table —
+throughput fee means an amount equal to 1 cent per unit based on the number of units processed by the abattoir in the 12 month period immediately prior to the period to which the fee relates using the following animal to unit conversion table —
 Animal | Unit equivalent per head
 Buffalo | 7
 Calves | 2
@@ -62,4 +62,4 @@ Ostriches | 2
 Pigs | 3
 Rabbits | 0.1
 Sheep | 1
-[Part 4 inserted in Gazette 2 Feb 1996 p. 394; amended in Gazette 30 Jun 2010 p. 3129.]
+[Part 4 inserted in Gazette 2 Feb 1996 p. 394; amended in Gazette 30 Jun 2010 p. 3129; 14 Sep 2012 p. 4370.]
