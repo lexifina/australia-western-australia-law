@@ -1,6 +1,6 @@
-## Schedule 2
-## Protected fish
-[s. 46 & 47 and reg. 10]
+## Schedule 2 — Protected fish
+[s. 46, 47 and 48A and r. 10]
+[Heading inserted in Gazette 14 Sep 2012 p. 4375.]
 ## Part 1 — Commercially protected fish
 All freshwater aquatic organisms other than sooty grunter and catfish of the Family Ariidae.
 Billfish (marlins, sailfish and spearfish).

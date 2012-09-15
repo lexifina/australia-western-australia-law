@@ -14,7 +14,6 @@ Billfish (Marlins, Sailfish and Spearfish) and Swordfish (combined) | 1
 Bonefish | 2
 Cobia | 2
 Cod (combined, except Coral Trout and Coronation Trout) | 4
-Cod classified as Epinephelus spp., in excess of 30 kg weight or 1000 mm in length | 0
 Cod, Estuary and Rankin (combined, except Estuary Cod in the waters of the Shark Bay western gulf and the Shark Bay eastern gulf) | 2
 Cod, Estuary, in the waters of the Shark Bay western gulf and the Shark Bay eastern | 1
 Coral Trout and Coronation Trout (combined) | 1
@@ -37,7 +36,7 @@ Tuskfish and Baldchin Groper (combined), except in the waters of the Shark Bay w
 Tuskfish and Baldchin Groper (combined), in the waters of the Shark Bay western gulf and the Shark Bay eastern gulf | 2
 Trevally, Giant and Golden (combined) | 2
 Tuna, Southern Bluefin, Yellowfin and Bigeye (combined) | 2
-[Division 1 inserted in Gazette 1 Oct 2003 p. 4332-3; amended in Gazette 6 Apr 2004 p. 1134; 4 Nov 2005 p. 5314; 22 Dec 2005 p. 6229-30.]
+[Division 1 inserted in Gazette 1 Oct 2003 p. 4332-3; amended in Gazette 6 Apr 2004 p. 1134; 4 Nov 2005 p. 5314; 22 Dec 2005 p. 6229-30; 14 Sep 2012 p. 4375.]
 ## Division 2 — Grouped bag limit of 16 fish
 [Heading inserted in Gazette 1 Oct 2003 p. 4334.]
 Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in the Division for one day
@@ -97,7 +96,6 @@ Barramundi, when taken from Broome area waters (as defined in r. 64ZJ) or Ord Ri
 Billfish (Marlins, Sailfish and Spearfish) and Swordfish (combined) | 1
 Cobia | 2
 Cod (combined, except Coral Trout and Coronation Trout) | 4
-Cod classified as Epinephelus spp., in excess of 30 kg in weight or 1000 mm in length | 0
 Cod, Estuary, Malabar and Rankin (combined) | 2
 Coral Trout and Coronation Trout when taken from waters east of Poissonnier Point (combined) | 1
 Coral Trout and Coronation Trout when taken from waters west of Poissonnier Point (combined) | 2
@@ -122,7 +120,7 @@ Threadfin, Giant | 2
 Tripletail | 1
 Tuna, Southern Bluefin, Northern Bluefin, Yellowfin, Bigeye and Dogtooth (combined) | 2
 Wrasse (combined) | 2
-[Division 1 inserted in Gazette 22 Dec 2005 p. 6231-2.]
+[Division 1 inserted in Gazette 22 Dec 2005 p. 6231-2; amended in Gazette 14 Sep 2012 p. 4375.]
 ## Division 2 — Grouped bag limit of 16 fish
 [Heading inserted in Gazette 22 Dec 2005 p. 6232.]
 Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in the Division for one day
@@ -187,7 +185,6 @@ Sea Urchin | 20
 [Heading inserted in Gazette 8 Dec 2009 p. 4996.]
 Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in this Division for one day
 Cod (combined, except Coral Trout and Coronation Trout) | 2 |  | 2
-Cod classified as Epinephelus spp., in excess of 30 kg in weight or 1000 mm in length | 0
 Coral Trout and Coronation Trout (combined) | 1
 Dhufish, West Australian | 1
 Emperor and Seabream (combined) | 2
@@ -200,7 +197,7 @@ Snapper, Pink | 2
 Snapper, Queen | 2
 Snapper, Red (Redfish) and Swallowtail (combined) | 2
 Tuskfish and Baldchin Groper (combined) | 2
-[Division 1 inserted in Gazette 8 Dec 2009 p. 4996 (Printer’s correction in Gazette 15 Dec 2009 p. 5140).]
+[Division 1 inserted in Gazette 8 Dec 2009 p. 4996 (Printer’s correction in Gazette 15 Dec 2009 p. 5140); amended in Gazette 14 Sep 2012 p. 4375.]
 ## Division 2A — Grouped bag limit of 2 fish (pelagic species)
 [Heading inserted in Gazette 8 Dec 2009 p. 4997.]
 Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in the Division for one day
@@ -287,7 +284,6 @@ Billfish, Sailfish, Spearfish and Marlins and Swordfish (combined) | 1 |  | 7
 Boarfish | 4
 Cobbler | 4
 Cod, except Grey Banded Rock Cod (combined) | 4
-Cod classified as Epinephelus spp., in excess of 30 kg in weight or 1000 mm in length | 0
 Dhufish, West Australian | 2
 Dolphinfish (Mahi Mahi) | 2
 Groper, Blue | 1
@@ -299,7 +295,7 @@ Snapper, Queen | 4
 Sharks and Rays (combined) | 2
 Trout, Brown and Rainbow (combined) | 4
 Tuna, Southern Bluefin, Yellowfin and Bigeye (combined) | 2
-[Division 1 inserted in Gazette 22 Dec 2005 p. 6235.]
+[Division 1 inserted in Gazette 22 Dec 2005 p. 6235; amended in Gazette 14 Sep 2012 p. 4375.]
 ## Division 2 — Grouped bag limit of 16 fish
 [Heading inserted in Gazette 22 Dec 2005 p. 6236.]
 Fish | Species, or group of species, bag limit for one day | Grouped bag limit of all species in the Division for one day

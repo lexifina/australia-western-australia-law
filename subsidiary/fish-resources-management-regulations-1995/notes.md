@@ -155,6 +155,7 @@ Fish Resources Management Amendment Regulations (No. 14) 2011 | 20 Dec 2011 p. 5
 Fish Resources Management Amendment Regulations 2012 | 24 Feb 2012 p. 801-3 | r. 1 and 2: 24 Feb 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Feb 2012 (see r. 2(b))
 Reprint 11: The Fish Resources Management Regulations 1995 as at 13 Apr 2012 (includes amendments listed above)
 Fish Resources Management Amendment Regulations (No. 3) 2012 | 22 Jun 2012 p. 2778-9 | r. 1 and 2: 22 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2012 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 4) 2012 | 14 Sep 2012 p. 4372-5 | r. 1 and 2: 14 Sep 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Sep 2012 (see r. 2(b))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Recreational Fishing Account.
@@ -167,6 +168,7 @@ Abrolhos Islands Fish Habitat Protection AreaSch. 2 Pt. 2 Div. 3 cl. 2(2)
 aircraft3(1)
 ALC55A
 ALC fishing boat55C(1)
+applicant124A(1), 124D(1)
 approved72
 approved automatic location communicator55A
 approved directions55A
@@ -268,6 +270,7 @@ prawn hand trawl net3(1)
 prescribed abalone17(2)
 principal place of residence3(1)
 pull3(1)
+recreational (boat) fishing licence receipt124D(1)
 recreational fishing licence3(1), 136(1)
 recreational fishing licence receipt124A(1)
 region3(1)
