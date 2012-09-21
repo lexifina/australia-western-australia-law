@@ -79,16 +79,16 @@ Category 48A | Not more than 1 000 tonnes per year | 50
  | More than 10 000 tonnes per year | 200
 Category 49 | Not applicable | 50
 Categories 50 and 51 | Not applicable | 50
-Category 52 | Not more than 20 megawatts | 50
- | More than 20 but not more than 100 megawatts | 100
- | More than 100 but not more than 200 megawatts | 200
- | More than 200 megawatts | 500
-Category 54 | Not more than 200 cubic metres per day | 20
- | More than 200 but not more than 2 000 cubic metres per day | 50
- | More than 2 000 cubic metres per day | 100
-Category 54A | Not more than 20 gigalitres per year | 20
- | More than 20 but not more than 40 gigalitres per year | 50
- | More than 40 gigalitres per year | 100
+Category 52 | Not more than 20 MW | 50
+ | More than 20 but not more than 100 MW | 100
+ | More than 100 but not more than 200 MW | 200
+ | More than 200 MW | 500
+Category 54 | Not more than 200 m3 per day | 20
+ | More than 200 but not more than 2 000 m3 per day | 50
+ | More than 2 000 m3 per day | 100
+Category 54A | Not more than 20 GL per year | 20
+ | More than 20 but not more than 40 GL per year | 50
+ | More than 40 GL per year | 100
 Category 55 | Not more than 50 000 animals per year | 20
  | More than 50 000 animals per year | 50
 Categories 56 and 57 | Not applicable | 20
@@ -97,10 +97,10 @@ Category 58 | Not more than 5 000 tonnes per day | 500
  | More than 10 000 but not more than 50 000 tonnes per day | 750
  | More than 50 000 tonnes per day | 1 400
 Category 58A | No applicable | 500
-Category 59 | Not more than 100 kilograms per hour | 50
- | More than 100 kilograms per hour | 100
-Category 60 | Not more than 500 kilograms per hour | 50
- | More than 500 kilograms per hour | 100
+Category 59 | Not more than 100 kg per hour | 50
+ | More than 100 kg per hour | 100
+Category 60 | Not more than 500 kg per hour | 50
+ | More than 500 kg per hour | 100
 Categories 61 and 61A | Not more than 100 tonnes per year | 15
  | More than 100 but not more than 10 000 tonnes per year | 30
  | More than 10 000 but not more than 100 000 tonnes per year | 45

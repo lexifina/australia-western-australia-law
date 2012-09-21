@@ -1,4 +1,4 @@
-### 5CAA. Advertising applications for works approvals
+### 5CAA. Manner of advertising prescribed (Act s. 54(2a))
 (1) For the purposes of section 54(2a) of the Act, the CEO is to advertise the application for a works approval in an advertisement published in a newspaper circulated daily in the State.
 (2) The advertisement is to include —
 (a) a statement indicating submissions about the application may be sent to the Department of Environment at the address and within the time period specified in the advertisement; and

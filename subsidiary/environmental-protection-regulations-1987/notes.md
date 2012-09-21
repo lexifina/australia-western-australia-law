@@ -1,9 +1,9 @@
 Notes
-This is a compilation of the Environmental Protection Regulations 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 21 September 2012 of the Environmental Protection Regulations 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Environmental Protection Regulations 1987 | 20 Feb 1987 p. 444-9 | 20 Feb 1987 (see r. 2 and Gazette 20 Feb 1987 p. 440)
-Environmental Protection Amendment Regulations 1988 | 14 Jun 1988 p. 1945-6 (as amended 24 Jun 1988 p. 2006 r. 2) | 1 Aug 1988 (see r. 2)
+Environmental Protection Amendment Regulations 1988 | 14 Jun 1988 p. 1945-6 (as amended 24 Jun 1988 p. 2006) | 1 Aug 1988 (see r. 2)
 Environmental Protection Amendment Regulations 1989 | 5 May 1989 p. 1379 | 5 May 1989
 Environmental Protection Amendment Regulations (No. 2) 1989 | 18 Aug 1989 p. 2752 | 17 Oct 1989 (see r. 2)
 Environmental Protection Amendment Regulations (No. 2) 1991 | 30 Aug 1991 p. 4553-4 | 30 Aug 1991
@@ -59,12 +59,59 @@ Reprint 6: The Environmental Protection Regulations 1987 as at 17 Aug 2007 (incl
 Environmental Protection Amendment Regulations (No. 2) 2007 | 30 Oct 2007 p. 5877-8 | r. 1 and 2: 30 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2007 (see r. 2(b))
 Waste Avoidance and Resource Recovery Regulations 2008 r. 22 | 20 Jun 2008 p. 2665-84 | 1 Jul 2008 (see r. 2(b))
 Environmental Protection Amendment Regulations 2010 | 23 Jul 2010 p. 3401 | r. 1 and 2: 23 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jul 2010 (see r. 2(b))
-Environmental Protection (Packaged Fertiliser) Regulations 2010 r. 18 | 31 Dec 2010 p. 6883-4 | 1 Jan 2011 (see r. 2(c))
+Environmental Protection (Packaged Fertiliser) Regulations 2010 r. 18 | 31 Dec 2010 p. 6869-84 | 1 Jan 2011 (see r. 2(c))
 Environmental Protection Amendment Regulations 2012 | 2 Mar 2012 p. 855 | r. 1 and 2: 2 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Mar 2012 (see r. 2(b))
 Environmental Protection Amendment Regulations (No. 2) 2012 | 8 May 2012 p. 1892-3 | r. 1 and 2: 8 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 9 May 2012 (see r. 2(b))
+Reprint 7: The Environmental Protection Regulations 1987 as at 21 Sep 2012 (includes amendments listed above)
 Published in Gazette 18 December 1992 p. 6099.
+Under the Alteration of Statutory Designations Order (No. 2) 2006 a reference in a written law to the Department of Environment or the Department of Environmental Protection is, unless the contrary is intended, to be read and construed as a reference to the Department of Environment and Conservation.
 Proclaimed 1 July 1988 in Gazette 26 June 1998 p. 3369.
-Expired on 1 July 2004; see Gazette 23 July 2003 p. 3172.
-Under the Alteration of Statutory Designations Order (No. 2) 2006 a reference in a written law to the Department of Environmental Protection is, unless the contrary is intended, to be read and construed as a reference to the Department of Environment and Conservation.
-The Environmental Protection Amendment Regulations (No. 3) 1996 r. 7 (as amended by the Environmental Protection Amendment Regulation (No. 6) 1996 r. 10) is a transitional provision that is of no further effect.
-The amendment in regulation 12 referring to items 8 and 9 of Schedule 6 is not included because these items were previously deleted in Gazette 19 December 2000 p. 7284.
+At the time of this reprint the Waste Management and Recycling Fund is the Waste Management and Recycling Account.
+Expired 30 June 2012.
+The Environmental Protection Amendment Regulations (No. 3) 1996 r. 7 (as amended by the Environmental Protection Amendment Regulations (No. 6) 1996 r. 10) is a transitional provision that is of no further effect.
+The amendment in the Environmental Protection Amendment Regulations (No. 5) 2000 r. 12 referring to items 8 and 9 of Schedule 6 is not included because these items were previously deleted in Gazette 19 December 2000 p. 7284.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+actual discharge5H(2)(b)
+approved21(1)
+approved monitoring equipment17
+approved site11(1)
+baseline report26(1)(b)
+baseline survey26(1)(a)
+best practice criteria4(1)
+category4(1)
+commencement day21(1)
+Departmental library2AA
+development site16A
+development work16A
+enclosed water body16(4)
+exemption period21(1)
+existing landfill26(8)
+existing licensee21(1)
+Fund21(1)
+head office2AA
+length16(4)
+levy21(1)
+licence4(1)
+licence period4(1)
+licensed landfill21(1)
+licensed premises11(1)
+licensee21(1), 24(1), 28(1)
+lot16A
+metropolitan region21(1)
+minute2B(1)
+organotin anti-fouling paint16(4)
+Part 2 waste5D(6)
+payer5N
+quarterly survey26(4)
+return period21(1)
+semi-enclosed water body16(4)
+specified31(3)
+specified monitoring programme17
+storage11(1)
+surveyor26(8)
+tyre11(1)
+Tyre Landfill Exclusion Zone11(1)
+tyre retailer11(1)
+vessel16(4)
