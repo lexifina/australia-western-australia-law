@@ -37,7 +37,8 @@ If you or your legal practitioner do not appear before the Court at the time sho
 (b)directions may be given for the future conduct of the proceeding;
 (c)any interlocutory application may be heard.
 Before appearing before the Court, you must file a notice of appearance, in the prescribed form, in the Registry and serve a copy of it on the plaintiff.
-Note:Unless the Court otherwise orders, a defendant that is a corporation must be represented at a hearing by a legal practitioner. It may be represented at a hearing by a director of the corporation only if the Court grants leave.
+Note for this Form:
+Unless the Court otherwise orders, a defendant that is a corporation must be represented at a hearing by a legal practitioner. It may be represented at a hearing by a director of the corporation only if the Court grants leave.
 C.APPLICATION FOR WINDING-UP ON GROUND OF INSOLVENCY
 [Complete this section if this originating process is seeking an order that a company be wound up in insolvency on the ground that the company has failed to comply with a statutory demand (see section 459Q of the Corporations Act).]
 [Set out particulars of service of the statutory demand on the company and of the failure to comply with the demand.]
@@ -46,8 +47,9 @@ C.APPLICATION FOR WINDING-UP ON GROUND OF INSOLVENCY
 (a)verify service of the demand on the company;
 (b)verify the failure of the company to comply with the demand; and
 (c)state whether and, if so, to what extent the debt, or each of the debts, to which the demand relates is still due and payable at the date when the affidavit is made.]
-Note 1: In an application for winding-up in insolvency on the ground that the company has failed to comply with a statutory demand, the applicant should consider completing Part C of Form 2 as shown in Note 1 to these rules.
-Note 2: An example of the affidavit in support of an application for winding-up in insolvency for failure to comply with a statutory demand is shown in Note 2 to these rules.
+Note for this Form:
+1 In an application for winding-up in insolvency on the ground that the company has failed to comply with a statutory demand, the applicant should consider completing Part C of Form 2 as shown in Note 1 to these rules.
+2.An example of the affidavit in support of an application for winding-up in insolvency for failure to comply with a statutory demand is shown in Note 2 to these rules.
 D.FILING
 Date of filing: [date of filing to be entered by Principal Registrar]
 .............................................
@@ -82,7 +84,8 @@ B.NOTICE TO RESPONDENT(S) (IF ANY)
 TO: [name and address of each respondent to this interlocutory process (if any). If applicable, also state the respondent’s address for service.]
 If you or your legal practitioner do not appear before the Court at the time shown above, the application may be dealt with, and an order made, in your absence.
 Before appearing before the Court, you must, except if you have already done so or you are the plaintiff in this proceeding, file a notice of appearance, in the prescribed form, in the Registry and serve a copy of it on the plaintiff in the originating process.
-Note:Unless the Court otherwise orders, a defendant that is a corporation must be represented at a hearing by a legal practitioner. It may be represented at a hearing by a director of the corporation only if the Court grants leave.
+Note for this Form:
+Unless the Court otherwise orders, a defendant that is a corporation must be represented at a hearing by a legal practitioner. It may be represented at a hearing by a director of the corporation only if the Court grants leave.
 C.FILING
 This interlocutory process is filed by [name] for the applicant.
 D.SERVICE
@@ -101,7 +104,8 @@ Notice of appearance
 [Title]
 A.DETAILS OF PERSON INTENDING TO APPEAR
 Notice is given that [state full name and address], [briefly state your interest in the proceeding, e.g. a creditor for $ (amount), or a contributory, of the corporation] intends to appear before the Court at the hearing of the application to be heard at [name of Court and address] on [date] and, if applicable, to *oppose/*support the application.
-Note:Unless the Court otherwise orders, a defendant that is a corporation must be represented at a hearing by a legal practitioner. It may be represented at a hearing by a director of the corporation only if the Court grants leave.
+Note for this Form:
+Unless the Court otherwise orders, a defendant that is a corporation must be represented at a hearing by a legal practitioner. It may be represented at a hearing by a director of the corporation only if the Court grants leave.
 B.GROUNDS OF OPPOSITION TO WINDING-UP
 [Complete this section only if you are opposing an application to wind-up a company.]
 The grounds on which I oppose the application for winding-up are —
@@ -190,13 +194,13 @@ Notice of application for winding-up order
 IN THE [name of Court]No. of [year]
 [Name of company]
 ABN or ACN: [ABN or ACN of company to which proceeding relates]
-1A proceeding for the winding-up of [name of company] was commenced by the plaintiff, [name of plaintiff], on [date of filing of originating process] and will be heard by .................................................................... at [address of Court] at ...................*a.m./*p.m. on ................................... Copies of documents filed may be obtained from the plaintiff’s address for service.
+1A proceeding for the winding-up of [name of company and, if applicable, the words ‘trading as’ and any trading name or names of the company] was commenced by the plaintiff, [name of plaintiff], on [date of filing of originating process] and will be heard by .................................................................... at [address of Court] at ...................*a.m./*p.m. on ................................... Copies of documents filed may be obtained from the plaintiff’s address for service.
 2The plaintiff’s address for service is [address of plaintiff’s legal practitioner or of plaintiff].
 3Any person intending to appear at the hearing must file a notice of appearance, in accordance with the prescribed form, together with any affidavit on which the person intends to rely, and serve a copy of the notice and any affidavit on the plaintiff at the plaintiff’s address for service at least 3 days before the date fixed for the hearing.
 Date:
 Name of plaintiff or plaintiff’s legal practitioner: [name]
 * Omit if not applicable
-[Form 9 amended in Gazette 13 Feb 2009 p. 312.]
+[Form 9 amended in Gazette 13 Feb 2009 p. 312; 21 Sep 2012 p. 4427.]
 Form 10
 rule 5.10
 Notice of application for winding-up order by substituted plaintiff
@@ -265,7 +269,8 @@ Signature and designation of
 person before whom deponent
 swears or affirms affidavit
 * Omit if not applicable
-Note:The form of the opening words and the jurat of this affidavit may be changed to conform to the form of affidavit used in a particular State or Territory — see rule 2.6.
+Note for this Form:
+The form of the opening words and the jurat of this affidavit may be changed to conform to the form of affidavit used in a particular State or Territory — see rule 2.6.
 Schedule B
 Number on list of contributories | Name | Address | Character in which included in the list | Unpaid amount of call | Proportion of costs of application | Total amount payable
 Form 15

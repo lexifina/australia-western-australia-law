@@ -10,16 +10,17 @@ Supreme Court (Corporations) (WA) Amendment Rules 2009 | 13 Feb 2009 p. 302-12 |
 Reprint 1: The Supreme Court (Corporations) (WA) Rules 2004 as at 8 May 2009 (includes amendments listed above)
 Supreme Court (Corporations) (WA) Amendment Rules (No. 2) 2009 | 6 Nov 2009 p. 4472-3 | r. 1 and 2: 6 Nov 2009 (see r. 2(a)); Rules other than r. 1 and 2: 7 Nov 2009 (see r. 2(b))
 Supreme Court (Corporations) (WA) Amendment Rules 2010 | 1 Apr 2010 p. 1279 | r. 1 and 2: 1 Apr 2010 (see r. 2(a)); Rules other than r. 1 and 2: 2 Apr 2010 (see r. 2(b))
-Defined Terms
+Supreme Court (Corporations) (WA) Amendment Rules 2012 | 21 Sep 2012 p. 4425-7 | r. 1 and 2: 21 Sep 2012 (see r. 2(a)); Rules other than r. 1 and 2: 22 Sep 2012 (see r. 2(b))
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 applicant1.5(1)
 ASIC Act1.5(1)
 Corporations Act1.5(1)
 Corporations Regulations1.5(1)
 Cross-Border Insolvency Act1.5(1)
 defendant1.5(1)
-examination summons11.1
+examination summons11
 interlocutory process1.5(1)
 liquidator5.5(1), 5.11(5), 7.3(4), 7.11(5)
 Model Law1.5(1)
