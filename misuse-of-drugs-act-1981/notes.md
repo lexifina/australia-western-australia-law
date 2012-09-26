@@ -46,11 +46,11 @@ Reprint 5: The Misuse of Drugs Act 1981 as at 16 Sep 2011 (includes amendments l
 Misuse of Drugs (Amounts of Prohibited Drugs) Order (No. 3) 2011 published in Gazette 11 Oct 2011 p. 4316-20 | cl. 1 and 2: 11 Oct 2011 (see cl. 2(a)); Order other than cl. 1 and 2: 12 Oct 2011 (see cl. 2(b))
 Misuse of Drugs Amendment Act 2011 s. 3, 4 and 9 | 56 of 2011 | 21 Nov 2011 | 24 Mar 2012 (see s. 2(b) and Gazette 23 Mar 2012 p. 1363)
 Misuse of Drugs (Amounts of Prohibited Drugs) Order 2012 published in Gazette 13 Apr 2012 p. 1664-5 | cl. 1 and 2: 13 Apr 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 14 Apr 2012 (see cl. 2(b))
+Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 10 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Misuse of Drugs Amendment Act 2011 s. 5-8 | 56 of 2011 | 21 Nov 2011 | To be proclaimed (see s. 2(b))
-Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 10 | 9 of 2012 | 21 May 2012 | To be proclaimed (see s. 2(b))
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 read as follows:
@@ -153,12 +153,6 @@ In section 8B(1) in the definition of minor cannabis related offence paragraph (
 or 7B(6)
 8.Sections 19A and 19B deleted
 Delete sections 19A and 19B.
-On the date as at which this compilation was prepared, the Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 10 had not come into operation. It reads as follows:
-10.Misuse of Drugs Act 1981 amended
-(1) This section amends the Misuse of Drugs Act 1981.
-(2) At the end of Part 1 insert:
-5A.Authority required for some investigations
-This Act is subject to the Criminal Appeals Act 2004 section 46C.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

@@ -164,6 +164,7 @@ Child Pornography and Exploitation Material and Classification Legislation Amend
 Reprint 16: The Criminal Code Act Compilation Act 1913 as at 15 Oct 2010 (includes amendments listed above except those in the Criminal Code Amendment (Identity Crime) Act 2010)
 Electronic Transactions Act 2011 s. 25 and 26 | 46 of 2011 | 25 Oct 2011 | s. 25: 1 Aug 2012 (see s. 2(c) and Gazette 31 Jul 2012 p. 3683); s. 26: 1 Aug 2012 (see s. 2(b)(i) and Gazette 31 Jul 2012 p. 3683)
 Manslaughter Legislation Amendment Act 2011 Pt. 2 | 58 of 2011 | 30 Nov 2011 | 17 Mar 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1245)
+Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 6 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 4 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -171,7 +172,6 @@ Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 | 10 of 2011 | 2 May 2011 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 6 | 9 of 2012 | 21 May 2012 | To be proclaimed (see s. 2(b))
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 3 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
@@ -269,13 +269,7 @@ Delete section 297(4)(c)(iii) and insert:
 185.Section 318 amended
 Delete section 318(1)(g)(iii) and insert:
 (iii) a taxi as defined in the Taxi Act 1994 section 3(1) or an omnibus as defined in the Transport Co-ordination Act 1966 section 4(1);
-On the date as at which this compilation was prepared, the Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 6 had not come into operation. It reads as follows:
-6.Criminal Code amended
-(1) This section amends The Criminal Code.
-(2) In section 17 delete “It” and insert:
-(1) It
-(3) At the end of section 17 insert:
-(2) Subsection (1) is subject to the Criminal Appeals Act 2004 section 46M(4)(b) and (c).
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 3 had not come into operation. It reads as follows:
 Division 3 — The Criminal Code amended
 114.Act amended

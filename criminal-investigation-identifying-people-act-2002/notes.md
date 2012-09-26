@@ -19,18 +19,9 @@ Compilation table
  | Criminal Investigation (Identifying People) Amendment Act 2011 | 15 of 2011 | 25 May 2011 | s. 1 and 2: 25 May 2011 (see s. 2(a)); Act other than s. 1 and 2: 26 May 2011 (see s. 2(b))
  | Reprint 3: The Criminal Investigation (Identifying People) Act 2002 as at 27 Jan 2012 (includes amendments listed above)
 Community Protection (Offender Reporting) Amendment Act 2012 Pt. 3 Div. 1 | 1 of 2012 | 15 Mar 2012 | 1 Jul 2012 (see s. 2(b) and Gazette 22 Jun 2012 p. 2777)
+Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 9 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 8 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 9 | 9 of 2012 | 21 May 2012 | To be proclaimed (see s. 2(b))
 Section 95 of this Act gave effect to Sch. 1 which set out some temporary provisions relating to obtaining and using identifying particulars of people in custody and others. These provisions ceased to have effect on 29 June 2005.
-On the date as at which this compilation was prepared, the Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 9 had not come into operation. It reads as follows:
-9.Criminal Investigation (Identifying People) Act 2002 amended
-(1) This section amends the Criminal Investigation (Identifying People) Act 2002.
-(2) After section 11 insert:
-12A.Authority required for some investigations
-This Act is subject to the Criminal Appeals Act 2004 section 46C.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
