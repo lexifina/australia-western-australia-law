@@ -18,12 +18,7 @@ The Bank of Western Australia Act 1990, the short title of which was changed to 
 Footnote no longer applicable.
 Repealed by the Rural and Industries Bank of Western Australia Act 1987 s. 36.
 Repealed by the R & I Bank Act 1990 s. 43.
-Section 28 expired 25 Oct 1996. It reads as follows:
-“
-28.Saving
-(1) The Bank, or any officer or other person acting on behalf of the Bank, shall not be taken to be in breach of section 27 of this Act or section 219 of the Corporations Law by reason of the use of any instrument or document of any kind or any sign or other form of publication bearing the name “R & I Bank of Western Australia Ltd”.
-(2) Subsection (1) expires on 25 October 1996.
-”.
+Section 28 expired 25 Oct 1996.
 The provision of this Act repealing Schedule 2 of the 1990 Act has been omitted under the Reprints Act 1984 s. 7(4)(e).
 These provisions were repealed by Schedule 1, Division 1 of this Act and were omitted under the Reprints Act 1984 s. 7(4)(e).
 The provision of this Act repealing s. 31 of the 1990 Act has been omitted under the Reprints Act 1984 s. 7(4)(e).
@@ -42,6 +37,7 @@ Act | Provision
 Bank of Western Australia Act 1995 | Sch. 2, Part B, cl. 2
 ...................... | ........
 ”.
+The transfer day as defined in s. 42A is 1 Oct 2012 (see Gazette 9 Nov 2012 p. 5393)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
