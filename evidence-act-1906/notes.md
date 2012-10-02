@@ -107,6 +107,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 31 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Evidence and Public Interest Disclosure Legislation Amendment Act 2012 Pt. 2 | 31 of 2012 | 2 Oct 2012 | To be proclaimed (see s. 2(b))
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 “
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
@@ -207,6 +208,158 @@ On the date as at which this compilation was prepared, the Prostitution Amendmen
 21A | Obligations of those who operate sexual service business in relation to children
 ”.
 ”.
+On the date as at which this compilation was prepared, the Evidence and Public Interest Disclosure Legislation Amendment Act 2012 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Amendments to the Evidence Act 1906 about protection of confidential communications given in professional confidential relationships, and protection of journalists’ sources
+3.Act amended
+This Part amends the Evidence Act 1906.
+4.Heading replaced
+Delete the heading before section 19A and insert:
+Protection of confidential communications given in counselling concerning sexual assault
+5.Sections 20A to 20M inserted
+After section 19M insert:
+Protection of confidential communications given in professional confidential relationships
+20A.Terms used
+(1) In this section and in sections 20B to 20F —
+confidant means a person to whom a communication is made in confidence and includes a journalist as defined in section 20G;
+harm includes actual physical bodily harm, financial loss, stress or shock, damage to reputation or emotional or psychological harm, such as shame, humiliation and fear;
+protected confidence means a communication made by a person in confidence to another person (the confidant) —
+(a)in the course of a relationship in which the confidant was acting in a professional capacity; and
+(b)when the confidant was under an express or implied obligation not to disclose its contents, whether or not the obligation arises under law or can be inferred from the nature of the relationship between the person and the confidant;
+protected confider, in relation to a protected confidence, means the person who made the protected confidence;
+protected identity information means information about, or enabling a person to ascertain, the identity of the person who made a protected confidence;
+protection provisions (PCR) means this section and sections 20C to 20F.
+(2) For the purposes of the protection provisions (PCR), a communication may be made in confidence even if it is made in the presence of a third party if the third party’s presence is necessary to facilitate communication.
+20B.Application of protection provisions (PCR)
+(1) The protection provisions (PCR) do not apply in relation to a proceeding the hearing of which began before the commencement of those provisions.
+(2) The protection provisions (PCR) apply in relation to a protected confidence whether made before or after the commencement of those provisions.
+(3) The protection provisions (PCR) do not apply in relation to matters that are the subject of the protection provisions as defined in section 19A(1).
+(4) The protection provisions (PCR) do not affect the law relating to legal professional privilege.
+(5) The protection provisions (PCR) do not affect the law relating to evidence of a confession made by a person to a member of the clergy in the member’s professional capacity according to the ritual of the church or religious denomination concerned.
+(6) A court may give a direction under the protection provisions (PCR) in respect of a protected confidence or protected identity information whether or not the protected confidence or protected identity information is privileged or protected under another provision of this Act or would be so privileged or protected except for a limitation or restriction imposed by that provision.
+(7) The protection provisions (PCR) are not intended to exclude or limit the operation of section 5 or the power of a court under any other law of the State to take any action if it is in the interests of justice to do so.
+20C.Exclusion of evidence of protected confidences
+(1) A court may direct that evidence not be adduced in a proceeding if the court finds that adducing it would disclose —
+(a) a protected confidence; or
+(b) the contents of a document recording a protected confidence; or
+(c) protected identity information.
+(2) A court may give such a direction —
+(a) on its own initiative; or
+(b) on the application of the protected confider or confidant concerned, whether or not either is a party.
+(3) A court must give such a direction if it is satisfied that —
+(a) it is likely that harm would or might be caused, whether directly or indirectly, to the protected confider if the evidence is adduced; and
+(b) the nature, extent and likelihood of the harm outweigh the desirability of the evidence being given.
+(4) Without limiting the matters that a court may have regard to for the purposes of this section, it must have regard to the following matters —
+(a) the probative value of the evidence in the proceeding;
+(b) the importance of the evidence in the proceeding;
+(c) the nature and gravity of the relevant offence, cause of action or defence and the nature of the subject matter of the proceeding;
+(d) the availability of any other evidence concerning the matters to which the protected confidence or protected identity information relates;
+(e) the likely effect of adducing evidence of the protected confidence or protected identity information, including the likelihood of harm, and the nature and extent of harm that would be caused to the protected confider;
+(f) the means, including any ancillary orders that may be made under section 20F, available to the court to limit the harm or extent of the harm that is likely to be caused if evidence of the protected confidence or the protected identity information is disclosed;
+(g) the likely effect of the evidence in relation to —
+(i) a prosecution that has commenced but has not been finalised; or
+(ii) an investigation, of which the court is aware, into whether or not an offence has been committed;
+(h) whether the substance of the protected confidence or the protected identity information has already been disclosed by the protected confider or any other person;
+(i) the public interest in preserving the confidentiality of protected confidences;
+(j) the public interest in preserving the confidentiality of protected identity information.
+(5) A court must not give a direction under this section in a proceeding for defamation concerning the publication of alleged defamatory matter containing or relying on a protected confidence unless the court is first satisfied that the content of the protected confidence is true, and if the court is so satisfied, subsections (3) and (4) apply.
+(6) A court must state its reasons for giving or refusing to give a direction under this section.
+20D.Loss of professional confidential relationship protection: consent
+The protection provisions (PCR) do not prevent the giving or adducing of evidence with the consent of the protected confider concerned.
+20E.Loss of professional confidential relationship protection: misconduct
+(1) In this section —
+misconduct, in relation to a person (the confider) who makes a communication in confidence to another person, includes any of the following —
+(a)an offence committed by the confider;
+(b)an act or omission on the part of the confider that renders the confider liable to a civil penalty;
+(c)deceit, dishonesty, inappropriate partiality or a breach of trust on the part of the confider;
+(d)the confider acting corruptly, or corruptly failing to act, in any capacity;
+(e)the confider corruptly taking advantage of the confider’s position to obtain a benefit for the confider or another person or to cause a detriment to another person;
+(f)the confider engaging in conduct that adversely affects, or could adversely affect, directly or indirectly, the honest or impartial performance of the functions of any person in any capacity;
+(g)misuse, on the part of the confider, of information or material that the confider has acquired in any capacity, whether the misuse is to obtain a benefit for the confider or any other person or to cause a detriment to another person;
+(h)conduct providing reasonable grounds for the termination of the confider’s employment;
+(i)conduct providing reasonable grounds for disciplining the confider in relation to unsatisfactory professional conduct or professional misconduct, or the breach of a professional standard, in relation to the confider’s profession, whether or not the confider is a member of the body that prescribed the standard.
+(2) The protection provisions (PCR) do not prevent the adducing of evidence of a communication made or the contents of a document prepared in the furtherance of misconduct by a person who makes a communication in confidence to another person.
+(3) For the purposes of this section, if the misconduct is a fact in issue and there are reasonable grounds for believing that —
+(a) the misconduct occurred; and
+(b) a communication was made or document prepared in furtherance of the misconduct,
+the court may find that the communication was so made or document so prepared.
+20F.Ancillary orders
+Without limiting any action the court may take to limit the possible harm, or extent of the harm, likely to be caused by the disclosure of evidence of a protected confidence or protected identity information, the court may —
+(a) order that all or part of the evidence be heard in camera; and
+(b) make such orders relating to the suppression of publication of all or part of the evidence given before the court as, in its opinion, are necessary to protect the safety and welfare of the protected confider and are in the interests of justice.
+Protection of identity of journalists’ informants
+20G.Terms used
+In this section and in sections 20H to 20M —
+direction means a direction under section 20J(1);
+identifying evidence has the meaning given in section 20I;
+informant means a person who gives information to a journalist in the normal course of the journalist’s work in the expectation that the information may be published in a news medium;
+journalist means a person engaged in the profession or occupation of journalism in connection with the publication of information in a news medium;
+national security has the meaning that it has in the National Security Information (Criminal and Civil Proceedings) Act 2004 (Commonwealth) section 7;
+news medium means a medium for the dissemination to the public or a section of the public of news and observations on news;
+person acting judicially does not include a member of a House of Parliament or a Committee of a House, or both Houses, of Parliament who, by law, has authority to hear, receive, and examine evidence;
+proceeding does not include a proceeding before either House of Parliament or a Committee of either House, or both Houses, of Parliament, in which evidence is or may be given;
+protection provisions (journalists) means this section and sections 20I to 20M.
+20H.Application of protection provisions (journalists)
+(1) The protection provisions (journalists) do not apply in relation to a proceeding the hearing of which began before the commencement of those provisions.
+(2) The protection provisions (journalists) apply in relation to information given by an informant whether given before or after the commencement of those provisions.
+(3) The protection provisions (journalists) apply to a person acting judicially in any proceeding even if the law by which the person has authority to hear, receive, and examine evidence provides that this Act does not apply to the proceeding.
+(4) The protection provisions (journalists) are not intended to exclude or limit the operation of section 5 or the power that a person acting judicially has under any other law of the State to take any action if it is in the interests of justice to do so.
+20I.Protection of identity of informants
+If a journalist has promised an informant not to disclose the informant’s identity, neither the journalist nor a person for whom the journalist was working at the time of the promise is compellable to give evidence that would disclose the identity of the informant or enable that identity to be ascertained (identifying evidence).
+20J.Direction to give identifying evidence
+(1) Despite section 20I, a person acting judicially may direct a person referred to in that section to give identifying evidence.
+(2) A person acting judicially may give a direction only if satisfied that, having regard to the issues to be determined in the proceeding, the public interest in the disclosure of the identity of the informant outweighs —
+(a) any likely adverse effect of the disclosure of the identity on the informant or any other person; and
+(b) the public interest in the communication of facts and opinions to the public by the news media and, accordingly also, in the ability of the news media to access sources of facts.
+(3) Without limiting the matters that a person acting judicially may have regard to for the purposes of this section, the person acting judicially must have regard to the following matters —
+(a) the probative value of the identifying evidence in the proceeding;
+(b) the importance of the identifying evidence in the proceeding;
+(c) the nature and gravity of the relevant offence, cause of action or defence and the nature of the subject matter of the proceeding;
+(d) the availability of any other evidence concerning the matters to which the identifying evidence relates;
+(e) the likely effect of the identifying evidence, including the likelihood of harm, and the nature and extent of harm that would be caused to the informant or any other person;
+(f) the means, including any ancillary orders that may be made under section 20M, available to the person acting judicially to limit the harm or extent of the harm that is likely to be caused if the identifying evidence is given;
+(g) the likely effect of the identifying evidence in relation to —
+(i) a prosecution that has commenced but has not been finalised; or
+(ii) an investigation, of which the person acting judicially is aware, into whether or not an offence has been committed;
+(h) whether the substance of the identifying evidence has already been disclosed by the informant or any other person;
+(i) the risk to national security or to the security of the State;
+(j) whether or not there was misconduct, as defined in section 20K(1), on the part of the informant or the journalist in relation to obtaining, using, giving or receiving information.
+(4) A person acting judicially must state the person’s reasons for giving or refusing to give a direction.
+20K.Effect of misconduct as to directions
+(1) In this section —
+misconduct, in relation to an informant or a journalist, includes any of the following —
+(a)an offence committed by the informant or journalist;
+(b)an act or omission on the part of the informant or journalist that renders him or her liable to a civil penalty;
+(c)deceit, dishonesty, inappropriate partiality or a breach of trust on the part of the informant or journalist;
+(d)the informant or journalist acting corruptly, or corruptly failing to act, in any capacity;
+(e)the informant or journalist corruptly taking advantage of his or her position to obtain a benefit for himself, herself or another person or to cause a detriment to another person;
+(f)the informant or journalist engaging in conduct that adversely affects, or could adversely affect, directly or indirectly, the honest or impartial performance of the functions of any person in any capacity;
+(g)misuse, on the part of the informant or journalist, of information or material that he or she has acquired in any capacity, whether the misuse is to obtain a benefit for himself, herself or another person or to cause a detriment to another person;
+(h)conduct providing reasonable grounds for the termination of the informant or journalist’s employment;
+(i)conduct providing reasonable grounds for disciplining the informant or journalist in relation to unsatisfactory professional conduct or professional misconduct, or the breach of a professional standard, in relation to the informant or journalist’s profession, whether or not he or she is a member of the body that prescribed the standard.
+(2) A person acting judicially who finds that there was misconduct on the part of an informant or a journalist in relation to obtaining, using, giving or receiving information —
+(a) may, but is not bound to, give a direction; and
+(b) must have regard to the principles set out in subsection (3) when deciding whether or not to give a direction.
+(3) The principles mentioned in subsection (2)(b) are as follows —
+(a) that generally a direction should be given if —
+(i) the misconduct was the commission of an offence under The Criminal Code section 81 or a breach of a public sector standard, code of conduct or code of ethics, as those terms are defined in the Public Sector Management Act 1994 section 3(1); and
+(ii) the offence or breach concerned the disclosure of information that was public interest information as defined in the Public Interest Disclosure Act 2003 section 3(1); and
+(iii) the information could have been, but was not, disclosed in accordance with the Public Interest Disclosure Act 2003;
+(b) that generally a direction should be given if the information given to a journalist could have been provided, in a way that did not constitute misconduct, to another person to deal with the concern;
+(c) that generally a direction should be given if the information given to a journalist could have been obtained by the journalist under the Freedom of Information Act 1992 or by other lawful means;
+(d) that generally a direction should be given if the misconduct involved a breach of privacy that was not warranted in the circumstances, having regard to the value to be attached to —
+(i) the privacy of information regarding private citizens generally; or
+(ii) the privacy of information regarding matters which may be commercial in confidence; or
+(iii) the principle of Cabinet confidentiality; or
+(iv) the principle of public interest immunity;
+(e) that generally a direction should be given if a communication made to a journalist, if published, would give rise to a risk to national security or to the security of the State;
+(f) that it is otherwise in the public interest to give or refuse to give a direction.
+(4) For the purposes of this section, if the misconduct is a fact in issue and there are reasonable grounds for believing that there was misconduct on the part of the informant or the journalist in relation to obtaining, using, giving or receiving information, the person acting judicially in the proceeding may so find.
+20L.Identifying informant with consent
+The protection provisions (journalists) do not prevent the giving or adducing of identifying evidence with the informant’s consent.
+20M.Ancillary orders
+Without limiting any action the person acting judicially may take to limit the possible harm, or extent of the harm, likely to be caused by identifying evidence, the person acting judicially may —
+(a) order that all or part of the evidence be heard in camera; and
+(b) make such orders relating to the suppression of publication of all or part of the evidence given before the person acting judicially as, in the opinion of the person acting judicially, are necessary to protect the informant’s safety and welfare and are in the interests of justice.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
