@@ -13,6 +13,7 @@ Training Legislation Amendment and Repeal Act 2008 s. 59 | 44 of 2008 | 10 Dec 2
 Pay-roll Tax Assessment Amendment Act 2010 Pt. 2 | 15 of 2010 | 25 Jun 2010 | Pt. 2 Div. 1 and 2: 25 Jun 2010 (see s. 2(a)); Pt. 2 Div. 3: 1 Jul 2012 (see s. 2(b))
 Reprint 2: The Pay-roll Tax Assessment Act 2002 as at 15 Oct 2010 (includes amendments listed above except those in the Pay-roll Tax Assessment Amendment Act 2010 Pt. 2 Div. 3 and the Revenue Laws Amendment Act 2012 Pt. 5 Div. 1 and 2)
 Revenue Laws Amendment Act 2012 Pt. 5 | 29 of 2012 | 3 Sep 2012 | Heading to Pt. 5, Pt. 5 Div. 1 and 2: 1 Jul 2011 (see s. 2(c)); Pt. 5 Div. 3: 4 Sep 2012 (see s. 2(e))
+Revenue Laws Amendment Act (No. 2) 2012 Pt. 5 | 32 of 2012 | 8 Oct 2012 | 1 Jul 2012 (see s. 2(d)(ii))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -263,6 +264,10 @@ DGEGl.
 direct interest35B(1)
 directly controlled corporation35C(1)
 directorGl.
+Disability Service41C(1)
+Disability Services Commission41C(1)
+disability wages subsidy41C(1), (5)
+DSC disability support41C(1)
 employee9CA
 employer9CA, Gl.
 employment agentGl.
@@ -289,6 +294,7 @@ local non-group employerGl.
 maternity leave41A(1)
 monthly threshold amountGl.
 motor vehicle allowanceGl.
+new employee41C(1), (4)
 new rate22A(2)
 new section 9DASch. 1, cl. 5(1)
 nominated deductionGl.
