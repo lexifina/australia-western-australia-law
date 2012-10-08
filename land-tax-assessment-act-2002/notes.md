@@ -26,6 +26,7 @@ Reprint 3: The Land Tax Assessment Act 2002 as at 11 Feb 2011 (includes amendmen
 Building Act 2011 s. 164 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Metropolitan Redevelopment Authority Act 2011 s. 140 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Revenue Laws Amendment Act 2012 Pt. 4 | 29 of 2012 | 3 Sep 2012 | 4 Sep 2012 (see s. 2(e))
+Revenue Laws Amendment Act (No. 2) 2012 Pt. 4 | 32 of 2012 | 8 Oct 2012 | 1 Jul 2009 (see s. 2(c))
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Under the Public Sector Management Act 1994 the designations of departments can be changed. At the time of this compilation the designation of the Department of Mines has been changed to the Department of Mines and Petroleum.
@@ -87,6 +88,7 @@ other lotsGl. cl. 2(4)
 ownerGl. cl. 1
 owner-builderGl. cl. 1
 parcelGl. cl. 1
+previous financial yearGl. cl. 6(4)
 primary residenceGl. cl. 1
 private residenceGl. cl. 1
 private residential propertyGl. cl. 1
