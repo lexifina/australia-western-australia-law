@@ -12,6 +12,7 @@ Duties Amendment Act 2011 | 27 of 2011 | 11 Jul 2011 | s. 1 and 2: 11 Jul 2011 (
 Reprint 1: The Duties Act 2008 as at 12 Jul 2011 (includes amendments listed above)
 Duties Amendment Act (No. 2) 2011 | 33 of 2011 | 12 Sep 2011 | Pt. 2: 24 Dec 2010 (see s. 2(b)); Pt. 1: 12 Sep 2011 (see s. 2(a)); Pt. 3: 13 Sep 2011 (see s. 2(c))
 Revenue Laws Amendment Act 2012 Pt. 2 | 29 of 2012 | 3 Sep 2012 | Heading to Pt. 2, Pt. 2 Div. 1 and 2: 1 Dec 2011 (see s. 2(b)); Pt. 2 Div. 3: 4 Sep 2012 (see s. 2(e))
+Revenue Laws Amendment Act (No. 2) 2012 Pt. 2 (other than s. 5, 6, 7, 12, 15, 18, 22 and 25 | 32 of 2012 | 8 Oct 2012 | 1 Jul 2008 (see s. 2(b))
 On the date as at which this complation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -119,6 +120,7 @@ Defined TermProvision(s)
 A44(2)(a), 257(2)
 accident insurance206
 acquirer171(2), 175
+acquiring person167, 168
 acquisition165
 acquisition statement199
 additional insurance210(2)(a)
@@ -171,6 +173,7 @@ de facto relationship instrument128(1)
 de facto relationship property128(1)
 dealer228
 declaration of trust9
+dependent 127(1)
 dependent transaction274(1)
 director3
 Director General228
@@ -187,7 +190,7 @@ dutiable value9, 231
 duties Act3
 duty3, 9, 148, 206, 228, 273(1)
 duty endorsed3, 272(1), (2) and (3)
-earlier acquisition190(2)
+earlier acquisition189(4)
 earlier instrumentSch. 3 cl. 10(1)
 eligible rollover fund121
 eligible transaction147A(1), 147B
@@ -243,6 +246,7 @@ intervening transactions42(8)(b)
 land3, 147F(1) and (3), 148
 landholder148
 landholder duty3
+legal personal representative127(1)
 licence228, 230(2) and (3)
 life insurance206
 linked entity148, 156(2)
@@ -301,7 +305,7 @@ registered insurer206
 registered scheme3
 registrar276(2), 278(1)
 related corporation3
-related person79, 161, 201(1)(b)
+related person79, 148, 201(1)(b)
 related transaction274(1)
 relevant acquisition148, 163, 164, Sch. 3 cl. 1(1)
 relevant consolidation transaction257(1), 259(2), (3) and (4)
@@ -312,6 +316,7 @@ relevant person154(2)
 relevant reconstruction transaction257(1), 260(1), (2), (3) and (4)
 relevant transaction257(1)
 relevant transfer125(1)
+relinquishing person167(1), 168(1)
 replacement transaction107(1)
 representative206
 required duty273(1)
