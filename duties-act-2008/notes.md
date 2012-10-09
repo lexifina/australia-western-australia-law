@@ -12,7 +12,7 @@ Duties Amendment Act 2011 | 27 of 2011 | 11 Jul 2011 | s. 1 and 2: 11 Jul 2011 (
 Reprint 1: The Duties Act 2008 as at 12 Jul 2011 (includes amendments listed above)
 Duties Amendment Act (No. 2) 2011 | 33 of 2011 | 12 Sep 2011 | Pt. 2: 24 Dec 2010 (see s. 2(b)); Pt. 1: 12 Sep 2011 (see s. 2(a)); Pt. 3: 13 Sep 2011 (see s. 2(c))
 Revenue Laws Amendment Act 2012 Pt. 2 | 29 of 2012 | 3 Sep 2012 | Heading to Pt. 2, Pt. 2 Div. 1 and 2: 1 Dec 2011 (see s. 2(b)); Pt. 2 Div. 3: 4 Sep 2012 (see s. 2(e))
-Revenue Laws Amendment Act (No. 2) 2012 Pt. 2 (other than s. 5, 6, 7, 12, 15, 18, 22 and 25 | 32 of 2012 | 8 Oct 2012 | 1 Jul 2008 (see s. 2(b))
+Revenue Laws Amendment Act (No. 2) 2012 Pt. 2 | 32 of 2012 | 8 Oct 2012 | Pt. 2 (other than s. 5-7, 12, 15, 18, 22 and 25: 1 Jul 2008 (see s. 2(b)); s. 5-7, 12, 15, 18, 22 and 25: 9 Oct 2012 (see s. 2(e))
 On the date as at which this complation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -190,7 +190,7 @@ dutiable value9, 231
 duties Act3
 duty3, 9, 148, 206, 228, 273(1)
 duty endorsed3, 272(1), (2) and (3)
-earlier acquisition189(4)
+earlier acquisition189(4), (6)
 earlier instrumentSch. 3 cl. 10(1)
 eligible rollover fund121
 eligible transaction147A(1), 147B
