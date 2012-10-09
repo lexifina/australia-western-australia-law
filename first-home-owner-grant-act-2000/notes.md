@@ -18,6 +18,7 @@ First Home Owner Grant Amendment Act 2009 | 27 of 2009 | 17 Nov 2009 | s. 3 and 
 Revenue Laws Amendment and Repeal Act 2010 Pt. 3 | 17 of 2010 | 25 Jun 2010 | 26 Jun 2010 (see s. 2(b))
 Reprint 2: The First Home Owner Grant Act 2000 as at 9 Jul 2010 (includes amendments listed above)
 Revenue Laws Amendment Act 2012 Pt. 3 | 29 of 2012 | 3 Sep 2012 | 4 Sep 2012 (see s. 2(e))
+Revenue Laws Amendment Act (No. 2) 2012 Pt. 3 | 32 of 2012 | 8 Oct 2012 | 9 Oct 2012 (see s. 2(e))
 The First Home Owner Grant Amendment Act 2001 s. 7 is a savings provision of no further effect.
 The First Home Owner Grant Amendment Act 2003 s. 10 is a savings provision of no further effect.
 The First Home Owner Grant Amendment Act 2004 Pt. 3 is a transitional provision of no further effect.
