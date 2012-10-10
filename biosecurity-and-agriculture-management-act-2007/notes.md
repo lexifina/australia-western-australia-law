@@ -2,16 +2,16 @@ Notes
 This is a compilation of the Biosecurity and Agriculture Management Act 2007 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management Act 2007 | 23 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; Pt. 1 (other than s. 1 and 2), Pt. 2 Div. 6, Pt. 7 Div. 1 and s. 181 and 187: 24 Oct 2007 (see s. 2 and Gazette 23 Oct 2007 p. 5643); s. 22, Pt. 4 and 5, Pt. 6 Div. 1 SubDiv 1, Div. 2 and 3, Pt. 7 Div. 2, 3 and 6, s. 182, Pt. 8 (other than s. 193) and Sch. 1: 22 May 2010 (see s. 2 and Gazette 21 May 2010 p. 2177); Pt. 6 Div. 1 Subdiv. 3 and Pt. 7 Div. 5: 12 Feb 2011 (see s. 2 and Gazette 11 Feb 2011 p. 479); Pt. 6 Div. 1 Subdiv. 2: 23 Nov 2011 (see s. 2 and Gazette 22 Nov 2011 p. 4843)
+Biosecurity and Agriculture Management Act 2007 | 23 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; Pt. 1 (other than s. 1 and 2), Pt. 2 Div. 6, Pt. 7 Div. 1 and s. 181 and 187: 24 Oct 2007 (see s. 2 and Gazette 23 Oct 2007 p. 5643); s. 22, Pt. 4 and 5, Pt. 6 Div. 1 SubDiv 1, Div. 2 and 3, Pt. 7 Div. 2, 3 and 6, s. 182, Pt. 8 (other than s. 193) and Sch. 1: 22 May 2010 (see s. 2 and Gazette 21 May 2010 p. 2177); Pt. 6 Div. 1 Subdiv. 3 and Pt. 7 Div. 5: 12 Feb 2011 (see s. 2 and Gazette 11 Feb 2011 p. 479); Pt. 6 Div. 1 Subdiv. 2: 23 Nov 2011 (see s. 2 and Gazette 22 Nov 2011 p. 4843); s. 27-32, 36-39, 43 and Pt. 2 Div. 5: 10 Oct 2012 (see s. 2 and Gazette 9 Oct 2012 p. 4747
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 5 | 35 of 2010 | 1 Oct 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Agriculture and Related Resources Protection Amendment Act 2010 s. 68 | 46 of 2010 | 28 Oct 2010 | 18 Dec 2010 (see s. 2(b) and Gazette 17 Dec 2010 p. 6349)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, Div. 3 (other than s. 22), Div. 4 and 5, Pt. 3, Pt. 7 Div. 4, s. 183-186, s. 193 and Pt. 9 | 23 of 2007 (as amended by No. 47 of 2011 s. 27) | 12 Oct 2007 | To be proclaimed (see s. 2)
+Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, s. 23-26, 33-35, 40-42 and 44., Pt. 3, Pt. 7 Div. 4, s. 183-186, s. 193 and Pt. 9 | 23 of 2007 (as amended by No. 47 of 2011 s. 27) | 12 Oct 2007 | 1 May 2013 (see s. 2 and Gazette 5 Feb 2013 p. 823)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 2 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, s. 23-42, Div. 4 and 5, Pt. 3, Pt. 7 Div. 4, s. 183-186, s. 193 and Pt. 9 have not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management Act 2007 Pt. 2 Div. 1 and 2, s. 23-26, 33-35, 40-42 and 44, Pt. 3, Pt. 7 Div. 4, s. 183-186, s. 193 and Pt. 9 have not come into operation. They read as follows:
 Part 2 — Biosecurity
 Division 1 — Permitted, prohibited and unlisted organisms
 11.Permitted organisms
@@ -146,61 +146,6 @@ Penalty:
 (e) must be made in accordance with the regulations (if any).
 (3) A veterinary surgeon, analyst or other person is not excused from compliance with subsection (1) on the grounds that he or she found or came to suspect the presence of the declared pest on or in the place, or found or came to suspect that the organism or thing was infected or infested, in the course of giving professional or other advice, or providing professional or other services, to the owner, occupier or other person in control of the place, organism or thing.
 (4) Subsection (3) has effect whether the advice was sought or given, or the services were provided, in relation to the place, organism or thing, or in relation to any other matter.
-27.Pest exclusion notice
-(1) If the Director General is of the opinion that, in an area for which an organism is a declared pest, measures are required to be taken to ensure that a place or an agricultural product remains free from the declared pest, the Director General may give a pest exclusion notice to any or all of the following persons —
-(a) in the case of a notice in respect of land — the owner or occupier of the land or a person who is conducting an activity on that land;
-(b) in the case of a notice in respect of another place — the owner, occupier or person who has control of the place;
-(c) in the case of a notice in respect of an agricultural product — the owner or person who has control of the agricultural product.
-(2) A pest exclusion notice —
-(a) must be in writing; and
-(b) must identify the declared pest in respect of which the notice is given; and
-(c) may direct the person to whom it is given to comply with a code of practice specified in the notice, or to take the measures set out in the notice or prescribed by the regulations specified in the notice, for the purpose of keeping the place or agricultural product free from the declared pest; and
-(d) must specify the period within which, or for the duration of which, the person to whom it is given must comply with the notice; and
-(e) must inform the person to whom it is given that failure to comply with the notice could result in a fine, the Director General taking remedial action under section 38, or both.
-28.SAT review: pest exclusion notice
-(1) Subject to the regulations referred to in subsection (2), a person aggrieved by a direction in a pest exclusion notice under section 27 may apply to the State Administrative Tribunal for a review of the direction.
-(2) The regulations may prescribe circumstances relating to a matter of emergency or urgent need in which subsection (1) does not apply.
-29.Compliance with pest exclusion notice
-A person to whom a pest exclusion notice is given must comply with the notice.
-Penalty: a fine of $20 000.
-30.Duty to control declared pest
-(1) In this section —
-prescribed control measures, in relation to a declared pest, means the measures to control that declared pest required under the regulations or a management plan.
-(2) The owner or other person in control, in an area for which an organism is a declared pest, of an organism or thing infected or infested with the declared pest must take the prescribed control measures to control the declared pest.
-Penalty: a fine of $20 000.
-(3) The owner or occupier of land in an area for which an organism is a declared pest or a person who is conducting an activity on the land must take the prescribed control measures to control the declared pest if it is present on the land, or has infected or infested an organism or thing on the land, or is likely to be present on the land or to infect or infest an organism or thing on the land.
-Penalty: a fine of $20 000.
-(4) Subsections (2) and (3) apply to a person in relation to a declared pest regardless of whether the person is also required to comply with a pest control notice or a pest exclusion notice in relation to the declared pest.
-(5) Where 2 or more persons are required to take prescribed control measures under subsection (2) or (3) in relation to the same organism or thing, it is a defence to a charge of an offence by any of them under subsection (2) or (3) to show that another person has complied with the requirement imposed on that person.
-(6) It is a defence to a charge of an offence by a person under subsection (2) or (3) if the person establishes that the person did not know, and could not reasonably have been expected to know, at the material time, that the declared pest was present on the land or was likely to be present or that an organism or thing was infected or infested or was likely to be infected or infested.
-31.Pest control notice
-(1) An inspector may give a pest control notice to any or all of the following persons —
-(a) an owner or occupier of land in an area for which an organism is a declared pest or a person who is conducting an activity on the land if —
-(i) the declared pest has been found on or in the vicinity of the land; or
-(ii) the keeping of the declared pest on the land is authorised under this Act; or
-(iii) there are reasonable grounds for suspecting that the declared pest is on or in the vicinity of the land;
-and
-(b) to any other person in respect of an area for which an organism is a declared pest if —
-(i) the declared pest has been found on or in the vicinity of a place or any other thing in that area owned or occupied by, or under the control, of that person; or
-(ii) the keeping of the declared pest on a place in that area owned or occupied by, or under the control, of that person is authorised under this Act; or
-(iii) there are reasonable grounds for suspecting that the declared pest is on or in the vicinity of a place or any other thing in that area owned or occupied by, or under the control of, that person.
-(2) A pest control notice —
-(a) must be in writing; and
-(b) must identify the declared pest in respect of which the notice is given, and indicate where the pest was found, is suspected to be, or is authorised under this Act to be kept; and
-(c) may direct the person to whom it is given to comply with a code of practice specified in the notice, or to take the measures set out in the notice or required under the regulations or a management plan specified in the notice, for the purpose of controlling the declared pest or, if the declared pest is authorised to be kept, for the purpose of keeping the declared pest as authorised under this Act; and
-(d) must specify the period within which, or for the duration of which, the person to whom it is given must comply with the notice; and
-(e) inform the person to whom it is given that failure to comply with the notice could result in a fine, the Director General taking remedial action under section 38, or both.
-(3) The Director General may give a copy of a pest control notice, for information —
-(a) to another person if —
-(i) that person is the owner or occupier of land that is in close proximity to the land, premises or thing in respect of which the pest control notice is given; and
-(ii) there are reasonable grounds for believing the person’s agricultural activities or land would be adversely affected if the declared pest were to infect or infest the person’s land or any plants or animals on the land, or the premises or any other thing owned or occupied by, or under the control or management of, the person;
-and
-(b) to a management committee established by regulations made under section 141(1)(b) if the Director General is of the opinion that the information is relevant to the functions of the management committee.
-32.Compliance with pest control notice
-A person to whom a pest control notice is given must comply with the notice.
-Penalty:
-(a)a fine of $50 000; or
-(b)if the declared pest is a high impact organism, a fine of $100 000 and imprisonment for 12 months.
 33.Apportionment of costs of controlling declared pests on land
 (1) As between the owner and occupier or successive owners and occupiers of land the costs of controlling declared pests on and in relation to the land in accordance with a pest control notice are, subject to any agreement between the owner or occupier or successive owners and occupiers, to be borne in such proportions —
 (a) as are prescribed; or
@@ -223,26 +168,6 @@ may apply to the State Administrative Tribunal for a review of the determination
 (c) specify the action the Director General requires to be taken to keep, breed, cultivate or supply the declared pest in accordance with section 25; and
 (d) specify the time within which the action must be taken; and
 (e) inform the person to whom the notice is given that failure to take the action could result in the Director General taking remedial action under section 38.
-36.Director General review: pest control notice or pest keeping notice
-(1) A person who has been given a pest control notice or pest keeping notice may, in writing, request the Director General to review it.
-(2) On receiving such a request the Director General may suspend the notice pending making a decision under subsection (3).
-(3) On receiving such a request the Director General may —
-(a) review the notice and amend, suspend, cancel or confirm it; or
-(b) refuse to review the notice.
-(4) If the Director General amends a pest control notice or a pest keeping notice it has effect accordingly.
-(5) The Director General must give the person who requested the review written advice of the decision on the review and the reasons for that decision.
-(6) Nothing in this section prejudices any right of review that a person might have under section 37 but, if a request for review has been made under this section, that right of review must not be exercised until a decision under subsection (3) has been made.
-37.SAT review: pest control notice or pest keeping notice
-(1) Subject to the regulations referred to in subsection (2) and to section 36(6), a person aggrieved by a decision of the Director General to give a pest control notice or a pest keeping notice or a decision of the Director General under section 36, may apply to the State Administrative Tribunal for a review of the decision.
-(2) The regulations may prescribe circumstances relating to a matter of emergency or urgent need in which subsection (1) does not apply.
-38.Remedial action by Director General
-If a person does not comply with a requirement of a pest exclusion notice, a pest control notice or a pest keeping notice, the Director General may —
-(a) take remedial action in accordance with section 94; and
-(b) recover the cost of taking remedial action from the person accordingly.
-39.Power to control pests
-(1) A person required under this Act to take measures to control a declared pest has full power to do all that is necessary to comply with the requirement.
-(2) A person who obstructs a person referred to in subsection (1) in the exercise of a power under that subsection commits an offence.
-Penalty: a fine of $5 000.
 40.Agreements to supply pest control materials
 (1) The Director General may enter into an agreement with a person to supply to that person materials, appliances or services for the control of declared pests.
 (2) An agreement may be discharged, extended or varied as agreed by the parties.
@@ -258,11 +183,6 @@ place does not include a dwelling as that term is defined in section 63.
 (4) The provisions of this section are in addition to and not in derogation of any other written law conferring power to control declared pests.
 (5) Nothing in this section limits or otherwise affects the application of this Act to and in relation to the control of declared pests if, and to the extent that, declared pests are not controlled under operational works carried out under this section.
 Division 4 — Urgent measures
-43.Director General may give directions for urgent measures to control declared pest
-(1) Where, in the opinion of the Director General, a measure or action must be carried out immediately to control a declared pest, the Director General may, in writing, direct an inspector to carry out that measure or action.
-(2) A direction referred to in subsection (1) must specify the measure or action to be carried out.
-(3) Despite any other provision of this Act or any other law, an inspector is authorised to carry out a measure or action in accordance with a direction under this section.
-(4) The Director General must give the Minister a copy of the direction and a written report on the measure or action carried out.
 44.Director General may approve alternative measure or requirement
 (1) If satisfied that a measure, action or requirement is appropriate, the Director General may grant temporary approval for an alternative measure or action to be carried out or requirement imposed from that prescribed by the regulations or in a management plan for the control of a declared pest.
 (2) An approval under subsection (1) must specify —
@@ -270,29 +190,6 @@ Division 4 — Urgent measures
 (b) the period, being not more than 6 months, during which the approval remains in force.
 (3) A measure or requirement approved under this section as an alternative from that prescribed by the regulations or in a management plan has the same effect as if it were prescribed under the regulations or a management plan.
 (4) The Director General must give the Minister a copy of the approval and a written report on the measure or action carried out or requirement imposed.
-Division 5 — Management plans
-45.Management plans
-(1) The Minister may, by instrument published in the Gazette, issue a plan for the management of an area to provide for the control of a declared pest in the area.
-(2) The area may be the whole or part of the State.
-(3) A management plan must —
-(a) identify the area to which the plan relates; and
-(b) set out the purposes of the plan; and
-(c) set out the practices to be followed under the plan; and
-(d) specify any obligations that are imposed on owners, occupiers or other persons for the purposes of the plan.
-(4) A management plan may create offences punishable by a fine not exceeding $20 000.
-(5) The Minister must not issue —
-(a) a management plan in relation to fish, or a declared pest in an aquatic environment, unless the plan is approved by the Fisheries Minister; or
-(b) a management plan in relation to a declared pest that is an animal native to Australia, other than a fish, unless the plan is approved by the CALM Act Minister.
-(6) If a provision of a management plan is inconsistent with a regulation, the regulation prevails to the extent of the inconsistency.
-46.Consultation with affected persons
-(1) Before issuing a management plan, the Minister must, as far as is appropriate and reasonably practicable to undertake, consult with the public authorities and any other persons which or who appear to the Minister to be likely to be —
-(a) required to take part in implementing the plan; or
-(b) put to expense in complying with the plan; or
-(c) affected, or interested, in a significant way by the operation of the plan.
-(2) Consultation may be undertaken in any way that the Minister thinks appropriate in the circumstances, having regard to the proposed management plan and the number of persons which or who are likely to be affected by its operation.
-47.Management plans are subject to disallowance
-(1) A management plan is subsidiary legislation for the purposes of the Interpretation Act 1984.
-(2) The Interpretation Act 1984 section 42 applies to and in relation to a management plan as if the plan were regulations made under this Act.
 Part 3 — Residues on land, chemical products and adulteration
 Division 1 — Residues on land
 52.Residue management notices
