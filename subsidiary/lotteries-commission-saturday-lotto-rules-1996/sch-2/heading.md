@@ -3,8 +3,8 @@
 [Heading inserted in Gazette 21 Dec 2010 p. 6765.]
 ## Part 1 — Prizes applicable up to and including draw 3079 on 22 January 2011
 [Heading inserted in Gazette 21 Dec 2010 p. 6765.]
- |  | NUMBER OF PRIZES
-WINNING NUMBERS | PRIZE TAKE DIVISIONS | SYSTEMS
+WINNING NUMBERS | NUMBER OF PRIZES
+ | PRIZE TAKE DIVISIONS SYSTEMS
  |  | 5 | 4 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20
 Six and two supplementaries
  | 1 | - | - | - | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
@@ -73,10 +73,11 @@ One and two supplementaries
  | 5 | - | 10 | - | - | - | - | - | - | - | - | - | - | - | - | - | -
 One and one supplementary
  | 5 | - | 10 | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+[Part 1, formerly Schedule 2, renumbered as Part 1 in Gazette 21 Dec 2010 p. 6765.]
 ## Part 2 — Prizes applicable to draw 3081 on 29 January 2011 and subsequent draws
 [Heading inserted in Gazette 21 Dec 2010 p. 6765.]
- |  | NUMBER OF PRIZES
-WINNING NUMBERS | PRIZE TAKE DIVISIONS | SYSTEMS
+WINNING NUMBERS | NUMBER OF PRIZES
+ | PRIZE TAKE DIVISIONS SYSTEMS
  |  | 5 | 4 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20
 Six and two supplementaries
  | 1 | - | - | - | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
