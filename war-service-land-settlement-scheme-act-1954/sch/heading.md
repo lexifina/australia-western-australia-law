@@ -1,12 +1,12 @@
 ## Schedule — Form of Crown grant
 [s. 8(3)(b) and 9(2)]
-[Heading inserted by No. 19 of 2010 s. 39.]
+[Heading inserted: No. 19 of 2010 s. 39.]
 Western Australia
 CROWN GRANT
 ELIZABETH THE SECOND, by the Grace of God Queen of Australia and Her other Realms and Territories Queen, Head of the Commonwealth, To all to whom these presents shall come, GREETING: Know Ye that We, of our especial Grace, certain knowledge, and mere motion and by virtue of the provisions of the War Service Land Settlement Scheme Act 1954, have given and granted, and We do by these presents for Us, our heirs and successors, Give and Grant unto ................... all mines of copper, tin, lead, coal, ironstone, phosphatic rock and other metals, ores or minerals whatsoever, except gold, silver, and precious metals, and all substances containing minerals or phosphates, except substances containing gold, silver, and precious metals, and all gems and precious stones and, subject to the Petroleum Act 1936, mineral oil in, upon and under all that tract or parcel of land situate and being in the District of ................. in Our said State containing .............more or less and marked and distinguished in the maps and books of the Department of Lands and Surveysof Our said State as ........................ and as the same is delineated and coloured in, ....................... in the plan drawn hereon with full liberty at all times to search, dig, mine, bore for and carry away the same, and for that purpose to enter upon the said land or any part thereof without paying compensation therefor: TO HAVE AND TO HOLD all and singular the premises hereby granted together with all appurtenances whatsoever thereunto belonging or in anywise appertaining for an estate in fee simple: YIELDING and paying for the same to Us, Our heirs and successors, one peppercorn of yearly rent on the twenty-fifth day of March in each year, or so soon thereafter as the same shall be lawfully demanded.
 IN WITNESS whereof, We have caused ............................................................. Governor in and over the State of Western Australia in the Commonwealth of Australia, to affix to these presents the Public Seal of the said State.
-SEALED this ............ day of .................... one thousand nine hundred and ......................
+SEALED this ............ day of .................... two thousand and ......................
 .....................................Governor.
 ...........................................
 Minister for Lands.
-[Schedule amended by No. 38 of 1947 s. 3; No. 19 of 2010 s. 39.]
+[Schedule amended: No. 38 of 1947 s. 3; No. 19 of 2010 s. 39.]
