@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Charges and Fees) Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 19 October 2012 of the Road Traffic (Charges and Fees) Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Charges and Fees) Regulations 2006 | 24 Nov 2006 p. 4843-85 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
@@ -21,7 +21,7 @@ Road Traffic (Charges and Fees) Amendment Regulations (No. 3) 2010 | 4 Jun 2010 
 Road Traffic (Charges and Fees) Amendment Regulations (No. 4) 2010 | 30 Jul 2010 p. 3502-5 | Pt. 1: 30 Jul 2010 (see r. 2(a)); Pt. 2: 1 Aug 2010 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations 2010 | 24 Sep 2010 p. 5023-4 | r. 1 and 2: 24 Sep 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Sep 2010 (see r. 2(b))
 Reprint 2: The Road Traffic (Charges and Fees) Regulations 2006 as at 1 Oct 2010 (includes amendments listed above)
-Road Traffic (Charges and Fees) Amendment Regulations 2011 | 11 Feb 2011 p. 502-7 | r. 1 and 2: 11 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Feb 2011 (see r. 2(b))
+Road Traffic (Charges and Fees) Amendment Regulations 2011 | 11 Feb 2011 p. 515-16 | r. 1 and 2: 11 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Feb 2011 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2011 | 20 May 2011 p. 1854-6 | r. 1 and 2: 20 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 May 2011 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 3) 2011 | 20 May 2011 p. 1857-60 | r. 1 and 2: 20 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 May 2011 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 4) 2011 | 21 Jun 2011 p. 2253 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
@@ -30,6 +30,7 @@ Road Traffic (Charges and Fees) Amendment Regulations 2012 | 14 Feb 2012 p. 673-
 Road Traffic (Charges and Fees) Amendment Regulations (No. 3) 2012 | 30 May 2012 p. 2243-9 | Pt. 1: 30 May 2012 (see r. 2(a)); Regulations other than Pt. 1 and 3: 31 May 2012 (see r. 2(c)); Pt. 3: 1 Jul 2012 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 4) 2012 | 30 May 2012 p. 2251-5 | r. 1 and 2: 30 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 31 May 2012 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 5) 2012 | 29 Jun 2012 p. 2964 | r. 1 and 2: 29 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+Reprint 3: The Road Traffic (Charges and Fees) Regulations 2006 as at 19 Oct 2012 (includes amendments listed above)
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2007 r. 3 reads as follows:
