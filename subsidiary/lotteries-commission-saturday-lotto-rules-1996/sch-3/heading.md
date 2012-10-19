@@ -23,6 +23,7 @@ Syndicate entries may be purchased (if available) | (see Part 2A)
 Systems entries per oral request | 1
 Prize payout period | 12 months
 Maximum aggregate entry cost | $100 000
+[Part 1, formerly Schedule 3, inserted in Gazette 6 Jun 2008 p. 2273-4; amended in Gazette 3 Oct 2008 p. 4499; renumbered as Part 1 in Gazette 21 Dec 2010 p. 6766.]
 ## Part 2 — Draw 3081 on 29 January 2011 and subsequent draws
 [Heading inserted in Gazette 21 Dec 2010 p. 6767.]
 Unit cost for a Saturday lotto draw | $0.60 (+ a 9% agent’s component)
@@ -47,4 +48,3 @@ Systems entries per oral request | 1
 Prize payout period | 12 months
 Maximum aggregate entry cost | $100 000
 [Part 2 inserted in Gazette 21 Dec 2010 p. 6767.]
-[Schedule 3 inserted in Gazette 6 Jun 2008 p. 2273-4; amended in Gazette 3 Oct 2008 p. 4499; 21 Dec 2010 p. 6766-7.]

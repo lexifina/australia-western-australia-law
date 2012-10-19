@@ -34,6 +34,7 @@ Rounded using “bankers rounding”=$1.25
 Total cost of entry for one week=$15.00
 Total cost of entry for 10 weeks=$150.00
 * Rounding is calculated using the method known as “bankers rounding” or “round-to-even” rounding.
+[Part 1, formerly Schedule 1, inserted in Gazette 3 Oct 2008 p. 4498-9; renumbered as Part 1 in Gazette 21 Dec 2010 p. 6764.]
 ## Part 2 — Formula applicable to draw 3081 on 29 January 2011 and subsequent draws
 [Heading inserted in Gazette 21 Dec 2010 p. 6764.]
 The unit cost of entering a Saturday lotto draw is made up of a subscription of 60 cents per game and an agent’s component.
@@ -69,4 +70,3 @@ Total cost of entry for one week=$16.35
 Total cost of entry for 10 weeks=$163.50
 * Rounding is calculated using the method known as “bankers rounding” or “round-to-even” rounding.
 [Part 2 inserted in Gazette 21 Dec 2010 p. 6764-5.]
-[Schedule 1 inserted in Gazette 3 Oct 2008 p. 4498-9; amended in Gazette 21 Dec 2010 p. 6764-5.]
