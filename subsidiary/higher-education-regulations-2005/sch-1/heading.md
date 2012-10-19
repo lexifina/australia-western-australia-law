@@ -5,9 +5,9 @@
 2.The applicant’s registered business name (if any).
 3.The applicant’s postal address.
 4.If the applicant is a company —
-(a) the name, address, position in the company, and telephone numbers, of the individual dealing with the application on behalf of the applicant;
-(b) the applicant’s ACN;
-(c) the address of the applicant’s registered office;
+(a) the name, address, position in the company, and telephone numbers, of the individual dealing with the application on behalf of the applicant; and
+(b) the applicant’s ACN; and
+(c) the address of the applicant’s registered office; and
 (d) the name and address of the applicant’s company secretary; and
 (e) the name and address of each director of the applicant.
 5.If the applicant is an overseas university —
@@ -37,5 +37,5 @@
 21.A detailed description of the buildings, equipment and facilities that will be provided at each campus of the applicant in Western Australia.
 22.A statement of the applicant’s policies and procedures for dealing with any grievances of academic staff or students.
 23A.Any other information in the possession or control of the applicant that is likely to be relevant to a higher education advisory committee appointed to make a report under section 7(1) of the Act.
-23.Any other information in the possession or control of the applicant that is relevant to determining whether or not the applicant meets the criteria referred to in section 10(1), 13B(1)or 14(1) of the Act, as the case requires.
+23.Any other information in the possession or control of the applicant that is relevant to determining whether or not the applicant meets the criteria referred to in section 10(1), 13B(1) or 14(1) of the Act, as the case requires.
 [Schedule 1 amended in Gazette 8 Jun 2010 p. 2610-11.]
