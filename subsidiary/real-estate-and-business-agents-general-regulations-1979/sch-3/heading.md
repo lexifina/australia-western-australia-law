@@ -17,6 +17,8 @@ s. 41(2)(b) | Failing to display official details on all correspondence and docu
 s. 51(1) | Failing to notify Commissioner of commencing or ceasing employment, or to act, as a sales representative | $400
 s. 70(1) | Failing to cause audit of trust account | $600
 s. 70(3) | Failing to deliver audit report to the Commissioner | $600
+s. 70(8) | Failing to deliver a termination audit report | $600
+s. 86 | Failing to lodge a statutory declaration in relation to the audit of trust accounts | $200
 Offence under Real Estate and Business Agents (General) Regulations 1979 | Modified Penalty
 r. 8 | Failing to notify Commissioner of change in particulars | $20
-[Schedule 3 inserted in Gazette 28 Aug 2009 p. 3351-2; amended in Gazette 30 Jun 2011 p. 2670.]
+[Schedule 3 inserted in Gazette 28 Aug 2009 p. 3351-2; amended in Gazette 30 Jun 2011 p. 2670; 23 Oct 2012 p. 5055.]
