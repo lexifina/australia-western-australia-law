@@ -3,13 +3,16 @@
 [Heading amended by No. 19 of 2010 s. 4.]
  | Item | Prohibited drug | Amount (in grams unless otherwise stated)
  | 1. | AMPHETAMINE | 28.0
+ | 2AA. | BENZOYLINDOLES (not specifically included elsewhere in this Schedule) | 3.0 kg
  | 2A. | BENZYLPIPERAZINE (BZP) | 28.0
  | 2B. | 1-BUTYL-3-(1-NAPHTHOYL)INDOLE (JWH – 073) | 3.0 kg
  | 2. | CANNABIS | 3.0 kg
  | 3. | CANNABIS RESIN | 100.0
  | 4. | COCAINE | 28.0
 4A. | 1-CYCLOHEXYLETHYL-3-(2- METHOXYPHENYLACETYL)INDOLE (RCS-8) | 3.0 kg
+4B. | CYCLOHEXYLPHENOLS (not specifically included elsewhere in this Schedule) | 3.0 kg
  | 5. | DIACETYLMORPHINE | 28.0
+ | 5AAA. | DIBENZOPYRANS (not specifically included elsewhere in this Schedule) | 3.0 kg
  | 5AA. | DIMETHYLAMPHETAMINE | 28.0
  | 5AB. | 5-(1,1-DIMETHYLHEPTYL)-2-[(1R,3S) -3-HYDROXYCYCLOHEXYL]-PHENOL (CP 47,497) | 3.0 kg
  | 5AC. | 5-(1,1-DIMETHYLOCTYL)-2-[(1R,3S) -3-HYDROXYCYCLOHEXYL]-PHENOL (CANNABICYCLOHEXANOL or CP 47,497 C8 HOMOLOGUE) | 3.0 kg
@@ -31,6 +34,10 @@
  | 11A. | 3, 4-METHYLENEDIOXYPYROVALERONE (MDPV) | 28.0
  | 11. | MORPHINE | 28.0
  | 12A. | 1-[2-(4-MORPHOLINYL)ETHYL] -3-(1-NAPHTHOYL)INDOLE (JWH – 200) | 3.0 kg
+ | 12B, | NAPHTHOYLINDOLES (not specifically included elsewhere in this Schedule) | 3.0 kg
+ | 12C. | NAPHTHYLMETHYLINDOLES | 3.0 kg
+ | 12D. | NAPHTHOYLPYRROLES | 3.0 kg
+ | 12E. | NAPHTHYLMETHYLINDENES | 3.0 kg
  | 12. | OPIUM | 100.0
  | 13A. | 1-PENTYL-3-(4-CHLORO-1- NAPHTHOYL)INDOLE (JWH-398) | 3.0 kg
  | 13B. | 1-PENTYL-3-(2- CHLOROPHENYLACETYL)INDOLE (JWH-203) | 3.0 kg
@@ -39,6 +46,7 @@
  | 13E. | 1-PENTYL-3-(4-METHOXY-1- NAPHTHOYL)INDOLE (JWH-081) | 3.0 kg
  | 13. | 1-PENTYL-3-(1-NAPHTHOYL)INDOLE (JWH – 018) | 3.0 kg
  | 14. | 1-PENTYL-3-(4-METHYL-1-NAPHTHOYL) INDOLE (JWH – 122) | 3.0 kg
+ | 15A. | PHENYLACETYLINDOLES (not specifically included elsewhere in this Schedule) | 3.0 kg
  | 15. | PRAVADOLINE (WIN 48098) | 3.0 kg
  | 16. | 1-PROPYL-2-METHYL-3-(1- NAPHTHOYL)INDOLE (JWH-015) | 3.0 kg
-[Schedule VII inserted by No. 50 of 1990 s. 6; amended in Gazette 29 Nov 1991 p. 6041; 22 Mar 1994 p. 1245; 29 Apr 2011 p. 1533-4; 1 Jul 2011 p. 2744-5; 11 Oct 2011 p. 4319-20; 13 Apr 2012 p. 1665.]
+[Schedule VII inserted by No. 50 of 1990 s. 6; amended in Gazette 29 Nov 1991 p. 6041; 22 Mar 1994 p. 1245; 29 Apr 2011 p. 1533-4; 1 Jul 2011 p. 2744-5; 11 Oct 2011 p. 4319-20; 13 Apr 2012 p. 1665; 30 Oct 2012 p. 5196.]

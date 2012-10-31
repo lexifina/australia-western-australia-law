@@ -20,6 +20,7 @@
  | 16. | BENZETHIDINE | 10.0
  | 17. | BENZYLMORPHINE | 5.0
  | 18A. | BENZYLPIPERAZINE (BZP) | 2.0
+ | 18B. | BENZOYLINDOLES (not specifically included elsewhere in this Schedule) | 100.0
  | 18. | BETACETYLMETHADOL | 5.0
  | 19. | BETAMEPRODINE | 5.0
  | 20. | BETAMETHADOL | 5.0
@@ -38,11 +39,13 @@
  | 32. | CODOXINE | 10.0
  | 33. | CYCLOBARBITONE | 10.0
 34A. | 1-CYCLOHEXYLETHYL-3-(2- METHOXYPHENYLACETYL)INDOLE (RCS-8) | 100.0
+34B. | CYCLOHEXYLPHENOLS (not specifically included elsewhere in this Schedule) | 100.0
  | 34. | DESOMORPHINE | 2.0
  | 35. | DEXAMPHETAMINE | 2.0
  | 36. | DEXTROMORAMIDE | 1.0
  | 37. | DIACETYLMORPHINE | 2.0
  | 38. | DIAMPROMIDE | 5.0
+ | 39A. | DIBENZOPYRANS (not specifically included elsewhere in this Schedule) | 100.0
  | 39. | DIETHYLTHIAMBUTENE | 5.0
  | 40. | DIFENOXIN (excluding preparations containing, per dosage unit, not more than 0.5 mg of difenoxin and a quantity of atropine sulphate equivalent to at least 5% of the dose of difenoxin) | 10.0
  | 41. | DIHYDROCODEINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 10.0
@@ -118,6 +121,10 @@
  | 95. | MORPHINE SUBSTITUTES (not specifically included elsewhere in this Schedule) | 2.0
  | 96A. | 1-[2-(4-MORPHOLINYL)ETHYL] -3-(1-NAPHTHOYL)INDOLE (JWH – 200) | 100.0
  | 96. | MYROPHINE | 20.0
+ | 97A. | NAPHTHOYLINDOLES (not specifically included elsewhere in this Schedule) | 100.0
+ | 97B. | NAPHTHYLMETHYLINDOLES | 100.0
+ | 97C. | NAPHTHOYLPYRROLES | 100.0
+ | 97D. | NAPHTHYLMETHYLINDENES | 100.0
  | 97. | NEALBARBITONE | 10.0
  | 98. | NICOCODINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 2.0
  | 99. | NICODICODINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 2.0
@@ -152,6 +159,7 @@
  | 121. | PHENOBARBITONE | 10.0
  | 122. | PHENOMORPHAN | 5.0
  | 123. | PHENOPERIDINE | 1.0
+ | 124A. | PHENYLACETYLINDOLES (not specifically included elsewhere in this Schedule) | 100.0
  | 124. | PHENYLMETHYLBARBITURIC ACID | 10.0
  | 125. | PHOLCODINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 5.0
  | 126. | PIMINODINE | 10.0
@@ -175,4 +183,4 @@
  | 142. | THEBAINE | 10.0
  | 143. | TRIMEPERIDINE | 10.0
  | 144. | VINBARBITONE | 10.0
-[Schedule V amended by No. 48 of 1995 s. 43; amended in Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041; 29 Apr 2011 p. 1533; 1 Jul 2011 p. 2743-4; 11 Oct 2011 p. 4318-19; 13 Apr 2012 p. 1665.]
+[Schedule V amended by No. 48 of 1995 s. 43; amended in Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041; 29 Apr 2011 p. 1533; 1 Jul 2011 p. 2743-4; 11 Oct 2011 p. 4318-19; 13 Apr 2012 p. 1665; 30 Oct 2012 p. 5195.]

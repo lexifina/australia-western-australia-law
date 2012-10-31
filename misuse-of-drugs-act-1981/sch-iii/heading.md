@@ -18,6 +18,7 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 14. | APROBARBITONE | 30.0
 15. | BARBITONE | 30.0
 16. | BENZETHIDINE | 30.0
+17A. | BENZOYLINDOLES (not specifically included elsewhere in this Schedule) | 500.0
 17. | BENZYLMORPHINE | 15.0
 18A. | BENZYLPIPERAZINE (BZP) | 4.0
 18. | BETACETYLMETHADOL | 15.0
@@ -38,10 +39,12 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 32. | CODOXIME | 30.0
 33. | CYCLOBARBITONE | 30.0
 34A. | 1-CYCLOHEXYLETHYL-3-(2- METHOXYPHENYLACETYL)INDOLE (RCS-8) | 500.0
+34B. | CYCLOHEXYLPHENOLS (not specifically included elsewhere in this Schedule) | 500.0
 34. | DESOMORPHINE | 6.0
 35. | DEXAMPHETAMINE | 6.0
 36. | DEXTROMORAMIDE | 3.0
 37. | DIAMPROMIDE | 15.0
+38A. | DIBENZOPYRANS (not specifically included elsewhere in this Schedule) | 500.0
 38. | DIETHYLTHIAMBUTENE | 15.0
 39. | DIFENOXIN (excluding preparations containing, per dosage unit, not more than 0.5 mg of difenoxin and a quantity of atropine sulphate equivalent to at least 5% of the dose of difenoxin) | 30.0
 40. | DIHYDROCODEINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 30.0
@@ -116,6 +119,10 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 93. | MORPHINE SUBSTITUTES (not specifically included elsewhere in this Schedule) | 6.0
 94A. | 1-[2-(4-MORPHOLINYL)ETHYL] -3-(1-NAPHTHOYL)INDOLE (JWH – 200) | 500.0
 94. | MYROPHINE | 60.0
+95A. | NAPHTHOYLINDOLES (not specifically included elsewhere in this Schedule) | 500.0
+95B. | NAPHTHYLMETHYLINDOLES | 500.0
+95C. | NAPHTHOYLPYRROLES | 500.0
+95D. | NAPHTHYLMETHYLINDENES | 500.0
 95. | NEALBARBITONE | 30.0
 96. | NICOCODINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 6.0
 97. | NICODICODINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 6.0
@@ -150,6 +157,7 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 119. | PHENOBARBITONE | 30.0
 120. | PHENOMORPHAN | 15.0
 121. | PHENOPERIDINE | 3.0
+122A. | PHENYLACETYLINDOLES (not specifically included elsewhere in this Schedule) | 500.0
 122. | PHENYLMETHYLBARBITURIC ACID | 30.0
 123. | PHOLCODINE (except when included in Schedule 2 or 4 in Appendix A to the Poisons Act 1964) | 15.0
 124. | PIMINODINE | 30.0
@@ -173,4 +181,4 @@ Item | Prohibited drug | Amount (in grams unless otherwise stated)
 140. | THEBAINE | 6.0
 141. | TRIMEPERIDINE | 30.0
 142. | VINBARBITONE | 30.0
-[Schedule III amended by No. 48 of 1995 s. 43; amended in Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041; 7 Dec 2007 p. 5985; 29 Apr 2011 p. 1533; 1 Jul 2011 p. 2743; 11 Oct 2011 p. 4316-18; 13 Apr 2012 p. 1665.]
+[Schedule III amended by No. 48 of 1995 s. 43; amended in Gazette 30 Nov 1990 p. 5937; 29 Nov 1991 p. 6041; 7 Dec 2007 p. 5985; 29 Apr 2011 p. 1533; 1 Jul 2011 p. 2743; 11 Oct 2011 p. 4316-18; 13 Apr 2012 p. 1665; 30 Oct 2012 p. 5194-5.]
