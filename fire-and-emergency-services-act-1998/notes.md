@@ -15,10 +15,11 @@ Petroleum Amendment Act 2007 s. 93 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see
 Reprint 2: The Fire and Emergency Services Authority of Western Australia Act 1998 as at 14 Mar 2008 (includes amendments as listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 57 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Fire and Emergency Services Legislation Amendment Act 2012 s. 39 | 22 of 2012 | 29 Aug 2012 | 31 Oct 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Fire and Emergency Services Legislation Amendment Act 2012 Pt. 2 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 2 (other than s. 39) | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Repealed by the Mining Act 1978.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 49 reads as follows:
@@ -28,7 +29,7 @@ The State Administrative Tribunal Regulations 2004 r. 49 reads as follows:
 commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 47 comes into operation.
 (2) If the Minister receives, before the commencement day, a written notice in accordance with the Fire and Emergency Services Authority of Western Australia Act 1998 section 36ZF (as in force when the notice was received by the Minister) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Minister must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the determination under the Fire and Emergency Services Authority of Western Australia Act 1998 section 36G(5) of the purpose for which the land is used.
 ”.
-On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 2 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 2 (other than s. 39) had not come into operation. It reads as follows:
 Part 2 — Fire and Emergency Services Authority of Western Australia Act 1998 amended
 3.Act amended
 This Part amends the Fire and Emergency Services Authority of Western Australia Act 1998.
@@ -329,178 +330,6 @@ the Fire and Emergency Services Legislation Amendment Act 2012 section 37.
 (a) whether there is a need for the emergency services Acts to continue; and
 38.Section 42 deleted
 Delete section 42.
-39.Part 8 inserted
-Before Schedule 1 insert:
-Part 8 — Savings and transitional provisions relating to the Fire and Emergency Services Legislation Amendment Act 2012
-Division 1 — Interpretation
-42.Terms used
-In this Part —
-amended Act means this Act as amended by the Fire and Emergency Services Legislation Amendment Act 2012 Part 2;
-amended Bush Fires Act means the Bush Fires Act 1954 as amended by the Fire and Emergency Services Legislation Amendment Act 2012 Part 3;
-amended Fire Brigades Act means the Fire Brigades Act 1942 as amended by the Fire and Emergency Services Legislation Amendment Act 2012 Part 4;
-amended Superannuation Act means the Fire and Emergency Services Superannuation Act 1985 as amended by the Fire and Emergency Services Legislation Amendment Act 2012 Part 5;
-assets means any legal or equitable estate or interest (whether present or future, whether vested or contingent and whether personal or assignable) in real or personal property of any description and includes money, securities, choses in action and documents;
-Authority means the Fire and Emergency Services Authority of Western Australia established by section 4 of the former Act;
-board of management means the board of management referred to in section 6 of the former Act;
-consultative committees means the committees appointed under section 22 of the former Act;
-former Act means this Act as in force before the transfer time;
-former Bush Fires Act means the Bush Fires Act 1954 as in force before the transfer time;
-former Fire Brigades Act means the Fire Brigades Act 1942 as in force before the transfer time;
-former Superannuation Act means the Fire and Emergency Services Superannuation Act 1985 as in force before the transfer time;
-liability means any liability, duty or obligation whether actual, contingent or prospective, liquidated or unliquidated, or whether owed alone or jointly or jointly and severally with any other person;
-relevant successor means —
-(a)the Minister, in relation to the Authority and a function of the Authority that, at the transfer time, becomes a function of the Minister; and
-(b)the FES Commissioner, in relation to the Authority and a function of the Authority that, at the transfer time, becomes a function of the FES Commissioner; and
-(c)the State, in relation to assets and liabilities transferred to the State by section 45; and
-(d)the FES Ministerial Body, in relation to assets and liabilities transferred to the FES Ministerial Body by section 45;
-right means any right, power, privilege or immunity whether actual, prospective or contingent;
-statutory transition means the transition from the provisions of the former Act, former Bush Fires Act and former Fire Brigades Act to the provisions of the amended Act, amended Bush Fires Act and amended Fire Brigades Act, including the transition from the Authority to a relevant successor;
-transfer order means an order under section 44;
-transfer time means the time when the Fire and Emergency Services Legislation Amendment Act 2012 section 7 comes into operation.
-Division 2 — Transfer of Authority’s assets, liabilities, etc.
-43.Authority abolished
-At the transfer time the Authority is abolished and the members of the board of management go out of office.
-44.Minister may make transfer orders
-(1) To facilitate the statutory transition, the Minister may make and publish in the Gazette an order that —
-(a) specifies any assets and liabilities of the Authority that are to be assigned to the FES Ministerial Body by the operation of section 45; and
-(b) specifies proceedings in which the FES Ministerial Body is to be substituted for the Authority as a party by the operation of section 45; and
-(c) specifies any agreement or instrument that, by the operation of section 45, is to have effect as if references to the State or the FES Ministerial Body were substituted, in accordance with the order, for references in the agreement or instrument to the Authority.
-(2) A transfer order may also deal with incidental or supplementary matters and has effect accordingly.
-(3) The transfer order may specify things by reference to schedules that —
-(a) need not be published in the Gazette; but
-(b) must be available for public inspection,
-and anything specified in a schedule is to be taken to be specified in the order.
-(4) A thing may be specified in a transfer order by describing the class to which it belongs.
-(5) Before a transfer order is made specifying anything by reference to a schedule, a copy of which will be required to be delivered to a relevant official under section 49(3), the Minister is to consult with the, or each, relevant official as to the form and content of the schedule.
-(6) To the extent to which a schedule to a transfer order relates to the functions of the Registrar of Titles, the schedule is to be in a form that meets the requirements of the Registrar.
-(7) A thing done by, under or for the purposes of this Part is not invalid merely because subsection (5) or (6) was not complied with.
-(8) A transfer order can only be made before the transfer time.
-(9) The fact that a previous transfer order has been made does not prevent a further transfer order from being made.
-(10) A transfer order, or a schedule to which it refers, may be amended by the Minister, by further order published in the Gazette, but no such amendment may be made after the transfer time.
-45.Transfer of assets and liabilities
-(1) If a transfer order is made, then —
-(a) at the transfer time —
-(i) the assets of the Authority specified in the transfer order are, by the operation of this section, assigned to the FES Ministerial Body; and
-(ii) the rest of the assets of the Authority are, by the operation of this section, assigned to the State;
-and
-(b) at the transfer time —
-(i) the liabilities of the Authority specified in the transfer order are, by the operation of this section, assigned to and become the liabilities of the FES Ministerial Body; and
-(ii) the rest of the liabilities of the Authority are, by the operation of this section, assigned to and become the liabilities of the State;
-and
-(c) at the transfer time, the FES Ministerial Body is substituted for the Authority as a party to any proceedings specified in the transfer order, and the State is substituted for the Authority as a party to all other proceedings in which the Authority was a party immediately before the transfer time; and
-(d) any agreement or instrument specified in the order has effect, by the operation of this section, as if references to the State or the FES Ministerial Body were, at the transfer time, substituted, in accordance with the order, for references in it to the Authority; and
-(e) any proceedings or remedy that might have been commenced by, or available against or to, the Authority in relation to the assets and liabilities assigned by paragraphs (a) and (b) may be commenced by, or are available against or to —
-(i) the FES Ministerial Body, in the case of assets and liabilities assigned by paragraphs (a)(i) and (b)(i); and
-(ii) the State, in the case of assets and liabilities assigned by paragraphs (a)(ii) and (b)(ii);
-and
-(f) anything done or omitted to be done in relation to the assets and liabilities assigned by paragraphs (a) and (b) before the assignment, by, to or in respect of the Authority (to the extent that that thing has any effect) is to be taken to have been done or omitted by, to or in respect of —
-(i) the FES Ministerial Body, in the case of assets and liabilities assigned by paragraphs (a)(i) and (b)(i); and
-(ii) the State, in the case of assets and liabilities assigned by paragraphs (a)(ii) and (b)(ii).
-(2) As soon as is practicable after the transfer time, all records and data of the Authority are to be delivered to the FES Commissioner.
-46.Fire and Emergency Services Authority Account
-(1) In this section —
-former account means the Fire and Emergency Services Authority Account referred to in section 30 of the former Act.
-(2) At the transfer time, any moneys standing to the credit of the former account are to be credited to an operating account of the Department, and the former account is then to be closed.
-(3) Moneys referred to in subsection (2) may be applied —
-(a) in the payment of any liabilities of the former account arising before the transfer time; and
-(b) for the purposes of the emergency services Acts.
-(4) The operating account referred to in subsection (2) is to be credited with any money payable to the former account before the transfer time that is paid after that time.
-(5) If in an agreement, instrument or other document there is a reference to the former account, that reference is, unless the context otherwise requires, to be read or to have effect from the transfer time as if it were a reference to the operating account referred to in subsection (2).
-47.Reserve funds
-At the transfer time, any moneys in a reserve fund established under section 35A of the former Act are to be credited to an operating account of the Department.
-48.Authority to complete necessary transactions
-(1) If an asset or liability of the Authority cannot be properly assigned to the State or the FES Ministerial Body by the operation of this Division (whether because the matter is governed otherwise than by the law of the State or for any other reason) —
-(a) the Authority is to be taken to continue to hold that asset or be liable for that liability until it is effectively assigned to the State or the FES Ministerial Body in accordance with this Division; and
-(b) the Authority is to take all practicable steps for the purpose of ensuring that the asset or liability is effectively assigned to the State or the FES Ministerial Body in accordance with this Division.
-(2) The fact that subsection (1)(a) applies to an asset or liability that is to be assigned to the State or the FES Ministerial Body under this Division does not affect the duty of the accountable authority of the Department under the Financial Management Act 2006.
-(3) Despite section 43, the Authority continues in existence for the purpose of performing the functions described in subsection (1).
-(4) The Authority is to perform those functions through a person appointed by the Minister.
-(5) The person holds office at the pleasure of the Minister and on such terms and conditions as the Minister determines.
-(6) The Authority as continued by this section has the powers that are necessary or convenient for the purposes of this section.
-49.Registration of documents
-(1) In this section —
-relevant official means —
-(a)the Registrar of Titles; or
-(b)the Registrar of Deeds and Transfers; or
-(c)any other person authorised by a written law to record and give effect to the registration of documents relating to property transactions,
-according to which, if any, of them has responsibility for a register relating to the relevant property;
-relevant property means property of a kind affected by this Part, whether it is an estate or interest in land or other property.
-(2) The relevant officials are to take notice of this Part and any transfer order, including a schedule to which the order refers, and are to record and register in the appropriate manner the documents necessary to show the effect of this Part and the transfer order.
-(3) The Minister is to cause a copy of each transfer order and any schedule to which it refers to be delivered to each relevant official.
-50.Exemption from State tax
-(1) In this section —
-State tax includes duty chargeable under the Duties Act 2008 and any other tax, duty, fee, levy or charge, under a law of the State.
-(2) State tax is not payable in relation to —
-(a) anything that occurs by the operation of this Part; or
-(b) anything done (including a transaction entered into or an instrument or document of any kind made, executed, lodged or given) under this Part, or to give effect to this Part, or for a purpose connected with or arising out of giving effect to this Part.
-(3) The Minister may certify in writing that —
-(a) a specified thing occurred by the operation of this Part; or
-(b) a specified thing was done under this Part, or to give effect to this Part, or for a purpose connected with or arising out of giving effect to this Part.
-(4) For all purposes and in all proceedings, a certificate under subsection (3) is sufficient evidence of the matters it certifies, except so far as the contrary is shown.
-51.Rectifying error in transfer order
-(1) The Minister may, by order published in the Gazette, make any provision that is necessary to correct any error in a transfer order or a schedule to which a transfer order refers.
-(2) An order under this section may be made so as to have effect from the transfer time.
-(3) To the extent that a provision of an order under this section has effect before the day of its publication in the Gazette, section 45 does not, as a result of that provision, operate so as —
-(a) to affect, in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication; or
-(b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication.
-Division 3 — Chief executive officer and certain other persons
-52.Chief executive officer of Authority becomes FES Commissioner
-(1) The person holding office as the chief executive officer of the Authority in accordance with section 19 of the former Act immediately before the transfer time is to be taken to have been appointed as the FES Commissioner on the same terms and conditions.
-(2) Except as otherwise agreed by the person, the operation of subsection (1) does not —
-(a) affect the person’s pay, as that term is defined in the Public Sector Management (Redeployment and Redundancy) Regulations 1994 regulation 3(1); or
-(b) affect the person’s existing or accruing rights in respect of annual leave, long service leave, sick leave or any other leave; or
-(c) affect any rights under a superannuation scheme; or
-(d) interrupt the continuity of the person’s service.
-(3) For the purposes of subsection (2)(d), the person’s service with the Authority is to be taken to have been with the Department.
-53.Bush fire liaison officers and Chief Bush Fire Control Officers
-(1) The appointment of a person as a bush fire liaison officer in accordance with section 12 of the former Bush Fires Act that has effect immediately before the transfer time continues to have effect as the designation of the person as a bush fire liaison officer under section 12 of the amended Bush Fires Act.
-(2) The appointment of a person by the Authority as the Chief Bush Fire Control Officer for the district of a local government under section 38A of the former Bush Fires Act that has effect immediately before the transfer time continues to have effect as the designation of the person by the FES Commissioner as the Chief Bush Fire Control Officer for that district under section 38A of the amended Bush Fires Act.
-54.Certain members of Fire and Emergency Services Superannuation Board
-The appointment of a person by the Authority as a member or alternate member of the Fire and Emergency Services Superannuation Board under the former Superannuation Act section 4(4)(a) or (5) that has effect immediately before the transfer time continues to have effect as the appointment of the person by the FES Commissioner as a member or alternate member of that Board under that provision of the amended Superannuation Act.
-Division 4 — Consultative committees
-55.Members of consultative committees
-At the transfer time the members of the consultative committees go out of office.
-56.Records of consultative committees
-As soon as is practicable after the transfer time all records and data of the consultative committees are to be delivered to the FES Commissioner.
-Division 5 — Continuing effect of things done
-57.Completion of things commenced
-Anything commenced to be done by the Authority before the transfer time may be continued by the relevant successor so far as the doing of that thing is within the functions of the relevant successor.
-58.Continuing effect of things done
-Anything done or omitted to be done before the transfer time by, to or in respect of the Authority, to the extent that it —
-(a) has any force or significance; and
-(b) is not governed by another provision of this Part,
-is to be taken to have been done or omitted by, to or in respect of the relevant successor.
-59.Agreements and instruments generally
-Any agreement or instrument subsisting immediately before the transfer time —
-(a) to which the Authority was a party; or
-(b) which contains a reference to the Authority,
-has effect on and after transfer time, to the extent to which the agreement or instrument relates to the functions of a relevant successor, as if —
-(c) the relevant successor were substituted for the Authority as a party to the agreement or instrument; and
-(d) any reference in the agreement or instrument to the Authority were, unless the context otherwise requires, amended to be or include a reference to the relevant successor.
-Division 6 — Other transitional provisions
-60.Continuing duty of confidentiality
-Despite the amendment of section 39 by the Fire and Emergency Services Legislation Amendment Act 2012 section 36, section 39 continues to apply to a person who has been a member of the Authority, a member of a consultative committee or a member of staff (as defined in section 3 of the former Act).
-61.Investments
-(1) Despite the deletion of Part 6 of the former Act by the Fire and Emergency Services Legislation Amendment Act 2012 section 25, the investment of any funds of the Authority that is authorised under section 31 of the former Act immediately before the transfer time continues to be authorised as if that section had not been deleted.
-(2) Any funds referred to in subsection (1) that cease to be invested as described in that subsection are to be credited to an operating account of the Department.
-62.Transitional regulations
-(1) In this section —
-specified means specified or described in the regulations;
-transitional matter means a matter that needs to be dealt with for the purpose of effecting the statutory transition.
-(2) If there is no sufficient provision in this Part or in a transfer order for dealing with a transitional matter, regulations made under this Act may prescribe all matters that are necessary or convenient to be prescribed for dealing with the matter.
-(3) Regulations referred to in subsection (2) may provide that a specified provision of this Act does not apply, or applies with specified modifications, to or in relation to any matter.
-(4) If regulations referred to in subsection (2) provide that a specified state of affairs is to be taken to have existed, or not to have existed, on and from a day that is earlier than the day on which the regulations are published in the Gazette but not earlier than the commencement of the relevant provision of the Fire and Emergency Services Legislation Amendment Act 2012, the regulations have effect according to their terms.
-(5) If regulations contain a provision referred to in subsection (4), the provision does not operate so as —
-(a) to affect, in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the regulations were published in the Gazette; or
-(b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the regulations were published in the Gazette.
-(6) Regulations cannot be made for the purposes of this section after the end of 24 months after the day on which the Fire and Emergency Services Legislation Amendment Act 2012 receives the Royal Assent.
-63.Saving
-The operation of any provision of this Part is not to be regarded —
-(a) as a breach of contract or confidence or otherwise as a civil wrong; or
-(b) as a breach of any contractual provision prohibiting, restricting or regulating the assignment or transfer of assets, rights or liabilities or the disclosure of information; or
-(c) as giving rise to any remedy by a party to an instrument or as causing or permitting the termination of any instrument, because of a change in the beneficial or legal ownership of any asset, right or liability; or
-(d) as causing any contract or instrument to be void or otherwise unenforceable; or
-(e) as releasing or allowing the release of any surety.
 40.Schedule 1 deleted
 Delete Schedule 1.
 41.Schedule 1A amended
