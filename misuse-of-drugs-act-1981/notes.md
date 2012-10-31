@@ -47,6 +47,7 @@ Misuse of Drugs (Amounts of Prohibited Drugs) Order (No. 3) 2011 published in Ga
 Misuse of Drugs Amendment Act 2011 s. 3, 4 and 9 | 56 of 2011 | 21 Nov 2011 | 24 Mar 2012 (see s. 2(b) and Gazette 23 Mar 2012 p. 1363)
 Misuse of Drugs (Amounts of Prohibited Drugs) Order 2012 published in Gazette 13 Apr 2012 p. 1664-5 | cl. 1 and 2: 13 Apr 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 14 Apr 2012 (see cl. 2(b))
 Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 10 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
+Misuse of Drugs (Amounts of Prohibited Drugs) Order (No. 2) 2012 published in Gazette 30 Oct 2012 p. 5194-6 | cl. 1 and 2: 30 Oct 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 31 Oct 2012 (see cl. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
