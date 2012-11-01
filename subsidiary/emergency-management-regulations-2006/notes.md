@@ -15,12 +15,13 @@ Emergency Management Amendment Regulations (No. 3) 2010 | 3 Dec 2010 p. 6056-7 |
 Reprint 2: The Emergency Management Regulations 2006 as at 1 Apr 2011 (includes amendments listed above)
 Emergency Management Amendment Regulations 2011 | 19 Jul 2011 p. 2985-6 | r. 1 and 2: 19 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Jul 2011 (see r. 2(b))
 Emergency Management Amendment Regulations 2012 | 13 Mar 2012 p. 1034-5 | r. 1 and 2: 13 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Mar 2012 (see r. 2(b))
+Emergency Management Amendment Regulations (No. 2) 2012 | 31 Oct 2012 p. 5253-4 | r. 1 and 2: 31 Oct 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2012 (see r. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 Agriculture Director General19(1)
 corridor land14
-FESA17(1)
+FES Commissioner17(1)
 preparedness14
 prevention14
 Public Transport Authority20(1)
