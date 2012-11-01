@@ -1,134 +1,88 @@
 ## Schedule 2 — Forms
 [r. 4]
-[Heading inserted in Gazette 13 Nov 2009 p. 4538.]
-FORM 1
-This space for cash register imprint
-Western Australia
-Department of Marine and Harbours
-BOATING INFRINGEMENT NOTICE
-Western Australian Marine Act 1982, Section 132
-Issue Date......./......./.......
-Sex: oDate of Birth: oo/oo/oo
-M.............................................................................................................................
-Surname (Block Letters)Other Names in Full
-Address...................................................................................................................
-Number of StreetTown or SuburbPost Code
-Particulars of Vessel: Registration No.............................. Expiry Date..../...../......
-Type.................................... Construction............................. Colour................
-Length...............Kw/Hp..............Engine: o Inboard o Outboard
-Number of persons on board...............................
-It is alleged that at...........hours on.............day of................................20.....
-in the area of............................................................................................................
-in connection with the abovementioned vessel you committed the offence indicated hereunder.
-................................................................................................................. No.........
-Signature of inspector or other authorised person
- |  |  | MODIFIED PENALTY
-CODE |  |  |  | ................................................. $
-CODE |  |  |  | ................................................. $
-CODE |  |  |  | ................................................. $
- |  | ................................. TOTAL $
-Take notice that —
-If you do not wish to have a complaint of the alleged offence heard and determined by a court, you may pay to an officer specified on the reverse side of this notice, within 28 days, the total amount specified.
-If that amount is not paid within 28 days, further action will be taken in respect of the alleged offence(s) under the Inrep system or by a prosecution. Procedures under the Inrep system will incur charges payable by you additional to the penalty amount.
-Note: Unless within a period of 21 days after the date of service of this notice —
-(a)the modified penalty(ies) shown above is (are) paid; or
-(b)the owner of the vessel described above —
-(i)informs an authorised person of the identity and address of the person who was in charge of the vessel; or
-(ii)satisfies an authorised person that the vessel had been stolen or unlawfully taken, or was being unlawfully used,
-at the time when the offence(s) described in this notice is (are) believed to have been committed,
-the owner of the vessel is, in the absence of proof to the contrary, deemed to be the person who was in charge of the vessel at the time when the offence(s) described in this notice is(are) believed to have been committed.
-A person, other than the owner or person in charge of the vessel, who removes this notice from the vessel commits an offence and is liable to a penalty not exceeding $200.
-Payment may be made —
-(i)By post to —
-Accountant
-Crown Law Department
-G.P.O. Box F317
-PERTH WA 6001
-(ii)By hand to —
-Clerk of Courts —
-Albany, Armadale, Broome, Bunbury, Busselton, Carnarvon, Collie, Derby, Esperance, Fremantle, Geraldton, Harvey, Kalgoorlie, Karratha, Katanning, Kununurra, Mandurah, Manjimup, Merredin, Moora, Midland, Narrogin, Northam, Pinjarra, Port Hedland, Roebourne, Rockingham and Perth — Magistrates Court, Level 2, Central Law Courts, 30 St George’s Terrace.
-Any inquiry you may have in this matter is to be made in writing and forwarded by post to —
-The Executive Director
-Department of Marine and Harbours
-P.O. Box 402
-FREMANTLE WA 6160
-A receipt will not be mailed unless requested.
-Payments will not be accepted at any Marine and Harbours Offices.
-BOATING INFRINGEMENT NOTICECREDIT CARD SLIP
-Do not detach — Return complete document with payment to —
-Accountant
-Crown Law Department
-Box F317 G.P.O.
-PERTH WA 6001
-Please debit my credit card account —
-BankcardMastercardVisacard
-Card Number: Amount
-Cardholder Name:.........................................................................
-Signature:........................................Expiry Date: ........./........./.........
-[Form 1 inserted in Gazette 26 Jul 1991 p. 3934-6.]
-Form 2
-WESTERN AUSTRALIA
-WITHDRAWAL OF BOATING INFRINGEMENT NOTICE
-Western Australian Marine Act 1982 (Section 132(5))
-No.
-Date / /
-M.............................................................................................................................
-Surname (Block Letters)Other names in full
-Address...................................................................................................................
-Number and streetTown or suburbPostcode
-Boating infringement notice No...........................Date / /
-for the alleged offence(s) of.....................................................................................
-specifying modified penalty(ies) of $.......................................................................
-is hereby withdrawn.
-(a)*No further action will be taken
-(b)*It is proposed to institute court proceedings for that alleged offence (those alleged offences).
-*Strike out that which is not applicable.
-..............................................
-Authorised person
-Department of Marine and Harbours
-(Complete and detach this portion if penalty has been paid).
-Accountant
-Crown Law Department
-Westpac Centre No.
-109 St Georges Terrace
-PERTH WA 6000
-I hereby apply for a refund of the amount of $ ................., being the amount of the modified penalty(ies) paid in respect of boating infringement notice No. which was withdrawn by notice dated ........./........./..............
-Receipt No.......................Dated ........./........./......... is attached.
-...............................................
+[Heading inserted in Gazette 9 Oct 2012 p. 4756.]
+1.Infringement notice
+Part 1
+Western Australian Marine Act 1982, s. 132(1) Infringement notice | Infringement notice no.:
+Date of service:
+TO: or TO: | r | Surname/ Company name and ACN
+Other names
+Address
+Date of birth |  | Male/Female
+rTick if this notice is addressed to the above person as the owner of the vessel described below.
+r | The owner of the vessel described below (whose identity is not known and cannot immediately be ascertained).
+Vessel | Vessel name: | Reg. no.: | Reg. expiry date:
+Vessel type: | Length (metres): | No. persons onboard:
+Construction material: | Colour:
+Engine type: r Inboard r Outboard | Engine make: | Kw/Hp:
+Alleged offence | Date |  | Time
+Place
+Legislation
+Provision
+Details of offence
+Authorised person issuing notice | Name
+Authorised person no.
 Signature
-...............................................
-Address for (Print full name)
-refund ...........................................................................................................................
-Number and street Town or suburb Postcode
-Form 3
-WESTERN AUSTRALIA
-Department of Marine and Harbours
-NOTICE TO IDENTIFY PERSON IN CHARGE OF VESSEL
-Western Australian Marine Act 1982 (Section 133(2))
-M.............................................................................................................................
-Surname (Block Letters)Other names in full
-Address...................................................................................................................
-Number and streetTown or suburbPostcode
-Particulars of vessel:
-Registration No. ........................................................ Expiry date ......../......./.......
-Type............................Construction....................................Colour.........................
-Length ................... Kw/Hp.................. engine: o Inboard o Outboard
-Number of persons on board ....................................
-It is alleged that at .............. hours on .............. day of ........................20 ........... in the area of ...........................................................................................................
-the offence(s) indicated hereunder by a cross (X) were committed while the above-mentioned vessel was in the charge of a person whose identity is not known and cannot immediately be ascertained.
-You, being the owner of the above-mentioned vessel, are hereby required to identify the person who was in charge of that vessel at the time when that offence (those offences) is(are) alleged to have been committed.
-NOTE:
-Unless within 21 days of the day of service of this notice —
-(a)you inform an authorised person of the identity and address of the person who was in charge of the above-mentioned vessel; or
-(b)satisfy an authorised person that the above-mentioned vessel had been stolen or unlawfully taken, or was being unlawfully used,
-at the time when the above-mentioned offence(s) is(are) alleged to have been committed, you are, in the absence of proof to the contrary, deemed to be the person who was in charge of that vessel at the time when that offence(those offences) is(are) alleged to have been committed.
-Date ............/............./.............Signature.........................................
-Inspector or other authorised person
-Department of Marine and Harbours.
-Form 4
-WESTERN AUSTRALIA
-Department of Marine and Harbours
-CERTIFICATE OF AUTHORISED PERSON OTHER THAN INSPECTOR
-Western Australian Marine Act 1982 (Section 134(1))
-DEPARTMENT OF MARINE AND HARBOURS FREMANTLE TO WHOM IT MAY CONCERN THE BEARER ....................................................................................................... not being an inspector, is an authorised person within the meaning of section 132 of the Western Australian Marine Act 1982. .............................................. Chief Executive Officer (Bearer’s signature) .................................................. Appointment No. .....................................................
-[Form 4 amended in Gazette 11 Aug 1992 p. 3978.]
+Modified penalty | $_________
+TAKE NOTICE | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty in accordance with Part 2 of this notice within 28 days after the date of service of this notice. If you do not pay the modified penalty within that period, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act your driver’s licence or vehicle licence may be suspended. If this notice is addressed to you as the owner of the vessel described above (whether or not your identity is known), the Western Australian Marine Act 1982 section 132(3) says, in effect, that you are, in the absence of proof to the contrary, deemed to be the person who was in charge of the vessel at the time the above alleged offence is believed to have been committed. This does not apply if within 21 days after the date of service of this notice — ●the modified penalty for the alleged offence is paid; or ●you — ●inform an authorised person of the identity and address of the person who was in charge of the vessel at the time of the alleged offence; or ●satisfy an authorised person that the vessel had been stolen or unlawfully taken, or was being unlawfully used at that time. Any inquiry you have in relation to this matter is to be made in writing and sent by post to: [Insert details] If you want this matter to be dealt with by prosecution in court, you may decline to be dealt with under the Western Australian Marine Act 1982 section 132 by completing the Election to have matter dealt with by a Court section in Part 2 of this notice and posting Part 2 to the designated officer at the address below.
+Part 2 (detachable)
+Infringement notice no:________________
+Election to have matter dealt with by a Court | I decline to be dealt with under the Western Australian Marine Act 1982 section 132 and elect to be prosecuted in Court for the alleged offence. ________________________________ (Name) ________________________________ ___/___/___ (Signature) (Date) Detach this Part and send to: [Insert details of designated officer]
+How to pay | By post | Tick the relevant box below: rI want to pay the modified penalty. A cheque or money order (payable to [insert name of designated officer]) for the modified penalty is enclosed. rI want to pay the modified penalty by credit card. Please debit my credit card account. Card type _____________________________ Cardholder name _______________________ Card number [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] Expiry date of card _____/_____ Amount $__________ Signature ____________________ Detach this Part and send to: [Insert details of designated officer]
+In person | Pay the cashier at: [Insert details of designated officer]
+2.Withdrawal of infringement notice
+Part 1
+Western Australian Marine Act 1982, s. 132(5) Withdrawal of infringement notice | Withdrawal no.:
+Date:
+TO: | Surname/ company name and ACN
+Other names
+Address
+Infringement notice | Infringement notice no.
+Date of service
+Vessel | Vessel name: | Reg. no.: | Reg. expiry date:
+Vessel type: | Length (metres): | No. persons onboard:
+Construction material: | Colour:
+Engine type: r Inboard r Outboard | Engine make: | Kw/Hp:
+Alleged offence | Date |  | Time
+Place
+Legislation
+Provision
+Details of offence
+Authorised person withdrawing notice | Name
+Authorised person no.
+Signature
+Withdrawal of infringement notice [*Delete whichever is not applicable] | The above infringement notice issued against you for the above alleged offence has been withdrawn. If you have already paid the modified penalty for the alleged offence, you are entitled to a refund. *Your refund is enclosed. or *If you have paid the modified penalty but a refund is not enclosed, you may claim your refund by completing Part 2 of this notice and sending it to the address below.
+Part 2 (detachable)
+Withdrawal no:________________
+Claim for refund | I claim a refund for the modified penalty paid in accordance with the infringement notice that was withdrawn by this notice of withdrawal. ________________________________ (Name) ________________________________ ___/___/___ (Signature) (Date) Detach this Part and send to: [Insert details of designated officer]
+3.Notice requiring identification of person in charge of vessel
+Part 1
+Western Australian Marine Act 1982, s. 133(2) Notice requiring identification of person in charge of vessel | Notice no:
+Date:
+TO: | Name
+Address
+Vessel | Vessel name: | Reg. no.: | Reg. expiry date:
+Vessel type: | Length (metres): | No. persons onboard:
+Construction material: | Colour:
+Engine type: r Inboard r Outboard | Engine make: | Kw/Hp:
+Alleged offence | Date |  | Time
+Place
+Legislation
+Provision
+Details of offence
+TAKE NOTICE | You are the registered owner of the vessel described above. It is alleged that the offence described above was committed while the vessel described above was in charge of a person whose identity is not known and cannot immediately be ascertained. You, as the registered owner, are required to identify the person who was in charge of the vessel at the time when the offence described above is alleged to have been committed. If, within 21 days after the date of service of this notice, you do not — ●inform the Department, by completing Part 2 of this notice, of the identity and address of the person who was in charge of the vessel described above at the time the offence described above is alleged to have been committed; or
+ | ●satisfy the Department that the vessel described above had been stolen or unlawfully taken, or was being unlawfully used, at the time when the offence described above is alleged to have been committed, you will, in the absence of proof to the contrary, be deemed to be the person who was in charge of the vessel at the time when the offence described above is believed to have been committed.
+Authorised person issuing notice | Name
+Authorised person no.
+Signature
+Part 2 (detachable)
+Notice no. ____________
+Identity of person in charge of vessel | I, _____________________________________________ (Name) am the registered owner of the vessel described in this notice. At the time the offence described in this notice is alleged to have been committed, the following person was in charge of the vessel.
+Name
+Address
+________________________________ ___/___/___ (Signature of registered owner) (Date) Detach this section and send to: [Insert details]
+Refer to infringement notice no. ____________
+4.Certificate as to authorised person other than inspector
+Certificate as to authorised person other than inspector Western Australian Marine Act 1982, s. 134(1)
+TO WHOM IT MAY CONCERN ___________________________________________________ (Name) not being an inspector, is an authorised person for the purposes of the Western Australian Marine Act 1982 sections 132 and 133. ________________________________ Chief Executive Officer ________________________________ (Signature of authorised person) Appointment no. __________________
+[Schedule 2 nserted in Gazette 9 Oct 2012 p. 4756-61.]
