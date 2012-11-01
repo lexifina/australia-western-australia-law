@@ -166,13 +166,13 @@ Electronic Transactions Act 2011 s. 25 and 26 | 46 of 2011 | 25 Oct 2011 | s. 25
 Manslaughter Legislation Amendment Act 2011 Pt. 2 | 58 of 2011 | 30 Nov 2011 | 17 Mar 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1245)
 Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 6 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 4 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 3 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 | 10 of 2011 | 2 May 2011 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 3 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -269,21 +269,6 @@ Delete section 297(4)(c)(iii) and insert:
 185.Section 318 amended
 Delete section 318(1)(g)(iii) and insert:
 (iii) a taxi as defined in the Taxi Act 1994 section 3(1) or an omnibus as defined in the Transport Co-ordination Act 1966 section 4(1);
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 3 had not come into operation. It reads as follows:
-Division 3 — The Criminal Code amended
-114.Act amended
-This Division amends The Criminal Code.
-115.Section 297 amended
-In section 297(4)(d)(ii):
-(a) delete “FESA Unit” and insert:
-FES Unit
-(b) delete “Authority of Western Australia”.
-116.Section 318 amended
-In section 318(1)(h)(ii):
-(a) delete “FESA Unit,” and insert:
-FES Unit,
-(b) delete “Authority of Western Australia”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

@@ -5,7 +5,6 @@ Act | Person or fund to which a fine under the Act is to be paid or credited
 Aboriginal Communities Act 1979 | The council of the community that made the by-law under which the fine was imposed
 Architects Act 2004 | Architects Board of Western Australia
 Botanic Gardens and Parks Authority Act 1998 | Botanic Gardens and Parks Authority
-Bush Fires Act 1954 | Fire and Emergency Services Authority of Western Australia or a local government as provided by section 55 of that Act
 Colleges Act 1978 | The college that made the by-law under which the fine was imposed
 Corporations (Western Australia) Act 1990 | The Commonwealth
 Curtin University of Technology Act 1966 | Curtin University of Technology
@@ -27,4 +26,4 @@ Western Australian College of Teaching Act 2004 | Western Australian College of 
 Western Australian Greyhound Racing Association Act 1981 | Western Australian Greyhound Racing Association Fund
 Workers’ Compensation and Injury Management Act 1981 | Workers’ Compensation and Injury Management General Account
 Zoological Parks Authority Act 2001 | Zoological Parks Authority
-[Schedule 1 amended by No. 59 of 1995 s. 88; No. 23 of 1998 s. 20; No. 42 of 1998 s. 38; No. 53 of 1998 s. 56; No. 5 of 1999 s. 21; No. 16 of 1999 s. 7(5); No. 24 of 2001 s. 47; No. 35 of 2003 s. 221(4); No. 8 of 2004 s. 88; No. 40 of 2004 s. 18; No. 42 of 2004 s. 169 and 174; No. 75 of 2004 s. 80; No. 84 of 2004 s. 64; No. 25 of 2005 s. 53; No. 77 of 2006 s. 4; No. 24 of 2007 s. 54; No. 38 of 2007 s. 199; No. 22 of 2008 Sch. 3 cl. 52; No. 8 of 2009 s. 115(3); No. 35 of 2010 s. 155; No. 19 of 2011 s. 157; No. 47 of 2011 s. 26.]
+[Schedule 1 amended by No. 59 of 1995 s. 88; No. 23 of 1998 s. 20; No. 42 of 1998 s. 38; No. 53 of 1998 s. 56; No. 5 of 1999 s. 21; No. 16 of 1999 s. 7(5); No. 24 of 2001 s. 47; No. 35 of 2003 s. 221(4); No. 8 of 2004 s. 88; No. 40 of 2004 s. 18; No. 42 of 2004 s. 169 and 174; No. 75 of 2004 s. 80; No. 84 of 2004 s. 64; No. 25 of 2005 s. 53; No. 77 of 2006 s. 4; No. 24 of 2007 s. 54; No. 38 of 2007 s. 199; No. 22 of 2008 Sch. 3 cl. 52; No. 8 of 2009 s. 115(3); No. 35 of 2010 s. 155; No. 19 of 2011 s. 157; No. 47 of 2011 s. 26; No. 22 of 2012 s. 141.]

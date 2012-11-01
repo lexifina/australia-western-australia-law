@@ -27,12 +27,12 @@ Revenue Laws Amendment Act 2008 Pt. 6 | 30 of 2008 | 27 Jun 2008 | 1 Jul 2008 (s
 Revenue Laws Amendment Act (No. 2) 2008 s. 35 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 Reprint 3: The Rates and Charges (Rebates and Deferments) Act 1992 as at 7 Nov 2008 (includes amendments listed above)
 Local Government Amendment Act 2012 Pt. 3 | 2 of 2012 | 4 Apr 2012 | 1 Jul 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695)
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 12 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Revenue Laws Amendment Act 2012 Pt. 6 | 29 of 2012 | 3 Sep 2012 | 4 Sep 2012 (see s. 2(e))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Residential Tenancies Amendment Act 2011 Pt. 5 Div. 4 | 60 of 2011 | 14 Dec 2011 | To be proclaimed (see s. 2(b))
-Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 12 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
+Residential Tenancies Amendment Act 2011 Pt. 5 Div. 4 | 60 of 2011 | 14 Dec 2011 | 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
 Water Services Legislation Amendment and Repeal Act 2012 s. 226 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.
@@ -78,17 +78,7 @@ This Division amends the Rates and Charges (Rebates and Deferments) Act 1992.
 lessor, in relation to land, has the meaning given in the Residential Tenancies Act 1987 section 3;
 (3) In section 29B(3) delete “the owner” and insert:
 the lessor
-On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 12 had not come into operation. It reads as follows:
-Division 12 — Rates and Charges (Rebates and Deferments) Act 1992 amended
-134.Act amended
-This Division amends the Rates and Charges (Rebates and Deferments) Act 1992.
-135.Section 3 amended
-(1) In section 3(1) in the definition of emergency services levy delete “Authority of Western Australia”.
-(2) In section 3(1a) delete “Authority of Western Australia”.
-136.Section 17 amended
-(1) In section 17(1b) delete “Fire and Emergency Services Authority of Western Australia established by section 4 of the Fire and Emergency Services Authority of Western Australia Act 1998.” and insert:
-FES Commissioner as defined in the Fire and Emergency Services Act 1998 section 3.
-(2) In section 17(1c) delete “Authority of Western Australia”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 226 had not come into operation. It reads as follows:
 226.Rates and Charges (Rebates and Deferments) Act 1992 amended
 (1) This section amends the Rates and Charges (Rebates and Deferments) Act 1992.

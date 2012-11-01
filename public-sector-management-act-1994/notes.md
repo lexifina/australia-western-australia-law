@@ -93,11 +93,11 @@ Public Sector Reform Act 2010 Pt. 2 Div. 1 and Pt. 3 Div. 1 | 39 of 2010 | 1 Oct
 Reprint 9: The Public Sector Management Act 1994 as at 1 Apr 2011 (includes amendments listed above)
 Curriculum Council Amendment Act 2011 Pt. 3 Div. 3 | 37 of 2011 | 13 Sep 2011 | 1 Mar 2012 (see s. 2(b) and Gazette 28 Feb 2012 p. 841)
 Metropolitan Redevelopment Authority Act 2011 s. 142 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 11 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 11 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 Water Services Legislation Amendment and Repeal Act 2012 s. 224 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
@@ -109,12 +109,7 @@ On the date as at which this compilation was prepared, the State Superannuation 
 The Public Sector Management Act 1994 is amended as follows:
 (a) by repealing section 20(1);
 The amendment in the State Superannuation Amendment Act 2007 s. 85 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 11 had not come into operation. It reads as follows:
-Division 11 — Public Sector Management Act 1994 amended
-132.Act amended
-This Division amends the Public Sector Management Act 1994.
-133.Schedule 2 amended
-Delete Schedule 2 item 10A.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 224 had not come into operation. It reads as follows:
 224.Public Sector Management Act 1994 amended
 (1) This section amends the Public Sector Management Act 1994.

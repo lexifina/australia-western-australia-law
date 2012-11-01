@@ -60,13 +60,13 @@ Prohibited Behaviour Orders Act 2010 Pt. 5 Div. 4 | 59 of 2010 | 8 Dec 2010 | 23
 Reprint 7: The Sentencing Act 1995 as at 29 Apr 2011 (includes amendments listed above)
 Building Services (Registration) Act 2011 s. 157 | 19 of 2011 | 22 Jun 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 26 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 14 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 47 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Teacher Registration Act 2012 s. 168 | 16 of 2012 | 3 Jul 2012 | To be proclaimed (see s. 2(b))
-Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 14 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
+Teacher Registration Act 2012 s. 168 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Water Services Legislation Amendment and Repeal Act 2012 s. 228 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
@@ -225,12 +225,7 @@ On the date as at which this compilation was prepared, the Teacher Registration 
 (2) In Schedule 1 delete the item relating to the Western Australian College of Teaching Act 2004.
 (3) In Schedule 1 insert in alphabetical order:
 Teacher Registration Act 2012 | Teacher Registration Board Account
-On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 14 had not come into operation. It reads as follows:
-Division 14 — Sentencing Act 1995 amended
-140.Act amended
-This Division amends the Sentencing Act 1995.
-141.Schedule 1 amended
-In Schedule 1 delete the item relating to the Bush Fires Act 1954.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 228 had not come into operation. It reads as follows:
 228.Sentencing Act 1995 amended
 (1) This section amends the Sentencing Act 1995.

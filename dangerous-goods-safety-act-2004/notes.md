@@ -7,11 +7,11 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 1: The Dangerous Goods Safety Act 2004 as at 5 Jun 2009 (includes amendments listed above)
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 4 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 17 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 4 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 The provisions in this Act repealing these written laws have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 17 had not come into operation. It reads as follows:
@@ -26,16 +26,9 @@ as defined in the Road Traffic (Administration) Act 2008 section 5
 88.Section 15 amended
 In section 15(2) delete “the owner within the meaning of the Road Traffic Act 1974 of” and insert:
 a responsible person, as defined in the Road Traffic (Administration) Act 2008 section 4, for
-On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 4 had not come into operation. It reads as follows:
-Division 4 — Dangerous Goods Safety Act 2004 amended
-117.Act amended
-This Division amends the Dangerous Goods Safety Act 2004.
-118.Section 40 amended
-In section 40(1) in the definition of unauthorised person paragraph (a) delete “of the Fire and Emergency Services Authority of Western Australia; or” and insert:
-in the department of the Public Service that principally assists the Minister with the administration of the Fire and Emergency Services Act 1998; or
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 aggravated circumstances17(1)
 application 43(1)
 approvalSch. 1 cl. 8(1)
@@ -54,7 +47,7 @@ dangerous goods pipelineSch. 1 cl. 5(1)
 dangerous goods site3(1)
 dangerous situation3(1)
 departmental officer25(1)
-DGO3(1) and (2)
+DGO3(1), 3(2)
 direction54(1)
 director60(1)
 driver3(1)
