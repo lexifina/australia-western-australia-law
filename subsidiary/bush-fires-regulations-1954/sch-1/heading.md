@@ -15,7 +15,6 @@ Bush Fire Control Officer.
 [Form 3 inserted in Gazette 10 Mar 1978 p. 709.]
 Form 4
 Western Australia
-Fire and Emergency Services Authority of Western Australia
 Bush Fires Act 1954
 Regulation 18
 APPLICATION FOR PERMIT TO BURN CLOVER DURING A PROHIBITED BURNING TIME
@@ -48,10 +47,9 @@ in the presence of —
 [Signature of authorised witness]
 [Name of authorised witness and qualification as such a witness]
 For a list of people who are authorised to witness statutory declarations, see Oaths, Affidavits and Statutory Declarations Act 2005 Schedule 2.
-[Form 4 amended in Gazette 16 Oct 1963 p. 3076; 12 Jul 1974 p. 2612-13; 22 Dec 1998 p. 6855 and 6859; 10 Sep 2010 p. 4342-3.]
+[Form 4 amended in Gazette 16 Oct 1963 p. 3076; 12 Jul 1974 p. 2612-13; 22 Dec 1998 p. 6855 and 6859; 10 Sep 2010 p. 4342-3; 31 Oct 2012 p. 5252.]
 Form 5
 Western Australia
-Fire and Emergency Services Authority of Western Australia
 Bush Fires Act 1954
 Regulation 19
 Permit No.................................
@@ -65,10 +63,9 @@ Given under my hand at ................................. this ............... da
 .............................................
 Authorised Officer.
 (a) Name of authorised officer in full and occupation; (b) address; (c) name of permit holder; (d) address; (e) name of location.
-[Form 5 amended in Gazette 12 Jul 1974 p. 2613; 22 Dec 1998 p. 6855 and 6859.]
+[Form 5 amended in Gazette 12 Jul 1974 p. 2613; 22 Dec 1998 p. 6855 and 6859; 31 Oct 2012 p. 5252.]
 Form 6
 Western Australia
-Fire and Emergency Services Authority of Western Australia
 Bush Fires Act 1954
 Regulation 26
 APPLICATION FOR A PERMIT TO BURN THE REFUSE OF PLANTS DURING A PROHIBITED BURNING TIME
@@ -101,10 +98,9 @@ in the presence of —
 [Signature of authorised witness]
 [Name of authorised witness and qualification as such a witness]
 For a list of people who are authorised to witness statutory declarations, see Oaths, Affidavits and Statutory Declarations Act 2005 Schedule 2.
-[Form 6 inserted in Gazette 27 Oct 1966 p. 2782; amended in Gazette 12 Jul 1974 p. 2613; 22 Dec 1998 p. 6855 and 6859; 10 Sep 2010 p. 4343.]
+[Form 6 inserted in Gazette 27 Oct 1966 p. 2782; amended in Gazette 12 Jul 1974 p. 2613; 22 Dec 1998 p. 6855 and 6859; 10 Sep 2010 p. 4343; 31 Oct 2012 p. 5252.]
 Form 7
 Western Australia
-Fire and Emergency Services Authority of Western Australia
 Bush Fires Act 1954
 Regulation 27
 Permit No. ............................
@@ -135,10 +131,9 @@ Extracts from Regulations dealing with the burning of the refuse of plants read 
 (d)carry out the burning operations only between the hours of 8 p.m. and midnight;
 (e)cause all ash resulting from the burning operations to be covered completely with earth or sand before 10 a.m. on the next day following the burning operations.
 32.In the event of any fire escaping beyond the boundaries of the area in respect of which a permit to burn the refuse of plants has been granted, the holder of such permit shall, if possible, immediately notify the nearest bush fire control officer or authorised officer and shall within 24 hours of the suppression of the fire report in full the circumstances causing the escape to the authorised officer by whom the permit was granted.
-[Form 7 inserted in Gazette 27 Oct 1966 p. 2783-4; amended in Gazette 12 Jul 1974 p. 2613; 22 Dec 1998 p. 6855 and 6859.]
+[Form 7 inserted in Gazette 27 Oct 1966 p. 2783-4; amended in Gazette 12 Jul 1974 p. 2613; 22 Dec 1998 p. 6855 and 6859; 31 Oct 2012 p. 5252.]
 Form 8
 Western Australia
-Fire and Emergency Services Authority of Western Australia
 Bush Fires Act 1954
 Regulation 33
 APPLICATION FOR A PERMIT TO BURN PROCLAIMED PLANTS DURING A PROHIBITED BURNING TIME
@@ -172,10 +167,9 @@ in the presence of —
 [Signature of authorised witness]
 [Name of authorised witness and qualification as such a witness]
 For a list of people who are authorised to witness statutory declarations, see Oaths, Affidavits and Statutory Declarations Act 2005 Schedule 2.
-[Form 8 inserted in Gazette 27 Oct 1966 p. 2784-5; amended in Gazette 12 Jul 1974 p. 2613-14; 27 Oct 1989 p. 3898; 22 Dec 1998 p. 6855 and 6859; 10 Sep 2010 p. 4343-4.]
+[Form 8 inserted in Gazette 27 Oct 1966 p. 2784-5; amended in Gazette 12 Jul 1974 p. 2613-14; 27 Oct 1989 p. 3898; 22 Dec 1998 p. 6855 and 6859; 10 Sep 2010 p. 4343-4; 31 Oct 2012 p. 5252.]
 Form 9
 Western Australia
-Fire and Emergency Services Authority of Western Australia
 Bush Fires Act 1954
 Regulation 33
 Permit No. ..........................
@@ -209,10 +203,9 @@ and such notice shall be given —
 (13)No fire shall be lit pursuant to the provisions of this regulation on a day, or during any period of a day, if for that day or that period the fire danger forecast issued by the Bureau of Meteorology in Perth in respect of the locality where it is proposed to burn the proclaimed plant is “catastrophic”, “extreme”, “severe” or “very high”, and the person who has received the permit under the provisions of this regulation shall not burn a proclaimed plant in the locality on that day or during that period, but may burn the plant in that locality on the first day, next following the day or period of a day on which the fire danger forecast issued by the Bureau of Meteorology in Perth in respect of the locality is below “very high”.
 (14)The owner or occupier of the area to be burned shall himself arrange for and provide at least 3 persons to be constantly in attendance at the fire in the area from the time it is lit until it is completely extinguished and to assist in keeping the fire under control and preventing it from spreading beyond the area proposed to be burned.
 36.In the event of any fire escaping beyond the boundaries of the area in respect of which a permit to burn has been granted, the holder of the permit shall, if possible, immediately notify the nearest bush fire control officer or authorised officer and within 24 hours of the suppression of the fire shall report in full the circumstances causing the escape to the authorised officer by whom the permit was granted.
-[Form 9 inserted in Gazette 27 Oct 1966 p. 2785-7; amended in Gazette 12 Jul 1974 p. 2614; 27 Oct 1989 p. 3898; 22 Dec 1998 p. 6855, 6858, 6859; 1 Dec 2009 p. 4842.]
+[Form 9 inserted in Gazette 27 Oct 1966 p. 2785-7; amended in Gazette 12 Jul 1974 p. 2614; 27 Oct 1989 p. 3898; 22 Dec 1998 p. 6855, 6858, 6859; 1 Dec 2009 p. 4842; 31 Oct 2012 p. 5252.]
 Form 10
 Western Australia
-Fire and Emergency Services Authority of Western Australia
 Regulation 36A
 APPLICATION FOR A PERMIT TO BURN DECLARED PLANTS/THE REFUSE OF DECLARED PLANTS DURING A PROHIBITED BURNING TIME
 I, (a) ................................................... of (b) ......................................................... the owner (or occupier) of (c) ....................................... location No. ................... hereby apply for a permit to burn (d) .............................................../the refuse of (d) ................................................. to the extent specified hereunder on the days specified hereunder —
@@ -228,10 +221,9 @@ To .......................................
 Note. — This application must be lodged with the chief executive officer of the local government within whose district the proposed burning is to take place, or the nearest authorised officer, within 7 days before the day upon which it is intended to commence burning.
 ________________________________________________________________
 (a) Name of applicant in full. (b) Address. (c) Name of location. (d) Description of declared plants.
-[Form 10 inserted in Gazette 10 Mar 1978 p. 709-10; amended in Gazette 22 Dec 1998 p. 6855 and 6859.]
+[Form 10 inserted in Gazette 10 Mar 1978 p. 709-10; amended in Gazette 22 Dec 1998 p. 6855 and 6859; 31 Oct 2012 p. 5252.]
 Form 11
 Western Australia
-Fire and Emergency Services Authority of Western Australia
 Bush Fires Act 1954
 Regulation 36A
 Permit No...........................
@@ -250,7 +242,7 @@ or Authorised Officer.
 Requirements and Directions
 ________________________________________________________________
 (a) Name of chief executive officer or authorised officer in full and occupation. (b) Address. (c) Name of permit holder. (d) Address. (e) Name of location. (f) Description of declared plants.
-[Form 11 inserted in Gazette 10 Mar 1978 p. 710; amended in Gazette 22 Dec 1998 p. 6855 and 6859.]
+[Form 11 inserted in Gazette 10 Mar 1978 p. 710; amended in Gazette 22 Dec 1998 p. 6855 and 6859; 31 Oct 2012 p. 5252.]
 Form 12
 Western Australia
 Bush Fires Act 1954

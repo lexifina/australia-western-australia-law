@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 July 2012 of the Bush Fires Regulations 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Bush Fires Regulations 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Bush Fires Act 1954 Regulations | 14 Oct 1955 p. 2575-97 | 14 Oct 1955
@@ -35,6 +35,7 @@ Bush Fires Amendment Regulations (No. 3) 2010 | 5 Nov 2010 p. 5564-6 | r. 1 and 
 Bush Fires Amendment Regulations 2010 | 17 Dec 2010 p. 6351-4 | r. 1 and 2: 17 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2010 (see r. 2(b))
 Bush Fires Amendment Regulations 2011 | 2 Dec 2011 p. 5059-60 | r. 1 and 2: 2 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2011 (see r. 2(b))
 Reprint 6: The Bush Fires Regulations 1954 as at 6 Jul 2012 (includes amendments listed above)
+Bush Fires Amendment Regulations 2012 | 31 Oct 2012 p. 5251-2 | r. 1 and 2: 31 Oct 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2012 (see r. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Bush Fires Amendment Regulations (No. 2) 2000 deleted headings to r. 1-3, 15, 18, 23, 37, 37A, 38, 39, 39A, 39B, 39BA, 39D, 41, 43 and 44 that formed part of the written law. The deletions are not noted in footnotes to the regulations. The headings to the regulations in this reprint do not form part of the written law (see Interpretation Act 1984 s. 32).
 Now known as the Bush Fires Regulations 1954; citation changed (see note under r. 1).
