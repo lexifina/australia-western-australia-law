@@ -269,13 +269,13 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 4 | 47 of 2011 | 25 Oct 2011
 Agricultural Practices (Disputes) Repeal Act 2011 s. 3 | 54 of 2011 | 9 Nov 2011 | 7 Dec 2011 (see note under s. 1)
 Electoral and Constitution Amendment Act 2011 Pt. 3 | 49 of 2011 | 11 Nov 2011 | 21 Dec 2011 (see s. 2(b) and Gazette 20 Dec 2011 p. 5373)
 Reprint 18: The Constitution Acts Amendment Act 1899 as at 1 Jun 2012 (includes amendments listed above except those in the Health Practitioner Regulation National Law (WA) Act 2010 s. 44(1), (7) and (9))
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 1 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 Teacher Registration Act 2012 s. 164 | 16 of 2012 | 3 Jul 2012 | To be proclaimed (see s. 2(b))
-Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 1 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 Water Services Legislation Amendment and Repeal Act 2012 s. 208 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
@@ -384,12 +384,7 @@ On the date as at which this compilation was prepared, the Teacher Registration 
 (2) In Schedule V Part 3 delete the item relating to The Western Australian College of Teaching.
 (3) In Schedule V Part 3 after the item relating to The Taxi Industry Board insert:
 The Teacher Registration Board of Western Australia established under the Teacher Registration Act 2012.
-On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 1 had not come into operation. It reads as follows:
-Division 1 — Constitution Acts Amendment Act 1899 amended
-110.Act amended
-This Division amends the Constitution Acts Amendment Act 1899.
-111.Schedule V amended
-In Schedule V Part 3 delete the item relating to the Fire and Emergency Services Authority of Western Australia.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 208 had not come into operation. It reads as follows:
 208.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.

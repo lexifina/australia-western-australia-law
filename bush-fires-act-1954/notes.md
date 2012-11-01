@@ -52,13 +52,13 @@ Arson Legislation Amendment Act 2009 Pt. 2 | 43 of 2009 | 3 Dec 2009 | 19 Dec 20
 Reprint 8: The Bush Fires Act 1954 as at 9 Apr 2010 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 43(3) and 52 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 3 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 28 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 28 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Standardisation of Formatting Act 2010 s. 52(4) | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 4 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Fire and Emergency Services Legislation Amendment Act 2012 Pt. 3 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Provisions of the Bush Fires Act 1954 referred to in s. 64 are not the same references as originally enacted. Under the Interpretation Act 1984 s. 16(2), as a result of amendments to the Bush Fires Act 1954 by the Bush Fires Act Amendment Act 1977 (No. 65 of 1977), those references may be construed as if amended. The references were changed under the Reprints Act 1984 s. 7(3)(g).
 The Third Schedule was inserted by the Metric Conversion Act Amendment Act (No. 2) 1973.
@@ -97,226 +97,56 @@ This Division amends the Bush Fires Act 1954.
 47.Section 14B amended
 In section 14B(3) delete “Road Traffic Act 1974” and insert:
 Road Traffic (Vehicles) Act 2012
-On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Bush Fires Act 1954 amended
-45.Act amended
-This Part amends the Bush Fires Act 1954.
-46.Section 7 amended
-(1) In section 7(1) delete the definitions of:
-Authority
-Chief Executive Officer
-member of the Authority
-the FESA Act
-(2) In section 7(1) insert in alphabetical order:
-Department has the meaning given in the FES Act section 3;
-employed in the Department means employed or engaged in the Department in accordance with the FES Act section 20(1);
-FES Act means the Fire and Emergency Services Act 1998;
-FES Commissioner has the meaning given in the FES Act section 3;
-(3) In section 7(1) in the definition of restricted burning time paragraph (b) delete “situated;” and insert:
-situated.
-47.Section 10 amended
-(1) In section 10(1)(a), (b) and (e) delete “it” and insert:
-the FES Commissioner
-(2) Delete section 10(2)(a).
-Note:The heading to amended section 10 is to read:
-Powers of FES Commissioner
-48.Section 12 replaced
-Delete section 12 and insert:
-12.Bush fire liaison officers
-(1) In this section —
-departmental officer means a person employed in the Department;
-designation means a designation under subsection (2).
-(2) The FES Commissioner may designate a departmental officer to be a bush fire liaison officer.
-(3) There are to be as many bush fire liaison officers as are necessary to perform the functions conferred on bush fire liaison officers by this Act or any other written law.
-(4) A person ceases to be a bush fire liaison officer if the designation of the person is revoked or ceases to have effect.
-(5) The power to make a designation includes —
-(a) the power to revoke a designation previously made; and
-(b) the power to designate a person to perform functions of another person who has that designation when it is impractical for that other person to perform the functions.
-(6) A designation ceases to have effect if the person designated ceases to be a departmental officer.
-(7) These are to be in writing —
-(a) a designation;
-(b) a revocation of a designation.
-49.Section 14B amended
-(1) In section 14B(2) after “authorised person” insert:
-or a member of the Police Force
-(2) In section 14B(4) delete “officer” and insert:
-officer, a member of the Police Force
-Note:The heading to amended section 14B is to read:
-Powers of authorised persons and police officers during authorised periods
-50.Section 14 amended
-In section 14(1):
-(a) delete “A member of the Authority, an officer who is authorised by the Authority” and insert:
-A person employed in the Department who is authorised by the FES Commissioner
-(b) after “control officer,” insert:
-designated or
-Note:The heading to amended section 14 is to read:
-Certain persons may enter land or building for purposes of Act
-51.Section 17 amended
-(1) In section 17(4) delete “it thinks” (each occurrence) and insert:
-the FES Commissioner thinks
-(2) In section 17(5) delete “appointed by it” and insert:
-employed in the Department
-52.Section 22C amended
-In section 22C(1):
-(a) delete “Chief Executive Officer that,” and insert:
-FES Commissioner that,
-(b) delete “Chief Executive Officer,” and insert:
-FES Commissioner,
-53.Section 24B amended
-In section 24B(1) delete “An officer of the Authority authorised by the Authority” and insert:
-A person employed in the Department authorised by the FES Commissioner
-54.Section 24E amended
-In section 24E(2) delete “Chief Executive Officer” and insert:
-FES Commissioner
-55.Section 24G amended
-In section 24G(1) delete “Chief Executive Officer” and insert:
-FES Commissioner
-56.Section 25A amended
-In section 25A(1):
-(a) delete “Chief Executive Officer that,” and insert:
-FES Commissioner that,
-(b) delete “Chief Executive Officer,” and insert:
-FES Commissioner,
-57.Section 27B amended
-(1) In section 27B(1) delete “member, employee or agent, of the Authority, or” and insert:
-person employed in the Department, an agent of the FES Commissioner or an employee or agent
-(2) In section 27B(2) delete “authority,” and insert:
-FES Commissioner, local government,
-58.Section 28 amended
-(1) In section 28(4) delete “Authority,” and insert:
-State,
-(2) In section 28(5) delete “Authority,” and insert:
-FES Commissioner (on behalf of the State),
-59.Section 35 amended
-(1) In section 35(2) delete “Authority may by its servants or agents” and insert:
-FES Commissioner may authorise persons employed in the Department or agents of the FES Commissioner to
-(2) In section 35(3) delete “on it” and insert:
-on the FES Commissioner
-(3) Delete section 35(3B) and insert:
-(3B) A certificate signed by the FES Commissioner is evidence of the amount referred to in subsection (3), and the FES Commissioner may recover the amount in a court of competent jurisdiction as a debt due to the State from the local government or from the owner or occupier of the land in respect of which the notice has been given, as the FES Commissioner may at the FES Commissioner’s option elect.
-(4) In section 35(5) delete “it deems” and insert:
-the FES Commissioner deems
-(5) In section 35(6):
-(a) delete “Authority” (first occurrence) and insert:
-FES Commissioner
-(b) delete “Authority.” and insert:
-State.
-Note:The heading to amended section 35 is to read:
-Powers of FES Commissioner on default by local government
-60.Section 38 amended
-In section 38(2D) delete “Authority may appoint a person who is not a member of staff (as defined in the FESA Act)” and insert:
-FES Commissioner may appoint a person who is not employed in the Department
-61.Section 38A amended
-(1) In section 38A(1) delete “Authority may appoint a member of staff (as defined in the FESA Act) to be” and insert:
-FES Commissioner may designate a person employed in the Department as
-(2) In section 38A(2) delete “appointed” and insert:
-designated
-(3) In section 38A(3) and (4) delete “appointed under this section” and insert:
-designated under this section
-Note:The heading to amended section 38A is to read:
-FES Commissioner may designate person employed in Department as Chief Bush Fire Control Officer
-62.Section 39 amended
-In section 39(1)(a) delete “Director of Operations” and insert:
-FES Commissioner
-63.Section 51 amended
-In section 51(3) delete “FESA Act.” and insert:
-FES Act.
-64.Section 55 deleted
-Delete section 55.
-65.Section 56 amended
-In section 56(1)(a) and (2):
-(a) delete “member of the Authority, an officer of the Authority,” and insert:
-person employed in the Department for the purposes of this Act,
-(b) after “appointed” insert:
-or designated
-66.Section 57 amended
-In section 57:
-(a) delete “member of the Authority, or an officer of the Authority,” and insert:
-person employed in the Department for the purposes of this Act,
-(b) after “appointed” insert:
-or designated
-67.Section 59 amended
-In section 59(1) delete “member of the Authority, an officer of the Authority,” and insert:
-person employed in the Department for the purposes of this Act,
-68.Section 65 amended
-(1) In section 65(1):
-(a) delete paragraph (a);
-(b) in paragraph (c) delete “appointment of an officer of the Authority or” and insert:
-designation or appointment of a person employed in the Department or of an officer
-(2) In section 65(2):
-(a) in paragraph (b) delete “under the seal of the Authority;” and insert:
-by the FES Commissioner; or
-(b) in paragraph (c) after “appointment” insert:
-or designation
-(c) in paragraph (c) delete “Chief Executive Officer; or” and insert:
-FES Commissioner; or
-(d) after “due appointment” insert:
-or designation
-(3) In section 65(2) after paragraph (a) insert:
-or
-69.Various references to “Authority” amended
-In the provisions listed in the Table delete “Authority” (each occurrence) and insert:
-FES Commissioner
-Table
-s. 7(1) def. of restricted burning times | s. 10(1) and (2)
-s. 13(1), (2), (4) and (5) | s. 14B def. of authorisation
-s. 14C(3) | s. 17(4), (5), (6), (8)(a)(ii) and (b) and (9)
-s. 18(2) and (4a) | s. 27B(2)
-s. 27C(1) and (2) | s. 34(1a)
-s. 35(1), (3), (4) and (5) | s. 38(2C), (2E), (6), (7) and (13)
-s. 38A(4)(b) | s. 41(2a)
-s. 45A(2)(a)(i) | s. 45(7)(a)
-s. 50(2)(b) | s. 54
-s. 58(3A)
-Note:The heading to amended section 18 is to read:
-Restricted burning times may be declared by FES Commissioner
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 adjoining7(1)
 affected area14B(1)
-approved local government38(6)(a)
+approved local government38(6)
 area of the State21
 authorisation14B(1)
 authorised CALM Act officer7(1)
 authorised period14B(1)
 authorised person13(6), 14B(1)
-Authority7(1)
 burn garden refuse24C
 bush7(1)
 bush fire35A
 bush fire brigade7(1)
-bush fire officer45A(1)(a), 45(1)
+bush fire officer45A(1), 45(1)
 CALM Act45(1)
 CALM Act CEO7(1)
 CALM Act Department7(1)
-Chief Executive Officer7(1)
 common boundary22(1)
 conservation land9, 45(1)
 crop53(3)
+Department7(1)
+departmental officer12(1)
+designation12(1)
+employed in the Department7(1)
 exempt land22(1)
+FES Act7(1)
+FES Commissioner7(1)
 forest land7(1)
 incendiary material27D(1)
 infringement notice59A(2)
 land other than conservation land9, 45(1)
 limited burning times24C
 loss or damage35A
-member of the Authority7(1)
 normal brigade activities35A
 occupier of land7(1)
 owner or occupier of land33(9)
 plant26(5)
 prescribed amount37(6)
-prescribed condition18(5)(d)
+prescribed condition18(5D)
 prohibited burning times7(1)
 property32(1)
 prosecutor59A(1)
 publish17(9)
+relevant body58(3A)
 relevant bush fire14B(1)
 restricted burning times7(1)
 rubbish tip24C
 specified24C
 specified injury37(6)
-the FESA Act7(1)
 total fire ban21
 volunteer fire fighter35A

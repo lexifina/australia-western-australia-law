@@ -20,10 +20,10 @@ Curriculum Council Amendment Act 2011 Pt. 3 Div. 2 | 37 of 2011 | 13 Sep 2011 | 
 Metropolitan Redevelopment Authority Act 2011 s. 138 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Agricultural Practices (Disputes) Repeal Act 2011 s. 5 | 54 of 2011 | 9 Nov 2011 | 7 Dec 2011 (see note under s. 1)
 Reprint 2: The Financial Management Act 2006 as at 8 Jun 2012 (includes amendments listed above)
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 7 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 7 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 Water Services Legislation Amendment and Repeal Act 2012 s. 212 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 The Real Estate and Business Agents Supervisory Board was abolished on 1 Jul 2011. The Real Estate and Business Agents Act 1978 s. 149 and 150 read as follows:
@@ -37,12 +37,7 @@ Subject to sections 132 and 133, at the beginning of the commencement day, the f
 126.References to the former Board
 If in a written law or other document or instrument there is a reference to the former Board, that reference may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
 The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 7 had not come into operation. It reads as follows:
-Division 7 — Financial Management Act 2006 amended
-124.Act amended
-This Division amends the Financial Management Act 2006.
-125.Schedule 1 amended
-In Schedule 1 delete “Fire and Emergency Services Authority of Western Australia”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 212 had not come into operation. It reads as follows:
 212.Financial Management Act 2006 amended
 (1) This section amends the Financial Management Act 2006.

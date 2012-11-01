@@ -39,20 +39,14 @@ Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Industrial Legislation Amendment Act 2011 Pt. 6 | 53 of 2011 | 11 Nov 2011 | 1 Apr 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1246)
 Reprint 5: The Litter Act 1979 as at 11 May 2012 (includes amendments listed above)
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 8 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 8 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 Litter Amendment Act 2012 s. 3-13 | 30 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Associations Incorporation Act 1987.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 8 had not come into operation. It reads as follows:
-Division 8 — Litter Act 1979 amended
-126.Act amended
-This Division amends the Litter Act 1979.
-127.Third Schedule amended
-In the Third Schedule in column 2 delete “Fire and Emergency Services Authority of Western Australia” and insert:
-The FES Commissioner as defined in the Fire and Emergency Services Act 1998 section 3
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Litter Amendment Act 2012 s. 3-13 had not come into operation. They read as follows:
 3.Act amended
 This Act amends the Litter Act 1979.

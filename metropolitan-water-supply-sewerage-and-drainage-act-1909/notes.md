@@ -70,10 +70,10 @@ Water Resources Legislation Amendment Act 2007 Pt. 4 | 38 of 2007 | 21 Dec 2007 
 Standardisation of Formatting Act 2010 s. 22, 42(3), 47 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 10: The Metropolitan Water Supply, Sewerage, and Drainage Act 1909 as at 10 Jun 2011 (includes amendments listed above)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 3 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 9 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 9 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 Water Services Legislation Amendment and Repeal Act 2012 Pt. 4 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The short title of the Water Authority Act 1984 was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995.
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 5 and 8.
@@ -85,22 +85,7 @@ The Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 50(2) reads as f
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 32 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 9 had not come into operation. It reads as follows:
-Division 9 — Metropolitan Water Supply, Sewerage, and Drainage Act 1909 amended
-128.Act amended
-This Division amends the Metropolitan Water Supply, Sewerage, and Drainage Act 1909.
-129.Section 45 amended
-(1) In section 45(1) delete the definition of Authority.
-(2) In section 45(1) insert in alphabetical order:
-FES Commissioner has the meaning given in the Fire and Emergency Services Act 1998 section 3;
-(3) In section 45(3) and (7) delete “Authority” (each occurrence) and insert:
-FES Commissioner
-(4) In section 45(9) delete “Authority or the local government to whom the statement is rendered” and insert:
-State or the local government, according to whether the statement is rendered to the FES Commissioner or the local government,
-(5) In section 45(10)(a) delete “Authority” and insert:
-Minister responsible for the administration of the Fire and Emergency Services Act 1998
-(6) In section 45(11)(a) delete “Authority” and insert:
-FES Commissioner
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 Pt. 4 had not come into operation. It reads as follows:
 Part 4 — Metropolitan Water Supply, Sewerage, and Drainage Act 1909 amended
 31.Act amended
@@ -194,11 +179,11 @@ Defined TermProvision(s)
 aquifer5(1)
 Area5(1)
 artesian bore5(1)
-Authority45(1)
 catchment area5(1)
 CEO5(1)
 Corporation5(1)
 Department5(1)
+FES Commissioner45(1)
 fire district45(1)
 fire hydrant45(1)
 former Authority5(1)

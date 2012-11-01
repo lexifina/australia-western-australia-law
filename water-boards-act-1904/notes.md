@@ -60,10 +60,10 @@ Reprint 6: The Water Boards Act 1904 as at 14 May 2010 (includes amendments list
  | Standardisation of Formatting Act 2010 s. 40, 44(2) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
  | Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+ | Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 17 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 17 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 Water Services Legislation Amendment and Repeal Act 2012 s. 201(a) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The Water Boards Act Amendment Act 1918 and the Water Boards Act Amendment Act 1928 which were to be read as one with this Act were repealed by the Acts Amendment and Repeal (Water Authorities) Act 1985 s. 361.
 Section 48A and the Second Schedule were inserted by No. 73 of 1954 s. 5 and 8.
@@ -83,29 +83,7 @@ Water Board means a Water Board constituted under the WB Act.
 (2) If advice has been given under the WB Act section 87(7) before the commencement day, on or after the commencement day the advice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
 (3) If a Water Board receives, before the commencement day, a notice in accordance with the WB Act section 88(1) (as in force when the notice was received by the Water Board) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Water Board must refer the relevant entry in the rating records to the State Administrative Tribunal for a review as if the notice were a notice served on the Water Board under the WB Act section 88(1).
 (4) If a Water Board receives, before the commencement day, a notice in accordance with the WB Act section 89(1) (as in force when the notice was received by the Water Board) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Water Board must refer the decision to refuse to extend time to the State Administrative Tribunal for a review as if the notice were a notice served on the Water Board under the WB Act section 89(1).
-On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 17 had not come into operation. It reads as follows:
-Division 17 — Water Boards Act 1904 amended
-146.Act amended
-This Division amends the Water Boards Act 1904.
-147.Section 63 amended
-(1) In section 63(1) delete the definition of Authority.
-(2) In section 63(1) insert in alphabetical order:
-FES Commissioner has the meaning given in the Fire and Emergency Services Act 1998 section 3;
-(3) In section 63(3) and (7) delete “Authority” (each occurrence) and insert:
-FES Commissioner
-(4) In section 63(9) delete “Authority or the local government to whom the statement is rendered” and insert:
-State or the local government, according to whether the statement is rendered to the FES Commissioner or the local government,
-(5) In section 63(10)(a) delete “Authority” and insert:
-Minister responsible for the administration of the Fire and Emergency Services Act 1998
-(6) In section 63(11)(a) delete “Authority” and insert:
-FES Commissioner
-(7) In section 63(15):
-(a) delete “Authority” (first occurrence) and insert:
-Minister referred to in that subsection
-(b) delete “Authority” (second occurrence) and insert:
-FES Commissioner
-(c) delete “as the case may be, in which the property in the fire hydrant is vested” and insert:
-according to whether the property in the fire hydrant is vested in the Minister referred to in subsection (10) or the local government,
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 201(a) had not come into operation. It reads as follows:
 201.Water boards legislation repealed
 These written laws are repealed:
@@ -118,7 +96,6 @@ alleged offence162(1)
 alleged offender162(1)
 authorised3(1)
 authorised person162(1)
-Authority63(1)
 board3(1)
 by-laws3(1)
 chairman3(1)
@@ -129,6 +106,7 @@ deferred amount62C(10)
 designated person162(1)
 developer62C(10)
 district3(1)
+FES Commissioner63(1)
 Fire Brigades Act63(1)
 fire district63(1)
 fire hydrant63(1)

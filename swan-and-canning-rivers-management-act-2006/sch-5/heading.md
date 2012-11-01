@@ -6,7 +6,7 @@
 (c) the Conservation and Land Management Act 1984;
 [(d)deleted]
 (e) the Environmental Protection Act 1986;
-(f) the Fire and Emergency Services Authority of Western Australia Act 1998;
+(f) the Fire and Emergency Services Act 1998;
 (g) the Fish Resources Management Act 1994;
 (h) the Forest Products Act 2000;
 (i) the Health Act 1911;
@@ -37,8 +37,7 @@
 [2.deleted]
 3.The Conservation Commission established under the Conservation and Land Management Act 1984.
 4.The Marine Parks and Reserves Authority established under the Conservation and Land Management Act 1984.
-[5.deleted]
-6.The Fire and Emergency Services Authority of Western Australia established under the Fire and Emergency Services Authority of Western Australia Act 1998.
+[5, 6.deleted]
 7.The Forest Products Commission established under the Forest Products Act 2000.
 8.A local government or commissioner appointed under the Local Government Act 1995 to administer that local government.
 9.The Commissioner of Main Roads appointed under the Main Roads Act 1930.
@@ -52,4 +51,4 @@
 17.The holder of a licence under the Electricity Industry Act 2004.
 18.The holder of a distribution licence under the Energy Coordination Act 1994.
 19.Any decision-making authority as defined in the Environmental Protection Act 1986 section 3.
-[Schedule 5 amended by No. 45 of 2011 s. 144(17) and (18).]
+[Schedule 5 amended by No. 45 of 2011 s. 144(17) and (18); No. 22 of 2012 s. 143.]

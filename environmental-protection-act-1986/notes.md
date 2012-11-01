@@ -51,12 +51,12 @@ Environmental Protection Amendment Act 2010 | 48 of 2010 | 24 Nov 2010 | s. 1 an
 Reprint 7: The Environmental Protection Act 1986 as at 11 Feb 2011 (includes amendments listed above)
 Metropolitan Redevelopment Authority Act 2011 s. 137 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Agricultural Practices (Disputes) Repeal Act 2011 s. 4 | 54 of 2011 | 9 Nov 2011 | 7 Dec 2011 (see note under s. 1)
+Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 6 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(3)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 20 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 6 | 22 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 2(b))
 Water Services Legislation Amendment and Repeal Act 2012 s. 211 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
@@ -125,13 +125,7 @@ Road Traffic (Administration) Act 2008 section 4;
 as defined in the Road Traffic (Administration) Act 2008 section 4, has the meaning given by section 5 of that Act; or
 (4) In section 3(1) in the definition of road delete “Road Traffic Act 1974;” and insert:
 Road Traffic (Administration) Act 2008 section 4;
-On the date as at which this compilation was prepared, the Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 6 had not come into operation. It reads as follows:
-Division 6 — Environmental Protection Act 1986 amended
-122.Act amended
-This Division amends the Environmental Protection Act 1986.
-123.Schedule 6 amended
-In Schedule 6 item 12 delete “Fire and Emergency Services Authority of Western Australia established under the Fire and Emergency Services Authority of Western Australia Act 1998.” and insert:
-FES Commissioner as defined in the Fire and Emergency Services Act 1998 section 3.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 211 had not come into operation. It reads as follows:
 211.Environmental Protection Act 1986 amended
 (1) This section amends the Environmental Protection Act 1986.
