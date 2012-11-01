@@ -29,6 +29,7 @@ Fire and Emergency Services (Superannuation Fund) Amendment Regulations (No. 2) 
 Reprint 3: The Fire and Emergency Services (Superannuation Fund) Regulations 1986 as at 11 Jan 2008 (includes amendments listed above)
 Fire and Emergency Services (Superannuation Fund) Amendment Regulations 2008 | 1 Apr 2008 p. 1271-9 | r. 1 and 2: 1 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2008 (see r. 2(b))
 Fire and Emergency Services (Superannuation Fund) Amendment Regulations 2009 | 21 Aug 2009 p. 3267-70 | r. 1 and 2: 21 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Aug 2009 (see r. 2(b))
+Fire and Emergency Services (Superannuation Fund) Amendment Regulations (No. 2) 2012 | 31 Oct 2012 p. 5245-9 | r. 1 and 2: 31 Oct 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2012 (see r. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Now known as the Fire and Emergency Services (Superannuation Fund) Regulations 1986; citation changed (see note under r. 1).
 The Fire Brigades (Superannuation Fund) Amendment Regulations 1988 r. 5 reads as follows:
 “
@@ -54,10 +55,9 @@ complying superannuation fund3(1), 21B(5)
 complying superannuation scheme3(1)
 death benefit3(1)
 effect42(4)
+eligible FES employee3A
 employer16(1)
 employment12(4)
-FESA Act3(1)
-Fire Brigades Board employee10(2)
 GES member11(6)
 instalment benefit3(1)
 insurance16D(3)
