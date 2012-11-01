@@ -83,6 +83,7 @@ Fire Brigades Amendment Regulations 1998 | 22 Dec 1998 p. 6844-9 | 1 Jan 1999 (s
 Fire Brigades Amendment Regulations 2003 | 16 May 2003 p. 1723-57 | 16 May 2003
 Reprint 4: The Fire Brigades Regulations 1943 as at 26 Sep 2003 (includes amendments listed above)
 Fire Brigades Amendment Regulations 2009 | 31 Mar 2009 p. 1025-7 | r. 1 and 2: 31 Mar 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2009 (see r. 2(b))
+Fire Brigades Amendment Regulations (No. 2) 2012 | 31 Oct 2012 p. 5233-44 | r. 1 and 2: 31 Oct 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2012 (see r. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Headings preceding groups of regulations were repealed by the Fire Brigades Amendment Regulations 1989. Regulation 2 of those regulations reads as follows:
 “
 2.Headings deleted
@@ -117,3 +118,4 @@ has been started but not completed, the former regulations continue in operation
 former regulations means the Fire Brigades Regulations 1943, as in force immediately before the commencement of these regulations.
 ”.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
+The Fire Brigades Amendment Regulations (No. 2) 2012 regulation 28 stated as follows: Delete the Schedule.
