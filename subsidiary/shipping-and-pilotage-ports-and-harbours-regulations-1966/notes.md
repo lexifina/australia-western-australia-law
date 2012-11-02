@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Shipping and Pilotage (Ports and Harbours) Regulations 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 2 November 2012 of the Shipping and Pilotage (Ports and Harbours) Regulations 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Ports and Harbours Regulations | 3 Feb 1966 p. 277-92 | 3 Feb 1966
@@ -88,7 +88,9 @@ Shipping and Pilotage (Ports and Harbours) Amendment Regulations 2011 | 21 Jun 2
 Shipping and Pilotage (Ports and Harbours) Amendment Regulations (No. 4) 2011 | 30 Nov 2011 p. 4983-4 | r. 1 and 2: 30 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2011 (see r. 2(b))
 Shipping and Pilotage (Ports and Harbours) Amendment Regulations (No. 2) 2012 | 15 Jun 2012 p. 2521-2 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Shipping and Pilotage (Ports and Harbours) Amendment Regulations 2012 | 15 Jun 2012 p. 2526-7 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
-Repealed by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. That Act was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
+Reprint 5: The Shipping and Pilotage (Ports and Harbours) Regulations 1966 as at 2 Nov 2012 (includes amendments listed above)
+Repealed by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. That Act was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth.)
+The Shipping and Pilotage Amendment Act 2006 s. 10 commenced on 4 June 2010.
 Citation was initially the Ports and Harbours Regulations and was subsequently changed to the Ports and Harbours Regulations 1966 and then to the Shipping and Pilotage (Ports and Harbours) Regulations 1966 (see note under r. 1).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -111,7 +113,7 @@ master4
 oil vessel30
 owner4
 passenger4
-reviewable decision91
+reviewable decision9I(1)
 subject port4
 surveyor4
 tonnage4
