@@ -100,6 +100,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Electoral Amendment Act 2012 s. 3 and Pt. 2-6 | 35 of 2012 | 5 Nov 2012 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 15.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as a reference to the Public Sector Management Act 1994.
@@ -134,6 +135,241 @@ Act | Provision
 ……………………….. | …….
 Electoral Act 1907 | s. 5E(2)
 ……………………….. | …….
+On the date as at which this compilation was prepared, the Electoral Amendment Act 2012 s. 3 and Pt. 2-6 had not come into operation. They read as follows:
+3.Act amended
+This Act, other than Part 7, amends the Electoral Act 1907.
+Part 2 — Forms and electronic transmission of certain documents
+4.Section 4 amended
+In section 4(1) insert in alphabetical order:
+approved form means a form that —
+(a)is approved by the Electoral Commissioner; and
+(b)has been published by the Electoral Commissioner by any means (including on an internet site maintained by the Electoral Commissioner) that the Electoral Commissioner thinks fit;
+5.Section 175 amended
+In section 175 delete the definition of approved.
+6.Section 211A inserted
+After section 210 insert:
+211A.Certain documents may be transmitted electronically
+(1) In this section —
+certain document means a claim, nomination, application, notice, objection or other communication that is required or permitted to be transmitted to the Electoral Commissioner or any other officer under —
+(a) Part IIIA, IV or VI; or
+(b) any other provision of the Act as is prescribed;
+transmitted includes sent, given, made, forwarded by post, delivered to or lodged with.
+(2) If the Electoral Commissioner has established procedures for the electronic transmission and recording of data for certain documents, or a case or class of cases of such documents then, despite anything else in this Act, a document transmitted in accordance with those procedures is to be taken to be transmitted under this Act.
+(3) If, under this Act, a certain document is required to be signed by a person, then, despite anything else in this Act, that requirement is to be taken to be satisfied in respect of an electronically transmitted document if procedures established under subsection (2) by the Electoral Commissioner include a method to be used to —
+(a) identify the person transmitting the document; and
+(b) indicate the person’s intention in respect of the information communicated in the document,
+and that method is complied with.
+7.Various references to “form” amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+s. 62E(4) | a form approved by the Electoral Commissioner for the purposes of this section, | an approved form
+s. 62K(2) | the form and way | an approved form and in a way
+s. 78(1) | a form approved by the Electoral Commissioner, | an approved form
+s. 80(1) | a form approved by the Electoral Commissioner | an approved form
+s. 80(3) | a form approved by the Electoral Commissioner | an approved form
+s. 113C(3)(a) | a form approved by the Electoral Commissioner | an approved form
+s. 113C(7)(a) | a form approved by the Electoral Commissioner | an approved form
+Part 3 — Claims and nominations
+Division 1 — Claims
+8.Section 42 amended
+(1) In section 42:
+(a) delete “A claim —” and insert:
+(1) A claim —
+(b) delete paragraph (b) and insert:
+(b) shall be signed by the claimant; and
+(ca) shall include or be accompanied by such evidence of identity as is required under the Commonwealth Electoral Act 1918 section 98AA(2) in relation to an application or claim to which that section applies; and
+(2) At the end of section 42 insert:
+(2) Despite subsection (1)(b), if —
+(a) the claimant is already enrolled; and
+(b) the claimant’s name is still the same as the name under which the claimant is enrolled,
+the requirement that the claim be signed is to be taken to be satisfied if the claimant instead satisfies the requirements to be satisfied in respect of a claim under the Commonwealth Electoral Act 1918 section 382(7).
+(3) In section 42 after paragraph (a) insert:
+and
+9.Section 43 inserted
+Before section 44 insert:
+43.Claims of certain Commonwealth electors to be taken to be in order
+(1) In this section —
+claim means a claim made —
+(a) on or after 21 November 2006; but
+(b) before commencement day;
+commencement day means the day on which the Electoral Amendment Act 2012 Part 3 Division 1 comes into operation;
+Commonwealth elector means a person enrolled under the Commonwealth Electoral Act 1918 in respect of an address in a Commonwealth subdivision in the State;
+in order means in order for the purposes of section 44A.
+(2) If a claimant —
+(a) is a Commonwealth elector on commencement day; and
+(b) made a claim that was rejected as not in order,
+then, on and after commencement day, the claim is to be taken to be in order if the claim would have been in order had it been made on commencement day.
+10.Section 44 amended
+(1) In section 44(1):
+(a) in paragraph (e) delete “handwriting; and” and insert:
+handwriting.
+(b) delete paragraph (f).
+(2) Delete section 44(4)(b) and insert:
+(b) a person who may attest as to the claimant’s identity under the Commonwealth Electoral Act 1918 section 98AA(2)(c), as read with section 42(1)(ca), certifies in writing that he or she is satisfied that the claimant is not under 18 years of age,
+(3) In section 44(1) after each of paragraphs (a) to (d) insert:
+and
+11.Section 44A amended
+In section 44A(1) after “sections 42(b)” insert:
+and (ca)
+Division 2 — Nominations
+12.Section 78 amended
+After section 78(1) insert:
+(2A) Despite subsection (1)(b), the place of residence of a candidate is not required to be stated on the nomination form if the candidate’s residence is not shown on the roll because a request under section 51B has been granted.
+13.Section 80 amended
+(1) After section 80(1) insert:
+(2A) A claim may be made under subsection (1) on behalf of a group —
+(a) where all the candidates in the group are the subject of a party nomination, under section 81A, by a particular registered political party — by the secretary of the party; or
+(b) where the candidates in the group have been endorsed by different registered political parties — jointly by the secretaries of all of those parties.
+(2) In section 80(3) delete “candidates who have made a claim” and insert:
+candidates, or a secretary of a political party, or the secretaries of political parties, by whom a claim has been made,
+14.Section 81 amended
+In section 81(1)(b):
+(a) delete “money or” and insert:
+money,
+(b) delete “Commissioner.” and insert:
+Commissioner or in such other manner as may be prescribed.
+15.Section 81A amended
+In section 81A(2)(c):
+(a) delete “money or” and insert:
+money,
+(b) delete “Commissioner.” and insert:
+Commissioner or in such other manner as may be prescribed under that section.
+16.Section 86 amended
+After section 86(2) insert:
+(2AAA) Despite subsection (2), the returning officer must not declare a candidate’s residence if the candidate’s residence is not shown on the roll because a request under section 51B has been granted.
+17.Section 87 amended
+After section 87(3) insert:
+(4A) Despite subsection (3), the returning officer must not declare a candidate’s residence if the candidate’s residence is not shown on the roll because a request under section 51B has been granted.
+Part 4 — Voting
+18.Section 90 amended
+In section 90(5)(a) delete “Thursday” and insert:
+Wednesday
+19.Section 92 amended
+(1) In section 92(4a)(a) delete “Tuesday” and insert:
+Thursday
+(2) Delete section 92(4c) and insert:
+(4C) For the purpose of subsection (2)(f), an envelope addressed to the Electoral Commissioner containing a ballot paper is to be taken to have been posted before the close of the poll if —
+(a) the postmark on the envelope is dated any day on or before polling day; or
+(b) the postmark on the envelope is dated with the date of the Sunday immediately after polling day and the declaration is witnessed on or before polling day; or
+(c) in the case of no postmark being legible, the declaration is witnessed on or before polling day,
+and the envelope reaches the Electoral Commissioner before 9 a.m. on the Thursday next succeeding polling day.
+20.Section 93 amended
+In section 93(1):
+(a) in paragraph (aa) delete “person who is” and insert:
+person who is permanently disabled,
+(b) in paragraph (d) delete “section 17A(2),” and insert:
+section 17A(2); or
+(c) after paragraph (d) insert:
+(e) who has reached the age of 70 years; or
+(f) who is seriously ill or infirm,
+21.Section 113A amended
+After section 113A(2) insert:
+(3A) A voting ticket may also be lodged under subsection (1) on behalf of a group —
+(a) where all the candidates in the group are the subject of a party nomination, under section 81A, by a particular registered political party — by the secretary of the party; or
+(b) where the candidates in the group have been endorsed by different registered political parties — jointly by the secretaries of all of those parties.
+22.Section 115 amended
+In section 115(1) delete “appointed under section 129(1)(b) to be present while an elector’s ballot paper is marked,” and insert:
+nominated under section 129(1) to mark an elector’s ballot paper according to the directions of the elector,
+23.Section 151 amended
+In section 151:
+(a) in paragraph (b) delete “Clerk of the Council or the Clerk of the Assembly, as the case may be;” and insert:
+Electoral Commissioner;
+(b) in paragraph (c) delete “same Clerk” and insert:
+Electoral Commissioner
+(c) in paragraph (e) delete “the Clerk of the Council, the Clerk of the Assembly, or the Electoral Commissioner, as the case may be,” and insert:
+the Electoral Commissioner
+Note:The heading to amended section 151 is to read:
+Returning officer to send election papers to Electoral Commissioner
+24.Section 152 amended
+(1) In section 152:
+(a) delete “The Clerk of the Council and the Clerk of the Assembly” and insert:
+(1) The Electoral Commissioner
+(b) after “ballot papers” (second occurrence) insert:
+and other documents
+(2) At the end of section 152 insert:
+(2) If the Electoral Commissioner has consented to the use, for the purposes of research or analysis, of any ballot papers or other documents that are liable to be destroyed under subsection (1), then the Electoral Commissioner may defer their destruction until the conclusion of that research or analysis.
+25.Section 154 amended
+(1) In section 154(1) delete “Clerk of the Council or the Clerk of the Assembly.” and insert:
+Electoral Commissioner.
+(2) Delete section 154(2) and (3) and insert:
+(2) Ballot papers or other documents held by the Electoral Commissioner under section 152 shall not be used or made available for any purpose other than —
+(a) a purpose mentioned in subsection (1); or
+(b) for the purposes of the election of a member of the Council under sections 156C and 156D; or
+(c) a purpose mentioned in section 152.
+26.Section 156D amended
+In section 156D(12) delete “retain” and insert:
+not destroy
+Part 5 — Infringement and penalty notices
+27.Section 155AB inserted
+At the beginning of Part IV Division (7) insert:
+155AB.Terms used
+In this Division —
+infringement notice means a notice under section 156(13A);
+penalty notice means a notice under section 156(4);
+prepared means produced or generated and recorded or stored, whether mechanically, magnetically, electronically or otherwise;
+response date, in relation to —
+(a)a penalty notice, means the date referred to in section 156(6)(c) and set out in the notice;
+(b)an infringement notice, means the date referred to in section 156(13A)(b) and set out in the notice.
+28.Section 156 amended
+(1) In section 156(2) delete “prepare, or cause the returning officer to prepare and furnish to the Electoral Commissioner, a list of the names and descriptions” and insert:
+ensure that there is prepared a list of the names and addresses
+(2) In section 156(2a) delete “person by whom it was prepared.” and insert:
+Electoral Commissioner, or a person authorised by the Electoral Commissioner.
+(3) In section 156(6)(c) delete “date set out in the notice (the response date) —” and insert:
+response date set out in the notice —
+(4) Delete section 156(12) and insert:
+(12) Subsection (13A) applies to an elector if a penalty notice is sent to the elector and —
+(a) the elector does not respond to the penalty notice on or before the response date; or
+(b) the elector responds to the penalty notice on or before the response date in the manner indicated in subsection (6)(c)(i) or (ii) but the Electoral Commissioner is not satisfied —
+(i) in the case of a response under subsection (6)(c)(i) — that the elector voted as required by this Act; or
+(ii) in the case of a response under subsection (6)(c)(ii) — that the reason for the failure to vote is a valid and sufficient reason.
+(13A) If this subsection applies to an elector the Electoral Commissioner may send to the elector an infringement notice in a prescribed form —
+(a) notifying the elector —
+(i) that the elector has not responded to a penalty notice; or
+(ii) that the elector’s response to a penalty notice has not satisfied the Electoral Commissioner,
+as the case may be; and
+(b) informing the elector that if the elector does not wish to be prosecuted in a court for an alleged offence of failure to vote at an election without a valid and sufficient reason for such failure, the elector may, on or before the response date set out in the infringement notice, pay to the Electoral Commissioner the penalty set out in the infringement notice (the modified penalty).
+(5) In section 156(13) delete “a notice under subsection (12).” and insert:
+an infringement notice.
+(6) In section 156(14) delete “a notice under subsection (12)” and insert:
+an infringement notice
+(7) In section 156(14a) delete “a notice under subsection (12)” and insert:
+an infringement notice
+(8) Delete section 156(14b).
+(9) In section 156(15)(a) after “notice” insert:
+or an infringement notice
+(10) In section 156(16)(b) delete “a notice under subsection (12)” and insert:
+an infringement notice
+(11) In section 156:
+(a) after each of subsections (5)(a) and (b) and (6)(c)(i) insert:
+or
+(b) after subsection (6)(a) insert:
+and
+29.Section 156AA inserted
+At the end of Part IV Division (7) insert:
+156AA.Evidentiary certificates for section 156 proceedings
+(1) In proceedings for an offence against section 156, a certificate containing a statement described in subsection (2) and purporting to be signed by the Electoral Commissioner is, without proof of any appointment or signature, evidence of the facts stated in the certificate.
+(2) A certificate may state any or all of the following —
+(a) a specified date is the date that an election was held;
+(b) a specified person was an elector on a specified date;
+(c) a specified person did not vote at an election;
+(d) a specified person —
+(i) was sent a penalty notice or an infringement notice;
+(ii) did or did not (as the case may be) respond to a penalty notice or an infringement notice on or by a specified date;
+(iii) responded to a penalty notice or an infringement notice in a specified manner;
+(e) a penalty notice or an infringement notice was sent on a specified date;
+(f) a specified date was the response date for a penalty notice or an infringement notice.
+(3) In subsection (2) —
+specified means specified in the certificate.
+Part 6 — Other amendments
+30.Section 52 amended
+Delete section 52(1)(d).
+31.Section 183 amended
+Delete section 183(5).
+32.Section 208 amended
+In section 208 delete “Without limiting section 31(1) of the Interpretation Act 1918,” and insert:
+Without limiting the Interpretation Act 1984 sections 75 and 76,
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
