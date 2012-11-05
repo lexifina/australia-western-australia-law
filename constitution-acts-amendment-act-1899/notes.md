@@ -275,8 +275,9 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
-Teacher Registration Act 2012 s. 164 | 16 of 2012 | 3 Jul 2012 | To be proclaimed (see s. 2(b))
+Teacher Registration Act 2012 s. 164 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Water Services Legislation Amendment and Repeal Act 2012 s. 208 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+Mining Rehabilitation Fund Act 2012 Pt. 6 | 33 of 2012 | 5 Nov 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
@@ -396,6 +397,12 @@ The board of directors of the Water Corporation established by the Water Corpora
 (3) In Schedule V Part 3 in the item relating to the Plumbers Licensing Board delete “Water Services” and insert:
 Plumbers
 (4) In Schedule V Part 3 delete the item relating to water board constituted under the Water Boards Act 1904.
+On the date as at which this compilation was prepared, the Mining Rehabilitation Fund Act 2012 Pt. 6 had not come into operation. It reads as follows:
+Part 6 — Consequential amendment
+39.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 3 after the item relating to the Mining and Petroleum Advisory Committee insert:
+The Mining Rehabilitation Advisory Panel established by the Mining Rehabilitation Fund Act 2012.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
