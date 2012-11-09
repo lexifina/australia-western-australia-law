@@ -1,4 +1,4 @@
-### 26GZN. CEO not to be concerned with certain matters relating to security interest
+### 26GZN. Notation of security interest, CEO’s functions as to and effect of
 (1) The CEO is not to be concerned with —
 (a) the nature of any security interest that is the subject of an application under section 26GZL; or
 (b) whether or not the person specified in the application as having the security interest actually has that interest.

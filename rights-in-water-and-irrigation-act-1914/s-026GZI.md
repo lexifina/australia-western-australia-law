@@ -1,4 +1,4 @@
-### 26GZI.Register
+### 26GZI. Register, keeping and inspection of etc.
 (1) The CEO is to keep a register of instruments.
 (2) The register may be kept in such form as the CEO thinks fit.
 (3) The register must be available for public inspection, subject to payment of the prescribed fee (if any), during normal office hours at the office or offices of the Department designated by the CEO for the purposes of this subsection.

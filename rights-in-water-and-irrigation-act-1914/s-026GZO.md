@@ -1,11 +1,12 @@
-### 26GZO. Person who has security interest to be notified of certain events
+### 26GZO. Holder of notated security interest to be notified of certain events
 If the register contains a notation made under section 26GZM that a person has a security interest in a licence and —
-(a) the licensee is convicted of an offence against this Act;
+(a) the licensee is convicted of an offence against this Act; or
 (b) application is made to the Minister —
 (i) under clause 23 of Schedule 1 to amend the licence; or
 (ii) under clause 32 of that Schedule for approval of the transfer of the licence or a water entitlement under the licence;
+or
 (c) the Minister proposes —
-(i) not to renew the licence under clause 22 of Schedule 1;
+(i) not to renew the licence under clause 22 of Schedule 1; or
 (ii) to amend the licence under clause 24 of that Schedule; or
 (iii) to cancel or suspend the licence under clause 25 of that Schedule;
 or

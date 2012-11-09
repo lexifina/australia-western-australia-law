@@ -1,4 +1,4 @@
-### 26GZE. Minister to make plan
+### 26GZE. Proposed plan to be given to Water Resources Council; making a proposed plan
 (1) The Minister must give the proposed plan, modified as the Minister thinks fit under section 26GZD, to the Water Resources Council and indicate the time within which the Water Resources Council may submit its report under subsection (3).
 (2) The plan must be accompanied by —
 (a) a summary of all submissions made under section 26GZB and requests made under section 26GZC(4); and

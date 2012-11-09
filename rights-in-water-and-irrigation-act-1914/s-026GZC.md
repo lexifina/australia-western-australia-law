@@ -1,4 +1,4 @@
-### 26GZC. Referral of plan to other bodies
+### 26GZC. Referral of proposed plan to other bodies
 (1) If in the opinion of the Minister the proposed plan may affect the functions of a body that is responsible for the planning for, or management of, a natural resource, the Minister must give the proposed plan to that body.
 (2) The Minister may give the proposed plan to any other body or person the Minister thinks appropriate.
 (3) A plan given under subsection (1) or (2) —
