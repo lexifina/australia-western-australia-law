@@ -1,4 +1,4 @@
-### 26GZQ. Removal or variation of security interest notation
+### 26GZQ. Security interest notation, removal and variation of
 (1) If the register contains a notation that a person has a security interest in a licence, the licensee may apply to the CEO in a form approved by the CEO to —
 (a) remove the notation from the register; or
 (b) vary any details relating to the security interest.
