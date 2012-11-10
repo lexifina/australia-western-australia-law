@@ -9,7 +9,9 @@ Form 32 | WESTERN AUSTRALIA Mining Act 1978 (Sec. 126 Reg. 112)
 (c)Insert details of type number and Mineral Field for the mining tenement or application therefor | (c)
  | is, or will from time to time be subject, and with the provisions of the Mining Act 1978 and regulations thereunder then this security shall be thereby discharged.
  | DATED at this day of 20
-(d)Signature of applicant/holder (e)Signature of witness | Applicant orin the presence of Witness signs here Holder signs here (d)(e)
-O F F I C E U S E |  | Received at ...............................m. on the ................... day of ...................... 20 .................... ........................................................... (Mining Registrar)
+(d)Signature of applicant/ holder (e)Signature, full name and address of witness | Applicant or Holder in the presence of Witness signs here signs here (d) (e)
+OFFICIAL USE
+Received at ................................a.m./p.m. on .................................. 20
+.................................................................... Mining Registrar
 Note 1:A Post Office Box address is not an acceptable residential or business address. A Post Office Box address may be included in addition to the residential or business address.
-[Form 32 amended in Gazette 2 Oct 1987 p. 3836 (erratum in Gazette 6 Nov 1987 p. 4110); 24 Jun 1994 p. 2939; 4 Apr 1997 p. 1780; 17 Jan 2003 p. 114; 15 Jan 2010 p. 132.]
+[Form 32 amended in Gazette 2 Oct 1987 p. 3836 (erratum in Gazette 6 Nov 1987 p. 4110); 24 Jun 1994 p. 2939; 4 Apr 1997 p. 1780; 17 Jan 2003 p. 114; 15 Jan 2010 p. 132; 9 Nov 2012 p. 5444-5.]

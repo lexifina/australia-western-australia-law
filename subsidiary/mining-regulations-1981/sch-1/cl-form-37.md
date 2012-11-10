@@ -17,6 +17,4 @@ Form 37 | WESTERN AUSTRALIA Mining Regulations 1981 (r. 127, 157)
 SEAL OF WARDEN’S COURT / STAMP OF MINING REGISTRAR | Dated at .................................... this ..................................... day of ...................................... 20........
 ............................................................................. Mining Registrar ............................................................................. Mineral Field
 Note 1: A person failing to attend as directed is liable to a fine of $10 000. Note 2: This summons must be served PERSONALLY on the witness (see regulation 127 and 157) and the witness is entitled to an amount sufficient for the purposes of regulation 127(3) or 157(3), as the case requires.
-____________________________________________________________________________ | Received $ ................. Conduct money ........................................... Signature
-ENDORSEMENT This is the document marked “A” referred to in the annexed affidavit of ....................................................................................... sworn before me at .......................................................................... this ................ day of ................................ 20........ ...............................................................
-[Form 37 inserted in Gazette 9 Mar 2007 p. 912-13; amended in Gazette 15 Jan 2010 p. 133.]
+[Form 37 inserted in Gazette 9 Mar 2007 p. 912-13; amended in Gazette 15 Jan 2010 p. 133; 9 Nov 2012 p. 5454.]

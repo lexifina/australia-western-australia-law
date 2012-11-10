@@ -5,8 +5,10 @@ Form 1A | WESTERN AUSTRALIA Mining Act 1978 (Sec. 20A Reg. 4D)
 (b)Number of relevant exploration licence | (b)Exploration Licence No. ...................................................
 (c)Area of Crown land in respect of which permit sought (maximum of 10 blocks) | (c)
 (d)Full name and address of holder of relevant exploration licence | (d)
-(e)Make, model and registration number of vehicle(s) to be used | (e)
+(e)Make, model and registration number of vehicle(s) to be used (including any caravan or trailer) | (e)
 DATED this day of 20
 (f)Signature of applicant(s) | (f).......................................................................................... Applicant 1 .......................................................................................... Applicant 2 .......................................................................................... Applicant 3
-O F F I C E U S E |  | Received at ................................m. on .................................................. with fee of $................................... ........................................................ (Mining Registrar/Customer Service Coordinator, Mineral Titles Division) | Receipt No:
-[Form 1A inserted in Gazette 2 Feb 2001 p. 710-11; amended in Gazette 15 Jan 2010 p. 119.]
+OFFICIAL USE
+Received at ................................a.m./p.m. on .................................. 20..... with fee of $ ................................................................................................
+.................................................................... Mining Registrar
+[Form 1A inserted in Gazette 2 Feb 2001 p. 710-11; amended in Gazette 15 Jan 2010 p. 119; 9 Nov 2012 p. 5417-18.]

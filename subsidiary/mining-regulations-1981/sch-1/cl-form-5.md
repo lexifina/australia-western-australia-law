@@ -36,7 +36,7 @@ Title:
 Combined reporting number for tenement group: | C /
 Combined reporting date for group: | / /
 I certify that the information on pages 1 and 2 and in Attachment 1 “Summary of Mineral-Exploration and/or Mining Activities” or Attachment 2 “Summary of Prospecting and/or Small Scale Mining Activities” constitutes a true statement of the operations carried out and moneys expended on this mining tenement during the reporting period specified.
- | Signature of holder or agent |  | Date: | / /
+Signature of holder or agent (if agent, full name and address of agent) |  | Date: | / /
 (Tick appropriate box and show expenditure. If more than one commodity sought, tick appropriate boxes and allocate expenditure for each one). | MINERAL COMMODITY SOUGHT ON TENEMENT
  |  | Gold | $ |  |  | Diamond | $
  |  | Iron ore | $ |  |  | Mineral Sands | $
@@ -143,4 +143,4 @@ Administration/Overheads/Native Title: | SUBTOTAL (E) | $
 (not to exceed 20% of the minimum expenditure commitment or total expenditure on the activities shown at subheadings (A) & (B), whichever is greater)
 TOTAL EXPENDITURE (add SUBTOTALS A to E) | $
 A copy of this page can be obtained by any person on the payment of the prescribed fee in accordance with regulation 96(3).
-[Form 5 inserted in Gazette 11 Jun 1999 p. 2546-51; amended in Gazette 15 Jan 2010 p. 120-1; 18 Mar 2011 p. 924-5.]
+[Form 5 inserted in Gazette 11 Jun 1999 p. 2546-51; amended in Gazette 15 Jan 2010 p. 120-1; 18 Mar 2011 p. 924-5; 9 Nov 2012 p. 5419.]

@@ -6,7 +6,9 @@ Form 14 *If applicable, add whether the surrender is under section 26A or sectio
 PORTION BEING SURRENDERED (e)
  |  | Area***
 ***In ha/km2 or number of blocks | DATED this day of 20
-(f)Signature of holder (g)Signature of witness | Holders sign in the presence ofWitnesses sign herehere (f)....................................(g)........................................ ............................................................................
+(f)Signature of holder (g)Signature, full name and address of witness | Holders sign here in the presence of Witnesses sign here (f)..........................................(g)........................................... ..................................................................................... .....................................................................................
 LODGING PARTY (h) Full name and address (for return of documents) | (h)
-O F F I C E U S E |  | Received at ................................... on .................................................. with fee of $ ................................. ....................................................... (Mining Registrar)
-[Form 14 inserted in Gazette 31 May 1991 p. 2701-2; amended in Gazette 15 Jan 2010 p. 123.]
+OFFICIAL USE
+Received at ................................a.m./p.m. on .................................. 20..... with fee of $ ................................................................................................
+.................................................................... Mining Registrar
+[Form 14 inserted in Gazette 31 May 1991 p. 2701-2; amended in Gazette 15 Jan 2010 p. 123; 9 Nov 2012 p. 5422-3.]

@@ -17,14 +17,14 @@
 8.Annual rent of retention licence per hectare or part of one hectare |  | 6.70
 9.Application fee for —
 (a)exploration licence —
-(i)one block |  | 282.70
-(ii)more than one block |  | 1 207.90
-(b)general purpose lease |  | 406.05
-(c)mining lease |  | 406.05
-(d)miscellaneous licence |  | 406.05
+(i)one block |  | 307.70
+(ii)more than one block |  | 1 232.90
+(b)general purpose lease |  | 431.05
+(c)mining lease |  | 431.05
+(d)miscellaneous licence |  | 431.05
 (e)permit under section 20A | r. 4D(2) | 25.00
-(f)prospecting licence |  | 267.30
-(g)retention licence |  | 683.60
+(f)prospecting licence |  | 292.30
+(g)retention licence |  | 708.60
 10.Application fee for approval of retention status |  | 257.00
 11.Copy of all or part of document or report (per copy) | r. 25B | 8.20
 12.Copy of —
@@ -69,4 +69,4 @@
 (i)evidence — per page |  | 8.20
 (ii)a judgment, decision or order — per page |  | 1.10
 (f)taxation of bill of costs | $0.05 in each amount of $1.00 on amount of lodged bill (minimum fee $10.00) — however where the lodged bill exceeds $1 000 the fee is reduced to $0.025 in each $1.00 for the excess, plus $50.00
-[Schedule 2 inserted in Gazette 22 Jun 2012 p. 2792-5.]
+[Schedule 2 inserted in Gazette 22 Jun 2012 p. 2792-5; amended in Gazette 9 Nov 2012 p. 5455-6.]

@@ -1,18 +1,21 @@
-### Form 33Plaint
-Form 33 | WESTERN AUSTRALIA Mining Act 1978 (r. 121)
- | PLAINTNo. In the Warden’s Court at
-(a)Name and address of Plaintiff | Plaintiff (a)
- | V
-(b)Name and address of respondent | Respondent (b)
-(c)Nature of the claim | The Plaintiff claims that — (c) and asks —
-(d)Nature of relief sought | (d)
-(e)Signature of Plaintiff | DATED this day of 20 (e).....................................................................................................
- |  | Fees Paid | $ | c
- | Received at ....................................................m. | Plaint (inc.
-O F F I C E U S E | on ......................../ ......................./ .................... with fees as stated. .............................................................................. (Mining Registrar) | Summons and Summons to Witness) Service
-Affidavit
-Kilometrage
- | SEAL OF COURT |  | Copies
-Attendance
-Total
-[Form 33 amended in Gazette 31 May 1991 p. 2706; 9 Mar 2007 p. 906; 15 Jan 2010 p. 132.]
+### Form 33Plaint and Summons
+Form 33 | WESTERN AUSTRALIA Mining Act 1978 (r. 121 and 123(1)(c))
+ | PLAINTNo. In the Warden’s Court at ..............................................................
+(a)Name and address of plaintiff | Plaintiff (a) ................................................................................................. .................................................................................................
+(b)Name and address of respondent | Respondent (b) ................................................................................................ .................................................................................................
+(c)Nature of the claim | The plaintiff claims that — (c) ................................................................................................ ................................................................................................. and asks — .................................................................................
+(d)Nature of relief sought | (d) ................................................................................................ .................................................................................................
+(e)Signature of plaintiff (See Note) | DATED this ......................... day of .......................... 20............. (e) ................................................................................................
+(f)Address for service | (f) ..................................................................................................... .....................................................................................................
+Tel .............................................. | Fax .........................................
+Email ......................................... | Ref (if any) ............................
+OFFICIAL USE
+SUMMONS TO RESPONDENT
+YOU ARE HEREBY REQUIRED TO ATTEND before the Warden’s Court sitting at .............. on the ................. day of .......................... 20..... at .......... a.m./p.m. for a mention hearing.
+TAKE NOTICE YOUR RESPONSE IN THE FORM OF FORM 36 must be filed and served upon the plaintiff within 14 days of service of this plaint.
+ |  | SEAL OF COURT
+Received at ................................a.m./p.m. on .................................. 20 ....... with the prescribed plaint fee.
+.................................................................... Mining Registrar
+Note:If this form is signed by a person who is an employee of the plaintiff, the person must state the person’s full name and the position in which the person is employed.
+[Form 33 inserted in Gazette 9 Nov 2012 p. 5445-6.]
+[Form 34 deleted in Gazette 9 Nov 2012 p. 5446.]
