@@ -10,26 +10,9 @@ Road Traffic (Authorisation to Drive) Amendment Regulations (No. 2) 2011 | 2 Dec
 Road Traffic (Information) Regulations 2011 r. 7 | 2 Dec 2011 p. 5077-81 | 3 Dec 2011 (see r. 2(b))
 Road Traffic (Authorisation to Drive) Amendment Regulations 2012 | 5 Apr 2012 p. 1578-9 | r. 1 and 2: 5 Apr 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Apr 2012 (see r. 2(b))
 Reprint 1: The Road Traffic (Authorisation to Drive) Regulations 2008 as at 24 Aug 2012 (includes amendments listed above)
+Road Traffic (Authorisation to Drive) Amendment Regulations (No. 2) 2012 | 2 Nov 2012 p. 5263-4 | r. 1 and 2: 2 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Nov 2012 (see r. 2(b))
 Road Traffic (Authorisation to Drive) Amendment Regulations (No. 4) 2012 | 2 Nov 2012 p. 5265 | r. 1 and 2: 2 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Nov 2012 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Road Traffic (Authorisation to Drive) Amendment Regulations (No. 2) 2012 r. 3-4 | 2 Nov 2012 p. 5263-4 | 12 Nov 2012 (see r. 2(b))
 The Road Traffic Amendment Act 2006 s. 6 came into force on 30 Jun 2008 (see Gazette 10 Jun 2008 p. 2471).
-On the date as at which this compilation was prepared, the Road Traffic (Authorisation to Drive) Amendment Regulations (No. 2) 2012 r. 3-4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Road Traffic (Authorisation to Drive) Regulations 2008.
-4.Regulation 16 amended
-(1) In regulation 16(2):
-(a) before paragraph (a) insert:
-(aa) driving an appropriate vehicle on a road for at least 25 hours in the course of instruction by —
-(i) a person who holds a licence issued under the Motor Vehicle Drivers Instructors Act 1963; or
-(ii) a person who may give driving instruction under regulation 45(2),
-and making a record of that driving, signed by the person who gave the instruction, in a logbook approved by the Director General; and
-(b) in paragraph (a) delete “after reaching” and insert:
-after recording that driving, and having reached
-(2) After regulation 16(4) insert:
-(5) Subregulation (2)(aa) has effect only in relation to a person who applies for a driver’s licence on or after the day on which the Road Traffic (Authorisation to Drive) Amendment Regulations (No. 2) 2012 regulation 4(1) comes into operation.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
