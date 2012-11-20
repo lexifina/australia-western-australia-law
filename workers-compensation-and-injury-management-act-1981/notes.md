@@ -75,12 +75,56 @@ Workers’ Compensation and Injury Management Amendment Act 2011 | 31 of 2011 | 
 Statutes (Repeals and Minor Amendments) Act 2011 s. 7 and 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 10: The Workers’ Compensation and Injury Management Act 1981 as at 3 Feb 2012 (includes amendments listed above except those in the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 16)
 Workers’ Compensation and Injury Management Amendment Act 2012 | 12 of 2012 | 3 Jul 2012 | Pt. 1: 3 Jul 2012 (see s. 2(a)); Act other than Pt. 1: 1 Aug 2012 (see s. 2(b) and Gazette 27 Jul 2012 p. 3663)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) | 31 of 2011 | 31 Aug 2011 | To be proclaimed (see s. 2(b))
-Footnote no longer applicable.
+Workers’ Compensation and Injury Management Amendment (Jockeys) Act 2012 s. 3-6 | 45 of 2012 | 20 Nov 2012 | 14 Dec 2012 (see s. 2(b) and Gazette 30 Nov 2012 p. 5774)
+On the date as at which this compilation was prepared, the Workers’ Compensation and Injury Management Amendment (Jockeys) Act 2012 s. 3-6 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Workers’ Compensation and Injury Management Act 1981.
+4.Section 11A replaced
+Delete section 11A and insert:
+11A.Jockeys
+(1) In this section —
+licensed facility means a place licensed as —
+(a)a racecourse; or
+(b)a training track; or
+(c)a trial track,
+under the Racing and Wagering Western Australia Act 2003;
+licensed jockey means a person licensed as a jockey under the Racing and Wagering Western Australia Act 2003;
+licensed trainer means a person licensed as a trainer of thoroughbred racing horses under the Racing and Wagering Western Australia Act 2003;
+registered club means a racing club registered under the Racing and Wagering Western Australia Act 2003;
+relevant day means the day on which the Workers’ Compensation and Injury Management Amendment (Jockeys) Act 2012 section 4 comes into operation.
+(2) Notwithstanding section 11, for the purposes of this Act worker includes a licensed jockey who —
+(a) is riding a horse in any race run under the management of a registered club; or
+(b) is engaged —
+(i) in riding work; or
+(ii) in carrying out the usual duties of a jockey,
+at a licensed facility for a licensed trainer; or
+(c) although not coming within paragraph (a) or (b), is engaged —
+(i) in riding work; or
+(ii) in carrying out the usual duties of a jockey,
+for a licensed trainer.
+(3) For the purposes of this Act, the employer of a worker referred to in subsection (2) is taken to be —
+(a) in the case of a worker referred to in subsection (2)(a) or (b), Racing and Wagering Western Australia; and
+(b) in the case of a worker referred to in subsection (2)(c) —
+(i) with respect to injuries occurring before the relevant day, Racing and Wagering Western Australia; and
+(ii) with respect to injuries occurring on or after the relevant day, the licensed trainer for whom the worker is engaged.
+5.Section 159 amended
+In section 159 in the definition of deemed worker:
+(a) in paragraph (b) delete “section 175AA(5)(a);” and insert:
+section 175AA(5)(a); and
+(b) after paragraph (b) insert:
+(c)where the employer is Racing and Wagering Western Australia, a person of whom Racing and Wagering Western Australia would not be the employer but for section 11A(3);
+6.Schedule 1 amended
+After Schedule 1 clause 15 insert:
+16A.Weekly earnings of jockeys
+(1) In this clause —
+jockey means a person who is included as a worker by section 11A(2);
+relevant Commonwealth award, with respect to an injury, means the award under the Fair Work Act 2009 (Commonwealth) or another Commonwealth Act that, on the day the injury occurred, operated to prescribe the earnings of stable foremen.
+(2) With respect to injuries occurring before the day on which the Workers’ Compensation and Injury Management Amendment (Jockeys) Act 2012 section 4 comes into operation, the weekly earnings of a jockey are taken to be an amount equal to the weekly rate of wages, including special allowances, prescribed for stable foremen under the relevant Commonwealth award.
 Under the Acts Amendment (ICWA) Act 1996 s. 31(2)(h), a reference to the State Government Insurance Corporation in a written law is, unless because of the context it would be inappropriate so to do, to be construed, or have effect, as if it had been amended to be a reference to the Insurance Commission of Western Australia.
 Repealed by the Industrial Relations (Consequential Provisions) Act 1998 (Cwlth). Now see Fair Work Act 2009 (Cwlth).
 The Workers’ Compensation Act Amendment Act (No. 2) 1977 s. 3 became operative on 28 Nov 1977.
