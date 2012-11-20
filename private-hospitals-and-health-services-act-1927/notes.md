@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 27 January 2012 of the Hospitals and Health Services Act 1927 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Hospitals and Health Services Act 1927 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Hospitals Act 1927 | 23 of 1927 (18 Geo. V No. 23) | 23 Dec 1927 | 1 Jan 1928 (see s. 1)
@@ -63,6 +63,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+National Health Funding Pool Act 2012 Pt. 7 | 44 of 2012 | 20 Nov 2012 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 25 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 Now known as the Hospitals and Health Services Act 1927; short title changed (see note under s. 1).
@@ -81,7 +82,7 @@ Division 13 — Transitional provisions
 CEO has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
 commencement means the time at which this Division comes into operation;
 Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) had not come into operation. It reads as follows:
 48.Hospitals and Health Services Act 1927 amended
 (2) The Hospitals and Health Services Act 1927 is amended as follows:
 (a) in section 7E(2) —
@@ -92,6 +93,18 @@ On the date as at which this reprint was prepared, the State Superannuation (Tra
 “
 Members of a superannuation scheme continued by section 29(c) or (d) of the State Superannuation Act 2000.
 ”.
+On the date as at which this compilation was prepared, the National Health Funding Pool Act 2012 Pt. 7 had not come into operation. It reads as follows:
+Part 7 — Hospitals and Health Services Act 1927 amended
+32.Act amended
+This Part amends the Hospitals and Health Services Act 1927.
+33.Section 21 amended
+(1) In section 21(1)(g) delete “the board.” and insert:
+the board;
+(2) After section 21(1)(g) insert:
+(h) the funding of services for public patients provided by private hospitals and non-government providers of health services.
+(3) After section 21(1) insert:
+(2A) In subsection (1)(h) —
+public patient has the meaning given in section 3(1) of the Commonwealth Act.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
