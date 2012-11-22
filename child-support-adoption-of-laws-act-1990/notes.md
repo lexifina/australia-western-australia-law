@@ -11,6 +11,11 @@ Family Legislation Amendment Act 2006 Pt. 5 | 35 of 2006 | 4 Jul 2006 | 1 Aug 20
 Child Support (Adoption of Laws) Amendment Act 2007 | 29 of 2007 | 31 Oct 2007 | s. 1 and 2: 31 Oct 2007 (see s. 2(a)); s. 4 and 5: 1 Nov 2007 (see s. 2(d)) s. 6: 1 Jan 2008 (see s. 2(b)) s. 7: 1 Jul 2008 (see s. 2(c))
 Standardisation of Formatting Act 2010 s. 50 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Child Support (Adoption of Laws) Amendment Act 2011 | 5 of 2011 | 2 Mar 2011 | s. 1 and 2: 2 Mar 2011 (see s. 2(a); Act other than s. 1 and 2: 3 Mar 2011 (see s. 2(b))
+Child Support (Adoption of Laws) Amendment Act 2012 s. 1-5 and 6(1) | 39 of 2012 | 22 Nov 2012 | 22 Nov 2012 (see s. 2(1))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Child Support (Adoption of Laws) Amendment Act 2012 s. 6(2) and (3) | 39 of 2012 | 22 Nov 2012 | s. 6(2): 1 Jan 2013 (conditional on s. 3(1)) (see s. 2(2)); s. 6(3): 1 Jul 2013 (conditional on s. 3(1)) (see s. 2(3))
 The Child Support (Adoption of Laws) Amendment Act 2002 s. 3 reads as follows:
 “
 3.Purpose of Act
@@ -99,3 +104,11 @@ and
 (vii) Tax Laws Amendment (2009 Measures No. 1) Act 2009;
 (viii) Statute Law Revision Act 2010;
 (ix) Child Support and Family Assistance Legislation Amendment (Budget and Other Measures) Act 2010.
+On the date as at which this compilation was prepared, the Child Support (Adoption of Laws) Amendment Act 2012 s. 6(2) and (3) had not come into operation. They read as follows:
+6.Section 4 amended
+(2) In section 4(b) delete “1 July 2012; and” and insert:
+1 January 2013; and
+Note:This amendment is made to ensure that the adoption by Western Australia of the Child Support (Assessment) Act 1989 (Commonwealth) will, from 1 January 2013, extend to that Act as amended on that date by the Social Security and Other Legislation (Disability Support Pension Participation Reforms) Act 2012 (Commonwealth) Sch. 4 Pt. 1 Div. 2.
+(3) In section 4(b) delete “1 January 2013; and” and insert:
+1 July 2013; and
+Note:This amendment is made to ensure that the adoption by Western Australia of the Child Support (Assessment) Act 1989 (Commonwealth) will, from 1 July 2013, extend to that Act as amended on that date by the Social Security and Other Legislation (Disability Support Pension Participation Reforms) Act 2012 (Commonwealth) Sch. 4 Pt. 1 Div. 3.
