@@ -68,6 +68,7 @@ Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 47 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Teacher Registration Act 2012 s. 168 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Water Services Legislation Amendment and Repeal Act 2012 s. 228 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+Sentencing Amendment Act 2012 s. 3-6 | 42 of 2012 | 22 Nov 2012 | 20 Dec 2012
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
@@ -225,7 +226,41 @@ On the date as at which this compilation was prepared, the Teacher Registration 
 (2) In Schedule 1 delete the item relating to the Western Australian College of Teaching Act 2004.
 (3) In Schedule 1 insert in alphabetical order:
 Teacher Registration Act 2012 | Teacher Registration Board Account
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Sentencing Amendment Act 2012 s. 3-6 had not come into operation. They read as follows:
+3.Section 8 amended
+Delete section 8(2).
+4.Section 9AA inserted
+At the end of Part 2 Division 1 insert:
+9AA.Reduction in sentence for plea of guilty
+(1) In this section —
+fixed term has the meaning given in section 85(1);
+head sentence, for an offence, means the sentence that a court would have imposed for the offence if —
+(a)the offender had been found guilty after a plea of not guilty; and
+(b)there were no mitigating factors;
+victim has the meaning given in section 13.
+(2) If a person pleads guilty to a charge for an offence, the court may reduce the head sentence for the offence in order to recognise the benefits to the State, and to any victim of or witness to the offence, resulting from the plea.
+(3) The earlier in the proceedings the plea is made, the greater the reduction in the sentence may be.
+(4) If the head sentence for an offence is or includes a fixed term, the court must not reduce the fixed term under subsection (2) —
+(a) by more than 25%; or
+(b) by 25%, unless the offender pleaded guilty, or indicated that he or she would plead guilty, at the first reasonable opportunity.
+(5) If a court reduces the head sentence for an offence under subsection (2), the court must state that fact and the extent of the reduction in open court.
+(6) This section does not prevent the court from reducing the head sentence for an offence because of any mitigating factor other than a plea of guilty.
+5.Part 21 heading inserted
+After section 149 insert:
+Part 21 — Transitional and review provisions
+6.Sections 150A and 150B inserted
+Before section 150 insert:
+150A.Sentencing Amendment Act 2012 amendments, application of
+(1) In this section —
+commencement means the coming into operation of the Sentencing Amendment Act 2012 section 4;
+sentencing includes the variation or substitution of a sentence.
+(2) This Act, as amended by the Sentencing Amendment Act 2012, applies to the sentencing after commencement of an offender for an offence —
+(a) even if the offence was committed before commencement; and
+(b) even if the offender was convicted before commencement; and
+(c) even if the sentencing is as a result of an appeal against a sentence imposed before commencement.
+150B.Review of s. 9AA
+(1) The Minister must review the operation and effectiveness of section 9AA as soon as practicable after the third anniversary of the day on which the Sentencing Amendment Act 2012 section 4 comes into operation.
+(2) The Minister must cause a report of the review to be laid before each House of Parliament as soon as practicable after it is done.
 On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 228 had not come into operation. It reads as follows:
 228.Sentencing Act 1995 amended
 (1) This section amends the Sentencing Act 1995.
