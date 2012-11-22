@@ -33,6 +33,10 @@ Acts Amendment (Bankruptcy) Act 2009 s. 6 | 18 of 2009 | 16 Sep 2009 | 17 Sep 20
 Aboriginal Housing Legislation Amendment Act 2010 Pt. 3 | 6 of 2010 | 25 May 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 22 Jun 2010 p. 2767)
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 2 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Aboriginal Affairs Planning Authority Amendment Act 2012 Pt. 2 | 38 of 2012 | 22 Nov 2012 | To be proclaimed (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 2 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The provision in this Act repealing the Native Welfare Act 1963 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Footnote no longer applicable.
@@ -48,6 +52,20 @@ commencement means the time at which section 342 comes into operation;
 Commissioner has the meaning given to “Commissioner for Aboriginal Affairs” by section 10 of the Aboriginal Affairs Planning Authority Act 1972 as in force before commencement.
 The requirement to appoint a Commissioner for Aboriginal Planning was removed from the Act and references to the Commissioner were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 11 Div. 1. Section 454 of that Act is a general transitional provision that applies to references to the Commissioner in written laws.
 The amendment to s. 10(2) in the Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 1 (now known as the Financial Management (Transitional Provisions) Act 2006) is not included because the section it sought to amend was repealed by the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 344.
+On the date as at which this compilation was prepared, the Aboriginal Affairs Planning Authority Amendment Act 2012 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Aboriginal Affairs Planning Authority Act 1972 amended
+3.Act amended
+This Part amends the Aboriginal Affairs Planning Authority Act 1972.
+4.Part IV deleted
+Delete Part IV.
+5.Part VII inserted
+After section 51 insert:
+Part VII — Savings provisions: Aboriginal Affairs Planning Authority Amendment Act 2012
+52.Estates of persons who died before commencement day
+(1) In this section —
+commencement day means the day on which the Aboriginal Affairs Planning Authority Amendment Act 2012 section 4 comes into operation;
+former provisions means Part IV of this Act as it was in force immediately before its deletion by the Aboriginal Affairs Planning Authority Amendment Act 2012.
+(2) The estate of a person who died before commencement day must be distributed or otherwise dealt with after commencement day as if the former provisions had not been deleted.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
