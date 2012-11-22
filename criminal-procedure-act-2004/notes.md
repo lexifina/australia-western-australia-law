@@ -17,6 +17,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 15 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Courts Legislation Amendment Act 2012 Pt. 2 | 43 of 2012 | 22 Nov 2012 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 15 had not come into operation. It reads as follows:
 Division 15 — Criminal Procedure Act 2004 amended
 80.Act amended
@@ -29,6 +30,24 @@ Road Traffic (Administration) Act 2008 section 4;
 Road Traffic (Vehicles) Act 2012
 (2) In section 11(1) in the definition of vehicle licensing law delete “Road Traffic Act 1974” and insert:
 Road Traffic (Vehicles) Act 2012
+On the date as at which this compilation was prepared, the Courts Legislation Amendment Act 2012 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Criminal Procedure Act 2004 amended
+3.Act amended
+This Part amends the Criminal Procedure Act 2004.
+4.Section 124 amended
+(1) Delete section 124(5)(a) and insert:
+(a) delegate to a registrar of the court any jurisdiction the court has, including under any written law, other than the following jurisdiction —
+(i) to find a person guilty or not guilty of an offence;
+(ii) to discharge an accused from a charge;
+(iii) to consent to the discontinuance of a charge in a case where the accused does not consent to the discontinuance;
+(iv) to stay a prosecution;
+(v) to set aside a committal;
+(vi) to find a person guilty of a contempt of the court;
+(2) After section 124(5) insert:
+(6) A person dissatisfied by a decision made by a registrar of the court under jurisdiction delegated under subsection (5)(a) may appeal to a judge of the court.
+(7) An appeal cannot be commenced more than 21 days after the date of the registrar’s decision, unless a judge of the court gives leave to do so.
+(8) The appeal must be conducted in accordance with the rules of court.
+(9) The appeal is to be by way of a new hearing of the issue that was before the registrar.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
