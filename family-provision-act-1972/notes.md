@@ -11,14 +11,14 @@ Wills Amendment Act 2007 s. 25 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Inheritance (Family and Dependants Provision) Amendment Act 2011 Pt. 2 | 48 of 2011 | 25 Oct 2011 | To be proclaimed (see s. 2(b))
+Inheritance (Family and Dependants Provision) Amendment Act 2011 Pt. 2 | 48 of 2011 (as amended by No. 41 of 2012 s. 4-5) | 25 Oct 2011 | To be proclaimed (see s. 2(b))
 Repealed by the Guardianship of Children Act 1972 which was repealed by the Family Court Act 1975 (as amended by the Family Court Act Amendment and Acts Repeal Act 1979) which was repealed by the Family Court Act 1997.
 The Acts Amendment (Lesbian and Gay Reform) Act 2002 s. 82 reads as follows:
 “
 82.Applications regarding the estates of persons who died before the commencement of this Part
 An application under the Inheritance (Family and Dependants Provision) Act 1972 for provision out of the estate of a person who died before the commencement of this Part is to be dealt with under that Act as if this Part had not commenced.
 ”.
-On the date as at which this compilation was prepared, the Inheritance (Family and Dependants Provision) Amendment Act 2011 Pt. 2 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Inheritance (Family and Dependants Provision) Amendment Act 2011 Pt. 2 (as amended by the Inheritance (Family and Dependants Provision) Amendment Act 2012 s. 4-5) had not come into operation. It reads as follows:
 Part 2 — Inheritance (Family and Dependants Provision) Act 1972 amended
 3.Act amended
 This Part amends the Inheritance (Family and Dependants Provision) Act 1972.
@@ -27,14 +27,8 @@ In section 1 delete “Inheritance (Family and Dependants Provision) Act 1972.�
 Family Provision Act 1972.
 5.Section 4 amended
 In section 4(1) insert in alphabetical order:
-stepchild means a person —
-(a)who is not a child of the deceased, but who is a child of —
-(i)the deceased’s spouse; or
-(ii)a de facto partner of the deceased, if the de facto partner is one in whose favour the Court can make an order under this Act;
-and
-(b)who was living at the date on which the deceased —
-(i)married that spouse; or
-(ii)entered into a de facto relationship with that de facto partner;
+stepchild means a person who was alive on the date on which the deceased married or entered into a de facto relationship with a parent of the person but who is not a child of the deceased;
+[Section 5 inserted by No. 41 of 2012 s. 4.]
 6.Section 6A inserted
 After section 5 insert:
 6A.Crown bound
@@ -64,11 +58,14 @@ born within 10 months after the deceased’s death;
 (ii) who, at the date of the deceased’s death, was living and one of whose parents was a child of the deceased who had predeceased the deceased; or
 (iii) who was born within 10 months after the deceased’s death and one of whose parents was a child of the deceased who had predeceased the deceased;
 (ea) a stepchild of the deceased who was being maintained wholly or partly or was entitled to be maintained wholly or partly by the deceased immediately before the deceased’s death;
-(eb) a stepchild of the deceased if the deceased had received or was entitled to receive property with a value greater than the prescribed amount from the estate of a parent of the stepchild otherwise than as a creditor of the deceased parent’s estate;
+(eb) a stepchild of the deceased, if —
+(i) the deceased received or was entitled to receive property from the estate of a parent of the stepchild, otherwise than as a creditor of that estate; and
+(ii) the value of that property, at the time of the parent’s death, is greater than the prescribed amount;
 (c) in paragraph (e) delete “lawful wedlock” and insert:
 a legal marriage
 (2) After section 7(1) insert:
 (2A) An application is not to be made under this Act by or on behalf of a person referred to in subsection (1)(ea) or (eb) unless the deceased person died on or after the day on which the Inheritance (Family and Dependants Provision) Amendment Act 2011 section 9(1)(b) came into operation.
+[Section 9 amended by No. 41 of 2012 s. 5.]
 10.Section 11 amended
 In section 11 delete “at the time” and insert:
 immediately before
