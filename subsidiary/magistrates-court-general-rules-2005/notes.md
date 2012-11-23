@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Magistrates Court (General) Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 23 November 2012 of the Magistrates Court (General) Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Magistrates Court (General) Rules 2005 | 28 Apr 2005 p. 1605-49 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -14,14 +14,15 @@ Magistrates Court (General) Amendment Rules 2010 | 7 Jan 2011 p. 51-2 | r. 1 and
 Magistrates Court (General) Amendment Rules 2011 | 15 Feb 2011 p. 536-8 | r. 1 and 2: 15 Feb 2011 (see r. 2(a)); Rules other than r. 1 and 2: 4 Jul 2011 (see r. 2(b) and Gazette 20 May 2011 p. 1837)
 Magistrates Court (General) Amendment Rules (No. 2) 2011 | 17 May 2011 p. 1823 | r. 1 and 2: 17 May 2011 (see r. 2(a)); Rules other than r. 1 and 2: 18 May 2011 (see r. 2(b))
 Magistrates Court (General) Amendment Rules 2012 | 31 Jul 2012 p. 3689-95 | r. 1 and 2: 31 Jul 2012 (see r. 2(a)); Rules other than r. 1 and 2: 1 Aug 2012 (see r. 2(b))
-Defined Terms
+Reprint 2: The Magistrates Court (General) Rules 2005 as at 23 Nov 2012 (includes amendments listed above)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Act3, 47
 approved form3
 approved recipient41A(1)
 contempt29
-civil case28B
+civil case28B(1)
 CPA3
 defendant29
 Director General50
@@ -35,4 +36,3 @@ registrar15, 25(1)
 registry3
 RTA50
 searchable information41A(1)
-special application50
