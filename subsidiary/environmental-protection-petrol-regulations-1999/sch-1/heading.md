@@ -15,5 +15,5 @@ Cockburn | Nedlands | Wanneroo
 Cottesloe | Northam | Waroona
 East Fremantle | Peppermint Grove | York
 Fremantle | Perth
-[Schedule 1 amended in Gazette 9 Oct 2012 p. 4754.]
-[Schedule 2 and 3 deleted in Gazette 9 Oct 2012 p. 4754.]
+[Schedule 1 amended: Gazette 9 Oct 2012 p. 4754.]
+[Schedule 2 and 3 deleted: Gazette 9 Oct 2012 p. 4754.]
