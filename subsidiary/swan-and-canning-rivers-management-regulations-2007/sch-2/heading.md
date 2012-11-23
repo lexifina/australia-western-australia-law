@@ -59,7 +59,7 @@ Modification of an existing lease (i.e. change in area or purpose etc.)
 6.River reserve licence (Swan and Canning Rivers Management Act 2006 section 32)
 If you intend to apply for a licence in relation to this proposed development, you will need to complete a separate form – Application for a River reserve licence – and lodge it concurrently with this application, e.g. charter vessel operation, kayak, canoe tours, etc. Refer to the Swan River Trust Licence Application Guidelines on how to apply for a River reserve licence.
 Does the proposed development involve an activity in the River reserve that will require a River reserve licence? | YES
- | NO
+NO
 If the development requires a River reserve licence, please tick the appropriate box below.
 New licence
 Renewal of a licence
@@ -67,24 +67,24 @@ Modification of an existing licence (i.e. change in area, purpose, etc.)
 7.Details of proposed development
 Please provide a written description of the proposed development (refer to the Swan River Trust’s Development Application Guidelines for further details on what information to include in this section).
 Estimated cost of development | $
-Current use of land | Please describe below what the land is currently used for. ____________________________________________ ____________________________________________ ____________________________________________
-Proposed development | Please provide a detailed written description below of the proposed use and development. If there is insufficient space, please provide the required information as an attachment to this application form. ____________________________________________ ____________________________________________ ____________________________________________ ____________________________________________ ____________________________________________ ____________________________________________ ____________________________________________ ____________________________________________ ____________________________________________ ____________________________________________
+Current use of land | Please describe below what the land is currently used for. _______________________________________________ _______________________________________________ _______________________________________________
+Proposed development | Please provide a detailed written description below of the proposed use and development. If there is insufficient space, please provide the required information as an attachment to this application form. _______________________________________________ _______________________________________________ _______________________________________________ _______________________________________________ _______________________________________________ _______________________________________________ _______________________________________________ _______________________________________________ _______________________________________________ _______________________________________________
 8.Signatures
 Signed by applicant
 Applicant signature
 Date
 Print name and position (if signing on behalf of a company or agency) | Name
 Position
-Signed by Landowner/s (if the landowner is not the applicant)
+Signed by landowner/s (if the landowner is not the applicant)
 I consent to this application being made.
 Landowner signature
 Landowner signature
 Date
 Print name and position (if signing on behalf of a company or agency) | Name
 Position
-Signed by Authorised Agent (if you are acting for the applicant)
+Signed by authorised agent (if you are acting for the applicant)
 I have attached a copy of the written authorisation for me to act on behalf of the applicant to this application.
-Authorised Agent signature
+Authorised agent signature
 Date
 Print name and position (if signing on behalf of a company or agency) | Name
 Position
