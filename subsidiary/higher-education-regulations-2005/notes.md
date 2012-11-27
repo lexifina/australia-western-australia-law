@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 October 2012 of the Higher Education Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Higher Education Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Higher Education Regulations 2005 | 26 Jul 2005 p. 3411-27 | 26 Jul 2005
@@ -7,7 +7,7 @@ Higher Education Amendment Regulations 2009 | 14 Aug 2009 p. 3183-4 | r. 1 and 2
 Higher Education Amendment Regulations 2010 | 8 Jun 2010 p. 2608-11 | r. 1 and 2: 8 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jun 2010 (see r. 2(b))
 Higher Education Amendment Regulations 2011 | 25 Nov 2011 p. 4867-9 | r. 1 and 2: 25 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Nov 2011 (see r. 2(b))
 Reprint 1: The Higher Education Regulations 2005 as at 19 Oct 2012 (includes amendments listed above)
-Repealed by the Business Names Act 1962.
+Higher Education Amendment Regulations 2012 | 27 Nov 2012 p. 5736 | 27 Nov 2012
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -23,5 +23,5 @@ overseas student2(1)
 recognised course provider2(1)
 registered business name2(1)
 registered office2(1)
-related2(1) and (2)(b)
-unrelated2(1) and (2)(a)
+related2(1), 2(2)
+unrelated2(1), 2(2)
