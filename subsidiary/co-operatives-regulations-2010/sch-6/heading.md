@@ -1,7 +1,7 @@
 ## Schedule 6 — Undesirable matter for names
 [r. 17]
 1.Names that are likely to be confused with or mistaken for —
-(a)a name reserved or registered under the Corporations Act or registered under the Business Names Act 1962 section 7; or
+(a)a name reserved or registered under the Corporations Act or registered under the Business Names Registration Act 2011 (Commonwealth); or
 (b)the name of any of the following registered in Western Australia —
 ·an incorporated association
 ·a building society
@@ -65,4 +65,4 @@ It may be unsuitable for a co-operative to be called Hypothetical Co-operative L
 (e)Pharmacy Act 2010;
 (f)Police Act 1892;
 (g)Veterinary Surgeons Act 1960.
-[Schedule 6 amended in Gazette 22 Jun 2012 p. 2778.]
+[Schedule 6 amended in Gazette 22 Jun 2012 p. 2778; 27 Nov 2012 p. 5733.]
