@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 21 September 2012 of the Environmental Protection Regulations 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Environmental Protection Regulations 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Environmental Protection Regulations 1987 | 20 Feb 1987 p. 444-9 | 20 Feb 1987 (see r. 2 and Gazette 20 Feb 1987 p. 440)
@@ -63,10 +63,11 @@ Environmental Protection (Packaged Fertiliser) Regulations 2010 r. 18 | 31 Dec 2
 Environmental Protection Amendment Regulations 2012 | 2 Mar 2012 p. 855 | r. 1 and 2: 2 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Mar 2012 (see r. 2(b))
 Environmental Protection Amendment Regulations (No. 2) 2012 | 8 May 2012 p. 1892-3 | r. 1 and 2: 8 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 9 May 2012 (see r. 2(b))
 Reprint 7: The Environmental Protection Regulations 1987 as at 21 Sep 2012 (includes amendments listed above)
+Environmental Protection Amendment Regulations (No. 3) 2012 | 27 Nov 2012 p. 5737-8 | r. 1 and 2: 27 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2012 (see r. 2(b))
 Published in Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order (No. 2) 2006 a reference in a written law to the Department of Environment or the Department of Environmental Protection is, unless the contrary is intended, to be read and construed as a reference to the Department of Environment and Conservation.
 Proclaimed 1 July 1988 in Gazette 26 June 1998 p. 3369.
-At the time of this reprint the Waste Management and Recycling Fund is the Waste Management and Recycling Account.
+At the time of this compilation the Waste Management and Recycling Fund is the Waste Management and Recycling Account.
 Expired 30 June 2012.
 The Environmental Protection Amendment Regulations (No. 3) 1996 r. 7 (as amended by the Environmental Protection Amendment Regulations (No. 6) 1996 r. 10) is a transitional provision that is of no further effect.
 The amendment in the Environmental Protection Amendment Regulations (No. 5) 2000 r. 12 referring to items 8 and 9 of Schedule 6 is not included because these items were previously deleted in Gazette 19 December 2000 p. 7284.

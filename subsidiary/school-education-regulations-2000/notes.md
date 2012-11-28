@@ -16,6 +16,7 @@ School Education Amendment Regulations 2009 | 13 Nov 2009 p. 4535 | r. 1 and 2: 
 School Education Amendment Regulations 2010 | 21 Dec 2010 p. 6754 | r. 1 and 2: 21 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
 School Education Amendment Regulations 2012 r. 1 and 2 | 10 Jul 2012 p. 3060-1 | 10 Jul 2012 (see r. 2(a))
 School Education Amendment Regulations (No. 2) 2012 | 14 Aug 2012 p. 3830-1 | r. 1 and 2: 14 Aug 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2012 (see r. 2(b))
+School Education Amendment Regulations (No. 3) 2012 | 27 Nov 2012 p. 5737 | r. 1 and 2: 27 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2012 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
