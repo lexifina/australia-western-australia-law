@@ -52,6 +52,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Misuse of Drugs Amendment Act 2011 s. 5-8 | 56 of 2011 | 21 Nov 2011 | To be proclaimed (see s. 2(b))
+Criminal Organisations Control Act 2012 s. 179 | 49 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 read as follows:
@@ -154,6 +155,25 @@ In section 8B(1) in the definition of minor cannabis related offence paragraph (
 or 7B(6)
 8.Sections 19A and 19B deleted
 Delete sections 19A and 19B.
+On the date as at which this compilation was prepared, the Criminal Organisations Control Act 2012 s. 179 had not come into operation. It reads as follows:
+179.Misuse of Drugs Act 1981 amended
+(1) This section amends the Misuse of Drugs Act 1981.
+(2) In section 32A(1):
+(a) in paragraph (b)(ii) delete “belong,” and insert:
+belong;
+(b) after paragraph (b) insert:
+or
+(c) a relevant drug offence and, at the time of the commission of the offence, was a member of a declared criminal organisation,
+(c) after “or the serious drug offence referred to in paragraph (b),” insert:
+or the relevant drug offence referred to in paragraph (c),
+(3) In section 32A(3) insert in alphabetical order:
+declared criminal organisation has the meaning given in the Criminal Organisations Control Act 2012 section 3(1);
+member, of a declared criminal organisation, has the meaning given in the Criminal Organisations Control Act 2012 section 3(1);
+relevant drug offence means an offence under any of the following provisions —
+(a)section 5(1)(a)(i);
+(b)section 5(1)(c), where the premises are used for the purpose referred to in section 5(1)(a)(i);
+(c)sections 6(1), 7(1) and 14(1);
+(d)section 33, where the principal offence (as defined in that section) is one of the offences listed in paragraphs (a) to (c);
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
