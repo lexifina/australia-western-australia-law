@@ -160,6 +160,7 @@ Poisons Amendment Regulations (No. 2) 2012 | 25 May 2012 p. 2207-8 | r. 1 and 2:
 Poisons Amendment Regulations 2012 | 1 Jun 2012 p. 2305-26 | r. 1 and 2: 1 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jun 2012 (see r. 2(b))
 Poisons Amendment Regulations (No. 3) 2012 | 29 Jun 2012 p. 2949-50 | r. 1 and 2: 29 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2012 (see r. 2(b))
 Poisons Amendment Regulations (No. 4) 2012 | 10 Aug 2012 p. 3803-7 | r. 1 and 2: 10 Aug 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Aug 2012 (see r. 2(b))
+Mental Health Amendment (Psychiatrists) Act 2012 s. 7 assented to 29 Nov 2012 | 29 Nov 2012 (see s. 2)
 Formerly referred to the Health Services (Concilation and Review) Act 1995, the short title of which was changed to the Health and Disability Services (Complaints) Act 1995 by the Health and Disability Services Legislation Amendment Act 2010 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Repealed by the Veterans Entitlements Act 1986 (Cwlth. Act No. 27 of 1986).
@@ -174,6 +175,9 @@ The Poisons Amendment Regulations 2012 r. 45(2) to amend r. 56(2)(b) is not incl
 45.Regulation 56 amended
 (2) In regulation 56(2)(b) delete “42(1); or” and insert:
 42(1) or (2A); or
+The Mental Health Amendment (Psychiatrists) Act 2012 s. 8 reads as follows:
+8.Power to amend or repeal unaffected
+The amendment of an instrument by section 6 or 7 does not prevent that instrument from being amended or repealed by subsequent instrument.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
