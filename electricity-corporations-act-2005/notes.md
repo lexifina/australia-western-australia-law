@@ -9,9 +9,24 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 50 | 8 of 2009 | 21 
 Reprint 1: The Electricity Corporations Act 2005 as at 14 May 2010 (includes amendments listed above)
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 31 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
 Public Sector Reform Act 2010 s. 75 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 2 | 48 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending these Acts have, except for Sch. 5 Div. 4 cl. 7 and 22, been omitted under the Reprints Act 1984 s. 7(4)(e).
 Schedule 5 clause 21(2)(a)(ii) of this Act had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 50(3)(b).
 The amendment in the State Superannuation Amendment Act 2007 s. 81 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
+On the date as at which this compilation was prepared, the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 2 had not come into operation. It reads as follows:
+Division 2 — Electricity Corporations Act 2005 amended
+57.Act amended
+This Division amends the Electricity Corporations Act 2005.
+58.Section 50A inserted
+At the end of Part 3 Division 1 Subdivision 4 insert:
+50A.Disclosure of information to fines Registrar
+(1) The corporation must disclose to the Registrar appointed under the Fines, Penalties and Infringement Notices Enforcement Act 1994 the names and addresses of the persons who are supplied electricity or gas by the corporation, but not photographs or signatures of such persons.
+(2) Information disclosed under subsection (1) may be used in the performance of the Registrar’s functions under the Fines, Penalties and Infringement Notices Enforcement Act 1994 but not for any other purpose.
+(3) The disclosure of information under subsection (1) is to be free of charge.
+The designated period has been extended by the Electricity Corporations (Designated Periods) Order 2013 (see Gazette 28 Mar 2013 p. 1339).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
