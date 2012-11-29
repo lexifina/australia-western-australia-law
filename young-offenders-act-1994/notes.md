@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 August 2012 of the Young Offenders Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Young Offenders Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Young Offenders Act 1994 | 104 of 1994 | 11 Jan 1995 | s. 1 and 2: 11 Jan 1995; Act other than s. 1 and 2: 13 Mar 1995 (see s. 2 and Gazette 10 Mar 1995 p. 895)
@@ -45,11 +45,12 @@ Cannabis Law Reform Act 2010 Pt. 5 | 45 of 2010 | 28 Oct 2010 | 1 Aug 2011 (see 
 Young Offenders Legislation Amendment (Research Information) Act 2011 Pt. 3 | 26 of 2011 | 11 Jul 2011 | 12 Jul 2011 (see s. 2(b))
 Reprint 5: The Young Offenders Act 1994 as at 10 Aug 2012 (includes amendments listed above)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 22 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 54 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Criminal Organisations Control Act 2012 s. 182 | 49 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -80,7 +81,7 @@ principal Act means the Young Offenders Act 1994.
 3.Conditions of employment of other employees and officers on commencement to continue
 (1) A person who was appointed by the Minister under the Act as an overseer, or as an officer or employee without custodial functions, before commencement, and who is still employed immediately before commencement, is to be regarded, on commencement, as having been appointed by the chief executive officer under section 11(1a)(b) of the principal Act (as amended by this Act), on the same terms and conditions, including as to remuneration, as those which applied to the person immediately before commencement.
 (2) A person to whom subclause (1) applies retains all existing and accruing rights and benefits as if the person’s employment, for the purposes of the principal Act, were a continuation of the person's employment immediately before commencement.
-On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 36 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 36 had not come into operation. It reads as follows:
 36.Young Offenders Act 1994 amended
 (1) The amendments in this section are to the Young Offenders Act 1994.
 (2) Schedule 2 is amended by deleting the entry relating to the Prostitution Act 2000 and inserting instead —
@@ -107,6 +108,21 @@ as defined in that section
 203.Section 189 amended
 In section 189(8)(c) delete “issued under the Road Traffic Act 1974; or” and insert:
 as that term is defined in the Road Traffic (Administration) Act 2008 section 4; or
+On the date as at which this compilation was prepared, the Criminal Organisations Control Act 2012 s. 182 had not come into operation. It reads as follows:
+182.Young Offenders Act 1994 amended
+(1) This section amends the Young Offenders Act 1994.
+(2) In Schedule 2 item 1 insert before the row relating to section 279:
+ | s. 221E(1) | Participating in activities of criminal organisation
+ | s. 221F(1) | Instructing commission of offence for benefit of criminal organisation
+(3) After Schedule 2 item 2 insert:
+2AA. | Criminal Organisations Control Act 2012
+ | s. 99(1) | Association by controlled person with another controlled person
+ | s. 99(3) | Association by controlled person with another controlled person on 3 or more occasions within 3 month period
+ | s. 102 | Offence for controlled person to get funds to, from or for declared criminal organisation
+ | s. 103 | Other contravention of interim control order or control order
+ | s. 106 | Recruiting members for declared criminal organisation
+ | s. 107(2) | Permitting premises to be habitually used as place of resort by members of declared criminal organisation
+ | s. 107(3) | Being knowingly concerned in the management of premises habitually used as place of resort by members of declared criminal organisation
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
