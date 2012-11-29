@@ -22,6 +22,7 @@ Medical Practitioners Act 2008 Sch. 3 cl. 34 | 22 of 2008 | 27 May 2008 | 1 Dec 
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 34 | 35 of 2010 | 30 Aug 2010 | s. 109-111 and 112(1): 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6); s. 112(2): 1 Jul 2012 (see s. 2(b) and Gazette 19 Jun 2012 p. 2631)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 3: The Mental Health Act 1996 as at 1 Jul 2011 (includes amendments listed above except the Health Practitioner Regulation National Law (WA) Act 2010 s. 112(2))
+Mental Health Amendment (Psychiatrists) Act 2012 Pt. 2 | 52 of 2012 | 29 Nov 2012 | 29 Nov 2012 (see s. 2)
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 The Mental Health (Consequential Provisions) Act 1996 Pt. 12 Div. 2 (s. 53-72 inclusive) reads as follows:
 Division 2 — Transitional
@@ -156,9 +157,10 @@ The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 is
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-act done213(5)
+act216(1)
 affected person175
 agreement86
+an act done213(5)
 authorised hospital3
 authorised medical practitioner3
 authorised mental health practitioner3
