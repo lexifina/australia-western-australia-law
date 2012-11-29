@@ -8,6 +8,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Rail Safety Act 2010 s. 64-66 | 18 of 2010 | 28 Jun 2010 | s. 64-66: 1 Feb 2014 (see s. 2(d))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 44 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 6 | 48 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Rail Safety Act 2010 s. 64-66 had not come into operation. They read as follows:
 64.Interface coordination — rail infrastructure manager — public roads
 A rail infrastructure manager —
@@ -42,6 +43,18 @@ This Division amends the Rail Safety Act 2010.
 167.Section 3 amended
 In section 3 in the definition of public road delete “Road Traffic Act 1974 section 5(1);” and insert:
 Road Traffic (Administration) Act 2008 section 4;
+On the date as at which this compilation was prepared, the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 6 had not come into operation. It reads as follows:
+Division 6 — Rail Safety Act 2010 amended
+67.Act amended
+This Division amends the Rail Safety Act 2010.
+68.Section 208 amended
+(1) In section 208(2) delete “Fines, Penalties and Infringement Notices Enforcement Act 1994 section 32,” and insert:
+Fines, Penalties and Infringement Notices Enforcement Act 1994,
+(2) In section 208(3) and (4) delete “section referred to” and insert:
+Act referred to
+69.Section 212 amended
+In section 212(3) delete “Fines, Penalties and Infringement Notices Enforcement Act 1994 section 32,” and insert:
+Fines, Penalties and Infringement Notices Enforcement Act 1994,
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
