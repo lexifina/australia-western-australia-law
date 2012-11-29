@@ -18,6 +18,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 14 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Criminal Organisations Control Act 2012 s. 174 | 49 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 14 had not come into operation. It reads as follows:
 Division 14 — Criminal Investigation Act 2006 amended
 76.Act amended
@@ -33,6 +34,15 @@ police officer
 79.Section 135 amended
 In section 135(2)(b) delete “member of the Police Force acting under the Road Traffic Act 1974 section 66, is accompanying such a member” and insert:
 police officer acting under the Road Traffic Act 1974 section 66, is accompanying a police officer
+On the date as at which this compilation was prepared, the Criminal Organisations Control Act 2012 s. 174 had not come into operation. It reads as follows:
+174.Criminal Investigation Act 2006 amended
+(1) This section amends the Criminal Investigation Act 2006.
+(2) After section 69A insert:
+69B.Searching people for things relevant to interim control orders or control orders
+If an officer reasonably suspects that a person in a public place is prohibited by an interim control order or a control order under the Criminal Organisations Control Act 2012 from having something in his or her possession (a prohibited thing) in that place, the officer —
+(a) may do a basic search of the person, whether or not the officer suspects the person is in possession of a prohibited thing; and
+(b) may, subject to section 146, seize any prohibited thing that the officer finds; and
+(c) may do a forensic examination on the prohibited thing, whether or not the officer seizes it.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
