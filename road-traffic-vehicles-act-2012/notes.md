@@ -6,8 +6,8 @@ Road Traffic (Vehicles) Act 2012 s. 1 and 2 | 7 of 2012 | 21 May 2012 | 21 May 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic (Vehicles) Act 2012 s. 3, Pt. 2-14 | 7 of 2012 | 21 May 2012 | On commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b))
-On the date as at which this compilation was prepared, the Road Traffic (Vehicles) Act 2012 s. 3 and Pt. 2-14 had not come into operation. They read as follows:
+Road Traffic (Vehicles) Act 2012 s. 3, Pt. 2-14 | 7 of 2012 (as amended by No. 48 of 2012 Pt. 4 Div. 7A) | 21 May 2012 | On commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b))
+On the date as at which this compilation was prepared, the Road Traffic (Vehicles) Act 2012 s. 3 and Pt. 2-14 (as amended by the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 7A, effective 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815) had not come into operation. They read as follows:
 3.Terms used
 (1) In this Act, unless the contrary intention appears —
 base, in relation to the driver of a vehicle, means a place from which the driver normally works and receives instructions and for the purposes of this definition —
@@ -194,7 +194,12 @@ and
 (i) the vehicle is kept primarily in this State; or
 (ii) the vehicle is not kept primarily in any jurisdiction;
 and
-(e) the vehicle were to be kept primarily in another jurisdiction, the applicant would not be prevented by or under the law of another jurisdiction from holding a licence for, or being registered in respect of, the vehicle.
+(e) the vehicle were to be kept primarily in another jurisdiction, the applicant would not be prevented by or under the law of another jurisdiction from holding a licence for, or being registered in respect of, the vehicle; and
+(f) a licence suspension order made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 19 or 43 is not in force in respect of the vehicle; and
+(g) the vehicle is not immobilised under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95C; and
+(h) the vehicle’s number plates have not been removed under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95F; and
+(i) a vehicle licence suspension order made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95G is not in force in respect of the vehicle; and
+(j) a vehicle licence cancellation order made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95J is not in force in respect of the vehicle.
 (4) A vehicle cannot be licensed in the name of more than one person at a particular time.
 (5) Any one of 2 or more owners may apply for the grant or transfer of a licence and the application is to be signed by each of them.
 (6) An application under subsection (5) is to be regarded as notice of the nomination of the applicant for the purposes of the Road Traffic (Administration) Act 2008 section 5(2).
@@ -202,6 +207,7 @@ and
 (8) The CEO is to refund any amount paid by a person in connection with —
 (a) an application under this section that is refused; or
 (b) an application for the transfer of a licence upon which the licence is not transferred but cancelled.
+[Section 5 amended by No. 48 of 2012 s. 74.]
 6.Regulations for the grant, renewal and variation of vehicle licences
 (1) The regulations may provide for the grant, renewal or variation of a vehicle licence by the CEO to the extent that a matter is not provided for in section 5.
 (2) Without limiting subsection (1), the regulations may —
@@ -296,8 +302,11 @@ Regulations may provide for —
 (c) matters relating to the affixing to vehicles, and display, of labels.
 16.Effect of licence suspension order, disqualification
 (1) Where a licence suspension order is made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 in respect of a person, a licence held by that person in respect of a vehicle specified in the order or in respect of any vehicle (as the order directs) is, by force of this section, suspended so long as the licence suspension order continues in force and during that period is of no effect.
-(2) Subsection (1) does not operate to extend the period for which a vehicle licence may be current or effective beyond the expiration of the period for which the licence was expressed to be granted or renewed.
+(2A) If a vehicle licence suspension order is made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95G in respect of a person, a licence held by that person in respect of the vehicle specified in the order is, by force of this section, suspended so long as the vehicle licence suspension order continues in force and during that period is of no effect.
+(2) Subsections (1) and (2A) do not operate to extend the period for which a vehicle licence may be current or effective beyond the expiration of the period for which the licence was expressed to be granted or renewed.
 (3) A vehicle licence obtained by a person who is disqualified from holding or obtaining a vehicle licence is, by force of this section, of no effect.
+(4) If a vehicle licence cancellation order is made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95J in respect of a person, a licence held by that person in respect of the vehicle specified in the order is, by force of this section, cancelled.
+[Section 16 amended by No. 48 of 2012 s. 75.]
 17.Classification of vehicle licences
 Despite any other provision of this Part, regulations may prescribe classes of vehicle licences and by those regulations —
 (a) specify the vehicles or classes of vehicle to which any class of licence is to apply; and
@@ -1246,7 +1255,8 @@ specified means specified by the court.
 (5) An order under this section operates by force of this Act and takes effect immediately or from a later specified date.
 (6) A term mentioned in subsection (2)(b) or (3) is concurrent with any other term for which the person is disqualified from holding or obtaining a vehicle licence in respect of the vehicle, unless the court orders that the term is to be cumulative on those terms.
 (7) The court must ensure that the details of the MDLR offence by vehicle licence holder and the order are sent to the CEO.
-(8) This section does not affect the operation of the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 19 or 43.
+(8) This section does not affect the operation of the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 19, 43, 95G or 95J.
+[Section 8 amended by No. 48 of 2012 s. 76.]
 Division 5 — Supervisory intervention orders
 126.Supervisory intervention orders
 (1) In this section —
@@ -1447,3 +1457,27 @@ A notice published under the RT Act section 29(1) that was in effect immediately
 A notice under the Road Traffic (Vehicle Standards) Regulations 2002 regulation 33 applying to vehicles operating in accordance with the scheme known as the Harvest Mass Management Scheme and in effect immediately before commencement day is, on and from commencement day, to be taken to be an order under section 34(1)(a) modifying a mass requirement for the same term and on the same conditions that applied to the notice immediately before commencement day.
 150.Transitional regulations
 The regulations may contain provisions that are necessary or convenient for dealing with matters concerning the transition from the provisions of any written law applying before commencement day to the provisions of this Act, including regulations made under this Act, applying after commencement day.
+On the date as at which this compilation was prepared, the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 7A had not come into operation. It reads as follows:
+Division 7A — Road Traffic (Vehicles) Act 2012 amended
+73.Act amended
+This Division amends the Road Traffic (Vehicles) Act 2012.
+74.Section 5 amended
+In section 5(3):
+(a) in paragraph (e) delete “vehicle.” and insert:
+vehicle; and
+(b) after paragraph (e) insert:
+(f) a licence suspension order made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 19 or 43 is not in force in respect of the vehicle; and
+(g) the vehicle is not immobilised under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95C; and
+(h) the vehicle’s number plates have not been removed under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95F; and
+(i) a vehicle licence suspension order made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95G is not in force in respect of the vehicle; and
+(j) a vehicle licence cancellation order made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95J is not in force in respect of the vehicle.
+75.Section 16 amended
+(1) After section 16(1) insert:
+(2A) If a vehicle licence suspension order is made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95G in respect of a person, a licence held by that person in respect of the vehicle specified in the order is, by force of this section, suspended so long as the vehicle licence suspension order continues in force and during that period is of no effect.
+(2) In section 16(2) delete “Subsection (1) does” and insert:
+Subsections (1) and (2A) do
+(3) After section 16(3) insert:
+(4) If a vehicle licence cancellation order is made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95J in respect of a person, a licence held by that person in respect of the vehicle specified in the order is, by force of this section, cancelled.
+76.Section 125 amended
+In section 125(8) delete “section 19 or 43.” and insert:
+section 19, 43, 95G or 95J.
