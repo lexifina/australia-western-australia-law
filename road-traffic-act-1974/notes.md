@@ -155,6 +155,7 @@ Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 12(2)(c), (5)(d) and (7)(b) | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 Road Traffic Legislation Amendment (Information) Act 2011 s. 9 | 18 of 2011 | 2 Jun 2011 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 3 (other than s. 15-18) | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 7 | 48 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 Section 111(2)(f) of this Act has been deleted.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
@@ -457,6 +458,27 @@ Table
 s. 70(3b)(j)(i) | s. 78C(4)
 s. 79(1), (3A) | s. 79A(1)
 s. 79BA(1)(b), (b)(ii) and (2) | s. 79C(1)(a) and (b), (2)(a) and (b)
+On the date as at which this compilation was prepared, the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 7 had not come into operation. It reads as follows:
+Division 7 — Road Traffic Act 1974 amended
+70.Act amended
+This Division amends the Road Traffic Act 1974.
+71.Section 17 amended
+In section 17(2):
+(a) in paragraph (e) delete “vehicle.” and insert:
+vehicle; and
+(b) after paragraph (e) insert:
+(fa) a licence suspension order made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 19 or 43 is not in force in respect of the vehicle; and
+(f) the vehicle is not immobilised under an enforcement warrant issued under the Fines, Penalties and Infringement Notices Enforcement Act 1994; and
+(g) the vehicle’s number plates have not been removed under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95F; and
+(h) a vehicle licence suspension order made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95G is not in force in respect of the vehicle; and
+(i) a vehicle licence cancellation order made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95J is not in force in respect of the vehicle.
+72.Section 27A amended
+(1) After section 27A(1) insert:
+(2A) If a vehicle licence suspension order is made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95G in respect of a person, a licence held by that person in respect of the vehicle specified in the order is, by force of this section, suspended so long as the vehicle licence suspension order continues in force and during that period is of no effect.
+(2) In section 27A(2) delete “Subsection (1)” and insert:
+Subsections (1) and (2A)
+(3) After section 27A(3) insert:
+(4) If a vehicle licence cancellation order is made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95J in respect of a person, a licence held by that person in respect of the vehicle specified in the order is, by force of this section, cancelled.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
