@@ -59,6 +59,10 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 19 | 47 of 2011 | 25 Oct 201
 Misuse of Drugs Amendment Act 2011 Pt. 3 | 56 of 2011 | 21 Nov 2011 | 24 Mar 2012 (see s. 2(b) and Gazette 23 Mar 2012 p. 1363)
 Reprint 8: The Bail Act 1982 as at 6 Jul 2012 (includes amendments listed above except those in the Electronic Transactions Act 2011 s. 25)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 3 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Criminal Organisations Control Act 2012 s. 172 | 49 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The short title of the Justices Act 1902 was changed to the Criminal Procedure (Summary) Act 1902 by the Courts Legislation Amendment and Repeal Act 2004 s. 25. The Act was then repealed by the Criminal Procedure and Appeal (Consequential and Other Provisions) Act 2004.
 The amendment in the Sentencing Legislation Amendment and Repeal Act 1999 s. 26 had not come into operation when it was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -73,6 +77,21 @@ The Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 97 reads a
 If in a written law or other document or instrument there is a reference to the Crown Solicitor that reference may, where the context so requires, be read as if it had been amended to be a reference to the State Solicitor.
 The amendment in the Courts Legislation Amendment and Repeal Act 2004 s. 141 (amending Sch. 1 Pt. A cl. 4) is not included because the clause it sought to amend had been amended by the Acts Amendment (Court of Appeal) Act 2004 s. 28(4) before the amendment purported to come into operation.
 The Bail Amendment Act 2008 s. 6(2), 9(4)-(11), 10(2), 11(3), 15(5)-(8), 16(2), 18(4)-(5), 21(3), 22(2), 23(4), 24(6)-(7), 27(2)-(3), 28(6), 30(4)-(5), 31(2)-(3), 32(3)-(4), 33(6), 40(2), 41(5)-(9), 42(3) and 44 are transitional provisions.
+On the date as at which this compilation was prepared, the Criminal Organisations Control Act 2012 s. 172 had not come into operation. It reads as follows:
+172.Bail Act 1982 amended
+(1) This section amends the Bail Act 1982.
+(2) In Schedule 2 item 1 insert before the row relating to section 279:
+ | s. 221E(1) | Participating in activities of criminal organisation
+ | s. 221F(1) | Instructing commission of offence for benefit of criminal organisation
+(3) After Schedule 2 item 2 insert:
+2AA. | Criminal Organisations Control Act 2012
+ | s. 99(1) | Association by controlled person with another controlled person
+ | s. 99(3) | Association by controlled person with another controlled person on 3 or more occasions within 3 month period
+ | s. 102 | Offence for controlled person to get funds to, from or for declared criminal organisation
+ | s. 103 | Other contravention of interim control order or control order
+ | s. 106 | Recruiting members for declared criminal organisation
+ | s. 107(2) | Permitting premises to be habitually used as place of resort by members of declared criminal organisation
+ | s. 107(3) | Being knowingly concerned in the management of premises habitually used as place of resort by members of declared criminal organisation
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
