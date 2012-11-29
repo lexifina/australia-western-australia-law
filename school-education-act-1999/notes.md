@@ -18,11 +18,13 @@ Training Legislation Amendment and Repeal Act 2008 s. 61 | 44 of 2008 | 10 Dec 2
 Public Sector Reform Act 2010 s. 89 and 110 | 39 of 2010 | 1 Oct 2010 | s. 89: 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563) s. 110: 28 Mar 2011 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Curriculum Council Amendment Act 2011 Pt. 3 Div. 4 | 37 of 2011 | 13 Sep 2011 | 1 Mar 2012 (see s. 2(b) and Gazette 28 Feb 2012 p. 841)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 7 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
+School Education Amendment Act 2012 s. 1-3 and 5 | 46 of 2012 | 29 Nov 2012 | 29 Nov 2012 (see s. 2(a))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 s. 182(3) and 208 | 36 of 1999 | 2 Nov 1999 | To be proclaimed (see s. 2)
 Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 Pt. 3 | 1 of 2011 | 1 Mar 2011 | To be proclaimed (see s. 2(b))
+School Education Amendment Act 2012 Pt. 2 (except s. 3 and 5) | 46 of 2012 | 29 Nov 2012 | 1 Jan 2013 (see s. 2(b))
 The provisions in this Act amending the other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Children and Community Services Act 2004.
 On the date as at which this compilation was prepared, the School Education Act 1999 s. 182(3) and 208 had not come into operation. They read as follows:
@@ -54,7 +56,6 @@ year 11 and year 12 have the meanings given to those terms by section 4 of the p
 as mentioned in section 11B(1) of the principal Act (inserted by section 20), notice under section 11D(1) of the principal Act (as so inserted) must be given no later than 1 February 2006.
 ”.
 The Financial Legislation Amendment and Repeal Act 2006 (now known as the Financial Management (Transitional Provisions) Act 2006) Sch. 2 deals with certain transitional issues some of which may be relevant for this Act.
-Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 Pt. 3 had not come into operation. It reads as follows:
 Part 3 — School Education Act 1999 amended
 7.Act amended
@@ -68,3 +69,33 @@ In section 244(2):
 (ba) make provision for requirements as to the health and safety of children enrolled at a school or a community kindergarten registered under Part 5; and
 (b) after paragraph (a) insert:
 and
+9On the date as at which this compilation was prepared, the School Education Amendment Act 2012 Pt. 2 (except s. 3 and 5) had not come into operation. It reads as follows:
+Part 2 — School Education Act 1999 amended
+4.Section 4 amended
+(1) In section 4 delete the definition of year 11 and year 12.
+(2) In section 4 insert in alphabetical order:
+final years of compulsory education for a child means the final 2 years of the compulsory education period for the child;
+(3) In section 4 in the definition of teaching staff delete “section 236(2);” and insert:
+section 236(2).
+6.Part 2 Division 1 heading replaced
+Delete the heading to Part 2 Division 1 and insert:
+Division 1 — Compulsory education with alternatives in final years of compulsory education
+7.Section 10 amended
+In section 10(2) delete “year 11 or year 12” and insert:
+either of the final years of compulsory education
+8.Part 2 Division 1 Subdivision 1A heading replaced
+Delete the heading to Part 2 Division 1 Subdivision 1A and insert:
+Subdivision 1A — Alternatives to the operation of section 9 in final years of compulsory education
+9.Section 11B amended
+In section 11B(1) delete “year 11 and year 12” and insert:
+the final years of compulsory education
+10.Section 11M amended
+(1) In section 11M(1)(b) delete “year 11 and year 12.” and insert:
+the final years of compulsory education.
+(2) In section 11M(2)(a) delete “year 11 or year 12” and insert:
+either of the final years of compulsory education
+11.Section 192 amended
+In section 192(a) delete “the first year of”.
+12.Section 199 amended
+In section 199(1)(a) delete “the first year of”.
+Note:In the note under section 9(1a) delete “year 11 or 12” and insert “either of the final years of compulsory education”.
