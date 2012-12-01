@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 April 2012 of the Magistrates Court (Fees) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Magistrates Court (Fees) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Magistrates Court (Fees) Regulations 2005 | 28 Apr 2005 p. 1573-603 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -18,6 +18,7 @@ Magistrates Court (Fees) Amendment Regulations (No. 2) 2011 | 20 Dec 2011 p. 538
 Magistrates Court (Fees) Amendment Regulations 2012 | 17 Jan 2012 p. 463-5 | r. 1 and 2: 17 Jan 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jan 2012 (see r. 2(b))
 Magistrates Court (Fees) Amendment Regulations (No. 2) 2012 | 27 Mar 2012 p. 1507 | r. 1 and 2: 27 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Mar 2012 (see r. 2(b))
 Reprint 2: The Magistrates Court (Fees) Regulations 2005 as at 6 Apr 2012 (includes amendments listed above)
+Magistrates Court (Fees) Amendment Regulations (No. 3) 2012 | 30 Nov 2012 p. 5791-3 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
 The Magistrates Court (Fees) Amendment Regulations (No. 2) 2011, Table to r. 4 included amendments to Schedule 1 Divisions 2 and 3. These amendments are not included because the instruction in r. 4 referred only to Schedule 1 Division 1.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
