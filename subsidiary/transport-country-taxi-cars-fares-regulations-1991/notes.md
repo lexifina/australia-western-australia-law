@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 26 October 2012 of the Country Taxi-cars (Fares and Charges) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Country Taxi-cars (Fares and Charges) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Country Taxi-cars (Fares and Charges) Regulations 1991 | 19 Apr 1991 p. 1815-20 | 19 Apr 1991
@@ -38,6 +38,7 @@ Country Taxi-cars (Fares and Charges) Amendment Regulations (No. 2) 2011 | 30 No
 Country Taxi-cars (Fares and Charges) Amendment Regulations 2012 | 22 Jun 2012 p. 2798-9 | r. 1 and 2: 22 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Country Taxi-cars (Fares and Charges) Amendment Regulations (No. 2) 2012 | 29 Jun 2012 p. 2962-3 | r. 1 and 2: 29 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Reprint 3: The Country Taxi-cars (Fares and Charges) Regulations 1991 as at 26 Oct 2012 (includes amendments listed above)
+Country Taxi-cars (Fares and Charges) Amendment Regulations (No. 3) 2012 | 30 Nov 2012 p. 5808-12 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
 Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
 If immediately before commencement of the Courts Legislation Amendment and Repeal Act 2004 Pt. 2 Div. 2, a person held office under the Local Courts Act 1904 s. 13 as a clerk, then on commencement the person is taken under the Courts Legislation Amendment and Repeal Act 2004 s. 6(1) to have been appointed as a registrar of the Magistrates Court.
