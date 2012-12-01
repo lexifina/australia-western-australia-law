@@ -16,6 +16,7 @@ Community Protection (Offender Reporting) Amendment Regulations 2009 | 20 Feb 20
 Reprint 2: The Community Protection (Offender Reporting) Regulations 2004 as at 3 Jul 2009 (includes amendments listed above)
 Community Protection (Offender Reporting) Amendment Regulations 2010 | 21 Jan 2011 p. 157-8 | r. 1 and 2: 21 Jan 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jan 2011 (see r. 2(b))
 Community Protection (Offender Reporting) Amendment Regulations 2011 | 1 Jul 2011 p. 2746-7 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2011 (see r. 2(b))
+Community Protection (Offender Reporting) Amendment Regulations 2012 | 30 Nov 2012 p. 5802 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
 Formerly referred to the Criminal Law (Mentally Impaired Defendants) Act 1996 the short title of which was changed to the Criminal Law (Mentally Impaired Accused) Act 1996 by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Censorship Act 1996 the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined Terms
