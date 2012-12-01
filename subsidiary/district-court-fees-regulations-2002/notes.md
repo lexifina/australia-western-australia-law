@@ -18,6 +18,7 @@ District Court (Fees) Amendment Regulations 2010 | 30 Jul 2010 p. 3497-8 | r. 1 
 District Court (Fees) Amendment Regulations 2011 | 8 Mar 2011 p. 784-7 | r. 1 and 2: 8 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Mar 2011 (see r. 2(b))
 District Court (Fees) Amendment Regulations (No. 2) 2011 | 20 Dec 2011 p. 5380-3 | r. 1 and 2: 20 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2011 (see r. 2(b))
 District Court (Fees) Amendment Regulations 2012 | 27 Mar 2012 p. 1506 | r. 1 and 2: 27 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Mar 2012 (see r. 2(b))
+District Court (Fees) Amendment Regulations (No. 3) 2012 | 30 Nov 2012 p. 5788-90 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
 Repealed by the District Court Rules 2005 r. 72.
 The District Court (Fees) Amendment Regulations 2005 r. 13 reads as follows:
 13.Transitional: recognised reporting services
