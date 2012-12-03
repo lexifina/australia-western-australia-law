@@ -9,23 +9,8 @@ Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Reg
 Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2010 | 22 Jun 2010 p. 2715-40 | r. 1 and 2: 22 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2010 (see r. 2(b))
 Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations (No. 2) 2010 | 20 Aug 2010 p. 4070-1 | r. 1 and 2: 20 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2010 (see r. 2(b))
 Reprint 1: The Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007 as at 1 Oct 2010 (includes amendments listed above)
-Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2012 r. 1, 2, 3-7, 9 and 11-13 | 3 Aug 2012 p. 3757-60 | r. 1 and 2: 3 Aug 2012 (see r. 2(a)); r. 3-7, 9 and 11-13: 4 Aug 2012 (see r. 2(c))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2012 r. 8 and 10 | 3 Aug 2012 p. 3757-60 | 3 Dec 2012 (see r. 2(b))
+Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2012 | 3 Aug 2012 p. 3757-60 | r. 1 and 2: 3 Aug 2012 (see r. 2(a)); Regulations other than r. 1, 2, 8 & 10: 4 Aug 2012 (see r. 2(c)); r. 8 and 10: 3 Dec 2012 (see r. 2(b))
 The Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations (No. 2) 2010 published in Gazette 25 Jun 2010 p. 2873-4 were repealed before the amendment purported to come into operation by the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Repeal Regulations 2010 (see Gazette 30 Jun 2010 p. 3157).
-On the date as at which this compilation was prepared, the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2012 r. 8 and 10 had not come into operation. They read as follows:
-8.Regulation 225 amended
-(1) In regulation 225(2) delete “3 years.” and insert:
-5 years.
-(2) In regulation 225(5) delete “3 years.” and insert:
-5 years.
-10.Regulation 235 amended
-(1) In regulation 235(2) delete “3 years.” and insert:
-5 years.
-(2) Delete regulation 235(5) and insert:
-(5) A dangerous goods vehicle licence is renewed for the period specified in the renewed licence, being a period of not longer than 5 years.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
