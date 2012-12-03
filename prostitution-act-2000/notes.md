@@ -24,6 +24,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 Pt. 2 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Criminal Investigation (Covert Powers) Act 2012 Pt. 10 | 55 of 2012 | 3 Dec 2012 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 Pt. 2 had not come into operation. It reads as follows:
@@ -559,6 +560,16 @@ s. 6(1) | s. 6(3)(a) | s. 6(4)(c)
 s. 6(2)(a) | s. 6(3)(b)(i)
 s. 6(3) | s. 6(3)(b)(ii)
 ”.
+On the date as at which this compilation was prepared, the Criminal Investigation (Covert Powers) Act 2012 Pt. 10 had not come into operation. It reads as follows:
+Part 10 — Prostitution Act 2000 amended
+122.Act amended
+This Part amends the Prostitution Act 2000.
+123.Section 35 deleted
+Delete section 35.
+124.Section 36 amended
+In section 36 delete “a function given by section 35(6) or”.
+125.Section 53 deleted
+Delete section 53.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
