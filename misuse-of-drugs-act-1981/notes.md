@@ -53,6 +53,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Misuse of Drugs Amendment Act 2011 s. 5-8 | 56 of 2011 | 21 Nov 2011 | To be proclaimed (see s. 2(b))
 Criminal Organisations Control Act 2012 s. 179 | 49 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
+Criminal Investigation (Covert Powers) Act 2012 Pt. 9 | 55 of 2012 | 3 Dec 2012 | To be proclaimed (see s. 2(b))
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 read as follows:
@@ -174,6 +175,29 @@ relevant drug offence means an offence under any of the following provisions —
 (b)section 5(1)(c), where the premises are used for the purpose referred to in section 5(1)(a)(i);
 (c)sections 6(1), 7(1) and 14(1);
 (d)section 33, where the principal offence (as defined in that section) is one of the offences listed in paragraphs (a) to (c);
+On the date as at which this compilation was prepared, the Criminal Investigation (Covert Powers) Act 2012 Pt. 9 had not come into operation. It reads as follows:
+Part 9 — Misuse of Drugs Act 1981 amended
+117.Act amended
+This Part amends the Misuse of Drugs Act 1981.
+118.Section 3 amended
+In section 3(1) insert in alphabetical order:
+undercover officer means a participant or a corresponding participant as those terms are defined in the Criminal Investigation (Covert Powers) Act 2012 section 5;
+undercover operation means an authorised operation or corresponding authorised operation as those terms are defined in the Criminal Investigation (Covert Powers) Act 2012 section 5;
+119.Section 26 amended
+(1) In section 26(2):
+(a) delete paragraph (a) and insert:
+(a) while he or she is an undercover officer acting in the course of an undercover operation, acquires a prohibited drug or prohibited plant; or
+(b) in paragraph (b) delete “an authorised person” and insert:
+an undercover officer
+(2) Delete section 26(3).
+120.Section 31 replaced
+Delete section 31 and insert:
+31.Undercover officers
+(1) An undercover officer who is not a police officer commits a simple offence if, after having been warned under subsection (2), the officer acquires a prohibited drug or prohibited plant while acting in the course of an undercover operation and does not deliver the prohibited drug or prohibited plant to a police officer as soon as is reasonably practicable after that acquisition.
+(2) The Commissioner must warn in writing an undercover officer who is not a police officer that if, having acquired a prohibited drug or prohibited plant whilst acting in the course of an undercover operation, that undercover officer does not deliver the prohibited drug or prohibited plant to a police officer as soon as is reasonably practicable after that acquisition, that undercover officer commits a simple offence under subsection (1).
+121.Section 34 amended
+In section 34(1)(e) delete “or 31(4)” and insert:
+or 31(1)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
