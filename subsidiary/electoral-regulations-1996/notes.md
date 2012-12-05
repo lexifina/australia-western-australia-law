@@ -14,6 +14,7 @@ Reprint of the Electoral Regulations 1996 as at 1 Dec 2000 (includes amendments 
 Electoral Amendment Regulations 2007 | 11 May 2007 p. 1995-2002 | 11 May 2007
 Reprint 2: The Electoral Regulations 1996 as at 2 May 2008 (includes amendments listed above)
 Electoral Amendment Regulations 2008 | 21 Nov 2008 p. 4922 | r. 1 and 2: 21 Nov 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Nov 2008 (see r. 2(b))
+Electoral Amendment Regulations 2012 | 4 Dec 2012 p. 5910-18 | r. 1 and 2: 4 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2012 (see r. 2(b) and Gazette 4 Dec 2012 p. 5907)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
