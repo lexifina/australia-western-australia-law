@@ -11,97 +11,16 @@ Reprint 1: The Western Australian College of Teaching Act 2004 as at 5 Dec 2008 
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 135 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Curriculum Council Amendment Act 2011 Pt. 3 Div. 5 | 37 of 2011 | 13 Sep 2011 | 1 Mar 2012 (see s. 2(b) and Gazette 28 Feb 2012 p. 841)
+Teacher Registration Act 2012 Pt. 9 Div. 1 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Prostitution Amendment Act 2008 s. 34 | 13 of 2008 (as amended by No. 16 of 2012 s. 167) | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Teacher Registration Act 2012 s. 132 and Pt. 9 Div. 1 | 16 of 2012 | 3 Jul 2012 | Pt. 9 Div. 1: 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637); s. 132: to be proclaimed (see s. 2(b))
-The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
-On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 34 (as amended by the Teacher Registration Act 2012 s. 167) had not come into operation. It reads as follows:
-34.Western Australian College of Teaching Act 2004 amended
-(1) The amendments in this section are to the Western Australian College of Teaching Act 2004.
-(2) Schedule 2 is amended as follows:
-(a) by deleting the entry relating to section 191 of The Criminal Code;
-(b) by deleting “Prostitution Act 2000” and inserting instead —
-“ Sexual Services Act 2000 ”;
-(c) by deleting “prostitution industry” and inserting instead —
-“ sexual service business ”;
-(d) by deleting “prostitute” in each place where it occurs and inserting instead —
-“ sex worker ”;
-(e) by deleting the entries relating to sections 17, 18, 20 and 21 of the Prostitution Act 2000 and inserting instead —
-s. 17 | Obtaining payment for commercial sexual act by a child
-s. 18 | Agreement for child to act as a sex worker
-s. 20 | Commercial sexual act at place where child present
-s. 21 | Allowing child to be at place involving commercial sexual act or certain sexual service businesses
-s. 21A | Obligations of those who operate sexual service business in relation to children
-On the date as at which this compilation was prepared, the Teacher Registration Act 2012 s. 167 had not come into operation and purports to delete s. 34 of the Prostitution Amendment Act 2008. It reads as follows:
-167.Prostitution Amendment Act 2008 amended
-(1) This section amends the Prostitution Amendment Act 2008.
-(2) Delete section 34.
-On the date as at which this compilation was prepared, the Teacher Registration Act 2012 s. 132 and Pt. 9 Div. 1 had not come into operation. They read as follows:
+Teacher Registration Act 2012 s. 132 | 16 of 2012 | 3 Jul 2012 | To be proclaimed (see s. 2(b))
+The amendment in the Prostitution Amendment Act 2008 s. 34 is not included because the Schedule it sought to amend had been deleted by the Teacher Registration Act 2012 s. 167 before the amendment purported to come into operation.
+On the date as at which this compilation was prepared, the Teacher Registration Act 2012 s. 132 had not come into operation. It reads as follows:
 132.Western Australian College of Teaching Act 2004 repealed
 (1) The Western Australian College of Teaching Act 2004 is repealed.
 (2) If, when this section comes into operation, Part 9 Division 1 is not in operation, then Part 9 Division 1 is repealed.
-Part 9 — Amendments to other Acts
-Division 1 — Western Australian College of Teaching Act 2004 amended
-150.Western Australian College of Teaching Act 2004 amended
-This Division amends the Western Australian College of Teaching Act 2004.
-151.Long title amended
-In the long title delete the second, third and fourth dot points and insert:
-·provide for the winding-up of that College,
-152.Section 3 replaced
-Delete section 3 and insert:
-3.Terms used
-In this Act —
-Board means the Board established under section 7;
-CEO has the meaning given in the Teacher Registration Act 2012 section 3;
-College means the Western Australian College of Teaching established under section 5;
-commencement day means the day on which the Teacher Registration Act 2012 Part 9 Division 1 comes into operation;
-Teacher Registration Board Account means the account referred to in the Teacher Registration Act 2012 section 115.
-153.Section 7 amended
-Delete section 7(2) and insert:
-(2) The Board is constituted by the CEO.
-154.Sections 9 to 13 deleted
-Delete sections 9 to 13.
-155.Section 15 amended
-(1) In section 15(2):
-(a) in paragraph (b) delete “information; and” and insert:
-information.
-(b) delete paragraph (c).
-(2) Delete section 15(3).
-156.Sections 16 to 18 replaced
-Delete sections 16, 17 and 18 and insert:
-16.Term used: residual affairs
-In this Division —
-residual affairs means the affairs of the College in respect of —
-(a)the real property held by the College under this Act immediately before commencement day; and
-(b)any liabilities relating to that real property.
-17.Function of College
-(1) The function of the College is to manage and wind-up its residual affairs.
-(2) The College is to wind-up its residual affairs as soon as is reasonably practicable after commencement day.
-18.Powers of College
-(1) The College may do all things that are necessary or expedient for managing and winding-up its residual affairs.
-(2) Without limiting what may be done to wind-up its residual affairs, the College is to —
-(a) dispose of the real property held by the College under this Act immediately before commencement day; and
-(b) discharge any remaining liabilities relating to that real property.
-157.Sections 19 to 21 deleted
-Delete sections 19 to 21.
-158.Section 25 amended
-(1) In section 25(1)(b) delete “a member, or members, of the Board authorised by the College to do so.” and insert:
-the CEO.
-(2) In section 25(3) delete “any 2 members of the Board and each of them” and insert:
-the CEO and the CEO
-159.Section 26 replaced
-Delete section 26 and insert:
-26.Funds available to the College
-(1) All moneys received by the College in performing its function under this Act, including any proceeds from the disposal of property, are to be credited to the Teacher Registration Board Account.
-(2) All expenditure incurred by the College for the purposes of performing its function, including the repayment of moneys borrowed by or advanced to the College, is to be charged to the Teacher Registration Board Account.
-160.Sections 27 to 29 deleted
-Delete sections 27 to 29.
-161.Parts 4 to 9 deleted
-Delete Parts 4 to 9.
-162.Schedules 1 to 4 deleted
-Delete Schedules 1 to 4.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -142,4 +61,3 @@ teacher currently teachingSch. 4 cl. 2(3)
 teacher not currently teachingSch. 4 cl. 3(3)
 teaching3(1)
 unprofessional conduct3(1)
-By Authority: JOHN A. STRIJK, Government Printer

@@ -19,11 +19,11 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Children and Community Services Amendment Act 2010 Pt. 2 Div. 1 and Pt. 3-5 | 49 of 2010 | 24 Nov 2010 | 31 Jan 2011 (see s. 2(b) and Gazette 28 Jan 2011 p. 241)
 Reprint 3: The Children and Community Services Act 2004 as at 4 Mar 2011 (includes amendments listed above)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 2 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
+Teacher Registration Act 2012 s. 163 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 6 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Teacher Registration Act 2012 s. 163 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions relating to the repealed Pt. 8 of this Act.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 6 had not come into operation. It reads as follows:
@@ -33,12 +33,6 @@ This Division amends the Children and Community Services Act 2004.
 54.Section 102 amended
 In section 102 delete “Road Traffic Act 1974)” and insert:
 Road Traffic (Administration) Act 2008 section 4)
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Teacher Registration Act 2012 s. 163 had not come into operation. It reads as follows:
-163.Children and Community Services Act 2004 amended
-(1) This section amends the Children and Community Services Act 2004.
-(2) In section 124A in the definition of teacher delete paragraphs (a) and (b) and insert:
-(a)a person who is registered under the Teacher Registration Act 2012; or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

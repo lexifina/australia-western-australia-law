@@ -48,11 +48,11 @@ Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 
 Cannabis Law Reform Act 2010 Pt. 4 | 45 of 2010 | 28 Oct 2010 | 1 Aug 2011 (see s. 2(b) and Gazette 29 Jul 2011 p. 3127)
 Reprint 6: The Spent Convictions Act 1988 as at 5 Aug 2011 (includes amendments listed above)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 8 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
+Teacher Registration Act 2012 s. 169 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Misuse of Drugs Amendment Act 2011 Pt. 4 | 56 of 2011 | 21 Nov 2011 | To be proclaimed (see s. 2(b))
-Teacher Registration Act 2012 s. 169 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
@@ -68,18 +68,6 @@ This Part amends the Spent Convictions Act 1988.
 13.Section 11 amended
 Delete section 11(6)(a)(i) and insert:
 (i) section 5(1)(d)(i) or 7B(6); or
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Teacher Registration Act 2012 s. 169 had not come into operation. It reads as follows:
-169.Spent Convictions Act 1988 amended
-(1) This section amends the Spent Convictions Act 1988.
-(2) In Schedule 3 clause 1(3) in the Table —
-(a) in item 14 delete “section 7 of the Western Australian College of Teaching Act 2004.” and insert:
-the Teacher Registration Act 2012 section 86.
-(b) delete item 15;
-(c) delete item 16 and insert:
-16.A person who is registered, or who has applied for registration, under the Teacher Registration Act 2012.
-(3) In Schedule 3 delete clause 1(4)(d) and insert:
-(d) who has registered or is considering registering the person.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
