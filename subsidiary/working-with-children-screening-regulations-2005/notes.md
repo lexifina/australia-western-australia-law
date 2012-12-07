@@ -14,6 +14,7 @@ Working with Children (Criminal Record Checking) Amendment Regulations 2010 | 5 
 Reprint 2: The Working with Children (Criminal Record Checking) Regulations 2005 as at 14 Jan 2011 (includes amendments listed above)
 Working with Children (Criminal Record Checking) Amendment Regulations 2011 | 1 Jul 2011 p. 2713-14 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Working with Children (Criminal Record Checking) Amendment Regulations 2012 | 29 Jun 2012 p. 2929-30 | r. 1 and 2: 29 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+Working with Children (Criminal Record Checking) Amendment Regulations (No. 2) 2012 | 30 Nov 2012 p. 5780-1 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Dec 2012 (see r. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Now known as the Electricity Transmission and Distribution Systems (Access) Act 1994.
 Repealed by the Children and Community Services Act 2004 s. 250.
 Defined Terms
@@ -24,6 +25,4 @@ child-related job10(4)
 CrimTrac Agency6(2)
 driver’s licence endorsed with extension F or T18(3)
 employer21(3)(g)
-member of the College3
 section3
-By Authority: JOHN A. STRIJK, Government Printer
