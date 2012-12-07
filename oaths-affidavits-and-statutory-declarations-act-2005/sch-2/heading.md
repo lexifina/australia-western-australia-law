@@ -44,7 +44,7 @@ Item | Formal description | Informal description
 39. | The holder of a licence under the Settlement Agents Act 1981. | Settlement agent
 40. | The Sheriff of Western Australia and any deputy sheriff appointed by the Sheriff of Western Australia. | Sheriff or deputy sheriff
 41. | A licensed surveyor within the meaning of the Licensed Surveyors Act 1909. | Surveyor
-42. | A person employed as a member of the teaching staff within the meaning of the School Education Act 1999 or as a teacher of a non-government school within the meaning of that Act. | Teacher
+42. | A person registered under the Teacher Registration Act 2012. | Registered teacher
 43. | A member, registrar or clerk, or the chief executive officer, of any tribunal of the State or the Commonwealth. | Tribunal officer
 44. | A registered veterinary surgeon within the meaning of the Veterinary Surgeons Act 1960. | Veterinary surgeon
-[Schedule 2 amended in Gazette 9 Jun 2006 p. 2030; 21 Dec 2007 p. 6328; 9 Dec 2011 p. 5235; amended by No. 21 of 2008 s. 684(5); No. 22 of 2008 s. 162; No. 35 of 2010 s. 120.]
+[Schedule 2 amended in Gazette 9 Jun 2006 p. 2030; 21 Dec 2007 p. 6328; 9 Dec 2011 p. 5235; amended by No. 21 of 2008 s. 684(5); No. 22 of 2008 s. 162; No. 35 of 2010 s. 120; No. 16 of 2012 s. 165.]
