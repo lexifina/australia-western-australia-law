@@ -220,6 +220,7 @@ Trustees of Public Education Endowment
 Department of Education Services | Aboriginal Education and Training Council
 Non-Government Schools Planning Advisory Committee
 Rural and Remote Education Advisory Council
+Teacher Registration Board of Western Australia
 Training Accreditation Council
 Western Australian Higher Education Council
 Department of Environment and Conservation | Cockburn Sound Management Council
@@ -356,4 +357,4 @@ Land Surveyors Licensing Board
 Pastoral Board
 Valuer General’s Office
 WorkCover Western Australia Authority (Workcover WA) | Dispute Resolution Directorate
-[Schedule 2 inserted in Gazette 28 Dec 2007 p. 6415-23; amended in Gazette 6 Mar 2012 p. 893 and 896.]
+[Schedule 2 inserted in Gazette 28 Dec 2007 p. 6415-23; amended in Gazette 6 Mar 2012 p. 893 and 896; 7 Dec 2012 p. 5993.]

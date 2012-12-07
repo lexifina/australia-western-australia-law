@@ -12,6 +12,7 @@ Freedom of Information Amendment Regulations 2007 | 28 Dec 2007 p. 6414-23 | 28 
 Reprint 1: The Freedom of Information Regulations 1993 as at 14 Mar 2008 (includes amendments listed above)
 Freedom of Information Amendment Regulations (No. 2) 2012 | 6 Mar 2012 p. 892-3 | r. 1 and 2: 6 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2012 (see r. 2(b))
 Freedom of Information Amendment Regulations 2012 | 6 Mar 2012 p. 896 | r. 1 and 2: 6 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2012 (see r. 2(b))
+Freedom of Information Amendment Regulations (No. 3) 2012 | 7 Dec 2012 p. 5993 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Dec 2012 (see r. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
