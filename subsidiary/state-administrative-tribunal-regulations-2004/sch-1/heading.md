@@ -33,7 +33,8 @@ Psychologists Act 2005
 Radiation Safety Act 1975
 Real Estate and Business Agents Act 1978
 Settlement Agents Act 1981
+Teacher Registration Act 2012
 Travel Agents Act 1985
 Veterinary Surgeons Act 1960
 Water Services Licensing Act 1995
-[Schedule 1 amended in Gazette 31 Jul 2007 p. 3805.]
+[Schedule 1 amended in Gazette 31 Jul 2007 p. 3805; 7 Dec 2012 p. 5994.]
