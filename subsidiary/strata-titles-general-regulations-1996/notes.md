@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Strata Titles General Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 December 2012 of the Strata Titles General Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Strata Titles General Regulations 1996 | 14 Mar 1996 p. 917-78 | 14 Apr 1996 (see r. 2 and Gazette 15 Mar 1996 p. 981)
@@ -34,7 +34,7 @@ Strata Titles General Amendment Regulations (No. 5) 2006 | 29 Dec 2006 p. 5913-1
 Strata Titles General Amendment Regulations 2007 | 25 Jun 2007 p. 2961-3 | r. 1 and 2: 25 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2007 (see r. 2(b))
 Strata Titles General Amendment Regulations (No. 2) 2007 | 25 Jun 2007 p. 2964-5 | r. 1 and 2: 25 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Reprint 5: The Strata Titles General Regulations 1996 as at 28 Sep 2007 (includes amendments listed above)
-Strata Titles General Amendment Regulations 2008 | 20 Jun 2008 p. 2709-10 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Strata Titles General Amendment Regulations 2008 | 20 Jun 2008 p. 2709-10 | r. 1 and 2: 20 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Strata Titles General Amendment Regulations (No. 2) 2008 | 9 Jan 2009 p. 27-8 | r. 1 and 2: 9 Jan 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jan 2009 (see r. 2(b))
 Strata Titles General Amendment Regulations 2009 | 19 Jun 2009 p. 2243-4 | r. 1 and 2: 19 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Strata Titles General Amendment Regulations 2010 | 18 Jun 2010 p. 2678-9 | r. 1 and 2: 18 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
@@ -43,24 +43,26 @@ Strata Titles General Amendment Regulations 2011 | 14 Jun 2011 p. 2137-8 | r. 1 
 Strata Titles General Amendment Regulations (No. 2) 2011 | 2 Sep 2011 p. 3616-17 | r. 1 and 2: 2 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Sep 2011 (see r. 2(b))
 Strata Titles General Amendment Regulations 2012 | 13 Apr 2012 p. 1657-8 | r. 1 and 2: 13 Apr 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Apr 2012 (see r. 2(b)(ii))
 Strata Titles General Amendment Regulations (No. 2) 2012 | 22 Jun 2012 p. 2784-5 | r. 1 and 2: 22 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+Reprint 7: The Strata Titles General Regulations 1996 as at 7 Dec 2012 (includes amendments listed above)
 Repealed by the Strata Titles Act 1985.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
+Section 27(3)(c) was deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1118(1)(e).
 The Strata Titles Amendment Act 1995 commenced 14 March 1996.
 The Strata Titles Regulations 1985 were repealed by r. 47 of these regulations, which was omitted under the Reprints Act 1984 s. 7(4)(f).
+Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
 The Strata Titles General Amendment Regulations 2000 r. 2(2) is a transitional provision that is of no further effect.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-dominant lot14D(2)
-easement area14D(2)
+Defined termProvision(s)
+dominant lot14D(2)(a)
+easement area14D(2)(b)
 form3
-GSTSch. 1,
+GSTSch. 1 it. 6
 Licensed Surveyors Regulations3
 plan3
-relevant written laws39(3)
 section3
-servient lot14D(2)
+servient lot14D(2)(a)
 single tier building37AA(2)
 Survey Regulations3
 TLA Regulations3
