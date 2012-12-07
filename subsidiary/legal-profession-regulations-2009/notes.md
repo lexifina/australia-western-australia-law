@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Legal Profession Regulations 2009 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 7 December 2012 of the Legal Profession Regulations 2009 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Legal Profession Regulations 2009 | 27 Feb 2009 p. 545-653 | r. 1 and 2: 27 Feb 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2009 (see r. 2(b) and Gazette 27 Feb 2009 p. 511)
@@ -11,9 +11,10 @@ Legal Profession Amendment Regulations (No. 4) 2011 | 30 Aug 2011 p. 3507-8 | r.
 Legal Profession Amendment Regulations 2012 | 6 Mar 2012 p. 894 | r. 1 and 2: 6 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2012 (see r. 2(b))
 Legal Profession Amendment Regulations (No. 2) 2012 | 1 May 2012 p. 1805 | r. 1 and 2: 1 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 2 May 2012 (see r. 2(b))
 Legal Profession Amendment Regulations (No. 4) 2012 | 29 Jun 2012 p. 2951-2 | r. 1 and 2: 29 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2012 (see r. 2(b))
-Defined Terms
+Reprint 1: The Legal Profession Regulations 2009 as at 7 Dec 2012 (includes amendments listed above)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 2003 Act113
 2004 Rules113
 2008 Act113
