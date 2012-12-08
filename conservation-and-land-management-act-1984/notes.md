@@ -55,13 +55,12 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 34 | 8 of 2009 | 21 
 Acts Amendment (Bankruptcy) Act 2009 s. 19 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4, 44(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Conservation Legislation Amendment Act 2011 Pt. 2 (other than s. 40) | 36 of 2011 | 13 Sep 2011 | 14 Mar 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
+Conservation Legislation Amendment Act 2011 Pt. 2 | 36 of 2011 | 13 Sep 2011 | Pt. 2 (other than s. 40): 14 Mar 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033); s. 40: 8 Dec 2012 (see s. 2(b) and Gazette 7 Dec 2012 p. 5963)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 6 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
-Reprint 8: The Conservation and Land Management Act 1984 as at 11 May 2012 (includes amendments listed above)
+Reprint 8: The Conservation and Land Management Act 1984 as at 11 May 2012 (includes amendments listed above except the Conservation Legislation Amendment Act 2011 s. 40)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Conservation Legislation Amendment Act 2011 s. 40 | 36 of 2011 | 13 Sep 2011 | To be proclaimed (see s. 2(b))
 Water Services Legislation Amendment and Repeal Act 2012 s. 207 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The Land Act 1933 was repealed by the Land Administration Act 1997 s. 281.
 The Forests Act 1918 was repealed by s. 147(1) of this Act.
@@ -208,67 +207,6 @@ Executive Director means the Executive Director referred to in section 36 of the
 and, unless the contrary intention appears, other words and expressions in this section have the same respective meanings as they have in the Conservation and Land Management Act 1984.
 The requirement to appoint an Executive Director was removed from the Act and references to the Executive Director were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
 The requirement to establish the Department of Conservation and Land Management was removed from the Act, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 453 of that Act is a general transitional provision that applies to references to the Department of Conservation and Land Management in written laws.
-On the date as at which this compilation was prepared, the Conservation Legislation Amendment Act 2011 s. 40 had not come into operation. It reads as follows:
-Part 2 — Conservation and Land Management Act 1984 amended
-40.Sections 103A and 103B inserted
-At the end of Part IX Division 1 insert:
-103A.Aboriginal persons may do things for customary purposes
-(1) In this section —
-Aboriginal customary purpose means —
-(a)preparing or consuming food customarily eaten by Aboriginal persons; or
-(b)preparing or using medicine customarily used by Aboriginal persons; or
-(c)engaging in artistic, ceremonial or other cultural activities customarily engaged in by Aboriginal persons; or
-(d)engaging in activities incidental to a purpose stated in paragraph (a), (b) or (c);
-exclusive native title holder, for an area in relation to which exclusive native title exists, means —
-(a)the registered native title body corporate (as defined in section 253 of the NT Act) in respect of the native title rights and interests concerned; or
-(b)if there is no such body corporate, each person who holds the native title rights and interests concerned or a person acting with the authority of each such person;
-managed land means any land, waters or any land and waters, that are the subject of a management plan;
-protected thing means any flora, fauna, forest produce or other naturally occurring thing, the taking or removal of which from land to which this Part applies is prohibited or restricted by this Act;
-relevant act, on land to which this Part applies, means —
-(a)entering the land;
-(b)driving or riding a vehicle or navigating a vessel on the land;
-(c)bringing an animal on to the land;
-(d)camping temporarily on the land;
-(e)lighting or kindling a fire on the land;
-(f)taking or removing a protected thing on the land;
-take, in relation to fauna, includes the following —
-(a)to capture, injure, interfere with and kill fauna;
-(b)to attempt to do any such act;
-(c)to hunt fauna even though no fauna is captured, injured or killed;
-(d)to cause or permit any such act to be done;
-take, in relation to any protected thing other than fauna, includes the following —
-(a)to cut, damage, destroy, dig up, gather, pick and uproot the thing;
-(b)to attempt to do any such act;
-(c)to cause or permit any such act to be done;
-vehicle has the meaning given in section 81.
-(2) This section does not affect the operation of the Wildlife Conservation Act 1950.
-(3) It is a defence to a charge of an offence against this Act that is alleged to have been committed on land to which this Part applies and that is constituted by a relevant act on the land to prove —
-(a) the accused is an Aboriginal person; and
-(b) the accused did the relevant act for an Aboriginal customary purpose; and
-(c) in doing the relevant act the accused complied with any regulations that restrict or exclude the operation of this subsection; and
-(d) if the offence is alleged to have been committed in an area in relation to which exclusive native title exists, the accused either —
-(i) held the exclusive native title alone or with other persons; or
-(ii) did the relevant act with the consent of the exclusive native title holder;
-and
-(e) if the offence is alleged to have been committed on section 8A land, the accused, under the relevant section 8A agreement, was permitted to do the act on the land for an Aboriginal customary purpose.
-(4) If, but for this subsection, the defence provided by subsection (3) would entitle an Aboriginal person to do an act that is inconsistent with the continued existence, enjoyment or exercise of any native title rights and interests (as defined in section 223 of the NT Act) held by another Aboriginal person, the defence does not apply to that act.
-(5) An Aboriginal person who takes or removes a protected thing for an Aboriginal customary purpose must not sell the thing, or any part of it, unless, under the regulations, the sale is excepted or the person is authorised or licensed to do so.
-Penalty: a fine of $4 000.
-(6) Regulations made under Part X —
-(a) may, by reference to time, place, protected thing, circumstances or class of person, or to a combination of them, restrict or exclude the operation of subsection (3); and
-(b) may restrict or exclude the operation of subsection (3) in relation to the taking or removal of protected things by reference to any of, or a combination of, the following —
-(i) the kind of protected thing taken or removed;
-(ii) the class of person taking or removing the protected thing;
-(iii) the time of taking or removal;
-(iv) the place of taking or removal;
-(v) the manner of taking or removal;
-(vi) the quantity of a protected thing taken or removed;
-(vii) the circumstances of the taking or removal,
-but must not restrict or exclude the operation of subsection (3) in respect of managed land except for a purpose that is consistent with the management plan for the land.
-103B.People acting under s. 8A agreements, defence for
-It is a defence to a charge of an offence against this Act alleged to have been committed on section 8A land to prove —
-(a) the accused was a party to the relevant section 8A agreement or was acting with the authority of such a party; and
-(b) the agreement authorised the party to do the act or make the omission constituting the offence.
 On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 207 had not come into operation. It reads as follows:
 207.Conservation and Land Management Act 1984 amended
 (1) This section amends the Conservation and Land Management Act 1984.
@@ -281,6 +219,7 @@ On the date as at which this compilation was prepared, the Water Services Legisl
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
+Aboriginal customary purpose103A(1)
 Aboriginal person3
 agency26D(7)
 agreed area8A(1)
@@ -317,6 +256,7 @@ eligible land8A(1), 8C(1)
 essential works99A(2)
 excluded waters5(2)
 exclusive native title3
+exclusive native title holder103A(1)
 Executive Body3
 fauna3
 firewood3
@@ -341,6 +281,7 @@ land to which this Act applies3
 land to which this Part applies102(1)
 lease13E(1)
 licence13E(1), 87(1)
+managed land103A(1)
 management plan3
 Marine Authority3
 Marine Committee3
@@ -376,10 +317,12 @@ potential carrier81
 private land33(8)
 production contract22(3)
 proposed notice62A(1)
+protected thing103A(1)
 public land81
 public water catchment area3
 ranger3
 recreational fishing3
+relevant act103A(1)
 relevant offence124(7)
 relevant water utility53
 renewal13E(1)
@@ -395,12 +338,12 @@ section 8C land3
 staff25(4)
 State forest3
 State forests128(2)
-take101A
+take101A, 103A(1), 103A(1)
 timber3
 timber reserve3
 tree3
 use33(8)
-vehicle81
+vehicle81, 103A(1)
 vested7(6)
 Western Australian waters13(8)
 Western Australian Wildlife Authority145
