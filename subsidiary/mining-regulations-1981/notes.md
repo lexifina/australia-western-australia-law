@@ -122,6 +122,7 @@ Mining Amendment Regulations 2012 | 24 Feb 2012 p. 812-13 | r. 1 and 2: 24 Feb 2
 Mining Amendment Regulations (No. 2) 2012 | 19 Jun 2012 p. 2650-1 | r. 1 and 2: 19 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2012 (see r. 2(b))
 Mining Amendment Regulations (No. 3) 2012 | 22 Jun 2012 p. 2791-5 | r. 1 and 2: 22 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Mining Amendment Regulations (No. 4) 2012 | 9 Nov 2012 p. 5399-456 | r. 1 and 2: 9 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Nov 2012 (see r. 2(b))
+Mining Amendment Regulations (No. 5) 2012 | 7 Dec 2012 p. 5994-6 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2012 (see r. 2(b))
 The Mining Amendment Act 1990 was operative 28 June 1991.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -168,6 +169,8 @@ determination137(1)
 Director116, 120P
 Director, Environment Division2
 document59A(1)
+environment information96CA(1)
+environment report96CA(1)
 environmental officer2
 existing amount86(2d)
 existing exploration licence2, Sch. 3 cl. 1(1)
@@ -202,6 +205,7 @@ lodge2
 mention hearing137(1)
 mineral exploration report2, 96(1)
 mining information96(1)
+mining lease96CA(1)
 mining survey116
 mining tenement86AA(11)
 mining tenement document59B(1)
@@ -221,6 +225,7 @@ PLSch. 4 cl. 1
 prescribed fee2
 prescribed landSch. 3 cl. 1(1)
 prescribed period84F(1)
+prescribed tenement96CA(1)
 proceedings137(1)
 purchaser85(1)
 quarter85(1)
@@ -229,13 +234,13 @@ RBA rate85AB(1)
 refiner86AA(11)
 refinery86AA(11)
 related corporation85(1)
-release96(1)
+release96(1), 96CA(1)
 release date23(2)
 relevant depth101A(1)
 relevant exploration licence4A
 relevant land22A(b)(iii)
 relevant operations report58A(1)
-relevant period86(2a), 86(2a)
+relevant period86(2a), 86(2a), 96CA(1)
 reversion licence63A(1)
 royalty return2
 royalty value85(1)
