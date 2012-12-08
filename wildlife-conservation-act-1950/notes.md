@@ -43,12 +43,12 @@ Reprint 7: The Wildlife Conservation Act 1950 as at 6 Oct 2006 (includes amendme
 Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 187 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 8: The Wildlife Conservation Act 1950 as at 19 Nov 2010 (includes amendments listed above)
+Conservation Legislation Amendment Act 2011 Pt. 3 | 36 of 2011 | 13 Sep 2011 | 8 Dec 2012 (see s. 2(b) and Gazette 7 Dec 2012 p. 5963)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 6 Div. 3 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 95 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(2))
-Conservation Legislation Amendment Act 2011 Pt. 3 | 36 of 2011 | 13 Sep 2011 | To be proclaimed (see s. 2(b))
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 95 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Now known as the Wildlife Conservation Act 1950; short title changed (see note under s. 1).
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
 The amendments in the Statutes (Repeals and Minor Amendments) Act 1997 s. 132(23) to s. 15(1a) and (1b) and 23C(2a) are not included because the provisions to be amended were repealed by s. 132(3) and (13) of that Act.
@@ -59,67 +59,21 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 “
 a declared pest as that term is defined in the Biosecurity and Agriculture Management Act 2007
 ”.
-On the date as at which this compilation was prepared, the Conservation Legislation Amendment Act 2011 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Wildlife Conservation Act 1950 amended
-47.Act amended
-This Part amends the Wildlife Conservation Act 1950.
-48.Section 6 amended
-(1) In section 6(1) delete the definitions of:
-nature reserve
-wildlife sanctuary
-(2) In section 6(1) in the definition of wildlife officer delete “that Act;” and insert:
-that Act.
-49.Section 23 replaced
-Delete section 23 and insert:
-23.Aboriginal persons may take flora and fauna for customary purposes
-(1) In this section —
-Aboriginal customary purpose means —
-(a)preparing or consuming food customarily eaten by Aboriginal persons; or
-(b)preparing or using medicine customarily used by Aboriginal persons; or
-(c)engaging in artistic, ceremonial or other cultural activities customarily engaged in by Aboriginal persons; or
-(d)engaging in activities incidental to a purpose stated in paragraph (a), (b) or (c);
-Aboriginal person means a person wholly or partly descended from the original inhabitants of Australia;
-CALM Act means the Conservation and Land Management Act 1984;
-CALM Act land means —
-(a)land, or land and waters, listed in the CALM Act section 5; and
-(b)land that, under the CALM Act section 8C, is under the management of the CEO; and
-(c)land to which the CALM Act section 131 applies;
-exclusive native title, in relation to an area of land or waters, means native title rights and interests (as defined in section 223 of the NT Act) —
-(a)that exist in relation to the area, whether or not they have been determined under the NT Act to exist; and
-(b)that confer possession, occupation, use and enjoyment of the area on the holders of the native title rights and interests to the exclusion of all others;
-exclusive native title holder, for an area in relation to which exclusive native title exists, means —
-(a)the registered native title body corporate (as defined in section 253 of the NT Act) in respect of the native title rights and interests concerned; or
-(b)if there is no such body corporate, each person who holds the native title rights and interests concerned or a person acting with the authority of each such person;
-NT Act means the Native Title Act 1993 (Commonwealth).
-(2) This section does not affect the operation of the CALM Act.
-(3) It is a defence to a charge of an offence against this Act of taking fauna or flora to prove —
-(a) the accused is an Aboriginal person; and
-(b) the accused took the fauna or flora for an Aboriginal customary purpose; and
-(c) in taking the fauna or flora the accused complied with any regulations that restrict or exclude the operation of this subsection; and
-(d) if the offence is alleged to have been committed on land other than CALM Act land, the person who has control or management of the land consented to the taking of the fauna or flora; and
-(e) if the offence is alleged to have been committed in an area in respect of which exclusive native title exists, the accused either —
-(i) held the exclusive native title alone or with other persons; or
-(ii) took the fauna or flora with the consent of the exclusive native title holder.
-(4) If, but for this subsection, the defence provided by subsection (3) would entitle an Aboriginal person to do an act that is inconsistent with the continued existence, enjoyment or exercise of any native title rights and interests (as defined in section 223 of the NT Act) held by another Aboriginal person, the defence does not apply to that act unless it is proved the accused did the act in order to obtain fauna or flora sufficient only for food for the accused and his or her family, but not for sale.
-(5) An Aboriginal person who takes fauna or flora for an Aboriginal customary purpose must not sell the flora or fauna, or any part of it, unless, under the regulations, the sale is excepted or the person is authorised or licensed to do so.
-Penalty: a fine of $4 000.
-(6) Regulations made under section 28 may restrict or exclude the operation of subsection (3) by reference to any of, or a combination of, the following —
-(a) the fauna or flora taken;
-(b) the class of person taking the fauna or flora;
-(c) the time of taking;
-(d) the place of taking;
-(e) the manner of taking;
-(f) the quantity of fauna or flora taken;
-(g) the circumstances of the taking.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
+Aboriginal customary purpose23(1)
+Aboriginal person23(1)
 animal6(1)
+CALM Act23(1)
+CALM Act land23(1)
 carcass6(1)
 CEO6(1)
 class6(1)
 close season6(1)
 Crown land6(1)
+exclusive native title23(1)
+exclusive native title holder23(1)
 fauna6(1), 20(6), 27(4)
 flora6(1)
 government department9(4)
@@ -128,7 +82,7 @@ illegal device6(1)
 illegal means6(1)
 keep6(1)
 licence6(1)
-nature reserve6(1)
+NT Act23(1)
 open season6(1)
 other animal27A(1)
 private land6(1)
@@ -141,6 +95,5 @@ rare flora23F(1)
 skin6(1)
 to process6(1)
 to sell6(1)
-to take6(1))
+to take6(1), 6(1)
 wildlife officer6(1)
-wildlife sanctuary6(1)
