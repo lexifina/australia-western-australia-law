@@ -55,7 +55,7 @@ for CEO
 Date ....................................................
 Forest produce removal record
 Date of removal | Quantity removed | Site removed to | Signature of licensee
-[Form 1 amended in Gazette 3 Sep 2010 p. 4276-7.]
-[Form 2 deleted in Gazette 3 Sep 2010 p. 4275.]
-[Forms 3 and 4 deleted in Gazette 3 May 2002 p. 2295.]
-[Schedules 2A and 2B deleted in Gazette 3 May 2002 p. 2294-5.]
+[Form 1 amended: Gazette 3 Sep 2010 p. 4276-7.]
+[Form 2 deleted: Gazette 3 Sep 2010 p. 4275.]
+[Forms 3 and 4 deleted: Gazette 3 May 2002 p. 2295.]
+[Schedules 2A and 2B deleted: Gazette 3 May 2002 p. 2294-5.]

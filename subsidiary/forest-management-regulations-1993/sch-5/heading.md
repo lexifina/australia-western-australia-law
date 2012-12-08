@@ -10,4 +10,4 @@ Column 1 | Column 2
  | per page
 5.Preparation of timber shipping certificate | 10.00
 6.Transfer of a lease or permit | 30.00
-[Schedule 5 amended in Gazette 21 Apr 1998 p. 2113-14; 3 Sep 2010 p. 4276.]
+[Schedule 5 amended: Gazette 21 Apr 1998 p. 2113-14; 3 Sep 2010 p. 4276.]
