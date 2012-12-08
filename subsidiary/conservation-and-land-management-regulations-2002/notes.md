@@ -16,6 +16,7 @@ Conservation and Land Management Amendment Regulations (No. 2) 2010 | 3 Sep 2010
 Reprint 2: The Conservation and Land Management Regulations 2002 as at 5 Nov 2010 (includes amendments listed above)
 Conservation and Land Management Amendment Regulations (No. 3) 2010 | 3 Dec 2010 p. 6045-54 | r. 1 and 2: 3 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2010 (see r. 2(b))
 Conservation and Land Management Amendment Regulations (No. 2) 2011 | 30 Sep 2011 p. 3897-8 | r. 1 and 2: 30 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2011 (see r. 2(b))
+Conservation and Land Management Amendment Regulations 2012 | 7 Dec 2012 p. 5964-74 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2012 (see r. 2(b) and Gazette 7 Dec 2012 p. 5963)
 The Swan River Trust Act 1988 was repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006.
 Repealed by these regulations r. 115.
 The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads as follows:
@@ -55,6 +56,7 @@ designated area2
 dog area2
 fauna8(3)
 firewood71(4)
+fish121
 fishing activity9(2)
 former provision116(5)
 horse area2
@@ -66,8 +68,14 @@ naturally occurring feature31(4)
 non-indigenous animal2
 non-tour motor vehicle99(1)
 occupant99A(1)
+permission123
+permission holder123
+poison risk area115
+poison risk map115
 plant13(2)
 property77(1)
+recreational land114
+relevant CALM land121
 restricted area2
 restricted device12(5)
 school holidays2
@@ -82,9 +90,12 @@ structure34(2)
 take2
 ticket vending machine56(6)
 tour vehicle99(1)
+townsite114
 tree2
 Tree Top Walk100(1)
+urban land114, 118, 119
 vehicle2
 vessel2
 vessel storage facility65A(1)
+visitor area114
 waste21(5)

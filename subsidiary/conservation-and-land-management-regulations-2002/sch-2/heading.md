@@ -117,3 +117,16 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 77. | 109 | Failing to produce licence etc. | 100
 78. | 110 | Giving false or misleading information | 100
 [Division 2 amended in Gazette 29 Sep 2006 p. 4331-3; 27 Feb 2007 p. 625-6; 3 Dec 2010 p. 6052.]
+## Division 3 — Offences under Forest Management Regulations 1993
+[Heading inserted in Gazette 7 Dec 2012 p. 5972.]
+ | Column 1 | Column 2 | Column 3
+Item No. | Regulation creating offence | Nature of offence | Penalty $
+1. | 108 | Entry, use, movement of potential carrier without authorisation or contrary to condition | 200
+2. | 109 | Entry, use, movement of potential carrier contrary to instruction or direction | 200
+3. | 111 | Failure to carry or produce written authorisation in respect of potential carrier | 150
+4. | 113 | Failure to produce information relating to forest disease on request | 150
+5. | 119 | Failure to cleanse or disinfect infected carrier or potential carrier | 200
+6. | 123 | Failure to give name and address on request | 150
+7. | 124 | Failure to comply with request to stop or with signpost, or avoiding or breaking through barrier | 150
+8. | 125 | Hindering, obstructing or failing to comply with direction of authorised person | 150
+[Division 3 inserted in Gazette 7 Dec 2012 p. 5972-3.]
