@@ -41,6 +41,7 @@ Veterinary Surgeons Amendment Regulations 2011 | 24 May 2011 p. 1893 | r. 1 and 
 Veterinary Surgeons Amendment Regulations 2012 | 29 May 2012 p. 2227-30 | r. 1 and 2: 29 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 30 May 2012 (see r. 2(b))
 Reprint 4: The Veterinary Surgeons Regulations 1979 as at 3 Aug 2012 (includes amendments listed above)
 Veterinary Surgeons Amendment Regulations (No. 2) 2012 | 21 Sep 2012 p. 4421 | r. 1 and 2: 21 Sep 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Sep 2012 (see r. 2(b))
+Veterinary Surgeons Amendment Regulations (No. 3) 2012 | 7 Dec 2012 p. 5963-4 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2012 (see r. 2(b))
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 The headings before r. 1-4, 7-9, 13, 15, 18, 19-23, 28, 34, 44, 55, 60, 61, 63, 64, 67, 69, 74 and 80 were deleted by the Veterinary Surgeons Amendment Regulations (No. 3) 2003, see Gazette 16 Dec 2003 p. 5089-90.
 Now known as the Veterinary Surgeons Regulations 1979; citation changed (see note under r. 1).
