@@ -2,27 +2,12 @@ Notes
 This is a compilation of the Cat Regulations 2012. The following table contains information about those regulations.
 Compilation table
 Citation | Gazettal | Commencement
-Cat Regulations 2012 r. 1, 2, 3-6, 8, 11-18, 21-25 and 27-30 | 16 Nov 2012 p. 5537-69 | r. 1 and 2: 16 Nov 2012 (see r. 2(a)); Regulations other than r. 1, 2, 7, 9, 10, 19, 20 & 26: 17 Nov 2012 (see r. 2(b))
+Cat Regulations 2012 r. 1, 2, 3-8, 11-18, 21-25 and 27-30 | 16 Nov 2012 p. 5537-69 | r. 1 and 2: 16 Nov 2012 (see r. 2(a)); Regulations other than r. 1, 2, 7, 9, 10, 19, 20 & 26: 17 Nov 2012 (see r. 2(b)): r. 7: 8 Dec 2012 (see r. 2(c) and Gazette 7 Dec 2012 p. 5963-4)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Cat Regulations 2012 r. 7, 9, 10, 19, 20 and 26 | 16 Nov 2012 p. 5537-69 | r. 7: operative on commencement of the Veterinary Surgeons Amendment Regulations (No. 3) 2012 r. 4 (see r. 2(c)); r. 9, 10, 19, 20 and 26: 1 Nov 2013 (see r. 2(d))
-On the date as at which this compilation was prepared, the Cat Regulations 2012 r. 7, 9, 10, 19, 20 and 26 had not come into operation. They read as follows:
-7.Microchip implanters (s. 3(1))
-(1) For the purposes of the definition of microchip implanter paragraph (a) in section 3(1) of the Act, each of the following persons is prescribed —
-(a) a veterinarian;
-(b) a veterinary nurse, as defined in the Veterinary Surgeons Act 1960 section 2.
-(2) For the purposes of the definition of microchip implanter paragraph (b) in section 3(1) of the Act, a unit of competency in microchip implantation of cats and dogs entitled “ACMMIC401A Implant microchip in cats and dogs” (provided by a registered training provider) together with one or more of the following courses (also provided by a registered training provider) —
-(a) Advanced Certificate in Veterinary Nursing;
-(b) Certificate IV in Veterinary Nursing;
-(c) Certificate III in Animal Technology;
-(d) Certificate III in Companion Animal Services;
-(e) Certificate III in Local Government (Animal Management);
-(f) Certificate IV in Animal Control and Regulation;
-(g) Certificate IV in Animal Welfare (Regulation);
-(h) Certificate IV in Captive Animals;
-(i) Certificate IV in Companion Animal Services,
-is a prescribed qualification.
+Cat Regulations 2012 r. 9, 10, 19, 20 and 26 | 16 Nov 2012 p. 5537-69 | 1 Nov 2013 (see r. 2(d))
+On the date as at which this compilation was prepared, the Cat Regulations 2012 r. 9, 10, 19, 20 and 26 had not come into operation. They read as follows:
 9.Cats exempt from registration (s. 5(2)(c) and 9(2))
 A cat that is in the custody of one of the following organisations is exempt from the registration requirements in section 5(1) of the Act and will be refused registration under section 9(2) of the Act —
 (a) Cat Welfare Society Inc., trading as “Cat Haven”;
@@ -38,3 +23,9 @@ The provisions of section 23(1) and (2) of the Act do not apply if a cat is bein
 A cat control notice under section 26 of the Act is to be in the form of Form 3.
 26.Warrant (s. 58)
 The form of a warrant is Form 5.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+Form3(1)
+microchip implanter7(1), (2)
+registered training provider3(1)
