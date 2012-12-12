@@ -148,6 +148,7 @@ Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt.
 Manslaughter Legislation Amendment Act 2011 Pt. 3 | 58 of 2011 | 30 Nov 2011 | 17 Mar 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1245)
 Road Traffic Legislation Amendment Act 2012 s. 15-18 | 8 of 2012 | 21 May 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 27 Jul 2012 p. 3664)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 13 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
+Road Traffic (Miscellaneous Amendments) Act 2012 Part 2 (other than s. 12) | 59 of 2012 | 11 Dec 2012 | 12 Dec 2012 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -156,6 +157,7 @@ Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 12(2
 Road Traffic Legislation Amendment (Information) Act 2011 s. 9 | 18 of 2011 | 2 Jun 2011 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 3 (other than s. 15-18) | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 7 | 48 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
+Road Traffic (Miscellaneous Amendments) Act 2012 s. 12 | 59 of 2012 | 11 Dec 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 s. 44 (see s. 2(c)(ii))
 Repealed by the Interpretation Act 1984.
 Section 111(2)(f) of this Act has been deleted.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
@@ -293,7 +295,10 @@ and
 (7) In section 76(3b):
 (b) after paragraph (a) insert:
 or
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Road Traffic (Miscellaneous Amendments) Act 2012 s. 12 had not come into operation. It reads as follows:
+12.Various references to “member of the Police Force” amended
+In sections 49AB(1)(c), 53(1) and (2A), 60(1c)(a)(i) and 61A(1)(a) delete “member of the Police Force” and insert:
+police officer
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment (Information) Act 2011 s. 9 had not come into operation. It reads as follows:
 Part 2 — Road Traffic Act 1974 amended
 9.Section 43A inserted
