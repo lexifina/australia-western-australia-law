@@ -10,8 +10,8 @@ Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 | 39 of 2008 (as amend
 Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 3 | 14 of 2011 | 25 May 2011 | On commencement of the Road Traffic (Administration) Act 2008 other than s. 1 and 2 (see s. 2(b) and Gazette 30 Aug 2011 p. 3503)
 Road Traffic Legislation Amendment (Information) Act 2011 Pt. 3 | 18 of 2011 | 2 Jun 2011 | On commencement of the Road Traffic (Administration) Act 2008 other than s. 1 and 2 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611)
 Road Traffic Legislation Amendment Act 2012 Pt. 5 | 8 of 2012 | 21 May 2012 | Pt. 5 (s. 208(1), 210, 211, 212 & 224): operative on commencement of the Road Traffic Legislation Amendment (Information) Act 2011 Pt. 3 (see s. 2(e)); Pt. 5 (other than s. 208(1), 210, 211, 212 & 224): operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(f))
+Road Traffic (Miscellaneous Amendments) Act 2012 Pt. 3 | 59 of 2012 | 11 Dec 2012 | On commencement of the Road Traffic (Administration) Act 2008 s. 44 (see s. 2(c)(ii))
 On the date as at which this compilation was prepared, the Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 (as amended by the Road Traffic Legislation Amendment (Registration Labels) Act 2009 s. 11, the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 17 and the Trade Measurement Legislation (Amendment and Expiry) Act 2010 s. 10) had not come into operation. They read as follows:
-“
 3.Crown bound
 (1) Each of the road laws binds the Crown in right of the State and, so far as the legislative power of the Parliament of the State permits, the Crown in all its other capacities.
 (2) Despite subsection (1), the road laws do not apply to —
@@ -1806,3 +1806,12 @@ s. 85(a)(iii) | s. 91(a)
 s. 106(1)(c) | s. 109(1)(l)
 s. 111(3)(c) | s. 120
 s. 133(b), (c), (d), (e) and (g)
+On the date as at which this compilation was prepared, the Road Traffic (Miscellaneous Amendments) Act 2012 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Road Traffic (Administration) Act 2008 amended
+13.Act amended
+This Part amends the Road Traffic (Administration) Act 2008.
+14.Section 44 amended
+In section 44 delete the Penalty and insert:
+Penalty:
+(a)unless paragraph (b) applies — a fine of 100 PU;
+(b)if the person was given the direction under section 39 and the person was, at the time the direction was given, driving the vehicle so as to escape pursuit by a police officer — imprisonment for 2 years, but the minimum penalty is a fine of 100 PU; and, in any event, the court convicting the person must order that the offender is disqualified from holding or obtaining a driver’s licence for a period of not less than 2 years.
