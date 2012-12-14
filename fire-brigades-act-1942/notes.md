@@ -87,6 +87,7 @@ Reprint 7: The Fire Brigades Act 1942 as at 2 Jun 2006 (includes amendments list
 Statutes (Repeals and Minor Amendments) Act 2009 s. 9 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4, 43(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 4 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
+Fire Brigades (Fire Districts) Notice (No. 2) 2012 published in Gazette 14 Dec 2012 p. 6213-14 | 14 Dec 2012
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
