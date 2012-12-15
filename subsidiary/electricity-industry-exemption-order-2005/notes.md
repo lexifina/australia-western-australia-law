@@ -10,6 +10,7 @@ Electricity Industry Exemption Amendment Order 2007 | 11 Jan 2008 p. 101-3 | cl.
 Electricity Industry Exemption Amendment Order (No. 2) 2009 | 8 May 2009 p. 1497-9 | cl. 1 and 2: 8 May 2009 (see cl. 2(a)); Order other than cl. 1 and 2: 9 May 2009 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order 2009 | 9 Oct 2009 p. 3992-4 | cl. 1 and 2: 9 Oct 2009 (see cl. 2(a)); Order other than cl. 1 and 2: 10 Oct 2009 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order 2012 | 29 Jun 2012 p. 2933-6 | cl. 1 and 2: 29 Jun 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 30 Jun 2012 (see cl. 2(b))
+Electricity Industry Exemption Amendment Order (No. 2) 2012 | 14 Dec 2012 p. 6198-9 | cl. 1 and 2: 14 Dec 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 15 Dec 2012 (see cl. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
