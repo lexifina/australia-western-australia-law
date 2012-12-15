@@ -138,6 +138,7 @@ Road Traffic (Licensing) Amendment Regulations 2010 | 24 Sep 2010 p. 5017-22 | r
 Road Traffic (Licensing) Amendment Regulations 2011 | 25 Feb 2011 p. 657-8 | r. 1 and 2: 25 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2011 (see r. 2(b))
 Road Traffic (Licensing) Amendment Regulations (No. 3) 2011 | 2 Dec 2011 p. 5073-4 | r. 1 and 2: 2 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2011 (see r. 2(b))
 Road Traffic (Licensing) Amendment Regulations (No. 2) 2011 | 2 Dec 2011 p. 5075 | r. 1 and 2: 2 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2011 (see r. 2(b))
+Road Traffic (Licensing) Amendment Regulations 2012 | 14 Dec 2012 p. 6207-8 | r. 1 and 2: 14 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Dec 2012 (see r. 2(b))
 Footnote no longer applicable.
 Repealed by the Motor Vehicle (Third Party Insurance) Regulations 2009.
 Revoked on 4 Oct 1974 (see Gazette 3 Oct 1974 p. 3701).
@@ -157,6 +158,7 @@ Defined TermProvision(s)
 agricultural implement3(1)
 agricultural machine3(1)
 agricultural vehicle3(1)
+approved place3C(1A)
 authorised vehicle examiner3(1)
 axle3(1)
 car or bus3(1)
