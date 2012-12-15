@@ -167,6 +167,7 @@ Manslaughter Legislation Amendment Act 2011 Pt. 2 | 58 of 2011 | 30 Nov 2011 | 1
 Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 6 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 4 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 3 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
+Criminal Law Amendment (Out-of-Control Gatherings) Act 2012 Pt. 2 | 56 of 2012 | 6 Dec 2012 | 15 Dec 2012 (see s. 2(b) and Gazette 14 Dec 2012 p. 6196)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -174,7 +175,6 @@ Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclai
 Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 | 10 of 2011 | 2 May 2011 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Criminal Organisations Control Act 2012 s. 173 | 49 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
-Criminal Law Amendment (Out-of-Control Gatherings) Act 2012 Pt. 2 | 56 of 2012 | 6 Dec 2012 | To be proclaimed (see s. 2(b))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -222,70 +222,7 @@ On the date as at which this compilation was prepared, the Prostitution Amendmen
 (3) Section 191 is repealed.
 (4) Section 557K(1) paragraph (h) of the definition of child sex offender is amended by deleting “Prostitution Act 2000” and inserting instead —
 “ Sexual Services Act 2000 ”.
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Out-of-Control Gatherings) Act 2012 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — The Criminal Code amended
-3.Act amended
-This Part amends The Criminal Code.
-4.Sections 75A and 75B inserted
-At the end of Part II Chapter IX insert:
-75A.Term used: out-of-control gathering
-(1) For the purposes of section 75B, a gathering of persons in a place or vehicle is an out-of-control gathering if —
-(a) the gathering is a gathering of 12 or more persons; and
-(b) 2 or more persons associated with the gathering engage in conduct of any of the following kinds —
-(i) trespassing on a place (as defined in section 70A(1));
-(ii) behaving in a disorderly manner (as defined in section 74A(1));
-(iii) unlawfully destroying or damaging property or threatening to do so;
-(iv) assaulting or threatening to assault another person or taking part in a fight;
-(v) doing an obscene act or indecent act in a public place or in the sight of any person who is in a public place;
-(vi) emitting, or causing to be emitted, unreasonable noise (as defined in the Environmental Protection Act 1986 section 3(1));
-(vii) driving a motor vehicle so as to cause excessive noise or smoke in contravention of the Road Traffic Act 1974 section 62A;
-(viii) unlawfully lighting fires or unlawfully using fireworks;
-(ix) throwing any object or releasing any material or thing in a manner that is likely to endanger the life, health or safety of any person;
-(x) causing an obstruction to traffic or to the movement of pedestrians;
-(xi) depositing litter or breaking glass or other material;
-(xii) contravening the Liquor Control Act 1988 or the Misuse of Drugs Act 1981;
-(xiii) being intoxicated by liquor or an intoxicant (as defined in section 206(1)) in a public place;
-(xiv) any other conduct prescribed by the regulations;
-and
-(c) the gathering, or the conduct of persons associated with the gathering (taken together), causes or is likely to cause —
-(i) fear or alarm to any person who is not associated with the gathering; or
-(ii) a substantial interference with the lawful activities of any person; or
-(iii) a substantial interference with the peaceful passage through, or enjoyment of, a place by any person who has lawful access to that place;
-and
-(d) the gathering is not excluded under subsection (3).
-(2) In subsection (1) —
-vehicle has the meaning given in the Criminal Investigation Act 2006 section 3(1).
-(3) For the purposes of subsection (1)(d), a gathering of any of the following kinds is excluded —
-(a) a gathering on licensed premises;
-(b) a public meeting or procession for which a permit under the Public Order in Streets Act 1984 has been issued;
-(c) a gathering that is primarily for the purposes of political advocacy, protest or industrial action;
-(d) a gathering of a kind prescribed by the regulations.
-(4) In subsection (3) —
-licensed premises has the meaning given in the Liquor Control Act 1988 section 3(1), but does not include premises to which an occasional licence granted under section 59 of that Act relates.
-(5) For the purposes of subsection (1), a person is associated with a gathering if the person —
-(a) is attending the gathering; or
-(b) is in the vicinity of the gathering and has attended or is proposing to attend the gathering.
-75B.Organising out-of-control gathering
-(1) In this section —
-organise, in relation to a gathering, means to have a substantial involvement in arranging, managing, advertising or promoting the gathering (whether or not any other organisers of the gathering know of or consent to that involvement);
-responsible adult, in relation to a child, means a parent, guardian or other person having responsibility for the day-to-day care of the child but does not include a person who the regulations provide is not a responsible adult.
-(2) A person —
-(a) who organises a gathering that becomes an out-of-control gathering; or
-(b) who —
-(i) is a responsible adult in relation to a child who organises a gathering that becomes an out-of-control gathering; and
-(ii) gives the child permission to organise the gathering or permits the gathering to occur,
-is guilty of an offence and is liable to imprisonment for 12 months and a fine of $12 000.
-(3) It is a defence to a charge under subsection (2) to prove the accused person took such steps (if any) as were reasonable in the circumstances to ensure that the gathering did not become an out-of-control gathering.
-(4) Without limiting subsection (3), the following are examples of steps that could be taken to ensure that a gathering does not become an out-of-control gathering —
-(a) engaging persons to provide security services at the gathering;
-(b) organising the gathering in a manner that indicates that only persons invited to the gathering may attend;
-(c) giving notice of the gathering to the Commissioner of Police in a manner approved by the Commissioner of Police;
-(d) taking steps to request the attendance of police officers at the gathering as soon as practicable after becoming aware that —
-(i) the gathering is likely to become an out-of-control gathering; or
-(ii) any person is trespassing on a place where the gathering is occurring.
-(5) A court convicting a person of an offence under subsection (2) may order the person to pay some or all of the reasonable expenses of or incidental to any action that was reasonably taken by police officers in responding to the out-of-control gathering.
-(6) The order must specify that the amount is to be paid to the Commissioner of Police.
-(7) The Sentencing Act 1995 Part 16 applies to and in respect of an order made under subsection (5) as if it were a compensation order made under that Part.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 had not come into operation. They read as follows:
 3.The Criminal Code amended
 This Act amends The Criminal Code.
@@ -484,6 +421,7 @@ kill270
 law enforcement agency221A(4)
 lawful excuse68B(1), 68C(1), 68D(1)
 liable1(1)
+licensed premises75A(4)
 lineal relative329(1)
 material204A(1), 217A
 medical practitioner199(4)
@@ -504,6 +442,8 @@ offence A10B(1) and (2)
 offender446(1)
 offensive material204A(1)
 official information81(1)
+organise75B(1)
+out-of-control gathering75A(1)
 owner1(1), 70B(1)
 password440A(1)
 periodical343A(2)
@@ -542,6 +482,7 @@ record1(1)
 registered brand1(1)
 registered mark1(1)
 relevant period99(1)
+responsible adult75B(1)
 restricted-access computer system440A(1)
 reward96(1)
 riot62
@@ -578,7 +519,7 @@ utter1(1)
 valuable consideration546(4), (5) and (6)
 valuable consideration solicited546(9)
 valuable security1(1)
-vehicle1(1)
+vehicle1(1), 75B(2)
 vessel1(1)
 victim204B(1), 331D(1)(a) and (2)(a), 345(1), 494(1)
 voice print489
