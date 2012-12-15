@@ -401,7 +401,7 @@ Prior to this application, have any workers’ compensation payments been receiv
 YES |  | NO |  | YES |  | NO
 If yes, please attach as much information as you can
 Declaration
-I, the undersigned, do hereby warrant the truth of the foregoing statements. I hereby authorise any medical practitioner to disclose to the deceased worker’s employer or his/her insurer and WorkCover WA any information regarding the deceased worker’s medical history.
+I, the undersigned, do hereby warrant the truth of the foregoing statements. I hereby authorise any medical practitioner to disclose to the deceased worker’s employer or his/her insurer and WorkCover WA any information regarding the deceased worker’s medical history. However, I do not authorise the release or testing of human tissue samples or human tissue material of any kind or for any purpose.
 Signature |  | Date | / /
 Signature |  | Date | / /
 INSURER/SELF-INSURER DETAILS
@@ -415,7 +415,7 @@ Mechanism:
 Agency:
 Nature:
 Body Locn:
-[Form 2D inserted in Gazette 15 Oct 1999 p. 4901-2; amended in Gazette 17 Nov 2000 p. 6320; 30 Jun 2003 p. 2637; 21 Jan 2005 p. 276.]
+[Form 2D inserted in Gazette 15 Oct 1999 p. 4901-2; amended in Gazette 17 Nov 2000 p. 6320; 30 Jun 2003 p. 2637; 21 Jan 2005 p. 276; 14 Dec 2012 p. 6210.]
 Form 3
 [r. 6A, 7(1)]
 Workers’ Compensation and Injury Management Act 1981
@@ -667,52 +667,84 @@ _______________________________________________________________________
 [Form 5 corrigendum in Gazette 23 Apr 1982 p. 1384; amended in Gazette 8 Mar 1991 p. 1076; 29 Oct 1993 p. 5930; 18 Feb 1994 p. 663; 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276 and 277; 28 Oct 2005 p. 4926.]
 Form 6
 [r. 10(1)]
+[Heading inserted in Gazette 14 Dec 2012 p. 6210.]
 Workers’ Compensation and Injury Management Act 1981
 (Section 69)
 DECLARATIONS IN RESPECT OF WORKER NOT RESIDING IN W.A.
 [ r = tick where appropriate. * = delete where appropriate]
-To: (name and address of employer or employer’s insurer
-A.WORKER’S SECTION
-I,
+To: (name and address of employer or employer’s insurer) ............................................................
+...........................................................................................................................................................
+...........................................................................................................................................................
+Re: Claim Number ......................................................
+1.WORKER’S SECTION
+1a.Worker’s details
+First name(s): .................................................. Surname: ...............................................................
+Address: ...........................................................................................................................................
+Telephone: ........................... Date of birth: ....../....../...... Occupation: .........................................
+Date of injury:...................... Nature of injury: ...............................................................................
+1b.Employer details
+Name and address of worker’s employer: .......................................................................................
+1c.Declaration by worker
+I, ......................................................................................................................................................
 (full name of worker)
-of
-(residential address)
-........................................................................................ Postcode:
-Occupation: ...........................................................................Date of birth: ......./......../19
-*being duly sworn, say that/do solemnly and sincerely affirm that —
-1.The above details about me are correct.
-2.I reside at the above address.
-3.On ......../......../20...... I suffered an injury when employed by
-(name and address of employer)
+*being duly sworn, say that/do solemnly and sincerely affirm that the above details about me are correct.
 *Sworn/affirmed at)
-in(State or country))
-this day of 20)
-Before me:
+in (State or country))
+this day of 20)...............................................................
+Before me:...............................................................
 (a person having authority
 to administer an oath)
-B. DOCTOR’S SECTION
-I,
+2.MEDICAL PRACTITIONER’S SECTION
+2a.Fitness for work
+On ........./........../20.......... I examined the above person and am of the opinion that he/she is —
+Fit
+rFit to return to pre-injury duties, no further treatment required
+rFit to return to pre-injury duties, but requires further treatment
+rFit for restricted return to work from ............................. to .....................................
+rRestricted hours (please specify) ...................................................................
+rRestricted days (please specify) ....................................................................
+rRestricted duties
+rWork restrictions:
+rNo lifting anything heavier than .................. kg
+rAvoid repetitive bending / lifting
+rAvoid repetitive use of the affected body part ................................................
+rAvoid prolonged standing / walking / sitting
+rKeep injured area clean and dry
+rOther restrictions ............................................................................................
+.........................................................................................................................
+Unfit
+rUnfit totally for work for ................. days from ....................... to ............ (inclusive)
+2b.Medical assessment
+Clinical findings / diagnosis (include possible complications, effect of prior injury or medial conditions) .................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+2c.Medical management at this consultation
+rMedication: .................................................................................................................
+rApproved allied health treatments: (specify type and include number of sessions recommended) ............................................................................................................. ......................................................................................................................................
+rImaging: .......................................................................................................................
+rReferred to another hospital/specialist: (name) ...........................................................
+rOther treatment: ........................................................................................................... ......................................................................................................................................
+2d.Progress report (clinical findings/diagnosis at this consultation and possible barriers to return to work)
+...........................................................................................................................................................
+...........................................................................................................................................................
+...........................................................................................................................................................
+2e.Declaration by medical practitioner
+I, .......................................................................................................................................................
 (full name of medical practitioner)
-of
+of ......................................................................................................................................................
 (address)
-............................................................................................... Postcode:
+............................................................................................... Postcode: .........................................
 *being duly sworn, say that/do solemnly and sincerely affirm that —
 1. I am a duly qualified medical practitioner.
-2. On ........./........../20.......... I examined the above person and am of the opinion that he/she is —
-(a)rFit.
-(b)rFit for alternative duties with the following
-limitations:
-(c)rTotally unfit for work.
+2. The above details are correct.
 *Sworn/affirmed at)
-in(State or country))
-this day of 20)
-Before me:
+in (State or country))
+this day of 20)...............................................................
+Before me:...............................................................
 (a person having authority
 to administer an oath)
 IF A WORKER RESIDES OUTSIDE THE STATE, PROOF OF THE
 WORKER’S IDENTITY AND CONTINUING INCAPACITY IS
 REQUIRED EVERY 3 MONTHS
-[Form 6 inserted in Gazette 24 Dec 1993 p. 6849; amended in Gazette 18 Feb 1994 p. 663; 24 Jun 1994 p. 2889; 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4926.]
+[Form 6 inserted in Gazette 14 Dec 2012 p. 6210-11.]
 [Form 7 deleted in Gazette 18 Nov 2011 p. 4825.]
 [Forms 8-11 deleted in Gazette 8 Mar 1991 p. 1076.]
 [Form 12 deleted in Gazette 18 Feb 1994 p. 663.]
@@ -949,36 +981,38 @@ WorkCover WA |  | Date | / /
 [Form 15G inserted in Gazette 28 Oct 2005 p. 4932-4.]
 Form 16
 [r. 15]
+[Heading inserted in Gazette 14 Dec 2012 p. 6211.]
 Workers’ Compensation and Injury Management Act 1981
 MONTHLY STATEMENT BY APPROVED INSURANCE OFFICES
 CONFIDENTIAL
 (Section 171(1)(a))
 NEW/RENEWED POLICIES/COVER NOTES
-Name of approved insurance office
-Address
+Name of approved insurance office ..................................................................................................
+Address .............................................................................................................................................
 Chief executive officer, WorkCover WA.
-The following are the names, addresses and occupations of each employer who has during the month of ........................................................... 20.................................... effected or renewed a policy or contract of insurance with the above office against liability under the Act.
-Policy/Cover Note No. | New (N) Renewal (R) | Name | Address | Occupation | Effective Date (If Less Than 12 Months Cover) | Expiry Date
-Position held by officer Date
+The following are the names, addresses and industries of each employer who has during the month of ........................................................... 20.................................... effected or renewed a policy or contract of insurance with the above office against liability under the Act.
+WorkCover no. | Policy/cover note no. | New (N) Renewal (R) Cover note (C) | Name | Address | Industry | Effective date | Expiry date
+Position held by officer .............................................................. Date ............................................
 ......................................................
 Signature of responsible officer
-[Form 16 inserted in Gazette 25 Jul 1986 p. 2484; amended in Gazette 8 Mar 1991 p. 1076; 28 Jun 1991 p. 3294; 17 Nov 2000 p. 6321; 16 Sep 2003 p. 4104; 21 Jan 2005 p. 276 and 277.]
+[Form 16 inserted in Gazette 14 Dec 2012 p. 6211-12.]
 Form 17
 [r. 15]
+[Heading inserted in Gazette 14 Dec 2012 p. 6212.]
 Workers’ Compensation and Injury Management Act 1981
 MONTHLY STATEMENT BY APPROVED INSURANCE OFFICES
 CONFIDENTIAL
 (Section 171(1)(b))
 LAPSED POLICIES
-Name of approved insurance office
-Address Date approved
+Name of approved insurance office ..................................................................................................
+Address: .......................................................................................... Date approved .........................
 Chief executive officer, WorkCover WA.
-The following are the names, addresses and occupations of each employer in respect to whom, during the month of .............................................. 20..................... the above approved insurance office has, in its books, lapsed a policy of insurance under the Act: —
-Policy No. | Name | Address | Occupation | Reason
-Position held by officer ...................................................... Date .......................................
+The following are the names and addresses of each employer in respect to whom, during the month of .............................................. 20..................... the above approved insurance office has, in its books, lapsed a policy of insurance under the Act: —
+WorkCover No. | Policy no. | Name | Address | Reason
+Position held by officer ............................................................. Date .............................................
 ......................................................
 Signature of responsible officer
-[Form 17 inserted in Gazette 25 Jul 1986 p. 2485; amended in Gazette 8 Mar 1991 p. 1076; 28 Jun 1991 p. 3294; 17 Nov 2000 p. 6321; 16 Sep 2003 p. 4104; 21 Jan 2005 p. 276 and 277; 28 Oct 2005 p. 4934.]
+[Form 17 inserted in Gazette 14 Dec 2012 p. 6212.]
 Form 18
 [r. 19D]
 Workers’ Compensation and Injury Management Act 1981
