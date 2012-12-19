@@ -100,6 +100,7 @@ Liquor Control Amendment Regulations (No. 10) 2011 | 6 Jan 2012 p. 48-9 | r. 1 a
 Liquor Control Amendment Regulations (No. 2) 2012 | 10 Aug 2012 p. 3810-11 | r. 1 and 2: 10 Aug 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Aug 2012 (see r. 2(b))
 Liquor Control Amendment Regulations 2012 | 4 Sep 2012 p. 4249-50 | r. 1 and 2: 4 Sep 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2012 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 6) 2012 | 16 Nov 2012 p. 5657-8 | r. 1 and 2: 16 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Nov 2012 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 7) 2012 | 18 Dec 2012 p. 6596-7 | r. 1 and 2: 18 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2012 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
