@@ -62,13 +62,13 @@ Building Services (Registration) Act 2011 s. 157 | 19 of 2011 | 22 Jun 2011 | 29
 Statutes (Repeals and Minor Amendments) Act 2011 s. 26 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Teacher Registration Act 2012 s. 168 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 14 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
+Sentencing Amendment Act 2012 | 42 of 2012 | 22 Nov 2012 | 20 Dec 2012
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 47 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Water Services Legislation Amendment and Repeal Act 2012 s. 228 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
-Sentencing Amendment Act 2012 s. 3-6 | 42 of 2012 | 22 Nov 2012 | 20 Dec 2012
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 8 | 48 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
 Criminal Organisations Control Act 2012 s. 181 | 49 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
@@ -223,41 +223,6 @@ Road Traffic (Administration) Act 2008 section 4;
 (4) In section 105(5) in the definition of motor vehicle delete “Road Traffic Act 1974;” and insert:
 Road Traffic (Administration) Act 2008 section 4;
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Sentencing Amendment Act 2012 s. 3-6 had not come into operation. They read as follows:
-3.Section 8 amended
-Delete section 8(2).
-4.Section 9AA inserted
-At the end of Part 2 Division 1 insert:
-9AA.Reduction in sentence for plea of guilty
-(1) In this section —
-fixed term has the meaning given in section 85(1);
-head sentence, for an offence, means the sentence that a court would have imposed for the offence if —
-(a)the offender had been found guilty after a plea of not guilty; and
-(b)there were no mitigating factors;
-victim has the meaning given in section 13.
-(2) If a person pleads guilty to a charge for an offence, the court may reduce the head sentence for the offence in order to recognise the benefits to the State, and to any victim of or witness to the offence, resulting from the plea.
-(3) The earlier in the proceedings the plea is made, the greater the reduction in the sentence may be.
-(4) If the head sentence for an offence is or includes a fixed term, the court must not reduce the fixed term under subsection (2) —
-(a) by more than 25%; or
-(b) by 25%, unless the offender pleaded guilty, or indicated that he or she would plead guilty, at the first reasonable opportunity.
-(5) If a court reduces the head sentence for an offence under subsection (2), the court must state that fact and the extent of the reduction in open court.
-(6) This section does not prevent the court from reducing the head sentence for an offence because of any mitigating factor other than a plea of guilty.
-5.Part 21 heading inserted
-After section 149 insert:
-Part 21 — Transitional and review provisions
-6.Sections 150A and 150B inserted
-Before section 150 insert:
-150A.Sentencing Amendment Act 2012 amendments, application of
-(1) In this section —
-commencement means the coming into operation of the Sentencing Amendment Act 2012 section 4;
-sentencing includes the variation or substitution of a sentence.
-(2) This Act, as amended by the Sentencing Amendment Act 2012, applies to the sentencing after commencement of an offender for an offence —
-(a) even if the offence was committed before commencement; and
-(b) even if the offender was convicted before commencement; and
-(c) even if the sentencing is as a result of an appeal against a sentence imposed before commencement.
-150B.Review of s. 9AA
-(1) The Minister must review the operation and effectiveness of section 9AA as soon as practicable after the third anniversary of the day on which the Sentencing Amendment Act 2012 section 4 comes into operation.
-(2) The Minister must cause a report of the review to be laid before each House of Parliament as soon as practicable after it is done.
 On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 228 had not come into operation. It reads as follows:
 228.Sentencing Act 1995 amended
 (1) This section amends the Sentencing Act 1995.
