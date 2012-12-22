@@ -14,6 +14,7 @@ Local Government (Elections) Amendment Regulations 2007 | 3 Aug 2007 p. 3989-400
 Reprint 2: The Local Government (Elections) Regulations 1997 as at 27 Mar 2009 (includes amendments listed above)
 Local Government (Elections) Amendment Regulations 2009 | 14 Aug 2009 p. 3215-20 | r. 1 and 2: 14 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2009 (see r. 2(b))
 Local Government (Elections) Amendment Regulations (No. 2) 2009 | 28 Aug 2009 p. 3359-71 | r. 1 and 2: 28 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2009 (see r. 2(b) and Gazette 28 Aug 2009 p. 3347)
+Local Government (Elections) Amendment Regulations 2012 | 21 Dec 2012 p. 6642-4 | r. 1 and 2: 21 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Dec 2012 (see r. 2(b))
 The Local Government (Elections) Amendment Regulations 1998 r. 3 reads as follows:
 “
 3.Application
@@ -29,6 +30,7 @@ commencement day30C(3)
 contact number3
 councillor election3
 declaration envelope54(3)
+destroy
 election package3
 election papers3
 elector67(1)
