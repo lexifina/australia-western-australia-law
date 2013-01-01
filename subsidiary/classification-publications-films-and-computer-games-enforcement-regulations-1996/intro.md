@@ -1,3 +1,3 @@
 Western Australia
-Censorship Act 1996
-Censorship Regulations 1996
+Classification (Publications, Films and Computer Games) Enforcement Act 1996
+Classification (Publications, Films and Computer Games) Enforcement Regulations 1996

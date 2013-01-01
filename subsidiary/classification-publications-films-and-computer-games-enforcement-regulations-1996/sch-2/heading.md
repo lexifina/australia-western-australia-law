@@ -1,7 +1,7 @@
 ## Schedule 2 — Forms
 [r. 4 and 5]
 Form 1
-Censorship Act 1996 s. 117E(1) Infringement Notice | Notice No:
+Classification (Publications, Films and Computer Games) Enforcement Act 1996 s. 117E(1) Infringement Notice | Notice No:
 Alleged offender | Family name:
 Other names:
 Address: | No.: | Street name:
@@ -20,8 +20,9 @@ Signature:
 Date:
 Address for service:
 Paying the modified penalty | You may pay the modified penalty — 1.BY POSTING a cheque or money order made payable to [details to be inserted here]; OR 2.IN PERSON to [details to be inserted here].
+[Form 1 amended in Gazette 14 Dec 2012 p. 6203.]
 Form 2
-Censorship Act 1996 s. 117G(1) Withdrawal of Infringement Notice | Notice No:
+Classification (Publications, Films and Computer Games) Enforcement Act 1996 s. 117G(1) Withdrawal of Infringement Notice | Notice No:
 To [Details of alleged offender] | Family name:
 Other names:
 Address: | No.: | Street name:
@@ -33,4 +34,4 @@ Alleged offence:
 Authorised person who issued this notice | Name:
 Signature:
 Date:
-[Schedule 2 inserted in Gazette 4 Jun 2004 p. 1931-2.]
+[Form 2 amended in Gazette 14 Dec 2012 p. 6203.]
