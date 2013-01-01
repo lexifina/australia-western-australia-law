@@ -11,10 +11,7 @@ Censorship Amendment Act 2006 | 10 of 2006 | 8 May 2006 | Pt. 4 and Sch. 2: 26 M
 Reprint 2: The Classification (Publications, Films and Computer Games) Enforcement Act 1996 as at 21 Jul 2006 (includes amendments listed above)
 Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 Pt. 2 Div. 2, Pt. 3 and 4 | 21 of 2010 | 7 Jul 2010 | 28 Aug 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
 Reprint 3: The Classification (Publications, Films and Computer Games) Enforcement Act 1996 as at 13 May 2011 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Classification (Publications, Films and Computer Games) Enforcement Amendment Act 2012 s. 3-15 | 53 of 2012 | 29 Nov 2012 | 1 Jan 2013 (see s. 2(b)(i))
+Classification (Publications, Films and Computer Games) Enforcement Amendment Act 2012 | 53 of 2012 | 29 Nov 2012 | s. 1 and 2: 29 Nov 2012 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2013 (see s. 2(b)(i))
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 Repealed by s. 153 of this Act.
 The amendment in the Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 16 is not included because the section it sought to amend had been repealed by the Censorship Amendment Act 2003 s. 35 before the amendment purported to come into operation.
@@ -91,82 +88,9 @@ Column 1 Item | Column 2 Former type of classification | Column 3 New type of cl
 The Censorship Amendment Act 2006 s. 4(3) and (4) read as follows:
 (3) A reference in any Act or regulation to the “Censorship Act 1996” shall, unless the context otherwise requires, be read and construed as a reference to the Classification (Publications, Films and Computer Games) Enforcement Act 1996.
 (4) The reference in the Community Protection (Offender Reporting) Act 2004 Schedule 2 or the Working with Children (Criminal Record Checking) Act 2004 Schedule 2 to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 is taken to include, and always to have included, a reference to the Censorship Act 1996.
-On the date as at which this compilation was prepared, the Classification (Publications, Films and Computer Games) Enforcement Amendment Act 2012 s. 3-15 had not come into operation. They read as follows:
-3.Act amended
-This Act amends the Classification (Publications, Films and Computer Games) Enforcement Act 1996.
-4.Section 3 amended
-In section 3 in the definition of contentious material delete “MA 15+ or” and insert:
-MA 15+, R 18+ or
-5.Section 57 amended
-In section 57(c) delete “M or MA 15+; or” and insert:
-M, MA 15+ or R 18+; or
-6.Section 84 amended
-In section 84(2) delete “RC,” and insert:
-RC or R 18+,
-Note:The heading to amended section 84 is to read:
-RC and R 18+ computer games, sale etc. of
-7.Section 85 amended
-(1) In section 85(1) after “classified” insert:
-R 18+ or
-(2) In section 85(2):
-(a) in paragraph (a) after “be classified” insert:
-R 18+ or
-(b) in paragraph (b) after “classified” insert:
-R 18+ or
-(3) After section 85(2) insert:
-(3A) A person must not demonstrate in a place that is not a public place, in the presence of a minor —
-(a) an unclassified computer game that would, if classified, be classified R 18+; or
-(b) a computer game classified R 18+,
-unless that person is a parent or guardian of the minor.
-Penalty: a fine of $2 000.
-(3B) It is a defence to a charge of an offence against subsection (3A) for the person charged to prove that the person believed on reasonable grounds that the minor was an adult.
-Note:The heading to amended section 85 is to read:
-R 18+ and MA 15+ computer games, demonstration of
-8.Section 85A amended
-In section 85A(a) and (b) after “classified” insert:
-R 18+ or
-Note:The heading to amended section 85A is to read:
-R 18+ and MA 15+ computer games, containers etc., display of in public
-9.Section 88 amended
-Before section 88(1) insert:
-(1A) A person must not sell or supply to a minor a computer game classified R 18+ unless the person is a parent or guardian of the minor.
-Penalty: a fine of $5 000.
-(1B) It is a defence to a charge of an offence against subsection (1A) for the person charged to prove that —
-(a) the minor produced to the person charged or that person’s employee or agent acceptable proof of age before the person charged sold or supplied the computer game to the minor and the person charged or that person’s employee or agent believed on reasonable grounds that the minor was an adult; or
-(b) the minor was employed by the person charged or that person’s employer and the supply took place in the course of that employment.
-10.Section 89 amended
-(1) In section 89(2) after “be classified” insert:
-R 18+ or
-(2) In section 89(3) after “classified” insert:
-R 18+ or
-11.Section 92 amended
-In section 92(2) in the Table item 5 delete “MA 15+,” and insert:
-R 18+, MA 15+,
-12.Section 94 amended
-In section 94(2) in the Table item 5 delete “MA 15+,” and insert:
-R 18+, MA 15+,
-13.Section 95 amended
-(1) In section 95(1) in the Table after item 4 insert:
-5 | R 18+ | R 18+, MA 15+, M, PG or G
-(2) In section 95(2) in the Table after item 4 insert:
-5 | R 18+ | R 18+, MA 15+, M, PG or G
-(3) In section 95(3) delete “computer film” and insert:
-film
-14.Section 110 amended
-In section 110(b) delete “RC or” and insert:
-RC, R 18+ or
-15.Section 153A inserted
-Before section 153 insert:
-153A.Change of classification of computer games from MA 15+ to R 18+
-If —
-(a) immediately before the coming into operation of this section, a computer game is classified MA 15+; and
-(b) within 12 months after the coming into operation of this section, the computer game becomes classified R 18+ under the Commonwealth Act; and
-(c) within 90 days after the change in classification, a person commits an offence in relation to the computer game under section 85, 85A, 86, 88, 89, 92, 94 or 95 (the relevant section); and
-(d) the person would not have committed any offence under the relevant section if the computer game had still been classified MA 15+,
-then the person is taken not to have committed an offence under the relevant section.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 acceptable proof of age3
 adult3
 advertisement3
@@ -218,10 +142,11 @@ publish3
 registered person3
 registered premises3
 Registrar3
+relevant section153A
 restricted material99
 Review Board3
-seized copies117A(1)(c)
-seized products117A(1)(a)
+seized copies117A(1)
+seized products117A(1)
 sell3
 sound recording3
 submittable publication3
