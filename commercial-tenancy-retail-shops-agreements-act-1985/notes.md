@@ -20,10 +20,7 @@ Retail Shops and Fair Trading Legislation Amendment Act 2006 Pt. 3 | 47 of 2006 
 Reprint 3: The Commercial Tenancy (Retail Shops) Agreements as at 8 Jun 2007 (includes amendments listed above)
 Acts Amendment (Justice) Act 2008 Pt. 4 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Small Business and Retail Shop Legislation Amendment Act 2011 Pt. 3 | 20 of 2011 | 11 Jul 2011 | 24 Mar 2012 (see s. 2(b) and Gazette 23 Mar 2012 p. 1363)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Commercial Tenancy (Retail Shops) Agreements Amendment Act 2011 s. 3-25 | 59 of 2011 | 14 Dec 2011 | 1 Jan 2013 (see s. 2(b) and Gazette 30 Nov 2012 p. 5773)
+Commercial Tenancy (Retail Shops) Agreements Amendment Act 2011 | 59 of 2011 | 14 Dec 2011 | s. 1 and 2: 14 Dec 2011 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2013 (see s. 2(b) and Gazette 30 Nov 2012 p. 5773)
 The Commercial Tenancy (Retail Shops) Agreements Amendment Act 1990 s. 22 reads as follows:
 “
 22.Saving and transitional
@@ -171,367 +168,53 @@ the CTRS Act means the Commercial Tenancy (Retail Shops) Agreements Act 1985.
 on or after the commencement day the question is to be dealt with as if it had been referred for mediation under the Act section 54(1) and the Tribunal is to specify a person to be the mediator.
 ”.
 The Petroleum Retail Marketing Franchise Act 1980 (Cwlth) has been repealed by the Petroleum Retail Legislation Repeal Act 2006 (Cwlth) (No. 2006/113).
-Footnote no longer required.
-On the date as at which this compilation was prepared, the Commercial Tenancy (Retail Shops) Agreements Amendment Act 2011 s. 3-25 had not come into operation. They read as follows:
-3.Act amended
-This Act amends the Commercial Tenancy (Retail Shops) Agreements Act 1985.
-4.Long title amended
-In the long title delete “conduct” and insert:
-conduct, or misleading or deceptive conduct,
-5.Section 3 amended
-(1) In section 3(1) delete the definitions of:
-retail floor area
-retail shop
-retail shop lease
-retail shopping centre
-total lettable area
-(2) In section 3(1) insert in alphabetical order:
-group of premises means —
-(a)a retail shopping centre; or
-(b)2 or more premises, at least one of which is a retail shop, that are adjacent, or form a cluster —
-(i)which have, or on being leased would have, a common head lessor; and
-(ii)are grouped together for the purpose of allocating to each of those premises a portion of an item of operating expenses;
-lettable area, of a retail shop, means an area of the shop defined or calculated —
-(a)in such manner as is prescribed by the regulations; and
-(b)if the shop is part of a group of premises, in the same, or a substantially similar, manner as the area for each other retail shop in the group of premises is defined or calculated;
-misleading or deceptive conduct application means an application under section 16D(1);
-retail business means —
-(a)a business that wholly or predominantly involves the sale of goods by retail; or
-(b)a specified business;
-retail shop means —
-(a)any premises situated in a retail shopping centre that are used wholly or predominantly for the carrying on of a business; or
-(b)any premises not situated in a retail shopping centre that are used wholly or predominantly for the carrying on of a retail business,
-but does not include any premises excluded by regulation;
-retail shop lease means a lease that provides for the occupation of a retail shop, unless —
-(a)the retail shop —
-(i)has a lettable area that exceeds 1 000 square metres; and
-(ii)is not of a kind prescribed by the regulations for the purposes of this definition;
-or
-(b)the lease is held by —
-(i)a listed corporation (within the meaning of the Corporations Act 2001 (Commonwealth) section 9) that would not be eligible to be incorporated as a proprietary company; or
-(ii)a subsidiary (within the meaning of the Corporations Act 2001 (Commonwealth) section 9) of such a corporation;
-or
-(c)the lease is held by —
-(i)a body corporate whose securities are listed on a stock exchange, outside Australia and the external territories, that is a member of the World Federation of Exchanges; or
-(ii)a subsidiary (within the meaning of the Corporations Act 2001 (Commonwealth) section 9) of such a body corporate;
-or
-(d)the lease is of a kind that is prescribed by the regulations as exempt from the operation of this Act;
-retail shopping centre means a cluster of premises —
-(a)5 or more of which are used for the carrying on of a retail business; and
-(b)all of which —
-(i)have, or upon being leased would have, a common head lessor; or
-(ii)comprise lots on a single strata plan under the Strata Titles Act 1985,
-but, if the premises are in a building with 2 or more floor levels, includes only those levels of the building where a retail business is situated;
-(3) In section 3(3):
-(a) in paragraph (a) delete “existed;” and insert:
-existed, including a question as to forfeiture; or
-(b) after paragraphs (b) and (c) insert:
-or
-6.Section 4 amended
-After section 4(3) insert:
-(4) Regulations may be made exempting from all or any of the provisions of this Act —
-(a) a prescribed person, retail shop lease or retail shop; or
-(b) a prescribed class of persons, retail shop leases or retail shops.
-(5) The regulations may provide for conditions and restrictions subject to which an exemption is to apply.
-7.Section 6 amended
-(1) In section 6(1) after “the disclosure statement given” insert:
-is incomplete or
-(2) Delete section 6(1)(a) and insert:
-(a) within 6 months after the lease was entered into give to the landlord written notice of termination of the lease, unless subsection (3) prevents termination;
-(3) In section 6(1)(b) delete the passage that begins with “of the omission” and continues to the end of the paragraph and insert:
-of —
-(i) the omission of the landlord to give a disclosure statement in accordance with subsection (4); or
-(ii) the giving of an incomplete disclosure statement by the landlord; or
-(iii) the giving of false or misleading information by the landlord in the disclosure statement.
-(4) After section 6(2) insert:
-(3) A tenant cannot terminate a lease under this section on the ground that the tenant has been given a disclosure statement that is incomplete or contains false or misleading information if —
-(a) the landlord has acted honestly and reasonably and ought reasonably to be excused for the failure concerned; and
-(b) the tenant is in substantially as good a position as the tenant would have been if the statement had been complete or had not contained the false or misleading information.
-8.Section 11 amended
-(1) In section 11(2)(a) delete “lease;” and insert:
-lease, and is not to take into account the value of —
-(i) the goodwill of the business carried on in the retail shop; or
-(ii) any stock, fixtures or fittings in the retail shop that are not the property of the landlord; or
-(iii) any structural improvement, or alteration, of the retail shop carried out, or paid for, by the current tenant;
-and
-(2) After section 11(3a) insert:
-(3B) A landlord under a retail shop lease must, to assist in determining the rent payable as a result of the review, within 14 days after being given a written request to do so by a person who acts under subsection (3), give that person such relevant information as is requested, including any of the following information, about leases for retail shops in the same building or retail shopping centre —
-(a) current rental for each lease;
-(b) rent free periods or any other form of incentive;
-(c) recent or proposed variations of any lease;
-(d) outgoings for each lease;
-(e) any other information prescribed for the purposes of this paragraph.
-(3C) If a landlord fails to comply with a request made under subsection (3B) without reasonable excuse —
-(a) the person who made the request must, within 7 days after the landlord has failed to comply with the request, give to the tenant written notice of the landlord’s failure; and
-(b) the tenant may apply in writing to the Tribunal for an order that the landlord comply with a request made under subsection (3B) to supply the information requested.
-9.Section 11A inserted
-After section 11 insert:
-11A.Confidentiality of information supplied under section 11
-(1) A person given information by a landlord under section 11(3B) must not disclose that information to any other person unless the disclosure is made —
-(a) for the purpose of, or in connection with, determining the rent payable as a result of the review; or
-(b) in a way that does not disclose information identifying a particular lease or tenant, or relating to a tenant’s business, for the purpose of specifying the matters to which the person had regard in resolving the question concerned; or
-(c) with the consent of both the tenant and the landlord of the relevant retail shop; or
-(d) for the purposes of any legal proceedings arising out of this Act or of any report of any such proceedings; or
-(e) as required or permitted under this Act or any other law; or
-(f) with any other lawful excuse.
-(2) Subsection (1) does not prevent a person from disclosing information that is publicly available at the time the disclosure concerned was made.
-(3) If a person discloses information in contravention of subsection (1) and the tenant or landlord suffers loss or damage because of the disclosure, the tenant or landlord is entitled to be paid by the person who made the disclosure compensation for the loss or damage —
-(a) of such reasonable amount as is agreed between the person and the tenant or landlord; or
-(b) failing agreement, as may be determined by the Tribunal on the application of the tenant or landlord.
-10.Section 12 amended
-(1) In section 12(1)(b) delete “the proportion” and insert:
-subject to subsection (1e), the proportion
-(2) In section 12(1)(c) delete subparagraphs (i) and (ii) and insert:
-(i) the premises the subject of the retail shop lease are part of a group of premises; and
-(ii)any part of the operating expenses is expenditure incurred as a result of some only of the premises in the group being open outside the standard trading hours,
-(3) In section 12(1e):
-(a) delete “premises in a retail shopping centre —” and insert:
-a retail shop in a group of premises —
-(b) in paragraph (a) delete “retail shop in the retail shopping centre unless the shop is one of the shops” and insert:
-premises in the group of premises unless the shop is one of the premises
-(c) in paragraph (b) delete the passage that begins with “retail floor area” and continues to the end of the paragraph and insert:
-lettable area of the shop bears to the total lettable area of all of the premises in the group of premises to which the operating expense is referable, without the approval of the Tribunal.
-(4) After section 12(2) insert:
-(3A) A provision in a retail shop lease to the effect that the tenant is obliged to contribute towards the cost of any of the landlord’s finishes, fixtures, fittings, equipment or services is void unless the disclosure statement given to the tenant under section 6 contains a statement notifying the tenant of the effect of the provision.
-(5) In section 12(3) delete the definition of relevant proportion.
-(6) In section 12(3) insert in alphabetical order:
-group of premises includes a part of a group of premises;
-relevant proportion, in relation to a retail shop that is part of a group of premises, means the proportion that the lettable area of the retail shop bears to the total lettable area of the group of premises at the commencement of the accounting year;
-total lettable area, of a group of premises, or part of a group of premises, means the aggregate of —
-(a)the lettable areas of the premises that are retail shops (or areas set aside for retail shops); and
-(b)if any of the premises are not retail shops, the lettable area of those premises defined or calculated in such manner as is prescribed by the regulations.
-(7) In section 12(3) in the definition of strata titles levy delete “Act 1985.” and insert:
-Act 1985;
-11.Section 13 amended
-(1) In section 13(1) delete “less” (each occurrence) and insert:
-more than 6 months but less
-(2) After section 13(1) insert:
-(2A) For the purposes of subsection (1), a lease for a term of more than 6 months includes a tenancy where the tenant has been continuously in possession of the retail shop for more than 6 months as a result of either or both of the following —
-(a) the lease being renewed (one or more times);
-(b) the lease being continued.
-(3) In section 13(3)(a) delete “90 days” and insert:
-30 days
-(4) In section 13(6):
-(a) delete the passage that begins with “to which subsection (1)” and ends with “except —” and insert:
-is not entitled to determine the lease —
-(aa) if the lease is a lease referred to in subsection (1), before the day on which the term that may be obtained by the tenant under that subsection expires; or
-(ab) if the lease is a lease the current term of which, or the current term plus the option term, is 5 years or longer, before the day that is 5 years after the day on which the current term commenced,
-except —
-(b) after paragraph (c) insert:
-(da) under and in accordance with a provision of the lease that is the same, or substantially the same, as a provision prescribed for the purposes of this section; or
-(c) in paragraph (d) delete “subsection (7b).” and insert:
-subsection (7b), in relation to a lease referred to in paragraph (aa).
-(d) after each of paragraphs (a) and (b) insert:
-or
-(5) In section 13(7) delete the passage that begins with “at a time” and ends with “subsection (6)(a) or (b)” and insert:
-(other than under subsection (6)(a), (b) or (da)) before the day set out in subsection (6)(aa) or (ab), as is relevant,
-12.Section 13B amended
-After section 13B(3) insert:
-(4A) A lease may be terminated during a period by which it is deemed to be extended under subsection (3) by the tenant giving written notice of termination of the lease to the landlord specifying a day that is —
-(a) on or after the date on which the term of the lease ends; and
-(b) before the date until which the lease is deemed to be extended under subsection (3).
-(4B) If the tenant gives the landlord a notice of termination under subsection (4A), the lease terminates on the day specified in the notice.
-(4C) If a lease is renewed because of subsection (3) after the term of the lease ends, the lease for the further term commences on the expiry of the previous lease, disregarding for this purpose any period during which that lease is deemed to be extended because of that subsection.
-13.Section 13C inserted
-After section 13B insert:
-13C.Obligation to notify tenant of option to renew
-(1) If a retail shop lease provides, whether directly or by operation of section 13, an option or a further option of renewal of the lease exercisable by the tenant, the landlord must notify the tenant in writing of the date after which the option is no longer exercisable —
-(a) at least 6 months; and
-(b) no more than 12 months,
-before that date but is not required to do so if the tenant exercises, or purports to exercise, the option before being notified of the date.
-(2) If subsection (1) requires the landlord to notify the tenant but the landlord fails to do so within the time specified by that subsection —
-(a) the retail shop lease is taken to provide that the date after which the option is no longer exercisable is instead 6 months after the landlord notifies the tenant as required; and
-(b) if that date is after the term of the lease ends, the lease continues until that date (on the same terms and conditions as applied immediately before the lease term ends); and
-(c) the tenant, whether or not the landlord has by then notified the tenant as required, may give written notice of termination of the lease to the landlord specifying a day that is —
-(i) on or after the date on which the term of the lease ends; and
-(ii) before the date until which the lease would otherwise have continued because of paragraph (b).
-(3) If the tenant gives the landlord a notice of termination under subsection (2)(c), the lease terminates on the day specified in the notice.
-(4) If an option to renew is exercised because of subsection (2)(b) after the term of the lease ends, the lease for the further term commences on the expiry of the previous lease, disregarding for this purpose any period during which that lease continued because of that subsection.
-14.Sections 14A, 14B and 14C inserted
-After section 14 insert:
-14A.Relocation
-(1) A provision of a retail shop lease about the relocation of the tenant’s business is void unless —
-(a) it is in the form prescribed for the purposes of this section; or
-(b) it is in a form approved by the Tribunal under subsection (3); or
-(c) if 5 years of the term of the lease (including any period during the extension of the term under an option to renew) have already expired, it is in accordance with subsection (2).
-(2) A provision of a retail shop lease about the relocation of the tenant’s business is in accordance with this subsection if it contains provisions to the following effect —
-(a) the tenant’s business cannot be required to be relocated unless the landlord has given the tenant at least 6 months written notice of relocation (a relocation notice);
-(b) the relocation notice is to give details of an alternative retail shop (the alternative shop) to be made available to the tenant, and if the existing retail shop is situated in a retail shopping centre, the alternative shop is to be situated in that shopping centre;
-(c) the tenant is to be offered a new lease of the alternative shop —
-(i) on the same, or better, terms and conditions as the existing lease except that the term of the new lease is to be no shorter than the remainder of the term of the existing lease; and
-(ii) the rent for the alternative shop is to be no more than the rent for the existing retail shop, adjusted to take into account any difference in the commercial values of the existing retail shop and the alternative shop at the time of relocation;
-(d) the landlord is to pay the tenant’s reasonable costs of the relocation, including but not limited to —
-(i) costs incurred by the tenant in dismantling fittings, equipment or services; and
-(ii) costs incurred by the tenant in replacing, re-installing or modifying finishes, fittings, equipment or services to the standard existing in the existing retail shop immediately before the relocation, but only to the extent that they are reasonably required in the alternative shop; and
-(iii) packaging and removal costs incurred by the tenant; and
-(iv) legal costs incurred by the tenant;
-(e) if the landlord does not offer the tenant a new lease of an alternative retail shop then the landlord is liable to pay to the tenant such reasonable compensation as is agreed in writing between the parties, or determined by the Tribunal.
-(3) The Tribunal may, on application made to it by the landlord, notice of which has been given to the tenant, approve of the inclusion in a retail shop lease of another form of relocation provision under subsection (1)(b) if the Tribunal is satisfied that special circumstances exist by reason of which such approval ought to be given.
-(4) A landlord in relation to a retail shopping centre may make an application under subsection (3) as to any number of retail shop leases in respect of that centre where the landlord is of the opinion that the same special circumstances exist in relation to each lease the subject of the application, and the Tribunal may exercise its powers under that subsection accordingly.
-14B.Liability for costs associated with lease
-(1) A landlord under a retail shop lease is not able to claim from any person (including the tenant) the landlord’s legal or other expenses relating to —
-(a) the negotiation, preparation or execution of —
-(i) the lease; or
-(ii) a renewal of the lease; or
-(iii) an extension of the lease;
-or
-(b) obtaining the consent of a mortgagee to the lease; or
-(c) the landlord’s compliance with this Act.
-(2) Subsection (1) does not prevent the landlord from claiming the reasonable legal or other expenses incurred by the landlord in connection with an assignment of the lease or a sub-lease, including investigating a proposed assignee or sub-lessee and obtaining any necessary consents to the assignment or sub-lease.
-14C.Refurbishment and refitting
-A provision of a retail shop lease requiring the tenant to refurbish or refit the shop is void unless it gives such details of the required refurbishment or refitting as may be necessary to indicate generally the nature, extent and timing of the required refurbishment or refitting.
-15.Part IIA heading amended
-In the heading to Part IIA after “conduct” insert:
-and misleading or deceptive conduct
-16.Part IIA Division 1 heading inserted
-At the beginning of Part IIA insert:
-Division 1 — Unconscionable conduct
-17.Section 15A amended
-In section 15A delete “Part —” and insert:
-Division —
-Note:The heading to amended section 15A is to read:
-Terms used
-18.Section 15B amended
-(1) In section 15B(1) delete “Part” (each occurrence) and insert:
-Division
-(2) After section 15B(1) insert:
-(2A) In subsection (1) —
-the relevant day has the meaning given to that term by section 4(3).
-(3) In section 15B(2) delete “Part” and insert:
-Division
-(4) Delete section 15B(3) and insert:
-(3) Nothing in this Division affects the operation of Division 2.
-Note:The heading to amended section 15B is to read:
-Application of Division
-19.Section 15F amended
-Delete section 15F(1) and insert:
-(1) A landlord or tenant, or former landlord or tenant, under a retail shop lease or former retail shop lease who suffers, or is likely to suffer, loss or damage because of unconscionable conduct of another person that contravenes section 15C or 15D may apply in writing to the Tribunal for an order that the other person pay compensation in respect of the loss or damage, or for other appropriate relief.
-20.Part IIA Division 2 inserted
-After section 15F insert:
-Division 2 — Misleading or deceptive conduct
-16A.Term used: misleading or deceptive conduct
-In this Division —
-misleading or deceptive conduct means conduct to which section 16C applies.
-16B.Application of Division
-(1) In addition to a retail shop lease to which or in relation to which this Division would otherwise apply, this Division also applies to or in relation to a retail shop lease that was entered into —
-(a) before the relevant day; or
-(b) pursuant to an option granted or agreement made before the relevant day,
-if this Act would have applied to the lease had it been entered into on or after that day.
-(2) In subsection (1) —
-the relevant day has the meaning given to that term by section 4(3).
-(3) This Division does not apply to conduct that occurred before the commencement of the Commercial Tenancy (Retail Shops) Agreements Amendment Act 2011 section 20.
-(4) Nothing in this Division affects the operation of Division 1.
-16C.Misleading or deceptive conduct in connection with retail shop leases
-A party to a retail shop lease must not, in connection with the lease, engage in conduct that is misleading or deceptive to another party to the lease or that is likely to mislead or deceive another party to the lease.
-16D.Powers of Tribunal relating to misleading or deceptive conduct
-(1) A party, or former party, under a retail shop lease or former retail shop lease who suffers, or is likely to suffer, loss or damage because of misleading or deceptive conduct of another party or former party to the lease may apply in writing to the Tribunal for an order that the other party, or former party, pay compensation in respect of the loss or damage, or for other appropriate relief.
-(2) A misleading or deceptive conduct application is required to be lodged within 6 years after the alleged misleading or deceptive conduct occurred.
-(3) Without limiting section 26, in proceedings in relation to a misleading or deceptive conduct application, the Tribunal may make any one or more of the following orders that it considers appropriate —
-(a) an order that a party to the proceedings pay money to a specified person, whether by way of debt, damages or restitution, or refund any money paid by a specified person;
-(b) an order that a specified amount of money is not due or owing by a party to the proceedings to a specified person, or that a party to the proceedings is not entitled to a refund of any money paid to another party to the proceedings.
-(4) The Tribunal may make any ancillary orders that it considers necessary for the purpose of enabling an order under this section to have full effect.
-(5) The Tribunal may impose any conditions that it considers appropriate when making an order under this section.
-(6) The Tribunal may make an interim order under this section pending final determination of a misleading or deceptive conduct application, if the Tribunal considers it appropriate to do so.
-(7) In this section —
-specified, in relation to an order, means specified in the order.
-21.Part IIA Division 3 heading inserted
-Before section 16 insert:
-Division 3 — Reference of questions to State Administrative Tribunal
-22.Section 26 amended
-In section 26(1aa) delete “so, make an order terminating a retail shop lease under section 6A.” and insert:
-so to resolve the matter concerned, make an order terminating a retail shop lease.
-23.Section 27 amended
-(1) In section 27(4)(a) after “application” insert:
-or misleading or deceptive conduct application
-(2) In section 27(5)(a) delete “the unconscionable conduct application, or the part of that” and insert:
-an application referred to in subsection (4), or a part of such an
-(3) In section 27(6)(a) delete “unconscionable conduct application” and insert:
-application referred to in subsection (4)
-24.Section 29 inserted
-After section 28 insert:
-29.Transitional provisions
-Schedule 1 sets out transitional provisions.
-25.Schedule 1 inserted
-After section 31 insert:
-Schedule 1 — Transitional provisions
-[s. 29]
-Division 1 — Preliminary
-1.Interpretation Act 1984 not affected
-This Schedule does not affect the operation of the Interpretation Act 1984 Part V.
-2.Transitional regulations
-(1) Regulations may prescribe all matters that are required or necessary or convenient to be prescribed for dealing with any issue or matter of a savings or transitional nature —
-(a) that arises as a result of the amendment of this Act by another Act (an amending Act); and
-(b) for which there is no sufficient provision in this Act or the amending Act.
-(2) Regulations made under this clause may provide that specified provisions of this Act do not apply, or apply with modifications specified in the regulations, to or in relation to any matter.
-(3) Regulations made under this clause may provide that a state of affairs specified in the regulations is to be taken to have existed, or not to have existed, on and from a day that is earlier than the day on which the regulations come into operation but not earlier than the day on which the relevant amending Act, or the relevant provision or provisions of that Act, came into operation.
-(4) If the regulations contain a provision referred to in subclause (3), the provision does not operate so as —
-(a) to affect in a manner prejudicial to any person (other than the State), the rights of that person existing before the regulations commenced; or
-(b) to impose liabilities on any person (other than the State) in respect of anything done or omitted to be done before the regulations commenced.
-Division 2 — Provisions for Commercial Tenancy (Retail Shops) Agreements Amendment Act 2011
-3.Terms used
-In this Division —
-2011 amending Act means the Commercial Tenancy (Retail Shops) Agreements Amendment Act 2011;
-commencement day, in relation to a provision of this Act referred to in clause 4, means the day on which —
-(a)the provision of the 2011 amending Act that inserted the provision referred to in clause 4 came into operation; or
-(b)the provision of the 2011 amending Act that amended the provision referred to in clause 4 came into operation;
-existing lease means a lease that —
-(a)immediately before the commencement of the 2011 amending Act section 5, was not a retail shop lease within the meaning of this Act as in force at that time; and
-(b)was entered into —
-(i)before the commencement of the 2011 amending Act section 5; or
-(ii)pursuant to an option granted or agreement made before the commencement of the 2011 amending Act section 5;
-existing retail shop lease, in relation to a provision of this Act referred to in clause 4, means a retail shop lease that was entered into —
-(a)before the commencement day; or
-(b)pursuant to an option granted, whether directly or by operation of section 13, or agreement made before the commencement day.
-4.Application of this Act to existing retail shop leases
-Despite the amendments effected by the 2011 amending Act —
-(a)the following provisions do not apply to, or in relation to, an existing retail shop lease —
-(i)section 12(3A) of this Act as inserted by section 10(4) of the 2011 amending Act;
-(ii)sections 14A and 14C of this Act, as inserted by section 14 of the 2011 amending Act; and
-and
-(b)the following provisions continue to apply to, and in relation to, an existing retail shop lease —
-(i)section 6 of this Act, as in force immediately before being amended by section 7 of the 2011 amending Act; and
-(ii)section 13 of this Act, as in force immediately before being amended by section 11 of the 2011 amending Act.
-5.This Act does not apply to a lease that becomes a retail shop lease as a consequence of the 2011 amending Act
-This Act does not apply to, or in relation to, an existing lease that, immediately after the commencement of the 2011 amending Act section 5, is a retail shop lease within the meaning of this Act as in force at that time.
-6.No contracting out
-This Division applies despite an agreement to the contrary between the parties to a retail shop lease whether or not the agreement is contained in the retail shop lease.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
+2011 amending ActSch. 1, cl. 3
 accountant3(1)
 accounting year3(1)
+alternative shop14A(2)
+amending ActSch. 1, cl. 2(1)
 applicable industry code15A
 assignor10(5)
 bank12A(7)
 building3(1)
 commencement15A
+commencement daySch. 1, cl. 3
 common area3(1)
 confidential information25B(1)
+existing leaseSch. 1, cl. 3
+existing retail shop lease,Sch. 1, cl. 3
 fit out costs15A
 former tenant12A(7)
 goodwill3(1)
+group of premises3(1), 12(3)
 guarantor10(5)
 industry code15A
 key-money3(1)
 land tax12(3)
 landlord3(1)
 lease3(1)
+lettable area3(1)
 management fees3(1)
 matter24
 metropolitan region improvement tax12(3)
+misleading or deceptive conduct16A
+misleading or deceptive conduct application3(1)
 moneys payable under the lease10(5)
 notional land tax12(3)
 operating expenses12(3)
 operating expenses statement12(1)
 referable12(3)
-relevant day15B(3)
-relevant proportion12(3)
-retail floor area3(1)
+relevant proportion,12(3)
+relocation notice14A(2)
+retail business3(1)
 retail shop3(1)
-retail shop lease3(1)
+retail shop lease means 3(1)
 retail shopping centre3(1)
 Small Business Commissioner3(1)
-specified15F(7)
+specified15F(7), 16D(7)
 specified business3(1)
 standard trading hours12(3)
 strata titles levy12(3)
@@ -542,8 +225,8 @@ the head lease13(2)
 the incoming tenant6(5), 6A(5)
 the option term13(1)
 the outgoing tenant6(5), 6A(5)
-the relevant day4(3)
-total lettable area3(1)
+the relevant day4(3), 15B(2A), 16B(2)
+total lettable area12(3)
 Tribunal3(1)
 turnover7(4)
 unconscionable conduct application3(1)
