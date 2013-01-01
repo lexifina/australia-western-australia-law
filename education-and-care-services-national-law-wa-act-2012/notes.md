@@ -1,23 +1,13 @@
 Notes
-This is a compilation of the Education and Care Services National Law (WA) Act 2012 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Education and Care Services National Law (WA) Act 2012. The following table contains information about that Act.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Education and Care Services National Law (WA) Act 2012 | 11 of 2012 | 20 Jun 2012 | s. 1 and 2: 20 Jun 2012 (see s. 2(a)); Act other than s. 1, 2, Pt. 4 Div. 3, the Schedule s. 70(1)(d), 152, 153(2)-(4), 154-159, Pt. 5 Div. 6 (s. 160), 172(d), 266-268 and 270(1)(d) and (2)-(4): 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
+Education and Care Services National Law (WA) Act 2012 | 11 of 2012 | 20 Jun 2012 | s. 1 and 2: 20 Jun 2012 (see s. 2(a)); Act other than s. 1, 2, Pt. 4 Div. 3, Schedule (s. 70(1)(d), 152, 153(2)-(4)), 154-159, Pt. 5 Div. 6 (s. 160), 172(d), 266-268 and 270(1)(d) and (2)-(4)): 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411); Pt. 4 Div. 3: 1 Jan 2013 (see s. 2(b)(ii) and Gazette 14 Dec 2012 p. 6195)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 3 and the Schedule s. 70(1)(d), 152, 153(2)-(4), 154-159, Pt. 5 Div. 6 (s. 160), s. 172(d), 266-268 and 270(1)(d) and (2)-(4) | 11 of 2012 | 20 Jun 2012 | Pt. 4 Div. 3: operative on commencement of the Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 Pt. 2 (see s. 2(b)(ii)); The Schedule s. 70(1)(d), 152, 153(2)-(4), 154-159, Pt. 5 Div. 6 (s. 160), s. 172(d), 266-268 and 270(1)(d) and (2)-(4): to be proclaimed (see s. 2(c))
-On the date as at which this compilation was prepared, the Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 3, the Schedule s. 70(1)(d), 152, 153(2)-(4), 154-159, Pt. 5 Div. 6 (s. 160), s. 172(d), 266-268 and 270(1)(d) and (2)-(4) had not come into operation. They read as follows:
-Division 3 — Civil Liability Act 2002 amended
-28.Act amended
-This Division amends the Civil Liability Act 2002.
-29.Section 5AAA amended
-(1) In section 5AAA delete the definition of child care service and insert:
-child care service means —
-(a)an education and care service as defined in the Education and Care Services National Law (Western Australia) section 5(1); or
-(b)a child care service as defined in the Child Care Services Act 2007 section 4;
-(2) In section 5AAA in the definition of staff member after paragraph (c) insert:
-(da)a nominated supervisor as defined in the Education and Care Services National Law (Western Australia) section 5(1); or
+Education and Care Services National Law (WA) Act 2012 Schedule (s. 70(1)(d), 152, 153(2)-(4), 154-159, Pt. 5 Div. 6 (s. 160), s. 172(d), 266-268 and 270(1)(d) and (2)-(4)) | 11 of 2012 | 20 Jun 2012 | Schedule (s. 70(1)(d), 152, 153(2)-(4), 154-159, Pt. 5 Div. 6 (s. 160), s. 172(d), 266-268 and 270(1)(d) and (2)-(4)): to be proclaimed (see s. 2(c))
+On the date as at which this compilation was prepared, the Education and Care Services National Law (WA) Act 2012 Schedule s. 70(1)(d), 152, 153(2)-(4), 154-159, Pt. 5 Div. 6 (s. 160), s. 172(d), 266-268 and 270(1)(d) and (2)-(4) had not come into operation. They read as follows:
 Schedule — Education and Care Services National Law
 70.Grounds for suspension of service approval
 (1) A Regulatory Authority may suspend a service approval if —
