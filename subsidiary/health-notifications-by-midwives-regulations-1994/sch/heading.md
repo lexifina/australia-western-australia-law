@@ -1,25 +1,26 @@
 ## Schedule
 FORM 1
-[reg. 3]
+[r. 3]
 HEALTH ACT 1911
 HEALTH (NOTIFICATIONS BY MIDWIVES) REGULATIONS 1994
 NOTIFICATION OF INTENTION TO ENTER INTO PRIVATE PRACTICE AS A MIDWIFE
 EXECUTIVE DIRECTOR
 PUBLIC HEALTH
-I intend to enter into private practice as a midwife on ..........................................
-20 .......................
+I intend to enter into private practice as a midwife on ____/____/____
 PERSONAL PARTICULARS
-Full Name: .............................................................................................................
-Date of Birth: .........................................................................................................
-*Private/*Business Address: ..................................................................................
-*Private/*Business Telephone No.: .......................................................................
-Australian Health Practitioner Regulation Agency Registration No.: ...................
-...............................................
-Signature
-...............................................
-Date
-*Delete if not applicable
-[Form 1 amended in Gazette 1 Apr 2011 p. 1178.]
+Full Name: ______________________________________________________
+Date of Birth: ______/______/______
+Telephone Numbers (*Business or *Private):
+(Tel) ____________ (Mob) ____________
+Address (*Business or *Private): _____________________________________
+_____________________________
+Suburb: _________________ Postcode: ____________
+Australian Health Practitioner Regulation Agency Midwifery Registration Number: NMW________________________
+Professional Indemnity Insurance Provider: _____________________________
+Signature: ___________________
+Date: ____/____/____
+* Delete if not applicable
+[Form 1 inserted in Gazette 14 Dec 2012 p. 6200.]
 FORM 2
 [r. 4]
-[Form 2 inserted in Gazette 30 Dec 2011 p. 5578.]
+[Form 2 inserted in Gazette 14 Dec 2012 p. 6201.]
