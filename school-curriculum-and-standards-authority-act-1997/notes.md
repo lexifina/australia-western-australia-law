@@ -18,26 +18,8 @@ Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Curriculum Council Amendment Act 2011 Pt. 2 | 37 of 2011 | 13 Sep 2011 | 1 Mar 2012 (see s. 2(b) and Gazette 28 Feb 2012 p. 841)
 Reprint 3: The School Curriculum and Standards Authority Act 1997 as at 27 Apr 2012 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 School Education Amendment Act 2012 Pt. 3 | 46 of 2012 | 29 Nov 2012 | 1 Jan 2013 (see s. 2(b))
 Now known as the School Curriculum and Standards Authority Act 1997; short title changed (see note under s. 1).
-On the date as at which this compilation was prepared, the School Education Amendment Act 2012 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — School Curriculum and Standards Authority Act 1997 amended
-13.Act amended
-This Part amends the School Curriculum and Standards Authority Act 1997.
-14.Section 3 amended
-In section 3 delete the definition of compulsory education period and insert:
-compulsory education period has the meaning given in the School Education Act section 6(1);
-15.Section 19A amended
-(1) In section 19A(1) insert in alphabetical order:
-final years of compulsory education has the meaning given in the School Education Act section 4;
-(2) In section 19A(1) in the definition of student paragraph (a) delete “the 11th or 12th year of the compulsory education period” and insert:
-either of the final years of compulsory education
-16.Section 19M amended
-In section 19M(5)(b)(i) delete “the 11th or 12th year of the compulsory education period” and insert:
-either of the final years of compulsory education
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -66,6 +48,7 @@ education provider3
 educational programme19A(1)
 employed19F(1)
 exempt child19A(1)
+final years of compulsory education19A
 first year of the relevant education period19C(1)
 former Council19I(2A)
 governing body3
