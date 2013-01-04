@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Occupational Safety and Health Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 January 2013 of the Occupational Safety and Health Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Occupational Safety and Health Regulations 1996 | 27 Sep 1996 p. 4837-5080 | 1 Oct 1996 (see r. 1.2)
@@ -75,9 +75,13 @@ Reprint 8: The Occupational Safety and Health Regulations 1996 as at 19 Nov 2010
 Occupational Safety and Health Amendment Regulations (No. 6) 2010 | 10 Dec 2010 p. 6277-83 | r. 1 and 2: 10 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Dec 2010 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 7) 2010 | 7 Jan 2011 p. 53-4 | r. 1 and 2: 7 Jan 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Jan 2011 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 3) 2011 | 22 Jun 2011 p. 2317-20 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
-Occupation Safety and Health Amendment Regulations 2011 | 9 Sep 2011 p. 3686-7 | r. 1 and 2: 9 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Sep 2011 (see r. 2(b))
+Occupational Safety and Health Amendment Regulations 2011 | 9 Sep 2011 p. 3686-7 | r. 1 and 2: 9 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Sep 2011 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 3) 2012 | 15 Jun 2012 p. 2625-8 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 2) 2012 | 27 Jul 2012 p. 3666-7 | r. 1 and 2: 27 Jul 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jul 2012 (see r. 2(b))
+Reprint 9: The Occupational Safety and Health Regulations 1996 as at 4 Jan 2013 (includes amendments listed above)
+The Industrial Relations Act 1988 (Cwlth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
+Repealed by the Building Act 2011.
+Repealed by the Work Health and Safety (Transitional and Consequential Provisions) Act 2011 (Cwlth).
 The regulations ceased to have effect on the commencement of the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
 The amendment to r. 3.88 in the Occupational Safety and Health Amendment Regulations (No. 6) 2004 r. 24(5) is not included because it would conflict with the amendment in the Occupational Safety and Health Amendment Regulations (No. 3) 2004 r. 7.
 The amendment to r. 5.46 in the Occupational Safety and Health Amendment Regulations (No. 3) 2009 r. 10(b) is not included because it was unclear where the amendment was intended to be made. Regulation 10(b) reads as follows:
@@ -85,9 +89,9 @@ The amendment to r. 5.46 in the Occupational Safety and Health Amendment Regulat
 In regulation 5.46(1):
 (b) in paragraph (a) delete “every person employed to do asbestos removal work; and” and insert:
 any person employed or otherwise engaged to do work involving friable asbestos-containing material; and
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 AC classified hazardous substance5.1(1)
 abrasive blasting1.3, 3.102
 abrasive material1.3, 3.102
@@ -101,12 +105,12 @@ article5.1(1)
 AS1.3
 AS/NZS1.3
 asbestos1.3, 5.1(1)
-asbestos-containing material3.126(1), 5.42(1),
-asbestos demolition site3.126(1),
-asbestos dust5.42(1),
-asbestos removalist licence5.53A(1),
-asbestos work5.42(1),
-asbestos work area5.42(1),
+asbestos-containing material3.126(1), 5.42(1)
+asbestos demolition site3.126(1)
+asbestos dust5.42(1)
+asbestos removalist licence5.53A(1)
+asbestos work5.42(1)
+asbestos work area5.42(1)
 assessment instrument6.20(1)
 assessor6.1(1)
 atmospheric monitoring5.53
@@ -207,7 +211,7 @@ generic name5.1(1)
 GHS5.1(1)
 GHS classified hazardous substance5.1(1)
 hand-held equipment3.60(2)
-hazard classSch. 5.1
+hazard classSch. 5.1 Div. 2
 hazardous substance5.1(1)
 Hazardous Substances Information System5.1(1)
 health surveillance5.1(1), 5.53
@@ -347,7 +351,7 @@ type I ingredient5.1(1), Sch. 5.1
 type II ingredient5.1(1), Sch. 5.1
 type III ingredient5.1(1), Sch. 5.1
 unrestricted licence5.42(1)
-use4.1, 5(1), 6.3(1), Sch. 6.3 cl. 1
+use4.1, 5.1(1), 6.3(1), Sch. 6.3 cl. 1
 vehicle hoist4.1
 vehicle loading crane4.54(1), Sch. 6.3 cl. 6
 vehicle-mounted concrete placing boomSch. 6.3 cl. 6
