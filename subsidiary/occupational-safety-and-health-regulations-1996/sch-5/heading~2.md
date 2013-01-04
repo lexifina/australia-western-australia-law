@@ -1,6 +1,6 @@
 ## Schedule 5.2 — Hazardous substances prohibited for specified uses or methods of handling
 [Regulation 5.14]
-Hazardous Substance | Prohibited use or handling
+Hazardous substance | Prohibited use or handling
 Column 1 | Column 2
 Any substance that consists of or contains asbestos | Application by spraying or installation as insulation
 Any material that consists of or contains asbestos | High pressure cleaning of any such material

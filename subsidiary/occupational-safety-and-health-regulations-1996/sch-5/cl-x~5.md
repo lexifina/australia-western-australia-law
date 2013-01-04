@@ -12,4 +12,4 @@ Carcinogenicity (Categories 1, 1A, 1B and 2) | ³ 0.1%
 Reproductive toxicity (Categories 1, 1A, 1B and 2) | ³ 0.1%
 Specific target organ toxicity (single exposure) (Categories 1 and 2) | ³ 1.0%
 Specific target organ toxicity (repeated exposure) (Categories 1 and 2) | ³ 1.0%
-Aspiration hazard (Category 1) | ³ 10% of Category 1 ingredient(s) and kinematic viscosity £ 20.5 mm2/s at 40ºC
+Aspiration hazard (Category 1) | ³ 10% of Category 1 ingredient(s) and kinematic viscosity £ 20.5 mm2/s at 40°C

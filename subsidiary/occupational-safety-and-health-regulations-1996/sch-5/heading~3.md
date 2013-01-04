@@ -1,6 +1,6 @@
 ## Schedule 5.3 — Hazardous substances for which health surveillance is required
 [Regulation 5.23(1)]
-Hazardous Substance | Type of Health Surveillance
+Hazardous substance | Type of health surveillance
 acrylonitrile | ·Demography, occupational and medical history and health advice. ·Physical examination if indicated. ·Records of personal exposure.
 inorganic arsenic | ·Demography, occupational and medical history and health advice. ·Physical examination with emphasis on the peripheral nervous system and skin. ·Urinary total arsenic. ·Records of personal exposure.
 asbestos | ·Demography, occupational and medical history and health advice. ·Physical examination if indicated. ·Records of personal exposure.
