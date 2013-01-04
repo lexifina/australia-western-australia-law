@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 September 2010 of the Surveillance Devices Regulations 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Surveillance Devices Regulations 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Surveillance Devices Regulations 1999 | 18 Nov 1999 p. 5767-86 | 22 Nov 1999 (see r. 2 and Gazette 22 Nov 1999 p. 5843)
@@ -11,6 +11,16 @@ Reprint 1: The Surveillance Devices Regulations 1999 as at 15 Dec 2006 (includes
 Surveillance Devices Amendment Regulations 2007 | 21 Sep 2007 p. 4734-5 | r. 1 and 2: 21 Sep 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Sep 2007 (see r. 2(b))
 Surveillance Devices Amendment Regulations 2010 | 6 Jul 2010 p. 3224-5 | r. 1 and 2: 6 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jul 2010 (see r. 2(b))
 Reprint 2: The Surveillance Devices Regulations 1999 as at 10 Sep 2010 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Surveillance Devices Amendment Regulations (No. 2) 2012 r. 3-4 | 4 Jan 2013 p. 10 | 1 Feb 2013 (see r. 2(b) and Gazette 4 Jan 2013 p. 3)
+On the date as at which this compilation was prepared, the Surveillance Devices Amendment Regulations (No. 2) 2012 r. 3-4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Surveillance Devices Regulations 1999.
+4.Regulation 6 amended
+After regulation 6(1)(e)(i) insert:
+(iia) Dangerous Sexual Offenders Act 2006 section 19A(2);
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
