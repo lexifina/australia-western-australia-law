@@ -3,8 +3,10 @@
 [Heading inserted in Gazette 8 Dec 2009 p. 5007.]
 Item | Regulation | Matter to which regulation relates | Modified penalty $
 1. | 5(4) | Failing or refusing to pay admission, not being a passenger on commercial transport | 150
+2AA. | 6(2) | Passing on ticket with intention of providing false evidence as to payment of admission fee | 150
 2A. | 7(2) | Failing to ensure annual payment sticker is exhibited on non-commercial vessels or aircraft | 150
 2B. | 7A(4) | Failing to ensure annual payment sticker is exhibited on fishing or diving charter vessels | 150
+2C. | 7E(2) | Failing to pay Main Jetty berthing fee | 200
 2. | 9(1) | Taking up unauthorised casual residence | 200
 3. | 11(1)(a) | Installing mooring without permission | 200
 4. | 11(1)(b) | Securing vessel to mooring installed without permission | 200
@@ -13,6 +15,7 @@ Item | Regulation | Matter to which regulation relates | Modified penalty $
 7. | 11(3)(b) | Securing vessel to vessel secured to mooring | 150
 8. | 12(1) | Anchoring vessel closer than 50 m to mooring or so that it obstructs mooring | 150
 9A. | 13A(1) | Securing vessel by means of another vessel’s anchor | 150
+9B. | 13(1) | Anchoring or securing vessel without competent operator | 150
 9. | 28(3) | Licensee failing to have mooring inspection report | 150
 10A. | 28(4) | Licensee failing to provide copy of any mooring site inspection report within 7 days | 150
 10. | 28(5) | Licensee using mooring in respect of which Authority does not have mooring inspection report | 150
@@ -35,7 +38,11 @@ Item | Regulation | Matter to which regulation relates | Modified penalty $
 27A. | 41B(2) | Without permission causing or allowing flora to be brought to Island | 200
 27. | 42(1) | Causing damage to any rock or soil without permission | 150
 28. | 44(3) | Failing to comply with traffic sign or with ranger’s signal or direction relating to vehicle | 150
+29A. | 46(1) | Using vehicle without permission | 200
 29. | 47(1) | Exceeding speed limit | 100
+30A. | 51(1)(a) | Possessing hired bicycle without consent | 150
+30B. | 51(1)(b) | Possessing bicycle or other wheeled vehicle without consent | 150
+30C. | 52(2) | Erecting tent without permission | 150
 30. | 53 | Without permission organising, advertising or participating in any event or meeting | 200
 31. | 55(1) | Without permission affixing notice etc., defacing rock, tree, pavement, structure etc. or causing any such act to be done | 150
 32. | 56(1) | Without permission selling, distributing etc. printed or written matter | 150
@@ -58,4 +65,4 @@ Item | Regulation | Matter to which regulation relates | Modified penalty $
 49. | 74B(1) | Altering information on sticker or document issued by the Authority | 200
 50. | 74B(2) | Wrongly displaying a sticker on a vessel | 200
 51. | 74C | Altering information on authorisation issued by mooring site licensee | 200
-[Schedule 4 inserted in Gazette 8 Dec 2009 p. 5007-9; amended in Gazette 15 Oct 2010 p. 5177; 17 Dec 2010 p. 6362; 25 Oct 2011 p. 4516-17.]
+[Schedule 4 inserted in Gazette 8 Dec 2009 p. 5007-9; amended in Gazette 15 Oct 2010 p. 5177; 17 Dec 2010 p. 6362; 25 Oct 2011 p. 4516-17; 4 Jan 2013 p. 23-4.]
