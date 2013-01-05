@@ -57,6 +57,7 @@ Reprint 6: The Betting Control Regulations 1978 as at 9 Apr 2010 (includes amend
 Betting Control Amendment Regulations (No. 3) 2010 | 19 Nov 2010 p. 5739-40 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
 Betting Control Amendment Regulations 2011 | 4 Nov 2011 p. 4635-6 | r. 1 and 2: 4 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2012 (see r. 2(b))
 Betting Control Amendment Regulations (No. 2) 2012 | 16 Nov 2012 p. 5646-7 | r. 1 and 2: 16 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b))
+Betting Control Amendment Regulations 2012 | 4 Jan 2013 p. 11-15 | r. 1 and 2: 4 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jan 2013 (see r. 2(b))
 Under the Alteration of Statutory Designations Order (No. 2) 1996 a reference in any law to the Commissioner of State Taxation is read and construed as a reference to the Commissioner of State Revenue unless the contrary intention appears.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -71,6 +72,7 @@ Australian Rules of Harness Racing78(1)
 Australian Rules of Racing78(1)
 authorisation98
 barrierApp. r. 1(1)
+betApp. r. 4A(1)
 betting98
 betting sheetApp. r. 1(1)
 cash3(1)
@@ -84,12 +86,15 @@ Flexi Bet3(1)
 grandstand enclosure3(1)
 host club91(1)
 internet betting3(1)
+late scratched runner App. r. 4A(1)
 leger3(1)
 local on-course totalisator78(1)
 multiple doubleApp. r. 10(2)
 objectionApp. r. 1(1)
+odds App. r. 4A(1)
 on-course totalisator78(1)
 play or payApp. r. 1(1)
+percentage App. r. 4A(1)
 prescribed information104(1), 107(1)
 relevant person98
 rules of racing3(1)
@@ -97,5 +102,6 @@ rules of wagering3(1)
 runner3(1)
 Scale of Deduction TableApp. r. 1(1)
 sporting event3(1)
+sum percentage App. r. 4A(1)
 trebleApp. r. 1(1)
 walk-overApp. r. 1(1)
