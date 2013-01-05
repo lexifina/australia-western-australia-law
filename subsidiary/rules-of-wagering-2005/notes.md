@@ -8,4 +8,77 @@ Rules of Wagering Amendment Rules 2006 | 7 Apr 2006 p. 1489-90 | 7 Apr 2006
 Rules of Wagering Amendment Rules (No. 2) 2006 | 18 Aug 2006 p. 3369-70 | 18 Aug 2006
 Rules of Wagering Amendment Rules (No. 2) 2007 | 20 Jul 2007 p. 3629-30 | 20 Jul 2007
 Rules of Wagering Amendment Rules 2007 | 18 Sep 2007 p. 4711-14 | r. 1 and 2: 18 Sep 2007 (see r. 2(a)); Rules other than r. 1 and 2: 19 Sep 2007 (see r. 2(b))
-Rules of Wagering Amendment Rules (No. 2) 2010 | 19 Oct 2010 p. 5191-2 | r. 1 and 2: 19 Oct 2010 (see r. 2(a); Rules other than r. 1 and 2: 20 Oct 2010 (see r. 2(b))
+Rules of Wagering Amendment Rules (No. 2) 2010 | 19 Oct 2010 p. 5191-2 | r. 1 and 2: 19 Oct 2010 (see r. 2(a)); Rules other than r. 1 and 2: 20 Oct 2010 (see r. 2(b))
+Rules of Wagering Amendment Rules 2012 | 4 Jan 2013 p. 15-19 | r. 1 and 2: 4 Jan 2013 (see r. 2(a)); Rules other than r. 1 and 2: 5 Jan 2013 (see r. 2(b))
+Rules of Wagering Amendment Rules (No. 2) 2012 | 4 Jan 2013 p. 20-2 | r. 1 and 2: 4 Jan 2013 (see r. 2(a)); Rules other than r. 1 and 2: 5 Jan 2013 (see r. 2(b))
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+agency manual63
+agency settlement63
+all-up3(1)
+bet3(2), 3(2)
+betting exchange3(1)
+bookmaker3(1)
+bookmaker's manager3(1)
+cash3(1)
+Commission3(1)
+concession wager3(1)
+controlling authority3(1)
+depositor3(1)
+dividend3(1)
+doubles3(1)
+draw28(2)
+fixed odds wager3(1)
+Flexi Bet3(1)
+footo24
+footy tipping wager24
+game pool25(2)
+internet wagering3(1)
+investor3(1)
+late scratched runner56(1)
+multiple double3(1)
+no race3(1)
+novelty wager3(1)
+objection3(1)
+odds49(1), 56(1)
+official result3(1)
+on-course totalisator3(1)
+on-course totalisator manager3(1)
+participant3(1)
+percentage56(1)
+place wager3(1)
+play or pay3(1)
+play or pay wager56(1)
+prescribed commission3(1)
+principal37(2A)
+PubTAB agreement63
+race3(1)
+relevant novelty wager18A
+relevant period63
+runner3(1)
+runs28(2), 28(2)
+RWWA3(1)
+RWWA Act3(1)
+RWWA Regulations3(1)
+scheduled starting time3(1)
+secondary winning wager25(2)
+sporting event3(1)
+sports tipping wager24
+stake3(1)
+sum percentage56(1)
+the odds portion49(1)
+the totalisator3(1)
+ticket3(1)
+tie28(2)
+totalisator3(1)
+totalisator agency3(1)
+totalisator operator3(1)
+uncleared cheque63
+unit3(1)
+wager3(2), 3(2), 56(1)
+wagering account3(1)
+walk-over3(1)
+win wager3(1)
+winning relevant novelty wager combination18A
+winning wager25(2)
