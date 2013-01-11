@@ -22,7 +22,7 @@ Date
 Signature of witness
 .....................................................................................
 Name of witness
-[A declaration by the Electoral Commissioner, the Deputy Electoral Commissioner, an Acting Electoral Commissioner or a Returning Officer must be witnessed by a Justice of the Peace.
+[A declaration by the Electoral Commissioner, the Deputy Electoral Commissioner, an Acting Electoral Commissioner or a returning officer must be witnessed by a Justice of the Peace.
 A declaration by any other officer must be witnessed by a person who is, or is qualified to be, an elector at Commonwealth or State elections.]
 [Form 1 inserted in Gazette 8 Nov 1996 p. 6268.]
 [Form 2 deleted in Gazette 8 Nov 1996 p. 6268.]
@@ -39,7 +39,7 @@ Signature of scrutineer
 Declared before me on ....................................................
 Date
 .........................................................................................
-Returning Officer or presiding officer
+Returning officer or presiding officer
 Form 4
 [Regulation 6(4)]
 Western Australia
@@ -51,4 +51,4 @@ of ......................................................... to be .............
 (position)
 at the ............................................................................................... polling place for the election to be held on ..................................................................................
 ........................................................................................................................
-DateReturning Officer
+DateReturning officer
