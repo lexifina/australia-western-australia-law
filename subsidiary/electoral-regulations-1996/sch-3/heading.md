@@ -128,11 +128,11 @@ Western Australia
 Electoral Act 1907 (s. 48(3)(a))
 ENROLMENT OFFICER’S OBJECTION TO ENROLMENT
 To: ........................................................................................... :
-You are currently enrolled on the State Electoral roll for the State Electoral District of ................................... . However, your enrolment is objected to because I have the following reasons for believing that your name should not be retained on the roll:
+You are currently enrolled on the State electoral roll for the State Electoral District of ................................... . However, your enrolment is objected to because I have the following reasons for believing that your name should not be retained on the roll:
 .................................................................................................................................
 .................................................................................................................................
 .................................................................................................................................
-Unless the attached notice of appeal (Form 9) is completed and signed by you and returned to me within .................................... days of the date of this notice, your name will be removed from the State Electoral Roll.
+Unless the attached notice of appeal (Form 9) is completed and signed by you and returned to me within .................................... days of the date of this notice, your name will be removed from the State electoral roll.
 .........................................................................
 ENROLMENT OFFICER
 .........................................................................
@@ -150,7 +150,7 @@ Residential Address | Street No. |  | Street Name
 Suburb |  | Postcode
 Phone numbers | (Home) | (Work)
 Fax number |  | E-mail
-I wish to appeal against your objection to the retention of my name on the roll for the State Electoral District of ............................................................ for the following reasons: ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... .........................................................................................................................
+I wish to appeal against your objection to the retention of my name on the roll for the State Electoral District of ............................................................ for the following reasons: ............................................................................................................................... ............................................................................................................................... ............................................................................................................................... ............................................................................................................................... ............................................................................................................................... ............................................................................................................................... ............................................................................................................................... ............................................................................................................................... ...............................................................................................................................
 Signature of Elector | Date
 [Form 9 inserted in Gazette 10 Nov 2000 p. 6175.]
 Form 10
@@ -170,11 +170,11 @@ Please do not show my address on the electoral roll
 9 | I ALSO REQUEST THAT MY NAME BE OMITTED WHEN THE ROLL IS MADE AVAILABLE UNDER SECTION 25 OR 25B OF THE ACT (Tick the box if required) | o
 10 0 | I ALSO APPLY TO BE REGISTERED AS A GENERAL EARLY VOTER UNDER SECTION 93 OF THE ACT (Tick the box if required) | o
  | ..................................................................... Signature or mark of applicant (Not required if applicant makes the declaration below. Please ensure that the declaration is made before this application is sent to the Electoral Commissioner)
-Statutory declaration as to risk I solemnly and sincerely declare that the risk referred to in 8 above is as follows: ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................ ................................................................................................................................................ And I make this declaration by virtue of section 106 of the Evidence Act 1906. ................................................................ Signature of declarant Declared at .................................................................................................... this ..................... day of .............................................................................................................before me ................................................................... Commissioner for Declarations Justice of the Peace Police Officer or other person authorised by the Declarations and Attestations Act 1913
+Statutory declaration as to risk I solemnly and sincerely declare that the risk referred to in 8 above is as follows: .......................................................................................................................................................... .......................................................................................................................................................... .......................................................................................................................................................... .......................................................................................................................................................... And I make this declaration by virtue of section 106 of the Evidence Act 1906. ......................................................................... Signature of declarant Declared at .................................................................................................... this .......................... day of .............................................................................................................before me ............................................................................ Commissioner for Declarations Justice of the Peace Police Officer or other person authorised by the Declarations and Attestations Act 1913
 [Form 10 amended in Gazette 10 Nov 2000 p. 6176-7; 11 May 2007 p. 1998.]
 Form 11
 Western Australia
-Electoral Act 1907 (s. 56(a))
+Electoral Act 1907 (s. 56)
 NOTIFICATION OF DEATHS OF PERSONS NOT UNDER 17
 FOR MONTH OF ...................................
 Surname .................................................................................................................
@@ -535,7 +535,7 @@ RETURNING OFFICER’S RECEIPT FOR NOMINATION AND DEPOSIT
 I acknowledge receipt of a deposit of $250 cash/bank or other financial institution cheque payable to the Electoral Commissioner* and a nomination paper in respect of ..................................................................................................
 (name of candidate)
 ...................................................................................................................
-DateReturning Officer
+DateReturning officer
 ........................................................
 District or Region
 * Strike out whichever is not applicable
@@ -548,7 +548,7 @@ ELECTOR TO COMPLETE — PLEASE PRINT CLEARLY IN BLACK INK
 SURNAME OR FAMILY NAME
 GIVEN NAMES
 ADDRESS AS ENROLLED OR FOR WHICH ENROLMENT IS CLAIMED
- | Postcode
+Postcode
 PHONE NUMBERS | Home | Work
 DATE OF BIRTH | / /
 I am an elector for the |  | District
@@ -588,7 +588,7 @@ Electoral Act 1907 (s. 90(4)(c) and (4c)(b))
 DECLARATION FOR EARLY VOTE
 Electoral District of:
 Please use BLOCK LETTERS when completing this form.
-ELECTOR to complete. Family name:Given name: Address as enrolled: Date of birth:Former family name: To the Electoral Commissioner, I declare that: ŸI am the elector who applied for and was issued the enclosed ballot paper(s) for the election on Saturday ...../...../.....; and ŸI have not already voted at this election. · Elector to sign: ....................................
+ELECTOR to complete. Family name:Given name: Address as enrolled: Date of birth:Former family name: To the Electoral Commissioner, I declare that: ŸI am the elector who applied for and was issued the enclosed ballot paper(s) for the election on Saturday ...../...../.....; and ŸI have not already voted at this election. Elector to sign: ....................................
 If you need assistance you may appoint a person, other than a candidate in this election, to fill in this form and mark the ballot paper(s). The person must complete the following section. ASSISTANT to complete. Family name:Given name: Address: I have been appointed by the elector to mark the enclosed ballot paper(s) and I have marked the ballot paper(s) in the way he/she has instructed. Assistant to sign:Date:
 AUTHORISED WITNESS to complete. A witness must be more than 18 years of age and must not be a candidate in this election. Family name:Given name: Address: Witness to sign:Date:
 [Form 28 inserted in Gazette 11 May 2007 p. 1998; amended in Gazette 4 Dec 2012 p. 5914.]
@@ -596,16 +596,16 @@ Form 29
 Western Australia
 Electoral Act 1907 (s. 92(6))
 DECLARATION OF AN ELECTOR WHO HAS NOT RECEIVED AN EARLY BALLOT PAPER
-I, ........................................................................................................................
+I, .............................................................................................................................
 (name in full)
-of .......................................................................................................................
+of ............................................................................................................................
 (address)
 declare that I have not received an early ballot paper for which I applied for the election being held on ............................................................... and I now wish to vote personally at this polling place.
 ...................................................................
 Signature of elector
-Declared before me on ......................................................................................
+Declared before me on ...........................................................................................
 (date)
-at ....................................... polling place in the .................................. District.
+at .......................................... polling place in the .................................... District.
 ..................................................................
 Signature of presiding officer
 [Form 29 inserted in Gazette 10 Nov 2000 p. 6180.]
@@ -614,7 +614,7 @@ Form 31
 Western Australia
 Electoral Act 1907 (s. 99A, 119(4), 122(1), 122A)
 [r. 14(1)(b)(i), 15(a)]
-DECLARATION FOR: ABSENT VOTE; PROVISIONAL VOTE.
+DECLARATION FOR: o ABSENT VOTE; o PROVISIONAL VOTE.
 Electoral District of:
 Please use BLOCK LETTERS when completing this form.
 ELECTOR to complete. Family name:Given name: Address as enrolled: Date of birth:Former family name: To the Electoral Commissioner, I declare that: ŸI enrolled to vote before the close of the roll for this election; and ŸI have not already voted at this election. Elector to sign: ....................................
@@ -654,8 +654,8 @@ SECTION 1
 Part A | If you did vote, complete this Part by ticking the appropriate box and completing the required details.
  | I voted: oby ordinary vote oby absent vote oby provisional vote at the following polling place .............................................. or oby early vote (obtained by oral application) at the following location ..................................................... or oby early vote (obtained by written application)
 Part B | If you did not vote and you believe you have a valid and sufficient reason, complete this Part.
- | I did not vote because: ......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
-The person completing Section 1 is to provide the following information about himself or herself: Name: .................................... Daytime contact phone number: .................. Signature of person completing this form ....................................................
+ | I did not vote because: ................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+The person completing Section 1 is to provide the following information about himself or herself: Name: .................................... Daytime contact phone number: ....................... Signature of person completing this form .........................................................
 SECTION 2
 Penalty: [insert penalty amount] Response date: [insert date] If you did not vote and you wish to finalise this matter, please pay the penalty in one of the following ways by the response date.
 Payment with Australia Post | [insert information about payment]
@@ -712,8 +712,8 @@ Western Australia
 Electoral Act 1907 (s. 156C(5))
 NOMINATION TO FILL A VACANCY IN THE LEGISLATIVE COUNCIL UNDER SECTION 156C
 To the Electoral Commissioner
-I, the undersigned, being a qualified person as defined in section 156A of the Electoral Act 1907, by this notice consent to act as a member of the Legislative Council in the...............................................Region referred to in your notice of.............................................................
-Surname..................................................................................................................
+I, the undersigned, being a qualified person as defined in section 156A of the Electoral Act 1907, by this notice consent to act as a member of the Legislative Council in the ............................................... Region referred to in your notice of .............................................................
+Surname .................................................................................................................
 Given names ..........................................................................................................
 Residence ...............................................................................................................
 Occupation .............................................................................................................
