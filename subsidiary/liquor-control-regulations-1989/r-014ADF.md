@@ -1,4 +1,4 @@
-### 14ADF. Lost, stolen or destroyed identification cards
+### 14ADF. Lost etc. identification card, replacement of
 (1) If the Director is satisfied, on an application in accordance with subregulation (2), that an identification card has been lost, stolen or destroyed, the Director may issue a replacement identification card.
 (2) An application for a replacement identification card must be —
 (a) made in a form approved by the Director; and

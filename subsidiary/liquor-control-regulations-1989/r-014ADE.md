@@ -1,4 +1,4 @@
-### 14ADE. Identification cards
+### 14ADE. Approved manager, identification card for
 (1) The Director may issue an identification card to an approved manager.
 (2) An identification card —
 (a) must be in the form approved by the Director; and
