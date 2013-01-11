@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 October 2012 of the Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007 | 31 Dec 2007 p. 7057-100 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
@@ -8,7 +8,37 @@ Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations 2010 | 22
 Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations (No. 2) 2010 | 25 Jun 2010 p. 2874-5 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations 2012 | 16 Mar 2012 p. 1270-3 | r. 1 and 2: 16 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2012 (see r. 2(b))
 Reprint 1: The Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007 as at 19 Oct 2012 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations (No. 3) 2012 r. 3-5 | 11 Jan 2013 p. 55-6 | 1 Apr 2013 (see r. 2(b))
 Repealed by the Dangerous Goods Safety Act 2004 s. 70.
+On the date as at which this compilation was prepared, the Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations (No. 3) 2012 r. 3-5 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007.
+4.Regulation 34 amended
+(1) In regulation 34(1) delete the definition of former regulation.
+(2) Delete regulation 34(4) and insert:
+(4) The first annual payment must be made before, on or within one month after the date on which a safety report for the site is approved under Part 5.
+(3) In regulation 34(5) delete “subregulation (4)(a) or (b)” and insert:
+subregulation (4)
+(4) In regulation 34(7) delete “equal to 1% of the fee.” and insert:
+of $35.
+5.Schedule 3 amended
+(1) In Schedule 3 clause 1 delete the Table and insert:
+Table
+Class of facility under r. 33 | Fee ($)
+Class A | 124 000
+Class B | 102 000
+Class C | 96 000
+Class D | 20 000
+(2) In Schedule 3 clause 2 delete the Table and insert:
+Table
+Class of facility under r. 33 | Fee ($)
+Class A | 124 000
+Class B | 102 000
+Class C | 96 000
+Class D | 20 000
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
