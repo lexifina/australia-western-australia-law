@@ -1,6 +1,5 @@
 ## Schedule 2
-[Sections 86, 87, 144;
-Schedule 1, clauses 12, 15 and 17]
+[Sections 86, 87, 144; Schedule 1, clauses 12, 15 and 17]
 ## Ballot procedure
 [Heading inserted by No. 40 of 1987 s. 83.]
 1.Slips made out for the purposes of section 86(2a), 87(5) or (6) or 144(2)(g) or clause 12, 15 or 17 of Schedule 1 shall be dealt with as provided in this Schedule.
