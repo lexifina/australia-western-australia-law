@@ -13,17 +13,19 @@ Number and streetTown or suburb
 Postcode
 It is alleged that at ................................. a.m./p.m. on the ..................................... day of ................................. 20.............. in the area of .......................................... you committed the offence indicated hereunder by a cross (x).
  | Section or regulation | Offence | Modified penalty ($)
-r | s. 23 | Littering — cigarette butt .......... | 75
-r | s. 23 | Littering — any other litter ....... | 200
-r | s. 24 | Breaking glass, metal or earthenware ................................ | 200
-r | s. 24A(1) | Bill posting ................................ | 200
-r | s. 24A(2) | Bill posting on a vehicle ............ | 200
-r | r. 6 | Deposit of domestic or commercial waste in a public litter receptacle .......................... | 200
-r | r. 8 | Transporting load inadequately secured ....................................... | 200
+Individual | Body corporate
+r | s. 23 | Littering creating public risk | 500 | 2 000
+ |  | [Description of litter deposited] .................................................................................................................................................................................................................................
+r | s. 23 | Littering — any other litter | 200 | 500
+r | s. 24 | Breaking glass, metal or earthenware | 500 | 2 000
+r | s. 24A(1) | Bill posting | 200 | 500
+r | s. 24A(2) | Bill posting on vehicle | 200 | 500
+r | r. 6 | Depositing domestic or commercial waste in public litter receptacle | 200 | 500
+r | r. 8 | Transporting load inadequately secured | 200 | N/A
 If you do not wish to have a complaint of this offence heard and determined by a court, you may pay to an officer at the place specified on the reverse side of this form, within a period of 28 days after the date of service of this notice, the modified penalty set out in this notice.
 .......................................................
 Authorised Officer
-[Form 1 inserted in Gazette 19 Jul 1996 p. 3460-1; amended in Gazette 8 Nov 1996 p. 6218; 9 Jan 2004 p. 89-90; 28 May 2004 p. 1836.]
+[Form 1 inserted in Gazette 19 Jul 1996 p. 3460-1; amended in Gazette 8 Nov 1996 p. 6218; 9 Jan 2004 p. 89-90; 28 May 2004 p. 1836; 11 Jan 2013 p. 46-7.]
 Form 2
 Western Australia
 WITHDRAWAL OF LITTER INFRINGEMENT NOTICE
@@ -58,5 +60,6 @@ An authorised officer may require a person whom he finds committing or whom he r
 (a)to state his full name and address;
 (b)to remove the material the subject of the offence;
 (c)to deposit the material the subject of the offence in the nearest place provided for the deposit of litter.
-Penalty: For non-compliance with the above or giving false or misleading information $100.
-[Schedule 2 amended in Gazette 20 Nov 1981 p. 4779; 19 Aug 1988 p. 2960; 19 Jul 1996 p. 3460-1; 8 Nov 1996 p. 6218; 9 Jan 2004 p. 89-90; 28 May 2004 p. 1836.]
+Penalty: For non-compliance with the above or giving false or misleading information $1 000.
+[Form 3 amended in Gazette 11 Jan 2013 p. 47.]
+[Schedule 2 amended in Gazette 20 Nov 1981 p. 4779; 19 Aug 1988 p. 2960; 19 Jul 1996 p. 3460-1; 8 Nov 1996 p. 6218; 9 Jan 2004 p. 89-90; 28 May 2004 p. 1836; 11 Jan 2013 p. 47.]

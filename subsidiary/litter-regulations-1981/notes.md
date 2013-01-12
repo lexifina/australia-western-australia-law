@@ -14,5 +14,14 @@ Reprint of the Litter Regulations 1981 as at 30 Sep 1997 (includes amendments li
 Litter Amendment Regulations 2004 | 9 Jan 2004 p. 88-90 | 9 Jan 2004
 Reprint 2: The Litter Regulations 1981 as at 19 Mar 2004 (includes amendments listed above)
 Litter Amendment Regulations (No. 2) 2004 | 28 May 2004 p. 1836 | 28 May 2004
+Litter Amendment Regulations 2012 | 11 Jan 2013 p. 43-7 | r. 1 and 2: 11 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Jan 2013 (see r. 2(b))
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Department of Youth, Sport and Recreation is read and construed as a reference to the Department of Sport and Recreation.
 The commencement date of 1 Mar 1989 that was specified was before the date of gazettal.
+Defined Terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined TermProvision(s)
+commercial waste6(2)
+domestic waste6(2)
+litter creating public risk2
+public litter receptacle2
+Schedule2
