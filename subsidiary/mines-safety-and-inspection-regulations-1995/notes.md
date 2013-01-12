@@ -35,6 +35,7 @@ Mines Safety and Inspection Amendment Regulations (No. 3) 2009 | 21 Aug 2009 p. 
 Reprint 5: The Mines Safety and Inspection Regulations 1995 as at 16 Oct 2009 (includes amendments listed above except those in the Mines Safety and Inspection Amendment Regulations 2009 r. 18)
 Mines Safety and Inspection Amendment Regulations 2010 | 25 Jun 2010 p. 2871 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Mines Safety and Inspection Amendment Regulations 2011 | 20 Sep 2011 p. 3800 | r. 1 and 2: 20 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2011 (see r. 2(b))
+Mines Safety and Inspection Amendment Regulations 2012 | 11 Jan 2013 p. 49-53 | r. 1 and 2: 11 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Jan 2013 (see r. 2(b))
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Repealed by the Medical Practitioners Act 2008.
 Repealed by the National Occupational Health and Safety Commission (Repeal, Consequential and Transitional Provisions) Act 2005 (Commonwealth).
@@ -56,7 +57,6 @@ Defined Terms
 Defined TermProvision(s)
 absorbed dose16.1
 action level7.1
-additional health assessment3.23
 adequate4.33(2)
 ADG Code7.20
 ADR1.3
@@ -70,9 +70,7 @@ approved person.3.23
 AS1.3
 AS/NZS1.3
 asbestos removal work9.1
-assessment form. 3.23
 atmospheric contaminant9.1
-audiometric test3.23
 Australian Design Rule1.3
 authorised limit16.1
 authorised person5.31(4), 8.21(6)
@@ -92,7 +90,6 @@ butt8.1
 cable5.1
 certificate1.3, 15.1
 charge8.1
-chest x-ray3.23
 Class I winding engine driver’s certificate1.3
 Class II winding engine driver’s certificate1.3
 classified plant6.1
@@ -191,7 +188,6 @@ licensed surveyor1.3
 lift6.1
 locomotive15.1
 low voltage5.1
-lung function test3.23
 magazine1.3
 main line15.1
 manager3.16A(1)(a)
@@ -208,7 +204,6 @@ moveable apparatus5.1
 MSDS7.20
 National Code of Practice for the Preparation of Material Safety Data Sheets7.20
 National Model Regulations for the Control of Workplace Hazardous Substances1.3
-new employee3.23
 night1.3
 NOHSC1.3
 noise exposure7.1
@@ -231,7 +226,6 @@ out-of-service tag6.1
 package depot9.1
 peak9.1
 peak noise level7.1
-periodic health assessment3.23
 portable apparatus5.1
 powerline corridor5.28(2)
 ppm1.3
@@ -257,7 +251,6 @@ relevant procedure8.53
 repair6.1
 repealed regulations1.3
 respirable dust9.1
-respiratory questionnaire3.23
 responsible person1.3
 restricted quarry manager’s certificate1.3
 restricted release zone16.1
