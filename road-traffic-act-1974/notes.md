@@ -143,7 +143,7 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 45 | 35 of 
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 2 (other than s. 12(2)(c), (5)(d) and (7)(b)) | 51 of 2010 | 8 Dec 2010 | s. 3 and 6-10: 9 Dec 2010 (see s. 2(b)); s. 4 and 13: 9 Apr 2011 (see s. 2(c) and Gazette 8 Apr 2011 p. 1281); s. 12 (other than 12(2)(c), (5)(d) and (7)(b)): 4 Jul 2011 (see s. 2(c) and Gazette 20 May 2011p. 1837); s. 5, 11, 14 and 15: 1 Aug 2012 (see s. 2(c) and Gazette 27 Jul 2012 p. 3664)
 Reprint 11: The Road Traffic Act 1974 as at 28 Jan 2011 (includes amendments listed above, except those in the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 4, 5 and 11-15)
 Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 2 | 14 of 2011 | 25 May 2011 | 1 Oct 2011 (see s. 2(b) and Gazette 30 Aug 2011 p. 3503)
-Road Traffic Legislation Amendment (Information) Act 2011 Pt. 2 (other than s. 9) | 18 of 2011 | 2 Jun 2011 | 30 Jun 2011 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611)
+Road Traffic Legislation Amendment (Information) Act 2011 Pt. 2 | 18 of 2011 | 2 Jun 2011 | Pt. 2 (other than s. 9): 30 Jun 2011 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611); s. 9: 14 Jan 2013 (see s. 2(b) and Gazette 4 Jan 2013 p. 3)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 3 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Manslaughter Legislation Amendment Act 2011 Pt. 3 | 58 of 2011 | 30 Nov 2011 | 17 Mar 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1245)
 Road Traffic Legislation Amendment Act 2012 s. 15-18 | 8 of 2012 | 21 May 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 27 Jul 2012 p. 3664)
@@ -154,7 +154,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 12(2)(c), (5)(d) and (7)(b) | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
-Road Traffic Legislation Amendment (Information) Act 2011 s. 9 | 18 of 2011 | 2 Jun 2011 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 3 (other than s. 15-18) | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 7 | 48 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
 Road Traffic (Miscellaneous Amendments) Act 2012 s. 12 | 59 of 2012 | 11 Dec 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 s. 44 (see s. 2(c)(ii))
@@ -299,32 +298,7 @@ On the date as at which this compilation was prepared, the Road Traffic (Miscell
 12.Various references to “member of the Police Force” amended
 In sections 49AB(1)(c), 53(1) and (2A), 60(1c)(a)(i) and 61A(1)(a) delete “member of the Police Force” and insert:
 police officer
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment (Information) Act 2011 s. 9 had not come into operation. It reads as follows:
-Part 2 — Road Traffic Act 1974 amended
-9.Section 43A inserted
-At the end of Part IVA Division 3 insert:
-43A.Matters to do with identity
-(1) In this section —
-destroyed includes damaged so as to be unusable;
-photograph includes a negative or an image stored electronically.
-(2) The Director General cannot issue a learner’s permit until the applicant has provided, in support of the application, any evidence required by the regulations to establish the applicant’s identity and residential address in this State.
-(3) Except as prescribed in the regulations, the Director General cannot issue a learner’s permit unless the applicant has provided the Director General with —
-(a) a photograph taken at the time of the application; and
-(b) a signature made at the time of the application,
-for use on the learner’s permit document and, in the circumstances described in subsection (5), on a driver’s licence document issued to the applicant.
-(4) The photograph and signature are to be provided in a manner and form approved by the Director General.
-(5) A photograph or signature provided under this section may be used on a driver’s licence document for a driver’s licence granted or renewed within 10 years of the application for the learner’s permit.
-(6) The Director General must ensure that any photograph or signature provided under this section is destroyed if it, or a copy of it, has not been used on —
-(a) a learner’s permit document for a learner’s permit issued in the preceding 10 years; or
-(b) a driver’s licence document for a driver’s licence granted or renewed in the preceding 10 years.
-(7) A person who, other than for the purposes of this Part, possesses a photograph or signature provided under this section that is not on a learner’s permit document or a driver’s licence document commits an offence.
-Penalty: Imprisonment for 2 years.
-(8) Subsection (7) does not apply to a person who possesses a photograph provided under this section as a result of its disclosure under Division 4A.
-(9) A person employed or engaged in connection with any aspect of the production of learner’s permit documents or driver’s licence documents or otherwise concerned in the administration of this Part, who, otherwise than in the administration of this Part —
-(a) reproduces, by any means, a photograph or signature provided under this section; or
-(b) causes or permits another person to do so,
-commits an offence.
-Penalty: Imprisonment for 2 years.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 3 (other than s. 15-18) had not come into operation. It reads as follows:
 Part 3 — Consequential amendments to the Road Traffic Act 1974
 4.Act amended
@@ -526,7 +500,7 @@ demerit point registry jurisdiction104(1)
 demerit points information5(1)
 demerit points register104(1)
 dentist65
-destroyed42E(7)
+destroyed42E(7), 43A(1)
 director112(1)
 Director General5(1)
 Director-General of Security44AA
@@ -612,7 +586,7 @@ passenger vehicle5(1)
 period for complying102B(4a), 102C(1a)
 permit5(1)
 permit information5(1)
-photograph42E(7), 44AA
+photograph42E(7), 43A(1), 44AA
 photographic evidence102B(7)
 police officer71C(1)
 police official44AA
