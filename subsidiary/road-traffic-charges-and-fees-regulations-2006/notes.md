@@ -33,10 +33,7 @@ Road Traffic (Charges and Fees) Amendment Regulations (No. 5) 2012 | 29 Jun 2012
 Reprint 3: The Road Traffic (Charges and Fees) Regulations 2006 as at 19 Oct 2012 (includes amendments listed above)
 Road Traffic (Charges and Fees) Amendment Regulations (No. 7) 2012 | 23 Nov 2012 p. 5722 | r. 1 and 2: 23 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 10) 2012 | 30 Nov 2012 p. 5803-4 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Road Traffic (Charges and Fees) Amendment Regulations (No. 8) 2012 r. 3 and 4 | 30 Nov 2012 p. 5804-5 | 14 Jan 2013 (see r. 2(b))
+Road Traffic (Charges and Fees) Amendment Regulations (No. 8) 2012 | 30 Nov 2012 p. 5804-5 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jan 2013 (see r. 2(b))
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2007 r. 3 reads as follows:
@@ -57,20 +54,6 @@ For the purposes of section 28A of the Act, the specified day in relation to the
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 4) 2012 r. 4 reads as follows:
 4.Specified day
 For the purposes of section 28A of the Act, the specified day in relation to these regulations is 1 July 2012.
-On the date as at which this compilation was prepared, the Road Traffic (Charges and Fees) Amendment Regulations (No. 8) 2012 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Road Traffic (Charges and Fees) Regulations 2006.
-4.Schedule 1 amended
-Delete Schedule 1 clause 6 and insert:
-6.Motor cycle
-(1) For a motor cycle that —
-(a) has a piston engine and an engine capacity that does not exceed 250 cubic centimetres; or
-(b) does not have a piston engine and has a power-to-weight ratio that does not exceed 150 Kw/t,
-the charge is $36.04.
-(2) For a motor cycle that —
-(a) has a piston engine and an engine capacity that exceeds 250 cubic centimetres; or
-(b) does not have a piston engine and has a power-to-weight ratio that exceeds 150 Kw/t,
-the charge is $54.06.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
