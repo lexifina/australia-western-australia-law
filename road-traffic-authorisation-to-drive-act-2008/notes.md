@@ -2,14 +2,14 @@ Notes
 This is a compilation of the Road Traffic (Authorisation to Drive) Act 2008 and includes the amendments made by the other written laws referred to in the following table..
 Compilation table
 Short title | Number and year | Assent | Commencement
-Road Traffic (Authorisation to Drive) Act 2008 s. 1 and 2 | 39 of 2008 | 15 Aug 2008 | 15 Aug 2008 (see s. 2(a))
+Road Traffic (Authorisation to Drive) Act 2008 s. 1 and 2 | 40 of 2008 | 15 Aug 2008 | 15 Aug 2008 (see s. 2(a))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic (Authorisation to Drive) Act 2008 s. 3 and Pt. 2-62 | 39 of 2008 (as amended by No. 51 of 2010 Pt. 4) | 15 Aug 2008 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b))
-Road Traffic Legislation Amendment (Information) Act 2011 Pt. 4 | 18 of 2011 | 2 Jun 2011 | Pt. 4 other than s. 24: operative on commencement of the Road Traffic (Administration) Act 2008 other than s. 1 and 2 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611); s. 25: to be proclaimed (see s. 2(b))
+Road Traffic (Authorisation to Drive) Act 2008 s. 3 and Pt. 2-62 | 40 of 2008 (as amended by No. 51 of 2010 Pt. 4) | 15 Aug 2008 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b))
+Road Traffic Legislation Amendment (Information) Act 2011 Pt. 4 | 18 of 2011 | 2 Jun 2011 | Pt. 4 (other than s. 25): operative on commencement of the Road Traffic (Administration) Act 2008 other than s. 1 and 2 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611); s. 25: 14 Jan 2013 (see s. 2(b) and Gazette 4 Jan 2013 p. 3)
 Road Traffic Legislation Amendment Act 2012 Pt. 6 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(f))
-On the date as at which this compilation was prepared, the Road Traffic (Authorisation to Drive) Act 2008 s. 3 and Pt. 2-6 (as amended by Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 4) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Road Traffic (Authorisation to Drive) Act 2008 s. 3 and Pt. 2-6 (as amended by the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 4 and the Road Traffic Legislation Amendment (Information) Act 2011 s. 25) had not come into operation. They read as follows:
 “
 3.Terms used in this Act
 (1) In this Act —
@@ -114,6 +114,29 @@ Division 2 — Learner’s permit
 (3) The permit must either set out in full or sufficiently identify any condition to which it is subject other than a condition imposed by this section or by the regulations.
 (4) The permit expires at the end of a period of 3 years after the day on which it is issued unless it has terminated before then, and the CEO may cancel it at any time by notice in writing given to the permit holder.
 (5) Regulations may be made about learners’ permits and, without limiting what else may be dealt with in the regulations, they may fix the minimum age below which, unless the CEO is satisfied that denial of the permit would occasion undue hardship or inconvenience, a person cannot be issued with a learner’s permit.
+11A.Matters to do with identity
+(1) In this section —
+destroyed includes damaged so as to be unusable;
+photograph includes a negative or an image stored electronically.
+(2) The CEO cannot issue a learner’s permit until the applicant has provided, in support of the application, any evidence required by the regulations to establish the applicant’s identity and residential address in this State.
+(3) Except as prescribed in the regulations, the CEO cannot issue a learner’s permit unless the applicant has provided the CEO with —
+(a) a photograph taken at the time of the application; and
+(b) a signature made at the time of the application,
+for use on the learner’s permit document and, in the circumstances described in subsection (5), on a driver’s licence document issued to the applicant.
+(4) The photograph and signature are to be provided in a manner and form approved by the CEO.
+(5) A photograph or signature provided under this section may be used on a driver’s licence document for a driver’s licence granted or renewed within 10 years of the application for the learner’s permit.
+(6) The CEO must ensure that any photograph or signature provided under this section is destroyed if it, or a copy of it, has not been used on —
+(a) a learner’s permit document for a learner’s permit issued in the preceding 10 years; or
+(b) a driver’s licence document for a driver’s licence granted or renewed in the preceding 10 years.
+(7) A person who, other than for the purposes of this Part, possesses a photograph or signature provided under this section that is not on a learner’s permit document or a driver’s licence document commits an offence.
+Penalty: Imprisonment for 2 years.
+(8) Subsection (7) does not apply to a person who possesses a photograph provided under this section as a result of its disclosure under Division 3A.
+(9) A person employed or engaged in connection with any aspect of the production of learner’s permit documents or driver’s licence documents or otherwise concerned in the administration of this Part, who, otherwise than in the administration of this Part —
+(a) reproduces, by any means, a photograph or signature provided under this section; or
+(b) causes or permits another person to do so,
+commits an offence.
+Penalty: Imprisonment for 2 years.
+[Section 11A inserted by No. 18 of 2011 s. 25.]
 Division 3 — Other matters about driver authorisations
 11.Authorisation to drive without a driver’s licence
 (1) The regulations may provide that a motor vehicle of a class or kind prescribed in the regulations may, either generally or in prescribed circumstances, be driven on roads without the driver holding a driver’s licence.
@@ -691,7 +714,7 @@ election.
 29.Section 67 amended
 In section 67(4) delete “76(1), not being a special application,” and insert:
 76(1)
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment (Information) Act 2011 Pt. 4 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment (Information) Act 2011 Pt. 4 (other than s. 25) had not come into operation. It reads as follows:
 Part 4 — Road Traffic (Authorisation to Drive) Act 2008 amended
 23.Act amended
 This Part amends the Road Traffic (Authorisation to Drive) Act 2008.
@@ -702,30 +725,6 @@ This Part amends the Road Traffic (Authorisation to Drive) Act 2008.
 (7A) Subsection (6) does not apply to a person who possesses a photograph provided under this section as a result of its disclosure under Division 3A.
 (3) Delete section 9(7)(a) and insert:
 (a) reproduces, by any means, a photograph or signature provided under this section; or
-25.Section 11A inserted
-At the end of Part 2 Division 2 insert:
-11A.Matters to do with identity
-(1) In this section —
-destroyed includes damaged so as to be unusable;
-photograph includes a negative or an image stored electronically.
-(2) The CEO cannot issue a learner’s permit until the applicant has provided, in support of the application, any evidence required by the regulations to establish the applicant’s identity and residential address in this State.
-(3) Except as prescribed in the regulations, the CEO cannot issue a learner’s permit unless the applicant has provided the CEO with —
-(a) a photograph taken at the time of the application; and
-(b) a signature made at the time of the application,
-for use on the learner’s permit document and, in the circumstances described in subsection (5), on a driver’s licence document issued to the applicant.
-(4) The photograph and signature are to be provided in a manner and form approved by the CEO.
-(5) A photograph or signature provided under this section may be used on a driver’s licence document for a driver’s licence granted or renewed within 10 years of the application for the learner’s permit.
-(6) The CEO must ensure that any photograph or signature provided under this section is destroyed if it, or a copy of it, has not been used on —
-(a) a learner’s permit document for a learner’s permit issued in the preceding 10 years; or
-(b) a driver’s licence document for a driver’s licence granted or renewed in the preceding 10 years.
-(7) A person who, other than for the purposes of this Part, possesses a photograph or signature provided under this section that is not on a learner’s permit document or a driver’s licence document commits an offence.
-Penalty: Imprisonment for 2 years.
-(8) Subsection (7) does not apply to a person who possesses a photograph provided under this section as a result of its disclosure under Division 3A.
-(9) A person employed or engaged in connection with any aspect of the production of learner’s permit documents or driver’s licence documents or otherwise concerned in the administration of this Part, who, otherwise than in the administration of this Part —
-(a) reproduces, by any means, a photograph or signature provided under this section; or
-(b) causes or permits another person to do so,
-commits an offence.
-Penalty: Imprisonment for 2 years.
 26.Part 2 Division 3A inserted
 After Part 2 Division 2 insert:
 Division 3A — Disclosure of photographs
