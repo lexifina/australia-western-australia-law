@@ -1,6 +1,6 @@
 ## First Schedule — Acts repealed
 [s. 4]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 No. of Act. | Short Title. | Extent of Repeal.
 23 and 24 Victoria c. 145 (Imp.). (Adopted by 31 Victoria No. 8.) | An Act to give trustees, mortgagees, and others certain powers now commonly inserted in Settlements, Mortgages, and Wills | Part I and Part III.
 55 Victoria No. 10 | The Settled Land Act of 1892 | The whole.
