@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Commercial Tenancy (Retail Shops) Agreements Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 18 January 2013 of the Commercial Tenancy (Retail Shops) Agreements Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Commercial Tenancy (Retail Shops) Agreements Regulations 1985 | 30 Aug 1985 p. 3121-7 | 1 Sep 1985 (see r. 2 and Gazette 30 Aug 1985 p. 3065)
@@ -12,20 +12,18 @@ Commercial Tenancy (Retail Shops) Agreements Amendment Regulations 2004 | 30 Dec
 Reprint 2: The Commercial Tenancy (Retail Shops) Agreements Regulations 1985 as at 10 Jul 2009 (includes amendments listed above)
 Commercial Tenancy (Retail Shops) Agreements Amendment Regulations 2012 | 23 Mar 2012 p. 1364-6 | r. 1 and 2: 23 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Mar 2012 (see r. 2(b) and Gazette 23 Mar 2012 p. 1363)
 Commercial Tenancy (Retail Shops) Agreements Amendment Regulations (No. 2) 2012 | 30 Nov 2012 p. 5831-901 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b) and Gazette 30 Nov 2012 p. 5773)
-Defined Terms
+Reprint 3: The Commercial Tenancy (Retail Shops) Agreements Regulations 1985 as at 18 Jan 2013 (includes amendments listed above)
+The Commercial Tenancy (Retail Shops) Agreements Amendment Act 2011 s. 3 commenced on 1 Jan 2013 (see s. 2(b) and Gazette 30 Nov 2012 p. 5773).
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-2011 amending Act means the 11
-ActSch. 2
+Defined termProvision(s)
+2011 amending Act11
 commencement day11
-core hoursSch. 2
 existing retail shop lease13(1)
-fitoutSch. 2
 Form3
 landlordSch. 1
-lessorSch. 2
 new retail shopSch. 1
-option expiry day,3
+option expiry day3
 pre-1 July 1999 lease13(1)
 redevelopmentSch. 1
 retail shopSch. 1
@@ -33,6 +31,5 @@ retail shopping centreSch. 1
 standard trading hours5A
 substitute leaseSch. 1
 tenantSch. 1
-tenant or lesseeSch. 2
-termination dateSch. 1
+termination dateSch. 1, Sch. 1
 termination noticeSch. 1
