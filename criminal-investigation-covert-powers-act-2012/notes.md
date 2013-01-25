@@ -6,7 +6,7 @@ Criminal Investigation (Covert Powers) Act 2012 s. 1 and 2 | 55 of 2012 | 3 Dec 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Criminal Investigation (Covert Powers) Act 2012 s. 3, 4 and Pt. 2-11 | 55 of 2012 | 3 Dec 2012 | To be proclaimed (see s. 2(b))
+Criminal Investigation (Covert Powers) Act 2012 s. 3, 4 and Pt. 2-11 | 55 of 2012 | 3 Dec 2012 | 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
 On the date as at which this compilation was prepared, the Criminal Investigation (Covert Powers) Act 2012 s. 3, 4 and Pt. 2-11 had not come into operation. They read as follows:
 3.Terms used
 In this Act, unless the contrary intention appears —
