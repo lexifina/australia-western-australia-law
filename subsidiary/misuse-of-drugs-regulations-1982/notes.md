@@ -24,6 +24,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Misuse of Drugs Amendment Regulations 2012 r. 3-5 | 28 Aug 2012 p. 4141-2 | Operative on commencement of the Misuse of Drugs Amendment Act 2011 s. 6
+Misuse of Drugs Amendment Regulations 2013 r. 3-5 | 25 Jan 2013 p. 281-2 | 1 Mar 2013 (see r. 2(b))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 On the date as at which this compilation was prepared, the Misuse of Drugs Amendment Regulations 2012 r. 3-5 had not come into operation. They read as follows:
 3.Regulations amended
@@ -41,6 +42,13 @@ needle and syringe programme has the meaning given in the Poisons Act 1964 secti
 (3) For the purposes of section 7B(5)(c) of the Act, the display or sale of drug paraphernalia in the course of the conduct of an approved needle and syringe programme is prescribed.
 5.Regulation 6A deleted
 Delete regulation 6A.
+On the date as at which this compilation was prepared, the Misuse of Drugs Amendment Regulations 2013 r. 3-5 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Misuse of Drugs Regulations 1982.
+4.Regulation 10 deleted
+Delete regulation 10.
+5.Schedule 1 amended
+Delete Schedule 1 Forms M.D. 11 and M.D. 12.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
