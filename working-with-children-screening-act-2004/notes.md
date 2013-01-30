@@ -17,14 +17,14 @@ Compilation table
  | Misuse of Drugs Amendment Act (No. 2) 2010 Pt. 3 | 50 of 2010 | 24 Nov 2010 | 25 Nov 2010 (see s. 2(b))
  | Reprint 2: The Working with Children (Criminal Record Checking) Act 2004 as at 7 Jan 2011 (includes amendments listed above except those in the Cannabis Law Reform Act 2010 and Children and Community Services Amendment Act 2010)
  | Child Care Services Amendment Act 2011 Pt. 3 | 38 of 2011 | 4 Oct 2011 | 7 Jan 2012 (see s. 2(b) and Gazette 6 Jan 2012 p. 3)
- | Reprint 3: The Working with Children (Criminal Record Checking) Act 2004 as at 17 Feb 2012 (includes amendments listed above
+ | Misuse of Drugs Amendment Act 2011 Pt. 5 | 56 of 2011 | 21 Nov 2011 | 30 Jan 2013 (see s. 2(b) and Gazette 29 Jan 2013 p. 324-5)
+ | Reprint 3: The Working with Children (Criminal Record Checking) Act 2004 as at 17 Feb 2012 (includes amendments listed above except those in the Misuse of Drugs Amendment Act 2011)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 9 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 s. 65 (Sch. 1 cl. 3) | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Misuse of Drugs Amendment Act 2011 Pt. 5 | 56 of 2011 | 21 Nov 2011 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Commissioner for Children and Young People Act 2006 Sch. 1 cl. 3 had not come into operation. It reads as follows:
 Schedule 1 — Consequential amendments
 [s. 65]
@@ -74,16 +74,9 @@ Sexual Services Act 2000
 s. 16 | Causing, permitting or seeking to induce a child to act as a sex worker
 s. 17 | Obtaining payment for commercial sexual act by a child
 s. 18 | Agreement for a child to act as a sex worker
-On the date as at which this reprint was prepared, the Misuse of Drugs Amendment Act 2011 Pt. 5 had not come into operation. It reads as follows:
-Part 5 — Working with Children (Criminal Record Checking) Act 2004 amended
-14.Act amended
-This Part amends the Working with Children (Criminal Record Checking) Act 2004.
-15.Schedule 2 amended
-In Schedule 2 in the item relating to the Misuse of Drugs Act 1981 insert in numerical order:
-s. 7B(4) | Selling drug paraphernalia to a child
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 another jurisdiction4
 approved4
 assessment notice4
@@ -117,8 +110,8 @@ defined period26(1)
 Department4, 38(1)
 education provider4
 educational institution for children4
-employee9A(1), 6(1)
-employer9A(1), 9B(5), 9(1), 16(1), 22(1), 41(1), 43(1)(a)
+employee16(1)
+employer9B(5), 9(1), 16(1), 22(1), 41(1), 43(1)
 first notice20(2)
 interim negative notice4
 managerial officer5(1)
@@ -129,7 +122,7 @@ non-conviction charge4
 officer of the Department4
 parent4
 pending charge4
-proposed employer32A(b)
+proposed employer32A
 public authority38(1)
 public sector employee45(2)
 regulated person42(1)
