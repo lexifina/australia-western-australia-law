@@ -9,11 +9,11 @@ Legal Profession Act 2008 s. 678 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Building Services (Complaint Resolution and Administration) Act 2011 s. 129 | 16 of 2011 | 25 May 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 1: The Magistrates Court (Civil Proceedings) Act 2004 as at 13 Apr 2012 (includes amendments listed above)
+Courts Legislation Amendment Act 2012 Pt. 3 | 43 of 2012 | 22 Nov 2012 | 30 Jan 2013 (see s. 2(b) and Gazette 29 Jan 2013 p. 323)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Residential Tenancies Amendment Act 2011 Pt. 5 Div. 3 | 60 of 2011 | 14 Dec 2011 | To be proclaimed (see s. 2(b))
-Courts Legislation Amendment Act 2012 Pt. 3 | 43 of 2012 | 22 Nov 2012 | To be proclaimed (see s. 2(b))
+Residential Tenancies Amendment Act 2011 Pt. 5 Div. 3 | 60 of 2011 | 14 Dec 2011 | 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Courts Legislation Amendment and Repeal Act 2004.
 On the date as at which this compilation was prepared, the Residential Tenancies Amendment Act 2011 Pt. 5 Div. 3 had not come into operation. It reads as follows:
@@ -24,18 +24,6 @@ This Division amends the Magistrates Court (Civil Proceedings) Act 2004.
 102.Section 7 amended
 In section 7(1) in the definition of trader delete “an owner” and insert
 a lessor
-On the date as at which this compilation was prepared, the Courts Legislation Amendment Act 2012 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Magistrates Court (Civil Proceedings) Act 2004 amended
-5.Act amended
-This Part amends the Magistrates Court (Civil Proceedings) Act 2004.
-6.Section 40 amended
-Delete section 40(3) and insert:
-(3) An appeal cannot be commenced more than 21 days after the date of judgment, unless the District Court gives leave to do so.
-(4A) The appeal must be conducted in accordance with rules of court made by the District Court.
-7.Section 42 amended
-Delete section 42(2) and insert:
-(2) An appeal cannot be commenced more than 21 days after the date of judgment, unless the Court of Appeal gives leave to do so.
-(3A) The appeal must be conducted in accordance with rules of court made by the Supreme Court.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
