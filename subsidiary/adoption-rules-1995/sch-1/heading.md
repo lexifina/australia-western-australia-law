@@ -22,7 +22,7 @@ FORM 2 — NOTICE OF ADDRESS (OR CHANGE IN ADDRESS) FOR SERVICE
 Notice of Address (or Change in Address) for Service
 Name.......................................................................................................................
 .................................................................................................................................
-Name of lawyer and lawyer’s firm (if applicable):.................................................
+Name of legal practitioner and legal practitioner’s firm (if applicable):.................................................
 .................................................................................................................................
 .................................................................................................................................
 Address for Service:................................................................................................
@@ -34,8 +34,9 @@ Fax no: ( ).....................................................................
 DX no:.....................................................................................................................
 DATED this day of .
 .................................................................
-SIGNATURE of party or party’s lawyer
+SIGNATURE of party or legal practitioner for party
 _______________
+[Form 2 amended: Gazette 29 Jan 2013 p. 335.]
 FORM 3 — APPLICATION (GENERAL)
 [Rule 9]
 Application
@@ -53,9 +54,10 @@ apply under section of the Adoption Act 1994 for the following order/s —
 .................................................................................................................................
 DATED this day of .
 ....................................................................................
-SIGNATURE of applicant/s or lawyer of applicant/s
+SIGNATURE of applicant/s or legal practitioner for applicant/s
 TAKE NOTICE that if you wish to oppose this application you must file a notice of address for service within 14 days of the day on which you received this copy of the application.
 _______________
+[Form 3 amended: Gazette 29 Jan 2013 p. 335.]
 FORM 4 — APPLICATION FOR ADOPTION ORDER
 [Rule 11]
 Application for an adoption order
@@ -76,7 +78,7 @@ DATED this day of .
 ...................................................
 SIGNATURE/S of applicant/s
 [*Note that if the application for the adoption order is in relation to a child, a written memorandum of the provisions of the adoption plan in relation to the child is to be filed with the application unless an application will be made for the Court to dispense with the requirement for the adoption plan: section 62 of the Act.]
-[Form 4 inserted in Gazette 21 Mar 2000 p. 1498.]
+[Form 4 inserted: Gazette 21 Mar 2000 p. 1498.]
 _______________
 FORM 4A — APPLICATION FOR ADOPTION ORDER UNDER SECTION 78A OF THE ADOPTION ACT 1994
 [Rule 11A]
@@ -98,9 +100,9 @@ DATED this day of .
 ...................................................
 SIGNATURE/S of applicant/s
 [Note that a written memorandum of the provisions of the adoption plan in relation to the child is to be filed with the application unless an application will be made for the Court to dispense with the requirement for the adoption plan: section 62 of the Act.]
-[Form 4A inserted in Gazette 21 Mar 2000 p. 1498-9.]
+[Form 4A inserted: Gazette 21 Mar 2000 p. 1498-9.]
 _______________
-FORM 4B — APPLICATION FOR ORDER
+FORM 4B — APPLICATION FOR ORDER UNDER SECTION 136B
 [Rule 12A]
 Application for an order terminating the legal relationship of child and parent in relation to a simple adoption
 I/We ........................................................................................................................
@@ -121,9 +123,9 @@ and ............................................................................
 DATED this day of .
 ...................................................
 SIGNATURE/S of applicant/s
-[Form 4B inserted in Gazette 21 Mar 2000 p. 1499; amended in Gazette 17 Sep 2002 p. 4675.]
+[Form 4B inserted: Gazette 21 Mar 2000 p. 1499; amended: Gazette 17 Sep 2002 p. 4675; 29 Jan 2013 p. 335.]
 _______________
-FORM 4C — APPLICATION FOR A DECLARATION
+FORM 4C — APPLICATION FOR A DECLARATION UNDER SECTION 136F
 [Rule 12B]
 Application for a declaration under section 136F of the Adoption Act 1994
 I...............................................................................................................................
@@ -140,40 +142,9 @@ is not recognised.
 DATED this day of .
 ...................................................
 SIGNATURE/S of applicant/s
-[Form 4C inserted in Gazette 21 Mar 2000 p. 1500.]
+[Form 4C inserted: Gazette 21 Mar 2000 p. 1500; amended: Gazette 29 Jan 2013 p. 335.]
 _______________
-FORM 5 — NOTICE OF APPEAL
-[Rule 16]
-Notice of Appeal under section 114
-TAKE notice that the appellant appeals against — [strike out that which is inapplicable]
-[section 114(1)] a decision of the Director-General on the review under Division 1 of Part 5 of the Act made on [date] as follows —
-[section 114(2)] a decision of the adoption applications committee made on [date] as follows —
-.................................................................................................................................
-.................................................................................................................................
-.................................................................................................................................
-.................................................................................................................................
-[set out decision appealed from]
-The decision appealed from is the whole of OR part of the decision of the Director General OR adoption applications committee. [strike out that which is inapplicable]
-The grounds on which this appeal is made are as follows —
-.................................................................................................................................
-.................................................................................................................................
-.................................................................................................................................
-.................................................................................................................................
-[Set out the grounds of the appeal briefly but with particularity]
-The appellant seeks the following orders —
-.................................................................................................................................
-.................................................................................................................................
-.................................................................................................................................
-.................................................................................................................................
-DATED this day of .
-....................................................................................
-SIGNATURE of appellant/s or lawyer of appellant/s
-NOTICE OF DIRECTIONS HEARING
-This appeal has been SET DOWN FOR A DIRECTIONS HEARING in the Family Court of Western Australia at 150 Terrace Road, Perth in the State of Western Australia on the.....................................day of........................................ at a.m./p.m.
-.................................................
-REGISTRAR
-[Form 5 amended in Gazette 20 Jun 2003 p. 2236.]
-_______________
+[Form 5 deleted: Gazette 29 Jan 2013 p. 335.]
 FORM 6 — ACKNOWLEDGMENT OF SERVICE
 [Rules 23(b)(ii) and 25(2)]
 .................................................................................................................................
@@ -189,13 +160,13 @@ I acknowledge that the documents specified above were served on me on the date s
 .........................................................................................
 [Date of signing]
 OR
-I am the lawyer for the person served. On behalf of my client I acknowledge that the documents specified above were served on my client on the date of service specified above.
+I am the legal practitioner for the person served. On behalf of my client I acknowledge that the documents specified above were served on my client on the date of service specified above.
 .........................................................................................
-[Signature of lawyer]
+[Signature of legal practitioner]
 .........................................................................................
 [Date of signing]
 .........................................................................................
-[Name of lawyer and name of firm (print)]
+[Name of legal practitioner and name of firm (print)]
 .........................................................................................
 .........................................................................................
 [Address]
@@ -206,6 +177,7 @@ I am the lawyer for the person served. On behalf of my client I acknowledge that
 .........................................................................................
 [DX no.]
 _______________
+[Form 6 amended: Gazette 29 Jan 2013 p. 336.]
 FORM 7 — WITNESS SUMMONS
 [Rule 28(2)]
 Summons to Witness
@@ -231,5 +203,5 @@ If you fail or refuse to comply with this summons then —
 DATED this day of .
 ........................................................
 REGISTRAR
-[Form 8 deleted in Gazette 5 Dec 1995 p. 5587.]
-[Schedule 1 amended in Gazette 5 Dec 1995 p. 5587; 21 Mar 2000 p. 1498-1500; 17 Sep 2002 p. 4675; 20 Jun 2003 p. 2236.]
+[Form 8 deleted: Gazette 5 Dec 1995 p. 5587.]
+[Schedule 1 amended: Gazette 5 Dec 1995 p. 5587; 21 Mar 2000 p. 1498-1500; 17 Sep 2002 p. 4675; 20 Jun 2003 p. 2236.]
