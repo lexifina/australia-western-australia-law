@@ -20,23 +20,21 @@
 5. | Cancellation of pilot boat crew only | $1 479.64
 [Division 2 inserted in Gazette 4 Jun 2010 p. 2482; amended in Gazette 30 Jun 2011 p. 2627-8; 25 May 2012 p. 2209.]
 ## Division 3 — Port of Esperance
-[Heading inserted in Gazette 30 Jun 2011 p. 2624.]
-1. | Pilotage of a vessel of not more than 5 000 gross registered tonnes into and out of the port | $2 541.00
-2. | Pilotage of a vessel of more than 5 000 but not more than 10 000 gross registered tonnes into and out of the port | $3 509.00
-3. | Pilotage of a vessel of more than 10 000 but not more than 20 000 gross registered tonnes into and out of the port | $3 872.00
-4. | Pilotage of a vessel of more than 20 000 but not more than 30 000 gross registered tonnes into and out of the port | $4 114.00
-5. | Pilotage of a vessel of more than 30 000 but not more than 40 000 gross registered tonnes into and out of the port | $4 477.00
-6. | Pilotage of a vessel of more than 40 000 but not more than 50 000 gross registered tonnes into and out of the port | $4 840.00
-7. | Pilotage of a vessel of more than 50 000 but not more than 60 000 gross registered tonnes into and out of the port | $5 203.00
-8. | Pilotage of a vessel of more than 60 000 but not more than 70 000 gross registered tonnes into and out of the port | $5 687.00
-9. | Pilotage of a vessel of more than 70 000 but not more than 80 000 gross registered tonnes into and out of the port | $6 050.00
-10. | Pilotage of a vessel of more than 80 000 but not more than 90 000 gross registered tonnes into and out of the port | $6 413.00
-11. | Pilotage of a vessel of more than 90 000 but not more than 100 000 gross registered tonnes into and out of the port | $6 875.00
-12. | Pilotage of a vessel of more than 100 000 gross registered tonnes into and out of the port | $0.078 for each gross registered tonne of vessel
-13. | Pilotage of a vessel from a place in the port to another place in the port | $605.00
-14. | Detention of pilot | $605.00 for each hour or part of an hour
-15. | Cancellation of pilot | $605.00
-[Division 3 inserted in Gazette 30 Jun 2011 p. 2624-5.]
+[Heading inserted in Gazette 29 Jan 2013 p. 339.]
+1. | Pilotage of a vessel of not more than 20 000 gross registered tonnes into and out of the port | $5 787.09
+2. | Pilotage of a vessel of more than 20 000 but not more than 30 000 gross registered tonnes into and out of the port | $6 148.78
+3. | Pilotage of a vessel of more than 30 000 but not more than 40 000 gross registered tonnes into and out of the port | $6 691.32
+4. | Pilotage of a vessel of more than 40 000 but not more than 50 000 gross registered tonnes into and out of the port | $7 233.86
+5. | Pilotage of a vessel of more than 50 000 but not more than 60 000 gross registered tonnes into and out of the port | $7 776.40
+6. | Pilotage of a vessel of more than 60 000 but not more than 70 000 gross registered tonnes into and out of the port | $8 499.79
+7. | Pilotage of a vessel of more than 70 000 but not more than 80 000 gross registered tonnes into and out of the port | $9 042.33
+8. | Pilotage of a vessel of more than 80 000 but not more than 90 000 gross registered tonnes into and out of the port | $9 584.87
+9. | Pilotage of a vessel of more than 90 000 but not more than 100 000 gross registered tonnes into and out of the port | $10 275.38
+10. | Pilotage of a vessel of more than 100 000 gross registered tonnes into and out of the port | $0.103 for each gross registered tonne of vessel
+11. | Pilotage of a vessel from a place in the port to another place in the port | $1 815.00
+12. | Detention of pilot | $901.45 for each hour or part of an hour
+13. | Cancellation of pilot | $635.25
+[Division 3 inserted in Gazette 29 Jan 2013 p. 339-40.]
 ## Division 4 — Port of Fremantle
 [Heading inserted in Gazette 24 Aug 2012 p. 3960.]
 1. | Pilotage of a vessel of not more than 1 000 gross registered tonnes between Gage Roads and the Inner Harbour | $870.65
