@@ -2,13 +2,4 @@ Notes
 This is a compilation of the Mutual Recognition (Western Australia) (Temporary Exemptions) Regulations 2012. The following table contains information about those regulations.
 Compilation table
 Citation | Gazettal | Commencement
-Mutual Recognition (Western Australia) (Temporary Exemptions) Regulations 2012 r. 1-2 | 16 Nov 2012 p. 5645-6 | 16 Nov 2012 (see r. 2(a))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Mutual Recognition (Western Australia) (Temporary Exemptions) Regulations 2012 r. 3-4 | 16 Nov 2012 p. 5645-6 | Operative on commencement of the Misuse of Drugs Amendment Act 2011 s. 6 (see r. 2(b))
-On the date as at which this compilation was prepared, the Mutual Recognition (Western Australia) (Temporary Exemptions) Regulations 2012 r. 3-4 had not come into operation. It reads as follows:
-3.Temporary exemption — law relating to drug paraphernalia
-For the purposes of section 5 of the Act and the Commonwealth Act section 15, the Misuse of Drugs Act 1981 section 7B is declared to be a law to which the Commonwealth Act section 15 applies.
-4.Expiry of regulations
-Unless sooner repealed, these regulations expire at the end of the period of 12 months beginning on the day on which regulation 3 comes into operation.
+Mutual Recognition (Western Australia) (Temporary Exemptions) Regulations 2012 | 16 Nov 2012 p. 5645-6 | r. 1 and 2: 16 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2013 (see r. 2(b) and Gazette 29 Jan 2013 p. 324-5)
