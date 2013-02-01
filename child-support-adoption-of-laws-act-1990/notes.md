@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Child Support (Adoption of Laws) Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 February 2013 of the Child Support (Adoption of Laws) Act 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Child Support (Adoption of Laws) Act 1990 | 98 of 1990 | 22 Dec 1990 | 19 Jan 1991 (see s. 2)
@@ -8,16 +8,13 @@ Child Support (Adoption of Laws) Amendment Act 2000 | 21 of 2000 | 30 Jun 2000 |
 Child Support (Adoption of Laws) Amendment Act 2002 | 41 of 2002 | 9 Dec 2002 | 9 Dec 2002 (see s. 2)
 Reprint 1: The Child Support (Adoption of Laws) Act 1990 as at 2 May 2003 (includes amendments listed above)
 Family Legislation Amendment Act 2006 Pt. 5 | 35 of 2006 | 4 Jul 2006 | 1 Aug 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
-Child Support (Adoption of Laws) Amendment Act 2007 | 29 of 2007 | 31 Oct 2007 | s. 1 and 2: 31 Oct 2007 (see s. 2(a)); s. 4 and 5: 1 Nov 2007 (see s. 2(d)) s. 6: 1 Jan 2008 (see s. 2(b)) s. 7: 1 Jul 2008 (see s. 2(c))
+Child Support (Adoption of Laws) Amendment Act 2007 | 29 of 2007 | 31 Oct 2007 | s. 1 and 2: 31 Oct 2007 (see s. 2(a)); s. 3-5: 1 Nov 2007 (see s. 2(d)); s. 6: 1 Jan 2008 (see s. 2(b)); s. 7: 1 Jul 2008 (see s. 2(c))
 Standardisation of Formatting Act 2010 s. 50 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-Child Support (Adoption of Laws) Amendment Act 2011 | 5 of 2011 | 2 Mar 2011 | s. 1 and 2: 2 Mar 2011 (see s. 2(a); Act other than s. 1 and 2: 3 Mar 2011 (see s. 2(b))
-Child Support (Adoption of Laws) Amendment Act 2012 s. 1-5 and 6(1) | 39 of 2012 | 22 Nov 2012 | 22 Nov 2012 (see s. 2(1))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Child Support (Adoption of Laws) Amendment Act 2012 s. 6(2) and (3) | 39 of 2012 | 22 Nov 2012 | s. 6(2): 1 Jan 2013 (conditional on s. 3(1)) (see s. 2(2)); s. 6(3): 1 Jul 2013 (conditional on s. 3(1)) (see s. 2(3))
+Child Support (Adoption of Laws) Amendment Act 2011 | 5 of 2011 | 2 Mar 2011 | s. 1 and 2: 2 Mar 2011 (see s. 2(a)); Act other than s. 1 and 2: 3 Mar 2011 (see s. 2(b))
+Child Support (Adoption of Laws) Amendment Act 2012 | 39 of 2012 | 22 Nov 2012 | s. 1-5 and 6(1): 22 Nov 2012 (see s. 2(1))
+Reprint 2: The Child Support (Adoption of Laws) Act 1990 as at 1 Feb 2013 (includes amendments listed above) (correction in Gazette 26 Apr 2013 p. 1657)
+The section in this Act repealing that Act was omitted under the Reprints Act 1984 s. 7(4)(f).
 The Child Support (Adoption of Laws) Amendment Act 2002 s. 3 reads as follows:
-“
 3.Purpose of Act
 The purpose of this Act is to provide that the adoption by the Child Support (Adoption of Laws) Act 1990 of —
 (a) the Child Support (Registration and Collection) Act 1988 of the Commonwealth extends to that Act as amended by —
@@ -39,9 +36,7 @@ of the Commonwealth; and
 (vii) the Child Support Legislation Amendment Act 2001; and
 (viii) the Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001,
 of the Commonwealth.
-”.
 The Family Legislation Amendment Act 2006 s. 196 reads as follows:
-“
 196.Purpose of Part
 The purpose of this Part is to provide that the adoption by the Child Support (Adoption of Laws) Act 1990 of —
 (a) the Child Support (Registration and Collection) Act 1988 of the Commonwealth extends to that Act as amended by —
@@ -58,9 +53,7 @@ of the Commonwealth; and
 (iii) the Jurisdiction of Courts (Family Law) Act 2006; and
 (iv) the Family Law Amendment (Shared Parental Responsibility) Act 2006,
 of the Commonwealth.
-”.
 The Child Support (Adoption of Laws) Amendment Act 2007 s. 4 reads as follows:
-“
 4.Purpose of Act
 The purpose of this Act is to provide that the adoption by the Child Support (Adoption of Laws) Act 1990 of —
 (a) the Child Support (Registration and Collection) Act 1988 of the Commonwealth extends to that Act as amended by the following Commonwealth Acts —
@@ -74,7 +67,6 @@ and
 (ii) the Families, Community Services and Indigenous Affairs and Veterans’ Affairs Legislation Amendment (2006 Budget Measures) Act 2006; and
 (iii) the Families, Community Services and Indigenous Affairs and Other Legislation (2006 Budget and Other Measures) Act 2006; and
 (iv) the Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007.
-”.
 The Child Support (Adoption of Laws) Amendment Act 2011 s. 4 reads as follows:
 4.Purpose of Act
 The purpose of this Act is to provide that the adoption by the Child Support (Adoption of Laws) Act 1990 of —
@@ -104,11 +96,10 @@ and
 (vii) Tax Laws Amendment (2009 Measures No. 1) Act 2009;
 (viii) Statute Law Revision Act 2010;
 (ix) Child Support and Family Assistance Legislation Amendment (Budget and Other Measures) Act 2010.
-On the date as at which this compilation was prepared, the Child Support (Adoption of Laws) Amendment Act 2012 s. 6(2) and (3) had not come into operation. They read as follows:
-6.Section 4 amended
-(2) In section 4(b) delete “1 July 2012; and” and insert:
-1 January 2013; and
-Note:This amendment is made to ensure that the adoption by Western Australia of the Child Support (Assessment) Act 1989 (Commonwealth) will, from 1 January 2013, extend to that Act as amended on that date by the Social Security and Other Legislation (Disability Support Pension Participation Reforms) Act 2012 (Commonwealth) Sch. 4 Pt. 1 Div. 2.
-(3) In section 4(b) delete “1 January 2013; and” and insert:
-1 July 2013; and
-Note:This amendment is made to ensure that the adoption by Western Australia of the Child Support (Assessment) Act 1989 (Commonwealth) will, from 1 July 2013, extend to that Act as amended on that date by the Social Security and Other Legislation (Disability Support Pension Participation Reforms) Act 2012 (Commonwealth) Sch. 4 Pt. 1 Div. 3.
+The Child Support (Adoption of Laws) Amendment Act 2012 s. 6(2) and (3) will not come into operation because they were deleted (see s. 2(2) and (3) and conditional deletions in s. 3(1) and (2)).
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+adopts5(2)
+Child Support Register6(2)
+collection agency maintenance liabilities6(2)
