@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum and Geothermal Energy Resources Regulations 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 February 2013 of the Petroleum and Geothermal Energy Resources Regulations 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Petroleum Regulations 1987 | 23 Oct 1987 p. 3971-2 | 23 Oct 1987
@@ -22,17 +22,18 @@ Petroleum and Geothermal Energy Resources Amendment Regulations (No. 3) 2010 | 1
 Petroleum and Geothermal Energy Resources Amendment Regulations 2011 | 24 May 2011 p. 1898-9 | r. 1 and 2: 24 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 25 May 2011 (see r. 2(b) and Gazette 24 May 2011 p. 1892)
 Petroleum and Geothermal Energy Resources Amendment Regulations (No. 2) 2011 | 1 Jul 2011 p. 2734-6 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Petroleum and Geothermal Energy Resources Amendment Regulations 2012 | 12 Jun 2012 p. 2463-4 | r. 1 and 2: 12 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+Reprint 3: The Petroleum and Geothermal Energy Resources Regulations 1987 as at 1 Feb 2013 (includes amendments listed above)
 The Acts Amendment (Petroleum) Act 1990 (other than s. 32) came into operation 1 Oct 1990 (see Gazette 28 Sep 1990 p. 5099).
 Commencement day was 16 Dec 2000 (see Gazette 15 Dec 2000 p. 7201).
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
 Now known as the Petroleum and Geothermal Energy Resources Regulations 1987; citation changed (see note under r. 1).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
+AGD1A
 commencement day10(4)
+dealing5(1)(a)
+GDA1A
 GDA reference10(1)
 GRS809(2)
 related dealing5(2)
-the AGD1A
-the dealing5(1)(a)
-the GDA1A
