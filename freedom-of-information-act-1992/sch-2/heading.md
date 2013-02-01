@@ -1,5 +1,5 @@
 ## Schedule 2 — Exempt agencies
-[Glossary, cl. 1]
+[Glossary cl. 1]
 [Heading amended by No. 19 of 2010 s. 4.]
 The Governor and the Governor’s establishment.
 The Legislative Council or a member or committee of the Legislative Council.
