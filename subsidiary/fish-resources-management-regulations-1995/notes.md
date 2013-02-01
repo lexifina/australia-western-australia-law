@@ -163,6 +163,7 @@ Fish Resources Management Amendment Regulations (No. 11) 2012 | 2 Nov 2012 p. 52
 Fish Resources Management Amendment Regulations (No. 6) 2012 | 4 Dec 2012 p. 5919-20 | r. 1 and 2: 4 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2012 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 7) 2012 | 18 Dec 2012 p. 6591-2 | r. 1 and 2: 18 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2012 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 13) 2012 | 18 Dec 2012 p. 6592-3 | r. 1 and 2: 18 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 2) 2013 | 29 Jan 2013 p. 301-19 | r. 1 and 2: 29 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2013 (see r. 2(b))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Recreational Fishing Account.
@@ -201,12 +202,13 @@ closed season38G, 45(1)
 commercial fishing licence3(1)
 complying drop net3(1)
 Cottesloe Reef waters3(1)
-courier business21(3)
+courier business21(3), 147A
 current entitlement118A(2)
 Dampier Archipelago waters64OB(3)
 day trip16E(1), 22(5)
 dB(A)104(4)
 deep sea crab38A
+demersal finfish65A(1), 65B(1)
 demersal scalefish45(1), 64OAA(1)
 disease3(1)
 disposable part16B(5)
@@ -224,6 +226,7 @@ fishing net3(1)
 fishing year16G
 form3(1)
 former authorisation holder129A
+freshwater finfish65E
 freshwater fish44A(1)
 Freycinet Estuary3(1)
 Freycinet Estuary area16G
@@ -241,6 +244,7 @@ jetty72
 Kalbarri Blue Holes waters3(1)
 King Sound17A(4)
 Lancelin Island Lagoon3(1)
+large pelagic finfish65C(1)
 lawful overnight stay on an island3(1)
 licence holder55A
 licensed boat72
@@ -259,6 +263,7 @@ metropolitan waters3(1)
 mollusc3(1)
 mooring72
 motor boat3(1)
+nearshore or estuarine finfish65D(1)
 net64ZE(1)
 Ningaloo Marine Park3(1)
 Ningaloo Marine Park Land Zone16L(1), 64ZCA(2)
@@ -274,7 +279,7 @@ Pelsaert Group Zone38(1)
 Pilbara and Kimberley Region3(1)
 Point Quobba restricted area113D
 prawn hand trawl net3(1)
-prescribed abalone17(2)
+prescribed abalone16GD, 17(2)
 principal place of residence3(1)
 pull3(1)
 recreational (boat) fishing licence receipt124D(1)
@@ -299,7 +304,8 @@ setoseSch. 2 Pt. 2 Div. 1
 share arrangement72
 single-sided fillet3(1), 16E(1), 16M(3)
 South Coast Region3(1)
-special risk finfish3(1), 14(1)
+special risk finfish14(1)
+specified size14A
 store22(5)
 structure87
 sunrise3(1)

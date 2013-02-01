@@ -8,6 +8,7 @@ Amberjack | Seriola dumerlii
 Anchovy, Australian | Engraulis australis
 Bait Fish | Families Clupeidae and Engraulidae
 Barracuda | Sphyraena barracuda
+Barracouta (Gemfish) | Family Gempylidae
 Barramundi (Giant Perch) | Lates calcarifer
 Billfish (Marlins, Sailfish, Spearfish) | Family Istiophoridae
 Boarfish | Family Pentacerotidae
@@ -22,6 +23,7 @@ Catfish | Families Ariidae and Plotosidae
 Cobbler (Estuary Catfish) | Cnidoglanis macrocephalus
 Cobia | Rachycentron canadus
 Cod | Family Serranidae
+Cod, Barramundi | Cromileptes altivelis
 Cod, Breaksea | Epinephelus armatus
 Cod, Chinaman (Charlie Court) | Epinephelus rivulatus
 Cod, Estuary | Epinephelus coioides
@@ -91,6 +93,7 @@ Pike, Long-finned | Dinolestes lewini
 Pike, Striped Sea | Sphyraena obtusata
 Pilchard (Mulie) | Sardinops neopilchardus
 Queenfish | Scomberoides commersonnianus
+Queenfish, Needleskin | Scomberoides tol
 Ray, Eagle | Family Myliobatididae
 Ray, Manta | Manta birostris
 Rays | Superorder Batoidea
@@ -141,6 +144,7 @@ Tuna, Albacore | Thunnus alelunga
 Tuna, Bigeye | Thunnus obesus
 Tuna, Dogtooth | Gymnosarda unicolour
 Tuna, Longtail | Thunnus tonggol
+Tuna, Mackerel | Euthynnus affinus
 Tuna, Northern Bluefin | Thunnus thynnus
 Tuna, Skipjack | Katsuwonus pelamis
 Tuna, Southern Bluefin | Thunnus maccoyii
@@ -155,7 +159,7 @@ Whiting, Southern School (Silver) | Sillago bassensis
 Whiting, Yellow-finned | Sillago schomburgkii
 Wrasse | Family Labridae
 Wrasse, Humphead Maori | Cheilinus undulatus
-[Division 1 amended in Gazette 30 Aug 1996 p. 4320-1; 12 Sep 1997 p. 5154; 19 Jun 1998 p. 3264; 1 Oct 2003 p. 4341-3; 4 Nov 2005 p. 5317; 22 Dec 2005 p. 6238-9; 10 Nov 2006 p. 4710; 13 Nov 2007 p. 5693; 13 Feb 2009 p. 299; 29 Sep 2009 p. 3874-5; 8 Dec 2009 p. 4997; 29 Mar 2011 p. 1153; 24 Aug 2011 p. 3409.]
+[Division 1 amended in Gazette 30 Aug 1996 p. 4320-1; 12 Sep 1997 p. 5154; 19 Jun 1998 p. 3264; 1 Oct 2003 p. 4341-3; 4 Nov 2005 p. 5317; 22 Dec 2005 p. 6238-9; 10 Nov 2006 p. 4710; 13 Nov 2007 p. 5693; 13 Feb 2009 p. 299; 29 Sep 2009 p. 3874-5; 8 Dec 2009 p. 4997; 29 Mar 2011 p. 1153; 24 Aug 2011 p. 3409; 29 Jan 2013 p. 318.]
 ## Division 2 — Freshwater fish
 [Heading inserted in Gazette 13 Nov 2007 p. 5692.]
 Common name | Scientific name
@@ -164,6 +168,7 @@ Cobbler, Freshwater | Tandanus bostocki
 Cod, Murray | Maccullochella peeli
 Eel, Short-finned | Anguilla australis
 Goldfish | Carassius auratus
+Grunter | Family Terapontidae
 Grunter, Sooty | Hephaestus fuliginasus
 Perch, Golden | Macquaria ambigua
 Perch, Redfin (English or European) | Perca fluviatilis
@@ -171,7 +176,7 @@ Perch, Silver | Bidyanus bidyanus
 Sawfish | Family Pristidae
 Trout, Brown | Salmo trutta
 Trout, Rainbow | Oncorhynchus mykiss
-[Division 2 amended in Gazette 22 Dec 2005 p. 6239; 13 Nov 2007 p. 5693; 23 Jul 2010 p. 3406.]
+[Division 2 amended in Gazette 22 Dec 2005 p. 6239; 13 Nov 2007 p. 5693; 23 Jul 2010 p. 3406; 29 Jan 2013 p. 318.]
 ## Division 3 — Crustaceans
 [Heading inserted in Gazette 13 Nov 2007 p. 5692.]
 Common name | Scientific name
@@ -215,6 +220,7 @@ Abalone (all species) | Haliotis spp.
 Abalone, Brownlip | Haliotis conicopora
 Abalone, Greenlip | Haliotis laevigata
 Abalone, Roe’s | Haliotis roei
+Conch | Family Stromidae
 Trochus | Tectus niloticus
 Volute | Family Volutidae
 Zoila Cowry | Family Cypraeidae
@@ -228,12 +234,13 @@ Oyster | Family Ostreidae
 Pipis | Family Donacidae
 Razor shell | Family Pinnidae
 Scallop | Family Pectinidae
-[Division 4 amended in Gazette 23 Apr 1999 p. 1716; 4 Jun 1999 p. 2271; 1 Oct 2003 p. 4343; 30 Sep 2004 p. 4187; 13 Nov 2007 p. 5693-4; 29 Sep 2009 p. 3875; 23 Jul 2010 p. 3406.]
+[Division 4 amended in Gazette 23 Apr 1999 p. 1716; 4 Jun 1999 p. 2271; 1 Oct 2003 p. 4343; 30 Sep 2004 p. 4187; 13 Nov 2007 p. 5693-4; 29 Sep 2009 p. 3875; 23 Jul 2010 p. 3406; 29 Jan 2013 p. 319.]
 ## Division 5 — Other
 [Heading inserted in Gazette 13 Nov 2007 p. 5693.]
 Common name | Scientific name
+Bloodworm | Polycirrus spp.
 Coral | Class Anthozoa and Class Hydrozoa
 Live Rock | Family Corallinaceae, Class Polychaeta, Class Crinoidea, Class Ascidiacea, Class Ophiuroidea, Phylum Bryozoa and Phylum Porifera and dead fish of Class Anthozoa and Class Hydrozoa
 Sea Cucumber (Beche-de-mer, Trepang) | Class Holothurioidae
 Sea Urchin | Class Echinoidea
-[Division 5 amended in Gazette 13 Nov 2007 p. 5694; 13 Feb 2009 p. 300; 29 Sep 2009 p. 3875.]
+[Division 5 amended in Gazette 13 Nov 2007 p. 5694; 13 Feb 2009 p. 300; 29 Sep 2009 p. 3875; 29 Jan 2013 p. 319.]
