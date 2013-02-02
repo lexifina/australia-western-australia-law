@@ -1,6 +1,6 @@
-### Form 1AApplication for permit under section 20A
-Form 1A | WESTERN AUSTRALIA Mining Act 1978 (Sec. 20A Reg. 4D)
- | APPLICATION FOR PERMIT UNDER SECTION 20ANo. To:The Mining Registrar/Customer Service Coordinator, Mineral Titles Division
+### Form 1AApplication for permit under section 40E
+Form 1A | WESTERN AUSTRALIA Mining Act 1978 (Sec. 40E Reg. 4D)
+ | APPLICATION FOR PERMIT UNDER SECTION 40ENo. To:The Mining Registrar/Customer Service Coordinator, Mineral Titles Division
 (a)Full name, address, telephone number and Miner’s Right number of applicant(s) (maximum of 3 applicants) | (a)Applicant 1 Name: ............................................................................... Address: ............................................................................ ........................................................................................... Telephone No.: ................................................................. Miner’s Right No.: ........................................................... Applicant 2 Name: ............................................................................... Address: ............................................................................ ........................................................................................... Telephone No.: ................................................................. Miner’s Right No.: ........................................................... Applicant 3 Name: ............................................................................... Address: ............................................................................ ........................................................................................... Telephone No.: ................................................................. Miner’s Right No.: ...........................................................
 (b)Number of relevant exploration licence | (b)Exploration Licence No. ...................................................
 (c)Area of Crown land in respect of which permit sought (maximum of 10 blocks) | (c)
@@ -11,4 +11,4 @@ DATED this day of 20
 OFFICIAL USE
 Received at ................................a.m./p.m. on .................................. 20..... with fee of $ ................................................................................................
 .................................................................... Mining Registrar
-[Form 1A inserted in Gazette 2 Feb 2001 p. 710-11; amended in Gazette 15 Jan 2010 p. 119; 9 Nov 2012 p. 5417-18.]
+[Form 1A inserted in Gazette 2 Feb 2001 p. 710-11; amended in Gazette 15 Jan 2010 p. 119; 9 Nov 2012 p. 5417-18; 1 Feb 2013 p. 455.]
