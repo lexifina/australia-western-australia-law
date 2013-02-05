@@ -38,6 +38,19 @@ Reprint 3: The Seeds Regulations 1982 as at 7 Aug 2009 (includes amendments list
 Seeds Amendment Regulations 2010 | 30 Jun 2010 p. 3121-3 | r. 1 and 2: 30 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Seeds Amendment Regulations 2011 | 30 Jun 2011 p. 2699-701 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Seeds Amendment Regulations 2012 | 19 Jun 2012 p. 2641-3 | r. 1 and 2: 19 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Biosecurity and Agriculture Management Regulations 2013 r. 137(s) and 138 | 5 Feb 2013 p. 465-591 | 1 May 2013 (see r. 2(b) and Gazette 5 Feb 2013 p. 823)
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management Regulations 2013 r. 137(s) and 138 had not come into operation. They read as follows:
+137.Regulations repealed
+These regulations are repealed:
+(s) Seeds Regulations 1982.
+138.Fees and expenses
+On and from the commencement day —
+(a) any fees payable under a regulation repealed under regulation 137 and outstanding on the commencement day are to be regarded as payable under these regulations at the time, and in the manner, in which the fees would have been payable under the repealed regulation and may be recovered accordingly; and
+(b) any expenses recoverable under a regulation repealed under regulation 137 and outstanding on the commencement day may be recovered under regulation 128.
+Penalty: a fine of $10 000.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
