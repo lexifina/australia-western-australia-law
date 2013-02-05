@@ -17,6 +17,10 @@ Reprint 2: The Conservation and Land Management Regulations 2002 as at 5 Nov 201
 Conservation and Land Management Amendment Regulations (No. 3) 2010 | 3 Dec 2010 p. 6045-54 | r. 1 and 2: 3 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2010 (see r. 2(b))
 Conservation and Land Management Amendment Regulations (No. 2) 2011 | 30 Sep 2011 p. 3897-8 | r. 1 and 2: 30 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2011 (see r. 2(b))
 Conservation and Land Management Amendment Regulations 2012 | 7 Dec 2012 p. 5964-74 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2012 (see r. 2(b) and Gazette 7 Dec 2012 p. 5963)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Conservation and Land Management Amendment Regulations 2013 r. 3 and 4 | 5 Feb 2013 p. 833-4 | 1 May 2013 (see r. 2(b) and Gazette 5 Feb 2013 p. 823)
 The Swan River Trust Act 1988 was repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006.
 Repealed by these regulations r. 115.
 The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads as follows:
@@ -25,6 +29,12 @@ The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads a
 Barrow Island Net Conservation Benefit Account means the account of that name established as an agency special purpose account under the Financial Management Act 2006 section 16 in accordance with the Conservation and Land Management Act 1984 section 69(1);
 Barrow Island Trust Account means the account referred to in the Conservation and Land Management Regulations 2002 Part 7A immediately before the commencement of regulation 3.
 (2) Any money standing to the credit of the Barrow Island Trust Account immediately before the commencement of regulation 3 is to be transferred to the Barrow Island Net Conservation Benefit Account.
+On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Regulations 2013 r 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Conservation and Land Management Regulations 2002.
+4.Regulation 4 amended
+Delete regulation 4(3)(c) and insert:
+(c) in contravention of a direction or authority under the Biosecurity and Agriculture Management Act 2007; or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
