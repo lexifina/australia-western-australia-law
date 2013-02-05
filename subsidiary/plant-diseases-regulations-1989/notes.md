@@ -110,10 +110,27 @@ Plant Diseases Amendment Regulations (No. 2) 2010 | 17 Sep 2010 p. 4417-754 | r.
 Reprint 6: The Plant Diseases Regulations 1989 as at 8 Oct 2010 (includes amendments listed above)
 Plant Diseases Amendment Regulations 2011 | 30 Jun 2011 p. 2695-8 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Plant Diseases Amendment Regulations (No. 2) 2012 | 19 Jun 2012 p. 2639-41 | r. 1 and 2: 19 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Biosecurity and Agriculture Management Regulations 2013 r. 137(q), 138 and 145 | 5 Feb 2013 p. 465-591 | 1 May 2013 (see r. 2(b) and Gazette 5 Feb 2013 p. 823)
 Under the Alteration of Statutory Designations Order (No. 3) 2001 the department formerly called Agriculture Western Australia was called the Department of Agriculture.
 Under the Alteration of Statutory Designations Order 2006 a reference to the Department of Agriculture is, unless the contrary is intended, to be read and construed as a reference to the Department of Agriculture and Food.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 30 June 1989, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 The amendment in the Plant Diseases Amendment Regulations (No. 2) 2001 r. 4(1)(b) is not included because of an error in the reference to the provision to be amended.
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management Regulations 2013 r. 137(q), 138 and 145 had not come into operation. They read as follows:
+137.Regulations repealed
+These regulations are repealed:
+(q) Plant Diseases Regulations 1989;
+138.Fees and expenses
+On and from the commencement day —
+(a) any fees payable under a regulation repealed under regulation 137 and outstanding on the commencement day are to be regarded as payable under these regulations at the time, and in the manner, in which the fees would have been payable under the repealed regulation and may be recovered accordingly; and
+(b) any expenses recoverable under a regulation repealed under regulation 137 and outstanding on the commencement day may be recovered under regulation 128.
+Penalty: a fine of $10 000.
+145.Plant Diseases Regulations 1989
+(1) In this regulation —
+repealed regulations means the Plant Diseases Regulations 1989 repealed under regulation 137(q).
+(2) On and from the commencement day any approval given under the repealed regulations and of effect immediately before the commencement day has effect as if it were a permit under these regulations, and any conditions imposed on the approval have effect as if they were conditions on the permit.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
