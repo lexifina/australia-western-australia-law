@@ -96,26 +96,21 @@ Usual doctor Name Address
 Instructions from deceased | Did the deceased leave any written directions about how his or her remains were to be dealt with? No Yes. Give details
 Objections | Do you know of anyone who objects to the deceased’s remains being cremated? No Yes. Give detail of that person: Name Relationship to deceased __________________________ Relationship to deceased Address
 Coroner | Has the Coroner conducted an investigation or inquest into the deceased’s death? Yes NoUnsure
-Applicant’s relationship to deceased (*“Nearest surviving relative” is explained at the end of this form.) | Administrator of the deceased Nearest surviving relative* of the deceased Other If you are not the Administrator, why are you making the application instead of the Administrator?
+Applicant’s relationship to deceased (*“Nearest surviving relative” is explained at the end of this form.) | Administrator of the deceased Nearest surviving relative* of the deceased Other
 Details of death | Date / /20 Time a.m./p.m.
 Place where deceased died Home Address Hospital Address Other Address
  | Do you know, or have reason to suspect, that the deceased’s death was directly or indirectly due to any of the following? (tick if yes) violence poison privation or neglect medical procedure drowning suffocation burns
  | Do you have any reason to suppose that an examination of the deceased’s remains may be desirable? No Yes. Give details
 Other applications | Have you, or anyone else that you know of, previously applied for a permit to cremate the deceased’s remains? No Yes. Give details of previous application Made by Date _______/_______/20 _____ Medical Referee to whom it was made ________________________________________
-Statutory declaration | I sincerely declare that the information given in this application is true and correct and that I have not omitted any relevant information. I know that it is an offence to make a declaration knowing that it is false in a material particular.
- | Signature
- | Date / /20
-(Witness must be a person authorised to take statutory declarations.) | Witness
-Signature
-Name
-Address
+Signature of applicant | Signature Date / /20
+Statutory declaration (This section not to be completed by administrator) | I, [name, address and occupation of person making the declaration] sincerely declare as follows — That I make this application instead of an administrator because [give reasons] This declaration is true and I know that it is an offence to make a declaration knowing that it is false in a material particular. This declaration is made under the Oaths, Affidavits and Statutory Declarations Act 2005 at [place] on [date] by [Signature of person making the declaration] in the presence of [Signature of witness authorised under the Oaths, Affidavits and Statutory Declarations Act 2005] [Name of authorised witness and qualification as such a witness]
 Medical referee (For office use only) | Permit No.
 Date / /20
 Medical Referee
 Signature
 Name
 The nearest surviving relative of a deceased person, is the first person who is available from the following persons in the order of priority listed — (a)a person who, immediately before the death, was living as — (i)the spouse of the deceased; or (ii)a de facto partner of the deceased and who is at least 18 years of age; (b)a person who, immediately before the death, was the spouse of the deceased; (c)a son or daughter of the deceased who is at least 18 years of age; (d)a parent of the deceased; (e)a brother or sister of the deceased who is at least 18 years of age.
-[Form 6 inserted in Gazette 4 Apr 2008 p. 1300-2.]
+[Form 6 inserted in Gazette 4 Apr 2008 p. 1300-2; amended in Gazette 8 Feb 2013 p. 866.]
 Form 7
 Certificate of Medical Practitioner | Cremation Act 1929 Form 7
 Certificate to be completed by doctor who attended deceased prior to death. Add additional pages if more space is required. Attach copies of all relevant laboratory reports, results, certificates etc.
