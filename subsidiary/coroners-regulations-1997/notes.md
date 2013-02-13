@@ -12,6 +12,7 @@ Reprint 2: The Coroners Regulations 1997 as at 6 Nov 2009 (includes amendments l
 Coroners Amendment Regulations 2011 | 8 Mar 2011 p. 799-800 | r. 1 and 2: 8 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Mar 2011 (see r. 2(b))
 Coroners Amendment Regulations (No. 2) 2011 | 20 Dec 2011 p. 5392-3 | r. 1 and 2: 20 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2011 (see r. 2(b))
 Coroners Amendment Regulations 2012 | 30 Nov 2012 p. 5801 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
+Coroners Amendment Regulations (No. 2) 2012 | 12 Feb 2013 p. 921-2 | r. 1 and 2: 12 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Feb 2013 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

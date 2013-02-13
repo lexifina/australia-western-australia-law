@@ -160,8 +160,7 @@ THE WITNESS has neglected to appear at the time and place appointed in and by a 
 I AUTHORISE you to enter and search at any time with all force as may be necessary any dwelling-house, building, premises, ship, aircraft or any place where the witness is suspected to be present AND I ORDER that you apprehend the witness and bring the witness before the said Coroner’s Court to answer the said Summons and to be further dealt with according to law.
 Dated at .......................... the ................... day of ................................ 20.............
 Coroner.
-I DIRECT that the witness when apprehended may be released on his/her signing and undertaking conditioned for his/her appearance before the Coroner’s Court at .................... on the ................... day of ....................... 20.......
-Coroner.
+[Form 11 amended in Gazette 12 Feb 2013 p. 922.]
 Form 12
 [Reg. 18(1)]
 Coroners Act 1996
