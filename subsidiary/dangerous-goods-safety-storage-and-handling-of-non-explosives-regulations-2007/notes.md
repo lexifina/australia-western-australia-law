@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 24 August 2012 of the Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 | 31 Dec 2007 p. 6777-892 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2 and Pt. 5 Div. 1: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669); Pt. 5 Div. 1: 1 Mar 2009 (see r. 2(c) and Gazette 29 Feb 2008 p. 669)
@@ -8,6 +8,7 @@ Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regula
 Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations (No. 3) 2010 | 31 Dec 2010 p. 6893-6 | r. 1 and 2: 31 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
 Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regulations 2012 | 16 Mar 2012 p. 1197-242 | r. 1 and 2: 16 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2012 (see r. 2(b))
 Reprint 1: The Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 as at 24 Aug 2012 (includes amendments listed above)
+DGS (Storage and Handling of Non-explosives) Amendment Regulations (No. 3) 2012 | 19 Feb 2013 p. 990-1 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
 Repealed by the Safe Work Australia (Consequential and Transitional Provisions) Act 2008 Sch. 1 (Cwlth). Now see the Safe Work Australia Act 2008 (Cwlth).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -43,7 +44,6 @@ employee4
 existing licence27(1), 34(1A)
 existing registration90(1), 97(1A)
 exposure standard4
-FESA4
 fire protection system73(1)
 fire risk dangerous goods4
 fire risk goods25(1A)
