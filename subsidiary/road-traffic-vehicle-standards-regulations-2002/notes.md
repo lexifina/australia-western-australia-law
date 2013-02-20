@@ -21,5 +21,6 @@ Reprint 2: The Road Traffic (Vehicle Standards) Regulations 2002 as at 12 Jan 20
 Road Traffic Consequential Amendment Regulations 2008 Pt. 5 | 10 Jun 2008 p. 2449-67 | 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 Road Traffic (Vehicle Standards) Amendment Regulations 2011 | 25 Feb 2011 p. 659 | r. 1 and 2: 25 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2011 (see r. 2(b))
 Road Traffic (Vehicle Standards) Amendment Regulations 2012 | 14 Feb 2012 p. 675-6 | r. 1 and 2: 14 Feb 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Feb 2012 (see r. 2(b))
+Road Traffic (Vehicle Standards) Amendment Regulations (No. 2) 2012 | 19 Feb 2013 p. 993-4 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 10 a reference in a written law to the Local Court is, unless the contrary intention appears, to be read as a reference to the Magistrates Court. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Formerly referred to as the Road Traffic (Licensing) Regulations 1975, the citation of which was changed to the Road Traffic (Vehicle Licensing) Regulations 1975 by the Road Traffic (Licensing) Amendment Regulations 2006. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
