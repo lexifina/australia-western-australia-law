@@ -8,6 +8,7 @@ Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations 2010 | 22
 Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations (No. 2) 2010 | 25 Jun 2010 p. 2874-5 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations 2012 | 16 Mar 2012 p. 1270-3 | r. 1 and 2: 16 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2012 (see r. 2(b))
 Reprint 1: The Dangerous Goods Safety (Major Hazard Facilities) Regulations 2007 as at 19 Oct 2012 (includes amendments listed above)
+Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations (No. 2) 2012 | 19 Feb 2013 p. 987-8 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
