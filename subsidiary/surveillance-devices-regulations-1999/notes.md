@@ -12,9 +12,10 @@ Surveillance Devices Amendment Regulations 2007 | 21 Sep 2007 p. 4734-5 | r. 1 a
 Surveillance Devices Amendment Regulations 2010 | 6 Jul 2010 p. 3224-5 | r. 1 and 2: 6 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jul 2010 (see r. 2(b))
 Reprint 2: The Surveillance Devices Regulations 1999 as at 10 Sep 2010 (includes amendments listed above)
  | Surveillance Devices Amendment Regulations (No. 2) 2012 | 4 Jan 2013 p. 10 | r. 1 and 2: 4 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2013 (see r. 2(b) and Gazette 4 Jan 2013 p. 3)
-Defined Terms
+ | Surveillance Devices Amendment Regulations 2012 | 19 Feb 2013 p. 991-2 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 emergency service6(4)
 hospital6(4)
 nursing home6(4)
