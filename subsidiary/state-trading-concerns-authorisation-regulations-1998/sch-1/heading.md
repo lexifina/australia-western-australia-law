@@ -8,6 +8,7 @@ Department for Planning and Infrastructure
 Department of Consumer and Employment Protection
 Department of Environment and Conservation
 Department of Finance
+Department of Fire and Emergency Services
 Department of Fisheries
 Department of Health
 Department of Industry and Resources
@@ -20,7 +21,7 @@ Mental Health Commission
 Office of the Auditor General
 Public Sector Commission
 Western Australia Police Service
-[Part 1 inserted in Gazette 31 Aug 1999 p. 4241; amended in Gazette 21 Jan 2000 p. 346; 18 Feb 2000 p. 916 (correction in Gazette 29 Feb 2000 p. 996); 5 May 2000 p. 2140; 3 Nov 2000 p. 6109; 7 Jun 2002 p. 2733; 9 Aug 2002 p. 3856; 12 Nov 2002 p. 5468; 3 Jan 2003 p. 12; 13 Jun 2003 p. 2118; 30 Sep 2003 p. 4259; 24 Oct 2003 p. 4500; 19 Mar 2004 p. 916 and 917; 23 Mar 2004 p. 979; 1 Oct 2004 p. 4285; 15 Jul 2005 p. 3303-4; 12 Aug 2005 p. 3657; 22 Dec 2006 p. 5810; 13 Jul 2007 p. 3455; 23 May 2008 p. 1994; 26 Feb 2010 p. 819; 11 Feb 2011 p. 506; 23 Sep 2011 p. 3821; 29 Jun 2012 p. 2965; 18 Dec 2012 p. 6599.]
+[Part 1 inserted in Gazette 31 Aug 1999 p. 4241; amended in Gazette 21 Jan 2000 p. 346; 18 Feb 2000 p. 916 (correction in Gazette 29 Feb 2000 p. 996); 5 May 2000 p. 2140; 3 Nov 2000 p. 6109; 7 Jun 2002 p. 2733; 9 Aug 2002 p. 3856; 12 Nov 2002 p. 5468; 3 Jan 2003 p. 12; 13 Jun 2003 p. 2118; 30 Sep 2003 p. 4259; 24 Oct 2003 p. 4500; 19 Mar 2004 p. 916 and 917; 23 Mar 2004 p. 979; 1 Oct 2004 p. 4285; 15 Jul 2005 p. 3303-4; 12 Aug 2005 p. 3657; 22 Dec 2006 p. 5810; 13 Jul 2007 p. 3455; 23 May 2008 p. 1994; 26 Feb 2010 p. 819; 11 Feb 2011 p. 506; 23 Sep 2011 p. 3821; 29 Jun 2012 p. 2965; 18 Dec 2012 p. 6599; 19 Feb 2013 p. 998.]
 ## Part 2 — Prescribed activities (regulation 3)
 Commissioner for Equal Opportunity
 The provision by the Commissioner for Equal Opportunity of training services related to promoting the objects of the Equal Opportunity Act 1984.
@@ -51,6 +52,8 @@ The provision by the Department of Finance of —
 (a) goods, information or intellectual property; and
 (b) scientific, technical, educational, training, management or advisory services,
 relating to services provided by, or activities carried out by, the Department of Finance.
+Department of Fire and Emergency Services
+The provision by the Department of Fire and Emergency Services of advertising opportunities, by means of arrangements under which property of that department specified in the arrangements may be used for the display of advertising, in return for money or goods.
 Department of Fisheries
 The sale by the Department of Fisheries of publications relating to fisheries matters.
 The provision or sale by the Department of Fisheries of advertising opportunities, or opportunities having a purpose similar to advertising.
@@ -91,4 +94,4 @@ The provision by the Public Sector Commission of —
 (b) advertising opportunities, or opportunities to participate in arrangements having a purpose similar to advertising.
 Western Australia Police Service
 The provision by the Western Australia Police Service of goods, information or intellectual property, technical, educational, training, management or advisory services relating to services provided by or activities carried out by Western Australia Police Service.
-[Part 2 inserted in Gazette 31 Aug 1999 p. 4241-3; amended in Gazette 21 Jan 2000 p. 346; 18 Feb 2000 p. 916 (correction in Gazette 29 Feb 2000 p. 996); 5 May 2000 p. 2140; 3 Nov 2000 p. 6109; 5 Jan 2001 p. 126; 7 Jun 2002 p. 2733; 9 Aug 2002 p. 3856; 12 Nov 2002 p. 5468; 3 Jan 2003 p. 12; 13 Jun 2003 p. 2118-19; 30 Sep 2003 p. 4259; 24 Oct 2003 p. 4500; 19 Mar 2004 p. 916 and 917; 23 Mar 2004 p. 979; 1 Oct 2004 p. 4285; 15 Jul 2005 p. 3303 and 3304; 12 Aug 2005 p. 3657; 15 Nov 2005 p. 5620; 17 Mar 2006 p. 1028; 22 Dec 2006 p. 5810; 13 Jul 2007 p. 3455; 23 May 2008 p. 1994-5; 26 Feb 2010 p. 819; 11 Feb 2011 p. 506; 23 Sep 2011 p. 3821; 29 Jun 2012 p. 2965-6; 18 Dec 2012 p. 6599.]
+[Part 2 inserted in Gazette 31 Aug 1999 p. 4241-3; amended in Gazette 21 Jan 2000 p. 346; 18 Feb 2000 p. 916 (correction in Gazette 29 Feb 2000 p. 996); 5 May 2000 p. 2140; 3 Nov 2000 p. 6109; 5 Jan 2001 p. 126; 7 Jun 2002 p. 2733; 9 Aug 2002 p. 3856; 12 Nov 2002 p. 5468; 3 Jan 2003 p. 12; 13 Jun 2003 p. 2118-19; 30 Sep 2003 p. 4259; 24 Oct 2003 p. 4500; 19 Mar 2004 p. 916 and 917; 23 Mar 2004 p. 979; 1 Oct 2004 p. 4285; 15 Jul 2005 p. 3303 and 3304; 12 Aug 2005 p. 3657; 15 Nov 2005 p. 5620; 17 Mar 2006 p. 1028; 22 Dec 2006 p. 5810; 13 Jul 2007 p. 3455; 23 May 2008 p. 1994-5; 26 Feb 2010 p. 819; 11 Feb 2011 p. 506; 23 Sep 2011 p. 3821; 29 Jun 2012 p. 2965-6; 18 Dec 2012 p. 6599; 19 Feb 2013 p. 998.]

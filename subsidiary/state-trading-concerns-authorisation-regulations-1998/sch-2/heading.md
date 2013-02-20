@@ -7,7 +7,7 @@ Botanic Gardens and Parks Authority
 Chemistry Centre (WA)
 Commissioner of Main Roads
 Disability Services Commission
-Fire and Emergency Services Authority of Western Australia
+FES Ministerial Body
 Metropolitan Cemeteries Board
 Perth Theatre Trust
 Small Business Development Corporation
@@ -17,7 +17,7 @@ Western Australian Alcohol and Drug Authority
 Western Australian Sports Centre Trust
 Wheatbelt Development Commission
 WorkCover Western Australia Authority
-[Part 1 inserted in Gazette 18 Feb 2000 p. 917; amended in Gazette 20 Feb 2001 p. 1085; 22 Feb 2002 p. 766; 26 Feb 2002 p. 787; 3 Jan 2003 p. 12-13; 28 Mar 2003 p. 985; 1 Jul 2003 p. 2664; 28 Oct 2003 p. 4530; 15 Jul 2005 p. 3305; 13 Jul 2007 p. 3455; 23 May 2008 p. 1995; 26 Feb 2010 p. 817; 3 Aug 2010 p. 3568; 1 Oct 2010 p. 5077; 8 Nov 2011 p. 4677.]
+[Part 1 inserted in Gazette 18 Feb 2000 p. 917; amended in Gazette 20 Feb 2001 p. 1085; 22 Feb 2002 p. 766; 26 Feb 2002 p. 787; 3 Jan 2003 p. 12-13; 28 Mar 2003 p. 985; 1 Jul 2003 p. 2664; 28 Oct 2003 p. 4530; 15 Jul 2005 p. 3305; 13 Jul 2007 p. 3455; 23 May 2008 p. 1995; 26 Feb 2010 p. 817; 3 Aug 2010 p. 3568; 1 Oct 2010 p. 5077; 8 Nov 2011 p. 4677; 19 Feb 2013 p. 999.]
 ## Part 2 — Prescribed activities (regulation 5)
 Boards of public hospitals
 The provision by a hospital board of goods, information or intellectual property relating to the functions of that hospital board.
@@ -39,8 +39,8 @@ Disability Services Commission
 The sale, leasing or licensing by the Disability Services Commission of goods, information, publications or intellectual property relating to disability services.
 The provision or sale by the Disability Services Commission of advertising opportunities or opportunities having a purpose similar to advertising, relating to disability services.
 The provision by the Disability Services Commission of educational, training, management or advisory services relating to disability services.
-Fire and Emergency Services Authority of Western Australia
-The provision by the Fire and Emergency Services Authority of Western Australia of advertising opportunities, by means of entering into arrangements under which property of the Fire and Emergency Services Authority of Western Australia specified in the arrangement may be used for the display of advertising, in return for money or goods.
+FES Ministerial Body
+The provision by the FES Ministerial Body (as established by the Fire and Emergency Services Act 1998 section 5) of advertising opportunities, by means of arrangements under which property of the FES Ministerial Body specified in the arrangements may be used for the display of advertising, in return for money or goods.
 Metropolitan Cemeteries Board
 The provision by the Metropolitan Cemeteries Board of —
 (a)the cemetery renewal manual and records system and enhancements of the manual or system; and
@@ -76,4 +76,4 @@ The provision by the Wheatbelt Development Commission of —
 (c)advertising opportunities.
 WorkCover Western Australia Authority
 The sale, leasing or licensing by the WorkCover Western Australia Authority of intellectual property or software that is, or has been, developed to meet the operational requirements of the WorkCover Western Australia Authority.
-[Part 2 inserted in Gazette 18 Feb 2000 p. 917; amended in Gazette 20 Feb 2001 p. 1085; 22 Feb 2002 p. 766; 26 Feb 2002 p. 788; 3 Jan 2003 p. 13; 28 Mar 2003 p. 986; 1 Jul 2003 p. 2664; 28 Oct 2003 p. 4530-1; 15 Jul 2005 p. 3305; 13 Jul 2007 p. 3455; 23 May 2008 p. 1995; 26 Feb 2010 p. 818; 3 Aug 2010 p. 3568; 1 Oct 2010 p. 5077; 8 Nov 2011 p. 4677.]
+[Part 2 inserted in Gazette 18 Feb 2000 p. 917; amended in Gazette 20 Feb 2001 p. 1085; 22 Feb 2002 p. 766; 26 Feb 2002 p. 788; 3 Jan 2003 p. 13; 28 Mar 2003 p. 986; 1 Jul 2003 p. 2664; 28 Oct 2003 p. 4530-1; 15 Jul 2005 p. 3305; 13 Jul 2007 p. 3455; 23 May 2008 p. 1995; 26 Feb 2010 p. 818; 3 Aug 2010 p. 3568; 1 Oct 2010 p. 5077; 8 Nov 2011 p. 4677; 19 Feb 2013 p. 999.]
