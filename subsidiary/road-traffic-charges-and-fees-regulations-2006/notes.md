@@ -35,6 +35,7 @@ Road Traffic (Charges and Fees) Amendment Regulations (No. 7) 2012 | 23 Nov 2012
 Road Traffic (Charges and Fees) Amendment Regulations (No. 10) 2012 | 30 Nov 2012 p. 5803-4 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 8) 2012 | 30 Nov 2012 p. 5804-5 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jan 2013 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2013 | 8 Feb 2013 p. 870-1 | r. 1 and 2: 8 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2013 (see r. 2(b))
+Road Traffic (Charges and Fees) Amendment Regulations (No. 9) 2012 | 19 Feb 2013 p. 994-5 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
