@@ -22,7 +22,7 @@ Reprint of the Freedom of Information Act 1992 as at 8 Jul 1997 (includes amendm
 Statutes (Repeals and Minor Amendments) Act 1997 s. 62 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
 Industry and Technology Development Act 1998 s. 34(2) | 13 of 1998 | 20 May 1998 | 1 Jul 1998 (see s. 2 and Gazette 26 Jun 1998 p. 3369)
 Gas Pipelines Access (Western Australia) Act 1998 Sch. 3 Div. 6 | 65 of 1998 | 15 Jan 1999 | 9 Feb 1999 (see s. 2 and Gazette 8 Feb 1999 p. 441)
-Prisons Amendment Act 1999 s. 20 | 43 of 1999 | 8 Dec 1999 | Sch. 1 cl. 4(1) and (3): 18 Dec 1999 (see s. 2(2) and Gazette 17 Dec 1999 p. 6175); Sch. 1 cl. 4(2): 18 Jun 2000 (see s. 2(3) and (4) and Gazette 16 Jun 2000 p. 2939)
+Prisons Amendment Act 1999 Sch. 1 cl. 4 | 43 of 1999 | 8 Dec 1999 | Sch. 1 cl. 4(1) and (3): 18 Dec 1999 (see s. 2(2) and Gazette 17 Dec 1999 p. 6175); Sch. 1 cl. 4(2): 18 Jun 2000 (see s. 2(3) and (4) and Gazette 16 Jun 2000 p. 2939)
 Court Security and Custodial Services (Consequential Provisions) Act 1999 Pt. 6 | 47 of 1999 | 8 Dec 1999 | 18 Dec 1999 (see s. 2 and Gazette 17 Dec 1999 p. 6175-6)
 Reprint of the Freedom of Information Act 1992 as at 3 Mar 2000 (includes amendments listed above)
 State Records (Consequential Provisions) Act 2000 Pt. 4 | 53 of 2000 | 28 Nov 2000 | 1 Dec 2001 (see s. 2 and Gazette 30 Nov 2001 p. 6067)
@@ -44,13 +44,13 @@ National Gas Access (WA) Act 2009 s. 70 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (
 Standardisation of Formatting Act 2010 s. 4 and 59 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health and Disability Services Legislation Amendment Act 2010 s. 57 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Bank of Western Australia Amendment Act 2012 Pt. 3 | 14 of 2012 | 3 Jul 2012 | 11 Aug 2012 (see s. 2(b) and Gazette 10 Aug 2012 p. 3803)
-Reprint 6: The Freedom of Information Act 1992 as at 1 Feb 2013 (includes amendments listed above)
+Community Protection (Offender Reporting) Amendment Act (No. 2) 2012 Pt. 3 | 54 of 2012 | 3 Dec 2012 | 23 Feb 2013 (see s. 2(b) and Gazette 22 Feb 2013 p. 1045)
+Reprint 6: The Freedom of Information Act 1992 as at 1 Feb 2013 (includes amendments listed above except those in the Community Protection (Offender Reporting) Amendment Act (No. 2) 2012 Pt. 3)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 Sch. 1 it. 4 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Community Protection (Offender Reporting) Amendment Act (No. 2) 2012 Pt. 3 | 54 of 2012 | 3 Dec 2012 | To be proclaimed (see s. 2(b))
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The State Government Insurance Corporation ceased to exist on 1 July 2012.
@@ -73,16 +73,6 @@ Act | Provision
 .......................... | ........
 Freedom of Information Act 1992 | s. 62(2)
 ...................... | ........
-On the date as at which this reprint was prepared, the Community Protection (Offender Reporting) Amendment Act (No. 2) 2012 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Freedom of Information Act 1992 amended
-43.Act amended
-This Part amends the Freedom of Information Act 1992.
-44.Schedule 1 clause 14 amended
-In Schedule 1 clause 14(5):
-(a) in paragraph (e) delete “or (3).” and insert:
-or (3); or
-(b) after paragraph (e) insert:
-(f) a person in respect of whom information is contained in the Community Protection Offender Register established under the Community Protection (Offender Reporting) Act 2004 section 80.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -127,4 +117,3 @@ review proceedings88
 State archiveGl. cl. 1
 subcontractorGl. cl. 1
 third party32(1), 33(1), Gl. cl. 1
-By Authority: JOHN A. STRIJK, Government Printer
