@@ -1,3 +1,3 @@
 The Criminal Code
-CONTENTS
+Contents
 Criminal Code
