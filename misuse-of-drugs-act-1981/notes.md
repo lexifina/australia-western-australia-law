@@ -48,11 +48,11 @@ Misuse of Drugs Amendment Act 2011 Pt. 2 | 56 of 2011 | 21 Nov 2011 | s. 3, 4 an
 Misuse of Drugs (Amounts of Prohibited Drugs) Order 2012 published in Gazette 13 Apr 2012 p. 1664-5 | cl. 1 and 2: 13 Apr 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 14 Apr 2012 (see cl. 2(b))
 Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 10 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
 Misuse of Drugs (Amounts of Prohibited Drugs) Order (No. 2) 2012 published in Gazette 30 Oct 2012 p. 5194-6 | cl. 1 and 2: 30 Oct 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 31 Oct 2012 (see cl. 2(b))
+Criminal Investigation (Covert Powers) Act 2012 Pt. 9 | 55 of 2012 | 3 Dec 2012 | 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Organisations Control Act 2012 s. 179 | 49 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
-Criminal Investigation (Covert Powers) Act 2012 Pt. 9 | 55 of 2012 | 3 Dec 2012 | 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 read as follows:
@@ -129,51 +129,35 @@ relevant drug offence means an offence under any of the following provisions —
 (b)section 5(1)(c), where the premises are used for the purpose referred to in section 5(1)(a)(i);
 (c)sections 6(1), 7(1) and 14(1);
 (d)section 33, where the principal offence (as defined in that section) is one of the offences listed in paragraphs (a) to (c);
-On the date as at which this compilation was prepared, the Criminal Investigation (Covert Powers) Act 2012 Pt. 9 had not come into operation. It reads as follows:
-Part 9 — Misuse of Drugs Act 1981 amended
-117.Act amended
-This Part amends the Misuse of Drugs Act 1981.
-118.Section 3 amended
-In section 3(1) insert in alphabetical order:
-undercover officer means a participant or a corresponding participant as those terms are defined in the Criminal Investigation (Covert Powers) Act 2012 section 5;
-undercover operation means an authorised operation or corresponding authorised operation as those terms are defined in the Criminal Investigation (Covert Powers) Act 2012 section 5;
-119.Section 26 amended
-(1) In section 26(2):
-(a) delete paragraph (a) and insert:
-(a) while he or she is an undercover officer acting in the course of an undercover operation, acquires a prohibited drug or prohibited plant; or
-(b) in paragraph (b) delete “an authorised person” and insert:
-an undercover officer
-(2) Delete section 26(3).
-120.Section 31 replaced
-Delete section 31 and insert:
-31.Undercover officers
-(1) An undercover officer who is not a police officer commits a simple offence if, after having been warned under subsection (2), the officer acquires a prohibited drug or prohibited plant while acting in the course of an undercover operation and does not deliver the prohibited drug or prohibited plant to a police officer as soon as is reasonably practicable after that acquisition.
-(2) The Commissioner must warn in writing an undercover officer who is not a police officer that if, having acquired a prohibited drug or prohibited plant whilst acting in the course of an undercover operation, that undercover officer does not deliver the prohibited drug or prohibited plant to a police officer as soon as is reasonably practicable after that acquisition, that undercover officer commits a simple offence under subsection (1).
-121.Section 34 amended
-In section 34(1)(e) delete “or 31(4)” and insert:
-or 31(1)
-Defined Terms
+The Criminal Investigation (Covert Powers) Act 2012 s. 108 and 109 read as follows:
+108.Term used: commencement day
+In this Part —
+commencement day means the day on which this Part comes into operation.
+109.Savings provision relating to Misuse of Drugs Act 1981
+(1) In this section —
+former authorisation means an authorisation under the Misuse of Drugs Act 1981 section 31(1) as in force immediately before the day on which Part 9 comes into operation.
+(2) A former authorisation in force immediately before the commencement day, is, on and after the commencement day, to be taken to be an authority as defined in section 5 granted on the commencement day and Part 2 applies, with any necessary modifications, to that authority.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
-adult3(1), 7B, 8B(1)
+adult3(1), 8B(1)
 an amending Act44(1)
 analyst3(1)
 approved analyst3(1)
 approved botanist3(1)
 approved person21
-authorised person8B(1), 14(4), 26(3), 31(8)
+authorised person8B(1), 14(4)
 authorised prescription3(1)
 botanist3(1)
 cannabis3(1)
 cannabis intervention requirement8B(1)
 cannabis intervention session8B(1)
 cannabis resin3(1)
-cannabis smoking paraphernalia19A(1)
 category 1 item12
 category 2 item12
 CEO (Health) 8B(1)
 CEO (Health)38D(1)
-child3(1), 19B(1)
+child3(1)
 CIN45
 CIR8B(2)
 CIS8B(2)
@@ -188,7 +172,6 @@ drug of addiction3(1)
 drug paraphernalia7B(1)
 external serious drug offence32A(3)
 heroin3(1)
-ice pipe19B(1)
 industrial hemp3(1)
 industrial hemp seed3(1)
 medical practitioner3(1)
@@ -223,7 +206,8 @@ supplier12
 to cultivate3(1)
 to possess3(1)
 to supply3(1)
-undercover officer26(3), 31(8)
+undercover officer3(1)
+undercover operation3(1)
 vehicle21
 veterinary surgeon3(1)
 young person8B(1)

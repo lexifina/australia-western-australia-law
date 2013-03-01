@@ -15,10 +15,7 @@ Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (s
 Reprint 2: The Criminal Injuries Compensation Act 2003 as at 2 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 15 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Criminal Investigation (Covert Powers) Act 2012 Pt. 8 | 55 of 2012 | 3 Dec 2012 | To be proclaimed (see s. 2(b))
+Criminal Investigation (Covert Powers) Act 2012 Pt. 8 | 55 of 2012 | 3 Dec 2012 | 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
 The Criminal Injuries Compensation Act 1985 was repealed by s. 73 of this Act.
 The Criminal Injuries (Compensation) Act 1970 was repealed by the Criminal Injuries Compensation Act 1982 s. 43(1).
 The Criminal Injuries Compensation Act 1982 was repealed by the Criminal Injuries Compensation Act 1985 s. 50(1).
@@ -29,19 +26,6 @@ The Criminal Injuries Compensation Amendment Act 2004 s. 10 reads as follows:
 (2) An amount received or recovered as described in section 68 of the Criminal Injuries Compensation Act 2003, on or after 1 January 2004, is deemed to create a debt due under the Criminal Injuries Compensation Act 2003, as amended by this Act.
 (3) A notice given under the Criminal Injuries Compensation Act 1985, on or after 1 January 2004, is deemed to have been given under the Criminal Injuries Compensation Act 2003, as amended by this Act.
 ”.
-On the date as at which this compilation was prepared, the Criminal Investigation (Covert Powers) Act 2012 Pt. 8 had not come into operation. It reads as follows:
-Part 8 — Criminal Injuries Compensation Act 2003 amended
-113.Act amended
-This Part amends the Criminal Injuries Compensation Act 2003.
-114.Section 13 amended
-In section 13(5) delete “section 27.” and insert:
-section 27 or the Criminal Investigation (Covert Powers) Act 2012 section 27, 31 or 34.
-115.Section 16 amended
-In section 16(5) delete “section 27.” and insert:
-section 27 or the Criminal Investigation (Covert Powers) Act 2012 section 27, 31 or 34.
-116.Section 17 amended
-In section 17(5) delete “section 27.” and insert:
-section 27 or the Criminal Investigation (Covert Powers) Act 2012 section 27, 31 or 34.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

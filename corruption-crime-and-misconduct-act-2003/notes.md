@@ -27,10 +27,7 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 12 | 35 of 
 Public Sector Reform Act 2010 s. 74 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Telecommunications (Interception) Western Australia Amendment Act 2011 Pt. 3 | 2 of 2011 | 1 Mar 2011 | 2 Jul 2011 (see s. 2(b) and Gazette 1 Jul 2011 p. 2713 )
 Commonwealth Heads of Government Meeting (Special Powers) Act 2011 Pt. 9 | 23 of 2011 | 11 Jul 2011 | 12 Jul 2011 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Criminal Investigation (Covert Powers) Act 2012 Pt. 7 | 55 of 2012 | 3 Dec 2012 | To be proclaimed (see s. 2(b))
+Criminal Investigation (Covert Powers) Act 2012 Pt. 7 | 55 of 2012 | 3 Dec 2012 | 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Commonwealth Heads of Government Meeting (Special Powers) Act 2011 Pt. 8 is to be read in conjunction with, and as supplementary to, this Act as if the provisions of that Part were incorporated with, and formed part of, this Act.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
@@ -130,13 +127,6 @@ to or in relation to any matter.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not operate so as to —
 (a) affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
-On the date as at which this compilation was prepared, the Criminal Investigation (Covert Powers) Act 2012 Pt. 7 had not come into operation. It reads as follows:
-Part 7 — Corruption and Crime Commission Act 2003 amended
-111.Act amended
-This Part amends the Corruption and Crime Commission Act 2003.
-112.Section 91 amended
-In section 91(2)(n) after “issued to” insert:
-officers of
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
