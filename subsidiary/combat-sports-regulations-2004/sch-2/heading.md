@@ -1,5 +1,6 @@
-## Schedule 2 — Prescribed classes of participants
+## Schedule 2 — Prescribed classes of contestants
 [r. 5]
+[Heading amended in Gazette 22 Feb 2013 p. 1026.]
 ## Division 1 — Boxing, kickboxing and Muay Thai
 Division (Class) | Minimum Weight | Maximum Weight
 Strawweight or Mini Flyweight | — | not exceeding 47.73 kg
@@ -26,13 +27,15 @@ Lightweight | over 60.00 kg | not exceeding 70.00 kg
 Middleweight | over 70.00 kg | not exceeding 80.00 kg
 Heavy weight | over 80.00 kg | not exceeding 90.00 kg
 Super heavyweight | over 90.00 kg | (no upper limit)
-## Division 3 — Ultimate or Xtreme fighting
+## Division 3 — Mixed martial arts
+[Heading inserted in Gazette 22 Feb 2013 p. 1026.]
 Division (Class) | Minimum Weight | Maximum Weight
-Bantamweight | (no lower limit) | not exceeding 60.00 kg
-Featherweight | over 60.00 kg | not exceeding 65.00 kg
-Lightweight | over 65.00 kg | not exceeding 70.00 kg
-Welterweight | over 70.00 kg | not exceeding 77.00 kg
-Middleweight | over 77.00 kg | not exceeding 84.00 kg
-Light Heavyweight | over 84.00 kg | not exceeding 93.00 kg
-Heavyweight | over 93.00 kg | not exceeding 102.00 kg
-Super Heavyweight | over 102.00 kg | (no upper limit)
+Flyweight | (no lower limit) | not exceeding 56.69 kg
+Bantamweight | over 56.69 kg | not exceeding 61.23 kg
+Featherweight | Over 61.23 kg | not exceeding 65.77 kg
+Lightweight | Over 65.77 kg | not exceeding 70.30 kg
+Welterweight | Over 70.30 kg | not exceeding 77.11 kg
+Middleweight | Over 77.11 kg | not exceeding 79.83 kg
+Cruiserweight | Over 79.83 kg | not exceeding 90.7 kg
+Heavyweight | Over 90.7 kg | (no upper limit)
+[Division 3 inserted in Gazette 22 Feb 2013 p. 1026.]
