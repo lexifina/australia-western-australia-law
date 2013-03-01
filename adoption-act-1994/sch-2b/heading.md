@@ -199,4 +199,4 @@ ethe agreements referred to in Article 39;
 fthe denunciations referred to in Article 47.
 In whereof the undersigned, being duly authorised thereto, have signed this Convention.
 Done at The Hague, on the twenty-ninth day of May 1993 in the English and French languages, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Government of the Kingdom of the Netherlands, and of which a certified copy shall be sent, through diplomatic channels, to each of the States Members of the Hague Conference on Private International Law at the date of its Seventeenth Session and to each of the other States which participated in that Session.
-[Schedule 2B inserted by No. 7 of 1999 s. 19.]
+[Schedule 2B inserted: No. 7 of 1999 s. 19.]

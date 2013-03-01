@@ -5,4 +5,4 @@ If there is no appropriate alternative to adoption for the child, the placement 
 1.The child be placed with a person who is an Aboriginal person or a Torres Strait Islander in the child’s community in accordance with local customary practice.
 2.The child be placed with a person who is an Aboriginal person or a Torres Strait Islander.
 3.The child be placed with a person who is not an Aboriginal person or a Torres Strait Islander but who is sensitive to the needs of the child and capable of promoting the child’s ongoing affiliation with the child’s culture, and where possible, family.
-[Schedule 2A inserted by No. 8 of 2003 s. 85.]
+[Schedule 2A inserted: No. 8 of 2003 s. 85.]
