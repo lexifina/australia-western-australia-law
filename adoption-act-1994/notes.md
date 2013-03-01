@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Adoption Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 March 2013 of the Adoption Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Adoption Act 1994 | 9 of 1994 | 15 Apr 1994 | s. 1 and 2: 15 Apr 1994; Act other than s. 1 and 2: 1 Jan 1995 (see s. 2 and Gazette 25 Nov 1994 p. 5905)
@@ -31,10 +31,9 @@ Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 1 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 18 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Adoption Amendment Act 2012 | 15 of 2012 | 3 Jul 2012 | s. 1 and 2: 3 Jul 2012 (see s. 2(a)); Act other than s. 1 and 2: 3 Dec 2012 (see s. 2(b) and Gazette 30 Nov 2012 p. 5773)
-Footnote no longer applicable.
+Reprint 5: The Adoption Act 1994 as at 1 Mar 2013 (includes amendments listed above)
 The day fixed under s. 2(1) of the Adoption Amendment Act (No. 2) 2003 is 1 June 2003: see Gazette 20 May 2003 p. 1783.
-The correct short title of this Act is the Commonwealth Electoral Act 1918.
-Repealed by the Public Employment (Consequential and Transitional) Amendment Act 1999 of the Commonwealth. Now see the Public Service Act 1999 of the Commonwealth.
+Section 16A(2) was deleted by the Adoption Amendment Act 2012 s. 10.
 Repealed by the Births, Deaths and Marriages Registration Act 1998.
 The Adoption Amendment Act (No. 2) 2003 s. 7(3) is a transitional provision that is of no further effect.
 The Adoption Amendment Act (No. 2) 2003 s. 34(2) and 59(2) read as follows:
@@ -47,10 +46,14 @@ The Adoption Amendment Act (No. 2) 2003 s. 34(2) and 59(2) read as follows:
 has no effect on and from the day on which subsection (1) comes into operation.
 The amendment in the Children and Community Services Act 2004 Sch. 2 cl. 2(9) to s. 107(d) is not included because the provision it sought to amend was replaced by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 12 before the amendment purported to come into operation.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-Defined Terms
+The Adoption Act 1994 Sch. 3 cl. 4 and 5 were deleted by the Adoption Amendment Act 2012 (No. 15 of 2012) s. 71(1). They read as follows:
+4.Application for order of adoption
+Subject to clause 8, an application for an order of adoption filed before commencement continues to be governed by the repealed Act, despite the repeal of that Act.
+5.Child placed with a view to adoption under repealed Act
+Subject to clause 8, where immediately before commencement, a child had been placed in a person’s care under the repealed Act for or towards or with a view to the child’s adoption by the person, an application for the child’s adoption continues to be governed by the repealed Act, despite the repeal of that Act.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-a corresponding officer33(5)
+Defined termProvision(s)
 Aboriginal person4(1)
 access4(1)
 adoptee4(1), 124(4)
@@ -63,27 +66,32 @@ adoption plan4(1)
 adoption service4(1)
 adoptive parent4(1)
 application26(1), 26A
+assessment report40(1)
 Australian citizen4(1)
 birth parent4(1)
 carer4(1)
 Central Authority4(1)
 CEO4(1)
 child4(1), 75(7), 120(1), 136D(3), 138B(3)
+Class 1 offence4(1)
+Class 2 offence4(1)
+close relative59(1A)
 commencementSch. 3 cl. 1
-commencement day146(4)
+commencement day145(1), 146(1A)
 Commonwealth Central Authority4(1)
 competent authority4(1)
 contact4(1)
 contact and mediation licensee4(1)
 contact veto4(1)
-corresponding officer34(4)
+conviction4(1)
+corresponding officer33(5), 34(4)
 country4(1)
 Court4(1)
 Department4(1)
-descendant81(1)(a)
+descendant81(1)
 document4(1)
 effective consent4(1)
-grandparent81(1)(b)
+grandparent81(1)
 Hague Convention4(1)
 identifying information4(1)
 independent counsellorSch. 1 cl. 1(2)
@@ -98,18 +106,19 @@ parentage testing order26A
 parental responsibility4(1)
 particulars78(3)
 party to an adoption4(1)
+pending charge4(1)
+place52(1A)
 private adoption agency4(1)
 publish120(1)
 Register92(3)
+register127B(1)
 Registrar4(1)
-relative4(1)
+relative4(1), 120(1)
 repealed ActSch. 3 cl. 1
 representative4(1)
 revocation period4(1)
-sibling81(1)(c), 109(3)
+sibling81(1), 109(3)
 State Central Authority4(1)
 step-parent4(1)
-the assessment report40(1)
-the birth parent59(2)
 Torres Strait Islander4(1)
 veto cut off day4(1)
