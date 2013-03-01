@@ -164,10 +164,12 @@ Fish Resources Management Amendment Regulations (No. 6) 2012 | 4 Dec 2012 p. 591
 Fish Resources Management Amendment Regulations (No. 7) 2012 | 18 Dec 2012 p. 6591-2 | r. 1 and 2: 18 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2012 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 13) 2012 | 18 Dec 2012 p. 6592-3 | r. 1 and 2: 18 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 2) 2013 | 29 Jan 2013 p. 301-19 | r. 1 and 2: 29 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2013 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 14) 2012 | 1 Mar 2013 p. 1091-2 | r. 1 and 2: 1 Mar 2013 (see r. 2(a)); Regulations other than r. 1 & 2: 1 Mar 2013
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Recreational Fishing Account.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
+The commencement date of 15 Jan 2013 that was specified in r. 2(b) was before the date of gazettal.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
