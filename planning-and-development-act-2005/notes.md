@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Planning and Development Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 March 2013 of the Planning and Development Act 2005 and includes the amendments made by the other written laws referred to in the table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 | 37 of 2005 | 12 Dec 2005 | s. 1 and 2: 12 Dec 2005; Act other than s. 1, 2, 149, 150 and Pt. 13 Div. 3: 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077); s. 150 and Pt. 13 Div. 3: 1 Jul 2009 (see s. 2 and Gazette 19 Jun 2009 p. 2225)
@@ -7,28 +7,29 @@ Swan Valley Planning Legislation Amendment Act 2006 s. 20(3) | 7 of 2006 | 19 Ap
 Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
 Land Information Authority Act 2006 s. 147 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 127 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 1: The Planning and Development Act 2005 as at 23 Nov 2007 (includes amendments listed above except those in the Planning and Development Act 2005 s. 150 and Pt. 13 Div. 3)
+Reprint 1: The Planning and Development Act 2005 as at 23 Nov 2007 (includes amendments listed above except those in the Planning and Development Act 2005 s.149, 150 and Pt. 13 Div. 3)
 Acts Amendment (Justice) Act 2008 Pt. 18 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 690 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 100 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 8 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 2 Div. 1, Pt. 3, 4 and Pt. 5 Div. 1 | 28 of 2010 (as amended by No. 45 of 2011 s. 135) | 19 Aug 2010 | Pt. 2 Div. 1, Pt. 4 and Pt. 5 Div. 1: 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709); Pt. 3: 25 Mar 2011 (see s. 2(b) and Gazette 24 Mar 2011 p. 1035)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Reprint 2: The Planning and Development Act 2005 as at 18 Feb 2011 (includes amendments listed above, except those in the Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 3)
+Reprint 2: The Planning and Development Act 2005 as at 18 Feb 2011 (includes amendments listed above except those in the Approvals and Related Reforms (No. 4) (Planning) Act 2010 Pt. 3)
 Heritage and Planning Legislation Amendment Act 2011 Pt. 3 | 4 of 2011 | 2 Mar 2011 | 3 Mar 2011 (see s. 2(b))
 Building Act 2011 s. 168 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Metropolitan Redevelopment Authority Act 2011 s. 141 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 3: The Planning and Development Act 2005 as at 1 Mar 2013 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 412 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 41 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Commercial Arbitration Act 2012 s. 45 it. 16 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 Water Services Legislation Amendment and Repeal Act 2012 s. 222 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Land Administration Act 1997.
 Repealed by the Water Resources Legislation Amendment Act 2007.
 Repealed by the Mining Act 1978.
-On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Planning and Development Act 2005 s. 149 had not come into operation. It reads as follows:
 149.Conditions on rural land (tied lots)
 (1) In this section —
 rural land means land zoned for agricultural or rural use under a local planning scheme.
@@ -60,7 +61,8 @@ a condition referred to in subsection (2) commits an offence.
 (f) any other matter necessary or convenient to be prescribed for giving effect to the purposes of this section.
 Now known as the Local Government (Miscellaneous Provisions) Act 1960. Section 248 was repealed by the Local Government Act 1995 s. 9.70.
 Lands Titles Office diagrams are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
-The Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 3, s. 4 (which gives effect to Sch. 1), Pt. 3 and 4 read as follows:
+Now “City”.
+The Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 3, s. 4, Sch. 1, Pt. 3 and 4 read as follows:
 3.Interpretation
 In this Act —
 commencement day means the day on which this section comes into operation;
@@ -71,7 +73,6 @@ TPD Act means the Town Planning and Development Act 1928;
 WAPC Act means the Western Australian Planning Commission Act 1985.
 4.Acts in Schedule 1 repealed
 The Acts mentioned in Schedule 1 are repealed.
-Schedule 1 reads as follows:
 Schedule 1 — Acts repealed
 [s. 4]
 Metropolitan Region Town Planning Scheme Act 1959
@@ -175,14 +176,14 @@ Any approval of the Commission endorsed on a diagram or plan of survey of a stag
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
 Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
 The Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 56(4) is a transitional provision that is of no further effect.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 41 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 41 had not come into operation. It reads as follows:
 Division 41 — Planning and Development Act 2005 amended
 160.Act amended
 This Division amends the Planning and Development Act 2005.
 161.Section 4 amended
 In section 4(1) in the definition of road delete “Road Traffic Act 1974)” and insert:
 Road Traffic (Administration) Act 2008 section 4)
-On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 it. 16 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Commercial Arbitration Act 2012 s. 45 it. 16 had not come into operation. It reads as follows:
 45.Acts amended
 (1) This section amends the Acts listed in the Table.
 (2) Amend the provisions listed in the Table as set out in the Table.
@@ -190,16 +191,16 @@ Table
 Provision | Delete | Insert
 16.Planning and Development Act 2005
 s. 156(2), 176(2), 184(4), 185(3), 188(2)(a), (3)(a) and (4) | Commercial Arbitration Act 1985 | Commercial Arbitration Act 2012
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 222 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 222 had not come into operation. It reads as follows:
 222.Planning and Development Act 2005 amended
 (1) This section amends the Planning and Development Act 2005.
 (2) Delete section 10(1)(c)(ii) and insert:
 (ii) the chief executive officer of the department principally assisting in the administration of the Water Agencies (Powers) Act 1984; and
 (3) In section 167(1)(b)(ii) delete “Water Services Licensing Act 1995,” and insert:
 Water Services Act 2012 section 3(1),
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Account4(1)
 affected local government122B(3B)
 alleged offender226
@@ -220,12 +221,14 @@ Commission4(1)
 cost of providing a road159(3)
 CPI159(2)
 Crown land4(1)
+DAP4(1)
 decision period253(1)
 deemed provision257B(1)
 deputy member4(1)
 designated person226
 development4(1)
 development application4(1)
+Development Assessment Panel4(1)
 district4(1)
 district planning committee4(1)
 document18(4)
@@ -248,6 +251,7 @@ judicial member237
 LAA Department4(1)
 land4(1), 136(3)
 later subdivider159(1)(a)
+LDAP4(1)
 legal practitioner4(1)
 licence261(1)
 licence to use or occupy136(3)
@@ -275,9 +279,11 @@ other local government210(1)
 participate15(5)
 party237
 planning control area4(1)
+planning instrument171A(1)
 planning matter261(1)
 planning scheme4(1), 236(1)
 pollution217(1)
+prescribed development application171A(1)
 prescribed offence226
 prescribed period145(2)
 President237
