@@ -92,31 +92,7 @@ Signature of applicant
 * Please delete inapplicable alternative.
 [Form M.D. 8B inserted in Gazette 2 Jul 1996 p. 3200; amended in Gazette 12 Nov 2010 p. 5663; 6 May 2011 p. 1621.]
 [Forms M.D. 9 and M.D. 10 deleted in Gazette 6 May 2011 p. 1621.]
-Form M.D. 11
-WESTERN AUSTRALIA
-MISUSE OF DRUGS ACT 1981
-MISUSE OF DRUGS REGULATIONS 1982
-AUTHORITY TO ACT AS UNDERCOVER OFFICER
-I, [insert name of Commissioner of Police or name and rank of delegate], being the Commissioner of Police*/a delegate of the Commissioner of Police*, hereby authorise [insert name and particulars of person authorised] to act as an undercover officer within the meaning of section 31 of the Misuse of Drugs Act 1981.
-Authorised on ........................................................................................................
-at ............................................................................................................................
-WARNING TO AUTHORISED PERSON WHO IS NOT A POLICE OFFICER. If, having acquired a prohibited drug or prohibited plant whilst acting as undercover officer for the purpose of detecting the commission of an offence within the meaning of the Misuse of Drugs Act 1981, you do not deliver the prohibited drug or prohibited plant to a police officer as soon as is reasonably practicable after that acquisition, you commit a simple offence under section 31(4) of that Act.
-...............................................................
-Signature of Commissioner of Police*/
-delegate of Commissioner of Police*.
-* Please delete inapplicable alternative.
-Form M.D. 12
-WESTERN AUSTRALIA
-MISUSE OF DRUGS ACT 1981
-MISUSE OF DRUGS REGULATIONS 1982
-CERTIFICATE OF ACTION AS UNDERCOVER OFFICER
-I, [insert name of Commissioner of Police or name of and rank of delegate], being the Commissioner of Police*/a delegate of the Commissioner of Police*, hereby certify that [insert name and particulars of person authorised] was, at the following time*/during the following period* [insert particulars of time or period], an authorised person acting as an undercover officer within the meaning of section 31 of the Misuse of Drugs Act 1981.
-Certified on ............................................................................................................
-at ............................................................................................................................
-...............................................................
-Signature of Commissioner of Police*/
-delegate of Commissioner of Police*.
-* Please delete inapplicable alternative.
+[Forms M.D. 11 and M.D. 12 deleted in Gazette 25 Jan 2013 p. 282.]
 Form M.D. 13
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981

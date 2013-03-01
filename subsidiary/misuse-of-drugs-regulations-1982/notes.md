@@ -21,19 +21,8 @@ Misuse of Drugs Amendment Regulations (No. 3) 2011 | 1 Jul 2011 p. 2747-8 | r. 1
 Misuse of Drugs Amendment Regulations (No. 4) 2011 | 29 Jul 2011 p. 3138-43 | r. 1 and 2: 29 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2011 (see r. 2(b) and Gazette 29 Jul 2011 p. 3127)
 Reprint 3: The Misuse of Drugs Regulations 1982 as at 6 Jan 2012 (includes amendments listed above)
 Misuse of Drugs Amendment Regulations 2012 | 28 Aug 2012 p. 4141-2 | r. 1 and 2: 28 Aug 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2013 (see r. 2(b) and Gazette 29 Jan 2013 p. 324-5)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Misuse of Drugs Amendment Regulations 2013 r. 3-5 | 25 Jan 2013 p. 281-2 | 1 Mar 2013 (see r. 2(b))
+Misuse of Drugs Amendment Regulations 2013 | 25 Jan 2013 p. 281-2 | r. 1 and 2: 25 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2013 (see r. 2(b))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Misuse of Drugs Amendment Regulations 2013 r. 3-5 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Misuse of Drugs Regulations 1982.
-4.Regulation 10 deleted
-Delete regulation 10.
-5.Schedule 1 amended
-Delete Schedule 1 Forms M.D. 11 and M.D. 12.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
