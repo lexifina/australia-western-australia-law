@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 February 2012 of the Lotteries Commission (Powerball) Rules 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Lotteries Commission (Powerball) Rules 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Lotteries Commission (Powerball Lotto) Rules 1996 | 29 Apr 1996 p. 1821-48 | 17 May 1996 (see r. 2)
@@ -24,10 +24,13 @@ Lotteries Commission (Powerball) Amendment Rules (No. 2) 2010 | 12 Mar 2010 p. 9
 Lotteries Commission (Powerball) Amendment Rules 2010 | 19 Nov 2010 p. 5726-9 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Rules other than r. 1 and 2: 20 Nov 2010 (see r. 2(b))
 Lotteries Commission (Powerball) Amendment Rules 2011 | 3 Jun 2011 p. 1985-9 | r. 1 and 2: 3 Jun 2011 (see r. 2(a)); Rules other than r. 1 and 2: 16 Jun 2011 (see r. 2(b))
 Reprint 4: The Lotteries Commission (Powerball) Rules 1996 as at 3 Feb 2012 (includes amendments listed above)
+Lotteries Commission (Powerball) Amendment Rules 2013 | 15 Feb 2013 p. 944-57 | r. 1 and 2: 15 Feb 2013 (see r. 2(1)(a)); Rules other than r. 1 and 2: 1 Mar 2013 (see r. 2(1)(b) and (2))
 Now known as the Lotteries Commission (Powerball) Rules 1996; citation changed (see note under r. 1).
-Defined Terms
+The Lotteries Commission (Powerball) Amendment Rules 2013 r. 2(2) reads as follows:
+(2) These rules apply to powerball draw numbered 877 and all subsequent powerball draws.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 agent3
 agent’s component3
 authorised payout centre3
