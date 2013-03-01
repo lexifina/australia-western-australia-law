@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the School Education Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 March 2013 of the School Education Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 School Education Regulations 2000 | 29 Dec 2000 p. 7795-900 | 1 Jan 2001 (see r. 2)
@@ -18,31 +18,32 @@ School Education Amendment Regulations 2012 | 10 Jul 2012 p. 3060-1 | r. 1 and 2
 School Education Amendment Regulations (No. 2) 2012 | 14 Aug 2012 p. 3830-1 | r. 1 and 2: 14 Aug 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2012 (see r. 2(b))
 School Education Amendment Regulations (No. 3) 2012 | 27 Nov 2012 p. 5737 | r. 1 and 2: 27 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2012 (see r. 2(b))
 School Education Amendment Regulations (No. 4) 2012 | 4 Dec 2012 p. 5909 | r. 1 and 2: 4 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b))
-Defined Terms
+Reprint 2: The School Education Regulations 2000 as at 1 Mar 2013 (includes amendments listed above)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 absolute majority119(1)
-adrenaline148A
+adrenaline148A(1)
 adult student3(1)
-applicant schoolSch. 2,
+applicant schoolSch. 3 it. 6
 arrangement49
 arrangements previously notified11D(1)
 association121
 authorised person68(3), 73, 86, 91
-auto-injector148A
+auto-injector148A(1)
 breach of school discipline3(1)
-catchment areaSch. 2,
+catchment areaSch. 3 it. 6
 code of conduct3(1)
 contribution58, 132
 Council120(1)
 course11C(1)
 direction69(1)
 dress code3(1)
-enrolled child148A
-existing school133(2), Sch. 2,
+enrolled child148A(1)
+existing school133(2), Sch. 3 it. 6
 extra cost optional component58, 142(1)
 first charges payment year3(1)
-governing body3(1), 3(1)
+governing body3(1)
 independent minor3(1), 147(1)
 kindergarten132
 kindergarten programme3(1)
@@ -65,7 +66,7 @@ prohibition order3(1)
 proposed kindergarten133(1)
 registrar3(1)
 scheme54
-school103(1), 147(3)
+school103(1), 147(3)(a)
 school administrator3(1)
 school premises3(1)
 school’s premises3(1)
@@ -76,6 +77,6 @@ serious breach of school discipline3(1)
 sibling3(1)
 specialist programme3(1)
 specified86
-staff member148A
+staff member148A(1)
 vehicle3(1)
 visa3(1)

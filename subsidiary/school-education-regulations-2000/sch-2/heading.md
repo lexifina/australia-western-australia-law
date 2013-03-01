@@ -41,15 +41,16 @@ Item | Visa Subclass number | Visa Subclass name
 [r. 130]
 [Heading inserted in Gazette 22 Jul 2005 p. 3370-1.]
 1.The likelihood that the establishment of the applicant school will affect any existing school the catchment area for which overlaps with the applicant school’s catchment area, to such an extent that in the 5 years after the establishment of the applicant school —
-(a) the existing school will close;
+(a) the existing school will close; or
 (b) the existing school will cease providing, or will not proceed with a planned commencement of —
 (i) an educational programme for children —
-(I) in their pre-compulsory education period;
+(I) in their pre-compulsory education period; or
 (II) in their compulsory education period; or
 (III) in their post-compulsory education period,
 or in any part of any of those periods; or
 (ii) a specialist programme;
-(c) the level or nature of the existing school’s educational programmes will be reduced;
+or
+(c) the level or nature of the existing school’s educational programmes will be reduced; or
 (d) the existing school’s staffing, funding or resources will be reduced; or
 (e) enrolments at the existing school will be less than projected.
 2.The likely extent of any likely reduction or shortfall of a kind referred to in item 1(c), (d) or (e).
