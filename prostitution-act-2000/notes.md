@@ -20,13 +20,20 @@ Criminal Law and Evidence Amendment Act 2008 s. 69 | 2 of 2008 | 12 Mar 2008 | 2
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 s. 14 | 21 of 2010 | 7 Jul 2010 | 28 Aug 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 42 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Criminal Investigation (Covert Powers) Act 2012 Pt. 10 | 55 of 2012 | 3 Dec 2012 | 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 Pt. 2 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Criminal Investigation (Covert Powers) Act 2012 Pt. 10 | 55 of 2012 | 3 Dec 2012 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
-Footnote no longer applicable.
+The Criminal Investigation (Covert Powers) Act 2012 s. 108 and 110 read as follows:
+108.Term used: commencement day
+In this Part —
+commencement day means the day on which this Part comes into operation.
+110.Savings provision relating to Prostitution Act 2000
+(1) In this section —
+former authorisation means an authorisation under the Prostitution Act 2000 section 35(1) as in force immediately before the day on which Part 10 comes into operation.
+(2) A former authorisation in force immediately before the commencement day, is, on and after the commencement day, to be taken to be an authority as defined in section 5 granted on the commencement day and Part 2 applies, with any necessary modifications, to that authority.
 On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 Pt. 2 had not come into operation. It reads as follows:
 “
 Part 2 — Prostitution Act 2000 amended
@@ -560,16 +567,6 @@ s. 6(1) | s. 6(3)(a) | s. 6(4)(c)
 s. 6(2)(a) | s. 6(3)(b)(i)
 s. 6(3) | s. 6(3)(b)(ii)
 ”.
-On the date as at which this compilation was prepared, the Criminal Investigation (Covert Powers) Act 2012 Pt. 10 had not come into operation. It reads as follows:
-Part 10 — Prostitution Act 2000 amended
-122.Act amended
-This Part amends the Prostitution Act 2000.
-123.Section 35 deleted
-Delete section 35.
-124.Section 36 amended
-In section 36 delete “a function given by section 35(6) or”.
-125.Section 53 deleted
-Delete section 53.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -586,7 +583,6 @@ family order48(2)
 juvenile justice team22(1)
 managerial officer59(2)
 medical practitioner29(7)
-Minister35(7)
 offence22(1)
 place3
 prohibited drug3
@@ -601,4 +597,3 @@ the client4
 the offender5(4), 6(3)
 the prostitute4
 the respondent42(4)
-undercover officer35(7)
