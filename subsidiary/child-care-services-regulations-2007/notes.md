@@ -8,6 +8,7 @@ Child Care Services Amendment Regulations 2008 | 26 Feb 2008 p. 659 | r. 1 and 2
 Reprint 1: The Child Care Services Regulations 2007 as at 6 Mar 2009 (includes amendments listed above)
 Child Care Services Amendment Regulations 2011 | 6 Jan 2012 p. 4-14 | r. 1 and 2: 6 Jan 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jan 2012 (see r. 2(b) and Gazette 6 Jan 2012 p. 3)
 Child Care Services Amendment Regulations 2012 | 6 Jul 2012 p. 3021-3 | r. 1 and 2: 6 Jul 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jul 2012 (see r. 2(b))
+Child Care Services Amendment Regulations (No. 2) 2012 | 5 Mar 2013 p. 1110 | r. 1 and 2: 5 Mar 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Mar 2013 (see r. 2(b) and Gazette 5 Mar 2013 p. 1110)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -16,12 +17,7 @@ application6A
 approval6A
 approval criteria6A, 6C(1)
 approval to act6A, 6D(1)
-care giver4(1)
-care session4(1)
 commencement day6(1), 11(1)
-creche facility5(1)
-disability4(1)
-first aid qualification4(1)
 initial licence period6(1)
 licensee6R
 nomination6R
@@ -33,6 +29,5 @@ Part 8 provisions6(1)
 person aggrieved6P(1)
 relevant decision6P(1)
 relevant qualification6C(2)
-secondary programme4(1)
 show cause notice6L(2)
 supervisor approval6A, 6D(2), 6R
