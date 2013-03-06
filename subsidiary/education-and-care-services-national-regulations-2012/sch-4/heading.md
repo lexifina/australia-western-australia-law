@@ -1,5 +1,6 @@
 ## Schedule 4 — Prescribed forms
-Regulation 190(5)
+Regulation 190(2)(d)
+[Heading amended in Gazette 5 Mar 2013 p. 1109.]
 Form 1 — Infringement notice relating to offence under the Education and Care Services National Law (Western Australia)
 Education and Care Services National Law (Western Australia) INFRINGEMENT NOTICE | Infringement notice no.
 Alleged offender | Name
