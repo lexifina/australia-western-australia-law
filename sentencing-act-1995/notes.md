@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Sentencing Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 8 March 2013 of the Sentencing Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Sentencing Act 1995 | 76 of 1995 | 16 Jan 1996 | s. 1 and 2: 16 Jan 1996; Act other than s. 1, 2 and 19, and Pt. 12: 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
@@ -24,8 +24,8 @@ Criminal Law Amendment Act 2001 Pt. 3 | 23 of 2001 | 26 Nov 2001 | 24 Dec 2001
 Zoological Parks Authority Act 2001 s. 47 | 24 of 2001 | 26 Nov 2001 | 22 May 2002 (see s. 2 and Gazette 10 May 2002 p. 2445)
 Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 64 | 7 of 2002 | 19 Jun 2002 | 1 Jul 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
 Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 221(4) | 35 of 2003 | 26 Jun 2003 | 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259)
-Sentencing Legislation Amendment and Repeal Act 2003Pt. 2, s. 29(3) and 33 | 50 of 2003 (amended by No. 41 of 2006 s. 94, No. 5 of 2008 s. 109) | 9 Jul 2003 | Pt. 2 Div. 1 and 3: 30 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); Pt. 2 Div. 2, 4 and 5 and s. 29(3): 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); s. 33: 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
-Reprint 3: The Sentencing Act 1995 as at 10 Oct 2003 (includes amendments listed above except those in the Sentencing Legislation Amendment and Repeal Act 2003s. 33)
+Sentencing Legislation Amendment and Repeal Act 2003 Pt. 2, s. 29(3) and 33 | 50 of 2003 (amended by No. 41 of 2006 s. 94, No. 5 of 2008 s. 109, No. 49 of 2008 s. 3-5) | 9 Jul 2003 | Pt. 2 Div. 1 and 3: 30 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); Pt. 2 Div. 2, 4 and 5 and s. 29(3): 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833); s. 33: 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
+Reprint 3: The Sentencing Act 1995 as at 10 Oct 2003 (includes amendments listed above except those in the Sentencing Legislation Amendment and Repeal Act 2003 s. 33)
 Criminal Injuries Compensation Act 2003 s. 73 | 77 of 2003 | 15 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Western Australian College of Teaching Act 2004 s. 88 | 8 of 2004 | 10 Jun 2004 | 15 Sep 2004 (see s. 2 and Gazette 3 Sep 2004 p. 3849)
@@ -63,8 +63,9 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 26 | 47 of 2011 | 25 Oct 201
 Teacher Registration Act 2012 s. 168 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 14 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Sentencing Amendment Act 2012 | 42 of 2012 | 22 Nov 2012 | 20 Dec 2012
+Reprint 8: The Sentencing Act 1995 as at 8 Mar 2013 (includes amendments listed above)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 47 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
@@ -74,12 +75,11 @@ Criminal Organisations Control Act 2012 s. 181 | 49 of 2012 | 29 Nov 2012 | To b
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
-Repealed by the Local Government (Consequential Amendments) Act 1996.
-The Fruit Growing Industry (Trust Fund) Act 1941 was repealed by the Fruit Growing Industry (Trust Fund) Repeal Act 1996.
+The amendments in the Sentencing Amendment Act 2000 Pt. 2 Div. 1 had not come into operation when it was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 32.
 The Sentencing Act 1995 s. 19 and Pt. 12 did not come into operation and were deleted by the Criminal Law Amendment Act (No. 2) 1998 s. 17 and 18.
 The Sentencing Legislation Amendment and Repeal Act 1999 Pt. 2 Div. 3 (s. 14-26) are transitional provisions. They did not come into operation before the Act was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Sentencing Amendment (Adjustment of Sentences) Act 2000 (No. 62 of 2000) s. 4-6 commenced on 7 Dec 2000 (see s. 2).
-The Sentencing Legislation Amendment and Repeal Act 2003 s. 22, which gives effect to Sch. 1 (amended by No. 5 of 2008 s. 109 and No. 49 of 2008 s. 3-5), read as follows:
+The Sentencing Legislation Amendment and Repeal Act 2003 s. 22, which gives effect to Sch. 1 (amended by No. 5 of 2008 s. 109 and No. 49 of 2008 s. 3-5), reads as follows:
 22.Transitional provisions
 Schedule 1 has effect in relation to the amendments effected by this Division.
 Schedule 1 reads as follows:
@@ -191,12 +191,12 @@ The Board’s annual report made under section 112 of the Sentence Administratio
 (c) Part 3 Divisions 6 to 11 and Parts 4 to 10 of the Sentence Administration Act 2003 apply to and in respect of the person and the parole order.
 [14.Deleted by No. 49 of 2008 s. 5.]
 The Acts Amendment (Justice) Act 2008 s. 109 commenced on 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253).
+The Sentencing Legislation (Transitional Provisions) Amendment Act 2008 s. 3-5 commenced on 14 Jan 2009.
 The amendments in the Sentencing Legislation Amendment Act 2004 s. 6(4) erroneously referred to “73(3) and (5)” instead of “75(3) and (5)” when identifying the required amendments to be made to s. 33N(3).
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 59 which purported to replace s. 84E could not be included because s. 84E was not in operation when s. 59 came into operation. Section 59 was subsequently deleted by the Parole and Sentencing Legislation Amendment Act 2006 s. 74(2).
 The amendments in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 65 that purported to amend s. 84P(3) could not be included because s. 84P(3) was not in operation when s. 65 came into operation. Those amendments were subsequently deleted by the Parole and Sentencing Legislation Amendment Act 2006 s. 75(2).
 The Parole and Sentencing Legislation Amendment Act 2006 s. 74(2) and 75(2) commenced on 22 Sep 2006 (see s. 2(4)(b)).
-The Sentencing Legislation (Transitional Provisions) Amendment Act 2008 s. 3, 4 and 5 commenced on 14 Jan 2009.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 47 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 47 had not come into operation. It reads as follows:
 Division 47 — Sentencing Act 1995 amended
 174.Act amended
 This Division amends the Sentencing Act 1995.
@@ -222,13 +222,12 @@ as defined in that section;
 Road Traffic (Administration) Act 2008 section 4;
 (4) In section 105(5) in the definition of motor vehicle delete “Road Traffic Act 1974;” and insert:
 Road Traffic (Administration) Act 2008 section 4;
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 228 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 228 had not come into operation. It reads as follows:
 228.Sentencing Act 1995 amended
 (1) This section amends the Sentencing Act 1995.
 (2) In Schedule 1 delete the item relating to the Land Drainage Act 1925.
 (3) In Schedule 1 delete the item relating to the Water Boards Act 1904.
-On the date as at which this compilation was prepared, the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 8 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 8 had not come into operation. It reads as follows:
 Division 8 — Sentencing Act 1995 amended
 77.Act amended
 This Division amends the Sentencing Act 1995.
@@ -237,7 +236,7 @@ In section 57A(5)(b)(iii) delete “a warrant of execution” and insert:
 an enforcement warrant
 79.Section 57B amended
 In section 57B(6) delete “section 32 of”.
-On the date as at which this compilation was prepared, the Criminal Organisations Control Act 2012 s. 181 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Criminal Organisations Control Act 2012 s. 181 had not come into operation. It reads as follows:
 181.Sentencing Act 1995 amended
 (1) This section amends the Sentencing Act 1995.
 (2) After Part 2 Division 1 insert:
@@ -470,9 +469,9 @@ Part 2 — Relevant simple offences
  | s. 7(1) and (2) | Offences relating to controlled weapons
  | s. 8A(2) and (3) | Selling or supplying controlled weapons to children
  | s. 8(1) | Carrying or possessing article as weapon
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 ammunition106(5)
 award115(2)
 bail4(1)
@@ -480,6 +479,7 @@ breach4(1)
 CBO4(2)
 CCO4(2)
 CEO (corrections)4(1)
+commencement150A(1)
 community based order4(1)
 community corrections centre4(1)
 community corrections officer4(1)
@@ -500,8 +500,9 @@ excluded offence33A(1)
 fine57(1)
 firearm106(5)
 firearms offence106(5)
-fixed term85(1)
-full sentence37A(1)(a)
+fixed term 9AA(1), 85(1)
+full sentence37A(1)
+head sentence9AA(1)
 imprisonable offence33A(1)
 indefinite imprisonment85(1)
 intensive supervision order4(1)
@@ -518,7 +519,7 @@ original offence32(1)
 parole eligibility order85(1)
 parole order85(1)
 parole term85(1)
-passport offence108(6)
+Passport offence108(6)
 pending charge31
 period of imprisonment59(7)
 prescribed term85(1)
@@ -533,6 +534,7 @@ reparation order109
 requirement33L(1)
 requirements125(1)
 sentence37(5), 37A(5)
+sentencing150A(1)
 sentencing day33B(1)(a)
 speciality court4(1), 84N(2)
 specified33H(15), 75(15), 84C(15)
@@ -544,7 +546,7 @@ term85(1)
 term imposed35(1)
 third party118(1), 120(1)(b)
 vessel107(5)
-victim13, 116, 120(1)
+victim9AA(1), 13, 116, 120(1)
 video link14A(4)
 WDO57A(4)(b)
 written reasons33A(7), 35(4)
