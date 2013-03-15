@@ -131,6 +131,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Supreme Court Amendment Rules (No. 3) 2012 r. 3-8 | 3 Aug 2012 p. 3748-56 | Operative on commencement of the Trans-Tasman Proceedings Act 2010 (Cwlth) s. 3 to 110 (see r. 2(b))
+Supreme Court Amendment Rules (No. 2) 2013 r. 3-6 | 15 Mar 2013 p. 1205-7 | Operative on commencement of the Commercial Arbitration Act 2012 s. 40 (see r. 2(b))
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
 Formerly referred to as The Partnership Act 1895, the short title of which was changed to the Partnership Act 1895 by the Statutes (Repeals and Minor Amendments) Act 2003 s. 144. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Gas Pipelines Access (Western Australia) Act 1998, the short title of which was changed to the Energy Arbitration and Review Act 1998 by the National Gas Access (WA) Act 2009 s. 26. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -277,6 +278,45 @@ Dated:
 BY THE COURT
 [Signature of appropriate officer]
 Note: The seal of the court is to be affixed.
+On the date as at which this compilation was prepared, the Supreme Court Amendment Rules (No. 2) 2013 r. 3-6 had not come into operation. They read as follows:
+3.Rules amended
+These rules amend the Rules of the Supreme Court 1971.
+4.Order 4A amended
+After Order 4A rule 11(b) insert:
+(ca) any case involving proceedings to which Order 81D applies;
+5.Order 81D replaced
+Delete Order 81D and insert:
+Order 81D — Arbitration law rules
+1.Terms used
+In this Order —
+arbitration law means —
+(a)the International Arbitration Act 1974 (Commonwealth);
+(b)the Commercial Arbitration Act 2012;
+(c)subsidiary legislation in force under any of the above laws;
+arbitrator means a person who, under whatever title, conducts arbitration proceedings under an arbitration law.
+2.Application of this Order
+This Order applies to proceedings that can be or are commenced in the Court under an arbitration law in relation to arbitration provided for by such a law or provided under such a law.
+3.Court documents, headings on
+The heading of every document filed in proceedings to which this Order applies must include the title of the arbitration law under which the proceedings are being conducted.
+4.Commencing proceedings
+(1) To commence proceedings to which this Order applies in the Court, a person must file —
+(a) an originating summons; and
+(b) either —
+(i) an affidavit that states the relevant facts and to which is attached any relevant document; or
+(ii) a notice of motion for an order that such an affidavit is not needed.
+(2) The documents listed in subrule (1) must be filed within the time limit set by the relevant arbitration law.
+5.Subpoena to appear etc. before arbitrator
+If, under an arbitration law, the Court issues a subpoena requiring a person —
+(a) to appear before an arbitrator; or
+(b) to produce any thing to an arbitrator; or
+(c) to do both of those,
+Order 36B, with any necessary changes, applies to and in relation to the subpoena.
+6.Taking evidence for arbitrator
+If, under an arbitration law, the Court agrees to a request for assistance in taking evidence, Order 38, with any necessary changes, applies to and in relation to executing the request.
+7.Costs of arbitration, assessing
+Order 66, with any necessary changes, applies if the Court is required to assess the costs of an arbitration (other than the fees or expenses of an arbitrator).
+6.Schedule 2 amended
+In Schedule 2 delete Forms 105, 106 and 107.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
