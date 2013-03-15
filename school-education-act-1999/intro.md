@@ -1,9 +1,9 @@
 Western Australia
 School Education Act 1999
 An Act to make provision —
-•for education in school or by home education with education, training and employment alternatives at the senior secondary level;
-•for the establishment and operation of government schools and for parent and community involvement in school affairs;
-•for the registration of non-government schools and the funding of such schools;
+•for education in school or by home education with education, training and employment alternatives at the senior secondary level; and
+•for the establishment and operation of government schools and for parent and community involvement in school affairs; and
+•for the registration of non-government schools and the funding of such schools; and
 •for the registration of community kindergartens; and
 •for administrative responsibilities for school education;
 to repeal the Education Act 1928 and consequentially amend certain other Acts, and to make related provisions.
