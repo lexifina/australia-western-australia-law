@@ -10,6 +10,7 @@ Criminal Procedure Amendment Rules 2011 | 12 Jul 2011 p. 2923-4 | r. 1 and 2: 12
 Criminal Procedure Amendment Rules (No. 3) 2011 | 8 Nov 2011 p. 4673-5 | r. 1 and 2: 8 Nov 2011 (see r. 2(a)); Rules other than r. 1 and 2: 9 Nov 2011 (see r. 2(b))
 Reprint 1: The Criminal Procedure Rules 2005 as at 3 Feb 2012 (includes amendments listed above)
 Criminal Procedure Amendment Rules 2012 | 19 Jun 2012 p. 2647-9 | r. 1 and 2: 19 Jun 2012 (see r. 2(a)); Rules other than r. 1 and 2: 20 Jun 2012 (see r. 2(b))
+Criminal Procedure Amendment Rules 2013 | 15 Mar 2013 p. 1203-5 | r. 1 and 2: 15 Mar 2013 (see r. 2(a)); Rules other than r. 1 and 2: 16 Mar 2013 (see r. 2(b))
 The Parole Board was replaced by the Prisoners Review Board. See Parole and Sentencing Legislation Amendment Act 2006.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -24,6 +25,7 @@ criminal appeal3(1)
 DPP3(1)
 Form3(1)
 interim order58(1)
+legally qualified registrar5A(1)
 lodge3(1), 58(1)
 media manager51(1A)
 media organisation51(1A)
