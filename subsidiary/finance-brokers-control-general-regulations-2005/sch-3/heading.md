@@ -29,7 +29,7 @@ Signature: ........................................................
 (4) Place at which offence allegedly committed
 (5) Section or regulation designation
 (6) Description of authorised persons
-[Form 1 amended in Gazette 27 May 2008 p. 2040.]
+[Form 1 amended: Gazette 27 May 2008 p. 2040.]
 Form 2
 Finance Brokers Control Act 1975
 Withdrawal of infringement notice

@@ -19,4 +19,4 @@ Item | Section or regulation | Description of offence | Modified penalty ($)
 16. | s. 49 | Failing to issue and record a receipt as required | 400
 17. | r. 15(1) | Failing to give notice of changes in particulars of directors, partners, etc. | 200
 18. | r. 15(2) | Failing to give notice of change of address of principal place of business | 200
-[Schedule 2 amended in Gazette 5 Jan 2007 p. 10.]
+[Schedule 2 amended: Gazette 5 Jan 2007 p. 10.]
