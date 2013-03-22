@@ -1,4 +1,4 @@
-### 79BCC. Cancelling notices to surrender
+### 79BCC. Notice under s. 79BA, 79BCA or 79BCD, cancelling
 (1) In this section —
 notice to surrender means —
 (a) a surrender notice given under section 79BA; or

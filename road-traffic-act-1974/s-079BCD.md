@@ -1,4 +1,4 @@
-### 79BCD. Notice to surrender alternative vehicle if surrender notice cancelled
+### 79BCD. Notice to surrender alternative vehicle for impoundment, issue of etc.
 (1) This section applies if —
 (a) under section 79BA a surrender notice is given to a person responsible for a vehicle (vehicle A) the driver of which (the alleged offender) is suspected of having committed an offence (the offence); and
 (b) under section 79BCC the surrender notice is cancelled before vehicle A is impounded under section 79BB; and

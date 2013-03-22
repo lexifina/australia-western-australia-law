@@ -1,4 +1,4 @@
-### 79BCA. Notice to surrender substitute vehicle for impoundment
+### 79BCA. Notice to surrender substitute vehicle for impoundment, issue of etc.
 (1) This section applies if —
 (a) a vehicle (the initially impounded vehicle) is impounded under section 79, 79A or 79BB; and
 (b) under section 79D(2), the initially impounded vehicle is released before the impounding period ends; and
