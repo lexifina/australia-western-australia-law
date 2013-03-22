@@ -1,4 +1,4 @@
-### 79BCE. Consequences of surrender of alternative vehicle notice
+### 79BCE. Surrender alternative vehicle notice, consequences of
 (1) If a responsible person who is given a surrender alternative vehicle notice under section 79BCD surrenders the alternative vehicle specified in the notice according to the notice, the vehicle is impounded by operation of this subsection for a period that commences at the time when the vehicle is surrendered.
 (2) If a responsible person who is given a surrender alternative vehicle notice under section 79BCD fails to surrender the alternative vehicle specified in the notice according to the notice, the vehicle is impounded by operation of this subsection for a period that commences at the time when a member of the Police Force takes possession of the vehicle for the purpose of impounding it.
 (3) An impounding period the length of which is specified as 28 days or 3 months in a surrender alternative vehicle notice includes the part of the day on which the vehicle is impounded that is after the impounding occurred even though including that part of the day makes the period more than 28 days or 3 months, as the case requires.
