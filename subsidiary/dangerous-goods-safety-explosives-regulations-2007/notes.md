@@ -9,34 +9,8 @@ Dangerous Goods Safety (Explosives) Amendment Regulations (No. 2) 2009 | 24 Nov 
 Dangerous Goods Safety (Explosives) Amendment Regulations (No. 2) 2010 | 25 Jun 2010 p. 2875-7 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Dangerous Goods Safety (Explosives) Amendment Regulations 2012 | 16 Mar 2012 p. 1173-96 | r. 1 and 2: 16 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Mar 2012 (see r. 2(b))
 Dangerous Goods Safety (Explosives) Amendment Regulations (No. 3) 2012 | 16 Mar 2012 p. 1263-9 | r. 1 and 2: 16 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2012 (see r. 2(b))
+Dangerous Goods Safety (Explosives) Amendment Regulations (No. 5) 2012 | 11 Jan 2013 p. 53-5 | r. 1 and 2: 11 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2013 (see r. 2(b))
 Dangerous Goods Safety (Explosives) Amendment Regulations (No. 4) 2012 | 19 Feb 2013 p. 984-6 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Dangerous Goods Safety (Explosives) Amendment Regulations (No. 5) 2012 r. 3-6 | 11 Jan 2013 p. 53-5 | 1 Apr 2013 (see r.2(b))
-On the date as at which this compilation was prepared, the Dangerous Goods Safety (Explosives) Amendment Regulations (No. 5) 2012 r. 3-6 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Dangerous Goods Safety (Explosives) Regulations 2007.
-4.Regulation 188 amended
-In regulation 188:
-(a) delete paragraph (a)(i) and insert:
-(i) $4 302; or
-(b) in paragraph (a)(ii) delete “$8.45” and insert:
-$11.41
-5.Regulation 189 amended
-In regulation 189:
-(a) in paragraph (a)(i) delete “$200;” and insert:
-$270;
-(b) in paragraph (a)(ii) delete “$200 plus $1.70” and insert:
-$270 plus $2.30
-(c) in paragraph (b) delete “$305” and insert:
-$411.75
-6.Regulation 190 amended
-In regulation 190(2):
-(a) delete paragraph (a)(i) and insert:
-(i) $4 302; or
-(b) in paragraph (a)(ii) delete “$8.45” and insert:
-$11.41
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
