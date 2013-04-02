@@ -6,6 +6,9 @@ Building Regulations 2012 | 13 Mar 2012 p. 1055-137 | r. 1 and 2: 13 Mar 2012 (s
 Building Amendment Regulations 2012 | 15 Jun 2012 p. 2513-15 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jun 2012 (see r. 2(b))
 Building Amendment Regulations (No. 3) 2012 | 30 Nov 2012 p. 5782-3 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2012 | 18 Dec 2012 p. 6555-81 | r. 1 and 2: 18 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2012 (see r. 2(b) and Gazette 18 Dec 2012 p. 6585)
+Part 9 (r. 63-68) expired on 2 Apr 2013. Regulation 68 reads as follows:
+68.Expiry of Part
+This Part expires on the day that is one year after the day on which the rest of these regulations come into operation under regulation 2(b).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
