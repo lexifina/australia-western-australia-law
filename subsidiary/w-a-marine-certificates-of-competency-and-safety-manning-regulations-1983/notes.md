@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the W.A. Marine (Certificates of Competency and Safety Manning) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 April 2013 of the W.A. Marine (Certificates of Competency and Safety Manning) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Citation | Gazettal | Commencement
  | W.A. Marine (Certificates of Competency and Safety Manning) Regulations 1983 | 1 Jul 1983 p. 2209-40 | 1 Jul 1983 (see r. 2)
@@ -27,7 +27,7 @@ Compilation table
  | W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations 1998 | 28 Aug 1998 p. 4775 | 28 Aug 1998
  | W.A. Marine Amendment Regulations 2000 r. 3 | 20 Jun 2000 p. 3062-71 | 1 Jul 2000 (see r. 2)
  | W.A. Marine Amendment Regulations 2001 r. 3 | 27 Jul 2001 p. 3803-13 | 1 Aug 2001 (see r. 2)
- | W.A. Marine Amendment Regulations 2002 r. 3 | 14 Jun 2002 p. 2825-35 | 1 Jul 2002 (see r. 2)
+ | W.A. Marine Amendment Regulations 2002 r. 3 | 14 Jun 2002 p. 2325-35 | 1 Jul 2002 (see r. 2)
  | W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations 2003 | 27 Jun 2003 p. 2532-3 | 1 Jul 2003 (see r. 2)
  | W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations 2004 | 25 Jun 2004 p. 2260-1 | 1 Jul 2004 (see r. 2)
  | W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations (No. 2) 2004 | 24 Aug 2004 p. 3661 | 24 Aug 2004
@@ -48,10 +48,12 @@ W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulation
 W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations (No. 2) 2011 | 21 Jun 2011 p. 2227-8 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations 2012 | 14 Feb 2012 p. 671-3 | r. 1 and 2: 14 Feb 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Feb 2012 (see r. 2(b))
 W.A. Marine (Certificates of Competency and Safety Manning) Amendment Regulations (No. 2) 2012 | 15 Jun 2012 p. 2528-9 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+Reprint 5: The W.A. Marine (Certificates of Competency and Safety Manning) Regulations 1983 as at 5 Apr 2013 (includes amendments listed above)
 Repealed by the Pearling Act 1990.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
+Annex C3
 applicant3
 at sea3
 Australian marine authority3
@@ -63,10 +65,11 @@ endorsement3
 length3
 marine authority3
 measured length3
-NSCV Part D 10(1)
+NSCV Part D3
 propulsion power3
 qualifying numeral3
 qualifying service3
+restriction3
 revalidate3
 sea service3
 seagoing vessel3

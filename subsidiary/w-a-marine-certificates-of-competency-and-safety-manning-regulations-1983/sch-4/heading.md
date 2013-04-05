@@ -209,7 +209,6 @@ COXSWAIN — INSTRUCTOR OF COMMERCIAL SKI BOAT — Candidates —
 (i)the rules of the road; and
 (ii)practical boat handling; and
 (iii)ski-ing regulations as applicable to private pleasure craft.
-[(iv)deleted]
 MARINE ENGINEER CLASS III — Prerequisites —
 (a)Qualifying service —
 (i)12 months of qualifying sea service on vessels of 20 QN or over;
