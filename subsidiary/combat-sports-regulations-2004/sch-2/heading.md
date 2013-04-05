@@ -2,7 +2,7 @@
 [r. 5]
 [Heading amended in Gazette 22 Feb 2013 p. 1026.]
 ## Division 1 — Boxing, kickboxing and Muay Thai
-Division (Class) | Minimum Weight | Maximum Weight
+Division (Class) | Minimum weight | Maximum weight
 Strawweight or Mini Flyweight | — | not exceeding 47.73 kg
 Junior Flyweight | over 47.73 kg | not exceeding 48.99 kg
 Flyweight | over 48.99 kg | not exceeding 50.80 kg
@@ -22,14 +22,14 @@ Cruiserweight | over 79.38 kg | not exceeding 86.18 kg
 Super Cruiserweight | over 86.18 kg | not exceeding 95.00 kg
 Heavy weight | over 95.00 kg | (no upper limit)
 ## Division 2 — Brazilian ju jitsu and full contact karate
-Division (Class) | Minimum Weight | Maximum Weight
+Division (Class) | Minimum weight | Maximum weight
 Lightweight | over 60.00 kg | not exceeding 70.00 kg
 Middleweight | over 70.00 kg | not exceeding 80.00 kg
 Heavy weight | over 80.00 kg | not exceeding 90.00 kg
 Super heavyweight | over 90.00 kg | (no upper limit)
 ## Division 3 — Mixed martial arts
 [Heading inserted in Gazette 22 Feb 2013 p. 1026.]
-Division (Class) | Minimum Weight | Maximum Weight
+Division (Class) | Minimum weight | Maximum weight
 Flyweight | (no lower limit) | not exceeding 56.69 kg
 Bantamweight | over 56.69 kg | not exceeding 61.23 kg
 Featherweight | Over 61.23 kg | not exceeding 65.77 kg
