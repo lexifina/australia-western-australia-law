@@ -33,7 +33,7 @@ Last digit of property’s street number or, where there is no street number, lo
 5 | Sunday
 6 | Monday
 7 | Tuesday
-8 | Wednesday
-9 | Thursday
-0 | Friday
+ | 8 | Wednesday
+ | 9 | Thursday
+ | 0 | Friday
 [Division 3 amended in Gazette 28 Sep 2010 p. 5065.]
