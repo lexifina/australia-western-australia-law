@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Trading Concerns (Authorisation) Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 April 2013 of the State Trading Concerns (Authorisation) Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 State Trading Concerns (Authorization) Regulations 1998 | 17 Apr 1998 p. 2105 | 17 Apr 1998
@@ -9,7 +9,7 @@ State Trading Concerns (Authorization) Amendment Regulations (No. 3) 1998 | 3 No
 State Trading Concerns (Authorization) Amendment Regulations 1999 | 19 Mar 1999 p. 1237 | 19 Mar 1999
 State Trading Concerns (Authorization) Amendment Regulations (No. 3) 1999 | 6 Jul 1999 p. 3073-4 | 6 Jul 1999
 State Trading Concerns (Authorization) Amendment Regulations (No. 2) 1999 | 13 Jul 1999 p. 3173-4 | 13 Jul 1999
-State Trading Concerns (Authorization) Amendment Regulations (No. 4) 1999 | 31 Aug 1999 p. 4241-4 | 31 Aug 1999
+State Trading Concerns (Authorization) Amendment Regulations (No. 4) 1999 | 31 Aug 1999 p. 4261-4 | 31 Aug 1999
 State Trading Concerns (Authorization) Amendment Regulations (No. 5) 1999 | 21 Jan 2000 p. 345-6 | 21 Jan 2000
 State Trading Concerns (Authorization) Amendment Regulations 2000 | 18 Feb 2000 p. 915-17 (correction 29 Feb 2000 p. 996) | 18 Feb 2000
 State Trading Concerns (Authorization) Amendment Regulations (No. 2) 2000 | 5 May 2000 p. 2139-40 | 5 May 2000
@@ -17,8 +17,8 @@ Reprint of the State Trading Concerns (Authorization) Regulations 1998 as at 15 
 State Trading Concerns (Authorisation) Amendment Regulations (No. 5) 2000 | 3 Nov 2000 p. 6108-9 | 3 Nov 2000
 State Trading Concerns (Authorisation) Amendment Regulations (No. 6) 2000 | 5 Jan 2001 p. 126 | 5 Jan 2001
 State Trading Concerns (Authorisation) Amendment Regulations (No. 7) 2000 | 20 Feb 2001 p. 1084-5 | 20 Feb 2001
-State Trading Concerns (Authorisation) Amendment Regulations 2001 | 22 Feb 2002 p. 766 | 22 Feb 2002
-State Trading Concerns (Authorisation) Amendment Regulations (No. 2) 2001 | 26 Feb 2002 p 787-8 | 26 Feb 2002
+State Trading Concerns (Authorization) Amendment Regulations 2001 | 22 Feb 2002 p. 766 | 22 Feb 2002
+State Trading Concerns (Authorization) Amendment Regulations (No. 2) 2001 | 26 Feb 2002 p 787-8 | 26 Feb 2002
 State Trading Concerns (Authorisation) Amendment Regulations (No. 2) 2002 | 7 Jun 2002 p. 2732-3 | 7 Jun 2002
 State Trading Concerns (Authorization) Amendment Regulations 2002 | 9 Aug 2002 p. 3856 | 9 Aug 2002
 State Trading Concerns (Authorisation) Amendment Regulations (No. 3) 2002 | 12 Nov 2002 p. 5467-8 | 12 Nov 2002
@@ -53,14 +53,14 @@ State Trading Concerns (Authorisation) Amendment Regulations (No. 2) 2011 | 8 No
 State Trading Concerns (Authorisation) Amendment Regulations 2012 | 29 Jun 2012 p. 2965-6 | r. 1 and 2: 29 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2012 (see r. 2(b))
 State Trading Concerns (Authorisation) Amendment Regulations (No. 2) 2012 | 18 Dec 2012 p. 6598-9 | r. 1 and 2: 18 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2012 (see r. 2(b))
 State Trading Concerns (Authorisation) Amendment Regulations (No. 3) 2012 | 19 Feb 2013 p. 998-9 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
+Reprint 5: The State Trading Concerns (Authorisation) Regulations 1998 as at 5 Apr 2013 (includes amendments listed above)
 Under the Alteration of Statutory Designations Order 2007 a reference in any law to the Department for Community Development is to be read and construed as a reference to the Department for Child Protection unless the contrary intention appears.
 Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in any law to the Department for Planning and Infrastructure is to be read and construed as a reference to the Department of Planning or the Department of Transport or the Department of Regional Development and Lands (as the case requires) unless the contrary intention appears.
-Under the Public Sector Management Act 1994 the designations of departments can be altered. At the time of this compilation the designation of the Department of Consumer and Employment Protection has been altered to the Department of Commerce (see Gazette 2 Jan 2009 p. 8).
-Under the Public Sector Management Act 1994 the designations of departments can be altered. At the time of this compilation the designation of the Department of Industry and Resources has been altered to the Department of Mines and Petroleum (see Gazette 2 Jan 2009 p. 8).
-Under the Public Sector Management Act 1994 the designations of departments can be altered. At the time of this compilation the designation of the department known as the Department of Justice has been altered to the Department of the Attorney General (see Gazette 10 Jan 2006 p. 39).
-Footnote no longer applicable.
+Under the Public Sector Management Act 1994 the designations of departments can be altered. At the time of this reprint the designation of the Department of Consumer and Employment Protection has been altered to the Department of Commerce (see Gazette 2 Jan 2009 p. 8).
+Under the Public Sector Management Act 1994 the designations of departments can be altered. At the time of this reprint the designation of the Department of Industry and Resources has been altered to the Department of Mines and Petroleum (see Gazette 2 Jan 2009 p. 8).
+Under the Public Sector Management Act 1994 the designations of departments can be altered. At the time of this reprint the designation of the department known as the Department of Justice has been altered to the Department of the Attorney General (see Gazette 10 Jan 2006 p. 39).
 The Western Australian Government Railways Commission no longer exists. Its successor is the Public Transport Authority. See Public Transport Authority Act 2003 s. 80.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 scientific supportSch. 2 Pt. 2
