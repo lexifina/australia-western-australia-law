@@ -40,25 +40,25 @@ Item | Description of fee | Fee ($)
 ## Division 4A — Building surveyors
 [Heading inserted in Gazette 12 Mar 2012 p. 1005.]
 Item | Description of fee | Fee ($)
-1. | Application for registration as building surveying practitioner level 1 or level 2 | 100
-2. | Application for registration as building surveying practitioner technician | 50
-3. | Application for registration as building surveying contractor level 1 or level 2 (individual) | 65
-4. | Application for registration as building surveying contractor level 1 or level 2 (partnership) | 65
-5. | Application for registration as building surveying contractor level 1 or level 2 (company) | 65
-6. | Registration fee for building surveying practitioner technician (1 year) | 150
-7. | Registration fee for building surveying practitioner level 1 or level 2 (1 year) | 295
-8. | Registration fee for building surveying practitioner level 1 or level 2 (2 years) | 575
-9. | Registration fee for building surveying practitioner level 1 or level 2 (3 years) | 830
-10. | Registration fee for building surveying contractor level 1 or level 2 (individual) (1 year) | 200
-11. | Registration fee for building surveying contractor level 1 or level 2 (individual) (2 years) | 390
-12. | Registration fee for building surveying contractor level 1 or level 2 (individual) (3 years) | 580
-13. | Registration fee for building surveying contractor level 1 or level 2 (partnership) (1 year) | 500
-14. | Registration fee for building surveying contractor level 1 or level 2 (partnership) (2 years) | 970
-15. | Registration fee for building surveying contractor level 1 or level 2 (partnership) (3 years) | 1 450
-16. | Registration fee for building surveying contractor level 1 or level 2 (company) (1 year) | 650
-17. | Registration fee for building surveying contractor level 1 or level 2 (company) (2 years) | 1 260
-18. | Registration fee for building surveying contractor level 1 or level 2 (company) (3 years) | 1 890
-19. | Late fee for application for renewal made after the renewal period | 50
+1. | Application for registration as building surveying practitioner level 1 or level 2 | 100.00
+2. | Application for registration as building surveying practitioner technician | 50.00
+3. | Application for registration as building surveying contractor level 1 or level 2 (individual) | 65.00
+4. | Application for registration as building surveying contractor level 1 or level 2 (partnership) | 65.00
+5. | Application for registration as building surveying contractor level 1 or level 2 (company) | 65.00
+6. | Registration fee for building surveying practitioner technician (1 year) | 150.00
+7. | Registration fee for building surveying practitioner level 1 or level 2 (1 year) | 295.00
+8. | Registration fee for building surveying practitioner level 1 or level 2 (2 years) | 575.00
+9. | Registration fee for building surveying practitioner level 1 or level 2 (3 years) | 830.00
+10. | Registration fee for building surveying contractor level 1 or level 2 (individual) (1 year) | 200.00
+11. | Registration fee for building surveying contractor level 1 or level 2 (individual) (2 years) | 390.00
+12. | Registration fee for building surveying contractor level 1 or level 2 (individual) (3 years) | 580.00
+13. | Registration fee for building surveying contractor level 1 or level 2 (partnership) (1 year) | 500.00
+14. | Registration fee for building surveying contractor level 1 or level 2 (partnership) (2 years) | 970.00
+15. | Registration fee for building surveying contractor level 1 or level 2 (partnership) (3 years) | 1 450.00
+16. | Registration fee for building surveying contractor level 1 or level 2 (company) (1 year) | 650.00
+17. | Registration fee for building surveying contractor level 1 or level 2 (company) (2 years) | 1 260.00
+18. | Registration fee for building surveying contractor level 1 or level 2 (company) (3 years) | 1 890.00
+19. | Late fee for application for renewal made after the renewal period | 50.00
 [Division 4A inserted in Gazette 12 Mar 2012 p. 1005-7.]
 ## Division 4 — Painters
 [Heading inserted in Gazette 31 Jan 2012 p. 600.]
