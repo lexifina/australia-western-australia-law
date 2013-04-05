@@ -1,4 +1,4 @@
-### 10AA. Use of scheme water in Area 2 to 31 October 2012
+### 10AA. Grass Patch and Salmon Gums, restrictions for until 31 Oct 2012
 (1) In this by-law —
 commencement day means the day on which the Water Agencies (Water Use) Amendment By-laws (No. 2) 2011, other than by-laws 1 and 2, come into operation;
 coordinate means a Map Grid of Australia (Geocentric Datum of Australia 1994) coordinate for zone 50.
