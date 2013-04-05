@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Valuation of Land Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 April 2013 of the Valuation of Land Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Valuation of Land Regulations 1979 | 6 Apr 1979 p. 928 | 1 Jul 1979 (see Gazette 11 May 1979 p. 1211)
@@ -19,7 +19,7 @@ Valuation of Land Amendment Regulations 1992 | 5 Jun 1992 p. 2362 | 1 Jul 1992 (
 Valuation of Land Amendment Regulations (No. 2) 1992 | 26 Jun 1992 p. 2809-10 | 30 Jun 1992 (see r. 2)
 Valuation of Land Amendment Regulations (No. 3) 1992 | 6 Oct 1992 p. 4949 | 6 Oct 1992
 Valuation of Land Amendment Regulations 1993 | 12 Mar 1993 p. 1586-7 | 12 Mar 1993
-Reprint of the Valuation of Land Regulations 1979 as at 23 Apr 1993 (includes amendments listed above) (correction in Gazette 28 May 1992 p. 2585)
+Reprint of the Valuation of Land Regulations 1979 as at 23 Apr 1993 (includes amendments listed above) (correction in Gazette 28 May 1993 p. 2585)
 Valuation of Land Amendment Regulations (No. 2) 1993 | 18 Jun 1993 p. 3016-7 | 30 Jun 1993 (see r. 2)
 Valuation of Land Amendment Regulations 1994 | 17 Jun 1994 p. 2628-9 | 30 Jun 1994 (see r. 2)
 Valuation of Land Amendment Regulations 1995 | 27 Jun 1995 p. 2616-9 | 30 Jun 1995 (see r. 2)
@@ -37,9 +37,11 @@ Valuation of Land Amendment Regulations 2010 | 18 Jun 2010 p. 2682-3 | r. 1 and 
 Valuation of Land Amendment Regulations 2011 | 4 Mar 2011 p. 699-700 | r. 1 and 2: 4 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Valuation of Land Amendment Regulations (No. 2) 2011 | 14 Jun 2011 p. 2139 | r. 1 and 2: 14 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Valuation of Land Amendment Regulations (No. 2) 2012 | 22 Jun 2012 p. 2786 | r. 1 and 2: 22 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
-Defined Terms
+Reprint 4: The Valuation of Land Regulations 1979 as at 5 Apr 2013 (includes amendments listed above)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
+Act2
 designated for residential use3(1)
 local planning instrument3(1)
 planning zone3(1)
@@ -48,4 +50,3 @@ residential precinct3(1)
 residential zone3(1)
 rural-residential zone3(1)
 rural small-holding zone3(1)
-the Act2
