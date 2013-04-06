@@ -1,13 +1,15 @@
 Notes
-This is a compilation of the Legal Profession Conduct Rules 2010. The following table contains information about those rules.
+This is a compilation of the Legal Profession Conduct Rules 2010 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Legal Profession Conduct Rules 2010 | 19 Nov 2010 p. 5775-825 (Printers correction in Gazette 26 Nov 2010 p. 5953-4) | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
-Defined Terms
+Legal Profession Conduct Amendment Rules 2013 | 5 Apr 2013 p. 1465-6 | r. 1 and 2: 5 Apr 2013 (see r. 2(a)); Rules other than r. 1 and 2: 6 Apr 2013 (see r. 2(b))
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 affiliate3
 associated entity, in relation to a law practice,9(1)
+authorised deposit-taking institution15(1)
 client documents3
 client information9(1)
 compromise3
@@ -22,6 +24,7 @@ instructing practitioner3
 insurance company3
 judicial officer49(1)
 law practice,3
+listed public unit trust15(1)
 matter3
 opponent3
 order3
