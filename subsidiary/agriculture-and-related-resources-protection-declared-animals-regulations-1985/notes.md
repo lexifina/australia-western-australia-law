@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Agriculture and Related Resources Protection (Declared Animals) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 12 April 2013 of the Agriculture and Related Resources Protection (Declared Animals) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Agriculture and Related Resources Protection (Declared Animals) Regulations 1985 | 19 Jul 1985 p. 2523-32 | 19 Jul 1985
@@ -22,12 +22,14 @@ Agriculture and Related Resources Protection (Declared Animals) Amendment Regula
 Agriculture and Related Resources Protection (Repeals and Amendments) Regulations 2010 Pt. 5 | 17 Dec 2010 p. 6403-32 | 18 Dec 2010 (see r. 2(b) and Gazette 17 Dec 2010 p. 6349)
 Agriculture and Related Resources Protection (Declared Animals) Amendment Regulations 2011 | 30 Jun 2011 p. 2691-2 | r. 1 and 2: 30 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Agriculture and Related Resources Protection (Declared Animals) Amendment Regulations 2012 | 19 Jun 2012 p. 2633 | r. 1 and 2: 19 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 3: The Agriculture and Related Resources Protection (Declared Animals) Regulations 1985 as at 12 Apr 2013 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Biosecurity and Agriculture Management Regulations 2013 r. 137(c), 138 and 140 | 5 Feb 2013 p. 465-591 | 1 May 2013 (see r. 2(b) and Gazette 5 Feb 2013 p. 823)
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management Regulations 2013 r. 137(c), 138 and 140 had not come into operation. They read as follows:
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
+On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management Regulations 2013 r. 137(c), 138 and 140 had not come into operation. They read as follows:
 137.Regulations repealed
 These regulations are repealed:
 (c) Agriculture and Related Resources Protection (Declared Animals) Regulations 1985;
@@ -43,3 +45,8 @@ repealed regulations means the Agriculture and Related Resources Protection (Dec
 (a) any permit issued under regulation 4 or 13 of the repealed regulations and of effect immediately before the commencement day has effect as if it were a permit under these regulations;
 (b) any application for the issue, renewal or variation of a permit under the repealed regulations that was lodged but not finally dealt with before the commencement day has effect as if it were an application for the issue, renewal or variation of a permit under these regulations;
 (c) any application for permission under regulation 20 of the repealed regulations that was made but not finally dealt with before the commencement day has effect as if it were an application for the issue of a permit under these regulations.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+metropolitan area2
+permit2
