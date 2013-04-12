@@ -1,6 +1,6 @@
 ## Schedule 3 — Category A6 birds that are exempt from permit fees
 [r. 16]
-Common Name | Scientific Name
+Common name | Scientific name
 Canary, Yellow-fronted; Green Singing Finch | Serinus mozambicus
 Cockatoo, Sulphur-crested | Cacatua galerita
 Conure, Jandaya | Aratinga jandaya
