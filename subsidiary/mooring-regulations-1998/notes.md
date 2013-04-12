@@ -1,10 +1,10 @@
 Notes
-This is a compilation of the Mooring Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 12 April 2013 of the Mooring Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Mooring Regulations 1998 | 11 Dec 1998 p. 6659-78 | 11 Dec 1998
 Mooring Amendment Regulations 2001 | 27 Jul 2001 p. 3801 | 1 Aug 2001 (see r. 2)
-Mooring Amendment Regulations 2002 | 14 Jun 2002 p. 2819-20 | 1 Jul 2002 (see r. 2)
+Mooring Amendment Regulations 2002 | 14 Jun 2002 p. 2319-20 | 1 Jul 2002 (see r. 2)
 Mooring Amendment Regulations 2003 | 28 Feb 2003 p. 677 | 28 Feb 2003
 Mooring Amendment Regulations (No. 2) 2003 | 27 Jun 2003 p. 2535 | 1 Jul 2003 (see r. 2)
 Reprint 1: The Mooring Regulations 1998 as at 8 Aug 2003 (includes amendments listed above)
@@ -20,17 +20,16 @@ Mooring Amendment Regulations 2010 | 4 Jun 2010 p. 2473 | r. 1 and 2: 4 Jun 2010
 Mooring Amendment Regulations 2011 | 21 Jun 2011 p. 2229-30 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Mooring Amendment Regulations 2012 | 14 Feb 2012 p. 668-9 | r. 1 and 2: 14 Feb 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Feb 2012 (see r. 2(b))
 Mooring Amendment Regulations (No. 2) 2012 | 15 Jun 2012 p. 2524 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+Reprint 3: The Mooring Regulations 1998 as at 12 Apr 2013 (includes amendments listed above)
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 additional vessel2
 approved2
 certificate of registration2
-commencement day30(1)
 Director General2
-existing mooring30(1)
 length2
 licensed vessel2
 mooring2
@@ -38,8 +37,8 @@ mooring control area2
 mooring licence2
 mooring licensee2
 overall length2
+previous licensee21(1)
 register2
 registered mooring site2
 tender6(4)
-the previous licensee21(1)
 waiting list2
