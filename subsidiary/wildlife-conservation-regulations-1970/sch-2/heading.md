@@ -1,5 +1,5 @@
 ## Second Schedule
-Fees for licenses to import fauna and other animals
+## Fees for licences to import fauna and other animals
 [Heading amended in Gazette 31 May 1991 p. 2654.]
 1.No fee is payable in respect of the bringing into this State of any fauna that is a family pet from another State or Territory if the fauna has been lawfully obtained and kept in the State or Territory of origin.
 1A.No fee is payable in respect of the bringing into the State from another State or a Territory of scientific specimens of fauna or of articles (such as carved emu eggs or tanned kangaroo skins) that are the personal property of a person who does not intend to use them for any commercial purpose, including sale, lease, hire or exchange, if the fauna or articles have been lawfully obtained and kept in the State or Territory of origin.
