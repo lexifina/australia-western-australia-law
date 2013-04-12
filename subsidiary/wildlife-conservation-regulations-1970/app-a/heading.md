@@ -1,5 +1,5 @@
 ## Appendix A
-[Forms 1 to 13 deleted]
+[Forms 1 to 13 deleted in Gazette 31 May 1991 p. 2654.]
 Form 14
 WILDLIFE CONSERVATION ACT 1950
 (Regulation 61)
@@ -12,50 +12,40 @@ After 14 days from the date of this notice I shall take the said fauna/flora/dev
 Any person making a claim to ownership may appear before the Justice and make such proper representations as he may think fit.
 ..........................................
 Wildlife Officer.
+[Form 14 amended in Gazette 24 Dec 1976 p. 5059; 31 May 1991 p. 2654.]
 Form 15
 WILDLIFE CONSERVATION ACT 1950
 (Regulation 61)
 APPLICATION FOR AN ORDER FOR FORFEITURE
-I, .............................................................................................................................
-Wildlife Officer for the State of Western Australia do hereby make application to ............................................................................................................................
-............................................................................. for an order for forfeiture of the
-following fauna/flora/illegal devices ...................................................... found by
-.............................................................. at .............................................................
-on........................................................... in accordance with the provisions of the
-Wildlife Conservation Act 1950. I have given the prescribed notice of the finding of the ..........................................................................................................
-............................................ in accordance with the requirements of the said Act.
+I, ............................................................................................................................. Wildlife Officer for the State of Western Australia do hereby make application to ............................................................................................................................ ............................................................................. for an order for forfeiture of the following fauna/flora/illegal devices ...................................................... found by .............................................................. at ............................................................. on........................................................... in accordance with the provisions of the Wildlife Conservation Act 1950. I have given the prescribed notice of the finding of the .......................................................................................................... ............................................ in accordance with the requirements of the said Act.
 ..........................................
 Wildlife Officer.
 ORDER FOR FORFEITURE
-Being satisfied that there are reasonable grounds for believing that the ...............
-were used or intended to be used, and/or the ................................. were taken, in
-contravention of the said Act, I do hereby condemn the ................................... as
-forfeited to the Crown.
+Being satisfied that there are reasonable grounds for believing that the ............... were used or intended to be used, and/or the ................................. were taken, in contravention of the said Act, I do hereby condemn the ................................... as forfeited to the Crown.
 Given under my hand at ................................................... in the said State this ........................................................... day of .................................. 20 ..........
 ........................................................
-Justice of the Peace
-[Forms 16 and 17 deleted]
+Justice of the Peace.
+[Form 15 amended in Gazette 24 Dec 1976 p. 5059; 31 May 1991 p. 2654.]
+[Forms 16 and 17 deleted in Gazette 31 May 1991 p. 2654.]
 Form 18
 Reg. 56E(1)(a)
 Western Australia
 Wildlife Conservation Act 1950 (as amended)
 APPLICATION FOR A COMMERCIAL PURPOSES LICENCE
 (Section 23C(1)(a))
-I, .............................................................................................................................
-of ............................................................................................................................
-hereby apply for the issue to me of a licence for Commercial Purposes pursuant to section 23C of the Wildlife Conservation Act 1950 (as amended).
+I, ............................................................................................................................. of ............................................................................................................................ hereby apply for the issue to me of a licence for commercial purposes pursuant to section 23C of the Wildlife Conservation Act 1950 (as amended).
 The land to which this application relates is as follows —
-Land District | Lot or Location No. | Property Name | Name of Local Authority
+Land district | Lot or location no. | Property name | Name of local authority
 ................................................................................................................................
-(specify and identify each piece of land to which this application relates by reference to Lot, Location, etc., and indicate name of local authority).
+(specify and identify each piece of land to which this application relates by reference to lot, location, etc., and indicate name of local authority).
 The classes or descriptions of flora to which this application relates are as follows —
-(a)Parts to be taken (e.g. flowering stems, fruits (nuts), seeds, leaves, wholeplants, cuttings or other categories) | Scientific Name | Common name (if any)
+(a)Parts to be taken (e.g. flowering stems, fruits (nuts), seeds, leaves, whole plants, cuttings or other categories) | Scientific name | Common name (if any)
 ................................................................................................................................
 The following outlines my previous experience in the industry —
 Number of years in the trade ..................................................................................
-As a Picker o Dealer oGrower o(tick box)
-On a part time oFull time o basis (tick box)
-f experience has been as a picker list areas (Shires) where flora has been picked in last 3 years
+As a picker o dealer ogrower o(tick box)
+On a part time ofull time o basis (tick box)
+If experience has been as a picker list areas (Shires) where flora has been picked in last 3 years
 ................................................................................................................................
 Description of flora taken/grown during last 3 years
 Parts of plantScientific nameCommon name
@@ -67,6 +57,7 @@ Where applicable, state period during the year in months for which licence requi
 Dated this day of 20 .
 .....................................................................
 Signature of Applicant.
+[Form 18 inserted in Gazette 18 Apr 1980 p. 1133.]
 Form 19
 Reg. 56E(1)(b)
 Western Australia
@@ -80,16 +71,17 @@ hereby apply for the issue to me of a licence for
 (insert type of licence required)
 pursuant to section 23C of the Wildlife Conservation Act 1950 (as amended).
 The land to which this application relates is as follows —
-Land District | Lot or Location No. | Property Name | Name of Local Authority
+Land district | Lot or location no. | Property name | Name of local authority
 ................................................................................................................................
 (specify and identify each piece of land to which this application relates by reference to lot, location, etc., and indicate name of local authority.)
 The classes or descriptions of flora to which this application relates are as follows —
-(a)Parts to be taken (e.g. flowering stems, fruits (nuts), seeds, leaves, wholeplants, cuttings or other categories). | Scientific Name | Common name (if any)
+(a)Parts to be taken (e.g. flowering stems, fruits (nuts), seeds, leaves, whole plants, cuttings or other categories). | Scientific name | Common name (if any)
 ................................................................................................................................
 Where applicable, state period during the year in months for which licence required.
 Dated thisday of20 .
 .....................................................
 Signature of Applicant.
+[Form 19 inserted in Gazette 18 Apr 1980 p. 1134.]
 Form 20
 Reg. 56F
 Western Australia
@@ -102,15 +94,15 @@ hereby apply for the issue to me of a licence as a
 ................................................................................................................................
 (specify whether commercial producer’s licence or nurseryman’s licence) pursuant to section 23D of the Wildlife Conservation Act 1950 (as amended).
 The land to which this application relates is as follows —
-Land District | Lot or Location No. | Property Name | Name of Local Authority
+Land district | Lot or location no. | Property name | Name of local authority
 ................................................................................................................................
-(specify and identify each piece of land to which this application relates by reference to Lot, Location, etc., and indicate name of local authority.)
+(specify and identify each piece of land to which this application relates by reference to lot, location, etc., and indicate name of local authority.)
 The classes or descriptions of flora to which this application relates are as follows —
-(a)Parts to be taken (e.g. flowering stems, fruits (nuts), seeds, leaves, wholeplants, cuttings or other categories). | Scientific Name | Common name (if any)
+(a)Parts to be taken (e.g. flowering stems, fruits (nuts), seeds, leaves, whole plants, cuttings or other categories). | Scientific name | Common name (if any)
 ................................................................................................................................
 Where applicable, state period during the year in months for which licence required.
 Dated thisday of20 .
 ............................................................
 Signature of Applicant.
-[Appendix A amended in Gazette 6 Oct 1972 p. 4027; 5 Oct 1973 p. 3663; 24 Dec 1976 p. 5052 and 5059; 27 Mar 1981 p. 1045-54; 1 Jun 1990 p. 2483, 2484 and 2486; 31 May 1991 p. 2654.]
+[Form 20 inserted in Gazette 18 Apr 1980 p. 1134.]
 [Appendix B deleted in Gazette 31 May 1991 p. 2654.]

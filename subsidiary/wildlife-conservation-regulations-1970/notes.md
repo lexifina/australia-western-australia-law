@@ -1,20 +1,20 @@
 Notes
-This is a compilation of the Wildlife Conservation Regulations 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any previous reprints.
+This reprint is a compilation as at 12 April 2013 of the Wildlife Conservation Regulations 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fauna Conservation Regulations | 18 Nov 1970 p. 3547-85 | 18 Nov 1970
- | 18 Aug 1972 p. 3153 | 18 Aug 1972
- | 6 Oct 1972 p. 4026-7 | 6 Oct 1972
- | 4 May 1973 p. 1118-19 | 4 May 1973
- | 5 Oct 1973 p. 3663 | 1 Nov 1973
- | 24 Dec 1976 p. 5047-59 | 1 Jan 1977
- | 4 Feb 1977 p. 341 | 4 Feb 1977
- | 12 Aug 1977 p. 2612 | 12 Aug 1977
- | 2 Jun 1978 p. 1685 | 1 Jul 1978
- | 21 Jul 1978 p. 2642-6 | 1 Aug 1978
- | 11 Aug 1978 p. 2883 | 11 Aug 1978
- | 16 Mar 1979 p. 694-5 | 16 Mar 1979
- | 18 Apr 1980 p. 1132-4 | 28 Apr 1980 (see Gazette 18 Apr 1980 p. 1115)
+Untitled regulations | 18 Aug 1972 p. 3153 | 18 Aug 1972
+Untitled regulations | 6 Oct 1972 p. 4026-7 | 6 Oct 1972
+Untitled regulations | 4 May 1973 p. 1118-19 | 4 May 1973
+Untitled regulations | 5 Oct 1973 p. 3663 | 1 Nov 1973
+Untitled regulations | 24 Dec 1976 p. 5047-59 | 1 Jan 1977
+Untitled regulations | 4 Feb 1977 p. 341 | 4 Feb 1977
+Untitled regulations | 12 Aug 1977 p. 2612 | 12 Aug 1977
+Untitled regulations | 2 Jun 1978 p. 1685 | 1 Jul 1978
+Untitled regulations | 21 Jul 1978 p. 2642-6 | 1 Aug 1978
+Untitled regulations | 11 Aug 1978 p. 2883 | 11 Aug 1978
+Untitled regulations | 16 Mar 1979 p. 694-5 | 16 Mar 1979
+Untitled regulations | 18 Apr 1980 p. 1132-4 | 28 Apr 1980 (see Gazette 18 Apr 1980 p. 1115)
 Wildlife Conservation Amendment Regulations 1981 | 27 Mar 1981 p. 1045-54 | 27 Mar 1981
 Wildlife Conservation Amendment Regulations (No. 2) 1981 | 16 Oct 1981 p. 4323-5 | 16 Oct 1981
 Reprint of the Wildlife Conservation Regulations 1970 dated 23 Feb 1982 (see Gazette 8 Mar 1982 p. 747-800) (includes amendments listed above except those in the Wildlife Conservation Amendment Regulations (No. 2) 1981)
@@ -25,21 +25,22 @@ Wildlife Conservation Amendment Regulations (No. 2) 1989 | 18 Aug 1989 p. 2763-4
 Wildlife Conservation Amendment Regulations 1990 | 1 Jun 1990 p. 2477-86 (erratum 15 Jun 1990 p. 2722) | 1 Jun 1990
 Wildlife Conservation Amendment Regulations 1991 | 31 May 1991 p. 2649-54 | 1 Jun 1991 (see r. 1)
 Wildlife Conservation Amendment Regulations (No. 2) 1991 | 15 Nov 1991 p. 5804-6 | 15 Nov 1991
-Reprint of the Wildlife Conservation Regulations 1970 as at 30 Jan 1992 (includes amendments listed above) (Errata to Reprint in Gazette 15 Jan 1993 p. 169)
+Reprint of the Wildlife Conservation Regulations 1970 as at 30 Jan 1992 (includes amendments listed above) (errata in Gazette 15 Jan 1993 p. 169)
 Wildlife Conservation Amendment Regulations 1992 | 9 Oct 1992 p. 4970-3 | 9 Oct 1992
 Wildlife Conservation Amendment Regulations 2001 | 14 Aug 2001 p. 4237-8 | 14 Aug 2001
 Conservation and Land Management Regulations 2002 r. 115(c) | 3 May 2002 p. 2233-308 | 3 May 2002
 Reprint of the Wildlife Conservation Regulations 1970 as at 7 Jun 2002 (includes amendments listed above)
 Wildlife Conservation Amendment Regulations 2002 | 24 Sep 2002 p. 4763-6 | 24 Sep 2002
 Wildlife Conservation Amendment Regulations 2003 | 4 Feb 2003 p. 323-6 | 4 Feb 2003
-Standardisation of Formatting Act 2010 s. 42(2) assented 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Standardisation of Formatting Act 2010 s. 51 assented 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Wildlife Conservation Amendment Regulations 2012 | 7 Dec 2012 p. 5977-80 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2012 (see r. 2(b) and Gazette 7 Dec 2012 p. 5963)
-Now know as the Zoological Parks Authority.
+Reprint 4: The Wildlife Conservation Regulations 1970 as at 12 Apr 2013 (includes amendments listed above)
+The requirement to appoint an Executive Director was removed from the Act and references to the Executive Director were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
+Now known as the Zoological Parks Authority.
 Repealed by the Zoological Parks Authority Act 2001.
-Under the Financial Administration Legislation Amendment Act 1993 s. 17(a) a reference to the Consolidated Revenue Fund or the General Loan and Capital Works Fund is to be construed, or to have effect, as if it had been amended to be a reference to the Consolidated Fund. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
+Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Wildlife Conservation Regulations 1970; citation changed (see note under r. 1).
 The Conservation and Land Management Regulations 2002 r. 116 reads as follows:
-“
 116.Saving
 (1) Nothing in this regulation is to be construed so as to limit the operation of the Interpretation Act 1984.
 (2) The repeal of a former provision does not affect any document or appointment made or anything done under any provision so repealed so far as it is subsisting or in force at the time of the repeal and could have been made or done under these regulations.
@@ -49,11 +50,10 @@ The Conservation and Land Management Regulations 2002 r. 116 reads as follows:
 (b) any licence granted under Part 5 of the Conservation and Land Management Regulations 1992.
 (5) In subregulation (1) —
 former provision means a provision repealed by regulation 114 or 115.
-”.
 The commencement date referred to in r. 2 was before the date of gazettal.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 abandoned juvenile fauna28A(5)
 advanced avicultural licence3
 affix3
