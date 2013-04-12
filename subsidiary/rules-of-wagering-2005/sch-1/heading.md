@@ -1,11 +1,11 @@
 ## Schedule 1 — Scale of Deduction Table
 [r. 56]
-1.The following Table is the table referred to in rule 56 and is to be used to determine the rate % of deduction in situations where it is not possible for the stewards to declare a deduction in accordance with rule 56(3). In that case the stewards may declare a deduction for the purposes of rule 56(2)(b) in accordance with this Scale of Deduction Table. Calculations can be made in respect of win, place, each-way, concession and doubles wagers. Rate % of deduction (cent in $) from the dividend payable in respect of the wager. (Note: For the purpose of this Table, the win component of an each-way wager is to be taken as win wager and the place component a place wager).
+1.The following Table is the table referred to in rule 56 and is to be used to determine the rate % of deduction in situations where it is not possible for the stewards to declare a deduction in accordance with rule 56(3). In that case the stewards may declare a deduction for the purposes of rule 56(2)(b) in accordance with this Scale of Deduction Table. Calculations can be made in respect of win, place, each way, concession and doubles wagers. Rate % of deduction (cent in $) from the dividend payable in respect of the wager. (Note: For the purpose of this Table, the win component of an each way wager is to be taken as win wager and the place component a place wager).
 2.Generally, the deduction is applied to the face value of a bet made prior to the time it became known that a runner was a late scratched runner.
 3.In relation to concession bets, the deduction is applied only —
 (a)in respect of a runner that comes first; and
 (b)to the amount of winnings payable.
-4.With regard to all successful win, place, each-way, concession and multiple doubles wagers, investors are to be paid the dividend payable in respect of the wager, less the number of cents in the dollar deduction applicable on the scale of deductions in the Scale of Deduction Table for the dividends of the runner at the time of its withdrawal.
+4.With regard to all successful win, place, each way, concession and multiple doubles wagers, investors are to be paid the dividend payable in respect of the wager, less the number of cents in the dollar deduction applicable on the scale of deductions in the Scale of Deduction Table for the dividends of the runner at the time of its withdrawal.
 5.Where 2 or more withdrawals occur simultaneously during wagering, successful wagers made prior to the time of withdrawal are to be paid the dividend payable in respect of the wager, less a deduction determined by adding together the rates of deduction applicable to each of the runners withdrawn.
 6.Where withdrawals occur at different times during wagering on a race, successful wagers placed prior to the last withdrawal are to be paid the dividend payable in respect of the wager, less deductions determined as follows —
 (a)for wagers placed prior to the first withdrawal, the rate of deduction is to be determined by adding together the rates of deduction applicable to the dividends of all withdrawn runners;
@@ -14,7 +14,7 @@
 (a)if there is sufficient time, declare all wagers made on the remaining runners to be void and order that wagering on the race be re-opened; or
 (b)if there is insufficient time to re open wagering, declare a deduction assessed from the Scale of Deduction Table.
 Table
-Dividend of withdrawn runner (for wager of $1) | Win, Doubles, Trebles deduction Cents | Place deduction where 8 or more runners Cents | Place deduction where less than 8 Runners Cents | Concession deduction Cents
+Dividend of withdrawn runner (for wager of $1) | Win, Doubles, Trebles deduction Cents | Place deduction where 8 or more runners Cents | Place deduction where less than 8 runners Cents | Concession deduction Cents
 1.05 | 0.80 | 0.30 | 0.44 | 0.70
 1.06 | 0.80 | 0.30 | 0.44 | 0.70
 1.07 | 0.80 | 0.30 | 0.44 | 0.70
