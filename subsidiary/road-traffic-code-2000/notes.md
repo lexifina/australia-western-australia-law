@@ -44,6 +44,7 @@ Road Traffic (Towed Agricultural Implements) Amendment Regulations 2010 Pt. 3 | 
 Reprint 3: The Road Traffic Code 2000 as at 7 Jan 2011 (includes amendments listed above except those in the Road Traffic Code Amendment Regulations (No. 3) 2010 r. 22 and 23)
 Road Traffic Code Amendment Regulations 2011 | 18 Mar 2011 p. 925-6 | r. 1 and 2: 18 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Mar 2011 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 2) 2011 | 30 Aug 2011 p. 3517-18 | r. 1 and 2: 30 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Aug 2011 (see r. 2(b))
+Road Traffic Code Amendment Regulations 2013 | 12 Apr 2013 p. 1533-9 | r. 1 and 2: 12 Apr 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Apr 2013 (see r. 2(b))
 Repealed by the Dangerous Goods Safety Act 2004.
 Repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
@@ -62,6 +63,7 @@ agricultural implement289(3)
 agricultural machine289(3)
 alcohol ignition interlock device3(1)
 appliance181(4)(b)
+appropriate vehicle230B(2)
 arrester bed91A(1)
 articulated vehicle3(1)
 AS/NZS:1754-1991230
@@ -94,6 +96,7 @@ child restraint230
 child safety harness230
 children’s crossing3(1)
 combination3(1)
+commercial operator or operator230A
 continuing road3(1)
 continuous dividing line176(12)
 dangerous goods184(4)
@@ -104,11 +107,15 @@ dipping device3(1)
 dividing line3(1)
 dividing strip3(1)
 edge line3(1)
+electric personal transporter3(1)
+electric personal transporter use area3(1)
 emergency stopping lane3(1)
 emergency vehicle3(1)
 emergency worker283(2)
 “end of heavy vehicle speed zone” sign3(1)
 “end trucks and buses low gear” sign90(3)
+EPT3(4)
+EPT use area3(4)
 fire hydrant3(1)
 footpath3(1)
 freeway3(1)
@@ -174,7 +181,7 @@ placard load184(4)
 postal vehicle3(1)
 primary brake90(3)
 produced230
-protective helmet209A(1), 222(1), 222A(1), 223A(1), 223(3), 244(1)
+protective helmet209A(1), 222(1), 222A(1), 223A(1), 223(3), 230A, 244(1)
 public bus3(1), 59(2)
 public holiday3(3)
 rear fog light3(1)
@@ -208,11 +215,13 @@ special purpose vehicle3(1)
 speed limit sign3(1)
 speed limited area3(1)
 speed zone3(1)
+staff member230A
 stop3(1)
 stop line3(1)
 stop sign3(1)
 suitable child restraint230
 suitable child safety harness230
+supervised tour230A, 230L
 taxi3(1)
 taxi zone3(1)
 terminating road3(1)
