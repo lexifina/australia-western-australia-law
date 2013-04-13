@@ -139,6 +139,7 @@ Road Traffic (Licensing) Amendment Regulations 2011 | 25 Feb 2011 p. 657-8 | r. 
 Road Traffic (Licensing) Amendment Regulations (No. 3) 2011 | 2 Dec 2011 p. 5073-4 | r. 1 and 2: 2 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2011 (see r. 2(b))
 Road Traffic (Licensing) Amendment Regulations (No. 2) 2011 | 2 Dec 2011 p. 5075 | r. 1 and 2: 2 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2011 (see r. 2(b))
 Road Traffic (Licensing) Amendment Regulations 2012 | 14 Dec 2012 p. 6207-8 | r. 1 and 2: 14 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Dec 2012 (see r. 2(b))
+Road Traffic (Licensing) Amendment Regulations (No. 2) 2013 | 12 Apr 2013 p. 1540 | r. 1 and 2: 12 Apr 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Apr 2013 (see r. 2(b) and Gazette 12 Apr 2013 p. 1533)
 Footnote no longer applicable.
 Repealed by the Motor Vehicle (Third Party Insurance) Regulations 2009.
 Revoked on 4 Oct 1974 (see Gazette 3 Oct 1974 p. 3701).
@@ -164,6 +165,8 @@ axle3(1)
 car or bus3(1)
 compliance plate3(1)
 converter dolly3(1)
+electric personal transporter 3
+electric personal transporter use area3
 goods vehicle3(1)
 goods vehicle derivativeSch. 3 cl. 1(3)
 heavy trailer3(1)
