@@ -5,7 +5,7 @@ Form 29 | WESTERN AUSTRALIA Mining Act 1978 (r. 105)
 (d)Description of document | Details of document (d)
 (e)State whether document lost, destroyed or obliterated as the case may be and the circumstances | Reason for non-production (e)
  | This declaration is true and I know that it is an offence to make a declaration knowing that it is false in a material particular.
- | This declaration is made under the Oaths, Affidavits and Statutory Declarations Act 2005 at — ...................................................................................................…. on this .................... day of ....................................... 20 ............... by —
+ | This declaration is made under the Oaths, Affidavits and Statutory Declarations Act 2005 at — ....................................................................................................... on this .................... day of ....................................... 20 ............... by —
 (f)Signature of person making declaration | (f) in the presence of —
 (g)Signature, full name and address of authorised witness (see Note 1) | (g)
 OFFICIAL USE
