@@ -1,5 +1,6 @@
 ## Schedule 1 — Prescribed offences and modified penalties
 [r. 3]
+[Heading inserted in Gazette 4 Jun 2004 p. 1930.]
 Offence | Modified penalty (individual) | Modified penalty (body corporate)
 s. 64(1) | $200 | $1 000
 s. 64(4) | $200 | $1 000
