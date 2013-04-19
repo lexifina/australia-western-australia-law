@@ -1,10 +1,10 @@
 Notes
-This is a compilation of the Land Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 19 April 2013 of the Land Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Tax Assessment Act 2002 | 52 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
 Acts Amendment (Equality of Status) Act 2003 Pt. 34 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
-Business Tax Review (Assessment) Act 2003 s. 4-8 | 40 of 2003 | 30 Jun 2003 | 1 Jul 2003 (see s. 2(1) and (2) and Gazette 27 Jun 2003 p. 2383)
+Business Tax Review (Assessment) Act 2003 Pt. 2 and s. 8 | 40 of 2003 | 30 Jun 2003 | 1 Jul 2003 (see s. 2(1) and (2) and Gazette 27 Jun 2003 p. 2383)
 Business Tax Review (Assessment) Act (No. 2) 2003 s. 109 | 66 of 2003 | 5 Dec 2003 | 1 Jul 2003 (see s. 2(5) and Gazette 27 Jun 2003 p. 2383)
 Revenue Laws Amendment and Repeal Act 2004 Pt. 2 | 12 of 2004 | 29 Jun 2004 | 1 Jul 2004 (see s. 2(2))
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 69 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
@@ -27,12 +27,14 @@ Building Act 2011 s. 164 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) an
 Metropolitan Redevelopment Authority Act 2011 s. 140 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Revenue Laws Amendment Act 2012 Pt. 4 | 29 of 2012 | 3 Sep 2012 | 4 Sep 2012 (see s. 2(e))
 Revenue Laws Amendment Act (No. 2) 2012 Pt. 4 | 32 of 2012 | 8 Oct 2012 | 1 Jul 2009 (see s. 2(c))
+Reprint 4: The Land Tax Assessment Act 2002 as at 19 Apr 2013 (includes amendments listed above)
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Under the Public Sector Management Act 1994 the designations of departments can be changed. At the time of this compilation the designation of the Department of Mines has been changed to the Department of Mines and Petroleum.
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
-Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
+Under the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8(2), this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
+The amendment in the State Superannuation Amendment Act 2007 s. 83 is not included because it was deleted by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 The Business Tax Review (Assessment) Act 2003 s. 7 and s. 10 read as follows:
 7.Financial years before the commencement day
 (1) Despite the amendments effected by this Part, the Land Tax Assessment Act 2002, as in force immediately before the commencement day, continues to apply in relation to land tax payable for financial years that commence before the commencement day.
@@ -42,10 +44,9 @@ commencement day means the day on which this Part comes into operation.
 The Commissioner of State Revenue must make any reassessment necessary to give effect to the amendments effected by this Part.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment in the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 33(4) is not included because the subsection it sought to amend had been deleted by the Revenue Laws Amendment (Taxation) Act 2009 s. 9 before the amendment purported to come into operation.
-The amendment in the State Superannuation Amendment Act 2007 s. 83 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 aged care facility38A(1)
 agentGl. cl. 1
 aggregated taxable valueGl. cl. 1
@@ -88,7 +89,7 @@ other lotsGl. cl. 2(4)
 ownerGl. cl. 1
 owner-builderGl. cl. 1
 parcelGl. cl. 1
-previous financial yearGl. cl. 6(4)
+previous financial yearGl. cl. 6(5)(a)
 primary residenceGl. cl. 1
 private residenceGl. cl. 1
 private residential propertyGl. cl. 1
