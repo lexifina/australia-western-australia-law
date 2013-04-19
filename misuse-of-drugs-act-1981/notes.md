@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Misuse of Drugs Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 19 April 2013 of the Misuse of Drugs Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Misuse of Drugs Act 1981 | 66 of 1981 | 23 Oct 1981 | 1 Sep 1982 (see s. 2 and Gazette 20 Aug 1982 p. 3250)
@@ -49,68 +49,23 @@ Misuse of Drugs (Amounts of Prohibited Drugs) Order 2012 published in Gazette 13
 Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 10 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
 Misuse of Drugs (Amounts of Prohibited Drugs) Order (No. 2) 2012 published in Gazette 30 Oct 2012 p. 5194-6 | cl. 1 and 2: 30 Oct 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 31 Oct 2012 (see cl. 2(b))
 Criminal Investigation (Covert Powers) Act 2012 Pt. 9 | 55 of 2012 | 3 Dec 2012 | 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 6: The Misuse of Drugs Act 1981 as at 19 Apr 2013 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Organisations Control Act 2012 s. 179 | 49 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
-The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 read as follows:
-3.Interpretation
-In this Act, unless the contrary intention appears —
-appeal period, in relation to a forfeiture order, has the same meaning as in the repealed Act;
-embargo notice has the same meaning as in the repealed Part;
-forfeiture order has the same meaning as in the repealed Act;
-holding order has the same meaning as in the repealed Part;
-interstate forfeiture order has the same meaning as in the repealed Act;
-interstate restraining order has the same meaning as in the repealed Act;
-repealed Act means the Crimes (Confiscation of Profits) Act 1988 as in force before its repeal by section 4;
-repealed Part means Part IV of the Misuse of Drugs Act 1981 as in force before its repeal by section 5.
-6.Applications to court under repealed law — savings
-If an application made to a court under the repealed Act or the repealed Part was not withdrawn, discontinued or otherwise finally determined before the commencement of this Act, the application may be dealt with on and after that commencement as if the repealed Act or the repealed Part had not been repealed.
-7.Court orders under repealed law — savings
-(1) If an order made by a court under the repealed Act or the repealed Part was in force immediately before the commencement of this Act, the order has effect on and after that commencement, and may be executed, varied, discharged, set aside or appealed against, as if the repealed Act or repealed Part had not been repealed.
-(2) If an interstate forfeiture order or interstate restraining order was registered under the repealed Act, and its registration was not cancelled before the commencement of this Act, Part 10 of the Criminal Property Confiscation Act 2000 applies, on and after that commencement, to the order and to any charge created under the repealed Act on the property to which the order relates, as if the order were an interstate confiscation order or interstate freezing order registered under section 118 of the Criminal Property Confiscation Act 2000 and as if the charge had been created under section 123 of the Criminal Property Confiscation Act 2000.
-8.Holding orders and embargo notices — savings
-(1) If a holding order or an embargo notice was in force under the repealed Part immediately before the commencement of this Act, the holding order or embargo notice has effect on and after that commencement, and the repealed Part continues to apply to the holding order or embargo notice, as if the repealed Part had not been repealed.
-(2) Without limiting subsection (1), if, immediately before the commencement of this Act, a person was entitled under section 19 of the Misuse of Drugs Act 1981 to apply for an order in respect of the property to which a holding order or embargo notice relates, the person may apply for the order after that commencement, and the application may be dealt with, as if the repealed Part had not been repealed.
-(3) However, subsection (2) does not entitle the person to apply for the order more than 21 days after the date of the holding order or embargo notice.
-9.Warrants issued under repealed law — savings
-If, immediately before the commencement of this Act, a warrant issued under the repealed Act or the repealed Part was capable of execution to any extent, then the warrant may be executed on and after that commencement, to that extent, as if the repealed Act or the repealed Part had not been repealed.
-10.Property subject to a forfeiture order
-(1) This section applies to property for which a forfeiture order was made under the repealed Act if —
-(a) the appeal period for the forfeiture order had not ended before the commencement of this Act; or
-(b) if the appeal period has ended (whether before or after the commencement of this Act), but the forfeiture order has not been discharged, and the property was not disposed of or otherwise dealt with under section 11(5) of the repealed Act before that commencement.
-(2) Sections 11(3), 11(4), 11(6), 12, 13 and 14 of the repealed Act continue to apply in relation to the forfeiture order and the property as if the repealed Act had not been repealed.
-(3) If the appeal period for the forfeiture order has not ended, sections 89, 90, 92 and 94 of the Criminal Property Confiscation Act 2000 apply to the property as if it were subject to a freezing order under that Act.
-(4) If the appeal period for the forfeiture order has ended, and the order has not been discharged —
-(a) sections 89, 90, 92 and 94 of the Criminal Property Confiscation Act 2000 apply to the property as if it had been confiscated under that Act; and
-(b) if the property has vested in the Crown, whether under clause 11(3)(b) or under the repealed Act, the property is to be disposed of as if it had been confiscated under the Criminal Property Confiscation Act 2000.
-(5) The following are to be paid into the Confiscation Proceeds Account established under section 130 of the Criminal Property Confiscation Act 2000 —
-(a) subject to section 11(4) of the repealed Act as continued by subsection (2), any money vested in the Crown under section 11 of the repealed Act that has not been disposed of or otherwise dealt with under the repealed Act;
-(b) any proceeds obtained by the Crown after the commencement of this Act from the disposal of property under the repealed Act;
-(c) any proceeds obtained from the disposal of property under subsection (4)(b).
-(6) Nothing in this section limits the generality of section 7(1) in its application to a forfeiture order.
-11.Real property subject to forfeiture order
-(1) If property to which section 10 applies is land registered under the Transfer of Land Act 1893, then, without limiting the application of section 10 to the property, this section also applies to the property.
-(2) If the property has not vested in the Crown under section 11 of the repealed Act, the Director of Public Prosecutions may lodge with the Registrar of Titles a memorial of the forfeiture order in a form approved by the Registrar.
-(3) When a memorial is lodged under subsection (2) —
-(a) the Registrar of Titles is to register the memorial;
-(b) on the registration of the memorial, the property vests in the State of Western Australia free from all interests, whether registered or not, including trusts, mortgages, charges, obligations and estates (except rights-of-way, easements and restrictive covenants);
-(c) any caveat in force in relation to the property is taken to have been withdrawn; and
-(d) the title in the property passes to the State.
-(4) When a memorial is lodged under subsection (2) then, in addition to registering the memorial, the Registrar of Titles is to —
-(a) register the State of Western Australia as the proprietor of the property; and
-(b) endorse the certificate of title of the property to the effect that, when the memorial was registered, the property ceased to be subject to or affected by any interests recorded on the certificate of title, including caveats, mortgages, charges, obligations and estates (except rights-of-way, easements and restrictive covenants) to which it was subject immediately before the registration of the memorial, or by which it was affected immediately before the registration of the memorial.
-(5) The Registrar of Titles may dispense with the production of any duplicate certificate of title or any duplicate instrument for the purposes of entering on the duplicate certificate or duplicate instrument any memorandum that would, but for this subsection, be required to be entered under the Transfer of Land Act 1893 as a result of registering a memorial under subsection (3) or of doing anything else required or permitted by this section.
-(6) If, under subsection (5), the Registrar of Titles dispenses with the production of a duplicate certificate of title or duplicate instrument —
-(a) the Registrar must endorse the certificate of title to the effect that the memorandum concerned has not been entered on the duplicate certificate of title or the duplicate instrument; and
-(b) any subsequent dealing in the property has effect as if the memorandum had been entered on the duplicate certificate of title or the duplicate instrument.
-(7) If, under subsection (5), the Registrar of Titles dispenses with the production of a duplicate certificate of title, then, on the application of the registered proprietor, the Registrar may cancel the certificate of title for which the duplicate was issued, and create and register a new certificate of title for the property.
-(8) The Registrar of Titles is not required to obtain the consent or direction of the Commissioner of Titles to perform a function conferred on the Registrar under this section.
-(9) To the extent that a provision of this section relating to any property is inconsistent with the Transfer of Land Act 1983, the provision prevails, but this section does not otherwise affect the operation of that Act in relation to the property.
-This should read “1893”.
-On the date as at which this compilation was prepared, the Criminal Organisations Control Act 2012 s. 179 had not come into operation. It reads as follows:
+The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 are savings and transitional provisions.
+The Criminal Investigation (Covert Powers) Act 2012 s. 108 and 109 read as follows:
+108.Term used: commencement day
+In this Part —
+commencement day means the day on which this Part comes into operation.
+109.Savings provision relating to Misuse of Drugs Act 1981
+(1) In this section —
+former authorisation means an authorisation under the Misuse of Drugs Act 1981 section 31(1) as in force immediately before the day on which Part 9 comes into operation.
+(2) A former authorisation in force immediately before the commencement day, is, on and after the commencement day, to be taken to be an authority as defined in section 5 granted on the commencement day and Part 2 applies, with any necessary modifications, to that authority.
+On the date as at which this reprint was prepared, the Criminal Organisations Control Act 2012 s. 179 had not come into operation. It reads as follows:
 179.Misuse of Drugs Act 1981 amended
 (1) This section amends the Misuse of Drugs Act 1981.
 (2) In section 32A(1):
@@ -129,24 +84,16 @@ relevant drug offence means an offence under any of the following provisions —
 (b)section 5(1)(c), where the premises are used for the purpose referred to in section 5(1)(a)(i);
 (c)sections 6(1), 7(1) and 14(1);
 (d)section 33, where the principal offence (as defined in that section) is one of the offences listed in paragraphs (a) to (c);
-The Criminal Investigation (Covert Powers) Act 2012 s. 108 and 109 read as follows:
-108.Term used: commencement day
-In this Part —
-commencement day means the day on which this Part comes into operation.
-109.Savings provision relating to Misuse of Drugs Act 1981
-(1) In this section —
-former authorisation means an authorisation under the Misuse of Drugs Act 1981 section 31(1) as in force immediately before the day on which Part 9 comes into operation.
-(2) A former authorisation in force immediately before the commencement day, is, on and after the commencement day, to be taken to be an authority as defined in section 5 granted on the commencement day and Part 2 applies, with any necessary modifications, to that authority.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 adult3(1), 8B(1)
-an amending Act44(1)
+amending Act44(1)
 analyst3(1)
 approved analyst3(1)
 approved botanist3(1)
 approved person21
-authorised person8B(1), 14(4)
+authorised person8B(1), 14(4)(a)
 authorised prescription3(1)
 botanist3(1)
 cannabis3(1)
@@ -155,13 +102,12 @@ cannabis intervention session8B(1)
 cannabis resin3(1)
 category 1 item12
 category 2 item12
-CEO (Health) 8B(1)
-CEO (Health)38D(1)
+CEO (Health) 8B(1), 38D(1)
 child3(1)
 CIN45
 CIR8B(2)
 CIS8B(2)
-claimant27(1)
+claimant27(1)(b)
 commencement day45
 Commissioner3(1)
 confidential information27B(1)
@@ -182,15 +128,14 @@ opium3(1)
 owner5(2)
 Poisons Act 19643(1)
 police officer8B(1)
-principal offence33(1), 33(3)
-principal offence33(2)
+principal offence33(1), 33(2), 33(3)
 processed industrial hemp3(1)
 prohibited drug3(1)
 prohibited plant3(1)
 recipient12
 regulations3(1)
 relevant thing27(6)
-repeal daySch. IX, cl. 1(1)
+repeal daySch. IX cl. 1(1)
 responsible adult8B(1)
 sample3(1)
 search warrant21
