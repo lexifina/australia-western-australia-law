@@ -132,6 +132,7 @@ Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Supreme Court Amendment Rules (No. 3) 2012 r. 3-8 | 3 Aug 2012 p. 3748-56 | Operative on commencement of the Trans-Tasman Proceedings Act 2010 (Cwlth) s. 3 to 110 (see r. 2(b))
 Supreme Court Amendment Rules (No. 2) 2013 r. 3-6 | 15 Mar 2013 p. 1205-7 | Operative on commencement of the Commercial Arbitration Act 2012 s. 40 (see r. 2(b))
+Supreme Court Amendment Rules 2013 r, 3-7 | 23 Apr 2013 p. 1590-7 | 7 May 2013 (see r. 2(b))
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
 Formerly referred to as The Partnership Act 1895, the short title of which was changed to the Partnership Act 1895 by the Statutes (Repeals and Minor Amendments) Act 2003 s. 144. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Gas Pipelines Access (Western Australia) Act 1998, the short title of which was changed to the Energy Arbitration and Review Act 1998 by the National Gas Access (WA) Act 2009 s. 26. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -317,6 +318,130 @@ If, under an arbitration law, the Court agrees to a request for assistance in ta
 Order 66, with any necessary changes, applies if the Court is required to assess the costs of an arbitration (other than the fees or expenses of an arbitrator).
 6.Schedule 2 amended
 In Schedule 2 delete Forms 105, 106 and 107.
+On the date as at which this compilation was prepared, the Supreme Court Amendment Rules 2013 r. 3-7 had not come into operation. They read as follows:
+3.Rules amended
+These rules amend the Rules of the Supreme Court 1971.
+4.Order 4A amended
+After Order 4A rule 11(a) insert:
+(ba) any case in which there is an application for —
+(i) judicial review to which Order 56 applies; or
+(ii) a review order under the Magistrates Court Act 2004 section 36;
+(iii) a writ of habeas corpus or an information of quo warranto;
+5.Order 56 heading replaced
+Delete the heading to Order 56 and insert:
+Order 56 — Judicial review
+6.Order 56 amended
+(1) Delete Order 56 rules 1 to 9 and insert:
+1.Terms used
+(1) In this Order, unless the contrary intention appears —
+adequate reasons, for a decision, means a document that —
+(a)states any findings on material questions of fact that led to the decision and refers to the evidence or other material on which those findings were made; and
+(b)states the reasons for the decision;
+application means an application for judicial review of a reviewable decision or of reviewable conduct;
+challenged conduct means reviewable conduct in respect of which an application is made;
+challenged decision means a reviewable decision in respect of which an application is made;
+conduct includes any act and any omission;
+limitation period —
+(a)for an application for judicial review of a reviewable decision, means 6 months after the later of —
+(i)the date on which the decision is made; or
+(ii)the date on which the applicant became aware of it;
+(b)for an application for judicial review of reviewable conduct, other than a failure to make a decision, means 6 months after the later of —
+(i)the date on which the conduct occurred; or
+(ii)the date on which an applicant became aware of it,
+unless a written law sets a different period, in which case it means that period;
+remedy includes relief;
+reviewable conduct means any conduct, including conduct for the purpose of making a decision and a failure to make a decision, that the Court, under the common law or in equity, has jurisdiction to review and to grant relief in respect of by way of a writ, a declaration or an injunction;
+reviewable decision means any decision that the Court, under the common law or in equity, has jurisdiction to review and to grant relief in respect of by way of a writ, a declaration or an injunction;
+writ means a writ of certiorari, mandamus, prohibition or procedendo or an information of quo warranto.
+(2) For the purposes of paragraph (a) of the definition of limitation period in subrule (1), it does not matter if on the relevant date —
+(a) the reviewable decision is not or had not been extracted or given in writing; or
+(b) adequate reasons for the reviewable decision are not or had not been given.
+2.Application, making
+(1) To make an application, a person must file an application in the form of Form No. 67A.
+(2) In one application a person may apply for any or a combination of these remedies —
+(a) one or more writs;
+(b) either a declaration or an injunction or both;
+(c) a remedy having the same effect as a remedy that could be provided by means of a writ.
+(3) An application must state the grounds on which it is made.
+(4) If an application is made outside the limitation period for the application —
+(a) the application must include an application for leave to proceed with the application; and
+(b) the applicant must file an affidavit explaining why the application was not made within the limitation period.
+(5) If adequate reasons for a challenged decision have not been given when an application is made for judicial review of it, the application may include an application for an order that the person who made it must give adequate reasons.
+3.Application, service of
+After making an application, the applicant must serve it, by personal service, on —
+(a) the person who made the challenged decision or engaged in the challenged conduct; and
+(b) any person who was a party to the proceedings in which the challenged decision was made or the challenged conduct occurred.
+4.Person served with application, options of
+A person served with an application may —
+(a) enter an appearance under Order 12, which applies with any necessary changes; or
+(b) file, and serve on the applicant, a notice stating the person does not intend to take part in the proceedings and will accept any order made by the Court on the application other than as to costs.
+5.Procedure on application
+(1) The applicant and any person served with an application are entitled to be heard on it.
+(2) On an application, the Court may do one or more of the following —
+(a) if the application is made outside the limitation period for the application, give or refuse the applicant leave to proceed with the application;
+(b) order the applicant to serve the application on a person whom the Court considers might have an interest in the challenged decision, the challenged conduct or the outcome of the application;
+(c) if adequate reasons for the challenged decision have not been given, order the person who made it to give adequate reasons for it to any or all of the following —
+(i) the Court;
+(ii) the applicant;
+(iii) a person served with the application;
+(d) prohibit or restrict the disclosure of the reasons for the challenged decision or any part of them;
+(e) order the applicant or any other person to file an affidavit as to any facts material to the application, the challenged decision or the challenged conduct;
+(f) give the applicant leave to file and rely on an affidavit (whether or not made by the applicant);
+(g) allow a person not served with the application to be heard on it;
+(h) give the applicant leave to require a person served with the application to give discovery under Order 26;
+(i) give the applicant leave to require a person served with the application to answer interrogatories under Order 27;
+(j) allow the applicant to amend the application;
+(k) adjourn the hearing of the application;
+(l) refuse the whole or a part of the application if it has no reasonable prospect of succeeding;
+(m) grant or refuse the application;
+(n) if it considers the remedy applied for would be inadequate, grant any other remedy.
+(3) Subrule (2) does not limit the operation of Order 4A or the powers of the Court when dealing with an application.
+(4) A single judge dealing with an application may, without deciding it, order it be heard by the Court of Appeal.
+6.Discovery and interrogatories
+Orders 26 and 27 do not apply in proceedings on an application unless and to the extent the Court, under rule 5(2) or Order 4A, gives leave and orders otherwise.
+7.Costs
+(1) The Court may make an order for the payment of the costs of the proceedings on an application against one or more of these persons —
+(a) the applicant;
+(b) the person who made the challenged decision or engaged in the challenged conduct;
+(c) a person served with the application;
+(d) a person not served with the application whom the Court allowed to be heard on it.
+(2) Subject to rule 24, the Court may make such an order before, when or after deciding the application.
+(2) In Order 56 rule 10(1):
+(a) delete “in proceedings to which this Order relates” and insert:
+on an application
+(b) delete paragraph (a) and insert:
+(a) be prepared by the applicant; and
+(3) Delete Order 56 rules 11, 12 and 13.
+(4) In Order 56 rule 15(1) delete “An order nisi for a writ” and insert:
+A writ
+(5) In Order 56 rule 25 delete “order nisi or”.
+(6) In Order 56 rule 26 delete “to whom the notice of motion, order nisi or” and insert:
+who made the challenged decision or to whom the
+(7) Delete Order 56 rule 27.
+(8) Delete the heading to Order 56 Division 4 and insert:
+Division 4 — Prohibition and procedendo
+(9) At the beginning of Order 56 Division 5 insert:
+34A.Application for information of quo warranto
+To apply for an information of quo warranto without applying for judicial review, a person must apply ex parte by originating motion.
+(10) Delete Order 56 rule 35(2) and insert:
+(2) A copy of the information must be served on the respondent or, if he or she appeared by a lawyer, on the lawyer.
+7.Schedule 2 amended
+In Schedule 2 after Form 66 insert:
+67A.Application for judicial review (O. 56 r. 2)
+In the Supreme Court of Western Australia | No:
+Application for judicial review
+Applicant
+Respondent | Name: Office:
+Other parties
+Decision or conduct to be reviewed | Date: Where made or occurring: Written law governing: Description:
+Application [Tick one or more] | The applicant applies for judicial review of the above decision or conduct and — pa writ of certiorari; pa writ of mandamus; pa writ of prohibition; pa writ of procedendo; pan information of quo warranto; pa declaration; pan injunction; pthis remedy (being a remedy which would have the same effect as a remedy that could be provided by means of one or more of the above writs) —
+Grounds of application | The grounds for the above application are these — 1.
+Late application | pThe applicant also applies for leave to proceed with this application which is made outside the limitation period.
+Reasons for decision | pThe applicant also applies for an order that the maker of the challenged decision give adequate reasons for it.
+Signature of applicant or lawyer | Applicant/Applicant’s lawyer | Date:
+Notes to Form No. 67A —
+1.The respondent is the person whose decision or conduct is to be reviewed.
+2.Tick only if necessary.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
