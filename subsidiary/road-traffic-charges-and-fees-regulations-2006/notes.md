@@ -34,12 +34,9 @@ Reprint 3: The Road Traffic (Charges and Fees) Regulations 2006 as at 19 Oct 201
 Road Traffic (Charges and Fees) Amendment Regulations (No. 7) 2012 | 23 Nov 2012 p. 5722 | r. 1 and 2: 23 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 10) 2012 | 30 Nov 2012 p. 5803-4 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 8) 2012 | 30 Nov 2012 p. 5804-5 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jan 2013 (see r. 2(b))
+Road Traffic (Charges and Fees) Amendment Regulations 2013 | 5 Feb 2013 p. 838-9 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b)(i) and Gazette 5 Feb 2013 p. 823)
 Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2013 | 8 Feb 2013 p. 870-1 | r. 1 and 2: 8 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2013 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 9) 2012 | 19 Feb 2013 p. 994-5 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Road Traffic (Charges and Fees) Amendment Regulations 2013 r. 3 and 4 | 5 Feb 2013 p. 838-9 | 1 May 2013 (see r. 2(b) and Gazette 5 Feb 2013 p. 823)
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2007 r. 3 reads as follows:
@@ -60,12 +57,6 @@ For the purposes of section 28A of the Act, the specified day in relation to the
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 4) 2012 r. 4 reads as follows:
 4.Specified day
 For the purposes of section 28A of the Act, the specified day in relation to these regulations is 1 July 2012.
-On the date as at which this compilation was prepared, the Road Traffic (Charges and Fees) Amendment Regulations 2013 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Road Traffic (Charges and Fees) Regulations 2006.
-4.Regulation 13 amended
-In regulation 13(a) delete “Beekeepers Act 1963” and insert:
-Biosecurity and Agriculture Management Regulations 2013
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
