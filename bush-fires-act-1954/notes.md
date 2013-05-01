@@ -47,16 +47,16 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Reprint 7: The Bush Fires Act 1954 as at 3 Mar 2006 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 14 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Land Information Authority Act 2006 s. 126 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 28 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Bush Fires Amendment Act 2009 Pt. 2 | 25 of 2009 | 17 Nov 2009 | 1 Dec 2009 (see s. 2(b) and Gazette 1 Dec 2009 p. 4829)
 Arson Legislation Amendment Act 2009 Pt. 2 | 43 of 2009 | 3 Dec 2009 | 19 Dec 2009 (see s. 2(b) and Gazette 18 Dec 2009 p. 5167)
-Reprint 8: The Bush Fires Act 1954 as at 9 Apr 2010 (includes amendments listed above)
+Reprint 8: The Bush Fires Act 1954 as at 9 Apr 2010 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
 Standardisation of Formatting Act 2010 s. 43(3) and 52 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 3 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 28 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Standardisation of Formatting Act 2010 s. 52(4) | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 4 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
@@ -66,17 +66,7 @@ The Bush Fires Amendment Act 1992 s. 6(2) reads as follows:
 (2) Where, immediately before the commencement of this Act, a delegation was in force under section 9(1)(a) or (c) of the principal Act, the delegation shall, on and after that commencement, be deemed to be a delegation to the Chief Executive Officer under section 9(1)(a) of the principal Act as in force after that commencement, and may be varied or revoked accordingly.
 The Fire and Emergency Services Authority of Western Australia (Consequential Provisions) Act 1998 s. 11(2) is a transitional provision that is of no further effect.
 The Fire and Emergency Services Legislation Amendment Act 2002 s. 27(2) and (3) are transitional provisions that are of no further effect.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 28 had not come into operation. It reads as follows:
-28.Bush Fires Act 1954 amended
-(1) The amendments in this section are to the Bush Fires Act 1954.
-(2) Section 26(5) is repealed and the following subsection is inserted instead —
-“
-(5) In this section “plant” does not include a plant that is a declared pest as that term is defined by the Biosecurity and Agriculture Management Act 2007.
-”.
-(3) Section 26A(1) is amended by deleting “A plant that is a declared plant within the meaning of the Agriculture and Related Resources Protection Act 1976” and inserting instead —
-“
-A plant that is a declared pest as that term is defined by the Biosecurity and Agriculture Management Act 2007
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 52(4) had not come into operation. It reads as follows:
 52.Bush Fires Act 1954 amended
 (4) Amend the provisions listed in the Table as set out in the Table.

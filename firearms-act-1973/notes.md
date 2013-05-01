@@ -34,16 +34,13 @@ Psychologists Act 2005 s. 108 | 28 of 2005 | 12 Dec 2005 | 4 May 2007 (see s. 2 
 Nurses and Midwives Act 2006 s. 114 | 50 of 2006 | 6 Oct 2006 | 19 Sep 2007 (see s. 2 and Gazette 18 Sep 2007 p. 4711)
 Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 30A | 24 of 2007 (as amended by No. 46 of 2010 s. 59) | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Security and Related Activities (Control) Amendment Act 2008 s. 81 | 4 of 2008 | 2 Apr 2008 | 13 Dec 2009 (see s. 2(b) and Gazette 4 Dec 2009 p. 4919)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
-Reprint 5: The Firearms Act 1973 as at 9 Jan 2009 (includes amendments listed above except those in the Security and Related Activities (Control) Amendment Act 2008 s. 81)
+Reprint 5: The Firearms Act 1973 as at 9 Jan 2009 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 30A and the Security and Related Activities (Control) Amendment Act 2008 s. 81)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 58 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 20 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Agriculture and Related Resources Protection Amendment Act 2010 s. 69 | 46 of 2010 | 28 Oct 2010 | 18 Dec 2010 (see s. 2(b) and Gazette 17 Dec 2010 p. 6349)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 30A | 24 of 2007 (as amended by No. 46 of 2010 s. 59) | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 The provision in this Act repealing the Firearms and Guns Act 1931 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 is a savings and transitional provision that is of no further effect.
 The Firearms Amendment Act 1996 s. 9(2), 10(2), 11(2), 15(2), 39 and 53 are transitional, savings and related provisions that are of no further effect.
@@ -62,13 +59,6 @@ The Firearms Amendment Act 2004 s. 15(3) reads as follows:
 ”.
 The Firearms Amendment Act 2004 s. 22(4)(a) and 26 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 59.
 Section 37 of the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 had not come into operation when it was deleted by the Agriculture and Related Resources Protection Amendment Act 2010 s. 62.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 30A had not come into operation. It reads as follows:
-30A.Firearms Act 1973 amended
-(1) This section amends the Firearms Act 1973.
-(2) Delete section 17B(3)(c) and insert:
-(c) shall not use a silencer otherwise than in conjunction with a .22 calibre rifle named and identified in the Corporate Licence referred to in subsection (7) for the purpose of shooting birds that are declared pests under the Biosecurity and Agriculture Management Act 2007;
-(3) In section 17B(8) delete the definition of agriculture inspector and insert:
-agriculture inspector means an inspector appointed under the Biosecurity and Agriculture Management Act 2007 section 162;
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

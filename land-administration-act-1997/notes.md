@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 16 November 2012 of the Land Administration Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Land Administration Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Administration Act 1997 | 30 of 1997 | 3 Oct 1997 | s. 1 and 2: 3 Oct 1997; Act other than s. 1 and 2: 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
@@ -31,30 +31,29 @@ Reprint 3: The Land Administration Act 1997 as at 15 Sep 2006 (includes amendmen
 Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
 Land Information Authority Act 2006 s. 139 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 93 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 11 | 24 of 2007 | 12 Oct 2007 | 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 11 and 90 | 24 of 2007 | 12 Oct 2007 | s. 11: 24 Oct 2007 (see s. 2(1) and Gazette 23 Oct 2007 p. 5645); s. 90: 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Petroleum Amendment Act 2007 s. 98 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Water Resources Legislation Amendment Act 2007 s. 196 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
-Reprint 4: The Land Administration Act 1997 as at 4 Jul 2008 (includes amendments listed above)
+Reprint 4: The Land Administration Act 1997 as at 4 Jul 2008 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 83 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 48 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Land Administration Amendment Act 2009 | 32 of 2009 | 26 Nov 2009 | s. 1 and 2: 26 Nov 2009 (see s. 2(a)); Act other than s. 1 and 2: 27 Nov 2009 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
-Reprint 5: The Land Administration Act 1997 as at 9 Apr 2010 (includes amendments listed above)
+Reprint 5: The Land Administration Act 1997 as at 9 Apr 2010 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90)
 Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 5 | 8 of 2010 | 3 Jun 2010 | 18 Sep 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 8 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
-Reprint 6: The Land Administration Act 1997 as at 16 Nov 2012 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Reprint 6: The Land Administration Act 1997 as at 16 Nov 2012 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 27 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Commercial Arbitration Act 2012 s. 45 it. 11 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 Water Services Legislation Amendment and Repeal Act 2012 s. 220 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
-On the date as at which this reprint was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
+On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 4.Section 6A inserted
 After section 6 the following section is inserted in Part 1 —
 “
@@ -73,8 +72,8 @@ After section 152 the following section is inserted —
 152A.This Part subject to Native Title (State Provisions) Act 1998
 Where the taking of land or an interest in land under this Part is a Part 3 act, a Part 4 act or a Part 5 act within the meaning of the Native Title (State Provisions) Act 1998, the operation of this Part is subject to section 3.6, 4.5 or 5.3, as the case may be, of that Act.
 ”.
-The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7, which had not come into operation on the date as at which this reprint was prepared (see endnotes 1a and 2), will be repealed by the Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 1 cl. 3), which as at the date of this reprint had also not come into operation (see endnotes 1a and 4).
-On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7, which had not come into operation on the date as at which this compilation was prepared (see endnotes 1a and 2), will be repealed by the Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 1 cl. 3), which as at the date of this compilation had also not come into operation (see endnotes 1a and 4).
+On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 7.3.Consequential amendments
 Schedule 2 has effect.
 Schedule 2 Div. 4 reads as follows:
@@ -372,20 +371,8 @@ commencement day means the day on which the State Administrative Tribunal (Confe
 (2) If a matter has been partly or fully heard, but not determined, by a Compensation Court under the Land Administration Act 1997 immediately before the commencement day —
 (a) the Act section 167(4)(b) does not apply; and
 (b) the matter is to continue to be dealt with as if the written law applicable to the matter in force immediately before the commencement day continued to apply.
-On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90 had not come into operation. It reads as follows:
-90.Land Administration Act 1997 amended
-(1) The amendments in this section are to the Land Administration Act 1997.
-(2) Section 111(3) is amended by deleting “declared animals and declared plants on the land under the lease in compliance with the Agriculture and Related Resources Protection Act 1976” and inserting instead —
-“
-declared pests on the land under the lease in compliance with the Biosecurity and Agriculture Management Act 2007
-”.
-(3) Section 112(2) is amended by deleting “declared animals and declared plants” and inserting instead —
-“ declared pests ”.
-(4) Section 117(a) is deleted and the following paragraph is inserted instead —
-“
-(a) the Biosecurity and Agriculture Management Act 2007;
-”.
-On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 27 had not come into operation. It reads as follows:
+Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 27 had not come into operation. It reads as follows:
 Division 27 — Land Administration Act 1997 amended
 116.Act amended
 This Division amends the Land Administration Act 1997.

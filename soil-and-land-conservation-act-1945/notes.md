@@ -46,10 +46,11 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Reprint 7: The Soil and Land Conservation Act 1945 as at 19 May 2006 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 2 Div. 7 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4, 6 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 80 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Petroleum Amendment Act 2007 s. 105 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Water Resources Legislation Amendment Act 2007 s. 200 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
-Reprint 8: The Soil and Land Conservation Act 1945 as at 17 Oct 2008 (includes amendments listed above)
+Reprint 8: The Soil and Land Conservation Act 1945 as at 17 Oct 2008 (includes amendments listed above except the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4, 43(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
@@ -57,7 +58,6 @@ Building Act 2011 s. 173 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) an
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 80 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Water Services Legislation Amendment and Repeal Act 2012 s. 229 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 The designation of Ministers may be altered by the Governor under the Alterations of Statutory Designations Act 1974. As at the date of this compilation the former Minister for Agriculture is known as the Minister for Agriculture and Food.
@@ -68,12 +68,7 @@ Now known as the Soil and Land Conservation Act 1945; short title changed (see n
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 was a transitional provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 80 had not come into operation. It reads as follows:
-“
-80.Soil and Land Conservation Act 1945 amended
-(1) The amendment in this section is to the Soil and Land Conservation Act 1945.
-(2) The Schedule is amended by deleting “Stock (Identification and Movement) Act 1970”.
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 229 had not come into operation. It reads as follows:
 229.Soil and Land Conservation Act 1945 amended
 (1) This section amends the Soil and Land Conservation Act 1945.

@@ -20,12 +20,12 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Liquor and Gaming Legislation Amendment Act 2006 s. 115 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 4: The Auction Sales Act 1973 as at 18 May 2007 (includes amendments listed above)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 77 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 1 | 6 of 2012 | 10 Apr 2012 | 28 May 2012 (see s. 2(c) and Cwlth Gazette 19 Apr 2012 ref. F2012L00891)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Business Licensing Amendment Act 1995 Pt. 2 | 56 of 1995 | 20 Dec 1995 | To be proclaimed (see s. 2(2))
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 77 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 The provision in this Act repealing these Acts has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Liquor Licensing Act 1988 s. 176.
 On the date as at which this compilation was prepared, the Business Licensing Amendment Act 1995 Pt. 2 had not come into operation. It reads as follows:
@@ -58,26 +58,9 @@ Section 37 of the principal Act is amended —
 (2) Subsections (1) and (2) of section 45 of the Interpretation Act 1984 apply in respect of fees prescribed under this Act despite sections 3(3) and 45(3) of that Act.
 ”.
 ”.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 77 had not come into operation. It reads as follows:
-“
-77.Auction Sales Act 1973 amended
-(1) The amendments in this section are to the Auction Sales Act 1973.
-(2) Section 30(3) is amended by deleting “person appointed as an inspector for the purposes of the Stock Diseases (Regulations) Act 1968” and inserting instead —
-“
-inspector appointed under the Biosecurity and Agriculture Management Act 2007
-”.
-(3) Section 30(4) is amended by deleting “A person appointed as an inspector for the purposes of the Stock Diseases (Regulations) Act 1968” and inserting instead —
-“
-An inspector appointed under the Biosecurity and Agriculture Management Act 2007
-”.
-(4) Section 32(1) is amended by deleting “referred to in section 46 of the Stock (Identification and Movement) Act 1970.” and inserting instead —
-“
-issued under regulations made under the Biosecurity and Agriculture Management Act 2007.
-”.
-”.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 auction4
 auctioneer4
 cattle4

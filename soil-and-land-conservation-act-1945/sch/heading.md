@@ -16,5 +16,4 @@ Petroleum and Geothermal Energy Resources Act 1967
 Planning and Development Act 2005
 Rights in Water and Irrigation Act 1914
 Sandalwood Act 1929
-Stock (Identification and Movement) Act 1970
-[Schedule inserted by No. 42 of 1982 s. 43; amended by No. 46 of 1994 s. 40; No. 14 of 1996 s. 4; No. 31 of 1997 s. 141; No. 38 of 2005 s. 15; No. 35 of 2007 s. 105; No. 24 of 2011 s. 173.]
+[Schedule inserted by No. 42 of 1982 s. 43; amended by No. 46 of 1994 s. 40; No. 14 of 1996 s. 4; No. 31 of 1997 s. 141; No. 38 of 2005 s. 15; No. 35 of 2007 s. 105; No. 24 of 2007 s. 80; No. 24 of 2011 s. 173.]

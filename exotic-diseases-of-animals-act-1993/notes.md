@@ -8,47 +8,60 @@ Compilation table
  | Reprint 1: The Exotic Diseases of Animals Act 1993 as at 23 Jan 2004 (includes amendments listed above)
  | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
  | Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+ | Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 88 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 55 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 88 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 88 had not come into operation. It reads as follows:
-“
-88.Exotic Diseases of Animals Act 1993 amended
-(1) The amendments in this section are to the Exotic Diseases of Animals Act 1993.
-(2) Section 4(1) is amended as follows:
-(a) in the definition of “inspector” by deleting paragraph (d) and inserting instead —
-“
-(d)an inspector appointed under the Biosecurity and Agriculture Management Act 2007 section 162;
-”;
-(b) in the definition of “officer” by deleting paragraph (d) and inserting instead —
-“
-(d)an inspector as that term is defined in the Biosecurity and Agriculture Management Act 2007, other than a police officer;
-”.
-(3) Section 6(6) is repealed.
-(4) After section 28 the following Division is inserted —
-“
-Division 3 — Stock on Crown land
-28A.Control of stock on Crown land in proclaimed areas
-(1) In this section —
-Crown land means land other than —
-(a)land alienated from the Crown; or
-(b)land that the Crown has lawfully agreed to alienate; or
-(c)land held under a lease lawfully granted by the Crown;
-stock has the meaning given to that term in the Biosecurity and Agriculture Management Act 2007.
-(2) If it appears to the Governor that it is necessary or expedient to do so for the purpose of preventing the spread of an exotic disease or to eradicate or control an exotic disease in a part of the State, the Governor may by proclamation declare that this section applies to and in relation to the part of the State specified in the proclamation.
-(3) If a proclamation made under subsection (2) is in force in relation to a part of the State, then despite any other provision of this Act or any other Act or law to the contrary —
-(a) the property in and right to possession of any stock that are on Crown land in the part of the State specified in the proclamation vest in the Crown; and
-(b) the Minister may give such directions as the Minister thinks fit in relation to the treatment, or disposal, or both the treatment and disposal, of the stock; and
-(c) no compensation is payable by or on behalf of the Crown by reason of the operation of this section.
-(4) A proclamation made under subsection (2) —
-(a) must specify the day from which it is to take effect, being a day not earlier than 30 days after the publication of the proclamation in the Gazette; and
-(b) may be varied or revoked by further proclamation made by the Governor.
-”.
-(5) Section 60(3) is amended by inserting after “Stock Diseases (Regulations) Act 1968” —
-“
-, as in force immediately before the coming into operation of the Biosecurity and Agriculture Management Act 2007,
-”.
-”.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Account4(1)
+animal4(1)
+animal product4(1)
+boundary variation order4(1), 36(1)
+Chief Veterinary Officer4(1)
+compensation order4(1), 47(1)
+control order4(1), 40(3)
+controlled area4(1)
+controlled area order4(1), 40(1)
+Crown land28A(1)
+declared area4(1)
+Department4(1)
+Deputy Veterinary Inspector4(1)
+destruction order4(1), 28(2)
+Director General4(1)
+disease4(1)
+disease control order4(1), 41(1)
+disinfected4(1)
+disinfection order4(1), 23(1)
+document4(1)
+domestic animal4(1)
+dwelling4(1)
+exotic disease4(1)
+exotic disease agent4(1)
+fittings4(1)
+fodder4(1)
+free-living animal4(1)
+import restriction order4(1), 24(1)
+infected4(1)
+infected area4(1)
+infected area order4(1), 29(1)
+infected vehicle4(1)
+inspector4(1)
+land4(1)
+local newspaper4(1)
+local quarantine order4(1), 19(1)
+officer4(1), 58(4)
+order for restraint4(1), 27(1)
+order for seizure4(1), 27(1)
+owner4(1)
+place4(1)
+premises4(1)
+property48
+restricted area4(1)
+restricted area order4(1), 34(1)
+restricted area precautions order4(1), 39(1)
+stock28A(1)
+undomesticated animal4(1)
+vehicle4(1)
+vermin4(1)
+Veterinary Inspector4(1)
+wildlife4(1)
