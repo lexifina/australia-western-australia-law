@@ -42,29 +42,10 @@ Veterinary Surgeons Amendment Regulations 2012 | 29 May 2012 p. 2227-30 | r. 1 a
 Reprint 4: The Veterinary Surgeons Regulations 1979 as at 3 Aug 2012 (includes amendments listed above)
 Veterinary Surgeons Amendment Regulations (No. 2) 2012 | 21 Sep 2012 p. 4421 | r. 1 and 2: 21 Sep 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Sep 2012 (see r. 2(b))
 Veterinary Surgeons Amendment Regulations (No. 3) 2012 | 7 Dec 2012 p. 5963-4 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2012 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Veterinary Surgeons Amendment Regulations 2013 r. 3-6 | 5 Feb 2013 p. 828-9 | 1 May 2013 (see r. 2(b) and Gazette 5 Feb 2013 p. 823)
-Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
+Veterinary Surgeons Amendment Regulations 2013 | 5 Feb 2013 p. 828-9 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b)(i) and Gazette 5 Feb 2013 p. 823)
+Footnote no longer applicable.
 The headings before r. 1-4, 7-9, 13, 15, 18, 19-23, 28, 34, 44, 55, 60, 61, 63, 64, 67, 69, 74 and 80 were deleted by the Veterinary Surgeons Amendment Regulations (No. 3) 2003, see Gazette 16 Dec 2003 p. 5089-90.
 Now known as the Veterinary Surgeons Regulations 1979; citation changed (see note under r. 1).
-On the date as at which this compilation was prepared, the Veterinary Surgeons Amendment Regulations 2013 r. 3-6 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Veterinary Surgeons Regulations 1979.
-4.Regulation 28 amended
-In regulation 28(2):
-(a) delete paragraph (b)(ii) and insert:
-(ii) the Biosecurity and Agriculture Management Act 2007; or
-(b) delete paragraph (b)(v).
-5.Regulation 45 amended
-Delete regulation 45(h).
-6.Regulation 47 amended
-In regulation 47(2):
-(a) in paragraph (g) delete “method.” and insert:
-method;
-(b) after paragraph (g) insert:
-(h) transferring ova in an animal by non-surgical means.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
