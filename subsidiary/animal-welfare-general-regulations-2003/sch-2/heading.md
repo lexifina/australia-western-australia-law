@@ -32,7 +32,7 @@ qthere are reasonable grounds for suspecting that an offence under Part 3 of the
 I authorise ..................................................., an inspector, to exercise the entry, search, and seizure powers set out in the Animal Welfare Act 2002 in relation to the premises set out in this warrant, with such assistance, and using such force, as is reasonably necessary during the time referred to in this warrant.
 Signed ..................................................... (Justice of the Peace)
 Dated .....................................................
-[Form 1 amended in Gazette 20 Jun 2008 p. 2719; 18 Jul 2008 p. 3330.]
+[Form 1 amended: Gazette 20 Jun 2008 p. 2719; 18 Jul 2008 p. 3330.]
 Form 2
 [r. 10]
 Animal Welfare Act 2002
@@ -56,7 +56,7 @@ Dated the ............ day of ..................................................
 ................................................ (signature of person objecting)
 Contact Phone No. ...................................
 Note:Section 72(2) of the Act requires an objection to be made within 28 days after the right to object arose, or such further time as the Minister may allow.
-[Form 3 deleted in Gazette 30 Dec 2004 p. 7010.]
+[Form 3 deleted: Gazette 30 Dec 2004 p. 7010.]
 Form 4
 [r. 13]
 Animal Welfare Act 2002
@@ -82,4 +82,4 @@ Signature of inspector or
 other authorised person: ............................................................................
 Date: ..........................................................................................................
 Note:Section 93(2) of the Act requires claims to be made within one year of the injury or death.
-[Schedule 3 deleted in Gazette 30 Dec 2004 p. 7010.]
+[Schedule 3 deleted: Gazette 30 Dec 2004 p. 7010.]

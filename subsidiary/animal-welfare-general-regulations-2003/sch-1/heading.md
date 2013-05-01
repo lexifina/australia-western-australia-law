@@ -51,4 +51,4 @@ Codes of practice
  | First published by the Department in March 2003
 23. | Sheep Transportation — Code of practice for the transportation of sheep in Western Australia
  | First published by the Department in March 2003
-[Schedule 1 amended in Gazette 23 Jun 2006 p. 2193; 12 Jun 2007 p. 2720-1; 20 Jun 2008 p. 2719; 16 Feb 2010 p. 645.]
+[Schedule 1 amended: Gazette 23 Jun 2006 p. 2193; 12 Jun 2007 p. 2720-1; 20 Jun 2008 p. 2719; 16 Feb 2010 p. 645.]
