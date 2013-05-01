@@ -1,2 +1,0 @@
-## Schedule
-[reg 13]
