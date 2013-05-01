@@ -48,13 +48,10 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2012
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 2) 2011 | 23 Mar 2012 p. 1369-70 | r. 1 and 2: 23 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Mar 2012 (see r. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 3) 2012 | 8 Jun 2012 p. 2385-6 | r. 1 and 2: 8 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jun 2012 (see r. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 4) 2012 | 23 Nov 2012 p. 5721 | r. 1 and 2: 23 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Nov 2012 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2013 r. 3-5 | 5 Feb 2013 p. 835-6 | 1 May 2013 (see r. 2(b) and Gazette 5 Feb 2013 p. 823)
+Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2013 | 5 Feb 2013 p. 835-6 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b) and Gazette 5 Feb 2013 p. 823)
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now called the General Account.
-Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
+Footnote no longer applicable.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Under the Alteration of Statutory Designations Order (No. 2) 2006 a reference in a written law to the Department of Environmental Protection is, unless the contrary is intended, to be read and construed as a reference to the Department of Environment and Conservation.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Fisheries Department of Western Australia is read and construed as a reference to the Department of Fisheries.
@@ -64,11 +61,3 @@ Repealed by the Building Services (Registration) Act 2011 s. 107.
 Formerly referred to the Censorship Act 1996 the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Footnote no longer applicable.
 The Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 1997 were published on 1 Aug 1997 p. 4394 and again on 4 Nov 1997 p. 6079-80. The publication of 4 Nov 1997 has no effect.
-On the date as at which this compilation was prepared, the Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2013 r. 3-5 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Fines, Penalties and Infringement Notices Enforcement Regulations 1994.
-4.Regulation 10 amended
-In regulation 10 delete “Department of Agriculture” and insert:
-Department of Agriculture and Food
-5.Schedule 1 amended
-In Schedule 1 delete the item relating to the Plant Diseases Act 1914.
