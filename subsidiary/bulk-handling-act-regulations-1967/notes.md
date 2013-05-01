@@ -33,13 +33,31 @@ Bulk Handling Act Amendment Regulations 2002 | 28 Jun 2002 p. 3042-3 | 1 Jul 200
 Bulk Handling Act Amendment Regulations (No. 2) 2003 | 17 Jun 2003 p. 2208 | 1 Jul 2003 (see r. 2)
 Bulk Handling Act Amendment Regulations 2003 | 9 Sep 2003 p. 4037-47 | 9 Sep 2003
 Reprint 2: The Bulk Handling Act Regulations 1967 as at 14 Nov 2003 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Bulk Handling Amendment Regulations 2013 r. 3 and 4 | 5 Feb 2013 p. 827-8 | 1 May 2013 (see r. 2(b) and Gazette 5 Feb 2013 p. 823)
-On the date as at which this compilation was prepared, the Bulk Handling Amendment Regulations 2013 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Bulk Handling Act Regulations 1967.
-4.Regulation 13 amended
-Delete regulation 13(1)(g) and insert:
-(g) contains declared pests as defined in the Biosecurity and Agriculture Management Act 2007 section 6;
+Bulk Handling Amendment Regulations 2013 | 5 Feb 2013 p. 827-8 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b)(i) and Gazette 5 Feb 2013 p. 823)
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Act2
+ball smut2
+barley2
+bored2
+Department2
+Form2
+genetically modified2
+grain2
+immature2
+insect2
+kernel2
+oats2
+officer2
+person entitled to grain2
+pickled2
+quantity2
+regulation2
+Schedule2
+skeleton weed2
+smut2
+sorghum2
+standard2
+warrant2
+wheat2
