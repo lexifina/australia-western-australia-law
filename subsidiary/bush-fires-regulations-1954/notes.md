@@ -36,19 +36,10 @@ Bush Fires Amendment Regulations 2010 | 17 Dec 2010 p. 6351-4 | r. 1 and 2: 17 D
 Bush Fires Amendment Regulations 2011 | 2 Dec 2011 p. 5059-60 | r. 1 and 2: 2 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2011 (see r. 2(b))
 Reprint 6: The Bush Fires Regulations 1954 as at 6 Jul 2012 (includes amendments listed above)
 Bush Fires Amendment Regulations 2012 | 31 Oct 2012 p. 5251-2 | r. 1 and 2: 31 Oct 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2012 (see r. 2(b) and Gazette 31 Oct 2012 p. 5255)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Bush Fires Amendment Regulations 2013 r. 3 and 4 | 5 Feb 2013 p. 834-5 | 1 May 2013 (see r. 2(b) and Gazette 5 Feb 2013 p. 823)
+Bush Fires Amendment Regulations 2013 | 5 Feb 2013 p. 834-5 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b)(i) and Gazette 5 Feb 2013 p. 823)
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Bush Fires Amendment Regulations (No. 2) 2000 deleted headings to r. 1-3, 15, 18, 23, 37, 37A, 38, 39, 39A, 39B, 39BA, 39D, 41, 43 and 44 that formed part of the written law. The deletions are not noted in footnotes to the regulations. The headings to the regulations in this reprint do not form part of the written law (see Interpretation Act 1984 s. 32).
 Now known as the Bush Fires Regulations 1954; citation changed (see note under r. 1).
-On the date as at which this compilation was prepared, the Bush Fires Amendment Regulations 2013 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Bush Fires Regulations 1954.
-4.Regulation 36A amended
-In regulation 36A(1) delete “declared plants within the meaning of the Agriculture and Related Resources Protection Act 1976, or” and insert:
-declared pests as defined in the Biosecurity and Agriculture Management Act 2007 section 6, or
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
