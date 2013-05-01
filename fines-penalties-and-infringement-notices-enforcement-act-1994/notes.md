@@ -28,13 +28,14 @@ Reprint 4: The Fines, Penalties and Infringement Notices Enforcement Act 1994 as
 Fines, Penalties and Infringement Notices Enforcement Amendment (Compensation) Act 2009 | 4 of 2009 | 14 May 2009 | s. 1 and 2: 14 May 2009 (see s. 2(a)); Act other than s. 1 and 2: 23 Jun 2009 (see s. 2(b) and Gazette 23 Jun 2009 p. 2423)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Fines, Penalties and Infringement Notices Enforcement Amendment (Taxation) Act 2012 | 28 of 2012 | 3 Sep 2012 | 1 May 2013 (see s. 2(b) and Gazette 30 Apr 2013 p. 1687)
+Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 s. 3, 39, 40, 41(3) and 42 | 48 of 2012 | 29 Nov 2012 | 1 May 2013 (see s. 2(b) and Gazette 30 Apr 2013 p. 1687)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 12 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 23 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Fines, Penalties and Infringement Notices Enforcement Amendment (Taxation) Act 2012 s. 3 and 4 | 28 of 2012 | 3 Sep 2012 | Operative on commencement of the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 s. 39 (see s. 2(b))
-Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 2 | 48 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
+Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 2 (other than s. 3, 39, 40, 41(3) and 42) | 48 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Fines, Penalties and Infringement Notices Enforcement Amendment Act 2003 s. 12 reads as follows:
 “
@@ -86,17 +87,9 @@ s. 19(9) | s. 20(6)
 s. 27A(9) | s. 43(9)
 s. 44(6) | s. 47A(5)
 s. 55A(9)
-On the date as at which this compilation was prepared, the Fines, Penalties and Infringement Notices Enforcement Amendment (Taxation) Act 2012 s. 3 and 4 had not come into operation. They read as follows:
-3.Act amended
-This Act amends the Fines, Penalties and Infringement Notices Enforcement Act 1994.
-4.Section 109 inserted
-After section 108 insert:
-109.Imposition of tax
-To the extent that any fee that the regulations prescribe under section 108 is a tax, the fee is imposed.
-On the date as at which this compilation was prepared, the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 2 had not come into operation. It reads as follows:
+Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 2 (other than s. 3, 39, 40, 41(3) and 42) had not come into operation. It reads as follows:
 Part 2 — Fines, Penalties and Infringement Notices Enforcement Act 1994 amended
-3.Act amended
-This Part amends the Fines, Penalties and Infringement Notices Enforcement Act 1994.
 4.Section 3 amended
 (1) In section 3(1) insert in alphabetical order:
 child means a person who is under 18 years of age;
@@ -659,24 +652,6 @@ by the Registrar
 may be given by tendering a certificate to that effect in the prescribed form signed by the Sheriff.
 (3) After section 101C(3) insert:
 (4) Unless the contrary is proved, it is to be presumed that a certificate purporting to have been signed by the Sheriff was signed by a person who at the time was the Sheriff.
-39.Section 101D amended
-(1) Before section 101D(1) insert:
-(1A) In this section —
-licence suspension order includes a vehicle licence suspension order made under section 95G.
-(2) In section 101D(1) after “licence suspension order” insert:
-or vehicle licence cancellation order
-Note:The heading to amended section 101D is to read:
-Validity of certain orders not affected by non-receipt of documents
-40.Section 108B inserted
-After section 108A insert:
-108B.Amounts to be credited to agency special purpose account
-An amount equal to the amounts credited to the Consolidated Account under sections 27(2), 55(2) and 96(6) is to be —
-(a) credited to an agency special purpose account that is —
-(i) established under the Financial Management Act 2006 section 16 for the purposes of the department of the Public Service principally assisting the Minister in the administration of this Act; and
-(ii) nominated by the Minister in writing for the purposes of this section;
-and
-(b) charged to the Consolidated Account,
-and this section appropriates the Consolidated Account accordingly.
 41.Section 108 amended
 (1) In section 108(3):
 (a) delete paragraph (d) and insert:
@@ -685,40 +660,6 @@ and this section appropriates the Consolidated Account accordingly.
 (ea) a fee for issuing an enforcement warrant to be imposed on an alleged offender when the warrant is issued;
 (2) In section 108(5) delete “an offender in connection with executing” and insert:
 a debtor (as defined in section 63) in connection with the exercise of powers under
-(3) After section 108(7) insert:
-(8) The amount of an enforcement fee prescribed under this section may be more than the amount, or an estimate of the amount, needed to allow recovery of expenditure —
-(a) incurred in connection with the matter in relation to which the enforcement fee is imposed; or
-(b) that is relevant to the scheme or system under which the enforcement fee is imposed.
-(9) Subsection (8) does not apply to an enforcement fee prescribed in accordance with subsection (6).
-42.Part 9 inserted
-After Part 8 insert:
-Part 9 — Transitional and validation provisions
-110.Transitional provisions as to warrants of execution
-(1) A warrant of execution in force immediately before the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 section 43 comes into operation is, on and after the coming into operation of that section and until it ceases to be in force under this Act, taken to be an enforcement warrant for the purposes of this Act.
-(2) Despite subsection (1), a warrant of execution referred to in that subsection does not authorise any action that can be taken to enforce the payment of the fine under Part 7 Division 6A.
-111.Transitional provisions as to notices of intention to suspend licences issued under s. 18
-(1) In this section —
-commencement means the coming into operation of the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 section 11.
-(2) A notice of intention to suspend licences issued before commencement is, on and after commencement, taken for the purposes of this Act —
-(a) to be a notice of intention to enforce given in accordance with section 18 as in force after commencement; and
-(b) to have been issued on the day when the notice of intention to suspend licences was issued.
-112.Transitional provisions as to notices of intention to suspend licences issued under s. 42
-(1) In this section —
-commencement means the coming into operation of the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 section 20.
-(2) A notice of intention to suspend licences issued under section 42 before commencement is, on and after commencement, taken for the purposes of this Act —
-(a) to be a notice of intention to enforce given in accordance with section 42 as in force after commencement; and
-(b) to have been issued on the day when the notice of intention to suspend licences was issued.
-113.Transitional provisions as to infringement notices
-(1) In this section —
-commencement means the coming into operation of the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 section 14;
-transitional period means the period of 12 months beginning on commencement.
-(2) This section applies despite any other provision of a written law.
-(3) An infringement notice issued under a written law —
-(a) before commencement; or
-(b) during the transitional period,
-is not invalid merely because the infringement notice does not inform the alleged offender of action that may be taken under this Act only because of the amendments to this Act made by the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012.
-114.Validation
-Regulations made, or purporting to have been made, under section 108 before the commencement of this section are, and are taken to have always been, as effective as they would have been if section 108(8) had been enacted and commenced before those regulations were made.
 43.Other provisions amended
 Amend the provisions listed in the Table as set out in the Table.
 Table
@@ -751,7 +692,7 @@ alleged offender11
 amending provision53(4), 53(8a)
 amount owed40
 CEO (corrections)3(1)
-commencement108(7)
+commencement108(7), 111(1), 112(1), 113(1)
 community corrections activities28(1)
 community corrections centre28(1)
 community corrections officer28(1)
@@ -769,6 +710,7 @@ fine28(1), 59
 give3(1)
 infringement notice11
 interest70(1)
+licence suspension order39(1A)
 mobile home63
 modified penalty11
 offender28(1), 63, 108A
@@ -798,6 +740,7 @@ the due date18(3), 42(3)
 the proceeds96(1)
 time to pay order28(1)
 traffic infringement notice26(4)
+transitional period113(1)
 vehicle63
 vehicle licence3(1)
 warrant63
