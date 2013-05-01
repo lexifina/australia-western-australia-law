@@ -4,7 +4,6 @@ Bail Act 1982 s. 20(4), 50D(2), 60
 Biological Control Act 1986 s. 41, 43
 Botanic Gardens and Parks Authority Act 1998 s. 30
 Business Names Act 1962 s. 5A(2)
-Cattle Industry Compensation Act 1965 s. 37(1)
 Cemeteries Act 1986 s. 62
 Conservation and Land Management Act 1984 s. 105(1), 106
 Conspiracy and Protection of Property Act 1900 s. 6
@@ -36,7 +35,6 @@ Land Drainage Act 1925 s. 155
 Local Government (Miscellaneous Provisions) Act 1960 s. 474(7), 482(3)
 Mental Health Act 1996 s. 206(1), Sch. 2 cl. 13(5), Sch. 2 cl. 16
 Nuclear Activities Regulation Act 1978 s. 9(7)
-Plant Diseases Act 1914 s. 34(1)
 Poisons Act 1964 s. 49(2)
 Police Act 1892 s. 16A(1), 31, 54, 54A(3), 59, 65, 66, 76F(3)(a), 82B(1), 82B(3), 97, 107, 124, 125, 128
 Prisons Act 1981 s. 49(2)
@@ -47,7 +45,6 @@ Rights in Water and Irrigation Act 1914 s. 71
 Road Traffic Act 1974 s. 90
 Rottnest Island Authority Act 1987 s. 32
 School Education Act 1999 s. 15, 35, 120(2), 240(3), 242(1)
-Stock Diseases (Regulations) Act 1968 s. 16(3)
 Street Collections (Regulation) Act 1940 s. 8
 Sunday Entertainments Act 1979 s. 3(1)
 Swan River Trust Act 1988 s. 64(6)
