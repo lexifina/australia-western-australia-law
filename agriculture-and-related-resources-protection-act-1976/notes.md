@@ -32,12 +32,12 @@ Reprint 3: The Agriculture and Related Resources Protection Act 1976 as at 16 Ju
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 2 Div 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Land Information Authority Act 2006 s. 121 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 27 | 24 of 2007 | 12 Oct 2007 | 23 Nov 2011 (see s. 2(2) and Gazette 22 Nov 2011 p. 4843): 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 824)
 Agriculture and Related Resources Protection Amendment Act 2010 Pt. 2 | 46 of 2010 | 28 Oct 2010 | 18 Dec 2010 (see s. 2(b) and Gazette 17 Dec 2010 p. 6349)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 27 | 24 of 2007 | 12 Oct 2007 | 23 Nov 2011 (see s. 2(2) and Gazette 22 Nov 2011 p. 4843); Repeal of Act operative when proclamation published under s. 27
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 1 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Commercial Arbitration Act 2012 s. 45 it. 1 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 Repealed by the Mining Act 1978.

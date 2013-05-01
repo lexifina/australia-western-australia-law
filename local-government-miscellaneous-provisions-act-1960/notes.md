@@ -128,17 +128,17 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 Pt
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Local Government (Miscellaneous Provisions) Amendment Act 2007 | 11 of 2007 | 29 Jun 2007 | s. 1 and 2: 29 Jun 2007; s. 3 and 4: 25 Aug 2007 (see s. 2 and Gazette 24 Aug 2007 p. 4317); s. 5-14: 1 Jul 2008 (see s. 2 and Gazette 6 Jun 2008 p. 2179)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 91 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Local Government (Miscellaneous Provisions) Amendment (Smoke Alarms) Act 2007 | 34 of 2007 | 21 Dec 2007 | 18 Jan 2008
-Reprint 8: The Local Government (Miscellaneous Provisions) Act 1960 as at 1 Aug 2008 (includes amendments listed above)
+Reprint 8: The Local Government (Miscellaneous Provisions) Act 1960 as at 1 Aug 2008 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
 Standardisation of Formatting Act 2010 s. 21, 49 and 62 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Building Services (Registration) Act 2011 s. 156 | 19 of 2011 | 22 Jun 2011 | s. 156(1) and (4): 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475-6); s. 156(2) and (3): 2 Apr 2012 (see s. 2(b) and Gazette 30 Mar 2012 p. 1549)
 Building Act 2011 s. 151-156 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
-Reprint 9: The Local Government (Miscellaneous Provisions) Act 1960 as at 8 Jun 2012 (includes amendments listed above)
+Reprint 9: The Local Government (Miscellaneous Provisions) Act 1960 as at 8 Jun 2012 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 91 6 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Commercial Arbitration Act 2012 s. 45 it. 13 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 Repealed by the Stock (Brands and Movement) Act 1970, which is now known as the Stock (Identification and Movement) Act 1970.
 Repealed by the Auction Sales Act 1973 s. 3(1).
@@ -189,13 +189,7 @@ commencement day means the day on which the State Administrative Tribunal (Confe
 5The Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 14(3) and (4) read as follows:
 (3) Despite the repeal of section 295 of the Local Government (Miscellaneous Provisions) Act 1960, section 295(4) and (4a) of that Act continue to apply in relation to the disposal of land where the subdivision of the land was approved before the coming into operation of this section.
 (4) Until minimum standards of construction and drainage are fixed under section 169 of the Planning and Development Act 2005, the minimum standards fixed under section 295(3a) of the Local Government (Miscellaneous Provisions) Act 1960 apply for the purposes of the Planning and Development Act 2005 as if they had been fixed under that Act.
-6On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 91 had not come into operation. It reads as follows:
-91.Local Government (Miscellaneous Provisions) Act 1960 amended
-(1) The amendments in this section are to the Local Government (Miscellaneous Provisions) Act 1960.
-(2) Section 474(7) is amended by deleting “, brand it with the brands, on the portions, and in the order, prescribed by the Brands Act 1904, in such manner as to show that the brand is the last brand at the time imprinted on the beast.” and inserting instead —
-“
-label it with an identifier in accordance with the Biosecurity and Agriculture Management Act 2007.
-”.
+6Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 it. 13 had not come into operation. It reads as follows:
 45.Acts amended
 (1) This section amends the Acts listed in the Table.

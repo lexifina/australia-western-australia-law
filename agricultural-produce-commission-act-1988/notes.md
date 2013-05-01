@@ -12,14 +12,11 @@ Reprint of the Agricultural Produce Commission Act 1988 as at 5 Apr 2002 (includ
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 5 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 2 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 3 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 2: The Agricultural Produce Commission Act 1988 as at 1 May 2009 (includes amendments listed above)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 63 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
+Reprint 2: The Agricultural Produce Commission Act 1988 as at 1 May 2009 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
 Acts Amendment (Bankruptcy) Act 2009 s. 7 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 7 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 63 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 3 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 Now known as the Agricultural Produce Commission Act 1988; short title changed (see note under s. 1).
@@ -34,22 +31,6 @@ The Horticultural Produce Commission Amendment Act 2000 s. 32 and 34 read as fol
 (b) the name of the committee is deemed to have “Producers’” substituted for “Growers’”.
 (3) If the procedure for establishing a growers’ committee under the Horticultural Produce Commission Act 1988 has been initiated but has not been completed before the commencement of this Act, that procedure may continue to be followed and be completed after the commencement of this Act as if this Act had not come into operation but if a committee is established under that procedure it is established as a producers’ committee with a name containing “Producers’” instead of “Growers’”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 63 had not come into operation. It reads as follows:
-63.Agricultural Produce Commission Act 1988 amended
-(1) The amendment in this section is to the Agricultural Produce Commission Act 1988.
-(2) After section 12 the following section is inserted —
-“
-12A.Powers of officers, employees and other persons
-(1) Any officers, employees and other persons employed or engaged under section 12(2) by a producers’ committee established to administer a fruit fly foliage baiting scheme may, when authorised by the producers’ committee, enter any orchard within the specified area to bait or spray all or any of the fruit trees and fruit vines in the manner and with the materials determined by the producers’ committee.
-(2) A person must not enter an orchard under subsection (1) unless —
-(a) the person has taken reasonable steps to give the owner or occupier of the orchard notice of the intended entry; or
-(b) the owner or occupier of the orchard consents to the entry.
-(3) The notice must specify the purpose for which the entry is required and successive entries for that purpose are to be regarded as entries to which the notice relates.
-(4) The notice must be given not less than 24 hours before the power of entry is exercised.
-(5) In subsection (1) —
-orchard means any land used for the purpose of growing or cultivating plants, and includes any garden, farm, vinery, vineyard, and hothouse, any place where any plant is cultivated or where any plant which has been cultivated is growing;
-specified area means the portion of the State specified in a notice under section 11(1)(a)(ii) in relation to which the producers’ committee is established.
-”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -60,5 +41,7 @@ Commission3(1)
 document6B(4)
 information6B(4)
 member3(1)
+orchard12A
 parliamentary purposes6B(4)
 producers’ committee3(1)
+specified area12A

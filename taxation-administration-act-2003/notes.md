@@ -15,17 +15,17 @@ Land Information Authority Act 2006 s. 184 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
 Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 166 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Revenue Laws Amendment (Assessment) Act 2007 Pt. 3 | 13 of 2007 | 29 Jun 2007 | 30 Jun 2007 (see s. 2(b))
 Reprint 2: The Taxation Administration Act 2003 as at 7 Sep 2007 (includes amendments listed above)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 94 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Duties Legislation Amendment Act 2008 Pt. 2 Div. 3 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Revenue Laws Amendment Act (No. 2) 2008 Pt. 2 Div. 1 and 3 and Pt. 3 | 31 of 2008 | 27 Jun 2008 | Pt. 2 Div. 1 and Pt. 3 Div. 1 and 2: 28 Jun 2008 (see s. 2(b)); Pt. 2 Div. 3: 1 Jul 2008 (see s. 2(c)(ii)); Pt. 3 Div. 3: 11 Oct 2008 (see s. 2(d) and Gazette 10 Oct 2008 p. 4539)
-Reprint 3: The Taxation Administration Act 2003 as at 22 Aug 2008 (includes amendments listed above, except those in the Revenue Laws Amendment Act (No. 2) 2008 Pt. 3 Div. 3)
+Reprint 3: The Taxation Administration Act 2003 as at 22 Aug 2008 (includes amendments listed above, except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 and the Revenue Laws Amendment Act (No. 2) 2008 Pt. 3 Div. 3)
 Revenue Laws Amendment and Repeal Act 2010 Pt. 5 and s. 30 | 17 of 2010 | 25 Jun 2010 | 26 Jun 2010 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-Reprint 4: The Taxation Administration Act 2003 as at 3 Dec 2010 (includes amendments listed above except those in the Revenue Laws Amendment Act 2012 s. 42(4))
+Reprint 4: The Taxation Administration Act 2003 as at 3 Dec 2010 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 and the Revenue Laws Amendment Act 2012 s. 42(4))
 Revenue Laws Amendment Act 2012 Pt. 8 | 29 of 2012 | 3 Sep 2012 | Heading to Pt. 8, s. 40 and 42(4): 1 Jul 2009 (see s. 2(d)); s. 41, 42(1)-(3), 43 and 44: 4 Sep 2012 (see s. 2(e))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 94 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 482 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 The amendment to s. 114(3)(f) in the Workers’ Compensation Reform Act 2004 s. 174 is not included because the paragraph it seeks to amend was deleted by the Business Tax Review (Assessment) Act (No. 2) 2003 s. 100.
@@ -261,14 +261,7 @@ new provisions means the provisions of the Stamp Act 1921 as amended by the Reve
 (3) Subsection (2) does not authorise the Commissioner to make an assessment under the new provisions of the duty on an instrument to the extent (if any) to which the former provisions apply in relation to it under the Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 section 9(2)(b).
 (4) The Taxation Administration Act 2003 sections 18 and 54(1)(a) apply in relation to an assessment under subsection (2) as if it were a reassessment under section 16 of that Act.
 The amendment in the Duties Legislation Amendment Act 2008 s. 46 is not included because the section it sought to amend had been replaced by the Revenue Laws Amendment Act (No. 2) 2008 s. 7 before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 94 had not come into operation. It reads as follows:
-94.Taxation Administration Act 2003 amended
-(1) The amendment in this section is to the Taxation Administration Act 2003.
-(2) After section 3(1)(j) the following paragraphs are inserted —
-“
-(ja) the Biosecurity and Agriculture Management Act 2007 Part 6 Division 1 Subdivision 2;
-(jb) the Biosecurity and Agriculture Management Rates and Charges Act 2007;
-”.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 48 had not come into operation. It reads as follows:
 Division 48 — Taxation Administration Act 2003 amended
 177.Act amended

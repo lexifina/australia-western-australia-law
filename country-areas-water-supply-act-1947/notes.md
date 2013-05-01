@@ -55,19 +55,19 @@ Compilation table
  | Reprint 7: The Country Areas Water Supply Act 1947 as at 7 Apr 2006 (includes amendments listed above except those listed in the Water Legislation Amendment (Competition Policy) Act 2005)
  | Machinery of Government (Miscellaneous Amendments) Act 2006 s. 452(1) | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
  | Land Information Authority Act 2006 s. 129 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
+ | Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 87 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
  | Water Resources Legislation Amendment Act 2007 Pt. 2 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
- | Reprint 8: The Country Areas Water Supply Act 1947 as at 14 Mar 2008 (includes amendments listed above)
+ | Reprint 8: The Country Areas Water Supply Act 1947 as at 14 Mar 2008 (includes amendments listed above except those listed in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
  | Duties Legislation Amendment Act 2008 Sch. 1 cl. 4 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 42 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
  | Standardisation of Formatting Act 2010 s. 15, 43(3) and 54 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
- | Reprint 9: The Country Areas Water Supply Act 1947 as at 4 May 2012 (includes amendments listed above)
+ | Reprint 9: The Country Areas Water Supply Act 1947 as at 4 May 2012 (includes amendments listed above except those listed in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
  | Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 2 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 87 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Water Services Legislation Amendment and Repeal Act 2012 Pt. 2 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
@@ -85,12 +85,7 @@ The Sentencing (Consequential Provisions) Act 1995 Pt. 16 is not included becaus
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 43 contains provisions which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or deleted by that Act.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 87 had not come into operation. It reads as follows:
-87.Country Areas Water Supply Act 1947 amended
-(1) The amendments in this section are to the Country Areas Water Supply Act 1947.
-(2) Section 12C(1)(c) is amended by deleting “the Agriculture and Related Resources Protection Act 1976” and inserting instead —
-“ the Biosecurity and Agriculture Management Act 2007 ”.
-An amendment made by the Fire and Emergency Services Legislation Amendment Act 2012 s. 113(7)(b) showed that the effect was to duplicate “the” in s. 37(15) of this Act.
+Footnote no longer applicable. An amendment made by the Fire and Emergency Services Legislation Amendment Act 2012 s. 113(7)(b) showed that the effect was to duplicate “the” in s. 37(15) of this Act.
 On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 Pt. 2 had not come into operation. It reads as follows:
 Part 2 — Country Areas Water Supply Act 1947 amended
 3.Act amended
