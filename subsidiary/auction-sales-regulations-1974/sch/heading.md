@@ -379,7 +379,7 @@ WESTERN AUSTRALIA
 ....................................................... day of .........................., 20 ...........
 Type of StockAuction Sales Act 1973
 REGISTERLocation ...................
-Pen | Vendor, Address | Quantity | Description | Brand | Price |  | Purchaser, Address or How Disposed of
+Pen | Vendor, Address | Quantity | Description | Identifier | Price |  | Purchaser, Address or How Disposed of
 .........................................................................
 Licensed Auctioneer.
-[Schedule amended in Gazette 22 November 1974 p.5101.]
+[Schedule amended in Gazette 22 November 1974 p.5101; 5 Feb 2013 p. 833.]
