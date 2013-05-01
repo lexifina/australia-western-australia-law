@@ -19,12 +19,8 @@ Western Australian Coastal Shipping Commission (Stateships)
 Western Australian Marine Act Manning Committee
 Western Australian Mercantile Marine Disciplinary Appeal Tribunal
 Western Australian Planning Commission
-Column 1 Agency | Column 2 Office or body
-Department of Agriculture and Food | Agricultural Practices Board
-Agricultural Produce Commission
-Agriculture Protection Board of Western Australia
+Department of Agriculture and Food | Agricultural Produce Commission
 Albany Zone Control Authority
-Artificial Breeding Board
 Ashburton Land Conservation District Committee
 Beverley Land Conservation District Committee
 Binnu Land Conservation District Committee
@@ -43,7 +39,6 @@ Carlecatup Land Conservation District Committee
 Carnamah Land Conservation District Committee
 Carnarvon Land Conservation District Committee
 Carnarvon Zone Control Authority
-Cattle Industry Compensation Act Research Fund Advisory Committee
 Chapman Valley Land Conservation District Committee
 Chicken Meat Industry Committee
 Chittering Valley Land Conservation District Committee
@@ -58,8 +53,7 @@ Dowerin Land Conservation District Committee
 Dumbleyung Land Conservation District Committee
 East Ballidu Land Conservation District Committee
 East Gillingarra Land Conservation District Committee
-Column 1 Agency | Column 2 Office or body
- | East Pilbara Land Conservation District Committee
+East Pilbara Land Conservation District Committee
 East Yornaning Land Conservation District Committee
 Esperance Land Conservation District Committee
 Esperance Zone Control Authority
@@ -89,8 +83,7 @@ Kimberley Zone Control Authority
 Kojonup Land Conservation District Committee
 Koorda Land Conservation District Committee
 Kulin Land Conservation District Committee
-Column 1 Agency | Column 2 Office or body
- | Lake Grace Zone Control Authority
+Lake Grace Zone Control Authority
 Lower Blackwood Land Conservation District Committee
 Lyndon Land Conservation District Committee
 Manjimup Land Conservation District Committee
@@ -122,8 +115,7 @@ Ninan Land Conservation District Committee
 North Eastern Goldfields Land Conservation District Committee
 North Kimberley Land Conservation District Committee
 North Stirlings Land Conservation District Committee
-Column 1 Agency | Column 2 Office or body
- | Northam Land Conservation District Committee
+Northam Land Conservation District Committee
 Northam Zone Control Authority
 Nugadong West Land Conservation District Committee
 Nullarbor/Eyre Highway Land Conservation District Committee
@@ -154,8 +146,7 @@ Three Springs Zone Control Authority
 Toodyay Land Conservation District Committee
 Trayning Land Conservation District Committee
 Tunney Land Conservation District Committee
-Column 1 Agency | Column 2 Office or body
- | Upper Gascoyne Land Conservation Committee
+Upper Gascoyne Land Conservation Committee
 Vasse - Wonnerup Land Conservation District Committee
 Veterinary Surgeons Board
 Waddi Forest Land Conservation District Committee
@@ -182,7 +173,6 @@ Yalgoo Land Conservation District Committee
 Yallingup Land Conservation District Committee
 Yilgarn Land Conservation District Committee
 York Land Conservation District Committee
-Column 1 Agency | Column 2 Office or body
 Department of Consumer and Employment Protection | Board of Examiners (Coal Mining)
 Board of Examiners (Mine Managers and Underground Supervisors)
 Board of Examiners (Quarry Managers)
@@ -221,7 +211,6 @@ Swan Bells Foundation
 Western Australian Museum
 Western Australian Museum Board
 Western Australian Museum Foundation
-Column 1 Agency | Column 2 Office or body
 Department of Education | Country High School Hostels Authority
 Trustees of Public Education Endowment
 Department of Education Services | Aboriginal Education and Training Council
@@ -274,7 +263,6 @@ Miners Phthisis Board
 Office of Science, Technology and Innovation
 Oil and Gas Industry Advisory Council
 Western Australian Manufacturing Industry Council
-Column 1 Agency | Column 2 Office or body
 Department of Local Government and Regional Development | Caravan Parks and Camping Grounds Advisory Committee
 Control of Vehicles (Off-road Areas) Act Advisory Committee
 Local Government Advisory Board
@@ -336,7 +324,6 @@ Warren Salinity Catchment Recovery Team
 Warren Water Management Area Advisory Committee
 Water Resource Allocation Committee
 Whicher Water Resource Management Group
-Column 1 Agency | Column 2 Office or body
 Disability Services Commission | Advisory Council for Disability Services
 Minister for the Environment | Appeals Convenor for the Environmental Protection Act 1986
 Office of Energy | Aboriginal and Remote Communities Power Supply Steering Committee
@@ -366,4 +353,4 @@ Land Surveyors Licensing Board
 Pastoral Board
 Valuer General’s Office
 WorkCover Western Australia Authority (Workcover WA) | Dispute Resolution Directorate
-[Schedule 2 inserted in Gazette 28 Dec 2007 p. 6415-23; amended in Gazette 6 Mar 2012 p. 893 and 896; 7 Dec 2012 p. 5993.]
+[Schedule 2 inserted in Gazette 28 Dec 2007 p. 6415-23; amended in Gazette 6 Mar 2012 p. 893 and 896; 7 Dec 2012 p. 5993; 5 Feb 2013 p. 837.]
