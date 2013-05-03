@@ -133,6 +133,7 @@ Citation | Gazettal | Commencement
 Supreme Court Amendment Rules (No. 3) 2012 r. 3-8 | 3 Aug 2012 p. 3748-56 | Operative on commencement of the Trans-Tasman Proceedings Act 2010 (Cwlth) s. 3 to 110 (see r. 2(b))
 Supreme Court Amendment Rules (No. 2) 2013 r. 3-6 | 15 Mar 2013 p. 1205-7 | Operative on commencement of the Commercial Arbitration Act 2012 s. 40 (see r. 2(b))
 Supreme Court Amendment Rules 2013 r, 3-7 | 23 Apr 2013 p. 1590-7 | 7 May 2013 (see r. 2(b))
+Supreme Court Amendment Rules (No. 4) 2013 r. 3-4 | 3 May 2013 p. 1718-19 | 17 May 2013 (see r. 2(b))
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
 Formerly referred to as The Partnership Act 1895, the short title of which was changed to the Partnership Act 1895 by the Statutes (Repeals and Minor Amendments) Act 2003 s. 144. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Gas Pipelines Access (Western Australia) Act 1998, the short title of which was changed to the Energy Arbitration and Review Act 1998 by the National Gas Access (WA) Act 2009 s. 26. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -442,6 +443,12 @@ Signature of applicant or lawyer | Applicant/Applicant’s lawyer | Date:
 Notes to Form No. 67A —
 1.The respondent is the person whose decision or conduct is to be reviewed.
 2.Tick only if necessary.
+On the date as at which this compilation was prepared, the Supreme Court Amendment Rules (No. 4) 2012 r. 3-4 had not come into operation. They read as follows:
+3.Rules amended
+These rules amend the Rules of the Supreme Court 1971.
+4.Order 75A rule 4 amended
+In Order 75A rule 4 delete “[name] of [address],” and insert:
+[name],
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
