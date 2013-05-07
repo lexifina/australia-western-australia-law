@@ -161,6 +161,10 @@ Poisons Amendment Regulations 2012 | 1 Jun 2012 p. 2305-26 | r. 1 and 2: 1 Jun 2
 Poisons Amendment Regulations (No. 3) 2012 | 29 Jun 2012 p. 2949-50 | r. 1 and 2: 29 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2012 (see r. 2(b))
 Poisons Amendment Regulations (No. 4) 2012 | 10 Aug 2012 p. 3803-7 | r. 1 and 2: 10 Aug 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Aug 2012 (see r. 2(b))
 Mental Health Amendment (Psychiatrists) Act 2012 s. 7 assented to 29 Nov 2012 | 29 Nov 2012 (see s. 2)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Poisons Amendment Regulations 2013 r. 3-4 | 7 May 2013 p. 1905-6 | 1 Jul 2013 (see r. 2(b))
 Formerly referred to the Health Services (Concilation and Review) Act 1995, the short title of which was changed to the Health and Disability Services (Complaints) Act 1995 by the Health and Disability Services Legislation Amendment Act 2010 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Repealed by the Veterans Entitlements Act 1986 (Cwlth. Act No. 27 of 1986).
@@ -178,6 +182,24 @@ The Poisons Amendment Regulations 2012 r. 45(2) to amend r. 56(2)(b) is not incl
 The Mental Health Amendment (Psychiatrists) Act 2012 s. 8 reads as follows:
 8.Power to amend or repeal unaffected
 The amendment of an instrument by section 6 or 7 does not prevent that instrument from being amended or repealed by subsequent instrument.
+On the date as at which this compilation was prepared, the Poisons Amendment Regulations 2013 r. 3-4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Poisons Regulations 1965.
+4.Appendix G replaced
+Delete Appendix G and insert:
+Appendix G
+(r. 12)
+Form No. | Description of licence or permit | Initial Fee (1 year) $ | Initial Fee (3 years) $ | Renewal (1 year) $ | Renewal (3 years) $
+1. | Wholesaler’s licence | 654 | 927 | 191 | 463
+3. | Pharmacist’s licence to sell poisons | 109 | 218 | 82 | 191
+5. | Licence to sell by retail, poisons included in Schedule 2 | 109 | 164 | 55 | 109
+6. | Licence to sell by retail, poisons included in Schedule 7 | 218 | 327 | 82 | 191
+6B. | Poisons permit (distribution of samples) | 109 | 164 | 55 | 109
+7. | Poisons permit (industrial) — (a)for one or more of the following poisons — benzene; 4,4-diaminodiphenylmethane (Methylene dianiline); 4,4’-methylenebis (2-chloroaniline); (b)for poisons other than those set out in paragraph (a) | 575 218 | 1 275 327 | 425 82 | 1 125 191
+8. | Poisons permit (educational, advisory or research) | 109 | 164 | 55 | 109
+8AA. | Poisons permit (health services) | 218 | 327 | 82 | 191
+11AA. | Stockfeed manufacturer’s permit | 174 | 260 | 82 | 165
+13. | Poisons permit (Departmental and hospitals) — (a)Departmental; (b)hospitals | 109 No fee | 164 No fee | 55 No fee | 109 No fee
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
