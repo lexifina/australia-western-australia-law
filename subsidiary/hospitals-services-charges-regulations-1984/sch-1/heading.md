@@ -7,14 +7,14 @@
  | (b)for private in-patients —
  | (i)in single bed wards (if taken at patient’s request) | $577 per day
  | (ii)in other wards | $318 per day
- | (c)for nursing home type patients | $52.05 per day
- | (d)for private nursing home type patients | $168.10 per day
+ | (c)for nursing home type patients ..................... | $53.55 per day
+ | (d)for private nursing home type patients ......... | $169.60 per day
  | (e)for ineligible in-patients | $1 666 per day
  | (f)for eligible war service veteran in-patients | no charge
 2. | Home modifications service and supply or loan as appropriate, of such aids and appliances, orthotics and prostheses, oxygen, gas and equipment, wigs, surgical implants or devices as are approved by the Executive Director (including repair and replacement) .............................................................. | no charge
  | This item does not apply to — (a)surgically implanted prostheses subject to a determination made under regulation 5(2)(c); or
  | (b)specialized orthoses or prostheses subject to a determination made under regulation 5(2)(e).
-[Division 1 inserted in Gazette 29 Jun 2004 p. 2526-7; amended in Gazette 30 Nov 2004 p. 5488; 19 Apr 2005 p. 1291; 28 Jun 2005 p. 2921-2; 14 Oct 2005 p. 4555-6; 4 Apr 2006 p. 1408; 13 Jun 2006 p. 2062; 14 Nov 2006 p. 4727; 29 Jun 2007 p. 3195; 10 Jul 2007 p. 3419; 30 Oct 2007 p. 5883; 10 Jun 2008 p. 2488-9; 19 Dec 2008 p. 5364; 1 May 2009 p. 1435; 23 Jun 2009 p. 2463; 8 Dec 2009 p. 5001; 30 Jun 2010 p. 3099-100; 22 Oct 2010 p. 5219-20; 12 Apr 2011 p. 1309; 3 Jun 2011 p. 1977; 21 Oct 2011 p. 4451; 20 Apr 2012 p. 1696; 15 Jun 2012 p. 2517; 2 Nov 2012 p. 5261.]
+[Division 1 inserted in Gazette 29 Jun 2004 p. 2526-7; amended in Gazette 30 Nov 2004 p. 5488; 19 Apr 2005 p. 1291; 28 Jun 2005 p. 2921-2; 14 Oct 2005 p. 4555-6; 4 Apr 2006 p. 1408; 13 Jun 2006 p. 2062; 14 Nov 2006 p. 4727; 29 Jun 2007 p. 3195; 10 Jul 2007 p. 3419; 30 Oct 2007 p. 5883; 10 Jun 2008 p. 2488-9; 19 Dec 2008 p. 5364; 1 May 2009 p. 1435; 23 Jun 2009 p. 2463; 8 Dec 2009 p. 5001; 30 Jun 2010 p. 3099-100; 22 Oct 2010 p. 5219-20; 12 Apr 2011 p. 1309; 3 Jun 2011 p. 1977; 21 Oct 2011 p. 4451; 20 Apr 2012 p. 1696; 15 Jun 2012 p. 2517; 2 Nov 2012 p. 5261; 7 May 2013 p. 1905.]
 ## Division 2 — Day patients
 3. | Accommodation, maintenance and other services for eligible day patients ................................................. | no charge
 [Division 2 inserted in Gazette 29 Jun 2004 p. 2527.]
