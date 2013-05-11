@@ -49,6 +49,7 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No.
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 3) 2012 | 8 Jun 2012 p. 2385-6 | r. 1 and 2: 8 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jun 2012 (see r. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 4) 2012 | 23 Nov 2012 p. 5721 | r. 1 and 2: 23 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Nov 2012 (see r. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2013 | 5 Feb 2013 p. 835-6 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b) and Gazette 5 Feb 2013 p. 823)
+Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 2) 2013 | 10 May 2013 p. 1936-7 | r. 1 and 2: 10 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 11 May 2013 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now called the General Account.
 Footnote no longer applicable.
