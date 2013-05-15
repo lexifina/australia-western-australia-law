@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 December 2012 of the Fire and Emergency Services Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fire and Emergency Services Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fire and Emergency Services Authority of Western Australia Regulations 1998 | 22 Dec 1998 p. 6843-4 | 1 Jan 1999 (see r. 2 and Gazette 22 Dec 1998 p. 6833)
@@ -12,6 +12,7 @@ Reprint 1: The Fire and Emergency Services Authority of Western Australia Regula
 Fire and Emergency Services Authority of Western Australia Amendment Regulations 2008 | 10 Jun 2008 p. 2486-7 | r. 1 and 2: 10 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jun 2008 (see r. 2(b))
 Fire and Emergency Services Authority of Western Australia Amendment Regulations 2012 | 31 Oct 2012 p. 5229-32 | r. 1 and 2: 31 Oct 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2012 (see r. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Reprint 2: The Fire and Emergency Services Regulations 1998 as at 7 Dec 2012 (includes amendments listed above)
+Fire and Emergency Services Amendment Regulations 2013 | 14 May 2013 p. 1968-9 | r. 1 and 2: 14 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 15 May 2013 (see r. 2(b))
 Formerly referred to the Fire and Emergency Services Authority of Western Australia Act 1998, the short title of which was changed to the Fire and Emergency Services Act 1998 by the Fire and Emergency Services Legislation Amendment Act 2012 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Mining Act 1978.
 Now known as the Fire and Emergency Services Regulations 1998; citation changed (see note under r. 1).
@@ -21,6 +22,7 @@ Defined termProvision(s)
 bush fire brigade6(7)
 contaminated5(2)
 permanent fire brigade6(7)
+prescribed association16
 private fire brigade6(7)
 volunteer fire brigade6(7)
 Western Australian Municipal Association3
