@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Environmental Protection Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 17 May 2013 of the Environmental Protection Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Environmental Protection Act 1986 | 87 of 1986 | 10 Dec 1986 | s. 1 and 2: 10 Dec 1986; Act other than s. 1 and 2: 20 Feb 1987 (see s. 2 and Gazette 20 Feb 1987 p. 440)
@@ -28,7 +28,7 @@ Hope Valley-Wattleup Redevelopment Act 2000 s. 37 | 77 of 2000 | 7 Dec 2000 | 1 
 Corporations (Consequential Amendments) Act 2001 Pt. 23 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Armadale Redevelopment Act 2001 s. 69 | 25 of 2001 | 26 Nov 2001 | 23 Mar 2002 (see s. 2 and Gazette 22 Mar 2002 p. 1651)
 Reprint of the Environmental Protection Act 1986 as at 11 Jan 2002 (includes amendments listed above except those in the Environmental Protection Amendment Act 1998 s. 5 and the Armadale Redevelopment Act 2001)
-Environmental Protection Amendment Act 2003 8-12 | 54 of 2003 (as amended by No. 8 of 2009 s. 54) | 20 Oct 2003 | s. 1 and 2: 20 Oct 2003; Act other than s. 1, 2, 37, 54(2), 55, 72(2) and (4), 75(3) and (4) and Pt. 9: 19 Nov 2003 (see s. 2 and Gazette 18 Nov 2003 p. 4723); s. 37, 54(2), 55, 72(2) and (4), 75(3) and (4) and Pt. 9: 8 Jul 2004 (see s. 2 and Gazette 30 Jun 2004 p. 2581)
+Environmental Protection Amendment Act 2003 11-15 | 54 of 2003 (as amended by No. 8 of 2009 s. 54) | 20 Oct 2003 | s. 1 and 2: 20 Oct 2003; Act other than s. 1, 2, 37, 54(2), 55, 72(2) and (4), 75(3) and (4) and Pt. 9: 19 Nov 2003 (see s. 2 and Gazette 18 Nov 2003 p. 4723); s. 37, 54(2), 55, 72(2) and (4), 75(3) and (4) and Pt. 9: 8 Jul 2004 (see s. 2 and Gazette 30 Jun 2004 p. 2581)
 Contaminated Sites Act 2003 s. 100 | 60 of 2003 (as amended by No. 40 of 2005 s. 13) | 7 Nov 2003 | 1 Dec 2006 (see s. 2 and Gazette 8 Aug 2006 p. 2899)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
@@ -36,7 +36,7 @@ Reprint 5: The Environmental Protection Act 1986 as at 16 Sep 2005 (includes ame
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 59 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(1), (2), (4) and (5)) | 36 of 2007 | 21 Dec 2007 | Sch. 4 cl. 2(1), (2) and (4): 9 Jan 2008 (see s. 2(b) and Gazette 8 Jan 2008 p. 33); Sch. 4 cl. 2(5): 1 Jul 2008 (see s. 2(b) and Gazette 20 Jun 2008 p. 2705)
+Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(1), (2), (4) and (5) | 36 of 2007 | 21 Dec 2007 | Sch. 4 cl. 2(1), (2) and (4): 9 Jan 2008 (see s. 2(b) and Gazette 8 Jan 2008 p. 33); Sch. 4 cl. 2(5): 1 Jul 2008 (see s. 2(b) and Gazette 20 Jun 2008 p. 2705)
 Water Resources Legislation Amendment Act 2007 s. 194 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Reprint 6: The Environmental Protection Act 1986 as at 11 Apr 2008 (includes amendments listed above, except those in the Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(5))
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 53 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
@@ -52,14 +52,18 @@ Reprint 7: The Environmental Protection Act 1986 as at 11 Feb 2011 (includes ame
 Metropolitan Redevelopment Authority Act 2011 s. 137 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Agricultural Practices (Disputes) Repeal Act 2011 s. 4 | 54 of 2011 | 9 Nov 2011 | 7 Dec 2011 (see note under s. 1)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 6 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 8: The Environmental Protection Act 1986 as at 17 May 2013 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Waste Avoidance and Resource Recovery Act 2007 s. 100 (Sch. 4 cl. 2(3)) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
+Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 20 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Water Services Legislation Amendment and Repeal Act 2012 s. 211 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+Deleted by the Building Act 2011 s. 174(6).
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
+Deleted by the Water Resources Legislation Amendment Act 2007 s. 101(1).
+Deleted by the Acts Amendment and Repeal (Environmental Protection) Act 1986 s. 32.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
 The Environmental Protection Amendment Act 1993 s. 5(2), (3) and (4) are transitional provisions that are of no further effect.
 The Environmental Protection Amendment Act 1998 Pt. 3 Div. 3 reads as follows:
@@ -104,15 +108,13 @@ but does not include clearing of a kind set out in Schedule 6 to the EP Act.
 [(4)deleted]
 (5) Sections 70(3) to (11) and 74A, Part VA and sections 89 and 103 of the EP Act apply in relation to a notice given under subsection (3) as if it were a vegetation conservation notice given under section 70(2)(b) of the EP Act.
 [Section 111 amended by No. 8 of 2009 s. 54(2) and (3).]
-On the date as at which this compilation was prepared, the Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) had not come into operation. It reads as follows:
-Schedule 4 — Amendments and repeals
-[s. 100]
-2.Environmental Protection Act 1986 amended
-(3) Part VIIA is repealed.
 The Waste Avoidance and Resource Recovery Regulations 2008 r. 24 reads as follows:
 24.Transitional provision — Waste Management and Recycling Fund
 The Waste Avoidance and Resource Recovery Act 2007 Schedule 5 clause 6 prevails to the extent that there is an inconsistency between that provision and Part VIIA Division 2 of the EP Act.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 20 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) had not come into operation. It reads as follows:
+2.Environmental Protection Act 1986 amended
+(3) Part VIIA is repealed.
+On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 20 had not come into operation. It reads as follows:
 Division 20 — Environmental Protection Act 1986 amended
 99.Act amended
 This Division amends the Environmental Protection Act 1986.
@@ -125,8 +127,7 @@ Road Traffic (Administration) Act 2008 section 4;
 as defined in the Road Traffic (Administration) Act 2008 section 4, has the meaning given by section 5 of that Act; or
 (4) In section 3(1) in the definition of road delete “Road Traffic Act 1974;” and insert:
 Road Traffic (Administration) Act 2008 section 4;
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 211 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 211 had not come into operation. It reads as follows:
 211.Environmental Protection Act 1986 amended
 (1) This section amends the Environmental Protection Act 1986.
 (2) In section 57(5) in the definition of designated area:
@@ -135,9 +136,9 @@ On the date as at which this compilation was prepared, the Water Services Legisl
 watercourse or wetland
 (c) in paragraph (d) delete “section 26,” and insert:
 section 26B,
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Account110A
 agreement to reserve51D(1)
 amended EP Act133(1)
@@ -169,8 +170,7 @@ clearing principles51A
 closure notice3(1), 68A(2)
 Commissioner51D(1)
 committee of inquiry3(1)
-condition3(1)
-condition48H(1)
+condition3(1), 48H(1)
 conduct affecting the environment50D(1)
 confidential information40(5)
 conservation areaSch. 5 cl. 2
@@ -178,7 +178,7 @@ conservation covenant51D(1)
 contaminated3(1)
 contaminated sites auditor3(1)
 contravention51S(1)
-convicted99T
+convicted99T(a)
 corporation51R(7), 55(3), 58(4)
 court51S(1)
 damage costs3A(3)
@@ -191,7 +191,7 @@ designated area57(5)
 designated person99H
 detrimental action111A(3)
 discharge3(1)
-draft policy3(1), 31
+draft policy3(1), 31(a)(i)
 driver3(1)
 ecosystem health condition3(1)
 emission3(1)
@@ -205,7 +205,7 @@ establish51I(4)
 existing authorisation61(3)
 final approval3(1)
 financial assurance requirement86A
-first notice28(1), 32(1)
+first notice28(1)(c)(i), 32(1)(a)(i)
 former EP Act130(1), 131(1), 132(1)
 fuel burning equipment3(1)
 implementation agreement or decision3(1)
@@ -224,7 +224,7 @@ local planning scheme3(1)
 material environmental harm3(1), 3A(2)
 materials3(1)
 Minister (Water Resources)57(5)
-Minister for Lands121A(1)
+Minister for Lands121A(1)(a)
 misbehaviourSch. 7 cl. 3(3)
 monetary benefits99Z(2)
 monitoring programme3(1)
@@ -265,7 +265,7 @@ region planning scheme3(1)
 Registrar of Deeds and Transfers66(5)
 Registrar of Titles66(5)
 regulations3(1)
-relevant ActSch. 4 it. 23
+relevant ActSch. 4 cl. 23
 relevant day61(2)
 relevant NEPM72(5)
 relevant premises55(1), 68A(1)
@@ -284,7 +284,7 @@ significant proposal37B(1)
 SLC Act51D(1)
 soil conservation notice51D(1)
 specified6(10), 51I(4), 62A(4), 65(8), 68A(1), 70(1), 71(6), Sch. 2 it. 1
-strategic proposal37B(1), 37B(2), 39B(3)
+strategic proposal37B(1), 37B(2), 39B(3)(a)
 subdivision3(2a)
 subsidiary51R(7), 55(3), 58(4)
 threatened ecological communitySch. 5 cl. 2
