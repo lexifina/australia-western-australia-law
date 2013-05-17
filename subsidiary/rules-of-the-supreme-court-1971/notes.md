@@ -127,12 +127,12 @@ Supreme Court Amendment Rules 2011 | 28 Jun 2011 p. 2551-63 | r. 1 and 2: 28 Jun
 Reprint 8: The Rules of the Supreme Court 1971 as at 15 Jul 2011 (includes amendments listed above)
 Supreme Court Amendment Rules 2012 | 12 Jun 2012 p. 2445-53 | r. 1 and 2: 12 Jun 2012 (see r. 2(a)); Rules other than r. 1 and 2: 26 Jun 2012 (see r. 2(b))
 Supreme Court Amendment Rules 2013 | 23 Apr 2013 p. 1590-7 | r. 1 and 2: 23 Apr 2013 (see r. 2(a)); Rules other than r. 1 and 2: 7 May 2013 (see r. 2(b))
+Supreme Court Amendment Rules (No. 4) 2013 | 3 May 2013 p. 1718-19 | r. 1 and 2: 3 May 2013 (see r. 2(a)); Rules other than r. 1 and 2: 17 May 2013 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Supreme Court Amendment Rules (No. 3) 2012 r. 3-8 | 3 Aug 2012 p. 3748-56 | Operative on commencement of the Trans-Tasman Proceedings Act 2010 (Cwlth) s. 3 to 110 (see r. 2(b))
 Supreme Court Amendment Rules (No. 2) 2013 r. 3-6 | 15 Mar 2013 p. 1205-7 | Operative on commencement of the Commercial Arbitration Act 2012 s. 40 (see r. 2(b))
-Supreme Court Amendment Rules (No. 4) 2013 r. 3-4 | 3 May 2013 p. 1718-19 | 17 May 2013 (see r. 2(b))
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
 Formerly referred to as The Partnership Act 1895, the short title of which was changed to the Partnership Act 1895 by the Statutes (Repeals and Minor Amendments) Act 2003 s. 144. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Gas Pipelines Access (Western Australia) Act 1998, the short title of which was changed to the Energy Arbitration and Review Act 1998 by the National Gas Access (WA) Act 2009 s. 26. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -318,13 +318,6 @@ If, under an arbitration law, the Court agrees to a request for assistance in ta
 Order 66, with any necessary changes, applies if the Court is required to assess the costs of an arbitration (other than the fees or expenses of an arbitrator).
 6.Schedule 2 amended
 In Schedule 2 delete Forms 105, 106 and 107.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Supreme Court Amendment Rules (No. 4) 2012 r. 3-4 had not come into operation. They read as follows:
-3.Rules amended
-These rules amend the Rules of the Supreme Court 1971.
-4.Order 75A rule 4 amended
-In Order 75A rule 4 delete “[name] of [address],” and insert:
-[name],
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
