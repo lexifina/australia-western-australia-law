@@ -1,6 +1,6 @@
 ## Schedule 1 — Forms
 [r. 6AA]
-[Heading inserted in Gazette 6 Jul 2012 p. 3022.]
+[Heading inserted: Gazette 6 Jul 2012 p. 3022.]
 1.Entry warrant
 Child Care Services Act 2007 s. 43K | Entry warrant
 To1 | All licensing officers under the Child Care Services Act 2007.
@@ -22,4 +22,4 @@ Notes to Form 1:
 1.An entry warrant may be executed by any licensing officer (s. 43L(3) of the Act).
 2.“Compliance purposes” is defined in s. 3 of the Act.
 3.The execution period must not exceed 14 days (s. 43K(2)(d) of the Act).
-[Schedule 1 inserted in Gazette 6 Jul 2012 p. 3022-3.]
+[Schedule 1 inserted: Gazette 6 Jul 2012 p. 3022-3.]
