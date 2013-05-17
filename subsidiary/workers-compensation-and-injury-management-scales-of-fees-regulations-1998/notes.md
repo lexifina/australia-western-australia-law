@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Workers’ Compensation and Injury Management (Scales of Fees) Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 17 May 2013 of the Workers’ Compensation and Injury Management (Scales of Fees) Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Workers’ Compensation and Rehabilitation (Scales of Fees) Regulations 1998 | 13 Oct 1998 p. 5709-25 | 13 Oct 1998
@@ -35,16 +35,17 @@ Reprint 4: The Workers’ Compensation and Injury Management (Scales of Fees) Re
 Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations 2010 | 29 Oct 2010 p. 5347-92 | r. 1 and 2: 29 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2010 (see r. 2(b))
 Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations 2011 | 30 Sep 2011 p. 3913-41 | r. 1 and 2: 30 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2011 (see r. 2(b))
 Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations 2012 | 25 Sep 2012 p. 4447-96 | r. 1 and 2: 25 Sep 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2012 (see r. 2(b))
+Reprint 5: The Workers’ Compensation and Injury Management (Scales of Fees) Regulations 1998 as at 17 May 2013 (includes amendments listed above)
 The amendments in the Workers’ Compensation and Rehabilitation (Scales of Fees) Amendment Regulations (No. 3) 2004 published in Gazette 4 Jan 2005 p. 6-14 have no effect because of an error in the reference to the principal regulations to be amended.
 Now known as the Workers’ Compensation and Injury Management (Scales of Fees) Regulations 1998; citation changed (see note under r. 1).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-After-hoursSch. 1
+Defined termProvision(s)
+after-hoursSch. 1 Pt. 1
 assessor9(2)
-closed reductionSch. 1 Pt. 1
+closed reductionSch. 1 Pt. 2
 GST10(1)
 MBS item number2(2)
-open reductionSch. 1 Pt. 1
-otherSch. 1 Pt. 1
+open reductionSch. 1 Pt. 2
+otherSch. 1 Pt. 2
 report and certificate9(2)

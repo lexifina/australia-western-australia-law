@@ -189,7 +189,7 @@ Anaesthesia for after-hours emergencies
 A 50% loading should apply to emergency after–hours anaesthesia. It is calculated using the “total relative value”. The 50% loading and the emergency surgery modifier should not be used together.
 After-hours is defined as that period between 6.00 p.m. and the following 8.00 a.m. on weekdays and between 8.00 a.m. and the following 8.00 a.m. on weekend days and public holidays.
 PART A — PROCEDURES
-Description of procedure, etc | Units
+Description of procedure, etc. | Units
 Head
 Anaesthesia for all procedures on the skin and subcutaneous tissue, muscles, salivary glands and superficial blood vessels of the head, including biopsy, unless otherwise specified | 5
 — plastic repair of cleft lip | 6
@@ -601,7 +601,7 @@ Cardioversion, elective, electrical conversion of arrhythmia, external | no | no
 Hyperbaric oxygen treatment when the specialist is inside the chamber | yes | yes | 15
 Hyperbaric oxygen treatment when the specialist is outside the chamber | yes | yes | 8
 Heart, 2 dimensional real time transoesophageal examination of, at least 2 oesophageal windows performed using a mechanical sector scanner or phased array transducer with —
-(a)measurement blood flow velocities across the cardiac valves using pulsed wave and continuous Doppler techniques;
+(a)measurement blood flow velocities across the cardiac valves using pulsed wave and continuous Doppler techniques; and
 (b)real time colour flow mapping from at least 2 oesophageal windows; and (c)recording on video tape | no | no | 10
 Intra-operative 2 dimensional real time transoesophageal echocardiography incorporating Doppler techniques with colour flow mapping and recording onto video tape, performed during cardiac surgery incorporating sequential assessment of cardiac function before and after the surgical procedure | no | no | 14
 The use of 2 dimensional imaging ultrasound guidance to assist percutaneous major vascular access involving catheterisation of the jugular, subclavian or femoral vein | no | no | 3

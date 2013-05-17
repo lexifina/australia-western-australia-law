@@ -19,6 +19,7 @@
  | Description of circumstances | Maximum fee**
 1. | If a worker who is required under Part VII Division 2 of the Act to submit to an examination by an approved medical specialist does not attend, in a case in which — | $580.05
  | (a)no prior arrangements to cancel the examination are made; or
+ | Description of circumstances | Maximum fee**
  | (b)the examination is cancelled, otherwise than at the request of the approved medical specialist, with less than one working day’s notice.
 **Denotes that where the service provided is a fraction of one hour, the amount chargeable is to be calculated as that fraction of the maximum amount.
 [Part 2 inserted in Gazette 25 Sep 2012 p. 4496.]
