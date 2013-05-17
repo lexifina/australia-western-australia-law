@@ -1,7 +1,7 @@
 ## Second Schedule
 War Service Land Settlement
 CERTIFICATE OF QUALIFICATION TO APPLY FOR LAND UNDER THE WAR SERVICE LAND SETTLEMENT SCHEME ACT 1954
-[insert departmental address].........................., 20 .........
+[insert departmental address] .........................., 20 .........
 Certificate No. ...............................................
 THIS IS TO CERTIFY that we have investigated the qualifications of
 and we are satisfied that he is (a) .........................................................,
@@ -18,4 +18,4 @@ Certificate is issued .......................................................
 (a)Insert “Member of the Forces”, “Discharged Member of the Forces” (as defined in 6 and 7 of these regulations) as the case may be.
 (b)Insert “Sheep and Wheat Farming”, “Dairy Farming”, “Pastoral Pursuits”, “Fruit Growing”, “Mixed Farming”, whichever is applicable.
 This Certificate of itself does not entitle the holder to be allotted a farm, but as far as possible the demand for farms will be met.
-[Second Schedule amended in Gazette 29 Dec 2006 p. 5919.]
+[Second Schedule amended: Gazette 29 Dec 2006 p. 5919.]
