@@ -15,6 +15,7 @@ First Home Owner Grant Amendment Regulations (No. 3) 2008 | 23 Dec 2008 p. 5480-
 First Home Owner Grant Amendment Regulations 2009 | 4 Aug 2009 p. 3104-5 | r. 1 and 2: 4 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Aug 2009 (see r. 2(b))
 Reprint 2: The First Home Owner Grant Regulations 2000 as at 23 Oct 2009 (includes amendments listed above)
 First Home Owner Grant Amendment Regulations 2011 | 9 Sep 2011 p. 3684-5 | r. 1 and 2: 9 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Sep 2011 (see r. 2(b))
+First Home Owner Grant Amendment Regulations 2013 | 17 May 2013 p. 1986 | r. 1 and 2: 17 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 May 2013 (see r. 2(b))
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 5(d).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
