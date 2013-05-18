@@ -19,6 +19,7 @@ Revenue Laws Amendment and Repeal Act 2010 s. 31 assented to 25 Jun 2010 | 26 Ju
 Taxation Administration Amendment Regulations 2010 | 25 Jun 2010 p. 2879-80 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Taxation Administration Amendment Regulations 2011 | 9 Sep 2011 p. 3685-6 | r. 1 and 2: 9 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Sep 2011 (see r. 2(b))
 Taxation Administration Amendment Regulations 2012 | 18 Dec 2012 p. 6597-8 | r. 1 and 2: 18 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2012 (see r. 2(b))
+Taxation Administration Amendment Regulations (No. 2) 2013 | 17 May 2013 p. 1985 | r. 1 and 2: 17 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 May 2013 (see r. 2(b))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. R. 1-4 and Pt. 7 Div. 2 of those regulations read as follows:
 1.Citation
 These regulations are the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
