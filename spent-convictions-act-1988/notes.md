@@ -50,6 +50,7 @@ Reprint 6: The Spent Convictions Act 1988 as at 5 Aug 2011 (includes amendments 
 Misuse of Drugs Amendment Act 2011 Pt. 4 | 56 of 2011 | 21 Nov 2011 | 30 Jan 2013 (see s. 2(b) and Gazette 29 Jan 2013 p. 324-5)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 8 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 Teacher Registration Act 2012 s. 169 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
+Spent Convictions (Act Amendment) Regulations 2013 published in Gazette 17 May 2013 p. 1984 | r. 1 and 2: 17 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 May 2013 (see r. 2(b))
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
