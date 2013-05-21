@@ -83,8 +83,8 @@ Address:
 Phone (home):
 (work): | Fax:
 (mobile): | E-mail:
-[*If the claim is made under section 33(1)(a) of the Western Australian Planning Commission Act 1985, the details are to be those of the owner of the land at the date of reservation or alteration of the reservation, as the case requires.
-If the claim is made under section 33(1)(b) of the Western Australian Planning Commission Act 1985, the details are to be those of the owner of the land at the date of the application for approval to carry out development.]
+[*If the claim is made under section 177(1)(a) of the Act, the details are to be those of the owner of the land at the date of reservation or alteration of the reservation, as the case requires.
+If the claim is made under section 177(1)(b) of the Act, the details are to be those of the owner of the land at the date of the application for approval to carry out development.]
 Contact person:
 Signature: | Date:
 Signature: | Date:
@@ -104,3 +104,4 @@ State amount of compensation claimed
 The amount of compensation claimed is:
 which is made up as follows:
 $
+[Form 4 amended: Gazette 21 May 2013 p. 2010-11.]
