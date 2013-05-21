@@ -11,6 +11,7 @@ Energy Coordination (Gas Tariffs) Amendment Regulations 2010 | 26 Mar 2010 p. 11
 Energy Coordination (Gas Tariffs) Amendment Regulations 2011 | 29 Jul 2011 p. 3130-2 | r. 1 and 2: 29 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2011 (see r. 2(b)(i))
 Energy Coordination (Gas Tariffs) Amendment Regulations (No. 2) 2012 | 1 May 2012 p. 1841-4 | r. 1 and 2: 1 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2012 (see r. 2(b))
 Energy Coordination (Gas Tariffs) Amendment Regulations 2012 | 24 Jul 2012 p. 3392-3 | r. 1 and 2: 24 Jul 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2012 (see r. 2(b))
+Energy Coordination (Gas Tariffs) Amendment Regulations 2013 | 17 May 2013 p. 1979-80 | r. 1 and 2: 17 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 May 2013 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
