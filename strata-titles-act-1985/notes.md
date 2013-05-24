@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Strata Titles Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 24 May 2013 of the Strata Titles Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Strata Titles Act 1985 | 33 of 1985 | 6 May 1985 | s. 1 and 2: 6 May 1985; Act other than s. 1 and 2: 30 Jun 1985 (see s. 2 and Gazette 21 Jun 1985 p. 2188)
@@ -11,7 +11,7 @@ Compilation table
  | Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
  | Planning Legislation Amendment Act (No. 2) 1994 s. 46(12) | 84 of 1994 | 13 Jan 1995 | 1 Mar 1995 (see s. 2 and Gazette 21 Feb 1995 p. 567)
  | Caravan Parks and Camping Grounds Act 1995 s. 33 | 34 of 1995 | 29 Sep 1995 | 1 Jul 1997 (see s. 2 and Gazette 20 Jun 1997 p. 2805)
- | Strata Titles Amendment Act 1995-7, 9 | 58 of 1995 | 20 Dec 1995 | s. 1 and 2: 20 Dec 1995; Act other than s. 1 and 2: 14 Apr 1996 (see s. 2 and Gazette 15 Mar 1996 p. 981)
+ | Strata Titles Amendment Act 1995-8, 10 | 58 of 1995 | 20 Dec 1995 | s. 1 and 2: 20 Dec 1995; Act other than s. 1 and 2: 14 Apr 1996 (see s. 2 and Gazette 15 Mar 1996 p. 981)
  | Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 188 | 73 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2(2) and Gazette 29 Dec 1995 p. 6291)
  | Reprint of the Strata Titles Act 1985 as at 22 Apr 1996 (includes amendments listed above except those in the Caravan Parks and Camping Grounds Act 1995)
  | Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
@@ -33,52 +33,43 @@ Compilation table
  | Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 67 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
  | Statutes (Repeals and Minor Amendments) Act 2003 s. 112 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
  | Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
- | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(12) and (13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+ | Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 150 (other than the amendment to s. 116A(4)) | 59 of 2004 (as amended by No. 2 of 2008 s. 77(12) and (13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
  | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 121 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
  | Reprint 5: The Strata Titles Act 1985 as at 20 May 2005 (includes amendments listed above)
  | Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
  | Land Information Authority Act 2006 s. 160 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
- | Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+ | Duties Legislation Amendment Act 2008 Sch. 1 cl. 36 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
  | Legal Profession Act 2008 s. 707 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
  | Reprint 6: The Strata Titles Act 1985 as at 25 Jul 2008 (includes amendments listed above except those in the Legal Profession Act 2008)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 37 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
 Building Act 2011 s. 174 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 7: The Strata Titles Act 1985 as at 24 May 2013 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Water Services Legislation Amendment and Repeal Act 2012 s. 232 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
-“
 (5) A plan registered under the principal Act before the provision inserted by subsection (3) came into operation is declared to be, and to have always been, valid if it would have been valid at the time of registration had that provision been then in operation.
-”.
-The Strata Titles Act 1966 is repealed by this Act, s. 131.
+Deleted by the Building Act 2011 s. 153(2).
+The Strata Titles Act 1966 was repealed by this Act, s. 131.
 The Strata Titles Amendment Act 1995 s. 46(2) reads as follows:
-“
 (2) Expenditure made by the council of a strata company at any time before the commencement of subsection (1) that would have been within paragraph (e) of section 47(2) of the principal Act if that section had then been in operation is declared to be, and to have always been, as valid as it would have been if that section had been then in operation.
-”.
 The Strata Titles Amendment Act 1995 s. 54(3) reads as follows:
-“
 (3) Any insurance effected and maintained by a strata company at any time before the commencement of subsection (1)(b) that would have been within section 55(1)(b) of the principal Act if that section and subsection (1)(b) had then come into operation is declared to be, and to have always been, as valid as it would have been if that section and subsection (1)(b) had then come into operation.
-”.
 The Strata Titles Amendment Act 1995 s. 57(2) and (3) read as follows:
-“
 (2) Section 60, as inserted by subsection (1), applies to a plan registered after the commencement of this section.
 (3) Section 60, as it existed before the commencement of this section, continues to apply, despite its repeal, to a plan registered before that commencement.
-”.
 The Strata Titles Amendment Act 1995 s. 66 reads as follows:
-“
 66.Transitional provision
 Despite their repeal by section 63, sections 68 and 69 of the principal Act continue to apply to any contract, agreement or document entered into before the commencement of section 63 and the provisions inserted into the principal Act by that section do not apply to any such contract, agreement or document.
-”.
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Sch. 1 cl. 31 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 78(6).
 The Strata Titles Amendment Act 1995 s. 38(2), 43(5) and (6), 45(3) and 93(2) are transitional provisions that are of no further effect.
 The Strata Titles Amendment Act 1996 s. 12(2) and (3) and 34(4) are transitional provisions that are of no further effect.
 The Strata Titles Amendment Act 1996 s. 30 reads as follows:
-“
 30.Transitional provisions as to insurance
-(1) If immediately before the day on which section 25 of the Strata Titles Amendment Act 1996 commences (“the commencement day”) a strata company for a single tier strata scheme is maintaining insurance in respect of —
+(1) If immediately before the day on which section 25 of the Strata Titles Amendment Act 1996 commences (the commencement day) a strata company for a single tier strata scheme is maintaining insurance in respect of —
 (a) buildings in the scheme; and
 (b) damage to property, death or bodily injury,
 that after the commencement day satisfies the requirements of new section 53D(3), the strata company is to be taken to have made a determination for the purposes of new section 53B(2).
@@ -93,12 +84,10 @@ that he requires the termination of the order; and
 (5) It is for the person who has served a notice under subsection (4) to lodge a copy of the notice, accompanied by the prescribed form, with the Registrar of Titles for the purpose of subsection (4)(b).
 (6) In this section —
 new section refers to a section inserted in the principal Act by section 25 of this Act.
-”.
-The amendment in the Statutes (Repeals and Minor Amendment) Act 2003 s. 112(13) could not be done as the amendment was done in the 22 August 2003 reprint.
+The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 112(13) could not be done as the amendment was done in the 22 August 2003 reprint.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 150 (to amend s. 116A(4)) and Sch. 2 cl. 48 were repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(12) and (13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 39 and 63 read as follows:
-“
 39.Strata Titles Act 1985
 (1) In this regulation ¾
 commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 121 comes into operation.
@@ -137,15 +126,12 @@ on the commencement day the application is to be taken to be an application by a
 (b) the appellant;
 (c) any person who was given notice under the ST Act section 105(6) (as in force immediately before the commencement day) of the time and place for the determination of the appeal; and
 (d) any person who, by the order, is required to do or to refrain from doing a specified act.
-”.
 The amendment in the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15, which gives effect to Sch. 2 cl. 63(9), to amend s. 25B(3) is not included because the subsection it sought to amend had been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1116.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 had not come into operation. It reads as follows:
-“
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 had not come into operation. It reads as follows:
 67.Strata Titles Act 1985 amended
 Section 73(1)(g)(i) of the Strata Titles Act 1985 is amended by deleting “, and in particular his rights, if any, under the Superannuation and Family Benefits Act 1938.”.
-”.
 The section that it seeks to amend has been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1125.
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 232 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 232 had not come into operation. It reads as follows:
 232.Strata Titles Act 1985 amended
 (1) This section amends the Strata Titles Act 1985.
 (2) Delete section 60(4).
@@ -156,15 +142,15 @@ On the date as at which this compilation was prepared, the Water Services Legisl
 For the purposes of this Division —
 (a) a statutory water service charge (as defined in the Water Services Act 2012 section 71(1)) that applies in respect of land is to be taken to be a rate made and levied by an authority (that is, the licensee to whom the charge is payable); and
 (b) the licensee is to be taken to be an authority authorised to make and levy the rate on the land.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-a disposition statement8B(2), 21V(2), 31H(2)
+Defined termProvision(s)
 acquiring authority29B(4)
 administrator3(1)
+allowed period7B(2)
 amendments133
 application26(1), 27(1), 136(1)
-appointed daySch. 3, cl. 1(1)
+appointed daySch. 3 cl. 1(1)
 Authority3(1)
 base lines3(1)
 building3(1), 53
@@ -175,21 +161,23 @@ commencement day21K, 133
 Commission3(1)
 Commissioner of Titles129A(5), 129B(6)
 common property3(1)
-companySch. 3, cl. 1(1)
+companySch. 3 cl. 1(1)
 contract68
 council3(1)
 date of the contract70(8)
+disposition statement8B(2), 21V(2), 31H(2)
+dominant lot5D(2)(b)
 existing small strata scheme21A
 floor3(1)
 floor area3(1)
 floor plan3(1)
-former ActSch. 3, cl. 1(1)
-former by-lawSch. 3, cl. 1(1)
-former common propertySch. 3, cl. 1(1)
-former lotSch. 3, cl. 1(1)
-former parcelSch. 3, cl. 1(1)
-former proprietorSch. 3, cl. 1(1)
-former strata schemeSch. 3, cl. 1(1)
+former ActSch. 3 cl. 1(1)
+former by-lawSch. 3 cl. 1(1)
+former common propertySch. 3 cl. 1(1)
+former lotSch. 3 cl. 1(1)
+former parcelSch. 3 cl. 1(1)
+former proprietorSch. 3 cl. 1(1)
+former strata schemeSch. 3 cl. 1(1)
 interim order82(1)
 land3(1)
 licensed surveyor3(1)
@@ -208,9 +196,11 @@ parcel3(1)
 permitted boundary deviation3(1)
 person concerned3(1)
 plot ratio3(1)
-post-1985 companySch. 4, cl. 1
+post-1985 companySch. 4 cl. 1
 prescribed3(1)
-proprietor3(1), 53A
+proprietor3(1), 53A(c)
+proprietor in default103B(1)
+proxy50A(1)
 purchaser68
 real estate agent70(8)
 Register3(1)
@@ -220,13 +210,15 @@ replacement value53
 resolution without dissent3(1)
 re-subdivision3(1)
 retired person6A(3)
-scheme3(1), 53A
+scheme3(1), 53A(a)
+servient lot5D(2)(b)
 settlement69D(6)
 settlement agent70(8)
 single tier strata scheme3(1)
-site value14(2a)
+site value14(2a)(b)
+sketch plan21T(1)(b)
 special resolution3(1)
-strata company3(1), 53A, 54(1)
+strata company3(1), 53A(b), 54(1)
 strata plan3(1)
 strata scheme3(1)
 strata/survey-strata plan3(1)
@@ -238,15 +230,8 @@ take3(1)
 taken3(1)
 taking3(1)
 taking order29C(3)
-the allowed period7B(2)
-the dominant lot5D(2)
-the proprietor in default103B(1)
-the proxy50A(1)
-the servient lot5D(2)
-the sketch plan21T(1)
-the termination daySch. 3, cl. 12(2)
-the transition period123A(2), 123C(2)
-transition periodSch. 4, cl. 1
+termination daySch. 3 cl. 12(2)
+transition period123A(2), 123C(2), Sch. 4 cl. 1
 two-lot scheme3(1)
 unanimous resolution3(1)
 unit entitlement3(1)
