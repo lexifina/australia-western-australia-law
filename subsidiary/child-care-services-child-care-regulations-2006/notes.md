@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Child Care Services (Child Care) Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 24 May 2013 of the Child Care Services (Child Care) Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Children and Community Services (Early Childhood Care) Regulations 2006 | 18 Jan 2006 p. 125-90 | 1 Mar 2006 (see r. 2 and Gazette 14 Feb 2006 p. 695)
@@ -11,13 +11,14 @@ Children and Community Services (Child Care) Amendment Regulations 2007 | 7 Aug 
 Reprint 3: The Child Care Services (Child Care) Regulations 2006 as at 5 Oct 2007 (includes amendments listed above)
 Child Care Services (Child Care) Amendment Regulations 2011 | 6 Jan 2012 p. 14-22 | r. 1 and 2: 6 Jan 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jan 2012 (see r. 2(b) and Gazette 6 Jan 2012 p. 3)
 Child Care Services (Child Care) Amendment Regulations (No. 3) 2012 | 5 Mar 2013 p. 1110-13 | r. 1 and 2: 5 Mar 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Mar 2013 (see r. 2(b))
+Reprint 4: The Child Care Services (Child Care) Regulations 2006 as at 24 May 2013 (includes amendments listed above)
 These regulations were made under the Children and Community Services Act 2004 but continue to operate under the Child Care Services Act 2007 s. 52 from 10 August 2007 (see s. 56).
-Footnote no longer applicable.
+The Building Regulations 1989 were repealed by the Building Act 2011 s. 157, as at 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033).
 The Community Services (Child Care) Amendment Regulations 2001 commenced 13 Feb 2001 (see Gazette 13 Feb 2001 p. 872-91).
 Now known as the Child Care Services (Child Care) Regulations 2006; citation changed (see note under r. 1).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 2012 amending regulations106(1), 107(1)
 care session3
 child care licence3
@@ -53,7 +54,6 @@ section3
 service3
 specified30(1)
 staff member3
-subject13(1)
 volunteer3
 water activity3
 working day3
