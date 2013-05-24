@@ -25,7 +25,7 @@ Coorow | Whole district
 Cottesloe | Whole district
 Dardanup | Whole district
 Derby-West Kimberley | Whole district
-Donnybook-Balingup | Whole district
+Donnybrook-Balingup | Whole district
 Dumbleyung | Whole district
 East Fremantle | Whole district
 Esperance | All townsites and lots measuring 10 ha or less
@@ -37,7 +37,7 @@ Harvey | All townsites and area zoned special residential or special rural in th
 Jerramungup | Whole district except areas zoned rural by a local planning scheme
 Joondalup | Whole district
 Kalamunda | Whole district
-Kalgoorlie- Boulder | Whole district
+Kalgoorlie-Boulder | Whole district
 Katanning | Whole district
 Kellerberrin | Townsites of Kellerberrin, Doodlakine and Baandee
 Kent | Townsites of Nyabing, Pingrup
