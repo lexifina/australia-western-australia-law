@@ -107,12 +107,12 @@ Policy number:
 WorkCover number:
 Has employer contacted medical practitioner?
 Estimated time off work:
-⁯ less than one day
-⁯ 1-4 work days (inclusive)
-⁯ 5-9 work days (inclusive)
-⁯ 10-20 work days (inclusive)
-⁯ more than 20 work days
-⁯ fatality
+r⁯ less than one day
+r⁯ 1-4 work days (inclusive)
+r⁯ 5-9 work days (inclusive)
+r⁯ 10-20 work days (inclusive)
+r⁯ more than 20 work days
+r⁯ fatality
 Employer please complete
 Name of policy holder/employer:
 Trading as (if different to above):
@@ -132,7 +132,7 @@ Worker please complete
 Surname:
 Other names:
 Date of birth:
-⁯ Male ⁯ Female
+r⁯ Male ⁯r⁯ Female
 Preferred language (if not English):
 Address
 Postcode
@@ -141,19 +141,19 @@ Daytime contact phone number:
 Occupation (e.g. first class welder):
 Main tasks/duties performed (e.g. welding of high pressure steam pipes):
 At the time of the injury I was working as a:
-⁯ direct employee
-⁯ working director
-⁯ contractor
-⁯ employee of a contractor
-⁯ subcontractor
-⁯ visa worker
-⁯ other
+r⁯ direct employee
+r⁯ working director
+r⁯ contractor
+r⁯ employee of a contractor
+r⁯ subcontractor
+r⁯ visa worker
+r⁯ other
 At the time of the injury I was engaged as:
-⁯ full-time
-⁯ part-time
-⁯ permanent
-⁯ temporary
-⁯ casual
+r⁯ full-time
+r⁯ part-time
+r⁯ permanent
+r⁯ temporary
+r⁯ casual
 Worker please complete — Other employment
 Do you have any other job?
 If yes, please give details:
@@ -170,13 +170,13 @@ If so when?
 Date:
 Time:
 Were you:
-⁯ working — at your normal workplace
-⁯ working — away from normal workplace
-⁯ working — road traffic accident
-⁯ on work break — at normal workplace
-⁯ on work break — away from normal workplace
-⁯ other duty status
-⁯ commuting/journey
+r⁯ working — at your normal workplace
+r⁯ working — away from normal workplace
+r⁯ working — road traffic accident
+r⁯ on work break — at normal workplace
+r⁯ on work break — away from normal workplace
+r⁯ other duty status
+r⁯ commuting/journey
 Describe the occurrence. Include:
 (i)What action was involved (i.e. fall, struck by object,): [Mechanism]
 (ii)What object/machine/substance was involved (i.e. fumes, door frame): [Agency]
@@ -340,8 +340,7 @@ Address
 (Postcode)
 Telephone Number (.........) ..............................
 Type of work engaged in .............................................Prescribed o Yes o No
-Baseline TestDate......./......../........PLH o o . o o / NO BASELINE
-TEST
+Baseline Test Date....../......./....... PLH o o . o o / NO BASELINE TEST
 (if worker has had a Full Audiological Baseline Test (please circle if applicable)
 use the date and PLH of the full audiological test)
 Subsequent TestDate....../......./.......PLH o o . o o
@@ -657,8 +656,7 @@ sent with this notice, in which it is said that (state concisely the ground reli
 (2)you may, if you dispute the employer’s right to discontinue or reduce the weekly payments within the 21 days referred to in this notice apply for an order of an arbitrator that the weekly payments shall not be discontinued or reduced;
 (3)if you do not so apply, weekly payments may be lawfully discontinued or reduced;
 [(4)deleted]
-(5)you may obtain information from WorkCover WA situated
-at ................................................................................ as to the ways and means available to you to establish or protect your rights in respect of your injury.
+(5)you may obtain information from WorkCover WA situated at ......................................................... as to the ways and means available to you to establish or protect your rights in respect of your injury.
 Dated theday of20 .
 ...............................................................
 Signed on behalf of the employer.
@@ -672,26 +670,26 @@ Workers’ Compensation and Injury Management Act 1981
 (Section 69)
 DECLARATIONS IN RESPECT OF WORKER NOT RESIDING IN W.A.
 [ r = tick where appropriate. * = delete where appropriate]
-To: (name and address of employer or employer’s insurer) ............................................................
-...........................................................................................................................................................
-...........................................................................................................................................................
+To: (name and address of employer or employer’s insurer) .................................................................................
+................................................................................................................................................................................
+................................................................................................................................................................................
 Re: Claim Number ......................................................
 1.WORKER’S SECTION
 1a.Worker’s details
-First name(s): .................................................. Surname: ...............................................................
-Address: ...........................................................................................................................................
-Telephone: ........................... Date of birth: ....../....../...... Occupation: .........................................
-Date of injury:...................... Nature of injury: ...............................................................................
+First name(s): .................................................. Surname: ...................................................................................
+Address: ................................................................................................................................................................
+Telephone: ........................... Date of birth: ....../....../...... Occupation: ..............................................................
+Date of injury:...................... Nature of injury: ....................................................................................................
 1b.Employer details
-Name and address of worker’s employer: .......................................................................................
+Name and address of worker’s employer: ............................................................................................................
 1c.Declaration by worker
-I, ......................................................................................................................................................
+I, ...........................................................................................................................................................................
 (full name of worker)
 *being duly sworn, say that/do solemnly and sincerely affirm that the above details about me are correct.
 *Sworn/affirmed at)
 in (State or country))
-this day of 20)...............................................................
-Before me:...............................................................
+this day of 20)....................................................................
+Before me:....................................................................
 (a person having authority
 to administer an oath)
 2.MEDICAL PRACTITIONER’S SECTION
@@ -700,45 +698,45 @@ On ........./........../20.......... I examined the above person and am of the o
 Fit
 rFit to return to pre-injury duties, no further treatment required
 rFit to return to pre-injury duties, but requires further treatment
-rFit for restricted return to work from ............................. to .....................................
-rRestricted hours (please specify) ...................................................................
-rRestricted days (please specify) ....................................................................
+rFit for restricted return to work from ............................. to ...................................................
+rRestricted hours (please specify) ..................................................................................
+rRestricted days (please specify) ...................................................................................
 rRestricted duties
 rWork restrictions:
 rNo lifting anything heavier than .................. kg
 rAvoid repetitive bending / lifting
-rAvoid repetitive use of the affected body part ................................................
+rAvoid repetitive use of the affected body part .............................................................
 rAvoid prolonged standing / walking / sitting
 rKeep injured area clean and dry
-rOther restrictions ............................................................................................
-.........................................................................................................................
+rOther restrictions ..........................................................................................................
+........................................................................................................................................
 Unfit
-rUnfit totally for work for ................. days from ....................... to ............ (inclusive)
+rUnfit totally for work for ................... days from ........................ to .............. (inclusive)
 2b.Medical assessment
-Clinical findings / diagnosis (include possible complications, effect of prior injury or medial conditions) .................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+Clinical findings / diagnosis (include possible complications, effect of prior injury or medial conditions) ..................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
 2c.Medical management at this consultation
-rMedication: .................................................................................................................
-rApproved allied health treatments: (specify type and include number of sessions recommended) ............................................................................................................. ......................................................................................................................................
-rImaging: .......................................................................................................................
-rReferred to another hospital/specialist: (name) ...........................................................
-rOther treatment: ........................................................................................................... ......................................................................................................................................
+rMedication: ........................................................................................................................................................................................................................................................................................
+rApproved allied health treatments: (specify type and include number of sessions recommended) .................................................................................................................... ............................................................................................................................................. ............................................................................................................................................
+rImaging: ....................................................................................................................................
+rReferred to another hospital/specialist: (name) ........................................................................
+rOther treatment: ......................................................................................................................... .............................................................................................................................................
 2d.Progress report (clinical findings/diagnosis at this consultation and possible barriers to return to work)
-...........................................................................................................................................................
-...........................................................................................................................................................
-...........................................................................................................................................................
+................................................................................................................................................................................
+................................................................................................................................................................................
+................................................................................................................................................................................
 2e.Declaration by medical practitioner
-I, .......................................................................................................................................................
+I, ..........................................................................................................................................................................
 (full name of medical practitioner)
-of ......................................................................................................................................................
+of .........................................................................................................................................................................
 (address)
-............................................................................................... Postcode: .........................................
+............................................................................................... Postcode: .............................................................
 *being duly sworn, say that/do solemnly and sincerely affirm that —
 1. I am a duly qualified medical practitioner.
 2. The above details are correct.
 *Sworn/affirmed at)
 in (State or country))
-this day of 20)...............................................................
-Before me:...............................................................
+this day of 20)..................................................................
+Before me:..................................................................
 (a person having authority
 to administer an oath)
 IF A WORKER RESIDES OUTSIDE THE STATE, PROOF OF THE
@@ -775,7 +773,7 @@ Form 15
 Workers’ Compensation and Injury Management Act 1981
 ELECTION TO RECEIVE SUPPLEMENTARY AMOUNT
 (Schedule 5 clause 3)
-I, ............................................................of .........................................................................
+I, ............................................................of ..........................................................................................................
 (name of worker)(address)
 having attained the age of 65 years on the ........... day of ................................. 20............ having suffered from pneumoconiosis/mesothelioma/lung cancer and being entitled to weekly payments of compensation in accordance with Schedule 1 of the Act, elect to receive the supplementary amount having *a/*no dependant spouse or dependant de facto partner, being currently the sum of $......................
 I acknowledge that, by making this election: —
@@ -987,13 +985,13 @@ MONTHLY STATEMENT BY APPROVED INSURANCE OFFICES
 CONFIDENTIAL
 (Section 171(1)(a))
 NEW/RENEWED POLICIES/COVER NOTES
-Name of approved insurance office ..................................................................................................
-Address .............................................................................................................................................
+Name of approved insurance office .............................................................................................................
+Address .........................................................................................................................................................
 Chief executive officer, WorkCover WA.
 The following are the names, addresses and industries of each employer who has during the month of ........................................................... 20.................................... effected or renewed a policy or contract of insurance with the above office against liability under the Act.
 WorkCover no. | Policy/cover note no. | New (N) Renewal (R) Cover note (C) | Name | Address | Industry | Effective date | Expiry date
-Position held by officer .............................................................. Date ............................................
-......................................................
+Position held by officer .............................................................. Date ....................................................
+...............................................
 Signature of responsible officer
 [Form 16 inserted in Gazette 14 Dec 2012 p. 6211-12.]
 Form 17
@@ -1004,13 +1002,13 @@ MONTHLY STATEMENT BY APPROVED INSURANCE OFFICES
 CONFIDENTIAL
 (Section 171(1)(b))
 LAPSED POLICIES
-Name of approved insurance office ..................................................................................................
-Address: .......................................................................................... Date approved .........................
+Name of approved insurance office ...................................................................................................................
+Address: .......................................................................................... Date approved ..........................................
 Chief executive officer, WorkCover WA.
 The following are the names and addresses of each employer in respect to whom, during the month of .............................................. 20..................... the above approved insurance office has, in its books, lapsed a policy of insurance under the Act: —
 WorkCover No. | Policy no. | Name | Address | Reason
-Position held by officer ............................................................. Date .............................................
-......................................................
+Position held by officer ............................................................. Date ......................................................
+....................................................
 Signature of responsible officer
 [Form 17 inserted in Gazette 14 Dec 2012 p. 6212.]
 Form 18
@@ -1316,10 +1314,10 @@ Section 93E(6a)
  | Note: Section 93E(6a) provides that, despite section 93E(5), and even though section 93E(6) does not apply if the Director gives the worker notice under section 93EA(5)(b)(i) that this subsection applies, an election can be made within 14 days after the Director subsequently gives the worker notice in writing that an agreement or determination of the question has been recorded. This only applies if the worker is required to make an election under section 93E(3)(b) of the Act (i.e. the worker has an agreed or determined degree of disability of not less than 16% but less than 30%).
 Section 93EC
  | Note: If —
-(a) | under section 93EA(5)(b)(i), the Director notifies a worker that the referral of a question relating to an injury is accepted and that this section applies; and
-(b) | the time limited by any written law for the commencement of an action seeking damages in respect of the injury —
-(i) | has elapsed before the day on which the Director notifies the worker (the “notification” day); or
-(ii) | is due to elapse on the notification day or before the expiry of a period of 2 years after the notification day,
+ | (a) | under section 93EA(5)(b)(i), the Director notifies a worker that the referral of a question relating to an injury is accepted and that this section applies; and
+ | (b) | the time limited by any written law for the commencement of an action seeking damages in respect of the injury —
+ |  | (i) | has elapsed before the day on which the Director notifies the worker (the “notification” day); or
+ |  | (ii) | is due to elapse on the notification day or before the expiry of a period of 2 years after the notification day,
  | an action seeking damages in respect of the injury may, despite that written law, be commenced at any time before the expiry of a period of 2 years after the notification day.
 Objection If you (the employer) consider the worker’s degree of disability is less than the relevant level, you should complete the bottom section of this form and return it to the Director within 21 days of receiving this notice. If you do not notify the Director within 21 days you will be taken to have agreed that the worker’s degree of disability is not less than the relevant level.
 Signature of Director |  | Date | / /
@@ -1356,10 +1354,10 @@ Section 93E(6a)
  | Note: Section 93E(6a) provides that, despite section 93E(5), and even though section 93E(6) does not apply if the Director gives the worker notice under section 93EB(5)(b)(i) that this subsection applies, an election can be made within 14 days after the Director subsequently gives the worker notice in writing that an agreement or determination of the question has been recorded. This only applies if the worker is required to make an election under section 93E(3)(b) of the Act (i.e. the worker has an agreed or determined degree of disability of not less than 16% but less than 30%).
 Section 93EC
  | Note: If —
-(a) | under section 93EB(5)(b)(i), the Director notifies a worker that the referral of a question relating to an injury is accepted and that this section applies; and
-(b) | the time limited by any written law for the commencement of an action seeking damages in respect of the injury —
-(i) | has elapsed before the day on which the Director notifies the worker (the “notification day”); or
-(ii) | is due to elapse on the notification day or before the expiry of a period of 2 years after the notification day,
+ | (a) | under section 93EB(5)(b)(i), the Director notifies a worker that the referral of a question relating to an injury is accepted and that this section applies; and
+ | (b) | the time limited by any written law for the commencement of an action seeking damages in respect of the injury —
+ | (i) | has elapsed before the day on which the Director notifies the worker (the “notification day”); or
+ |  | (ii) | is due to elapse on the notification day or before the expiry of a period of 2 years after the notification day,
  | an action seeking damages in respect of the injury may, despite that written law, be commenced at any time before the expiry of a period of 2 years after the notification day.
 Objection If you (the employer) consider the worker’s degree of disability is less than the relevant level, you should complete the bottom section of this form and return it to the Director within 21 days of receiving this notice. If you do not notify the Director within 21 days you will be taken to have agreed that the worker’s degree of disability is not less than the relevant level.
 Signature of Director |  | Date | / /
@@ -1570,7 +1568,7 @@ You may, within 30 days of receiving this notification, elect to receive the amo
 If an election is not made within 30 days of receiving this notification, and registered by the Director, you will receive a child’s allowance.
 The Director may refuse to register the election if not satisfied that you have been independently advised of the financial consequences of the election.
 Dated this ..................... day of ................ 20.........
-.............................................................................
+................................................................................
 Director
 [Form 29 inserted in Gazette 28 Oct 2005 p. 4939-40; amended in Gazette 18 Nov 2011 p. 4825.]
 Form 30
@@ -1584,17 +1582,17 @@ TO:
 Surname |  | Other names
 Address
 Postcode
-As a dependant of ........................................................................................
+As a dependant of .............................................................................................
 (name of deceased worker)
-The notional residual entitlement in relation to ...........................................
+The notional residual entitlement in relation to .................................................
 (name of deceased worker)
 has been apportioned between the worker’s dependants under the Workers’ Compensation and Injury Management Act 1981 Schedule 1 clause 1C(4)(a).
-The amount provisionally apportioned to you is $ ......................................... .
+The amount provisionally apportioned to you is $ ...........................................
 You may, within 30 days of receiving this notification, elect to receive the amount of the provisional apportionment or a child’s allowance. A form for making the election is attached.
 If an election is not made within 30 days of receiving this notification, and registered by the Director, you will receive a child’s allowance.
 The Director may refuse to register the election if not satisfied that you have been independently advised of the financial consequences of the election.
 Dated this ..................... day of ................ 20.........
-.............................................................................
+.................................................................................
 Arbitrator
 [Form 30 inserted in Gazette 28 Oct 2005 p. 4941.]
 Form 31
@@ -1644,9 +1642,9 @@ Attach a copy of any such request.
 3.Specify date until which extension sought.
 Signature of worker |  | Date | / /
 How to lodge this form
-1. This form should be lodged with:
+1. | This form should be lodged with:
  | Director WorkCover WA Perth, WA
-2.WHEN LODGING THIS FORM ALSO PROVIDE ANYTHING ELSE THAT REGULATION 17AD REQUIRES YOU TO PROVIDE.
+2. | WHEN LODGING THIS FORM ALSO PROVIDE ANYTHING ELSE THAT REGULATION 17AD REQUIRES YOU TO PROVIDE.
 Extension given or refused
 The final day
  | is extended to |  | / /
@@ -2050,10 +2048,10 @@ Workers’ Compensation and Injury Management Act 1981
 Infringement notice
 Serial No. ...............
 Date ......../......./.......
-To: (1) of: (2) It is alleged that on ......../......../........ at or about (3) at (4) the alleged offender named above committed the following offence — contrary to section (5) ................................ of the Workers’ Compensation and Injury Management Act 1981. The modified penalty for this offence is $ .
+To: (1) ........................................................................................................................................... of: (2) ............................................................................................................................................ It is alleged that on ......../......../........ at or about (3) ..................................................................... at (4) .............................................................................................................................................. the alleged offender named above committed the following offence — ..................................................................................................................................................... ..................................................................................................................................................... ..................................................................................................................................................... contrary to section (5) ................................ of the Workers’ Compensation and Injury Management Act 1981. The modified penalty for this offence is $ ..........
 If the alleged offender wishes to be prosecuted for the alleged offence in a court, the modified penalty should not be paid and no reply to this notice is required. The alleged offender may become liable to pay a fine and costs if court proceedings are taken against the alleged offender.
 If the alleged offender does not wish to be prosecuted for the alleged offence in a court, the amount of the modified penalty may be paid within the period of 28 days after the giving of this notice. Payment may be made by either — ·posting this form and a cheque or money order, made payable to WorkCover Western Australia, for the amount of the modified penalty to the Chief Executive Officer, WorkCover WA, 2 Bedbrook Place, Shenton Park WA 6008; or ·delivering this form, and paying the amount of the modified penalty to an authorised officer*, at WorkCover WA, 2 Bedbrook Place, Shenton Park WA 6008.
-Name and title of authorised officer giving the notice: Signature: .................................................... *The following are authorised officers for the purposes of receiving payment of modified penalties:
+Name and title of authorised officer giving the notice: ...................................................................................................................................................... ...................................................................................................................................................... Signature: .................................................... *The following are authorised officers for the purposes of receiving payment of modified penalties: ..................................................................................................................................................... ..................
 (1)Name of alleged offender
 (2)Address of alleged offender
 (3)Time when offence allegedly committed
@@ -2066,7 +2064,7 @@ Workers’ Compensation and Injury Management Act 1981
 Withdrawal of infringement notice
 Serial No. ...............
 Date ......../......./.......
-To: (1) of: (2) Infringement notice No. ..............................................dated ......../......../........ for the alleged offence of . contrary to section .................... of the Workers’ Compensation and Injury Management Act 1981 has been withdrawn. The modified penalty of $ ........................ *has been paid and a refund is enclosed. *has not been paid and should not be paid. * Delete as appropriate Name and title of authorised officer giving this notice: Signature
+To: (1) ..................................................................................................................................... of: (2)...................................................................................................................................... Infringement notice No. ............................................................dated ......../......../........ for the alleged offence of .................................................................................................................... .................................................................................................................................................. contrary to section .................... of the Workers’ Compensation and Injury Management Act 1981 has been withdrawn. The modified penalty of $ ........................ *has been paid and a refund is enclosed. *has not been paid and should not be paid. * Delete as appropriate Name and title of authorised officer giving this notice: .................................................................................................................................................. Signature ..................................................................................................................................
 (1)Name of alleged offender given the infringement notice
 (2)Address of alleged offender
 [Form 41 inserted in Gazette 28 Oct 2005 p. 4963.]
