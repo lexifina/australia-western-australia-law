@@ -9,6 +9,7 @@ Magistrates Court (Minor Cases Procedure) Amendment Rules 2008 | 3 Jun 2008 p. 2
 Reprint 1: The Magistrates Court (Minor Cases Procedure) Rules 2005 as at 14 Nov 2008 (includes amendments listed above)
 Magistrates Court (Minor Cases Procedure) Amendment Rules 2010 | 2 Jul 2010 p. 3196 | r. 1 and 2: 2 Jul 2010 (see r. 2(a)); Rules other than r. 1 and 2: 3 Jul 2010 (see r. 2(b))
 Magistrates Court (Minor Cases Procedure) Amendment Rules 2011 | 20 May 2011 p. 1840-1 | r. 1 and 2: 20 May 2011 (see r. 2(a)); Rules other than r. 1 and 2: 21 May 2011 (see r. 2(b))
+Magistrates Court (Minor Cases Procedure) Amendment Rules (No. 2) 2013 | 24 May 2013 p. 2057-60 | r. 1 and 2: 24 May 2013 (see r. 2(a)); Rules other than r. 1 and 2: 25 May 2013 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
