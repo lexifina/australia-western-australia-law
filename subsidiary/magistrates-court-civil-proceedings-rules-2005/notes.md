@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 June 2012 of the Magistrates Court (Civil Proceedings) Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Magistrates Court (Civil Proceedings) Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Magistrates Court (Civil Proceedings) Rules 2005 | 28 Apr 2005 p. 1651-709 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -12,6 +12,7 @@ Magistrates Court (Civil Proceedings) Amendment Rules (No. 2) 2011 | 27 Oct 2011
 Magistrates Court (Civil Proceedings) Amendment Rules 2012 | 23 Mar 2012 p. 1366-8 | r. 1 and 2: 23 Mar 2012 (see r. 2(a)); Rules other than r. 1, 2, 4(1) and (2): 24 Mar 2012 (see r. 2(c)); r. 4(1) and (2): 2 Apr 2012 (see r. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 2) 2012 | 1 Jun 2012 p. 2281-2 | r. 1 and 2: 1 Jun 2012 (see r. 2(a)); Rules other than r. 1 and 2: 2 Jun 2012 (see r. 2(b))
 Reprint 2: The Magistrates Court (Civil Proceedings) Rules 2005 as at 8 Jun 2012 (includes amendments listed above)
+Magistrates Court (Civil Proceedings) Amendment Rules (No. 2) 2013 | 24 May 2013 p. 2060-3 | r. 1 and 2: 24 May 2013 (see r. 2(a)); Rules other than r. 1 and 2: 25 May 2013 (see r. 2(b))
 The Public Trustee Act 1941 s. 40, as inserted by the Public Trustee and Trustee Companies Legislation Amendment Act 2008 s. 25(1), does not refer to the “Common Fund” but to a “Fund”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
