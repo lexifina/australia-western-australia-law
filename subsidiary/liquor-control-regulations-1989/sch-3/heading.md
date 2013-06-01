@@ -10,8 +10,8 @@ Item | Description | Fee $
 6. | Application for an occasional licence if the anticipated number of patrons is — (a)up to 250 (b)between 251 and 500 | 50 103
  | (c)between 501 and 1 000 (d)between 1 001 and 5 000 (e)between 5 001 and 10 000 (f)over 10 000 | 210 1 050 2 100 4 205
 7. | Application for extended trading permit for a period of over 21 days —
- | (a)issued for a purpose referred to in section 60(4)(ca) | 431
- | (b)issued for a purpose referred to in section 60(4)(h) | 323
+ | (a)issued for the purpose referred to in section 60(4)(ca) — (i)if regulation 9F(2) applies (ii)if regulation 9F(2) does not apply | 50 431
+ | (b)issued for the purpose referred to in section 60(4)(h) | 323
  | (c)issued for any other purpose | 1 079
 8. | Application for extended trading permit (in respect of a licence other than a club restricted licence) for a period of 21 days or less if the anticipated number of patrons is —
  | (a)up to 500 | 103
@@ -78,4 +78,4 @@ Item | Description | Fee $
 33. | For a search of postcodes —
  | (a)1 to 10 postcodes | 35
  | (b)more than 10 postcodes | 75
-[Schedule 3 inserted in Gazette 16 Nov 2012 p. 5653-6.]
+[Schedule 3 inserted in Gazette 16 Nov 2012 p. 5653-6; amended in Gazette 31 May 2013 p. 2119.]
