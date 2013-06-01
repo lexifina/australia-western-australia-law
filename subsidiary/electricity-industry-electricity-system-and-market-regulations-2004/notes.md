@@ -12,6 +12,7 @@ Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2009 |
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2011 | 25 Nov 2011 p. 4870-1 | r. 1 and 2: 25 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Nov 2011 (see r. 2(b))
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2012 | 14 Feb 2012 p. 667-8 | r. 1 and 2: 14 Feb 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Feb 2012 (see r. 2(b))
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 2) 2012 | 5 Jun 2012 p. 2353-60 | r. 1 and 2: 5 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 at 8:00 WST (see r. 2(b))
+Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2013 | 10 May 2013 p. 1935-6 (as amended 31 May 2013 p. 2117) | r. 1 and 2: 10 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jun 2013 (see r. 2(b))
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
