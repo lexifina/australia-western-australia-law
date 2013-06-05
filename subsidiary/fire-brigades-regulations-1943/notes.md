@@ -85,6 +85,7 @@ Reprint 4: The Fire Brigades Regulations 1943 as at 26 Sep 2003 (includes amendm
 Fire Brigades Amendment Regulations 2009 | 31 Mar 2009 p. 1025-7 | r. 1 and 2: 31 Mar 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2009 (see r. 2(b))
 Fire Brigades Amendment Regulations (No. 2) 2012 | 31 Oct 2012 p. 5233-44 | r. 1 and 2: 31 Oct 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2012 (see r. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Fire Brigades Amendment Regulations (No. 3) 2012 | 18 Jan 2013 p. 147 | r. 1 and 2: 18 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jan 2013 (see r. 2(b))
+Fire Brigades Amendment Regulations 2013 | 4 Jun 2013 p. 2137-9 | r. 1 and 2: 4 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jun 2013 (see r. 2(b))
 Headings preceding groups of regulations were repealed by the Fire Brigades Amendment Regulations 1989. Regulation 2 of those regulations reads as follows:
 “
 2.Headings deleted
