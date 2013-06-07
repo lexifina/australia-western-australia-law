@@ -1,12 +1,15 @@
 Notes
-This is a compilation of the Building Act 2011 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 7 June 2013 of the Building Act 2011 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Building Act 2011 | 24 of 2011 | 11 Jul 2011 | s. 1 and 2: 11 Jul 2011 (see s. 2(a)); s. 3: 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3476); Act other than s. 1-3: 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
-Building Amendment Act 2012 | 37 of 2012 | 5 Nov 2012 | s. 1 and 2: 5 Nov 2012 (see s. 2(a)); Act other than s. 1, 2 and Pt. 3 and 4: 6 Nov 2012 (see s. 2(c)); Pt. 3 and 4: 19 Dec 2012 (see s. 2(c) and Gazette 18 Dec 2012 p. 6585)
-Defined Terms
+Building Amendment Act 2012 | 37 of 2012 | 5 Nov 2012 | s. 1 and 2: 5 Nov 2012 (see s. 2(a)); Act other than s. 1, 2 and Pt. 3 and 4: 6 Nov 2012 (see s. 2(c)); Pt. 3 and 4: 19 Dec 2012 (see s. 2(b) and Gazette 18 Dec 2012 p. 6585)
+Reprint 1: The Building Act 2011 as at 7 Jun 2013 (includes amendments listed above)
+The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
+The provisions in this Act repealing the Building Regulations 1989 and the Local Government (Prohibition on Dealings in Land) Regulations 1973 have been omitted under the Reprints Act 1984 s. 7(4)(f).
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 adult3
 adversely affect land3
 affected land83
@@ -19,12 +22,11 @@ authorised certifier140(2)
 authorised person3
 authority under a written law3
 boundary retaining wall75
-building3
+building3, 56(4), 57(5)
 building approval certificate3
 building approval certificate (former provisions)180(1)
 Building Commissioner3
 building licence178(1)
-building local laws167(2)
 building order3, 110(1)
 building order (emergency)3
 building permit3
@@ -57,7 +59,7 @@ event92
 existing building92
 former provisions176
 incidental structure 3
-independent building surveyor3
+independent building surveyor3, 4(2)
 interested person131(1)
 land3
 local government employee127(8)
@@ -75,11 +77,11 @@ OP application (transitional)182A(1)
 order195(1)
 other land81(1)
 outward facing side88(1)
-owner3, 5(1), 5(1), 5(1), 76(2)
+owner3, 5(1), 76(2)
 party wall75
 party wall building consent183(1)
 party wall work consent184(1)
-permit31, 68, 159(3)
+permit31, 68
 permit authority for a building3
 permit authority for an incidental structure3
 permit requirement provisions68
@@ -103,7 +105,6 @@ substantial dividing fence75
 survey3
 technical certificate3
 temporary permit41(1)
-the building56(4), 57(5)
 unauthorised work51(1)
 uncertified application13
 underpinning consent185(1)
