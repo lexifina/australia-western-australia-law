@@ -4,9 +4,18 @@ Compilation table
 Citation | Gazettal | Commencement
 Gas Supply (Gas Quality Specifications) Regulations 2010 | 26 Mar 2010 p. 1191-252 | 27 Mar 2010 (see r. 2 and Gazette 26 Mar 2010 p. 1133)
 Gas Supply (Gas Quality Specifications) Amendment Regulations 2012 | 14 Aug 2012 p. 3849-96 | r. 1 and 2: 14 Aug 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2012 (see r. 2(b))
-Defined Terms
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Gas Supply (Gas Quality Specifications) Amendment Regulations 2013 r. 3-4 | 14 Jun 2013 p. 2236 | Operative on commencement of the Gas Services Information Amendment Regulations (No. 2) 2013 r. 5 (see r. 2(b))
+On the date as at which this compilation was prepared, the Gas Supply (Gas Quality Specifications) Amendment Regulations 2013 r. 3-4 have not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Gas Supply (Gas Quality Specifications) Regulations 2010.
+4.Regulations 91 to 94 deleted
+Delete regulations 91, 92, 93 and 94.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 AGR off-take30(2)
 allowed period85
 applicant51
