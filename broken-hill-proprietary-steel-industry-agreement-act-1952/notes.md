@@ -8,6 +8,10 @@ Broken Hill Proprietary Company’s Integrated Steel Works Agreements Act 1960 s
 Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | s. 4-9: 14 Feb 1966 (see s. 2(2)); balance: 21 Dec 1965 (see s. 2(1))
 Reprint of the Broken Hill Proprietary Steel Industry Agreement Act 1952 as at 1 Feb 2002 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 10 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+State Agreements Legislation Repeal Act 2013 s. 5 | 1 of 2013 | 20 Jun 2013 | To be proclaimed (see s. 2(b))
 The Agreement ratified by this Act was amended or affected by cl. 25 and 26 of the Agreement set forth in the Schedule to the Broken Hill Proprietary Company’s Integrated Steel Works Agreements Act 1960. Those clauses read as follows:
 “
 25.Harbour charges
@@ -41,3 +45,6 @@ No other charges or dues (except tonnage rates as referred to in Clause 4(s)(i) 
 (o) Clause 5(i) of the said Agreement is amended by deleting paragraphs (i) and (ii) thereof and by deleting from lines 1 and 2 of paragraph (iii) the passage “That subject to the provisions of paragraphs (i) and (ii) of this subclause and ”;
 (p) Clause 5(p) and Clause 5(q) of the said Agreement are deleted.
 ”.
+On the date as at which this compilation was prepared, the State Agreements Legislation Repeal Act 2013 s. 5 had not come into operation. It reads as follows:
+5.Broken Hill Proprietary Steel Industry Agreement Act 1952 repealed
+The Broken Hill Proprietary Steel Industry Agreement Act 1952 is repealed.
