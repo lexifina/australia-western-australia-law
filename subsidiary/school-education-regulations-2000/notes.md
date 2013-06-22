@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 March 2013 of the School Education Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the School Education Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 School Education Regulations 2000 | 29 Dec 2000 p. 7795-900 | 1 Jan 2001 (see r. 2)
@@ -19,6 +19,7 @@ School Education Amendment Regulations (No. 2) 2012 | 14 Aug 2012 p. 3830-1 | r.
 School Education Amendment Regulations (No. 3) 2012 | 27 Nov 2012 p. 5737 | r. 1 and 2: 27 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2012 (see r. 2(b))
 School Education Amendment Regulations (No. 4) 2012 | 4 Dec 2012 p. 5909 | r. 1 and 2: 4 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b))
 Reprint 2: The School Education Regulations 2000 as at 1 Mar 2013 (includes amendments listed above)
+School Education Amendment Regulations 2013 | 21 Jun 2013 p. 2446-7 | r. 1 and 2: 21 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jun 2013 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
