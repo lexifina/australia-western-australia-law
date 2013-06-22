@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 24 May 2013 of the Building Regulations 2012 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This compilation of the Building Regulations 2012 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Building Regulations 2012 | 13 Mar 2012 p. 1055-137 | r. 1 and 2: 13 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2012 (see r. 2(b) and Gazette 13 Mar 2012 p. 1033)
@@ -7,6 +7,7 @@ Building Amendment Regulations 2012 | 15 Jun 2012 p. 2513-15 | r. 1 and 2: 15 Ju
 Building Amendment Regulations (No. 3) 2012 | 30 Nov 2012 p. 5782-3 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2012 | 18 Dec 2012 p. 6555-81 | r. 1 and 2: 18 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2012 (see r. 2(b) and Gazette 18 Dec 2012 p. 6585)
 Reprint 1: The Building Regulations 2012 as at 24 May 2013 (includes amendments listed above)
+Building Amendment Regulations (No. 2) 2013 | 21 Jun 2013 p. 2445-6 | r. 1 and 2: 21 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jun 2013 (see r. 2(b))
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
