@@ -14,3 +14,4 @@ Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 15 | 15 A
 Public Sector Management (Redeployment and Redundancy) Amendment Regulations 2006 | 8 Aug 2006 p. 2903-5 | 8 Aug 2006
 Reprint 2: The Public Sector Management (Redeployment and Redundancy) Regulations 1994 as at 27 Oct 2006 (includes amendments listed above)
 Public Sector Management (Redeployment and Redundancy) Amendment Regulations 2010 | 5 Nov 2010 p. 5568-70 | Pt. 1: 5 Nov 2010 (see r. 2(a)); Pt. 2: 1 Dec 2010 (see r. 2(b) and Gazette 5 Nov 2010 p. 5563); Pt. 3: 28 Mar 2011 (see r. 2(c) and Gazette 5 Nov 2010 p. 5563)
+Public Sector Management (Redeployment and Redundancy) Amendment Regulations 2013 | 26 Jun 2013 p. 2649-55 | r. 1 and 2: 26 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2013 (see r. 2(b))
