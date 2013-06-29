@@ -14,18 +14,17 @@ Duties Amendment Act (No. 2) 2011 | 33 of 2011 | 12 Sep 2011 | Pt. 2: 24 Dec 201
 Inheritance (Family and Dependants Provision) Amendment Act 2011 s. 15 | 48 of 2011 | 25 Oct 2011 | 16 Jan 2013 (see s. 2(b) and Gazette 15 Jan 2013 p. 79)
 Revenue Laws Amendment Act 2012 Pt. 2 | 29 of 2012 | 3 Sep 2012 | Heading to Pt. 2, Pt. 2 Div. 1 and 2: 1 Dec 2011 (see s. 2(b)); Pt. 2 Div. 3: 4 Sep 2012 (see s. 2(e))
 Revenue Laws Amendment Act (No. 2) 2012 Pt. 2 | 32 of 2012 | 8 Oct 2012 | Pt. 2 (other than s. 5-7, 12, 15, 18, 22 and 25: 1 Jul 2008 (see s. 2(b)); s. 5-7, 12, 15, 18, 22 and 25: 9 Oct 2012 (see s. 2(e))
+Duties Legislation Amendment Act 2013 Pt. 2 Div. 2 | 5 of 2013 | 29 Jun 2013 | 29 Jun 2013 (see s. 2(1)(b))
 On the date as at which this complation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv 3 | 12 of 2008 (as amended by No. 9 of 2010 s. 9) | 14 Apr 2008 | 1 Jul 2013 (see s. 2(c))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 18 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The Mining Act 1904 was repealed by the Mining Act 1978.
 The Acts Amendment (Land Administration) Act 1997 commenced 30 Mar 1998 (Gazette 27 Mar 1998 p. 1765).
-On the date as at which this compilation was prepared, the Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv. 3 (as amended by No. 9 of 2010 s. 9) had not come into operation. It reads as follows:
+The Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv. 3 was deleted by the Duties Legislation Amendment Act 2013 Pt. 2 Div. 1. The amendments made by the Revenue Laws Amendment Act 2010 Pt. 3 Div. 1 have no effect for the same reason. The Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv. 3 reads as follows:
 Part 2 — Amendments
 Division 2 — Duties Act 2008 amended
-Subdivision 3 — Amendments commencing on 1 July 2013
-[Heading amended by No. 9 of 2010 s. 9.]
+Subdivision 3 — Amendments commencing on 1 July 2010
 25.Section 9 amended
 Section 9 is amended as follows:
 (a) in the definition of “unencumbered value” by deleting “36;” and inserting instead —
