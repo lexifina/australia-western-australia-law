@@ -166,16 +166,18 @@ Fish Resources Management Amendment Regulations (No. 13) 2012 | 18 Dec 2012 p. 6
 Fish Resources Management Amendment Regulations (No. 2) 2013 | 29 Jan 2013 p. 301-19 | r. 1 and 2: 29 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2013 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 14) 2012 | 1 Mar 2013 p. 1091-2 | r. 1 and 2: 1 Mar 2013 (see r. 2(a)); Regulations other than r. 1 & 2: 1 Mar 2013
 Fish Resources Management Amendment Regulations (No. 3) 2013 | 18 Jun 2013 p. 2295-9 | r. 1 and 2: 18 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jun 2013 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 4) 2013 | 28 Jun 2013 p. 2887-904 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); r. 13: 29 Jun 2013 (see r. 2(b)(i) and Gazette 18 Jun 2013 p. 2295); Regulations other than r. 1, 2 and 13: 29 Jun 2013 (see r. 2(c))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Recreational Fishing Account.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
 The commencement date of 15 Jan 2013 that was specified in r. 2(b) was before the date of gazettal.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
+(demersal finfish65A(1)
 Abalone Zone38D(1)
-Abrolhos Islands Fish Habitat Protection AreaSch. 2 Pt. 2 Div. 3 cl. 2(2)
+Abrolhos Islands Fish Habitat Protection AreaSch. 2, cl. 2(2)
 aircraft3(1)
 ALC55A
 ALC fishing boat55C(1)
@@ -192,8 +194,6 @@ bait band55E
 bait fish64OE(4)
 boat124B(1)
 bona fide64I(2)
-Broome area64ZJ
-Broome area waters64ZJ
 camp72
 cancelled authorisation129A
 carrier boat119(1)
@@ -205,23 +205,21 @@ closed season38G, 45(1)
 commercial fishing licence3(1)
 complying drop net3(1)
 Cottesloe Reef waters3(1)
-courier business21(3), 147A
+courier business147A(1)
 current entitlement118A(2)
 Dampier Archipelago waters64OB(3)
 day trip16E(1), 22(5)
 dB(A)104(4)
 deep sea crab38A
-demersal finfish65A(1), 65B(1)
+demersal finfish65B(1)
 demersal scalefish45(1), 64OAA(1)
 disease3(1)
 disposable part16B(5)
 due date137(4)
 Easter Group Zone 38(1)
 eastern gulf land area3(1)
-Exmouth Gulf Land Zone64ZCA(2)
-Exmouth townsite16L(1)
 fillet3(1)
-finfish3(1), 16C
+finfish3(1), 16C, 65F(1A)
 fish processor’s licence3(1)
 fish trunk3(1)
 fishing boat licence3(1)
@@ -239,24 +237,20 @@ GDA152(1)
 gear identification number3(1)
 ground64I(2)
 GRS80152(2)
-high risk finfish15(1)
-interdorsal fin lengthSch. 2 Pt. 2 Div. 2
+interdorsal fin lengthSch. 2,
 internal SLED38(1)
 jet ski3(1)
 jetty72
 Kalbarri Blue Holes waters3(1)
-King Sound17A(4)
 Lancelin Island Lagoon3(1)
 large pelagic finfish65C(1)
-lawful overnight stay on an island3(1)
 licence holder55A
 licensed boat72
 licensed carrier boat3(1)
 licensed carrier boat number3(1)
 licensed fishing boat3(1)
 licensed fishing boat number3(1)
-low risk finfish3(1), 16(1)
-management plan64ZE(1)
+mammal or bird products63A(1)
 marron drop net3(1), 38G
 marron pole snare3(1), 38G
 marron scoop net3(1), 38G
@@ -267,22 +261,19 @@ mollusc3(1)
 mooring72
 motor boat3(1)
 nearshore or estuarine finfish65D(1)
-net64ZE(1)
 Ningaloo Marine Park3(1)
-Ningaloo Marine Park Land Zone16L(1), 64ZCA(2)
 non-possession period38O(3)
 notice55B(1A)
+notional bag limit162(2)
 November — April64OD(4)
 one day3(1)
 operator72
-Ord River area16M(3), 64ZF
-Ord River area waters64ZF
 package22(5), 61(3a)
 Pelsaert Group Zone38(1)
 Pilbara and Kimberley Region3(1)
 Point Quobba restricted area113D
 prawn hand trawl net3(1)
-prescribed abalone16GD, 17(2)
+prescribed abalone16GD(1)
 principal place of residence3(1)
 pull3(1)
 recreational (boat) fishing licence receipt124D(1)
@@ -292,22 +283,20 @@ region3(1)
 release weight64OAA(1)
 reserve72
 restricted fishing tour128S(1)
-rock lobster64ZCA(2)
 rock lobster licence72
 rock lobster pot3(1)
 rock lobster pot licence3(1)
 rock lobster tail3(1)
-Rottnest Island ReserveSch. 2 Pt. 2 Div. 3 cl. 4(2)
-Rowley Shoals Marine ParkSch. 2 Pt. 2 Div. 2
+Rottnest Island ReserveSch. 2, cl. 4(2)
+Rowley Shoals Marine ParkSch. 2,
 sea lion exclusion device38(3)
 Sea Lion Protection Zone38(1)
 section 224129A
 set3(1)
-setoseSch. 2 Pt. 2 Div. 1
+setoseSch. 2,
 share arrangement72
-single-sided fillet3(1), 16E(1), 16M(3)
+single-sided fillet3(1), 16E(1)
 South Coast Region3(1)
-special risk finfish14(1)
 specified size14A
 store22(5)
 structure87
@@ -315,7 +304,7 @@ sunrise3(1)
 sunset3(1)
 tail clip31(3)
 tail punch31(3)
-tarspotSch. 2 Pt. 2 Div. 1
+tarspotSch. 2,
 unauthorised structure87
 unlicensed person124B(3)
 usual entitlement118A(2)
@@ -325,7 +314,6 @@ waters of the Shark Bay eastern gulf3(1)
 waters of the Shark Bay western gulf3(1)
 WCRL Managed Fishery55E
 West Coast Demersal Scalefish (Interim) Managed Fishery64OAA(1)
-West Coast Purse Seine Managed Fishery boat64ZE(1)
 West Coast Region3(1)
 western gulf land area3(1)
 whole fish3(1)

@@ -39,7 +39,7 @@ Coral Trout and Coronation Trout | 1
 Dhufish, West Australian | 1
 Dory, John and Mirror | 2
 Emperor and Seabream, all species | 2
-Foxtail, Western and Pigfish | 2
+Foxfish, Western and Pigfish | 2
 Groper, Baldchin and Tuskfish | 2
 Groper, Blue | 1
 Hapuka, Trevalla, Bass Groper and Grey Banded Rock Cod | 2
@@ -47,7 +47,7 @@ Sea Perch, Tropical, all species except Mangrove Jack | 2
 Snapper, Pink, | 2
 Snapper, Queen | 2
 Snapper, Red (Redfish) and Swallowtail | 2
-[Division 2 inserted in Gazette 29 Jan 2013 p. 314.]
+[Division 2 inserted in Gazette 29 Jan 2013 p. 314; amended in Gazette 28 Jun 2013 p. 2893.]
 ## Part 2 — Bag limits — Large pelagic fish
 [r. 65C]
 [Heading inserted inserted in Gazette 29 Jan 2013 p. 315.]
@@ -95,29 +95,31 @@ Wrasse and Parrot Fish | 8
 [Part 3 inserted in Gazette 29 Jan 2013 p. 315-17.]
 ## Part 4 — Bag limits — Freshwater finfish
 [r. 65E]
-[Heading inserted in Gazette 29 Jan 2013 p. 317.]
-Fish | Species bag limit for one day
+[Heading inserted in Gazette 28 Jun 2013 p. 2893.]
+Fish | Grouped bag limit of all species of freshwater finfish for one day
 Catfish | 4
-Grunter | 4
-Trout, Brown and Rainbow | 4
-[Part 4 inserted in Gazette 29 Jan 2013 p. 317.]
+Grunter
+Trout, Brown and Rainbow
+[Part 4 inserted in Gazette 28 Jun 2013 p. 2893.]
 ## Part 5 — Bag limits — Crustaceans
 [r. 65G]
 [Heading inserted in Gazette 29 Jan 2013 p. 317.]
-Species | Species bag limit for one day
+Species | Bag limit for one day
 Cherabin | 9 litres
 Crab, Blue Swimmer | 10 (in West Coast region) 20 (in other regions)
 Crab, Mud, all species | 5
+Koonac | N/A
 Marron | 5 (in marron trophy water) 8 (in other waters)
 Prawns, Western School and Western King | 9 litres
 Redclaw, Queensland | N/A
 Rock Lobster, all species | 8
 Other crustacean species not specified above | 10
-[Part 5 inserted in Gazette 29 Jan 2013 p. 317.]
+Yabbies, Common and White | N/A
+[Part 5 inserted in Gazette 29 Jan 2013 p. 317; amended in Gazette 28 Jun 2013 p. 2893-4.]
 ## Part 6 — Bag limits — Molluscs and other invertebrates
 [r. 65H]
 [Heading inserted in Gazette 29 Jan 2013 p. 318.]
-Species | Species bag limit for one day
+Species | Bag limit for one day
 Abalone, Greenlip and Brownlip | 5
 Abalone, Roe’s | 20
 Ark Shell, Cockle and Pipis | 2 litres
@@ -131,4 +133,4 @@ Sea Urchin | 20
 Squid, Cuttlefish and Octopus | 15
 Zoila Cowry, Volute, Conch | 10
 Other molluscs and invertebrate species not specified | 10
-[Part 6 inserted in Gazette 29 Jan 2013 p. 318.]
+[Part 6 inserted in Gazette 29 Jan 2013 p. 318; amended in Gazette 28 Jun 2013 p. 2894.]
