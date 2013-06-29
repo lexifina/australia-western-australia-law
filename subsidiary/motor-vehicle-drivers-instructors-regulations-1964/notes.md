@@ -57,6 +57,7 @@ Motor Vehicle Drivers Instructors Amendment Regulations 2011 | 7 Jun 2011 p. 206
 Reprint 6: The Motor Vehicle Drivers Instructors Regulations 1964 as at 9 Mar 2012 (includes amendments listed above)
 Motor Vehicle Drivers Instructors Amendment Regulations 2013 | 8 Feb 2013 p. 868-9 | r. 1 and 2: 8 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2013 (see r. 2(b))
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2012 | 19 Feb 2013 p. 997 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
+Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2013 | 28 Jun 2013 p. 2803-4 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jun 2013 (see r. 2(b))
 Under the Alteration of Statutory Designations Order 2003 the name of the former Education Department of Western Australia was changed to the Department of Education and Training.
 Now superseded by the Public Transport Authority of Western Australia.
 Now superseded by the Fire and Emergency Services Authority of Western Australia.
