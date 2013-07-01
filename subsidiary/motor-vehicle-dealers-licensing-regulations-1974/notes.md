@@ -42,6 +42,7 @@ Motor Vehicle Dealers (Licensing) Amendment Regulations (No. 2) 2011 | 30 Jun 20
 Motor Vehicle Dealers (Licensing) Amendment Regulations (No. 3) 2011 | 10 Jan 2012 p. 409-11 | r. 1 and 2: 10 Jan 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jan 2012 (see r. 2(b))
 Reprint 5: The Motor Vehicle Dealers (Licensing) Regulations 1974 as at 13 Apr 2012 (includes amendments listed above)
 Motor Vehicle Dealers (Licensing) Amendment Regulations 2012 | 15 Jun 2012 p. 2591-4 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+Motor Vehicle Dealers (Licensing) Amendment Regulations 2013 | 27 Jun 2013 p. 2687-90 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
