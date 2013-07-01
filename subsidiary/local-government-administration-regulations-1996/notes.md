@@ -18,22 +18,9 @@ Local Government (Administration) Amendment Regulations 2009 | 20 Nov 2009 p. 46
 Local Government (Administration) Amendment Regulations 2011 | 3 May 2011 p. 1593-7 | r. 1 and 2: 3 May 2011 (see r. 2(a)); r. 7: 4 May 2011 (see r. 2(b) and Gazette 3 May 2011 p. 1577); Regulations other than r. 1, 2 and 7: 4 May 2011 (see r. 2(c))
 Local Government (Administration) Amendment Regulations (No. 2) 2011 | 26 Aug 2011 p. 3481-7 | r. 1 and 2: 26 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Aug 2011 (see r. 2(b))
 Reprint 3: The Local Government (Administration) Regulations 1996 as at 3 Feb 2012 (includes amendments listed above)
-Local Government (Administration) Amendment Regulations 2012 r. 1-4 | 13 Jul 2012 p. 3218-19 | r. 1 and 2: 13 Jul 2012 (see r. 2(a)); r. 3 and 4: 14 Jul 2012 (see r. 2(c))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Local Government (Administration) Amendment Regulations 2012 r. 5-8 | 13 Jul 2012 p. 3218-19 | 1 Jul 2013 (see r. 2(b) and Gazette 8 Feb 2013 p. 863)
+Local Government (Administration) Amendment Regulations 2012 | 13 Jul 2012 p. 3218-19 | r. 1 and 2: 13 Jul 2012 (see r. 2(a)); r. 3 and 4: 14 Jul 2012 (see r. 2(c)); r. 5-8: 1 Jul 2013 (see r. 2(b) and Gazette 8 Feb 2013 p. 863)
 The commencement date of 1 Jul 1996 is the commencement date of the principal regulations.
 The Local Government (Administration) Amendment Regulations 2005 r. 15 is a transitional provision that is of no further effect.
-On the date as at which this compilation was prepared, the Local Government (Administration) Amendment Regulations 2012 r. 5-8 had not come into operation. They read as follows:
-5.Regulation 30 amended
-Delete regulation 30(1), (2), (3B), (3), (4) and (5).
-6.Regulation 31 amended
-Delete regulation 31(2) to (5).
-7.Regulation 32 amended
-Delete regulation 32(2).
-8.Regulations 33 to 34AB deleted
-Delete regulations 33 to 34AB.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -48,11 +35,9 @@ former regulation 19D19DB(1)
 gift34B(1)
 interest34C(1)
 notifiable gift34B(1)
-operating revenue33(2)
 person referred to in this regulation14B(4)
 plan for the future19DB(1)
 prohibited gift34B(1)
-Public Service Award34AB(2)
 relevant person3(1)
 Schedule3(1)
 section3(1)
