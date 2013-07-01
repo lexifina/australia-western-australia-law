@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 20 July 2012 of the Navigable Waters Regulations 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Navigable Waters Regulations 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Navigable Waters Regulations | 2 Apr 1958 p. 622-32 | 1 May 1958 (see r. 1)
@@ -134,6 +134,7 @@ Navigable Waters Amendment Regulations (No. 3) 2011 | 4 Nov 2011 p. 4634 | r. 1 
 Navigable Waters Amendment Regulations (No. 2) 2011 | 25 Nov 2011 p. 4873-4 | r. 1 and 2: 25 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Nov 2011 (see r. 2(b))
 Navigable Waters Amendment Regulations 2012 | 15 Jun 2012 p. 2525-6 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Reprint 15: The Navigable Waters Regulations 1958 as at 20 Jul 2012 (includes amendments listed above)
+Navigable Waters Amendment Regulations (No. 2) 2013 | 14 Jun 2013 p. 2237-8 | r. 1 and 2: 14 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Repealed by the Dangerous Goods Safety Act 2004.
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
