@@ -12,4 +12,6 @@ Auction Sales Amendment Regulations 1989 | 30 Jun 1989 p.1976 | 1 Jul 1989 (see 
 Auction Sales Amendment Regulations 1990 | 1 Aug 1990 p.3658 | 1 Aug 1990
 Auction Sales Amendment Regulations 1991 | 13 Dec 1991 p.6156 | 13 Dec 1991
 Auction Sales Amendment Regulations 1992 | 14 Aug 1992 pp.4016-7 | 14 Aug 1992
+Reprinted as at 8 Sep 2000
 Auction Sales Amendment Regulations 2013 | 5 Feb 2013 p. 832-3 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b) and Gazette 5 Feb 2013 p. 823)
+Auction Sales Amendment Regulations (No. 2) 2013 | 27 Jun 2013 p. 2661-2 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
