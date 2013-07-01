@@ -26,6 +26,7 @@ Reprint 4: The Associations Incorporation Regulations 1988 as at 20 Mar 2009 (in
 Associations Incorporation Amendment Regulations 2009 | 23 Jun 2009 p. 2430-1 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Associations Incorporation Amendment Regulations 2011 | 25 Feb 2011 p. 651-2 | r. 1 and 2: 25 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2011 (see r. 2(b) and Gazette 25 Feb 2011 p. 651)
 Associations Incorporation Amendment Regulations (No. 2) 2011 | 22 Jun 2011 p. 2335-6 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Associations Incorporation Amendment Regulations (No. 2) 2013 | 27 Jun 2013 p. 2671-2 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Consumer and Employment Protection was called the Department of Commerce.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
