@@ -64,6 +64,7 @@ Environmental Protection Amendment Regulations 2012 | 2 Mar 2012 p. 855 | r. 1 a
 Environmental Protection Amendment Regulations (No. 2) 2012 | 8 May 2012 p. 1892-3 | r. 1 and 2: 8 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 9 May 2012 (see r. 2(b))
 Reprint 7: The Environmental Protection Regulations 1987 as at 21 Sep 2012 (includes amendments listed above)
 Environmental Protection Amendment Regulations (No. 3) 2012 | 27 Nov 2012 p. 5737-8 | r. 1 and 2: 27 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2012 (see r. 2(b))
+Environmental Protection Amendment Regulations (No. 3) 2013 | 18 Jun 2013 p. 2293-5 | r. 1 and 2: 18 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Published in Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order (No. 2) 2006 a reference in a written law to the Department of Environment or the Department of Environmental Protection is, unless the contrary is intended, to be read and construed as a reference to the Department of Environment and Conservation.
 Proclaimed 1 July 1988 in Gazette 26 June 1998 p. 3369.
