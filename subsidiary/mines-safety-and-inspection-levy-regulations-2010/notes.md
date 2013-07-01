@@ -6,6 +6,7 @@ Mines Safety and Inspection Levy Regulations 2010 | 23 Apr 2010 p. 1545-77 | r. 
 Mines Safety and Inspection Levy Amendment Regulations 2011 | 21 Jun 2011 p. 2245-9 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); r. 3, 5-11: 22 Jun 2011 (see r. 2(c)); r. 4, 12 and 13: 1 Jul 2011 (see r. 2(b))
 Mines Safety and Inspection Levy Amendment Regulations (No. 2) 2011 | 21 Jun 2011 p. 2250 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jun 2011 (see r. 2(b))
 Mines Safety and Inspection Levy Amendment Regulations 2012 | 28 Aug 2012 p. 4140-1 | r. 1 and 2: 28 Aug 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2012 (see r. 2(b))
+Mines Safety and Inspection Levy Amendment Regulations 2013 | 28 Jun 2013 p. 2827-8 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
