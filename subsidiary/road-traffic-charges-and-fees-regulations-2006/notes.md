@@ -39,6 +39,8 @@ Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2013 | 8 Feb 2013 
 Road Traffic (Charges and Fees) Amendment Regulations (No. 9) 2012 | 19 Feb 2013 p. 994-5 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 5) 2013 | 31 May 2013 p. 2120 | 31 May 2013 (see note under r.1)
 Road Traffic (Charges and Fees) Amendment Regulations (No. 7) 2013 | 31 May 2013 p. 2121-3 | 31 May 2013 (see note under r.1)
+Road Traffic (Charges and Fees) Amendment Regulations (No. 6) 2013 | 14 Jun 2013 p. 2249-53 | r. 1 and 2: 14 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
+Road Traffic (Charges and Fees) Amendment Regulations (No. 8) 2013 | 28 Jun 2013 p. 2805-6 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2007 r. 3 reads as follows:
@@ -61,8 +63,7 @@ The Road Traffic (Charges and Fees) Amendment Regulations (No. 4) 2012 r. 4 read
 For the purposes of section 28A of the Act, the specified day in relation to these regulations is 1 July 2012.
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 5) 2013 r. 2 reads as follows:
 2.Specified day
-For the purposes of section 28A of the Act, the specified day in relation to these regulations is 1 July 2013
-.
+For the purposes of section 28A of the Act, the specified day in relation to these regulations is 1 July 2013.
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 7) 2013 r. 2 reads as follows:
 2.Specified day
 For the purposes of section 28A of the Act, the specified day in relation to these regulations is 1 July 2013
