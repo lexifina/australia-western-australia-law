@@ -26,6 +26,7 @@ Public Sector Reform (Consequential Amendments) Regulations 2011 r. 20 | 11 Feb 
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 2011 | 22 Jun 2011 p. 2315-16 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Reprint 4: The Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 as at 8 Jul 2011 (includes amendments listed above)
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 2012 | 15 Jun 2012 p. 2609-10 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2013 | 27 Jun 2013 p. 2711-12 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 The Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2000 r. 16 is a transitional provision that is of no further effect.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
