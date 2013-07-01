@@ -85,6 +85,7 @@ Firearms Amendment Regulations (No. 2) 2011 | 10 Jun 2011 p. 2106-8 | r. 1 and 2
 Firearms Amendment Regulations (No. 3) 2011 | 5 Jul 2011 p. 2826-33 | r. 1 and 2: 5 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jul 2011 (see r. 2(b))
 Reprint 8: The Firearms Regulations 1974 as at 16 Sep 2011 (includes amendments listed above)
 Firearms Amendment Regulations 2012 | 15 Jun 2012 p. 2535-6 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+Firearms Amendment Regulations 2013 | 28 Jun 2013 p. 2787-8 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 The Firearms Amendment Regulations 1996 r. 9(2) reads as follows:
 (2) The notation “PR” endorsed on a licence or permit before the commencement of this regulation is to be regarded as if it were the notation “HR”.
 Defined Terms
