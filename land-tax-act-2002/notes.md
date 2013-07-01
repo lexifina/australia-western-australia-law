@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 February 2010 of the Land Tax Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Land Tax Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Tax Act 2002 | 51 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -14,6 +14,7 @@ Revenue Laws Amendment Act 2008 Pt. 3 | 30 of 2008 | 27 Jun 2008 | 1 Jul 2008 (s
 Revenue Laws Amendment Act 2009 Pt. 2 | 3 of 2009 | 14 May 2009 | 1 Jul 2008 (see s. 2(b))
 Revenue Laws Amendment (Taxation) Act 2009 Pt. 3 | 19 of 2009 | 16 Sep 2009 | 1 Jul 2009 (see s. 2(b)(ii))
 Reprint 2: The Land Tax Act 2002 as at 5 Feb 2010 (includes amendments listed above)
+Land Tax Amendment Act 2013 | 15 of 2013 | 21 Oct 2013 | Act other than s. 1 and 2: 1 Jul 2013 (see s. 2(b)); s. 1 and 2: 21 Oct 2013 (see s. 2(a))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 (W.A.) s. 7, this Act is to be read and construed with certain modifications. The Commonwealth Places (Mirror Taxes Administration) Regulations 2007 (W.A.) r. 1-4 and Pt. 3 Div. 1 prescribe particular modifications and read as follows:
 1.Citation
 These regulations are the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
