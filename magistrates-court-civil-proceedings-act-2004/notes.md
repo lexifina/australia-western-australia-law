@@ -8,25 +8,14 @@ Acts Amendment (Justice) Act 2008 Pt. 16 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008
 Legal Profession Act 2008 s. 678 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Building Services (Complaint Resolution and Administration) Act 2011 s. 129 | 16 of 2011 | 25 May 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
-Reprint 1: The Magistrates Court (Civil Proceedings) Act 2004 as at 13 Apr 2012 (includes amendments listed above)
-Courts Legislation Amendment Act 2012 Pt. 3 | 43 of 2012 | 22 Nov 2012 | 30 Jan 2013 (see s. 2(b) and Gazette 29 Jan 2013 p. 323)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Residential Tenancies Amendment Act 2011 Pt. 5 Div. 3 | 60 of 2011 | 14 Dec 2011 | 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
+Reprint 1: The Magistrates Court (Civil Proceedings) Act 2004 as at 13 Apr 2012 (includes amendments listed above except those in the Residential Tenancies Amendment Act 2011)
+Courts Legislation Amendment Act 2012 Pt. 3 | 43 of 2012 | 22 Nov 2012 | 30 Jan 2013 (see s. 2(b) and Gazette 29 Jan 2013 p. 323)
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Courts Legislation Amendment and Repeal Act 2004.
-On the date as at which this compilation was prepared, the Residential Tenancies Amendment Act 2011 Pt. 5 Div. 3 had not come into operation. It reads as follows:
-Part 5 — Amendments to other Acts
-Division 3 — Magistrates Court (Civil Proceedings) Act 2004 amended
-101.Act amended
-This Division amends the Magistrates Court (Civil Proceedings) Act 2004.
-102.Section 7 amended
-In section 7(1) in the definition of trader delete “an owner” and insert
-a lessor
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 agent30(1)
 allowable costs31(1)
 appeal court43(1)
@@ -45,14 +34,14 @@ costs application37(1)
 counterclaim9(1)
 Court3(1)
 defence3(1)
-general procedure26(1)
+general procedure26
 goods7(1)
 jurisdictional limit4
 legal practitioner3(1)
 lower court43(1)
 magistrate3(1)
 mediator34
-minor case3(1), 26(1)
+minor case3(1), 26
 minor cases jurisdictional limit3(1)
 minor cases procedure3(1)
 officer3(1)
