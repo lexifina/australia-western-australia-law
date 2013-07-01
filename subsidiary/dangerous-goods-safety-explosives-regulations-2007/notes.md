@@ -11,6 +11,7 @@ Dangerous Goods Safety (Explosives) Amendment Regulations 2012 | 16 Mar 2012 p. 
 Dangerous Goods Safety (Explosives) Amendment Regulations (No. 3) 2012 | 16 Mar 2012 p. 1263-9 | r. 1 and 2: 16 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2012 (see r. 2(b))
 Dangerous Goods Safety (Explosives) Amendment Regulations (No. 5) 2012 | 11 Jan 2013 p. 53-5 | r. 1 and 2: 11 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2013 (see r. 2(b))
 Dangerous Goods Safety (Explosives) Amendment Regulations (No. 4) 2012 | 19 Feb 2013 p. 984-6 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
+Dangerous Goods Safety (Explosives) Amendment Regulations (No. 3) 2013 | 28 Jun 2013 p. 2823-4 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
