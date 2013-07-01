@@ -16,6 +16,7 @@ Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2010 | 22 J
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2010 | 17 Dec 2010 p. 6354-5 | bl. 1 and 2: 17 Dec 2010 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jan 2011 (see bl. 2(b))
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2011 | 21 Jun 2011 p. 2220-1 | bl. 1 and 2: 21 Jun 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2011 (see bl. 2(b))
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2011 | 9 Dec 2011 p. 5233-4 | bl. 1 and 2: 9 Dec 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jan 2012 (see bl. 2(b))
+Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2013 | 28 Jun 2013 p. 2755-6 | bl. 1 and 2: 28 Jun 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2013 (see bl. 2(b))
 Footnote no longer applicable.
 Repealed by the Taxi Act 1994 (No. 83 of 1994).
 Defined Terms
