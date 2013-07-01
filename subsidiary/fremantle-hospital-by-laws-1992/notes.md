@@ -14,6 +14,7 @@ Fremantle Hospital Amendment By-laws 2011 | 24 Jun 2011 p. 2504-5 | bl. 1 and 2:
 Fremantle Hospital Amendment By-laws (No. 2) 2011 | 23 Dec 2011 p. 5425-9 | bl. 1 and 2: 23 Dec 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jan 2012 (see bl. 2(b))
 Reprint 2: The Fremantle Hospital By-laws 1992 as at 27 Jul 2012 (includes amendments listed above)
 Fremantle Hospital Amendment By-laws 2012 | 28 Sep 2012 p. 4650-4 | bl. 1 and 2: 28 Sep 2012 (see bl. 2(a)); By-laws other than bl. 1 and 2: 29 Sep 2012 (see bl. 2(b))
+Fremantle Hospital Amendment By-laws 2013 | 28 Jun 2013 p. 2752 | bl. 1 and 2: 28 Jun 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2013 (see bl. 2(b))
 Disallowed on 11 Sep 2012, see Gazette 18 Sep 2012 p. 4411.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
