@@ -43,6 +43,7 @@ Travel Agents Amendment Regulations 2010 | 25 Jun 2010 p. 2853-4 | r. 1 and 2: 2
 Travel Agents Amendment Regulations 2011 | 22 Jun 2011 p. 2325-7 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Travel Agents Amendment Regulations (No. 2) 2012 | 15 Jun 2012 p. 2603-5 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Travel Agents Amendment Regulations (No. 3) 2012 | 11 Sep 2012 p. 4346-7 | r. 1 and 2: 11 Sep 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Sep 2012 (see r. 2(b))
+Travel Agents Amendment Regulations (No. 2) 2013 | 27 Jun 2013 p. 2703-5 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 The Rural and Industries Bank of Western Australia Act 1987 was repealed by the R and I Bank Act 1990, the short title of which was changed to the R and I Holdings Act 1990 by the Bank of Western Australia Act 1995.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection is called the Department of Commerce.
 Defined Terms
