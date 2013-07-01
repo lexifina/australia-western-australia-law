@@ -60,7 +60,7 @@ Court at ................................................on the ................
 ......................................................................, 20 .......... , at .................... o’clock in the ................................. noon.
 .........................................................................
 Clerk of Petty Sessions.
-______________________________________________________________________
+____________________________________________________________________
 A person wishing to object to this application should lodge with the clerk of the above Court and serve on the applicant or his authorised representative, at least 7 days before the date appointed for the hearing, a notice stating the grounds of the objection.
 Form 3
 WESTERN AUSTRALIA
