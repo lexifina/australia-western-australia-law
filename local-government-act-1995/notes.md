@@ -53,12 +53,11 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Acts Amendment (Fair Trading) Act 2010 s. 182 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
  | Building Act 2011 s. 166 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
  | Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
- | Local Government Amendment Act 2012 Pt. 2 (other than s. 14-18) | 2 of 2012 | 4 Apr 2012 | Pt. 2 other than s. 13-18: 21 Apr 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695); s. 13: 1 Jul 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695)
- | Reprint 6: The Local Government Act 1995 as at 3 Aug 2012 (includes amendments listed above except those in the Co-operatives Act 2009 s. 516) (correction in Gazette 7 Sep 2012 p. 4329 and 28 Mar 2013 p. 1317)
+ | Local Government Amendment Act 2012 Pt. 2 | 2 of 2012 | 4 Apr 2012 | Pt. 2 other than s. 13-18: 21 Apr 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695); s. 13: 1 Jul 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695); s. 14-18: 1 Jul 2013 (see s. 2(b) and Gazette 8 Feb 2013 p. 863)
+ | Reprint 6: The Local Government Act 1995 as at 3 Aug 2012 (includes amendments listed above except those in the Co-operatives Act 2009 s. 516 and the Local Government Amendment Act 2012 s. 14-18) (correction in Gazette 7 Sep 2012 p. 4329 and 28 Mar 2013 p. 1317)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Local Government Amendment Act 2012 s. 14-18 | 2 of 2012 | 4 Apr 2012 | 1 Jul 2013 (see s. 2(b) and Gazette 8 Feb 2013 p. 863)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 29 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Commercial Arbitration Act 2012 s. 45 it. 12 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
@@ -227,47 +226,7 @@ the LG Act means the Local Government Act 1995.
 (3) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.78 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.78.
 References to the Executive Director were replaced by references to the Departmental CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Local Government Amendment Act 2012 s. 14-18 had not come into operation. They read as follows:
-14.Section 5.98 amended
-(1) Before section 5.98(1) insert:
-(1A) In this section —
-determined means determined by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975 section 7B.
-(2) In section 5.98(1):
-(a) in paragraph (a) delete “prescribed minimum fee” and insert:
-fee determined
-(b) in paragraph (b) delete “prescribed range” and insert:
-range determined
-(3) In section 5.98(2A):
-(a) in paragraph (a) delete “prescribed minimum fee” and insert:
-fee determined
-(b) in paragraph (b) delete “prescribed range” and insert:
-range determined
-(4) In section 5.98(3):
-(a) delete paragraph (a) and insert:
-(a) where the extent of reimbursement for the expense has been determined, to that extent; or
-(b) in paragraph (b) delete “prescribed range (if any) of” and insert:
-range determined for
-(5) In section 5.98(5):
-(a) in paragraph (a) delete “prescribed minimum annual local government allowance” and insert:
-annual local government allowance determined
-(b) in paragraph (b) delete “prescribed range” and insert:
-range determined
-15.Section 5.98A amended
-In section 5.98A(1) delete the passage that begins with “prescribed percentage” and continues to the end of the subsection and insert:
-percentage that is determined by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975 section 7B of the annual local government allowance to which the mayor or president is entitled under section 5.98(5).
-16.Section 5.99 amended
-Delete section 5.99(a) and (b) and insert:
-(a) the annual fee determined by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975 section 7B; or
-(b) where the local government has set a fee within the range for annual fees determined by that Tribunal under that section, that fee.
-17.Section 5.99A amended
-In section 5.99A:
-(a) in paragraph (a) delete “prescribed minimum annual allowance” and insert:
-annual allowance determined by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975 section 7B
-(b) in paragraph (b) delete “prescribed range” and insert:
-range determined by the Salaries and Allowances Tribunal under the Salaries and Allowances Act 1975 section 7B
-18.Section 5.100 amended
-In section 5.100(2)(b) delete “prescribed” and insert:
-determined
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 29 had not come into operation. It reads as follows:
 Division 29 — Local Government Act 1995 amended
 120.Act amended
@@ -356,6 +315,7 @@ Department1.4
 Departmental CEO1.4
 designated employee5.74(1), Sch. 9.3 cl. 1
 details4.52(3)
+determined5.98(1A)
 detriment4.85(4)
 differential general rate6.1
 dispose3.58(1), 3.59(1)
