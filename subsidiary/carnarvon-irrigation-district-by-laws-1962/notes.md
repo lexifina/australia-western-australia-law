@@ -46,6 +46,7 @@ Reprint 2: The Carnarvon Irrigation District By-laws 1962 as at 2 Oct 2009 (incl
 Water Agencies Amendment By-laws 2010 Pt. 2 | 25 Jun 2010 p. 2983-96 | 1 Jul 2010 (see bl. 2(b))
 Water Agencies Amendment By-laws 2011 Pt. 2 | 23 Jun 2011 p. 2403-16 | 1 Jul 2011 (see bl. 2(b))
 Water Agencies Amendment By-laws 2012 Pt. 2 | 20 Jun 2012 p. 2677-92 | 1 Jul 2012 (see bl. 2(b))
+Water Agencies Amendment By-laws 2013 Pt. 2 | 19 Jun 2013 p. 2333-46 | 1 Jul 2013 (see bl. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

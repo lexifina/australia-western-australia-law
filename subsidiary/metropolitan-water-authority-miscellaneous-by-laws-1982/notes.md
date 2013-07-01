@@ -44,6 +44,7 @@ Water Agencies Amendment By-laws 2010 Pt. 5 | 25 Jun 2010 p. 2983-96 | 1 Jul 201
 Water Agencies Amendment By-laws 2011 Pt. 5 | 23 Jun 2011 p. 2403-16 | 1 Jul 2011 (see bl. 2(b))
 Reprint 4: The Metropolitan Water Authority (Miscellaneous) By-laws 1982 as at 11 Nov 2011 (includes amendments listed above)
 Water Agencies Amendment By-laws 2012 Pt. 5 | 20 Jun 2012 p. 2677-92 | 1 Jul 2012 (see bl. 2(b))
+Water Agencies Amendment By-laws 2013 Pt. 5 | 19 Jun 2013 p. 2333-46 | 1 Jul 2013 (see bl. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

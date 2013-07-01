@@ -77,6 +77,7 @@ Reprint 5: The Country Towns Sewerage By-laws 1952 as at 22 Feb 2008 (includes a
  | Water Agencies Amendment By-laws 2011 Pt. 4 | 23 Jun 2011 p. 2403-16 | 1 Jul 2011 (see bl. 2(b))
  | Reprint 6: The Country Towns Sewerage By-laws 1952 as at 11 May 2012 (includes amendments listed above)
  | Water Agencies Amendment By-laws 2012 Pt. 4 | 20 Jun 2012 p. 2677-92 | 1 Jul 2012 (see bl. 2(b))
+ | Water Agencies Amendment By-laws 2013 Pt. 4 | 19 Jun 2013 p. 2333-46 | 1 Jul 2013 (see bl. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
