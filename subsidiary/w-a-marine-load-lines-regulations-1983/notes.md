@@ -17,9 +17,10 @@ W.A. Marine (Load Lines) Amendment Regulations 2011 | 20 May 2011 p. 1851-2 | r.
 W.A. Marine (Load Lines) Amendment Regulations (No. 2) 2011 | 21 Jun 2011 p. 2232 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Reprint 2: The W.A. Marine (Load Lines) Regulations 1983 as at 17 Feb 2012 (includes amendments listed above)
 W.A. Marine (Load Lines) Amendment Regulations 2012 | 15 Jun 2012 p. 2530-1 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
-Defined Terms
+W.A. Marine (Load Lines) Amendment Regulations 2013 | 28 Jun 2013 p. 2772-3 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Code3(1), 6(1)
 periodic survey6(1)
 scheduled time and place6(1)
