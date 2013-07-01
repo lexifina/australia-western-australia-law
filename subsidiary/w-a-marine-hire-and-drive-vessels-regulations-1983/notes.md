@@ -31,8 +31,9 @@ Reprint 3: The W.A. Marine (Hire and Drive Vessels) Regulations 1983 as at 24 Se
 W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2011 | 21 Jun 2011 p. 2239-40 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2012 | 14 Feb 2012 p. 670-1 | r. 1 and 2: 14 Feb 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Feb 2012 (see r. 2(b))
 W.A. Marine (Hire and Drive Vessels) Amendment Regulations (No. 2) 2012 | 15 Jun 2012 p. 2529-30 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
-Defined Terms
+W.A. Marine (Hire and Drive Vessels) Amendment Regulations 2013 | 28 Jun 2013 p. 2771-2 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Authority3(1)
 Code3(1)
