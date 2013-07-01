@@ -33,11 +33,11 @@ Aboriginal Housing Legislation Amendment Act 2010 Pt. 2 | 6 of 2010 | 25 May 201
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | it. 31 the amendment to s. 5(1): 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341); it. 31 the amendment to s. 55(5) other than the amendment to delete “or on termination” and insert “or (ii) on termination”: 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 3: The Housing Act 1980 as at 10 Dec 2010 (includes amendments listed above)
+Residential Tenancies Amendment Act 2011 Pt. 5 Div. 2 | 60 of 2011 | 14 Dec 2011 | 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | it. 31 the amendment to s. 55(5) the amendment to delete “or on termination” and insert “or (ii) on termination”: to be proclaimed (see s. 2(b))
-Residential Tenancies Amendment Act 2011 Pt. 5 Div. 2 | 60 of 2011 | 14 Dec 2011 | 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
 Water Services Legislation Amendment and Repeal Act 2012 s. 218 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The body preserved and continued by this Act is now called the “Housing Authority” (see s. 6).
 The body corporate established under the State Housing Act 1946 (the repealed Act) was called “The State Housing Commission”. (See s. 8 of the repealed Act).
@@ -86,16 +86,7 @@ Table
 Provision | Delete | Insert
 31.Housing Act 1980
 s. 55(5) | or on termination | or (ii)on termination
-On the date as at which this compilation was prepared, the Residential Tenancies Amendment Act 2011 Pt. 5 Div. 2 had not come into operation. It reads as follows:
-Part 5 — Amendments to other Acts
-Division 2 — Housing Act 1980 amended
-99.Act amended
-This Division amends the Housing Act 1980.
-100.Section 62G amended
-(1) In section 62G(1)(b) delete “owner,” and insert
-lessor,
-(2) In section 62G(2) delete “owner” and insert
-lessor
+Footnote no longer applicable
 On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 218 had not come into operation. It reads as follows:
 218.Housing Act 1980 amended
 (1) This section amends the Housing Act 1980.

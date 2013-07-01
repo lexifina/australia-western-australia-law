@@ -26,14 +26,16 @@ Revenue Laws Amendment (Assessment) Act 2007 Pt. 2 | 13 of 2007 | 29 Jun 2007 | 
 Revenue Laws Amendment Act 2008 Pt. 6 | 30 of 2008 | 27 Jun 2008 | 1 Jul 2008 (see s. 2(1)(c)(i))
 Revenue Laws Amendment Act (No. 2) 2008 s. 35 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 Reprint 3: The Rates and Charges (Rebates and Deferments) Act 1992 as at 7 Nov 2008 (includes amendments listed above)
+Residential Tenancies Amendment Act 2011 Pt. 5 Div. 4 | 60 of 2011 | 14 Dec 2011 | 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
 Local Government Amendment Act 2012 Pt. 3 | 2 of 2012 | 4 Apr 2012 | 1 Jul 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 12 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Revenue Laws Amendment Act 2012 Pt. 6 | 29 of 2012 | 3 Sep 2012 | 4 Sep 2012 (see s. 2(e))
+Rates and Charges (Rebates and Deferments) Amendment Act 2013 s.1, 2, 3, 4(1) and (2), 5-14 | 4 of 2013 | 29 Jun 2013 | s. 1 and 2: 29 Jun 2013 (see s. 2(a)); Act other than s. 1, 2, 4(3) and (4): 1 Jul 2013 (see s. 2(b)(i))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Residential Tenancies Amendment Act 2011 Pt. 5 Div. 4 | 60 of 2011 | 14 Dec 2011 | 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
 Water Services Legislation Amendment and Repeal Act 2012 s. 226 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+Rates and Charges (Rebates and Deferments) Amendment Act 2013 s 4(3) and (4) | 4 of 2013 | 29 Jun 2013 | s. 4(3): operative on commencement of the Water Services Legislation Amendment and Repeal Act 2012 s. 112 (see s. 2(c)(ii)); s. 4(4): operative on commencement of the Water Services Legislation Amendment and Repeal Act 2012 s. 226(3) (see s. 2(d)(ii))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.
 Repealed by s. 51(1) of this Act.
@@ -67,18 +69,13 @@ The Rates and Charges (Rebates and Deferments) Amendment Act 2005 s. 16 reads as
 16.Transitional
 If an eligible person who holds a relevant interest in land of a kind referred to in section 29A or 29B of the Rates and Charges (Rebates and Deferments) Act 1992 registers an entitlement in respect of land under section 32 of that Act after 30 June 2005 and before 1 October 2005, section 40 of that Act applies to that person as if the entitlement had been registered at the commencement of the charged period.
 ”.
-On the date as at which this compilation was prepared, the Residential Tenancies Amendment Act 2011 Pt. 5 Div. 4 had not come into operation. It reads as follows:
-Part 5 — Amendments to other Acts
-Division 4 — Rates and Charges (Rebates and Deferments) Act 1992 amended
-103.Act amended
-This Division amends the Rates and Charges (Rebates and Deferments) Act 1992.
-104.Section 29B amended
-(1) In section 29B(1) delete the definition of owner.
-(2) In section 29B(1) insert in alphabetical order:
-lessor, in relation to land, has the meaning given in the Residential Tenancies Act 1987 section 3;
-(3) In section 29B(3) delete “the owner” and insert:
-the lessor
-Footnote no longer applicable.
+The Rates and Charges (Rebates and Deferments) Amendment Act 2013 s. 14(2) does not have effect because this Act received the Royal Assent before 1 Jul 2013 (see s. 14(1)).
+On the date as at which this compilation was prepared, the Rates and Charges (Rebates and Deferments) Amendment Act 2013 s. 4(3) and (4) had not come into operation. They read as follows:
+4.Section 3 amended
+(3) In section 3(1) in the definition of Water Corporation delete “Water Corporation Act 1995” and insert:
+Water Corporations Act 1995
+(4) In section 3(1) in the definition of Water Corporation charge delete “paragraph (b)(ii)” and insert:
+paragraph (b)(i)
 On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 226 had not come into operation. It reads as follows:
 226.Rates and Charges (Rebates and Deferments) Act 1992 amended
 (1) This section amends the Rates and Charges (Rebates and Deferments) Act 1992.
@@ -98,9 +95,9 @@ licensee
 (6) After section 16(4) insert:
 (5) In subsection (4) —
 prescribed licensee means a licensee under the Water Services Act 2012 (other than a body established by or under the Water Corporations Act 1995 section 4 or a local government) who is prescribed for the purposes of subsection (4).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 administering body29A(1)
 administrative authority3(1)
 applicant3(1)
@@ -121,17 +118,19 @@ eligible person3(1)
 eligible senior3(1)
 emergency services levy3(1)
 entitlement3(1)
-final period32A(3)(b)(i)
+final payment day3(1)
+final period32A(3)
+first payment32A(4A)
 information11(4)
 land3(1)
+lessor29B(1)
 making3(1)
-owner29B(1)
 park home29B(1)
 park operator29C(1)
 parliamentary purposes11(4)
 pensioner concession card3(1)
-period 132A(2)(c)
-period 232A(2)(c)
+period 132A(2)
+period 232A(2)
 prescribed charge3(1)
 prescribed means test3(1)
 procedural manual3(1)
@@ -141,12 +140,14 @@ rebated amount3(1)
 registered3(1)
 registered person3(1)
 relevant interest3(1)
+relevant period42(2A)
 relocatable home29C(1)
 residence contract29A(1)
 resident29A(1)
 residential park29C(1)
 residential tenancy agreement29B(1)
 retirement village29A(1)
+senior’s card department3(1)
 seniors’ card3(1)
 site29B(1), 29C(1)
 site-only agreement29C(1)
@@ -156,4 +157,6 @@ surviving partner32A(1)
 surviving partner’s land32A(1)
 the pension means test3(1)
 Water Board3(1)
+Water Corporation3(1)
+Water Corporation charge3(1)
 year3(1)
