@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Retirement Villages Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 July 2013 of the Retirement Villages Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Retirement Villages Act 1992 | 34 of 1992 | 19 Jun 1992 | s. 1 and 2: 19 Jun 1992; Act other than s. 1 and 2: 10 Jul 1992 (see s. 2 and Gazette 10 Jul 1992 p. 3185)
@@ -25,8 +25,8 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 110 | 8 of 2009 | 21
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Acts Amendment (Fair Trading) Act 2010 s. 190 and 199 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 Building Act 2011 s. 171 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
-Retirement Villages Amendment Act 2012 s. 1 and 2 | 36 of 2012 | 5 Nov 2012 | 5 Nov 2012 (see s. 2(a))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 4: The Retirement Villages Act 1992 as at 5 Jul 2013 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 60(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
@@ -40,26 +40,12 @@ commencement day means the day on which the State Administrative Tribunal (Confe
 (2) If a matter being dealt with under the Retirement Villages Act 1992 by the Retirement Villages Disputes Tribunal before the commencement day is transferred to the Tribunal under the Act section 167(4)(b) —
 (a) the Act section 39 does not apply; and
 (b) the matter is to be dealt with by the Tribunal as if the Retirement Villages Act 1992 section 47 in force immediately before the commencement day continued to apply and a reference in that section to the Tribunal were a reference to the State Administrative Tribunal.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 (other than s. 151) (as amended by Acts Amendment (Fair Trading) Act 2010 s. 184) reads as follows:
-Division 23 — Transitional provisions
-[151.Deleted by No. 58 of 2010 s. 184.]
-152.Commissioner for Corporate Affairs and Registrar of Co-operative and Financial Institutions
-(1) A thing done or omitted to be done by, to or in relation to, the Commissioner for Corporate Affairs before commencement under, or for the purposes of, the Companies (Co-operative) Act 1943 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
-(2) A thing done or omitted to be done by, to or in relation to, the Registrar of Co-operative and Financial Institutions before commencement under, or for the purposes of, the Co-operative and Provident Societies Act 1903 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
-153.Consumer Affairs Act 1971
-Each office in existence immediately before commencement because of section 15(1) of the Consumer Affairs Act 1971 does not cease merely because that subsection is repealed by this Act.
-154.Petroleum Products Pricing Act 1983
-Each office in existence immediately before commencement because of section 5(2)(b) of the Petroleum Products Pricing Act 1983 does not cease merely because that paragraph is deleted by this Act.
-155.Interpretation
-In this Division —
-commencement means the time at which this Division comes into operation;
-Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
-Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 60(2) had not come into operation. It reads as follows:
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 is a transitional provision that is of no further effect.
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 60(2) had not come into operation. It reads as follows:
 60.Retirement Villages Act 1992 amended
 (2) Section 25(1)(g)(i) of the Retirement Villages Act 1992 is amended by deleting “, and in particular his or her rights, if any, under the Superannuation and Family Benefits Act 1938”.
-The section that it seeks to amend has been repealed.
-On the date as at which this compilation was prepared, the Retirement Villages Amendment Act 2012 s. 3-21 had not come into operation. They read as follows:
+The section that it seeks to amend has been deleted.
+On the date as at which this reprint was prepared, the Retirement Villages Amendment Act 2012 s. 3-21 had not come into operation. They read as follows:
 3.Act amended
 This Act amends the Retirement Villages Act 1992.
 4.Section 3 amended
@@ -153,8 +139,8 @@ recurrent charges, except in subsection (6), means recurrent charges —
 (b) ceases in accordance with the regulations.
 (4) If a former resident’s residence contract provides for the former resident’s liability to pay recurrent charges to cease at a time that would occur before the time provided for in regulations made for the purposes of subsection (3)(b), that liability ceases in accordance with that contract.
 (5) The administering body of a retirement village must pay recurrent charges, at the time when a former resident would have been required to pay those charges if the former resident were still liable to pay them, that are payable in respect of the period that —
-(a)begins when the former resident’s liability to pay the recurrent charges ceases in accordance with regulations made for the purposes of subsection (3) or with the residence contract referred to in subsection (4), as the case requires; and
-(b)ceases when a new resident of the residential premises becomes liable to pay the recurrent charges.
+(a) begins when the former resident’s liability to pay the recurrent charges ceases in accordance with regulations made for the purposes of subsection (3) or with the residence contract referred to in subsection (4), as the case requires; and
+(b) ceases when a new resident of the residential premises becomes liable to pay the recurrent charges.
 (6) The administering body must not seek to recover from the residents of the retirement village, by increasing the recurrent charges payable by them or by demanding or receiving from them any additional fee or charge, any amount payable by the administering body under subsection (5).
 Penalty: a fine of $20 000.
 (7) Section 6(2) does not have effect in relation to this section.
@@ -162,10 +148,10 @@ Penalty: a fine of $20 000.
 (1) In this section —
 former resident has the meaning given in section 23(1);
 recurrent charges means recurrent charges —
-(a)that are payable in respect of the residential premises in a retirement village that a former resident formerly occupied; and
-(b)that arise —
-(i)after those premises have been permanently vacated by the former resident; and
-(ii)on or after the commencement of the Retirement Villages Amendment Act 2012 section 11.
+(a) that are payable in respect of the residential premises in a retirement village that a former resident formerly occupied; and
+(b) that arise —
+(i) after those premises have been permanently vacated by the former resident; and
+(ii) on or after the commencement of the Retirement Villages Amendment Act 2012 section 11.
 (2) If a premium is repayable in whole or in part to a former resident, the former resident may elect, by notice in writing given to the administering body of the retirement village, to pay any recurrent charges for which he or she is liable (including any interest payable in respect of those charges under subsection (4)) by their deduction from the amount of premium repayable.
 (3) A former resident who elects to pay recurrent charges under subsection (2) may give the notice to the administering body at any time after the former resident has permanently vacated the residential premises that he or she formerly occupied.
 (4) Subject to subsection (6) and to any regulations made for the purposes of this subsection, a former resident who elects to pay recurrent charges under subsection (2) is liable to pay interest to the administering body in respect of those charges if the effect of that election is to defer the payment of the charges.
@@ -235,8 +221,8 @@ Part 5A — Statutory manager
 75A.Terms used
 In this Part —
 assets, of the administering body of a retirement village, means —
-(a)if the owner of land in the retirement village is the sole administering body of the retirement village — that land and any other property held for the purposes of the retirement village by the owner; or
-(b)if the owner of land in the retirement village is not the sole administering body of the retirement village — the land and property of the owner referred to in paragraph (a) and any other property held for the purposes of the retirement village by an administering body other than the owner;
+(a) if the owner of land in the retirement village is the sole administering body of the retirement village — that land and any other property held for the purposes of the retirement village by the owner; or
+(b) if the owner of land in the retirement village is not the sole administering body of the retirement village — the land and property of the owner referred to in paragraph (a) and any other property held for the purposes of the retirement village by an administering body other than the owner;
 functions, of the administering body of a retirement village, means the powers and duties that the administering body exercises and performs in the administration of the retirement village under this Act or another written law;
 property includes money, bank credits, travellers cheques, bank cheques, money orders, shares, securities, bonds, debt instruments, drafts and letters of credit;
 statutory manager means a person appointed under section 75B.
@@ -265,9 +251,9 @@ and may make such other orders as the State Administrative Tribunal thinks fit.
 75D.Variation and revocation of orders
 (1) In this section —
 other persons means —
-(a)if an application is made under this section by the Commissioner — the administering body of the retirement village and the statutory manager;
-(b)if an application is made under this section by the administering body of the retirement village — the Commissioner and the statutory manager;
-(c)if an application is made under this section by the statutory manager — the Commissioner and the administering body of the retirement village.
+(a) if an application is made under this section by the Commissioner — the administering body of the retirement village and the statutory manager;
+(b) if an application is made under this section by the administering body of the retirement village — the Commissioner and the statutory manager;
+(c) if an application is made under this section by the statutory manager — the Commissioner and the administering body of the retirement village.
 (2) The State Administrative Tribunal may, on application by the Commissioner, the administering body of the retirement village or the statutory manager under this section, vary or revoke an order appointing a statutory manager under section 75B.
 (3) The applicant must give a copy of the application to the other persons.
 (4) The State Administrative Tribunal may give any directions it considers necessary or expedient for the purposes of this section.
@@ -417,9 +403,9 @@ transitional regulations means regulations under subclause (2).
 (6) If transitional regulations contain a provision referred to in subclause (5), the provision does not operate so as —
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before Gazettal day; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before Gazettal day.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 administering body3(1)
 code3(1)
 commencement dateSch. 1 cl. 3(2)
