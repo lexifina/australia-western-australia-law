@@ -4,7 +4,7 @@ By-law | Description of offence | Modified penalty ($)
 9(1) | Driving or bringing vehicle on part of site other than on roadway or parking facility, without permission ............................................................... | 40
 9(2) | Driving or bringing onto the site, a vehicle with an unladen weight of more than 4 tonnes, without permission ............................................................... | 20
 9(3) | Driving, using or standing on part of site, a vehicle contrary to a sign ..................................................... | 40
-10 | Disobeying an authorised person’s reasonable direction ............................................................... | 20
+10 | Disobeying an authorised person’s reasonable direction .................................................................. | 20
 11(1)(a) | Driving in excess of 8 km/h .................................... | 40
 11(1)(b) | Driving in excess of speed limit indicated by speed restriction sign ........................................................ | 40
 12 | Failing to give way when entering parking facility | 20
