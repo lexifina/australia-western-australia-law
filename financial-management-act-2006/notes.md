@@ -22,6 +22,7 @@ Agricultural Practices (Disputes) Repeal Act 2011 s. 5 | 54 of 2011 | 9 Nov 2011
 Reprint 2: The Financial Management Act 2006 as at 8 Jun 2012 (includes amendments listed above)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 7 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Financial Management (Statutory Authorities) Regulations 2012 published in Gazette 7 Dec 2012 p. 5998 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2012 (see r. 2(b))
+Financial Management (Statutory Authorities) Regulations 2013 published in Gazette 9 Jul 2013 p. 3048 | r. 1 and 2: 9 Jul 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jul 2013 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
