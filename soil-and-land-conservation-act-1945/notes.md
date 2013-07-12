@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Soil and Land Conservation Act 1945 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 12 July 2013 of the Soil and Land Conservation Act 1945 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Soil Conservation Act 1945 | 15 of 1945 (9 and 10 Geo. VI No. 15) | 9 Jan 1946 | 1 Jul 1946 (see s. 1 and Gazette 28 Jun 1946 p. 789)
@@ -16,7 +16,7 @@ Reprint of the Soil and Land Conservation Act 1945 approved 13 Dec 1982 (include
 Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
 Soil and Land Conservation Amendment Act 1988 | 46 of 1988 | 30 Nov 1988 | s. 16(b): 1 Apr 1988 (see s. 2(3)); s. 15 and 16(a): 16 Sep 1988 (see s. 2(2) and Gazette 16 Sep 1988 p. 3637); s. 1 and 2: 30 Nov 1988; Act other than s. 1, 2, 15 and 16: 20 Jan 1989 (see s. 2(1) and Gazette 20 Jan 1989 p. 110)
 Agricultural Legislation (Penalties) Amendment Act 1989 s. 3 | 20 of 1989 | 1 Dec 1989 | 15 Dec 1989 (see s. 2 and Gazette 15 Dec 1989 p. 4513)
-Soil and Land Conservation Amendment Act 1990 | 91 of 1990 | 17 Dec 1990 | s. 1 and 2: 17 Dec 1990; Act other than s. 1 and 2, the definitions of “the trust” and “the Trust Fund” in s. 4(c), s. 12 and Sch. it. 1(b), 2 and 3: 3 May 1991 (see s. 2 and Gazette 3 May 1991 p. 1936); balance: 28 Oct 1995 (see s. 2 and Gazette 27 Oct 1995 p. 4937)
+Soil and Land Conservation Amendment Act 1990 | 91 of 1990 | 17 Dec 1990 | s. 1 and 2: 17 Dec 1990; Act other than s. 1 and 2, the definitions of the trust and the Trust Fund in s. 4(c), s. 12 and Sch. it. 1(b), 2 and 3: 3 May 1991 (see s. 2 and Gazette 3 May 1991 p. 1936); balance: 28 Oct 1995 (see s. 2 and Gazette 27 Oct 1995 p. 4937)
 Rates and Charges (Rebates and Deferments) Act 1992 s. 52(2) | 31 of 1992 | 19 Jun 1992 | 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2643)
 Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
 R & I Bank Amendment Act 1994 s. 13 | 6 of 1994 | 11 Apr 1994 | 26 Apr 1994 (see s. 2 and Gazette 26 Apr 1994 p. 1743)
@@ -45,17 +45,18 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 7: The Soil and Land Conservation Act 1945 as at 19 May 2006 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 2 Div. 7 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Financial Legislation Amendment and Repeal Act 2006 s. 4, 6 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 6 and Sch. 1 cl. 158 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 80 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Petroleum Amendment Act 2007 s. 105 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Water Resources Legislation Amendment Act 2007 s. 200 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
-Reprint 8: The Soil and Land Conservation Act 1945 as at 17 Oct 2008 (includes amendments listed above except the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
+Duties Legislation Amendment Act 2008 Sch. 1 cl. 35 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Reprint 8: The Soil and Land Conservation Act 1945 as at 17 Oct 2008 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4, 43(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Building Act 2011 s. 173 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 9: The Soil and Land Conservation Act 1945 as at 12 Jul 2013 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Water Services Legislation Amendment and Repeal Act 2012 s. 229 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
@@ -68,17 +69,16 @@ Now known as the Soil and Land Conservation Act 1945; short title changed (see n
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 was a transitional provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 229 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 229 had not come into operation. It reads as follows:
 229.Soil and Land Conservation Act 1945 amended
 (1) This section amends the Soil and Land Conservation Act 1945.
 (2) In the Schedule:
 (a) delete “Land Drainage Act 1925”;
 (b) after “Stock (Identification and Movement) Act 1970” insert:
 Water Services Act 2012
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 agreement to reserve30B(2)(b)
 appropriate officer4
 chief executive officer4
@@ -105,6 +105,7 @@ owner4
 parliamentary purposes41D(4)
 plantation4A(1)
 private land26(6)
+producer organizations23(1)
 product4A(1)
 public authority4
 Registrar of Deeds and Transfers4
@@ -118,9 +119,8 @@ soil conservation notice31
 soil conservation rates25B(1)
 soil conservation reserve4
 specified48(5)
-the producer organizations23(1)
-the specified service25AA(1)
-the Trust4
-the Trust Account4
+specified service25AA(1)
 Treasurer4
 tree4A(1)
+Trust4
+Trust Account4
