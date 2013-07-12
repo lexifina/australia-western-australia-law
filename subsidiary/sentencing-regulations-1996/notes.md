@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Sentencing Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 12 July 2013 of the Sentencing Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Sentencing Regulations 1996 | 4 Oct 1996 p. 5281-96 | 4 Nov 1996 (see r. 2 and Gazette 25 Oct 1996 p. 5632)
@@ -20,7 +20,32 @@ Sentencing Amendment Regulations 2008 | 27 Mar 2008 p. 901-2 | r. 1 and 2: 27 Ma
 Sentencing Amendment Regulations 2009 | 21 Apr 2009 p. 1369 | r. 1 and 2: 21 Apr 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Apr 2009 (see r. 2(b))
 Sentencing Amendment Regulations 2012 | 6 Mar 2012 p. 893-4 | r. 1 and 2: 6 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2012 (see r. 2(b))
 Sentencing Amendment Regulations 2013 | 5 Feb 2013 p. 837-8 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b)(i) and Gazette 5 Feb 2013 p. 823)
+Reprint 3: The Sentencing Regulations 1996 as at 12 Jul 2013 (includes amendments listed above)
+The Co-operatives and Provident Societies Act 1903 was repealed by the Co-operatives Act 2009.
+The Credit (Administration) Act 1984 s. 37, 38, 39(4) and (6) were deleted by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 29.
+The following sections of The Criminal Code have been deleted:
+s. 108, 110 and 111 by the Criminal Law Amendment (Simple Offences) Act 2004;
+s. 208 by the Criminal Code Amendment Act 2004 s. 17;
+s. 426A(3) by the Criminal Code Amendment Act 2004 s. 34;
+s. 430, 431, 434 and 435 by the Criminal Law Amendment (Simple Offences) Act 2004 s. 28.
+The Dangerous Goods (Transport) Act 1998 was repealed by the Dangerous Goods Safety Act 2004.
 Formerly referred to the Electricity Corporation Act 1994 the short title of which was changed to the Electricity Transmission and Distribution Systems (Access) Act 1994 by the Electricity Corporations Act 2005 s. 139. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Sch. 2 was deleted by the Electricity Corporations Act 2005 s. 139.
+The Explosives and Dangerous Goods Act 1961 was repealed by the Dangerous Goods Safety Act 2004.
+The Family Court Act 1997 s. 243(6) was deleted by the Criminal Code Amendment Act 2004 s.58.
+The Guardianship and Administration Act 1990 Sch. 1 Pt. B cl. 12(6) was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 70. (There is no longer a Pt. B).
+The Housing Societies Act 1976 was repealed by the Housing Societies Repeal Act 2005.
+2The following sections of the Police Act 1892 have been deleted:
+s. 54, 54A(3), 59, 65 and 66 by the Criminal Law Amendment (Simple Offences) Act 2004 s. 57;
+s. 76F(3)(a), 82B(1) and 82B(3) by the Criminal Law Amendment (Simple Offences) Act 2004 s. 63;
+s. 97 and 107 by the Criminal Law Amendment (Simple Offences) Act 2004 s. 68;
+s. 124 by the Criminal Investigation (Consequential Provisions) Act 2006 s. 67;
+s. 125 by the Criminal Law Amendment (Simple Offences) Act 2004 s. 70;
+s. 128 by the Courts Legislation Amendment and Repeal Act 2004 s. 141.
+Formerly referred to the Curriculum Council Act 1997 the short title of which was changed to School Curriculum and Standards Authority Act 1997 by the Curriculum Council Amendment Act 2011 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006.
+Repealed by the Water Resources Legislation Amendment Act 2007.
+Formerly referred to the Navigable Waters Regulations, the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
