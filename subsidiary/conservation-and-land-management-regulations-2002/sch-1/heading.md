@@ -9,7 +9,6 @@
 4. | Daily entrance for each occupant (6 years of age or older) of tour vehicle — Yanchep National Park, Nambung National Park | 5.00
 5. | *Daily entrance concession fee for non-tour motor vehicle if the driver holds a concession card | 5.00
 6. | *Daily entrance concession fee for occupant of tour vehicle if the occupant holds a concession card (except where tour vehicle is operating for profit) | 1.50
-[7.deleted]
 [* Payment of a daily entrance fee under this item entitles the visitor on that day to enter any other area of CALM land for which an entrance fee is charged under the same item.]
 [Division 1 amended in Gazette 29 Sep 2006 p. 4326-7; 28 Aug 2009 p. 3356; 3 Dec 2010 p. 6051.]
 ## Division 2 — Fees for passes providing extended entrance to CALM land
