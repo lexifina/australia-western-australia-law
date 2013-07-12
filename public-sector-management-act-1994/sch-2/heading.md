@@ -10,11 +10,11 @@ Column 1 Item | Column 2 Entity
 4 | Country High School Hostels Authority, established under the Country High School Hostels Authority Act 1960
 4A | Country Housing Authority, established under the Country Housing Act 1998
 5 | Commissioner of Main Roads, appointed under the Main Roads Act 1930
-[5A, 6, 7 | deleted]
+[6, 7 | deleted]
 8 | Disability Services Commission, continued under the Disability Services Act 1993
 [9, 10 | deleted]
 10AA | Economic Regulation Authority, established under the Economic Regulation Authority Act 2003
-[10A | Deleted]
+[10A | deleted]
 [11, 12 | deleted]
 13 | Gascoyne Development Commission, established under the Regional Development Commissions Act 1993
 [14 | deleted]
@@ -29,7 +29,6 @@ Column 1 Item | Column 2 Entity
 26 | Lotteries Commission, continued under the Lotteries Commission Act 1990
 27 | Metropolitan Cemeteries Board, established under the Cemeteries Act 1986
 28 | Metropolitan Redevelopment Authority
-[28A, 28B | deleted]
 29 | Mid West Development Commission, established under the Regional Development Commissions Act 1993
 30 | Minerals and Energy Research Institute of Western Australia established under the Minerals and Energy Research Act 1987
 [31 | deleted]
@@ -50,7 +49,7 @@ Column 1 Item | Column 2 Entity
 [46 | deleted]
 47 | Housing Authority, provided for under the Housing Act 1980
 47A | State Supply Commission established under the State Supply Commission Act 1991
-[47B, 47C, 48 | deleted]
+[47B, 47C | and 48 deleted]
 49 | The Board of the Art Gallery of Western Australia, referred to in the Art Gallery Act 1959
 50 | The Library Board of Western Australia, constituted under the Library Board of Western Australia Act 1951
 [51-53 | deleted]
