@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Conservation and Land Management Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 12 July 2013 of the Conservation and Land Management Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Conservation and Land Management Regulations 2002 | 3 May 2002 p. 2233-308 | 3 May 2002
@@ -18,19 +18,22 @@ Conservation and Land Management Amendment Regulations (No. 3) 2010 | 3 Dec 2010
 Conservation and Land Management Amendment Regulations (No. 2) 2011 | 30 Sep 2011 p. 3897-8 | r. 1 and 2: 30 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2011 (see r. 2(b))
 Conservation and Land Management Amendment Regulations 2012 | 7 Dec 2012 p. 5964-74 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2012 (see r. 2(b) and Gazette 7 Dec 2012 p. 5963)
 Conservation and Land Management Amendment Regulations 2013 | 5 Feb 2013 p. 833-4 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b)(i) and Gazette 5 Feb 2013 p. 823)
+Reprint 3: The Conservation and Land Management Regulations 2002 as at 12 Jul 2013 (includes amendments listed above)
 The Swan River Trust Act 1988 was repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006.
-Repealed by these regulations r. 115.
+Deleted by the Conservation Legislation Amendment Act 2011 s. 10.
+Repealed by these regulations.
+Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
 The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads as follows:
 4.Transitional provision for Barrow Island Trust Account
 (1) In this regulation —
 Barrow Island Net Conservation Benefit Account means the account of that name established as an agency special purpose account under the Financial Management Act 2006 section 16 in accordance with the Conservation and Land Management Act 1984 section 69(1);
 Barrow Island Trust Account means the account referred to in the Conservation and Land Management Regulations 2002 Part 7A immediately before the commencement of regulation 3.
 (2) Any money standing to the credit of the Barrow Island Trust Account immediately before the commencement of regulation 3 is to be transferred to the Barrow Island Net Conservation Benefit Account.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-aboriginal artefact2
-aboriginal site2
+Defined termProvision(s)
+Aboriginal artefact2
+Aboriginal site2
 abseiling area2
 aircraft2
 aircraft landing area99A(1)
@@ -57,9 +60,8 @@ designated area2
 dog area2
 fauna8(3)
 firewood71(4)
-fish121
+fish121(1)
 fishing activity9(2)
-former provision116(5)
 horse area2
 licence82
 litter24(2)
@@ -69,14 +71,14 @@ naturally occurring feature31(4)
 non-indigenous animal2
 non-tour motor vehicle99(1)
 occupant99A(1)
-permission123
-permission holder123
-poison risk area115
-poison risk map115
+permission123(1)
+permission holder123(1)
 plant13(2)
+poison risk area115(1)
+poison risk map115(1)
 property77(1)
-recreational land114
-relevant CALM land121
+recreational land 114
+relevant CALM land121(1)
 restricted area2
 restricted device12(5)
 school holidays2
@@ -94,7 +96,7 @@ tour vehicle99(1)
 townsite114
 tree2
 Tree Top Walk100(1)
-urban land114, 118, 119
+urban land114, 118(2), 119(3)
 vehicle2
 vessel2
 vessel storage facility65A(1)
