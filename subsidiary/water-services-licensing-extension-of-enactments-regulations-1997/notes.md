@@ -13,12 +13,19 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Water Services Legislation Amendment and Repeal Act 2012 s. 202(d) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+Water Services Licensing (Extension of Enactments) Amendment Regulations 2013 r. 3 and 4 published in Gazette 19 Jul 2013 p. 3272 | Operative on publication of Notice in Gazette (see r. 2(b))
 Formerly referred to as the Water Services Coordination Act 1995 the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now known as the Water Services Licensing (Extension of Enactments) Regulations 1997; citation changed (see note under r. 1).
 On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 202(d) had not come into operation. It reads as follows:
 202.Other legislation repealed
 These written laws are repealed:
 (d) the Water Services Licensing (Extension of Enactments) Regulations 1997.
+On the date as at which this compilation was prepared, the Water Services Licensing (Extension of Enactments) Amendment Regulations 2013 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Water Services Licensing (Extension of Enactments) Regulations 1997.
+4.Schedule 1 amended
+In Schedule 1 Division 2 in the item relating to s. 37 delete “Commercial Arbitration Act 1985.” and insert:
+Commercial Arbitration Act 2012.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
