@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 19 July 2013 of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fish Resources Management Regulations 1995 | 29 Sep 1995 p. 4503-646 | 1 Oct 1995 (see r. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -167,7 +167,9 @@ Fish Resources Management Amendment Regulations (No. 2) 2013 | 29 Jan 2013 p. 30
 Fish Resources Management Amendment Regulations (No. 14) 2012 | 1 Mar 2013 p. 1091-2 | r. 1 and 2: 1 Mar 2013 (see r. 2(a)); Regulations other than r. 1 & 2: 1 Mar 2013
 Fish Resources Management Amendment Regulations (No. 3) 2013 | 18 Jun 2013 p. 2295-9 | r. 1 and 2: 18 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jun 2013 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 4) 2013 | 28 Jun 2013 p. 2887-904 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); r. 13: 29 Jun 2013 (see r. 2(b)(i) and Gazette 18 Jun 2013 p. 2295); Regulations other than r. 1, 2 and 13: 29 Jun 2013 (see r. 2(c))
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
+Reprint 12: The Fish Resources Management Regulations 1995 as at 19 Jul 2013 (includes amendments listed above)
+Repealed by the Biosecurity and Agriculture Management (Identification and Movement of Stock and Apiaries) Regulations 2013.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Recreational Fishing Account.
 Disallowed on 16 Jun 1999, see Gazette 25 Jun 1999 p. 2742.
@@ -175,9 +177,8 @@ The commencement date of 15 Jan 2013 that was specified in r. 2(b) was before th
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-(demersal finfish65A(1)
 Abalone Zone38D(1)
-Abrolhos Islands Fish Habitat Protection AreaSch. 2, cl. 2(2)
+Abrolhos Islands Fish Habitat Protection AreaSch. 2 Pt. 2 Div. 3 cl. 2(2)
 aircraft3(1)
 ALC55A
 ALC fishing boat55C(1)
@@ -211,7 +212,7 @@ Dampier Archipelago waters64OB(3)
 day trip16E(1), 22(5)
 dB(A)104(4)
 deep sea crab38A
-demersal finfish65B(1)
+demersal finfish65A(1), 65B(1)
 demersal scalefish45(1), 64OAA(1)
 disease3(1)
 disposable part16B(5)
@@ -237,7 +238,7 @@ GDA152(1)
 gear identification number3(1)
 ground64I(2)
 GRS80152(2)
-interdorsal fin lengthSch. 2,
+interdorsal fin lengthSch. 2 Pt. 2 Div. 2
 internal SLED38(1)
 jet ski3(1)
 jetty72
@@ -287,13 +288,13 @@ rock lobster licence72
 rock lobster pot3(1)
 rock lobster pot licence3(1)
 rock lobster tail3(1)
-Rottnest Island ReserveSch. 2, cl. 4(2)
-Rowley Shoals Marine ParkSch. 2,
+Rottnest Island ReserveSch. 2 Pt. 2 Div. 3 cl. 4(2)
+Rowley Shoals Marine ParkSch. 2 Pt. 2 Div. 2
 sea lion exclusion device38(3)
 Sea Lion Protection Zone38(1)
 section 224129A
 set3(1)
-setoseSch. 2,
+setoseSch. 2 Pt. 2 Div. 1
 share arrangement72
 single-sided fillet3(1), 16E(1)
 South Coast Region3(1)
@@ -304,7 +305,7 @@ sunrise3(1)
 sunset3(1)
 tail clip31(3)
 tail punch31(3)
-tarspotSch. 2,
+tarspotSch. 2 Pt. 2 Div. 1
 unauthorised structure87
 unlicensed person124B(3)
 usual entitlement118A(2)

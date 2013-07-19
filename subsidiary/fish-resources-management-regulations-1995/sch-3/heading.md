@@ -29,7 +29,7 @@ Snapper, Pink, in the waters of the Shark Bay | 2
 Snapper, Queen | 3
 Snapper, Red (Redfish) and Swallowtail in South Coast region | 8
 [Division 1 inserted in Gazette 29 Jan 2013 p. 313-14.]
-Division 2 — West Coast region
+## Division 2 — West Coast region
 [r. 65B]
 [Heading inserted in Gazette 29 Jan 2013 p. 314.]
 Fish | Species bag limit for one day | Grouped bag limit of all species of demersal finfish for one day
@@ -48,9 +48,9 @@ Snapper, Pink, | 2
 Snapper, Queen | 2
 Snapper, Red (Redfish) and Swallowtail | 2
 [Division 2 inserted in Gazette 29 Jan 2013 p. 314; amended in Gazette 28 Jun 2013 p. 2893.]
-## Part 2 — Bag limits — Large pelagic fish
+## Part 2 — Bag limits — large pelagic fish
 [r. 65C]
-[Heading inserted inserted in Gazette 29 Jan 2013 p. 315.]
+[Heading inserted in Gazette 29 Jan 2013 p. 315.]
 Fish | Species bag limit for one day | Grouped bag limit of all species of large pelagic finfish for one day
 Amberjack, Samson Fish and Yellowtail Kingfish | 3 | 3
 Barracouta (Gemfish) | 3
@@ -63,7 +63,7 @@ Sharks and rays | 3
 Trevally, Giant and Golden | 3
 Tuna (Bigeye, Mackerel, Northern Bluefin, Skipjack, Southern Bluefin, Yellowfin and Dogtooth | 3
 [Part 2 inserted in Gazette 29 Jan 2013 p. 315.]
-## Part 3 — Bag limits — Nearshore or estuarine finfish
+## Part 3 — Bag limits — nearshore or estuarine finfish
 [r. 65D]
 [Heading inserted in Gazette 29 Jan 2013 p. 315.]
 Fish | Species bag limit for one day | Grouped bag limit of all species of nearshore or estuarine finfish for one day
@@ -93,7 +93,7 @@ Tripletail | 2
 Whiting, King George (Spotted) | 12
 Wrasse and Parrot Fish | 8
 [Part 3 inserted in Gazette 29 Jan 2013 p. 315-17.]
-## Part 4 — Bag limits — Freshwater finfish
+## Part 4 — Bag limits — freshwater finfish
 [r. 65E]
 [Heading inserted in Gazette 28 Jun 2013 p. 2893.]
 Fish | Grouped bag limit of all species of freshwater finfish for one day
@@ -101,7 +101,7 @@ Catfish | 4
 Grunter
 Trout, Brown and Rainbow
 [Part 4 inserted in Gazette 28 Jun 2013 p. 2893.]
-## Part 5 — Bag limits — Crustaceans
+## Part 5 — Bag limits — crustaceans
 [r. 65G]
 [Heading inserted in Gazette 29 Jan 2013 p. 317.]
 Species | Bag limit for one day
@@ -113,10 +113,10 @@ Marron | 5 (in marron trophy water) 8 (in other waters)
 Prawns, Western School and Western King | 9 litres
 Redclaw, Queensland | N/A
 Rock Lobster, all species | 8
-Other crustacean species not specified above | 10
 Yabbies, Common and White | N/A
+Other crustacean species not specified above | 10
 [Part 5 inserted in Gazette 29 Jan 2013 p. 317; amended in Gazette 28 Jun 2013 p. 2893-4.]
-## Part 6 — Bag limits — Molluscs and other invertebrates
+## Part 6 — Bag limits — molluscs and other invertebrates
 [r. 65H]
 [Heading inserted in Gazette 29 Jan 2013 p. 318.]
 Species | Bag limit for one day
