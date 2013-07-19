@@ -8,6 +8,16 @@ Higher Education Amendment Regulations 2010 | 8 Jun 2010 p. 2608-11 | r. 1 and 2
 Higher Education Amendment Regulations 2011 | 25 Nov 2011 p. 4867-9 | r. 1 and 2: 25 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Nov 2011 (see r. 2(b))
 Reprint 1: The Higher Education Regulations 2005 as at 19 Oct 2012 (includes amendments listed above)
 Higher Education Amendment Regulations 2012 | 27 Nov 2012 p. 5736 | 27 Nov 2012
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Higher Education Amendment Regulations 2013 r. 3-4 | 19 Jul 2013 p. 3265 | On commencement of the Commercial Arbitration Act 2012 s. 44 (see r. 2(b))
+On the date as at which this compilation was prepared, the Higher Education Amendment Regulations 2013 r. 3-4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Higher Education Regulations 2005.
+4.Regulation 5B amended
+In regulation 5B(2) delete “Commercial Arbitration Act 1985.” and insert:
+Commercial Arbitration Act 2012.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
