@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Residential Tenancies Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 19 July 2013 of the Residential Tenancies Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Residential Tenancies Act 1987 | 128 of 1987 | 21 Jan 1988 | s. 1 and 2: 21 Jan 1988; Act other than s. 1 and 2: 1 Oct 1989 (see s. 2 and Gazette 18 Aug 1989 p. 2748)
@@ -19,16 +19,17 @@ Taxation Administration (Consequential Provisions) Act 2002 s. 21 | 45 of 2002 |
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 61 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 16 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Reprint 3: The Residential Tenancies Act 1987 as at 27 May 2005 (includes amendments listed above except those in the Real Estate Legislation Amendment Act 1995 s. 46 and 52)
-Limitation Legislation Amendment and Repeal Act 2005 Pt. 10 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
+Limitation Legislation Amendment and Repeal Act 2005 s. 23 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 20 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Residential Parks (Long-stay Tenants) Act 2006 s. 98 | 32 of 2006 | 4 Jul 2006 | 3 Aug 2007 (see r. 2 and Gazette 1 Aug 2007 p. 3835)
+Residential Parks (Long-stay Tenants) Act 2006 s. 98 | 32 of 2006 | 4 Jul 2006 | 3 Aug 2007 (see s. 2 and Gazette 1 Aug 2007 p. 3835)
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 9 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 4: The Residential Tenancies Act 1987 as at 20 Jul 2007 (includes amendments listed above)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 149 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 4: The Residential Tenancies Act 1987 as at 20 Jul 2007 (includes amendments listed above except those in the Residential Parks (Long-stay Tenants) Act 2006)
 Legal Profession Act 2008 s. 698 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Standardisation of Formatting Act 2010 s. 29 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Acts Amendment (Fair Trading) Act 2010 s. 189 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
-Residential Tenancies Amendment Act 2011 | 60 of 2011 | 14 Dec 2011 | s. 5(2) (to the extent that it inserts the definition of lessor), 42(1) and (2), 45(1), 57, 58, 60, 69, 88, 89 (to the extent that it amends s. 71) and 90-95: 30 Jul 2012 (see s. 2(b) and Gazette 27 Jul 2012 p. 3663); s. 3-5 (except to the extent that it inserts the definition of lessor), 6-41, 42(3), 43-44, 45(2), 46-56, 59, 61-68, 70-87, 89 (except to the extent that it amends s. 71) and Pt. 4 (s. 96): 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
+Residential Tenancies Amendment Act 2011 | 60 of 2011 | 14 Dec 2011 | s. 1 and 2: 14 Dec 2011 (see s. 2(a)); s. 5(2) (to the extent that it inserts the definition of lessor), 42(1) and (2), 45(1), 57, 58, 60, 69, 88, 89 (to the extent that it amends s. 71) and 90-95: 30 Jul 2012 (see s. 2(b) and Gazette 27 Jul 2012 p. 3663); s. 3-5 (except to the extent that it inserts the definition of lessor), 6-41, 42(3), 43-44, 45(2), 46-56, 59, 61-68, 70-87, 89 (except to the extent that it amends s. 71) and Pt. 4 (s. 96): 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
+Reprint 5: The Residential Tenancies Act 1987 as at 19 Jul 2013 (includes amendments listed above)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
 The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
@@ -36,29 +37,15 @@ The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
 (3) The interest payable by a financial institution after the commencement of this section on the amount of a security bond referred to in subsection (2) is interest at the prescribed rate in force from time to time under clause 6(1) of Schedule 1 to the principal Act as amended by this section.
 The Real Estate Legislation Amendment Act 1995 s. 46 and 52 were purported to be proclaimed on 1 January 1997 in Gazette 25 June 1996 p. 2902, but the proclamation was revoked before it came into force — see Gazette 6 September 1996 p. 4405.
 The Taxation Administration (Consequential Provisions) Act 2002 s. 3 and 4 and Pt. 4 are transitional provisions that are of no further effect.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 (other than s. 151) (as amended by Acts Amendment (Fair Trading) Act 2010 s. 184) reads as follows:
-Division 23 — Transitional provisions
-[151.Deleted by No. 58 of 2010 s. 184.]
-152.Commissioner for Corporate Affairs and Registrar of Co-operative and Financial Institutions
-(1) A thing done or omitted to be done by, to or in relation to, the Commissioner for Corporate Affairs before commencement under, or for the purposes of, the Companies (Co-operative) Act 1943 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
-(2) A thing done or omitted to be done by, to or in relation to, the Registrar of Co-operative and Financial Institutions before commencement under, or for the purposes of, the Co-operative and Provident Societies Act 1903 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
-153.Consumer Affairs Act 1971
-Each office in existence immediately before commencement because of section 15(1) of the Consumer Affairs Act 1971 does not cease merely because that subsection is repealed by this Act.
-154.Petroleum Products Pricing Act 1983
-Each office in existence immediately before commencement because of section 5(2)(b) of the Petroleum Products Pricing Act 1983 does not cease merely because that paragraph is deleted by this Act.
-155.Interpretation
-In this Division —
-commencement means the time at which this Division comes into operation;
-Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
-Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 is a transitional provision that is of no further effect.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 AFI92
 agent22(6), 82A
 agreement70A(1), 71D(1), 72(1A)
-applicant82C(1), 82D(1)
-authorised agentSch. 1, cl. 1
+applicant82C(1)(a), 82D(1)(a)
+authorised agentSch. 1 cl. 1
 authorised financial institution92
 authorised person88A(1)
 bond 3
@@ -74,7 +61,7 @@ executive officer7A(3)
 existing agreement71H
 expiry day3
 first tenant17A(1)
-former agreement31B
+former agreement31B(a)
 goods79(1A)
 GST49A(1)
 Housing Authority71A
@@ -87,7 +74,7 @@ list82A
 Minister for Housing71A
 minor59A(1)
 national privacy principles82K(1)
-new agreement31B
+new agreement31B(b)
 notice70A(1)
 notice to vacate81A(1)
 out-of-date82A
