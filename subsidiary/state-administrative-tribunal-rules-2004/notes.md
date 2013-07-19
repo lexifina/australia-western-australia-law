@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Administrative Tribunal Rules 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 19 July 2013 of the State Administrative Tribunal Rules 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 State Administrative Tribunal Rules 2004 | 30 Dec 2004 p. 6849-89 | 1 Jan 2005 (see r. 2)
@@ -11,10 +11,15 @@ State Administrative Tribunal Amendment Rules 2008 | 28 Mar 2008 p. 918-19 | r. 
 State Administrative Tribunal Amendment Rules (No. 2) 2008 | 29 Aug 2008 p. 4043-4 | r. 1 and 2: 29 Aug 2008 (see r. 2(a)); Rules other than r. 1 and 2: 30 Aug 2008 (see r. 2(b))
 State Administrative Tribunal Amendment Rules 2010 | 9 Jul 2010 p. 3240-2 | r. 1 and 2: 9 Jul 2010 (see r. 2(a)); Rules other than r. 1 and 2: 10 Jul 2010 (see r. 2(b))
 State Administrative Tribunal Amendment Rules 2013 | 14 May 2013 p. 1969-70 | r. 1 and 2: 14 May 2013 (see r. 2(a)); Rules other than r. 1 and 2: 15 May 2013 (see r. 2(b))
+Reprint 2: The State Administrative Tribunal Rules 2004 as at 19 Jul 2013 (includes amendments listed above)
+Schedule deleted by the State Administrative Tribunal Amendment Regulations (No. 2) 2007 r. 8 (see Gazette 26 June 2007 p. 2979-96).
+Repealed by the Medical Practitioners Act 2008, which was repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
+Section 67(3b) deleted by the Security and Related Activities (Control) Amendment Act 2008 s. 46(4).
 The commencement date of 9 Apr 2006 that was specified in r. 2 was before the date of gazettal.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+Act3
 address for service in the proceedings3
 agent59(1)
 approved application7A(1)
@@ -31,7 +36,7 @@ Department61(2)
 direction3
 document3
 guardian ad litem3
-interim application14
+interim application14(a)
 involuntary patient56(1)
 legally qualified person59(1)
 material12(1)
@@ -47,6 +52,5 @@ public sector body3
 recipient44(1)
 referring person3
 representative35(2)
+RV Act59(1)
 supervising psychiatrist56(1)
-the Act3
-the RV Act59(1)
