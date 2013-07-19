@@ -34,6 +34,16 @@ Bulk Handling Act Amendment Regulations (No. 2) 2003 | 17 Jun 2003 p. 2208 | 1 J
 Bulk Handling Act Amendment Regulations 2003 | 9 Sep 2003 p. 4037-47 | 9 Sep 2003
 Reprint 2: The Bulk Handling Act Regulations 1967 as at 14 Nov 2003 (includes amendments listed above)
 Bulk Handling Amendment Regulations 2013 | 5 Feb 2013 p. 827-8 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b)(i) and Gazette 5 Feb 2013 p. 823)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Bulk Handling Act Amendment Regulations (No. 2) 2013 r. 3-4 | 19 Jul 2013 p. 3264 | On commencement of the Commercial Arbitration Act 2012 s. 44 (see r. 2(b))
+On the date as at which this compilation was prepared, the Bulk Handling Act Amendment Regulations (No. 2) 2013 r. 3-4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Bulk Handling Act Regulations 1967.
+4.Regulation 32 amended
+In regulation 32 delete “Commercial Arbitration Act 1985.” and insert:
+Commercial Arbitration Act 2012.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
