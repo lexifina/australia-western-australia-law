@@ -17,7 +17,7 @@ TERM OF AGREEMENT
 (* delete as appropriate)
 Note: The start date for the agreement should not be a date prior to the date on which the tenant is entitled to enter into occupation of the premises.
 RESIDENTIAL PREMISES
-The residential premises are [insert address] and include/exclude* (* delete as appropriate): ...................................................................
+The residential premises are [insert address] and include/exclude* (* delete as appropriate): ..........................................................................................................
 [include any additional matters, such as a parking space or furniture provided, or any exclusions, such as sheds]
 MAXIMUM NUMBER OF OCCUPANTS
 No more than [insert number] persons may ordinarily live at the premises at any one time.
@@ -32,7 +32,7 @@ account number:
 account name:
 payment reference:
 or
-(c)as follows: ....................................................................................
+(c)as follows: ....................................................................................................
 Security bond
 A security bond of $[insert amount] and a pet bond of $[insert amount] must be paid by the tenant on signing this agreement.
 Note: Unless the rent for the premises exceeds $1 200 per week, the security bond must not exceed the sum of 4 weeks rent plus a pet bond not exceeding $260 (if a pet is permitted to be kept at the premises). The pet bond is to be used to meet costs of fumigation of the premises.
@@ -53,7 +53,7 @@ Indicate for the utilities below whether or not the premises are separately mete
 ·Electricity: Yes o/No o
 ·Gas: Yes o/No o
 ·Water: Yes o/No o
-·Other (please specify): ............................................................
+·Other (please specify): ...........................................................................
 Where the premises are separately metered to measure consumption of a specific utility, the tenant must pay for the connection and consumption costs as per the relevant account for the premises.
 Where the premises are not separately metered to measure the consumption of a specific utility, the tenant must pay the consumption costs for that utility which will be calculated as follows:
 ·Electricity: [insert method of calculation]
@@ -63,7 +63,7 @@ Where the premises are not separately metered to measure the consumption of a sp
 Strata by-laws
 Strata by-laws ARE/ARE NOT* (* delete as appropriate) applicable to the residential premises. A copy of the by-laws are attached: Yes o/No o
 Pets
-The pets listed below may be kept at the premises: ..............................
+The pets listed below may be kept at the premises: ..............................................
 Right of tenant to assign or sub-let
 *The tenant may assign the tenant’s interest under this agreement or sub-let the premises.
 *The tenant may not assign the tenant’s interest under this agreement or sub-let the premises.
@@ -244,7 +244,7 @@ Additional terms may be included in this agreement if:
 (c)they do not breach the provisions about unfair contract terms in the Fair Trading Act 2010; and
 (d)they do not conflict with the standard terms of this agreement.
 ADDITIONAL TERMS ARE NOT REQUIRED BY THE RESIDENTIAL TENANCIES ACT 1987. HOWEVER, ONCE THE PARTIES SIGN THIS AGREEMENT, THE ADDITIONAL TERMS ARE BINDING UPON THE PARTIES UNLESS THE TERM IS FOUND TO BE UNLAWFUL.
-ADDITIONAL TERMS: .....................................................................
+ADDITIONAL TERMS: .......................................................................................
 THE LESSOR AND TENANT ENTER INTO THIS AGREEMENT AND AGREE TO ALL ITS TERMS.
 SIGNED BY THE LESSOR/PROPERTY MANAGER
 ............................................................... [Signature of lessor/property manager]
@@ -274,7 +274,7 @@ Term of agreement
 (* delete as appropriate)
 Note: The start date for the agreement should not be a date prior to the date on which the tenant is entitled to enter into occupation of the premises.
 Residential premises
-The residential premises are [insert address] and include/exclude* (* delete as appropriate): ...................................................................
+The residential premises are [insert address] and include/exclude* (* delete as appropriate): ..........................................................................................................
 [include any additional matters, such as a parking space or furniture provided, or any exclusions, such as sheds]
 Maximum and minimum number of occupants
 No more than [insert number] persons and no fewer than [insert number] persons may ordinarily live in the premises at any one time.
@@ -289,7 +289,7 @@ account number:
 account name:
 payment reference:
 or
-(c)as follows: ...................................
+(c)as follows: .................................................
 Security bond
 *No security bond or pet bond is payable.
 *A security bond of $[insert amount] and a pet bond of $[insert amount] must be paid by the tenant on signing this agreement.
@@ -312,7 +312,7 @@ Indicate for the utilities below whether or not the premises are separately mete
 ·Electricity: Yes o/No o
 ·Gas: Yes o/No o
 ·Water: Yes o/No o
-·Other (please specify): ............................................................
+·Other (please specify): ...........................................................................
 Where the premises are separately metered to measure consumption of a specific utility, the tenant must pay for the connection and consumption costs as per the relevant account for the premises.
 Where the premises are not separately metered to measure the consumption of a specific utility, the tenant must pay the consumption costs for that utility which will be calculated as follows:
 ·Electricity: [insert method of calculation]
@@ -321,7 +321,7 @@ Where the premises are not separately metered to measure the consumption of a sp
 Strata by-laws
 Strata by-laws ARE/ARE NOT* (* delete as appropriate) applicable to the residential premises. A copy of the by-laws are attached. Yes o/No o
 Pets
-The pets listed below may be kept at the premises: ..............................
+The pets listed below may be kept at the premises: ..............................................
 Right of tenant to assign or sub-let
 *The tenant may assign the tenant’s interest under this agreement or sub-let the premises.
 *The tenant may not assign the tenant’s interest under this agreement or sub-let the premises.
@@ -516,7 +516,7 @@ Additional terms may be included in this agreement if:
 (c)they do not breach the provisions about unfair contract terms in the Fair Trading Act 2010; and
 (d)they do not conflict with the standard terms of this agreement.
 ADDITIONAL TERMS ARE NOT REQUIRED BY THE RESIDENTIAL TENANCIES ACT 1987. HOWEVER, ONCE THE PARTIES SIGN THIS AGREEMENT, THE ADDITIONAL TERMS ARE BINDING UPON THE PARTIES UNLESS THE TERM IS FOUND TO BE UNLAWFUL.
-ADDITIONAL TERMS: .....................................................................
+ADDITIONAL TERMS: .......................................................................................
 THE LESSOR AND TENANT ENTER INTO THIS AGREEMENT AND AGREE TO ALL ITS TERMS.
 SIGNED BY THE LESSOR/PROPERTY MANAGER
 ............................................................... [Signature of lessor/property manager]
@@ -796,13 +796,13 @@ IMPORTANT NOTES ABOUT THIS PROPERTY CONDITION REPORT
 4.A tenant is not responsible for fair wear and tear to the premises. Fair wear and tear is a general term for anything that occurs through ordinary use such as the carpet becoming worn in frequently used areas. Wilful and intentional damage, or damage caused by negligence, is not fair wear and tear.
 5.If you do not have enough space on the report, attach a separate sheet. All attachments should be signed and dated by all of the parties to the residential tenancy agreement.
 6. Information about the rights and responsibilities of lessors and tenants may be obtained by contacting the Department of Commerce on 1300 30 40 54 or visiting www.commerce.wa.gov.au/ConsumerProtection.
-ADDRESS OF RESIDENTIAL PREMISES: _____________________
+ADDRESS OF RESIDENTIAL PREMISES: ___________________________
  | Clean | Undamaged | Working | Tenant agrees | Comments
 ENTRY
 front door
 screen door/ security door
-walls/ picture hooks
-windows/ screens
+walls/picture hooks
+windows/screens
 ceiling
 light fittings
 blinds/curtains
@@ -810,17 +810,17 @@ power points
 floorcoverings
 LOUNGE ROOM
 doors/doorway frames
-walls/ picture hooks
-windows/ screens
+walls/picture hooks
+windows/screens
 ceiling
 light fittings
 blinds/curtains
-TV/ power points
+TV/power points
 floorcoverings
 DINING ROOM
 doors/doorway frames
-walls/ picture hooks
-windows/ screens
+walls/picture hooks
+windows/screens
 ceiling
 light fittings
 blinds/curtains
@@ -828,23 +828,23 @@ power points
 floorcoverings
 KITCHEN
 doors/doorway frames
-walls/ picture hooks
-windows/ screens
+walls/picture hooks
+windows/screens
 ceiling
 light fittings
 blinds/curtains
 power points
 floorcoverings
-cupboards/ drawers
-bench tops/ tiling
+cupboards/drawers
+bench tops/tiling
 sink/taps
-stove top/ hot plates
+stove top/hot plates
 oven/griller
 exhaust fan/ range hood
 EACH BEDROOM
 doors/doorway frames
-walls/ picture hooks
-windows/ screens
+walls/picture hooks
+windows/screens
 ceiling
 light fittings
 blinds/curtains
@@ -853,24 +853,24 @@ floorcoverings
 EACH BATHROOM
 doors/doorway frames
 walls/tiles
-windows/ screens
+windows/screens
 ceiling
 light fittings
 blinds/curtains
 power points
 floorcoverings
 bath/taps
-shower/screen/ taps
+shower/screen/taps
 wash basin/taps
-mirror/cabinet/ vanity
+mirror/cabinet/vanity
 towel rails
-toilet/cistern/ seat
+toilet/cistern/seat
 toilet roll holder
-heating/ exhaust fan/vent
+heating/exhaust fan/vent
 LAUNDRY
-doors/ doorway frames
+doors/doorway frames
 walls/tiles
-windows/ screens
+windows/screens
 ceiling
 light fittings
 blinds/curtains
@@ -889,17 +889,17 @@ lawn/edges
 letterbox/ street number
 water tanks/ septic tanks
 garbage bins
-paving/ driveways
+paving/driveways
 clothesline
 garage/carport/ storeroom
 garden shed
 hot water system
-gutters/ downpipes
+gutters/downpipes
 APPROXIMATE DATES WHEN WORK LAST DONE ON RESIDENTIAL PREMISES
-Painting of premises (external): ...........................................................
-Painting of premises (internal): ............................................................
-Floorcoverings laid: .............................................................................
-Floorcoverings professionally cleaned: ................................................
+Painting of premises (external): .............................................................................
+Painting of premises (internal): .............................................................................
+Floorcoverings laid: ...............................................................................................
+Floorcoverings professionally cleaned: .................................................................
 Note: Further items and comments may be recorded on a separate sheet, signed by the lessor/property manager and the tenant, and attached to this report.
 ............................................................ Lessor/property manager’s signature
 Date: .................................................
@@ -969,8 +969,8 @@ I hereby give you notice of termination of your residential tenancy agreement an
 ONLY ONE OF THE FOLLOWING GROUNDS IS TO BE SPECIFIED — DELETE THE OTHER 6
 1.This notice of NOT LESS THAN 7 DAYS is given to you on the ground that you have breached a term of the agreement and the breach has not been remedied (see the Residential Tenancies Act 1987 section 62).
 Particulars of the breach are:
-................................................................................................... ...................................................................................................
-Notice of the breach was given to you on ...................................
+................................................................................................................... ...................................................................................................................
+Notice of the breach was given to you on ................................................
 (Note:This notice has no effect unless you were given a notice specifying the breach and requiring that the breach be remedied not less than 14 days before you were given this notice.)
 2.This notice of NOT LESS THAN 30 DAYS is given to you on the ground that the lessor has entered into a contract for sale of the premises and under the contract he or she is required to give vacant possession of the premises (see the Residential Tenancies Act 1987 section 63).
 (Note:This notice cannot be given during the term of a fixed term residential tenancy agreement.)
@@ -982,7 +982,7 @@ Notice of the breach was given to you on ...................................
 *have ceased to be lawfully useable as a residence
 *have been appropriated or acquired by an authority by compulsory process
 (* delete as appropriate)
-The lessor believes that this ground applies because .................. ................................................................................................... ...................................................................................................
+The lessor believes that this ground applies because ....................... ........................................................................................................... ...........................................................................................................
 (Note:This notice can be given during the term of a periodic or a fixed term residential tenancy agreement.)
 5.This notice of NOT LESS THAN 30 DAYS is given to you in exercise of the lessor’s right to end the residential tenancy agreement on its expiry date (see the Residential Tenancies Act 1987 section 70A).
 (Note:This notice cannot be given during the term of a periodic residential tenancy agreement.)
@@ -990,9 +990,9 @@ The lessor believes that this ground applies because .................. ........
 (Note:This notice can be given during the term of a periodic or a fixed term residential tenancy agreement.)
 7.This notice of NOT LESS THAN 30 DAYS is given to you on the ground that the lessor has offered to enter into a new social housing tenancy agreement with you in respect of alternative premises (see the Residential Tenancies Act 1987 section 71H).
 (Note:This notice can be given during the term of a periodic or a fixed term residential tenancy agreement.)
-DATE: ...................................... SIGNED: ........................................ (Lessor/property manager)
-ADDRESS: .........................................................................................
-................................................................ POST CODE: ....................
+DATE: .......................................... SIGNED: ...................................................... (Lessor/property manager)
+ADDRESS: ............................................................................................................
+................................................................................... POST CODE: ....................
 SEE OVER FOR IMPORTANT INFORMATION
 FORM 1C — REVERSE
 IMPORTANT INFORMATION FOR TENANTS
@@ -1035,7 +1035,7 @@ FORM 3
 RESIDENTIAL TENANCIES ACT 1987
 Section 79(3)(b)
 NOTICE AS TO DISPOSAL OF GOODS
-1.A residential tenancy agreement in respect of the premises at .................... ...................................................................................................................... between ........................................................................................................ as lessor and ....................................................................... as tenant was terminated on .........................................................................
+1.A residential tenancy agreement in respect of the premises at .................... ...................................................................................................................... between ........................................................................................................ as lessor and ................................................................................................. as tenant was terminated on .........................................................................
 2.The following goods were left on the premises — ..................................... ...................................................................................................................... which have been put into storage under section 79(2) of the Act on ..........
 3.Under section 79(7) of the Act, a person who has a lawful right to the goods may reclaim them upon paying to the lessor the reasonable costs incurred for removal and storage.
 4.If the goods have not been reclaimed within 60 days after the date shown in paragraph 2 above the lessor —
@@ -1049,7 +1049,7 @@ NOTICE AS TO DISPOSAL OF GOODS
 (address of lessor)
 [Form 3 amended in Gazette 29 Apr 2005 p. 1775; 3 May 2013 p. 1829-30.]
 [Form 4 deleted in Gazette 3 May 2013 p. 1830.]
-## FORM 5
+FORM 5
 MAGISTRATES COURT ………. REGISTRY Ph: Fax: | Residential Tenancies Act 1987 Schedule 1 clause 8(3) and (4) NOTICE OF INTENTION TO DISPUTE APPLICATION FOR DISPOSAL OF BOND MONEY | Case number: Date lodged:
 APPLICANT (S) Tick [ü] a box ¨ Lessor ¨ Tenant | Name(s):
 Address: | Postcode: Daytime telephone:
@@ -1059,13 +1059,13 @@ TAKE NOTICE that I intend to dispute this application for the following reasons:
 Signature of respondent(s) |  | Date | / /
 Respondent’s address for service of notices is:
 [Form 5 inserted in Gazette 29 Apr 2005 p. 1775-6; amended in Gazette 3 May 2013 p. 1830.]
-## FORM 6
+FORM 6
 Residential Tenancies Act 1987 section 88A(3) Infringement notice | Infringement notice no.
 Alleged offender | Name:Family name
 Given names
 orCompany name ____________________________________ ACN
 Address ________________________________________________ Postcode
-Alleged offence | Description of offence __________________________________
+Alleged offence | Description of offence ____________________________________
 Residential Tenancies Act 1987 s. Residential Tenancies Regulations 1989 r.
 Date //20Time a.m./p.m.
 Modified penalty $
@@ -1075,9 +1075,9 @@ Office
 Date | Date of notice //20
 Notice to alleged offender | It is alleged that you have committed the above offence. If you do not wish to have the complaint of the alleged offence heard and determined by a court, pay the modified penalty within 28 days after the date of this notice. How to pay By post: Send a cheque or money order (payable to ‘Authorised Person — Residential Tenancies Act 1987’) to: Authorised Person — Residential Tenancies Act 1987 Department of Commerce Locked Bag 14 Cloisters Square Perth WA 6850 In person: Pay the cashier at: Department of Commerce 219 St George’s Terrace, Perth WA If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act your driver’s licence and/or vehicle licence may be suspended.
  | If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Authorised Person at the above postal address.
- | If you want this matter to be dealt with by prosecution in court, sign here _______________________________________ and post this notice to the Authorised Person at the above postal address within 28 days after the date of this notice.
+ | If you want this matter to be dealt with by prosecution in court, sign here _________________________________________________ and post this notice to the Authorised Person at the above postal address within 28 days after the date of this notice.
 [Form 6 inserted in Gazette 22 Sep 2006 p. 4128; amended in Gazette 24 May 2011 p. 1895; 3 May 2013 p. 1830-1.]
-## FORM 7
+FORM 7
 Residential Tenancies Act 1987 section 88A(7) Withdrawal of infringement notice | Withdrawal no.
 Alleged offender | Name:Family name
 Given names
