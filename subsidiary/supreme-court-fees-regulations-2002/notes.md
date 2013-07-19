@@ -21,7 +21,20 @@ Supreme Court (Fees) Amendment Regulations 2011 | 8 Mar 2011 p. 781-4 | r. 1 and
 Supreme Court (Fees) Amendment Regulations (No. 2) 2011 | 20 Dec 2011 p. 5376-9 | r. 1 and 2: 20 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2011 (see r. 2(b))
 Supreme Court (Fees) Amendment Regulations 2012 | 27 Mar 2012 p. 1508 | r. 1 and 2: 27 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Mar 2012 (see r. 2(b))
 Supreme Court (Fees) Amendment Regulations (No. 3) 2012 | 30 Nov 2012 p. 5784-8 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
-Defined Terms
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Supreme Court (Fees) Amendment Regulations 2013 r. 3-4 | 19 Jul 2013 p. 3268-9 | On commencement of the Commercial Arbitration Act 2012 s. 44 (see r. 2(b))
+On the date as at which this compilation was prepared, the Supreme Court (Fees) Amendment Regulations 2013 r. 3-4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Supreme Court (Fees) Regulations 2002.
+4.Schedule 1 amended
+In Schedule 1 Division 1 item 9:
+(a) delete “2008 or the Commercial Arbitration Act 1985 —” and insert:
+2008, the Commercial Arbitration Act 1985 or the Commercial Arbitration Act 2012 —
+(b) in Note 3 delete “2008 or the Commercial Arbitration Act 1985” and insert:
+2008, the Commercial Arbitration Act 1985 or the Commercial Arbitration Act 2012
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 corporation3
