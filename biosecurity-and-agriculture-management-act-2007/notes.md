@@ -1,17 +1,20 @@
 Notes
-This is a compilation of the Biosecurity and Agriculture Management Act 2007 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 26 July 2013 of the Biosecurity and Agriculture Management Act 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management Act 2007 | 23 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; Pt. 1 (other than s. 1 and 2), Pt. 2 Div. 6, Pt. 7 Div. 1 and s. 181 and 187: 24 Oct 2007 (see s. 2 and Gazette 23 Oct 2007 p. 5643); s. 22, Pt. 4 and 5, Pt. 6 Div. 1 SubDiv 1, Div. 2 and 3, Pt. 7 Div. 2, 3 and 6, s. 182, Pt. 8 (other than s. 193) and Sch. 1: 22 May 2010 (see s. 2 and Gazette 21 May 2010 p. 2177); Pt. 6 Div. 1 Subdiv. 3 and Pt. 7 Div. 5: 12 Feb 2011 (see s. 2 and Gazette 11 Feb 2011 p. 479); Pt. 6 Div. 1 Subdiv. 2: 23 Nov 2011 (see s. 2 and Gazette 22 Nov 2011 p. 4843); s. 27-32, 36-39, 43 and Pt. 2 Div. 5: 10 Oct 2012 (see s. 2 and Gazette 9 Oct 2012 p. 4747 Pt. 2 Div. 1 and 2, s. 23-26, 33-35, 40-42 and 44, Pt. 3, Pt. 7 Div. 4. s. 183-186, s. 193 and Pt. 9: 1 May 2013 (see s. 2 and Gazette 5 Feb 2013 p.823)
-Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 5 | 35 of 2010 | 1 Oct 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
+Biosecurity and Agriculture Management Act 2007 | 23 of 2007 | 12 Oct 2007 | s. 1 and 2: 12 Oct 2007; Pt. 1 (other than s. 1 and 2), Pt. 2 Div. 6, Pt. 7 Div. 1 and s. 181 and 187: 24 Oct 2007 (see s. 2 and Gazette 23 Oct 2007 p. 5643); s. 22, Pt. 4 and 5, Pt. 6 Div. 1 Subdiv. 1, Div. 2 and 3, Pt. 7 Div. 2, 3 and 6, s. 182, Pt. 8 (other than s. 193) and Sch. 1: 22 May 2010 (see s. 2 and Gazette 21 May 2010 p. 2177); Pt. 6 Div. 1 Subdiv. 3 and Pt. 7 Div. 5: 12 Feb 2011 (see s. 2 and Gazette 11 Feb 2011 p. 479); Pt. 6 Div. 1 Subdiv. 2: 23 Nov 2011 (see s. 2 and Gazette 22 Nov 2011 p. 4843); s. 27-32, 36-39, 43 and Pt. 2 Div. 5: 10 Oct 2012 (see s. 2 and Gazette 9 Oct 2012 p. 4747); Pt. 2 Div. 1 and 2, s. 23-26, 33-35, 40-42 and 44, Pt. 3, Pt. 7 Div. 4, s. 183-186 and 193 and Pt. 9: 1 May 2013 (see s. 2 and Gazette 5 Feb 2013 p. 823)
+Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 5 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Agriculture and Related Resources Protection Amendment Act 2010 s. 68 | 46 of 2010 | 28 Oct 2010 | 18 Dec 2010 (see s. 2(b) and Gazette 17 Dec 2010 p. 6349)
-Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 25 Oct 2011 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Reprint 1: The Biosecurity and Agriculture Management Act 2007 as at 26 Jul 2013 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 2 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 2 had not come into operation. It reads as follows:
+Repealed by the Mining Act 1978.
+Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 2 had not come into operation. It reads as follows:
 Division 2 — Biosecurity and Agriculture Management Act 2007 amended
 41.Act amended
 This Division amends the Biosecurity and Agriculture Management Act 2007.
@@ -26,7 +29,7 @@ Defined termProvision(s)
 acquire152(1)
 additive9(2)
 adulterate59(1)
-agent111(1), 111(3)
+agent111(1) and (3)
 agricultural activity6
 agricultural product6
 Agvet Code of Western Australia6
@@ -73,7 +76,7 @@ disease6
 dispose of152(1)
 dwelling63
 electronic site6
-employer112(1), 112(3)
+employer112(1) and (3)
 entry warrant63
 environment6
 export6
@@ -132,7 +135,7 @@ prescribed6
 prescribed account140
 prescribed control measures30(1)
 prescribed offence125
-principal111(1), 111(3)
+principal111(1) and (3)
 private land8(2)
 processed animal feed9(2)
 prohibited organism6
