@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 January 2012 of the Health (Public Buildings) Regulations 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Health (Public Buildings) Regulations 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Health (Public Buildings) Regulations 1992 | 1 Apr 1992 p. 1429-56 | 1 Apr 1992 (see r. 2)
@@ -19,10 +19,11 @@ Health (Public Building) Amendment Regulations 2009 | 15 May 2009 p. 1630 | r. 1
 Health (Public Buildings) Amendment Regulations 2010 | 13 Aug 2010 p. 3978-9 | r. 1 and 2: 13 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Aug 2010 (see r. 2(b))
 Health (Public Buildings) Amendment Regulations 2011 | 29 Apr 2011 p. 1529-30 | r. 1 and 2: 29 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Reprint 3: The Health (Public Buildings) Regulations 1992 as at 6 Jan 2012 (includes amendments listed above)
+Health (Public Buildings) Amendment Regulations 2013 | 30 Jul 2013 p. 3486 | r. 1 and 2: 30 Jul 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Jul 2013 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 AS/NZS 22933(1)
 AS/NZS 43603(1)
 Building Regulations3(1)
