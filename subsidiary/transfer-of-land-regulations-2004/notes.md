@@ -20,6 +20,7 @@ Transfer of Land Amendment Regulations 2011 | 14 Jun 2011 p. 2133-6 | r. 1 and 2
 Reprint 3: The Transfer of Land Regulations 2004 as at 2 Mar 2012 (includes amendments listed above)
 Transfer of Land Amendment Regulations 2012 | 13 Apr 2012 p. 1658-9 | r. 1 and 2: 13 Apr 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Apr 2012 (see r. 2(b)(ii))
 Transfer of Land Amendment Regulations (No. 2) 2012 | 22 Jun 2012 p. 2782-3 | r. 1 and 2: 22 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+Transfer of Land Amendment Regulations 2013 | 26 Jul 2013 p. 3348-9 | r. 1 and 2: 26 Jul 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2013 (see r. 2(b))
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

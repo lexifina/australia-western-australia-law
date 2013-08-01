@@ -31,13 +31,13 @@ Note:The fees specified in items 1 to 4 include the creation and registration of
 [Heading inserted in Gazette 9 Jan 2009 p. 31.]
 1. | Of a caveat, a power of attorney or a declaration of trust | $160.00
 2. | Of a deposited plan of Crown land that is not a subdivision —
- | (a)general fee | $242.00
- | (b)for each lot | $66.00
- | (c)for each sheet in addition to the first sheet | $242.00
+ | (a)general fee | $260.00
+ | (b)for each lot | $70.00
+ | (c)for each sheet in addition to the first sheet | $260.00
 3. | Of any other deposited plan —
- | (a)general fee | $242.00
- | (b)for each lot (including any lot shown on an inset on the plan) other than a lot vesting in the Crown under the Planning and Development Act 2005 section 152 | $66.00
-4. | Of a replacement plan | $242.00
+ | (a)general fee | $260.00
+ | (b)for each lot (including any lot shown on an inset on the plan) other than a lot vesting in the Crown under the Planning and Development Act 2005 section 152 | $70.00
+4. | Of a replacement plan | $260.00
 5. | Of a duplicate certificate of title or lease for the registration or recording of a dealing lodged by a third party —
  | (a)for the first certificate of title or lease | $80.00
  | (b)for each subsequent certificate of title or lease | $6.00
@@ -46,7 +46,7 @@ Note:The fees specified in items 1 to 4 include the creation and registration of
 8. | Of an instrument for a restrictive covenant created under section 129BA of the Act — section 129BA(2)(b) of the Act | $160.00
 9. | Of an instrument for an easement created under Part IVA of the Act — section 136C(4) of the Act | $160.00
 10. | Of an instrument for a restrictive covenant created under Part IVA of the Act — section 136D(3) of the Act | $160.00
-[Division 2 inserted in Gazette 9 Jan 2009 p. 31; amended in Gazette 19 Jun 2009 p. 2237-8 and 2239; 18 Jun 2010 p. 2680; 14 Jun 2011 p. 2134; 22 Jun 2012 p. 2783.]
+[Division 2 inserted in Gazette 9 Jan 2009 p. 31; amended in Gazette 19 Jun 2009 p. 2237-8 and 2239; 18 Jun 2010 p. 2680; 14 Jun 2011 p. 2134; 22 Jun 2012 p. 2783; 26 Jul 2013 p. 3348.]
 ## Division 3 — Withdrawals
 [Heading inserted in Gazette 9 Jan 2009 p. 31.]
 1. | Of a caveat, order of the Supreme Court, the District Court or the Magistrates Court, a memorial under the Taxation Administration Act 2003 Part 6 Division 2 or a memorial under the Land Tax Assessment Act 1976 section 46 that was registered before that Act was repealed, or any other Act or Commonwealth Act (unless exempted from payment under that Act) | $160.00
@@ -115,13 +115,13 @@ Note:The fees specified in item 18 include the taking a hard copy of screen prin
 4. | Supply of statement of grounds | $140.00
 5. | Order for stay of registration under section 148 of the Act | $140.00
 6. | For requisitions raised on —
- | (a)a deposited plan or other survey document | $103.00
+ | (a)a deposited plan or other survey document | $105.00
  | (b)any other document —
  | (i)if the requisition is complied with and this fee is paid before 5.00 p.m. on the business day following the day on which the requisition is issued | $52.00
  | (ii)otherwise | $80.00
 7. | For amendments made to a deposited plan or other survey document on which requisitions have been raised | fee as assessed by the Registrar, not exceeding actual cost
 8. | For serving a caveator with notice under section 138 or 141A of the Act — each caveat | $140.00
-9. | Cancellation of a deposited plan | $196.00
+9. | Cancellation of a deposited plan | $200.00
 10. | Search of an historic tenure | fee as assessed by the Registrar, not exceeding actual cost
 11. | Providing a replica of a certificate of title, plan or document registered in the State | actual cost
 [12.deleted]
@@ -129,4 +129,4 @@ Note:The fees specified in item 18 include the taking a hard copy of screen prin
  |  | document (rounded down to the nearest multiple of $1)
 14. | For registrations and recordings under Division 1, lodgments under Division 2 and applications under Division 4 — involving more than 20 certificates or leases — each certificate or lease in excess of 20 | $6.00
 15. | For the priority processing of a transfer, mortgage, discharge of mortgage, withdrawal of caveat, or survivorship application, or not more than 4 of such documents if lodged together, or of an enduring power of attorney, subject to regulation 5A | $39.00
-[Division 7 inserted in Gazette 9 Jan 2009 p. 34-6; amended in Gazette 19 Jun 2009 p. 2238 and 2240-1; 18 Jun 2010 p. 2682; 14 Jun 2011 p. 2136; 22 Jun 2012 p. 2782-3.]
+[Division 7 inserted in Gazette 9 Jan 2009 p. 34-6; amended in Gazette 19 Jun 2009 p. 2238 and 2240-1; 18 Jun 2010 p. 2682; 14 Jun 2011 p. 2136; 22 Jun 2012 p. 2782-3; 26 Jul 2013 p. 3348.]
