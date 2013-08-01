@@ -4,12 +4,12 @@
 1.The fees payable to the Registrar of Titles are — $
 (a)on lodgment of any plan (other than a plan to which paragraph (b) applies) — general fee, including —
 (i)plan of conversion; and
-(ii)sketch plan for merger of strata schemes | 242.00
-plus, for each lot shown on the plan, other than a lot that is proposed to be vested in the Crown under the Planning and Development Act 2005 section 152 | 66.00
+(ii)sketch plan for merger of strata schemes | 260.00
+plus, for each lot shown on the plan, other than a lot that is proposed to be vested in the Crown under the Planning and Development Act 2005 section 152 | 70.00
 (b)on lodgment of a plan —
 (i)under section 18(2); or
-(ii)under regulation 38A(1) | 242.00
-(c)on the issuing, by the Registrar of Titles, of a requisition in respect of a lodged plan | 103.00
+(ii)under regulation 38A(1) | 260.00
+(c)on the issuing, by the Registrar of Titles, of a requisition in respect of a lodged plan | 105.00
 (d)on lodgment of any application for the registration of a plan | 160.00
 plus, for each lot shown on the plan, other than a lot that is proposed to be vested in the Crown under the Planning and Development Act 2005 section 152 or, in the case of a survey-strata plan, a proposed common property lot | 6.00
 (e)on lodgment of any other application | 160.00
@@ -35,4 +35,4 @@ plus, for each lot shown on the plan, other than a lot that is proposed to be ve
 5.A fee payable under item 4 to the strata company is increased by 10%, if the company is required to remit GST for the provision of the service for which the fee is payable.
 6.In item 5 —
 GST has the meaning given in section 195-1 of the A New Tax System (Goods and Services Tax) Act 1999 of the Commonwealth.
-[Schedule 1 inserted in Gazette 2 Sep 2004 p. 3825-7; amended in Gazette 24 Jun 2005 p. 2759-60; 24 Jan 2006 p. 436; 7 Jul 2006 p. 2513; 1 Sep 2006 p. 3596; 25 Jun 2007 p. 2962-3 and 2965; 20 Jun 2008 p. 2709-10; 9 Jan 2009 p. 27-8; 19 Jun 2009 p. 2243-4; 18 Jun 2010 p. 2678-9; 14 Jun 2011 p. 2138; 22 Jun 2012 p. 2785.]
+[Schedule 1 inserted in Gazette 2 Sep 2004 p. 3825-7; amended in Gazette 24 Jun 2005 p. 2759-60; 24 Jan 2006 p. 436; 7 Jul 2006 p. 2513; 1 Sep 2006 p. 3596; 25 Jun 2007 p. 2962-3 and 2965; 20 Jun 2008 p. 2709-10; 9 Jan 2009 p. 27-8; 19 Jun 2009 p. 2243-4; 18 Jun 2010 p. 2678-9; 14 Jun 2011 p. 2138; 22 Jun 2012 p. 2785; 26 Jul 2013 p. 3350.]

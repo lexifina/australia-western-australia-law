@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 December 2012 of the Strata Titles General Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Strata Titles General Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Strata Titles General Regulations 1996 | 14 Mar 1996 p. 917-78 | 14 Apr 1996 (see r. 2 and Gazette 15 Mar 1996 p. 981)
@@ -44,6 +44,7 @@ Strata Titles General Amendment Regulations (No. 2) 2011 | 2 Sep 2011 p. 3616-17
 Strata Titles General Amendment Regulations 2012 | 13 Apr 2012 p. 1657-8 | r. 1 and 2: 13 Apr 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Apr 2012 (see r. 2(b)(ii))
 Strata Titles General Amendment Regulations (No. 2) 2012 | 22 Jun 2012 p. 2784-5 | r. 1 and 2: 22 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Reprint 7: The Strata Titles General Regulations 1996 as at 7 Dec 2012 (includes amendments listed above)
+Strata Titles General Amendment Regulations 2013 | 26 Jul 2013 p. 3349-50 | r. 1 and 2: 26 Jul 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2013(see r. 2(b))
 Repealed by the Strata Titles Act 1985.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
