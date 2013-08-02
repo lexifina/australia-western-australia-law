@@ -17,5 +17,4 @@
 11.Sir Charles Gairdner Hospital established under the Hospitals and Health Services Act 1927.
 12.The University of Western Australia established under the University of Western Australia Act 1911.
 13.Water Corporation established by the Water Corporation Act 1995.
-[14.deleted]
 [Schedule 1 amended in Gazette 31 Mar 2006 p. 1343.]
