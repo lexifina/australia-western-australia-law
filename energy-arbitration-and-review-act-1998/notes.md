@@ -25,10 +25,7 @@ Gas Supply (Gas Quality Specifications) Act 2009 Pt. 7 Div. 2 | 35 of 2009 | 3 D
 Reprint 3: The Energy Arbitration and Review Act 1998 as at 19 Mar 2010 (includes amendments listed above except those in the Gas Supply (Gas Quality Specifications) Act 2009)
 Public Sector Reform Act 2010 s. 77 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Gas Services Information Act 2012 Pt. 3 | 5 of 2012 | 10 Apr 2012 | 30 Jun 2012 (see s. 2(b) and Gazette 29 Jun 2012 p. 2929)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Commercial Arbitration Act 2012 s. 45 it. 7 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
+Commercial Arbitration Act 2012 s. 45 it. 7 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Repealed by the Gas Corporation (Business Disposal) Act 1999.
 The amendment in the Federal Courts (State Jurisdiction) Act 1999 s. 10(3) is not included because s. 20 which it sought to amend had been deleted before the amendment purported to come into operation.
 Now known as the Energy Arbitration and Review Act 1998; short title changed (see note under s. 1).
@@ -85,19 +82,9 @@ The operation of any provision of this Schedule is not to be regarded —
 (c) as giving rise to any remedy by a party to an instrument or as causing or permitting the termination of any instrument, because of a change in the beneficial or legal ownership of any asset, right or liability;
 (d) as causing any contract or instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
-On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 it. 7 had not come into operation. It reads as follows:
-45.Acts amended
-(1) This section amends the Acts listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-7.Energy Arbitration and Review Act 1998
-s. 77 | Commercial Arbitration Act 1985 | Commercial Arbitration Act 2012
-Note:The heading to amended section 77 of the Energy Arbitration and Review Act 1998 is to read:
-Commercial Arbitration Act 2012 does not apply
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 arbitrator61
 Board49
 Commissioner63(11)

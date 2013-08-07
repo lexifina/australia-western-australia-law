@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 November 2012 of the Rights in Water and Irrigation Act 1914 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the Rights in Water and Irrigation Act 1914 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Rights in Water and Irrigation Act 1914 | 19 of 1914 (5 Geo. V No. 19) | 22 Sep 1914 | 22 Sep 1914
@@ -56,31 +56,24 @@ Statutes (Repeals and Minor Amendments) Act 2009 s. 14 | 46 of 2009 | 3 Dec 2009
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
-Reprint 9: The Rights in Water and Irrigation Act 1914 as at 9 Nov 2012 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Commercial Arbitration Act 2012 s. 45 it. 18 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(1) and Gazette 6 Aug 2013 p. 3677)
+Reprint 9: The Rights in Water and Irrigation Act 1914 as at 9 Nov 2012 (includes amendments listed above except those in the Commercial Arbitration Act 2012)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Commercial Arbitration Act 2012 s. 45 it. 18 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 Water Services Legislation Amendment and Repeal Act 2012 Pt. 5 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The short title of the Water Authority Act 1984 was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7.
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 2 commenced 1 January 1996.
 Repealed by the Water Resources Legislation Amendment Act 2007.
-Marginal notes in the Rights in Water and Irrigation Act 1914 referring to earlier Western Australian legislation and to legislation of other jurisdictions have been omitted from this reprint.
+Marginal notes in the Rights in Water and Irrigation Act 1914 referring to earlier Western Australian legislation and to legislation of other jurisdictions have been omitted from this compilation.
 The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973 s. 4.
 The Rights in Water and Irrigation Amendment Act 2000 Pt. 8 contains transitional provisions.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 38 and 61 contain transitional provisions some of which may be relevant to this Act.
-On the date as at which this reprint was prepared, the Commercial Arbitration Act 2012 s. 45 it. 18 had not come into operation. It reads as follows:
-45.Acts amended
-(1) This section amends the Acts listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-18.Rights in Water and Irrigation Act 1914
-s. 37, Sch. 1 cl. 17(3)(b)(ii) and 39(8) | Commercial Arbitration Act 1985 | Commercial Arbitration Act 2012
-On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 Pt. 5 had not come into operation. It reads as follows:
+Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 Pt. 5 had not come into operation. It reads as follows:
 Part 5 — Rights in Water and Irrigation Act 1914 amended
 56.Act amended
 This Part amends the Rights in Water and Irrigation Act 1914.

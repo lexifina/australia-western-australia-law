@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government (Miscellaneous Provisions) Act 1960 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the Local Government (Miscellaneous Provisions) Act 1960 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Local Government Act 1960 | 84 of 1960 (9 Eliz. II No. 84) | 20 Dec 1960 | 1 Jul 1961 (see s. 2 and Gazette 10 Feb 1961 p. 385)
@@ -114,17 +114,17 @@ Transfer of Land Amendment Act 1996 s. 153(1) and (2) | 81 of 1996 | 14 Nov 1996
 Acts Amendment (Land Administration) Act 1997 Pt. 40 and s. 142 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
 Statutes (Repeals and Minor Amendments) Act 1997 s. 83 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
 Local Government Amendment Act 1998 s. 29 | 1 of 1998 | 26 Mar 1998 | 26 Mar 1998 (see s. 2(1))
-Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 46(1), (5) and (6) 0 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
+Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 46(1), (5) and (6) | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
 Reprint of the Local Government (Miscellaneous Provisions) Act 1960 as at 28 Jul 1999 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2000 s. 23 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
 Home Building Contracts Amendment Act 2002 s. 21 | 37 of 2002 | 20 Nov 2002 | 20 Nov 2002 (see s. 2)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 77 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 1 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(9)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 752, 33 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 4 | 84 of 2004 (as amended by No. 2 of 2008 s. 78(2)(d)) | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(9)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 75 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 (as amended by No. 2 of 2008 s. 78(2)(d)) | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 7: The Local Government (Miscellaneous Provisions) Act 1960 as at 16 Sep 2005 (includes amendments listed above)
 Limitation Legislation Amendment and Repeal Act 2005 s. 23 | 20 of 2005 | 15 Nov 2005 | 15 Nov 2005 (see s. 2(1))
-Planning and Development (Consequential and Transitional Provisions) Act 2005 Pt. 2 Div. 35 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+Planning and Development (Consequential and Transitional Provisions) Act 2005 Pt. 2 Div. 3 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Liquor and Gaming Legislation Amendment Act 2006 s. 114 | 73 of 2006 | 13 Dec 2006 | 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Local Government (Miscellaneous Provisions) Amendment Act 2007 | 11 of 2007 | 29 Jun 2007 | s. 1 and 2: 29 Jun 2007; s. 3 and 4: 25 Aug 2007 (see s. 2 and Gazette 24 Aug 2007 p. 4317); s. 5-14: 1 Jul 2008 (see s. 2 and Gazette 6 Jun 2008 p. 2179)
@@ -136,10 +136,7 @@ Building Services (Registration) Act 2011 s. 156 | 19 of 2011 | 22 Jun 2011 | s.
 Building Act 2011 s. 151-156 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 9: The Local Government (Miscellaneous Provisions) Act 1960 as at 8 Jun 2012 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Commercial Arbitration Act 2012 s. 45 it. 13 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
+Commercial Arbitration Act 2012 s. 45 it. 13 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Repealed by the Stock (Brands and Movement) Act 1970, which is now known as the Stock (Identification and Movement) Act 1970.
 Repealed by the Auction Sales Act 1973 s. 3(1).
 Marginal notes in the Local Government (Miscellaneous Provisions) Act 1960 referring to legislation of this State and of other jurisdictions have been omitted from this compilation.
@@ -168,13 +165,13 @@ The Local Government Act 1995 Sch. 9.2 cl. 4 is a savings provision of no furthe
 The amendments in the Sentencing (Consequential Provisions) Act 1995 s. 68 (items relating to s. 523(1) and 672) did not have effect because those provisions were repealed by the Local Government Act 1995 s. 9.70.
 The Local Government (Consequential Amendments) Act 1996 s. 7 and 8 are transitional provisions that are of no further effect.
 The Acts Amendment (Land Administration) Act 1997 s. 66(2), (3) and (4) and 67(2), (3) and (4) are transitional provisions that are of no further effect.
-0Balance of section 46 of the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 is inoperative because of previous amendments effected as follows:
+Balance of section 46 of the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 is inoperative because of previous amendments effected as follows:
 section 46(2) and (4) were repealed by the Local Government Act 1995 s. 70;
 section 46(3) and (9) were amended by the Local Government (Consequential Amendments) Act 1996 Sch. 1 (as amended by the Statutes (Repeals and Minor Amendments) Act 1997);
 section 46(7) and (8) were amended by the Statutes (Repeals and Minor Amendments) Act 1997 s. 83(3) and (4).
-1The portion of the Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 94 that would have amended s. 430(2)(a) was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(9).
-2The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues, some of which may be relevant for this Act.
-3The State Administrative Tribunal Regulations 2004 r. 34 and 55 read as follows:
+The portion of the Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 94 that would have amended s. 430(2)(a) was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(9).
+The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues, some of which may be relevant for this Act.
+The State Administrative Tribunal Regulations 2004 r. 34 and 55 read as follows:
 34.Local Government (Miscellaneous Provisions) Act 1960
 (1) In this regulation —
 commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 75 comes into operation.
@@ -185,22 +182,13 @@ commencement day means the day on which the State Administrative Tribunal (Confe
 (1) In this regulation —
 commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 section 683 comes into operation;
 (2) If a local law made under the Local Government (Miscellaneous Provisions) Act 1960 section 433 and the Local Government Act 1995 is expressed as conferring on a person a right to appeal under the Local Government (Miscellaneous Provisions) Act 1960 Part XV Division 19 against a decision, that local law is to be taken to give a right on or after the commencement day to apply to the State Administrative Tribunal for a review of that decision.
-4The portion of the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 that would have amended this Act was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 78(2)(d).
-5The Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 14(3) and (4) read as follows:
+The portion of the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 that would have amended this Act was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 78(2)(d).
+The Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 14(3) and (4) read as follows:
 (3) Despite the repeal of section 295 of the Local Government (Miscellaneous Provisions) Act 1960, section 295(4) and (4a) of that Act continue to apply in relation to the disposal of land where the subdivision of the land was approved before the coming into operation of this section.
 (4) Until minimum standards of construction and drainage are fixed under section 169 of the Planning and Development Act 2005, the minimum standards fixed under section 295(3a) of the Local Government (Miscellaneous Provisions) Act 1960 apply for the purposes of the Planning and Development Act 2005 as if they had been fixed under that Act.
-6Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 it. 13 had not come into operation. It reads as follows:
-45.Acts amended
-(1) This section amends the Acts listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-13.Local Government (Miscellaneous Provisions) Act 1960
-s. 684(a) | Commercial Arbitration Act 1985 | Commercial Arbitration Act 2012
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 building364(10)
 building operation364(3A)
 unclaimed money457(1)

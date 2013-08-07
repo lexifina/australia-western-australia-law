@@ -31,11 +31,11 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Heritage and Planning Legislation Amendment Act 2011 Pt. 2 | 4 of 2011 | 2 Mar 2011 | 3 Mar 2011 (see s. 2(b))
 Reprint 4: The Heritage of Western Australia Act 1990 as at 17 Jun 2011 (includes amendments listed above)
 Building Act 2011 s. 162 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
+Commercial Arbitration Act 2012 s. 45 it. 10 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Commercial Arbitration Act 2012 s. 45 it. 10 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26. See also note 5.
 The Taxation Administration (Consequential Provisions) Act 2002 contains transitional provisions that may be relevant to this Act.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28, 42 and 53 deal with certain transitional issues some of which may be relevant for this Act.
@@ -60,29 +60,21 @@ Act | Provision
 .......................... | ........
 Heritage of Western Australia Act 1990 | s. 27(4)
 ...................... | ........
-On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 it. 10 had not come into operation. It reads as follows:
-45.Acts amended
-(1) This section amends the Acts listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-10.Heritage of Western Australia Act 1990
-s. 75(4)(b)(ii), 76(3) | Commercial Arbitration Act 1985 | Commercial Arbitration Act 2012
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Account3(1)
 Agreement3(1)
 applicant30(1)
 building3(1)
 Chairperson3(1)
-Consent Order59(2)(a)
+Consent Order59(2)
 conservation3(1)
 Conservation Order3(1)
 Council3(1), 29(16)
 cultural heritage significance3(1)
 decision-making authority3(1)
-delegate6(7), 22(2) and (3)
+delegate6(7), 22(2), 22(3)
 develop3(1)
 development3(1)
 entry3(1)
@@ -97,13 +89,13 @@ place3(1)
 possession3(1)
 presentation3(1)
 proposal3(1)
-public advertisement3(2)(b)
+public advertisement3(2)
 public authority3(1)
 Register3(1)
 registered3(1)
-relevant Act75(3)(a)
+relevant Act75(3)
 specified38(2), 59(6)
-Stop Work Order3(1), 59(2)(b)
+Stop Work Order3(1), 59(2)
 successor in title29(9)
 this Act3(1)
 Treasurer3(1)
