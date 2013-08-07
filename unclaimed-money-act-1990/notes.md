@@ -23,16 +23,18 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 2
 Reprint 2: The Unclaimed Money Act 1990 as at 9 Mar 2007 (includes amendments listed above except the amendments in the Criminal Investigation (Consequential Provisions) Act 2006 s. 73)
 Public Trustee and Trustee Companies Legislation Amendment Act 2008 Pt. 4 | 9 of 2008 | 31 Mar 2008 | 1 Jul 2008 (see s. 2 and Gazette 24 Jun 2008 p. 2885)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 11 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Aboriginal Affairs Planning Authority Amendment Act 2012 Pt. 3 | 38 of 2012 | 22 Nov 2012 | To be proclaimed (see s. 2(b))
+Aboriginal Affairs Planning Authority Amendment Act 2012 Pt. 3 | 38 of 2012 | 22 Nov 2012 | 7 Aug 2013 (see s. 2(b) and Gazette 6 Aug 2013 p. 3647)
 Repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 of the Commonwealth.
 The Companies (Western Australia) Code and the Companies (Acquisition of Shares) (Western Australia) Code were superseded by the Corporations Law which, on 15 July 2001, was superseded by the Corporations Act 2001 of the Commonwealth. See Part 13 Division 2 of the Corporations (Western Australia) Act 1990 and Part 2 of the Corporations (Ancillary Provisions) Act 2001 respectively.
-On the date as at which this compilation was prepared, the Aboriginal Affairs Planning Authority Amendment Act 2012 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Unclaimed Money Act 1990 amended
-6.Act amended
-This Part amends the Unclaimed Money Act 1990.
-7.Section 9 amended
-Delete section 9(1)(a).
+Footnote no longer applicable.
 The former Consolidated Fund became the Consolidated Account.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+claim3(1)
+disbursable3(1)
+holder3(1)
+owner3(1)
+prescribed retained money3(1)
+the repealed Act3(1)
+unclaimed money3(1)
