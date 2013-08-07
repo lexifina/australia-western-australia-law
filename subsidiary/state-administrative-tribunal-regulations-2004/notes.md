@@ -18,60 +18,22 @@ State Administrative Tribunal Amendment Regulations (No. 4) 2011 | 22 Jul 2011 p
 State Administrative Tribunal Amendment Regulations (No. 5) 2011 | 20 Dec 2011 p. 5383-7 | r. 1 and 2: 20 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2011 (see r. 2(b))
 State Administrative Tribunal Amendment Regulations (No. 3) 2012 | 30 Nov 2012 p. 5795-7 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
 State Administrative Tribunal Amendment Regulations (No. 4) 2012 | 7 Dec 2012 p. 5994 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Dec 2012 (see r. 2(b) and Gazette 16 Nov 2012 p. 5637)
-The Nurses Act 1992 was repealed by the Nurses and Midwives Act 2006.
-The Occupational Therapists Registration Act 1980was repealed by the Occupational Therapists Act 2005.
-The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
-The Psychologists Registration Act 1976 was repealed by the Psychologists Act 2005.
-The Town Planning and Development Act 1928 was repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
-The Town Planning Appeal Tribunal Rules 2003 were repealed in Gazette 30 Dec 2004 p. 7023.
-The Metropolitan Region Town Planning Scheme Act 1959 was repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
-The Western Australian Planning Commission Act 1985 was repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
-Now known as the Professional Combat Sports Act 1987.
-The Chiropractors Act 1964 was repealed by the Chiropractors Act 2005.
-The Medical Act 1894 was repealed by the Medical Practitioners Act 2008.
+State Administrative Tribunal Amendment Regulations 2013 | 6 Aug 2013 p. 3649-56 | r. 1 and 2: 6 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Aug 2013 (see r. 2(b))
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-The Gas (Standards) Act 1947 was repealed by the Gas Standards Act 1972.
-The Legal Contribution Trust Act 1967was repealed by the Legal Profession Act 2008.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Act3
 approved form3
 Class 1 application10(1)
 Class 2 application10(1)
-commencement day 28(1), 29(1), 30(1), 31(1), 32(1), 33(1), 34(1), 35(1),
-36(1), 37(1), 38(1), 39(1), 40(1), 41(1), 43(1), 44(1),
-45(1), 46(1), 49(1), 50(1), 51(1), 52(1), 53(1), 54(1),
-55(1), 56(1), 57(1), 58(1), 59(1), 60(1), 61(1), 62(1),
-63(1), 64(1), 65(1), 66(1), 67(1)
-Commissioner46(1)
-Corporation43(1), 44(1), 54(1), 58(1), 61(1)
-DCL Act46(1)
-devolved matter33A(1)
-disciplinary matter33A(1)
-Executive Director50(1)
+commencement day 28(1), 33(1), 55(1), 61(1), 63(1)
 former adjudicator3
-Legal Practitioners Disciplinary Tribunal33A(1)
 notifiable person3
-Nurses Act35(1)
 referee63(1)
 referring person3
-the CTRS Act29(1)
-the CTS Act44(1)
-the CWS Act43(1)
-the FRM Act50(1)
-the GA Act52(1)
-the HWA Act53(1)
+review application10(1)
 the LD Act54(1)
-the LG Act56(1)
-the MRTPS Act57(1)
-the MWA Act58(1)
 the RWI Act61(1)
 the ST Act63(1)
-the TA Act64(1)
-the VL Act65(1)
-the WAPC Act67(1)
-the WB Act66(1)
-time for making an application28(3)
-transfer day33A(1), 42
-Water Board66(1)
+transfer day42
