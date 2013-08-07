@@ -1,5 +1,5 @@
 ## Fourth Schedule
-[Form 1 deleted in Gazette 9 Sep 2003 p. 4046.]
+[Form 1 deleted: Gazette 9 Sep 2003 p. 4046.]
 Form 2
 Bulk Handling Act 1967
 NOTICE DISPUTING ASSESSMENT OF GRADE
@@ -17,7 +17,7 @@ Tendered at .................................. (Place) on ......................
 Quantity ...................................................................... tonnes.
 Weighbridge Ticket No. ..........................................
 Grade determined by Company Officer.......................................................
-[Form 2 amended in Gazette 13 Jun 1975 p. 1904; 9 Sep 2003 p. 4046.]
+[Form 2 amended: Gazette 13 Jun 1975 p. 1904; 9 Sep 2003 p. 4046.]
 Form 3
 Bulk Handling Act 1967
 NOTICE DISPUTING ASSESSMENT OF GRADE
@@ -36,7 +36,7 @@ Quantity ...................................................................... 
 Weighbridge Ticket No. ..........................................
 Grade determined by Company Officer ......................................................
 To be furnished in triplicate.
-[Form 3 amended in Gazette 13 Jun 1975 p. 1904; 9 Sep 2003 p. 4046.]
+[Form 3 amended: Gazette 13 Jun 1975 p. 1904; 9 Sep 2003 p. 4046.]
 Form 4
 Bulk Handling Act 1967
 INDEMNITY FOR LOST WARRANT
@@ -51,7 +51,7 @@ for cancellation.
 Dated at ................... this ..................... day of .................................., 20.............
 Signed........................................................
 Witness ...................................... J.P.
-[Form 4 amended in Gazette 13 Jun 1975 p. 1904.]
+[Form 4 amended: Gazette 13 Jun 1975 p. 1904.]
 Form 5
 Bulk Handling Act 1967
 DECLARATION OF LOSS
@@ -68,5 +68,5 @@ Declared at ....................................................................
 ...................................................................
 Before me ................................ J.P.
 (10c Duty Stamp.)
-[Form 5 amended in Gazette 13 Jun 1975 p. 1904; 9 Sep 2003 p. 4047.]
-[Fourth Schedule amended in Gazette 13 Jun 1975 p. 1904; 9 Sep 2003 p. 4046-7.]
+[Form 5 amended: Gazette 13 Jun 1975 p. 1904; 9 Sep 2003 p. 4047.]
+[Fourth Schedule amended: Gazette 13 Jun 1975 p. 1904; 9 Sep 2003 p. 4046-7.]
