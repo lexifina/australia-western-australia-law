@@ -1,6 +1,6 @@
 ## Schedule 1 — Poundkeeper’s book
 [s. 455(1)]
-[Heading inserted by No. 19 of 2010 s. 21(3).]
+[Heading inserted: No. 19 of 2010 s. 21(3).]
 RELEASED, SOLD OR DESTROYED | Signature and address of person receiving cattle released
 Loss on Sale
 Profit on Sale
@@ -25,4 +25,4 @@ For what cause
 By whom impounded
 Description of Cattle colours and brands
 Date and Time
-[Schedule 1, formerly Fifteenth Schedule Part 1, renumbered as Schedule 1 and amended by No. 19 of 2010 s. 21(3).]
+[Schedule 1, formerly Fifteenth Schedule Part 1, renumbered as Schedule 1 and amended: No. 19 of 2010 s. 21(3).]
