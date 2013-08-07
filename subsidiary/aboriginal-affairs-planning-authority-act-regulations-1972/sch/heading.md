@@ -19,15 +19,16 @@ Minister.
 [Form 2 amended in Gazette 7 Nov 1978 p. 4217.]
 Form No. 3
 Aboriginal Affairs Planning Authority Act 1972
-(Section 35)
+[Heading amended in Gazette 6 Aug 2013 p. 3648.]
 APPLICATION FOR ORDER FOR PAYMENT OF PROCEEDS OF ESTATE OF DECEASED PERSON OF ABORIGINAL DESCENT
 (a) Full name of claimant. | I, (a) ................................................................................................
 (b) Address of claimant. | of (b) ............................................................................................... in the State of Western Australia, being
 (c) Claimant’s relationship to deceased person of Aboriginal descent. | (c) ...................................................................................................
-(d) Full name of deceased person of Aboriginal descent. | of (d) ............................................................................................... a deceased person of Aboriginal descent, hereby apply that an order be made by His Excellency the Governor pursuant to section 35 of the Aboriginal Affairs Planning Authority Act 1972, that the proceeds of the estate of the said deceased person of Aboriginal descent be paid to me, for the reason that I have a moral claim to such proceeds on the following grounds —
+(d) Full name of deceased person of Aboriginal descent. | of (d) ............................................................................................... a deceased person of Aboriginal descent, hereby apply that an order be made by His Excellency the Governor pursuant to section 35 of the Aboriginal Affairs Planning Authority Act 1972 (as in force immediately before the commencement of the Aboriginal Affairs Planning Authority Amendment Act 2012 section 4), that the proceeds of the estate of the said deceased person of Aboriginal descent be paid to me, for the reason that I have a moral claim to such proceeds on the following grounds —
 (e) Set out the grounds on which the claim is based. | (e) Dated the ..................... day of ................................, 20......... ............................................................. (Signature of Claimant) Report and Recommendation of Local Officer: Date ................................................... ............................................................. (Signature of Officer)
 FOR HEAD OFFICE USE ONLY.
  | Claim is approved. _________________ not approved. ............................................................. Public Trustee Date ................................................ Executive Council Minutes prepared ............................................. Executive Council Approval granted ............................................. Disbursement made ........................................................................ ............................................................. A/O
+[Form 3 amended in Gazette 6 Aug 2013 p. 3648-9.]
 Form No. 4
 Aboriginal Affairs Planning Authority Act 1972
 (Section 41)
@@ -52,4 +53,4 @@ DATE ..........................................
 12.How long have you been in your present position? ....................................................................................................................
 13.At what rate could you repay any assistance given? ....................................................................................................................
 14.Can you obtain financial assistance from any other person or authority? ....................................................................................................................
-[Schedule amended in Gazette 7 Nov 1978 p. 4217.]
+[Schedule amended in Gazette 7 Nov 1978 p. 4217; 6 Aug 2013 p. 3648-9.]
