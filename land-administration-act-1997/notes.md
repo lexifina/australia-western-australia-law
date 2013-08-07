@@ -45,13 +45,13 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 8 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 6: The Land Administration Act 1997 as at 16 Nov 2012 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90)
+Commercial Arbitration Act 2012 s. 45 it. 11 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 27 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Commercial Arbitration Act 2012 s. 45 it. 11 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 Water Services Legislation Amendment and Repeal Act 2012 s. 220 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 4.Section 6A inserted
@@ -382,15 +382,8 @@ In section 61(2)(a):
 a road law as defined in the Road Traffic (Administration) Act 2008 section 4
 (b) delete “within the meaning of that Act; and” and insert:
 as defined in that section; and
-On the date as at which this reprint was prepared, the Commercial Arbitration Act 2012 s. 45 it. 11 had not come into operation. It reads as follows:
-45.Acts amended
-(1) This section amends the Acts listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-11.Land Administration Act 1997
-s. 35(5)(a)(ii) | Commercial Arbitration Act 1985 | Commercial Arbitration Act 2012
-On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 220 had not come into operation. It reads as follows:
+Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 220 had not come into operation. It reads as follows:
 220.Land Administration Act 1997 amended
 (1) This section amends the Land Administration Act 1997.
 (2) In section 159(eb) delete “Water Services Licensing Act 1995;” and insert:

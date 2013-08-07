@@ -38,12 +38,12 @@ Petroleum and Energy Legislation Amendment Act 2010 Pt. 2 other than s. 51, 57, 
 Reprint 7: The Petroleum and Geothermal Energy Resources Act 1967 as at 5 Aug 2011 (includes amendments listed above)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 3 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Commercial Arbitration Act 2012 s. 45 it. 15 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 Sch. 2 Div. 7 | 60 of 1999 | 10 Jan 2000 | s. 7.3 operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Petroleum and Energy Legislation Amendment Act 2010 s. 51, 57, 58(b) (to the extent that it inserts s. 153(2)(lc)), 61 (to the extent that it inserts Sch. 2 cl. 3) | 42 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
-Commercial Arbitration Act 2012 s. 45 it. 15 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 The Petroleum Act 1936 was repealed by this Act, s. 3.
 Repealed by the Interpretation Act 1984.
 The amendment in the Petroleum Safety Act 1999 s. 92 is not included as it was deleted by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51 before it came into operation.
@@ -269,14 +269,6 @@ Division 1 — Provisions for Petroleum and Energy Legislation Amendment Act 201
 (a) continues in force for the purposes of that section as it continues to apply under subclause (1); and
 (b) also separately continues in force on and after the commencement of section 57 of the amending Act as if it had been made for the purposes of Part IVB.
 (4) Regulation 3 as continued in force under subclause (3)(a) or (b) may, for the purposes of its application under subclause (3)(a) or (b), be amended or deleted by regulations.
-On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 it. 15 had not come into operation. It reads as follows:
-45.Acts amended
-(1) This section amends the Acts listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-15.Petroleum and Geothermal Energy Resources Act 1967
-s. 13(4) | Commercial Arbitration Act 1985 | Commercial Arbitration Act 2012
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

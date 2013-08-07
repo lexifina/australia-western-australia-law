@@ -54,11 +54,11 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2
 Legal Profession Act 2008 s. 660 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Criminal Law Amendment (Homicide) Act 2008 s. 31 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Reprint 8: The District Court of Western Australia Act 1969 as at 7 Nov 2008 (includes amendments listed above except those in the Legal Profession Act 2008)
+Commercial Arbitration Act 2012 s. 45 it. 5 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Commercial Arbitration Act 2012 s. 45 it. 5 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
 “
@@ -141,14 +141,6 @@ Act | Provision
 District Court of Western Australia Act 1969 | s. 15
 ........................................................... | .........
 ”.
-On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 it. 5 had not come into operation. It reads as follows:
-45.Acts amended
-(1) This section amends the Acts listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-5.District Court of Western Australia Act 1969
-s. 79(1a) | Commercial Arbitration Act 1985 | Commercial Arbitration Act 2012
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

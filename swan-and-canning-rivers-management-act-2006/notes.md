@@ -13,22 +13,14 @@ Metropolitan Redevelopment Authority Act 2011 s. 144 | 45 of 2011 | 12 Oct 2011 
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 2: The Swan and Canning Rivers Management Act 2006 as at 15 Jun 2012 (includes amendments listed above)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 15 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
+Commercial Arbitration Act 2012 s. 45 it. 20 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Commercial Arbitration Act 2012 s. 45 it. 20 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 Water Services Legislation Amendment and Repeal Act 2012 s. 233 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Water Resources Legislation Amendment Act 2007.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 Now a city.
-On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 it. 20 had not come into operation. It reads as follows:
-45.Acts amended
-(1) This section amends the Acts listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-20.Swan and Canning Rivers Management Act 2006
-s. 89(7) | Commercial Arbitration Act 1985 | Commercial Arbitration Act 2012
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 233 had not come into operation. It reads as follows:
 233.Swan and Canning Rivers Management Act 2006 amended

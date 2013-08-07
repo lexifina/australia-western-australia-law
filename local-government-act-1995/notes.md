@@ -55,11 +55,11 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
  | Local Government Amendment Act 2012 Pt. 2 | 2 of 2012 | 4 Apr 2012 | Pt. 2 other than s. 13-18: 21 Apr 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695); s. 13: 1 Jul 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695); s. 14-18: 1 Jul 2013 (see s. 2(b) and Gazette 8 Feb 2013 p. 863)
  | Reprint 6: The Local Government Act 1995 as at 3 Aug 2012 (includes amendments listed above except those in the Co-operatives Act 2009 s. 516 and the Local Government Amendment Act 2012 s. 14-18) (correction in Gazette 7 Sep 2012 p. 4329 and 28 Mar 2013 p. 1317)
+ | Commercial Arbitration Act 2012 s. 45 it. 12 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 29 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Commercial Arbitration Act 2012 s. 45 it. 12 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -243,14 +243,7 @@ to whom a licence in respect of the vehicle has been granted under the Road Traf
 124.Section 9.15 amended
 In section 9.15 in the definition of owner delete “who holds the licence for the vehicle that is required under the Road Traffic Act 1974 or, if the vehicle is not licensed under that Act,” and insert:
 to whom a licence in respect of the vehicle has been granted under the Road Traffic (Vehicles) Act 2012, or, if there is not such a person,
-On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 it. 12 had not come into operation. It reads as follows:
-45.Acts amended
-(1) This section amends the Acts listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-12.Local Government Act 1995
-s. 3.23 | Commercial Arbitration Act 1985 (each occurrence) | Commercial Arbitration Act 2012
+Footnote no longer applicable.
 There is no s. 4.31(1)(c) because this provision was amended and renumbered by the Standardisation of Formatting Act 2010 s. 51 table item 42.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

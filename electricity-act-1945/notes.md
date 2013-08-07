@@ -34,10 +34,7 @@ Reprint 7: The Electricity Act 1945 as at 2 May 2008 (includes amendments listed
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 49 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 43(3) and 57 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Commercial Arbitration Act 2012 s. 45 it. 6 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
+Commercial Arbitration Act 2012 s. 45 it. 6 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Repealed by the Interpretation Act 1984.
 Marginal notes in the Electricity Act 1945 referring to the legislation from which provisions were derived have been omitted from this compilation.
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
@@ -48,17 +45,9 @@ Every instrument under a provision of the principal Act in force immediately bef
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 16 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 it. 6 had not come into operation. It reads as follows:
-45.Acts amended
-(1) This section amends the Acts listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-6.Electricity Act 1945
-s. 11(2) | Commercial Arbitration Act 1985 | Commercial Arbitration Act 2012
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 apparatus5(1)
 consumer5(1)
 Coordinator5(1)
