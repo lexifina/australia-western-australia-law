@@ -7,7 +7,8 @@ s. 11(1)(c) | Declaration of trust | When the declaration is made | Person makin
 s. 11(1)(d)(i) | Vesting by statute law | When the vesting takes place | Person in whom the property is vested
 s. 11(1)(d)(ii) | Vesting by court order | When the order is made | Person in whom the property is vested
 s. 11(1)(e) | Foreclosure of mortgage | When the foreclosure order is made | Mortgagee
-s. 11(1)(f) | Acquisition of new dutiable property | The earlier of the following — (a)when the property is acquired; or (b)if an instrument evidences the acquisition, when the instrument is executed | Person that acquires the property
+s. 11(1)(f) | Acquisition of new dutiable property | The earlier of the following — (a)when the property is acquired; or | Person that acquires the property
+ |  | (b)if an instrument evidences the acquisition, when the instrument is executed
 s. 11(1)(g) | Surrender of special dutiable property | When the surrender takes place | Person to whom the interest is surrendered; or
  |  |  | in the case of a surrender referred to in section 18(f), the person to whom the mining tenement is granted in accordance with the agreement; or
  |  |  | in the case of a surrender referred to in section 18(g), the person that paid the consideration for the surrender
