@@ -8,3 +8,4 @@ Spent Convictions Amendment Regulations 2005 | 4 Nov 2005 p. 5318-19 | 4 Nov 200
 Spent Convictions Amendment Regulations 2007 | 1 Apr 2008 p. 1280-3 | r. 1 and 2: 1 Apr 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2008 (see r. 2(b))
 Reprint 2: The Spent Convictions Regulations 1992 as at 16 May 2008 (includes amendments listed above)
 Spent Convictions Amendment Regulations (No. 2) 2010 | 24 Dec 2010 p. 6806-7 | r. 1 and 2: 24 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Dec 2010 (see r. 2(b))
+Spent Convictions Amendment Regulations (No. 2) 2013 | 13 Aug 2013 p. 3736-7 | r. 1 and 2: 13 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Aug 2013 (see r. 2(b))
