@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Dangerous Goods Safety (Explosives) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 16 August 2013 of the Dangerous Goods Safety (Explosives) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
-Dangerous Goods Safety (Explosives) Regulations 2007 | 31 Dec 2007 p. 6541-717 | r. 1 and 2: 31 Dec 2007 (see r. 2(a);Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
+Dangerous Goods Safety (Explosives) Regulations 2007 | 31 Dec 2007 p. 6541-717 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
 Dangerous Goods Safety (Explosives) Amendment Regulations (No. 3) 2009 | 16 Jun 2009 p. 2195-6 | r. 1 and 2: 16 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Dangerous Goods Safety (Explosives) Amendment Regulations 2009 | 21 Aug 2009 p. 3271-2 | r. 1 and 2: 21 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Aug 2009 (see r. 2(b))
 Dangerous Goods Safety (Explosives) Amendment Regulations (No. 2) 2009 | 24 Nov 2009 p. 4737-40 | r. 1 and 2: 24 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Nov 2009 (see r. 2(b))
@@ -12,18 +12,23 @@ Dangerous Goods Safety (Explosives) Amendment Regulations (No. 3) 2012 | 16 Mar 
 Dangerous Goods Safety (Explosives) Amendment Regulations (No. 5) 2012 | 11 Jan 2013 p. 53-5 | r. 1 and 2: 11 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2013 (see r. 2(b))
 Dangerous Goods Safety (Explosives) Amendment Regulations (No. 4) 2012 | 19 Feb 2013 p. 984-6 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
 Dangerous Goods Safety (Explosives) Amendment Regulations (No. 3) 2013 | 28 Jun 2013 p. 2823-4 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
-Defined Terms
+Reprint 1: The Dangerous Goods Safety (Explosives) Regulations 2007 as at 16 Aug 2013 (includes amendments listed above)
+The Medical Practitioners Act 2008 and the Psychologists Act 2005 were repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
+The Explosives and Dangerous Goods Act 1961 was repealed by the Dangerous Goods Safety Act 2004.
+The Dangerous Goods (Transport) Act 1998 and the Dangerous Goods (Transport) (Explosives by Road and Rail) Regulations 1999 were repealed by the Dangerous Goods Safety Act 2004.
+The Explosives and Dangerous Goods (Explosives) Regulations 1963 were repealed by the Dangerous Goods Safety Act 2004.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 access3
 accountable person108
 Act3
 ADG Code3
-AE Code3
 AEC 2206(1)
+AE Code3
 aerial shell3
 affected person39(1)
-airport manager148(2)
+airport manager148(2)(d)
 alternative safety measures3
 amend172(1)
 ammunition3
@@ -39,14 +44,14 @@ AS 2187.13, 7(1)
 AS 2187.23, 7(1)
 assigned9(1)
 authorised explosive3
-authorised person161(1), Sch. 10, cl. 4(1)
+authorised person161(1), Sch. 10 cl. 4(1)
 Baldivis facility185
 BE initiator77(1)
 black powder3
-blast plan122
 blasting explosive3
+blast plan122
 bulk AN-based explosive3
-candleSch. 2, cl. 2(1)
+candleSch. 2 cl. 2(1)
 Category 1 load95(1)
 Category 2 load95(1)
 Category 3 load95(1)
@@ -56,8 +61,8 @@ commencement198
 Commissioner19(1)
 complying magazine91(1)
 constituent3
-crackerSch. 2, cl. 2(1)
-cracker chain144(1), Sch. 2, cl. 2(1)
+crackerSch. 2 cl. 2(1)
+cracker chain144(1), Sch. 2 cl. 2(1)
 destroy3
 development181(1)
 district3
@@ -74,13 +79,14 @@ explosives management plan194(1)
 explosives site33
 export56
 fee3
+FES Commissioner3
 fill73(1)
 firework3
-fireworks contractor101(2)
+fireworks contractor101(2)(a)
 fireworks event3, 136
 fireworks event permit3
-flash powderSch. 2, cl. 2(1)
-fountainSch. 2, cl. 2(1)
+flash powderSch. 2 cl. 2(1)
+fountainSch. 2 cl. 2(1)
 grace period179A(1)
 ground display3
 gun3
@@ -95,7 +101,7 @@ Kalgoorlie facility185
 level 1 fine3
 level 2 fine3
 level 3 fine3
-licence3, 156(1), 194(1), Sch. 10, cl. 1
+licence3, 156(1), 194(1), Sch. 10 cl. 1
 magazine185
 manufacture3
 Material Safety Data Sheet3
@@ -106,7 +112,7 @@ mobile processing unit3
 model rocket motor3
 MPU3
 MSDS3
-multi-shot box itemSch. 2, cl. 2(1)
+multi-shot box itemSch. 2 cl. 2(1)
 NEQ3
 new law licence200
 official capacity185
@@ -132,12 +138,12 @@ relevant person19(1)
 renewal application156(1)
 required age156(1)
 required details3
-required planSch. 10, cl. 1
+required planSch. 10 cl. 1
 responsible person36(1)
 road3
 road vehicle95(1)
 safely74(1)
-saluteSch. 2, cl. 2(1)
+saluteSch. 2 cl. 2(1)
 secure3
 secure employee3
 security card3
@@ -146,15 +152,15 @@ security document22(1)
 security risk substance3
 SEF185
 sell3
-shotfirer129(1), 133(1), 134(3)
-site149(1), 161(2), 161(4)
-sky rocketSch. 2, cl. 2(1)
+shotfirer129(1)(a), 133(1)(a), 134(3)(a)
+site149(1)(c), 161(2)(a) and (4)(a)
+sky rocketSch. 2 cl. 2(1)
 SRS3
 SRS licence190(1)
 State explosives facility3
 State land3
 store3
-submission date175(2)
+submission date175(2)(e)
 supervised3
 supervised access3
 supply3
