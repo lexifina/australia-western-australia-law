@@ -64,6 +64,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Hospitals and Health Services Amendment Act 2013 s. 3-7 | 8 of 2013 | 19 Aug 2013 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 25 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 Now known as the Hospitals and Health Services Act 1927; short title changed (see note under s. 1).
@@ -93,6 +94,57 @@ On the date as at which this compilation was prepared, the State Superannuation 
 “
 Members of a superannuation scheme continued by section 29(c) or (d) of the State Superannuation Act 2000.
 ”.
+On the date as at which this compilation was prepared, the Hospitals and Health Services Amendment Act 2013 s. 3-7 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Hospitals and Health Services Act 1927.
+4.Section 7A amended
+After section 7A(2) insert:
+(3) In subsection (2)(b) —
+provision of services includes —
+(a)the provision of staff to provide services in, or in connection with, public hospitals; and
+(b)the employment or engagement of staff for that purpose.
+5.Section 7C amended
+In section 7C(1)(b) delete “persons, being not less than 3,” and insert:
+persons
+6.Sections 20A and 20B inserted
+After section 19 insert:
+20A.Hospital board may perform employment-related functions on behalf of agency
+(1) In this section and section 20B —
+board, in relation to a public hospital, means —
+(a)the hospital board constituted under this Act in relation to that hospital; or
+(b)if the hospital is controlled by the Minister under section 7, the Minister;
+employing agency, in relation to a health service staff member, means the agency that employs or engages the health service staff member;
+employment-related functions includes recruitment, selection, appointment, transfer, secondment, classification, training and development, performance management, discipline, redeployment, redundancy and termination of employment or engagement;
+health service staff member means a person who —
+(a)is employed or engaged by an agency; and
+(b)pursuant to an arrangement between the agency and a board of a public hospital, works in or in connection with the public hospital.
+(2) A board of a public hospital, or a delegate of the board, may perform for and on behalf of an employing agency the employment-related functions of the employing agency in relation to —
+(a) persons to be employed or engaged as health service staff members in or in connection with the public hospital; and
+(b) health service staff members in or in connection with the public hospital.
+(3) The board has power to do all things that are necessary or convenient to be done for or in connection with the performance of the employment-related functions.
+20B.Modifications for purposes of Workers’ Compensation and Injury Management Act 1981 Part IV Division 2
+(1) In this section —
+injury or hearing loss means an injury suffered by a health service staff member, or a noise induced hearing loss suffered by a health service staff member that is not an injury, in respect of which compensation has been paid or is payable under the WCIM Act by or on behalf of an employing agency, or would have been so payable but for section 22 of that Act;
+WCIM Act means the Workers’ Compensation and Injury Management Act 1981.
+(2) For the purposes of the application of the WCIM Act Part IV Division 2 —
+(a) the awarding of damages against a board of a public hospital independently of the WCIM Act in respect of an injury or hearing loss suffered by a health service staff member is to be taken to be the awarding of damages against the employing agency of the health service staff member; and
+(b) any negligence or other tort by the board of the public hospital that caused the injury or hearing loss is to be taken to be the negligence or other tort of the employing agency; and
+(c) any prohibition under that Division against the awarding of damages in respect of the injury or hearing loss is to be taken to be a prohibition against the awarding of the damages against either or both of the employing agency and the board of the public hospital; and
+(d) any conditions or limitations that apply under that Division in relation to the awarding of damages in respect of the injury or hearing loss, or to the amount of the damages, are to be taken to be conditions or limitations that apply to the awarding of the damages against either or both of the employing agency and the board of the public hospital or to the amount of the damages.
+7.Section 35D inserted
+After section 35C insert:
+35D.Delegation by board or agency
+(1) A board may, in writing, delegate to —
+(a) a public service officer who is employed in, or seconded to, the Department; or
+(b) a person who is employed or engaged by the board or an agency,
+any power or duty of the board under another provision of this Act.
+(2) An agency may, in writing, delegate to —
+(a) a public service officer who is employed in, or seconded to, the Department; or
+(b) a person who is employed or engaged by the agency or a board,
+any power or duty of the agency under another provision of this Act.
+(3) A person to whom a power or duty is delegated under this section cannot delegate that power or duty.
+(4) A person exercising or performing a power or duty that has been delegated to the person under this section is taken to do so in accordance with the terms of the delegation unless the contrary is shown.
+(5) This section does not limit the ability of a board or agency to perform a function through an officer or agent.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
