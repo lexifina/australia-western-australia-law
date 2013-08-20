@@ -25,6 +25,7 @@ Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 
 Reprint 3: The Insurance Commission of Western Australia Act 1986 as at 1 Oct 2010 (includes amendments listed above except those in the Acts Amendment (ICWA) Act 1996 s. 6(a), 13, 14, 20-22, 24 and 27)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 6 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Insurance Commission of Western Australia Amendment Act 2013 | 7 of 2013 | 19 Aug 2013 | s. 1 and 2: 19 Aug 2013 (see s. 2(a)); Act other than s. 1 and 2: 20 Aug 2013 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
