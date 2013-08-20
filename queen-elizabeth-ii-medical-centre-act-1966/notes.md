@@ -25,6 +25,7 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 105 | 8 of 2009 | 21
 Standardisation of Formatting Act 2010 s. 27 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 43 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Queen Elizabeth II Medical Centre Amendment Act 2013 | 6 of 2013 | 19 Aug 2013 | s. 1 and 2: 19 Aug 2013 (see s. 2(a)); Act other than s. 1 and 2: 20 Aug 2013 (see s. 2(b))
 The Queen Elizabeth II Medical Centre Amendment Act 1985 s. 9 reads as follows:
 “
 9.Validation
