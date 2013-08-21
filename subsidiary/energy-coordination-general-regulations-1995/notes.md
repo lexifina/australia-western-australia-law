@@ -10,11 +10,12 @@ Compilation table
  | Reprint 2: The Energy Coordination (General) Regulations 1995 as at 25 Jan 2008 (includes amendments listed above)
  | Energy Coordination (General) Amendment Regulations 2009 | 6 Nov 2009 p. 4467-8 | r. 1 and 2: 6 Nov 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Nov 2009 (see r. 2(b))
 Public Sector Reform (Consequential Amendments) Regulations 2011 r. 20 | 11 Feb 2011 p. 502-7 | 12 Feb 2011 (see r. 2(d))
+Energy Coordination (General) Amendment Regulations 2013 | 20 Aug 2013 p. 3831 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Citation was initially the Energy Coordination (Designation of Inspectors) Regulations 1995 and was subsequently changed to the Energy Coordination (Inspectors and Infringement Notices) Regulations 1995 then to the Energy Coordination (General) Regulations 1995 (see note under r. 1).
 Formerly referred to the Energy Coordination (Inspectors and Infringement Notices) Regulations 1995 the citation of which was changed (see note under r. 1). This reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 appeal11
 appellant11
 issuing authority3
