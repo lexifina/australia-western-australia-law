@@ -61,8 +61,8 @@ Item | Matter | $
 NOTE 1 The fee under paragraph (a) is payable whether or not the Sheriff’s functions under the warrant are performed and includes up to 3 attempts to perform the functions at the same address.
 NOTE 2 The fee under paragraph (a) includes — (a)receipt of the warrant; and (b)attendances and inquiries before attempting arrest; and (c)giving any notice; and (d)making any report.
 10. | For an application for an extraordinary drivers licence under the Road Traffic Act 1974 | 158.50
-11. | On filing — (a)an application for a misconduct restraining order under the Restraining Orders Act 1997; (b)an application under the Disposal of Uncollected Goods Act 1970; (c)an application under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 101 or 101A; (d)an application under the Dividing Fences Act 1961; (e)an application under the Pawnbrokers and Second-hand Dealers Act 1994. | 80.50
-[Division 2 inserted in Gazette 4 Sep 2009 p. 3475-8; amended in Gazette 30 Jul 2010 p. 3499-500; 8 Mar 2011 p. 788-90; 17 Jan 2012 p. 464-5; 30 Nov 2012 p. 5792-3.]
+11. | On filing — (a)an application for a misconduct restraining order under the Restraining Orders Act 1997; (b)an application under the Disposal of Uncollected Goods Act 1970; (c)an application under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 101, 101AA or 101A; (d)an application under the Dividing Fences Act 1961; (e)an application under the Pawnbrokers and Second-hand Dealers Act 1994. | 80.50
+[Division 2 inserted in Gazette 4 Sep 2009 p. 3475-8; amended in Gazette 30 Jul 2010 p. 3499-500; 8 Mar 2011 p. 788-90; 17 Jan 2012 p. 464-5; 30 Nov 2012 p. 5792-3; 20 Aug 2013 p. 3816.]
 ## Division 3 — Criminal jurisdiction
 [Heading inserted in Gazette 4 Sep 2009 p. 3478.]
 Item | Matter | $
