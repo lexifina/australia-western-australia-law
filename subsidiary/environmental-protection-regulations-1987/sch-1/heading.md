@@ -17,7 +17,7 @@ Category number | Description of category | Production or design capacity
  | (b)coal mining or processing occurs and tailings are discharged.
 10 | Oil or gas production from wells: premises, whether on land or offshore, on which crude oil, natural gas or condensate is extracted from below the surface of the land or the seabed, as the case requires, and is treated or separated to produce stabilized crude oil, purified natural gas or liquefied hydrocarbon gases. | 5 000 tonnes or more per year
 11 | Oil or gas production (other): premises (other than premises within category 10) on which the commercial production of oil or gas occurs (including the reforming of hydrocarbon gas). | 5 000 tonnes or more per year
-12 | Screening, etc. of material: premises (other than premises within category 5 or 8) on which material extracted from the ground is screened, washed, crushed, ground, milled, sized or separated. | 50 000 tonnes or more per year
+12 | Screening etc. of material: premises (other than premises within category 5 or 8) on which material extracted from the ground is screened, washed, crushed, ground, milled, sized or separated. | 50 000 tonnes or more per year
 13 | Crushing of building material: premises on which waste building or demolition material (for example, bricks, stones or concrete) is crushed or cleaned. | 1 000 tonnes or more per year
 14 | Solar salt manufacturing: premises on which salt is produced by solar evaporation. | Not applicable
 15 | Abattoir: premises on which animals are slaughtered. | 1 000 tonnes or more per year
@@ -87,10 +87,10 @@ Part 2
 Category number | Description of category | Production or design capacity
 68 | Cattle feedlot: premises on which the watering and feeding of cattle occurs, being premises — (a)situated 100 m or more from a watercourse; and (b)on which the number of cattle per hectare exceeds 50. | 500 animals or more
 69 | Intensive piggery: premises on which pigs are fed, watered and housed in pens. | More than 500 but less than 1 000 animals
-70 | Screening, etc. of material: premises on which material extracted from the ground is screened, washed, crushed, ground, milled, sized or separated. | More than 5 000 but less than 50 000 tonnes per year
+70 | Screening etc. of material: premises on which material extracted from the ground is screened, washed, crushed, ground, milled, sized or separated. | More than 5 000 but less than 50 000 tonnes per year
 [71 | deleted]
 72 | Chemical manufacturing: premises on which chemical products are manufactured by a chemical process. | Not more than 100 tonnes per year
-73 | Bulk storage of chemicals, etc: premises on which acids, alkalis or chemicals that — (a)contain at least one carbon to carbon bond; and (b)are liquid at STP (standard temperature and pressure), are stored. | 1 000 m3 in aggregate
+73 | Bulk storage of chemicals etc.: premises on which acids, alkalis or chemicals that — (a)contain at least one carbon to carbon bond; and (b)are liquid at STP (standard temperature and pressure), are stored. | 1 000 m3 in aggregate
 74 | Chemical blending or mixing causing discharge: premises on which chemicals or chemical products are mixed, blended or packaged in a manner that causes or is likely to cause a discharge of waste into the environment. | More than 50 but less than 500 tonnes per year
 75 | Chemical blending or mixing not causing discharge: premises on which chemicals or chemical products are mixed, blended or packaged in a manner that does not cause or is not likely to cause a discharge of waste into the environment. | 5 000 tonnes or more per year
 76 | Ceramic goods manufacturing: premises on which ceramic kitchen or table ware or other non-refractory ceramic products are manufactured. | 200 tonnes or more per year
@@ -109,5 +109,5 @@ Category number | Description of category | Production or design capacity
 87 | Fuel burning: premises on which gaseous, liquid or solid fuel with a sulphur content of less than 0.25% is burnt in a boiler for the supply of steam or in power generation equipment. | More than 500 but less than 2 000 kg per hour in aggregate
 88 | Metal finishing: premises on which — (a)metals are chemically cleaned or metals, plastics or metal or plastic products are plated, electroplated, anodised, coloured or otherwise coated or finished; and (b)from which liquid waste is discharged into a sewer. | Not applicable
 89 | Putrescible landfill site: premises on which waste (as determined by reference to the waste type set out in the document entitled “Landfill Waste Classification and Waste Definitions 1996” published by the Chief Executive Officer, as amended from time to time) is accepted for burial. | More than 20 but less than 5 000 tonnes per year
-[Schedule 1 inserted in Gazette 13 Sep 1996 p. 4549-59; amended in Gazette 10 Dec 1996 p. 6877; 12 Sep 1997 p. 5151; 15 Aug 2000 p. 4715-17; 14 Jun 2002 p. 2793-4; 13 Dec 2005 p. 5983; 22 Jun 2007 p. 2843; 23 Jul 2010 p. 3401.]
+[Schedule 1 inserted in Gazette 13 Sep 1996 p. 4549-59; amended in Gazette 10 Dec 1996 p. 6877; 12 Sep 1997 p. 5151; 15 Aug 2000 p. 4715-17; 14 Jun 2002 p. 2793-4; 13 Dec 2005 p. 5983; 22 Jun 2007 p. 2843; 23 Jul 2010 p. 3401; 20 Aug 2013 p. 3856-7.]
 [Schedule 2 deleted in Gazette 8 May 2012 p. 1893.]
