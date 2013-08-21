@@ -60,6 +60,7 @@ Electricity Amendment Regulations (No. 5) 2009 | 5 Mar 2010 p. 841-2 | r. 1 and 
 Electricity Amendment Regulations 2010 | 31 Dec 2010 p. 6888-92 | r. 1 and 2: 31 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2011 (see r. 2(b))
 Electricity Amendment Regulations (No. 3) 2010 | 10 May 2011 p. 1662-6 | r. 1 and 2: 10 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 11 May 2011 (see r. 2(b))
 Electricity Amendment Regulations 2012 | 13 Apr 2012 p. 1647-51 | r. 1 and 2: 13 Apr 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Apr 2012 (see r. 2(b))
+Electricity Amendment Regulations 2013 | 20 Aug 2013 p. 3829 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Electricity Regulations 1947; citation changed (see note under r. 1).
 Regulations 180 and 278 disallowed on 24 Sep 1947, see Gazette 5 Dec 1947 p. 2209.
