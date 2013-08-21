@@ -21,7 +21,7 @@ Have any of the above persons been convicted in WA or elsewhere — ·on indictm
 Corporation name: ACN: Registered office: (not P.O. Box No.) Officer’s full name: Officer’s signature: Officer’s position: | Date:
 Details of person who may be contacted about this application
 10 | Name: Address: Telephone: Fax: Email:
-[Form 1 inserted in Gazette 20 Jul 2004 p. 2904-5.]
+[Form 1 inserted: Gazette 20 Jul 2004 p. 2904-5.]
 Form 2
 Western Australia
 Business Names Act 1962
@@ -31,7 +31,7 @@ I hereby certify that the business name ........................................
 Given under my hand at Perth this ..................... day of .......................... 20........
 ...........................................................
 Commissioner for Consumer Protection
-[Form 2 amended in Gazette 20 Jul 2004 p. 2905; 12 Jan 2007 p. 44.]
+[Form 2 amended: Gazette 20 Jul 2004 p. 2905; 12 Jan 2007 p. 44.]
 Form 3 — Statement for renewal of registration of a business name
 Business Names Act 1962 s. 11(1) Business Names Regulations 1962Form 3 Statement for renewal of registration of a business name [Please use BLOCK LETTERS]
 Details of the business
@@ -57,7 +57,7 @@ Telephone: | Email:
 Surname & given names: Signature: | Date:
 Corporation name: ACN: Officer’s full name: Officer’s signature: Officer’s position: | Date:
 10 | Capacity of person making declaration [tick one box] | An individual carrying on the business. An officer who is a director or secretary of a corporation carrying on the business.
-[Form 3 inserted in Gazette 20 Jul 2004 p. 2905-6.]
+[Form 3 inserted: Gazette 20 Jul 2004 p. 2905-6.]
 Form 4 — Statement of change in registered particulars
 Business Names Act 1962 s. 12(1), (2), (3) & (4) Business Names Regulations 1962Form 4 Statement of change in registered particulars [Please use BLOCK LETTERS]
 Details of the business
@@ -100,7 +100,7 @@ Who must complete this declaration ·If item 3, 4, 5 or 7 above is completed —
 Surname & given names: Signature: | Date:
 Corporation name: ACN: Officer’s full name: Officer’s signature: Officer’s position: | Date:
 Corporation name: ACN: Officer’s full name: Officer’s signature: Officer’s position: | Date:
-[Form 4 inserted in Gazette 20 Jul 2004 p. 2906-9.]
+[Form 4 inserted: Gazette 20 Jul 2004 p. 2906-9.]
 Form 5 — Notice of cessation of business under business name
 Business Names Act 1962 s. 12(3) Business Names Regulations 1962Form 5 Notice of cessation of business under business name [Please use BLOCK LETTERS]
 1 | Registered business name
@@ -110,7 +110,7 @@ Business Names Act 1962 s. 12(3) Business Names Regulations 1962Form 5 Notice of
 Surname & given names Signature: | Date:
 Corporation name: ACN: Officer’s full name: Officer’s signature: Officer’s position: | Date:
 Corporation name: ACN: Officer’s full name: Officer’s signature: Officer’s position: | Date:
-[Form 5 inserted in Gazette 20 Jul 2004 p. 2909.]
+[Form 5 inserted: Gazette 20 Jul 2004 p. 2909.]
 Form 6 — Infringement notice
 Business Names Act 1962 Infringement notice | Infringement notice no.
 Alleged offender | Name:Family name
@@ -125,9 +125,9 @@ Officer issuing notice | Name
 Signature
 Office
 Date | Date of notice//20
-Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice. How to pay By post: Send a cheque or money order (payable to ‘Approved Officer — Business Names Act 1962’) to: Approved Officer — Business Names Act 1962 Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 In person: Pay the cashier at: Department of Consumer and Employment Protection 219 St George’s Terrace, Perth WA If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act your driver’s licence and/or vehicle licence may be suspended.
+Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice. How to pay By post: Send a cheque or money order (payable to ‘Approved Officer — Business Names Act 1962’) to: Approved Officer — Business Names Act 1962 Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 In person: Pay the cashier at: Department of Consumer and Employment Protection 219 St George’s Terrace, Perth WA If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold.
  | If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Approved Officer at the above postal address. If you want this matter to be dealt with by prosecution in court, sign here _______________________________________ and post this notice to the Approved Officer at the above postal address within 28 days after the date of this notice.
-[Form 6 inserted in Gazette 22 Sep 2006 p. 4076-7.]
+[Form 6 inserted: Gazette 22 Sep 2006 p. 4076-7; amended: Gazette 20 Aug 2013 p. 3823.]
 Form 7 — Withdrawal of infringement notice
 Business Names Act 1962 Withdrawal of infringement notice | Withdrawal no.
 Alleged offender | Name:Family name
@@ -144,4 +144,4 @@ Signature
 Office
 Date | Date of withdrawal //20
 Withdrawal of infringement notice [*delete whichever is not applicable] | The above infringement notice issued against you has been withdrawn. If you have already paid the modified penalty for the alleged offence you are entitled to a refund. *Your refund is enclosed. or *If you have paid the modified penalty but a refund is not enclosed, to claim your refund sign this notice and post it to: Approved Officer — Business Names Act 1962 Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 Signature//20
-[Form 7 inserted in Gazette 22 Sep 2006 p. 4077.]
+[Form 7 inserted: Gazette 22 Sep 2006 p. 4077.]
