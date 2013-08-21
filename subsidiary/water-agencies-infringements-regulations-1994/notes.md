@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 March 2012 of the Water Agencies (Infringements) Regulations 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Water Agencies (Infringements) Regulations 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Water Authority (Infringements) Regulations 1994 | 28 Oct 1994 p. 5553-6 | 1 Nov 1994 (see r. 2)
@@ -14,11 +14,12 @@ Water Agencies (Infringements) Amendment Regulations 2007 | 28 Sep 2007 p. 4934-
 Water Agencies (Infringements) Amendment Regulations 2010 | 16 Mar 2010 p. 980-4 | r. 1 and 2: 16 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2010 (see r. 2(b))
 Water Agencies (Infringements) Amendment Regulations 2011 | 20 Dec 2011 p. 5412 | r. 1 and 2: 20 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2011 (see r. 2(b))
 Reprint 2: The Water Agencies (Infringements) Regulations 1994 as at 9 Mar 2012 (includes amendments listed above)
+Water Agencies (Infringements) Amendment Regulations 2013 | 20 Aug 2013 p. 3845 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Repealed by the Water Agencies (Water Use) By-laws 2010.
 Now known as the Water Agencies (Infringements) Regulations 1994; citation changed (see note under r. 1).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 authorised person5(2)
 designated person5(3)
 prescribed person5(1)
