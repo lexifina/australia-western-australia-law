@@ -14,4 +14,4 @@ Signature
 Office
 Date | Date of withdrawal //20
 Withdrawal of infringement notice [*delete whichever is not applicable] | The above infringement notice issued against you has been withdrawn. If you have already paid the modified penalty for the alleged offence you are entitled to a refund. *Your refund is enclosed. or *If you have paid the modified penalty but a refund is not enclosed, to claim your refund sign this notice and post it to: Director of Energy Safety [Address] Signature//20
-[Form 3 inserted in Gazette 20 Mar 2007 p. 1046.]
+[Form 3 inserted: Gazette 20 Mar 2007 p. 1046.]
