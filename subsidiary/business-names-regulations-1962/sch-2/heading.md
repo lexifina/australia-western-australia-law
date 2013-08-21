@@ -1,6 +1,6 @@
 ## Third Schedule
 [Regulation 10]
-[Heading inserted in Gazette 27 Jun 1995 p. 2544.]
+[Heading inserted: Gazette 27 Jun 1995 p. 2544.]
 Item |  | $
  | General fees
 1. | Upon lodging a statement under section 7(1) of the Act ........ | 90
@@ -48,4 +48,4 @@ Supply of uncertified copies of computer printout of business names by reference
 15. | For the supply of a computer printout of the registered business names, using an Australian Standard Industry Classification (ASIC) code —
  | for each request .......................................................... and | 10
  | for each name shown.................................................. | 1
-[Third Schedule inserted in Gazette 27 Jun 1995 p. 2544-6; amended in Gazette 28 Jun 1996 p. 3019; 9 Jun 1998 p. 3094; 8 Dec 2000 p. 6918; 2 Nov 2001 p. 5793 (disallowed 20 Mar 2002 p. 1756); 28 Dec 2001 p. 6714; 9 Jan 2004 p. 88; 28 Jun 2005 p. 2907; 27 Jun 2006 p. 2251.]
+[Third Schedule inserted: Gazette 27 Jun 1995 p. 2544-6; amended: Gazette 28 Jun 1996 p. 3019; 9 Jun 1998 p. 3094; 8 Dec 2000 p. 6918; 2 Nov 2001 p. 5793 (disallowed 20 Mar 2002 p. 1756); 28 Dec 2001 p. 6714; 9 Jan 2004 p. 88; 28 Jun 2005 p. 2907; 27 Jun 2006 p. 2251.]
