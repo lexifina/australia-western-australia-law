@@ -28,11 +28,11 @@ Rail Safety Act 2010 Pt. 11 Div. 2 | 18 of 2010 | 28 Jun 2010 | 1 Feb 2011 (see 
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 5: The Mines Safety and Inspection Act 1994 as at 4 Feb 2011 (includes amendments listed above)
+Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 3 | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 33 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 3 | 48 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
 The Industrial Relations Act 1988 (Commonwealth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 The amendment in the Coroners Act 1996 Sch. 1 it. 11 is not included because of an error in the reference to the provision to be amended. The amendment intended was made in the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 51.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 100 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(10).
@@ -73,16 +73,6 @@ This Division amends the Mines Safety and Inspection Act 1994.
 134.Section 4 amended
 In section 4(1) in the definition of mining operations paragraph (ea) delete “Road Traffic Act 1974; and” and insert:
 Road Traffic (Administration) Act 2008 section 4; and
-On the date as at which this compilation was prepared, the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 3 had not come into operation. It reads as follows:
-Division 3 — Mines Safety and Inspection Act 1994 amended
-59.Act amended
-This Division amends the Mines Safety and Inspection Act 1994.
-60.Section 101F amended
-(1) In section 101F(2) delete “section 32 of”.
-(2) In section 101F(3) and (4) delete “section referred to” and insert:
-Act referred to
-61.Section 101J amended
-In section 101J(3) delete “section 32 of”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
