@@ -7,4 +7,4 @@ Century Old Style Roman Italic Century Old Style Bold Century School Book Centur
 Claro Claro Light Claro Medium Claro Medium Italic | Metro Metro Italic Metro Bold Musica
 Musica Roman Musica Roman Italic Musica Bold Old Style Old Style Roman Old Style Roman Italic Old Style Bold Optima Roman Optima Roman Italic Optima Bold | Rockwell Bold Rockwell Italic Souvenir Souvenir Light Souvenir Light Italic Souvenir Bold Souvenir Medium Swiss Roman Times (or English) Times (or English) Roman
 Plantin Plantin Roman Plantin Roman Italic Plantin Bold Press Roman Bold Press Roman Medium Record Gothic Rockwell Light Rockwell Medium | Times (or English) Roman Italics Times (or English) Bold Univers Univers Light Univers Medium Univers Medium Italic Univers Bold Zapf Zapf Medium
-[Schedule 7 amended in Gazette 10 Jan 1986 p. 150; 10 Oct 1986 p. 3875; 8 Oct 1993 p. 5437; 24 Mar 1995 p. 1092.]
+[Schedule 7 amended: Gazette 10 Jan 1986 p. 150; 10 Oct 1986 p. 3875; 8 Oct 1993 p. 5437; 24 Mar 1995 p. 1092.]

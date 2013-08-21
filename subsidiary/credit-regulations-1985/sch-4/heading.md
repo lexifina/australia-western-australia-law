@@ -22,4 +22,4 @@ and
 5.The Act | Credit Act 1984
 6.This Regulation | Credit Regulations 1985
 7.The Commissioner or the Department of Consumer and Employment Protection | Consumer and Employment Protection
-[Schedule 4 amended in Gazette 10 Jan 1986 p. 150; 12 Jan 2007 p. 46.]
+[Schedule 4 amended: Gazette 10 Jan 1986 p. 150; 12 Jan 2007 p. 46.]

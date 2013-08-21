@@ -1,6 +1,6 @@
 ## Schedule 8 — Prescribed offences and modified penalties
 [r. 29]
-[Heading inserted in Gazette 22 Sep 2006 p. 4100.]
+[Heading inserted: Gazette 22 Sep 2006 p. 4100.]
 Offences under Credit Act 1984 | Modified penalty
 s. 32(1) | Providing offer for signature without prescribed notice ................................................... | $400
 s. 32(2) | Giving offer to provide credit without prescribed notice ................................................... | $400
@@ -16,4 +16,4 @@ s. 75(3) | Entering into agreement for debtor to pay unauthorised fees .........
 s. 76(2) | Entering into contract requiring debtor to pay unreasonable enforcement expenses .................... | $400
 s. 77(2) | Entering into agreement to remove, restrict or modify right to revoke offer ................................. | $400
 s. 130(2)(a) | Failing to provide copy of insurance contract ...... | $200
-[Schedule 8 inserted in Gazette 22 Sep 2006 p. 4100-1.]
+[Schedule 8 inserted: Gazette 22 Sep 2006 p. 4100-1.]
