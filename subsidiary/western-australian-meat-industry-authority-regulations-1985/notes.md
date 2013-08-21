@@ -32,6 +32,7 @@ Western Australian Meat Industry Authority Amendment Regulations (No. 2) 2011 | 
 Western Australian Meat Industry Authority Amendment Regulations 2011 | 6 Dec 2011 p. 5151-90 | r. 1 and 2: 6 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Dec 2011 (see r. 2(b))
 Western Australian Meat Industry Authority Amendment Regulations 2012 | 14 Sep 2012 p. 4369-70 | r. 1 and 2: 14 Sep 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Sep 2012 (see r. 2(b))
 Western Australian Meat Industry Authority Amendment Regulations (No. 2) 2013 | 8 Feb 2013 p. 863-4 | r. 1 and 2: 8 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2013 (see r. 2(b))
+Western Australian Meat Industry Authority Amendment Regulations 2013 | 20 Aug 2013 p. 3854 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Repealed by the Health (Meat Hygiene) Regulations 2001, which were repealed by the Health (Food and Pet Meat) Repeal Regulations 2009.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Health Department shall be read as a reference to the Department of Health.
 Disallowed on 22 Oct 1991, see Gazette 25 Oct 1991 p. 5499.
