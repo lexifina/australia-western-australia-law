@@ -5,3 +5,4 @@
 3. | Application under section 23(1)(a) of the Act | $3.95
 4. | Application under section 23(1)(b) of the Act | $2.80
 [Schedule 1 inserted in Gazette 28 Jun 2005 p. 2906; amended in Gazette 27 Jun 2006 p. 2252; 22 Jun 2011 p. 2337-8; 15 Jun 2012 p. 2583.]
+[Schedules 2 and 3 deleted in Gazette 20 Aug 2013 p. 3825.]
