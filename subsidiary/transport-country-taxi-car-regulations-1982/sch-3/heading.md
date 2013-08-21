@@ -34,7 +34,7 @@ Penalty $ [ ] [ ] [ ]
 Signature of authorised person
 Take notice that —
 If you do not wish to have a complaint of the alleged offence heard and determined by a court, you may pay to an officer specified on the reverse side of this notice, within 28 days, the total amount specified.
-If that amount is not paid within 28 days, additional administrative charges may be incurred and action may be taken to suspend your Motor Driver’s Licence until you have paid in full the modified penalty and any additional charges OR you have elected to have this matter heard and determined by a court.
+If that amount is not paid within 28 days, additional administrative charges may be incurred and action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold.
 Payment may be made —
 (i)by post to —
 [Insert appropriate address here]
@@ -54,7 +54,7 @@ Card Number [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 Amount [ ] [ ] [ ] [ ]
 Cardholder Name: ..............................................................................................................................
 Signature: ............................................................ Expiry Date: ......../......../........
-[Form 1 inserted in Gazette 14 Jul 2006 p. 2580-1.]
+[Form 1 inserted in Gazette 14 Jul 2006 p. 2580-1; amended in Gazette 20 Aug 2013 p. 3848.]
 FORM 2
 TRANSPORT CO-ORDINATION ACT 1966 — section 58A
 TRANSPORT (COUNTRY TAXI-CAR) REGULATIONS 1982 — regulation 48(3)
