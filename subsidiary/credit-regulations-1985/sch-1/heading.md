@@ -1,5 +1,5 @@
 ## Schedule 1
-[Heading inserted in Gazette 10 Jan 1986 p. 138.]
+[Heading inserted: Gazette 10 Jan 1986 p. 138.]
 Form 1
 [Reg. 9]
 PRESCRIBED TERMS AND CONDITIONS OF MORTGAGE
@@ -20,7 +20,7 @@ PRESCRIBED TERMS AND CONDITIONS OF MORTGAGE
 (e) the debtor has made default in any other obligation under the hiring contract which is likely to affect directly the value of the supplier’s security, and has failed to remedy the default within one month (or such longer period as the supplier allows) after being required in writing by the supplier to do so; or
 (f) the debtor has returned the subject goods to the supplier, or has given notice in writing to the supplier that the debtor cannot continue to observe the obligations imposed by the hiring contract.
 4.Nothing in clause 3 affects the operation of any statute or of any principle of law or equity applicable to the rights and duties of the debtor and supplier in relation to each other.
-[Form 1 inserted in Gazette 10 Jan 1986 p. 138.]
+[Form 1 inserted: Gazette 10 Jan 1986 p. 138.]
 Form 2
 [Reg. 10(1)]
 IMPORTANT
@@ -35,7 +35,7 @@ THINGS YOU MUST KNOW
 *You can take out insurance through any company you choose.
 WARNING
 IF YOU DELIBERATELY GIVE FALSE OR MISLEADING INFORMATION TO GET CREDIT YOU CAN BE TAKEN TO COURT.
-[Form 2 inserted in Gazette 10 Jan 1986 p. 139; amended in Gazette 12 Jan 2007 p. 46.]
+[Form 2 inserted: Gazette 10 Jan 1986 p. 139; amended: Gazette 12 Jan 2007 p. 46.]
 Form 3
 [Reg. 10(2)]
 IMPORTANT
@@ -50,7 +50,7 @@ THINGS YOU MUST KNOW
 *You can take out insurance through any company you choose.
 WARNING
 IF YOU DELIBERATELY GIVE FALSE OR MISLEADING INFORMATION TO GET CREDIT YOU CAN BE TAKEN TO COURT.
-[Form 3 inserted in Gazette 10 Jan 1986 p. 139; amended in Gazette 12 Jan 2007 p. 46.]
+[Form 3 inserted: Gazette 10 Jan 1986 p. 139; amended: Gazette 12 Jan 2007 p. 46.]
 Form 4
 [Reg. 11]
 THINGS YOU SHOULD KNOW ABOUT YOUR CREDIT SALE OR LOAN CONTRACT
@@ -155,7 +155,7 @@ You do not get any warning if there is good reason to think you deliberately mis
 Yes. The law does give you other rights and obligations. You should also READ YOUR CONTRACT carefully.
 IF YOU HAVE ANY DOUBTS OR YOU WANT MORE INFORMATION, CONTACT CONSUMER AND EMPLOYMENT PROTECTION OR GET LEGAL ADVICE.
 PLEASE KEEP THIS NOTICE YOU MAY WANT SOME INFORMATION FROM IT AT A LATER DATE.
-[Form 4 inserted in Gazette 10 Jan 1986 p. 139-42; amended in Gazette 12 Jan 2007 p. 46.]
+[Form 4 inserted: Gazette 10 Jan 1986 p. 139-42; amended: Gazette 12 Jan 2007 p. 46.]
 Form 5
 [Reg. 12]
 THINGS YOU SHOULD KNOW ABOUT COOLING-OFF PERIODS UNDER ADD-ON CONTRACTS
@@ -202,7 +202,7 @@ Yes. When you cancel your add-on contract, you go back to where you were under y
 9.What do I do with the goods I have bought if I cancel my add-on contract?
 You should put them in a safe place. When your credit provider demands the return of the goods, you have to give them back as soon as possible. If you do not give them back, you could be taken to court.
 IF YOU HAVE ANY DOUBTS OR YOU WANT MORE INFORMATION, CONTACT CONSUMER AND EMPLOYMENT PROTECTION OR GET LEGAL ADVICE.
-[Form 5 inserted in Gazette 10 Jan 1986 p. 142-3; amended in Gazette 12 Jan 2007 p. 46.]
+[Form 5 inserted: Gazette 10 Jan 1986 p. 142-3; amended: Gazette 12 Jan 2007 p. 46.]
 Form 6
 [Reg. 15]
 THINGS YOU SHOULD KNOW ABOUT YOUR CONTINUING CREDIT CONTRACT
@@ -276,7 +276,7 @@ With certain types of property you must take out insurance. If there is a mortga
 Yes. The law does give you other rights and obligations. You should also READ YOUR CONTRACT carefully.
 IF YOU HAVE ANY DOUBTS OR YOU WANT MORE INFORMATION, CONTACT CONSUMER AND EMPLOYMENT PROTECTION OR GET LEGAL ADVICE.
 PLEASE KEEP THIS SUMMARY. YOU MAY WANT SOME INFORMATION FROM IT AT A LATER DATE.
-[Form 6 inserted in Gazette 10 Jan 1986 p. 143-5; amended in Gazette 12 Jan 2007 p. 46.]
+[Form 6 inserted: Gazette 10 Jan 1986 p. 143-5; amended: Gazette 12 Jan 2007 p. 46.]
 Form 7
 [Reg. 16]
 WHAT SHOULD I DO NOW THAT I HAVE RECEIVED THIS NOTICE?
@@ -292,7 +292,7 @@ Telephone No./s: ...............................................................
 2.If you cannot come to a suitable arrangement with your credit provider or mortgagee, contact Consumer and Employment Protection immediately. If you have been unemployed, sick or there is another good reason why you are having problems with your contract, then your contract may be able to be varied under the law to meet your situation.
 There are other people, such as financial counsellors, who may be able to help.
 3.If you disagree with anything in this notice, including what it says you owe, contact Consumer and Employment Protection or get legal advice immediately.
-[Form 7 inserted in Gazette 10 Jan 1986 p. 145; amended in Gazette 12 Jan 2007 p. 46.]
+[Form 7 inserted: Gazette 10 Jan 1986 p. 145; amended: Gazette 12 Jan 2007 p. 46.]
 Form 8
 [Reg. 17]
 NOTICE AFTER TAKING POSSESSION OF MORTGAGED GOODS
@@ -361,12 +361,12 @@ There are other people, such as financial counsellors, who may be able to help.
 IF YOU HAVE ANY DOUBTS OR YOU WANT MORE INFORMATION, CONTACT CONSUMER AND EMPLOYMENT PROTECTION OR GET LEGAL ADVICE.
 ........................................................
 (Signature of mortgagee or agent)
-[Form 8 inserted in Gazette 10 Jan 1986 p. 146-7; amended in Gazette 12 Jan 2007 p. 46.]
+[Form 8 inserted: Gazette 10 Jan 1986 p. 146-7; amended: Gazette 12 Jan 2007 p. 46.]
 Form 9
 [Reg. 18]
 CREDIT ACT (Section 120)
 This instrument relates to a regulated contract or a regulated mortgage (within the meaning of the Credit Act 1984) under which the drawer or maker may have certain claims or defences.
-[Form 9 inserted in Gazette 10 Jan 1986 p. 147.]
+[Form 9 inserted: Gazette 10 Jan 1986 p. 147.]
 Form 10
 [Reg. 21]
 GUARANTORS — NOTICE OF INTENDED LEGAL ACTION
@@ -438,7 +438,7 @@ Contract No. (if any):
 IF YOU HAVE ANY DOUBTS OR YOU WANT MORE INFORMATION ABOUT WHAT TO DO NEXT, CONTACT CONSUMER AND EMPLOYMENT PROTECTION OR GET LEGAL ADVICE.
 ..............................................................
 (Signature of credit provider of agent)
-[Form 10 inserted in Gazette 10 Jan 1986 p. 147-9; amended in Gazette 12 Jan 2007 p. 46.]
+[Form 10 inserted: Gazette 10 Jan 1986 p. 147-9; amended: Gazette 12 Jan 2007 p. 46.]
 Form 11
 [Reg. 22]
 THINGS YOU SHOULD KNOW ABOUT GUARANTEES
@@ -497,7 +497,7 @@ You are responsible for the full debt if the contract of guarantee had a clear a
 Yes. The law does give you other rights and obligations. You should also READ YOUR CONTRACT carefully.
 IF YOU HAVE ANY DOUBTS OR YOU WANT MORE INFORMATION, CONTACT CONSUMER AND EMPLOYMENT PROTECTION OR GET LEGAL ADVICE.
 PLEASE KEEP THIS SUMMARY. YOU MAY WANT SOME INFORMATION FROM IT AT A LATER DATE.
-[Form 11 inserted in Gazette 10 Jan 1986 p. 149-50; amended in Gazette 12 Jan 2007 p. 46.]
+[Form 11 inserted: Gazette 10 Jan 1986 p. 149-50; amended: Gazette 12 Jan 2007 p. 46.]
 Form 12
 [r. 29(5)(a)]
 Credit Act 1984 Infringement notice | Infringement notice no.
@@ -513,9 +513,9 @@ Officer issuing notice | Name
 Signature
 Office
 Date | Date of notice //20
-Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice. How to pay By post: Send a cheque or money order (payable to ‘Approved Officer — Credit Act 1984’) to: Approved Officer — Credit Act 1984 Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 In person: Pay the cashier at: Department of Consumer and Employment Protection 219 St George’s Terrace, Perth WA If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act your driver’s licence and/or vehicle licence may be suspended. If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Approved Officer at the above postal address.
+Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice. How to pay By post: Send a cheque or money order (payable to ‘Approved Officer — Credit Act 1984’) to: Approved Officer — Credit Act 1984 Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 In person: Pay the cashier at: Department of Consumer and Employment Protection 219 St George’s Terrace, Perth WA If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold. If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Approved Officer at the above postal address.
  | If you want this matter to be dealt with by prosecution in court, sign here _______________________________________ and post this notice to the Approved Officer at the above postal address within 28 days after the date of this notice.
-[Form 12 inserted in Gazette 22 Sep 2006 p. 4099.]
+[Form 12 inserted: Gazette 22 Sep 2006 p. 4099; amended: Gazette 20 Aug 2013 p. 3826.]
 Form 13
 [r. 29(5)(b)]
 Credit Act 1984 Withdrawal of infringement notice | Withdrawal no.
@@ -533,4 +533,4 @@ Signature
 Office
 Date | Date of withdrawal //20
 Withdrawal of infringement notice [*delete whichever is not applicable] | The above infringement notice issued against you has been withdrawn. If you have already paid the modified penalty for the alleged offence you are entitled to a refund. *Your refund is enclosed. or *If you have paid the modified penalty but a refund is not enclosed, to claim your refund sign this notice and post it to: Approved Officer — Credit Act 1984 Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 Signature//20
-[Form 13 inserted in Gazette 22 Sep 2006 p. 4100.]
+[Form 13 inserted: Gazette 22 Sep 2006 p. 4100.]
