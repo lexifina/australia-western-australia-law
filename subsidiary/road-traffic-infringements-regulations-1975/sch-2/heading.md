@@ -88,7 +88,7 @@ Cheques and money orders must be made payable to the “Department for Planning 
 Signature |  | Date
 Page 2 of Form 3
 PART DYOUR OPTIONS — FURTHER DETAILS
-IMPORTANT INFORMATION: If, on or before .............................., you have not either paid the modified penalty or elected to have the alleged offence determined in court, then this infringement notice will, unless the notice is withdrawn on the basis of information provided by you in Part E, be registered at the Fines Enforcement Registry. You will incur further costs and a vehicle licence suspension may be imposed. If any information provided by you in Part E does not lead to the withdrawal of this notice, you will be notified by mail. PAYMENT will only be accepted if — the payment is received on or before .............................. (no extensions will be given); the payment is made in full (part payments will not be accepted); and the payment is made to the Department for Planning and Infrastructure, Payment Centre, an Australia Post Office or agency. Cheques and money orders must be made payable to the “Infringement Payment Centre”.
+IMPORTANT INFORMATION: If, on or before .............................., you have not either paid the modified penalty or elected to have the alleged offence determined in court, then this infringement notice will, unless the notice is withdrawn on the basis of information provided by you in Part E, be registered at the Fines Enforcement Registry. You will incur further costs and some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold. If any information provided by you in Part E does not lead to the withdrawal of this notice, you will be notified by mail. PAYMENT will only be accepted if — the payment is received on or before .............................. (no extensions will be given); the payment is made in full (part payments will not be accepted); and the payment is made to the Department for Planning and Infrastructure, Payment Centre, an Australia Post Office or agency. Cheques and money orders must be made payable to the “Infringement Payment Centre”.
 PART EELECTING TO GO TO COURT
 I elect to have the offence alleged in Part A heard and determined in court. I understand that I will receive a summons in due course.
 Signature: |  | Date:
@@ -119,7 +119,7 @@ As the person, or an authorised officer of the company, referred to above, I cer
 Dealer organisation code:
 Signature: |  | Date:
 Mail this completed form to the Department for Planning and Infrastructure PO Box R1290 GPO Perth 6844.
-[Form 3 inserted in Gazette 23 Dec 2005 p. 6287-9.]
+[Form 3 inserted in Gazette 23 Dec 2005 p. 6287-9; amended in Gazette 20 Aug 2013 p. 3847.]
 Form 4
 MOTOR VEHICLE OFFENCE — NOTICE REQUESTING INFORMATION
 Road Traffic Act 1974 s. 102C, 102D
