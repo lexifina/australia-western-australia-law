@@ -45,10 +45,7 @@ Co-operatives Act 2009 s. 509 and 514 | 24 of 2009 | 22 Oct 2009 | s. 509: 1 Sep
 Equal Opportunity Amendment Act 2010 | 2 of 2010 | 1 Apr 2010 | s. 1 and 2: 1 Apr 2010 (see s. 2(a)); Act other than s. 1 and 2: 25 Sep 2010 (see s. 2(b) and Gazette 24 Sep 2010 p. 5047)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 6: The Equal Opportunity Act 1984 as at 7 Jan 2011 (includes amendments listed above except those in the Co-operatives Act 2009 s. 514)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 3 | 48 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
+Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 3 | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 of the Commonwealth (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 of the Commonwealth.
 The Uniform Building By-laws 1974 were repealed in Gazette 28 July 1989 p. 2280.
 Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1) which was repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
@@ -69,127 +66,13 @@ Unless the context otherwise requires, where in an arrangement made under the Eq
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or repealed by that Act.
 The amendments in the Co-operatives Act 2009 s. 509(2) and 514(2) are not included because the section it sought to amend had expired on 9 Jan 1995 (see s. 35N(2)). Section 35N(2) reads as follows:
 (2) Subsection (1) shall, except to the extent that regulations made for the purposes of this subsection provide otherwise, cease to be in force at the expiration of 2 years after the coming into operation of section 11 of the Equal Opportunity Amendment Act 1992.
-On the date as at which this compilation was prepared, the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Equal Opportunity Act 1984 amended
-44.Act amended
-This Part amends the Equal Opportunity Act 1984.
-45.Long title amended
-In the long title delete “or age,” and insert:
-age, or publication of details on the Fines Enforcement Registrar’s website,
-46.Section 3 amended
-In section 3(a) delete “age” and insert:
-age, publication of relevant details on the Fines Enforcement Registrar’s website
-47.Section 4 amended
-In section 4(1) insert in alphabetical order:
-Fines Enforcement Registrar means the Registrar appointed under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 7(1);
-relevant details, in relation to a person, has the meaning given in the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 56C;
-48.Section 5 amended
-In section 5 delete “IVA or IVB” and insert:
-IVA, IVB or IVC
-49.Part IVC inserted
-After Part IVB insert:
-Part IVC — Discrimination on ground of publication of relevant details of persons on Fines Enforcement Registrar’s website
-Division 1 — General
-67A.Discrimination on ground of publication of relevant details on Fines Enforcement Registrar’s website
-In this Division, a person (the discriminator) discriminates against another person (the aggrieved person) on the ground of the publication of relevant details of the person on the Fines Enforcement Registrar’s website if, on the ground of the publication under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 56D of any relevant details of the person, the discriminator —
-(a) treats the aggrieved person less favourably than, in the same circumstances or in circumstances that are not materially different, the discriminator treats or would treat a person who had never been convicted of an offence and against whom an infringement notice had never been issued; or
-(b) requires the aggrieved person to comply with a requirement or condition that is not reasonable having regard to the circumstances of the case.
-Division 2 — Discrimination in work
-67B.Discrimination against applicants and employees
-(1) It is unlawful for an employer to discriminate against a person on the ground of the publication of relevant details of the person on the Fines Enforcement Registrar’s website —
-(a) in the arrangements made for the purpose of determining who should be offered employment; or
-(b) in determining who should be offered employment; or
-(c) in the terms or conditions on which employment is offered.
-(2) It is unlawful for an employer to discriminate against an employee on the ground of the publication of relevant details of the employee on the Fines Enforcement Registrar’s website —
-(a) in the terms or conditions of employment that the employer affords the employee; or
-(b) by denying the employee access, or limiting the employee’s access, to opportunities for promotion, transfer or training, or to any other benefits associated with employment; or
-(c) by dismissing the employee; or
-(d) by subjecting the employee to any other detriment.
-67C.Discrimination against commission agents
-(1) It is unlawful for a principal to discriminate against a person on the ground of the publication of relevant details of the person on the Fines Enforcement Registrar’s website —
-(a) in the arrangements the principal makes for the purpose of determining who should be engaged as a commission agent; or
-(b) in determining who should be engaged as a commission agent; or
-(c) in the terms or conditions on which the person is engaged as a commission agent.
-(2) It is unlawful for a principal to discriminate against a commission agent on the ground of the publication of relevant details of the commission agent on the Fines Enforcement Registrar’s website —
-(a) in the terms or conditions that the principal affords the commission agent as a commission agent; or
-(b) by denying the commission agent access, or limiting the commission agent’s access, to opportunities for promotion, transfer or training, or to any other benefits associated with the position as a commission agent; or
-(c) by terminating the engagement; or
-(d) by subjecting the commission agent to any other detriment.
-67D.Discrimination against contract workers
-It is unlawful for a principal to discriminate against a contract worker on the ground of the publication of relevant details of the contract worker on the Fines Enforcement Registrar’s website —
-(a) in the terms or conditions on which the principal allows the contract worker to work; or
-(b) by not allowing the contract worker to work or continue to work; or
-(c) by denying the contract worker access, or limiting the contract worker’s access, to any benefit associated with the work in respect of which the contract with the employer is made; or
-(d) by subjecting the contract worker to any other detriment.
-67E.Professional or trade organisations etc.
-(1) This section applies to an organisation of employees and to an organisation of employers.
-(2) It is unlawful for an organisation to which this section applies or for a committee of management of such an organisation or for a member of such a committee of management to discriminate against a person who is not a member of the organisation on the ground of the publication of relevant details of the person on the Fines Enforcement Registrar’s website —
-(a) by refusing or failing to accept the person’s application for membership; or
-(b) in the terms or conditions on which the organisation is prepared to admit the person to membership.
-(3) It is unlawful for an organisation to which this section applies or for the committee of management of such an organisation or for a member of such a committee of management to discriminate against a person who is a member of the organisation on the ground of the publication of relevant details of the person on the Fines Enforcement Registrar’s website —
-(a) by denying the person access, or limiting the person’s access, to any benefit provided by the organisation; or
-(b) by depriving the person of membership or varying the terms of membership; or
-(c) by subjecting the person to any other detriment.
-67F.Qualifying bodies
-It is unlawful for an authority that is empowered to confer, renew, extend, revoke or withdraw an authorisation or qualification that is needed for or facilitates the practice of a profession, the carrying on of a trade or the engaging in of an occupation to discriminate against a person on the ground of the publication of relevant details of the person on the Fines Enforcement Registrar’s website —
-(a) by refusing or failing to confer, renew or extend the authorisation or qualification; or
-(b) in the terms or conditions on which it is prepared to confer the authorisation or qualification or to renew or extend the authorisation or qualification; or
-(c) by revoking or withdrawing the authorisation or qualification or varying the terms or conditions upon which it is held.
-67G.Employment agencies
-It is unlawful for an employment agency to discriminate against a person on the ground of the publication of relevant details of the person on the Fines Enforcement Registrar’s website —
-(a) by refusing to provide the person with any of its services; or
-(b) in the terms or conditions on which it offers to provide the person with any of its services; or
-(c) in the manner in which it provides the person with any of its services.
-Division 3 — Discrimination in other areas
-67H.Goods, services and facilities
-It is unlawful for a person who, whether for payment or not, provides goods or services, or makes facilities available, to discriminate against another person on the ground of the publication of relevant details of the person on the Fines Enforcement Registrar’s website —
-(a) by refusing to provide the other person with those goods or services or to make those facilities available to the other person; or
-(b) in the terms or conditions on which the first-mentioned person provides the other person with those goods or services or makes those facilities available to the other person; or
-(c) in the manner in which the first-mentioned person provides the other person with those goods or services or makes those facilities available to the other person.
-67I.Accommodation
-(1) It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the publication of relevant details of the other person on the Fines Enforcement Registrar’s website —
-(a) by refusing the other person’s application for accommodation; or
-(b) in the terms or conditions on which accommodation is offered to the other person; or
-(c) by deferring the other person’s application for accommodation, or according to the other person a lower order of precedence in any list of applicants for that accommodation.
-(2) It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the publication of relevant details of the other person on the Fines Enforcement Registrar’s website —
-(a) by denying the other person access, or limiting the other person’s access, to any benefit associated with accommodation occupied by the other person; or
-(b) by evicting the other person from accommodation occupied by the other person; or
-(c) by subjecting the other person to any other detriment in relation to accommodation occupied by the other person.
-(3) Nothing in this section applies to or in respect of —
-(a) the provision of accommodation in premises if —
-(i) the person who provides or proposes to provide the accommodation or a near relative of that person resides, and intends to continue to reside, on those premises; and
-(ii) the accommodation provided in those premises is for no more than 3 persons other than a person referred to in subparagraph (i) or near relatives of such a person;
-or
-(b) accommodation provided by a religious body.
-50.Section 67 amended
-In section 67(1)(f) delete “IVA or IVB,” and insert:
-IVA, IVB or IVC,
-51.Section 80 amended
-In section 80:
-(a) delete “impairment or age” (first occurrence) and insert:
-impairment, age or the publication of relevant details on the Fines Enforcement Registrar’s website,
-(b) in paragraph (b)(i) delete “impairment or age” and insert:
-impairment, age or the publication of relevant details on the Fines Enforcement Registrar’s website
-(c) in paragraph (e) delete “impairment or age” and insert:
-impairment, age or the publication of relevant details on the Fines Enforcement Registrar’s website
-52.Section 135 amended
-(1) In section 135(1) delete “IVA or IVB.” and insert:
-IVA, IVB or IVC.
-(2) In section 135(2) delete “IVA or IVB” and insert:
-IVA, IVB or IVC
-53.Section 137 amended
-In section 137 delete “IVA and IVB” and insert:
-IVA, IVB and IVC
-54.Section 140 amended
-In section 140(a) delete “impairment or age; and” and insert:
-impairment, age or the publication of relevant details on the Fines Enforcement Registrar’s website; and
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 accommodation4(1)
 advertisement66ZS(2), 68(2)
 age4(1)
-aggrieved person 8(1) and (2), 9(1) and (2), 10(1) and (2), 10A(1) and (2), 19, 35A(1) and (2), 35O(1), (2) and (3), 35X, 36(1), (1a) and (2), 45, 53(1) and (2), 66A(1), (1a), (3) and (4), 66J(1), 66V(1), (2) and (3), 66ZE(1) and 67ZD(3)
+aggrieved person 8(1) and (2), 9(1) and (2), 10(1) and (2), 10A(1) and (2), 19, 35A(1) and (2), 35O(1), (2) and (3), 35X, 36(1), (1a) and (2), 45, 53(1) and (2), 66A(1), (1a), (3) and (4), 66J(1), 66V(1), (2) and (3), 66ZE(1), 67ZD(3), 67A
 amending section66ZL(2)
 authority138, 163(4)
 charitable benefits4(1), 70(2)
@@ -202,7 +85,7 @@ complaint4(1)
 contract worker4(1)
 court167(4)
 Director4(1)
-discriminator8(1) and (2), 9(1) and (2), 10(1) and (2), 10A(1) and (2), 19, 35AB(1) and (3), 35AK, 35A(1) and (2), 35O(1), (2) and (3), 35X, 36(1), (1a) and (2), 45, 53(1) and (2), 66A(1), (1a), (3) and (4), 66J(1), 66V(1), (2) and (3) and 66ZE(1)
+discriminator8(1) and (2), 9(1) and (2), 10(1) and (2), 10A(1) and (2), 19, 35AB(1) and (3), 35AK, 35A(1) and (2), 35O(1), (2) and (3), 35X, 36(1), (1a) and (2), 45, 53(1) and (2), 66A(1), (1a), (3) and (4), 66J(1), 66V(1), (2) and (3), 66ZE(1), 67A
 document4(1)
 educational authority4(1)
 educational institution4(1)
@@ -210,6 +93,7 @@ employment4(1)
 employment agency4(1)
 existing condition66ZL(2)
 family responsibility or family status4(1)
+Fines Enforcement Registrar4(1)
 functions4(1)
 gender reassigned person4(1)
 harasser49A(1) and (2)
@@ -231,6 +115,7 @@ produce167(4)
 public authority139(3)
 race4(1)
 relative4(1)
+relevant details4(1)
 relevant documents86(1)
 relevant information86(1)
 relevant person165(2)(d)

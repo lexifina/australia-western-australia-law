@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 22 March 2013 of the Road Traffic Act 1974 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the Road Traffic Act 1974 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic Act 1974 | 59 of 1974 | 3 Dec 1974 | s. 4: 3 Dec 1974 (see s. 2(2)); s. 6-10 and 12: 21 Feb 1975 (see s. 2(1) and Gazette 21 Feb 1975 p. 633); Act other than s. 4, 6-10 and 12: 1 Jun 1975 (see s. 2(1) and Gazette 29 May 1975 p. 1442)
@@ -148,15 +148,15 @@ Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt.
 Manslaughter Legislation Amendment Act 2011 Pt. 3 | 58 of 2011 | 30 Nov 2011 | 17 Mar 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1245)
 Road Traffic Legislation Amendment Act 2012 s. 15-18 | 8 of 2012 | 21 May 2012 | 1 Aug 2012 (see s. 2(c)(ii) and Gazette 27 Jul 2012 p. 3664)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 13 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
+Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 7 | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Road Traffic (Miscellaneous Amendments) Act 2012 Part 2 (other than s. 12) | 59 of 2012 | 11 Dec 2012 | 12 Dec 2012 (see s. 2(b))
-Reprint 12: The Road Traffic Act 1974 as at 22 Mar 2013 (includes amendments listed above)
+Reprint 12: The Road Traffic Act 1974 as at 22 Mar 2013 (includes amendments listed above, except those in the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 12(2)(c), (5)(d) and (7)(b) | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 Road Traffic Legislation Amendment Act 2012 Pt. 3 (other than s. 15-18) | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b)(i) and (d))
-Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 7 | 48 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
 Road Traffic (Miscellaneous Amendments) Act 2012 s. 12 | 59 of 2012 | 11 Dec 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 s. 44 (see s. 2(c)(ii))
 The name of the Main Roads Trust Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Main Roads Trust Account.
 Repealed by the Interpretation Act 1984.
@@ -433,27 +433,7 @@ Table
 s. 70(3b)(j)(i) | s. 78C(4)
 s. 79(1), (3A) | s. 79A(1)
 s. 79BA(1)(b), (b)(ii) and (2) | s. 79C(1)(a) and (b), (2)(a) and (b)
-On the date as at which this reprint was prepared, the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 7 had not come into operation. It reads as follows:
-Division 7 — Road Traffic Act 1974 amended
-70.Act amended
-This Division amends the Road Traffic Act 1974.
-71.Section 17 amended
-In section 17(2):
-(a) in paragraph (e) delete “vehicle.” and insert:
-vehicle; and
-(b) after paragraph (e) insert:
-(fa) a licence suspension order made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 19 or 43 is not in force in respect of the vehicle; and
-(f) the vehicle is not immobilised under an enforcement warrant issued under the Fines, Penalties and Infringement Notices Enforcement Act 1994; and
-(g) the vehicle’s number plates have not been removed under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95F; and
-(h) a vehicle licence suspension order made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95G is not in force in respect of the vehicle; and
-(i) a vehicle licence cancellation order made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95J is not in force in respect of the vehicle.
-72.Section 27A amended
-(1) After section 27A(1) insert:
-(2A) If a vehicle licence suspension order is made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95G in respect of a person, a licence held by that person in respect of the vehicle specified in the order is, by force of this section, suspended so long as the vehicle licence suspension order continues in force and during that period is of no effect.
-(2) In section 27A(2) delete “Subsection (1)” and insert:
-Subsections (1) and (2A)
-(3) After section 27A(3) insert:
-(4) If a vehicle licence cancellation order is made under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 95J in respect of a person, a licence held by that person in respect of the vehicle specified in the order is, by force of this section, cancelled.
+Footnote no longer applicable.
 On the date as at which this reprint was prepared, the Road Traffic (Miscellaneous Amendments) Act 2012 s. 12 had not come into operation. It reads as follows:
 12.Various references to “member of the Police Force” amended
 In sections 49AB(1)(c), 53(1) and (2A), 60(1c)(a)(i) and 61A(1)(a) delete “member of the Police Force” and insert:
