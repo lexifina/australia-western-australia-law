@@ -116,8 +116,8 @@ WHAT YOU MUST DO:
 OR | IF YOU DO NOT PAY THE MODIFIED PENALTY
 2. | A prosecution notice may be issued against you for the alleged offence, in which case the matter will be dealt with by a COURT.
 OR
- | The modified penalty may be recovered by the Fines Enforcement Registry, in which case — (a)additional administrative charges may be incurred; (b)action may be taken to suspend your Motor Driver’s Licence or Vehicle Licence until you have paid in full the modified penalty and any additional charge; and (c)you will be given an opportunity to elect to have a prosecution notice for the alleged offence dealt with by a COURT. PAYMENTS AFTER THE DUE DATE CAN ONLY BE MADE WITH A FINAL DEMAND LETTER WHICH INCURS AN ADDITIONAL ENFORCEMENT FEE.
-[Form 3 amended in Gazette 14 Jun 2002 p. 2837; 5 Sep 2006 p. 3625; 4 Apr 2008 p. 1313; 23 Jun 2009 p. 2500.]
+ | The modified penalty may be recovered by the Fines Enforcement Registry, in which case — (a)additional administrative charges may be incurred; (b)some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold; and (c)you will be given an opportunity to elect to have a prosecution notice for the alleged offence dealt with by a COURT. PAYMENTS AFTER THE DUE DATE CAN ONLY BE MADE WITH A FINAL DEMAND LETTER WHICH INCURS AN ADDITIONAL ENFORCEMENT FEE.
+[Form 3 amended in Gazette 14 Jun 2002 p. 2837; 5 Sep 2006 p. 3625; 4 Apr 2008 p. 1313; 23 Jun 2009 p. 2500; 20 Aug 2013 p. 3846.]
 Form 4
 [r. 54]
 Water Agencies (Powers) Act 1984 s. 103(6)
