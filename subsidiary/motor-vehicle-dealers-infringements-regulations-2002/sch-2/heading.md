@@ -14,8 +14,8 @@ Authorised officer who issued this notice | Name:
 Signature:
 Date:
 Notes
-WHAT YOU MUST DO | 1.You may dispose of this matter within 28 days after the service of this notice by paying the modified penalty — (a)BY POSTING a cheque or money order made payable to the Commissioner Locked Bag 14 Cloisters Square Perth WA 6850; or (b)IN PERSON to the Cashier at the Department of Commerce - Consumer Protection 219 St George’s Terrace Perth; OR 2.Elect to have this matter dealt with before a COURT. Should you not pursue any of the above options within the time specified above, additional administrative charges may be incurred and action may be taken to suspend your Motor Driver’s Licence until you have paid in full the modified penalty and any additional charges OR you have elected to have this matter dealt with before a Court.
-[Form 1 amended in Gazette 12 Jan 2007 p. 49; 30 Jun 2011 p. 2663-4.]
+WHAT YOU MUST DO | 1.You may dispose of this matter within 28 days after the service of this notice by paying the modified penalty — (a)BY POSTING a cheque or money order made payable to the Commissioner Locked Bag 14 Cloisters Square Perth WA 6850; or (b)IN PERSON to the Cashier at the Department of Commerce - Consumer Protection 219 St George’s Terrace Perth; OR 2.Elect to have this matter dealt with before a COURT. If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold.
+[Form 1 amended in Gazette 12 Jan 2007 p. 49; 30 Jun 2011 p. 2663-4; 20 Aug 2013 p. 3837.]
 Form 2
 Motor Vehicle Dealers Act 1973, s. 55A(7) Withdrawal of Infringement Notice | Notice No:
 To [Details of alleged offender] | Family name:
