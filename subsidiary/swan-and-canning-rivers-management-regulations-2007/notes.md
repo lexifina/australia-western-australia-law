@@ -1,10 +1,11 @@
 Notes
-This reprint is a compilation as at 23 November 2012 of the Swan and Canning Rivers Management Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Swan and Canning Rivers Management Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Swan and Canning Rivers Management Regulations 2007 | 25 Sep 2007 p. 4787-831 | 25 Sep 2007 (see note under r. 1 and Gazette 25 Sep 2007 p. 4835)
 Swan and Canning Rivers Management Amendment Regulations 2012 | 28 Aug 2012 p. 4132-40 | r. 1 and 2: 28 Aug 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2012 (see r. 2(b))
 Reprint 1: The Swan and Canning Rivers Management Regulations 2007 as at 23 Nov 2012 (includes amendments listed above)
+Swan and Canning Rivers Management Amendment Regulations 2013 | 20 Aug 2013 p. 3857-8 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006.
 The regulation in these regulations repealing the Swan River Trust Regulations 1989 was omitted under the Reprints Act 1984 s. 7(4)(f).
 Defined terms
