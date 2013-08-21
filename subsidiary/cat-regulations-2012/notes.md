@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Cat Regulations 2012. The following table contains information about those regulations.
+This is a compilation of the Cat Regulations 2012 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Cat Regulations 2012 r. 1, 2, 3-8, 11-18, 21-25 and 27-30 | 16 Nov 2012 p. 5537-69 | r. 1 and 2: 16 Nov 2012 (see r. 2(a)); Regulations other than r. 1, 2, 7, 9, 10, 19, 20 & 26: 17 Nov 2012 (see r. 2(b)): r. 7: 8 Dec 2012 (see r. 2(c) and Gazette 7 Dec 2012 p. 5963-4)
+Cat Amendment Regulations 2013 | 20 Aug 2013 p. 3850 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement

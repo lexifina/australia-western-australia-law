@@ -16,7 +16,7 @@ Contact telephone number
 (W) ________________________
 (M) ________________________
 Email address (if available) ________________________________
-Can your local government to use this email address to issue renewal notices and other relevant information? Yes/No
+Can your local government use this email address to issue renewal notices and other relevant information? Yes/No
 (delete one)
 Alternative contact details (optional)
 Name of alternative ______________________________________
@@ -130,6 +130,7 @@ Approved breeder (ü): r
 __________________________________________
 __________________________________________
 __________________________________________
+[Form 1 amended in Gazette 20 Aug 2013 p. 3850.]
 Form 2 — Certificate of registration
 Cat Act 2011 s. 11(1)
 [r. 14]
@@ -254,7 +255,8 @@ Officer issuing notice | Name
 Signature
 Office
 Date | Date of notice //20
-Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice. How to pay By postSend a cheque or money order (payable to ‘CEO [Relevant local government] — Cat Act 2011’) to — CEO [Relevant local government and address] In personPay the cashier at — [Relevant local government and address] If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act your driver’s licence and/or vehicle licence may be suspended. If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Approved Officer at the above postal address. If you want this matter to be dealt with by prosecution in court, sign here — _______________________________________ and post this notice to the CEO [Relevant local government] at the above postal address within 28 days after the date of this notice.
+Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice. How to pay By postSend a cheque or money order (payable to ‘CEO [Relevant local government] — Cat Act 2011’) to — CEO [Relevant local government and address] In personPay the cashier at — [Relevant local government and address] If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold. If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Approved Officer at the above postal address. If you want this matter to be dealt with by prosecution in court, sign here — _______________________________________ and post this notice to the CEO [Relevant local government] at the above postal address within 28 days after the date of this notice.
+[Form 6 amended in Gazette 20 Aug 2013 p. 3850.]
 Form 7 — Withdrawal of infringement notice
 [r. 28]
 Cat Act 2011 Withdrawal of infringement notice | Withdrawal no.
