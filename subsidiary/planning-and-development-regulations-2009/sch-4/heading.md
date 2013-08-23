@@ -28,7 +28,7 @@ Total hours
 Hourly rate (r. 48(5)) | $ | $ | $ | $ | $
 Total hours x rate = | $ | $ | $ | $ | $
 +33.3% (To recover operating overhead costs) | $ | $ | $ | $ | $
-= Total salary costs | $ | $ | $ | $ | $
+=Total salary costs | $ | $ | $ | $ | $
 Total salary costs b/f (sum of amounts in previous row) | $
 +Direct costs | $
 +Special costs | $

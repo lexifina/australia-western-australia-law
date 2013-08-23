@@ -35,6 +35,6 @@ Total salary costs b/f (sum of amounts in previous row) | $
 +Direct costs | $
 +Special costs | $
 +Scheme map and text preparation costs | $
-= Estimated total fee | $
+=Estimated total fee | $
 Notes to Form —
 1.If readvertising of substantial modifications is required, the hours needed to arrange the readvertising and review the submissions and the direct costs incurred in readvertising the amendment are to be included in items 3, 4 and 5.
