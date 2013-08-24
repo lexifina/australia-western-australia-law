@@ -231,3 +231,4 @@ for the alleged offence of (3) .................................................
 †Delete whichever does not apply
 [Form 8 amended in Gazette 13 Sep 1996 p. 4682.]
 [First Schedule amended in Gazette 18 Sep 1987 p. 3649; 13 Sep 1996 p. 4678-9, p. 4681-2; and p. 4682; 30 Dec 2004 p. 7013-14.]
+[Second Schedule deleted in Gazette 23 Aug 2013 p. 4009.]
