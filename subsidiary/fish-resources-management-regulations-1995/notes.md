@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 July 2013 of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fish Resources Management Regulations 1995 | 29 Sep 1995 p. 4503-646 | 1 Oct 1995 (see r. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -168,6 +168,7 @@ Fish Resources Management Amendment Regulations (No. 14) 2012 | 1 Mar 2013 p. 10
 Fish Resources Management Amendment Regulations (No. 3) 2013 | 18 Jun 2013 p. 2295-9 | r. 1 and 2: 18 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jun 2013 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 4) 2013 | 28 Jun 2013 p. 2887-904 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); r. 13: 29 Jun 2013 (see r. 2(b)(i) and Gazette 18 Jun 2013 p. 2295); Regulations other than r. 1, 2 and 13: 29 Jun 2013 (see r. 2(c))
 Reprint 12: The Fish Resources Management Regulations 1995 as at 19 Jul 2013 (includes amendments listed above)
+Fish Resources Management Amendment Regulations (No. 6) 2013 | 27 Aug 2013 p. 4053-7 | r. 1 and 2: 27 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Aug 2013 (see r. 2(b))
 Repealed by the Biosecurity and Agriculture Management (Identification and Movement of Stock and Apiaries) Regulations 2013.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
@@ -177,11 +178,12 @@ The commencement date of 15 Jan 2013 that was specified in r. 2(b) was before th
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-Abalone Zone38D(1)
+Abalone Zone38DA
 Abrolhos Islands Fish Habitat Protection AreaSch. 2 Pt. 2 Div. 3 cl. 2(2)
 aircraft3(1)
 ALC55A
 ALC fishing boat55C(1)
+allowed time31(1)
 applicant124A(1), 124D(1)
 approved72
 approved automatic location communicator55A
@@ -225,6 +227,7 @@ fish processor’s licence3(1)
 fish trunk3(1)
 fishing boat licence3(1)
 fishing net3(1)
+fishing season38D(1)
 fishing year16G
 form3(1)
 former authorisation holder129A
@@ -303,8 +306,8 @@ store22(5)
 structure87
 sunrise3(1)
 sunset3(1)
-tail clip31(3)
-tail punch31(3)
+tail clip31(1)
+tail punch31(1)
 tarspotSch. 2 Pt. 2 Div. 1
 unauthorised structure87
 unlicensed person124B(3)

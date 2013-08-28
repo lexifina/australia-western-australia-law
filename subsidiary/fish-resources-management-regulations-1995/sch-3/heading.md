@@ -18,7 +18,7 @@ Dhufish, West Australian | 1
 Dory, John and Mirror | 3
 Emperor and Seabream, all species except Emperor, Blue-lined | 3
 Emperor, Blue-lined | 5
-Foxtail, Western and Pigfish | 3
+Foxfish, Western and Pigfish | 3
 Groper, Baldchin and Tuskfish | 3
 Groper, Western Blue | 1
 Hapuka, Bass Groper and Trevalla | 3
@@ -28,7 +28,7 @@ Snapper, Pink, except in the waters of Shark Bay | 3
 Snapper, Pink, in the waters of the Shark Bay | 2
 Snapper, Queen | 3
 Snapper, Red (Redfish) and Swallowtail in South Coast region | 8
-[Division 1 inserted in Gazette 29 Jan 2013 p. 313-14.]
+[Division 1 inserted in Gazette 29 Jan 2013 p. 313-14; amended in Gazette 27 Aug 2013 p. 4057.]
 ## Division 2 — West Coast region
 [r. 65B]
 [Heading inserted in Gazette 29 Jan 2013 p. 314.]
