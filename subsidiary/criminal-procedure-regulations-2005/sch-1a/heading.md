@@ -24,6 +24,7 @@ Hire-Purchase Act 1959
 Juries Act 1957
 Land Administration Act 1997
 Land Valuers Licensing Act 1978
+Mining Rehabilitation Fund Act 2012
 Real Estate and Business Agents Act 1978
 Residential Tenancies Act 1987
 Retail Trading Hours Act 1987
@@ -33,4 +34,4 @@ Sunday Entertainments Act 1979
 Tobacco Products Control Act 2006
 Travel Agents Act 1985
 Western Australian Meat Industry Authority Act 1976
-[Schedule 1A inserted in Gazette 14 Jul 2006 p. 2568-9; amended in Gazette 13 Nov 2007 p. 5696; 8 May 2009 p. 1502; 23 Jun 2009 p. 2467; 26 Jun 2009 p. 2569; 17 Sep 2010 p. 4758; 1 Jul 2011 p. 2724; 27 Oct 2011 p. 4552; 23 Mar 2012 p. 1369.]
+[Schedule 1A inserted in Gazette 14 Jul 2006 p. 2568-9; amended in Gazette 13 Nov 2007 p. 5696; 8 May 2009 p. 1502; 23 Jun 2009 p. 2467; 26 Jun 2009 p. 2569; 17 Sep 2010 p. 4758; 1 Jul 2011 p. 2724; 27 Oct 2011 p. 4552; 23 Mar 2012 p. 1369; 30 Aug 2013 p. 4101.]
