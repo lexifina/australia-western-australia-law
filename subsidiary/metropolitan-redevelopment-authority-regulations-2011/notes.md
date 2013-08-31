@@ -3,6 +3,7 @@ This is a compilation of the Metropolitan Redevelopment Authority Regulations 20
 Compilation table
 Citation | Gazettal | Commencement
 Metropolitan Redevelopment Authority Regulations 2011 | 30 Dec 2011 p. 5475-514 | r. 1 and 2: 30 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2011 (see r. 2(b) and Gazette 30 Dec 2011 p. 5573)
+Metropolitan Redevelopment Authority Amendment Regulations 2013 | 30 Aug 2013 p. 4102-3 | r. 1 and 2: 30 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Aug 2013 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
@@ -22,7 +23,7 @@ operational plan27(1)
 Panel28
 public work8(1)
 Register of Heritage Places4(1), 18(1)
-relevant plan10(1), 11(1), 12(1), 13(1)
+relevant plan10(1), 11(1), 12(1), 13(1), 14A(1)
 section3
 site17(1)
 statement18(1)
