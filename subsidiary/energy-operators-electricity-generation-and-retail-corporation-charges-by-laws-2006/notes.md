@@ -13,6 +13,7 @@ Reprint 2: The Energy Operators (Electricity Retail Corporation) (Charges) By-la
 Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2012 | 29 Jun 2012 p. 2913-26 | bl. 1 and 2: 29 Jun 2012 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2012 (see bl. 2(b))
 Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws (No. 2) 2012 | 21 Sep 2012 p. 4424 | bl. 1 and 2: 21 Sep 2012 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Oct 2012 (see bl. 2(b))
 Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2013 | 14 Jun 2013 p. 2217-22 | bl. 1 and 2: 14 Jun 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2013 (see bl. 2(b))
+Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws (No. 2) 2013 | 30 Aug 2013 p. 4097-100 | bl. 1 and 2: 30 Aug 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Sep 2013 (see bl. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

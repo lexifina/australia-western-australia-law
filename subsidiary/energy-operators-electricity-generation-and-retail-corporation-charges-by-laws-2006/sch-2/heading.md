@@ -1,6 +1,8 @@
-## Schedule 2 — Street lighting
-[bl. 4(2)]
-[Heading inserted in Gazette 14 Jun 2013 p. 2220.]
+## Schedule 2 — Unmetered supply
+[bl. 4(2) and (3)]
+[Heading inserted in Gazette 30 Aug 2013 p. 4099-100.]
+## Division 1 — Street lighting
+[Heading inserted in Gazette 30 Aug 2013 p. 4099.]
 Item | Wattage | Type | Midnight Switch-off (Obsolescent) Cents per day | 1.15 a.m. Switch-off Cents per day | Dawn Switch-off Cents per day
 Street lighting on current offer and for existing services
 Z.01 | 50 | Mercury Vapour | 31.8772 (includes carbon component of 0.6322) | 32.6942 (includes carbon component of 0.7804) | 35.6707 (includes carbon component of 1.3394)
@@ -30,4 +32,6 @@ Z.55 | 500 | Incandescent | 79.5017 (includes carbon component of 6.3233) | 83.8
 Z.56 | 40 | Fluorescent | 31.7507 (includes carbon component of 0.5059) | 32.5381 (includes carbon component of 0.6243) | 35.4027 (includes carbon component of 1.0714)
 Z.57 | 80 | Fluorescent | 37.8061 (includes carbon component of 1.0116) | 38.8641 (includes carbon component of 1.2485) | 43.5290 (includes carbon component of 2.1428)
 Z.58 | 160 | Fluorescent | 53.4901 (includes carbon component of 2.0234) | 54.6783 (includes carbon component of 2.4972) | 64.8293 (includes carbon component of 4.2857)
-[Schedule 2 inserted in Gazette 14 Jun 2013 p. 2220-2.]
+[Division 1 inserted in Gazette 14 Jun 2013 p. 4099.]
+## Division 2 — Miscellaneous
+[Heading inserted in Gazette 30 Aug 2013 p. 4099.]
