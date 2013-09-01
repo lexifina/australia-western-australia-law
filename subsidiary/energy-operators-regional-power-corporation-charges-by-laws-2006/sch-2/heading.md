@@ -1,6 +1,8 @@
-## Schedule 2 — Street lighting
-[bl. 4(2)]
-[Heading inserted in Gazette 14 Jun 2013 p. 2225.]
+## Schedule 2 — Unmetered supply
+[bl. 4(2) and (3)]
+[Heading inserted in Gazette 30 Aug 2013 p. 4095-6.]
+## Division 1 — Street lighting
+[Heading inserted in Gazette 30 Aug 2013 p. 4095.]
 Item | Wattage | Type | Midnight Switch-off (Obsolescent) Cents per day | 1.15 a.m. Switch-off Cents per day | Dawn Switch-off Cents per day
 Street lighting on current offer and for existing services
 Z.01 | 50 | Mercury Vapour | 31.8772 (includes carbon component of 0.4553) | 32.6942 (includes carbon component of 0.5619) | 35.6707 (includes carbon component of 0.9643)
@@ -12,6 +14,9 @@ Z.10 | 400 | Mercury Vapour | 88.7128 (includes carbon component of 3.6423) | 94
 Z.13 | 150 | High Pressure Sodium | 45.0012 (includes carbon component of 1.3659) | 47.0267 (includes carbon component of 1.6856) | 57.5522 (includes carbon component of 2.8929)
 Z.15 | 250 | High Pressure Sodium | 67.0655 (includes carbon component of 2.2765) | 71.2114 (includes carbon component of 2.8093) | 87.1424 (includes carbon component of 4.8215)
 Z.18 | per kW | Auxiliary Lighting in Public Places | Not applicable | Not applicable | 261.6992 (includes carbon component of 19.2860)
+Z.59 | 66 | LED | 31.8225 (includes carbon component of 0.6010) | 32.6117 (includes carbon component of 0.7417) | 35.8924 (includes carbon component of 1.2729)
+Z.60 | 132 | LED | 42.9362 (includes carbon component of 1.2020) | 44.0337 (includes carbon component of 1.4833) | 54.8360 (includes carbon component of 2.5458)
+Z.61 | 198 | LED | 48.3546 (includes carbon component of 1.8030) | 51.1413 (includes carbon component of 2.2250) | 67.9694 (includes carbon component of 3.8186)
 Street lighting for existing services only
 Z.05 | 250 | Mercury Vapour | 76.3401 (includes carbon component of 2.2765) | 79.9387 (includes carbon component of 2.8093) | 93.4674 (includes carbon component of 4.8215)
 Z.06 | 400 | Mercury Vapour | 105.4376 (includes carbon component of 3.6423) | 111.0006 (includes carbon component of 4.4950) | 132.1207 (includes carbon component of 7.7144)
@@ -30,4 +35,6 @@ Z.55 | 500 | Incandescent | 79.5017 (includes carbon component of 4.5529) | 83.8
 Z.56 | 40 | Fluorescent | 31.7507 (includes carbon component of 0.3642) | 32.5381 (includes carbon component of 0.4495) | 35.4027 (includes carbon component of 0.7714)
 Z.57 | 80 | Fluorescent | 37.8061 (includes carbon component of 0.7285) | 38.8641 (includes carbon component of 0.8990) | 43.5290 (includes carbon component of 1.5429)
 Z.58 | 160 | Fluorescent | 53.4901 (includes carbon component of 1.4569) | 54.6783 (includes carbon component of 1.7980) | 64.8293 (includes carbon component of 3.0858)
-[Schedule 2 inserted in Gazette 14 Jun 2013 p. 2225-7.]
+[Division 1 inserted in Gazette 14 Jun 2013 p. 2225-7; amended in Gazette 30 Aug 2013 p. 4095.]
+## Division 2 — Miscellaneous
+[Heading inserted in Gazette 30 Aug 2013 p. 4095.]
