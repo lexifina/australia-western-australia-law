@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 December 2012 of the Criminal Procedure Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Criminal Procedure Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Criminal Procedure Regulations 2005 | 28 Apr 2005 p. 1441-82 | 2 May 2005 (see r. 2)
@@ -23,6 +23,7 @@ Criminal Procedure Amendment Regulations (No. 4) 2011 | 23 Mar 2012 p. 1368-9 | 
 Criminal Procedure Amendment Regulations 2012 | 22 Jun 2012 p. 2780-1 | r. 1 and 2: 22 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2012 (see r. 2(b))
 Reprint 3: The Criminal Procedure Regulations 2005 as at 7 Dec 2012 (includes amendments listed above)
 Criminal Procedure Amendment Regulations 2013 | 30 Aug 2013 p. 4101 | r. 1 and 2: 30 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Aug 2013 (see r. 2(b))
+Criminal Procedure Amendment Regulations (No. 2) 2013 | 3 Sep 2013 p. 4148 | r. 1 and 2: 3 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Sep 2013 (see r. 2(b))
 Repealed by the Road Transport (General) Act 2005 (NSW). See the Road Transport (General) Act 2005 (NSW).
 Repealed by the Co-operatives Act 2009.
 Defined terms
