@@ -169,6 +169,7 @@ Fish Resources Management Amendment Regulations (No. 3) 2013 | 18 Jun 2013 p. 22
 Fish Resources Management Amendment Regulations (No. 4) 2013 | 28 Jun 2013 p. 2887-904 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); r. 13: 29 Jun 2013 (see r. 2(b)(i) and Gazette 18 Jun 2013 p. 2295); Regulations other than r. 1, 2 and 13: 29 Jun 2013 (see r. 2(c))
 Reprint 12: The Fish Resources Management Regulations 1995 as at 19 Jul 2013 (includes amendments listed above)
 Fish Resources Management Amendment Regulations (No. 6) 2013 | 27 Aug 2013 p. 4053-7 | r. 1 and 2: 27 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Aug 2013 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 7) 2013 | 4 Sep 2013 p. 4179-83 | r. 1 and 2: 4 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2013 (see r. 2(b))
 Repealed by the Biosecurity and Agriculture Management (Identification and Movement of Stock and Apiaries) Regulations 2013.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
