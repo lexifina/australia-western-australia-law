@@ -1,2 +1,2 @@
-## Schedule 2 — Consequential amendments
-[s. 98]
+## Glossary
+[s. 3]
