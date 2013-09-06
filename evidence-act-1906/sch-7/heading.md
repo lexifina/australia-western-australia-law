@@ -15,14 +15,14 @@ repealed Code section means a repealed section of The Criminal Code that, before
 2.A proceeding also comes within the provisions of the Schedule if it is an application under Part 4 or 5 of the Children and Community Services Act 2004.
 3.A proceeding also comes within the provisions of the Schedule if it is a proceeding by way of appeal from a decision made, or a penalty imposed, in any proceeding that comes within clause 1 or 2.
 4.Clause 1(1)(c) applies to —
-(a) a parent, step-parent, grandparent, step-grandparent, brother, sister, step-brother, step-sister, uncle, aunt, nephew or niece of the complainant and a child of any uncle or aunt of the complainant;
+(a) a parent, step-parent, grandparent, step-grandparent, brother, sister, step-brother, step-sister, uncle, aunt, nephew or niece of the complainant and a child of any uncle or aunt of the complainant; or
 (b) a person who is or was, at the time when the offence was committed, living in the same household as the complainant; or
 (c) a person who at any time had the care of, or exercised authority over, the complainant in the household on a regular basis,
 and it is immaterial whether a relationship referred to in paragraph (a) is of the whole blood or of the half blood.
 [Part A inserted by No. 36 of 1992 s. 10; amended by No. 17 of 2000 s. 64; No. 71 of 2000 s. 30; No. 34 of 2004 s. 251; No. 46 of 2004 s. 29.]
 ## Part B
 [Heading inserted by No. 17 of 2000 s. 64.]
-Chapter or Section | Matter to which Chapter or section relates
+Chapter or section | Matter to which Chapter or section relates
 The Criminal Code
 181 | Carnal knowledge of animal
 186 | Occupier or owner allowing certain persons to be on premises for unlawful carnal knowledge
@@ -42,7 +42,7 @@ Prostitution Act 2000
 [Part B inserted by No. 17 of 2000 s. 64; amended by No. 3 of 2002 s. 35(2).]
 ## Part C
 [Heading inserted by No. 36 of 1992 s. 10.]
-Chapter or Section | Matter to which Chapter or section relates
+Chapter or section | Matter to which Chapter or section relates
 XXVIII | Homicide; suicide; concealment of birth
 292 | Disabling in order to commit indictable offence
 293 | Stupefying in order to commit indictable offence
