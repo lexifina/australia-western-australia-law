@@ -1,7 +1,7 @@
 ## The Fifth Schedule
 [Section 61]
 Column 1 | Column 2
-Name of Officer, Department, Body or Board | Names of Certifying Officers
+Name of officer, department, body or board | Names of certifying officers
 The Governor | The Governor or his Private Secretary
 The Governor in Executive Council | The Clerk of the Executive Council
 The Legislative Council or Legislative Assembly | The Clerk or Clerk Assistant
