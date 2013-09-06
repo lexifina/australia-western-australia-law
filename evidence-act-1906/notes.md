@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Evidence Act 1906 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This reprint is a compilation as at 6 September 2013 of the Evidence Act 1906 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Evidence Act 1906 | 28 of 1906 (6 Edw. VII No. 28) | 14 Dec 1906 | 14 Dec 1906
@@ -94,7 +94,7 @@ Child Care Services Act 2007 Pt. 7 Div. 3 | 19 of 2007 | 3 Jul 2007 | 10 Aug 200
 Reprint 14: The Evidence Act 1906 as at 8 Feb 2008 (includes amendments listed above)
 Criminal Law and Evidence Amendment Act 2008 Pt. 5 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Acts Amendment (Justice) Act 2008 Pt. 11 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Duties Legislation Amendment Act 2008 Sch. 1 cl. 8 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Legal Profession Act 2008 s. 662 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Children and Community Services Amendment (Reporting Sexual Abuse of Children) Act 2008 s. 12 | 26 of 2008 | 19 Jun 2008 | 1 Jan 2009 (see s. 2(b) and Gazette 9 Dec 2008 p. 5107)
 Criminal Law Amendment (Homicide) Act 2008 s. 33 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
@@ -103,45 +103,18 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 7 | 8 of 2009 | 21 M
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 5 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 Evidence and Public Interest Disclosure Legislation Amendment Act 2012 Pt. 2 | 31 of 2012 | 2 Oct 2012 | 21 Nov 2012 (see s. 2(b) and Gazette 20 Nov 2012 p. 5685)
+Reprint 16: The Evidence Act 1906 as at 6 Sep 2013 (includes amendments listed above)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 11 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 31 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Organisations Control Act 2012 s. 177 | 49 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:
-“
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
-”.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
-Repealed by the Defamation Act 2005.
-On the date as at which this compilation was prepared, the Criminal Organisations Control Act 2012 s. 177 had not come into operation. It reads as follows:
-177.Evidence Act 1906 amended
-(1) This section amends the Evidence Act 1906.
-(2) In section 106A insert in alphabetical order:
-criminal organisation has the meaning given in The Criminal Code section 221D;
-criminal organisation offence means an offence alleged to have been committed (whether before or after the Criminal Organisations Control Act 2012 section 177 comes into operation) —
-(a)by a person who, at the time of the commission of the alleged offence, is alleged to have been a member of a criminal organisation; or
-(b)at the direction of a criminal organisation; or
-(c)in association with one or more members of a criminal organisation (whether or not those members are or have been charged with, or convicted of, the offence); or
-(d)for the benefit of a criminal organisation;
-victim, in relation to a serious sexual offence or a criminal organisation offence, means a person upon or in respect of whom it is alleged that the offence was committed, attempted or proposed;
-(3) In section 106G(3) in the definition of protected witness delete paragraph (b) and insert:
-(b)if the proceeding is for a serious sexual offence, the victim (irrespective of the person’s age); or
-(c)if the proceeding is for a criminal organisation offence —
-(i)the victim (irrespective of the person’s age); or
-(ii)any witness for the prosecution (irrespective of the person’s age).
-(4) In section 106R(3a) delete “person upon or in respect of whom it is alleged that the offence was committed, attempted or proposed” and insert:
-victim of the offence
-(5) After section 106R(3a) insert:
-(3B) Despite subsection (3), in any proceeding for a criminal organisation offence an order must be made under subsection (1) in respect of any person who is a victim of the offence or a witness for the prosecution unless the court is satisfied —
-(a) that subsection (3) does not apply to the person; and
-(b) that the person does not wish to be declared to be a special witness.
-(6) In section 106R(8) delete “a person referred to in subsection (3a)” and insert:
-or a criminal organisation offence a person referred to in subsection (3a) or (3B), as the case requires,
-Footnote no longer applicable.
+The Newspaper Libel and Registration Act 1884 was repealed by the Defamation Act 2005.
 The Acts Amendment (Video and Audio Links) Act 1998 s. 3 reads as follows:
-“
 3.Power to use certain technology
 (1) Nothing in the amended provisions is to be taken as preventing the use by a court or other person acting judicially of a video link or audio link (as those terms are defined in section 121 of the Evidence Act 1906) in any case where the court or person thinks fit and where the use of the video link or audio link would not be contrary to law.
 (2) In subsection (1) —
@@ -151,19 +124,13 @@ amended provisions means —
 (c)the Justices Act 1902; and
 (d)the Sentencing Act 1995,
 as amended by this Act.
-”.
 The amendment in the Land Information Authority Act 2006 s. 133 to the Fifth Schedule is not included because the entry it sought to amend had been amended by the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 37.
 The Evidence Act Amendment Act 1974 is not included as it was repealed by the Evidence Amendment Act 1987 s. 10.
 The Acts Amendment (Abortion) Act 1998 s. 6(2) reads as follows:
-“
 (2) In relation to an offence committed before the commencement of this Act, the Evidence Act 1906 applies as if subsection (1) had not been enacted.
-”.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 14(2) reads as follows:
-“
 (2) Despite the amendment effected by subsection (1), the Evidence Act 1906 as in force before the commencement of this Act continues to apply on and after that commencement in relation to an embargo notice that has effect under section 8 of this Act.
-”.
 The Taxation Administration (Consequential Provisions) Act 2002 s. 33 and 34 read as follows:
-“
 33.Definitions
 In this Part —
 commencement day means the day on which the Taxation Administration Act 2003 comes into operation;
@@ -197,22 +164,18 @@ as if this Act and the taxation Acts had not commenced.
 (5) If the time limited by an old Act for doing anything is longer than the time limited by a taxation Act for doing the equivalent thing under that Act, then in relation to a matter to which subsection (3) applies, the time limited under the old Act applies in relation to the doing of the thing under the taxation Act.
 (6) If the time limited by an old Act for commencing proceedings in relation to an offence under that Act is shorter than the 5 year period limited by section 111 of the Taxation Administration Act 2003, then despite section 111, proceedings in relation to an offence under the old Act (including an offence under a provision of the old Act that is continued in force under this Part) cannot be commenced after the expiry of the shorter period provided for by the old Act.
 (7) In this section a reference, in relation to the Stamp Act 1921, to the repeal of the old Act is a reference to the amendment of the Act by the Stamp Amendment Act 2003.
-”.
 The Criminal Law Amendment (Sexual Assault and Other Matters) Act 2004 Pt. 4 reads as follows:
-“
 Part 4 — Transitional and validation
 30.Validation of payments
 (1) In this section —
 fee regulations means regulations 6(2) and 13 of the Evidence (Witnesses’ and Interpreters’ Fees and Expenses) Regulations 1976.
 (2) Any payment purporting to have been made under the fee regulations before the coming into operation of section 28 is taken to have been, and to have always been, as valid as it would have been if section 28 had come into operation before the fee regulations were made.
-”.
 The amendment in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 78 to s. 56(1) is not included because that subsection was replaced by s. 82 (Sch. 2 it. 118) of the same Act.
 The amendment in the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 36 to s. 106A is not included because the paragraph it sought to amend had been amended by the Children and Community Services Act 2004 Sch. 2 cl. 9.
-On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 31 had not come into operation. It reads as follows:
-“
+On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 31 had not come into operation. It reads as follows:
 31.Evidence Act 1906 amended
 (1) The amendments in this section are to the Evidence Act 1906.
-(2) Section 36A(1) paragraph (a) of the definition of “sexual offence” is amended as follows:
+(2) Section 36A(1) paragraph (a) of the definition of sexual offence is amended as follows:
 (a) by deleting “or 191(1)(a)”;
 (b) by deleting “Prostitution Act 2000;” and inserting instead —
 “ Sexual Services Act 2000; ”.
@@ -225,18 +188,38 @@ On the date as at which this compilation was prepared, the Prostitution Amendmen
 (c) by deleting “prostitute” in each place where it occurs and inserting instead —
 “ sex worker ”;
 (d) by deleting the entries relating to sections 17, 18, 20 and 21 of the Prostitution Act 2000 and inserting instead —
-“
 17 | Obtaining payment for commercial sexual act by a child
 18 | Agreement for child to act as a sex worker
 20 | Commercial sexual act at place where child present
 21 | Allowing child to be at place involving commercial sexual act or certain sexual service businesses
 21A | Obligations of those who operate sexual service business in relation to children
-”.
-”.
-Defined Terms
+On the date as at which this reprint was prepared, the Criminal Organisations Control Act 2012 s. 177 had not come into operation. It reads as follows:
+177.Evidence Act 1906 amended
+(1) This section amends the Evidence Act 1906.
+(2) In section 106A insert in alphabetical order:
+criminal organisation has the meaning given in The Criminal Code section 221D;
+criminal organisation offence means an offence alleged to have been committed (whether before or after the Criminal Organisations Control Act 2012 section 177 comes into operation) —
+(a)by a person who, at the time of the commission of the alleged offence, is alleged to have been a member of a criminal organisation; or
+(b)at the direction of a criminal organisation; or
+(c)in association with one or more members of a criminal organisation (whether or not those members are or have been charged with, or convicted of, the offence); or
+(d)for the benefit of a criminal organisation;
+victim, in relation to a serious sexual offence or a criminal organisation offence, means a person upon or in respect of whom it is alleged that the offence was committed, attempted or proposed;
+(3) In section 106G(3) in the definition of protected witness delete paragraph (b) and insert:
+(b)if the proceeding is for a serious sexual offence, the victim (irrespective of the person’s age); or
+(c)if the proceeding is for a criminal organisation offence —
+(i)the victim (irrespective of the person’s age); or
+(ii)any witness for the prosecution (irrespective of the person’s age).
+(4) In section 106R(3a) delete “person upon or in respect of whom it is alleged that the offence was committed, attempted or proposed” and insert:
+victim of the offence
+(5) After section 106R(3a) insert:
+(3B) Despite subsection (3), in any proceeding for a criminal organisation offence an order must be made under subsection (1) in respect of any person who is a victim of the offence or a witness for the prosecution unless the court is satisfied —
+(a) that subsection (3) does not apply to the person; and
+(b) that the person does not wish to be declared to be a special witness.
+(6) In section 106R(8) delete “a person referred to in subsection (3a)” and insert:
+or a criminal organisation offence a person referred to in subsection (3a) or (3B), as the case requires,
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-a broadcast36C(4)
+Defined termProvision(s)
 accused36A(1), 106A
 Act3
 affected child106A
@@ -248,20 +231,21 @@ authorised officer50B(1)
 authority104A(5)
 bank3
 bankers’ books3
-broadcast106MB(3)
+broadcast36C(4),106MB(3)
 business79B
 business day50B(1)
 business record79B
 child106A
 colony3
+Commonwealth3
 complainant19A(1), 36A(1), 36C(4)
-confidant20A(1), 20A(1)
+confidant20A(1)
 confider20E(1)
 corroboration warning50(1)
 counsel106A
 counselling communication19A(1)
 counsellor19A(1)
-counsels19A(1), 19A(2)
+counsels19A(1) and (2)
 court3, 79B
 criminal proceedings119(1)
 derived79B
@@ -298,8 +282,7 @@ opinion rule27B(4)
 participating jurisdiction120(1)
 party19C(7), 50B(1)
 periodical42
-person acting judicially3
-person acting judicially 20G
+person acting judicially3, 20G
 photograph3
 prisoner3
 privilege32A(2)
@@ -315,13 +298,14 @@ protected confider20A(1)
 protected identity information20A(1)
 protected person19A(1)
 protected witness106G(3)
+protection provisions19A(1)
 protection provisions (journalists)20G
 protection provisions (PCR)20A(1)
 qualified person79B
 recognized court120(1)
 relationship evidence31A(1)
 relevant statement106H(3)
-repealed Code section9(6), 36A(1), Sch. 7,(2)
+repealed Code section9(6), 36A(1), Sch. 7 cl. 1(2)
 request115
 requesting court115
 require disclosure19A(1)
@@ -337,8 +321,6 @@ statement79B
 superior court109(1)
 support person19A(1)
 supporting affidavit19A(1)
-the Commonwealth3
-the protection provisions19A(1)
 the State3
 thing50B(1)
 tribunal120(1)
