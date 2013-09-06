@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Travel Agents Regulations 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 September 2013 of the Travel Agents Regulations 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Travel Agents Regulations 1986 | 19 Dec 1986 p. 4926-38 | 1 Feb 1987 (see r. 3 and Gazette 16 Jan 1987 p. 82)
@@ -45,11 +45,12 @@ Travel Agents Amendment Regulations (No. 2) 2012 | 15 Jun 2012 p. 2603-5 | r. 1 
 Travel Agents Amendment Regulations (No. 3) 2012 | 11 Sep 2012 p. 4346-7 | r. 1 and 2: 11 Sep 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Sep 2012 (see r. 2(b))
 Travel Agents Amendment Regulations (No. 2) 2013 | 27 Jun 2013 p. 2703-5 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Travel Agents Amendment Regulations 2013 | 20 Aug 2013 p. 3844 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
+Reprint 5: The Travel Agents Regulations 1986 as at 6 Sep 2013 (includes amendments listed above)
 The Rural and Industries Bank of Western Australia Act 1987 was repealed by the R and I Bank Act 1990, the short title of which was changed to the R and I Holdings Act 1990 by the Bank of Western Australia Act 1995.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection is called the Department of Commerce.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Category A8AA(4)
 Category B8AA(5)
 partnership6(3), 11A(4)

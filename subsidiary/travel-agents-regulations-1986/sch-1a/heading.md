@@ -18,7 +18,7 @@ Item | Institution | Course
 8 | Bill Healy (TIES) | Travel Consultant Certificate.
 9 | Bill Healy Travel Training | Advanced Travel Course.
 10 | Careers College | Travel Diploma Course.
-11 | Careers College (Brisbane), The | (a)Small Agency Manager Diploma; (b)Fares and Ticketing I;
+11 | Careers College (Brisbane), The | (a)Small Agency Manager Diploma; or (b)Fares and Ticketing I; or
  |  | (c)Fares and Ticketing II; or
  |  | (d)Fares and Ticketing I and II.
 12 | City Training and Education | Travel and Tourism Training Course.
@@ -27,7 +27,7 @@ Item | Institution | Course
 14 | Hayton Travel Training | The Fares and Ticketing Course.
 15 | IATA/UFTAA | (a)International Travel Agents Training Programme (Standard); or
  |  | (b)International Travel Agents Training Programme (Advanced).
-16 | Jetset Travel Training | (a)Diploma of Travel Fares;
+16 | Jetset Travel Training | (a)Diploma of Travel Fares; or
  |  | (b)Fares and Ticketing I; or
  |  | (c)Fares and Ticketing II.
 16a | Perth Commercial College | Travel & Tourism Course.
@@ -41,15 +41,15 @@ Item | Institution | Course
 22 | Stott’s Correspondence Course | Travel Consultant Certificate.
 23 | TAFE, ACT | Travel Consultants Diploma Course.
 24 | TAFE, NSW | Travel and Tourism Associate Diploma.
-25 | TAFE Queensland, College of | (a)Travel Consultant Certificate; (b)Consultants Advanced Certificate; or
+25 | TAFE Queensland, College of | (a)Travel Consultant Certificate; or (b)Consultants Advanced Certificate; or
  |  | (c)Associate Diploma in Business (Travel and Tourism).
 26 | TAFE South Australia, College | (a)Certificate in Travel Operations, Senior Travel Consultant; or
  |  | (b)Associate Diploma in Tourism.
 27 | TAFE Tasmania, College of | (a)Diploma in Travel and Tourism (Stage 1); or (b)Diploma in Travel and Tourism (Stage 2).
-28 | TAFE Victoria, College of | (a)Ticketing I; (b)Ticketing II; or
+28 | TAFE Victoria, College of | (a)Ticketing I; or (b)Ticketing II; or
  |  | (c)Certificate of Business Studies (Travel and Tourism).
-29 | TAFE, Western Australia | (a)Advanced Certificate of Travel Consulting;
- |  | (b)Certificate in Travel Operations;
+29 | TAFE, Western Australia | (a)Advanced Certificate of Travel Consulting; or
+ |  | (b)Certificate in Travel Operations; or
  |  | (c)Fares and Ticketing I; or
  |  | (d)Fares and Ticketing II.
 30 | Thomas Cook | Fares and Ticketing I.
