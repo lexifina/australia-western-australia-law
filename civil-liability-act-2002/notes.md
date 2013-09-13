@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Civil Liability Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 13 September 2013 of the Civil Liability Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Civil Liability Act 2002 | 35 of 2002 | 20 Nov 2002 | s. 1 and 2: 20 Nov 2002; Act other than s. 1 and 2: 1 Jan 2003 (see s. 2 and Gazette 17 Dec 2002 p. 5905)
@@ -27,14 +27,15 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 9 | 35 of 2
 Acts Amendment (Fair Trading) Act 2010 s. 193 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 Pt. 2 | 1 of 2011 | 1 Mar 2011 | 1 Jan 2013 (see s. 2(b) and Gazette 14 Dec 2012 p. 6195)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 3 | 11 of 2012 | 20 Jun 2012 | 1 Jan 2013 (see s. 2(b)(ii) and Gazette 14 Dec 2012 p. 6195)
-Defined Terms
+Reprint 4: The Civil Liability Act 2002 as at 13 Sep 2013 (includes amendments listed above)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Amount A9(4)
 Amount B12(4)
 Amount C9(4)
 apology5AF
-apportionable claim5AI(1)
+apportionable claim5AI
 approved21(3)
 carry out road work5Z(1)
 child5I(16)
@@ -42,7 +43,7 @@ child care service5AAA
 client16
 commencement day5A(5), 5R(5), 5V(5), 5AAB(1), 5AC(6), 5AG(5)
 community kindergarten5AAA
-concurrent wrongdoer5AI(1)
+concurrent wrongdoer5AI
 consequential mental harm5Q
 convicted21(3)
 dangerous recreational activity5E
@@ -51,7 +52,7 @@ emergency assistance5AB
 emergency medical assistance5AAA
 enrolled child5AAA
 excluded concurrent wrongdoer5AJA(1)
-factual causation5C(1)(a)
+factual causation5C(1)
 fee20(4)
 good samaritan5AB
 harm3
@@ -60,19 +61,19 @@ hospital16
 incompetent person5I(16)
 inherent risk5E
 injured person5C(3)
-insurer19(8)(e)
+insurer19(8)
 intoxicated5L(4)
 law practice16
 legal practitioner16
 loss of earnings11(2)
-LPI4(2)(a)
+LPI4(2)
 medical qualifications5AB
 medically qualified good samaritan5AB
 mental harm5Q
 misconduct21(3)
 non-pecuniary loss9(4)
 obvious risk5E, 5M
-other person5AKA(1)(a)
+other person5AKA(1)
 person attending19(11)
 person having contact19(11)
 person obtaining information19(11)
@@ -81,6 +82,7 @@ personal injury damages3
 plaintiff5H(1), 5I(1), 5O(1), 5S(1)
 policy decision5U
 potential claimant16
+preceding financial year4(1)
 printed publication16
 public body or officer5U
 public place16
@@ -88,13 +90,12 @@ publish16
 pure mental harm5Q
 recreational activity5E
 recreational services5J(7)
+relevant financial year4(1)
+relevant quarter12(6)
 road5Z(1)
 roads authority5Z(1)
-scope of liability5C(1)(b)
+scope of liability5C(1)
 staff member5AAA
 structured settlement14
-the preceding financial year4(1)
-the relevant Act21(1)(a)
-the relevant financial year4(1)
-the relevant quarter12(6)
+the relevant Act21(1)
 tortfeasor5C(1)
