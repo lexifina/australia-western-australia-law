@@ -84,7 +84,7 @@ Form 8
 Poisons Act 1964
 POISONS PERMIT (EDUCATIONAL, ADVISORY OR RESEARCH)
 This permit is granted to ................................................................................. and authorises that person to purchase on behalf of.............................................. —
-(a)the poisons included in Schedules ................................................. to the Poisons Act 1964;
+(a)the poisons included in Schedules ................................................... to the Poisons Act 1964;
 (b)the following poisons —
 This permit is issued subject to the following conditions —
 (1)the poisons will be stored only at premises situated at .................... ...........................................................................................................
@@ -147,7 +147,7 @@ Form 13
 Poisons Act 1964
 POISONS PERMIT (DEPARTMENTAL AND HOSPITAL)
 This permit is granted to ................................................................................ and authorises that person to purchase on behalf of ............................................. —
-(a)the poisons included in Schedules ................................................. to the Poisons Act 1964;
+(a)the poisons included in Schedules ................................................... to the Poisons Act 1964;
 (b)the following poisons —
 ...........................................................................................................
 ...........................................................................................................
@@ -198,8 +198,7 @@ CEO
 Form 14
 Poisons Act 1964
 APPLICATION FOR APPROVAL OF NEEDLE AND SYRINGE PROGRAMME
-I ................................................. of ........................................................................ hereby apply on behalf of ......................................................................................
-for the approval of the following needle and syringe programme —
+I ................................................. of ........................................................................ hereby apply on behalf of ...................................................................................... for the approval of the following needle and syringe programme —
 .................................................................................................................................
 [specify precisely the activities, and the persons or
 .................................................................................................................................
