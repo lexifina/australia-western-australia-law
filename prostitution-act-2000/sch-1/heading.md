@@ -28,5 +28,5 @@ s. 343
 s. 396, 397, or 398
 Children and Community Services Act 2004
 s. 192(1) or (2)
-[Schedule 1 amended by No. 34 of 2004 s. 251; No. 10 of 2006 s. 4(2); No. 2 of 2008 s. 69; No. 21 of 2010 s. 14.]
+[Schedule 1 amended by No. 34 of 2004 Sch. 2 cl. 20(3); No. 10 of 2006 Sch. 1 cl. 3; No. 2 of 2008 s. 69; No. 21 of 2010 s. 14.]
 [Schedule 2 omitted under the Reprints Act 1984 s. 7(4)(e).]
