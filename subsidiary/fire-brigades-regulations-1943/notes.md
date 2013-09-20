@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fire Brigades Regulations 1943 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 20 September 2013 of the Fire Brigades Regulations 1943 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fire Brigades Act Regulations | 4 Jun 1943 p. 552-76 | 17 Sep 1943
@@ -31,9 +31,9 @@ Untitled regulations | 19 Feb 1964 p. 678-9 | 19 Feb 1964
 Untitled regulations | 16 Apr 1964 p. 1935-6 | 16 Apr 1964
 Untitled regulations | 23 Jun 1964 p. 2497 | 23 Jun 1964
 Untitled regulations | 8 Jan 1965 p. 10 | 8 Jan 1965
-Reprint of the Fire Brigades Act Regulations authorised 14 Apr 1965 in Gazette 28 Apr 1965 p. 1183-229 (includes amendments listed above except those in 8 Jan 1965)
+Reprint of the Fire Brigades Act Regulations authorised 14 Apr 1965 in Gazette 28 Apr 1965 p. 1183-229 (includes amendments listed above except those in Gazette 8 Jan 1965)
 Untitled regulations | 12 May 1965 p. 1458 | 12 May 1965
-Decimal Currency Act 1965 assented to 21 Dec 1965 | s. 4-9: 14 Feb 1966 (see s. 2(2)); balance: 21 Dec 1965 (see s. 2(1))
+Decimal Currency Act 1965 assented to 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
 Untitled regulations | 6 Jan 1966 p. 12-13 | 6 Jan 1966
 Untitled regulations | 22 Apr 1966 p. 967 | 22 Apr 1966
 Untitled regulations | 7 Sep 1966 p. 2383 | 7 Sep 1966
@@ -52,7 +52,7 @@ Untitled regulations | 3 Aug 1973 p. 2905 | 1 Oct 1973
 Untitled regulations | 9 Nov 1973 p. 4167-8 | 9 Nov 1973
 Untitled regulations | 5 Apr 1974 p. 1195 | 5 Apr 1974
 Untitled regulations | 14 Jun 1974 p. 1879 | 14 Jun 1974
-General Metric Conversion Amendment Notice | 2 Aug 1974 p. 2875 | 2 Aug 1974
+Untitled notice under the Metric Conversion Act 1972 s. 6 | 2 Aug 1974 p. 2875 | 2 Aug 1974
 Untitled regulations | 23 Aug 1974 p. 3125 | 23 Aug 1974
 Untitled regulations | 24 Dec 1975 p. 4645 | 24 Dec 1975
 Untitled regulations | 19 Nov 1976 p. 4587 | 19 Nov 1976
@@ -86,8 +86,8 @@ Fire Brigades Amendment Regulations 2009 | 31 Mar 2009 p. 1025-7 | r. 1 and 2: 3
 Fire Brigades Amendment Regulations (No. 2) 2012 | 31 Oct 2012 p. 5233-44 | r. 1 and 2: 31 Oct 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2012 (see r. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Fire Brigades Amendment Regulations (No. 3) 2012 | 18 Jan 2013 p. 147 | r. 1 and 2: 18 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jan 2013 (see r. 2(b))
 Fire Brigades Amendment Regulations 2013 | 4 Jun 2013 p. 2137-9 | r. 1 and 2: 4 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jun 2013 (see r. 2(b))
+Reprint 5: The Fire Brigades Regulations 1943 as at 20 Sep 2013 (includes amendments listed above)
 Headings preceding groups of regulations were repealed by the Fire Brigades Amendment Regulations 1989. Regulation 2 of those regulations reads as follows:
-“
 2.Headings deleted
 For the purposes of facilitating a reprint of the Fire Brigades Regulations 1943, those regulations are amended —
 (a) by deleting the heading “Medical Fitness of Employees” in respect of regulations 132A to 132C;
@@ -103,12 +103,12 @@ Regulation 114Regulation 184
 Regulation 119Regulation 192
 Regulation 124Regulation 193
 Regulation 128Regulation 228
-”.
-Footnote no longer applicable.
+Deleted by the Fire and Emergency Services Legislation (Emergency Services Levy) Amendment Act 2002 s. 23.
+Deleted by the Fire and Emergency Services Legislation Amendment Act 2002 s. 61.
 Now known as the Fire Brigades Regulations 1943; citation changed (see note under r. 1).
-The Fire Brigades Amendment Regulations (No. 4) 1986 was a savings provision that is of no further effect.
+The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
+The Fire Brigades Amendment Regulations (No. 4) 1986 r. 6 was a savings provision that is of no further effect.
 The Fire Brigades Amendment Regulations 2003 r. 30 reads as follows:
-“
 30.Savings
 (1) If immediately before the commencement of these regulations —
 (a) an enquiry under regulation 177 of the former regulations; or
@@ -117,6 +117,25 @@ has been started but not completed, the former regulations continue in operation
 (2) The former regulations continue in operation to the extent necessary for an appeal under regulation 179 of those regulations against a penalty imposed as a result of an enquiry under regulation 177 that is continued and completed by the operation of subregulation (1).
 (3) In this regulation —
 former regulations means the Fire Brigades Regulations 1943, as in force immediately before the commencement of these regulations.
-”.
-The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
-The Fire Brigades Amendment Regulations (No. 2) 2012 regulation 28 stated as follows: Delete the Schedule.
+The Fire Brigades Amendment Regulations (No. 2) 2012 r. 28 stated as follows: Delete the Schedule.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Association158
+brigade158
+commencement day134A(1)
+district158
+employee96
+former brigade169(1)
+investigator177(2)
+member158, 159E(1)
+new brigade169(1)
+occupier229(b)
+officer’s report177(1)
+operational staff96
+owner229(b)
+paid outside employment134A(1)
+person229(b)
+prescribed amount190(2)
+registered158
+weekly wages132(2)
