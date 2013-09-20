@@ -1,6 +1,6 @@
 ## Schedule 3 — Documents that a real estate settlement agent may draw or prepare
-[Heading inserted in Gazette 23 May 1997 p. 2421.]
 [Reg. 11]
+[Heading inserted in Gazette 23 May 1997 p. 2421.]
 ## Part A — Offer and acceptance
 1.“Contract for Sale of Land by Offer and Acceptance” (1994 revision) incorporating the “1994 Joint Form of General Conditions for the Sale of Land”, as adopted jointly by the Law Society of Western Australia (Inc) and the Real Estate Institute of Western Australia (Inc) and approved by the Settlement Agents Association (Inc) and the Associated Settlement Agents of Western Australia (Inc).
 2.“Contract for Sale of Strata Title Property by Offer and Acceptance” incorporating the “1994 Joint Form of General Conditions for the Sale of Land”, as adopted jointly by the Law Society of Western Australia (Inc) and the Real Estate Institute of Western Australia (Inc) and approved by the Settlement Agents Association (Inc) and the Associated Settlement Agents of Western Australia (Inc).
@@ -76,7 +76,7 @@ s. 221 | Application by remainderman on a transmission
 s. 227 | Application by the survivor of joint proprietors
 s. 240A | Application to change an address;
 (b)a withdrawal of a caveat lodged by a purchaser or mortgagee, or prepared by the licensee to protect the interest of a purchaser or mortgagee for whom the licensee is acting, if —
-(i)there is to be lodged with the withdrawal a transfer of the whole of the land the subject of the withdrawal to the caveator or to a person nominated in writing by the caveator, or if there is more than one caveator, by each of them;
+(i)there is to be lodged with the withdrawal a transfer of the whole of the land the subject of the withdrawal to the caveator or to a person nominated in writing by the caveator, or if there is more than one caveator, by each of them; and
 (ii)no other person has acquired or claims any interest in the land that has priority over, or that is adverse to, the caveator’s claim; and
 (iii)no dealing that is adverse to, or that derogates from, the caveator’s claim is lodged or is to be lodged after the withdrawal and before the transfer to the caveator or the caveator’s nominee;
 (c)an application to amend the Register as to the name of a registered proprietor;

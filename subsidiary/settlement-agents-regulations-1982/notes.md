@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 20 August 2010 of the Settlement Agents Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 20 September 2013 of the Settlement Agents Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Settlement Agents Regulations 1982 | 19 Mar 1982 p. 886-7 | 19 Mar 1982
@@ -35,7 +35,7 @@ Settlement Agents Amendment Regulations (No. 2) 2007 | 29 Jun 2007 p. 3187-8 | r
 Settlement Agents Amendment Regulations (No. 3) 2007 | 26 Oct 2007 p. 5651-2 | r. 1 and 2: 26 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Oct 2007 (see r. 2(b))
 Settlement Agents Amendment Regulations (No. 4) 2007 | 28 Dec 2007 p. 6407-11 | r. 1 and 2: 28 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Dec 2007 (see r. 2(b))
 Reprint 4: The Settlement Agents Regulations 1982 as at 1 Feb 2008 (includes amendments listed above)
-Settlement Agents Amendment Regulations 2008 | 17 Jun 2008 p. 2559-60 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Settlement Agents Amendment Regulations 2008 | 17 Jun 2008 p. 2559-60 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Settlement Agents Amendment Regulations (No. 2) 2008 | 23 Dec 2008 p. 5469-70 | r. 1 and 2: 23 Dec 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Dec 2008 (see r. 2(b))
 Settlement Agents Amendment Regulations 2009 | 23 Jun 2009 p. 2455-6 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Settlement Agents Amendment Regulations 2010 | 25 Jun 2010 p. 2852-3 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
@@ -46,8 +46,11 @@ Settlement Agents Amendment Regulations (No. 2) 2012 | 15 Jun 2012 p. 2601-2 | r
 Settlement Agents Amendment Regulations 2012 | 11 Sep 2012 p. 4345-6 | r. 1 and 2: 11 Sep 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Sep 2012 (see r. 2(b))
 Settlement Agents Amendment Regulations (No. 3) 2013 | 27 Jun 2013 p. 2701-2 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Settlement Agents Amendment Regulations 2013 | 20 Aug 2013 p. 3841 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
+Reprint 6: The Settlement Agents Regulations 1982 as at 20 Sep 2013 (includes amendments listed above)
+Schedule 2 clause 2(fa) was deleted by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 59.
+Repealed by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011.
 These regulations were in place of the Settlement Agents Amendment Regulations 1996 published in Gazette 5 Jul 1996 p. 3224-5. Those regulations were published in the Gazette after the day on which they purported to commence (1 Jul 1996 — see proclamation published in Gazette 1 Jul 1996 p. 3179 fixing 1 Jul 1996 as the day on which Part 9 of the Business Licensing Amendment Act 1995 came into operation).
-The Settlement Agents Amendment Regulations (No. 2) 2004 r. 4 (as amended in Gazette 21 Jan 2004 p. 258 and 16 Jun 2006 p. 2122) reads as follows:
+The Settlement Agents Amendment Regulations (No. 2) 2004 r. 4 (as amended in Gazette 21 Jan 2005 p. 258 and 16 Jun 2006 p. 2122) reads as follows:
 4.Transitional
 Despite the repeal effected by regulation 3, in relation to an application for a licence made under Part III of the Act before 1 July 2007, a person is taken to have passed the examinations prescribed for the purposes of clause 1(1)(a) or 2(1)(a) of Schedule 1 to the Act if the person has passed the examinations —
 (a) prescribed by the repealed regulation 6; or
@@ -56,9 +59,9 @@ Despite the repeal effected by regulation 3, in relation to an application for a
 (ii) a Certificate IV in Conveyancing.
 [Regulation 4 amended in Gazette 21 Jan 2005 p. 258; 16 Jun 2006 p. 2122.]
 The Settlement Agents Amendment Regulations (No. 2) 2008 were published on 23 Dec 2008 p. 5469-70 and again on 30 Dec 2008 p. 5640-1. The publication of 30 Dec 2008 has no effect.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 approved educational activity2
 core professional development subject2
 holding fee4A(1)
