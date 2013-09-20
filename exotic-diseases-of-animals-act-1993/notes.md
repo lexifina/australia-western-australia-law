@@ -1,15 +1,18 @@
 Notes
 This is a compilation of the Exotic Diseases of Animals Act 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
- | Short title | Number and year | Assent | Commencement
- | Exotic Diseases of Animals Act 1993 | 33 of 1993 | 16 Dec 1993 | 4 Feb 1994 (see s. 2 and Gazette 4 Feb 1994 p. 339)
- | Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
- | Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
- | Reprint 1: The Exotic Diseases of Animals Act 1993 as at 23 Jan 2004 (includes amendments listed above)
- | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
- | Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
- | Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 88 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
+Short title | Number and year | Assent | Commencement
+Exotic Diseases of Animals Act 1993 | 33 of 1993 | 16 Dec 1993 | s. 1 and 2: 16 Dec 1993; Act other than s. 1 and 2: 4 Feb 1994 (see s. 2 and Gazette 4 Feb 1994 p. 339)
+Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
+Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
+Reprint 1: The Exotic Diseases of Animals Act 1993 as at 23 Jan 2004 (includes amendments listed above)
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 61 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 88 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 55 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Reprint 2: The Exotic Diseases of Animals Act 1993 as at 20 Sep 2013 (includes amendments listed above)
+Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
+Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
