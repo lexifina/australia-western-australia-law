@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 12 July 2013 of the Freedom of Information Regulations 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Freedom of Information Regulations 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Freedom of Information Regulations 1993 | 22 Oct 1993 p. 5800-2 | 1 Nov 1993 (see r. 2 and Gazette 29 Oct 1993 p. 5881)
@@ -15,6 +15,7 @@ Freedom of Information Amendment Regulations 2012 | 6 Mar 2012 p. 896 | r. 1 and
 Freedom of Information Amendment Regulations (No. 3) 2012 | 7 Dec 2012 p. 5993 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Dec 2012 (see r. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Freedom of Information Amendment Regulations 2013 | 5 Feb 2013 p. 836-7 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b)(i) and Gazette 5 Feb 2013 p. 823)
 Reprint 2: The Freedom of Information Regulations 1993 as at 12 Jul 2013 (includes amendments listed above)
+Freedom of Information Amendment Regulations (No. 2) 2013 | 24 Sep 2013 p. 4388-9 | r. 1 and 2: 24 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Sep 2013 (see r. 2(b))
 Under the Public Sector Management Act 1994 the designations of departments can be altered. At the time of this reprint the designation of the Department for Child Protection has been altered to the Department for Child Protection and Family Support.
 Under the Alteration of Statutory Designations Order (No. 4) 2013 a reference in any law to the Department for Communities is to be read and construed as a reference to the Department of Local Government and Communities unless the context of the reference requires otherwise.
 Under the Alteration of Statutory Designations (DPI) Order 2009 (as amended by the Alteration of Statutory Designations Order (No. 3) 2013) a reference in any law to the Department for Planning and Infrastructure is to be read and construed, according to the function, office or other matter to which the reference relates, as a reference to the Department of Planning, Department of Transport, Department of Lands or Department of Regional Development, unless the context of the reference requires otherwise.

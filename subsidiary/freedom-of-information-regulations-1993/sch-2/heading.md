@@ -1,6 +1,6 @@
 ## Schedule 2 — Offices and bodies to be regarded as part of other agencies
 [r. 10]
-[Heading inserted in Gazette 28 Dec 2007 p. 6415.]
+[Heading inserted: Gazette 28 Dec 2007 p. 6415.]
 Column 1 Agency | Column 2 Office or body
 Department for Child Protection | Adoption Applications Committee
 Case Review Panel
@@ -219,17 +219,10 @@ Rural and Remote Education Advisory Council
 Teacher Registration Board of Western Australia
 Training Accreditation Council
 Western Australian Higher Education Council
-Department of Environment and Conservation | Cockburn Sound Management Council
-Conservation Commission of Western Australia
+Department of Environment Regulation | Cockburn Sound Management Council
 Contaminated Sites Committee
-Environmental Protection Authority
 Keep Australia Beautiful Council
-Marine Parks and Reserves Authority
-Marine Parks and Reserves Scientific Committee
-Office of the Appeals Convenor
-Swan River Trust
-Waste Management (WA)
-Waste Management Board
+Waste Authority
 Department of Fisheries | Abrolhos Islands Management Advisory Committee
 Aquaculture Development Council
 Pearling Industry Advisory Committee
@@ -271,6 +264,10 @@ Rural, Remote and Regional Women’s Network
 WA Local Government Grants Commission
 WA Telecentre Advisory Board
 Western Australian Local Government Grants Commission
+Department of Parks and Wildlife | Conservation Commission of Western Australia
+Marine Parks and Reserves Authority
+Marine Parks and Reserves Scientific Advisory Committee
+Swan River Trust
 Department of Racing, Gaming and Liquor | Gaming and Wagering Commission of Western Australia
 Gaming Community Trust
 Problem Gambling Support Services Committee
@@ -326,6 +323,7 @@ Water Resource Allocation Committee
 Whicher Water Resource Management Group
 Disability Services Commission | Advisory Council for Disability Services
 Minister for the Environment | Appeals Convenor for the Environmental Protection Act 1986
+Office of the Environmental Protection Authority | Environmental Protection Authority
 Office of Energy | Aboriginal and Remote Communities Power Supply Steering Committee
 Advisory Committee for Wind-up of the Perth International Centre for the Application of Solar Energy
 Ministerial Advisory Committee on Electricity Supply
@@ -353,4 +351,4 @@ Land Surveyors Licensing Board
 Pastoral Board
 Valuer General’s Office
 WorkCover Western Australia Authority (Workcover WA) | Dispute Resolution Directorate
-[Schedule 2 inserted in Gazette 28 Dec 2007 p. 6415-23; amended in Gazette 6 Mar 2012 p. 893 and 896; 7 Dec 2012 p. 5993; 5 Feb 2013 p. 837.]
+[Schedule 2 inserted: Gazette 28 Dec 2007 p. 6415-23; amended: Gazette 6 Mar 2012 p. 893 and 896; 7 Dec 2012 p. 5993; 5 Feb 2013 p. 837; 24 Sep 2013 p. 4388-9.]
