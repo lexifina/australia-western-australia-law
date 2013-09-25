@@ -1,5 +1,5 @@
 ## Schedule 1
-[Heading amended in Gazette 30 Sep 1994 p. 4984.]
+[Heading amended: Gazette 30 Sep 1994 p. 4984.]
 [regulation 4, 5 and 6]
 Column 1Column 2
 1.Type of Fee$
@@ -18,4 +18,4 @@ and
 3.Advance Deposits
 (a)Advance deposit which may be required by an agency under section 18(1) of the Act, expressed as a percentage of the estimated charges which will be payable in excess of the application fee........25%
 (b)Further advance deposit which may be required by an agency under section 18(4) of the Act, expressed as a percentage of the estimated charges which will be payable in excess of the application fee............................................................75%
-[Schedule 1, formerly Schedule, amended in Gazette 12 Nov 1993 p. 6202; 30 Sep 1994 p. 4984.]
+[Schedule 1, formerly Schedule, amended: Gazette 12 Nov 1993 p. 6202; 30 Sep 1994 p. 4984.]
