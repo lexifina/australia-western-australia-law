@@ -170,7 +170,8 @@ Fish Resources Management Amendment Regulations (No. 4) 2013 | 28 Jun 2013 p. 28
 Reprint 12: The Fish Resources Management Regulations 1995 as at 19 Jul 2013 (includes amendments listed above)
 Fish Resources Management Amendment Regulations (No. 6) 2013 | 27 Aug 2013 p. 4053-7 | r. 1 and 2: 27 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Aug 2013 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 7) 2013 | 4 Sep 2013 p. 4179-83 | r. 1 and 2: 4 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2013 (see r. 2(b))
-Repealed by the Biosecurity and Agriculture Management (Identification and Movement of Stock and Apiaries) Regulations 2013.
+Fish Resources Management Amendment Regulations (No. 5) 2013 | 24 Sep 2013 p. 4437-56 | r. 1 and 2: 24 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Sep 2013 (see r. 2(b))
+Footnore no longer applicable.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Recreational Fishing Account.
@@ -180,13 +181,14 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Abalone Zone38DA
-Abrolhos Islands Fish Habitat Protection AreaSch. 2 Pt. 2 Div. 3 cl. 2(2)
+Abrolhos Islands Fish Habitat Protection AreaSch. 2, cl. 2(2)
 aircraft3(1)
 ALC55A
 ALC fishing boat55C(1)
 allowed time31(1)
 applicant124A(1), 124D(1)
-approved72
+approval to transport144A(1)
+approved72, 144A(1)
 approved automatic location communicator55A
 approved directions55A
 associated camp72
@@ -196,6 +198,7 @@ automatic location communicator55A
 bag limit3(1)
 bait band55E
 bait fish64OE(4)
+batch144A(1)
 boat124B(1)
 bona fide64I(2)
 camp72
@@ -203,6 +206,7 @@ cancelled authorisation129A
 carrier boat119(1)
 carrier boat licence3(1)
 Central West Zone38(1)
+certificate of health144A(1)
 charter boat16E(1)
 chlorine tarping110(2)
 closed season38G, 45(1)
@@ -217,11 +221,15 @@ dB(A)104(4)
 deep sea crab38A
 demersal finfish65A(1), 65B(1)
 demersal scalefish45(1), 64OAA(1)
-disease3(1)
+destroy144A(1)
+disease3(1), 144A(1)
+diseased144A(2)
+disinfect144A(1)
 disposable part16B(5)
 due date137(4)
 Easter Group Zone 38(1)
 eastern gulf land area3(1)
+farm lease144A(1)
 fillet3(1)
 finfish3(1), 16C, 65F(1A)
 fish processor’s licence3(1)
@@ -242,13 +250,18 @@ GDA152(1)
 gear identification number3(1)
 ground64I(2)
 GRS80152(2)
-interdorsal fin lengthSch. 2 Pt. 2 Div. 2
+hatchery144A(1)
+hatchery licence144A(1)
+hatchery permit144A(1)
+inspector144A(1)
+interdorsal fin lengthSch. 2,
 internal SLED38(1)
 jet ski3(1)
 jetty72
 Kalbarri Blue Holes waters3(1)
 Lancelin Island Lagoon3(1)
 large pelagic finfish65C(1)
+length144A(1)
 licence holder55A
 licensed boat72
 licensed carrier boat3(1)
@@ -274,6 +287,7 @@ November — April64OD(4)
 one day3(1)
 operator72
 package22(5), 61(3a)
+pearl oyster farm144A(1)
 Pelsaert Group Zone38(1)
 Pilbara and Kimberley Region3(1)
 Point Quobba restricted area113D
@@ -281,6 +295,7 @@ prawn hand trawl net3(1)
 prescribed abalone16GD(1)
 principal place of residence3(1)
 pull3(1)
+quarantine site144A(1)
 recreational (boat) fishing licence receipt124D(1)
 recreational fishing licence3(1), 136(1)
 recreational fishing licence receipt124A(1)
@@ -292,16 +307,20 @@ rock lobster licence72
 rock lobster pot3(1)
 rock lobster pot licence3(1)
 rock lobster tail3(1)
-Rottnest Island ReserveSch. 2 Pt. 2 Div. 3 cl. 4(2)
-Rowley Shoals Marine ParkSch. 2 Pt. 2 Div. 2
+Rottnest Island ReserveSch. 2, cl. 4(2)
+Rowley Shoals Marine ParkSch. 2,
+scheduled fish disease3(1)
 sea lion exclusion device38(3)
 Sea Lion Protection Zone38(1)
 section 224129A
 set3(1)
-setoseSch. 2 Pt. 2 Div. 1
+setoseSch. 2,
+settlement144A(1)
 share arrangement72
 single-sided fillet3(1), 16E(1)
 South Coast Region3(1)
+spat144A(1)
+spat collector144A(1)
 specified size14A
 store22(5)
 structure87
@@ -309,7 +328,7 @@ sunrise3(1)
 sunset3(1)
 tail clip31(1)
 tail punch31(1)
-tarspotSch. 2 Pt. 2 Div. 1
+tarspotSch. 2,
 unauthorised structure87
 unlicensed person124B(3)
 usual entitlement118A(2)
@@ -320,6 +339,8 @@ waters of the Shark Bay western gulf3(1)
 WCRL Managed Fishery55E
 West Coast Demersal Scalefish (Interim) Managed Fishery64OAA(1)
 West Coast Region3(1)
+Western Australian pearl oyster fishery144A(1)
 western gulf land area3(1)
 whole fish3(1)
 whole shark or ray16B(5)
+zone144A(1)

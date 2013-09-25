@@ -142,4 +142,42 @@ For a body corporate: $50 000.
 ______________________________________________________________________________
 * Delete where not applicable.
 ** Score through this section if not applicable.
-[Form 8 deleted in Gazette 30 Dec 2004 p. 6965.]
+Form 8
+[r. 144E(5)(b)(ii)]
+Fish Resources Management Act 1994
+DECLARATION REGARDING MORTALITY AND DISEASE OF PEARL OYSTERS
+Name: __________________________________________________
+Address: ________________________________________________
+_______________________________________________________
+Phone no: _______________________________________________
+I declare that:
+1.The sample of pearl oysters with which this declaration is submitted was taken on _____________________ from pearl oysters being held at (location of hatchery, quarantine site etc.) __________________________________________________
+__________________________________________________
+2.No unexplained mortalities have occurred, and no signs of clinical disease have been seen, in the last 12 months among pearl oysters being held at that place.
+Signature: _____________________
+Date: _________________________
+[Form 8 inserted in Gazette 24 Sep 2013 p. 4450-1.]
+Form 9
+[r. 144F(4)]
+Fish Resources Management Act 1994
+CERTIFICATE OF HEALTH — PEARL OYSTERS
+Name: __________________________________________________
+Address: ________________________________________________
+________________________________________________________
+Phone no: _______________________________________________
+I am an approved fish pathologist and certify that:
+1.This certificate has been issued in respect of a sample of pearl oysters marked ______________________ which was taken from pearl oysters being held at (location of hatchery, quarantine site etc.) __________________________________ The sample was delivered to me for disease testing on _____________ by _________________________________
+2.I have no reason to doubt the information given as to the origins of the pearl oysters or the levels of mortality or clinical disease in the hatchery, quarantine site or other place where the pearl oysters are being held.
+3.The following tests were carried out for clinical disease or significant pathogens.
+Test | Number tested | Date | Result
+4.No clinical disease or significant pathogen was detected in the sample.
+5.*The following genetic tests were carried out _______________
+___________________________________________________
+with the following results ______________________________
+___________________________________________________
+and no genetic components not of Western Australian origin were detected.
+* Delete if inapplicable.
+Signature: ____________________________ Approved fish pathologist
+Date: ________________________________
+OFFICE USE ONLY 1.AHL No: ________________________________________ 2.Name of licensee or permit holder: ___________________
+[Form 9 inserted in Gazette 24 Sep 2013 p. 4451-2.]
