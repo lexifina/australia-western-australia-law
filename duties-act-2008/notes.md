@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 August 2013 of the Duties Act 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Duties Act 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Duties Act 2008 | 11 of 2008 | 14 Apr 2008 | s. 1 and 2: 14 Apr 2008 (see s. 2(a)); Act other than s. 1 and 2 and Sch. 3 Div. 2: 1 Jul 2008 (see s. 2(b)); Sch. 3 Div. 2: deleted by No. 30 of 2008 s. 4
@@ -16,7 +16,8 @@ Revenue Laws Amendment Act 2012 Pt. 2 | 29 of 2012 | 3 Sep 2012 | Heading to Pt.
 Revenue Laws Amendment Act (No. 2) 2012 Pt. 2 | 32 of 2012 | 8 Oct 2012 | Pt. 2 (other than s. 5-7, 12, 15, 18, 22 and 25: 1 Jul 2008 (see s. 2(b)); s. 5-7, 12, 15, 18, 22 and 25: 9 Oct 2012 (see s. 2(e))
 Duties Legislation Amendment Act 2013 Pt. 2 Div. 2 | 5 of 2013 | 29 Jun 2013 | 29 Jun 2013 (see s. 2(1)(b))
 Reprint 2: The Duties Act 2008 as at 9 Aug 2013 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Revenue Laws Amendment Act 2013 Pt. 2 Div. 1 | 10 of 2013 | 24 Sep 2013 | 25 Sep 2013 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 18 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
@@ -25,7 +26,7 @@ This section has a retrospective commencement date effective from 1 Dec 2011 (se
 The Acts Amendment (Land Administration) Act 1997 commenced 30 Mar 1998 (see Gazette 27 Mar 1998 p. 1765).
 The Duties Legislation Amendment Act 2008 Pt. 2 Div. 2 Subdiv. 3 was deleted by the Duties Legislation Amendment Act 2013 Pt. 2 Div. 1. The amendments made by the Revenue Laws Amendment Act 2010 Pt. 3 Div. 1 have no effect for the same reason.
 The Duties Legislation Amendment Act 2013 Pt. 3 will not come into operation (see s. 2(1)(c) and (2)).
-On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 18 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 18 had not come into operation. It reads as follows:
 Division 18 — Duties Act 2008 amended
 89.Act amended
 This Division amends the Duties Act 2008.

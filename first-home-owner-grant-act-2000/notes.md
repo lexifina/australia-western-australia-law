@@ -19,6 +19,7 @@ Revenue Laws Amendment and Repeal Act 2010 Pt. 3 | 17 of 2010 | 25 Jun 2010 | 26
 Reprint 2: The First Home Owner Grant Act 2000 as at 9 Jul 2010 (includes amendments listed above)
 Revenue Laws Amendment Act 2012 Pt. 3 | 29 of 2012 | 3 Sep 2012 | 4 Sep 2012 (see s. 2(e))
 Revenue Laws Amendment Act (No. 2) 2012 Pt. 3 | 32 of 2012 | 8 Oct 2012 | 9 Oct 2012 (see s. 2(e))
+Revenue Laws Amendment Act 2013 Pt. 4 | 10 of 2013 | 24 Sep 2013 | 25 Sep 2013 (see s. 2(c)(ii))
 The First Home Owner Grant Amendment Act 2001 s. 7 is a savings provision of no further effect.
 The First Home Owner Grant Amendment Act 2003 s. 10 is a savings provision of no further effect.
 The First Home Owner Grant Amendment Act 2004 Pt. 3 is a transitional provision of no further effect.
@@ -68,14 +69,15 @@ If an application is made to the Commissioner under section 75AG for the amount 
 (i) the completion of the eligible transaction; or
 (ii) the day on which the First Home Owner Grant Amendment Act 2005 receives the Royal Assent.
 ”.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 administration agreement37(1)
+amendment day19(1)
 applicant,41A(1)
 application3(1)
 approved30(1A), 32(1)
-Australian citizen3(1), 7A
+Australian citizen3(1), 7A(1)
 authorised investigator3(1), 48(3)
 building3(1)
 cap amount3(1), 14AD
@@ -83,7 +85,7 @@ class 1 eligible transaction14B(1)
 class 2 eligible transaction14B(1a)
 class 3 eligible transaction14B(1b)
 class 4 eligible transaction14B(2)
-class 5 eligible transaction14B(3)
+class 5 eligible 14B(3)
 class 6 eligible transaction14B(4A)
 class 7 eligible transaction14B(4B)
 commencement date3(1), 14AA(1)
@@ -100,7 +102,7 @@ decision on the application26
 document47(3)
 eligibility criteria3(1)
 eligible transaction3(1), 14(1)
-established home14A
+established home3(1)
 first home owner grant3(1)
 first home owner grant scheme3(1)
 garnishee54A(2)
@@ -111,14 +113,14 @@ identity card3(1)
 interested person16(3)
 liable person54A(1)
 licensed valuer41A(1)
-new home14A
+new home3(1)
 non-conforming interest6(3)
 objector26
 option to purchase3(1)
-outstanding amount58(1)(a)(i)
+outstanding amount58(1)
 owner3(1), 5
 owner builder3(1)
-permanent resident3(1), 7B
+permanent resident3(1), 7B(1)
 premises3(1)
 property3(1)
 registered55(6)
@@ -129,19 +131,19 @@ relevant day21(3)
 relevant interest3(1), 6(1)
 relevant material3(1)
 repayment arrangement3(1)
-required repayment52(1)(a)
+required repayment52(1)
 required residence period3(1), 13(2)
 residence requirements3(1)
 residential property3(1), 3(2)
 special eligible transaction14A
 spouse3(1), 7(1)
 State65(7)
-substantially renovated home14A
+substantially renovated home3(1)
 take-up period3(1), 13(5)
 taxation law3(1)
-the applicant11(1)(b)
+the applicant11(1)
 the home3(1)
-the other grant11(1)(b)
+the other grant11(1)
 total value3(1), 14AC(1)
 transaction3(1)
 unencumbered value3(1), 14AE(1)
