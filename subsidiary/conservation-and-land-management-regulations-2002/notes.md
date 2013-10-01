@@ -19,6 +19,7 @@ Conservation and Land Management Amendment Regulations (No. 2) 2011 | 30 Sep 201
 Conservation and Land Management Amendment Regulations 2012 | 7 Dec 2012 p. 5964-74 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2012 (see r. 2(b) and Gazette 7 Dec 2012 p. 5963)
 Conservation and Land Management Amendment Regulations 2013 | 5 Feb 2013 p. 833-4 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b)(i) and Gazette 5 Feb 2013 p. 823)
 Reprint 3: The Conservation and Land Management Regulations 2002 as at 12 Jul 2013 (includes amendments listed above)
+Conservation and Land Management Amendment Regulations (No. 3) 2013 | 27 Sep 2013 p. 4525-9 | r. 1 and 2: 27 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2013 (see r. 2(b))
 The Swan River Trust Act 1988 was repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006.
 Deleted by the Conservation Legislation Amendment Act 2011 s. 10.
 Repealed by these regulations.
