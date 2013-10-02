@@ -14,6 +14,13 @@ Reprint 2: The Dog Regulations 1976 as at 13 Feb 2004 (includes amendments liste
 Dog Amendment Regulations 2004 | 30 Dec 2004 p. 7013-14 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Dog Amendment Regulations 2010 | 21 Dec 2010 p. 6762 | r. 1 and 2: 21 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Dec 2010 (see r. 2(b))
 Dog Amendment Regulations 2013 | 23 Aug 2013 p. 4007-9 | r. 1 and 2: 23 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Aug 2013 (see r. 2(b))
+Dog Amendment Regulations (No. 2) 2013 | 1 Oct 2013 p. 4545-6 | r. 1 and 2: 1 Oct 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Oct 2013 (see r. 2(b))
 Now known as the Dog Regulations 1976; citation changed (see note under r. 1).
 The Dog Amendment Regulations 1987 r. 14 is a transitional provision of no further effect.
 The Dog Amendment Regulations 1988 r. 12 is an application provision.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+an infringement notice13(2)
+pensioner4(1)
+the Act2
