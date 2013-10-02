@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 June 2012 of the Lotteries Commission (Monday and Wednesday Lotto) Rules 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Lotteries Commission (Monday and Wednesday Lotto) Rules 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Lotteries Commission (Monday and Wednesday Lotto) Rules 2006 | 21 Apr 2006 p. 1611-45 | 27 Apr 2006 (see r. 2)
@@ -13,35 +13,36 @@ Lotteries Commission (Monday and Wednesday Lotto) Amendment Rules 2010 | 12 Mar 
 Lotteries Commission (Monday and Wednesday Lotto) Amendment Rules (No. 2) 2010 | 19 Nov 2010 p. 5720-3 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Rules other than r. 1 and 2: 20 Nov 2010 (see r. 2(b))
 Lotteries Commission (Monday and Wednesday Lotto) Amendment Rules 2011 | 27 Jan 2012 p. 569-76 | 21 Feb 2012 (see r. 2)
 Reprint 2: The Lotteries Commission (Monday and Wednesday Lotto) Rules 2006 as at 8 Jun 2012 (includes amendments listed above)
-Defined Terms
+Lotteries Commission (Monday and Wednesday Lotto) Amendment Rules 2013 | 1 Oct 2013 p. 4546-51 | r. 1 and 2: 1 Oct 2013 (see r. 2(a)); Rules other than r. 1 and 2: 2 Oct 2013 (see r. 2(b))
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 agent3(1)
 agent’s component3(1)
 authorised payout centre3(1)
 entry3(1)
 game3(1)
 game board3(1)
-lotto3(2) and (3)
-lotto draw3(1)-(3), 10(9)
+lotto3(2), 3(3)
+lotto draw3(1), 3(2), 3(3), 10(9)
 Monday and Wednesday Lotto Bloc3(1)
 Monday lotto3(1)
-payout period3(2) and (3)
+payout period3(2), 3(3)
 player’s card3(1)
 player’s card number3(1)
 playslip3(1)
 postal entry10(1)
 prize fund3(1)
-prize pool3(1)-(3)
+prize pool3(1), 3(2), 3(3)
 prize reserve fund3(1)
 promotional coupon3(1)
 receipted ticket3(1)
 Saturday lotto3(1)
 Saturday lotto draw3(1)
 selected number3(1)
-selling period3(2) and (3)
-supplementary number3(2) and (3)
+selling period3(2), 3(3)
+supplementary number3(2), 3(3)
 syndicate sales (subscription) adjustment14B(6)
-validation period3(2) and (3)
+validation period3(2), 3(3)
 Wednesday lotto3(1)
-winning number3(2) and (3)
+winning number3(2), 3(3)
