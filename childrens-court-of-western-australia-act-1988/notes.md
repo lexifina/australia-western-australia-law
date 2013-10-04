@@ -40,6 +40,7 @@ Legal Profession Act 2008 s. 643 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Reprint 5: The Children’s Court of Western Australia Act 1988 as at 13 Feb 2009 (includes amendments listed above except those in the Cross-border Justice Act 2008, the Legal Profession Act 2008 and the Parental Support and Responsibility Act 2008)
 Prohibited Behaviour Orders Act 2010 Pt. 5 Div. 1 | 59 of 2010 | 8 Dec 2010 | 23 Feb 2011 (see s. 2(b) and Gazette 23 Feb 2011 p. 633)
 Young Offenders Legislation Amendment (Research Information) Act 2011 Pt. 2 | 26 of 2011 | 11 Jul 2011 | 12 Jul 2011 (see s. 2(b))
+Restraining Orders Amendment Act 2013 Pt. 3 | 14 of 2013 | 4 Oct 2013 | 4 Oct 2013 (see s. 2)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross border Justice Regulations 2009 Part 3 Division 4 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
