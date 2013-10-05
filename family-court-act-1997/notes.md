@@ -23,6 +23,7 @@ Reprint 3: The Family Court Act 1997 as at 20 Oct 2006 (includes amendments list
 Legal Profession Act 2008 s. 663 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Surrogacy Act 2008 Pt. 4 Div. 3 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 512)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 7 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
+Family Court Amendment (Family Violence and Other Measures) Act 2013 | 13 of 2013 | 4 Oct 2013 | Pt. 1: 4 Oct 2013 (see s. 2(a)); Act other than Pt. 1: 5 Oct 2013 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
