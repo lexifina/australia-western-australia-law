@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 March 2013 of Criminal Code and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of The Criminal Code and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Code Act Compilation Act 1913 | 28 of 1913 (4 Geo. V No. 28) | 30 Dec 1913 | 1 Jan 1914 (see s. 1)
@@ -169,7 +169,8 @@ Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 4 | 11 of 2012
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 3 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Criminal Law Amendment (Out-of-Control Gatherings) Act 2012 Pt. 2 | 56 of 2012 | 6 Dec 2012 | 15 Dec 2012 (see s. 2(b) and Gazette 14 Dec 2012 p. 6196)
 Reprint 17: The Criminal Code Act Compilation Act 1913 as at 1 Mar 2013 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Criminal Code Amendment Act 2013 | 12 of 2013 | 4 Oct 2013 | s. 1 and 2: 4 Oct 2013 (see s. 2(a)); Act other than s. 1 and 2: 5 Oct 2013 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
@@ -213,7 +214,7 @@ On the date as at which this reprint was prepared, the Prostitution Amendment Ac
 (3) Section 191 is repealed.
 (4) Section 557K(1) paragraph (h) of the definition of child sex offender is amended by deleting “Prostitution Act 2000” and inserting instead —
 “ Sexual Services Act 2000 ”.
-On the date as at which this reprint was prepared, the Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 had not come into operation. They read as follows:
 3.The Criminal Code amended
 This Act amends The Criminal Code.
 4.Chapter LXXIII inserted
@@ -247,7 +248,7 @@ and
 (4) The Ombudsman must, as soon as practicable after the expiration of that 12 month period, prepare a report on the Ombudsman’s work and activities under this section and furnish a copy of the report to the Minister for Police and the Commissioner of Police.
 (5) The Ombudsman may identify, and include recommendations in the report to be considered by the Minister about, amendments that might appropriately be made to this Act with respect to the operation of the provisions referred to in subsection (1).
 (6) The Minister is to lay (or cause to be laid) a copy of the report furnished to the Minister under this section before both Houses of Parliament as soon as practicable after the Minister receives the report.
-On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50 had not come into operation. It reads as follows:
 Division 50 — The Criminal Code amended
 182.Act amended
 This Division amends The Criminal Code.
@@ -260,7 +261,7 @@ Delete section 297(4)(c)(iii) and insert:
 185.Section 318 amended
 Delete section 318(1)(g)(iii) and insert:
 (iii) a taxi as defined in the Taxi Act 1994 section 3(1) or an omnibus as defined in the Transport Co-ordination Act 1966 section 4(1);
-On the date as at which this reprint was prepared, the Criminal Organisations Control Act 2012 s. 173 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Criminal Organisations Control Act 2012 s. 173 had not come into operation. It reads as follows:
 173.The Criminal Code amended
 (1) This section amends The Criminal Code.
 (2) After section 5(3)(a) insert:
