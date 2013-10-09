@@ -10,3 +10,4 @@ Education Service Providers (Full Fee Overseas Students) Registration Amendment 
 Reprint of the Education Service Providers (Full Fee Overseas Students) Registration Regulations 1992 as at 11 Oct 2002 (includes amendments listed above)
 Education Service Providers (Full Fee Overseas Students) Registration Amendment Regulations 2009 | 14 Aug 2009 p. 3184-5 | r. 1 and 2: 14 Aug 2009 (see r. 2(a); Regulations other thn r. 1 and 2: 15 Aug 2009 (see r. 2(b))
 Education Service Providers (Full Fee Overseas Students) Registration Amendment Regulations 2011 | 25 Nov 2011 p. 4869-70 | r. 1 and 2: 25 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Nov 2011 (see r. 2(b))
+Education Service Providers (Full Fee Overseas Students) Registration Amendment Regulations 2013 | 8 Oct 2013 p. 4591-2 | r. 1 and 2: 8 Oct 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Oct 2013 (see r. 2(b))
