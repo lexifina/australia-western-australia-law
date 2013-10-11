@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fines, Penalties and Infringement Notices Enforcement Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 October 2013 of the Fines, Penalties and Infringement Notices Enforcement Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fines, Penalties and Infringement Notices Enforcement Act 1994 | 93 of 1994 | 23 Dec 1994 | s. 1 and 2: 23 Dec 1994; Act other than s. 1, 2 and 29(2): 1 Jan 1995 (see s. 2(1) and Gazette 30 Dec 1994 p. 7211); s. 29(2): 11 Jan 1995 (see s. 2(2))
@@ -28,16 +28,16 @@ Reprint 4: The Fines, Penalties and Infringement Notices Enforcement Act 1994 as
 Fines, Penalties and Infringement Notices Enforcement Amendment (Compensation) Act 2009 | 4 of 2009 | 14 May 2009 | s. 1 and 2: 14 May 2009 (see s. 2(a)); Act other than s. 1 and 2: 23 Jun 2009 (see s. 2(b) and Gazette 23 Jun 2009 p. 2423)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
-Fines, Penalties and Infringement Notices Enforcement Amendment (Taxation) Act 2012 | 28 of 2012 | 3 Sep 2012 | 1 May 2013 (see s. 2(b) and Gazette 30 Apr 2013 p. 1687)
+Fines, Penalties and Infringement Notices Enforcement Amendment (Taxation) Act 2012 | 28 of 2012 | 3 Sep 2012 | s. 1 and 2: 3 Sep 2012 (see s. 2(a)); Act other than s. 1 and 2: 1 May 2013 (see s. 2(b) and Gazette 30 Apr 2013 p. 1687)
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 2 | 48 of 2012 | 29 Nov 2012 | s. 3, 39, 40, 41(3) and 42: 1 May 2013 (see s. 2(b) and Gazette 30 Apr 2013 p. 1687); s. 4-38, 41(1) and (2) and 43: 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
+Reprint 5: The Fines, Penalties and Infringement Notices Enforcement Act 1994 as at 11 Oct 2013 (includes amendments listed above)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 12 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 23 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
+The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Fines, Penalties and Infringement Notices Enforcement Amendment Act 2003 s. 12 reads as follows:
-“
 12.Validation
 (1) In this section —
 agreement means an agreement or arrangement for the payment of an amount owed or an amount outstanding (within the meaning of sections 40 and 61 respectively of the Fines, Penalties and Infringement Notices Enforcement Act 1994);
@@ -48,8 +48,7 @@ offender means —
 of the Fines, Penalties and Infringement Notices Enforcement Act 1994.
 (2) An agreement entered into, or purportedly entered into, by or on behalf of the Sheriff of Western Australia with an offender before the commencement has, and is deemed always to have had, force and effect.
 (3) An agreement entered into, or purportedly entered into, by a delegate of the Sheriff of Western Australia with an offender before the commencement has, and is deemed always to have had, force and effect.
-”.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 23 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 23 had not come into operation. It reads as follows:
 Division 23 — Fines, Penalties and Infringement Notices Enforcement Act 1994 amended
 106.Act amended
 This Division amends the Fines, Penalties and Infringement Notices Enforcement Act 1994.
@@ -92,49 +91,52 @@ Defined termProvision(s)
 affected vehicle95I(1)
 aggregate amount owed56A
 aggregate unpaid infringement amount11
-agreement108(7)
 alleged offence11
 alleged offender11
-amending provision53(4), 53(8a)
+amending provision53(4) and (8a)
+amount outstanding61(1)(b)
 amount owed40, 56A
-applicant101AA(2)
+applicant101(1), 101AA(2), 101A(1)
+CCO28(2)
 CEO (corrections)3(1)
 child3(1)
-commencement108(7), 111(1), 112(1), 113(1)
+claimant93(1)
+commencement111(1), 112(1), 113(1)
 community corrections activities28(1)
 community corrections centre28(1)
 community corrections officer28(1)
 court28(1)
 court officer28(1)
-debtor63
+debtor63(1)
 Department of Corrective Services3(1)
 Director General3(1)
 dishonoured payment3(1)
-disposed of 101AA(1) , 101B(6)
+disposed of101AA(1), 101B(6)
 driver’s licence3(1)
-due date27C(1), 42(3), 55C(1)
-dwelling63
+due date18(3), 27C(1), 42(3), 55C(1)
+dwelling63(1)
 election11
-Electricity Reail Corporation3(1)
+Electricity Retail Corporation3(1)
 enforcement action68B(1)
-enforcement fees11, 28(1), 56A, 63
+enforcement fees11, 28(1), 56A, 63(1)
 fine28(1), 56A, 59
 give3(1)
 infringement notice11
 interest70(1)
 licence suspension order101D(1A)
-mobile home63
+mobile home63(1)
 modified penalty11, 56A
 number plate3(1)
-offender28(1), 108A
+offender28(1), 108A(1)
 outstanding order to pay or elect11, 56A
 outstanding registered fine56A, 56B
 paid3(1)
 period served53(7)
-personal property63
-place63
+personal property63(1)
+place63(1)
 prescribed enactment11
 principal enactment11
+proceeds96(1)
 prosecuting authority11, 39(2)
 prosecuting officer11
 public authority70(1)
@@ -146,23 +148,19 @@ Registrar’s website56A
 Registry3(1)
 relevant details56A, 56C
 required hours50(1)(a)
-saleable interest63, 71(1), 88(1)
+saleable interest63(1), 71(1), 88(1)
 serve3(1)
 Sheriff3(1)
 specified period53(7)
-the amount outstanding61(1)(b)
-the applicant101(1), 101A(1)
-the claimant93(1)
-the due date18(3), 42(3)
-the proceeds96(1)
 time to pay order28(1)
 traffic infringement notice26(4)
 transitional period113(1)
 unpaid infringement amount11
-vehicle63
+vehicle63(1)
 vehicle licence3(1)
-vehicle licensing law63
-warning notice63
-warrant63
+vehicle licensing law63(1)
+warning notice63(1)
+warrant63(1)
 warrant amount53(6) and (7)
+WDO28(2)
 work and development order28(1)
