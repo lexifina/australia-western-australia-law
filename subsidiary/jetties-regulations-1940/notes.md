@@ -1,8 +1,29 @@
 Notes
-This is a compilation of the Jetties Regulations 1940 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 October 2013 of the Jetties Regulations 1940 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
-Jetties Act Regulations 1940 | 6 Sep 1940 p. 1622-40 | 6 Sep 1940 (see Gazette 6 Sep 1940 p. 1622)
+Jetties Act Regulations 1940 | 6 Sep 1940 p. 1622-40 | 6 Sep 1940 (see direction preceding regulations in Gazette 6 Sep 1940 p. 1622)
+Untitled regulations | 1 Aug 1941 p. 1073 | 1 Aug 1941
+Untitled regulations | 5 Sep 1941 p. 1244 | 5 Sep 1941
+Untitled regulations | 21 Jan 1944 p. 26 | 21 Jan 1944
+Untitled regulations | 10 Mar 1944 p. 154 | 10 Mar 1944
+Untitled regulations | 20 Oct 1944 p. 893 | 20 Oct 1944
+Untitled regulations | 11 Jan 1946 p. 13 | 11 Jan 1946
+Untitled regulations | 3 Jan 1947 p. 7 | 3 Jan 1947
+Untitled regulations | 31 Jan 1947 p. 182 | 31 Jan 1947
+Untitled regulations | 23 May 1947 p. 885 | 23 May 1947
+Untitled regulations | 29 Oct 1948 p. 2579 | 29 Oct 1948
+Untitled regulations | 31 Dec 1948 p. 3114 | 31 Dec 1948
+Untitled regulations | 3 Nov 1950 p. 2461 | 3 Nov 1950
+Untitled regulations | 2 Mar 1951 p. 470 | 2 Mar 1951
+Untitled regulations | 28 Sep 1951 p. 2575 | 28 Sep 1951
+Untitled regulations | 2 Nov 1951 p. 3021 | 2 Nov 1951
+Untitled regulations | 2 May 1952 p. 1106 | 2 May 1952
+Untitled regulations | 30 May 1952 p. 1335 | 30 May 1952
+Untitled regulations | 5 Dec 1952 p. 2867 | 5 Dec 1952
+Untitled regulations | 22 May 1953 p. 987 | 22 May 1953
+Untitled regulations | 23 Jul 1954 p. 1291 | 23 Jul 1954
+Untitled regulations | 19 Jul 1956 p. 1781 | 19 Jul 1956
 Untitled regulations | 16 Apr 1957 p. 1127 | 16 Apr 1957
 Untitled regulations | 12 Jul 1957 p. 2269-78 | 12 Jul 1957
 Untitled regulations | 17 Mar 1960 p. 777-92 | 17 Mar 1960
@@ -20,6 +41,7 @@ Untitled regulations | 12 May 1965 p. 1464 | 12 May 1965
 Untitled regulations | 26 May 1965 p. 1614 | 26 May 1965
 Untitled regulations | 10 Jun 1965 p. 1726 | 10 Jun 1965
 Untitled regulations | 1 Sep 1965 p. 2590-6 | 1 Sep 1965
+Decimal Currency Act 1965 assented to 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
 Untitled regulations | 17 Mar 1966 p. 731 | 17 Mar 1966
 Untitled regulations | 14 Apr 1966 p. 918 | 14 Apr 1966
 Untitled regulations | 4 Jun 1968 p. 1684-93 | 4 Jun 1968
@@ -73,8 +95,8 @@ Reprint of the Jetties Act Regulations 1940 as at 10 Dec 1999 (includes amendmen
 Jetties Amendment Regulations 2000 | 20 Jun 2000 p. 3043-60 | 1 Jul 2000 (see r. 2)
 Jetties Amendment Regulations (No. 2) 2000 | 18 Aug 2000 p. 4790 | 18 Aug 2000
 Jetties Amendment Regulations 2001 | 27 Jul 2001 p. 3813-28 | 1 Aug 2001 (see r. 2)
-Jetties Amendment Regulations 2002 | 14 Jun 2002 p. 2799-800 | 14 Jun 2002
-Jetties Amendment Regulations (No. 2) 2002 | 14 Jun 2002 p. 2801-18 | 1 Jul 2002 (see r. 2)
+Jetties Amendment Regulations 2002 | 14 Jun 2002 p. 2299-300 | 14 Jun 2002
+Jetties Amendment Regulations (No. 2) 2002 | 14 Jun 2002 p. 2301-18 | 1 Jul 2002 (see r. 2)
 Jetties Amendment Regulations 2003 | 27 Jun 2003 p. 2502-19 | 1 Jul 2003 (see r. 2)
 Jetties Amendment Regulations (No. 2) 2004 | 25 Jun 2004 p. 2270-87 | 1 Jul 2004 (see r. 2)
 Jetties Amendment Regulations (No. 3 ) 2004 | 24 Aug 2004 p. 3658-9 | 24 Aug 2004
@@ -91,16 +113,18 @@ Reprint 7: The Jetties Regulations 1940 as at 13 Feb 2009 (includes amendments l
 Jetties Amendment Regulations 2009 | 23 Jun 2009 p. 2490-1 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jun 2009 (see r. 2(b))
 Jetties Amendment Regulations (No. 2) 2009 | 31 Jul 2009 p. 3071-97 | r. 1 and 2: 31 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2009 (see r. 2(b))
 Jetties Amendment Regulations 2010 | 16 Jul 2010 p. 3309-54 | r. 1 and 2: 16 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jul 2010 (see r. 2(b))
-Jetties Amendment Regulations 2011 | 21 Jun 2011 p. 2265-2303 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
+Jetties Amendment Regulations 2011 | 21 Jun 2011 p. 2265-303 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Jetties Amendment Regulations 2012 | 13 Jul 2012 p. 3173-214 | r. 1 and 2: 13 Jul 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jul 2012 (see r. 2(b))
 Jetties Amendment Regulations (No. 2) 2012 | 23 Oct 2012 p. 5057 | r. 1 and 2: 23 Oct 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Oct 2012 (see r. 2(b))
 Jetties Amendment Regulations 2013 | 7 May 2013 p. 1918-23 | r. 1 and 2: 7 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 8 May 2013 (see r. 2(b))
 Jetties Amendment Regulations (No. 2) 2013 | 28 Jun 2013 p. 2831-85 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
+Reprint 8: The Jetties Regulations 1940 as at 11 Oct 2013 (includes amendments listed above)
+The Consumer Credit (Western Australia) Code was repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 3 Div. 1.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the department in the Public Service designated as “Police Department” is to be read and construed as a reference to the department designated as “Police Service”.
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Repealed by the Explosives and Dangerous Goods Act 1961 which was repealed by the Dangerous Goods Safety Act 2004.
-Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act. As at the date this compilation was prepared the department principally assisting the Minister in the administration of the Marine and Harbours Act 1981 is the Department of Planning and Infrastructure.
+Repealed by the Explosives and Dangerous Goods Act 1961, which was repealed by the Dangerous Goods Safety Act 2004.
+Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act. As at the date this reprint was prepared the department principally assisting the Minister in the administration of the Marine and Harbours Act 1981 is the Department of Transport.
 Formerly referred to the Jetties Act Regulations 1940 the citation of which was changed to the Jetties Regulations 1940 by the Jetties Amendment Regulations (No. 3) 2004 r. 3. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
 Now known as the Jetties Regulations 1940; citation changed (see note under r. 1).
 Regulation 10 disallowed on 19 Oct 1940.
@@ -110,7 +134,7 @@ Defined termProvision(s)
 commercial vessel3(1)
 day3(2)
 Department3(1)
-E Class operatorSch. 1, cl. 8(2)
+E Class operatorSch. 1 cl. 8(2)
 fishing vessel3(1)
 jetty3(1)
 master3(1)
@@ -119,8 +143,8 @@ owner3(1)
 premises3(1)
 public jetty3(1)
 recreational vessel3(1)
-service vesselSch. 1, cl. 10(2), 1, cl. 19(2), 1, cl. 20(2)
-T Class operatorSch. 1, cl. 8(2)
+service vesselSch. 1 cl. 10(2), 19(2) and 20(2)
+T Class operatorSch. 1 cl. 8(2)
 tourism vessel3(1)
 vessel3(1)
 week3(2)
