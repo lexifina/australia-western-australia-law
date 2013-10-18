@@ -1,6 +1,6 @@
 ## Schedule 20 — Other fees
 [r. 27]
-Item | Type of fee | Fee $
+Item | Type of fee | Fee ($)
 1. | Application under the Act section 22(1) by —
  | (a)an individual | 64.00
  | (b)a person other than an individual | 128.00
