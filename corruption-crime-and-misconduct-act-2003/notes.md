@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Corruption and Crime Commission Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 18 October 2013 of the Corruption and Crime Commission Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Corruption and Crime Commission Act 2003 | 48 of 2003 | 3 Jul 2003 | s. 1 and 2: 3 Jul 2003; Act other than s. 1 and 2: 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
@@ -25,12 +25,11 @@ Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009
 Reprint 4: The Corruption and Crime Commission Act 2003 as at 2 Jul 2010 (includes amendments listed above)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 12 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 74 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Telecommunications (Interception) Western Australia Amendment Act 2011 Pt. 3 | 2 of 2011 | 1 Mar 2011 | 2 Jul 2011 (see s. 2(b) and Gazette 1 Jul 2011 p. 2713 )
+Telecommunications (Interception) Western Australia Amendment Act 2011 Pt. 3 | 2 of 2011 | 1 Mar 2011 | 2 Jul 2011 (see s. 2(b) and Gazette 1 Jul 2011 p. 2713)
 Commonwealth Heads of Government Meeting (Special Powers) Act 2011 Pt. 9 | 23 of 2011 | 11 Jul 2011 | 12 Jul 2011 (see s. 2(b))
 Criminal Investigation (Covert Powers) Act 2012 Pt. 7 | 55 of 2012 | 3 Dec 2012 | 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
+Reprint 5: The Corruption and Crime Commission Act 2003 as at 18 Oct 2013 (includes amendments listed above)
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
-The Commonwealth Heads of Government Meeting (Special Powers) Act 2011 Pt. 8 is to be read in conjunction with, and as supplementary to, this Act as if the provisions of that Part were incorporated with, and formed part of, this Act.
-The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 3 Div. 3 Subdiv. 2 reads as follows:
 Part 3 — Repeals, transitional and savings provisions, and consequential amendments
 Division 3 — Anti-Corruption Commission Act 1988
@@ -105,6 +104,7 @@ except that the period to which the final report is to relate is the final perio
 (3) If at the commencement, any duty imposed by Part II Division 14 of the FAA Act on the accountable authority of the A-CC has not been complied with in relation to the A-CC for any financial year that expired before the commencement, that duty subsists and is to be performed by the reporting officer as if the reporting officer were the accountable authority.
 (4) The time within which the reporting officer is to perform a duty referred to in subsection (3) is extended until the end of the day that is 2 months after the day on which the reporting officer is appointed, but this subsection does not prevent the time from being extended again under section 70 of the FAA Act.
 (5) The CCC is to give the reporting officer access to the records referred to in section 64 for the purposes of this section.
+The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 3 Div. 7 reads as follows:
 Part 3 — Repeals, transitional and savings provisions, and consequential amendments
 Division 7 — General
@@ -127,9 +127,9 @@ to or in relation to any matter.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not operate so as to —
 (a) affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 A-CC3(1)
 allegation3(1), 220(1)
 ancillary activity132(1)
