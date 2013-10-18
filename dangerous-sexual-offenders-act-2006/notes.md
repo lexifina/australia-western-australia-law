@@ -1,17 +1,18 @@
 Notes
-This is a compilation of the Dangerous Sexual Offenders Act 2006 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 18 October 2013 of the Dangerous Sexual Offenders Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Dangerous Sexual Offenders Act 2006 | 1 of 2006 | 30 Mar 2006 | 13 May 2006 (see s. 2 and Gazette 12 May 2006 p. 1781)
-Dangerous Sexual Offenders Amendment Act 2011 | 3 of 2011 | 1 Mar 2011 | s. 1 and 2: 1 Mar 2011 (see s. 2(a); Act other than s. 1 and 2: 2 Mar 2011 (see s. 2(b))
+Dangerous Sexual Offenders Act 2006 | 1 of 2006 | 30 Mar 2006 | s. 1 and 2: 30 Mar 2006; Act other than s. 1 and 2: 13 May 2006 (see s. 2 and Gazette 12 May 2006 p. 1781)
+Dangerous Sexual Offenders Amendment Act 2011 | 3 of 2011 | 1 Mar 2011 | s. 1 and 2: 1 Mar 2011 (see s. 2(a)); Act other than s. 1 and 2: 2 Mar 2011 (see s. 2(b))
 Community Protection (Offender Reporting) Amendment Act 2012 Pt. 3 Div. 2 | 1 of 2012 | 15 Mar 2012 | 1 Jul 2012 (see s. 2(b) and Gazette 22 Jun 2012 p. 2777)
 Dangerous Sexual Offenders Amendment Act 2012 | 58 of 2012 | 11 Dec 2012 | s. 1 and 2: 11 Dec 2012 (see s. 2(a)); Act other than s. 1 and 2: 1 Feb 2013 (see s. 2(b) and Gazette 4 Jan 2013 p. 3)
-Defined Terms
+Reprint 1: The Dangerous Sexual Offenders Act 2006 as at 18 Oct 2013 (includes amendments listed above)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 approved19A(3)
 chief executive officer3(1)
-commencement daySch. 1, cl. 1(1) and 2(1)
+commencement daySch. 1 cl. 1(1) and 2(1)
 commit a serious sexual offence3(1)
 community3(1)
 community corrections officer3(1)
