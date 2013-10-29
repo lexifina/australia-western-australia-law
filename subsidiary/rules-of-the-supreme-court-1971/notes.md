@@ -137,6 +137,7 @@ The Gas Pipelines Access Law ceased to apply when the National Gas Access (WA) A
 The commencement date of 1 Jul 1982 that was specified was before the date of gazettal.
 The Supreme Court Amendment Rules 1994 r. 14 is a transitional provision that has no further effect.
 Disallowed on 10 Mar 1998, see Gazette 13 Mar 1998 p. 1389.
+Disallowed on 29 Oct 2013, see Gazette 1 Nov 2013 p. 4910.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
