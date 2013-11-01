@@ -25,6 +25,7 @@ Planning and Development (Consequential and Transitional Provisions) Act 2005 s.
 Reprint 5: The Dog Act 1976 as at 4 Aug 2006 (includes amendments listed above)
 Land Information Authority Act 2006 s. 132 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 47 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Dog Amendment Act 2013 Pt. 2 | 18 of 2013 | 29 Oct 2013 | 1 Nov 2013 (see s. 2(b) and Gazette 31 Oct 2013 p. 4829)
 Footnote no longer applicable.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
 “
@@ -41,3 +42,64 @@ The State Administrative Tribunal Regulations 2004 r. 47 reads as follows:
 (2) If a notice has been given under the Dog Act 1976 section 33G(2) before the commencement day, on or after the commencement day the notice is to be taken to refer to the right to apply to the State Administrative Tribunal for a review.
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 15 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+The Dog Amendment Act 2013 s. 60 reads as follows:
+60.Review of Act
+(1) The Minister must carry out a review of the operation and effectiveness of this Act as soon as practicable after 1 January 2019.
+(2) The Minister must prepare a report based on the review and, as soon as is practicable after the report is prepared, cause it to be laid before each House of Parliament.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+amending provision60(2)
+assistance dog8(1)
+attack3(1)
+attack dog29(5a)
+authorised person3(1)
+CEO3(1)
+commencement day60(1)
+commercial security dog3(1)
+dangerous dog3(1)
+dangerous dog (declared)3(1)
+dangerous dog (restricted breed)3(1)
+detention period29(8A)
+district3(1)
+dog17A(1)
+dog management facility3(1)
+dwelling3(1)
+effectively confined3(1)
+Gazettal day60(1)
+livestock34(2)
+metropolitan region3(1)
+microchip3(1)
+microchip database3(1)
+microchip database company3(1)
+microchip implanter3(1)
+microchipped3(1)
+mobile home3(1)
+operative day60(4)
+owner3(1), 33L
+owner’s delegate3(1)
+person liable for the control of the dog3(1)
+police officer3(1)
+premises3(1)
+prescribed3(1)
+provocation3(1)
+public officer6(6)
+public place3(1)
+receiver33GE(1)
+registered owner3(1)
+registered veterinary surgeon3(1)
+registration officer3(1)
+relevant day 22(1)
+relevant time33GE(1)
+representative47(1)
+restricted breed pup33GC(1)
+scan3(1)
+specified50(3)
+sterilised3(1)
+townsite3(1)
+transfer3(1)
+transitional matter60(1)
+transitional regulations60(1)
+vehicle3(1)
+veterinarian3(1)
+working3(1)

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 July 2013 of the Residential Tenancies Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Residential Tenancies Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Residential Tenancies Act 1987 | 128 of 1987 | 21 Jan 1988 | s. 1 and 2: 21 Jan 1988; Act other than s. 1 and 2: 1 Oct 1989 (see s. 2 and Gazette 18 Aug 1989 p. 2748)
@@ -30,6 +30,7 @@ Standardisation of Formatting Act 2010 s. 29 | 19 of 2010 | 28 Jun 2010 | 11 Sep
 Acts Amendment (Fair Trading) Act 2010 s. 189 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 Residential Tenancies Amendment Act 2011 | 60 of 2011 | 14 Dec 2011 | s. 1 and 2: 14 Dec 2011 (see s. 2(a)); s. 5(2) (to the extent that it inserts the definition of lessor), 42(1) and (2), 45(1), 57, 58, 60, 69, 88, 89 (to the extent that it amends s. 71) and 90-95: 30 Jul 2012 (see s. 2(b) and Gazette 27 Jul 2012 p. 3663); s. 3-5 (except to the extent that it inserts the definition of lessor), 6-41, 42(3), 43-44, 45(2), 46-56, 59, 61-68, 70-87, 89 (except to the extent that it amends s. 71) and Pt. 4 (s. 96): 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
 Reprint 5: The Residential Tenancies Act 1987 as at 19 Jul 2013 (includes amendments listed above)
+Dog Amendment Act 2013 Pt. 3 | 18 of 2013 | 29 Oct 2013 | 1 Nov 2013 (see s. 2(b) and Gazette 31 Oct 2013 p. 4829)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
 The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
