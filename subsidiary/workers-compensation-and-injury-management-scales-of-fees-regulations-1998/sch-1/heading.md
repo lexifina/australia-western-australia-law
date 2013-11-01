@@ -9,145 +9,145 @@ CONSULTATIONS
 Surgery Consultation
 in hours
 Content based
-Minor or Specific Service (Level A or B) | $67.70
-Extended Service (Level C) | $123.75
-Comprehensive Service (Level D) | $190.15
+Minor or Specific Service (Level A or B) | $70.10
+Extended Service (Level C) | $128.10
+Comprehensive Service (Level D) | $196.85
 Time based
-up to 5 minutes | $40.40
-more than 5 minutes to 15 minutes | $52.70
-more than 15 minutes to 30 minutes | $101.65
-more than 30 minutes to 45 minutes | $153.70
-more than 45 minutes to 60 minutes | $208.35
+up to 5 minutes | $41.85
+more than 5 minutes to 15 minutes | $54.55
+more than 15 minutes to 30 minutes | $105.25
+more than 30 minutes to 45 minutes | $159.15
+more than 45 minutes to 60 minutes | $215.70
 Surgery Consultations
 out of hours
-For attendances between the hours of 6 p.m. and 8 a.m. on a weekday or between 12 noon on Saturday and 8 a.m. on the following Monday, and Public Holiday.
+For attendances between the hours of 6 p.m. and 8 a.m. on a weekday or between 12 noon on Saturday and 8 a.m. on the following Monday and Public Holiday.
 Content based
-Minor Service (Level A) | $50.80
-Specific Service (Level B) | $101.65
-Extended Service (Level C) | $185.05
-Comprehensive Service (Level D) | $286.50
+Minor Service (Level A) | $52.60
+Specific Service (Level B) | $105.25
+Extended Service (Level C) | $191.60
+Comprehensive Service (Level D) | $296.60
 Time based
-up to 5 minutes | $80.45
-more than 5 minutes to 15 minutes | $87.30
-more than 15 minutes to 30 minutes | $135.30
-more than 30 minutes | $185.05
+up to 5 minutes | $83.30
+more than 5 minutes to 15 minutes | $90.40
+more than 15 minutes to 30 minutes | $140.10
+more than 30 minutes | $191.60
 VISITS
 Consultations at a place other than the Consulting Rooms
 in hours
-Minor Service (Level A) | $84.75
-Specific Service (Level B) | $115.85
-Extended Service (Level C) | $171.90
-Comprehensive Service (Level D) | $239.60
+Minor Service (Level A) | $87.75
+Specific Service (Level B) | $119.95
+Extended Service (Level C) | $177.95
+Comprehensive Service (Level D) | $248.05
 out of hours
-Minor Service (Level A) | $101.65
-Specific Service (Level B) | $151.10
-Extended Service (Level C) | $231.85
-Comprehensive Service (Level D) | $338.60
+Minor Service (Level A) | $105.25
+Specific Service (Level B) | $156.45
+Extended Service (Level C) | $240.05
+Comprehensive Service (Level D) | $350.55
 TELEPHONE CONSULTATIONS
 Time based
-up to 5 minutes | $22.60
-more than 5 minutes to 15 minutes | $28.30
-more than 15 minutes to 30 minutes | $59.25
-more than 30 minutes | $88.75
+up to 5 minutes | $23.40
+more than 5 minutes to 15 minutes | $29.30
+more than 15 minutes to 30 minutes | $61.35
+more than 30 minutes | $91.90
 CASE CONFERENCES, discussions with employers/insurers, rehabilitation providers, workplace assessments, etc.
-per hour | $254.70
+per hour | $263.70
 TRAVELLING FEES
-Rate per kilometre | $4.55
+Rate per kilometre | $4.70
 PHYSICIANS, OCCUPATIONAL & REHABILITATION PHYSICIANS
 PHYSICIANS
 CONSULTATIONS
 Professional attendance at consulting rooms and issue of certificate (if required) et al
-first attendance | $257.10
-subsequent attendances | $128.65
+first attendance | $266.20
+subsequent attendances | $133.20
 VISITS
 Professional attendance at a place other than consulting rooms and issue of certificate (if required) et al
-first attendance | $307.95
-subsequent attendances | $177.70
+first attendance | $318.80
+subsequent attendances | $183.95
 REHABILITATION PHYSICIANS
 CONSULTATIONS
 Professional attendance at consulting rooms and issue of certificate (if required) et al
-first attendance | $257.10
-subsequent attendances | $128.65
+first attendance | $266.20
+subsequent attendances | $133.20
 VISITS
 Professional attendance at a place other than consulting rooms and issue of certificate (if required) et al
-first attendance | $307.95
-subsequent attendances | $177.70
+first attendance | $318.80
+subsequent attendances | $183.95
 OCCUPATIONAL PHYSICIANS
 CONSULTATIONS
 Professional attendance at consulting rooms and issue of certificate (if required) et al
-first attendance | $261.40
-subsequent attendances | $128.65
+first attendance | $270.65
+subsequent attendances | $133.20
 VISITS
 Professional attendance at a place other than consulting rooms and issue of certificate (if required) et al
-first attendance | $307.95
-subsequent attendances | $177.70
+first attendance | $318.80
+subsequent attendances | $183.95
 TELEPHONE CONSULTATIONS
 Time based
-up to 5 minutes | $33.80
-more than 5 minutes to 15 minutes | $41.60
-more than 15 minutes to 30 minutes | $87.00
-more than 30 minutes | $131.35
+up to 5 minutes | $35.00
+more than 5 minutes to 15 minutes | $43.05
+more than 15 minutes to 30 minutes | $90.05
+more than 30 minutes | $136.00
 CASE CONFERENCES, discussions with employers/insurers, rehabilitation providers, workplace assessments, etc.
-per hour | $377.70
+per hour | $391.05
 TRAVELLING FEES
-Rate per kilometre | $4.55
+Rate per kilometre | $4.70
 CONSULTANT PSYCHIATRISTS
 CONSULTATIONS
 Professional attendance at consulting rooms and issue of certificate (if required) et al Time based
-up to 15 minutes | $75.40
-more than 15 minutes to 30 minutes | $150.50
-more than 30 minutes to 45 minutes | $225.40
-more than 45 minutes to 60 minutes | $301.55
-more than 60 minutes to 75 minutes | $341.25
-more than 75 minutes | $380.90
+up to 15 minutes | $78.05
+more than 15 minutes to 30 minutes | $155.80
+more than 30 minutes to 45 minutes | $233.35
+more than 45 minutes to 60 minutes | $312.20
+more than 60 minutes to 75 minutes | $353.30
+more than 75 minutes | $394.35
 VISITS
 Professional attendance at a place other than consulting rooms and issue of certificate (if required) et al Visits include both attendance at hospitals and home visits Time based
-up to 15 minutes | $123.85
-more than 15 minutes to 30 minutes | $200.00
-more than 30 minutes to 45 minutes | $272.90
-more than 45 minutes to 75 minutes | $349.15
-more than 75 minutes | $420.70
+up to 15 minutes | $128.20
+more than 15 minutes to 30 minutes | $207.05
+more than 30 minutes to 45 minutes | $282.55
+more than 45 minutes to 75 minutes | $361.45
+more than 75 minutes | $435.55
 TELEPHONE CONSULTATIONS
 Time based
-up to 45 minutes | $100.05
-more than 45 minutes | $218.45
+up to 45 minutes | $103.60
+more than 45 minutes | $226.15
 CASE CONFERENCES, discussions with employers/insurers, rehabilitation providers, workplace assessments, etc.
-per hour | $377.70
+per hour | $391.05
 TRAVELLING FEES
-Rate per kilometre | $4.55
+Rate per kilometre | $4.70
 SPECIALISTS
 SURGEONS
 CONSULTATIONS
 Professional attendance at consulting rooms and issue of certificate (if required) et al
-first attendance | $146.20
-subsequent attendances | $76.25
+first attendance | $151.35
+subsequent attendances | $78.95
 VISITS
 Professional attendance at a place other than consulting rooms and issue of certificate (if required) et al
-first attendance | $197.05
-subsequent attendances | $125.60
+first attendance | $204.00
+subsequent attendances | $130.05
 DERMATOLOGISTS
 CONSULTATIONS
 Professional attendance at consulting rooms and issue of certificate (if required) et al
-first attendance | $146.20
-subsequent attendances | $76.25
+first attendance | $151.35
+subsequent attendances | $78.95
 VISITS
 Professional attendance at a place other than consulting rooms and issue of certificate (if required) et al
-first attendance | $196.75
-subsequent attendances | $125.40
+first attendance | $203.70
+subsequent attendances | $129.85
 TELEPHONE CONSULTATIONS
 Time based
-up to 5 minutes | $33.80
-more than 5 minutes to 15 minutes | $41.60
-more than 15 minutes to 30 minutes | $87.00
-more than 30 minutes | $131.35
+up to 5 minutes | $35.00
+more than 5 minutes to 15 minutes | $43.05
+more than 15 minutes to 30 minutes | $90.05
+more than 30 minutes | $136.00
 CASE CONFERENCES, discussions with employers/insurers, rehabilitation providers, workplace assessments, etc.
-per hour | $377.70
+per hour | $391.05
 TRAVELLING FEES
-Rate per kilometre | $4.55
+Rate per kilometre | $4.70
 ANAESTHETISTS
 All anaesthesia fees are calculated by multiplying the units for the consultation, attendance, procedure or service by the $ value per unit allocated by this Schedule.
 $ VALUE PER UNIT
-$ value per unit | $76.00
+$ value per unit | $78.70
 CONSULTATIONS AND ATTENDANCES | Units
 Anaesthetist Consultation
 — an attendance of 15 minutes or less duration | 2
@@ -610,519 +610,519 @@ Skin testing for allergy to anaesthetic agents | no | yes | 4
 Assistance in the administration of an anaesthetic | yes | yes | 5
 Note — Unlisted services
 For an unlisted service, the number of units is to be determined by reference to the nearest listed anaesthetic procedure
-[Part 1 inserted in Gazette 20 Jul 1999 p. 3250-69; amended in Gazette 31 Aug 1999 p. 4244-5; 21 Dec 2000 p. 7626-34; 28 Dec 2001 p. 6692-7; 23 Sep 2003 p. 4174-7; 19 Mar 2004 p. 864-96; 29 Oct 2004 p. 4941-2; 21 Jan 2005 p. 279-81; 10 Jan 2006 p. 44-52; 22 Dec 2006 p. 5759-68; 7 Dec 2007 p. 6037-42; 17 Dec 2008 p. 5291-6; 30 Oct 2009 p. 4346-53; 29 Oct 2010 p. 5349-55; 30 Sep 2011 p. 3914-17; 25 Sep 2012 p. 4450-7.]
+[Part 1 inserted in Gazette 20 Jul 1999 p. 3250-69; amended in Gazette 31 Aug 1999 p. 4244-5; 21 Dec 2000 p. 7626-34; 28 Dec 2001 p. 6692-7; 23 Sep 2003 p. 4174-7; 19 Mar 2004 p. 864-96; 29 Oct 2004 p. 4941-2; 21 Jan 2005 p. 279-81; 10 Jan 2006 p. 44-52; 22 Dec 2006 p. 5759-68; 7 Dec 2007 p. 6037-42; 17 Dec 2008 p. 5291-6; 30 Oct 2009 p. 4346-53; 29 Oct 2010 p. 5349-55; 30 Sep 2011 p. 3914-17; 25 Sep 2012 p. 4450-7; 15 Oct 2013 p. 4688-94.]
 ## Part 2 — Medical procedures
-[Heading inserted in Gazette 25 Sep 2012 p. 4457.]
+[Heading inserted in Gazette 15 Oct 2013 p. 4695.]
 Type of procedure | Fee
 GENERAL
-Localised burns | $56.45
-Localised burns, including dressing of, under general anaesthetic | $160.60
-Extensive burns | $97.40
-Extensive burns, including dressing of, under general anaesthetic | $339.95
-Dressing of wounds, under general anaesthetic | $160.60
-Acupuncture, including consultation | $74.90
+Localised burns | $58.45
+Localised burns, including dressing of, under general anaesthetic | $166.25
+Extensive burns | $100.85
+Extensive burns, including dressing of, under general anaesthetic | $351.95
+Dressing of wounds, under general anaesthetic | $166.25
+Acupuncture, including consultation | $77.55
 DISLOCATIONS
 closed reduction means non-operative reduction of the dislocation, and included percutaneous fixation and/or external splintage by cast or splint.
 open reduction means treatment by either closed reduction and intra-medullary fixation or treatment by operative exposure of the dislocation including internal or external fixation.
 other means treatment by any other method and includes the use of external splintage.
 [Where injuries are associated with a compound (open) wound, an additional fee of 50% of the fee listed is to apply.]
-Elbow, by closed reduction | $302.90
-Elbow, by open reduction | $401.70
-Interphalangeal joint, by closed reduction | $129.85
-Interphalangeal joint, by open reduction | $173.10
-Mandible, by closed reduction | $108.25
-Clavicle, by closed reduction | $128.40
-Clavicle, by open reduction | $259.60
-Shoulder, not requiring general anaesthetic | $144.40
-Shoulder, by open reduction, with general anaesthetic | $517.80
-Shoulder, other, with general anaesthetic | $256.45
-Metacarpophalangeal joint, by closed reduction | $173.10
-Metacarpophalangeal joint, by open reduction | $231.85
-Patella, by closed reduction | $194.60
-Patella, by open reduction | $259.60
-Radioulnar joint, by closed reduction | $302.90
-Radioulnar joint, by open reduction | $401.70
-Toe, by closed reduction | $108.25
-Toe, by open reduction | $143.75
+Elbow, by closed reduction | $313.60
+Elbow, by open reduction | $415.90
+Interphalangeal joint, by closed reduction | $134.45
+Interphalangeal joint, by open reduction | $179.20
+Mandible, by closed reduction | $112.05
+Clavicle, by closed reduction | $132.95
+Clavicle, by open reduction | $268.75
+Shoulder, not requiring general anaesthetic | $149.50
+Shoulder, by open reduction, with general anaesthetic | $536.10
+Shoulder, other, with general anaesthetic | $265.50
+Metacarpophalangeal joint, by closed reduction | $179.20
+Metacarpophalangeal joint, by open reduction | $240.05
+Patella, by closed reduction | $201.45
+Patella, by open reduction | $268.75
+Radioulnar joint, by closed reduction | $313.60
+Radioulnar joint, by open reduction | $415.90
+Toe, by closed reduction | $112.05
+Toe, by open reduction | $148.80
 REMOVAL OF FOREIGN BODIES
-as independent procedure | $47.10
-superficial | $210.15
-deep tissue or muscle | $587.25
-ear, other than by syringing | $151.35
-nose, other than by simple probing | $151.35
-cornea or sclera, embedded | $154.55
+as independent procedure | $48.75
+superficial | $217.55
+deep tissue or muscle | $608.00
+ear, other than by syringing | $156.70
+nose, other than by simple probing | $156.70
+cornea or sclera, embedded | $160.00
 FRACTURES
-closed reduction means non-operative reduction of the fracture, and included percutaneous fixation and/or external splintage by cast or splint.
+closed reduction means non-operative reduction of the fracture and included percutaneous fixation and/or external splintage by cast or splint.
 open reduction means treatment by either closed reduction and intra-medullary fixation or treatment by operative exposure of the fracture including internal or external fixation.
 other means treatment by any other method and includes the use of external splintage.
 [Where injuries are associated with a compound (open) wound, an additional fee of 50% of the fee listed is to apply.]
 Distal phalanx of finger or thumb
-fracture, by closed reduction | $194.60
-fracture, intra-articular, by closed reduction | $225.65
-fracture, by open reduction | $259.60
-fracture, intra-articular, by open reduction | $324.45
+fracture, by closed reduction | $201.45
+fracture, intra-articular, by closed reduction | $233.60
+fracture, by open reduction | $268.75
+fracture, intra-articular, by open reduction | $335.90
 Middle phalanx of finger
-fracture, by closed reduction | $293.60
-fracture, intra-articular, by closed reduction | $332.15
-fracture, by open reduction | $386.25
-fracture, intra-articular, by open reduction | $486.70
+fracture, by closed reduction | $303.95
+fracture, intra-articular, by closed reduction | $343.85
+fracture, by open reduction | $399.90
+fracture, intra-articular, by open reduction | $503.90
 Proximal phalanx of finger or thumb
-fracture, by closed reduction | $386.25
-fracture, intra-articular, by closed reduction | $455.75
-fracture, by open reduction | $517.80
-fracture, intra-articular, by open reduction | $649.00
+fracture, by closed reduction | $399.90
+fracture, intra-articular, by closed reduction | $471.85
+fracture, by open reduction | $536.10
+fracture, intra-articular, by open reduction | $671.90
 Metacarpal
-fracture, by closed reduction | $386.25
-fracture, intra-articular, by closed reduction | $455.75
-fracture, by open reduction | $517.80
-fracture, intra-articular, by open reduction | $649.00
-Carpal Scaphoid, by open reduction | $865.30
-Carpal Scaphoid, other | $386.25
-Carpus (excluding Scaphoid), by open reduction | $540.75
-Carpus (excluding Scaphoid), other | $216.35
+fracture, by closed reduction | $399.90
+fracture, intra-articular, by closed reduction | $471.85
+fracture, by open reduction | $536.10
+fracture, intra-articular, by open reduction | $671.90
+Carpal Scaphoid, by open reduction | $895.85
+Carpal Scaphoid, other | $399.90
+Carpus (excluding Scaphoid), by open reduction | $559.85
+Carpus (excluding Scaphoid), other | $224.00
 Radius
-by closed management | $432.55
-by open management | $865.30
+by closed management | $447.80
+by open management | $895.85
 Radius or Ulnar, distal end, (Colies’, Smith’s or Barton’s)
-by closed reduction | $649.00
-by open reduction | $865.30
-Ribs (1 or more), each attendance | $99.00
+by closed reduction | $671.90
+by open reduction | $895.85
+Ribs (1 or more), each attendance | $102.50
 Tibia, plateau of, medial or lateral
-by closed reduction | $780.35
-by open reduction | $1 035.20
+by closed reduction | $807.90
+by open reduction | $1 071.75
 Tibia, plateau of, medial and lateral
-by closed reduction | $1 297.90
-by open reduction | $1 738.30
+by closed reduction | $1 343.70
+by open reduction | $1 799.65
 SUTURES
-face or neck, less than 7 cm, superficial | $154.55
-face or neck, less than 7 cm, deep | $234.85
-face or neck, more than 7 cm, superficial | $234.85
-face or neck, more than 7 cm, deep | $401.70
-except face or neck, less than 7 cm, superficial | $117.40
-except face or neck, less than 7 cm, deep | $176.15
-except face or neck, more than 7 cm, superficial | $176.15
-except face or neck, more than 7 cm, deep | $386.25
+face or neck, less than 7 cm, superficial | $160.00
+face or neck, less than 7 cm, deep | $243.15
+face or neck, more than 7 cm, superficial | $243.15
+face or neck, more than 7 cm, deep | $415.90
+except face or neck, less than 7 cm, superficial | $121.55
+except face or neck, less than 7 cm, deep | $182.35
+except face or neck, more than 7 cm, superficial | $182.35
+except face or neck, more than 7 cm, deep | $399.90
 AMPUTATIONS
-Hand, midcarpal or transmetacarpal | $587.25
-Hand, forearm or through arm | $679.90
-At shoulder | $1 151.00
-Interscapulothoracic | $2 286.75
-One digit of foot | $308.95
-Two digits of one foot | $463.60
-Three digits of one foot | $625.75
-Four digits of one foot | $780.35
-Five digits of one foot | $934.80
-Toe including metatarsal or part of metatarsal — each toe | $364.80
-Foot, at ankle | $679.90
-Foot, midtarsal or transmetatarsal | $587.25
-Through thigh, at knee or below knee | $1 004.45
-At hip | $1 413.70
+Hand, midcarpal or transmetacarpal | $608.00
+Hand, forearm or through arm | $703.90
+At shoulder | $1 191.65
+Interscapulothoracic | $2 367.45
+One digit of foot | $319.85
+Two digits of one foot | $479.95
+Three digits of one foot | $647.85
+Four digits of one foot | $807.90
+Five digits of one foot | $967.80
+Toe including metatarsal or part of metatarsal — each toe | $377.70
+Foot, at ankle | $703.90
+Foot, midtarsal or transmetatarsal | $608.00
+Through thigh, at knee or below knee | $1 039.90
+At hip | $1 463.60
 ASSISTANCE AT OPERATIONS The fee for assistance at any operation (or series or combination of operations) is to be related to the fee listed for the operation (or series or combination of operations) itself.
-The fee is 20% of the total fee or the minimum sum of $194.60, whichever is greater.
-USE OF PRIVATE THEATRES A theatre fee of $117.40 will be paid to practitioners for the use of their private theatre, but this fee may only be charged if the patient would otherwise have been sent to hospital.
-[Part 2 inserted in Gazette 25 Sep 2012 p. 4457-62.]
+The fee is 20% of the total fee or the minimum sum of $201.45, whichever is greater.
+USE OF PRIVATE THEATRES A theatre fee of $121.55 will be paid to practitioners for the use of their private theatre, but this fee may only be charged if the patient would otherwise have been sent to hospital.
+[Part 2 inserted in Gazette 15 Oct 2013 p. 4695-9.]
 ## Part 3 — Diagnostic Imaging Services
-[Heading inserted in Gazette 25 Sep 2012 p. 4462.]
+[Heading inserted in Gazette 15 Oct 2013 p. 4700.]
 ULTRASOUND
 MBS item number (1 November 2009) | Fee
-55028 | $189.25
-55029 | $65.65
-55030 | $189.25
-55031 | $65.65
-55032 | $189.25
-55033 | $65.65
-55036 | $193.00
-55037 | $65.65
-55038 | $189.25
-55039 | $65.65
-55044 | $193.00
-55045 | $65.65
-55048 | $189.25
-55049 | $65.65
-55054 | $189.25
-55070 | $170.40
-55073 | $59.00
-55076 | $189.25
-55079 | $65.65
-55084 | $170.40
-55085 | $59.00
-55113 | $400.10
-55114 | $400.10
-55115 | $400.10
-55116 | $444.90
-55117 | $444.90
-55118 | $477.80
-55130 | $294.95
-55135 | $613.35
-55238 | $293.95
-55244 | $293.95
-55246 | $293.95
-55248 | $293.95
-55252 | $293.95
-55274 | $293.95
-55276 | $293.95
-55278 | $293.95
-55280 | $293.95
-55282 | $293.95
-55284 | $293.95
-55292 | $293.95
-55294 | $293.95
-55296 | $192.70
-55600 | $189.25
-55603 | $189.25
-55700 | $104.00
-55703 | $60.70
-55704 | $121.45
-55705 | $60.70
-55706 | $173.45
-55707 | $121.45
-55708 | $60.70
-55709 | $65.90
-55712 | $199.50
-55715 | $69.35
-55718 | $173.45
-55721 | $199.50
-55723 | $65.90
-55725 | $69.35
-55729 | $47.25
-55731 | $170.10
-55733 | $60.70
-55736 | $220.25
-55739 | $98.80
-55759 | $260.20
-55762 | $104.00
-55764 | $277.50
-55766 | $112.65
-55768 | $260.20
-55770 | $104.00
-55772 | $277.50
-55774 | $112.65
-55800 | $189.25
-55802 | $65.65
-55804 | $189.25
-55806 | $65.65
-55808 | $189.25
-55810 | $65.65
-55812 | $189.25
-55814 | $65.65
-55816 | $189.25
-55818 | $65.65
-55820 | $189.25
-55822 | $65.65
-55824 | $189.25
-55826 | $65.65
-55828 | $189.25
-55830 | $65.65
-55832 | $189.25
-55834 | $65.65
-55836 | $189.25
-55838 | $65.65
-55840 | $189.25
-55842 | $65.65
-55844 | $151.50
-55846 | $65.65
-55848 | $189.25
-55850 | $265.15
-55852 | $189.25
-55854 | $65.65
+55028 | $195.95
+55029 | $67.95
+55030 | $195.95
+55031 | $67.95
+55032 | $195.95
+55033 | $67.95
+55036 | $199.80
+55037 | $67.95
+55038 | $195.95
+55039 | $67.95
+55044 | $199.80
+55045 | $67.95
+55048 | $195.95
+55049 | $67.95
+55054 | $195.95
+55070 | $176.40
+55073 | $61.10
+55076 | $195.95
+55079 | $67.95
+55084 | $176.40
+55085 | $61.10
+55113 | $414.20
+55114 | $414.20
+55115 | $414.20
+55116 | $460.60
+55117 | $460.60
+55118 | $494.65
+55130 | $305.35
+55135 | $635.00
+55238 | $304.35
+55244 | $304.35
+55246 | $304.35
+55248 | $304.35
+55252 | $304.35
+55274 | $304.35
+55276 | $304.35
+55278 | $304.35
+55280 | $304.35
+55282 | $304.35
+55284 | $304.35
+55292 | $304.35
+55294 | $304.35
+55296 | $199.50
+55600 | $195.95
+55603 | $195.95
+55700 | $107.65
+55703 | $62.85
+55704 | $125.75
+55705 | $62.85
+55706 | $179.55
+55707 | $125.75
+55708 | $62.85
+55709 | $68.25
+55712 | $206.55
+55715 | $71.80
+55718 | $179.55
+55721 | $206.55
+55723 | $68.25
+55725 | $71.80
+55729 | $48.90
+55731 | $176.10
+55733 | $62.85
+55736 | $228.00
+55739 | $102.30
+55759 | $269.40
+55762 | $107.65
+55764 | $287.30
+55766 | $116.65
+55768 | $269.40
+55770 | $107.65
+55772 | $287.30
+55774 | $116.65
+55800 | $195.95
+55802 | $67.95
+55804 | $195.95
+55806 | $67.95
+55808 | $195.95
+55810 | $67.95
+55812 | $195.95
+55814 | $67.95
+55816 | $195.95
+55818 | $67.95
+55820 | $195.95
+55822 | $67.95
+55824 | $195.95
+55826 | $67.95
+55828 | $195.95
+55830 | $67.95
+55832 | $195.95
+55834 | $67.95
+55836 | $195.95
+55838 | $67.95
+55840 | $195.95
+55842 | $67.95
+55844 | $156.85
+55846 | $67.95
+55848 | $195.95
+55850 | $274.50
+55852 | $195.95
+55854 | $67.95
 COMPUTED TOMOGRAPHY — EXAMINATION AND REPORT
 MBS item number (1 November 2009) | Fee
-56001 | $310.65
-56007 | $398.30
-56010 | $401.55
-56013 | $398.30
-56016 | $462.00
-56022 | $358.40
-56028 | $536.55
-56030 | $358.40
-56036 | $536.55
-56041 | $157.40
-56047 | $200.95
-56050 | $204.25
-56053 | $204.25
-56056 | $247.50
-56062 | $180.20
-56068 | $268.30
-56070 | $180.20
-56076 | $268.30
-56101 | $366.50
-56107 | $541.75
-56141 | $185.45
-56147 | $273.40
-56219 | $519.65
-56220 | $382.35
-56221 | $382.35
-56223 | $382.35
-56224 | $559.80
-56225 | $559.80
-56226 | $559.80
-56227 | $195.15
-56228 | $195.15
-56229 | $195.15
-56230 | $282.65
-56231 | $282.65
-56232 | $282.65
-56233 | $382.35
-56234 | $559.80
-56235 | $195.10
-56236 | $282.65
-56237 | $382.35
-56238 | $559.80
-56239 | $195.10
-56240 | $282.65
-56259 | $262.50
-56301 | $470.00
-56307 | $637.10
-56341 | $238.10
-56347 | $321.75
-56401 | $398.30
-56407 | $573.45
-56409 | $398.30
-56412 | $573.45
-56441 | $201.95
-56447 | $289.10
-56449 | $201.95
-56452 | $289.10
-56501 | $613.35
-56507 | $764.65
-56541 | $307.70
-56547 | $388.30
-56549 | $613.35
-56551 | $613.35
-56619 | $350.50
-56625 | $533.10
-56659 | $178.55
-56665 | $266.75
-56801 | $743.25
-56807 | $892.20
-56841 | $371.70
-56847 | $452.25
-57001 | $743.40
-57007 | $904.45
-57041 | $371.80
-57047 | $452.30
-57201 | $247.20
-57247 | $123.45
-57341 | $748.75
-57345 | $384.90
-57350 | $812.45
-57351 | $812.45
-57355 | $420.80
-57356 | $420.80
+56001 | $321.60
+56007 | $412.35
+56010 | $415.70
+56013 | $412.35
+56016 | $478.30
+56022 | $371.05
+56028 | $555.50
+56030 | $371.05
+56036 | $555.50
+56041 | $162.95
+56047 | $208.05
+56050 | $211.45
+56053 | $211.45
+56056 | $256.25
+56062 | $186.55
+56068 | $277.75
+56070 | $186.55
+56076 | $277.75
+56101 | $379.45
+56107 | $560.85
+56141 | $192.00
+56147 | $283.05
+56219 | $538.00
+56220 | $395.85
+56221 | $395.85
+56223 | $395.85
+56224 | $579.55
+56225 | $579.55
+56226 | $579.55
+56227 | $202.05
+56228 | $202.05
+56229 | $202.05
+56230 | $292.65
+56231 | $292.65
+56232 | $292.65
+56233 | $395.85
+56234 | $579.55
+56235 | $202.00
+56236 | $292.65
+56237 | $395.85
+56238 | $579.55
+56239 | $202.00
+56240 | $292.65
+56259 | $271.75
+56301 | $486.60
+56307 | $659.60
+56341 | $246.50
+56347 | $333.10
+56401 | $412.35
+56407 | $593.70
+56409 | $412.35
+56412 | $593.70
+56441 | $209.10
+56447 | $299.30
+56449 | $209.10
+56452 | $299.30
+56501 | $635.00
+56507 | $791.65
+56541 | $318.55
+56547 | $402.00
+56549 | $635.00
+56551 | $635.00
+56619 | $362.85
+56625 | $551.90
+56659 | $184.85
+56665 | $276.15
+56801 | $769.50
+56807 | $923.70
+56841 | $384.80
+56847 | $468.20
+57001 | $769.65
+57007 | $936.40
+57041 | $384.90
+57047 | $468.25
+57201 | $255.95
+57247 | $127.80
+57341 | $775.20
+57345 | $398.50
+57350 | $841.15
+57351 | $841.15
+57355 | $435.65
+57356 | $435.65
 DIAGNOSTIC RADIOLOGY
 MBS item number (1 November 2009) | Fee
-57506 | $54.70
-57509 | $73.10
-57512 | $74.50
-57515 | $99.35
-57518 | $59.75
-57521 | $79.80
-57524 | $91.00
-57527 | $121.05
-57700 | $74.50
-57703 | $99.35
-57706 | $59.75
-57709 | $79.80
-57712 | $86.75
-57715 | $112.10
-57721 | $182.55
-57901 | $118.60
-57902 | $118.60
-57903 | $87.00
-57906 | $118.60
-57909 | $118.60
-57912 | $86.75
-57915 | $86.75
-57918 | $86.75
-57921 | $86.75
-57924 | $86.75
-57927 | $91.25
-57930 | $60.50
-57933 | $143.95
-57939 | $118.60
-57942 | $91.25
-57945 | $79.80
-57960 | $87.25
-57963 | $87.25
-57966 | $87.25
-57969 | $87.25
-58100 | $123.45
-58103 | $101.40
-58106 | $141.60
-58108 | $244.45
-58109 | $86.50
-58112 | $178.90
-58115 | $244.45
-58300 | $73.85
-58306 | $164.40
-58500 | $65.05
-58503 | $86.75
-58506 | $111.90
-58509 | $73.10
-58521 | $79.80
-58524 | $103.95
-58527 | $127.65
-58700 | $84.80
-58706 | $290.50
-58715 | $278.80
-58718 | $232.10
-58721 | $254.35
-58900 | $65.65
-58903 | $87.50
-58909 | $165.40
-58912 | $202.85
-58915 | $145.20
-58916 | $254.75
-58921 | $248.80
-58924 | $154.65
-58927 | $140.70
-58933 | $378.30
-58936 | $360.55
-58939 | $256.30
-59103 | $39.25
-59300 | $164.70
-59303 | $99.25
-59306 | $184.60
-59309 | $368.95
-59312 | $160.10
-59314 | $96.55
-59318 | $86.55
-59503 | $164.40
-59700 | $177.65
-59703 | $139.65
-59712 | $209.20
-59715 | $264.10
-59718 | $247.75
-59724 | $416.65
-59733 | $198.15
-59736 | $114.05
-59739 | $135.85
-59751 | $256.05
-59754 | $403.50
-59760 | $211.85
-59763 | $246.40
-59903 | $210.75
-59912 | $561.50
-59925 | $666.75
-59970 | $309.70
-59971 | $105.45
-59972 | $280.70
-59973 | $333.40
-59974 | $154.85
-60000 | $1 037.65
-60003 | $1 521.70
-60006 | $2 163.70
-60009 | $2 532.15
-60012 | $1 037.65
-60015 | $1 521.70
-60018 | $2 163.70
-60021 | $2 532.15
-60024 | $1 037.65
-60027 | $1 521.70
-60030 | $2 163.70
-60033 | $2 532.15
-60036 | $1 037.65
-60039 | $1 521.70
-60042 | $2 163.70
-60045 | $2 532.15
-60048 | $1 037.65
-60051 | $1 521.70
-60054 | $2 163.70
-60057 | $2 532.15
-60060 | $1 037.65
-60063 | $1 521.70
-60066 | $2 163.70
-60069 | $2 532.15
-60072 | $88.55
-60075 | $176.80
-60078 | $265.35
-60100 | $111.90
-60500 | $79.80
-60503 | $54.70
-60506 | $117.30
-60509 | $181.90
-60918 | $86.75
-60927 | $70.05
-61109 | $476.30
+57506 | $56.65
+57509 | $75.70
+57512 | $77.15
+57515 | $102.85
+57518 | $61.85
+57521 | $82.60
+57524 | $94.20
+57527 | $125.30
+57700 | $77.15
+57703 | $102.85
+57706 | $61.85
+57709 | $82.60
+57712 | $89.80
+57715 | $116.05
+57721 | $189.00
+57901 | $122.80
+57902 | $122.80
+57903 | $90.05
+57906 | $122.80
+57909 | $122.80
+57912 | $89.80
+57915 | $89.80
+57918 | $89.80
+57921 | $89.80
+57924 | $89.80
+57927 | $94.45
+57930 | $62.65
+57933 | $149.05
+57939 | $122.80
+57942 | $94.45
+57945 | $82.60
+57960 | $90.35
+57963 | $90.35
+57966 | $90.35
+57969 | $90.35
+58100 | $127.80
+58103 | $105.00
+58106 | $146.60
+58108 | $253.10
+58109 | $89.55
+58112 | $185.20
+58115 | $253.10
+58300 | $76.45
+58306 | $170.20
+58500 | $67.35
+58503 | $89.80
+58506 | $115.85
+58509 | $75.70
+58521 | $82.60
+58524 | $107.60
+58527 | $132.15
+58700 | $87.80
+58706 | $300.75
+58715 | $288.65
+58718 | $240.30
+58721 | $263.35
+58900 | $67.95
+58903 | $90.60
+58909 | $171.25
+58912 | $210.00
+58915 | $150.35
+58916 | $263.75
+58921 | $257.60
+58924 | $160.10
+58927 | $145.65
+58933 | $391.65
+58936 | $373.30
+58939 | $265.35
+59103 | $40.65
+59300 | $170.50
+59303 | $102.75
+59306 | $191.10
+59309 | $381.95
+59312 | $165.75
+59314 | $99.95
+59318 | $89.60
+59503 | $170.20
+59700 | $183.90
+59703 | $144.60
+59712 | $216.60
+59715 | $273.40
+59718 | $256.50
+59724 | $431.35
+59733 | $205.15
+59736 | $118.10
+59739 | $140.65
+59751 | $265.10
+59754 | $417.75
+59760 | $219.35
+59763 | $255.10
+59903 | $218.20
+59912 | $581.30
+59925 | $690.30
+59970 | $320.65
+59971 | $109.15
+59972 | $290.60
+59973 | $345.15
+59974 | $160.30
+60000 | $1 074.30
+60003 | $1 575.40
+60006 | $2 240.10
+60009 | $2 621.55
+60012 | $1 074.30
+60015 | $1 575.40
+60018 | $2 240.10
+60021 | $2 621.55
+60024 | $1 074.30
+60027 | $1 575.40
+60030 | $2 240.10
+60033 | $2 621.55
+60036 | $1 074.30
+60039 | $1 575.40
+60042 | $2 240.10
+60045 | $2 621.55
+60048 | $1 074.30
+60051 | $1 575.40
+60054 | $2 240.10
+60057 | $2 621.55
+60060 | $1 074.30
+60063 | $1 575.40
+60066 | $2 240.10
+60069 | $2 621.55
+60072 | $91.70
+60075 | $183.05
+60078 | $274.70
+60100 | $115.85
+60500 | $82.60
+60503 | $56.65
+60506 | $121.45
+60509 | $188.30
+60918 | $89.80
+60927 | $72.50
+61109 | $493.10
 NUCLEAR MEDICINE IMAGING
 MBS item number (1 November 2009) | Fee
-61302 | $636.10
-61303 | $801.05
-61306 | $1 005.65
-61307 | $1 183.20
-61310 | $520.50
-61313 | $429.90
-61314 | $595.15
-61316 | $540.20
-61317 | $697.75
-61320 | $324.35
-61328 | $322.60
-61340 | $358.50
-61348 | $628.25
-61352 | $367.45
-61353 | $547.75
-61356 | $556.60
-61360 | $571.55
-61361 | $653.90
-61364 | $704.30
-61368 | $316.20
-61369 | $2 856.35
-61372 | $316.20
-61373 | $693.90
-61376 | $203.20
-61381 | $813.80
-61383 | $885.50
-61384 | $974.50
-61386 | $471.20
-61387 | $610.45
-61389 | $525.05
-61390 | $580.95
-61393 | $858.00
-61397 | $349.80
-61401 | $230.05
-61402 | $857.45
-61405 | $490.30
-61409 | $1 237.85
-61413 | $320.15
-61417 | $168.40
-61421 | $679.95
-61425 | $851.20
-61426 | $786.15
-61429 | $769.45
-61430 | $934.45
-61433 | $704.30
-61434 | $872.10
-61437 | $769.20
-61438 | $953.65
-61441 | $693.90
-61442 | $1 066.15
-61445 | $406.35
-61446 | $472.75
-61449 | $646.45
-61450 | $563.35
-61453 | $729.35
-61454 | $493.20
-61457 | $666.65
-61458 | $562.40
-61461 | $747.90
-61462 | $184.65
-61465 | $376.15
-61469 | $493.20
-61473 | $248.50
-61480 | $548.25
-61484 | $1 248.35
-61485 | $1 415.90
-61495 | $316.20
-61499 | $358.50
-61650 | $1 245.10
+61302 | $658.55
+61303 | $829.35
+61306 | $1 041.15
+61307 | $1 224.95
+61310 | $538.85
+61313 | $445.10
+61314 | $616.15
+61316 | $559.25
+61317 | $722.40
+61320 | $335.80
+61328 | $334.00
+61340 | $371.15
+61348 | $650.45
+61352 | $380.40
+61353 | $567.10
+61356 | $576.25
+61360 | $591.75
+61361 | $677.00
+61364 | $729.15
+61368 | $327.35
+61369 | $2 957.20
+61372 | $327.35
+61373 | $718.40
+61376 | $210.35
+61381 | $842.55
+61383 | $916.75
+61384 | $1 008.90
+61386 | $487.85
+61387 | $632.00
+61389 | $543.60
+61390 | $601.45
+61393 | $888.30
+61397 | $362.15
+61401 | $238.15
+61402 | $887.70
+61405 | $507.60
+61409 | $1 281.55
+61413 | $331.45
+61417 | $174.35
+61421 | $703.95
+61425 | $881.25
+61426 | $813.90
+61429 | $796.60
+61430 | $967.45
+61433 | $729.15
+61434 | $902.90
+61437 | $796.35
+61438 | $987.30
+61441 | $718.40
+61442 | $1 103.80
+61445 | $420.70
+61446 | $489.45
+61449 | $669.25
+61450 | $583.25
+61453 | $755.10
+61454 | $510.60
+61457 | $690.20
+61458 | $582.25
+61461 | $774.30
+61462 | $191.15
+61465 | $389.45
+61469 | $510.60
+61473 | $257.25
+61480 | $567.60
+61484 | $1 292.40
+61485 | $1 465.90
+61495 | $327.35
+61499 | $371.15
+61650 | $1 289.05
 MAGNETIC RESONANCE IMAGING
 MBS item number (1 November 2009) | Fee
-63000-63200 | $922.80
-63201 | $1 384.10
-63202-63203 | $922.80
-63204 | $1 384.10
-63219-63243 | $1 384.10
-63271-63473 | $922.80
-63491-63494 | $105.50
-63497 | $316.65
-[Part 3 inserted in Gazette 25 Sep 2012 p. 4462-78.]
+63000-63200 | $955.35
+63201 | $1 432.95
+63202-63203 | $955.35
+63204 | $1 432.95
+63219-63243 | $1 432.95
+63271-63473 | $955.35
+63491-63494 | $109.20
+63497 | $327.85
+[Part 3 inserted in Gazette 15 Oct 2013 p. 4700-16.]
