@@ -3,6 +3,8 @@
 [Heading inserted by No. 6 of 2008 s. 42(1).]
  | Enactment | Description of offence
 1. | The Criminal Code
+ | s. 221E(1) | Participating in activities of criminal organisation
+ | s. 221F(1) | Instructing commission of offence for benefit of criminal organisation
  | s. 279 | Murder
  | s. 280 | Manslaughter
  | s. 281 | Unlawful assault causing death
@@ -33,6 +35,14 @@
  | s. 444 | Criminal damage, if the property is destroyed or damaged by fire
 2. | Bush Fires Act 1954
  | s. 32 | Wilfully lighting a fire or causing a fire to be lit under such circumstances as to be likely to injure or damage a person or property
+2AA. | Criminal Organisations Control Act 2012
+ | s. 99(1) | Association by controlled person with another controlled person
+ | s. 99(3) | Association by controlled person with another controlled person on 3 or more occasions within 3 month period
+ | s. 102 | Offence for controlled person to get funds to, from or for declared criminal organisation
+ | s. 103 | Other contravention of interim control order or control order
+ | s. 106 | Recruiting members for declared criminal organisation
+ | s. 107(2) | Permitting premises to be habitually used as place of resort by members of declared criminal organisation
+ | s. 107(3) | Being knowingly concerned in the management of premises habitually used as place of resort by members of declared criminal organisation
 2a. | Misuse of Drugs Act 1981
  | s. 6(1) | Offences concerned with prohibited drugs generally
  | s. 7(1) | Offences concerned with prohibited plants generally
@@ -46,4 +56,4 @@
 3. | Road Traffic Act 1974
  | s. 59 | Dangerous driving causing death, injury, etc.
  | s. 59A | Dangerous driving causing bodily harm
-[Schedule 2 inserted by No. 45 of 1993 s. 11; amended by No. 82 of 1994 s. 13; No. 38 of 1998 s. 4(2); No. 54 of 1998 s. 15; No. 23 of 2001 s. 10(1); No. 4 of 2004 s. 24 and 26; No. 38 of 2004 s. 61; No. 62 of 2004 s. 9(1); No. 84 of 2004 s. 82; No. 6 of 2008 s. 42(2); No. 29 of 2008 s. 24(8); No. 47 of 2011 s. 19; No. 56 of 2011 s. 11.]
+[Schedule 2 inserted by No. 45 of 1993 s. 11; amended by No. 82 of 1994 s. 13; No. 38 of 1998 s. 4(2); No. 54 of 1998 s. 15; No. 23 of 2001 s. 10(1); No. 4 of 2004 s. 24 and 26; No. 38 of 2004 s. 61; No. 62 of 2004 s. 9(1); No. 84 of 2004 s. 82; No. 6 of 2008 s. 42(2); No. 29 of 2008 s. 24(8); No. 47 of 2011 s. 19; No. 56 of 2011 s. 11; No. 49 of 2012 s. 172.]

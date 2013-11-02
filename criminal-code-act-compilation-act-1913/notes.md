@@ -167,8 +167,9 @@ Manslaughter Legislation Amendment Act 2011 Pt. 2 | 58 of 2011 | 30 Nov 2011 | 1
 Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 6 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 4 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 3 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
+Criminal Organisations Control Act 2012 s. 173 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
 Criminal Law Amendment (Out-of-Control Gatherings) Act 2012 Pt. 2 | 56 of 2012 | 6 Dec 2012 | 15 Dec 2012 (see s. 2(b) and Gazette 14 Dec 2012 p. 6196)
-Reprint 17: The Criminal Code Act Compilation Act 1913 as at 1 Mar 2013 (includes amendments listed above)
+Reprint 17: The Criminal Code Act Compilation Act 1913 as at 1 Mar 2013 (includes amendments listed above except those in the Criminal Organisations Control Act 2012)
 Criminal Code Amendment Act 2013 | 12 of 2013 | 4 Oct 2013 | s. 1 and 2: 4 Oct 2013 (see s. 2(a)); Act other than s. 1 and 2: 5 Oct 2013 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -176,7 +177,6 @@ Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 | 10 of 2011 | 2 May 2011 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Criminal Organisations Control Act 2012 s. 173 | 49 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -261,50 +261,6 @@ Delete section 297(4)(c)(iii) and insert:
 185.Section 318 amended
 Delete section 318(1)(g)(iii) and insert:
 (iii) a taxi as defined in the Taxi Act 1994 section 3(1) or an omnibus as defined in the Transport Co-ordination Act 1966 section 4(1);
-On the date as at which this compilation was prepared, the Criminal Organisations Control Act 2012 s. 173 had not come into operation. It reads as follows:
-173.The Criminal Code amended
-(1) This section amends The Criminal Code.
-(2) After section 5(3)(a) insert:
-(ba) that the circumstances in which the offence was allegedly committed are such that, if the accused were convicted of the offence, the Sentencing Act 1995 Part 2 Division 2A would apply to the sentencing of the accused for that offence; or
-(3) In Part IV after section 221B insert:
-Chapter XXVIA — Facilitating activities of criminal organisations
-221C.Terms used
-(1) In this Chapter —
-COC Act means the Criminal Organisations Control Act 2012;
-criminal organisation has the meaning given in section 221D;
-declared criminal organisation has the meaning given in the Criminal Organisations Control Act 2012 section 3(1);
-indictable offence includes conduct engaged in outside this State (including outside Australia) that, if it occurred in this State, would constitute an indictable offence.
-(2) A term used in this Chapter and also in the COC Act has the same meaning in this Chapter as it has in that Act, unless the term is defined in this Code or the context requires otherwise.
-221D.Term used: criminal organisation
-(1) For the purposes of this Chapter, an entity is a criminal organisation if —
-(a) the entity is a declared criminal organisation; or
-(b) all of the following apply to the entity —
-(i) the entity is an organisation;
-(ii) members of the organisation associate for the purpose of organising, planning, facilitating, supporting or engaging in serious criminal activity;
-(iii) the organisation represents a risk to public safety and order in this State.
-(2) In determining whether an entity is a criminal organisation for the purposes of subsection (1)(b) —
-(a) a court may have regard to any of the matters that a designated authority is entitled to have regard to under the COC Act section 13(2) (other than paragraph (e)) in considering whether or not to make a declaration under that Act; and
-(b) section 13(3) of that Act applies with all necessary changes for the purposes of the court satisfying itself that subsection (1)(b)(ii) of this section applies to the entity.
-221E.Participating in activities of criminal organisation
-(1) A person who, for the purpose of enhancing the ability of a criminal organisation to facilitate or commit an indictable offence, by act or omission, participates in or contributes to any activity of the criminal organisation is guilty of a crime, and is liable to imprisonment for 5 years.
-Summary conviction penalty: imprisonment for 2 years.
-(2) For the purposes of subsection (1), facilitation of an offence does not require knowledge of a particular offence the commission of which is facilitated, or that an offence actually be committed.
-(3) In a prosecution for an offence under subsection (1), it is not necessary to prove that —
-(a) the criminal organisation actually facilitated or committed an indictable offence; or
-(b) the participation or contribution of the accused actually enhanced the ability of the criminal organisation to facilitate or commit an indictable offence; or
-(c) the accused knew the specific nature of any indictable offence that may have been facilitated or committed by the criminal organisation; or
-(d) the accused knew the identity of any of the persons who are members of the criminal organisation.
-(4) In determining whether an accused participates in or contributes to any activity of a criminal organisation, the court may consider, among other factors, whether the accused —
-(a) uses a name, word, symbol or other representation that identifies, or is associated with, the criminal organisation; or
-(b) frequently associates with members of the criminal organisation; or
-(c) receives any benefit from the criminal organisation; or
-(d) repeatedly engages in activities at the instruction of any of the members of the criminal organisation.
-221F.Instructing commission of offence for benefit of criminal organisation
-(1) A person who is a member of a criminal organisation and who instructs, directly or indirectly, any person to commit an offence under this Code or any other written law, or an offence against a law of a jurisdiction other than Western Australia, for the benefit of, at the direction of, or in association with, the criminal organisation is guilty of a crime, and is liable to imprisonment for 20 years.
-(2) In a prosecution for an offence under subsection (1), it is not necessary to prove that —
-(a) an offence other than the offence under subsection (1) was actually committed; or
-(b) the accused instructed a particular person to commit an offence; or
-(c) the accused knew the identity of all of the persons who are members of the criminal organisation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
