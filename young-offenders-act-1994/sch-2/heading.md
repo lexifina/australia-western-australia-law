@@ -8,6 +8,8 @@ Offences —
 ·which may lead to the application of the provisions relating to offenders who repeatedly commit offences resulting in detention
 Enactment | Description of offence
 1.The Criminal Code
+s. 221E(1) | Participating in activities of criminal organisation
+s. 221F(1) | Instructing commission of offence for benefit of criminal organisation
 s. 279 | Murder
 s. 280 | Manslaughter
 s. 281 | Unlawful assault causing death
@@ -36,6 +38,14 @@ s. 393 | Assault with intent to rob
 s. 444 | Criminal damage
 2.Bush Fires Act 1954
 s. 32 | Wilfully lighting a fire or causing a fire to be lit under such circumstances as to be likely to injure or damage a person or property
+2AA.Criminal Organisations Control Act 2012
+s. 99(1) | Association by controlled person with another controlled person
+s. 99(3) | Association by controlled person with another controlled person on 3 or more occasions within 3 month period
+s. 102 | Offence for controlled person to get funds to, from or for declared criminal organisation
+s. 103 | Other contravention of interim control order or control order
+s. 106 | Recruiting members for declared criminal organisation
+s. 107(2) | Permitting premises to be habitually used as place of resort by members of declared criminal organisation
+s. 107(3) | Being knowingly concerned in the management of premises habitually used as place of resort by members of declared criminal organisation
 2A.Prostitution Act 2000
 s. 7 | Seeking to induce person to act as prostitute
 s. 16 | Causing, permitting, or seeking to induce child to act as prostitute
@@ -44,4 +54,4 @@ s. 18 | Agreement for prostitution by a child
 3.Road Traffic Act 1974
 s. 59 | Dangerous driving causing death, injury, etc.
 s. 59A | Dangerous driving causing bodily harm
-[Schedule 2 amended by No. 82 of 1994 s. 13(6); No. 17 of 2000 s. 64; No. 23 of 2001 s. 10(4); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 45; No. 29 of 2008 s. 41(5).]
+[Schedule 2 amended by No. 82 of 1994 s. 13(6); No. 17 of 2000 s. 64; No. 23 of 2001 s. 10(4); No. 4 of 2004 s. 24 and 26; No. 58 of 2004 s. 45; No. 29 of 2008 s. 41(5); No. 49 of 2012 s. 182.]

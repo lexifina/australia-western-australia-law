@@ -21,34 +21,20 @@ Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 18 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Reprint 3: The Criminal Property Confiscation Act 2000 as at 4 May 2012 (includes amendments listed above except those in the Co-operatives Act 2009 s. 513)
+Criminal Organisations Control Act 2012 s. 176(1)-(4) | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Criminal Organisations Control Act 2012 s. 176 | 49 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
+Criminal Organisations Control Act 2012 s. 176(5) | 49 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
-On the date as at which this compilation was prepared, the Criminal Organisations Control Act 2012 s. 176 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Criminal Organisations Control Act 2012 s. 176(5) had not come into operation. It reads as follows:
 176.Criminal Property Confiscation Act 2000 amended
-(1) This section amends the Criminal Property Confiscation Act 2000.
-(2) After section 141(1)(a) insert:
-(ba) any offence against a law in force anywhere in Australia, in any case where —
-(i) the involvement or suspected involvement of a person in the commission of an offence, or the commission or suspected commission of an offence by a person, or the conviction of a person for an offence, is relevant for the purposes of any proceedings under this Act against that person or for the purposes of any provision of this Part or Parts 5, 6, 8, 10 or 11; and
-(ii) at the time of the person’s involvement or suspected involvement in the commission of the offence or, as the case requires, the time of the commission or suspected commission of the offence by the person, the person is or was a controlled person under a control order under the Criminal Organisations Control Act 2012;
-or
-(3) After section 148(3) insert:
-(4A) In subsection (4B) —
-declared criminal organisation has the meaning given in the Criminal Organisations Control Act 2012 section 3(1);
-member, of a declared criminal organisation, has the meaning given in the Criminal Organisations Control Act 2012 section 3(1).
-(4B) Subsection (4C) applies if —
-(a) a person is convicted of a confiscation offence; and
-(b) at the time of the commission of the offence, the person was a member of a declared criminal organisation.
-(4C) If this subsection applies, it is presumed that all the property that the person owns or effectively controls at the time of the commission of the confiscation offence is crime-derived property, unless the person establishes the contrary.
-(4) Delete section 159(2)(a) and insert:
-(a) the person is charged with a serious drug offence or a relevant drug offence, as those terms are defined in the Misuse of Drugs Act 1981 section 32A(3); and
 (5) In section 159(2) after paragraphs (b) and (c) insert:
 and
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
+unexplained wealth4, Gl.
 abscondGl.
 accountGl.
 agentGl.
@@ -63,16 +49,17 @@ corporationGl.
 corresponding lawGl.
 courtGl.
 crime-derivedGl.
-crime-derived property4(d)
+crime-derived property4
 crime-usedGl.
-crime-used property4(c)
+crime-used property4
 crime-used property substitution declarationGl.
 criminal benefitGl.
-criminal benefits4(b)
+criminal benefits4
 criminal benefits declarationGl.
 criminal useGl.
 dealGl.
-declared drug trafficker4(e), 159(1), Gl.
+declared criminal organisation148(4A)
+declared drug trafficker4, 159(1), Gl.
 directorGl.
 dispose ofGl.
 documentGl.
@@ -96,6 +83,7 @@ interstate criminal benefits declarationGl.
 interstate freezing orderGl.
 lawfully acquiredGl.
 medical practitionerGl.
+member148(4A)
 monitoring orderGl.
 objectionGl.
 officerGl.
@@ -120,7 +108,6 @@ sham transactionGl.
 State taxesGl.
 suspension orderGl.
 transactionGl.
-unexplained wealth4(a), Gl.
 unexplained wealth declarationGl.
 valuable considerationGl.
 valueGl.

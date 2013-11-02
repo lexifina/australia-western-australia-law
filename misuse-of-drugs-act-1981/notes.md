@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 April 2013 of the Misuse of Drugs Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Misuse of Drugs Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Misuse of Drugs Act 1981 | 66 of 1981 | 23 Oct 1981 | 1 Sep 1982 (see s. 2 and Gazette 20 Aug 1982 p. 3250)
@@ -48,12 +48,9 @@ Misuse of Drugs Amendment Act 2011 Pt. 2 | 56 of 2011 | 21 Nov 2011 | s. 3, 4 an
 Misuse of Drugs (Amounts of Prohibited Drugs) Order 2012 published in Gazette 13 Apr 2012 p. 1664-5 | cl. 1 and 2: 13 Apr 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 14 Apr 2012 (see cl. 2(b))
 Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 10 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
 Misuse of Drugs (Amounts of Prohibited Drugs) Order (No. 2) 2012 published in Gazette 30 Oct 2012 p. 5194-6 | cl. 1 and 2: 30 Oct 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 31 Oct 2012 (see cl. 2(b))
+Criminal Organisations Control Act 2012 s. 179 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
 Criminal Investigation (Covert Powers) Act 2012 Pt. 9 | 55 of 2012 | 3 Dec 2012 | 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
-Reprint 6: The Misuse of Drugs Act 1981 as at 19 Apr 2013 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Criminal Organisations Control Act 2012 s. 179 | 49 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
+Reprint 6: The Misuse of Drugs Act 1981 as at 19 Apr 2013 (includes amendments listed above except those in the Criminal Organisations Control Act 2012)
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 are savings and transitional provisions.
@@ -65,25 +62,6 @@ commencement day means the day on which this Part comes into operation.
 (1) In this section —
 former authorisation means an authorisation under the Misuse of Drugs Act 1981 section 31(1) as in force immediately before the day on which Part 9 comes into operation.
 (2) A former authorisation in force immediately before the commencement day, is, on and after the commencement day, to be taken to be an authority as defined in section 5 granted on the commencement day and Part 2 applies, with any necessary modifications, to that authority.
-On the date as at which this reprint was prepared, the Criminal Organisations Control Act 2012 s. 179 had not come into operation. It reads as follows:
-179.Misuse of Drugs Act 1981 amended
-(1) This section amends the Misuse of Drugs Act 1981.
-(2) In section 32A(1):
-(a) in paragraph (b)(ii) delete “belong,” and insert:
-belong;
-(b) after paragraph (b) insert:
-or
-(c) a relevant drug offence and, at the time of the commission of the offence, was a member of a declared criminal organisation,
-(c) after “or the serious drug offence referred to in paragraph (b),” insert:
-or the relevant drug offence referred to in paragraph (c),
-(3) In section 32A(3) insert in alphabetical order:
-declared criminal organisation has the meaning given in the Criminal Organisations Control Act 2012 section 3(1);
-member, of a declared criminal organisation, has the meaning given in the Criminal Organisations Control Act 2012 section 3(1);
-relevant drug offence means an offence under any of the following provisions —
-(a)section 5(1)(a)(i);
-(b)section 5(1)(c), where the premises are used for the purpose referred to in section 5(1)(a)(i);
-(c)sections 6(1), 7(1) and 14(1);
-(d)section 33, where the principal offence (as defined in that section) is one of the offences listed in paragraphs (a) to (c);
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -112,6 +90,7 @@ commencement day45
 Commissioner3(1)
 confidential information27B(1)
 dangerous substance3(1)
+declared criminal organisation32A(3)
 dentist3(1)
 display7B(1)
 drug of addiction3(1)
@@ -121,6 +100,7 @@ heroin3(1)
 industrial hemp3(1)
 industrial hemp seed3(1)
 medical practitioner3(1)
+member32A(3)
 minor cannabis related offence8B(1)
 new offence8E(4), 8G(1)
 nurse practitioner3(1)
@@ -134,6 +114,7 @@ prohibited drug3(1)
 prohibited plant3(1)
 recipient12
 regulations3(1)
+relevant drug offence32A(3)
 relevant thing27(6)
 repeal daySch. IX cl. 1(1)
 responsible adult8B(1)
