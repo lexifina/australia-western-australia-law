@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 12 April 2013 of the Criminal Appeals Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Criminal Appeals Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Appeals Act 2004 | 60 of 2004 | 23 Nov 2004 | s. 1 and 2: 23 Nov 2004; Act other than s. 1 and 2: 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129)
@@ -13,6 +13,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 13 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div.5 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 13 had not come into operation. It reads as follows:
 Division 13 — Criminal Appeals Act 2004 amended
 74.Act amended
@@ -20,6 +21,15 @@ This Division amends the Criminal Appeals Act 2004.
 75.Section 11 amended
 In section 11(3) delete “the Road Traffic Act 1974,” and insert:
 a road law as defined in the Road Traffic (Administration) Act 2008 section 4,
+On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 5 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts
+Division 5 — Criminal Appeals Act 2004 amended
+40.Act amended
+This Division amends the Criminal Appeals Act 2004.
+41.Section 4A inserted
+After section 3 insert:
+4A.Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies
+The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies to this Act.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
