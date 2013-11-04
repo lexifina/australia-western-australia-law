@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 24 May 2013 of the Criminal Procedure Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Criminal Procedure Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Procedure Act 2004 | 71 of 2004 | 8 Dec 2004 | s. 1 and 2: 8 Dec 2004; Act other than s. 1 and 2: 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
@@ -19,6 +19,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 15 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 8 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 The Prisons Act 1981 s. 21 and 22 were deleted by the Prisons and Sentencing Legislation Amendment Act 2006 s. 13.
 On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 15 had not come into operation. It reads as follows:
 Division 15 — Criminal Procedure Act 2004 amended
@@ -32,6 +33,50 @@ Road Traffic (Administration) Act 2008 section 4;
 Road Traffic (Vehicles) Act 2012
 (2) In section 11(1) in the definition of vehicle licensing law delete “Road Traffic Act 1974” and insert:
 Road Traffic (Vehicles) Act 2012
+On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 8 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts
+Division 8 — Criminal Procedure Act 2004 amended
+46.Act amended
+This Division amends the Criminal Procedure Act 2004.
+47.Section 3 amended
+(1) In section 3(1) insert in alphabetical order:
+authenticate means authenticate in accordance with the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 section 10;
+(2) In section 3(1) in the definition of charge delete “a written” and insert:
+an
+48.Section 4A inserted
+At the end of Part 1 insert:
+4A.Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies
+The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies to this Act.
+49.Section 34 amended
+Delete section 34(2) and insert:
+(2) An amendment made under subsection (1) must be endorsed on the summons or notice.
+50.Section 45 amended
+In section 45(6) after “signs” insert:
+or authenticates
+51.Section 139 amended
+Delete section 139(2)(c) and insert:
+(c) if the accused is in custody, by issuing an order under the Prisons Act 1981 section 85.
+52.Section 172 amended
+Delete section 172(3)(b) and insert:
+(b) on any party’s behalf in any court —
+(i) by a legal practitioner; or
+(ii) with the court’s leave, by a person who is undertaking approved practical legal training requirements (as defined in the Legal Profession Act 2008 section 21(1)); or
+(iii) with the court’s leave, by a person who is neither a legal practitioner nor a person referred to in subparagraph (ii).
+53.Section 173 replaced
+Delete section 173 and insert:
+173.Unauthorised documents
+A person must not —
+(a) sign or authenticate a prosecution notice, indictment, summons, court hearing notice or witness summons, knowing that he or she is not authorised to do so; or
+(b) lodge a prosecution notice or an indictment knowing —
+(i) that it has been signed by a person who is not authorised to sign it; or
+(ii) that it has been authenticated by a person who is not authorised to authenticate it.
+Penalty: imprisonment for 12 months or a fine of $12 000.
+54.Section 186 amended
+In section 186(2):
+(a) in paragraph (c) delete “conducted.” and insert:
+conducted;
+(b) after paragraph (c) insert:
+(d) prescribe requirements relating to the lodging of documents with a court under this Act or another written law.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
