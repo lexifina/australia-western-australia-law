@@ -110,6 +110,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 31 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 11 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 The Evidence Amendment Act 1990 s. 4(2) reads as follows:
 (2) Subsection (2a) inserted in section 11 of the principal Act by subsection (1) applies to a certificate given under subsection (2) of that section in respect of evidence given on or after the day on which this section comes into operation.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
@@ -193,6 +194,70 @@ On the date as at which this compilation was prepared, the Prostitution Amendmen
 20 | Commercial sexual act at place where child present
 21 | Allowing child to be at place involving commercial sexual act or certain sexual service businesses
 21A | Obligations of those who operate sexual service business in relation to children
+On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 11 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts
+Division 11 — Evidence Act 1906 amended
+59.Act amended
+This Division amends the Evidence Act 1906.
+60.Section 5A inserted
+After section 4 insert:
+5A.Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies
+The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies to this Act (other than section 19B).
+61.Section 12 amended
+In section 12(4) delete “in writing under his hand”.
+62.Section 51 amended
+In section 51 delete “under his hand” and insert:
+signed by him or her
+63.Section 54 amended
+In section 54:
+(a) after “impression” insert:
+or image
+(b) after “impressed” insert:
+or applied
+64.Section 55 amended
+In section 55:
+(a) after “impression” insert:
+or image
+(b) after “impressed” insert:
+or applied
+65.Section 56 amended
+In section 56 delete “seal purports to be attached or appended” and insert:
+seal, or an image of the signature or seal, purports to be attached, appended or applied
+66.Section 67 amended
+(1) At the beginning of section 67 insert:
+(1) In this section, a reference to a seal, stamp or signature includes an image of a seal, stamp or signature.
+(2) In section 67 delete “Whenever” and insert:
+(2) Whenever
+67.Section 68 amended
+In section 68(1) delete “under the hand of” and insert:
+and signed by
+68.Section 73B amended
+In section 73B(3) delete “by prepaid post”.
+69.Section 73BA inserted
+After section 73B insert:
+73BA.Authenticated copies of certain public documents etc. admissible without further proof
+(1) In this section —
+authenticated copy, in relation to a document or official record to which this section applies, means a copy of the document or official record that is authenticated in accordance with any regulations or rules of court as being produced from an electronic version of the document or official record.
+(2) This section applies to —
+(a) a document that is at any time filed in a court and is recorded in electronic form; and
+(b) the official record of any proceedings in a court, if the official record is kept in electronic form.
+(3) An authenticated copy of a document or official record to which this section applies is admissible in evidence without further proof as if it were the document or official record of which it is an authenticated copy.
+(4) If the registrar, clerk or proper officer of a court is served with legal process to produce, in a court or before a person acting judicially, a document or official record to which this section applies, it is sufficient answer to that process if the person to whom it is addressed provides or makes available to the registrar, clerk or proper officer of the court in which the document or official record is to be produced or the person before whom the document or official record is to be produced an authenticated copy of the document or official record.
+70.Sections 82 to 88 deleted
+(1) Delete the heading before section 82.
+(2) Delete sections 82 to 88.
+71.Section 109 amended
+In section 109(1) in the definition of examination delete “letter of”.
+72.Section 110 amended
+In section 110(1)(c) delete “letter of”.
+73.Section 133 inserted
+After section 132 insert:
+Regulations and rules of court for purposes of Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2
+133.Regulations and rules of court for purposes of Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2
+(1) The Governor may make regulations prescribing all matters that are necessary or convenient to be prescribed for giving effect to the purposes of the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 as applied by section 5A.
+(2) The power of an authority to make rules of court extends to making rules of court prescribing all matters that are necessary or convenient to be prescribed for giving effect to the purposes of the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 as applied by section 5A.
+(3) The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 section 20(3) and (4) apply as if the power conferred by subsections (1) and (2) of this section were a power conferred by section 20(1) or (2) of that Act.
+(4) This section does not limit or affect any other power in this Act or any other written law to make regulations or rules of court.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
