@@ -47,6 +47,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 7 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 2 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
 Footnote no longer applicable.
 Now known as the Children’s Court of Western Australia Act 1988; short title changed (see note under s. 1).
@@ -65,6 +66,15 @@ This Division amends the Children’s Court of Western Australia Act 1988.
 56.Section 51A amended
 Delete section 51A(3)(h) and insert:
 (h) the CEO as defined in the Road Traffic (Administration) Act 2008 section 4;
+On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 2 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts
+Division 2 — Children’s Court of Western Australia Act 1988 amended
+32.Act amended
+This Division amends the Children’s Court of Western Australia Act 1988.
+33.Section 5A inserted
+At the end of Part 1 insert:
+5A.Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies
+The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies to this Act.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
