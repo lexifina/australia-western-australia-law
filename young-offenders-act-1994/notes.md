@@ -51,6 +51,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 54 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 21 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -108,6 +109,56 @@ as defined in that section
 203.Section 189 amended
 In section 189(8)(c) delete “issued under the Road Traffic Act 1974; or” and insert:
 as that term is defined in the Road Traffic (Administration) Act 2008 section 4; or
+On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 21 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts
+Division 21 — Young Offenders Act 1994 amended
+136.Act amended
+This Division amends the Young Offenders Act 1994.
+137.Section 6A inserted
+At the end of Part 1 insert:
+6A.Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies
+The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies to this Act.
+138.Section 43 amended
+(1) Delete section 43(5) and insert:
+(5) A copy of a notice to attend court issued to a young person is to be given to a person who is a responsible adult in one of the following ways —
+(a) by serving it personally on the responsible adult;
+(b) by giving it electronically to the responsible adult in accordance with the regulations;
+(c) by sending it by post to the address of the responsible adult.
+(6A) However, subsection (5) does not apply if, after reasonable enquiry —
+(a) neither the whereabouts nor the address of the responsible adult can be ascertained; and
+(b) a way of giving a copy of the notice electronically to the responsible adult in accordance with the regulations cannot be found.
+(2) Delete section 43(6)(d) and insert:
+(da) the person electronically gave to a person who is a responsible adult a copy of a notice to attend court; or
+(d) after the person has made reasonable enquiry —
+(i) neither the whereabouts nor the address of a responsible adult could be ascertained; and
+(ii) a way of giving a copy of the notice electronically to a responsible adult in accordance with the regulations could not be found,
+139.Section 45 amended
+In section 45(1) delete “personally on” and insert:
+(either personally, or electronically in accordance with the regulations) on a person who is a responsible adult,
+140.Section 64 amended
+(1) In section 64 delete “If a young person” and insert:
+(1) If a young person
+(2) At the end of section 64 insert:
+(2) Without limiting subsection (1) —
+(a) the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 32(2) applies to and in relation to a fine to which subsection (1)(a) applies; and
+(b) section 59A(2) of that Act applies to and in relation to —
+(i) a forfeited bail undertaking to which subsection (1)(b) applies; and
+(ii) a forfeited recognisance to which subsection (1)(c) applies.
+141.Section 65 amended
+(1) After section 65(2) insert:
+(3A) The Fines, Penalties and Infringement Notices Enforcement Act 1994 section 10B applies to fines, forfeited bail undertakings and forfeited recognisances to which subsection (1) applies.
+(2) After section 65(3) insert:
+(4A) If, under subsection (3)(a), the court must register a fine or the amount of a forfeited undertaking or forfeited recognisance under the Fines, Penalties and Infringement Notices Enforcement Act 1994, then —
+(a) in the case of a fine, section 32(2) of that Act applies to and in relation to the fine; and
+(b) in the case of a forfeited undertaking or forfeited recognisance, section 59A(3) of that Act applies to and in relation to the amount forfeited.
+142.Section 120 amended
+(1) In section 120(2) delete “record in writing the” and insert:
+give written
+(2) After section 120(2) insert:
+(3) In subsection (2) —
+written reasons includes reasons that are —
+(a)given orally and subsequently transcribed; or
+(b)given orally but also recorded electronically in a format that enables them to be subsequently transcribed.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
