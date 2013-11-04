@@ -33,10 +33,20 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 19 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 had not come into operation. It reads as follows:
 82.State Administrative Tribunal Act 2004 amended
 (1) This section amends the State Administrative Tribunal Act 2004.
 (2) In Schedule 1 delete “Finance Brokers Control Act 1975”.
+On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 19 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts
+Division 19 — State Administrative Tribunal Act 2004 amended
+132.Act amended
+This Division amends the State Administrative Tribunal Act 2004.
+133.Section 7A inserted
+At the end of Part 1 insert:
+7A.Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies
+The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies to this Act.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
