@@ -21,6 +21,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 30 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 13 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Repealed by the Courts Legislation Amendment and Repeal Act 2004.
 The Courts Legislation Amendment and Repeal Act 2004 contains transitional provisions about enforcing judgments given before the Civil Judgments Enforcement Act 2004 commenced, including judgment of Local Courts.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 30 had not come into operation. It reads as follows:
@@ -30,6 +31,15 @@ This Division amends the Magistrates Court Act 2004.
 126.Section 33 amended
 Delete section 33(7)(g) and insert:
 (g) the CEO as defined in the Road Traffic (Administration) Act 2008 section 4;
+On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 13 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts
+Division 13 — Magistrates Court Act 2004 amended
+96.Act amended
+This Division amends the Magistrates Court Act 2004.
+97.Section 4A inserted
+At the end of Part 1 insert:
+4A.Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies
+The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies to this Act.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
