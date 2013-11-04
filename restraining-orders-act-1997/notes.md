@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Restraining Orders Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Restraining Orders Act 1997 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Restraining Orders Act 1997 | 19 of 1997 | 28 Aug 1997 | s. 1 and 2: 28 Aug 1997; Act other than s. 1 and 2: 15 Sep 1997 (see s. 2 and Gazette 12 Sep 1997 p. 5149)
@@ -24,9 +24,83 @@ Reprint 3: The Restraining Orders Act 1997 as at 9 Jan 2009 (includes amendments
 Restraining Orders Amendment Act 2011 Pt. 2 | 32 of 2011 | 12 Sep 2011 | 5 May 2012 (see s. 2(b) and Gazette 4 May 2012 p. 1847)
 Restraining Orders Amendment Act 2013 Pt. 2 | 14 of 2013 | 4 Oct 2013 | 4 Oct 2013 (see s. 2)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 18 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 17 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Repealed by Children and Community Services Act 2004 s. 250(1)(a).
 Part 9 contained transitional provisions relating to orders to keep the peace in force under the Justices Act 1902 when this Act came into operation.
 The Courts Legislation Amendment and Repeal Act 2004 s. 123 (the amendment to s. 67(2)) and s. 124 (the amendment to s. 4(a)) were repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(3) and (4).
+On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 17 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts
+Division 17 — Restraining Orders Act 1997 amended
+107.Act amended
+This Division amends the Restraining Orders Act 1997.
+108.Section 3 amended
+In section 3 insert in alphabetical order:
+remote communication means any way of communicating at a distance, including by telephone, fax, radio, video conference or email;
+109.Section 8A inserted
+At the end of Part 1 insert:
+8A.Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies
+The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies to this Act.
+110.Section 19 amended
+(1) Delete section 19(b) and insert:
+(b) may be made by remote communication; and
+(2) After section 19(a) insert:
+and
+111.Section 21 amended
+Delete section 21(1) and insert:
+(1) The hearing of a telephone application may be conducted by remote communication in whatever manner the authorised magistrate considers appropriate.
+112.Section 28 amended
+Delete section 28(2).
+113.Section 50D amended
+In section 50D(2)(a) delete “care and protection within the meaning of the Child Welfare Act 1947; or” and insert:
+protection as defined in the Children and Community Services Act 2004 section 3; or
+114.Section 54 amended
+After section 54(1)(a) insert:
+(ba) electronically, in accordance with the regulations, at least 7 days before the hearing date, if the person to whom it is directed consents to service in that manner; or
+115.Section 55 amended
+(1) In section 55(1)(a) after “oral” insert:
+or electronic
+(2) Delete section 55(2) and insert:
+(2) If the registrar is satisfied that reasonable efforts have been made to serve a restraining order personally, the registrar may authorise —
+(a) oral service of the order; or
+(b) electronic service of the order in accordance with the regulations.
+(3) In section 55(3) delete “subsection (4) —” and insert:
+subsection (4) or electronically in accordance with the regulations —
+116.Section 56 amended
+(1) After section 56(1)(a) insert:
+(ba) electronically in accordance with the regulations, if the person consents to notification in that manner; or
+(2) In section 56(2)(a) delete “personally,” and insert:
+personally or electronically,
+(3) After section 56(3)(a) insert:
+(ba) given to the person electronically in accordance with the regulations, if the person consents to delivery in that manner; or
+117.Section 58 amended
+(1) After section 58(1)(a) insert:
+(ba) electronically served on a person the requisite copy or copies of a summons or restraining order in accordance with this Division; or
+(2) In section 58(2)(a) after “personally” insert:
+or electronically
+(3) After section 58(1)(a) insert:
+or
+118.Section 61A amended
+After section 61A(7) insert:
+(8) In subsection (7) —
+written reasons includes reasons that are —
+(a)given orally and subsequently transcribed; or
+(b)given orally but also recorded electronically in a format that enables them to be subsequently transcribed.
+119.Section 62D amended
+In section 62D(8) delete the definition of remote communication.
+120.Section 67 amended
+(1) In section 67(2) delete “is to make a written record of the” and insert:
+must give written
+(2) After section 67(2) insert:
+(3A) In subsection (2) —
+written reasons includes reasons that are —
+(a)given orally and subsequently transcribed; or
+(b)given orally but also recorded electronically in a format that enables them to be subsequently transcribed.
+121.Section 71 amended
+Delete section 71(5)(a) and insert:
+(a) has been served on the restrained person by post or electronically; and
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
