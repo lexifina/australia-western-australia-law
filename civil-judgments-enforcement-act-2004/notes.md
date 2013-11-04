@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 24 May 2013 of the Civil Judgments Enforcement Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Civil Judgments Enforcement Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Civil Judgments Enforcement Act 2004 | 28 of 2004 | 14 Oct 2004 | s. 1 and 2: 14 Oct 2004; Act other than s. 1 and 2: 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
@@ -15,6 +15,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 8 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 3 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 The correct short title of this Commonwealth Act is the Child Support (Assessment) Act 1989.
 The Workmen’s Wages Act 1898 was repealed by the Statutes (Repeals and Minor Amendments) Act 2009.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
@@ -96,6 +97,15 @@ In section 114(a):
 a road law as defined in the Road Traffic (Administration) Act 2008 section 4
 (b) delete “that Act; or” and insert:
 a road law; or
+On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 3 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts
+Division 3 — Civil Judgments Enforcement Act 2004 amended
+34.Act amended
+This Division amends the Civil Judgments Enforcement Act 2004.
+35.Section 6A inserted
+After section 5 insert:
+6A.Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies
+The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies to this Act.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
