@@ -92,6 +92,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pts. 3 Div. 20 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
 The Acts Amendment (Court of Appeal) Act 2004 s. 5(2) and Pt. 5 read as follows:
 5.Sections 6 and 7 replaced by sections 6, 7 and 7A, and transitional provision
@@ -200,6 +201,15 @@ Section 11B of the Supreme Court Act 1935 is amended as follows:
 (2)Where a Master was, immediately before his appointment as such, an officer of the Public Service of the State he retains his existing and accruing rights and for the purpose of determining those rights, his service as Master shall be taken into account as if it were service in the Public Service of the State.
 ”;
 (b) by repealing subsection (3a).
+On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 20 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts
+Division 20 — Supreme Court Act 1935 amended
+134.Act amended
+This Division amends the Supreme Court Act 1935.
+135.Section 6A inserted
+At the end of Part I insert:
+6A.Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies
+The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies to this Act.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
