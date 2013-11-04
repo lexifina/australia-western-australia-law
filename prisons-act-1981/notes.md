@@ -57,6 +57,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2(d))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 42 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 15 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
 Under the Alteration of Statutory Designations Order (No. 3) 2001, a reference to the Western Australian Prisons Department was, unless the contrary intention appears, to be read and construed as a reference to the Department of Justice.
@@ -99,6 +100,13 @@ This Division amends the Prisons Act 1981.
 Delete section 15L(b) and insert:
 (b) the payment of the whole or a part of a penalty under an infringement notice as defined in the Road Traffic (Administration) Act 2008 section 4 in respect of an alleged offence by the contract worker; and
 (c) the payment of the whole or a part of a penalty under an infringement notice under a law, in any other part of the world, corresponding to a road law as defined in the Road Traffic (Administration) Act 2008 section 4, in respect of an alleged offence by the contract worker.
+On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 15 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts
+Division 15 — Prisons Act 1981 amended
+102.Act amended
+This Division amends the Prisons Act 1981.
+103.Section 85 amended
+In section 85(1) delete “written”.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
