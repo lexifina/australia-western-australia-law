@@ -3,11 +3,13 @@
 [Heading inserted in Gazette 20 Mar 2007 p. 1042.]
 Form 1 — Infringement notice
 Electricity Act 1945 Infringement notice | Infringement notice no.
-Alleged offender | Name: Family name
+Alleged offender | Name:Family name
 Given names
-or Company name ____________________________ ACN
-Address _________________________________________ Postcode
-Alleged offence | Description of offence _____________________________
+or | Company name
+ |  |  | ACN
+ | Address
+ |  |  | Postcode
+Alleged offence | Description of offence
 Electricity Act 1945 s. Electricity Regulations 1947 r. Electricity (Licensing) Regulations 1991 r. Electricity (Supply Standards and System Safety) Regulations 2001 r.
 Date //20Time a.m./p.m.
 Modified penalty $
@@ -24,11 +26,13 @@ Form 2 — Withdrawal of infringement notice
 Electricity Act 1945 Withdrawal of infringement notice | Withdrawal no.
 Alleged offender | Name: Family name
 Given names
-or Company name __________________________________ ACN
-Address _____________________________________________________ Postcode
+or Company name
+ |  | ACN
+ | Address
+ |  |  | Postcode
 Infringement notice | Infringement notice no.
 Date of issue //20
-Alleged offence | Description of offence ____________________________________
+Alleged offence | Description of offence
 Electricity Act 1945 s. Electricity Regulations 1947 r. Electricity (Licensing) Regulations 1991 r. Electricity (Supply Standards and System Safety) Regulations 2001 r.
 Date //20Timea.m./p.m.
 Officer withdrawing notice | Name
