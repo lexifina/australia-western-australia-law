@@ -61,11 +61,49 @@ Reprint 5: The Gaming and Wagering Commission Regulations 1988 as at 1 Apr 2011 
 Gaming and Wagering Commission Amendment Regulations 2011 | 12 Aug 2011 p. 3248-50 | r. 1 and 2: 12 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Aug 2011 (see r. 2(b))
 Gaming and Wagering Commission Amendment Regulations (No. 2) 2011 | 4 Nov 2011 p. 4645-6 | r. 1 and 2: 4 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2012 (see r. 2(b))
 Gaming and Wagering Commission Amendment Regulations 2012 | 16 Nov 2012 p. 5649-51 | r. 1 and 2: 16 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Gaming and Wagering Commission Amendment Regulations 2013 r. 3 and 4 | 8 Nov 2013 p. 4975-7 | 1 Jan 2014 (see. s. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Formerly referred to the Gaming Commission Act 1987 the short title of which was changed to the Gaming and Wagering Commission Act 1987 by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 122. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Gaming and Wagering Commission Amendment Regulations 2008 published in the Gazette on 29 Apr 2008 p. 1591-3 have been repealed in Gazette 10 Jun 2008 p. 2496 due to an error in the citation of the principal regulations.
 Now known as the Gaming and Wagering Commission Regulations 1988; citation changed (see note under r. 1).
 The commencement date of 1 Oct 2001 that was specified was before the date of gazettal.
+On the date as at which this compilation was prepared, the Gaming and Wagering Commission Amendment Regulations 2013 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Gaming and Wagering Commission Regulations 1988.
+4.Schedule 1 amended
+In Schedule 1 amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Sch. 1 it. 3(b) | 56 | 57
+Sch. 1 it. 4(b) | 61 | 62
+Sch. 1 it. 4(c) | 107 | 109
+Sch. 1 it. 5(d)(ii) | 71 | 72
+Sch. 1 it. 5(da) | 71 | 72
+Sch. 1 it. 5(f)(i) | 210 | 214
+Sch. 1 it. 5(f)(ii) | 349 | 356
+Sch. 1 it. 5(f)(iii) | 405 | 406
+Sch. 1 it. 5(g)(i) | 143 | 145
+Sch. 1 it. 5(g)(ii) | 210 | 214
+Sch. 1 it. 6(d)(ii) | 107 | 109
+Sch. 1 it. 6(d)(iii) | 205 | 209
+Sch. 1 it. 6(d)(iv) | 421 | 429
+Sch. 1 it. 6(da) | 143 | 145
+Sch. 1 it. 6(f)(i) | 169 | 172
+Sch. 1 it. 6(f)(ii) | 308 | 314
+Sch. 1 it. 6(f)(iii) | 385 | 392
+Sch. 1 it. 6(g)(i) | 113 | 115
+Sch. 1 it. 6(g)(ii) | 169 | 172
+Sch. 1 it. 7(b) | 71 | 72
+Sch. 1 it. 7(c) | 71 | 72
+Sch. 1 it. 8(a) | 143 | 145
+Sch. 1 it. 8(b) | 143 | 145
+Sch. 1 it. 8(c) | 143 | 145
+Sch. 1 it. 9 | 231 | 235
+Sch. 1 it. 10 | 303 | 309
+Sch. 1 it. 11 | 282 | 287
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
