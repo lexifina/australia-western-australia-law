@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 23 August 2013 of the Betting Control Regulations 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Betting Control Regulations 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Betting Control Regulations 1978 | 22 Jun 1978 p. 1991-2014 | 22 Jun 1978
@@ -60,7 +60,36 @@ Betting Control Amendment Regulations (No. 2) 2012 | 16 Nov 2012 p. 5646-7 | r. 
 Betting Control Amendment Regulations 2012 | 4 Jan 2013 p. 11-15 | r. 1 and 2: 4 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jan 2013 (see r. 2(b))
 Betting Control Amendment Regulations 2013 | 14 Jun 2013 p. 2240-3 | r. 1 and 2: 14 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Jun 2013 (see r. 2(b))
 Reprint 7: The Betting Control Regulations 1978 as at 23 Aug 2013 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Betting Control Amendment Regulations (No. 3) 2013 r. 3-5 | 8 Nov 2013 p. 4972-3 | 1 Jan 2014 (see r. 2(b))
 Under the Alteration of Statutory Designations Order (No. 2) 1996 a reference in any law to the Commissioner of State Taxation is read and construed as a reference to the Commissioner of State Revenue unless the contrary intention appears.
+On the date as at which this compilation was prepared, the Betting Control Amendment Regulations (No. 3) 2013 r. 3-5 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Betting Control Regulations 1978.
+4.Various fees amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+r. 17(1)(ab) | $66 | $67
+r. 17(1)(ac) | $334 | $337
+r. 17(1)(ad) | $71 | $72
+r. 17(1)(a) | $673 | $675
+r. 17(1)(ba) | $159 | $162
+r. 17(1)(c) | $154 | $157
+r. 17(1)(f) | $621 | $633
+r. 17(2) | $102 | $104
+r. 17(3) | $102 | $104
+r. 17A(1)(a)(i) | $364 | $371
+r. 17A(1)(a)(ii) | $740 | $755
+r. 17A(1)(a)(iii) | $1 110 | $1 132
+5.Regulation 17B amended
+In regulation 17B(1):
+(a) in paragraph (a)(ii) delete “$150 000 —” and insert:
+$155 000 —
+(b) in paragraph (a)(iii) delete “$150 000 —” and insert:
+$155 000 —
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
