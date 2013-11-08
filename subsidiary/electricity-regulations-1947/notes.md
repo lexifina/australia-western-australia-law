@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Electricity Regulations 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 8 November 2013 of the Electricity Regulations 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
-Electricity Act Regulations 1947 | 27 Jun 1947 p. 1156-94 | 27 Jun 1947
+Electricity Act Regulations 1947 , 5 | 27 Jun 1947 p. 1156-94 | 27 Jun 1947
 Untitled regulations | 11 Jul 1947 p. 1262-4 | 11 Jul 1947
 Untitled regulations | 25 Mar 1948 p. 695-6 | 25 Mar 1948
 Untitled regulations | 7 Sep 1955 p. 2143-56 | 7 Sep 1955
@@ -61,6 +61,8 @@ Electricity Amendment Regulations 2010 | 31 Dec 2010 p. 6888-92 | r. 1 and 2: 31
 Electricity Amendment Regulations (No. 3) 2010 | 10 May 2011 p. 1662-6 | r. 1 and 2: 10 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 11 May 2011 (see r. 2(b))
 Electricity Amendment Regulations 2012 | 13 Apr 2012 p. 1647-51 | r. 1 and 2: 13 Apr 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Apr 2012 (see r. 2(b))
 Electricity Amendment Regulations 2013 | 20 Aug 2013 p. 3829 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
+Reprint 6: The Electricity Regulations 1947 as at 8 Nov 2013 (includes amendments listed above)
+The Electricity (Licensing) Regulations 1991 r. 49 commenced 1 Nov 1991.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Electricity Regulations 1947; citation changed (see note under r. 1).
 Regulations 180 and 278 disallowed on 24 Sep 1947, see Gazette 5 Dec 1947 p. 2209.
@@ -71,9 +73,9 @@ Regulation 278 disallowed on 22 Sep 1948, see Gazette 1 Oct 1948 p. 2375 and 25 
 The commencement date of 1 Jun 1979 that was specified was before the date of gazettal.
 The headings before r. 238-277, 279 and 321-341 were deleted by the Electricity Amendment Regulations 2000, see Gazette 30 May 2000 p. 2571-2.
 The amendment in the Electricity Amendment Regulations (No. 2) 2007 r. 3 is not included because the regulation it sought to amend had been deleted before the amendment purported to come into operation.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Act321
 appliances of the same class321
 appliances of the same type321
@@ -83,18 +85,18 @@ approved321
 Australian/New Zealand Wiring Rules2(1)
 commencement day12
 common property12
-conductors316A(5)(a)
+conductors 316A(5)(a)
 duly constituted authority in another State of the Commonwealth321
 inspection plan242(1A)
 installed12
+network241(2)
+network operator241(1) and (3)
 new owner12
 notice of completion242(1A)
 notice of intended demolition12
-network241(2)
-network operator241(1) and (3)
 occupied by an owner12
 overhead power lines316A(5)(a)
-post-transfer period15A
+post-transfer period,15A(1)
 prior owner12
 published specification321
 residential premises12
