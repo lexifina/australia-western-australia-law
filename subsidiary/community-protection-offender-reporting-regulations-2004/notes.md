@@ -17,19 +17,36 @@ Reprint 2: The Community Protection (Offender Reporting) Regulations 2004 as at 
 Community Protection (Offender Reporting) Amendment Regulations 2010 | 21 Jan 2011 p. 157-8 | r. 1 and 2: 21 Jan 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jan 2011 (see r. 2(b))
 Community Protection (Offender Reporting) Amendment Regulations 2011 | 1 Jul 2011 p. 2746-7 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2011 (see r. 2(b))
 Community Protection (Offender Reporting) Amendment Regulations 2012 | 30 Nov 2012 p. 5802 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
+Community Protection (Offender Reporting) Amendment Regulations 2013 | 8 Nov 2013 p. 4995-5015 | r. 1 and 2: 8 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Nov 2013 (see r. 2(b) and Gazette 8 Nov 2013 p. 4969)
 Formerly referred to the Criminal Law (Mentally Impaired Defendants) Act 1996 the short title of which was changed to the Criminal Law (Mentally Impaired Accused) Act 1996 by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Censorship Act 1996 the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-Code Act11(2)
+Defined termProvision(s)
+analyst3
+approved form26C(1)
+authorised breath26D(1)
+authorised breath tester3
+authorised sample collector3
+blood alcohol content3
+blood sampling equipment3, 26F(1)
+Breath Analysis Regulations 3
+breath test 3
+breath testing equipment3
 Department of Corrective Services3
 Department of Health7(3)
 detention centre7(3)
 foreign court3
+medical practitioner3
+phlebotomist3
 prison7(3)
 recognised order3
+registered nurse 3
 registrar3
 release order7(3)
 relevant court3
-relevant report15(2)
+Road Traffic (Breath Analysis) Regulations 19753
+sample26F(1)
+self-testing breath analysing equipment3
+tester 26D(1)
+urine sampling equipment3, 26F(1)
