@@ -76,6 +76,7 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 7 and 27 | 47 of 2011 | 25 O
 Reprint 10: The Workers’ Compensation and Injury Management Act 1981 as at 3 Feb 2012 (includes amendments listed above except those in the Acts Amendment (ICWA) Act 1996 Sch. 1 it. 16)
 Workers’ Compensation and Injury Management Amendment Act 2012 | 12 of 2012 | 3 Jul 2012 | Pt. 1: 3 Jul 2012 (see s. 2(a)); Act other than Pt. 1: 1 Aug 2012 (see s. 2(b) and Gazette 27 Jul 2012 p. 3663)
 Workers’ Compensation and Injury Management Amendment (Jockeys) Act 2012 | 45 of 2012 | 20 Nov 2012 | s. 1 and 2: 20 Nov 2012 (see s. 2(a)); Act other than s. 1 and 2: 14 Dec 2012 (see s. 2(b) and Gazette 30 Nov 2012 p. 5774)
+Workers’ Compensation and Injury Management Amendment Act 2013 | 21 of 2013 | 12 Nov 2013 | s. 1 and 2: 12 Nov 2013 (see s. 2(a)); Act other than s. 1 and 2: 13 Nov 2013 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -513,6 +514,7 @@ court23A, 182ZH(1)
 Crown14(1)
 damages93A, 159
 de facto partner5(1)
+date of injury49A
 decision5(1)
 decision of a specialised retraining assessment panel146V(9)
 decision of an approved medical specialist146J(2)
@@ -616,6 +618,7 @@ principal175(1) and (6)(a)
 proclaimed date4(1), 316, Sch. 5 cl. 1(1), Sch. 7 cl. 1
 prohibited drug31F(1), 93Q(8)
 prohibited person182S(4), 195(4A)
+qualifying period49A
 reasonable expenses referred to in clause 17(1)Sch. 1 cl. 18A(1AA) and 18D(1A)
 redemption amountSch. 5 cl. 1(1)
 registered agent5(1)
@@ -646,6 +649,7 @@ specialised retraining assessment panel5(1)
 specialised retraining program5(1)
 specialist5(1)
 specified154A(2)
+specified disease49A
 spouse5(1)
 State5(1), 20(1)
 statutory expenses182K(4)
