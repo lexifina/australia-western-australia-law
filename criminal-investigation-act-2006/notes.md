@@ -16,6 +16,7 @@ Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 7 | 9 of 2012 | 21 May 
 Criminal Organisations Control Act 2012 s. 174 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
 Criminal Law Amendment (Out-of-Control Gatherings) Act 2012 Pt. 3 | 56 of 2012 | 6 Dec 2012 | 15 Dec 2012 (see s. 2(b) and Gazette 14 Dec 2012 p. 6196)
 Reprint 2: The Criminal Investigation Act 2006 as at 5 Apr 2013 (includes amendments listed above except those in the Criminal Organisations Contol Act 2012)
+Criminal Investigation (Identifying People) Amendment Act 2013 s. 29 | 22 of 2013 | 12 Nov 2013 | 13 Nov 2013 (see s. 2(c))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 6 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
