@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Western Australian Meat Industry Authority Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 15 November 2013 of the Western Australian Meat Industry Authority Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Western Australian Meat Industry Authority Regulations 1985 | 7 Jun 1985 p. 1978-90 (erratum 14 Jun 1985 p. 2172) | 7 Jun 1985 (see r. 2)
@@ -34,12 +34,12 @@ Western Australian Meat Industry Authority Amendment Regulations 2012 | 14 Sep 2
 Western Australian Meat Industry Authority Amendment Regulations (No. 2) 2013 | 8 Feb 2013 p. 863-4 | r. 1 and 2: 8 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2013 (see r. 2(b))
 Western Australian Meat Industry Authority Amendment Regulations 2013 | 20 Aug 2013 p. 3854 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Western Australian Meat Industry Authority Amendment Regulations (No. 3) 2013 | 27 Aug 2013 p. 4052-3 | r. 1 and 2: 27 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Aug 2013 (see r. 2(b))
-Repealed by the Health (Meat Hygiene) Regulations 2001, which were repealed by the Health (Food and Pet Meat) Repeal Regulations 2009.
+Reprint 4: The Western Australian Meat Industry Authority Regulations 1985 as at 15 Nov 2013 (includes amendments listed above)
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Health Department shall be read as a reference to the Department of Health.
 Disallowed on 22 Oct 1991, see Gazette 25 Oct 1991 p. 5499.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 approved3(1)
 Aus-Meat3(1)
 Centre3(1)
@@ -64,4 +64,4 @@ permit holder25, 33N(1)
 sign25
 stand25
 stock agent3(1), 25
-throughput feeSch. 6
+throughput feeSch. 6 Pt. 4
