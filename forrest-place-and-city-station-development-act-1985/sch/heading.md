@@ -1,9 +1,9 @@
 ## Schedule — Enabling agreement
 [s. 3]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS ENABLING AGREEMENT is made the 1st day of November 1985
 BETWEEN:
-THE HONOURABLE BRIAN THOMAS BURKE M.L.A. Premier of the State of Western Australia acting for and on behalf of the State of Western Australia and its instrumentalities from time to time (“the state”) of the first part
+THE HONOURABLE BRIAN THOMAS BURKE M.L.A. Premier of the State of Western Australia acting for and on behalf of the State of Western Australia and its instrumentalities from time to time (“the State”) of the first part
 and
 CITY OF PERTH of Council House 27-29 St. George’s Terrace Perth a Municipality and body corporate constituted under the Local Government Act 1960 (“the City”) of the second part
 and
@@ -447,10 +447,7 @@ Occupation:Public Servant.
 _______________
 The Common Seal of the Western Australian Government Railways Commission was hereunto affixed in the presence of:
 [L.S.]
-W. I. McCULLOCH,
-Commissioner.
-K. W. DONNELLY,
-Secretary.
+W. I. McCULLOCH, Commissioner. K. W. DONNELLY, Secretary.
 _______________
-R. J. PEARCE,
-Minister for Education and Planning.
+R. J. PEARCE, Minister for Education and Planning.
+[Schedule amended in Gazette 11 Apr 1986 p. 1407-8; 1 Aug 1986 p. 2756-7.]
