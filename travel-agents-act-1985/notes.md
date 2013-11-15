@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Travel Agents Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 15 November 2013 of the Travel Agents Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Travel Agents Act 1985 | 120 of 1985 | 30 Dec 1985 | s. 1 and 2: 30 Dec 1985; Act other than s. 1 and 2: 1 Feb 1987 (see s. 2 and Gazette 16 Jan 1987 p. 82)
@@ -29,10 +29,10 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 125 | 8 of 2009 | 21
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Building Services (Registration) Act 2011 s. 159 | 19 of 2011 | 22 Jun 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
 Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 5 | 6 of 2012 | 10 Apr 2012 | 28 May 2012 (see s. 2(c) and Cwlth Gazette 19 Apr 2012 ref. F2012L00891)
+Reprint 5: The Travel Agents Act 1985 as at 15 Nov 2013 (includes amendments listed above)
 Repealed by the General Insurance Brokers and Agents Act Repeal Act 1986.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 41 and 64 read as follows:
-“
 41.Travel Agents Act 1985
 (1) In this regulation —
 commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 128 comes into operation.
@@ -53,10 +53,8 @@ the Commissioner for Fair Trading may have regard to the objection in deciding u
 (a) an application has been made under the TA Act section 33(1); and
 (b) the application has been referred to the Commercial Tribunal of Western Australia under the TA Act section 33(2)(b)(i) but that Tribunal has not dealt with the application,
 on or after the commencement day the application is to be dealt with by the Commissioner for Fair Trading under the TA Act section 33 as if the application had been made to the Commissioner.
-”.
-The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82, to the extent it amends this Act, was repealed by the Criminal Law and Evidence Amendment Act 2008 s.78(2)(e).
+The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82, to the extent it amends this Act, was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 78(2)(e).
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
-“
 Division 23 — Transitional provisions
 151.Commissioner for Fair Trading
 (1) On commencement, the person holding the office of Commissioner for Fair Trading immediately before commencement is to be taken to have been designated as the Commissioner or Registrar (as the case requires) for the purposes of each of the following enactments —
@@ -98,17 +96,19 @@ In this Division —
 commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
-”.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 applicant3(1)
 application3(1)
 appointed day3(1)
 bank3(1)
 books3(1)
 Commissioner3(1)
+Compensation Scheme3(1)
+Compensation Trustees3(1)
 condition3(1)
+court53(1)
 Department3(1)
 director3(1)
 executive officer49A(3)
@@ -118,12 +118,9 @@ licensee3(1)
 moneys3(1)
 officer3(1), 50(4)
 person aggrieved23(2)
+prohibitory order39(3)
 property32(9)
 records3(1)
 reviewable decision23(2)
 specified59(3)
-the Compensation Scheme3(1)
-the Compensation Trustees3(1)
-the court53(1)
-the prohibitory order39(3)
-the unlicensed person49(4)
+unlicensed person49(4)
