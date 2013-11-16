@@ -16,9 +16,10 @@ Children’s Court (Fees) Amendment Regulations (No. 2) 2011 | 20 Dec 2011 p. 53
 Children’s Court (Fees) Amendment Regulations 2012 | 27 Mar 2012 p. 1505 | r. 1 and 2: 27 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Mar 2012 (see r. 2(b))
 Reprint 2: The Children’s Court (Fees) Regulations 2005 as at 15 Jun 2012 (includes amendments listed above)
 Children’s Court (Fees) Amendment Regulations (No. 2) 2012 | 30 Nov 2012 p. 5794-5 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
-Defined Terms
+Children’s Court (Fees) Amendment Regulations 2013 | 15 Nov 2013 p. 5250-2 | r. 1 and 2: 15 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Nov 2013 (see r. 2(b))
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 civil jurisdiction3
 criminal jurisdiction3
 deputy registrar3
