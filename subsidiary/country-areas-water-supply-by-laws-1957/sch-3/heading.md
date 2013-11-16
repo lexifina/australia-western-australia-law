@@ -15,4 +15,3 @@ Food waste disposal units
 Rubber or plastic olives in metallic water service fillings
 Non-demand operated urinal flushing devices
 [Part 2 inserted in Gazette 22 Dec 1989 p. 4635.]
-[Schedules 4, 5, 6 deleted in Gazette 14 Jul 1987 p. 2650.]
