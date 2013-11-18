@@ -108,10 +108,11 @@ Water Agencies (Charges) Amendment By-laws (No. 2) 2010 | 10 Sep 2010 p. 4350-1 
 Water Agencies (Charges) Amendment By-laws 2011 | 23 Jun 2011 p. 2417-93 | bl. 1 and 2: 23 Jun 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2011 (see bl. 2(b))
 Water Agencies (Charges) Amendment By-laws 2012 | 20 Jun 2012 p. 2693-774 | bl. 1 and 2: 20 Jun 2012 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2012 (see bl. 2(b))
 Water Agencies (Charges) Amendment By-laws 2013 | 19 Jun 2013 p. 2347-422 | bl. 1 and 2: 19 Jun 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2013 (see bl. 2(b))
+Water Agencies (Charges) Amendment By laws (No. 2) 2013 | 14 Nov 2013 p. 5081-95 | bl. 1 and 2: 14 Nov 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 18 Nov 2013 (see bl. 2(b) and Gazette 14 Nov 2013 p. 5027)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Water Services Legislation Amendment and Repeal Act 2012 s. 202(b) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 202(b) | 25 of 2012 | 3 Sep 2012 | 1 Jul 2014 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Now established by the Port Authorities Act 1999 s. 4.
 Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act.
 Repealed by the Gas Corporation (Business Disposal) Act 1999.
@@ -138,9 +139,9 @@ On the date as at which this compilation was prepared, the Water Services Legisl
 202.Other legislation repealed
 These written laws are repealed:
 (b) the Water Agencies (Charges) By-laws 1987;
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 >2(3)
 ≤2(3)
 aged home2(1)

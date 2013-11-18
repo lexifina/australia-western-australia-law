@@ -1,6 +1,6 @@
-## Schedule 1 — Charges for water supply other than under the Rights in Water and Irrigation Act 1914 for 2013/2014
+## Schedule 1 — Charges for water supply, other than from certain irrigation works, for 2013/2014
 [bl. 11 and 19A]
-[Heading inserted in Gazette 20 Jun 2012 p. 2700; amended in Gazette 19 Jun 2013 p. 2352-3.]
+[Heading inserted in Gazette 20 Jun 2012 p. 2700; amended in Gazette 19 Jun 2013 p. 2352-3; 14 Nov 2013 p. 5091.]
 ## Division 1 — Fixed charges
 [Heading inserted in Gazette 19 Jun 2013 p. 2353.]
 1. | Residential
@@ -238,9 +238,9 @@ Class 13 (c/kL) | 138.1 | 546.0
 Class 14 (c/kL) | 138.1 | 594.6
 Class 15 (c/kL) | 138.1 | 647.4
 28. | Coral Bay desalinated
- | For each kilolitre of water supplied to land in the Coral Bay Water Area not classified as residential land, being water that has been treated to reduce the level of, or remove, salts | 675.1 cents
+ | For each kilolitre of water supplied to land in Coral Bay not classified as residential land, being water that has been treated to reduce the level of, or remove, salts | 675.1 cents
 29. | Denham desalinated
- | For each kilolitre of water supplied to land in the Denham Country Water Area, being water that has been treated to reduce the level of, or remove, salts —
+ | For each kilolitre of water supplied to land in Denham, being water that has been treated to reduce the level of, or remove, salts —
  | (a)in the case of land classified as residential —
  | up to quota for each 2 month period | 62.2 cents
  | over quota by up to shoulder amount | 456.7 cents
@@ -280,6 +280,6 @@ Class 15 | 647.4
  | (b)not in the metropolitan area, the charge that would apply under item 27(b) if the water supplied through that connection were the only water supplied to the land.
 34. | Metropolitan hydrant standpipes
  | For each kilolitre of water supplied through a hydrant standpipe in the metropolitan area | 204.3 cents
-[Division 2 inserted in Gazette 19 Jun 2013 p. 2361-70.]
+[Division 2 inserted in Gazette 19 Jun 2013 p. 2361-70; amended in Gazette 14 Nov 2013 p. 5091.]
 ## Division 3 — Formula for the purposes of by-law 17(3)
 [Heading inserted in Gazette 20 Jun 2012 p. 2720.]

@@ -2,8 +2,8 @@
 [bl. 31]
 [Heading inserted in Gazette 19 Jun 2013 p. 2400.]
 1. | Ord Irrigation District
- | Charges by way of rate for land in the Ord Irrigation District where under the Ord Irrigation District By-laws 1963 by-law 31A, the land is irrigated by pumping from works, an amount per hectare of land so irrigated of —
+ | In respect of land to which water is supplied in the circumstances described in by-law 31, an amount per hectare of land irrigated of —
  | (a)where the supply is assured | $142.00
  | (b)where the supply is not assured | $107.00
-[Schedule 5 inserted in Gazette 19 Jun 2013 p. 2400.]
+[Schedule 5 inserted in Gazette 19 Jun 2013 p. 2400; amended in Gazette 14 Nov 2013 p. 5094.]
 [Schedule 6 deleted in Gazette 19 Jun 2013 p. 2400.]

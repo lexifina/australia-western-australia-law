@@ -16,7 +16,7 @@ Item 1(a) | Item 1(b)
 3 | 441.38 | 79.321 | 53.001
 4+ | 479.97 | 80.984 | 56.780
 2. | Connected country exempt
- | In respect of land in a country sewerage area that is classified as —
+ | In respect of land in a non-metropolitan area that is classified as —
  | (a)community residential; or
  | (b)aged home, charitable purposes, community purposes, institutional public or local government,
  | a charge determined by meter size minus the discount as set out in the following Table —
@@ -38,13 +38,13 @@ Item 2(a) | Item 2(b)
  | (c)shares a major fixture with another unit described in paragraph (b) and has no other major fixtures that discharge into the sewer; and
  | (d)is not land mentioned in item 4,
  | and where the total number of major fixtures shared by all the units on the relevant strata plan is less than the number of those units | $479.97
-6. | Land from which industrial waste is discharged into a sewer of the Corporation
- | Discharge pursuant to permit that has effect for the period of 12 months commencing on the day of issue or renewal of the permit | $217.35
-7. | Land from which industrial waste is discharged into a sewer of the Corporation through grease arrestor
- | Discharge through one or more grease arrestors pursuant to a permit that has effect for the period of 12 months commencing on the day of issue or renewal of the permit, in addition to any other charge applicable to the land under this Schedule —
- | (a)in respect of each grease arrestor, not being a grease arrestor that is shared with other land the subject of a permit, a charge of | $95.50
- | (b)in respect of each grease arrestor that is shared with other land the subject of a permit, a charge of | $52.15
-[Division 1 inserted in Gazette 19 Jun 2013 p. 2371-3.]
+6. | Land from which trade waste is discharged into a sewer of the Corporation
+ | In respect of the discharge of trade waste under an approval of the Corporation, for the period for which the approval has effect (which cannot be of less than 12 months), an amount of | $217.35
+7. | Land from which trade waste is discharged into a sewer of the Corporation through grease arrestor
+ | In respect of the discharge of trade waste through one or more grease arrestors under an approval of the Corporation, for the period for which the approval has effect (which cannot be of less than 12 months), in addition to any other charge applicable to the land under this Schedule —
+ | (a)in respect of each grease arrestor, not being a grease arrestor that is shared with other land the subject of an approval of the Corporation, an amount of | $95.50
+ | (b)in respect of each grease arrestor that is shared with other land the subject of an approval of the Corporation, an amount of | $52.15
+[Division 1 inserted in Gazette 19 Jun 2013 p. 2371-3; amended in Gazette 14 Nov 2013 p. 5092-3 and 5095.]
 ## Division 2 — Variable charges and charges by way of a rate
 [Heading inserted in Gazette 19 Jun 2013 p. 2374.]
 8. | Metropolitan residential
@@ -171,8 +171,8 @@ Yunderup | 6.486 | 5.771
 [Division 2 inserted in Gazette 19 Jun 2013 p. 2374-9.]
 ## Division 3 — Variable charges
 [Heading inserted in Gazette 19 Jun 2013 p. 2379.]
-11. | Industrial waste discharged into a sewer of the Corporation pursuant to a permit
- | For industrial waste discharged into a sewer of the Corporation pursuant to a permit —
+11. | Trade waste discharged into a sewer of the Corporation under an approval
+ | For trade waste discharged into a sewer of the Corporation under an approval of the Corporation —
  | (a)for volume | 135.0 c/kL
  | (b)for B.O.D. —
  | (i)with a concentration of up to 5 kg per kL | 114.0 c/kg
@@ -247,9 +247,9 @@ Yunderup | 6.486 | 5.771
  | (iii)with a concentration of over 0.001 kg per day | 767615.0 c/kg
 12. | Effluent discharged from a septic tank effluent pumping system into a sewer of the Corporation
  | For effluent discharged from a septic tank effluent pumping system into a sewer of the Corporation | 155.0 c/kL
-13A. | Industrial waste discharged from an open area
- | Discharge of industrial waste from an open area pursuant to permit that has effect for the period of 12 months commencing on the day of issue or renewal of the permit | $1.45/square meter of the open area
-[Division 3 inserted in Gazette 19 Jun 2013 p. 2379-84.]
+13A. | Trade waste discharged from open area
+ | In respect of the discharge of trade waste from an open area under an approval of the Corporation, for the period for which the approval has effect (which cannot be of less than 12 months), in addition to any other charge applicable to the land under this Schedule, an amount per m2 of open area | $1.45
+[Division 3 inserted in Gazette 19 Jun 2013 p. 2379-84; amended in Gazette 14 Nov 2013 p. 5093-4.]
 ## Division 4 — Metropolitan combined charges
 [Heading inserted in Gazette 19 Jun 2013 p. 2384.]
 13.Metropolitan non-residential (other than vacant land)
@@ -391,8 +391,8 @@ and
 (d)for a nursing home referred to in item 16, 75 kL of water per bed; and
 (e)for properties served through a common metered service, 200 kL of water for each property.
 [Division 5 inserted in Gazette 19 Jun 2013 p. 2389-91.]
-## Division 6 — Service charges for industrial waste
-[Heading inserted in Gazette 19 Jun 2013 p. 2391.]
+## Division 6 — Service charges for trade waste
+[Heading inserted in Gazette 19 Jun 2013 p. 2391; amended in Gazette 14 Nov 2013 p. 5094.]
 21. | Inspection — routine programme
  | For an inspection for a routine programme | $134.75/hour
 22. | Meter reading — routine programme
@@ -409,14 +409,14 @@ and
  | For each grab sample for an unscheduled visit | At cost
 28. | Composite samples — unscheduled visit
  | For each composite sample for an unscheduled visit | At cost
-29. | Non-permit holders discharging industrial waste
- | For a one-off discharge of industrial waste by a person who does not hold an industrial waste permit | $122.50/hour
+29. | One off discharge of trade waste
+ | For a one-off discharge of trade waste | $122.50/hour
 30. | (Not used)
-[Division 6 inserted in Gazette 19 Jun 2013 p. 2391-2.]
+[Division 6 inserted in Gazette 19 Jun 2013 p. 2391-2; amended in Gazette 14 Nov 2013 p. 5094.]
 ## Division 7 — Combined charges for country
 [Heading inserted in Gazette 19 Jun 2013 p. 2392.]
 31.Country non-residential or commercial residential property, Government trading organisations and non-commercial Government property
-In respect of land in a country sewerage area that is classified as country non-residential or commercial residential property, Government trading organisation or non-commercial Government property and is not referred to in item 2, 4, 5, 32, 33 or 34, the charge is calculated in accordance with the following formula —
+In respect of land in a non-metropolitan area that is classified as country non-residential or commercial residential property, Government trading organisation or non-commercial Government property and is not referred to in item 2, 4, 5, 32, 33 or 34, the charge is calculated in accordance with the following formula —
 If (P + Q) £ R, then —
 P + Q
 or if —
@@ -432,7 +432,7 @@ N =the discharge volume for the 2013/2014 year;
 W =the discharge volume for the last available consumption year;
 I =2.8376.
 32.Country non strata-titled caravan park with long-term residential caravan bays
-In respect of a caravan park in a country sewerage area —
+In respect of a caravan park in a non-metropolitan area —
 (a)not consisting of strata-titled caravan bays referred to in item 3 of this Schedule; and
 (b)having long-term residential caravan bays,
 the charge payable in accordance with the following formula —
@@ -460,7 +460,7 @@ N =the discharge volume for the 2013/2014 year;
 W =the discharge volume for the last available consumption year;
 I =2.8376.
 33.Country nursing home
-In respect of a nursing home in a country sewerage area, not being a nursing home which is, or is part of, an aged home, the charge is calculated in accordance with the following formula —
+In respect of a nursing home in a non-metropolitan area, not being a nursing home which is, or is part of, an aged home, the charge is calculated in accordance with the following formula —
 If (T + Q) £ R, then —
 T + Q
 or if (T + Q) > R, then —
@@ -474,7 +474,7 @@ V =$139.71;
 Q =the quantity charge calculated in accordance with the formula in item 37;
 R =the charge calculated in accordance with the formula in item 35.
 34.Certain country strata-titled units
-In respect of country non-residential or commercial residential property that is in a country sewerage area that —
+In respect of country non-residential or commercial residential property that is in a non-metropolitan area that —
 (a)comprises a unit that is a lot within the meaning of the Strata Titles Act 1985; and
 (b)shares a major fixture with another unit described in paragraph (a) and has no other major fixtures that discharge into the sewer,
 and where the total number of major fixtures shared by all the units on the relevant strata plan is less than the number of those units, an amount is calculated in accordance with the following formula —
@@ -502,7 +502,7 @@ S =1.120;
 B =$166.67;
 J =$166.67;
 O =1.
-[Division 7 inserted in Gazette 19 Jun 2013 p. 2392-6.]
+[Division 7 inserted in Gazette 19 Jun 2013 p. 2392-6; amended in Gazette 14 Nov 2013 p. 5095.]
 ## Division 8 — Computation of combined charges for country
 [Heading inserted in Gazette 19 Jun 2013 p. 2396.]
 36.Formula for annual charge
