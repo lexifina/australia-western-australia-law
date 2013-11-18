@@ -271,13 +271,13 @@ Electoral and Constitution Amendment Act 2011 Pt. 3 | 49 of 2011 | 11 Nov 2011 |
 Reprint 18: The Constitution Acts Amendment Act 1899 as at 1 Jun 2012 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22 and the Health Practitioner Regulation National Law (WA) Act 2010 s. 44(1), (7) and (9))
 Teacher Registration Act 2012 s. 164 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 1 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
+ | Water Services Legislation Amendment and Repeal Act 2012 s. 208 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Mining Rehabilitation Fund Act 2012 Pt. 6 | 33 of 2012 | 5 Nov 2012 | 1 Jul 2013 (see s. 2(b) and Gazette 21 Jun 2013 p. 2445)
-Reprint 19: The Constitution Acts Amendment Act 1899 as at 12 Jul 2013 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Reprint 19: The Constitution Acts Amendment Act 1899 as at 12 Jul 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Water Services Legislation Amendment and Repeal Act 2012 s. 208 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
@@ -362,7 +362,7 @@ The Criminal Law Amendment (Simple Offences) Act 2004 s. 81(4) and (5) read as f
 by reason only of a conviction that occurred before the commencement.
 (5) In subsection (4) —
 commencement means the commencement of this section.
-On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 7.3Consequential amendments
 Schedule 2 has effect.
 Schedule 2 Div. 2 reads as follows:
@@ -372,17 +372,6 @@ Schedule V Part 1 Division 1 to the Constitution Acts Amendment Act 1899 is amen
 “
 Member of the Native Title Commission established by the Native Title (State Provisions) Act 1999.
 ”.
-On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 208 had not come into operation. It reads as follows:
-208.Constitution Acts Amendment Act 1899 amended
-(1) This section amends the Constitution Acts Amendment Act 1899.
-(2) In Schedule V Part 3 delete the item relating to the board of directors of the Water Corporation and insert:
-The board of directors of a corporation established by the Governor under the Water Corporations Act 1995 section 4(4).
-The board of directors of the Bunbury Water Corporation established by the Water Corporations Act 1995 section 4(2).
-The board of directors of the Busselton Water Corporation established by the Water Corporations Act 1995 section 4(3).
-The board of directors of the Water Corporation established by the Water Corporations Act 1995 section 4(1).
-(3) In Schedule V Part 3 in the item relating to the Plumbers Licensing Board delete “Water Services” and insert:
-Plumbers
-(4) In Schedule V Part 3 delete the item relating to water board constituted under the Water Boards Act 1904.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

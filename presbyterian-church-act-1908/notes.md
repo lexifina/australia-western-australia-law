@@ -12,18 +12,14 @@ Compilation table
  | Taxation Administration (Consequential Provisions) Act 2002 s. 20 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
 Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Water Services Legislation Amendment and Repeal Act 2012 s. 223 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Presbyterian Church of Australia Act 1970 s. 7 | 91 of 1970 | 30 Nov 1970 | Notice to be published (see s. 7(2) and 2(2))
-Water Services Legislation Amendment and Repeal Act 2012 s. 223 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 I.e. 48 Vict. No. 20.
 Repealed by the Trustees Act 1962.
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 223 had not come into operation. It reads as follows:
-223.Presbyterian Church Act 1908 amended
-(1) This section amends the Presbyterian Church Act 1908.
-(2) In section 21(6) delete “1995 or the Metropolitan Water Supply, Sewerage, and Drainage Act 1909” and insert:
-1995, is not subject to statutory water service charges under the Water Services Act 2012 unless the land is connected to water service works as defined in section 3(1) of that Act,
+Footnote no longer applicable.
 The Presbyterian Church Act 1908 was temporarily modified by the Presbyterian Church Act 1976 s. 4. Section 4 ceased to operate or have effect on 28 Jun 1985. See Gazette 28 Jun 1985 p. 2374 and the 1976 Act s. 5 which reads as follows:
 “
 5.Reversion to General Assembly
@@ -35,7 +31,7 @@ Presbyterian Church Act Amendment Act 1924
 Other relevant Acts :
 Presbyterian Church of Australia Act 1901
 Presbyterian Church of Australia Act 1970.
-As at the date of this reprint the amendments to this Act in the Presbyterian Church of Australia Act 1970 s. 7 have not come into operation because the notice under s. 7(2) which would give them effect has not been published. Section 7 reads as follows:
+As at the date of this compilation the amendments to this Act in the Presbyterian Church of Australia Act 1970 s. 7 have not come into operation because the notice under s. 7(2) which would give them effect has not been published. Section 7 reads as follows:
 “
 7.Presbyterian Church Act 1908 amended
 (1) The Presbyterian Church Act 1908 is amended as follows:
@@ -162,3 +158,18 @@ cannot be made more than 15 months after the licence was granted or transferred.
 (1) A permission granted under section 112V of the old Stamp Act and in force immediately before the commencement day continues in force on and after that day as a special tax arrangement under the Taxation Administration Act 2003.
 (2) Any requirement that applied, immediately before the commencement day, to a person to whom a permission continued by subsection (1) had been granted (whether imposed by the old Stamp Act or as a condition to which the permission was subject), continues as a condition to which the special tax arrangement referred to in subsection (1) is subject.
 ”.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Adherents3
+Church3
+Committee of Management3
+Congregation3
+Elder3
+General Assembly3
+Governor3
+Members3
+Minister3
+Moderator3
+Presbytery3
+the Commissioners4

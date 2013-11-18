@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 12 July 2013 of the Soil and Land Conservation Act 1945 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Soil and Land Conservation Act 1945 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Soil Conservation Act 1945 | 15 of 1945 (9 and 10 Geo. VI No. 15) | 9 Jan 1946 | 1 Jul 1946 (see s. 1 and Gazette 28 Jun 1946 p. 789)
@@ -55,11 +55,8 @@ Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009
 Standardisation of Formatting Act 2010 s. 4, 43(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Building Act 2011 s. 173 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
-Reprint 9: The Soil and Land Conservation Act 1945 as at 12 Jul 2013 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Water Services Legislation Amendment and Repeal Act 2012 s. 229 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 229 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+Reprint 9: The Soil and Land Conservation Act 1945 as at 12 Jul 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012)
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 The designation of Ministers may be altered by the Governor under the Alterations of Statutory Designations Act 1974. As at the date of this compilation the former Minister for Agriculture is known as the Minister for Agriculture and Food.
 Repealed by the Conservation and Land Management Act 1984 s. 147.
@@ -69,23 +66,16 @@ Now known as the Soil and Land Conservation Act 1945; short title changed (see n
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 was a transitional provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 229 had not come into operation. It reads as follows:
-229.Soil and Land Conservation Act 1945 amended
-(1) This section amends the Soil and Land Conservation Act 1945.
-(2) In the Schedule:
-(a) delete “Land Drainage Act 1925”;
-(b) after “Stock (Identification and Movement) Act 1970” insert:
-Water Services Act 2012
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-agreement to reserve30B(2)(b)
+agreement to reserve30B(2)
 appropriate officer4
 chief executive officer4
 code of practice4A(1)
 commercial purpose4A(1)
 Commissioner4
-conservation covenant30B(2)(b)
+conservation covenant30B(2)
 Council4
 covenant or agreement30A
 Crown land26(6)

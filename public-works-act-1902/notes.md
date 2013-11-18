@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 12 July 2013 of the Public Works Act 1902 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Public Works Act 1902 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Public Works Act 1902 | 1902 (2 Edw. VII No. 47) | 20 Dec 1902 | 20 Dec 1902
@@ -68,11 +68,8 @@ Reprint 10: The Public Works Act 1902 as at 16 May 2008 (includes amendments lis
 Standardisation of Formatting Act 2010 s. 43(3), 44(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Building Act 2011 s. 170 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
-Reprint 11: The Public Works Act 1902 as at 12 Jul 2013 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Water Services Legislation Amendment and Repeal Act 2012 s. 225 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 225 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+Reprint 11: The Public Works Act 1902 as at 12 Jul 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012)
 Repealed by the Roads Act 1911, which was repealed by the Road Districts Act 1919, which was repealed by the Local Government Act 1960, which is now cited as the Local Government (Miscellaneous Provisions) Act 1960. The main Act now dealing with local governments is the Local Government Act 1995.
 Repealed by the Dividing Fences Act 1961 s. 2(1).
 Short title subsequently amended twice (see note under s. 1). Now again known as the Public Works Act 1902.
@@ -83,16 +80,6 @@ The Public Works Amendment Act 1994 s. 11 is a validation provision that is of n
 (1) A reference in a document executed before the commencement of this Act to the Western Australian Building Authority is to be construed, unless the context otherwise requires, as if that reference had been amended to be a reference to the Western Australian Building Management Authority.
 (2) A reference in a document executed before the commencement of this Act to the Western Australian Building Authority Account is to be construed, unless the context otherwise requires, as if that reference had been amended to be a reference to the Western Australian Building Management Authority Account.
 The Statutes (Repeals and Minor Amendments) Act 2000 s. 35(2) and (3) is a validation provision that is of no further effect.
-On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 225 had not come into operation. It reads as follows:
-225.Public Works Act 1902 amended
-(1) This section amends the Public Works Act 1902.
-(2) In section 5A(e) delete “Water Corporation Act 1995” and insert:
-Water Services Act 2012
-(3) In section 5B(1):
-(a) in paragraph (c)(iii) delete “Corporation; and” and insert:
-Corporation; or
-(b) in paragraph (d) delete “Water Corporation established by the Water Corporation Act 1995 or an officer of that corporation;” and insert:
-holder of a licence granted under the Water Services Act 2012 section 11 or to any officer or employee of the holder of the licence;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

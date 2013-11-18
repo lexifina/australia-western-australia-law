@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Metropolitan Water Authority Act 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Metropolitan Arterial Drainage Act 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Metropolitan Water Authority Act 1982 | 36 of 1982 | 27 May 1982 | 1 Jul 1982 (see s. 2 and Gazette 25 Jun 1982 p. 2091)
@@ -15,10 +15,7 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Water Resources Legislation Amendment Act 2007 Pt. 3 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Reprint 2: The Metropolitan Water Authority Act 1982 as at 4 Jul 2008 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Water Services Legislation Amendment and Repeal Act 2012 Pt. 3 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 Pt. 3 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Before the commencement of the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 2 the Water Agencies (Powers) Act 1984 was known as the Water Authority Act 1984. The short title of the Water Authority Act 1984 was changed by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7.
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 2 came into operation 1 Jan 1996.
 The Water and Rivers Commission Act 1995 was repealed by the Water Resources Legislation Amendment Act 2007 s. 189 which came into operation 1 Feb 2008.
@@ -36,95 +33,10 @@ the MWA Act means the Metropolitan Water Authority Act 1982.
 (4) If a notice has been given under the MWA Act section 43(9) before the commencement day, on or after the commencement day the notice is to be taken to refer to the time within which and the manner in which a review of the decision may be sought.
 ”.
 The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Metropolitan Water Authority Act 1982 amended
-20.Act amended
-This Part amends the Metropolitan Water Authority Act 1982.
-21.Long title replaced
-Delete the long title and insert:
-An Act to provide for an Arterial Drainage Scheme and the declaration of drainage courses.
-22.Section 1 amended
-In section 1 delete “Water Authority” and insert:
-Arterial Drainage
-23.Section 4 amended
-(1) In section 4(1) delete the definitions of:
-channel
-Corporation
-drain
-drainage area
-drainage works
-main drain
-underground water
-works
-(2) In section 4(1) insert in alphabetical order:
-drainage assets has the meaning given in the Water Services Act 2012 section 108;
-licensee has the meaning given in the Water Services Act 2012 section 3(1).
-(3) In section 4(1) in the definition of arterial drain:
-(a) delete “drain” and insert:
-drainage asset
-(b) delete “such” and insert:
-an arterial drain
-(4) Delete section 4(2).
-24.Part IV deleted
-Delete Part IV.
-25.Section 98 amended
-(1) In section 98(1) delete “the Corporation,” and insert:
-all relevant licensees,
-(2) Delete section 98(2)(g) and insert:
-(g) any other matter or thing prescribed by regulations made under the Water Agencies (Powers) Act 1984 for the purposes of this section.
-(3) Delete section 98(3)(a), (b) and (c) and insert:
-(a) the classification of drainage assets as arterial drains; and
-(4) In section 98(4) delete “the Corporation” and insert:
-all relevant licensees
-(5) In section 98(5):
-(a) delete “works” and insert:
-drainage assets
-(b) delete “the Corporation,” and insert:
-relevant licensees,
-(6) In section 98(2) after each of paragraphs (a) to (e) insert:
-and
-26.Section 99 amended
-(1) In section 99(1):
-(a) delete “drainage works” and insert:
-drains
-(b) delete “thereof, or responsibility for particular works” and insert:
-of an arterial drain
-(2) Delete section 99(2).
-(3) In section 99(4):
-(a) in paragraph (a) delete “drains” (first and third occurrences) and insert:
-drainage assets
-(b) in paragraph (d) delete “the Corporation” and insert:
-all relevant licensees
-(c) in paragraph (d) delete “drain” (third occurrence) and insert:
-drainage asset
-(d) in paragraph (e) delete “the Corporation” and insert:
-the licensees
-27.Part IX Divisions 3 and 4 deleted
-Delete Part IX Divisions 3 and 4.
-28.Section 106 amended
-(1) In section 106(1):
-(a) delete “main drain or arterial drain, or proposed main drain or proposed arterial drain,” and insert:
-drainage asset or proposed drainage asset,
-(b) delete “works” and insert:
-asset
-(2) In section 106(2)(a) and (c) delete “the Corporation” and insert:
-all relevant licensees
-(3) In section 106(6)(a) delete “drainage works; but” and insert:
-arterial drainage; but
-29.Section 107 amended
-(1) Delete section 107(1).
-(2) In section 107(2):
-(a) delete “may” (first occurrence) and insert:
-must
-(b) delete “course and may give advice and issue guidelines to the planning authority in accordance with section 66 of the Water Agencies (Powers) Act 1984.” and insert:
-course.
-(3) In section 107(4) delete “Part IV of the Water Agencies (Powers) Act 1984.” and insert:
-the Water Services Act 2012 Part 5 Division 3.
-30.Section 108 deleted
-Delete section 108.
-Defined Terms
+Now known as the Metropolitan Arterial Drainage Act 1982; short title changed (see note under s. 1).
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 arterial drain4(1)
 Arterial Drainage Scheme4(1)
 channel4(1)

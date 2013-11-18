@@ -133,10 +133,7 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 22 | 35 of 
 Building Act 2011 s. 161 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 6 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 Commercial Arbitration Act 2012 s. 45 it. 9 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Water Services Legislation Amendment and Repeal Act 2012 s. 216 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 216 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 Footnote no longer applicale.
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
@@ -209,14 +206,9 @@ specified means specified or described in the regulations.
 (4) If regulations contain a provision referred to in subsection (2), the provision does not operate so as —
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State) the rights of that person existing before the day of publication; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication.
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 216 had not come into operation. It reads as follows:
-216.Health Act 1911 amended
-(1) This section amends the Health Act 1911.
-(2) In section 63A delete “Water Corporation established by the Water Corporation Act 1995” and insert:
-a licensee as defined in the Water Services Act 2012 section 3(1)
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 advertisement236(3), 241(3)
 Agvet Code of Western Australia3(1)
 AIDS3(1)

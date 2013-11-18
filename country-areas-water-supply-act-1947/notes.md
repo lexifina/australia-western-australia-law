@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Country Areas Water Supply Act 1947 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the Country Areas Water Supply Act 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Country Areas Water Supply Act 1947 | 62 of 1947 (11 and 12 Geo. VI No. 62) | 10 Jan 1948 | 1 Jan 1949 (see s. 1 and Gazette 24 Dec 1948 p. 3038-9)
@@ -65,10 +65,7 @@ Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009
  | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
  | Reprint 9: The Country Areas Water Supply Act 1947 as at 4 May 2012 (includes amendments listed above except those listed in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
  | Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 2 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Water Services Legislation Amendment and Repeal Act 2012 Pt. 2 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+ | Water Services Legislation Amendment and Repeal Act 2012 Pt. 2 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Formerly referred to the Water Authority Act 1984, the short title of which was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -86,78 +83,9 @@ The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repe
 The State Administrative Tribunal Regulations 2004 r. 43 contains provisions which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or deleted by that Act.
 Footnote no longer applicable. An amendment made by the Fire and Emergency Services Legislation Amendment Act 2012 s. 113(7)(b) showed that the effect was to duplicate “the” in s. 37(15) of this Act.
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Country Areas Water Supply Act 1947 amended
-3.Act amended
-This Part amends the Country Areas Water Supply Act 1947.
-4.Long title amended
-In the long title delete the passage that begins with “to make” and ends with “areas,”.
-5.Section 5 amended
-In section 5(1) delete the definitions of:
-Corporation
-country water area
-farm land
-metropolitan area
-officer
-water board
-Water Boards Act
-Water Supply Act
-water supply charge
-6.Section 6 deleted
-Delete section 6.
-7.Section 8 deleted
-Delete section 8.
-8.Section 11 amended
-(1) In section 11(1):
-(a) delete “Land Drainage Act 1925,” and insert:
-Water Services Act 2012,
-(b) delete “the Corporation” and insert:
-a licensee (as defined in the Water Services Act 2012 section 3(1))
-(2) In section 11(2) delete “The Corporation” and insert:
-A licensee
-9.Section 12A inserted
-After section 11 insert:
-12A.Penalty for diverting or taking water
-Any person who, other than with the authority of the Minister or under another written law, diverts water from any watercourse or source of supply within any catchment area or water reserve or does any act by which the watercourse or source of supply may be diverted or diminished in quantity or injured in quality or purity is guilty of an offence.
-Penalty:
-(a)for an individual — a fine of $10 000;
-(b)for a body corporate — a fine of $20 000.
-10.Parts IV, V, VI and VII deleted
-Delete Parts IV, V, VI and VII.
-11.Section 105 amended
-Delete section 105(1)(b), (c) and (d).
-12.Section 108 amended
-In section 108 delete “Minister or the Corporation,” and insert:
-Minister,
-13.Section 111 amended
-In section 111 delete “or the Corporation”.
-14.Section 112 replaced
-Delete section 112 and insert:
-112.Obstructing Minister, officers or authorised persons in performance of duty
-A person who obstructs —
-(a) the Minister; or
-(b) an officer of the Department; or
-(c) a person authorised by the Minister,
-in the performance of any act or thing which the Minister, officer or person is authorised or required to do in the execution of this Act or any regulation or by-law made for the purposes of this Act commits an offence.
-Penalty: a fine of $5 000.
-15.Section 113 amended
-In section 113(1) delete “or the Corporation,”.
-16.Section 115 amended
-(1) Delete section 115(1) and insert:
-(1) Proceedings for an offence against this Act may only be taken by the Minister or an officer of the Department or a person authorised to do so by the Minister.
-(2) In section 115(3) delete “sections 46 and” and insert:
-section
-17.Section 116 deleted
-Delete section 116.
-18.Section 121 amended
-In section 121 delete “or the chief executive officer of the Corporation”.
-Note:The heading to amended section 121 is to read:
-Certificate of CEO evidence of certain facts
-19.Section 122 deleted
-Delete section 122.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 by-laws5(1)
 catchment area5(1)
 CEO5(1)

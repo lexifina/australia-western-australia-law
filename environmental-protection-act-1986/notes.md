@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 May 2013 of the Environmental Protection Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Environmental Protection Act 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Environmental Protection Act 1986 | 87 of 1986 | 10 Dec 1986 | s. 1 and 2: 10 Dec 1986; Act other than s. 1 and 2: 20 Feb 1987 (see s. 2 and Gazette 20 Feb 1987 p. 440)
@@ -52,13 +52,13 @@ Reprint 7: The Environmental Protection Act 1986 as at 11 Feb 2011 (includes ame
 Metropolitan Redevelopment Authority Act 2011 s. 137 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Agricultural Practices (Disputes) Repeal Act 2011 s. 4 | 54 of 2011 | 9 Nov 2011 | 7 Dec 2011 (see note under s. 1)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 6 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
-Reprint 8: The Environmental Protection Act 1986 as at 17 May 2013 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Water Services Legislation Amendment and Repeal Act 2012 s. 211 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+Reprint 8: The Environmental Protection Act 1986 as at 17 May 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 20 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Water Services Legislation Amendment and Repeal Act 2012 s. 211 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Deleted by the Building Act 2011 s. 174(6).
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Act No. 77 of 1986.
@@ -111,10 +111,10 @@ but does not include clearing of a kind set out in Schedule 6 to the EP Act.
 The Waste Avoidance and Resource Recovery Regulations 2008 r. 24 reads as follows:
 24.Transitional provision — Waste Management and Recycling Fund
 The Waste Avoidance and Resource Recovery Act 2007 Schedule 5 clause 6 prevails to the extent that there is an inconsistency between that provision and Part VIIA Division 2 of the EP Act.
-On the date as at which this reprint was prepared, the Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) had not come into operation. It reads as follows:
 2.Environmental Protection Act 1986 amended
 (3) Part VIIA is repealed.
-On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 20 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 20 had not come into operation. It reads as follows:
 Division 20 — Environmental Protection Act 1986 amended
 99.Act amended
 This Division amends the Environmental Protection Act 1986.
@@ -127,15 +127,6 @@ Road Traffic (Administration) Act 2008 section 4;
 as defined in the Road Traffic (Administration) Act 2008 section 4, has the meaning given by section 5 of that Act; or
 (4) In section 3(1) in the definition of road delete “Road Traffic Act 1974;” and insert:
 Road Traffic (Administration) Act 2008 section 4;
-On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 211 had not come into operation. It reads as follows:
-211.Environmental Protection Act 1986 amended
-(1) This section amends the Environmental Protection Act 1986.
-(2) In section 57(5) in the definition of designated area:
-(a) in paragraph (b) delete “or Public Water Supply Area”;
-(b) in paragraph (c) delete “water-course, lake, lagoon, swamp or marsh” and insert:
-watercourse or wetland
-(c) in paragraph (d) delete “section 26,” and insert:
-section 26B,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -11,30 +11,10 @@ Reprint 1: The Economic Regulation Authority Act 2003 as at 21 Nov 2008 (include
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 48 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 National Gas Access (WA) Act 2009 Pt. 7 Div. 2 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Water Services Legislation Amendment and Repeal Act 2012 s. 209 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 209 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Schedule 2 was omitted under the Reprints Act 1984 s. 7(4)(e).
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 209 had not come into operation. It reads as follows:
-209.Economic Regulation Authority Act 2003 amended
-(1) This section amends the Economic Regulation Authority Act 2003.
-(2) In section 20(5) in the definition of relevant entity:
-(a) delete paragraphs (a) and (b) and insert:
-(a)a body established by or under the Water Corporations Act 1995 section 4, namely —
-(i)the Water Corporation; or
-(ii)the Bunbury Water Corporation; or
-(iii)the Busselton Water Corporation; or
-(iv)a body established by the Governor;
-or
-(b) in paragraph (c)(iii) delete “Corporation; and” and insert:
-Corporation; or
-(3) In section 20 after subsection (1)(a) and in subsection (5) in the definition of relevant entity after each of paragraph (c)(i) and (ii) insert:
-or
-(4) In section 25(e) delete “section 4 of the Water Services Licensing Act 1995; and” and insert:
-the Water Services Act 2012 section 207; and
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 access agreement20(5)

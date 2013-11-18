@@ -10,10 +10,7 @@ and
 (e) in the case of a licence, details relating to any security interest in the licence that the CEO is required to note on the register under section 26GZM; and
 (f) details of any conviction of a person referred to in paragraph (c) for an offence against this Act; and
 (g) any other details that are prescribed by the regulations.
-(2) In the case of a licence under section 5C held by the holder of an operating licence, the details referred to in subsection (1) are to be set out in a separate part of the register.
+(2) In the case of a licence under section 5C held by the holder of a water services licence, the details referred to in subsection (1) are to be set out in a separate part of the register.
 (3) In subsection (2) —
-operating licence means —
-(a) an operating licence (water supply services); or
-(b) an operating licence (irrigation services),
-under the Water Services Licensing Act 1995.
-[Section 26GZJ inserted by No. 49 of 2000 s. 49; amended by No. 67 of 2003 s. 62; No. 38 of 2007 s. 102.]
+water services licence means a licence under the Water Services Act 2012 that authorises the provision of a water supply service or an irrigation service.
+[Section 26GZJ inserted: No. 49 of 2000 s. 49; amended: No. 67 of 2003 Sch. 2 cl. 66; No. 38 of 2007 s. 102; No. 25 of 2012 s. 59.]

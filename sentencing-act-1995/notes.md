@@ -62,16 +62,16 @@ Building Services (Registration) Act 2011 s. 157 | 19 of 2011 | 22 Jun 2011 | 29
 Statutes (Repeals and Minor Amendments) Act 2011 s. 26 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Teacher Registration Act 2012 s. 168 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 14 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
+Water Services Legislation Amendment and Repeal Act 2012 s. 228 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Sentencing Amendment Act 2012 | 42 of 2012 | 22 Nov 2012 | 20 Dec 2012
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 8 | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Criminal Organisations Control Act 2012 s. 181 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
-Reprint 8: The Sentencing Act 1995 as at 8 Mar 2013 (includes amendments listed above, except those in the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 and the Criminal Organisations Control Act 2012)
+Reprint 8: The Sentencing Act 1995 as at 8 Mar 2013 (includes amendments listed above, except those in the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 and the Water Services Legislation Amendment and Repeal Act 2012 and the Criminal Organisations Control Act 2012)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 47 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Water Services Legislation Amendment and Repeal Act 2012 s. 228 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 18 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
@@ -223,11 +223,6 @@ as defined in that section;
 Road Traffic (Administration) Act 2008 section 4;
 (4) In section 105(5) in the definition of motor vehicle delete “Road Traffic Act 1974;” and insert:
 Road Traffic (Administration) Act 2008 section 4;
-On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 228 had not come into operation. It reads as follows:
-228.Sentencing Act 1995 amended
-(1) This section amends the Sentencing Act 1995.
-(2) In Schedule 1 delete the item relating to the Land Drainage Act 1925.
-(3) In Schedule 1 delete the item relating to the Water Boards Act 1904.
 On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 18 had not come into operation. It reads as follows:
 Part 3 — Amendments to other Acts
 Division 18 — Sentencing Act 1995 amended
@@ -294,6 +289,8 @@ breach4(1)
 CBO4(2)
 CCO4(2)
 CEO (corrections)4(1)
+COC Act9A(1)
+COC Act offence9A(1)
 commencement150A(1)
 community based order4(1)
 community corrections centre4(1)
@@ -306,6 +303,7 @@ criminal property confiscation8(6)
 CRO4(2)
 CSI4(2)
 CSI requirement84G
+declared criminal organisation9A(1)
 derived property8(6)
 disqualification order4(1)
 DPP4(2)
@@ -315,7 +313,7 @@ excluded offence33A(1)
 fine57(1)
 firearm106(5)
 firearms offence106(5)
-fixed term 9AA(1), 85(1)
+fixed term9AA(1), 85(1)
 full sentence37A(1)
 head sentence9AA(1)
 imprisonable offence33A(1)
@@ -329,7 +327,7 @@ motor vehicle105(5)
 motor vehicle offence105(5)
 nominal sentence98(1)
 offence4(1)
-offender4(1), 79(1)(a), 84E(1)(a), 129(1)(a)
+offender4(1), 79(1), 84E(1), 129(1)
 original offence32(1)
 parole eligibility order85(1)
 parole order85(1)
@@ -345,23 +343,25 @@ PSO4(2)
 reduced sentence37A(1)
 release85(1)
 release order89(8)
+relevant indictable offence9A(1)
+relevant simple offence9A(1)
 reparation order109
 requirement33L(1)
 requirements125(1)
 sentence37(5), 37A(5)
 sentencing150A(1)
-sentencing day33B(1)(a)
+sentencing day33B(1)
 speciality court4(1), 84N(2)
 specified33H(15), 75(15), 84C(15)
-specified place33H(2)(a), 75(2)(a), 84C(2)(a)
+specified place33H(2), 75(2), 84C(2)
 spent conviction order4(1)
 statutory penalty4(1)
 superior court4(1)
 term85(1)
 term imposed35(1)
-third party118(1), 120(1)(b)
+third party118(1), 120(1)
 vessel107(5)
 victim9AA(1), 13, 116, 120(1)
 video link14A(4)
-WDO57A(4)(b)
+WDO57A(4)
 written reasons33A(7), 35(4)

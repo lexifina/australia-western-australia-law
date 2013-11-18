@@ -71,10 +71,11 @@ Standardisation of Formatting Act 2010 s. 22, 42(3), 47 and 51 | 19 of 2010 | 28
 Reprint 10: The Metropolitan Water Supply, Sewerage, and Drainage Act 1909 as at 10 Jun 2011 (includes amendments listed above)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 3 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 9 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
+Water Services Legislation Amendment and Repeal Act 2012 Pt. 4 (other than s. 34 and 39(2) | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Water Services Legislation Amendment and Repeal Act 2012 Pt. 4 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 34 and 39(2) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The short title of the Water Authority Act 1984 was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995.
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 5 and 8.
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
@@ -86,121 +87,25 @@ The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 32 was repealed 
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 Pt. 4 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 34 and 39(2) had not come into operation. They read as follows:
 Part 4 — Metropolitan Water Supply, Sewerage, and Drainage Act 1909 amended
-31.Act amended
-This Part amends the Metropolitan Water Supply, Sewerage, and Drainage Act 1909.
-32.Section 5 amended
-(1) In section 5(1) delete the definitions of:
-aquifer
-artesian bore
-Corporation
-officer
-prescribed
-sewerage charge
-sewerage works
-water charge
-water supply charge
-waterworks
-(2) In section 5(1) in the definition of watercourse delete “(c);” and insert:
-(c).
-(3) Delete section 5(2).
-33.Section 14 amended
-(1) In section 14(1) delete “the Corporation” and insert:
-a licensee (as defined in the Water Services Act 2012 section 3(1))
-(2) In section 14(2) delete “The Corporation” and insert:
-A licensee
 34.Section 16 amended
 In section 16(c) delete “Act” and insert:
 act
-35.Part V deleted
-Delete Part V.
-36.Part VI heading replaced
-Delete the heading to Part VI and insert:
-Part VI — The protection of underground water
-37.Part VI Divisions 1 and 2 deleted
-Delete Part VI Divisions 1 and 2.
-38.Part VI Division 3 heading deleted
-Delete the heading to Part VI Division 3.
 39.Section 57B amended
-(1) In section 57B(1)(a) delete “water under this Act;” and insert:
-water;
 (2) In section 57B(3) delete “Act” and insert:
 act
-40.Part VI Division 4 deleted
-Delete Part VI Division 4.
-41.Parts VII and VIII deleted
-Delete Parts VII and VIII.
-42.Section 146 amended
-In section 146(1):
-(a) in paragraph (d) delete “banks;” and insert:
-banks.
-(b) delete paragraphs (e) to (m).
-43.Section 148 deleted
-Delete section 148.
-44.Sections 150 to 152 deleted
-Delete sections 150 to 152.
-45.Section 153 amended
-In section 153 delete “or the Corporation”.
-46.Sections 154 and 155 deleted
-Delete sections 154 and 155.
-47.Section 156 replaced
-Delete section 156 and insert:
-156.Obstructing Minister, officers or authorised persons in performance of duty
-A person who obstructs —
-(a) the Minister; or
-(b) an officer of the Department; or
-(c) a person authorised by the Minister,
-in the performance of any act or thing which the Minister, officer or person is authorised or required to do in the execution of the Metropolitan Arterial Drainage Act 1982 or this Act commits an offence.
-Penalty: a fine of $5 000.
-48.Section 157 amended
-In section 157:
-(a) delete “or the Corporation,”;
-(b) delete “the Metropolitan Water Authority Act 1982 or”.
-49.Section 158 amended
-In section 158 delete “the Metropolitan Water Authority Act 1982 or”.
-50.Section 158A amended
-In section 158A delete “the Metropolitan Water Authority Act 1982 or”.
-51.Section 159 amended
-Delete section 159(1) and insert:
-(1) Proceedings for an offence against this Act may only be taken by the Minister or an officer of the Department or a person authorised to do so by the Minister.
-52.Section 161 deleted
-Delete section 161.
-53.Section 165 amended
-In section 165 delete “Water Agencies (Powers) Act 1984, the Metropolitan Water Authority Act 1982” and insert:
-Water Agencies (Powers) Act 1984
-54.Section 166 deleted
-Delete section 166.
-55.Schedule 9 deleted
-Delete Schedule 9.
-Defined Terms
+The sections that it seeks to amend have been changed by Reprint 10.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-aquifer5(1)
+Defined termProvision(s)
 Area5(1)
-artesian bore5(1)
 catchment area5(1)
 CEO5(1)
-Corporation5(1)
 Department5(1)
-FES Commissioner45(1)
-fire district45(1)
-fire hydrant45(1)
 former Authority5(1)
 former Metropolitan Authority5(1)
-officer5(1)
-old section 114(1) notice112(5)
-order56A(6)
 pollution area5(1)
-prescribed5(1)
-proclaimed day45(1)
 Registrar of Deeds5(1)
-re-instatement45(1)
-sewerage charge5(1)
-sewerage works5(1)
 this Act5(3)
-this Division112(5)
-water charge5(1)
-water supply charge5(1)
 watercourse5(1)
-waterworks5(1)

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 August 2013 of the Bulk Handling Act 1967 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Bulk Handling Act 1967 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Bulk Handling Act 1967 | 15 of 1967 | 20 Oct 1967 | 4 Jan 1968 (see s. 2 and Gazette 4 Jan 1968 p. 1)
@@ -31,10 +31,7 @@ Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 2 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Commercial Arbitration Act 2012 s. 45 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Reprint 5: The Bulk Handling Act 1967 as at 9 Aug 2013 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Water Services Legislation Amendment and Repeal Act 2012 s. 206 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+ | Water Services Legislation Amendment and Repeal Act 2012 s. 206 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 The Companies Act 1893 was repealed by the Companies Act 1943. The latter Act was repealed by the Companies Act 1961 s. 4 except in relation to co-operative companies in respect of which it was renamed as the Companies (Co-operative) Act 1943 (s. 382), which was repealed by the Co-operatives Act 2009.
 Repealed by the Co-operatives Act 2009.
 Now 30 Delhi Street, West Perth.
@@ -62,10 +59,6 @@ Repealed by the Wheat Marketing Act 1984 s. 31.
 Marginal notes containing sectional references to the Bulk Handling Act 1935 have been omitted from this reprint.
 The Acts Amendment (Financial Administration and Audit) Act 1985 s. 4 and the Financial Administration Legislation Amendment Act 1993 s. 18 are transitional provisions that are of no further effect.
 The amendment in the Grain Marketing Act 2002 Sch. 2 cl. 1(2) to s. 8 of this Act is not included because s. 8 was repealed by the Bulk Handling Amendment Act 2002 s. 5.
-On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 206 had not come into operation. It reads as follows:
-206.Bulk Handling Act 1967 amended
-(1) This section amends the Bulk Handling Act 1967.
-(2) Delete section 52A.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

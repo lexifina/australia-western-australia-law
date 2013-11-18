@@ -44,12 +44,12 @@ Compilation table
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 37 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
 Building Act 2011 s. 174 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
-Reprint 7: The Strata Titles Act 1985 as at 24 May 2013 (includes amendments listed above)
+Water Services Legislation Amendment and Repeal Act 2012 s. 232 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+Reprint 7: The Strata Titles Act 1985 as at 24 May 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Water Services Legislation Amendment and Repeal Act 2012 s. 232 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
 (5) A plan registered under the principal Act before the provision inserted by subsection (3) came into operation is declared to be, and to have always been, valid if it would have been valid at the time of registration had that provision been then in operation.
 Deleted by the Building Act 2011 s. 153(2).
@@ -131,17 +131,6 @@ On the date as at which this reprint was prepared, the State Superannuation (Tra
 67.Strata Titles Act 1985 amended
 Section 73(1)(g)(i) of the Strata Titles Act 1985 is amended by deleting “, and in particular his rights, if any, under the Superannuation and Family Benefits Act 1938.”.
 The section that it seeks to amend has been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1125.
-On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 232 had not come into operation. It reads as follows:
-232.Strata Titles Act 1985 amended
-(1) This section amends the Strata Titles Act 1985.
-(2) Delete section 60(4).
-(3) In section 66 after “an authority” insert:
-(including a licensee as defined in the Water Services Act 2012 section 3(1))
-(4) At the end of Part IV Division 5 insert:
-67.Water service charges under the Water Services Act 2012
-For the purposes of this Division —
-(a) a statutory water service charge (as defined in the Water Services Act 2012 section 71(1)) that applies in respect of land is to be taken to be a rate made and levied by an authority (that is, the licensee to whom the charge is payable); and
-(b) the licensee is to be taken to be an authority authorised to make and levy the rate on the land.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -166,7 +155,7 @@ contract68
 council3(1)
 date of the contract70(8)
 disposition statement8B(2), 21V(2), 31H(2)
-dominant lot5D(2)(b)
+dominant lot5D(2)
 existing small strata scheme21A
 floor3(1)
 floor area3(1)
@@ -184,7 +173,7 @@ licensed surveyor3(1)
 licensed valuer3(1)
 local government3(1)
 location plan3(1)
-lot3(1), 3B(8), 36B(2), 103D(5)
+lot3(1), 3(1), 3B(8), 36B(2), 103D(5)
 management contract or arrangement50A(5)
 Minister for Lands29C(3)
 mortgage3(1)
@@ -198,7 +187,7 @@ person concerned3(1)
 plot ratio3(1)
 post-1985 companySch. 4 cl. 1
 prescribed3(1)
-proprietor3(1), 53A(c)
+proprietor3(1), 53A
 proprietor in default103B(1)
 proxy50A(1)
 purchaser68
@@ -210,15 +199,15 @@ replacement value53
 resolution without dissent3(1)
 re-subdivision3(1)
 retired person6A(3)
-scheme3(1), 53A(a)
-servient lot5D(2)(b)
+scheme3(1), 53A
+servient lot5D(2)
 settlement69D(6)
 settlement agent70(8)
 single tier strata scheme3(1)
-site value14(2a)(b)
-sketch plan21T(1)(b)
+site value14(2a)
+sketch plan21T(1)
 special resolution3(1)
-strata company3(1), 53A(b), 54(1)
+strata company3(1), 53A, 54(1)
 strata plan3(1)
 strata scheme3(1)
 strata/survey-strata plan3(1)

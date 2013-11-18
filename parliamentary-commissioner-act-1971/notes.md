@@ -111,12 +111,12 @@ Acts Amendment (Bankruptcy) Act 2009 s. 62 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 80 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 9: The Parliamentary Commissioner Act 1971 as at 3 Dec 2010 (includes amendments listed above)
+Water Services Legislation Amendment and Repeal Act 2012 s. 221 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Water Services Legislation Amendment and Repeal Act 2012 s. 221 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Under the Liquor Control Act 1988 Sch. 1A cl. 9 a reference to the Liquor Licensing Court is to be read and construed as a reference to the Liquor Commission.
 The Health Legislation Administration Act 1984 s. 6(1) was amended by the Mental Health (Consequential Provisions) Act 1996 s. 38 to replace the office of Director, Psychiatric Services with the office of Chief Psychiatrist.
@@ -154,26 +154,9 @@ Act | Provision
 .............................................. | ................
 Parliamentary Commissioner Act 1971 | s. 10(2)
 .............................................. | ................
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 221 had not come into operation. It reads as follows:
-221.Parliamentary Commissioner Act 1971 amended
-(1) This section amends the Parliamentary Commissioner Act 1971.
-(2) In section 34(1) after “energy ombudsman scheme” insert:
-or a water ombudsman scheme
-(3) In section 34(4) delete “energy ombudsman”.
-(4) In section 34(5) delete “under the” and insert:
-under an
-(5) In section 34(7) insert in alphabetical order:
-water ombudsman scheme means a scheme approved under the Water Services Act 2012 Part 4.
-(6) In section 34(7) in the definition of governing body:
-(a) after “ombudsman scheme” insert:
-or a water ombudsman scheme
-(b) delete “scheme.” and insert:
-scheme;
-Note:The heading to amended section 34 is to read:
-Energy and water ombudsman schemes
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Acting Commissioner4
 appropriate authority4
 authority4

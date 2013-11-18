@@ -13,7 +13,7 @@
 (j) the Hope Valley-Wattleup Redevelopment Act 2000;
 (k) the Jetties Act 1926;
 (l) the Land Administration Act 1997;
-(m) the Land Drainage Act 1925;
+[(m)deleted]
 (n) the Local Government Act 1995;
 (o) the Main Roads Act 1930;
 (p) the Marine and Harbours Act 1981;
@@ -29,8 +29,9 @@
 (z) the Strata Titles Act 1985;
 [(aa)deleted]
 (bb) the Transport Co-ordination Act 1966;
-(cc) the Water and Rivers Commission Act 1995;
-(dd) the Water Corporation Act 1995;
+(cc) the Water Agencies (Powers) Act 1984;
+(dd) the Water Corporations Act 1995;
+(eea) the Water Services Act 2012;
 (ee) the Waterways Conservation Act 1976;
 (ff) the Western Australian Land Authority Act 1992;
 (gg) the Western Australian Planning Commission Act 1985.
@@ -47,8 +48,8 @@
 [13.deleted]
 14.The Western Australian Land Authority established under the Western Australian Land Authority Act 1992.
 15.The Western Australian Planning Commission established under the Planning and Development Act 2005.
-16.A licensee as defined in the Water Services Licensing Act 1995.
+16.A licensee as defined in the Water Services Act 2012 section 3(1).
 17.The holder of a licence under the Electricity Industry Act 2004.
 18.The holder of a distribution licence under the Energy Coordination Act 1994.
 19.Any decision-making authority as defined in the Environmental Protection Act 1986 section 3.
-[Schedule 5 amended by No. 45 of 2011 s. 144(17) and (18); No. 22 of 2012 s. 143.]
+[Schedule 5 amended by No. 45 of 2011 s. 144(17) and (18); No. 22 of 2012 s. 143; No. 25 of 2012 s. 233.]

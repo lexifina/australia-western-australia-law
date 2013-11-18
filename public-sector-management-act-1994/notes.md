@@ -94,12 +94,12 @@ Reprint 9: The Public Sector Management Act 1994 as at 1 Apr 2011 (includes amen
 Curriculum Council Amendment Act 2011 Pt. 3 Div. 3 | 37 of 2011 | 13 Sep 2011 | 1 Mar 2012 (see s. 2(b) and Gazette 28 Feb 2012 p. 841)
 Metropolitan Redevelopment Authority Act 2011 s. 142 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 11 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
-Reprint 10: The Public Sector Management Act 1994 as at 12 Jul 2013 (includes amendments listed above)
+Water Services Legislation Amendment and Repeal Act 2012 s. 224 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+Reprint 10: The Public Sector Management Act 1994 as at 12 Jul 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Water Services Legislation Amendment and Repeal Act 2012 s. 224 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The R & I Holdings Act 1990 was repealed in Gazette 26 Jun 2001 p. 3063 under the R & I Holdings Act 1990 s. 22(2).
@@ -110,15 +110,6 @@ On the date as at which this reprint was prepared, the State Superannuation (Tra
 59.Public Sector Management Act 1994 amended
 The Public Sector Management Act 1994 is amended as follows:
 (a) by repealing section 20(1);
-On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 224 had not come into operation. It reads as follows:
-224.Public Sector Management Act 1994 amended
-(1) This section amends the Public Sector Management Act 1994.
-(2) Delete Schedule 1 item 19 and insert:
-19 | A body established by or under the Water Corporations Act 1995 section 4, namely —
- | (i) | the Water Corporation; and
- | (ii) | the Bunbury Water Corporation; and
- | (iii) | the Busselton Water Corporation; and
- | (iv) | a body established by the Governor.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

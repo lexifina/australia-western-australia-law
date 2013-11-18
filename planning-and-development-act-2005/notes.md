@@ -19,13 +19,13 @@ Heritage and Planning Legislation Amendment Act 2011 Pt. 3 | 4 of 2011 | 2 Mar 2
 Building Act 2011 s. 168 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Metropolitan Redevelopment Authority Act 2011 s. 141 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Commercial Arbitration Act 2012 s. 45 it. 16 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
-Reprint 3: The Planning and Development Act 2005 as at 1 Mar 2013 (includes amendments listed above except those in the Commercial Arbitration Act 2012)
+Water Services Legislation Amendment and Repeal Act 2012 s. 222 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+Reprint 3: The Planning and Development Act 2005 as at 1 Mar 2013 (includes amendments listed above except those in the Commercial Arbitration Act 2012 and the Water Services Legislation Amendment and Repeal Act 2012)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 41 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Water Services Legislation Amendment and Repeal Act 2012 s. 222 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
 Repealed by the Land Administration Act 1997.
 Repealed by the Water Resources Legislation Amendment Act 2007.
 Repealed by the Mining Act 1978.
@@ -183,14 +183,7 @@ This Division amends the Planning and Development Act 2005.
 161.Section 4 amended
 In section 4(1) in the definition of road delete “Road Traffic Act 1974)” and insert:
 Road Traffic (Administration) Act 2008 section 4)
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 222 had not come into operation. It reads as follows:
-222.Planning and Development Act 2005 amended
-(1) This section amends the Planning and Development Act 2005.
-(2) Delete section 10(1)(c)(ii) and insert:
-(ii) the chief executive officer of the department principally assisting in the administration of the Water Agencies (Powers) Act 1984; and
-(3) In section 167(1)(b)(ii) delete “Water Services Licensing Act 1995,” and insert:
-Water Services Act 2012 section 3(1),
+Under the Local Government Act 1995 sections 2.4(2) and 2.3, the Shire of Roebourne is declared to be a city and is named the City of Karratha as at 1 Jul 2014 (see Gazette 3 Jun 2014 p. 1746).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -230,7 +223,7 @@ environmental harm217(1)
 EP Act4(1)
 EPA4(1)
 fee261(1)
-first owner154(2)(d)
+first owner154(2)
 function266(1)
 Heritage Council4(1)
 improvement plan4(1)
@@ -240,10 +233,11 @@ information18(4)
 instructions39(1)
 interim development order4(1)
 issue261(1)
+JDAP4(1)
 judicial member237
 LAA Department4(1)
 land4(1), 136(3)
-later subdivider159(1)(a)
+later subdivider159(1)
 LDAP4(1)
 legal practitioner4(1)
 licence261(1)
@@ -259,15 +253,15 @@ member4(1), 266(1)
 metropolitan improvement scheme199(1A)
 metropolitan region4(1)
 Metropolitan Region Scheme4(1)
-Minister245(5)(a) and (b)
-Minister for Lands267A(1)(a)
+Minister245(5), 245(5)
+Minister for Lands267A(1)
 Minister for the Environment4(1)
 model provision257A(1)
 MRI Account4(1)
 non-conforming use172
 officer of the Commission4(1)
-original compensation181(1)(a)
-original subdivider159(1)(b)
+original compensation181(1)
+original subdivider159(1)
 other local government210(1)
 participate15(5)
 party237
@@ -293,12 +287,12 @@ Regional Minister4(1)
 regional order area4(1)
 register181(17), 197(6)
 Registrar181(17), 197(6)
-removed land122E(1), 122G(1)(a)
+removed land122E(1), 122G(1)
 repeal day122B(7)
 responsible authority4(1), 170(1A)
-road4(1), 135(3), 159(2), Sch. 8 cl. 7(2) and 8(2)
+road4(1), 135(3), 159(2), Sch. 8 cl. 7(2), Sch. 8 cl. 8(2)
 scheme or amendment41
-second owner154(2)(d)(i)
+second owner154(2)
 specified99(3), 103(3)
 start day122D(1)
 State planning policy4(1)
