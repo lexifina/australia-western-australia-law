@@ -63,4 +63,4 @@ The Shire of Wiluna; the townsite of Wiluna.
 The Shire of Wongan-Ballidu; the townsites of Wongan Hills, Ballidu, Cadoux, Kondut and Burakin.
 The Shire of Woodanilling; the townsite of Woodanilling.
 The Shire of Wyndham-East Kimberley; all townsites in the district.
-[Second Schedule inserted in Gazette 7 Sep 1971 p. 3281; amended in Gazette 14 Jul 1978 p. 2433; 4 Jun 1982 p. 1792; 29 May 1987 p. 2220; 12 May 1992 p. 1956.]
+[Second Schedule inserted: Gazette 7 Sep 1971 p. 3281; amended: Gazette 14 Jul 1978 p. 2433; 4 Jun 1982 p. 1792; 29 May 1987 p. 2220; 12 May 1992 p. 1956.]
