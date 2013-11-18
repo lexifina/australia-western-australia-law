@@ -1,7 +1,8 @@
 ## Schedule 1 — Kambalda area
 [s. 4]
 ## Division 1 — Plan of Kambalda area
-Note:For the interpretation of this plan, see section 4.
+Note:
+For the interpretation of this plan, see section 4.
 ## Division 2 — Map Grid of Australia coordinates
 Point | Coordinates mE | Coordinates mN
 1 | 368446.102 | 6544994.798
