@@ -96,6 +96,7 @@ Water Agencies Amendment By-laws 2011 Pt. 3 | 23 Jun 2011 p. 2403-16 | 1 Jul 201
 Reprint 5: The Country Areas Water Supply By-laws 1957 as at 9 Mar 2012 (includes amendments listed above)
 Water Agencies Amendment By-laws 2012 Pt. 3 | 20 Jun 2012 p. 2677-92 | 1 Jul 2012 (see bl. 2(b))
 Water Agencies Amendment By-laws 2013 Pt. 3 | 19 Jun 2013 p. 2333-46 | 1 Jul 2013 (see bl. 2(b))
+Country Areas Water Supply Amendment By laws 2013 | 14 Nov 2013 p. 5033-5 | bl. 1 and 2: 14 Nov 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 18 Nov 2013 (see bl. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Country Areas Water Supply Amendment By-laws (No. 2) 2013 | 15 Nov 2013 p. 5267-9 | bl. 1 and 2: 15 Nov 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 16 Nov 2013 (see bl. 2(b))
 These by-laws have effect for the purposes of the Country Areas Water Supply Act 1947 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 Repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988, which is now known as the Liquor Control Act 1988.
@@ -107,24 +108,14 @@ The Water Agencies Amendment By-laws 2008 bl. 3 reads as follows:
 Nothing in these by-laws affects the application after 1 July 2008 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-Australian Standard1A(1)
+Defined termProvision(s)
 cesspool1A(3)
-commercial purposes1A(1)
-domestic purposes1A(1)
+coordinates1(4)
 drain1A(3)
 feeder1A(1)
 house1A(3)
 inspector1A(1)
 land1A(3)
-licensed water supply plumber1A(1)
-multi-unit development77(7)
+liquid waste1A(1)
 owner1A(3)
-piggery1A(3)
-plumbing standards1A(1)
 principal Act1A(1)
-private service1A(1)
-public house1A(3)
-shared fire service99
-water supply plumbing work1A(1)
-working day1A(1)
