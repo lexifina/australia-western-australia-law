@@ -13,8 +13,7 @@
 9.Commissioner for Children and Young People established under the Commissioner for Children and Young People Act 2006
 10.Commissioner for Equal Opportunity appointed under the Equal Opportunity Act 1984
 11.Commissioner of Police appointed under the Police Act 1892
-[12.deleted]
-13.Coordinator of Water Services appointed under the Water Services Licensing Act 1995
+[12, 13.deleted]
 13A.Corruption and Crime Commission established under the Corruption and Crime Commission Act 2003
 14.Director of Public Prosecutions under the Director of Public Prosecutions Act 1991
 15A.Disability Services Commission continued under the Disability Services Act 1993
@@ -34,7 +33,7 @@
 29.The Western Australian Museum constituted by the Museum Act 1969
 30.Western Australian Land Information Authority established by the Land Information Authority Act 2006
 31.Western Australian Planning Commission established by the Planning and Development Act 2005
-[Division 1 amended in Gazette 29 Jun 2001 p. 3105; 26 Aug 2003 p. 3757; 1 Dec 2004 p. 5703 and 5717; 26 May 2006 p. 1931; 13 Apr 2007 p. 1609-10; 11 Feb 2011 p. 506; 23 Jul 2013 p. 3311-12; amended by Act No. 75 of 2003 s. 56(1); No. 10 of 2007 s. 43.]
+[Division 1 amended in Gazette 29 Jun 2001 p. 3105; 26 Aug 2003 p. 3757; 1 Dec 2004 p. 5703 and 5717; 26 May 2006 p. 1931; 13 Apr 2007 p. 1609-10; 11 Feb 2011 p. 506; 23 Jul 2013 p. 3311-12; 14 Nov 2013 p. 5073; amended by Act No. 75 of 2003 s. 56(1); No. 10 of 2007 s. 43.]
 ## Division 2 — Self funding employers
 1.The Government of Western Australia in relation to a worker in respect of whom the obligations of the Government are being discharged by a person, or by the employing authority of a department or organisation, specified in an order under regulation 9(1)(b) unless the order specifies that in relation to that worker the Government is a Division 1 Employer
 2A.Agencies established under the Hospitals and Health Services Act 1927 section 7B(1)

@@ -48,8 +48,9 @@ State Superannuation Amendment Regulations 2012 | 17 Jan 2012 p. 466-73 | r. 1 a
 State Superannuation Amendment Regulations (No. 2) 2012 | 11 May 2012 p. 2063-4 | r. 1 and 2: 11 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 12 May 2012 (see r. 2(b))
 Reprint 5: The State Superannuation Regulations 2001 as at 8 Jun 2012 (includes amendments listed above)
 State Superannuation Amendment Regulations 2013 | 23 Jul 2013 p. 3293-313 | r. 1 and 2: 23 Jul 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jul 2013 (see r. 2(b))
+State Superannuation Amendment Regulations (No. 2) 2013 | 14 Nov 2013 p. 5073 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. Part 9 of these regulations were amending regulations under that subsection. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed in the Acts database of the Statutes of Western Australia.
-Formerly referred to the Water Services Coordination Act 1995, the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Footnote no longer applicable.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Repealed by the Building Services (Registration) Act 2011.
 Formerly referred to the Curriculum Council Act 1997, the short title of which was changed by the Curriculum Council Amendment Act 2011 s. 5 to the School Curriculum and Standards Authority Act 1997. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
