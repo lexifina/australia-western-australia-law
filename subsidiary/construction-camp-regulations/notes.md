@@ -12,4 +12,22 @@ Reprint of the Construction Camp Regulations as at 11 Oct 1985 in Gazette 29 Oct
 Health (Offences and Penalties) Amendment Regulations 1988 Pt. 2 | 14 Oct 1988 p. 4160-3 | 14 Oct 1988
 Equality of Status Subsidiary Legislation Amendment Regulations 2003 Pt. 8 | 30 Jun 2003 p. 2581-638 | 1 Jul 2003 (see r. 2 and Gazette 30 Jun 2003 p. 2579)
 Reprint 2: The Construction Camp Regulations as at 5 Dec 2003 (includes amendments listed above) (correction in Gazette 13 Jan 2004 p. 146)
-Under the Metropolitan Water Authority Act 1982 s. 8, the Metropolitan Water Supply, Sewerage and Drainage Board was preserved and continued as the Metropolitan Water Authority. Under s. 12(1) of that Act the Authority was administered by a Board of management known as the ‘Metropolitan Water Board’. Under the Acts Amendment and Repeal (Water Authorities) Act 1985 s. 36 the Metropolitan Water Authority became a component of the corporate identity of the Water Authority of Western Australia. Under the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 certain references to the Water Authority were changed to references to the Water and Rivers Commission, the Coordinator of Water Services or the Water Corporation.
+Construction Camp Amendment Regulations 2013 | 14 Nov 2013 p. 5031-2 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+ablutionary or sanitary caravan28
+artificial light5, 28
+construction camp5, 28
+dining caravan28
+dining room5
+effective air conditioning5
+effectively air conditioned5
+kitchen5
+kitchen caravan28
+occupier5
+office caravan28
+residential caravan28
+sleeping caravan28
+sleeping quarters5
+toilet compartment28
