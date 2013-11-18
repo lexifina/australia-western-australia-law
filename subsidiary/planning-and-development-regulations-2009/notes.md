@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 23 August 2013 of the Planning and Development Regulations 2009 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Planning and Development Regulations 2009 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Planning and Development Regulations 2009 | 19 Jun 2009 p. 2271-318 | r. 1 and 2: 19 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b) and Gazette 19 Jun 2009 p. 2225)
@@ -8,6 +8,7 @@ Planning and Development Amendment Regulations 2011 | 24 Mar 2011 p. 1037-8 | r.
 Planning and Development Amendment Regulations (No. 4) 2011 | 6 May 2011 p. 1617-19 | r. 1 and 2: 6 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Planning and Development Amendment Regulations 2013 | 21 May 2013 p. 2011-13 | r. 1 and 2: 21 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Reprint 1: The Planning and Development Regulations 2009 as at 23 Aug 2013 (includes amendments listed above)
+Planning and Development Amendment Regulations (No. 2) 2013 | 14 Nov 2013 p. 5059 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Repealed by the Planning and Development (Repeal) Regulations 2009.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
