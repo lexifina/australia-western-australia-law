@@ -50,8 +50,9 @@ Note:The fees specified in items 1 to 4 include the creation and registration of
 ## Division 3 — Withdrawals
 [Heading inserted in Gazette 9 Jan 2009 p. 31.]
 1. | Of a caveat, order of the Supreme Court, the District Court or the Magistrates Court, a memorial under the Taxation Administration Act 2003 Part 6 Division 2 or a memorial under the Land Tax Assessment Act 1976 section 46 that was registered before that Act was repealed, or any other Act or Commonwealth Act (unless exempted from payment under that Act) | $160.00
+2A. | Of a memorial or notification under the Water Services Act 2012 | $160.00
 2. | Of a document from registration or recording | $80.00
-[Division 3 inserted in Gazette 9 Jan 2009 p. 31-2; amended in Gazette 19 Jun 2009 p. 2239; 18 Jun 2010 p. 2680; 14 Jun 2011 p. 2134.]
+[Division 3 inserted in Gazette 9 Jan 2009 p. 31-2; amended in Gazette 19 Jun 2009 p. 2239; 18 Jun 2010 p. 2680; 14 Jun 2011 p. 2134; 14 Nov 2013 p. 5079.]
 ## Division 4 — Applications
 [Heading inserted in Gazette 9 Jan 2009 p. 32.]
 1. | For a new certificate of title in respect of undivided shares in land —
