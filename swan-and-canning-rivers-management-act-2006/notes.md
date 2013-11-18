@@ -14,30 +14,13 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 201
 Reprint 2: The Swan and Canning Rivers Management Act 2006 as at 15 Jun 2012 (includes amendments listed above)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 15 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Commercial Arbitration Act 2012 s. 45 it. 20 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Water Services Legislation Amendment and Repeal Act 2012 s. 233 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 233 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Repealed by the Water Resources Legislation Amendment Act 2007.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 Now a city.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 233 had not come into operation. It reads as follows:
-233.Swan and Canning Rivers Management Act 2006 amended
-(1) This section amends the Swan and Canning Rivers Management Act 2006.
-(2) In Schedule 5 item 1:
-(a) delete subitem (m);
-(b) in subitem (cc) delete “Water and Rivers Commission Act 1995;” and insert:
-Water Agencies (Powers) Act 1984;
-(c) in subitem (dd) delete “Water Corporation Act 1995;” and insert:
-Water Corporations Act 1995;
-(d) after subitem (dd) insert:
-(eea) the Water Services Act 2012;
-(3) In Schedule 5 item 16 delete “Water Services Licensing Act 1995.” and insert:
-Water Services Act 2012 section 3(1).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Account3(1)
 affect7(1)
 alleged offender122

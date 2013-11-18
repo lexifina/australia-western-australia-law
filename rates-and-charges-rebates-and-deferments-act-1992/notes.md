@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 October 2013 of the Rates and Charges (Rebates and Deferments) Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Rates and Charges (Rebates and Deferments) Act 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Rates and Charges (Rebates and Deferments) Act 1992 | 31 of 1992 | 19 Jun 1992 | s. 1 and 2: 19 Jun 1992; Act other than s. 1 and 2: 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2643)
@@ -29,14 +29,15 @@ Reprint 3: The Rates and Charges (Rebates and Deferments) Act 1992 as at 7 Nov 2
 Residential Tenancies Amendment Act 2011 Pt. 5 Div. 4 | 60 of 2011 | 14 Dec 2011 | 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
 Local Government Amendment Act 2012 Pt. 3 | 2 of 2012 | 4 Apr 2012 | 1 Jul 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 12 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
+Water Services Legislation Amendment and Repeal Act 2012 s. 226(2), (5) and (6) | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Revenue Laws Amendment Act 2012 Pt. 6 | 29 of 2012 | 3 Sep 2012 | 4 Sep 2012 (see s. 2(e))
-Rates and Charges (Rebates and Deferments) Amendment Act 2013 s. 1, 2, 3, 4(1) and (2), 5-14 | 4 of 2013 | 29 Jun 2013 | s. 1 and 2: 29 Jun 2013 (see s. 2(a)); Act other than s. 1, 2, 4(3) and (4) and 14: 1 Jul 2013 (see s. 2(b)(i))
-Reprint 4: The Rates and Charges (Rebates and Deferments) Act 1992 as at 4 Oct 2013 (includes amendments listed above)
+Rates and Charges (Rebates and Deferments) Amendment Act 2013 | 4 of 2013 | 29 Jun 2013 | s. 1 and 2: 29 Jun 2013 (see s. 2(a)); Act other than s. 1, 2, 4(3) and (4) and 14: 1 Jul 2013 (see s. 2(b)(i)); s. 4(3): 18 Nov 2013 (see s. 2(c)(ii) and Gazette 14 Nov 2013 p. 5028)
+Reprint 4: The Rates and Charges (Rebates and Deferments) Act 1992 as at 4 Oct 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012 s. 226(2), (5) and (6) and the Rates and Charges (Rebates and Deferments) Amendment Act 2013 s. 4(3))
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Water Services Legislation Amendment and Repeal Act 2012 s. 226 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
-Rates and Charges (Rebates and Deferments) Amendment Act 2013 s. 4(3) and (4) | 4 of 2013 | 29 Jun 2013 | s. 4(3): operative on commencement of the Water Services Legislation Amendment and Repeal Act 2012 s. 112 (see s. 2(c)(ii)); s. 4(4): operative on commencement of the Water Services Legislation Amendment and Repeal Act 2012 s. 226(3) (see s. 2(d)(ii))
+Water Services Legislation Amendment and Repeal Act 2012 s. 226(3) and (4) | 25 of 2012 | 3 Sep 2012 | s. 226(3): 1 Jul 2014 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028); s. 226(4): to be proclaimed (see s. 2(b))
+Rates and Charges (Rebates and Deferments) Amendment Act 2013 s. 4(4) | 4 of 2013 | 29 Jun 2013 | 1 Jul 2014 (see s. 2(d) (ii) and Gazette 14 Nov 2013 p. 5028)
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.
 The provision in this Act amending that Act has been omitted under the Reprints Act 1984 s. 7(4)(e).
@@ -62,10 +63,8 @@ The Rates and Charges (Rebates and Deferments) Amendment Act 2005 s. 16 reads as
 16.Transitional
 If an eligible person who holds a relevant interest in land of a kind referred to in section 29A or 29B of the Rates and Charges (Rebates and Deferments) Act 1992 registers an entitlement in respect of land under section 32 of that Act after 30 June 2005 and before 1 October 2005, section 40 of that Act applies to that person as if the entitlement had been registered at the commencement of the charged period.
 The Rates and Charges (Rebates and Deferments) Amendment Act 2013 s. 14(2) does not have effect because this Act received the Royal Assent before 1 Jul 2013 (see s. 14(1)).
-On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 226 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 226(3) and (4) had not come into operation. They read as follows:
 226.Rates and Charges (Rebates and Deferments) Act 1992 amended
-(1) This section amends the Rates and Charges (Rebates and Deferments) Act 1992.
-(2) In section 3(1) delete the definition of Water Board.
 (3) In section 3(1) in the definition of prescribed charge delete paragraph (b)(i) and (ii) and insert:
 (i)the Water Services Act 2012; or
 (4) In section 3(1):
@@ -73,18 +72,8 @@ On the date as at which this reprint was prepared, the Water Services Legislatio
 and
 (b) in the definition of dependant after each of paragraphs (a) and (ab), the definition of eligibility after each of paragraphs (a) and (a)(i) and (ii) and the definition of prescribed charge after each of paragraphs (a) and (b) insert:
 or
-(5) In section 16(4):
-(a) delete “Water Board” (first occurrence) and insert:
-prescribed licensee
-(b) delete “Water Board” (second occurrence) and insert:
-licensee
-(6) After section 16(4) insert:
-(5) In subsection (4) —
-prescribed licensee means a licensee under the Water Services Act 2012 (other than a body established by or under the Water Corporations Act 1995 section 4 or a local government) who is prescribed for the purposes of subsection (4).
-On the date as at which this reprint was prepared, the Rates and Charges (Rebates and Deferments) Amendment Act 2013 s. 4(3) and (4) had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Rates and Charges (Rebates and Deferments) Amendment Act 2013 s. 4(4) had not come into operation. It reads as follows:
 4.Section 3 amended
-(3) In section 3(1) in the definition of Water Corporation delete “Water Corporation Act 1995” and insert:
-Water Corporations Act 1995
 (4) In section 3(1) in the definition of Water Corporation charge delete “paragraph (b)(ii)” and insert:
 paragraph (b)(i)
 Defined terms

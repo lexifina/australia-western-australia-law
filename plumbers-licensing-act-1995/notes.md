@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Water Services Licensing Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Plumbers Licensing Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Water Services Coordination Act 1995 | 72 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2 and Gazette 29 Dec 1995 p. 6291)
@@ -24,12 +24,9 @@ Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 
 Building Services (Complaint Resolution and Administration) Act 2011 s. 130 | 16 of 2011 | 25 May 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 4 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Reprint 3: The Water Services Licensing Act 1995 as at 6 Jul 2012 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Water Services Legislation Amendment and Repeal Act 2012 Pt. 8 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 Pt. 8 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Under the Land Administration Act 1997 s. 281(3), references to the Land Act 1933 may be construed as references to the Land Administration Act 1997.
-Now known as the Water Services Licensing Act 1995; short title changed (see note under s. 1).
+Short title was initially the Water Services Coordination Act 1995 and was subsequently changed to the Water Services Licensing Act 1995, and now known as the Plumbers Licensing Act 1995 (see note under s. 1).
 The Taxes and Charges (Land Subdivision) Legislation Amendment Act 1996 Pt. 6 is a review provision that is of no further effect.
 The Economic Regulation Authority Act 2003 s. 63(1), which gives effect to Sch. 3, reads as follows:
 63.Transitional and saving provisions
@@ -85,40 +82,9 @@ The operation of any provision of this Schedule is not to be regarded —
 (e) as releasing or allowing the release of any surety.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment to s. 57 in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1302 is not included because the section it seeks to amend was repealed by the Economic Regulation Authority Act 2003 s. 62.
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 Pt. 8 had not come into operation. It reads as follows:
-Part 8 — Water Services Licensing Act 1995 amended
-191.Act amended
-This Part amends the Water Services Licensing Act 1995.
-192.Long title amended
-In the long title delete “to establish a scheme for the licensing of water services, to confer functions on the Economic Regulation Authority in respect of that scheme and other matters,”.
-193.Section 1 amended
-In section 1 delete “Water Services” and insert:
-Plumbers
-194.Section 3 amended
-(1) In section 3 delete the definitions of:
-Authority
-controlled area
-inspector
-irrigation
-licence
-licensee
-operating licence
-Registrar of Deeds
-watercourse
-water services
-water services works
-(2) In section 3 in the definition of plumber delete “59I;” and insert:
-59I.
-195.Parts 2, 3 and 4 deleted
-Delete Parts 2, 3 and 4.
-196.Section 62 amended
-In section 62(1) delete “the expiry of 5 years from its commencement.” and insert:
-every 5th anniversary of the commencement of the Water Services Legislation Amendment and Repeal Act 2012 section 191.
-197.Schedules 1 and 2 deleted
-Delete Schedules 1 and 2.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 affected land46A
 asset46A
 assets46K

@@ -88,10 +88,7 @@ Statutes (Repeals and Minor Amendments) Act 2009 s. 9 | 46 of 2009 | 3 Dec 2009 
 Standardisation of Formatting Act 2010 s. 4, 43(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 4 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Fire Brigades (Fire Districts) Notice (No. 2) 2012 published in Gazette 14 Dec 2012 p. 6213-14 | 14 Dec 2012
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Water Services Legislation Amendment and Repeal Act 2012 s. 213 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 213 (other than s. 213(4)(a)) | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 The Fire and Emergency Services Legislation (Emergency Services Levy) Amendment Act 2002 s. 36, which gives effect to Sch. 1, reads as follows:
 “
 36.Transitional provisions
@@ -208,19 +205,8 @@ The Fire and Emergency Services Legislation Amendment Act 2002 s. 45(4) and 54(3
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 18 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 213 had not come into operation. It reads as follows:
-213.Fire Brigades Act 1942 amended
-(1) This section amends the Fire Brigades Act 1942.
-(2) Delete sections 54 and 55.
-(3) At the beginning of section 61 insert:
-(1) In this section —
-water services licensee means a licensee as defined in the Water Services Act 2012 section 3(1).
-(4) In section 61:
-(a) delete “The Authority,” and insert:
-(2) The Authority,
-(b) delete “water supply authority” and insert:
-water services licensee
-Defined Terms
+The amendment in the Water Services Legislation Amendment and Repeal Act 2012 s. 213(4)(a) is not included because the subsection it sought to amend had been amended before the amendment purported to come into operation.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 alleviation33A(15)

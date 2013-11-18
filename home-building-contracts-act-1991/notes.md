@@ -25,10 +25,7 @@ Building Services (Registration) Act 2011 Pt. 10 Div. 1 | 19 of 2011 | 22 Jun 20
 Building Act 2011 s. 163 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 22 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 4: The Home Building Contracts Act 1991 as at 25 May 2012 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Water Services Legislation Amendment and Repeal Act 2012 s. 217 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+Water Services Legislation Amendment and Repeal Act 2012 s. 217 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 The amendment in the Caravan Parks and Camping Grounds Act 1995 Sch. 2 it. 3 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 26(3).
 The Building Legislation Amendment Act 2000 s. 59 and 62 read as follows:
 59.References to Committee in other written laws
@@ -36,18 +33,9 @@ A reference in any written law to the Building Disputes Committee constituted un
 62.Review
 (1) The Minister is to carry out a review of the operation and effectiveness of the amendments made by this Act as soon as is practicable after the expiration of 3 years from the commencement of section 1 of this Act.
 (2) The Minister is to prepare a report based on the review made under subsection (1) and, as soon as is practicable after the report is prepared, is to cause it to be laid before each House of Parliament.
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 217 had not come into operation. It reads as follows:
-217.Home Building Contracts Act 1991 amended
-(1) This section amends the Home Building Contracts Act 1991.
-(2) In section 9(1):
-(a) in paragraph (c) delete “Water Act,” and insert:
-Water Services Act 2012 section 82,
-(b) in paragraph (d) delete “under the Water Act by the Water Corporation (established by the Water Corporation Act 1995)” and insert:
-by a licensee under the Water Services Act 2012 section 82
-(3) Delete section 9(6).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 approved fund25A
 associated work3(1)
 authorised person26(3), 31B(1)
@@ -89,5 +77,4 @@ sale contract25A
 settlement25A
 specified period25J(1), 25K(1)
 strata-titled dwelling3(1)
-Water Act9(6)
 working days3(1)

@@ -1,33 +1,23 @@
 Notes
-This is a compilation of the Building Services (Complaint Resolution and Administration) Act 2011. The following table contains information about that Act.
+This is a compilation of the Building Services (Complaint Resolution and Administration) Act 2011 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Building Services (Complaint Resolution and Administration) Act 2011 | 16 of 2011 | 25 May 2011 | s. 1 and 2: 25 May 2011 (see s. 2(a)); Act other than s. 1 and 2: 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Water Services Legislation Amendment and Repeal Act 2012 s. 205 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 205 had not come into operation. It reads as follows:
-205.Building Services (Complaint Resolution and Administration) Act 2011 amended
-(1) This section amends the Building Services (Complaint Resolution and Administration) Act 2011.
-(2) In section 3 in the definitions of building service Act paragraph (f), plumbing work and vocational regulatory body paragraph (b) delete “Water Services” and insert:
-Plumbers
-(3) In section 92(5)(e) delete “Water Services” and insert:
-Plumbers
-Defined Terms
+Water Services Legislation Amendment and Repeal Act 2012 s. 205 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 approved owner-builder3
 authorised person3
 builder3
 building3
 building approval certificate93
-Building Commissioner3
+Building Commissioner3, 113(2), 128(3)
 building remedy order3
 building service3
 building service Act3
 building service complaint3
-Building Services Account3
+Building Services Account3, 130(3)
 Building Services Board3
 building services levy3
 commencement day132
@@ -59,7 +49,7 @@ occupier59
 officer48(1), 105(1)
 owner3
 permit93
-permit authority3
+permit authority 3
 place3, 59
 plumbing work3
 prescribed3

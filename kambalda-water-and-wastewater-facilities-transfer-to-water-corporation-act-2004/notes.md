@@ -4,12 +4,33 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Kambalda Water and Wastewater Facilities (Transfer to Water Corporation) Act 2004 | 64 of 2004 | 30 Nov 2004 | 11 Jun 2005 (see s. 2 and Gazette 10 Jun 2005 p. 2565)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16. | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Water Services Legislation Amendment and Repeal Act 2012 s. 219 | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 219 had not come into operation. It reads as follows:
-219.Kambalda Water and Wastewater Facilities (Transfer to Water Corporation) Act 2004 amended
-(1) This section amends the Kambalda Water and Wastewater Facilities (Transfer to Water Corporation) Act 2004.
-(2) In section 3 in the definition of Water Corporation delete “section 4 of the Water Corporation Act 1995;” and insert:
-the Water Corporations Act 1995 section 4(1);
+Water Services Legislation Amendment and Repeal Act 2012 s. 219 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+approved15
+authority13(1)
+commencement day3
+coordinates3
+fitting5(1)
+fixture5(1)
+headworks5(1)
+Kambalda area3
+Kambalda Water and Wastewater Facilities3
+land10(1)
+liability9(1)
+new plan20(2)
+notification15
+pipe3
+relevant Minister13(1)
+relevant official15
+reticulation5(1)
+sewer5(1)
+sewerage works5(1), 15
+the transferred facilities3, 5(2)
+title18(1)
+treated wastewater pipeline5(1)
+Water Corporation3
+water works5(1), 15
+WMC Resources Ltd3
+works3
