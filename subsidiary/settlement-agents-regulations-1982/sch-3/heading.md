@@ -17,7 +17,7 @@
 (d)Heritage of Western Australia Act 1990;
 [(e)deleted]
 (f)Local Government Act 1995;
-(g)Metropolitan Water Supply, Sewerage, and Drainage Act 1909;
+(g)Water Services Act 2012;
 (ga)Public Works Act 1902;
 (h)Retirement Villages Act 1992;
 (i)Soil and Land Conservation Act 1945;
@@ -25,7 +25,7 @@
 6.Is anybody in occupation of the land under any or any alleged lease or licence? If so, please provide precise details of the terms of any such lease or licence or alleged lease or licence and provide copies of any agreements in respect thereof.
 7. Are there any claims by any third parties to a mining lease or licence under the Mining Act 1978? If so, please provide precise details of the terms of any claim.
 8. The vendor is to list all applications, transfers, instruments, statutory declarations, discharges of mortgages, withdrawals of caveats or other documents to be tendered at settlement in order for the purchaser to become registered as the proprietor of the freehold of the land without any encumbrances on the title to it.
-[Part B inserted in Gazette 23 May 1997 p. 2421-2; amended in Gazette 15 Jun 2004 p. 2026; 22 Dec 2006 p. 5808.]
+[Part B inserted in Gazette 23 May 1997 p. 2421-2; amended in Gazette 15 Jun 2004 p. 2026; 22 Dec 2006 p. 5808; 14 Nov 2013 p. 5067.]
 ## Part C — Documents for registration or lodgement
 1.Under or for the purposes of the Strata Titles Act 1985 the following documents, subject to the condition that a licensee shall not draft a resolution of a strata company under or for the purposes of that Act —
 (a)these documents for the purposes of these provisions of that Act:
@@ -80,6 +80,6 @@ s. 240A | Application to change an address;
 (ii)no other person has acquired or claims any interest in the land that has priority over, or that is adverse to, the caveator’s claim; and
 (iii)no dealing that is adverse to, or that derogates from, the caveator’s claim is lodged or is to be lodged after the withdrawal and before the transfer to the caveator or the caveator’s nominee;
 (c)an application to amend the Register as to the name of a registered proprietor;
-(d)a notice under section 67B of the Water Agencies (Powers) Act 1984, to be provided by the Water Corporation, directing that section 67B of that Act cease to apply to specified land;
-(e)a notice under section 62D of the Water Boards Act 1904, to be provided by a Water Board, directing that section 62B of that Act cease to apply to specified land.
-[Part C inserted in Gazette 23 May 1997 p. 2422-4; amended in Gazette 30 Dec 2004 p. 6927.]
+(d)a withdrawal of memorial under the Water Services Act 2012 section 128 for a memorial lodged by a water corporation (as defined in that Act) in relation to the payment of an infrastructure contribution under section 128(2)(b) of that Act.
+[(e)deleted]
+[Part C inserted in Gazette 23 May 1997 p. 2422-4; amended in Gazette 30 Dec 2004 p. 6927; 14 Nov 2013 p. 5067-8.]
