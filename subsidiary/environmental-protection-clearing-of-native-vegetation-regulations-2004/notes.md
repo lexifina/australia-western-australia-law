@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 April 2009 of the Environmental Protection (Clearing of Native Vegetation) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Environmental Protection (Clearing of Native Vegetation) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Environmental Protection (Clearing of Native Vegetation) Regulations 2004 | 30 Jun 2004 p. 2587-623 | 8 Jul 2004 (see r. 2 and Gazette 30 Jun 2004 p. 2581)
@@ -15,6 +15,7 @@ Environmental Protection (Clearing of Native Vegetation) Amendment Regulations 2
 Environmental Protection (Clearing of Native Vegetation) Amendment Regulations (No. 2) 2007 | 22 Jun 2007 p. 2845 | 22 Jun 2007
 Environmental Protection (Clearing of Native Vegetation) Amendment Regulations 2008 | 10 Jun 2008 p. 2485-6 | r. 1 and 2: 10 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jun 2008 (see r. 2(b))
 Reprint 2: The Environmental Protection (Clearing of Native Vegetation) Regulations 2004 as at 17 Apr 2009 (includes amendments listed above)
+Environmental Protection (Clearing of Native Vegetation) Amendment Regulations 2013 | 14 Nov 2013 p. 5037 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 4. See s. 8 of that Act in relation to the repeal of the Swan River Trust Act 1988.
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Water Resources Legislation Amendment Act 2007 s. 223 reads as follows:
@@ -28,9 +29,9 @@ has effect after the transfer time, to the extent to which the agreement or inst
 (d) any reference in the agreement or instrument to the former body were (unless the context otherwise requires) amended to be or include a reference to the relevant successor.
 (2) This section does not apply to any agreement or instrument covered by another provision of this Part.
 ”.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Aboriginal person3
 alienated land3
 authority areaSch. 1 cl. 2(3)
