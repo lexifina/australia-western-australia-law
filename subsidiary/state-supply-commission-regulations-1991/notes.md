@@ -9,6 +9,11 @@ State Supply Commission Amendment Regulations 2000 | 14 Nov 2000 p. 6253 | 14 No
 State Supply Commission Amendment Regulations 2002 | 7 May 2002 p. 2317-19 | 7 May 2002
 Reprint of the State Supply Commission Regulations 1991 as at 11 Oct 2002 (includes amendments listed above)
 State Supply Commission Amendment Regulations 2012 | 12 Jul 2013 p. 3227 | r. 1 and 2: 12 Jul 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jul 2013 (see r. 2(b))
+State Supply Commission Amendment Regulations 2013 | 14 Nov 2013 p. 5075 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
 R & I Holdings no longer exists. The R & I Bank Act 1990 (the short title of which was changed to the Bank of Western Australia Act 1990 by the R & I Bank Amendment Act 1994 s. 5 then to the R & I Holdings Act 1990 by the Bank of Western Australia Act 1995 Sch. 1 cl. 2) was repealed under s. 22 of the R & I Holdings Act 1990, see Proclamation published in Gazette on 26 June 2001 p. 3063.
 Formerly referred to the State Government Insurance Commission established under the State Government Insurance Commission Act 1986. The name of the Commission was changed to the Insurance Commission of Western Australia and the short title of the Act was changed to the Insurance Commission of Western Australia Act 1986 by the Acts Amendment (ICWA) Act 1996 s. 5 and 8. The reference to the Commission and to the Act were changed under the Reprints Act 1984 s. 7(3)(gb) and (h).
-Under the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 certain references to the Water Authority have effect, after the day on which Part 2 of that Act came into operation, as references to the Water and Rivers Commission, the Coordinator of Water Services, or the Water Corporation, as the case requires.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+accountable officer1A
+partial exemption1A
