@@ -12,4 +12,4 @@
 10.Fees for the servicing of an air-conditioning unit used by the tenant.
 11.Fees for the cleaning of the gutters on the relocatable home in which the tenant resides.
 12.When a tenant is selling a relocatable home owned by the tenant on the site and the park operator is not the appointed selling agent, a fee for screening the suitability of prospective purchasers of the relocatable home.
-[Schedule 8 amended in Gazette 5 Jul 2011 p. 2820.]
+[Schedule 8 amended: Gazette 5 Jul 2011 p. 2820.]
