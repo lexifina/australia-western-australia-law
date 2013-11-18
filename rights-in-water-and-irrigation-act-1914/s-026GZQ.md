@@ -7,4 +7,4 @@
 (b) must not remove the notation of the security interest from the register or vary the details in the register (as the case requires) unless —
 (i) each person noted on the register as having a security interest in the licence consents in writing to the CEO doing so; or
 (ii) a court authorises or directs the CEO to do so, at the suit of the licensee, a person referred to in subparagraph (i) or some other interested person.
-[Section 26GZQ inserted by No. 49 of 2000 s. 49; amended by No. 38 of 2007 s. 71 and 102.]
+[Section 26GZQ inserted: No. 49 of 2000 s. 49; amended: No. 38 of 2007 s. 71 and 102.]

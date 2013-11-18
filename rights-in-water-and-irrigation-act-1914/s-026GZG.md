@@ -18,4 +18,4 @@ and
 (a) correct any clerical mistake, error or inaccuracy in, or accidental omission from, a plan; or
 (b) replace any factual information set out in a plan if the information has become out of date.
 (6) Notice of any such correction or replacement must be published in the Gazette for public information.
-[Section 26GZG inserted by No. 49 of 2000 s. 44; amended by No. 38 of 2007 s. 67 and 101(1).]
+[Section 26GZG inserted: No. 49 of 2000 s. 44; amended: No. 38 of 2007 s. 67 and 101(1).]

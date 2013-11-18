@@ -6,4 +6,4 @@
 (3) The Water Resources Council may submit to the Minister a report indicating its opinion of the plan and making recommendations about modification and approval of the plan.
 (4) The Minister may make the proposed plan with or without modifications.
 (5) The Minister must not make the plan before the time referred to in subsection (1) has elapsed.
-[Section 26GZE inserted by No. 38 of 2007 s. 66.]
+[Section 26GZE inserted: No. 38 of 2007 s. 66.]

@@ -5,4 +5,4 @@
 (2) A plan has effect from —
 (a) the day of publication in the Gazette of a notice under subsection (1); or
 (b) such later day as is specified in the plan.
-[Section 26GZF inserted by No. 49 of 2000 s. 44.]
+[Section 26GZF inserted: No. 49 of 2000 s. 44.]

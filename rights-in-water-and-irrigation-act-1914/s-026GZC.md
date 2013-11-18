@@ -5,4 +5,4 @@
 (a) is to be as it may be modified by the Minister after considering submissions made under section 26GZB; and
 (b) in any case is to be accompanied by a summary of those submissions.
 (4) If any such body or person considers that the Minister should amend the plan, it may within one month after receipt of the proposed plan under subsection (1) or (2), in writing, request the Minister to make the amendment.
-[Section 26GZC inserted by No. 49 of 2000 s. 44; amended by No. 38 of 2007 s. 65, 101(1) and (2).]
+[Section 26GZC inserted: No. 49 of 2000 s. 44; amended: No. 38 of 2007 s. 65, 101(1) and (2).]
