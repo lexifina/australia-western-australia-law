@@ -82,6 +82,7 @@ Water Agencies Amendment By-laws 2011 Pt. 6 | 23 Jun 2011 p. 2403-16 | 1 Jul 201
 Reprint 7: The Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 as at 3 Feb 2012 (includes amendments listed above)
 Water Agencies Amendment By-laws 2012 Pt. 6 | 20 Jun 2012 p. 2677-92 | 1 Jul 2012 (see bl. 2(b))
 Water Agencies Amendment By-laws 2013 Pt. 6 | 19 Jun 2013 p. 2333-46 | 1 Jul 2013 (see bl. 2(b))
+Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2013 | 14 Nov 2013 p. 5053-7 | bl. 1 and 2: 14 Nov 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 18 Nov 2013 (see bl. 2(b) and Gazette 14 Nov 2013 p. 5027)
 These by-laws have effect for the purposes of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 See Bush Fires Act 1954.
 See Strata Titles Act 1985.
@@ -93,80 +94,39 @@ By-law 28.1 of the Metropolitan Water Supply, Sewerage and Drainage By-laws 1981
 The Water Agencies Amendment By-laws 2008 bl. 3 reads as follows:
 3.Application
 Nothing in these by-laws affects the application after 1 July 2008 of a by-law in force before that day insofar as that by-law relates to a fee or charge for a period commencing before that day or to a fee or charge for any matter or thing done before that day.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-Act1.1
-approved1.1
-AS/NZS1.1
-Australian Standard1.1
-automotive business premises5.6.1
-backflow1.1
-Board28.2.4
-bore1.1
-branch property sewer1.1
-bulk liquid storage tank system5.6.1
-commercial type1.1
-container1.1
-cross connection1.1
-Dangerous Goods Storage Regulations1.1
-diameter1.1
-discharge pipe1.1
-disconnector trap1.1
-domestic purposes1.1
-domestic sewage1.1
-domestic type1.1
-drainage plumbing30.9.3.4
-educt vent1.1
-elevated storage tank system5.6.1
-establish5.6.1
-exempt building27.3.1
-feeder1.1
-flat1.1
-garden purposes1.1
-ground1.1
-ground storage tank system5.6.1
-high-water mark1.1
-indirectly connected1.1
-induct vent1.1
-industrial waste1.1
-inspector1.1
-joint water service12.1.1
-licensed plumber1.1
-major plumbing work30.9.3.4
-minor plumbing work30.9.3.4
-multi-unit development6.7.1A.5
-observation well1.1
-owner5.6.1
-pesticides1.1
-petroleum product1.1
-pipework1.1
-plans5.6.1
-plumbing standards1.1
-priority 1 source protection area5.6.1
-priority 2 source protection area5.6.1
-priority 3 source protection area5.6.1
-private service1.1
-production well1.1
-residential building1.1
-sanitary plumbing1.1
-shared fire service6.4.6.7
-size1.1
-spill level1.1
-tank5.6.1
-trade waste1.1
-trap seal1.1
-underground storage or handling system1.1
-unpolluted water5.6.1
-vent pipe1.1
-vent stack1.1
-vented1.1
-waste pipe1.1
-water heater1.1
-water seal1.1
-water service1.1
-wellhead5.6.1
-wellhead protection zone5.6.1
-work28.9.19.1(d)
-works1.1
-yard gully1.1
+Defined termProvision(s)
+Act1
+automotive business premises5
+bore1
+bulk liquid storage tank system5
+Corporation1
+Dangerous Goods Storage Regulations1
+diameter1
+domestic sewage1
+elevated storage tank system5
+establish5
+feeder1
+ground1
+ground storage tank system5
+high-water mark1
+industrial waste1
+liquid waste1
+observation well1
+owner5
+pesticides1
+petroleum product1
+plans5
+priority 1 source protection area5
+priority 2 source protection area5
+priority 3 source protection area5
+production well1
+size1
+tank5
+underground storage or handling system1
+underground water1
+unpolluted water5
+wellhead5
+wellhead protection zone5
+works1
