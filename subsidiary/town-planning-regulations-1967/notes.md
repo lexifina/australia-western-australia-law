@@ -19,7 +19,8 @@ Town Planning Amendment Regulations (No. 2) 1999 | 21 Dec 1999 p. 6417-18 | 21 D
 Reprint of the Town Planning Regulations 1967 as at 1 Mar 2002 (includes amendments listed above)
 Town Planning Amendment Regulations 2002 | 27 Aug 2002 p. 4357-61 | 27 Aug 2002
 Town Planning Amendment Regulations 2004 | 30 Dec 2004 p. 6958-9 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
-The Water Authority of Western Australia no longer exists. See the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 8.
+Town Planning Amendment Regulations 2013 | 14 Nov 2013 p. 5077 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
+Footnote no longer applicable.
 Under the Public Sector Management Act 1994 the names of departments can be changed. At the time of this reprint the former Department of Conservation and Environment is called the Department of Environment and Heritage.
 The Town Planning Amendment Regulations 1984 r. 7 was a transitional provision that is of no further effect.
 The Town Planning Amendment Regulations 1986 r. 32 was a transitional provision that is of no further effect.
@@ -30,3 +31,17 @@ If sections 7A1, 7A2, 7A3 and 7A4 of the Act do not apply to a Scheme or Amendme
 ”.
 Disallowed on 3 May 2000, see Gazette 9 May 2000, p. 2242.
 Formerly made under s. 8 and 9 of the Town Planning and Development Act 1928, continued under s. 256, 258 and 259 of the Planning and Development Act 2005.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+affected land25B(5)
+Amendment3
+authorised person3
+Chief Executive Officer3
+Department3
+Development Scheme3
+review expenses25B(5)
+Scheme3
+the Act3
+Town Planning Scheme Amendment3
+value25B(5)
