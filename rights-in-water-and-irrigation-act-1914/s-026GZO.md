@@ -12,4 +12,4 @@ or
 or
 (d) the Minister is notified that the licensee wishes to surrender the licence under clause 27 of Schedule 1,
 the CEO must as soon as practicable give or cause to be given to the person specified in the notation written details of that fact.
-[Section 26GZO inserted by No. 49 of 2000 s. 49; amended by No. 38 of 2007 s. 70.]
+[Section 26GZO inserted: No. 49 of 2000 s. 49; amended: No. 38 of 2007 s. 70.]
