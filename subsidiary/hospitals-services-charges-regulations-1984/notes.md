@@ -132,10 +132,11 @@ Hospitals (Services Charges) Amendment Regulations 2013 | 7 May 2013 p. 1904-5 |
 Hospitals (Services Charges) Amendment Regulations (No. 3) 2013 | 28 Jun 2013 p. 2753 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 4) 2013 | 2 Jul 2013 p. 2963-4 | r. 1 and 2: 2 Jul 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jul 2013 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 5) 2013 | 22 Oct 2013 p. 4766-7 | r. 1 and 2: 22 Oct 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Oct 2013 (see r. 2(b))
+Hospitals (Services Charges) Amendment Regulations (No. 6) 2013 | 19 Nov 2013 p. 5293-4 | r. 1 and 2: 19 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2013 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with the Interpretation Act 1984 s. 42(1), subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The commencement date of 1 September 1990 that was specified in these regulations was before the date of their publication in the Gazette.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 compensable day patient4(1)
