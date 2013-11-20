@@ -4,7 +4,8 @@ Compilation table
 Citation | Gazettal | Commencement
 Health (Pesticides) Regulations 2011 | 1 Feb 2011 p. 291-372 | r. 1 and 2: 1 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Feb 2011 (see r. 2(b))
 Health (Pesticides) Amendment Regulations 2011 | 21 Jun 2011 p. 2219-20 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jun 2011 (see r. 2(b))
-Defined Terms
+Health (Pesticides) Amendment Regulations 2013 | 19 Nov 2013 p. 5294-5 | r. 1 and 2: 19 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2013 (see r. 2(b))
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 1956 Regulations113
