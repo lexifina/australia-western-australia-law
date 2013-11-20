@@ -77,7 +77,8 @@ Fee | $
 (g)seagoing processing establishment that is used solely for processing fish including rock lobsters and prawns taken by other boats | 420.00
 2.Aquaculture licence
 (a)any licence other than a licence referred to in paragraph (b) | 363.00
-(b)a licence that authorises the aquaculture of marron only and is subject to the condition that the sale of the marron is prohibited unless the marron — (i)are of a length not less than 76 mm; and (ii)are sold to a person who holds an aquaculture licence or fish processor’s licence | No fee
+(b)a licence that authorises the aquaculture of marron only and is subject to the condition that the sale of the marron is prohibited unless — (i)the marron are of a length not less than 76 mm; and
+(ii)the majority of the marron are sold to persons who hold an aquaculture licence or a fish processor’s licence; and (iii)no more than 100 kg of marron in total is sold to persons who do not hold an aquaculture licence or a fish processor’s licence during the period for which the licence remains in force | No fee
 3.Managed fishery licence fees
 (1)Abalone Managed Fishery, the sum obtained by multiplying the total kg of entitlement conferred by the licence (but excluding any entitlement transferred to or from the licence under section 141 of the Act) by the fee for each kg, as follows —
 (a)for greenlip abalone, per kg | 5.74
@@ -179,4 +180,4 @@ Fee | $
 (d)fishing for all freshwater fish (other than crustaceans) in waters south of 29° south latitude above the tidal influence including all lakes, dams, rivers and their tributaries | 40.00
 (e)fishing by means of a fishing net | 40.00
 9.Recreational (boat) fishing licence (r. 124C) | 30.00
-[Part 3 inserted in Gazette 9 Jun 2009 p. 1915-20; amended in Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5; 27 Aug 2010 p. 4106; 10 Sep 2010 p. 4347; 2 Dec 2010 p. 6031-4; 6 May 2011 p. 1611-12; 24 Aug 2011 p. 3406-8; 9 Sep 2011 p. 3683; 17 Oct 2012 p. 4979-80; 19 Oct 2012 p. 5017-20; 2 Nov 2012 p. 5277-8; 18 Dec 2012 p. 6593; 4 Sep 2013 p. 4180-3; 15 Nov 2013 p. 5238.]
+[Part 3 inserted in Gazette 9 Jun 2009 p. 1915-20; amended in Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5; 27 Aug 2010 p. 4106; 10 Sep 2010 p. 4347; 2 Dec 2010 p. 6031-4; 6 May 2011 p. 1611-12; 24 Aug 2011 p. 3406-8; 9 Sep 2011 p. 3683; 17 Oct 2012 p. 4979-80; 19 Oct 2012 p. 5017-20; 2 Nov 2012 p. 5277-8; 18 Dec 2012 p. 6593; 4 Sep 2013 p. 4180-3; 15 Nov 2013 p. 5238; 19 Nov 2013 p. 5283.]
