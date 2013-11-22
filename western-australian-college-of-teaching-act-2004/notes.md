@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Western Australian College of Teaching Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 22 November 2013 of the Western Australian College of Teaching Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Western Australian College of Teaching Act 2004 | 8 of 2004 | 10 Jun 2004 | s. 1 and 2: 10 Jun 2004; Act other than s. 1 and 2: 15 Sep 2004 (see s. 2 and Gazette 3 Sep 2004 p. 3849)
@@ -12,52 +12,24 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 135 | 8 of 2009 | 21
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Curriculum Council Amendment Act 2011 Pt. 3 Div. 5 | 37 of 2011 | 13 Sep 2011 | 1 Mar 2012 (see s. 2(b) and Gazette 28 Feb 2012 p. 841)
 Teacher Registration Act 2012 Pt. 9 Div. 1 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 2: The Western Australian College of Teaching Act 2004 as at 22 Nov 2013 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Teacher Registration Act 2012 s. 132 | 16 of 2012 | 3 Jul 2012 | To be proclaimed (see s. 2(b))
 The amendment in the Prostitution Amendment Act 2008 s. 34 is not included because the Schedule it sought to amend had been deleted by the Teacher Registration Act 2012 s. 167 before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Teacher Registration Act 2012 s. 132 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Teacher Registration Act 2012 s. 132 had not come into operation. It reads as follows:
 132.Western Australian College of Teaching Act 2004 repealed
 (1) The Western Australian College of Teaching Act 2004 is repealed.
 (2) If, when this section comes into operation, Part 9 Division 1 is not in operation, then Part 9 Division 1 is repealed.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-affected person60
-applicant42(4)
-application3(1)
-appointedSch. 1 cl. 1
-associate member of the College3(1)
-Board3(1)
-child55(6)
-College3(1)
-commencement daySch. 4 cl. 1
-committee3(1)
-criminal record check3(1)
-Director3(1)
-disciplinary action3(1)
+Defined termProvision(s)
+Board3
+CEO3
+College3
+commencement day3
 document15(5)
-electedSch. 1 cl. 1
-employer50(3), 59(3), 73(5)
-inaugural electionSch. 1 cl. 1
 information15(5)
-inquiry3(1)
-limited authority to teach3(1)
-memberSch. 1 cl. 1
-member of the Board3(1)
-member of the College3(1)
-misconductSch. 1 cl. 4(3)
-provisional registration3(1)
-register3(1)
-registered teacher3(1)
-registration3(1)
-rules3(1)
-serious misconduct the nature of which renders the person unfit to be a teacher63(2)
-seriously incompetent as a teacher63(2)
-sexual offence55(6)
-teacher49(2)
-teacher currently teachingSch. 4 cl. 2(3)
-teacher not currently teachingSch. 4 cl. 3(3)
-teaching3(1)
-unprofessional conduct3(1)
+residual affairs16
+Teacher Registration Board Account3
