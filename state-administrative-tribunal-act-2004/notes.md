@@ -29,27 +29,18 @@ Acts Amendment (Fair Trading) Act 2010 s. 183 | 58 of 2010 | 8 Dec 2010 | 1 Jan 
 Reprint 3: The State Administrative Tribunal Act 2004 as at 1 Apr 2011 (includes amendments listed above except those in the Health Practitioner Regulation National Law (WA) Act 2010 s. 157(3))
 Building Services (Registration) Act 2011 s. 158 | 19 of 2011 | 22 Jun 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
 Teacher Registration Act 2012 s. 170 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 19 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
-Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 19 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 had not come into operation. It reads as follows:
 82.State Administrative Tribunal Act 2004 amended
 (1) This section amends the State Administrative Tribunal Act 2004.
 (2) In Schedule 1 delete “Finance Brokers Control Act 1975”.
-On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 19 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts
-Division 19 — State Administrative Tribunal Act 2004 amended
-132.Act amended
-This Division amends the State Administrative Tribunal Act 2004.
-133.Section 7A inserted
-At the end of Part 1 insert:
-7A.Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies
-The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies to this Act.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 appeal167(9)
 appear3(1)
 applicant3(1)

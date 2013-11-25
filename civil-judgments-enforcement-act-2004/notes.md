@@ -11,11 +11,11 @@ Reprint 1: The Civil Judgments Enforcement Act 2004 as at 20 Feb 2009 (includes 
 Co-operatives Act 2009 s. 507 and 512 | 24 of 2009 | 22 Oct 2009 | s. 507: 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975); s. 512: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
 Police Amendment Act 2009 s. 13 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Reprint 2: The Civil Judgments Enforcement Act 2004 as at 24 May 2013 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 3 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
+aOn the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 8 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 3 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 The correct short title of this Commonwealth Act is the Child Support (Assessment) Act 1989.
 The Workmen’s Wages Act 1898 was repealed by the Statutes (Repeals and Minor Amendments) Act 2009.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 (as amended by the Acts Amendment (Justice) Act 2008 s. 24) contains transitional provisions about enforcing judgments given before that Part commenced. Part 22 and the Civil Judgments Enforcement Act 2004 commenced on 1 May 2005. Part 22 reads as follows:
@@ -82,7 +82,7 @@ Division 2 — General
 (3) To the extent that a provision of regulations made under subsection (1) has effect before the day on which it is published in the Gazette, it does not —
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State) the rights of that person existing before the day of publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of publication.
-On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 8 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 8 had not come into operation. It reads as follows:
 Division 8 — Civil Judgments Enforcement Act 2004 amended
 57.Act amended
 This Division amends the Civil Judgments Enforcement Act 2004.
@@ -97,15 +97,6 @@ In section 114(a):
 a road law as defined in the Road Traffic (Administration) Act 2008 section 4
 (b) delete “that Act; or” and insert:
 a road law; or
-On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 3 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts
-Division 3 — Civil Judgments Enforcement Act 2004 amended
-34.Act amended
-This Division amends the Civil Judgments Enforcement Act 2004.
-35.Section 6A inserted
-After section 5 insert:
-6A.Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies
-The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies to this Act.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

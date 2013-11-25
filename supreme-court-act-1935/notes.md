@@ -88,11 +88,11 @@ Standardisation of Formatting Act 2010 s. 4, 44(2) and 51 | 19 of 2010 | 28 Jun 
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 9: The Supreme Court Act 1935 as at 6 Jan 2012 (includes amendments listed above)
 Commercial Arbitration Act 2012 s. 45 it. 19 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pts. 3 Div. 20 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 68 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pts. 3 Div. 20 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
 The Acts Amendment (Court of Appeal) Act 2004 s. 5(2) and Pt. 5 read as follows:
 5.Sections 6 and 7 replaced by sections 6, 7 and 7A, and transitional provision
@@ -201,18 +201,9 @@ Section 11B of the Supreme Court Act 1935 is amended as follows:
 (2)Where a Master was, immediately before his appointment as such, an officer of the Public Service of the State he retains his existing and accruing rights and for the purpose of determining those rights, his service as Master shall be taken into account as if it were service in the Public Service of the State.
 ”;
 (b) by repealing subsection (3a).
-On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 20 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts
-Division 20 — Supreme Court Act 1935 amended
-134.Act amended
-This Division amends the Supreme Court Act 1935.
-135.Section 6A inserted
-At the end of Part I insert:
-6A.Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies
-The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies to this Act.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 action4(1)
 cause4(1)
 Chief Justice4(1)

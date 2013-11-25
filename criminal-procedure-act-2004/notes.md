@@ -14,14 +14,14 @@ Juries Legislation Amendment Act 2011 Pt. 2 Div. 1 and Pt. 3 Div. 2 | 13 of 2011
 Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Courts Legislation Amendment Act 2012 Pt. 2 | 43 of 2012 | 22 Nov 2012 | 30 Jan 2013 (see s. 2(b) and Gazette 29 Jan 2013 p. 323)
 Reprint 2: The Criminal Procedure Act 2004 as at 24 May 2013 (includes amendments listed above)
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 8 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 10 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 15 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 8 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 The Prisons Act 1981 s. 21 and 22 were deleted by the Prisons and Sentencing Legislation Amendment Act 2006 s. 13.
-On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 15 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 15 had not come into operation. It reads as follows:
 Division 15 — Criminal Procedure Act 2004 amended
 80.Act amended
 This Division amends the Criminal Procedure Act 2004.
@@ -33,50 +33,25 @@ Road Traffic (Administration) Act 2008 section 4;
 Road Traffic (Vehicles) Act 2012
 (2) In section 11(1) in the definition of vehicle licensing law delete “Road Traffic Act 1974” and insert:
 Road Traffic (Vehicles) Act 2012
-On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 8 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts
-Division 8 — Criminal Procedure Act 2004 amended
-46.Act amended
-This Division amends the Criminal Procedure Act 2004.
-47.Section 3 amended
-(1) In section 3(1) insert in alphabetical order:
-authenticate means authenticate in accordance with the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 section 10;
-(2) In section 3(1) in the definition of charge delete “a written” and insert:
-an
-48.Section 4A inserted
-At the end of Part 1 insert:
-4A.Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies
-The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies to this Act.
-49.Section 34 amended
-Delete section 34(2) and insert:
-(2) An amendment made under subsection (1) must be endorsed on the summons or notice.
-50.Section 45 amended
-In section 45(6) after “signs” insert:
-or authenticates
-51.Section 139 amended
-Delete section 139(2)(c) and insert:
-(c) if the accused is in custody, by issuing an order under the Prisons Act 1981 section 85.
-52.Section 172 amended
-Delete section 172(3)(b) and insert:
-(b) on any party’s behalf in any court —
-(i) by a legal practitioner; or
-(ii) with the court’s leave, by a person who is undertaking approved practical legal training requirements (as defined in the Legal Profession Act 2008 section 21(1)); or
-(iii) with the court’s leave, by a person who is neither a legal practitioner nor a person referred to in subparagraph (ii).
-53.Section 173 replaced
-Delete section 173 and insert:
-173.Unauthorised documents
-A person must not —
-(a) sign or authenticate a prosecution notice, indictment, summons, court hearing notice or witness summons, knowing that he or she is not authorised to do so; or
-(b) lodge a prosecution notice or an indictment knowing —
-(i) that it has been signed by a person who is not authorised to sign it; or
-(ii) that it has been authenticated by a person who is not authorised to authenticate it.
-Penalty: imprisonment for 12 months or a fine of $12 000.
-54.Section 186 amended
-In section 186(2):
-(a) in paragraph (c) delete “conducted.” and insert:
-conducted;
-(b) after paragraph (c) insert:
-(d) prescribe requirements relating to the lodging of documents with a court under this Act or another written law.
+serve35(1), 42(1), 61(1), 62(1), 95(1), 96(1)
+service informationSch. 2 cl. 1
+simple offence3(1)
+statutory penalty3(1)
+stay order121(1)
+stealingSch. 1 cl. 1
+summons3(1)
+superior court3(1)
+trial date3(1)
+vehicle3(1)
+vehicle licensing law11(1)
+vehicle offence11(1)
+video link3(1)
+witness159(1), (2) and (3), Sch. 3 cl. 5(1)
+witness documents36
+witness summons3(1)
+witness undertaking3(1), Sch. 4 cl. 1
+working day3(1)
+written plea18
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -90,6 +65,7 @@ approved officer4
 arrest warrant3(1)
 attendance date156
 audio link3(1)
+authenticate3(1)
 authorised investigator18
 authorised officer4, 80(1)
 authorised person20(1)
@@ -133,12 +109,12 @@ legal practitioner3(1)
 licensed11(1)
 listed simple offence60(1)
 lodge95(1), 96(1)
-lower court99(1)(a)
+lower court99(1)
 magistrate3(1)
-makerSch. 3 cl. 4(3)(a) and (4)(a)
-named personSch. 2 cl. 2(2), 3(2) and 4(2)
-new court date75(4)(a)
-new time75(4)(a)
+makerSch. 3 cl. 4(3), Sch. 3 cl. 4(4)
+named personSch. 2 cl. 2(2), Sch. 2 cl. 3(2), Sch. 2 cl. 4(2)
+new court date75(4)
+new time75(4)
 offence3(1), 180(1)
 officer180(1)
 party3(1)
@@ -176,7 +152,7 @@ vehicle3(1)
 vehicle licensing law11(1)
 vehicle offence11(1)
 video link3(1)
-witness159(1), (2) and (3), Sch. 3 cl. 5(1)
+witness159(1), 159(1), 159(2), 159(3), Sch. 3 cl. 5(1)
 witness documents36
 witness summons3(1)
 witness undertaking3(1), Sch. 4 cl. 1
