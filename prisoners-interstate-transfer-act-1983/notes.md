@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Prisoners (Interstate Transfer) Act 1983 and includes the amendments made by the other written laws referred to in the following table,. The table also contains information about any reprint.
+This is a compilation of the Prisoners (Interstate Transfer) Act 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Prisoners (Interstate Transfer) Act 1983 | 75 of 1983 | 22 Dec 1983 | 1 Jul 1984 (see s. 2 and Gazette 1 Jun 1984 p. 1753)
@@ -8,32 +8,16 @@ Acts Amendment (Corrective Services) Act 1987 Pt. IV | 47 of 1987 | 3 Oct 1987 |
 Acts Amendment (Public Service) Act 1987 s. 32 | 113 of 1987 | 31 Dec 1987 | 16 Mar 1988 (see s. 2 and Gazette 16 Mar 1988 p. 813)
 Prisoners (Interstate Transfer) Amendment Act 1994 | 5 of 1994 | 11 Apr 1994 | s. 1 and 2: 11 Apr 1994; Act other than s. 1 and 2: 4 Nov 1995 (see s. 2 and Gazette 3 Nov 1995 p. 5163)
 Reprint of the Prisoners (Interstate Transfer) Act 1983 as at 6 Dec 2002 (includes amendments listed above)
- | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
- | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
- | Criminal Law and Evidence Amendment Act 2008 s. 68 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
- | Prisoners (Interstate Transfer) Amendment Act 2009 | 1 of 2009 | 17 Apr 2009 | s. 1 and 2: 17 Apr 2009 (see s. 2(a)); Act other than s. 1 and 2: 18 Apr 2009 (see s. 2(b))
- | Reprint 2: The Prisoners (Interstate Transfer) Act 1983 as at 24 Jul 2009 (includes amendments listed above)
+Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+Criminal Law and Evidence Amendment Act 2008 s. 68 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
+Prisoners (Interstate Transfer) Amendment Act 2009 | 1 of 2009 | 17 Apr 2009 | s. 1 and 2: 17 Apr 2009 (see s. 2(a)); Act other than s. 1 and 2: 18 Apr 2009 (see s. 2(b))
+Reprint 2: The Prisoners (Interstate Transfer) Act 1983 as at 24 Jul 2009 (includes amendments listed above)
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 14 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 15 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 14 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 14 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts
-Division 14 — Prisoners (Interstate Transfer) Act 1983 amended
-98.Act amended
-This Division amends the Prisoners (Interstate Transfer) Act 1983.
-99.Section 12 amended
-In section 12(1) delete “in writing”.
-100.Section 14 amended
-In section 14(2) delete “order in writing,” and insert:
-order,
-101.Section 30 amended
-In section 30(2) delete “warrant under his hand —” and insert:
-warrant —
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 arrest warrant3(1)
 Attorney-General3(1)
 chief executive officer3(1)
@@ -52,11 +36,11 @@ prison officer3(1)
 prisoner3(1)
 relevant security3(1)
 sentence of imprisonment3(1)
-sentences of imprisonment21(3)(c)
+sentences of imprisonment21(3)
 State3(1)
 State prisoner3(1)
 State sentence of imprisonment3(1)
 superintendent3(1)
 Territory3(1)
 translated sentence3(1)
-translated sentence or sentences21(3)(d)
+translated sentence or sentences21(3)

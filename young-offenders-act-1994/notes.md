@@ -45,13 +45,14 @@ Cannabis Law Reform Act 2010 Pt. 5 | 45 of 2010 | 28 Oct 2010 | 1 Aug 2011 (see 
 Young Offenders Legislation Amendment (Research Information) Act 2011 Pt. 3 | 26 of 2011 | 11 Jul 2011 | 12 Jul 2011 (see s. 2(b))
 Reprint 5: The Young Offenders Act 1994 as at 10 Aug 2012 (includes amendments listed above)
 Criminal Organisations Control Act 2012 s. 182 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 21(other than s. 138 and 139) | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 22 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 54 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 21 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -109,15 +110,9 @@ as defined in that section
 203.Section 189 amended
 In section 189(8)(c) delete “issued under the Road Traffic Act 1974; or” and insert:
 as that term is defined in the Road Traffic (Administration) Act 2008 section 4; or
-On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 21 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 had not come into operation. They read as follows:
 Part 3 — Amendments to other Acts
 Division 21 — Young Offenders Act 1994 amended
-136.Act amended
-This Division amends the Young Offenders Act 1994.
-137.Section 6A inserted
-At the end of Part 1 insert:
-6A.Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies
-The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies to this Act.
 138.Section 43 amended
 (1) Delete section 43(5) and insert:
 (5) A copy of a notice to attend court issued to a young person is to be given to a person who is a responsible adult in one of the following ways —
@@ -135,33 +130,9 @@ The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 app
 139.Section 45 amended
 In section 45(1) delete “personally on” and insert:
 (either personally, or electronically in accordance with the regulations) on a person who is a responsible adult,
-140.Section 64 amended
-(1) In section 64 delete “If a young person” and insert:
-(1) If a young person
-(2) At the end of section 64 insert:
-(2) Without limiting subsection (1) —
-(a) the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 32(2) applies to and in relation to a fine to which subsection (1)(a) applies; and
-(b) section 59A(2) of that Act applies to and in relation to —
-(i) a forfeited bail undertaking to which subsection (1)(b) applies; and
-(ii) a forfeited recognisance to which subsection (1)(c) applies.
-141.Section 65 amended
-(1) After section 65(2) insert:
-(3A) The Fines, Penalties and Infringement Notices Enforcement Act 1994 section 10B applies to fines, forfeited bail undertakings and forfeited recognisances to which subsection (1) applies.
-(2) After section 65(3) insert:
-(4A) If, under subsection (3)(a), the court must register a fine or the amount of a forfeited undertaking or forfeited recognisance under the Fines, Penalties and Infringement Notices Enforcement Act 1994, then —
-(a) in the case of a fine, section 32(2) of that Act applies to and in relation to the fine; and
-(b) in the case of a forfeited undertaking or forfeited recognisance, section 59A(3) of that Act applies to and in relation to the amount forfeited.
-142.Section 120 amended
-(1) In section 120(2) delete “record in writing the” and insert:
-give written
-(2) After section 120(2) insert:
-(3) In subsection (2) —
-written reasons includes reasons that are —
-(a)given orally and subsequently transcribed; or
-(b)given orally but also recorded electronically in a format that enables them to be subsequently transcribed.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Aboriginal community3
 appointed person or body15A(3c)
 appropriate person23B(3)
@@ -230,6 +201,7 @@ supervised release order3
 supervision conditions3
 victim31(1), 133(3)
 welfare agency15A(2)
+written reasons120(3)
 work3
 young person3
 youth community based order3

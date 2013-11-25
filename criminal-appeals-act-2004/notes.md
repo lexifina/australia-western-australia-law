@@ -9,27 +9,18 @@ Acts Amendment (Justice) Act 2008 Pt. 6 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 
 Reprint 1: The Criminal Appeals Act 2004 as at 23 Jan 2009 (includes amendments listed above)
 Criminal Appeals Amendment (Double Jeopardy) Act 2012 Pt. 2 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
 Reprint 2: The Criminal Appeals Act 2004 as at 12 Apr 2013 (includes amendments listed above)
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 5 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 13 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div.5 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
-On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 13 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 13 had not come into operation. It reads as follows:
 Division 13 — Criminal Appeals Act 2004 amended
 74.Act amended
 This Division amends the Criminal Appeals Act 2004.
 75.Section 11 amended
 In section 11(3) delete “the Road Traffic Act 1974,” and insert:
 a road law as defined in the Road Traffic (Administration) Act 2008 section 4,
-On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 5 had not come into operation. It reads as follows:
-Part 3 — Amendments to other Acts
-Division 5 — Criminal Appeals Act 2004 amended
-40.Act amended
-This Division amends the Criminal Appeals Act 2004.
-41.Section 4A inserted
-After section 3 insert:
-4A.Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies
-The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Part 2 applies to this Act.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -39,28 +30,29 @@ appeal4(2)
 appeal court36
 appellant4(2)
 authorised officer46A(1)
-charge A46A(1), 46B(1)(a)
+charge A46A(1), 46B(1)
 concluded4(2)
 Court of Appeal Registrar4(2)
 court of summary jurisdiction4(2)
 decision6
-factual finding32(2)(a)
+factual finding32(2)
 investigate46C(1)
 law enforcement officer46C(1)
 leave application46A(1)
 lower court36
 new charge46A(1), 46E(1)
-offence A30(5), 32(2), 46A(1), 46B(1)(a)
-offence B30(5)(c)(i) and (e), 32(6)(c)(i) and (7)(c)(i)
+offence A30(5), 32(2), 46A(1)
+offence B30(5), 30(5), 32(6), 32(7)
+offence A46B(1)
 offender22
 relevant offence46C(1)
 rules of court4(2)
-section 27 finding32(2)(b)
-sentence A41(2), 49(a)
-sentence B49(b)
+section 27 finding32(2)
+sentence A41(2), 49
+sentence B49
 serious offence46A(1)
 superior court4(2), 47(1)
 Supreme Court4(2), 6
-trial A46A(1), 46B(1)(b)
+trial A46A(1), 46B(1)
 trial court22
 video link43(1)
