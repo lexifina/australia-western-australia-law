@@ -60,6 +60,7 @@ Betting Control Amendment Regulations (No. 2) 2012 | 16 Nov 2012 p. 5646-7 | r. 
 Betting Control Amendment Regulations 2012 | 4 Jan 2013 p. 11-15 | r. 1 and 2: 4 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jan 2013 (see r. 2(b))
 Betting Control Amendment Regulations 2013 | 14 Jun 2013 p. 2240-3 | r. 1 and 2: 14 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Jun 2013 (see r. 2(b))
 Reprint 7: The Betting Control Regulations 1978 as at 23 Aug 2013 (includes amendments listed above)
+Betting Control Amendment Regulations (No. 2) 2013 | 29 Nov 2013 p. 5467 | r. 1 and 2: 29 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2013 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
