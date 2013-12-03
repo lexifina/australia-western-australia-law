@@ -11,10 +11,11 @@ Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Reg
 Reprint 1: The Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007 as at 1 Oct 2010 (includes amendments listed above)
 Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2012 | 3 Aug 2012 p. 3757-60 | r. 1 and 2: 3 Aug 2012 (see r. 2(a)); Regulations other than r. 1, 2, 8 & 10: 4 Aug 2012 (see r. 2(c)); r. 8 and 10: 3 Dec 2012 (see r. 2(b))
 DGS (Road and Rail Transport of Non-explosives) Amendment Regulations (No. 2) 2012 | 19 Feb 2013 p. 988-9 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
+Dangerous Goods Safety (Road and Rail Transport of Non explosives) Amendment Regulations 2013 | 2 Dec 2013 p. 5497-8 | r. 1 and 2: 2 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2013 (see r. 2(b))
 The Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations (No. 2) 2010 published in Gazette 25 Jun 2010 p. 2873-4 were repealed before the amendment purported to come into operation by the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Repeal Regulations 2010 (see Gazette 30 Jun 2010 p. 3157).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Act4
 ADG Code4
 ADR approved4
@@ -146,4 +147,3 @@ UN Division4
 UN Division29
 unit of rolling stock4
 vehicle4, 229
-By Authority: JOHN A. STRIJK, Government Printer
