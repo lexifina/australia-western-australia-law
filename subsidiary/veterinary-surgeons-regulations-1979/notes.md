@@ -43,12 +43,13 @@ Reprint 4: The Veterinary Surgeons Regulations 1979 as at 3 Aug 2012 (includes a
 Veterinary Surgeons Amendment Regulations (No. 2) 2012 | 21 Sep 2012 p. 4421 | r. 1 and 2: 21 Sep 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Sep 2012 (see r. 2(b))
 Veterinary Surgeons Amendment Regulations (No. 3) 2012 | 7 Dec 2012 p. 5963-4 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2012 (see r. 2(b))
 Veterinary Surgeons Amendment Regulations 2013 | 5 Feb 2013 p. 828-9 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b)(i) and Gazette 5 Feb 2013 p. 823)
+Veterinary Surgeons Amendment Regulations (No. 2) 2013 | 3 Dec 2013 p. 5625-6 | r. 1 and 2: 3 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2013 (see r. 2(b))
 Footnote no longer applicable.
 The headings before r. 1-4, 7-9, 13, 15, 18, 19-23, 28, 34, 44, 55, 60, 61, 63, 64, 67, 69, 74 and 80 were deleted by the Veterinary Surgeons Amendment Regulations (No. 3) 2003, see Gazette 16 Dec 2003 p. 5089-90.
 Now known as the Veterinary Surgeons Regulations 1979; citation changed (see note under r. 1).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 approved form2(1)
 authorised person47(1)
 commencement day16A(3)
