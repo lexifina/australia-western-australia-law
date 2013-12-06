@@ -1,6 +1,6 @@
 ## Second Schedule — 1976 Variation Agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 94 of 1976 s. 5; amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT made the 5th day of October, 1976 BETWEEN THE HONOURABLE SIR CHARLES WALTER MICHAEL COURT, O.B.E., M.L.A., Premier of the State of Western Australia acting for and on behalf of the said State and Instrumentalities thereof from time to time (hereinafter called “the State”) of the one part and MOUNT BRUCE MINING PTY. LIMITED a company incorporated under the Companies Act of the said State and having its registered office at 191 St. George’s Terrace, Perth (hereinafter called “the Company” which expression will include the successors and assigns of the Company) of the other part —
 WHEREAS it is desired to amend the provisions of the principal Agreement (as hereinafter defined);
 NOW THIS AGREEMENT WITNESSETH:
@@ -38,4 +38,4 @@ ANDREW MENSAROS, MINISTER FOR INDUSTRIAL DEVELOPMENT
 THE COMMON SEAL of MOUNT BRUCE MINING PTY. LIMITED was hereunto affixed in the presence of |  | [C.S.]
 Director.DONALD S. STEWART,
 Secretary.C. J. S. RENWICK,
-[Second Schedule inserted by No. 94 of 1976 s. 5.]
+[Second Schedule inserted: No. 94 of 1976 s. 5.]
