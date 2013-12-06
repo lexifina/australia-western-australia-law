@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Health Act 1911 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 December 2013 of the Health Act 1911 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Health Act 1911 | 34 of 1911 (1 Geo. V No. 45) | 16 Feb 1911 | 1 Jun 1911 (see s. 1 and Gazette 3 Mar 1911 p. 961)
@@ -16,15 +16,15 @@ Reprint of the Health Act 1911 in Appendix to Session Volume 1931 (includes amen
 Health Act Amendment Act 1932 | 30 of 1932 (23 Geo. V No. 30) | 30 Dec 1932 | 30 Dec 1932
 Health Act Amendment Act 1933 | 5 of 1933 (24 Geo. V No. 5) | 2 Oct 1933 | 2 Oct 1933
 Health Act Amendment Act 1933 (No. 2) | 38 of 1933 (24 Geo. V No. 38) (as amended by No. 16 of 1935) | 4 Jan 1934 | 4 Jan 1934
-Health Act Amendment Act 1937 | 32 of 1937 (1 & 2 Geo. VI No. 32) | 18 Jan 1938 | 18 Jan 1938
+Health Act Amendment Act 1937 | 32 of 1937 (1 and 2 Geo. VI No. 32) | 18 Jan 1938 | 18 Jan 1938
 Reprint of the Health Act 1911 in Volume 1 of Reprinted Acts (includes amendments listed above)
-Health Act Amendment Act 1942 | 34 of 1942 (6 & 7 Geo. VI No. 34) | 23 Dec 1942 | 23 Dec 1942
+Health Act Amendment Act 1942 | 34 of 1942 (6 and 7 Geo. VI No. 34) | 23 Dec 1942 | 23 Dec 1942
 Nurses Registration Act Amendment Act 1944 s. 12 | 14 of 1944 (8 Geo. VI No. 14) | 8 Dec 1944 | 8 Dec 1944
-Health Act Amendment Act 1944 | 21 of 1944 (8 & 9 Geo. VI No. 21) | 23 Dec 1944 | 23 Dec 1944
+Health Act Amendment Act 1944 | 21 of 1944 (8 and 9 Geo. VI No. 21) | 23 Dec 1944 | 23 Dec 1944
 Reprint of the Health Act 1911 not in a Volume (includes amendments listed above)
 Health Act Amendment Act 1948 | 22 of 1948 (12 Geo. VI No. 22) | 18 Nov 1948 | 18 Nov 1948
-Health Act Amendment Act (No. 2) 1948 | 70 of 1948 (12 & 13 Geo. VI No. 70) | 21 Jan 1949 | 21 Jan 1949
-Health Act Amendment Act (No. 3) 1948 | 71 of 1948 (12 & 13 Geo. VI No. 71) | 21 Jan 1949 | 21 Jan 1949
+Health Act Amendment Act (No. 2) 1948 | 70 of 1948 (12 and 13 Geo. VI No. 70) | 21 Jan 1949 | 21 Jan 1949
+Health Act Amendment Act (No. 3) 1948 | 71 of 1948 (12 and 13 Geo. VI No. 71) | 21 Jan 1949 | 21 Jan 1949
 Reprint of the Health Act 1911 approved 17 Mar 1949 in Volume 3 of Reprinted Acts (includes amendments listed above)
 Health Act Amendment Act 1950 | 25 of 1950 (14 Geo. VI No. 25) | 5 Dec 1950 | 5 Dec 1950
 Health Act Amendment Act 1952 | 11 of 1952 (1 Eliz. II No. 11) | 4 Nov 1952 | 4 Nov 1952
@@ -72,7 +72,8 @@ Health Amendment Act 1987 | 80 of 1987 (as amended by No. 8 of 2009 s. 72) | 28 
 Guardianship and Administration Act 1990 s. 123 | 24 of 1990 | 7 Sep 1990 | 20 Oct 1992 (see s. 2 and Gazette 2 Oct 1992 p. 4811)
 Reprint of the Health Act 1911 as at 18 Dec 1990 (includes amendments listed above except those in the Guardianship and Administration Act 1990)
 Tobacco Control Act 1990 s. 38(1) | 104 of 1990 | 2 Jan 1991 | 8 Feb 1991 (see s. 2(1) and Gazette 8 Feb 1991 p. 575)
-Health Amendment Act 1991 | 59 of 1991 | 23 Dec 1991 | s. 1 and 2: 23 Dec 1991; s. 3-5, 20-24, 28(a): 24 Jan 1992 (see s. 2 and Gazette 24 Jan 1992 p. 349); s. 14, 15, 26, 27 and 28(b), (c) and (d): 1 Apr 1992 (see s. 2 and Gazette 1 Apr 1992 p. 1427); s. 25: 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2644); Pt. 3: 4 Sep 1992 (see s. 2 and Gazette 4 Sep 1992 p. 4453); Pt. 5: 23 Dec 1992 (see s. 2 and Gazette 23 Dec 1992 p. 6209)
+Health Amendment Act 1991 | 59 of 1991 | 23 Dec 1991 | s. 1 and 2: 23 Dec 1991; s. 3-5, 20-24, 28(a): 24 Jan 1992 (see s. 2 and Gazette 24 Jan 1992 p. 349); s. 14, 15, 26, 27 and 28(b), (c) and (d): 1 Apr 1992 (see s. 2 and Gazette 1 Apr 1992 p. 1427);
+ |  |  | s. 25: 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2644); Pt. 3: 4 Sep 1992 (see s. 2 and Gazette 4 Sep 1992 p. 4453); Pt. 5: 23 Dec 1992 (see s. 2 and Gazette 23 Dec 1992 p. 6209)
 Nurses Act 1992 s. 84 | 27 of 1992 | 23 Jun 1992 | 29 Oct 1993 (see s. 2 and Gazette 29 Oct 1993 p. 5881)
 Financial Administration Legislation Amendment Act 1993 s. 11 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
 Untitled proclamation published in Gazette 26 Nov 1993 p. 6321 | 26 Nov 1993
@@ -134,17 +135,17 @@ Building Act 2011 s. 161 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) an
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 6 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 Commercial Arbitration Act 2012 s. 45 it. 9 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Water Services Legislation Amendment and Repeal Act 2012 s. 216 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+Reprint 16: The Health Act 1911 as at 6 Dec 2013 (includes amendments listed above)
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
-Footnote no longer applicale.
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
 Section 53B was deleted by the Health Act Amendment Act 1933 (No. 2) s. 6.
 Other proclamations relating to offensive trades were published in the Gazette on —
 20 September 1918
 9 April 1948
-30 May 1952
 10 February 1950
-10 November 1961 (cancelled in Gazette 29 November 1985)
+30 May 1952
 11 January 1957
+10 November 1961 (cancelled in Gazette 29 November 1985)
 10 March 1967
 16 February 1968
 28 February 1969
@@ -155,7 +156,8 @@ Other proclamations relating to offensive trades were published in the Gazette o
 26 November 1993
 16 June 1995
 28 June 1996
-Renumbering of sections of the Act and certain Division headings was effected in earlier reprints under the Health Act Amendment Act 1933 (No. 2) s. 42.
+The Evidence Act 1906 s. 106 was deleted by the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 51.
+Renumbering of sections of the Act and certain Part and Division headings was effected in earlier reprints under the Health Act Amendment Act 1919 s.4 and the Health Act Amendment Act 1933 (No. 2) s. 42.
 The amendment in the Caravan Parks and Camping Grounds Act 1995 s. 33 is not included as the section it sought to amend had been deleted by the Local Government (Consequential Amendments) Act 1996 s. 4 before the amendment purported to come into operation.
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
 The Third and Fourth Schedules were inserted by the Metric Conversion Act Amendment Act (No. 2) 1973.
@@ -214,7 +216,7 @@ Agvet Code of Western Australia3(1)
 AIDS3(1)
 analyst3(1)
 Analytical Committee3(1)
-apparatus for the treatment of sewage3(1), 100(4)
+apparatus for the treatment of sewage3(1), 100(4)(a)
 appliance226(4)
 appointed member202(10)
 approved laboratory290
@@ -224,10 +226,11 @@ cellar3(1)
 CEO3(1)
 certificate of approval173
 cesspool3(1)
+Chairman202(3), 246B(3)
 child care centre337(2A)
 Committee340A, 340AA, 340BA
 communicable tuberculosis290
-competent officer227(1)
+competent officer227(1), 228(1)
 co-opted member202(10), 246B(9)
 covering236(3), 241(3)
 daily penalty3(1)
@@ -241,6 +244,7 @@ disposal3(1)
 district3(1)
 drain3(1)
 drug3(1)
+Drug Advisory Committee3(1)
 environmental health officer3(1)
 Executive Director, Personal Health3(1)
 Executive Director, Public Health3(1)
@@ -271,13 +275,15 @@ occupier3(1), 145(3)
 offensive3(1)
 offensive matter3(1)
 offensive trade186(1)
-owner3(1), 100(4)
+owner3(1), 100(4)(a)
 package228(9)
 patent or proprietary medicine237(3)
+person in default116(e)
 pesticide3(1)
+Pesticides Advisory Committee246
 piggery3(1)
 pig-swill3(1)
-premises3(1)
+premises 3(1)
 prescribed3(1)
 prescribed condition of health289B
 prisoner309(1)
@@ -288,12 +294,14 @@ public health official3(1)
 public house3(1)
 public place3(1)
 public vehicle3(1)
+purchaser227(3)
 rack-rent3(1)
 reasonable evidence292
 regular member202(10), 246B(9)
 regulation3(1)
 relative3(1)
 relevant certifying officer173
+researcher340AL(1a)
 responsible pathologist3(1)
 sanitary convenience3(1)
 school3(1)
@@ -304,13 +312,6 @@ sewage3(1)
 sewer3(1)
 statement313(3)
 street3(1)
-the Chairman202(3), 246B(3)
-the competent officer228(1)
-the Drug Advisory Committee3(1)
-the person in default116(e)
-the Pesticides Advisory Committee246
-the purchaser227(3)
-the researcher340AL(1a)
 therapeutic substance3(1)
 therapeutic use3(1)
 this Act3(1)
