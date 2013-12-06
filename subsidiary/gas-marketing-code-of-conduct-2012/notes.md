@@ -3,6 +3,16 @@ This is a compilation of the Gas Marketing Code of Conduct 2012. The following t
 Compilation table
 Citation | Gazettal | Commencement
 Gas Marketing Code of Conduct 2012 | 26 Jun 2012 p. 2877-84 | 1 Jul 2012 (see Gazette 26 Jun 2012 p. 2877)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Gas Marketing Code of Conduct 2014 | 6 Dec 2013 p. 5725-32 | 1 Jan 2014 (see Gazette 6 Dec 2013 p. 5725)
+On theday of this compilation theGas Marketing Code of Conduct 2014 reads as follows:
+The Economic Regulation Authority—
+(a) repeals the “Gas Marketing Code of Conduct 2012” gazetted Tuesday, 26 June 2012, No. 108, which repeal is to take effect on 1 January 2014;
+(b) approves the “Gas Marketing Code of Conduct 2014” as set out below; and
+(c) prescribes 1 January 2014 as the date on which the “Gas Marketing Code of Conduct 2014” comes into operation,
+pursuant to section 11ZPM of the Energy Coordination Act 1994.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
