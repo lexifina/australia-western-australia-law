@@ -1,5 +1,6 @@
 ## Schedule 2
 [Section 186]
+[Heading amended by No. 26 of 1985 s. 10.]
 ## Offensive trades
 Any of the trades, businesses, or occupations usually carried on, in, or connected with the undermentioned works or establishments, that is to say —
 Abattoirs or slaughter houses;
