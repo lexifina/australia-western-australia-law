@@ -1,6 +1,6 @@
 ## Third Schedule — 1987 Variation Agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 26 of 1987 s. 7; amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 28th day of May 1987 BETWEEN THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and MOUNT BRUCE MINING PTY. LIMITED a company incorporated in Western Australia and having its registered office at 191 St. George’s Terrace, Perth (hereinafter called “the Company” which expression shall include the successors and assigns of the Company) of the other part.
 WHEREAS:
 (a)the State and the Company are the parties to the agreement dated the 10th day of March, 1972 which agreement was ratified by and is scheduled to the Iron Ore (Mount Bruce) Agreement Act 1972, as varied by the agreement dated the 5th day of October, 1976 ratified by the Iron Ore (Mount Bruce) Agreement Act Amendment Act 1976 (which agreement as so varied is referred to in this Agreement as “the Principal Agreement”);
@@ -72,11 +72,11 @@ and PROVIDED FURTHER THAT”;
 (9)Clause 54 —
 by deleting “in writing” and substituting the following —
 “or writing”
-THE SCHEDULE.
+THE SCHEDULE
 The Agreement of even date with this Agreement between THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier of the State of Western Australia, acting for an on behalf of the said State and its instrumentalities and HAMERSLEY IRON PTY. LIMITED.
 IN WITNESS WHEREOF this Agreement has been executed by or on behalf of the parties hereto on the date first hereinbefore mentioned.
 SIGNED by the said THE HONOURABLE BRIAN THOMAS BURKE, M.L.A. in the presence of: |  | BRIAN BURKE
 D. PARKER MINISTER FOR MINERALS AND ENERGY
 THE COMMON SEAL of MOUNT BRUCE MINING PTY. LIMITED was hereunto affixed by authority of the Directors in the presence of: |  | [C.S.]
 Director T. BARLOW Secretary G. B. BABON
-[Third Schedule inserted by No. 26 of 1987 s. 7.]
+[Third Schedule inserted: No. 26 of 1987 s. 7.]
