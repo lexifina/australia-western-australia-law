@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Western Australian Marine (Infringements) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 December 2013 of the Western Australian Marine (Infringements) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Western Australian Marine (Infringements) Regulations 1985 | 4 Oct 1985 p. 3866-70 | 4 Jan 1986 (see r. 2)
@@ -26,15 +26,10 @@ Western Australian Marine (Infringements) Amendment Regulations 2009 | 17 Nov 20
 Western Australian Marine (Infringements) Amendment Regulations 2012 | 9 Oct 2012 p. 4755-61 | r. 1 and 2: 9 Oct 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2012 (see r. 2(b))
 Western Australian Marine (Infringements) Amendment Regulations (No. 2) 2012 | 4 Jan 2013 p. 9 | r. 1 and 2: 4 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jan 2013 (see r. 2(b))
 Western Australian Marine (Infringements) Amendment Regulations 2013 | 20 Aug 2013 p. 3849 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
-Under the Marine and Harbours Act 1981 s. 20, a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act. As at the date of this compilation, the department principally assisting the Minister in the administration of that Act (and of the Western Australian Marine Act 1982) is the Department of Planning and Infrastructure.
-Under the Alteration of Statutory Designations Order (No. 3) 2001 clause 2(1), subject to clause 2(2), a reference in a law to the Crown Law Department is to be read and construed as a reference to the Department of Justice.
-Under the Public Sector Management Act 1994 s. 35(2), notice was given (see Gazette 10 Jan 2006 p. 39) that the designation of the department known as “Department of Justice” was altered to “Department of the Attorney General” effective from 1 Feb 2006.
-Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
-If immediately before commencement of the Courts Legislation Amendment and Repeal Act 2004 Pt. 2 Div. 2 a person held office under the Local Courts Act 1904 s. 13 as a clerk then on commencement the person is taken under the Courts Legislation Amendment and Repeal Act 2004 s. 6(1) to have been appointed as a registrar of the Magistrates Court.
-Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
-Defined Terms
+Reprint 3: The Western Australian Marine (Infringements) Regulations 1985 as at 6 Dec 2013 (includes amendments listed above)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Act3A
 authorised person5(2)
 Department3A
