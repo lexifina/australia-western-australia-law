@@ -2,15 +2,15 @@
 [r. 9]
 [Heading inserted in Gazette 13 May 2005 p. 2080.]
 ## Division 1 — Enforcement fees for Part 3 of the Act
-1.Fee for issuing a final demand (To be imposed when the final demand is issued.) | $13.50
-2.Fee for preparing an enforcement certificate in relation to an infringement notice, for each infringement notice (To be imposed when the infringement notice is registered.) | $11.50
-3.Fee for registering an infringement notice with the Registry (To be imposed when the notice is registered.) | $43.00
-4.Fee for issuing a notice of intention to enforce (To be imposed when a licence suspension order is made or when an enforcement warrant is issued, but not twice.) | $28.50
-5.Fee for issuing an enforcement warrant (To be imposed when the warrant is issued.) | $134.00
+1. | Fee for issuing a final demand ........................................... (To be imposed when the final demand is issued.) | $13.50
+2. | Fee for preparing an enforcement certificate in relation to an infringement notice, for each infringement notice ........ (To be imposed when the infringement notice is registered.) | $11.50
+3. | Fee for registering an infringement notice with the Registry .............................................................................. (To be imposed when the notice is registered.) | $43.00
+4. | Fee for issuing a notice of intention to enforce ................. (To be imposed when a licence suspension order is made or when an enforcement warrant is issued, but not twice.) | $28.50
+5. | Fee for issuing an enforcement warrant ............................. (To be imposed when the warrant is issued.) | $134.00
 [Division 1 inserted in Gazette 13 May 2005 p. 2080; amended in Gazette 23 Jun 2006 p. 2191; 26 Jun 2007 p. 3032; 20 Aug 2013 p. 3885.]
 ## Division 2 — Enforcement fees for Part 4 of the Act
-1.Fee for issuing a notice of intention to enforce (To be imposed when a licence suspension order is made or when an enforcement warrant is issued, but not twice.) | $28.50
-2.Fee for issuing an enforcement warrant (To be imposed when the warrant is issued.) | $134.00
+1. | Fee for issuing a notice of intention to enforce ................. (To be imposed when a licence suspension order is made or when an enforcement warrant is issued, but not twice.) | $28.50
+2. | Fee for issuing an enforcement warrant ............................. (To be imposed when the warrant is issued.) | $134.00
 [Division 2 inserted in Gazette 13 May 2005 p. 2080; amended in Gazette 23 Jun 2006 p. 2191; 26 Jun 2007 p. 3032; 20 Aug 2013 p. 3885.]
 ## Division 3 — Enforcement fees for Part 7 of the Act
 1.Fee for attending the Magistrates Court in connection with proceedings to examine a person under section 69, for each hour or part of an hour | $59.50
