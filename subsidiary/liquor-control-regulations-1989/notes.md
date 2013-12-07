@@ -109,6 +109,7 @@ Liquor Control Amendment Regulations (No. 4) 2013 | 31 May 2013 p. 2118-19 | r. 
 Liquor Control Amendment Regulations (No. 6) 2013 | 28 Jun 2013 p. 2799 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jun 2013 (see r. 2(b) and Gazette 28 Jun 2013 p. 2800)
 Liquor Control Amendment Regulations 2013 | 20 Aug 2013 p. 3855 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Liquor Control Amendment Regulations (No. 5) 2013 | 20 Sep 2013 p. 4362 | r. 1 and 2: 20 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2013 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 8) 2013 | 6 Dec 2013 p. 5738-9 | r. 1 and 2: 6 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Dec 2013 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
