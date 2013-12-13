@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Queen Elizabeth II Medical Centre Act 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 13 December 2013 of the Queen Elizabeth II Medical Centre Act 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Perth Medical Centre Act 1966 | 54 of 1966 | 5 Dec 1966 | 13 Sep 1968 (see s. 2 and Gazette 13 Sep 1968 p. 2747)
@@ -18,16 +18,16 @@ Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 O
 Trustees Amendment Act 1997 s. 18 | 1 of 1997 | 6 May 1997 | 16 Jun 1997 (see s. 2 and Gazette 10 Jun 1997 p. 2661)
 Reprint of the Queen Elizabeth II Medical Centre Act 1966 as at 3 Aug 2001 (includes amendments listed above)
 Health Legislation Amendment Act 2004 Pt. 5 | 61 of 2004 | 24 Nov 2004 | 24 Nov 2004 (see s. 2)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
+Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 141 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Medical Practitioners Act 2008 Sch. 3 cl. 50 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 4: The Queen Elizabeth II Medical Centre Act 1966 as at 6 Feb 2009 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 105 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 27 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 43 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Queen Elizabeth II Medical Centre Amendment Act 2013 | 6 of 2013 | 19 Aug 2013 | s. 1 and 2: 19 Aug 2013 (see s. 2(a)); Act other than s. 1 and 2: 20 Aug 2013 (see s. 2(b))
+Reprint 5: The Queen Elizabeth II Medical Centre Act 1966 as at 13 Dec 2013 (includes amendments listed above)
 The Queen Elizabeth II Medical Centre Amendment Act 1985 s. 9 reads as follows:
-“
 9.Validation
 (1) Any moneys paid to or received by the board of the Sir Charles Gairdner Hospital before the coming into operation of this Act, which moneys arose from the development, control or management of any part of the reserve by that board and, if —
 (a) this Act had before those moneys so arose come into operation; and
@@ -53,11 +53,9 @@ acts of development, control or management includes —
 (d)removal of litter and refuse;
 board has the meaning given by section 2 of the Hospitals Act 1927;
 the reserve and the Trust have the respective meanings given by section 3 of the principal Act.
-”.
 Repealed by the Cancer Council of Western Australia Act Repeal Act 1982.
 Now known as the Queen Elizabeth II Medical Centre Act 1966; short title changed (see note under s. 1).
 The Health Legislation Amendment Act 2004 s. 18 reads as follows:
-“
 18.Validation
 (1) The formation of the MHSB by the Hospitals and Health Services (Re-organisation of Hospital Boards) Notice 1997 is declared to be, and always to have been, as valid as it would have been if section 16(7a) of the principal Act (as inserted by section 17 of this Act) had been in force at the time when that Notice came into operation.
 (2) Anything done or omitted, or purported to have been done or omitted, by the MHSB or the Minister in respect of a teaching hospital before the commencement of this section is declared to be, and always to have been, as valid as it would have been if it had been done or omitted by a managing body or an appointments committee constituted in accordance with section 16 of the principal Act.
@@ -66,20 +64,19 @@ MHSB means the Metropolitan Health Service Board formed by the Hospitals and Hea
 Minister means the Minister in whom the management of a teaching hospital is vested under section 7 of the Hospitals and Health Services Act 1927;
 principal Act means the Queen Elizabeth II Medical Centre Act 1966;
 teaching hospital means a hospital to which section 16(1) of the principal Act applies.
-”.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
+delegate13(2a)
+former delegate13(2l)
 managing body16(8)
 medical centre3(1)
 medical education3(1)
 member3(1)
+reserve3(1)
 Schedule3(1)
+Senate3(1)
+site13(2a)
 specified20(1b)
 teaching hospital16(8)
-the delegate13(2a)
-the former delegate13(2l)
-the reserve3(1)
-the Senate3(1)
-the site13(2a)
-the Trust3(1)
+Trust3(1)
