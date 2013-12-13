@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity Act 1945 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 13 December 2013 of the Electricity Act 1945 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electricity Act 1945 | 19 of 1945 (9 and 10 Geo. VI No. 19) | 9 Jan 1946 | 29 Mar 1946 (see s. 1 and Gazette 29 Mar 1946 p. 310)
@@ -28,22 +28,21 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
 Reprint 6: The Electricity Act 1945 as at 16 Dec 2005 (includes amendments listed above except those in the Electricity Corporations Act 2005)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 6 Div. 1 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 52 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Gas and Electricity Safety Legislation Amendment Act 2007 Pt. 2 | 5 of 2007 | 18 Apr 2007 | 1 Dec 2007 (see s. 2 and Gazette 30 Nov 2007 p. 5927)
 Reprint 7: The Electricity Act 1945 as at 2 May 2008 (includes amendments listed above)
- | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 49 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 49 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 43(3) and 57 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
-Commercial Arbitration Act 2012 s. 45 it. 6 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
+Commercial Arbitration Act 2012 s. 45 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
+Reprint 8: The Electricity Act 1945 as at 13 Dec 2013 (includes amendments listed above)
 Repealed by the Interpretation Act 1984.
-Marginal notes in the Electricity Act 1945 referring to the legislation from which provisions were derived have been omitted from this compilation.
+Marginal notes in the Electricity Act 1945 referring to the legislation from which provisions were derived have been omitted from this reprint.
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
 The Energy Corporations (Transitional and Consequential Provisions) Act 1994 s. 84 reads as follows:
-“
 84.Transitional provision
 Every instrument under a provision of the principal Act in force immediately before the commencement of this Part is to continue to have effect after that commencement according to its terms and conditions, as if it had been made under that provision as amended by this Part.
-”.
-The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 16 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 16 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -64,7 +63,7 @@ generating works5(1)
 inspector5(1)
 installation5(1)
 land5(1)
-Minister5(1), (2) and (3)
+Minister5(1)
 network operator5(1)
 person concerned12(2)
 premises5(1)
