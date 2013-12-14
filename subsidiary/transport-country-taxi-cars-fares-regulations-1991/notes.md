@@ -39,13 +39,15 @@ Country Taxi-cars (Fares and Charges) Amendment Regulations 2012 | 22 Jun 2012 p
 Country Taxi-cars (Fares and Charges) Amendment Regulations (No. 2) 2012 | 29 Jun 2012 p. 2962-3 | r. 1 and 2: 29 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Reprint 3: The Country Taxi-cars (Fares and Charges) Regulations 1991 as at 26 Oct 2012 (includes amendments listed above)
 Country Taxi-cars (Fares and Charges) Amendment Regulations (No. 3) 2012 | 30 Nov 2012 p. 5808-12 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
+Country Taxi-cars (Fares and Charges) Amendment Regulations 2013 | 13 Dec 2013 p. 6178-89 | r. 1 and 2: 13 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Dec 2013 (see r. 2(b))
 Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
 If immediately before commencement of the Courts Legislation Amendment and Repeal Act 2004 Pt. 2 Div. 2, a person held office under the Local Courts Act 1904 s. 13 as a clerk, then on commencement the person is taken under the Courts Legislation Amendment and Repeal Act 2004 s. 6(1) to have been appointed as a registrar of the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-business entity2A
-call out2A
+Defined termProvision(s)
+business entity2A(1)
+call out2A(1)
 designated radius3(4)
+region2A(1)
