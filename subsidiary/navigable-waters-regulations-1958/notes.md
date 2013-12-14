@@ -135,6 +135,7 @@ Navigable Waters Amendment Regulations (No. 2) 2011 | 25 Nov 2011 p. 4873-4 | r.
 Navigable Waters Amendment Regulations 2012 | 15 Jun 2012 p. 2525-6 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Reprint 15: The Navigable Waters Regulations 1958 as at 20 Jul 2012 (includes amendments listed above)
 Navigable Waters Amendment Regulations (No. 2) 2013 | 14 Jun 2013 p. 2237-8 | r. 1 and 2: 14 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
+Navigable Waters Amendment Regulations (No. 4) 2013 | 13 Dec 2013 p. 6177 | r. 1 and 2: 13 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Dec 2013 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
