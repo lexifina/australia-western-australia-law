@@ -13,10 +13,17 @@ Minerals and Energy Research Amendment Act 2008 | 23 of 2008 | 13 Jun 2008 | 13 
 Reprint 2: The Minerals and Energy Research Act 1987 as at 3 Jul 2009 (includes amendments listed above)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Minerals Research Institute of Western Australia Act 2013 s. 75 | 23 of 2013 | 18 Dec 2013 | 1 Feb 2014 (see s. 2(b) and Gazette 14 Jan 2014 p. 43)
 The provision in this Act repealing the Mining and Petroleum Research Act 1981 has been repealed by the Energy Legislation Amendment Act 2003 s. 88.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to the Permanent Head is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 The Energy Legislation Amendment Act 2003 s. 80(2) reads as follows:
 (2) The membership of the Minerals Research Advisory Committee, as existing immediately before the commencement of subsection (1), continues on the same basis after that commencement despite the repeal and replacement of section 18 of the Minerals and Energy Research Act 1987 by that subsection (1).
+On the date as at which this compilation was prepared, the Minerals Research Institute of Western Australia Act 2013 s. 75 had not come into operation. It reads as follows:
+75.Minerals and Energy Research Act 1987 repealed
+The Minerals and Energy Research Act 1987 is repealed.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
