@@ -130,6 +130,7 @@ Supreme Court Amendment Rules (No. 3) 2012 | 3 Aug 2012 p. 3748-56 | r. 1 & 2: 3
 Supreme Court Amendment Rules (No. 2) 2013 | 15 Mar 2013 p. 1205-7 | r. 1 and 2: 15 Mar 2013 (see r. 2(a)); Rules other than r. 1 and 2: 7 Aug 2013 (see r. 2(b) and Gazette 6 Aug 2013 p. 3677)
 Supreme Court Amendment Rules 2013 | 23 Apr 2013 p. 1590-7 | r. 1 and 2: 23 Apr 2013 (see r. 2(a)); Rules other than r. 1 and 2: 7 May 2013 (see r. 2(b))
 Supreme Court Amendment Rules (No. 4) 2013 | 3 May 2013 p. 1718-19 | r. 1 and 2: 3 May 2013 (see r. 2(a)); Rules other than r. 1 and 2: 17 May 2013 (see r. 2(b))
+Supreme Court Amendment Rules (No. 3) 2013 | 17 Dec 2013 p. 6231-7 | r. 1 and 2: 17 Dec 2013 (see r. 2(a)); Rules other than r. 1 and 2: 18 Dec 2013 (see r. 2(b))
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
 Formerly referred to as The Partnership Act 1895, the short title of which was changed to the Partnership Act 1895 by the Statutes (Repeals and Minor Amendments) Act 2003 s. 144. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Gas Pipelines Access (Western Australia) Act 1998, the short title of which was changed to the Energy Arbitration and Review Act 1998 by the National Gas Access (WA) Act 2009 s. 26. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -147,7 +148,6 @@ ActO. 1 r. 4(1), O. 38A r. 1(a), O. 39 r. 1(a), O. 39A r. 1(1), O. 44A r. 1(a), 
 action for personal injuriesO. 36A r. 1
 additional authorityO. 11A r. 1
 addresseeO. 36B r. 1(1)
-adequate reasonsO. 56 r. 1(1)
 Admiralty RulesO. 84 r. 9(1)
 ancillary orderO. 52A r. 1
 another courtO. 52A r. 1
