@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 16 August 2013 of the Electricity Industry (Wholesale Electricity Market) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity Industry (Wholesale Electricity Market) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Electricity Industry (Wholesale Electricity Market) Regulations 2004 | 30 Sep 2004 p. 4189-205 | Regulations other than r. 4(3)(b): 30 Sep 2004; r. 4(3)(b): 1 Oct 2004 (see r. 4(3) and the Wholesale Electricity Market Rules published in Gazette 5 Oct 2004 r. 1.8.2 and 1.9.7)
@@ -14,6 +14,7 @@ Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2012 |
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 2) 2012 | 5 Jun 2012 p. 2353-60 | r. 1 and 2: 5 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 at 8:00 WST (see r. 2(b))
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2013 | 10 May 2013 p. 1935-6 (as amended 31 May 2013 p. 2117) | r. 1 and 2: 10 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jun 2013 (see r. 2(b))
 Reprint 2: The Electricity Industry (Wholesale Electricity Market) Regulations 2004 as at 16 Aug 2013 (includes amendments listed above)
+Electricity Corporations (Consequential Amendments) Regulations 2013 r. 9 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Energy Arbitration and Review Act 1998.
 Defined terms

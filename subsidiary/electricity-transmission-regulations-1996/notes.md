@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 December 2009 of the Electricity Transmission Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity Transmission Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Electricity Transmission Regulations 1996 | 31 Dec 1996 p. 7257-320 | 1 Jan 1997 (see r. 2)
@@ -18,11 +18,12 @@ Reprint 2: The Electricity Transmission Regulations 1996 as at 2 Jun 2006 (inclu
 Electricity Transmission Amendment Regulations (No. 2) 2006 | 25 Aug 2006 p. 3497-9 | 21 Sep 2006 08:00 (WST) (see r. 2 and Gazette 19 Sep 2006 p. 4065)
 Electricity Transmission Amendment Regulations 2007 | 26 Jun 2007 p. 3022-4 | r. 1 and 2: 26 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Reprint 3: The Electricity Transmission Regulations 1996 as at 11 Dec 2009 (includes amendments listed above)
+Electricity Corporations (Consequential Amendments) Regulations 2013 r. 11 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Formerly referred to the Electricity Corporation Act 1994 the short title of which was changed to the Electricity Transmission and Distribution Systems (Access) Act 1994 by the Electricity Corporations Act 2005 s. 139.
 Repealed by the Electricity Referee and Dispute Resolution Repeal Regulations 2007.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 access agreement3(1)
 access application3(1)
 access information3(1), 14(1)
@@ -48,22 +49,21 @@ controllers3(1)
 corporation3(1)
 declared sent-out capacity3(1)
 default40(1)
-demand entry rate23(1)(a)
-demand exit rate23(1)(a)
+demand entry rate23(1)
+demand exit rate23(1)
 direct damage41(1)
 disconnect3(1)
-Electricity Generation Corporation3(1)
+Electricity Generation and Retail Corporation3(1)
 Electricity Networks Corporation3(1)
-Electricity Retail Corporation3(1)
 electricity transmission network3(1)
 embedded generating unit3(1)
 encumbrance3(1)
-energy entry amount21(c)
-energy exit amount21(d)
+energy entry amount21
+energy exit amount21
 entry point3(1)
-excess amount24(1)(a)
-excess demand23(1)(d)
-excess rate24(3)(a)
+excess amount24(1)
+excess demand23(1)
+excess rate24(3)
 exempt connection3(1)
 existing connection3(1)
 exit point3(1)
@@ -73,20 +73,20 @@ first person30(4)
 force majeure event3(1)
 generating unit3(1)
 good electricity industry practice3(1)
-group of connections21(a)
+group of connections21
 including4
 indirect damage41(1)
 market rules18A(1)
 network planning criteria3(1)
 network services3(1)
 outage3(1)
-permitted tolerance21(e)
+permitted tolerance21
 post-trip management3(1)
 preliminary assessment3(1)
 Prices and Charges Paper20(1)
 Regional Power Corporation3(1)
 related body corporate3(1)
-relevant amount21(f)
+relevant amount21
 renewable energy source3(1)
 response3(1)
 revised net amount22(2)
@@ -95,7 +95,7 @@ SCADA3(1)
 sensitive information3(1)
 South West interconnected system3(1)
 spinning reserve3(1)
-standby generation reservation23(1)(c)
+standby generation reservation23(1)
 supervising officers3(1)
 taxes3(1)
 Technical Code3(1)
@@ -103,4 +103,3 @@ transmission employee3(1)
 use of system services3(1)
 voltage control3(1)
 wholesale electricity market commencement18A(1)
-By Authority: JOHN A. STRIJK, Government Printer

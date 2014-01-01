@@ -109,6 +109,7 @@ Water Agencies (Charges) Amendment By-laws 2011 | 23 Jun 2011 p. 2417-93 | bl. 1
 Water Agencies (Charges) Amendment By-laws 2012 | 20 Jun 2012 p. 2693-774 | bl. 1 and 2: 20 Jun 2012 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2012 (see bl. 2(b))
 Water Agencies (Charges) Amendment By-laws 2013 | 19 Jun 2013 p. 2347-422 | bl. 1 and 2: 19 Jun 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2013 (see bl. 2(b))
 Water Agencies (Charges) Amendment By laws (No. 2) 2013 | 14 Nov 2013 p. 5081-95 | bl. 1 and 2: 14 Nov 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 18 Nov 2013 (see bl. 2(b) and Gazette 14 Nov 2013 p. 5027)
+Electricity Corporations (Consequential Amendments) Regulations 2013 r. 17 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement

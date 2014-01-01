@@ -1,16 +1,18 @@
 Notes
-This reprint is a compilation as at 2 August 2013 of the Disability Services Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Disability Services Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Disability Services Regulations 2004 | 14 Dec 2004 p. 6002-6 | 15 Dec 2004 (see r. 2 and Gazette 14 Dec 2004 p. 5999)
 Electricity Corporations (Consequential Amendments) Regulations 2006 r. 70 | 31 Mar 2006 p. 1299-357 | 1 Apr 2006 (see r. 2)
 Disability Services Amendment Regulations 2013 r. 1-6 and 10 | 11 Jun 2013 p. 2161-5 | r. 1 and 2: 11 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Jun 2013 (see r. 2(c) and Gazette 11 Jun 2013 p. 2161)
 Reprint 1: The Disability Services Regulations 2004 as at 2 Aug 2013 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Electricity Corporations (Consequential Amendments) Regulations 2013 r. 4(1) and (2) | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Disability Services Amendment Regulations 2013 r. 7-9 | 11 Jun 2013 p. 2161-5 | 11 Jun 2014 (see r. 2(b))
-On the date as at which this reprint was prepared, the Disability Services Amendment Regulations 2013 r. 7-9 had not come into operation. They read as follows:
+Electricity Corporations (Consequential Amendments) Regulations 2013 r. 4(3) | 27 Dec 2013 p. 6469-79 | 11 Jun 2014 (see r. 2(b) and Gazette 11 Jun 2013 p. 2161-5)
+On the date as at which this compilation was prepared, the Disability Services Amendment Regulations 2013 r. 7-9 had not come into operation. They read as follows:
 7.Schedule 1 replaced
 Delete Schedule 1 and insert:
 Schedule 1 — Public authorities to which Part 5 applies
@@ -46,3 +48,9 @@ After Schedule 2 item 6 insert:
 9.Schedule 3 amended
 After Schedule 3 item 6 insert:
 7.People with disability have the same opportunities as other people to obtain and maintain employment with a public authority.
+On the date as at which this compilation was prepared, the Electricity Corporations (Consequential Amendments) Regulations 2013 r. 4(3) had not come into operation. It reads as follows:
+4.Disability Services Regulations 2004 amended
+(3) In Schedule 1:
+(a) in item 7 after “Generation” insert:
+and Retail
+(b) delete item 9.

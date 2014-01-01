@@ -49,9 +49,9 @@
 10.Country High School Hostels Authority established under the Country High School Hostels Authority Act 1960
 11.Country Housing Authority established under the Country Housing Act 1998
 [12-17.deleted]
-17A.Electricity Generation Corporation established by the Electricity Corporations Act 2005
+17A.Electricity Generation and Retail Corporation established by the Electricity Corporations Act 2005
 17B.Electricity Networks Corporation established by the Electricity Corporations Act 2005
-17C.Electricity Retail Corporation established by the Electricity Corporations Act 2005
+[17C.deleted]
 18.Family Court of Western Australia continued by the Family Court Act 1997
 19.Fire and Emergency Services Commissioner within the meaning of the Fire and Emergency Services Act 1998
 20.Forest Products Commission established by the Forest Products Act 2000
@@ -102,4 +102,4 @@
 [67.deleted]
 68.WorkCover Western Australia Authority (WorkCover Western Australia) continued by the Workers’ Compensation and Injury Management Act 1981
 69.Zoological Parks Authority established under the Zoological Parks Authority Act 2001
-[Division 2 amended in Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; 13 Apr 2007 p. 1610; 11 May 2012 p. 2064; 23 Jul 2013 p. 3312-13; amended by Act No. 43 of 2006 s. 7; No. 10 of 2007 s. 43; No. 28 of 2008 s. 16.]
+[Division 2 amended in Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; 13 Apr 2007 p. 1610; 11 May 2012 p. 2064; 23 Jul 2013 p. 3312-13; 27 Dec 2013 p. 6479; amended by Act No. 43 of 2006 s. 7; No. 10 of 2007 s. 43; No. 28 of 2008 s. 16.]

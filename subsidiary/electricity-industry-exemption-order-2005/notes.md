@@ -11,9 +11,10 @@ Electricity Industry Exemption Amendment Order (No. 2) 2009 | 8 May 2009 p. 1497
 Electricity Industry Exemption Amendment Order 2009 | 9 Oct 2009 p. 3992-4 | cl. 1 and 2: 9 Oct 2009 (see cl. 2(a)); Order other than cl. 1 and 2: 10 Oct 2009 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order 2012 | 29 Jun 2012 p. 2933-6 | cl. 1 and 2: 29 Jun 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 30 Jun 2012 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order (No. 2) 2012 | 14 Dec 2012 p. 6198-9 | cl. 1 and 2: 14 Dec 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 15 Dec 2012 (see cl. 2(b))
-Defined Terms
+Electricity Corporations (Consequential Amendments) Regulations 2013 r. 10 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Aboriginal community7(1)
 Aboriginal community premises7(1)
 administering body5(1)

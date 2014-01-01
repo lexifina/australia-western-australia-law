@@ -9,5 +9,6 @@ APPLICANTCORPORATION
  |  |  | 5.Prepare access offer within time specified in response (unless further information requested by the corporation).
 6.Accept access offer within 20 business days or such longer period as is agreed.
  | 7.Finalise access agreement.
-NOTE:The process shown in this flow chart is in simplified form, is for illustrative purposes only and otherwise has no force or effect. The process and times for performing activities are subject to conditions and variations set out in Part 2.
-[Schedule 1 amended in Gazette 31 Mar 2006 p. 1315.]
+Note for this Schedule:
+The process shown in this flow chart is in simplified form, is for illustrative purposes only and otherwise has no force or effect. The process and times for performing activities are subject to conditions and variations set out in Part 2.
+[Schedule 1 amended: Gazette 31 Mar 2006 p. 1315.]

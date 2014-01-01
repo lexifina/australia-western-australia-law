@@ -32,6 +32,7 @@ Residential Tenancies Amendment Regulations 2011 | 24 May 2011 p. 1894-5 | r. 1 
 Residential Tenancies Amendment Regulations 2013 | 3 May 2013 p. 1737-835 | r. 1 and 2: 3 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b) and Gazette 3 May 2013 p. 1735)
 Reprint 4: The Residential Tenancies Regulations 1989 as at 19 Jul 2013 (includes amendments listed above)
 Residential Tenancies Amendment Regulations (No. 2) 2013 | 20 Aug 2013 p. 3840 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
+Electricity Corporations (Consequential Amendments) Regulations 2013 r. 14 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Repealed by the Legal Profession Act 2008.
