@@ -2,34 +2,7 @@ Notes
 This is a compilation of the Water Services Act 2012. The following table contains information about that Act.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Water Services Act 2012 (other than s. 68 and Pt. 4 Div. 4) | 24 of 2012 | 3 Sep 2012 | s. 1 and 2: 3 Sep 2012 (see s. 2(a)); Act other than s. 1, 2, 68 and Pt. 4 Div. 4: 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5027)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Water Services Act 2012 s. 68 and Pt. 4 Div. 4 | 24 of 2012 | 3 Sep 2012 | 1 Jan 2014 (see s. 2(b) and Gazette 14 Nov 2013 p. 5027)
-On the date as at which this compilation was prepared, the Water Services Act 2012 s. 68 and Pt. 4 Div. 4 had not come into operation. They read as follows:
-Division 3 — Scheme operation
-68.Customers etc. may have decision or complaint reviewed
-(1) The following persons may apply to the water services ombudsman under an approved scheme for a review of a decision or complaint to which the scheme relates —
-(a) a customer;
-(b) a person affected by the provision of a water service by the licensee or a failure by the licensee to provide a water service;
-(c) in relation to a dispute or complaint prescribed for the purposes of section 65(1)(d) — a person who is involved as a customer in such a dispute or complaint.
-(2) If an application is made the water services ombudsman may, in respect of the decision or complaint —
-(a) make any order or determination; or
-(b) give any direction; or
-(c) decline to deal with a matter on any ground,
-that is provided for by the scheme.
-Part 4 — Water services ombudsman scheme
-Division 4 — Membership of approved scheme
-70.Membership of approved scheme
-(1) The Authority must not grant a licence to a person, approve of the transfer of a licence to a person or renew a licence held by a licensee unless it is satisfied that the person or the licensee —
-(a) is a member of an approved scheme; or
-(b) will, if the licence is granted or the transfer is approved of, become a member of an approved scheme.
-(2) It is a condition of every licence that the licensee cannot provide water services to customers unless the licensee —
-(a) is a member of an approved scheme; and
-(b) is bound by the scheme; and
-(c) will comply with any decision or direction of the water services ombudsman under the scheme.
-(3) To the extent to which a person is unable to become a member of an approved scheme because of a limitation in the functions or capacities of the person, the person has the function and capacity to do so by force of this subsection.
+Water Services Act 2012 | 24 of 2012 | 3 Sep 2012 | s. 1 and 2: 3 Sep 2012 (see s. 2(a)); Act other than s. 1, 2, 68 and Pt. 4 Div. 4: 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5027) s. 68 and Pt. 4 Div. 4: 1 Jan 2014 (see s. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
