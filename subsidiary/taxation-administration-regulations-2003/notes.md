@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Taxation Administration Regulations 2003 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the Taxation Administration Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Taxation Administration Regulations 2003 | 27 Jun 2003 p. 2419-22 | 1 Jul 2003 (see r. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -20,11 +20,7 @@ Taxation Administration Amendment Regulations 2010 | 25 Jun 2010 p. 2879-80 | r.
 Taxation Administration Amendment Regulations 2011 | 9 Sep 2011 p. 3685-6 | r. 1 and 2: 9 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Sep 2011 (see r. 2(b))
 Taxation Administration Amendment Regulations 2012 | 18 Dec 2012 p. 6597-8 | r. 1 and 2: 18 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2012 (see r. 2(b))
 Taxation Administration Amendment Regulations (No. 2) 2013 | 17 May 2013 p. 1985 | r. 1 and 2: 17 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 May 2013 (see r. 2(b))
-Taxation Administration Amendment Regulations 2013 (other than r. 4-7) | 17 Dec 2013 p. 6240-1 | r. 1 and 2: 17 Dec 2013 (see r. 2(a)); r. 3 and 8: 18 Dec 2013 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Taxation Administration Amendment Regulations 2013 r. 4-7 | 17 Dec 2013 p. 6240-1 | 1 Jan 2014 (see r. 2(c))
+Taxation Administration Amendment Regulations 2013 | 17 Dec 2013 p. 6240-1 | r. 1 and 2: 17 Dec 2013 (see r. 2(a)); r. 3 and 8: 18 Dec 2013 (see r. 2(b)); r. 4-7: 1 Jan 2014 (see r. 2(c))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. R. 1-4 and Pt. 7 Div. 2 of those regulations read as follows:
 1.Citation
 These regulations are the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
@@ -101,20 +97,6 @@ corresponding Taxation Administration Regulations means the Taxation Administrat
 (3) These regulations are to be read with the corresponding Taxation Administration Regulations as a single body of law.
 (4) In addition to being modified as prescribed by the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007, these regulations are deemed to be further modified to any extent that is necessary or convenient to enable these regulations to operate effectively as a law of the Commonwealth.
 ”.
-On the date as at which this compilation was prepared, the Taxation Administration Amendment Regulations 2013 r. 4-7 had not come into operation. They read as follows:
-4.Regulation 3 amended
-In regulation 3 delete “3.5% per annum.” and insert:
-2.7% per annum.
-5.Regulation 4 amended
-In regulation 4 delete “3.5% per annum.” and insert:
-2.7% per annum.
-6.Regulation 5 amended
-In regulation 5 delete “11.5% per annum.” and insert:
-10.7% per annum.
-7.Regulation 5B inserted
-After regulation 5A insert:
-5B.Rate of interest for refunds (section 54(2A))
-The rate of interest payable for the purposes of section 54(2A) of the Act is 2.7% per annum.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
