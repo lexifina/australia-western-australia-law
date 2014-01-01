@@ -41,11 +41,7 @@ Road Traffic (Charges and Fees) Amendment Regulations (No. 5) 2013 | 31 May 2013
 Road Traffic (Charges and Fees) Amendment Regulations (No. 7) 2013 | 31 May 2013 p. 2121-3 | 31 May 2013 (see note under r.1)
 Road Traffic (Charges and Fees) Amendment Regulations (No. 6) 2013 | 14 Jun 2013 p. 2249-53 | r. 1 and 2: 14 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 8) 2013 | 28 Jun 2013 p. 2805-6 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
-Road Traffic (Charges and Fees) Amendment Regulations (No. 11) 2013 r. 1-3 and 5 | 4 Oct 2013 p. 4565-6 | r. 1 and 2: 4 Oct 2013 (see r. 2(a)); Regulations other than r. 1, 2 and 4: 5 Oct 2013 (see r. 2(c))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Road Traffic (Charges and Fees) Amendment Regulations (No. 11) 2013 r. 4 | 4 Oct 2013 p. 4565-6 | 1 Jan 2014 (see r. 2(b))
+Road Traffic (Charges and Fees) Amendment Regulations (No. 11) 2013 | 4 Oct 2013 p. 4565-6 | r. 1 and 2: 4 Oct 2013 (see r. 2(a)); Regulations other than r. 1, 2 and 4: 5 Oct 2013 (see r. 2(c)); r. 4: 1 Jan 2014 (see r. 2(b))
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2007 r. 3 reads as follows:
@@ -72,13 +68,9 @@ For the purposes of section 28A of the Act, the specified day in relation to the
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 7) 2013 r. 2 reads as follows:
 2.Specified day
 For the purposes of section 28A of the Act, the specified day in relation to these regulations is 1 July 2013
-On the date as at which this compilation was prepared, the Road Traffic (Charges and Fees) Amendment Regulations (No. 11) 2013 r. 4 had not come into operation. It reads as follows:
-4.Regulation 20 amended
-In regulation 20(1) delete “$72” (each occurrence) and insert:
-$36
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 agricultural machine3(1)
 agricultural special purpose vehicle3(1)
 current licence41(4)(a)
