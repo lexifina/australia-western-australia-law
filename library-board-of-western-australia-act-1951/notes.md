@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Library Board of Western Australia Act 1951 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Library Board of Western Australia Act 1951 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Library Board of Western Australia Act 1951 | 42 of 1951 | 20 Dec 1951 | 30 Sep 1952 (see s. 2 and Gazette 26 Sep 1952 p. 2358)
@@ -27,18 +27,18 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Reprint 4: The Library Board of Western Australia Act 1951 as at 10 Feb 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Standardisation of Formatting Act 2010 s. 44(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Legal Deposit Act 2012 Pt. 6 | 10 of 2012 | 21 May 2012 | 1 Jan 2014 (see s. 2(b) and Gazette 17 Dec 2013 p. 6218)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 54 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Legal Deposit Act 2012 Pt. 6 | 10 of 2012 | 21 May 2012 | 1 Jan 2014 (see s. 2(b) and Gazette 17 Dec 2013 p. 6218)
+Other notes
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to the Permanent Head is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Department of the Arts is read and construed as a reference to the Department of Culture and the Arts.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Under the Public Sector Management Act 1994 s. 112(1), a reference in a written law to the Public Service Act 1978 is, unless the contrary intention appears or it is otherwise provided under the Acts Amendment (Public Sector Management) Act 1994, to be construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 Repealed by the Art Gallery Act 1959.
 The State Records (Consequential Provisions) Act 2000 Pt. 6 Div. 2 reads as follows:
-“
 Division 2 — Transitional provisions
 13.Interpretation
 (1) In this Division —
@@ -72,36 +72,20 @@ If immediately before commencement an agreement is in force under section 26 of 
 (c) if the other party to the agreement is not a State organization, the agreement has effect according to its terms.
 19.Applications to restrict access to archives not limited
 This Division does not limit any right to apply under section 37(2)(b) of the State Records Act 2000 in respect of a State archive that immediately before commencement was a State archive under the Library Board of Western Australia Act 1951.
-”.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 54 had not come into operation. It reads as follows:
-“
-54.Library Board of Western Australia Act 1951 amended
-The Library Board of Western Australia Act 1951 is amended as follows:
-(a) in section 5(14) by deleting “or the Superannuation and Family Benefits Act 1938-1950,”;
-(b) in section 6(2) by deleting “and to such rights prescribed by or pursuant to the provisions of the Superannuation and Family Benefits Act 1938-1950,”.
-”.
-On the date as at which this compilation was prepared, the Legal Deposit Act 2012 Pt. 6 had not come into operation. It reads as follows:
-Part 6 — Consequential amendments to Library Board of Western Australia Act 1951
-21.Act amended
-This Part amends the Library Board of Western Australia Act 1951.
-22.Section 12 amended
-In section 12 delete “jurisdiction,” and insert:
-jurisdiction, or proceedings under the Legal Deposit Act 2012 section 14 or 15,
-23.Section 13 amended
-(1) In section 13(1) delete “the regulations” and insert:
-the Legal Deposit Act 2012
-(2) In section 13(2)(a) delete “Act; or” and insert:
-Act or the Legal Deposit Act 2012; or
-24.Section 15 amended
-(1) In section 15(2):
-(a) in paragraph (b) delete “Australia.” and insert:
-Australia; and
-(b) after paragraph (b) insert:
-(c) may perform the functions conferred on the Board under the Legal Deposit Act 2012.
-(2) In section 15 after each of subsections (1)(Aa) to (d) and (2)(a) insert:
-and
-25.Section 16 amended
-(1) In section 16(1) after “this Act” (first occurrence) insert:
-and the Legal Deposit Act 2012
-(2) In section 16(2)(b) delete “this Act.” and insert:
-this Act and the Legal Deposit Act 2012.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Account3(1)
+appointed day20A(1)
+approved body3(1)
+Board3(1)
+library3(1)
+library service3(1)
+nominee member3(1)
+participating body3(1)
+Public Library20A(1)
+Public Library Act20A(1)
+registered public library3(1)
+scheme3(1)
+State Reference Library3(1)
+Trustees20A(1)
