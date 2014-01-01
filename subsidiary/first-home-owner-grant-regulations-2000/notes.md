@@ -16,21 +16,11 @@ First Home Owner Grant Amendment Regulations 2009 | 4 Aug 2009 p. 3104-5 | r. 1 
 Reprint 2: The First Home Owner Grant Regulations 2000 as at 23 Oct 2009 (includes amendments listed above)
 First Home Owner Grant Amendment Regulations 2011 | 9 Sep 2011 p. 3684-5 | r. 1 and 2: 9 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Sep 2011 (see r. 2(b))
 First Home Owner Grant Amendment Regulations 2013 | 17 May 2013 p. 1986 | r. 1 and 2: 17 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 May 2013 (see r. 2(b))
-First Home Owner Grant Amendment Regulations (No. 2) 2013 (other than r. 4) | 17 Dec 2013 p. 6239-40 | r. 1 and 2: 17 Dec 2013 (see r. 2(a)); Regulations other than r. 1, 2 and 4: 18 Dec 2013 (see r. 2(c))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-First Home Owner Grant Amendment Regulations (No. 2) 2013 r. 4 | 17 Dec 2013 p. 6239-40 | 1 Jan 2014 (see r. 2(b))
+First Home Owner Grant Amendment Regulations (No. 2) 2013 | 17 Dec 2013 p. 6239-40 | r. 1 and 2: 17 Dec 2013 (see r. 2(a)); Regulations other than r. 1, 2 and 4: 18 Dec 2013 (see r. 2(c)); r. 4: 1 Jan 2014 (see r. 2(b))
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 5(d).
-On the date as at which this compilation was prepared, the First Home Owner Grant Amendment Regulations (No. 2) 2013 r. 4 had not come into operation. It reads as follows:
-4.Regulation 8 amended
-(1) In regulation 8(1) and (2) delete “3.5% per annum.” and insert:
-2.7% per annum.
-(2) In regulation 8(3) delete “11.5% per annum.” and insert:
-10.7% per annum.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 affairs11(3)
 appropriate publication10(3)
 confidential information11(3)
