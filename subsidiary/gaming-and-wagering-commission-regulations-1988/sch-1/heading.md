@@ -6,56 +6,56 @@ Item | Description | Fee $
 2. | Copy of extract from register | 14
 3. | Application for a function permit for —
  | (a)an item of gaming equipment (r. 18B(2)(a)) | 30
- | (b)a class of gaming equipment (r. 18B(2)(b)) | 56
+ | (b)a class of gaming equipment (r. 18B(2)(b)) | 57
 4. | Application for a permit of a continuing nature for —
  | (a)a video lottery terminal (r. 18AA(7)) | 30
- | (b)an item of gaming equipment (r. 18B(2)(a)) | 61
- | (c)a class of gaming equipment (r. 18B(2)(b)) | 107
+ | (b)an item of gaming equipment (r. 18B(2)(a)) | 62
+ | (c)a class of gaming equipment (r. 18B(2)(b)) | 109
 5. | Application for a function permit for —
  | (a)bingo | 20
  | (b)multiple bingo, for each premises | 20
  | (c)simultaneous bingo, for each premises | 20
  | (d)a standard lottery —
  | (i)where the total retail value of prizes or prize money does not exceed $5 000 | 30
- | (ii)otherwise | 71
- | (da)a standard lottery of a kind generally known or described as a Calcutta | 71
+ | (ii)otherwise | 72
+ | (da)a standard lottery of a kind generally known or described as a Calcutta | 72
  | (e)a continuing lottery | 15
  | (f)gaming (per day authorised) —
- | (i)1-5 tables | 210
- | (ii)6-10 tables | 349
- | (iii)over 10 tables | 405
+ | (i)1-5 tables | 214
+ | (ii)6-10 tables | 356
+ | (iii)over 10 tables | 406
  | (g)two-up —
- | (i)by a country race club | 143
- | (ii)otherwise | 210
+ | (i)by a country race club | 145
+ | (ii)otherwise | 214
 6. | Application for a permit of a continuing nature for —
  | (a)bingo | 30
  | (b)multiple bingo, for each premises | 30
  | (c)simultaneous bingo, for each premises | 30
  | (d)a standard lottery, where the total retail value of prizes or prize money is —
  | (i)not more than $5 000 | 46
- | (ii)more than $5 000 but not more than $50 000 | 107
- | (iii)more than $50 000 but not more than $100 000 | 205
- | (iv)more than $100 000 but not more than $200 000 | 421
+ | (ii)more than $5 000 but not more than $50 000 | 109
+ | (iii)more than $50 000 but not more than $100 000 | 209
+ | (iv)more than $100 000 but not more than $200 000 | 429
  | (v)more than $200 000 | 665
- | (da)a standard lottery of a kind generally known or described as a Calcutta | 143
+ | (da)a standard lottery of a kind generally known or described as a Calcutta | 145
  | (e)a continuing lottery | 25
  | (f)gaming (per day authorised) —
- | (i)1-5 tables | 169
- | (ii)6-10 tables | 308
- | (iii)over 10 tables | 385
+ | (i)1-5 tables | 172
+ | (ii)6-10 tables | 314
+ | (iii)over 10 tables | 392
  | (g)two-up —
- | (i)by a country race club, per day authorised | 113
- | (ii)otherwise, per day authorised | 169
+ | (i)by a country race club, per day authorised | 115
+ | (ii)otherwise, per day authorised | 172
 7. | Application for approval of premises for —
  | (a)a specific function | 20
- | (b)functions from time to time | 71
- | (c)permit of a continuing nature | 71
+ | (b)functions from time to time | 72
+ | (c)permit of a continuing nature | 72
 8. | Issue of a certificate under section 92 relating to —
- | (a)multiple bingo | 143
- | (b)simultaneous bingo | 143
- | (c)assisting in the conduct of bingo, for hire or reward | 143
-9. | Issue of an approved operator’s certificate | 231
-10. | Issue of a certificate under section 88(5) | 303
-11. | Application to be a licensed supplier | 282
+ | (a)multiple bingo | 145
+ | (b)simultaneous bingo | 145
+ | (c)assisting in the conduct of bingo, for hire or reward | 145
+9. | Issue of an approved operator’s certificate | 235
+10. | Issue of a certificate under section 88(5) | 309
+11. | Application to be a licensed supplier | 287
 12. | Approval to operate, or remove money from, gaming equipment | 25
-[Schedule 1 inserted in Gazette 30 Oct 2009 p. 4317-19; amended in Gazette 19 Nov 2010 p. 5748 (correction in Gazette 20 May 2011 p. 1840); 4 Nov 2011 p. 4645-6; 16 Nov 2012 p. 5650-1.]
+[Schedule 1 inserted in Gazette 30 Oct 2009 p. 4317-19; amended in Gazette 19 Nov 2010 p. 5748 (correction in Gazette 20 May 2011 p. 1840); 4 Nov 2011 p. 4645-6; 16 Nov 2012 p. 5650-1; 8 Nov 2013 p. 4976-7.]
