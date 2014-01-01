@@ -12,6 +12,7 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 48 | 8 of 2009 | 21 
 National Gas Access (WA) Act 2009 Pt. 7 Div. 2 | 16 of 2009 | 1 Sep 2009 | 1 Jan 2010 (see s. 2(b) and Gazette 31 Dec 2009 p. 5327)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Water Services Legislation Amendment and Repeal Act 2012 s. 209 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+Electricity Corporations Amendment Act 2013 s. 38 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Schedule 2 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms

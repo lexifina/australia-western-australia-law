@@ -46,6 +46,7 @@ Equal Opportunity Amendment Act 2010 | 2 of 2010 | 1 Apr 2010 | s. 1 and 2: 1 Ap
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 6: The Equal Opportunity Act 1984 as at 7 Jan 2011 (includes amendments listed above except those in the Co-operatives Act 2009 s. 514)
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 3 | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
+Electricity Corporations Amendment Act 2013 s. 42 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 of the Commonwealth (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 of the Commonwealth.
 The Uniform Building By-laws 1974 were repealed in Gazette 28 July 1989 p. 2280.
 Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1) which was repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
@@ -72,7 +73,7 @@ Defined termProvision(s)
 accommodation4(1)
 advertisement66ZS(2), 68(2)
 age4(1)
-aggrieved person 8(1) and (2), 9(1) and (2), 10(1) and (2), 10A(1) and (2), 19, 35A(1) and (2), 35O(1), (2) and (3), 35X, 36(1), (1a) and (2), 45, 53(1) and (2), 66A(1), (1a), (3) and (4), 66J(1), 66V(1), (2) and (3), 66ZE(1), 67ZD(3), 67A
+aggrieved person8(1), 8(2), 9(1), 9(2), 10(1), 10(2), 10A(1), 10A(2), 19, 35A(1), 35A(2), 35O(1), 35O(2), 35O(3), 35X, 36(1), 36(1a), 36(2), 45, 53(1), 53(2), 66A(1), 66A(1a), 66A(3), 66A(4), 66J(1), 66V(1), 66V(2), 66V(3), 66ZD(3), 66ZE(1), 67A
 amending section66ZL(2)
 authority138, 163(4)
 charitable benefits4(1), 70(2)
@@ -85,7 +86,7 @@ complaint4(1)
 contract worker4(1)
 court167(4)
 Director4(1)
-discriminator8(1) and (2), 9(1) and (2), 10(1) and (2), 10A(1) and (2), 19, 35AB(1) and (3), 35AK, 35A(1) and (2), 35O(1), (2) and (3), 35X, 36(1), (1a) and (2), 45, 53(1) and (2), 66A(1), (1a), (3) and (4), 66J(1), 66V(1), (2) and (3), 66ZE(1), 67A
+discriminator8(1), 8(2), 9(1), 9(2), 10(1), 10(2), 10A(1), 10A(2), 19, 35A(2), 35AB(1), 35AB(3), 35AK, 35A(1), 35O(1), 35O(2), 35O(3), 35X, 36(1), 36(1a), 36(2), 45, 53(1), 53(2), 66A(1), 66A(1a), 66A(3), 66A(4), 66J(1), 66V(1), 66V(2), 66V(3), 66ZE(1), 67A
 document4(1)
 educational authority4(1)
 educational institution4(1)
@@ -96,7 +97,7 @@ family responsibility or family status4(1)
 Fines Enforcement Registrar4(1)
 functions4(1)
 gender reassigned person4(1)
-harasser49A(1) and (2)
+harasser49A(1), 49A(2)
 impairment4(1)
 incorporated association4(1)
 infectious disease66U(3)
@@ -118,7 +119,7 @@ relative4(1)
 relevant details4(1)
 relevant documents86(1)
 relevant information86(1)
-relevant person165(2)(d)
+relevant person165(2)
 relevant sex27(2)
 religious or political conviction4(3)
 representative complaint4(1)
