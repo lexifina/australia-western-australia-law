@@ -26,3 +26,4 @@ Note:For the purposes of item 5 in the Table —
 (d)all Types C to F Division 5.2 Organic Peroxides that do not have a packing group assigned to them are to be taken to be assigned to packing group II;
 (e)Class 9 dangerous goods that do not have a packing group assigned to them are to be taken to be assigned to packing group III;
 (f)all other articles and things that do not have a packing group assigned to them are to be taken to be assigned to packing group II.
+[Schedule 2 deleted in Gazette 2 Dec 2013 p. 5562.]
