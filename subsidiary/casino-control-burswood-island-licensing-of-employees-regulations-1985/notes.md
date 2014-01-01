@@ -32,26 +32,10 @@ Reprint 3: The Casino Control (Burswood Island) (Licensing of Employees) Regulat
  | Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2011 | 12 Apr 2011 p. 1324-5 | r. 1 and 2: 12 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Apr 2011 (see r. 2(b))
  | Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations (No. 2) 2011 | 4 Nov 2011 p. 4638-9 | r. 1 and 2: 4 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2012 (see r. 2(b))
  | Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2012 | 16 Nov 2012 p. 5648-9 | r. 1 and 2: 16 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2013 r. 3 and 4 | 8 Nov 2013 p. 4974-5 | 1 Jan 2014 (see. r. 2(b))
-On the date as at which this compilation was prepared, the Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2013 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985.
-4.Regulation 6 amended
-In regulation 6 amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 6(1)(a) | $426 | $434
-r. 6(1)(b) | $267 | $272
-r. 6(1a)(a) | $118 | $120
-r. 6(1a)(b) | $118 | $120
-r. 6(2)(a) | $308 | $314
-r. 6(2)(c) | $50 | $51
-Defined Terms
+ | Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2013 | 8 Nov 2013 p. 4974-5 | r. 1 and 2: 8 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see. r. 2(b))
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Commission2(1)
 current holder2(1)
 employ2(1)
