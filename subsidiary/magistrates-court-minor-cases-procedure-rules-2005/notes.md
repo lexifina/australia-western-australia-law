@@ -10,9 +10,10 @@ Reprint 1: The Magistrates Court (Minor Cases Procedure) Rules 2005 as at 14 Nov
 Magistrates Court (Minor Cases Procedure) Amendment Rules 2010 | 2 Jul 2010 p. 3196 | r. 1 and 2: 2 Jul 2010 (see r. 2(a)); Rules other than r. 1 and 2: 3 Jul 2010 (see r. 2(b))
 Magistrates Court (Minor Cases Procedure) Amendment Rules 2011 | 20 May 2011 p. 1840-1 | r. 1 and 2: 20 May 2011 (see r. 2(a)); Rules other than r. 1 and 2: 21 May 2011 (see r. 2(b))
 Magistrates Court (Minor Cases Procedure) Amendment Rules (No. 2) 2013 | 24 May 2013 p. 2057-60 | r. 1 and 2: 24 May 2013 (see r. 2(a)); Rules other than r. 1 and 2: 25 May 2013 (see r. 2(b))
-Defined Terms
+Magistrates Court (Minor Cases Procedure) Amendment Rules 2013 | 31 Dec 2013 p. 6545-7 | r. 1 and 2: 31 Dec 2013 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 agent4
 application4
 approved form4
@@ -21,6 +22,7 @@ counterclaim4
 default judgment4
 defendant4
 enforcement officer4
+Inactive Cases List45A
 lodge4
 order4
 partnership4
