@@ -18,7 +18,7 @@ An access application must contain the following information:
 (n) any information as required by the Distribution Technical Code;
 (o) commercial information concerning the applicant to allow the corporation to make an assessment of the ability of the applicant to meet its obligations under any distribution access agreement that results from the access application; and
 (p) any other information reasonably required by the corporation.
-[Part A amended in Gazette 28 Dec 2001 p. 6717; 31 Mar 2006 p. 1315.]
+[Part A amended: Gazette 28 Dec 2001 p. 6717; 31 Mar 2006 p. 1315.]
 ## Part B — Information to be included in a response
 A response must contain the following information:
 (a) whether it is likely that there is sufficient spare capacity to provide the distribution access services requested in the access application or whether the electricity distribution network will have to be augmented to provide those services;
