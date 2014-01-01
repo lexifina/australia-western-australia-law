@@ -32,6 +32,7 @@ Fines, Penalties and Infringement Notices Enforcement Amendment (Taxation) Act 2
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 2 | 48 of 2012 | 29 Nov 2012 | s. 3, 39, 40, 41(3) and 42: 1 May 2013 (see s. 2(b) and Gazette 30 Apr 2013 p. 1687); s. 4-38, 41(1) and (2) and 43: 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Reprint 5: The Fines, Penalties and Infringement Notices Enforcement Act 1994 as at 11 Oct 2013 (includes amendments listed above)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 12 (other than s. 75 and 95) | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
+Electricity Corporations Amendment Act 2013 s. 43 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 12 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -109,16 +110,16 @@ aggregate amount owed56A
 aggregate unpaid infringement amount11
 alleged offence11
 alleged offender11
-amending provision53(4) and (8a)
-amount outstanding61(1)(b)
+amending provision53(4), 53(8a)
+amount outstanding61(1)
 amount owed40, 56A
 applicant101(1), 101AA(2), 101A(1)
-CCO28(2)
+CCO28(1), 28(2)
 CEO (corrections)3(1)
 child3(1)
 claimant93(1)
 commencement111(1), 112(1), 113(1)
-commencement date32
+commencement date32(5)
 community corrections activities28(1)
 community corrections centre28(1)
 community corrections officer28(1)
@@ -128,12 +129,14 @@ debtor63(1)
 Department of Corrective Services3(1)
 Director General3(1)
 dishonoured payment3(1)
-disposed of101AA(1), 101B(6)
+disposed of101AA(1)
+disposed of 101B(6)
 driver’s licence3(1)
-due date18(3), 27C(1), 42(3), 55C(1)
+due date18(3)
+due date27C(1), 42(3), 55C(1)
 dwelling63(1)
 election11
-Electricity Retail Corporation3(1)
+Electricity Generation and Retail Corporation3(1)
 enforcement action68B(1)
 enforcement fees11, 28(1), 56A, 63(1)
 fine28(1), 56A, 59
@@ -165,12 +168,12 @@ Registrar’s website56A
 Registry3(1)
 relevant amount10B(1)
 relevant details56A, 56C
-required hours50(1)(a)
+required hours50(1)
 saleable interest63(1), 71(1), 88(1)
 serve3(1)
 Sheriff3(1)
 specified period53(7)
-time to pay order28(1)
+time to pay order, except in sections 55A and 55B28(1)
 traffic infringement notice26(4)
 transitional period113(1)
 unpaid infringement amount11
@@ -179,7 +182,7 @@ vehicle licence3(1)
 vehicle licensing law63(1)
 warning notice63(1)
 warrant63(1)
-warrant amount53(6) and (7)
+warrant amount53(6), 53(7)
 WDO28(2)
 work and development order28(1)
 young person10B(1)

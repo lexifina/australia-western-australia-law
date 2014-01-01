@@ -11,7 +11,7 @@ Acts Amendment (Federal Courts and Tribunals) Act 2001 Pt. 5 | 32 of 2001 | 21 D
 Gas Pipelines Access (Western Australia) (Reviews) Amendment Act 2003 | 42 of 2003 | 30 Jun 2003 | s. 1 and 2: 30 Jun 2003; Act other than s 1 and 2: 12 Jul 2003 (see s. 2 and Gazette 11 Jul 2003 p. 2739)
 Energy Legislation Amendment Act 2003 s. 117 | 53 of 2003 | 8 Oct 2003 | 8 Oct 2003 (see s. 2(1))
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 38 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
-Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
+Economic Regulation Authority Act 2003 Sch. 2 Div 8 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 59 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 2: The Gas Pipelines Access (Western Australia) Act 1998 as at 8 Oct 2004 (includes amendments listed above)
 Electricity Corporations Act 2005 s. 139 | 18 of 2005 | 13 Oct 2005 | 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153)
@@ -26,6 +26,7 @@ Reprint 3: The Energy Arbitration and Review Act 1998 as at 19 Mar 2010 (include
 Public Sector Reform Act 2010 s. 77 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Gas Services Information Act 2012 Pt. 3 | 5 of 2012 | 10 Apr 2012 | 30 Jun 2012 (see s. 2(b) and Gazette 29 Jun 2012 p. 2929)
 Commercial Arbitration Act 2012 s. 45 it. 7 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
+Electricity Corporations Amendment Act 2013 s. 40 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Repealed by the Gas Corporation (Business Disposal) Act 1999.
 The amendment in the Federal Courts (State Jurisdiction) Act 1999 s. 10(3) is not included because s. 20 which it sought to amend had been deleted before the amendment purported to come into operation.
 Now known as the Energy Arbitration and Review Act 1998; short title changed (see note under s. 1).
@@ -82,6 +83,7 @@ The operation of any provision of this Schedule is not to be regarded —
 (c) as giving rise to any remedy by a party to an instrument or as causing or permitting the termination of any instrument, because of a change in the beneficial or legal ownership of any asset, right or liability;
 (d) as causing any contract or instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
+The Economic Regulation Authority Act 2003 Sch. 2 cl. 36, 39 and 41 are not included because the sections it sought to amend had been deleted by the National Gas Access (WA) Act 2009 s. 32 before the amendment purported to come into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

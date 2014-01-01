@@ -43,6 +43,7 @@ Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 
 Water Resources Legislation Amendment Act 2007 s. 193 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Reprint 5: The Energy Operators (Powers) Act 1979 as at 4 Apr 2008 (includes amendments listed above)
 Water Services Legislation Amendment and Repeal Act 2012 s. 210 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+Electricity Corporations Amendment Act 2013 s. 41 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is, unless the contrary is intended, to be read and construed as if it had been amended to be a reference to the Public Sector Management Act 1994.
 The State Electricity Commission Act 1945 was repealed by this Act.
 The Energy Operators (Powers) Act 1979 is affected by the Dampier to Bunbury Pipeline Act 1997 Sch. 4 Div. 3 it. 9, which reads as follows:
@@ -163,7 +164,7 @@ in accordance with a transfer order.
 (1a) In subsection (1)(b) —
 “new corporation” and “transfer order” have the meanings given to those terms in section 142(1) of the Electricity Corporations Act 2005.
 (2) The Governor may, by further regulations, amend or repeal the regulations referred to in subsection (1).
-[Section 50 amended by No. 18 of 2005 s. 139.]
+[Section 50 amended: No. 18 of 2005 s. 139.]
 51.Guarantees in respect of Commission
 (1) A guarantee under section 30 or 108 of the principal Act as in force immediately before the commencement day is not affected by —
 (a) any provision of this Act, including without limitation the transfer of any liability of the Commission under section 45, 46 or 47 to a corporation or the corporations jointly; or
