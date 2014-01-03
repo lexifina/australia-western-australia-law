@@ -1,6 +1,6 @@
 ## Second Schedule — First variation agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 35 of 1970 s. 7; amended: No. 19 of 2010 s. 4.]
 AN AGREEMENT made the 12th day of May One thousand nine hundred and seventy BETWEEN THE HONOURABLE SIR DAVID BRAND, K.C.M.G., M.L.A. Premier and Treasurer of the State of Western Australia acting for and on behalf of the Government of the said State and instrumentalities thereof from time to time (hereinafter called “the State”) of the one part and CLIFFS INTERNATIONAL INC. a limited company incorporated under the laws of the State of Ohio one of the United States of America and registered in the State of Western Australia under the provisions of the Companies Act 1961, of the said State and having its registered office situate at 84 Saint George’s Terrace Perth in the said State (hereinafter called “the Company”) of the other part.
 WHEREAS:
 (a)By an agreement under seal dated the 18th day of November One thousand nine hundred and sixty-four made between the State of the one part and Basic Materials Pty. Limited (hereinafter called “Basic”) of the other part (which agreement was approved by and is scheduled to the Iron Ore (Cleveland-Cliffs) Agreement Act 1964 and is hereinafter referred to as “the Agreement” Basic acquired upon the terms and conditions set forth in the agreement certain rights interests and benefits and assumed certain obligations with respect to the exploration for and development of specified iron ore deposits and the mining transportation processing pelletising and shipment of iron ore therefrom.
@@ -90,4 +90,4 @@ PROVIDED FURTHER THAT with regard to the contracts which the Company has advised
 IN WITNESS whereof these presents have been executed as a deed the day and year first herein before written.
 SIGNED by the said THE HONOURABLE SIR DAVID BRAND, K.C.M.G., M.L.A in the presence of — C. W. COURT, Minister for Industrial Development. ARTHUR GRIFFITH, Minister for Mines. |  | DAVID BRAND
 SIGNED BY WILLIAM E. DOHNAL pursuant to and with the authority of a resolution of the Board of Directors of CLIFFS INTERNATIONAL INC. in the presence of — T. R. COLBORN [C.S.] |  | WILLIAM E. DOHNAL
-[Second Schedule inserted by No. 35 of 1970 s. 7.]
+[Second Schedule inserted: No. 35 of 1970 s. 7.]
