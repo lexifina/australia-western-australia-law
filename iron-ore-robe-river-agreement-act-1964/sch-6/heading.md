@@ -1,6 +1,6 @@
 ## Sixth Schedule — Fifth variation agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 87 of 1987 s. 8; amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 26th day of June 1987
 BETWEEN
 THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and instrumentalities thereof from time to time (hereinafter called “the State”) of the first part ROBE RIVER LIMITED a company incorporated in the Australian Capital Territory and having its principal office in the State of New South Wales situate at 10 Loftus Street, Sydney (hereinafter called “Robe River Limited”) of the second part and
@@ -80,7 +80,7 @@ by deleting “(other than the mining areas included in any subleases referred t
 (B)by deleting “after such anniversary as aforesaid” and substituting the following —
 “after such date”;
 (iii)by deleting the second proviso to paragraph (b);
-(c)by deleting paragraph (h) (inserted by clause 6 (2) (b) of the agreement defined as the fourth variation agreement in section 2 of the Act ratifying the Principal Agreement).
+(c)by deleting paragraph (h) (inserted by clause 6(2)(b) of the agreement defined as the fourth variation agreement in section 2 of the Act ratifying the Principal Agreement).
 (6)Clause 8 subclause (4) —
 by deleting paragraph (g).
 (7)Clause 9 subclause (2) —
@@ -163,4 +163,4 @@ SUMITOMO METAL AUSTRALIA PTY. LTD. by its duly appointed Attorney MITSUI IRON OR
 THE COMMON SEAL of MITSUI IRON ORE DEVELOPMENT PTY. LTD. was hereunto affixed by the authority of the Directors and in the presence of —
 Y. OKAMOTO Director (C.S.)
 J. MacKENZIE Secretary
-[Sixth Schedule inserted by No. 87 of 1987 s. 8.]
+[Sixth Schedule inserted: No. 87 of 1987 s. 8.]
