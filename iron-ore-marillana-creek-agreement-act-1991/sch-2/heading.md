@@ -1,6 +1,6 @@
 ## Schedule 2 — First Variation Agreement
 [s. 3]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 29 of 1994 s. 15; amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 31st day of March 1994
 B E T W E E N
 THE HONOURABLE RICHARD FAIRFAX COURT B.Com., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part AND BHP MINERALS PTY. LTD. ACN 008 694 782 a company incorporated in the State of Western Australia and having its registered office at Level 18, 200 St George’s Terrace, Perth, CI MINERALS AUSTRALIA PTY. LTD. ACN 009 256 259 a company incorporated in the State of Western Australia and having its registered office at 22nd Floor, Forrest Centre, 221 St George’s Terrace, Perth and MITSUI IRON ORE CORPORATION PTY. LTD. ACN 050 157 456 a company incorporated in the State of Western Australia and having its registered office at 24th Floor, Forrest Centre, 221 St George’s Terrace, Perth (hereinafter called “the Joint Venturers”) of the other part.
@@ -23,12 +23,12 @@ are passed as Acts before 31 December 1994 or such later date if any as the part
 (1)Clause 11 —
 by deleting Clause 11 and substituting the following clause —
 Limits on mining
-"11.(1)In this Clause —
-aggregate project cost under the Processing Agreement means the sum of $400,000,000 (June 1993 dollars) which is agreed or determined for the purposes of Clause 27 of the Processing Agreement to have been expended on the establishment of facilities for further processing or alternative investments pursuant to that Agreement;
-approved production limit under this Clause means a production level of 10,000,000 tonnes of iron ore per annum for transportation from the mining lease or such higher number of tonnes per annum as may be consented to from time to time by the Minister pursuant to subclauses (5) or (6) and become the subject of proposals approved or deemed to be approved pursuant to subclause (8);
-approved mine workforce means a mine workforce of 100 persons or such higher number as may be consented to from time to time by the Minister pursuant to subclause (4) and become the subject of proposals approved or deemed to be approved pursuant to subclause (8);
-BHP means BHP Minerals Pty. Ltd. and its successors and assigns who are parties with the State to the Processing Agreement;
-combined limit means the aggregate of —
+“11.(1)In this Clause —
+“aggregate project cost under the Processing Agreement” means the sum of $400,000,000 (June 1993 dollars) which is agreed or determined for the purposes of Clause 27 of the Processing Agreement to have been expended on the establishment of facilities for further processing or alternative investments pursuant to that Agreement;
+“approved production limit under this Clause” means a production level of 10,000,000 tonnes of iron ore per annum for transportation from the mining lease or such higher number of tonnes per annum as may be consented to from time to time by the Minister pursuant to subclauses (5) or (6) and become the subject of proposals approved or deemed to be approved pursuant to subclause (8);
+“approved mine workforce” means a mine workforce of 100 persons or such higher number as may be consented to from time to time by the Minister pursuant to subclause (4) and become the subject of proposals approved or deemed to be approved pursuant to subclause (8);
+“BHP” means BHP Minerals Pty. Ltd. and its successors and assigns who are parties with the State to the Processing Agreement;
+“combined limit” means the aggregate of —
 (i)the approved production limit under this Clause;
 (ii)the approved production limit under Clause 11A of the McCamey’s Agreement; and
 (iii)the approved production limit under clause 12 of the Mount Goldsworthy Agreement
@@ -81,4 +81,4 @@ Secretary M Appelbee
 THE COMMON SEAL of MITSUI IRON ORE CORPORATION PTY. LTD. was hereunto affixed by authority of the Directors in the presence of: | ) ) ) ) | C.S.
 Director N Hinohara
 Secretary J MacKenzie
-[Schedule 2 inserted by No. 29 of 1994 s. 15.]
+[Schedule 2 inserted: No. 29 of 1994 s. 15.]
