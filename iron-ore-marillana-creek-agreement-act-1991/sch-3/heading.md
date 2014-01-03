@@ -1,6 +1,6 @@
 ## Schedule 3 — Second Variation Agreement
 [s. 5]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 57 of 2000 s. 11; amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 11th day of April 2000.
 B E T W E E N
 THE HONOURABLE RICHARD FAIRFAX COURT B.Com., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part
@@ -47,4 +47,4 @@ YOICHI HASHIMOTO
 Director
 JOHN SMITH
 Secretary
-[Schedule 3 inserted by No. 57 of 2000 s. 11.]
+[Schedule 3 inserted: No. 57 of 2000 s. 11.]
