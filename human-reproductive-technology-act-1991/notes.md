@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Human Reproductive Technology Act 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 10 January 2014 of the Human Reproductive Technology Act 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Human Reproductive Technology Act 1991 | 22 of 1991 | 8 Oct 1991 | s. 1 and 2: 8 Oct 1991; Pt. 1 Div. 1 other than s. 1 and 2, Pt. 2, Pt. 6 and Sch.: 6 Mar 1992 (see s. 2 and Gazette 6 Mar 1992 p. 1107); Pt. 1 Div. 2, Pt. 3-5: 8 Apr 1993 (see s. 2)
@@ -27,8 +27,9 @@ Acts Amendment (Bankruptcy) Act 2009 s. 44 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 27 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Reprint 4: The Human Reproductive Technology Act 1991 as at 10 Jan 2014 (includes amendments listed above)
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The amendments to s. 29(3) in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 525(1)(c) are not included because it was unclear where it was intended to be made. Section 525(1)(c) reads as follows:
+The amendments to s. 29(3) in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 525(1)(c) are not included because it was unclear where they were intended to be made. Section 525(1)(c) reads as follows:
 (c) by deleting “it” after “as and after “provided”” and inserting instead —
 “ he or she ”.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 reads as follows:
@@ -39,9 +40,24 @@ Division 13 — Transitional provisions
 CEO has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
 commencement means the time at which this Division comes into operation;
 Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
-Defined Terms
+Rules3(1)
+specified57(2)
+State53T(1)
+State agency53ZK(3)
+storage3(4)
+storage procedure3(1)
+store3(4)
+stored3(4)(b)
+subsidiary legislation3(1)
+summary conviction penalty3(1)
+therapeutic use53S(4)
+this Act3(1)
+treatment3(1)
+valuable consideration53Q(4)
+woman3(1)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 AHEC53T(1)
 animal53B(1)
 approved counselling49(2f)
@@ -54,7 +70,7 @@ Chairperson3(1)
 chimeric embryo53B(1)
 Code3(1)
 Code of Practice3(1)
-commencement day49(2e)(a)
+commencement day49(2e)
 committee3(1)
 Commonwealth authority53ZK(3)
 Commonwealth Human Embryo Act3(1)
@@ -99,7 +115,7 @@ licensed ART centre53T(1)
 licensee3(1)
 medical practitioner3(1)
 member3(1)
-misbehaviourSch. cl. 5(2)
+misbehaviourSch. — cl. 5(2)
 NHMRC3(1)
 NHMRC licence3(1)
 NHMRC Licensing Committee53T(1)
@@ -108,7 +124,7 @@ observation53W(4)
 parliamentary purposes5(9)
 participant3(1)
 person to whom the licence applies3(1)
-practice3(3)(a)
+practice3(3)
 precursor cell53B(1)
 premises3(1)
 procedure3(1)
@@ -122,7 +138,7 @@ reasonable expenses53Q(4)
 record3(1), 5(9)
 related body corporate3(1)
 reproductive technology3(1)
-reproductive technology practice3(3)(a)
+reproductive technology practice3(3)
 research3(1)
 responsible person53T(1)
 Rules3(1)
@@ -132,7 +148,7 @@ State agency53ZK(3)
 storage3(4)
 storage procedure3(1)
 store3(4)
-stored3(4)(b)
+stored3(4)
 subsidiary legislation3(1)
 summary conviction penalty3(1)
 therapeutic use53S(4)
