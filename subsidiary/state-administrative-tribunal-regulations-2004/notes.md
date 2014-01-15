@@ -22,6 +22,7 @@ State Administrative Tribunal Amendment Regulations 2013 | 6 Aug 2013 p. 3649-56
 Reprint 3: The State Administrative Tribunal Regulations 2004 as at 18 Oct 2013 (includes amendments listed above)
 State Administrative Tribunal Amendment Regulations (No. 3) 2013 | 14 Nov 2013 p. 5069 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
 State Administrative Tribunal Amendment Regulations (No. 4) 2013 | 15 Nov 2013 p. 5245-7 | r. 1 and 2: 15 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Nov 2013 (see r. 2(b)(ii))
+State Administrative Tribunal Amendment Regulations (No. 2) 2013 | 14 Jan 2014 p. 43-4 | r. 1 and 2: 14 Jan 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Jan 2014 (see. r. 2(b))
 Deleted by the Local Government Act 1995 s. 9.70.
 Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 683.
 Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1125.
