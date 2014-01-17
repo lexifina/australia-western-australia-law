@@ -1,8 +1,11 @@
 Notes
-This is a compilation of the Water Services Act 2012. The following table contains information about that Act.
+This is a reprint as at 17 January 2014 of the Water Services Act 2012. The following table contains information about that Act and any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Water Services Act 2012 | 24 of 2012 | 3 Sep 2012 | s. 1 and 2: 3 Sep 2012 (see s. 2(a)); Act other than s. 1, 2, 68 and Pt. 4 Div. 4: 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5027) s. 68 and Pt. 4 Div. 4: 1 Jan 2014 (see s. 2(b) and Gazette 14 Nov 2013 p. 5027)
+Water Services Act 2012 | 24 of 2012 | 3 Sep 2012 | s. 1 and 2: 3 Sep 2012 (see s. 2(a)); Act other than s. 1, 2, 68 and Pt. 4 Div. 4: 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5027); s. 68 and Pt. 4 Div. 4: 1 Jan 2014 (see s. 2(b) and Gazette 14 Nov 2013 p. 5027)
+Reprint 1: The Water Services Act 2012 as at 17 Jan 2014
+The short title of the Fire and Emergency Services Authority of Western Australia Act 1998 was changed to the Fire and Emergency Services Act 1998 by the Fire and Emergency Services Legislation Amendment Act 2012 s. 5.
+The Fire and Emergency Services Authority (FESA) was abolished by the Fire and Emergency Services Legislation Amendment Act 2012 s. 43.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -26,7 +29,7 @@ charge3(1)
 class3(1)
 code of conduct3(1)
 code of practice3(1)
-commencement daySch. 1, cl. 1
+commencement daySch. 1 cl. 1
 common property sewer connection100(1)
 complainant63
 compliance notice90(5), 92(7), 104(2), 105(2), 119(1)
@@ -72,19 +75,19 @@ irrigation3(1)
 irrigation service3(1)
 Land Administration Minister164
 last resort supply plan50
-licence3(1), 217
+licence3(1)
 licensee3(1)
 major works132(1)
 member of a licensee3(1)
 meter3(1)
 mobile home3(1)
-new provisionSch. 1, cl. 1
+new provisionSch. 1 cl. 1
 non-standard water service74(5)
 occupier3(1), 101(1), 129(1), 130(5), 171(1)
 offence provision194(1)
 officer196(1), 214(1)
 official219(1)
-old provisionSch. 1, cl. 1
+old provisionSch. 1 cl. 1
 operate3(1)
 operating area3(1)
 organisation212(8), 213(8)
@@ -112,9 +115,9 @@ rectification notice31(1)
 Registrar76(1), 128(1)
 relevant information214(1)
 relevant interest165(1)
-relevant provisionSch. 1, cl. 1
+relevant provisionSch. 1 cl. 1
 remote communication184
-repealed ActSch. 1, cl. 8(1)
+repealed ActSch. 1 cl. 8(1)
 responsible person218(1)
 road3(1)
 routine inspection129(1)
