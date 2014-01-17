@@ -1,6 +1,6 @@
 ## Third Schedule — Second Supplementary Agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted by No. 48 of 1968 s. 6; amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT under Seal made the 8th day of October 1968 BETWEEN THE HONOURABLE DAVID BRAND M.L.A. Premier and Treasurer of the State of Western Australia, acting for and on behalf of the said State and instrumentalities thereof from time to time (hereinafter called “the State”) of the one part AND HAMERSLEY IRON PTY. LIMITED a company incorporated under the Companies Act 1961 of the State of Victoria and having its registered office in the State of Western Australia at 185 St. George’s Terrace, Perth (hereinafter called “the Company” which expression will include the successors and assigns of the Company including where the context so admits the assignees and appointees of the Company under clause 20 of the Principal Agreement (as hereinafter defined) or under that clause as applying to this Agreement) of the other part —
 WHEREAS
 (a)The Company has pursuant to and in compliance with clauses 4, 5 and 10(1) of the Principal Agreement established a mine, a railway, townsites, a harbour, a wharf and extensive works, services and facilities relating to the foregoing;
@@ -212,4 +212,4 @@ DIRECTOR.
 [C.S.]
 C. J. WYATT
 SECRETARY.
-[Third Schedule inserted by No. 48 of 1968 s.6.]
+[Third Schedule inserted by No. 48 of 1968 s. 6.]

@@ -1,6 +1,6 @@
 ## Second Schedule — First Supplementary Agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted by No. 98 of 1964 s. 6; amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT under seal made the twenty-seventh day of October One thousand nine hundred and sixty-four BETWEEN THE HONOURABLE DAVID BRAND, M.L.A. Premier and Treasurer of the State of Western Australia acting for and on behalf of the said State and instrumentalities thereof from time to time (hereinafter called “the State”) of the one part and HAMERSLEY IRON PTY. LIMITED a company incorporated under the Companies Act 1961 of the State of Victoria and having its registered office and principal place of business in that State at 95 Collins Street Melbourne and its registered office in the State of Western Australia at 37 Saint George’s Terrace Perth (hereinafter called “the Company” which expression will include the successors and assigns of the Company including where the context so admits the assignees and appointees of the Company under clause 20 of the agreement hereinafter referred to) of the other part.
 NOW THIS AGREEMENT WITNESSETH:
 1.This Agreement shall have no force or effect and shall not be binding upon either party until it is approved by the Parliament of Western Australia.
@@ -34,4 +34,4 @@ F. S. ANDERSON
 Director
 PETER FITZGERALD
 Secretary
-[Second Schedule inserted by No. 98 of 1964 s.6.]
+[Second Schedule inserted by No. 98 of 1964 s. 6.]

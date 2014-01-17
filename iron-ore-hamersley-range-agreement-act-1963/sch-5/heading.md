@@ -1,6 +1,6 @@
 ## Fifth Schedule — Fourth Supplementary Agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted by No. 93 of 1976 s. 4; amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT made the 5th day of October, 1976 BETWEEN THE HONOURABLE SIR CHARLES WALTER MICHAEL COURT, O.B.E., M.L.A., Premier of the State of Western Australia acting for and on behalf of the said State and Instrumentalities thereof from time to time (hereinafter called “the State”) of the one part and HAMERSLEY IRON PTY. LIMITED a company incorporated under the Companies Act 1961 of the State of Victoria and having its registered office and principal place of business in that State at 31 Spring Street, Melbourne and its registered office in the State of Western Australia at 191 St George’s Terrace, Perth (hereinafter called “the Company” which expression will include the successors and assigns of the Company including where the context so admits the assignees and appointees of the Company under clause 20 of the principal Agreement as hereinafter defined) of the other part —
 WHEREAS
 (a)The Company has increased the capacity of its existing pelletising plant being the plant for secondary processing of iron ore constructed pursuant to clause 12 of the principal Agreement from two million (2 000 000) tons of iron ore pellets per annum to three million (3 000 000) tons of iron ore pellets per annum; and
@@ -36,4 +36,4 @@ DEVELOPMENT.
 THE COMMON SEAL of HAMERSLEY IRON PTY. LIMITED was hereunto affixed in the presence of — |  | [C.S.]
 Director.DONALD S. STEWART,
 Secretary.C. J. S. RENWICK,
-[Fifth Schedule inserted by No. 93 of 1976 s.4.]
+[Fifth Schedule inserted by No. 93 of 1976 s. 4.]

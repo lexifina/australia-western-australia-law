@@ -1,6 +1,6 @@
 ## Sixth Schedule — Fifth Supplementary Agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted by No. 26 of 1979 s. 4; amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT made the 9th day of May, 1979 BETWEEN THE HONOURABLE SIR CHARLES WALTER MICHAEL COURT, K.C.M.G., O.B.E., M.L.A., Premier of the State of Western Australia acting for and on behalf of the said State and Instrumentalities thereof from time to time (hereinafter called “the State”) of the one part and HAMERSLEY IRON PTY. LIMITED a company incorporated under the Companies Act 1961 of the State of Victoria and having its registered office and principal place of business in that State at 31 Spring Street, Melbourne, and its registered office in the State of Western Australia at 191 St. George’s Terrace, Perth (hereinafter called “the Company” which expression will include the successors and assigns of the Company including where the context so admits the assignees and appointees of the Company under clause 20 of the Principal Agreement as hereinafter defined) of the other part —
 WHEREAS:
 It is desired to amend the Principal Agreement as hereinafter provided.
@@ -27,4 +27,4 @@ C. A. WATTS,
 Director.
 L. A. WARNICK,
 Secretary.
-[Sixth Schedule inserted by No. 26 of 1979 s.4.]
+[Sixth Schedule inserted by No. 26 of 1979 s. 4.]
