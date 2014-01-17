@@ -5,7 +5,7 @@ Item | Matter | Fee
 1. | Application for approval of purpose of an association under section 4(1)(f) | $41.60
 2. | Application for incorporation of an association under section 5(1) | $138.00
 3. | Application for approval to apply for registration or incorporation as a prescribed body corporate under section 10B(2) | $293.00
-4. | (a)Lodgment of notice of special resolution setting out particulars of alteration of rules of an association under section 17 (b)Where alteration of rules has effect to change name of an association, on approval of change of name and issue of certificate of incorporation on change of name under section 18(6) (c)Where alteration of rules has effect to change objects or purposes of an association, on approval of the alteration under section 19 | 23.10 23.10 23.10
+4. | (a)Lodgment of notice of special resolution setting out particulars of alteration of rules of an association under section 17 (b)Where alteration of rules has effect to change name of an association, on approval of change of name and issue of certificate of incorporation on change of name under section 18(6) (c)Where alteration of rules has effect to change objects or purposes of an association, on approval of the alteration under section 19 | $23.10 $23.10 $23.10
 5. | Lodgment of application for extension of period for holding an annual general meeting under section 23(1).. | $41.60
 6. | Lodgment of application for approval of variation of provisions of rules of an association relating to distribution of surplus property upon winding up under section 33(4) | $38.50
 7. | Lodgment of distribution plan under section 33(6) | $41.70
