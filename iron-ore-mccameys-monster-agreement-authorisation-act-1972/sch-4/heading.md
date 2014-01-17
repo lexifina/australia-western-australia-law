@@ -1,6 +1,6 @@
 ## Schedule 4 — Third Variation Agreement
 [s. 6]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 57 of 2000 s. 14; amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 11th day of April 2000.
 B E T W E E N :
 THE HONOURABLE RICHARD FAIRFAX COURT B.Com., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part
@@ -40,4 +40,4 @@ STEFANO GIORGINI
 Director
 MICHAEL KNOWLES
 Secretary
-[Schedule 4 inserted by No. 57 of 2000 s. 14.]
+[Schedule 4 inserted: No. 57 of 2000 s. 14.]
