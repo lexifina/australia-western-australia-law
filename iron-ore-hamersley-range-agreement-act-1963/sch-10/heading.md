@@ -1,6 +1,6 @@
 ## Tenth Schedule — Ninth Supplementary Agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted by No. 32 of 1990 s. 6; amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made this 14th day of June 1990
 BETWEEN:
 THE HONOURABLE CARMEN MARY LAWRENCE, B.Psych., Ph.D., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part
@@ -85,7 +85,7 @@ Where iron ore concentration products are produced from an admixture of iron ore
 “including contracts”;
 (b)deleting “f.o.b. revenue payable in respect of any shipment of iron ore hereunder the Company will take reasonable steps” and substituting the following —
 “f.o.b. value in respect of any shipment sale transfer or other disposal or use or production of iron ore hereunder the Company will take reasonable steps (i) to provide the Minister with current prices for iron ore and other details and information that may be required by the Minister for the purpose of agreeing or determining the f.o.b. value and (ii)”;
-(c)by deleting “hereunder; and” and substituting the following-
+(c)by deleting “hereunder; and” and substituting the following -
 “hereunder.”.
 (6)By deleting clause 10(2)(o).
 (7)By inserting after clause 10H the following clause —
@@ -150,4 +150,4 @@ MINISTER FOR RESOURCES
 THE COMMON SEAL of HAMERSLEY IRON PTY. LIMITED was hereunto affixed by authority of the Directors in the presence of: |  | [C.S.]
 Director M. A. O’LEARY
 Secretary G. BABON
-[Tenth Schedule inserted by No. 32 of 1990 s.6.]
+[Tenth Schedule inserted by No. 32 of 1990 s. 6.]

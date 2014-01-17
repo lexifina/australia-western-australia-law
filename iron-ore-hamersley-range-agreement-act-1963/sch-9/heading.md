@@ -1,6 +1,6 @@
 ## Ninth Schedule — Eighth Supplementary Agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted by No. 60 of 1987 s. 6; amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT made this 27th day of October 1987
 BETWEEN:
 THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and
@@ -57,7 +57,7 @@ by inserting after “townsite” the following —
 “(aa)that the Company may use or permit to be used any works installations facilities equipment and services provided by the Company hereunder for the purpose of this Agreement for or in connection with the implementation of proposals approved under the Channar Agreement;”.
 5.The Paraburdoo Agreement is hereby varied as follows —
 (1)Clause 7 sub-clause (4) —
-by inserting after “(j),”the following —
+by inserting after “(j),” the following —
 “(ja),”.
 (2)Clause 11 sub-clause (1) —
 by inserting after “8(1),” the following —
@@ -71,4 +71,4 @@ MINISTER FOR MINERALS AND ENERGY
 THE COMMON SEAL OF HAMERSLEY IRON PTY. LIMITED was hereunto affixed by authority of the Directors in the presence of: |  | (C.S.)
 Director M. A. O’LEARY
 Director C. J. S. RENWICK
-[Ninth Schedule inserted by No. 60 of 1987 s.6.]
+[Ninth Schedule inserted by No. 60 of 1987 s. 6.]
