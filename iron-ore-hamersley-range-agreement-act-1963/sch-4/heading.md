@@ -1,6 +1,6 @@
 ## Fourth Schedule — Third Supplementary Agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted by No. 39 of 1972 s. 4; amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT made the 10th day of March One thousand nine hundred and seventy-two BETWEEN THE HONOURABLE JOHN TREZISE TONKIN, M.L.A., Premier of the State of Western Australia acting for and on behalf of the said State and Instrumentalities thereof from time to time (hereafter called “the State”) of the one part and HAMERSLEY IRON PTY. LIMITED a company incorporated under the Companies Act 1961 of the State of Victoria and having its registered office and principal please of business in that State at 95 Collins Street Melbourne and its registered office in the State of Western Australia at 191 St. George’s Terrace Perth (hereinafter called “the Company” which expression will include the assignees and appointees of the Company under clause 20 of the Agreement a copy of which is set out in the First Schedule to the Iron Ore (Hamersley Range) Agreement Act 1963 (as that clause applies to the agreement hereinafter defined as the “amending Agreement”)) of the other part —
 WHEREAS —
 (a)there are references in the amending Agreement (as hereinafter defined) to the Agreement forming the Second Schedule to the Iron Ore (Hanwright) Agreement Act 1967 (which Agreement (as amended) is hereinafter referred to as “the Hanwright Agreement”);
@@ -37,4 +37,4 @@ R. T. MADIGAN,
 Director.
 JOHN CALDER,
 Secretary.
-[Fourth Schedule inserted by No. 39 of 1972 s.4.]
+[Fourth Schedule inserted by No. 39 of 1972 s. 4.]

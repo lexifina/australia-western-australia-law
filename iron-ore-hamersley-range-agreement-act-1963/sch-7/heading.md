@@ -1,6 +1,6 @@
 ## Seventh Schedule — Sixth Supplementary Agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted by No. 39 of 1982 s. 4; amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT made this 26th day of April 1982, BETWEEN THE HONOURABLE RAYMOND JAMES O’CONNOR, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and HAMERSLEY IRON PTY. LIMITED a company incorporated under the Companies Act 1961 of the State of Victoria and having its registered office and principal place of business in that State at 55 Collins Street, Melbourne and its registered office in the State of Western Australia at 191 Saint George’s Terrace, Perth (hereinafter called “the Company” in which term shall be included its successors and permitted assigns and appointees) of the other part.
 WHEREAS:
 (a)by an agreement made the 30th day of July, 1963 between the parties hereto (which agreement was approved by and its scheduled to the Iron Ore (Hamersley Range) Agreement Act 1963 and is hereinafter referred to as “the 1963 Agreement”) the Company acquired upon the terms and conditions therein set forth certain rights interests and benefits and assumed certain obligations with respect to the exploration for and development of specified iron ore deposits at Tom Price and the mining transportation processing and shipment of iron ore therefrom;
@@ -144,4 +144,4 @@ Minister for Resources Development
 THE COMMON SEAL of HAMERSLEY IRON PTY. LIMITED was hereto affixed by authority of the Directors and in the presence of: |  | [C.S.]
 Director T. BARLOW
 Secretary J. R. WOOD
-[Seventh Schedule inserted by No. 39 of 1982 s.4.]
+[Seventh Schedule inserted by No. 39 of 1982 s. 4.]
