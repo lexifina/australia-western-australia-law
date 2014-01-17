@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Associations Incorporation Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 17 January 2014 of the Associations Incorporation Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Associations Incorporation Regulations 1988 | 24 Jun 1988 p. 1998-2001 | 25 Jul 1988 (see r. 2 and Gazette 24 Jun 1988 p. 1995)
@@ -28,8 +28,10 @@ Associations Incorporation Amendment Regulations 2011 | 25 Feb 2011 p. 651-2 | r
 Associations Incorporation Amendment Regulations (No. 2) 2011 | 22 Jun 2011 p. 2335-6 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Associations Incorporation Amendment Regulations (No. 2) 2013 | 27 Jun 2013 p. 2671-2 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Associations Incorporation Amendment Regulations 2013 | 20 Aug 2013 p. 3821 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Consumer and Employment Protection was called the Department of Commerce.
-Defined Terms
+Reprint 5: The Associations Incorporation Regulations 1988 as at 17 Jan 2014 (includes amendments listed above)
+The Consumer Affairs Act 1971, under which the Commissioner for Consumer Protection existed, ceased to apply on 1 January 2011 after the Fair Trading Act 2010 Part 10 came into force except for certain limited purposes. Under the Fair Trading Act 2010 s. 6 “Commissioner” means the person for the time being designated as the Commissioner under s. 55 of that Act.
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection was called the Department of Commerce.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Corporations Act3
