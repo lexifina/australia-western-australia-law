@@ -1,6 +1,6 @@
 ## Schedule 2 — First Variation Agreement
 [s. 4]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 45 of 1986 s. 8; amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 14th day of July 1986
 BETWEEN:
 THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and
@@ -271,4 +271,4 @@ ENERGY
 THE COMMON SEAL of HANCOCK MINING LIMITED was hereunto affixed by authority of the Director in the presence of: |  | (C.S.)
 DirectorL. G. HANCOCK
 SecretaryR. H. WOODLAND
-[Schedule 2 inserted by No. 45 of 1986 s. 8.]
+[Schedule 2 inserted: No. 45 of 1986 s. 8.]
