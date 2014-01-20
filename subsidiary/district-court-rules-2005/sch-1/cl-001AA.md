@@ -4,6 +4,8 @@ Memorandum of appearance
 Parties | Plaintiff Defendant
 Enter an appearance for the *Defendant/Third party/ *delete inapplicable or add further party title
 Date of filing
+Disclosure pursuant to RSC Order 9A
+Identity of any person who is an interested non-party (If applicable: see Rules of the Supreme Court 1971 Order 9A rule 2 and District Court Rules 2005 rule 22A(3))
 Service and contact details
 Geographical address of party (Must be provided unless otherwise ordered by the Court: see Rules of the Supreme Court 1971 Order 71A rule 2 and District Court Rules 2005 rule 22C)
 Name of lawyer (If one has been appointed)
@@ -14,4 +16,4 @@ Telephone number
 Reference
 Signature of party or lawyer | Party/lawyer | Date of signing:
 Note to Form 1AA — 1.If not held at Perth, state the location of the relevant registry.
-[Form 1AA inserted in Gazette 26 Jul 2013 p. 3417-18.]
+[Form 1AA inserted in Gazette 26 Jul 2013 p. 3417-18; amended in Gazette 31 Dec 2013 p. 6556.]
