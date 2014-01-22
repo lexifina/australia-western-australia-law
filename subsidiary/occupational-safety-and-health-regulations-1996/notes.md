@@ -81,6 +81,7 @@ Occupational Safety and Health Amendment Regulations (No. 2) 2012 | 27 Jul 2012 
 Reprint 9: The Occupational Safety and Health Regulations 1996 as at 4 Jan 2013 (includes amendments listed above)
 Occupational Safety and Health Amendment Regulations (No. 2) 2013 | 14 Jun 2013 p. 2253-4 | r. 1 and 2: 14 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Jun 2013 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 3) 2013 | 27 Jun 2013 p. 2693-6 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
+Occupational Safety and Health Amendment Regulations (No. 4) 2013 | 21 Jan 2014 p. 84-5 | r. 1 and 2: 21 Jan 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jan 2014 (see r. 2(b))
 The Industrial Relations Act 1988 (Cwlth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 Repealed by the Building Act 2011.
 Repealed by the Work Health and Safety (Transitional and Consequential Provisions) Act 2011 (Cwlth).
