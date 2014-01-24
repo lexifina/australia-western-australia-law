@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Country Areas Water Supply Act 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 24 January 2014 of the Country Areas Water Supply Act 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Country Areas Water Supply Act 1947 | 62 of 1947 (11 and 12 Geo. VI No. 62) | 10 Jan 1948 | 1 Jan 1949 (see s. 1 and Gazette 24 Dec 1948 p. 3038-9)
@@ -49,7 +49,7 @@ Compilation table
  | Water Services Coordination Amendment Act 1999 s. 11(3) | 39 of 1999 | 9 Nov 1999 | 19 Jun 2000 (see s. 2 and Gazette 16 Jun 2000 p. 2939)
  | Rights in Water and Irrigation Amendment Act 2000 s. 83 | 49 of 2000 | 28 Nov 2000 | 10 Jan 2001 (see s. 2 and Gazette 10 Jan 2001 p. 163)
  | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
- | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 28, | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
+ | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 28 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
  | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
  | Water Legislation Amendment (Competition Policy) Act 2005 Pt. 2 | 25 of 2005 | 12 Dec 2005 | 3 Jun 2006 (see s. 2 and Gazette 2 Jun 2006 p. 1985)
  | Reprint 7: The Country Areas Water Supply Act 1947 as at 7 Apr 2006 (includes amendments listed above except those listed in the Water Legislation Amendment (Competition Policy) Act 2005)
@@ -66,23 +66,20 @@ Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009
  | Reprint 9: The Country Areas Water Supply Act 1947 as at 4 May 2012 (includes amendments listed above except those listed in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
  | Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 2 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
  | Water Services Legislation Amendment and Repeal Act 2012 Pt. 2 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+ | Reprint 10: The Country Areas Water Supply Act 1947 as at 24 Jan 2014 (includes amendments listed above)
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
-Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Formerly referred to the Water Authority Act 1984, the short title of which was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Water Resources Legislation Amendment Act 2007.
 Repealed by section 4 of this Act (and see endnote 2).
-Repealed by the Mining Act 1978.
-Under the Alteration of Statutory Designations Order 2003, a reference in any law to the Department of Mines is, unless the contrary intention appears, to be read and construed as a reference to the Department of Industry and Resources.
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Industry and Resources is called the Department of Mines and Petroleum.
+Renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973 s. 4.
-Lapsed on 27 March 1991 under the Interpretation Act 1984 s. 42(2).
+Ceased to have effect on 27 March 1991 under the Interpretation Act 1984 s. 42(2).
 The Sentencing (Consequential Provisions) Act 1995 Pt. 16 is not included because it had been deleted by the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 23(2) prior to commencement.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 43 contains provisions which may be relevant for this Act.
-The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or deleted by that Act.
-Footnote no longer applicable. An amendment made by the Fire and Emergency Services Legislation Amendment Act 2012 s. 113(7)(b) showed that the effect was to duplicate “the” in s. 37(15) of this Act.
+The Machinery of Government (Miscellaneous Amendments) Act 2006 s. 454 provides general transitional provisions concerning references to chief executive officers that are amended or deleted by that Act.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -90,15 +87,8 @@ by-laws5(1)
 catchment area5(1)
 CEO5(1)
 controlled land12AA
-Corporation5(1)
-country water area5(1)
 Department5(1)
 district5(1)
-farm land5(1)
-FES Commissioner37(1)
-Fire Brigades Act37(1)
-fire district37(1)
-fire hydrant37(1)
 former authority5(1)
 former Authority5(1)
 former Commission5(1)
@@ -107,22 +97,10 @@ former Minister5(1)
 Goldfields Water Supply Act5(1)
 holding5(1)
 land in question12AA
-metropolitan area5(1)
-officer5(1)
-old section 85(1) notice83(4)
-old section 90 notice88A(4)
-order45(5)
 prescribed5(1)
-proclaimed day37(1)
 Registrar of Deeds5(1)
-re-instatement37(1)
 subject land12AA
 to clear12AA
-townsite5(1)
-water board5(1)
-Water Boards Act5(1)
 water reserve5(1)
-Water Supply Act5(1)
-water supply charge5(1)
 water works5(1)
 watercourse5(1)
