@@ -1,7 +1,7 @@
 ## Second Schedule — Fire districts
 [s. 5]
 [Heading amended by No. 19 of 2010 s. 4.]
-Fire District | Local Government District or part thereof constituting Fire District
+Fire district | Local government district or part thereof constituting fire district
 Part I
 Metropolitan Fire District | Perth
 Part II
