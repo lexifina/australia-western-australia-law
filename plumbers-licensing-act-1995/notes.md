@@ -1,16 +1,16 @@
 Notes
-This is a compilation of the Plumbers Licensing Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 24 January 2014 of the Plumbers Licensing Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Water Services Coordination Act 1995 | 72 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2 and Gazette 29 Dec 1995 p. 6291)
 Taxes and Charges (Land Subdivision) Legislation Amendment Act 1996 Pt. 5 | 12 of 1996 | 28 Jun 1996 | 28 Jun 1996 (see s. 2)
 Water Legislation Amendment Act 1997 Pt. 6 | 32 of 1997 | 3 Oct 1997 | 15 Apr 1998 (see s. 2 and Gazette 15 Apr 1998 p. 2041)
 Water Services Coordination Amendment Act 1997 | 33 of 1997 | 3 Oct 1997 | 3 Oct 1997 (see s. 2)
-Water Services Coordination Amendment Act 1999 s. 3 to 10 | 39 of 1999 | 9 Nov 1999 | 19 Jun 2000 (see s. 2 and Gazette 16 Jun 2000 p. 2939)
+Water Services Coordination Amendment Act 1999 | 39 of 1999 | 9 Nov 1999 | s. 1 and 2: 9 Nov 1999; Act other than s. 1 and 2: 19 Jun 2000 (see s. 2 and Gazette 16 Jun 2000 p. 2939)
 Gas Corporation (Business Disposal) Act 1999 s. 87 | 58 of 1999 | 24 Dec 1999 | 1 Jul 2000 (see s. 2(2) and Gazette 4 Jul 2000 p. 3545)
 Reprint of the Water Services Coordination Act 1995 as at 28 Jul 2000 (includes amendments listed above)
 Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
-Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
+Economic Regulation Authority Act 2003 Sch. 2 Div. 18 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 128 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 133 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Financial Administration Legislation Amendment Act 2005 s. 46 | 5 of 2005 | 27 Jun 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6243)
@@ -25,7 +25,7 @@ Building Services (Complaint Resolution and Administration) Act 2011 s. 130 | 16
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 4 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Reprint 3: The Water Services Licensing Act 1995 as at 6 Jul 2012 (includes amendments listed above)
 Water Services Legislation Amendment and Repeal Act 2012 Pt. 8 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
-Under the Land Administration Act 1997 s. 281(3), references to the Land Act 1933 may be construed as references to the Land Administration Act 1997.
+Reprint 4: The Plumbers Licensing Act 1995 as at 24 Jan 2014 (includes amendments listed above)
 Short title was initially the Water Services Coordination Act 1995 and was subsequently changed to the Water Services Licensing Act 1995, and now known as the Plumbers Licensing Act 1995 (see note under s. 1).
 The Taxes and Charges (Land Subdivision) Legislation Amendment Act 1996 Pt. 6 is a review provision that is of no further effect.
 The Economic Regulation Authority Act 2003 s. 63(1), which gives effect to Sch. 3, reads as follows:
@@ -81,47 +81,16 @@ The operation of any provision of this Schedule is not to be regarded —
 (d) as causing any contract or instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The amendment to s. 57 in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1302 is not included because the section it seeks to amend was repealed by the Economic Regulation Authority Act 2003 s. 62.
+The amendment to s. 57 in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1302 is not included because the section it seeks to amend was deleted by the Economic Regulation Authority Act 2003 Sch. 2 cl. 107.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-affected land46A
-asset46A
-assets46K
-Authority3
 Board3
 Building Services Account59J(3)
-controlled area3
-Corporation45(4)
 department3
 document59F(5)
-except as agreed46C(2)
-existing operator21(1)
-holding body46K
 information59F(5)
-inspector3
-irrigation3
-LAA Minister44B(3)
-licence3
-licensee3
-operating licence3
 plumber3
 plumbing work59I
-public authority44A(1)
-Registrar44F(1)
-Registrar of Deeds3
-relevant interest44A(1)
-relevant official46G(4)
 specified59I
 staff59F(5)
-statutory asset owner46A
-technical standards38(1)
-transfer day46A
-transfer order46A
-transferee46A
-transferor46C(2)
-water services3
-water services charge44F(1)
-water services works3
-watercourse3
-works46A
