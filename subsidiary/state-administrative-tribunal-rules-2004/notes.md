@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 July 2013 of the State Administrative Tribunal Rules 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the State Administrative Tribunal Rules 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 State Administrative Tribunal Rules 2004 | 30 Dec 2004 p. 6849-89 | 1 Jan 2005 (see r. 2)
@@ -12,6 +12,7 @@ State Administrative Tribunal Amendment Rules (No. 2) 2008 | 29 Aug 2008 p. 4043
 State Administrative Tribunal Amendment Rules 2010 | 9 Jul 2010 p. 3240-2 | r. 1 and 2: 9 Jul 2010 (see r. 2(a)); Rules other than r. 1 and 2: 10 Jul 2010 (see r. 2(b))
 State Administrative Tribunal Amendment Rules 2013 | 14 May 2013 p. 1969-70 | r. 1 and 2: 14 May 2013 (see r. 2(a)); Rules other than r. 1 and 2: 15 May 2013 (see r. 2(b))
 Reprint 2: The State Administrative Tribunal Rules 2004 as at 19 Jul 2013 (includes amendments listed above)
+State Administrative Tribunal Amendment Rules (No. 2) 2013 | 28 Jan 2014 p. 181-2 | r. 1 and 2: 28 Jan 2014 (see r. 2(a)); Rules other than r. 1 and 2: 29 Jan 2014 (see r. 2(b))
 Schedule deleted by the State Administrative Tribunal Amendment Regulations (No. 2) 2007 r. 8 (see Gazette 26 June 2007 p. 2979-96).
 Repealed by the Medical Practitioners Act 2008, which was repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
 Section 67(3b) deleted by the Security and Related Activities (Control) Amendment Act 2008 s. 46(4).
