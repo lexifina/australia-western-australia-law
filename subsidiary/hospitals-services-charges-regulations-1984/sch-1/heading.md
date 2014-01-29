@@ -24,13 +24,13 @@
  | (b)for ineligible out-patients — for each individual service rendered | $203
 5. | Drugs and medication, for each item —
  | (a)for holders of an entitlement card | no charge
- | (b)for other people who are — •war service veterans who hold a — •personal treatment entitlement card; or •specific treatment entitlement card •pensioners; or •concessional beneficiaries | $5.90
+ | (b)for other people who are — •war service veterans who hold a — •personal treatment entitlement card; or •specific treatment entitlement card •pensioners; or •concessional beneficiaries | $6.00
  | (c)for all other people —
  | (i)at a participating hospital —
- | (I)for an item on the PBS list | PBS price up to a maximum of $36.10
- | (II)for an item not on the PBS list ..... | $28.90
- | (ii)at a hospital that is not a participating hospital | $28.90
-[Division 3 inserted in Gazette 29 Jun 2004 p. 2527; amended in Gazette 11 Mar 2005 p. 914; 28 Jun 2005 p. 2922; 3 Feb 2006 p. 518; 13 Jun 2006 p. 2062; 14 Nov 2006 p. 4727; 23 Jan 2007 p. 182; 10 Jul 2007 p. 3419; 25 Jan 2008 p. 213-14; 10 Jun 2008 p. 2489; 10 Feb 2009 p. 273-4; 1 May 2009 p. 1435; 23 Jun 2009 p. 2463; 19 Jan 2010 p. 148-9; 30 Jun 2010 p. 3100; 11 Feb 2011 p. 480; 3 Jun 2011 p. 1977; 30 Dec 2011 p. 5576; 15 Jun 2012 p. 2518; 4 Jan 2013 p. 4; 28 Jun 2013 p. 2753.]
+ | (I)for an item on the PBS list | PBS price up to a maximum of $36.90
+ | (II)for an item not on the PBS list ..... | $29.50
+ | (ii)at a hospital that is not a participating hospital | $29.50
+[Division 3 inserted in Gazette 29 Jun 2004 p. 2527; amended in Gazette 11 Mar 2005 p. 914; 28 Jun 2005 p. 2922; 3 Feb 2006 p. 518; 13 Jun 2006 p. 2062; 14 Nov 2006 p. 4727; 23 Jan 2007 p. 182; 10 Jul 2007 p. 3419; 25 Jan 2008 p. 213-14; 10 Jun 2008 p. 2489; 10 Feb 2009 p. 273-4; 1 May 2009 p. 1435; 23 Jun 2009 p. 2463; 19 Jan 2010 p. 148-9; 30 Jun 2010 p. 3100; 11 Feb 2011 p. 480; 3 Jun 2011 p. 1977; 30 Dec 2011 p. 5576; 15 Jun 2012 p. 2518; 4 Jan 2013 p. 4; 28 Jun 2013 p. 2753; 28 Jan 2014 p. 180.]
 ## Division 4 — Same day patients
 6. | Same day treatment, other than a service subject to any determination made under regulation 5 associated with the rendering of such treatment —
  | (a)for public same day patients | no charge
