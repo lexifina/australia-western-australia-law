@@ -38,15 +38,14 @@ ItemInstruction
 ItemInstruction
 1.Ensure that the equipment is switched on, that there is sufficient paper in the paper roll in the printer compartment, and that the words “READY TO START” appear on the display panel.
 2.Push the pad marked “START” on the keyboard and then use the keyboard to enter particulars relating to the analysis.
-3.Connect a mouthpiece to the sampling hose.
-4.After the words “PLEASE BLOW” appear on the display panel direct the person whose breath is to be analysed to provide a sample of the person’s breath into the equipment.
+3.After the words “PLEASE BLOW” appear on the display panel connect a mouthpiece to the sampling hose.
+4.Direct the person whose breath is to be analysed to provide a sample of the person’s breath into the equipment.
 5.If the expression “TEST REPEAT Y/N” appears on the display panel indicating that a sample of breath has not been provided as required then —
 EITHER
-5.1Press the pad marked “Y”.
-5.1.1Press the pad marked “ENTER” on the keyboard and follow instruction 4 again.
+5.1Press the pad marked “Y” on the keyboard.
+5.1.1Press the pad marked “ENTER” on the keyboard.
+5.1.2Follow instructions 3 and 4 again.
 OR
 5.2Press the pad marked “N” on the keyboard.
-5.2.1Press the pad marked “ENTER” on the keyboard.
-5.2.2After the words “READY TO START” appear on the display panel press the pad marked “0” on the keyboard.
-5.2.3After the words “OVERRlDE START” appear on the display panel follow instructions 2 and 4 again.
-[Second Schedule amended in Gazette 24 Dec 1987 p. 4563-4.]
+5.2.1Press the pad marked “ENTER” on the keyboard to terminate the analysis.
+[Second Schedule amended in Gazette 24 Dec 1987 p. 4563-4; 28 Jan 2014 p. 183.]
