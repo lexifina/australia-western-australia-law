@@ -24,9 +24,6 @@ Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 7 | 22 of 
 Financial Management (Statutory Authorities) Regulations 2012 published in Gazette 7 Dec 2012 p. 5998 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2012 (see r. 2(b))
 Financial Management (Statutory Authorities) Regulations 2013 published in Gazette 9 Jul 2013 p. 3048 | r. 1 and 2: 9 Jul 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jul 2013 (see r. 2(b))
 Water Services Legislation Amendment and Repeal Act 2012 s. 212 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Minerals Research Institute of Western Australia Act 2013 s. 77 | 23 of 2013 | 18 Dec 2013 | 1 Feb 2014 (see s. 2(b) and Gazette 14 Jan 2014 p. 43)
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 The Real Estate and Business Agents Supervisory Board was abolished on 1 Jul 2011. The Real Estate and Business Agents Act 1978 s. 149 and 150 read as follows:
@@ -40,11 +37,6 @@ Subject to sections 132 and 133, at the beginning of the commencement day, the f
 126.References to the former Board
 If in a written law or other document or instrument there is a reference to the former Board, that reference may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
 The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Minerals Research Institute of Western Australia Act 2013 s. 77 had not come into operation. It reads as follows:
-77.Financial Management Act 2006 amended
-(1) This section amends the Financial Management Act 2006.
-(2) In Schedule 1 delete the item for Minerals and Energy Research Institute of Western Australia and insert:
-Minerals Research Institute of Western Australia
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
