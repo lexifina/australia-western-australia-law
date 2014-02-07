@@ -1,6 +1,6 @@
 ## Second Schedule — First Variation Agreement
 [s. 3]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 58 of 1971 s. 5; amended: No. 19 of 2010 s. 4.]
 IRON ORE (MOUNT GOLDSWORTHY) AGREEMENT
 THIS FIRST VARIATION AGREEMENT made this 26th day of August 1971 BETWEEN THE HONOURABLE JOHN TREZISE TONKIN, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and Instrumentalities thereof from time to time (hereinafter called “the State”) of the one part and CONSOLIDATED GOLD FIELDS AUSTRALIA LIMITED a Company incorporated under the Companies Ordinances of the Australian Capital Territory and having its executive office at Gold Fields House, Sydney Cove in the State of New South Wales and its registered office in the State of Western Australia (hereinafter referred to as “the said State”) at 156 Saint George’s Terrace, Perth, CYPRUS MINES CORPORATION a Corporation incorporated in the State of New York in the United States of America and having its executive offices situate at 1234 Pacific Mutual Building, 523 West Sixth Street, Los Angeles California in the United States of America and UTAH DEVELOPMENT COMPANY a Corporation incorporated under the laws of the State of Nevada in the United States of America with its executive offices situate at 550 California Street, San Francisco in the said United States of America and having its registered office in the State of Queensland at Pearl Assurance House at the corner of Queen and Eagle Streets, Brisbane (hereinafter called “the Joint Venturers” in which term shall be included the Joint Venturers and each of them and their and each of their respective successors and assigns) of the other part.
 WHEREAS: —
@@ -131,4 +131,4 @@ SIGNED SEALED AND DELIVERED for and on behalf of CYPRUS MINES CORPORATION by its
 D. E. MOORE
 SIGNED SEALED AND DELIVERED for and on behalf of UTAH DEVELOPMENT COMPANY by its duly appointed attorney BARTHOLOMEW CARRACK RYAN in the presence of — |  | B. C. RYAN [L.S.]
 D. E. MOORE
-[Second Schedule inserted by No. 58 of 1971 s. 5.]
+[Second Schedule inserted: No. 58 of 1971 s. 5.]

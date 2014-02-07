@@ -1,6 +1,6 @@
 ## Third Schedule — Second Variation Agreement
 [s. 3]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 29 of 1994 s. 6; amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 31st day of March 1994
 B E T W E E N
 THE HONOURABLE RICHARD FAIRFAX COURT B.Com., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part AND BHP IRON PTY. LTD. ACN 008 852 784 (formerly called CGF Iron Holdings Pty. Ltd.) a company incorporated in the State of Western Australia and having its registered office at Mt Newman House, 200 St George’s Terrace, Perth, BHP AUSTRALIA COAL PTY. LTD. ACN 010 595 721 (formerly called BHP-UTAH Coal Limited) a company incorporated in the State of the State of Queensland and having its registered office situate at 20th Floor, 167 Eagle Street, Brisbane, CI MINERALS AUSTRALIA PTY. LTD. ACN 009 256 259 a company incorporated in the State of Western Australia and having its registered office at 22nd Floor, Forrest Centre, 221 St George’s Terrace, Perth and MITSUI IRON ORE CORPORATION PTY. LTD. ACN 050 157 456 a company incorporated in the State of Western Australia and having its registered office at 24th Floor, Forrest Centre, 221 St George’s Terrace, Perth (hereinafter called “the Joint Venturers”) of the other part.
@@ -111,4 +111,4 @@ Secretary M Appelbee
 THE COMMON SEAL of MITSUI IRON ORE CORPORATION PTY. LTD. was hereunto affixed by authority of the Directors in the presence of: | ) ) ) ) | C.S.
 Director N Hinohara
 Secretary J MacKenzie
-[Third Schedule inserted by No. 29 of 1994 s. 6.]
+[Third Schedule inserted: No. 29 of 1994 s. 6.]
