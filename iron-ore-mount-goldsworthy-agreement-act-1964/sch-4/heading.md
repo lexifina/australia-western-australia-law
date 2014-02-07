@@ -1,6 +1,6 @@
 ## Fourth Schedule — Third Variation Agreement
 [s. 4C]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 57 of 2000 s. 18; amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 11th day of April 2000.
 B E T W E E N
 THE HONOURABLE RICHARD FAIRFAX COURT B.Com., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part
@@ -29,7 +29,7 @@ are passed as Acts before 31 December 2000 or such later date if any as the part
 in the definition of “beneficiated ore” by inserting after “upgraded” the following —
 “by the Joint Venturers pursuant to proposals approved under this Agreement”.
 (2)Clause 2(c) —
-by deleting “and 11” and substituting the following “,11 and 12”.
+by deleting “and 11” and substituting the following “, 11 and 12”.
 (3)By inserting after Clause 8 the following clauses —
 “8A.Notwithstanding any provision in this Agreement for the grant of titles hereunder to the Joint Venturers as tenants in common in equal shares, if the Joint Venturers hold their interests in this Agreement in other than equal shares, the grant of titles and the renewal of any leases hereunder shall be made to the Joint Venturers, if they so request the State, in accordance with their percentage interests in this Agreement.
 8B.Notwithstanding the Mining Act the Joint Venturers may with the prior approval of the Minister for Mines apply from time to time for general purpose leases for the purposes of its operations under this Agreement in respect of areas of land greater than the maximum area provided for under that Act.”.
@@ -71,4 +71,4 @@ MICHAEL APPLEBEE Secretary
 THE COMMON SEAL of MITSUI IRON ORE CORPORATION PTY. LTD. was hereunto affixed by authority of the Directors in the presence of: |  | [C.S.]
 YOICHI HASHIMOTO Director
 JOHN SMITH Secretary
-[Fourth Schedule inserted by No. 57 of 2000 s. 18.]
+[Fourth Schedule inserted: No. 57 of 2000 s. 18.]
