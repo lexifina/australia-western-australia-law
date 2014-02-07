@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Water Corporations Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 February 2014 of the Water Corporations Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Water Corporation Act 1995 | 70 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2 and Gazette 29 Dec 1995 p. 6291)
@@ -15,26 +15,28 @@ Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 16 | 21 of 2003 | 2
 Acts Amendment (Equality of Status) Act 2003 Pt. 59 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 103 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
 Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 21 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
-Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
+Economic Regulation Authority Act 2003 Sch. 2 Div. 17 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 127 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 2: The Water Corporation Act 1995 as at 2 Jul 2004 (includes amendments listed above)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 15 Div. 3 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 14 and 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 14 and Sch. 1 cl. 177 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Water Resources Legislation Amendment Act 2007 Pt. 7 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Reprint 3: The Water Corporation Act 1995 as at 4 Jul 2008 (includes amendments listed above)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 132 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 87 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Water Services Legislation Amendment and Repeal Act 2012 Pt. 7 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+Reprint 4: The Water Corporations Act 1995 as at 7 Feb 2014 (includes amendments listed above)
+Now known as the Plumbers Licensing Act 1995.
+Now known as the Water Corporations Act 1995; short title changed (see note under s. 1).
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 4 is a validation provision.
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 127(5) is not included because the Schedule it sought to amend had been replaced in Gazette 24 May 2002 p. 2605-17 before the amendment purported to come into operation.
 The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
-Now known as the Water Corporations Act 1995; short title changed (see note under s. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 accounting standardSch. 3 cl. 1(2)
-amended ActSch. 5, cl. 1
+amended ActSch. 5 cl. 1
 arrangement36(2)
 bankSch. 5 cl. 17(1)
 board3(1)
@@ -53,8 +55,8 @@ debt paper80(4)
 director3(1), Sch. 1 cl. 1
 document68(5)
 executive officer3(1)
-financial recordsSch. 3, cl. 1(2)
-financial yearSch. 3, cl. 1(1)
+financial recordsSch. 3 cl. 1(2)
+financial yearSch. 3 cl. 1(1)
 former BoardSch. 5 cl. 1
 former licenceSch. 5 cl. 6(1)
 former member of staff23(1)
@@ -73,20 +75,20 @@ old provisionSch. 5 cl. 20(2)
 operating area7(3A)
 order92(1)
 participate29(5)
-paySch. 2, cl. 15(6)
-PSM ActSch. 5, cl. 8(1)
+paySch. 2 cl. 15(6)
+prescribed daySch. 3 cl. 35(1)
+PSM ActSch. 5 cl. 8(1)
 public service officer11(2)
 regional water corporation7(3A)
-regulationsSch. 3, cl. 1(1)
-relativeSch. 2, cl. 14(3)
-relevant corporationSch. 5, cl. 1
+regulationsSch. 3 cl. 1(1)
+relativeSch. 2 cl. 14(3)
+relevant corporationSch. 5 cl. 1
 relevant official92(1)
-repealed ActSch. 5, cl. 1
+repealed ActSch. 5 cl. 1
 second party38(1)
 specified7A(3)
 subsidiary3(1)
 surplus water27(7)
-the prescribed daySch. 3, cl. 35(1)
 third party38(1)
 transaction32(5)
 Treasurer3(1)
