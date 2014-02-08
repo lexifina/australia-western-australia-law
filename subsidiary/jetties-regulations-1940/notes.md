@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 October 2013 of the Jetties Regulations 1940 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Jetties Regulations 1940 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Jetties Act Regulations 1940 | 6 Sep 1940 p. 1622-40 | 6 Sep 1940 (see direction preceding regulations in Gazette 6 Sep 1940 p. 1622)
@@ -119,6 +119,7 @@ Jetties Amendment Regulations (No. 2) 2012 | 23 Oct 2012 p. 5057 | r. 1 and 2: 2
 Jetties Amendment Regulations 2013 | 7 May 2013 p. 1918-23 | r. 1 and 2: 7 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 8 May 2013 (see r. 2(b))
 Jetties Amendment Regulations (No. 2) 2013 | 28 Jun 2013 p. 2831-85 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Reprint 8: The Jetties Regulations 1940 as at 11 Oct 2013 (includes amendments listed above)
+Jetties Amendment Regulations 2014 | 7 Feb 2014 p. 287-9 | r. 1 and 2: 7 Feb 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Feb 2014 (see r. 2(b))
 The Consumer Credit (Western Australia) Code was repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 3 Div. 1.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the department in the Public Service designated as “Police Department” is to be read and construed as a reference to the department designated as “Police Service”.
