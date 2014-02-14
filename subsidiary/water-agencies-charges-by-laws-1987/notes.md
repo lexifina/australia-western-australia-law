@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Water Agencies (Charges) By-laws 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 February 2014 of the Water Agencies (Charges) By-laws 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Water Authority (Charges) By-laws 1987 | 14 Jul 1987 p. 2658-72 (errata 24 Jul 1987 p. 2841) | 14 Jul 1987
@@ -110,14 +110,18 @@ Water Agencies (Charges) Amendment By-laws 2012 | 20 Jun 2012 p. 2693-774 | bl. 
 Water Agencies (Charges) Amendment By-laws 2013 | 19 Jun 2013 p. 2347-422 | bl. 1 and 2: 19 Jun 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2013 (see bl. 2(b))
 Water Agencies (Charges) Amendment By laws (No. 2) 2013 | 14 Nov 2013 p. 5081-95 | bl. 1 and 2: 14 Nov 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 18 Nov 2013 (see bl. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Electricity Corporations (Consequential Amendments) Regulations 2013 r. 17 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 7: The Water Agencies (Charges) By-laws 1987 as at 14 Feb 2014 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Water Services Legislation Amendment and Repeal Act 2012 s. 202(b) | 25 of 2012 | 3 Sep 2012 | 1 Jul 2014 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+Repealed by the Water Services Legislation Amendment and Repeal Act 2012.
+Commenced on 18 Nov 2013.
 Now established by the Port Authorities Act 1999 s. 4.
 Under the Marine and Harbours Act 1981 s. 20 a reference in a written law to the former Department of Marine and Harbours is, unless the contrary intention appears, to be read and construed as a reference to the department principally assisting the Minister in the administration of that Act.
 Repealed by the Gas Corporation (Business Disposal) Act 1999.
 Repealed by the Western Australian Land Authority Act 1992.
+Now the Public Transport Authority of Western Australia.
 Repealed by the Public Transport Authority Act 2003.
 Repealed by the WADC and WA Exim Corporation Repeal Act 1998.
 Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993.
@@ -136,7 +140,7 @@ The Water Agencies (Charges) Amendment By-Laws (No. 5) 2001 bl. 2 and 6 are tran
 The Water Agencies (Charges) Amendment By-laws 2002 bl. 3 reads as follows:
 3.Saving
 Where a hydrant standpipe in the metropolitan area was issued by the Corporation before the commencement of these by-laws, the charge under Schedule 1 item 31 to the Water Agencies (Charges) By-laws 1987 in respect of the standpipe is to be assessed as if these by-laws had not come into operation.
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 202(b) had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 202(b) had not come into operation. It reads as follows:
 202.Other legislation repealed
 These written laws are repealed:
 (b) the Water Agencies (Charges) By-laws 1987;
@@ -146,27 +150,31 @@ Defined termProvision(s)
 >2(3)
 ≤2(3)
 aged home2(1)
-AGRV14(2), 24(2)
+annual charge7(1)
+approval of the Corporation2(1)
+approved meter7A(1)
 caravan bay2(1)
-charge7(1)
 charitable purposes4(3)
 consumption year2(1)
+Corporation2(1)
 country non-residential or commercial residential property21A
 country sewerage area2(1)
 current year2(1)
-customer33(1)
 development28(3)
 discharge charge2(1)
 discharge factor2(1)
 discharge period2(1)
 discharge volume2(1)
+drainage area2(1)
 eligible pensioner18(1), 18A(1), 18B(1)
-exempt land5A
+exempt land5A(1)
 formula21A
+garden purposes2(1)
 Government trading organisation2(1)
 GRV2(1)
 holiday accommodation2(1)
 irrigation district2(1)
+irrigation works2(1)
 land19A(1)
 long term residential caravan bay2(1)
 lot28(3)
@@ -174,15 +182,10 @@ major fixture2(1)
 metropolitan area2(1)
 metropolitan non-residential property21A
 non-commercial Government property2(1)
-option A33(2)(a)
-option B33(2)(b)
-PSch. 3 cl. 18 and 36
+part year9B(3)
 previous year2(1)
-QSch. 3 cl. 19 and 37
 quantity charge2(1)
-RSch. 3 cl. 35
 registered18B(1)
-relevant general valuationSch. 6 cl. 1
 residence2(1)
 residential property2(1)
 retirement village8A(3)
@@ -190,7 +193,9 @@ rural land28(3)
 single capital infrastructure charge2(1)
 site2(1)
 Table21A
-UV2(1)
+trade waste2(1)
+trade waste charge7(1)
+wastewater2(1)
 water supply2(1)
 water supply connection12(1)
 year2(1)
