@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Evidence (Video and Audio Links Fees and Expenses) Regulations 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 February 2014 of the Evidence (Video and Audio Links Fees and Expenses) Regulations 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Evidence (Video and Audio Links Fees and Expenses) Regulations 1999 | 7 Dec 1999 p. 5995-6 | 7 Dec 1999
@@ -16,3 +16,4 @@ Evidence (Video and Audio Links Fees and Expenses) Amendment Regulations (No. 2)
 Evidence (Video and Audio Links Fees and Expenses) Amendment Regulations 2012 | 9 Mar 2012 p. 931-2 | r. 1 and 2: 9 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Mar 2012 (see r. 2(b))
 Evidence (Video and Audio Links Fees and Expenses) Amendment Regulations (No. 2) 2012 | 30 Nov 2012 p. 5800 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
 Evidence (Video and Audio Links Fees and Expenses) Amendment Regulations 2013 | 15 Nov 2013 p. 5256 | r. 1 and 2: 15 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Nov 2013 (see r. 2(b))
+Reprint 3: The Evidence (Video and Audio Links Fees and Expenses) Regulations 1999 as at 14 Feb 2014 (includes amendments listed above)
