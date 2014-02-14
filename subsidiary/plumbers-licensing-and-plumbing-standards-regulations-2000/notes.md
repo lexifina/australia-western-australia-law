@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Plumbers Licensing and Plumbing Standards Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 February 2014 of the Plumbers Licensing and Plumbing Standards Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Water Services Coordination (Plumbers Licensing) Regulations 2000 | 16 Jun 2000 p. 2897-936 | 19 Jun 2000 (see r. 2 and Gazette 16 Jun 2000 p. 2939)
@@ -26,13 +26,17 @@ Reprint 3: The Water Services Licensing (Plumbers Licensing and Plumbing Standar
 Water Services Licensing (Plumbers Licensing and Plumbing Standards) Amendment Regulations (No. 2) 2012 | 15 Jun 2012 p. 2621-3 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Water Services Licensing (Plumbers Licensing and Plumbing Standards) Amendment Regulations (No. 2) 2013 | 27 Jun 2013 p. 2713-15 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Water Services Licensing (Plumbers Licensing and Plumbing Standards) Amendment Regulations 2013 | 14 Nov 2013 p. 5231-4 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
-Formerly referred to the Water Services Coordination Act 1995, the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62.
+Reprint 4: The Plumbers Licensing and Plumbing Standards Regulations 2000 as at 14 Feb 2014 (includes amendments listed above)
+Formerly referred to the Water Services Coordination Act 1995, the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62, and then subsequently changed to the Plumbers Licensing Act 1995 by the Water Services Legislation Amendment and Repeal Act 2012 s. 193.
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
 Under the Legal Profession Act 2008 s. 630(1), a reference in an Act or document to the Legal Practice Act 2003 may, if the context permits, be taken to be a reference to the Legal Profession Act 2008.
-Under the Legal Profession Act 2008 s. 630(1), a lawyer or legal practitioner may, if the context permits, be read as a reference to an Australian lawyer.
+Under the Legal Profession Act 2008 s. 630(2), a reference in an Act to a lawyer or legal practitioner may, if the context permits, be read as a reference to an Australian lawyer.
+The Country Towns Sewerage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b).
+The Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 bl. 7.1, 7.2, 7.3, 16.1 and 16.2 were deleted by the Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2004 in Gazette 28 Jun 2004 p. 2375.
+The Country Areas Water Supply By-laws 1957 bl. 58(3) and (4) were deleted by the Country Areas Water Supply Amendment By-laws 2004 in Gazette 28 Jun 2004 p. 2391.
 Repealed by the Building Services (Registration) Act 2011 s. 107.
-Citation was initially the Water Services Coordination (Plumbers Licensing) Regulations 2000 and was subsequently changed to the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000, and now known as the Plumbers Licensing and Plumbing Standards Regulations 2000 (see note under r. 1).
-The Water Services Coordination (Plumbers Licensing) Amendment Regulations (No. 2) 2004 Pt. 3 contains transitional provisions of no further effect.
+Now known as the Plumbers Licensing and Plumbing Standards Regulations 2000; citation changed (see note under r. 1). The citation was originally the Water Services Coordination (Plumbers Licensing) Regulations 2000 and was subsequently changed to the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000.
+The Water Services Coordination (Plumbers Licensing) Amendment Regulations (No. 2) 2004 Pt. 3 contains transitional provisions that are of no further effect.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -74,7 +78,6 @@ expansion control valve13A(4)
 fitting3(1)
 fixture3(1), 45(4)(a)
 identification card3(1)
-industrial waste64(4)
 initial application114(1)
 inspection purposes67(2), 82
 joint water service60(2)
@@ -123,6 +126,7 @@ temperature/pressure relief valve13A(4)
 tradesperson3(1)
 tradesperson’s licence3(1)
 tradesperson’s licence (drainage plumbing)3(1)
+trade waste3(1)
 waste3(1)
 wastewater3(1)
 water heater3(1)
