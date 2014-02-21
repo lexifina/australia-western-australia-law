@@ -1,6 +1,6 @@
 ## Schedule 1 — Prescribed information
 [r. 13]
-[Heading inserted in Gazette 25 May 2010 p. 2272.]
+[Heading inserted: Gazette 25 May 2010 p. 2272.]
 1.Information relating to previous consumption, production, processing, storage, transportation, sale, supply, delivery or receipt of energy by the person or occupier.
 2.Information relating to forecast consumption, production, processing, storage, transportation, sale, supply, delivery or receipt of energy by the person or occupier.
 3.Information relating to wholesale or retail arrangements for the importation, production, processing, storage, transportation, sale, supply, delivery or receipt of energy by the person or occupier including information in respect of the following —
@@ -39,4 +39,4 @@
 (a) the quality of that resource or reserve;
 (b) the anticipated amount of energy recoverable from that resource or reserve.
 7.Information relating to the emission of greenhouse gases from premises owned or occupied by the person or occupier.
-[Schedule 1 inserted in Gazette 25 May 2010 p. 2272-4.]
+[Schedule 1 inserted: Gazette 25 May 2010 p. 2272-4.]
