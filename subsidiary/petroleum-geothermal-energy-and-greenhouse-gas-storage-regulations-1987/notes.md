@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 February 2013 of the Petroleum and Geothermal Energy Resources Regulations 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum and Geothermal Energy Resources Regulations 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Petroleum Regulations 1987 | 23 Oct 1987 p. 3971-2 | 23 Oct 1987
@@ -23,6 +23,7 @@ Petroleum and Geothermal Energy Resources Amendment Regulations 2011 | 24 May 20
 Petroleum and Geothermal Energy Resources Amendment Regulations (No. 2) 2011 | 1 Jul 2011 p. 2734-6 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Petroleum and Geothermal Energy Resources Amendment Regulations 2012 | 12 Jun 2012 p. 2463-4 | r. 1 and 2: 12 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Reprint 3: The Petroleum and Geothermal Energy Resources Regulations 1987 as at 1 Feb 2013 (includes amendments listed above)
+Petroleum and Geothermal Energy Resources Amendment Regulations 2014 | 25 Feb 2014 p. 498-500 | r. 1 and 2: 25 Feb 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2014 (see r. 2(b))
 The Acts Amendment (Petroleum) Act 1990 (other than s. 32) came into operation 1 Oct 1990 (see Gazette 28 Sep 1990 p. 5099).
 Commencement day was 16 Dec 2000 (see Gazette 15 Dec 2000 p. 7201).
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
