@@ -24,6 +24,7 @@ Cremation Amendment Regulations 2010 | 13 Apr 2010 p. 1373 | r. 1 and 2: 13 Apr 
 Cremation Amendment Regulations 2012 | 29 Jun 2012 p. 2944-9 | r. 1 and 2: 29 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2012 (see r. 2(b))
 Cremation Amendment Regulations 2013 | 8 Feb 2013 p. 865-6 | r. 1 and 2: 8 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2013 (see r. 2(b))
 Cremation Amendment Regulations (No. 2) 2013 | 9 Apr 2013 p. 1521 | r. 1 and 2: 9 Apr 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Apr 2013 (see r. 2(b))
+Cremation Amendment Regulations 2014 | 25 Feb 2014 p. 497-8 | r. 1 and 2: 25 Feb 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2014 (see r. 2(b))
 Repealed by the Cemeteries Act 1986.
 Repealed by the Associations Incorporation Act 1987.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.

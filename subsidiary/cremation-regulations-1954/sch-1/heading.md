@@ -121,32 +121,33 @@ Deceased | Name
  | Occupation
 Doctor | Name
  | Address
- | Are you a spouse, de facto partner or relative of the deceased? No Yes.Nature of relationship _________________________
- | As far as you are aware, do you have a pecuniary interest in the deceased’s estate or any other pecuniary interest in the deceased’s death? No Yes.Give details _________________________________
+ | Are you a spouse, de facto partner or relative of the deceased? No Yes.Nature of relationship ______________________
+ | As far as you are aware, do you have a pecuniary interest in the deceased’s estate or any other pecuniary interest in the deceased’s death? No Yes.Give details _______________________________
  | Were you the deceased’s usual doctor? NoYes
-Recent care of deceased | During the 4 weeks prior to death did the deceased receive medical or nursing care? No Yes.Where was the deceased cared for? Hospital ______________________________ Nursing home______________________________ Home______________________________ Other______________________________ If cared for at home or other place, who provided care? Professional health care providers Relatives, friends, others Give names and relationship to the deceased _________________________________________________ ________________________________________________
+Recent care of deceased | During the 4 weeks prior to death did the deceased receive medical or nursing care? No Yes.Where was the deceased cared for? Hospital ____________________________ Nursing home____________________________ Home____________________________ Other____________________________ If cared for at home or other place, who provided care? Professional health care providers Relatives, friends, others Give names and relationship to the deceased _______________________________________________ _______________________________________________
  | Did you attend the deceased during his or her last illness? NoYes Since what date? / /20
  | Did any other doctor(s) attend the deceased during his or her last illness? No Yes.Give names __________________________________
 Last illness | Brief clinical history of last illness including diagnoses and events leading to death. ____________________________________________________ _____________________________________________________ ____________________________________________________
 Details of death | Date / /20 Timea.m./p.m.
- | Place where the deceased died — Home Address ___________________________________________ Hospital ___________________________________________ Address ___________________________________________ Other _____________________________________________ Address ___________________________________________
+ | Place where the deceased died — Home Address _________________________________________ Hospital _________________________________________ Address _________________________________________ Other ___________________________________________ Address _________________________________________
 Were you present when the deceased died? Yes No.When did you last see the deceased alive? Date / /20 Timea.m./p.m.
- | Did you examine the deceased’s body after death? No Yes.Give details _________________________________
- | Do you have any reason to suppose that a further examination of the deceased’s remains may be desirable? No Yes.Give details _________________________________
-Cause of death | Was a post mortem performed? No Yes.Give details of results _________________________ _________________________________________________
-(* If a Medical Certificate of Cause of Death is attached, answers are not required to these questions.) | *Did you sign the Medical Certificate of Cause of Death? Yes No.Name of the doctor who signed the certificate _________________________________________________
-*Direct cause of death _____________________________________________________
-*Antecedent causes of death (if any) ____________________________________________________
-*Conditions contributing to or accelerating death (if any) _____________________________________________________
+ | Did you examine the deceased’s body after death? No Yes.Give details _______________________________
+ | Do you have any reason to suppose that a further examination of the deceased’s remains may be desirable? No Yes.Give details _______________________________
+Cause of death | Was a post mortem performed? No Yes.Give details of results _______________________ _______________________________________________
+(* If a Medical Certificate of Cause of Death is attached, answers are not required to these questions.) | *Did you sign the Medical Certificate of Cause of Death? Yes No.Name of the doctor who signed the certificate _______________________________________________
+*Direct cause of death ___________________________________________________
+*Antecedent causes of death (if any) ___________________________________________________
+*Conditions contributing to or accelerating death (if any) ___________________________________________________
 Clinical observations | Do you know, or have reason to suspect, that the deceased’s death was directly or indirectly due to any of the following? (tick or circle if yes) violence poison privation or neglect medical procedure drowning suffocation burns
- | In view of the deceased’s lifestyle and health, do you have any doubts about the character of the deceased’s illness or cause of death? No Yes.Give details _________________________________
+ | In view of the deceased’s lifestyle and health, do you have any doubts about the character of the deceased’s illness or cause of death? No Yes.Give details _______________________________
 Safety of cremation | At the time of death was the deceased fitted with a cardiac pacemaker, defibrillator or other battery operated implant or device? No/Not known Yes.Has it been removed?YesNo
- | Had the deceased received any of the following radioactive treatments? Palliation for bone metastases ●Strontium-89 injection during the 12 months prior to death NoYes* ●Samarium-153 injection during the 3 weeks prior to death NoYes* ●Rhenium-188 injection during the week prior to death NoYes* Infusion for liver cancer or metastases ●Yttrium-90 or Rhenium-188 during the 2 weeks prior to death NoYes* Therapy for thyroid cancer, endocrine tumours, or non-Hodgkin’s lymphoma ●Iodine-131 (injection or oral) during the week prior to death NoYes* Radioactive implant (permanent) e.g. for prostate cancer ●Iodine-125 seed implant during the 12 months prior to death NoYes* * If yes — contact the Radiation Safety Officer/Physicist at the treating institution for provision of required information to the crematorium.
- | Are you aware of anything else that could render cremation unsafe? No YesGive details _________________________________
+ | Had the deceased received any of the following radioactive treatments? Palliation for bone metastases ●Strontium-89 injection during the 12 months prior to death NoYes* ●Radium-232 injection during the 2 months prior to death NoYes* ●Samarium-153 injection during the 3 weeks prior to death NoYes* ●Rhenium-188 injection during the week prior to death NoYes* Infusion for liver cancer or metastases ●Yttrium-90 or Rhenium-188 during the 2 weeks prior to death NoYes* Therapy for thyroid cancer, endocrine tumours, or non-Hodgkin’s lymphoma ●Iodine-131 (injection or oral) during the week prior to death NoYes*
+ | Radioactive implant (permanent) e.g. for prostate cancer ●Iodine-125 seed implant during the 12 months prior to death NoYes* * If yes — contact the Radiation Safety Officer/Physicist at the treating institution for provision of required information to the crematorium.
+ | Are you aware of anything else that could render cremation unsafe? No YesGive details _______________________________
 Certification of medical practitioner | I certify that the information set out above is true and correct and that I have not omitted any relevant information.
 Signature
 Date / /20
-[Form 7 inserted in Gazette 29 Jun 2012 p. 2945-9.]
+[Form 7 inserted in Gazette 29 Jun 2012 p. 2945-9; amended in Gazette 25 Feb 2014 p. 497-8.]
 Form 8
 Western Australia
 Cremation Act 1929
