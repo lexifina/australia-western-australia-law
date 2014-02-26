@@ -20,6 +20,7 @@ Reprint 2: The Petroleum (Submerged Lands) Regulations 1990 as at 24 Sep 2010 (i
 Petroleum (Submerged Lands) Amendment Regulations 2011 | 24 May 2011 p. 1897-8 | r. 1 and 2: 24 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 25 May 2011 (see r. 2(b) and Gazette 24 May 2011 p. 1892)
 Petroleum (Submerged Lands) Amendment Regulations (No. 2) 2011 | 1 Jul 2011 p. 2736-8 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Petroleum (Submerged Lands) Amendment Regulations 2012 | 12 Jun 2012 p. 2460-2 | r. 1 and 2: 12 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
+Petroleum (Submerged Lands) Amendment Regulations 2014 | 25 Feb 2014 p. 500-1 | r. 1 and 2: 25 Feb 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2014 (see r. 2(b))
 Division 4A (s. 74A to 74I) of the Petroleum (Submerged Lands) Act 1982 was deleted by the Acts Amendment and Repeal (Native Title) Act 1995.
 Commencement day was 16 December 2000 (see Gazette 15 December 2000 p. 7201).
 Defined Terms
