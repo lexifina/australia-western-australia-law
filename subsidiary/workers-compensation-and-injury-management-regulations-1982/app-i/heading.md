@@ -2044,27 +2044,43 @@ employer |  | Date | / /
 [Form 39 inserted in Gazette 28 Oct 2005 p. 4959-61; amended in Gazette 18 Nov 2011 p. 4825.]
 Form 40
 [r. 52]
-Workers’ Compensation and Injury Management Act 1981
-Infringement notice
-Serial No. ...............
-Date ......../......./.......
-To: (1) ........................................................................................................................................... of: (2) ............................................................................................................................................ It is alleged that on ......../......../........ at or about (3) ..................................................................... at (4) .............................................................................................................................................. the alleged offender named above committed the following offence — ..................................................................................................................................................... ..................................................................................................................................................... ..................................................................................................................................................... contrary to section (5) ................................ of the Workers’ Compensation and Injury Management Act 1981. The modified penalty for this offence is $ ..........
-If the alleged offender wishes to be prosecuted for the alleged offence in a court, the modified penalty should not be paid and no reply to this notice is required. The alleged offender may become liable to pay a fine and costs if court proceedings are taken against the alleged offender.
-If the alleged offender does not wish to be prosecuted for the alleged offence in a court, the amount of the modified penalty may be paid within the period of 28 days after the giving of this notice. Payment may be made by either — ·posting this form and a cheque or money order, made payable to WorkCover Western Australia, for the amount of the modified penalty to the Chief Executive Officer, WorkCover WA, 2 Bedbrook Place, Shenton Park WA 6008; or ·delivering this form, and paying the amount of the modified penalty to an authorised officer*, at WorkCover WA, 2 Bedbrook Place, Shenton Park WA 6008.
-Name and title of authorised officer giving the notice: ...................................................................................................................................................... ...................................................................................................................................................... Signature: .................................................... *The following are authorised officers for the purposes of receiving payment of modified penalties: ..................................................................................................................................................... ..................
-(1)Name of alleged offender
-(2)Address of alleged offender
-(3)Time when offence allegedly committed
-(4)Place where offence allegedly committed
-(5)Section designation
-[Form 40 inserted in Gazette 28 Oct 2005 p. 4962-3.]
+Workers’ Compensation and Injury Management Act 1981 INFRINGEMENT NOTICE | Infringement notice no.
+Alleged offender | Name
+Address
+Details of alleged offence | Date or period
+Place
+Written law contravened
+Details of offence
+Date | Date of notice
+Authorised officer | Name
+Signature
+Modified penalty | $_________
+Due date for payment of modified penalty | / /20 (Within 28 days after the giving of the notice)
+TAKE NOTICE | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty to an authorised officer* by the above due date. If you need more time to pay the modified penalty, you should contact an authorised officer* at the address below. Paying the modified penalty will not be regarded as an admission for the purposes of any civil or criminal court case. If you want this matter to be dealt with by prosecution in court, sign and date here: __________________________________ / /20 and post this notice to an authorised officer* at the address below within 28 days after the date of this notice. If you consider that you have good reason to have this notice withdrawn, you can write to an authorised officer* at the address below requesting that this notice be withdrawn and setting out the reasons why you consider that this notice should be withdrawn.
+How to pay | By post | Tick the relevant box below and post this notice to: Workcover WA [Insert address]
+ |  | rI want to pay the modified penalty. A cheque or money order (payable to [insert details of authorised officer*]) for the modified penalty is enclosed. rI want to pay the modified penalty by credit card. Please debit my credit card account.
+ |  | Card type _____________________________ Cardholder name _____________________________________ Card number [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+ |  | Expiry date of card _____/_____ Amount $__________ Signature ____________________ Complete all details
+ | Direct deposit | [Insert details]
+ | Electronic transfer | [Insert details]
+*The following are authorised officers for the purposes of receiving payment of modified penalties:
+Method of service |  | Date of service
+[Form 40 inserted in Gazette 25 Feb 2014 p. 505-7.]
 Form 41
 [r. 53]
-Workers’ Compensation and Injury Management Act 1981
-Withdrawal of infringement notice
-Serial No. ...............
-Date ......../......./.......
-To: (1) ..................................................................................................................................... of: (2)...................................................................................................................................... Infringement notice No. ............................................................dated ......../......../........ for the alleged offence of .................................................................................................................... .................................................................................................................................................. contrary to section .................... of the Workers’ Compensation and Injury Management Act 1981 has been withdrawn. The modified penalty of $ ........................ *has been paid and a refund is enclosed. *has not been paid and should not be paid. * Delete as appropriate Name and title of authorised officer giving this notice: .................................................................................................................................................. Signature ..................................................................................................................................
-(1)Name of alleged offender given the infringement notice
-(2)Address of alleged offender
-[Form 41 inserted in Gazette 28 Oct 2005 p. 4963.]
+Workers’ Compensation and Injury Management Act 1981 WITHDRAWAL OF INFRINGEMENT NOTICE | Withdrawal no.
+Alleged offender | Name
+Address
+Details of infringement notice | Infringement notice no.
+Date of issue
+Details of alleged offence | Date or period
+Place
+Written law contravened
+Details of offence
+Signature of authorised officer | Name
+Signature
+Date | Date of withdrawal
+Withdrawal of infringement notice | The above infringement notice issued against you for the above alleged offence has been withdrawn. If you have already paid the modified penalty for the alleged offence, you are entitled to a refund.
+[*Delete whichever is not applicable] | *Your refund is enclosed. or *If you have paid the modified penalty but a refund is not enclosed, you may claim your refund by signing and dating this notice and posting it to: Workcover WA [Insert address]
+Your signature |  | Date
+[Form 41 inserted in Gazette 25 Feb 2014 p. 507-8.]

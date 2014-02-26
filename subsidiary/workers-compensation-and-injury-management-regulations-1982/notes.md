@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 24 May 2013 of the Workers’ Compensation and Injury Management Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Workers’ Compensation and Injury Management Regulations 1982 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Workers’ Compensation and Assistance Regulations 1982 | 8 Apr 1982 p. 1229-50 (corrigendum 23 Apr 1982 p. 1384) | 3 May 1982 (see r. 2 and Gazette 8 Apr 1982 p. 1205)
@@ -68,6 +68,7 @@ Workers’ Compensation and Injury Management Amendment Regulations 2011 | 18 No
 Workers’ Compensation and Injury Management Amendment Regulations 2012 | 27 Jul 2012 p. 3664-6 | r. 1 and 2: 27 Jul 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2012 (see r. 2(b) and Gazette 27 Jul 2012 p. 3663)
 Workers’ Compensation and Injury Management Amendment Regulations (No. 2) 2012 | 14 Dec 2012 p. 6209-12 | r. 1 and 2: 14 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Dec 2012 (see r. 2(b))
 Reprint 7: The Workers’ Compensation and Injury Management Regulations 1982 as at 24 May 2013 (includes amendments listed above)
+Workers’ Compensation and Injury Management Amendment Regulations (No. 2) 2014 | 25 Feb 2014 p. 505-8 | r. 1 and 2: 25 Feb 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2014 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Assistance Act 1981 the short title of which was changed to the Workers’ Compensation and Rehabilitation Act 1981 by the Workers’ Compensation and Assistance Amendment Act 1990 s. 5 and then to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Workers’ Compensation and Injury Management Amendment Act 2011 s. 77 as at 1 Dec 2011 (see Gazette 8 Nov 2011 p. 4673).
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.

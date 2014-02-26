@@ -28,6 +28,13 @@ Item | Section of Act | Description of offence | Modified penalty
 20. | 160(5) | Declining to indemnify employer | $400.00
 21. | 162(1a) | Issuing or renewing policy in respect of certain industrial diseases | $200.00
 22. | 165(5) | Failing to give securities to State as directed by Minister | $200.00
-23. | 171(1) | Failing to transmit to WorkCover WA statements and means for conveying information in machine-readable form | $200.00
-24. | 180(5) | Failing to comply with request to provide copy of relevant document | $200.00
-[Appendix V inserted in Gazette 28 Oct 2005 p. 4970-2; amended in Gazette 18 Nov 2011 p. 4826.]
+23. | 170(1)(a) | Failure to keep a current policy of insurance under section 160(1) of the Act | $400.00 in respect of each worker to whom the alleged offence relates
+24. | 170(1)(a) | Failing to comply with section 160(2)(a) or (b) of the Act | $400.00
+25. | 171(1) | Failing to transmit to WorkCover WA statements and means for conveying information in machine-readable form | $200.00
+26. | 175D(1)(a) | Obstructing or interfering with inspector performing functions | $500.00
+27. | 175D(1)(b) | Contravening requirement made by inspector | $500.00
+28. | 175D(1)(c) | Providing answer or information to inspector that is false or misleading in a material particular | $500.00
+29. | 175D(1)(d) | Giving false or misleading information in a certificate under section 175B(1)(f) of the Act | $500.00
+30. | 175D(1)(e) | Preventing another person from complying with a requirement under the Act | $500.00
+31. | 180(5) | Failing to comply with request to provide copy of relevant document | $200.00
+[Appendix V inserted in Gazette 28 Oct 2005 p. 4970-2; amended in Gazette 18 Nov 2011 p. 4826; 25 Feb 2014 p. 508.]
