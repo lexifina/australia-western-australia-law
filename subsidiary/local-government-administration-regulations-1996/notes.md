@@ -19,11 +19,12 @@ Local Government (Administration) Amendment Regulations 2011 | 3 May 2011 p. 159
 Local Government (Administration) Amendment Regulations (No. 2) 2011 | 26 Aug 2011 p. 3481-7 | r. 1 and 2: 26 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Aug 2011 (see r. 2(b))
 Reprint 3: The Local Government (Administration) Regulations 1996 as at 3 Feb 2012 (includes amendments listed above)
 Local Government (Administration) Amendment Regulations 2012 | 13 Jul 2012 p. 3218-19 | r. 1 and 2: 13 Jul 2012 (see r. 2(a)); r. 3 and 4: 14 Jul 2012 (see r. 2(c)); r. 5-8: 1 Jul 2013 (see r. 2(b) and Gazette 8 Feb 2013 p. 863)
+Local Government (Administration) Amendment Regulations 2014 | 28 Feb 2014 p. 519 | r. 1 and 2: 28 Feb 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2014 (see r. 2(b))
 The commencement date of 1 Jul 1996 is the commencement date of the principal regulations.
 The Local Government (Administration) Amendment Regulations 2005 r. 15 is a transitional provision that is of no further effect.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 activity involving a local government discretion34B(1)
 client or adviser20(1)
 code of conduct3(1)
