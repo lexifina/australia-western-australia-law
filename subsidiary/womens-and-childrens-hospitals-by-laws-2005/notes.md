@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Women’s and Children’s Hospitals By-laws 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 March 2014 of the Women’s and Children’s Hospitals By-laws 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Women’s and Children’s Hospitals By-laws 2005 | 28 Jan 2005 p. 481-504 | 28 Jan 2005
@@ -10,9 +10,10 @@ Women’s and Children’s Hospitals Amendment By-laws 2010 | 26 Nov 2010 p. 595
 Women’s and Children’s Hospitals Amendment By-laws 2011 | 24 Jun 2011 p. 2506-7 | bl. 1 and 2: 24 Jun 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2011 (see bl. 2(b))
 Women’s and Children’s Hospitals Amendment By-laws (No. 2) 2011 | 23 Dec 2011 p. 5429-33 | bl. 1 and 2: 23 Dec 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jan 2012 (see bl. 2(b))
 Women’s and Children’s Hospitals Amendment By-laws 2013 | 28 Jun 2013 p. 2750 | bl. 1 and 2: 28 Jun 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2013 (see bl. 2(b))
-Defined Terms
+Reprint 2: The Women’s and Children’s Hospitals By-laws 2005 as at 7 Mar 2014 (includes amendments listed above)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 alleged offender17
 authorised person2(1)
 chief executive officer2(1)
