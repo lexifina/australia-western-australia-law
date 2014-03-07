@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Emergency Management Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 March 2014 of the Emergency Management Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Emergency Management Regulations 2006 | 21 Apr 2006 p. 1582-4 | 21 Apr 2006
@@ -18,9 +18,12 @@ Emergency Management Amendment Regulations 2012 | 13 Mar 2012 p. 1034-5 | r. 1 a
 Emergency Management Amendment Regulations (No. 2) 2012 | 31 Oct 2012 p. 5253-4 | r. 1 and 2: 31 Oct 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2012 (see r. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Emergency Management Amendment Regulations (No. 3) 2012 | 29 Jan 2013 p. 329-32 | r. 1 and 2: 29 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2013 (see r. 2(b))
 Emergency Management Amendment Regulations 2013 | 15 Oct 2013 p. 4673-4 | r. 1 and 2: 15 Oct 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Oct 2013 (see r. 2(b))
-Defined Terms
+Reprint 3: The Emergency Management Regulations 2006 as at 7 Mar 2014 (includes amendments listed above)
+Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife.
+Under the Alteration of Statutory Designations Order (No. 5) 2013 a reference in any law to the Department of Child Protection is to be read and construed as a reference to the Department of Child Protection and Family Support.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Agriculture Director General19(1)
 corridor land14
 FES Commissioner17(1)
