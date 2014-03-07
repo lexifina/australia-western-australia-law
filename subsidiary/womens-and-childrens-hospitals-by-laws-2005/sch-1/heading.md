@@ -45,4 +45,4 @@ State Child Development Centre
  | Crown Reserve 33853. Lot 890
 Stubbs Terrace Hospital
  | Part of Crown Reserve 20074 bounded by Stubbs Terrace to the east, Grace Vaughan House to the north and perimeter fences to the south and west.
-[Schedule 1 amended in Gazette 22 May 2009 p. 1699; 26Nov 2010 p. 5951-2.]
+[Schedule 1 amended in Gazette 22 May 2009 p. 1699; 26 Nov 2010 p. 5951-2.]

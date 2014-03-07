@@ -23,11 +23,11 @@ Other names
 Address
 Infringement Notice | Infringement Notice No.
 Issued at — ❑King Edward Memorial Hospital for Women ❑Princess Margaret Hospital for Children ❑State Child Development Centre ❑Stubbs Terrace Hospital
-Date of issue ………/……../20…….
+Date of issue ............../ ............../20..............
 Alleged offence
 Vehicle plate no.
 The Infringement Notice has been withdrawn. If you paid the modified penalty before the Infringement Notice was withdrawn, take your receipt and this notice to the cashier at King Edward Memorial Hospital for Women or Princess Margaret Hospital for Children and your payment will be refunded.
 Notice withdrawn by | Name
 Signature
-Date ………/……../20…….
+Date ............/ ............/20............
 [Form 2 amended in Gazette 23 Dec 2011 p. 5433.]
