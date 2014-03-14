@@ -53,7 +53,7 @@ Item | Description | Fee $
  | (i)up to 500 | 105
  | (ii)between 501 and 1 000 | 214
  | (iii)between 1 001 and 5 000 | 1 071
- | (iv)between 5 001 and 10 000 .. | 2 142
+ | (iv)between 5 001 and 10 000 | 2 142
  | (v)over 10 000 | 4 290
 16. | Application to add, vary or cancel condition of club restricted licence | 41
 17. | Application under section 62(6) to vary any plans or specifications the subject of a condition | 262
