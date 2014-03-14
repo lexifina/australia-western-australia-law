@@ -18,4 +18,4 @@ Penalty: $5 500.
 (ii) an application for a confiscation declaration,
 the person must notify the Registry Manager in writing of the criminal confiscation order or the application for a confiscation declaration.
 Penalty: $5 500.
-[Section 205ZHA inserted by No. 35 of 2006 s. 44.]
+[Section 205ZHA inserted: No. 35 of 2006 s. 44.]

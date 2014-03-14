@@ -21,6 +21,6 @@
 (f) the economic, legal or other capacity of the third party to comply with the order or injunction;
 (g) if, as a result of the third party being accorded procedural fairness in relation to the making of the order or the granting of the injunction, the third party raises any other matters, those matters;
 (h) any other matter that the court considers relevant.
-[Section 205ZLG inserted by No. 35 of 2006 s. 34.]
+[Section 205ZLG inserted: No. 35 of 2006 s. 34.]
 ## Subdivision 4 — Other matters
-[Heading inserted by No. 35 of 2006 s. 34.]
+[Heading inserted: No. 35 of 2006 s. 34.]

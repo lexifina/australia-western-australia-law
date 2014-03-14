@@ -8,4 +8,4 @@
 (a) for the charging by the third party of reasonable fees to cover the reasonable expenses of the third party incurred as a necessary result of the order or injunction; and
 (b) if such fees are charged, that each of the de facto partners in the de facto relationship is separately liable to pay the third party an amount equal to half of those fees; and
 (c) for conferring jurisdiction on a particular court or courts in relation to the collection or recovery of such fees.
-[Section 205ZLK inserted by No. 35 of 2006 s. 34.]
+[Section 205ZLK inserted: No. 35 of 2006 s. 34.]
