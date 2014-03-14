@@ -13,4 +13,4 @@
 (a) the application is withdrawn; or
 (b) if the application is successful, the resulting confiscation declaration is made; or
 (c) if the application is unsuccessful, the time within which an appeal can be made has expired and any appeals have been finally determined or otherwise disposed of.
-[Section 205ZHB inserted by No. 35 of 2006 s. 44.]
+[Section 205ZHB inserted: No. 35 of 2006 s. 44.]
