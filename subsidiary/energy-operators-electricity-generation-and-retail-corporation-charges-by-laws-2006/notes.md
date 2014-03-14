@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 March 2014 of the Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Energy Operators (Electricity Retail Corporation) (Charges) By-laws 2006 | 31 Mar 2006 p. 1225-46 | 1 Apr 2006 (see bl. 2)
@@ -15,6 +15,7 @@ Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws (N
 Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws 2013 | 14 Jun 2013 p. 2217-22 | bl. 1 and 2: 14 Jun 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2013 (see bl. 2(b))
 Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws (No. 2) 2013 | 30 Aug 2013 p. 4097-100 | bl. 1 and 2: 30 Aug 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Sep 2013 (see bl. 2(b))
 Electricity Corporations (Consequential Amendments) Regulations 2013 r. 12 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
+Reprint 3: The Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006 as at 14 Mar 2014 (includes amendments listed above)
 Now known as the Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006; citation changed (see note under bl. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
