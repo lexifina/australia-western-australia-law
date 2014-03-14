@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Liquor Control Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 March 2014 of the Liquor Control Regulations 1989 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Liquor Licensing Regulations 1989 | 27 Jan 1989 p. 209-61 | 1 Feb 1989 (see r. 2 and Gazette 27 Jan 1989 p. 263)
@@ -104,13 +104,14 @@ Liquor Control Amendment Regulations (No. 6) 2012 | 16 Nov 2012 p. 5657-8 | r. 1
 Liquor Control Amendment Regulations (No. 7) 2012 | 18 Dec 2012 p. 6596-7 | r. 1 and 2: 18 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2012 (see r. 2(b))
 Reprint 11: The Liquor Control Regulations 1989 as at 11 Jan 2013 (includes amendments listed above)
 Liquor Control Amendment Regulations (No. 3) 2013 | 19 Apr 2013 p. 1570-1 | r. 1 and 2: 19 Apr 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Apr 2013 (see r. 2(b))
-Liquor Control Amendment Regulations (No. 2) 2013 | 21 May 2013 p. 2014 | r. 1 and 2: 21 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Apr 2013 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 2) 2013 | 21 May 2013 p. 2014 | r. 1 and 2: 21 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 22 May 2013 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 4) 2013 | 31 May 2013 p. 2118-19 | r. 1 and 2: 31 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jun 2013 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 6) 2013 | 28 Jun 2013 p. 2799 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jun 2013 (see r. 2(b) and Gazette 28 Jun 2013 p. 2800)
 Liquor Control Amendment Regulations 2013 | 20 Aug 2013 p. 3855 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Liquor Control Amendment Regulations (No. 5) 2013 | 20 Sep 2013 p. 4362 | r. 1 and 2: 20 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2013 (see r. 2(b))
-Liquor Control Amendment Regulations (No. 7) 2013 | 8 Nov 2013 p. 4977-80 | r. 1 and 2: 8 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see. r. 2(b))
+Liquor Control Amendment Regulations (No. 7) 2013 | 8 Nov 2013 p. 4977-80 | r. 1 and 2: 8 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 8) 2013 | 6 Dec 2013 p. 5738-9 | r. 1 and 2: 6 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Dec 2013 (see r. 2(b))
+Reprint 12: The Liquor Control Regulations 1989 as at 14 Mar 2014 (includes amendments listed above)
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
 Repealed by the Aged Care Amendment Act 2011 (Cwlth).
@@ -126,8 +127,8 @@ Defined terms
 Defined termProvision(s)
 accredited higher education course18F(1)
 aged person8(2)
-agricultural region8D(1)
 aggregate amount24(2)
+agricultural region8D(1)
 alcohol based food essence4A(2)
 alcohol based novelty food item4A(2)
 amusement venue9A(19)
@@ -159,8 +160,6 @@ host club9G
 hostel8(2)
 inter-State voyage8(3)
 live entertainment8A(1)
-lodgment fee26(4)(b)
-lodgment period26(4)(a)
 manager’s approval3A(1)
 maximum number of patrons3A(1), 14AC(1)
 negative determination8A(1)
@@ -183,8 +182,8 @@ restricted material8A(1)
 retail sale4A(2)
 room service restaurant9A(17)
 sale5(2)(a)
-signature18C(2)
 school8F(1)
+signature18C(2)
 small charter vehicle8F(1)
 special event9A(10e)
 specified9A(3)
