@@ -15,6 +15,7 @@ Large animal surgery
 Pig management and diseases
 Sheep management and diseases
 Small animal medicine
+Small animal orthopaedic surgery
 Small animal surgery
 Veterinary anaesthesia
 Veterinary anaesthesia and critical care
@@ -36,4 +37,4 @@ Veterinary pharmacology
 Veterinary public health and food hygiene
 Veterinary reproduction (species)
 Veterinary toxicology
-[Schedule 2 inserted in Gazette 29 May 2012 p. 2228-9.]
+[Schedule 2 inserted in Gazette 29 May 2012 p. 2228-9; amended in Gazette 14 Mar 2014 p. 629.]
