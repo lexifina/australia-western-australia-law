@@ -65,6 +65,9 @@ classification decision under the Rules means a decision of the NCC under the Ru
 commission, in relation to a pipeline, has the meaning given by section 12;
 Commonwealth Minister means the Minister of the Commonwealth administering the Australian Energy Market Act 2004 of the Commonwealth;
 conduct provision has the meaning given by section 4;
+constituent components, in relation to a designated reviewable regulatory decision, means the matters that constitute the elements or components of the designated reviewable regulatory decision and on which that designated reviewable regulatory decision is based and includes —
+(a)matters that go to the making of the designated reviewable regulatory decision; and
+(b)decisions made by the AER for the purposes of the designated reviewable regulatory decision;
 coverage determination means a determination of a relevant Minister under Chapter 3 Part 1 Division 1;
 coverage recommendation means a recommendation of the NCC under Chapter 3 Part 1 Division 1;
 coverage revocation determination means a determination of a relevant Minister under Chapter 3 Part 1 Division 2;
@@ -78,6 +81,7 @@ cross boundary transmission pipeline means a transmission pipeline that is partl
 designated pipeline means a pipeline classified by the Regulations, or designated in the application Act of a participating jurisdiction, as a designated pipeline;
 Note—
 A light regulation determination cannot be made in respect of pipeline services provided by means of a designated pipeline: see sections 109 and 111.
+designated reviewable regulatory decision means an applicable access arrangement decision (other than a full access arrangement decision that does not approve a full access arrangement);
 developable capacity means the difference between the current capacity of a covered pipeline and the capacity of a covered pipeline which would be available if a new facility was constructed, but does not include any new capacity of a covered pipeline resulting from an extension to the geographic range of a covered pipeline;
 dispute resolution body has the meaning given to that term in section 9(1) of the National Gas Access (WA) Act 2009;
 distribution pipeline means a pipeline that is classified in accordance with this Law or the Rules as a distribution pipeline and includes any extension to, or expansion of the capacity of, such a pipeline when it is a covered pipeline that, by operation of an applicable access arrangement or under this Law, is to be treated as part of the pipeline;
@@ -256,6 +260,7 @@ The term designated Minister is defined in the Act of this jurisdiction that app
 (d)a cross boundary distribution pipeline—the Minister of the participating jurisdiction determined by the NCC in the recommendation as being the participating jurisdiction with which the cross boundary distribution pipeline is most closely connected;
 relevant Regulator has the same meaning as in section 2 of the old access law;
 revenue and pricing principles means the principles set out in section 24;
+reviewable regulatory decision has the meaning given by section 244;
 ring fencing decision means—
 (a)an AER ring fencing determination; or
 (b)a decision under section 146 granting or not granting an exemption under that section; or
@@ -280,9 +285,11 @@ Tribunal means the Australian Competition Tribunal referred to in the Trade Prac
 user means a person who—
 (a)is a party to a contract with a service provider under which the service provider provides or intends to provide a pipeline service to that person by means of a scheme pipeline; or
 (b)has a right under an access determination to be provided with a pipeline service by means of a scheme pipeline;
+user or consumer association has the meaning given by section 244;
+user or consumer interest group has the meaning given by section 244;
 VENCorp means the Victorian Energy Networks Corporation continued under Part 8 of the Gas Industry Act 2001 of Victoria;
 WA arbitrator has the meaning given to that term in section 9(1) of the National Gas Access (WA) Act 2009.
-[Section 2 modified by WA Act Sch. 1 cl. 3; amended, see SA Act No. 30 of 2009 s. 6 and WA Gazette 18 Dec 2009 p. 5167.]
+[Section 2 modified by WA Act Sch. 1 cl. 3; amended, see SA Act No. 30 of 2009 s. 6 and WA Gazette 18 Dec 2009 p. 5167; Act No. 79 of 2013 s. 19 and WA Gazette 14 Mar 2014 p. 632.]
 ### 2A. Meaning of AER modified
 (1)In this Law, other than in the definition of AER in section 2, a reference to the AER is to be read as a reference to the regulator (whether the ERA or the AER) except to the extent that subsection (2) gives a different meaning.
 (2)To the extent to which a reference to the AER is capable of being read as a reference to the Australian Energy Regulator established by section 44AE of the Trade Practices Act 1974 of the Commonwealth acting as the disputes resolution body, the term is to be read as having or including that meaning.
@@ -507,13 +514,29 @@ The National Gas Rules have the force of law in this jurisdiction.
 (h)any other functions and powers conferred on it under this Law or the Rules.
 (2)The AER has the power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
 ### 28. Manner in which AER must perform or exercise AER economic regulatory functions or powers
-(1)The AER must, in performing or exercising an AER economic regulatory function or power, perform or exercise that function or power in a manner that will or is likely to contribute to the achievement of the national gas objective.
+(1)The AER must, in performing or exercising an AER economic regulatory function or power—
+(a)perform or exercise that function or power in a manner that will or is likely to contribute to the achievement of the national gas objective; and
+(b)if the AER is making a designated reviewable regulatory decision —
+(i)ensure that —
+(A)the covered pipeline service provider that provides the pipeline services to which the applicable access arrangement decision will apply; and
+(B)users or prospective users of the pipeline services that the AER considers have an interest in the matter; and
+(C)any user or consumer associations or user or consumer interest groups that the AER considers have an interest in the matter,
+are, in accordance with the Rules —
+(D)informed of the material issues under consideration by the AER; and
+(E)given a reasonable opportunity to make submissions in respect of the decision before it is made; and
+(ii)specify —
+(A)the manner in which the constituent components of the decision relate to each other; and
+(B)the manner in which that interrelationship has been taken into account in the making of the decision; and
+(iii)if there are 2 or more possible designated reviewable regulatory decisions that will or are likely to contribute to the achievement of the national gas objective —
+(A)make the decision that the AER is satisfied will or is likely to contribute to the achievement of the national gas objective to the greatest degree (the preferable designated reviewable regulatory decision); and
+(B)specify reasons as to the basis on which the AER is satisfied that the decision is the preferable designated reviewable regulatory decision.
 (2)In addition, the AER—
 (a)must take into account the revenue and pricing principles—
 (i)when exercising a discretion in approving or making those parts of an access arrangement relating to a reference tariff; or
 (ii)when making an access determination relating to a rate or charge for a pipeline service; and
 (b)may take into account the revenue and pricing principles when performing or exercising any other AER economic regulatory function or power, if the AER considers it appropriate to do so.
 (3)For the purposes of subsection (2)(a)(ii), a reference to a “reference service” in the revenue and pricing principles must be read as a reference to a “pipeline service”.
+[Section 28 amended see SA Act No. 79 of 2013 s. 20 and WA Gazette 14 Mar 2014 p. 632.]
 ### 29. Delegations
 Any delegation by the AER under section 44AAH of the Trade Practices Act 1974 of the Commonwealth or by the ERA under section 29 of the Economic Regulation Authority Act 2003 extends to, and has effect for the purposes of, this Law, the Regulations and the Rules.
 [Section 29 modified by WA Act Sch. 1 cl. 6.]
@@ -840,6 +863,18 @@ the AER must notify that person of that decision in writing.
 (a)making an application under section 231; or
 (b)serving an infringement notice under section 277.
 (2)The AER must publish guidelines prepared under subsection (1) on its website.
+### 68C. Record of designated reviewable regulatory decisions
+(1)The AER must, in making a designated reviewable regulatory decision, keep a written record of decision related matter.
+(2)In this section —
+decision related matter, in relation to a designated reviewable regulatory decision, means —
+(a)the decision and the written record of it and any written reasons for it (including (if relevant) the reasons of the AER for a decision of the AER not to approve the access arrangement or proposed revisions to the applicable access arrangement (as the case may be)); and
+(b)any document, proposal or information required or allowed under the Rules to be submitted as part of the process for the making of the decision; and
+(c)any written submissions made to the AER after the proposed access arrangement or proposed revisions to the applicable access arrangement (as the case may be) to which the decision relates were submitted to the AER and before the decision was made; and
+(d)any reports and materials (including (but not limited to) consultant reports, data sets, models or other documents) considered by the AER in making the decision; and
+(e)any draft of the decision that has been released for public consultation (including (if relevant) a draft of the reasons of the AER for a decision of the AER not to approve the access arrangement or proposed revisions to the applicable access arrangement (as the case may be)); and
+(f)any submissions on the draft of the decision or the decision itself (including (if relevant) submissions on the draft of the reasons of the AER for a decision of the AER not to approve the access arrangement or proposed revisions to the applicable access arrangement (as the case may be)) considered by the AER; and
+(g)the transcript of any hearing (if any) conducted by the AER for the purpose of making the decision.
+[Section 68C inserted see SA Act No. 79 of 2013 s. 21 and WA Gazette 14 Mar 2014 p. 632.]
 ## Part 1A — Functions and powers of WA arbitrator
 [Heading inserted by WA Act Sch. 1 cl. 8.]
 ### 68A. Manner in which WA arbitrator must perform or exercise certain functions or powers
@@ -2206,6 +2241,7 @@ affected or interested person or body means—
 (a)a service provider to whom a reviewable regulatory decision applies;
 (b)a user, prospective user or end user whose commercial interests are materially affected by a reviewable regulatory decision;
 (c)a user or consumer association;
+(ca)a reviewable regulatory decision process participant;
 (d)a person whose interests are affected by a reviewable regulatory decision that is—
 (i)a coverage determination; or
 (ii)a 15-year no-coverage determination; or
@@ -2219,6 +2255,7 @@ coverage related light regulation decision means either of the following reviewa
 (b)a decision of the NCC under section 119(3);
 end user includes a person who acquires, or proposes to acquire, natural gas for the purpose of on-selling that gas to a person who intends to consume that gas;
 intervener means a person or body referred to in section 253, 254 or 255 who has intervened in a review under Division 2 with the leave of the Tribunal or otherwise;
+materially preferable designated NGO decision—see section 259(4a)(c);
 NCC recommendation means—
 (a)a coverage recommendation; or
 (b)a coverage revocation recommendation; or
@@ -2235,12 +2272,16 @@ reviewable regulatory decision means—
 (a)a Ministerial coverage decision; or
 (b)a light regulation determination or a decision of the NCC under Chapter 3 Part 2 not to make a light regulation determination; or
 (c)decision of the NCC under Chapter 3 Part 2 to revoke or not revoke a light regulation determination; or
-(d)an applicable access arrangement decision (other than a full access arrangement decision that does not approve a full access arrangement); or
+(d)a designated reviewable regulatory decision; or
 (e)an AER ring fencing determination; or
 (f)a decision of the AER under section 146 to give an exemption; or
 (g)an associate contract decision; or
 (h)a decision of an original decision maker that is prescribed by the Regulations to be a reviewable regulatory decision,
 but does not include a decision of the AER made under Chapter 10 Part 2;
+reviewable regulatory decision process participant means a person or body who, in relation to a reviewable regulatory decision that is being reviewed —
+(a)made a submission or comment in relation to the making of that decision within the time required under this Law or the Rules following an invitation to do so by the original decision maker; or
+(b)made a submission or comment in relation to the making of that decision outside the time required under this Law or the Rules following an invitation to do so by the original decision maker but which the original decision maker chose to take into account in the making of that decision,
+and includes, in relation to a designated reviewable regulatory decision, a Minister of a participating jurisdiction;
 small/medium user or consumer intervener means a user or consumer intervener that—
 (a)the members of which are only small to medium users or end users; or
 (b)if it does not have any such members, has, as an object or purpose, the object or purpose of representing and promoting the interests of small to medium users or end users;
@@ -2255,6 +2296,7 @@ user or consumer intervener means—
 (a)a user or consumer association; or
 (b)a user or consumer interest group,
 that has made a submission or comment in relation to the making of a reviewable regulatory decision following an invitation to do so under this Law or the Rules.
+[Section 244 amended see SA Act No. 79 of 2013 s. 22 and WA Gazette 14 Mar 2014 p. 632.]
 ## Division 2 — Merits review for reviewable regulatory decisions
 ### 245. Applications for review
 (1)Subject to this section, an affected or interested person or body, with the leave of the Tribunal, may apply to the Tribunal for a review of a reviewable regulatory decision.
@@ -2267,19 +2309,25 @@ that has made a submission or comment in relation to the making of a reviewable 
 (b)the original decision maker made more than 1 error of fact in the decision maker’s findings of facts, and those errors of fact, in combination, were material to the making of the decision;
 (c)the exercise of the original decision maker’s discretion was incorrect, having regard to all the circumstances;
 (d)the original decision maker’s decision was unreasonable, having regard to all the circumstances.
-(2)It is for the applicant to establish a ground listed in subsection (1).
+(1a)An application under section 245(1) that relates to a designated reviewable regulatory decision must also specify the manner in which a determination made by the Tribunal varying the designated reviewable regulatory decision, or setting aside the designated reviewable regulatory decision and a fresh decision being made by the AER following remission of the matter to the AER by the Tribunal, on the basis of 1 or more grounds raised in the application, either separately or collectively, would, or would be likely to, result in a materially preferable designated NGO decision.
+(2)It is for the applicant to establish a ground listed in subsection (1) and the matter referred to in subsection (1a).
+[Section 246 amended see SA Act No. 79 of 2013 s. 23 and WA Gazette 14 Mar 2014 p. 632.]
 ### 247. By when an application must be made
 (1)An application under section 245(1) in respect of a reviewable regulatory decision (other than a coverage related light regulation decision) must be made no later than 15 business days after the reviewable regulatory decision is published in accordance with this Law or the Rules.
 (2)An application under section 245(1) in respect of a coverage related light regulation decision must be made—
 (a)in the case of a decision of the NCC under section 110(1), no later than 15 business days after the making of the coverage determination relating to the coverage recommendation to which the decision under section 110(1) is attached;
 (b)in the case of a decision of the NCC under section 119(3), no later than 15 business days after the making of the coverage revocation determination relating to the coverage revocation recommendation to which the decision under section 119(3) is attached.
 ### 248. Tribunal must not grant leave unless serious issue to be heard and determined
-Subject to this Division, the Tribunal must not grant leave to apply under section 245(1) unless it appears to the Tribunal that there is a serious issue to be heard and determined as to whether a ground for review set out in section 246(1) exists.
+Subject to this Division, the Tribunal must not grant leave to apply under section 245(1) unless it appears to the Tribunal —
+(a)that there is a serious issue to be heard and determined as to whether a ground for review set out in section 246(1) exists; and
+(b)in the case of a designated reviewable regulatory decision—that the applicant has established a prima facie case that a determination made by the Tribunal varying the designated reviewable regulatory decision, or setting aside the designated reviewable regulatory decision and a fresh decision being made by the AER following remission of the matter to the AER by the Tribunal, on the basis of 1 or more grounds raised in the application, either separately or collectively, would, or would be likely to, result in a materially preferable designated NGO decision.
+[Section 248 amended see SA Act No. 79 of 2013 s. 24 and WA Gazette 14 Mar 2014 p. 632.]
 ### 249. Leave must be refused if application is about an error relating to revenue amounts below specified threshold
 (1)This section applies if—
-(a)leave to apply under section 245(1) is about an error in a reviewable regulatory decision that is a full access arrangement decision; and
+(a)leave to apply under section 245(1) is about an error in a designated reviewable regulatory decision that is a full access arrangement decision; and
 (b)the ground for review relied on by the applicant relates to the amount of revenue that may be earned by a covered pipeline service provider that is specified in or derived from that decision.
 (2)Despite section 248, the Tribunal must not grant leave to apply under section 245(1) even if there is a serious issue to be heard and determined as to whether a ground for review set out in section 246(1) exists unless the amount that is specified in or derived from the decision exceeds the lesser of $5 000 000 or 2% of the average annual regulated revenue of the covered pipeline service provider.
+[Section 249 amended see SA Act No. 79 of 2013 s. 25 and WA Gazette 14 Mar 2014 p. 632.]
 ### 250. Tribunal must refuse to grant leave if submission not made or is made late
 The Tribunal must not grant leave to apply under section 245(1) to a person or body referred to in paragraph (b), (c) or (d) of the definition of affected or interested person or body in section 244 if that person or body—
 (a)did not make a submission or comment in relation to the making of the reviewable regulatory decision under review following an invitation to do so under this Law or the Rules; or
@@ -2308,11 +2356,9 @@ Only the following persons may intervene in a review under this Division without
 (a)a service provider to whom the reviewable regulatory decision being reviewed applies;
 (b)a Minister of a participating jurisdiction.
 ### 254. Leave for reviewable regulatory decision process participants
-(1)The Tribunal must grant leave to a person or body to intervene in a review under this Division if that person or body is a reviewable regulatory decision process participant.
-(2)In this section—
-reviewable regulatory decision process participant means a person or body (other than a user or consumer intervener) with a sufficient interest in the reviewable regulatory decision being reviewed who—
-(a)has made a submission or comment in relation to the making of that decision within the time required under this Law or the Rules following an invitation to do so under this Law or the Rules; or
-(b)has made a submission or comment in relation to the making of that decision outside the time required under this Law or the Rules following an invitation to do so under this Law or the Rules but which was taken into account in the making of that decision.
+(1)The Tribunal must grant leave to a person or body to intervene in a review under this Division if that person or body is a reviewable regulatory decision process participant (other than a user or consumer intervener).
+[(2)deleted]
+[Section 254 amended see SA Act No. 79 of 2013 s. 26 and WA Gazette 14 Mar 2014 p. 632.]
 ### 255. Leave for user or consumer intervener
 (1)A user or consumer intervener may apply to the Tribunal for leave to intervene in a review of a reviewable regulatory decision under this Division.
 (2)The Tribunal may grant leave to a user or consumer intervener to intervene in a review under this Division.
@@ -2325,29 +2371,73 @@ reviewable regulatory decision process participant means a person or body (other
 (b)the interests of a user or consumer intervener are not to be taken to not be affected only because those interests do not coincide with the interests of the applicant.
 ### 256. Interveners may raise new grounds for review
 (1)An intervener may raise in a review under this Division any of the grounds specified in section 246 even if the ground that is raised by the intervener is not raised by the applicant.
-(2)To avoid doubt, it is for the intervener to establish the ground referred to in subsection (1).
+(1a)If an intervener raises a new ground for review under subsection (1) in relation to a designated reviewable regulatory decision, the intervener must also specify the manner in which a determination made by the Tribunal varying the designated reviewable regulatory decision, or setting aside the designated reviewable regulatory decision and a fresh decision being made by the AER following remission of the matter to the AER by the Tribunal, on the basis of 1 or more grounds raised in the notice of intervention or in the application for review, either separately or collectively, would, or would be likely to, result in a materially preferable designated NGO decision.
+(2)To avoid doubt, it is for the intervener to establish the ground referred to in subsection (1) and the matter referred to in subsection (1a).
+[Section 256 amended see SA Act No. 79 of 2013 s. 27 and WA Gazette 14 Mar 2014 p. 632.]
 ### 257. Parties to a review under this Division
 The parties to a review under this Division are—
 (a)the applicant; and
 (b)the original decision maker whose decision is the reviewable regulatory decision being reviewed under this Division; and
 (c)an intervener.
 ### 258. Matters that parties to a review may and may not raise in a review
+(a1)This section does not apply to a designated reviewable regulatory decision (see section 258A).
 (1)An original decision maker whose decision is the reviewable regulatory decision being reviewed under this Division may, in the review, raise—
 (a)a matter not raised by the applicant or an intervener that relates to a ground for review, or a matter raised in support of a ground for review, raised by the applicant or an intervener;
 (b)a possible outcome or effect on the reviewable regulatory decision being reviewed that the original decision maker considers may occur as a consequence of the Tribunal making a determination setting aside or varying the reviewable regulatory decision.
 (2)A party (other than the original decision maker) to a review under this Division may not raise any matter that was not raised in submissions in relation to the reviewable regulatory decision before that decision was made.
+[Section 258 amended see SA Act No. 79 of 2013 s. 28 and WA Gazette 14 Mar 2014 p. 632.]
+### 258A. Matters that may and may not be raised in a review (designated reviewable regulatory decisions)
+(1)This section applies to a designated reviewable regulatory decision.
+(2)The AER, in a review of a decision to which this section applies, may —
+(a)respond to any matter raised by the applicant or an intervener; and
+(b)raise any other matter that relates to —
+(i)a ground for review; or
+(ii)a matter raised in support of a ground for review; or
+(iii)a matter relevant to the issues to be considered under section 259(4a) and (4b).
+(3)In a review of a decision to which this section applies, the following provisions apply in relation to a person or body, other than the AER (and so apply at all stages of the proceedings before the Tribunal):
+(a)a covered pipeline service provider that provides the pipeline services to which the decision being reviewed applies may not raise in relation to the issue of whether a ground for review exists or has been made out any matter that was not raised and maintained by the provider in submissions to the AER before the decision was made;
+(b)a covered pipeline service provider whose commercial interests are materially affected by the decision being reviewed may not raise in relation to the issue of whether a ground for review exists or has been made out any matter that was not raised and maintained by the provider in submissions to the AER before the decision was made;
+(c)an affected or interested person or body (other than a provider under paragraph (a) or (b)) may not raise in relation to the issue of whether a ground for review exists or has been made out any matter that was not raised by the person or body in a submission to the AER before the decision was made;
+(d)subject to paragraphs (a), (b) and (c) —
+(i)the applicant, or an intervener who has raised a new ground for review under section 256, may raise any matter relevant to the issues to be considered under section 259(4a) and (4b); and
+(ii)any person or body, other than the applicant or an intervener who has raised a new ground for review under section 256, may not raise any matter relevant to the issues to be considered under section 259(4a) and (4b) unless it is in response to a matter raised by —
+(A)the AER under subsection (2)(b)(iii); or
+(B)the applicant under subparagraph (i); or
+(C)an intervener under subparagraph (i).
+(4)For the purposes of subsection (3)(d) —
+(a)a reference to an applicant includes a reference to a person or body who has applied to the Tribunal for leave to apply for a review under this Division; and
+(b)a reference to an intervener includes a reference to a person or body who has applied to the Tribunal for leave to intervene in a review under this Division.
+[Section 258A inserted see SA Act No. 79 of 2013 s. 29 and WA Gazette 14 Mar 2014 p. 632.]
 ### 259. Tribunal must make determination
 (1)If, following an application, the Tribunal grants leave in accordance with section 245, the Tribunal must make a determination in respect of the application.
 Note—
 See section 260 for the time limit within which the Tribunal must make its determination.
-(2)A determination under this section may—
-(a)affirm, set aside or vary the reviewable regulatory decision;
-(b)remit the matter back to the original decision maker to make the decision again, in accordance with any direction or recommendation of the Tribunal.
-(3)For the purposes of making a determination of the kind in subsection (2)(a), the Tribunal may perform all the functions and exercise all the powers of the original decision maker under this Law or the Rules.
-(4)In deciding whether to remit a matter back to the original decision maker to make the decision again, the Tribunal must have regard to the nature and relative complexities of—
+(2)Subject to subsections (4) and (4a), a determination under this section may —
+(a)affirm the reviewable regulatory decision; or
+(b)vary the reviewable regulatory decision; or
+(c)set aside the reviewable regulatory decision and remit the matter back to the original decision maker to make the decision again in accordance with any direction or recommendation of the Tribunal.
+(3)For the purposes of making a determination of the kind in subsection (2)(a) or (b), the Tribunal may perform all the functions and exercise all the powers of the original decision maker under this Law or the Rules.
+(4)In deciding whether to remit a matter back to the original decision maker to make the decision again, other than in a case where the decision is a designated reviewable regulatory decision, the Tribunal must have regard to the nature and relative complexities of—
 (a)the reviewable regulatory decision; and
 (b)the matter the subject of the review.
-(5)A determination by the Tribunal affirming, setting aside or varying the reviewable regulatory decision is, for the purposes of this Law (other than this Part), to be taken to be a decision of the original decision maker.
+(4a)In a case where the decision is a designated reviewable regulatory decision, the Tribunal may only make a determination —
+(a)to vary the designated reviewable regulatory decision under subsection (2)(b); or
+(b)to set aside the designated reviewable regulatory decision and remit the matter back to the AER under subsection (2)(c),
+if —
+(c)the Tribunal is satisfied that to do so will, or is likely to, result in a decision that is materially preferable to the designated reviewable regulatory decision in making a contribution to the achievement of the national gas objective (a materially preferable designated NGO decision) (and if the Tribunal is not so satisfied the Tribunal must affirm the decision); and
+(d)in the case of a determination to vary the designated reviewable regulatory decision—the Tribunal is satisfied that to do so will not require the Tribunal to undertake an assessment of such complexity that the preferable course of action would be to set aside the decision and remit the matter to the AER to make the decision again.
+(4b)In connection with the operation of subsection (4a) (and without limiting any other matter that may be relevant under this Law) —
+(a)the Tribunal must consider how the constituent components of the designated reviewable regulatory decision interrelate with each other and with the matters raised as a ground for review; and
+(b)without limiting paragraph (a), the Tribunal must take into account the revenue and pricing principles (in the same manner in which the AER is to take into account these principles under section 28); and
+(c)the Tribunal must, in assessing the extent of contribution to the achievement of the national gas objective, consider the designated reviewable regulatory decision as a whole; and (d) the following matters must not, in themselves, determine the question about whether a materially preferable designated NGO decision exists:
+(i)the establishment of a ground for review under section 246(1);
+(ii)consequences for, or impacts on, the average annual regulated revenue of a covered pipeline service provider;
+(iii)that the amount that is specified in or derived from the designated reviewable regulatory decision exceeds the amount specified in section 249(2).
+(4c)If the Tribunal makes a determination under subsection (2)(b) or (c), the Tribunal must specify in its determination —
+(a)the manner in which it has taken into account the interrelationship between the constituent components of the designated reviewable regulatory decision and how they relate to the matters raised as a ground for review as contemplated by subsection (4b)(a); and
+(b)in the case of a determination to vary the designated reviewable regulatory decision—the reasons why it is proceeding to make the variation in view of the requirements of subsection (4a)(d).
+(5)A determination by the Tribunal affirming, varying or setting aside the reviewable regulatory decision is, for the purposes of this Law (other than this Part), to be taken to be a decision of the original decision maker.
+[Section 259 amended see SA Act No. 79 of 2013 s. 30 and WA Gazette 14 Mar 2014 p. 632.]
 ### 260. Target time limit for Tribunal for making a determination under this Division
 (1)The Tribunal must use its best endeavours to make a determination in respect of the application for review under this Division—
 (a)within 3 months after the Tribunal grants leave in accordance with section 245 (the standard period); or
@@ -2361,34 +2451,50 @@ See section 260 for the time limit within which the Tribunal must make its deter
 (a)stating that it has done so; and
 (b)specifying a date by which it must now use its best endeavours to make the determination.
 ### 261. Matters to be considered by Tribunal in making determination
+(1)Subject to this section, the Tribunal, in acting under this Division in relation to a reviewable regulatory decision —
+(a)must not consider any matter other than review related matter (and any matter arising as a result of consultation under paragraph (b)); and
+(b)must, before making a determination that relates to a designated reviewable regulatory decision, take reasonable steps to consult with (in such manner as the Tribunal thinks appropriate) —
+(i)users and prospective users of the pipeline services; and
+(ii)any user or consumer associations or user or consumer interest groups,
+that the Tribunal considers have an interest in the determination, other than a user or consumer association or a user or consumer interest group that is a party to the review.
 (1)Subject to this section, the Tribunal, in reviewing a reviewable regulatory decision, must not consider any matter other than review related matter.
-(2)The Tribunal, in reviewing a reviewable regulatory decision, must—
-(a)in all cases, have regard to any document—
-(i)prepared, and used, by the original decision maker for the purpose of making the reviewable regulatory decision; and
-(ii)that the decision maker has made publicly available; and
-(b)in the case of a reviewable regulatory decision that is a Ministerial coverage decision, also have regard to any document—
-(i)prepared, and used, by the NCC for the purpose of making the NCC recommendation relating to the Ministerial coverage decision; and
-(ii)that the NCC has made publicly available.
-(3)In addition, if in a review, the Tribunal is of the view that a ground of review has been established, the Tribunal may allow new information or material to be submitted if the new information or material—
+[(2)deleted]
+(3)If in a review, other than a review that relates to a designated reviewable regulatory decision, the Tribunal is of the view that a ground of review has been made out, the Tribunal may allow new information or material to be submitted if the new information or material—
 (a)would assist it on any aspect of the determination to be made; and
 (b)was not unreasonably withheld from—
 (i)in all cases, the original decision maker when the decision maker was making the reviewable regulatory decision; and
 (ii)in the case of a reviewable regulatory decision that is a Ministerial coverage decision, the NCC when it was it making the NCC recommendation related to Ministerial coverage decision.
-(4)Subject to this Law, for the purpose of subsection (3)(b), information or material not provided to the original decision maker or the NCC (as the case requires) following a request for that information or material by the original decision maker or the NCC under this Law or the Rules is to be taken to have been unreasonably withheld.
+(3a)If in a review that relates to a designated reviewable regulatory decision the Tribunal is of the view that a ground for review has been made out, the Tribunal may, on application by a party to the review, allow new information or material to be submitted if the party can establish to the satisfaction of the Tribunal that the information or material —
+(a)was publicly available or known to be publicly available to the AER when it was making the designated reviewable regulatory decision; or
+(b)would assist the Tribunal on any aspect of the determination to be made and was not unreasonably withheld from the AER when it was making the designated reviewable regulatory decision,
+and was (in the opinion of the Tribunal) information or material that the AER would reasonably have been expected to have considered when it was making the designated reviewable regulatory decision.
+(3b)In addition, if in a review of a designated reviewable regulatory decision the Tribunal is of the view —
+(a)that a ground for review has been made out; and
+(b)that it would assist the Tribunal to obtain information or material under this subsection in order to determine whether a materially preferable designated NGO decision exists,
+the Tribunal may, on its own initiative, take steps to obtain that information or material (including by seeking evidence from such persons as it thinks fit).
+(3c)The action taken by a person acting in response to steps taken by the Tribunal under subsection (3b) must be limited to considering decision related matter under section 68C.
+(3d)In addition, in the case of a review of a designated reviewable regulatory decision that is a decision to make a full access arrangement decision in place of an access arrangement that the AER did not approve, the Tribunal may consider the reasons of the AER for its decision not to approve the access arrangement or proposed revisions to the applicable access arrangement (as the case may be).
+(4)Subject to this Law, for the purpose of subsection (3)(b) and (3a)(b), information or material not provided to the original decision maker, the NCC or the AER (as the case requires) following a request for that information or material by the original decision maker, the NCC or the AER under this Law or the Rules is to be taken to have been unreasonably withheld.
 (5)Subsection (4) does not limit what may constitute an unreasonable withholding of information or material.
-(6)In the case of a review of a reviewable regulatory decision of the AER that is a decision to make a full access arrangement decision in place of an access arrangement that the AER did not approve, the Tribunal may consider the reasons of the AER for its decision not to approve the access arrangement.
+[(6)deleted]
 (7)In this section—
-review related matter means—
-(a)the application for review and submissions in support of the application; and
-(b)the reviewable regulatory decision and the written record of it and any written reasons for it; and
-(c)in the case of a reviewable regulatory decision that is an applicable access arrangement decision—any document, proposal or information required or allowed under the Rules to be submitted as part of the process for the making of the decision; and
-(d)any written submissions made to the original decision maker before the reviewable regulatory decision was made or the NCC before the making of an NCC recommendation; and
-(e)any reports and materials relied on by the original decision maker in making the reviewable regulatory decision or the NCC in making an NCC recommendation; and
-(f)any draft of the reviewable regulatory decision or NCC recommendation; and
-(g)any submissions on—
-(i)the draft of the reviewable regulatory decision or the reviewable regulatory decision itself considered by the original decision maker; or
-(ii)the draft of an NCC recommendation or the NCC recommendation itself considered by the NCC; and
-(h)the transcript (if any) of any hearing conducted by the original decision maker for the purpose of making the reviewable regulatory decision.
+review related matter means —
+(a)the application for review; and
+(b)a notice raising new grounds for review filed by an intervener; and
+(c)the submissions made to the Tribunal by the parties to the review; and
+(d) —
+(i)in the case of a designated reviewable regulatory decision — decision related matter under section 68C; or
+(ii)in any other case —
+(A)the reviewable regulatory decision and the written record of it and any written reasons for it; and
+(B)any written submissions made to the original decision maker before the reviewable regulatory decision was made or the NCC before the making of an NCC recommendation; and
+(C)any reports and materials relied on by the original decision maker in making the reviewable regulatory decision or the NCC in making an NCC recommendation; and
+(D)any draft of the reviewable regulatory decision or NCC recommendation; and
+(E)any submissions on —
+•the draft of the reviewable regulatory decision or the reviewable regulatory decision itself considered by the original decision maker; or
+•the draft of an NCC recommendation or the NCC recommendation itself considered by the NCC; and
+(F)the transcript of any hearing (if any) conducted by the original decision maker for the purpose of making the reviewable regulatory decision; and
+(e)any other matter properly before the Tribunal in connection with the relevant proceedings.
+[Section 261 amended see SA Act No. 79 of 2013 s. 31 and WA Gazette 14 Mar 2014 p. 632.]
 ### 262. Assistance from NCC in certain cases
 (1)This section applies if the reviewable regulatory decision being reviewed under this Division is a Ministerial coverage decision.
 (2)The member of the Tribunal presiding in the review may require the NCC to give information and other assistance and to make reports, as specified, by the member for the purposes of the review.
@@ -2426,24 +2532,38 @@ The member of the Tribunal presiding in the review may require the AER to give i
 (b)the time required by—
 (i)the Tribunal to hear the review as a result of that conduct; or
 (ii)another party to prepare their case as a result of that conduct; or
-(c)the submissions or arguments made to the Tribunal by another party.
+(c)in the case of the AER in a review of a designated reviewable regulatory decision — the submissions or arguments made to the Tribunal by another party.
 (3)The Tribunal may make an order requiring a user or consumer intervener (that is not a small/medium user or consumer intervener) that has intervened in the review to pay all or part of the costs of another party to the review if the Tribunal considers that the intervener has conducted their case in the review without due regard to—
 (a)the costs that would have to be incurred by another party to the review as a result of that conduct; or
 (b)the time required by—
 (i)the Tribunal to hear the review as a result of that conduct; or
 (ii)another party to prepare their case as a result of that conduct; or
 (c)the submissions or arguments made to the Tribunal by another party.
+[Section 268 amended see SA Act No. 79 of 2013 s. 32 and WA Gazette 14 Mar 2014 p. 632.]
 ### 269. Amount of costs
-If the Tribunal makes an order for costs in a review under this Part, the Tribunal may in that order fix the amount of costs payable by a party to the review on—
+(1)If the Tribunal makes an order for costs in a review under this Part, the Tribunal may in that order fix the amount of costs payable by a party to the review on—
 (a)a party and party basis; or
 (b)a solicitor and client basis; or
 (c)an indemnity basis; or
 (d)any other basis as the Tribunal may decide.
+(2)However, in the case of a review that relates to a designated reviewable regulatory decision —
+(a)subsection (1) does not apply in relation to an order for costs against a small/medium user or consumer intervener; and
+(b)if the Tribunal makes an order for costs against a small/medium user or consumer intervener in favour of another party, the costs must be limited to the payment of reasonable administrative costs (as determined by the Tribunal) of that other party.
+[Section 269 amended see SA Act No. 79 of 2013 s. 33 and WA Gazette 14 Mar 2014 p. 632.]
+### 269A. Costs not to be passed on
+(1)This section applies to any expenditure or cost that a service provider incurs, or is forecast to incur, as a result of or incidental to a review that relates to a designated reviewable regulatory decision under this Part, including costs awarded under section 268.
+(2)A service provider —
+(a)must not, for the purposes of an applicable access arrangement decision, include as part of its capital expenditure or operating expenditure any expenditure or cost to which this section applies; and
+(b)must not recover from end users or seek a pass through of any expenditure or cost to which this section applies.
+(3)This section applies despite any provision to the contrary in this Law, the Rules, an applicable access arrangement or an applicable access arrangement decision (and this section prevails to the extent of any inconsistency between such a provision and this section).
+[Section 269A inserted see SA Act No. 79 of 2013 s. 34 and WA Gazette 14 Mar 2014 p. 632.]
 ### 270. Review of Part
-(1)The MCE must cause a review of this Part to be undertaken within 7 years after the commencement of this Part by a person nominated by the MCE.
+(1)The MCE must initiate a review of the Tribunal's role under this Part by 1 December 2016.
+(1a)The review will be undertaken by a person nominated by the MCE.
 (2)The MCE must specify the matters to be addressed in the review.
 (3)The person undertaking the review must, during the review, invite public comment and submissions about the matters to be addressed in the review.
 (4)The person undertaking the review must report, in writing, to the MCE on the outcome of the review by the date specified by the MCE.
+[Section 270 amended see SA Act No. 79 of 2013 s. 35 and WA Gazette 14 Mar 2014 p. 632.]
 ## Part 6 — Enforcement of access determinations
 ### 271. Enforcement of access determinations
 (1)If the Court is satisfied, on the application of a party to an access determination, that another party to the determination has engaged, is engaging, or is proposing to engage in conduct that constitutes a contravention of the determination, the Court may make all or any of the following orders:
@@ -4076,10 +4196,12 @@ Compilation table
 The Western Australian National Gas Access Law text is the text that results from modifying the National Gas Law, as set out in the Schedule to the National Gas (South Australia) Act 2008 (South Australia) for the time being in force (the SA Schedule), as shown in the National Gas Access (WA) Act 2009 Schedule 1 (WA Schedule 1) and to reflect that, because of the National Gas Access (WA) Act 2009 s. 7A, amendments to the SA Schedule only affect the Western Australian National Gas Access Law text to the extent that they are declared under that section to be relevant to that text.
 Source | Published | Commencement
 National Gas (South Australia) Act 2008 Schedule (as modified by the National Gas Access (WA) Act 2009 Sch. 1) | SA Act No. 19 of 2008 | In SA: 1 Jul 2008 (see SA Gazette 26 Jun 2008 p. 2553) In WA: 1 Jan 2010 (see WA Act s. 2(b) and Gazette 31 Dec 2009 p. 5327)
-National Gas (South Australia) (National Gas Law—Australian Energy Market Operator) Amendment Act 2009 s. 6 | SA Act No. 30 of 2009 | In SA: 1 Jul 2009 (see SA Gazette 25 Jun 2008 p. 3000)
-National Gas Access (WA) Adoption of Amendments Order 2009 | Gazette 18 Dec 2009 p. 5167-8 | 1 Jan 2010 (see cl. 2)
-Defined Terms
-[This is a list of terms defined and the provisions where they are defined. Unless otherwise indicated references are to provisions in the Note. The list is not part of the law.]
+National Gas (South Australia) (National Gas Law—Australian Energy Market Operator) Amendment Act 2009 s. 6 | SA Act No. 30 of 2009 | In SA: 1 Jul 2009 (see SA Gazette 25 Jun 2008 p. 3000) In WA: 1 Jan 2010 (see WA Gazette 18 Dec 2009 p. 5167-8)
+Statutes Amendment (National Electricity and Gas Laws — Limited Merits Review) Act 2013 Pt. 3 | SA Act No. 79 of 2013 | In SA: 19 Dec 2013 (see SA Gazette 19 Dec 2013 p. 4927) In WA: 15 Mar 2014 (see WA Gazette 14 Mar 2014 p. 632)
+Defined terms
+[This is a list of terms defined and the provisions where they are defined.
+Unless otherwise indicated references are to provisions in the Note.
+The list is not part of the law.]
 Defined TermProvision(s)
 15-year no-coverage determination2, 151(1)
 ACCC2
