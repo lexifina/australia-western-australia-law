@@ -33,11 +33,29 @@ Residential Tenancies Amendment Regulations 2013 | 3 May 2013 p. 1737-835 | r. 1
 Reprint 4: The Residential Tenancies Regulations 1989 as at 19 Jul 2013 (includes amendments listed above)
 Residential Tenancies Amendment Regulations (No. 2) 2013 | 20 Aug 2013 p. 3840 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Electricity Corporations (Consequential Amendments) Regulations 2013 r. 14 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Residential Tenancies Amendment Regulations 2014 r. 3-5 | 21 Mar 2014 p. 730-1 | 1 Feb 2016 (see r. 2(b))
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Repealed by the Legal Profession Act 2008.
 The Residential Tenancies Act 1987 Sch. 1 cl. 7 was deleted by the Residential Tenancies Amendment Act 2011 s. 87(16).
 Now called the Consolidated Account.
+On the date as at which this compilation was prepared, the Residential Tenancies Amendment Regulations 2014 r. 3-5 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Residential Tenancies Regulations 1989.
+4.Part 2 heading replaced
+Delete the heading to Part 2 and insert:
+Part 2 — Application of Act, modification of application
+5.Regulation 5AAA inserted
+After regulation 5 insert:
+5AAA.Application of Act to certain accommodation at St Thomas More College
+(1) In this regulation —
+St Thomas More College means the premises comprising St Thomas More College on Mounts Bay Road, Crawley.
+(2) The following accommodation at St Thomas More College is prescribed for the purposes of section 5(3)(b) of the Act —
+(a) the student accommodation provided in the building on the western side of the College; and
+(b) the student accommodation provided in the southern-most building of the College.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
