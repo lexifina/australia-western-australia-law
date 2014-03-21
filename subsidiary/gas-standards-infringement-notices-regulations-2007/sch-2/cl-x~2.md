@@ -2,11 +2,11 @@
 Gas Standards Act 1972 Withdrawal of infringement notice | Withdrawal no.
 Alleged offender | Name:Family name
 Given names
-orCompany name _____________________________________ ACN
-Address _________________________________________________ Postcode
+orCompany name ______________________________________ ACN
+Address __________________________________________________ Postcode
 Infringement notice | Infringement notice no.
 Date of issue //20
-Alleged offence | Description of offence ____________________________________
+Alleged offence | Description of offence _______________________________________
 Gas Standards Act 1972 s. Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 r. Gas Standards (Gas Supply and System Safety) Regulations 2000 r.
 Date //20Timea.m./p.m.
 Officer withdrawing notice | Name
