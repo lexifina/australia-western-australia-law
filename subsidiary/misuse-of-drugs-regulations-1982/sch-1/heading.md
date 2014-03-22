@@ -149,48 +149,64 @@ Form M.D. 16
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
 MISUSE OF DRUGS REGULATIONS 1982
-CANNABIS INTERVENTION REQUIREMENT
-CIR No.
-Date of Issue |  |  | / |  |  | /
-Alleged offender
+CANNABIS INTERVENTION REQUIREMENT (CIR)
+CANNABIS INTERVENTION REQUIREMENT NUMBER:
+DATE OF ISSUE DD/MM/YYYY:
+ALLEGED OFFENDER
 Surname
-Given name/s
-Number & street
-Suburb / town |  |  |  |  | Postcode
-Telephone (H)
-Telephone (M)
-Date of birth |  |  | / |  |  | /
+Given Name/s
+Date of Birth DD/MM/YYYY
+Gender MALE/FEMALE/OTHER
+Telephone
 MDL Number
-Gender
-Alleged Offence
-It is alleged that at the following place and time
-Place (Address)
- | Postcode
-Date ........../........../20.......
-Time ..................... a.m./p.m.
-You committed the following minor cannabis related offence/s.
+Number & Street Address
+Suburb / Town
+Postcode
+ALLEGED OFFENCE/S
+It is alleged that, on the following date, at the following time and place:
+Date DD/MM/YYYY
+Time AM/PM
+Place (location or address)
+you committed the following minor cannabis related offence/s:
 Misuse of Drugs Act 1981 | Description of offence
-p s. 5(1)(d)(i) | Possession of a smoking utensil that has detectable traces of cannabis
-p s. 6(2) | Possession or use of not more than 10 grams of cannabis* * not including any cannabis plant under cultivation, cannabis resin or any other cannabis derivative
-Issuing Officer
-Station
+p s. 7B(6) | Possession of any drug paraphernalia in or on which there is cannabis
+p s. 6(2) | Possession or use of not more than 10 g of cannabis, not including any cannabis plant under cultivation, cannabis resin or any other cannabis derivative
+ISSUING OFFICER
+Surname
+Rank
+Registered Number | PD
 Signature
-Date |  |  | / |  |  | /
-WHAT YOU MUST DO You have a period of 28 days after this notice was given to you to complete a CANNABIS INTERVENTION SESSION (CIS) OR elect to be prosecuted for the alleged offence. If you do not complete the CIS, then you will be prosecuted for the alleged offence. YOUR FAILURE TO COMPLETE THE CIS OR ELECT TO BE PROSECUTED WILL RESULT IN FURTHER ACTION AGAINST YOU.
-CANNABIS INTERVENTION SESSION The Cannabis Intervention Session (CIS) is a mandatory one-to-one therapeutic intervention with a trained alcohol and drug counsellor. As part of the CIS you will be provided with information on — ·the adverse health and social consequences of cannabis use; and ·the laws relating to the use, possession and cultivation of cannabis; and ·effective strategies to address cannabis using behaviour. The CIS takes approximately 60-90 minutes to complete. You are required to complete the CIS within 28 days after this Cannabis Intervention Requirement (CIR) was given to you. What you need to do/know ·Contact the Cannabis Intervention Session Booking Service on 1800 722 362 between 7.00 a.m. — 7.00 p.m., Monday to Sunday, to book a CIS with an approved treatment provider. The personal information provided during the booking process will be recorded and passed on to the approved treatment provider and stored on a health database. ·When making your booking ensure you have a pen available to write down the time, date and address of the CIS in the space provided below on this form.
-You are strongly advised to phone the CIS Booking Service within 3 days from the date this CIR was given to you to ensure a booking can be made for you within the 28 day permitted period. No reminders will be issued. You need to bring to the CIS — ·Photographic identification ·This CIR. You must arrive on time and complete the entire CIS.
-CIS appointment details
-Appointment Date ______________________________________________
-Address_______________________________________________________
-Appointment Time ______________________________________________
-Electing to be prosecuted in a court
-I elect to have the offence alleged in this CIR dealt with by a court.
+Station Name
+Date DD/MM/YYYY
+TO ELECT TO BE PROSECUTED IN A COURT
+If you choose to be prosecuted for the alleged offence/s in a court, then complete the following details in writing and post this form to the Drug Diversion Coordinator at the address below within 28 days of this CIR being given to you. I elect to have the offence/s alleged in this Cannabis Intervention Requirement dealt with by a court.
 Signature
-Date |  |  | / |  |  | /
-Address for service
- |  |  |  |  |  |  |  |  |  |  | Postcode
-Post to: Drug Diversion Coordinator, Licensing Enforcement Division, WA Police, Level 2, Cambridge House, 297 Hay Street, Perth WA 6000
-[Form M.D. 16 inserted in Gazette 29 Jul 2011 p. 3140-2.]
+Surname
+Given Name/s
+Date DD/MM/YYYY
+Telephone
+Number & Street Address (for service)
+Suburb / Town
+Postcode
+Post to WA POLICE DRUG DIVERSION COORDINATOR LICENSING ENFORCEMENT DIVISION LOCKED BAG 9, EAST PERTH POST OFFICE EAST PERTH WA 6892
+TO ELECT TO COMPLETE A CANNABIS INTERVENTION SESSION
+If you do not want to be prosecuted for the alleged offence/s in a court, you must complete a Cannabis Intervention Session (CIS) within 28 days after this Cannabis Intervention Requirement (CIR) is given to you. If you do not complete the CIS within 28 days, then the Police may prosecute you for the alleged offence/s in a court. Please read the following important information about how to book, reschedule, or how seek an extension of time to complete the CIS.
+WHAT IS A CANNABIS INTERVENTION SESSION?
+The Cannabis Intervention Session (or a CIS) is a one-to-one session with a trained counsellor that takes about 60-90 minutes to complete. During the CIS, you will be provided with information about the health and social consequences of cannabis use; the laws relating to the use, possession and cultivation of cannabis; and effective strategies to address cannabis using behaviour. You are required to complete the CIS within 28 days after this Cannabis Intervention Requirement (CIR) was given to you.
+HOW DO I BOOK A CANNABIS INTERVENTION SESSION?
+As soon as possible, telephone the Cannabis Intervention Session Booking Service on 1800 722 362 between 7.00 a.m. — 7.00 p.m., Monday to Sunday. The personal information provided during the booking process will be recorded and passed on to the approved treatment provider and stored on a health database. When you make your CIS appointment, please make sure you have a pen to write down the time, date and address of the CIS in the space provided below on this form. It is very important that you telephone the Cannabis Intervention Session Booking Service as soon as possible to ensure a booking can be made within the 28 day permitted period. No reminders will be issued.
+WHEN YOU ATTEND A CANNABIS INTERVENTION SESSION
+BRING photographic identification. ARRIVE on time and complete the entire CIS. DO NOT arrive at the CIS under the influence of alcohol or other drugs. If you are under the influence of alcohol or other drugs you will not be permitted to undertake the session. However, continue to take any medication that has been prescribed by your doctor. If you have any questions about attending the CIS, please ask the Cannabis Intervention Session Booking Service operator by calling 1800 722 362.
+WHAT IF I NEED TO RE-SCHEDULE A CIS BOOKING?
+If you need to reschedule a booking to complete a CIS, you must contact the CIS Booking Service by calling 1800 722 362. A booking can only be rescheduled if another appointment is available within the permitted 28 day period.
+WHAT IF I NEED AN EXTENSION OF TIME TO DO A CIS?
+In exceptional circumstances, Police may approve an extension of the time permitted to complete a CIS beyond the permitted 28 day period. To apply for an extension of time, please visit www.police.wa.gov.au, navigate to Online forms, navigate to Alcohol and Drugs, click on Application for extension of time to complete a CIS, complete the form and use the email link to send the application form to the Drug Diversion Coordinator. Alternatively, if you cannot access the Police website, you may telephone 131 444, ask to speak to the WA Police Drug Diversion Coordinator, and ask them to mail you an Application for extension of time to complete a CIS by post.
+Once you have obtained the application form, complete it and post it to: WA POLICE DRUG DIVERSION COORDINATOR LICENSING ENFORCEMENT DIVISION LOCKED BAG 9, EAST PERTH POST OFFICE EAST PERTH WA 6892 Alternatively, you may also send the completed application form by email to led.cir.smail@police.wa.gov.au
+CANNABIS INTERVENTION SESSION APPOINTMENT DETAILS
+Appointment Date:
+Appointment Time:
+Appointment Address:
+[Form M.D. 16 inserted in Gazette 21 Mar 2014 p. 738-41.]
 Form M.D. 17
 WESTERN AUSTRALIA
 MISUSE OF DRUGS ACT 1981
