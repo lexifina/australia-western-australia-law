@@ -1,6 +1,6 @@
 ## Schedule 3 — Fees
-[r. 11, 14ADF, 18B and 26]
-[Heading inserted in Gazette 16 Nov 2012 p. 5653.]
+[r. 11, 14ADF, 18B, 26 and 27A]
+[Heading inserted in Gazette 16 Nov 2012 p. 5653; amended in Gazette 21 Mar 2014 p. 742.]
 Item | Description | Fee $
 1. | Application for the grant or removal of a hotel licence, nightclub licence, casino liquor licence, special facility licence or liquor store licence | 3 250
 2. | Application for the grant or removal of a club licence, restaurant licence, producer’s licence or wholesaler’s licence | 835
