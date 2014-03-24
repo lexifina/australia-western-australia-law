@@ -50,6 +50,10 @@ Acts Amendment (Fair Trading) Act 2010 Pt. 7 | 58 of 2010 | 8 Dec 2010 | 1 Jul 2
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 8 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Reprint 6: The Settlement Agents Act 1981 as at 11 Nov 2011 (includes amendments listed above except those in the Personal Property Securities (Consequential Repeals and Amendments) Act 2011)
 Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 4 | 6 of 2012 | 10 Apr 2012 | 28 May 2012 (see s. 2(c) and Cwlth Gazette 19 Apr 2012 ref. F2012L00891)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Electronic Conveyancing Act 2014 Pt. 7 | 2 of 2014 | 24 Mar 2014 | To be proclaimed (see s. 2(c))
 The appointed day is 1 Nov 1982, see Gazette 29 Oct 1982 p. 4322.
 The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 7(2) and (3) read as follows:
 (2) A person may give notice of a claim under section 93(2) as amended by this section even if the time within which that notice was to be given under that section before that amendment had expired.
@@ -59,6 +63,38 @@ Repealed by the Land Administration Act 1997 s. 281.
 The Real Estate Legislation Amendment Act 1995 s. 65(2) and 87 are saving and transitional provisions that are of no further effect.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 contain validation provisions for certain acts and omissions occurring before 23 Apr 2003.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Electronic Conveyancing Act 2014 Pt. 7 had not come into operation. It reads as follows:
+Part 7 — Settlement Agents Act 1981 amended
+56.Act amended
+This Part amends the Settlement Agents Act 1981.
+57.Section 46 amended
+(1) In section 46(4) delete “clause 1(1) of Schedule 2” and insert:
+Schedule 2 clause 1(1) or (2A),
+(2) After section 46(7) insert:
+(8) For the purposes of effecting a settlement referred to in subsection (1) that is being or is to be completed (wholly or in part) electronically under the Electronic Conveyancing Act 2014 —
+(a) if a licensee who is a natural person holds a real estate settlement agent’s licence and a current triennial certificate and is a subscriber (as defined in section 3(1) of that Act), that licensee may authorise any employee of the licensee to digitally sign documents and provide certifications on that licensee’s behalf; and
+(b) if a licensee that is a firm holds a real estate settlement agent’s licence and a current triennial certificate and is a subscriber (as so defined), the person in bona fide control of the business operated under the licence may authorise any employee of the licensee to digitally sign documents and provide certifications on that licensee’s behalf; and
+(c) if a licensee that is a body corporate holds a real estate settlement agent’s licence and a current triennial certificate and is a subscriber (as so defined), the person in bona fide control of the business operated under the licence may authorise any employee of the licensee to digitally sign documents and provide certifications on that licensee’s behalf; and
+(d) subject to any participation rules determined under section 23 of that Act, a person authorised under paragraph (a) or (b) or (c) may digitally sign documents and provide certifications in accordance with that authorisation.
+(9) An authorisation given under subsection (8)(a) or (b) or (c) to an employee of a licensee —
+(a) unless sooner revoked, continues for as long as the person remains an employee of the licensee; and
+(b) may be revoked by —
+(i) the licensee; or
+(ii) any person who, under subsection (8), is entitled to give authorisations to employees of the licensee, whether or not the person who originally gave the authorisation.
+58.Schedule 2 amended
+(1) Before Schedule 2 clause 1(1) insert:
+(1A) A word or expression that is defined in the Electronic Conveyancing Act 2014 section 3 has the same meaning in subclause (2A) as it has in that section.
+(2) After Schedule 2 clause 1(1)(f) insert:
+(ga) providing certifications required in respect of the lodging of documents to which paragraph (f) applies;
+(3) After Schedule 2 clause 1(1) insert:
+(2A) A licensee who holds a real estate settlement agent’s licence and a current triennial certificate may perform any function necessary to enable a conveyancing transaction to be completed by means of an ELN, including (without limitation) the following functions —
+(a) entering into a client authorisation to act as a subscriber;
+(b) with respect to registry instruments and other documents that a licensee is authorised by this Act to prepare —
+(i) preparing them in electronic form for lodging by means of an ELN;
+(ii) digitally signing them;
+(iii) lodging them in electronic form with the Authority or other Government offices or the offices of statutory authorities by means of an ELN;
+(iv) providing certifications required in respect of, or in connection with, the lodging of those registry instruments or other documents by means of an ELN;
+(c) doing anything necessary to enable the completion of an associated financial transaction.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
