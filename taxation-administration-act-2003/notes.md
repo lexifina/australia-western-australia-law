@@ -28,6 +28,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 482 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Electronic Conveyancing Act 2014 Pt. 8 | 2 of 2014 | 24 Mar 2014 | To be proclaimed (see s. 2(c))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 The amendment to s. 114(3)(f) in the Workers’ Compensation Reform Act 2004 s. 174 is not included because the paragraph it seeks to amend was deleted by the Business Tax Review (Assessment) Act (No. 2) 2003 s. 100.
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 7 Div. 1 of those regulations read as follows:
@@ -262,7 +263,14 @@ new provisions means the provisions of the Stamp Act 1921 as amended by the Reve
 (3) Subsection (2) does not authorise the Commissioner to make an assessment under the new provisions of the duty on an instrument to the extent (if any) to which the former provisions apply in relation to it under the Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 section 9(2)(b).
 (4) The Taxation Administration Act 2003 sections 18 and 54(1)(a) apply in relation to an assessment under subsection (2) as if it were a reassessment under section 16 of that Act.
 The amendment in the Duties Legislation Amendment Act 2008 s. 46 is not included because the section it sought to amend had been replaced by the Revenue Laws Amendment Act (No. 2) 2008 s. 7 before the amendment purported to come into operation.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Electronic Conveyancing Act 2014 Pt. 8 had not come into operation. It reads as follows:
+Part 8 — Taxation Administration Act 2003 amended
+59.Act amended
+This Part amends the Taxation Administration Act 2003.
+60.Section 114 amended
+After section 114(3) insert:
+(4A) A word or expression that is defined in the Electronic Conveyancing Act 2014 section 3 has the same meaning in subsection (4B) as it has in that section.
+(4B) This section does not prevent the disclosure of information or material to the Authority, the Commissioner, the Registrar, an ELNO or subscribers for the purpose of enabling subscribers to complete conveyancing transactions or associated financial transactions, or both, by means of an ELN provided and operated under the Electronic Conveyancing Act 2014.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 48 had not come into operation. It reads as follows:
 Division 48 — Taxation Administration Act 2003 amended
 177.Act amended
