@@ -10,11 +10,11 @@ of
 (address)
 suffered compensable personal injury by accident in the employment of
 (name of employer)
-on the ....................................... day of ............................................ 20
+on the....................................... day of............................................ 20
 The injury/injuries suffered by me was/were:
 (state nature of injury and percentage loss of use or loss of efficient use of a part or faculty of the body)
-*Before that injury was suffered I had previously suffered compensable personal injury by accident to that part or faculty of the body resulting in ............... % loss of use of that part or faculty.
-I elect to receive compensation under Part III Division 2 of the Workers’ Compensation and Injury Management Act 1981 which I anticipate should be the sum of $....................... representing ............. % loss of item .................................. being
+*Before that injury was suffered I had previously suffered compensable personal injury by accident to that part or faculty of the body resulting in............... % loss of use of that part or faculty.
+I elect to receive compensation under Part III Division 2 of the Workers’ Compensation and Injury Management Act 1981 which I anticipate should be the sum of $....................... representing............. % loss of item.................................. being
 (state the part or faculty of the body affected)
 In making this election and upon an agreement being registered under Division 7 of Part 3 of the Act or an award being made by a dispute resolution authority, I acknowledge that after registration or the making of the award:
 (1)I shall have no further entitlement to compensation under the Act for weekly payments arising out of that injury;
@@ -39,14 +39,14 @@ WORKER’S DECLARATION
 Date of injury/injuries
 Type of injury/injuries
 Degree of permanent impairment
-* Before that impairment was suffered I had previously suffered a permanent impairment from a compensable personal injury by accident to that part or faculty of the body resulting in ................ degree of permanent impairment of that part or faculty.
-I elect to receive compensation under the Workers’ Compensation and Injury Management Act 1981 Part III Division 2A which I anticipate should be the sum of $ ........................................ representing ............. % of item ............................. being ......................................................................... .
+* Before that impairment was suffered I had previously suffered a permanent impairment from a compensable personal injury by accident to that part or faculty of the body resulting in................ degree of permanent impairment of that part or faculty.
+I elect to receive compensation under the Workers’ Compensation and Injury Management Act 1981 Part III Division 2A which I anticipate should be the sum of $........................................ representing............. % of item............................. being..........................................................................
 (state the part or faculty of the body affected)
 In making this election and upon an agreement being registered under Part III Division 7 of the Act or an award being made by a dispute resolution authority, I acknowledge that after registration or the making of the award:
 (1)I shall have no further entitlement to compensation under the Act for weekly payments arising out of that injury.
 (2)I shall have no further entitlement in respect of that injury subsequent to the date of this election, to payment of expenses under the Workers’ Compensation and Injury Management Act 1981 Schedule 1 clauses 9, 17, 18, 18A and 19 (that is, in general terms, medical or surgical, dental, physiotherapy or chiropractic advice or treatment, first aid and ambulance expenses, medical requisites, charges for attendance and treatment by way of injury management, charges for hospital treatment and maintenance, cost of artificial aids and travelling expenses).
 (3)I shall have no entitlement to further moneys upon any increase to the prescribed amount for this degree of permanent impairment the subject of this election.
-Dated the ....................day of ....................................20..... .
+Dated the....................day of....................................20......
 ..........................................
 (Signature of worker)
 in the presence of:
@@ -83,7 +83,7 @@ Signed:
 (Member)
 ................................................
 (Member)
-Date ........................................
+Date........................................
 Attendance of Medical Practitioner.
 I hereby certify that
 of
@@ -255,14 +255,14 @@ Workers’ Compensation and Injury Management Act 1981
 (Sections 24B, 178(1)(b))
 WORKER’S CLAIM AND ELECTION FOR LUMP SUM COMPENSATION FOR NOISE INDUCED HEARING LOSS
 WORKER’S DETAILS — (Worker to complete)
-SurnameMr/Mrs/Miss/Ms Other Names Address ........................ Postcode Phone No. (H) .................... (W) Occupation (e.g. boiler maker, underground miner) Main tasks or duties performed (e.g. welding, drilling) |  | Date of Birth / / |  | Age |  | Sex M/F
+SurnameMr/Mrs/Miss/Ms Other Names Address ........................ Postcode Phone No. (H).................... (W) Occupation (e.g. boiler maker, underground miner) Main tasks or duties performed (e.g. welding, drilling) |  | Date of Birth / / |  | Age |  | Sex M/F
 If you have difficulty understanding English what is your preferred language?
 TYPE 32 AGENCY 991 ICD 250 LOCN 130 ______________________________ office use only ASCO
 ELECTION FOR SCHEDULE 2 INJURY — item 6
-NIHL FILE No. ...................... (Office Use Only) Date of compensable test ....../....../...... Compensable noise induced hearing loss ...........% (of item 6)Entitlement $ ............... Employer at time of test ................................................................................................... Address ......Post Code ...................... Previous settlement date ....../....../...... PLH ................................................................
+NIHL FILE No....................... (Office Use Only) Date of compensable test....../....../...... Compensable noise induced hearing loss...........% (of item 6)Entitlement $............... Employer at time of test................................................................................................... Address......Post Code...................... Previous settlement date....../....../...... PLH................................................................
 WORKER’S DECLARATION
-I elect to accept under Part III Division 2 of the Workers’ Compensation and Injury Management Act 1981 the sum of $ ......... representing ..........% of loss of Schedule 2 item 6 of the Act, being loss of hearing. In making this election I declare that I have not received nor am I eligible to receive compensation in respect of the noise induced hearing loss under any law of the Commonwealth, another State or Territory of the Commonwealth, or country other than Australia. In making this election and upon an agreement being registered by the Director, I acknowledge that after registration or making an award: 1.I shall have no further entitlement to compensation under the Act for the percentage loss of hearing which is the subject of this election; 2.I shall have no entitlement to further monies upon any increase to the prescribed amount for the percentage loss of hearing which is the subject of this election. DATED the .................... day of .............. 20........ (Signature of worker) in the presence of : (Signature and full name and address of witness)
-EMPLOYER DETAILS — (Employer to complete) |  | WorkCover No. ..........
+I elect to accept under Part III Division 2 of the Workers’ Compensation and Injury Management Act 1981 the sum of $......... representing..........% of loss of Schedule 2 item 6 of the Act, being loss of hearing. In making this election I declare that I have not received nor am I eligible to receive compensation in respect of the noise induced hearing loss under any law of the Commonwealth, another State or Territory of the Commonwealth, or country other than Australia. In making this election and upon an agreement being registered by the Director, I acknowledge that after registration or making an award: 1.I shall have no further entitlement to compensation under the Act for the percentage loss of hearing which is the subject of this election; 2.I shall have no entitlement to further monies upon any increase to the prescribed amount for the percentage loss of hearing which is the subject of this election. DATED the.................... day of.............. 20........ (Signature of worker) in the presence of : (Signature and full name and address of witness)
+EMPLOYER DETAILS — (Employer to complete) |  | WorkCover No...........
 Trading name of employer (e.g. Browns Welding; E.J. Drilling Service) |  | Local Gov.
  | Insurance Co.
 Address of worker’s usual workplace or base |  | Policy No.
@@ -272,35 +272,35 @@ Major activity or workplace (e.g. metal fabrication; gold mining, engineering.)
  | office use only ANZSIC
 WORKER’S EMPLOYMENT HISTORY FROM MARCH 1, 1991
 To be completed by WorkCover WA:
-Name of worker ................................................File #
-Name of insurer ..................Period of insurance ..................Policy No.
-Name of insurer ..................Period of insurance ..................Policy No.
-Name of insurer ..................Period of insurance ..................Policy No.
-Name of insurer ..................Period of insurance ..................Policy No.
+Name of worker................................................File #
+Name of insurer..................Period of insurance..................Policy No.
+Name of insurer..................Period of insurance..................Policy No.
+Name of insurer..................Period of insurance..................Policy No.
+Name of insurer..................Period of insurance..................Policy No.
 Employer at March 1, 1991:
 (Name)
 Address
 (Postcode)
-Telephone Number (.........) ..............................
-Type of work engaged in .............................................Prescribed o Yes o No
-Baseline TestDate......./......../........PLH o o . o o /NO BASELINE TEST
+Telephone Number (.........)..............................
+Type of work engaged in.............................................Prescribed o Yes o No
+Baseline TestDate......./......../........PLH o o. o o /NO BASELINE TEST
 (if worker has had a Full Audiological Baseline Test use the date please circle if applicable
 and PLH of the full audiological test)
-Subsequent TestDate......./......../........PLH o o . o o
-Subsequent TestDate......./......../........PLH o o . o o
-Subsequent TestDate......./......../........PLH o o . o o
-Subsequent TestDate......./......../........PLH o o . o o
-Subsequent TestDate......./......../........PLH o o . o o
-Subsequent TestDate......./......../........PLH o o . o o
-Subsequent TestDate......./......../........PLH o o . o o
+Subsequent TestDate......./......../........PLH o o. o o
+Subsequent TestDate......./......../........PLH o o. o o
+Subsequent TestDate......./......../........PLH o o. o o
+Subsequent TestDate......./......../........PLH o o. o o
+Subsequent TestDate......./......../........PLH o o. o o
+Subsequent TestDate......./......../........PLH o o. o o
+Subsequent TestDate......./......../........PLH o o. o o
 Subsequent Full
-Audio TestDate......./......../........PLH o o . o o
+Audio TestDate......./......../........PLH o o. o o
 Otorhinolarynigological
-assessmentDate......./......../........NIHLPLH o o . o o
+assessmentDate......./......../........NIHLPLH o o. o o
 Number of years with this employer since the baseline test/March 1, 1991 o o
 Termination Date......./......../........
 Subsequent test
-at terminationDate......./......../........PLH o o . o o
+at terminationDate......./......../........PLH o o. o o
 NIHL Claims Officer
 check:Date......./......../........Signature
 NIHL Manager
@@ -316,10 +316,10 @@ SurnameMr/Mrs/Miss/Ms Other Names Address Postcode Phone No. (H) (W) Occupation 
 If you have difficulty understanding English what is your preferred language?
 TYPE 32 AGENCY 991 ICD 250 LOCN 130 __________________________ office use only ASCO
 ELECTION FOR SCHEDULE 2 INJURY — item 44
-NIHL FILE No. ...................... (Office Use Only) Date of compensable test ....../....../...... Compensable noise induced hearing loss ........% (of item 44)Entitlement $ ........... Employer at time of test Address ................................................... Post Code Previous settlement date ....../....../......PLH
+NIHL FILE No....................... (Office Use Only) Date of compensable test....../....../...... Compensable noise induced hearing loss........% (of item 44)Entitlement $........... Employer at time of test Address................................................... Post Code Previous settlement date....../....../......PLH
 WORKER’S DECLARATION
-I elect to accept under the Workers’ Compensation and Injury Management Act 1981 Part III Division 2A the sum of $ ......... representing ..........% of loss of Schedule 2 item 44, being loss of hearing. In making this election I declare that I have not received nor am I eligible to receive compensation in respect of the noise induced hearing loss under any law of the Commonwealth, another State or Territory of the Commonwealth, or country other than Australia. In making this election and upon an agreement being registered by the Director, I acknowledge that after registration or making an award: 1.I shall have no further entitlement to compensation under the Act for the percentage loss of hearing which is the subject of this election; 2.I shall have no entitlement to further monies upon any increase to the prescribed amount for the percentage loss of hearing which is the subject of this election. DATED the .................... day of .............. 20........ ........................................................ (Signature of worker) in the presence of : ...................................................................................................................................... ...................................................................................................................................... (Signature and full name and address of witness)
-EMPLOYER DETAILS — (Employer to complete) |  | WorkCover No. ......
+I elect to accept under the Workers’ Compensation and Injury Management Act 1981 Part III Division 2A the sum of $......... representing..........% of loss of Schedule 2 item 44, being loss of hearing. In making this election I declare that I have not received nor am I eligible to receive compensation in respect of the noise induced hearing loss under any law of the Commonwealth, another State or Territory of the Commonwealth, or country other than Australia. In making this election and upon an agreement being registered by the Director, I acknowledge that after registration or making an award: 1.I shall have no further entitlement to compensation under the Act for the percentage loss of hearing which is the subject of this election; 2.I shall have no entitlement to further monies upon any increase to the prescribed amount for the percentage loss of hearing which is the subject of this election. DATED the.................... day of.............. 20........ ........................................................ (Signature of worker) in the presence of : ...................................................................................................................................... ...................................................................................................................................... (Signature and full name and address of witness)
+EMPLOYER DETAILS — (Employer to complete) |  | WorkCover No.......
 Trading name of employer (e.g. Browns Welding; E.J. Drilling Service) |  | Local Gov.
  | Insurance Co.
 Address of worker’s usual workplace or base |  | Policy No.
@@ -329,34 +329,34 @@ Major activity or workplace (e.g. metal fabrication, gold mining, engineering)
  | office use only ANZSIC
 WORKER’S EMPLOYMENT HISTORY FROM 1 MARCH 1991
 To be completed by WorkCover WA:
-Name of worker .................................................File No.
-Name of insurer ......................Period of insurance ..................Policy No.
-Name of insurer ......................Period of insurance ..................Policy No.
-Name of insurer ......................Period of insurance ..................Policy No.
-Name of insurer ......................Period of insurance ..................Policy No.
-Employer at 1 March 1991 .
+Name of worker.................................................File No.
+Name of insurer......................Period of insurance..................Policy No.
+Name of insurer......................Period of insurance..................Policy No.
+Name of insurer......................Period of insurance..................Policy No.
+Name of insurer......................Period of insurance..................Policy No.
+Employer at 1 March 1991.
 (Name)
 Address
 (Postcode)
-Telephone Number (.........) ..............................
-Type of work engaged in .............................................Prescribed o Yes o No
-Baseline Test Date....../......./....... PLH o o . o o / NO BASELINE TEST
+Telephone Number (.........)..............................
+Type of work engaged in.............................................Prescribed o Yes o No
+Baseline Test Date....../......./....... PLH o o. o o / NO BASELINE TEST
 (if worker has had a Full Audiological Baseline Test (please circle if applicable)
 use the date and PLH of the full audiological test)
-Subsequent TestDate....../......./.......PLH o o . o o
-Subsequent TestDate....../......./.......PLH o o . o o
-Subsequent TestDate....../......./.......PLH o o . o o
-Subsequent TestDate....../......./.......PLH o o . o o
-Subsequent TestDate....../......./.......PLH o o . o o
-Subsequent TestDate....../......./.......PLH o o . o o
-Subsequent TestDate....../......./.......PLH o o . o o
-Subsequent Full Audio TestDate....../......./.......PLH o o . o o
-Otorhinolaryngological assessmentDate....../......./.......NIHLPLH o o . o o
+Subsequent TestDate....../......./.......PLH o o. o o
+Subsequent TestDate....../......./.......PLH o o. o o
+Subsequent TestDate....../......./.......PLH o o. o o
+Subsequent TestDate....../......./.......PLH o o. o o
+Subsequent TestDate....../......./.......PLH o o. o o
+Subsequent TestDate....../......./.......PLH o o. o o
+Subsequent TestDate....../......./.......PLH o o. o o
+Subsequent Full Audio TestDate....../......./.......PLH o o. o o
+Otorhinolaryngological assessmentDate....../......./.......NIHLPLH o o. o o
 Number of years with this employer since the baseline test/1 March 1991 o o
 Termination Date......./......../........
-Subsequent test at termination Date......./......../........PLH o o . o o
-NIHL Claims Officer checkDate......./......../........Signature ...................................
-NIHL Manager checkDate......./......../........Signature ..................................
+Subsequent test at termination Date......./......../........PLH o o. o o
+NIHL Claims Officer checkDate......./......../........Signature...................................
+NIHL Manager checkDate......./......../........Signature..................................
 [Form 2CA inserted in Gazette 28 Oct 2005 p. 4916-19.]
 Form 2D
 [r. 6AA]
@@ -421,15 +421,15 @@ Workers’ Compensation and Injury Management Act 1981
 (Sections 57A(1)(b), 57B(1)(b) and 61(1))
 FIRST MEDICAL CERTIFICATE
 1. Worker’s Details
-First name(s): ......................................................... Surname:
+First name(s):......................................................... Surname:
 Address:
-Telephone: ................................... Date of birth: ......./......../........ Occupation:
+Telephone:................................... Date of birth:......./......../........ Occupation:
 r I have provided a WorkCover WA Injury Management brochure to the worker.
 2. Employer Details
 Name & address of worker’s employer:
 3. Consent Authority (to be signed at the option of the worker)
 I authorise any doctor who treats me (whether named in this certificate or not) to discuss my medical condition, in relation to my claim for workers’ compensation and return to work options, with my employer and with their insurer.
-Worker’s Signature .......................................... Date .............................
+Worker’s Signature.......................................... Date.............................
 IMPORTANT: FAILURE TO PROVIDE YOUR SIGNATURE ON THE AUTHORITY ABOVE MAY DELAY A DECISION BY YOUR EMPLOYER ON YOUR CLAIM.
 AFFECTED AREA
 4. Details from Worker Date of injury by accident or approximate date of onset of condition: Workplace location where incident occurred: Worker’s description of the injury: Worker’s description of how it occurred: 5. Medical Assessment Clinical findings / diagnosis (include possible complications, effect of prior injury or medical condition): ..................................................................................................... ..................................................................................................... ..................................................................................................... ..................................................................................................... In my opinion the above diagnosis does r / does not r correlate with the injury described to me by the worker.
@@ -438,21 +438,21 @@ INJURY MANAGEMENT
 FIT
 r Fit to return to pre-injury duties, no further treatment required | r First and Final certificate [See reg. 7 and s. 61(1) of the Act]
 r Fit to return to pre-injury duties, but requires further treatment
-r Fit for restricted return to work from .............................................. to
+r Fit for restricted return to work from.............................................. to
 r restricted hours (please specify):
 r restricted days (please specify):
 r restricted duties.
 r Work restrictions:
-r No lifting anything heavier than .......... kg. r Avoid repetitive bending / lifting. r Avoid repetitive use of body part. r Avoid prolonged standing / walking / sitting. r Keep injured area clean and dry. | Other restrictions:
+r No lifting anything heavier than.......... kg. r Avoid repetitive bending / lifting. r Avoid repetitive use of body part. r Avoid prolonged standing / walking / sitting. r Keep injured area clean and dry. | Other restrictions:
 UNFIT
-r Totally unfit for work for .................... days from ..................... to ....................... (inclusive).
+r Totally unfit for work for.................... days from..................... to....................... (inclusive).
 7. Medical Management
 rMedication:
 rApproved allied health treatments (specify type and include number of sessions recommended)
 rImaging
 rReferred to hospital/specialist (name)
 Other treatment:
-Next appointment (unless “First & Final Certificate”) Date ........................ Time
+Next appointment (unless “First & Final Certificate”) Date........................ Time
 If the worker is reviewed within 14 days, the worker cannot be required, under section 64 or 65 of the Act, to submit to a medical examination by a medical practitioner provided by the employer, on a day chosen by the employer that is within one month of the date of this certificate.
 8. Medical Practitioner / Employer Contact
 rI have made contact with the employer and discussed alternative work options.
@@ -460,10 +460,10 @@ rThe worker will be off work for more than 3 working days and/or is unable to re
 Employer please fax your contact details as I will contact you to discuss return to work options.
 rThe worker is able to return to normal duties. Contact with employer not necessary at this stage.
 9. Medical Practitioner’s Details
-Name ....................................................... Registration No.
+Name....................................................... Registration No.
 Address
-Telephone ................................................. Signature
-Fax .......................................................... Time & Date of examination
+Telephone................................................. Signature
+Fax.......................................................... Time & Date of examination
 For workers’ compensation information or assistance contact
 WorkCover WA’s Infoline: 1300 794 744
 [Form 3 inserted in Gazette 13 Apr 1999 p. 1539-40; amended in Gazette 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4919-20; 18 Nov 2011 p. 4824.]
@@ -479,15 +479,15 @@ To:
 [name and address of employer]
 From:
 [name and address of insurer]
-* Claim Number: .............................................
+* Claim Number:.............................................
 Date of injury by accident or approximate date of onset of condition:
 Nature of incapacity:
-Date claim made by employer: ...........................................................
+Date claim made by employer:...........................................................
 In respect of the above claim you are notified that liability is accepted in respect of the weekly payments claimed by the worker.
 Date on which weekly payments are proposed to commence:
 [Insurer to liaise with employer to ascertain the commencement date]
 Signed on behalf of the insurer:
-Date: ......................................................
+Date:......................................................
 * Please provide this claim number to your general practitioner at your next appointment in relation to this claim
 [Form 3A inserted in Gazette 14 Dec 1999 p. 6151; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4920.]
 Form 3B
@@ -502,7 +502,7 @@ To:
 [name and address of employer]
 From:
 [name and address of insurer]
-Claim Number: .............................................
+Claim Number:.............................................
 Date of injury by accident or approximate date of onset of condition:
 Nature of incapacity:
 Date claim made by employer:
@@ -517,7 +517,7 @@ If a reason is that the injury was not suffered in the course of employment, sta
 The provisions of the Workers’ Compensation and Injury Management Act 1981 relied on to dispute liability are:
 Signed on behalf of the insurer.
 (signature of senior officer responsible for claim)
-Date: ......................................................
+Date:......................................................
 [*delete if appropriate]
 NOTE THAT if you wish you may —
 ·discuss this notice with the insurer or apply to have the matter heard under any internal dispute resolution process of the insurer;
@@ -538,17 +538,17 @@ To:
 3. Director
 From:
 [name and address of insurer]
-Claim Number: .............................................
+Claim Number:.............................................
 Date of injury by accident or approximate date of onset of condition:
 Nature of incapacity:
-Date claim made by employer: .......................................
+Date claim made by employer:.......................................
 In respect of the above claim you are notified that a decision as to whether or not liability is to be accepted in respect of the weekly payments claimed by the worker is not able to be made within the time allowed by section 57A(3) of the Act.
 The reasons why the decision is not able to be made are as follows:
 Where further medical information is required to make a decision about liability, state the nature and substance of the medical information and whether a written authority from the worker is required:
 Where further information on the worker’s weekly earnings is required to make a decision about liability, state the nature and substance of the information:
 Where other particulars are required to help make a decision about liability, specify the particulars required:
 Signed on behalf of the insurer:
-Date: ........................................................
+Date:........................................................
 NOTE THAT if you wish you may —
 ·discuss this notice with the insurer or employer or apply to have the matter heard under any internal dispute resolution process of the insurer;
 ·seek advice in relation to the dispute from WorkCover WA;
@@ -566,7 +566,7 @@ From:
 [name and address of uninsured or self-insured employer]
 Date of injury by accident or approximate date of onset of condition:
 Nature of incapacity:
-Date claim made by worker: ..........................................................
+Date claim made by worker:..........................................................
 In respect of the above claim you are notified that liability is disputed in respect of the weekly payments claimed by you.
 The reasons why liability is disputed are as follows:
 If a reason is that the applicant is not a worker, state the grounds upon which this assertion is made:
@@ -575,7 +575,7 @@ If a reason is that the injury was not suffered in the course of employment, sta
 The provisions of the Workers’ Compensation and Injury Management Act 1981 relied on to dispute liability are:
 Signed on behalf of the uninsured or self-insured employer
 (signature of senior officer responsible for claim)
-Date: ................................................................
+Date:................................................................
 NOTE THAT if you wish you may —
 ·discuss this notice with the employer or, if the employer is self insured, apply to have the matter heard under any internal dispute resolution process of the employer;
 ·seek advice in relation to the dispute from WorkCover WA;
@@ -593,17 +593,17 @@ To:
 2. Director
 From:
 [name and address of uninsured or self-insured employer]
-Claim number: .....................................
+Claim number:.....................................
 Date of injury by accident or approximate date of onset of condition:
 Nature of incapacity:
-Date claim made by worker: ..........................................
+Date claim made by worker:..........................................
 In respect of the above claim you are notified that a decision as to whether or not liability to make the weekly payments claimed by the worker is not able to be made within the time allowed by section 57B(2) of the Act.
 The reasons why the decision is not able to be made are as follows:
 Where further medical information is required to make a decision about liability, state the nature and substance of the medical information and whether a written authority from the worker is required:
 Where further information on the worker’s weekly earning is required to make a decision about liability, state the nature and substance of the information:
 Where other particulars are required to help make a decision about liability, specify the particulars required:
 Signed on behalf of the uninsured or self-insured employer:
-Date: .................................................
+Date:.................................................
 NOTE THAT if you wish you may —
 ·seek advice in relation to the dispute from WorkCover WA;
 ·if reasonable attempts have been made to resolve the dispute by negotiation with the employer, apply to the Director under section 182E of the Act for resolution of a dispute by conciliation;
@@ -617,25 +617,25 @@ FINAL MEDICAL CERTIFICATE
  | Claim No. (if known)
 To (name and address of worker’s employer)
 WORKER’S DETAILS
-First name(s): .......................................................... Surname:
+First name(s):.......................................................... Surname:
 Address:
 Telephone:
-Date and place of occurrence of injury: ....../........./.........
+Date and place of occurrence of injury:....../........./.........
 MEDICAL ASSESSMENT
-Having examined the worker, it is my opinion that as from ....../........./............
+Having examined the worker, it is my opinion that as from....../........./............
 r the worker has total capacity for work.
 r the worker has partial capacity for work.
 r the worker’s incapacity is no longer a result of the injury.
-It is also my opinion that as from ....../........./............ the worker is
+It is also my opinion that as from....../........./............ the worker is
 r fit.
 r fit for alternative duties with the following limitations:
 Grounds for the opinion in medical assessment
 MEDICAL PRACTITIONER’S DETAILS
-Name: .......................................................... Registration No.:
+Name:.......................................................... Registration No.:
 Address:
 Telephone:
 Fax:
-Signature: .................................................... Time & Date of examination:
+Signature:.................................................... Time & Date of examination:
 For workers’ compensation information or assistance contact
 WorkCover WA’s Infoline: 1300 794 744
 [Form 4 inserted in Gazette 14 Dec 1999 p. 6152; amended in Gazette 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4926.]
@@ -650,7 +650,7 @@ TAKE NOTICE that your employer
 (name of employer)
 intends, after 21 clear days from the date of service upon you of this notice, to *discontinue the weekly payments of compensation/reduce the weekly payments on the following basis —
 (1)this notice is based upon the medical certificates or report(s) of
-......................................... dated ......................................... 20
+......................................... dated......................................... 20
 (names of medical practitioners and dates of reports)
 sent with this notice, in which it is said that (state concisely the ground relied upon by the employer);
 (2)you may, if you dispute the employer’s right to discontinue or reduce the weekly payments within the 21 days referred to in this notice apply for an order of an arbitrator that the weekly payments shall not be discontinued or reduced;
@@ -670,20 +670,20 @@ Workers’ Compensation and Injury Management Act 1981
 (Section 69)
 DECLARATIONS IN RESPECT OF WORKER NOT RESIDING IN W.A.
 [ r = tick where appropriate. * = delete where appropriate]
-To: (name and address of employer or employer’s insurer) .................................................................................
+To: (name and address of employer or employer’s insurer).................................................................................
 ................................................................................................................................................................................
 ................................................................................................................................................................................
-Re: Claim Number ......................................................
+Re: Claim Number......................................................
 1.WORKER’S SECTION
 1a.Worker’s details
-First name(s): .................................................. Surname: ...................................................................................
-Address: ................................................................................................................................................................
-Telephone: ........................... Date of birth: ....../....../...... Occupation: ..............................................................
-Date of injury:...................... Nature of injury: ....................................................................................................
+First name(s):.................................................. Surname:...................................................................................
+Address:................................................................................................................................................................
+Telephone:........................... Date of birth:....../....../...... Occupation:..............................................................
+Date of injury:...................... Nature of injury:....................................................................................................
 1b.Employer details
-Name and address of worker’s employer: ............................................................................................................
+Name and address of worker’s employer:............................................................................................................
 1c.Declaration by worker
-I, ...........................................................................................................................................................................
+I,...........................................................................................................................................................................
 (full name of worker)
 *being duly sworn, say that/do solemnly and sincerely affirm that the above details about me are correct.
 *Sworn/affirmed at)
@@ -694,16 +694,16 @@ Before me:....................................................................
 to administer an oath)
 2.MEDICAL PRACTITIONER’S SECTION
 2a.Fitness for work
-On ........./........../20.......... I examined the above person and am of the opinion that he/she is —
+On........./........../20.......... I examined the above person and am of the opinion that he/she is —
 Fit
 rFit to return to pre-injury duties, no further treatment required
 rFit to return to pre-injury duties, but requires further treatment
-rFit for restricted return to work from ............................. to ...................................................
+rFit for restricted return to work from ............................. to...................................................
 rRestricted hours (please specify) ..................................................................................
 rRestricted days (please specify) ...................................................................................
 rRestricted duties
 rWork restrictions:
-rNo lifting anything heavier than .................. kg
+rNo lifting anything heavier than.................. kg
 rAvoid repetitive bending / lifting
 rAvoid repetitive use of the affected body part .............................................................
 rAvoid prolonged standing / walking / sitting
@@ -711,25 +711,25 @@ rKeep injured area clean and dry
 rOther restrictions ..........................................................................................................
 ........................................................................................................................................
 Unfit
-rUnfit totally for work for ................... days from ........................ to .............. (inclusive)
+rUnfit totally for work for ................... days from........................ to.............. (inclusive)
 2b.Medical assessment
 Clinical findings / diagnosis (include possible complications, effect of prior injury or medial conditions) ..................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
 2c.Medical management at this consultation
-rMedication: ........................................................................................................................................................................................................................................................................................
-rApproved allied health treatments: (specify type and include number of sessions recommended) .................................................................................................................... ............................................................................................................................................. ............................................................................................................................................
-rImaging: ....................................................................................................................................
-rReferred to another hospital/specialist: (name) ........................................................................
-rOther treatment: ......................................................................................................................... .............................................................................................................................................
+rMedication:........................................................................................................................................................................................................................................................................................
+rApproved allied health treatments: (specify type and include number of sessions recommended).............................................................................................................................................................................................................................................................................................................................................................................................................
+rImaging:....................................................................................................................................
+rReferred to another hospital/specialist: (name)........................................................................
+rOther treatment:......................................................................................................................... .............................................................................................................................................
 2d.Progress report (clinical findings/diagnosis at this consultation and possible barriers to return to work)
 ................................................................................................................................................................................
 ................................................................................................................................................................................
 ................................................................................................................................................................................
 2e.Declaration by medical practitioner
-I, ..........................................................................................................................................................................
+I,..........................................................................................................................................................................
 (full name of medical practitioner)
-of .........................................................................................................................................................................
+of.........................................................................................................................................................................
 (address)
-............................................................................................... Postcode: .............................................................
+............................................................................................... Postcode:.............................................................
 *being duly sworn, say that/do solemnly and sincerely affirm that —
 1. I am a duly qualified medical practitioner.
 2. The above details are correct.
@@ -752,9 +752,9 @@ Form 14
 Workers’ Compensation and Injury Management Act 1981
 ELECTION TO RECEIVE REDEMPTION AMOUNT
 (Schedule 5 clause 3)
-I, ...............................................................of
+I,...............................................................of
 (name of worker)(address)
-having attained the age of 65 years on the .............. day of .................................... 20 ....., having suffered from pneumoconiosis/mesothelioma/lung cancer and being entitled to weekly payments of compensation in accordance with Schedule 1 of the Act, elect to receive the redemption amount of $ ..................... as a lump sum.
+having attained the age of 65 years on the.............. day of.................................... 20....., having suffered from pneumoconiosis/mesothelioma/lung cancer and being entitled to weekly payments of compensation in accordance with Schedule 1 of the Act, elect to receive the redemption amount of $..................... as a lump sum.
 I acknowledge that, by making this election: —
 1.I shall have no other claim to redemption of weekly payments.
 2.I shall have no claim after the date of this election to weekly payments of compensation.
@@ -773,9 +773,9 @@ Form 15
 Workers’ Compensation and Injury Management Act 1981
 ELECTION TO RECEIVE SUPPLEMENTARY AMOUNT
 (Schedule 5 clause 3)
-I, ............................................................of ..........................................................................................................
+I,............................................................of..........................................................................................................
 (name of worker)(address)
-having attained the age of 65 years on the ........... day of ................................. 20............ having suffered from pneumoconiosis/mesothelioma/lung cancer and being entitled to weekly payments of compensation in accordance with Schedule 1 of the Act, elect to receive the supplementary amount having *a/*no dependant spouse or dependant de facto partner, being currently the sum of $......................
+having attained the age of 65 years on the........... day of................................. 20............ having suffered from pneumoconiosis/mesothelioma/lung cancer and being entitled to weekly payments of compensation in accordance with Schedule 1 of the Act, elect to receive the supplementary amount having *a/*no dependant spouse or dependant de facto partner, being currently the sum of $......................
 I acknowledge that, by making this election: —
 1.I shall have no other claim to redemption of weekly payments.
 2.I shall have no claim after the date of this election to weekly payments of compensation.
@@ -801,7 +801,7 @@ TAKE NOTICE
 2.I therefore request you to inform me within 7 days from this date whether you admit the genuineness of the Memorandum, or whether you dispute it, and if so, in what particulars, or object to its being recorded, and if so, on what ground.
 3.If the Memorandum is recorded it is enforceable as an award or order.
 4.If you have any doubts as to the effect of the agreement, or your rights to compensation generally you should contact me immediately.
-Dated this ................ day of ........................................ 20...............
+Dated this................ day of........................................ 20...............
 ...............................................................
 Director
 [Form 15A inserted in Gazette 18 Feb 1994 p. 663; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4929; 18 Nov 2011 p. 4825.]
@@ -813,10 +813,10 @@ Ref.
 YOU ARE NOTIFIED
 That a memorandum of the agreement entered into between
 and
-the abovenamed parties, and dated the ................ day of ................................. 20............. has now been recorded in the Register under section 76 of the Workers’ Compensation and Injury Management Act 1981.
-The Agreement has been numbered ..................................
+the abovenamed parties, and dated the................ day of................................. 20............. has now been recorded in the Register under section 76 of the Workers’ Compensation and Injury Management Act 1981.
+The Agreement has been numbered..................................
 You may, without fee, obtain a certificate of the memorandum and its recording.
-Dated this .............................. day of ....................................... 20.............
+Dated this.............................. day of....................................... 20.............
 ............................................................
 Director
 [Form 15B inserted in Gazette 18 Feb 1994 p. 664; amended in Gazette 21 Jan 2005 p. 276; 28 Oct 2005 p. 4929; 18 Nov 2011 p. 4825.]
@@ -868,7 +868,7 @@ election dated , compensation payable under
 Part III Division 2, representing % loss of Item
 being for the permanent loss of the efficient use of the
 Totalling:$
-*(ca)the worker having elected under section 31C of the Act by a form of election dated ............., compensation payable under the Act Schedule 2 Division 2A, in respect of an impairment mentioned in Schedule 2 item ....., representing ........ degree of permanent impairment from the injury.
+*(ca)the worker having elected under section 31C of the Act by a form of election dated............., compensation payable under the Act Schedule 2 Division 2A, in respect of an impairment mentioned in Schedule 2 item....., representing........ degree of permanent impairment from the injury.
 Totalling:$
 *(d)redemption amount under the Workers’ Compensation and Injury Management Act 1981 Schedule 5 clause 2 or 3(2), (3) or (4)$
 *(e)supplementary amount under the Workers’ Compensation and Injury Management Act 1981 Schedule 5 clause 2 or 3(2), (3) or (4)$
@@ -985,12 +985,12 @@ MONTHLY STATEMENT BY APPROVED INSURANCE OFFICES
 CONFIDENTIAL
 (Section 171(1)(a))
 NEW/RENEWED POLICIES/COVER NOTES
-Name of approved insurance office .............................................................................................................
-Address .........................................................................................................................................................
+Name of approved insurance office.............................................................................................................
+Address.........................................................................................................................................................
 Chief executive officer, WorkCover WA.
-The following are the names, addresses and industries of each employer who has during the month of ........................................................... 20.................................... effected or renewed a policy or contract of insurance with the above office against liability under the Act.
+The following are the names, addresses and industries of each employer who has during the month of........................................................... 20.................................... effected or renewed a policy or contract of insurance with the above office against liability under the Act.
 WorkCover no. | Policy/cover note no. | New (N) Renewal (R) Cover note (C) | Name | Address | Industry | Effective date | Expiry date
-Position held by officer .............................................................. Date ....................................................
+Position held by officer.............................................................. Date....................................................
 ...............................................
 Signature of responsible officer
 [Form 16 inserted in Gazette 14 Dec 2012 p. 6211-12.]
@@ -1002,12 +1002,12 @@ MONTHLY STATEMENT BY APPROVED INSURANCE OFFICES
 CONFIDENTIAL
 (Section 171(1)(b))
 LAPSED POLICIES
-Name of approved insurance office ...................................................................................................................
-Address: .......................................................................................... Date approved ..........................................
+Name of approved insurance office...................................................................................................................
+Address:.......................................................................................... Date approved..........................................
 Chief executive officer, WorkCover WA.
-The following are the names and addresses of each employer in respect to whom, during the month of .............................................. 20..................... the above approved insurance office has, in its books, lapsed a policy of insurance under the Act: —
+The following are the names and addresses of each employer in respect to whom, during the month of.............................................. 20..................... the above approved insurance office has, in its books, lapsed a policy of insurance under the Act: —
 WorkCover No. | Policy no. | Name | Address | Reason
-Position held by officer ............................................................. Date ......................................................
+Position held by officer............................................................. Date......................................................
 ....................................................
 Signature of responsible officer
 [Form 17 inserted in Gazette 14 Dec 2012 p. 6212.]
@@ -1023,7 +1023,7 @@ Notice is hereby given that I have arranged for you to undergo an audiometric te
 (name of person approved under regulation 19B)
 of
 (full address at which test is to be conducted)
-at ................................................ am/pm on
+at................................................ am/pm on
 ....................................................................
 (Signature of person arranging test)
 (name of employer) (date)
@@ -1115,7 +1115,7 @@ RT EAR MASKED
 **BONE
 CONDUCTION | LT EAR
 LT EAR MASKED
- |  |  |  |  | OTORHINOLARYNGOLOGICAL EXAMINATION Practitioner Address Signature ......................................... Date ...................
+ |  |  |  |  | OTORHINOLARYNGOLOGICAL EXAMINATION Practitioner Address Signature......................................... Date...................
 CALCULATED PLH |  |  |  |  |  | %
  | OFFICE USE
 ***CALCULATED
@@ -1137,11 +1137,11 @@ Form 21
 Workers’ Compensation and Injury Management Act 1981
 NOTICE OF DISPUTE
 TO:Chief executive officer, WorkCover WA
-NAME OF WORKER: .......................................................................................................
-ADDRESS OF WORKER: ................................................................................................
-NAME OF EMPLOYER: ..................................................................................................
-ADDRESS OF EMPLOYER: ............................................................................................
-I, being an *employer/worker hereby notify you that I dispute the results of an audiometric test conducted on the above worker on (date) ............/............/20.................
+NAME OF WORKER:.......................................................................................................
+ADDRESS OF WORKER:................................................................................................
+NAME OF EMPLOYER:..................................................................................................
+ADDRESS OF EMPLOYER:............................................................................................
+I, being an *employer/worker hereby notify you that I dispute the results of an audiometric test conducted on the above worker on (date)............/............/20.................
 and request that you arrange a retest of hearing under regulation 19H.
 ...........................................................................................................................
 Signature of ApplicantDate
@@ -1562,12 +1562,12 @@ Surname |  | Other names
 Address
 Postcode
 As a dependant referred to in the Workers’ Compensation and Injury Management Act 1981 Schedule 1 clause 1B(1)(a) or (c) you are entitled to elect to receive a child’s allowance under that Act Schedule 1 clause 1A or an apportionment of the notional residual entitlement of
-...................................................................................... .
+.......................................................................................
 (name of deceased worker)
 You may, within 30 days of receiving this notification, elect to receive the amount of the apportionment or a child’s allowance. A form for making the election is attached.
 If an election is not made within 30 days of receiving this notification, and registered by the Director, you will receive a child’s allowance.
 The Director may refuse to register the election if not satisfied that you have been independently advised of the financial consequences of the election.
-Dated this ..................... day of ................ 20.........
+Dated this..................... day of................ 20.........
 ................................................................................
 Director
 [Form 29 inserted in Gazette 28 Oct 2005 p. 4939-40; amended in Gazette 18 Nov 2011 p. 4825.]
@@ -1582,16 +1582,16 @@ TO:
 Surname |  | Other names
 Address
 Postcode
-As a dependant of .............................................................................................
+As a dependant of.............................................................................................
 (name of deceased worker)
-The notional residual entitlement in relation to .................................................
+The notional residual entitlement in relation to.................................................
 (name of deceased worker)
 has been apportioned between the worker’s dependants under the Workers’ Compensation and Injury Management Act 1981 Schedule 1 clause 1C(4)(a).
-The amount provisionally apportioned to you is $ ...........................................
+The amount provisionally apportioned to you is $...........................................
 You may, within 30 days of receiving this notification, elect to receive the amount of the provisional apportionment or a child’s allowance. A form for making the election is attached.
 If an election is not made within 30 days of receiving this notification, and registered by the Director, you will receive a child’s allowance.
 The Director may refuse to register the election if not satisfied that you have been independently advised of the financial consequences of the election.
-Dated this ..................... day of ................ 20.........
+Dated this..................... day of................ 20.........
 .................................................................................
 Arbitrator
 [Form 30 inserted in Gazette 28 Oct 2005 p. 4941.]
@@ -1887,7 +1887,7 @@ Section 93O of the Workers’ Compensation and Injury Management Act 1981 entitl
 If your cause of action arises on or after 14 November 2005, a court will not be able to award damages for your injury if you do not elect under section 93K of the Act to retain the right to seek damages and have the election registered by WorkCover’s Director.
 On the other hand, registering your election may affect your entitlement to statutory compensation. You should seek advice on whether or not to make an election.
 One rule about electing is that, if you claim compensation by way of weekly payments because of your injury, you cannot elect after the termination day (there are exceptions to this rule for AIDS and specified industrial diseases).
-Your termination day for this injury is .............. (specify date), which is about 6 months away.
+Your termination day for this injury is.............. (specify date), which is about 6 months away.
 You may be able to apply for the termination day to be extended but an extension can only be given in limited circumstances (see section 93M(4) and (8) of the Act).
 Also, before you can elect, an agreement (between you and your employer) or assessment (by an approved medical specialist you select — see the register kept by the Director) about the level of your degree of permanent whole of person impairment has to be made and recorded by the Director. The level agreed or assessed has to be 15% or more.
 If you request an assessment, the approved medical specialist can reasonably be expected to take 6 weeks from when you make the request to give you the documents about the outcome of the assessment. In some cases 7 weeks is relevant (see section 93M(4)(d)(ii) of the Act). You need to allow for this time.
