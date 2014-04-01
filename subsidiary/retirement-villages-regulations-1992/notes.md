@@ -8,7 +8,8 @@ Retirement Villages Amendment Regulations 1998 | 30 Sep 1998 p. 5506-9 | 1 Oct 1
 Retirement Villages Amendment Regulations 2003 | 9 Sep 2003 p. 4047-52 | 1 Oct 2003 (see. r. 2)
 Reprint 1: The Retirement Villages Regulations 1992 as at 7 Nov 2003 (includes amendments listed above)
 Retirement Villages Amendment Regulations 2004 | 30 Dec 2004 p. 6925-6 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
-Under the Alteration of Stautory Designations Order (No. 3) 2001 a reference in any law to the Department for Community Welfare is read and construed as a reference to the Department for Community Development.
+Retirement Villages (Recurrent Charges, Prescribed Matters and Exemption Certificates) Amendment Regulations 2014 | 21 Mar 2014 p. 722-30 | r. 1 and 2: 21 Mar 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2014 (see r. 2(b) and Gazette 21 Mar 2014 p. 721)
+Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Department for Community Welfare is read and construed as a reference to the Department for Community Development.
 Repealed by the Veterans’ Entitlements Act 1986 of the Commonwealth.
 The Retirement Villages Amendment Regulations 2003 r. 4(2) reads as follows:
 “
@@ -17,3 +18,17 @@ The Retirement Villages Amendment Regulations 2003 r. 4(2) reads as follows:
 (b) the form it replaced,
 is completed and signed.
 ”.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+application fee12(1)
+commencement day9(1), 11(1)
+evidence of death9(1)
+former resident9(2), 10(1)
+maximum rate10(1)
+payment11(1)
+permanently vacated9(2)
+professional body11(1)
+recurrent charges9(2)
+security interest11(1)
+special resolution11(1)

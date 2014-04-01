@@ -4,7 +4,7 @@ Form 1
 Retirement Villages Act 1992
 [r. 4]
 Information statement for prospective resident
-Under section 13(2) of the Retirement Villages Act 1992 the owner of residential premises in a retirement village is required to provide the following information to a person at least 5 working days before that person enters into a residence contract.
+Under section 13(2) of the Retirement Villages Act 1992 the owner of residential premises in a retirement village is required to provide the following information to a person at least 10 working days before that person enters into a residence contract.
 THE OWNER MUST ANSWER EACH OF THE FOLLOWING QUESTIONS IN WRITING BELOW EACH QUESTION —
 Payment of premium and refund entitlement
 1.What premium and other costs are payable to enter the retirement village?
@@ -82,16 +82,16 @@ Termination of contract
 44.What fees will be payable by a prospective resident or a resident on termination of the residence contract? (This must include who is responsible for ongoing village operating costs and other charges during a period of vacancy of the residential premises.)
 Signature of owner:
 Date:
-[Form 1 inserted in Gazette 9 Sep 2003 p. 4047-52.]
+[Form 1 inserted in Gazette 9 Sep 2003 p. 4047-52; amended in Gazette 21 Mar 2014 p. 730.]
 FORM 2
 RETIREMENT VILLAGES ACT 1992
 NOTICE OF RIGHTS UNDER SECTIONS 13 AND 14 OF THE RETIREMENT VILLAGES ACT 1992
 [r. 5]
 The rights you have under sections 13 and 14 of the Retirement Villages Act 1992 are set out below.
-The owner should give you this form at least 5 working days before you enter into a residence contract.
+The owner should give you this form at least 10 working days before you enter into a residence contract.
 UNDER SECTION 13 —
 1.a residence contract shall be in writing;
-2.at least 5 working days before a person enters into a residence contract the owner shall cause to be given to that person —
+2.at least 10 working days before a person enters into a residence contract the owner shall cause to be given to that person —
 (a)the information statement set out in Form 1 in Schedule 1 to the Retirement Villages Regulations 1992 completed and signed by the owner;
 (b)this notice;
 (c)a copy of the residence rules; and
@@ -102,10 +102,10 @@ That warranty —
 (b)prevails over any inconsistent contractual term.
 UNDER SECTION 14 —
 If a person has not entered into occupation of residential premises under a residence contract that person may rescind the residence contract —
-(a)at any time within 5 working days after the date of the contract; or
-(b)if the documents required to be provided under section 13(2) are not provided — at any time before the expiration of 10 working days after the documents are provided.
+(a)at any time within 7 working days after the date of the contract; or
+(b)if the documents required to be provided under section 13(2) are not provided — at any time before the expiration of 17 working days after the documents are provided.
 A rescission of a residence contract must be carried out in accordance with section 75 of the Retirement Villages Act 1992.
-[Form 2 amended in Gazette 30 Dec 2004 p. 6926.]
+[Form 2 amended in Gazette 30 Dec 2004 p. 6926; 21 Mar 2014 p. 730.]
 FORM 3
 RETIREMENT VILLAGES ACT 1992
 [Regulation 7(3)(a)]
