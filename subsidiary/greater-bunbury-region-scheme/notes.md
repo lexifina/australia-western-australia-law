@@ -1,11 +1,12 @@
 Notes
-This is a compilation of the Greater Bunbury Region Scheme. The following table contains information about that Scheme.
+This is a compilation of the Greater Bunbury Region Scheme and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Greater Bunbury Region Scheme | 17 Oct 2007 p. 5555-601 | 17 Oct 2007
 Greater Bunbury Region Scheme Amendment No. 0009/57 | 9 Apr 2010 p. 1363 | 9 Apr 2010
 Region Planning Schemes Amendments Instrument 2012 Pt. 3 | 1 Jun 2012 p. 2284-5 | 1 Jun 2012
 Greater Bunbury Region Scheme Amendment 0020/57 | 7 Jun 2013 p. 2152-3 | 7 Jun 2013
+Greater Bunbury Region Scheme Amendment 2013 | 9 May 2014 p. 1428-9 | 2 Apr 2014 (see cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
