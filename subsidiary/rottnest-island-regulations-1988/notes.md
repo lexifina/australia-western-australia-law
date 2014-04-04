@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Rottnest Island Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 April 2014 of the Rottnest Island Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
-Rottnest Island Regulations 1988 | 30 May 1988 p. 1825-46 | 30 May 1988 (see r. 2 and Gazette 30 May 1998 p. 1823)
+Rottnest Island Regulations 1988 | 30 May 1988 p. 1825-46 | 30 May 1988 (see r. 2 and Gazette 30 May 1988 p. 1823)
 Rottnest Island Amendment Regulations 1990 | 9 Nov 1990 p. 5589-91 | 9 Nov 1990
 Rottnest Island Amendment Regulations 1991 | 14 Jun 1991 p. 2914-15 | 14 Jun 1991
 Rottnest Island Authority Amendment Regulations 1993 | 29 Oct 1993 p. 5928 | 29 Oct 1993
@@ -26,7 +26,7 @@ Rottnest Island Amendment Regulations 2008 | 24 Jun 2008 p. 2911-13 | r. 1 and 2
 Rottnest Island Amendment Regulations 2009 | 3 Jul 2009 p. 2700-3 | r. 1 and 2: 3 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jul 2009 (see r. 2(b)(ii))
 Reprint 3: The Rottnest Island Regulations 1988 as at 21 Aug 2009 (includes amendments listed above)
 Rottnest Island Amendment Regulations (No. 2) 2009 | 4 Dec 2009 p. 4920-6 | r. 1 and 2: 4 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2009 (see r. 2(b))
-Rottnest Island Amendment Regulations (No. 3) 2009 | 8 Dec 2009 p. 5002-9 | r. 1 and 2: 8 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Dec 2009 (see r. 2(b))
+Rottnest Island Amendment Regulations (No. 3) 2009 | 8 Dec 2009 p. 5002-9 | r. 1 and 2: 8 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Dec 2009 (see r.2(b))
 Rottnest Island Amendment Regulations (No. 2) 2010 | 31 Aug 2010 p. 4189-91 | r. 1 and 2: 31 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2010 (see r. 2(b)(ii))
 Rottnest Island Amendment Regulations 2010 | 15 Oct 2010 p. 5176-7 | r. 1 and 2: 15 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Oct 2010 (see r. 2(b))
 Rottnest Island Amendment Regulations (No. 3) 2010 | 17 Dec 2010 p. 6359-62 | r. 1 and 2: 17 Dec 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2010 (see r. 2(b))
@@ -38,14 +38,15 @@ Rottnest Island Amendment Regulations 2012 | 29 Jun 2012 p. 2960-2 | r. 1 and 2:
 Rottnest Island Amendment Regulations (No. 2) 2012 | 4 Jan 2013 p. 22-4 | r. 1 and 2: 4 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jan 2013 (see r. 2(b))
 Rottnest Island Amendment Regulations (No. 2) 2013 | 18 Jun 2013 p. 2307-8 | r. 1 and 2: 18 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Rottnest Island Amendment Regulations 2013 | 24 Jan 2014 p. 113-14 | r. 1 and 2: 24 Jan 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jan 2014 (see r. 2(b))
+Reprint 5: The Rottnest Island Regulations 1988 as at 4 Apr 2014 (includes amendments listed above)
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Fish Resources Management Act 1994 s. 265.
 Regulations 5, 7 and 18 disallowed on 28 May 1991, see Gazette 31 May 1991 p. 2710-11.
 The Rottnest Island Amendment Regulations 1997 r. 5(2) is a transitional provision that is of no further effect.
 The Rottnest Island Amendment Regulations 2003 r. 4(3) is a transitional provision that is of no further effect.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 accommodation8(7), 10(2)
 additional vessel19
 adequate insurance cover3
@@ -65,20 +66,18 @@ by-law75(9)
 capacitySch. 5
 certificate of registration3
 collection period6(1a)
-commencement35C, 75(9)
+commencement75(9)
 competent operator13(2)
 declare3
 declared3
-eligible applicant35C
 emergency vehicle50(2)
-existing certificate of registration35C
 explosive device59(3a)
 fauna40(3), 59(3)
 fish40(3)
-flora39(2)(a)
+flora39(2)(a), 41B(1)
 hired bicycle51(2)
+Kingstown Barracks Restricted Alcohol Consumption Area72(1)
 length3
-licensed premises72(2)
 licensed vessel19
 liquid waste38C(1)
 liquor3
@@ -98,7 +97,6 @@ permanent resident3
 permitted area37(2)(b)
 previous licensee30(4)
 register3
-registered owner35C
 rental licence3
 rental mooring3
 repealed by-laws75(9)
