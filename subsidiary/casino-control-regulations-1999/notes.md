@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Casino Control Regulations 1999 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This reprint is a compilation as at 4 April 2014 of the Casino Control Regulations 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Casino Control Regulations 1999 | 5 Feb 1999 p. 427-40 | 5 Feb 1999
@@ -16,6 +16,7 @@ Reprint 2: The Casino Control Regulations 1999 as at 6 Mar 2009 (includes amendm
  | Casino Control Amendment Regulations 2011 | 4 Nov 2011 p. 4637-8 | r. 1 and 2: 4 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2012 (see r. 2(b))
  | Casino Control Amendment Regulations 2012 | 16 Nov 2012 p. 5647-8 | r. 1 and 2: 16 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b))
  | Casino Control Amendment Regulations 2013 | 8 Nov 2013 p. 4973-4 | r. 1 and 2: 8 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see. r. 2(b))
+ | Reprint 3: The Casino Control Regulations 1999 as at 4 Apr 2014 (includes amendments listed above)
 The commencement date of 1 Oct 2001 that was specified was before the date of gazettal.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

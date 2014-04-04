@@ -1,6 +1,6 @@
 ## Schedule 1 — Prescribed forms
 [r. 19]
-Form 1
+## Form 1
 Western Australia
 Casino Control Act 1984, s. 29I
 INFRINGEMENT NOTICE
@@ -14,7 +14,7 @@ Date of Service: ............................
 6. | I, .............................................................................................................. (name) of ............................................................................................................ (number and street) ................................................................................................................. (town or suburb)(postcode) agree to pay the modified penalty for the offence indicated in this form. ....................................... (Signature of offender)
 * Delete whichever is inapplicable
 [Form 1 amended in Gazette 30 Jan 2004 p. 413.]
-Form 2
+## Form 2
 Western Australia
 Casino Control Act 1984, s. 29K
 WITHDRAWAL OF INFRINGEMENT NOTICE
