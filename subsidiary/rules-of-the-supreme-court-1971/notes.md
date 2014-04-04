@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Rules of the Supreme Court 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 April 2014 of the Rules of the Supreme Court 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Rules of the Supreme Court 1971 | 18 Nov 1971 p. 4397-758 | 14 Feb 1972 (see O. 1 r. 2(1))
@@ -18,14 +18,14 @@ Untitled rules | 3 Oct 1975 p. 3769-71 | 1 Nov 1975 (see r. 2)
 Untitled rules | 19 Dec 1975 p. 4571-7 | 1 Jan 1976 (see r. 2)
 Untitled rules | 2 Apr 1976 p. 1039-41 | 2 Apr 1976 (see r. 2)
 Untitled rules | 14 May 1976 p. 1431 | 1 Jun 1976 (see r. 2)
-Reprint of the Rules of the Supreme Court 1971 dated 25 May 1976 (see Gazette 9 Aug 1976 p. 2725-3030) (includes amendments listed above except those in 14 May 1976)
+Reprint of the Rules of the Supreme Court 1971 dated 25 May 1976 (see Gazette 9 Aug 1976 p. 2725-3030) (includes amendments listed above except those in Gazette 14 May 1976)
 Untitled rules | 27 Aug 1976 p. 3223-6 | 13 Sep 1976 (see r. 2)
 Untitled rules | 12 Nov 1976 p. 4275-7 | 17 Jun 1977 (see r. 2 and Gazette 17 Jun 1977 p. 1811)
 Untitled rules | 24 Jun 1977 p. 1914-16 | 1 Sep 1977 (see r. 2)
 Untitled rules | 7 Oct 1977 p. 3602-3 | 1 Nov 1977 (see r. 2)
 Supreme Court (Costs) Rules 1978 | 13 Jan 1978 p. 117 | 13 Jan 1978 (see r. 2)
 Untitled rules | 23 Jun 1978 p. 2025-30 | 1 Aug 1978 (see r. 2)
-Untitled rules | 13 Oct 1978 p. 3698-704 | Rules other than r. 3-5, 9-11: 13 Oct 1978 (see r. 2); balance: 1 Jan 1979 (see r. 2)
+Untitled rules | 13 Oct 1978 p. 3698-704 | Rules other than r. 3-5, 9-11: 13 Oct 1978 (see r. 2); r. 3-5 and 9-11: 1 Jan 1979 (see r. 2)
 Supreme Court (Miscellaneous Amendments) Rules 1979 | 14 Dec 1979 p. 3869-76 | 11 Feb 1980 (see r. 1 and Gazette 8 Feb 1980 p. 383)
 Supreme Court (Costs) Rules 1980 | 21 Mar 1980 p. 960-2 | 21 Mar 1980 (see r. 2)
 Untitled rules | 13 Jun 1980 p. 1719-22 | 1 Jul 1980 (see r. 2)
@@ -49,7 +49,7 @@ Rules of the Supreme Court 1971 Amendment Rules (No. 2) 1986 | 4 Jul 1986 p. 228
 Rules of the Supreme Court 1971 Amendment Rules 1987 | 18 Dec 1987 p. 4456-7 | 1 Jan 1988 (see r. 3)
 Supreme Court Amendment Rules 1988 | 1 Jul 1988 p. 2140-2 | 1 Jul 1988 (see r. 2 and Gazette 24 Jun 1988 p. 1995)
 Supreme Court Amendment Rules 1989 | 15 Dec 1989 p. 4520 | 1 Jan 1990 (see r. 2)
-Supreme Court Amendment Rules(No. 2) 1990 | 23 Feb 1990 p. 1153-6 | 23 Feb 1990
+Supreme Court Amendment Rules (No. 2) 1990 | 23 Feb 1990 p. 1153-6 | 23 Feb 1990
 Supreme Court Amendment Rules 1990 | 30 Mar 1990 p. 1573-4 | 30 Mar 1990 (see r. 2)
 Supreme Court Amendment Rules (No. 3) 1990 | 17 Aug 1990 p. 4071-8 | 1 Sep 1990 (see r. 2)
 Supreme Court Amendment Rules (No. 7) 1990 | 9 Nov 1990 p. 5526 | 9 Nov 1990 (see r. 2)
@@ -126,15 +126,17 @@ Supreme Court Amendment Rules 2010 | 28 Jul 2010 p. 3433-90 | Pt. 1: 28 Jul 2010
 Supreme Court Amendment Rules 2011 | 28 Jun 2011 p. 2551-63 | r. 1 and 2: 28 Jun 2011 (see r. 2(a)); Rules other than r. 1 and 2: 12 Jul 2011 (see r. 2(b))
 Reprint 8: The Rules of the Supreme Court 1971 as at 15 Jul 2011 (includes amendments listed above)
 Supreme Court Amendment Rules 2012 | 12 Jun 2012 p. 2445-53 | r. 1 and 2: 12 Jun 2012 (see r. 2(a)); Rules other than r. 1 and 2: 26 Jun 2012 (see r. 2(b))
-Supreme Court Amendment Rules (No. 3) 2012 | 3 Aug 2012 p. 3748-56 | r. 1 & 2: 3 Aug 2012 (see r. 2(a)); Rules other than r. 1 and 2: 11 Oct 2013 (see r. 2(b) and Cwlth Legislative Instrument No. F2013L01445 registered 26 Jul 2013)
+Supreme Court Amendment Rules (No. 3) 2012 | 3 Aug 2012 p. 3748-56 | r. 1 and 2: 3 Aug 2012 (see r. 2(a)); Rules other than r. 1 and 2: 11 Oct 2013 (see r. 2(b) and Cwlth Legislative Instrument No. F2013L01445 registered 26 Jul 2013)
 Supreme Court Amendment Rules (No. 2) 2013 | 15 Mar 2013 p. 1205-7 | r. 1 and 2: 15 Mar 2013 (see r. 2(a)); Rules other than r. 1 and 2: 7 Aug 2013 (see r. 2(b) and Gazette 6 Aug 2013 p. 3677)
 Supreme Court Amendment Rules 2013 | 23 Apr 2013 p. 1590-7 | r. 1 and 2: 23 Apr 2013 (see r. 2(a)); Rules other than r. 1 and 2: 7 May 2013 (see r. 2(b))
 Supreme Court Amendment Rules (No. 4) 2013 | 3 May 2013 p. 1718-19 | r. 1 and 2: 3 May 2013 (see r. 2(a)); Rules other than r. 1 and 2: 17 May 2013 (see r. 2(b))
 Supreme Court Amendment Rules (No. 3) 2013 | 17 Dec 2013 p. 6231-7 | r. 1 and 2: 17 Dec 2013 (see r. 2(a)); Rules other than r. 1 and 2: 18 Dec 2013 (see r. 2(b))
+Reprint 9: The Rules of the Supreme Court 1971 as at 4 Apr 2014 (includes amendments listed above)
+Formerly referred to The Electoral Rules of 1908, the citation of which was changed to the Electoral Rules 1908 by the Electoral Amendment Rules 2009 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+The Commercial Arbitration Act 1985 was repealed by the Commercial Arbitration Act 2012 s. 44.
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
-Formerly referred to as The Partnership Act 1895, the short title of which was changed to the Partnership Act 1895 by the Statutes (Repeals and Minor Amendments) Act 2003 s. 144. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Formerly referred to the Gas Pipelines Access (Western Australia) Act 1998, the short title of which was changed to the Energy Arbitration and Review Act 1998 by the National Gas Access (WA) Act 2009 s. 26. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-The Gas Pipelines Access Law ceased to apply when the National Gas Access (WA) Act 2009 commenced on 1 Jan 2010.
+Formerly referred to The Partnership Act 1895, the short title of which was changed to the Partnership Act 1895 by the Statutes (Repeals and Minor Amendments) Act 2003 s. 144. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Formerly referred to the Inheritance (Family and Dependants Provision) Act 1972, the short title of which was changed to the Family Provision Act 1972 by the Inheritance (Family and Dependants Provision) Amendment Act 2011 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The commencement date of 1 Jul 1982 that was specified was before the date of gazettal.
 The Supreme Court Amendment Rules 1994 r. 14 is a transitional provision that has no further effect.
 Disallowed on 10 Mar 1998, see Gazette 13 Mar 1998 p. 1389.
@@ -143,8 +145,8 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 AO. 4A r. 2(2)(n)
-accountantO. 1 r. 4(1)
-ActO. 1 r. 4(1), O. 38A r. 1(a), O. 39 r. 1(a), O. 39A r. 1(1), O. 44A r. 1(a), O. 46 r. 1, O. 70 r. 1, O. 75 r. 1, O. 75A r. 1(1), O. 76 r. 1, O. 80A r. 1, O. 81B r. 1(1), O. 81D r. 1, O. 81E r. 1, O. 81F r. 1(1), O. 81G r. 1(1), O. 81H r. 1, O. 85 r. 1(1)
+AccountantO. 1 r. 4(1)
+ActO. 1 r. 4(1), O. 38A r. 1(a), O. 39 r. 1(a), O. 39A r. 1(1), O. 44A r. 1(a), O. 46 r. 1, O. 70 r. 1, O. 75 r. 1, O. 76 r. 1, O. 80A r. 1, O. 81B r. 1(1), O. 81E r. 1, O. 81F r. 1(1), O. 81G r. 1(1), O. 81H r. 1, O. 85 r. 1(1)
 action for personal injuriesO. 36A r. 1
 additional authorityO. 11A r. 1
 addresseeO. 36B r. 1(1)
@@ -152,13 +154,13 @@ Admiralty RulesO. 84 r. 9(1)
 ancillary orderO. 52A r. 1
 another courtO. 52A r. 1
 any relevant scaleO. 66 r. 11(1)
-appealO. 65 r. 1, O. 81D r. 2A(1)
+appealO. 65 r. 1
 appeal noticeO. 65 r. 1
-applicantO. 11A r. 1, O. 52A r. 1, O. 52B r. 1, O. 56 r. 1(4)
+applicantO. 11A r. 1, O. 52A r. 1, O. 52B r. 1
 application O. 56 r. 1(1)
 approved mediatorO. 4A r. 1
 arbitration lawO. 81D r. 1
-arbitrator O. 81D r. 1
+arbitratorO. 81D r. 1
 Australian diplomatic or consular agentO. 1 r. 4(1)
 BO. 4A r. 2(2)(n)
 caseO. 1 r. 4(1), O. 4A r. 1
@@ -168,6 +170,7 @@ case managerO. 1 r. 4(1), O. 4A r. 1
 Cause BookO. 1 r. 4(1)
 Central AuthorityO. 11A r. 1
 Central OfficeO. 1 r. 4(1)
+certificate O. 39A r. 5(1A)
 certificate of service O. 11A r. 1
 certifying authorityO. 11A r. 1
 challenged conduct O. 56 r. 1(1)
@@ -175,11 +178,10 @@ challenged decision O. 56 r. 1(1)
 chargeO. 62A r. 1(3)
 civil proceedingsO. 11A r. 1
 claimO. 81G r. 1(1)
-claimantO. 81D r. 13(1)
 CMC ListO. 4A r. 1
 CMC List caseO. 4A r. 1
 CMC List judgeO. 4A r. 1
-concludedO. 11A r. 1
+concludedO. 65 r. 1
 conduct O. 56 r. 1(1)
 conduct moneyO. 36B r. 1(1)
 confiscable property declarationO. 81FA r. 1
@@ -194,7 +196,7 @@ court of renditionO. 81B r. 1(1)
 crime-used property substitution declarationO. 81C r. 1
 criminal benefits declarationO. 81C r. 1
 cross-vesting lawsO. 81E r. 1
-defendantO. 11A r. 1, O. 11C r. 1(1)
+defendantO. 11A r. 1
 describedO. 52B r. 1
 descriptionO. 26A r. 1
 diplomatic agentO. 1 r. 4(1)
@@ -212,6 +214,7 @@ filingO. 1 r. 4(1)
 first offerO. 24A r. 3(7)
 folioO. 1 r. 4(1)
 foreign judicial documentO. 11A r. 1
+form O. 1 r. 4(1)
 forwarding authorityO. 11A r. 1
 freezing noticeO. 81FA r. 1
 freezing orderO. 52A r. 1 and 2(1), O. 81FA r. 1
@@ -221,7 +224,7 @@ Hague ConventionO. 11A r. 1
 independent solicitorsO. 52B r. 6(1)
 initiating processO. 11A r. 1
 inspectionO. 26 r. 1A
-Interactive Cases ListO. 4A r. 21
+Inactive Cases ListO. 4A r. 21
 interested non-partyO. 9A r. 1
 interim orderO. 65 r. 1
 interstate confiscation declarationO. 81FA r. 1
@@ -231,12 +234,11 @@ issuing officerO. 36B r. 1(1)
 issuing partyO. 36B r. 1(1)
 judgmentO. 52A r. 1
 landO. 53 r. 1
-limitation period O. 56 r. 1(1) and (2)
+limitation period O. 56 r. 1(1)
 list of documentsO. 26 r. 5(3)
 local judicial documentO. 11A r. 1
 local rollO. 75A r. 1
 masterO. 1 r. 4(1)
-material dateO. 81D r. 5(1)
 medical evidenceO. 36A r. 1
 medical reportO. 36A r. 1
 monitoring orderO. 81FA r. 1
@@ -244,7 +246,6 @@ monthO. 3 r. 1
 mortgageO. 10 r. 1(2), O. 62A r. 1(2) and (3)
 mortgageeO. 10 r. 1(2)
 mortgagorO. 10 r. 1(2)
-national gas transitional provisionsO. 81D r. 1A(2)
 non-partyO. 26A r. 3(2) and 5(1)
 objectO. 4A r. 2(2)(n)
 objectionO. 81FA r. 1
@@ -290,16 +291,16 @@ rules of CourtO. 1 r. 4(1)
 said ActO. 62 r. 1(1), O. 80 r. 1
 search orderO. 52B r. 1
 second offerO. 24A r. 3(7)
-sectionO. 46 r. 1, O. 56A r. 1(1), O. 81D r. 1, O. 81F r. 1(1), O. 85 r. 1(1)
+sectionO. 46 r. 1, O. 56A r. 1(1), O. 81F r. 1(1), O. 85 r. 1(1)
 service detailsO. 1 r. 4(1)
 settlementO. 70 r. 10(3)
-Supreme Court (full bench)O. 75A r. 1
 sham transaction orderO. 81FA r. 1
 special federal matterO. 81E r. 1
 subpoenaO. 36B r. 1(1)
 subpoena to attend to give evidenceO. 36B r. 1(2)
 subpoena to produceO. 36B r. 1(3)
 sufficient timeO. 11A r. 10(3)
+Supreme Court (full bench)O. 75A r. 1
 suspension orderO. 81FA r. 1
 taxing officerO. 1 r. 4(1)
 testamentary scriptO. 73 r 1(3)
