@@ -46,6 +46,7 @@ Road Traffic Code Amendment Regulations 2011 | 18 Mar 2011 p. 925-6 | r. 1 and 2
 Road Traffic Code Amendment Regulations (No. 2) 2011 | 30 Aug 2011 p. 3517-18 | r. 1 and 2: 30 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Aug 2011 (see r. 2(b))
 Road Traffic Code Amendment Regulations 2013 | 12 Apr 2013 p. 1533-9 | r. 1 and 2: 12 Apr 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Apr 2013 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 2) 2013 | 31 Dec 2013 p. 6562-70 | r. 1 and 2: 31 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2014 (see r. 2(b))
+Road Traffic Code Amendment Regulations 2014 | 4 Apr 2014 p. 885-6 | r. 1 and 2: 4 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Apr 2014 (see r. 2(b))
 Repealed by the Dangerous Goods Safety Act 2004.
 Repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
