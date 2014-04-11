@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Financial Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 April 2014 of the Financial Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Financial Management Act 2006 | 76 of 2006 | 21 Dec 2006 | s. 1 and 2: 21 Dec 2006; Act other than s. 1 and 2: 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
@@ -21,10 +21,11 @@ Metropolitan Redevelopment Authority Act 2011 s. 138 | 45 of 2011 | 12 Oct 2011 
 Agricultural Practices (Disputes) Repeal Act 2011 s. 5 | 54 of 2011 | 9 Nov 2011 | 7 Dec 2011 (see note under s. 1)
 Reprint 2: The Financial Management Act 2006 as at 8 Jun 2012 (includes amendments listed above)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 7 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
+Water Services Legislation Amendment and Repeal Act 2012 s. 212 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Financial Management (Statutory Authorities) Regulations 2012 published in Gazette 7 Dec 2012 p. 5998 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2012 (see r. 2(b))
 Financial Management (Statutory Authorities) Regulations 2013 published in Gazette 9 Jul 2013 p. 3048 | r. 1 and 2: 9 Jul 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jul 2013 (see r. 2(b))
-Water Services Legislation Amendment and Repeal Act 2012 s. 212 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Minerals Research Institute of Western Australia Act 2013 s. 77 | 23 of 2013 | 18 Dec 2013 | 1 Feb 2014 (see s. 2(b) and Gazette 14 Jan 2014 p. 43)
+Reprint 3: The Financial Management Act 2006 as at 11 Apr 2014 (includes amendments listed above)
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 The Real Estate and Business Agents Supervisory Board was abolished on 1 Jul 2011. The Real Estate and Business Agents Act 1978 s. 149 and 150 read as follows:
 149.Former Board abolished
@@ -39,7 +40,7 @@ If in a written law or other document or instrument there is a reference to the 
 The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 abolition66
 accountable authority3
 accounts3
@@ -56,6 +57,7 @@ current year24(1)
 delegate77(3)
 department3
 determination23(1)
+estimates3
 final report66
 general purpose25(1)
 investment38(1)
@@ -98,7 +100,6 @@ statutory authority3
 statutory authority money3
 sub-department3
 subsidiary body60(1)
-the estimates3
 Treasurer3
 Treasurer’s instructions3
 Treasury3
