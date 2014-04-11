@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Community Protection (Offender Reporting) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 April 2014 of the Community Protection (Offender Reporting) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Community Protection (Offender Reporting) Regulations 2004 | 31 Dec 2004 p. 7025-39 | 1 Feb 2005 (see r. 2)
@@ -18,6 +18,7 @@ Community Protection (Offender Reporting) Amendment Regulations 2010 | 21 Jan 20
 Community Protection (Offender Reporting) Amendment Regulations 2011 | 1 Jul 2011 p. 2746-7 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2011 (see r. 2(b))
 Community Protection (Offender Reporting) Amendment Regulations 2012 | 30 Nov 2012 p. 5802 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
 Community Protection (Offender Reporting) Amendment Regulations 2013 | 8 Nov 2013 p. 4995-5015 | r. 1 and 2: 8 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Nov 2013 (see r. 2(b) and Gazette 8 Nov 2013 p. 4969)
+Reprint 3: The Community Protection (Offender Reporting) Regulations 2004 as at 11 Apr 2014 (includes amendments listed above)
 Formerly referred to the Criminal Law (Mentally Impaired Defendants) Act 1996 the short title of which was changed to the Criminal Law (Mentally Impaired Accused) Act 1996 by the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Censorship Act 1996 the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
@@ -25,8 +26,7 @@ Defined terms
 Defined termProvision(s)
 analyst3
 approved form26C(1)
-authorised breath26D(1)
-authorised breath tester3
+authorised breath tester3, 26D(1)
 authorised sample collector3
 blood alcohol content3
 blood sampling equipment3, 26F(1)
@@ -45,8 +45,6 @@ registered nurse 3
 registrar3
 release order7(3)
 relevant court3
-Road Traffic (Breath Analysis) Regulations 19753
 sample26F(1)
 self-testing breath analysing equipment3
-tester 26D(1)
 urine sampling equipment3, 26F(1)
