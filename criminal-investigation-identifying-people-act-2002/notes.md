@@ -22,31 +22,9 @@ Community Protection (Offender Reporting) Amendment Act 2012 Pt. 3 Div. 1 | 1 of
 Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 9 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 1 | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Criminal Organisations Control Act 2012 s. 175 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
-Criminal Investigation (Identifying People) Amendment Act 2013 Pt. 2 (other than s. 28) | 22 of 2013 | 12 Nov 2013 | 13 Nov 2013 (see s. 2(c))
-Reprint 4: The Criminal Investigation (Identifying People) Act 2002 as at 14 Mar 2014 (includes amendments listed above)
+Criminal Investigation (Identifying People) Amendment Act 2013 Pt. 2 | 22 of 2013 | 12 Nov 2013 | s. 3-27:13 Nov 2013 (see s. 2(c)); s. 28: 16 Apr 2014 (see s. 2(b) and Gazette 15 Apr 2014 p. 1053)
+Reprint 4: The Criminal Investigation (Identifying People) Act 2002 as at 14 Mar 2014 (includes amendments listed above except those in the Criminal Investigation (Identifying People) Amendment Act 2013 s. 28)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 8 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Criminal Investigation (Identifying People) Amendment Act 2013 s. 28 | 22 of 2013 | 12 Nov 2013 | To be proclaimed (see s. 2(b))
-Section 95 of this Act gave effect to Sch. 1 which set out some temporary provisions relating to obtaining and using identifying particulars of people in custody and others. These provisions ceased to have effect on 29 June 2005.
-On the date as at which this reprint was prepared, the Criminal Investigation (Identifying People) Amendment Act 2013 s. 28 had not come into operation. It reads as follows:
-28.Section 76 amended
-(1) In section 76 delete the definitions of:
-crime scene index
-DNA database index
-missing persons index
-offenders index
-suspects index
-unknown deceased persons index
-volunteers (limited purposes) index
-volunteers (unlimited purposes) index
-(2) In section 76 in the definition of DNA database:
-(a) delete paragraph (a);
-(b) delete paragraph (c) and insert:
-(c)any index prescribed by the regulations for the purposes of this definition;
-(3) In section 76 in the definition of statistical index delete “Part;” and insert:
-Part.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
