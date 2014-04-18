@@ -8,7 +8,7 @@ Item | Formal description | Informal description
 5. | An Australian Diplomatic Officer within the meaning of the Consular Fees Act 1955 of the Commonwealth. | Australian Diplomatic Officer
 6. | A bailiff appointed under the Civil Judgments Enforcement Act 2004. | Bailiff
 7. | A person appointed to be in charge of the head office or any branch office of an authorised deposit-taking institution carrying on business in the State under the Banking Act 1959 of the Commonwealth. | Bank manager
-8. | A member of Chartered Secretaries Australia Limited (ACN 008 615 950). | Chartered secretary
+8. | A member of Governance Institute of Australia Ltd (ACN 008 615 950). | Chartered secretary, governance adviser or risk manager
 9. | A person who is registered under the Health Practitioner Regulation National Law (Western Australia) in the pharmacy profession. | Chemist
 10. | A person who is registered under the Health Practitioner Regulation National Law (Western Australia) in the chiropractic profession. | Chiropractor
 11. | A person registered as an auditor or a liquidator under the Corporations Act 2001 of the Commonwealth. | Company auditor or liquidator
@@ -47,4 +47,4 @@ Item | Formal description | Informal description
 42. | A person registered under the Teacher Registration Act 2012. | Registered teacher
 43. | A member, registrar or clerk, or the chief executive officer, of any tribunal of the State or the Commonwealth. | Tribunal officer
 44. | A registered veterinary surgeon within the meaning of the Veterinary Surgeons Act 1960. | Veterinary surgeon
-[Schedule 2 amended in Gazette 9 Jun 2006 p. 2030; 21 Dec 2007 p. 6328; 9 Dec 2011 p. 5235; amended by No. 21 of 2008 s. 684(5); No. 22 of 2008 s. 162; No. 35 of 2010 s. 120; No. 16 of 2012 s. 165.]
+[Schedule 2 amended in Gazette 9 Jun 2006 p. 2030; 21 Dec 2007 p. 6328; 9 Dec 2011 p. 5235; 17 Apr 2014 p. 1076; amended by No. 21 of 2008 s. 684(5); No. 22 of 2008 s. 162; No. 35 of 2010 s. 120; No. 16 of 2012 s. 165.]
