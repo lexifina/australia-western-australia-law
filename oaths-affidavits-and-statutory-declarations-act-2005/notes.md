@@ -12,16 +12,19 @@ Compilation table
  | Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 38 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
  | Oaths, Affidavits and Statutory Declarations (Act Amendment) Regulations 2011 r. 4 published in Gazette 9 Dec 2011 p. 5235 | 10 Dec 2011 (see r. 2(b))
 Teacher Registration Act 2012 s. 165 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
+Oaths, Affidavits and Statutory Declarations (Act Amendment) Regulations 2014 r. 4 published in Gazette 17 Apr 2014 p. 1075-6 | 18 Apr 2014 (see r. 2(b))
 Repealed by the Chiropractors Act 2005 s. 106.
 Repealed by the Nurses and Midwives Act 2006 s. 111.
 Repealed by the Optometrists Act 2005 s. 106.
 Repealed by the Physiotherapists Act 2005 s. 106.
 Repealed by the Podiatrists Act 2005 s. 106.
 Repealed by the Psychologists Act 2005 s. 105.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
+A7(1), 7(2), 7(3)
+B7(1), 7(2), 7(3)
 chief judicial officer10(1)
 court staff10(1)
-experienced legal practitioner8
+experienced legal practitioner 8
 prescribed consular official3
