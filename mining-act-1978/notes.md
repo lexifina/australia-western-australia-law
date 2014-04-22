@@ -80,6 +80,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
+Mining Legislation Amendment Act 2014 Pt. 2 | 4 of 2014 | 22 Apr 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
 The Mining Amendment Act 1981 s. 3 reads as follows:
@@ -356,6 +357,34 @@ Immediately before section 91 the following section is inserted —
 ”.
 The insertion of s. 70O in this Act by the Native Title (State Provisions) Act 1999 s. 7.3 would conflict with an amendment in the Mining Amendment Act 2004 s. 27.
 The insertion of s. 75(8) in this Act by the Native Title (State Provisions) Act 1999 s. 7.3 would conflict with an amendment in the Mining Amendment Act 2004 s. 31(7).
+On the date as at which this compilation was prepared, the Mining Legislation Amendment Act 2014 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Mining Act 1978 amended
+3.Act amended
+This Part amends the Mining Act 1978.
+4.Section 58 amended
+In section 58(1)(b)(ii) and (1aa)(c) delete “programme of”.
+5.Section 70C amended
+In section 70C(1)(e)(i) delete “programme of”.
+6.Section 74 amended
+Delete section 74(5) and (6).
+7.Section 162 amended
+(1) Delete section 162(2)(x) and insert:
+(x) authorise and regulate the copying, storage, making available for public inspection, release, publication and dissemination of information contained in a mining tenement document;
+(2) Delete section 162(2a) and (3A) and insert:
+(3A) Subsection (2)(x) applies to information irrespective of when the mining tenement document was made, lodged, given or provided (as the case may be).
+(3B) In subsections (2) and (3A) —
+mining tenement document means any of the following —
+(a)an application for a mining tenement;
+(b)a document that accompanies, or is furnished in relation to, an application for a mining tenement;
+(c)an agreement, claim, report, notice of objection, security, or any other document, in respect of a mining tenement;
+(d)a document containing any other information supplied under this Act to the Minister, a warden or any official of the Department.
+8.Various references to “a prescribed official” amended
+In the provisions listed in the Table delete “a prescribed official” (each occurrence) and insert:
+the Director General of Mines
+Table
+s. 46(aa)(ii) | s. 63(aa)(ii)
+s. 70H(1)(aa)(ii) | s. 82(1)
+s. 84AA
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
