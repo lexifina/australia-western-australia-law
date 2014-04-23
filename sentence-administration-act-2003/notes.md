@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 April 2011 of the Sentence Administration Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Sentence Administration Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Sentence Administration Act 2003 | 49 of 2003 | 9 Jul 2003 | s. 1 and 2: 9 Jul 2003; Act other than s. 1 and 2: 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833)
@@ -14,6 +14,7 @@ Fines Legislation Amendment Act 2008 Pt. 4 | 3 of 2008 | 12 Mar 2008 | 28 Mar 20
 Criminal Law Amendment (Homicide) Act 2008 s. 39 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 2: The Sentence Administration Act 2003 as at 1 Apr 2011 (includes amendments listed above)
+Sentencing Legislation Amendment Act 2014 Pt. 3 | 6 of 2014 | 22 Apr 2014 | 23 Apr 2014 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 20 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Sentencing Legislation Amendment and Repeal Act 2003 Pt. 2 Div. 4 commenced 31 Aug 2003 (see Gazette 29 Aug 2003 p. 3833).
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
@@ -53,9 +54,9 @@ section 103 means the Sentence Administration Act 2003 section 103.
 (2) The person holding office as the judicial member of the Parole Board immediately before the commencement is to hold office as the chairperson of the Prisoners Review Board for the remainder of the period for which the person was appointed as the judicial member.
 (3) Immediately before the commencement the office of any person, other than the judicial member, who is then a member of, acting member of, or deputy of a member of, the Parole Board becomes vacant.
 (4) Subsection (3) does not prevent a person mentioned in that subsection from being nominated, being appointed, or holding office, as a member of the Prisoners Review Board.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 authorised person108(1)
 Board4(2)
 CCO4(3)
@@ -98,7 +99,7 @@ RRO4(3)
 sentence4(2)
 serious offence4(2)
 service provider97B(1)
-T69(6)(a)
+T69(6)
 victim4(2), 97D(1)
 victim’s submission4(2), 5C(1)
 WDO4(3)
