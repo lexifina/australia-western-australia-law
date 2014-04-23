@@ -68,6 +68,7 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 D
 Criminal Organisations Control Act 2012 s. 181 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
 Reprint 8: The Sentencing Act 1995 as at 8 Mar 2013 (includes amendments listed above, except those in the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 and the Water Services Legislation Amendment and Repeal Act 2012 and the Criminal Organisations Control Act 2012)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 18 (other than s. 124 and 127) | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
+Sentencing Legislation Amendment Act 2014 Pt. 2 | 6 of 2014 | 22 Apr 2014 | 23 Apr 2014 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -279,6 +280,7 @@ indefinite imprisonment85(1)
 intensive supervision order4(1)
 ISO4(2)
 joint offenders55(3)
+mandatory minimum sentence85(1)
 marine offence107(5)
 marine qualification107(5)
 motor vehicle105(5)
@@ -293,6 +295,7 @@ parole term85(1)
 Passport offence108(6)
 pending charge31
 period of imprisonment59(7)
+prescribed offence85(1)
 prescribed term85(1)
 pre-sentence order4(1)
 prisoner85(1)
