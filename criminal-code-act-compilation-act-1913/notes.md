@@ -171,6 +171,7 @@ Criminal Organisations Control Act 2012 s. 173 | 49 of 2012 | 29 Nov 2012 | 2 No
 Criminal Law Amendment (Out-of-Control Gatherings) Act 2012 Pt. 2 | 56 of 2012 | 6 Dec 2012 | 15 Dec 2012 (see s. 2(b) and Gazette 14 Dec 2012 p. 6196)
 Reprint 17: The Criminal Code Act Compilation Act 1913 as at 1 Mar 2013 (includes amendments listed above except those in the Criminal Organisations Control Act 2012)
 Criminal Code Amendment Act 2013 | 12 of 2013 | 4 Oct 2013 | s. 1 and 2: 4 Oct 2013 (see s. 2(a)); Act other than s. 1 and 2: 5 Oct 2013 (see s. 2(b))
+Criminal Code Amendment (Child Sex Offences) Act 2014 | 5 of 2014 | 22 Apr 2014 | s. 1 and 2: 22 Apr 2014 (see s. 2(a)); Act other than s. 1 and 2: 23 Apr 2014 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -333,6 +334,7 @@ elector93
 electoral conduct93
 electoral material98(1)
 electoral officer93
+electronic204B(1)
 electronic communication204B(1), 489
 enclosed land70B(1)
 explosive substance1(1), 455, 557(2)
