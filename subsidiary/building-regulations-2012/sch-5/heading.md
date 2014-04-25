@@ -31,7 +31,7 @@ East Fremantle | Whole district
 Esperance | All townsites and lots measuring 10 ha or less
 Fremantle | Whole district
 Gosnells | Whole district
-Greater Geraldton | Whole district except townsites in Mullewa Ward
+Greater Geraldton | Whole district except areas in Mullewa Ward that are not townsites
 Hall’s Creek | All townsites and area subject to the Shire of Halls Creek local planning scheme
 Harvey | All townsites and area zoned special residential or special rural in the Shire of Harvey local planning scheme
 Jerramungup | Whole district except areas zoned rural by a local planning scheme
@@ -86,3 +86,4 @@ Wyalkatchem | Whole district
 Wyndham-East Kimberley | Whole district
 York | Whole district
 All other districts | All townsites
+[Schedule 5 amended in Gazette 24 Apr 2014 p. 1141.]
