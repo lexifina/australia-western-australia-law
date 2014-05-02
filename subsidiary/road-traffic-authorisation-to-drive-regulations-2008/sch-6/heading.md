@@ -7,5 +7,5 @@ LR | a licence that authorises a person to drive a motor vehicle of class C | on
 MR | a licence that authorises a person to drive a motor vehicle of class C | one year
 HR | a licence that is not provisional and authorises a person to drive a motor vehicle of class C | 2 years
 HC | a licence that is not provisional and authorises a person to drive a motor vehicle of class C AND | 3 years
- | a licence that is not provisional and authorises a person to drive a motor vehicle of class MR or HR | one year
+ | a licence that is not provisional and authorises a person to drive a motor vehicle of class MR or HR .................................................................. | one year
 MC | a licence that authorises a person to drive a motor vehicle of class HR or HC | one year

@@ -2,7 +2,7 @@
 [r. 17(1)]
 column 1 | column 2
 class | motor vehicle description
-R (but see r. 17(2) and (3)) | a motor cycle that is not a moped or learner approved motor cycle and has — (a)a power to weight ratio that exceeds 150 Kw/t; or (b)an engine capacity that exceeds 660 cc
+R (but see r. 17(2) and (3)) | a motor cycle that is not a moped or learner approved motor cycle and has — (a)a power to weight ratio that exceeds 150 kW/t; or (b)an engine capacity that exceeds 660 cc
 C | a motor vehicle of class C
 LR | a motor vehicle of class LR
 MR | a motor vehicle of class MR except a prime mover
