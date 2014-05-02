@@ -167,8 +167,8 @@ Form 13
 Employment Agents Act 1976 Infringement notice | Infringement notice no.
 Alleged offender | Name:Family name
 Given names
-orCompany name _____________________________ ACN
-Address __________________________________________ Postcode
+orCompany name ______________________________ ACN
+Address ___________________________________________ Postcode
 Alleged offence | Description of offence _______________________________
 Employment Agents Act 1976 s.
 Date //20Time a.m./p.m.
@@ -183,8 +183,8 @@ Form 14
 Employment Agents Act 1976 Withdrawal of infringement notice | Withdrawal no.
 Alleged offender | Name:Family name
 Given names
-orCompany name ___________________________ ACN
-Address ________________________________________ Postcode
+orCompany name_____________________________ ACN
+Address_________________________________________ Postcode
 Infringement notice | Infringement notice no.
 Date of issue //20
 Alleged offence | Description of offence _____________________________
