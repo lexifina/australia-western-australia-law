@@ -2,7 +2,7 @@
 [r. 17]
 The number of days in a Category A member’s membership period to be used for calculating the member’s death benefit is —
 (a) if the member was a member on 1 November 1991 the greater of —
-(i) M;
+(i) M; and
 (ii) the lesser of —
 (A) M + F; and
 (B) 12 783 days;
