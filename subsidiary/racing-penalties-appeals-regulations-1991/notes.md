@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Racing Penalties (Appeals) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 2 May 2014 of the Racing Penalties (Appeals) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Racing Penalties (Appeals) Regulations 1991 | 12 Apr 1991 p. 1662-3 | 15 Apr 1991 (see r. 2 and Gazette 12 Apr 1991 p. 1597)
@@ -19,3 +19,6 @@ Racing Penalties (Appeals) Amendment Regulations 2010 | 19 Nov 2010 p. 5742-3 | 
 Racing Penalties (Appeals) Amendment Regulations 2011 | 4 Nov 2011 p. 4639-40 | r. 1 and 2: 4 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2012 (see r. 2(b))
 Racing Penalties (Appeals) Amendment Regulations 2012 | 16 Nov 2012 p. 5656-7 | r. 1 and 2: 16 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b))
 Racing Penalties (Appeals) Amendment Regulations 2013 | 8 Nov 2013 p. 4981-2 | r. 1 and 2: 8 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see. r. 2(b))
+Reprint 3: The Racing Penalties (Appeals) Regulations 1991 as at 2 May 2014 (includes amendments listed above)
+Under the Legal Profession Act 2008 s. 630(1), a reference to the Legal Practitioners Act 1893 may, if the context permits, be taken to be a reference to the Legal Profession Act 2008.
+Under the Legal Profession Act 2008 s. 630(2), a reference in an Act to a legal practitioner may, if the context permits, be read as a reference to an Australian lawyer.
