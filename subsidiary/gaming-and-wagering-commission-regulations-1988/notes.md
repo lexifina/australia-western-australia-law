@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Gaming and Wagering Commission Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 16 May 2014 of the Gaming and Wagering Commission Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Gaming Commission Regulations 1988 | 29 Apr 1988 p. 1295-304 | 2 May 1988 (see r. 2)
@@ -62,23 +62,27 @@ Gaming and Wagering Commission Amendment Regulations 2011 | 12 Aug 2011 p. 3248-
 Gaming and Wagering Commission Amendment Regulations (No. 2) 2011 | 4 Nov 2011 p. 4645-6 | r. 1 and 2: 4 Nov 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2012 (see r. 2(b))
 Gaming and Wagering Commission Amendment Regulations 2012 | 16 Nov 2012 p. 5649-51 | r. 1 and 2: 16 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b))
 Gaming and Wagering Commission Amendment Regulations 2013 | 8 Nov 2013 p. 4975-7 | r. 1 and 2: 8 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see. r. 2(b))
+Reprint 6: The Gaming and Wagering Commission Regulations 1988 as at 16 May 2014 (includes amendments listed above)
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Formerly referred to the Gaming Commission Act 1987 the short title of which was changed to the Gaming and Wagering Commission Act 1987 by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 122. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-The Gaming and Wagering Commission Amendment Regulations 2008 published in the Gazette on 29 Apr 2008 p. 1591-3 have been repealed in Gazette 10 Jun 2008 p. 2496 due to an error in the citation of the principal regulations.
+Deleted by the Acts Amendment (Continuing Lotteries) Act 2000 s. 5.
+The Gaming and Wagering Commission Amendment Regulations 2008 published in the Gazette on 29 Apr 2008 p. 1591-3 were repealed in Gazette 10 Jun 2008 p. 2496 due to an error in the citation of the principal regulations.
 Now known as the Gaming and Wagering Commission Regulations 1988; citation changed (see note under r. 1).
 The commencement date of 1 Oct 2001 that was specified was before the date of gazettal.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 amusement parlour18B(7)
+baseline8A(1)
+cruise ship8A(1), 18C(1)
 donor organization30A(3)
 gambling operator43(1)
 prize23A(2)
-prize goodsSch. 4 r. 7(2) and 8(2)(a)
+prize goodsSch. 4 Pt. 1 cl. 7(2) and 8(2)(a)
 publish43(1)
 rents18(2)
 series18AA(3)(b)
-snowball Sch. 4 r. 6(c)
+snowballSch. 4 Pt. 1 cl. 6(c)
 value23A(2)
 video lottery terminal18AA(1)
 voucher18B(7)
