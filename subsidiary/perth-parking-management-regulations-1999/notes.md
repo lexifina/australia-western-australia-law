@@ -26,7 +26,22 @@ Perth Parking Management Amendment Regulations (No. 2) 2012 | 11 Sep 2012 p. 434
 Perth Parking Management Amendment Regulations (No. 3) 2012 | 2 Nov 2012 p. 5262-3 | r. 1 and 2: 2 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Nov 2012 (see r. 2(b))
 Perth Parking Management Amendment Regulations 2013 | 8 Feb 2013 p. 869-70 | r. 1 and 2: 8 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2013 (see r. 2(b))
 Perth Parking Management Amendment Regulations (No. 2) 2013 | 14 Jun 2013 p. 2246-7 | r. 1 and 2: 14 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
-, 3Footnotes no longer applicable.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Perth Parking Management Amendment Regulations 2014 r. 3 and 4 | 16 May 2014 p. 1544-5 | 1 Jul 2014 (see r. 2(b))
+On the date as at which this compilation was prepared, the Perth Parking Management Amendment Regulations 2014 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Perth Parking Management Regulations 1999.
+4.Schedule 2 amended
+In Schedule 2 delete item 11 and insert:
+11. | a facility that has more than 5 parking bays for the use of vehicles (excluding a bay set aside for the exclusive use of vehicles referred to in any of items 2 to 10, 12 and 13) —
+ | (a)for each motor cycle bay; | nil
+ | (b)for each bay (excluding a bay that is on a carriageway) that is available to the public for use without time constraints; | 879.50
+ | (c)for each bay that is on a carriageway; | 813.30
+ | (d)for each bay that is available to the public and in which 50% of the vehicles being parked stay for less than 4 hours and at least 90% stay for less than 6 hours; | 813.30
+ | (e)for each other bay | 911.20
+Footnote no longer applicable.
 Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
