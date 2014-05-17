@@ -7,6 +7,7 @@ Environmental Protection (Miscellaneous Amendments) Regulations 1998 Pt. 5 | 11 
 Environmental Protection (Noise) Amendment Regulations 2000 | 7 Nov 2000 p. 6143-4 | 7 Nov 2000
 Reprint 1: The Environmental Protection (Noise) Regulations 1997 as at 7 Nov 2003 (includes amendments listed above)
 Environmental Protection (Noise) Amendment Regulations 2013 | 5 Dec 2013 p. 5641-724 | r. 1 and 2: 5 Dec 2013 (see r. 2(a)); Regulations other than r. 1, 2, 14, 27, 30-33 and 36-39: 6 Dec 2013 (see r. 2(b)); r. 14, 27, 30-33 and 36-39: 5 Mar 2014 (see r. 2(c))
+Environmental Protection (Noise) Amendment Regulations 2014 | 16 May 2014 p. 1539 | r. 1 and 2: 16 May 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 17 May 2014 (see r. 2(b))
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Repealed by the Road Traffic Code 2000.
 Repealed by r. 24.
