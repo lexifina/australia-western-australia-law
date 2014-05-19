@@ -3,7 +3,7 @@
 [Heading inserted in Gazette 5 Dec 2013 p. 5716.]
 ItemActivity
 1. Noise emitted by spectators at a sporting activity that is —
-(a)arranged by a sporting organization;
+(a)arranged by a sporting organization; or
 (b)conducted at a sporting venue; or
 (c)advertised prior to the conduct of the event.
 2. Noise emitted by participants and spectators at a meeting or procession authorised under a permit granted under the Public Order in Streets Act 1984.
