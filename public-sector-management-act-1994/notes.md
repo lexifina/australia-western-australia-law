@@ -98,20 +98,116 @@ Water Services Legislation Amendment and Repeal Act 2012 s. 224 | 25 of 2012 | 3
 Reprint 10: The Public Sector Management Act 1994 as at 12 Jul 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012)
 Minerals Research Institute of Western Australia Act 2013 s. 78 | 23 of 2013 | 18 Dec 2013 | 1 Feb 2014 (see s. 2(b) and Gazette 14 Jan 2014 p. 43)
 Electricity Corporations Amendment Act 2013 s. 44 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Workforce Reform Act 2014 Pt. 3 | 8 of 2014 | 20 May 2014 | To be proclaimed (see s. 2(b))
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The R & I Holdings Act 1990 was repealed in Gazette 26 Jun 2001 p. 3063 under the R & I Holdings Act 1990 s. 22(2).
 The amendment in the Western Australian Greyhound Racing Association Amendment Act 1998 s. 20 is not included because of an error in the reference to the item to be amended. The same amendment was made by the Statutes (Repeals and Minor Amendments) Act 2000 s. 34(2) and then the provision amended was again amended by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 221(3).
 The amendment in the State Superannuation Amendment Act 2007 s. 85 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 The amendments in the Public Sector Reform Act 2010 s. 68 and 70 to the Public Sector Management Act 1994 s. 79(6) and 99 are not included as those sections were deleted by the Public Sector Reform Act 2010 s. 55(3) and 57 respectively.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) had not come into operation. It reads as follows:
 59.Public Sector Management Act 1994 amended
 The Public Sector Management Act 1994 is amended as follows:
 (a) by repealing section 20(1);
+On the date as at which this compilation was prepared, the Workforce Reform Act 2014 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Public Sector Management Act 1994 amended
+8.Act amended
+This Part amends the Public Sector Management Act 1994.
+9.Section 22A amended
+After section 22A(1)(f) insert:
+(ga) dealing with —
+(i) redeployment and redundancy of employees; and
+(ii) termination of employment;
+10.Section 29 amended
+In section 29(1)(g) delete “appointment and deployment” and insert:
+appointment, deployment and termination of employment
+11.Section 63 amended
+In section 63(1)(f) delete “section 79(3); or” and insert:
+section 79(3) or under regulations referred to in section 95A; or
+12.Section 67 amended
+In section 67(d) delete “section 79(3); or” and insert:
+section 79(3) or under regulations referred to in section 95A; or
+13.Section 94 amended
+(1) Before section 94(1) insert:
+(1A) In this section —
+registered employee means an employee registered under arrangements prescribed under subsection (1);
+registrable employee means —
+(a)an employee who is surplus to the requirements of a department or organisation; or
+(b)an employee whose office, post or position has been abolished; or
+(c)an employee in a category prescribed by the regulations.
+(2) Delete section 94(1) and insert:
+(1) The Governor may under section 108 make regulations prescribing arrangements for registrable employees in relation to —
+(a) redeployment and retraining; and
+(b) redundancy.
+(2A) Regulations referred to in subsection (1) must specify which parts of the Public Sector must comply with the regulations.
+(3) In section 94(3):
+(a) delete paragraph (a) and insert:
+(a) the registration of a registrable employee who cannot be transferred within a department or organisation;
+(b) after paragraph (b) insert:
+(ca) the revocation or suspension of registration of an employee;
+(c) in paragraph (f) delete “who does not;” and insert:
+who does not.
+(d) delete paragraph (g).
+(4) In section 94(4)(b) delete “section 95(3), or the period referred to in that section” and insert:
+section 95(2), or the period referred to in section 95(3)
+14.Sections 95A and 95B inserted
+After section 94 insert:
+95A.Termination of employment of registered employees
+(1) In this section —
+registered employee has the meaning given in section 94(1A).
+(2) The Governor may under section 108 make regulations providing for the following —
+(a) the termination of employment of a registered employee, whether registered before, on or after the commencement of the Workforce Reform Act 2014 section 14;
+(b) the terms and conditions (including remuneration) which are to apply to a registered employee whose employment is terminated under the regulations.
+(3) If the employment of a registered employee is terminated under regulations referred to in subsection (2), the contract of employment of the employee is terminated.
+95B.Inconsistent provisions, instruments and contracts
+(1) In this section —
+industrial instrument means an award, industrial agreement or order made under the Industrial Relations Act 1979, including a General Order made under section 50 of that Act, whether made before, on or after the commencement of the Workforce Reform Act 2014 section 14.
+(2A) The provisions of this Part prevail, to the extent of any inconsistency, over any other provision of this Act other than section 7, 8 or 9.
+(2) The provisions of this Part and regulations referred to in sections 94 and 95A prevail, to the extent of any inconsistency, over any industrial instrument.
+(3) Regulations referred to in section 94 or 95A prevail, to the extent of any inconsistency, over the terms and conditions applying to an employee’s employment under a contract of employment, whether entered into or renewed before, on or after the commencement of the Workforce Reform Act 2014 section 14.
+15.Section 95 replaced
+Delete section 95 and insert:
+95.Jurisdiction of Industrial Commission in relation to section 94 decision
+(1) In this section —
+section 94 decision means a decision made or purported to be made under regulations referred to in section 94 (other than a decision which is a lawful order by virtue of section 94(4)).
+(2) A section 94 decision may be referred to the Industrial Commission —
+(a) under the Industrial Relations Act 1979 section 29(1)(a); or
+(b) by an employee aggrieved by the decision,
+as if it were an industrial matter that could be so referred under that Act.
+(3) A referral under subsection (2) must be made within the period after the making of the decision that is prescribed under section 108.
+(4) The Industrial Relations Act 1979 applies to and in relation to a section 94 decision referred under subsection (2) as if the decision were an industrial matter referred to the Industrial Commission in accordance with that Act.
+(5) In exercising its jurisdiction in relation to a decision referred under subsection (2), the Industrial Commission must confine itself to determining whether or not regulations referred to in section 94 have been fairly and properly applied to or in relation to the employee concerned.
+(6) The Industrial Commission does not have jurisdiction in respect of a section 94 decision if the employment of the employee concerned is terminated.
+96A.Jurisdiction of Industrial Commission in relation to section 95A decision
+(1) A decision made or purported to be made under regulations referred to in section 95A to terminate the employment of an employee or any matter, question or dispute relating to the decision is not an industrial matter for the purposes of the Industrial Relations Act 1979.
+(2) Despite subsection (1), a decision made or purported to be made under regulations referred to in section 95A(2), other than a decision to terminate the employment of an employee, may be referred to the Industrial Commission —
+(a) under the Industrial Relations Act 1979 section 29(1)(a); or
+(b) by an employee or former employee aggrieved by the decision,
+as if it were an industrial matter that could be so referred under that Act.
+(3) A referral under subsection (2) must be made within the period after the making of the decision that is prescribed under section 108.
+(4) The Industrial Relations Act 1979 applies to and in relation to a decision referred under subsection (2) as if the decision were an industrial matter referred to the Industrial Commission in accordance with that Act.
+(5) In exercising its jurisdiction in relation to a decision referred under subsection (2), the Industrial Commission —
+(a) must confine itself to determining whether or not the employee concerned has been allowed the benefits to which the employee is entitled under the regulations referred to in section 95A(2)(b); and
+(b) does not have jurisdiction to exercise its powers under the Industrial Relations Act 1979 section 23A.
+96B.Review of this Part
+(1) The Minister must cause a review of the operation and effectiveness of this Part to be carried out as soon as is practicable after the 4th anniversary of the day on which the Workforce Reform Act 2014 section 15 comes into operation.
+(2) The Minister must —
+(a) prepare a report based on the review; and
+(b) cause a copy of the report to be laid before each House of Parliament.
+16.Section 101 amended
+(1) In section 101 delete “Subject to section 23A(4) of the Industrial Relations Act 1979, the maximum compensation” and insert:
+(1) The maximum amount of compensation
+(2) At the end of section 101 insert:
+(2) Subsection (1) does not apply in relation to compensation payable under —
+(a) the Industrial Relations Act 1979 section 23A(6); or
+(b) regulations referred to in section 94 or 95A if those regulations provide for a higher amount of compensation.
+17.Schedule 5 amended
+In Schedule 5 clause 13(4) delete “section 94,” and insert:
+sections 94 and 95A,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
