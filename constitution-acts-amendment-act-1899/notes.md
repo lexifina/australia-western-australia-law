@@ -280,6 +280,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
+Ports Legislation Amendment Act 2014 s. 44 | 9 of 2014 | 20 May 2014 | To be proclaimed (see s. 2(1)(c))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
@@ -374,6 +375,25 @@ Schedule V Part 1 Division 1 to the Constitution Acts Amendment Act 1899 is amen
 “
 Member of the Native Title Commission established by the Native Title (State Provisions) Act 1999.
 ”.
+On the date as at which this compilation was prepared, the Ports Legislation Amendment Act 2014 s. 44 had not come into operation. It reads as follows:
+44.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 3:
+(a) delete the items relating to the Albany Port Authority, the Bunbury Port Authority and the Esperance Port Authority;
+(b) before the item relating to the State Advisory Committee on Publications insert:
+The Southern Ports Authority established under the Port Authorities Act 1999.
+(3) In Schedule V Part 3:
+(a) delete the item relating to the Geraldton Port Authority;
+(b) before the item relating to the Mines Occupational Safety and Health Advisory Board insert:
+The Mid West Ports Authority established under the Port Authorities Act 1999.
+(4) In Schedule V Part 3:
+(a) delete the items relating to the Dampier Port Authority and the Port Hedland Port Authority;
+(b) before the item relating to the Plumbers Licensing Board insert:
+The Pilbara Ports Authority established under the Port Authorities Act 1999.
+(5) In Schedule V Part 3:
+(a) delete the item relating to the Broome Port Authority;
+(b) before the item relating to the Land Surveyors Licensing Board insert:
+The Kimberley Ports Authority established under the Port Authorities Act 1999.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
