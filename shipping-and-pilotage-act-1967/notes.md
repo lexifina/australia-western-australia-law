@@ -27,6 +27,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Shipping and Pilotage Amendment Act 2006 s. 8 and 13(1)(b) | 71 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Ports Legislation Amendment Act 2014 Pt. 3 | 9 of 2014 | 20 May 2014 | To be proclaimed (see s. 2(1)(c))
 The Shipping and Pilotage Amendment Act 1983 s. 3(2) reads as follows:
 (2) All proclamations made prior to the commencement of this section, under section 10(2) of the principal Act are hereby revoked.
 The ports of Augusta, Balla Balla, Dongara and Point Cloates were declared by proclamation under s. 10(2) to no longer be ports. See Gazette 29 May 1998 p. 2981.
@@ -91,6 +92,55 @@ On the date as at which this compilation was prepared, the Standardisation of Fo
 Table
 Act | Identifier | Title | Shoulder note
 Shipping and Pilotage Act 1967 | Schedule
+On the date as at which this compilation was prepared, the Ports Legislation Amendment Act 2014 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Shipping and Pilotage Act 1967 amended
+37.Act amended
+This Part amends the Shipping and Pilotage Act 1967.
+38.Section 6 amended
+Delete section 6(4).
+39.Section 6A inserted
+After section 6 insert:
+6A.Extended application of sections 5 and 6
+(1) In this section —
+declared area means a fishing boat harbour or mooring control area.
+(2) If the Department is the controlling authority of a declared area the provisions of sections 5 and 6 apply in relation to the declared area as if —
+(a) a reference to a port were a reference to the declared area; and
+(b) a reference to a harbour master were a reference to the CEO.
+(3) If a body corporate is the controlling authority of a declared area the provisions of sections 5 and 6 apply in relation to the declared area as if —
+(a) a reference to a port were a reference to the declared area; and
+(b) a reference to a harbour master (other than a reference to which paragraph (c) or (e) applies) were a reference to the body corporate; and
+(c) the reference in section 6(1) to the opinion of a harbour master were a reference to the opinion of a delegate of the body corporate; and
+(d) the reference in section 6(2) to the Crown were a reference to the body corporate; and
+(e) the reference in section 6(3) to the harbour master being satisfied were a reference to a delegate of the body corporate being satisfied.
+40.Section 7 amended
+Delete section 7(2).
+41.Section 8A inserted
+After section 7A insert:
+8A.Protection from liability for wrongdoing
+(1) An action in tort does not lie against a person for anything the person has done, in good faith, in the performance or purported performance of a function under this Act.
+(2) The Minister and the Crown are also relieved of any liability that either of them might otherwise have had for another person having done anything as described in subsection (1).
+(3) The protection given by this section applies even though the thing done as described in subsection (1) or (2) may have been capable of being done whether or not this Act had been enacted.
+(4) The protection given by this section extends to anything done by a person in good faith —
+(a) under the authority of a harbour master, to assist the harbour master to perform a function under this Act; or
+(b) in compliance with an order, direction or requirement given or made by a harbour master.
+(5) In subsection (4), a reference to a harbour master includes a reference to a controlling authority or the CEO.
+(6) In this section, a reference to the doing of anything includes a reference to an omission to do anything.
+42.Section 11 amended
+(1) In section 11:
+(a) in paragraph (a) delete “5 or 7;” and insert:
+5, 6 or 7; or
+(b) after paragraph (a) insert:
+(ba) fails to comply with any order or direction of the CEO or a controlling authority given or made under the powers conferred by section 5 or 6 as applied by section 6A; or
+43.Section 11A amended
+(1) After section 11A(2) insert:
+(3A) The CEO may delegate to any officer of the Department or another person —
+(a) any power or duty of the CEO under another provision of this Act; or
+(b) if the Department is the controlling authority of a fishing boat harbour or mooring control area, any power or duty of that controlling authority under a provision of this Act.
+(3B) The delegation must be in writing signed by the CEO.
+(3C) If the controlling authority of a fishing boat harbour or mooring control area is a body corporate, the controlling authority may delegate any power or duty of the controlling authority under another provision of this Act to any of its officers or employees.
+(3D) The delegation must be in writing executed by the controlling authority.
+(2) Delete section 11A(5) and insert:
+(5) Nothing in this section limits the ability of the Minister, the CEO or a controlling authority to perform a function through an officer, employee or agent.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
