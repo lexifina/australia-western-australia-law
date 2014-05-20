@@ -86,17 +86,18 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 29 | 35 of 
 Public Sector Reform Act 2010 s. 109 | 39 of 2010 | 1 Oct 2010 | 28 Mar 2011 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Industrial Legislation Amendment Act 2011 Pt. 3 | 53 of 2011 | 11 Nov 2011 | 1 Apr 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1246)
 Reprint 14: The Industrial Relations Act 1979 as at 24 Aug 2012 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Workforce Reform Act 2014 Pt. 2 | 8 of 2014 | 20 May 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 Repealed by the Offshore Petroleum (Repeals andConsequential Amendments) Act 2006 s. 3 of the Commonwealth.
 Repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth). Now see Fair Work Act 2009 (Cwlth).
 The Labour Relations Legislation Amendment Act 1997 s. 22 contains a transitional provision relating to claims made before that section came into operation. Sections 29, 32 and 34 contain transitional provisions in relation to awards, orders and industrial agreements in force when those sections came into operation. Section 29 was amended by the Labour Relations Reform Act 2002 s. 193(3).
 The Labour Relations Reform Act 2002 s. 112, 113(6), 117(2) and (3), 138(2), 140(2), 141(2), 146(2), 152(2), 155(2) and (3), 186(2)-(4) and Sch. 1 contain transitional and savings provisions.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this compilaton was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed
@@ -120,6 +121,62 @@ Reprints before Reprint 9 are not numbered. Reprint 9 and subsequent reprints ar
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) were repealed by the Statutes (Repeals and Minor Amendments) Act 2011 s. 24(2) before it purported to come into operation.
 The Labour Relations Legislation Amendment Act 2006 s. 22 contains transitional provisions.
+On the date as at which this compilaton was prepared, the Workforce Reform Act 2014 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Industrial Relations Act 1979 amended
+3.Act amended
+This Part amends the Industrial Relations Act 1979.
+4.Section 26 amended
+Delete section 26(1a) and insert:
+(2A) In making a public sector decision the Commission must take into consideration the following —
+(a) any Public Sector Wages Policy Statement that is applicable in relation to negotiations with the public sector entity;
+(b) the financial position and fiscal strategy of the State as set out in the following —
+(i) the most recent Government Financial Strategy Statement released under the Government Financial Responsibility Act 2000 section 11(1) and made publicly available under section 9 of that Act;
+(ii) the Government Financial Projections Statement;
+(iii) any submissions made to the Commission on behalf of the public sector entity or the State government;
+(c) the financial position of the public sector entity as set out in the following —
+(i) the part of the most recent budget papers tabled in the Legislative Assembly that deals with the public sector entity under the title “Agency Information in Support of the Estimates” or, if the regulations prescribe another part of those budget papers, that other part;
+(ii) any submissions made to the Commission on behalf of the public sector entity or the State government.
+(2B) In subsection (2A) —
+Government Financial Projections Statement means whichever is the most recent of the following —
+(a)the most recent Government Financial Projections Statement that is —
+(i)released under the Government Financial Responsibility Act 2000 section 12(1); and
+(ii)made publicly available in the budget papers tabled in the Legislative Assembly under the title “Economic and Fiscal Outlook” or, if the regulations prescribe another part of the budget papers, that other part;
+(b)the most recent Government Mid-year Financial Projections Statement that is —
+(i)released under the Government Financial Responsibility Act 2000 section 13(1); and
+(ii)made publicly available under section 9 of that Act;
+public sector decision means any of the following —
+(a)an order made under section 42G that will be included in an agreement that will extend to and bind a public sector entity or its employing authority (as defined in the Public Sector Management Act 1994 section 5);
+(b)an enterprise order that will extend to and bind a public sector entity or its employing authority (as defined in the Public Sector Management Act 1994 section 5);
+(c)if the matters set out in subsection (2A)(a), (b) and (c) are relevant to the decision, any other decision that will extend to and bind a public sector entity or its employing authority (as defined in the Public Sector Management Act 1994 section 5);
+public sector entity means either of the following —
+(a)a public sector body as defined in the Public Sector Management Act 1994 section 3(1);
+(b)an entity that is —
+(i)mentioned in the Public Sector Management Act 1994 Schedule 1; and
+(ii)prescribed by regulations made by the Governor;
+Public Sector Wages Policy Statement means —
+(a)the Public Sector Wages Policy Statement 2014 issued by the State government that applies to industrial agreements expiring after 1 November 2013; or
+(b)if any Public Sector Wages Policy Statement is issued in substitution for that statement, the later statement.
+(2C) The matters the Commission is required to take into consideration under subsection (2A) are in addition to any matter it is required to take into consideration under subsection (1)(d).
+(2D) Subsection (2A) —
+(a) does not apply in relation to —
+(i) an order made under section 42G in respect of an agreement proposed to be made in substitution for an industrial agreement that specifies a nominal expiry date that is earlier than 1 November 2013; or
+(ii) an enterprise order made in substitution for an enterprise order that provides for an expiry day that is earlier than 1 November 2013;
+but
+(b) except as provided in paragraph (a), applies in relation to any public sector decision in respect of a matter arising before, on or after the commencement of the Workforce Reform Act 2014 section 4.
+(2E) Subsections (1)(d) and (2A) do not apply when the Commission is exercising its jurisdiction under section 50A.
+5.Section 80E amended
+Delete section 80E(7) and insert:
+(7) Despite subsections (1) and (6), an Arbitrator does not have jurisdiction to enquire into or deal with, or refer to the Commission in Court Session or the Full Bench the following —
+(a) any matter in respect of which a decision is, or may be, made under regulations referred to in the Public Sector Management Act 1994 section 94 or 95A;
+(b) any matter in respect of which a procedure referred to in the Public Sector Management Act 1994 section 97(1)(a) is, or may be, prescribed under that Act.
+6.Section 80I amended
+In section 80I(3) delete “section 94 of the Public Sector Management Act 1994.” and insert:
+the Public Sector Management Act 1994 section 94 or 95A.
+7.Section 80R amended
+After section 80R(3) insert:
+(4) Despite subsections (1) and (3), the Board does not have jurisdiction to enquire into or deal with, or refer to the Commission in Court Session or the Full Bench the following —
+(a) any matter in respect of which a decision is, or may be, made under regulations referred to in the Public Sector Management Act 1994 section 94 or 95A;
+(b) any matter in respect of which a procedure referred to in the Public Sector Management Act 1994 section 97(1)(a) is, or may be, prescribed under that Act.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
