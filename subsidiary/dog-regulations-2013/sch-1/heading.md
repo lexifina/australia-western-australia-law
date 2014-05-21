@@ -34,7 +34,7 @@ to exercise the powers mentioned in section(s) 12A(2) and/or 29Å of the Dog Act
 ________________________________________ (8) for the purpose of
 ___________________________________ (relating to the enforcement of the Act). The grounds for seeking the warrant are ________________________________________________________
 3.ÅI apply for the issue of a warrant under the Dog Act 1976 section 29(5a) authorising the seizure and detention of a dog (6) __________________
-that has attacked a person (7) __________________________________
+that has attacked (7) __________________________________
 and that has or may have caused injury or damage. The premises to be
 entered are at _____________________________________________ (8)
 The grounds for seeking the warrant are _________________________
@@ -50,9 +50,10 @@ Insert:
 (4)description of employment (e.g. “ranger”);
 (5)name of local government;
 (6)description of dog;
-(7)name or description of person attacked;
+(7)name or description of person, animal or property attacked;
 (8)address or description of premises.
 ÅDelete if not appropriate.
+[Form 2 amended in Gazette 20 May 2014 p. 1605.]
 Form 3
 [r. 15]
 Dog Act 1976 s. 12A(3) and 29(5a)
@@ -122,6 +123,7 @@ Breed (if known) __________________________
 Colour __________________________
 Gender __________________________
 Microchip number __________________________
+Microchip database company __________________________
 Is the dog sterilised? Yes/No (delete one)
 Any distinguishing features or marks?
 ______________________________________________________
@@ -190,6 +192,7 @@ _______________________________________________________________
 Part G — Local government use only
 Registration approved (ü): r
 •Assigned registration number ___________________
+[Form 4 amended in Gazette 20 May 2014 p. 1605.]
 Form 5
 [r. 21]
 Dog Act 1976 s. 16(6)(a)
@@ -227,7 +230,7 @@ _______________________________
 (to be signed by a police officer or an authorised person)
 Form 7
 [r. 32]
-Dog Act 1976 s. 38(3)
+Dog Act 1976 s. 38(2)
 Complaint as to a nuisance created by a dog
 To ___________________________________________________________
 (insert name of local government)
@@ -245,11 +248,34 @@ Dated the __________________ day of _____________________ 20______
 ____________________________
 ____________________________
 (to be signed by the complainant/s)
-(1)Insert breed or kind of dog and, where possible, its gender and identifying marks.
+(1)Insert breed or kind of dog and, where possible, its name, gender and identifying marks.
 (2)Describe details of the alleged nuisance, including the kind of nuisance and, where possible, the dates and time on or between which the nuisance occurred, and where the dog was at the time of the nuisance.
 (3)State name and address of the person believed to be the owner.
 (4)State, if known, where the dog is ordinarily kept.
 (5)Insert name and address of each person making the complaint.
+[Form 7 amended in Gazette 20 May 2014 p. 1605.]
+Form 8A
+[r. 33A]
+Dog Act 1976 s. 38(3)
+Order to prevent a dog being a nuisance
+To ____________________________________________________ (insert name of person liable for the control of the dog)
+I am satisfied that a dog _________________________________ (1)
+is a nuisance by (2) ________________________________________ _______________________________________________________ _______________________________________________________ _______________________________________________________ _______________________________________________________
+The dog is believed to be owned by (3) ________________________
+and is ordinarily kept at (4) __________________________________
+THIS ORDER requires you to prevent the nuisance behaviour described above by ......................./.............................../ 20..................
+This order will be in effect for a period of 6 months after the day on which it is issued.
+Failure to comply with the order during the period in which it has effect may result in a penalty. (5)
+Issued the ____________ day of ___________________ 20_______
+____________________________
+____________________________ (Name and signature of authorised person)
+(1)Insert breed or kind of dog, registration number and, where possible, its name, gender and identifying marks.
+(2)Describe details of the nuisance, including the kind of nuisance and, where possible, the dates and time on or between which the nuisance occurred, and where the dog was at the time of the nuisance.
+(3)State name and address of the person believed to be the owner.
+(4)State, if known, where the dog is ordinarily kept.
+(5)Penalty for an offence relating to a dangerous dog — a fine of $10 000 with a minimum of $500 and a fine of $500 for each separate and further offence.
+Penalty for an offence relating to a dog other than a dangerous dog — a fine of $5 000.
+[Form 8A inserted in Gazette 20 May 2014 p. 1605-6.]
 Form 8
 [r. 35(1)]
 Infringement notice
