@@ -62,6 +62,7 @@ Reprint 5: The Police Force Regulations 1979 as at 17 Sep 2010 (includes amendme
 Police Force Amendment Regulations (No. 2) 2011 | 8 Jul 2011 p. 2898-9 | r. 1 and 2: 8 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jul 2011 (see r. 2(b))
 Police Force Amendment Regulations (No. 3) 2011 | 15 Jul 2011 p. 2954 | r. 1 and 2: 15 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jul 2011 (see r. 2(b))
 Police Force Amendment Regulations 2011 | 2 Dec 2011 p. 5071-2 | r. 1 and 2: 2 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2011 (see r. 2(b))
+Police Force Amendment Regulations 2014 | 20 May 2014 p. 1608-18 | r. 1 and 2: 20 May 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 21 May 2014 (see r. 2(b))
 Repealed by the Medical Practitioners Act 2008.
 Formerly referred to the Commissioner of Public Health, the name of which was changed to the Commissioner of Health by the Health Legislation Amendment Act 1984. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Now known as the Police Force Regulations 1979, citation changed (see note under r. 101).
@@ -74,7 +75,6 @@ Act103
 APLO103
 approved103
 assistant commissioner103
-cadet103
 Certificate of Authority901A
 commissioned officer103
 Commissioner103
@@ -90,7 +90,7 @@ incapacitated1301
 incapacity1301
 investigating officer624(1)
 Manager1301
-medical practitioner1301
+medical practitioner501, 1301
 Medicare benefits1301
 member103, 6A01
 metropolitan area103
@@ -102,6 +102,9 @@ physical performance evaluation103
 police auxiliary officer103
 Police Gazette103
 privilege6A01
+psychiatrist501
+psychological assessment103
+psychologist501
 public transport1107(1)
 region1301
 Register801
