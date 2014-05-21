@@ -1,11 +1,13 @@
-## Schedule 1 — Ports and port authorities
+## Schedule 1 — Port authorities and ports
 [s. 4]
-Item | Name of Port | Name of Port Authority
-1 | Port of Albany | Albany Port Authority
-2 | Port of Broome | Broome Port Authority
-3 | Port of Bunbury | Bunbury Port Authority
-4 | Port of Dampier | Dampier Port Authority
-5 | Port of Esperance | Esperance Port Authority
-6 | Port of Fremantle | Fremantle Port Authority
-7 | Port of Geraldton | Geraldton Port Authority
-8 | Port of Port Hedland | Port Hedland Port Authority
+[Heading inserted by No. 9 of 2014 s. 30.]
+Column 1 Item | Column 2 Name of port authority | Column 3 Port or ports
+1 | Fremantle Port Authority | Port of Fremantle
+2 | Albany Port Authority | Port of Albany
+3 | Bunbury Port Authority | Port of Bunbury
+4 | Esperance Port Authority | Port of Esperance
+5 | Geraldton Port Authority | Port of Geraldton
+6 | Dampier Port Authority | Port of Dampier
+7 | Port Hedland Port Authority | Port of Port Hedland
+8 | Broome Port Authority | Port of Broome
+[Schedule 1 inserted by No. 9 of 2014 s. 30.]
