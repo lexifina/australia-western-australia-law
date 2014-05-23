@@ -176,9 +176,9 @@ and
 (e)Eric Phillip Synnerdahl | 74 shares;
 (f)Viewhurst Pty Ltd | 10,000 shares;
 (g)Caspian Holdings Pty | 18,786 shares;
- | ____________
+ | ___________________
  | 187,865 shares
- | ____________
+ | ___________________
 21. VARIATION
 (1)The parties may from time to time by agreement in writing add to substitute for cancel or vary all or any of the provisions of this Agreement or of any lease licence easement grant or other title granted under or pursuant to this Agreement for the purpose of more efficiently or satisfactorily implementing or facilitating any of the objects of this Agreement.
 (2)The Minister shall cause any agreement made pursuant to subclause (1) in respect of any addition substitution cancellation or variation of the provisions of this Agreement to be laid on the Table of each House of Parliament within 12 sitting days next following its execution.
