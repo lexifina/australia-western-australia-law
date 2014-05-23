@@ -4,7 +4,7 @@ Form 1
 Coroners Act 1996
 (Section 9)
 OATH FOR STATE CORONER
-I ................................................ (person’s name) ............................................. do solemnly, sincerely and truly swear that I will well and truly serve the State, according to law, in the office of State Coroner, and I will do right to all manner of people after the laws and usages of this State, without fear or favour, affection or ill will.
+I ................................................... (person’s name) ............................................... do solemnly, sincerely and truly swear that I will well and truly serve the State, according to law, in the office of State Coroner, and I will do right to all manner of people after the laws and usages of this State, without fear or favour, affection or ill will.
 So help me God!
 [Form 1 amended in Gazette 19 Apr 2005 p. 1295.]
 Form 2
@@ -152,7 +152,7 @@ Coroners Act 1996
 WARRANT OF APPREHENSION WHERE WITNESS FAILS TO APPEAR
 In the Coroner’s Court of Western Australia
 at .............................................................................................................................
-INQUEST INTO THE DEATH OF: ...........................................................
+INQUEST INTO THE DEATH OF: .....................................................................
 To all members of the Police Force of the State of Western Australia.
 The witness who has failed to appear is .................................................................
 of ............................................................................................................................

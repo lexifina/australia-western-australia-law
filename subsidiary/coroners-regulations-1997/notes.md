@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Coroners Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 23 May 2014 of the Coroners Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Coroners Regulations 1997 | 18 Mar 1997 p. 1551-74 | 7 Apr 1997 (see r. 2 and Gazette 18 Mar 1997 p. 1529)
@@ -14,8 +14,9 @@ Coroners Amendment Regulations (No. 2) 2011 | 20 Dec 2011 p. 5392-3 | r. 1 and 2
 Coroners Amendment Regulations 2012 | 30 Nov 2012 p. 5801 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
 Coroners Amendment Regulations (No. 2) 2012 | 12 Feb 2013 p. 921-2 | r. 1 and 2: 12 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Feb 2013 (see r. 2(b))
 Coroners Amendment Regulations 2013 | 15 Nov 2013 p. 5252-3 | r. 1 and 2: 15 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Nov 2013 (see r. 2(b)(ii))
+Reprint 3: The Coroners Regulations 1997 as at 23 May 2014 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 approved form3A
 fee3A
