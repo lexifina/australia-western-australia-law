@@ -22,8 +22,27 @@ Mooring Amendment Regulations 2012 | 14 Feb 2012 p. 668-9 | r. 1 and 2: 14 Feb 2
 Mooring Amendment Regulations (No. 2) 2012 | 15 Jun 2012 p. 2524 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Reprint 3: The Mooring Regulations 1998 as at 12 Apr 2013 (includes amendments listed above)
 Mooring Amendment Regulations 2013 | 28 Jun 2013 p. 2767-8 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Mooring Amendment Regulations 2014 r. 3 and 4 | 30 May 2014 p. 1686-7 | 1 Jul 2014 (see r. 2(b))
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
+On the date as at which this compilation was prepared, the Mooring Amendment Regulations 2014 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Mooring Regulations 1998.
+4.Schedule 2 replaced
+Delete Schedule 2 and insert:
+Schedule 2 — Fees
+[r. 9, 12, 13, 15, 16, 25 and 27]
+Item |  | Fee
+1. | Application for mooring licence (r. 9(1)(c)) | $93.00
+2. | Annual mooring licence fee (r. 12(1)(c), 13(1)) | $535.00
+3. | Late fee (r. 13(3)) | $93.00
+4. | Exchange of mooring sites (r. 15(2)(b)) | $93.00
+5. | Application for transfer of mooring licence (r. 16(2)(b)) | $93.00
+6. | Substitution of licensed vessel (r. 25(5)(b)) | $93.00
+7. | Application to register additional vessel (r. 27(e)) | $93.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
