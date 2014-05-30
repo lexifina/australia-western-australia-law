@@ -91,9 +91,24 @@ Shipping and Pilotage (Ports and Harbours) Amendment Regulations 2012 | 15 Jun 2
 Reprint 5: The Shipping and Pilotage (Ports and Harbours) Regulations 1966 as at 2 Nov 2012 (includes amendments listed above)
 Shipping and Pilotage (Ports and Harbours) Amendment Regulations 2013 | 28 Jun 2013 p. 2768-9 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Shipping and Pilotage (Ports and Harbours) Amendment Regulations (No. 2) 2013 | 28 Jun 2013 p. 2777-8 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Shipping and Pilotage (Ports and Harbours) Amendment Regulations 2014 r. 3 and 4 | 30 May 2014 p. 1687-8 | 1 Jul 2014 (see r. 2(b))
 Repealed by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. That Act was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth.)
 The Shipping and Pilotage Amendment Act 2006 s. 10 commenced on 4 June 2010.
 Citation was initially the Ports and Harbours Regulations and was subsequently changed to the Ports and Harbours Regulations 1966 and then to the Shipping and Pilotage (Ports and Harbours) Regulations 1966 (see note under r. 1).
+On the date as at which this compilation was prepared, the Shipping and Pilotage (Ports and Harbours) Amendment Regulations 2014 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Shipping and Pilotage (Ports and Harbours) Regulations 1966.
+4.Various fees amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+r. 9B(2)(b) | $431.80 | $450.00
+r. 9F(2)(c) | $277.60 | $290.00
+r. 9J | $154.20 | $160.00
+r. 16(d)(ii) | $625.40 | $640.00
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
