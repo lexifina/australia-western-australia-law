@@ -37,11 +37,13 @@ Road Traffic (Charges and Fees) Amendment Regulations (No. 8) 2012 | 30 Nov 2012
 Road Traffic (Charges and Fees) Amendment Regulations 2013 | 5 Feb 2013 p. 838-9 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b)(i) and Gazette 5 Feb 2013 p. 823)
 Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2013 | 8 Feb 2013 p. 870-1 | r. 1 and 2: 8 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2013 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 9) 2012 | 19 Feb 2013 p. 994-5 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
-Road Traffic (Charges and Fees) Amendment Regulations (No. 5) 2013 | 31 May 2013 p. 2120 | 31 May 2013 (see note under r.1)
-Road Traffic (Charges and Fees) Amendment Regulations (No. 7) 2013 | 31 May 2013 p. 2121-3 | 31 May 2013 (see note under r.1)
+Road Traffic (Charges and Fees) Amendment Regulations (No. 5) 2013 | 31 May 2013 p. 2120 | 31 May 2013 (see note under r. 1)
+Road Traffic (Charges and Fees) Amendment Regulations (No. 7) 2013 | 31 May 2013 p. 2121-3 | 31 May 2013 (see note under r. 1)
 Road Traffic (Charges and Fees) Amendment Regulations (No. 6) 2013 | 14 Jun 2013 p. 2249-53 | r. 1 and 2: 14 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 8) 2013 | 28 Jun 2013 p. 2805-6 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 11) 2013 | 4 Oct 2013 p. 4565-6 | r. 1 and 2: 4 Oct 2013 (see r. 2(a)); Regulations other than r. 1, 2 and 4: 5 Oct 2013 (see r. 2(c)); r. 4: 1 Jan 2014 (see r. 2(b))
+Road Traffic (Charges and Fees) Amendment Regulations (No. 4) 2014 | 30 May 2014 p. 1692 | 30 May 2014 (see note under r. 1)
+Road Traffic (Charges and Fees) Amendment Regulations (No. 5) 2014 | 30 May 2014 p. 1693-5 | 30 May 2014 (see note under r. 1)
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2007 r. 3 reads as follows:
@@ -67,7 +69,13 @@ The Road Traffic (Charges and Fees) Amendment Regulations (No. 5) 2013 r. 2 read
 For the purposes of section 28A of the Act, the specified day in relation to these regulations is 1 July 2013.
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 7) 2013 r. 2 reads as follows:
 2.Specified day
-For the purposes of section 28A of the Act, the specified day in relation to these regulations is 1 July 2013
+For the purposes of section 28A of the Act, the specified day in relation to these regulations is 1 July 2013.
+The Road Traffic (Charges and Fees) Amendment Regulations (No. 4) 2014 r. 2 reads as follows:
+2.Specified day
+For the purposes of section 28A of the Act, the specified day in relation to these regulations is 1 July 2014.
+The Road Traffic (Charges and Fees) Amendment Regulations (No. 5) 2014 r. 2 reads as follows:
+2.Specified day
+For the purposes of section 28A of the Act, the specified day in relation to these regulations is 1 July 2014.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
