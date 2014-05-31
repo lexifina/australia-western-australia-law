@@ -24,11 +24,11 @@ Groper, Western Blue | 1
 Hapuka, Bass Groper and Trevalla | 3
 Pearl Perch | 3
 Sea Perch, Tropical, and Goldband Snapper, all species except Mangrove Jack, Fingermark bream and Stripey Seaperch | 3
-Snapper, Pink, except in the waters of Shark Bay | 3
-Snapper, Pink, in the waters of the Shark Bay | 2
+Snapper, Pink, except in the waters of the Shark Bay western gulf or the waters of the Shark Bay eastern gulf | 3
+Snapper, Pink, in the waters of the Shark Bay western gulf or the waters of the Shark Bay eastern gulf | 2
 Snapper, Queen | 3
 Snapper, Red (Redfish) and Swallowtail in South Coast region | 8
-[Division 1 inserted in Gazette 29 Jan 2013 p. 313-14; amended in Gazette 27 Aug 2013 p. 4057.]
+[Division 1 inserted in Gazette 29 Jan 2013 p. 313-14; amended in Gazette 27 Aug 2013 p. 4057; 30 May 2014 p. 1723.]
 ## Division 2 — West Coast region
 [r. 65B]
 [Heading inserted in Gazette 29 Jan 2013 p. 314.]
@@ -61,8 +61,8 @@ Dolphinfish (Mahi Mahi) | 3
 Mackerel (Broad-barred Spanish, Queensland School, Shark, Australian Spotted, Narrow-barred Spanish and Wahoo | 3
 Sharks and rays | 3
 Trevally, Giant and Golden | 3
-Tuna (Bigeye, Mackerel, Northern Bluefin, Skipjack, Southern Bluefin, Yellowfin and Dogtooth | 3
-[Part 2 inserted in Gazette 29 Jan 2013 p. 315.]
+Tuna (Bigeye, Mackerel, Longtail (Northern Bluefin), Skipjack, Southern Bluefin, Yellowfin and Dogtooth | 3
+[Part 2 inserted in Gazette 29 Jan 2013 p. 315; amended in Gazette 30 May 2014 p. 1723.]
 ## Part 3 — Bag limits — nearshore or estuarine finfish
 [r. 65D]
 [Heading inserted in Gazette 29 Jan 2013 p. 315.]
@@ -122,9 +122,9 @@ Other crustacean species not specified above | 10
 Species | Bag limit for one day
 Abalone, Greenlip and Brownlip | 5
 Abalone, Roe’s | 20
-Ark Shell, Cockle and Pipis | 2 litres
+Ark Shell, Cockle, Pipis and Clam, Venus | 2 litres
 Bloodworm | 1 litre
-Clam, Venus | 2
+Clam, Giant (other than Tridacna gigas) | 2
 Mussel | 9 litres (shell on)
 Oyster | 20
 Razor shell | 20
@@ -133,4 +133,4 @@ Sea Urchin | 20
 Squid, Cuttlefish and Octopus | 15
 Zoila Cowry, Volute, Conch | 10
 Other molluscs and invertebrate species not specified | 10
-[Part 6 inserted in Gazette 29 Jan 2013 p. 318; amended in Gazette 28 Jun 2013 p. 2894.]
+[Part 6 inserted in Gazette 29 Jan 2013 p. 318; amended in Gazette 28 Jun 2013 p. 2894; 30 May 2014 p. 1723.]

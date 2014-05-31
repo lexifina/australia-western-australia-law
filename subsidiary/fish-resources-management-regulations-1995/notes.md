@@ -173,7 +173,85 @@ Fish Resources Management Amendment Regulations (No. 7) 2013 | 4 Sep 2013 p. 417
 Fish Resources Management Amendment Regulations (No. 5) 2013 | 24 Sep 2013 p. 4437-56 | r. 1 and 2: 24 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Sep 2013 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 11) 2013 | 15 Nov 2013 p. 5238 | r. 1 and 2: 15 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Nov 2013 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 8) 2013 | 19 Nov 2013 p. 5283-91 | r. 1 and 2: 19 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2013 (see r. 2(b))
-Footnore no longer applicable.
+Fish Resources Management Amendment Regulations 2014 Pt. 1-3 | 30 May 2014 p. 1713-37 | Pt. 1: 30 May 2014 (see r. 2(a)); Pt. 2 and 3: 31 May 2014 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Fish Resources Management Amendment Regulations 2014 Pt. 4 | 30 May 2014 p. 1713-37 | 1 Jul 2014 (see r. 2(c))
+On the date as at which this compilation was prepared, the Fish Resources Management Amendment Regulations 2014 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — Amendments to commence on 1 July 2014
+35.Part 4 Division 7C inserted
+After Part 4 Division 7B insert:
+Division 7C — Requirements relating to aquatic eco-tourism
+55G.Activities and fish prohibited on aquatic eco-tour
+(1) The master of a boat used for an aquatic eco-tour must not allow a participant in the tour to —
+(a) take any fish while on the boat; or
+(b) keep any fish on the boat; or
+(c) bring onto land any fish from the boat.
+Penalty: a fine of $2 000 and the penalty provided in section 222 of the Act.
+(2) The person in charge of any boat, vehicle or aircraft being used for an aquatic eco-tour must not —
+(a) commence the tour with any fish on the boat, vehicle or aircraft; or
+(b) allow any fish to remain on the boat, vehicle or aircraft at the end of the tour.
+Penalty: a fine of $10 000 and the penalty provided in section 222 of the Act.
+(3) It is a defence in proceedings for an offence against subregulation (2)(a) or (b) for the person charged to prove that the fish was purchased from a person other than a participant in the tour for the purpose of providing meals for participants in the tour.
+55H.Shark tourism activities prohibited on aquatic eco-tour
+(1) A participant in an aquatic eco-tour must not —
+(a) use a safety cage the purpose of which is to protect swimmers or divers from sharks; or
+(b) engage in the tagging or marking of sharks; or
+(c) use blood, berley or any vibrating, visual, sonic, electronic, electromagnetic or other equipment for the purpose of attracting sharks.
+Penalty: a fine of $2 000.
+(2) The person in charge of an aquatic eco-tour must not —
+(a) provide or use, or allow participants in the tour to use, a safety cage the purpose of which is to protect swimmers or divers from sharks; or
+(b) engage, or allow participants in the tour to engage, in the tagging or marking of sharks; or
+(c) provide or use, or allow participants in the tour to use, blood, berley or any vibrating, visual, sonic, electronic, electromagnetic or other equipment for the purpose of attracting sharks.
+Penalty: a fine of $10 000.
+55I.Boat not to be used for both commercial fishing and aquatic eco-tour during single trip
+A person who uses a licensed fishing boat for or in connection with commercial fishing and an aquatic eco-tour in the course of a single trip commits an offence.
+Penalty: a fine of $5 000.
+36.Part 11 Division 4 deleted
+Delete Part 11 Division 4.
+37.Regulation 128MA amended
+(1) In regulation 128MA delete “A fishing” and insert:
+(1) A fishing
+(2) At the end of regulation 128MA insert:
+(2) The holder of a fishing tour operator’s licence or a restricted fishing tour operator’s licence must ensure that a boat used in connection with a fishing tour conducted under the licence is identified in such manner as the CEO specifies in a written notice given to the holder of the licence.
+Penalty for an offence under this subregulation: a fine of $2 000.
+38.Regulation 130A deleted
+Delete regulation 130A.
+39.Regulation 149 amended
+In regulation 149(a) delete “aquatic eco-tourism,”.
+40.Regulation 155 amended
+In regulation 155(a) delete “aquatic eco-tourism,”.
+41.Regulation 156 amended
+In regulation 156 in the Table:
+(a) after “45(2),” insert:
+55G(1), 55G(2),
+(b) delete “128G(1), 128G(2),”.
+42.Regulation 158 amended
+In regulation 158 in the Table under the heading “Provisions of these regulations”:
+(a) after “38,” insert:
+55G(1), 55G(2), 55H(2),
+(b) delete “128G(1), 128G(2), 128HA(2), 128OA(2), 128O, 128P, 130(4), 130A,” and insert:
+128MA(2), 128OA(2), 128O, 128P, 130(4),
+43.Regulation 181A amended
+Delete regulation 181A(g).
+44.Schedule 1 amended
+(1) In Schedule 1 Part 2 item 19 delete “Aquatic eco-tourism operator’s licence (reg. 128B) or restricted fishing tour operator’s licence (reg. 128J)” and insert:
+Restricted fishing tour operator’s licence (reg. 128J)
+(2) Delete Schedule 1 Part 3 item 4.
+45.Schedule 12 amended
+In Schedule 12 Part 2:
+(a) in item 3 delete “128D, 128E(2) (in the case of an individual), 128L(3), 130A” and insert:
+128L(3), 128MA(2)
+(b) in item 4 after “41,” insert:
+55I,
+(c) in item 4 delete “128A(1), 128C, 128E(1), 128E(2) (in the case of a body corporate), 128E(4), 128E(6), 128H,”;
+(d) in item 5 after “45(2),” insert:
+55G(1) and (2),
+(e) in item 5 delete “128G(1) and (2),”.
+46.Schedule 15 amended
+Delete the reference after the heading to Schedule 15 and insert:
+[r. 128J]
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
 The name of the Recreational Fishing Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Recreational Fishing Account.
@@ -183,7 +261,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Abalone Zone38DA
-Abrolhos Islands Fish Habitat Protection AreaSch. 2, cl. 2(2)
+Abrolhos Islands Fish Habitat Protection Area3(1), Sch. 2 cl. 2(2)
 aircraft3(1)
 ALC55A
 ALC fishing boat55C(1)
@@ -201,7 +279,7 @@ bag limit3(1)
 bait band55E
 bait fish64OE(4)
 batch144A(1)
-boat124B(1)
+boat124B(1), 128IA
 bona fide64I(2)
 camp72
 cancelled authorisation129A
@@ -213,11 +291,13 @@ charter boat16E(1)
 chlorine tarping110(2)
 closed season38G, 45(1)
 commercial fishing licence3(1)
+commercial premises64AA(1)
 complying drop net3(1)
 Cottesloe Reef waters3(1)
 courier business147A(1)
 current entitlement118A(2)
 Dampier Archipelago waters64OB(3)
+day124B(1)
 day trip16E(1), 22(5)
 dB(A)104(4)
 deep sea crab38A
@@ -256,7 +336,7 @@ hatchery144A(1)
 hatchery licence144A(1)
 hatchery permit144A(1)
 inspector144A(1)
-interdorsal fin lengthSch. 2,
+interdorsal fin lengthSch. 2
 internal SLED38(1)
 jet ski3(1)
 jetty72
@@ -270,6 +350,7 @@ licensed carrier boat3(1)
 licensed carrier boat number3(1)
 licensed fishing boat3(1)
 licensed fishing boat number3(1)
+live import list69A(1)
 mammal or bird products63A(1)
 marron drop net3(1), 38G
 marron pole snare3(1), 38G
@@ -288,6 +369,7 @@ notional bag limit162(2)
 November — April64OD(4)
 one day3(1)
 operator72
+ornamental fish69A(1)
 package22(5), 61(3a)
 pearl oyster farm144A(1)
 Pelsaert Group Zone38(1)
@@ -309,14 +391,14 @@ rock lobster licence72
 rock lobster pot3(1)
 rock lobster pot licence3(1)
 rock lobster tail3(1)
-Rottnest Island ReserveSch. 2, cl. 4(2)
-Rowley Shoals Marine ParkSch. 2,
+Rottnest Island ReserveSch. 2 cl. 4(2)
+Rowley Shoals Marine ParkSch. 2
 scheduled fish disease3(1)
 sea lion exclusion device38(3)
 Sea Lion Protection Zone38(1)
 section 224129A
 set3(1)
-setoseSch. 2,
+setoseSch. 2
 settlement144A(1)
 share arrangement72
 single-sided fillet3(1), 16E(1)
@@ -330,9 +412,9 @@ sunrise3(1)
 sunset3(1)
 tail clip31(1)
 tail punch31(1)
-tarspotSch. 2,
+tarspotSch. 2
 unauthorised structure87
-unlicensed person124B(3)
+unlicensed person124B(3), 124B(3)
 usual entitlement118A(2)
 waters of Point Quobba113D
 waters of Shark Bay3(1)

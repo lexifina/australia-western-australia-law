@@ -137,7 +137,7 @@ Fee | $
 (b)for zone B units, per unit | 15.60
 (c)for zone C units, per unit | 14.06
 (34)Windy Harbour-Augusta Rock Lobster Managed Fishery, per pot | 1.90
-4.Aquatic eco-tourism operator’s licence or restricted fishing tour operator’s licence Types of operation —
+4.Aquatic eco-tourism operator’s licence Types of operation —
 (1)(a)Using — (i)one boat with a surveyed length of more than 7.5 m and an open water passenger capacity of 20 persons or less and an associated power boat with a length of 4.5 m or more but 7.5 m or less, in one zone; or (ii)one or more boats with a surveyed length of 7.5 m or less and a combined open water passenger carrying capacity of 20 persons or less, in one zone | 273.00
 (b)In addition to the fee specified in item 4(1)(a) —
 (i)for each additional 10 passengers or part thereof | 136.00
@@ -153,22 +153,19 @@ Fee | $
 (i)for each additional capacity of 10 tourists or part thereof | 136.00
 (ii)for each additional associated power boat with a surveyed length of 4.5 m or more but 7.5 m or less | 273.00
 (iii)for a licence to operate a boat in more than one zone, for each additional zone | 136.00
-5.Fishing tour operator’s licence Types of operation —
-(1)(a)Using a boat with a surveyed length of more than 7.5 m and an open water passenger capacity of 10 persons or less and an associated power boat with a length of 4.5 m or more but 7.5 m or less, in one zone | 1 840.00
-(b)In addition to the fee specified in item 5(1)(a) —
-(i)for each additional associated power boat with a surveyed length of more than 7.5 m and a maximum passenger carrying capacity of 10 passengers or less | 1 840.00
-(ii)for each additional associated power boat with a surveyed length of more than 4.5 m but less than 7.5 m | 329.00
-(iii)for a licence to operate with a passenger carrying capacity of more than 10 passengers | 1 185.00
-(iv)for a licence to operate in more than one zone, for each additional zone | 669.00
-(2)(a)A land based operation, authorised to operate in one zone with a maximum capacity of 20 passengers | 273.00
-(b)In addition to the fee specified in item 5(2)(a) —
-(i)for each additional 10 passengers carrying capacity or part thereof | 136.00
-(ii)for a licence to operate in more than one zone, for each additional zone | 136.00
-(3)(a)A combination of boat and land or boat and aircraft operations with a total passenger carrying capacity of 10 persons or less, authorised to operate in one zone and a maximum of 2 boats with a surveyed length of 4.5 m or more but 7.5 m or less | 1 840.00
-(b)In addition to the fee specified in item 5(3)(a) —
-(i)for a licence to operate with a passenger carrying capacity of more than 10 passengers | 1 185.00
-(ii)for each additional associated power boat with a surveyed length of 4.5 m or more but 7.5 m or less | 329.00
-(iii)for a licence to operate a boat in more than one zone, for each additional zone | 669.00
+5.Fishing tour operator’s licence (r. 128J(1)) —
+(a)if the nominated maximum number of passengers participating in a fishing tour conducted under the licence is —
+(i)5 passengers or fewer | 1 200.00
+(ii)between 6 and 10 passengers | 1 700.00
+(iii)between 11 and 15 passengers | 2 200.00
+(iv)between 16 and 20 passengers | 2 700.00
+(v)between 21 and 25 passengers | 3 200.00
+(vi)26 passengers or more | 3 700.00
+(b)in addition to the fee determined under item 5(a), if the licence authorises the conduct of a fishing tour in more than one zone, for each additional zone | 700.00
+(c)in addition to the fee determined under item 5(a), if the licence is varied to increase the aggregate maximum surveyed passenger carrying capacity of all of the boats that may be used to conduct a fishing tour under the licence | The amount that is the difference between the fee for the licence before the variation and the fee determined under item 5(a) for the licence as varied
+6A.Restricted fishing tour operator’s licence (r. 128J(2)) —
+(a)for all restricted fishing tour operator’s licences | 500.00
+(b)in addition to the fee specified in item 6A(a), if the licence authorises the conduct of a fishing tour in more than one zone, for each additional zone | 500.00
 6.Fishing boat licence Types of boat —
 (1)a boat 6.5 m or longer | 315.00
 (2)a boat shorter than 6.5 m | 85.00
@@ -180,4 +177,4 @@ Fee | $
 (d)fishing for all freshwater fish (other than crustaceans) in waters south of 29° south latitude above the tidal influence including all lakes, dams, rivers and their tributaries | 40.00
 (e)fishing by means of a fishing net | 40.00
 9.Recreational (boat) fishing licence (r. 124C) | 30.00
-[Part 3 inserted in Gazette 9 Jun 2009 p. 1915-20; amended in Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5; 27 Aug 2010 p. 4106; 10 Sep 2010 p. 4347; 2 Dec 2010 p. 6031-4; 6 May 2011 p. 1611-12; 24 Aug 2011 p. 3406-8; 9 Sep 2011 p. 3683; 17 Oct 2012 p. 4979-80; 19 Oct 2012 p. 5017-20; 2 Nov 2012 p. 5277-8; 18 Dec 2012 p. 6593; 4 Sep 2013 p. 4180-3; 15 Nov 2013 p. 5238; 19 Nov 2013 p. 5283.]
+[Part 3 inserted in Gazette 9 Jun 2009 p. 1915-20; amended in Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5; 27 Aug 2010 p. 4106; 10 Sep 2010 p. 4347; 2 Dec 2010 p. 6031-4; 6 May 2011 p. 1611-12; 24 Aug 2011 p. 3406-8; 9 Sep 2011 p. 3683; 17 Oct 2012 p. 4979-80; 19 Oct 2012 p. 5017-20; 2 Nov 2012 p. 5277-8; 18 Dec 2012 p. 6593; 4 Sep 2013 p. 4180-3; 15 Nov 2013 p. 5238; 19 Nov 2013 p. 5283; 30 May 2014 p. 1731-2.]

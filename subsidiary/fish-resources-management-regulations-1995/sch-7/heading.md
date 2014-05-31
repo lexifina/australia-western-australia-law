@@ -143,9 +143,8 @@ Tripletail | Lobotes surinamensis
 Tuna, Albacore | Thunnus alelunga
 Tuna, Bigeye | Thunnus obesus
 Tuna, Dogtooth | Gymnosarda unicolour
-Tuna, Longtail | Thunnus tonggol
+Tuna, Longtail (Northern Bluefin) | Thunnus tonggol
 Tuna, Mackerel | Euthynnus affinus
-Tuna, Northern Bluefin | Thunnus thynnus
 Tuna, Skipjack | Katsuwonus pelamis
 Tuna, Southern Bluefin | Thunnus maccoyii
 Tuna, Yellowfin | Thunnus albacares
@@ -159,7 +158,7 @@ Whiting, Southern School (Silver) | Sillago bassensis
 Whiting, Yellow-finned | Sillago schomburgkii
 Wrasse | Family Labridae
 Wrasse, Humphead Maori | Cheilinus undulatus
-[Division 1 amended in Gazette 30 Aug 1996 p. 4320-1; 12 Sep 1997 p. 5154; 19 Jun 1998 p. 3264; 1 Oct 2003 p. 4341-3; 4 Nov 2005 p. 5317; 22 Dec 2005 p. 6238-9; 10 Nov 2006 p. 4710; 13 Nov 2007 p. 5693; 13 Feb 2009 p. 299; 29 Sep 2009 p. 3874-5; 8 Dec 2009 p. 4997; 29 Mar 2011 p. 1153; 24 Aug 2011 p. 3409; 29 Jan 2013 p. 318.]
+[Division 1 amended in Gazette 30 Aug 1996 p. 4320-1; 12 Sep 1997 p. 5154; 19 Jun 1998 p. 3264; 1 Oct 2003 p. 4341-3; 4 Nov 2005 p. 5317; 22 Dec 2005 p. 6238-9; 10 Nov 2006 p. 4710; 13 Nov 2007 p. 5693; 13 Feb 2009 p. 299; 29 Sep 2009 p. 3874-5; 8 Dec 2009 p. 4997; 29 Mar 2011 p. 1153; 24 Aug 2011 p. 3409; 29 Jan 2013 p. 318; 30 May 2014 p. 1724.]
 ## Division 2 — Freshwater fish
 [Heading inserted in Gazette 13 Nov 2007 p. 5692.]
 Common name | Scientific name
@@ -226,6 +225,7 @@ Volute | Family Volutidae
 Zoila Cowry | Family Cypraeidae
 BIVALVES
 Ark Shell | Family Arcidae
+Clam, Giant | Family Tridacnidae
 Clam, Venus | Family Veneridae, Katelysia spp.
 Cockle | Family Cardiidae
 Mussel | Family Mytilidae
@@ -234,7 +234,7 @@ Oyster | Family Ostreidae
 Pipis | Family Donacidae
 Razor shell | Family Pinnidae
 Scallop | Family Pectinidae
-[Division 4 amended in Gazette 23 Apr 1999 p. 1716; 4 Jun 1999 p. 2271; 1 Oct 2003 p. 4343; 30 Sep 2004 p. 4187; 13 Nov 2007 p. 5693-4; 29 Sep 2009 p. 3875; 23 Jul 2010 p. 3406; 29 Jan 2013 p. 319.]
+[Division 4 amended in Gazette 23 Apr 1999 p. 1716; 4 Jun 1999 p. 2271; 1 Oct 2003 p. 4343; 30 Sep 2004 p. 4187; 13 Nov 2007 p. 5693-4; 29 Sep 2009 p. 3875; 23 Jul 2010 p. 3406; 29 Jan 2013 p. 319; 30 May 2014 p. 1724.]
 ## Division 5 — Other
 [Heading inserted in Gazette 13 Nov 2007 p. 5693.]
 Common name | Scientific name
