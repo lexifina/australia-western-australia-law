@@ -24,11 +24,11 @@ Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep
 Reprint 4: The Taxation Administration Act 2003 as at 3 Dec 2010 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 and the Revenue Laws Amendment Act 2012 s. 42(4))
 Revenue Laws Amendment Act 2012 Pt. 8 | 29 of 2012 | 3 Sep 2012 | Heading to Pt. 8, s. 40 and 42(4): 1 Jul 2009 (see s. 2(d)); s. 41, 42(1)-(3), 43 and 44: 4 Sep 2012 (see s. 2(e))
 Revenue Laws Amendment Act 2013 Pt. 2 Div. 2 and Pt. 3 | 10 of 2013 | 24 Sep 2013 | 25 Sep 2013 (see s. 2(b))
+Electronic Conveyancing Act 2014 Pt. 8 | 2 of 2014 | 24 Mar 2014 | 3 Jun 2014 (see s. 2(c) and Gazette 30 May 2014 p. 1679)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 482 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Electronic Conveyancing Act 2014 Pt. 8 | 2 of 2014 | 24 Mar 2014 | To be proclaimed (see s. 2(c))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 The amendment to s. 114(3)(f) in the Workers’ Compensation Reform Act 2004 s. 174 is not included because the paragraph it seeks to amend was deleted by the Business Tax Review (Assessment) Act (No. 2) 2003 s. 100.
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 7 Div. 1 of those regulations read as follows:
@@ -263,14 +263,7 @@ new provisions means the provisions of the Stamp Act 1921 as amended by the Reve
 (3) Subsection (2) does not authorise the Commissioner to make an assessment under the new provisions of the duty on an instrument to the extent (if any) to which the former provisions apply in relation to it under the Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 section 9(2)(b).
 (4) The Taxation Administration Act 2003 sections 18 and 54(1)(a) apply in relation to an assessment under subsection (2) as if it were a reassessment under section 16 of that Act.
 The amendment in the Duties Legislation Amendment Act 2008 s. 46 is not included because the section it sought to amend had been replaced by the Revenue Laws Amendment Act (No. 2) 2008 s. 7 before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the Electronic Conveyancing Act 2014 Pt. 8 had not come into operation. It reads as follows:
-Part 8 — Taxation Administration Act 2003 amended
-59.Act amended
-This Part amends the Taxation Administration Act 2003.
-60.Section 114 amended
-After section 114(3) insert:
-(4A) A word or expression that is defined in the Electronic Conveyancing Act 2014 section 3 has the same meaning in subsection (4B) as it has in that section.
-(4B) This section does not prevent the disclosure of information or material to the Authority, the Commissioner, the Registrar, an ELNO or subscribers for the purpose of enabling subscribers to complete conveyancing transactions or associated financial transactions, or both, by means of an ELN provided and operated under the Electronic Conveyancing Act 2014.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 48 had not come into operation. It reads as follows:
 Division 48 — Taxation Administration Act 2003 amended
 177.Act amended
@@ -279,76 +272,81 @@ This Division amends the Taxation Administration Act 2003.
 In section 34(2)(b) delete “a traffic infringement notice issued under the Road Traffic Act 1974 section 102,” and insert:
 an infringement notice as defined in the Road Traffic (Administration) Act 2008 section 4,
 This section has a retrospective commencement date effective from 1 Jul 2009 (see the Revenue Laws Amendment Act 2012 s. 2(d)).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-addressGl
+Defined termProvision(s)
+addressGl.
 amending Bill129(1)
-appointed representativeGl
-approvedGl
-assessmentGl
-assessment noticeGl
+appointed representativeGl.
+approvedGl.
+assessmentGl.
+assessment noticeGl.
 before129(2)
-chargeGl
-CommissionerGl
-compromise agreement20A(1)(a)
-compromise assessmentGl
-corresponding CommissionerGl
-dateGl
-decisionGl
+chargeGl.
+commencement day136(1)
+CommissionerGl.
+completeGl.
+compromise agreement20A(1)
+compromise assessmentGl.
+corresponding CommissionerGl.
+costs of valuation24(7)
+dateGl.
+decisionGl.
 determination notice129(1)
-directly reviewable decisionGl
-documentGl
-due dateGl
-endorseGl
-garnishee65(1), Gl
-groupGl
-identity cardGl
-instrument82(1), Gl
-investigation purposesGl
-investigatorGl
-land76A(1)
+directly reviewable decisionGl.
+documentGl.
+due dateGl.
+endorseGl.
+garnishee65(1), Gl.
+groupGl.
+identity cardGl.
+instrument82(1), Gl.
+interim assessment16A(1), Gl.
+investigation purposesGl.
+investigatorGl.
+land76A(1), 76A(1)
 landholder77A(1)
 landholder duty77A(1)
 linked entity77A(1)
 lodge76A(1)
 mining tenement76A(1)
-official assessmentGl
-official documentGl
-original assessmentGl
-original notice132(3)(a)
-penalty taxGl
-personGl
-premisesGl
-previous assessmentGl
-primary liabilityGl
-publishGl
+official assessmentGl.
+official documentGl.
+original assessmentGl.
+original notice132(3)
+penalty taxGl.
+personGl.
+premisesGl.
+previous assessmentGl.
+primary liabilityGl.
+publishGl.
+qualified valuerGl.
 real property76A(1)
-reassessmentGl
+reassessmentGl.
 reassessment period39(3), 43(4A)
-recognised jurisdictionGl
-recognised revenue lawGl
-recordGl
+recognised jurisdictionGl.
+recognised revenue lawGl.
+recordGl.
 register76A(1)
 Registrar82(1)
-Registrar of TitlesGl
+Registrar of TitlesGl.
 relevant land Act76A(1)
-relevant materialGl
-responsible partyGl
-review proceedingsGl
-self-assessmentGl
-special tax return arrangementGl
-StateGl
+relevant materialGl.
+responsible partyGl.
+review proceedingsGl.
+self-assessmentGl.
+special tax return arrangementGl.
+StateGl.
 statutory administrator of a taxpayer’s assets64(3)
-taxGl
-tax liabilityGl
-tax payment arrangementGl
-tax recordGl
+taxGl.
+tax liabilityGl.
+tax payment arrangementGl.
+tax recordGl.
 tax threshold129(1)
-taxation Act129(1), Gl
+taxation Act129(1), Gl.
 taxation matter7(3)
-taxpayerGl
+taxpayerGl.
 TLA land76A(1)
 transfer duty77A(1)
 unaffected amount133(2)
-vehicleGl
+vehicleGl.
