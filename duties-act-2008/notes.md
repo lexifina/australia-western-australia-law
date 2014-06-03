@@ -17,11 +17,11 @@ Revenue Laws Amendment Act (No. 2) 2012 Pt. 2 | 32 of 2012 | 8 Oct 2012 | Pt. 2 
 Duties Legislation Amendment Act 2013 Pt. 2 Div. 2 | 5 of 2013 | 29 Jun 2013 | 29 Jun 2013 (see s. 2(1)(b))
 Reprint 2: The Duties Act 2008 as at 9 Aug 2013 (includes amendments listed above)
 Revenue Laws Amendment Act 2013 Pt. 2 Div. 1 | 10 of 2013 | 24 Sep 2013 | 25 Sep 2013 (see s. 2(b))
+Electronic Conveyancing Act 2014 Pt. 6 | 2 of 2014 | 24 Mar 2014 | 3 Jun 2014 (see s. 2(c) and Gazette 30 May 2014 p. 1679)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 18 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Electronic Conveyancing Act 2014 Pt. 6 | 2 of 2014 | 24 Mar 2014 | To be proclaimed (see s. 2(c))
 The Mining Act 1904 was repealed by the Mining Act 1978.
 This section has a retrospective commencement date effective from 1 Dec 2011 (see the Revenue Laws Amendment Act 2012 Pt. 2 Div. 1 and 2).
 The Acts Amendment (Land Administration) Act 1997 commenced 30 Mar 1998 (see Gazette 27 Mar 1998 p. 1765).
@@ -82,49 +82,6 @@ Note:The heading to amended section 253 is to read:
 Functions of CEO and Commissioner
 Note:The heading to amended section 255 is to read:
 CEO’s duties
-On the date as at which this compilation was prepared, the Electronic Conveyancing Act 2014 Pt. 6 had not come into operation. It reads as follows:
-Part 6 — Duties Act 2008 amended
-48.Act amended
-This Part amends the Duties Act 2008.
-49.Section 3 amended
-In section 3 in the definition of transfer duty statement delete “section 22;” and insert:
-section 22(1);
-50.Section 22A inserted
-At the beginning of Chapter 2 Part 4 Division 2 insert:
-22A.Terms used
-In this Division —
-digitally sign has the meaning given in the Electronic Conveyancing Act 2014 section 3(1);
-electronic conveyancing instrument means an instrument in electronic form that, on being digitally signed, has, under the Electronic Conveyancing Act 2014 section 9(2), the same effect as if a paper document having the equivalent effect had been executed as provided in section 9(2)(a) or (b) of that Act.
-51.Section 22 amended
-(1) In section 22 delete “The person” and insert:
-(1) The person
-(2) At the end of section 22 insert:
-(2) For the purposes of subsection (1) and section 23(1)(a), an electronic conveyancing instrument that has been digitally signed is to be taken to be an instrument in hard copy form.
-52.Section 23 amended
-After section 23(2) insert:
-(3) If a transaction is effected by an electronic conveyancing instrument, the person liable to pay duty on the transaction is to be taken to have complied with subsection (1) when the instrument is digitally signed.
-53.Section 107 amended
-After section 107(2) insert:
-(3A) To avoid doubt, for the purposes of subsection (2), a dutiable transaction has not been, and will not be, carried into effect if —
-(a) the transaction is a transfer of dutiable property; and
-(b) the transaction is effected or evidenced by an electronic conveyancing instrument (as defined in section 22A); and
-(c) under section 42, no duty is chargeable on the transfer; and
-(d) the instrument, having been digitally signed (as defined in the Electronic Conveyancing Act 2014 section 3(1)) is unsigned in accordance with the participation rules (as so defined) applicable to that instrument.
-54.Section 273A inserted
-After section 272 insert:
-273A.Duty endorsement: electronic conveyancing instruments
-(1) In this section —
-digitally sign has the meaning given in the Electronic Conveyancing Act 2014 section 3(1);
-electronic conveyancing instrument means an instrument in electronic form that, on being digitally signed, has, under the Electronic Conveyancing Act 2014 section 9(2), the same effect as if a paper document having the equivalent effect had been executed as provided in section 9(2)(a) or (b) of that Act.
-(2) If the Commissioner has established procedures for the duty endorsement of transaction records that are in the form of electronic conveyancing instruments, a reference in this Act to a transaction record being duty endorsed includes a reference to a transaction record in that form being verified or certified by the Commissioner in accordance with those procedures to the effect that an amount of duty has been paid or is payable or that duty is not chargeable.
-(3) The procedures referred to in subsection (2) may include procedures for verifying or certifying electronic conveyancing instruments before they are digitally signed, and in that case —
-(a) the verification or certification of an electronic conveyancing instrument must be undertaken in accordance with those procedures as if the transaction to be effected by the instrument were a dutiable transaction, even though the instrument is not digitally signed; but
-(b) the verification or certification of the electronic conveyancing instrument in accordance with those procedures becomes a duty endorsement under subsection (2) only when the instrument is digitally signed.
-55.Section 278 amended
-Delete section 278(1) and insert:
-(1) In this section —
-caveat means a caveat lodged under the Mining Act 1978;
-registrar means a mining registrar as defined in the Mining Act 1978 section 8(1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -186,6 +143,7 @@ dealer228
 declaration of trust9
 dependant127(1)
 dependent transaction274(1)
+digitally sign22A, 273A
 director3
 Director General228
 discretionary trust3
@@ -203,6 +161,7 @@ duty3, 9, 148, 206, 228, 273(1)
 duty endorsed3, 272(1), (2) and (3)
 earlier acquisition189(4) and (6)
 earlier instrumentSch. 3 cl. 10(1)
+electronic conveyancing instrument22A, 273A
 eligible rollover fund121
 eligible transaction147A(1), 147B
 entitled3

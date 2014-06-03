@@ -53,3 +53,4 @@ To the Registrar of Titles.
 5.That the nature of such occupation was as follows: — [State generally how and by whom the land has been occupied as for instance by myself as a farm and dwelling; by my tenants A.B. and C.D. as shops; or partly by me as a dwelling and partly by my tenant A.B. as a shop].
 Dated the day of 20 Made and subscribed at in the presence of
 [Twenty-fourth Schedule amended by No. 81 of 1996 s. 145(2); No. 6 of 2003 s. 84.]
+[Twenty-fifth Schedule deleted by No. 2 of 2014 s. 95.]
