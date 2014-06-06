@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 June 2014 of the Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985 | 16 Aug 1985 p. 2905-16 | 16 Aug 1985
@@ -34,13 +34,14 @@ Reprint 3: The Casino Control (Burswood Island) (Licensing of Employees) Regulat
  | Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2012 | 16 Nov 2012 p. 5648-9 | r. 1 and 2: 16 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b))
  | Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2013 | 8 Nov 2013 p. 4974-5 | r. 1 and 2: 8 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see. r. 2(b))
  | Casino Control (Burswood Island) (Licensing of Employees) Amendment Regulations 2014 | 11 Apr 2014 p. 1019 | r. 1 and 2: 11 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Apr 2014 (see. r. 2(b))
+ | Reprint 4: The Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985 as at 6 Jun 2014 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+Casino2(1)
+Casino Gaming Licence2(1)
 Commission2(1)
 current holder2(1)
 employ2(1)
 form2(1)
-the Casino2(1)
-the Casino Gaming Licence2(1)
-the Operator2(1)
+Operator2(1)
