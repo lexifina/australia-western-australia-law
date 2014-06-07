@@ -5,6 +5,7 @@ Citation | Gazettal | Commencement
 Education and Care Services National Regulations 2012 | 25 Jul 2012 p. 3417–660 | r. 1 and 3: 25 Jul 2012 (see r. 3(a)); Regulations other than r. 1 and 3: 1 Aug 2012 (see r. 3(b) and Gazette 25 Jul 2012 p. 3411)
 Education and Care Services National Amendment Regulations 2012 | 5 Mar 2013 p. 1107-9 | r. 1 and 2: 5 Mar 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Mar 2013 (see r. 2(b))
 Education and Care Services National Amendment Regulations 2013 | 13 Dec 2013 p. 6151-70 | r. 1 and 2: 13 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2013 (see r. 2(b))
+Education and Care Services National Amendment Regulations 2014 | 6 Jun 2014 p. 1787-8 | r. 1 and 2: 6 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jun 2014 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
