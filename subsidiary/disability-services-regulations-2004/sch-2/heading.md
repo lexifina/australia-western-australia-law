@@ -6,4 +6,5 @@
 4.A disability access and inclusion plan must provide a means of ensuring that people with disability receive the same level and quality of service from the staff of the relevant public authority as other people receive from that authority.
 5.A disability access and inclusion plan must provide a means of ensuring that people with disability have the same opportunities as other people to make complaints to the relevant public authority.
 6.A disability access and inclusion plan must provide a means of ensuring that people with disability have the same opportunities as other people to participate in any public consultation by the relevant public authority.
-[Schedule 2 amended in Gazette 11 Jun 2013 p. 2164-5.]
+7.A disability access and inclusion plan must provide a means of reducing barriers to people with disability obtaining and maintaining employment.
+[Schedule 2 amended in Gazette 11 Jun 2013 p. 2164-5; 11 Jun 2013 p. 2164.]

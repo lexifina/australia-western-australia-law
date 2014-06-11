@@ -6,4 +6,5 @@
 4.People with disability receive the same level and quality of service from the staff of a public authority as other people receive from the staff of that public authority.
 5.People with disability have the same opportunities as other people to make complaints to a public authority.
 6.People with disability have the same opportunities as other people to participate in any public consultation by a public authority.
-[Schedule 3 amended in Gazette 11 Jun 2013 p. 2165.]
+7.People with disability have the same opportunities as other people to obtain and maintain employment with a public authority.
+[Schedule 3 amended in Gazette 11 Jun 2013 p. 2164-5.]
