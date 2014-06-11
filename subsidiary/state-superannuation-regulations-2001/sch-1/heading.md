@@ -18,13 +18,16 @@
 14.Director of Public Prosecutions under the Director of Public Prosecutions Act 1991
 15A.Disability Services Commission continued under the Disability Services Act 1993
 15.Governor under the Governor’s Establishment Act 1992
+16A.Heritage Council of Western Australia established under the Heritage of Western Australia Act 1990
 16.Hospital Boards constituted under section 15 of the Hospitals and Health Services Act 1927 and the Minister to whom the administration of that Act has for the time being been committed by the Governor in relation to any public hospital under the control of that Minister under section 7 of that Act
 17.Information Commissioner appointed under the Freedom of Information Act 1992
 18.Inspector of Custodial Services continued under the Inspector of Custodial Services Act 2003
 19.Law Reform Commission of Western Australia established under the Law Reform Commission Act 1972
+20A.Minerals Research Institute of Western Australia established under the Minerals Research Institute of Western Australia Act 2013
 20.Parliamentary Commissioner for Administrative Investigations appointed under the Parliamentary Commissioner Act 1971
 21.Perth Theatre Trust established by the Perth Theatre Trust Act 1979
 22.President of the Legislative Council, Speaker of the Legislative Assembly, President of the Legislative Council and Speaker of the Legislative Assembly acting jointly under the Parliamentary and Electorate Staff (Employment) Act 1992
+23A.Public Sector Commissioner appointed under the Public Sector Management Act 1994
 23.Rural Business Development Corporation continued under the Rural Business Development Corporation Act 2000
 [24, 25.deleted]
 26.The Board of the Art Gallery of Western Australia continued by the Art Gallery Act 1959
@@ -33,7 +36,7 @@
 29.The Western Australian Museum constituted by the Museum Act 1969
 30.Western Australian Land Information Authority established by the Land Information Authority Act 2006
 31.Western Australian Planning Commission established by the Planning and Development Act 2005
-[Division 1 amended in Gazette 29 Jun 2001 p. 3105; 26 Aug 2003 p. 3757; 1 Dec 2004 p. 5703 and 5717; 26 May 2006 p. 1931; 13 Apr 2007 p. 1609-10; 11 Feb 2011 p. 506; 23 Jul 2013 p. 3311-12; 14 Nov 2013 p. 5073; amended by Act No. 75 of 2003 s. 56(1); No. 10 of 2007 s. 43.]
+[Division 1 amended in Gazette 29 Jun 2001 p. 3105; 26 Aug 2003 p. 3757; 1 Dec 2004 p. 5703 and 5717; 26 May 2006 p. 1931; 13 Apr 2007 p. 1609-10; 11 Feb 2011 p. 506; 23 Jul 2013 p. 3311-12; 14 Nov 2013 p. 5073; 10 Jun 2014 p. 1806; amended by Act No. 75 of 2003 s. 56(1); No. 10 of 2007 s. 43.]
 ## Division 2 — Self funding employers
 1.The Government of Western Australia in relation to a worker in respect of whom the obligations of the Government are being discharged by a person, or by the employing authority of a department or organisation, specified in an order under regulation 9(1)(b) unless the order specifies that in relation to that worker the Government is a Division 1 Employer
 2A.Agencies established under the Hospitals and Health Services Act 1927 section 7B(1)
@@ -57,10 +60,10 @@
 20.Forest Products Commission established by the Forest Products Act 2000
 [21.deleted]
 22.Gaming and Wagering Commission of Western Australia established under the Gaming and Wagering Commission Act 1987
-[23.deleted]
+23.GoldCorp Australia established under the Gold Corporation Act 1987
+24A.Gold Corporation established under the Gold Corporation Act 1987
 24.Government Employees Superannuation Board under the Act
-25.Heritage Council of Western Australia established under the Heritage of Western Australia Act 1990
-[26.deleted]
+[25, 26.deleted]
 26A.Housing Authority continued under the Housing Act 1980
 27.Insurance Commission of Western Australia continued under the Insurance Commission of Western Australia Act 1986
 28.Keep Australia Beautiful Council (W.A.) established under the Litter Act 1979
@@ -68,9 +71,8 @@
 30.Lotteries Commission preserved and continued under the Lotteries Commission Act 1990
 [31.deleted]
 32.Metropolitan Cemeteries Board established under the Cemeteries Act 1986
-33.Metropolitan Regional Development Authority established under the Metropolitan Redevelopment Authority Act 2011
-34.Minerals and Energy Research Institute of Western Australia established under the Minerals and Energy Research Act 1987
-[35-37.deleted]
+33.Metropolitan Redevelopment Authority established under the Metropolitan Redevelopment Authority Act 2011
+[34-37.deleted]
 38.Perth Market Authority preserved and continued under the Perth Market Act 1926
 39.Port authorities established under the Port Authorities Act 1999
 40.Potato Marketing Corporation of Western Australia preserved and continued under the Marketing of Potatoes Act 1946
@@ -86,7 +88,8 @@
 47.The Aboriginal Affairs Planning Authority continued by the Aboriginal Affairs Planning Authority Act 1972
 48.The Burswood Park Board established under the Parks and Reserves Act 1895
 49.The National Trust of Australia (W.A.) established and incorporated under the National Trust of Australia (W.A.) Act 1964
-[50-53.deleted]
+50.The Western Australian Mint continued under the Gold Corporation Act 1987
+[51-53.deleted]
 54.Water Corporation established under the Water Corporation Act 1995
 [55, 56.deleted]
 57.Western Australian Coastal Shipping Commission established under the Western Australian Coastal Shipping Commission Act 1965
@@ -102,4 +105,4 @@
 [67.deleted]
 68.WorkCover Western Australia Authority (WorkCover Western Australia) continued by the Workers’ Compensation and Injury Management Act 1981
 69.Zoological Parks Authority established under the Zoological Parks Authority Act 2001
-[Division 2 amended in Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; 13 Apr 2007 p. 1610; 11 May 2012 p. 2064; 23 Jul 2013 p. 3312-13; 27 Dec 2013 p. 6479; amended by Act No. 43 of 2006 s. 7; No. 10 of 2007 s. 43; No. 28 of 2008 s. 16.]
+[Division 2 amended in Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; 13 Apr 2007 p. 1610; 11 May 2012 p. 2064; 23 Jul 2013 p. 3312-13; 27 Dec 2013 p. 6479; 10 Jun 2014 p. 1806-7; amended by Act No. 43 of 2006 s. 7; No. 10 of 2007 s. 43; No. 28 of 2008 s. 16.]

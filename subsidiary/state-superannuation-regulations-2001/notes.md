@@ -50,6 +50,7 @@ Reprint 5: The State Superannuation Regulations 2001 as at 8 Jun 2012 (includes 
 State Superannuation Amendment Regulations 2013 | 23 Jul 2013 p. 3293-313 | r. 1 and 2: 23 Jul 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jul 2013 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 2) 2013 | 14 Nov 2013 p. 5073 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Electricity Corporations (Consequential Amendments) Regulations 2013 r. 16 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
+State Superannuation Amendment Regulations 2014 | 10 Jun 2014 p. 1805-7 | r. 1 and 2: 10 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jun 2014 (see r. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. Part 9 of these regulations were amending regulations under that subsection. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed in the Acts database of the Statutes of Western Australia.
 Footnote no longer applicable.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
@@ -79,61 +80,62 @@ The State Superannuation Amendment Regulations 2006 r. 20(2) reads as follows:
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-1987 part-time transfereeSch. 2, cl. 1(1)
-1987 schemeSch. 3, cl. 1(1)
-1993 schemeSch. 3, cl. 1(1)
+1987 part-time transfereeSch. 2 cl. 1(1)
+1987 schemeSch. 3 cl. 1(1)
+1993 schemeSch. 3 cl. 1(1)
 abridged financial information224(3)
 accumulation account3(1)
 accumulation scheme219F(1), 220
-ActSch. 3, cl. 56(2)
+ActSch. 3 cl. 56(2)
 actual tax amount49A(6), 81A(6)
-adjusted final remunerationSch. 2, cl. 1(1)
-adjustment day12, Sch. 3, cl. 5
+additional superannuation contributions12G(1)
+adjusted final remunerationSch. 2 cl. 1(1)
+adjustment day12, Sch. 3 cl. 5
 allocated pension fund171
 annual reporting day220
-ASICSch. 2, cl. 13
-ASIC workerSch. 2, cl. 13
+ASICSch. 2 cl. 13
+ASIC workerSch. 2 cl. 13
 assessment notice49A(6), 81A(6)
 average contribution rate12, 13(1)
-average Part 6 contribution rateSch. 2, cl. 17
+average Part 6 contribution rateSch. 2 cl. 17
 benefit47(5)
 casual worker12
 charge percentage3(1)
 close of nominations225
-commencement day3(1)
+commencement day3(1), 12G(1)
 Commonwealth maximum171
 Commonwealth minimum171
 Commonwealth payment3(1)
 compassionate ground47A(8), 79A(7), 123(7)
-compulsory transfereeSch. 2, cl. 1(1)
+compulsory transfereeSch. 2 cl. 1(1)
 condition of release3(1)
 contact details220
 continued contributions option35(2)
-continuesSch. 3, cl. 1(1)
-continuing Gold State Super MemberSch. 3, cl. 1(1)
-continuing MemberSch. 3, cl. 1(1)
-continuing West State Super MemberSch. 3, cl. 1(1)
+continuesSch. 3 cl. 1(1)
+continuing Gold State Super MemberSch. 3 cl. 1(1)
+continuing MemberSch. 3 cl. 1(1)
+continuing West State Super MemberSch. 3 cl. 1(1)
 contribution day12
 contribution period3(1)
 contributions tax3(1)
 contributions-split transfer3(1)
 contributor64A(1), 94(3), 95(1)
-contributory membership period12, 14(1), Sch. 3, cl. 5
+contributory membership period12, 14(1), Sch. 3 cl. 5
 covered GESB Super Member111A
 covered risk benefits Member69G
 CPI rate3(1)
-currentSch. 3, cl. 1(1)
+currentSch. 3 cl. 1(1)
 death benefit48(4), 80(4), 121(4)
 default plan69A, 105, 183, 196J, 211
 deferred contributions option35(2)
 dependant80(4), 121(4), 219(4)
 disablement benefit49(5), 81(5)
 discounted benefit47A(8)
-discretion noticeSch. 2, cl. 27(4)
+discretion noticeSch. 2 cl. 27(4)
 Division 1 Employer3(1)
 Division 2 Employer3(1)
 document251(5)
-DPPSch. 2, cl. 10
+DPPSch. 2 cl. 10
 earning rate3(1)
 earnings76A, 79AA(4), 117, 122(7)
 eligible Gold State worker12, 15(1)
@@ -146,7 +148,7 @@ employee12A
 Employer3(1)
 employer contribution12
 employing authority9(5)
-end dateSch. 2, cl. 17
+end dateSch. 2 cl. 17
 estimated tax amount49A(2), 81A(2)
 existing member17A(5)
 ex-spouse219A(1)
@@ -154,7 +156,7 @@ Family Law Act3(1)
 final remuneration12, 16(1)
 flag lifting agreement219A(2)
 former member3(1)
-former MemberSch. 3, cl. 55(2)
+former MemberSch. 3 cl. 55(2)
 gainfully employed50(1), 83(1)
 GESB Super (Retirement Access) Member3(1)
 GESB Super (Retirement Access) Scheme3(1)
@@ -164,31 +166,31 @@ GESB Super Scheme3(1)
 GESB withdrawal benefit83(1)
 Gold State Super Member3(1)
 Gold State Super Scheme3(1)
-GSS withdrawal benefit12, Sch. 3, cl. 2
+GSS withdrawal benefit12, Sch. 3 cl. 2
 health condition12, 50(1), 111A
-industrial commissionerSch. 2, cl. 17
+industrial commissionerSch. 2 cl. 17
 investment powers246B(4)
 life expectancy196P(4)
-magistrateSch. 2, cl. 17
+magistrateSch. 2 cl. 17
 Member3(1), 225
 member contribution12, 50(1)
-member contribution rate12, Sch. 3, cl. 5
+member contribution rate12, Sch. 3 cl. 5
 Member’s assets69E(3), 109(3), 187(4), 196N(4), 215(3)
-non-contributory periodSch. 2, cl. 7
+non-contributory periodSch. 2 cl. 7
 notional funded amount44D(4)
 notional unfunded amount44D(4)
 notional unreduced amount44D(4)
-old lawSch. 2, cl. 14(1)
+old lawSch. 2 cl. 14(1)
 operative time219A(2)
 opt-in notice69G, 111A
 ordinary time earnings12A
 organisation9(5), 225
-over 50 transferee police officerSch. 2, cl. 17
+over 50 transferee police officerSch. 2 cl. 17
 overpayment248B(1)
 parliamentarian3(1)
-Part 1 MemberSch. 2, cl. 1(1)
-Part 2 MemberSch. 2, cl. 7
-Part 6 MemberSch. 2, cl. 17
+Part 1 MemberSch. 2 cl. 1(1)
+Part 2 MemberSch. 2 cl. 7
+Part 6 MemberSch. 2 cl. 17
 part payment80B(1)
 partial and permanent disablement3(1)
 partner3(1), 65BA, 97
@@ -202,11 +204,11 @@ pension total171
 permanent incapacity71(1)
 personalised investment plan69A, 105, 183, 196J, 211
 phased retirement benefit3(1)
-police officerSch. 2, cl. 17
-post-1987 part-time transfereeSch. 2, cl. 1(1)
+police officerSch. 2 cl. 17
+post-1987 part-time transfereeSch. 2 cl. 1(1)
 preservation age3(1)
 preserved3(1)
-previous lawSch. 2, cl. 7
+previous lawSch. 2 cl. 7
 primary Member195, 196V(1)
 protected amount50(1)
 provide medical information18(8)
@@ -219,18 +221,18 @@ recognised unpaid leave12
 reduced benefit option35(2)
 Registrar225
 regulated superannuation fund3(1)
-relevant MemberSch. 3, cl. 29(3)
-relevant regulationsSch. 2, cl. 13, 2, cl. 15
+relevant MemberSch. 3 cl. 29(3)
+relevant regulationsSch. 2 cl. 13, 15
 remuneration17A(1)
 reporting period220
-resignation daySch. 3, cl. 29(3)
+resignation daySch. 3 cl. 29(3)
 restricted non-preserved benefit3(1)
 retirement access account201
 retirement income account171
 Retirement Income Member3(1)
 Retirement Income Scheme3(1)
 retrenched19(2)
-retrenched transfereeSch. 2, cl. 1(1)
+retrenched transfereeSch. 2 cl. 1(1)
 returning officer225
 reversionary pensioner171
 S&FB Act3(1)
@@ -265,20 +267,21 @@ superannuation interest219A(1)
 superannuation salary in respect of a contribution period26(1)
 tax saving amount3(1)
 temporarily incapacitated72(1), 116(1)
+term12G(1)
 term allocated pension196A
 term allocated pension account196A
 Term Allocated Pension Member3(1)
 Term Allocated Pension Scheme3(1)
 total and permanent disablement12
 transfer benefit44B(1), 44D(4)
-transfer daySch. 2, cl. 1(1)
+transfer daySch. 2 cl. 1(1)
 transferred benefit79AA(4), 122(7)
-transferred contributionsSch. 2, cl. 1(1)
-transferred contributor for limited benefitsSch. 2, cl. 5(1)
-transferred serviceSch. 2, cl. 1(1)
+transferred contributionsSch. 2 cl. 1(1)
+transferred contributor for limited benefitsSch. 2 cl. 5(1)
+transferred serviceSch. 2 cl. 1(1)
 UnionsWA225
-UniversitySch. 2, cl. 6(2), 2, cl. 15
-University staff memberSch. 2, cl. 15
+UniversitySch. 2 cl. 6(2), 15
+University staff memberSch. 2 cl. 15
 unpaid leave12
 unrecognised unpaid leave12
 unrestricted condition of release3(1)
@@ -286,11 +289,11 @@ unrestricted non-preserved benefit3(1)
 unsplittable interest219A(2)
 value219A(1)
 voluntary GESB Super Member83(1)
-voluntary transfereeSch. 2, cl. 1(1)
+voluntary transfereeSch. 2 cl. 1(1)
 voluntary WSS Member50(1)
 west state account50(1)
 West State Super Member3(1)
 West State Super Scheme3(1)
 withheld amount49A(6), 81A(6)
 worker3(1)
-WSS withdrawal benefit50(1), Sch. 3, cl. 2
+WSS withdrawal benefit50(1), Sch. 3 cl. 2
