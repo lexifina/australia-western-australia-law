@@ -59,12 +59,26 @@ Motor Vehicle Drivers Instructors Amendment Regulations 2013 | 8 Feb 2013 p. 868
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2012 | 19 Feb 2013 p. 997 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2013 | 28 Jun 2013 p. 2803-4 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jun 2013 (see r. 2(b))
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 4) 2013 | 28 Jun 2013 p. 2804-5 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2014 r. 3 and 4 | 13 Jun 2014 p. 1904-5 | 1 Jul 2014 (see r. 2(b))
 Under the Alteration of Statutory Designations Order 2003 the name of the former Education Department of Western Australia was changed to the Department of Education and Training.
 Now superseded by the Public Transport Authority of Western Australia.
 Now superseded by the Fire and Emergency Services Authority of Western Australia.
 These regulations were repealed by the Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 1982 (published in Gazette 26 Mar 1982 p. 1073).
 The Motor Vehicles Instructors Amendment Regulations 1996 r. 6 is a transitional provision that is of no further effect.
 The Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2001 r. 9 and Sch. 1 and 2 are transitional and saving provisions that are of no further effect.
+On the date as at which this compilation was prepared, the Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2014 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Motor Vehicle Drivers Instructors Regulations 1964.
+4.Regulation 13 amended
+Amend regulation 13 as set out in the Table.
+Table
+Delete | Insert
+88.70 | 88.15
+5.00 (each occurrence) | 5.10
+152.80 | 153.25
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
