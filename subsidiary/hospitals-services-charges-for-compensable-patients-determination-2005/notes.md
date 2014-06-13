@@ -21,3 +21,22 @@ Hospitals (Services Charges for Compensable Patients) Amendment Determination 20
 Hospitals (Services Charges for Compensable Patients) Amendment Determination (No. 2) 2012 | 4 Jan 2013 p. 5 | cl. 1 and 2: 4 Jan 2013 (see cl. 2(a)); Determination other than cl. 1 and 2: 5 Jan 2013 (see cl. 2(b))
 Hospitals (Services Charges for Compensable Patients) Amendment Determination 2013 | 28 Jun 2013 p. 2754-5 | cl. 1 and 2: 28 Jun 2013 (see cl. 2(a)); Determination other than cl. 1 and 2: 1 Jul 2013 (see cl. 2(b))
 Hospitals (Services Charges for Compensable Patients) Amendment Determination 2014 | 28 Jan 2014 p. 180-1 | cl. 1 and 2: 28 Jan 2014 (see cl. 2(a)); Determination other than cl. 1 and 2: 29 Jan 2014 (see cl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Hospitals (Services Charges for Compensable Patients) Amendment Determination (No. 2) 2014 cl. 3 and 4 | 13 Jun 2014 p. 1896 | 1 Jul 2014 (see cl. 2(b))
+On the date as at which this compilation was prepared, the Hospitals (Services Charges for Compensable Patients) Amendment Determination (No. 2) 2014 cl. 3 and 4 had not come into operation. They read as follows:
+3.Determination amended
+This determination amends the Hospitals (Services Charges for Compensable Patients) Determination 2005.
+4.Schedule 1 amended
+In Schedule 1 amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Sch. 1 it. 1 | $1 984 | $2 005
+Sch. 1 it. 2A | $2 127 | $2 149
+Sch. 1 it. 3 | $267 | $275
+Sch. 1 it. 4 | $4 845 | $5 140
+Sch. 1 it. 6 | $203 | $223
+Sch. 1 it. 8 | $203 | $223
+Sch. 1 it. 9(aa) | $2 050 | $2 255
+Sch. 1 it. 9(b) | $1 912 | $2 103
