@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Magistrates Court (General) Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 13 June 2014 of the Magistrates Court (General) Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Magistrates Court (General) Rules 2005 | 28 Apr 2005 p. 1605-49 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -19,6 +19,7 @@ Magistrates Court (General) Amendment Rules (No. 3) 2013 | 26 Jul 2013 p. 3346-7
 Magistrates Court (General) Amendment Rules (No. 2) 2013 | 20 Aug 2013 p. 3818-20 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Rules other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Magistrates Court (General) Amendment Rules 2013 | 31 Dec 2013 p. 6548 | r. 1 and 2: 31 Dec 2013 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
 Magistrates Court (General) Amendment Rules (No. 2) 2014 | 11 Mar 2014 p. 573-83 | r. 1 and 2: 11 Mar 2014 (see r. 2(a)); Rules other than r. 1 and 2: 12 Mar 2014 (see r. 2(b))
+Reprint 3: The Magistrates Court (General) Rules 2005 as at 13 Jun 2014 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -31,7 +32,7 @@ contempt29
 CPA3
 defendant29
 Director General50
-exhibit40A, 40B
+exhibit40A, 40B(b)
 Form3
 lodge3
 media organisation40A
@@ -44,4 +45,4 @@ registry3
 relevant record40A
 RTA50
 searchable information41A(1)
-transcript40A, 40B
+transcript40A, 40B(a)
