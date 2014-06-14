@@ -35,8 +35,8 @@
 (a)one year exemption for —
 (i)prospecting licence | r. 54 | 341.70
 (ii)exploration licence | r. 54 | 387.60
-(iii)mining lease | r. 54 | 465.00
-(b)5 year exemption for mining lease | r. 54 | 2 325.00
+(iii)mining lease | r. 54 | 325.00
+(b)5 year exemption for mining lease | r. 54 | 1 625.00
 15.Issue of —
 (a)duplicate instrument of lease | s. 83 | 34.60
 (ba)instrument of licence | s. 116 | 34.60
@@ -70,4 +70,4 @@
 (i)evidence — per page |  | 8.35
 (ii)a judgment, decision or order — per page |  | 1.10
 (f)taxation of bill of costs | $0.05 in each amount of $1.00 on amount of lodged bill (minimum fee $10.00) — however where the lodged bill exceeds $1 000 the fee is reduced to $0.025 in each $1.00 for the excess, plus $50.00
-[Schedule 2 inserted in Gazette 22 Jun 2012 p. 2792-5; amended in Gazette 9 Nov 2012 p. 5455-6; 1 Feb 2013 p. 455; 26 Jul 2013 p. 3356-9.]
+[Schedule 2 inserted in Gazette 22 Jun 2012 p. 2792-5; amended in Gazette 9 Nov 2012 p. 5455-6; 1 Feb 2013 p. 455; 26 Jul 2013 p. 3356-9; 13 Jun 2014 p. 1898.]
