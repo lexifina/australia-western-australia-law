@@ -136,9 +136,29 @@ Hospitals (Services Charges) Amendment Regulations (No. 6) 2013 | 19 Nov 2013 p.
 Hospitals (Services Charges) Amendment Regulations 2014 | 28 Jan 2014 p. 179-80 | r. 1 and 2: 28 Jan 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jan 2014 (see r. 2(b))
 Reprint 9: The Hospitals (Services Charges) Regulations 1984 as at 14 Feb 2014 (includes amendments listed above)
 Hospitals (Services Charges) Amendment Regulations (No. 2) 2014 | 24 Apr 2014 p. 1142 | r. 1 and 2: 24 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Apr 2014 (see r. 2(b))
+Hospitals (Services Charges) Amendment Regulations (No. 3) 2014 | 13 Jun 2014 p. 1893 | r. 1 and 2: 13 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jun 2014 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Hospitals (Services Charges) Amendment Regulations (No. 4) 2014 r. 3 and 4 | 13 Jun 2014 p. 1894 | 1 Jul 2014 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with the Interpretation Act 1984 s. 42(1), subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The commencement date of 1 September 1990 that was specified in these regulations was before the date of their publication in the Gazette.
+On the date as at which this compilation was prepared, the Hospitals (Services Charges) Amendment Regulations (No. 4) 2014 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Hospitals (Services Charges) Regulations 1984.
+4.Schedule 1 amended
+In Schedule 1 amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Sch. 1 it. 1(b)(i) | $577 | $604
+Sch. 1 it. 1(b)(ii) | $326 | $335
+Sch. 1 it. 1(d) | $181.25 | $189
+Sch. 1 it. 1(e) | $1 841 | $2 008
+Sch. 1 it. 4(b) | $203 | $223
+Sch. 1 it. 6(b) | $267 | $275
+Sch. 1 it. 6(d) | $1 657 | $1 823
+Sch. 1 it. 7 | $35.25 | $36.15
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
