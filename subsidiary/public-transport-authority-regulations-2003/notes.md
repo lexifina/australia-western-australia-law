@@ -12,27 +12,25 @@ Reprint 1: The Public Transport Authority Regulations 2003 as at 4 Jul 2008 (inc
 Public Transport Authority Amendment Regulations 2009 | 27 Mar 2009 p. 931-2 | r. 1 and 2: 27 Mar 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Mar 2009 (see r. 2(b) and Gazette 27 Mar 2009 p. 917)
 Public Transport Authority Amendment Regulations (No. 2) 2009 | 24 Jul 2009 p. 2953-6 | r. 1 and 2: 24 Jul 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2009 (see r. 2(b))
 Public Transport Authority Amendment Regulations 2013 | 5 Nov 2013 p. 4950-5 | r. 1 and 2: 5 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Nov 2013 (see r. 2(b))
+Public Transport Authority Amendment Regulations 2014 | 13 Jun 2014 p. 1901-2 | r. 1 and 2: 13 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jun 2014 (see r. 2(b))
 Repealed by the Health (Smoking in Enclosed Public Places) Regulations 2003 which were repealed by the Tobacco Products Control Act 2006 s. 126.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 ACROD permit24
 Act3
 conveyance3
 counter flow direction33A
 designated3
 driver3, 24
-exception43A(3)(b)
 facility3
 goods28(2)
 master3
-offender43A(4)
 park24
 parking24
 parking space24
 peak flow direction33A
 peak time33A
-prohibition order43A(4)
 secured parking facility24
 sign3
 stand24

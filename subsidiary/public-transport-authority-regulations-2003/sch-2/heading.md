@@ -19,19 +19,19 @@ Note:If you require an extension of time to pay the modified penalty or if you b
 Cheques, Postal Notes or Money Orders should be made out to Public Transport Authority and addressed to Post Office Box 383 Northbridge WA 6865. Please ensure to include your name and infringement number with the payment to enable correct payment reconciliation.
 Alternatively, the modified penalty may be paid personally by presenting this notice and the payment amount to the following offices:
 Info Centre / Booking Office | Location | Opening hours
-Perth Station | Platform 9, Perth Railway Station | Monday - Thursday: 7.00am - 6.30pm Friday: 7.00am - 6.30pm Saturday: 7.00am - 6.00pm Sunday: 8.30am - 6.00pm Public Holidays: 8.30am - 6.00pm
-Perth Underground Station | Platform 9, Perth Railway Station | Monday - Thursday: 7.00am - 6.00pm Friday: 7.00am - 6.00pm Saturday: 9.00am - 5.00pm Sunday: 11.00am - 3.00pm Public Holidays: 11.00am - 3.00pm (excluding Christmas Day and Boxing Day)
-Esplanade Busport | Platform 9, Perth Railway Station | Monday - Thursday: 7.30am - 5.30pm Friday: 7.30am - 5.30pm Saturday: 10.00am - 2.00pm Sunday: 12.00pm - 4.00pm Public Holidays: Closed
-Wellington Street Bus Station | Platform 9, Perth Railway Station | Monday - Thursday: 7.30am - 5.30pm Friday: 7.30am - 5.30pm Saturday: 8.00am - 1.00pm Sunday: Closed Public Holidays: Closed
-Public Transport Centre | Platform 9, Perth Railway Station | Monday - Thursday: 6.30am - 5.00pm Friday: 6.30am - 6.00pm Saturday: 6.30am - 1.00pm Sunday: 7.30am - 3.30pm Public Holidays: Closed
-Armadale Booking Office | Platform 9, Perth Railway Station | Monday - Friday: 8.30am - 12.30pm Saturday and Sunday: Closed Public Holidays: Closed
-Midland Booking Office | Platform 9, Perth Railway Station | Monday - Friday: 8.30am - 12.30pm Saturday and Sunday: Closed Public Holidays: Closed
-Transit Admin Office | Platform 9, Perth Railway Station | Monday - Friday: 8.30am - 12.30pm Saturday and Sunday: Closed Public Holidays: Closed
+Perth Station | Wellington St, Perth | Monday — Thursday: 7.00 a.m. - 6.30 p.m. Friday: 7.00 a.m. - 6.30 p.m. Saturday: 7.00 a.m. - 6.00 p.m. Sunday: 8.30 a.m. - 6.00 p.m. Public Holidays: 8.30 a.m. - 6.00 p.m.
+Perth Underground Station | Perth Underground Station, Murray St entrance, Perth | Monday — Thursday: 7.00 a.m. - 6.00 p.m. Friday: 7.00 a.m. - 6.00 p.m. Saturday: 9.00 a.m. - 5.00 p.m. Sunday: 11.00 a.m. - 3.00 p.m. Public Holidays: 11.00 a.m. - 3.00 p.m. (excluding Christmas Day and Boxing Day)
+Esplanade Busport | Mounts Bay Rd, Perth | Monday — Thursday: 7.30 a.m. - 5.30 p.m. Friday: 7.30 a.m. - 5.30 p.m. Saturday: 10.00 a.m. - 2.00 p.m. Sunday: 12.00 p.m. - 4.00 p.m. Public Holidays: Closed
+Wellington Street Bus Station | 376 Wellington St, Perth | Monday — Thursday: 7.30 a.m. - 5.30 p.m. Friday: 7.30 a.m. - 5.30 p.m. Saturday: 8.00 a.m. - 1.00 p.m. Sunday: Closed Public Holiday: Closed
+Public Transport Centre | West Parade, East Perth | Monday — Thursday: 6.30 a.m. - 5.00 p.m. Friday: 6.30 a.m. - 6.00 p.m. Saturday: 6.30 a.m. - 1.00 p.m. Sunday: 7.30 a.m. - 3.30 p.m. Public Holidays: Closed
+Armadale Booking Office | Armadale Railway Station | Monday — Friday: 8.30 a.m. - 12.30 p.m. Saturday and Sunday: Closed Public Holidays: Closed
+Midland Booking Office | Midland Railway Station | Monday — Friday: 8.30 a.m. - 12.30 p.m. Saturday and Sunday: Closed Public Holidays: Closed
+Transit Admin Office | Perth Railway Station | Monday — Friday: 8.30 a.m. - 4.30 p.m. Saturday and Sunday: Closed Public Holidays: Closed
 Payment by phone: Please call 1300 276 468 (credit card payments only)
 Payment by internet: infringements.pta.wa.gov.au (credit card payments only)
 Biller ID: 1001089 Ref: Please refer to the infringement serial number printed at the top right hand corner on the reverse side of this form.
-Credit card only. Payments made online or over the phone must be made before 9.00pm Western Australian Standard Time on the due date.
-[Form 1 amended in Gazette 5 Nov 2013 p. 4953-4.]
+Credit card only. Payments made online or over the phone must be made before 9.00 p.m. Western Australian Standard Time on the due date.
+[Form 1 amended in Gazette 5 Nov 2013 p. 4953-4; 13 Jun 2014 p. 1902.]
 Form 2
 Public Transport Authority Act 2003
 Public Transport Authority Regulations 2003
