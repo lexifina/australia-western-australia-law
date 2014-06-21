@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 December 2013 of the Fines, Penalties and Infringement Notices Enforcement Regulations 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fines, Penalties and Infringement Notices Enforcement Regulations 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fines, Penalties and Infringement Notices Enforcement Regulations 1994 | 30 Dec 1994 p. 7232-41 | 1 Jan 1995 (see r. 2 and Gazette 30 Dec 1992 p. 7211)
@@ -53,6 +53,7 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No.
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 3) 2013 | 20 Aug 2013 p. 3877-94 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); r. 13: 21 Aug 2013 (see r. 2(b)); Regulations other than r. 1, 2 and 13: 21 Aug 2013 (see r. 2(c) and Gazette 20 Aug 2013 p. 3815)
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 4) 2013 | 3 Dec 2013 p. 5624-5 | r. 1 and 2: 3 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2013 (see r. 2(b))
 Reprint 6: The Fines, Penalties and Infringement Notices Enforcement Regulations 1994 as at 6 Dec 2013 (includes amendments listed above)
+Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 3) 2014 | 20 Jun 2014 p. 2026 | r. 1 and 2: 20 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Jun 2014 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now called the General Account.
 Formerly referred to the Censorship Act 1996 the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
