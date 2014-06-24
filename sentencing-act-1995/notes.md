@@ -75,6 +75,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 47 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
+Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 3 Div. 1 | 11 of 2014 | 24 Jun 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
@@ -238,6 +239,17 @@ Delete section 38(2) and insert:
 (2) The review —
 (a) is to be based on an examination, in the absence of the parties, of the court documents relevant to the offence (whether the original documents or copies, or some other form of the documents prescribed by the regulations or rules of court); and
 (b) is not to involve a hearing.
+On the date as at which this compilation was prepared, the Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 3 Div. 1 had not come into operation. It reads as follows:
+Part 3 — Consequential amendments
+Division 1 — Sentencing Act 1995 amended
+7.Act amended
+This Division amends the Sentencing Act 1995.
+8.Schedule 1A amended
+(1) In Schedule 1A Part 1 item 1 insert in numerical order:
+s. 417/417A(3) | Possessing stolen or unlawfully obtained property where the property is a motor vehicle and driven recklessly or dangerously
+s. 417/417A(4) | Possessing stolen or unlawfully obtained property where the property is an aircraft
+(2) In Schedule 1A Part 2 item 1 delete “s. 428” and insert:
+s. 417
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
