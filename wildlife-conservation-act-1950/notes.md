@@ -46,9 +46,20 @@ Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep
 Reprint 8: The Wildlife Conservation Act 1950 as at 19 Nov 2010 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
 Conservation Legislation Amendment Act 2011 Pt. 3 | 36 of 2011 | 13 Sep 2011 | 8 Dec 2012 (see s. 2(b) and Gazette 7 Dec 2012 p. 5963)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 6 Div. 3 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 3 Div. 2 | 11 of 2014 | 24 Jun 2014 | To be proclaimed (see s. 2(b))
 Now known as the Wildlife Conservation Act 1950; short title changed (see note under s. 1).
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
 The amendments in the Statutes (Repeals and Minor Amendments) Act 1997 s. 132(23) to s. 15(1a) and (1b) and 23C(2a) are not included because the provisions to be amended were repealed by s. 132(3) and (13) of that Act.
+On the date as at which this compilation was prepared, the Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 3 Div. 2 had not come into operation. It reads as follows:
+Division 2 — Wildlife Conservation Act 1950 amended
+9.Act amended
+This Division amends the Wildlife Conservation Act 1950.
+10.Section 20 amended
+In section 20(4) delete “section 428 of The Criminal Code” and insert:
+The Criminal Code section 417
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
