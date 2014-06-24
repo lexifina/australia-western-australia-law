@@ -178,6 +178,7 @@ Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 | 10 of 2011 | 2 May 2011 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 2 | 11 of 2014 | 24 Jun 2014 | To be proclaimed (see s. 2(b))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -262,6 +263,35 @@ Delete section 297(4)(c)(iii) and insert:
 185.Section 318 amended
 Delete section 318(1)(g)(iii) and insert:
 (iii) a taxi as defined in the Taxi Act 1994 section 3(1) or an omnibus as defined in the Transport Co-ordination Act 1966 section 4(1);
+On the date as at which this compilation was prepared, the Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — The Criminal Code amended
+3.Act amended
+This Part amends The Criminal Code.
+4.Sections 417 and 417A inserted
+At the end of Part VI Division 1 Chapter XLI insert:
+417.Possessing stolen or unlawfully obtained property
+(1) A person who is in possession of any thing capable of being stolen that is reasonably suspected to be stolen or otherwise unlawfully obtained is guilty of a crime and is liable, if no other punishment is provided under section 417A, to imprisonment for 7 years.
+Summary conviction penalty: imprisonment for 2 years and a fine of $24 000.
+(2) It is a defence to a charge under subsection (1) to prove that at the time the accused was allegedly in possession of the thing, the accused had no reasonable grounds for suspecting that the thing was stolen or unlawfully obtained.
+417A.Punishment for possession in special cases
+(1) The penalty for a crime committed under section 417(1) in a case specified in this section is the penalty specified for that case.
+(2) If the thing is a testamentary instrument, whether the testator is living or dead, the offender is liable to imprisonment for 10 years.
+(3) If the thing is a motor vehicle, the offender is liable to imprisonment for 8 years if the offender —
+(a) wilfully drives the motor vehicle in a manner that constitutes an offence under the Road Traffic Act 1974 section 60 (i.e. the offence known as reckless driving); or
+(b) drives the motor vehicle in a manner that constitutes an offence under the Road Traffic Act 1974 section 61 (i.e. the offence known as dangerous driving).
+(4) If the thing is an aircraft, the offender is liable to imprisonment for 10 years.
+(5) If the offender is employed in the Public Service and the thing came into the possession of the offender by virtue of his or her employment, the offender is liable to imprisonment for 10 years.
+(6) If the offender is an employee and the thing came into the possession of the offender on account of his or her employer, the offender is liable to imprisonment for 10 years.
+(7) If the offender is a director or officer of a corporation or company, and the thing is the property of the corporation or company, the offender is liable to imprisonment for 10 years.
+5.Section 428 deleted
+Delete section 428.
+6.References to “section 428” amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+s. 378 | 428 | 417
+s. 409(1) | 428 | 417
+s. 414 | 428 | 417
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
