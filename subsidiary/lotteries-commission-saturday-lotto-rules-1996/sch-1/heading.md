@@ -51,7 +51,7 @@ Subscription for one week
 [25 games @ $0.65 each]=$16.25
 9% of subscription [.09 x $16.25]=$1.462
 Rounded using “bankers rounding”=$1.50
-Total cost of entry=$17.75
+Total cost of entry=$17.70
 The total cost of entry for a System 8 entry for a single Saturday lotto draw is calculated as follows —
 Subscription for one week
 [28 games @ $0.65 each]=$18.20
@@ -69,7 +69,7 @@ Subscription for one week
 [25 games @ $0.65 each]=$16.25
 9% of subscription [.09 x $16.25]=$1.462
 Rounded using “bankers rounding”=$1.50
-Total cost of entry for one week=$17.75
-Total cost of entry for 10 weeks=$177.50
+Total cost of entry for one week=$17.70
+Total cost of entry for 10 weeks=$177.00
 * Rounding is calculated using the method known as “bankers rounding” or “round-to-even” rounding.
-[Part 2 inserted in Gazette 6 May 2014 p.1388-9.]
+[Part 2 inserted in Gazette 6 May 2014 p.1388-9; amended in Gazette 24 Jun 2014 p. 2094.]

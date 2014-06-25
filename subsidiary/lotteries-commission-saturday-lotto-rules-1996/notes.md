@@ -25,9 +25,10 @@ Lotteries Commission (Saturday Lotto) Amendment Rules (No. 2) 2010 | 19 Nov 2010
 Lotteries Commission (Saturday Lotto) Amendment Rules (No. 3) 2010 | 21 Dec 2010 p. 6763-7 | r. 1 and 2: 21 Dec 2010 (see r. 2(a)); Rules other than r. 1 and 2: 23 Jan 2011 (see r. 2(b))
 Reprint 4: The Lotteries Commission (Saturday Lotto) Rules 1996 as at 19 Oct 2012 (includes amendments listed above)
 Lotteries Commission (Saturday Lotto) Amendment Rules 2014 | 6 May 2014 p. 1386-90 | r. 1 and 2: 6 May 2014 (see r. 2(a)); Rules other than r. 1 and 2: 7 May 2014 (see r. 2(b))
-Defined Terms
+Lotteries Commission (Saturday Lotto) Amendment Rules (No. 2) 2014 | 24 Jun 2014 p. 2093-4 | r. 1 and 2: 24 Jun 2014 (see r. 2(a)); Rules other than r. 1 and 2: 25 Jun 2014 (see r. 2(b))
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 agent3
 agent’s component3
 Australian Lotto Bloc3
