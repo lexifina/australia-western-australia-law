@@ -113,6 +113,7 @@ Liquor Control Amendment Regulations (No. 7) 2013 | 8 Nov 2013 p. 4977-80 | r. 1
 Liquor Control Amendment Regulations (No. 8) 2013 | 6 Dec 2013 p. 5738-9 | r. 1 and 2: 6 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Dec 2013 (see r. 2(b))
 Reprint 12: The Liquor Control Regulations 1989 as at 14 Mar 2014 (includes amendments listed above)
 Liquor Control Amendment Regulations 2014 | 21 Mar 2014 p. 741-2 | r. 1 and 2: 21 Mar 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Mar 2014 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 2) 2014 | 27 Jun 2014 p. 2354-5 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jun 2014 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
 Repealed by the Aged Care Amendment Act 2011 (Cwlth).
