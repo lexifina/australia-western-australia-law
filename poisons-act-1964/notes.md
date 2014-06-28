@@ -129,6 +129,7 @@ Poisons (Appendix A Amendment) Order (No. 2) 2011 published in Gazette 5 Aug 201
 Reprint 9: The Poisons Act 1964 as at 19 Aug 2011 (includes amendments listed above except the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
 Poisons (Appendix A Amendment) Order 2012 published in Gazette 10 Feb 2012 p. 651 | cl. 1 and 2: 10 Feb 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 11 Feb 2012 (see cl. 2(b))
 Poisons (Appendix A Amendment) Order (No. 2) 2012 published in Gazette 31 Aug 2012 p. 4209 | cl. 1 and 2: 31 Aug 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Sep 2012 (see cl. 2(b))
+Poisons (Appendix A Amendment) Order 2014 published in Gazette 27 Jun 2014 p. 2328-30 | cl. 1 and 2: 27 Jun 2014 (see cl. 2(a)); Order other than cl. 1 and 2: 28 Jun 2014 (see cl. 2(b))
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 The designation of Ministers may be altered by the Governor under the Alteration of Statutory Designations Act 1974. As at the date of this compilation the former Minister for Agriculture is known as the Minister for Agriculture and Food.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 40 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
