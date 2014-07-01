@@ -23,11 +23,11 @@ Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009
 Public Sector Reform Act 2010 s. 81 and 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Building Act 2011 s. 169 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Reprint 3: The Port Authorities Act 1999 as at 7 Sep 2012 (includes amendments listed above)
-Ports Legislation Amendment Act 2014 | 9 of 2014 | 20 May 2014 | Heading to Pt. 2, s. 3, 4(3), 5(1), 7(1), 10, 28(1), 29, 30, 32 and 35: 21 May 2014 (see s. 2(1)(b)); s. 4(1) and (2), 6, 7(2), 8, 9, 11-27 and 33: 31 May 2014 (see s. 2(1)(c) and Gazette 30 May 2014 p. 1680)
+Ports Legislation Amendment Act 2014 | 9 of 2014 | 20 May 2014 | Heading to Pt. 2, s. 3, 4(3), 5(1), 7(1), 10, 28(1), 29, 30, 32 and 35: 21 May 2014 (see s. 2(1)(b)); s. 4(1) and (2), 6, 7(2), 8, 9, 11-27 and 33: 31 May 2014 (see s. 2(1)(c) and Gazette 30 May 2014 p. 1680): s. 4(4), 5(2), 28(2), 31(2)-(4), 34 and 36: 1 July 2014 (see s. 2(1)(c) and (2) and Gazette 20 Jun 2014 p. 2023)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Ports Legislation Amendment Act 2014 s. 4(4), 5(2), 28(2), 31, 34 and 36 | 9 of 2014 | 20 May 2014 | To be proclaimed (see s. 2(1)(c) and (2))
+Ports Legislation Amendment Act 2014 s. 31(1) | 9 of 2014 | 20 May 2014 | To be proclaimed (see s. 2(1)(c) and (2))
 The Ports and Marine Legislation Amendment Act 2003 s. 4(2) reads as follows:
 (2) The amendment made by subsection (1) does not affect the operation of the Port Authorities (Withdrawal and Revesting of Property) Order 2000 published in the Gazette on 2 June 2000.
 The Land Act 1933 was repealed by the Land Administration Act 1997 s. 281.
@@ -35,21 +35,7 @@ The Port Authorities (Consequential Provisions) Act 1999 s. 3 and Pt. 3 have int
 Lands and Surveys plans are now held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 The amendment in the State Superannuation Amendment Act 2007 s. 84 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 contain validation provisions.
-On the date as at which this compilation was prepared, the Ports Legislation Amendment Act 2014 s. 4(4), 5(2), 28(2), 31, 34 and 36 had not come into operation. They read as follows:
-4.Section 3 amended
-(4) In section 3(1) in the definition of port after “Schedule 1” insert:
-or placed under the control and management of a port authority by regulations in accordance with Schedule 9
-5.Section 4 amended
-(2) Delete section 4(2A) as inserted by subsection (1) and insert:
-(2A) A port authority named in column 2 of an item in Schedule 1 is to control and manage —
-(a) any port named in column 3 of that item; and
-(b) any port placed under the control and management of the port authority by regulations in accordance with Schedule 9.
-28.Section 138 replaced
-(2) In section 138 as inserted by subsection (1):
-(a) in paragraph (b) delete “clause 45.” and insert:
-clause 45; or
-(b) after paragraph (b) insert:
-(c) Schedule 9 or regulations referred to in Schedule 9.
+On the date as at which this compilation was prepared, the Ports Legislation Amendment Act 2014 s. 31(1) had not come into operation. It reads as follows:
 31.Schedule 1 amended
 (1) In Schedule 1:
 (a) in item 3 column 2 delete “Bunbury Port Authority” and insert:
@@ -59,46 +45,6 @@ Port of Albany
 (c) in item 3 column 3 below “Port of Bunbury” insert:
 Port of Esperance
 (d) delete items 2 and 4.
-(2) In Schedule 1 item 5 column 2 delete “Geraldton Port Authority” and insert:
-Mid West Ports Authority
-(3) In Schedule 1:
-(a) delete item 6;
-(b) in item 7 column 2 delete “Port Hedland Port Authority” and insert:
-Pilbara Ports Authority
-(c) in item 7 column 3 above “Port of Port Hedland” insert:
-Port of Ashburton
-Port of Dampier
-(4) In Schedule 1 item 8 column 2 delete “Broome Port Authority” and insert:
-Kimberley Ports Authority
-34.Schedule 6 further amended
-(1) In the heading to Schedule 6 delete “particular port authorities” and insert:
-Pilbara Ports Authority
-(2) In the heading to Schedule 6 Division 1 delete “Dampier Port Authority” and insert:
-Port of Dampier
-(3) In Schedule 6 clause 1.1 delete “Dampier Port” and insert:
-Pilbara Ports
-(4) In the heading to Schedule 6 Division 2 delete “Port Hedland Port Authority” and insert:
-Port of Port Hedland
-(5) In Schedule 6 clause 2.1 delete “Port Hedland Port” and insert:
-Pilbara Ports
-36.Schedule 9 inserted
-After the last Schedule insert:
-Schedule 9 — Placing additional ports under a port authority’s control and management
-[s. 4(2A)(b)]
-1.Terms used
-In this Schedule —
-Government agreement has the meaning given in Schedule 8 clause 1;
-port means a port other than a port named in regulations referred to in the Shipping and Pilotage Act 1967 section 10(1a);
-port addition means the placing of a port under the control and management of a port authority by regulations referred to in clause 2(1), whether or not those regulations have come into operation.
-2.Regulations may place a port under the control and management of a port authority
-(1) Regulations may place a port specified in the regulations under the control and management of a port authority specified in the regulations.
-(2) Regulations may prescribe any matter that may be necessary or expedient to provide for, implement or facilitate a port addition.
-3.Port authority to implement or facilitate port addition
-(1) If a port addition places, or will place, a port under the control and management of a port authority, the port authority is to do anything that is prescribed by regulations referred to in clause 2 and anything else that may be necessary or expedient to provide for, implement or facilitate the port addition.
-(2) The function conferred on a port authority by subclause (1) is in addition to any other function that it has.
-4.Government agreements not affected
-(1) The provisions of this Schedule or regulations referred to in this Schedule do not prejudice or in any way affect any right or obligation of a party to a Government agreement.
-(2) This clause does not limit or otherwise affect the operation of Schedule 6 clauses 1.3 and 2.3.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
