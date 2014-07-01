@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 18 April 2014 of the Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986 | 24 Oct 1986 p. 3947-54 | 1 Nov 1986 (see bl. 2 and Gazette 24 Oct 1986 p. 3938)
@@ -19,6 +19,7 @@ Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2011 | 21 J
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2011 | 9 Dec 2011 p. 5233-4 | bl. 1 and 2: 9 Dec 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jan 2012 (see bl. 2(b))
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2013 | 28 Jun 2013 p. 2755-6 | bl. 1 and 2: 28 Jun 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2013 (see bl. 2(b))
 Reprint 2: The Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986 as at 18 Apr 2014 (includes amendments listed above)
+Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2014 | 17 Jun 2014 p. 1980-1 | bl. 1 and 2: 17 Jun 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2014 (see bl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

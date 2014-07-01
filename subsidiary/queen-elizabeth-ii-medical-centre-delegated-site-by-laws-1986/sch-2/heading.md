@@ -19,7 +19,7 @@ By-law | Brief description of offence | Modified penalty ($)
  | — No Standing at Any time | 45
  | — No Parking at Any time | 40
 25 | Parking contrary to a sign | 40
-26AA(2) | Parking in ticket parking area — (a)failing to purchase ticket for required period (b)failing to display ticket | 20 30
+26AA(2) | Parking in ticket parking area — (a)failing to purchase ticket for required period (b)failing to display ticket | 30 30
 26AA(3) | Parking in boom gate controlled ticket parking area without a ticket | 20
 26AA(4) | Removing a vehicle from boom gate controlled ticket parking area without paying the prescribed fee | 20
 26AA(5) | Parking a vehicle in a ticket parking area or a boom gate controlled ticket parking area and leaving the site while the vehicle is parked there | 30
@@ -31,4 +31,4 @@ By-law | Brief description of offence | Modified penalty ($)
 35 | Refusing to supply name and address to authorised person when required | 45
 36 | Wilfully obstructing person employed on site in discharge of his duty | 45
 36 | Obstructing, disturbing, interrupting or annoying person lawfully using site | 45
-[Schedule 2 inserted in Gazette 22 Feb 1991 p. 881-2; amended in Gazette 29 Jun 2001 p. 3114; 22 Jun 2010 p. 2779-80; 17 Dec 2010 p. 6355.]
+[Schedule 2 inserted in Gazette 22 Feb 1991 p. 881-2; amended in Gazette 29 Jun 2001 p. 3114; 22 Jun 2010 p. 2779-80; 17 Dec 2010 p. 6355; 17 Jun 2014 p. 1981.]
