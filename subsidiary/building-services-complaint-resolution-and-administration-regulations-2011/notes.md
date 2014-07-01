@@ -8,6 +8,7 @@ Building Services (Complaint Resolution and Administration) Amendment Regulation
 Reprint 1: The Building Services (Complaint Resolution and Administration) Regulations 2011 as at 7 Jun 2013 (includes amendments listed above)
 Building Services (Complaint Resolution and Administration) Amendment Regulations (No. 2) 2013 | 27 Jun 2013 p. 2663-4 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Building Services (Complaint Resolution and Administration) Amendment Regulations 2014 | 17 Apr 2014 p. 1073-4 | r. 1 and 2: 17 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Apr 2014 (see r. 2(b))
+Building Services (Complaint Resolution and Administration) Amendment Regulations (No. 2) 2014 | 17 Jun 2014 p. 1958-9 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Section 374 was deleted by the Building Act 2011 s. 153(2).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
