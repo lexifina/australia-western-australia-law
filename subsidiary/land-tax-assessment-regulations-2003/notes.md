@@ -10,6 +10,7 @@ Land Tax Assessment Amendment Regulations 2008 | 30 May 2008 p. 2088 | r. 1 and 
 Reprint 1: The Land Tax Assessment Regulations 2003 as at 5 Sep 2008 (includes amendments listed above)
 Land Tax Assessment Amendment Regulations 2009 | 17 Nov 2009 p. 4632-4 | r. 7: 1 Jul 2009 (see r. 2(b)); r. 1 and 2: 17 Nov 2009 (see r. 2(a)); Regulations other than r. 1, 2 and 7: 18 Nov 2009 (see r. 2(c))
 Electricity Corporations (Consequential Amendments) Regulations 2013 r. 13 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
+Land Tax Assessment Amendment Regulations 2014 | 30 Jun 2014 p. 2425-6 | r. 1 and 2: 30 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i))
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 5(d).
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 3 Div. 3 of those regulations read as follows:
 “
