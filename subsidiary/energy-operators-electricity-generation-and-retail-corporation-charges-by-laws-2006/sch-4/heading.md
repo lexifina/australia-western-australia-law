@@ -16,4 +16,7 @@ Description of fee | Amount
 [9.Deleted]
 10.Overdue account notices ............................................ | $4.75
 11.Tariff R1 or R3 “time-of-use meter” installation fee .. | $809.60
-[Schedule 4 amended by Gazette 26 Jun 2007 p. 3017; 30 Mar 2009 p. 982 and 994; 26 Mar 2010 p. 1138 and 1141-2; 24 Jun 2011 p. 2502; 29 Jun 2012 p. 2926; 30 Aug 2013 p. 4100.]
+12.A transaction fee where a consumer makes a payment to the corporation by means of one of the following —
+(a)a Visa or a MasterCard credit card or debit card | 0.53% of the amount of the charge
+(b)an American Express credit card | 1.68% of the amount of the charge
+[Schedule 4 amended in Gazette 26 Jun 2007 p. 3017; 30 Mar 2009 p. 982 and 994; 26 Mar 2010 p. 1138 and 1141-2; 24 Jun 2011 p. 2502; 29 Jun 2012 p. 2926; 30 Aug 2013 p. 4100; 27 Jun 2014 p. 2319.]
