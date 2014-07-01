@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 May 2014 of the Employment Agents Regulations 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Employment Agents Regulations 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Employment Agents Regulations 1976 | 10 Sep 1976 p. 3386-93 | 1 Nov 1976 (see Gazette 24 Sep 1976 p. 3493)
@@ -37,6 +37,7 @@ Employment Agents Amendment Regulations 2012 | 15 Jun 2012 p. 2587-8 | r. 1 and 
 Employment Agents Amendment Regulations (No. 2) 2013 | 27 Jun 2013 p. 2679-80 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Employment Agents Amendment Regulations 2013 | 20 Aug 2013 p. 3830 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Reprint 5: The Employment Agents Regulations 1976 as at 2 May 2014 (includes amendments listed above)
+Employment Agents Amendment Regulations 2014 | 17 Jun 2014 p. 1965-6 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Under the Consumer Affairs Act 1971 s. 4(3), references, however expressed, in any other Act or in any regulation, notice, proclamation, or statutory instrument of any kind made, published or in force under that or any other Act to the Commissioner for Consumer Protection are, unless the context requires otherwise, read and construed as references to the Commissioner for Fair Trading as defined by the Consumer Affairs Act 1971.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 s. 151(5) provides that a reference to the Commissioner for Fair Trading is to have effect as if it had been amended to be a reference to the Commissioner as defined by the Consumer Affairs Act 1971.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection is called the Department of Commerce.
