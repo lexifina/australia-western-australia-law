@@ -11,9 +11,23 @@ Family Court Amendment Regulations 2011 | 13 May 2011 p. 1737-47 | r. 1 and 2: 1
 Reprint 2: The Family Court Regulations 1998 as at 2 Mar 2012 (includes amendments listed above)
 Family Court Amendment Regulations 2012 | 14 Dec 2012 p. 6235-51 | r. 1 and 2: 14 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b))
 Deleted by the Supreme Court Amendment Rules (No. 5) 2001.
-Defined Terms
+The amount of each fee in Schedule 1 increased on 1 July 2014 under regulation 21I is reflected in the table below.
+Item | Document or action | Updated fee for 1 July 2014 to 30 June 2016
+1. | Filing an application for final orders in eligible financial or parenting proceedings | $320
+2. | Setting-down for hearing in eligible financial or parenting proceedings, if defended, for final orders — (a)for a hearing before a judge (b)for a hearing before a magistrate | $805 $590
+3. | Hearing in eligible financial or parenting proceedings, if defended, for final orders — for each hearing day, or part of a hearing day, excluding the first hearing day — (a)for a hearing before a judge (b)for a hearing before a magistrate | $805 $590
+4. | Filing a response to an application for final orders in eligible financial or parenting proceedings | $320
+5. | Setting-down for hearing in an appeal under section 211 from a decree of a Magistrates Court, unless the fee mentioned in item 12 has been paid | $805
+6. | Hearing in an appeal under section 211 from a decree of a Magistrates Court — for each hearing day, or part of a hearing day, excluding the first hearing day | $805
+7. | Filing an application for a consent order | $155
+8. | Filing an interim order application | $110
+9. | Filing an application for both a final order under Part 5 and a final order under Part 5A Division 2 or Division 3 of the Act (other than for an order for the maintenance of a party to a de facto relationship) | $530
+10. | For issuing a subpoena | $55
+11. | For listing a conciliation conference | $370
+12. | Filing an application for leave to appeal under section 211 from an interlocutory order of a Magistrates Court | $805
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 authorised officer3(1)
 business day18
 commencement day22(1)
