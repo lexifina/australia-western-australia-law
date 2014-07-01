@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 March 2014 of the Working with Children (Criminal Record Checking) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Working with Children (Criminal Record Checking) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Working with Children (Criminal Record Checking) Regulations 2005 | 21 Dec 2005 p. 6189-214 | 1 Jan 2006 (see r. 2 and Gazette 30 Dec 2005 p. 6875)
@@ -18,6 +18,7 @@ Working with Children (Criminal Record Checking) Amendment Regulations (No. 2) 2
 Working with Children (Criminal Record Checking) Amendment Regulations (No. 2) 2013 | 28 Jun 2013 p. 2747-8 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Working with Children (Criminal Record Checking) Amendment Regulations (No. 3) 2013 | 31 Dec 2013 p. 6540-1 | r. 1 and 2: 31 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
 Reprint 3: The Working with Children (Criminal Record Checking) Regulations 2005 as at 14 Mar 2014 (includes amendments listed above)
+Working with Children (Criminal Record Checking) Amendment Regulations (No. 2) 2014 | 27 Jun 2014 p. 2312 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Formerly referred to the Electricity Corporation Act 1994, the short title of which was changed to the Electricity Transmission and Distribution Systems (Access) Act 1994 by the Electricity Corporations Act 2005 s. 139. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Water Corporation Act 1995, the short title of which was changed to the Water Corporations Act 1995 by the Water Services Legislation Amendment and Repeal Act 2012 s. 112. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Community Services Act 1972, Community Services (Child Care) Regulations 1988 and Community Services (Outside School Hours Care) Regulations 2002 were repealed by the Children and Community Services Act 2004 s. 250.
