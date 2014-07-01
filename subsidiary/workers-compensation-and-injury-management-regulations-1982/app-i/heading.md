@@ -126,8 +126,8 @@ Address of injured worker’s usual workplace or base:
 Postcode:
 Major activity of workplace: (e.g. sheep farming, plumbing)
 Date employer received the completed claim form from the injured worker:
-Date employer received first medical certificate from the injured worker:
-Date employer sent the claim form and medical certificate/s to insurer:
+Date employer received first certificate of capacity from the injured worker:
+Date employer sent the claim form and certificate/s of capacity to insurer:
 Worker please complete
 Surname:
 Other names:
@@ -248,7 +248,7 @@ Print your name:
 Witness signature:
 Witness print name:
 IMPORTANT: FAILURE TO PROVIDE YOUR SIGNATURE ON EITHER THE DECLARATION OR THE CONSENT AUTHORITIES MAY DELAY A DECISION BY THE INSURER ON YOUR CLAIM.
-[Form 2B inserted in Gazette 10 Sep 2010 p. 4352-7; amended in Gazette 18 Nov 2011 p. 4824.]
+[Form 2B inserted in Gazette 10 Sep 2010 p. 4352-7; amended in Gazette 18 Nov 2011 p. 4824; 25 Mar 2014 p. 822.]
 Form 2C
 [regs 4(1), 6AA]
 Workers’ Compensation and Injury Management Act 1981
@@ -416,57 +416,66 @@ Nature:
 Body Locn:
 [Form 2D inserted in Gazette 15 Oct 1999 p. 4901-2; amended in Gazette 17 Nov 2000 p. 6320; 30 Jun 2003 p. 2637; 21 Jan 2005 p. 276; 14 Dec 2012 p. 6210.]
 Form 3
-[r. 6A, 7(1)]
+[r. 6A and 7(1)]
 Workers’ Compensation and Injury Management Act 1981
 (Sections 57A(1)(b), 57B(1)(b) and 61(1))
-FIRST MEDICAL CERTIFICATE
-1. Worker’s Details
-First name(s):......................................................... Surname:
-Address:
-Telephone:................................... Date of birth:......./......../........ Occupation:
-r I have provided a WorkCover WA Injury Management brochure to the worker.
-2. Employer Details
-Name & address of worker’s employer:
-3. Consent Authority (to be signed at the option of the worker)
-I authorise any doctor who treats me (whether named in this certificate or not) to discuss my medical condition, in relation to my claim for workers’ compensation and return to work options, with my employer and with their insurer.
-Worker’s Signature.......................................... Date.............................
-IMPORTANT: FAILURE TO PROVIDE YOUR SIGNATURE ON THE AUTHORITY ABOVE MAY DELAY A DECISION BY YOUR EMPLOYER ON YOUR CLAIM.
-AFFECTED AREA
-4. Details from Worker Date of injury by accident or approximate date of onset of condition: Workplace location where incident occurred: Worker’s description of the injury: Worker’s description of how it occurred: 5. Medical Assessment Clinical findings / diagnosis (include possible complications, effect of prior injury or medical condition): ..................................................................................................... ..................................................................................................... ..................................................................................................... ..................................................................................................... In my opinion the above diagnosis does r / does not r correlate with the injury described to me by the worker.
-INJURY MANAGEMENT
-6. Fitness for Work It is my opinion that as from the date of this certificate the worker is:
-FIT
-r Fit to return to pre-injury duties, no further treatment required | r First and Final certificate [See reg. 7 and s. 61(1) of the Act]
-r Fit to return to pre-injury duties, but requires further treatment
-r Fit for restricted return to work from.............................................. to
-r restricted hours (please specify):
-r restricted days (please specify):
-r restricted duties.
-r Work restrictions:
-r No lifting anything heavier than.......... kg. r Avoid repetitive bending / lifting. r Avoid repetitive use of body part. r Avoid prolonged standing / walking / sitting. r Keep injured area clean and dry. | Other restrictions:
-UNFIT
-r Totally unfit for work for.................... days from..................... to....................... (inclusive).
-7. Medical Management
-rMedication:
-rApproved allied health treatments (specify type and include number of sessions recommended)
-rImaging
-rReferred to hospital/specialist (name)
-Other treatment:
-Next appointment (unless “First & Final Certificate”) Date........................ Time
-If the worker is reviewed within 14 days, the worker cannot be required, under section 64 or 65 of the Act, to submit to a medical examination by a medical practitioner provided by the employer, on a day chosen by the employer that is within one month of the date of this certificate.
-8. Medical Practitioner / Employer Contact
-rI have made contact with the employer and discussed alternative work options.
-rThe worker will be off work for more than 3 working days and/or is unable to return to normal duties.
-Employer please fax your contact details as I will contact you to discuss return to work options.
-rThe worker is able to return to normal duties. Contact with employer not necessary at this stage.
-9. Medical Practitioner’s Details
-Name....................................................... Registration No.
+FIRST CERTIFICATE OF CAPACITY
+1. WORKER’S DETAILS
+First name |  | Last name
+Date of birth | / / | Email
+Phone |  | Mobile
 Address
-Telephone................................................. Signature
-Fax.......................................................... Time & Date of examination
-For workers’ compensation information or assistance contact
-WorkCover WA’s Infoline: 1300 794 744
-[Form 3 inserted in Gazette 13 Apr 1999 p. 1539-40; amended in Gazette 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4919-20; 18 Nov 2011 p. 4824.]
+2. EMPLOYMENT DETAILS
+Worker’s job title |  | Employer’s name
+Employer’s address
+3. CONSENT AUTHORITY
+I consent to any medical practitioner who treats me (whether named on this certificate or not) to discuss my medical condition with my employer, insurer and other medical or allied health professionals for the purpose of my claim for workers’ compensation and return to work options.
+Worker’s signature |  | Print name
+ | Date | / /
+4. WORKER’S DESCRIPTION OF INJURY
+Date of injury | / /
+What happened?
+Worker’s symptoms
+5. MEDICAL ASSESSMENT
+Date of this assessment | / /
+Clinical findings
+Diagnosis
+The injury is consistent with worker’s description
+of how injury occurred |  | yes |  | no |  | uncertain
+The injury is: |  | a new condition |  | a recurrence of a pre-existing condition
+6. WORK CAPACITY
+Worker’s usual duties
+Having considered the health benefits of work, I find this worker to have:
+ |  | full capacity for work from | / / |  |  | but requires further treatment
+ |  | some capacity for work from | / / | to | / / | performing
+ |  | pre-injury duties |  | modified or alternative duties |  | workplace modifications
+ |  | pre-injury hours |  | modified hours of |  | hrs/day |  | days/wk
+ |  | no capacity for any work from | / / | to | / / | (outline clinical reasons below)
+Worker has capacity to: (Please outline the worker’s physical and/or psychosocial capacity — refer to explanatory notes for examples. Where there is no capacity for work, please provide clinical reasoning.)
+ |  | lift up to |  | kg
+ |  | sit up to |  | mins
+ |  | stand up to |  | mins
+ |  | walk up to |  | m
+ |  | work below shoulder height
+7. INJURY MANAGEMENT PLAN
+ | Activities/interventions | Purpose/goal (likely change in symptoms, function, activity and work participation)
+ | I would like: |  | more information about available duties
+ |  |  | a RTW program to be established
+ |  |  | to be involved in developing the RTW program
+Examples of injury management activities/interventions include: •further assessment — diagnostic imaging, medical specialist consults, worksite assessment; •intervention — physiotherapy, clinical psychology, exercise physiology, prescribed medications, workplace mediation; •return to work planning — identify suitable duties, establish return to work program.
+8. NEXT REVIEW DATE
+ |  | Worker does not need to be reviewed again (FIRST and FINAL certificate of capacity)
+ |  | I will review worker again on | / / | (If greater than 14 days, please provide
+ |  |  |  | clinical reasoning)
+Comments
+9. MEDICAL PRACTITIONER’S DETAILS
+Name |  | AHPRA no. MED
+Address |  | Email
+ |  | Signature
+Phone
+Fax |  | Date | / /
+(Practice stamp — optional)
+[Form 3 inserted in Gazette 25 Mar 2014 p. 822-4.]
 Form 3A
 [r. 6B]
 Workers’ Compensation and Injury Management Act 1981
@@ -613,32 +622,100 @@ Form 4
 [r. 7(1)]
 Workers’ Compensation and Injury Management Act 1981
 (Section 61(1))
-FINAL MEDICAL CERTIFICATE
- | Claim No. (if known)
-To (name and address of worker’s employer)
-WORKER’S DETAILS
-First name(s):.......................................................... Surname:
-Address:
-Telephone:
-Date and place of occurrence of injury:....../........./.........
-MEDICAL ASSESSMENT
-Having examined the worker, it is my opinion that as from....../........./............
-r the worker has total capacity for work.
-r the worker has partial capacity for work.
-r the worker’s incapacity is no longer a result of the injury.
-It is also my opinion that as from....../........./............ the worker is
-r fit.
-r fit for alternative duties with the following limitations:
-Grounds for the opinion in medical assessment
-MEDICAL PRACTITIONER’S DETAILS
-Name:.......................................................... Registration No.:
-Address:
-Telephone:
-Fax:
-Signature:.................................................... Time & Date of examination:
-For workers’ compensation information or assistance contact
-WorkCover WA’s Infoline: 1300 794 744
-[Form 4 inserted in Gazette 14 Dec 1999 p. 6152; amended in Gazette 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276; 28 Oct 2005 p. 4926.]
+FINAL CERTIFICATE OF CAPACITY
+1. WORKER’S DETAILS
+First name |  | Last name
+Date of birth | / / | Claim no.
+Phone |  | Email
+Address
+2. EMPLOYER’S DETAILS
+Employer’s name |  | Employer’s phone
+Employer’s address
+3. MEDICAL ASSESSMENT
+Date of this assessment | / / | Date of injury | / /
+ |  | The worker’s condition is unlikely to change substantially in the next 12 months.
+4. WORK CAPACITY
+Having considered the health benefits of work, I find this worker to have:
+ |  | full capacity for work from | / / |  |  | but requires further treatment (specifics below)
+ |  | capacity for work performing |  | hours per day and |  | days per week from | / /
+ |  | as outlined below: (Please outline the worker’s physical and/or psychosocial capacity for work, functional limits, ongoing need for workplace modifications, and/or further treatment needs)
+ |  | lift up to |  | kg
+ |  | sit up to |  | mins
+ |  | stand up to |  | mins
+ |  | walk up to |  | m
+ |  | work below shoulder height
+ |  | The worker’s incapacity is no longer a result of the injury.
+5. REASON FOR CAPACITY/INCAPACITY
+Please outline your clinical reason for the worker’s capacity/incapacity:
+6. MEDICAL PRACTITIONER’S DETAILS
+Name |  | AHPRA no. MED
+Address |  | Email
+ |  | Signature
+Phone
+Fax |  | Date | / /
+(Practice stamp — optional)
+[Form 4 inserted in Gazette 25 Mar 2014 p. 824-5.]
+Form 4A
+[r. 7A]
+Workers’ Compensation and Injury Management Act 1981
+(Section 61(1))
+PROGRESS CERTIFICATE OF CAPACITY
+1. WORKER’S DETAILS
+First name |  | Last name
+Date of birth | / / | Claim no.
+Phone |  | Email
+Address
+2. EMPLOYER’S DETAILS
+Employer’s name |  | Employer’s phone
+Employer’s address
+3. MEDICAL ASSESSMENT
+Date of this assessment | / / | Date of injury | / /
+Diagnosis
+4. PROGRESS REPORT
+ | Activities/interventions | Actual outcome (change in symptoms, function, activity and work participation) | Still required?*
+ |  |  |  |  | Yes |  | No
+ |  |  |  |  | Yes |  | No
+ |  |  |  |  | Yes |  | No
+ |  |  |  |  | Yes |  | No
+ |  |  |  |  | Yes |  | No
+ |  |  |  |  | Yes |  | No
+ | * (If management activities/interventions are still required, please also list them in Section 6 “Injury management plan”.)
+ |  | Other factors appear to be impacting recovery and return to work.
+Comment
+5. WORK CAPACITY
+Worker’s usual duties
+Having considered the health benefits of work, I find this worker to have:
+ |  | full capacity for work from | / / |  |  | but requires further treatment
+ |  | some capacity for work from | / / | to | / / | performing
+ |  | pre-injury duties |  | modified or alternative duties |  | workplace modifications
+ |  | pre-injury hours |  | modified hours of |  | hrs/day |  | days/wk
+ |  | no capacity for any work from | / / | to | / / | (outline clinical reasons below)
+Worker has capacity to: (Please outline the worker’s physical and/or psychosocial capacity — refer to explanatory notes for examples. Where there is no capacity for work, please provide clinical reasoning.)
+ |  | lift up to |  | kg
+ |  | sit up to |  | mins
+ |  | stand up to |  | mins
+ |  | walk up to |  | m
+ |  | work below shoulder height
+6. INJURY MANAGEMENT PLAN
+ | Activities/interventions | Purpose/goal (likely change in symptoms, function, activity and work participation)
+ |  | I support the RTW program established by the employer/insurer/WRP dated | / /
+ |  | I would like more information about available duties
+ |  | I would like to be involved in developing the RTW program
+ |  | Please engage a workplace rehabilitation provider (If you have made a referral, provide name
+ |  | and contact details below)
+Examples of injury management activities/interventions include: •further assessment — diagnostic imaging, medical specialist consults, worksite assessment; •intervention — physiotherapy, clinical psychology, exercise physiology, prescribed medications, workplace mediation; •return to work planning — identify suitable duties, establish return to work program.
+7. NEXT REVIEW DATE
+ |  | I will review worker again on | / / | (If greater than 28 days, please provide
+ |  |  |  | clinical reasoning)
+Comments
+8. MEDICAL PRACTITIONER’S DETAILS
+Name |  | AHPRA no. MED
+Address |  | Email
+ |  | Signature
+Phone
+Fax |  | Date | / /
+(Practice stamp — optional)
+[Form 4A inserted in Gazette 25 Mar 2014 p. 826-8.]
 Form 5
 [r. 7(2)]
 Workers’ Compensation and Injury Management Act 1981
@@ -649,7 +726,7 @@ TO:
 TAKE NOTICE that your employer
 (name of employer)
 intends, after 21 clear days from the date of service upon you of this notice, to *discontinue the weekly payments of compensation/reduce the weekly payments on the following basis —
-(1)this notice is based upon the medical certificates or report(s) of
+(1)this notice is based upon the certificates of capacity or report(s) of
 ......................................... dated......................................... 20
 (names of medical practitioners and dates of reports)
 sent with this notice, in which it is said that (state concisely the ground relied upon by the employer);
@@ -662,7 +739,7 @@ Dated theday of20 .
 Signed on behalf of the employer.
 _______________________________________________________________________
 * Delete whichever is inapplicable.
-[Form 5 corrigendum in Gazette 23 Apr 1982 p. 1384; amended in Gazette 8 Mar 1991 p. 1076; 29 Oct 1993 p. 5930; 18 Feb 1994 p. 663; 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276 and 277; 28 Oct 2005 p. 4926.]
+[Form 5 corrigendum in Gazette 23 Apr 1982 p. 1384; amended in Gazette 8 Mar 1991 p. 1076; 29 Oct 1993 p. 5930; 18 Feb 1994 p. 663; 17 Nov 2000 p. 6320; 21 Jan 2005 p. 276 and 277; 28 Oct 2005 p. 4926; 25 Mar 2014 p. 828.]
 Form 6
 [r. 10(1)]
 [Heading inserted in Gazette 14 Dec 2012 p. 6210.]
