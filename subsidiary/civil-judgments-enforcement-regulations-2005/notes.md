@@ -20,6 +20,7 @@ Civil Judgments Enforcement Amendment Regulations 2011 | 8 Mar 2011 p. 796-8 | r
 Civil Judgments Enforcement Amendment Regulations (No. 2) 2011 | 20 Dec 2011 p. 5393-5 | r. 1 and 2: 20 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2011 (see r. 2(b))
 Civil Judgments Enforcement Amendment Regulations 2012 | 30 Nov 2012 p. 5797-9 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2012 (see r. 2(b))
 Civil Judgments Enforcement Amendment Regulations 2013 | 15 Nov 2013 p. 5253-5 | r. 1 and 2: 15 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Nov 2013 (see r. 2(b))
+Civil Judgments Enforcement Amendment Regulations 2014 | 27 Jun 2014 p. 2334-6 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i))
 Repealed by the Legal Profession Act 2008.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 came into operation on 1 May 2005.
 Defined terms
