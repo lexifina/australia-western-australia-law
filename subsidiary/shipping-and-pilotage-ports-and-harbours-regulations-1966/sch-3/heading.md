@@ -5,21 +5,21 @@
 [Heading inserted in Gazette 24 Jun 2005 p. 2775.]
 1.The charges for pilotage of vessels between Nicholls Point and berth at the Port of Wyndham are —
 Gross registered tonnage of vessel | Charges for both inward and outward pilotage
-Up to 1 499 | $7 542.63
-1 500 — 3 000 | $7 718.74
-3 001 — 5 000 | $8 567.94
-5 001 — 10 000 | $9 474.06
-10 001 — 20 000 | $11 368.42
-20 001 — 30 000 | $12 710.73
-Exceeding 30 000 | $13 916.04
+Up to 1 499 | $7 731.20
+1 500 — 3 000 | $7 911.71
+3 001 — 5 000 | $8 782.14
+5 001 — 10 000 | $9 710.91
+10 001 — 20 000 | $11 652.63
+20 001 — 30 000 | $13 028.50
+Exceeding 30 000 | $14 263.94
 2.The charges for pilotage of vessels within the Port of Wyndham are —
-(a)for pilotage of vessel being removed from a place in the port to another place in the port not being a removal to or to near the pilot boarding ground | $736.46
+(a)for pilotage of vessel being removed from a place in the port to another place in the port not being a removal to or to near the pilot boarding ground | $754.87
 (b)for pilotage of vessel from a berth within the port to a place within that port at or near the pilot boarding ground or vice versa | 50% of the applicable inward and outward pilotage charge
 (c)where a pilot boat and crew are used in connection with a removal referred to in paragraph (a) a further charge, being launch hire —
-(i)during normal hours | $420.37/hour
-(ii)during overtime hours | $602.42/hour
+(i)during normal hours | $430.88/hour
+(ii)during overtime hours | $617.48/hour
 (d)for pilotage at the Port of Wyndham where a radio watch is required out of hours | an amount equal to the cost of the pilotage service
-[Division 1 inserted in Gazette 24 Jun 2005 p. 2775-6; amended in Gazette 23 Jun 2006 p. 2210; 12 Jun 2007 p. 2724-5; 1 Jul 2008 p. 3158-9; 23 Jun 2009 p. 2484-5; 30 Jun 2010 p. 3170; 21 Jun 2011 p. 2231; 15 Jun 2012 p. 2522; 28 Jun 2013 p. 2778.]
+[Division 1 inserted in Gazette 24 Jun 2005 p. 2775-6; amended in Gazette 23 Jun 2006 p. 2210; 12 Jun 2007 p. 2724-5; 1 Jul 2008 p. 3158-9; 23 Jun 2009 p. 2484-5; 30 Jun 2010 p. 3170; 21 Jun 2011 p. 2231; 15 Jun 2012 p. 2522; 28 Jun 2013 p. 2778; 27 Jun 2014 p. 2354.]
 ## Division 2 — Conservancy dues
 [r. 18]
 [Heading inserted in Gazette 24 Jun 2005 p. 2776.]
