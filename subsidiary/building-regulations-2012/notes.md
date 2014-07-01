@@ -10,6 +10,8 @@ Reprint 1: The Building Regulations 2012 as at 24 May 2013 (includes amendments 
 Building Amendment Regulations (No. 2) 2013 | 21 Jun 2013 p. 2445-6 | r. 1 and 2: 21 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jun 2013 (see r. 2(b))
 Building Amendment Regulations 2013 | 20 Aug 2013 p. 3822 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Building Amendment Regulations 2014 | 24 Apr 2014 p. 1135-41 | r. 1 and 2: 24 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Apr 2014 (see r. 2(b))
+Building Amendment Regulations (No. 2) 2014 | 17 Jun 2014 p. 1957-8 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
+Building Amendment Regulations (No. 3) 2014 | 27 Jun 2014 p. 2308-9 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i))
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
