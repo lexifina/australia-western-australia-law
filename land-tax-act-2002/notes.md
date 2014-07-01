@@ -15,6 +15,7 @@ Revenue Laws Amendment Act 2009 Pt. 2 | 3 of 2009 | 14 May 2009 | 1 Jul 2008 (se
 Revenue Laws Amendment (Taxation) Act 2009 Pt. 3 | 19 of 2009 | 16 Sep 2009 | 1 Jul 2009 (see s. 2(b)(ii))
 Reprint 2: The Land Tax Act 2002 as at 5 Feb 2010 (includes amendments listed above)
 Land Tax Amendment Act 2013 | 15 of 2013 | 21 Oct 2013 | Act other than s. 1 and 2: 1 Jul 2013 (see s. 2(b)); s. 1 and 2: 21 Oct 2013 (see s. 2(a))
+Revenue Laws Amendment Act 2014 Pt. 3 | 15 of 2014 | 2 Jul 2014 | 1 Jul 2014 (see s. 2(c)(ii))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 (W.A.) s. 7, this Act is to be read and construed with certain modifications. The Commonwealth Places (Mirror Taxes Administration) Regulations 2007 (W.A.) r. 1-4 and Pt. 3 Div. 1 prescribe particular modifications and read as follows:
 1.Citation
 These regulations are the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
