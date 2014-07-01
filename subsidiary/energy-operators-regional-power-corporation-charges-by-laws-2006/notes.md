@@ -12,6 +12,7 @@ Energy Operators (Regional Power Corporation) (Charges) Amendment By laws 2012 |
 Energy Operators (Regional Power Corporation) (Charges) Amendment By laws (No. 2) 2012 | 21 Sep 2012 p. 4423 | bl. 1 and 2: 21 Sep 2012 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Oct 2012 (see bl. 2(b))
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2013 | 14 Jun 2013 p. 2223-7 | bl. 1 and 2: 14 Jun 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2013 (see bl. 2(b))
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws (No. 2) 2013 | 30 Aug 2013 p. 4093-6 | bl. 1 and 2: 30 Aug 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Sep 2013 (see bl. 2(b))
+Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2014 | 27 Jun 2014 p. 2319-26 | bl. 1 and 2: 27 Jun 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2014 (see bl. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)

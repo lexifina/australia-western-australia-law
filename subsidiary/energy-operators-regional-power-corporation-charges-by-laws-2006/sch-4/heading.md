@@ -13,4 +13,7 @@
 [9.Deleted]
 10. | Overdue account notices ....................................... | $4.75
 11. | Rejected account payment (where payment made through Australia Post) ......................................... | $24.20
-[Schedule 4 inserted in Gazette 26 Mar 2010 p. 1187-8; amended in Gazette 24 Jun 2011 p. 2498; 29 Jun 2012 p. 2911; 30 Aug 2013 p. 4096.]
+12. | A transaction fee where a consumer makes a payment to the corporation by means of one of the following —
+ | (a)a Visa or a MasterCard credit card or debit card ............................................... | 0.7% of the amount of the charge
+ | (b)an American Express credit card ........... | 0.7% of the amount of the charge
+[Schedule 4 inserted in Gazette 26 Mar 2010 p. 1187-8; amended in Gazette 24 Jun 2011 p. 2498; 29 Jun 2012 p. 2911; 30 Aug 2013 p. 4096; 27 Jun 2014 p. 2326.]
