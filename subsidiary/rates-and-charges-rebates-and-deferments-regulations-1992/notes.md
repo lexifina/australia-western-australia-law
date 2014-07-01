@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 May 2014 of the Rates and Charges (Rebates and Deferments) Regulations 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Rates and Charges (Rebates and Deferments) Regulations 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Rates and Charges (Rebates and Deferments) Regulations 1992 | 26 Jun 1992 p. 2809 | 26 Jun 1992
@@ -31,3 +31,4 @@ Rates and Charges (Rebates and Deferments) Amendment Regulations 2012 | 29 Jun 2
 Rates and Charges (Rebates and Deferments) Amendment Regulations 2013 | 18 Jun 2013 p. 2309-10 | r. 1 and 2: 18 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Jun 2013 (see r. 2(b))
 Rates and Charges (Rebates and Deferments) Amendment Regulations (No. 2) 2013 | 14 Nov 2013 p. 5061-2 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Reprint 4: The Rates and Charges (Rebates and Deferments) Regulations 1992 as at 2 May 2014 (includes amendments listed above)
+Rates and Charges (Rebates and Deferments) Amendment Regulations 2014 | 30 Jun 2014 p. 2427 | r. 1 and 2: 30 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
