@@ -24,7 +24,7 @@
 7. | Regulation 105(3)(b): parking a vehicle (other than an over-length vehicle) in a no-parking area | $40.00
 8. | Regulation 105(3)(b): parking an over-length vehicle in a no-parking area | $80.00
 8A. | Regulation 115(2): giving false name or address to, or failing to comply with direction of, an authorised officer | $200.00
- | Dampier Port Authority
+ | Port of Ashburton and Port of Dampier
 9. | Schedule 1 clause 38(2): vessel entering boating safety exclusion zone | $200.00
 10. | Schedule 1 clause 39(2): failing to produce on demand certificate of tonnage and certificate of registry etc | $200.00
 11. | Schedule 1 clause 41(1): operating propeller of a vessel moored to a wharf | $200.00
@@ -38,11 +38,11 @@
 19. | Schedule 1 clause 62(2): unloading goods on to wharf, or placing goods on wharf, otherwise than where directed by harbour master | $200.00
 20. | Schedule 1 clause 62(3): unloading goods on to wharf, or placing goods on wharf, less than 1 m from mooring point, hose connection, etc. | $200.00
 21. | Schedule 1 clause 63(2): failing to report incident resulting in damage to port facility, vessel, navigational aid, etc. | $200.00
- | Esperance Port Authority
+ | Port of Esperance
 22. | Schedule 1 clause 64B: unauthorised berthing of fishing vessel at main wharf berth 1, 2 or 3 | $200.00
 23. | Schedule 1 clause 64C: unauthorised mooring, anchoring, landing or beaching of vessel in port | $200.00
 24. | Schedule 1 clause 64D: unauthorised placing of fishing gear in waters of port | $200.00
- | Fremantle Port Authority
+ | Port of Fremantle
 25. | Schedule 1 clause 100: unauthorised swimming in waters of port outside designated area | $200.00
 26. | Schedule 1 clause 101(1): unauthorised use of motor boats, or water skiing, in Inner Harbour | $200.00
-[Schedule 3 amended in Gazette 31 Jan 2003 p. 298-9; 10 Dec 2004 p. 5916; 28 Jun 2013 p. 2766.]
+[Schedule 3 amended in Gazette 31 Jan 2003 p. 298-9; 10 Dec 2004 p. 5916; 28 Jun 2013 p. 2766; 20 Jun 2014 p. 2035.]

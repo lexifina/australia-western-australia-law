@@ -46,13 +46,14 @@ Port Authorities Amendment (Esperance Pilotage Fees) Regulations 2013 | 29 Jan 2
 Port Authorities Amendment Regulations (No. 2) 2013 | 28 Jun 2013 p. 2765-6 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jun 2013 (see r. 2(b))
 Port Authorities Amendment Regulations (No. 4) 2013 | 12 Jul 2013 p. 3224-5 | r. 1 and 2: 12 Jul 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jul 2013 (see r. 2(b))
 Port Authorities Amendment Regulations 2013 | 13 Aug 2013 p. 3737-8 | r. 1 and 2: 13 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Aug 2013 (see r. 2(b))
+Port Authorities Amendment Regulations (No. 2) 2014 | 20 Jun 2014 p. 2029-35 | r. 1 and 2: 20 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i))
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Tobacco Products Control Act 2006.
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Dangerous Goods Safety Act 2004.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 abandoned property88(1)
 AMSASch. 1 cl. 73
 application categorySch. 1 cl. 79(1)
@@ -60,11 +61,12 @@ approved49(5)
 Australian fishing vessel5(2), Sch. 1 cl. 103(3)
 authorised member of staff of the port authority3
 authorised officer115(5)
+boating safety exclusion zoneSch. 1 cl. 38(1)
 cargo vessel22
 channelSch. 1 cl. 106(4)
 collector of port charges3
-commercial vesselSch. 1 cl. 11(3) and 36
-dangerous goodsSch. 1 cl. 8(4) and 70(4)
+commercial vesselSch. 1 cl. 11(3), Sch. 1 cl. 36
+dangerous goodsSch. 1 cl. 8(4), Sch. 1 cl. 70(4)
 departmentSch. 1 cl. 66
 designated by notices or signs69
 details of cargo60(2)
@@ -75,10 +77,10 @@ excavation licenceSch. 1 cl. 94
 excavation work97(3), Sch. 1 cl. 94
 exempt master22
 exempt vessel22
-explosivesSch. 1 cl. 8(4) and 70(4)
-first vessel40(1)(a)
-fishing vesselSch. 1 cl. 2 and 36
-Geraldton HarbourSch. 1, cl. 106(4)
+explosivesSch. 1 cl. 8(4), Sch. 1 cl. 70(4)
+first vessel40(1)
+fishing vesselSch. 1 cl. 2, Sch. 1 cl. 36
+Geraldton HarbourSch. 1 cl. 106(4)
 in charge of a vesselSch. 1 cl. 73
 Inner HarbourSch. 1 cl. 66
 International CodeSch. 1 cl. 36
@@ -86,16 +88,16 @@ Iron Ore (Hamersley Range) AgreementSch. 1 cl. 36
 launching place93(1)
 length overall3
 Marine Act3
-mooringSch. 1 cl. 13 and 49
-mooring buoySch. 1 cl. 19(1) and 55(1)
-mooring ownerSch. 1 cl. 13 and 49
-motor boat98(2), Sch. 1 cl. 101(2) and 105(2)
+mooringSch. 1 cl. 13, Sch. 1 cl. 49
+mooring buoySch. 1 cl. 19(1), Sch. 1 cl. 55(1)
+mooring ownerSch. 1 cl. 13, Sch. 1 cl. 49
+motor boat98(2), Sch. 1 cl. 101(2), Sch. 1 cl. 105(2)
 motor vehicle3
 Navigation Act3
 no-parking area100
 normal working hours22
 no-stopping area100
-obstructionSch. 1 cl. 27(1) and 92(1)
+obstructionSch. 1 cl. 27(1), Sch. 1 cl. 92(1)
 offence79(6)
 offender115(1)
 Outer HarbourSch. 1 cl. 66
@@ -115,11 +117,10 @@ prohibited anchorage areaSch. 1 cl. 48(4)
 property of a port authority3
 property of the port authority3
 restricted areaSch. 1 cl. 110(2)
-service provider’s licenceSch. 1 cl. 2, 23, 31, 59, 64AA, 94,102A and 107A
-small vesselSch. 1 cl. 68(4) and cl. 106(1)
+service provider’s licenceSch. 1 cl. 2, Sch. 1 cl. 23, Sch. 1 cl. 31, Sch. 1 cl. 59, Sch. 1 cl. 64AA, Sch. 1 cl. 94, Sch. 1 cl. 102A, Sch. 1 cl. 107A
+small vesselSch. 1 cl. 68(4), Sch. 1 cl. 106(1)
 traffic sign100
 unclaimed goods66(1)
 vehicle3
-water ski98(2), Sch. 1 cl. 101(2) and 105(2)
+water ski98(2), Sch. 1 cl. 101(2), Sch. 1 cl. 105(2)
 water ski areaSch. 1 cl. 106(4)
-Withnell Bay Loading TerminalSch. 1 cl. 36
