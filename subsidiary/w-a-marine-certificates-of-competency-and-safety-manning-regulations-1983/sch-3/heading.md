@@ -16,8 +16,8 @@ Fees for matters under regulations
 9. | r. 17(1) | Sitting first examination for certificate of competency | $514.00
 10. | r. 17(1) | Sitting second or subsequent examination (if required) for certificate of competency | $257.00 per examination
 11. | r. 17(1) | In addition to fee set out in item 9 or 10, if examination is conducted (at examinee’s request) at time or place not normally scheduled for conduct of examinations, for travel by examiner to and from place where examination is conducted | reasonable costs and expenses incurred
-12. | r. 18(3) | Record of service booklet | $28.25
+12. | r. 18(3) | Record of service booklet | $28.60
 13. | r. 27A(3) | Issue of certificate of proficiency | $12.90
 14. | r. 28(1A) | Application for safety manning direction | $248.60
 15. | r. 29(1) | Application for dispensation | $257.00
-[Schedule 3 inserted in Gazette 30 Jun 2010 p. 3163-5; amended in Gazette 11 Feb 2011 p. 490; 21 Jun 2011 p. 2228; 15 Jun 2012 p. 2528-9; 28 Jun 2013 p. 2770-1.]
+[Schedule 3 inserted in Gazette 30 Jun 2010 p. 3163-5; amended in Gazette 11 Feb 2011 p. 490; 21 Jun 2011 p. 2228; 15 Jun 2012 p. 2528-9; 28 Jun 2013 p. 2770-1; 30 May 2014 p. 1689.]
