@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 January 2014 of the Water Agencies (Powers) Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Water Agencies (Powers) Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Water Authority Act 1984 | 3 of 1984 | 18 May 1984 | 1 Jul 1985 (see s. 2 and Gazette 7 Jun 1985 p. 1931)
@@ -39,16 +39,12 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Reprint 4: The Water Agencies (Powers) Act 1984 as at 7 Jan 2011 (includes amendments listed above)
 Building Act 2011 s. 175 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
-Water Services Legislation Amendment and Repeal Act 2012 Pt. 6(other than s. 77(1), 82(1) and 83-85) | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
-Reprint 5: The Water Agencies (Powers) Act 1984 as at 17 Jan 2014 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Water Services Legislation Amendment and Repeal Act 2012 s. 77(1), 82(1) and 83-85 | 25 of 2012 | 3 Sep 2012 | 1 Jul 2014 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
-Formerly referred to the Water Corporation Act 1995, the short title of which was changed to the Water Corporations Act 1995 by the Water Services Legislation Amendment and Repeal Act 2012 s. 112. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Water Services Legislation Amendment and Repeal Act 2012 Pt. 6 | 25 of 2012 | 3 Sep 2012 | Pt. 6(other than s. 77(1), 82(1) and 83-85): 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028): s. 77(1), 82(1) and 83-85: 1 Jul 2014 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+Reprint 5: The Water Agencies (Powers) Act 1984 as at 17 Jan 2014 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012 s. 77(1), 82(1) and 83-85 )
+Footnote no longer appliciable.
 Repealed by the Water Resources Legislation Amendment Act 2007 s. 189.
 Under the Public Sector Management Act 1994 s. 112(1) a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Repealed by the Water Services Legislation Amendment and Repeal Act 2012.
+Footnote no longer appliciable.
 The Acts Amendment (Water Authority Rates and Charges) Act 1987 s. 4 reads as follows:
 4.Application of Part
 The amendments effected by this part are of no effect in relation to the Land Drainage Act 1925 or the doing of anything under or for the purposes of that Act and the principal Act applies in relation thereto as if this Part had not been enacted.
@@ -81,41 +77,15 @@ The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain tra
 Now known as the Water Agencies (Powers) Act 1984; short title changed (see note under s. 1).
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 14 contains transitional provisions relating to the replacement of the Water Authority and Waterways Commission with the Water Corporation, Water and Rivers Commission and the Coordinator of Water Services.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 77(1), 82(1) and 83-85 had not come into operation. They read as follows:
-77.Section 3 amended
-(1) In section 3(1) delete the definitions of:
-charge
-Corporation
-gross rental value
-local authority
-officer
-unimproved value
-valuation
-waste
-82.Section 34 amended
-(1) In section 34(1) delete “or the Corporation of their respective functions” and insert:
-of functions
-83.Part III heading replaced
-Delete the heading to Part III and insert:
-Part III — Liability, indemnity etc.
-84.Part III Divisions 1A and 2 deleted
-Delete Part III Divisions 1A and 2.
-85.Part III Division 6 heading deleted
-Delete the heading to Part III Division 6.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-agreed liability42(4)
 alleged offence103(1)
 alleged offender103(1)
 authorised person103(1)
 CEO3(1)
-charge3(1)
-concession period41GA(5)
 conduit3(1)
 confidential information112(4)
-Corporation3(1)
-customer42(1)
 Department3(1)
 department3(1), 104(9), 105(8)
 designated person103(1)
@@ -131,21 +101,15 @@ former Minister3(1)
 functions3(1)
 general works86
 government department3(1)
-gross rental value3(1)
-habitable lot41GA(5)
 infringement notice103(1)
 land3(1), 74
 Land Administration Minister81(14)
-local authority3(1)
-lot41GA(5)
 major works86
 Metropolitan Water, Sewerage, and Drainage Area3(1)
 Ministerial Body3(1)
 ministerial officer15(6)
 modified penalty103(1)
-notional value41E(3)
 occupier3(1)
-officer3(1)
 organisation104(9), 105(8)
 owner3(1)
 pipe3(1)
@@ -162,17 +126,10 @@ sewage3(1)
 sewer3(1)
 specified36(5)
 statutory authority3(1)
-statutory charge42(4)
-statutory charge provisions42(4)
 street3(1)
-subdivision41GA(5)
 surplus water3(1)
-unimproved value3(1)
-valuation3(1)
-waste3(1)
 wastewater3(1)
-water charge41GA(5)
-Water Corporation106(1A)
+water corporation106(1A)
 water resources3(1)
 water resources Act18(2)
 water services3(1)
