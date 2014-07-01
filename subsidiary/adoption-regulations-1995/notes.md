@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation of the Adoption Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Adoption Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Adoption Regulations 1995 | 29 Dec 1994 p. 7171-208 | 1 Jan 1995 (see r. 2 and Gazette 25 Nov 1994 p. 5905)
@@ -14,11 +14,12 @@ Adoption Amendment Regulations 2007 | 28 Dec 2007 p. 6402 | r. 1 and 2: 28 Dec 2
 Reprint 2: The Adoption Regulations 1995 as at 27 Mar 2009 (includes amendments listed above)
 Adoption Amendment Regulations 2012 | 30 Nov 2012 p. 5775-80 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2012 (see r. 2(b) and Gazette 30 Nov 2012 p. 5773)
 Adoption Amendment Regulations (No. 2) 2013 | 28 Jun 2013 p. 2746-7 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
+Adoption Amendment Regulations 2014 | 27 Jun 2014 p. 2309-10 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Repealed by the Adoption Rules 1995.
 Repealed by the Adoption Act 1994.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 accredited body23A
 application36
 authorised function23A
