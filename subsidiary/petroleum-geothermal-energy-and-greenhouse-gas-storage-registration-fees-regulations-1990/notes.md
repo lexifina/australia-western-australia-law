@@ -13,4 +13,5 @@ Reprint 2: The Petroleum and Geothermal Energy Resources (Registration Fees) Reg
 Petroleum and Geothermal Energy Resources (Registration Fees) Amendment Regulations 2011 | 1 Jul 2011 p. 2741-2 | r. 1 and 2: 1 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Petroleum and Geothermal Energy Resources (Registration Fees) Amendment Regulations 2012 | 12 Jun 2012 p. 2457 | r. 1 and 2: 12 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Petroleum and Geothermal Energy Resources (Registration Fees) Amendment Regulations 2014 | 25 Feb 2014 p. 504 | r. 1 and 2: 25 Feb 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2014 (see r. 2(b))
+Petroleum and Geothermal Energy Resources (Registration Fees) Amendment Regulations (No. 2) 2014 | 17 Jun 2014 p. 1987-8 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Now known as the Petroleum and Geothermal Energy Resources (Registration Fees) Regulations 1990; citation changed (see note under r. 1).
