@@ -40,10 +40,7 @@ Reprint 5: The Health (Treatment of Sewage and Disposal of Effluent and Liquid W
 Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations 2011 | 29 Apr 2011 p. 1530-1 | r. 1 and 2: 29 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations (No. 2) 2013 | 21 Jun 2013 p. 2448 | r. 1 and 2: 21 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations 2013 | 14 Nov 2013 p. 5047-8 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations 2014 r. 3 and 4 | 8 Apr 2014 p. 919 | 1 Jul 2014 (see r. 2(b))
+Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations 2014 | 8 Apr 2014 p. 919 | r. 1 and 2: 8 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Repealed by the Environmental Protection (Liquid Waste) Repeal Regulations 2003.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 references in any law to the Health Department shall be read as references to the Department of Health.
@@ -51,14 +48,6 @@ Now known as the Health (Treatment of Sewage and Disposal of Effluent and Liquid
 The Bacteriolytic Treatment of Sewage and Disposal of Effluent and Liquid Waste Amendment Regulations 1989 r. 32 is a transitional provision that is of no further effect.
 The Treatment of Sewage and Disposal of Effluent and Liquid Waste Amendment Regulations (No. 2) 1997 is a transitional and savings provision that is of no further effect.
 If, because of an error made in r. 2, the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations 2004 did not come into operation before 24 Aug 2004, the amendments were made on that day by the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations (No. 4) 2004, but otherwise the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations (No. 4) 2004 do not come into operation.
-On the date as at which this compilation was prepared, the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations 2014 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974.
-4.Schedule 1 amended
-(1) In Schedule 1 in item 1 delete “113.00” and insert:
-118.00
-(2) In Schedule 1 in item 3 delete “113.00” and insert:
-118.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
