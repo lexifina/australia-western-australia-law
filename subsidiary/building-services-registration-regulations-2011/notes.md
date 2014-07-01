@@ -13,6 +13,7 @@ Reprint 1: The Building Services (Registration) Regulations 2011 as at 5 Apr 201
 Building Services (Registration) Amendment Regulations (No. 3) 2013 | 27 Jun 2013 p. 2665-9 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Building Services (Registration) Amendment Regulations (No. 2) 2013 | 14 Nov 2013 p. 5029 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Building Services (Registration) Amendment Regulations (No. 4) 2013 | 31 Dec 2013 p. 6535-9 | r. 1 and 2: 31 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see. r. 2(b))
+Building Services (Registration) Amendment Regulations 2014 | 17 Jun 2014 p. 1959-61 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Repealed by the Local Government (Building Surveyors) Regulations 2008, which were repealed by the Building Services (Registration) Act 2011.
 Repealed by the Building Services (Registration) Act 2011.
 The amendment in the Building Services (Registration) Amendment Regulations (No. 5) 2012 r. 5(5) is not included because the paragraph it purported to amend did not contain subparagraphs.
