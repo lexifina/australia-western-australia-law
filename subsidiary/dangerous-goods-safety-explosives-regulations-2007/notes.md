@@ -14,6 +14,7 @@ Dangerous Goods Safety (Explosives) Amendment Regulations (No. 4) 2012 | 19 Feb 
 Dangerous Goods Safety (Explosives) Amendment Regulations (No. 3) 2013 | 28 Jun 2013 p. 2823-4 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Reprint 1: The Dangerous Goods Safety (Explosives) Regulations 2007 as at 16 Aug 2013 (includes amendments listed above)
 Dangerous Goods Safety (Explosives) Amendment Regulations 2013 | 2 Dec 2013 p. 5567-619 | r. 1 and 2: 2 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
+Dangerous Goods Safety (Explosives) Amendment Regulations (No. 2) 2014 | 17 Jun 2014 p. 1988-9 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 The Medical Practitioners Act 2008 and the Psychologists Act 2005 were repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
 The Explosives and Dangerous Goods Act 1961 was repealed by the Dangerous Goods Safety Act 2004.
 The Dangerous Goods (Transport) Act 1998 and the Dangerous Goods (Transport) (Explosives by Road and Rail) Regulations 1999 were repealed by the Dangerous Goods Safety Act 2004.
