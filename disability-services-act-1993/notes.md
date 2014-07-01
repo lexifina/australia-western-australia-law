@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 August 2013 of the Disability Services Act 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Disability Services Act 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Disability Services Act 1993 | 36 of 1993 | 16 Dec 1993 | 23 Dec 1993 (see s. 2)
@@ -27,7 +27,8 @@ Health and Disability Services Legislation Amendment Act 2010 Pt. 3 | 33 of 2010
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Disability Services Amendment Act 2012 | 40 of 2012 | 22 Nov 2012 | s. 1 and 2: 22 Nov 2012 (see s. 2(a)); Act other than s. 1 and 2: 12 Jun 2013 (see s. 2(b) and Gazette 11 Jun 2013 p. 2161)
 Reprint 4: The Disability Services Act 1993 as at 2 Aug 2013 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Disability Services Amendment Act 2014 | 10 of 2014 | 24 Jun 2014 | s. 1 and 2: 24 Jun 2014 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2014 (see s. 2(b)(i))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
@@ -67,7 +68,7 @@ old Council means the Advisory Council for Disability Services established under
 20.Section 28 replaced and transitional provision
 (2) A public authority that had a disability service plan immediately before commencement of this section is taken to have a disability access and inclusion plan for the purposes of section 28 of the Disability Services Act 1993 as inserted by this section.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed
@@ -97,9 +98,13 @@ Health Department30
 information21(5), 44B(5)
 member of the staff30
 metropolitan region3
+National Disability Insurance Scheme26E
+NDIS Act26E
 parliamentary purposes21(5)
+participant26E
 person’s representative41(1)
 personnel3
+plan, in relation to a participant,26I(1)
 public authority3
 relevant information41(1)
 relevant record41(1)
@@ -107,3 +112,5 @@ respondent30
 service developer3
 service provider3
 supply policies26A
+support26I(1)
+trial26E
