@@ -54,7 +54,7 @@ For variation | 477.00
 Register — variation under section 131 of the Act | 153.00
 Register — removal of record under section 131 of the Act | 153.00
 18.Authority to take or handle fish for genetic or chemical extraction or analysis (reg. 179) | 771.00
-19.Aquatic eco-tourism operator’s licence (reg. 128B) or restricted fishing tour operator’s licence (reg. 128J) | 69.00
+19.Restricted fishing tour operator’s licence (reg. 128J) | 69.00
 For renewal | 74.00
 For transfer | 414.00
 For variation | 414.00
@@ -62,7 +62,7 @@ For variation | 414.00
 For renewal | 74.00
 For transfer | 414.00
 For variation | 414.00
-[Part 2 inserted in Gazette 9 Jun 2009 p. 1913-14; amended in Gazette 12 Feb 2010 p. 586; 6 May 2011 p. 1610-11.]
+[Part 2 inserted in Gazette 9 Jun 2009 p. 1913-14; amended in Gazette 12 Feb 2010 p. 586; 6 May 2011 p. 1610-11; 30 May 2014 p. 1736.]
 ## Part 3 — Fees for the grant or renewal of authorisations
 [reg. 137]
 [Heading inserted in Gazette 9 Jun 2009 p. 1915.]
@@ -137,22 +137,7 @@ Fee | $
 (b)for zone B units, per unit | 15.60
 (c)for zone C units, per unit | 14.06
 (34)Windy Harbour-Augusta Rock Lobster Managed Fishery, per pot | 1.90
-4.Aquatic eco-tourism operator’s licence Types of operation —
-(1)(a)Using — (i)one boat with a surveyed length of more than 7.5 m and an open water passenger capacity of 20 persons or less and an associated power boat with a length of 4.5 m or more but 7.5 m or less, in one zone; or (ii)one or more boats with a surveyed length of 7.5 m or less and a combined open water passenger carrying capacity of 20 persons or less, in one zone | 273.00
-(b)In addition to the fee specified in item 4(1)(a) —
-(i)for each additional 10 passengers or part thereof | 136.00
-(ii)for each additional associated power boat with a surveyed length of 4.5 m or more but 7.5 m or less | 273.00
-(iii)for a licence to operate the boat in more than one zone, for each additional zone | 136.00
-(iv)for each additional boat specified in the licence with a surveyed length of more than 7.5 m and an open water passenger capacity of 20 persons or less | 273.00
-(2)(a)A land based operation authorised to operate in one zone with not more than 20 tourists taking part in the tour | 273.00
-(b)In addition to the fee specified in item 4(2)(a) —
-(i)for each additional capacity of 10 tourists | 136.00
-(ii)for a licence to operate in more than one zone, for each additional zone | 136.00
-(3)(a)A combination of boat and land or boat and aircraft operations with a total passenger carrying capacity of 20 persons or less, authorised to operate in one zone and a maximum of 2 boats with a surveyed length of 4.5 m or more but 7.5 m or less | 273.00
-(b)In addition to the fee specified in item 4(3)(a) —
-(i)for each additional capacity of 10 tourists or part thereof | 136.00
-(ii)for each additional associated power boat with a surveyed length of 4.5 m or more but 7.5 m or less | 273.00
-(iii)for a licence to operate a boat in more than one zone, for each additional zone | 136.00
+[(4)deleted]
 5.Fishing tour operator’s licence (r. 128J(1)) —
 (a)if the nominated maximum number of passengers participating in a fishing tour conducted under the licence is —
 (i)5 passengers or fewer | 1 200.00
@@ -177,4 +162,4 @@ Fee | $
 (d)fishing for all freshwater fish (other than crustaceans) in waters south of 29° south latitude above the tidal influence including all lakes, dams, rivers and their tributaries | 40.00
 (e)fishing by means of a fishing net | 40.00
 9.Recreational (boat) fishing licence (r. 124C) | 30.00
-[Part 3 inserted in Gazette 9 Jun 2009 p. 1915-20; amended in Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5; 27 Aug 2010 p. 4106; 10 Sep 2010 p. 4347; 2 Dec 2010 p. 6031-4; 6 May 2011 p. 1611-12; 24 Aug 2011 p. 3406-8; 9 Sep 2011 p. 3683; 17 Oct 2012 p. 4979-80; 19 Oct 2012 p. 5017-20; 2 Nov 2012 p. 5277-8; 18 Dec 2012 p. 6593; 4 Sep 2013 p. 4180-3; 15 Nov 2013 p. 5238; 19 Nov 2013 p. 5283; 30 May 2014 p. 1731-2.]
+[Part 3 inserted in Gazette 9 Jun 2009 p. 1915-20; amended in Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5; 27 Aug 2010 p. 4106; 10 Sep 2010 p. 4347; 2 Dec 2010 p. 6031-4; 6 May 2011 p. 1611-12; 24 Aug 2011 p. 3406-8; 9 Sep 2011 p. 3683; 17 Oct 2012 p. 4979-80; 19 Oct 2012 p. 5017-20; 2 Nov 2012 p. 5277-8; 18 Dec 2012 p. 6593; 4 Sep 2013 p. 4180-3; 15 Nov 2013 p. 5238; 19 Nov 2013 p. 5283; 30 May 2014 p. 1731-2 and 1736.]
