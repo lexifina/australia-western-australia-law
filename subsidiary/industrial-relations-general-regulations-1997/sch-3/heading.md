@@ -46,4 +46,4 @@ odoes not wish to enter into negotiations for an industrial agreement.
 (tick appropriate box)
 ....................................................
 Signature of party responding to notice
-[Schedule 3 inserted in Gazette 29 Jun 2004 p. 2518-20.]
+[Schedule 3 inserted: Gazette 29 Jun 2004 p. 2518-20.]

@@ -14,4 +14,4 @@ Item | Matter | Fee $
 11 | For a photographic copy of reasons for judgment consisting of not more than 10 pages — for each copy issued to a person not a party to the proceedings or a person, who although a party, did not appear or who was not represented at the proceedings and for each copy in excess of one copy issued to a represented party to the proceedings | 2.75
  | And for each page in excess of 10 | 0.20
 12 | For photographic copies of exhibits or other documents — for each page | 0.20
-[Schedule 2 inserted in Gazette 26 Jul 2002 p. 3464; amended in Gazette 29 Jun 2004 p. 2518.]
+[Schedule 2 inserted: Gazette 26 Jul 2002 p. 3464; amended: Gazette 29 Jun 2004 p. 2518.]
