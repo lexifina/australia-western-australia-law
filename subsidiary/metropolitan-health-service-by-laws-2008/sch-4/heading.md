@@ -1,36 +1,51 @@
 ## Schedule 4 — Forms
 [bl. 12(3) and 13]
-[Heading inserted in Gazette 26 Nov 2010 p. 5945.]
-Form 1 — Infringement Notice
-Infringement Notice Metropolitan Health Service By-laws 2008
-Notice No. | Issue date | Issue time
+[Heading inserted in Gazette 13 Jun 2014 p. 1879.]
+Form 1: Infringement Notice (by-law 12(3))
+Government of Western Australia
+Department of Health
+Metropolitan Access and Parking Department
+Metropolitan Health Service By-laws 2008
+Infringement No. | Date | Time
+Officer ID
 Location
-Vehicle
-Plate no. & type | Make | Model/Style
-Alleged Offence
+Car Park
+Offence
 Date | Time
-By-law | Modified penalty
-Issuing Officer
-Name | Signature/Officer No.
-You have 28 days from when this Notice is given to you to pay the modified penalty or elect to go to court. If you don’t, enforcement proceedings will be taken against you.
-Paying the modified penalty By post:Send a cheque or money order payable to “Metropolitan Access and Parking” to — Metropolitan Access and Parking PO Box 1135 Osborne Park WA 6916
-In person:Pay at the Metropolitan Access and Parking Department at — 100 Flinders Street Mt. Hawthorn WA
-OR Pay at any Australia Post Office or agency. By telephone:Call 1800 753 191
-Electing to go to court If you wish to elect to go to court, sign here: .................................................................................. Date: ............. then send this notice to — The Chief Executive Officer Metropolitan Access and Parking Department 100 Flinders Street Mt. Hawthorn WA 6016 Make sure you keep a copy. If you go to court and are convicted you may be fined $50 and ordered to pay costs.
+By-law clause
+Description of infringement as per by-laws
+Modified Penalty ................................ | If paid before .................................... | Full Penalty ....................................
+Vehicle
+Reg No. | State
+Billpay Code
+Ref
+You have 28 days from when this notice was given to you to pay the modified penalty, declare you were not the driver, dispute the allegation or elect to go to court. If you do not, enforcement proceedings will be taken against you. See over for full payment options.
+Metropolitan Access and Parking You must on or before the due date —
+Pay the Infringement Pay in person at any post office, phone 13 18 16 or go to postbillpay.com.au. By credit card by phoning 1800 753 191.
+By cheque or money order made payable to “Metropolitan Access and Parking” and posted to — Metropolitan Access and Parking PO Box 1135 Osborne Park WA 6916
+OR If you were not driving or the owner of the vehicle at the time of the alleged offence — submit a declaration giving the full name and address of the driver or owner. Documentary proof of sale is required if the vehicle was sold prior to the alleged offence.
+A declaration form is downloadable at: www.health.wa.gov.au/parking/infringement OR
+Dispute the allegation that you committed the offence — you may first dispute the alleged offence informally in writing at the address below. OR
+Elect go to court — fill in below and post to the address below. If no election is made for an offence — One reminder notice will be sent (a reminder fee applies). After that you may (without a court hearing) be convicted of the offence and the unpaid fee amount will be your fine. Court costs will be added.
+I, .................................................................................................................. of ................................................................................................................. ............................................................................... Post code ..................... Elect to attend court in relation to the alleged offence. Dated ............................... Signed ...............................................................
 If enforcement proceedings are taken against you, your driver’s licence and/or vehicle licence may be suspended until you pay the modified penalty and expenses or you elect to go to court.
-[Form 1 inserted in Gazette 23 Dec 2011 p. 5444-5.]
-Form 2 — Withdrawal of infringement notice
-Metropolitan Health Service By-laws 2008 Withdrawal of infringement notice | Notice No.
-To [Person to whom infringement notice was issued] | Family name
-Other names
-Address
-Infringement notice | Infringement notice no.
-Issued at:❑Graylands Hospital ❑Rockingham Hospital ❑Kalamunda Hospital
-Date of issue ………/……../20…….
-Alleged offence ………………………………………… …………………………………………………………..
-Vehicle plate no.
-The infringement notice has been withdrawn. If you paid the modified penalty before the infringement notice was withdrawn, take your receipt and this notice to the cashier at Graylands Hospital, Rockingham Hospital or Kalamunda Hospital (as the case requires) and your payment will be refunded.
-Notice withdrawn by | Name
-Signature
-Date ………/……../20…….
-[Form 2 inserted in Gazette 26 Nov 2010 p. 5946.]
+Further information is available at: www.health.wa.gov.au/parking/infringement or by phoning 1800 753 181 Monday - Friday 8.30 a.m.-4 p.m. or email : parking@health.wa.gov.au Metropolitan Access and Parking PO Box 1135 Osborne Park WA 6916
+[Form 1 inserted in Gazette 13 Jun 2014 p. 1879-81.]
+Form 2: Withdrawal of Infringement Notice (by-law 13)
+Government of Western Australia
+Department of Health
+Metropolitan Access and Parking Department
+Date ..................................
+Infringement Notice ........................
+Dear
+Infringement notice No. ........................ served on you on ..............
+for the alleged offence of .................................................................
+........................................................................................................
+........................................................................................................
+is hereby withdrawn and no further action will be taken against you.
+If you paid the modified penalty before the Infringement Notice was withdrawn, please contact 1800 753 191 or post receipt to
+Metropolitan Access Parking PO Box 1135 Osborne Park WA 6916
+Your payment will be refunded.
+Yours sincerely
+Signed for and on behalf of the Parking Infringement Committee Metropolitan Access and Parking Department
+[Form 2 inserted in Gazette 13 Jun 2014 p. 1881.]
