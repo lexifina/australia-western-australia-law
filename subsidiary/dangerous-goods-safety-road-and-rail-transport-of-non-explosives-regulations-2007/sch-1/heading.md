@@ -30,7 +30,7 @@ Item | Provision | Modified penalty for an individual ($) | Modified penalty for
 32. | Regulation 142(3) | 100 | 500
 33. | Regulation 143(2) | 600 | 3 000
 34. | Regulation 143(3) | 100 | 500
-35. | Regulation 146 | 300 | —
+35. | Regulation 146(1) | 300 | —
 36. | Regulation 147 | 300 | 1 500
 37. | Regulation 150(1) | 200 | 1 000
 38. | Regulation 151(1) | 200 | 1 000
@@ -38,6 +38,7 @@ Item | Provision | Modified penalty for an individual ($) | Modified penalty for
 40. | Regulation 153 | 300 | 1 500
 41. | Regulation 154 | 200 | —
 42. | Regulation 155(2) | 200 | —
+43A | Regulation 156A(2) | 300 | 1 500
 43. | Regulation 158 | 300 | 1 500
 44. | Regulation 159(1) | 300 | 1 500
 45. | Regulation 160(1) | 200 | —
@@ -72,4 +73,4 @@ Item | Provision | Modified penalty for an individual ($) | Modified penalty for
 74. | Regulation 257(1) | 600 | 3 000
 75. | Regulation 258(1) | 600 | 3 000
 76. | Regulation 259(2) | 200 | 1 000
-[Schedule 1 amended in Gazette 22 Jun 2010 p. 2740.]
+[Schedule 1 amended in Gazette 22 Jun 2010 p. 2740; 13 Jun 2014 p. 1949-50.]
