@@ -27,7 +27,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Shipping and Pilotage Amendment Act 2006 s. 8 and 13(1)(b) | 71 of 2006 | 13 Dec 2006 | To be proclaimed (see s. 2)
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 (as amended by No. 17 of 2014 s. 39(2)(d)) | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2014 s. 39(2)(d) | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 The Shipping and Pilotage Amendment Act 1983 s. 3(2) reads as follows:
 (2) All proclamations made prior to the commencement of this section, under section 10(2) of the principal Act are hereby revoked.
 The ports of Augusta, Balla Balla, Dongara and Point Cloates were declared by proclamation under s. 10(2) to no longer be ports. See Gazette 29 May 1998 p. 2981.
@@ -92,9 +93,14 @@ On the date as at which this compilation was prepared, the Standardisation of Fo
 Table
 Act | Identifier | Title | Shoulder note
 Shipping and Pilotage Act 1967 | Schedule
-Defined Terms
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(2)(d) had not come into operation. It reads as follows:
+39.Standardisation of Formatting Act 2010 amended
+(1) This section amends the Standardisation of Formatting Act 2010.
+(2) In section 4 in the Table:
+(d) delete the row relating to the Shipping and Pilotage Act 1967.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 authorised person12(1b)
 CEO3
 controlled area3
