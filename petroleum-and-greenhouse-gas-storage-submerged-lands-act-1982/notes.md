@@ -37,6 +37,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Petroleum and Energy Legislation Amendment Act 2010 s. 149, 163, 165(1)(b) (to the extent that it inserts s. 152(2)(lc)) and 169 (to the extent that it inserts Sch. 3 cl. 4) | 42 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2014 s. 7 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 See the Gas Pipelines Access (Western Australia) Act 1998 s. 9.
 Repealed by the Off-shore (Application of Laws) Act 1982 s. 5.
 On the date as at which this compilation was prepared, the Petroleum and Energy Legislation Amendment Act 2010 s. 149, 163, 165(1)(b) (to the extent that it inserts s. 152(2)(lc)) and 169 (to the extent that it inserts Sch. 3 cl. 4) had not come into operation. They read as follows:
@@ -242,9 +243,14 @@ The Acts Amendment (Petroleum) Act 1990 s. 218(2) and (3) read as follows:
 The Land (Titles and Traditional Usage) Act 1993 Sch. 1 Pt. 4 cl. 5(2) reads as follows:
 (2) Division 4A inserted by subsection (1) does not apply to an application for approval lodged before the commencement of this section.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-Defined Terms
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 7 had not come into operation. It reads as follows:
+7.Petroleum (Submerged Lands) Act 1982 amended
+(1) This section amends the Petroleum (Submerged Lands) Act 1982.
+(2) In section 137A(1) delete “the complaint” and insert:
+the charge of the offence
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 access authority4
 access authority area9(1)
 accidentSch. 5, cl. 3
