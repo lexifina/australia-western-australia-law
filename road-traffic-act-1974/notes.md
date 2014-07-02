@@ -155,9 +155,12 @@ Under the Cross-border Justice Act 2008 section 14, in order to give effect to t
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 12(2)(c), (5)(d) and (7)(b) | 51 of 2010 | 8 Dec 2010 | To be proclaimed (see s. 2(c))
+Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 12(2)(c), (5)(d) and (7)(b) | 51 of 2010 (as amended by No. 17 of 2014) | 8 Dec 2010 | To be proclaimed (see s. 2(c))
 Road Traffic Legislation Amendment Act 2012 Pt. 3 (other than s. 15-18) | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b)(i) and (d))
 Road Traffic (Miscellaneous Amendments) Act 2012 s. 12 | 59 of 2012 | 11 Dec 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 s. 44 (see s. 2(c)(ii))
+Medicines and Poisons Act 2014 s. 188 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2014 s. 35 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(c))
 The name of the Main Roads Trust Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Main Roads Trust Account.
 Repealed by the Interpretation Act 1984.
 Section 111(2)(f) was deleted by the Road Traffic Amendment Act 2001 s. 5(2).
@@ -433,11 +436,41 @@ Table
 s. 70(3b)(j)(i) | s. 78C(4)
 s. 79(1), (3A) | s. 79A(1)
 s. 79BA(1)(b), (b)(ii) and (2) | s. 79C(1)(a) and (b), (2)(a) and (b)
-Footnote no longer applicable.
-On the date as at which this reprint was prepared, the Road Traffic (Miscellaneous Amendments) Act 2012 s. 12 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 had not come into operation. It reads as follows:
+Division 1 — Road Traffic Act 1974 amended
+70.Act amended
+This Division amends the Road Traffic Act 1974.
+71.Section 42E amended
+After section 42E(6) insert:
+(7A) Subsection (6) does not apply to a person who reproduces a photograph provided under this section —
+(a) as a result of its disclosure under section 44AD; and
+(b) in the administration of the Taxi Drivers Licensing Act 2014.
+72.Section 44AA amended
+In section 44AA insert in alphabetical order:
+CEO (taxi drivers licensing) means the CEO as defined in the Taxi Drivers Licensing Act 2014 section 3(1);
+73.Section 44AD inserted
+At the end of Part IVA Division 4A insert:
+44AD.Disclosure to CEO (taxi drivers licensing)
+The Director General may disclose photographs to the CEO (taxi drivers licensing) for the purposes of the performance of the functions of the CEO (taxi drivers licensing) under the Taxi Drivers Licensing Act 2014.
+On the date as at which this compilation was prepared, the Road Traffic (Miscellaneous Amendments) Act 2012 s. 12 had not come into operation. It reads as follows:
 12.Various references to “member of the Police Force” amended
 In sections 49AB(1)(c), 53(1) and (2A), 60(1c)(a)(i) and 61A(1)(a) delete “member of the Police Force” and insert:
 police officer
+On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 188 had not come into operation. It reads as follows:
+188.Road Traffic Act 1974 amended
+(1) This section amends the Road Traffic Act 1974.
+(2) In section 65 in the definition of drug delete paragraph (b) and insert:
+(b)a Schedule 4 poison as defined in the Medicines and Poisons Act 2014 section 3; or
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 35 and 36 had not come into operation. They read as follows:
+35.Road Traffic Act 1974 amended
+(1) This section amends the Road Traffic Act 1974.
+(2) In section 22(5)(a) delete “Fund” and insert:
+Account
+Note:The heading to amended section 22 is to read:
+Certain fees and charges to be credited to Main Roads Trust Account
+36.Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 amended
+(1) This section amends the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010.
+(2) Delete section 12(2)(c), (5)(d) and (7)(b).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
