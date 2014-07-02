@@ -5,9 +5,18 @@ Short title | Number and year | Assent | Commencement
 Co-operatives Act 2009 | 24 of 2009 | 22 Oct 2009 | s. 1 and 2: 22 Oct 2009 (see s. 2(a)); Act other than s. 1, 2, 490, 491, Pt. 20 Div. 1 and 3: 1 Sep 2010 (see s. 2(b) and Gazette 13 Aug 2010 p. 3975); Pt. 20 Div. 1: 16 May 2011 (see s. 2(d) and Gazette 24 Jun 2011 p. 2516); s. 490 and 491 and Pt. 20 Div. 3: 1 Sep 2012 (see s. 2(c) and Gazette 13 Aug 2010 p. 3975)
 Acts Amendment (Fair Trading) Act 2010 s. 180 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 4 (s. 37-44) | 42 of 2011 | 4 Oct 2011 | s. 44: 5 Oct 2011 (see s. 2(b)) s. 37-43: 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
-Defined Terms
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Statutes (Repeals and Minor Amendments) Act 2014 s. 19 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 19 had not come into operation. It reads as follows:
+19.Co-operatives Act 2009 amended
+(1) This section amends the Co-operatives Act 2009.
+(2) In section 188(5) delete “subregulation (4)” and insert:
+subsection (4)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 active member4(1)
 active membership provision4(1)
 active membership resolution110
