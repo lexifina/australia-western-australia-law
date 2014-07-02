@@ -26,6 +26,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 49 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Taxi Drivers Licensing Act 2014 Pt. 10 Div. 5 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(f))
 The provision in this Act repealing the Taxi-car Control Act 1985 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Land Administration Act 1997.
 Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
@@ -44,9 +45,26 @@ the Road Traffic (Administration) Act 2008 section 5;
 181.Section 32 amended
 In section 32(2)(b) delete “issued under the Road Traffic Act 1974; and” and insert:
 granted under the Road Traffic (Authorisation to Drive) Act 2008; and
-Defined Terms
+On the date as at which this compilation was prepared, the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 5 had not come into operation. It reads as follows:
+Division 5 — Taxi Act 1994 amended
+82.Act amended
+This Division amends the Taxi Act 1994.
+83.Section 16 amended
+After section 16(8)(c) insert:
+(da) any conviction of an applicant of an offence, or any infringement notice given to an applicant (and not later withdrawn) in respect of an alleged offence, under the Taxi Drivers Licensing Act 2014 or an Act of another State or a Territory corresponding to that Act; and
+84.Section 29 amended
+Delete section 29(1)(e) and insert:
+(e) complaint resolution;
+(f) steps to be taken by the provider to ensure that the taxi dispatch services that it provides are not used by taxi drivers who do not hold licences granted under the Taxi Drivers Licensing Act 2014,
+85.Section 40 amended
+In section 40:
+(a) delete:
+(h)regulating the conduct and behaviour of taxi drivers in relation to the provision of taxi services;
+(b) delete:
+(k)regulating the circumstances under which a driver may refuse to accept a passenger or may terminate a hiring;
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 approved3(1)
 authorised officer3(1)
 Board3(1)
@@ -55,10 +73,10 @@ buy-back agreement30A(1)
 commencement day3(1)
 control area3(1)
 conventional taxi plates3(1)
-corporation3(3)(b)
+corporation3(3)
 department3(1)
 Director General3(1)
-divestment period21(3)(b)(i), 23(2)(a)
+divestment period21(3), 23(2)
 eligible operator30A(1)
 former Board47(1)
 lease3(1)
@@ -71,7 +89,7 @@ multi-purpose taxi30A(1)
 operate3(1)
 operator3(1), 36(1)
 owner16(10)
-owner-driver16(5)(a), 16(6)(a)
+owner-driver16(5), 16(6)
 plate holder3(1), 21(6)
 plate owner’s lease3(1)
 registration3(1)
