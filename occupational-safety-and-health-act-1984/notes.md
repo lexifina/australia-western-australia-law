@@ -39,7 +39,8 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 D
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 (as amended by No. 17 of 2014 s. 39(2)(b)) | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2014 s. 39(2)(b) | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 A reference to the Petroleum Safety Act 1999 is not included in the table because that Act was repealed before the amendments in Sch. 2 to that Act came into operation. The repeal was made by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51.
 Now known as the Occupational Safety and Health Act 1984; short title changed (see note under s. 1).
@@ -92,9 +93,14 @@ On the date as at which this compilation was prepared, the Standardisation of Fo
 (c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
 Act | Identifier | Title | Shoulder note
 Occupational Safety and Health Act 1984 | Schedule |  | [s. 60(5)]
-Defined Terms
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(2)(b) had not come into operation. It reads as follows:
+39.Standardisation of Formatting Act 2010 amended
+(1) This section amends the Standardisation of Formatting Act 2010.
+(2) In section 4 in the Table:
+(b) delete the row relating to the Occupational Safety and Health Act 1984;
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 a workplace33(4), 35(1a)
 activity49(7)(b)
 additional employees30C(1)
