@@ -22,13 +22,22 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 56 | 8 of 2009 | 21 
 Reprint 3: The Fair Trading Act 1987 as at 5 Feb 2010 (includes amendments listed above)
 Fair Trading Act 2010 Pt. 10 Div. 3 | 57 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(b) and Gazette 24 Dec 2010 p. 6805)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Statutes (Repeals and Minor Amendments) Act 2014 s. 21 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 This reference, and all following references, to “TPA”, refers to the Trade Practices Act 1974 of the Commonwealth.
 Formerly referred to The Sale of Goods Act 1895, the short title of which was changed to the Sale of Goods Act 1895 by the Statutes (Repeals and Minor Amendments) Act 2003 s. 150(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now see the Broadcasting Services Act 1992 of the Commonwealth.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues, some of which may be relevant to this Act.
-Defined Terms
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 21 had not come into operation. It reads as follows:
+21.Fair Trading Act 1987 amended
+(1) This section amends the Fair Trading Act 1987.
+(2) In section 3C(3) delete “subsection (3)” and insert:
+subsection (2)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 acquire5(1)
 acquirer11A(4)
 another person83(2)
