@@ -13,10 +13,19 @@ Acts Amendment (Bankruptcy) Act 2009 s. 70 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Professional Standards Amendment Act 2010 | 3 of 2010 | 7 Apr 2010 | Pt. 1: 7 Apr 2010 (see s. 2(a)); Act other than Pt. 1: 8 Apr 2010 (see s. 2(b))
 Reprint 2: The Professional Standards Act 1997 as at 11 Jun 2010 (includes amendments listed above)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Statutes (Repeals and Minor Amendments) Act 2014 s. 32 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 On 15 July 2001 the Corporations (Western Australia) Act 1990 was superseded by the Corporations Act 2001 of the Commonwealth, see Part 2 of the Corporations (Ancillary Provisions) Act 2001.
-Defined Terms
+3On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 32 had not come into operation. It reads as follows:
+32.Professional Standards Act 1997 amended
+(1) This section amends the Professional Standards Act 1997.
+(2) In section 34A(2) delete “limitation” and insert:
+A limitation
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 amending ActSch. 4 cl. 1 and 7
 another jurisdiction4(1)
 appropriate Council4(1)
