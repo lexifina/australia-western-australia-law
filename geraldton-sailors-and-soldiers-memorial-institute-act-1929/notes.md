@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Geraldton Sailors and Soldiers’ Memorial Institute Act 1929 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Geraldton Sailors and Soldiers’ Memorial Institute Act 1929 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Geraldton Sailors and Soldiers’ Memorial Institute Act 1929 | 38 of 1929 | 31 Dec 1929 | 31 Dec 1929
@@ -9,6 +9,10 @@ Trustees Amendment Act 1997 s. 18 | 1 of 1997 | 6 May 1997 | 16 Jun 1997 (see s.
 Reprint 1: The Geraldton Sailors and Soldiers’ Memorial Institute Act 1929 as at 9 May 2003 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 17 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Statutes (Repeals and Minor Amendments) Act 2014 s. 16 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 The reference to the old currency is of historical interest only and so has not been amended under the Decimal Currency Act 1965.
 Repealed by the Associations Incorporation Act 1987.
 This Act shall be read with the following Acts:
@@ -17,3 +21,15 @@ Geraldton Sailors and Soldiers’ Memorial Institute (Trust Property Disposition
 Related Act:
 Geraldton Sailors and Soldiers’ Memorial Institute Lands Vesting Act 1933.
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2011 s. 17 to s. 6(c) is not included because it was unclear where the amendment was intended to be made.
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 16 had not come into operation. It reads as follows:
+16.Geraldton Sailors and Soldiers’ Memorial Institute Act 1929 amended
+(1) This section amends the Geraldton Sailors and Soldiers’ Memorial Institute Act 1929.
+(2) In section 6(2) delete “the Returned Sailors’ Soldiers’ and Airmen’s Imperial League of Australia” and insert:
+the Returned & Services League of Australia WA Branch Incorporated
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+Returned soldier2
+The said land2
+The said moneys2
+The trustees2
