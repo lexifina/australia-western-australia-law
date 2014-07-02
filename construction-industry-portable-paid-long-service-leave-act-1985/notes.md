@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 November 2013 of the Construction Industry Portable Paid Long Service Leave Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Construction Industry Portable Paid Long Service Leave Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Construction Industry Portable Paid Long Service Leave Act 1985 | 72 of 1985 | 13 Dec 1985 | s. 1 and 2: 13 Dec 1985; Act other than s. 1 and 2: 19 Dec 1986 (see s. 2 and Gazette 19 Dec 1986 p. 4860)
@@ -27,7 +27,8 @@ Reprint 4: The Construction Industry Portable Paid Long Service Leave Act 1985 a
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 51 Table item 14 | 19 of 2010 | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Standardisation of Formatting Act 2010 s. 51 Table item 14 | 19 of 2010 (as amended by No. 17 of 2014 s. 39(3)) | 28 Jun 2010 | To be proclaimed (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2014 s. 39(3) | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 The Construction Industry Portable Paid Long Service Leave Amendment Act 1989 s. 13 and 14 read as follows:
 13.Transitional
 (1) In this section —
@@ -46,6 +47,10 @@ On the date as at which this reprint was prepared, the Standardisation of Format
 14.Construction Industry Portable Paid Long Service Leave Act 1985
 Sch. cl. 1 | 1. Notwithstanding | 1.Service prior to application Notwithstanding
 Sch. cl. 2 | 2. (1)Notwithstanding | 2.Contributions for service prior to appointed day (1)Notwithstanding
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(3) had not come into operation. It reads as follows:
+39.Standardisation of Formatting Act 2010 amended
+(1) This section amends the Standardisation of Formatting Act 2010.
+(3) In section 51 in the Table delete item 14.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
