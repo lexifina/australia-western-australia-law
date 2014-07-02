@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 December 2013 of the Legal Profession Act 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Legal Profession Act 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Legal Profession Act 2008 | 21 of 2008 | 27 May 2008 | Pt. 1: 27 May 2008 (see s. 2(a)); Act other than Pt. 1: 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
@@ -8,6 +8,15 @@ Electronic Transactions Act 2011 s. 25 | 46 of 2011 | 25 Oct 2011 | 1 Aug 2012 (
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 3 | 6 of 2012 | 10 Apr 2012 | 28 May 2012 (see s. 2(c) and Cwlth Gazette 19 Apr 2012 ref. F2012L00891)
 Reprint 1: The Legal Profession Act 2008 as at 13 Dec 2013 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Statutes (Repeals and Minor Amendments) Act 2014 s. 15 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 15 had not come into operation. It reads as follows:
+15.Legal Profession Act 2008 amended
+(1) This section amends the Legal Profession Act 2008.
+(2) In section 3 in the definition of accountant paragraph (c) delete “National Institute of Accountants” and insert:
+Institute of Public Accountants
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
