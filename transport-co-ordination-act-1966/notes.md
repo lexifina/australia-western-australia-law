@@ -74,7 +74,9 @@ Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 51 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 51 | 8 of 2012 (as amended by No. 18 of 2014 Pt. 10 Div. 3) | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Statutes (Repeals and Minor Amendments) Act 2014 s. 42 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+Taxi Drivers Licensing Act 2014 Pt. 10 Div. 6 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(f))
 The State Transport Co-ordination Act 1966 was repealed by the State Transport Co-ordination Act 1981, which was repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.
 The reference in the Taxi Act 1994 s. 49(a) to an amendment of s. 2 of this Act should refer to an amendment of s. 4 of this Act. Section 49(a) reads as follows:
 (a) in section 2, in the definition of omnibus by deleting “a vehicle licensed for use as a taxi-car under the Taxi-cars (Co-ordination and Control) Act 1963, or” and substituting the following —
@@ -193,9 +195,29 @@ Effect of other road laws
 195.First Schedule amended
 In the First Schedule delete “in whose name the vehicle is licensed under the Road Traffic Act 1974.” and insert:
 to whom a licence in respect of the vehicle is granted under the Road Traffic (Vehicles) Act 2012.
-Defined Terms
+On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 s. 191 which will be repealed by the Taxi Drivers Amendment Act 2014 Pt. 10 Div. 3 had not come into operation. It reads as follows:
+Division 3 — Road Traffic Legislation Amendment Act 2012 amended
+78.Act amended
+This Division amends the Road Traffic Legislation Amendment Act 2012.
+79.Section 191 deleted
+Delete section 191.
+On the date as at which this compilation was prepared, the Taxi Drivers Amendment Act 2014 Pt. 10 Div. 6 had not come into operation. It reads as follows:
+Division 6 — Transport Co-ordination Act 1966 amended
+86.Act amended
+This Division amends the Transport Co-ordination Act 1966.
+87.Section 47ZE deleted
+Delete section 47ZE.
+88.Section 47ZF amended
+In section 47ZF(1):
+(a) delete paragraph (q);
+(b) in paragraph (u) delete “and holders of taxi-car drivers’ licences”.
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 42 had not come into operation. It reads as follows:
+42.Transport Co-ordination Act 1966 amended
+(1) This section amends the Transport Co-ordination Act 1966.
+(2) In section 4(1) in the definition of owner paragraph (ab) delete “a person who”.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 appointed day42C(6)
 authorised person42A, 58A(1), 58B(3)
 body7A(1)
