@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 December 2013 of the Health Act 1911 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Health Act 1911 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Health Act 1911 | 34 of 1911 (1 Geo. V No. 45) | 16 Feb 1911 | 1 Jun 1911 (see s. 1 and Gazette 3 Mar 1911 p. 961)
@@ -136,6 +136,11 @@ Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 6 | 11 of 2012
 Commercial Arbitration Act 2012 s. 45 it. 9 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Water Services Legislation Amendment and Repeal Act 2012 s. 216 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Reprint 16: The Health Act 1911 as at 6 Dec 2013 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Medicines and Poisons Act 2014 Pt. 11 Div. 1 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2014 s. 23 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
 Section 53B was deleted by the Health Act Amendment Act 1933 (No. 2) s. 6.
@@ -208,6 +213,58 @@ specified means specified or described in the regulations.
 (4) If regulations contain a provision referred to in subsection (2), the provision does not operate so as —
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State) the rights of that person existing before the day of publication; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication.
+On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 Pt. 11 Div. 1 had not come into operation. It reads as follows:
+Division 1 — Health Act 1911 amended
+148.Act amended
+This Division amends the Health Act 1911.
+149.Section 3 amended
+(1) In section 3(1) delete the definitions of:
+drug
+false trade description
+the Drug Advisory Committee
+therapeutic substance
+trade description
+(2) In section 3(1) in the definition of meat delete “except in Division 3A of Part VIIA,”.
+150.Section 5 amended
+In section 5(6):
+(a) delete “food or drug,” and insert:
+food,
+(b) delete “or drug” (each occurrence).
+151.Part VIIA heading replaced
+Delete the heading to Part VIIA and insert:
+Part VIIA — Pesticides
+152.Part VIIA Division 1 heading replaced
+Delete the heading to Part VIIA Division 1 and insert:
+Division 1 — Registration of analysts
+153.Section 202 deleted
+Delete section 202.
+154.Part VIIA Divisions 5, 6 and 7 deleted
+Delete Part VIIA Divisions 5, 6 and 7.
+155.Section 246A amended
+In section 246A(3) delete “Poisons Act 1964.” and insert:
+Medicines and Poisons Act 2014.
+Note:The heading to amended section 246A is to read:
+Crown bound, but Health Practitioner Regulation National Law (Western Australia) and Medicines and Poisons Act 2014 not affected by Division 8
+156.Part VIIA Division 9 deleted
+Delete Part VIIA Division 9.
+157.Section 360 amended
+In section 360(4)(b) delete “246C or 246D(1).” and insert:
+246C.
+158.Section 377 amended
+Delete section 377(10).
+159.Schedule 5 amended
+In Schedule 5:
+(a) in Part I delete “225(1), 238(3) and (5),”;
+(b) in Part II delete “224(2), 227(13),”;
+(c) in Part IV delete “223(1), 225(2), 227(2), 231(2), 234(1), 240(1),”;
+(d) in Part VI delete “221(1), 222, 236(1), 241(1),”;
+(e) in Part VII delete “131(2), 228(2), 237(2), 238(1)” and insert:
+131(2)
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 23 had not come into operation. It reads as follows:
+23.Health Act 1911 amended
+(1) This section amends the Health Act 1911.
+(2) In section 3(1) delete the definition of public place and insert:
+public place includes every place to which the public ordinarily have access, whether by payment of fee or not;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
