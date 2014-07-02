@@ -282,6 +282,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Ports Legislation Amendment Act 2014 s. 44(2) | 9 of 2014 | 20 May 2014 | To be proclaimed (see s. 2(1)(c))
+Medicines and Poisons Act 2014 s. 183 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
@@ -382,6 +383,10 @@ On the date as at which this compilation was prepared, the Ports Legislation Ame
 (a) delete the items relating to the Albany Port Authority, the Bunbury Port Authority and the Esperance Port Authority;
 (b) before the item relating to the State Advisory Committee on Publications insert:
 The Southern Ports Authority established under the Port Authorities Act 1999.
+On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 183 had not come into operation. It reads as follows:
+183.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 3 delete the item relating to The Poisons Advisory Committee.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
