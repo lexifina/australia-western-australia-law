@@ -81,6 +81,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Mining Legislation Amendment Act 2014 Pt. 2 | 4 of 2014 | 22 Apr 2014 | To be proclaimed (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2014 s. 29 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
 The Mining Amendment Act 1981 s. 3 reads as follows:
@@ -385,9 +386,13 @@ Table
 s. 46(aa)(ii) | s. 63(aa)(ii)
 s. 70H(1)(aa)(ii) | s. 82(1)
 s. 84AA
-Defined Terms
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 29 had not come into operation. It reads as follows:
+29.Mining Act 1978 amended
+(1) This section amends the Mining Act 1978.
+(2) In section 160AA in the Table delete “s. 94J”.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 minerals8(1)
 warden’s court8(1)
 absolute caveat121
