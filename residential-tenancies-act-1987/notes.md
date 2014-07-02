@@ -31,6 +31,10 @@ Acts Amendment (Fair Trading) Act 2010 s. 189 | 58 of 2010 | 8 Dec 2010 | 1 Jan 
 Residential Tenancies Amendment Act 2011 | 60 of 2011 | 14 Dec 2011 | s. 1 and 2: 14 Dec 2011 (see s. 2(a)); s. 5(2) (to the extent that it inserts the definition of lessor), 42(1) and (2), 45(1), 57, 58, 60, 69, 88, 89 (to the extent that it amends s. 71) and 90-95: 30 Jul 2012 (see s. 2(b) and Gazette 27 Jul 2012 p. 3663); s. 3-5 (except to the extent that it inserts the definition of lessor), 6-41, 42(3), 43-44, 45(2), 46-56, 59, 61-68, 70-87, 89 (except to the extent that it amends s. 71) and Pt. 4 (s. 96): 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
 Reprint 5: The Residential Tenancies Act 1987 as at 19 Jul 2013 (includes amendments listed above)
 Dog Amendment Act 2013 Pt. 3 | 18 of 2013 | 29 Oct 2013 | 1 Nov 2013 (see s. 2(b) and Gazette 31 Oct 2013 p. 4829)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Statutes (Repeals and Minor Amendments) Act 2014 s. 5 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
 The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
@@ -39,6 +43,11 @@ The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
 The Real Estate Legislation Amendment Act 1995 s. 46 and 52 were purported to be proclaimed on 1 January 1997 in Gazette 25 June 1996 p. 2902, but the proclamation was revoked before it came into force — see Gazette 6 September 1996 p. 4405.
 The Taxation Administration (Consequential Provisions) Act 2002 s. 3 and 4 and Pt. 4 are transitional provisions that are of no further effect.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 is a transitional provision that is of no further effect.
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 5 had not come into operation. It reads as follows:
+5.Residential Tenancies Act 1987 amended
+(1) This section amends the Residential Tenancies Act 1987.
+(2) In section 15(2)(d) delete “a local court” and insert:
+the Magistrates Court
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
