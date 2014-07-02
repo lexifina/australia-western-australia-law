@@ -6,9 +6,10 @@ Road Traffic (Authorisation to Drive) Act 2008 s. 1 and 2 | 40 of 2008 | 15 Aug 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic (Authorisation to Drive) Act 2008 s. 3 and Pt. 2-62 | 40 of 2008 (as amended by No. 51 of 2010 Pt. 4) | 15 Aug 2008 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b))
+Road Traffic (Authorisation to Drive) Act 2008 s. 3 and Pt. 2-6 | 40 of 2008 (as amended by No. 51 of 2010 Pt. 4) | 15 Aug 2008 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b))
 Road Traffic Legislation Amendment (Information) Act 2011 Pt. 4 | 18 of 2011 | 2 Jun 2011 | Pt. 4 (other than s. 25): operative on commencement of the Road Traffic (Administration) Act 2008 other than s. 1 and 2 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611); s. 25: 14 Jan 2013 (see s. 2(b) and Gazette 4 Jan 2013 p. 3)
 Road Traffic Legislation Amendment Act 2012 Pt. 6 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(f))
+Taxi Drivers Licensing Act 2014 Pt. 10 Div. 2 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(d))
 On the date as at which this compilation was prepared, the Road Traffic (Authorisation to Drive) Act 2008 s. 3 and Pt. 2-6 (as amended by the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 4 and the Road Traffic Legislation Amendment (Information) Act 2011 s. 25) had not come into operation. They read as follows:
 “
 3.Terms used in this Act
@@ -764,54 +765,19 @@ Legislation Amendment Act 2012
 Legislation Amendment Act 2012;
 (2) In section 64 in the definition of commencement day delete “(Consequential Provisions) Act 2008 Part 2” and insert:
 Legislation Amendment Act 2012 Part 3
-Defined Terms
-[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-amending Act64
-another jurisdiction’s driving authorisation13(1), 43(2)
-application25
-Australian driver licence3(1)
-Australian driver licensing authority3(1)
-commencement day64
-current demerit points40(1)
-dealt with by infringement notice40(1)
-demerit period55(1)
-demerit point action40(1)
-demerit point offence40(1)
-demerit point offence in WA40(1)
-demerit point registry jurisdiction40(1)
-demerit points register40(1)
-destroyed9(1)
-disqualification period54(1)
-disqualified28(1)
-driver licence14(1)
-driver’s licence3(1)
-driver’s licence held by a person19
-excessive demerit points notice40(1)
-excessive demerit points (novice driver) notice40(1)
-external licensing authority3(1)
-extraordinary licence3(1)
-foreign law15(1)
-former demerit point registry jurisdiction58(1)
-grant3(1)
-infringement notice40(1)
-learner’s permit3(1)
-national demerit point offence40(1)
-national demerit point offence schedule40(1)
-new licensing jurisdiction57
-novice driver40(1)
-novice driver (type 1)40(1)
-novice driver (type 2)40(1)
-photograph9(1)
-post-commencement demerit points50(1)
-prescribed offence19
-present offence20(2), 21, 22(2)
-provisional licence3(1)
-RT Act64
-RTA s. 6419
-section 51 election40(1)
-section 51 election period40(1)
-special application25
-starting time55(2)
-unlicensed person18(1)
-WA driving authorisation43(3)
+On the date as at which this compilation was prepared, the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 2 had not come into operation. It reads as follows:
+Division 2 — Road Traffic (Authorisation to Drive) Act 2008 amended
+74.Act amended
+This Division amends the Road Traffic (Authorisation to Drive) Act 2008.
+75.Section 9 amended
+After section 9(7) insert:
+(8) Subsection (7) does not apply to a person who reproduces a photograph provided under this section —
+(a) as a result of its disclosure under section 11E; and
+(b) in the administration of the Taxi Drivers Licensing Act 2014.
+76.Section 11B amended
+In section 11B insert in alphabetical order:
+CEO (taxi drivers licensing) means the CEO as defined in the Taxi Drivers Licensing Act 2014 section 3(1);
+77.Section 11E inserted
+At the end of Part 2 Division 3A insert:
+11E.Disclosure to CEO (taxi drivers licensing)
+The CEO may disclose photographs to the CEO (taxi drivers licensing) for the purposes of the performance of the functions of the CEO (taxi drivers licensing) under the Taxi Drivers Licensing Act 2014.
