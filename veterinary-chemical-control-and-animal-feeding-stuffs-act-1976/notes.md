@@ -30,6 +30,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 82 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+Medicines and Poisons Act 2014 s. 190 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Now known as the Veterinary Chemical Control and Animal Feeding Stuffs Act 1976; short title changed (see note under s. 1).
 The Acts Amendment (Chemistry Centre (W.A.) Act 1990 s. 13 reads as follows:
 “
@@ -44,9 +45,14 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 82.Repeal
 The Veterinary Chemical Control and Animal Feeding Stuffs Act 1976 is repealed.
 ”.
-Defined Terms
+On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 190 had not come into operation. It reads as follows:
+190.Veterinary Chemical Control and Animal Feeding Stuffs Act 1976 amended
+(1) This section amends the Veterinary Chemical Control and Animal Feeding Stuffs Act 1976.
+(2) In section 9 delete “Poisons Act 1964,” (each occurrence) and insert:
+Medicines and Poisons Act 2014,
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 additive5(1)
 adulterant5(1)
 advertisement5(1)
