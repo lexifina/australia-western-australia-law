@@ -8,6 +8,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 44 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Statutes (Repeals and Minor Amendments) Act 2014 s. 34 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 44 had not come into operation. It reads as follows:
 Division 44 — Rail Safety Act 2010 amended
 166.Act amended
@@ -15,9 +16,14 @@ This Division amends the Rail Safety Act 2010.
 167.Section 3 amended
 In section 3 in the definition of public road delete “Road Traffic Act 1974 section 5(1);” and insert:
 Road Traffic (Administration) Act 2008 section 4;
-Defined Terms
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 34 had not come into operation. It reads as follows:
+34.Rail Safety Act 2010 amended
+(1) This section amends the Rail Safety Act 2010.
+(2) In section 40 in the Penalty paragraph (a) before “a fine” insert:
+for a first offence,
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 accreditation3
 accredited person3
 appointer141
