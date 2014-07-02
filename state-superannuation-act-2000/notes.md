@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 May 2012 of the State Superannuation Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the State Superannuation Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 State Superannuation Act 2000 | 42 of 2000 | 2 Nov 2000 | s. 1 and 2: 2 Nov 2000; Act other than s. 1 and 2: 17 Feb 2001 (see s. 2 and Gazette 16 Feb 2001 p. 903)
@@ -16,6 +16,10 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 State Superannuation Amendment Act 2011 | 35 of 2011 | 12 Sep 2011 | s. 1 and 2: 12 Sep 2011 (see s. 2(a)); Act other than s. 1 and 2: 30 Mar 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1245)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 2: The State Superannuation Act 2000 as at 11 May 2012 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Statutes (Repeals and Minor Amendments) Act 2014 s. 40 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 and the Government Employees Superannuation Act 1987 were repealed by s. 39 of this Act. Certain provisions of those Acts continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
 2.Commencement
@@ -55,9 +59,18 @@ visiting medical practitioner means a medical practitioner engaged, other than a
 (2) This section applies in relation to superannuation contributions made, or purportedly made, under the Government Employees Superannuation Act 1987 or the State Superannuation Act 2000 in respect of a visiting medical practitioner between 1 July 1992 and 30 June 2001.
 (3) A thing done, or purportedly done, by the Board in consequence of a superannuation contribution having been made, or purportedly made, in respect of a visiting medical practitioner is, and is to be taken always to have been, as valid and effective as if the contribution had been made in respect of a person who was a member of the relevant scheme.
 The State Superannuation Amendment Act 2007 Pt. 5 Div. 1 and 2 were repealed by the State Superannuation Amendment Act 2007 s. 2(8)(a) and Pt. 3, 4, 5 Div. 3 Subdiv. 2 and Pt. 6 Div. 2 were repealed by the State Superannuation Amendment Act 2011 s. 4 before they purported to come into operation.
-Defined Terms
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 40 had not come into operation. It reads as follows:
+40.State Superannuation Act 2000 amended
+(1) This section amends the State Superannuation Act 2000.
+(2) Delete section 30(2) and insert:
+(2) An Employer may make superannuation contributions for persons who work for the Employer to a superannuation fund or scheme other than —
+(a) a scheme under this Act; or
+(b) a superannuation scheme or fund established in accordance with subsection (1); or
+(c) a superannuation scheme or fund established before 28 December 1989,
+if the Treasurer has approved the making of those contributions.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 actuary3(1)
 beneficiary36(4)
 benefit3(1)
