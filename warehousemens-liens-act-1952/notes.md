@@ -18,6 +18,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Warehousemen’s Liens Amendment Act 2014 s. 3-6 | 12 of 2014 | 24 Jun 2014 | To be proclaimed (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2014 s. 43 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Marginal notes in the Warehousemen’s Liens Act 1952 referring to legislation of other jurisdictions have been omitted from this compilation.
 On the date as at which this compilation was prepared, the Warehousemen’s Liens Amendment Act 2014 s. 3-6 had not come into operation. It reads as follows:
 3.Act amended
@@ -29,7 +30,12 @@ In section 12(g) delete “effect.” and insert:
 effect other than in respect of the fees to be paid in respect of or in connection with any matter in the jurisdiction of the Magistrates Court under this Act.
 6.Section 13 deleted
 Delete section 13.
-Defined Terms
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 43 had not come into operation. It reads as follows:
+43.Warehousemen’s Liens Act 1952 amended
+(1) This section amends the Warehousemen’s Liens Act 1952.
+(2) In section 13 delete “section 9” and insert:
+section 10(2A)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 warehouseman3
