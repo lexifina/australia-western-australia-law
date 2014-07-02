@@ -130,6 +130,10 @@ Reprint 9: The Poisons Act 1964 as at 19 Aug 2011 (includes amendments listed ab
 Poisons (Appendix A Amendment) Order 2012 published in Gazette 10 Feb 2012 p. 651 | cl. 1 and 2: 10 Feb 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 11 Feb 2012 (see cl. 2(b))
 Poisons (Appendix A Amendment) Order (No. 2) 2012 published in Gazette 31 Aug 2012 p. 4209 | cl. 1 and 2: 31 Aug 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Sep 2012 (see cl. 2(b))
 Poisons (Appendix A Amendment) Order 2014 published in Gazette 27 Jun 2014 p. 2328-30 | cl. 1 and 2: 27 Jun 2014 (see cl. 2(a)); Order other than cl. 1 and 2: 28 Jun 2014 (see cl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Medicines and Poisons Act 2014 s. 136, 137 and 140-6 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 The designation of Ministers may be altered by the Governor under the Alteration of Statutory Designations Act 1974. As at the date of this compilation the former Minister for Agriculture is known as the Minister for Agriculture and Food.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 40 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
@@ -143,9 +147,51 @@ CEO has the meaning given by section 3 of the Health Legislation Administration 
 commencement means the time at which this Division comes into operation;
 Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides a general transitional provision for references to a chief executive officer by a title that was given by a provision of an Act where the provision was amended to remove that title, or repealed, by the Machinery of Government (Miscellaneous Amendments) Act 2006.
-Defined Terms
+On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 136, 137 and 140-6 had not come into operation. They read as follows:
+136.Interpretation Act 1984 not affected
+Except where the contrary intention appears, this Part does not prejudice or affect the application of the Interpretation Act 1984 to or in relation to the repeals effected by sections 137 and 138.
+137.Poisons Act 1964 repealed
+The Poisons Act 1964 is repealed.
+140.Terms used
+In this Part —
+commencement day means the day on which section 137 comes into operation;
+repealed Act means the Poisons Act 1964.
+141.Continuation of licences and permits
+(1) A licence of a type prescribed by the regulations that was granted and in force under the repealed Act immediately before commencement day is to be taken on and from commencement day to be a licence of a type prescribed by the regulations granted under this Act, for the same term and subject to the same conditions as applied to the licence under the repealed Act.
+(2) A permit of a type prescribed by the regulations that was granted and in force under the repealed Act immediately before commencement day is to be taken on and from commencement day to be a permit of a type prescribed by the regulations granted under this Act, for the same term and subject to the same conditions as applied to the permit under the repealed Act.
+142.Existing applications for licences or permits
+(1) An application for a licence of a type prescribed by the regulations that was made under the repealed Act before commencement day and that was not finally determined before commencement day is to be taken to be an application for a licence of a type prescribed by the regulations made under this Act on commencement day.
+(2) An application for a permit of a type prescribed by the regulations that was made under the repealed Act before commencement day and that was not finally determined before commencement day is to be taken to be an application for a permit of a type prescribed by the regulations made under this Act on commencement day.
+143.Continuation of notices given to health professionals
+(1) In this section —
+notice under the repealed Act means a notice given by the CEO pursuant to regulations made under section 64(2)(ha) of the repealed Act.
+(2) If, immediately before commencement day, the authority conferred on a person by section 23 of the repealed Act was subject to a notice under the repealed Act, then on and from commencement day —
+(a) for the purposes of this Act —
+(i) the notice is to be taken to have been notice given in accordance with section 29; and
+(ii) any condition or restriction imposed on the authority conferred on a person by section 23 of the repealed Act by the notice is to be taken to be a condition imposed by the CEO on the person’s professional authority under this Act; and
+(iii) if the notice totally revoked the authority conferred on a person by section 23 of the repealed Act, the CEO is be taken to have cancelled the person’s professional authority under this Act;
+and
+(b) the notice that is taken to have been given under this Act has effect for the same term as the notice under the repealed Act.
+144.Continuation of notices in relation to Schedule 6 poisons
+If the CEO gave a person a notice under regulations made under section 64(2)(hb) of the repealed Act in relation to a Schedule 6 poison and that notice was in effect immediately before commencement day the CEO is to be taken to have given the person a compliance notice under this Act on the same terms as the notice given under the repealed Act.
+145.Continuation of notices in relation to Schedule 7 poisons
+A notice given by the CEO under section 24(5) of the repealed Act in relation to a Schedule 7 poison that was in effect immediately before commencement day continues to have effect as if it was a Schedule 7 notice on the same terms as the notice given under the repealed Act.
+146.Transitional regulations
+(1) If there is no sufficient provision in this Part for dealing with a transitional matter, regulations under this Act may prescribe all matters that are required or necessary or convenient to be prescribed in relation to that matter.
+(2) In subsection (1) —
+transitional matter means a matter that needs to be dealt with for the transition required because of this Act.
+(3) Regulations made under subsection (1) may provide that specific provisions of any written law —
+(a) do not apply in relation to any matter; or
+(b) apply with specific modifications in relation to any matter.
+(4) If regulations made under subsection (1) provide that a specified state of affairs is to be taken to have existed, or not to have existed, on and from a day that is earlier than the day on which the regulations are published in the Gazette but not earlier than commencement day, the regulations have effect according to their terms.
+(5) In subsection (4) —
+specified means specified or described in the regulations.
+(6) If regulations contain a provision referred to in subsection (4), the provision does not operate so as —
+(a) to affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the regulations were published in the Gazette; or
+(b) to impose liabilities on any person (other than the State or an authority of the State) in relation to anything done or omitted to be done before the regulations were published in the Gazette.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Advisory Committee5(1)
 analyst60(2)
 authorised officer5(1)
@@ -182,7 +228,6 @@ specified drug5(1)
 standard5(1)
 subsidiary legislation21(2)
 substance5(1)
-SUSMPApp. A cl. 1(1)
 to sell5(1)
 veterinary surgeon5(1)
 wholesale dealing5(1)
