@@ -50,6 +50,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 3 Div. 2 | 11 of 2014 | 24 Jun 2014 | To be proclaimed (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2014 s. 44 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Now known as the Wildlife Conservation Act 1950; short title changed (see note under s. 1).
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 8.
 The amendments in the Statutes (Repeals and Minor Amendments) Act 1997 s. 132(23) to s. 15(1a) and (1b) and 23C(2a) are not included because the provisions to be amended were repealed by s. 132(3) and (13) of that Act.
@@ -60,9 +61,14 @@ This Division amends the Wildlife Conservation Act 1950.
 10.Section 20 amended
 In section 20(4) delete “section 428 of The Criminal Code” and insert:
 The Criminal Code section 417
-Defined Terms
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 44 had not come into operation. It reads as follows:
+44.Wildlife Conservation Act 1950 amended
+(1) This section amends the Wildlife Conservation Act 1950.
+(2) In section 16(1) delete “subsection (1)” and insert:
+section 14(1)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Aboriginal customary purpose23(1)
 Aboriginal person23(1)
 animal6(1)
