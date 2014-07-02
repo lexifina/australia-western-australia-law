@@ -5,4 +5,3 @@ An Act —
 ·to provide for the resolution of disputes in connection with claims for payment of amounts, or liability to pay amounts, under this Act; and
 ·to provide for the management of claims for payment of amounts under this Act,
 and for related purposes.
-The Parliament of Western Australia enacts as follows:
