@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 July 2011 of the Tobacco Products Control Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Tobacco Products Control Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Tobacco Products Control Act 2006 | 5 of 2006 | 12 Apr 2006 | s. 1 and 2: 12 Apr 2006; Act other than s. 1-2, 16-25, 26(2), (3) and (4), Pt. 4 and s. 103(2), 105 and 113(3): 31 Jul 2006 (see s. 2 and Gazette 25 Jul 2006 p. 2701); s. 19-25, 26(2), (3) and (4), Pt. 4, s. 103(2), 105 and 113(3): 28 Feb 2007 (see s. 2 and Gazette 28 Feb 2007 p. 677); s. 16-18: 31 May 2007 (see s. 2 and Gazette 28 Feb 2007 p. 677)
@@ -12,12 +12,21 @@ Tobacco Products Control Amendment Act 2009 | 22 of 2009 | 22 Sep 2009 | s. 1 an
  | Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
  | Reprint 2: The Tobacco Products Control Act 2006 as at 8 Jul 2011 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Medicines and Poisons Act 2014 s. 189 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Tobacco Control Act 1990 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Trade Practices Act 1974 (Commonwealth) is now called the Competition and Consumer Act 2010.
-Defined Terms
+On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 189 had not come into operation. It reads as follows:
+189.Tobacco Products Control Act 2006 amended
+(1) This section amends the Tobacco Products Control Act 2006.
+(2) In the Glossary in the definition of tobacco product delete paragraph (d) and insert:
+(d)nicotine, or a product that contains nicotine, in a form that is a poison within the meaning of the Medicines and Poisons Act 2014 section 3; or
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 1990 ActSch. 2 cl. 4
 AccountGl.
 approvedGl.
@@ -26,7 +35,7 @@ carried by28(1)
 cartonGl.
 CEOGl.
 chairpersonGl.
-child107D
+child107D(1)
 cigarGl.
 cigaretteGl.
 commencement daySch. 2 cl. 4
@@ -56,7 +65,7 @@ investigation purposesGl.
 investigatorGl.
 licenceGl.
 licensed premisesGl.
-memberSch. 1 cl. 2(3) and 16, Gl.
+memberSch. 1 cl. 2(3), Sch. 1 cl. 16, Gl.
 mines amenityGl.
 misbehaviourSch. 1 cl. 2(3)
 new FoundationSch. 2 cl. 4
@@ -80,7 +89,7 @@ responsible personGl.
 restaurant licenceGl.
 retailer’s licenceGl.
 reviewable decision46(2)
-road107D
+road107D(1)
 seized thingGl.
 sellGl.
 seller28(3)
@@ -96,7 +105,8 @@ tobacco advertisementGl.
 tobacco companyGl.
 tobacco productGl.
 trade markGl.
-vehicle107D, Gl.
+vehicle 107D(1)
+vehicleGl.
 vending machineGl.
 wholesaleGl.
 wholesaler’s licenceGl.
