@@ -10,6 +10,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Owner-Drivers (Contracts and Disputes) Act 2007 s. 35 and 36 | 7 of 2007 | 6 Jun 2007 | To be proclaimed (see s. 2)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 37 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Statutes (Repeals and Minor Amendments) Act 2014 s. 30 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Owner-Drivers (Contracts and Disputes) Act 2007 s. 35 and 36 had not come into operation. They read as follows:
 “
 35.Right of entry by representative to investigate breaches
@@ -47,9 +48,14 @@ This Division amends the Owner-Drivers (Contracts and Disputes) Act 2007.
 (1) In section 3 delete the definition of gross vehicle mass.
 (2) In section 3 in the definition of heavy vehicle delete “means a vehicle, as defined in the Road Traffic Act 1974, with a gross vehicle mass of more than 4.5 tonnes;” and insert:
 has the meaning given in the Road Traffic (Vehicles) Act 2012 section 3(1);
-Defined Terms
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 30 had not come into operation. It reads as follows:
+30.Owner-Drivers (Contracts and Disputes) Act 2007 amended
+(1) This section amends the Owner-Drivers (Contracts and Disputes) Act 2007.
+(2) In section 3 in the definition of Council delete “Road Transport Freight Industry Council” and insert:
+Road Freight Transport Industry Council
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 A9
 applied provisions43(1)
 Chief Commissioner37(1)
