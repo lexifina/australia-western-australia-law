@@ -35,7 +35,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Petroleum Legislation Amendment and Repeal Act 2005 s. 29(2) | 13 of 2005 | 1 Sep 2005 | To be proclaimed (see s. 2)
+Petroleum Legislation Amendment and Repeal Act 2005 s. 29(2) | 13 of 2005 (as amended by No. 17 of 2014 s. 31) | 1 Sep 2005 | To be proclaimed (see s. 2)
+Statutes (Repeals and Minor Amendments) Act 2014 s. 9 and 31 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 The Acts Amendment (Petroleum) Act 1990 s. 122(2) reads as follows:
 (2) A declaration made under —
 (a) section 5(1)(a) of the principal Act before its repeal and substitution by this section and in force immediately before the commencement of this section shall on that commencement be deemed to have been made under section 5(1)(a)(iii); or
@@ -129,9 +130,17 @@ On the date as at which this compilation was prepared, the Petroleum Legislation
 29.Sections 66BA and 66BB inserted and transitional provision
 (2) Section 51 of the Justices Act 1902 as in force immediately before the commencement of subsection (1) applies to an offence against the Petroleum Pipelines Act 1969 committed before that commencement as if subsection (1) had not been enacted.
 The amendments in the Petroleum and Energy Legislation Amendment Act 2010 s. 182(11) and (12) are not included because the section they sought to amend had been deleted before the amendments purported to come into operation.
-Defined Terms
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 9 and 31 had not come into operation. They read as follows:
+9.Petroleum Pipelines Act 1969 amended
+(1) This section amends the Petroleum Pipelines Act 1969.
+(2) In section 66BB(1) delete “the complaint” and insert:
+the charge of the offence
+31.Petroleum Legislation Amendment and Repeal Act 2005 amended
+(1) This section amends the Petroleum Legislation Amendment and Repeal Act 2005.
+(2) Delete section 29(2).
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 accidentSch. 1 cl. 3
 actual supplierSch. 1 cl. 11(2)(b)
 approved4(1)
