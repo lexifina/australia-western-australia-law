@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Trading Concerns Act 1916 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the State Trading Concerns Act 1916 and includes the amendments made by the other written laws referred to in the following table,. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 State Trading Concerns Act 1916 | 12 of 1917 (7 Geo. V No. 32) | 28 Mar 1917 | 1 Apr 1917 (see s. 1 and Gazette 25 May 1917 p. 849)
@@ -24,6 +24,10 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4, 6, 9 and Sch. 1 cl. 16
 Reprint 4: The State Trading Concerns Act 1916 as at 5 Mar 2010 (includes amendments listed above)
 Revenue Laws Amendment and Repeal Act 2010 Pt. 4 | 17 of 2010 | 25 Jun 2010 | 26 Jun 2010 (see s. 2(b))
  | Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Statutes (Repeals and Minor Amendments) Act 2014 s. 41 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Repealed by section 2 of this Act.
 Repealed by the Acts Amendment (Western Australian Meat Commission) Act 1975.
 Under the Acts Amendment (Meat Industry) Act 1985 s. 37, a reference to the Western Australian Meat Commission in a written law, in relation to its meat marketing operations, was, unless the context was such that it would be inappropriate, to be read as a reference to the Western Australian Meat Marketing Corporation. The Western Australian Meat Marketing Corporation has not existed since the Marketing of Meat Act 1971 expired as a result of the amendment made to it by the Marketing of Meat Amendment Act 1999 s. 14.
@@ -31,9 +35,14 @@ Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993.
 Under the State Engineering Works Act 1984 s. 39 a reference to the State Implement and Engineering Works in a written law is to be read, deemed and taken to refer to the State Engineering Works of Western Australia established by the State Engineering Works Act 1984. The State Engineering Works Act 1984 was repealed by the State Engineering Works Repeal Act 1988.
 Marginal notes referring to other legislation have been omitted from this reprint.
 The State Trading Concerns Act Amendment Act (No. 2) 1932 was repealed before it commenced by the Statute Law Revision Act 2006 s. 3(1).
-Defined Terms
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 41 had not come into operation. It reads as follows:
+41.State Trading Concerns Act 1916 amended
+(1) This section amends the State Trading Concerns Act 1916.
+(2) Delete section 8(2).
+(3) Delete section 26.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 accountable authority4A(1), 4B(1)
 appointed day26A(1), 26B(1), 26C(1)
 chief executive officer4B(1)
