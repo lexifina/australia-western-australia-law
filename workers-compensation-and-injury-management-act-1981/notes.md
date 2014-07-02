@@ -82,7 +82,12 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) | 31 of 2011 | 31 Aug 2011 | To be proclaimed (see s. 2(b))
-Footnote no longer applicable.
+Medicines and Poisons Act 2014 s. 191 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 191 had not come into operation. It reads as follows:
+191.Workers’ Compensation and Injury Management Act 1981 amended
+(1) This section amends the Workers’ Compensation and Injury Management Act 1981.
+(2) In section 5(1) delete the definition of drug of addiction and insert:
+drug of addiction has the meaning given in the Misuse of Drugs Act 1981 section 3(1);
 Under the Acts Amendment (ICWA) Act 1996 s. 31(2)(h), a reference to the State Government Insurance Corporation in a written law is, unless because of the context it would be inappropriate so to do, to be construed, or have effect, as if it had been amended to be a reference to the Insurance Commission of Western Australia.
 Repealed by the Industrial Relations (Consequential Provisions) Act 1998 (Cwlth). Now see Fair Work Act 2009 (Cwlth).
 The Workers’ Compensation Act Amendment Act (No. 2) 1977 s. 3 became operative on 28 Nov 1977.
