@@ -19,6 +19,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 | 24 of 2007 (as amended by No. 58 of 2010 s. 192(7)) | 12 Oct 2007 | To be proclaimed (see s. 2(2))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 21 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Medicines and Poisons Act 2014 s. 185 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 (as amended by the Acts Amendment (Fair Trading) Act 2010 s. 192(7)) had not come into operation. It reads as follows:
 83.Fair Trading Act 2010 amended
@@ -37,6 +38,13 @@ In Schedule 1 insert in alphabetical order:
 Road Traffic (Administration) Act 2008.
 Road Traffic (Authorisation to Drive) Act 2008.
 Road Traffic (Vehicles) Act 2012.
+On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 185 had not come into operation. It reads as follows:
+185.Fair Trading Act 2010 amended
+(1) This section amends the Fair Trading Act 2010.
+(2) In Schedule 1:
+(a) delete “Poisons Act 1964”;
+(b) insert in alphabetical order:
+Medicines and Poisons Act 2014
 ## Note — Australian Consumer Law (WA) text
 [This note is not part of the Fair Trading Act 2010 (the Act). Section 19(1) of the Act provides that the Australian Consumer Law text that, under section 19(2) of the Act, applies as the Australian Consumer Law (WA) consists of:
 (a)Schedule 2 to the Competition and Consumer Act 2010 (Commonwealth) (the Cwth Act), as in force on 1 January 2013 (but as modified by section 36 of the Act); and
