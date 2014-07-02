@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 March 2014 of the Health Professionals (Special Events Exemption) Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Health Professionals (Special Events Exemption) Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Health Professionals (Special Events Exemption) Act 2000 | 7 of 2000 | 14 Apr 2000 | 14 Apr 2000 (see s. 2)
@@ -19,6 +19,63 @@ Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep
 Health and Disability Services Legislation Amendment Act 2010 s. 58 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 24 | 35 of 2010 | 30 Aug 2010 | s. 77 and 78(1): 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6); s. 78(2): 1 Jul 2012 (see s. 2(b) and Gazette 19 Jun 2012 p. 2631)
 Reprint 2: The Health Professionals (Special Events Exemption) Act 2000 as at 7 Mar 2014 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Medicines and Poisons Act 2014 Pt. 11 Div. 2 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 Pt. 11 Div. 2 had not come into operation. It reads as follows:
+Division 2 — Health Professionals (Special Events Exemption) Act 2000 amended
+160.Act amended
+This Division amends the Health Professionals (Special Events Exemption) Act 2000.
+161.Section 3 amended
+(1) In section 3(1) delete the definitions of:
+drug of addiction
+restricted substance
+substance
+(2) In section 3(1) insert in alphabetical order:
+medicine has the meaning given in the Medicines and Poisons Act 2014 section 3;
+162.Section 8 amended
+In section 8(2):
+(a) delete “possess, use or supply a substance” and insert:
+administer, possess, prescribe or supply a medicine
+(b) delete “substance that may be lawfully possessed, used” and insert:
+medicine that may lawfully be administered, possessed, prescribed
+163.Section 9 replaced
+Delete section 9 and insert:
+9.Supply of medicines
+(1) The Minister may, by an order under section 6, authorise a person, or a class of persons, to supply a medicine —
+(a) in accordance with a prescription issued by a visiting health professional; or
+(b) to a visiting health professional as if the visiting health professional were a registered health professional of the like profession.
+(2) The Minister is not to make an order containing an authorisation referred to in subsection (1) unless —
+(a) the person or the class of persons authorised to supply the medicine is authorised under the Medicines and Poisons Act 2014 to supply the medicine to, or in accordance with a prescription issued by, a registered health professional of the like profession; and
+(b) the Minister is satisfied that adequate arrangements are in place to ensure that the medicines concerned will only be used in connection with the provision of health services that are authorised under this Act.
+(3) An order under section 6 may impose conditions on any authorisation referred to in this section that is conferred by the order.
+164.Section 11 amended
+(1) In section 11(1):
+(a) delete “Poisons Act 1964,” and insert:
+Medicines and Poisons Act 2014,
+(b) delete paragraphs (b) and (c) and insert:
+(b) administering, possessing, prescribing or supplying a medicine in the course of providing those authorised health care services where the medicine is —
+(i) lawfully imported or lawfully obtained in Australia by the visiting health professional; and
+(ii) a medicine that may lawfully be administered, possessed, prescribed or supplied by a registered health professional of the like profession;
+or
+(c) after each of paragraphs (a) and (d) insert:
+or
+(2) In section 11(2):
+(a) delete “Poisons Act 1964” and insert:
+Medicines and Poisons Act 2014
+(b) delete “substance” and insert:
+medicine
+(3) Delete section 11(3) and insert:
+(3) A person does not commit an offence under the Medicines and Poisons Act 2014 or the Misuse of Drugs Act 1981 for supplying a medicine in accordance with a prescription issued by a visiting health professional if —
+(a) the visiting health professional is authorised under this Act to issue the prescription; and
+(b) the person is authorised under this Act to supply the medicine in accordance with such a prescription; and
+(c) the supply would be lawful under the Medicines and Poisons Act 2014 if the prescription had been issued by a registered health professional of the like profession.
+(4A) A person does not commit an offence under the Medicines and Poisons Act 2014 or the Misuse of Drugs Act 1981 for supplying a medicine to a visiting health professional if —
+(a) the person is authorised under this Act to supply the medicine; and
+(b) the supply would be lawful under the Medicines and Poisons Act 2014 if the visiting health professional were a registered health professional of the like profession.
+(4) In section 11(4) delete “(2) or (3)” and insert:
+(2), (3) or (4A)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
