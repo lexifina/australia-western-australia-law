@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 18 January 2013 of the Commercial Tenancy (Retail Shops) Agreements Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Commercial Tenancy (Retail Shops) Agreements Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Commercial Tenancy (Retail Shops) Agreements Act 1985 | 43 of 1985 | 13 May 1985 | s. 1 and 2: 13 May 1985; Act other than s. 1 and 2: 1 Sep 1985 (see s. 2 and Gazette 30 Aug 1985 p. 3065)
@@ -22,6 +22,10 @@ Acts Amendment (Justice) Act 2008 Pt. 4 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 
 Small Business and Retail Shop Legislation Amendment Act 2011 Pt. 3 | 20 of 2011 | 11 Jul 2011 | 24 Mar 2012 (see s. 2(b) and Gazette 23 Mar 2012 p. 1363)
 Commercial Tenancy (Retail Shops) Agreements Amendment Act 2011 | 59 of 2011 | 14 Dec 2011 | s. 1 and 2: 14 Dec 2011 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2013 (see s. 2(b) and Gazette 30 Nov 2012 p. 5773)
 Reprint 4: The Commercial Tenancy (Retail Shops) Agreements as at 18 Jan 2013 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Statutes (Repeals and Minor Amendments) Act 2014 s. 14 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 The Commercial Tenancy (Retail Shops) Agreements Amendment Act 1990 s. 22 reads as follows:
 22.Saving and transitional
 (1) Subject to subsection (2), an amendment made to the principal Act by a provision of this Act does not apply to or in relation to a retail shop lease entered into before the day on which that provision comes into operation and the provisions of the principal Act as in force prior to the coming into operation of that provision shall continue to apply to and in relation to any such lease as if this Act had not been passed.
@@ -52,6 +56,12 @@ applies to and in relation to an existing lease and a new lease.
 The Taxation Administration (Consequential Provisions) Act 2002 s. 3 and 4 and Pt. 4 are transitional provisions that are of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 29 is a transitional provision.
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 14 had not come into operation. It reads as follows:
+14.Commercial Tenancy (Retail Shops) Agreements Act 1985 amended
+(1) This section amends the Commercial Tenancy (Retail Shops) Agreements Act 1985.
+(2) In section 3 in the definition of accountant delete paragraphs (b) and (c) and insert:
+(b)CPA Australia Ltd; or
+(c)the Institute of Public Accountants;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
