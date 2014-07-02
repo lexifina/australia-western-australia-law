@@ -29,6 +29,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 12 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Statutes (Repeals and Minor Amendments) Act 2014 s. 20 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Strata Titles Act 1985.
 Repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010.
 The Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 was part of a legislative exercise in which the regulation of credit and certain other transactions was referred to the Commonwealth. As part of that exercise the National Consumer Credit Protection Act 2009 (Cwlth), which contains the National Credit Code, was adopted in WA on 1 July 2010.
@@ -47,9 +48,14 @@ This Division amends the Credit Act 1984.
 73.Section 5 amended
 In section 5(1) in the definition of commercial vehicle paragraph (a) delete “within the meaning of the Road Traffic Act 1974,” and insert:
 as defined in the Road Traffic (Administration) Act 2008 section 4,
-Defined Terms
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 20 had not come into operation. It reads as follows:
+20.Credit Act 1984 amended
+(1) This section amends the Credit Act 1984.
+(2) In section 19B(2)(a) and (b) delete “[reference date],” and insert:
+1 July 2010,
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 acceptable rate of interest5(1)
 account charge5(1)
 accrued credit charge5(1)
