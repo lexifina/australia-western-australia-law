@@ -12,7 +12,7 @@ $500 001 and upwards | $19 665 + $5.15 per $100.00 or part of $100.00 above $500
 [Heading amended by No. 30 of 2008 s. 28.]
 Concessional transaction | Dutiable value | Concessional rate of duty
 s. 143 First home owners
-If the property includes a home | $0 — $500 000 $500 001 — $600 000 | Nil $22.51 per $100.00 or part of $100.00 above $500 000
+If the property includes a home | $0 — $430 000 $430 001 — $530 000 | Nil $19.19 per $100.00 or part of $100.00 above $430 000
 If the property does not include a home | $0 — $300 000 $300 001 — $400 000 | Nil $13.01 per $100.00 or part of $100.00 above $300 000
 s. 147E Residential property | $0 — $120 000 | $1.90 per $100.00 or part of $100.00
  | $120 001 — $150 000 | $2 280 + $2.85 per $100.00 or part of $100.00 above $120 000
@@ -20,6 +20,6 @@ s. 147E Residential property | $0 — $120 000 | $1.90 per $100.00 or part of $1
  | $360 001 — $725 000 | $11 115 + $4.75 per $100.00 or part of $100.00 above $360 000
  | $725 001 and upwards | $28 453 + $5.15 per $100.00 or part of $100.00 above $725 000
 s. 147 Residential or business property | $0 — $100 000 $100 001 — $200 000 | $1.50 per $100.00 or part of $100.00 $1 500 + $4.39 per $100.00 or part of $100.00 above $100 000
-[Division 2 amended by No. 30 of 2008 s. 28.]
+[Division 2 amended by No. 30 of 2008 s. 28; No. 15 of 2014 s. 5.]
 ## Division 3 — Nominal duty
 The amount of nominal duty is $20.00.
