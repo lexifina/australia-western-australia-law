@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 January 2013 of the Electoral Act 1907 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electoral Act 1907 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electoral Act 1907 | 27 of 1907 (7 Edw. VII No. 27) | 20 Dec 1907 | 1 Mar 1908 (see s. 2)
@@ -98,10 +98,12 @@ Reprint 15: The Electoral Act 1907 as at 23 Jul 2010 (includes amendments listed
 Electoral and Constitution Amendment Act 2011 Pt. 2 | 49 of 2011 | 11 Nov 2011 | 21 Dec 2011 (see s. 2(b) and Gazette 20 Dec 2011 p. 5373)
 Electoral Amendment Act 2012 | 35 of 2012 | 5 Nov 2012 | s. 1 and 2: 5 Nov 2012 (see s. 2(a)); Act other than s. 1 and 2: 5 Dec 2012 (see s. 2(b) and Gazette 4 Dec 2012 p. 5907)
 Reprint 16: The Electoral Act 1907 as at 11 Jan 2013 (includes amendments listed above)
+Electoral Amendment Act 2014 Pt. 2 | 14 of 2014 | 2 Jul 2014 | 3 Jul 2014 (see s. 2(b))
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Statutes (Repeals and Minor Amendments) Act 2014 s. 11 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 Sch. 1 Part 2. Now see the Australian Citizenship Act 2007 (Cwlth).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 15.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
@@ -128,7 +130,7 @@ by reason only of not being an Australian citizen as defined in the Electoral Ac
 by reason only of not being an Australian citizen as defined in the Electoral Act 1907 section 4(1).
 (4) In subsections (2) and (3) —
 commencement means the coming into operation of this section.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
 75.Various provisions repealed
 The provisions listed in the Table to this section are repealed.
 Table of provisions repealed
@@ -136,6 +138,16 @@ Act | Provision
 ……………………….. | …….
 Electoral Act 1907 | s. 5E(2)
 ……………………….. | …….
+On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 11 had not come into operation. It reads as follows:
+11.Electoral Act 1907 amended
+(1) This section amends the Electoral Act 1907.
+(2) In section 59(1) delete the definition of secretary, Mentally Impaired Accused Review Board.
+(3) In section 59(1) insert in alphabetical order:
+registrar, MIARB means the registrar of the Mentally Impaired Accused Review Board established under the Criminal Law (Mentally Impaired Accused) Act 1996;
+(4) In section 59(1) in the definition of required information delete “sex;” and insert:
+sex.
+(5) In section 59(2)(b) and (3)(b) delete “secretary, Mentally Impaired Review Board” and insert:
+registrar, MIARB
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -211,6 +223,7 @@ infringement notice155AB
 input tax credit175LG(2)
 issuing officer90(2)
 journal175
+Land Information Authority16A
 large district allowance16G(4)
 member62C(1)
 mentally impaired accused59(1)
