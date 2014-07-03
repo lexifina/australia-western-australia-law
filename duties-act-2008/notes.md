@@ -18,6 +18,7 @@ Duties Legislation Amendment Act 2013 Pt. 2 Div. 2 | 5 of 2013 | 29 Jun 2013 | 2
 Reprint 2: The Duties Act 2008 as at 9 Aug 2013 (includes amendments listed above)
 Revenue Laws Amendment Act 2013 Pt. 2 Div. 1 | 10 of 2013 | 24 Sep 2013 | 25 Sep 2013 (see s. 2(b))
 Electronic Conveyancing Act 2014 Pt. 6 | 2 of 2014 | 24 Mar 2014 | 3 Jun 2014 (see s. 2(c) and Gazette 30 May 2014 p. 1679)
+Revenue Laws Amendment Act 2014 Pt. 2 | 15 of 2014 | 2 Jul 2014 | 3 Jul 2014 (see s. 2(c)(i))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
