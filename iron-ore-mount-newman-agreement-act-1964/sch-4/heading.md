@@ -1,6 +1,6 @@
 ## Fourth Schedule — Third Variation Agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 51 of 1990 s. 6; amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 12th day of July 1990 BETWEEN: THE HONOURABLE CARMEN MARY LAWRENCE, B.Psych., Ph.D., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and instrumentalities thereof from time to time (hereinafter called “the State”) of the one part AND PILBARA IRON LIMITED a company incorporated in the State of Western Australia, BHP MINERALS LIMITED a company incorporated in the State of Western Australia, MITSUI-C. ITOH IRON PTY. LTD. a company incorporated in the State of Western Australia and CI MINERALS AUSTRALIA PTY. LTD. a company incorporated in the State of Western Australia of the other part.
 WHEREAS:
 (a)the State and the other parties hereto (pursuant to certain assignments and Deeds of Covenant and the release of Mt. Newman Iron Ore Company Limited pursuant to clause 19(2) of the Principal Agreement as hereinafter defined) are now the parties to the agreement dated the 26th day of August 1964 (hereinafter called “the 1964 Agreement”) which agreement was approved by and is scheduled to the Iron Ore (Mount Newman) Agreement Act 1964 and has been varied by —
@@ -127,4 +127,4 @@ THE COMMON SEAL of PILBARA IRON LIMITED was hereunto affixed by authority of the
 THE COMMON SEAL of BHP MINERALS LIMITED was hereunto affixed by authority of the Board of Directors: Director D. J. WOOD Secretary G. J. HEATH |  | [C.S.]
 THE COMMON SEAL of MITSUI-C. ITOH IRON PTY. LTD. was hereunto affixed by authority of the Board of Directors in the presence of: Director T. SUZUKI Secretary J. MacKENZIE |  | [C.S.]
 THE COMMON SEAL of CI MINERALS AUSTRALIA PTY. LTD. was hereunto affixed by authority of the Board of Directors in the presence of: Director M. YAMAMOTO Secretary M. L. APPLEBEE |  | [C.S.]
-[Fourth Schedule inserted by No. 51 of 1990 s. 6.]
+[Fourth Schedule inserted: No. 51 of 1990 s. 6.]

@@ -1,6 +1,6 @@
 ## Fifth Schedule — Fourth Variation Agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 8 of 1994 s. 6; amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 30th day of November 1993
 B E T W E E N:
 THE HONOURABLE RICHARD FAIRFAX COURT, B.Com., M.L.A. Premier of the State of Western Australia, acting for and on behalf of the said State and instrumentalities thereof from time to time (hereinafter called “the State”) of the one part
@@ -59,4 +59,4 @@ SecretaryP KATAVATIS
 THE COMMON SEAL of CI MINERALS AUSTRALIA PTY. LTD. was hereunto affixed by authority of the Board of Directors in the presence of: | ) ) ) )
 DirectorY KOWATA
 SecretaryM APPELBEE
-[Fifth Schedule inserted by No. 8 of 1994 s. 6.]
+[Fifth Schedule inserted: No. 8 of 1994 s. 6.]
