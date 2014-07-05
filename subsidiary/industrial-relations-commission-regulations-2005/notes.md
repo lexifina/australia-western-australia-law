@@ -18,6 +18,7 @@ Industrial Relations Commission Amendment Regulations (No. 3) 2009 | 22 Dec 2009
 Industrial Relations Commission Amendment Regulations 2010 | 9 Jul 2010 p. 3239-40 | r. 1 and 2: 9 Jul 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jul 2010 (see r. 2(b) and Gazette 13 Jul 2010 p. 3291)
 Industrial Relations Commission Amendment Regulations (No. 2) 2010 | 12 Oct 2010 p. 5153-5 | r. 1 and 2: 12 Oct 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Oct 2010 see r. 2(b))
 Industrial Relations Commission Amendment Regulations 2012 | 16 Mar 2012 p. 1252-5 | r. 1 and 2: 16 Mar 2012 (see r. 2(a)); Regulations other than r. 1, 2, 6 and 7: 17 Mar 2012 (see r. 2(c)); r. 6 and 7: 1 Apr 2012 (see r. 2(b) and Gazette 16 Mar 2012 p. 1246)
+Industrial Relations Commission Amendment Regulations 2014 | 4 Jul 2014 p. 2389-417 | r. 1 and 2: 4 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jul 2014 (see r. 2(b))
 The specified commencement date of 1 Jul 2008 in the Industrial Relations Commission Amendment Regulations (No. 2) 2008 cannot override s. 25(3) of the Interpretation Act 1984. These regulations came into operation (ie. 1 Aug 2008) when the Owner-Drivers (Contracts and Disputes) Act 2007 Sch. 3 cl. 1 came into operation.
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
