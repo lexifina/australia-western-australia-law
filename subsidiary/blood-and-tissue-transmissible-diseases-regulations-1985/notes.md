@@ -11,13 +11,8 @@ Reprint of the Blood and Tissue (Transmissible Diseases) Regulations 1985 as at 
 Blood and Tissue (Transmissible Diseases) Amendment Regulations 2010 | 22 Jun 2010 p. 2769-71 | r. 1 and 2: 22 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jul 2010 (see r. 2(b))
 Blood and Tissue (Transmissible Diseases) Amendment Regulations 2011 | 1 Apr 2011 p. 1177 | r. 1 and 2: 1 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2011 (see r. 2(b))
 Blood and Tissue (Transmissible Diseases) Amendment Regulations 2012 | 22 May 2012 p. 2163-6 | r. 1 and 2: 22 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Blood and Tissue (Transmissible Diseases) Amendment Regulations 2014 r. 3 and 4 | 6 Jun 2014 p. 1788-9 | 6 Jul 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, the Blood and Tissue (Transmissible Diseases) Amendment Regulations 2014 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Blood and Tissue (Transmissible Diseases) Regulations 1985.
-4.Schedule 1 amended
-In Schedule 1 delete “swollen glands and a rash,” and insert:
-both a rash AND swollen glands,
+Blood and Tissue (Transmissible Diseases) Amendment Regulations 2014 | 6 Jun 2014 p. 1788-9 | r. 1 and 2: 6 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jul 2014 (see r. 2(b))
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+blood2(1)

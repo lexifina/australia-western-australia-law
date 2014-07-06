@@ -11,7 +11,7 @@ To the best of your knowledge, have you ever:
 3.Had treatment with clotting factors such as Factor VIII or Factor IX? | ⁯ Yes⁯ No
 4.Had a test which showed you had hepatitis B, hepatitis C, HIV or HTLV? | ⁯ Yes⁯ No
 In the last 12 months have you:
-5.Had an illness with swollen glands and a rash, with or without a fever? | ⁯ Yes⁯ No
+5.Had an illness with both a rash AND swollen glands, with or without a fever? | ⁯ Yes⁯ No
 6.Engaged in sexual activity with someone you might think would answer “yes” to any of questions 1-5? | ⁯ Yes⁯ No
 7.Had sexual activity with a new partner who currently lives or who has previously lived overseas? | ⁯ Yes⁯ No
 8.Had sex (with or without a condom) with a man who you think may have had oral or anal sex with another man? | ⁯ Yes⁯ No
@@ -38,4 +38,4 @@ Date of birth: | Signature:
 Signature: | Date:
 Date: | Time:
  | Donation number:
-[Schedule 1 inserted in Gazette 22 May 2012 p. 2164-6.]
+[Schedule 1 inserted in Gazette 22 May 2012 p. 2164-6; amended in Gazette 6 Jun 2014 p. 1789.]
