@@ -7,17 +7,17 @@ I, .........................................................................., a
 (1)has been professionally and continuously employed with me in the practice of land surveying from ........................ to ........................... that is to say, for a period of ............. years and .................. months;
 (2)has, during the said period, gained the following experience —
  | Length of time (in weeks) over which candidate has obtained practical experience under professional training agreement
-Nature of practical experience obtained by candidate | Office experience | Field experience as a general assistant | Field experience as an instrument operator | Field experience as a party leader | Total experience obtained
-Land boundary surveys
-in urban areas
-in rural areas
-Engineering surveys
-Typographical surveys
-Mining surveys
-Control surveys
-Other Surveys
-......................... .........................
-Total experience obtained
+ | Nature of practical experience obtained by candidate | Office experience | Field experience as a general assistant | Field experience as an instrument operator | Field experience as a party leader | Total experience obtained
+ | Land boundary surveys
+ | in urban areas
+ | in rural areas
+ | Engineering surveys
+ | Typographical surveys
+ | Mining surveys
+ | Control surveys
+ | Other Surveys
+ | ......................... .........................
+ | Total experience obtained
 Dated at ..................... this .............................. day of ............................... 20.......
 .....................................................................
 Licensed Surveyor.
