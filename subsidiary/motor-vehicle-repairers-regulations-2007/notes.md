@@ -16,6 +16,19 @@ Motor Vehicle Repairers Amendment Regulations 2012 | 15 Jun 2012 p. 2595-8 | r. 
 Motor Vehicle Repairers Amendment Regulations (No. 3) 2013 | 27 Jun 2013 p. 2697-700 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Motor Vehicle Repairers Amendment Regulations (No. 2) 2013 | 20 Aug 2013 p. 3838 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Motor Vehicle Repairers Amendment Regulations (No. 3) 2014 | 17 Jun 2014 p. 1970-3 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Motor Vehicle Repairers Amendment Regulations 2014 r. 3-5 | 15 Jul 2014 p. 2462-3 | 1 Aug 2014 (see r. 2(b))
+On the date as at which this compilation was prepared, the Motor Vehicle Repairers Amendment Regulations 2014 r. 3-5 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Motor Vehicle Repairers Regulations 2007.
+4.Regulation 7A amended
+Delete regulation 7A(1)(c)(i) and insert:
+(i) $165; and
+5.Regulation 7F amended
+Delete regulation 7F(1)(a) and insert:
+(a) $165; and
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
