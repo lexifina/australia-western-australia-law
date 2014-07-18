@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Waterways Conservation Act 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 18 July 2014 of the Waterways Conservation Act 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Waterways Conservation Act 1976 | 131 of 1976 | 9 Dec 1976 | s. 1-3, 14, 16-20: 25 Mar 1977 (see s. 2 and Gazette 25 Mar 1977 p. 829); balance: 22 Jul 1977 (see s. 2 and Gazette 22 Jul 1977 p. 2335)
+Waterways Conservation Act 1976 | 131 of 1976 | 9 Dec 1976 | s. 1-3, 14 and 16-20: 25 Mar 1977 (see s. 2 and Gazette 25 Mar 1977 p. 829); Act other than s. 1-3, 14 and 16-20: 22 Jul 1977 (see s. 2 and Gazette 22 Jul 1977 p. 2335)
 Waterways Conservation Amendment Act 1980 | 16 of 1980 | 15 Oct 1980 | 12 Nov 1980
 Waterways Conservation Amendment Act 1982 | 97 of 1982 | 22 Nov 1982 | 22 Nov 1982
 Acts Amendment and Repeal (Disqualification for Parliament) Act 1984 s. 22 | 78 of 1984 | 14 Nov 1984 | 1 Jul 1985 (see s. 2 and Gazette 17 May 1985 p. 1671)
@@ -22,25 +22,24 @@ Reprint of the Waterways Conservation Act 1976 as at 1 Mar 1996 (includes amendm
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Acts Amendment (Land Administration) Act 1997 Pt. 66 and s. 141 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
 Statutes (Repeals and Minor Amendments) Act 1997 s. 127 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
-Criminal Investigation (Identifying People) Act 2002 s. 96 | 6 of 2002 | 4 Jun 2002 | 29 Jun 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
+Criminal Investigation (Identifying People) Act 2002 Sch. 2 cl. 6 | 6 of 2002 | 4 Jun 2002 | 29 Jun 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
 Reprint of the Waterways Conservation Act 1976 as at 20 Sep 2002 (includes amendments listed above)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 134 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 179 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 3: The Waterways Conservation Act 1976 as at 6 Apr 2007 (includes amendments listed above except those in the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006)
 Petroleum Amendment Act 2007 s. 108 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Water Resources Legislation Amendment Act 2007 Pt. 8 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 39 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
+Reprint 4: The Waterways Conservation Act 1976 as at 18 Jul 2014 (includes amendments listed above)
 Repealed by the Interpretation Act 1984.
 Repealed by the Mining Act 1978.
 Repealed by the Petroleum (Submerged Lands) Act 1982.
-Repealed by the Industrial Relations Act 1979.
-Foot note no longer applicable.
+The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
 The Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 189, 201, 202, 204, 207, 208 and 209-219 read as follows:
-“
 Part 14 — Transitional provisions
 Division 1 — Preliminary
 189.Definitions
@@ -167,6 +166,38 @@ The operation of any provision of this Part is not to be regarded —
 (c) as giving rise to any remedy by a party to an instrument or as causing or permitting the termination of any instrument, because of a change in the beneficial or legal ownership of any asset, right or liability;
 (d) as causing any contract or instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
-”.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+associated land3(1)
+by-law3(1)
+CEO3(1)
+confidential information79(3)
+Department3(1)
+department76(8), 77(8)
+development control area3(1)
+discharge3(1)
+employing authority76(8), 77(8)
+ferry or charter vessel48(5a)
+former Board3(1)
+function3(1)
+honorary warden3(1)
+industrial3(1)
+inspector3(1)
+Land Administration Minister32(3)
+management area3(1)
+management order32(2)
+management programme3(1)
+organisation76(8), 77(8)
+pollution3(1)
+public authority3(1)
+relevant bodies12(3)
+Riverpark3(1)
+section3(1)
+sewage3(1)
+specified55(3)
+standard3(1)
+waste3(1)
+waters3(1)
+working plan3(1)
