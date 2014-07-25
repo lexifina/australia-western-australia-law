@@ -1,6 +1,6 @@
 ## Schedule 1 — Quantities of dangerous goods
 [r. 68, 69(1) and 78(1)]
-1.For the purposes of the Table below, the Placarding Quantity or Manifest Quantity is equal to the total of the quantities determined in accordance with regulation 12.
+1.For the purposes of the Table below, the placarding quantity or manifest quantity is equal to the total of the quantities determined in accordance with regulation 12.
 2.In the Table below —
 kg or L means, where this combination of letters immediately follows numbers, the combined total of —
 (a)the number of kilograms of non-liquid dangerous goods; and
