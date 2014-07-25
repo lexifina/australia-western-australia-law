@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 25 July 2014 of the Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 | 31 Dec 2007 p. 6777-892 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2 and Pt. 5 Div. 1: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669); Pt. 5 Div. 1: 1 Mar 2009 (see r. 2(c) and Gazette 29 Feb 2008 p. 669)
@@ -10,7 +10,10 @@ Dangerous Goods Safety (Storage and Handling of Non-explosives) Amendment Regula
 Reprint 1: The Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 as at 24 Aug 2012 (includes amendments listed above)
 DGS (Storage and Handling of Non-explosives) Amendment Regulations (No. 3) 2012 | 19 Feb 2013 p. 990-1 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
 Dangerous Goods Safety (Storage and Handling of Non explosives) Amendment Regulations 2013 | 2 Dec 2013 p. 5517-65 | r. 1 and 2: 2 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
+Reprint 2: The Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 as at 25 Jul 2014 (includes amendments listed above)
 Repealed by the Safe Work Australia (Consequential and Transitional Provisions) Act 2008 Sch. 1 (Cwlth). Now see the Safe Work Australia Act 2008 (Cwlth).
+Commenced on 1 January 2014.
+Repealed by the Dangerous Goods Safety (Goods in Ports) Repeal Regulations 2013.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -30,7 +33,7 @@ capacity4
 class4
 class label4
 combustible liquid4
-commencement daySch. 6, cl. 1, cl. 6, cl. 10
+commencement daySch. 6 cl. 1, Sch. 6 cl. 6, Sch. 6 cl. 10
 compatible4
 consignor134
 consumer container4
@@ -74,7 +77,7 @@ ignition source4
 IMDG Code4
 IMDG compliant135D(1), 135D(3)
 importer16
-kg or LSch. 1, cl. 1(2)
+kg or LSch. 1, Sch. 5 cl. 1(2)
 label4
 level 1 fine4
 level 2 fine4
@@ -102,12 +105,12 @@ port134
 port area134
 proper shipping name4
 proposed action40(1), 103(1)
-redSch. 4, cl. 2(3)
+redSch. 4 cl. 2(3)
 registration87
 registration application87
 relevant dangerous goods70(1)
 relevant sign69(1), 70(1)
-repealed regulationsSch. 6, cl. 1
+repealed regulationsSch. 6 cl. 1
 risk assessment4
 risk control measures4
 rural dangerous goods location4
@@ -115,14 +118,14 @@ small quantity dangerous goods location4
 special berth (non-explosives)134
 stabiliser53(1)
 storage area25(1A)
-storage locationSch. 3, cl. 1
+storage locationSch. 3 cl. 1
 storage or handling system4
 submission date40(2), 103(2)
 subsidiary risk4
 subsidiary risk label4
 sufficient evidence135M(1)
 supplier16
-threshold amountSch. 6, cl. 12(2)
+threshold amountSch. 6 cl. 12(2)
 UN Number4
 underground storage or handling system4
 UNTC4
