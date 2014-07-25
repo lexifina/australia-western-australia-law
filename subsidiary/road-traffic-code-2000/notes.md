@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic Code 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 25 July 2014 of the Road Traffic Code 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic Code 2000 | 4 Aug 2000 p. 4213-538 | 1 Dec 2000 (see r. 2)
@@ -47,6 +47,7 @@ Road Traffic Code Amendment Regulations (No. 2) 2011 | 30 Aug 2011 p. 3517-18 | 
 Road Traffic Code Amendment Regulations 2013 | 12 Apr 2013 p. 1533-9 | r. 1 and 2: 12 Apr 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Apr 2013 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 2) 2013 | 31 Dec 2013 p. 6562-70 | r. 1 and 2: 31 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2014 (see r. 2(b))
 Road Traffic Code Amendment Regulations 2014 | 4 Apr 2014 p. 885-6 | r. 1 and 2: 4 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Apr 2014 (see r. 2(b))
+Reprint 4: The Road Traffic Code 2000 as at 25 Jul 2014 (includes amendments listed above)
 Repealed by the Dangerous Goods Safety Act 2004.
 Repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
@@ -55,9 +56,9 @@ Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in 
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Road Traffic Code Amendment Regulations (No. 4) 2000 r. 5 is not included because of an error in the reference to the provision to be amended.
 The commencement date of 1 Oct 2007 that was specified in r. 2(b) was before the date of gazettal.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 abreast216(6)
 accredited pilot3(1)
 ACROD sticker3(1)
@@ -71,7 +72,7 @@ articulated vehicle3(1)
 AS/NZS:1754 1995230
 authorised body3(1)
 authorised person3(1)
-B double110(1)
+B-double110(1)
 B light3(1)
 B lights3(1)
 bicycle3(1)
@@ -99,7 +100,7 @@ child restraint230
 child safety harness230
 children’s crossing3(1)
 combination3(1)
-commercial operator or operator230A
+commercial operator230A
 continuing road3(1)
 continuous dividing line176(12)
 dangerous goods184(4)
@@ -155,9 +156,8 @@ medical practitioner230
 mobile phone265(1)
 moped79(2), 130(5)
 motor break-down service vehicle288A(1)
-motor cycle3(1), 130(5)
+motor cycle3(1), 130(5), 246A(1), 246B(1)
 motor vehicle3(1)
-motor cycle246A(1), 246B(1)
 motorised scooter3(1)
 motorised wheelchair3(1)
 nature strip3(1)
@@ -167,6 +167,7 @@ no stopping area3(1)
 obstruction3(1)
 omnibus230
 one-way carriageway3(1)
+operator 230A
 oversize3(1)
 painted island3(1)
 park3(1)
@@ -184,7 +185,7 @@ placard load184(4)
 postal vehicle3(1)
 primary brake90(3)
 produced230
-protective helmet209A(1), 222(1), 222A(1), 223A(1), 223(3), 230A, 244(1)
+protective helmet209A(1), 222(1), 223A(1), 223(3), 230A, 244(1)
 public bus3(1), 59(2)
 public holiday3(3)
 rear fog light3(1)
@@ -224,16 +225,16 @@ stop line3(1)
 stop sign3(1)
 suitable child restraint230
 suitable child safety harness230
-supervised tour230A, 230L
+supervised tour230A, 230L(1)(a)
+T-intersection3(1)
 taxi3(1)
 taxi zone3(1)
 terminating road3(1)
-T-intersection3(1)
 to become dislodged from257(5)
 tow truck3(1)
+traffic-control signal3(1)
 traffic island3(1)
 traffic sign3(1)
-traffic-control signal3(1)
 trailer3(1)
 train3(1)
 transit lane3(1)
@@ -249,11 +250,11 @@ turning right34(2) and (3)
 turning right from the continuing road into the terminating road56(7)
 two-up driver230
 two-way carriageway3(1)
+unattended141(2), 163(2)
+unrestrained235A(1)
 use265(1)
 U turn3(1)
-unattended141(2), 163(2)
-unrestrained,235A(1)
-vehicle3(1)
+vehicle3(1), 110(2) and (3)
 Vehicle Standards3(1)
 weekend3(1)
 wheeled recreational device3(1)
