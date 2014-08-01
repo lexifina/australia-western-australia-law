@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Taxation Administration Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 August 2014 of the Taxation Administration Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Taxation Administration Regulations 2003 | 27 Jun 2003 p. 2419-22 | 1 Jul 2003 (see r. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -21,82 +21,13 @@ Taxation Administration Amendment Regulations 2011 | 9 Sep 2011 p. 3685-6 | r. 1
 Taxation Administration Amendment Regulations 2012 | 18 Dec 2012 p. 6597-8 | r. 1 and 2: 18 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2012 (see r. 2(b))
 Taxation Administration Amendment Regulations (No. 2) 2013 | 17 May 2013 p. 1985 | r. 1 and 2: 17 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 May 2013 (see r. 2(b))
 Taxation Administration Amendment Regulations 2013 | 17 Dec 2013 p. 6240-1 | r. 1 and 2: 17 Dec 2013 (see r. 2(a)); r. 3 and 8: 18 Dec 2013 (see r. 2(b)); r. 4-7: 1 Jan 2014 (see r. 2(c))
-Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. R. 1-4 and Pt. 7 Div. 2 of those regulations read as follows:
-1.Citation
-These regulations are the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
-2.Commencement
-These regulations come into operation on the day on which the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007 comes into operation.
-3.When certain modifications have effect
-(1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
-(2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes Administration) Regulations 2002 Part 5 to the extent of any inconsistency.
-Note:Modifications prescribed for the purposes of section 7(2) of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Gazette, see section 7(3) of the Act.
-4.Modification of State taxing laws
-(1) For the purposes of section 7(2) of the Act, each State taxing law is taken to be modified to the extent necessary to give effect to subregulation (2).
-(2) If —
-(a) a State taxing law applies, or could apply, to any extent, to or in relation to an event, state of affairs or transaction, and the corresponding applied law also applies, or could apply, to any extent, to or in relation to the same event, state of affairs or transaction; and
-(b) a person is required or permitted, or could be required or permitted, to take an action under both the State taxing law and the corresponding applied law in relation to the event, state of affairs or transaction; and
-(c) the person has taken the action in accordance with the corresponding applied law; and
-(d) the Commissioner of State Revenue has sufficient information about the event, state of affairs or transaction to carry out his or her functions in relation to it under the State taxing law or the corresponding applied law or both, as the case requires,
-then —
-(e) the person is not required to take the action under the State taxing law; and
-(f) the Commissioner may carry out his or her functions in relation to the event, state of affairs or transaction as if the person had taken whatever action is required or permitted under the State taxing law in relation to the event, state of affairs or transaction.
-(3) The particular modifications set out in these regulations of certain State taxing laws have effect for the purposes of section 7(2) of the Act.
-Part 7 — Taxation administration
-Division 2 — The Taxation Administration Regulations 2003
-51.Modification of the Taxation Administration Regulations 2003
-This Division sets out modifications of the Taxation Administration Regulations 2003 in their application as a law of Western Australia.
-52.Regulation 2A inserted
-After regulation 2 the following regulation is inserted —
-“
-2A.Application of regulations in non-Commonwealth places
-(1)In these regulations, unless the contrary intention appears —
-(a)a reference to these regulations is to be read as a reference to these regulations in their application as a law of Western Australia; and
-(b)a reference to the Act is to be read as a reference to the Act in its application as a law of Western Australia.
-(2)These regulations are to be read with the applied Taxation Administration Regulations as a single body of law.
-(3)In these regulations —
-applied Taxation Administration Regulations means the Taxation Administration Regulations 2003 of Western Australia in their application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Act.
-”.
-Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007. R. 1-5 and Pt. 7 Div. 2 of that notice read as follows:
-1.Citation
-This notice is the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
-2.Commencement
-This notice comes into operation on the day after the day on which it is registered under the Legislative Instruments Act 2003 of the Commonwealth.
-3.When certain modifications have effect
-(1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
-(2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2002 Part 5 to the extent of any inconsistency.
-Note:Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
-4.Definitions
-In this notice —
-applied WA law means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
-Commissioner of State Revenue means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
-Commonwealth Mirror Taxes Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
-5.Modification of applied WA laws
-(1) For the purposes of the Commonwealth Mirror Taxes Act section 8, each applied WA law is taken to be modified to the extent necessary to give effect to subclause (2).
-(2) If —
-(a) an applied WA law applies, or could apply, to any extent, to or in relation to an event, state of affairs or transaction, and the corresponding State taxing law also applies, or could apply, to any extent, to or in relation to the same event, state of affairs or transaction; and
-(b) a person is required or permitted, or could be required or permitted, to take an action under both the applied WA law and the corresponding State taxing law in relation to the event, state of affairs or transaction; and
-(c) the person has taken the action in accordance with the corresponding State taxing law; and
-(d) the Commissioner of State Revenue has sufficient information about the event, state of affairs or transaction to carry out his or her functions in relation to it under the applied WA law or the corresponding State taxing law or both, as the case requires,
-then —
-(e) the person is not required to take the action under the applied WA law; and
-(f) the Commissioner may carry out his or her functions in relation to the event, state of affairs or transaction as if the person had taken whatever action is required or permitted under the applied WA law in relation to the event, state of affairs or transaction.
-(3) The particular modifications set out in this notice of certain applied WA laws have effect for the purposes of the Commonwealth Mirror Taxes Act section 8.
-Part 7 — Taxation administration
-Division 2 — The applied Taxation Administration Regulations 2003
-61.Modification of the applied Taxation Administration Regulations 2003
-This Division sets out modifications of the Taxation Administration Regulations 2003 of Western Australia in their application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia.
-62.Regulation 2A inserted
-After regulation 2 the following regulation is inserted —
-“
-2A.Application of regulations in Commonwealth places
-(1) In this regulation —
-corresponding Taxation Administration Regulations means the Taxation Administration Regulations 2003 of Western Australia in their application as a law of Western Australia.
-(2) In these regulations —
-(a) a reference to these regulations is to be read as a reference to these regulations in their application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act; and
-(b) a reference to the Act or the Taxation Administration Act 2003 is to be read as a reference to the Taxation Administration Act 2003 of Western Australia in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act.
-(3) These regulations are to be read with the corresponding Taxation Administration Regulations as a single body of law.
-(4) In addition to being modified as prescribed by the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007, these regulations are deemed to be further modified to any extent that is necessary or convenient to enable these regulations to operate effectively as a law of the Commonwealth.
-”.
+Reprint 3: The Taxation Administration Regulations 2003 as at 1 Aug 2014 (includes amendments listed above
+Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number.
+1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number.
+Under the Settlement Agents Act 1981 s. 126, a reference to the Settlement Agents Supervisory Board may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
+Under the Settlement Agents Act 1981 s. 3(1) Commissioner has the meaning given in the Fair Trading Act 2010 s. 6.
+The Settlement Agents Act 1981 s. 6 was deleted by the Acts Amendment (Fair Trading) Act 2010 s. 137(2).
+Under the Settlement Agents Act 1981 s. 129(1), a reference to the Registrar may where the context so requires, be read as if it had been amended to be a reference to the Commissioner. See note 2 as to the meaning of Commissioner.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
