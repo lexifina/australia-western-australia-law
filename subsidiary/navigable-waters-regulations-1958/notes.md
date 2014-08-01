@@ -138,7 +138,8 @@ Navigable Waters Amendment Regulations (No. 2) 2013 | 14 Jun 2013 p. 2237-8 | r.
 Navigable Waters Amendment Regulations (No. 3) 2013 | 6 Sep 2013 p. 4247 | r. 1 and 2: 6 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
 Navigable Waters Amendment Regulations (No. 4) 2013 | 13 Dec 2013 p. 6177 | r. 1 and 2: 13 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Dec 2013 (see r. 2(b))
 Navigable Waters Amendment Regulations (No. 2) 2014 | 16 May 2014 p. 1542-3 | r. 1 and 2: 16 May 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
-Repealed by the Dangerous Goods Safety Act 2004.
+Navigable Waters Amendment Regulations (No. 3) 2014 | 25 Jul 2014 p. 2581-91 | r. 1 and 2: 25 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2014 (see r. 2(b))
+Footnote no longer applicable.
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
 Defined terms
@@ -151,9 +152,9 @@ appropriate signal19E(4)
 AS/NZS52BAB(1A)
 authorised person2
 CEO47(1)
-commencement date47CA(3)
 department2
 diving2
+Emergency Position Indicating Radio Beacon46(2)
 examiner47(1)
 foreign pleasure vessel45BAA(1)
 foreign skipper’s ticket47(1)
@@ -169,11 +170,11 @@ Level 27546(2)
 Level 5046(2)
 Level 50S (Special)46(2)
 motor boat2
-MS 24152BAB(1A)
 navigable waters2
 officer of the department 2
-owner2, 45A(2), 46(1), 47CA(3)
+owner2, 45A(2), 46(1), 52BAD(1)
 para-sailing46(2)
+personal locator beacon46(2)
 personal watercraft46(2)
 PFD Type 146(2)
 PFD Type 246(2)
@@ -182,11 +183,15 @@ prescribed standard52BAB(1A)
 proposed departure date45BAA(1)
 protected waters2
 public jetty2
+recreational paddle craft46(2)
 recreational skipper’s ticket47(1)
 registered interstate pleasure vessel45A(2)
 registered vessel45A(2)
 registrable vessel45A(2)
 RST vessel47(1)
+sailboard46(2)
+sailboard riding46(2)
+shore51D(1B), 52BAD(1)
 SOLAS jacket46(2)
 speed boat2
 surfing50A(4)
