@@ -32,9 +32,9 @@ Master or Owner
 THE TREASURY CASHIER,
 The above vessel occupied the slip from ............................................ a.m./p.m.
 on ........................ to .......................... a.m./p.m. on ..............................................
-The fee payable is $ ......................................... Details are shown on Docket No.
+The charge payable is $ ......................................... Details are shown on Docket No.
 ....................................................................
 ........................................................
 Officer in Charge of Slip
-[Form 3 inserted in Gazette 6 Jul 1984 p. 2029.]
+[Form 3 inserted in Gazette 6 Jul 1984 p. 2029; amended in Gazette 25 Jul 2014 p. 2661.]
 [Schedule 4 deleted in Gazette 22 Jun 2007 p. 2940.]
