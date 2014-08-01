@@ -44,23 +44,7 @@ Reprint 5: The Motor Vehicle Dealers (Licensing) Regulations 1974 as at 13 Apr 2
 Motor Vehicle Dealers (Licensing) Amendment Regulations 2012 | 15 Jun 2012 p. 2591-4 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Motor Vehicle Dealers (Licensing) Amendment Regulations 2013 | 27 Jun 2013 p. 2687-90 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Motor Vehicle Dealers (Licensing) Amendment Regulations (No. 3) 2014 | 17 Jun 2014 p. 1968-70 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Motor Vehicle Dealers (Licensing) Amendment Regulations 2014 r. 3-4 | 15 Jul 2014 p. 2461-2 | 1 Aug 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, the Motor Vehicle Dealers (Licensing) Amendment Regulations 2014 r. 3-4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Motor Vehicle Dealers (Licensing) Regulations 1974.
-4.Third Schedule amended
-(1) In the Third Schedule item 1 delete “812.00” (1st occurrence) and insert:
-816.00
-(2) In the Third Schedule item 10 delete “certificate of”.
-(3) In the Third Schedule delete items 11, 12, 13, 14 and 15.
-(4) In the Third Schedule delete items 17 and 18 and insert:
-17. | Certificate showing whether or not a person was recorded in the register kept under section 24 as the holder of an authorisation on a specified date or during a specific period —
- | first page | 19.50
- | each subsequent page | 3.80
-18. | Certificate showing all persons recorded in the register kept under section 24 as the holders of an authorisation on a specified date or during a specific period | 248.00
+Motor Vehicle Dealers (Licensing) Amendment Regulations 2014 | 15 Jul 2014 p. 2461-2 | r. 1 and 2: 15 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2014 (see r. 2(b))
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
