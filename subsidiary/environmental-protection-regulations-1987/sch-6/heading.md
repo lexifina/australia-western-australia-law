@@ -142,9 +142,11 @@ Environmental Protection (Controlled Waste) Regulations 2004
 8.regulation 19(2) | 250 | 500
 9.regulation 21 | 250 | 500
 10.regulation 22(5) | 250 | 500
+11A.regulation 25B(2) | 250 | 500
 11.regulation 25(1) | 250 | 500
 12.regulation 25(2) | 250 | 500
 13.regulation 25(3) | 250 | 500
+14A.regulation 25(4A) | 250 | 500
 14.regulation 25(4) | 250 | 500
 15.regulation 25(6) | 250 | 500
 16.regulation 26(2) | 250 | 500
@@ -152,18 +154,18 @@ Environmental Protection (Controlled Waste) Regulations 2004
 18.regulation 28(1) | 250 | 500
 19.regulation 29(1) | 250 | 500
 20.regulation 30(1) | 250 | 500
+21A.regulation 31A(1) | 250 | 500
 21.regulation 31(1) | 250 | 500
+22A.regulation 32A(2) | 250 | 500
 22.regulation 32(1) | 250 | 500
 23.regulation 33 | 250 | 500
 24.regulation 34 | 250 | 500
 25.regulation 35(1) | 250 | 500
 26.regulation 35(2) | 250 | 500
-27.regulation 38(1) | 250 | 500
-28.regulation 38(2) | 250 | 500
-29.regulation 38(3) | 250 | 500
-30.regulation 38(4) | 250 | 500
-31.regulation 39(7) | 250 | 500
-32.regulation 40(2) | 250 | 500
+27.regulation 39(7) | 250 | 500
+28.regulation 40(2) | 250 | 500
+29.regulation 41A(3) | 250 | 500
+[30-32. deleted]
 33.regulation 41(7) | 250 | 500
 34.regulation 43 | 250 | 500
 35.regulation 44 | 250 | 500
@@ -205,4 +207,4 @@ Environmental Protection (Packaged Fertiliser) Regulations 2010
 14.regulation 16(2) | 250 | 500
 15.regulation 17(4) | 250 | 500
 16.regulation 17(5) | 250 | 500
-[Schedule 6 inserted in Gazette 11 Dec 1998 p. 6605-8; amended in Gazette 15 Aug 2000 p. 4718; 19 Dec 2000 p. 7284; 5 Jan 2001 p. 119; 30 Mar 2001 p. 1809, p. 1828 and 1867-8; 12 Apr 2001 p. 2097; 30 Nov 2001 p. 6071; 14 Jun 2002 p. 2794-5; 20 Dec 2002 p. 6020; 23 Jul 2003 p. 3173; 12 Mar 2004 p. 748-9; 1 Jul 2004 p. 2664-6; 29 Sep 2006 p. 4267; 27 Apr 2007 p. 1812; 31 Dec 2010 p. 6883-4; 2 Mar 2012 p. 855; 8 May 2012 p. 1893; 24 Sep 2013 p. 4385-6.]
+[Schedule 6 inserted in Gazette 11 Dec 1998 p. 6605-8; amended in Gazette 15 Aug 2000 p. 4718; 19 Dec 2000 p. 7284; 5 Jan 2001 p. 119; 30 Mar 2001 p. 1809, p. 1828 and 1867-8; 12 Apr 2001 p. 2097; 30 Nov 2001 p. 6071; 14 Jun 2002 p. 2794-5; 20 Dec 2002 p. 6020; 23 Jul 2003 p. 3173; 12 Mar 2004 p. 748-9; 1 Jul 2004 p. 2664-6; 29 Sep 2006 p. 4267; 27 Apr 2007 p. 1812; 31 Dec 2010 p. 6883-4; 2 Mar 2012 p. 855; 8 May 2012 p. 1893; 24 Sep 2013 p. 4385-6; 1 Aug 2014 p. 2823-4.]

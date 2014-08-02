@@ -67,6 +67,7 @@ Environmental Protection Amendment Regulations (No. 3) 2012 | 27 Nov 2012 p. 573
 Environmental Protection Amendment Regulations (No. 3) 2013 | 18 Jun 2013 p. 2293-5 | r. 1 and 2: 18 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Environmental Protection Amendment Regulations 2013 | 20 Aug 2013 p. 3856-7 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Environmental Protection Amendment Regulations (No. 2) 2013 | 24 Sep 2013 p. 4385-6 | r. 1 and 2: 24 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Sep 2013 (see r. 2(b))
+Environmental Protection Amendment Regulations (No. 3) 2014 | 1 Aug 2014 p. 2823-4 | r. 1 and 2: 1 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Aug 2014 (see r. 2(b))
 Published in Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order (No. 2) 2006 a reference in a written law to the Department of Environment or the Department of Environmental Protection is, unless the contrary is intended, to be read and construed as a reference to the Department of Environment and Conservation.
 Proclaimed 1 July 1988 in Gazette 26 June 1998 p. 3369.
@@ -74,9 +75,9 @@ At the time of this compilation the Waste Management and Recycling Fund is the W
 Expired 30 June 2012.
 The Environmental Protection Amendment Regulations (No. 3) 1996 r. 7 (as amended by the Environmental Protection Amendment Regulations (No. 6) 1996 r. 10) is a transitional provision that is of no further effect.
 The amendment in the Environmental Protection Amendment Regulations (No. 5) 2000 r. 12 referring to items 8 and 9 of Schedule 6 is not included because these items were previously deleted in Gazette 19 December 2000 p. 7284.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 actual discharge5H(2)(b)
 approved21(1)
 approved monitoring equipment17
