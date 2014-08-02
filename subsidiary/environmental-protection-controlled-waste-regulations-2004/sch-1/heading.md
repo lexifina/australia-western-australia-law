@@ -19,12 +19,12 @@ Containers or drums that are contaminated with residues of a controlled waste
 Copper compounds
 Chromium compounds (hexavalent or trivalent)
 Cyanides (inorganic)
-Cyanides (organic)
-Encapsulated, chemically-fixed, solidified, or polymerized wastes
+Cyanides (organic) and nitriles
+Encapsulated, chemically-fixed, solidified, or polymerised controlled wastes
 Ethers
-Filter cake
+Filter cake containing controlled wastes
 Fire debris or fire washwaters
-Fly ash
+Fly ash other than fly ash generated from Australian coal fired power stations
 Halogenated organic solvents
 Highly odorous organic chemicals (including mercaptans and acrylates)
 Inorganic fluorine compounds excluding calcium fluoride
@@ -33,19 +33,21 @@ Isocyanate compounds
 Lead; lead compounds
 Mercury; mercury compounds
 Metal carbonyls
-Mineral oil emulsions
 Nickel compounds
 Non toxic salts
 Organic phosphorus compounds
 Organic solvents excluding halogenated solvents
 Organochlorine pesticides (OCPs)
 Organohalogen compounds other than substances referred to elsewhere in this Schedule
+Oxidising agents
 Perchlorates
 Phenols; phenol compounds including chlorophenols
 Phosphorus compounds other than mineral phosphates
-Polychorinated Biphenyls (PCBs)
+Polychlorinated Biphenyls (PCBs)
 Polychlorinated dibenzo-furan (any congener)
 Polychlorinated dibenzo-p-dioxin (any congener)
+Reactive chemicals
+Reducing agents
 Residues from industrial waste treatment or disposal operations
 Selenium; selenium compounds
 Sewage
@@ -70,6 +72,7 @@ Waste from the production, formulation, or use of photographic chemicals or proc
 Waste from the production, formulation, or use of resins, latex, plasticisers, glues, or adhesives
 Waste from the production or preparation of pharmaceutical products
 Waste mineral oils unfit for their intended use
+Waste oil and water, or hydrocarbons and water, mixtures or emulsions
 Waste pharmaceuticals drugs or medicines
 Waste resulting from surface treatments of metals or plastics
 Waste tarry residues arising from refining, distillation, or pyrolytic treatment
@@ -77,3 +80,4 @@ Waste, substances, or articles containing or contaminated by polychlorinated bip
 Wastes of an explosive nature not subject to any other written law
 Wool scouring wastes
 Zinc compounds
+[Schedule 1 amended in Gazette 1 Aug 2014 p. 2817-18.]
