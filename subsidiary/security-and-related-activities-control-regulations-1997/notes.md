@@ -38,10 +38,11 @@ Reprint 6: The Security and Related Activities (Control) Regulations 1997 as at 
 Security and Related Activities (Control) Amendment Regulations 2012 | 15 Jun 2012 p. 2540-2 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Security and Related Activities (Control) Amendment Regulations 2013 | 28 Jun 2013 p. 2780-1 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Security and Related Activities (Control) Amendment Regulations 2014 | 17 Jun 2014 p. 1998-9 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
+Security and Related Activities (Control) Amendment Regulations (No. 2) 2014 | 5 Aug 2014 p. 2834 | r. 1 and 2: 5 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Aug 2014 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 analyst44
 ANZS3(2)
 approved testing equipment44
@@ -50,7 +51,7 @@ AS3(2)
 blood sampling equipment44
 business3(1)
 chief executive officer44
-commencement daySch. 1 cl. 11A(2), 11B(2) and 19A(2)
+commencement daySch. 1 cl. 11A(2), Sch. 1 cl. 11B(2), Sch. 1 cl. 19A(2)
 crowd control activities3(1)
 current first aid certificate3(1)
 Division 1 offence25(1)
