@@ -7,3 +7,4 @@ Equality of Status Subsidiary Legislation Amendment Regulations 2003 Pt. 41 | 30
 Reprint 1: The Witness Protection (Western Australia) Regulations 1996 as at 16 Jan 2004 (includes amendments listed above)
 Witness Protection (Western Australia) Amendment Regulations 2009 | 25 Sep 2009 p. 3749-50 | r. 1 and 2: 25 Sep 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Sep 2009 (see r. 2(b))
 Witness Protection (Western Australia) Amendment Regulations 2013 | 25 Jan 2013 p. 280-1 | r. 1 and 2: 25 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2013 (see r. 2(b))
+Witness Protection (Western Australia) Amendment Regulations (No. 2) 2014 | 5 Aug 2014 p. 2835 | r. 1 and 2: 5 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Aug 2014 (see r. 2(b))
