@@ -32,14 +32,15 @@ Pawnbrokers and Second-hand Dealers Amendment Regulations 2012 | 15 Jun 2012 p. 
 Reprint 4: The Pawnbrokers and Second-hand Dealers Regulations 1996 as at 19 Oct 2012 (includes amendments listed above)
 Pawnbrokers and Second-hand Dealers Amendment Regulations 2013 | 28 Jun 2013 p. 2782-6 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jun 2013 (see r. 2(b))
 Pawnbrokers and Second-hand Dealers Amendment Regulations 2014 | 17 Jun 2014 p. 1992-6 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
+Pawnbrokers and Second-hand Dealers Amendment Regulations (No. 2) 2014 | 5 Aug 2014 p. 2832-3 | r. 1 and 2: 5 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Aug 2014 (see r. 2(b))
 Repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
 Repealed by the Financial Sector (Collection of Data — Consequential and Transitional Provisions) Act 2001 (Cwlth).
 Formerly referred to the Liquor Licensing Regulations 1989 the citation of which was changed to the Liquor Control Regulations 1989 by the Liquor Licensing Amendment Regulations 2007 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Pawnbrokers and Second-hand Dealers Act 1994.
 Omitted under the Reprints Act 1984 s. 7(4)(e).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 financial body3
 new sale5(2)
 public authority3
