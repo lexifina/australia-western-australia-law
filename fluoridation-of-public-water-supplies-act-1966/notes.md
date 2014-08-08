@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fluoridation of Public Water Supplies Act 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 8 August 2014 of the Fluoridation of Public Water Supplies Act 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fluoridation of Public Water Supplies Act 1966 | 47 of 1966 | 18 Nov 1966 | 17 Mar 1967 (see s. 2 and Gazette 17 Mar 1967 p. 735)
@@ -14,12 +14,10 @@ Local Government Amendment Act 2004 s. 13 | 49 of 2004 | 12 Nov 2004 | 1 Apr 200
 Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2 and Gazette 27 Jul 2007 p. 3735)
 Commercial Arbitration Act 2012 s. 45 it. 8 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Water Services Legislation Amendment and Repeal Act 2012 s. 214 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
-Footnote no longer applicable.
+Reprint 2: The Fluoridation of Public Water Supplies Act 1966 as at 8 Aug 2014 (includes amendments listed above)
 The Acts Amendment (Chemistry Centre (WA)) Act 1990 s. 6 reads as follows:
-“
 6.Saving of certificates
 A certificate given under section 15 of the principal Act that purports to have been signed by the Director (Government Mineralogist, Analyst) of the Government Chemical Laboratories before the commencement of this Act shall continue to have effect as if this Act had not come into operation.
-”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
