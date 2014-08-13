@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Coal Industry Superannuation Regulations 2014. The following table contains information about those regulations.
+This is a compilation of the Coal Industry Superannuation Regulations 2014 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Coal Industry Superannuation Regulations 2014 | 17 Apr 2014 p. 1091-132 | r. 1 and 2: 17 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2014 (see r. 2(b) and Gazette 13 Jun 2014 p. 1859)
+Coal Industry Superannuation Amendment Regulations 2014 | 12 Aug 2014 p. 2890 | r. 1 and 2: 12 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Aug 2014 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
