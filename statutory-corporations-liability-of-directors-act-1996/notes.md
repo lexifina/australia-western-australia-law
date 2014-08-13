@@ -34,6 +34,7 @@ Reprint 5: The Statutory Corporations (Liability of Directors) Act 1996 as at 4 
 Metropolitan Redevelopment Authority Act 2011 s. 143 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Water Services Legislation Amendment and Repeal Act 2012 s. 231 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Ports Legislation Amendment Act 2014 s. 45(1) and (3)-(5) | 9 of 2014 | 20 May 2014 | 1 Jul 2014 (see s. 2(1)(c) and Gazette 20 Jun 2014 p. 2023)
+Statutory Corporations (Liability of Directors) (Act Amendment) Regulations 2014 published in Gazette 12 Aug 2014 p. 2891 | r. 1 and 2: 12 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Aug 2014 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -48,7 +49,7 @@ On the date as at which this compilation was prepared, the Ports Legislation Ame
 (a) delete the items relating to Albany Port Authority, Bunbury Port Authority and Esperance Port Authority;
 (b) insert in alphabetical order:
 Southern Ports Authority | a director of the Authority | Port Authorities Act 1999
-The Ports Legislation Amendment Act 2014 s. 45(4)(b) is a duplication of s. 45(3)(b).
+The amendment in the Ports Legislation Amendment Act 2014 s. 45(4)(b) is not included because it is a duplication of s. 45(3)(b).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
