@@ -71,6 +71,8 @@
  | s. 397 | Demanding property with threats with intent to extort or gain
  | s. 398 | Attempts at extortion by threats
  | s. 401(1) and (2) | Burglary
+ | s. 417/417A(3) | Possessing stolen or unlawfully obtained property where the property is a motor vehicle and driven recklessly or dangerously
+ | s. 417/417A(4) | Possessing stolen or unlawfully obtained property where the property is an aircraft
  | s. 444 | Criminal damage
  | s. 557 | Making or possession of explosives under suspicious circumstances
  | s. 558 | Conspiracy to commit indictable offence
@@ -102,7 +104,7 @@
 7. | Road Traffic Act 1974
  | s. 59 | Dangerous driving causing death, injury etc.
  | s. 59A | Dangerous driving causing bodily harm — if the offender is liable to imprisonment for 7 years
-[Part 1 inserted by No. 49 of 2012 s. 181(4).]
+[Part 1 inserted by No. 49 of 2012 s. 181(4); amended by No. 11 of 2014 s. 8(1).]
 ## Part 2 — Relevant simple offences
 [Heading inserted by No. 49 of 2012 s. 181(4).]
  | Enactment | Description of offence
