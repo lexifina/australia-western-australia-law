@@ -69,13 +69,14 @@ Criminal Organisations Control Act 2012 s. 181 | 49 of 2012 | 29 Nov 2012 | 2 No
 Reprint 8: The Sentencing Act 1995 as at 8 Mar 2013 (includes amendments listed above, except those in the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 and the Water Services Legislation Amendment and Repeal Act 2012 and the Criminal Organisations Control Act 2012)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 18 (other than s. 124 and 127) | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Sentencing Legislation Amendment Act 2014 Pt. 2 | 6 of 2014 | 22 Apr 2014 | 23 Apr 2014 (see s. 2(b))
+Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 3 Div. 1 (other than s. 8(2)) | 11 of 2014 | 24 Jun 2014 | 13 Aug 2014 (see s. 2(b) and Gazette 12 Aug 2014 p. 2889)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 47 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
-Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 3 Div. 1 | 11 of 2014 | 24 Jun 2014 | To be proclaimed (see s. 2(b))
+Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) | 11 of 2014 | 24 Jun 2014 | To be proclaimed (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2014 s. 37 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
@@ -240,15 +241,8 @@ Delete section 38(2) and insert:
 (2) The review —
 (a) is to be based on an examination, in the absence of the parties, of the court documents relevant to the offence (whether the original documents or copies, or some other form of the documents prescribed by the regulations or rules of court); and
 (b) is not to involve a hearing.
-On the date as at which this compilation was prepared, the Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 3 Div. 1 had not come into operation. They read as follows:
-Part 3 — Consequential amendments
-Division 1 — Sentencing Act 1995 amended
-7.Act amended
-This Division amends the Sentencing Act 1995.
+On the date as at which this compilation was prepared, the Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) had not come into operation. It reads as follows:
 8.Schedule 1A amended
-(1) In Schedule 1A Part 1 item 1 insert in numerical order:
-s. 417/417A(3) | Possessing stolen or unlawfully obtained property where the property is a motor vehicle and driven recklessly or dangerously
-s. 417/417A(4) | Possessing stolen or unlawfully obtained property where the property is an aircraft
 (2) In Schedule 1A Part 2 item 1 delete “s. 428” and insert:
 s. 417
 On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 37 had not come into operation. It reads as follows:
