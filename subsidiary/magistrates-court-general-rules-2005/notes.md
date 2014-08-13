@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 June 2014 of the Magistrates Court (General) Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Magistrates Court (General) Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Magistrates Court (General) Rules 2005 | 28 Apr 2005 p. 1605-49 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -20,6 +20,7 @@ Magistrates Court (General) Amendment Rules (No. 2) 2013 | 20 Aug 2013 p. 3818-2
 Magistrates Court (General) Amendment Rules 2013 | 31 Dec 2013 p. 6548 | r. 1 and 2: 31 Dec 2013 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
 Magistrates Court (General) Amendment Rules (No. 2) 2014 | 11 Mar 2014 p. 573-83 | r. 1 and 2: 11 Mar 2014 (see r. 2(a)); Rules other than r. 1 and 2: 12 Mar 2014 (see r. 2(b))
 Reprint 3: The Magistrates Court (General) Rules 2005 as at 13 Jun 2014 (includes amendments listed above)
+Magistrates Court (General) Amendment Rules (No. 4) 2014 | 12 Aug 2014 p. 2892-4 | r. 1 and 2: 12 Aug 2014 (see r. 2(a)); Rules other than r. 1 and 2: 13 Aug 2014 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -39,6 +40,7 @@ media organisation40A
 non-police registry3
 police registry3
 proceedings15
+prosecuting authority47
 record15
 registrar15, 25(1)
 registry3
