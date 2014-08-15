@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Perth Parking Management Regulations 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 15 August 2014 of the Perth Parking Management Regulations 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Perth Parking Management Regulations 1999 | 16 Jul 1999 p. 3227-34 | 16 Jul 1999 (see r. 2 and Gazette 16 Jul 1999 p. 3183)
@@ -27,11 +27,11 @@ Perth Parking Management Amendment Regulations (No. 3) 2012 | 2 Nov 2012 p. 5262
 Perth Parking Management Amendment Regulations 2013 | 8 Feb 2013 p. 869-70 | r. 1 and 2: 8 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Feb 2013 (see r. 2(b))
 Perth Parking Management Amendment Regulations (No. 2) 2013 | 14 Jun 2013 p. 2246-7 | r. 1 and 2: 14 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Perth Parking Management Amendment Regulations 2014 | 16 May 2014 p. 1544-5 | r. 1 and 2: 16 May 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
-, 3Footnote no longer applicable.
+Reprint 4: The Perth Parking Management Regulations 1999 as at 15 Aug 2014 (includes amendments listed above)
 Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 ACROD sticker3
 Act3
 carriageway3
