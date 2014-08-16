@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 August 2009 of the Petroleum Products Pricing Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum Products Pricing Regulations 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Petroleum Products Pricing Regulations 2000 | 29 Dec 2000 p. 7981-5 | 1 Jan 2001 (see r. 2)
@@ -15,6 +15,7 @@ Petroleum Products Pricing Amendment Regulations 2006 | 22 Sep 2006 p. 4125-6 | 
 Petroleum Products Pricing Amendment Regulations (No. 2) 2006 | 3 Oct 2006 p. 4337 | 3 Oct 2006
 Petroleum Products Pricing Amendment Regulations 2008 | 12 Aug 2008 p. 3535-6 | r. 1 and 2: 12 Aug 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Aug 2008 (see r. 2(b))
 Reprint 2: The Petroleum Products Pricing Regulations 2000 as at 14 Aug 2009 (includes amendments listed above)
+Petroleum Products Pricing Amendment Regulations 2014 | 15 Aug 2014 p. 2933-7 | r. 1 and 2: 15 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Aug 2014 (see r. 2(b))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection was called the Department of Commerce.
 The Petroleum Products Pricing Amendment Regulations 2001 r. 8 reads as follows:
 8.Defence during transitional period
