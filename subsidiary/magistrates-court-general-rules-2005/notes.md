@@ -21,6 +21,7 @@ Magistrates Court (General) Amendment Rules 2013 | 31 Dec 2013 p. 6548 | r. 1 an
 Magistrates Court (General) Amendment Rules (No. 2) 2014 | 11 Mar 2014 p. 573-83 | r. 1 and 2: 11 Mar 2014 (see r. 2(a)); Rules other than r. 1 and 2: 12 Mar 2014 (see r. 2(b))
 Reprint 3: The Magistrates Court (General) Rules 2005 as at 13 Jun 2014 (includes amendments listed above)
 Magistrates Court (General) Amendment Rules (No. 4) 2014 | 12 Aug 2014 p. 2892-4 | r. 1 and 2: 12 Aug 2014 (see r. 2(a)); Rules other than r. 1 and 2: 13 Aug 2014 (see r. 2(b))
+Magistrates Court (General) Amendment Rules 2014 | 15 Aug 2014 p. 2937-46 | r. 1 and 2: 15 Aug 2014 (see r. 2(a)); Rules other than r. 1 and 2: 16 Aug 2014 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -28,8 +29,10 @@ Act3, 47
 application40A
 approved form3
 approved recipient41A(1)
+approved user3
 civil case28B(1)
 contempt29
+courts electronic system3
 CPA3
 defendant29
 Director General50
@@ -47,4 +50,6 @@ registry3
 relevant record40A
 RTA50
 searchable information41A(1)
+substituted prosecution notice45A(1)
 transcript40A, 40B(a)
+working day3
