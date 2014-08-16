@@ -18,6 +18,6 @@ s. 22F(2) | Failing to include required details in invoice for sale of motor fue
 s. 27(5)(a) | Failing or refusing to comply with requirements of notice (inquiry or investigation) ........................ | $4 000
 s. 27A(5)(a) | Failing or refusing to comply with requirements of notice ................................................................. | $4 000
 Offences under Petroleum Products Pricing Regulations 2000
-r. 3(1) | Offering motor fuel for sale at other than standard retail price notified to Commissioner ........ | $1 000
-r. 6(1) | Offering motor fuel for sale without having required price display ............................................... | $1 000
+r. 3(1) | Offering motor fuel for sale at other than standard retail price notified to Commissioner ..... | $1 000
+r. 6(1) | Offering motor fuel for sale without having required price display ............................................ | $1 000
 [Schedule 2 inserted in Gazette 22 Sep 2006 p. 4125-6.]
