@@ -23,6 +23,7 @@ Public Sector Management (General) Amendment Regulations 2010 | 5 Nov 2010 p. 55
 Reprint 3: The Public Sector Management (General) Regulations 1994 as at 3 Jun 2011 (includes amendments listed above)
 Public Sector Management (General) Amendment Regulations 2012 | 24 Jan 2012 p. 555-6 | r. 1 and 2: 24 Jan 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jan 2012 (see r. 2(b))
 Public Sector Management (General) Amendment Regulations (No. 2) 2012 | 5 Jun 2012 p. 2363-6 | r. 1 and 2: 5 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jun 2012 (see r. 2(b))
+Public Sector Management (General) Amendment Regulations 2014 | 19 Aug 2014 p. 2996 | r. 1 and 2: 19 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Aug 2014 (see r. 2(b))
 The Government Employees’ Housing Act 1964 s.15 was deleted by the Machinery of Government(Miscellaneous Amendments) Act 2006 s. 300.
 Repealed by the Country Housing Act 1998 s. 47.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
@@ -30,9 +31,9 @@ Repealed by the School Education Act 1999 s. 246.
 Under the Alteration of Statutory Designations Order 2003 a reference in any law to the Department of Training was to be read and construed as a reference to the Department of Education and Training. Under the Alteration of Statutory Designation (DET) Order 2009 a reference in any law to the Department of Education and Training is to be read and construed as a reference to the Department of Education or to the Department of Training and Workforce Development, unless the contrary intention appears.
 Repealed by the Vocational Education and Training Act 1996 s. 70.
 Now known as Pilbara TAFE. See Gazette 26 Nov 2004 p. 5316 concerning the amalgamation of Eastern Pilbara College of TAFE [formerly Hedland College of TAFE (which continued under the name Eastern Pilbara College of TAFE (see Gazette 29 Oct 1999 p. 5925-7)) which amalgamated Pundulmurra College (see Gazette 19 Dec 1997 p. 7372)] and West Pilbara College of TAFE (formerly Karratha College of TAFE) and the college, as so amalgamated, is continued and renamed Pilbara TAFE (see Gazette 17 Dec 2002 p. 5925).
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 non-SAT CEO8A(1)
 PSC class8A(1)
 SAT CEO8A(1)
