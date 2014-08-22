@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Land Valuers Licensing Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 22 August 2014 of the Land Valuers Licensing Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Land Valuers Licensing Regulations 1979 | 22 Jun 1979 p. 1698-9 | 22 Jun 1979
@@ -27,7 +27,7 @@ Land Valuers Licensing Amendment Regulations 2006 | 22 Sep 2006 p. 4118-22 | 22 
 Land Valuers Licensing Amendment Regulations 2007 | 15 Jun 2007 p. 2782 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Land Valuers Licensing Amendment Regulations (No. 2) 2007 | 14 Mar 2008 p. 829-30 | r. 1 and 2: 14 Mar 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Mar 2008 (see r. 2(b))
 Reprint 3: The Land Valuers Licensing Regulations 1979 as at 11 Apr 2008 (includes amendments listed above)
-Land Valuers Licensing Amendment Regulations 2008 | 17 Jun 2008 p. 2566-7 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
+Land Valuers Licensing Amendment Regulations 2008 | 17 Jun 2008 p. 2566-7 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Land Valuers Licensing Amendment Regulations 2009 | 23 Jun 2009 p. 2442-3 | r. 1 and 2: 23 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Land Valuers Licensing Amendment Regulations 2010 | 25 Jun 2010 p. 2847-8 | r. 1 and 2: 25 Jun 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2010 (see r. 2(b))
 Land Valuers Licensing Amendment Regulations (No. 2) 2011 | 22 Jun 2011 p. 2363-4 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
@@ -38,6 +38,7 @@ Land Valuers Licensing Amendment Regulations (No. 2) 2012 | 18 Dec 2012 p. 6590 
 Land Valuers Licensing Amendment Regulations (No. 2) 2013 | 27 Jun 2013 p. 2681-2 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Land Valuers Licensing Amendment Regulations 2013 | 20 Aug 2013 p. 3836 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Land Valuers Licensing Amendment Regulations 2014 | 17 Jun 2014 p. 1967-8 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
+Reprint 5: The Land Valuers Licensing Regulations 1979 as at 22 Aug 2014 (includes amendments listed above)
 The Curtin University of Technology Act 1966 s. 5 established the Western Australian Institute of Technology as the Curtin University of Technology from 1 January 1987.
 The commencement date of 1 Jul 1989 that was specified was before the date of gazettal.
 Defined terms
