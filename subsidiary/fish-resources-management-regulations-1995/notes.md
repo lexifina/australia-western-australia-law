@@ -175,6 +175,7 @@ Fish Resources Management Amendment Regulations (No. 11) 2013 | 15 Nov 2013 p. 5
 Fish Resources Management Amendment Regulations (No. 8) 2013 | 19 Nov 2013 p. 5283-91 | r. 1 and 2: 19 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2013 (see r. 2(b))
 Fish Resources Management Amendment Regulations 2014 | 30 May 2014 p. 1713-37 | Pt. 1: 30 May 2014 (see r. 2(a)); Pt. 2 and 3: 31 May 2014 (see r. 2(b)); Pt. 4: 1 Jul 2014 (see r. 2(c))
 Fish Resources Management Amendment Regulations (No. 5) 2014 | 12 Aug 2014 p. 2903-7 | r. 1 and 2: 12 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Aug 2014 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 4) 2014 | 26 Aug 2014 p. 3082-4 | r. 1 and 2: 26 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2014 (see r. 2(b))
 Footnote no longer applicable.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
@@ -190,7 +191,7 @@ aircraft3(1)
 ALC55A
 ALC fishing boat55C(1)
 allowed time31(1)
-applicant124A(1), 124D(1)
+applicant123A(1), 124A(1), 124D(1)
 approval to transport144A(1)
 approved72, 144A(1)
 approved automatic location communicator55A
@@ -215,6 +216,7 @@ charter boat16E(1)
 chlorine tarping110(2)
 closed season38G, 45(1)
 commercial fishing licence3(1)
+commercial fishing licence receipt123A(1)
 commercial premises64AA(1)
 complying drop net3(1)
 Cottesloe Reef waters3(1)
@@ -297,6 +299,7 @@ ornamental fish69A(1)
 package22(5), 61(3a)
 pearl oyster farm144A(1)
 Pelsaert Group Zone38(1)
+person engaged for a commercial purpose in an activity64(1A)
 Pilbara and Kimberley Region3(1)
 Point Quobba restricted area113D
 prawn hand trawl net3(1)
@@ -311,6 +314,7 @@ region3(1)
 release weight64OAA(1)
 reserve72
 restricted fishing tour128S(1)
+return64(1A)
 rock lobster licence72
 rock lobster pot3(1)
 rock lobster pot licence3(1)
