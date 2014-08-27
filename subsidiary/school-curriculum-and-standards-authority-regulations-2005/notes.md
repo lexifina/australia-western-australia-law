@@ -10,6 +10,7 @@ Reprint 1: The School Curriculum and Standards Authority Regulations 2005 as at 
 School Curriculum and Standards Authority Amendment Regulations 2012 | 7 Dec 2012 p. 5983-93 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2012 (see r. 2(b))
 Reprint 2: The School Curriculum and Standards Authority Regulations 2005 as at 1 Mar 2013 (includes amendments listed above)
 School Curriculum and Standards Authority Amendment Regulations 2013 | 6 Sep 2013 p. 4245-6 | r. 1 and 2: 6 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
+School Curriculum and Standards Authority Amendment Regulations 2014 | 26 Aug 2014 p. 3079-80 | r. 1 and 2: 26 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2014 (see r. 2(b))
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 Sch. 1 Pt. 2 (Cwlth). Now see the Australian Citizenship Act 2007 (Cwlth).
 Now known as the School Curriculum and Standards Authority Regulations 2005; citation changed (see note under r. 1).
 Defined terms
@@ -22,11 +23,11 @@ examination13
 examination centre13
 first year of the relevant education period3
 misconduct26(1)
-relevant committee26(1)
 practical examination24(1)
 private candidate13
 publications12(1)
-SE Act9(2)(c)
+relevant committee26(1)
+SE Act9(2)
 section3
 stage13
 student, apprentice or trainee6(1)
