@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 November 2013 of the Travel Agents Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Travel Agents Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Travel Agents Act 1985 | 120 of 1985 | 30 Dec 1985 | s. 1 and 2: 30 Dec 1985; Act other than s. 1 and 2: 1 Feb 1987 (see s. 2 and Gazette 16 Jan 1987 p. 82)
@@ -30,6 +30,10 @@ Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 
 Building Services (Registration) Act 2011 s. 159 | 19 of 2011 | 22 Jun 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
 Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 5 | 6 of 2012 | 10 Apr 2012 | 28 May 2012 (see s. 2(c) and Cwlth Gazette 19 Apr 2012 ref. F2012L00891)
 Reprint 5: The Travel Agents Act 1985 as at 15 Nov 2013 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Travel Agents Amendment and Expiry Act 2014 Pt. 2 | 21 of 2014 | 29 Aug 2014 | To be proclaimed (see s. 2(b))
 Repealed by the General Insurance Brokers and Agents Act Repeal Act 1986.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 41 and 64 read as follows:
@@ -96,6 +100,86 @@ In this Division —
 commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+On the date as at which this compilation was prepared, the Travel Agents Amendment and Expiry Act 2014 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Travel Agents Act 1985 amended
+3.Act amended
+This Part amends the Travel Agents Act 1985.
+4.Long title replaced
+Delete the long title and insert:
+An Act relating to the regulation of the travel industry.
+5.Section 3 amended
+(1) In section 3(1) delete the definition of Compensation Scheme.
+(2) In section 3(1) insert in alphabetical order:
+Compensation Scheme means the scheme for compensating persons who suffer loss by reason of an act or omission by a person who carries on, or carried on, business as a travel agent that is set out in the Trust Deed;
+Note for the definition of Compensation Scheme:
+A copy of the Trust Deed can be found on the Travel Compensation Fund’s website at <http://www.tcf.org.au>.
+transition day means the day on which the Travel Agents Amendment and Expiry Act 2014 section 6 comes into operation;
+Trust Deed means the Travel Compensation Fund Substitution Trust Deed (which was executed by the Minister for and on behalf of the State and which came into effect on 1 July 2013) as amended and in force from time to time.
+(3) In section 3(1) in the definition of records delete “means.” and insert:
+means;
+(4) After section 3(2) insert:
+(3) A note set out at the foot of a provision of this Act does not form part of this Act.
+6.Section 5A inserted
+After section 4 insert:
+5A.Application of Act limited
+This Act does not apply on or after transition day except as provided by Part V.
+7.Part V inserted
+After section 60 insert:
+Part V — Expiry of Act and related transitional arrangements
+Division 1 — Expiry of Act
+61.When Act to expire
+(1) This Act expires as stated in the notice published under subsection (2).
+(2) When satisfied of the matters specified in subsection (3), the Minister must publish a notice in the Gazette stating —
+(a) that the Minister is satisfied of those matters; and
+(b) that this Act expires at the end of the day specified in the notice.
+(3) For subsection (2), the Minister must be satisfied —
+(a) that the Compensation Scheme has been terminated in accordance with the Trust Deed; and
+(b) that there is no reason for this Act to continue.
+Division 2 — Transitional arrangements on and after transition day
+62.Purposes for which Act continues to apply
+This Act continues to apply on and after transition day for the following purposes —
+(a) the assessment of claims for, and the payment of, compensation under the Compensation Scheme in respect of any act done or omission made before transition day;
+(b) the investigation of, or inquiry into, any matter by the Commissioner under Part II Division 3 the grounds for which arose before transition day;
+(c) the request for, the giving of and compliance with undertakings under section 37 in connection with unjust conduct allegedly engaged in before transition day;
+(d) the investigation and prosecution of any offence under this Act alleged to have been committed before transition day;
+(e) the giving and withdrawal of, and the payment of the modified penalty specified in, any infringement notice in respect of any offence under this Act alleged to have been committed before transition day;
+(f) the commencement, conduct and disposal of proceedings before the State Administrative Tribunal under Part II Division 3 in respect of any allegation the grounds for which arose before transition day;
+(g) the review by the State Administrative Tribunal under Part II Division 4 of any reviewable decision made before transition day;
+(h) the commencement, conduct and disposal of proceedings before the State Administrative Tribunal under Part III in respect of —
+(i) any unjust conduct engaged in before transition day; or
+(ii) any failure to observe an undertaking whenever given.
+63.Refund of licence fees
+(1) In this section —
+licence fee, for a licence, means —
+(a)the prescribed fee for the licence referred to in sections 9(2) and 12(7)(b)(i); or
+(b)the prescribed fee for the licence referred to in section 19(1);
+licence period, for a licence, means the period (expressed in days) in respect of which a licence fee for the licence was last paid before transition day;
+refundable portion, of a licence fee, means so much of the licence fee as is in the same proportion to the licence fee as the unexpired portion of the licence period is to the licence period;
+unexpired portion, of a licence period, means —
+(a)if the licence period had commenced but not expired before transition day — the portion (expressed in days) of the licence period that had not expired before transition day; or
+(b)if the licence period had not commenced before transition day — the licence period.
+(2) Subsection (3) applies if, immediately before transition day, the unexpired portion of the licence period for a licence was greater than one year.
+(3) The person who held the licence immediately before transition day is entitled to a refund of an amount that is equal to the refundable portion of the licence fee paid in respect of the licence period less the cost of calculating, and processing the payment of, the refund.
+64.Refund of application fees
+(1) This section applies if, immediately before transition day —
+(a) a person had applied for a licence and paid the prescribed fee referred to in section 9(2); but
+(b) the Commissioner had not granted or refused the application.
+(2) The person is entitled to a refund of an amount equal to the fee paid less the cost of calculating, and processing the payment of, the refund.
+65.Transitional regulations
+(1) In this section —
+publication day, for regulations referred to in subsection (2), means the day on which those regulations are published in the Gazette;
+specified means specified or described in regulations referred to in subsection (2);
+transitional matter means any matter of a transitional or savings nature arising from the enactment of the Travel Agents Amendment and Expiry Act 2014.
+(2) If there is no sufficient provision in this Division for dealing with a transitional matter, regulations made under section 59 may prescribe matters necessary or convenient to be prescribed for the purpose of dealing with the transitional matter.
+(3) Regulations referred to in subsection (2) may provide that specified provisions of a written law —
+(a) do not apply to or in relation to a specified matter; or
+(b) apply with specified modifications to or in relation to a specified matter.
+(4) If regulations referred to in subsection (2) provide that a specified state of affairs is taken to have existed, or not to have existed, on and from a day that is earlier than the publication day for those regulations but not earlier than transition day, the regulations have effect according to their terms.
+(5) If regulations referred to in subsection (2) contain a provision referred to in subsection (4), the provision does not operate so as —
+(a) to affect in a manner prejudicial to a person, other than the State or an authority of the State, the rights of that person existing before the publication day for those regulations; or
+(b) to impose liabilities on a person, other than the State or an authority of the State, in respect of an act done or omission made before the publication day for those regulations.
+Note:The heading to section 5 is to read:
+Application of Act to Crown
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
