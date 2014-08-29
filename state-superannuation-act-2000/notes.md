@@ -20,6 +20,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Statutes (Repeals and Minor Amendments) Act 2014 s. 40 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+Unclaimed Money (Superannuation and RSA Providers) Amendment and Expiry Act 2014 Pt. 3 | 22 of 2014 | 29 Aug 2014 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 and the Government Employees Superannuation Act 1987 were repealed by s. 39 of this Act. Certain provisions of those Acts continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
 2.Commencement
@@ -68,6 +69,36 @@ On the date as at which this compilation was prepared, the Statutes (Repeals and
 (b) a superannuation scheme or fund established in accordance with subsection (1); or
 (c) a superannuation scheme or fund established before 28 December 1989,
 if the Treasurer has approved the making of those contributions.
+On the date as at which this compilation was prepared, the Unclaimed Money (Superannuation and RSA Providers) Amendment and Expiry Act 2014 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — State Superannuation Act 2000 amended
+6.Act amended
+This Part amends the State Superannuation Act 2000.
+7.Section 38 amended
+(1) In section 38(4):
+(a) in paragraph (c)(ii) delete “order.” and insert:
+order;
+(b) after paragraph (c) insert:
+or
+(d) the regulations would reduce or provide for the reduction of a Member’s benefit in consequence of the payment to the Commissioner of an amount of unclaimed money that would otherwise have been payable to the Member.
+(2) Delete section 38(5D).
+(3) Delete section 38(5F).
+(4) After section 38(5) insert:
+(6A) Regulations may provide for the Board, in relation to any scheme that is prescribed for the purposes of the Superannuation (Unclaimed Money and Lost Members) Act 1999 (Commonwealth) section 18AA —
+(a) to give any statement; and
+(b) to make any payment; and
+(c) to do any other thing,
+contemplated by that Act.
+(5) After section 38(8) insert:
+(9) In this section —
+(a) each of the following terms has the meaning given in the Family Law Act 1975 (Commonwealth) section 90MD —
+flag lifting agreement
+payment split
+splitting order
+superannuation agreement
+superannuation interest
+(b) each of the following terms has the meaning given in the Superannuation (Unclaimed Money and Lost Members) Act 1999 (Commonwealth) section 8 —
+Commissioner
+unclaimed money
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
