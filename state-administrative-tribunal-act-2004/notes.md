@@ -35,6 +35,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 4 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(f))
+Travel Agents Amendment and Expiry Act 2014 s. 9 | 21 of 2014 | 29 Aug 2014 | Operative on commencement after the day on which the Travel Agents Act 1985 expires under s. 61(1) of that Act as amended by s. 7 of this Act (see s. 2(c))
 On the date as at which this compilation was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 had not come into operation. It reads as follows:
 82.State Administrative Tribunal Act 2004 amended
 (1) This section amends the State Administrative Tribunal Act 2004.
@@ -46,6 +47,10 @@ This Division amends the State Administrative Tribunal Act 2004.
 81.Schedule 1 amended
 In Schedule 1 insert in alphabetical order:
 Taxi Drivers Licensing Act 2014
+On the date as at which this compilation was prepared, the Travel Agents Amendment and Expiry Act 2014 s. 9 had not come into operation. It reads as follows:
+9.State Administrative Tribunal Act 2004 amended
+(1) This section amends the State Administrative Tribunal Act 2004.
+(2) In Schedule 1 delete “Travel Agents Act 1985”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -67,12 +72,12 @@ executive officer3(1)
 exempt document3(1)
 exempt matter3(1)
 final decision3(1)
-former adjudicator167(1)(a)
+former adjudicator167(1)
 hearing3(1)
 investigator124(2)
 judicial member3(1)
 judicial review proceedings19(1)
-legal experience3(1)
+legal experience 3(1)
 legal practitioner3(1)
 legally qualified member3(1)
 legally qualified person93(1)
