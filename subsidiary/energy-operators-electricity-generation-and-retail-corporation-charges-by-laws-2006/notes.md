@@ -17,11 +17,11 @@ Energy Operators (Electricity Retail Corporation) (Charges) Amendment By-laws (N
 Electricity Corporations (Consequential Amendments) Regulations 2013 r. 12 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Reprint 3: The Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006 as at 14 Mar 2014 (includes amendments listed above)
 Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2014 | 27 Jun 2014 p. 2313-19 | bl. 1 and 2: 27 Jun 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2014 (see bl. 2(b))
+Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws (No. 2) 2014 | 22 Aug 2014 p. 3024-32 | bl. 1 and 2: 22 Aug 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Sep 2014 (see bl. 2(b))
 Now known as the Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006; citation changed (see note under bl. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-carbon component3
 corporation3
 dwelling3
 half-hourly maximum demand3
