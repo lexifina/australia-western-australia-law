@@ -1,6 +1,6 @@
 ## Schedule 4 — Fees
-[bl. 7 and 9(5)]
-[Heading inserted in Gazette 26 Mar 2010 p. 1187.]
+[bl. 7]
+[Heading inserted in Gazette 26 Mar 2010 p. 1187; amended in Gazette 22 Aug 2014 p. 3023.]
  | Description of fee | Amount
 1. | Non-refundable account establishment fee payable on the establishment or transfer of an account | $33.80
 2. | Three phase residential installation — (a)new installation or replacement of single phase meter (b)installation of subsidiary three phase meter (each installation) | $276.00 $148.50
