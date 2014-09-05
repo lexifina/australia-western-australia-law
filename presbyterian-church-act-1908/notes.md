@@ -1,65 +1,36 @@
 Notes
-This is a compilation of the Presbyterian Church Act 1908 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Presbyterian Church Act 1908 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
- | Short title | Number and year | Assent | Commencement
- | Presbyterian Church Act 1908 | 2 of 1908 | 12 Aug 1908 | 12 Aug 1908
- | Presbyterian Church Act Amendment Act 1919 s. 2 and 3 | 50 of 1919 | 17 Dec 1919 | 17 Dec 1919
- | Presbyterian Church Act Amendment Act 1924 s. 2, 3 and 7 | 6 of 1924 | 5 Nov 1924 | 5 Nov 1924
- | Presbyterian Church Act Amendment Act 1964 s. 2-8 | 19 of 1964 | 8 Oct 1964 | 8 Oct 1964
- | Presbyterian Church Act 1976 s. 3 | 120 of 1976 | 1 Dec 1976 | 22 Jun 1977 (see s. 2 and Gazette 17 Jun 1977 p. 1811)
- | Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
- | Reprint of the Presbyterian Church Act 1908 as at 25 Oct 2002 (includes amendments listed above)
- | Taxation Administration (Consequential Provisions) Act 2002 s. 20 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
-Duties Legislation Amendment Act 2008 s. 52 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
+Short title | Number and year | Assent | Commencement
+Presbyterian Church Act 1908 | 2 of 1908 (8 Edw. VII No. 2) | 12 Aug 1908 | 12 Aug 1908
+Presbyterian Church Act Amendment Act 1919 s. 2 and 3 | 50 of 1919 (10 Geo. V No. 38) (as amended by No. 19 of 1964 s. 9-11) | 17 Dec 1919 | 17 Dec 1919
+Presbyterian Church Act Amendment Act 1924 s. 2, 3 and 7 | 6 of 1924 (15 Geo. V No. 6) | 5 Nov 1924 | 5 Nov 1924
+Presbyterian Church Act Amendment Act 1964 s. 2-8 | 19 of 1964 (13 Eliz. II No. 19) | 8 Oct 1964 | 8 Oct 1964
+Presbyterian Church Act 1976 s. 3 | 120 of 1976 | 1 Dec 1976 | 22 Jun 1977 (see s. 2 and Gazette 17 Jun 1977 p. 1811)
+Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
+Reprint of the Presbyterian Church Act 1908 as at 25 Oct 2002 (includes amendments listed above)
+Taxation Administration (Consequential Provisions) Act 2002 s. 20 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
+Duties Legislation Amendment Act 2008 Sch. 1 cl. 31 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Water Services Legislation Amendment and Repeal Act 2012 s. 223 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Reprint 2: The Presbyterian Church Act 1908 as at 5 Sep 2014 (includes amendments listed above)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Presbyterian Church of Australia Act 1970 s. 7 | 91 of 1970 | 30 Nov 1970 | Notice to be published (see s. 7(2) and 2(2))
+Other notes
 I.e. 48 Vict. No. 20.
 Repealed by the Trustees Act 1962.
-Footnote no longer applicable.
-The Presbyterian Church Act 1908 was temporarily modified by the Presbyterian Church Act 1976 s. 4. Section 4 ceased to operate or have effect on 28 Jun 1985. See Gazette 28 Jun 1985 p. 2374 and the 1976 Act s. 5 which reads as follows:
-“
-5.Reversion to General Assembly
-The Presbytery of Western Australia may at any time by resolution declare itself to be the General Assembly of the Presbyterian Church in Western Australia and in that capacity it may take such steps as may be necessary for the General Assembly to be duly constituted and convened and upon the publication in the Government Gazette of a notice setting out the said declaration signed by the moderator for the time being of the presbytery the provisions of section 4 of this Act shall cease to have any operation or effect, but all persons, things and circumstances appointed or created by or under the Presbyterian Church Act 1908 as amended, or the Presbytery of Western Australia upon and after the appointed day shall continue to have the same status, operation and effect as they would have had if the said declaration had not been made.
-”.
 The Presbyterian Church Act 1908 is to be read as one with the following Acts:
 Presbyterian Church Act Amendment Act 1919
 Presbyterian Church Act Amendment Act 1924
 Other relevant Acts :
 Presbyterian Church of Australia Act 1901
 Presbyterian Church of Australia Act 1970.
-As at the date of this compilation the amendments to this Act in the Presbyterian Church of Australia Act 1970 s. 7 have not come into operation because the notice under s. 7(2) which would give them effect has not been published. Section 7 reads as follows:
-“
-7.Presbyterian Church Act 1908 amended
-(1) The Presbyterian Church Act 1908 is amended as follows:
-(a) by adding after the section number “3.” the subsection designation “(1)”;
-(b) by substituting for the definition “Church” in section 3 the following definition —
-“
-Church, the Presbyterian Church in Western Australia, the said Church, the Church mean that part of the Presbyterian Church of Australia that is within the State. ;
-”;
-(c) by substituting for the definition “General Assembly” in section 3 the following definition —
-“
-The Synod means the Synod of Western Australia of the Presbyterian Church of Australia, convened in accordance with the rules, practice and uses of the said Church. ;
-”;
-(d) by substituting for the words “General Assembly” in line two of the definition “Moderator” in section 3 the word “Synod”;
-(e) by substituting for the words “said Church” in line three of the definition “Presbytery” in section 3 the words “Presbyterian Church of Australia”;
-(f) by substituting for the definition “Minister” in section 3 the following definition —
-“
-Minister means any person recognised as a minister of the Presbyterian Church of Australia by a Presbytery of the Presbyterian Church in Western Australia and who is a member of that Presbytery. ;
-”;
-(g) by adding after the definition “Committee of Management” a subsection as follows —
-“
-(2) After the coming into operation of the Presbyterian Church of Australia Act 1970, a reference in this Act to the “General Assembly” except in the definition “Presbytery” and in section 20 of this Act shall be read and construed as a reference to “The Synod” but so that the Commissioners holding office at the time this subsection comes into operation shall, subject to this Act, continue to hold office. ;
-”;
-(h) by substituting for the passage “The Settled Land Act of 1892” in lines 22 and 23 of section 4 the passage “the Trustees Act 1962”; and
-(i) by substituting for the figures “1901” in line 10 of section 20 the figures “1970”.
-(2) This section shall come into operation on the date of the publication in the Gazette of the notice referred to in section 2 of this Act.
-”.
+The Presbyterian Church Act 1908 was temporarily modified by the Presbyterian Church Act 1976 s. 4. Section 4 ceased to operate or have effect on 28 Jun 1985. See Gazette 28 Jun 1985 p. 2374 and the 1976 Act s. 5 which reads as follows:
+5.Reversion to General Assembly
+The Presbytery of Western Australia may at any time by resolution declare itself to be the General Assembly of the Presbyterian Church in Western Australia and in that capacity it may take such steps as may be necessary for the General Assembly to be duly constituted and convened and upon the publication in the Government Gazette of a notice setting out the said declaration signed by the moderator for the time being of the presbytery the provisions of section 4 of this Act shall cease to have any operation or effect, but all persons, things and circumstances appointed or created by or under the Presbyterian Church Act 1908 as amended, or the Presbytery of Western Australia upon and after the appointed day shall continue to have the same status, operation and effect as they would have had if the said declaration had not been made.
 The Taxation Administration (Consequential Provisions) Act 2002 s. 3 and 4 and Pt. 4 read as follows:
-“
 3.Relationship with other Acts
 The Taxation Administration Act 2003 is to be read with this Act as if they formed a single Act.
 4.Meaning of terms used in this Act
@@ -157,19 +128,19 @@ cannot be made more than 15 months after the licence was granted or transferred.
 49.Payment of duty by returns (Stamp Act 1921, s. 112V)
 (1) A permission granted under section 112V of the old Stamp Act and in force immediately before the commencement day continues in force on and after that day as a special tax arrangement under the Taxation Administration Act 2003.
 (2) Any requirement that applied, immediately before the commencement day, to a person to whom a permission continued by subsection (1) had been granted (whether imposed by the old Stamp Act or as a condition to which the permission was subject), continues as a condition to which the special tax arrangement referred to in subsection (1) is subject.
-”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Adherents3
 Church3
+Commissioners4
 Committee of Management3
-Congregation3
+congregation3
 Elder3
 General Assembly3
 Governor3
-Members3
+members3
 Minister3
 Moderator3
 Presbytery3
-the Commissioners4
+properties of the said Church20
