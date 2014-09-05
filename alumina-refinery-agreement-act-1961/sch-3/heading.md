@@ -1,6 +1,6 @@
 ## Third Schedule — Second supplementary agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 76 of 1966 s. 5; amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT UNDER SEAL is made the 22nd day of November One thousand nine hundred and sixty-six between THE HONOURABLE DAVID BRAND M.L.A. Premier and Treasurer of the State of Western Australia acting for and on behalf of the Government of the said State and its instrumentalities (hereinafter referred to as “the State”) of the one part AND WESTERN ALUMINIUM NO LIABILITY a Company duly incorporated under the Companies Statutes of the State of Victoria and having its principal office in that State at 155 Queen Street Melbourne and having its registered office in the State of Western Australia at Hope Valley Road Kwinana (hereinafter referred to as “the Company” which term shall include its successors and permitted assigns) of the other part.
 WHEREAS the parties are the parties to and desire to amend the agreement between them defined in section 2 of the Alumina Refinery Agreement Act 1961-1963 of the State of Western Australia (which agreement is hereinafter referred to as “the principal agreement”).
 NOW THIS AGREEMENT WITNESSETH —
@@ -34,4 +34,4 @@ subject however to the assignee in each case executing in favour of the said Sta
 IN WITNESS whereof the parties hereto have executed this agreement the day and the year first above written.
 SIGNED SEALED AND DELIVERED by THE HONOURABLE DAVID BRAND M.L.A. in the presence of ARTHUR GRIFFITH, Minister for Mines. |  | DAVID BRAND
 THE COMMON SEAL OF WESTERN ALUMINIUM NO LIABILITY was hereunto affixed in the presence of — A. C. SHELDON, Director. D.A. FERRIER, Secretary.
-[Third Schedule inserted by No. 76 of 1966 s.5.]
+[Third Schedule inserted: No. 76 of 1966 s. 5.]
