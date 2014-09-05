@@ -1,6 +1,6 @@
 ## Second Schedule — First supplementary agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 48 of 1963 s. 5; amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT UNDER SEAL is made the 27th day of November One thousand nine hundred and sixty-three BETWEEN THE HONOURABLE DAVID BRAND M.L.A. Premier and Treasurer of the State of Western Australia acting for and on behalf of the Government of the said State and its instrumentalities (hereinafter referred to as “the State”) of the one part and WESTERN ALUMINIUM NO LIABILITY a company duly incorporated under the Companies Statutes of the State of Victoria and having its principal office in that State at 360 Collins Street Melbourne and having its registered office in the State of Western Australia at Hope Valley Road Kwinana (hereinafter referred to as “the Company” which term shall include its successors and permitted assigns) of the other part
 WHEREAS the parties are the parties to and desire to amend the Agreement between them defined in section 2 of the Alumina Refinery Agreement Act 1961 (Act No. 3 of 1961) of the State of Western Australia (which agreement is hereinafter referred to as “the principal Agreement”).
 NOW THIS AGREEMENT WITNESSETH: —
@@ -13,14 +13,14 @@ NOW THIS AGREEMENT WITNESSETH: —
 5.Clause 6 of the principal Agreement is amended —
 (a)by inserting after the words “further area” in line three of paragraph (b) the words “or further areas”;
 (b)by deleting subclause (4) and substituting the following subclause —
-(4)(a)The land made available by the State under subclause (3) (a) of this clause will be filled by the Company in such manner and to such level or levels as the parties may agree or failing agreement as is hereinafter in this subclause provided.
+(4)(a)The land made available by the State under subclause (3)(a) of this clause will be filled by the Company in such manner and to such level or levels as the parties may agree or failing agreement as is hereinafter in this subclause provided.
 (b)In default of agreement under paragraph (a) of this subclause the land made available by the State as aforesaid will be filled mainly with iron oxide but partly with sands to within two feet of a level or levels to be mutually agreed before the Company commences to fill in other land with iron oxide and when any portion of the land so made available by the State of an area of ten acres or more is so filled the Company will within two years or such longer period as the State may nominate thereafter complete the filling of such portion with sands only.
 (c)Upon the completion of the filling of any area the Company will advise the State in writing thereof whereupon the Company’s rights and interests in respect of such area shall cease and determine.
 (d)The Company shall use reasonable endeavours to ensure that each portion so filled will support buildings for light industry.
 (e)The foregoing provisions of this subclause shall be without prejudice to the operation of the provisions of clause 28 of this Agreement.
 6.Clause 9 of the principal Agreement is amended by substituting “$200” for “$100” in line two of paragraph (b) of subclause (2) thereof.
 7.The following clause is substituted for clause 28 of the principal Agreement —
-28.To the extent that is necessary for the more efficient fulfilment of the objectives of this Agreement the provisions hereof may be varied in such manner and to such extent as the parties mutually agree and all references herein to this Agreement shall be deemed to be to this Agrement as varied in accordance with this clause.
+28.To the extent that is necessary for the more efficient fulfilment of the objectives of this Agreement the provisions hereof may be varied in such manner and to such extent as the parties mutually agree and all references herein to this Agreement shall be deemed to be to this Agreement as varied in accordance with this clause.
 8.The following clause is added to the principal Agreement to stand as new clause 33 thereof namely —
 33.(1)In order to resolve certain doubts as to the meaning of the expression “Crown land” in clause 9 of this Agreement it is hereby agreed and declared that land within the leased area and land within the Temporary Reserves referred to in the said clause 9 are not to be regarded as being or having been other than Crown land within the meaning and for the purposes of that clause merely because the land is for the time being within the boundaries of a water reserve or catchment area constituted under any Act of the Parliament of Western Australia: BUT the expression does not include —
 (a)any land the subject of any mineral claim for bauxite or for any cement-making materials in force as at the date of this Agreement;
@@ -30,4 +30,4 @@ NOW THIS AGREEMENT WITNESSETH: —
 IN WITNESS whereof the parties hereto have executed this Agreement the day and year first above written.
 SIGNED SEALED AND DELIVERED by the HONOURABLE DAVID BRAND M.L.A. in the presence of: P. L. Sparrow. |  | DAVID BRAND [L.S.]
 THE COMMON SEAL of WESTERN ALUMINIUM NO LIABILITY was hereunto affixed in the presence of: J. COLIN SMITH Director. F. R. MORGAN Secretary. |  | [C.S.]
-[Second Schedule inserted by No. 48 of 1963 s.5; amended by No. 113 of 1965 s.8(1).]
+[Second Schedule inserted: No. 48 of 1963 s. 5; amended: No. 113 of 1965 s. 8(1).]
