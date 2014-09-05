@@ -1,6 +1,6 @@
 ## Schedule 1 — 1994 Financial Agreement
 [s. 4]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 AGREEMENT made the 25th day of February One thousand nine hundred and ninety four between —
 THE COMMONWEALTH OF AUSTRALIA of the first part;
 THE STATE OF NEW SOUTH WALES of the second part;
@@ -43,27 +43,27 @@ NOW IT IS HEREBY AGREED as follows:
 2(1)This Agreement, as varied from time to time, shall be known as “the 1994 Financial Agreement”.
 (2)Upon its coming into force, clauses 7, 8, 10, 11 and 13 of this Agreement shall be deemed to have commenced to operate on and from 1 July 1990.
 3(1)In this Agreement, unless the contrary intention appears —
-bondholder means holder of any securities but does not include the Commonwealth;
-face value means —
+“bondholder” means holder of any securities but does not include the Commonwealth;
+“face value” means —
 (a)in relation to securities repayable in Australian currency, the principal amount, excluding any amount payable by way of premium, remaining to be repaid in respect of the securities;
 (b)in relation to securities repayable in an overseas currency, the equivalent in Australian currency of the principal amount, excluding any amount payable by way of premium, remaining to be repaid in respect of the securities, converted at the Reserve Bank of Australia selling rate to the Commonwealth Government at the time of conversion or at such rate as is agreed between the Commonwealth and the States;
-gross cost, in relation to the purchase of securities, means the amount actually paid for the securities, including interest, brokerage and commission;
-holder, in relation to securities, means owner of the securities according to the manner in which ownership of the securities is determined;
-net public debt, means:
+“gross cost”, in relation to the purchase of securities, means the amount actually paid for the securities, including interest, brokerage and commission;
+“holder”, in relation to securities, means owner of the securities according to the manner in which ownership of the securities is determined;
+“net public debt”, means:
 (a)in relation to a State, the public debt of the State less an amount equal to the sum of the balance standing to the credit of the State —
 (A)in relation to the period until the establishment of the Debt Retirement Reserve Trust Account, in the Sinking Fund; and
 (B)thereafter, in the Debt Retirement Reserve Trust Account; and
 (b)in relation to the Northern Territory, the public debt of that Territory less an amount equal to the sum of the balance standing to the credit of the Territory —
 (C)in relation to the period until the establishment of the Debt Retirement Reserve Trust Account, in the Northern Territory Debt Sinking Fund; and
 (D)thereafter, in the Debt Retirement Reserve Trust Account;
-Premier includes, in relation to clause 4, the Chief Minister of —
+“Premier” includes, in relation to clause 4, the Chief Minister of —
 (a)the Australian Capital Territory; and
 (b)the Northern Territory of Australia,
 as the case may be;
-public debt means
+“public debt” means
 (a)in relation to a State, the aggregate of the face value of the securities issued or created by the State or issued or created in respect of the State in accordance with the Principal Agreement that have not been purchased, redeemed or otherwise repaid or in respect of which the State has not otherwise been freed and discharged from liability; and
 (b)in relation to the Northern Territory, the aggregate of the face value of the securities issued or created in respect of the Northern Territory in accordance with the 1986 Arrangements that have not been purchased, redeemed or otherwise repaid or in respect of which the Northern Territory has not otherwise been freed and discharged from liability;
-securities means —
+“securities” means —
 (a)where the context involves a State;
 Inscribed Stock and Bonds
 Instalment Stock
@@ -79,10 +79,10 @@ Registered Stock
 Stock payable to bearer
 Australian Savings Bonds
 which were issued or created in respect of the Northern Territory under the 1986 Arrangements;
-the Commission means the National Debt Commission continued in existence by the National Debt Sinking Fund Act 1966;
-the Loan Council means the Australian Loan Council continued in existence pursuant to this Agreement;
-the Sinking Fund means the National Debt Sinking Fund created by the National Debt Sinking Fund Act 1966; and
-the 1986 Arrangements means the Arrangements entered into between the Commonwealth of Australia and the Northern Territory dated the 26th May 1986 under which, among other things, there was created the Northern Territory Debt Sinking Fund within the Commonwealth Trust Fund.
+“the Commission” means the National Debt Commission continued in existence by the National Debt Sinking Fund Act 1966;
+“the Loan Council” means the Australian Loan Council continued in existence pursuant to this Agreement;
+“the Sinking Fund” means the National Debt Sinking Fund created by the National Debt Sinking Fund Act 1966; and
+“the 1986 Arrangements” means the Arrangements entered into between the Commonwealth of Australia and the Northern Territory dated the 26th May 1986 under which, among other things, there was created the Northern Territory Debt Sinking Fund within the Commonwealth Trust Fund.
 (2)In this Agreement —
 (a)a reference to a year is, unless the contrary intention appears, a reference to a financial year commencing on a 1st July;
 (b)the expression “in writing” includes any mode of representing or reproducing words and figures in a written form; and
@@ -181,12 +181,12 @@ of equal monthly instalments during the period referred to in paragraph (a) or d
 (2)Sub-clauses 12A(1), (2) and (4) to (12), inclusive, of the Principal Agreement continue to operate until the date on which the Debt Retirement Reserve Trust Account is established and, for the purposes of their continued operation, references in sub-clause 12A(9) of the Principal Agreement to clauses 12B and 12C are taken to be references to clauses 7 and 8, respectively, of this Agreement.
 (3)This Agreement rescinds, with effect from the date referred to in subclause (1), the provisions of the 1986 Arrangements in relation to debt outstanding as at 1 July 1990, being debt arising from securities the subject of those Arrangements issued or created in respect of the Northern Territory by the Commonwealth.
 IN WITNESS WHEREOF this agreement has been signed for and on behalf of the parties respectively as at the day and year first above written.
-SIGNED by the Honourable PAUL JOHN KEATING, Prime Minister of the Commonwealth of Australia, in the presence of Dr. Michael Keating ............................................................. | Paul J. Keating ............................................................
-SIGNED by the Honourable JOHN JOSEPH FAHEY, Premier of the State of New South Wales, in the presence of Mr. Roger Wilkins ............................................................. | John Fahey ............................................................
-SIGNED by the Honourable JEFFREY GIBB KENNETT, Premier of the State of Victoria, in the presence of Mr. Ken Baxter ............................................................. | J. G. Kennett ............................................................
-SIGNED by the Honourable WAYNE KEITH GOSS, Premier of the State of Queensland, in the presence of Mr. Kevin Rudd ............................................................. | W. K. Goss ............................................................
-SIGNED by the Honourable RICHARD FAIRFAX COURT, Premier of the State of Western Australia, in the presence of Mr. Don Saunders ............................................................. | Richard Court ............................................................
-SIGNED by the Honourable DEAN CRAIG BROWN, Premier of the State of South Australia, in the presence of Mr. Michael Schilling ............................................................. | Dean Brown ............................................................
-SIGNED by the Honourable RAYMOND JOHN GROOM, Premier of the State of Tasmania, in the presence of Dr. Dan Norton ............................................................. | R. J. Groom ............................................................
-SIGNED by ROSEMARY FOLLETT, Chief Minister of the Australian Capital Territory, in the presence of Dr. David Rosalky ............................................................. | Rosemary Follett ............................................................
-SIGNED by the Honourable MARSHALL BRUCE PERRON, Chief Minister of the Northern Territory, in the presence of Dr. Neil Conn ............................................................. | M. B. Perron ............................................................
+SIGNED by the Honourable PAUL JOHN KEATING, Prime Minister of the Commonwealth of Australia, in the presence of Dr. Michael Keating ............................................................ | Paul J. Keating ............................................................
+SIGNED by the Honourable JOHN JOSEPH FAHEY, Premier of the State of New South Wales, in the presence of Mr. Roger Wilkins ............................................................ | John Fahey ............................................................
+SIGNED by the Honourable JEFFREY GIBB KENNETT, Premier of the State of Victoria, in the presence of Mr. Ken Baxter ............................................................ | J. G. Kennett ............................................................
+SIGNED by the Honourable WAYNE KEITH GOSS, Premier of the State of Queensland, in the presence of Mr. Kevin Rudd ............................................................ | W. K. Goss ............................................................
+SIGNED by the Honourable RICHARD FAIRFAX COURT, Premier of the State of Western Australia, in the presence of Mr. Don Saunders ............................................................ | Richard Court ............................................................
+SIGNED by the Honourable DEAN CRAIG BROWN, Premier of the State of South Australia, in the presence of Mr. Michael Schilling ............................................................ | Dean Brown ............................................................
+SIGNED by the Honourable RAYMOND JOHN GROOM, Premier of the State of Tasmania, in the presence of Dr. Dan Norton ............................................................ | R. J. Groom ............................................................
+SIGNED by ROSEMARY FOLLETT, Chief Minister of the Australian Capital Territory, in the presence of Dr. David Rosalky ............................................................ | Rosemary Follett ............................................................
+SIGNED by the Honourable MARSHALL BRUCE PERRON, Chief Minister of the Northern Territory, in the presence of Dr. Neil Conn ............................................................ | M. B. Perron ............................................................
