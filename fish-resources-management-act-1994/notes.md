@@ -29,7 +29,7 @@ Petroleum Amendment Act 2007 s. 94 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see
 Reprint 3: The Fish Resources Management Act 1994 as at 16 May 2008 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 60 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Fish Resources Management Amendment Act 2009 | 37 of 2009 | 3 Dec 2009 | s. 1 and 2: 3 Dec 2009 (see s. 2(a)); Act other than s. 1 and 2: 31 Jul 2010 (see s. 2(b) and Gazette 30 Jul 2010 p. 3493)
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 (as amended by No. 17 of 2014 s. 39(2)(a)) | 28 Jun 2010 | The amendment to Sch. 3: 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Fish Resources Management Amendment (Fees) Act 2011 | 21 of 2011 | 11 Jul 2011 | s. 1 and 2: 11 Jul 2011 (see s. 2(a)); Act other than s. 1 and 2: 30 Jul 2011 (see s. 2(b) and Gazette 29 Jul 2011 p. 3127)
 Fish Resources Management Amendment (Fees) Act (No. 2) 2011 | 22 of 2011 | 11 Jul 2011 | s. 1 and 2: 11 Jul 2011 (see s. 2(a)); s. 3: 30 Jul 2011 (see s. 2(b) and Gazette 29 Jul 2011 p. 3127); s. 4: 30 Jul 2011 (see s. 2(c) and Gazette 29 Jul 2011 p. 3127); s. 5: 30 Jul 2011 (see s. 2(d) and Gazette 29 Jul 2011 p. 3127)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 7 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
@@ -39,9 +39,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 (as amended by No. 17 of 2014 s. 39(2)(a)) | 28 Jun 2010 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 24 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Statutes (Repeals and Minor Amendments) Act 2014 s. 39(2)(a) | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 The amendment to s. 245(1) in the Public Sector Reform Act 2010 s. 89 is not included because the section it sought to amend was deleted by the Fish Resources Management Amendment Act 2009 s. 19.
 The Fish Resources Management Amendment Act 2002 s. 8(2)-(4) read as follows:
 (2) The arrangements of 15 April 1995 by which the Minister for Fisheries purported to lease from the Minister for Transport that portion of land known as “Aquaculture Park Area”, being a total area of 7.8152 hectares situated in the Broome Port area, for the purposes of establishing an aquaculture park are to be taken to be, and always to have been, as valid as they would have been if the amendments made to the Fish Resources Management Act 1994 by this Act were in effect at the time the arrangements were made.
@@ -82,7 +80,7 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 (7) Section 224(1)(a) is amended by inserting after “Act” —
 “ or the Biosecurity and Agriculture Management Act 2007 ”.
 (8) Section 258(i) is deleted.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 the amendment to Schedule 1 had not come into operation. It proposes to amend the heading to Schedule 1. Schedule 1 was deleted by the Fish Resources Management Amendment Act 2009 s. 20.
+The Standardisation of Formatting Act 2010 s. 4, the amendment to Schedule 1, had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(2)(a).
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 24 had not come into operation. It reads as follows:
 Division 24 — Fish Resources Management Act 1994 amended
 110.Act amended
@@ -90,11 +88,6 @@ This Division amends the Fish Resources Management Act 1994.
 111.Section 4 amended
 In section 4(1) in the definition of vehicle delete “Road Traffic Act 1974;” and insert:
 Road Traffic (Administration) Act 2008 section 4;
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(2)(a) had not come into operation. It reads as follows:
-39.Standardisation of Formatting Act 2010 amended
-(1) This section amends the Standardisation of Formatting Act 2010.
-(2) In section 4 in the Table:
-(a) in the row relating to the Fish Resources Management Act 1994 Schedule 1 delete “Schedule 1”;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -140,7 +133,7 @@ Commonwealth Act4(1)
 Commonwealth Minister15
 confidential information250(1)
 corresponding law15
-current period250(4B)(a)
+current period250(4B)
 customary fishing4(1)
 Department4(1)
 designated fishing zone4(1)
@@ -202,7 +195,7 @@ possession4(1)
 possession limit51(1)
 precautionary principle4(1)
 premises4(1)
-previous period250(4B)(b)
+previous period250(4B)
 principal offender202(1), 202A(1)
 priority fish153
 private land4(1)
