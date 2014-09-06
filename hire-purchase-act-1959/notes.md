@@ -41,15 +41,12 @@ Standardisation of Formatting Act 2010 s. 19 and 51 | 19 of 2010 | 28 Jun 2010 |
 Acts Amendment (Fair Trading) Act 2010 s. 187 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 Reprint 8: The Hire-Purchase Act 1959 as at 18 Feb 2011 (includes amendments listed above)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 6 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Statutes (Repeals and Minor Amendments) Act 2014 s. 25 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2014 s. 25 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 24 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 (other than s. 151) (as amended by Acts Amendment (Fair Trading) Act 2010 s. 184) reads as follows:
 Division 23 — Transitional provisions
-[151.Deleted by No. 58 of 2010 s. 184.]
+[151.Deleted: No. 58 of 2010 s. 184.]
 152.Commissioner for Corporate Affairs and Registrar of Co-operative and Financial Institutions
 (1) A thing done or omitted to be done by, to or in relation to, the Commissioner for Corporate Affairs before commencement under, or for the purposes of, the Companies (Co-operative) Act 1943 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
 (2) A thing done or omitted to be done by, to or in relation to, the Registrar of Co-operative and Financial Institutions before commencement under, or for the purposes of, the Co-operative and Provident Societies Act 1903 has the same effect after commencement as if it had been done or omitted by, to or in relation to, the Registrar as defined in that Act as in force after commencement.
@@ -62,46 +59,40 @@ In this Division —
 commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 25 had not come into operation. It reads as follows:
-25.Hire-Purchase Act 1959 amended
-(1) This section amends the Hire-Purchase Act 1959.
-(2) In section 3(2)(e)(viii) delete “subparagraphs (i), (iii), (iv), (v), (vi), (vii) and (viia)” and insert:
-subparagraphs (i), (iii), (iv), (v) and (vi)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-agreement registration fees3(2)(e)(vii)
-amount financed3(2)(e)(viii)
-balance originally payable under the agreement3(2)(e)(x)
+amount financed3(2)
+balance originally payable under the agreement3(2)
 cash2(1)
-cash price3(2)(e)(i)
+cash price3(2)
 CEO18(10)
 Commissioner2(1)
 credit provider2(1)
 dealer2(1), 29(1)
 default charge2(1)
 Department2(1)
-deposit3(2)(e)(ii)
+deposit3(2)
 executive officer23A(3)
 exempt hire-purchase agreement1A(9)
 farmer25(5)
 financier29(1)
-freight3(2)(e)(iv)
+freight3(2)
 goods2(1)
 guarantee2(1)
 guarantor2(1)
 hire-purchase agreement2(1)
 hire-purchase credit provider2(1)
-hirer2(1), 30(a) and (b)
-insurance3(2)(e)(vi)
-maintenance3(2)(e)(iii)
+hirer2(1), 30, 30
+insurance3(2)
+maintenance3(2)
 owner2(1), 30
 period of agreement2(1)
 prescribed document38(2)
 Schedule2(1)
 serve37A(4)
 statutory rebate2(1)
-terms charges3(2)(e)(ix)
+terms charges3(2)
 third party insurance2(1)
 total amount payable2(1)
-vehicle registration fees2(1), 3(2)(e)(v)
+vehicle registration fees2(1), 3(2)

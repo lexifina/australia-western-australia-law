@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum Pipelines Act 1969 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum Pipelines Act 1969 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum Pipelines Act 1969 | 112 of 1969 | 28 Nov 1969 | 12 Dec 1969 (see s. 2 and Gazette 12 Dec 1969 p. 4002)
@@ -21,7 +21,7 @@ Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 16 | 20 of 2003 | 2
 Criminal Code Amendment Act 2004 s. 58 | 4 of 2004 | 23 Apr 2004 | 21 May 2004 (see s. 2)
 Dangerous Goods Safety Act 2004 s. 70 | 7 of 2004 | 10 Jun 2004 | 1 Mar 2008 (see s. 2 and Gazette 29 Feb 2008 p. 669)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 99 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
-Petroleum Legislation Amendment and Repeal Act 2005 Pt. 3 (other than s. 29(2)) | 13 of 2005 | 1 Sep 2005 | 15 May 2010 (see s. 2 and Gazette 14 May 2010 p. 2015)
+Petroleum Legislation Amendment and Repeal Act 2005 Pt. 3 (other than s. 29(2)) | 13 of 2005 (as amended by No. 17 of 2014 s. 31) | 1 Sep 2005 | 15 May 2010 (see s. 2 and Gazette 14 May 2010 p. 2015)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2(2) and Gazette 21 Mar 2006 p. 1078)
 Reprint 3: The Petroleum Pipelines Act 1969 as at 7 Jul 2006 (includes amendments listed above, except those in the Dangerous Goods Safety Act 2004 and the Petroleum Legislation Amendment and Repeal Act 2005)
 Petroleum Amendment Act 2007 s. 102 | 35 of 2007 | 21 Dec 2007 | 15 May 2010
@@ -31,12 +31,13 @@ Reprint 4: The Petroleum Pipelines Act 1969 as at 1 Oct 2010 (includes amendment
 Petroleum and Energy Legislation Amendment Act 2010 Pt. 4 | 42 of 2010 | 28 Oct 2010 | 25 May 2011 (see s. 2(b) and Gazette 24 May 2011 p. 1892)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 4 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 15 and 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Statutes (Repeals and Minor Amendments) Act 2014 s. 9 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Petroleum Legislation Amendment and Repeal Act 2005 s. 29(2) | 13 of 2005 (as amended by No. 17 of 2014 s. 31) | 1 Sep 2005 | To be proclaimed (see s. 2)
-Statutes (Repeals and Minor Amendments) Act 2014 s. 9 and 31 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+Other notes
+Footnote no longer required.
 The Acts Amendment (Petroleum) Act 1990 s. 122(2) reads as follows:
 (2) A declaration made under —
 (a) section 5(1)(a) of the principal Act before its repeal and substitution by this section and in force immediately before the commencement of this section shall on that commencement be deemed to have been made under section 5(1)(a)(iii); or
@@ -104,63 +105,33 @@ The amendment in the Petroleum Safety Act 1999 s. 92 that was to amend this Act 
 The Fourth Schedule was inserted by the Metric Conversion Act Amendment Act 1975.
 The Acts Amendment (Petroleum) Act 1990 s. 148(2) is a savings provision of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
-7.3.Consequential amendments
-Schedule 2 has effect.
-Schedule 2 Div. 8 reads as follows:
-Schedule 2 — Consequential amendments
-[s. 7.3]
-Division 8 — Petroleum Pipelines Act 1969
-58.The Act amended
-The amendments in this Division are to the Petroleum Pipelines Act 1969.
-59.Section 10A inserted
-After section 10 the following section is inserted —
-“
-10A.Licence not to affect native title
-(1)A licence is not to be taken to authorise the licensee or any other person to do any act that affects native title.
-(2)In subsection (1) —
-affects and native title have the meanings given to them respectively by sections 227 and 223 of the Native Title Act 1993 of the Commonwealth.
-”.
-60.Section 19 amended
-After section 19(1) the following subsection is inserted —
-“
-(1a)Where the taking of land or an easement in land under subsection (1) is a Part 2 act, a Part 3 act or Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the operation of that subsection is subject to section 2.6, 3.5 or 4.3, as the case may be, of that Act.
-”.
-On the date as at which this compilation was prepared, the Petroleum Legislation Amendment and Repeal Act 2005 s. 29(2) had not come into operation. It reads as follows:
-29.Sections 66BA and 66BB inserted and transitional provision
-(2) Section 51 of the Justices Act 1902 as in force immediately before the commencement of subsection (1) applies to an offence against the Petroleum Pipelines Act 1969 committed before that commencement as if subsection (1) had not been enacted.
+Footnote no longer required.
+The Petroleum Legislation Amendment and Repeal Act 2005 s. 29(2) had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 31.
 The amendments in the Petroleum and Energy Legislation Amendment Act 2010 s. 182(11) and (12) are not included because the section they sought to amend had been deleted before the amendments purported to come into operation.
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 9 and 31 had not come into operation. They read as follows:
-9.Petroleum Pipelines Act 1969 amended
-(1) This section amends the Petroleum Pipelines Act 1969.
-(2) In section 66BB(1) delete “the complaint” and insert:
-the charge of the offence
-31.Petroleum Legislation Amendment and Repeal Act 2005 amended
-(1) This section amends the Petroleum Legislation Amendment and Repeal Act 2005.
-(2) Delete section 29(2).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 accidentSch. 1 cl. 3
-actual supplierSch. 1 cl. 11(2)(b)
+actual supplierSch. 1 cl. 11(2)
+amending Act14(4)
 approved4(1)
 Australian Standard66BB(4)
 Australian/New Zealand Standard66BB(4)
 CEO66BB(4)
 charge47(15)
 contractSch. 1 cl. 3
-contractorSch. 1 cl. 3
+contractorSch. 1 cl. 3 and 6
 dangerous occurrenceSch. 1 cl. 3
 debenture47(15)
 designated work groupSch. 1 cl. 3
 employeeSch. 1 cl. 3
 employerSch. 1 cl. 3
-equipment supplierSch. 1 cl. 13(1)(c)(i)
+equipment supplierSch. 1 cl. 13(1)
 group memberSch. 1 cl. 3
 improvement noticeSch. 1 cl. 3
 inspectionSch. 1 cl. 3
 inspector4(1)
-land19(3)(a)
+land19(3)
 licence4(1)
 licence area4(1)
 licensee4(1), Sch. 1 cl. 3
@@ -192,7 +163,7 @@ relevant personSch. 1 cl. 6
 relinquished area4(1)
 responsible personSch. 1 cl. 36(2) and 60(1)
 reviewing authoritySch. 1 cl. 21(5) and 64(10)
-supervisorSch. 1 cl. 42(1)(a)
+supervisorSch. 1 cl. 42(1)
 this ScheduleSch. 1 cl. 81(4)
 TribunalSch. 1 cl. 3
 Under Secretary59(2)

@@ -71,11 +71,11 @@ Standardisation of Formatting Act 2010 s. 4, 44(2) and 51 | 19 of 2010 | 28 Jun 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 9: The Transport Co-ordination Act 1966 as at 11 Mar 2011 (includes amendments listed above)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 6 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
+Statutes (Repeals and Minor Amendments) Act 2014 s. 42 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 51 | 8 of 2012 (as amended by No. 18 of 2014 Pt. 10 Div. 3) | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Statutes (Repeals and Minor Amendments) Act 2014 s. 42 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 6 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(f))
 The State Transport Co-ordination Act 1966 was repealed by the State Transport Co-ordination Act 1981, which was repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.
 The reference in the Taxi Act 1994 s. 49(a) to an amendment of s. 2 of this Act should refer to an amendment of s. 4 of this Act. Section 49(a) reads as follows:
@@ -211,10 +211,6 @@ Delete section 47ZE.
 In section 47ZF(1):
 (a) delete paragraph (q);
 (b) in paragraph (u) delete “and holders of taxi-car drivers’ licences”.
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 42 had not come into operation. It reads as follows:
-42.Transport Co-ordination Act 1966 amended
-(1) This section amends the Transport Co-ordination Act 1966.
-(2) In section 4(1) in the definition of owner paragraph (ab) delete “a person who”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -230,7 +226,6 @@ district47Z(1)
 employing authority8(2)
 facilities15C(4)
 ferry4(1)
-farmFirst Sch. it. 1
 goods4(1)
 gross weight4(1)
 licence4(1), 57(7)
@@ -242,7 +237,7 @@ motor vehicle58B(3)
 officer4(1)
 omnibus4(1)
 operate4(1), 47Z(1)
-owner4(1), 47Z(1) and (5), 58B(3)
+owner4(1), 47Z(1), 47Z(5), 58B(3)
 permit4(1)
 port47A(1)
 prime contractor42A
@@ -250,7 +245,6 @@ provide15C(4)
 public authority8(2)
 public vehicle4(1)
 railway4(1)
-railway stationFirst Sch.
 road4(1)
 Schedule4(1)
 section4(1)

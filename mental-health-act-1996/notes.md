@@ -23,10 +23,7 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 34 | 35 of 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 3: The Mental Health Act 1996 as at 1 Jul 2011 (includes amendments listed above except the Health Practitioner Regulation National Law (WA) Act 2010 s. 112(2))
 Mental Health Amendment (Psychiatrists) Act 2012 Pt. 2 | 52 of 2012 | 29 Nov 2012 | 29 Nov 2012 (see s. 2)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Statutes (Repeals and Minor Amendments) Act 2014 s. 13 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2014 s. 13 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 The Mental Health (Consequential Provisions) Act 1996 Pt. 12 Div. 2 (s. 53-72 inclusive) reads as follows:
 Division 2 — Transitional
@@ -158,13 +155,6 @@ to or in relation to any matter or thing.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 contain a validation provision that may be relevant to this Act.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 is a transitional provision that may be relevant to this Act.
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 13 had not come into operation. It reads as follows:
-13.Mental Health Act 1996 amended
-(1) This section amends the Mental Health Act 1996.
-(2) In section 44 delete “secretary” and insert:
-registrar
-(3) In section 94(1) delete “secretary” and insert:
-registrar
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

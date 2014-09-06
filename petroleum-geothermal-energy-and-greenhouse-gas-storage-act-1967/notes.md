@@ -39,12 +39,12 @@ Reprint 7: The Petroleum and Geothermal Energy Resources Act 1967 as at 5 Aug 20
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 3 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Commercial Arbitration Act 2012 s. 45 it. 15 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
+Statutes (Repeals and Minor Amendments) Act 2014 s. 8 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 Sch. 2 Div. 7 | 60 of 1999 | 10 Jan 2000 | s. 7.3 operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Petroleum and Energy Legislation Amendment Act 2010 s. 51, 57, 58(b) (to the extent that it inserts s. 153(2)(lc)), 61 (to the extent that it inserts Sch. 2 cl. 3) | 42 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
-Statutes (Repeals and Minor Amendments) Act 2014 s. 8 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 The Petroleum Act 1936 was repealed by this Act, s. 3.
 Repealed by the Interpretation Act 1984.
 The amendment in the Petroleum Safety Act 1999 s. 92 is not included as it was deleted by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51 before it came into operation.
@@ -270,19 +270,44 @@ Division 1 — Provisions for Petroleum and Energy Legislation Amendment Act 201
 (a) continues in force for the purposes of that section as it continues to apply under subclause (1); and
 (b) also separately continues in force on and after the commencement of section 57 of the amending Act as if it had been made for the purposes of Part IVB.
 (4) Regulation 3 as continued in force under subclause (3)(a) or (b) may, for the purposes of its application under subclause (3)(a) or (b), be amended or deleted by regulations.
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 8 had not come into operation. It reads as follows:
-8.Petroleum and Geothermal Energy Resources Act 1967 amended
-(1) This section amends the Petroleum and Geothermal Energy Resources Act 1967.
-(2) In section 126A(1) delete “the complaint” and insert:
-the charge of the offence
+relinquished area5(1)
+reservoir16(2)(a)
+responsible personSch. 1 cl. 36(2) and 60(1)
+reviewing authoritySch. 1 cl. 21(5) and 64(10)
+royalty period5(1)
+royalty value5(1)
+safety zone112A(1)
+secondary licence5(1)
+special prospecting authority5(1)
+State26
+structure5(1)
+supervisorSch. 1 cl. 42(1)(a)
+this ScheduleSch. 1 cl. 81(4)
+tight gas52(4A)
+title69J, 127A(5)
+transitional matter154(1)
+transitional regulations154(1)
+TribunalSch. 1 cl. 3
+unit development69(1)
+unused area48CA(1)(b) and (2)(b)
+variation agreement128
+vessel5(1)
+water113(2)
+well5(1)
+wholly cancelled5(1)
+wholly determined5(1)
+workSch. 1 cl. 3
+work group employerSch. 1 cl. 3
+workforce representativeSch. 1 cl. 3
+workplaceSch. 1 cl. 3
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 access authority5(1)
 access authority area7A(2)
 accidentSch. 1 cl. 3
-actual supplierSch. 1 cl. 11(2)(b)
-affected area6A(3)(a)
+actual supplierSch. 1 cl. 11(2)
+affected area6A(3)
 affected lessee24(1)
 amending Act154(3), Sch. 2 cl. 1
 application for a primary licence5(1)
@@ -297,9 +322,9 @@ Barrow Island lease5(1), 128
 block5(1)
 CEO126A(4)
 charge75(15)
-commencement day42A(1)(a)
+commencement day42A(1)
 commencing day128
-compensable lessee 21(1)
+compensable lessee21(1), 21(1)
 construct5(1)
 construction5(1)
 contractSch. 1 cl. 3
@@ -315,11 +340,11 @@ drilling reservation5(1)
 drilling reservation application43DA(1)
 employeeSch. 1 cl. 3
 employerSch. 1 cl. 3
-equipment supplierSch. 1 cl. 13(1)(c)
+equipment supplierSch. 1 cl. 13(1)
 explore for29(3)
 facility 5(1)
 federal duty144A(3)
-former area133(2)(a)
+former area133(2)
 former provisions128
 Gazettal day154(1)
 geothermal access authority5(1)
@@ -363,11 +388,11 @@ operations area92(1)
 operations to which this Division applies128
 operative day154(5)
 operator5(1), 92(1)
-operator’s representativeSch. 1 cl. 3 and 4(1)
+operator’s representativeSch. 1 cl. 3, Sch. 1 cl. 4(1)
 original licence61(1)
 original permit37A(1)
 ostensible supplierSch. 1 cl. 11(2)
-other protected person5(1)
+other protected person5(1), 5(1)
 ownSch. 1 cl. 3
 partly cancelled5(1)
 partly determined5(1)
@@ -407,9 +432,9 @@ regulation 3Sch. 2 cl. 1
 regulations5(1), Sch. 1 cl. 3
 relevant personSch. 1 cl. 6
 relinquished area5(1)
-reservoir16(2)(a)
-responsible personSch. 1 cl. 36(2) and 60(1)
-reviewing authoritySch. 1 cl. 21(5) and 64(10)
+reservoir16(2)
+responsible personSch. 1 cl. 36(2), Sch. 1 cl. 60(1)
+reviewing authoritySch. 1 cl. 21(5), Sch. 1 cl. 64(10)
 royalty period5(1)
 royalty value5(1)
 safety zone112A(1)
@@ -417,7 +442,7 @@ secondary licence5(1)
 special prospecting authority5(1)
 State26
 structure5(1)
-supervisorSch. 1 cl. 42(1)(a)
+supervisorSch. 1 cl. 42(1)
 this ScheduleSch. 1 cl. 81(4)
 tight gas52(4A)
 title69J, 127A(5)
@@ -425,7 +450,7 @@ transitional matter154(1)
 transitional regulations154(1)
 TribunalSch. 1 cl. 3
 unit development69(1)
-unused area48CA(1)(b) and (2)(b)
+unused area48CA(1), 48CA(2)
 variation agreement128
 vessel5(1)
 water113(2)

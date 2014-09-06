@@ -8,15 +8,7 @@ Electronic Transactions Act 2011 s. 25 | 46 of 2011 | 25 Oct 2011 | 1 Aug 2012 (
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 3 | 6 of 2012 | 10 Apr 2012 | 28 May 2012 (see s. 2(c) and Cwlth Gazette 19 Apr 2012 ref. F2012L00891)
 Reprint 1: The Legal Profession Act 2008 as at 13 Dec 2013 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Statutes (Repeals and Minor Amendments) Act 2014 s. 15 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 15 had not come into operation. It reads as follows:
-15.Legal Profession Act 2008 amended
-(1) This section amends the Legal Profession Act 2008.
-(2) In section 3 in the definition of accountant paragraph (c) delete “National Institute of Accountants” and insert:
-Institute of Public Accountants
+Statutes (Repeals and Minor Amendments) Act 2014 s. 15 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -33,7 +25,7 @@ agent290(1)
 aggrieved person448(1)
 amend3, 56(1), 175(1)
 another jurisdiction79(1)
-applicant61(1)(a)
+applicant61(1)
 applicant for admission23(1)
 appropriate authority505(1)
 appropriate court463(4)
@@ -42,16 +34,16 @@ approved academic qualifications21(1)
 approved form3
 approved practical legal training requirements21(1)
 associate3, 6(1)
-associated third party payer253(1)(b)
+associated third party payer253(1)
 Australia150
 Australian financial services licence206(4), 350(1)
 Australian law150
-Australian lawyer3, 4(a)
-Australian legal practitioner3, 5(a)
+Australian lawyer3, 4
+Australian legal practitioner3, 5
 Australian practising certificate3
-Australian-registered foreign lawyer3
 Australian roll3
 Australian trust account334
+Australian-registered foreign lawyer3
 authorised person121(1)
 authorised representative206(4), 350(1)
 barrister3
@@ -70,7 +62,7 @@ compensation order3
 complaint3
 complaint investigation517(1)
 Complaints Committee3
-compliance certificate3, 31(1)(c)
+compliance certificate3, 31(1)
 concerted interstate default334
 condition3
 conditional costs agreement252
@@ -114,7 +106,8 @@ external intervener471
 external intervention471
 external territory3
 fidelity protocols377(1)
-financial service206(4), 350(1)
+financial service 206(4)
+financial service350(1)
 financial services business206(4), 350(1)
 foreign country3
 foreign law150
@@ -128,20 +121,20 @@ government agency36(1), 79(1)
 grant3
 GST263(1)
 Guarantee Fund3
-home jurisdiction3, 7(2)-(4)
+home jurisdiction3, 7(2), 7(3), 7(4)
 ILP compliance audit517(1)
 incorporated legal practice3
 information notice3, 9
 insolvent under administration3
 instrument of appointment513(1)
 interstate government lawyer3, 79(1)
-interstate lawyer3, 4(c)
-interstate legal practitioner3, 5(c)
+interstate lawyer3, 4
+interstate legal practitioner3, 5
 interstate practising certificate3
-interstate-registered foreign lawyer3
 interstate regulatory authority3
 interstate roll3
 interstate trust account334
+interstate-registered foreign lawyer3
 investigation205(1)
 investigator205(1), 517(1)
 itemised bill252
@@ -152,13 +145,13 @@ law firm3
 Law Mutual Fund327(1)
 law practice3
 Law Society3
-lay associate3, 6(2)(b), 15(1)
+lay associate3, 6(2), 15(1)
 LCT Act631
 Legal Aid Commission388(1)
 Legal Aid Fund388(1)
 legal costs3
 Legal Costs Committee252
-legal practitioner associate3, 6(2)(a)
+legal practitioner associate3, 6(2)
 legal practitioner director3, 98, 105(6)
 legal practitioner partner3, 98
 legal profession rules3
@@ -166,8 +159,8 @@ legal services3
 legal work12(1)
 litigious matter252
 local authority3
-local lawyer3, 4(b)
-local legal practitioner3, 5(b), 339(1)
+local lawyer3, 4
+local legal practitioner3, 5, 339(1)
 local practising certificate3
 local registration certificate150
 local regulatory authority3
@@ -183,12 +176,12 @@ modifications3
 mortgage3
 mortgage financing3
 multi-disciplinary partnership3
-non-associated third party payer253(1)(c)
+non-associated third party payer253(1)
 non-trust money248(1)
 notional default374(2)
 obstruct516(1), 531(1)
 officer98
-other purposes275(5)(b)
+other purposes275(5)
 overseas-registered foreign lawyer150
 peak organisation388(1)
 pecuniary loss334
@@ -230,7 +223,7 @@ supervised legal practice3
 Supreme Court (full bench)3
 tax offence3
 taxing officer3
-third party payer252, 253(1)(a), 295(1)
+third party payer252, 253(1), 295(1)
 this jurisdiction3
 transferee501(1)
 transit money205(1)

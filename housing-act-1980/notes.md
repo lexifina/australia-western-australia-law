@@ -30,16 +30,12 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 87 | 77 
 Duties Legislation Amendment Act 2008 Sch. 1 cl. 17 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Aboriginal Housing Legislation Amendment Act 2010 Pt. 2 | 6 of 2010 | 25 May 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 22 Jun 2010 p. 2767)
-Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | it. 31 the amendment to s. 5(1): 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341); it. 31 the amendment to s. 55(5) other than the amendment to delete “or on termination” and insert “or (ii) on termination”: 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 (as amended by No. 17 of 2014 s. 39(4)) | 28 Jun 2010 | it. 31 the amendment to s. 5(1): 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341); it. 31 the amendment to s. 55(5) other than the amendment to delete “or on termination” and insert “or (ii) on termination”: 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 3: The Housing Act 1980 as at 10 Dec 2010 (includes amendments listed above)
 Residential Tenancies Amendment Act 2011 Pt. 5 Div. 2 | 60 of 2011 | 14 Dec 2011 | 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
 Water Services Legislation Amendment and Repeal Act 2012 s. 218 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 (as amended by No. 17 of 2014 s. 39(4)) | 28 Jun 2010 | it. 31 the amendment to s. 55(5) the amendment to delete “or on termination” and insert “or (ii) on termination”: to be proclaimed (see s. 2(b))
-Statutes (Repeals and Minor Amendments) Act 2014 s. 26 and 39(4) | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2014 s. 26 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 The body preserved and continued by this Act is now called the “Housing Authority” (see s. 6).
 The body corporate established under the State Housing Act 1946 (the repealed Act) was called “The State Housing Commission”. (See s. 8 of the repealed Act).
 Repealed by the Housing Societies Repeal Act 2005.
@@ -79,24 +75,7 @@ former body means —
 (a)the Country Housing Authority established by section 4 of the Country Housing Act 1998 as in force before commencement;
 (b)the Government Employees’ Housing Authority established by section 8 of the Government Employees’ Housing Act 1964 as in force before commencement;
 Housing Authority means the Housing Authority referred to in section 6(4) of the Housing Act 1980 as in force after commencement.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 51 Table item 31 part of the amendment to s. 55(5) had not come into operation. It reads as follows:
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-31.Housing Act 1980
-s. 55(5) | or on termination | or (ii)on termination
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 26 and 39(4) had not come into operation. They read as follows:
-26.Housing Act 1980 amended
-(1) This section amends the Housing Act 1980.
-(2) Delete section 6(1) and insert:
-(1) The body corporate constituted under the repealed Act by the name “The State Housing Commission” is preserved and continues in existence for the purposes of this Act as a body corporate retaining the same corporate identity.
-39.Standardisation of Formatting Act 2010 amended
-(1) This section amends the Standardisation of Formatting Act 2010.
-(4) In section 51 in the Table in item 31 in the row relating to section 55(5):
-(a) in column 2 delete “or on termination”;
-(b) in column 3 delete “or (ii) on termination”.
+The Standardisation of Formatting Act 2010 s. 51 Table in item 31 in the row relating to s. 55(5) had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(4).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -113,7 +92,7 @@ approved lending institution47(2)
 approved person47(2), 61(2)
 Authority5(1)
 Commonwealth Housing Act48, 52(1)
-community facilities and amenities12A(2), 61(2)
+community facilities and amenities61(2)
 Crown land5(1)
 document11B(4)
 eligible person5(2)
@@ -132,11 +111,11 @@ lease62A
 lending institution52(1)
 loan5(1)
 loan agreement52(1)
-local government5(1), 38(2)
+local government5(1)
 merger time6(5)
 Minister for Indigenous Affairs62L(1)
 mortgage5(1)
-new house46(2)(b)
+new house46(2)
 nominated house62A, 62D(2)
 nominated lot62A, 62D(1)
 officer of the Authority5(1)

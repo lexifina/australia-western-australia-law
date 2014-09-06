@@ -24,16 +24,8 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 D
 Criminal Organisations Control Act 2012 s. 175 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
 Criminal Investigation (Identifying People) Amendment Act 2013 Pt. 2 | 22 of 2013 | 12 Nov 2013 | s. 3-27:13 Nov 2013 (see s. 2(c)); s. 28: 16 Apr 2014 (see s. 2(b) and Gazette 15 Apr 2014 p. 1053)
 Reprint 4: The Criminal Investigation (Identifying People) Act 2002 as at 14 Mar 2014 (includes amendments listed above except those in the Criminal Investigation (Identifying People) Amendment Act 2013 s. 28)
+Statutes (Repeals and Minor Amendments) Act 2014 s. 6 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 8 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Statutes (Repeals and Minor Amendments) Act 2014 s. 6 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 6 had not come into operation. It reads as follows:
-6.Criminal Investigation (Identifying People) Act 2002 amended
-(1) This section amends the Criminal Investigation (Identifying People) Act 2002.
-(2) In section 3(2)(a) delete “made or sworn a complaint in respect” and insert:
-commenced a prosecution
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -42,11 +34,9 @@ authorised officer87
 charged suspect47
 child3(1)
 corresponding law3(1), 87
-crime scene index76
 database manager79(1)
 dentist52
 DNA database3(1), 76
-DNA database index76
 doctor52
 face covering16(1)
 forensic database3(1), 61
@@ -68,11 +58,9 @@ IP warrant (suspect)3(1)
 JP3(1)
 judicial officer15(1)
 law enforcement officer11(1)
-missing persons index76
 non-intimate identifying procedure3(1)
 nurse52
 offence3(1)
-offenders index76
 officer3(1)
 official details3(1)
 participating jurisdiction3(1), 87
@@ -96,9 +84,5 @@ serious offender52A
 statistical index76
 statutory penalty3(1)
 suspect34, 37(1), 38(1), 43(1)
-suspects index76
-unknown deceased persons index76
 volunteer3(1), 17
-volunteers (limited purposes) index76
-volunteers (unlimited purposes) index76
 WA Police3(1)

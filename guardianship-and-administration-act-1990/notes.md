@@ -36,18 +36,15 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 68 | 8 of 2009 | 21 
 Acts Amendment (Bankruptcy) Act 2009 s. 38 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Reprint 5: The Guardianship and Administration Act 1990 as at 5 Mar 2010 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 18 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-Public Sector Reform Act 2010 s. 89` | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Statutes (Repeals and Minor Amendments) Act 2014 s. 12 and 22 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 | 25 of 2008 | 19 Jun 2008 | s. 11 (to the extent that it inserts s. 110RA, 110ZAA, 110ZAB and 110ZAC) and s. 12: to be proclaimed (see s. 2)
-Statutes (Repeals and Minor Amendments) Act 2014 s. 12 and 22 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-The reference in s. 45(2)(d) is a reference to subsection (4) as inserted by the Acts Amendment (Consent to Medical Treatment) Act 2008 s. 6(3), which reads as follows:
-(4) A plenary guardian cannot consent to the sterilisation of the represented person, except in accordance with Division 3.
-Section 45(4) (second occurrence) was inserted by the Wills Amendment Act 2007 s. 25.
+Footnotes no longer applicable.
 The Public Trustee Act 1941 s. 53 was deleted by the Public Trustee and Trustee Companies Amendment Act 2008 s. 31.
-The reference in s. 110G(1) to s. 45(4) is a reference to subsection (4) as inserted by the Acts Amendment (Consent to Medical Treatment) Act 2008 s. 6(3), which is set out in endnote 2. An enduring guardian is also subject to the limitation set out in s. 45(4) as inserted by the Wills Amendment Act 2007 s. 25, which reads as follows:
-(4) A plenary guardian may not make a will or other testamentary disposition on behalf of a represented person but this subsection does not affect the operation of section 111A.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Acts Amendment (Consent to Medical Treatment) Act 2008 s. 11 (to the extent that it inserts s. 110RA, 110ZAA, 110ZAB and 110ZAC) and s. 12 have not come into operation.
 When inserted in Pt. 9B Div. 1, s. 110RA will read as follows:
 110RA.Registration of advance health directive
@@ -133,21 +130,6 @@ The Acts Amendment (Consent to Medical Treatment) Act 2008 s. 14 reads as follow
 14.Review of the Guardianship and Administration Act 1990
 (1) The Minister administering the Guardianship and Administration Act 1990 is to carry out a review of the operation and effectiveness of the provisions of the Guardianship and Administration Act 1990 and the relevant sections of The Criminal Code as soon as practicable after the expiration of 3 years from the commencement of this Act.
 (2) The Minister is to prepare a report based on the review made under subsection (1) and cause the report to be laid before each House of Parliament within 4 years after the commencement of this Act.
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 12 and 22 had not come into operation. They read as follows:
-12.Guardianship and Administration Act 1990 amended
-(1) This section amends the Guardianship and Administration Act 1990.
-(2) In section 98(1) delete “secretary” and insert:
-registrar
-22.Guardianship and Administration Act 1990 amended
-(1) This section amends the Guardianship and Administration Act 1990.
-(2) In section 45(2)(d) delete “subsection (4),” and insert:
-subsection (4A),
-(3) In section 45 delete “(4) A plenary guardian cannot” and insert:
-(4A) A plenary guardian cannot
-(4) In section 76(3) delete “sections 50 and 53” and insert:
-section 50
-(5) In section 110G(1) delete “section 45(3) and (4),” and insert:
-section 45(3), (4A) and (4),
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
