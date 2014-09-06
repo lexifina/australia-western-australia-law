@@ -1,6 +1,6 @@
 ## Third Schedule — Register of discoverers of ancient shipwrecks
 [s. 24]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 Name of Ship | Primary Discoverer/s | Secondary Discoverer/s
 Tryal | Eric Christiansen | Naoom Haimson
  |  | David Nelley
@@ -21,4 +21,4 @@ Zuytdorp | Tom Pepper | Tom Brady
 Zeewyk | Harry Bingham | Max Cramer
  | Tom Brady | Colin Jack-Hinton
  | Hugh Edwards | Neil McLaghlan
-[Third Schedule inserted by No. 44 of 1997 s. 5.]
+[Third Schedule inserted: No. 44 of 1997 s. 5.]
