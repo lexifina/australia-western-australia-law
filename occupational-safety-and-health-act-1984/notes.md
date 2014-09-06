@@ -36,11 +36,6 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Reprint 7: The Occupational Safety and Health Act 1984 as at 7 Jan 2011 (includes amendments listed above)
 Industrial Legislation Amendment Act 2011 Pt. 7 | 53 of 2011 | 11 Nov 2011 | 1 Apr 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1246)
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 4 | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 (as amended by No. 17 of 2014 s. 39(2)(b)) | 28 Jun 2010 | To be proclaimed (see s. 2(b))
-Statutes (Repeals and Minor Amendments) Act 2014 s. 39(2)(b) | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 A reference to the Petroleum Safety Act 1999 is not included in the table because that Act was repealed before the amendments in Sch. 2 to that Act came into operation. The repeal was made by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51.
 Now known as the Occupational Safety and Health Act 1984; short title changed (see note under s. 1).
@@ -84,25 +79,12 @@ as if section 68 had not been enacted.
 (1) An application for leave to appeal made under section 54B(2) of the Occupational Safety and Health Act 1984 but not finally determined before the commencement of section 68, and an appeal for which leave is granted on such an application, may be dealt with and determined as if that section had not been enacted.
 (2) An appeal brought under section 54B(2) of the Occupational Safety and Health Act 1984 but not finally determined before the commencement of section 68, may be dealt with and determined as if that section had not been enacted.
 This amendment took effect on 15 May 2010 when the Petroleum Legislation Amendment and Repeal Act 2005 s. 50 came into operation, see Gazette 14 May 2010 p. 2015.
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Act | Identifier | Title | Shoulder note
-Occupational Safety and Health Act 1984 | Schedule |  | [s. 60(5)]
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(2)(b) had not come into operation. It reads as follows:
-39.Standardisation of Formatting Act 2010 amended
-(1) This section amends the Standardisation of Formatting Act 2010.
-(2) In section 4 in the Table:
-(b) delete the row relating to the Occupational Safety and Health Act 1984;
+The Standardisation of Formatting Act 2010 s. 4, the amendment to the Occupational Safety and Health Act 1984 Schedule, had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(2)(b).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 a workplace33(4), 35(1a)
-activity49(7)(b)
+activity49(7)
 additional employees30C(1)
 affected person51AH(1)
 agent23F(1)
@@ -146,10 +128,10 @@ improvement notice3(1)
 inspector3(1)
 matter51F
 mining industry14A(1)
-Minister for Mines14A(1)(b)
+Minister for Mines14A(1)
 Ministers14A(1)
-offender55I(1)(a)
-person mentioned in subsection (1)(a)23E(1)(a)
+offender55I(1)
+person mentioned in subsection (1)(a)23E(1)
 plant3(1)
 practicable3(1)
 prescribed law3(1)
@@ -167,8 +149,8 @@ relevant offence55H
 relevant parties39F(1)
 relevant procedure24(2)
 residential premises23G(1)
-responsible agency55D(1)(a)
-responsible person23L(2)(d)
+responsible agency55D(1)
+responsible person23L(2)
 review notice51AH(2)
 reviewable decision61A(1)
 risk3(1)
@@ -187,7 +169,7 @@ the workplace33(4), 35(1a)
 trade union3(1)
 transferred law3(1)
 Tribunal3(1), 51G(2)
-visitor57A(2)(a)
+visitor57A(2)
 WA Police3(1)
-worker23E(1)(a), 23F(1)
-workplace3(1), 23L(1), 39C(1), 40(1), 43(1a), 49(7)(a)(i)
+worker23E(1), 23F(1)
+workplace3(1), 23L(1), 39C(1), 40(1), 43(1a), 49(7)
