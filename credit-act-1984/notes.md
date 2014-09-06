@@ -25,11 +25,11 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 44 | 8 of 2009 | 21 
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 9 and 36 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
  | Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Reprint 3: The Credit Act 1984 as at 11 Mar 2011 (includes amendments listed above)
+ | Statutes (Repeals and Minor Amendments) Act 2014 s. 20 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 12 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Statutes (Repeals and Minor Amendments) Act 2014 s. 20 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Strata Titles Act 1985.
 Repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010.
 The Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 was part of a legislative exercise in which the regulation of credit and certain other transactions was referred to the Commonwealth. As part of that exercise the National Consumer Credit Protection Act 2009 (Cwlth), which contains the National Credit Code, was adopted in WA on 1 July 2010.
@@ -48,11 +48,9 @@ This Division amends the Credit Act 1984.
 73.Section 5 amended
 In section 5(1) in the definition of commercial vehicle paragraph (a) delete “within the meaning of the Road Traffic Act 1974,” and insert:
 as defined in the Road Traffic (Administration) Act 2008 section 4,
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 20 had not come into operation. It reads as follows:
-20.Credit Act 1984 amended
-(1) This section amends the Credit Act 1984.
-(2) In section 19B(2)(a) and (b) delete “[reference date],” and insert:
-1 July 2010,
+trade or tie agreement5(1)
+trade-in allowance5(1)
+Tribunal5(1)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -60,7 +58,7 @@ acceptable rate of interest5(1)
 account charge5(1)
 accrued credit charge5(1)
 actuarial method5(1)
-advertisement121(8)(a)
+advertisement121(8)
 amount financed5(1)
 annual percentage rate5(1)
 assignment150(5)
@@ -68,11 +66,11 @@ bank5(1)
 billing cycle5(1)
 body corporate5(1)
 cash5(1)
-cash price5(1), 13(5)(b)
+cash price5(1), 13(5)
 civil penalty85B(8)
 commencement day19A(1)
-commercial broadcasting station121(8)(c)
-commercial television station121(8)(c)
+commercial broadcasting station121(8)
+commercial television station121(8)
 commercial vehicle5(1)
 commission charge5(1)
 Commissioner5(1)
@@ -86,7 +84,7 @@ credit charge5(1)
 credit contract5(1)
 credit provider5(1)
 credit sale contract5(1)
-creditor48(2)(a)
+creditor48(2)
 cross-claim5(1)
 daily percentage rate5(1)
 debtor5(1)
@@ -110,7 +108,7 @@ instalment5(1)
 judgment5(1)
 land5(1)
 licensed credit provider5(1)
-licensee121(8)(c)
+licensee121(8)
 linked credit provider5(1)
 loan contract5(1)
 minimum credit charge5(1)
@@ -129,8 +127,7 @@ regulated contract5(1)
 regulated credit sale contract5(1)
 regulated loan contract5(1)
 regulated mortgage5(1)
-relevant date35(4), 36(4), 69(2), Sch. 2 cl. 2, Sch. 3 cl. 2,
-Sch. 4 cl. 2, Sch. 5 cl. 2
+relevant date35(4), 36(4), 69(2), Sch. 2, Sch. 3, Sch. 4, Sch. 5
 rescission5(1)
 security interest5(1)
 services5(1)
@@ -142,4 +139,3 @@ tied loan contract5(1)
 trade or tie agreement5(1)
 trade-in allowance5(1)
 Tribunal5(1)
-By Authority: JOHN A. STRIJK, Government Printer

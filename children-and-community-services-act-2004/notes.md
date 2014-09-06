@@ -20,11 +20,11 @@ Children and Community Services Amendment Act 2010 Pt. 2 Div. 1 and Pt. 3-5 | 49
 Reprint 3: The Children and Community Services Act 2004 as at 4 Mar 2011 (includes amendments listed above)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 2 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 Teacher Registration Act 2012 s. 163 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
+Statutes (Repeals and Minor Amendments) Act 2014 s. 18 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 6 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Statutes (Repeals and Minor Amendments) Act 2014 s. 18 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions relating to the repealed Pt. 8 of this Act.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 6 had not come into operation. It reads as follows:
@@ -34,11 +34,33 @@ This Division amends the Children and Community Services Act 2004.
 54.Section 102 amended
 In section 102 delete “Road Traffic Act 1974)” and insert:
 Road Traffic (Administration) Act 2008 section 4)
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 18 had not come into operation. It reads as follows:
-18.Children and Community Services Act 2004 amended
-(1) This section amends the Children and Community Services Act 2004.
-(2) In section 125A(3B) delete “Minister for Public Sector Management,” and insert:
-Public Service Commissioner,
+residential facility3
+responsible person41(1)
+section 18(1)Sch. 1 cl. 27(1)
+secure care arrangement3, 88C(1)
+secure care decision88G(1)
+secure care facility3
+secure care period88F(1), 134A(2)
+seized117(1)
+sending State157(1)
+service provider3
+sexual abuse124A
+social services3
+special guardian42
+specifiedSch. 1 cl. 25(5)
+State157(1)
+teacher124A
+Torres Strait Islander3
+Torres Strait Islander child3
+transferred order181(1)
+variation134(2A)
+warrant (access)121(1)
+warrant (apprehension)122(1)
+warrant (provisional protection and care)123(1)
+weapon112
+wellbeing3
+working day3, 157(1)
+young child104(1)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -144,7 +166,7 @@ prescribed authority24A(1)
 prescribed period104(1)
 prohibited article112
 proposal143(1)
-proposed interstate order158(1)(c), 167(1)
+proposed interstate order158(1), 167(1)
 proposed special guardian61(1)
 protected child88A
 protection application3
@@ -159,7 +181,7 @@ provisional care plan10(4), 39(1), 88I(1)
 provisional protection and care3
 provisionally protected child88A
 public authority3
-publication day88B(3)(a)
+publication day88B(3)
 publish237(1)
 registrar of the Court157(1)
 relative3
@@ -198,4 +220,3 @@ weapon112
 wellbeing3
 working day3, 157(1)
 young child104(1)
-By Authority: JOHN A. STRIJK, Government Printer

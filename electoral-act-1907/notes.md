@@ -99,11 +99,11 @@ Electoral and Constitution Amendment Act 2011 Pt. 2 | 49 of 2011 | 11 Nov 2011 |
 Electoral Amendment Act 2012 | 35 of 2012 | 5 Nov 2012 | s. 1 and 2: 5 Nov 2012 (see s. 2(a)); Act other than s. 1 and 2: 5 Dec 2012 (see s. 2(b) and Gazette 4 Dec 2012 p. 5907)
 Reprint 16: The Electoral Act 1907 as at 11 Jan 2013 (includes amendments listed above)
 Electoral Amendment Act 2014 Pt. 2 | 14 of 2014 | 2 Jul 2014 | 3 Jul 2014 (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2014 s. 11 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Statutes (Repeals and Minor Amendments) Act 2014 s. 11 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 Sch. 1 Part 2. Now see the Australian Citizenship Act 2007 (Cwlth).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 15.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
@@ -138,16 +138,6 @@ Act | Provision
 ……………………….. | …….
 Electoral Act 1907 | s. 5E(2)
 ……………………….. | …….
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 11 had not come into operation. It reads as follows:
-11.Electoral Act 1907 amended
-(1) This section amends the Electoral Act 1907.
-(2) In section 59(1) delete the definition of secretary, Mentally Impaired Accused Review Board.
-(3) In section 59(1) insert in alphabetical order:
-registrar, MIARB means the registrar of the Mentally Impaired Accused Review Board established under the Criminal Law (Mentally Impaired Accused) Act 1996;
-(4) In section 59(1) in the definition of required information delete “sex;” and insert:
-sex.
-(5) In section 59(2)(b) and (3)(b) delete “secretary, Mentally Impaired Review Board” and insert:
-registrar, MIARB
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -166,10 +156,10 @@ authorised witness4(1)
 automated146I(6)
 available day71(1)
 average district enrolment16A, 16G(1)
-ballotSch. 2 cl. 2
+ballotSch. 2
 ballot paper regulations213(3)
 ballot papers99B(1)
-breach or neglect of official duty180
+Breach or neglect of official duty180
 bribery182
 broadcast175
 campaign committee175
@@ -180,11 +170,11 @@ christian name4(1)
 claim43(1)
 commencement day43(1)
 Commissioners16A
-Commonwealth elector 43(1)
+Commonwealth elector43(1)
 conjoint election4(1)
 consenting candidate156D(1)
 constitution4(1)
-continuing candidateSch. 1 cl. 2(1)
+continuing candidateSch. 1
 Council4(1)
 CPI175LC(3)
 Deputy Electoral Commissioner4(1)
@@ -206,8 +196,8 @@ electoral paper191(3)
 eligible political party62C(1)
 eligible vote175LA(1)
 enrolment information4(1)
-enrolment officer42(1)(c)
-entity 175
+enrolment officer42(1)
+entity175
 excluded day71(1)
 existing party62J(1)
 expiry year4(1)
@@ -228,7 +218,7 @@ large district allowance16G(4)
 member62C(1)
 mentally impaired accused59(1)
 metropolitan area of Perth16H(2)
-modified penalty156(6)(c)(iii), 156(13A)(b)
+modified penalty156(6), 156(13A)
 name113C(10)
 non-participating candidate156D(14)
 officer4(1)
@@ -246,7 +236,7 @@ person with judicial experience16A
 political gift199A(2)
 political party4(1)
 polling place4(1), 193(2)
-polling day69(b)
+polling day69
 preference mark146E(7)
 prepared155AB
 prescribed information25A(1a)
@@ -267,6 +257,7 @@ referendum4(1)
 region4(1)
 register of political parties62C(1)
 registered political party4(1), 62C(1)
+registrar, MIARB59(1)
 related political party62C(1)
 relevant citizenship law4(1)
 relevant day16A
@@ -279,19 +270,18 @@ response date155AB
 returning officer4(1)
 roll4(1)
 secretary4(1)
-secretary, Mentally Impaired Accused Review Board59(1)
 single member election4(1)
 Speaker4(1)
 specified156AA(3)
 specified amount175
 State party62C(4)
 sub-district4(1)
-surplus votesSch. 1 cl. 4
-tied candidates144(2)(g), 145(3), Sch. 1 cl. 17
+surplus votesSch. 1
+tied candidates144(2), 145(3), Sch. 1
 transmitted211A(1)
 undue influence184
 vacancy156A
-valid and sufficient reason156(16)(a)
+valid and sufficient reason156(16)
 voting ticket4(1)
 voting ticket square4(1)
 writ4(1)

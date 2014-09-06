@@ -33,11 +33,11 @@ Reprint 4: The Petroleum (Submerged Lands) Act 1982 as at 5 Aug 2011 (includes a
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 5 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Petroleum (Submerged Lands) Amendment Act 2011 | 57 of 2011 | 30 Nov 2011 | s. 1 and 2: 30 Nov 2011 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2012 (see s. 2(b) and Gazette 30 Dec 2011 p. 5537)
+Statutes (Repeals and Minor Amendments) Act 2014 s. 7 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Petroleum and Energy Legislation Amendment Act 2010 s. 149, 163, 165(1)(b) (to the extent that it inserts s. 152(2)(lc)) and 169 (to the extent that it inserts Sch. 3 cl. 4) | 42 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
-Statutes (Repeals and Minor Amendments) Act 2014 s. 7 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 See the Gas Pipelines Access (Western Australia) Act 1998 s. 9.
 Repealed by the Off-shore (Application of Laws) Act 1982 s. 5.
 On the date as at which this compilation was prepared, the Petroleum and Energy Legislation Amendment Act 2010 s. 149, 163, 165(1)(b) (to the extent that it inserts s. 152(2)(lc)) and 169 (to the extent that it inserts Sch. 3 cl. 4) had not come into operation. They read as follows:
@@ -243,25 +243,20 @@ The Acts Amendment (Petroleum) Act 1990 s. 218(2) and (3) read as follows:
 The Land (Titles and Traditional Usage) Act 1993 Sch. 1 Pt. 4 cl. 5(2) reads as follows:
 (2) Division 4A inserted by subsection (1) does not apply to an application for approval lodged before the commencement of this section.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 7 had not come into operation. It reads as follows:
-7.Petroleum (Submerged Lands) Act 1982 amended
-(1) This section amends the Petroleum (Submerged Lands) Act 1982.
-(2) In section 137A(1) delete “the complaint” and insert:
-the charge of the offence
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 access authority4
 access authority area9(1)
-accidentSch. 5, cl. 3
-actual supplierSch. 5, cl. 12(2)
+accidentSch. 5 cl. 3
+actual supplierSch. 5 cl. 12(2)
 adjacent area4, 5(2A), 60K(2)
-amending Act153(3), Sch. 3, cl. 1
+amending Act153(3), Sch. 3 cl. 1
 application for a primary licence4
 application for a secondary licence4
 approved4
 area to which the surrender relates104(5)
-associated offshore placeSch. 5, cl. 3
+associated offshore placeSch. 5 cl. 3
 Australian Standard137A(4)
 Australian/New Zealand Standard137A(4)
 authorisation124A(3)
@@ -276,35 +271,35 @@ Commonwealth licence area9(4)
 Commonwealth Minister4
 construct4
 construction4
-contractSch. 5, cl. 3
-contractorSch. 5, cl. 3
+contractSch. 5 cl. 3
+contractorSch. 5 cl. 3
 corresponding law4
 court137(2)
-dangerous occurrenceSch. 5, cl. 3
+dangerous occurrenceSch. 5 cl. 3
 dealing59(10)
 debenture81(16)
 Designated Authority11
-designated work groupSch. 5, cl. 3
+designated work groupSch. 5 cl. 3
 document4
-employeeSch. 5, cl. 3
-employerSch. 5, cl. 3
-equipment supplierSch. 5, cl. 14(1)
-existing pipelineSch. 5, cl. 82(4)
+employeeSch. 5 cl. 3
+employerSch. 5 cl. 3
+equipment supplierSch. 5 cl. 14(1)
+existing pipelineSch. 5 cl. 82(4)
 explore for petroleum19(2)
-facility4, Sch. 5, cl. 3, Sch. 5, cl. 4(9)
+facility4, Sch. 5 cl. 3, Sch. 5 cl. 4(9)
 federal duty145A(3)
 first area6A(3)
 Gazettal day153(1)
 good oil-field practice4
 good processing and transport practice4
 graticular section4
-group memberSch. 5, cl. 3
-improvement noticeSch. 5, cl. 3
+group memberSch. 5 cl. 3
+improvement noticeSch. 5 cl. 3
 infrastructure facilities4, 6B(1)
 infrastructure licence4
 infrastructure licence area4
 infrastructure licensee4
-inspectionSch. 5, cl. 3
+inspectionSch. 5 cl. 3
 inspector4
 interstate Minister4
 Joint Authority4
@@ -317,19 +312,19 @@ licensee4
 listed OSH law4
 location4
 marine reserve18A(2)
-member of the workforceSch. 5, cl. 3
+member of the workforceSch. 5 cl. 3
 native title holders124A(3)
 natural resources4
 offshore area4
 offshore petroleum operation4
 operations area98(1)
 operative day153(5)
-operator98(1), Sch. 5, cl. 3
-operator’s representativeSch. 5, cl. 3, 5, cl. 5(1)
+operator98(1), Sch. 5 cl. 3
+operator’s representativeSch. 5 cl. 3, Sch. 5 cl. 5(1)
 original licence51(1)
-ostensible supplierSch. 5, cl. 12(2)
+ostensible supplierSch. 5 cl. 12(2)
 other licence area9(6)
-ownSch. 5, cl. 3
+ownSch. 5 cl. 3
 partly cancelled4
 partly determined4
 permit4
@@ -340,30 +335,30 @@ petroleum mining instrument6A(1)
 petroleum pool4
 petroleum title112(13)
 pipeline4
-pipeline licence4, Sch. 5, cl. 82(4)
+pipeline licence4, Sch. 5 cl. 82(4)
 pipeline licensee4
 pipeline operator under the Commonwealth Act or a corresponding law64(5), 65(13)
 place4
-plantSch. 5, cl. 3
-premisesSch. 5, cl. 3
+plantSch. 5 cl. 3
+premisesSch. 5 cl. 3
 prescribed occupational safety and health laws15A(3)
 primary entitlement4
 primary licence4
-prohibition noticeSch. 5, cl. 3
-proposed facilitySch. 5, cl. 3
+prohibition noticeSch. 5 cl. 3
+proposed facilitySch. 5 cl. 3
 proposed infrastructure licence60D(1)
 pumping station4
-recoverySch. 5, cl. 3
+recoverySch. 5 cl. 3
 register4
 registered holder4
-registered organisationSch. 5, cl. 3
+registered organisationSch. 5 cl. 3
 Registration Fees Act4
-regulated business premisesSch. 5, cl. 3
-regulations4, Sch. 5, cl. 3
-relevant personSch. 5, cl. 7
+regulated business premisesSch. 5 cl. 3
+regulations4, Sch. 5 cl. 3
+relevant personSch. 5 cl. 7
 relinquished area4
-responsible personSch. 5, cl. 37(2), 5, cl. 61(1)
-reviewing authoritySch. 5, cl. 22(5), 5, cl. 65(10)
+responsible personSch. 5 cl. 37(2), Sch. 5 cl. 61(1)
+reviewing authoritySch. 5 cl. 22(5), Sch. 5 cl. 65(10)
 royalty period4
 royalty value4
 safety zone119(1)
@@ -373,19 +368,19 @@ secondary licence4
 secondary line4
 special prospecting authority4
 structure124B(2)
-supervisorSch. 5, cl. 43(1)
+supervisorSch. 5 cl. 43(1)
 tank station4
 terminal station4
 territorial sea4
-the Barrow Island PipelineSch. 5, cl. 82(4)
-the Withnell Bay PipelineSch. 5, cl. 82(4)
+the Barrow Island PipelineSch. 5 cl. 82(4)
+the Withnell Bay PipelineSch. 5 cl. 82(4)
 this Act106(1), 126(4)
 this Part106(1)
-this ScheduleSch. 5, cl. 82(4)
+this ScheduleSch. 5 cl. 82(4)
 title74J, 138A(5)
 transitional matter153(1)
 transitional regulations153(1)
-TribunalSch. 5, cl. 3
+TribunalSch. 5 cl. 3
 unit development59(1)
 unused area38CA(1)
 valve station4
@@ -394,7 +389,7 @@ water line4
 well4
 wholly cancelled4
 wholly determined4
-workSch. 5, cl. 3
-work group employerSch. 5, cl. 3
-workforce representativeSch. 5, cl. 3
-workplaceSch. 5, cl. 3
+workSch. 5 cl. 3
+work group employerSch. 5 cl. 3
+workforce representativeSch. 5 cl. 3
+workplaceSch. 5 cl. 3

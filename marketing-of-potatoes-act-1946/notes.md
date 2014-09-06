@@ -34,27 +34,13 @@ Standardisation of Formatting Act 2010 s. 43(3) | 19 of 2010 | 28 Jun 2010 | 11 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 2 Div. 2 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Reprint 6: The Marketing of Potatoes Act 1946 as at 27 Apr 2012 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Statutes (Repeals and Minor Amendments) Act 2014 s. 28 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+Statutes (Repeals and Minor Amendments) Act 2014 s. 28 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 The provision in this Act repealing that Act was omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973.
 The Marketing of Potatoes Amendment Act 1995 s. 9(2) and (3) are transitional provisions that are of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 30 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 28 had not come into operation. It reads as follows:
-28.Marketing of Potatoes Act 1946 amended
-(1) This section amends the Marketing of Potatoes Act 1946.
-(2) Delete section 22(4)(d) and (e) and insert:
-(d) either —
-(i) that the person charged did not produce to the inspector any sales docket, delivery note or relevant consignment advice from the grower; or
-(ii) that the person charged produced to the inspector a sales docket, delivery note or relevant consignment advice but —
-(I) it did not contain the prescribed information; or
-(II) it did not purport to have been issued by or on behalf of the Corporation or the holder of a relevant permit under section 25; or
-(III) it was not in fact issued by or on behalf of the Corporation or the holder of a relevant permit under section 25; or
-(IV) the potatoes were not contained in any bags or other containers, or were not contained in bags or other containers branded or marked in accordance with particulars shown in the sales docket or delivery note or relevant consignment advice, or did not correspond with the description given in the sales docket or delivery note or relevant consignment advice,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

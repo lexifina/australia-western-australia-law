@@ -70,6 +70,7 @@ Reprint 8: The Sentencing Act 1995 as at 8 Mar 2013 (includes amendments listed 
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 18 (other than s. 124 and 127) | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Sentencing Legislation Amendment Act 2014 Pt. 2 | 6 of 2014 | 22 Apr 2014 | 23 Apr 2014 (see s. 2(b))
 Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 3 Div. 1 (other than s. 8(2)) | 11 of 2014 | 24 Jun 2014 | 13 Aug 2014 (see s. 2(b) and Gazette 12 Aug 2014 p. 2889)
+Statutes (Repeals and Minor Amendments) Act 2014 s. 37 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -77,9 +78,8 @@ Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 47 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) | 11 of 2014 | 24 Jun 2014 | To be proclaimed (see s. 2(b))
-Statutes (Repeals and Minor Amendments) Act 2014 s. 37 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
-The short title of the Passports Act 1938 was changed to the Foreign Passports (Law Enforcement and Security) Act 2005 by the Australian Passports (Transitionals and Consequentials) Act 2005 of the Commonwealth. The provisions of the Passports Act 1938 dealing with Australian passports were repealed and re-enacted as the Australian Passports Act 2005 of the Commonwealth. Under the Interpretation Act 1984 s. 16(3), a reference to the Passport Acts 1938 of the Commonwealth may be read as including a reference to the Australian Passports Act 2005, and the Foreign Passports (Law Enforcement and Security) Act 2005, of the Commonwealth.
+Footnote no longer applicable.
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
 The amendments in the Sentencing Amendment Act 2000 Pt. 2 Div. 1 had not come into operation when it was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 32.
 The Sentencing Act 1995 s. 19 and Pt. 12 did not come into operation and were deleted by the Criminal Law Amendment Act (No. 2) 1998 s. 17 and 18.
@@ -245,21 +245,6 @@ On the date as at which this compilation was prepared, the Criminal Code Amendme
 8.Schedule 1A amended
 (2) In Schedule 1A Part 2 item 1 delete “s. 428” and insert:
 s. 417
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 37 had not come into operation. It reads as follows:
-37.Sentencing Act 1995 amended
-(1) This section amends the Sentencing Act 1995.
-(2) In section 46(b) delete “that it” and insert:
-it
-(3) In section 108(3) delete “the Passports Act 1938 of the Commonwealth.” and insert:
-the Australian Passports Act 2005 (Commonwealth).
-(4) In section 108(6) delete “Passport offence” and insert:
-In this subsection —
-passport offence
-(5) In Schedule 1:
-(a) in the heading column 2 delete “Person or fund” and insert:
-Person or account
-(b) delete the row relating to:
-Colleges Act 1978
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -314,7 +299,7 @@ original offence32(1)
 parole eligibility order85(1)
 parole order85(1)
 parole term85(1)
-Passport offence108(6)
+passport offence108(6)
 pending charge31
 period of imprisonment59(7)
 prescribed offence85(1)

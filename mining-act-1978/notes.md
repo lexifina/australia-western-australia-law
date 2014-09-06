@@ -76,12 +76,12 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Reprint 8: The Mining Act 1978 as at 7 Oct 2011 (includes amendments listed above except those in the Personal Property Securities (Consequential Repeals and Amendments) Act 2011) (correction to reprint in Gazette 1 Jun 2012 p. 2282)
 Mining Amendment Act 2012 | 51 of 2012 | 29 Nov 2012 | s. 1 and 2: 29 Nov 2012 (see s. 2(a)); Act other than s. 1 and 2: 2 Feb 2013 (see s. 2(b) and Gazette 1 Feb 2013 p. 447)
+Statutes (Repeals and Minor Amendments) Act 2014 s. 29 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Mining Legislation Amendment Act 2014 Pt. 2 | 4 of 2014 | 22 Apr 2014 | To be proclaimed (see s. 2(b))
-Statutes (Repeals and Minor Amendments) Act 2014 s. 29 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
 The Mining Amendment Act 1981 s. 3 reads as follows:
@@ -386,15 +386,9 @@ Table
 s. 46(aa)(ii) | s. 63(aa)(ii)
 s. 70H(1)(aa)(ii) | s. 82(1)
 s. 84AA
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 29 had not come into operation. It reads as follows:
-29.Mining Act 1978 amended
-(1) This section amends the Mining Act 1978.
-(2) In section 160AA in the Table delete “s. 94J”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-minerals8(1)
-warden’s court8(1)
 absolute caveat121
 aggregate exploration expenditure102(2a)
 agreement122E(4)
@@ -472,6 +466,7 @@ miner’s right8(1)
 mineral exploration report115A(1)
 mineral field8(1)
 mineralisation report74(7), 74A(7)
+minerals8(1)
 mining8(1), 123(2a)
 mining operations8(1)
 mining plant114(1)
@@ -529,4 +524,5 @@ the mining registrar8(1)
 the warden8(1)
 vehicle8(1)
 warden8(1)
+warden’s court8(1)
 withdrawal of memorial103A

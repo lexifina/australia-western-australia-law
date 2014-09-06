@@ -136,11 +136,11 @@ Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 6 | 11 of 2012
 Commercial Arbitration Act 2012 s. 45 it. 9 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Water Services Legislation Amendment and Repeal Act 2012 s. 216 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Reprint 16: The Health Act 1911 as at 6 Dec 2013 (includes amendments listed above)
+Statutes (Repeals and Minor Amendments) Act 2014 s. 23 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 Pt. 11 Div. 1 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-Statutes (Repeals and Minor Amendments) Act 2014 s. 23 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
 Section 53B was deleted by the Health Act Amendment Act 1933 (No. 2) s. 6.
@@ -260,11 +260,6 @@ In Schedule 5:
 (d) in Part VI delete “221(1), 222, 236(1), 241(1),”;
 (e) in Part VII delete “131(2), 228(2), 237(2), 238(1)” and insert:
 131(2)
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 23 had not come into operation. It reads as follows:
-23.Health Act 1911 amended
-(1) This section amends the Health Act 1911.
-(2) In section 3(1) delete the definition of public place and insert:
-public place includes every place to which the public ordinarily have access, whether by payment of fee or not;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -273,7 +268,7 @@ Agvet Code of Western Australia3(1)
 AIDS3(1)
 analyst3(1)
 Analytical Committee3(1)
-apparatus for the treatment of sewage3(1), 100(4)(a)
+apparatus for the treatment of sewage3(1), 100(4)
 appliance226(4)
 appointed member202(10)
 approved laboratory290
@@ -287,7 +282,8 @@ Chairman202(3), 246B(3)
 child care centre337(2A)
 Committee340A, 340AA, 340BA
 communicable tuberculosis290
-competent officer227(1), 228(1)
+competent officer227(1)
+competent officer228(1)
 co-opted member202(10), 246B(9)
 covering236(3), 241(3)
 daily penalty3(1)
@@ -306,7 +302,6 @@ environmental health officer3(1)
 Executive Director, Personal Health3(1)
 Executive Director, Public Health3(1)
 false trade description3(1)
-food3(1)
 HIV infection3(1)
 hospital290
 house3(1)
@@ -332,10 +327,9 @@ occupier3(1), 145(3)
 offensive3(1)
 offensive matter3(1)
 offensive trade186(1)
-owner3(1), 100(4)(a)
+owner3(1), 100(4)
 package228(9)
 patent or proprietary medicine237(3)
-person in default116(e)
 pesticide3(1)
 Pesticides Advisory Committee246
 piggery3(1)
@@ -380,5 +374,5 @@ vendor231(1)
 venereal disease3(1)
 vessel3(1)
 voluntary patient290
-water supply129
+Water supply129
 writing3(1)
