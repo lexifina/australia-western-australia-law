@@ -1,6 +1,6 @@
 ## Schedule — Continuing trading concerns
 [s. 3, 4 and 17]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 Name of Concern | Nature of Operations | Amount of Fixed Capital at 30 June 1916 | Amount of Working Capital at 30 June 1916 | Amount of Additional Capital necessary to meet requirements after 30 June 1916 | Capital — Grand Total
 Fixed | Working | Total
 State Building Supplies | Felling, conversion, and marketing of timber, including all expenses incurred in dealing, purchasing, selling, and transportation (local and overseas), and any other business appertaining or incidental to the Timber Trade Trading and General Stores, and performing services incidental to settlements at various Timber Stations Chartering of vessels for transport of timber and return freights, payment of wages, purchase of ships’ stores, maintenance, etc., necessary to the navigation of vessels so chartered Production and sale of all classes of pressed and other bricks, and any other business appertaining or incidental to brick-making or brick yards, with shale and clay deposits | $ .... | $ .... | $ .... | $ .... | $ .... | $ ....
@@ -10,4 +10,4 @@ State Hotels | Licensed Victualler. To carry out the provisions of Part VI of th
 Meat Distribution | Retailing meat, and all acts necessary and incidental thereto for the purpose of controlling the retail price thereof | 1,970 | 2,000 | 1,200 | 4,000 | 5,200 | 9,170
 Shipment of North-West Cattle | Purchasing and shipping cattle from North-West to Metropolis for purpose of ensuring supplies during War and regulating wholesale prices of meat | Nil | Nil | .... | 20,000 | 20,000 | 20,000
 State Fish Supply | To procure fish and retail to the public, and all acts incidental of and necessary thereto | 12,200 | 2,000 | 1,200 | 2,000 | 3,200 | 17,400
-[Schedule amended by No. 5 of 1932 s. 3; No. 10 of 1950 s. 4; No. 26 of 1956 s. 4; No. 113 of 1965 s. 8(1).]
+[Schedule amended: No. 5 of 1932 s. 3; No. 10 of 1950 s. 4; No. 26 of 1956 s. 4; No. 113 of 1965 s. 8(1).]
