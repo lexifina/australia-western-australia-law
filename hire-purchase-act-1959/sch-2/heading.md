@@ -1,6 +1,6 @@
 ## Second Schedule — Advice to hirers
 [s. 4 and 18]
-[Heading inserted by No. 19 of 2010 s. 19(7).]
+[Heading inserted: No. 19 of 2010 s. 19(7).]
 Under the provisions of the Hire-Purchase Act 1959 —
 (a)you and each of your guarantors (if any) are entitled to a copy of the agreement and a statement of the amount that you owe if you make a written request to the owner for them; each of you may not request a copy or a statement more than once in 3 months;
 (b)each of your guarantors (if any) is entitled to a copy of the contract of guarantee if he makes a written request to the owner for it; he may not request a copy more than once in 3 months;
@@ -10,4 +10,4 @@ Under the provisions of the Hire-Purchase Act 1959 —
 Note — Where this advice is sent to a guarantor it shall be endorsed as follows —
 This advice is sent to you as guarantor of .................................................. ......................................................................................................................
 As a guarantor you have certain rights under the Hire-Purchase Act 1959 — in particular see sections 7, 13, 14, 18, 19, 24, 31 and 36A.
-[Second Schedule inserted by No. 107 of 1973 s. 29.]
+[Second Schedule inserted: No. 107 of 1973 s. 29.]

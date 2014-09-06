@@ -1,6 +1,6 @@
 ## Third Schedule — Notice of intention to repossess
 [s. 13(1)]
-[Heading inserted by No. 19 of 2010 s. 19(8).]
+[Heading inserted: No. 19 of 2010 s. 19(8).]
 TAKE NOTICE that ......................................................................................., the owner of*.................................................................................................. hired by ................................................................................................ under an agreement (insert name of hirer)
 dated the ............................................... day of ......................................................
 20.........., intends to retake possession of the goods after the expiration of † ......... days from the service of this notice on the hirer and every one of his guarantors (if any) unless the arrears of instalments which now amount to $ .........................
@@ -11,4 +11,4 @@ Amount paid or provided by hirer to ...... / ...... /20...... | $ ..............
 Arrears under agreement to ...... / ...... /20...... | $ ...................
 * Insert description of goods.
 † Insert number of days, not being less than 7, or, where the hirer is a farmer and s. 25 of the Act applies not being less than 30.
-[Third Schedule inserted by No. 107 of 1973 s. 29.]
+[Third Schedule inserted: No. 107 of 1973 s. 29.]

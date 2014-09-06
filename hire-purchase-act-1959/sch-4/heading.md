@@ -1,6 +1,6 @@
 ## Fourth Schedule — Advice to hirers
 [s. 11(3), 13(3), 14, 15 and 24(6)]
-[Heading inserted by No. 19 of 2010 s. 19(9).]
+[Heading inserted: No. 19 of 2010 s. 19(9).]
 Now that the goods you hired have been repossessed you will be entitled to get them back —
 (a)if, within 21 days; you require the owner, by notice in writing signed by you or your agent, to redeliver the goods to you and if, within 14 days after giving the notice, you reinstate the agreement by paying the arrears and remedy the following breaches of the agreement (or pay the owner’s expenses in remedying them):
 The owner’s estimate of the amount you must pay to reinstate the agreement is —
@@ -34,4 +34,4 @@ Note. — Where this notice is sent to a guarantor it shall be endorsed as follo
 This notice is sent to you as guarantor of .................................................................
 .....................................................................................................................................
 As guarantor you have certain rights under the Hire-Purchase Act 1959, and you should seek advice at once.
-[Fourth Schedule amended by No. 107 of 1973 s. 29.]
+[Fourth Schedule amended: No. 107 of 1973 s. 29.]
