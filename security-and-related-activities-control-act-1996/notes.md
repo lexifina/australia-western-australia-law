@@ -13,11 +13,6 @@ Security and Related Activities (Control) Amendment Act 2008 Pt. 2 | 4 of 2008 |
 Legal Profession Act 2008 s. 703 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Reprint 2: The Security and Related Activities (Control) Act 1996 as at 19 Mar 2010 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 (as amended by No. 17 of 2014 s. 39(2)(c)) | 28 Jun 2010 | To be proclaimed (see s. 2(b))
-Statutes (Repeals and Minor Amendments) Act 2014 s. 39(2)(c) | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 47 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 62 reads as follows:
@@ -25,21 +20,7 @@ The State Administrative Tribunal Regulations 2004 r. 62 reads as follows:
 (1) In this regulation —
 commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 117 comes into operation.
 (2) If in the period of 21 days before the commencement day a notice has been given under the Security and Related Activities (Control) Act 1996 section 68(2) (applying section 67(2), (3) and (4) to the cancellation of an endorsement under section 68(1)), on or after the commencement day that notice is to be taken to be a notice given on the commencement day under that Act section 68(2)(a).
-On the date as at which this compilation was prepared, the Standardisation of Formatting Act 2010 s. 4 had not come into operation. It reads as follows:
-4.Schedule headings reformatted
-(1) This section amends the Acts listed in the Table.
-(2) In each Schedule listed in the Table:
-(a) if there is a title set out in the Table for the Schedule — after the identifier for the Schedule insert that title;
-(b) if there is a shoulder note set out in the Table for the Schedule — at the end of the heading to the Schedule insert that shoulder note;
-(c) reformat the heading to the Schedule, as amended by paragraphs (a) and (b) if applicable, so that it is in the current format.
-Table
-Act | Identifier | Title | Shoulder note
-Security and Related Activities (Control) Act 1996 | Schedule 1
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(2)(c) had not come into operation. It reads as follows:
-39.Standardisation of Formatting Act 2010 amended
-(1) This section amends the Standardisation of Formatting Act 2010.
-(2) In section 4 in the Table:
-(c) delete the row relating to the Security and Related Activities (Control) Act 1996;
+The Standardisation of Formatting Act 2010 s. 4, the amendment to the Security and Related Activities (Control) Act 1996 Schedule 1, had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(2)(c).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
