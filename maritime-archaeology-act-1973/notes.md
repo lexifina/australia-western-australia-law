@@ -12,26 +12,13 @@ Compilation table
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 90 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 2: The Maritime Archaeology Act 1973 as at 21 May 2010 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Sentencing Legislation Amendment and Repeal Act 2003 s. 78 | 50 of 2003 (as amended by No. 17 of 2014 s. 38) | 9 Jul 2003 | To be proclaimed (see s. 2)
-Statutes (Repeals and Minor Amendments) Act 2014 s. 38 | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 The Museum Act 1959 was repealed by the Museum Act 1969.
 The Museum Act 1969 s. 42 was deleted by the Museum Act Amendment Act 1973 s. 9 (see s. 2 and Gazette 7 Dec 1973 p. 4480).
 Museum Act Amendment Act 1964 operative 18 Dec 1964 (see s. 2 and Gazette 18 Dec 1964 p. 4039). See also endnote 2.
 Museum Act 1969 s. 42 operative 19 Dec 1969 (see s. 2 and Gazette 19 Dec 1969 p. 4197). See also endnote 3.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984. Now see the Interpretation Act 1984 s. 42.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Sentencing Legislation Amendment and Repeal Act 2003 s. 78 had not come into operation. It reads as follows:
-78.Maritime Archaeology Act 1973 amended
-(1) The amendments in this section are to the Maritime Archaeology Act 1973.
-(2) Section 9(6) is amended by deleting the penalty clause and inserting the following penalty clause instead —
-“ Penalty: $1 000. ”.
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 38 had not come into operation. It reads as follows:
-38.Sentencing Legislation Amendment and Repeal Act 2003 amended
-(1) This section amends the Sentencing Legislation Amendment and Repeal Act 2003.
-(2) Delete section 78.
+The Sentencing Legislation Amendment and Repeal Act 2003 s. 78 had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 38.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

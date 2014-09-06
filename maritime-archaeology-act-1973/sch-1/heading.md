@@ -1,6 +1,6 @@
 ## First Schedule — Ships notified under Museums Acts
 [s. 6]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 Name of Ship | Year of loss | Approximate location
 Known as the —
 “Tryal” ..................................... | 1622 | Tryal Rocks, Monte Bello Islands.
@@ -8,4 +8,4 @@ Known as the —
 “Vergulde Draeck” .................. | 1656 | Ledge Point.
 “Zuytdorp” ............................... | 1712 | 33.5 nautical miles north of the mouth of the Murchison River.
 “Zeewyk” ................................. | 1727 | Gun Island, Pelsart Group, Houtmans Abrolhos.
-[First Schedule amended by No. 8 of 2009 s. 90.]
+[First Schedule amended: No. 8 of 2009 s. 90.]
