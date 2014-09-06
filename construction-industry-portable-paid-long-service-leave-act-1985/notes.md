@@ -24,11 +24,6 @@ Reprint 3: The Construction Industry Portable Paid Long Service Leave Act 1985 a
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Industrial Legislation Amendment Act 2011 Pt. 2 | 53 of 2011 | 11 Nov 2011 | 1 Apr 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1246)
 Reprint 4: The Construction Industry Portable Paid Long Service Leave Act 1985 as at 8 Nov 2013 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Standardisation of Formatting Act 2010 s. 51 Table item 14 | 19 of 2010 (as amended by No. 17 of 2014 s. 39(3)) | 28 Jun 2010 | To be proclaimed (see s. 2(b))
-Statutes (Repeals and Minor Amendments) Act 2014 s. 39(3) | 17 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 The Construction Industry Portable Paid Long Service Leave Amendment Act 1989 s. 13 and 14 read as follows:
 13.Transitional
 (1) In this section —
@@ -40,17 +35,7 @@ the appointed day means the day fixed by the Minister by Order published in the 
 (5) An amount assessed by the Board under subsection (4) shall, if not paid within the time specified by the Board, constitute a debt to the Board and is recoverable by the Board in any court of competent jurisdiction.
 14.Validation
 Where a regulation is made under section 3(4)(c) of the principal Act, any act done or thing omitted to be done before the coming into operation of that regulation which constituted a contravention of the principal Act but which would have been lawful if done or omitted to be done after the coming into operation of the regulation, shall be deemed to have been lawfully done.
-On the date as at which this reprint was prepared, the Standardisation of Formatting Act 2010 s. 51 Table item 14 had not come into operation. It reads as follows:
-51.Various written laws amended
-(1) This section amends the written laws listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-14.Construction Industry Portable Paid Long Service Leave Act 1985
-Sch. cl. 1 | 1. Notwithstanding | 1.Service prior to application Notwithstanding
-Sch. cl. 2 | 2. (1)Notwithstanding | 2.Contributions for service prior to appointed day (1)Notwithstanding
-On the date as at which this compilation was prepared, the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(3) had not come into operation. It reads as follows:
-39.Standardisation of Formatting Act 2010 amended
-(1) This section amends the Standardisation of Formatting Act 2010.
-(3) In section 51 in the Table delete item 14.
+The Standardisation of Formatting Act 2010 s. 51 Table item 14, the amendment to the Schedule, had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(3).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -61,7 +46,7 @@ Board3(1)
 books3(1)
 break in service21(3)
 chief executive officer3(1)
-commencement daySch. cl. 3(7)
+commencement daySch. — cl. 3(7)
 construction industry3(1), 29A(1)
 corresponding law29A(1)
 corresponding public employer in this State29A(1)
@@ -76,8 +61,8 @@ labour hire agency3(1)
 member3(1)
 offshore area3A(1)
 ordinary pay3(1), 21(3), 51(2)
-person A3(1)
 person B3(1)
+person A3(1)
 prescribed3(1)
 reviewable decision50(1)
 training contract3(1)
