@@ -140,6 +140,10 @@ Road Traffic (Licensing) Amendment Regulations (No. 3) 2011 | 2 Dec 2011 p. 5073
 Road Traffic (Licensing) Amendment Regulations (No. 2) 2011 | 2 Dec 2011 p. 5075 | r. 1 and 2: 2 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2011 (see r. 2(b))
 Road Traffic (Licensing) Amendment Regulations 2012 | 14 Dec 2012 p. 6207-8 | r. 1 and 2: 14 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Dec 2012 (see r. 2(b))
 Road Traffic (Licensing) Amendment Regulations (No. 2) 2013 | 12 Apr 2013 p. 1540 | r. 1 and 2: 12 Apr 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Apr 2013 (see r. 2(b) and Gazette 12 Apr 2013 p. 1533)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Traffic (Licensing) Amendment Regulations (No. 2) 2014 r. 3-8 3 | 9 Sep 2014 p. 3249-52 | 26 Sep 2014 (see r. 2(b))
 Footnote no longer applicable.
 Repealed by the Motor Vehicle (Third Party Insurance) Regulations 2009.
 Revoked on 4 Oct 1974 (see Gazette 3 Oct 1974 p. 3701).
@@ -153,6 +157,59 @@ Disallowance of the Road Traffic (Licensing) Amendment Regulations (No. 2) 1997 
 The Road Traffic (Licensing) Amendment Regulations (No. 3) 2000 r. 6 reads as follows:
 6.Transitional
 A licence for a vehicle of a class described in the portion of the Table deleted by regulation 5(4) is to be taken to be a licence for the appropriate class of vehicle described in the portion of the Table inserted by that regulation.
+3On the date as at which this compilation was prepared, the Road Traffic (Licensing) Amendment Regulations (No. 2) 2014 r. 3-8 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Road Traffic (Licensing) Regulations 1975.
+4.Regulation 3 amended
+In regulation 3(1) insert in alphabetical order:
+character includes letter and numeral;
+5.Regulation 23 amended
+In regulation 23(1) and (2) delete “or numerals or both, as the case may be,”.
+6.Regulation 25 amended
+In regulation 25(1):
+(a) in paragraph (c) delete “plate; and” and insert:
+plate.
+(b) delete paragraph (d).
+7.Regulation 25AA inserted
+After regulation 25 insert:
+25AA.Preventing effective identification of number plate
+(1) In this regulation —
+ID prevention state, in relation to a plate on a vehicle, means that —
+(a)the plate is bent in a way that prevents the whole or a part of a character on the plate from being read at any time when the vehicle is used or driven; or
+(b)the plate’s angle is changed in a way that prevents the whole or a part of a character on the plate from being read at any time when the vehicle is used or driven; or
+(c)the plate or any part of the plate is covered, altered or otherwise obscured in a way that prevents the whole or part of a character on the plate from being read at any time when the vehicle is used or driven; or
+(d)a character or a part of a character on the plate is covered, altered or otherwise obscured in a way that prevents the whole or part of a character on the plate from being read at any time when the vehicle is used or driven; or
+(e)the plate is affected in a way that prevents the whole or part of a character on the plate from being read from one or more positions, even though the character can be read from one or more other positions, at any time when the vehicle is used or driven;
+obscuring device means a device the use or operation of which would result in a plate on a vehicle being in an ID prevention state but does not include —
+(a)a tow ball fitted to the rear of a vehicle; or
+(b)a bicycle rack fitted to the rear of a vehicle; or
+(c)a bicycle carried on a bicycle rack fitted to the rear of a vehicle;
+obscuring device action, in relation to a vehicle, means —
+(a)installing an obscuring device in or on the vehicle; or
+(b)causing an obscuring device to be installed in or on the vehicle; or
+(c)otherwise providing an obscuring device for the vehicle;
+plate means a number plate or identification tablet;
+read, in relation to a plate on a vehicle, means read from the vehicle’s exterior.
+(2) A responsible person for a vehicle must not allow the vehicle to be used or driven unless the whole of each character on a plate on the vehicle can be read whenever the vehicle is used or driven.
+(3) A responsible person for a vehicle must not allow the vehicle to be used or driven if a plate on the vehicle is in an ID prevention state.
+(4) A responsible person for a vehicle must not take obscuring device action in relation to the vehicle.
+(5) A responsible person for a vehicle must not allow the vehicle to be used or driven if an obscuring device is installed in or on the vehicle or is otherwise provided for the vehicle.
+(6) A person in charge of a vehicle must not use or drive the vehicle unless the whole of each character on a plate on the vehicle can be read whenever the vehicle is used or driven.
+(7) A person in charge of a vehicle must not use or drive the vehicle if a plate on the vehicle is in an ID prevention state.
+(8) A person in charge of a vehicle must not use or drive the vehicle if an obscuring device is installed in or on the vehicle or is otherwise provided for the vehicle.
+(9) A person in charge of a vehicle must not use or operate an obscuring device at any time so as to prevent the whole or part of a character on the plate from being read at any time when the vehicle is used or driven.
+(10) A person does not commit an offence under subregulation (2), (3), (6) or (7) if the thing that is preventing the whole or part of a character on the plate from being read is —
+(a) a tow ball fitted to the rear of the vehicle; or
+(b) a bicycle rack fitted to the rear of the vehicle; or
+(c) a bicycle carried on a bicycle rack fitted to the rear of the vehicle.
+(11) A person does not commit an offence under subregulation (3) or (7) in relation to the covering of a plate or a character if the plate or character is covered by a transparent film or cover that —
+(a) is of a type approved by the Director General as being non-reflective; and
+(b) bears the name of its manufacturer and its serial or other identification number in a conspicuous place, but not so as to obscure the characters on the number plate; and
+(c) is kept clean, in good condition and free from discoloration, heavy scratching and any marking other than those referred to in paragraph (b).
+Penalty applicable to subregulations (2), (3), (4), (5), (6), (7), (8) and (9): a fine of 24 PU.
+8.Regulation 39 amended
+In regulation 39(1) delete “regulations 31(1)” and insert:
+regulations 25AA(2), (3), (4), (5), (6), (7), (8) and (9), 31(1)
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
