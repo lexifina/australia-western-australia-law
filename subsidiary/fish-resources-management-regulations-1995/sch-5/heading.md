@@ -99,6 +99,7 @@ Hydrocynus spp. (entire genus) | Tigerfish
 Hypophthalmichthys molitrix | Silver Carp
 Hypseleotris cyprinoides | Tropical Carp-gudgeon
 Hypseleotris tohizonae
+Scientific name | Examples of common names used
 Ichthyborinae (entire subfamily) | African Pike-characin, Tubenose Poacher, Fin Eater
 Ictalurus balsanus | Balsas Catfish
 Ictalurus dugesii | Lerma Catfish
