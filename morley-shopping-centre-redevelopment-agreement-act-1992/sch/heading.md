@@ -1,6 +1,6 @@
 ## Schedule — Morley Shopping Centre Redevelopment Agreement
 [s. 3(1)]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 19th day of November 1992
 BETWEEN
 THE STATE OF WESTERN AUSTRALIA (“the State”) and MORLEY SHOPPING CENTRE PTY LIMITED (A.C.N. 002 154 458) of 800 Toorak Road, Tooronga, Melbourne, Victoria (“MSC”) and THE COLONIAL MUTUAL LIFE ASSURANCE SOCIETY LIMITED (A.C.N. 004 405 556) of 330 Collins Street, Melbourne, Victoria (“CML”).
@@ -43,7 +43,7 @@ as to which the Joint Venturers are for the time being registered as the proprie
 “MSC” means Morley Shopping Centre Pty. Limited, its successors and permitted assigns;
 “parties” means the State and the Joint Venturers, and
 “party” is a reference to any of them;
-“Plan” means Department of Land 4 Administration Miscellaneous Diagram 347 a copy of which is Schedule 1 to this Agreement;
+“Plan” means Department of Land Administration Miscellaneous Diagram 347 a copy of which is Schedule 1 to this Agreement;
 “Project Commencement Date” means the commencement date notified to the Minister pursuant to clause 4(1);
 “Project Completion” means completion of the Redevelopment in accordance with this Agreement to the state where the whole of the Morley Shopping Centre, as so redeveloped, is capable of occupation for its intended purpose;
 “ratifying Act” means the Bill referred to in clause 3 when that Bill is passed and comes into operation as an Act as contemplated by that clause;
@@ -121,7 +121,7 @@ Any surveys of land required for the purposes of this Agreement within the Devel
 (ii)the Water Rates payable in respect of the Rating Year in which Project Completion occurs shall be taken to be the Base Amount, or as the case may be, the Base Amount as increased by the operation of subclause (3).
 (6)If during the period specified in subclause 5(a) the Redeveloped Shopping Centre is further expanded by the construction of a new building or other development (the “New Development”), Water Rates payable in respect of the Development Area will be increased by an amount determined in accordance with the succeeding provisions of this clause.
 (7)The amount of the increase in the Water Rates (“the Incremental Increase”) will be (a) - (b) where —
-(a)=Water Rates determined in accordance with the GRV of the Development Area following completion of the New Development and calculated on the basis of the scale of Water Rates then applicable for commercial properties generally within the Perth Metropolitan Area (the “Current Scale”)
+(a)=Water Rates determined in accordance with the GRV of the Development Area following completion of the New Development and calculated on the basis of thescale of Water Rates then applicable for commercial properties generally within the Perth Metropolitan Area (the “Current Scale”)
 (b)=Water Rates determined in accordance with the GRV of the Development Area prior to the New Development and calculated on the basis of the Current Scale.
 For the avoidance of doubt, the calculation in this subclause will not include the concession in respect of Water Rates specified in subclause (2).
 (8)If and when an Incremental Increase occurs —
@@ -237,7 +237,7 @@ Morley Shopping Centre Pty. Limited 800 Toorak Road Tooronga Victoria 3146
 Attention: General Manager, New Business — Property
 Facsimile: (03) 829 3300
 The Colonial Mutual Life Assurance Society Limited 330 Collins Street Melbourne 3000
-Attention: Director—Property Investment —Colonial Mutual Investment Management
+Attention: Director— Property Investment — Colonial Mutual Investment Management
 Facsimile: (03) 641 8396
 (2)Any notice so delivered or mailed or sent by facsimile transmission shall be deemed to be duly given and received at the actual time of delivery, or in the case of a facsimile transmission on the day after despatch.
 (3)Any party may change its address for receipt of notices, or facsimile number, at any time by giving notice to the other parties in the manner provided in this clause.
@@ -585,7 +585,7 @@ Portion of Swan Location Q1 and being Lot 3 on Diagram 24053 being the whole of 
 “Plan” means the plan annexed and marked Annexure “A”.
 “PS Works” means all works necessary for the construction of a Paved Surface.
 “State” means the State of Western Australia.
-“Titles Office” means the Office of Titles 5, Perth.
+“Titles Office” means the Office of Titles, Perth.
 “Water Authority Land” means:
 (a)portion of Swan Location T and being part of the land on Diagram 27251 and being the whole of the land comprised in Certificate of Title Volume 280 Folio 77A; and
 (b)portion of Swan Location T and being part of Lot 1152 on Plan 3401 and being the whole of the land comprised in Certificate of Title Volume 1255 Folio 789.
@@ -745,7 +745,7 @@ for the WAWA Relocation Work;
 “SPC Date” means the date on which the last of the following occurs:
 (a)the determination of the Market Value of the Russell Street Land in accordance with clause 11; and
 (b)the Completion of the WAWA Relocation Work in accordance with clause 13;
-Specified Amount means the amount specified in clause 5;
+“Specified Amount” means the amount specified in clause 5;
 “WAWA Facilities” means the water, sewage and drainage facilities established on the Water Authority Land and includes the Drainage Facilities, Sewage Pump Facilities and the Pipe Facilities;
 “WAWA Relocation Work” means the work necessary for;
 (a)the relocation of the Drainage Facilities from the Water Authority Land to the Russell Street Land;
@@ -973,6 +973,6 @@ Agreement | State of Western Australia, CML, MSC | Deed | 8 | $5.00
 Joint Venture Agreement | MSC, CML, Coles Myer | Deed | 8 | $5.00
  |  |  |  | $1,437,594.00
 EXECUTED by the parties.
-Signed for and behalf of The State of Western Australia by THE HONOURABLE CARMEN MARY LAWRENCE MLA Premier in the presence of C. M. SHERVINGTON _________________________________________________________ Witness 197 St. George’s Tce., Perth _________________________________________________________ Address Public Servant _________________________________________________________ Occupation | ) ) ) ) ) | CARMEN LAWRENCE
-THE COMMON SEAL of MORLEY SHOPPING CENTRE PTY LIMITED was hereunto affixed in accordance with its Articles of Association in the presence of: P. G. ALLARD ________________________________________________________ Director ______________________________ Name (please print) | ) ) ) ) ) ) ) | D. G. GRIEG _________________________________________ Director/Secretary ______________________ Name (please print)
-THE COMMON SEAL of THE COLONIAL MUTUAL LIFE ASSURANCE SOCIETY LIMITED was hereunto affixed in accordance with its Articles of Association in the presence of: D. S. ADAM ________________________________________________________ Director ______________________________ Name (please print) | ) ))))))) | C. J. STOTT _________________________________________ Director/Secretary ______________________ Name (please print)
+Signed for and behalf of The State of Western Australia by THE HONOURABLE CARMEN MARY LAWRENCE MLA Premier in the presence of C. M. SHERVINGTON ________________________________________________________ Witness 197 St. George’s Tce., Perth _______________________________________________________ Address Public Servant _______________________________________________________ Occupation | ) ) ) ) | CARMEN LAWRENCE
+THE COMMON SEAL of MORLEY SHOPPING CENTRE PTY LIMITED was hereunto affixed in accordance with its Articles of Association in the presence of: P. G. ALLARD ________________________________________________________ Director ________________________________________________________ Name (please print) | ) ) ) ) | D. G. GRIEG _______________________________________________ Director/Secretary _______________________________________________ Name (please print)
+THE COMMON SEAL of THE COLONIAL MUTUAL LIFE ASSURANCE SOCIETY LIMITED was hereunto affixed in accordance with its Articles of Association in the presence of: D. S. ADAM ______________________________________________________ Director ________________________________________________________ Name (please print) | ) ) ) ) ) | C. J. STOTT ____________________________________________ Director/Secretary ______________________________________________ Name (please print)
