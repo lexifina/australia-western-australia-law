@@ -1,6 +1,6 @@
 ## First Schedule — Railway Standardisation Agreement
 [s. 2]
-[Headings inserted by No. 51 of 1971 s. 5; amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 51 of 1971 s. 5; amended: No. 19 of 2010 s. 4.]
 AN AGREEMENT made the Second day of October 1961, BETWEEN THE COMMONWEALTH OF AUSTRALIA (in this agreement called “the Commonwealth”) of the one part and THE STATE OF WESTERN AUSTRALIA (in this agreement called “the State”) of the other part:
 WHEREAS in pursuance of an agreement approved by Act No. 67 of 1960 of the Parliament of Western Australia the State wishes to carry out certain railway work in the State of Western Australia in conjunction with the development of iron ore, iron and steel production in that State:
 AND WHEREAS it is desirable in the interest of the people of the State of Western Australia and of the Commonwealth of Australia generally that the production of iron ore, iron and steel should be developed:
@@ -9,7 +9,7 @@ AND WHEREAS the State has requested the Commonwealth to provide financial assist
 NOW THIS AGREEMENT WITNESSETH AS FOLLOWS: —
 DIVISION I. — PRELIMINARY.
 Definitions
-1. —(1.)In this agreement, subject to the context —
+1. — (1.)In this agreement, subject to the context —
 “completion date” means the later of the respective dates on which regular services on the section Kalgoorlie to Fremantle via Perth and Koolyanobbing to Kwinana of the standard gauge railway are commenced;
 “financial year” means a period of twelve calendar months ending on the 30th day of June;
 “narrow gauge” means a gauge of three feet six inches;
@@ -56,27 +56,27 @@ Inspection
 9.The State shall permit any person authorized by the Minister from time to time to enter upon and inspect the work and to inspect, take copies of or extracts from any plans, designs, accounts, records or documents relating to the work.
 DIVISION III. — FINANCE.
 Provision of funds
-10. —(1.)Subject to the provisions of this agreement, the Commonwealth will provide the funds required to meet seventeen-twentieths of expenditure by the State on the work and the State will provide the funds required to meet three-twentieths of such expenditure.
+10. — (1.)Subject to the provisions of this agreement, the Commonwealth will provide the funds required to meet seventeen-twentieths of expenditure by the State on the work and the State will provide the funds required to meet three-twentieths of such expenditure.
 (2.)The State shall be entitled, subject to the provisions of this agreement, to receive payments from the Commonwealth of amounts equal to seventeen-twentieths of the expenditure made by the State on the work from time to time and of such additional amounts as are, in the opinion of the Minister, reasonably required as a working advance to meet expenditure incurred or to be incurred.
 (3.)For the purposes of this clause expenditure on the work shall include the administrative expenses directly related to the carrying out of the work and the cost of the preliminary survey, including expenditure incurred or made on the survey before the date of operation of this agreement and authorized by the Commonwealth otherwise than in accordance with this agreement.
 (4.)The amounts set out in the last column of the Second Schedule as the estimated cost of the work and the various components thereof are based solely on the cost of materials and labour and on operational requirements prevailing at the end of the year 1960 and are specified as an indication of the extent of the work and the relative amounts to be expended on each component thereof but otherwise do not impose any limitation on the amount to be expended by the State on the work or on any part thereof for the purposes of this clause.
 Authorization of expenditure
-11. —(1.)The State will not be entitled to receive payments from the Commonwealth in respect of expenditure the incurring of which is not approved or ratified by the Minister.
+11. — (1.)The State will not be entitled to receive payments from the Commonwealth in respect of expenditure the incurring of which is not approved or ratified by the Minister.
 (2.)In exercising his powers under this clause the Minister shall have regard to the provisions of clause 3 of this agreement and to whether the work to which the expenditure relates is to be or has been carried out in accordance with the programmes, procedures, plans and specifications prepared in accordance with clause 7 of this agreement.
 Payments by the State
-12. —(1.)The State shall from its Consolidated Fund pay to the Commonwealth an amount equal to ten-seventeenths of the payments made by the Commonwealth to the State in each financial year under clause 10 of this agreement and interest thereon in the following manner —
+12. — (1.)The State shall from its Consolidated Fund pay to the Commonwealth an amount equal to ten-seventeenths of the payments made by the Commonwealth to the State in each financial year under clause 10 of this agreement and interest thereon in the following manner —
 (a)as to an amount equal to three-seventeenths of those payments — by fifty equal annual contributions commencing on the 30th day of June next following the end of that financial year, together with interest on so much of that amount as has not been paid at the beginning of the financial year in which the contribution is due, calculated from the beginning of that financial year; and
 (b)as to an amount equal to seven-seventeenths of each of those payments, together with interest as hereinafter provided in this clause and not paid under sub-clause (3.) of this clause by forty equal semi-annual payments of principal and interest commencing six calendar months after the completion date and continuing thereafter at intervals of six calendar months until the final payment is made.
 (2.)The interest payable under paragraph (b) of the last preceding sub-clause shall be calculated from the date on which the relevant payment was made by the Commonwealth and shall accrue on the amount referred to in that paragraph or on so much of that amount as for the time being remains unpaid by the State to the Commonwealth.
 (3.)The State may, in respect of the period prior to the completion date, pay on the 30th day of June in any year the whole or part of the interest accrued to that date in accordance with the last preceding sub-clause, but any interest so accrued and not so paid shall there after bear interest at the same rate and to the same extent as the payment by the Commonwealth to which it relates.
 (4.)The rate of interest payable by the State under this clause shall be the rate payable on the long term loan last raised by the Commonwealth in Australia for public subscription prior to —
-(a) for the purposes of paragraph (a) of sub-clause (1.) of this clause — the end of the financial year in which the payments were made by the Commonwealth; and
-(b) for the purposes of paragraph (b) of sub-clause (1.) of this clause — the date on which the relevant payment was made by the Commonwealth.
+(a)for the purposes of paragraph (a) of sub-clause (1.) of this clause — the end of the financial year in which the payments were made by the Commonwealth; and
+(b)for the purposes of paragraph (b) of sub-clause (1.) of this clause — the date on which the relevant payment was made by the Commonwealth.
 Expenditure after the completion date
-13. —(1.)The provisions of clauses 10, 11 and 12 of this agreement shall apply to expenditure by the State on the work during the period of twenty-four calendar months immediately following the completion date in respect of expenditure incurred not later than twelve calendar months after the completion date, except that for the purposes of the application of those clauses in pursuance of this clause the completion date referred to in paragraph (b) of sub-clause (1.) and in sub-clause (3.) of clause 12 of this agreement shall be read as a reference to a date twenty-four calendar months after the completion date.
+13. — (1.)The provisions of clauses 10, 11 and 12 of this agreement shall apply to expenditure by the State on the work during the period of twenty-four calendar months immediately following the completion date in respect of expenditure incurred not later than twelve calendar months after the completion date, except that for the purposes of the application of those clauses in pursuance of this clause the completion date referred to in paragraph (b) of sub-clause (1.) and in sub-clause (3.) of clause 12 of this agreement shall be read as a reference to a date twenty-four calendar months after the completion date.
 (2.)Except with the authority of the Minister the Commonwealth shall not be obliged at any time subsequent to twenty-four calendar months after the completion date to meet expenditure made by the State on any of the work.
 Estimates
-14. —(1.)The State shall prepare and submit to the Minister not later than the 30th day of April in each year an estimate of the funds for which application will be made to the Commonwealth during the next succeeding financial year.
+14. — (1.)The State shall prepare and submit to the Minister not later than the 30th day of April in each year an estimate of the funds for which application will be made to the Commonwealth during the next succeeding financial year.
 (2.)The estimate shall be supported by appropriate explanations and by a statement or statements showing —
 (a)the total amounts provided by the Commonwealth and by the State and the total amount expended by the State on the work to a convenient date prior to such 30th day of April;
 (b)the further amount estimated to be expended by the State on the work and the further amounts estimated to be required to be provided by the Commonwealth and by the State for that purpose by the next succeeding 30th day of June; and
@@ -87,7 +87,7 @@ Accounts, reports and records
 (a)keep full accounts and records of all financial transactions, work done, and plant, stores, materials and equipment used or disposed of, in connexion with the work; and
 (b)furnish to the Minister at intervals of not more than twelve months progress reports on the performance of the work, together with financial statements of expenditure on the work and on each item thereof, revised estimates of cost and the estimated amounts of annual expenditure necessary to complete the work.
 Audit
-16. —(1.)The accounts, books, vouchers, documents and other records of the State relating to the receipt or payment of money or to the receipt, custody or disposal of plant, stores, materials and equipment in connexion with the work shall be audited by the Auditor-General for the State.
+16. — (1.)The accounts, books, vouchers, documents and other records of the State relating to the receipt or payment of money or to the receipt, custody or disposal of plant, stores, materials and equipment in connexion with the work shall be audited by the Auditor-General for the State.
 (2.)A report on the audit and on the financial statements shall be furnished by the Auditor-General for the State to the Auditor-General for the Commonwealth at least once every year and such report shall indicate, inter alia —
 (a)whether the financial statements are based on proper accounts and records and are in agreement with those accounts and records; and
 (b)whether the receipt and expenditure of moneys are in accordance with this agreement,
@@ -107,7 +107,7 @@ Route of Railways.
 The route of the standard gauge railway begins at the terminus of the Commonwealth standard gauge railway line at Kalgoorlie and is as follows: —
  | Approximate Main Line Mileages.
 (a)Kalgoorlie to East Northam, parallel to the existing narrow gauge railway, except where deviations are necessary to attain the required grading as set out in the Second Schedule ..................................................... | 357
-(b)East Northam to Midland via Toodyay and the Avon River Valley ................................ | 59
+(b)East Northam to Midland via Toodyay and the Avon River Valley ............................... | 59
 (c)Midland to Fremantle via Perth parallel to the existing narrow gauge railway .............. | 28
 (d)Fremantle to Kwinana on the existing formation .................................................... | 12
 (e)Midland to East Perth via Kewdale and Welshpool ................................................... | 11
@@ -139,36 +139,36 @@ Particulars. | Estimated Cost. £
 15.Rolling Stock, standard gauge only —
 Number of Units.
 Locomotives —
-Main line locomotives of capacities up to 2,000 gross brake horsepower each .......... | 22
-Transfer road-shunters of capacities up to 900 gross brake horsepower each .......... | 5
-Shunting locomotives of capacities up to 650 gross brake horsepower each .......... | 11
+Main line locomotives of capacities up to 2,000 gross brake horsepower each.................................... | 22
+Transfer road-shunters of capacities up to 900 gross brake horsepower each ..... | 5
+Shunting locomotives of capacities up to 650 gross brake horsepower each ..... | 11
  | ____ | 38 | 3,700,000
 Passenger Vehicles ................ |  | 55 | 1,710,000
 Freight vehicles —
-Ore wagons ............................ | 155
-Open goods wagons ............... | 302
-Covered vans ......................... | 310
-Flat wagons ........................... | 209
-Livestock and special vehicles ............................ | 162
+Ore wagons ......................... | 155
+Open goods wagons ............ | 302
+Covered vans ....................... | 310
+Flat wagons ......................... | 209
+Livestock and special vehicles ........................... | 162
  |  | 1,138 | 5,093,000
 Service vehicles ..................... |  | 55 | 270,000
  |  |  | £10,773,000
-Total ....................................... |  |  | £41,210,000
+Total .................................... |  |  | £41,210,000
 THIRD SCHEDULE.
 Standards.
 Earthworks:Formation width —
 (a)Banks 20′ 0″
 (b)Cuttings 22′ 0″
 Grading:Ruling grades —
-(a)Kalgoorlie to East Northam ................... | 1 in 150
-(b)East Northam to Midland ....................... | 1 in 200
-(c)Midland to Fremantle via Perth ............. | as on existing route
-(d)Fremantle to Kwinana ............................ | as on existing route
-(e)(i)Midland to Kewdale .................... | 1 in 200
-(ii)Kewdale to East Perth ................. | 1 in 100
-(f)Kewdale to Kwinana via Cannington .... | 1 in 200
-(g)Southern Cross to Koolyanobbing ......... | 1 in 150
-(h)Kalgoorlie to Kamballie ......................... | as on existing route
+(a)Kalgoorlie to East Northam .............. | 1 in 150
+(b)East Northam to Midland .................. | 1 in 200
+(c)Midland to Fremantle via Perth ........ | as on existing route
+(d)Fremantle to Kwinana ....................... | as on existing route
+(e)(i) Midland to Kewdale .................. | 1 in 200
+(ii)Kewdale to East Perth ............... | 1 in 100
+(f)Kewdale to Kwinana via Cannington | 1 in 200
+(g)Southern Cross to Koolyanobbing .... | 1 in 150
+(h)Kalgoorlie to Kamballie .................... | as on existing route
 All grades to be compensated for curvature.
 Curvature:Minimum radius of not less than 40 chains.
 Sleepers:Hardwood 9″ x 4½″ x 8′ 0″; 2,640 to the mile.
@@ -194,4 +194,4 @@ SIGNED by the Prime Minister of the Commonwealth of Australia for and on behalf 
 HUBERT OPPERMAN.
 SIGNED by the Premier of the State of Western Australia for and on behalf of the State in the presence of — |  | DAVID BRAND.
 C. W. COURT.
-[First Schedule amended by No. 6 of 1993 s. 12.]
+[First Schedule amended: No. 6 of 1993 s. 12.]
