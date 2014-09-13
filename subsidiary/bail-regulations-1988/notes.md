@@ -18,8 +18,12 @@ Courts and Legal Practice (Consequential Amendments) Regulations 2005 r. 2 | 19 
 Bail Amendment Regulations 2009 | 25 Feb 2009 p. 471-90 | r. 1 and 2: 25 Feb 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2009 (see r. 2(b) and Gazette 27 Feb 2009 p. 511)
 Reprint 2: The Bail Regulations 1988 as at 6 Mar 2009 (includes amendments listed above)
 Bail Amendment Regulations 2012 | 6 Mar 2012 p. 895 | r. 1 and 2: 6 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2012 (see r. 2(b))
-Defined Terms
+Bail Amendment Regulations 2014 | 12 Sep 2014 p. 3281-9 | r. 1 and 2: 12 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Sep 2014 (see r. 2(b) and Gazette 12 Sep 2014 p. 3279)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
+approved user3A
+courts electronic system3A
 department11(3)
 departmental programme11(3)
+working day3A
