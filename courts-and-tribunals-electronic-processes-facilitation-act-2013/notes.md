@@ -2,47 +2,12 @@ Notes
 This is a compilation of the Courts and Tribunals (Electronic Processes Facilitation) Act 2013. The following table contains information about that Act.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Courts and Tribunals (Electronic Processes Facilitation) Act 2013 (other than s. 22, 23, 25, 27-30, 37-39, 75, 95, 106, 108, 110-112, 114-117, 119, 121, 124, 127, 138 and 139) | 20 of 2013 | 4 Nov 2013 | Pt. 1: 4 Nov 2013 (see s. 2(a)); Act other than Pt. 1 and s. 22, 23, 25, 27-30, 37-39, 75, 95, 106, 108, 110-112, 114--117, 119, 121, 124, 127, 138 and 139: 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 (other than s. 37-39, 75, 95, 106, 108, 110-112, 114-117, 119, 121, 124, 127, 138 and 139) | 20 of 2013 | 4 Nov 2013 | Pt. 1: 4 Nov 2013 (see s. 2(a)); Act other than Pt. 1 and s. 22, 23, 25, 27-30, 37-39, 75, 95, 106, 108, 110-112, 114--117, 119, 121, 124, 127, 138 and 139: 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391); s. 22, 23, 25, 27-30: 13 Sep 2014 (see s. 2(b) and Gazette 12 Sep 2014 p. 3279)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 22, 23, 25, 27-30, 37-39, 75, 95, 106, 108, 110-112, 114-117, 119, 121, 124, 127, 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 22, 23, 25, 27-30, 37-39, 75, 95, 106, 108, 110-112, 114-117, 119, 121, 124, 127, 138 and 139 had not come into operation. They read as follows:
-22.Section 3 amended
-In section 3(1) delete the definitions of:
-electronic address
-electronic communication
-23.Section 3A deleted
-Delete section 3A.
-25.Section 13B amended
-(1) Delete section 13B(1)(b) and insert:
-(b) sent to the accused by post to the accused’s address appearing in the records of the court; or
-(c) in urgent cases or with the accused’s consent, provided to the accused by electronic means in accordance with the regulations.
-(2) In section 13B(2) delete “gives or sends” and insert:
-gives, sends or provides
-(3) In section 13B(3) delete “subsection (1)(b)(i),” and insert:
-subsection (1)(b),
-27.Section 32 amended
-(1) Delete section 32(1)(c) and insert:
-(c) in urgent cases or with the accused’s consent, shall be provided to the accused by electronic means in accordance with the regulations.
-(2) In section 32(2) delete “gives or sends” and insert:
-gives, sends or provides
-28.Section 37 amended
-Delete section 37(3).
-29.Section 43A amended
-(1) Delete section 43A(4) to (7) and insert:
-(4) The relevant official may provide the surety undertaking to the proposed surety for completion by providing it by electronic means in accordance with the regulations.
-(5) The proposed surety may enter into the surety undertaking by providing the completed surety undertaking to the relevant official by electronic means in accordance with the regulations.
-(6) If the surety undertaking is provided by electronic means under subsection (4) or (5), any requirement for the proposed surety or the relevant official to sign it is to be taken to have been complied with if the full name of the proposed surety or the relevant official, as the case requires, appears in the appropriate place in the undertaking.
-(7) The relevant official may comply with section 43(c) by providing a copy of the surety undertaking (as duly completed) to the surety by electronic means in accordance with the regulations.
-(2) Delete section 43A(10).
-Note:The heading to amended section 43A is to read:
-Entering into surety undertaking where proposed surety interstate
-30.Section 45 amended
-Delete section 45(1)(c) and insert:
-(c) by a person authorised under subsection (5) —
-(i) sending or causing to be sent the approved form to the surety by post to the surety’s address appearing in the records of the court; or
-(ii) in urgent cases or with the surety’s consent, providing or causing to be provided the approved form to the surety by electronic means in accordance with the regulations.
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 37-39, 75, 95, 106, 108, 110-112, 114-117, 119, 121, 124, 127, 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 37-39, 75, 95, 106, 108, 110-112, 114-117, 119, 121, 124, 127, 138 and 139 had not come into operation. They read as follows:
 37.Section 11 amended
 Delete section 11(2) and insert:
 (2) The application must be —
