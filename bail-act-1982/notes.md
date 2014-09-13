@@ -59,12 +59,8 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 19 | 47 of 2011 | 25 Oct 201
 Misuse of Drugs Amendment Act 2011 Pt. 3 | 56 of 2011 | 21 Nov 2011 | 24 Mar 2012 (see s. 2(b) and Gazette 23 Mar 2012 p. 1363)
 Reprint 8: The Bail Act 1982 as at 6 Jul 2012 (includes amendments listed above except those in the Electronic Transactions Act 2011 s. 25)
 Criminal Organisations Control Act 2012 s. 172 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
-Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 1 (other than s. 22, 23, 25 and 27-30) | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 1 (s. 21-31) | 20 of 2013 | 4 Nov 2013 | Pt. 3 Div. 1 (other than s. 22, 23, 25 and 27-30): 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391); s. 22, 23, 25 and 27-30: 13 Sep 2014 (see s. 2(b) and Gazette 12 Sep 2014 p. 3279)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 3 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 22, 23, 25 and 27-30 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The short title of the Justices Act 1902 was changed to the Criminal Procedure (Summary) Act 1902 by the Courts Legislation Amendment and Repeal Act 2004 s. 25. The Act was then repealed by the Criminal Procedure and Appeal (Consequential and Other Provisions) Act 2004.
 The amendment in the Sentencing Legislation Amendment and Repeal Act 1999 s. 26 had not come into operation when it was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -79,44 +75,6 @@ The Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 97 reads a
 If in a written law or other document or instrument there is a reference to the Crown Solicitor that reference may, where the context so requires, be read as if it had been amended to be a reference to the State Solicitor.
 The amendment in the Courts Legislation Amendment and Repeal Act 2004 s. 141 (amending Sch. 1 Pt. A cl. 4) is not included because the clause it sought to amend had been amended by the Acts Amendment (Court of Appeal) Act 2004 s. 28(4) before the amendment purported to come into operation.
 The Bail Amendment Act 2008 s. 6(2), 9(4)-(11), 10(2), 11(3), 15(5)-(8), 16(2), 18(4)-(5), 21(3), 22(2), 23(4), 24(6)-(7), 27(2)-(3), 28(6), 30(4)-(5), 31(2)-(3), 32(3)-(4), 33(6), 40(2), 41(5)-(9), 42(3) and 44 are transitional provisions.
-On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 22, 23, 25 and 27-30 had not come into operation. They read as follows:
-Part 3 — Amendments to other Acts
-Division 1 — Bail Act 1982 amended
-22.Section 3 amended
-In section 3(1) delete the definitions of:
-electronic address
-electronic communication
-23.Section 3A deleted
-Delete section 3A.
-25.Section 13B amended
-(1) Delete section 13B(1)(b) and insert:
-(b) sent to the accused by post to the accused’s address appearing in the records of the court; or
-(c) in urgent cases or with the accused’s consent, provided to the accused by electronic means in accordance with the regulations.
-(2) In section 13B(2) delete “gives or sends” and insert:
-gives, sends or provides
-(3) In section 13B(3) delete “subsection (1)(b)(i),” and insert:
-subsection (1)(b),
-27.Section 32 amended
-(1) Delete section 32(1)(c) and insert:
-(c) in urgent cases or with the accused’s consent, shall be provided to the accused by electronic means in accordance with the regulations.
-(2) In section 32(2) delete “gives or sends” and insert:
-gives, sends or provides
-28.Section 37 amended
-Delete section 37(3).
-29.Section 43A amended
-(1) Delete section 43A(4) to (7) and insert:
-(4) The relevant official may provide the surety undertaking to the proposed surety for completion by providing it by electronic means in accordance with the regulations.
-(5) The proposed surety may enter into the surety undertaking by providing the completed surety undertaking to the relevant official by electronic means in accordance with the regulations.
-(6) If the surety undertaking is provided by electronic means under subsection (4) or (5), any requirement for the proposed surety or the relevant official to sign it is to be taken to have been complied with if the full name of the proposed surety or the relevant official, as the case requires, appears in the appropriate place in the undertaking.
-(7) The relevant official may comply with section 43(c) by providing a copy of the surety undertaking (as duly completed) to the surety by electronic means in accordance with the regulations.
-(2) Delete section 43A(10).
-Note:The heading to amended section 43A is to read:
-Entering into surety undertaking where proposed surety interstate
-30.Section 45 amended
-Delete section 45(1)(c) and insert:
-(c) by a person authorised under subsection (5) —
-(i) sending or causing to be sent the approved form to the surety by post to the surety’s address appearing in the records of the court; or
-(ii) in urgent cases or with the surety’s consent, providing or causing to be provided the approved form to the surety by electronic means in accordance with the regulations.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -145,8 +103,6 @@ court3(1)
 court custody centre3(1)
 Director of Public Prosecutions3(1)
 early release order3(1)
-electronic address3(1)
-electronic communication3(1)
 home detention condition3(1)
 judge7B(1), Sch. 1 Pt. B cl. 1(1)
 judge of appeal3(1)
