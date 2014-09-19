@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Real Estate and Business Agents (General) Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 19 September 2014 of the Real Estate and Business Agents (General) Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Real Estate and Business Agents (General) Regulations 1979 | 31 Aug 1979 p. 2616-18 | 1 Sep 1979
@@ -55,7 +55,7 @@ Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2006 | 1
 Real Estate and Business Agents (General) Amendment Regulations 2007 | 6 Feb 2007 p. 307-10 | 6 Feb 2007
 Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2007 | 9 Mar 2007 p. 847-8 | 9 Mar 2007
 Reprint 5: The Real Estate and Business Agents (General) Regulations 1979 as at 8 Jun 2007 (includes amendments listed above)
-Real Estate and Business Agents (General) Amendment Regulations (No. 4) 2007 | 24 Jul 2007 p. 3659-60 | r. 1 and 2: 24 Jul 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2007 (see r. 2(b) and Gazette 25 Jul 2007 p. 3657)
+Real Estate and Business Agents (General) Amendment Regulations (No. 4) 2007 | 24 Jul 2007 p. 3659-60 | r. 1 and 2: 24 Jul 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2007 (see r. 2(b) and Gazette 24 Jul 2007 p. 3657)
 Real Estate and Business Agents (General) Amendment Regulations (No. 5) 2007 | 28 Dec 2007 p. 6403-7 | r. 1 and 2: 28 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Dec 2007 (see r. 2(b))
 Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2008 | 17 Jun 2008 p. 2557-8 | r. 1 and 2: 17 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b))
 Real Estate and Business Agents (General) Amendment Regulations 2008 | 24 Jun 2008 p. 2886-7 | r. 1 and 2: 24 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jun 2008 (see r. 2(b))
@@ -76,12 +76,13 @@ Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2012 | 2
 Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2013 | 27 Jun 2013 p. 2691-2 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Real Estate and Business Agents (General) Amendment Regulations 2013 | 20 Aug 2013 p. 3839 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Real Estate and Business Agents (General) Amendment Regulations 2014 | 17 Jun 2014 p. 1977-8 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
+Reprint 8: The Real Estate and Business Agents (General) Regulations 1979 as at 19 Sep 2014 (includes amendments listed above)
 The commencement date in r. 2 was of no effect as it was before the date of gazettal.
-The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
+The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly.
 The Real Estate and Business Agents (General) Amendment Regulations 2003 r. 4(2) (as amended in Gazette 13 Jan 2004 p. 146) and r. 5(2) are transitional provisions that are of no further effect.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 authorised financial institution6C
 business6E(2)
 calendar year2
@@ -91,7 +92,6 @@ CPP07 Property Services Training Package6A(2)
 dwelling2
 educational activity2
 holding fee4A(1)
-lending institution7AA
 mandatory CPD activity2
 mandatory CPD subject2
 point value2
