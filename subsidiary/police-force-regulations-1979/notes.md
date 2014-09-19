@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Police Force Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 19 September 2014 of the Police Force Regulations 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Police Regulations 1979 | 20 Dec 1978 p. 4731-62 | 1 Jan 1979
@@ -63,14 +63,14 @@ Police Force Amendment Regulations (No. 2) 2011 | 8 Jul 2011 p. 2898-9 | r. 1 an
 Police Force Amendment Regulations (No. 3) 2011 | 15 Jul 2011 p. 2954 | r. 1 and 2: 15 Jul 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Jul 2011 (see r. 2(b))
 Police Force Amendment Regulations 2011 | 2 Dec 2011 p. 5071-2 | r. 1 and 2: 2 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2011 (see r. 2(b))
 Police Force Amendment Regulations 2014 | 20 May 2014 p. 1608-18 | r. 1 and 2: 20 May 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 21 May 2014 (see r. 2(b))
-Repealed by the Medical Practitioners Act 2008.
+Reprint 6: The Police Force Regulations 1979 as at 19 Sep 2014 (includes amendments listed above)
 Formerly referred to the Commissioner of Public Health, the name of which was changed to the Commissioner of Health by the Health Legislation Amendment Act 1984. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
-Now known as the Police Force Regulations 1979, citation changed (see note under r. 101).
+Now known as the Police Force Regulations 1979; citation changed (see note under r. 101).
 The Police Force Amendment Regulations (No. 2) 1995 r. 3(2) is a transitional provision that is of no further effect.
 The Police Force Amendment Regulations (No. 2) 1998 r. 13 is a transitional provision that is of no further effect.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Act103
 APLO103
 approved103
