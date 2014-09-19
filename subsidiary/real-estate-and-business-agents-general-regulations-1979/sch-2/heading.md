@@ -9,50 +9,50 @@ All persons who are purchasing the dwelling must be included in the Application
 All sections of this Application form must be completed.
 PARTICULARS OF THE APPLICANT(S)
 Applicant 1
-Please tick (ü):r Mr r Mrs r Miss r Ms r Other ..............
-Family Name__________________________________________
-First Given Name_________________________________________
-Other Given Name(s) ______________________________________
-Previous Family Name _____________________________________
-Street Address__________________________________________
-Suburb/Town__________________________ Post Code _______
-Telephone No.(Bus) ________ (Home)_______ (Mobile)__________
-Email__________________________________________
+Please tick (ü):r Mr r Mrs r Miss r Ms r Other ....................
+Family Name_____________________________________________
+First Given Name_____________________________________________
+Other Given Name(s) _____________________________________________
+Previous Family Name _____________________________________________
+Street Address_____________________________________________
+Suburb/Town____________________________ Post Code _______
+Telephone No.(Bus) _________ (Home)________ (Mobile)___________
+Email_____________________________________________
 Date of Birth_____/_______/_______
 Do you own or partially own, or have you ever owned or partially owned, any dwelling in Western Australia?
 Please tick (ü):r Yes r No
-If “Yes”, please give particulars of the dwelling(s) and ownership: ________________________________________________________________________________________________________________________________________________________________________
+If “Yes”, please give particulars of the dwelling(s) and ownership: ________________________________________________________________________________________________________________________________________________________________________________________________
 Do you own or partially own, or have you ever owned or partially owned, vacant land in Western Australia?
 Please tick (ü):r Yes r No
-If “Yes”, please give particulars of the vacant land previously owned: ________________________________________________________________________________________________________________________________________________________________________
+If “Yes”, please give particulars of the vacant land previously owned: ________________________________________________________________________________________________________________________________________________________________________________________________
 Applicant 2 (If applicable)
-Please tick (ü):r Mr r Mrs r Miss r Ms r Other ..............
-Family Name__________________________________________
-First Given Name_________________________________________
-Other Given Name(s) ______________________________________
-Previous Family Name _____________________________________
-Street Address_________________________________________
-Suburb/Town_________________________ Post Code _______
-Telephone No.(Bus) _______ (Home)________ (Mobile)________
-Email_________________________________________
+Please tick (ü):r Mr r Mrs r Miss r Ms r Other ....................
+Family Name_____________________________________________
+First Given Name_____________________________________________
+Other Given Name(s) _____________________________________________
+Previous Family Name _____________________________________________
+Street Address_____________________________________________
+Suburb/Town____________________________ Post Code _______
+Telephone No.(Bus) ________ (Home)_________ (Mobile)__________
+Email_____________________________________________
 Date of Birth_____/_______/______
 Do you own or partially own, or have you ever owned or partially owned, any dwelling in Western Australia?
 Please tick (ü):r Yes r No
-If “Yes”, please give particulars of the dwelling(s) and ownership: ________________________________________________________________________________________________________________________________________________________________________
+If “Yes”, please give particulars of the dwelling(s) and ownership: ________________________________________________________________________________________________________________________________________________________________________________________________
 Do you own or partially own, or have you ever owned or partially owned, vacant land in Western Australia?
 Please tick (ü):r Yes r No
-If “Yes”, please give particulars of the vacant land previously owned: ________________________________________________________________________________________________________________________________________________________________________
+If “Yes”, please give particulars of the vacant land previously owned: ________________________________________________________________________________________________________________________________________________________________________________________________
 1.What is the address of the dwelling purchased?
-Street Address______________________________________
-Suburb/Town____________________ Post Code ________
+Street Address_________________________________________
+Suburb/Town_______________________ Post Code ________
 2.What was the purchase price of the dwelling?
-$ ___________________________________________________
+$ _________________________________________________________
 3.Was the dwelling purchased through a licensed real estate agent carrying on business in WA?
 Please tick (ü):r Yes r No
-If “Yes”, please provide the name and address of the selling real estate agent: ________________________________________________________________________________________________________
+If “Yes”, please provide the name and address of the selling real estate agent: ______________________________________________________________________________________________________________________
 4.What is the name and address of the lending institution that provided the loan to purchase the dwelling?
-Name___________________________________________
-Address___________________________________________
+Name______________________________________________
+Address______________________________________________
 5.Was the dwelling established or partially built at the time of purchase?
 Please tick (ü):r Yes r No
 6.Do all applicants intend to live in the dwelling for at least 12 months after settlement on purchase of the established dwelling or completion of the partially built dwelling?
@@ -69,49 +69,49 @@ Settlement / Conveyancing fees Stamp duty Strata company enquiry fee / section 4
 Total
 Statutory Declaration
 I/We,
-________________________________________________________
+________________________________________________________________
 [name, and address of applicant 1 making the declaration]
-________________________________________________________
+________________________________________________________________
 [name and address of applicant 2 making the declaration]
 sincerely declare as follows —
 The information provided by me/us in this Home Buyers Assistance Account Application is true and correct.
 This declaration is true and I/we know that it is an offence to make a declaration knowing that it is false in a material particular.
 Applicant 1
 This declaration is made under the Oaths, Affidavits and Statutory Declarations Act 2005 at
-__________________ on ____/____/____ by ___________________
+_______________________ on ____/____/____ by ______________________
 Place | Date | Signature of applicant 1 making the declaration
 In the presence of:
-________________ _________________ ____________________
+___________________ ____________________ ______________________
 Signature of authorised witness | Name of authorised witness | Qualifications as such a witness
 Applicant 2 (If applicable)
 This declaration is made under the Oaths, Affidavits and Statutory Declarations Act 2005 at
-__________________ on ____/____/____ by ___________________
+_______________________ on ____/____/____ by ______________________
 Place | Date | Signature of applicant 1 making the declaration
 In the presence of:
-________________ _________________ ____________________
+___________________ ____________________ ______________________
 Signature of authorised witness | Name of authorised witness | Qualifications as such a witness
 AUTHORITY TO RELEASE PERSONAL INFORMATION
-I _________________ of ___________________________________
+I ___________________ of _________________________________________
 [Name and address of applicant 1]
-I _________________ of ___________________________________
+I ___________________ of _________________________________________
 [Name and address of applicant 2]
 being the applicant(s) for assistance from the Home Buyers Assistance Account under the Real Estate and Business Agents Act 1978 AUTHORISE the Chief Executive Officer of the Department of Commerce, or persons that he or she may direct, to make such further enquiries as deemed necessary to assess this Application under the Act. My general consent includes specifically authorising the Chief Executive Officer, or persons that he or she may direct, to obtain on my behalf from any relevant agency any information that may be necessary to assist with the assessment. I acknowledge that the Chief Executive Officer, or persons that he or she may direct, can use any or all of the information or documentation received pursuant to this authority for the purpose of assessing this Application.
-___________________________________ on _____/_____/______
+____________________________________________ on _____/_____/______
 Signature of applicant 1 making the declarationDate
-___________________________________ on _____/_____/______
+____________________________________________ on _____/_____/______
 Signature of applicant 2 making the declarationDate
 Section B — To be completed by the lending institution
 (The lender is the party that actually provides the loan, not the agent/broker who arranged the loan)
 Applicant 1
-Full name_____________________________________________
+Full name________________________________________________
 Applicant 2 (If applicable)
-Full name_____________________________________________
-Loan BSB and account number__________ __________________
-Name of lending institution________________________________
-Address__________________________________________
-Suburb/Town________________________ Postcode __________
-Business Telephone No.________________________________
-Business Fax No._______________________________________
+Full name________________________________________________
+Loan BSB and account number__________ ________________________
+Name of lending institution____________________________________
+Address______________________________________________
+Suburb/Town____________________________ Postcode __________
+Business Telephone No.__________________________________________
+Business Fax No.__________________________________________
 Further incidental expenses associated with the loan
 Expense | Amount $
 Mortgage registration fees Caveat registration fees Bank’s solicitor fees Valuation fees Lending institution fees for lodging this Application Mortgage guarantee fees or mortgage insurance premium (not house and contents insurance or mortgage protection insurance) Loan Establishment fees
@@ -119,9 +119,9 @@ Total
 Having approved a loan to assist the applicant(s) to purchase a dwelling we:
 (a)hereby lodge the Application for a grant to cover the whole or part of the amount of incidental expenses in connection with the purchase; and
 (b)advise that the details disclosed in the Application in relation to our arrangements and the incidental expenses, to the best of our knowledge and involvement, are correct.
-_________________________ ______________________________
+______________________________ ________________________________
 Signature of authorised officer of lending institution | Name of officer of lending institution (please print)
-________________________________________________________
+________________________________________________________________
 Title of authorised officer of lending institution
 affix seal here
 [Form 1 inserted in Gazette 23 Oct 2012 p. 5049-54.]

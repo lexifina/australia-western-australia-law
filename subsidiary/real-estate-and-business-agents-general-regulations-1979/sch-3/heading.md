@@ -1,7 +1,7 @@
 ## Schedule 3 — Prescribed offences and modified penalties
 [r. 14]
 [Heading inserted in Gazette 28 Aug 2009 p. 3351.]
-Offences under Real Estate and Business Agents Act 1978 | Modified Penalty
+Offences under Real Estate and Business Agents Act 1978 | Modified penalty
 s. 35 | Failing to notify Commissioner of ceasing or commencing business | $400
 s. 36(1) | Failing to have registered office in the State | $200
 s. 37(1) | Failing to register a branch office | $200
@@ -19,6 +19,6 @@ s. 70(1) | Failing to cause audit of trust account | $600
 s. 70(3) | Failing to deliver audit report to the Commissioner | $600
 s. 70(8) | Failing to deliver a termination audit report | $600
 s. 86 | Failing to lodge a statutory declaration in relation to the audit of trust accounts | $200
-Offence under Real Estate and Business Agents (General) Regulations 1979 | Modified Penalty
+Offence under Real Estate and Business Agents (General) Regulations 1979 | Modified penalty
 r. 8 | Failing to notify Commissioner of change in particulars | $20
 [Schedule 3 inserted in Gazette 28 Aug 2009 p. 3351-2; amended in Gazette 30 Jun 2011 p. 2670; 23 Oct 2012 p. 5055.]
