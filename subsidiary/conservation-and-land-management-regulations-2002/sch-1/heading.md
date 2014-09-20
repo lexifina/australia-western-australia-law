@@ -15,14 +15,14 @@
 ## Division 2 — Fees for passes providing extended entrance to CALM land
 [Heading inserted in Gazette 27 Sep 2013 p. 4526.]
  |  | $
-1. | For an annual pass for a non-tour motor vehicle with up to 8 occupants to all CALM land where an entrance fee is charged except the Monkey Mia Conservation Park | 88.00
-2. | For an annual concession pass for a non-tour motor vehicle with up to 8 occupants to all CALM land where an entrance fee is charged except the Monkey Mia Conservation Park | 55.00
+1. | For an annual pass for a non-tour motor vehicle with up to 12 occupants to all CALM land where an entrance fee is charged except the Monkey Mia Conservation Park | 88.00
+2. | For an annual concession pass for a non-tour motor vehicle with up to 12 occupants to all CALM land where an entrance fee is charged except the Monkey Mia Conservation Park | 55.00
  | Conditions on entry: the driver holds a concession card
-3. | For a 4 week pass for a non-tour motor vehicle with up to 8 occupants to all CALM land where an entrance fee is charged except the Monkey Mia Conservation Park | 44.00
-4. | For an annual local pass for a non-tour vehicle with up to 8 occupants for any one national park or reserve or for any one of the following groups of national parks, conservation parks and reserves — (a)Walyunga, Avon Valley and John Forrest (b)Gloucester, Warren, Beedelup, Greater Beedelup, Shannon and D’Entrecasteaux (c)Stirling Range, Porongurup and Fitzgerald River (d)Stokes, Cape Le Grand, Cape Arid and Fitzgerald River (e)Karijini and Millstream-Chichester (f)Mirima, Purnululu and Mitchell River (g)Windjana, King Leopold Ranges and Tunnel Creek (h)Nambung and Lesueur | 22.00
-5. | For an annual pass for a non-tour motor vehicle with up to 8 occupants to all CALM land where an entrance fee is charged, except the Monkey Mia Conservation Park, and an annual subscription to the magazine “Landscope” | 110.00
+3. | For a 4 week pass for a non-tour motor vehicle with up to 12 occupants to all CALM land where an entrance fee is charged except the Monkey Mia Conservation Park | 44.00
+4. | For an annual local pass for a non-tour vehicle with up to 12 occupants for any one national park or reserve or for any one of the following groups of national parks, conservation parks and reserves — (a)Walyunga, Avon Valley and John Forrest (b)Gloucester, Warren, Beedelup, Greater Beedelup, Shannon and D’Entrecasteaux (c)Stirling Range, Porongurup and Fitzgerald River (d)Stokes, Cape Le Grand, Cape Arid and Fitzgerald River (e)Karijini and Millstream-Chichester (f)Mirima, Purnululu and Mitchell River (g)Windjana, King Leopold Ranges and Tunnel Creek (h)Nambung and Lesueur | 22.00
+5. | For an annual pass for a non-tour motor vehicle with up to 12 occupants to all CALM land where an entrance fee is charged, except the Monkey Mia Conservation Park, and an annual subscription to the magazine “Landscope” | 110.00
 6. | For a pass for one group entering the Yanchep National Park in one or more non-tour motor vehicles for the purposes of a wedding or other function | 100.00
-[Division 2 inserted in Gazette 27 Sep 2013 p. 4526-7.]
+[Division 2 inserted in Gazette 27 Sep 2013 p. 4526-7; amended in Gazette 19 Sep 2014 p. 3333.]
 ## Division 3 — Daily entrance fees for Tree Top Walk
 [Heading inserted in Gazette 27 Sep 2013 p. 4527.]
  |  | $
