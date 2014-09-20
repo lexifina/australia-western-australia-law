@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 12 April 2013 of the Wildlife Conservation Regulations 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Wildlife Conservation Regulations 1970 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fauna Conservation Regulations | 18 Nov 1970 p. 3547-85 | 18 Nov 1970
@@ -35,6 +35,7 @@ Wildlife Conservation Amendment Regulations 2003 | 4 Feb 2003 p. 323-6 | 4 Feb 2
 Standardisation of Formatting Act 2010 s. 51 assented 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Wildlife Conservation Amendment Regulations 2012 | 7 Dec 2012 p. 5977-80 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2012 (see r. 2(b) and Gazette 7 Dec 2012 p. 5963)
 Reprint 4: The Wildlife Conservation Regulations 1970 as at 12 Apr 2013 (includes amendments listed above)
+Wildlife Conservation Amendment Regulations (No. 2) 2014 | 19 Sep 2014 p. 3338-9 | r. 1 and 2: 19 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Sep 2014 (see r. 2(b))
 The requirement to appoint an Executive Director was removed from the Act and references to the Executive Director were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
 Now known as the Zoological Parks Authority.
 Repealed by the Zoological Parks Authority Act 2001.
@@ -62,6 +63,8 @@ avicultural licence3
 bird dealer’s licence3
 CALM land63(1)
 camping area63(1)
+category A firearm63(1)
+category B firearm63(1)
 chiller unit3
 damage licence3
 direct dealer3
@@ -77,7 +80,7 @@ professional shooter’s licence3
 registered3
 registered agent10(1)
 registered route3
-relevant CALM land63(1)
+relevant area63(1)
 tag3
 townsite63(1)
 transport unit3
