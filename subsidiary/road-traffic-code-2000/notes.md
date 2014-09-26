@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 25 July 2014 of the Road Traffic Code 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic Code 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic Code 2000 | 4 Aug 2000 p. 4213-538 | 1 Dec 2000 (see r. 2)
@@ -48,10 +48,7 @@ Road Traffic Code Amendment Regulations 2013 | 12 Apr 2013 p. 1533-9 | r. 1 and 
 Road Traffic Code Amendment Regulations (No. 2) 2013 | 31 Dec 2013 p. 6562-70 | r. 1 and 2: 31 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2014 (see r. 2(b))
 Road Traffic Code Amendment Regulations 2014 | 4 Apr 2014 p. 885-6 | r. 1 and 2: 4 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Apr 2014 (see r. 2(b))
 Reprint 4: The Road Traffic Code 2000 as at 25 Jul 2014 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Road Traffic Code Amendment Regulations (No. 3) 2014 r. 3-10 | 9 Sep 2014 p. 3243-7 | 26 Sep 2014 (see r. 2(b))
+Road Traffic Code Amendment Regulations (No. 3) 2014 | 9 Sep 2014 p. 3243-7 | r. 1 and 2: 9 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Sep 2014 (see r. 2(b))
 Repealed by the Dangerous Goods Safety Act 2004.
 Repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
@@ -60,119 +57,6 @@ Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in 
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Road Traffic Code Amendment Regulations (No. 4) 2000 r. 5 is not included because of an error in the reference to the provision to be amended.
 The commencement date of 1 Oct 2007 that was specified in r. 2(b) was before the date of gazettal.
-On the date as at which this compilation was prepared, the Road Traffic Code Amendment Regulations (No. 3) 2014 r. 3-10 had not come into operation. It reads as follows:
-3.Regulations amended
-These regulations amend the Road Traffic Code 2000.
-4.Regulation 41 amended
-In regulation 41(3) delete the Modified penalty and insert:
-Points: 2Modified penalty: 4 PU
-5.Regulation 44 amended
-In regulation 44(4) delete the Modified penalty and insert:
-Points: 2Modified penalty: 4 PU
-6.Regulation 61 amended
-In regulation 61(1) delete the Modified penalty and insert:
-Points: 3Modified penalty: 6 PU
-7.Regulation 62 amended
-In regulation 62(1) delete the Modified penalty and insert:
-Points: 3Modified penalty: 6 PU
-8.Regulation 78 amended
-In regulation 78(1) delete the Modified penalty and insert:
-Points: 2Modified penalty: 4 PU
-9.Various modified penalties amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 17(1) it. (a) | 1.5 PU | 2 PU
-r. 17(1) it. (b)(i) and (ii) | 3 PU | 4 PU
-r. 17(1) it. (c)(i) and (ii) | 6 PU | 8 PU
-r. 17(1) it. (d)(i) and (ii) | 14 PU | 16 PU
-r. 17(2) it. (a) | 3 PU | 4 PU
-r. 17(2) it. (b)(i) and (ii) | 5 PU | 6 PU
-r. 17(2) it. (c)(i) and (ii) | 8 PU | 10 PU
-r. 39(1) | 3 PU | 4 PU
-r. 40(1) and (2) | 3 PU | 6 PU
-r. 41A(1) and (2) | 2 PU | 4 PU
-r. 41(1) and (2) | 2 PU | 4 PU
-r. 43 | 3 PU | 6 PU
-r. 44(2) | 3 PU | 4 PU
-r. 45(1) | 3 PU | 6 PU
-r. 45(2) | 3 PU | 4 PU
-r. 45(3) | 3 PU | 6 PU
-r. 46(1) and (2) | 3 PU | 5 PU
-r. 47 | 3 PU | 4 PU
-r. 48 | 2 PU | 4 PU
-r. 50(2), (3), (4) and (5) | 3 PU | 6 PU
-r. 51(2) | 3 PU | 4 PU
-r. 51(3) | 3 PU | 6 PU
-r. 52(1) | 3 PU | 4 PU
-r. 52(2) and (3) | 3 PU | 6 PU
-r. 53 | 3 PU | 4 PU
-r. 54(2) | 3 PU | 4 PU
-r. 55(2) | 3 PU | 4 PU
-r. 55(3) | 3 PU | 6 PU
-r. 55(4) | 3 PU | 4 PU
-r. 55(5) and (6) | 3 PU | 6 PU
-r. 56(2), (3), (4), (5) and (6) | 3 PU | 4 PU
-r. 57(1) | 3 PU | 4 PU
-r. 58 | 3 PU | 4 PU
-r. 59(1) | 2 PU | 4 PU
-r. 60(1) | 3 PU | 8 PU
-r. 61(2) | 4 PU | 6 PU
-r. 62(2) and (3) | 4 PU | 6 PU
-r. 63 | 4 PU | 8 PU
-r. 65 | 3 PU | 4 PU
-r. 66 | 3 PU | 4 PU
-r. 67 | 3 PU | 4 PU
-r. 68(1) | 3 PU | 4 PU
-r. 68(3) | 3 PU | 4 PU
-r. 69(1) and (2) | 2 PU | 4 PU
-r. 70(1), (2) and (3) | 2 PU | 4 PU
-r. 71 | 2 PU | 4 PU
-r. 72(1) and (2) | 2 PU | 4 PU
-r. 73(1) | 2 PU | 4 PU
-r. 74(1) | 2 PU | 4 PU
-r. 75 | 2 PU | 4 PU
-r. 76 | 3 PU | 6 PU
-r. 77 | 2 PU | 4 PU
-r. 79(1) | 2 PU | 6 PU
-r. 80(1) | 2 PU | 6 PU
-r. 81(1) and (2) | 2 PU | 4 PU
-r. 82 | 2 PU | 6 PU
-r. 83(1) | 2 PU | 6 PU
-r. 83(2) | 2 PU | 4 PU
-r. 84 | 2 PU | 4 PU
-r. 85(1) and (2) | 2 PU | 4 PU
-r. 86(1), (2) and (3) | 2 PU | 4 PU
-r. 87 | 2 PU | 4 PU
-r. 88(1), (2) and (3) | 2 PU | 4 PU
-r. 89 | 2 PU | 4 PU
-r. 90(1) | 2 PU | 4 PU
-r. 109 | 2 PU | 4 PU
-r. 110(2) | 2 PU | 4 PU
-r. 121 | 2 PU | 8 PU
-r. 123(1) and (2) | 2 PU | 4 PU
-r. 124 | 2 PU | 8 PU
-r. 125(1) and (2) | 2 PU | 4 PU
-r. 131(2) and (3) | 3 PU | 4 PU
-r. 233(2) | 10 PU | 11 PU
-r. 235A(2) | 10 PU (each occurrence) | 11 PU
-r. 244(2) and (3) | 2 PU | 11 PU
-r. 264(1) | 2 PU | 6 PU
-r. 265(2) | 5 PU | 8 PU
-10.Various demerit points amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 17(1) it. (d)(i) | 10 | 12
-r. 17(1) it. (d)(ii) | 5 | 6
-r. 17(2) it. (d)(i) | 10 | 12
-r. 17(2) it. (d)(ii) | 5 | 6
-r. 44(2) | Points: 3 | Points: 2
-r. 109 | Points: 1 | Points: 2
-r. 110(2) | Points: 1 | Points: 2
-r. 121 | Points: 2 | Points: 4
-r. 124 | Points: 2 | Points: 4
-r. 244(2) | Points: 3 | Points: 4
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
