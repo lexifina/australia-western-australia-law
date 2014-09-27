@@ -24,14 +24,17 @@ Criminal Procedure Amendment Regulations 2012 | 22 Jun 2012 p. 2780-1 | r. 1 and
 Reprint 3: The Criminal Procedure Regulations 2005 as at 7 Dec 2012 (includes amendments listed above)
 Criminal Procedure Amendment Regulations 2013 | 30 Aug 2013 p. 4101 | r. 1 and 2: 30 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Aug 2013 (see r. 2(b))
 Criminal Procedure Amendment Regulations (No. 2) 2013 | 3 Sep 2013 p. 4148 | r. 1 and 2: 3 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Sep 2013 (see r. 2(b))
+Criminal Procedure Amendment Regulations 2014 | 26 Sep 2014 p. 3557-9 | r. 1 and 2: 26 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Sep 2014 (see r. 2(b))
 Repealed by the Road Transport (General) Act 2005 (NSW). See the Road Transport (General) Act 2005 (NSW).
 Repealed by the Co-operatives Act 2009.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+approved user3(1)
+CEO3(1)
+courts electronic system3(1)
 CPA3(1)
 Form3(1)
 lodge3(1)
 remote communication9(1)
 trial date21
-working day3(1)
