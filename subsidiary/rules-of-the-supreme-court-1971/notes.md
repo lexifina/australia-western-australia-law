@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 April 2014 of the Rules of the Supreme Court 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Rules of the Supreme Court 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Rules of the Supreme Court 1971 | 18 Nov 1971 p. 4397-758 | 14 Feb 1972 (see O. 1 r. 2(1))
@@ -132,6 +132,7 @@ Supreme Court Amendment Rules 2013 | 23 Apr 2013 p. 1590-7 | r. 1 and 2: 23 Apr 
 Supreme Court Amendment Rules (No. 4) 2013 | 3 May 2013 p. 1718-19 | r. 1 and 2: 3 May 2013 (see r. 2(a)); Rules other than r. 1 and 2: 17 May 2013 (see r. 2(b))
 Supreme Court Amendment Rules (No. 3) 2013 | 17 Dec 2013 p. 6231-7 | r. 1 and 2: 17 Dec 2013 (see r. 2(a)); Rules other than r. 1 and 2: 18 Dec 2013 (see r. 2(b))
 Reprint 9: The Rules of the Supreme Court 1971 as at 4 Apr 2014 (includes amendments listed above)
+Supreme Court Amendment Rules (No. 2) 2014 | 26 Sep 2014 p. 3559-62 | r. 1 and 2: 26 Sep 2014 (see r. 2(a)); Rules other than r. 1 and 2: 27 Sep 2014 (see r. 2(b))
 Formerly referred to The Electoral Rules of 1908, the citation of which was changed to the Electoral Rules 1908 by the Electoral Amendment Rules 2009 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Commercial Arbitration Act 1985 was repealed by the Commercial Arbitration Act 2012 s. 44.
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
@@ -177,7 +178,8 @@ challenged conduct O. 56 r. 1(1)
 challenged decision O. 56 r. 1(1)
 chargeO. 62A r. 1(3)
 civil proceedingsO. 11A r. 1
-claimO. 81G r. 1(1)
+claimO. 81G r. 1(1), O. 66 r. 25(1)
+claimantO. 66 r. 25(1)
 CMC ListO. 4A r. 1
 CMC List caseO. 4A r. 1
 CMC List judgeO. 4A r. 1
@@ -252,6 +254,7 @@ objectionO. 81FA r. 1
 officerO. 1 r. 4(1)
 official channelO. 11 r. 1
 originating summonsO. 1 r. 4(1)
+own costs orderO. 66 r. 25(1)
 partyO. 28 r. 1(6)
 person under disabilityO. 66 r. 24(1), O. 70 r. 1
 personal property situate within the jurisdictionO. 10 r. 1(2)
