@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 August 2012 of the Magistrates Court Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Magistrates Court Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Magistrates Court Regulations 2005 | 28 Apr 2005 p. 1561-71 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -8,10 +8,11 @@ Magistrates Court Amendment Regulations 2009 | 27 Feb 2009 p. 518-19 | r. 1 and 
 Magistrates Court Amendment Regulations 2011 | 24 Jun 2011 p. 2507-8 | r. 1 and 2: 24 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jun 2011 (see r. 2(b))
 Magistrates Court Amendment Regulations 2012 | 27 Apr 2012 p. 1766-7 | r. 1 and 2: 27 Apr 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Apr 2012 (see r. 2(b))
 Reprint 1: The Magistrates Court Regulations 2005 as at 17 Aug 2012 (includes amendments listed above)
+Magistrates Court Amendment Regulations (No. 2) 2014 | 30 Sep 2014 p. 3597 | r. 1 and 2: 30 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2014 (see r. 2(b))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 country court3
 metropolitan court3
 Perth metropolitan region3
