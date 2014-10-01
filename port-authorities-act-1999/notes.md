@@ -23,11 +23,7 @@ Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009
 Public Sector Reform Act 2010 s. 81 and 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Building Act 2011 s. 169 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Reprint 3: The Port Authorities Act 1999 as at 7 Sep 2012 (includes amendments listed above)
-Ports Legislation Amendment Act 2014 | 9 of 2014 | 20 May 2014 | Heading to Pt. 2, s. 3, 4(3), 5(1), 7(1), 10, 28(1), 29, 30, 32 and 35: 21 May 2014 (see s. 2(1)(b)); s. 4(1) and (2), 6, 7(2), 8, 9, 11-27 and 33: 31 May 2014 (see s. 2(1)(c) and Gazette 30 May 2014 p. 1680): s. 4(4), 5(2), 28(2), 31(2)-(4), 34 and 36: 1 July 2014 (see s. 2(1)(c) and (2) and Gazette 20 Jun 2014 p. 2023)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Ports Legislation Amendment Act 2014 s. 31(1) | 9 of 2014 | 20 May 2014 | To be proclaimed (see s. 2(1)(c) and (2))
+Ports Legislation Amendment Act 2014 | 9 of 2014 | 20 May 2014 | Heading to Pt. 2, s. 3, 4(3), 5(1), 7(1), 10, 28(1), 29, 30, 32 and 35: 21 May 2014 (see s. 2(1)(b)); s. 4(1) and (2), 6, 7(2), 8, 9, 11-27 and 33: 31 May 2014 (see s. 2(1)(c) and Gazette 30 May 2014 p. 1680): s. 4(4), 5(2), 28(2), 31(2)-(4), 34 and 36: 1 July 2014 (see s. 2(1)(c) and (2) and Gazette 20 Jun 2014 p. 2023); s. 31(1): 1 Oct 2014 (see s. 2(1)(c) and Gazette 19 Sep 2014 p. 3329)
 The Ports and Marine Legislation Amendment Act 2003 s. 4(2) reads as follows:
 (2) The amendment made by subsection (1) does not affect the operation of the Port Authorities (Withdrawal and Revesting of Property) Order 2000 published in the Gazette on 2 June 2000.
 The Land Act 1933 was repealed by the Land Administration Act 1997 s. 281.
@@ -35,16 +31,6 @@ The Port Authorities (Consequential Provisions) Act 1999 s. 3 and Pt. 3 have int
 Lands and Surveys plans are now held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 The amendment in the State Superannuation Amendment Act 2007 s. 84 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 contain validation provisions.
-On the date as at which this compilation was prepared, the Ports Legislation Amendment Act 2014 s. 31(1) had not come into operation. It reads as follows:
-31.Schedule 1 amended
-(1) In Schedule 1:
-(a) in item 3 column 2 delete “Bunbury Port Authority” and insert:
-Southern Ports Authority
-(b) in item 3 column 3 above “Port of Bunbury” insert:
-Port of Albany
-(c) in item 3 column 3 below “Port of Bunbury” insert:
-Port of Esperance
-(d) delete items 2 and 4.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -65,9 +51,8 @@ channel3(1)
 commencementSch. 8 cl. 44(1)
 companySch. 5 cl. 1(2)
 CompanySch. 6 cl. 1
-Company appointeeSch. 6 cl. 1
 consultation committee14A(1)
-continuing authoritySch. 8 cl. 2 and 23
+continuing authoritySch. 8 cl. 2, Sch. 8 cl. 23
 control3(1)
 Corporations Act3(1)
 Crown land3(1)
@@ -76,29 +61,26 @@ Dampier Solar Salt Industry AgreementSch. 6 cl. 1
 dangerous thing3(1)
 debt paper85(4)
 director3(1)
-dividend functionSch. 8 cl. 14(1) and 35(1)
+dividend functionSch. 8 cl. 14(1), Sch. 8 cl. 35(1)
 document75(5)
 eligible person102(1)
 executive officer3(1)
 financial recordsSch. 5 cl. 1(2)
 financial yearSch. 5 cl. 1(1)
-first lesseeSch. 6 cl. 2
-first lessee appointeeSch. 6 cl. 2
-former directorsSch. 8 cl. 13(1) and 34(1)
-former nameSch. 8 cl. 11(1), 20(1), 32(1) and 41(1)
+former directorsSch. 8 cl. 13(1), Sch. 8 cl. 34(1)
+former nameSch. 8 cl. 11(1), Sch. 8 cl. 20(1), Sch. 8 cl. 32(1), Sch. 8 cl. 41(1)
 goods3(1)
 Government34A(1)
-Government agreementSch. 8 cl. 1
+Government agreementSch. 8 cl. 1, Sch. 9 cl. 1
 harbour master3(1)
 hedging arrangement 87(3)
 information75(5)
-interest rate87(3), 87(2)
+interest rate87(3)
 Iron Ore (Hamersley Range) AgreementSch. 6 cl. 1
 jetty3(1)
 Joint VenturersSch. 6 cl. 1
-Joint Venturers appointeeSch. 6 cl. 1
 KPASch. 8 cl. 37
-last financial yearSch. 8 cl. 13(5) and 34(5)
+last financial yearSch. 8 cl. 13(5), Sch. 8 cl. 34(5)
 latest draft plan54(2)
 latest draft statement63(2)
 liabilitySch. 8 cl. 1
@@ -108,25 +90,25 @@ maritime structure3(1)
 master3(1)
 member of staff3(1)
 members of staff19(3), 21(4)
-mergerSch. 8 cl. 2 and 23
-merger timeSch. 8 cl. 2 and 23
-merging authoritySch. 8 cl. 2 and 23
-Ministerial appointeeSch. 6 cl. 1 and 2
+mergerSch. 8 cl. 2, Sch. 8 cl. 23
+merger timeSch. 8 cl. 2, Sch. 8 cl. 23
+merging authoritySch. 8 cl. 2, Sch. 8 cl. 23
 mooring3(1)
 movement3(1)
 MWPASch. 8 cl. 16
 navigational aid3(1)
-new boardSch. 8 cl. 2, 16, 23, 37 and 45
-new nameSch. 8 cl. 11(1), 20(1), 32(1) and 41(1)
+new boardSch. 8 cl. 2, Sch. 8 cl. 16, Sch. 8 cl. 23, Sch. 8 cl. 37, Sch. 8 cl. 45
+new nameSch. 8 cl. 11(1), Sch. 8 cl. 20(1), Sch. 8 cl. 32(1), Sch. 8 cl. 41(1)
 new owner46(1)
 North West Gas Development (Woodside) AgreementSch. 6 cl. 1
 notifiable interest12(3)
 officerSch. 3 cl. 2(1)
 owner3(1), 105(1)
 participate35(9)
-port3(1), Sch. 6 cl. 2
+port3(1), 3(1), 3(1), Sch. 6 cl. 2, Sch. 9 cl. 1
 port activities3(1), 35(9)
-port authority3(1), 38(1), 123, Sch. 8 cl. 16 and 37
+port additionSch. 9 cl. 1
+port authority3(1), 38(1), 123, Sch. 8 cl. 16, Sch. 8 cl. 37
 port charges3(1), 115(1)
 port facilities3(1)
 port land3(1)
@@ -142,25 +124,23 @@ prescribed thing113(1A)
 Public Bank Account79(1)
 public service officer11(2)
 regulationsSch. 5 cl. 1(1)
-relevant actSch. 8 cl. 10(1) and 31(1)
+relevant actSch. 8 cl. 10(1), Sch. 8 cl. 31(1)
 relevant officialsSch. 8 cl. 45
-renamingSch. 8 cl. 16 and 37
-renaming timeSch. 8 cl. 16 and 37
+renamingSch. 8 cl. 16, Sch. 8 cl. 37
+renaming timeSch. 8 cl. 16, Sch. 8 cl. 37
 reporting boardSch. 8 cl. 34(1)
 reporting board,Sch. 8 cl. 13(1)
-reporting provisionsSch. 8 cl. 13(1) and 34(1)
+reporting provisionsSch. 8 cl. 13(1), Sch. 8 cl. 34(1)
 rightSch. 8 cl. 1
 Salt CompanySch. 6 cl. 1
-second lesseeSch. 6 cl. 2
-second lessee appointeeSch. 6 cl. 2
 sell27(3)
 SPASch. 8 cl. 2
 State taxSch. 8 cl. 45
 subsidiary3(1)
-subsistingSch. 8 cl. 11(1) and 32(1)
+subsistingSch. 8 cl. 11(1), Sch. 8 cl. 32(1)
 third party46(1)
 transaction42
-transitional regulationsSch. 8 cl. 2, 15(1), 16, 22(1), 23, 36(1), 37, 43(1) and 45
+transitional regulationsSch. 8 cl. 2, Sch. 8 cl. 15(1), Sch. 8 cl. 16, Sch. 8 cl. 22(1), Sch. 8 cl. 23, Sch. 8 cl. 36(1), Sch. 8 cl. 37, Sch. 8 cl. 43(1), Sch. 8 cl. 45
 Treasurer3(1)
 Treasury Corporation87(3)
 under compulsory pilotage95(1)
