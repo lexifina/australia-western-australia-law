@@ -1,3 +1,4 @@
 Western Australia
 Travel Agents Act 1985
-An Act to provide for the licensing of travel agents and generally for the regulation of their operations; and for matters connected therewith or incidental thereto.
+An Act relating to the regulation of the travel industry.
+[Long title inserted by No. 21 of 2014 s. 4.]
