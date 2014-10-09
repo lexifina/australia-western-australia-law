@@ -28,6 +28,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 45 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Consumer Protection Legislation Amendment Act 2014 Pt. 13 Div. 1 | 23 of 2014 | 9 Oct 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
 The Retail Shops and Fair Trading Legislation Amendment Act 2006 s. 18 reads as follows:
 18.Validation
@@ -42,7 +43,29 @@ This Division amends the Retail Trading Hours Act 1987.
 169.Section 3 amended
 In section 3(1) in the definition of motor vehicle delete “Road Traffic Act 1974 section 5(1);” and insert:
 Road Traffic (Administration) Act 2008 section 4;
-Defined Terms
+On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment Act 2014 Pt. 13 Div. 1 had not come into operation. It reads as follows:
+Part 13 — Retail Trading Hours Act 1987 amended
+Division 1 — Retail Trading Hours Act 1987 amended
+90.Act amended
+This Division amends the Retail Trading Hours Act 1987.
+91.Section 3 amended
+In section 3(1) delete the definitions of:
+Committee
+member
+92.Section 10 amended
+(1) In section 10(3)(bc) delete “18 persons” and insert:
+25 persons
+(2) In section 10(3a):
+(a) in paragraph (a)(ii) delete “3 retail shops” and insert:
+4 retail shops
+(b) in paragraph (b)(iii) and (iv) delete “2 or more” and insert:
+3 or more
+93.Sections 17 to 21 deleted
+Delete sections 17, 18, 19, 20 and 21.
+94.Section 38 amended
+In section 38 delete “person, officer of the Department, or to the Committee or a sub-committee or any member of the Committee or any sub-committee” and insert:
+person or officer of the Department
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 accessory14A(2)
