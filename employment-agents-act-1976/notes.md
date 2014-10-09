@@ -17,6 +17,10 @@ Reprint 2: The Employment Agents Act 1976 as at 11 Aug 2006 (includes amendments
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 51 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 2 | 6 of 2012 | 10 Apr 2012 | 28 May 2012 (see s. 2(c) and Cwlth Gazette 19 Apr 2012 ref. F2012L00891)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Consumer Protection Legislation Amendment Act 2014 Pt. 3 | 23 of 2014 | 9 Oct 2014 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared the department principally assisting the Minister in the administration of the Consumer Affairs Act 1971 was the Department of Consumer and Employment Protection.
 The Business Licensing Amendment Act 1995 s. 15 is a transitional provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -65,6 +69,26 @@ Commissioner for Fair Trading means the Commissioner for Fair Trading referred t
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
 ”.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 17 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
+On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment Act 2014 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Employment Agents Act 1976 amended
+5.Act amended
+This Part amends the Employment Agents Act 1976.
+6.Section 18 amended
+Delete section 18(4), (5) and (7).
+7.Section 20 amended
+(1) In section 20(1) delete “him, or any other person,” and insert:
+the Commissioner of Police,
+(2) Delete section 20(2).
+8.Section 22 amended
+(1) Delete section 22(3) and insert:
+(3) The Commissioner must give notice in writing of the Commissioner’s decision —
+(a) to the applicant; and
+(b) if the Commissioner of Police lodged an objection with the Commissioner, to the Commissioner of Police.
+(4A) If notice is given under subsection (3) to a person who might be aggrieved by the decision, the Commissioner must in the notice —
+(a) set out the reasons for the decision; and
+(b) inform the person of the right to apply to the State Administrative Tribunal for a review of the decision.
+(2) In section 22(4) delete “or a person who lodged an objection with the Commissioner” and insert:
+or, if the Commissioner of Police lodged an objection with the Commissioner, the Commissioner of Police
 Defined Terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
