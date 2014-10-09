@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 October 2011 of the Limited Partnerships Act 1909 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Limited Partnerships Act 1909 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Limited Partnerships Act 1909 | 17 of 1909 (9 Edw. VII No. 13) | 6 Feb 1909 | 1 May 1909 (see s. 2)
@@ -18,9 +18,23 @@ Duties Legislation Amendment Act 2008 Sch. 1 cl. 20 | 12 of 2008 | 14 Apr 2008 |
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Acts Amendment (Fair Trading) Act 2010 s. 188 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 Reprint 4: The Limited Partnerships Act 1909 as at 7 Oct 2011 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Consumer Protection Legislation Amendment Act 2014 Pt. 6 | 23 of 2014 | 9 Oct 2014 | To be proclaimed (see s. 2(b))
 Formerly referred to as The Partnership Act 1895, the short title of which was changed to the Partnership Act 1895 by the Statutes (Repeals and Minor Amendments) Act 2003 s. 144. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 has transitional provisions some of which may be relevant to this Act.
-Defined Terms
+On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment Act 2014 Pt. 6 had not come into operation. It reads as follows:
+Part 6 — Limited Partnerships Act 1909 amended
+23.Act amended
+This Part amends the Limited Partnerships Act 1909.
+24.Section 15 amended
+In section 15(3):
+(a) delete “section 61” and insert:
+sections 60 and 61
+(b) in paragraph (a) delete “that section and” and insert:
+those sections and that
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 business3
