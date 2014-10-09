@@ -31,6 +31,10 @@ Building Services (Registration) Act 2011 s. 159 | 19 of 2011 | 22 Jun 2011 | 29
 Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 5 | 6 of 2012 | 10 Apr 2012 | 28 May 2012 (see s. 2(c) and Cwlth Gazette 19 Apr 2012 ref. F2012L00891)
 Reprint 5: The Travel Agents Act 1985 as at 15 Nov 2013 (includes amendments listed above)
 Travel Agents Amendment and Expiry Act 2014 Pt. 2 | 21 of 2014 | 29 Aug 2014 | 8 Oct 2014 (see s. 2(b) and Gazette 7 Oct 2014 p. 3633)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Consumer Protection Legislation Amendment Act 2014 Pt. 15 | 23 of 2014 | 9 Oct 2014 | To be proclaimed (see s. 2(b))
 Repealed by the General Insurance Brokers and Agents Act Repeal Act 1986.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 41 and 64 read as follows:
@@ -97,6 +101,52 @@ In this Division —
 commencement means the time at which this Division comes into operation;
 Commissioner for Fair Trading means the Commissioner for Fair Trading referred to in section 15 of the Consumer Affairs Act 1971 as in force before commencement;
 Prices Commissioner means the Prices Commissioner referred to in section 5(1) of the Petroleum Products Pricing Act 1983 as in force before commencement.
+On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment Act 2014 Pt. 15 had not come into operation. It reads as follows:
+Part 15 — Travel Agents Act 1985 amended
+109.Act amended
+This Part amends the Travel Agents Act 1985.
+110.Section 3 amended
+In section 3(1) insert in alphabetical order:
+former Crimes Act provision means the deleted section 50DA or 50DB of the Crimes Act 1914 (Commonwealth);
+111.Section 10 amended
+(1) Delete section 10(1).
+(2) In section 10(2) delete “The” and insert:
+When an application has been made in accordance with section 9, the
+112.Section 11 deleted
+Delete section 11.
+113.Section 12 amended
+(1) Delete section 12(1) and insert:
+(1) Unless subsection (2) or (4) requires it to be refused, the Commissioner is to grant an application as soon as practicable.
+(2) Delete section 12(2)(ba) and insert:
+(ba) the individual has been found guilty of an offence under The Criminal Code section 187, the Criminal Code Act 1995 (Commonwealth) section 272.18, 272.19 or 272.20 or a former Crimes Act provision; or
+(3) In section 12(4)(i) delete “section 187 of The Criminal Code or section 50DA or 50DB of the Crimes Act 1914 of the Commonwealth.” and insert:
+The Criminal Code section 187, the Criminal Code Act 1995 (Commonwealth) section 272.18, 272.19 or 272.20 or a former Crimes Act provision.
+(4) Delete section 12(5)(b) and insert:
+(b) has afforded the applicant an opportunity to make submissions and adduce evidence.
+(5) In section 12(6) delete “and each objector (if any) to the granting of the application”.
+(6) Delete section 12(7)(a) and insert:
+(a) the Commissioner is forthwith, by notice in writing, to inform the applicant of the granting of the application and the right to apply to the State Administrative Tribunal for a review of any condition imposed; and
+(7) In section 12 after each of subsections (2)(a) to (f) and (4)(a) to (g) insert:
+or
+114.Section 21 amended
+(1) After section 21(4)(c) insert:
+(da) a licensee has been found guilty of an offence under The Criminal Code section 187, the Criminal Code Act 1995 (Commonwealth) section 272.18, 272.19 or 272.20 or a former Crimes Act provision; or
+(2) Delete section 21(4a).
+(3) In section 21(4) after each of paragraphs (a), (b), (c), (d), (e), (f) and (g) insert:
+or
+115.Section 22 amended
+(1) In section 22(1) delete “If” and insert:
+Subject to subsection (1a), if
+(2) In section 22(1a) delete the passage that begins with “If” and ends with “it —” and insert:
+If the State Administrative Tribunal, on dealing with an allegation under section 21(5) in respect of a belief described in section 21(4)(da), is satisfied that the licensee has been found guilty of an offence under The Criminal Code section 187, the Criminal Code Act 1995 (Commonwealth) section 272.18, 272.19 or 272.20 or a former Crimes Act provision, the Tribunal —
+116.Section 23 amended
+In section 23(2) in the definition of person aggrieved delete paragraph (a) and insert:
+(a)a person upon whose application a reviewable decision is made; or
+117.Section 30 amended
+(1) Delete section 30(1)(da) and insert:
+(da) has been found guilty of an offence under The Criminal Code section 187, the Criminal Code Act 1995 (Commonwealth) section 272.18, 272.19 or 272.20 or a former Crimes Act provision; or
+(2) In section 30(1) after each of paragraphs (a), (b), (c) and (d) insert:
+or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
