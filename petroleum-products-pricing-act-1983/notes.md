@@ -24,6 +24,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 40 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Consumer Protection Legislation Amendment Act 2014 Pt. 9 | 23 of 2014 | 9 Oct 2014 | To be proclaimed (see s. 2(b))
 Now known as the Petroleum Products Pricing Act 1983; short title changed (see note under s. 1).
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “
@@ -78,7 +79,29 @@ This Division amends the Petroleum Products Pricing Act 1983.
 159.Section 3 amended
 In section 3(1) in the definition of motor vehicle delete “section 5 of the Road Traffic Act 1974;” and insert:
 the Road Traffic (Administration) Act 2008 section 4;
-Defined Terms
+On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment Act 2014 Pt. 9 had not come into operation. It reads as follows:
+Part 9 — Petroleum Products Pricing Act 1983 amended
+63.Act amended
+This Part amends the Petroleum Products Pricing Act 1983.
+64.Section 22A amended
+(1) In section 22A(1) delete the definition of displayed price.
+(2) In section 22A(1) insert in alphabetical order:
+relevant price, for a kind of motor fuel, means the price for that kind of motor fuel that would apply if a supplier of the motor fuel from a declared terminal were to make a wholesale sale of the motor fuel to a reseller who —
+(a)was not the subject of any agreement or arrangement affecting price; and
+(b)took delivery of the motor fuel at the terminal from which it was supplied;
+65.Section 22B replaced
+Delete section 22B and insert:
+22B.Commissioner to be notified of proposed price changes
+Whenever the relevant price for a kind of motor fuel supplied from a declared terminal is proposed to be changed, the supplier of the motor fuel is required to notify the Commissioner of the proposed price change —
+(a) before the proposed price change has effect; and
+(b) in accordance with the provisions of any regulations that apply to that notification.
+Penalty: a fine of $20 000.
+66.Sections 22C and 22D deleted
+Delete sections 22C and 22D.
+67.Section 22E amended
+In section 22E(1)(c), (2)(a) and (c) and (4) delete “displayed” (each occurrence) and insert:
+relevant
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 authorised person31A
