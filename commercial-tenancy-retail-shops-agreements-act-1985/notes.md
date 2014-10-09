@@ -23,6 +23,10 @@ Small Business and Retail Shop Legislation Amendment Act 2011 Pt. 3 | 20 of 2011
 Commercial Tenancy (Retail Shops) Agreements Amendment Act 2011 | 59 of 2011 | 14 Dec 2011 | s. 1 and 2: 14 Dec 2011 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2013 (see s. 2(b) and Gazette 30 Nov 2012 p. 5773)
 Reprint 4: The Commercial Tenancy (Retail Shops) Agreements as at 18 Jan 2013 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 14 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Consumer Protection Legislation Amendment Act 2014 Pt. 2 | 23 of 2014 | 9 Oct 2014 | To be proclaimed (see s. 2(b))
 The Commercial Tenancy (Retail Shops) Agreements Amendment Act 1990 s. 22 reads as follows:
 22.Saving and transitional
 (1) Subject to subsection (2), an amendment made to the principal Act by a provision of this Act does not apply to or in relation to a retail shop lease entered into before the day on which that provision comes into operation and the provisions of the principal Act as in force prior to the coming into operation of that provision shall continue to apply to and in relation to any such lease as if this Act had not been passed.
@@ -53,6 +57,13 @@ applies to and in relation to an existing lease and a new lease.
 The Taxation Administration (Consequential Provisions) Act 2002 s. 3 and 4 and Pt. 4 are transitional provisions that are of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 29 is a transitional provision.
+On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment Act 2014 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Commercial Tenancy (Retail Shops) Agreements Act 1985 amended
+3.Act amended
+This Part amends the Commercial Tenancy (Retail Shops) Agreements Act 1985.
+4.Section 9 amended
+In section 9(2)(c) delete “drawing up of or the obtaining of necessary consents to the lease,” and insert:
+negotiation, preparation or execution of, or obtaining the necessary consents to,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
