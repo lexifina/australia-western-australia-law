@@ -8,6 +8,17 @@ Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep
 Residential Tenancies Amendment Act 2011 Pt. 5 Div. 5 | 60 of 2011 | 14 Dec 2011 | 1 Jul 2013 (see s. 2(b) and Gazette 3 May 2013 p. 1735)
 Reprint 1: The Residential Parks (Long-stay Tenants) Act 2006 as at 6 Sep 2013 (includes amendments listed above)
 Water Services Legislation Amendment and Repeal Act 2012 s. 227 | 25 of 2012 | 3 Sep 2012 | 1 Jul 2014 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Consumer Protection Legislation Amendment Act 2014 Pt. 11 | 23 of 2014 | 9 Oct 2014 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment Act 2014 Pt. 11 had not come into operation. It reads as follows:
+Part 11 — Residential Parks (Long-stay Tenants) Act 2006 amended
+84.Act amended
+This Part amends the Residential Parks (Long-stay Tenants) Act 2006.
+85.Glossary amended
+In the Glossary clause 1 delete the definition of bond administrator and insert:
+bond administrator means the chief executive officer of the Department in his or her capacity as bond administrator under the Residential Tenancies Act 1987;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
