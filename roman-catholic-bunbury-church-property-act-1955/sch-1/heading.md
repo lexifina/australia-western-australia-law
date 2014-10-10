@@ -1,6 +1,6 @@
 ## First Schedule — Land vested in Bishop of Bunbury
 [s. 3]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 Crown Leases Nos.
 3125/1913 | 63/1934 | 670/1936
 6415/1913 | 248/1935 | 100/1945
@@ -33,7 +33,6 @@ Vol. | Folio. | Vol. | Folio. | Vol. | Folio.
 306 | 14 | 974 | 83 | 1103 | 395
 344 | 177 | 980 | 40 | 1104 | 973
 351 | 179 | 1001 | 104 | 1111 | 463
-Vol. | Folio. | Vol. | Folio. | Vol. | Folio.
 379 | 85 | 1001 | 136 | 1125 | 610
 441 | 88 | 1001 | 153 | 1128 | 450
 441 | 101 | 1004 | 560 | 1129 | 283
