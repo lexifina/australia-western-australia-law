@@ -4,6 +4,37 @@ Compilation table
 Citation | Gazettal | Commencement
 Water Services Regulations 2013 | 14 Nov 2013 p. 5103-204 | Regulations other than r. 30: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027); r. 30: 1 Jul 2014 (see r. 2(a) and Gazette 14 Nov 2013 p. 5028)
 Water Services Amendment Regulations 2014 | 27 Jun 2014 p. 2358-61 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1, 2, 4, 6, 8 and 11: 28 Jun 2014 (see r. 2(c)); r. 4, 6, 8 and 11: 1 Jul 2014 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Water Services Amendment Regulations (No. 3) 2014 r. 3-6 | 15 Oct 2014 p. 3995-7 | 1 Nov 2014 (see r. 2(b))
+On the date as at which this compilation was prepared, the Water Services Amendment Regulations (No. 3) 2014 r. 3-6 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Water Services Regulations 2013.
+4.Regulation 23 amended
+(1) In regulation 23(1) delete the passage that begins with “development,” and continues to the end of the subregulation and insert:
+development.
+(2) After regulation 23(1) insert:
+(2A) If the licensee is the Busselton Water Corporation, the owner of the land is liable to pay the charge set out in the Water Services (Water Corporations Charges) Regulations 2014 Schedule 2 item 10.
+(2B) If the licensee is the Water Corporation, the owner of the land is liable to pay the charges set out in the Water Services (Water Corporations Charges) Regulations 2014 Schedule 7 item 1.
+5.Regulation 28 amended
+In regulation 28(1):
+(a) in paragraph (b) delete “Corporation and the Bunbury Water”;
+(b) in paragraph (c) delete “Corporation.” and insert:
+Corporation;
+(c) after paragraph (c) insert:
+(d) in relation to the Bunbury Water Corporation — land within the operating area of a licence of the Bunbury Water Corporation.
+6.Schedule 4 amended
+In Schedule 4 amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Sch. 4 cl. 1(1) Table it. 4(a) | $120.86 | $119.90
+Sch. 4 cl. 1(1) Table it. 4(b) | $35.29 | $35.00
+Sch. 4 cl. 1(1) Table it. 5(a) | $120.86 | $119.90
+Sch. 4 cl. 1(1) Table it. 5(b) | $35.29 | $35.00
+Sch. 4 cl. 2 Table it. 1 | $149.80 | $148.61
+Sch. 4 cl. 2 Table it. 2(a) | $149.80 | $148.61
+Sch. 4 cl. 2 Table it. 2(b) | $238.03 | $236.14
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
