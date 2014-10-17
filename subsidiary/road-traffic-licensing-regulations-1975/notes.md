@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Licensing) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 17 October 2014 of the Road Traffic (Licensing) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Licensing) Regulations 1975 | 29 May 1975 p. 1577-88 | 1 Jun 1975
@@ -141,7 +141,7 @@ Road Traffic (Licensing) Amendment Regulations (No. 2) 2011 | 2 Dec 2011 p. 5075
 Road Traffic (Licensing) Amendment Regulations 2012 | 14 Dec 2012 p. 6207-8 | r. 1 and 2: 14 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Dec 2012 (see r. 2(b))
 Road Traffic (Licensing) Amendment Regulations (No. 2) 2013 | 12 Apr 2013 p. 1540 | r. 1 and 2: 12 Apr 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Apr 2013 (see r. 2(b) and Gazette 12 Apr 2013 p. 1533)
 Road Traffic (Licensing) Amendment Regulations (No. 2) 2014 | 9 Sep 2014 p. 3249-52 | r. 1 and 2: 9 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Sep 2014 (see r. 2(b))
-Footnote no longer applicable.
+Reprint 9: The Road Traffic (Licensing) Regulations 1975 as at 17 Oct 2014 (includes amendments listed above)
 Repealed by the Motor Vehicle (Third Party Insurance) Regulations 2009.
 Revoked on 4 Oct 1974 (see Gazette 3 Oct 1974 p. 3701).
 Revoked on 1 Jun 1975 (see Gazette 29 May 1975 p. 1577).
