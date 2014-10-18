@@ -12,34 +12,36 @@ Electricity Industry Exemption Amendment Order 2009 | 9 Oct 2009 p. 3992-4 | cl.
 Electricity Industry Exemption Amendment Order 2012 | 29 Jun 2012 p. 2933-6 | cl. 1 and 2: 29 Jun 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 30 Jun 2012 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order (No. 2) 2012 | 14 Dec 2012 p. 6198-9 | cl. 1 and 2: 14 Dec 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 15 Dec 2012 (see cl. 2(b))
 Electricity Corporations (Consequential Amendments) Regulations 2013 r. 10 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
+Electricity Industry Exemption Amendment Order 2014 | 17 Oct 2014 p. 4003 | cl. 1 and 2: 17 Oct 2014 (see cl. 2(a)); Order other than cl. 1 and 2: 18 Oct 2014 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Aboriginal community7(1)
 Aboriginal community premises7(1)
 administering body5(1)
-Alstom13A(1)
-Blair Fox20
+Blair Fox20(1)
 code provision11(1)
-commercial premises3A,
+commercial premises3A
 connection point3(1)
 DBNGP corridor12(1)
 DBNGP Transmission12(1)
-electric vehicle19
+electric vehicle19(1)
 electricity reticulation system6(1)
 Eucla15(1)
 Fremantle Port Authority14(1)
 generation capacity3(1)
-Karakin Wind Farm20
-Minjar Gold21
-MMG Golden Grove21
-NewGen power station site13A(1)
+Karakin Wind Farm20(1)
+Minjar Gold21(1)
+MMG Golden Grove21(1)
 PEP Agreement8(1)
+Power Rental Op Co Australia22(1)
 relevant agreement10(1)
 relevant premises6(1)
 resident6(1)
 residential premises5(1)
 retirement village5(1)
 scheme4(1), 5(1)
+South Hedland Power Station site22(1)
 strata company4(1), 5(1)
-supplier4A, 4(2), 4(3), 4(4), 5(2), 5(3)
+supplier4A(1), 4A(2), 4(2), 4(3), 4(4), 5(2), 5(3)
+SWIS3A
