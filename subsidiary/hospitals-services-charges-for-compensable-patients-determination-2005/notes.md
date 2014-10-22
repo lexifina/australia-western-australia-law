@@ -22,3 +22,4 @@ Hospitals (Services Charges for Compensable Patients) Amendment Determination (N
 Hospitals (Services Charges for Compensable Patients) Amendment Determination 2013 | 28 Jun 2013 p. 2754-5 | cl. 1 and 2: 28 Jun 2013 (see cl. 2(a)); Determination other than cl. 1 and 2: 1 Jul 2013 (see cl. 2(b))
 Hospitals (Services Charges for Compensable Patients) Amendment Determination 2014 | 28 Jan 2014 p. 180-1 | cl. 1 and 2: 28 Jan 2014 (see cl. 2(a)); Determination other than cl. 1 and 2: 29 Jan 2014 (see cl. 2(b))
 Hospitals (Services Charges for Compensable Patients) Amendment Determination (No. 2) 2014 | 13 Jun 2014 p. 1896 | cl. 1 and 2: 13 Jun 2014 (see cl. 2(a)); Determination other than cl. 1 and 2: 1 Jul 2014 (see cl. 2(b))
+Hospitals (Services Charges for Compensable Patients) Amendment Determination (No. 3) 2014 | 21 Oct 2014 p. 4075 | cl. 1 and 2: 21 Oct 2014 (see cl. 2(a)); Determination other than cl. 1 and 2: 22 Oct 2014 (see cl. 2(b))
