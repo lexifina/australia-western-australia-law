@@ -177,6 +177,7 @@ Fish Resources Management Amendment Regulations 2014 | 30 May 2014 p. 1713-37 | 
 Fish Resources Management Amendment Regulations (No. 5) 2014 | 12 Aug 2014 p. 2903-7 | r. 1 and 2: 12 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Aug 2014 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 4) 2014 | 26 Aug 2014 p. 3082-4 | r. 1 and 2: 26 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2014 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 3) 2014 | 9 Sep 2014 p. 3239-40 | r. 1 and 2: 9 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Sep 2014 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 6) 2014 | 22 Oct 2014 p. 4087-115 | r. 1 and 2: 22 Oct 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Oct 2014 (see r. 2(b))
 Footnote no longer applicable.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
@@ -186,7 +187,7 @@ The commencement date of 15 Jan 2013 that was specified in r. 2(b) was before th
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-Abalone Zone38DA
+Abalone Zone3(1)
 Abrolhos Islands Fish Habitat Protection Area3(1)
 aircraft3(1)
 ALC55A
@@ -286,6 +287,7 @@ marron trophy waters3(1)
 May — October64OD(4)
 metropolitan waters3(1)
 mollusc3(1)
+Montebello Islands Marine ParkSch. 5
 mooring72
 motor boat3(1)
 nearshore or estuarine finfish65D(1)
@@ -303,6 +305,9 @@ Pelsaert Group Zone38(1)
 person engaged for a commercial purpose in an activity64(1A)
 Pilbara and Kimberley Region3(1)
 Point Quobba restricted area113D
+Port of Albany Sch. 5
+Port of Bunbury Sch. 5
+Port of Fremantle Sch. 5
 prawn hand trawl net3(1)
 prescribed abalone16GD(1)
 principal place of residence3(1)

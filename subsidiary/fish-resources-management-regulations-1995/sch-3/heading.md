@@ -121,7 +121,7 @@ Other crustacean species not specified above | 10
 [Heading inserted in Gazette 29 Jan 2013 p. 318.]
 Species | Bag limit for one day
 Abalone, Greenlip and Brownlip | 5
-Abalone, Roe’s | 20
+Abalone, Roe’s | 20 (including no more than 15 taken from Abalone Zone 1)
 Ark Shell, Cockle, Pipis and Clam, Venus | 2 litres
 Bloodworm | 1 litre
 Clam, Giant (other than Tridacna gigas) | 2
@@ -133,4 +133,4 @@ Sea Urchin | 20
 Squid, Cuttlefish and Octopus | 15
 Zoila Cowry, Volute, Conch | 10
 Other molluscs and invertebrate species not specified | 10
-[Part 6 inserted in Gazette 29 Jan 2013 p. 318; amended in Gazette 28 Jun 2013 p. 2894; 30 May 2014 p. 1723.]
+[Part 6 inserted in Gazette 29 Jan 2013 p. 318; amended in Gazette 28 Jun 2013 p. 2894; 30 May 2014 p. 1723; 22 Oct 2014 p. 4088.]
