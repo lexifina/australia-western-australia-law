@@ -153,7 +153,6 @@ Hydroides dianthus | Serpulid Tube Worm, Limy Tube Worm | Any area of the State
 Hypophthalmichthys molitrix | Silver Carp | Any area of the State
 Hypseleotris cyprinoides | Tropical Carp-gudgeon | Any area of the State
 Hypseleotris tohizonae |  | Any area of the State
-Scientific name | Examples of common names used | Area or areas where fish is prescribed to be noxious
 Ichthyborinae (entire subfamily) | African Pike-characin, Tubenose Poacher, Fin Eater | Any area of the State
 Ictalurus balsanus | Balsas Catfish | Any area of the State
 Ictalurus dugesii | Lerma Catfish | Any area of the State

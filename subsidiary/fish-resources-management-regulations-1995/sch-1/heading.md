@@ -135,9 +135,9 @@ Fee | $
 (31)West Coast Demersal Gillnet and Demersal Longline Interim Managed Fishery, per unit | 2.27
 (32)West Coast Purse Seine Managed Fishery, per licence | 673.00
 (33)West Coast Rock Lobster Managed Fishery —
-(a)for zone A units, per unit | 9.04
-(b)for zone B units, per unit | 15.60
-(c)for zone C units, per unit | 14.06
+(a)for zone A units, per unit | 10.40
+(b)for zone B units, per unit | 17.45
+(c)for zone C units, per unit | 16.24
 (34)Windy Harbour-Augusta Rock Lobster Managed Fishery, per pot | 2.53
 [(4)deleted]
 5.Fishing tour operator’s licence (r. 128J(1)) —
@@ -164,4 +164,4 @@ Fee | $
 (d)fishing for all freshwater fish (other than crustaceans) in waters south of 29° south latitude above the tidal influence including all lakes, dams, rivers and their tributaries | 40.00
 (e)fishing by means of a fishing net | 40.00
 9.Recreational (boat) fishing licence (r. 124C) | 30.00
-[Part 3 inserted in Gazette 9 Jun 2009 p. 1915-20; amended in Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5; 27 Aug 2010 p. 4106; 10 Sep 2010 p. 4347; 2 Dec 2010 p. 6031-4; 6 May 2011 p. 1611-12; 24 Aug 2011 p. 3406-8; 9 Sep 2011 p. 3683; 17 Oct 2012 p. 4979-80; 19 Oct 2012 p. 5017-20; 2 Nov 2012 p. 5277-8; 18 Dec 2012 p. 6593; 4 Sep 2013 p. 4180-3; 15 Nov 2013 p. 5238; 19 Nov 2013 p. 5283; 30 May 2014 p. 1731-2 and 1736; 12 Aug 2014 p. 2903-7.]
+[Part 3 inserted in Gazette 9 Jun 2009 p. 1915-20; amended in Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5; 27 Aug 2010 p. 4106; 10 Sep 2010 p. 4347; 2 Dec 2010 p. 6031-4; 6 May 2011 p. 1611-12; 24 Aug 2011 p. 3406-8; 9 Sep 2011 p. 3683; 17 Oct 2012 p. 4979-80; 19 Oct 2012 p. 5017-20; 2 Nov 2012 p. 5277-8; 18 Dec 2012 p. 6593; 4 Sep 2013 p. 4180-3; 15 Nov 2013 p. 5238; 19 Nov 2013 p. 5283; 30 May 2014 p. 1731-2 and 1736; 12 Aug 2014 p. 2903-7; 31 Oct 2014 p. 4199-200.]

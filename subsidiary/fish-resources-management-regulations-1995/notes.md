@@ -178,6 +178,7 @@ Fish Resources Management Amendment Regulations (No. 5) 2014 | 12 Aug 2014 p. 29
 Fish Resources Management Amendment Regulations (No. 4) 2014 | 26 Aug 2014 p. 3082-4 | r. 1 and 2: 26 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Aug 2014 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 3) 2014 | 9 Sep 2014 p. 3239-40 | r. 1 and 2: 9 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Sep 2014 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 6) 2014 | 22 Oct 2014 p. 4087-115 | r. 1 and 2: 22 Oct 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Oct 2014 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 7) 2014 | 31 Oct 2014 p. 4199-200 | r. 1 and 2: 31 Oct 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2014 (see r. 2(b))
 Footnote no longer applicable.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 The name of the Fisheries Research and Development Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Fisheries Research and Development Account.
