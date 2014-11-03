@@ -53,6 +53,7 @@ Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 54 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 24 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -130,6 +131,15 @@ Division 21 — Young Offenders Act 1994 amended
 139.Section 45 amended
 In section 45(1) delete “personally on” and insert:
 (either personally, or electronically in accordance with the regulations) on a person who is a responsible adult,
+On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 24 had not come into operation. It reads as follows:
+Part 4 — Amendments to other Acts
+Division 4 — Other Acts amended
+Subdivision 24 — Young Offenders Act 1994 amended
+89.Act amended
+This Subdivision amends the Young Offenders Act 1994.
+90.Section 179 amended
+In section 179(1) delete the definition of medical treatment and insert:
+medical treatment includes psychiatric treatment, which is treatment as defined in the Mental Health Act 2014 section 4.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
