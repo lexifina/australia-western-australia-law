@@ -24,6 +24,11 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Reprint 3: The Mental Health Act 1996 as at 1 Jul 2011 (includes amendments listed above except the Health Practitioner Regulation National Law (WA) Act 2010 s. 112(2))
 Mental Health Amendment (Psychiatrists) Act 2012 Pt. 2 | 52 of 2012 | 29 Nov 2012 | 29 Nov 2012 (see s. 2)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 13 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
+Mental Health Legislation Amendment Act 2014 Pt. 2 | 25 of 2014 | 3 Nov 2014 | 3 Nov 2014 (see s. 2(a))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Mental Health Act 2014 s. 588(a) | 24 of 2014 (as amended by 25 of 2014 s. 9) | 3 Nov 2014 | To be proclaimed (see s. 2(b) and s. 9 of 25 of 2014)
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 The Mental Health (Consequential Provisions) Act 1996 Pt. 12 Div. 2 (s. 53-72 inclusive) reads as follows:
 Division 2 — Transitional
@@ -155,10 +160,14 @@ to or in relation to any matter or thing.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 contain a validation provision that may be relevant to this Act.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9 Div. 13 is a transitional provision that may be relevant to this Act.
+On the date as at which this compilation was prepared, the Mental Health Act 2014 s. 588(a) (as amended by the Mental Health Legislation Amendment Act 2014 s. 9) had not come into operation. It reads as follows:
+588.Acts repealed
+These Acts are repealed:
+(a) the Mental Health Act 1996;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-act216(1)
+act216(1), 217(1), 218(1), 219(1)
 affected person175
 agreement86
 an act done213(5)
@@ -186,7 +195,8 @@ involuntary patient3
 lawyer3
 legal practitioner3
 mechanical bodily restraint121
-medical practitioner3
+medical practitioner3, 219(1)
+mental health delegation218(1)
 mental health practitioner3
 Mental Health Review Board3
 mental illness3
@@ -225,3 +235,4 @@ transport order34(1), 41(1), 71(1)
 treating practitioner3
 treating psychiatrist3
 treatment in the community3
+validation period217(1), 218(1), 219(1)
