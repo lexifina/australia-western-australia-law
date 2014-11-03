@@ -67,6 +67,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 26 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 15 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 The Criminal Code s. 282 and 679 have been deleted.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 contains savings and transitional provisions that are of no further effect.
@@ -79,7 +80,16 @@ This Division amends the Juries Act 1957.
 115.Section 5 amended
 In section 5(3)(b)(iv) delete “the Road Traffic Act 1974;” and insert:
 a road law as defined in the Road Traffic (Administration) Act 2008 section 4;
-Defined Terms
+On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 15 had not come into operation. It reads as follows:
+Part 4 — Amendments to other Acts
+Division 4 — Other Acts amended
+Subdivision 15 — Juries Act 1957 amended
+68.Act amended
+This Subdivision amends the Juries Act 1957.
+69.Section 5 amended
+Delete section 5(3)(d)(i) and insert:
+(i) an involuntary patient as defined in the Mental Health Act 2014 section 4;
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined TermProvision(s)
 Assembly district3(1)
