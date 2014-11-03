@@ -42,6 +42,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 | 25 of 2008 | 19 Jun 2008 | s. 11 (to the extent that it inserts s. 110RA, 110ZAA, 110ZAB and 110ZAC) and s. 12: to be proclaimed (see s. 2)
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 2 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Footnotes no longer applicable.
 The Public Trustee Act 1941 s. 53 was deleted by the Public Trustee and Trustee Companies Amendment Act 2008 s. 31.
 Footnote no longer applicable.
@@ -130,6 +131,37 @@ The Acts Amendment (Consent to Medical Treatment) Act 2008 s. 14 reads as follow
 14.Review of the Guardianship and Administration Act 1990
 (1) The Minister administering the Guardianship and Administration Act 1990 is to carry out a review of the operation and effectiveness of the provisions of the Guardianship and Administration Act 1990 and the relevant sections of The Criminal Code as soon as practicable after the expiration of 3 years from the commencement of this Act.
 (2) The Minister is to prepare a report based on the review made under subsection (1) and cause the report to be laid before each House of Parliament within 4 years after the commencement of this Act.
+On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 2 had not come into operation. It reads as follows:
+Part 4 — Amendments to other Acts
+Division 2 — Guardianship and Administration Act 1990 amended
+19.Act amended
+This Division amends the Guardianship and Administration Act 1990.
+20.Section 3 amended
+Delete section 3(2) and insert:
+(2) A reference in a written law to the committee of the person of a person is to be read as a reference to the guardian of that person.
+21.Section 110ZH amended
+In section 110ZH in the definition of urgent treatment delete “but does not include the sterilisation of the patient.” and insert:
+but does not include —
+(d)psychiatric treatment, which is treatment as defined in the Mental Health Act 2014 section 4; or
+(e)the sterilisation of the patient.
+22.Schedule 5 Division 1 heading inserted
+At the beginning of Schedule 5 insert:
+Division 1 — Transitional matters for Guardianship and Administration Act 1990
+23.Schedule 5 clause 1A inserted
+Before Schedule 5 clause 1 insert:
+1A.Application of this Division
+This Division does not apply in relation to the estate of a person to whom Division 2 applies.
+24.Schedule 5 Division 2 inserted
+At the end of Schedule 5 insert:
+Division 2 — Transitional matters in connection with Mental Health Act 2014
+7.Estates being managed by Public Trustee under Division 1
+(1) Subclause (2) applies to a person whose estate was, immediately before the day on which the Mental Health Legislation Amendment Act 2014 section 24 commences (the prescribed day) —
+(a) under the care and management of the Public Trustee as provided by clause 1; or
+(b) being managed by the Public Trustee as provided by clause 2 or because of clause 5.
+(2) The person is taken to be under an administration order appointing the Public Trustee as the administrator of the person’s estate.
+(3) Despite any other provision of this Act or any provision of the Public Trustee Act 1941, the Public Trustee has the same functions, duties and powers in relation to the person’s estate that the Public Trustee had immediately before the prescribed day.
+(4) An administration order referred to in subclause (2) must be reviewed under section 84 on or within 3 years after the prescribed day.
+(5) The Public Trustee must, on or as soon as practicable after the prescribed day, give to the Public Advocate and the State Administrative Tribunal a list of the persons to whom subclause (2) applies.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
