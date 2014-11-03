@@ -51,6 +51,10 @@ Misuse of Drugs Amendment Act 2011 Pt. 4 | 56 of 2011 | 21 Nov 2011 | 30 Jan 201
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 8 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 Teacher Registration Act 2012 s. 169 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Spent Convictions (Act Amendment) Regulations 2013 published in Gazette 17 May 2013 p. 1984 | r. 1 and 2: 17 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 May 2013 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 22 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
@@ -59,9 +63,19 @@ Under the Alteration of Statutory Designations Order 2007 a reference in any law
 Repealed by the Children and Community Services Act 2004.
 The Children and Community Services Act 2004 Sch. 2 cl. 25 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 32(4).
 The Machinery of Government (Miscellaneous Amendment) Act 2006 Pt. 3 Div. 5 was repealed by the Statutes (Repeals and Minor Amendments) Act 2011 s. 23(4) before it purported to come into operation.
-Defined Terms
+On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 22 had not come into operation. It reads as follows:
+Part 4 — Amendments to other Acts
+Division 4 — Other Acts amended
+Subdivision 22 — Spent Convictions Act 1988 amended
+85.Act amended
+This Subdivision amends the Spent Convictions Act 1988.
+86.Schedule 3 clause 1 amended
+In Schedule 3 clause 1(7) delete the Table and insert:
+Table
+1.A person who is employed in or seconded to, or who is being considered for employment in or secondment to, the Department of Health or the Mental Health Commission under any of the following — (a)the Health Act 1911; (b)the Hospitals and Health Services Act 1927; (c)the Mental Health Act 2014; (d)the Alcohol and Drug Authority Act 1974. 2.A person who is placed, or who is being considered for placement, as a student undertaking a practicum or in an unpaid capacity in the Department of Health or the Mental Health Commission.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 aggrieved person17(2)
 any previous conviction11(4)
 child28(1A)
