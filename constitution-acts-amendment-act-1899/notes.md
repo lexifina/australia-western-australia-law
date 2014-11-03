@@ -283,6 +283,7 @@ Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Medicines and Poisons Act 2014 s. 183 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Consumer Protection Legislation Amendment Act 2014 Pt. 13 Div. 2 | 23 of 2014 | 9 Oct 2014 | To be proclaimed (see s. 2(b))
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 4 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
@@ -388,6 +389,17 @@ Division 2 — Consequential amendment to Constitution Acts Amendment Act 1899
 This Division amends the Constitution Acts Amendment Act 1899.
 96.Schedule V amended
 In Schedule V Part 3 delete the item relating to the Retail Shops Advisory Committee.
+On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 4 had not come into operation. It reads as follows:
+Part 4 — Amendments to other Acts
+Division 4 — Other Acts amended
+Subdivision 4 — Constitution Acts Amendment Act 1899 amended
+38.Act amended
+This Subdivision amends the Constitution Acts Amendment Act 1899.
+39.Schedule V Part 1 Division 1 amended
+In Schedule V Part 1 Division 1 delete the item relating to the Mental Health Review Board and insert:
+Member of the Mental Health Tribunal established by the Mental Health Act 2014.
+40.Schedule V Part 3 amended
+In Schedule V Part 3 delete the item relating to the Council of Official Visitors.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
