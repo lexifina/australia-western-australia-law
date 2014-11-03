@@ -179,6 +179,7 @@ Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 | 10 of 2011 | 2 May 2011 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 7 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -263,24 +264,43 @@ Delete section 297(4)(c)(iii) and insert:
 185.Section 318 amended
 Delete section 318(1)(g)(iii) and insert:
 (iii) a taxi as defined in the Taxi Act 1994 section 3(1) or an omnibus as defined in the Transport Co-ordination Act 1966 section 4(1);
+On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 7 had not come into operation. It reads as follows:
+Part 4 — Amendments to other Acts
+Division 4 — Other Acts amended
+Subdivision 7 — The Criminal Code amended
+47.Act amended
+This Subdivision amends The Criminal Code.
+48.Section 149 amended
+In section 149:
+(a) in paragraph (a) delete “Mental Health Act 1996” and insert:
+Mental Health Act 2014
+(b) in paragraph (b)(ii) delete “Mental Health Act 1996” and insert:
+Mental Health Act 2014 section 97
+49.Section 336 amended
+In section 336 delete “Mental Health Act 1996)” and insert:
+Mental Health Act 2014 section 4)
+50.Section 337 amended
+In section 337 delete “Mental Health Act 1996)” and insert:
+Mental Health Act 2014 section 4)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 accessory after the fact10
-accused5(1)(b), 10G(2), 10H(2)
-advice given546(12)
-agent546(1)
+accused5(1), 10G(2), 10H(2)
+advice given546
+agent546
 aid148(1)
 aircraft1(1)
-alternative offence10B
+Alternative offence10B
 amendment ActSch. 1 cl. 1
 animal370
 animosity towards76
 anything266(1)
 applies force222
 assault1(1), 222
+associated75A(5)
 associated place244(6)
-attempts to commit offences4
+attempt to commit offence4
 Attorney General1(1)
 behave in a disorderly manner74A(1)
 belief171(1)
@@ -289,7 +309,7 @@ bribe1(1)
 bulletproof clothing557I(1)
 carnal connection6
 carnal knowledge6
-charge5(1)(b)
+charge5(1)
 child1(1), 217A, 306(1), 320(1), 321(1), 322(1), 331A, 557K(1)
 child care centre557K(1)
 child exploitation material217A
@@ -298,6 +318,7 @@ child sex offender557K(1)
 circumstances of aggravation221(1), 319(1), 338D(1), 391, 400(1)
 circumstances of racial aggravation1(1), 80I
 clerk1(1)
+COC Act221C(1)
 commencementSch. 1 cl. 1
 Commissioner557I(1)
 company1(1)
@@ -305,20 +326,23 @@ compound136(1)
 computer generated image204B(1)
 computer system440A(1)
 conducting a business331C(1)
-consent319(2)(a)
+consent319(2)
 consort557J(1), 557K(1)
-contract546(7)
+contract546
 conveyance1(1), 284(1), 390A(1)
-court5(1)(b)
+court5(1)
 court of summary jurisdiction1(1)
+criminal organisation221C(1), 221D(1)
 criminal responsibility1(1)
 criminally responsible1(1)
 damage1(1)
+damage,1(1)
 dangerous goods294A(3)
 dangerous thing305(1)
 de facto child329(1)
 deals with319(1), 563B(5)
 deceptive material99(1)
+declared criminal organisation221C(1)
 declared drug trafficker557J(1)
 defamatory345(7)
 destroy1(1)
@@ -343,7 +367,7 @@ family and domestic relationship221(2)
 female genital mutilation306(1)
 forge1(1)
 government contractor81(1)
-graffiti implement216
+graffiti implement216(1)
 grievous bodily harm1(1)
 harass76
 harm305A(1)
@@ -352,14 +376,16 @@ holder of a judicial office121
 home invader244(2)
 identification equipment492(1)
 identification information489
-identification material489, 494(1)
+identification material 489
+identification material494(1)
 identity offence494(1)
 impair305A(1)
-in relation to his principal’s affairs or business546(11)
+in relation to his principal’s affairs or business546
 incapable person331A
 incites1(1)
 indecent act319(1)
 indecent matter204B(1)
+indictable offence221C(1)
 indictment1(1)
 information81(1)
 intimidate338D(1)
@@ -387,7 +413,7 @@ obstruct172(1)
 obtains1(1)
 occupant244(1), 254(2)
 offence2, 244(6), 563A(3), 563B(5)
-offence A10B(1) and (2)
+offence A10B(1), 10B(2)
 offender446(1)
 offensive material204A(1)
 official information81(1)
@@ -398,7 +424,7 @@ password440A(1)
 periodical343A(2)
 person1(1)
 person employed in the Public Service1(1)
-person having business relations with the principal546(10)
+person having business relations with the principal546
 person in authority70A(1)
 picture204B(1), 217A
 place244(6), 254(1), 400(1)
@@ -407,17 +433,16 @@ possession1(1)
 prescribed amount68D(1)
 prescribed circumstances297(8), 318(5)
 prescribed offence321A(1)
-prescribed place68B(1), 68D(1)
-principal546(2)
-principal offence10D, 10E, 10F, 10G(1) and (2), 10H(1) and (2),
-552(1), 553(1), 558(1)(a) and (b), 562(1)
+prescribed place68B(1)
+principal546
+principal offence10D, 10E, 10F, 10G(1), 10G(2), 10H(1), 10H(2), 552(1), 553(1), 558(1), 558(1), 562(1)
 print98(1), 99(1)
 prison145(1)
 proceeds563A(3)
 prohibited conduct187(1)
 property1(1), 371(7), 414
 provider305A(3)
-provocation245
+provocation245, 245
 public officer1(1), 84
 public place1(1)
 public property446(1)
@@ -446,31 +471,31 @@ set305(1)
 sexual act321A(1)
 sexual service331A
 ship1(1)
-solicit any valuable consideration546(9)
+solicit any valuable consideration546
 special property371(2)
 steal371
 summarily1(1)
 summary conviction1(1)
-summary conviction penalty5
+Summary conviction penalty5
 thing sent by post1(1)
 threat332(4), 338
 to indecently record319(1)
 to sexually penetrate319(1)
 transaction563A(3)
 trespass70A(1)
-trustee546(3)
+trustee546
 unamended CodeSch. 1 cl. 2(1)
 unauthorised disclosure81(1)
 unlawful assembly62
 use390A(1), 440A(1)
 used in connection with an offence563B(5)
 utter1(1)
-valuable consideration546(4), (5) and (6)
-valuable consideration solicited546(9)
+valuable consideration546, 546, 546
+valuable consideration solicited546
 valuable security1(1)
-vehicle1(1), 75A(2), 75B(2)
+vehicle1(1), 75A(2)
 vessel1(1)
-victim204B(1), 331D(1)(a) and (2)(a), 345(1), 494(1)
+victim204B(1), 331D(1), 331D(2), 345(1), 494(1)
 voice print489
 volatile substance206(1)
 wilfully destroy or damage443
