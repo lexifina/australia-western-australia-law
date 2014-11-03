@@ -9,3 +9,34 @@ Workers’ Compensation Reform Act 2004 s. 174 | 42 of 2004 | 9 Nov 2004 | 4 Jan
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
 Reprint 1: The Protective Custody Act 2000 as at 2 Jun 2006 (includes amendments listed above)
 Police Amendment Act 2008.s. 17 and 23(7) | 8 of 2008 | 31 Mar 2008 | s. 17: 1 Apr 2008 (see s. 2(1)) s. 23(7): 21 Jun 2008 (see s. 2(2) and Gazette 20 Jun 2008 p. 2706)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 20 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 20 had not come into operation. It reads as follows:
+Part 4 — Amendments to other Acts
+Division 4 — Other Acts amended
+Subdivision 20 — Protective Custody Act 2000 amended
+78.Act amended
+This Subdivision amends the Protective Custody Act 2000.
+79.Section 4 amended
+In section 4(2) delete “section 195 of the Mental Health Act 1996.” and insert:
+the Mental Health Act 2014 section 156.
+80.Section 10 amended
+Delete section 10(2)(a) and insert:
+(a) the apprehended person is referred under the Mental Health Act 2014 section 26(2) or (3)(a) for an examination by a psychiatrist at an authorised hospital or another place; or
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+adult3
+apprehended3
+appropriate facility3
+approved place3
+authorised officer3
+child3
+community officer3
+intoxicant3
+intoxicated3
+JP3
+public place3
+volatile substance3
