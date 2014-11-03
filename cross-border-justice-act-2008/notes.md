@@ -9,6 +9,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 16 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 9 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 16 had not come into operation. It reads as follows:
 Division 16 — Cross-border Justice Act 2008 amended
 83.Act amended
@@ -24,9 +25,18 @@ State, any of the following enactments —
 (iii)the Road Traffic (Authorisation to Drive) Act 2008;
 (iv)the Road Traffic (Vehicles) Act 2012;
 or
-Defined Terms
+On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 9 had not come into operation. It reads as follows:
+Part 4 — Amendments to other Acts
+Division 4 — Other Acts amended
+Subdivision 9 — Cross-border Justice Act 2008 amended
+53.Act amended
+This Subdivision amends the Cross-border Justice Act 2008.
+54.Section 95 amended
+In section 95 in the definition of State authorised hospital delete “Mental Health Act 1996 section 3;” and insert:
+Mental Health Act 2014 section 4;
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 amended11(1)
 another participating jurisdiction7(1)
 appropriate modifications7(1)
