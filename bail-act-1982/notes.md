@@ -61,6 +61,10 @@ Reprint 8: The Bail Act 1982 as at 6 Jul 2012 (includes amendments listed above 
 Criminal Organisations Control Act 2012 s. 172 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 1 (s. 21-31) | 20 of 2013 | 4 Nov 2013 | Pt. 3 Div. 1 (other than s. 22, 23, 25 and 27-30): 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391); s. 22, 23, 25 and 27-30: 13 Sep 2014 (see s. 2(b) and Gazette 12 Sep 2014 p. 3279)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 3 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 2 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The short title of the Justices Act 1902 was changed to the Criminal Procedure (Summary) Act 1902 by the Courts Legislation Amendment and Repeal Act 2004 s. 25. The Act was then repealed by the Criminal Procedure and Appeal (Consequential and Other Provisions) Act 2004.
 The amendment in the Sentencing Legislation Amendment and Repeal Act 1999 s. 26 had not come into operation when it was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -75,12 +79,29 @@ The Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 97 reads a
 If in a written law or other document or instrument there is a reference to the Crown Solicitor that reference may, where the context so requires, be read as if it had been amended to be a reference to the State Solicitor.
 The amendment in the Courts Legislation Amendment and Repeal Act 2004 s. 141 (amending Sch. 1 Pt. A cl. 4) is not included because the clause it sought to amend had been amended by the Acts Amendment (Court of Appeal) Act 2004 s. 28(4) before the amendment purported to come into operation.
 The Bail Amendment Act 2008 s. 6(2), 9(4)-(11), 10(2), 11(3), 15(5)-(8), 16(2), 18(4)-(5), 21(3), 22(2), 23(4), 24(6)-(7), 27(2)-(3), 28(6), 30(4)-(5), 31(2)-(3), 32(3)-(4), 33(6), 40(2), 41(5)-(9), 42(3) and 44 are transitional provisions.
+On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 2 had not come into operation. It reads as follows:
+Part 4 — Amendments to other Acts
+Division 4 — Other Acts amended
+Subdivision 2 — Bail Act 1982 amended
+34.Act amended
+This Subdivision amends the Bail Act 1982.
+35.Schedule 1 Part D clause 2 amended
+(1) In Schedule 1 Part D clause 2(3a):
+(a) before “examined” (1st and 2nd occurrences) insert:
+assessed or
+(b) delete paragraph (a) and insert:
+(a) that the accused be assessed, either by a medical practitioner or by an authorised mental health practitioner as defined in the Mental Health Act 2014 section 4, for the purpose of deciding whether to make a referral under section 26 of that Act;
+(c) in paragraph (b) delete “Mental Health Act 1996);” and insert:
+Mental Health Act 2014 section 4);
+(2) In Schedule 1 Part D clause 2(5) delete “counsel or examine” and insert:
+counsel, assess or examine
+(3) In Schedule 1 Part D clause 2(7) delete the definition of psychiatrist and insert:
+psychiatrist has the meaning given in the Mental Health Act 2014 section 4.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-accused3(1), 6(1)(a), 6A(1)
-addressee3A(1)
-adjournment3(1)
+accused3(1), 6(1), 6A(1)
+adjournment 3(1)
 amendment31A(1)
 appeal3(1)
 appropriate judicial officer3(1)
@@ -104,24 +125,24 @@ court custody centre3(1)
 Director of Public Prosecutions3(1)
 early release order3(1)
 home detention condition3(1)
-judge7B(1), Sch. 1 Pt. B cl. 1(1)
+judge7B(1), Sch. 1 cl. 1(1)
 judge of appeal3(1)
 judicial officer3(1)
 lock-up3(1)
-medical practitionerSch. 1 Pt. D cl. 2(7)
+medical practitionerSch. 1 cl. 2(7)
 offence3(1)
-proceedings for an offenceSch. 1 Pt. A cl. 7
+proceedings for an offenceSch. 1 cl. 7
 proposed surety43A(1)
 prosecutor3(1)
-protective condition or orderSch. 1 Pt. C cl. 3B(6)
-psychiatristSch. 1 Pt. D cl. 2(7)
+protective condition or orderSch. 1 cl. 3B(6)
+psychiatristSch. 1 cl. 2(7)
 registrar3(1)
 released6A(1)
 relevant officer54(1a), 59A(1)
 relevant official43A(1)
 relevant papers27(2)
-relevant personSch. 1 Pt. C cl. 3B(3)
-responsible personSch. 1 Pt. C cl. 2(1)
+relevant personSch. 1 cl. 3B(3)
+responsible personSch. 1 cl. 2(1)
 serious offence3(1), 6A(1)
 statute66(3)
 summary court6A(1)
