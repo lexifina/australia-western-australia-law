@@ -53,6 +53,7 @@ Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 27 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 16 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 4.Section 6A inserted
 After section 6 the following section is inserted in Part 1 —
@@ -382,6 +383,53 @@ In section 61(2)(a):
 a road law as defined in the Road Traffic (Administration) Act 2008 section 4
 (b) delete “within the meaning of that Act; and” and insert:
 as defined in that section; and
+On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 16 had not come into operation. It reads as follows:
+Part 4 — Amendments to other Acts
+Division 4 — Other Acts amended
+Subdivision 16 — Land Administration Act 1997 amended
+70.Act amended
+This Subdivision amends the Land Administration Act 1997.
+71.Section 21 amended
+In section 21(2)(b) delete “is suffering from a mental disorder or mental illness, or is an intellectually handicapped person, within the meaning of the Mental Health Act 1962,” and insert:
+has a mental disability as defined in the Guardianship and Administration Act 1990 section 3(1),
+remuneration3(1)
+repealed Act3(1)
+repealed legislationSch. 2 cl. 30(2)
+reservation3(1)
+reserve3(1)
+respondent35(1)
+responsible personSch. 2 cl. 45(1)
+return date113(1)
+road3(1)
+scheme3(1)
+second Act200(2)
+small portion176(1)(b)
+soil conservation notice93
+special Act151(1)
+specified purpose144(4)
+specified use75(1)
+State instrumentality3(1)
+status order3(1), Sch. 2 cl. 1(2)
+stock3(1), 108(6), 111(7), 113(4)
+structure267(1)
+subject Crown land63
+subject land16(7), 52(1)
+subsidiary certificate of Crown land title3(1)
+survey mark268(3)
+take151(1)
+taken151(1)
+taker87(3)(c)
+taking151(1)
+taking order151(1)
+TLA3(1)
+townsite3(1), 26(1)
+transitional period3(1)
+trustee261(3)
+unallocated Crown land3(1)
+unauthorised structure270(1)
+unmanaged reserve3(1)
+war service landSch. 2 cl. 30(2)
+work151(1)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -430,7 +478,7 @@ Crown land interest holder275A(1)
 Crown lease3(1)
 date of taking151(1)
 dealing3(1)
-deemed application143(6)(c)
+deemed application143(6)
 Department3(1), 202(4)
 designate151(1)
 designated151(1)
@@ -455,7 +503,7 @@ land3(1)
 land administration expertise3(1)
 land district3(1)
 land reservedSch. 3 cl. 1
-landholder87(3)(c)
+landholder87(3)
 lease3(1)
 licence3(1)
 location3(1)
@@ -480,7 +528,7 @@ notice of intention151(1)
 NTA151(1)
 occupier151(1)
 order3(1)
-original portion176(1)(a)
+original portion176(1)
 pastoral lease3(1), 101(1)
 pastoral lessee3(1)
 pastoral purposes93
@@ -524,7 +572,7 @@ return date113(1)
 road3(1)
 scheme3(1)
 second Act200(2)
-small portion176(1)(b)
+small portion176(1)
 soil conservation notice93
 special Act151(1)
 specified purpose144(4)
@@ -539,7 +587,7 @@ subsidiary certificate of Crown land title3(1)
 survey mark268(3)
 take151(1)
 taken151(1)
-taker87(3)(c)
+taker87(3)
 taking151(1)
 taking order151(1)
 TLA3(1)
