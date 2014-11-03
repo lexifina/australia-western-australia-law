@@ -25,6 +25,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 11 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 6 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 The “Inspector provisions” as defined in the Prisons Amendment Act 1999 s. 2(4) came into operation on 18 Jun 2000 (see Gazette 16 Jun 2000 p. 2939).
 The Inspector of Custodial Services Act 2003 s. 57 and Sch. 3 are transitional provisions.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 11 had not come into operation. It reads as follows:
@@ -35,9 +36,35 @@ This Division amends the Court Security and Custodial Services Act 1999.
 Delete section 47(b) and insert:
 (b) the payment of the whole or a part of a penalty under an infringement notice as defined in the Road Traffic (Administration) Act 2008 section 4 in respect of an alleged offence by the contract worker; and
 (c) the payment of the whole or a part of a penalty under an infringement notice under a law, in any other part of the world, corresponding to a road law as defined in the Road Traffic (Administration) Act 2008 section 4, in respect of an alleged offence by the contract worker.
-Defined Terms
+On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 6 had not come into operation. It reads as follows:
+Part 4 — Amendments to other Acts
+Division 4 — Other Acts amended
+Subdivision 6 — Court Security and Custodial Services Act 1999 amended
+43.Act amended
+This Subdivision amends the Court Security and Custodial Services Act 1999.
+44.Section 3 amended
+(1) In section 3 delete the definition of medical treatment and insert:
+medical treatment includes —
+(a)psychiatric treatment, which is treatment as defined in the Mental Health Act 2014 section 4; and
+(b)dental treatment;
+(2) In section 3 in the definition of person in custody delete paragraph (b) and insert:
+(b)a person who is detained under the Mental Health Act 2014 unless the person has been apprehended by a police officer —
+(i)under section 99 of that Act pursuant to an apprehension and return order made under section 98 of that Act; or
+(ii)under section 149 of that Act pursuant to a transport order made under that Act; or
+(iii)under section 156 of that Act,
+and is placed in a lock-up while arrangements are being made by a police officer to take the person to a place as required under that Act;
+45.Section 4 amended
+In section 4(2) delete “under an order made under section 34, 41, 71, 84 or 195 of the Mental Health Act 1996.” and insert:
+by a police officer —
+(a) under section 99 of the Mental Health Act 2014 pursuant to an apprehension and return order made under section 98 of that Act; or
+(b) under section 149 of that Act pursuant to a transport order made under that Act; or
+(c) under section 156 of that Act.
+46.Section 76 amended
+In section 76 delete “under the Mental Health Act 1996.” and insert:
+as required under the Mental Health Act 2014.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 administrator3
 adult3
 authorised person3, 70, 75, 79
