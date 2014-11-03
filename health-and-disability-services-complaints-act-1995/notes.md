@@ -38,6 +38,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 13 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Now known as the Health and Disability Services (Complaints) Act 1995; short title changed (see note under s. 1).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -57,9 +58,21 @@ Act | Provision
 .............................................. | ................
 Health Services (Conciliation and Review) Act 1995 | Sch. 2, cl. 3
 .............................................. | ................
-Defined Terms
+On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 13 had not come into operation. It reads as follows:
+Part 4 — Amendments to other Acts
+Division 4 — Other Acts amended
+Subdivision 13 — Health and Disability Services (Complaints) Act 1995 amended
+63.Act amended
+This Subdivision amends the Health and Disability Services (Complaints) Act 1995.
+64.Section 3A replaced
+Delete section 3A and insert:
+3A.Act to be read with other legislation about health and disability complaints
+This Act is to be read with the following —
+(a) the Disability Services Act 1993 Part 6;
+(b) the Mental Health Act 2014 Part 19 Divisions 3 and 4.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 carer3(1)
 conciliator3(1)
 Director3(1)
