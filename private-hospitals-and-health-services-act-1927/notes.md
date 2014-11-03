@@ -65,6 +65,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Hospitals and Health Services Amendment Act 2013 s. 3-7 | 8 of 2013 | 19 Aug 2013 | To be proclaimed (see s. 2(b))
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 3 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 25 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 Now known as the Hospitals and Health Services Act 1927; short title changed (see note under s. 1).
@@ -145,9 +146,38 @@ any power or duty of the agency under another provision of this Act.
 (3) A person to whom a power or duty is delegated under this section cannot delegate that power or duty.
 (4) A person exercising or performing a power or duty that has been delegated to the person under this section is taken to do so in accordance with the terms of the delegation unless the contrary is shown.
 (5) This section does not limit the ability of a board or agency to perform a function through an officer or agent.
-Defined Terms
+On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 3 had not come into operation. It reads as follows:
+Part 4 — Amendments to other Acts
+Division 3 — Hospitals and Health Services Act 1927 amended
+25.Act amended
+This Division amends the Hospitals and Health Services Act 1927.
+26.Section 2 amended
+(1) In section 2(1) insert in alphabetical order:
+Chief Psychiatrist has the meaning given in the Mental Health Act 2014 section 4;
+(2) Delete section 2(1a) and insert:
+(1A) In the definition of hospital in subsection (1), illness includes mental illness (as defined in the Mental Health Act 2014 section 4) but this subsection does not affect any requirement under that Act that a person be detained at an authorised hospital (as defined in section 4 of that Act) or at another place.
+27.Section 4 amended
+In section 4 delete “Mental Health Act 1996,” and insert:
+Mental Health Act 2014,
+28.Section 26DA amended
+(1) In section 26DA(2) delete “Mental Health Act 1996” and insert:
+Mental Health Act 2014
+(2) After section 26DA(2) insert:
+(3A) The CEO cannot endorse a licence unless the Chief Psychiatrist recommends the endorsement.
+29.Section 26FA amended
+(1) In section 26FA(1)(b)(i) delete “Mental Health Act 1996; or” and insert:
+Mental Health Act 2014; or
+(2) After section 26FA(1) insert:
+(2A) The CEO must consult the Chief Psychiatrist before deciding whether or not to cancel an endorsement.
+30.Section 26P amended
+In section 26P delete the definition of mental illness and insert:
+mental illness has the meaning given in the Mental Health Act 2014 section 4;
+31.Section 26Q amended
+In section 26Q(2)(d)(ii) delete “Chief Psychiatrist referred to in section 8 of the Mental Health Act 1996.” and insert:
+Chief Psychiatrist.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 additional board16(2)
 agency2(1)
 agency board2(1)
