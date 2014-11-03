@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 February 2011 of the Perth Theatre Trust Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Perth Theatre Trust Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Perth Theatre Trust Act 1979 | 79 of 1979 | 6 Dec 1979 | 1 Feb 1980 (see s. 2 and Gazette 1 Feb 1980 p. 285)
@@ -25,24 +25,33 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation(Transitional and Consequential Provisions) Act 2000 s. 57 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 19 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to “chief executive officer”. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Mental Health (Consequential Provisions) Act 1996. Now see the Mental Health Act 1996.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. This reference was changed under the Reprints Act 1984 s. 7(3)(g).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
-On the date on which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 57 had not come into operation. It reads as follows:
+On the date on which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 57 had not come into operation. It reads as follows:
 57.Perth Theatre Trust Act 1979 amended
 Section 17 of the Perth Theatre Trust Act 1979 is amended as follows:
 (a) in subsection (4)(b) by deleting “, including his rights under the Superannuation Act,”;
 (b) by repealing subsections (5) and (8).
-Defined Terms
+On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 19 had not come into operation. It reads as follows:
+Part 4 — Amendments to other Acts
+Division 4 — Other Acts amended
+Subdivision 19 — Perth Theatre Trust Act 1979 amended
+76.Act amended
+This Subdivision amends the Perth Theatre Trust Act 1979.
+77.Section 6 amended
+Delete section 6(1)(e).
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Account23(6)
 chairman3(1)
 committee3(1)
 Council3(1)
 Council trustee3(1)
-department18(b)
+department18
 ex officio trustee3(1)
 financial year3(1)
 general manager3(1)
@@ -50,7 +59,6 @@ Ministerial trustee3(1)
 Superannuation Act17(8)
 theatre3(1)
 Trust3(1)
-Trust buildings and landSch. it. 2
-Trust theatres16(1)(a)
+Trust buildings and landSch. —
+Trust theatres16(1)
 trustee3(1)
-By Authority: JOHN A. STRIJK, Government Printer
