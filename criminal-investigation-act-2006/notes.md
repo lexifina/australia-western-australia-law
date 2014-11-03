@@ -22,6 +22,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 14 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 8 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 14 had not come into operation. It reads as follows:
 Division 14 — Criminal Investigation Act 2006 amended
 76.Act amended
@@ -37,6 +38,17 @@ police officer
 79.Section 135 amended
 In section 135(2)(b) delete “member of the Police Force acting under the Road Traffic Act 1974 section 66, is accompanying such a member” and insert:
 police officer acting under the Road Traffic Act 1974 section 66, is accompanying a police officer
+On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 8 had not come into operation. It reads as follows:
+Part 4 — Amendments to other Acts
+Division 4 — Other Acts amended
+Subdivision 8 — Criminal Investigation Act 2006 amended
+51.Act amended
+This Subdivision amends the Criminal Investigation Act 2006.
+52.Section 142 amended
+(1) Delete section 142(7)(a)(ii) and insert:
+(ii) under the Mental Health Act 2014 section 157;
+(2) Delete section 142(8)(c)(ii) and insert:
+(ii) the Mental Health Act 2014 section 157; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
