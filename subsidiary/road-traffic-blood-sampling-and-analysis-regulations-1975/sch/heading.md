@@ -36,7 +36,8 @@ Alleged time of last drink containing alcohol consumed by subject:
 ..................... m. on ................................................................................................
 ...................................................
 Signature, Rank and Number.
-[Form B amended in Gazette 2 Feb 1982 p. 398; 30 Jan 2001 p. 625; 8 Jan 2010 p. 33.]
+[Diagram deleted]
+[Form B amended in Gazette 2 Feb 1982 p. 398; 30 Jan 2001 p. 625; 8 Jan 2010 p. 33; 4 Nov 2014 p. 4206.]
 Western Australia.
 ROAD TRAFFIC ACT 1974
 Regulation 10: Road Traffic (Blood Sampling and Analysis) Regulations 1975
