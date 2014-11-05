@@ -32,7 +32,8 @@ Time and date of collecting urine sample: .......... .m. on ....................
 Time of occurrence of driving or incident giving rise to requirement of urine sample: ....... .m. on the .................................. of ....................20 ...............
 ......................................................................................................................
 Signature, rank and number.
-[Form 2 amended in Gazette 30 Jan 2001 p. 627; 31 Dec 2009 p. 5318.]
+[Diagram deleted]
+[Form 2 amended in Gazette 30 Jan 2001 p. 627; 31 Dec 2009 p. 5318; 4 Nov 2014 p. 4206.]
 Form 3
 Road Traffic Act 1974
 Road Traffic (Urine Sampling and Analysis) Regulations 1983

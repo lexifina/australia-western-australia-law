@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 6 August 2010 of the Road Traffic (Urine Sampling and Analysis) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic (Urine Sampling and Analysis) Regulations 1983 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Urine Sampling and Analysis) Regulations 1983 | 25 Feb 1983 p. 651-3 | 1 Mar 1983 (see r. 2)
@@ -13,9 +13,10 @@ Road Traffic (Urine Sampling and Analysis) Amendment Regulations 2007 | 11 Oct 2
 Road Traffic Legislation Amendment Regulations 2008 Pt. 6 | 14 Mar 2008 p. 832-4 | 15 Mar 2008 (see r. 2(b) and Gazette 14 Mar 2008 p. 829)
 Road Traffic (Urine Sampling and Analysis) Amendment Regulations 2009 | 31 Dec 2009 p. 5317-18 | r. 1 and 2: 31 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2010 (see r. 2(b))
 Reprint 2: The Road Traffic (Urine Sampling and Analysis) Regulations 1983 as at 6 Aug 2010 (includes amendments listed above)
-Defined Terms
+Road Traffic (Urine Sampling and Analysis) Amendment Regulations 2014 | 4 Nov 2014 p. 4206 | r. 1 and 2: 4 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Nov 2014 (see r. 2(b))
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Form3
 subject3
 technologist3
