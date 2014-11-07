@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the District Court (Fees) Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 November 2014 of the District Court (Fees) Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 District Court (Fees) Regulations 2002 | 27 Dec 2001 p. 6617-43 | 1 Jan 2002 (see r. 2)
@@ -22,7 +22,10 @@ District Court (Fees) Amendment Regulations (No. 3) 2012 | 30 Nov 2012 p. 5788-9
 District Court (Fees) Amendment Regulations 2013 | 19 Jul 2013 p. 3267-8 | r. 1 and 2: 19 Jul 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Aug 2013 (see r. 2(b) and Gazette 6 Aug 2013 p. 3677)
 District Court (Fees) Amendment Regulations (No. 2) 2013 | 15 Nov 2013 p. 5243-5 | r. 1 and 2: 15 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Nov 2013 (see r. 2(b))
 District Court (Fees) Amendment Regulations (No. 3) 2014 | 27 Jun 2014 p. 2338-40 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i))
-Repealed by the District Court Rules 2005 r. 72.
+Reprint 3: The District Court (Fees) Regulations 2002 as at 7 Nov 2014 (includes amendments listed above)
+Repealed by the District Court Rules 2005.
+Repealed by the Co-operatives Act 2009.
+Repealed by the Commercial Arbitration Act 2012.
 The District Court (Fees) Amendment Regulations 2005 r. 13 reads as follows:
 13.Transitional: recognised reporting services
 A recognised reporting service approved by the Attorney General immediately before the date on which these regulations commenced is taken to have been approved as a person entitled to receive searchable information on that date.
