@@ -1,7 +1,7 @@
 ## Schedule 3 — Forms
 [Regulation 9]
 Form 1
-Education Service Provider: ................................................................................................ Page number ...................... of ............................ pages. |  | Field 13 | Broad field of study (code)
+Education Service Provider: ................................................................................................ Page number ........................ of ................................. pages. |  | Field 13 | Broad field of study (code)
  | Field 12 | Studied in W.A. or off-shore
  | Field 11 | Student transfer (code)
  | Field 10 | Weeks studied
