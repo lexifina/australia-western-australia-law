@@ -20,6 +20,7 @@ School Education Amendment Regulations (No. 3) 2012 | 27 Nov 2012 p. 5737 | r. 1
 School Education Amendment Regulations (No. 4) 2012 | 4 Dec 2012 p. 5909 | r. 1 and 2: 4 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b))
 Reprint 2: The School Education Regulations 2000 as at 1 Mar 2013 (includes amendments listed above)
 School Education Amendment Regulations 2013 | 21 Jun 2013 p. 2446-7 | r. 1 and 2: 21 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jun 2013 (see r. 2(b))
+School Education Amendment Regulations 2014 | 11 Nov 2014 p. 4255-61 | r. 1 and 2: 11 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Nov 2014 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -76,6 +77,7 @@ section3(1)
 security coordinator3(1)
 serious breach of school discipline3(1)
 sibling3(1)
+special reasons65(3)
 specialist programme3(1)
 specified86
 staff member148A(1)
