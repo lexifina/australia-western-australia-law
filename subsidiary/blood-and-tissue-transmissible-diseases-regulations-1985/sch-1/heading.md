@@ -6,25 +6,25 @@ All of the questions are important to answer. Answer each question on the form a
 All donations of blood are tested for the presence of hepatitis B and C, HIV (the AIDS virus), HTLV and syphilis. If your blood test proves positive for any of these conditions, or for any reason the test shows a significantly abnormal result, you will be informed.
 Please respond by placing a cross or a tick in the relevant box. Do not circle.
 To the best of your knowledge, have you ever:
-1.Thought you could be infected with HIV or have AIDS? | ⁯ Yes⁯ No
-2.“Used drugs” by injection or been injected, even once, with drugs not prescribed by a doctor or dentist? | ⁯ Yes⁯ No
-3.Had treatment with clotting factors such as Factor VIII or Factor IX? | ⁯ Yes⁯ No
-4.Had a test which showed you had hepatitis B, hepatitis C, HIV or HTLV? | ⁯ Yes⁯ No
+1.Thought you could be infected with HIV or have AIDS? | ¨ Yes¨ No
+2.“Used drugs” by injection or been injected, even once, with drugs not prescribed by a doctor or dentist? | ¨ Yes¨ No
+3.Had treatment with clotting factors such as Factor VIII or Factor IX? | ¨ Yes¨ No
+4.Had a test which showed you had hepatitis B, hepatitis C, HIV or HTLV? | ¨ Yes¨ No
 In the last 12 months have you:
-5.Had an illness with both a rash AND swollen glands, with or without a fever? | ⁯ Yes⁯ No
-6.Engaged in sexual activity with someone you might think would answer “yes” to any of questions 1-5? | ⁯ Yes⁯ No
-7.Had sexual activity with a new partner who currently lives or who has previously lived overseas? | ⁯ Yes⁯ No
-8.Had sex (with or without a condom) with a man who you think may have had oral or anal sex with another man? | ⁯ Yes⁯ No
-9.Had male to male sex (that is, oral or anal sex) with or without a condom? (Females please tick “I am female”) | ⁯ Yes⁯ No I am female ⁯
-10.Been a male or female sex worker (e.g. received payment for sex in money, gifts or drugs)? | ⁯ Yes⁯ No
-11.Engaged in sexual activity with a male or female sex worker? | ⁯ Yes⁯ No
-12.Been imprisoned in a prison or been held in a lock-up or detention centre? | ⁯ Yes⁯ No
-13.Had a blood transfusion? | ⁯ Yes⁯ No
-14.Had (yellow) jaundice or hepatitis or been in contact with someone who has? | ⁯ Yes⁯ No
+5.Had an illness with both a rash AND swollen glands, with or without a fever? | ¨ Yes¨ No
+6.Engaged in sexual activity with someone you might think would answer “yes” to any of questions 1-5? | ¨ Yes¨ No
+7.Had sexual activity with a new partner who currently lives or who has previously lived overseas? | ¨ Yes¨ No
+8.Had sex (with or without a condom) with a man who you think may have had oral or anal sex with another man? | ¨ Yes¨ No
+9.Had male to male sex (that is, oral or anal sex) with or without a condom? (Females please tick “I am female”) | ¨ Yes¨ No I am female ⁯
+10.Been a male or female sex worker (e.g. received payment for sex in money, gifts or drugs)? | ¨ Yes¨ No
+11.Engaged in sexual activity with a male or female sex worker? | ¨ Yes¨ No
+12.Been imprisoned in a prison or been held in a lock-up or detention centre? | ¨ Yes¨ No
+13.Had a blood transfusion? | ¨ Yes¨ No
+14.Had (yellow) jaundice or hepatitis or been in contact with someone who has? | ¨ Yes¨ No
 In the last 6 months have you:
-15.Been injured with a used needle (needlestick)? | ⁯ Yes⁯ No
-16.Had a blood/body fluid splash to eyes, mouth, nose or to broken skin? | ⁯ Yes⁯ No
-17.Had a tattoo (including cosmetic tattooing), body and/or ear piercing, electrolysis or acupuncture (including dry-needling)? | ⁯ Yes⁯ No
+15.Been injured with a used needle (needlestick)? | ¨ Yes¨ No
+16.Had a blood/body fluid splash to eyes, mouth, nose or to broken skin? | ¨ Yes¨ No
+17.Had a tattoo (including cosmetic tattooing), body and/or ear piercing, electrolysis or acupuncture (including dry-needling)? | ¨ Yes¨ No
 Thank you for answering these questions. If you are uncertain about any of your answers, please discuss them with your interviewer.
 We would like you to sign this declaration in the presence of your interviewer to show that you have understood the information on this form and have answered the questions in the declaration to the best of your knowledge.
 Your donation is a gift to be used to treat patients. In some circumstances, your donation may be used for the purposes of research, teaching, quality assurance or the making of essential diagnostic reagents (including commercial reagents). A part of your donation will also be stored for possible future testing and research; samples that are no longer required will be destroyed. Approval from an appropriate Human Research Ethics Committee is required before any research is undertaken on your donation or any part of it.
