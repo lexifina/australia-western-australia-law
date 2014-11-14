@@ -146,7 +146,7 @@ Fee | $
 (b)for zone B units, per unit | 17.45
 (c)for zone C units, per unit | 16.24
 (34)Windy Harbour-Augusta Rock Lobster Managed Fishery, per pot | 2.53
-[(4)deleted]
+[4.deleted]
 5.Fishing tour operator’s licence (r. 128J(1)) —
 (a)if the nominated maximum number of passengers participating in a fishing tour conducted under the licence is —
 (i)5 passengers or fewer | 1 200.00

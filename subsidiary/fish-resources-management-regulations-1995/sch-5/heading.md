@@ -85,7 +85,7 @@ Chthamalus proteus | Atlantic Barnacle, Caribbean Barnacle | Any area of the Sta
 Cirrhinus cirrhosus | Mrigal | Any area of the State
 Clarias spp. (entire genus) | Walking Catfish | Any area of the State
 Cliona thoosina | Boring Sponge, Sulfur Sponge | Any area of the State
-Codium fragile fragile (syn. C. fragile tomentosoides) | Dead Man’s Fingers, Oyster Thief; Broccoli Weed | Any area of the State except in the Port of Albany
+Codium fragile fragile (syn. C. fragile tomentosoides) | Dead Man’s Fingers, Oyster Thief, Broccoli Weed | Any area of the State except in the Port of Albany
 Colossoma spp. (entire genus) | Tambaqui Pacu, Pirapitinga | Any area of the State
 Corbicula fluminea | Asian Clam, Asiatic Clam | Any area of the State
 Corbula gibba (syn. Varicorbula gibba) | Basket Shell, European Clam, Basket Shell Clam | Any area of the State

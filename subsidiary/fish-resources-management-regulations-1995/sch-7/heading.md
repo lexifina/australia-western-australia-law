@@ -38,7 +38,7 @@ Dart | Trachinotus spp.
 Dhufish, West Australian | Glaucosoma hebraicum
 Dolphinfish (Mahi Mahi) | Coryphaena hippurus
 Dory, John | Zenopsis nebulosus
-Dory, Mirror . | Zeus faber
+Dory, Mirror | Zeus faber
 Emperor and Seabream | Family Lethrinidae
 Emperor, Blue-lined | Lethrinus laticaudis
 Emperor, Red (Government Bream) | Lutjanus sebae
