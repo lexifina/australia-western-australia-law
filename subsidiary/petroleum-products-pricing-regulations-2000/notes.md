@@ -16,7 +16,8 @@ Petroleum Products Pricing Amendment Regulations (No. 2) 2006 | 3 Oct 2006 p. 43
 Petroleum Products Pricing Amendment Regulations 2008 | 12 Aug 2008 p. 3535-6 | r. 1 and 2: 12 Aug 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Aug 2008 (see r. 2(b))
 Reprint 2: The Petroleum Products Pricing Regulations 2000 as at 14 Aug 2009 (includes amendments listed above)
 Petroleum Products Pricing Amendment Regulations 2014 | 15 Aug 2014 p. 2933-7 | r. 1 and 2: 15 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Aug 2014 (see r. 2(b))
-Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection was called the Department of Commerce.
+Petroleum Products Pricing Amendment Regulations (No. 2) 2014 | 18 Nov 2014 p. 4322-4 | r. 1 and 2: 18 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2014 (see r. 2(b) and Gazette 18 Nov 2014 p. 4315)
+Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Consumer and Employment Protection was called the Department of Commerce.
 The Petroleum Products Pricing Amendment Regulations 2001 r. 8 reads as follows:
 8.Defence during transitional period
 (1) It is a defence to a charge of an offence against regulation 6(1) of the Petroleum Products Pricing Regulations 2000 that was alleged to have been committed during the transitional period to prove that the person charged did not have any sign or other thing that the person would have needed to be able to comply with regulation 6 of those regulations despite the person having taken all reasonable steps to ensure that everything needed was available.
@@ -34,12 +35,12 @@ The Petroleum Products Pricing Amendment Regulations 2003 r. 5 reads as follows:
 (2) Subregulation (1) does not apply to a charge of an offence against regulation 6(1) of the Petroleum Products Pricing Regulations 2000 that is alleged to have been committed during the transitional period at a place in a local government district or townsite listed in Schedule 1 to those regulations, as in force immediately before the transitional period.
 (3) In this regulation —
 transitional period means the period of 21 days beginning on the day on which these regulations come into operation.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 calendar month10(3)
 day2A
-kinds offered6(2)(b)
+kinds offered6(2)
 Perth metropolitan region4(2)
 regular unleaded petrol6(7)
 retail sale2A
