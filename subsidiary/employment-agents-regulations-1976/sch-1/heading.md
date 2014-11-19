@@ -13,7 +13,7 @@ TO Commissioner for Consumer Protection:
 ’Phone ............................................
 (b)Full name ........................................................................................... Residential ......................................................................................... or Business address ................................................................................
 ’Phone ............................................
-5. Attached is a page of the newspaper ........................................................... ...................................................................................................................... in which an advertisement of the notice of intention to apply for a licence was published pursuant to section 18 of the Act.
+[5.deleted]
 6.Does a person, firm or body corporate mentioned in this application hold a licence under the Act? If so, give particulars of the licence.
 Dated this .................................... day of .................................................... 20......
 .............................................. Signature of applicant.
@@ -21,7 +21,7 @@ Dated this .................................... day of .........................
 * Seal of body corporate.
 * Signature of person authorised by firm.
 * Delete whichever not applicable. † Delete if not applicable.
-[Form 1 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740.]
+[Form 1 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740; 18 Nov 2014 p. 4317.]
 Form 2
 Employment Agents Act 1976
 APPLICATION FOR A RESTRICTED LICENCE
@@ -34,7 +34,7 @@ TO Commissioner for Consumer Protection:
 ’Phone .............................................
 (b)Full name ........................................................................................... Residential ......................................................................................... or business address ................................................................................
 ’Phone .............................................
-5. Attached is a page of the newspaper ........................................................... ...................................................................................................................... in which an advertisement of the intention to apply for a licence was published pursuant to section 18 of the Act.
+[5.deleted]
 6. Does a person, firm or body corporate mentioned in this application hold a licence under the Act? If so, give particulars of the licence.
 Dated this .................................... day of .................................................... 20......
 .............................................. Signature of applicant.
@@ -42,7 +42,7 @@ Dated this .................................... day of .........................
 * Seal of body corporate.
 * Signature of person authorised by firm.
 * Delete whichever inapplicable. † Delete if not applicable.
-[Form 2 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740.]
+[Form 2 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740; 18 Nov 2014 p. 4317.]
 Form 3
 Employment Agents Act 1976
 APPLICATION FOR AN INTERIM LICENCE
@@ -56,7 +56,7 @@ TO Commissioner for Consumer Protection:
 ’Phone ............................................
 (b)Full name ........................................................................................... Residential ......................................................................................... or business address ................................................................................
 ’Phone ............................................
-6. Attached is a page of the newspaper ........................................................... ...................................................................................................................... in which an advertisement of the notice of intention to apply for a licence was published pursuant to section 18 of the Act.
+[6.deleted]
 7. Does a person, firm or body corporate mentioned in this application hold a licence under the Act? If so, give particulars of the licence ..................... ......................................................................................................................
 Dated this .................................... day of .................................................... 20......
 .............................................. Signature of applicant.
@@ -64,7 +64,7 @@ Dated this .................................... day of .........................
 * Seal of body corporate.
 * Signature of person authorised by firm.
 * Delete whichever inapplicable. † Delete if not applicable.
-[Form 3 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740.]
+[Form 3 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740; 18 Nov 2014 p. 4317.]
 Form 4
 Employment Agents Act 1976
 APPLICATION FOR A DUPLICATE LICENCE
@@ -91,7 +91,7 @@ TO Commissioner for Consumer Protection:
 ’Phone ............................................
 (b)Full name ........................................................................................... Residential ......................................................................................... or business address ................................................................................
 ’Phone ............................................
-6. Attached is a page of the newspaper ........................................................... ...................................................................................................................... in which an advertisement of the notice of intention to transfer the licensee was published pursuant to section 18 of the Act.
+[6.deleted]
 7. Does a person, firm or body corporate mentioned in this application hold a licence under the Act? If so, give particulars of the licence.
 Dated this .................................... day of .................................................... 20......
 .............................................. Signature of applicant.
@@ -99,7 +99,7 @@ Dated this .................................... day of .........................
 * Seal of body corporate.
 * Signature of person authorised by firm.
 * Delete whichever inapplicable. † Delete if not applicable.
-[Form 5 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740.]
+[Form 5 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740; 18 Nov 2014 p. 4317.]
 Form 6
 Employment Agents Act 1976
 APPLICATION FOR A RENEWAL OF LICENCE
@@ -142,12 +142,7 @@ Dated the ..................................... day of .........................
 ................................................................ Commissioner for Consumer Protection.
 * Delete whichever is not applicable.
 [Form 10 amended in Gazette 30 Dec 2004 p. 6919; 20 Apr 2007 p. 1740.]
-Form 11
-EMPLOYMENT AGENTS ACT 1976
-TAKE NOTICE THAT ................................ trading as ........................................ of ............................................................................................................................ is to apply for a ............................................................................. licence to carry on business as an employment agent at ................................................................. .................................................................................................................................
-ANY PERSON who desires to object to the grant of a licence should lodge a notice in writing with the Commissioner, within 14 days of the date of this publication stating in sufficient details the grounds of the objection and is also required to serve a copy of such notice of objection on the applicant or his authorised representative.
-................................................................ Signature.
-[Form 11 amended in Gazette 30 Dec 2004 p. 6920.]
+[Form 11 deleted in Gazette 18 Nov 2014 p. 4317.]
 Form 12 Employment Agents Act 1976 REGISTER OF EMPLOYMENT AGENTS Business Name Address of Principal Place of Business Address of Other Places of Business | Cancellation or Surrender | Date
 S
 C
@@ -177,8 +172,8 @@ Officer issuing notice | Name
 Signature
 Office
 Date | Date of notice //20
-Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice. How to pay By post: Send a cheque or money order (payable to ‘Approved Officer — Employment Agents Act 1976’) to: Approved Officer — Employment Agents Act 1976 Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 In person: Pay the cashier at: Department of Consumer and Employment Protection 219 St George’s Terrace, Perth WA If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold. If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Approved Officer at the above postal address. If you want this matter to be dealt with by prosecution in court, sign here ____________________________________ and post this notice to the Approved Officer at the above postal address within 28 days after the date of this notice.
-[Form 13 inserted in Gazette 22 Sep 2006 p. 4110; amended in Gazette 20 August 2013 p. 3830.]
+Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice. How to pay By post: Send a cheque or money order (payable to ‘Approved Officer — Employment Agents Act 1976’) to: Approved Officer — Employment Agents Act 1976 Department of Consumer and Employment Protection Locked Bag 14 Cloisters Square Perth WA 6850 In person: Pay the cashier at: Department of Consumer and Employment Protection [street address to be inserted] If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold. If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Approved Officer at the above postal address. If you want this matter to be dealt with by prosecution in court, sign here ____________________________________ and post this notice to the Approved Officer at the above postal address within 28 days after the date of this notice.
+[Form 13 inserted in Gazette 22 Sep 2006 p. 4110; amended in Gazette 20 August 2013 p. 3830; 18 Nov 2014 p. 4317.]
 Form 14
 Employment Agents Act 1976 Withdrawal of infringement notice | Withdrawal no.
 Alleged offender | Name:Family name
