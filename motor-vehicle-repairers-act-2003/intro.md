@@ -5,4 +5,4 @@ An Act to provide for —
 •the carrying out of such repair work only by, or under the supervision of, individuals who are certified under this Act;
 •the payment of compensation for certain losses relating to motor vehicle repair work,
 and for related purposes.
-[Long title amended by No. 58 of 2010 s. 52.]
+[Long title amended: No. 58 of 2010 s. 52.]
