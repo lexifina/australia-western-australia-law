@@ -1,6 +1,6 @@
 ## Schedule 1 — Fees
-[r. 4 and 5A]
-[Heading inserted in Gazette 17 Jun 2014 p. 1968.]
+[r. 4]
+[Heading inserted in Gazette 17 Jun 2014 p. 1968; amended in Gazette 18 Nov 2014 p. 4318.]
 Item | Description of fee | $
 1. | Grant of licence | 776.00
 2. | Renewal of licence | 776.00
