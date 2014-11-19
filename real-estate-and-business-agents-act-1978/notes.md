@@ -53,10 +53,7 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Acts Amendment (Fair Trading) Act 2010 Pt. 6 | 58 of 2010 | 8 Dec 2010 | 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 25 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 7: The Real Estate and Business Agents Act 1978 as at 18 Nov 2011 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Consumer Protection Legislation Amendment Act 2014 Pt. 10 | 23 of 2014 | 9 Oct 2014 | To be proclaimed (see s. 2(b))
+Consumer Protection Legislation Amendment Act 2014 Pt. 10 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 The provision in this Act repealing the Land Agents Act 1921 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The “appointed day” was 1 December 1979. See Gazette 31 August 1979 p. 2615.
 The Land Agents Act 1921.
@@ -70,87 +67,10 @@ The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 4(2
 (3) Where a person may give notice of a claim under section 116(2) as amended by this section, notice of the claim given by the person previously in writing to the Board (whether or not dealt with by the Board) is to be taken to be notice of the claim for the purposes of that section.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 contain validation provisions which may be relevant to this Act.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment Act 2014 Pt. 10 had not come into operation. It reads as follows:
-Part 10 — Real Estate and Business Agents Act 1978 amended
-68.Act amended
-This Part amends the Real Estate and Business Agents Act 1978.
-69.Section 23 amended
-(1) In section 23(1) delete “of the Commissioner”.
-(2) In section 23(2) in the definition of person aggrieved:
-(a) in paragraph (a) delete “or objects to”;
-(b) in paragraph (e) delete “Commissioner” and insert:
-chief executive officer
-(3) In section 23(2) in the definition of reviewable decision:
-(a) in paragraph (a) after “decision” insert:
-of the Commissioner
-(b) in paragraph (a) delete “or objection”;
-(c) in paragraphs (b) to (d) after “decision” insert:
-of the Commissioner
-(d) in paragraph (e) after “decision” insert:
-of the chief executive officer
-(4) After section 23(2) insert:
-(3) If a decision under section 116 or 117 has not been made before the commencement of the Consumer Protection Legislation Amendment Act 2014 section 69 in respect of a claim made before 1 July 2011, the decision —
-(a)may be made on or after that commencement by the Commissioner; and
-(b)is taken to be a reviewable decision for the purposes of this section.
-(4) A decision under section 116 or 117 made by the chief executive officer before the commencement of the Consumer Protection Legislation Amendment Act 2014 section 69 is taken to be a reviewable decision made immediately after that commencement for the purposes of this section.
-(5) The amendments made to this section by the Consumer Protection Legislation Amendment Act 2014 section 69 do not affect the review of a reviewable decision by the State Administrative Tribunal that began, but was not completed, before the commencement of that section.
-70.Section 24 amended
-Delete section 24(2).
-71.Section 25 deleted
-Delete section 25.
-72.Section 27 amended
-In section 27(2):
-(a) delete “the Schedule” and insert:
-Schedule 1
-(b) delete “therein and elsewhere”.
-73.Section 34A amended
-In section 34A(1) delete “there is no objection in respect of a licence and”.
-Note:The heading to amended section 34A is to read:
-Commissioner may grant licence or triennial certificate without notice to applicant
-74.Section 40A inserted
-After section 39 insert:
-40A.Duplicate licence, certificate of registration or triennial certificate
-If a licence, certificate of registration or triennial certificate has been lost or destroyed, the Commissioner may issue a duplicate licence, duplicate certificate of registration or duplicate triennial certificate on payment by the holder of the prescribed fee.
-75.Section 91 amended
-In section 91 delete “Board” and insert:
-Commissioner
-76.Section 116 amended
-After section 116(1) insert:
-(2A) For the purposes of a claim against the Fidelity Account, the reference in subsection (1) to any period when the licensee was the holder of a current triennial certificate includes a period when the licensee was not the holder of a current triennial certificate if the chief executive officer considers that it is just and reasonable in the circumstances of the claim.
-77.Section 124AA inserted
-At the end of Part VIII insert:
-124AA.Commissioner may investigate claims against Fidelity Account
-(1) Without limiting section 22, the Commissioner may, at and in accordance with the request of the chief executive officer, make an investigation or inquiry under the Fair Trading Act 2010 Part 6 in relation to a claim against the Fidelity Account.
-(2) For the purposes of the investigation or inquiry, the administration of the Fidelity Account is taken to be a function of the Commissioner.
-(3) The Commissioner must, as soon as practicable after completing the investigation or inquiry, prepare a report on the findings of the investigation or inquiry and give it to the chief executive officer.
-78.Section 124A amended
-In section 124A(2) delete “Commissioner.” and insert:
-chief executive officer.
-79.Section 124C amended
-In section 124C(e) delete “Act.” and insert:
-Act or the Commissioner’s functions under the Fair Trading Act 2010 section 57A that are performed for the purposes of this Act.
-80.Section 134 amended
-Delete section 134(1) and (2).
-Note:The heading to amended section 134 is to read:
-Commissioner’s certificate
-81.Part XI Division 1 deleted
-Delete Part XI Division 1.
-82.Part XI Division 2 heading deleted
-Delete the heading to Part XI Division 2.
-83.Schedule amended
-(1) Delete the heading to the Schedule and the reference after it and insert:
-Schedule 1 — Qualifications for grant of licence and related matters
-[s. 27]
-(2) Delete the heading to the Schedule Division 1.
-(3) In the Schedule clause 3 delete “Such a licence” and insert:
-A licence granted to a person who is qualified under clause 1(c)
-(4) In the Schedule clause 4 delete “Such a licence” and insert:
-A licence applied for by a person who is qualified under clause 1(d)
-(5) Delete the Schedule Division 2.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-agent4(1), 92(5)(b)
+Defined termProvision(s)
+agent4(1), 92(5)
 agents code of conduct4(1)
 applicant131A
 appointed day4(1)
@@ -162,7 +82,7 @@ authorised financial institution67
 bank4(1)
 bank account67
 banker67
-business4(1)
+business4(1), 4(1)
 business agent4(1)
 business day67
 business sales representative4(1)
@@ -191,7 +111,6 @@ licence4(1)
 licensed4(1)
 licensee4(1)
 member4(1)
-metropolitan regionSch. cl. 8(4)
 party23C(7)
 person aggrieved23(2)
 real estate4(1)
@@ -212,7 +131,7 @@ separate account67
 settlement61(4a)
 specified159(6)
 strata company4(1)
-subsection103(1)(d)
+subsection103(1)
 supervisor4(1)
 tenancy61A(3)
 tenant61A(3)
@@ -221,6 +140,6 @@ transitional matter159(2)
 Treasurer4(1)
 Treasury4(1)
 triennial certificate4(1)
-trust account92(5)(a)
+trust account92(5)
 trust accounts67
 year67

@@ -32,10 +32,7 @@ Residential Tenancies Amendment Act 2011 | 60 of 2011 | 14 Dec 2011 | s. 1 and 2
 Reprint 5: The Residential Tenancies Act 1987 as at 19 Jul 2013 (includes amendments listed above)
 Dog Amendment Act 2013 Pt. 3 | 18 of 2013 | 29 Oct 2013 | 1 Nov 2013 (see s. 2(b) and Gazette 31 Oct 2013 p. 4829)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 5 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Consumer Protection Legislation Amendment Act 2014 Pt. 12 | 23 of 2014 | 9 Oct 2014 | To be proclaimed (see s. 2(b))
+Consumer Protection Legislation Amendment Act 2014 Pt. 12 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
 The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
@@ -44,23 +41,6 @@ The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
 The Real Estate Legislation Amendment Act 1995 s. 46 and 52 were purported to be proclaimed on 1 January 1997 in Gazette 25 June 1996 p. 2902, but the proclamation was revoked before it came into force — see Gazette 6 September 1996 p. 4405.
 The Taxation Administration (Consequential Provisions) Act 2002 s. 3 and 4 and Pt. 4 are transitional provisions that are of no further effect.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 is a transitional provision that is of no further effect.
-On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment Act 2014 Pt. 12 had not come into operation. It reads as follows:
-Part 12 — Residential Tenancies Act 1987 amended
-86.Act amended
-This Part amends the Residential Tenancies Act 1987.
-87.Section 3 amended
-In section 3 delete the definition of bond administrator and insert:
-bond administrator means the chief executive officer of the Department;
-88.Section 31B replaced
-Delete section 31B and insert:
-31B.Increase in rent after renegotiating lease
-(1) Subsection (2) has effect if —
-(a) a residential tenancy agreement creates a tenancy for a fixed term (the former agreement); and
-(b) the parties enter into a new residential tenancy agreement in relation to the same premises (the new agreement) that is to commence immediately after the end of the term of the former agreement, whether under the terms of the agreement or under section 76C.
-(2) The tenant cannot be required under the new agreement to pay an amount of rent, in respect of the first 30 days of the new agreement, that is more than the amount that would have been payable under the former agreement if the former agreement had continued to have effect during that period.
-89.Section 31 amended
-In section 31(1) delete “section 30,” and insert:
-section 30 or 31A,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -84,7 +64,7 @@ executive officer7A(3)
 existing agreement71H
 expiry day3
 first tenant17A(1)
-former agreement31B(a)
+former agreement31B(1)(a)
 goods79(1A)
 GST49A(1)
 Housing Authority71A
@@ -97,7 +77,7 @@ list82A
 Minister for Housing71A
 minor59A(1)
 national privacy principles82K(1)
-new agreement31B(b)
+new agreement31B(1)(b)
 notice70A(1)
 notice to vacate81A(1)
 out-of-date82A
