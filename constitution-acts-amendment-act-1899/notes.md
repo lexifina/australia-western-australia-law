@@ -277,12 +277,12 @@ Reprint 19: The Constitution Acts Amendment Act 1899 as at 12 Jul 2013 (includes
 Minerals Research Institute of Western Australia Act 2013 s. 76 | 23 of 2013 | 18 Dec 2013 | 1 Feb 2014 (see s. 2(b) and Gazette 14 Jan 2014 p. 43)
 Electricity Corporations Amendment Act 2013 s. 37 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Ports Legislation Amendment Act 2014 s. 44 | 9 of 2014 | 20 May 2014 | s. 44(1) and (3)-(5): 1 Jul 2014 (see s. 2(1)(c) and Gazette 20 Jun 2014 p. 2023); s. 44(2): 1 Oct 2014 (see s. 2(1)(c) and Gazette 19 Sep 2014 p. 3329)
+Consumer Protection Legislation Amendment Act 2014 Pt. 13 Div. 2 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Medicines and Poisons Act 2014 s. 183 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-Consumer Protection Legislation Amendment Act 2014 Pt. 13 Div. 2 | 23 of 2014 | 9 Oct 2014 | To be proclaimed (see s. 2(b))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 4 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
@@ -382,13 +382,7 @@ On the date as at which this compilation was prepared, the Medicines and Poisons
 183.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete the item relating to The Poisons Advisory Committee.
-On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment Act 2014 Pt. 13 Div. 2 had not come into operation. It reads as follows:
-Part 13 — Retail Trading Hours Act 1987 amended
-Division 2 — Consequential amendment to Constitution Acts Amendment Act 1899
-95.Act amended
-This Division amends the Constitution Acts Amendment Act 1899.
-96.Schedule V amended
-In Schedule V Part 3 delete the item relating to the Retail Shops Advisory Committee.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 4 had not come into operation. It reads as follows:
 Part 4 — Amendments to other Acts
 Division 4 — Other Acts amended

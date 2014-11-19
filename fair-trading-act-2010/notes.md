@@ -7,6 +7,7 @@ Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act
 Acts Amendment (Fair Trading) Act 2010 Pt. 2 | 58 of 2010 | 8 Dec 2010 | 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
 Reprint 1: The Fair Trading Act 2010 as at 3 Feb 2012 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
 Fair Trading Amendment Act 2013 | 11 of 2013 | 4 Oct 2013 | s. 1 and 2: 4 Oct 2013 (see s. 2(a)); Act other than s. 1 and 2: 30 Nov 2013 (see s. 2(b) and Gazette 29 Nov 2013 p. 5455)
+Consumer Protection Legislation Amendment Act 2014 Pt. 4 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 1aaThe Fair Trading (Permitted Calling Hours) Regulations 2014 r. 4 and 5 read as follows:
 4.Operation of section 73(1) altered
 Delete section 73(1)(c)(ii) and insert:
@@ -21,7 +22,6 @@ Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 21 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Medicines and Poisons Act 2014 s. 185 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Travel Agents Amendment and Expiry Act 2014 s. 8 | 21 of 2014 | 29 Aug 2014 | Operative on commencement after the day on which the Travel Agents Act 1985 expires under s. 61(1) of that Act as amended by s. 7 of this Act (see s. 2(c))
-Consumer Protection Legislation Amendment Act 2014 Pt. 4 | 23 of 2014 | 9 Oct 2014 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 (as amended by the Acts Amendment (Fair Trading) Act 2010 s. 192(7)) had not come into operation. It reads as follows:
 83.Fair Trading Act 2010 amended
@@ -51,30 +51,6 @@ On the date as at which this compilation was prepared, the Travel Agents Amendme
 8.Fair Trading Act 2010 amended
 (1) This section amends the Fair Trading Act 2010.
 (2) In Schedule 2 delete “Travel Agents Act 1985”.
-On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment Act 2014 Pt. 4 had not come into operation. It reads as follows:
-Part 4 — Fair Trading Act 2010 amended
-9.Act amended
-This Part amends the Fair Trading Act 2010.
-10.Part 6 Division 1 heading replaced
-Delete the heading to Part 6 Division 1 and insert:
-Division 1 — Preliminary
-11.Section 64A inserted
-At the end of Part 6 Division 1 insert:
-64A.Authorised persons cannot be public officers under Criminal Investigation Act 2006
-The office held by an authorised person cannot be prescribed by an Act or regulations under the Criminal Investigation Act 2006 section 9(1)(a).
-12.Section 83 amended
-After section 83(3) insert:
-(4) If an application under subsection (1) consists of or includes a claim that legal professional privilege applies to the thing seized, the State Administrative Tribunal hearing the application is to be constituted by —
-(a) a judicial member; and
-(b) such other members, if any, as the President considers appropriate.
-(5) In subsection (4), each of these terms has the meaning given in the State Administrative Tribunal Act 2004 section 3(1) —
-judicial member
-President
-13.Section 112 amended
-(1) In section 112(1) insert in alphabetical order:
-regulated person has the meaning given in section 88A.
-(2) In section 112(1) in the definition of personal information delete “person.” and insert:
-person;
 ## Note — Australian Consumer Law (WA) text
 [This note is not part of the Fair Trading Act 2010 (the Act). Section 19(1) of the Act provides that the Australian Consumer Law text that, under section 19(2) of the Act, applies as the Australian Consumer Law (WA) consists of:
 (a)Schedule 2 to the Competition and Consumer Act 2010 (Commonwealth) (the Cwth Act), as in force on 1 January 2013 (but as modified by section 36 of the Act); and
@@ -3797,17 +3773,17 @@ Regulations may also be made under the Fair Trading Act 2010 section 116(3) that
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fair Trading (Permitted Calling Hours) Regulations 2014 r. 4 and 5 as published in Gazette 17 Apr 2014 | 18 Apr 2014 (see r. 2(b))
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 access information75(1)
 acquire6
 application law17(1)
 applied regulation15(2A)
 assistant67(1)
 Australian Consumer Law17(1)
-Australian Consumer Law text17(1)
 Australian Consumer Law (WA)6, 17(1)
+Australian Consumer Law text17(1)
 authorisation88A
 authorised person63
 business6
@@ -3825,9 +3801,10 @@ instrument17(1)
 interest6
 Intergovernmental Agreement17(1)
 investigator 63
+judicial member83(5)
 jurisdiction17(1)
 law17(1)
-liability114(1)(b), 115(1)
+liability114(1), 115(1)
 modifications17(1)
 motor vehicle63
 other jurisdiction27
@@ -3835,14 +3812,15 @@ participating jurisdiction17(1), 27
 person A95(4), 99(2)
 person B95(4)
 personal information112(1)
-principal111(1) and (2)
+President83(5)
+principal111(1), 111(2)
 provision6
 publish62(1)
 registration Act88A
 regulated activity88A
-regulated person88A
+regulated person88A, 112(1)
 regulator22
-renewal day38(2)(a)
+renewal day38(2)
 respondent106(4)
 re-supply6
 services6, 8(1)
@@ -3855,4 +3833,4 @@ Territory17(1)
 this jurisdiction17(1)
 trade or commerce6
 transitional matter117(2)
-variation day38(2)(b)
+variation day38(2)

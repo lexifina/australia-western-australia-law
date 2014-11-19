@@ -51,10 +51,7 @@ Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt.
 Reprint 6: The Settlement Agents Act 1981 as at 11 Nov 2011 (includes amendments listed above except those in the Personal Property Securities (Consequential Repeals and Amendments) Act 2011)
 Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 4 | 6 of 2012 | 10 Apr 2012 | 28 May 2012 (see s. 2(c) and Cwlth Gazette 19 Apr 2012 ref. F2012L00891)
 Electronic Conveyancing Act 2014 Pt. 7 | 2 of 2014 | 24 Mar 2014 | 3 Jun 2014 (see s. 2(c) and Gazette 30 May 2014 p. 1679)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Consumer Protection Legislation Amendment Act 2014 Pt. 14 | 23 of 2014 | 9 Oct 2014 | To be proclaimed (see s. 2(b))
+Consumer Protection Legislation Amendment Act 2014 Pt. 14 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 The appointed day is 1 Nov 1982, see Gazette 29 Oct 1982 p. 4322.
 The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 7(2) and (3) read as follows:
 (2) A person may give notice of a claim under section 93(2) as amended by this section even if the time within which that notice was to be given under that section before that amendment had expired.
@@ -64,79 +61,16 @@ Repealed by the Land Administration Act 1997 s. 281.
 The Real Estate Legislation Amendment Act 1995 s. 65(2) and 87 are saving and transitional provisions that are of no further effect.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 contain validation provisions for certain acts and omissions occurring before 23 Apr 2003.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment Act 2014 Pt. 14 had not come into operation. It reads as follows:
-Part 14 — Settlement Agents Act 1981 amended
-97.Act amended
-This Part amends the Settlement Agents Act 1981.
-98.Section 23 amended
-(1) In section 23(1) delete “of the Commissioner”.
-(2) In section 23(2) in the definition of person aggrieved:
-(a) in paragraph (a) delete “or objects to”;
-(b) in paragraph (c) delete “Commissioner” and insert:
-chief executive officer
-(3) In section 23(2) in the definition of reviewable decision:
-(a) in paragraph (a) after “decision” (1st occurrence) insert:
-of the Commissioner
-(b) in paragraph (a)(ii) delete “or objection”;
-(c) in paragraph (b) after “decision” insert:
-of the Commissioner
-(d) in paragraph (c) after “decision” insert:
-of the chief executive officer
-(4) After section 23(2) insert:
-(3) If a decision under section 93 or 95 has not been made before the commencement of the Consumer Protection Legislation Amendment Act 2014 section 98 in respect of a claim made before 1 July 2011, the decision —
-(a) may be made on or after that commencement by the Commissioner; and
-(b) is taken to be a reviewable decision for the purposes of this section.
-(4) A decision under section 93 or 95 made by the chief executive officer before the commencement of the Consumer Protection Legislation Amendment Act 2014 section 98 is taken to be a reviewable decision made immediately after that commencement for the purposes of this section.
-(5) The amendments made to this section by the Consumer Protection Legislation Amendment Act 2014 section 98 do not affect the review of a reviewable decision by the State Administrative Tribunal that began, but was not completed, before the commencement of that section.
-99.Section 24 amended
-Delete section 24(2).
-100.Section 25 deleted
-Delete section 25.
-101.Section 31 amended
-Delete section 31(2a) and insert:
-(2A) The Commissioner may refuse to renew a licensee’s triennial certificate if —
-(a) the Commissioner is satisfied that section 27(1)(b), (c), (d) or (e), 28(1)(a), (b), (c) or (d) or 29(1)(a), (b), (c) or (d), as is relevant to the licensee, does not apply, or no longer applies, in relation to the licensee; or
-(b) the licensee has not met prescribed educational requirements.
-102.Section 34A amended
-In section 34A(1) delete “there is no objection in respect of a licence and”.
-Note:The heading to amended section 34A is to read:
-Commissioner may grant licence or triennial certificate without notice to applicant
-103.Section 36 amended
-In section 36(2):
-(a) after paragraph (a) insert:
-(ba) where the licensee is a firm, of any change in the persons by whom or by which it is constituted;
-(b) in paragraph (b) before “the licensee” insert:
-where
-104.Section 41A inserted
-After section 40 insert:
-41A.Duplicate licence or triennial certificate
-If a licence or triennial certificate has been lost or destroyed, the Commissioner may issue a duplicate licence or duplicate triennial certificate on payment by the holder of the prescribed fee.
-105.Section 93 amended
-After section 93(1) insert:
-(2A) For the purposes of a claim against the Account, the reference in subsection (1) to any period when the licensee was the holder of a current triennial certificate includes a period when the licensee was not the holder of a current triennial certificate if the chief executive officer considers that it is just and reasonable in the circumstances of the claim.
-106.Section 102AA inserted
-At the end of Part V insert:
-102AA.Commissioner may investigate claims against Fidelity Account
-(1) Without limiting section 22, the Commissioner may, at and in accordance with the request of the chief executive officer, make an investigation or inquiry under the Fair Trading Act 2010 Part 6 in relation to a claim against the Fidelity Account.
-(2) For the purposes of the investigation or inquiry, the administration of the Fidelity Account is taken to be a function of the Commissioner.
-(3) The Commissioner must, as soon as practicable after completing the investigation or inquiry, prepare a report on the findings of the investigation or inquiry and give it to the chief executive officer.
-107.Section 102C amended
-Delete section 102C(e) and insert:
-(e) all other expenditure lawfully incurred by the Commissioner in the performance of the Commissioner’s functions under this Act or the Commissioner’s functions under the Fair Trading Act 2010 section 57A that are performed for the purposes of this Act.
-108.Section 111 amended
-Delete section 111(1) and (2).
-Note:The heading to amended section 111 is to read:
-Commissioner’s certificate
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Account3(1)
 agent49(5b)
 appointed day3(1), 26(2)
 approved3(1)
 auditor3(1)
 authorised financial institution48
-AuthoritySch. 2 cl. 1(1)(a)
+AuthoritySch. 2 cl. 1(1)
 bank3(1)
 bank account48
 banker48
@@ -145,7 +79,7 @@ business3(1)
 business day48
 business licenceSch. 1 cl. 6
 business settlement agent3(1)
-business transaction 3(1)
+business transaction3(1)
 code of conduct3(1)
 commencement day124
 Commissioner3(1)
@@ -177,7 +111,7 @@ reward3(1)
 right124
 separate account48
 settlement3(1)
-settlement agent3(1), 4(1), 73(5)(b)
+settlement agent3(1), 4(1), 73(5)
 settlement agents’ code of conduct3(1)
 specified135(6)
 supervisor3(1)
@@ -186,7 +120,7 @@ transitional matter135(2)
 Treasurer3(1)
 Treasury3(1)
 triennial certificate3(1)
-trust account73(5)(a)
+trust account73(5)
 trust accounts48
 trustee company3(1)
 vendor49(5b)

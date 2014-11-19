@@ -21,46 +21,14 @@ Reprint 3: The Land Valuers Licensing Act 1978 as at 17 Jul 2009 (includes amend
 Acts Amendment (Bankruptcy) Act 2009 s. 49 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Acts Amendment (Fair Trading) Act 2010 Pt. 3 | 58 of 2010 | 8 Dec 2010 | 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
 Reprint 4: The Land Valuers Licensing Act 1978 as at 14 Oct 2011 (includes amendments listed above) (correction to reprint in Gazette 24 Aug 2012 p. 3959)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Consumer Protection Legislation Amendment Act 2014 Pt. 5 | 23 of 2014 | 9 Oct 2014 | To be proclaimed (see s. 2(b))
+Consumer Protection Legislation Amendment Act 2014 Pt. 5 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 The Land Valuers Licensing Amendment Act 1984 s. 4(2) and 6(2) are transitional provisions that are of no further effect.
 The Business Licensing Amendment Act 1995 s. 32 is a transitional provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82, to the extent it amends this Act, was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 78(2)(b).
-On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment Act 2014 Pt. 5 had not come into operation. It reads as follows:
-Part 5 — Land Valuers Licensing Act 1978 amended
-14.Act amended
-This Part amends the Land Valuers Licensing Act 1978.
-15.Section 16 amended
-(1) In section 16(2) in the definition of person aggrieved delete “or objects to”.
-(2) In section 16(2) in the definition of reviewable decision delete “or objection”.
-16.Section 17 amended
-Delete section 17(2).
-17.Section 18 deleted
-Delete section 18.
-18.Section 19A amended
-In section 19A(1) delete “(as long as there is no objection)”.
-Note:The heading to amended section 19A is to read:
-Commissioner may grant licence without notice to applicant
-19.Section 22 amended
-After section 22(3) insert:
-(4) Section 19 applies to an application under this section as if it were an application for a licence under section 17.
-20.Section 23A inserted
-At the end of Part III insert:
-23A.Duplicate licence
-If a licence has been lost or destroyed, the Commissioner may issue a duplicate licence on payment by the holder of the prescribed fee.
-21.Section 23 amended
-In section 23(2) delete “an officer of the firm or corporation” and insert:
-a person
-22.Section 30 amended
-Delete section 30(1) and (2).
-Note:The heading to amended section 30 is to read:
-Commissioner’s certificate
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 approved4
 Australian Property Institute4
 commencement day37
@@ -78,7 +46,7 @@ licensed valuer4
 licensed valuers code of conduct4
 officer4
 person aggrieved16(2)
-residual assets44(b)
+residual assets44
 reviewable decision16(2)
 right37
 specified46(6)

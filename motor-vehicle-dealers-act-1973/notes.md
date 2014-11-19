@@ -38,12 +38,12 @@ Acts Amendment (Bankruptcy) Act 2009 s. 57 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Acts Amendment (Fair Trading) Act 2010 Pt. 4 | 58 of 2010 | 8 Dec 2010 | s. 36: 1 Jan 2011 (see s. 2(b)(ii) and Gazette 24 Dec 2010 p. 6805); s. 37: 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805); Pt. 4 (other than s. 36 and 37): 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 7 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Reprint 6: The Motor Vehicle Dealers Act 1973 as at 6 Jan 2012 (includes amendments listed above except those in the Personal Property Securities (Consequential Repeals and Amendments) Act 2011)
+Consumer Protection Legislation Amendment Act 2014 Pt. 7 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 | 73 of 2003 | 15 Dec 2003 | To be proclaimed (see s. 2)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 35 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-Consumer Protection Legislation Amendment Act 2014 Pt. 7 | 23 of 2014 | 9 Oct 2014 | To be proclaimed (see s. 2(b))
 The Motor Vehicle Dealers Act 1973 s. 40 did not come into operation and was repealed by the Motor Vehicle Dealers Amendment Act 2002 s. 62.
 The Business Licensing Amendment Act 1995 s. 38 is a transitional provision that is of no further effect.
 The Motor Vehicle Dealers Amendment Act 2002 Pt. 7 reads as follows:
@@ -168,53 +168,15 @@ granted in respect of the vehicle under the Road Traffic (Vehicles) Act 2012.
 145.Section 33 amended
 In section 33(3)(e) delete “where the vehicle is not then licensed under the Road Traffic Act 1974,” and insert:
 if a licence has not been granted in respect of the vehicle under the Road Traffic (Vehicles) Act 2012,
-On the date as at which this compilation was prepared, the Consumer Protection Legislation Amendment Act 2014 Pt. 7 had not come into operation. It reads as follows:
-Part 7 — Motor Vehicle Dealers Act 1973 amended
-25.Act amended
-This Part amends the Motor Vehicle Dealers Act 1973.
-26.Section 5 amended
-In section 5(1) delete the definition of authorised officer and insert:
-authorised officer means an authorised person as defined in the Fair Trading Act 2010 section 63;
-27.Section 20 amended
-In section 20(3) delete “no longer” and insert:
-do not
-28.Section 20E amended
-(1) Delete section 20E(1) and (2) and insert:
-(1) An application for a dealer’s licence must specify each of the premises at which the applicant proposes to carry on business under the authority of the licence.
-(2) Delete section 20E(4).
-29.Section 20FA inserted
-After section 20E insert:
-20FA.Authorisation of premises does not affect planning laws
-An authorisation given by the Commissioner under section 20E in respect of any premises does not affect any relevant requirements of written laws relating to planning that apply to those premises.
-30.Section 20F replaced
-Delete section 20F and insert:
-20F.Changes in authorised premises
-The Commissioner may at any time approve an alteration or addition to the particulars referred to in section 20E(5) on —
-(a) the application of the holder of a licence; and
-(b) payment of the prescribed fee.
-31.Section 21A amended
-(1) Delete section 21A(1) and (2) and insert:
-(1) An application for registration under section 17B as a car market operator must specify each of the premises the applicant proposes to provide for a car market under the authority of the registration.
-(2) Delete section 21A(4).
-32.Section 21BA inserted
-After section 21A insert:
-21BA.Authorisation of premises does not affect planning laws
-An authorisation given by the Commissioner under section 21A in respect of any premises does not affect any relevant requirements of written laws relating to planning that apply to those premises.
-33.Section 21B replaced
-Delete section 21B and insert:
-21B.Changes in authorised premises
-The Commissioner may at any time approve an alteration or addition to the particulars referred to in section 21A(5) on —
-(a) the application of the registered person; and
-(b) payment of the prescribed fee.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
+“built date” shown on the vehicle34F(4)
 accused52(3)
 approved5(1)
 authorisation5(1)
 authorised officer5(1)
-authorised premises5(1), 27(1a)(b)
-“built date” shown on the vehicle34F(4)
+authorised premises5(1), 27(1a)
 buying or selling5(1)
 camper van5(4)
 car hire operator5(1)
@@ -256,11 +218,11 @@ prescribed amount45(4)
 registered company auditor32I(2)
 relevant maximum fine20B(3)
 relevant person17C(4)
-residual assets63(b)
+residual assets63
 reviewable decision22(2)
 right57
 sale5(1)
-salesperson5(1), 27(1a)(a)
+salesperson5(1), 27(1a)
 salesperson’s licence5(1)
 second-hand vehicle5(1a)
 section5(1)
@@ -274,8 +236,8 @@ trade owner5(1)
 trade-in32D(2)
 transitional matter65(2)
 trust account32A
-vehicle5(2) and (3), 34C(1)
-yard manager5(1), 27(1a)(a)
+vehicle5(2), 5(3), 34C(1)
+yard manager5(1), 27(1a)
 yard manager’s licence5(1)
 year of first registration5(1)
 year of manufacture5(1)
