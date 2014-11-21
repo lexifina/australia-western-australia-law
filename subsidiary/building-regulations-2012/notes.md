@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building Regulations 2012 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 21 November 2014 of the Building Regulations 2012 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Building Regulations 2012 | 13 Mar 2012 p. 1055-137 | r. 1 and 2: 13 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2012 (see r. 2(b) and Gazette 13 Mar 2012 p. 1033)
@@ -12,6 +12,8 @@ Building Amendment Regulations 2013 | 20 Aug 2013 p. 3822 | r. 1 and 2: 20 Aug 2
 Building Amendment Regulations 2014 | 24 Apr 2014 p. 1135-41 | r. 1 and 2: 24 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Apr 2014 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2014 | 17 Jun 2014 p. 1957-8 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Building Amendment Regulations (No. 3) 2014 | 27 Jun 2014 p. 2308-9 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i))
+Reprint 2: The Building Regulations 2012 as at 21 Nov 2014 (includes amendments listed above)
+The Building Act 2011 s. 153 came into operation on 2 April 2012.
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -50,21 +52,22 @@ new owner57(1)
 owner10(2A), 55(1)
 performance requirement3
 pergolaSch. 4 cl. 2
-person responsible54A
+person responsible54A(1)
 person with a disability51(1)
 prior owner57(1)
 private swimming pool3
 public place44A
-relevant building standards48A
+relevant building standards48A(1)
 relevant componentsSch. 1 cl. 1
 relevant day60(1)
 repeal day54(1)
 repealed provisions54(1)
 residential tenancy agreement55(1)
-road44A safety measures48A
+road 44A
+safety measures48A(1)
 section3
 Table41(2)
 townsite3
 unit55(1)
-work54A
+work54A(1)
 young child48
