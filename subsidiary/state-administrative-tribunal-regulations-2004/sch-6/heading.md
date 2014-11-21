@@ -5,7 +5,7 @@ Associations Incorporation Act 1987 s. 4(6), 7(2), 8(2), 9(3), 18(4) or 19(3)
 Cat Act 2011 s. 71 or 72
 Commercial Tenancy (Retail Shops) Agreements Act 1985 s. 6(1)(b), 6A(1)(b) or (3), 9(3), 11(5), 12(1)(b), 12A(4), 12B(4), 12C(2), 12D(3), 13(3)(a), (7) or (7b), 13A(2) or (3), 14, 14A(3), 15F(1), 16(1) or 27(3)(b)
 Credit Act 1984 s. 21(2), 24(1) or (11), 28, 32(1) or (2), 37(8), 47(1), 62(3), 74(5), 76(3), 81(1)(d), 85(1), 85A(1), 85B(3), 86(1), 86A(1), 93(3), 95(1), 97, 102(4), 104(3), 106(2)(b) or (3), 107(8), 110(1), 111(1), 112(1)(a), 114(2)(b) or (7), 115(1) or (6), 116(7), 118, 139(4) or (6), 146(1) or 152
-Dog Act 1976 s. 16A(3), 17(1), 26(5), 27(7), 33F(6)(a) or (b), 33G(4)(a) or (b), 33H(5)(a) or (b), 33I(1)(a), (b), (c) or (d), or 40(4)
+Dog Act 1976 s. 16A(3), 17(1), 26(5), 27(7), 33F(6)(a) or (b), 33G(4)(a) or (b), 33H(5)(a) or (b), 33I(1)(a), (b), (c) or (d) or 40(4)
 Dog Regulations 2013 r. 13
 Fair Trading (Retirement Villages Interim Code) Regulations 2012 Sch. 1 cl. 5.8(2)
 First Home Owner Grant Act 2000 s. 31(1)
