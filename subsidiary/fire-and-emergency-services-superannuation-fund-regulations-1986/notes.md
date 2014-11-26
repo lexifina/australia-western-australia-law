@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 May 2014 of the Fire and Emergency Services (Superannuation Fund) Regulations 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fire and Emergency Services (Superannuation Fund) Regulations 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fire Brigades (Superannuation Fund) Regulations 1986 | 29 Oct 1986 p. 3991-4016 | 3 Nov 1986 (see r. 2 and Gazette 24 Oct 1986 p. 3938)
@@ -31,6 +31,7 @@ Fire and Emergency Services (Superannuation Fund) Amendment Regulations 2008 | 1
 Fire and Emergency Services (Superannuation Fund) Amendment Regulations 2009 | 21 Aug 2009 p. 3267-70 | r. 1 and 2: 21 Aug 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Aug 2009 (see r. 2(b))
 Fire and Emergency Services (Superannuation Fund) Amendment Regulations (No. 2) 2012 | 31 Oct 2012 p. 5245-9 | r. 1 and 2: 31 Oct 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2012 (see r. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Reprint 4: The Fire and Emergency Services (Superannuation Fund) Regulations 1986 as at 2 May 2014 (includes amendments listed above)
+Fire and Emergency Services (Superannuation Fund) Amendment Regulations 2014 | 25 Nov 2014 p. 4371-5 | r. 1 and 2: 25 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Nov 2014 (see r. 2(b))
 The Financial Administration and Audit Act 1985 was repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3. A reference in a written law to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
 Now known as the Fire and Emergency Services (Superannuation Fund) Regulations 1986; citation changed (see note under r. 1).
 The Fire Brigades (Superannuation Fund) Amendment Regulations 1988 r. 5 reads as follows:
@@ -69,7 +70,7 @@ last election23C(3)
 maximum benefit3(1)
 maximum percentage3(1)
 member3(1)
-member’s notional benefit14(1)(b)
+member’s notional benefit14(1)
 member’s notional defined benefit14A(4)
 nominator12C(1)
 non-C member3(1)
@@ -78,6 +79,7 @@ original rate7(3)
 original salary7(3a)
 partial and permanent disablement benefit3(1)
 partner3(1)
+payment period3(1)
 prescribed member41(1), 41A(1)
 preservation age3(1)
 previous superannuation fund3(1)
