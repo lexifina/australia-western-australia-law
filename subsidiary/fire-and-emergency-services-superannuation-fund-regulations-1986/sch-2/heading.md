@@ -19,4 +19,4 @@ or
 where —
 Mis the number of days in the member’s membership period up to the day before the member died;
 Fis the number of days from the day the member died to the day before the day that would have been the member’s 65th birthday.
-[Schedule 2 inserted in Gazette 23 Jul 1999 p. 3394; amended in Gazette 1 Apr 2008 p. 1279.]
+[Schedule 2 inserted: Gazette 23 Jul 1999 p. 3394; amended: Gazette 1 Apr 2008 p. 1279.]

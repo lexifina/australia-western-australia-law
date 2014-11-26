@@ -6,4 +6,4 @@ where —
 LSB is the benefit to be determined, (expressed in dollars);
 MB is the beneficiary’s maximum benefit (expressed in dollars); and
 iis the rate of interest (expressed as a percentage per annum) that is applicable on the date of payment of the beneficiary’s partial and permanent disablement benefit under a determination under regulation 23B(8).
-[Schedule 6A inserted in Gazette 17 Apr 1998 p. 2103.]
+[Schedule 6A inserted: Gazette 17 Apr 1998 p. 2103.]
