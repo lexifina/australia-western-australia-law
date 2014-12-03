@@ -23,6 +23,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 14 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 8 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
+Criminal Investigation Amendment Act 2014 s. 3-5 | 31 of 2014 | 3 Dec 2014 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 14 had not come into operation. It reads as follows:
 Division 14 — Criminal Investigation Act 2006 amended
 76.Act amended
@@ -49,6 +50,20 @@ This Subdivision amends the Criminal Investigation Act 2006.
 (ii) under the Mental Health Act 2014 section 157;
 (2) Delete section 142(8)(c)(ii) and insert:
 (ii) the Mental Health Act 2014 section 157; or
+On the date as at which this compilation was prepared, the Criminal Investigation Amendment Act 2014 s. 3-5 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Criminal Investigation Act 2006.
+4.Section 139 amended
+(1) In section 139(2) after “arrested suspect” insert:
+in custody
+(2) Delete section 139(3).
+5.Section 142 amended
+(1) In section 142(4), (5) and (6) delete “subsection (7).” and insert:
+subsections (7) and (8).
+(2) Delete section 142(7) and insert:
+(7) If it is decided to charge an arrested suspect with an offence and the suspect is not released unconditionally, the officer who has custody of the suspect must ensure the suspect is charged as soon as practicable and is dealt with —
+(a) under the Bail Act 1982 section 6; or
+(b) under the Mental Health Act 1996 section 196.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
