@@ -33,6 +33,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 33 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Mines Safety and Inspection Amendment Act 2014 Pt. 2 | 33 of 2014 | 3 Dec 2014 | To be proclaimed (see s. 2(b))
 The Industrial Relations Act 1988 (Commonwealth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 The amendment in the Coroners Act 1996 Sch. 1 it. 11 is not included because of an error in the reference to the provision to be amended. The amendment intended was made in the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 51.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 100 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(10).
@@ -73,18 +74,125 @@ This Division amends the Mines Safety and Inspection Act 1994.
 134.Section 4 amended
 In section 4(1) in the definition of mining operations paragraph (ea) delete “Road Traffic Act 1974; and” and insert:
 Road Traffic (Administration) Act 2008 section 4; and
-Defined Terms
+On the date as at which this compilation was prepared, the Mines Safety and Inspection Amendment Act 2014 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Mines Safety and Inspection Act 1994 amended
+3.Act amended
+This Part amends the Mines Safety and Inspection Act 1994.
+4.Section 4 amended
+In section 4(1) delete the definitions of:
+assistant inspector
+employee’s inspector
+5.Section 17 amended
+Delete section 17(2) and insert:
+(2) There are to be 2 categories of inspectors, namely, district inspectors and special inspectors.
+6.Section 18 amended
+Delete section 18(2).
+7.Sections 19 and 20 deleted
+Delete sections 19 and 20.
+8.Section 21 amended
+(1) Delete section 21(2).
+(2) In section 21(3) delete “inspector or assistant inspector, as the case may require.” and insert:
+inspector.
+(3) In section 21(4) delete “inspector, special inspector, employee’s inspector, or assistant” and insert:
+inspector or special
+9.Section 25 deleted
+Delete section 25.
+10.Section 26 amended
+In section 26(1), (2) and (4) delete “inspector, an assistant inspector or a person assisting such” and insert:
+inspector or a person assisting
+11.Section 53 amended
+In section 53(1)(g) delete “employees, employers, and employee’s inspectors in accordance with section 25,” and insert:
+employees and employers
+12.Section 77 amended
+In section 77(2) delete “an assistant inspector,”.
+13.Section 87 amended
+In section 87(4):
+(a) delete “inspector, an assistant inspector,” and insert:
+inspector
+(b) delete “inspector, assistant inspector,” (each occurrence) and insert:
+inspector
+14.Section 104 amended
+In section 104(1)(a) delete “and assistant inspectors”.
+15.Section 108 deleted
+Delete section 108.
+16.Schedule 1 deleted
+Delete Schedule 1.
+17.Various references to “or assistant inspector” deleted
+In the provisions listed in the Table delete “or assistant inspector”.
+Table
+Provision | Provision
+s. 21(3) (1st and 2nd occurrences) | s. 21(4) (2nd occurrence)
+s. 21(5) (each occurrence) | s. 23(1) (each occurrence)
+s. 23(2) and (3) | s. 26(1)(a), (2) and (4)(b)
+s. 27(1) (each occurrence) | s. 28(1) (each occurrence)
+s. 29(1) (each occurrence) | s. 29(2)
+s. 30(2) and (3)(a) | s. 31(a)
+s. 31AA(1)(a) | s. 31AC(1) and (2)(b)
+s. 31AD(1) and (2)(b) | s. 31AE
+s. 31AF(a) | s. 31AH(2) (each occurrence)
+s. 31AH(3) | s. 31AI(a)
+s. 31BD(1) | s. 98(1)(f)
+s. 101(b)
+18.Various references to “or an assistant inspector” deleted
+In the provisions listed in the Table delete “or an assistant inspector”.
+Table
+Provision | Provision
+s. 21(3) | s. 30(1)
+s. 31AB | s. 31AH(1)
+relevant parties67E(1)
+relevant procedure70(2)
+relevant provision33A(1)
+repealed Acts4(1)
+residential premises15D(1)
+review notice31BN(1)
+reviewable decision102AA(1)
+rise4(1)
+risk4(1)
+rock4(1)
+safety and health committee4(1)
+safety and health magistrate4(1)
+safety and health representative4(1), 25(1a), 70(2), 72(2aa)
+safety and health representative for a mine62A(2)
+safety and health representative for the mine62A(2), 77(3)
+safety and health representative of that mine21(5a)
+scheme55B(2)
+self-employed person4(1)
+senior inspector4(1)
+shaft4(1)
+special inspector4(1)
+specified6A(1), 101H(1), 104(3)
+specified mine101H(1)
+State coal mining engineer4(1)
+State mining engineer4(1)
+superior officer99A(1)
+supervisor4(1)
+supply4(1)
+the mine53(4)
+to mine4(1)
+trade union4(1)
+Tribunal4(1)
+tunnel4(1)
+underground4(1)
+underground manager4(1)
+underground superintendent4(1)
+visitor102A(2)(a)
+winding engine4(1)
+winze4(1)
+worker15B(1)(a), 15C(1)
+workmen’s inspector4(1)
+workplace4(1), 6A(1)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 a mine53(4)
 additional employees55C(1)
-adit4(1)
+adit4(1), 4(1)
 agent15C(1)
 allowed period62A(1)
 alternate registered manager4(1)
 apprentice4(1)
 assistant inspector4(1)
-association32(6), 32A(3)(a)
+association32(6), 32A(3)
 Australian Standard4(1)
 Australian/New Zealand Standard4(1)
 authorised person102A(1)
@@ -124,7 +232,7 @@ hoist4(1)
 import4(1)
 improvement notice4(1)
 incline4(1)
-inspector4(1), 21(1)(i), 26(5)
+inspector4(1), 21(1), 26(5)
 manager4(1), 99(2), 99A(1)
 managerial officer102A(1)
 mine4(1), 15F(1), 63(1), 67B(1)
@@ -132,13 +240,13 @@ mineral4(1)
 Mines Survey Board4(1)
 Mining Industry Advisory Committee4(1)
 mining operations4(1), 42(5)
-offender101C(1)(a)
+offender101C(1)
 officer100A(1)
 open cut4(1)
 open pit4(1)
 other responsible person31AR(1)
-Part VIB102(2)(c)
-person mentioned in subsection (1)(a)15B(1)(a)
+Part VIB102(2)
+person mentioned in subsection (1)(a)15B(1)
 plan4(1)
 plant4(1)
 practicable4(1)
@@ -195,9 +303,9 @@ tunnel4(1)
 underground4(1)
 underground manager4(1)
 underground superintendent4(1)
-visitor102A(2)(a)
+visitor102A(2)
 winding engine4(1)
 winze4(1)
-worker15B(1)(a), 15C(1)
+worker15B(1), 15C(1)
 workmen’s inspector4(1)
 workplace4(1), 6A(1)
