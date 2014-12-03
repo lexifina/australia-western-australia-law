@@ -54,6 +54,7 @@ Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclai
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 54 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 24 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
+Custodial Legislation (Officers Discipline) Amendment Act 2014 Pt. 3 | 29 of 2014 | 3 Dec 2014 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -140,6 +141,276 @@ This Subdivision amends the Young Offenders Act 1994.
 90.Section 179 amended
 In section 179(1) delete the definition of medical treatment and insert:
 medical treatment includes psychiatric treatment, which is treatment as defined in the Mental Health Act 2014 section 4.
+On the date as at which this compilation was prepared, the Custodial Legislation (Officers Discipline) Amendment Act 2014 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Young Offenders Act 1994 amended
+10.Act amended
+This Part amends the Young Offenders Act 1994.
+11.Section 3 amended
+In section 3 insert in alphabetical order:
+custodial officer means —
+(a)a superintendent, or other officer with custodial functions, appointed under section 11(1); or
+(b)a person who is appointed under section 11(1a)(a) as a custodial officer;
+remove, in relation to an officer or other person appointed under section 11(1), means terminate the employment of the officer or person;
+12.Part 3 Division 1 heading replaced
+Delete the heading to Part 3 Division 1 and insert:
+Division 1 — Chief executive officer
+13.Part 3 Division 2 heading inserted
+After section 10 insert:
+Division 2 — Other officers and employees
+14.Section 11 amended
+(1) In section 11(1a):
+(a) in paragraph (a) delete “functions (group workers); and” and insert:
+functions; and
+(b) delete “terminate the appointment of” and insert:
+remove
+(2) Delete section 11(1b)(b) and insert:
+(b) may be subject to —
+(i) disciplinary proceedings provided for in the regulations; or
+(ii) if regulations are made under subsection (1C) — disciplinary proceedings under the Public Sector Management Act 1994 Part 5.
+(3) After section 11(1b) insert:
+(1C) The regulations may prescribe custodial officers for the purposes of the Public Sector Management Act 1994 section 76(1)(b).
+15.Section 11B amended
+In section 11B delete “person who is appointed under section 11(1) or (1a) as a”.
+Note:The heading to amended section 11B is to read:
+Powers and duties of custodial officers
+16.Part 3 Division 3 inserted
+After section 11B insert:
+Division 3 — Removal of custodial officers due to loss of confidence
+Subdivision 1 — Preliminary
+11CA.Terms used
+In this Division, unless the contrary intention appears —
+appeal means an appeal under section 11CH;
+appellant means a person who institutes an appeal;
+Chief Commissioner has the same meaning as in the Industrial Relations Act 1979;
+decision notice has the meaning given in section 11CD(3)(b);
+industrial commissioner means a commissioner as defined in the Industrial Relations Act 1979 section 7(1);
+maintenance payment has the meaning given in section 11CE(1);
+maintenance period has the meaning given in section 11CE(1);
+new evidence, on an appeal against the removal of a custodial officer, means evidence other than evidence of any of the following —
+(a)a document or other material that was examined and taken into account by the chief executive officer in making the removal decision;
+(b)the notice given under section 11CD(1);
+(c)a written submission made to the chief executive officer by the custodial officer under section 11CD(2);
+(d)a decision notice;
+(e)a notification of the removal;
+removal action, in relation to a custodial officer, means the removal of the custodial officer under section 11CC;
+removal decision means a decision of the chief executive officer to take removal action;
+suitability to continue as a custodial officer means suitability to continue as a custodial officer having regard to the officer’s integrity, honesty, competence, performance or conduct;
+WAIRC means The Western Australian Industrial Relations Commission continued and constituted under the Industrial Relations Act 1979.
+Subdivision 2 — Removal of custodial officers
+11CB.Application of Subdivision
+(1) This Subdivision applies if —
+(a) the chief executive officer does not have confidence in a custodial officer’s suitability to continue as a custodial officer; and
+(b) the chief executive officer —
+(i) decides not to take, or continue to take, disciplinary proceedings referred to in section 11(1b)(b) against a custodial officer; and
+(ii) decides instead to take removal action in relation to the custodial officer.
+(2) If regulations are made under section 11(1C), this Subdivision applies despite the Public Sector Management Act 1994 section 76(2).
+11CC.Removal action
+(1) If the chief executive officer does not have confidence in a custodial officer’s suitability to continue as a custodial officer, the chief executive officer may remove the custodial officer.
+(2) Subsection (1) applies in addition to, and does not limit the operation of, the Public Sector Management Act 1994.
+(3) The chief executive officer may conduct any necessary investigation to determine a custodial officer’s suitability to continue as a custodial officer.
+(4) For the purpose of the investigation the chief executive officer may require the custodial officer to do all or any of the following —
+(a) provide the chief executive officer with any information or answer any question that the chief executive officer requires;
+(b) produce to the chief executive officer any document in the custody or under the control of the custodial officer.
+(5) The custodial officer is not excused from giving information, answering any question or producing a document when required to do so under subsection (4) on the ground that the information, answer or document might —
+(a) incriminate the custodial officer; or
+(b) render the custodial officer liable to a disciplinary measure under section 11 or removal under this Division.
+(6) The information, answer or document is not admissible in evidence against the custodial officer in any criminal proceedings except in proceedings for an offence under subsection (7).
+(7) A custodial officer must not, in response to a requirement under subsection (4) —
+(a) fail or refuse to provide the required information or answer or produce the required document; or
+(b) give information or an answer that is false or misleading in a material particular; or
+(c) produce a document that the custodial officer knows is false or misleading in a material particular —
+(i) without indicating that the document is false or misleading and, to the extent the custodial officer can, how the document is false or misleading; and
+(ii) if the custodial officer has, or can reasonably obtain, the correct information — without providing the correct information.
+Penalty: a fine of $4 000 and imprisonment for 12 months.
+11CD.Notice of loss of confidence
+(1) The chief executive officer may give the custodial officer a written notice setting out the grounds on which the chief executive officer does not have confidence in the custodial officer’s suitability to continue as a custodial officer.
+(2) The custodial officer may make written submissions to the chief executive officer in relation to the notice within the following period (the submission period) —
+(a) 21 days after the day on which the notice is given; or
+(b) any longer period after that day allowed by the chief executive officer.
+(3) After the submission period, the chief executive officer must —
+(a) decide whether or not to take removal action against the custodial officer; and
+(b) give the custodial officer written notice of the decision (the decision notice).
+(4) The chief executive officer must not decide to take removal action against the custodial officer unless the chief executive officer —
+(a) has taken into account any written submissions received from the custodial officer during the submission period; and
+(b) still does not have confidence in a custodial officer’s suitability to continue as a custodial officer.
+(5) If the chief executive officer decides to take removal action against the custodial officer, the decision notice must contain the reasons for the decision.
+(6) Except as provided in the regulations, the chief executive officer must, within 7 days after giving the decision notice —
+(a) give to the custodial officer a copy of any documents that were considered by the chief executive officer in making the decision; and
+(b) make available to the custodial officer for inspection any other materials that were considered by the chief executive officer in making the decision.
+(7) The removal action may be carried out when the notice is given or at any time after that.
+11CE.Maintenance payment
+(1) If a custodial officer is removed as a result of removal action, the custodial officer is entitled to receive a payment (a maintenance payment) for the period of 28 days after the day on which the custodial officer is removed (the maintenance period).
+(2) The Minister may, in exceptional circumstances, direct that a maintenance payment must be paid to the custodial officer for a specified period after the maintenance period.
+(3) For the purpose of subsection (2), the specified period is a period not exceeding 6 months specified by the Minister but in any event ending on the day any appeal is determined by the WAIRC.
+(4) Any maintenance payment must be determined on the basis of the salary of the custodial officer at the time of the removal.
+11CF.Withdrawal of removal action and revocation of removal
+(1) If a custodial officer is removed as a result of removal action, the chief executive officer may, by notice in writing to the custodial officer, revoke the removal.
+(2) Subsection (1) applies even if an appeal has been instituted against the removal.
+(3) Despite any other enactment, if the removal is revoked under subsection (1), the removal is to be taken to be of no effect and to have never had any effect.
+(4) If the chief executive officer revokes the removal of a custodial officer under subsection (1), the custodial officer is not entitled to be paid his or her salary for any period the custodial officer received a maintenance payment.
+11CG.Resignation of custodial officer who has been removed
+(1) Even if a custodial officer is removed as a result of removal action, the custodial officer may resign at any time before the end of the maintenance period.
+(2) Subsection (1) does not apply if an appeal has been instituted against the removal.
+(3) A resignation under subsection (1) takes effect at the end of the maintenance period.
+(4) Despite any other enactment, if a custodial officer resigns under subsection (1), the removal of the custodial officer is to be taken to be of no effect and to have never had any effect.
+Subdivision 3 — Appeal against removal of custodial officer
+11CH.Appeal right
+(1) If a custodial officer is removed as a result of removal action, the custodial officer may appeal to the WAIRC against the removal decision on the ground that it was harsh, oppressive or unfair.
+(2) The custodial officer may institute the appeal by a notice to the chief executive officer stating —
+(a) the reasons for the removal decision being harsh, oppressive or unfair; and
+(b) the nature of the relief sought.
+(3) The appeal cannot be instituted —
+(a) after the maintenance period; or
+(b) if the custodial officer has resigned under section 11CG(1).
+(4) For the purposes of proceedings relating to the appeal, the WAIRC is to be constituted by not less than 3 industrial Commissioners, at least one of whom must be —
+(a) the Chief Commissioner; or
+(b) the Senior Commissioner within the meaning of that term in the Industrial Relations Act 1979.
+(5) The only parties to the appeal are the custodial officer and the chief executive officer.
+(6) The custodial officer does not have any right of appeal against the removal decision other than under this section.
+11CI.Proceedings on appeal
+(1) On the hearing of an appeal, the WAIRC must proceed in the following manner —
+(a) first, it must consider the chief executive officer’s reasons for the removal decision;
+(b) second, it must consider the case presented by the appellant as to why the removal decision was harsh, oppressive or unfair;
+(c) third, it must consider the case presented by the chief executive officer in answer to the appellant’s case.
+(2) The appellant has at all times the burden of establishing that the removal decision was harsh, oppressive or unfair.
+(3) Subsection (2) has effect despite any law or practice to the contrary.
+(4) Without limiting the matters to which the WAIRC is otherwise required or permitted to have regard in determining the appeal, it must have regard to —
+(a) the interests of the appellant; and
+(b) the public interest, which is to be taken to include —
+(i) the importance of maintaining public confidence in the integrity, honesty, conduct and standard of performance of custodial officers; and
+(ii) the special nature of the relationship between the chief executive officer and custodial officers.
+11CJ.Leave to tender new evidence on appeal
+(1) New evidence cannot be tendered to the WAIRC during a hearing of an appeal unless the WAIRC grants leave under subsection (2) or (3).
+(2) The WAIRC may grant the chief executive officer leave to tender new evidence if —
+(a) the appellant consents; or
+(b) it is satisfied that it is in the interests of justice to do so.
+(3) The WAIRC may grant the appellant leave to tender new evidence if —
+(a) the chief executive officer consents; or
+(b) the WAIRC is satisfied that —
+(i) the appellant is likely to be able to use the new evidence to show that the chief executive officer has acted upon wrong or mistaken information; or
+(ii) the new evidence might materially have affected the chief executive officer’s removal decision; or
+(iii) it is in the interests of justice to do so.
+(4) In the exercise of its discretion under subsection (3), the WAIRC must have regard to —
+(a) whether or not the appellant was aware of the substance of the new evidence before the appellant’s removal; and
+(b) whether or not the substance of the new evidence was contained in a document to which the appellant had reasonable access before the appellant’s removal.
+11CK.Opportunity to consider new evidence
+(1) If the chief executive officer is given leave to tender new evidence under section 11CJ(2) —
+(a) the WAIRC must give the appellant a reasonable opportunity to consider the new evidence; and
+(b) the appellant may, without the leave of the WAIRC, tender new evidence under this section in response to the new evidence tendered by the chief executive officer.
+(2) If the appellant is given leave to tender new evidence under section 11CJ(3), the WAIRC must give the chief executive officer a reasonable opportunity to consider the new evidence.
+11CL.Revocation of removal after consideration of new evidence
+(1) If, having considered any new evidence, the chief executive officer revokes the removal under section 11CF(1) —
+(a) the chief executive officer must give the WAIRC notice of the revocation; and
+(b) the hearing of the appeal is discontinued when the WAIRC receives the notice.
+(2) If the chief executive officer does not give notice under subsection (1), the hearing of the appeal must continue but the chief executive officer may —
+(a) reformulate his or her reasons for not having confidence in the appellant’s suitability to continue as a custodial officer; and
+(b) without the leave of the WAIRC, tender new evidence under this section in response to the new evidence tendered by the appellant.
+(3) Reasons reformulated under subsection (2)(a) may differ from, or be additional to, the reasons given to the appellant in the decision notice.
+(4) If the chief executive officer reformulates reasons under subsection (2)(a) —
+(a) the chief executive officer must give the WAIRC and the appellant notice in writing of the reasons before the resumption of the hearing of the appeal; and
+(b) the WAIRC must consider the reasons as if they had been reasons given to the appellant in the decision notice.
+11CM.Application of Industrial Relations Act 1979 to appeals
+The provisions of the Industrial Relations Act 1979 listed in the Table apply to, and in relation to, an appeal and its determination, subject to —
+(a) any specific modifications set out in the Table; and
+(b) all other necessary modifications.
+Table
+s. 26(1)(a) and (b)
+s. 26(3)
+s. 27(1)(b), (c), (d), (e), (f), (h), (ha), (hb), (l), (m), (n), (o) and (v)
+s. 27(1a)
+s. 28 | The section applies only in relation to powers conferred by section 27 listed in this Table.
+s. 31(1) | Paragraphs (b) and (c) do not apply but the subsection is to be read as if it contained the following paragraphs — “(b)with the leave of the Commission, by an agent; or (c)by a legal practitioner. ”.
+s. 31(3)
+s. 31(5)
+s. 32 | Section 32(1) is to be read as if a reference to “Where an industrial matter has been referred to the Commission the Commission shall, unless it” were a reference to “Where the Commission is dealing with an appeal instituted under the Young Offenders Act 1994 section 11CH, a member of the Commission may recommend that the parties to the appeal, unless he or she”. References to “the matter” and “an industrial matter” are to be read as if they were references to “the appeal”.
+ | For the purposes of subsections (2) and (3), Commission does not include an industrial commissioner constituting the WAIRC to hear the appeal. Subsections (4), (6), (7) and (8) do not apply.
+s. 33 | A summons must not be issued under section 33(1)(a) to the Governor. A summons may be issued to the chief executive officer or the Minister but only at the direction of a commissioner appointed under the Industrial Relations Act 1979 if that commissioner is satisfied that there are extraordinary grounds for doing so. A summons may not be issued to any other person except at the direction of a commissioner.
+s. 34 | A reference in subsection (1) to “an award, order, or declaration” is to be read as if it were a reference to “an order”. A reference in subsection (3) to “the President, the Full Bench, or the Commission” is to be read as if it were a reference to “the Commission”.
+ | A reference in subsection (4) to “no award, order, declaration, finding, or proceeding of the President, the Full Bench, or the Commission” is to be read as if it were a reference to “no decision, order, finding or proceeding of the Commission”.
+s. 35
+s. 36
+s. 86 | The section does not apply in relation to costs and expenses, other than expenses of witnesses.
+s. 90 | A reference in subsection (1) to “any decision of the President, the Full Bench, or the Commission in Court Session” is to be read as if it were a reference to “a decision of the Commission under the Young Offenders Act 1994 section 11CP”.
+11CN.Adjournment of appeal if appellant charged with offence
+(1) The chief executive officer or an appellant may apply to the WAIRC for an adjournment of the hearing of an appeal if the appellant has been —
+(a) charged with an offence relating to any matter, act or omission that was taken into account by the chief executive officer in deciding that he or she did not have confidence in the appellant’s suitability to continue as a custodial officer; and
+(b) the charge has not been finally determined by a court or otherwise disposed of.
+(2) If an adjournment application is made by the chief executive officer, the WAIRC may adjourn the hearing of the appeal if it considers that it is in the interests of justice to do so.
+(3) If an adjournment application is made by the appellant, the WAIRC must adjourn the hearing of the appeal for the period (not exceeding 12 months) requested by the appellant.
+(4) Before the end of the period of an adjournment under this section, the chief executive officer or the appellant may apply to the WAIRC for a further adjournment and, if it is in the interests of justice to do so, the WAIRC may grant a further adjournment for the period specified by it.
+(5) Subsections (2) and (4) do not affect any other power of the WAIRC to grant an adjournment.
+11CO.Resumption of appeal before end of adjournment
+If the charge is finally determined by a court or otherwise disposed of before the end of the period of an adjournment under section 11CN, the chief executive officer or the appellant may apply to the WAIRC for the hearing of the appeal to be resumed on a date specified by the WAIRC.
+11CP.Decision by WAIRC
+(1) This section applies if the WAIRC decides on an appeal that the decision to take removal action relating to the appellant was harsh, oppressive or unfair.
+(2) The WAIRC may —
+(a) order that the appellant’s removal is, and is to be taken to have always been, of no effect; or
+(b) if it is impracticable to make an order under paragraph (a), order the chief executive officer to pay the appellant an amount of compensation for loss or injury caused by the removal.
+(3) In considering whether or not it is impracticable to make an order under subsection (2)(a), it is relevant to consider —
+(a) whether, at the time of the appellant’s removal, the position occupied by the appellant is vacant; and
+(b) whether there is another suitable vacant position in the Department.
+(4) If the WAIRC makes an order under subsection (2)(a), the appellant is not entitled to be paid his or her remuneration as a custodial officer for any period the appellant received a maintenance payment.
+(5) An order under this section may require that it be complied with within a specified time.
+11CQ.Determining amount of compensation
+(1) An amount of compensation ordered under section 11CP(2)(b) must be determined in accordance with this section.
+(2) In determining the amount, the WAIRC must have regard to all of the following —
+(a) the efforts, if any, of the chief executive officer and the appellant to mitigate the loss suffered by the appellant as a result of the removal;
+(b) any maintenance payment received by the appellant;
+(c) any redress the appellant has obtained under another enactment where the evidence necessary to establish that redress is also the evidence necessary to establish on the appeal that the removal was harsh, oppressive or unfair;
+(d) any other matter that the WAIRC considers relevant.
+(3) In determining the amount, the WAIRC may have regard to the average rate of remuneration as a custodial officer received by the appellant during any relevant period of service.
+(4) The amount must not exceed 12 months’ remuneration as a custodial officer.
+11CR.Restriction on publication
+(1) If the WAIRC is satisfied that it is in the public interest, it may direct that any evidence given before it, or the contents of any document produced to it, on an appeal —
+(a) must not be published; or
+(b) must not be published except in a manner, and to persons, specified by the WAIRC.
+(2) A person must not contravene a direction given under this section.
+Penalty: a fine of $4 000 and imprisonment for 12 months.
+Subdivision 4 — General
+11CS.Effect of charge for, or conviction or acquittal of, offence
+The chief executive officer can take removal action in relation to a custodial officer for a particular matter, act or omission even if the matter, act or omission is an element of an offence —
+(a) with which the custodial officer has been charged; or
+(b) of which the custodial officer has been convicted or acquitted.
+11CT.Failure to comply with procedure
+An act or omission of the chief executive officer is not invalid, and cannot be called in question, if —
+(a) the act or omission comprises a failure to comply with procedure prescribed for the purposes of this Division; and
+(b) the failure is not substantive.
+11CU.Transfer, standing down and leave of custodial officer
+(1) This Division does not derogate from the chief executive officer’s power to —
+(a) transfer a custodial officer; or
+(b) stand a custodial officer down from performing that custodial officer’s usual duties, with or without pay, until the custodial officer is directed by the chief executive officer to return to those duties; or
+(c) allocate duties to a custodial officer other than the custodial officer’s usual duties.
+(2) If the chief executive officer stands down a custodial officer in relation to whom removal action is being taken, the chief executive officer must review the decision to stand the custodial officer down every 60 days and advise the custodial officer in writing of the result of the review.
+(3) The chief executive officer must not direct a custodial officer in relation to whom removal action is being taken to take leave during the removal action unless the leave accrues during any period that the custodial officer is stood down from performing the custodial officer’s usual duties.
+11CV.Review of Division
+(1) In this section —
+commencement day means the day on which the Custodial Legislation (Officers Discipline) Amendment Act 2014 Part 3 comes into operation.
+(2) The Minister must carry out a review of the operation and effectiveness of this Division as soon as is practicable after the expiry of 24 months after the commencement day and in the course of that review the Minister must consider and have regard to —
+(a) the effectiveness of this Division; and
+(b) the need for the retention of the Division; and
+(c) any other matters that appear to the Minister to be relevant to the operation and effectiveness of this Division.
+(3) Without limiting subsection (2), in carrying out the review, the Minister must consult with and have regard to the views of the Chief Commissioner of the WAIRC, the chief executive officer and any union that has custodial officers as some or all of its members.
+(4) The Minister must prepare a report based on the review and, as soon as is practicable after the report is prepared (and in any event not more than 30 months after the commencement day), cause a copy of it to be laid before each House of Parliament.
+17.Part 3 Division 4 heading inserted
+Before section 11C insert:
+Division 4 — Management, control, security and wellbeing of young offenders
+18.Section 11C amended
+In section 11C(1) and (2) delete “person who is appointed under section 11(1) or (1a) as a”.
+19.Section 11E amended
+(1) In section 11E(2) delete “officer appointed under section 11(1) or (1a),” and insert:
+officer,
+(2) In section 11E(3) delete “appointed under section 11(1) or (1a)”.
+20.Section 11F amended
+In section 11F(2) delete “officer appointed under section 11(1) or (1a),” and insert:
+officer,
+21.Part 3 Division 2 heading replaced
+Delete the heading to Part 3 Division 2 and insert:
+Division 5 — Arrangements with councils of Aboriginal communities
+22.Section 169A amended
+(1) In section 169A(4) delete “person who is appointed under section 11(1) or (1a)” and insert:
+custodial officer
+(2) In section 169A(5) delete “person who is appointed under section 11(1) or (1a),” and insert:
+custodial officer
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -175,7 +446,7 @@ fine63
 first sentence123(1)
 former provisions234(1), 235(1)
 general principles of juvenile justice3
-group workers11(1a)(a)
+group workers11(1a)
 imprisonment3
 independent young person3
 infringement notice25(3)
@@ -187,7 +458,7 @@ medical treatment179(1)
 monitor17A
 notice to attend court3
 offender50(1), 50A(1), 50B(1)
-original offence83(2)(c)
+original offence83(2)
 party32(3)
 proceedings for or in respect of a responsible parenting order15A(3c)
 public authority16(1)
@@ -200,8 +471,8 @@ Schedule 1 offence3
 Schedule 2 offence3
 second sentence123(1)
 Secretary131
-sentence 1124(1)(a)
-sentence 2124(1)(b)
+sentence 1124(1)
+sentence 2124(1)
 sentencing court129(1)
 serious offence124(3)
 special order3
@@ -211,7 +482,7 @@ supervised release order3
 supervision conditions3
 victim31(1), 133(3)
 welfare agency15A(2)
-written reasons120(3)
 work3
+written reasons120(3)
 young person3
 youth community based order3
