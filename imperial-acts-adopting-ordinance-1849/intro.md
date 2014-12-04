@@ -13,7 +13,6 @@ An Act to facilitate the conveyance of real property;
 An Act to facilitate the granting of certain leases;
 and whereas in the ninth and tenth years of the reign of Her present Majesty, certain other Acts of the said Parliament were passed, intituled respectively —
 An Act for preventing malicious Injuries to person and property by Fire, or by explosive or destructive substances;
-An Act to abolish deodands; *
 An Act for compensating the families of persons killed by accident;
 and whereas in the tenth and eleventh years of the reign of Her said Majesty, certain other Acts of the said Parliament were passed, intituled respectively —
 An Act for extending the provisions of the Law respecting threatening letters, and accusing parties with a view to extort money;
