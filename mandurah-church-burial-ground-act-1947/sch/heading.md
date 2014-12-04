@@ -1,5 +1,0 @@
-## Schedule — Land not to be used for burial
-[s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
-All that piece or parcel of land situate and abutting upon the Mandurah and Fremantle Road, containing one acre (more or less), and being a portion of Cockburn Sound Location No. 16, bounded on the west by a line extending about north 7 degrees east from a spot 4½ chains about 97 degrees east from the south-east corner of Littleton’s fee simple block on the north side of the Ferry Reserve; on the east side of Peel’s Inlet; on the south by 3 chains 33 links of the Mandurah and Fremantle Road extending east about 7 degrees south from the said spot; and on the east and north by lines parallel and equal in length to the west and south boundaries.
-All boundaries true or thereabouts. Which said parcel of land is marked and delineated in the Plan No. 1975 in the Office of Titles at Perth as “Church Site.”

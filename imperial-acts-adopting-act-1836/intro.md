@@ -10,7 +10,7 @@ Whereas certain Acts of Parliament were passed in the first, the first and secon
 5.An Act for reducing it one Act, all such Forgeries as shall henceforth be punished with Death, and for otherwise amending the Laws relative to Forgery.
 6.An Act to abolish certain Oaths and Affirmations taken and made in the Customs and Excise Departments of His Majesty’s Revenue, and to establish Declarations in lieu thereof. *
 7.An Act for consolidating and amending the Laws against Offences relating to the Coin.
-[8.Repealed by 1 & 2 Edw. VII No. 14, s 3(2), Third Schedule.]
+[8.Repealed: 1 & 2 Edw. VII No. 14, s 3(2), Third Schedule.]
 9.An Act for shortening the Time of Prescription in certain Cases. *
 10.An Act for regulating the Protesting for non-Payment of Bills of Exchange, drawn Payable at a Place not being the Place of Residence of the Drawee or Drawees of the same. *
 11.An Act for abolishing the Punishment of Death in certain Cases of Forgery.
@@ -18,6 +18,6 @@ Whereas certain Acts of Parliament were passed in the first, the first and secon
 13.An Act for the further Amendment of the Law, and the better Advancement of Justice. *
 14.An Act to repeal so much of two Acts of the Seventh and Eighth Years and the Ninth Year of King George the Fourth, as inflicts the Punishment of Death upon Persons breaking, entering and stealing in a Dwelling-House; and also for giving power to the Judges to add to the Punishment of Transportation for Life in certain Cases of Forgery, and in certain other Cases.
 15.An Act to render Freehold and Copyhold Estates Assets for the Payment of Simple and Contract Debts.
-16.An Act for the Amendment of the Law relating to Dower.
-17.An Act for the Amendment of the Law of Inheritance.
+[16.Repealed: No. 32 of 2014 s. 14(1)(a).]
+[17.Repealed: No. 32 of 2014 s. 14(1)(b).]
 And whereas it is expedient to adopt and apply the said recited Acts of Parliament in the Administration of Justice in the Colony of Western Australia:
