@@ -1,9 +1,0 @@
-## Schedule — Cemetery land
-[s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
-Land | Reference | Proprietors | Purpose of Grant
-Northam Sub-lot N 48 | Enrolment 1551 | Reverend Joseph Johnston of Fremantle, Clerk; Henry Trigg of Perth, Gentleman; Lewis Birch, the elder, of Perth, Yeoman, and James Dyer of the same place, general Dealer, as trustees for the general body of Christians known by the denomination of Congregationalists or Independents | Cemetery.
-Northam Sub-lot N 49 | Enrolment 1547 | Reverend Samuel Hardy of Perth, Clerk; William Lowe of York, Clerk; John Wall Hardey of Grove Cottage near Perth aforesaid, Esquire; Joseph Hardey of the Peninsula near Perth, Gentleman, and George Shenton and Anthony Helmich of Perth, Esquires, as Trustees for the general body of Christians known by the denomination of Wesleyans | Cemetery.
-Northam Sub-lot N 50 | Enrolment 1545 | Reverend George Purves Pownall of Perth, Clerk, Colonial Chaplain; Frederick Palgrave Barlee, John Septimus Roe, Anthony O’Grady Lefroy, George Frederick Stone, William Wright, Francis Lockee of the same place, Esquires, and John Bruce of the same place, Esquire, a Staff Officer of Pensioners, as Trustees of church property | Cemetery.
-Northam sub-lot 97 | Volume 120, Folio 4 | The Diocesan Trustees of the Church of England in Western Australia | Ecclesiastical purposes in connection with the Church of England in Western Australia.
-Avon location 20511 | Volume 503, Folio 2 | The Roman Catholic Bishop of Perth | No purpose disclosed.

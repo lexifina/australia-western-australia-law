@@ -9,14 +9,13 @@ and whereas also certain other Acts of Parliament were passed in the Fourth and 
 “An Act to abolish the Practice of Hanging the Bodies of Criminals in Chains,”
 and whereas also certain other Acts of Parliament were passed in the Fifth and Sixth years of the reign of His said Majesty, intituled respectively
 “An Act to amend the Law relating to Securities given for considerations arising out of Gaming, Usurious, and certain other illegal Transactions,” and
-“An Act to render certain Marriages valid, and to alter the Law with respect to certain voidable Marriages,” * and
 “An Act for abolishing Capital Punishment in cases of Letter Stealing and Sacrilege”;
 and whereas also certain other Acts of Parliament were passed in the Sixth and Seventh years of the reign of His said Majesty, intituled respectively
 “An Act to amend an Act of the last Session for abolishing Capital Punishment in cases of Letter Stealing and Sacrilege,” and
 “An Act for declaring the Law as to the day on which it is requisite to present for payment to the acceptor or acceptors supra protest for honour, or to the referees or referee, in case of need, Bills of Exchange which had been dishonoured,” * and
 “An Act to repeal so much of two Acts of the Ninth and Tenth years of King George the Fourth as directs the period of Execution, and the prison discipline of persons convicted of the crime of murder,” and
 “An Act to prevent the fact of a previous conviction being given in evidence to the Jury on the case before them, except when evidence to character is given,” and
-“An Act for enabling persons indicted of Felony to make their defence by Counsel or Attorney”;
+“An Act for enabling persons indicted of Felony to make their defence: Counsel or Attorney”;
 and whereas also certain other Acts of Parliament were passed in the First and Second years of the reign of Her present Majesty Queen Victoria, intituled respectively
 “An Act to remove doubts respecting Conveyances of Estates vested in Heirs and Devisees of Mortgages,” and
 “An Act to facilitate the recovery of possession of Tenements after due determination of the Tenancy,” and
@@ -27,5 +26,4 @@ and whereas also certain other Acts of Parliament were passed in the Second and 
 “An Act to explain and extend the provisions of an Act passed in the First year of His late Majesty King William the Fourth, intituled ‘An Act for consolidating and amending the Laws for facilitating the Payment of Debts out of Real Estates’ *”; *
 and whereas also certain other Acts of Parliament were passed in the Fifth and Sixth years of the reign of Her said present Majesty, intituled respectively
 “An Act to amend the Law relating to advances bonâ fide made to agents entrusted with goods,” * and
-“An Act for perpetuating testimony in certain cases”; *
 And whereas it is expedient to adopt and apply the said several recited Acts of Parliament in the Administration of Justice in Western Australia:

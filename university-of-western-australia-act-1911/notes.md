@@ -44,6 +44,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 172 | 77
 Acts Amendment (Bankruptcy) Act 2009 s. 86 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 48 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 5: The University of Western Australia Act 1911 as at 10 Dec 2010 (includes amendments listed above)
+Statutes (Repeals) Act 2014 s. 13 | 32 of 2014 | 3 Dec 2014 | 4 Dec 2014 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -80,9 +81,9 @@ This Division amends the University of Western Australia Act 1911.
 197.Section 16A amended
 In section 16A(1) in the definition of owner delete “Road Traffic Act 1974.” and insert:
 Road Traffic (Administration) Act 2008.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 authorised person16A(1)
 Convocation2
 Guild2
