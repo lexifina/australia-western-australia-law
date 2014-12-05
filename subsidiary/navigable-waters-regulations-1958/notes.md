@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Navigable Waters Regulations 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 December 2014 of the Navigable Waters Regulations 1958 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Navigable Waters Regulations | 2 Apr 1958 p. 622-32 | 1 May 1958 (see r. 1)
@@ -139,7 +139,7 @@ Navigable Waters Amendment Regulations (No. 3) 2013 | 6 Sep 2013 p. 4247 | r. 1 
 Navigable Waters Amendment Regulations (No. 4) 2013 | 13 Dec 2013 p. 6177 | r. 1 and 2: 13 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Dec 2013 (see r. 2(b))
 Navigable Waters Amendment Regulations (No. 2) 2014 | 16 May 2014 p. 1542-3 | r. 1 and 2: 16 May 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Navigable Waters Amendment Regulations (No. 3) 2014 | 25 Jul 2014 p. 2581-91 | r. 1 and 2: 25 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2014 (see r. 2(b))
-Footnote no longer applicable.
+Reprint 16: The Navigable Waters Regulations 1958 as at 5 Dec 2014 (includes amendments listed above)
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
 Defined terms
