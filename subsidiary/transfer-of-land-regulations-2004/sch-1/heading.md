@@ -101,7 +101,7 @@ Note:The fees specified in items 1 to 4 include the creation and registration of
  | (a)check search | $12.00
  | (b)search of the power of attorney file for the number of a power of attorney document if the number is given with confirmation of the document’s existence | $1.00
 Note:The fees specified in item 18 include the taking a hard copy of screen print.
-[19, 20. | deleted]
+[19, 20. deleted]
 21. | Search of the power of attorney file for the number of a power of attorney document (unless item 18(b) applies) | $12.00
 22. | Inspection of a power of attorney document where the number is known | $24.00
 23. | Copy of a power of attorney document where the number is known | $24.00

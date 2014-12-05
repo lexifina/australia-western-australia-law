@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Transfer of Land Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 December 2014 of the Transfer of Land Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Transfer of Land Regulations 2004 | 2 Sep 2004 p. 3829-46 | 6 Sep 2004 (see r. 2)
@@ -23,10 +23,11 @@ Transfer of Land Amendment Regulations (No. 2) 2012 | 22 Jun 2012 p. 2782-3 | r.
 Transfer of Land Amendment Regulations 2013 | 26 Jul 2013 p. 3348-9 | r. 1 and 2: 26 Jul 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2013 (see r. 2(b))
 Transfer of Land Amendment Regulations (No. 2) 2013 | 14 Nov 2013 p. 5079 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Transfer of Land Amendment Regulations 2014 | 30 May 2014 p. 1683-6 | r. 1 and 2: 30 May 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jun 2014 (see r. 2(b))
+Reprint 4: The Transfer of Land Regulations 2004 as at 5 Dec 2014 (includes amendments listed above)
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 benefited lot8(1)
 circle8(1)
 department11
