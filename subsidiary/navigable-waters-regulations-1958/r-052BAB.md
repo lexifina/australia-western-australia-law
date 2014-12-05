@@ -7,5 +7,4 @@ prescribed standard means AS/NZS 4280.1:2003.
 (b) is registered with the Australian Maritime Safety Authority established under the Australian Maritime Safety Authority Act 1990 of the Commonwealth section 5.
 (2A) Subregulation (1) does not apply to a recreational paddle craft that is a vessel.
 (2) An owner who contravenes subregulation (1) commits an offence.
-[(3)deleted]
 [Regulation 52BAB inserted in Gazette 31 Dec 1993 p. 6914-15; amended in Gazette 3 Apr 1998 p. 1990; 3 Apr 1998 p. 1991; 24 Jun 2008 p. 2892; 6 Sep 2013 p. 4247; 25 Jul 2014 p. 2585.]
