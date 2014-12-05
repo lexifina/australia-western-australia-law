@@ -23,8 +23,7 @@ Categories 10, 11 and 34 | Not more than 50 000 tonnes per year | 75
  | More than 2 000 000 tonnes per year | 600
 Category 15 | Not more than 5 000 tonnes per year More than 5 000 but not more than 50 000 tonnes per year 50 000 tonnes or more per year | 75 150 200
 Category 16 | Not more than 2 000 tonnes per year More than 2 000 but not more than 10 000 tonnes per year More than 10 000 tonnes per year | 100 200 300
-Categories 17, 18, 19, 20, 22, 23, 24, 25 and 27 | Not more than 2 000 tonnes per year | 50
- | More than 2 000 but not more than 10 000 tonnes per year | 75
+Categories 17, 18, 19, 20, 22, 23, 24, 25 and 27 | Not more than 2 000 tonnes per year More than 2 000 but not more than 10 000 tonnes per year | 50 75
  | More than 10 000 but not more than 100 000 tonnes per year | 150
  | More than 100 000 tonnes per year | 200
 Category 21 | Not more than 10 000 tonnes per year | 75
@@ -96,7 +95,7 @@ Category 58 | Not more than 5 000 tonnes per day | 500
  | More than 5 000 but not more than 10 000 tonnes per day | 625
  | More than 10 000 but not more than 50 000 tonnes per day | 750
  | More than 50 000 tonnes per day | 1 400
-Category 58A | No applicable | 500
+Category 58A | Not applicable | 500
 Category 59 | Not more than 100 kg per hour | 50
  | More than 100 kg per hour | 100
 Category 60 | Not more than 500 kg per hour | 50
@@ -152,11 +151,14 @@ Kind of waste | Fee units (for each gram per minute)
 Table 2 — Discharges onto land or into waters
 Kind of waste | Fee units
 1.Liquid waste that can potentially deprive receiving waters of oxygen (for each kilogram discharged per day) — (a)biochemical oxygen demand (in the absence of chemical oxygen demand limit) (b)chemical oxygen demand (in the absence of total organic carbon limit) (c)total organic carbon | 0.5 1 0.5
-2.Biostimulants (for each kilogram discharged per day) — (a)phosphorus — (i)Swan Coastal Plain (ii)elsewhere (b)total nitrogen — (i)Swan Coastal Plain (ii)elsewhere | 10 2 10 2
+2.Biostimulants (for each kilogram discharged per day) — (a)phosphorus — (i)Swan Coastal Plain (ii)elsewhere | 10 2
+(b)total nitrogen — (i)Swan Coastal Plain (ii)elsewhere | 10 2
 3.Liquid waste that physically alters the characteristics of naturally occurring waters — (a)total suspended solids (for each kilogram discharged per day) (b)surfactants (for each kilogram discharged per day) | 0.5 10
 (c)colour alteration (for each platinum cobalt unit of colour above the ambient colour of the waters in each megalitre discharged per day) | 0.05
 (d)temperature alteration (for each 1°C above the ambient temperature of the waters in each megalitre discharged per day) — (i)in the sea south of the Tropic of Capricorn (ii)in other waters | 0.05 0.25
-4.Waste that can potentially accumulate in the environment or living tissue (for each kilogram discharged per day) — (a)aluminium, arsenic, cadmium, chromium, cobalt, copper, lead, mercury, molybdenum, nickel, vanadium and zinc (b)pesticides (c)fish tainting wastes (d)manganese | 100 100 100 10
+4.Waste that can potentially accumulate in the environment or living tissue (for each kilogram discharged per day) — (a)aluminium, arsenic, cadmium, chromium, cobalt, copper, lead, mercury, molybdenum, nickel, vanadium and zinc | 100
+(b)pesticides (c)fish tainting wastes (d)manganese | 100 100 10
 5.E coli bacteria as indicator species (in each megalitre discharged per day) — (a)1 000 to 5 000 organisms per 100 ml (b)5 000 to 20 000 organisms per 100 ml (c)more than 20 000 organisms per 100 ml | 5 10 15
-6.Other waste (per kilogram discharged per day) — (a)oil and grease (b)total dissolved solids (c)fluoride (d)iron (e)total residual chlorine (f)other | 0.05 0.05 1 1 10 1
+6.Other waste (per kilogram discharged per day) — (a)oil and grease (b)total dissolved solids (c)fluoride (d)iron | 0.05 0.05 1 1
+(e)total residual chlorine (f)other | 10 1
 [Part 3 inserted in Gazette 13 Sep 1996 p. 4565-7; amended in Gazette 10 Dec 1996 p. 6878; 15 Aug 2000 p. 4718; 29 Sep 2006 p. 4266; 22 Jun 2007 p. 2844.]

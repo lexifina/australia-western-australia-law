@@ -57,13 +57,16 @@ Category number | Description of category | Production or design capacity
 47 | Scrap metal recovery: premises (other than premises within category 45) on which metal scrap is fragmented or melted, including premises on which lead acid batteries are reprocessed. | 100 tonnes or more per year
 48 | Metal finishing: premises on which metals are chemically cleaned or metals, plastics or metal or plastic products are plated, electroplated, anodized, coloured or otherwise coated or finished. | Not applicable
 48A | Metal finishing: premises on which iron or steel is galvanized. | Not applicable
-49 | Boat building and maintenance: premises on which — (a)vessels are commercially built or maintained; and (b)organotin compounds are used or removed from vessels. | Not applicable
+49 | Boat building and maintenance: premises on which — (a)vessels are commercially built or maintained; and | Not applicable
+ | (b)organotin compounds are used or removed from vessels.
 50 | Tannery: premises on which animal skins or hides are tanned, dressed, finished or dyed and from which liquid waste is or is to be discharged onto land or into waters. | 1 000 skins or hides or more per year
 51 | Foam products manufacturing: premises on which resin is used to prepare or manufacture plastic foam or plastic foam products using MDI (diphenylmethane di-iso-cyanate) or TDI (toluene-2, 4-di-iso-cyanate). | 1 tonne or more per year
 52 | Electric power generation: premises (other than premises within category 53 or an emergency or standby power generating plant) on which electrical power is generated using a fuel. | 20 MW or more in aggregate (using natural gas) 10 MW or more in aggregate (using a fuel other than natural gas)
 53 | Flyash disposal: premises on which flyash is disposed of. | 1 000 tonnes or more per year
-54 | Sewage facility: premises — (a)on which sewage is treated (excluding septic tanks); or (b)from which treated sewage is discharged onto land or into waters. | 100 m3 or more per day
-54A | Water desalination plant: premises at which salt is extracted from water if — (a)waste water is discharged into marine waters; and (b)the discharged waste water has a density greater than the average ambient density of the marine water at the discharge site. | 10 GL or more per year
+54 | Sewage facility: premises — (a)on which sewage is treated (excluding septic tanks); or | 100 m3 or more per day
+ | (b)from which treated sewage is discharged onto land or into waters.
+54A | Water desalination plant: premises at which salt is extracted from water if — (a)waste water is discharged into marine waters; and | 10 GL or more per year
+ | (b)the discharged waste water has a density greater than the average ambient density of the marine water at the discharge site.
 55 | Livestock saleyard or holding pen: premises on which live animals are held pending their sale, shipment or slaughter. | 10 000 animals or more per year
 56 | Used tyre storage (tyre fitting business): premises on which used tyres are stored in connection with a tyre fitting business. | 500 tyres or more
 57 | Used tyre storage (general): premises (other than premises within category 56) on which used tyres are stored. | 100 tyres or more
@@ -71,7 +74,8 @@ Category number | Description of category | Production or design capacity
 58A | Bulk material loading or unloading: premises on which salt is loaded onto or unloaded from vessels by an open materials loading system. | 100 tonnes or more per day
 59 | Biomedical waste incineration: premises on which — | Not applicable
  | (a)infectious or potentially infectious waste produced by health care establishments, or by pathology, dental, or veterinary practices, or by laboratories, is incinerated; or
- | (b)quarantine waste is incinerated; or (c)cytotoxic waste is destroyed, but not including premises on which there are only facilities used exclusively for human or animal cremation.
+ | (b)quarantine waste is incinerated; or
+ | (c)cytotoxic waste is destroyed, but not including premises on which there are only facilities used exclusively for human or animal cremation.
 60 | Incineration: premises (other than premises within category 59) on which waste, excluding clean paper and cardboard, is incinerated. | 100 kg or more per hour
 61 | Liquid waste facility: premises on which liquid waste produced on other premises (other than sewerage waste) is stored, reprocessed, treated or irrigated. | 100 tonnes or more per year
 61A | Solid waste facility: premises (other than premises within category 67A) on which solid waste produced on other premises is stored, reprocessed, treated, or discharged onto land. | 1 000 tonnes or more per year
@@ -82,7 +86,7 @@ Category number | Description of category | Production or design capacity
 66 | Class V intractable landfill site: premises on which waste (as determined by reference to the waste type set out in the document entitled “Landfill Waste Classification and Waste Definitions 1996” published by the Chief Executive Officer and as amended from time to time) is accepted for burial. | Not applicable
 67 | Fuel burning: premises on which gaseous, liquid or solid fuel is burnt in a boiler for the supply of steam or in power generation equipment. | In aggregate 500 kg or more per hour (fuel with a sulphur content of 0.25% or more) or In aggregate 2 000 kg or more per hour (fuel with a sulphur content of less than 0.25%)
 67A | Compost manufacturing and soil blending: premises on which organic material (excluding silage) or waste is stored pending processing, mixing, drying or composting to produce commercial quantities of compost or blended soils. | 1 000 tonnes or more per year
-[Part 1 amended in Gazette 22 Jun 2007 p. 2843, 30 Oct 2007 p. 5877; 23 Jul 2010 p. 3401.]
+[Part 1 inserted in Gazette 13 Sep 1996 p. 4549-59; amended in Gazette 10 Dec 1996 p. 6877; 12 Sep 1997 p. 5151; 15 Aug 2000 p. 4715-17;14 Jun 2002 p. 2293-4; 13 Dec 2005 p. 5983; 22 Jun 2007 p. 2843, 30 Oct 2007 p. 5877; 23 Jul 2010 p. 3401; 20 Aug 2013 p. 3856.]
 Part 2
 Category number | Description of category | Production or design capacity
 68 | Cattle feedlot: premises on which the watering and feeding of cattle occurs, being premises — (a)situated 100 m or more from a watercourse; and (b)on which the number of cattle per hectare exceeds 50. | 500 animals or more
@@ -90,7 +94,8 @@ Category number | Description of category | Production or design capacity
 70 | Screening etc. of material: premises on which material extracted from the ground is screened, washed, crushed, ground, milled, sized or separated. | More than 5 000 but less than 50 000 tonnes per year
 [71 | deleted]
 72 | Chemical manufacturing: premises on which chemical products are manufactured by a chemical process. | Not more than 100 tonnes per year
-73 | Bulk storage of chemicals etc.: premises on which acids, alkalis or chemicals that — (a)contain at least one carbon to carbon bond; and (b)are liquid at STP (standard temperature and pressure), are stored. | 1 000 m3 in aggregate
+73 | Bulk storage of chemicals etc.: premises on which acids, alkalis or chemicals that — (a)contain at least one carbon to carbon bond; and | 1 000 m3 in aggregate
+ | (b)are liquid at STP (standard temperature and pressure), are stored.
 74 | Chemical blending or mixing causing discharge: premises on which chemicals or chemical products are mixed, blended or packaged in a manner that causes or is likely to cause a discharge of waste into the environment. | More than 50 but less than 500 tonnes per year
 75 | Chemical blending or mixing not causing discharge: premises on which chemicals or chemical products are mixed, blended or packaged in a manner that does not cause or is not likely to cause a discharge of waste into the environment. | 5 000 tonnes or more per year
 76 | Ceramic goods manufacturing: premises on which ceramic kitchen or table ware or other non-refractory ceramic products are manufactured. | 200 tonnes or more per year
@@ -99,7 +104,8 @@ Category number | Description of category | Production or design capacity
 79 | Carbon stripping: premises on which carbon granules from a gold extraction process located at another place or on other premises are reprocessed. | 100 tonnes or more per year
 80 | Non-metallic mineral processing: premises on which non-metallic minerals are crushed, ground, milled or separated. | 100 tonnes or more per year
 81 | Metal coating: premises on which metal products (excluding vehicles) are spray painted, powder coated or enamelled. | 1 000 L or more per year (paint or powder)
-82 | Boat building and maintenance: premises on which — (a)vessels are commercially built or maintained; and (b)organotin compounds are not used or removed from vessels. | Not applicable
+82 | Boat building and maintenance: premises on which — (a)vessels are commercially built or maintained; and | Not applicable
+ | (b)organotin compounds are not used or removed from vessels.
 83 | Fellmongering: premises on which animal skins or hides are dried, cured or stored. | 1 000 skins or hides or more per year
 84 | Electric power generation: premises (other than premises within category 53 or an emergency or standby power generating plant) on which electrical power is commercially generated using natural gas as a fuel. | More than 10 but less than 20 MW in aggregate
 85 | Sewage facility: premises — (a)on which sewage is treated (excluding septic tanks); or (b)from which treated sewage is discharged onto land or into waters. | More than 20 but less than 100 m3 per day
@@ -109,5 +115,5 @@ Category number | Description of category | Production or design capacity
 87 | Fuel burning: premises on which gaseous, liquid or solid fuel with a sulphur content of less than 0.25% is burnt in a boiler for the supply of steam or in power generation equipment. | More than 500 but less than 2 000 kg per hour in aggregate
 88 | Metal finishing: premises on which — (a)metals are chemically cleaned or metals, plastics or metal or plastic products are plated, electroplated, anodised, coloured or otherwise coated or finished; and (b)from which liquid waste is discharged into a sewer. | Not applicable
 89 | Putrescible landfill site: premises on which waste (as determined by reference to the waste type set out in the document entitled “Landfill Waste Classification and Waste Definitions 1996” published by the Chief Executive Officer, as amended from time to time) is accepted for burial. | More than 20 but less than 5 000 tonnes per year
-[Schedule 1 inserted in Gazette 13 Sep 1996 p. 4549-59; amended in Gazette 10 Dec 1996 p. 6877; 12 Sep 1997 p. 5151; 15 Aug 2000 p. 4715-17; 14 Jun 2002 p. 2793-4; 13 Dec 2005 p. 5983; 22 Jun 2007 p. 2843; 23 Jul 2010 p. 3401; 20 Aug 2013 p. 3856-7.]
+[Part 2 inserted in Gazette 13 Sep 1996 p. 4557-59; amended in Gazette 10 Dec 1996 p. 6877; 15 Aug 2000 p. 4716-17; 13 Dec 2005 p. 5983; 20 Aug 2013 p. 3856-7.]
 [Schedule 2 deleted in Gazette 8 May 2012 p. 1893.]
