@@ -1,10 +1,10 @@
 ## Third Schedule — Variation agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading inserted by No. 82 of 1986 s. 6; amended by No. 19 of 2010 s. 4.]
 THIS AGREEMENT under seal is made the 24th day of October 1986 BETWEEN THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the Government of the said State and its instrumentalities (hereinafter called “the State”) of the first part THE HONOURABLE GAVAN JOHN TROY, B. Bus, A.F.A.I.M., J.P., M.L.A. the Minister in the Government of the said State for the time being responsible for the administration of the Fremantle Port Authority Act 1902 of the second part FREMANTLE PORT AUTHORITY a body corporate constituted by the Fremantle Port Authority Act 1902 of the third part and COCKBURN CEMENT LIMITED a company duly incorporated in Western Australia and having its registered office at 191 St. George’s Terrace, Perth (hereinafter called “the Company” which term shall include its successors and permitted assigns) of the fourth part.
 WHEREAS the parties hereto desire to vary the Agreement defined in section 2 of the Cement Works (Cockburn Cement Limited) Agreement Act 1971 (which Agreement is hereinafter referred to as “the Principal Agreement”).
 NOW THIS AGREEMENT WITNESSETH:
-1.Subject to the context and subject as hereinafter appears the words and expressions use in this Agreement have the same meanings respectively as they have in and for the purpose of the Principal Agreement (as varied by this Agreement).
+1.Subject to the context and subject as hereinafter appears the words and expressions used in this Agreement have the same meanings respectively as they have in and for the purpose of the Principal Agreement (as varied by this Agreement).
 2.The State shall introduce and sponsor a Bill in the Parliament of Western Australia to ratify this Agreement and endeavour to secure its passage as an Act.
 3.The subsequent clauses of this Agreement shall not operate unless and until the Bill to ratify this Agreement referred to in clause 2 hereof is passed as an Act before the 31st day of December, 1986.
 4.The Principal Agreement is hereby varied as follows —
@@ -209,7 +209,7 @@ The right for the Company its servants agents and workmen at all times and for a
 (a)The term “pipeline” includes all pumps tanks fittings and appliances associated therewith;
 (b)The Company shall at all times during the said term observe perform and comply with any lawful condition or requirement at any time made by the Water Authority of Western Australia regarding the laying construction use and maintenance of any pipeline;
 (c)Not to make any alterations or additions to any pipeline without the prior consent of the Lessor which consent shall not be unreasonably withheld;
-(d)Whenever reasonably required by the Lessor so to do but in any event not later then the expiration of the serviceable life of the pipeline presently constructed on Lots 51 on L.T.O. Plan 14756 and 56 on L.T.O. Plan 14758 to lay and construct a new pipeline for the same purpose alongside the pipeline presently constructed on Lots 52 and 54 on L.T.O. Plan 14756 and Lot 61 on L.T.O. Diagram 67078 and on commissioning of the new pipeline to remove the pipeline from Lots 51 and 56 to the extent reasonably required by the Lessor;
+(d)Whenever reasonably required by the Lessor so to do but in any event not later than the expiration of the serviceable life of the pipeline presently constructed on Lots 51 on L.T.O. Plan 14756 and 56 on L.T.O. Plan 14758 to lay and construct a new pipeline for the same purpose alongside the pipeline presently constructed on Lots 52 and 54 on L.T.O. Plan 14756 and Lot 61 on L.T.O. Diagram 67078 and on commissioning of the new pipeline to remove the pipeline from Lots 51 and 56 to the extent reasonably required by the Lessor;
 (e)Upon commissioning of the new pipeline referred to in paragraph (d) the rights hereinbefore in this Schedule conferred in respect on Lots 51 and 56 shall immediately cease and determine without any abatement of rent.
 The land referred to in this Schedule comprises Lots 51, 54, that portion of Lot 55 coloured green and those portions of Lots 52 and 53 coloured yellow and green all on L.T.O. Plan 14756, Lots 56, 57 and 58 on L.T.O. Plan 14758 and Lot 61 on L.T.O. Diagram 67078.
 IN WITNESS whereof this Indenture has been executed by or on behalf of the parties hereto the day and year first aforesaid.
@@ -222,8 +222,7 @@ THE Common Seal of COCKBURN CEMENT LIMITED was hereunto affixed by authority of 
 ..................................................... Secretary”
 5.The State acknowledges that the Company has performed and observed the convenants conditions provisions and stipulations expressed or implied in the memorandum of mortgage referred to in clause 3(2) of the Principal Agreement.
 IN WITNESS WHEREOF this Agreement has been executed by or on behalf of the parties hereto the day and year first hereinbefore mentioned.
-SIGNED by the said THE HONOURABLE BRIAN THOMAS BURKE, M.L.A. in the |  | BRIAN BURKE
-presence of —
+SIGNED by the said THE HONOURABLE BRIAN THOMAS BURKE, M.L.A. in the presence of — |  | BRIAN BURKE
 D. PARKER MINISTER FOR MINERALS AND ENERGY
 SIGNED by the said THE HONOURABLE GAVAN JOHN TROY, B. Bus., A.F.A.I.M., J.P., M.L.A. in the presence of — |  | GAVAN TROY
 B. MARSHALL ADMINISTRATIVE OFFICER MINISTER FOR TRANSPORT AND SMALL BUSINESS
