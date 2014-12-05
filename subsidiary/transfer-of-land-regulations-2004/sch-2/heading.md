@@ -5,7 +5,6 @@
 (a) the Local Government Act 1995 Schedule 6.3 clause 2; or
 [(b)deleted]
 (c) the Country Areas Water Supply Act 1947 section 12BA, 12BB or 12EA.
-[(d)deleted]
 2A.Registration or revocation of an environmental protection notice under the Environmental Protection Act 1986 section 66.
 2.In respect of the transfer of loans for housing to financial institutions participating in the Home Buyers Guarantee Scheme of the State from other financial institutions, fees for the registration of a mortgage or the discharge of a mortgage, photocopy of a certificate of title, search of a deposited plan, plan, diagram or other document and photocopying or check search.
 3.In respect of the lodging by a person of or the use by a third party of a duplicate certificate of title or lease for a purpose referred to in item 1 or 2.
