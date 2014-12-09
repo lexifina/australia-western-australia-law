@@ -59,6 +59,7 @@ Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2(d))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 42 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Custodial Legislation (Officers Discipline) Amendment Act 2014 Pt. 2 | 29 of 2014 | 3 Dec 2014 | To be proclaimed (see s. 2(b))
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
 Under the Alteration of Statutory Designations Order (No. 3) 2001, a reference to the Western Australian Prisons Department was, unless the contrary intention appears, to be read and construed as a reference to the Department of Justice.
@@ -370,6 +371,17 @@ penalty, under Part X, includes removal of a prison officer.
 (2) Proceedings for a disciplinary offence instituted under the former disciplinary provisions that are pending immediately before the commencement day are to be dealt with and determined under those provisions as if the Custodial Legislation (Officers Discipline) Amendment Act 2014 Part 2 had not come into operation.
 (3) Part X applies to misconduct committed, or suspected of having been committed, by a prison officer before the commencement day but in relation to which proceedings for a disciplinary offence have not been instituted under the former disciplinary provisions.
 (4) However, if misconduct occurring before the commencement day would have constituted a disciplinary offence under the former disciplinary provisions, a penalty cannot be imposed under Part X in relation to the misconduct unless that penalty would also have been able to be imposed for the disciplinary offence under the former disciplinary provisions.
+On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) had not come into operation. It reads as follows:
+39.References in other Acts to “Corruption and Crime Commission Act 2003” amended
+(2) In the provisions listed in the Table:
+(a) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
+Corruption, Crime and Misconduct Act 2003
+(b) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
+Corruption, Crime and Misconduct Act 2003
+(c) delete “Corruption and Crime Commission Act 2003” and insert:
+Corruption, Crime and Misconduct Act 2003
+Table
+Prisons Act 1981 | s. 3(1) def. of judicial body par. (b), 15C(l)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -389,12 +401,12 @@ ED, PH95C(1)
 external facility23(1)
 Family Court judge3(1)
 function15A
-gaolSch. 2 cl. 14
+gaolSch. 2
 hearing officer74A(1)
 high-level security work3(1)
 independent prison visitor3(1)
 intervene15A
-jailSch. 2 cl. 14
+jailSch. 2
 judge of the Supreme Court3(1)
 judicial body3(1)
 lock-up3(1)
@@ -405,7 +417,7 @@ other officer15A
 perform15A
 permit3(1)
 person67A(4)
-prison3(1), Sch. 2 cl. 14
+prison3(1), Sch. 2
 prison dog49A(1)
 prison offence3(1)
 prison officer3(1), 96, 114(12)
