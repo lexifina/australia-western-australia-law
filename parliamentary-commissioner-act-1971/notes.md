@@ -118,6 +118,7 @@ Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 18 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 36 | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Under the Liquor Control Act 1988 Sch. 1A cl. 9 a reference to the Liquor Licensing Court is to be read and construed as a reference to the Liquor Commission.
 The Health Legislation Administration Act 1984 s. 6(1) was amended by the Mental Health (Consequential Provisions) Act 1996 s. 38 to replace the office of Director, Psychiatric Services with the office of Chief Psychiatrist.
@@ -164,6 +165,28 @@ This Subdivision amends the Parliamentary Commissioner Act 1971.
 75.Section 17A amended
 In section 17A(4) delete “the Director, Psychiatric Services appointed under section 6(1)(d) of the Health Legislation Administration Act 1984” and insert:
 the CEO as defined in the Health Legislation Administration Act 1984 section 3
+On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 36 had not come into operation. It reads as follows:
+36.Parliamentary Commissioner Act 1971 amended
+(1) This section amends the Parliamentary Commissioner Act 1971.
+(2) In section 4 in the definitions of Corruption and Crime Commission, officer of the Corruption and Crime Commission, officer of the Parliamentary Inspector of the Corruption and Crime Commission and Parliamentary Inspector of the Corruption and Crime Commission delete “Corruption and Crime Commission Act 2003;” and insert:
+Corruption, Crime and Misconduct Act 2003;
+(3) In section 22A(1) after “Commission,” insert:
+the Public Sector Commissioner,
+(4) In section 22B:
+(a) in paragraph (b) delete the passage that begins with “and concerns” and continues to the end of the paragraph and insert:
+and concerns a matter that is relevant to the functions of any of the following —
+(iv) the Corruption and Crime Commission;
+(v) the Parliamentary Inspector;
+(vi) the Public Sector Commissioner, but only those functions under the Corruption, Crime and Misconduct Act 2003;
+(vii) the Director of Public Prosecutions;
+or
+(b) after paragraph (d) insert:
+(ea) is disclosed to —
+(i) the Public Sector Commissioner; or
+(ii) a person who is authorised by the Public Sector Commissioner for the purposes of this subparagraph,
+and concerns a matter that is relevant to the functions of the Public Sector Commissioner under the Corruption, Crime and Misconduct Act 2003; or
+(5) In Schedule 1 in the Table in the 3rd row delete “Corruption and Crime Commission Act 2003” and insert:
+Corruption, Crime and Misconduct Act 2003
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -196,3 +219,4 @@ responsible Minister4
 staff4
 subcontractor4
 tribunal4
+water ombudsman scheme34(7)
