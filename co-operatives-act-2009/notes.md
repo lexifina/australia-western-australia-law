@@ -6,13 +6,28 @@ Co-operatives Act 2009 | 24 of 2009 | 22 Oct 2009 | s. 1 and 2: 22 Oct 2009 (see
 Acts Amendment (Fair Trading) Act 2010 s. 180 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 4 (s. 37-44) | 42 of 2011 | 4 Oct 2011 | s. 44: 5 Oct 2011 (see s. 2(b)) s. 37-43: 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 19 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) had not come into operation. It reads as follows:
+39.References in other Acts to “Corruption and Crime Commission Act 2003” amended
+(2) In the provisions listed in the Table:
+(a) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
+Corruption, Crime and Misconduct Act 2003
+(b) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
+Corruption, Crime and Misconduct Act 2003
+(c) delete “Corruption and Crime Commission Act 2003” and insert:
+Corruption, Crime and Misconduct Act 2003
+Table
+Co-operatives Act 2009 | s. 476(5)(h)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 active member4(1)
 active membership provision4(1)
 active membership resolution110
-administratorSch. 4, cl. 1
+administratorSch. 4 cl. 1
 affairs426
 agreement4(1)
 alter4(1)
@@ -26,17 +41,17 @@ authorisation notice365
 authorised attorney49(1)
 board4(1)
 CCU257(1)
-chargeeSch. 3, cl. 9, 3, cl. 32
+chargeeSch. 3 cl. 9, Sch. 3 cl. 32
 chief executive officer4(1)
 chief executive officer (DOCEP)398
 company8
 compulsory acquisition notice355(1)
 constitution4(1)
 control224
-control daySch. 4, cl. 1
-controllerSch. 4, cl. 1, 4, cl. 5(3)
-controller’s chargeSch. 4, cl. 9(1)
-co-operative4(1), 352(1), Sch. 3, cl. 1, Sch. 4, cl. 1
+control daySch. 4 cl. 1
+controllerSch. 4 cl. 1, Sch. 4 cl. 5(3)
+controller’s chargeSch. 4 cl. 9(1)
+co-operative4(1), 352(1), Sch. 3 cl. 1, Sch. 4 cl. 1
 co-operative capital unit4(1)
 co-operative company492
 co-operative group4(1)
@@ -46,12 +61,12 @@ corporation4(1)
 Corporations Act4(1)
 Corporations legislation8
 costs426
-critical daySch. 3, cl. 26
-daily newspaperSch. 4, cl. 1
+critical daySch. 3 cl. 26
+daily newspaperSch. 4 cl. 1
 debenture4(1)
 declaratory provision11(1)
 deed of arrangement4(1)
-defective noticeSch. 3, cl. 21(1)
+defective noticeSch. 3 cl. 21(1)
 deferral period123(1)
 department452(1)
 departmental officer452(1)
@@ -60,8 +75,8 @@ designation452(1)
 dissenting shareholder353
 distributing co-operative4(1)
 divulge476(1)
-document of titleSch. 3, cl. 1
-earlier chargeSch. 3, cl. 30(1)
+document of titleSch. 3 cl. 1
+earlier chargeSch. 3 cl. 30(1)
 eligible member4(1)
 employed452(1)
 entity224
@@ -83,27 +98,27 @@ instrument335(1), 396(1)
 interest74
 investigator426
 involved person426
-later chargeSch. 3, cl. 30(1)
+later chargeSch. 3 cl. 30(1)
 liabilities335(1), 352(1), 396(1)
 limited dividend271(1)
 main office405(2)
 malice5(2)
 management contract219(1)
-managing controllerSch. 4, cl. 1
-marketable securitySch. 3, cl. 1
+managing controllerSch. 4 cl. 1
+marketable securitySch. 3 cl. 1
 material interest217(2)
 member79(4), 309(2)
 member director199(1), 201(1)
-migration timeSch. 3, cl. 4A
+migration timeSch. 3 cl. 4A
 model rules4(1)
 mortgage4(1)
-national newspaperSch. 4, cl. 1
+national newspaperSch. 4 cl. 1
 new body307, 332(2), 333(2), 334(2)
 new co-operative133(1), 133(1), 133(1)
 non-distributing co-operative4(1)
 non-participating co-operative365
 obstruct423(1)
-officer4(1), 207, Sch. 3, cl. 32, Sch. 4, cl. 1, Sch. 4, cl. 3(2)
+officer4(1), 207, Sch. 3 cl. 32, Sch. 4 cl. 1, Sch. 4 cl. 3(2)
 oppressed member85, 85
 original body332(2), 333(2), 334(2)
 original co-operative133(1), 396(1)
@@ -111,36 +126,36 @@ participating co-operative365
 participating registrar365
 participating State365
 place398
-pre-PPS transition periodSch. 3, cl. 4A
-present liabilitySch. 3, cl. 1
+pre-PPS transition periodSch. 3 cl. 4A
+present liabilitySch. 3 cl. 1
 primary activity4(1)
 primary conviction478(2)
-prior chargeSch. 4, cl. 9(1)
-prior registered chargeSch. 3, cl. 45(1)
-priority timeSch. 3, cl. 45(1), 3, cl. 45(3)
-property352(1), Sch. 3, cl. 1, Sch. 4, cl. 1
+prior chargeSch. 4 cl. 9(1)
+prior registered chargeSch. 3 cl. 45(1)
+priority timeSch. 3 cl. 45(1), Sch. 3 cl. 45(3)
+property352(1), Sch. 3 cl. 1, Sch. 4 cl. 1
 proposed company293(1)
-prospective liabilitySch. 3, cl. 1
+prospective liabilitySch. 3 cl. 1
 public service officer452(1)
-receiverSch. 3, cl. 32, 4, cl. 1
+receiverSch. 3 cl. 32, Sch. 4 cl. 1
 records4(1)
-Register of Co-operative ChargesSch. 3, cl. 1
-registered chargeSch. 3, cl. 45(1)
+Register of Co-operative ChargesSch. 3 cl. 1
+registered chargeSch. 3 cl. 45(1)
 registered society492
-registrable chargeSch. 3, cl. 1, 3, cl. 4A
+registrable chargeSch. 3 cl. 1, Sch. 3 cl. 4A
 Registrar4(1)
-registration commencement timeSch. 3, cl. 4A
-registration functionSch. 3, cl. 4A
+registration commencement timeSch. 3 cl. 4A
+registration functionSch. 3 cl. 4A
 related corporation4(1)
-relevant dateSch. 4, cl. 24(1)
-relevant day332(2), 333(2), 334(2), Sch. 3, cl. 26
+relevant dateSch. 4 cl. 24(1)
+relevant day332(2), 333(2), 334(2), Sch. 3 cl. 26
 relevant documents398
 relevant interest4(1)
-relevant personSch. 3, cl. 32
+relevant personSch. 3 cl. 32
 relevant shares151(1)
 repayable amount73(1), 127(1)
 repealed Act476(1)
-reporting officerSch. 4, cl. 20(1)
+reporting officerSch. 4 cl. 20(1)
 required period120(1)
 rules4(1)
 seal4(1)
@@ -152,14 +167,14 @@ State365
 State co-operative389
 State Registrar389
 subordinated debt249(1)
-subsequent registered chargeSch. 3, cl. 45(1)
+subsequent registered chargeSch. 3 cl. 45(1)
 subsidiary4(1)
 substantial change276(5)
 substantial share interest276(4)
 successor co-operative396(1)
 surplus4(1)
 surplus property319(1)
-third party propertySch. 4, cl. 6(1)
+third party propertySch. 4 cl. 6(1)
 transfer74, 307
 transfer day4(1)
 transferee352(2), 354(1), 500(1)
@@ -168,5 +183,5 @@ transferred co-operative4(1)
 transition day396(2)
 transition period492
 undertaking273(1)
-unregistered chargeSch. 3, cl. 45(1)
+unregistered chargeSch. 3 cl. 45(1)
 warrant form413(5)
