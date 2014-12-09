@@ -52,6 +52,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 282 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Acts 1984 s. 7(4)(f).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Repealed by the Public Sector Management Act 1994.
@@ -73,26 +74,37 @@ This Division amends the Liquor Control Act 1988.
 119.Section 119 amended
 Delete section 119(4)(a) and insert:
 (a) on a road as defined in the Road Traffic (Administration) Act 2008 section 4; or
-Defined Terms
+On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) had not come into operation. It reads as follows:
+39.References in other Acts to “Corruption and Crime Commission Act 2003” amended
+(2) In the provisions listed in the Table:
+(a) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
+Corruption, Crime and Misconduct Act 2003
+(b) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
+Corruption, Crime and Misconduct Act 2003
+(c) delete “Corruption and Crime Commission Act 2003” and insert:
+Corruption, Crime and Misconduct Act 2003
+Table
+Liquor Control Act 1988 | s. 30(2)
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 3 unrelated adults117(2b)
 ActSch. 1 cl. 1(1)
 alleged offence167(1)
 alleged offender167(1)
 applicable day65A(1)
-applicant152N, Sch. 1B cl. 4(1)(a)
+applicant152N, Sch. 1B cl. 4(1)
 application152W(1), Sch. 1 cl. 1(1)
 appointed daySch. 1 cl. 1(1)
 approved manager102A, Sch. 1B cl. 1
 approved restricted manager3(1)
 approved unrestricted manager3(1)
 assessment3(1)
-AssociationSch. 2 Div. 2 cl. 1
+AssociationSch. 2 cl. 1
 authorised officer3(1)
 authorised person3(1)
 beer3(1)
-buyer109(4A)(a)
+buyer109(4A)
 casino3(1)
 casino complex3(1)
 casino complex agreement3(1)
@@ -100,13 +112,13 @@ casino gaming licence3(1)
 casino liquor licence3(1)
 chairperson3(1)
 closing time3(1)
-club49(1), Sch. 2 Div. 1 cl. 1, Sch. 2 Div. 2 cl. 1
+club49(1), Sch. 2 cl. 1, Sch. 2 cl. 1
 club licence3(1)
 club restricted licence3(1)
 commencement daySch. 1A cl. 1, Sch. 1B cl. 1
 Commission3(1)
 Commissioner of Police3(1)
-Committee of ManagementSch. 2 Div. 2 cl. 1
+Committee of ManagementSch. 2 cl. 1
 condition3(1)
 confidential police information3(1)
 consume3(1)
@@ -141,7 +153,7 @@ interest of the community3(1)
 juvenile3(1)
 kind3(1)
 lawyer3(1)
-LeagueSch. 2 Div. 1 cl. 1
+LeagueSch. 2 cl. 1
 lease3(1)
 lessee3(1)
 lessor3(1)
@@ -162,7 +174,7 @@ low alcohol liquor3(1)
 manager3(1)
 manager’s approval102A
 meal3(1)
-member3(1)
+member3(1), 3(1)
 member of the family125(3)
 metropolitan area3(1)
 modified penalty167(1)
@@ -204,7 +216,6 @@ relevant period57(1), 93(1a)
 relevant person152A
 removal3(1)
 repealed ActSch. 1 cl. 1(1)
-required day62(4)(c)
 responsible person3(1)
 restaurant3(1)
 restaurant licence3(1)
@@ -221,12 +232,13 @@ special facility licence3(1)
 specified31(8), 40(3), 53(2), 59(6), 60(9), 99(5), 115AA(1), 126E(1), 172(12)
 spirits3(1)
 sports arena110(4B)
-State Branch HeadquartersSch. 2 Div. 1 cl. 1
-State ExecutiveSch. 2 Div. 1 cl. 1
+State Branch HeadquartersSch. 2 cl. 1
+State ExecutiveSch. 2 cl. 1
 subsidy3(1)
 substance3(1)
 tavern licence3(1)
 tavern restricted licence3(1)
+the required day62(4)
 this Act3(1)
 townsite3(1)
 transitional regulationsSch. 1A cl. 10(1)
