@@ -26,6 +26,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 11 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 6 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
 The “Inspector provisions” as defined in the Prisons Amendment Act 1999 s. 2(4) came into operation on 18 Jun 2000 (see Gazette 16 Jun 2000 p. 2939).
 The Inspector of Custodial Services Act 2003 s. 57 and Sch. 3 are transitional provisions.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 11 had not come into operation. It reads as follows:
@@ -62,6 +63,17 @@ by a police officer —
 46.Section 76 amended
 In section 76 delete “under the Mental Health Act 1996.” and insert:
 as required under the Mental Health Act 2014.
+On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) had not come into operation. It reads as follows:
+39.References in other Acts to “Corruption and Crime Commission Act 2003” amended
+(2) In the provisions listed in the Table:
+(a) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
+Corruption, Crime and Misconduct Act 2003
+(b) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
+Corruption, Crime and Misconduct Act 2003
+(c) delete “Corruption and Crime Commission Act 2003” and insert:
+Corruption, Crime and Misconduct Act 2003
+Table
+Court Security and Custodial Services Act 1999 | s. 38(l)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -91,7 +103,6 @@ document3
 firearm90(4)
 frisk search3
 high-level security work3
-hospital4(1)
 identifying particularSch. 2 cl. 7(1)
 intervene3
 intoxicated detainee3
@@ -103,9 +114,7 @@ lock-up3
 medical treatment3, Sch. 2 cl. 10(1)
 non-prescribed lock-up6(1)
 nurse3
-offence for which the contract worker is convicted47
 permit3
-person apprehended under Mental Health Act4(2)
 person in court custody3
 person in custody3, 70
 prison3
@@ -114,7 +123,6 @@ prisoner3
 request66
 Schedule power3
 security3
-security, good order or management5
 sheriff3
 subcontractor3
 vehicle3
