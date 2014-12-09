@@ -16,3 +16,34 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Royal Commissions (Powers) Amendment Act 2006 Pt. 2 | 30 of 2006 | 4 Jul 2006 | 16 Sep 2006 (see s. 2 and Gazette 15 Sep 2006 p. 3683)
 Reprint 3: The Royal Commissions Act 1968 as at 8 Dec 2006 (includes amendments listed above)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) had not come into operation. It reads as follows:
+39.References in other Acts to “Corruption and Crime Commission Act 2003” amended
+(2) In the provisions listed in the Table:
+(a) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
+Corruption, Crime and Misconduct Act 2003
+(b) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
+Corruption, Crime and Misconduct Act 2003
+(c) delete “Corruption and Crime Commission Act 2003” and insert:
+Corruption, Crime and Misconduct Act 2003
+Table
+Royal Commissions Act 1968 | s. 8A(1) def. of public authority and public officer
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+authorised person15(2), 18(11)
+Chairman4
+Commission4
+Commissioner4
+defendant15B(1)
+documents4
+officer of the Commission4
+public authority8A(1)
+public officer8A(1)
+publishes19B(1)
+reasonable excuse13(4)
+relevant material18(11)
+visual recording19B(1)
