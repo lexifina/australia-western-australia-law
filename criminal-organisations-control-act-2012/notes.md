@@ -8,10 +8,22 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Organisations Control Act 2012 s. 176(5) | 49 of 2012 | 29 Nov 2012 | To be proclaimed (see s. 2(b))
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Criminal Organisations Control Act 2012 s. 176(5) had not come into operation. It reads as follows:
 176.Criminal Property Confiscation Act 2000 amended
 (5) In section 159(2) after paragraphs (b) and (c) insert:
 and
+On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) had not come into operation. It reads as follows:
+39.References in other Acts to “Corruption and Crime Commission Act 2003” amended
+(2) In the provisions listed in the Table:
+(a) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
+Corruption, Crime and Misconduct Act 2003
+(b) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
+Corruption, Crime and Misconduct Act 2003
+(c) delete “Corruption and Crime Commission Act 2003” and insert:
+Corruption, Crime and Misconduct Act 2003
+Table
+Criminal Organisations Control Act 2012 | s. 3(1) def. of CC Commissioner, officer of the Corruption and Crime Commission, 7(3)(b), 168, Sch. 1A Pt. 1 it. 3 and Pt. 2 it. 3
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
