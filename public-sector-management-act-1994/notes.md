@@ -103,6 +103,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 37 | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The R & I Holdings Act 1990 was repealed in Gazette 26 Jun 2001 p. 3063 under the R & I Holdings Act 1990 s. 22(2).
@@ -113,10 +114,23 @@ On the date as at which this compilation was prepared, the State Superannuation 
 59.Public Sector Management Act 1994 amended
 The Public Sector Management Act 1994 is amended as follows:
 (a) by repealing section 20(1);
+On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 37 had not come into operation. It reads as follows:
+37.Public Sector Management Act 1994 amended
+(1) This section amends the Public Sector Management Act 1994.
+(2) In section 24D(2) in the Penalty delete “$1 000.” and insert:
+$10 000.
+(3) In section 24D(3) in the Penalty delete “$1 000.” and insert:
+$10 000.
+(4) In Schedule 3 clause 3(4) delete “$1 000.” and insert:
+$10 000.
+(5) In Schedule 3 clause 4(1) delete “$1 000.” and insert:
+$10 000.
+(6) In Schedule 3 clause 5(1) and (2) delete “$1 000.” and insert:
+$10 000.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-accountable authority5(2)(b)
+accountable authority5(2)
 affected department or organisation93(3)
 agency3(1)
 agency of destination50(5)
@@ -144,15 +158,15 @@ former officeSch. 7 cl. 2(1)
 function3(1)
 improvement action3(1)
 incumbent107(1)
-industrial instrument95B
 Industrial Commission3(1)
+industrial instrument95B(1)
 Minister3(1)
 ministerial office3(1)
 ministerial officer3(1), 74(3), 105(4)
 non-SES organisation3(1)
 organisation3(1)
 original contract56(4)
-paragraph (a) provision32(2)(a)
+paragraph (a) provision32(2)
 performance agreement3(1)
 permanent officer3(1)
 political office holder3(1)
@@ -162,8 +176,8 @@ public sector notice3(1)
 public sector standard3(1)
 Public Service3(1)
 public service officer3(1)
-reasonable excuseSch. 3 cl. 3(5) and 4(3)
-registered employee94(1A) and 95A(1)
+reasonable excuseSch. 3 cl. 3(5), Sch. 3 cl. 4(3)
+registered employee94(1A), 95A(1)
 registrable employee94(1A)
 remuneration3(1)
 repealed Act3(1)
