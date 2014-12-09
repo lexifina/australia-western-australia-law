@@ -43,6 +43,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 12 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 Now known as the Gaming and Wagering Commission Act 1987; short title changed (see note under s. 1).
 The Acts Amendment (Continuing Lotteries) Act 2000 Pt. 4 (as amended by the Taxation Administration (Consequential Provisions) Act 2002 s. 6) contains savings and transitional provisions.
@@ -63,9 +64,48 @@ Subdivision 12 — Gaming and Wagering Commission Act 1987 amended
 This Subdivision amends the Gaming and Wagering Commission Act 1987.
 62.Section 12 amended
 Delete section 12(11)(a).
+On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) had not come into operation. It reads as follows:
+39.References in other Acts to “Corruption and Crime Commission Act 2003” amended
+(2) In the provisions listed in the Table:
+(a) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
+Corruption, Crime and Misconduct Act 2003
+(b) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
+Corruption, Crime and Misconduct Act 2003
+(c) delete “Corruption and Crime Commission Act 2003” and insert:
+Corruption, Crime and Misconduct Act 2003
+Table
+Gaming and Wagering Commission Act 1987 | s. 20A(3)
+RWWA Act3(1)
+seized thing32A(1)
+service agreement91(5)
+simultaneous bingo3(1), 94(1)
+slot machine84(1)
+social gambling3(1)
+specified48(2), 87(2), 91(8)
+standard lottery101(1)
+terms89(3)
+ticket101(1)
+token3(1)
+trade promotion lottery3(1)
+Trust109A
+Trust Account109A
+two-up3(1)
+unclaimed winnings109A, 109B(1)
+unlawful game3(1)
+unlawful gaming43A(1)
+unlawful gaming equipment84(1)
+unlawful gaming machine84(1)
+unlawful lottery101(1)
+unlawful wagering43A(1)
+value94(1)
+vehicle3(1)
+vessel3(1)
+wagering3(1), 40A
+winner109B(1)(d)
+winnings3(1)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 appointed member109D(9)
 approval43A(4)
 approved3(1)
@@ -125,11 +165,11 @@ owner3(1)
 paid94(1)
 permit3(1)
 permit holder3(1)
-permitted two-up3(1)
 permitted amusement with prizes3(1)
 permitted bingo3(1)
 permitted gaming3(1)
 permitted lottery3(1)
+permitted two-up3(1)
 player3(1)
 playing3(1)
 possession3(1)
@@ -147,7 +187,7 @@ race day80(1a)
 race meeting3(1)
 related furnishings3(1)
 relevant Act20A(1)
-responsible person109B(1)(d)
+responsible person109B(1)
 RWWA3(1)
 RWWA Act3(1)
 seized thing32A(1)
@@ -158,7 +198,7 @@ social gambling3(1)
 specified48(2), 87(2), 91(8)
 standard lottery101(1)
 terms89(3)
-ticket101(1)
+ticket101(1), 101(1)
 token3(1)
 trade promotion lottery3(1)
 Trust109A
@@ -175,5 +215,5 @@ value94(1)
 vehicle3(1)
 vessel3(1)
 wagering3(1), 40A
-winner109B(1)(d)
+winner109B(1)
 winnings3(1)
