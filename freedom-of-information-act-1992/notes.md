@@ -52,6 +52,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 Sch. 1 it. 4 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 33 | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The State Government Insurance Corporation ceased to exist on 1 July 2012.
@@ -74,47 +75,53 @@ Act | Provision
 .......................... | ........
 Freedom of Information Act 1992 | s. 62(2)
 ...................... | ........
+On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 33 had not come into operation. It reads as follows:
+33.Freedom of Information Act 1992 amended
+(1) This section amends the Freedom of Information Act 1992.
+(2) In Schedule 2 after “The Corruption and Crime Commission.” insert:
+The Public Sector Commissioner, but only in relation to documents originating with or received by the Public Sector Commissioner in relation to his or her functions under the Corruption, Crime and Misconduct Act 2003.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-access applicantGl. cl. 1
-access regulation functionsGl. cl. 7A(1)
-agency99(3), Gl. cl. 1
-applicantGl. cl. 1
-applicant for amendmentGl. cl. 1
-arbitratorGl. cl. 7A(1)
-AuthorityGl. cl. 7A(1)
-BoardGl. cl. 7A(1)
+access applicantGl.
+access regulation functionsGl.
+agency99(3), Gl.
+applicantGl.
+applicant for amendmentGl.
+arbitratorGl.
+AuthorityGl.
+BoardGl.
 Commonwealth intelligence or security agencySch. 1 cl. 5(5)
 confidential information82(1)
-contractorGl. cl. 1
+contractorGl.
 contraventionSch. 1 cl. 5(5)
-Corrective ServicesGl. cl. 1
-courtGl. cl. 1
-documentGl. cl. 1
-edited copyGl. cl. 1
+Corrective ServicesGl.
+courtGl.
+documentGl.
+edited copyGl.
 Executive bodySch. 1 cl. 1(6)
-exempt agencyGl. cl. 1
-exempt documentGl. cl. 1
-exempt matterGl. cl. 1
-exemption certificateGl. cl. 1
+exempt agencyGl.
+exempt documentGl.
+exempt matterGl.
+exemption certificateGl.
 Gold CorporationSch. 1 cl. 15(2)
 information statement94
 internal manual95
 lawSch. 1 cl. 5(5)
 misbehaviour58(2)
-officerGl. cl. 1
+officerGl.
 other governmentSch. 1 cl. 2(3)
 permitted period13(3)
 person45(1)
-personal informationGl. cl. 1
-principal officerGl. cl. 1
-public body or officeGl. cl. 1
-recordGl. cl. 1
-relativeGl. cl. 1
+personal informationGl.
+principal officerGl.
+public body or officeGl.
+recordGl.
+relativeGl.
 relevant office62(1)
-requested documentsGl. cl. 1
+requested documentsGl.
 review proceedings88
-State archiveGl. cl. 1
-subcontractorGl. cl. 1
-third party32(1), 33(1), Gl. cl. 1
+State archiveGl.
+subcontractorGl.
+the agencyGl.
+third party32(1), 33(1), Gl.
