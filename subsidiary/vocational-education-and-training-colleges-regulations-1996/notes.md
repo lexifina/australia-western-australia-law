@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 March 2014 of the Vocational Education and Training (Colleges) Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Vocational Education and Training (Colleges) Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Vocational Education and Training Regulations 1996 | 27 Dec 1996 p. 7167-84 | 1 Jan 1997 (see r. 2 and Gazette 12 Nov 1996 p. 6301)
@@ -37,6 +37,7 @@ Reprint 5: The Vocational Education and Training (Colleges) Regulations 1996 as 
 Vocational Education and Training (Colleges) Amendment Regulations (No. 2) 2012 | 12 Oct 2012 p. 4852-4 | r. 1 and 2: 12 Oct 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Oct 2012 (see r. 2(b))
 Vocational Education and Training (Colleges) Amendment Regulations 2013 | 17 Dec 2013 p. 6255-71 | r. 1 and 2: 17 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
 Reprint 6: The Vocational Education and Training (Colleges) Regulations 1996 as at 7 Mar 2014 (includes amendments listed above)
+Vocational Education and Training (Colleges) Amendment Regulations 2014 | 12 Dec 2014 p. 4739-42 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 of the Commonwealth.
 Formerly referred, incorrectly, to the Student and Youth Allowances Act 1973 of the Commonwealth. The correct short title of the Act was the Student and Youth Assistance Act 1973. That short title was changed to the Student Assistance Act 1973 by the Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998 of the Commonwealth. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Now known as the Vocational Education and Training (Colleges) Regulations 1996; citation changed (see note under r. 1).
@@ -49,15 +50,11 @@ Defined terms
 Defined termProvision(s)
 Admissions Manager5
 Australian resident15A(4)
-band11
 category3(1)
-category A course11
-category B course11
 Centrelink20(1)
-concessional student3(1), 11
+concessional student3(1)
 course3(1), 5
 course fee3(1)
-eligible student11
 hours3(1)
 nominal hours3AA(1)
 payment period24A
@@ -66,4 +63,3 @@ seal book31(1)
 secondary school aged person3(1)
 unforeseen circumstances24A
 unit3(1)
-unit fee13A(1)(a), 13B(1)(a)
