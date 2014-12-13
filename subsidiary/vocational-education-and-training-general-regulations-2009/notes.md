@@ -11,6 +11,7 @@ Vocational Education and Training (General) Amendment Regulations 2013 | 17 Dec 
 Reprint 1: The Vocational Education and Training (General) Regulations 2009 as at 7 Mar 2014 (includes amendments listed above)
 Vocational Education and Training (General) Amendment Regulations (No. 2) 2014 | 15 Jul 2014 p. 2463-4 | r. 1 and 2: 15 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2014 (see r. 2(b))
 Vocational Education and Training (General) Amendment Regulations 2014 | 5 Dec 2014 p. 4525-41 | r. 1 and 2: 5 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Dec 2014 (see r. 2(b))
+Vocational Education and Training (General) Amendment Regulations (No. 3) 2014 | 12 Dec 2014 p. 4742-3 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
 The Training Legislation Amendment and Repeal Act 2008 (other than Pt. 1) commenced 10 Jun 2009.
 The Industrial Training Act 1975 was repealed by the Training Legislation Amendment and Repeal Act 2008.
 The Industrial Training (General Apprenticeship) Regulations 1981 were repealed by r. 56(2) of these regulations. Regulation 56 was omitted under the Reprints Act 1984 s. 7(4)(f).
@@ -29,7 +30,7 @@ child40(1)
 commencement55, Sch. 2 cl. 1
 Commonwealth Act3
 compliance audit7(1), 24
-compliance monitoring audit 7(1), 24
+compliance monitoring audit7(1), 24
 complying training plan43(1)
 compulsory education period40(1)
 continuing registration requirements7(1)
@@ -56,6 +57,7 @@ scope of registration7(1)
 Standards for VET Regulators7(1)
 suspension notice49(4)
 trade apprenticeSch. 2 cl. 1
+units gained institutionally38(3B)
 VET course for a prescribed VET qualification7(1)
 WA3
 WA accredited course7(1)

@@ -79,7 +79,11 @@ e)we will try to resolve any dispute we have between us, and if we can’t, we w
 f)the Contract can be audited by the relevant State/Territory Training Authority or Australian Government Department;
 g)the Contract is successfully completed when there is agreement from the employer, Registered Training Organisation and apprentice/trainee, and/or an acknowledgment by the State/Territory Training Authority, that the apprentice/trainee has attained all the required competencies;
 h)this Contract expires if it reaches the expected term of the apprenticeship/traineeship referred to in question 4 without the apprentice/trainee having attained all the required competencies or a request for an extension of the contract having been endorsed by a State/Territory Training Authority;
-i)this Contract may be terminated in accordance with State/Territory legislation.
+i)this Contract may be terminated in accordance with State/Territory legislation;
+j)any competency based wage progression clause, in an award that this Contract is subject to, cannot be invoked using units gained institutionally**, until —
+i)the apprentice has completed 9 months of employment in this Contract; or
+ii)the apprentice has completed, in this Contract, a period of employment mutually agreed by parties to the Contract. The period may be shorter than the 9 month requirement.
+**units gained institutionally means units gained as part of a prior qualification such as a pre-apprenticeship, but does not include units attained by fulfilling the obligations of an apprentice under a training contract.
 For the employer. I agree that I will:
 a)employ and train the apprentice/trainee as agreed in our Training Plan and ensure the apprentice/trainee understands the choices that he/she has regarding the training;
 b)provide the appropriate facilities and experienced people to facilitate the training and supervise the apprentice/trainee while at work, in accordance with the Training Plan;
@@ -273,4 +277,4 @@ Training Contract ID No..............................................
 pEligible for incentives
 pNot eligible for incentives
 Notes .......................................................................................................................................................................................................................................................................................................................................................................................................................................
-[Schedule 1 inserted in Gazette 5 Dec 2014 p. 4526-41.]
+[Schedule 1 inserted in Gazette 5 Dec 2014 p. 4526-41; 12 Dec 2014 p. 4743.]
