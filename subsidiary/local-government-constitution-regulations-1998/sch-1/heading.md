@@ -109,7 +109,7 @@ An elector is one of the following —
 ·a resident owner or occupier enrolled to vote at State elections;
 ·an owner of rateable property (e.g. an absentee land owner or an owner of business premises, vacant land or other non-residential property);
 ·an occupier of rateable property (e.g. tenant of business premises or other non-residential property).
-[Forms 5 and 6 deleted in Gazette 20 Jan 2006 p. 381.]
+[Forms 5 and 6 deleted: Gazette 20 Jan 2006 p. 381.]
 Form 7.Declaration by elected member of council[r. 13(1)(c)]
 Local Government Act 1995
 Local Government (Constitution) Regulations 1998
@@ -125,7 +125,7 @@ _____________________________
 Insert your residential address.
 Delete those that do not apply.
 Insert the name of the local government.
-[Form 7 inserted in Gazette 21 Aug 2007 p. 4187.]
+[Form 7 inserted: Gazette 21 Aug 2007 p. 4187.]
 Form 8.Declaration by commissioner[r. 13(1)(d)]
 Local Government Act 1995
 Local Government (Constitution) Regulations 1998
@@ -140,4 +140,4 @@ Before me:...................................................................
 ___________________________
 Insert your residential address.
 Insert the name of the local government.
-[Form 8 inserted in Gazette 21 Aug 2007 p. 4188.]
+[Form 8 inserted: Gazette 21 Aug 2007 p. 4188.]
