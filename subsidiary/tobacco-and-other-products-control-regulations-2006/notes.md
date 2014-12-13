@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 21 November 2014 of the Tobacco Products Control Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Tobacco Products Control Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Tobacco Products Control Regulations 2006 | 25 Jul 2006 p. 2797-808 | 31 Jul 2006 (see r. 2)
@@ -14,6 +14,7 @@ Tobacco Products Control Amendment Regulations 2013 | 20 Aug 2013 p. 3853 | r. 1
 Tobacco Products Control Amendment Regulations (No. 3) 2014 | 20 Jun 2014 p. 2025 | r. 1 and 2: 20 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Jun 2014 (see r. 2(b))
 Tobacco Products Control Amendment Regulations 2014 | 27 Jun 2014 p. 2331 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i) and Gazette 17 Jun 2014 p. 1955)
 Reprint 2: The Tobacco Products Control Regulations 2006 as at 21 Nov 2014 (includes amendments listed above)
+Tobacco Products Control Amendment Regulations (No. 4) 2014 | 12 Dec 2014 p. 4715-16 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
