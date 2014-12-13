@@ -53,5 +53,5 @@ If you believe that a person has discriminated against you in a way that is proh
 EXCEPTIONS
 There are a number of exceptions to the above.
 There is general exception for decisions as to bail for a court appearance.
-The other exceptions relate to persons who are being considered for certain positions (for example, police or prison officers, school teachers and other school staff) or who have applied for certain licences (for example, security agents, child care providers, casino employees). These exceptions are in Schedule 3 to the Act which was added by the Spent Convictions Regulations 1992. This should be referred to for particulars.
-[Schedule 2 amended in Gazette 4 Nov 2005 p. 5319.]
+The other exceptions relate to persons who are being considered for certain positions (for example, police or prison officers, school teachers and other school staff) or who have applied for certain authorisations (for example, security agents, child care or education and care service providers, casino employees). These exceptions are in Schedule 3 to the Act which was added by the Spent Convictions Regulations 1992. This should be referred to for particulars.
+[Schedule 2 amended in Gazette 4 Nov 2005 p. 5319; 12 Dec 2014 p. 4720.]

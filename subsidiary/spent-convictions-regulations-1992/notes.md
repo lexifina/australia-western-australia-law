@@ -12,3 +12,4 @@ Spent Convictions Amendment Regulations (No. 2) 2013 | 13 Aug 2013 p. 3736-7 | r
 Spent Convictions Amendment Regulations (No. 2) 2014 | 13 Jun 2014 p. 1897 | r. 1 and 2: 13 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jun 2014 (see r. 2(b))
 Spent Convictions Amendment Regulations (No. 3) 2014 | 27 Jun 2014 p. 2351 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i) and Gazette 17 Jun 2014 p. 1955)
 Spent Convictions Amendment Regulations (No. 5) 2014 | 23 Sep 2014 p. 3476-7 | r. 1 and 2: 23 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Sep 2014 (see r. 2(b))
+Spent Convictions Amendment Regulations 2014 | 12 Dec 2014 p. 4719-20 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
