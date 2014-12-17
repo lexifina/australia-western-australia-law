@@ -26,6 +26,7 @@ Lotteries Commission (Saturday Lotto) Amendment Rules (No. 3) 2010 | 21 Dec 2010
 Reprint 4: The Lotteries Commission (Saturday Lotto) Rules 1996 as at 19 Oct 2012 (includes amendments listed above)
 Lotteries Commission (Saturday Lotto) Amendment Rules 2014 | 6 May 2014 p. 1386-90 | r. 1 and 2: 6 May 2014 (see r. 2(a)); Rules other than r. 1 and 2: 7 May 2014 (see r. 2(b))
 Lotteries Commission (Saturday Lotto) Amendment Rules (No. 2) 2014 | 24 Jun 2014 p. 2093-4 | r. 1 and 2: 24 Jun 2014 (see r. 2(a)); Rules other than r. 1 and 2: 25 Jun 2014 (see r. 2(b))
+Lotteries Commission (Saturday Lotto) Amendment Rules (No. 3) 2014 | 16 Dec 2014 p. 4761-2 | r. 1 and 2: 16 Dec 2014 (see r. 2(a)); Rules other than r. 1 and 2: 17 Dec 2014 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -40,7 +41,6 @@ payout period3
 player’s card3
 player’s card number3
 playslip3
-postal entry10(1)
 prize fund3
 prize pool3
 prize reserve fund3
