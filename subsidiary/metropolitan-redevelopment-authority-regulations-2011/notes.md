@@ -1,12 +1,13 @@
 Notes
-This is a compilation of the Metropolitan Redevelopment Authority Regulations 2011. The following table contains information about those regulations.
+This is a compilation of the Metropolitan Redevelopment Authority Regulations 2011 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Metropolitan Redevelopment Authority Regulations 2011 | 30 Dec 2011 p. 5475-514 | r. 1 and 2: 30 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2011 (see r. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Metropolitan Redevelopment Authority Amendment Regulations 2013 | 30 Aug 2013 p. 4102-3 | r. 1 and 2: 30 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Aug 2013 (see r. 2(b))
-Defined Terms
+Metropolitan Redevelopment Authority Amendment Regulations 2014 | 16 Dec 2014 p. 4762-3 | r. 1 and 2: 16 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Dec 2014 (see r. 2(b))
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 applicant28
 Armadale redevelopment area3
 Australian Accounting Standards26(1)
