@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 May 2014 of the Road Traffic (Authorisation to Drive) Regulations 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic (Authorisation to Drive) Regulations 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Authorisation to Drive) Regulations 2008 | 10 Jun 2008 p. 2367-429 | r. 1 and 2: 10 Jun 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
@@ -15,6 +15,7 @@ Road Traffic (Authorisation to Drive) Amendment Regulations (No. 4) 2012 | 2 Nov
 Road Traffic (Authorisation to Drive) Amendment Regulations (No. 3) 2012 | 30 Nov 2012 p. 5805-8 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jan 2013 (see r. 2(b))
 Road Traffic (Authorisation to Drive) Amendment Regulations 2013 | 12 Apr 2013 p. 1541-2 | r. 1 and 2: 12 Apr 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Apr 2013 (see r. 2(b) and Gazette 12 Apr 2013 p. 1533)
 Reprint 2: The Road Traffic (Authorisation to Drive) Regulations 2008 as at 2 May 2014 (includes amendments listed above)
+Road Traffic (Authorisation to Drive) Amendment Regulations 2014 | 16 Dec 2014 p. 4765-6 | r. 1 and 2: 16 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Dec 2014 (see r. 2(b))
 The Road Traffic Amendment Act 2006 s. 6 came into force on 30 Jun 2008 (see Gazette 10 Jun 2008 p. 2471).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
