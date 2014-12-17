@@ -5,9 +5,10 @@ An Act to make provision —
 •for the establishment and operation of government schools and for parent and community involvement in school affairs; and
 •for the registration of non-government schools and the funding of such schools; and
 •for the registration of community kindergartens; and
-•for administrative responsibilities for school education;
+•for administrative responsibilities for school education; and
+•for the use of property that is vested in the Minister; and
 to repeal the Education Act 1928 and consequentially amend certain other Acts, and to make related provisions.
-[Long title amended by No. 22 of 2005 s. 14.]
+[Long title amended by No. 22 of 2005 s. 14; No. 28 of 2014 s. 22.]
 ## Part 1 — Preliminary
 What this Part is about
 This Part provides for some matters that are relevant to the Act generally.

@@ -21,12 +21,12 @@ Curriculum Council Amendment Act 2011 Pt. 3 Div. 4 | 37 of 2011 | 13 Sep 2011 | 
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 7 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 School Education Amendment Act 2012 Pt. 2 | 46 of 2012 | 29 Nov 2012 | s. 3 and 5: 29 Nov 2012 (see s. 2(a)); Pt. 2 other than s. 3 and 5: 1 Jan 2013 (see s. 2(b))
 Reprint 3: The School Education Act 1999 as at 15 Mar 2013 (includes amendments listed above)
-School Education Amendment Act 2014 Pt. 1 and s. 29 | 28 of 2014 | 27 Nov 2014 | Pt. 1: 27 Nov 2014 (see s. 2(a)); s. 29: 27 Nov 2014 (see s. 2(b)(i))
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+School Education Amendment Act 2014 (other than Pt. 2 Div. 2) | 28 of 2014 | 27 Nov 2014 | Pt. 1: 27 Nov 2014 (see s. 2(a)); s. 29: 27 Nov 2014 (see s. 2(b)(i)); Pt. 2 Div. 1 and 3 (other than s. 29): 17 Dec 2014 (see s. 2(c) and Gazette 16 Dec 2014 p. 4759)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 s. 182(3) and 208 | 36 of 1999 | 2 Nov 1999 | To be proclaimed (see s. 2)
-School Education Amendment Act 2014 Pt. 2 (other than s. 29) | 28 of 2014 | 27 Nov 2014 | To be proclaimed (see s. 2(c))
+School Education Amendment Act 2014 Pt. 2 Div. 2 | 28 of 2014 | 27 Nov 2014 | 2 Feb 2015 (see s. 2(c) and Gazette 16 Jan 2015 p. 311)
 The provisions in this Act amending the other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Children and Community Services Act 2004.
 On the date as at which this compilation was prepared, the School Education Act 1999 s. 182(3) and 208 had not come into operation. They read as follows:
@@ -42,11 +42,8 @@ The Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 s
 (2) When the meaning of “compulsory education period” changes by operation of section 6(b) of the School Education Act 1999 (inserted by subsection (1)), the change extends to the compulsory education period for a child which, but for the change, would have ended on 31 December 2005.
 The Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 s. 21 is a transitional provision of no further effect.
 The Financial Legislation Amendment and Repeal Act 2006 (now known as the Financial Management (Transitional Provisions) Act 2006) Sch. 2 deals with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the School Education Amendment Act 2014 Pt. 2 (other than s. 29) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the School Education Amendment Act 2014 Pt. 2 Div. 2 had not come into operation. It reads as follows:
 Part 2 — School Education Act 1999 amended
-Division 1 — Preliminary
-3.Act amended
-This Part amends the School Education Act 1999.
 Division 2 — Amendments about the registration of non-government schools
 4.Section 150 amended
 (1) In section 150 insert in alphabetical order:
@@ -551,106 +548,6 @@ specified means specified or described in the regulations.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not operate so as —
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the regulations were published in the Gazette; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in relation to anything done or omitted to be done before the regulations were published in the Gazette.
-Division 3 — Other amendments
-22.Long title amended
-In the long title:
-(a) in the last bullet point delete “education;” and insert:
-education; and
-(b) after the last bullet point insert:
-•for the use of property that is vested in the Minister; and
-23.Section 9 amended
-In section 9(3) delete “all”.
-24.Section 11AA inserted
-After section 10 insert:
-11AA.Proof of enrolment to be provided
-(1) If the chief executive officer is of the opinion that section 9(1) is not being complied with in respect of a child to whom it applies, then the chief executive officer, by notice in writing to a parent of the child, may request the parent to provide —
-(a) proof that the child is enrolled in a school for the current year; or
-(b) proof that a parent of the child is currently registered under section 48 as the child’s home educator.
-(2) A parent to whom notice is given under subsection (1) must provide the chief executive officer with the proof requested —
-(a) in writing; and
-(b) within the time specified in the notice.
-Penalty: a fine of $2 500.
-25.Section 11M amended
-Delete section 11M(3)(a) and insert:
-(a) the Executive Director Catholic Education in Western Australia; and
-26.Section 26 amended
-After section 26(2) insert:
-(3) Under subsection (2)(b)(ii), a Panel may advise that a responsible parenting agreement under the Parental Support and Responsibility Act 2008 be entered into, and complied with, in respect of the child.
-27.Section 40 amended
-After section 40(2) insert:
-(3A) Under subsection (2)(b), a Panel may advise that a responsible parenting agreement under the Parental Support and Responsibility Act 2008 be entered into, and complied with, in respect of the child.
-28.Section 42 amended
-(1) In section 42(1)(a) and (1a)(a) delete “all”.
-(2) Delete section 42(4).
-(3) In section 42(5) delete “and, if a report is required under subsection (4), a copy of the report are” and insert:
-is
-(4) Delete section 42(6) and insert:
-(6) Where in any proceedings a document is produced purporting to be a certificate given under subsection (1) or (1a), the court is to presume, unless the contrary is shown, that the document is such a certificate.
-30.Section 213 amended
-In section 213 insert in alphabetical order:
-joint arrangement means an arrangement entered into by the Minister for purposes that are complementary and beneficial to the purposes of school education and which involves any or all of the following —
-(a)enabling any property vested in the Minister to be used for the purposes of the arrangement (joint use property);
-(b)controlling and managing the use of joint use property for the purposes of the arrangement;
-(c)sharing the use of joint use property for the purposes of the arrangement and for the purposes of school education;
-Note:The heading to amended section 213 is to read:
-Terms used
-31.Section 216 amended
-(1) Delete section 216(1) and insert:
-(1) The Minister may do all things necessary or convenient to be done for the purposes of —
-(a) school education; or
-(b) furthering the best interests of students and educational programmes in government schools; or
-(c) carrying out joint arrangements.
-(2) In section 216(2) delete “the purpose” and insert:
-any of the purposes
-32.Sections 218 and 219 replaced
-Delete sections 218 and 219 and insert:
-218.Licences by Minister for use of tangible property
-(1) This section applies to a licence granted by the Minister to a person for the use of tangible property that is vested in the Minister.
-(2) A licence is not to be granted if the use of the property would adversely affect the safety or welfare of students, teaching staff or other persons employed at any school to which the property relates.
-(3) A licence —
-(a) must be in writing; and
-(b) may provide for a payment to be made by the licensee in connection with the use of the property; and
-(c) may provide for an amount of money to be paid by the licensee as security for the performance of the licensee’s obligations under the licence; and
-(d) is otherwise to be on such terms and subject to such conditions as the Minister thinks fit.
-(4) A licence granted for the use of property that is not in use by the school to which the property relates —
-(a) is not to be granted for a period of more than —
-(i) in the case of a licence granted by a subdelegate acting under section 225 — 2 years; or
-(ii) otherwise — 5 years;
-and
-(b) may be renewed once or more than once for a period or successive periods, each not exceeding the period allowed under paragraph (a)(i) or (ii).
-(5) The use of property in respect of which a licence referred to in subsection (4) applies must not interfere with the normal operations of the school to which the property relates.
-(6) A licence granted for the purposes of a joint arrangement may provide for all things necessary or convenient to be done for the purpose of furthering the joint arrangement, including —
-(a) the establishment, composition, powers and duties of a management committee to manage and control the use of the property in accordance with the licence and the joint arrangement; and
-(b) setting out how the property is to be shared and how disputes as to the use of the property are to be resolved; and
-(c) the provision of facilities relating to the property; and
-(d) payment to be made to the Minister by the licensee by way of contribution towards the costs incurred in the provision of any facilities; and
-(e) the appointment and remuneration of staff with respect to the use of the property and any facilities.
-33.Section 220 amended
-In section 220(a):
-(a) delete “to which section 218 applies —” and insert:
-referred to in section 218(4) —
-(b) in subparagraph (ii) delete “218(2)(c) or (d);” and insert:
-218(3)(b) or (c);
-34.Section 240 amended
-In section 240(1):
-(a) delete paragraph (b) and insert:
-(b) that the presence of the person —
-(i) on the premises of that school constitutes a risk to the safety or welfare of students at the premises; or
-(ii) on the premises of any government school constitutes a risk to the safety or welfare of students generally,
-(b) delete “him or her to leave the school premises and remain away —” and insert:
-the person to leave the premises of the school specified in the order and remain away from those premises, or from the premises of all government schools, as the case requires —
-35.Various penalties amended
-In the provisions listed in the Table after “Penalty:” insert:
-a fine of
-Table
-s. 9(2) | s. 13(3)
-s. 15 | s. 27(4)
-s. 29(1) | s. 35
-s. 36(3) | s. 37
-s. 38(1) and (2) | s. 43(2)
-s. 120(2) | s. 121(1)
-s. 149(4) | s. 179
-s. 240(3) | s. 242(1)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -695,6 +592,8 @@ home education moderator50(1)(b)
 home educator46
 incorporated association141
 intake area4
+joint arrangement213
+joint use property213
 licence219(1)
 local-intake school4
 non-government school4
