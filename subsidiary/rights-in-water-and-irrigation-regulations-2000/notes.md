@@ -18,20 +18,21 @@ Rights in Water and Irrigation Amendment Regulations (No. 2) 2009 | 15 Sep 2009 
 Rights in Water and Irrigation Amendment Regulations 2010 | 16 Mar 2010 p. 985 | r. 1 and 2: 16 Mar 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2010 (see r. 2(b))
 Rights in Water and Irrigation Amendment Regulations 2011 | 20 Dec 2011 p. 5411 | r. 1 and 2: 20 Dec 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Dec 2011 (see r. 2(b))
 Rights in Water and Irrigation Amendment Regulations 2013 | 20 Aug 2013 p. 3846 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
+Rights in Water and Irrigation Amendment Regulations 2014 | 16 Dec 2014 p. 4766 | r. 1 and 2: 16 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Dec 2014 (see r. 2(b))
 These regulations have effect for the purposes of the Rights in Water and Irrigation Act 1914 but the formal power to make them is given by the Water Agencies (Powers) Act 1984 s. 37.
 Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
 Disallowed 22 Nov 2007 see Gazette 27 Nov 2007 p. 5910.
 Disallowed 8 Apr 2008 see Gazette 11 Apr 2008 p. 1396.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 Act3
 approved3
 clause47
 Department3
 form3
 licence3, 32
-new owner16(1)(b)
+new owner16(1)
 permit3
 register47
 section3

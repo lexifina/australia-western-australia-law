@@ -2,12 +2,11 @@
 ## Part 1 — Fees relating to licences and permits
 [Heading inserted as Division 1 in Gazette 28 Dec 2007 p. 6430 (disallowed, see Gazette 11 Apr 2008 p. 1396).]
  |  | Fee
-1. | Annual fee for licence (reg. 20(1)) Stony Brook Canning River Serpentine River Dandalup River | $130 $60 $60 $60
-2. | Late fee for annual licence fee (reg. 20(6)) | $20
+[1, 2.deleted]
 3. | Application for approval of transfer of a licence, water entitlement or agreement referred to in clause 30 of Schedule 1 to the Act (cl. 32(1)(c) of that Schedule) | $200
 4. | Fee for certified duplicate of a licence (cl. 45 of Schedule 1 to the Act and reg. 22(1)) | $50
 5. | Maximum amount for meter test (reg. 44(4)) | $500
-[Part 1 amended in Gazette 17 Dec 2002 p. 5917-18; 22 Jun 2007 p. 2882-3 (disallowed, see Gazette 27 Nov 2007 p. 5910); Part 1 inserted as Division 1 in Gazette 28 Dec 2007 p. 6430-1 (disallowed, see Gazette 11 Apr 2008 p. 1396).]
+[Part 1 amended in Gazette 17 Dec 2002 p. 5917-18; 22 Jun 2007 p. 2882-3 (disallowed, see Gazette 27 Nov 2007 p. 5910); Part 1 inserted as Division 1 in Gazette 28 Dec 2007 p. 6430-1 (disallowed, see Gazette 11 Apr 2008 p. 1396); 16 Dec 2014 p. 4766.]
 ## Part 2 — Registration of instruments in the register and access to the register
 [Heading amended in Gazette 22 Jun 2007 p. 2883 (disallowed, see Gazette 27 Nov 2007 p. 5910); Part 2 heading inserted as Division 2 in Gazette 28 Dec 2007 p. 6431 (disallowed, see Gazette 11 Apr 2008 p. 1396).]
  | Registration | Fee
