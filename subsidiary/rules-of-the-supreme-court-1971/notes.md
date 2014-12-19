@@ -133,6 +133,10 @@ Supreme Court Amendment Rules (No. 4) 2013 | 3 May 2013 p. 1718-19 | r. 1 and 2:
 Supreme Court Amendment Rules (No. 3) 2013 | 17 Dec 2013 p. 6231-7 | r. 1 and 2: 17 Dec 2013 (see r. 2(a)); Rules other than r. 1 and 2: 18 Dec 2013 (see r. 2(b))
 Reprint 9: The Rules of the Supreme Court 1971 as at 4 Apr 2014 (includes amendments listed above)
 Supreme Court Amendment Rules (No. 2) 2014 | 26 Sep 2014 p. 3559-62 | r. 1 and 2: 26 Sep 2014 (see r. 2(a)); Rules other than r. 1 and 2: 27 Sep 2014 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Supreme Court Amendment Rules 2014 r. 3-12 | 19 Dec 2014 p. 4845-9 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
 Formerly referred to The Electoral Rules of 1908, the citation of which was changed to the Electoral Rules 1908 by the Electoral Amendment Rules 2009 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Commercial Arbitration Act 1985 was repealed by the Commercial Arbitration Act 2012 s. 44.
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
@@ -142,178 +146,263 @@ The commencement date of 1 Jul 1982 that was specified was before the date of ga
 The Supreme Court Amendment Rules 1994 r. 14 is a transitional provision that has no further effect.
 Disallowed on 10 Mar 1998, see Gazette 13 Mar 1998 p. 1389.
 Disallowed on 29 Oct 2013, see Gazette 1 Nov 2013 p. 4910.
+On the date as at which this compilation was prepared, the Supreme Court Amendment Rules 2014 r. 3-12 had not come into operation. They read as follows:
+3.Rules amended
+These rules amend the Rules of the Supreme Court 1971.
+4.Order 81C heading amended
+In the heading to Order 81C delete “Road Traffic Act 1974” and insert:
+Road traffic legislation
+5.Order 81C rule 1 replaced
+Delete Order 81C rule 1 and insert:
+1.Terms used
+In this Order —
+CEO has the meaning given in the Road Traffic (Administration) Act 2008 section 4;
+RT (AD) Act means the Road Traffic (Authorisation to Drive) Act 2008.
+6.Order 81C rule 2 amended
+(1) In Order 81C rule 2(1) delete “RTA section 76(1)” and insert:
+RT (AD) Act section 27
+(2) In Order 81C rule 2(2) delete “RTA section 76(7)(a)” and insert:
+RT (AD) Act section 35(1)
+(3) In Order 81C rule 2(3) delete “RTA section 76(7)(b)” and insert:
+RT (AD) Act section 35(2)
+(4) In Order 81C rule 2(4) delete “RTA section 78” and insert:
+RT (AD) Act section 24(1)
+Note:The heading to amended rule 2 is to read:
+Applications under RT (AD) Act s. 24, 27 or 35, how to be made
+7.Order 81C rule 3 amended
+In Order 81C rule 3(1) delete “RTA section 76 or 78.” and insert:
+RT (AD) Act section 29 or 35(3).
+8.Order 81C rule 4 amended
+(1) In Order 81C rule 4(1) delete “Director General.” and insert:
+CEO.
+(2) In Order 81C rule 4(2) delete “Director General” and insert:
+CEO
+9.Order 81C rule 5 amended
+(1) In Order 81C rule 5(1):
+(a) delete “Director General” and insert:
+CEO
+(b) delete “RTA section 76(1) or (7)(a) or 78.” and insert:
+RT (AD) Act section 24(1), 27 or 35(1).
+(2) In Order 81C rule 5(2):
+(a) delete “Director General has been served with an application made under the RTA section 76(1) or (7)(a) or 78,” and insert:
+CEO been served with an application made under the RT (AD) Act section 24(1), 27 or 35(1),
+(b) delete “Director General.” and insert:
+CEO.
+(3) In Order 81C rule 5(5) delete “RTA section 76(7)(b)” and insert:
+RT (AD) Act section 35(2)
+10.Order 81C rule 6
+(1) In Order 81C rule 6(1) delete “RTA section 76(1) or (7)(a) or (b) —” and insert:
+RT (AD) Act section 27 or 35(1) or (2) —
+(2) In Order 81C rule 6(2) delete “RTA section 76 or 78,” and insert:
+RT (AD) Act section 24(1), 27 or 35(1) or (2),
+11.Order 81C rule 7 amended
+In Order 81C rule 7 delete “RTA section 76 or 78, a registrar must give the Director General” and insert:
+RT (AD) Act section 24(1), 27 or 35(1) or (2), a registrar must give the CEO
+Note:The heading to amended rule 7 is to read:
+CEO to be notified of decision
+12.Schedule 2 amended
+(1) In Schedule 2 Form 101:
+(a) delete “Road Traffic Act 1974 s. 76(1)” (each occurrence) and insert:
+Road Traffic (Authorisation to Drive) Act 2008 s. 27
+(b) delete “Director General” and insert:
+CEO
+(c) delete “Road Traffic Act 1974 s. 76(3).” and insert:
+Road Traffic (Authorisation to Drive) Act 2008 s. 30.
+(2) In Schedule 2 Form 102:
+(a) delete “Road Traffic Act 1974 s. 76(7)(a)” (each occurrence) and insert:
+Road Traffic (Authorisation to Drive) Act 2008 s. 35(1)
+(b) delete “Road Traffic Act 1974 s. 76(9)(a).” and insert:
+Road Traffic (Authorisation to Drive) Act 2008 s. 35(4).
+(3) In Schedule 2 Form 103:
+(a) delete “Road Traffic Act 1974 s. 76(7)(b)” (each occurrence) and insert:
+Road Traffic (Authorisation to Drive) Act 2008 s. 35(2)
+(b) delete “by Director General” and insert:
+by CEO
+(c) delete “the Director General” and insert:
+the CEO
+(d) delete “for Director General” and insert:
+for CEO
+(e) delete “Road Traffic Act 1974 s. 76(9).” and insert:
+Road Traffic (Authorisation to Drive) Act 2008 s. 35(4).
+Note:The heading to amended Form 103 is to read:
+Application by CEO to vary, cancel extraordinary licence (O. 81C r. 2(3))
+(4) In Schedule 2 Form 104:
+(a) delete “Road Traffic Act 1974 s. 78” (each occurrence) and insert:
+Road Traffic (Authorisation to Drive) Act 2008 s. 24(1)
+(b) delete “Road Traffic Act 1974 s. 78,” and insert:
+Road Traffic (Authorisation to Drive) Act 2008 s. 24(1),
+(c) delete “Road Traffic Act 1974 s. 78(5).” and insert:
+Road Traffic (Authorisation to Drive) Act 2008 s. 24(5).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-AO. 4A r. 2(2)(n)
-AccountantO. 1 r. 4(1)
-ActO. 1 r. 4(1), O. 38A r. 1(a), O. 39 r. 1(a), O. 39A r. 1(1), O. 44A r. 1(a), O. 46 r. 1, O. 70 r. 1, O. 75 r. 1, O. 76 r. 1, O. 80A r. 1, O. 81B r. 1(1), O. 81E r. 1, O. 81F r. 1(1), O. 81G r. 1(1), O. 81H r. 1, O. 85 r. 1(1)
-action for personal injuriesO. 36A r. 1
-additional authorityO. 11A r. 1
-addresseeO. 36B r. 1(1)
-Admiralty RulesO. 84 r. 9(1)
-ancillary orderO. 52A r. 1
-another courtO. 52A r. 1
-any relevant scaleO. 66 r. 11(1)
-appealO. 65 r. 1
-appeal noticeO. 65 r. 1
-applicantO. 11A r. 1, O. 52A r. 1, O. 52B r. 1
-application O. 56 r. 1(1)
-approved mediatorO. 4A r. 1
-arbitration lawO. 81D r. 1
-arbitratorO. 81D r. 1
-Australian diplomatic or consular agentO. 1 r. 4(1)
-BO. 4A r. 2(2)(n)
-caseO. 1 r. 4(1), O. 4A r. 1
-case management directionO. 4A r. 1
-case management registrarO. 1 r. 4(1)
-case managerO. 1 r. 4(1), O. 4A r. 1
-Cause BookO. 1 r. 4(1)
-Central AuthorityO. 11A r. 1
-Central OfficeO. 1 r. 4(1)
-certificate O. 39A r. 5(1A)
-certificate of service O. 11A r. 1
-certifying authorityO. 11A r. 1
-challenged conduct O. 56 r. 1(1)
-challenged decision O. 56 r. 1(1)
-chargeO. 62A r. 1(3)
-civil proceedingsO. 11A r. 1
-claimO. 81G r. 1(1), O. 66 r. 25(1)
-claimantO. 66 r. 25(1)
-CMC ListO. 4A r. 1
-CMC List caseO. 4A r. 1
-CMC List judgeO. 4A r. 1
-concludedO. 65 r. 1
-conduct O. 56 r. 1(1)
-conduct moneyO. 36B r. 1(1)
-confiscable property declarationO. 81FA r. 1
-Confiscation Act 2000O. 81FA r. 1
-consular agentO. 1 r. 4(1)
-contemnorO. 55 r. 1
-Convention countryO. 11A r. 1
-costsO. 1 r. 4(1)
-CourtO. 1 r. 4(2)
-Court expertO. 40 r. 1
-court of renditionO. 81B r. 1(1)
-crime-used property substitution declarationO. 81C r. 1
-criminal benefits declarationO. 81C r. 1
-cross-vesting lawsO. 81E r. 1
-defendantO. 11A r. 1
-describedO. 52B r. 1
-descriptionO. 26A r. 1
-diplomatic agentO. 1 r. 4(1)
-Director GeneralO. 81C r. 1
-documentO. 26 r. 1A, O. 26A r. 1
-Electoral CommissionerO. 65C r. 1
-enforcementO. 81B r. 1(1)
-enforcement orderO. 4A r. 1
-examinerO. 38 r. 4(1)
-examination orderO. 81FA r. 1
-expertO. 40 r. 1
-fileO. 1 r. 4(1)
-filedO. 1 r. 4(1)
-filingO. 1 r. 4(1)
-first offerO. 24A r. 3(7)
-folioO. 1 r. 4(1)
-foreign judicial documentO. 11A r. 1
-form O. 1 r. 4(1)
-forwarding authorityO. 11A r. 1
-freezing noticeO. 81FA r. 1
-freezing orderO. 52A r. 1 and 2(1), O. 81FA r. 1
-geographical addressO. 1 r. 4(1)
-grantO. 75 r. 1
-Hague ConventionO. 11A r. 1
-independent solicitorsO. 52B r. 6(1)
-initiating processO. 11A r. 1
-inspectionO. 26 r. 1A
-Inactive Cases ListO. 4A r. 21
-interested non-partyO. 9A r. 1
-interim orderO. 65 r. 1
-interstate confiscation declarationO. 81FA r. 1
-interstate freezing orderO. 81FA r. 1
-interstate lawyerO. 75A r. 1
-issuing officerO. 36B r. 1(1)
-issuing partyO. 36B r. 1(1)
-judgmentO. 52A r. 1
-landO. 53 r. 1
-limitation period O. 56 r. 1(1)
-list of documentsO. 26 r. 5(3)
-local judicial documentO. 11A r. 1
-local rollO. 75A r. 1
-masterO. 1 r. 4(1)
-medical evidenceO. 36A r. 1
-medical reportO. 36A r. 1
-monitoring orderO. 81FA r. 1
-monthO. 3 r. 1
-mortgageO. 10 r. 1(2), O. 62A r. 1(2) and (3)
-mortgageeO. 10 r. 1(2)
-mortgagorO. 10 r. 1(2)
-non-partyO. 26A r. 3(2) and 5(1)
-objectO. 4A r. 2(2)(n)
-objectionO. 81FA r. 1
-officerO. 1 r. 4(1)
-official channelO. 11 r. 1
-originating summonsO. 1 r. 4(1)
-own costs orderO. 66 r. 25(1)
-partyO. 28 r. 1(6)
-person under disabilityO. 66 r. 24(1), O. 70 r. 1
-personal property situate within the jurisdictionO. 10 r. 1(2)
-place of renditionO. 81B r. 1(1)
-plaintiffO. 25 r. 4
-possessionO. 26A r. 1
-potential partyO. 26A r. 3(1) and 4(1)
-practitionerO. 1 r. 4(1)
-premisesO. 52B r. 1
-prescribed feeO. 1 r. 4(1)
-prescribed rateO. 51 r. 7(3)
-primary courtO. 65 r. 1
-primary court caseO. 65 r. 11(1)
-primary court’s transcriptO. 65 r. 1
-privilegeO. 36A r. 1
-probate actionO. 1 r. 4(1), O. 73 r. 1(2)
-proceedingO. 81E r. 1
-processO. 11 r. 1
-production orderO. 81FA r. 1
-proper officerO. 1 r. 4(1)
-provisional decisionO. 65 r. 7(2)
-receiverO. 1 r. 4(1)
-recordO. 52B r. 5(1)
-registrarO. 1 r. 4(1)
-RegistryO. 73 r. 1(3), O. 75 r. 1
-remedy O. 56 r. 1(1)
-represented personO. 70 r. 1
-request for service abroadO. 11A r. 1
-request for service in this jurisdictionO. 11A r. 1
-respondentO. 52A r. 1, O. 52B r. 1
-review orderO. 56A r. 1(1)
-reviewable conduct O. 56 r. 1(1)
-reviewable decision O. 56 r. 1(1)
-RTAO. 81C r. 1
-rulesO. 1 r. 4(1)
-rules of CourtO. 1 r. 4(1)
-said ActO. 62 r. 1(1), O. 80 r. 1
-search orderO. 52B r. 1
-second offerO. 24A r. 3(7)
-sectionO. 46 r. 1, O. 56A r. 1(1), O. 81F r. 1(1), O. 85 r. 1(1)
-service detailsO. 1 r. 4(1)
-settlementO. 70 r. 10(3)
-sham transaction orderO. 81FA r. 1
-special federal matterO. 81E r. 1
-subpoenaO. 36B r. 1(1)
-subpoena to attend to give evidenceO. 36B r. 1(2)
-subpoena to produceO. 36B r. 1(3)
-sufficient timeO. 11A r. 10(3)
-Supreme Court (full bench)O. 75A r. 1
-suspension orderO. 81FA r. 1
-taxing officerO. 1 r. 4(1)
-testamentary scriptO. 73 r 1(3)
-these rulesO. 1 r. 4(1)
-third partyO. 52A r. 5(5)
-this jurisdictionO. 11A r. 1
-to fileO. 1 r. 4(1)
-trialO. 1 r. 4(1)
-tribunalO. 31 r. 8(6)
-unexplained wealth declarationO. 81FA r. 1
-willO. 73 r. 1(3)
-working dayO. 1 r. 4(1)
-writO. 1 r. 4(1), O. 56 r. 1(1)
+Accountant4(1)
+Act4(1), 1, 1, 1(1), 1, 1, 1, 1, 1, 1, 1(1), 1, 1(1), 1(1), 1, 1(1)
+Australian diplomatic or consular agent4(1)
+case4(1), 1
+case management registrar4(1)
+case manager4(1), 1
+Cause Book4(1)
+Central Office4(1)
+consular agent4(1)
+costs4(1)
+diplomatic agent4(1)
+folio4(1)
+form4(1)
+geographical address4(1)
+master4(1)
+officer4(1)
+originating summons4(1)
+practitioner4(1)
+prescribed fee4(1)
+probate action4(1), 1(2)
+proper officer4(1)
+receiver4(1)
+registrar4(1)
+rules4(1)
+these rules4(1)
+rules of court4(1)
+service details4(1)
+taxing officer4(1)
+to file4(1)
+file4(1)
+filed4(1)
+filing4(1)
+trial4(1)
+working day4(1)
+writ4(1), 1(1)
+Court4(2)
+month1
+approved mediator1
+case management direction1
+CMC List1
+CMC List case1
+CMC List judge1
+enforcement order1
+object)2(2)
+Inactive Cases List21
+interested non-party1
+personal property situate within the jurisdiction1(2)
+mortgage1(2), 1(2), 1(3)
+mortgagee1(2)
+mortgagor1(2)
+official channel1
+process1
+additional authority1
+applicant1, 1, 1
+Central Authority1
+certificate of service1
+certifying authority1
+civil proceedings1
+Convention country1
+defendant1
+foreign judicial document1
+forwarding authority1
+Hague Convention1
+initiating process1
+local judicial document1
+request for service abroad1
+request for service in this jurisdiction1
+this jurisdiction1
+sufficient time10(3)
+first offer3(7)
+second offer3(7)
+plaintiff4
+document1A, 1
+inspection1A
+list of documents5(3)
+description1
+possession1
+potential party3(1), 4(1)
+non-party3(2), 5(1)
+party1(6)
+tribunal8(6)
+action for personal injuries1
+medical evidence1
+medical report1
+privilege1
+addressee1(1)
+conduct money1(1)
+issuing officer1(1)
+issuing party1(1)
+subpoena1(1)
+subpoena to attend to give evidence1(2)
+subpoena to produce1(3)
+examiner4(1)
+certificate5(1A)
+Court expert1
+expert1
+section1, 1(1), 1(1), 1(1)
+prescribed rate7(3)
+ancillary order1
+another court1
+freezing order1, 2(1), 1
+judgment1
+respondent1, 1
+third party5(5)
+described1
+premises1
+search order1
+record5(1)
+independent solicitors6(1)
+land1
+contemnor1
+application1(1)
+challenged conduct 1(1)
+challenged decision1(1)
+conduct1(1)
+limitation period1(1)
+remedy1(1)
+reviewable conduct1(1)
+reviewable decision1(1)
+review order1(1)
+said Act1(1), 1
+charge1(3)
+appeal1
+appeal notice1
+concluded1
+interim order1
+primary court1
+primary court’s transcript1
+provisional decision7(2)
+primary court case11(1)
+Electoral Commissioner1
+any relevant scale11(1)
+person under disability24(1), 1
+claim25(1), 1(1)
+claimant25(1)
+own costs order25(1)
+represented person1
+settlement10(3)
+Registry1(3), 1
+testamentary script1(3)
+will1(3)
+grant1
+interstate lawyer1
+local roll1
+Supreme Court (full bench)1
+court of rendition1(1)
+enforcement1(1)
+place of rendition1(1)
+Director General1
+RTA1
+arbitration law1
+arbitrator1
+cross-vesting laws1
+proceeding1
+special federal matter1
+confiscable property declaration1
+Confiscation Act 20001
+crime-used property substitution declaration1
+criminal benefits declaration1
+examination order1
+freezing notice1
+interstate confiscation declaration1
+interstate freezing order1
+monitoring order1
+objection1
+production order1
+sham transaction order1
+suspension order1
+unexplained wealth declaration1
+Admiralty Rules9(1)
