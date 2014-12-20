@@ -42,6 +42,7 @@ Item | Description of fee | Fee ($)
 4. | Application for registration as building surveying contractor level 1 or level 2 (partnership) | 68.00
 5. | Application for registration as building surveying contractor level 1 or level 2 (company) | 68.00
 6. | Registration fee for building surveying practitioner technician (18 months) | 225.00
+7A. | Registration fee for building surveying practitioner technician (3 years) | 450.00
 7. | Registration fee for building surveying practitioner level 1 or level 2 (18 months) | 423.00
 8. | Registration fee for building surveying practitioner level 1 or level 2 (3 years) | 868.00
 9. | Registration fee for building surveying contractor level 1 or level 2 (individual) (18 months) | 295.50
@@ -51,7 +52,7 @@ Item | Description of fee | Fee ($)
 13. | Registration fee for building surveying contractor level 1 or level 2 (company) (18 months) | 963.50
 14. | Registration fee for building surveying contractor level 1 or level 2 (company) (3 years) | 1 977.00
 15. | Late fee for application for renewal made after the renewal period | 52.25
-[Division 4A inserted in Gazette 31 Dec 2013 p. 6538; amended in Gazette 17 Jun 2014 p. 1960-1.]
+[Division 4A inserted in Gazette 31 Dec 2013 p. 6538; amended in Gazette 17 Jun 2014 p. 1960-1; 19 Dec 2014 p. 4842.]
 ## Division 4 — Painters
 [Heading inserted in Gazette 31 Dec 2013 p. 6539.]
 Item | Description of fee | Fee ($)
