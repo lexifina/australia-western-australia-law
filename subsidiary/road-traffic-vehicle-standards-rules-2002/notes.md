@@ -8,9 +8,19 @@ Road Traffic (Vehicle Standards) Amendment Rules 2004 | 27 Jul 2004 p. 3083 | 27
 Road Traffic (Vehicle Standards) Amendment Rules 2005 | 23 Dec 2005 p. 6280 | 1 Jan 2006 (see r. 2 and Gazette 23 Dec 2005 p. 6244-5)
 Reprint 1: The Road Traffic (Vehicle Standards) Rules 2002 as at 1 May 2009 (includes amendments listed above)
 Road Traffic (Vehicle Standards) Amendment Rules 2012 | 22 Jun 2012 p. 2797-8 | r. 1 and 2: 22 Jun 2012 (see r. 2(a)); Rules other than r. 1 and 2: 23 Jun 2012 (see r. 2(b))
-Defined Terms
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 2 | 23 Dec 2014 p. 4914 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
+On the date as at which this compilation was prepared, the Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Regulations repealed
+3.Regulations repealed
+The regulations listed in the Table are repealed.
+Table
+Road Traffic (Vehicle Standards) Rules 2002
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 adopted standard18
 ADR8
 approved material37(2)
