@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 October 2014 of the Road Traffic (Licensing) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic (Licensing) Regulations 1975 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Licensing) Regulations 1975 | 29 May 1975 p. 1577-88 | 1 Jun 1975
@@ -142,6 +142,10 @@ Road Traffic (Licensing) Amendment Regulations 2012 | 14 Dec 2012 p. 6207-8 | r.
 Road Traffic (Licensing) Amendment Regulations (No. 2) 2013 | 12 Apr 2013 p. 1540 | r. 1 and 2: 12 Apr 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Apr 2013 (see r. 2(b) and Gazette 12 Apr 2013 p. 1533)
 Road Traffic (Licensing) Amendment Regulations (No. 2) 2014 | 9 Sep 2014 p. 3249-52 | r. 1 and 2: 9 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Sep 2014 (see r. 2(b))
 Reprint 9: The Road Traffic (Licensing) Regulations 1975 as at 17 Oct 2014 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 2 | 23 Dec 2014 p. 4914 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
 Repealed by the Motor Vehicle (Third Party Insurance) Regulations 2009.
 Revoked on 4 Oct 1974 (see Gazette 3 Oct 1974 p. 3701).
 Revoked on 1 Jun 1975 (see Gazette 29 May 1975 p. 1577).
@@ -154,6 +158,12 @@ Disallowance of the Road Traffic (Licensing) Amendment Regulations (No. 2) 1997 
 The Road Traffic (Licensing) Amendment Regulations (No. 3) 2000 r. 6 reads as follows:
 6.Transitional
 A licence for a vehicle of a class described in the portion of the Table deleted by regulation 5(4) is to be taken to be a licence for the appropriate class of vehicle described in the portion of the Table inserted by that regulation.
+On the date as at which this compilation was prepared, the Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Regulations repealed
+3.Regulations repealed
+The regulations listed in the Table are repealed.
+Table
+Road Traffic (Licensing) Regulations 1975
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -171,7 +181,6 @@ converter dolly3(1)
 electric personal transporter3(1)
 electric personal transporter use area3(1)
 goods vehicle3(1)
-goods vehicle derivativeSch. 3 cl. 1(3)
 heavy trailer3(1)
 heavy vehicle3(1)
 holder26E(2)
@@ -209,7 +218,6 @@ special purpose vehicle3(1)
 statutory write-off3(1)
 tow truck3(1)
 trailer3(1)
-trailer derivativeSch. 3 cl. 1(3)
 unloaded mass3(1)
 vehicle identification number3(1)
 Vehicle Standards3(1)
