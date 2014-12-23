@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 March 2013 of the Road Traffic (Wardens) Regulations 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic (Wardens) Regulations 1986 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Wardens) Regulations 1986 | 28 Nov 1986 p. 4382-4 | 28 Nov 1986
@@ -14,6 +14,16 @@ Road Traffic (Wardens) Amendment Regulations 2003 | 28 Feb 2003 p. 680-1 | 28 Fe
 Road Traffic (Wardens) Amendment Regulations 2005 | 23 Dec 2005 p. 6280-1 | 1 Jan 2006 (see r. 2 and Gazette 23 Dec 2005 p. 6244-5)
 Road Traffic (Wardens) Amendment Regulations (No. 2) 2006 | 13 Jun 2006 p. 2064-6 | 13 Jun 2006
 Reprint 2: The Road Traffic (Wardens) Regulations 1986 as at 15 Mar 2013 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 2 | 23 Dec 2014 p. 4914 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
+On the date as at which this compilation was prepared, the Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Regulations repealed
+3.Regulations repealed
+The regulations listed in the Table are repealed.
+Table
+Road Traffic (Wardens) Regulations 1986
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
