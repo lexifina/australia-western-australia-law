@@ -84,10 +84,20 @@ Road Traffic (Infringements) Amendment Regulations 2011 | 30 Aug 2011 p. 3512 | 
 Reprint 7: The Road Traffic (Infringements) Regulations 1975 as at 9 Mar 2012 (includes amendments listed above)
 Road Traffic (Infringements) Amendment Regulations 2013 | 20 Aug 2013 p. 3847 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Road Traffic (Infringements) Amendment Regulations 2014 | 9 Sep 2014 p. 3248 | r. 1 and 2: 9 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Sep 2014 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 2 | 23 Dec 2014 p. 4914 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
 Under the Alteration of Statutory Designation (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
 Under the Duties Act 2008 Sch. 3 cl. 28(2), a reference to the Stamp Act 1921 in a written law is, if it is appropriate in the context to do so, to be taken to be a reference to the Duties Act 2008.
 This amendment was superseded in Gazette 29 Jun 1979 p. 1777-8.
 The amendments to the First Schedule do not have effect because the items they would have amended were deleted in Gazette 1 Dec 2000 p. 6759.
+On the date as at which this compilation was prepared, the Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Regulations repealed
+3.Regulations repealed
+The regulations listed in the Table are repealed.
+Table
+Road Traffic (Infringements) Regulations 1975
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
