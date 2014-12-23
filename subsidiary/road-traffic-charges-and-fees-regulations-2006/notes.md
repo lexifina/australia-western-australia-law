@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 18 July 2014 of the Road Traffic (Charges and Fees) Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Road Traffic (Charges and Fees) Regulations 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Charges and Fees) Regulations 2006 | 24 Nov 2006 p. 4843-85 | 4 Dec 2006 (see r. 2 and Gazette 28 Nov 2006 p. 4889)
@@ -47,6 +47,10 @@ Road Traffic (Charges and Fees) Amendment Regulations (No. 5) 2014 | 30 May 2014
 Road Traffic (Charges and Fees) Amendment Regulations (No. 3) 2014 | 13 Jun 2014 p. 1905-6 | r. 1 and 2: 13 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Road Traffic (Charges and Fees) Amendment Regulations (No. 6) 2014 | 13 Jun 2014 p. 1906-15 | r. 1 and 2: 13 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Reprint 4: The Road Traffic (Charges and Fees) Regulations 2006 as at 18 Jul 2014 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 2 | 23 Dec 2014 p. 4914 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 2) 2007 r. 3 reads as follows:
@@ -79,13 +83,19 @@ For the purposes of section 28A of the Act, the specified day in relation to the
 The Road Traffic (Charges and Fees) Amendment Regulations (No. 5) 2014 r. 2 reads as follows:
 2.Specified day
 For the purposes of section 28A of the Act, the specified day in relation to these regulations is 1 July 2014.
+On the date as at which this compilation was prepared, the Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Regulations repealed
+3.Regulations repealed
+The regulations listed in the Table are repealed.
+Table
+Road Traffic (Charges and Fees) Regulations 2006
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 agricultural machine3(1)
 agricultural special purpose vehicle3(1)
 Centrelink9AA(1)
-current licence41(4)(a)
+current licence41(4)
 data storage device57(1)
 exempt motorised wheelchair3(1)
 farm3(1)
