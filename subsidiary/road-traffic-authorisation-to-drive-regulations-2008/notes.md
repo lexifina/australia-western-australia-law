@@ -16,7 +16,17 @@ Road Traffic (Authorisation to Drive) Amendment Regulations (No. 3) 2012 | 30 No
 Road Traffic (Authorisation to Drive) Amendment Regulations 2013 | 12 Apr 2013 p. 1541-2 | r. 1 and 2: 12 Apr 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Apr 2013 (see r. 2(b) and Gazette 12 Apr 2013 p. 1533)
 Reprint 2: The Road Traffic (Authorisation to Drive) Regulations 2008 as at 2 May 2014 (includes amendments listed above)
 Road Traffic (Authorisation to Drive) Amendment Regulations 2014 | 16 Dec 2014 p. 4765-6 | r. 1 and 2: 16 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Dec 2014 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 2 | 23 Dec 2014 p. 4914 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
 The Road Traffic Amendment Act 2006 s. 6 came into force on 30 Jun 2008 (see Gazette 10 Jun 2008 p. 2471).
+On the date as at which this compilation was prepared, the Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Regulations repealed
+3.Regulations repealed
+The regulations listed in the Table are repealed.
+Table
+Road Traffic (Authorisation to Drive) Regulations 2008
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -25,6 +35,7 @@ another jurisdiction’s driving authorisation3, 60(1)
 applicant19(1)
 authorised45(3)
 axle3
+child care service11(1A)
 Department3
 disqualified3
 driver licence14(1)
@@ -40,7 +51,7 @@ grant by way of renewal3
 GVM3
 instructor49(1)
 L plates51(1)
-learner49(1), 51(4)(b)
+learner49(1), 51(4)
 learner approved motor cycle3
 moped3
 motor carrier3
@@ -54,6 +65,6 @@ relevant driving authorisation4(1), 12(9)
 reviewable decision42(1)
 schooling10(1)
 semi-trailer3
-taxi11(2), 12(3)
+taxi11(1A), 12(3)
 trailer3
 working day27(1)
