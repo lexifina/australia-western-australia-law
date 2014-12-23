@@ -50,6 +50,10 @@ Road Traffic Code Amendment Regulations 2014 | 4 Apr 2014 p. 885-6 | r. 1 and 2:
 Reprint 4: The Road Traffic Code 2000 as at 25 Jul 2014 (includes amendments listed above)
 Road Traffic Code Amendment Regulations (No. 3) 2014 | 9 Sep 2014 p. 3243-7 | r. 1 and 2: 9 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Sep 2014 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 5) 2014 | 31 Oct 2014 p. 4181 | r. 1 and 2: 31 Oct 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2014 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 4 | 23 Dec 2014 p. 4917-29 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
 Repealed by the Dangerous Goods Safety Act 2004.
 Repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
@@ -58,6 +62,158 @@ Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in 
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Road Traffic Code Amendment Regulations (No. 4) 2000 r. 5 is not included because of an error in the reference to the provision to be amended.
 The commencement date of 1 Oct 2007 that was specified in r. 2(b) was before the date of gazettal.
+On the date as at which this compilation was prepared, the Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — Road Traffic Code 2000 amended
+7.Regulations amended
+This Part amends the Road Traffic Code 2000.
+8.Regulation 3 amended
+(1) In regulation 3(1) delete the definitions of:
+combination
+GCM
+GVM
+vehicle
+Vehicle Standards
+(2) In regulation 3(1) insert in alphabetical order:
+combination has the meaning given in the Road Traffic (Vehicles) Regulations 2014 regulation 3;
+vehicle, in Parts 4 to 11 inclusive and in Part 18, does not include a wheeled toy or wheeled recreational device;
+Vehicle Standards means the Road Traffic (Vehicles) Regulations 2014 Parts 10, 11 and 13;
+(3) In regulation 3(1) in the definition of accredited pilot delete “2008” and insert:
+2014
+(4) In regulation 3(1) in the definition of bicycle:
+(a) in paragraph (a) delete “penny-farthing and tricycle; but” and insert:
+penny-farthing, tricycle and power assisted pedal cycle; but
+(b) in paragraph (b) after “vehicle” insert:
+(other than a power assisted pedal cycle)
+(5) In regulation 3(1) in the definition of dipped delete “Vehicle Standards;” and insert:
+Road Traffic (Vehicles) Regulations 2014 regulation 3;
+(6) In regulation 3(1) in the definition of front fog light delete “Vehicle Standards;” and insert:
+Road Traffic (Vehicles) Regulations 2014 regulation 3;
+(7) In regulation 3(1) in the definition of holiday period delete “subregulation (2);” and insert:
+the Road Traffic (Authorisation to Drive) Regulations 2014 regulation 67;
+(8) In regulation 3(1) in the definition of oversize delete “Vehicle Standards;” and insert:
+Road Traffic (Vehicles) Regulations 2014 regulation 3;
+(9) In regulation 3(1) in the definition of rear fog light delete “Vehicle Standards;” and insert:
+Road Traffic (Vehicles) Regulations 2014 regulation 226;
+(10) In regulation 3(1) in the definition of special purpose vehicle paragraph (e) delete “governmental or local authority” and insert:
+State government agency or local government
+(11) In regulation 3(1) in the definition of tow truck delete “Road Traffic (Tow Truck) Regulations 1975;” and insert:
+Road Traffic (Vehicles) Regulations 2014 regulation 3;
+(12) Delete regulation 3(2) and (3).
+9.Regulation 6 deleted
+Delete regulation 6.
+10.Regulation 9 amended
+Delete regulation 9(4) and (5) and insert:
+(4) The Road Traffic (Administration) Regulations 2014 regulation 24(2) makes provision in relation to infringement notice offences under these regulations and the penalties for those offences.
+(5) The Road Traffic (Authorisation to Drive) Regulations 2014 regulation 65(3) makes provision in relation to demerit point offences under these regulations and the demerit points for those offences.
+11.Regulation 18 amended
+In regulation 18(b) delete “and fixed by, or under, the Act or any regulation.” and insert:
+under a road law.
+12.Regulation 79 amended
+In regulation 79(1)(e) delete “the Act.” and insert:
+a road law.
+13.Regulation 110 amended
+(1) In regulation 110(1) in the definition of B-double delete “Road Traffic (Vehicle Standards) Regulations 2002 Glossary;” and insert:
+Road Traffic (Vehicles) Regulations 2014 regulation 3;
+(2) In regulation 110(1) in the definition of road train delete “Road Traffic (Vehicle Standards) Regulations 2002 Glossary.” and insert:
+Road Traffic (Vehicles) Regulations 2014 regulation 3.
+14.Part 11 Division 7 inserted
+At the end of Part 11 insert:
+Division 7 — Freight containers
+138A.Freight container not to be driven on prohibited road
+(1) In this regulation —
+freight container has the meaning given in the Road Traffic (Vehicles) Act 2012 section 3(1);
+O’Connor Industrial Area means the area described in Schedule 5 which includes the portions of roads described as bordering that area;
+prohibited road means South Street between the intersections of South Street and the Kwinana Freeway and South Street and Stock Road.
+(2) A person must not drive a vehicle carrying a freight container on any part of the prohibited road.
+Points: 3Modified penalty: 2 PU
+(3) Subregulation (2) does not apply to a vehicle that is carrying a freight container for delivery to, or collection from, an address —
+(a) on the prohibited road; or
+(b) within the O’Connor Industrial Area.
+(4) The commission of an offence under subregulation (2) is not affected by whether or not signage mentioned in regulation 138B is displayed.
+138B.Signs
+The Commissioner of Main Roads may authorise the display of signage to inform the public of the prohibition in regulation 138A.
+15.Regulation 182 amended
+In regulation 182 delete “or the Road Traffic (Towed Agricultural Implements) Regulations 1995”.
+16.Regulation 184 amended
+(1) In regulation 184(2) delete “regulation 5(2) of the Road Traffic (Tow Truck) Regulations 1975,” and insert:
+the Road Traffic (Vehicles) Regulations 2014 regulation 410(2)
+(2) Delete regulation 184(4) and insert:
+(4) In subregulation (3) —
+dangerous goods has the meaning given in the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007 regulation 28;
+placard load has the meaning given in the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007 regulation 4.
+17.Regulation 189 amended
+In regulation 189 delete “ride” and insert:
+drive
+18.Regulation 230 amended
+In regulation 230 in the definition of medical practitioner delete “has the same meaning as in the Medical Practitioners Act 2008 section 4;” and insert:
+means a person who is registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
+19.Regulation 274 deleted
+Delete regulation 274.
+20.Regulation 278 amended
+In regulation 278(8) delete “Road Traffic (Towed Agricultural Implements) Regulations 1995,” and insert:
+Road Traffic (Vehicles) Regulations 2014 Part 13,
+21.Regulation 279 amended
+In regulation 279(2):
+(a) in paragraph (a) delete “Road Traffic (Tow Truck) Regulations 1975; or” and insert:
+Road Traffic (Vehicles) Regulations 2014 Part 12; or
+(b) in paragraph (b) delete “Road Traffic (Towed Agricultural Implements) Regulations 1995.” and insert:
+Road Traffic (Vehicles) Regulations 2014 Part 13.
+22.Regulation 284 amended
+In regulation 284(2) delete “passengers of a member of the Police Force or to members of the Police Force when conveying passengers” and insert:
+a passenger of a police officer or to a police officer conveying a passenger
+23.Regulation 289 amended
+(1) In regulation 289(1):
+(a) in paragraph (c)(iv) delete “that exceed the maximum height, width, length or mass limitations under the Vehicle Standards while that vehicle, or those vehicles, are subject to a permit issued under those regulations; and” and insert:
+to which an order or permit as defined in the Road Traffic (Vehicles) Act 2012 section 32 relates; and
+(b) in paragraph (c)(iva) delete “that exceeds the maximum height, width, length or mass limitations under the Vehicle Standards while that vehicle, or that combination, is subject to a permit issued under those regulations, requiring” and insert:
+to which an order or permit as defined in the Road Traffic (Vehicles) Act 2012 section 32 relates and which requires
+(c) in paragraph (e) delete “with the Vehicle Standards or if permitted by regulation 224 of these regulations.” and insert:
+with, or if permitted by, regulation 224.
+(2) In regulation 289(3) delete “Vehicle Standards.” and insert:
+Road Traffic (Vehicles) Regulations 2014 regulation 3.
+24.Regulation 297 amended
+In regulation 297(9) delete “member of the Police Force (including a warden),” and insert:
+police officer
+25.Schedule 5 inserted
+After Schedule 4 insert:
+Schedule 5 — O’Connor Industrial Area
+[r. 138A]
+The O’Connor Industrial Area is the area bordered by —
+•South Street between the intersections of South Street and Ladner Way and South Street and Hines Road;
+•Hines Road between the intersections of Hines Road and South Street and Hines Road and Clarke Street;
+•Clarke Street between the intersections of Clarke Street and Hines Road and Clarke Street and Carrington Street;
+•Carrington Street between the intersections of Carrington Street and Clarke Street and Carrington Street and Sainsbury Road;
+•Sainsbury Road between the intersection of Sainsbury Road and Carrington Street and the southern point of the eastern boundary of the Fremantle cemetery;
+•the eastern boundary of the Fremantle cemetery between Sainsbury Road and Leach Highway;
+•Leach Highway from the northern point of the eastern boundary of the Fremantle cemetery to the intersection of Leach Highway and Stock Road;
+•Stock Road between the intersections of Stock Road and Leach Highway and Stock Road and Garling Street;
+•Garling Street between the intersections of Garling Street and Stock Road and Garling Street and Bowen Street;
+•Bowen Street between the intersections of Bowen Street and Garling Street and Bowen Street and Winterburn Way;
+•Winterburn Way until it reaches Ladner Street;
+•Ladner Street between the intersections of Ladner Street and Winterburn Way and Ladner Street and South Street.
+For information purposes the area described above is shown on the following map.
+26.Various references to “Director General” amended
+In the provisions listed in the Table delete “Director General” (each occurrence) and insert:
+CEO
+Table
+r. 3(1) def. of emergency vehicle par. (e) and special purpose vehicle par. (f) | r. 59(2) def. of public bus
+r. 113(5) | r. 209A(1) def. of protective helmet
+r. 222(1) def. of protective helmet, (3)(b) and (4) | r. 230N(2)
+r. 230 def. of booster seat par. (c), child restraint par. (c), child safety harness par. (b) and seating position par. (b) | r. 231(3)
+r. 240(1) and (2) | r. 244(1) def. of protective helmet, (4), (5) and (6)(a) and (b)
+r. 277(1) and (2) | r. 278(2) and (6)(a)
+r. 283(2) def. of emergency worker par. (d) | r. 284(1)(d)
+r. 289(1)(a), (b) and (c) except for r. 289(1)(c)(i) | r. 292(g)
+27.Various references to “member of the Police Force” amended
+In the provisions listed in the Table delete “member of the Police Force” (each occurrence) and insert:
+police officer
+Table
+r. 3(1) def. of special purpose vehicle par. (a) | r. 27(3)
+r. 46(3)(d) | r. 231(3)
+r. 241(1), (2) and (3)(a) and (b) | r. 253(2)(i)
+r. 272(1) | r. 273(1), (3) and (4)
+r. 275(3) | r. 282(1)
+r. 283(1) | r. 284(1)(a)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
