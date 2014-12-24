@@ -1,192 +1,192 @@
 ## Schedule 1 — Fees and charges
 [r. 3]
-[Heading inserted in Gazette 13 Dec 2013 p. 6179.]
+[Heading inserted in Gazette 23 Dec 2014 p. 4898.]
 ## Division 1 — Gascoyne region
-[Heading inserted in Gazette 13 Dec 2013 p. 6179.]
+[Heading inserted in Gazette 23 Dec 2014 p. 4898.]
 Metered rates
  | Flagfall | Distance rate | Detention
-Tariff 1 Monday to Friday 6 a.m. to 6 p.m. | $4.10 | $2.27/km | $48.10/hour
-Tariff 2 Monday to Friday 6 p.m. to 6 a.m.
-Friday 6 p.m. to Monday 6 a.m.
-All day Public Holidays | $6.00 | $2.27/km | $48.10/hour
-Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $6.00 | $3.35/km | $74.60/hour
+Tariff 1 Monday to Friday 6 am to 6 pm | $4.20 | $2.31/km | $49.00/hour
+Tariff 2 Monday to Friday 6 pm to 6 am
+Friday 6 pm to Monday 6 am
+All day Public Holidays | $6.10 | $2.31/km | $49.00/hour
+Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $6.10 | $3.41/km | $76.00/hour
 Off meter rates
  | Distance rate (during hiring and for forward or return journey)
-When carrying fewer than 5 passengers | $1.22/km
-When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $1.85/km
+When carrying fewer than 5 passengers | $1.25/km
+When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $1.90/km
 Other charges
-Cleaning (when soiled during hiring — for time required to clean) | $48.10/hour
+Cleaning (when soiled during hiring — for time required to clean) | $49.00/hour
 Call out fee | $1.50
 Surcharges
-Ultra-Peak — Between midnight Friday to 5 a.m. Saturday or midnight Saturday to 5 a.m. Sunday | $2.60
-Christmas Day — midnight to midnight | $5.00
-New Year’s Eve — 6 p.m. New Year’s Eve to 6 a.m. New Year’s Day | $5.60
-[Division 1 inserted in Gazette 13 Dec 2013 p. 6179-80.]
+Ultra-Peak — Between midnight Friday to 5 am Saturday or midnight Saturday to 5 am Sunday | $2.65
+Christmas Day — midnight to midnight | $5.10
+New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.70
+[Division 1 inserted in Gazette 23 Dec 2014 p. 4898-9.]
 ## Division 2 — Goldfields-Esperance region
-[Heading inserted in Gazette 13 Dec 2013 p. 6180.]
+[Heading inserted in Gazette 23 Dec 2014 p. 4899.]
 Metered rates
  | Flagfall | Distance rate | Detention
-Tariff 1 Monday to Friday 6 a.m. to 6 p.m. | $4.10 | $1.75/km | $48.10/hour
-Tariff 2 Monday to Friday 6 p.m. to 6 a.m.
-Friday 6 p.m. to Monday 6 a.m.
-All day Public Holidays | $6.00 | $1.75/km | $48.10/hour
-Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $6.00 | $2.51/km | $74.60/hour
+Tariff 1 Monday to Friday 6 am to 6 pm | $4.20 | $1.80/km | $49.00/hour
+Tariff 2 Monday to Friday 6 pm to 6 am
+Friday 6 pm to Monday 6 am
+All day Public Holidays | $6.10 | $1.80/km | $49.00/hour
+Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $6.10 | $2.56/km | $76.00/hour
 Off meter rates
  | Distance rate (during hiring and for forward or return journey)
-When carrying fewer than 5 passengers | $1.11/km
-When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $1.63/km
+When carrying fewer than 5 passengers | $1.15/km
+When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $1.66/km
 Other charges
-Cleaning (when soiled during hiring — for time required to clean) | $48.10/hour
+Cleaning (when soiled during hiring — for time required to clean) | $49.00/hour
 Call out fee | $1.50
 Surcharges
-Ultra-Peak — Between midnight Friday to 5 a.m. Saturday or midnight Saturday to 5 a.m. Sunday | $2.60
-Christmas Day — midnight to midnight | $5.00
-New Year’s Eve — 6 p.m. New Year’s Eve to 6 a.m. New Year’s Day | $5.60
-[Division 2 inserted in Gazette 13 Dec 2013 p. 6180-1.]
+Ultra-Peak — Between midnight Friday to 5 am Saturday or midnight Saturday to 5 am Sunday | $2.65
+Christmas Day — midnight to midnight | $5.10
+New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.70
+[Division 2 inserted in Gazette 23 Dec 2014 p. 4899-901.]
 ## Division 3 — Great Southern region
-[Heading inserted in Gazette 13 Dec 2013 p. 6181.]
+[Heading inserted in Gazette 23 Dec 2014 p. 4901.]
 Metered rates
  | Flagfall | Distance rate | Detention
-Tariff 1 Monday to Friday 6 a.m. to 6 p.m. | $4.10 | $1.71/km | $48.10/hour
-Tariff 2 Monday to Friday 6 p.m. to 6 a.m.
-Friday 6 p.m. to Monday 6 a.m.
-All day Public Holidays | $6.00 | $1.71/km | $48.10/hour
-Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $6.00 | $2.54/km | $74.60/hour
+Tariff 1 Monday to Friday 6 am to 6 pm | $4.20 | $1.75/km | $49.00/hour
+Tariff 2 Monday to Friday 6 pm to 6 am
+Friday 6 pm to Monday 6 am
+All day Public Holidays | $6.10 | $1.75/km | $49.00/hour
+Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $6.10 | $2.60/km | $76.00/hour
 Off meter rates
  | Distance rate (during hiring and for forward or return journey)
-When carrying fewer than 5 passengers | $1.02/km
-When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $1.55/km
+When carrying fewer than 5 passengers | $1.05/km
+When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $1.60/km
 Other charges
-Cleaning (when soiled during hiring — for time required to clean) | $48.10/hour
+Cleaning (when soiled during hiring — for time required to clean) | $49.00/hour
 Call out fee | $1.50
 Surcharges
-Ultra-Peak — Between midnight Friday to 5 a.m. Saturday or midnight Saturday to 5 a.m. Sunday | $2.60
-Christmas Day — midnight to midnight | $5.00
-New Year’s Eve — 6 p.m. New Year’s Eve to 6 a.m. New Year’s Day | $5.60
-[Division 3 inserted in Gazette 13 Dec 2013 p. 6181-2.]
+Ultra-Peak — Between midnight Friday to 5 am Saturday or midnight Saturday to 5 am Sunday | $2.65
+Christmas Day — midnight to midnight | $5.10
+New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.70
+[Division 3 inserted in Gazette 23 Dec 2014 p. 4901-2.]
 ## Division 4 — Kimberley region
-[Heading inserted in Gazette 13 Dec 2013 p. 6182.]
+[Heading inserted in Gazette 23 Dec 2014 p. 4902.]
 Metered rates
  | Flagfall | Distance rate | Detention
-Tariff 1 Monday to Friday 6 a.m. to 6 p.m. | $4.10 | $2.23/km | $48.10/hour
-Tariff 2 Monday to Friday 6 p.m. to 6 a.m.
-Friday 6 p.m. to Monday 6 a.m.
-All day Public Holidays | $6.00 | $2.23/km | $48.10/hour
-Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $6.00 | $3.28/km | $74.60/hour
+Tariff 1 Monday to Friday 6 am to 6 pm | $4.20 | $2.27/km | $49.00/hour
+Tariff 2 Monday to Friday 6 pm to 6 am
+Friday 6 pm to Monday 6 am
+All day Public Holidays | $6.10 | $2.27/km | $49.00/hour
+Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $6.10 | $3.35/km | $76.00/hour
 Off meter rates
  | Distance rate (during hiring and for forward or return journey)
-When carrying fewer than 5 passengers | $1.24/km
-When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $1.88/km
+When carrying fewer than 5 passengers | $1.26/km
+When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $1.92/km
 Other charges
-Cleaning (when soiled during hiring — for time required to clean) | $48.10/hour
+Cleaning (when soiled during hiring — for time required to clean) | $49.00/hour
 Call out fee | $1.50
 Surcharges
-Ultra-Peak — Between midnight Friday to 5 a.m. Saturday or midnight Saturday to 5 a.m. Sunday | $2.60
-Christmas Day — midnight to midnight | $5.00
-New Year’s Eve — 6 p.m. New Year’s Eve to 6 a.m. New Year’s Day | $5.60
-[Division 4 inserted in Gazette 13 Dec 2013 p. 6182-3.]
+Ultra-Peak — Between midnight Friday to 5 am Saturday or midnight Saturday to 5 am Sunday | $2.65
+Christmas Day — midnight to midnight | $5.10
+New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.70
+[Division 4 inserted in Gazette 23 Dec 2014 p. 4902-4.]
 ## Division 5 — Mid West region
-[Heading inserted in Gazette 13 Dec 2013 p. 6184.]
+[Heading inserted in Gazette 23 Dec 2014 p. 4904.]
 Metered rates
  | Flagfall | Distance rate | Detention
-Tariff 1 Monday to Friday 6 a.m. to 6 p.m. | $4.20 | $1.73/km | $48.50/hour
-Tariff 2 Monday to Friday 6 p.m. to 6 a.m.
-Friday 6 p.m. to Monday 6 a.m.
-All day Public Holidays | $6.10 | $1.73/km | $48.50/hour
-Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $6.10 | $2.55/km | $75.10/hour
+Tariff 1 Monday to Friday 6 am to 6 pm | $4.30 | $1.76/km | $49.50/hour
+Tariff 2 Monday to Friday 6 pm to 6 am
+Friday 6 pm to Monday 6 am
+All day Public Holidays | $6.20 | $1.76/km | $49.50/hour
+Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $6.20 | $2.60/km | $76.60/hour
 Off meter rates
  | Distance rate (during hiring and for forward or return journey)
-When carrying fewer than 5 passengers | $1.03/km
-When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $1.56/km
+When carrying fewer than 5 passengers | $1.05/km
+When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $1.60/km
 Other charges
-Cleaning (when soiled during hiring — for time required to clean) | $48.50/hour
+Cleaning (when soiled during hiring — for time required to clean) | $49.45/hour
 Call out fee | $1.50
 Surcharges
-Ultra-Peak — Between midnight Friday to 5 a.m. Saturday or midnight Saturday to 5 a.m. Sunday | $2.60
-Christmas Day — midnight to midnight | $5.00
-New Year’s Eve — 6 p.m. New Year’s Eve to 6 a.m. New Year’s Day | $5.70
-[Division 5 inserted in Gazette 13 Dec 2013 p. 6184.]
+Ultra-Peak — Between midnight Friday to 5 am Saturday or midnight Saturday to 5 am Sunday | $2.65
+Christmas Day — midnight to midnight | $5.10
+New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.80
+[Division 5 inserted in Gazette 23 Dec 2014 p. 4904-5.]
 ## Division 6 — Peel region
-[Heading inserted in Gazette 13 Dec 2013 p. 6185.]
+[Heading inserted in Gazette 23 Dec 2014 p. 4905.]
 Metered rates
  | Flagfall | Distance rate | Detention
-Tariff 1 Monday to Friday 6 a.m. to 6 p.m. | $4.10 | $1.71/km | $48.10/hour
-Tariff 2 Monday to Friday 6 p.m. to 6 a.m.
-Friday 6 p.m. to Monday 6 a.m.
-All day Public Holidays | $6.00 | $1.71/km | $48.10/hour
-Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $6.00 | $2.54/km | $74.60/hour
+Tariff 1 Monday to Friday 6 am to 6 pm | $4.20 | $1.75/km | $49.00/hour
+Tariff 2 Monday to Friday 6 pm to 6 am
+Friday 6 pm to Monday 6 am
+All day Public Holidays | $6.10 | $1.75/km | $49.00/hour
+Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $6.10 | $2.60/km | $76.00/hour
 Off meter rates
  | Distance rate (during hiring and for forward or return journey)
-When carrying fewer than 5 passengers | $1.02/km
-When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $1.55/km
+When carrying fewer than 5 passengers | $1.05/km
+When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $1.60/km
 Other charges
-Cleaning (when soiled during hiring — for time required to clean) | $48.10/hour
+Cleaning (when soiled during hiring — for time required to clean) | $49.00/hour
 Call out fee | $1.50
 Surcharges
-Ultra-Peak — Between midnight Friday to 5 a.m. Saturday or midnight Saturday to 5 a.m. Sunday | $2.60
-Christmas Day — midnight to midnight | $5.00
-New Year’s Eve — 6 p.m. New Year’s Eve to 6 a.m. New Year’s Day | $5.60
-[Division 6 inserted in Gazette 13 Dec 2013 p. 6185.]
+Ultra-Peak — Between midnight Friday to 5 am Saturday or midnight Saturday to 5 am Sunday | $2.65
+Christmas Day — midnight to midnight | $5.10
+New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.70
+[Division 6 inserted in Gazette 23 Dec 2014 p. 4905-7.]
 ## Division 7 — Pilbara region
-[Heading inserted in Gazette 13 Dec 2013 p. 6186.]
+[Heading inserted in Gazette 23 Dec 2014 p. 4907.]
 Metered rates
  | Flagfall | Distance rate | Detention
-Tariff 1 Monday to Friday 6 a.m. to 6 p.m. | $4.10 | $2.27/km | $48.10/hour
-Tariff 2 Monday to Friday 6 p.m. to 6 a.m.
-Friday 6 p.m. to Monday 6 a.m.
-All day Public Holidays | $6.00 | $2.27/km | $48.10/hour
-Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $6.00 | $3.35/km | $74.60/hour
+Tariff 1 Monday to Friday 6 am to 6 pm | $4.20 | $2.31/km | $49.00/hour
+Tariff 2 Monday to Friday 6 pm to 6 am
+Friday 6 pm to Monday 6 am
+All day Public Holidays | $6.10 | $2.31/km | $49.00/hour
+Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $6.10 | $3.41/km | $76.00/hour
 Off meter rates
  | Distance rate (during hiring and for forward or return journey)
-When carrying fewer than 5 passengers | $1.22/km
-When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $1.85/km
+When carrying fewer than 5 passengers | $1.25/km
+When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $1.90/km
 Other charges
-Cleaning (when soiled during hiring — for time required to clean) | $48.10/hour
+Cleaning (when soiled during hiring — for time required to clean) | $49.00/hour
 Call out fee | $1.50
 Surcharges
-Ultra-Peak — Between midnight Friday to 5 a.m. Saturday or midnight Saturday to 5 a.m. Sunday | $2.60
-Christmas Day — midnight to midnight | $5.00
-New Year’s Eve — 6 p.m. New Year’s Eve to 6 a.m. New Year’s Day | $5.60
-[Division 7 inserted in Gazette 13 Dec 2013 p. 6186.]
+Ultra-Peak — Between midnight Friday to 5 am Saturday or midnight Saturday to 5 am Sunday | $2.65
+Christmas Day — midnight to midnight | $5.10
+New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.70
+[Division 7 inserted in Gazette 23 Dec 2014 p. 4907-8.]
 ## Division 8 — South West region
-[Heading inserted in Gazette 13 Dec 2013 p. 6187.]
+[Heading inserted in Gazette 23 Dec 2014 p. 4908.]
 Metered rates
  | Flagfall | Distance rate | Detention
-Tariff 1 Monday to Friday 6 a.m. to 6 p.m. | $4.10 | $1.71/km | $48.10/hour
-Tariff 2 Monday to Friday 6 p.m. to 6 a.m.
-Friday 6 p.m. to Monday 6 a.m.
-All day Public Holidays | $6.00 | $1.71/km | $48.10/hour
-Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $6.00 | $2.54/km | $74.60/hour
+Tariff 1 Monday to Friday 6 am to 6 pm | $4.20 | $1.75/km | $49.00/hour
+Tariff 2 Monday to Friday 6 pm to 6 am
+Friday 6 pm to Monday 6 am
+All day Public Holidays | $6.10 | $1.75/km | $49.00/hour
+Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $6.10 | $2.60/km | $76.00/hour
 Off meter rates
  | Distance rate (during hiring and for forward or return journey)
-When carrying fewer than 5 passengers | $1.02/km
-When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $1.55/km
+When carrying fewer than 5 passengers | $1.05/km
+When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $1.60/km
 Other charges
-Cleaning (when soiled during hiring — for time required to clean) | $48.10/hour
+Cleaning (when soiled during hiring — for time required to clean) | $49.00/hour
 Call out fee | $1.50
 Surcharges
-Ultra-Peak — Between midnight Friday to 5 a.m. Saturday or midnight Saturday to 5 a.m. Sunday | $2.60
-Christmas Day — midnight to midnight | $5.00
-New Year’s Eve — 6 p.m. New Year’s Eve to 6 a.m. New Year’s Day | $5.60
-[Division 8 inserted in Gazette 13 Dec 2013 p. 6187.]
+Ultra-Peak — Between midnight Friday to 5 am Saturday or midnight Saturday to 5 am Sunday | $2.65
+Christmas Day — midnight to midnight | $5.10
+New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.70
+[Division 8 inserted in Gazette 23 Dec 2014 p. 4908-10.]
 ## Division 9 — Wheatbelt region
-[Heading inserted in Gazette 13 Dec 2013 p. 6188.]
+[Heading inserted in Gazette 23 Dec 2014 p. 4910.]
 Metered rates
  | Flagfall | Distance rate | Detention
-Tariff 1 Monday to Friday 6 a.m. to 6 p.m. | $4.10 | $1.75/km | $48.10/hour
-Tariff 2 Monday to Friday 6 p.m. to 6 a.m.
-Friday 6 p.m. to Monday 6 a.m.
-All day Public Holidays | $6.00 | $1.75/km | $48.10/hour
-Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $6.00 | $2.51/km | $74.60/hour
+Tariff 1 Monday to Friday 6 am to 6 pm | $4.20 | $1.80/km | $49.00/hour
+Tariff 2 Monday to Friday 6 pm to 6 am
+Friday 6 pm to Monday 6 am
+All day Public Holidays | $6.10 | $1.80/km | $49.00/hour
+Tariff 3 When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $6.10 | $2.56/km | $76.00/hour
 Off meter rates
  | Distance rate (during hiring and for forward or return journey)
-When carrying fewer than 5 passengers | $1.11/km
-When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $1.63/km
+When carrying fewer than 5 passengers | $1.15/km
+When carrying 5 or more passengers (if the vehicle was manufactured to carry 6 or more adult passengers) | $1.66/km
 Other charges
-Cleaning (when soiled during hiring — for time required to clean) | $48.10/hour
+Cleaning (when soiled during hiring — for time required to clean) | $49.00/hour
 Call out fee | $1.50
 Surcharges
-Ultra-Peak — Between midnight Friday to 5 a.m. Saturday or midnight Saturday to 5 a.m. Sunday | $2.60
-Christmas Day — midnight to midnight | $5.00
-New Year’s Eve — 6 p.m. New Year’s Eve to 6 a.m. New Year’s Day | $5.60
-[Division 9 inserted in Gazette 13 Dec 2013 p. 6188-9.]
+Ultra-Peak — Between midnight Friday to 5 am Saturday or midnight Saturday to 5 am Sunday | $2.65
+Christmas Day — midnight to midnight | $5.10
+New Year’s Eve — 6 pm New Year’s Eve to 6 am New Year’s Day | $5.70
+[Division 9 inserted in Gazette 23 Dec 2014 p. 4910-11.]
