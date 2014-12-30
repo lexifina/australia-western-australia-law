@@ -29,10 +29,11 @@ Telecommunications (Interception) Western Australia Amendment Act 2011 Pt. 3 | 2
 Commonwealth Heads of Government Meeting (Special Powers) Act 2011 Pt. 9 | 23 of 2011 | 11 Jul 2011 | 12 Jul 2011 (see s. 2(b))
 Criminal Investigation (Covert Powers) Act 2012 Pt. 7 | 55 of 2012 | 3 Dec 2012 | 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
 Reprint 5: The Corruption and Crime Commission Act 2003 as at 18 Oct 2013 (includes amendments listed above)
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 32 | 35 of 2014 | 9 Dec 2014 | 30 Dec 2014 (see s. 2(b) and Gazette 30 Dec 2014 p. 5497)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Corruption and Crime Commission Amendment (Misconduct) Act 2014 Pt. 2 | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 Pt. 2 (other than s. 32) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 3 Div. 3 Subdiv. 2 reads as follows:
 Part 3 — Repeals, transitional and savings provisions, and consequential amendments
@@ -131,7 +132,7 @@ to or in relation to any matter.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not operate so as to —
 (a) affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
-On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 Pt. 2 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 Pt. 2 (other than s. 32) had not come into operation. It reads as follows:
 Part 2 — Corruption and Crime Commission Act 2003 amended
 3.Act amended
 This Part amends the Corruption and Crime Commission Act 2003.
@@ -643,9 +644,6 @@ s. 25(1) | s. 26(1)
 s. 28(2)(a) | s. 41(1)
 s. 84(1) | s. 100(2)
 s. 148(3)
-32.Schedule 2 clause 3 amended
-(1) In Schedule 2 clause 3(4) delete “subclause (5) and”.
-(2) Delete Schedule 2 clause 3(5).
 Note:The headings to the amended sections listed in the Table are to read as set out in the Table.
 Table
 Amended section | Section heading
@@ -689,8 +687,8 @@ disclose3(1)
 examination3(1)
 exceptional powers45
 exceptional powers finding45, 46(2)
-formal authority119, 121(2)(a)
-formal variation of an authority124(3)(a)
+formal authority119, 121(2)
+formal variation of an authority124(3)
 former judgeSch. 2 cl. 4(6)
 fortification67(1)
 heavily fortified67(1)
@@ -733,7 +731,7 @@ Police Royal Commission3(1)
 presiding officer27A(4)
 prevention and education function17(1)
 principal officer of a notifying authority3(1)
-Privileges Committee27B(1)(a)
+Privileges Committee27B(1)
 produce152(1), 153(1), 208(1), 209(1)
 public authority3(1)
 public officer3(1)
@@ -756,8 +754,8 @@ Standing Committee3(1)
 State Records Commission3(1)
 subcontractor3(1)
 submission67(1)
-submission period67(1), 69(2)(b)
-urgent authority119, 121(2)(b)
-urgent variation of an authority124(3)(b)
+submission period67(1), 69(2)
+urgent authority119, 121(2)
+urgent variation of an authority124(3)
 warrant101(1)
 witness3(1)
