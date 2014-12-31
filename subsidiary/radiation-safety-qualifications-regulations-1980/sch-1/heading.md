@@ -11,4 +11,4 @@ radiation safety examination
 7.Measures to be taken to eliminate unnecessary exposure, and to reduce dose from necessary exposure, of persons submitted to radiation for diagnostic purposes.
 8.The Radiation Safety Act 1975, and regulations made thereunder, together with all amendments to that Act and those regulations.
 9.Standards, rules, codes or specifications recognized by the Council for the purposes of regulation 5(1).
-[Schedule 1 amended in Gazette 19 April 1984 p.1108; 15 March 1991 p.1127; 24 January 1992 p.367; 25 June 1993 p.3078; 21 February 1997 p.1172.]
+[Schedule 1 amended in Gazette 19 Apr 1984 p. 1108; 15 Mar 1991 p. 1127; 24 Jan 1992 p. 367; 25 Jun 1993 p. 3078; 21 Feb 1997 p. 1172.]
