@@ -1,16 +1,17 @@
 ## Schedule XV — Fees
 [Regulation 58]
-Part 1 — Registration and licences
+## Part 1 — Registration and licences
+[Heading inserted in Gazette 30 Dec 2014 p. 5502.]
  | $
  | Annual | Triennial
 1.Fee for registration or renewal of registration of premises (other than premises used solely for the mining and milling of radioactive ores (including mineral sands)), for the manufacture, use or storage of radioactive substances.
 (1)Radioactive substances, other than tritium in gaseous tritium light devices —
 Maximum quantity:
-40 gigabecquerels | 138 | 277
-400 gigabecquerels | 277 | 553
-4 terabecquerels | 553 | 1 106
-Exceeding 4 terabecquerels | 830 | 1 659
-(2)Tritium in gaseous tritium light devices.
+40 gigabecquerels | 150 | 300
+400 gigabecquerels | 300 | 600
+4 terabecquerels | 600 | 1 215
+Exceeding 4 terabecquerels | 910 | 1 820
+(2)Tritium in gaseous tritium light devices —
 Maximum quantity:
 4 terabecquerels | 55 | 111
 40 terabecquerels | 138 | 277
@@ -19,14 +20,15 @@ Exceeding 40 terabecquerels | 277 | 553
 2.Fee for registration or renewal of registration of premises for the sale or service of radioactive substances, irradiating apparatus or electronic products. | 138 | 277
 3.Fee for registration or renewal of registration of premises, other than premises referred to in items 1, 1A and 2, irradiating apparatus and electronic products.
 In the case of —
-(a)not more than 2 irradiating apparatus and/or electronic products | 138 | 277
-(b)more than 2 but not more than 5 irradiating apparatus and/or electronic products | 277 | 553
-(c)more than 5 but not more than 10 irradiating apparatus and/or electronic products | 553 | 1 106
-(d)more than 10 irradiating apparatus and/or electronic products | 830 | 1 659
+(a)not more than 2 irradiating apparatus and/or electronic products | 150 | 300
+(b)more than 2 but not more than 5 irradiating apparatus and/or electronic products | 300 | 605
+(c)more than 5 but not more than 10 irradiating apparatus and/or electronic products | 605 | 1 215
+(d)more than 10 irradiating apparatus and/or electronic products | 910 | 1 820
 4.Licence fee.
 In the case of —
-(a)irradiating apparatus and/or electronic products | 55 | 111
-(b)radioactive substances | 55 | 111
+(a)irradiating apparatus and/or electronic products | 60 | 120
+(b)radioactive substances | 60 | 120
+[Part 1 inserted in Gazette 30 Dec 2014 p. 5502-3.]
 Part 2 — Temporary permits
 Fee for temporary permits for periods of 3 months or part thereof.
  | $
