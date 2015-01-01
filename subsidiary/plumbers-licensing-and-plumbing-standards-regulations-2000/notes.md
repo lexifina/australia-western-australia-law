@@ -28,6 +28,7 @@ Water Services Licensing (Plumbers Licensing and Plumbing Standards) Amendment R
 Water Services Licensing (Plumbers Licensing and Plumbing Standards) Amendment Regulations 2013 | 14 Nov 2013 p. 5231-4 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Reprint 4: The Plumbers Licensing and Plumbing Standards Regulations 2000 as at 14 Feb 2014 (includes amendments listed above)
 Plumbers Licensing and Plumbing Standards Amendment Regulations 2014 | 17 Jun 2014 p. 1975-7 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
+Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 2) 2014 | 19 Dec 2014 p. 4831-41 | r. 1 and 2: 19 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2015 (see r. 2(b))
 Formerly referred to the Water Services Coordination Act 1995, the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62, and then subsequently changed to the Plumbers Licensing Act 1995 by the Water Services Legislation Amendment and Repeal Act 2012 s. 193.
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
 Under the Legal Profession Act 2008 s. 630(1), a reference in an Act or document to the Legal Practice Act 2003 may, if the context permits, be taken to be a reference to the Legal Profession Act 2008.
@@ -57,6 +58,7 @@ authorisation110
 authorised person74
 authorised work12(2), 13(3)
 business document25A(2)
+CertificateSch. 3 cl. 1
 certificate of compliance3(1)
 chairperson3(1)
 commencement110, 120
@@ -77,12 +79,11 @@ exempt work3(1)
 existing pipes13A(4)
 expansion control valve13A(4)
 fitting3(1)
-fixture3(1), 45(4)(a)
+fixture3(1), 45(4)
 identification card3(1)
 initial application114(1)
 inspection purposes67(2), 82
 joint water service60(2)
-late renewal fee3(1)
 legal practitioner3(1)
 licence3(1)
 licence fee3(1)
@@ -111,23 +112,28 @@ plumbing contractor’s licence3(1)
 plumbing standards3(1), 47(2), 71(8)
 prescribed offence74
 pre-treatment equipment64(4)
-previous contractor or permit holder42(5)(a)
-principal plumbing42(2)(a)
-recognisedSch. 3 cl. 1
+previous contractor or permit holder42(5)
+principal plumbing42(2)
+provisional tradesperson’s licence 3(1)
+provisional tradesperson’s licence (drainage plumbing)3(1)
 rectified71(8)
 register3(1)
 registered training providerSch. 3 cl. 1
-re-issue a licence20A(7)
+re-issue a licence or permit20A(1A)
 renewal fee3(1)
+restricted plumbingSch. 3 cl. 7(1)
 restricted plumbing permit3(1)
 sanitary plumbing3(1)
 sanitary plumbing work3(1)
 sewer3(1)
+statement of attainmentSch. 3 cl. 1
+statement of competencySch. 3 cl. 1
 temperature/pressure relief valve13A(4)
+trade waste3(1)
+Trades Recognition AustraliaSch. 3 cl. 5(1)
 tradesperson3(1)
 tradesperson’s licence3(1)
 tradesperson’s licence (drainage plumbing)3(1)
-trade waste3(1)
 waste3(1)
 wastewater3(1)
 water heater3(1)
