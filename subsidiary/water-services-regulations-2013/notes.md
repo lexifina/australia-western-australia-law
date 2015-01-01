@@ -5,6 +5,7 @@ Citation | Gazettal | Commencement
 Water Services Regulations 2013 | 14 Nov 2013 p. 5103-204 | Regulations other than r. 30: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027); r. 30: 1 Jul 2014 (see r. 2(a) and Gazette 14 Nov 2013 p. 5028)
 Water Services Amendment Regulations 2014 | 27 Jun 2014 p. 2358-61 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1, 2, 4, 6, 8 and 11: 28 Jun 2014 (see r. 2(c)); r. 4, 6, 8 and 11: 1 Jul 2014 (see r. 2(b))
 Water Services Amendment Regulations (No. 3) 2014 | 15 Oct 2014 p. 3995-7 | r. 1 and 2: 15 Oct 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2014 (see r. 2(b))
+Water Services Amendment Regulations (No. 2) 2014 | 30 Dec 2014 p. 5508-9 | r. 1 and 2: 30 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2015 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
