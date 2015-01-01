@@ -116,10 +116,7 @@ Liquor Control Amendment Regulations 2014 | 21 Mar 2014 p. 741-2 | r. 1 and 2: 2
 Liquor Control Amendment Regulations (No. 3) 2014 | 17 Jun 2014 p. 2000-1 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b) and Gazette 17 Jun 2014 p. 1955)
 Liquor Control Amendment Regulations (No. 2) 2014 | 27 Jun 2014 p. 2354-5 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jun 2014 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 4) 2014 | 1 Jul 2014 p. 2345 | r. 1 and 2: 1 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2014 (see r. 2(b) and Gazette 1 Jul 2014 p. 2341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Liquor Control Amendment Regulations (No. 6) 2014 r. 3-5 | 14 Nov 2014 p. 4284-6 | 1 Jan 2015 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 6) 2014 | 14 Nov 2014 p. 4284-6 | r. 1 and 2: 14 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2015 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
 Repealed by the Aged Care Amendment Act 2011 (Cwlth).
@@ -130,66 +127,6 @@ The Liquor Licensing Amendment Regulations (No. 2) 2001 r. 2(3) and (4) are tran
 The amendments in the Liquor Licensing Amendment Regulations 2004 r. 3 and 5 are not included because of an error in the reference to the provisions to be amended.
 The Liquor Control Amendment Regulations (No. 2) 2007 r. 12 could not have effect as the reference to the Liquor Licensing Act 1988 was changed to the Liquor Control Act 1988 under the Reprints Act 1984 s. 7(3)(gb) (see note above).
 Disallowed on 13 Sep 2012, see Gazette 18 Sep 2012 p. 4411.
-On the date as at which this compilation was prepared, the Liquor Control Amendment Regulations (No. 6) 2014 r. 3-5 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Liquor Control Regulations 1989.
-4.Regulation 26 amended
-In regulation 26(1aa):
-(a) in paragraph (a) delete “$262; or” and insert:
-$268; or
-(b) in paragraph (b) delete “$524.” and insert:
-$537.
-5.Schedule 3 amended
-(1) In Schedule 3 delete item 20.
-(2) In Schedule 3 amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 3 it. 1 | 3 250 | 3 334
-Sch. 3 it. 2 | 835 | 856
-Sch. 3 it. 3 | 800 | 820
-Sch. 3 it. 4 | 550 | 564
-Sch. 3 it. 5 | 272 | 279
-Sch. 3 it. 6(a) | 51 | 52
-Sch. 3 it. 6(b) | 105 | 107
-Sch. 3 it. 6(c) | 214 | 219
-Sch. 3 it. 6(d) | 1 055 | 1 082
-Sch. 3 it. 6(e) | 2 142 | 2 197
-Sch. 3 it. 6(f) | 4 290 | 4 401
-Sch. 3 it. 7(a)(i) | 51 | 52
-Sch. 3 it. 7(a)(ii) | 439 | 450
-Sch. 3 it. 7(b) | 329 | 337
-Sch. 3 it. 7(c) | 1 100 | 1 128
-Sch. 3 it. 8(a) | 105 | 107
-Sch. 3 it. 8(b) | 214 | 219
-Sch. 3 it. 8(c) | 1 071 | 1 098
-Sch. 3 it. 8(d) | 2 142 | 2 197
-Sch. 3 it. 8(e) | 4 290 | 4 401
-Sch. 3 it. 9A | 41 | 42
-Sch. 3 it. 10A(b) | 122 | 125
-Sch. 3 it. 10C(a) | 51 | 52
-Sch. 3 it. 10(a) | 152 | 155
-Sch. 3 it. 10(b) | 104 | 106
-Sch. 3 it. 11 | 377 | 386
-Sch. 3 it. 12 | 219 | 224
-Sch. 3 it. 14 | 71 | 72
-Sch. 3 it. 15(a) | 225 | 230
-Sch. 3 it. 15(b)(i) | 105 | 107
-Sch. 3 it. 15(b)(ii) | 214 | 219
-Sch. 3 it. 15(b)(iii) | 1 071 | 1 098
-Sch. 3 it. 15(b)(iv) | 2 142 | 2 197
-Sch. 3 it. 15(b)(v) | 4 290 | 4 401
-Sch. 3 it. 16 | 41 | 42
-Sch. 3 it. 17 | 262 | 268
-Sch. 3 it. 18 | 219 142 | 224 145
-Sch. 3 it. 19A | 230 | 235
-Sch. 3 it. 19B | 209 | 214
-Sch. 3 it. 19C | 250 | 256
-Sch. 3 it. 19 | 62 | 63
-Sch. 3 it. 21 | 85 | 87
-Sch. 3 it. 22 | 56 | 57
-Sch. 3 it. 23 | 135 | 138
-Sch. 3 it. 32 | 50 | 51
-Sch. 3 it. 33(b) | 75 | 76
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
