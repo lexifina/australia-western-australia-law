@@ -51,6 +51,7 @@ State Superannuation Amendment Regulations 2013 | 23 Jul 2013 p. 3293-313 | r. 1
 State Superannuation Amendment Regulations (No. 2) 2013 | 14 Nov 2013 p. 5073 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Electricity Corporations (Consequential Amendments) Regulations 2013 r. 16 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
 State Superannuation Amendment Regulations 2014 | 10 Jun 2014 p. 1805-7 | r. 1 and 2: 10 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jun 2014 (see r. 2(b))
+State Superannuation Amendment Regulations (No. 3) 2014 | 6 Jan 2015 p. 25-32 | r. 1 and 2: 6 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jan 2015 (see r. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. Part 9 of these regulations were amending regulations under that subsection. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed in the Acts database of the Statutes of Western Australia.
 Footnote no longer applicable.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
@@ -106,6 +107,7 @@ commencement day3(1), 12G(1)
 Commonwealth maximum171
 Commonwealth minimum171
 Commonwealth payment3(1)
+Commonwealth Unclaimed Money Act3(1)
 compassionate ground47A(8), 79A(7), 123(7)
 compulsory transfereeSch. 2 cl. 1(1)
 condition of release3(1)
@@ -157,6 +159,7 @@ final remuneration12, 16(1)
 flag lifting agreement219A(2)
 former member3(1)
 former MemberSch. 3 cl. 55(2)
+former temporary resident3(1)
 gainfully employed50(1), 83(1)
 GESB Super (Retirement Access) Member3(1)
 GESB Super (Retirement Access) Scheme3(1)
@@ -171,6 +174,8 @@ health condition12, 50(1), 111A
 industrial commissionerSch. 2 cl. 17
 investment powers246B(4)
 life expectancy196P(4)
+lost member3(1)
+lost member account3(1)
 magistrateSch. 2 cl. 17
 Member3(1), 225
 member contribution12, 50(1)
@@ -206,6 +211,7 @@ personalised investment plan69A, 105, 183, 196J, 211
 phased retirement benefit3(1)
 police officerSch. 2 cl. 17
 post-1987 part-time transfereeSch. 2 cl. 1(1)
+prescribed scheme3(1)
 preservation age3(1)
 preserved3(1)
 previous lawSch. 2 cl. 7
@@ -222,7 +228,7 @@ reduced benefit option35(2)
 Registrar225
 regulated superannuation fund3(1)
 relevant MemberSch. 3 cl. 29(3)
-relevant regulationsSch. 2 cl. 13, 15
+relevant regulationsSch. 2 cl. 13, Sch. 2 cl. 15
 remuneration17A(1)
 reporting period220
 resignation daySch. 3 cl. 29(3)
@@ -279,8 +285,9 @@ transferred benefit79AA(4), 122(7)
 transferred contributionsSch. 2 cl. 1(1)
 transferred contributor for limited benefitsSch. 2 cl. 5(1)
 transferred serviceSch. 2 cl. 1(1)
+unclaimed money3(1)
 UnionsWA225
-UniversitySch. 2 cl. 6(2), 15
+UniversitySch. 2 cl. 6(2), Sch. 2 cl. 15
 University staff memberSch. 2 cl. 15
 unpaid leave12
 unrecognised unpaid leave12
