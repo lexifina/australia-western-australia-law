@@ -17,11 +17,7 @@ State Superannuation Amendment Act 2011 | 35 of 2011 | 12 Sep 2011 | s. 1 and 2:
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 2: The State Superannuation Act 2000 as at 11 May 2012 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 40 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Unclaimed Money (Superannuation and RSA Providers) Amendment and Expiry Act 2014 Pt. 3 | 22 of 2014 | 29 Aug 2014 | To be proclaimed (see s. 2(b))
-The Superannuation and Family Benefits Act 1938 and the Government Employees Superannuation Act 1987 were repealed by s. 39 of this Act. Certain provisions of those Acts continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
+Unclaimed Money (Superannuation and RSA Providers) Amendment and Expiry Act 2014 Pt. 3 | 22 of 2014 | 29 Aug 2014 | 7 Jan 2015 (see s. 2(b) and Gazette 6 Jan 2015 p. 3)
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
 2.Commencement
 (1) If this Act receives the Royal Assent before the day on which Schedule 1 to the Financial Services Reform Act comes into operation, this Act comes into operation at the same time as that Schedule comes into operation.
@@ -60,37 +56,6 @@ visiting medical practitioner means a medical practitioner engaged, other than a
 (2) This section applies in relation to superannuation contributions made, or purportedly made, under the Government Employees Superannuation Act 1987 or the State Superannuation Act 2000 in respect of a visiting medical practitioner between 1 July 1992 and 30 June 2001.
 (3) A thing done, or purportedly done, by the Board in consequence of a superannuation contribution having been made, or purportedly made, in respect of a visiting medical practitioner is, and is to be taken always to have been, as valid and effective as if the contribution had been made in respect of a person who was a member of the relevant scheme.
 The State Superannuation Amendment Act 2007 Pt. 5 Div. 1 and 2 were repealed by the State Superannuation Amendment Act 2007 s. 2(8)(a) and Pt. 3, 4, 5 Div. 3 Subdiv. 2 and Pt. 6 Div. 2 were repealed by the State Superannuation Amendment Act 2011 s. 4 before they purported to come into operation.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Unclaimed Money (Superannuation and RSA Providers) Amendment and Expiry Act 2014 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — State Superannuation Act 2000 amended
-6.Act amended
-This Part amends the State Superannuation Act 2000.
-7.Section 38 amended
-(1) In section 38(4):
-(a) in paragraph (c)(ii) delete “order.” and insert:
-order;
-(b) after paragraph (c) insert:
-or
-(d) the regulations would reduce or provide for the reduction of a Member’s benefit in consequence of the payment to the Commissioner of an amount of unclaimed money that would otherwise have been payable to the Member.
-(2) Delete section 38(5D).
-(3) Delete section 38(5F).
-(4) After section 38(5) insert:
-(6A) Regulations may provide for the Board, in relation to any scheme that is prescribed for the purposes of the Superannuation (Unclaimed Money and Lost Members) Act 1999 (Commonwealth) section 18AA —
-(a) to give any statement; and
-(b) to make any payment; and
-(c) to do any other thing,
-contemplated by that Act.
-(5) After section 38(8) insert:
-(9) In this section —
-(a) each of the following terms has the meaning given in the Family Law Act 1975 (Commonwealth) section 90MD —
-flag lifting agreement
-payment split
-splitting order
-superannuation agreement
-superannuation interest
-(b) each of the following terms has the meaning given in the Superannuation (Unclaimed Money and Lost Members) Act 1999 (Commonwealth) section 8 —
-Commissioner
-unclaimed money
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -101,7 +66,7 @@ benefits28(3)
 Board3(1)
 Board officer11(3)
 borrow money24(3)
-chosen fund 4A(1)
+chosen fund4A(1)
 Corporations Act3(1)
 default fund4A(1)
 Department33(4B)
@@ -109,7 +74,6 @@ document36(4)
 employee4A(1)
 Employer3(1)
 exempt employee4A(1)
-flag lifting agreement38(5D)
 Fund3(1)
 fund4A(1)
 GES Act3(1)
@@ -118,16 +82,12 @@ information36(4)
 Member3(1)
 multiplying factor38(5B)
 parliamentary purposes36(4)
-payment split38(5F)
 pension value factor38(5B)
 prior approvalSch. 3 cl. 1
 relevant benefit38(5B)
 scheme3(1)
 SGA Act4A(1)
-splitting order38(5D)
 spouse28(3)
 subsidiary3(1)
-superannuation agreement38(5D)
 superannuation guarantee charge4A(1)
-superannuation interest38(5F)
 Treasurer’s guidelines3(1)
