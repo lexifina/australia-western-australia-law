@@ -38,9 +38,25 @@ Police (Fees) Amendment Regulations 2011 | 10 Jun 2011 p. 2110-11 | r. 1 and 2: 
 Police (Fees) Amendment Regulations 2012 | 15 Jun 2012 p. 2538-40 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Police (Fees) Amendment Regulations 2013 | 28 Jun 2013 p. 2778-9 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Police (Fees) Amendment Regulations 2014 | 17 Jun 2014 p. 1996-7 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
-Defined Terms
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Police (Fees) Amendment Regulations (No. 2) 2014 r. 3-5 | 8 Jan 2015 p. 153-4 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
+On the date as at which this compilation was prepared, the Police (Fees) Amendment Regulations (No. 2) 2014 r. 3-5 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Police (Fees) Regulations 1981.
+4.Regulation 3 amended
+(1) In regulation 3 delete the definitions of:
+accident
+road traffic conviction record
+(2) In regulation 3 in the definition of traffic infringement notice record delete “Road Traffic Act 1974 section 102.” and insert:
+Road Traffic (Administration) Act 2008 section 79.
+5.Schedule 1 amended
+In Schedule 1 delete items 7 and 8 and insert:
+7. | Provision of incident information as defined in the Road Traffic (Administration) Act 2008 section 12(1) — (a)to those involved or their representatives (outlining certain accident details) (b)to Insurance Commission of Western Australia for third party insurance purposes | $40.40 $40.40
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 accident3
 department3
 road traffic conviction record3
