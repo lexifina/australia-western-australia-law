@@ -36,6 +36,10 @@ Standardisation of Formatting Act 2010 s. 51 assented 28 Jun 2010 | 11 Sep 2010 
 Wildlife Conservation Amendment Regulations 2012 | 7 Dec 2012 p. 5977-80 | r. 1 and 2: 7 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2012 (see r. 2(b) and Gazette 7 Dec 2012 p. 5963)
 Reprint 4: The Wildlife Conservation Regulations 1970 as at 12 Apr 2013 (includes amendments listed above)
 Wildlife Conservation Amendment Regulations (No. 2) 2014 | 19 Sep 2014 p. 3338-9 | r. 1 and 2: 19 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Sep 2014 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Wildlife Conservation Amendment Regulations 2014 r. 3-7 | 8 Jan 2015 p. 137-9 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
 The requirement to appoint an Executive Director was removed from the Act and references to the Executive Director were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
 Now known as the Zoological Parks Authority.
 Repealed by the Zoological Parks Authority Act 2001.
@@ -52,6 +56,45 @@ The Conservation and Land Management Regulations 2002 r. 116 reads as follows:
 (5) In subregulation (1) —
 former provision means a provision repealed by regulation 114 or 115.
 The commencement date referred to in r. 2 was before the date of gazettal.
+On the date as at which this compilation was prepared, the Wildlife Conservation Amendment Regulations 2014 r. 3-7 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Wildlife Conservation Regulations 1970.
+4.Regulation 9 amended
+In regulation 9(3)(a) delete “number of registration under the Road Traffic Act 1974 of” and insert:
+particulars on the number plate issued under the Road Traffic (Vehicles) Regulations 2014 Part 4 for
+5.Regulation 20 amended
+In regulation 20(3)(a) delete “confinement; and” and insert:
+confinement.
+6.Regulation 50 amended
+In regulation 50(7) delete “Road Traffic Act 1974” and insert:
+Road Traffic (Vehicles) Regulations 2014 Part 4
+7.Various references to “Executive Director” amended
+In the provisions listed in the Table delete “Executive Director” (each occurrence) and insert:
+CEO
+Table
+r. 3 def. of affix, registered, tag | r. 8A(1)(a) and (b) and (6)
+r. 9(3)(a), (b) and (c) | r. 10(1) def. of registered agent
+r. 12(4)(a), (7)(e), (9) and (10) | r. 12A(4)(a) and (8)
+r. 14(1a) | r. 15(2), (3)(e) and (4)(a)
+r. 16(2a) | r. 17(5) and (6)
+r. 18(2)(a) and (b)(ii) and (3) | r. 19(3)(a) and (b)(ii)
+r. 20(3)(a), (4)(a) and (b)(ii) | r. 23(2) and (5)
+r. 24(1) | r. 24A(1)
+r. 25(1) and (2) | r. 26(6)
+r. 29(a) | r. 35(1), (2) and (5)
+r. 37(1), (2) and (3) | r. 39
+r. 40(1) and (2) | r. 50(2)(e), (3a), (6)(b), (7), (8)(a) and (c), (9), (9a) and (13)
+r. 51(1) and (2) | r. 53
+r. 56C | r. 56E(2)
+r. 56G(1) | r. 58
+r. 59(1) | r. 61(3)
+First Sch. it. 1
+Note:The headings to the amended regulations listed in the Table are to read as set out in the Table.
+Table
+Amended regulation | Regulation heading
+r. 39 | CEO may approve keeping of waterfowl
+r. 40 | CEO to determine waterfowl to be kept in captivity
+r. 51 | CEO to authorise design and manufacture of tags
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
