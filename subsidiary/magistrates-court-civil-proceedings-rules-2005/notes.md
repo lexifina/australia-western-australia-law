@@ -17,7 +17,16 @@ Magistrates Court (Civil Proceedings) Amendment Rules (No. 3) 2013 | 20 Aug 2013
 Magistrates Court (Civil Proceedings) Amendment Rules 2013 | 31 Dec 2013 p. 6542-4 | r. 1 and 2: 31 Dec 2013 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 4) 2014 | 3 Jun 2014 p. 1743-5 | r. 1 and 2: 3 Jun 2014 (see r. 2(a)); Rules other than r. 1 and 2: 4 Jun 2014 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 5) 2014 | 12 Dec 2014 p. 4716-17 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Rules other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Magistrates Court (Civil Proceedings) Amendment Rules (No. 3) 2014 r. 3 and 4 | 8 Jan 2015 p. 159-60 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
 The Public Trustee Act 1941 s. 40, as inserted by the Public Trustee and Trustee Companies Legislation Amendment Act 2008 s. 25(1), does not refer to the “Common Fund” but to a “Fund”.
+On the date as at which this compilation was prepared, the Magistrates Court (Civil Proceedings) Amendment Rules (No. 3) 2014 r. 3 and 4 had not come into operation. They read as follows:
+3.Rules amended
+These rules amend the Magistrates Court (Civil Proceedings) Rules 2005.
+4.Rule 124 amended
+In rule 124(1) in the Table delete the item relating to the Road Traffic (Vehicle Standards) Regulations 2002.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
