@@ -40,11 +40,29 @@ Rottnest Island Amendment Regulations (No. 2) 2013 | 18 Jun 2013 p. 2307-8 | r. 
 Rottnest Island Amendment Regulations 2013 | 24 Jan 2014 p. 113-14 | r. 1 and 2: 24 Jan 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jan 2014 (see r. 2(b))
 Reprint 5: The Rottnest Island Regulations 1988 as at 4 Apr 2014 (includes amendments listed above)
 Rottnest Island Amendment Regulations (No. 2) 2014 | 20 Jun 2014 p. 2041-3 | r. 1 and 2: 20 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Rottnest Island Amendment Regulations 2014 r. 3-5 | 8 Jan 2015 p. 149-50 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Fish Resources Management Act 1994 s. 265.
 Regulations 5, 7 and 18 disallowed on 28 May 1991, see Gazette 31 May 1991 p. 2710-11.
 The Rottnest Island Amendment Regulations 1997 r. 5(2) is a transitional provision that is of no further effect.
 The Rottnest Island Amendment Regulations 2003 r. 4(3) is a transitional provision that is of no further effect.
+On the date as at which this compilation was prepared, the Rottnest Island Amendment Regulations 2014 r. 3-5 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Rottnest Island Regulations 1988.
+4.Regulation 3 amended
+In regulation 3 in the definition of vehicle delete “assigned to it by section 5(1) of the Road Traffic Act 1974;” and insert:
+given in the Road Traffic (Administration) Act 2008 section 4;
+5.Regulation 43 amended
+In regulation 43(1):
+(a) delete paragraph (a) and insert:
+(a) a road on the Island is a road as defined in the Road Traffic (Administration) Act 2008 section 4; and
+(b) in paragraph (b) delete “that Act” and insert:
+each road law as defined in that section
+Note:The heading to amended regulation 43 is to read as follows:
+Application of road laws
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -60,7 +78,7 @@ assault70(2)
 authorised person68(2)
 authorised user19
 authorised vessel19
-beach37(2)(a)
+beach37(2)
 bicycle3
 Board75(9)
 by-law75(9)
@@ -75,7 +93,7 @@ emergency vehicle50(2)
 explosive device59(3a)
 fauna40(3), 59(3)
 fish40(3)
-flora39(2)(a), 41B(1)
+flora39(2), 41B(1)
 hired bicycle51(2)
 Kingstown Barracks Restricted Alcohol Consumption Area72(1)
 length3
@@ -90,25 +108,25 @@ mooring inspection report19
 mooring site3
 mooring site licence3
 mooring site licensee3
-nominated vessel31B(2), 31C(3)(a)
+nominated vessel31B(2), 31C(3)
 other road users48(2)
 overall length3
 owner3
 permanent resident3
-permitted area37(2)(b)
+permitted area37(2)
 previous licensee30(4)
 register3
 rental licence3
 rental mooring3
 repealed by-laws75(9)
-restricted area36(1)(a)
+restricted area36(1)
 sandboard60A(3)
 settlement47(3)
 specified15(6)
 structure52(5)
 suitable vessel19
 sullage38C(1)
-take39(2)(b)
+take39(2)
 unlawfully70(2)
 use3
 vehicle3, 46(2)
