@@ -45,9 +45,22 @@ Motor Vehicle Dealers (Licensing) Amendment Regulations 2012 | 15 Jun 2012 p. 25
 Motor Vehicle Dealers (Licensing) Amendment Regulations 2013 | 27 Jun 2013 p. 2687-90 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Motor Vehicle Dealers (Licensing) Amendment Regulations (No. 3) 2014 | 17 Jun 2014 p. 1968-70 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Motor Vehicle Dealers (Licensing) Amendment Regulations 2014 | 15 Jul 2014 p. 2461-2 | r. 1 and 2: 15 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2014 (see r. 2(b))
-Defined Terms
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Motor Vehicle Dealers (Licensing) Amendment Regulations (No. 2) 2014 r. 3 and 4 | 8 Jan 2015 p. 85-6 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
+On the date as at which this compilation was prepared, the Motor Vehicle Dealers (Licensing) Amendment Regulations (No. 2) 2014 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Motor Vehicle Dealers (Licensing) Regulations 1974.
+4.Regulation 9 amended
+In regulation 9(3):
+(a) delete “by the Director General (as defined in the Road Traffic Act 1974 section 5(1)) under the Road Traffic (Licensing) Regulations 1975 regulation 9(3) —” and insert:
+as of Class B under the Road Traffic (Vehicles) Regulations 2014 regulation 35(1) or (2) —
+(b) in paragraph (c) delete “by the Director General on the vehicle’s owner,” and insert:
+on the use of the vehicle,
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 form2
 related company9(1)
 section2
