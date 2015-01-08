@@ -21,6 +21,41 @@ Chattel Securities Amendment Regulations 2006 | 22 Sep 2006 p. 4081-4 | 22 Sep 2
 Chattel Securities Amendment Regulations 2011 | 22 Jun 2011 p. 2337-8 | r. 1 and 2: 22 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Chattel Securities Amendment Regulations 2012 | 15 Jun 2012 p. 2583 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Chattel Securities Amendment Regulations 2013 | 20 Aug 2013 p. 3825 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Chattel Securities Amendment Regulations 2014 r. 3-6 | 8 Jan 2015 p. 83-4 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Taxi Act 1994.
 Repealed by the Fish Resources Management Act 1994.
+On the date as at which this compilation was prepared, the Chattel Securities Amendment Regulations 2014 r. 3-6 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Chattel Securities Regulations 1988.
+4.Regulation 3 amended
+(1) In regulation 3 in the definition of registration number delete paragraph (a)(i) and insert:
+(i)Road Traffic (Vehicles) Act 2012; or
+(2) In regulation 3 in the definition of vehicle identification number delete “rule 52 of the Road Traffic (Vehicle Standards) Rules 2002;” and insert:
+the Road Traffic (Vehicles) Regulations 2014 regulation 274;
+5.Regulation 7 amended
+(1) In regulation 7(b):
+(a) delete subparagraph (i) and insert:
+(i) Road Traffic (Vehicles) Act 2012; or
+(b) delete subparagraph (ii) and insert:
+(ii) the Taxi Act 1994; or
+(2) In regulation 7 after paragraph (b)(ia) insert:
+or
+6.Regulation 8 amended
+In regulation 8(1)(a) delete “Road Traffic Act 1974;” and insert:
+Road Traffic (Vehicles) Act 2012;
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+account customer3
+financier’s reference number3
+hull identification number3
+interest3
+pleasure vessel3
+registration number3
+serial number3
+vehicle identification number3
+vessel3
