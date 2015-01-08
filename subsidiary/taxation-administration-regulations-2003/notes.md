@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 August 2014 of the Taxation Administration Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Taxation Administration Regulations 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Taxation Administration Regulations 2003 | 27 Jun 2003 p. 2419-22 | 1 Jul 2003 (see r. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -22,17 +22,29 @@ Taxation Administration Amendment Regulations 2012 | 18 Dec 2012 p. 6597-8 | r. 
 Taxation Administration Amendment Regulations (No. 2) 2013 | 17 May 2013 p. 1985 | r. 1 and 2: 17 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 May 2013 (see r. 2(b))
 Taxation Administration Amendment Regulations 2013 | 17 Dec 2013 p. 6240-1 | r. 1 and 2: 17 Dec 2013 (see r. 2(a)); r. 3 and 8: 18 Dec 2013 (see r. 2(b)); r. 4-7: 1 Jan 2014 (see r. 2(c))
 Reprint 3: The Taxation Administration Regulations 2003 as at 1 Aug 2014 (includes amendments listed above
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Taxation Administration Amendment Regulations 2014 r. 3 and 4 | 8 Jan 2015 p. 107-8 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number.
 1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number.
 Under the Settlement Agents Act 1981 s. 126, a reference to the Settlement Agents Supervisory Board may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
 Under the Settlement Agents Act 1981 s. 3(1) Commissioner has the meaning given in the Fair Trading Act 2010 s. 6.
 The Settlement Agents Act 1981 s. 6 was deleted by the Acts Amendment (Fair Trading) Act 2010 s. 137(2).
 Under the Settlement Agents Act 1981 s. 129(1), a reference to the Registrar may where the context so requires, be read as if it had been amended to be a reference to the Commissioner. See note 2 as to the meaning of Commissioner.
+On the date as at which this compilation was prepared, the Taxation Administration Amendment Regulations 2014 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Taxation Administration Regulations 2003.
+4.Regulation 13A amended
+(1) Delete regulation 13A(1).
+(2) In regulation 13A(2) delete “DG (vehicle licensing)” and insert:
+CEO, as defined in the Road Traffic (Administration) Act 2008 section 4,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 CEO (Landgate)13C(1)
 CEO (petroleum)13B(1)
+Commissioner15
 corresponding law13E(1)
 DG (vehicle licensing)13A(1)
 duty5A(3), 13C(1)
