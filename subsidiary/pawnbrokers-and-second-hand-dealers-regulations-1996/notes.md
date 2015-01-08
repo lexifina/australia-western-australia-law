@@ -33,11 +33,34 @@ Reprint 4: The Pawnbrokers and Second-hand Dealers Regulations 1996 as at 19 Oct
 Pawnbrokers and Second-hand Dealers Amendment Regulations 2013 | 28 Jun 2013 p. 2782-6 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jun 2013 (see r. 2(b))
 Pawnbrokers and Second-hand Dealers Amendment Regulations 2014 | 17 Jun 2014 p. 1992-6 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Pawnbrokers and Second-hand Dealers Amendment Regulations (No. 2) 2014 | 5 Aug 2014 p. 2832-3 | r. 1 and 2: 5 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Aug 2014 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Pawnbrokers and Second-hand Dealers Amendment Regulations (No. 3) 2014 r. 3-7 | 8 Jan 2015 p. 151-2 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
 Repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
 Repealed by the Financial Sector (Collection of Data — Consequential and Transitional Provisions) Act 2001 (Cwlth).
 Formerly referred to the Liquor Licensing Regulations 1989 the citation of which was changed to the Liquor Control Regulations 1989 by the Liquor Licensing Amendment Regulations 2007 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Pawnbrokers and Second-hand Dealers Act 1994.
 Omitted under the Reprints Act 1984 s. 7(4)(e).
+On the date as at which this compilation was prepared, the Pawnbrokers and Second-hand Dealers Amendment Regulations (No. 3) 2014 r. 3-7 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Pawnbrokers and Second-hand Dealers Regulations 1996.
+4.Regulation 3 amended
+In regulation 3 in the definition of financial body delete paragraphs (b) and (c) and insert:
+(b)a registrable corporation within the meaning of the Financial Sector (Collection of Data) Act 2001 (Commonwealth) section 7;
+5.Regulation 4 amended
+In regulation 4 delete “paragraph (b) of the definition of pawnbroker in section 3(1) does” and insert:
+the definition of pawnbroker in section 3(1) and sections 3A and 5 do
+6.Regulation 5 amended
+In regulation 5(1) in the Table:
+(a) in item 12 delete “Road Traffic Act 1974,” and insert:
+Road Traffic (Administration) Act 2008 section 4,
+(b) in item 12 delete “Part 8 of the Road Traffic (Vehicle Standards) Rules 2002).” and insert:
+the Road Traffic (Vehicles) Regulations 2014 Part 10 Division 8).
+(c) in item 14 delete “Part 8 of the Road Traffic (Vehicle Standards) Rules 2002).” and insert:
+the Road Traffic (Vehicles) Regulations 2014 Part 10 Division 8).
+7.Regulation 15 amended
+Delete regulation 15(7) and (8).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -50,4 +73,4 @@ retailer5(3)
 section3
 telephone utility3
 traded goods5(2)
-transaction card13A(1)(b)
+transaction card13A(1)
