@@ -37,12 +37,22 @@ Bush Fires Amendment Regulations 2011 | 2 Dec 2011 p. 5059-60 | r. 1 and 2: 2 De
 Reprint 6: The Bush Fires Regulations 1954 as at 6 Jul 2012 (includes amendments listed above)
 Bush Fires Amendment Regulations 2012 | 31 Oct 2012 p. 5251-2 | r. 1 and 2: 31 Oct 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2012 (see r. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Bush Fires Amendment Regulations 2013 | 5 Feb 2013 p. 834-5 | r. 1 and 2: 5 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2013 (see r. 2(b)(i) and Gazette 5 Feb 2013 p. 823)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Bush Fires Amendment Regulations 2014 r. 3 and 4 | 8 Jan 2015 p. 109 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Bush Fires Amendment Regulations (No. 2) 2000 deleted headings to r. 1-3, 15, 18, 23, 37, 37A, 38, 39, 39A, 39B, 39BA, 39D, 41, 43 and 44 that formed part of the written law. The deletions are not noted in footnotes to the regulations. The headings to the regulations in this reprint do not form part of the written law (see Interpretation Act 1984 s. 32).
 Now known as the Bush Fires Regulations 1954; citation changed (see note under r. 1).
-Defined Terms
+On the date as at which this compilation was prepared, the Bush Fires Amendment Regulations 2014 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Bush Fires Regulations 1954.
+4.Regulation 24A amended
+In regulation 24A(1) in the definition of road delete “the Road Traffic Act 1974 section 5(1).” and insert:
+the Road Traffic (Administration) Act 2008 section 4.
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 authorised officer16, 24
 bee smoker device39CA(1)
 bush fire officer45A(1), 45B(1)
