@@ -18,6 +18,29 @@ Motor Vehicle Repairers Amendment Regulations (No. 2) 2013 | 20 Aug 2013 p. 3838
 Motor Vehicle Repairers Amendment Regulations (No. 3) 2014 | 17 Jun 2014 p. 1970-3 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Motor Vehicle Repairers Amendment Regulations 2014 | 15 Jul 2014 p. 2462-3 | r. 1 and 2: 15 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2014 (see r. 2(b))
 Motor Vehicle Repairers Amendment Regulations (No. 4) 2014 | 18 Nov 2014 p. 4319-22 | r. 1 and 2: 18 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2014 (see r. 2(b) and Gazette 18 Nov 2014 p. 4315)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Motor Vehicle Repairers Amendment Regulations (No. 2) 2014 r. 3 and 4 | 8 Jan 2015 p. 91-3 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
+On the date as at which this compilation was prepared, the Motor Vehicle Repairers Amendment Regulations (No. 2) 2014 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Motor Vehicle Repairers Regulations 2007.
+4.Regulation 3 amended
+(1) In regulation 3(1) delete the definitions of:
+power assisted pedal cycle
+Road Traffic Act
+(2) In regulation 3(1) insert in alphabetical order:
+power assisted pedal cycle means a vehicle —
+(a) designed to be propelled through a mechanism operated solely by human power; and
+(b) to which is attached one or more auxiliary propulsion motors having a combined maximum output not exceeding —
+(i)250 W, in the case of a pedalec, namely a vehicle that meets the standard of the European Committee for Standardization entitled EN 15194:2009 or EN 15194:2009+A1:2011 Cycles — Electrically power assisted cycles — EPAC Bicycles; or
+(ii)200 W, in any other case;
+(3) In regulation 3(1) in the definition of exempt motorised wheelchair paragraph (b) delete “Road Traffic Act” and insert:
+Road Traffic (Vehicles) Act 2012
+(4) In regulation 3(1) in the definition of relevant authority paragraph (a) delete “licensing provisions of the Road Traffic Act; or” and insert:
+Road Traffic (Vehicles) Act 2012 Part 2; or
+(5) In regulation 3(1) in the definition of vintage vehicle delete “licensing provisions of the Road Traffic Act.” and insert:
+Road Traffic (Vehicles) Act 2012 Part 2.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
