@@ -117,6 +117,10 @@ Liquor Control Amendment Regulations (No. 3) 2014 | 17 Jun 2014 p. 2000-1 | r. 1
 Liquor Control Amendment Regulations (No. 2) 2014 | 27 Jun 2014 p. 2354-5 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jun 2014 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 4) 2014 | 1 Jul 2014 p. 2345 | r. 1 and 2: 1 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2014 (see r. 2(b) and Gazette 1 Jul 2014 p. 2341)
 Liquor Control Amendment Regulations (No. 6) 2014 | 14 Nov 2014 p. 4284-6 | r. 1 and 2: 14 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2015 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Liquor Control Amendment Regulations (No. 5) 2014 r. 3 and 4 | 8 Jan 2015 p. 147 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
 Repealed by the Aged Care Amendment Act 2011 (Cwlth).
@@ -127,6 +131,12 @@ The Liquor Licensing Amendment Regulations (No. 2) 2001 r. 2(3) and (4) are tran
 The amendments in the Liquor Licensing Amendment Regulations 2004 r. 3 and 5 are not included because of an error in the reference to the provisions to be amended.
 The Liquor Control Amendment Regulations (No. 2) 2007 r. 12 could not have effect as the reference to the Liquor Licensing Act 1988 was changed to the Liquor Control Act 1988 under the Reprints Act 1984 s. 7(3)(gb) (see note above).
 Disallowed on 13 Sep 2012, see Gazette 18 Sep 2012 p. 4411.
+On the date as at which this compilation was prepared, the Liquor Control Amendment Regulations (No. 5) 2014 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Liquor Control Regulations 1989.
+4.Regulation 18A amended
+In regulation 18A(1) in the definition of Australian learner driver permit delete “Road Traffic Act 1974 section 5(1); or” and insert:
+Road Traffic (Authorisation to Drive) Act 2008 section 3(1); or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -148,14 +158,14 @@ Australian learner driver permit18A(1)
 authorised arrangement8E(1)
 bar11(1)
 caterer9A(14A)
-commencement day 14ADG(1)
+commencement day14ADG(1)
 commercial vessel8(3)
 country charter vehicle8F(1)
 course of instruction or training9A(10e)
 crowd controller18EB(3)
 current26(1ab)
 current negative determination8A(3)
-current WA photo card 18A(1)
+current WA photo card18A(1)
 disabled person8(2)
 entertainment8A(1)
 farmers’ market8D(1)
@@ -178,8 +188,8 @@ prescribed permit14AC(1)
 primary production8D(1)
 producer3A(1)
 producers’ association8D(1)
-purchase5(2)(b)
-relevant body corporate5B(2), (3) and (4)(a)
+purchase5(2)
+relevant body corporate5B(2), 5B(3), 5B(4)
 relevant lot11(1)
 relevant premises11(1)
 renewal application14ADD(1)
@@ -187,7 +197,7 @@ responsible adult8A(1), 8F(1)
 restricted material8A(1)
 retail sale4A(2)
 room service restaurant9A(17)
-sale5(2)(a)
+sale5(2)
 school8F(1)
 signature18C(2)
 small charter vehicle8F(1)
