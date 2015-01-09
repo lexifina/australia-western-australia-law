@@ -2,8 +2,9 @@
 Form 1
 COUNTRY AREAS WATER SUPPLY ACT 1947
 COUNTRY AREAS WATER SUPPLY (CLEARING LICENCE) REGULATIONS 1981
-APPLICATION FOR LICENCE ..........................................................Catchment area/ Water Reserve. ZONE ..................................
-1.Name and Address of Applicant (PLEASE PRINT) (Applicant to be owner/occupier or Statutory Authority — Delete whichever does not apply) | SURNAME .......................................... OTHER NAMES ................................. NAME OF STATUTORY AUTHORITY (if applicable) ................................... .......................................... ADDRESS......................................... ......................................... TELEPHONE NO. 09..... / ..................
+APPLICATION FOR LICENCE ..........................................................Catchment area/ Water Reserve.
+ZONE ..................................
+1.Name and Address of Applicant (PLEASE PRINT) (Applicant to be owner/occupier or Statutory Authority — Delete whichever does not apply) | SURNAME .......................................... OTHER NAMES ................................. NAME OF STATUTORY AUTHORITY (if applicable) ................................... .......................................... ADDRESS.......................................... .......................................... TELEPHONE NO. 09 ..... / ..................
 2.Ownership, Occupancy and details of Holding
 (i)FULL NAME AND ADDRESS OF OWNER(S) and/or OCCUPIER(S) (IF COMPANY OR FIRM GIVE DETAILS)
 ............................................................................................................ ............................................................................................................ ............................................................................................................
@@ -33,7 +34,7 @@ Signed by Applicant*
 DATE ...............................................
 *Application to be signed by applicant personally or by applicant’s authorised attorney or agent. Any power of attorney or other authority must be forwarded with the application for sighting and return.
 An application by a company must be made under the company’s common seal.
-[Form 1 amended in Gazette 23 Aug 1985 p. 3020.]
+[Form 1 amended: Gazette 23 Aug 1985 p. 3020.]
 Form 2
 COUNTRY AREAS WATER SUPPLY ACT 1947
 COUNTRY AREAS WATER SUPPLY (CLEARING LICENCES) REGULATIONS 1981
@@ -50,16 +51,16 @@ DATED this ..................................... day of ........................
 ........................................................
 AUTHORISED OFFICER
 *Delete which does not apply.
-[Form 2 amended in Gazette 23 Aug 1985 p. 3020.]
+[Form 2 amended: Gazette 23 Aug 1985 p. 3020.]
 Form 3
 COUNTRY AREAS WATER SUPPLY ACT 1947
 COUNTRY AREAS WATER SUPPLY (CLEARING LICENCE) REGULATIONS 1981
 APPLICATION TO TRANSFER LICENCE NO. ......................................
 ISSUED IN THE NAME OF ......................................................................
-FOR THE .................. CATCHMENT AREA/WATER RESERVE, ZONE
+FOR THE .................. CATCHMENT AREA/WATER RESERVE, ZONE .......
 1.I, ...................................................................................................................
 (Name) Please Print
-of .............................................................................. 09 ..... / .....................
+of .............................................................................. 09 ..... / ......................
 (address)(Telephone No.)
 being ............................................................................................................ (state the nature of interest of applicant, e.g. purchaser of land in respect of which a licence has been granted or a lessee, etc.) hereby apply for the transfer of the licence issued in respect of ................. ...................................................................................................................... ...................................................................................................................... describe land by reference to location, certificate of title, lease, etc.).
 2.The transfer of the licence is necessary for the following reasons .............. ...................................................................................................................... ......................................................................................................................
@@ -120,7 +121,7 @@ LAND DESCRIPTION Location, Lot, Certificate of Title, Crown Lease (State whether
 Dated thisday of20
 ................................ ............................................................................
 WitnessFOR AND ON BEHALF OF THE MINISTER
-[Form 5 amended in Gazette 23 Aug 1985 p. 3020; 29 Dec 1995 p. 6295; 23 Nov 2010 p. 5858.]
+[Form 5 amended: Gazette 23 Aug 1985 p. 3020; 29 Dec 1995 p. 6295; 23 Nov 2010 p. 5858.]
 Form 6
 WESTERN AUSTRALIA
 No.
@@ -134,7 +135,7 @@ LAND DESCRIPTION Location, Lot, Certificate of Title, Crown Lease (State whether
 Dated thisday of20 .
 ............................................ ............................................................................
 (Witness)FOR AND ON BEHALF OF THE MINISTER
-[Form 6 amended in Gazette 23 Aug 1985 p. 3020; 29 Dec 1995 p. 6296; 23 Nov 2010 p. 5858.]
+[Form 6 amended: Gazette 23 Aug 1985 p. 3020; 29 Dec 1995 p. 6296; 23 Nov 2010 p. 5858.]
 Form 7
 WESTERN AUSTRALIA
 No.
@@ -148,5 +149,4 @@ LAND DESCRIPTION: Location, Lot, Certificate of Title, Crown Lease. (State wheth
 Dated thisday of20 .
 ............................................ ............................................................................
 (Witness)FOR AND ON BEHALF OF THE MINISTER
-[Form 7 amended in Gazette 23 Aug 1985 p. 3020; 29 Dec 1995 p. 6296; 23 Nov 2010 p. 5858.]
-[Schedule amended in Gazette 23 Aug 1985 p. 3020; 29 Dec 1995 p. 6295-6; 23 Nov 2010 p. 5858.]
+[Form 7 amended: Gazette 23 Aug 1985 p. 3020; 29 Dec 1995 p. 6296; 23 Nov 2010 p. 5858.]
