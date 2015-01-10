@@ -1,6 +1,7 @@
 ## Schedule 1 — Forms
 Form 1 — Notice of application (general)
-[r. 13, 27(3), 58, 59(1), 73(1) and (2), 82(8), 102(7), 103(9) and 104(1)]
+[r. 13(1), 18(1), 27(3), 58(1), 59(1), 73(1) and (2), 82(8) and (11), 85, 100(1), 102(7), 103(9), 103A(2) and 104(1)]
+[Heading amended in Gazette 9 Jan 2015 p. 212.]
 Industrial Relations Act 1979
 In the Western Australian Industrial Relations Commission
  | No. ............................ | of 20........................

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 12 September 2014 of the Industrial Relations Commission Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Industrial Relations Commission Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Industrial Relations Commission Regulations 2005 | 12 Aug 2005 p. 3685-812 | 1 Sep 2005 (see r. 2)
@@ -20,6 +20,7 @@ Industrial Relations Commission Amendment Regulations (No. 2) 2010 | 12 Oct 2010
 Industrial Relations Commission Amendment Regulations 2012 | 16 Mar 2012 p. 1252-5 | r. 1 and 2: 16 Mar 2012 (see r. 2(a)); Regulations other than r. 1, 2, 6 and 7: 17 Mar 2012 (see r. 2(c)); r. 6 and 7: 1 Apr 2012 (see r. 2(b) and Gazette 16 Mar 2012 p. 1246)
 Industrial Relations Commission Amendment Regulations 2014 | 4 Jul 2014 p. 2389-417 | r. 1 and 2: 4 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jul 2014 (see r. 2(b))
 Reprint 3: The Industrial Relations Commission Regulations 2005 as at 12 Sep 2014 (includes amendments listed above)
+Industrial Relations Commission Amendment Regulations (No. 2) 2015 | 9 Jan 2015 p. 211-12 | r. 1 and 2: 9 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jan 2015 (see r. 2(b))
 Although the commencement date of 1 Jul 2008 was specified in the Industrial Relations Commission Amendment Regulations (No. 2) 2008, because of the Interpretation Act 1984 s. 25(3) those regulations came into operation on 1 Aug 2008 when the Owner-Drivers (Contracts and Disputes) Act 2007 Sch. 3 cl. 1 came into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -42,6 +43,7 @@ government officer105
 inspection20(1)
 interested person86(1)
 member of a constituent authority120(8)
+person to be joined18(1)
 police officer89
 proof of service3
 Public Transport Authority109
@@ -50,5 +52,6 @@ Registrar3
 removal action89
 reviewable decision102A(1)
 salaried position109
+substantive proceedings18(1)
 Tribunal95(1), 99A
 writing3
