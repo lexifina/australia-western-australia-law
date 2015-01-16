@@ -7,10 +7,10 @@ Item | Action | Fee $
  | Note 1: The fee under paragraphs (a) and (b) is payable whether or not the service is successful and covers up to 3 attempts at service at the same address. Note 2: The fee is not payable in respect of any process that is served in conjunction with any process requiring attendance at a court by the party to be served.
  | Note 3: The fee includes the completion of any certificate of the service.
 2. | For enforcing a judgment by means of a property (seizure and sale) order . | 128.50
- | Note 1: The fee is payable whether or not the Sheriff’s functions under the order are performed and covers up to 3 attempts to perform the functions at the same address. Note 2: The fee includes — (a)receipt of the order; (b)attendances and inquiries before attempting seizure; (c)service of any notice required before seizure; (d)seizure and preparing an inventory of any personal property seized; (e)granting walking possession; and (f)making a report to the creditor.
+ | Note 1: The fee is payable whether or not the Sheriff’s functions under the order are performed and covers up to 3 attempts to perform the functions at the same address. Note 2: The fee includes — (a)receipt of the order; and (b)attendances and inquiries before attempting seizure; and (c)service of any notice required before seizure; and (d)seizure and preparing an inventory of any personal property seized; and (e)granting walking possession; and (f)making a report to the creditor.
 3. | For enforcing a judgment by means of a property (seizure and delivery) order | 102.50
  | Note 1: The fee is payable whether or not the Sheriff’s functions under the order are performed and covers up to 3 attempts to perform the functions at the same address.
- | Note 2: The fee includes — (a)receipt of the order; (b)attendances and inquiries before attempting seizure and delivery; (c)an appointment to deliver property; (d)removal of a person from land; (e)supervision of lock and security changes to premises; (f)securing seized property; (g)delivering seized property to the person entitled to it in accordance with the order; and (h)making a report to the person entitled to the benefit of the order.
+ | Note 2: The fee includes — (a)receipt of the order; and (b)attendances and inquiries before attempting seizure and delivery; and (c)an appointment to deliver property; and (d)removal of a person from land; and (e)supervision of lock and security changes to premises; and (f)securing seized property; and (g)delivering seized property to the person entitled to it in accordance with the order; and (h)making a report to the person entitled to the benefit of the order.
 4. | Inspection of personal property under seizure | 54.50
  | Note 1: If the Sheriff has several enforcement orders, one fee is payable for the first enforcement order in priority.
 5. | For possession of personal property under seizure per day | 5.95
@@ -23,13 +23,13 @@ Item | Action | Fee $
  | Note 1: If more than one of the actions referred to in item 6 is done in relation to the same person or on different persons at the same address, only one fee for kilometres travelled is to be charged.
  | Note 2: The Sheriff may allow an enforcement officer an additional fee for travel to meet or partially offset any additional expenses arising from special and unusual circumstances.
 7. | Preparation for the sale of real or personal property | 541.00
- | Note 1: The fee includes — (a)REVS and other official records searches; (b)bill of sale or encumbrance searches or investigation; (c)carrying out an advertising program; and (d)preparing particulars and conditions of sale.
+ | Note 1: The fee includes — (a)REVS and other official records searches; and (b)bill of sale or encumbrance searches or investigation; and (c)carrying out an advertising program; and (d)preparing particulars and conditions of sale.
 8. | Attendance at sale | 86.00
  | Note 1: The fee includes — (a)conducting a sale; and (b)cancelling a sale.
 9. | Commission for enforcing a judgment by means of a property (seizure and sale) order or for money recovered by the Sheriff or judgment creditor after seizure under the order —
  | (a)For amounts up to and including $13 500, a fee at the rate of | 5.00%
  | (b)For the balance over $13 500, a fee at the rate of | 2.50%
- | Note 1: For the purpose of this item, seizure includes — (a)in respect of real property, registering a property (seizure and sale) order under the Transfer of Land Act 1893 or the Registration of Deeds Act 1856; (b)the seizure of personal property in the possession or apparent possession of the judgment debtor; or (c)the seizure of books of account in the possession of the judgment debtor.
+ | Note 1: For the purpose of this item, seizure includes — (a)in respect of real property, registering a property (seizure and sale) order under the Transfer of Land Act 1893 or the Registration of Deeds Act 1856; or (b)the seizure of personal property in the possession or apparent possession of the judgment debtor; or (c)the seizure of books of account in the possession of the judgment debtor.
  | Note 2: If money is recovered as a consequence of a sale conducted by a licensed auctioneer instructed by the Sheriff, commission is to be charged at one half the rate prescribed in item 9.
  | Note 3: If a sale, whether by public auction or otherwise, is conducted by the Sheriff without the involvement of an auctioneer or agent, the commission rate prescribed in item 9(a) is to be increased by 1.00%.
  | Note 4: Commission is to be calculated on the amount recovered or the judgment sum, whichever is the lesser.
