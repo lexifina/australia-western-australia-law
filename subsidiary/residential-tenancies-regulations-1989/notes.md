@@ -37,6 +37,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Residential Tenancies Amendment Regulations 2014 r. 3-5 | 21 Mar 2014 p. 730-1 | 1 Feb 2016 (see r. 2(b))
+Residential Tenancies Amendment Regulations (No. 2) 2014 r. 3 and 4 | 20 Jan 2015 p. 371 | 21 Mar 2015 (see r. 2(b))
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Repealed by the Legal Profession Act 2008.
@@ -56,6 +57,13 @@ St Thomas More College means the premises comprising St Thomas More College on M
 (2) The following accommodation at St Thomas More College is prescribed for the purposes of section 5(3)(b) of the Act —
 (a) the student accommodation provided in the building on the western side of the College; and
 (b) the student accommodation provided in the southern-most building of the College.
+On the date as at which this compilation was prepared, the Residential Tenancies Amendment Regulations (No. 2) 2014 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Residential Tenancies Regulations 1989.
+4.Schedule 4 Forms 1AC and 1AD amended
+In Schedule 4 Forms 1AC and 1AD under the heading “ESSENTIALS FOR TENANTS” after the 9th bullet point insert:
+•Under the Building Regulations 2012, owners and occupiers are responsible for ensuring that a suitable enclosure is provided around a swimming pool or spa-pool on the property. If a fence, wall, gate, window, door or other barrier around a swimming pool or spa-pool is not in working order or does not comply with the Building Regulations 2012, contact your lessor or property manager immediately to arrange urgent repairs. If delays occur, or you need more information, contact your local council.
+•Loose cords or chains, on blinds or curtains, which are not fixed out of reach pose a strangulation risk for children. Contact your lessor or property manager to discuss arrangements about making window coverings safe. Product safety laws apply.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
