@@ -26,7 +26,8 @@ Grade shall be laid at not more than 1 in 200.
 A French drain shall not be situated closer than 3.5 m from any dwelling nor closer than 6 m from any window or door of any dwelling, nor closer than 1.8 m from any lot boundary, unless otherwise approved by the local government.
 [Form 2 amended in Gazette 29 Jul 1997 p. 4084.]
 Form No. 3
-SEMI INVERTED TYPE LEACH DRAIN.
+SEMI INVERTED TYPE LEACH DRAIN
+FULLY INVERTED TYPE LEACH DRAIN
 SECTION A - A.
 DETAILS OF LEACH DRAIN.
 THE DRAIN SHALL NOT BE SITUATED CLOSER THAN 2000 FROM ANY SEPTIC TANK, BUILDING OR BOUNDARY OF A LOT, UNLESS OTHERWISE APPROVED BY THE LOCAL GOVERNMENT.

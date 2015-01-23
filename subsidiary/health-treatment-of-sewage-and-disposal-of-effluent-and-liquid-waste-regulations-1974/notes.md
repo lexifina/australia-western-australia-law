@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 23 January 2015 of the Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Bacteriolytic Treatment of Sewage and Disposal of Effluent and Liquid Waste Regulations | 3 Sep 1974 p. 3303-40 (erratum 13 Sep 1974 p. 3440) | 3 Sep 1974
@@ -42,6 +42,7 @@ Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment
 Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations 2013 | 14 Nov 2013 p. 5047-8 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations 2014 | 8 Apr 2014 p. 919 | r. 1 and 2: 8 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations (No. 2) 2014 | 28 Nov 2014 p. 4413 | r. 1 and 2: 28 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Nov 2014 (see r. 2(b))
+Reprint 6: The Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974 as at 23 Jan 2015 (includes amendments listed above)
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Repealed by the Environmental Protection (Liquid Waste) Repeal Regulations 2003.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 references in any law to the Health Department shall be read as references to the Department of Health.
