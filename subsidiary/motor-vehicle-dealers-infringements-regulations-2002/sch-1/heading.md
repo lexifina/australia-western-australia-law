@@ -11,7 +11,9 @@ s. 23(1) | $200
 s. 23(2) | $200
 s. 24(3) | $150
 s. 25(2e) | $100
-s. 25(1) s. 25(1a) s. 25(2a) | $500 $500 $500
+s. 25(1) | $500
+s. 25(1a) | $500
+s. 25(2a) | $500
 s. 26(1) | $200
 s. 26(2) | $200
 s. 27(3) | $500
@@ -27,4 +29,4 @@ s. 41(1) | $200
 s. 43(1) | $100
 Motor Vehicle Dealers (Sales) Regulations 1974
 r. 14, relating to r. 11(2) | $200
-[Schedule 1 amended in Gazette 28 Jan 2003 p. 267.]
+[Schedule 1 amended: Gazette 28 Jan 2003 p. 267.]
