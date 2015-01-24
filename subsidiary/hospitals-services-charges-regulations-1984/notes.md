@@ -139,6 +139,7 @@ Hospitals (Services Charges) Amendment Regulations (No. 2) 2014 | 24 Apr 2014 p.
 Hospitals (Services Charges) Amendment Regulations (No. 3) 2014 | 13 Jun 2014 p. 1893 | r. 1 and 2: 13 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jun 2014 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 4) 2014 | 13 Jun 2014 p. 1894 | r. 1 and 2: 13 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 5) 2014 | 10 Oct 2014 p. 3673 | r. 1 and 2: 10 Oct 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Oct 2014 (see r. 2(b))
+Hospitals (Services Charges) Amendment Regulations 2015 | 23 Jan 2015 p. 408 | r. 1 and 2: 23 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jan 2015 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with the Interpretation Act 1984 s. 42(1), subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The commencement date of 1 September 1990 that was specified in these regulations was before the date of their publication in the Gazette.
@@ -185,5 +186,5 @@ public in-patient4(1)
 same day patient4(1)
 specific treatment entitlement card4(1)
 specified5(4)
-surgically implanted prostheses4(1)
+surgically implanted prosthesis4(1)
 war service veteran4(1)
