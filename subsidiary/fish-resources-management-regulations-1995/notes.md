@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 November 2014 of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fish Resources Management Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fish Resources Management Regulations 1995 | 29 Sep 1995 p. 4503-646 | 1 Oct 1995 (see r. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -181,6 +181,7 @@ Fish Resources Management Amendment Regulations (No. 6) 2014 | 22 Oct 2014 p. 40
 Fish Resources Management Amendment Regulations (No. 7) 2014 | 31 Oct 2014 p. 4199-200 | r. 1 and 2: 31 Oct 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2014 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 8) 2014 | 4 Nov 2014 p. 4203 | r. 1 and 2: 4 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Nov 2014 (see r. 2(b))
 Reprint 13: The Fish Resources Management Regulations 1995 as at 14 Nov 2014 (includes amendments listed above)
+Fish Resources Management Amendment Regulations 2015 | 23 Jan 2015 p. 399-407 | r. 1 and 2: 23 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jan 2015 (see r. 2(b))
 Revoked by the West Coast Estuarine Fishery (Interim) Management Plan Revocation Notice 2014 (see Gazette 25 Mar 2014 p. 839).
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 Revoked by the West Coast Rock Lobster Management Plan Revocation Notice 2012 (see Gazette 21 Dec 2012 p. 6656).
@@ -339,7 +340,6 @@ set3(1)
 setoseSch. 2
 settlement144A(1)
 share arrangement72
-single-sided fillet3(1), 16E(1)
 South Coast Region3(1)
 spat144A(1)
 spat collector144A(1)
