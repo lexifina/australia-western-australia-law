@@ -17,6 +17,7 @@ Magistrates Court (Civil Proceedings) Amendment Rules (No. 3) 2013 | 20 Aug 2013
 Magistrates Court (Civil Proceedings) Amendment Rules 2013 | 31 Dec 2013 p. 6542-4 | r. 1 and 2: 31 Dec 2013 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 4) 2014 | 3 Jun 2014 p. 1743-5 | r. 1 and 2: 3 Jun 2014 (see r. 2(a)); Rules other than r. 1 and 2: 4 Jun 2014 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 5) 2014 | 12 Dec 2014 p. 4716-17 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Rules other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
+Magistrates Court (Civil Proceedings) Amendment Rules 2014 | 23 Jan 2015 p. 410-14 | r. 1 and 2: 23 Jan 2015 (see r. 2(a)); Rules other than r. 1 and 2: 24 Jan 2015 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
@@ -30,7 +31,8 @@ In rule 124(1) in the Table delete the item relating to the Road Traffic (Vehicl
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-Act4, 131B(1)
+Act4, 131B(1), 133AAA
+applicant133AAD(1)
 application4, 123
 approved form4
 child116
@@ -40,25 +42,28 @@ counterclaim4
 default judgment4
 defendant4, 65(1)
 determined value87
+egistrar4
 enforcement officer4
 first party66
 Inactive Cases List95A
 listing conference4
 lodge4
+lodge
 order4
 originating claim4
+other party133AAD(5)
 partnership4
 party135(1)
 personal service4
 post-offer costs65(1)
 pre-trial conference4
 Public Trustee4
-registrar4
 represented person116
 respondent131B(3)
 response4
-section131B(1)
+section131B(1), 133AAA
 serve4
+serve
 serve personally4
 subsequent party66
 successful party4
@@ -66,4 +71,5 @@ third party4
 third party claim4
 trial date4
 unsuccessful party4
+warehouseman133AAA
 working day4
