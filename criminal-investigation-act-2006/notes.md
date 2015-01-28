@@ -17,13 +17,13 @@ Criminal Organisations Control Act 2012 s. 174 | 49 of 2012 | 29 Nov 2012 | 2 No
 Criminal Law Amendment (Out-of-Control Gatherings) Act 2012 Pt. 3 | 56 of 2012 | 6 Dec 2012 | 15 Dec 2012 (see s. 2(b) and Gazette 14 Dec 2012 p. 6196)
 Reprint 2: The Criminal Investigation Act 2006 as at 5 Apr 2013 (includes amendments listed above except those in the Criminal Organisations Contol Act 2012)
 Criminal Investigation (Identifying People) Amendment Act 2013 s. 29 | 22 of 2013 | 12 Nov 2013 | 13 Nov 2013 (see s. 2(c))
+Criminal Investigation Amendment Act 2014 | 31 of 2014 | 3 Dec 2014 | s. 1 and 2: 3 Dec 2014 (see s. 2(a)); Act other than s. 1 and 2: 28 Jan 2015 (see s. 2(b) and Gazette 27 Jan 2015 p. 435)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 6 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 14 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 8 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
-Criminal Investigation Amendment Act 2014 s. 3-5 | 31 of 2014 | 3 Dec 2014 | To be proclaimed (see s. 2(b))
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 14 had not come into operation. It reads as follows:
 Division 14 — Criminal Investigation Act 2006 amended
@@ -51,20 +51,7 @@ This Subdivision amends the Criminal Investigation Act 2006.
 (ii) under the Mental Health Act 2014 section 157;
 (2) Delete section 142(8)(c)(ii) and insert:
 (ii) the Mental Health Act 2014 section 157; or
-On the date as at which this compilation was prepared, the Criminal Investigation Amendment Act 2014 s. 3-5 had not come into operation. They read as follows:
-3.Act amended
-This Act amends the Criminal Investigation Act 2006.
-4.Section 139 amended
-(1) In section 139(2) after “arrested suspect” insert:
-in custody
-(2) Delete section 139(3).
-5.Section 142 amended
-(1) In section 142(4), (5) and (6) delete “subsection (7).” and insert:
-subsections (7) and (8).
-(2) Delete section 142(7) and insert:
-(7) If it is decided to charge an arrested suspect with an offence and the suspect is not released unconditionally, the officer who has custody of the suspect must ensure the suspect is charged as soon as practicable and is dealt with —
-(a) under the Bail Act 1982 section 6; or
-(b) under the Mental Health Act 1996 section 196.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) had not come into operation. It reads as follows:
 39.References in other Acts to “Corruption and Crime Commission Act 2003” amended
 (2) In the provisions listed in the Table:
@@ -76,6 +63,29 @@ Corruption, Crime and Misconduct Act 2003
 Corruption, Crime and Misconduct Act 2003
 Table
 Criminal Investigation Act 2006 | s. 115 def. of CCC, CCC officer and Parliamentary Inspector
+relevant thing73
+remote communication3(1)
+responsible person73
+road18(1)
+search warrant3(1)
+searcher65(1), 70(1), 71(1), 72(1)
+security risk item135(1)
+senior officer38A(1), 44(1), 47(1), 97(1), 133(1), 140(1)
+senior police officer3(1)
+serious event37(1)
+serious offence40(1), 57, 128(1), 133(1), 142(1)
+statutory penalty3(1)
+strip search3(1)
+suspect25(2) and (3), 26(5), 73, 91(1), 92(1), 97(1), 115
+target device58(3)(d)
+target person58(3)(g)
+target place43(1), 44(1)
+target thing43(1), 44(1)
+thing relevant to an offence3(1)
+unconditionally125(1)
+vehicle3(1), 18(1)
+volunteer79
+WA Police3(1)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -151,7 +161,7 @@ prescribed3(1)
 prescribed person124(1)
 private parts3(1)
 privileged151(1)
-prohibited thing69A
+prohibited thing69A, 69B
 protected forensic area3(1)
 protected information113(1)
 protected person73
@@ -165,7 +175,7 @@ reasonably suspects3(1)
 record3(1)
 relevant thing73
 remote communication3(1)
-responsible person73
+responsible person73, 73
 road18(1)
 search warrant3(1)
 searcher65(1), 70(1), 71(1), 72(1)
@@ -176,9 +186,9 @@ serious event37(1)
 serious offence40(1), 57, 128(1), 133(1), 142(1)
 statutory penalty3(1)
 strip search3(1)
-suspect25(2) and (3), 26(5), 73, 91(1), 92(1), 97(1), 115
-target device58(3)(d)
-target person58(3)(g)
+suspect25(2), 25(3), 26(5), 73, 91(1), 92(1), 97(1), 115
+target device58(3)
+target person58(3)
 target place43(1), 44(1)
 target thing43(1), 44(1)
 thing relevant to an offence3(1)
