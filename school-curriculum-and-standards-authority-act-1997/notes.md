@@ -19,18 +19,8 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Curriculum Council Amendment Act 2011 Pt. 2 | 37 of 2011 | 13 Sep 2011 | 1 Mar 2012 (see s. 2(b) and Gazette 28 Feb 2012 p. 841)
 Reprint 3: The School Curriculum and Standards Authority Act 1997 as at 27 Apr 2012 (includes amendments listed above)
 School Education Amendment Act 2012 Pt. 3 | 46 of 2012 | 29 Nov 2012 | 1 Jan 2013 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 School Education Amendment Act 2014 Pt. 3 | 28 of 2014 | 27 Nov 2014 | 2 Feb 2015 (see s. 2(c) and Gazette 16 Jan 2015 p. 311)
 Now known as the School Curriculum and Standards Authority Act 1997; short title changed (see note under s. 1).
-On the date as at which this compilation was prepared, the School Education Amendment Act 2014 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — School Curriculum and Standards Authority Act 1997 amended
-36.School Curriculum and Standards Authority Act 1997 amended
-This Part amends the School Curriculum and Standards Authority Act 1997.
-37.Section 3 amended
-In section 3 in the definition of governing body delete paragraphs (b) and (c) and insert:
-(b)in relation to a non-government school as defined in the School Education Act, means the governing body of that school under that Act;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -42,7 +32,7 @@ assessment3
 assets37
 Authority3
 Board3, 6(1)
-candidates33(2)(b)(iv)
+candidates33(2)
 chairperson3
 chief executive officer3
 commencement day37
@@ -59,7 +49,7 @@ education provider3
 educational programme19A(1)
 employed19F(1)
 exempt child19A(1)
-final years of compulsory education19A
+final years of compulsory education19A(1)
 first year of the relevant education period19C(1)
 former Council19I(2A)
 governing body3
@@ -72,7 +62,7 @@ Minister19A(1)
 overseas student19B(1)
 parent19J(1A)
 principal19A(1)
-provider19A(1) and (2)
+provider19A(1), 19A(2)
 relevant governing body12(1)
 relevant officials50(1)
 right37
