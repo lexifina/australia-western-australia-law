@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Residential Tenancies Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 6 February 2015 of the Residential Tenancies Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Residential Tenancies Act 1987 | 128 of 1987 | 21 Jan 1988 | s. 1 and 2: 21 Jan 1988; Act other than s. 1 and 2: 1 Oct 1989 (see s. 2 and Gazette 18 Aug 1989 p. 2748)
@@ -33,6 +33,7 @@ Reprint 5: The Residential Tenancies Act 1987 as at 19 Jul 2013 (includes amendm
 Dog Amendment Act 2013 Pt. 3 | 18 of 2013 | 29 Oct 2013 | 1 Nov 2013 (see s. 2(b) and Gazette 31 Oct 2013 p. 4829)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 5 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Consumer Protection Legislation Amendment Act 2014 Pt. 12 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
+Reprint 6: The Residential Tenancies Act 1987 as at 6 Feb 2015 (includes amendments listed above)
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
 The Real Estate Legislation Amendment Act 1995 s. 54(2) and (3) read as follows:
@@ -47,7 +48,7 @@ Defined termProvision(s)
 AFI92
 agent22(6), 82A
 agreement70A(1), 71D(1), 72(1A)
-applicant82C(1)(a), 82D(1)(a)
+applicant82C(1), 82D(1)
 authorised agentSch. 1 cl. 1
 authorised financial institution92
 authorised person88A(1)
@@ -64,7 +65,7 @@ executive officer7A(3)
 existing agreement71H
 expiry day3
 first tenant17A(1)
-former agreement31B(1)(a)
+former agreement31B(1)
 goods79(1A)
 GST49A(1)
 Housing Authority71A
@@ -77,7 +78,7 @@ list82A
 Minister for Housing71A
 minor59A(1)
 national privacy principles82K(1)
-new agreement31B(1)(b)
+new agreement31B(1)
 notice70A(1)
 notice to vacate81A(1)
 out-of-date82A
