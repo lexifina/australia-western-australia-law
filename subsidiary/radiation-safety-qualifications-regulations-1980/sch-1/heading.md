@@ -1,7 +1,6 @@
 ## Schedule 1
 [Regulation 5]
-Subjects comprising syllabus of
-radiation safety examination
+Subjects comprising syllabus of radiation safety examination
 1.Properties and uses of radiation.
 2.Production, detection and measurement of radiation.
 3.Biological effects of radiation.
