@@ -10,4 +10,19 @@ Acts Amendment (ICWA) Act 1996 s. 38 | 45 of 1996 | 25 Oct 1996 | 1 Oct 1997 (se
 Financial Legislation Amendment Act 1996 s. 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
 Workers’ Compensation and Rehabilitation Amendment Act 1999 s. 61 | 34 of 1999 | 5 Oct 1999 | 15 Oct 1999 (see s. 2(2) and Gazette 15 Oct 1999 p. 4889)
 Reprint of the Waterfront Workers (Compensation for Asbestos Related Diseases) Act 1986 as at 12 Apr 2002 (includes amendments listed above)
-Workers’ Compensation Reform Act 2004 s. 170 and 174 | 42 of 2004 | 9 Nov 2004 | s. 170(1), (2)(b) and (c) and (10) and s. 174: 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131); s. 170(2)(a) and (3)-(9): 14 Nov 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131 and 17 Jun 2005 p. 2657); Para (b) of proclamation published 31 Dec 2004 p. 7131 revoked (see Gazette 17 Jun 2005 p. 2657)
+Workers’ Compensation Reform Act 2004 s. 170 and 174 | 42 of 2004 | 9 Nov 2004 | s. 170(1), (2)(b) and (c) and (10) and s. 174: 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131);
+ |  |  | s. 170(2)(a) and (3)-(9): 14 Nov 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131 and 17 Jun 2005 p. 2657); Para (b) of proclamation published 31 Dec 2004 p. 7131 revoked (see Gazette 17 Jun 2005 p. 2657)
+Reprint 2: The Waterfront Workers (Compensation for Asbestos Related Diseases) Act 1986 as at 6 Feb 2015 (includes amendments listed above)
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+arbitrator3
+asbestos-carrying vessel11(1)
+compensation5(4)
+Compensation Act3
+critical time11(1)
+Fund3
+ICWA3
+relevant injury4(2)
+waterfront worker3
+WorkCover WA3
