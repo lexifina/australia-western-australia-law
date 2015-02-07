@@ -13,6 +13,7 @@ State Administrative Tribunal Amendment Rules 2010 | 9 Jul 2010 p. 3240-2 | r. 1
 State Administrative Tribunal Amendment Rules 2013 | 14 May 2013 p. 1969-70 | r. 1 and 2: 14 May 2013 (see r. 2(a)); Rules other than r. 1 and 2: 15 May 2013 (see r. 2(b))
 Reprint 2: The State Administrative Tribunal Rules 2004 as at 19 Jul 2013 (includes amendments listed above)
 State Administrative Tribunal Amendment Rules (No. 2) 2013 | 28 Jan 2014 p. 181-2 | r. 1 and 2: 28 Jan 2014 (see r. 2(a)); Rules other than r. 1 and 2: 29 Jan 2014 (see r. 2(b))
+State Administrative Tribunal Amendment Rules 2014 | 6 Feb 2015 p. 567-72 | r. 1 and 2: 6 Feb 2015 (see r. 2(a)); Rules other than r. 1 and 2: 7 Feb 2015 (see r. 2(b))
 Schedule deleted by the State Administrative Tribunal Amendment Regulations (No. 2) 2007 r. 8 (see Gazette 26 June 2007 p. 2979-96).
 Repealed by the Medical Practitioners Act 2008, which was repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
 Section 67(3b) deleted by the Security and Related Activities (Control) Amendment Act 2008 s. 46(4).
@@ -23,7 +24,6 @@ Defined termProvision(s)
 Act3
 address for service in the proceedings3
 agent59(1)
-approved application7A(1)
 approved form3
 authorised hospital56(1)
 business day3
@@ -32,12 +32,11 @@ Commissioner49(1), 59(1), 61(2)
 community treatment order56(1)
 Corporations Act3
 Council of Official Visitors56(1)
-cover sheet33(5)
 Department61(2)
 direction3
 document3
 guardian ad litem3
-interim application14(a)
+interim application14
 involuntary patient56(1)
 legally qualified person59(1)
 material12(1)
@@ -50,7 +49,6 @@ personal service3
 practice note3
 pre-paid post3
 public sector body3
-recipient44(1)
 referring person3
 representative35(2)
 RV Act59(1)
