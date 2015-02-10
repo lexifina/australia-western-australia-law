@@ -20,6 +20,41 @@ Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 201
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2013 | 28 Jun 2013 p. 2755-6 | bl. 1 and 2: 28 Jun 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2013 (see bl. 2(b))
 Reprint 2: The Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986 as at 18 Apr 2014 (includes amendments listed above)
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2014 | 17 Jun 2014 p. 1980-1 | bl. 1 and 2: 17 Jun 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2014 (see bl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2015 bl. 3-9 | 10 Feb 2015 p. 617-20 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see bl. 2(b))
+On the date as at which this compilation was prepared, the Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2015 bl. 3-9 had not come into operation. They read as follows:
+3.By-laws amended
+These by-laws amend the Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986.
+4.By-law 3 amended
+(1) In by-law 3(1) insert in alphabetical order:
+responsible person, for a vehicle, means the person responsible for the vehicle under the Road Traffic (Administration) Act 2008 section 6;
+(2) In by-law 3(1) in the definition of roadway delete “within the meaning of the Road Traffic Act 1974,” and insert:
+as defined in the Road Traffic (Administration) Act 2008 section 4,
+(3) In by-law 3(1) in the definition of vehicle delete “same meaning as in the Road Traffic Act 1974.” and insert:
+meaning given in the Road Traffic (Administration) Act 2008 section 4.
+(4) After by-law 3(3) insert:
+(4) These by-laws are subject to any written law and any law of the Commonwealth about assistance animals as defined in the Disability Discrimination Act 1992 (Commonwealth) section 9(2).
+5.By-law 26B amended
+In by-law 26B(3) delete “owner of” and insert:
+responsible person for
+6.By-law 27 amended
+In by-law 27 in the definition of alleged offender delete “registered owner of” and insert:
+responsible person for
+7.By-law 33 amended
+In by-law 33(b) delete “driver, registered owner or person in charge of” and insert:
+driver of, responsible person for, or person in charge of,
+8.By-law 35 amended
+(1) In by-law 35(1) delete “registered owner of” and insert:
+responsible person for
+(2) In by-law 35(2) delete “registered owner” and insert:
+responsible person for a vehicle
+Note:The heading to amended by-law 35 is to read:
+Responsible person may be treated as driver or person in charge of vehicle
+9.Schedule 3 amended
+In Schedule 3 Form 2 delete “owner/” and insert:
+responsible person for/
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
