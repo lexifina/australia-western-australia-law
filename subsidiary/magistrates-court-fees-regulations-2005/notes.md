@@ -22,7 +22,17 @@ Magistrates Court (Fees) Amendment Regulations (No. 3) 2012 | 30 Nov 2012 p. 579
 Magistrates Court (Fees) Amendment Regulations 2013 | 20 Aug 2013 p. 3815-16 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Magistrates Court (Fees) Amendment Regulations (No. 2) 2013 | 15 Nov 2013 p. 5248-50 | r. 1 and 2: 15 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Nov 2013 (see r. 2(b))
 Magistrates Court (Fees) Amendment Regulations (No. 3) 2014 | 27 Jun 2014 p. 2342-4 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Magistrates Court (Fees) Amendment Regulations 2015 r. 3 and 4 | 10 Feb 2015 p. 613 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
 The Magistrates Court (Fees) Amendment Regulations (No. 2) 2011, Table to r. 4 included amendments to Schedule 1 Divisions 2 and 3. These amendments are not included because the instruction in r. 4 referred only to Schedule 1 Division 1.
+On the date as at which this compilation was prepared, the Magistrates Court (Fees) Amendment Regulations 2015 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Magistrates Court (Fees) Regulations 2005.
+4.Schedule 1 amended
+In Schedule 1 Division 2 item 10 delete “Road Traffic Act 1974” and insert:
+Road Traffic (Authorisation to Drive) Act 2008 section 27
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
