@@ -7,28 +7,32 @@ Legal Profession Amendment Rules 2009 | 7 Apr 2009 p. 1135-6 | r. 1 and 2: 7 Apr
 Legal Profession Amendment Rules 2010 | 26 Oct 2010 p. 5290 | r. 1 and 2: 26 Oct 2010 (see r. 2(a)); Rules other than r. 1 and 2: 27 Oct 2010 (see r. 2(b))
 Legal Profession Amendment Rules 2011 | 12 Apr 2011 p. 1311-13 | r. 1 and 2: 12 Apr 2011 (see r. 2(a)); Rules other than r. 1 and 2: 13 Apr 2011 (see r. 2(b))
 Legal Profession Amendment Rules (No. 2) 2014 | 12 Dec 2014 p. 4718-19 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Rules other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
+Legal Profession Amendment Rules 2015 | 20 Feb 2015 p. 680-8 | r. 1 and 2: 20 Feb 2015 (see r. 2(a)); Rules other than r. 1 and 2: 21 Feb 2015 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 after the overdue periodSch. 1 cl. 1
-applicable CPD points18(1)
 approved CPD activity7
 book47
-certificate year7
+certificate year8A
 chair7
-commencement day18(1)
 commentator7
 committee47
 competency area 110(2)
 competency area 210(3)
 competency area 310(4)
-completion day18(1)
-CPD condition7
-CPD point7
-existing certificate18(1)
+competency area 113D(2)
+competency area 213D(3)
+competency area 313D(4)
+competency area 413D(5)
+CPD condition8A, 13A
+CPD period13A
+CPD point8A, 13A
+CPD points13(1A)
+electronic activity13A
 experienced practitioner10(1)
 expiry day5(1)
-individual activity7
+individual activity8A
 interactive activity7
 late fee periodSch. 1 cl. 1
 librarian47
@@ -36,6 +40,7 @@ library47
 overdue periodSch. 1 cl. 1
 presenter7
 professional development activity7
+provider18(1)
 publication activity7
 QA provider7
 reduce17(1)
