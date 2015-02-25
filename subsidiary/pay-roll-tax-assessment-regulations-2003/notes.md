@@ -23,6 +23,7 @@ Pay-roll Tax Assessment Amendment Act 2010 Part 3 assented to 25 Jun 2010 | 25 J
 Public Sector Reform (Consequential Amendments) Regulations 2011 Pt. 6 | 11 Feb 2011 p. 502-7 | 12 Feb 2011 (see r. 2(d))
 Reprint 3: The Pay-roll Tax Assessment Regulations 2003 as at 4 May 2012 (includes amendments listed above)
 Pay-roll Tax Assessment Amendment Regulations (No. 2) 2013 | 11 Oct 2013 p. 4624-5 | r. 1 and 2: 11 Oct 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Oct 2013 (see r. 2(b))
+Pay-roll Tax Assessment Amendment Regulations 2015 | 24 Feb 2015 p. 740-1 | r. 1 and 2: 24 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Feb 2015 (see r. 2(b))
 The Workplace Agreements Act 1993 expired 14 Sep 2003.
 At the time of this compilation the Commissioner of Workplace Agreements does not exist.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Consumer and Employment Protection is called the Department of Commerce.
@@ -45,7 +46,8 @@ These regulations come into operation on the day on which the Commonwealth Place
 3.When certain modifications have effect
 (1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
 (2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes Administration) Regulations 2002 Part 5 to the extent of any inconsistency.
-Note:Modifications prescribed for the purposes of section 7(2) of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Gazette, see section 7(3) of the Act.
+Note:
+Modifications prescribed for the purposes of section 7(2) of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Gazette, see section 7(3) of the Act.
 4.Modification of State taxing laws
 (1) For the purposes of section 7(2) of the Act, each State taxing law is taken to be modified to the extent necessary to give effect to subregulation (2).
 (2) If —
@@ -80,7 +82,8 @@ This notice comes into operation on the day after the day on which it is registe
 3.When certain modifications have effect
 (1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
 (2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2002 Part 5 to the extent of any inconsistency.
-Note:Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
+Note:
+:Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
 4.Definitions
 In this notice —
 applied WA law means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
@@ -120,35 +123,35 @@ The amendments set out in the Pay-roll Tax Assessment Amendment Regulations 2010
 The Pay-roll Tax Assessment Amendment Act 2010 s. 45 reads as follows:
 45.Power to amend or repeal regulations unaffected
 This Part does not prevent the Pay-roll Tax Assessment Regulations 2003 from being amended or repealed under the Pay-roll Tax Assessment Act 2002.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
-actuarial determination Gl.
-allowance period Gl.
-averaging method Gl.
-BK percentage Gl.
-business journey Gl.
-business kilometre Gl.
-business night Gl.
-continuous recording method Gl.
-continuous recording period Gl.
+Defined termProvision(s)
+actuarial determinationGl.
+allowance periodGl.
+averaging methodGl.
+BK percentageGl.
+business journeyGl.
+business kilometreGl.
+business nightGl.
+continuous recording methodGl.
+continuous recording periodGl.
 Deed16(1)
-dependant Gl.
-education costs Gl.
-employee Gl.
-expense payment fringe benefit Gl.
-industrial award Gl.
-loan fringe benefit Gl.
-portable long service leave fund Gl.
-property fringe benefit Gl.
-redundancy benefits scheme Gl.
-remote area holiday transport Gl.
-remote area housing fringe benefit Gl.
-remote area housing loan Gl.
-remote area housing rent Gl.
-remote area residential property Gl.
-remote area residential property option fee Gl.
-remote area residential property repurchase consideration Gl.
-residential fuel Gl.
-residual fringe benefit Gl.
-vehicle Gl.
+dependantGl.
+education costsGl.
+employeeGl.
+expense payment fringe benefitGl.
+industrial awardGl.
+loan fringe benefitGl.
+portable long service leave fundGl.
+property fringe benefitGl.
+redundancy benefits schemeGl.
+remote area holiday transportGl.
+remote area housing fringe benefitGl.
+remote area housing loanGl.
+remote area housing rentGl.
+remote area residential propertyGl.
+remote area residential property option feeGl.
+remote area residential property repurchase considerationGl.
+residential fuelGl.
+residual fringe benefitGl.
+vehicleGl.
