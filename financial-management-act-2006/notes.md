@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 April 2014 of the Financial Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Financial Management Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Financial Management Act 2006 | 76 of 2006 | 21 Dec 2006 | s. 1 and 2: 21 Dec 2006; Act other than s. 1 and 2: 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
@@ -27,9 +27,17 @@ Financial Management (Statutory Authorities) Regulations 2013 published in Gazet
 Minerals Research Institute of Western Australia Act 2013 s. 77 | 23 of 2013 | 18 Dec 2013 | 1 Feb 2014 (see s. 2(b) and Gazette 14 Jan 2014 p. 43)
 Reprint 3: The Financial Management Act 2006 as at 11 Apr 2014 (includes amendments listed above)
 Financial Management (Statutory Authorities) Regulations 2014 published in Gazette 11 Nov 2014 p. 4262 | r. 1 and 2: 11 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Nov 2014 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Alcohol and Drug Authority Amendment Act 2015 s. 16 | 3 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(b))
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 Footnote no longer applicable.
 The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
+On the date as at which this compilation was prepared, the Alcohol and Drug Authority Amendment Act 2015 s. 16 had not come into operation. It reads as follows:
+16.Financial Management Act 2006 amended
+(1) This section amends the Financial Management Act 2006.
+(2) In Schedule 1 delete “Western Australian Alcohol and Drug Authority”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
