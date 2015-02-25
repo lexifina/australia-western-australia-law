@@ -160,6 +160,7 @@ Road Traffic Legislation Amendment Act 2012 Pt. 3 (other than s. 15-18) | 8 of 2
 Road Traffic (Miscellaneous Amendments) Act 2012 s. 12 | 59 of 2012 | 11 Dec 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 s. 44 (see s. 2(c)(ii))
 Medicines and Poisons Act 2014 s. 188 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(c))
+Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 2 and Pt. 3 Div. 1 | 2 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(1)(b) and (2))
 The name of the Main Roads Trust Fund was changed by the Financial Legislation Amendment and Repeal Act 2006 (now the Financial Management (Transitional Provisions) Act 2006) s. 17 to the Main Roads Trust Account.
 Repealed by the Interpretation Act 1984.
 Section 111(2)(f) was deleted by the Road Traffic Amendment Act 2001 s. 5(2).
@@ -450,6 +451,64 @@ On the date as at which this compilation was prepared, the Medicines and Poisons
 (1) This section amends the Road Traffic Act 1974.
 (2) In section 65 in the definition of drug delete paragraph (b) and insert:
 (b)a Schedule 4 poison as defined in the Medicines and Poisons Act 2014 section 3; or
+On the date as at which this compilation was prepared, the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 2 and Pt. 3 Div. 1 had not come into operation. They read as follows:
+Part 2 — Amendments which may be brought into operation on or after Royal Assent
+3.Act amended
+This Part amends the Road Traffic Act 1974.
+4.Section 59 amended
+(1) Delete section 59(1)(a) and insert:
+(a) while under the influence of alcohol to such an extent as to be incapable of having proper control of the vehicle; or
+(ba) while under the influence of drugs to such an extent as to be incapable of having proper control of the vehicle; or
+(bb) while under the influence of alcohol and drugs to such an extent as to be incapable of having proper control of the vehicle; or
+(2) In section 59(3)(a) delete “subsection (1)(a),” and insert:
+subsection (1)(a), (ba) or (bb),
+5.Section 59A amended
+(1) Delete section 59A(1)(a) and insert:
+(a) while under the influence of alcohol to such an extent as to be incapable of having proper control of the vehicle; or
+(ba) while under the influence of drugs to such an extent as to be incapable of having proper control of the vehicle; or
+(bb) while under the influence of alcohol and drugs to such an extent as to be incapable of having proper control of the vehicle; or
+(2) In section 59A(3a) delete “subsection (1)(a),” and insert:
+subsection (1)(a), (ba) or (bb),
+6.Section 63 amended
+(1) Delete section 63(1) and insert:
+(1) A person who drives or attempts to drive a motor vehicle —
+(a) while under the influence of alcohol to such an extent as to be incapable of having proper control of the vehicle; or
+(b) while under the influence of drugs to such an extent as to be incapable of having proper control of the vehicle; or
+(c) while under the influence of alcohol and drugs to such an extent as to be incapable of having proper control of the vehicle,
+commits an offence, and the offender may be arrested without warrant.
+(2) In section 63(7):
+(a) delete “against this section if it is alleged or appears on the evidence that the accused was under the influence of drugs alone,” and insert:
+against subsection (1)(b),
+(b) in paragraph (a) delete “those drugs” and insert:
+the drugs, under the influence of which the accused is alleged or appears on the evidence to be,
+7.Section 64AA amended
+In section 64AA(2c) delete “section 63, 64, or 67” and insert:
+section 63, 64, 64A or 67
+8.Section 66 amended
+In section 66(2)(ca)(i) delete “section 59(1)(a) or 59A(1)(a)” and insert:
+section 59(1)(a), (ba) or (bb) or 59A(1)(a), (ba) or (bb)
+9.Section 97 amended
+Delete section 97(2)(a) and insert:
+(a) while disqualified from obtaining a driver’s licence apply for or obtain such a licence, except that a person may apply for such a licence during the last 6 weeks of the period of disqualification;
+(ba) while disqualified from obtaining any particular licence other than a driver’s licence apply for or obtain such a licence;
+Part 3 — Amendments which may be brought into operation on or after the day fixed under the Road Traffic (Administration) Act 2008 section 2(b)
+Division 1 — Road Traffic Act 1974 amended
+10.Act amended
+This Division amends the Road Traffic Act 1974.
+11.Section 49 amended
+(1) In section 49(1) in the Penalty paragraph (c) delete “subsection (3)(a), (b), or (c)” and insert:
+subsection (3)(a), (b), (c) or (da)
+(2) After section 49(3)(c) insert:
+(da) who is a member of a class of persons prescribed for the purposes of this paragraph by regulations made for the purposes of the Road Traffic (Authorisation to Drive) Act 2008 section 5A; or
+12.Section 64A amended
+In section 64A(2):
+(a) in paragraph (f) delete “driver.” and insert:
+driver; or
+(b) after paragraph (f) insert:
+(g) is a member of a class of persons prescribed for the purposes of this paragraph by regulations made for the purposes of the Road Traffic (Authorisation to Drive) Act 2008 section 5A.
+13.Section 78A amended
+In section 78A in the definition of impounding offence (driver’s licence) paragraph (a) delete “section 49(3)(a), (b) or (c); or” and insert:
+section 49(3)(a), (b), (c) or (da); or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
