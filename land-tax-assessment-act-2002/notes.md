@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 April 2013 of the Land Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Land Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Land Tax Assessment Act 2002 | 52 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -28,6 +28,7 @@ Metropolitan Redevelopment Authority Act 2011 s. 140 | 45 of 2011 | 12 Oct 2011 
 Revenue Laws Amendment Act 2012 Pt. 4 | 29 of 2012 | 3 Sep 2012 | 4 Sep 2012 (see s. 2(e))
 Revenue Laws Amendment Act (No. 2) 2012 Pt. 4 | 32 of 2012 | 8 Oct 2012 | 1 Jul 2009 (see s. 2(c))
 Reprint 4: The Land Tax Assessment Act 2002 as at 19 Apr 2013 (includes amendments listed above)
+Taxation Legislation Amendment Act 2015 Pt. 2 Div. 1 and Pt. 3 | 1 of 2015 | 25 Feb 2015 | Pt. 3 Div. 2: 1 Jul 2003 (see s. 2(c)); Pt. 2 Div. 1: 1 Jul 2014 (see s. 2(b)); Pt. 3 Div. 1 and 3: 25 Feb 2015 (see s. 2(a))
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Under the Public Sector Management Act 1994 the designations of departments can be changed. At the time of this compilation the designation of the Department of Mines has been changed to the Department of Mines and Petroleum.
@@ -47,76 +48,107 @@ The amendment in the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+2012 to 2014 assessment periodSch. 1 cl. 10
 aged care facility38A(1)
-agentGl. cl. 1
-aggregated taxable valueGl. cl. 1
-approvedGl. cl. 1
-assessmentGl. cl. 1
-assessment yearGl. cl. 1
-beneficiary23A(1)(b)
-building contractGl. cl. 1
-clauseGl. cl. 1
-commencement dateGl. cl. 1
-completion dateGl. cl. 1
-conservation covenantGl. cl. 1
-disabled beneficiaryGl. cl. 1
+agentGl.
+aggregated taxable valueGl.
+amended ActSch. 1 cl. 10
+amending ActSch. 1 cl. 6
+approvedGl.
+assessmentGl.
+assessment yearGl.
+beneficiary23A(1), 29, 30K
+building contractGl.
+change30F(1)
+clauseGl.
+commencement Sch. 1 cl. 10
+commencement dateGl.
+completion dateGl.
+compliant trusteeSch. 1 cl. 9(1)
+conservation covenantGl.
+deceased30E
+decisionSch. 1 cl. 12(1)
+disabled beneficiaryGl.
 disabled person26A(1)
+discretionary trust29
 dwelling park land39A(1)
 dwelling park purposes39A(1)
 excluded purpose39A(1)
-exemptGl. cl. 1
-exempt purposeGl. cl. 1
-grazing businessGl. cl. 1
-home lotGl. cl. 2(4)
-home unitGl. cl. 1
-horse-breeding businessGl. cl. 1
-improvement schemeGl. cl. 1
-improvementsGl. cl. 1
-joint ownersGl. cl. 1
-landGl. cl. 1
-Land Information AuthorityGl. cl. 1
-land taxGl. cl. 1
-land tax ActGl. cl. 1
-local planning schemeGl. cl. 1
-lotGl. cl. 1 and 2(1)
-metropolitan regionGl. cl. 1
+exemptGl.
+exempt purposeGl.
+exemption provision18(1)
+family corporation29, 30H
+family member29
+family owner29, 30H
+family trust29, 30H
+family unit trust scheme29, 30H
+former section 20Sch. 1 cl. 8(1)
+former section 30Sch. 1 cl. 7(1)
+home lotGl.
+home unitGl.
+improvement schemeGl.
+improvementsGl.
+individual30I(1)
+joint ownersGl.
+landGl.
+Land Information AuthorityGl.
+land taxGl.
+land tax ActGl.
+local planning schemeGl.
+lotGl., Gl.
+metropolitan regionGl.
+modified rural business land provisions Sch. 1 cl. 10
 new lot43A(1)
-non-profit associationGl. cl. 1
-non-rural zoneGl. cl. 1
-non-strata home unitGl. cl. 1
+non-profit associationGl.
+non-rural land29
+non-strata home unitGl.
 old lot43A(1)
-other lotsGl. cl. 2(4)
-ownerGl. cl. 1
-owner-builderGl. cl. 1
-parcelGl. cl. 1
-previous financial yearGl. cl. 6(5)(a)
-primary residenceGl. cl. 1
-private residenceGl. cl. 1
-private residential propertyGl. cl. 1
+other lotsGl.
+ownerGl.
+owner-builderGl.
+parcelGl.
+partnership29
+previous assessmentSch. 1 cl. 10
+previous assessment periodSch. 1 cl. 8(1)
+previous financial yearGl.
+primary production29
+primary production business29
+primary residenceGl.
+private residenceGl.
+private residential propertyGl.
+produce animals30A(1)
 property A27(1)
-property B27(1)(a)
-public statutory authorityGl. cl. 1
-registeredGl. cl. 1
+property B27(1)
+public statutory authorityGl.
+registeredGl.
+related29
 related purpose39A(1)
-reserved land32(5), 33(6), Gl. cl. 1
+relevant requirements18(1)
+reserved land32(5), 33(6), Gl.
+residence contract39(1)
 residential care38A(1)
-retirement villageGl. cl. 1
-rural businessGl. cl. 1
-rural business landGl. cl. 1
-sportGl. cl. 1
-sports associationGl. cl. 1
-strata planGl. cl. 1
-strata schemeGl. cl. 1
-strata title home unitGl. cl. 1
-subdividedGl. cl. 1
-subdividing ownerGl. cl. 1
-survey-strata planGl. cl. 1
-survey-strata schemeGl. cl. 1
-taxable authorityGl. cl. 1
-taxable landGl. cl. 1
-taxable valueGl. cl. 1
-taxes9(6), 31(6), Gl. cl. 1
-total net incomeGl. cl. 1
-trusteeGl. cl. 1
-unimproved valueGl. cl. 1
+residential premises39(1)
+retirement village39(1), Gl.
+retirement village scheme39(1)
+rural business land assessmentSch. 1 cl. 10
+rural land29
+shareholder30J
+sportGl.
+sports associationGl.
+strata planGl.
+strata schemeGl.
+strata title home unitGl.
+subdividedGl.
+subdividing ownerGl.
+survey-strata planGl.
+survey-strata schemeGl.
+taxable authorityGl.
+taxable landGl.
+taxable valueGl.
+taxes9(6), 31(6), Gl.
+transitional periodSch. 1 cl. 7(1)
+trusteeGl.
+unimproved valueGl.
+unit holder30
+validation periodSch. 1 cl. 10
 year A39A(5A)
