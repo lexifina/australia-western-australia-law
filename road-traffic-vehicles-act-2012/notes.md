@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Road Traffic (Vehicles) Act 2012 s. 3, Pt. 2-14 | 7 of 2012 (as amended by No. 48 of 2012 Pt. 4 Div. 7A) | 21 May 2012 | On commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b))
+Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 4 | 2 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(1)(b) and (2))
 On the date as at which this compilation was prepared, the Road Traffic (Vehicles) Act 2012 s. 3 and Pt. 2-14 (as amended by the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 7A, effective 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815) had not come into operation. They read as follows:
 3.Terms used
 (1) In this Act, unless the contrary intention appears —
@@ -1481,3 +1482,13 @@ Subsections (1) and (2A) do
 76.Section 125 amended
 In section 125(8) delete “section 19 or 43.” and insert:
 section 19, 43, 95G or 95J.
+On the date as at which this compilation was prepared, the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 4 had not come into operation. It reads as follows:
+Part 3 — Amendments which may be brought into operation on or after the day fixed under the Road Traffic (Administration) Act 2008 section 2(b)
+Division 4 — Road Traffic (Vehicles) Act 2012 amended
+24.Act amended
+This Division amends the Road Traffic (Vehicles) Act 2012.
+25.Section 9 amended
+After section 9(2) insert:
+(3) If requested under the Road Traffic Act 1974 section 79BD to do so, the CEO must, in accordance with the request —
+(a) suspend the licence in respect of a vehicle; or
+(b) revoke the suspension of the licence in respect of a vehicle.
