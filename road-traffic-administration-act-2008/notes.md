@@ -11,7 +11,9 @@ Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 3 | 14 o
 Road Traffic Legislation Amendment (Information) Act 2011 Pt. 3 | 18 of 2011 | 2 Jun 2011 | On commencement of the Road Traffic (Administration) Act 2008 other than s. 1 and 2 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611)
 Road Traffic Legislation Amendment Act 2012 Pt. 5 | 8 of 2012 | 21 May 2012 | Pt. 5 (s. 208(1), 210, 211, 212 & 224): operative on commencement of the Road Traffic Legislation Amendment (Information) Act 2011 Pt. 3 (see s. 2(e)); Pt. 5 (other than s. 208(1), 210, 211, 212 & 224): operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(f))
 Road Traffic (Miscellaneous Amendments) Act 2012 Pt. 3 | 59 of 2012 | 11 Dec 2012 | On commencement of the Road Traffic (Administration) Act 2008 s. 44 (see s. 2(c)(ii))
+Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 2 | 2 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(1)(b) and (2))
 On the date as at which this compilation was prepared, the Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 (as amended by the Road Traffic Legislation Amendment (Registration Labels) Act 2009 s. 11, the Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 s. 17 and the Trade Measurement Legislation (Amendment and Expiry) Act 2010 s. 10) had not come into operation. They read as follows:
+“
 3.Crown bound
 (1) Each of the road laws binds the Crown in right of the State and, so far as the legislative power of the Parliament of the State permits, the Crown in all its other capacities.
 (2) Despite subsection (1), the road laws do not apply to —
@@ -1815,3 +1817,12 @@ In section 44 delete the Penalty and insert:
 Penalty:
 (a)unless paragraph (b) applies — a fine of 100 PU;
 (b)if the person was given the direction under section 39 and the person was, at the time the direction was given, driving the vehicle so as to escape pursuit by a police officer — imprisonment for 2 years, but the minimum penalty is a fine of 100 PU; and, in any event, the court convicting the person must order that the offender is disqualified from holding or obtaining a driver’s licence for a period of not less than 2 years.
+On the date as at which this compilation was prepared, the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 2 had not come into operation. It reads as follows:
+Part 3 — Amendments which may be brought into operation on or after the day fixed under the Road Traffic (Administration) Act 2008 section 2(b)
+Division 2 — Road Traffic (Administration) Act 2008 amended
+14.Act amended
+This Division amends the Road Traffic (Administration) Act 2008.
+15.Section 36 amended
+Delete section 36(2)(a) and insert:
+(a) while disqualified from obtaining a driver’s licence apply for or obtain such a licence, except that a person may apply for such a licence during the last 6 weeks of the period of disqualification;
+(ba) while disqualified from obtaining any particular licence other than a driver’s licence apply for or obtain such a licence;
