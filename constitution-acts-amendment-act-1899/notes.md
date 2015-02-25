@@ -285,6 +285,7 @@ Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 1
 Medicines and Poisons Act 2014 s. 183 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 4 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
+Alcohol and Drug Authority Amendment Act 2015 s. 14 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
@@ -405,6 +406,11 @@ In Schedule V Part 1 Division 1 delete the item relating to the Mental Health Re
 Member of the Mental Health Tribunal established by the Mental Health Act 2014.
 40.Schedule V Part 3 amended
 In Schedule V Part 3 delete the item relating to the Council of Official Visitors.
+On the date as at which this compilation was prepared, the Alcohol and Drug Authority Amendment Act 2015 s. 14 had not come into operation. It reads as follows:
+14.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 2 Division 2 delete “Act 1951, or the Western Australian Alcohol and Drug Authority established under the Alcohol and Drug Authority Act 1974.” and insert:
+Act 1951.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
