@@ -15,6 +15,7 @@ Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 2
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2013 | 10 May 2013 p. 1935-6 (as amended 31 May 2013 p. 2117) | r. 1 and 2: 10 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jun 2013 (see r. 2(b))
 Reprint 2: The Electricity Industry (Wholesale Electricity Market) Regulations 2004 as at 16 Aug 2013 (includes amendments listed above)
 Electricity Corporations (Consequential Amendments) Regulations 2013 r. 9 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
+Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2015 | 24 Feb 2015 p. 737-8 | r. 1 and 2: 24 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Feb 2015 (see r. 2(b))
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Energy Arbitration and Review Act 1998.
 Defined terms
@@ -36,7 +37,7 @@ market procedures3
 market rules5, 6(1)
 market website3
 new rules4(1)
-person required to pay40(1)(a) and (2)(a)
+person required to pay40(1), 40(2)
 procedural decision41(1), 48
 registered participant3
 relevant act or omission52(2)
