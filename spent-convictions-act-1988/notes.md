@@ -56,6 +56,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 22 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
+Alcohol and Drug Authority Amendment Act 2015 s. 18 | 3 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(b))
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
@@ -85,6 +86,11 @@ Corruption, Crime and Misconduct Act 2003
 Corruption, Crime and Misconduct Act 2003
 Table
 Spent Convictions Act 1988 | Sch. 3 cl. 1(1) Table it. 10B(a) to (h)
+On the date as at which this compilation was prepared, the Alcohol and Drug Authority Amendment Act 2015 s. 18 had not come into operation. It reads as follows:
+18.Spent Convictions Act 1988 amended
+(1) This section amends the Spent Convictions Act 1988.
+(2) In Schedule 3 clause 1(7) in the Table item 1(d) delete “Drug Authority” and insert:
+Other Drugs
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
