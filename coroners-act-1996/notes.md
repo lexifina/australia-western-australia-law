@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 November 2014 of the Coroners Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Coroners Act 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Coroners Act 1996 | 2 of 1996 | 24 May 1996 | s. 1 and 2: 24 May 1996; Act other than s. 1 and 2: 7 Apr 1997 (see s. 2 and Gazette 18 Mar 1997 p. 1529)
@@ -23,14 +23,15 @@ Legal Profession Act 2008 s. 652 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Medical Practitioners Act 2008 Sch. 3 cl. 10 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 11 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Reprint 3: The Coroners Act 1996 as at 7 Nov 2014 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 36(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 5 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
+Alcohol and Drug Authority Amendment Act 2015 s. 15 | 3 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 36(2) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 36(2) had not come into operation. It reads as follows:
 (2) Section 6(5) of the Coroners Act 1996 is repealed.
 The Coroners Amendment Act 2003 s. 14(2) and (3) read as follows:
 (2) Despite the amendment effected by subsection (1), the Coroners Act 1920 continues to apply to any inquest part heard under that Act immediately before the commencement of this provision.
@@ -40,7 +41,7 @@ inquest part heard under that Act means an inquest which, immediately before the
 (b)was in respect of a death to which the Coroners Act 1920, as in force immediately before the commencement of the Coroners Act 1996, applied.
 The Courts Legislation Amendment and Repeal Act 2004 s. 75(2) reads as follows:
 (2) If immediately before the commencement of this section a person holds office as a Coroner’s clerk, then on the commencement the person is to be taken to have been appointed as a Coroner’s registrar.
-On the date as at which this reprint was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 5 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 5 had not come into operation. It reads as follows:
 Subdivision 5 — Coroners Act 1996 amended
 41.Act amended
 This Subdivision amends the Coroners Act 1996.
@@ -51,6 +52,11 @@ In section 3 in the definition of person held in care delete paragraph (c) and i
 (ii)who is apprehended or detained under that Act; or
 (iii)who is absent without leave from a hospital or other place under section 97 of that Act;
 or
+On the date as at which this compilation was prepared, the Alcohol and Drug Authority Amendment Act 2015 s. 15 had not come into operation. It reads as follows:
+15.Coroners Act 1996 amended
+(1) This section amends the Coroners Act 1996.
+(2) In section 3 in the definition of person held in care paragraph (b) delete “Drug Authority” and insert:
+Other Drugs
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
