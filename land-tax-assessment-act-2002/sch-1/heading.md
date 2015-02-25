@@ -1,5 +1,5 @@
-## Schedule 1 — Transitional provisions
+## Schedule 1 — Transitional and validation provisions
 [s. 47]
-[Heading inserted by No. 31 of 2006 s. 26.]
+[Heading inserted by No. 31 of 2006 s. 26; amended by No. 1 of 2015 s. 19.]
 ## Division 1 — Provision for Revenue Laws Amendment Act 2006
 [Heading inserted by No. 31 of 2006 s. 26.]
