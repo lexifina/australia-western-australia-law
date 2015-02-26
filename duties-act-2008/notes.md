@@ -19,6 +19,7 @@ Reprint 2: The Duties Act 2008 as at 9 Aug 2013 (includes amendments listed abov
 Revenue Laws Amendment Act 2013 Pt. 2 Div. 1 | 10 of 2013 | 24 Sep 2013 | 25 Sep 2013 (see s. 2(b))
 Electronic Conveyancing Act 2014 Pt. 6 | 2 of 2014 | 24 Mar 2014 | 3 Jun 2014 (see s. 2(c) and Gazette 30 May 2014 p. 1679)
 Revenue Laws Amendment Act 2014 Pt. 2 | 15 of 2014 | 2 Jul 2014 | 3 Jul 2014 (see s. 2(c)(i))
+Taxation Legislation Amendment Act 2015 Pt.2 Div. 2 and Pt. 4 | 1 of 2015 | 25 Feb 2015 | 26 Feb 2015 (see s. 2(d)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -86,24 +87,25 @@ CEO’s duties
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-A44(2)(a), 257(2)
+A44(2), 257(2)
 accident insurance206
 acquirer171(2), 175
 acquiring person167(1), 168(1)
 acquisition165
 acquisition statement199
-additional insurance210(2)(a)
+additional insurance210(2)
 affected entity259(1)
 aggregated transaction147F(3)
 agreement by instalments33(1)
+amended provisionsSch. 3 cl. 37
 authorised trustee corporation63
-B44(2)(a), 257(2)(a)
+B44(2), 257(2)
 bankruptcy trustee108(1)
 beneficiary43(4)
 business asset79
 business identity79
 business licence79, 277(1)
-C49(1)(a)
+C49(1)
 call option44(1), 177(1)
 cancelled transaction107(1)
 caravan228
@@ -111,8 +113,9 @@ caveat278(1)
 charitable organisation228
 chattel3
 child128(1)
-chosen entity125(2)(b)
+chosen entity125(2)
 circuit layout right79
+commencementSch. 3 cl. 37
 commodities79
 Commonwealth Act121
 company A12(3)
@@ -126,9 +129,9 @@ conditional agreement9
 consideration3, 9, 135(3)
 construction147A(1)
 contingent consideration32(1)
-continuing proprietor or proprietors45(1)(b)(i), 178(3)(a)
+continuing proprietor or proprietors45(1), 178(3)
 contract of insurance206, 208
-controlling entity264(1)
+controlling entity264(1), 264(1)
 corporate consolidation259(1)
 corporate trustee3
 corporation3, 171(1)
@@ -144,12 +147,12 @@ dealer228
 declaration of trust9
 dependant127(1)
 dependent transaction274(1)
-digitally sign22A, 273A
+digitally sign22A, 273A(1)
 director3
 Director General228
 discretionary trust3
 disposition9, 63
-distributed value194(4)(a) and (b)
+distributed value194(4), 194(4)
 distribution139(1)
 dormant corporation42(6)
 duplicate3
@@ -159,15 +162,15 @@ dutiable transactions11(2)
 dutiable value9, 231
 duties Act3
 duty3, 9, 148, 206, 228, 273(1)
-duty endorsed3, 272(1), (2) and (3)
-earlier acquisition189(4) and (6)
+duty endorsed3, 272(1), 272(2), 272(3)
+earlier acquisition189(4), 189(6)
 earlier instrumentSch. 3 cl. 10(1)
-electronic conveyancing instrument22A, 273A
+electronic conveyancing instrument22A, 273A(1)
 eligible rollover fund121
 eligible transaction147A(1), 147B
 entitled3
-entitlement value194(4)(a) and (b)
-entity9, 102(3)(b), 148, 257(1)
+entitlement value194(4), 194(4)
+entity9, 102(3), 148, 257(1)
 exempt body3
 exempt family farm transaction99(1)
 exempt transaction9
@@ -185,12 +188,12 @@ farming property99(1)
 FHOG Act141(1)
 FHOG concessional transaction141(1)
 financial services licensee206
-first acquisition174(1)(a)
-first agreement42(8)(a)
-first business81(5)(a)
-first dutiable transaction35, 47(a), 51(a)
-first FHOG concessional transaction141(1) and (2)
-first transaction104(a)
+first acquisition174(1)
+first agreement42(8)
+first business81(5)
+first dutiable transaction35, 47, 51
+first FHOG concessional transaction141(1), 142(2)
+first transaction104
 flag lifting agreement128(1)
 foreign tax268(1)
 franchise arrangement79
@@ -198,7 +201,8 @@ franchisee79
 franchisor79
 further FHOG concessional transaction141(1)
 general conditional agreement9
-general insurance206, 209(1) and (2)
+general insurance206
+General insurance209(1), 209(2)
 general insurer206, 214
 general rate3
 grant228
@@ -210,15 +214,16 @@ insurer206
 intellectual property79
 interest148
 interest in a discretionary trust9
+interim assessment44A(1), 195A(1)
 intermediary206
 interstate duty206
-intervening transactions42(8)(b)
+intervening transactions42(8)
 issue of title conditional agreement9
-land3, 147F(1) and (3), 148
+land3, 147F(1), 147F(3), 148
 landholder148
 landholder duty3
 legal personal representative127(1)
-licence228, 230(2) and (3)
+licence228, 230(2), 230(3)
 life insurance206
 linked entity148, 156(2)
 listed corporation148
@@ -233,24 +238,24 @@ majority shareholder3
 managed investment scheme9
 matrimonial instrument128(1)
 matrimonial property128(1)
-merging corporations12(4) and (5)
+merging corporations12(4), 12(5)
 mining tenement3
 mining tenement conditional agreement9
 motor vehicle228
-new dutiable property9, 17(1) and (2)
+new dutiable property9, 17(1), 17(2)
 new record273(3)
 new trustee119(1)
 new vehicle228
 nominal duty3
-notifiable event264(1), (2) and (3)
+notifiable event264(1), 264(2), 264(3)
 offshore risk insurance206
 old partnership77(4)
 old public unit trust119(1)
 option property44(1)
 optional feature231
 order3
-original equipment239(2)(b)
-original transfer120(1)(a)
+original equipment239(2)
+original transfer120(1)
 parent entity257(1)
 partially exempt acquisition172(2)
 partnership3
@@ -266,7 +271,8 @@ prescribed3
 prescribed financial market3
 pre-section 270 decision request269(1)
 pre-transaction decision request261(1)
-primary production3
+primary production3, 101A(1)
+produce animals101A(1)
 property122(2)
 proprietor45(2)
 proprietor of a business178(1)
@@ -277,15 +283,16 @@ registered insurer206
 registered scheme3
 registrar276(2), 278(1)
 related corporation3
-related person79, 148, 201(1)(b)
+related person79, 148, 201(1)
 related transaction274(1)
 relevant acquisition148, 163, 164, Sch. 3 cl. 1(1)
-relevant consolidation transaction257(1), 259(2), (3) and (4)
+relevant acquisition Sch. 3 cl. 37
+relevant consolidation transaction257(1), 259(2), 259(3), 259(4)
 relevant entity126(1)
 relevant interest177(1)
-relevant period29(3), 147F(2) and (4), 193(1), 194(6), 201(2), Sch. 3 cl. 33
+relevant period29(3), 147F(2), 147F(4), 193(1), 194(6), 201(2), Sch. 3 cl. 33
 relevant person154(2)
-relevant reconstruction transaction257(1), 260(1), (2), (3) and (4)
+relevant reconstruction transaction257(1), 260(1), 260(2), 260(3), 260(4)
 relevant transaction257(1)
 relevant transfer125(1)
 relinquishing person167(1), 168(1)
@@ -302,10 +309,10 @@ right9
 Road Traffic Act228
 scheme267(1)
 scheme property9
-second dutiable transaction35, 47(b), 51(b)
+second dutiable transaction35, 47, 51
 section 270 decision269(1)
 security257(1)
-security holder259(4)(a)
+security holder259(4)
 security interest3
 separate transactions147F(3)
 share3, 63
@@ -316,7 +323,7 @@ specialised equipment231
 specialised vehicle231
 splitting agreement128(1)
 Stamp Act referenceSch. 3 cl. 28(1)
-stamp dutySch. 3 cl. 5(3)(b)
+stamp dutySch. 3 cl. 5(3)
 subdivision conditional agreement9
 subsale transaction107(1)
 subsequent transaction104
@@ -334,14 +341,14 @@ taxpayer147A(1)
 terminated on relevant grounds9
 trailer228
 transaction3
-transaction group257(1)
+transaction group257(1), 257(1)
 transaction record3
 transfer9
 transfer duty3
 transfer duty statement3
 transferee99(1), 141(1)
-transferor99(1), 122(1), 173(1)(a)
-transfers42(8)(c)
+transferor99(1), 122(1), 173(1)
+transfers42(8)
 trust acquisition9
 trust holding property64
 trust surrender9
@@ -350,7 +357,7 @@ unencumbered value9, 36(1), 148
 unlisted corporation63
 vehicle228, 230(1)
 vehicle licence duty3
-vehicle A239(1)(a)
+vehicle A239(1)
 vehicle B239(1)
 Western Australian business9, 79
 Western Australian business asset9, 79
