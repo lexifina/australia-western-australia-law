@@ -182,6 +182,7 @@ Fish Resources Management Amendment Regulations (No. 7) 2014 | 31 Oct 2014 p. 41
 Fish Resources Management Amendment Regulations (No. 8) 2014 | 4 Nov 2014 p. 4203 | r. 1 and 2: 4 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Nov 2014 (see r. 2(b))
 Reprint 13: The Fish Resources Management Regulations 1995 as at 14 Nov 2014 (includes amendments listed above)
 Fish Resources Management Amendment Regulations 2015 | 23 Jan 2015 p. 399-407 | r. 1 and 2: 23 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jan 2015 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 2) 2015 | 20 Feb 2015 p. 679-80 | r. 1 and 2: 20 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2015 (see r. 2(b))
 Revoked by the West Coast Estuarine Fishery (Interim) Management Plan Revocation Notice 2014 (see Gazette 25 Mar 2014 p. 839).
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 Revoked by the West Coast Rock Lobster Management Plan Revocation Notice 2012 (see Gazette 21 Dec 2012 p. 6656).
@@ -311,7 +312,7 @@ person engaged for a commercial purpose in an activity64(1A)
 Pilbara and Kimberley Region3(1)
 Point Quobba restricted area113D
 Port of AlbanySch. 5
-Port of BunburySch. 5
+Port of Bunbury Sch. 5
 Port of FremantleSch. 5
 prawn hand trawl net3(1)
 prescribed abalone16GD(1)
@@ -340,6 +341,7 @@ set3(1)
 setoseSch. 2
 settlement144A(1)
 share arrangement72
+single-sided fillet3(1)
 South Coast Region3(1)
 spat144A(1)
 spat collector144A(1)

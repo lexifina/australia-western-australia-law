@@ -58,11 +58,11 @@ Barracuda | 3
 Billfish (Marlin, Sailfish) and Swordfish | 1
 Cobia | 3
 Dolphinfish (Mahi Mahi) | 3
-Mackerel (Broad-barred Spanish, Queensland School, Shark, Australian Spotted, Narrow-barred Spanish and Wahoo | 3
+Mackerel (Broad-barred Spanish, Queensland School, Shark, Australian Spotted, Narrow-barred Spanish and Wahoo) | 3
 Sharks and rays | 3
 Trevally, Giant and Golden | 3
-Tuna (Bigeye, Mackerel, Longtail (Northern Bluefin), Skipjack, Southern Bluefin, Yellowfin and Dogtooth | 3
-[Part 2 inserted in Gazette 29 Jan 2013 p. 315; amended in Gazette 30 May 2014 p. 1723.]
+Tuna (Bigeye, Mackerel, Longtail (Northern Bluefin), Skipjack, Southern Bluefin, Yellowfin and Dogtooth) | 3
+[Part 2 inserted in Gazette 29 Jan 2013 p. 315; amended in Gazette 30 May 2014 p. 1723; 20 Feb 2015 p. 680.]
 ## Part 3 — Bag limits — nearshore or estuarine finfish
 [r. 65D]
 [Heading inserted in Gazette 29 Jan 2013 p. 315.]
@@ -101,6 +101,12 @@ Catfish | 4
 Grunter
 Trout, Brown and Rainbow
 [Part 4 inserted in Gazette 28 Jun 2013 p. 2893.]
+## Part 5A — Bag limits — other finfish
+[r. 65F]
+[Heading inserted in Gazette 20 Feb 2015 p. 680.]
+Fish | Species bag limit for one day
+Herring, Australian (Tommy Ruff) | 12
+[Part 5A inserted in Gazette 20 Feb 2015 p. 680.]
 ## Part 5 — Bag limits — crustaceans
 [r. 65G]
 [Heading inserted in Gazette 29 Jan 2013 p. 317.]
