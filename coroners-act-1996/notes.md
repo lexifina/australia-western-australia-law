@@ -28,7 +28,8 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 36(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 5 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
-Alcohol and Drug Authority Amendment Act 2015 s. 15 | 3 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(b))
+Alcohol and Drug Authority Amendment Act 2015 s. 15 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
+Declared Places (Mentally Impaired Accused) Act 2015 s. 83 | 4 of 2015 | 3 Mar 2015 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 36(2) had not come into operation. It reads as follows:
@@ -57,6 +58,11 @@ On the date as at which this compilation was prepared, the Alcohol and Drug Auth
 (1) This section amends the Coroners Act 1996.
 (2) In section 3 in the definition of person held in care paragraph (b) delete “Drug Authority” and insert:
 Other Drugs
+On the date as at which this compilation was prepared, the Declared Places (Mentally Impaired Accused) Act 2015 s. 83 had not come into operation. It reads as follows:
+83.Coroners Act 1996 amended
+(1) This section amends the Coroners Act 1996.
+(2) In section 3 in the definition of person held in care after paragraph (b) insert:
+(ca)a resident as defined in the Declared Places (Mentally Impaired Accused) Act 2015 section 3;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
