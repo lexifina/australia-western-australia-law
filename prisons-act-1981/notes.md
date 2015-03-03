@@ -60,6 +60,7 @@ Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 |
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 42 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Custodial Legislation (Officers Discipline) Amendment Act 2014 Pt. 2 | 29 of 2014 | 3 Dec 2014 | To be proclaimed (see s. 2(b))
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
+Declared Places (Mentally Impaired Accused) Act 2015 s. 88 | 4 of 2015 | 3 Mar 2015 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
 Under the Alteration of Statutory Designations Order (No. 3) 2001, a reference to the Western Australian Prisons Department was, unless the contrary intention appears, to be read and construed as a reference to the Department of Justice.
@@ -382,6 +383,15 @@ Corruption, Crime and Misconduct Act 2003
 Corruption, Crime and Misconduct Act 2003
 Table
 Prisons Act 1981 | s. 3(1) def. of judicial body par. (b), 15C(l)
+On the date as at which this compilation was prepared, the Declared Places (Mentally Impaired Accused) Act 2015 s. 88 had not come into operation. It reads as follows:
+88.Prisons Act 1981 amended
+(1) This section amends the Prisons Act 1981.
+(2) In section 15C(l) after “purposes of” insert:
+the Children and Community Services Act 2004,
+(3) In section 113(1) delete the definition of contractor and insert:
+contractor means —
+(a)a contractor as defined in the Court Security and Custodial Services Act 1999 section 3; or
+(b)a contractor as defined in the Declared Places (Mentally Impaired Accused) Act 2015 section 3;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
