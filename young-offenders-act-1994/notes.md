@@ -55,6 +55,7 @@ Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 54 | 8 of 2012 | 21 May 2
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 24 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Custodial Legislation (Officers Discipline) Amendment Act 2014 Pt. 3 | 29 of 2014 | 3 Dec 2014 | To be proclaimed (see s. 2(b))
+Declared Places (Mentally Impaired Accused) Act 2015 s. 89 | 4 of 2015 | 3 Mar 2015 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -411,6 +412,13 @@ Division 5 — Arrangements with councils of Aboriginal communities
 custodial officer
 (2) In section 169A(5) delete “person who is appointed under section 11(1) or (1a),” and insert:
 custodial officer
+On the date as at which this compilation was prepared, the Declared Places (Mentally Impaired Accused) Act 2015 s. 89 had not come into operation. It reads as follows:
+89.Young Offenders Act 1994 amended
+(1) This section amends the Young Offenders Act 1994.
+(2) In section 16(1) delete the definition of contractor and insert:
+contractor means —
+(a)a contractor as defined in the Court Security and Custodial Services Act 1999 section 3; or
+(b)a contractor as defined in the Declared Places (Mentally Impaired Accused) Act 2015 section 3;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
