@@ -162,6 +162,7 @@ Reprint 15: The Criminal Code Act Compilation Act 1913 as at 19 Feb 2010 (includ
 Criminal Code Amendment (Identity Crime) Act 2010 | 16 of 2010 | 25 Jun 2010 | s. 1 and 2: 25 Jun 2010 (see s. 2(a)); Act other than s. 1 and 2: 21 Apr 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695)
 Child Pornography and Exploitation Material and Classification Legislation Amendment Act 2010 Pt. 2 Div. 1 | 21 of 2010 | 7 Jul 2010 | 28 Aug 2010 (see s. 2(b) and Gazette 27 Aug 2010 p. 4105)
 Reprint 16: The Criminal Code Act Compilation Act 1913 as at 15 Oct 2010 (includes amendments listed above except those in the Criminal Code Amendment (Identity Crime) Act 2010)
+Criminal Code Amendment (Infringement Notices) Act 2011 | 10 of 2011 | 2 May 2011 | s. 1 and 2: 2 May 2011 (see s. 2(a)); Act other than s. 1 and 2: 4 Mar 2015 (see s. 2(b) and Gazette 3 Mar 2015 p. 783)
 Electronic Transactions Act 2011 s. 25 and 26 | 46 of 2011 | 25 Oct 2011 | s. 25: 1 Aug 2012 (see s. 2(c) and Gazette 31 Jul 2012 p. 3683); s. 26: 1 Aug 2012 (see s. 2(b)(i) and Gazette 31 Jul 2012 p. 3683)
 Manslaughter Legislation Amendment Act 2011 Pt. 2 | 58 of 2011 | 30 Nov 2011 | 17 Mar 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1245)
 Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 6 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
@@ -169,7 +170,7 @@ Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 4 | 11 of 2012
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 3 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Criminal Organisations Control Act 2012 s. 173 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
 Criminal Law Amendment (Out-of-Control Gatherings) Act 2012 Pt. 2 | 56 of 2012 | 6 Dec 2012 | 15 Dec 2012 (see s. 2(b) and Gazette 14 Dec 2012 p. 6196)
-Reprint 17: The Criminal Code Act Compilation Act 1913 as at 1 Mar 2013 (includes amendments listed above except those in the Criminal Organisations Control Act 2012)
+Reprint 17: The Criminal Code Act Compilation Act 1913 as at 1 Mar 2013 (includes amendments listed above except those in the Criminal Organisations Control Act 2012 and the Criminal Code Amendment (Infringement Notices) Act 2011)
 Criminal Code Amendment Act 2013 | 12 of 2013 | 4 Oct 2013 | s. 1 and 2: 4 Oct 2013 (see s. 2(a)); Act other than s. 1 and 2: 5 Oct 2013 (see s. 2(b))
 Criminal Code Amendment (Child Sex Offences) Act 2014 | 5 of 2014 | 22 Apr 2014 | s. 1 and 2: 22 Apr 2014 (see s. 2(a)); Act other than s. 1 and 2: 23 Apr 2014 (see s. 2(b))
 Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 2 | 11 of 2014 | 24 Jun 2014 | 13 Aug 2014 (see s. 2(b) and Gazette 12 Aug 2014 p. 2889)
@@ -177,7 +178,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 | 10 of 2011 | 2 May 2011 | To be proclaimed (see s. 2(b))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 7 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
@@ -217,40 +217,7 @@ On the date as at which this reprint was prepared, the Prostitution Amendment Ac
 (3) Section 191 is repealed.
 (4) Section 557K(1) paragraph (h) of the definition of child sex offender is amended by deleting “Prostitution Act 2000” and inserting instead —
 “ Sexual Services Act 2000 ”.
-On the date as at which this compilation was prepared, the Criminal Code Amendment (Infringement Notices) Act 2011 s. 3 and 4 had not come into operation. They read as follows:
-3.The Criminal Code amended
-This Act amends The Criminal Code.
-4.Chapter LXXIII inserted
-At the beginning of Part VIII insert:
-Chapter LXXIII — Infringement notices
-720.Term used: CP Act
-In this Chapter —
-CP Act means the Criminal Procedure Act 2004.
-721.Regulations to allow infringement notices to be issued for Code offences
-(1) This Code is taken to be a prescribed Act for the purposes of the CP Act Part 2.
-(2) The Governor may make regulations under this Code prescribing all matters that may or must be prescribed under the CP Act Part 2 to enable the CP Act Part 2 to apply to and in relation to offences under this Code.
-(3) Regulations made under subsection (2) —
-(a) may, despite the CP Act section 5(2), prescribe any offence under this Code to be a prescribed offence for Part 2 of the CP Act; and
-(b) may prescribe classes of person to whom an infringement notice cannot be issued for an alleged offence under this Code; and
-(c) may prescribe circumstances in which an infringement notice cannot be issued for an alleged offence under this Code.
-722.Alleged offenders taken to be charged suspects for purposes of Criminal Investigation (Identifying People) Act 2002
-If under the CP Act an infringement notice is issued to an alleged offender for an alleged offence under this Code, then —
-(a) for the purposes of the Criminal Investigation (Identifying People) Act 2002 Part 7 and section 67 the alleged offender is taken —
-(i) to be a charged suspect; and
-(ii) to have been charged with the alleged offence;
-and
-(b) without limiting the operation of section 67 of that Act, identifying information obtained under Part 7 of that Act from the alleged offender must be destroyed if —
-(i) the alleged offender pays the modified penalty prescribed for the offence; and
-(ii) destruction is requested under section 69 of that Act by or on behalf of the alleged offender;
-and
-(c) that Act, with any necessary changes, applies accordingly.
-723.Monitoring of Chapter by Ombudsman
-(1) For the period of 12 months after the commencement of this section, the Ombudsman is to keep under scrutiny the operation of the provisions of this Chapter and the regulations made under this Chapter and the Criminal Investigation (Identifying People) Act 2002 Part 7 and section 67.
-(2) The scrutiny referred to in subsection (1) is to include review of the impact of the operation of the provisions referred to in that subsection on Aboriginal and Torres Strait Islander communities.
-(3) For that purpose, the Ombudsman may require the Commissioner of Police or any public authority to provide information about police or the public authority’s participation in the operation of the provisions referred to in subsection (1).
-(4) The Ombudsman must, as soon as practicable after the expiration of that 12 month period, prepare a report on the Ombudsman’s work and activities under this section and furnish a copy of the report to the Minister for Police and the Commissioner of Police.
-(5) The Ombudsman may identify, and include recommendations in the report to be considered by the Minister about, amendments that might appropriately be made to this Act with respect to the operation of the provisions referred to in subsection (1).
-(6) The Minister is to lay (or cause to be laid) a copy of the report furnished to the Minister under this section before both Houses of Parliament as soon as practicable after the Minister receives the report.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50 had not come into operation. It reads as follows:
 Division 50 — The Criminal Code amended
 182.Act amended
