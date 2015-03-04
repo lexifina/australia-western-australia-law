@@ -56,6 +56,7 @@ Reprint 6: The Fines, Penalties and Infringement Notices Enforcement Regulations
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 3) 2014 | 20 Jun 2014 p. 2026 | r. 1 and 2: 20 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Jun 2014 (see r. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 4) 2014 | 4 Jul 2014 p. 2363-4 | r. 1 and 2: 4 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jul 2014 (see r. 2(b)(ii))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 6) 2014 | 13 Jan 2015 p. 249-50 | r. 1 and 2: 13 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jan 2015 (see r. 2(b))
+Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2015 | 3 Mar 2015 p. 784 | r. 1 and 2: 3 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Mar 2015 (see r. 2(b) and Gazette 3 Mar 2015 p. 783)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
