@@ -51,12 +51,13 @@ Misuse of Drugs Amendment Act 2011 Pt. 4 | 56 of 2011 | 21 Nov 2011 | 30 Jan 201
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 8 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 Teacher Registration Act 2012 s. 169 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Spent Convictions (Act Amendment) Regulations 2013 published in Gazette 17 May 2013 p. 1984 | r. 1 and 2: 17 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 May 2013 (see r. 2(b))
+Spent Convictions (Act Amendment) Regulations 2014 published in Gazette 6 Mar 2015 p. 815-16 | r. 1 and 2: 6 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2015 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 22 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
-Alcohol and Drug Authority Amendment Act 2015 s. 18 | 3 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(b))
+Alcohol and Drug Authority Amendment Act 2015 s. 18 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
