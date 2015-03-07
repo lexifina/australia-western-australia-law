@@ -6,6 +6,7 @@ Road Traffic (Drug Driving) Regulations 2007 | 11 Oct 2007 p. 5483-500 | r. 1 an
 Road Traffic (Drug Driving) Amendment Regulations 2008 | 25 Jan 2008 p. 216-17 | r. 1 and 2: 25 Jan 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Jan 2008 (see r. 2(b))
 Road Traffic (Drug Driving) Amendment Regulations 2009 | 9 Oct 2009 p. 3998-9 | r. 1 and 2: 9 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Oct 2009 (see r. 2(b))
 Road Traffic (Drug Driving) Amendment Regulations 2014 | 11 Jul 2014 p. 2439-43 | r. 1 and 2: 11 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Jul 2014 (see r. 2(b))
+Road Traffic (Drug Driving) Amendment Regulations 2015 | 6 Mar 2015 p. 817-19 | r. 1 and 2: 6 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2015 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
