@@ -30,7 +30,8 @@ Financial Management (Statutory Authorities) Regulations 2014 published in Gazet
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Alcohol and Drug Authority Amendment Act 2015 s. 16 | 3 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(b))
+Alcohol and Drug Authority Amendment Act 2015 s. 16 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
+Swan and Canning Rivers Management Amendment Act 2015 s. 55 | 6 of 2015 | 9 Mar 2015 | To be proclaimed (see s. 2(b))
 Repealed by the Financial Legislation Amendment and Repeal Act 2006 s. 3.
 Footnote no longer applicable.
 The amendment in the State Superannuation Amendment Act 2007 s. 79 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
@@ -38,6 +39,10 @@ On the date as at which this compilation was prepared, the Alcohol and Drug Auth
 16.Financial Management Act 2006 amended
 (1) This section amends the Financial Management Act 2006.
 (2) In Schedule 1 delete “Western Australian Alcohol and Drug Authority”.
+On the date as at which this compilation was prepared, the Swan and Canning Rivers Management Amendment Act 2015 s. 55 had not come into operation. It reads as follows:
+55.Financial Management Act 2006 amended
+(1) This section amends the Financial Management Act 2006.
+(2) In Schedule 1 delete “Swan River Trust”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
