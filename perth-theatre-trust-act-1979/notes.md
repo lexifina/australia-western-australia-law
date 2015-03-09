@@ -26,11 +26,12 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation(Transitional and Consequential Provisions) Act 2000 s. 57 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 19 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
+Perth Theatre Trust Amendment Act 2015 s. 3-5 | 7 of 2015 | 9 Mar 2015 | To be proclaimed (see s. 2(b))
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to “chief executive officer”. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Mental Health (Consequential Provisions) Act 1996. Now see the Mental Health Act 1996.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. This reference was changed under the Reprints Act 1984 s. 7(3)(g).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
-On the date on which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 57 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 57 had not come into operation. It reads as follows:
 57.Perth Theatre Trust Act 1979 amended
 Section 17 of the Perth Theatre Trust Act 1979 is amended as follows:
 (a) in subsection (4)(b) by deleting “, including his rights under the Superannuation Act,”;
@@ -43,6 +44,31 @@ Subdivision 19 — Perth Theatre Trust Act 1979 amended
 This Subdivision amends the Perth Theatre Trust Act 1979.
 77.Section 6 amended
 Delete section 6(1)(e).
+On the date on which this compilation was prepared, the Perth Theatre Trust Amendment Act 2015 s. 3-5 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Perth Theatre Trust Act 1979.
+4.Section 16 amended
+(1) Before section 16(1) insert:
+(1A) In this section —
+activity includes an event, performance or production;
+business arrangement means a company, a partnership, a trust, a joint venture, an arrangement or agreement for sharing profits or an arrangement or agreement for sponsorship;
+participate in a business arrangement includes form, promote, establish, enter into, manage, dissolve, wind-up and do anything incidental to the business arrangement;
+promoting, in relation to an activity, includes attracting, organising, commissioning, funding, investing in, supporting, marketing, advertising and acting as project manager.
+(2) After section 16(1)(a) insert:
+(ba) without limiting the generality of paragraph (a), promoting, or taking part in promoting, activities at Trust theatres; and
+(3) After section 16(2)(c) insert:
+(da) subject to subsection (3), participate in a business arrangement and acquire, hold and dispose of shares, units or other interests in or relating to a business arrangement;
+(db) cooperate with, and provide funds and other assistance to, other bodies and to individuals;
+(4) After section 16(2) insert:
+(3) The Trust must not exercise a power conferred by subsection (2)(da) in relation to a business arrangement unless the terms and conditions of that business arrangement are terms and conditions approved by the Minister and the Treasurer in respect of —
+(a) that business arrangement; or
+(b) business arrangements of that class; or
+(c) business arrangements generally.
+(4) The Treasurer may, by written notice given to the Trust, exempt any business arrangement or class of business arrangement from the operation of subsection (3) either unconditionally or on specified conditions.
+(5) A notice under subsection (4) may be revoked or amended by the Treasurer by written notice given to the Trust.
+5.Section 23 amended
+After section 23(5) insert:
+(6A) Subsections (4) and (5) do not affect the operation of section 16.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
