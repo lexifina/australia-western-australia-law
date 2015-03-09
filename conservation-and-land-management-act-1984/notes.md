@@ -59,6 +59,10 @@ Conservation Legislation Amendment Act 2011 Pt. 2 | 36 of 2011 | 13 Sep 2011 | P
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 6 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Reprint 8: The Conservation and Land Management Act 1984 as at 11 May 2012 (includes amendments listed above except the Conservation Legislation Amendment Act 2011 s. 40)
 Water Services Legislation Amendment and Repeal Act 2012 s. 207 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Swan and Canning Rivers Management Amendment Act 2015 s. 54 | 6 of 2015 | 9 Mar 2015 | To be proclaimed (see s. 2(b))
 The Land Act 1933 was repealed by the Land Administration Act 1997 s. 281.
 The Forests Act 1918 was repealed by s. 147(1) of this Act.
 The Acts Amendment (Marine Reserves) Act 1997 s. 7(2) reads as follows:
@@ -204,6 +208,16 @@ Executive Director means the Executive Director referred to in section 36 of the
 and, unless the contrary intention appears, other words and expressions in this section have the same respective meanings as they have in the Conservation and Land Management Act 1984.
 The requirement to appoint an Executive Director was removed from the Act and references to the Executive Director were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
 The requirement to establish the Department of Conservation and Land Management was removed from the Act, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 453 of that Act is a general transitional provision that applies to references to the Department of Conservation and Land Management in written laws.
+On the date as at which this compilation was prepared, the Swan and Canning Rivers Management Amendment Act 2015 s. 54 had not come into operation. It reads as follows:
+54.Conservation and Land Management Act 1984 amended
+(1) This section amends the Conservation and Land Management Act 1984.
+(2) Delete section 37 and insert:
+37.Purpose
+The Executive Body is established to provide a body corporate through which the CEO can perform any of the CEO’s functions under the following Acts that can more conveniently be performed by a body corporate than an individual —
+(a) this Act;
+(b) the Swan and Canning Rivers Management Act 2006;
+(c) the Wildlife Conservation Act 1950.
+(3) Delete section 99(1)(ac).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
