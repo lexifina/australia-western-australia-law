@@ -20,6 +20,7 @@ Revenue Laws Amendment Act 2013 Pt. 2 Div. 1 | 10 of 2013 | 24 Sep 2013 | 25 Sep
 Electronic Conveyancing Act 2014 Pt. 6 | 2 of 2014 | 24 Mar 2014 | 3 Jun 2014 (see s. 2(c) and Gazette 30 May 2014 p. 1679)
 Revenue Laws Amendment Act 2014 Pt. 2 | 15 of 2014 | 2 Jul 2014 | 3 Jul 2014 (see s. 2(c)(i))
 Taxation Legislation Amendment Act 2015 Pt.2 Div. 2 and Pt. 4 | 1 of 2015 | 25 Feb 2015 | 26 Feb 2015 (see s. 2(d)
+Taxation Legislation Amendment Act (No. 2) 2015 Pt. 2 | 8 of 2015 | 9 Mar 2015 | 10 Mar 2015 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -124,14 +125,14 @@ company C12(4)
 complying approved deposit fund121
 complying superannuation fund121
 concessional rate9
-concessional transaction147C(1), 147(1), Sch. 3 cl. 11A(1)
+concessional transaction147(1), Sch. 3 cl. 11A(1)
 conditional agreement9
 consideration3, 9, 135(3)
 construction147A(1)
 contingent consideration32(1)
 continuing proprietor or proprietors45(1), 178(3)
 contract of insurance206, 208
-controlling entity264(1), 264(1)
+controlling entity264(1)
 corporate consolidation259(1)
 corporate trustee3
 corporation3, 171(1)
@@ -144,6 +145,7 @@ de facto relationship62(2), 128(1)
 de facto relationship instrument128(1)
 de facto relationship property128(1)
 dealer228
+decision96B(1)
 declaration of trust9
 dependant127(1)
 dependent transaction274(1)
@@ -152,7 +154,7 @@ director3
 Director General228
 discretionary trust3
 disposition9, 63
-distributed value194(4), 194(4)
+distributed value194(4)
 distribution139(1)
 dormant corporation42(6)
 duplicate3
@@ -162,7 +164,7 @@ dutiable transactions11(2)
 dutiable value9, 231
 duties Act3
 duty3, 9, 148, 206, 228, 273(1)
-duty endorsed3, 272(1), 272(2), 272(3)
+duty endorsed3, 272(1), (2) and (3)
 earlier acquisition189(4), 189(6)
 earlier instrumentSch. 3 cl. 10(1)
 electronic conveyancing instrument22A, 273A(1)
@@ -202,13 +204,14 @@ franchisor79
 further FHOG concessional transaction141(1)
 general conditional agreement9
 general insurance206
-General insurance209(1), 209(2)
+General insurance209(1), (2)
 general insurer206, 214
 general rate3
 grant228
 GST3
 head entity259(1)
 heavy vehicle228
+industrial association3
 insured person223(1)
 insurer206
 intellectual property79
@@ -219,11 +222,11 @@ intermediary206
 interstate duty206
 intervening transactions42(8)
 issue of title conditional agreement9
-land3, 147F(1), 147F(3), 148
+land3, 147F(1), (3), 148
 landholder148
 landholder duty3
 legal personal representative127(1)
-licence228, 230(2), 230(3)
+licence228, 230(2), (3)
 life insurance206
 linked entity148, 156(2)
 listed corporation148
@@ -247,7 +250,7 @@ new record273(3)
 new trustee119(1)
 new vehicle228
 nominal duty3
-notifiable event264(1), 264(2), 264(3)
+notifiable event264(1), (2) and (3)
 offshore risk insurance206
 old partnership77(4)
 old public unit trust119(1)
@@ -255,6 +258,7 @@ option property44(1)
 optional feature231
 order3
 original equipment239(2)
+original transaction96C(8)
 original transfer120(1)
 parent entity257(1)
 partially exempt acquisition172(2)
@@ -265,6 +269,7 @@ person154(1)
 person liable to pay duty9
 person related29(3), 194(6)
 plant breeder right79
+political party3
 pooled superannuation trust121
 premium206, 211
 prescribed3
@@ -273,6 +278,8 @@ pre-section 270 decision request269(1)
 pre-transaction decision request261(1)
 primary production3, 101A(1)
 produce animals101A(1)
+professional association3
+promote trade, industry or commerce3
 property122(2)
 proprietor45(2)
 proprietor of a business178(1)
@@ -287,12 +294,13 @@ related person79, 148, 201(1)
 related transaction274(1)
 relevant acquisition148, 163, 164, Sch. 3 cl. 1(1)
 relevant acquisition Sch. 3 cl. 37
+relevant body3
 relevant consolidation transaction257(1), 259(2), 259(3), 259(4)
 relevant entity126(1)
 relevant interest177(1)
 relevant period29(3), 147F(2), 147F(4), 193(1), 194(6), 201(2), Sch. 3 cl. 33
 relevant person154(2)
-relevant reconstruction transaction257(1), 260(1), 260(2), 260(3), 260(4)
+relevant reconstruction transaction257(1), 260(1), 260(2), (3) and (4)
 relevant transaction257(1)
 relevant transfer125(1)
 relinquishing person167(1), 168(1)
@@ -341,7 +349,7 @@ taxpayer147A(1)
 terminated on relevant grounds9
 trailer228
 transaction3
-transaction group257(1), 257(1)
+transaction group257(1)
 transaction record3
 transfer9
 transfer duty3
@@ -350,7 +358,6 @@ transferee99(1), 141(1)
 transferor99(1), 122(1), 173(1)
 transfers42(8)
 trust acquisition9
-trust holding property64
 trust surrender9
 trustee118(1), 122(1)
 unencumbered value9, 36(1), 148

@@ -29,6 +29,7 @@ Revenue Laws Amendment Act 2012 Pt. 4 | 29 of 2012 | 3 Sep 2012 | 4 Sep 2012 (se
 Revenue Laws Amendment Act (No. 2) 2012 Pt. 4 | 32 of 2012 | 8 Oct 2012 | 1 Jul 2009 (see s. 2(c))
 Reprint 4: The Land Tax Assessment Act 2002 as at 19 Apr 2013 (includes amendments listed above)
 Taxation Legislation Amendment Act 2015 Pt. 2 Div. 1 and Pt. 3 | 1 of 2015 | 25 Feb 2015 | Pt. 3 Div. 2: 1 Jul 2003 (see s. 2(c)); Pt. 2 Div. 1: 1 Jul 2014 (see s. 2(b)); Pt. 3 Div. 1 and 3: 25 Feb 2015 (see s. 2(a))
+Taxation Legislation Amendment Act (No. 2) 2015 Pt. 3 | 8 of 2015 | 9 Mar 2015 | 10 Mar 2015 (see s. 2(b))
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Under the Public Sector Management Act 1994 the designations of departments can be changed. At the time of this compilation the designation of the Department of Mines has been changed to the Department of Mines and Petroleum.
@@ -48,6 +49,7 @@ The amendment in the Approvals and Related Reforms (No. 4) (Planning) Act 2010 s
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+new provisionsSch. 1 cl. 3
 2012 to 2014 assessment periodSch. 1 cl. 10
 aged care facility38A(1)
 agentGl.
@@ -89,6 +91,7 @@ home unitGl.
 improvement schemeGl.
 improvementsGl.
 individual30I(1)
+industrial associationGl.
 joint ownersGl.
 landGl.
 Land Information AuthorityGl.
@@ -103,26 +106,34 @@ non-profit associationGl.
 non-rural land29
 non-strata home unitGl.
 old lot43A(1)
+original assessment year38AC(8)
 other lotsGl.
 ownerGl.
 owner-builderGl.
 parcelGl.
 partnership29
+political partyGl.
+preliminary notice about an exemption under section 37Sch. 1 cl. 4(1)
 previous assessmentSch. 1 cl. 10
 previous assessment periodSch. 1 cl. 8(1)
 previous financial yearGl.
+previously exempt landSch. 1 cl. 3
 primary production29
 primary production business29
 primary residenceGl.
 private residenceGl.
 private residential propertyGl.
 produce animals30A(1)
+professional associationGl.
+promote trade, industry or commerceGl.
 property A27(1)
 property B27(1)
+public charitable or benevolent institution37(1)
 public statutory authorityGl.
 registeredGl.
 related29
 related purpose39A(1)
+relevant bodyGl.
 relevant requirements18(1)
 reserved land32(5), 33(6), Gl.
 residence contract39(1)
