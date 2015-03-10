@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 January 2014 of the Pay-roll Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table 1M, 1MC. The table also contains information about any reprint.
+This is a compilation of the Pay-roll Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table 1M, 1MC. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Pay-roll Tax Assessment Act 2002 | 48 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see. s. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -17,6 +17,7 @@ Revenue Laws Amendment Act 2012 Pt. 5 | 29 of 2012 | 3 Sep 2012 | Heading to Pt.
 Revenue Laws Amendment Act (No. 2) 2012 Pt. 5 | 32 of 2012 | 8 Oct 2012 | 1 Jul 2012 (see s. 2(d)(ii))
 Reprint 3: The Pay-roll Tax Assessment Act 2002 as at 17 Jan 2014 (includes amendments listed above)
 Revenue Laws Amendment Act 2014 Pt. 4 | 15 of 2014 | 2 Jul 2014 | 1 Jul 2014 (see s. 2(c)(ii))
+Taxation Legislation Amendment Act (No. 2) 2015 Pt. 4 | 8 of 2015 | 9 Mar 2015 | 10 Mar 2015 (see s. 2(b))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1MC appearing after the defined term.
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 5.
@@ -29,37 +30,6 @@ The Revenue Laws Amendment (Tax Relief) Act 2004 s. 5(6) and 15(7) read as follo
 15.Section 29 amended and transitional provision
 ...
 (7) The amendments made by this section do not affect an exemption given before the coming into operation of this section.
-related body corporateGl.
-related person35A(1)
-relevant day9DA(4), Sch. 1 cl. 8(1)
-relevant part period22A(5)
-remote locationGl.
-returnGl.
-return periodGl.
-second part of the tax period22A(4)(a)
-second period22A(2)
-shareGl.
-smaller groupGl.
-specified exempt allowanceGl.
-specified taxable benefitGl.
-StateGl.
-superannuation contribution9CA
-superannuation fundGl.
-Superannuation Guarantee ActGl.
-tax period22A(4)
-taxes42(2), 43(11), Gl.
-tax-reducing arrangementGl.
-termination payment9EA(2)
-TerritoryGl.
-trusteeGl.
-unused annual leave payment9EA(2)
-unused long service leave payment9EA(2)
-valueGl.
-vesting day9DB(2) and (3)
-voting shareGl.
-WA fringe benefitsGl.
-WA taxable wages5(2), Gl.
-wages9AA(1), 9DA(1), 9DG(1), Gl.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -80,12 +50,14 @@ Australian superannuation fundGl.
 businessGl.
 calculation provision22A(5)
 charitable body or organisationGl.
+commencement daySch. 1 cl. 10
 Commonwealth income tax provisions9DD(1)
 companyGl.
 controlling interestGl.
 corporationGl.
 Corporations ActGl.
 corresponding lawGl.
+decision)42B(1)
 defined benefit fundGl.
 defined superannuation benefitGl.
 designated group employerGl.
@@ -102,6 +74,7 @@ employment agentGl.
 employment termination payment9EA(2)
 entity35A(1)
 exemptGl.
+exemptionSch. 1 cl. 10
 expected pay-roll tax liability28A(3), 29(1b)
 FBT yearGl.
 FBTA ActGl.
@@ -113,6 +86,7 @@ GSTGl.
 indirect interest35C(1)
 indirectly controlled corporation35C(3)
 individual superannuation guarantee shortfallGl.
+industrial associationGl.
 instrument6D(1)
 interstate non-group employerGl.
 interstate taxable wagesGl.
@@ -123,6 +97,7 @@ maternity leave41A(1)
 monthly threshold amountGl.
 motor vehicle allowanceGl.
 new employee41C(1), 41C(4)
+new provisionsSch. 1 cl. 10
 new rate22A(2)
 new section 9DASch. 1 cl. 8(1)
 nominated deductionGl.
@@ -140,14 +115,20 @@ payableGl.
 pay-roll taxGl.
 pay-roll tax ActGl.
 pay-roll tax rateGl.
+political partyGl.
+preliminary notice about an exemption under section 41Sch. 1 cl. 11(1)
+previously exempt charitable body or organisationSch. 1 cl. 10
 private company35A(1)
+professional associationGl.
 progressive return periodGl.
+promote trade, industry or commerceGl.
 provideGl.
 quarter29(4d)
 registeredGl.
 registered business addressGl.
 related body corporateGl.
 related person35A(1)
+relevant bodySch. 1 cl. 13(1), Gl.
 relevant day9DA(4), Sch. 1 cl. 8(1)
 relevant part period22A(5)
 remote locationGl.
@@ -157,6 +138,7 @@ second part of the tax period22A(4)
 second period22A(2)
 shareGl.
 smaller groupGl.
+specified daySch. 1 cl. 11(1)
 specified exempt allowanceGl.
 specified taxable benefitGl.
 StateGl.

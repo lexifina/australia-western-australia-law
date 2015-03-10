@@ -25,6 +25,7 @@ Reprint 4: The Taxation Administration Act 2003 as at 3 Dec 2010 (includes amend
 Revenue Laws Amendment Act 2012 Pt. 8 | 29 of 2012 | 3 Sep 2012 | Heading to Pt. 8, s. 40 and 42(4): 1 Jul 2009 (see s. 2(d)); s. 41, 42(1)-(3), 43 and 44: 4 Sep 2012 (see s. 2(e))
 Revenue Laws Amendment Act 2013 Pt. 2 Div. 2 and Pt. 3 | 10 of 2013 | 24 Sep 2013 | 25 Sep 2013 (see s. 2(b))
 Electronic Conveyancing Act 2014 Pt. 8 | 2 of 2014 | 24 Mar 2014 | 3 Jun 2014 (see s. 2(c) and Gazette 30 May 2014 p. 1679)
+Taxation Legislation Amendment Act (No. 2) 2015 Pt. 5 | 8 of 2015 | 9 Mar 2015 | 10 Mar 2015 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -282,6 +283,7 @@ approvedGl.
 assessmentGl.
 assessment noticeGl.
 before129(2)
+beneficial body determinationGl.
 chargeGl.
 commencement day136(1)
 CommissionerGl.
@@ -310,6 +312,7 @@ landholder duty77A(1)
 linked entity77A(1)
 lodge76A(1)
 mining tenement76A(1)
+objectionGl.
 official assessmentGl.
 official documentGl.
 original assessmentGl.
