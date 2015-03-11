@@ -5,6 +5,7 @@ Citation | Gazettal | Commencement
 Gas Supply (Gas Quality Specifications) Regulations 2010 | 26 Mar 2010 p. 1191-252 | 27 Mar 2010 (see r. 2 and Gazette 26 Mar 2010 p. 1133)
 Gas Supply (Gas Quality Specifications) Amendment Regulations 2012 | 14 Aug 2012 p. 3849-96 | r. 1 and 2: 14 Aug 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2012 (see r. 2(b))
 Gas Supply (Gas Quality Specifications) Amendment Regulations 2013 | 14 Jun 2013 p. 2236 | r. 1 and 2: 14 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jun 2013 (see r. 2(b) and Gazette 28 Jun 2013 p. 2933)
+Gas Supply (Gas Quality Specifications) Amendment Regulations 2015 | 10 Mar 2015 p. 836-9 | r. 1 and 2: 10 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Mar 2015 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
