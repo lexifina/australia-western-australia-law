@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Restraining Orders Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 13 March 2015 of the Restraining Orders Act 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Restraining Orders Act 1997 | 19 of 1997 | 28 Aug 1997 | s. 1 and 2: 28 Aug 1997; Act other than s. 1 and 2: 15 Sep 1997 (see s. 2 and Gazette 12 Sep 1997 p. 5149)
@@ -10,7 +10,7 @@ Restraining Orders Amendment Act 1999 | 11 of 1999 | 13 May 1999 | 13 May 1999 (
 Restraining Orders Amendment Act 2000 | 22 of 2000 | 30 Jun 2000 | 30 Jun 2000 (see s. 2)
 Reprint of the Restraining Orders Act 1997 as at 6 Oct 2000 (includes amendments listed above)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 90 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
-Children and Community Services Act 2004 s. 251 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
+Children and Community Services Act 2004 Sch. 2 cl. 23 | 34 of 2004 | 20 Oct 2004 | 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695)
 Acts Amendment (Family and Domestic Violence) Act 2004 Pt. 2 (s. 3-57) | 38 of 2004 | 9 Nov 2004 | s. 3-56: 1 Dec 2004 (see s. 2 and Gazette 26 Nov 2004 p. 5309); s. 57: 22 Mar 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077)
 Acts Amendment (Court of Appeal) Act 2004 s. 37 | 45 of 2004 | 9 Nov 2004 | 1 Feb 2005 (see s. 2 and Gazette 14 Jan 2005 p. 163)
 Courts Legislation Amendment and Repeal Act 2004 Pt. 17 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(3) and (4)) | 23 Nov 2004 | Pt. 17 (other than the amendments in s. 123 to s. 67(2) and in s. 124 to s. 4(a)): 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
@@ -23,18 +23,16 @@ Criminal Law Amendment (Homicide) Act 2008 s. 37 | 29 of 2008 | 27 Jun 2008 | 1 
 Reprint 3: The Restraining Orders Act 1997 as at 9 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
 Restraining Orders Amendment Act 2011 Pt. 2 | 32 of 2011 | 12 Sep 2011 | 5 May 2012 (see s. 2(b) and Gazette 4 May 2012 p. 1847)
 Restraining Orders Amendment Act 2013 Pt. 2 | 14 of 2013 | 4 Oct 2013 | 4 Oct 2013 (see s. 2)
-Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 17(other than s. 108, 110-112, 114-117, 119 and 121) | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 17 (other than s. 108, 110-112, 114-117, 119 and 121) | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
+Reprint 4: The Restraining Orders Act 1997 as at 13 Mar 2015 (includes amendments listed above)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 18 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 108, 110-112, 114-117, 119 and 121 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
-Footnote no longer applicable.
 Part 9 contained transitional provisions relating to orders to keep the peace in force under the Justices Act 1902 when this Act came into operation.
-The Courts Legislation Amendment and Repeal Act 2004 s. 123 (the amendment to s. 67(2)) and s. 124 (the amendment to s. 4(a)) were repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(3) and (4).
-On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 108, 110-112, 114-117, 119 and 121 had not come into operation. They read as follows:
-Part 3 — Amendments to other Acts
-Division 17 — Restraining Orders Act 1997 amended
+The Courts Legislation Amendment and Repeal Act 2004 s. 123 (the amendment to s. 67(2)) and s. 124 (the amendment to s. 4(a)) were deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(3) and (4).
+On the date as at which this reprint was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 108, 110-112, 114-117, 119 and 121 had not come into operation. They read as follows:
 108.Section 3 amended
 In section 3 insert in alphabetical order:
 remote communication means any way of communicating at a distance, including by telephone, fax, radio, video conference or email;
@@ -95,9 +93,10 @@ CEO (child welfare)3
 child3
 child welfare law50B(4)
 child welfare officer3
+co-licensee71(2)
 Commissioner of Police3
-corresponding law3
 conviction61A(1)
+corresponding law3
 court3
 earlier order32(5)
 exposed3
@@ -148,10 +147,10 @@ senior officer62D(8)
 specified3
 telephone application3
 telephone order3
-the co-licensee71(2)(a)(iii)
 under this Act70(4)
 video link53B(4)
 violence restraining order3
 violent personal offence63A(5), 63B(3)
 wellbeing3
-written reasons61A, 67
+written reasons61A(8), 67(3A)
+By Authority: JOHN A. STRIJK, Government Printer
