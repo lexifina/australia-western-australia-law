@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Settlement Agents Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 13 March 2015 of the Settlement Agents Act 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Settlement Agents Act 1981 | 33 of 1981 | 26 May 1981 | 1 Jul 1981 (see s. 2 and Gazette 26 Jun 1981 p. 2285)
@@ -22,8 +22,8 @@ Acts Amendment (Land Administration) Act 1997 s. 141 | 31 of 1997 | 3 Oct 1997 |
 Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 102 | 26 of 1999 | 29 Jun 1999 | 1 Jul 1999 (see s. 2(1) and Gazette 30 Jun 1999 p. 2905)
 Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 Pt. 3 | 3 of 2000 | 12 Apr 2000 | 12 Apr 2000 (see s. 2)
 Reprint of the Settlement Agents Act 1981 as at 3 Nov 2000 (includes amendments listed above)
-Corporations (Consequential Amendments) Act 2001 s. 220 and 222 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth. Gazette 13 Jul 2001 No. S285)
-Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 13 | 21 of 2003 | 23 Apr 2003 | 11 Mar 2002 (see s. 2 and Cwlth. Gazette 24 Oct 2001 No. GN42)
+Corporations (Consequential Amendments) Act 2001 s. 220 and 222 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
+Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 13 | 21 of 2003 | 23 Apr 2003 | 11 Mar 2002 (see s. 2 and Cwlth Gazette 24 Oct 2001 No. GN42)
 Acts Amendment (Equality of Status) Act 2003 Pt. 53 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 66 | 65 of 2003 | 4 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 109 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
@@ -31,7 +31,7 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 118 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 and 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 3: The Settlement Agents Act 1981 as at 8 Jul 2005 (includes amendments listed above)
-Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2 and Gazette 23 Dec 2005 p. 6244)
+Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 63 | 24 of 2005 | 2 Dec 2005 | 1 Jan 2006 (see s. 2(1) and Gazette 23 Dec 2005 p. 6244)
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Land Information Authority Act 2006 s. 158 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Consumer Protection Legislation Amendment and Repeal Act 2006 Pt. 11 | 69 of 2006 | 13 Dec 2006 | 14 Jul 2007 (see s. 2 and Gazette 13 Jul 2007 p. 3453)
@@ -52,6 +52,7 @@ Reprint 6: The Settlement Agents Act 1981 as at 11 Nov 2011 (includes amendments
 Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 4 | 6 of 2012 | 10 Apr 2012 | 28 May 2012 (see s. 2(c) and Cwlth Gazette 19 Apr 2012 ref. F2012L00891)
 Electronic Conveyancing Act 2014 Pt. 7 | 2 of 2014 | 24 Mar 2014 | 3 Jun 2014 (see s. 2(c) and Gazette 30 May 2014 p. 1679)
 Consumer Protection Legislation Amendment Act 2014 Pt. 14 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
+Reprint 7: The Settlement Agents Act 1981 as at 13 Mar 2015 (includes amendments listed above)
 The appointed day is 1 Nov 1982, see Gazette 29 Oct 1982 p. 4322.
 The Real Estate Legislation (Fidelity Guarantee Funds) Amendment Act 2000 s. 7(2) and (3) read as follows:
 (2) A person may give notice of a claim under section 93(2) as amended by this section even if the time within which that notice was to be given under that section before that amendment had expired.
@@ -70,7 +71,7 @@ appointed day3(1), 26(2)
 approved3(1)
 auditor3(1)
 authorised financial institution48
-AuthoritySch. 2 cl. 1(1)
+AuthoritySch. 2 cl. 1(1)(a)
 bank3(1)
 bank account48
 banker48
@@ -111,7 +112,7 @@ reward3(1)
 right124
 separate account48
 settlement3(1)
-settlement agent3(1), 4(1), 73(5)
+settlement agent3(1), 4(1), 73(5)(b)
 settlement agents’ code of conduct3(1)
 specified135(6)
 supervisor3(1)
@@ -120,7 +121,7 @@ transitional matter135(2)
 Treasurer3(1)
 Treasury3(1)
 triennial certificate3(1)
-trust account73(5)
+trust account73(5)(a)
 trust accounts48
 trustee company3(1)
 vendor49(5b)
