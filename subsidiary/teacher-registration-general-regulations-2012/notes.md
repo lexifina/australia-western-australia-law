@@ -7,6 +7,7 @@ Teacher Registration (General) Amendment Regulations 2013 | 7 May 2013 p. 1903-4
 Teacher Registration (General) Amendment Regulations (No. 2) 2013 | 13 Aug 2013 p. 3733-6 | r. 1 and 2: 13 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Aug 2013 (see r. 2(b))
 Teacher Registration (General) Amendment Regulations 2014 | 28 Jan 2014 p. 177-9 | r. 1 and 2: 28 Jan 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Feb 2014 (see r. 2(b))
 Teacher Registration (General) Amendment Regulations (No. 3) 2014 | 1 Jul 2014 p. 2339-40 | r. 1 and 2: 1 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Jul 2014 (see r. 2(b))
+Teacher Registration (General) Amendment Regulations 2015 | 13 Mar 2015 p. 849 | r. 1 and 2: 13 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Mar 2015 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
