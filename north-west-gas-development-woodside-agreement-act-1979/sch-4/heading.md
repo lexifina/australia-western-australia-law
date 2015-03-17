@@ -1,6 +1,6 @@
 ## Schedule 4 — Third Supplementary Agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 29th day of May 1996
 B E T W E E N
 THE HONOURABLE RICHARD FAIRFAX COURT, B.Com., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the Government of the said State and its instrumentalities from time to time (hereinafter called the “State”) of the one part
@@ -51,4 +51,4 @@ Assistant SecretaryJ. Welch
 THE COMMON SEAL of JAPAN AUSTRALIA LNG (MIMI) PTY. LTD. was hereunto affixed by Authority of the Board of Directors in the presence of: | ) ) ) ) ) | C.S.
 DirectorJ. Okada
 SecretaryM. Sweeney
-[Schedule 4 inserted by No. 25 of 1996 s. 6.]
+[Schedule 4 inserted: No. 25 of 1996 s. 6.]

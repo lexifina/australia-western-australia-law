@@ -1,6 +1,6 @@
 ## Schedule 2 — First Supplementary Agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 3rd day of July, 1985 BETWEEN:
 THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the one part and
 WOODSIDE PETROLEUM DEVELOPMENT PTY. LTD. a company incorporated in Victoria and having its registered office at Level 40, 385 Bourke Street, Melbourne (hereinafter called “WPD”), WOODSIDE OIL LTD. a company incorporated in Victoria and having its registered office at Level 40, 385 Bourke Street, Melbourne (hereinafter called “Woodoil”), MID-EASTERN OIL LTD. a company incorporated in Victoria and having its registered office at Level 40, 385 Bourke Street, Melbourne (hereinafter called “Mid-Eastern”), SHELL DEVELOPMENT (AUSTRALIA) PROPRIETARY LIMITED a company incorporated in Queensland and having its principal offices in Victoria at 155 William Street, Melbourne (hereinafter called “SDA”), BHP PETROLEUM PTY. LTD. (formerly called Hematite Petroleum Pty. Ltd.) a company incorporated in Victoria and having its registered office at 140 William Street, Melbourne (hereinafter called “BHP Petroleum”), BP DEVELOPMENTS AUSTRALIA LTD. a company registered in Western Australia as a foreign company and having its registered office in that State at 1 Mount Street, Perth (hereinafter called “BPDAL”) and CALIFORNIA ASIATIC OIL COMPANY a company registered in Western Australia as a foreign company having its registered office in that State care of Messrs. Jackson MacDonald and Co., 6 Sherwood Court, Perth (hereinafter called “Calasiatic”) of the other part.
@@ -198,4 +198,4 @@ SIGNED, SEALED AND DELIVERED by BASIL DOUGLAS SOUTH as the attorney and in the n
 SIGNED, SEALED AND DELIVERED by ROSS PEDDAR HARRISON as the attorney and in the name of BHP PETROLEUM PTY. LTD. UNDER POWER OF ATTORNEY dated the 1st day of July, 1985 in the presence of: J. N. DYNON. |  | [L.S.] R. HARRISON.
 THE COMMON SEAL of BP DEVELOPMENTS AUSTRALIA LTD. was hereunto affixed: |  | [C.S.] RODNEY CHASE. KEN JAMESON. by: attest: PresidentDirector
 SIGNED SEALED AND DELIVERED by CHARLES A. JORDAN as the attorney and in the name of CALIFORNIA ASIATIC OIL COMPANY UNDER POWER OF ATTORNEY dated the 25th day of February 1983 in the presence of: DIX A. NEWELL. |  | [L.S.] C. A. JORDAN.
-[Schedule 2 inserted by No. 45 of 1985 s. 6.]
+[Schedule 2 inserted: No. 45 of 1985 s. 6.]
