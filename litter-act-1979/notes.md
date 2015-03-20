@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Litter Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 20 March 2015 of the Litter Act 1979 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Litter Act 1979 | 81 of 1979 | 11 Dec 1979 | 9 May 1980 (see s. 2 and Gazette 9 May 1980 p. 1446)
@@ -41,11 +41,12 @@ Industrial Legislation Amendment Act 2011 Pt. 6 | 53 of 2011 | 11 Nov 2011 | 1 A
 Reprint 5: The Litter Act 1979 as at 11 May 2012 (includes amendments listed above)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 8 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Litter Amendment Act 2012 | 30 of 2012 | 3 Sep 2012 | s. 1 and 2: 3 Sep 2012 (see s. 2(a)); Act other than s. 1 and 2: 21 Nov 2012 (see s. 2(b) and Gazette 20 Nov 2012 p. 5685)
+Reprint 6: The Litter Act 1979 as at 20 Mar 2015 (includes amendments listed above)
 Repealed by the Associations Incorporation Act 1987.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-Defined Terms
+Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
-Defined TermProvision(s)
+Defined termProvision(s)
 appointed area5(1)
 Association35(2)
 authorised officer5(1)
@@ -63,7 +64,7 @@ member of the Council5(1)
 post5(1)
 prescribed5(1)
 private land5(1)
-Proceedings31(4)
+proceedings31(4)
 prosecution notice27A(1A)
 public authority5(1)
 public place5(1)
