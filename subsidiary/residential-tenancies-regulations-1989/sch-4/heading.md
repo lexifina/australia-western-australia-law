@@ -560,6 +560,8 @@ Follow these useful tips and pieces of information to help avoid problems while 
 •You or the lessor will need to give notice in writing before ending the tenancy agreement (see “Ending the Residential Tenancy Agreement” in your residential tenancy agreement).
 •On the day your tenancy agreement ends, you must give vacant possession of the premises to the lessor (this includes handing over the keys to the lessor or the property manager). You may be liable to pay damages to the lessor if you do not vacate on time.
 •If the property has a pool or garden, be clear about what the lessor expects you to do to maintain them.
+•Under the Building Regulations 2012, owners and occupiers are responsible for ensuring that a suitable enclosure is provided around a swimming pool or spa-pool on the property. If a fence, wall, gate, window, door or other barrier around a swimming pool or spa-pool is not in working order or does not comply with the Building Regulations 2012, contact your lessor or property manager immediately to arrange urgent repairs. If delays occur, or you need more information, contact your local council.
+•Loose cords or chains, on blinds or curtains, which are not fixed out of reach pose a strangulation risk for children. Contact your lessor or property manager to discuss arrangements about making window coverings safe. Product safety laws apply.
 •Be careful with what you sign relating to your tenancy, and do not let anybody rush you. Never sign a blank form, such as a claim for refund of bond.
 •Keep a copy of your property condition report, rent receipts, bond receipt, record of payment of bond and copies of letters/emails you send or receive in a designated tenancy file or folder. Keep it somewhere you can easily find it.
 •You must provide a forwarding address to the lessor or the property manager of the premises when you leave the premises. It is an offence not to do so.
@@ -577,7 +579,7 @@ Email: consumer@commerce.wa.gov.au
 Internet: www.commerce.wa.gov.au/ConsumerProtection
 Regional offices: Goldfields/Esperance:(08) 9026 3250 Great Southern:(08) 9842 8366 Kimberley:(08) 9191 8400 South-West:(08) 9722 2888 North-West:(08) 9185 0900 Mid-West:(08) 9920 9800
 The WA Government provides funding assistance to the WA Tenancy Network which provides advice, information and advocacy to tenants throughout Western Australia. Contact the Consumer Protection Advice Line on 1300 30 40 54 for referral to a centre near you.
-[Form 1AC inserted in Gazette 3 May 2013 p. 1797-800.]
+[Form 1AC inserted in Gazette 3 May 2013 p. 1797-800; amended in Gazette 20 Jan 2015 p. 371.]
 FORM 1AD
 Residential Tenancies Act 1987
 Section 27B
@@ -606,6 +608,8 @@ Follow these useful tips and pieces of information to help avoid problems while 
 •You or the lessor will need to give notice in writing before ending the tenancy agreement.
 •On the day your tenancy agreement ends, you must give vacant possession of the premises to the lessor (this includes handing over the keys to the lessor or the property manager). You may be liable to pay damages to the lessor if you do not vacate on time.
 •If the property has a pool or garden, be clear about what the lessor expects you to do to maintain them.
+•Under the Building Regulations 2012, owners and occupiers are responsible for ensuring that a suitable enclosure is provided around a swimming pool or spa-pool on the property. If a fence, wall, gate, window, door or other barrier around a swimming pool or spa-pool is not in working order or does not comply with the Building Regulations 2012, contact your lessor or property manager immediately to arrange urgent repairs. If delays occur, or you need more information, contact your local council.
+•Loose cords or chains, on blinds or curtains, which are not fixed out of reach pose a strangulation risk for children. Contact your lessor or property manager to discuss arrangements about making window coverings safe. Product safety laws apply.
 •Be careful with what you sign relating to your tenancy, and do not let anybody rush you. Never sign a blank form, such as a claim for refund of bond.
 •Keep a copy of your property condition report, rent receipts, bond receipt, record of payment of bond and copies of letters/emails you send or receive in a designated tenancy file or folder. Keep it somewhere you can easily find it.
 •You must provide a forwarding address to the lessor or the property manager of the premises when you leave the premises. It is an offence not to do so.
@@ -777,7 +781,7 @@ If a dispute cannot be resolved
 52.2requiring a party to the agreement to perform a certain action under the agreement; and
 52.3order the payment of any amount owing under the agreement; and
 52.4order the payment of compensation for loss or injury.
-[Form 1AD inserted in Gazette 3 May 2013 p. 1801-17.]
+[Form 1AD inserted in Gazette 3 May 2013 p. 1801-17; amended in Gazette 20 Jan 2015 p. 371.]
 FORM 1
 Residential Tenancies Act 1987
 Section 27C(6)
