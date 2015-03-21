@@ -167,6 +167,7 @@ Poisons Amendment Regulations 2014 | 24 Apr 2014 p. 1146 | r. 1 and 2: 24 Apr 20
 Poisons Amendment Regulations (No. 2) 2014 | 20 May 2014 p. 1598-9 | r. 1 and 2: 20 May 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Poisons Amendment Regulations (No. 5) 2014 | 12 Dec 2014 p. 4714-15 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
 Poisons Amendment Regulations (No. 4) 2014 | 16 Dec 2014 p. 4759-60 | r. 1 and 2: 16 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Dec 2014 (see r. 2(b))
+Poisons Amendment Regulations 2015 | 20 Mar 2015 p. 906-10 | r. 1 and 2: 20 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Mar 2015 (see r. 2(b))
 Formerly referred to the Health Services (Conciliation and Review) Act 1995, the short title of which was changed to the Health and Disability Services (Complaints) Act 1995 by the Health and Disability Services Legislation Amendment Act 2010 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Repealed by the Navigation (Consequential Amendments) Act 2012 Sch. 1 (Cwlth). Now see the Navigation Act 2012 (Cwlth).
@@ -185,43 +186,10 @@ The Poisons Amendment Regulations 2012 r. 45(2) to amend r. 56(2)(b) is not incl
 The Mental Health Amendment (Psychiatrists) Act 2012 s. 8 reads as follows:
 8.Power to amend or repeal unaffected
 The amendment of an instrument by section 6 or 7 does not prevent that instrument from being amended or repealed by subsequent instrument.
-proprietary preparation8A(16)
-psychiatric emergency pack36AAB(1)
-psychiatrist2(1)
-public hospital2(1)
-qualified person2(1)
-quarter2(1)
-racing yacht2(1)
-register44C(1)
-registered midwife2(1)
-registered nurse2(1)
-remote area nursing post2(1)
-residential care facility38B(1)
-Rural Community Mental Health Team36AAB(1)
-sale2(1)
-sample8A(16)
-Schedule2(1)
-school41D(1)
-sell2(1)
-specialist prescriber51A(1)
-specified3(6)
-specified drug8A(1a)
-SPN practitioner51FA
-starter pack36AA(1)
-starter pack instruction36AA(1)
-stimulant51FA
-Stimulant Prescribing Code51FA
-supply2(1)
-SUSMP2(1)
-system identifier32A(1)
-team medical practitioner36AAB(1)
-team psychiatrist36AAB(1)
-team registered nurse36AAB(1)
-to sell2(1)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-access code32A(1)
+access code32A(1), 32F, 44C(1)
 Act2(1)
 animal2(1)
 approved clinic51FA
@@ -259,6 +227,7 @@ distribute2(1)
 distributor2(1)
 dosage unit2(1)
 drug addict51A(1)
+electronic storage and supply unit32F
 emergency supplies36A(4)
 endorsed midwife2(1)
 endorsed optometrist2(1)
@@ -332,7 +301,7 @@ stimulant51FA
 Stimulant Prescribing Code51FA
 supply2(1)
 SUSMP2(1)
-system identifier32A(1)
+system identifier32A(1), 32F, 44C(1)
 team medical practitioner36AAB(1)
 team psychiatrist36AAB(1)
 team registered nurse36AAB(1)
