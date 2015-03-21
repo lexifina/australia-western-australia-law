@@ -7,6 +7,7 @@ Food Amendment Regulations 2011 | 20 Sep 2011 p. 3799 | r. 1 and 2: 20 Sep 2011 
 Food Amendment Regulations 2012 | 20 Apr 2012 p. 1696-8 | r. 1 and 2: 20 Apr 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Apr 2012 (see r. 2(b))
 Food Amendment Regulations 2013. | 20 Aug 2013 p. 3852 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Food Amendment Regulations 2014 | 12 Dec 2014 p. 4713-14 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
+Food Amendment Regulations 2015 | 20 Mar 2015 p. 905-6 | r. 1 and 2: 20 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Mar 2015 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
