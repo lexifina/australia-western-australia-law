@@ -78,7 +78,8 @@
 3. | Application for renewal of scientific purposes licence (r. 92) | 25.00
 4. | Application for commercial operations licence (r. 83) | 100.00
 5. | Application for renewal of commercial operations licence (r. 97) | 100.00
-[Division 8 inserted in Gazette 27 Sep 2013 p. 4528-9.]
+6. | Application for private mooring licence (r. 83) | 50.00
+[Division 8 inserted in Gazette 27 Sep 2013 p. 4528-9; amended in Gazette 24 Mar 2015 p. 1043.]
 ## Division 9 — Fees for abseiling
 [Heading inserted in Gazette 27 Sep 2013 p. 4529.]
  |  | $

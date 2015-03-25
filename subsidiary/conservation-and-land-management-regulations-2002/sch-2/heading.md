@@ -75,12 +75,16 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 45. | 56(1) | Parking contrary to direction on sign | 50
 46. | 56(4) | Failing to pay parking charge or display ticket | 50
 47. | 57 | Obstructing vehicle etc. | 50
-47a. | 59(1) | Unlawfully installing a mooring | 200
+47a. | 59(1) | Unlawfully having a mooring | 200
 48. | 59(2) | Using an unlawful mooring | 100
+48A. | 59(3A) | Unlawfully securing vessel to mooring | 100
 49. | 59(3) | Securing a vessel in an unlawful manner | 100
 50. | 60(1) | Anchoring a vessel in a restricted area | 100
+50A. | 60A(4) | Failure to comply with conditions of use of public mooring | 200
+50B. | 60(2A) | Anchoring vessel within 50 metres of mooring | 100
 51. | 61 | Operating certain vessels in a restricted area | 100
 51a. | 61A | Unlawful operation of vessels in nature reserves | 100
+51AA. | 61B(4) | Operating vessel in excess of speed limit | 200
 51b. | 62(1) | Unsafe navigation of vessels | 100
 51C. | 62(2) | Navigating a vessel in a manner that causes nuisance etc. | 100
 52. | 63 | Failing to obey direction as to vessel | 100
@@ -112,6 +116,12 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 67. | 88(2) | Failing to comply with requirement to return licence | 50
 68A. | 93(5) | Contravention of condition or restriction of scientific purposes licence | 100
 68. | 98(3) | Contravention of condition of commercial operations licence | 200
+68A. | 98AF(3) | Contravention of condition of rental mooring licence | 100
+68B. | 98AL(4) | Failing to have written consent of licence holder in possession | 100
+68C. | 98AR(3) | Contravention of condition of private mooring licence | 100
+68D. | 98AT(3) | Failing to provide inspection report for mooring | 100
+68E. | 98AU(3) | Failing to comply with a requirement to repair, relocate or remove a private mooring | 200
+68F. | 98AW | Failing to notify change of particulars for private mooring licence | 100
 69. | 99(5) | Failing to pay entrance fee | 35
 69a. | 99A(4) | Failing to pay landing fee for aircraft | 100
 69b. | 99C(4) | Failing to pay entrance fee for Monkey Mia Conservation Park | 35
@@ -127,7 +137,7 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 76. | 108 | Unlawfully taking still or motion pictures | 50
 77. | 109 | Failing to produce licence etc. | 200
 78. | 110 | Giving false or misleading information | 200
-[Division 2 amended in Gazette 29 Sep 2006 p. 4331-3; 27 Feb 2007 p. 625-6; 3 Dec 2010 p. 6052; 19 Sep 2014 p. 3333-4 and 3336-7.]
+[Division 2 amended in Gazette 29 Sep 2006 p. 4331-3; 27 Feb 2007 p. 625-6; 3 Dec 2010 p. 6052; 19 Sep 2014 p. 3333-4 and 3336-7; 24 Mar 2015 p. 1043-4.]
 ## Division 3 — Offences under Forest Management Regulations 1993
 [Heading inserted in Gazette 7 Dec 2012 p. 5972.]
  | Column 1 | Column 2 | Column 3

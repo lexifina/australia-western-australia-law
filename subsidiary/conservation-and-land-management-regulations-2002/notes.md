@@ -21,6 +21,7 @@ Conservation and Land Management Amendment Regulations 2013 | 5 Feb 2013 p. 833-
 Reprint 3: The Conservation and Land Management Regulations 2002 as at 12 Jul 2013 (includes amendments listed above)
 Conservation and Land Management Amendment Regulations (No. 3) 2013 | 27 Sep 2013 p. 4525-9 | r. 1 and 2: 27 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2013 (see r. 2(b))
 Conservation and Land Management Amendment Regulations (No. 2) 2014 | 19 Sep 2014 p. 3330-7 | r. 1 and 2: 19 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Sep 2014 (see r. 2(b))
+Conservation and Land Management Amendment Regulations 2015 | 24 Mar 2015 p. 1033-44 | r. 1 and 2: 24 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Mar 2015 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
@@ -75,6 +76,7 @@ commercial operations licence2
 commercial purpose2
 Companion Card2
 concession card2
+current inspection report98AI(1)
 designated area2
 dog area2
 fauna8(3)
@@ -82,10 +84,15 @@ firewood71(4)
 fish121(1)
 fishing activity9(2)
 horse area2
+inspection report98AI(1)
 licence82
+licence holder98AA, 98AI(1)
+licensed mooring98AI(1)
 litter24(2)
 local departmental office98G(1)
+loss98AH(1)
 mooring2
+mooring licence area98AI(1)
 naturally occurring feature31(4)
 non-indigenous animal2
 non-tour motor vehicle99(1)
@@ -95,9 +102,14 @@ permission holder123(1)
 plant13(2)
 poison risk area115(1)
 poison risk map115(1)
+private mooring98AI(1)
+private mooring licence98AI(1)
 property77(1)
+public mooring2
 recreational land114
 relevant area121(1)
+rental mooring98AA
+rental mooring licence98AA
 restricted area2
 restricted device12(5)
 school holidays2
@@ -107,9 +119,11 @@ services2
 sign2
 soil35A(2)
 South-west zone98A
-specified56(6)
+specified56(6), 61B(1), 98AC(1)
 structure34(2)
 take2
+temporary mooring area2
+tender2
 ticket vending machine56(6)
 tour vehicle99(1)
 townsite114
