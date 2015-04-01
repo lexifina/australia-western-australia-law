@@ -38,11 +38,13 @@ Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulat
 Reprint 5: The Workers’ Compensation and Injury Management (Scales of Fees) Regulations 1998 as at 17 May 2013 (includes amendments listed above)
 Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations 2013 | 15 Oct 2013 p. 4687-733 | r. 1 and 2: 15 Oct 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2013 (see r. 2(b))
 Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations 2014 | 17 Oct 2014 p. 4023-71 | r. 1 and 2: 17 Oct 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2014 (see r. 2(b))
+Workers’ Compensation and Injury Management (Scales of Fees) Amendment Regulations 2015 | 20 Mar 2015 p. 911-12 | r. 1 and 2: 20 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2015 (see r. 2(b))
 The amendments in the Workers’ Compensation and Rehabilitation (Scales of Fees) Amendment Regulations (No. 3) 2004 published in Gazette 4 Jan 2005 p. 6-14 have no effect because of an error in the reference to the principal regulations to be amended.
 Now known as the Workers’ Compensation and Injury Management (Scales of Fees) Regulations 1998; citation changed (see note under r. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+acupuncturist7C(1)
 After-hoursSch. 1
 assessor9(2)
 GST10(1)
