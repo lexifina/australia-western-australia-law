@@ -70,6 +70,7 @@ Workers’ Compensation and Injury Management Amendment Regulations (No. 2) 2012
 Reprint 7: The Workers’ Compensation and Injury Management Regulations 1982 as at 24 May 2013 (includes amendments listed above)
 Workers’ Compensation and Injury Management Amendment Regulations (No. 2) 2014 | 25 Feb 2014 p. 505-8 | r. 1 and 2: 25 Feb 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2014 (see r. 2(b))
 Workers’ Compensation and Injury Management Amendment Regulations 2014 | 25 Mar 2014 p. 820-8 | r. 1 and 2: 25 Mar 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
+Workers’ Compensation and Injury Management Amendment Regulations 2015 | 20 Mar 2015 p. 910-11 | r. 1 and 2: 20 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2015 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Assistance Act 1981 the short title of which was changed to the Workers’ Compensation and Rehabilitation Act 1981 by the Workers’ Compensation and Assistance Amendment Act 1990 s. 5 and then to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Workers’ Compensation and Injury Management Amendment Act 2011 s. 77 as at 1 Dec 2011 (see Gazette 8 Nov 2011 p. 4673).
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
@@ -79,12 +80,14 @@ Defined terms
 Defined termProvision(s)
 action level19I(2)
 actual total cost13(3)
+acupuncturist44C(1)
 agent service18B
 applicant18B, 26
 application18B
 approved19A
 approved medical practitioner19A
 approved person19A
+approved treatment44C(2)
 audiologist19A
 audiometric officer19A
 Australian Standard19A
