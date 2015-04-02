@@ -152,12 +152,13 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 D
 Road Traffic (Miscellaneous Amendments) Act 2012 Part 2 (other than s. 12) | 59 of 2012 | 11 Dec 2012 | 12 Dec 2012 (see s. 2(b))
 Reprint 12: The Road Traffic Act 1974 as at 22 Mar 2013 (includes amendments listed above, except those in the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 35 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
+Road Traffic Legislation Amendment Act 2015 Pt. 2 | 10 of 2015 | 1 Apr 2015 | 2 Apr 2015 (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 19 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment Act 2012 Pt. 3 (other than s. 15-18) | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b)(i) and (d))
-Road Traffic (Miscellaneous Amendments) Act 2012 s. 12 | 59 of 2012 | 11 Dec 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 s. 44 (see s. 2(c)(ii))
+Road Traffic Legislation Amendment Act 2012 Pt. 3 (other than s. 15-18) | 8 of 2012 (as amended by No. 10 of 2015 s. 14-18) | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b)(i) and (d))
+Road Traffic (Miscellaneous Amendments) Act 2012 s. 12 | 59 of 2012 (as amended by No. 10 of 2015 Pt. 7) | 11 Dec 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 s. 44 (see s. 2(c)(ii))
 Medicines and Poisons Act 2014 s. 188 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(c))
 Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 2 and Pt. 3 Div. 1 | 2 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(1)(b) and (2))
@@ -313,14 +314,18 @@ the Road Traffic (Authorisation to Drive) Act 2008 section 11(1); or
 (3) In section 49(4) delete “to the State Administrative Tribunal”.
 (4) In section 49(5) delete “Director General has been ordered under section 76(3)” and insert:
 CEO has been ordered under the Road Traffic (Authorisation to Drive) Act 2008 section 30(1)
+11A.Section 50A amended
+In section 50A(1) after “external licensing authority” insert:
+(as defined in the Road Traffic (Authorisation to Drive) Act 2008 section 3(1))
+[Section 11A inserted by No. 10 of 2015 s. 14.]
 11.Sections 51 and 53 deleted
 Delete sections 51 and 53.
 12.Sections 58 and 58A deleted
 Delete sections 58 and 58A.
 13.Section 64A amended
 (1) In section 64A(2):
-(a) in paragraph (a) delete “licence;” and insert:
-licence as defined in the Road Traffic (Authorisation to Drive) Act 2008 section 3(1); or
+(a) in paragraph (a) delete “section 104(2); or” and insert:
+the Road Traffic (Authorisation to Drive) Act 2008 section 40(2); or
 (b) in paragraph (d) delete “section 75(2a) or (2b)” and insert:
 the Road Traffic (Authorisation to Drive) Act 2008 section 22(1) or (2)
 (c) in paragraph (e) delete “licence; or” and insert:
@@ -330,16 +335,18 @@ the Road Traffic (Authorisation to Drive) Act 2008 section 22(1) or (2)
 (3) In section 64A(5)(d) delete “gross combination mass” and insert:
 GCM
 (4) Delete section 64A(6).
-14.Section 64AAA amended
-In section 64AAA(2) in the definition of novice driver delete “section 104(2).” and insert:
-the Road Traffic (Authorisation to Drive) Act 2008 section 40(2).
+[Section 13 amended by No. 10 of 2015 s. 15.]
+[14.Deleted by No. 10 of 2015 s. 16.]
 19.Section 74 amended
 Delete section 74(1) and (2).
 20.Sections 75 to 78 deleted
 Delete sections 75 to 78.
 21.Section 78A amended
-In section 78A in the definition of senior police officer delete “person appointed under the Police Act 1892 Part I to be a member of the Police Force of Western Australia” and insert:
+(1) In section 78A in the definition of impounding offence (driver’s licence) delete paragraph (b) and insert:
+(b) an offence against the Road Traffic (Authorisation to Drive) Act 2008 section 38(1)(a); or
+(2) In section 78A in the definition of senior police officer delete “person appointed under the Police Act 1892 Part I to be a member of the Police Force of Western Australia” and insert:
 police officer
+[Section 21 inserted by No. 10 of 2015 s. 17.]
 22.Section 78C amended
 In section 78C(6)(b) delete “section 86A.” and insert:
 any other road law in relation to the moving of vehicles.
@@ -401,7 +408,7 @@ Table
 s. 49(3) | s. 50A(1)(b)
 s. 54(6) | s. 55(4)
 s. 56(5)(b) | s. 57(1), (2)
-s. 59B(3)(c) | s. 60(1c)(a)(i), (1D)
+[deleted] | s. 60(1c)(a)(i), (1D)
 s. 65 def. of driver assessment | s. 66(1), (1aa), (1a), (1b), (2), (3), (4), (5), (6), (6a), (10), (11), (12)
 s. 66A(1), (2), (3), (4), (5), (6), (7) | s. 66B(1), (2), (3), (4)
 s. 66C(1), (2), (3), (4), (5), (6), (7) | s. 66D(1), (3)
@@ -419,6 +426,7 @@ s. 79BCE(2) | s. 79C(1), (2), (3)
 s. 79D(2)(a), (7)
 Note:The heading to amended section 67A is to read:
 Failure to comply with other requirements of police officer
+[Section 37 amended by No. 10 of 2015 s. 18.]
 38.Various references to “the member” amended
 In the provisions listed in the Table delete “the member” (each occurrence) and insert:
 the police officer
@@ -444,8 +452,9 @@ At the end of Part IVA Division 4A insert:
 The Director General may disclose photographs to the CEO (taxi drivers licensing) for the purposes of the performance of the functions of the CEO (taxi drivers licensing) under the Taxi Drivers Licensing Act 2014.
 On the date as at which this compilation was prepared, the Road Traffic (Miscellaneous Amendments) Act 2012 s. 12 had not come into operation. It reads as follows:
 12.Various references to “member of the Police Force” amended
-In sections 49AB(1)(c), 53(1) and (2A), 60(1c)(a)(i) and 61A(1)(a) delete “member of the Police Force” and insert:
+In sections 49AB(1)(c) and 61A(1)(a) delete “member of the Police Force” and insert:
 police officer
+[Section 10 amended by No. 10 of 2015 s. 21.]
 On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 188 had not come into operation. It reads as follows:
 188.Road Traffic Act 1974 amended
 (1) This section amends the Road Traffic Act 1974.
