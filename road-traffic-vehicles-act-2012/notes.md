@@ -6,7 +6,7 @@ Road Traffic (Vehicles) Act 2012 s. 1 and 2 | 7 of 2012 | 21 May 2012 | 21 May 2
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic (Vehicles) Act 2012 s. 3, Pt. 2-14 | 7 of 2012 (as amended by No. 48 of 2012 Pt. 4 Div. 7A) | 21 May 2012 | On commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b))
+Road Traffic (Vehicles) Act 2012 s. 3, Pt. 2-14 | 7 of 2012 (as amended by No. 48 of 2012 Pt. 4 Div. 7A; No. 10 of 2015 Pt. 5) | 21 May 2012 | On commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b))
 Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 4 | 2 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(1)(b) and (2))
 On the date as at which this compilation was prepared, the Road Traffic (Vehicles) Act 2012 s. 3 and Pt. 2-14 (as amended by the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 7A, effective 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815) had not come into operation. They read as follows:
 3.Terms used
@@ -1350,13 +1350,14 @@ and provide for the confiscation and disposal of such replicas, imitations or ar
 (f) enable vehicles to be driven and tested; and
 (g) prescribe a minimum age at which an individual may apply for the grant or transfer of a vehicle licence and providing for the applicant to provide proof of age and identity; and
 (h) provide for matters relating to vehicles that are used to warn other road users of the presence of other vehicles; and
-(i) impose penalties not exceeding a fine of 24 PU for a first offence, and not exceeding a fine of 48 PU for any subsequent offence, under a regulation; and
+(i) impose penalties not exceeding a fine of 64 PU for a first offence, and not exceeding a fine of 96 PU for any subsequent offence, under a regulation; and
 (j) define the previous offences that are to be taken into account in determining whether an offence is a first or subsequent offence for the purpose of a regulation; and
 (k) prescribe matters for or in respect of which fees may be charged or charges may be made under this Act and prescribing the amounts of such fees or charges; and
 (l) require a statutory declaration to be made about a matter.
 (3) The regulations may make it an offence to contravene a condition imposed by or under the regulations, but this subsection does not limit the other consequences that the regulations may attach to a contravention.
 (4) For the purposes of subsection (2)(k), a reference in the Interpretation Act 1984 section 45(1)(f) and (2) to a reduction is to be read as if it included a reference to a deferral.
 (5) Without limiting the Interpretation Act 1984 section 45(2), the regulations may provide that a reduction, waiver, refund or deferral of a charge for granting, renewing or varying any licence for a vehicle applies subject to conditions imposed by the CEO that are specified in the licence.
+[Section 132 amended by No. 10 of 2015 s. 12.]
 133.Exemptions from regulations about vehicle standards etc.
 The regulations may provide for the CEO to grant exemptions from regulations made under section 132(2)(b).
 134.Exemptions from regulations in emergencies
