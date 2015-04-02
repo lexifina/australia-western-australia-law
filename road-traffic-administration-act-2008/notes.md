@@ -6,9 +6,9 @@ Road Traffic (Administration) Act 2008 s. 1 and 2 | 39 of 2008 | 15 Aug 2008 | 1
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 | 39 of 2008 (as amended by No. 39 of 2009 s. 11, No. 51 of 2010 s. 17, No. 54 of 2010 s. 10) | 15 Aug 2008 | To be proclaimed (see s. 2(b))
+Road Traffic (Administration) Act 2008 s. 3-7 and Pt. 2-9 | 39 of 2008 (as amended by No. 39 of 2009 s. 11, No. 51 of 2010 s. 17, No. 54 of 2010 s. 10; No. 10 of 2015 Pt. 3) | 15 Aug 2008 | To be proclaimed (see s. 2(b))
 Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 3 | 14 of 2011 | 25 May 2011 | On commencement of the Road Traffic (Administration) Act 2008 other than s. 1 and 2 (see s. 2(b) and Gazette 30 Aug 2011 p. 3503)
-Road Traffic Legislation Amendment (Information) Act 2011 Pt. 3 | 18 of 2011 | 2 Jun 2011 | On commencement of the Road Traffic (Administration) Act 2008 other than s. 1 and 2 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611)
+Road Traffic Legislation Amendment (Information) Act 2011 Pt. 3 | 18 of 2011 (as amended by No. 10 of 2015 s. 19) | 2 Jun 2011 | On commencement of the Road Traffic (Administration) Act 2008 other than s. 1 and 2 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611)
 Road Traffic Legislation Amendment Act 2012 Pt. 5 | 8 of 2012 | 21 May 2012 | Pt. 5 (s. 208(1), 210, 211, 212 & 224): operative on commencement of the Road Traffic Legislation Amendment (Information) Act 2011 Pt. 3 (see s. 2(e)); Pt. 5 (other than s. 208(1), 210, 211, 212 & 224): operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(f))
 Road Traffic (Miscellaneous Amendments) Act 2012 Pt. 3 | 59 of 2012 | 11 Dec 2012 | On commencement of the Road Traffic (Administration) Act 2008 s. 44 (see s. 2(c)(ii))
 Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 2 | 2 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(1)(b) and (2))
@@ -973,7 +973,8 @@ The Governor may make regulations for any purpose for which regulations are cont
 (ii) an offence in respect of which a court is required to disqualify the offender from holding or obtaining a driver’s licence; or
 (iii) an offence under the Road Traffic (Vehicles) Act 2008 section 4(2) the commission of which involves a heavy vehicle,
 by setting out the offences or by reference to the provision creating the offence or by reference to all or any offences in any one Part or other division of any regulations made under a road law; and
-(b) prescribing penalties not exceeding a fine of 20 PU for any prescribed offence or class of prescribed offence and prescribing different penalties for the one offence, according to the circumstances by which the offence is attended.
+(b) prescribing penalties not exceeding 40 PU for any prescribed offence or class of prescribed offence and prescribing different penalties for the one offence, according to the circumstances by which the offence is attended.
+[Section 85 amended by No. 10 of 2015 s. 7.]
 Division 2 — Infringement notices left on vehicles
 86.Circumstances in which infringement notices can be left on vehicles
 If —
@@ -1408,9 +1409,11 @@ Nothing in a road law takes away or diminishes any liability of the driver of, a
 (1) The Governor may make regulations prescribing any matter that is required or permitted by this Act to be prescribed, or that is necessary or convenient to be prescribed for giving effect to the purposes of this Act.
 (2) The regulations may make it an offence to contravene a condition imposed by or under the regulations, but this subsection does not limit the other consequences that the regulations may attach to a contravention.
 (3) Without limiting subsection (1), regulations may —
+(aa) impose penalties not exceeding a fine of 64 PU for a first offence, and not exceeding a fine of 96 PU for any subsequent offence, under any regulation made under this Act; and
 (a) prescribe matters for or in respect of which fees may be charged or charges may be made under this Act and prescribing the amounts of such fees or charges; and
 (b) require a statutory declaration to be made about a matter.
 (4) For the purposes of subsection (3)(a), a reference in the Interpretation Act 1984 section 45(1)(f) and (2) to a reduction is to be read as if it included a reference to a deferral.
+[Section 143 amended by No. 10 of 2015 s. 8.]
 144.Minister’s declarations to apply regulations to areas other than roads etc.
 (1) The Minister may declare that a regulation made under a road law and specified in the declaration applies to a specified area of the State that is open to or used by the public.
 (2) A declaration has effect for the period specified in it unless it is sooner revoked.
@@ -1798,7 +1801,7 @@ In the provisions listed in the Table delete “2008” (each occurrence) and in
 2012
 Table
 s. 4 def. of equipment, GCM, GVM, heavy vehicle, involved person, journey documentation, light vehicle, load, passenger, road law par. (d), road transport, transport documentation and vehicle licence | s. 6(1) def. of licensed and (2)(b)
-s. 10(1) | s. 12(1) def. of permit
+s. 10(1) | (deleted)
 s. 18(2)(f) | s. 20(1) and (2)
 s. 28 def. of MDLR compliance purposes par. (a)(i) and MDLR offence par. (a) | s. 36(3) def. of number plate
 s. 52(5)(c) and (d) | s. 54(1) def. of premises par. (d) and (e) and (8)(a) and (b)
@@ -1808,6 +1811,7 @@ s. 85(a)(iii) | s. 91(a)
 s. 106(1)(c) | s. 109(1)(l)
 s. 111(3)(c) | s. 120
 s. 133(b), (c), (d), (e) and (g)
+[Section 232 amended by No. 10 of 2015 s. 19.]
 On the date as at which this compilation was prepared, the Road Traffic (Miscellaneous Amendments) Act 2012 Pt. 3 had not come into operation. It reads as follows:
 Part 3 — Road Traffic (Administration) Act 2008 amended
 13.Act amended
