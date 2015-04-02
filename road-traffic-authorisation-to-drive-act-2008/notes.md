@@ -6,7 +6,7 @@ Road Traffic (Authorisation to Drive) Act 2008 s. 1 and 2 | 40 of 2008 | 15 Aug 
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic (Authorisation to Drive) Act 2008 s. 3 and Pt. 2-6 | 40 of 2008 (as amended by No. 51 of 2010 Pt. 4) | 15 Aug 2008 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b))
+Road Traffic (Authorisation to Drive) Act 2008 s. 3 and Pt. 2-6 | 40 of 2008 (as amended by No. 51 of 2010 Pt. 4; No. 10 of 2015 Pt. 4) | 15 Aug 2008 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(b))
 Road Traffic Legislation Amendment (Information) Act 2011 Pt. 4 | 18 of 2011 | 2 Jun 2011 | Pt. 4 (other than s. 25): operative on commencement of the Road Traffic (Administration) Act 2008 other than s. 1 and 2 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611); s. 25: 14 Jan 2013 (see s. 2(b) and Gazette 4 Jan 2013 p. 3)
 Road Traffic Legislation Amendment Act 2012 Pt. 6 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(f))
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 2 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(d))
@@ -607,11 +607,12 @@ Part 5 — Miscellaneous
 (1) The Governor may make regulations prescribing any matter that is required or permitted by this Act to be prescribed, or that is necessary or convenient to be prescribed for giving effect to the purposes of this Act.
 (2) The regulations may make it an offence to contravene a condition imposed by or under the regulations, but this subsection does not limit the other consequences that the regulations may attach to a contravention.
 (3) Without limiting subsection (1), regulations may —
-(a) impose penalties not exceeding a fine of 24 PU for a first offence, and not exceeding a fine of 48 PU for any subsequent offence, under any regulation made under this Act; and
+(a) impose penalties not exceeding a fine of 64 PU for a first offence, and not exceeding a fine of 96 PU for any subsequent offence, under any regulation made under this Act; and
 (b) prescribe matters for or in respect of which fees may be charged or charges may be made under this Act and prescribing the amounts of such fees or charges; and
 (c) require a statutory declaration to be made about a matter.
 (4) For the purposes of subsection (3)(b), a reference in the Interpretation Act 1984 section 45(1)(f) and (2) to a reduction is to be read as if it included a reference to a deferral.
 (5) Without limiting the Interpretation Act 1984 section 45(2), the regulations may provide that a reduction, waiver, refund or deferral of a charge for granting or varying any driver’s licence or the issue of a learner’s permit applies subject to conditions imposed by the CEO that are specified in the licence.
+[Section 61 amended by No. 10 of 2015 s. 10.]
 62.Minister’s declarations that specified regulations do not apply to specified persons
 Regulations may provide for the Minister to declare, in writing in accordance with the regulations, that a specified requirement of the regulations does not apply to a specified person.
 63.Regulations may refer to published documents
