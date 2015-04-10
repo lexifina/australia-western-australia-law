@@ -13,12 +13,13 @@ Caravan Parks and Camping Grounds Amendment Regulations (No. 2) 2014 | 12 Dec 20
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Caravan Parks and Camping Grounds Amendment Regulations 2014 r. 3-6 | 8 Jan 2015 p. 121-2 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
+Caravan Parks and Camping Grounds Amendment Regulations 2014 r. 3-6 | 8 Jan 2015 p. 121-2 (as amended in Gazette 10 Apr 2015 p. 1256) | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
+Caravan Parks and Camping Grounds Amendment Regulations 2015 Pt. 2 and 3 | 10 Apr 2015 p. 1255-6 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Department of Local Government is to be read and construed as a reference to the Department of Local Government and Regional Development.
 The Caravan Parks and Camping Grounds Amendment Regulations 2000 r. 22 reads as follows:
 22.Transitional
 A licence issued in relation to a transit camp under the Caravan Parks and Camping Ground Regulations 1997 before the commencement of these regulations is, on and after that commencement, to be taken to be a licence issued in respect of a transit park.
-On the date as at which this compilation was prepared, the Caravan Parks and Camping Grounds Amendment Regulations 2014 r. 3-6 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Caravan Parks and Camping Grounds Amendment Regulations 2014 r. 3-6 (as amended in Gazette 10 Apr 2015 p. 1256) had not come into operation. They read as follows:
 3.Regulations amended
 These regulations amend the Caravan Parks and Camping Grounds Regulations 1997.
 4.Regulation 4 amended
@@ -30,9 +31,19 @@ road has the meaning given in the Road Traffic (Administration) Act 2008 section
 After regulation 5 insert:
 6A.Assistance animals
 These regulations are subject to any written law and any law of the Commonwealth about assistance animals as defined in the Disability Discrimination Act 1992 (Commonwealth) section 9(2).
-6.Schedule 8 amended
-In Schedule 8 in the definition of number plate delete “Road Traffic Act 1974;” and insert:
+[6.Deleted in Gazette 10 Apr 2015 p. 1256.]
+On the date as at which this compilation was prepared, the Caravan Parks and Camping Grounds Amendment Regulations 2015 Pt. 2 and 3 had not come into operation. They read as follows:
+Part 2 — Caravan Parks and Camping Grounds Regulations 1997 amended
+3.Regulations amended
+This Part amends the Caravan Parks and Camping Grounds Regulations 1997.
+4.Regulation 3 amended
+In regulation 3 in the definition of number plate delete “Road Traffic Act 1974;” and insert:
 Road Traffic (Vehicles) Act 2012 section 3(1);
+Part 3 — Consequential amendment to other regulations
+5.Regulations amended
+This Part amends the Caravan Parks and Camping Grounds Amendment Regulations 2014.
+6.Regulation 6 deleted
+Delete regulation 6.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
