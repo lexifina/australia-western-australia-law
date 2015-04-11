@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 16 January 2015 of the Civil Judgments Enforcement Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Civil Judgments Enforcement Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Civil Judgments Enforcement Regulations 2005 | 28 Apr 2005 p. 1483-559 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7128)
@@ -22,6 +22,7 @@ Civil Judgments Enforcement Amendment Regulations 2012 | 30 Nov 2012 p. 5797-9 |
 Civil Judgments Enforcement Amendment Regulations 2013 | 15 Nov 2013 p. 5253-5 | r. 1 and 2: 15 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Nov 2013 (see r. 2(b))
 Civil Judgments Enforcement Amendment Regulations 2014 | 27 Jun 2014 p. 2334-6 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i))
 Reprint 3: The Civil Judgments Enforcement Regulations 2005 as at 16 Jan 2015 (includes amendments listed above)
+Civil Judgments Enforcement Amendment Regulations 2015 | 10 Apr 2015 p. 1254-5 | r. 1 and 2: 10 Apr 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Apr 2015 (see r. 2(b))
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
 The Companies (Co-operative) Act 1943 was repealed by the Co-operatives Act 2009.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 came into operation on 1 May 2005.

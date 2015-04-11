@@ -42,11 +42,12 @@ Item | Action | Fee $
  | (b)For the balance over $13 500, a fee at the rate of | 2.50%
  | Note 1: If real property is delivered in accordance with a property (seizure and delivery) order made by the Magistrates Court, the maximum amount payable under this item is $282.
 11. | On the execution of an arrest warrant of any kind —
- | (a)for arresting the person | 102.50
- | (b)for conveying the person to a court or a custodial place and releasing the person from arrest or custody | 102.50
+ | (a)for preparing to arrest, and arresting, the person | 102.50
+ | (b)for conveying the person from the place of arrest to appear before a judicial officer in a court, or to a custodial place, and releasing the person from arrest or custody | 102.50
  | (c)for each 30 minutes after 2 hours and 30 minutes that an enforcement officer is required to keep the person in custody until he or she is conveyed to a court or a custodial place | 27.20
  | Note 1: The fee under paragraph (a) is payable whether or not the Sheriff’s functions under the warrant are performed and includes up to 3 attempts to perform the functions at the same address.
  | Note 2: The fee under paragraph (a) includes — (a)receipt of the warrant; and (b)attendances and inquiries before attempting arrest; and (c)giving any notice; and (d)making any report.
+ | Note 3: The fee under paragraph (b) is payable whether or not the place of arrest is the court building or custodial place and whether or not the person is conveyed to a court or a custodial place in a vehicle
 12. | For each half hour or part of a half hour that it is necessary for an enforcement officer to engage an assistant to perform a function —
  | (a)in relation to the execution of an arrest warrant; or
  | (b)in accordance with a property (seizure and delivery) order; or
@@ -63,4 +64,4 @@ Item | Action | Fee $
 19. | Copies of documents —
  | (a)Copies of enforcement orders, for each page | 1.50
  | (b)For certifying that a document is a true copy, an additional fee of | 15.75
-[Schedule 2 amended in Gazette 23 Jun 2006 p. 2176-7; 26 Jun 2007 p. 3038-9; 27 Jun 2008 p. 3074; 23 Dec 2008 p. 5471; 4 Sep 2009 p. 3486-7; 27 Nov 2009 p. 4786; 8 Mar 2011 p. 797; 20 Dec 2011 p. 5394-5; 30 Nov 2012 p. 5798-9; 15 Nov 2013 p. 5254-5; 27 Jun 2014 p. 2335-6.]
+[Schedule 2 amended in Gazette 23 Jun 2006 p. 2176-7; 26 Jun 2007 p. 3038-9; 27 Jun 2008 p. 3074; 23 Dec 2008 p. 5471; 4 Sep 2009 p. 3486-7; 27 Nov 2009 p. 4786; 8 Mar 2011 p. 797; 20 Dec 2011 p. 5394-5; 30 Nov 2012 p. 5798-9; 15 Nov 2013 p. 5254-5; 27 Jun 2014 p. 2335-6; 10 Apr 2015 p. 1254-5.]
