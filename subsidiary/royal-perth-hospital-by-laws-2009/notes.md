@@ -10,6 +10,7 @@ Royal Perth Hospital Amendment By-laws 2012 | 23 Oct 2012 p. 5056 | bl. 1 and 2:
 Royal Perth Hospital Amendment By-laws 2013 | 28 Jun 2013 p. 2751 | bl. 1 and 2: 28 Jun 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2013 (see bl. 2(b))
 Reprint 1: The Royal Perth Hospital By-laws 2009 as at 5 Jul 2013 (includes amendments listed above)
 Royal Perth Hospital Amendment By-laws 2014 | 13 Jun 2014 p. 1871-4 | bl. 1 and 2: 13 Jun 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2014 (see bl. 2(b))
+Royal Perth Hospital Amendment By-laws 2015 | 14 Apr 2015 p. 1347-9 | bl. 1 and 2: 14 Apr 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 15 Apr 2015 (see bl. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
@@ -58,6 +59,7 @@ Defined terms
 Defined termProvision(s)
 alleged offender19
 authorised person3(1)
+board3(1)
 chief executive officer3(1)
 driver3(1)
 Hospital3(1)
@@ -67,6 +69,7 @@ parking facility3(1)
 parking space3(1)
 permission3(2)
 permit3(1)
+prohibited item6(1)
 registered owner3(1)
 roadway3(1)
 sign3(1)
