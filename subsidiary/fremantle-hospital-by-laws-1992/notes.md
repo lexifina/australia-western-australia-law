@@ -16,6 +16,7 @@ Reprint 2: The Fremantle Hospital By-laws 1992 as at 27 Jul 2012 (includes amend
 Fremantle Hospital Amendment By-laws 2012 | 28 Sep 2012 p. 4650-4 | bl. 1 and 2: 28 Sep 2012 (see bl. 2(a)); By-laws other than bl. 1 and 2: 29 Sep 2012 (see bl. 2(b))
 Fremantle Hospital Amendment By-laws 2013 | 28 Jun 2013 p. 2752 | bl. 1 and 2: 28 Jun 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2013 (see bl. 2(b))
 Fremantle Hospital Amendment By-laws (No. 2) 2014 | 13 Jun 2014 p. 1882-5 | bl. 1 and 2: 13 Jun 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2014 (see bl. 2(b))
+Fremantle Hospital Amendment By-laws 2015 | 14 Apr 2015 p. 1334-7 | bl. 1 and 2: 14 Apr 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 15 Apr 2015 (see bl. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
@@ -74,6 +75,7 @@ parking facility3(1)
 parking space3(1)
 permission3(2)
 permit3(1)
+prohibited item6(1)
 registered owner3(1)
 roadway3(1)
 sign3(1)
