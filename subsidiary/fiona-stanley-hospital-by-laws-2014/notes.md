@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Fiona Stanley Hospital By-laws 2014. The following table contains information about those by-laws.
+This is a compilation of the Fiona Stanley Hospital By-laws 2014 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Fiona Stanley Hospital By-laws 2014 | 10 Oct 2014 p. 3701-30 | bl. 1 and 2: 10 Oct 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 11 Oct 2014 (see bl. 2(b))
+Fiona Stanley Hospital Amendment By-laws 2015 | 14 Apr 2015 p. 1331-3 | bl. 1 and 2: 14 Apr 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 15 Apr 2015 (see bl. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
@@ -65,6 +66,7 @@ parking space3(1)
 permission3(2)
 permit parking area20(1)
 prescribed fee3(1)
+prohibited item6(1)
 registered owner3(1)
 roadway3(1)
 sign3(1)
