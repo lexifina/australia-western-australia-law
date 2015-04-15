@@ -7,6 +7,7 @@ Metropolitan Health Service Amendment By-laws 2010 | 26 Nov 2010 p. 5938-47 | bl
 Metropolitan Health Service Amendment By-laws 2011 | 18 Feb 2011 p. 581-3 | bl. 1 and 2: 18 Feb 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 19 Feb 2011 (see bl. 2(b))
 Metropolitan Health Service Amendment By-laws (No. 2) 2011 | 23 Dec 2011 p. 5442-5 | bl. 1 and 2: 23 Dec 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jan 2012 (see bl. 2(b))
 Metropolitan Health Service Amendment By-laws (No. 2) 2014 | 13 Jun 2014 p. 1878-81 | bl. 1 and 2: 13 Jun 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2014 (see bl. 2(b))
+Metropolitan Health Service Amendment By-laws 2015 | 14 Apr 2015 p. 1337-41 | bl. 1 and 2: 14 Apr 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 15 Apr 2015 (see bl. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
@@ -36,17 +37,20 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 alleged offender11
-authorised person3
-chief executive officer3
-driver3
-Hospital3
+authorised person3(1)
+board3(1)
+chief executive officer3(1)
+driver3(1)
+Hospital3(1)
 infringement notice11
 modified penalty11
-parking facility3
-parking space3
-permit3
-registered owner3
-sign3
-site3
-specified8(1), 9(1)
-vehicle3
+parking facility3(1)
+parking space3(1)
+permission3(2)
+permit3(1)
+prohibited item4D(1)
+registered owner3(1)
+sign3(1)
+site3(1)
+specified4C(1), 8(1), 9(1)
+vehicle3(1)
