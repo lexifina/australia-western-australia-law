@@ -12,6 +12,7 @@ Women’s and Children’s Hospitals Amendment By-laws (No. 2) 2011 | 23 Dec 201
 Women’s and Children’s Hospitals Amendment By-laws 2013 | 28 Jun 2013 p. 2750 | bl. 1 and 2: 28 Jun 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2013 (see bl. 2(b))
 Reprint 2: The Women’s and Children’s Hospitals By-laws 2005 as at 7 Mar 2014 (includes amendments listed above)
 Women’s and Children’s Hospitals Amendment By-laws (No. 2) 2014 | 13 Jun 2014 p. 1867-70 | bl. 1 and 2: 13 Jun 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2014 (see bl. 2(b))
+Women’s and Children’s Hospitals Amendment By-laws 2015 | 14 Apr 2015 p. 1352-5 | bl. 1 and 2: 14 Apr 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 15 Apr 2015 (see bl. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
@@ -60,6 +61,7 @@ Defined terms
 Defined termProvision(s)
 alleged offender17
 authorised person2(1)
+board2(1)
 chief executive officer2(1)
 driver2(1)
 Hospital2(1)
@@ -69,6 +71,7 @@ parking facility2(1)
 parking permit2(1)
 parking space2(1)
 permission2(2)
+prohibited item5(1)
 registered owner2(1)
 roadway2(1)
 sign2(1)
