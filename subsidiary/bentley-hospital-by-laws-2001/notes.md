@@ -6,6 +6,7 @@ Bentley Hospital By-laws 2001 | 21 Dec 2001 p. 6521-39 | 21 Dec 2001
 Bentley Hospital Amendment By-laws 2008 | 12 Feb 2008 p. 339-40 | bl. 1 and 2: 12 Feb 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 13 Feb 2008 (see bl. 2(b))
 Bentley Hospital Amendment By-laws 2010 | 26 Nov 2010 p. 5935-6 | bl. 1 and 2: 26 Nov 2010 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jan 2011 (see bl. 2(b))
 Bentley Hospital Amendment By-laws (No. 2) 2014 | 13 Jun 2014 p. 1886-9 | bl. 1 and 2: 13 Jun 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2014 (see bl. 2(b))
+Bentley Hospital Amendment By-laws 2015 | 14 Apr 2015 p. 1328-31 | bl. 1 and 2: 14 Apr 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 15 Apr 2015 (see bl. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
@@ -51,6 +52,7 @@ Defined terms
 Defined termProvision(s)
 alleged offender17
 authorised person2(1)
+board2(1)
 chief executive officer2(1)
 driver2(1)
 infringement notice17
@@ -59,6 +61,7 @@ parking facility2(1)
 parking space2(1)
 permission2(2)
 permit2(1)
+prohibited item5(1)
 registered owner2(1)
 roadway2(1)
 sign2(1)
