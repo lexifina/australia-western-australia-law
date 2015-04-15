@@ -1,8 +1,8 @@
 Notes
-This reprint is a compilation as at 8 November 2013 of the Electricity Regulations 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity Regulations 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
-Electricity Act Regulations 1947 , 5 | 27 Jun 1947 p. 1156-94 | 27 Jun 1947
+Electricity Act Regulations 1947 | 27 Jun 1947 p. 1156-94 | 27 Jun 1947
 Untitled regulations | 11 Jul 1947 p. 1262-4 | 11 Jul 1947
 Untitled regulations | 25 Mar 1948 p. 695-6 | 25 Mar 1948
 Untitled regulations | 7 Sep 1955 p. 2143-56 | 7 Sep 1955
@@ -62,6 +62,7 @@ Electricity Amendment Regulations (No. 3) 2010 | 10 May 2011 p. 1662-6 | r. 1 an
 Electricity Amendment Regulations 2012 | 13 Apr 2012 p. 1647-51 | r. 1 and 2: 13 Apr 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Apr 2012 (see r. 2(b))
 Electricity Amendment Regulations 2013 | 20 Aug 2013 p. 3829 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Reprint 6: The Electricity Regulations 1947 as at 8 Nov 2013 (includes amendments listed above)
+Electricity Amendment Regulations 2015 | 14 Apr 2015 p. 1324 | r. 1 and 2: 14 Apr 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Apr 2015 (see r. 2(b))
 The Electricity (Licensing) Regulations 1991 r. 49 commenced 1 Nov 1991.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Electricity Regulations 1947; citation changed (see note under r. 1).
@@ -85,19 +86,20 @@ approved321
 Australian/New Zealand Wiring Rules2(1)
 commencement day12
 common property12
-conductors 316A(5)(a)
+conductors 316A(5)
 duly constituted authority in another State of the Commonwealth321
 inspection plan242(1A)
 installed12
 network241(2)
-network operator241(1) and (3)
+network operator241(1), 241(3)
 new owner12
 notice of completion242(1A)
 notice of intended demolition12
 occupied by an owner12
-overhead power lines316A(5)(a)
+overhead power lines316A(5)
 post-transfer period,15A(1)
 prior owner12
+prohibited item5(1)
 published specification321
 residential premises12
 residential tenancy agreement12

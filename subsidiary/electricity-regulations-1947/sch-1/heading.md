@@ -12,7 +12,6 @@ s. 33F | Selling or hiring, or exposing or advertising for sale or hire apparatu
 Table 2 — Electricity Regulations 1947 offences
 Provision(s) | Description of offence under Electricity Regulations 1947 | Modified penalty
 For individual | For body corporate
-r. 10 & 340 | Selling or hiring, or exposing or advertising for sale or hire apparatus or installation that does not comply with energy efficiency standards | $1 250 | $5 000
 r. 13 | Owner of residential premises failing to ensure that at least 2 residual current devices are installed before certain events specified in the regulation occur | $1 000 | $4 000
 r. 14 | Owner of residential premises failing to ensure that at least 2 residual current devices are installed | $1 000 | $4 000
 r. 15A | New owner of residential premises failing to ensure that at least 2 residual current devices are installed | $1 000 | $4 000
@@ -77,4 +76,4 @@ r. 33(3)(a) | Failing to keep records at nominated address |  | $20 000
 r. 33(4) | Failing to keep record for 5 years |  | $20 000
 r. 35(1) | Failing to notify Director within required time of incident or event resulting in serious injury or serious damage |  | $20 000
 r. 36(2) | Failing to give Director within required time report of notifiable incident |  | $20 000
-[Schedule 1 inserted in Gazette 31 Dec 2010 p. 6888-92; amended in Gazette 13 Apr 2012 p. 1649-51.]
+[Schedule 1 inserted in Gazette 31 Dec 2010 p. 6888-92; amended in Gazette 13 Apr 2012 p. 1649-51; 14 Apr 2015 p. 1324.]
