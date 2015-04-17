@@ -6,4 +6,4 @@ WHEREAS The Bank of Adelaide became a wholly owned subsidiary of the Australia a
 AND WHEREAS The Bank of Adelaide Savings Bank Limited is a wholly owned subsidiary of The Bank of Adelaide and Australia and New Zealand Savings Bank Limited is a wholly owned subsidiary of Australia and New Zealand Banking Group Limited:
 AND WHEREAS it is expedient in the interests of efficiency in banking that the banking business conducted by The Bank of Adelaide should be transferred to Australia and New Zealand Banking Group Limited and the banking business conducted by The Bank of Adelaide Savings Bank Limited should be transferred to the Australia and New Zealand Savings Bank Limited:
 AND WHEREAS it is expedient that the transfers be effected by Act of the Parliament:
-[Preamble amended by No. 19 of 2010 s. 50.]
+[Preamble amended: No. 19 of 2010 s. 50.]
