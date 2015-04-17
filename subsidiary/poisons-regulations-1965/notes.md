@@ -168,6 +168,10 @@ Poisons Amendment Regulations (No. 2) 2014 | 20 May 2014 p. 1598-9 | r. 1 and 2:
 Poisons Amendment Regulations (No. 5) 2014 | 12 Dec 2014 p. 4714-15 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
 Poisons Amendment Regulations (No. 4) 2014 | 16 Dec 2014 p. 4759-60 | r. 1 and 2: 16 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Dec 2014 (see r. 2(b))
 Poisons Amendment Regulations 2015 | 20 Mar 2015 p. 906-10 | r. 1 and 2: 20 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Mar 2015 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Poisons Amendment Regulations (No. 2) 2015 r. 3 and 4 | 17 Apr 2015 p. 1376-7 | 1 Jul 2015 (see r. 2(b)(ii) and Gazette 10 Apr 2015 p. 1249)
 Formerly referred to the Health Services (Conciliation and Review) Act 1995, the short title of which was changed to the Health and Disability Services (Complaints) Act 1995 by the Health and Disability Services Legislation Amendment Act 2010 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Repealed by the Navigation (Consequential Amendments) Act 2012 Sch. 1 (Cwlth). Now see the Navigation Act 2012 (Cwlth).
@@ -186,6 +190,14 @@ The Poisons Amendment Regulations 2012 r. 45(2) to amend r. 56(2)(b) is not incl
 The Mental Health Amendment (Psychiatrists) Act 2012 s. 8 reads as follows:
 8.Power to amend or repeal unaffected
 The amendment of an instrument by section 6 or 7 does not prevent that instrument from being amended or repealed by subsequent instrument.
+On the date as at which this compilation was prepared, the Poisons Amendment Regulations (No. 2) 2015 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Poisons Regulations 1965.
+4.Regulation 51A amended
+In regulation 51A(1) delete the definition of Policies Manual and insert:
+Policies Manual means —
+(a)the “Clinical policies and procedures for the use of methadone and buprenorphine in the treatment of opioid dependence” published from time to time by the department of the Public Service principally assisting in the administration of the Alcohol and Other Drugs Act 1974; or
+(b)until that department first publishes the policies and procedures referred to in paragraph (a) — the “Clinical policies and procedures for the use of methadone and buprenorphine in the treatment of opioid dependence” last published by the Drug and Alcohol Office Western Australia before the day on which the Alcohol and Drug Authority Amendment Act 2015 section 8 comes into operation;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
