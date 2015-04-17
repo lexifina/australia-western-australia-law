@@ -1,6 +1,6 @@
 ## Schedule — Land exempt from section 2(2)
 [s. 2]
-[Heading inserted by No. 19 of 2010 s. 33(3).]
+[Heading inserted: No. 19 of 2010 s. 33(3).]
 Swan location 1797, the subject of Certificate of Title, Volume 264, Folio 116.
 Portion of Swan location 2267, the subject of Certificate of Title, Volume 446, Folio 134.
 Swan location 2266, being the balance of the land, subject of Certificate of Title registered Volume 365, Folio 67.
