@@ -30,10 +30,10 @@ Transport Co-ordination Amendment Regulations (No. 2) 2014 | 13 Jun 2014 p. 1903
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Transport Co ordination Amendment Regulations 2014 r. 3-5 | 8 Jan 2015 p. 69-71 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
+Transport Co ordination Amendment Regulations 2014 r. 3-5 | 8 Jan 2015 p. 69-71 (as amended in Gazette 17 Apr 2015 p. 1388) | 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2), a reference in a written law to the clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the registrar of the Magistrates Court. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
-On the date as at which this compilation was prepared, the Transport Co-ordination Amendment Regulations 2014 r. 3-5 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Transport Co-ordination Amendment Regulations 2014 r. 3-5 (as amended in Gazette 17 Apr 2015 p. 1388) had not come into operation. They read as follows:
 3.Regulations amended
 These regulations amend the Transport Co-ordination Regulations 1985.
 4.Regulation 10 amended
@@ -54,8 +54,9 @@ Road Traffic (Vehicles) Act 2012
 Road Traffic (Vehicles) Act 2012
 (b) delete “licensed in accordance with the provisions of the Road Traffic Act 1974, as amended from time to time.” and insert:
 under the Road Traffic (Vehicles) Act 2012.
-(5) In Schedule 2 Form 13 delete “Road Traffic Act” and insert:
+(5) In Schedule 2 Form 14 delete “Road Traffic Act” and insert:
 Road Traffic (Vehicles) Act 2012
+[Regulation 5 amended in Gazette 15 Apr 2015 p. 1388.]
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
