@@ -124,13 +124,13 @@ Cause of death | Was a post mortem performed? No Yes.Give details of results ___
 Clinical observations | Do you know, or have reason to suspect, that the deceased’s death was directly or indirectly due to any of the following? (tick or circle if yes) violence poison privation or neglect medical procedure drowning suffocation burns
  | In view of the deceased’s lifestyle and health, do you have any doubts about the character of the deceased’s illness or cause of death? No Yes.Give details _________________________________
 Safety of cremation | At the time of death was the deceased fitted with a cardiac pacemaker, defibrillator or other battery operated implant or device? No/Not known Yes.Has it been removed?YesNo
- | Had the deceased received any of the following radioactive treatments? Palliation for bone metastases ●Strontium-89 injection during the 12 months prior to death NoYes* ●Radium-232 injection during the 2 months prior to death NoYes* ●Samarium-153 injection during the 3 weeks prior to death NoYes* ●Rhenium-188 injection during the week prior to death NoYes* Infusion for liver cancer or metastases ●Yttrium-90 or Rhenium-188 during the 2 weeks prior to death NoYes* Therapy for thyroid cancer, endocrine tumours, or non-Hodgkin’s lymphoma ●Iodine-131 (injection or oral) during the week prior to death NoYes*
+ | Had the deceased received any of the following radioactive treatments? Palliation for bone metastases ●Strontium-89 injection during the 12 months prior to death NoYes* ●Radium-223 injection during the 2 months prior to death NoYes* ●Samarium-153 injection during the 3 weeks prior to death NoYes* ●Rhenium-188 injection during the week prior to death NoYes* Infusion for liver cancer or metastases ●Yttrium-90 or Rhenium-188 during the 2 weeks prior to death NoYes* Therapy for thyroid cancer, endocrine tumours, or non-Hodgkin’s lymphoma ●Iodine-131 (injection or oral) during the week prior to death NoYes*
  | Radioactive implant (permanent) e.g. for prostate cancer ●Iodine-125 seed implant during the 12 months prior to death NoYes* * If yes — contact the Radiation Safety Officer/Physicist at the treating institution for provision of required information to the crematorium.
  | Are you aware of anything else that could render cremation unsafe? No YesGive details __________________________________
 Certification of medical practitioner | I certify that the information set out above is true and correct and that I have not omitted any relevant information.
 Signature
 Date / /20
-[Form 7 inserted in Gazette 29 Jun 2012 p. 2945-9; amended in Gazette 25 Feb 2014 p. 497-8.]
+[Form 7 inserted in Gazette 29 Jun 2012 p. 2945-9; amended in Gazette 25 Feb 2014 p. 497-8; 21 Apr 2015 p. 1424.]
 Form 8
 Western Australia
 Cremation Act 1929

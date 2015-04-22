@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 December 2014 of the Cremation Regulations 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Cremation Regulations 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Cremation Regulations 1954 | 20 Aug 1954 p. 1441-9 | 6 Sep 1954 (see r. 2)
@@ -26,6 +26,7 @@ Cremation Amendment Regulations 2013 | 8 Feb 2013 p. 865-6 | r. 1 and 2: 8 Feb 2
 Cremation Amendment Regulations (No. 2) 2013 | 9 Apr 2013 p. 1521 | r. 1 and 2: 9 Apr 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Apr 2013 (see r. 2(b))
 Cremation Amendment Regulations 2014 | 25 Feb 2014 p. 497-8 | r. 1 and 2: 25 Feb 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2014 (see r. 2(b))
 Reprint 4: The Cremation Regulations 1954 as at 5 Dec 2014 (includes amendments listed above)
+Cremation Amendment Regulations 2015 | 21 Apr 2015 p. 1424 | r. 1 and 2: 21 Apr 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Apr 2015 (see r. 2(b))
 Repealed by the Cemeteries Act 1986.
 Repealed by the Associations Incorporation Act 1987.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deems the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
