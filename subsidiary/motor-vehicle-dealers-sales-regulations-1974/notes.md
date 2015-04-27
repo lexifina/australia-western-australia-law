@@ -25,16 +25,7 @@ Motor Vehicle Dealers (Sales) Amendment Regulations (No. 2) 2002 | 30 Aug 2002 p
 Motor Vehicle Dealers (Sales) Amendment Regulations 2006 | 17 Nov 2006 p. 4750-9 | 1 Jan 2007 (see r. 2)
 Reprint 3: The Motor Vehicle Dealers (Sales) Regulations 1974 as at 16 Feb 2007 (includes amendments listed above)
 Motor Vehicle Dealers (Sales) Amendment Regulations (No. 2) 2011 | 30 Jun 2011 p. 2659-60 | r. 1 and 2: 30 Jun 2011 (see r. 1(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Motor Vehicle Dealers (Sales) Amendment Regulations 2014 r. 3 and 4 | 8 Jan 2015 p. 89 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
-On the date as at which this compilation was prepared, the Motor Vehicle Dealers (Sales) Amendment Regulations 2014 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Motor Vehicle Dealers (Sales) Regulations 1974.
-4.Schedule 1 amended
-In Schedule 1 Forms 4 and 6 delete “Road Traffic Act 1974,” and insert:
-Road Traffic (Vehicles) Act 2012,
+Motor Vehicle Dealers (Sales) Amendment Regulations 2014 | 8 Jan 2015 p. 89 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
