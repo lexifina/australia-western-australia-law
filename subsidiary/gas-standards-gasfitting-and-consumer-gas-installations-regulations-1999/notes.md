@@ -29,22 +29,7 @@ Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2013 | 27 Jun 2013 p. 2711-12 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2014 | 17 Jun 2014 p. 1966-7 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 3) 2014 | 12 Dec 2014 p. 4711-12 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 2014 r. 3-5 | 8 Jan 2015 p. 99-100 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
-The Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2000 r. 16 is a transitional provision that is of no further effect.
-On the date as at which this compilation was prepared, the Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 2014 r. 3-5 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999.
-4.Regulation 3 amended
-In regulation 3(1) delete the definition of caravan and insert:
-caravan means a structure designed or adapted to be towed or transported from one place to another and intended for human habitation or use as a workplace and includes the following —
-(a)a self-propelled recreational vehicle or mobile home;
-(b)an associated annex or similar structure whether permanently or temporarily attached to or adjoining the main part of the structure;
-5.Schedule 5 amended
-In Schedule 5 in the item relating to Class P delete “section 5 of the Road Traffic Act 1974.” and insert:
-the Road Traffic (Administration) Act 2008 section 4.
+Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 2014 | 8 Jan 2015 p. 99-100 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
