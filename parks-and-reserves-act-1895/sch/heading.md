@@ -1,6 +1,6 @@
 ## Schedule — Form of certificate of authority
 [s. 7B]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 CERTIFICATE OF AUTHORITY
 This is to certify that...............................................................................................
 .........................................................................................................................is an
@@ -15,4 +15,4 @@ Signed.............................................
 For and on behalf of the Board.
 .........................................................
 (Signature of holder)
-[Schedule inserted by No. 50 of 1978 s. 11.]
+[Schedule inserted: No. 50 of 1978 s. 11.]
