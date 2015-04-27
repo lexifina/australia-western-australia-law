@@ -16,27 +16,8 @@ Perth Market Amendment By-laws 2004 | 21 Sep 2004 p. 4103-6 | 21 Sep 2004
 Perth Market Amendment By-laws 2008 | 10 Oct 2008 p. 4539-42 | bl. 1 and 2: 10 Oct 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 11 Oct 2008 (see bl. 2(b))
 Reprint 2: The Perth Market By-laws 1990 as at 6 Feb 2009 (includes amendments listed above)
 Perth Market Amendment By-laws 2010 | 31 May 2011 p. 1959-64 | bl. 1 and 2: 31 May 2011 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jun 2011 (see bl. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Perth Market Amendment By-laws 2014 bl. 3-6 | 8 Jan 2015 p. 73-4 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see bl. 2(b))
+Perth Market Amendment By-laws 2014 | 8 Jan 2015 p. 73-4 | bl. 1 and 2: 8 Jan 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Apr 2015 (see bl. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court. The reference was amended under the Reprints Act 1984 s. 7(5)(a).
-On the date as at which this compilation was prepared, the Perth Market Amendment By-laws 2014 bl. 3-6 had not come into operation. They read as follows:
-3.By-laws amended
-These by-laws amend the Perth Market By-laws 1990.
-4.By-law 36A amended
-In by-law 36A(2) delete “granted under the Road Traffic Act 1974,” and insert:
-as defined in the Road Traffic (Authorisation to Drive) Act 2008 section 3(1),
-5.By-law 42A amended
-(1) In by-law 42A delete “(5) A” and insert:
-(4) A
-(2) In by-law 42A delete “(6) The” and insert:
-(5) The
-(3) In by-law 42A delete “(7) A” and insert:
-(6) A
-6.By-law 42B amended
-In by-law 42B(2)(a) delete “as issued under the Road Traffic Act 1974;” and insert:
-under the Road Traffic (Authorisation to Drive) Act 2008;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
