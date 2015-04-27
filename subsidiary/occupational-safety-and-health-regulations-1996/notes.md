@@ -83,10 +83,7 @@ Occupational Safety and Health Amendment Regulations (No. 2) 2013 | 14 Jun 2013 
 Occupational Safety and Health Amendment Regulations (No. 3) 2013 | 27 Jun 2013 p. 2693-6 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 4) 2013 | 21 Jan 2014 p. 84-5 | r. 1 and 2: 21 Jan 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jan 2014 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 2) 2014 | 17 Jun 2014 p. 1973-5 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Occupational Safety and Health Amendment Regulations 2014 r. 3 and 4 | 8 Jan 2015 p. 101-2 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
+Occupational Safety and Health Amendment Regulations 2014 | 8 Jan 2015 p. 101-2 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 The Industrial Relations Act 1988 (Cwlth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 Repealed by the Building Act 2011.
 Repealed by the Work Health and Safety (Transitional and Consequential Provisions) Act 2011 (Cwlth).
@@ -97,28 +94,6 @@ The amendment to r. 5.46 in the Occupational Safety and Health Amendment Regulat
 In regulation 5.46(1):
 (b) in paragraph (a) delete “every person employed to do asbestos removal work; and” and insert:
 any person employed or otherwise engaged to do work involving friable asbestos-containing material; and
-On the date as at which this compilation was prepared, the Occupational Safety and Health Amendment Regulations 2014 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Occupational Safety and Health Regulations 1996.
-4.Regulation 3.130 amended
-(1) In regulation 3.130 insert in alphabetical order:
-GVM has the meaning given in the Road Traffic (Vehicles) Act 2012 section 3(1);
-motor vehicle has the meaning given in the Road Traffic (Vehicles) Regulations 2014 regulation 3;
-(2) In regulation 3.130 in the definition of commercial vehicle:
-(a) in paragraph (b) delete “Road Traffic (Vehicle Standards) Regulations 2002; or” and insert:
-Road Traffic (Vehicles) Regulations 2014 regulation 226; or
-(b) delete paragraph (c) and insert:
-(c)any mobile plant or motor vehicle with a GVM over 4.5 tonnes that is designed to carry, or is carrying, a large integrated item of equipment; or
-(c) in paragraph (d) delete “4.5 tonnes, within the meaning of those terms in the Road Traffic (Vehicle Standards) Regulations 2002” and insert:
-4.5 tonnes
-warehouse operator5.1(1)
-welding1.3, 3.94
-wet abrasive blasting1.3, 3.102
-work box4.1
-work that the person was authorised to do7.9(1)
-work time3.130
-worker6.2(3)
-workplace3.60(2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
