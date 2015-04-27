@@ -26,10 +26,7 @@ State Administrative Tribunal Amendment Regulations (No. 2) 2013 | 14 Jan 2014 p
 State Administrative Tribunal Amendment Regulations (No. 5) 2013 | 8 Apr 2014 p. 920-1 | r. 1 and 2: 8 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Apr 2014 (see r. 2(b))
 State Administrative Tribunal Amendment Regulations (No. 4) 2014 | 27 Jun 2014 p. 2345-6 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i))
 Reprint 4: The State Administrative Tribunal Regulations 2004 as at 21 Nov 2014 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-State Administrative Tribunal Amendment Regulations 2015 r. 3 and 4 | 10 Feb 2015 p. 623 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
+State Administrative Tribunal Amendment Regulations 2015 | 10 Feb 2015 p. 623 | r. 1 and 2: 10 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.
 Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 683.
@@ -41,12 +38,6 @@ Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendme
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Fair Trading (Retirement Villages Interim Code) Regulations 2013. Now see the Fair Trading (Retirement Villages Interim Code) Regulations (No. 2) 2014 Sch. 1 cl. 5.8(2).
 The amendment to r. 9(3) in the State Administrative Tribunal Amendment Regulations (No. 4) 2013 r. 4 is not included because the subregulation it sought to amend had been deleted by the State Administrative Tribunal Amendment Regulations 2013 r. 6(3) before the amendment purported to come into operation.
-On the date as at which this compilation was prepared, the State Administrative Tribunal Amendment Regulations 2015 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the State Administrative Tribunal Regulations 2004.
-4.Schedule 6 amended
-In Schedule 6 delete the item commencing with “Road Traffic Act 1974” and insert:
-Road Traffic (Administration) Regulations 2014 r. 32(1) or 33(2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
