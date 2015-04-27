@@ -44,7 +44,8 @@ Approvals and Related Reforms (No. 3) (Crown Land) Act 2010 Pt. 5 | 8 of 2010 | 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 8 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
-Reprint 6: The Land Administration Act 1997 as at 16 Nov 2012 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 27 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
+Reprint 6: The Land Administration Act 1997 as at 16 Nov 2012 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 90, Commercial Arbitration Act 2012 s. 45 it. 11; Water Services Legislation Amendment and Repeal Act 2012 s. 220 and the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 27)
 Commercial Arbitration Act 2012 s. 45 it. 11 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Water Services Legislation Amendment and Repeal Act 2012 s. 220 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
@@ -52,7 +53,6 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 27 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 16 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 4.Section 6A inserted
@@ -373,16 +373,6 @@ commencement day means the day on which the State Administrative Tribunal (Confe
 (a) the Act section 167(4)(b) does not apply; and
 (b) the matter is to continue to be dealt with as if the written law applicable to the matter in force immediately before the commencement day continued to apply.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 27 had not come into operation. It reads as follows:
-Division 27 — Land Administration Act 1997 amended
-116.Act amended
-This Division amends the Land Administration Act 1997.
-117.Section 61 amended
-In section 61(2)(a):
-(a) delete “the Road Traffic Act 1974” and insert:
-a road law as defined in the Road Traffic (Administration) Act 2008 section 4
-(b) delete “within the meaning of that Act; and” and insert:
-as defined in that section; and
 On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 16 had not come into operation. It reads as follows:
 Part 4 — Amendments to other Acts
 Division 4 — Other Acts amended
@@ -392,44 +382,6 @@ This Subdivision amends the Land Administration Act 1997.
 71.Section 21 amended
 In section 21(2)(b) delete “is suffering from a mental disorder or mental illness, or is an intellectually handicapped person, within the meaning of the Mental Health Act 1962,” and insert:
 has a mental disability as defined in the Guardianship and Administration Act 1990 section 3(1),
-remuneration3(1)
-repealed Act3(1)
-repealed legislationSch. 2 cl. 30(2)
-reservation3(1)
-reserve3(1)
-respondent35(1)
-responsible personSch. 2 cl. 45(1)
-return date113(1)
-road3(1)
-scheme3(1)
-second Act200(2)
-small portion176(1)(b)
-soil conservation notice93
-special Act151(1)
-specified purpose144(4)
-specified use75(1)
-State instrumentality3(1)
-status order3(1), Sch. 2 cl. 1(2)
-stock3(1), 108(6), 111(7), 113(4)
-structure267(1)
-subject Crown land63
-subject land16(7), 52(1)
-subsidiary certificate of Crown land title3(1)
-survey mark268(3)
-take151(1)
-taken151(1)
-taker87(3)(c)
-taking151(1)
-taking order151(1)
-TLA3(1)
-townsite3(1), 26(1)
-transitional period3(1)
-trustee261(3)
-unallocated Crown land3(1)
-unauthorised structure270(1)
-unmanaged reserve3(1)
-war service landSch. 2 cl. 30(2)
-work151(1)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

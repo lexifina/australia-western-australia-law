@@ -18,14 +18,14 @@ Reprint 2: The Planning and Development Act 2005 as at 18 Feb 2011 (includes ame
 Heritage and Planning Legislation Amendment Act 2011 Pt. 3 | 4 of 2011 | 2 Mar 2011 | 3 Mar 2011 (see s. 2(b))
 Building Act 2011 s. 168 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Metropolitan Redevelopment Authority Act 2011 s. 141 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 41 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Commercial Arbitration Act 2012 s. 45 it. 16 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Water Services Legislation Amendment and Repeal Act 2012 s. 222 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
-Reprint 3: The Planning and Development Act 2005 as at 1 Mar 2013 (includes amendments listed above except those in the Commercial Arbitration Act 2012 and the Water Services Legislation Amendment and Repeal Act 2012)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Reprint 3: The Planning and Development Act 2005 as at 1 Mar 2013 (includes amendments listed above except those in the Commercial Arbitration Act 2012, Water Services Legislation Amendment and Repeal Act 2012 and the Road Traffic Legislation Amendment Act 2012)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 41 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Repealed by the Land Administration Act 1997.
 Repealed by the Water Resources Legislation Amendment Act 2007.
 Repealed by the Mining Act 1978.
@@ -176,13 +176,7 @@ Any approval of the Commission endorsed on a diagram or plan of survey of a stag
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
 Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
 The Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 56(4) is a transitional provision that is of no further effect.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 41 had not come into operation. It reads as follows:
-Division 41 — Planning and Development Act 2005 amended
-160.Act amended
-This Division amends the Planning and Development Act 2005.
-161.Section 4 amended
-In section 4(1) in the definition of road delete “Road Traffic Act 1974)” and insert:
-Road Traffic (Administration) Act 2008 section 4)
+Footnote no longer applicable.
 Under the Local Government Act 1995 sections 2.4(2) and 2.3, the Shire of Roebourne is declared to be a city and is named the City of Karratha as at 1 Jul 2014 (see Gazette 3 Jun 2014 p. 1746).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

@@ -165,12 +165,13 @@ Reprint 16: The Criminal Code Act Compilation Act 1913 as at 15 Oct 2010 (includ
 Criminal Code Amendment (Infringement Notices) Act 2011 | 10 of 2011 | 2 May 2011 | s. 1 and 2: 2 May 2011 (see s. 2(a)); Act other than s. 1 and 2: 4 Mar 2015 (see s. 2(b) and Gazette 3 Mar 2015 p. 783)
 Electronic Transactions Act 2011 s. 25 and 26 | 46 of 2011 | 25 Oct 2011 | s. 25: 1 Aug 2012 (see s. 2(c) and Gazette 31 Jul 2012 p. 3683); s. 26: 1 Aug 2012 (see s. 2(b)(i) and Gazette 31 Jul 2012 p. 3683)
 Manslaughter Legislation Amendment Act 2011 Pt. 2 | 58 of 2011 | 30 Nov 2011 | 17 Mar 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1245)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 6 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 4 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 3 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Criminal Organisations Control Act 2012 s. 173 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
 Criminal Law Amendment (Out-of-Control Gatherings) Act 2012 Pt. 2 | 56 of 2012 | 6 Dec 2012 | 15 Dec 2012 (see s. 2(b) and Gazette 14 Dec 2012 p. 6196)
-Reprint 17: The Criminal Code Act Compilation Act 1913 as at 1 Mar 2013 (includes amendments listed above except those in the Criminal Organisations Control Act 2012 and the Criminal Code Amendment (Infringement Notices) Act 2011)
+Reprint 17: The Criminal Code Act Compilation Act 1913 as at 1 Mar 2013 (includes amendments listed above except those in the Criminal Organisations Control Act 2012, Criminal Code Amendment (Infringement Notices) Act 2011 and the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50)
 Criminal Code Amendment Act 2013 | 12 of 2013 | 4 Oct 2013 | s. 1 and 2: 4 Oct 2013 (see s. 2(a)); Act other than s. 1 and 2: 5 Oct 2013 (see s. 2(b))
 Criminal Code Amendment (Child Sex Offences) Act 2014 | 5 of 2014 | 22 Apr 2014 | s. 1 and 2: 22 Apr 2014 (see s. 2(a)); Act other than s. 1 and 2: 23 Apr 2014 (see s. 2(b))
 Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 2 | 11 of 2014 | 24 Jun 2014 | 13 Aug 2014 (see s. 2(b) and Gazette 12 Aug 2014 p. 2889)
@@ -178,7 +179,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 7 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
@@ -218,19 +218,6 @@ On the date as at which this reprint was prepared, the Prostitution Amendment Ac
 (4) Section 557K(1) paragraph (h) of the definition of child sex offender is amended by deleting “Prostitution Act 2000” and inserting instead —
 “ Sexual Services Act 2000 ”.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 50 had not come into operation. It reads as follows:
-Division 50 — The Criminal Code amended
-182.Act amended
-This Division amends The Criminal Code.
-183.Section 1 amended
-In section 1(1) in the definition of motor vehicle delete “Road Traffic Act 1974;” and insert:
-Road Traffic (Administration) Act 2008 section 4;
-184.Section 297 amended
-Delete section 297(4)(c)(iii) and insert:
-(iii) a taxi as defined in the Taxi Act 1994 section 3(1) or an omnibus as defined in the Transport Co-ordination Act 1966 section 4(1);
-185.Section 318 amended
-Delete section 318(1)(g)(iii) and insert:
-(iii) a taxi as defined in the Taxi Act 1994 section 3(1) or an omnibus as defined in the Transport Co-ordination Act 1966 section 4(1);
 On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 7 had not come into operation. It reads as follows:
 Part 4 — Amendments to other Acts
 Division 4 — Other Acts amended

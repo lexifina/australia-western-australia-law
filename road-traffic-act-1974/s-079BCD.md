@@ -3,7 +3,7 @@
 (a) under section 79BA a surrender notice is given to a person responsible for a vehicle (vehicle A) the driver of which (the alleged offender) is suspected of having committed an offence (the offence); and
 (b) under section 79BCC the surrender notice is cancelled before vehicle A is impounded under section 79BB; and
 (c) the alleged offender is a responsible person for one or more other vehicles.
-(2) If this section applies, a member of the Police Force may give the alleged offender, personally or by registered post, a notice in accordance with this section (a surrender alternative vehicle notice).
+(2) If this section applies, a police officer may give the alleged offender, personally or by registered post, a notice in accordance with this section (a surrender alternative vehicle notice).
 (3) The surrender alternative vehicle notice cannot be given after 28 days after the date on which the surrender notice was cancelled.
 (4) The surrender alternative vehicle notice must contain a statement to the effect that, because vehicle A will not be impounded, a vehicle for which the alleged offender is a responsible person (the alternative vehicle) is required to be surrendered to the Commissioner for impounding instead of vehicle A.
 (5) The surrender alternative vehicle notice must specify the following —
@@ -22,5 +22,5 @@
 (a) a statement to the effect that this Division contains law about the notice and the impounding of the vehicle; and
 (b) a statement as to the effect of section 79BCE(5); and
 (c) a statement to the effect that failure to comply with the notice will result in the vehicle being impounded by operation of section 79BCE(2).
-(7) If the alleged offender is a responsible person for 2 or more other vehicles, the surrender alternative vehicle notice must specify only one of them as the alternative vehicle, being the one decided by the member of the Police Force issuing the notice.
-[Section 79BCD inserted by No. 20 of 2010 s. 6.]
+(7) If the alleged offender is a responsible person for 2 or more other vehicles, the surrender alternative vehicle notice must specify only one of them as the alternative vehicle, being the one decided by the police officer issuing the notice.
+[Section 79BCD inserted by No. 20 of 2010 s. 6; amended by No. 8 of 2012 s. 37.]

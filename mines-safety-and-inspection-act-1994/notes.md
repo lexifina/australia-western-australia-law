@@ -28,11 +28,11 @@ Rail Safety Act 2010 Pt. 11 Div. 2 | 18 of 2010 | 28 Jun 2010 | 1 Feb 2011 (see 
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 5: The Mines Safety and Inspection Act 1994 as at 4 Feb 2011 (includes amendments listed above)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 33 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 3 | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 33 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Mines Safety and Inspection Amendment Act 2014 Pt. 2 | 33 of 2014 | 3 Dec 2014 | To be proclaimed (see s. 2(b))
 The Industrial Relations Act 1988 (Commonwealth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 The amendment in the Coroners Act 1996 Sch. 1 it. 11 is not included because of an error in the reference to the provision to be amended. The amendment intended was made in the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 51.
@@ -67,13 +67,7 @@ The Mines Safety and Inspection Amendment Act 2004 s. 85(2) reads as follows:
 (2) An appeal brought under section 52 of the Mines Safety and Inspection Act 1994 but not finally determined before the commencement of subsection (1), may be dealt with and determined under that section as if subsection (1) had not been enacted.
 The Mines Safety and Inspection Amendment Act 2004 s. 86(2) reads as follows:
 (2) An appeal brought under section 86 of the Mines Safety and Inspection Act 1994 but not finally determined before the commencement of subsection (1), may be dealt with and determined under that section as if subsection (1) had not been enacted.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 33 had not come into operation. It reads as follows:
-Division 33 — Mines Safety and Inspection Act 1994 amended
-133.Act amended
-This Division amends the Mines Safety and Inspection Act 1994.
-134.Section 4 amended
-In section 4(1) in the definition of mining operations paragraph (ea) delete “Road Traffic Act 1974; and” and insert:
-Road Traffic (Administration) Act 2008 section 4; and
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Mines Safety and Inspection Amendment Act 2014 Pt. 2 had not come into operation. It reads as follows:
 Part 2 — Mines Safety and Inspection Act 1994 amended
 3.Act amended
@@ -139,48 +133,6 @@ Table
 Provision | Provision
 s. 21(3) | s. 30(1)
 s. 31AB | s. 31AH(1)
-relevant parties67E(1)
-relevant procedure70(2)
-relevant provision33A(1)
-repealed Acts4(1)
-residential premises15D(1)
-review notice31BN(1)
-reviewable decision102AA(1)
-rise4(1)
-risk4(1)
-rock4(1)
-safety and health committee4(1)
-safety and health magistrate4(1)
-safety and health representative4(1), 25(1a), 70(2), 72(2aa)
-safety and health representative for a mine62A(2)
-safety and health representative for the mine62A(2), 77(3)
-safety and health representative of that mine21(5a)
-scheme55B(2)
-self-employed person4(1)
-senior inspector4(1)
-shaft4(1)
-special inspector4(1)
-specified6A(1), 101H(1), 104(3)
-specified mine101H(1)
-State coal mining engineer4(1)
-State mining engineer4(1)
-superior officer99A(1)
-supervisor4(1)
-supply4(1)
-the mine53(4)
-to mine4(1)
-trade union4(1)
-Tribunal4(1)
-tunnel4(1)
-underground4(1)
-underground manager4(1)
-underground superintendent4(1)
-visitor102A(2)(a)
-winding engine4(1)
-winze4(1)
-worker15B(1)(a), 15C(1)
-workmen’s inspector4(1)
-workplace4(1), 6A(1)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

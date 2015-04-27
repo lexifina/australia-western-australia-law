@@ -54,12 +54,12 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Building Act 2011 s. 166 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
  | Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
  | Local Government Amendment Act 2012 Pt. 2 | 2 of 2012 | 4 Apr 2012 | Pt. 2 other than s. 13-18: 21 Apr 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695); s. 13: 1 Jul 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695); s. 14-18: 1 Jul 2013 (see s. 2(b) and Gazette 8 Feb 2013 p. 863)
- | Reprint 6: The Local Government Act 1995 as at 3 Aug 2012 (includes amendments listed above except those in the Co-operatives Act 2009 s. 516 and the Local Government Amendment Act 2012 s. 14-18) (correction in Gazette 7 Sep 2012 p. 4329 and 28 Mar 2013 p. 1317)
+ | Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 29 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
+ | Reprint 6: The Local Government Act 1995 as at 3 Aug 2012 (includes amendments listed above except those in the Co-operatives Act 2009 s. 516, Local Government Amendment Act 2012 s. 14-18 (correction in Gazette 7 Sep 2012 p. 4329 and 28 Mar 2013 p. 1317) and the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 29)
  | Commercial Arbitration Act 2012 s. 45 it. 12 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 29 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 35 | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
@@ -226,24 +226,7 @@ the LG Act means the Local Government Act 1995.
 (2) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.77 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.77.
 (3) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.78 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.78.
 References to the Executive Director were replaced by references to the Departmental CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
-Footnote no longer applicable.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 29 had not come into operation. It reads as follows:
-Division 29 — Local Government Act 1995 amended
-120.Act amended
-This Division amends the Local Government Act 1995.
-121.Section 3.38 amended
-In section 3.38 in the definition of vehicle delete “Road Traffic Act 1974” and insert:
-Road Traffic (Vehicles) Act 2012
-122.Section 3.40 amended
-In section 3.40(3) delete “Road Traffic Act 1974” and insert:
-Road Traffic (Vehicles) Act 2012
-123.Section 9.13 amended
-In section 9.13(1) in the definition of owner delete “who holds the licence for the vehicle that is required under the Road Traffic Act 1974 or, if the vehicle is not licensed under that Act,” and insert:
-to whom a licence in respect of the vehicle has been granted under the Road Traffic (Vehicles) Act 2012, or, if there is not such a person,
-124.Section 9.15 amended
-In section 9.15 in the definition of owner delete “who holds the licence for the vehicle that is required under the Road Traffic Act 1974 or, if the vehicle is not licensed under that Act,” and insert:
-to whom a licence in respect of the vehicle has been granted under the Road Traffic (Vehicles) Act 2012, or, if there is not such a person,
+27-29Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 35 had not come into operation. It reads as follows:
 35.Local Government Act 1995 amended
 (1) This section amends the Local Government Act 1995.

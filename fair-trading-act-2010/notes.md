@@ -6,6 +6,7 @@ Fair Trading Act 2010 | 57 of 2010 | 8 Dec 2010 | s. 1 and 2: 8 Dec 2010 (see s.
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 23, 29, 61, 64 75 and 86 | 24 of 2007 (as amended by No. 58 of 2010 s. 192(2)-(6) and (8)) | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Acts Amendment (Fair Trading) Act 2010 Pt. 2 | 58 of 2010 | 8 Dec 2010 | 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
 Reprint 1: The Fair Trading Act 2010 as at 3 Feb 2012 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 21 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Fair Trading Amendment Act 2013 | 11 of 2013 | 4 Oct 2013 | s. 1 and 2: 4 Oct 2013 (see s. 2(a)); Act other than s. 1 and 2: 30 Nov 2013 (see s. 2(b) and Gazette 29 Nov 2013 p. 5455)
 Consumer Protection Legislation Amendment Act 2014 Pt. 4 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 1aaThe Fair Trading (Permitted Calling Hours) Regulations 2014 r. 4 and 5 read as follows:
@@ -19,7 +20,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 | 24 of 2007 (as amended by No. 58 of 2010 s. 192(7)) | 12 Oct 2007 | To be proclaimed (see s. 2(2))
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 21 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Medicines and Poisons Act 2014 s. 185 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Travel Agents Amendment and Expiry Act 2014 s. 8 | 21 of 2014 | 29 Aug 2014 | Operative on commencement after the day on which the Travel Agents Act 1985 expires under s. 61(1) of that Act as amended by s. 7 of this Act (see s. 2(c))
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
@@ -28,18 +28,7 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 (1) This section amends the Fair Trading Act 2010.
 (2) In Schedule 1 delete “Veterinary Chemical Control and Animal Feeding Stuffs Act 1976”.
 [Section 83 amended by No. 58 of 2010 s. 192(7).]
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 21 had not come into operation. It reads as follows:
-Division 21 — Fair Trading Act 2010 amended
-101.Act amended
-This Division amends the Fair Trading Act 2010.
-102.Section 63 amended
-In section 63 in the definition of motor vehicle delete “Road Traffic Act 1974 section 5(1).” and insert:
-Road Traffic (Administration) Act 2008 section 4.
-103.Schedule 1 amended
-In Schedule 1 insert in alphabetical order:
-Road Traffic (Administration) Act 2008.
-Road Traffic (Authorisation to Drive) Act 2008.
-Road Traffic (Vehicles) Act 2012.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 185 had not come into operation. It reads as follows:
 185.Fair Trading Act 2010 amended
 (1) This section amends the Fair Trading Act 2010.

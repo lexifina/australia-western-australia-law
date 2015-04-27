@@ -22,10 +22,10 @@ Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 3: The Taxi Act 1994 as at 8 Apr 2011 (includes amendments listed above except those in the Co-operatives Act 2009 s. 517)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 12 Div. 5 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 49 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d)and Gazette 17 Apr 2015 p. 1371)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 49 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 5 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(f))
 The provision in this Act repealing the Taxi-car Control Act 1985 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Land Administration Act 1997.
@@ -33,18 +33,6 @@ Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a refere
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 49 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 49 had not come into operation. It reads as follows:
-Division 49 — Taxi Act 1994 amended
-179.Act amended
-This Division amends the Taxi Act 1994.
-180.Section 16 amended
-(1) In section 16(8)(b) delete “the Road Traffic Act 1974 or an Act of another State or a Territory corresponding to either of those Acts; and” and insert:
-a road law as defined in the Road Traffic (Administration) Act 2008 section 4 or an Act of another State or a Territory corresponding to any of those written laws; and
-(2) In section 16(10) in the definition of owner delete “section 5(1) of the Road Traffic Act 1974;” and insert:
-the Road Traffic (Administration) Act 2008 section 5;
-181.Section 32 amended
-In section 32(2)(b) delete “issued under the Road Traffic Act 1974; and” and insert:
-granted under the Road Traffic (Authorisation to Drive) Act 2008; and
 On the date as at which this compilation was prepared, the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 5 had not come into operation. It reads as follows:
 Division 5 — Taxi Act 1994 amended
 82.Act amended

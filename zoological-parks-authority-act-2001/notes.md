@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 October 2012 of the Zoological Parks Authority Act 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Zoological Parks Authority Act 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Zoological Parks Authority Act 2001 | 24 of 2001 | 26 Nov 2001 | s. 1 and 2: 26 Nov 2001; Act other than s. 1 and 2: 22 May 2002 (see s. 2 and Gazette 10 May 2002 p. 2445)
@@ -13,24 +13,9 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and Sch. 1 cl. 19
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 141 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 95 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Reprint 2: The Zoological Parks Authority Act 2001 as at 5 Oct 2012 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 55 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 55 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
+Reprint 2: The Zoological Parks Authority Act 2001 as at 5 Oct 2012 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 55)
 The section in this Act amending those Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
-On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 55 had not come into operation. It reads as follows:
-Division 55 — Zoological Parks Authority Act 2001 amended
-204.Act amended
-This Division amends the Zoological Parks Authority Act 2001.
-205.Section 3 amended
-(1) In section 3 in the definition of owner:
-(a) in paragraph (a) delete “who holds the licence for the vehicle that is required under the Road Traffic Act 1974; or” and insert:
-to whom a licence in respect of the vehicle has been granted under the Road Traffic (Vehicles) Act 2012; or
-(b) in paragraph (b) delete “the vehicle is not licensed under the Road Traffic Act 1974,” and insert:
-there is not such a person,
-(2) In section 3 in the definition of vehicle delete “Road Traffic Act 1974;” and insert:
-Road Traffic (Administration) Act 2008 section 4;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

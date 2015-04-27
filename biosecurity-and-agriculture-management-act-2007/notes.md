@@ -7,23 +7,15 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 5 | 35 of 2
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Agriculture and Related Resources Protection Amendment Act 2010 s. 68 | 46 of 2010 | 28 Oct 2010 | 18 Dec 2010 (see s. 2(b) and Gazette 17 Dec 2010 p. 6349)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
-Reprint 1: The Biosecurity and Agriculture Management Act 2007 as at 26 Jul 2013 (includes amendments listed above)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 2 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see r. 2(d) and Gazette 17 Apr 2015 p. 1371)
+Reprint 1: The Biosecurity and Agriculture Management Act 2007 as at 26 Jul 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 2)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 2 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Medicines and Poisons Act 2014 s. 182 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Mining Act 1978.
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 2 had not come into operation. It reads as follows:
-Division 2 — Biosecurity and Agriculture Management Act 2007 amended
-41.Act amended
-This Division amends the Biosecurity and Agriculture Management Act 2007.
-42.Section 6 amended
-(1) In section 6 in the definition of owner paragraph (b) delete “Road Traffic Act 1974; and” and insert:
-Road Traffic (Administration) Act 2008 section 5; and
-(2) In section 6 in the definition of vehicle delete “Road Traffic Act 1974;” and insert:
-Road Traffic (Administration) Act 2008 section 4;
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 182 had not come into operation. It reads as follows:
 182.Biosecurity and Agriculture Management Act 2007 amended
 (1) This section amends the Biosecurity and Agriculture Management Act 2007.
@@ -31,21 +23,6 @@ On the date as at which this compilation was prepared, the Medicines and Poisons
 (g) the Medicines and Poisons Act 2014;
 (3) In section 40(3) delete “Poisons Act 1964.” and insert:
 Medicines and Poisons Act 2014.
-residue6
-residue management notice6
-security officer91(1)
-specified113
-stock6
-structure63
-subsidiary legislation190(1)
-supply6
-treat6
-unimproved value6
-unlisted organism6, 14
-vehicle6
-veterinary chemical product6
-veterinary surgeon6
-wildlife officer6
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

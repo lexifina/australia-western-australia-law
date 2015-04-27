@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 October 2014 of the Agriculture and Related Resources Protection Act 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Agriculture and Related Resources Protection Act 1976 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Agriculture and Related Resources Protection Act 1976 | 42 of 1976 | 9 Jun 1976 | Long title, s. 1-5, 7 and Pt. V Div. 6: 18 Jun 1976 (see s. 2 and Gazette 18 Jun 1976 p. 2048); Act other than Long title, s. 1-5, 7 and Pt. V Div. 6: 1 Jul 1976 (see s. 2 and Gazette 18 Jun 1976 p. 2048)
@@ -34,14 +34,15 @@ Land Information Authority Act 2006 s. 121 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 6 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 27 | 24 of 2007 | 12 Oct 2007 | 23 Nov 2011 (see s. 2(2) and Gazette 22 Nov 2011 p. 4843); 1 May 2013 (see s. 27 and proclamation published in Gazette 5 Feb 2013 p. 824); 5 Jul 2014 (see s. 27 and proclamation published in Gazette 4 Jul 2014 p. 2359)
 Agriculture and Related Resources Protection Amendment Act 2010 Pt. 2 | 46 of 2010 | 28 Oct 2010 | 18 Dec 2010 (see s. 2(b) and Gazette 17 Dec 2010 p. 6349)
-Reprint 4: The Agriculture and Related Resources Protection Act 1976 as at 17 Oct 2014 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 1 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
+Reprint 4: The Agriculture and Related Resources Protection Act 1976 as at 17 Oct 2014 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 1 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Commercial Arbitration Act 2012 s. 45 it. 1 | 23 of 2012 | 29 Aug 2012 | To be proclaimed (see s. 1B(b))
-On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 27 was in force. It reads as follows:
+Other notes
+On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 27 was in force. It reads as follows:
 27.Repeal
 (1) The Agriculture and Related Resources Protection Act 1976 is repealed on a day to be fixed by proclamation.
 (2) Different days may be fixed under subsection (1) for different provisions.
@@ -60,32 +61,11 @@ Subdivision 2 — Transitional and savings provisions
 In this Subdivision —
 commencement day means the day on which the repealed Act Part V Division 6 is repealed;
 repealed Act means the Agriculture and Related Resources Protection Act 1976.
-[Section 30 amended by No. 46 of 2010 s. 60.]
+[Section 30 amended: No. 46 of 2010 s. 60.]
 31.Rates on pastoral leases
 Despite section 27, the repealed Act Part V Division 6, as in force immediately before the commencement day, continues to apply in relation to a rate payable under that Division for a financial year commencing before the commencement day.
-On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 had not come into operation. It reads as follows:
-27.Agriculture and Related Resources Protection Act 1976 amended
-Section 9(5) of the Agriculture and Related Resources Protection Act 1976 is amended as follows:
-(a) by deleting “1994,” and inserting instead —
-“ 1994 or ”;
-(b) by deleting “or the Superannuation and Family Benefits Act 1938”.
-The section that it seeks to amend has been deleted.
-On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 1 had not come into operation. It reads as follows:
-Division 1 — Agriculture and Related Resources Protection Act 1976 amended
-39.Act amended
-This Division amends the Agriculture and Related Resources Protection Act 1976.
-40.Section 7 amended
-In section 7(1) in the definition of vehicle delete “ascribed to that term in and for the purposes of the Road Traffic Act 1974;” and insert:
-given in the Road Traffic (Administration) Act 2008 section 4;
-On the date as at which this reprint was prepared, the Commercial Arbitration Act 2012 s. 45 Table it. 1 had not come into operation. It reads as follows:
-45.Acts amended
-(1) This section amends the Acts listed in the Table.
-(2) Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-1.Agriculture and Related Resources Protection Act 1976
-s. 106(1)(g) | Arbitration Act 1895 | Commercial Arbitration Act 2012
-The section that it seeks to amend has been deleted.
+On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27 had not come into operation. The section that it seeks to amend has been deleted.
+On the date as at which this compilation was prepared, the Commercial Arbitration Act 2012 s. 45 Table it. 1 had not come into operation. The section that it seeks to amend has been deleted.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

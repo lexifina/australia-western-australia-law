@@ -3,7 +3,7 @@
 (a) a vehicle (the initially impounded vehicle) is impounded under section 79, 79A or 79BB; and
 (b) under section 79D(2), the initially impounded vehicle is released before the impounding period ends; and
 (c) the person (the alleged offender) who allegedly committed the offence in respect of which the initially impounded vehicle was impounded (the offence) is a responsible person for one or more other vehicles.
-(2) If this section applies, a member of the Police Force may give the alleged offender, personally or by registered post, a notice in accordance with this section (a surrender substitute vehicle notice).
+(2) If this section applies, a police officer may give the alleged offender, personally or by registered post, a notice in accordance with this section (a surrender substitute vehicle notice).
 (3) The surrender substitute vehicle notice cannot be given after 28 days after the date of the release of the initially impounded vehicle.
 (4) The surrender substitute vehicle notice must contain a statement to the effect that, because the initially impounded vehicle has been released, a vehicle for which the alleged offender is a responsible person (the substitute vehicle) is required to be surrendered to the Commissioner for impounding instead of the initially impounded vehicle.
 (5) The surrender substitute vehicle notice must specify the following —
@@ -24,5 +24,5 @@ and
 (a) a statement to the effect that this Division contains law about the notice and the impounding of the vehicle; and
 (b) a statement as to the effect of section 79BCB(5); and
 (c) a statement to the effect that failure to comply with the notice will result in the vehicle being impounded by operation of section 79BCB(2).
-(7) If the alleged offender is a responsible person for 2 or more other vehicles, the surrender substitute vehicle notice must specify only one of them as the substitute vehicle, being the one decided by the member of the Police Force issuing the notice.
-[Section 79BCA inserted by No. 20 of 2010 s. 6.]
+(7) If the alleged offender is a responsible person for 2 or more other vehicles, the surrender substitute vehicle notice must specify only one of them as the substitute vehicle, being the one decided by the police officer issuing the notice.
+[Section 79BCA inserted by No. 20 of 2010 s. 6; amended by No. 8 of 2012 s. 37.]

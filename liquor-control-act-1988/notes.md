@@ -46,12 +46,12 @@ Reprint 6: The Liquor Control Act 1988 as at 20 Nov 2009 (includes amendments li
  | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 11 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
  | Statutes (Repeals and Minor Amendments) Act 2011 s. 17 and 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
  | Reprint 7: The Liquor Control Act 1988 as at 6 Jan 2012 (includes amendments listed above except those in the Personal Property Securities (Consequential Repeals and Amendments) Act 2011)
+ | Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 28 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
  | Criminal Organisations Control Act 2012 s. 178 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 282 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Acts 1984 s. 7(4)(f).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
@@ -67,13 +67,7 @@ On the date as at which this compilation was prepared, the Prostitution Amendmen
 (1) The amendment in this section is to the Liquor Control Act 1988.
 (2) After section 37(6) the following subsection is inserted —
 (7) An application shall not be granted where the licensing authority is satisfied that the premises to which the application relates are premises at or from which a sexual service business within the meaning of the Sexual Services Act 2000 section 3 operates.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 28 had not come into operation. It reads as follows:
-Division 28 — Liquor Control Act 1988 amended
-118.Act amended
-This Division amends the Liquor Control Act 1988.
-119.Section 119 amended
-Delete section 119(4)(a) and insert:
-(a) on a road as defined in the Road Traffic (Administration) Act 2008 section 4; or
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) had not come into operation. It reads as follows:
 39.References in other Acts to “Corruption and Crime Commission Act 2003” amended
 (2) In the provisions listed in the Table:
