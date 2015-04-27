@@ -7,20 +7,10 @@ Criminal Investigation (Consequential Provisions) Act 2006 s. 73 | 59 of 2006 | 
 Criminal Law and Evidence Amendment Act 2008 Pt. 4 | 2 of 2008 | 12 Mar 2008 | 27 Apr 2008 (see s. 2 and Gazette 24 Apr 2008 p. 1559)
 Acts Amendment (Justice) Act 2008 Pt. 6 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Reprint 1: The Criminal Appeals Act 2004 as at 23 Jan 2009 (includes amendments listed above)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 13 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Criminal Appeals Amendment (Double Jeopardy) Act 2012 Pt. 2 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
-Reprint 2: The Criminal Appeals Act 2004 as at 12 Apr 2013 (includes amendments listed above)
+Reprint 2: The Criminal Appeals Act 2004 as at 12 Apr 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 13)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 5 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 13 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 13 had not come into operation. It reads as follows:
-Division 13 — Criminal Appeals Act 2004 amended
-74.Act amended
-This Division amends the Criminal Appeals Act 2004.
-75.Section 11 amended
-In section 11(3) delete “the Road Traffic Act 1974,” and insert:
-a road law as defined in the Road Traffic (Administration) Act 2008 section 4,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

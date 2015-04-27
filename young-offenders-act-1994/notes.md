@@ -43,7 +43,8 @@ Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 51 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Cannabis Law Reform Act 2010 Pt. 5 | 45 of 2010 | 28 Oct 2010 | 1 Aug 2011 (see s. 2(b) and Gazette 29 Jul 2011 p. 3127)
 Young Offenders Legislation Amendment (Research Information) Act 2011 Pt. 3 | 26 of 2011 | 11 Jul 2011 | 12 Jul 2011 (see s. 2(b))
-Reprint 5: The Young Offenders Act 1994 as at 10 Aug 2012 (includes amendments listed above)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 54 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
+Reprint 5: The Young Offenders Act 1994 as at 10 Aug 2012 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012)
 Criminal Organisations Control Act 2012 s. 182 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 21(other than s. 138 and 139) | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 22 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
@@ -51,7 +52,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 54 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 24 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Custodial Legislation (Officers Discipline) Amendment Act 2014 Pt. 3 | 29 of 2014 | 3 Dec 2014 | To be proclaimed (see s. 2(b))
@@ -97,22 +97,7 @@ s. 16 | Causing, permitting or seeking to induce a child to act as a sex worker
 s. 17 | Obtaining payment for commercial sexual act by a child
 s. 18 | Agreement for a child to act as a sex worker
 ”.
-On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 54 had not come into operation. It reads as follows:
-Division 54 — Young Offenders Act 1994 amended
-200.Act amended
-This Division amends the Young Offenders Act 1994.
-201.Section 46 amended
-In section 46(5a) delete “section 106 of the Road Traffic Act 1974” and insert:
-the Road Traffic (Administration) Act 2008 section 121
-202.Section 55 amended
-In section 55(4):
-(a) delete “the Road Traffic Act 1974” and insert:
-a road law as defined in the Road Traffic (Administration) Act 2008 section 4
-(b) delete “under that Act” and insert:
-as defined in that section
-203.Section 189 amended
-In section 189(8)(c) delete “issued under the Road Traffic Act 1974; or” and insert:
-as that term is defined in the Road Traffic (Administration) Act 2008 section 4; or
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 had not come into operation. They read as follows:
 Part 3 — Amendments to other Acts
 Division 21 — Young Offenders Act 1994 amended

@@ -29,11 +29,11 @@ Legal Profession Act 2008 s. 664 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 4 Div. 1 | 14 of 2010 | 25 Jun 2010 | 1 Jul 2010 (see s. 2(b) and Gazette 30 Jun 2010 p. 3185)
  | Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+ | Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 22 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 5 Div. 1 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 22 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The appointed day is 1 August 1977; see Gazette 17 June 1977 p. 1834.
 The Business Licensing Amendment Act 1995 s. 24 is a transitional provision that is of no further effect.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
@@ -117,13 +117,6 @@ Part 5 — Finance Brokers Control Act 1975 repealed
 Division 1 — Repeal
 80.Finance Brokers Control Act 1975 repealed
 The Finance Brokers Control Act 1975 is repealed.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 22 had not come into operation. It reads as follows:
-Division 22 — Finance Brokers Control Act 1975 amended
-104.Act amended
-This Division amends the Finance Brokers Control Act 1975.
-105.Section 4 amended
-In section 4 in the definition of motor vehicle delete “section 5(1) of the Road Traffic Act 1974;” and insert:
-the Road Traffic (Administration) Act 2008 section 4;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

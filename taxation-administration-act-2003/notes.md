@@ -22,14 +22,11 @@ Reprint 3: The Taxation Administration Act 2003 as at 22 Aug 2008 (includes amen
 Revenue Laws Amendment and Repeal Act 2010 Pt. 5 and s. 30 | 17 of 2010 | 25 Jun 2010 | 26 Jun 2010 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 4: The Taxation Administration Act 2003 as at 3 Dec 2010 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 and the Revenue Laws Amendment Act 2012 s. 42(4))
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 48 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Revenue Laws Amendment Act 2012 Pt. 8 | 29 of 2012 | 3 Sep 2012 | Heading to Pt. 8, s. 40 and 42(4): 1 Jul 2009 (see s. 2(d)); s. 41, 42(1)-(3), 43 and 44: 4 Sep 2012 (see s. 2(e))
 Revenue Laws Amendment Act 2013 Pt. 2 Div. 2 and Pt. 3 | 10 of 2013 | 24 Sep 2013 | 25 Sep 2013 (see s. 2(b))
 Electronic Conveyancing Act 2014 Pt. 8 | 2 of 2014 | 24 Mar 2014 | 3 Jun 2014 (see s. 2(c) and Gazette 30 May 2014 p. 1679)
 Taxation Legislation Amendment Act (No. 2) 2015 Pt. 5 | 8 of 2015 | 9 Mar 2015 | 10 Mar 2015 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 482 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 The amendment to s. 114(3)(f) in the Workers’ Compensation Reform Act 2004 s. 174 is not included because the paragraph it seeks to amend was deleted by the Business Tax Review (Assessment) Act (No. 2) 2003 s. 100.
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 7 Div. 1 of those regulations read as follows:
@@ -265,13 +262,6 @@ new provisions means the provisions of the Stamp Act 1921 as amended by the Reve
 (4) The Taxation Administration Act 2003 sections 18 and 54(1)(a) apply in relation to an assessment under subsection (2) as if it were a reassessment under section 16 of that Act.
 The amendment in the Duties Legislation Amendment Act 2008 s. 46 is not included because the section it sought to amend had been replaced by the Revenue Laws Amendment Act (No. 2) 2008 s. 7 before the amendment purported to come into operation.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 48 had not come into operation. It reads as follows:
-Division 48 — Taxation Administration Act 2003 amended
-177.Act amended
-This Division amends the Taxation Administration Act 2003.
-178.Section 34 amended
-In section 34(2)(b) delete “a traffic infringement notice issued under the Road Traffic Act 1974 section 102,” and insert:
-an infringement notice as defined in the Road Traffic (Administration) Act 2008 section 4,
 This section has a retrospective commencement date effective from 1 Jul 2009 (see the Revenue Laws Amendment Act 2012 s. 2(d)).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

@@ -51,13 +51,13 @@ Criminal Law Amendment (Homicide) Act 2008 s. 36(1) and (3) | 29 of 2008 | 27 Ju
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 41 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 7: The Prisons Act 1981 as at 21 Jan 2011 (includes amendments listed above)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 42 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 15 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 16 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2(d))
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 42 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Custodial Legislation (Officers Discipline) Amendment Act 2014 Pt. 2 | 29 of 2014 | 3 Dec 2014 | To be proclaimed (see s. 2(b))
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
 Declared Places (Mentally Impaired Accused) Act 2015 s. 88 | 4 of 2015 | 3 Mar 2015 | To be proclaimed (see s. 2(b))
@@ -95,14 +95,7 @@ On the date as at which this compilation was prepared, the Criminal Law Amendmen
 or
 (b) whose release is to be determined by the Governor.
 ”.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 42 had not come into operation. It reads as follows:
-Division 42 — Prisons Act 1981 amended
-162.Act amended
-This Division amends the Prisons Act 1981.
-163.Section 15L amended
-Delete section 15L(b) and insert:
-(b) the payment of the whole or a part of a penalty under an infringement notice as defined in the Road Traffic (Administration) Act 2008 section 4 in respect of an alleged offence by the contract worker; and
-(c) the payment of the whole or a part of a penalty under an infringement notice under a law, in any other part of the world, corresponding to a road law as defined in the Road Traffic (Administration) Act 2008 section 4, in respect of an alleged offence by the contract worker.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Custodial Legislation (Officers Discipline) Amendment Act 2014 Pt. 2 had not come into operation. It reads as follows:
 Part 2 — Prisons Act 1981 amended
 3.Act amended

@@ -20,11 +20,8 @@ Compilation table
  | Reprint 2: The Petroleum Products Pricing Act 1983 as at 13 Oct 2006 (includes amendments listed above)
  | Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Acts Amendment (Bankruptcy) Act 2009 s. 66 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 40 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Consumer Protection Legislation Amendment Act 2014 Pt. 9 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 40 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Now known as the Petroleum Products Pricing Act 1983; short title changed (see note under s. 1).
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
 “
@@ -72,13 +69,6 @@ Prices Commissioner means the Prices Commissioner referred to in section 5(1) of
 ”.
 The amendment to s. 7(5) in the Financial Legislation Amendment and Repeal Act 2006 s. 17, which gives effect to Sch. 1 cl.126, is not included because the subsection it sought to amend was repealed by the Machinery of Government (Miscellaneous Amendments) Act 2006 s. 116(3).
 The Petroleum Retail Marketing Franchise Act 1980 (Cwlth) has been repealed by the Petroleum Retail Legislation Repeal Act 2006 (Cwlth) (No. 2006/113).
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 40 had not come into operation. It reads as follows:
-Division 40 — Petroleum Products Pricing Act 1983 amended
-158.Act amended
-This Division amends the Petroleum Products Pricing Act 1983.
-159.Section 3 amended
-In section 3(1) in the definition of motor vehicle delete “section 5 of the Road Traffic Act 1974;” and insert:
-the Road Traffic (Administration) Act 2008 section 4;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

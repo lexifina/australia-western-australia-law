@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 September 2012 of the Control of Vehicles (Off-road Areas) Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Control of Vehicles (Off-road Areas) Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Control of Vehicles (Off-road Areas) Act 1978 | 117 of 1978 | 12 Dec 1978 | Act other than s. 11: 5 Oct 1979 (see s. 2 and Gazette 5 Oct 1979 p. 3079)
@@ -38,71 +38,27 @@ Compilation table
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 40 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 22 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 29 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
-Reprint 5: The Control of Vehicles (Off-road Areas) Act 1978 as at 7 Sep 2012 (includes amendments listed above)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 10 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
+Reprint 5: The Control of Vehicles (Off-road Areas) Act 1978 as at 7 Sep 2012 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 10)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Control of Vehicles (Off-road Areas) Act 1978 s. 11 | 117 of 1978 (as amended by No. 7 of 2002 s. 7) | 12 Dec 1978 | To be proclaimed (see s. 2)
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 10 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
-On the date as at which this reprint was prepared, the Control of Vehicles (Off-road Areas) Act 1978 s. 11 (as amended by the Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 7) had not come into operation. It reads as follows:
+Control of Vehicles (Off-road Areas) Act 1978 s. 11 | 117 of 1978 (as amended by No. 7 of 2002 s. 7 and No. 8 of 2012 s. 65) | 12 Dec 1978 | To be proclaimed (see s. 2)
+On the date as at which this compilation was prepared, the Control of Vehicles (Off-road Areas) Act 1978 s. 11 (as amended by the Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 7 and the Road Traffic Legislation Amendment Act 2012 s. 65) had not come into operation. It reads as follows:
 11.Responsibility of owners
 (1) Subject to the provisions of subsection (2) of this section, the owner of any vehicle which is —
 (a) required to be registered under this Act; or
-(b) a vehicle licensed under the Road Traffic Act 1974, when being used otherwise than on a road,
+(b) a vehicle licensed under the Road Traffic (Vehicles) Act 2012, when being used otherwise than on a road,
 shall in all proceedings in respect of damage, injury or death arising from the use of any such vehicle by some other person under the age of 18 years and lawfully in possession of the vehicle, be liable in respect of the probable consequences of the driving and use of that vehicle, otherwise than on private land by consent, as though he had formed a common intention and acted jointly with that other person.
 (2) It shall, be a defence to any proceedings arising out of the provisions of subsection (1) of this section for the owner to show that he did not know, and could not reasonably be expected to have known, and had used all due diligence to prevent, the use to which the vehicle was put.
 (3) For the purposes of this section, notwithstanding that pursuant to —
-(a) subsection (4) of section 5 of the Road Traffic Act 1974; or
+(a) the Road Traffic (Administration) Act 2008 section 5(2); or
 (b) subsection (2) of section 3 of this Act,
 a person has been nominated and is deemed, for the purposes of that Act or for the purposes of this Act other than this section, to be the owner of the vehicle to which the nomination relates that nomination shall not take or have effect to limit the liability of any other person who would but for such nomination be or be deemed to be an owner of the vehicle.
-[Section 11 amended by No. 7 of 2002 s. 7.]
-The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 11(2) and (3) are transitional provisions that are of no further effect.
+[Section 11 amended by No. 7 of 2002 s. 7; No. 8 of 2012 s. 65.]
+3The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 11(2) and (3) are transitional provisions that are of no further effect.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 12 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 10 had not come into operation. It reads as follows:
-Division 10 — Control of Vehicles (Off-road Areas) Act 1978 amended
-62.Act amended
-This Division amends the Control of Vehicles (Off-road Areas) Act 1978.
-63.Section 3 amended
-(1) In section 3(1) in the definition of off-road vehicle delete “Road Traffic Act 1974;” and insert:
-Road Traffic (Vehicles) Act 2012;
-(2) In section 3(1) in the definition of responsible person delete “section 5A of the Road Traffic Act 1974;” and insert:
-the Road Traffic (Administration) Act 2008 section 6;
-64.Section 7 amended
-In section 7(1)(a) delete “Road Traffic Act 1974; or” and insert:
-Road Traffic (Vehicles) Act 2012; or
-65.Section 11 amended
-(1) In section 11(1)(b) delete “Road Traffic Act 1974,” and insert:
-Road Traffic (Vehicles) Act 2012,
-(2) Delete section 11(3)(a) and insert:
-(a) the Road Traffic (Administration) Act 2008 section 5(2); or
-66.Section 34 amended
-In section 34(2) delete “Road Traffic Act 1974,” and insert:
-Road Traffic (Vehicles) Act 2012,
-67.Section 36 amended
-(1) In section 36 delete “the Road Traffic Act 1974,” and insert:
-a road law as defined in the Road Traffic (Administration) Act 2008 section 4
-(2) In section 36(a) delete “that Act” and insert:
-the Road Traffic Act 1974
-(3) In section 36(b) delete “in section 53, section 54, section 57, section 58, section 86A or section 89 of that Act to a member of the Police Force” and insert:
-to a police officer in the Road Traffic (Administration) Act 2008 section 32, 33, 34 or 48 or the Road Traffic Act 1974 section 54, 55 or 57
-Note:The heading to amended section 36 is to read:
-Road law provisions
-68.Section 38 amended
-(1) In section 38(2):
-(a) delete paragraph (ga) and insert:
-(ga) a person who is authorised by the CEO under the Road Traffic (Administration) Act 2008 section 22 to perform a function that can be performed by a warden; or
-(b) after each of paragraphs (a), (b), (e) and (f) insert:
-or
-(2) In section 38(11)(a) delete “Road Traffic Act 1974,” and insert:
-Road Traffic (Vehicles) Act 2012,
-(3) In section 38(12)(b) delete “Road Traffic Act 1974,” and insert:
-Road Traffic (Vehicles) Act 2012,
-(4) In section 38(15)(a) delete “Road Traffic Act 1974” and insert:
-Road Traffic (Vehicles) Act 2012
-69.Section 39 amended
-In section 39(1)(a)(ii) delete “Road Traffic Act 1974; or” and insert:
-Road Traffic (Vehicles) Act 2012; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

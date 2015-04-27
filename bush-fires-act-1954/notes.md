@@ -53,13 +53,10 @@ Arson Legislation Amendment Act 2009 Pt. 2 | 43 of 2009 | 3 Dec 2009 | 19 Dec 20
 Reprint 8: The Bush Fires Act 1954 as at 9 Apr 2010 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
 Standardisation of Formatting Act 2010 s. 43(3) and 52 | 19 of 2010 (as amended by No. 17 of 2014 s. 39(5)-(8)) | 28 Jun 2010 | s. 43(3), 52(1)-(3) and 52(4) (other than the amendments to s. 21(1), (2) and (3), s. 39(2), s. 45 and s. 47, the amendment to s. 44(3) to delete “(3)(a) Where” and insert “(3) Where” and the amendments to s. 64 to delete “s. 21(2),” and insert “s. 21(2A) and (2B),”): 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 4 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 3 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
-Reprint 9: The Bush Fires Act 1954 as at 11 Oct 2013 (includes amendments listed above)
+Reprint 9: The Bush Fires Act 1954 as at 11 Oct 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 4)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 17 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 4 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Provisions of the Bush Fires Act 1954 referred to in s. 64 are not the same references as originally enacted. Under the Interpretation Act 1984 s. 16(2), as a result of amendments to the Bush Fires Act 1954 by the Bush Fires Act Amendment Act 1977 (No. 65 of 1977), those references may be construed as if amended. The references were changed under the Reprints Act 1984 s. 7(3)(g).
 The Third Schedule was inserted by the Metric Conversion Act Amendment Act (No. 2) 1973.
@@ -68,14 +65,6 @@ The Bush Fires Amendment Act 1992 s. 6(2) reads as follows:
 The Fire and Emergency Services Authority of Western Australia (Consequential Provisions) Act 1998 s. 11(2) is a transitional provision that is of no further effect.
 The Fire and Emergency Services Legislation Amendment Act 2002 s. 27(2) and (3) are transitional provisions that are of no further effect.
 The Standardisation of Formatting Act 2010 s. 52(4) in relation to amendments to the Bush Fires Act 1954 s. 21(1), (2) and (3), s. 39(2), s. 45 and s. 47, the amendment to s. 44(3) to delete “(3)(a) Where” and insert “(3) Where” and the amendments to s. 64 to delete “s. 21(2),” and insert “s. 21(2A) and (2B), had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(5)-(8).
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 4 had not come into operation. It reads as follows:
-Division 4 — Bush Fires Act 1954 amended
-46.Act amended
-This Division amends the Bush Fires Act 1954.
-47.Section 14B amended
-In section 14B(3) delete “Road Traffic Act 1974” and insert:
-Road Traffic (Vehicles) Act 2012
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

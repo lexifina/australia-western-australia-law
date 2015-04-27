@@ -38,12 +38,12 @@ Acts Amendment (Bankruptcy) Act 2009 s. 57 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Acts Amendment (Fair Trading) Act 2010 Pt. 4 | 58 of 2010 | 8 Dec 2010 | s. 36: 1 Jan 2011 (see s. 2(b)(ii) and Gazette 24 Dec 2010 p. 6805); s. 37: 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805); Pt. 4 (other than s. 36 and 37): 1 Jul 2011 (see s. 2(c) and Gazette 7 Jun 2011 p. 2057)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 7 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Reprint 6: The Motor Vehicle Dealers Act 1973 as at 6 Jan 2012 (includes amendments listed above except those in the Personal Property Securities (Consequential Repeals and Amendments) Act 2011)
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 35 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Consumer Protection Legislation Amendment Act 2014 Pt. 7 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Motor Vehicle Dealers Amendment Act 2003 s. 20 and 21 | 73 of 2003 | 15 Dec 2003 | To be proclaimed (see s. 2)
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 35 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 The Motor Vehicle Dealers Act 1973 s. 40 did not come into operation and was repealed by the Motor Vehicle Dealers Amendment Act 2002 s. 62.
 The Business Licensing Amendment Act 1995 s. 38 is a transitional provision that is of no further effect.
 The Motor Vehicle Dealers Amendment Act 2002 Pt. 7 reads as follows:
@@ -153,21 +153,6 @@ Penalty: $5 000.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 has transitional provisions some of which may be relevant to this Act.
 The amendments in the Acts Amendment (Fair Trading) Act 2010 s. 177 will not come into operation (see s. 2(b)(i)).
-On the date as at which this compilation was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 35 had not come into operation. It reads as follows:
-Division 35 — Motor Vehicle Dealers Act 1973 amended
-142.Act amended
-This Division amends the Motor Vehicle Dealers Act 1973.
-143.Section 5 amended
-(1) In section 5(1) in the definition of demonstration vehicle paragraph (a) delete “that is licensed under the provisions of the Road Traffic Act 1974 in the name of” and insert:
-in respect of which a licence has been granted under the Road Traffic (Vehicles) Act 2012 to
-(2) In section 5(2)(a) delete “within the meaning given thereto by the Road Traffic Act 1974; and” and insert:
-as defined in the Road Traffic (Administration) Act 2008 section 4; and
-144.Section 28A amended
-In section 28A(2) delete “for the vehicle issued under the Road Traffic Act 1974.” and insert:
-granted in respect of the vehicle under the Road Traffic (Vehicles) Act 2012.
-145.Section 33 amended
-In section 33(3)(e) delete “where the vehicle is not then licensed under the Road Traffic Act 1974,” and insert:
-if a licence has not been granted in respect of the vehicle under the Road Traffic (Vehicles) Act 2012,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

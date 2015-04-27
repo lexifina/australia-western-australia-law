@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 June 2013 of the Consumer Affairs Act 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Consumer Affairs Act 1971 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Consumer Protection Act 1971 | 68 of 1971 | 22 Dec 1971 | 11 Aug 1972 (see s. 2 and Gazette 11 Aug 1972 p. 3102)
@@ -46,11 +46,8 @@ Reprint 6: The Consumer Affairs Act 1971 as at 24 Oct 2008 (includes amendments 
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Trade Measurement Legislation (Amendment and Expiry) Act 2010 s. 9 | 54 of 2010 | 8 Dec 2010 | 8 Dec 2010 (see s. 2(b)(ii))
 Fair Trading Act 2010 Pt. 10 Div. 1 | 57 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(b) and Gazette 24 Dec 2010 p. 6805)
-Reprint 7: The Consumer Affairs Act 1971 as at 7 Jun 2013 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 9 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 9 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
+Reprint 7: The Consumer Affairs Act 1971 as at 7 Jun 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 9)
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Repealed by the Acts Amendment and Repeal (Fair Trading) Act 1988.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
@@ -63,15 +60,6 @@ The Statutes (Repeals and Minor Amendments) Act 1997 s. 39(9) reads as follows:
 (9) The person appointed and holding office under section 15(1) as the Commissioner for Consumer Affairs immediately before the commencement of this section continues to hold office after that commencement as the Commissioner for Fair Trading.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant to this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 has transitional provisions some of which may be relevant to this Act.
-On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 9 had not come into operation. It reads as follows:
-Division 9 — Consumer Affairs Act 1971 amended
-60.Act amended
-This Division amends the Consumer Affairs Act 1971.
-61.Schedule amended
-In the Schedule insert in alphabetical order:
-Road Traffic (Administration) Act 2008.
-Road Traffic (Authorisation to Drive) Act 2008.
-Road Traffic (Vehicles) Act 2012.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

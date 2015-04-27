@@ -60,13 +60,14 @@ Prohibited Behaviour Orders Act 2010 Pt. 5 Div. 4 | 59 of 2010 | 8 Dec 2010 | 23
 Reprint 7: The Sentencing Act 1995 as at 29 Apr 2011 (includes amendments listed above)
 Building Services (Registration) Act 2011 s. 157 | 19 of 2011 | 22 Jun 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 26 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 47 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Teacher Registration Act 2012 s. 168 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 14 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Water Services Legislation Amendment and Repeal Act 2012 s. 228 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Sentencing Amendment Act 2012 | 42 of 2012 | 22 Nov 2012 | 20 Dec 2012
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 8 | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Criminal Organisations Control Act 2012 s. 181 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
-Reprint 8: The Sentencing Act 1995 as at 8 Mar 2013 (includes amendments listed above, except those in the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 and the Water Services Legislation Amendment and Repeal Act 2012 and the Criminal Organisations Control Act 2012)
+Reprint 8: The Sentencing Act 1995 as at 8 Mar 2013 (includes amendments listed above, except those in the Road Traffic Legislation Amendment Act 2012, Water Services Legislation Amendment and Repeal Act 2012, Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 and the Criminal Organisations Control Act 2012)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 18 (other than s. 124 and 127) | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Sentencing Legislation Amendment Act 2014 Pt. 2 | 6 of 2014 | 22 Apr 2014 | 23 Apr 2014 (see s. 2(b))
 Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 3 Div. 1 (other than s. 8(2)) | 11 of 2014 | 24 Jun 2014 | 13 Aug 2014 (see s. 2(b) and Gazette 12 Aug 2014 p. 2889)
@@ -75,7 +76,6 @@ Under the Cross-border Justice Act 2008 section 14, in order to give effect to t
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 47 | 8 of 2012 | 21 May 2012 | Operative on commencement of the Road Traffic (Administration) Act 2008 (see s. 2(d))
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) | 11 of 2014 | 24 Jun 2014 | To be proclaimed (see s. 2(b))
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
@@ -213,32 +213,7 @@ The amendments in the Sentencing Legislation Amendment Act 2004 s. 6(4) erroneou
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 59 which purported to replace s. 84E could not be included because s. 84E was not in operation when s. 59 came into operation. Section 59 was subsequently deleted by the Parole and Sentencing Legislation Amendment Act 2006 s. 74(2).
 The amendments in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 65 that purported to amend s. 84P(3) could not be included because s. 84P(3) was not in operation when s. 65 came into operation. Those amendments were subsequently deleted by the Parole and Sentencing Legislation Amendment Act 2006 s. 75(2).
 The Parole and Sentencing Legislation Amendment Act 2006 s. 74(2) and 75(2) commenced on 22 Sep 2006 (see s. 2(4)(b)).
-On the date as at which this reprint was prepared, the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 47 had not come into operation. It reads as follows:
-Division 47 — Sentencing Act 1995 amended
-174.Act amended
-This Division amends the Sentencing Act 1995.
-175.Section 45 amended
-In section 45(5):
-(a) in paragraph (a)(i) delete “disqualify” and insert:
-disqualify, under a road law as defined in the Road Traffic (Administration) Act 2008 section 4,
-(b) in paragraph (a)(i) delete “under the Road Traffic Act 1974;” and insert:
-as defined in that section;
-(c) in paragraph (b) delete “the Road Traffic Act 1974,” and insert:
-a road law as defined in the Road Traffic (Administration) Act 2008 section 4,
-(d) in paragraph (b) delete “under that Act;” and insert:
-as defined in that section;
-176.Section 105 amended
-(1) In section 105(3) delete “chief executive officer of the department of the Public Service principally assisting in the administration of the provisions of the Road Traffic Act 1974 that section 5 of that Act defines as the “licensing provisions of this Act” for the purposes of administering those provisions.” and insert:
-CEO as defined in the Road Traffic (Administration) Act 2008 section 4.
-(2) In section 105(4)(a):
-(a) delete “disqualify” and insert:
-disqualify, under a road law as defined in the Road Traffic (Administration) Act 2008 section 4,
-(b) delete “under the Road Traffic Act 1974;” and insert:
-as defined in that section;
-(3) In section 105(5) in the definition of driver’s licence delete “Road Traffic Act 1974;” and insert:
-Road Traffic (Administration) Act 2008 section 4;
-(4) In section 105(5) in the definition of motor vehicle delete “Road Traffic Act 1974;” and insert:
-Road Traffic (Administration) Act 2008 section 4;
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 had not come into operation. They read as follows:
 Part 3 — Amendments to other Acts
 Division 18 — Sentencing Act 1995 amended
