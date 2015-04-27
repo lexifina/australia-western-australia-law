@@ -13,25 +13,8 @@ Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Reg
 DGS (Road and Rail Transport of Non-explosives) Amendment Regulations (No. 2) 2012 | 19 Feb 2013 p. 988-9 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
 Dangerous Goods Safety (Road and Rail Transport of Non explosives) Amendment Regulations 2013 | 2 Dec 2013 p. 5497-8 | r. 1 and 2: 2 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2013 (see r. 2(b))
 Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2014 | 13 Jun 2014 p. 1929-50 | r. 1 and 2: 13 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations (No. 2) 2014 r. 3-6- | 8 Jan 2015 p. 131-2 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
+Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations (No. 2) 2014 | 8 Jan 2015 p. 131-2 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 The Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations (No. 2) 2010 published in Gazette 25 Jun 2010 p. 2873-4 were repealed before the amendment purported to come into operation by the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Repeal Regulations 2010 (see Gazette 30 Jun 2010 p. 3157).
-On the date as at which this compilation was prepared, the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations (No. 2) 2014 r. 3-6 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Regulations 2007.
-4.Regulation 4 amended
-In regulation 4 delete the definition of driver licence and insert:
-driver licence means an Australian driver licence as defined in the Road Traffic (Authorisation to Drive) Act 2008 section 3(1);
-5.Regulation 215 amended
-In regulation 215(4)(b) delete “Road Traffic Act 1974,” and insert:
-Road Traffic (Administration) Act 2008 section 5,
-6.Regulation 230 amended
-(1) Delete regulation 230(1)(c) and insert:
-(c) in respect of which the person has been granted a vehicle licence under the Road Traffic (Vehicles) Act 2012 Part 2.
-(2) In regulation 230(3) delete “licence for the road vehicle granted under the Road Traffic Act 1974 Part III.” and insert:
-vehicle licence granted under the Road Traffic (Vehicles) Act 2012 Part 2 for the road vehicle.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
