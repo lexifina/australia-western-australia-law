@@ -5,7 +5,7 @@ Hospitals And Health Services Act 1927
 Swan District Hospital (Eveline Road Site) By-laws 2005
 INFRINGEMENT NOTICENo. ...........….
 Date of service .... / .... / ......
-TO: THE OWNER / DRIVER / PERSON IN CHARGE OF VEHICLE
+TO: THE RESPONSIBLE PERSON FOR / DRIVER / PERSON IN CHARGE OF VEHICLE
 MAKE .........................................……..……..... TYPE .............................................…………………………...
 PLATE NO. .....................................………….... COLOUR ..........................................………………………..
 IT IS ALLEGED THAT AT ABOUT ...……….. HRS ON THE …………............ DAY OF ………...............,
@@ -26,6 +26,7 @@ of .............................................................................
 the sum of $ ............. in payment of the modified penalty referred to above.
 …………………………………………….
 Authorised person
+[Form 1 amended in Gazette 8 Jan 2015 p. 200.]
 Form 2
 Hospitals And Health Services Act 1927
 Swan District Hospital (Eveline Road Site) By-laws 2005
