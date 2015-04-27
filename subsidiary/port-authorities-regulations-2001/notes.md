@@ -50,35 +50,11 @@ Port Authorities Amendment Regulations (No. 2) 2014 | 20 Jun 2014 p. 2029-35 | r
 Port Authorities Amendment Regulations (No. 4) 2014 | 5 Sep 2014 p. 3214-16 | r. 1 and 2: 5 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Sep 2014 (see r. 2(b))
 Port Authorities Amendment Regulations (No. 5) 2014 | 19 Sep 2014 p. 3342-3 | r. 1 and 2: 19 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2014 (see r. 2(b)(i))
 Reprint 6: The Port Authorities Regulations 2001 as at 21 Nov 2014 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Port Authorities Amendment Regulations 2014 r. 3-7 | 8 Jan 2015 p. 61-3 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
+Port Authorities Amendment Regulations 2014 | 8 Jan 2015 p. 61-3 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Tobacco Products Control Act 2006.
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Dangerous Goods Safety Act 2004.
-On the date as at which this compilation was prepared, the Port Authorities Amendment Regulations 2014 r. 3-7 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Port Authorities Regulations 2001.
-4.Regulation 3 amended
-(1) In regulation 3 in the definition of motor vehicle delete “same meaning as it has in the Road Traffic Act 1974;” and insert:
-meaning given in the Road Traffic (Administration) Act 2008 section 4;
-(2) In regulation 3 in the definition of vehicle delete “same meaning as it has in the Road Traffic Act 1974.” and insert:
-meaning given in the Road Traffic (Administration) Act 2008 section 4.
-5.Regulation 4A inserted
-At the end of Part 1 insert:
-4A.Application as to assistance animals
-These regulations are subject to any written law and any law of the Commonwealth about assistance animals as defined in the Disability Discrimination Act 1992 (Commonwealth) section 9(2).
-6.Regulation 77 amended
-Delete regulation 77(2).
-Note:
-The note after regulation 77 is to be deleted.
-7.Regulation 101 amended
-In regulation 101 delete “the Road Traffic Act 1974” and insert:
-each road law, as defined in the Road Traffic (Administration) Act 2008 section 4,
-Note:The heading to regulation 101 is to read as follows:
-Application of road laws
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
