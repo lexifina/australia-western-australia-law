@@ -25,7 +25,7 @@ I ............................................................ of ..............
 Signature, and Qualifications.
 (Reverse Side)
 Part II
-By a member of the Police Force:
+By a police officer:
 Name of subject .....................................................................................................
 Doctor or registered nurse .....................................................................................
 Time and date of taking blood sample ......................................................... m. on
@@ -37,7 +37,7 @@ Alleged time of last drink containing alcohol consumed by subject:
 ...................................................
 Signature, Rank and Number.
 [Diagram deleted]
-[Form B amended in Gazette 2 Feb 1982 p. 398; 30 Jan 2001 p. 625; 8 Jan 2010 p. 33; 4 Nov 2014 p. 4206.]
+[Form B amended in Gazette 2 Feb 1982 p. 398; 30 Jan 2001 p. 625; 8 Jan 2010 p. 33; 4 Nov 2014 p. 4206; 23 Dec 2014 p. 4916.]
 Western Australia.
 ROAD TRAFFIC ACT 1974
 Regulation 10: Road Traffic (Blood Sampling and Analysis) Regulations 1975
@@ -58,7 +58,7 @@ Regulation 12: Road Traffic (Blood Sampling and Analysis) Regulations 1975
 FORM D
 To:(1) ...................................................................................................................
 at (2) ...................................................................................................................
-Acting pursuant to the provisions of section 66(5) or 66B(1) of the Road Traffic Act 1974, I, the undersigned member of the Police Force, hereby request you the said (1) .............................................................................. to take a sample of the blood of (3) ............................................................................................................ presently at (4) ................................................................................................... in accordance with the abovementioned regulations.
+Acting pursuant to the provisions of section 66(5) or 66B(1) of the Road Traffic Act 1974, I, the undersigned police officer, hereby request you the said (1) .............................................................................. to take a sample of the blood of (3) ............................................................................................................ presently at (4) ................................................................................................... in accordance with the abovementioned regulations.
 Dated at ................................................ this ......................................... day of........................................, 20..............
 ...................................................
 Signature, Rank and Number.
@@ -66,7 +66,7 @@ Signature, Rank and Number.
 (2)Address or name of hospital, as the case may require.
 (3)Name of subject.
 (4)Place where subject is then to be found.
-[Form D amended in Gazette 2 Feb 1982 p. 398; 30 Jan 2001 p. 625; 11 Oct 2007 p. 5478.]
+[Form D amended in Gazette 2 Feb 1982 p. 398; 30 Jan 2001 p. 625; 11 Oct 2007 p. 5478; 23 Dec 2014 p. 4916.]
 FORM E
 Western Australia
 ROAD TRAFFIC ACT 1974
