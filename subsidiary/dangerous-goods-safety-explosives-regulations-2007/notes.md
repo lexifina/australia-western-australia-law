@@ -16,23 +16,11 @@ Reprint 1: The Dangerous Goods Safety (Explosives) Regulations 2007 as at 16 Aug
 Dangerous Goods Safety (Explosives) Amendment Regulations 2013 | 2 Dec 2013 p. 5567-619 | r. 1 and 2: 2 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
 Dangerous Goods Safety (Explosives) Amendment Regulations (No. 2) 2014 | 17 Jun 2014 p. 1988-9 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Dangerous Goods Safety (Explosives) Amendment Regulations (No. 3) 2014 | 24 Oct 2014 p. 4120-1 | r. 1 and 2: 24 Oct 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Oct 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Dangerous Goods Safety (Explosives) Amendment Regulations 2014 r. 3-5 | 8 Jan 2015 p. 129-30 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
+Dangerous Goods Safety (Explosives) Amendment Regulations 2014 | 8 Jan 2015 p. 129-30 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 The Medical Practitioners Act 2008 and the Psychologists Act 2005 were repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
 The Explosives and Dangerous Goods Act 1961 was repealed by the Dangerous Goods Safety Act 2004.
 The Dangerous Goods (Transport) Act 1998 and the Dangerous Goods (Transport) (Explosives by Road and Rail) Regulations 1999 were repealed by the Dangerous Goods Safety Act 2004.
 The Explosives and Dangerous Goods (Explosives) Regulations 1963 were repealed by the Dangerous Goods Safety Act 2004.
-On the date as at which this compilation was prepared, the Dangerous Goods Safety (Explosives) Amendment Regulations 2014 r. 3-5 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Dangerous Goods Safety (Explosives) Regulations 2007.
-4.Regulation 97 amended
-In regulation 97(3A) delete “Road Traffic Act 1974 Part III” and insert:
-Road Traffic (Vehicles) Act 2012 Part 2
-5.Regulation 160 amended
-Delete regulation 160(a) and insert:
-(a) a copy of the applicant’s Australian driver licence as defined in the Road Traffic (Authorisation to Drive) Act 2008 section 3(1); and
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
