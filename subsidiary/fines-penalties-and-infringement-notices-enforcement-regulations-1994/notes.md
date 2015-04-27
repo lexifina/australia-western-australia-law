@@ -57,37 +57,12 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No.
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 4) 2014 | 4 Jul 2014 p. 2363-4 | r. 1 and 2: 4 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jul 2014 (see r. 2(b)(ii))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 6) 2014 | 13 Jan 2015 p. 249-50 | r. 1 and 2: 13 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jan 2015 (see r. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2015 | 3 Mar 2015 p. 784 | r. 1 and 2: 3 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Mar 2015 (see r. 2(b) and Gazette 3 Mar 2015 p. 783)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 2) 2015 r. 3-5 | 10 Feb 2015 p. 609-11 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
+Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 2) 2015 | 10 Feb 2015 p. 609-11 | r. 1 and 2: 10 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now called the General Account.
 Formerly referred to the Censorship Act 1996 the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Companies (Co-operative) Act 1943 was repealed by the Co-operatives Act 2009.
 The Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 1997 were published on 1 Aug 1997 p. 4394 and again on 4 Nov 1997 p. 6079-80. The publication of 4 Nov 1997 has no effect.
-On the date as at which this compilation was prepared, the Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 2) 2015 r. 3-5 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Fines, Penalties and Infringement Notices Enforcement Regulations 1994.
-4.Regulation 3AA amended
-(1) In regulation 3AA(2):
-(a) in paragraph (b) delete “Road Traffic (Charges and Fees) Regulations 2006” and insert:
-Road Traffic (Vehicles) Regulations 2014
-(b) in paragraph (b)(i) delete “regulation 23” and insert:
-Part 2 Division 8 Subdivision 1
-(c) in paragraph (b)(ii) delete “regulation 25” and insert:
-regulation 99
-(d) in paragraph (b)(iii) delete “regulation 30” and insert:
-regulation 112
-(e) in paragraph (c) after “offender” insert:
-under the Road Traffic (Vehicles) Regulations 2014 regulation 44(4)
-(f) in paragraph (c) delete “issue of an unlicensed vehicle permit for the vehicle under the Road Traffic (Licensing) Regulations 1975 regulation 11, where the permit is issued” and insert:
-grant of a permit under Road Traffic (Vehicles) Act 2012 section 13(1), if the permit is
-(2) In regulation 3AA(3) in the description of the variable “licence cost” paragraph (a) delete “Road Traffic (Charges and Fees) Regulations 2006” and insert:
-Road Traffic (Vehicles) Regulations 2014 Part 2 Division 7
-5.Schedule 1 amended
-In Schedule 1 delete the item for the Road Traffic Act 1974 and insert:
-Road Traffic (Administration) Act 2008 | 79
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
