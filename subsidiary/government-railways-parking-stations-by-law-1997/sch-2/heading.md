@@ -39,13 +39,13 @@ Credit card only. Payments made online or over the phone must be made before 9.0
 Form 2
 [rule 28]
 Government Railways (Parking Stations) By-law 1997
-NOTICE REQUIRING OWNER OF VEHICLE TO IDENTIFY DRIVER
+NOTICE REQUIRING RESPONSIBLE PERSON FOR VEHICLE TO IDENTIFY DRIVER
 To ................................................................................... Serial No. ...................... (not to be completed
 ...................................................................................
 where notice is attached
 .................................................................................. Date.................................
 to or left in or on vehicle)
-the owner of vehicle make ................................................. Type .......................... Plate No. ............................
+the responsible person for vehicle make ................................................. Type .......................... Plate No. ............................
 You are hereby notified that it is alleged that on ............................................. the ............................. day of ................................ at about ........................ the driver of the vehicle specified above did .......................................................................... ................................................................................................................................. ................................................................................................................................. ................................................................................................................................. in contravention of the provisions of rule ................. of Government Railways (Parking Stations) By-law 1997.
 The modified penalty prescribed for this offence is $ ..................
 Unless within 14 days after the date of the service of this notice —
@@ -64,6 +64,6 @@ TO: Public Transport Authority of Western Australia
 The identity and address of the driver or person in charge of the above vehicle at the time of the above offence is as follows —
 Name ...................................
 Address .............................................
-....................................... Signed (Owner of vehicle)
+....................................... Signed (Responsible person for vehicle)
 ..................... (Date)
-[Form 2 amended in Gazette 12 Dec 2003 p. 5044 and 5045.]
+[Form 2 amended in Gazette 12 Dec 2003 p. 5044 and 5045; 8 Jan 2015 p. 145-6.]
