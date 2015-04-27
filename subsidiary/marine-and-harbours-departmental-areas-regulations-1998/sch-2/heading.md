@@ -19,8 +19,8 @@ you committed the following offence —
 .................................................................................................................................
 contrary to regulation ...................... of the Marine and Harbours (Departmental Areas) Regulations 1998.
 The modified penalty for the alleged offence is $ ................................
-If you do not wish to have a complaint of the alleged offence heard and determined by a court, you may pay the amount of the modified penalty specified above to an authorised officer at (6) ........................................................ a period of 28 days after the giving of this notice.
-If you do not do so, you may receive a complaint for this matter to be heard and determined by a court, and you may become liable to pay additional amounts.
+If you do not wish to have the alleged offence heard and determined by a court, you may pay the amount of the modified penalty specified above to an authorised officer at (6) ........................................................ a period of 28 days after the giving of this notice.
+If you do not do so, you may receive a summons for this matter to be heard and determined by a court, and you may become liable to pay additional amounts.
 Name and title of authorised officer giving this notice..........................................
 Signature ........................................................
 (1)Date of birth of alleged offender (not required to be given).
@@ -29,6 +29,7 @@ Signature ........................................................
 (4)Time at which offence was allegedly committed.
 (5)Place at which offence was allegedly committed.
 (6)Place where modified penalty may be paid.
+[Form 1 amended in Gazette 8 Jan 2015 p. 54-5.]
 FORM 2
 MARINE AND HARBOURS ACT 1981
 MARINE AND HARBOURS (DEPARTMENTAL AREAS) REGULATIONS 1998
