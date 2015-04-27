@@ -21,11 +21,8 @@ Conservation and Land Management Amendment Regulations 2013 | 5 Feb 2013 p. 833-
 Reprint 3: The Conservation and Land Management Regulations 2002 as at 12 Jul 2013 (includes amendments listed above)
 Conservation and Land Management Amendment Regulations (No. 3) 2013 | 27 Sep 2013 p. 4525-9 | r. 1 and 2: 27 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2013 (see r. 2(b))
 Conservation and Land Management Amendment Regulations (No. 2) 2014 | 19 Sep 2014 p. 3330-7 | r. 1 and 2: 19 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Sep 2014 (see r. 2(b))
+Conservation and Land Management Amendment Regulations 2014 | 8 Jan 2015 p. 135-6 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Conservation and Land Management Amendment Regulations 2015 | 24 Mar 2015 p. 1033-44 | r. 1 and 2: 24 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Mar 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Conservation and Land Management Amendment Regulations 2014 r. 3-5 | 8 Jan 2015 p. 135-6 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
 The Swan River Trust Act 1988 was repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006.
 Deleted by the Conservation Legislation Amendment Act 2011 s. 10.
 Repealed by these regulations.
@@ -36,17 +33,6 @@ The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads a
 Barrow Island Net Conservation Benefit Account means the account of that name established as an agency special purpose account under the Financial Management Act 2006 section 16 in accordance with the Conservation and Land Management Act 1984 section 69(1);
 Barrow Island Trust Account means the account referred to in the Conservation and Land Management Regulations 2002 Part 7A immediately before the commencement of regulation 3.
 (2) Any money standing to the credit of the Barrow Island Trust Account immediately before the commencement of regulation 3 is to be transferred to the Barrow Island Net Conservation Benefit Account.
-On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Regulations 2014 r. 3-5 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Conservation and Land Management Regulations 2002.
-4.Regulation 2 amended
-(1) In regulation 2 in the definition of bicycle delete “Road Traffic (Bicycles) Regulations 2002 regulation 3(1);” and insert:
-Road Traffic Code 2000 regulation 3(1);
-(2) In regulation 2 in the definition of vehicle delete “same meaning as in the Road Traffic Act 1974;” and insert:
-meaning given in the Road Traffic (Administration) Act 2008 section 4;
-5.Regulation 54 amended
-In regulation 54(1) delete “law of the State if that road or track were a road for the purposes of the Road Traffic Act 1974.” and insert:
-road law, as defined in the Road Traffic (Administration) Act 2008 section 4, if that road or track were a road as defined in that section.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
