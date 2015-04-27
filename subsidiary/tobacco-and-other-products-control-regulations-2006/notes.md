@@ -15,16 +15,7 @@ Tobacco Products Control Amendment Regulations (No. 3) 2014 | 20 Jun 2014 p. 202
 Tobacco Products Control Amendment Regulations 2014 | 27 Jun 2014 p. 2331 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i) and Gazette 17 Jun 2014 p. 1955)
 Reprint 2: The Tobacco Products Control Regulations 2006 as at 21 Nov 2014 (includes amendments listed above)
 Tobacco Products Control Amendment Regulations (No. 4) 2014 | 12 Dec 2014 p. 4715-16 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Tobacco Products Control Amendment Regulations 2015 r. 3 and 4 | 10 Feb 2015 p. 625 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
-On the date as at which this compilation was prepared, the Tobacco Products Control Amendment Regulations 2015 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Tobacco Products Control Regulations 2006.
-4.Regulation 59 amended
-In regulation 59(c) delete “appointed under the Road Traffic Act 1974 section 7;” and insert:
-as defined in the Road Traffic (Administration) Act 2008 section 4;
+Tobacco Products Control Amendment Regulations 2015 | 10 Feb 2015 p. 625 | r. 1 and 2: 10 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
