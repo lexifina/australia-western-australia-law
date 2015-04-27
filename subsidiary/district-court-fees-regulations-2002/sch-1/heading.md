@@ -3,7 +3,7 @@
 [Heading amended in Gazette 23 Jun 2005 p. 2690.]
 Item | Matter | Fee for individuals/personal injury $ | Fee for person other than an individual $
 1. | On filing any originating process by which a cause, matter or other proceeding in the court is commenced, other than proceedings of the kind referred to in item 2A, 2B, 2, 3 or 8 | 645.00 | 1 258.00
-2A. | On filing an application for an extraordinary licence under the Road Traffic Act 1974, section 76(1) or 78(1) | 162.50 | N/A
+2A. | On filing an application under the Road Traffic (Authorisation to Drive) Act 2008 section 24(1) for the removal of a disqualification or under section 27 of that Act for an extraordinary licence | 162.50 | N/A
 2B. | On filing an application for an order made under the Spent Convictions Act 1988, section 6(1) | 94.00 | N/A
 2. | On filing —
  | (a)a counterclaim | 645.00 | 1 258.00
@@ -77,4 +77,4 @@ Item | Matter | Fee for individuals/personal injury $ | Fee for person other tha
 14. | (a)For a copy of a transcript, for each page or part of a page | 6.35 | 6.35
  | (b)For each copy of a transcript in electronic format if a fee has been paid under paragraph (a) by the applicant for a copy of the transcript, for each day of transcript | 15.75 | 15.75
  | (c)For each copy of a transcript not in electronic format if a fee has been paid under paragraph (a) by the applicant for a copy of the transcript, for each page or part of a page | 1.50 | 1.50
-[Schedule 1 amended in Gazette 30 Dec 2003 p. 5705-7; 28 Apr 2005 p. 1754-5; 23 Jun 2005 p. 2690-1; 23 Jun 2006 p. 2188; 26 Jun 2007 p. 3036; 27 Jun 2008 p. 3063; 9 Jun 2009 p. 1923; 4 Sep 2009 p. 3488-90; 30 Jul 2010 p. 3498; 8 Mar 2011 p. 785-7; 20 Dec 2011 p. 5380-3; 30 Nov 2012 p. 5789-90; 19 Jul 2013 p. 3268; 15 Nov 2013 p. 5243-4; 27 Jun 2014 p. 2338-40.]
+[Schedule 1 amended in Gazette 30 Dec 2003 p. 5705-7; 28 Apr 2005 p. 1754-5; 23 Jun 2005 p. 2690-1; 23 Jun 2006 p. 2188; 26 Jun 2007 p. 3036; 27 Jun 2008 p. 3063; 9 Jun 2009 p. 1923; 4 Sep 2009 p. 3488-90; 30 Jul 2010 p. 3498; 8 Mar 2011 p. 785-7; 20 Dec 2011 p. 5380-3; 30 Nov 2012 p. 5789-90; 19 Jul 2013 p. 3268; 15 Nov 2013 p. 5243-4; 27 Jun 2014 p. 2338-40; 10 Feb 2015 p. 607.]
