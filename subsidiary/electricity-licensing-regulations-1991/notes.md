@@ -40,10 +40,7 @@ Electricity (Licensing) Amendment Regulations 2012 | 13 Apr 2012 p. 1651-6 | r. 
 Electricity (Licensing) Amendment Regulations (No. 2) 2012 | 15 Jun 2012 p. 2611-13 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Electricity (Licensing) Amendment Regulations (No. 2) 2013 | 27 Jun 2013 p. 2707-9 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Electricity (Licensing) Amendment Regulations (No. 2) 2014 | 17 Jun 2014 p. 1963-4 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Electricity (Licensing) Amendment Regulations 2014 r. 3 and 4 | 8 Jan 2015 p. 97 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
+Electricity (Licensing) Amendment Regulations 2014 | 8 Jan 2015 p. 97 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
 Repealed by the Training Legislation Amendment and Repeal Act 2008 s. 50.
@@ -52,12 +49,6 @@ Now called the Tradespersons’ Rights Regulation Act 1946 (Cwlth.).
 The Electricity (Licensing) Amendment Regulations 2007 r. 5(4) reads as follows:
 5.Regulation 5 amended and transitional
 (4) For the purposes of the appointment of a person in accordance with the Electricity (Licensing) Regulations 1991 regulation 5(2)(b)(i) and (d)(i), as amended by this regulation, regard may be had to any period during which the person was the holder of an “A” grade licence for electrical installing work issued under the Electricity (Licensing) Regulations 1991, as in force before the commencement of this regulation.
-On the date as at which this compilation was prepared, the Electricity (Licensing) Amendment Regulations 2014 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Electricity (Licensing) Regulations 1991.
-4.Regulation 4A amended
-In regulation 4A(2A) delete “Road Traffic Act 1974 section 5(1),” and insert:
-Road Traffic (Administration) Act 2008 section 4,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
