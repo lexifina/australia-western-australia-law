@@ -32,4 +32,4 @@ Item | Section or Regulation | Nature of Offence | Modified Penalty $
 28 | Section 9B(1) | Failure to wear seat belt as required in this section ....................................................... | 50
 29 | Section 9B(2) | Failure to travel as a passenger in a seat for which a seat belt has been fitted .......... | 50
 30 | Section 9C | Failure to wear protective helmet .............. | 50
-[Fifth Schedule inserted in Gazette 17 September 1993 pp.5164-6; amended in Gazette 31 January 1997 p.673.]
+[Fifth Schedule inserted in Gazette 17 Sep 1993 p. 5164-6; amended in Gazette 31 Jan 1997 p. 673.]
