@@ -61,42 +61,13 @@ Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2013 | 28 Jun 20
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 4) 2013 | 28 Jun 2013 p. 2804-5 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2014 | 13 Jun 2014 p. 1904-5 | r. 1 and 2: 13 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 3) 2014 | 4 Nov 2014 p. 4207 | r. 1 and 2: 4 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Nov 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Motor Vehicle Drivers Instructors Amendment Regulations 2014 r. 3-6 | 8 Jan 2015 p. 57-9 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
-Under the Alteration of Statutory Designations Order 2003 the name of the former Education Department of Western Australia was changed to the Department of Education and Training.
+Motor Vehicle Drivers Instructors Amendment Regulations 2014 | 8 Jan 2015 p. 57-9 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Footnote no longer applicable.
 Now superseded by the Public Transport Authority of Western Australia.
 Now superseded by the Fire and Emergency Services Authority of Western Australia.
 These regulations were repealed by the Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 1982 (published in Gazette 26 Mar 1982 p. 1073).
 The Motor Vehicles Instructors Amendment Regulations 1996 r. 6 is a transitional provision that is of no further effect.
 The Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2001 r. 9 and Sch. 1 and 2 are transitional and saving provisions that are of no further effect.
-On the date as at which this compilation was prepared, the Motor Vehicle Drivers Instructors Amendment Regulations 2014 r. 3-6 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Motor Vehicle Drivers Instructors Regulations 1964.
-4.Regulation 2 amended
-(1) In regulation 2 delete the definitions of:
-axle
-GVM
-motor carrier
-motor cycle
-semi-trailer
-trailer
-(2) In regulation 2 insert in alphabetical order:
-axle has the meaning given in the Road Traffic (Authorisation to Drive) Regulations 2014 regulation 3;
-GVM has the meaning given in the Road Traffic (Vehicles) Act 2012 section 3(1);
-motor carrier has the meaning given in the Road Traffic (Authorisation to Drive) Regulations 2014 regulation 3;
-motor cycle has the meaning given in the Road Traffic (Authorisation to Drive) Regulations 2014 regulation 3;
-semi-trailer has the meaning given in the Road Traffic (Vehicles) Regulations 2014 regulation 3;
-trailer has the meaning given in the Road Traffic (Vehicles) Regulations 2014 regulation 3.
-(3) In regulation 2 in the definition of licensing officer paragraph (b) delete “Part IVA of the Road Traffic Act 1974;” and insert:
-the Road Traffic (Authorisation to Drive) Act 2008 Part 2;
-5.Regulation 12 amended
-In regulation 12(3) delete “2008” and insert:
-2014
-6.Regulation 13A amended
-In regulation 13A(1)(a) delete “Education Department of Western Australia” and insert:
-Department of Education and Training
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
