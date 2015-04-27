@@ -19,11 +19,8 @@ Working with Children (Criminal Record Checking) Amendment Regulations (No. 2) 2
 Working with Children (Criminal Record Checking) Amendment Regulations (No. 3) 2013 | 31 Dec 2013 p. 6540-1 | r. 1 and 2: 31 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
 Reprint 3: The Working with Children (Criminal Record Checking) Regulations 2005 as at 14 Mar 2014 (includes amendments listed above)
 Working with Children (Criminal Record Checking) Amendment Regulations (No. 2) 2014 | 27 Jun 2014 p. 2312 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Working with Children (Criminal Record Checking) Amendment Regulations 2014 r. 3-6 | 8 Jan 2015 p. 81-2 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
-Formerly referred to the Electricity Corporation Act 1994, the short title of which was changed to the Electricity Transmission and Distribution Systems (Access) Act 1994 by the Electricity Corporations Act 2005 s. 139. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Working with Children (Criminal Record Checking) Amendment Regulations 2014 | 8 Jan 2015 p. 81-2 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Footnote no longer applicable.
 Formerly referred to the Water Corporation Act 1995, the short title of which was changed to the Water Corporations Act 1995 by the Water Services Legislation Amendment and Repeal Act 2012 s. 112. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Community Services Act 1972, Community Services (Child Care) Regulations 1988 and Community Services (Outside School Hours Care) Regulations 2002 were repealed by the Children and Community Services Act 2004 s. 250.
 Formerly referred to the Children and Community Services (Child Care) Regulations 2006, the citation of which was changed to the Child Care Services (Child Care) Regulations 2006 by the Children and Community Services (Child Care) Amendment Regulations 2007 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -31,18 +28,6 @@ The Child Care Services (Child Care) Regulations 2006 r. 28 was deleted in Gazet
 The citation of the Children and Community Services (Outside School Hours Care) Regulations 2006 was changed to the Child Care Services (Outside School Hours Care) Regulations 2006 by the Children and Community Services (Family Day Care) Amendment Regulations 2007 in Gazette 7 Aug 2007 p. 4037. The regulations were repealed by the Child Care Services (Repeals) Regulations 2012 in Gazette 5 Mar 2013 p. 1114.
 The citation of the Children and Community Services (Family Day Care) Regulations 2006 was changed to the Child Care Services (Family Day Care) Regulations 2006 by the Children and Community Services (Family Day Care) Amendment Regulations 2007 in Gazette 7 Aug 2007 p. 4034. The regulations were repealed by the Child Care Services (Repeals) Regulations 2012 in Gazette 5 Mar 2013 p. 1113.
 The citation of the Children and Community Services (Outside School Hours Care Family Day Care) Regulations 2006 was changed to the Child Care Services (Outside School Hours Care Family Day Care) Regulations 2006 by the Children and Community Services (Family Day Care) Amendment Regulations 2007 in Gazette 7 Aug 2007 p. 4041. The regulations were repealed by the Child Care Services (Repeals) Regulations 2012 in Gazette 5 Mar 2013 p. 1114.
-On the date as at which this compilation was prepared, the Working with Children (Criminal Record Checking) Amendment Regulations 2014 r. 3-6 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Working with Children (Criminal Record Checking) Regulations 2005.
-4.Regulation 10 amended
-In regulation 10(3) delete “those sections are” and insert:
-the provision is
-5.Regulation 18 amended
-In regulation 18(3) in the definition of driver’s licence endorsed with extension F or T delete “Road Traffic Act 1974” and insert:
-Road Traffic (Authorisation to Drive) Act 2008
-6.Regulation 20 amended
-In regulation 20(2)(b) delete “within the meaning of the Electricity Transmission and Distribution Systems (Access) Act 1994; or” and insert:
-as defined in the Electricity Corporations Act 2005 section 3(1); or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
