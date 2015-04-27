@@ -37,23 +37,9 @@ Western Australian Meat Industry Authority Amendment Regulations (No. 3) 2013 | 
 Reprint 4: The Western Australian Meat Industry Authority Regulations 1985 as at 15 Nov 2013 (includes amendments listed above)
 Western Australian Meat Industry Authority Amendment Regulations (No. 2) 2014 | 1 Jul 2014 p. 2331-2 | r. 1 and 2: 1 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2014 (see r. 2(b)(ii))
 Western Australian Meat Industry Authority Amendment Regulations (No. 3) 2014 | 3 Sep 2014 p. 3207-8 | r. 1 and 2: 3 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Sep 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Western Australian Meat Industry Authority Amendment Regulations 2014 r. 3-5 | 8 Jan 2015 p. 75-6 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
+Western Australian Meat Industry Authority Amendment Regulations 2014 | 8 Jan 2015 p. 75-6 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Health Department shall be read as a reference to the Department of Health.
 Disallowed on 22 Oct 1991, see Gazette 25 Oct 1991 p. 5499.
-On the date as at which this compilation was prepared, the Western Australian Meat Industry Authority Amendment Regulations 2014 r. 3-5 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Western Australian Meat Industry Authority Regulations 1985.
-4.Regulation 25 amended
-(1) In regulation 25 delete the definition of driver’s licence and insert:
-driver’s licence means an Australian driver licence as defined in the Road Traffic (Authorisation to Drive) Act 2008 section 3(1);
-(2) In regulation 25 in the definition of motor vehicle delete “Road Traffic Act 1974 section 5(1);” and insert:
-Road Traffic (Administration) Act 2008 section 4;
-5.Regulation 33H amended
-In regulation 33H delete “that, under the Road Traffic Act 1974,” and insert:
-that
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
