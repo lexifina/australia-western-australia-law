@@ -133,10 +133,7 @@ Supreme Court Amendment Rules (No. 4) 2013 | 3 May 2013 p. 1718-19 | r. 1 and 2:
 Supreme Court Amendment Rules (No. 3) 2013 | 17 Dec 2013 p. 6231-7 | r. 1 and 2: 17 Dec 2013 (see r. 2(a)); Rules other than r. 1 and 2: 18 Dec 2013 (see r. 2(b))
 Reprint 9: The Rules of the Supreme Court 1971 as at 4 Apr 2014 (includes amendments listed above)
 Supreme Court Amendment Rules (No. 2) 2014 | 26 Sep 2014 p. 3559-62 | r. 1 and 2: 26 Sep 2014 (see r. 2(a)); Rules other than r. 1 and 2: 27 Sep 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Supreme Court Amendment Rules 2014 r. 3-12 | 19 Dec 2014 p. 4845-9 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
+Supreme Court Amendment Rules 2014 | 19 Dec 2014 p. 4845-9 | r. 1 and 2: 19 Dec 2014 (see r. 2(a)); Rules other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Formerly referred to The Electoral Rules of 1908, the citation of which was changed to the Electoral Rules 1908 by the Electoral Amendment Rules 2009 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Commercial Arbitration Act 1985 was repealed by the Commercial Arbitration Act 2012 s. 44.
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
@@ -146,93 +143,6 @@ The commencement date of 1 Jul 1982 that was specified was before the date of ga
 The Supreme Court Amendment Rules 1994 r. 14 is a transitional provision that has no further effect.
 Disallowed on 10 Mar 1998, see Gazette 13 Mar 1998 p. 1389.
 Disallowed on 29 Oct 2013, see Gazette 1 Nov 2013 p. 4910.
-On the date as at which this compilation was prepared, the Supreme Court Amendment Rules 2014 r. 3-12 had not come into operation. They read as follows:
-3.Rules amended
-These rules amend the Rules of the Supreme Court 1971.
-4.Order 81C heading amended
-In the heading to Order 81C delete “Road Traffic Act 1974” and insert:
-Road traffic legislation
-5.Order 81C rule 1 replaced
-Delete Order 81C rule 1 and insert:
-1.Terms used
-In this Order —
-CEO has the meaning given in the Road Traffic (Administration) Act 2008 section 4;
-RT (AD) Act means the Road Traffic (Authorisation to Drive) Act 2008.
-6.Order 81C rule 2 amended
-(1) In Order 81C rule 2(1) delete “RTA section 76(1)” and insert:
-RT (AD) Act section 27
-(2) In Order 81C rule 2(2) delete “RTA section 76(7)(a)” and insert:
-RT (AD) Act section 35(1)
-(3) In Order 81C rule 2(3) delete “RTA section 76(7)(b)” and insert:
-RT (AD) Act section 35(2)
-(4) In Order 81C rule 2(4) delete “RTA section 78” and insert:
-RT (AD) Act section 24(1)
-Note:The heading to amended rule 2 is to read:
-Applications under RT (AD) Act s. 24, 27 or 35, how to be made
-7.Order 81C rule 3 amended
-In Order 81C rule 3(1) delete “RTA section 76 or 78.” and insert:
-RT (AD) Act section 29 or 35(3).
-8.Order 81C rule 4 amended
-(1) In Order 81C rule 4(1) delete “Director General.” and insert:
-CEO.
-(2) In Order 81C rule 4(2) delete “Director General” and insert:
-CEO
-9.Order 81C rule 5 amended
-(1) In Order 81C rule 5(1):
-(a) delete “Director General” and insert:
-CEO
-(b) delete “RTA section 76(1) or (7)(a) or 78.” and insert:
-RT (AD) Act section 24(1), 27 or 35(1).
-(2) In Order 81C rule 5(2):
-(a) delete “Director General has been served with an application made under the RTA section 76(1) or (7)(a) or 78,” and insert:
-CEO been served with an application made under the RT (AD) Act section 24(1), 27 or 35(1),
-(b) delete “Director General.” and insert:
-CEO.
-(3) In Order 81C rule 5(5) delete “RTA section 76(7)(b)” and insert:
-RT (AD) Act section 35(2)
-10.Order 81C rule 6
-(1) In Order 81C rule 6(1) delete “RTA section 76(1) or (7)(a) or (b) —” and insert:
-RT (AD) Act section 27 or 35(1) or (2) —
-(2) In Order 81C rule 6(2) delete “RTA section 76 or 78,” and insert:
-RT (AD) Act section 24(1), 27 or 35(1) or (2),
-11.Order 81C rule 7 amended
-In Order 81C rule 7 delete “RTA section 76 or 78, a registrar must give the Director General” and insert:
-RT (AD) Act section 24(1), 27 or 35(1) or (2), a registrar must give the CEO
-Note:The heading to amended rule 7 is to read:
-CEO to be notified of decision
-12.Schedule 2 amended
-(1) In Schedule 2 Form 101:
-(a) delete “Road Traffic Act 1974 s. 76(1)” (each occurrence) and insert:
-Road Traffic (Authorisation to Drive) Act 2008 s. 27
-(b) delete “Director General” and insert:
-CEO
-(c) delete “Road Traffic Act 1974 s. 76(3).” and insert:
-Road Traffic (Authorisation to Drive) Act 2008 s. 30.
-(2) In Schedule 2 Form 102:
-(a) delete “Road Traffic Act 1974 s. 76(7)(a)” (each occurrence) and insert:
-Road Traffic (Authorisation to Drive) Act 2008 s. 35(1)
-(b) delete “Road Traffic Act 1974 s. 76(9)(a).” and insert:
-Road Traffic (Authorisation to Drive) Act 2008 s. 35(4).
-(3) In Schedule 2 Form 103:
-(a) delete “Road Traffic Act 1974 s. 76(7)(b)” (each occurrence) and insert:
-Road Traffic (Authorisation to Drive) Act 2008 s. 35(2)
-(b) delete “by Director General” and insert:
-by CEO
-(c) delete “the Director General” and insert:
-the CEO
-(d) delete “for Director General” and insert:
-for CEO
-(e) delete “Road Traffic Act 1974 s. 76(9).” and insert:
-Road Traffic (Authorisation to Drive) Act 2008 s. 35(4).
-Note:The heading to amended Form 103 is to read:
-Application by CEO to vary, cancel extraordinary licence (O. 81C r. 2(3))
-(4) In Schedule 2 Form 104:
-(a) delete “Road Traffic Act 1974 s. 78” (each occurrence) and insert:
-Road Traffic (Authorisation to Drive) Act 2008 s. 24(1)
-(b) delete “Road Traffic Act 1974 s. 78,” and insert:
-Road Traffic (Authorisation to Drive) Act 2008 s. 24(1),
-(c) delete “Road Traffic Act 1974 s. 78(5).” and insert:
-Road Traffic (Authorisation to Drive) Act 2008 s. 24(5).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
