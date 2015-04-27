@@ -40,29 +40,12 @@ Rottnest Island Amendment Regulations (No. 2) 2013 | 18 Jun 2013 p. 2307-8 | r. 
 Rottnest Island Amendment Regulations 2013 | 24 Jan 2014 p. 113-14 | r. 1 and 2: 24 Jan 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jan 2014 (see r. 2(b))
 Reprint 5: The Rottnest Island Regulations 1988 as at 4 Apr 2014 (includes amendments listed above)
 Rottnest Island Amendment Regulations (No. 2) 2014 | 20 Jun 2014 p. 2041-3 | r. 1 and 2: 20 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Rottnest Island Amendment Regulations 2014 r. 3-5 | 8 Jan 2015 p. 149-50 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 s. 2(b) (see r. 2(b))
+Rottnest Island Amendment Regulations 2014 | 8 Jan 2015 p. 149-50 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Fish Resources Management Act 1994 s. 265.
 Regulations 5, 7 and 18 disallowed on 28 May 1991, see Gazette 31 May 1991 p. 2710-11.
 The Rottnest Island Amendment Regulations 1997 r. 5(2) is a transitional provision that is of no further effect.
 The Rottnest Island Amendment Regulations 2003 r. 4(3) is a transitional provision that is of no further effect.
-On the date as at which this compilation was prepared, the Rottnest Island Amendment Regulations 2014 r. 3-5 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Rottnest Island Regulations 1988.
-4.Regulation 3 amended
-In regulation 3 in the definition of vehicle delete “assigned to it by section 5(1) of the Road Traffic Act 1974;” and insert:
-given in the Road Traffic (Administration) Act 2008 section 4;
-5.Regulation 43 amended
-In regulation 43(1):
-(a) delete paragraph (a) and insert:
-(a) a road on the Island is a road as defined in the Road Traffic (Administration) Act 2008 section 4; and
-(b) in paragraph (b) delete “that Act” and insert:
-each road law as defined in that section
-Note:The heading to amended regulation 43 is to read as follows:
-Application of road laws
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
