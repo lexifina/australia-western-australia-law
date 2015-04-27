@@ -50,17 +50,18 @@ The modified penalty prescribed for the above offence is $ .....................
 Unless within 21 days after the date of service of this infringement notice —
 (a)the above modified penalty is paid; or
 (b)the owner of the above vehicle —
-(i)informs the Town*/Shire* Clerk of the City*/Town*/Shire* of ..................................... or the authorised officer designated below as to the identity and address of the person who was the driver or person in charge of that vehicle; or
-(ii)satisfies the Town or Shire Clerk of the municipality mentioned in (i) above that that vehicle had been stolen or unlawfully taken, or was being unlawfully used,
+(i)informs the Town*/Shire* CEO of the City*/Town*/Shire* of ..................................... or the authorised officer designated below as to the identity and address of the person who was the driver or person in charge of that vehicle; or
+(ii)satisfies the Town or Shire CEO of the local government mentioned in (i) above that that vehicle had been stolen or unlawfully taken, or was being unlawfully used,
 at the time the above offence is alleged to have been committed,
 the owner of that vehicle is, in the absence of proof to the contrary, deemed to have been the driver or person in charge of that vehicle at the time of the above offence.
-If you do not wish to have a complaint of the above offence heard and determined by a court, you may pay the amount of the above modified penalty to the office of the municipality mentioned in (i) above —
-(a)by posting this form, together with that amount, to the Town or Shire Clerk of that municipality; or
-(b)by taking this form to, and paying that amount at, the office of that municipality,
+If you do not wish to have a complaint of the above offence heard and determined by a court, you may pay the amount of the above modified penalty to the office of the local government mentioned in (i) above —
+(a)by posting this form, together with that amount, to the Town or Shire CEO of that local government; or
+(b)by taking this form to, and paying that amount at, the office of that local government,
 within 21 days after the date of the service of this infringement notice.
 Signature of authorised officer ................................................
 Designation .............................................................................
 * Cross out underlined passage if inapplicable.
+[Form 3 amended in Gazette 8 Jan 2015 p. 127.]
 Form 4
 Western Australia
 Control of Vehicles (Off-road Areas) Act 1978
@@ -81,13 +82,14 @@ Control of Vehicles (Off-road Areas) Act 1978
 CERTIFICATE OF APPOINTMENT OF AUTHORISED OFFICER
 This is to certify that .......................................................whose signature appears
 (name of authorised officer)
-hereunder has been appointed by the Minister for Local Government*/Council of City*/Town*/Shire* of ..............................................* as an authorised officer under the Control of Vehicles (Off-road Areas) Act 1978, and that the area of jurisdiction entrusted to him under that Act is .......................................................
+hereunder has been appointed by the Minister for Local Government*/ local government of City*/Town*/Shire* of ..............................................* as an authorised officer under the Control of Vehicles (Off-road Areas) Act 1978, and that the area of jurisdiction entrusted to him under that Act is .......................................................
 Signed .............................................................
 (Minister for Local Government*/
-Town Clerk*/Shire Clerk*).
+Town CEO */Shire CEO *).
 Signature of authorised officer .................................................
 Dated ....................................................
 * Cross out underlined passage if not applicable.
+[Form 5 amended in Gazette 8 Jan 2015 p. 127.]
 Form 6
 Western Australia
 Control of Vehicles (Off-road Areas) Act 1978
@@ -127,4 +129,4 @@ Date issued ......................................................
 Warning
 A person who uses the abovementioned vehicle while this notice is in force otherwise than for a purpose specified on the front of this notice or for the purpose of presenting that vehicle to the Director General for inspection by or on behalf of the Director General, or who wilfully removes, damages or obliterates this notice attached to that vehicle, commits an offence.
 Penalty: $200.
-[First Schedule amended in Gazette 2 February 1982 p.395; 31 January 1997 p.673.]
+[First Schedule amended in Gazette 2 Feb 1982 p. 395; 31 Jan 1997 p. 673.]
