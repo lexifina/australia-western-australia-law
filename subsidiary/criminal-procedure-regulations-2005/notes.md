@@ -25,18 +25,9 @@ Reprint 3: The Criminal Procedure Regulations 2005 as at 7 Dec 2012 (includes am
 Criminal Procedure Amendment Regulations 2013 | 30 Aug 2013 p. 4101 | r. 1 and 2: 30 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Aug 2013 (see r. 2(b))
 Criminal Procedure Amendment Regulations (No. 2) 2013 | 3 Sep 2013 p. 4148 | r. 1 and 2: 3 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Sep 2013 (see r. 2(b))
 Criminal Procedure Amendment Regulations 2014 | 26 Sep 2014 p. 3557-9 | r. 1 and 2: 26 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Sep 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Criminal Procedure Amendment Regulations (No. 2) 2015 r. 3 and 4 | 10 Feb 2015 p. 599 | Operative on the day fixed under the Road Traffic (Administration) Act 2008 section 2(b) (see r. 2(b))
+Criminal Procedure Amendment Regulations (No. 2) 2015 | 10 Feb 2015 p. 599 | r. 1 and 2: 10 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Repealed by the Road Transport (General) Act 2005 (NSW). See the Road Transport (General) Act 2005 (NSW).
 Repealed by the Co-operatives Act 2009.
-On the date as at which this compilation was prepared, the Criminal Procedure Amendment Regulations (No. 2) 2015 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Criminal Procedure Regulations 2005.
-4.Regulation 7 amended
-In regulation 7 delete “Road Traffic Act 1974” and insert:
-Road Traffic (Vehicles) Act 2012
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
