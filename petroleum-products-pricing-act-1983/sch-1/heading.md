@@ -249,4 +249,4 @@ Natural gas
 Natural sales gas
 Natural gas condensate
 Ethane
-[Schedule 1 inserted by No. 73 of 2000 s. 12.]
+[Schedule 1 inserted: No. 73 of 2000 s. 12.]
