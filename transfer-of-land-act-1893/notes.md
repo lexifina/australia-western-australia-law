@@ -80,6 +80,8 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
+Land Legislation Amendment Act 2015 Pt. 5 | 11 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
+Land Legislation Amendment (Taxing) Act 2015 Pt. 4 | 12 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997.
 The Land Valuers Licensing Act 1978 came into operation on 1 July 1979.
 The Transfer of Land Amendment Act 1996 s. 6(2) reads as follows:
@@ -164,6 +166,35 @@ and the proprietors of the freehold in the land (the proprietors) wish to subdiv
 Section 167 is amended by deleting “or 166A” and inserting instead —
 “ , 166A or 166C ”.
 The amendment in the Financial Legislation Amendment and Repeal Act 2006 s. 4 to s. 190 is not included because s. 190 had been replaced by the Land Information Authority Act 2006 s. 115.
+On the date as at which this compilation was prepared, the Land Legislation Amendment Act 2015 Pt. 5 had not come into operation. It reads as follows:
+Part 5 — Transfer of Land Act 1893 amended
+9.Act amended
+This Part amends the Transfer of Land Act 1893.
+10.Sections 182AA and 182AB inserted
+After section 181 insert:
+182AA.Prescribed fees may exceed cost recovery
+(1) Regulations made under section 181 prescribing a fee may prescribe a fee that is more than the amount, or an estimate of the amount, needed to allow recovery of expenditure —
+(a) incurred in connection with the matter in relation to which the fee is charged; or
+(b) that is relevant to —
+(i) the scheme or system under which the action to which the fee relates is taken; or
+(ii) the performance of any function to which the fee relates.
+(2) This section does not limit —
+(a) the Interpretation Act 1984 section 45A; or
+(b) the extent to which fees prescribed under section 181 may take into account the indemnity of any amount payable out of the Consolidated Account under Part XII that is not recovered under Part XI.
+182AB.Expiry of section 182AA
+(1) Section 182AA expires at the end of 31 December 2019.
+(2) However, the Governor, on the recommendation of the Minister, may, by proclamation made before section 182AA expires, postpone the expiry of section 182AA until the end of a date specified in the proclamation, and in that case that section expires at the end of that date.
+(3) The Minister cannot make a recommendation under subsection (2) unless the Minister is satisfied, on the basis of the most recent report laid before each House of Parliament under the Land Information Authority Act 2006 section 93(2), that the expiry of section 182AA should be postponed.
+(4) There is no limit on the number of times the expiry of section 182AA may be postponed, but each postponement cannot be for longer than 5 years beginning on the day after the most recent date on which section 182AA would expire if that expiry were not postponed.
+(5) The Interpretation Act 1984 section 42 applies to and in relation to a proclamation made under subsection (2) as if the proclamation were a regulation.
+(6) The expiry of section 182AA does not affect the validity of any regulations made under section 181 and in effect immediately before that expiry.
+On the date as at which this compilation was prepared, the Land Legislation Amendment (Taxing) Act 2015 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — Transfer of Land Act 1893 amended
+7.Act amended
+This Part amends the Transfer of Land Act 1893 as amended by the Land Legislation Amendment Act 2015.
+8.Section 182AA amended
+After section 182AA(1) insert:
+(2A) To the extent that regulations to which subsection (1) applies prescribe a fee that includes an amount that is a tax, the regulations may impose the tax.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
