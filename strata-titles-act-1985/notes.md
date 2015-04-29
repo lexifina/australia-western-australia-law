@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 24 May 2013 of the Strata Titles Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Strata Titles Act 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Strata Titles Act 1985 | 33 of 1985 | 6 May 1985 | s. 1 and 2: 6 May 1985; Act other than s. 1 and 2: 30 Jun 1985 (see s. 2 and Gazette 21 Jun 1985 p. 2188)
@@ -46,10 +46,12 @@ Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 37 | 28 of 2010 | 1
 Building Act 2011 s. 174 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
 Water Services Legislation Amendment and Repeal Act 2012 s. 232 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Reprint 7: The Strata Titles Act 1985 as at 24 May 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 67 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Land Legislation Amendment Act 2015 Pt. 4 | 11 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
+Land Legislation Amendment (Taxing) Act 2015 Pt. 3 | 12 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
 The Strata Titles Amendment Act 1995 s. 5(5) reads as follows:
 (5) A plan registered under the principal Act before the provision inserted by subsection (3) came into operation is declared to be, and to have always been, valid if it would have been valid at the time of registration had that provision been then in operation.
 Deleted by the Building Act 2011 s. 153(2).
@@ -131,6 +133,34 @@ On the date as at which this reprint was prepared, the State Superannuation (Tra
 67.Strata Titles Act 1985 amended
 Section 73(1)(g)(i) of the Strata Titles Act 1985 is amended by deleting “, and in particular his rights, if any, under the Superannuation and Family Benefits Act 1938.”.
 The section that it seeks to amend has been repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1125.
+On the date as at which this compilation was prepared, the Land Legislation Amendment Act 2015 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — Strata Titles Act 1985 amended
+7.Act amended
+This Part amends the Strata Titles Act 1985.
+8.Sections 131A and 131B inserted
+After section 130 insert:
+131A.Certain prescribed fees may exceed cost recovery
+(1) Regulations made under section 130 prescribing a fee payable to the Registrar of Titles may prescribe a fee that is more than the amount, or an estimate of the amount, needed to allow recovery of expenditure —
+(a) incurred in connection with the matter in relation to which the fee is charged; or
+(b) that is relevant to —
+(i) the scheme or system under which the action to which the fee relates is taken; or
+(ii) the performance of any function to which the fee relates.
+(2) The definition of scheme in section 3(1) does not apply to subsection (1).
+(3) This section does not limit the Interpretation Act 1984 section 45A.
+131B.Expiry of section 131A
+(1) Section 131A expires at the end of 31 December 2019.
+(2) However, the Governor, on the recommendation of the Minister, may, by proclamation made before section 131A expires, postpone the expiry of section 131A until the end of a date specified in the proclamation, and in that case that section expires at the end of that date.
+(3) The Minister cannot make a recommendation under subsection (2) unless the Minister is satisfied, on the basis of the most recent report laid before each House of Parliament under the Land Information Authority Act 2006 section 93(2), that the expiry of section 131A should be postponed.
+(4) There is no limit on the number of times the expiry of section 131A may be postponed, but each postponement cannot be for longer than 5 years beginning on the day after the most recent date on which section 131A would expire if that expiry were not postponed.
+(5) The Interpretation Act 1984 section 42 applies to and in relation to a proclamation made under subsection (2) as if the proclamation were a regulation.
+(6) The expiry of section 131A does not affect the validity of any regulations made under section 130 and in effect immediately before that expiry.
+On the date as at which this compilation was prepared, the Land Legislation Amendment (Taxing) Act 2015 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Strata Titles Act 1985 amended
+5.Act amended
+This Part amends the Strata Titles Act 1985 as amended by the Land Legislation Amendment Act 2015.
+6.Section 131A amended
+After section 131A(1) insert:
+(2A) To the extent that regulations to which subsection (1) applies prescribe a fee that includes an amount that is a tax, the regulations may impose the tax.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
