@@ -5,6 +5,7 @@ Citation | Gazettal | Commencement
 Planning and Development (Development Assessment Panels) Regulations 2011 | 24 Mar 2011 p. 1039-90 | r. 1 and 2: 24 Mar 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Mar 2011 (see r. 2(b) and Gazette 24 Mar 2011 p. 1035)
 Planning and Development (Development Assessment Panels) Amendment Regulations 2013 | 25 Jan 2013 p. 271-7 | r. 1 and 2: 25 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Jan 2013 (see r. 2(b))
 Planning and Development (Development Assessment Panels) Amendment Regulations (No. 2) 2013 | 16 Jul 2013 p. 3249-50 | r. 1 and 2: 16 Jul 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2013 (see r. 2(b))
+Planning and Development (Development Assessment Panels) Amendment Regulations 2015 | 17 Apr 2015 p. 1380-6 | r. 1 and 2: 17 Apr 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2015 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -35,7 +36,7 @@ multiple dwelling3(2)
 notifiable gift46(1)
 outbuilding3(2)
 patio3(2)
-Planning CEO3(1)
+Director General3(1)
 planning instrument3(1)
 presiding member3(1)
 prohibited gift46(1)
