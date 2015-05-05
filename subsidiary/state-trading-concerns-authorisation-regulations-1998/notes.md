@@ -55,12 +55,22 @@ State Trading Concerns (Authorisation) Amendment Regulations (No. 2) 2012 | 18 D
 State Trading Concerns (Authorisation) Amendment Regulations (No. 3) 2012 | 19 Feb 2013 p. 998-9 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
 Reprint 5: The State Trading Concerns (Authorisation) Regulations 1998 as at 5 Apr 2013 (includes amendments listed above)
 State Trading Concerns (Authorisation) Amendment Regulations 2013 | 10 May 2013 p. 1938-9 | r. 1 and 2: 10 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 11 May 2013 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+State Trading Concerns (Authorisation) Amendment Regulations 2015 r. 3 and 4 | 5 May 2015 p. 1597 | 1 Jul 2015 (see r. 2(b) and Gazette 10 Apr 2015 p. 1249)
 Under the Alteration of Statutory Designations Order 2007 a reference in any law to the Department for Community Development is to be read and construed as a reference to the Department for Child Protection unless the contrary intention appears.
 Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in any law to the Department for Planning and Infrastructure is to be read and construed as a reference to the Department of Planning or the Department of Transport or the Department of Regional Development and Lands (as the case requires) unless the contrary intention appears.
 Under the Public Sector Management Act 1994 the designations of departments can be altered. At the time of this reprint the designation of the Department of Consumer and Employment Protection has been altered to the Department of Commerce (see Gazette 2 Jan 2009 p. 8).
 Under the Public Sector Management Act 1994 the designations of departments can be altered. At the time of this reprint the designation of the Department of Industry and Resources has been altered to the Department of Mines and Petroleum (see Gazette 2 Jan 2009 p. 8).
 Footnote no longer applicable.
 The Western Australian Government Railways Commission no longer exists. Its successor is the Public Transport Authority. See Public Transport Authority Act 2003 s. 80.
+On the date as at which this compilation was prepared, the State Trading Concerns (Authorisation) Amendment Regulations 2015 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the State Trading Concerns (Authorisation) Regulations 1998.
+4.Schedule 2 amended
+(1) In Schedule 2 Part 1 delete “Western Australian Alcohol and Drug Authority”.
+(2) In Schedule 2 Part 2 delete the item relating to the Western Australian Alcohol and Drug Authority.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
