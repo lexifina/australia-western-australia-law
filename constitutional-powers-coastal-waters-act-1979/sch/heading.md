@@ -1,6 +1,6 @@
 ## Schedule — Requested Commonwealth Act: Coastal Waters (State Powers) Act 1979
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 AN ACT
 To extend the legislative powers of the States in and in relation to coastal waters.
 Preamble
