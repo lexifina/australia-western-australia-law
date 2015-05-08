@@ -1,6 +1,6 @@
 ## Schedule 1 — Vienna Convention
 [s. 3]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 UNITED NATIONS CONVENTION ON CONTRACTS
 FOR THE INTERNATIONAL SALE OF GOODS
 THE STATES PARTIES TO THIS CONVENTION,
