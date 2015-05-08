@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building Services (Registration) Regulations 2011 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 8 May 2015 of the Building Services (Registration) Regulations 2011 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Building Services (Registration) Regulations 2011 | 26 Aug 2011 p. 3411-52 | r. 1 and 2: 26 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2011 (see r. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
@@ -15,8 +15,11 @@ Building Services (Registration) Amendment Regulations (No. 2) 2013 | 14 Nov 201
 Building Services (Registration) Amendment Regulations (No. 4) 2013 | 31 Dec 2013 p. 6535-9 | r. 1 and 2: 31 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see. r. 2(b))
 Building Services (Registration) Amendment Regulations 2014 | 17 Jun 2014 p. 1959-61 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Building Services (Registration) Amendment Regulations (No. 2) 2014 | 19 Dec 2014 p. 4841-2 | r. 1 and 2: 19 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Dec 2014 (see r. 2(b))
-Repealed by the Local Government (Building Surveyors) Regulations 2008, which were repealed by the Building Services (Registration) Act 2011.
-Repealed by the Building Services (Registration) Act 2011.
+Reprint 2: The Building Services (Registration) Regulations 2011 as at 8 May 2015 (includes amendments listed above)
+The Builders’ Registration Act 1939 was repealed by the Building Services (Registration) Act 2011 s. 107 on 29 Aug 2011.
+The Local Government (Qualifications of Municipal Officers) Regulations 1984 were repealed by the Local Government (Building Surveyors) Regulations 2008, which were repealed by the Building Services (Registration) Act 2011 s. 112 on 2 Apr 2012.
+The Local Government (Building Surveyors) Regulations 2008 were repealed by the Building Services (Registration) Act 2011 s. 112 on 2 Apr 2012.
+The Painters’ Registration Act 1961 was repealed by the Building Services (Registration) Act 2011 s. 108 on 29 Aug 2011.
 The amendment in the Building Services (Registration) Amendment Regulations (No. 5) 2012 r. 5(5) is not included because the paragraph it purported to amend did not contain subparagraphs.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -38,7 +41,7 @@ Class 10 building22
 commencement day37, 43
 compliance certificate3
 detached house22
-eligible person16(4), 28D(2A), (3A), 31(4)
+eligible person16(4), 28D(2A) and (3A), 31(4)
 farm building12
 former board37, 43
 former registrar37, 43
