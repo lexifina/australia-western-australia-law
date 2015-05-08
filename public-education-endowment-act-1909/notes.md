@@ -1,10 +1,10 @@
 Notes
-This is a compilation of the Public Education Endowment Act 1909 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any previous reprint.
+This reprint is a compilation as at 8 May 2015 of the Public Education Endowment Act 1909 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Public Education Endowment Act 1909 | 32 of 1909 | 4 Dec 1909 | 4 Dec 1909
-Public Education Endowment Amendment Act 1925 | 7 of 1925 | 24 Sep 1925 | 24 Sep 1925
-Ministers’ Titles Act 1925 | 8 of 1925 | 24 Sep 1925 | 24 Sep 1925
+Public Education Endowment Act 1909 | 32 of 1909 (9 Edw. VII No. 28) | 4 Dec 1909 | 4 Dec 1909
+Public Education Endowment Amendment Act 1925 | 7 of 1925 (16 Geo. V No. 7) | 24 Sep 1925 | 24 Sep 1925
+Ministers’ Titles Act 1925 s. 2 | 8 of 1925 (16 Geo. V No. 8) | 24 Sep 1925 | 24 Sep 1925
 Public Education Endowment Act Amendment Act 1970 | 3 of 1970 | 29 Apr 1970 | 29 Apr 1970
 Acts Amendment (Statutory Designations) and Validation Act 1981 s. 4 | 63 of 1981 | 13 Oct 1981 | 13 Oct 1981
 Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
@@ -15,8 +15,8 @@ Trustees Amendment Act 1997 s. 18 | 1 of 1997 | 6 May 1997 | 16 Jun 1997 (see s.
 School Education Act 1999 s. 247 | 36 of 1999 | 2 Nov 1999 | 1 Jan 2001 (see s. 2 and Gazette 29 Dec 2000 p. 7904)
 Universities Legislation Amendment Act 2000 s. 18 | 75 of 2000 | 7 Dec 2000 | 13 Jan 2001 (see s. 2(1) and Gazette 12 Jan 2001 p. 245)
 Reprint of the Public Education Endowment Act 1909 as at 4 Jan 2002 (includes amendments listed above)
-Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Marginal notes in the Public Education Endowment Act 1909 referring to the University Endowment Act 1904 have been omitted from this and later reprints.
+Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 135 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+Reprint 3: The Public Education Endowment Act 1909 as at 8 May 2015 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
