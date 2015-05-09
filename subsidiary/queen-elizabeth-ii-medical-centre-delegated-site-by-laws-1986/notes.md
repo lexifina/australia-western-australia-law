@@ -21,6 +21,7 @@ Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 201
 Reprint 2: The Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986 as at 18 Apr 2014 (includes amendments listed above)
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2014 | 17 Jun 2014 p. 1980-1 | bl. 1 and 2: 17 Jun 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2014 (see bl. 2(b))
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2015 | 10 Feb 2015 p. 617-20 | bl. 1 and 2: 10 Feb 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Apr 2015 (see bl. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2015 | 8 May 2015 p. 1619-21 | bl. 1 and 2: 8 May 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 9 May 2015 (see bl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -38,6 +39,8 @@ parking permit3(1)
 parking space3(1)
 permit parking area26AC(1)
 prescribed fee3(1)
+prohibited item7(1)
+responsible person3(1)
 roadway3(1)
 secretary3(1)
 sign3(1)
