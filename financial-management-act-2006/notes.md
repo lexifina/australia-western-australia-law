@@ -27,6 +27,7 @@ Financial Management (Statutory Authorities) Regulations 2013 published in Gazet
 Minerals Research Institute of Western Australia Act 2013 s. 77 | 23 of 2013 | 18 Dec 2013 | 1 Feb 2014 (see s. 2(b) and Gazette 14 Jan 2014 p. 43)
 Reprint 3: The Financial Management Act 2006 as at 11 Apr 2014 (includes amendments listed above)
 Financial Management (Statutory Authorities) Regulations 2014 published in Gazette 11 Nov 2014 p. 4262 | r. 1 and 2: 11 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Nov 2014 (see r. 2(b))
+Financial Management (Statutory Authorities) Regulations 2015 published in Gazette 12 May 2015 p. 1641 | r. 1 and 2: 12 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 13 May 2015 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
