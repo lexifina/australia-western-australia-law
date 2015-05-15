@@ -47,11 +47,13 @@ Land Administration Amendment Act 2009 s. 7 | 32 of 2009 | 26 Nov 2009 | 27 Nov 
 Valuation of Land Amendment (Assessed Value) Act 2009 | 33 of 2009 | 26 Nov 2009 | s. 1 and 2: 26 Nov 2009 (see s. 2(a)); Act other than s. 1 and 2: 11 Dec 2010 (see s. 2(b) and Gazette 10 Dec 2010 p. 6262)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 6: The Valuation of Land Act 1978 as at 14 Oct 2011 (includes amendments listed above)
+Valuation of Land Amendment Act 2015 s. 1 and 2 | 14 of 2015 | 15 May 2015 | 15 May 2015 (see s. 2(a))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Land Legislation Amendment Act 2015 Pt. 6 | 11 of 2015 | 29 Apr 2015 | To be proclaimed (see s. 2(b))
-Land Legislation Amendment (Taxing) Act 2015 Pt. 5 | 12 of 2015 | 29 Apr 2015 | Operative on commencement of the Land Legislation Amendment Act 2015 s. 3 (see s. 2(b))
+Land Legislation Amendment Act 2015 Pt. 6 | 11 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
+Land Legislation Amendment (Taxing) Act 2015 Pt. 5 | 12 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
+Valuation of Land Amendment Act 2015 s. 3 and 4 | 14 of 2015 | 15 May 2015 | 30 Jun 2015 (see s. 2(b)(i))
 Under the Land Administration Act 1997 s. 281(3), a reference to the Land Act 1933 in a written law is, unless the contrary intention appears, to be read and construed as being a reference to the Land Administration Act 1997.
 The name of the Local Government Act 1960 was changed to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.
 Repealed by the Interpretation Act 1984 s. 77(1).
@@ -96,6 +98,23 @@ This Part amends the Valuation of Land Act 1978 as amended by the Land Legislati
 10.Section 50 amended
 After section 50(1) insert:
 (2A) To the extent that regulations to which subsection (1) applies prescribe a fee that includes an amount that is a tax, the regulations may impose the tax.
+On the date as at which this compilation was prepared, the Valuation of Land Amendment Act 2015 s. 3 and 4 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Valuation of Land Act 1978.
+4.Section 4 amended
+(1) In section 4(1) in the definition of unimproved value:
+(a) in paragraph (b)(ii)(I) delete “rent that would be payable” and insert:
+annual rent that would be used to calculate unimproved value under item (II) or (III)
+(b) delete paragraph (b)(ii)(II), (III) and (IV) and insert:
+(II) an exploration licence is held under the Mining Act 1978 —
+(A) 2.5 times the annual rent payable for the licence under that Act if it is the first year of the term of the licence; or
+(B) 2.5 times the annual rent that would be payable for the licence under that Act if it were the first year of the term of the licence;
+or
+(III) any other licence or a lease is held under the Mining Act 1978 — 5 times the annual rent payable for the licence or lease under that Act; or
+(IV) a licence or lease is held under the Petroleum and Geothermal Energy Resources Act 1967 — 2.5 times the annual fee payable for the licence or lease under that Act; or
+(VA) a permit or drilling reservation is held under the Petroleum and Geothermal Energy Resources Act 1967 — the annual fee payable for the permit or drilling reservation under that Act; or
+(2) In section 4(1) in the definition of unimproved value after paragraph (b)(ii)(I) insert:
+or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
