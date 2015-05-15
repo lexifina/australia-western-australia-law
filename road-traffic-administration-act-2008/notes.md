@@ -1,21 +1,22 @@
 Notes
-This is a compilation of the Road Traffic (Administration) Act 2008 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 15 May 2015 of the Road Traffic (Administration) Act 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic (Administration) Act 2008 | 39 of 2008 | 15 Aug 2008 | s. 1 and 2: 15 Aug 2008 (see s. 2(a)); Act other than s. 1 and 2: 27 Apr 2015 (see s. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Road Traffic Legislation Amendment (Registration Labels) Act 2009 Pt. 3 | 39 of 2009 | 3 Dec 2009 | 1 Jan 2010 (see s. 2(b))
 Road Traffic Legislation Amendment (Disqualification by Notice) Act 2010 Pt. 3 | 51 of 2010 | 8 Dec 2010 | 1 Aug 2012 (see s. 2(c) and Gazette 27 Jul 2012 p. 3664)
 Trade Measurement Legislation (Amendment and Expiry) Act 2010 s. 10 | 54 of 2010 | 8 Dec 2010 | 8 Dec 2010 (see s. 2(b)(ii))
-Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 3 | 14 of 2011 | 25 May 2011 | 27 Apr 2015 (see s. 2(b) and Gazette 30 Aug 2011 p. 3503 and 17 Apr 2015 p. 1371)
+Road Traffic Amendment (Alcohol and Drug Related Offences) Act 2011 Pt. 3 | 14 of 2011 | 25 May 2011 | 27 Apr 2015 (see s. 2(b) and Gazettes 30 Aug 2011 p. 3503 and 17 Apr 2015 p. 1371)
 Road Traffic Legislation Amendment (Information) Act 2011 Pt. 3 | 18 of 2011 | 2 Jun 2011 | 27 Apr 2015 (see s. 2(b) and Gazette 29 Jun 2011 p. 2611 and 17 Apr 2015 p. 1371)
-Road Traffic Legislation Amendment Act 2012 Pt. 5 | 8 of 2012 (as amended by No. 10 of 2015 s. 19) | 21 May 2012 | Pt. 5 (s. 208(1), 210, 211, 212 and 224): 27 Apr 2015 (see s 2(e) and Gazettes 29 Jun 2011 and 17 Apr 2015 p. 1371); Pt. 5 (other than s. 208(1), 210, 211, 212 and 224): 27 Apr 2015 (see s 2(f) and Gazette 17 Apr 2015 p. 1371)
+Road Traffic Legislation Amendment Act 2012 Pt. 5 | 8 of 2012 (as amended by No. 10 of 2015 s. 19) | 21 May 2012 | Pt. 5 (s. 208(1), 210, 211, 212 and 224): 27 Apr 2015 (see s. 2(e) and Gazettes 29 Jun 2011 p. 2611 and 17 Apr 2015 p. 1371); Pt. 5 (other than s. 208(1), 210, 211, 212 and 224): 27 Apr 2015 (see s 2(f) and Gazette 17 Apr 2015 p. 1371)
 Road Traffic (Miscellaneous Amendments) Act 2012 Pt. 3 | 59 of 2012 | 11 Dec 2012 | 27 Apr 2015 (see s 2(c)(ii) and Gazette 17 Apr 2015 p. 1371)
 Road Traffic Legislation Amendment Act 2015 Pt. 3 | 10 of 2015 | 1 Apr 2015 | 2 Apr 2015 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 1: The Road Traffic (Administration) Act 2008 as at 15 May 2015 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 2 | 2 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(1)(b) and (2))
-On the date as at which this compilation was prepared, the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 2 had not come into operation. It reads as follows:
+Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 2 | 2 of 2015 | 25 Feb 2015 | 24 Oct 2016 (see s. 2(1)(b) and (2) and Gazette 20 Sep 2016 p. 3965)
+On the date as at which this reprint was prepared, the Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 2 had not come into operation. It reads as follows:
 Part 3 — Amendments which may be brought into operation on or after the day fixed under the Road Traffic (Administration) Act 2008 section 2(b)
 Division 2 — Road Traffic (Administration) Act 2008 amended
 14.Act amended
@@ -36,8 +37,8 @@ Australian driver licensing authority4
 Australian police officer4
 authorised person47(1), 59(1), 117(1)
 authorised purpose14(1)
-authorised to drive a vehicle29(3)
-authorised to run the engine of a vehicle29(3)
+authorised to drive a vehicle29(3)(a)
+authorised to run the engine of a vehicle29(3)(b)
 axle4
 axle group4
 bodily harm4
@@ -45,7 +46,7 @@ broken down31
 business address4
 CEO4
 certificate126(1)
-co-driver4, 28, 28, 38
+co-driver4, 28, 38
 commencement day147
 Commissioner140(1)
 compensation order123
@@ -99,7 +100,7 @@ Max7
 MDLR compliance purposes4, 28
 MDLR offence4, 28
 Min7
-Minister117(1)
+Minister117(1), 166(1)
 modified penalty104(1)
 motor vehicle4
 number plate36(3)
@@ -120,7 +121,7 @@ predominantly for residential purposes51(2)
 premises4, 54(1), 55(1)
 prescribed area40(1), 47(1)
 prescribed person14(1)
-present offence107
+present offence107(a)
 PU7
 public authority4
 public place28
@@ -131,7 +132,7 @@ records4
 relevant authorisation12(1)
 relevant authority13A(1)
 remote communication62
-residential purposes51(1), 51(1)
+residential purposes51(1)(a) and (b)
 responsible person4, 34(1)
 road4
 road authority123
@@ -145,7 +146,6 @@ speed measuring equipment117(1)
 state of mind119(1)
 stop39(1)
 suitable location40(1)
-the Minister166(1)
 traffic4
 transport documentation4
 unattended30(1)
