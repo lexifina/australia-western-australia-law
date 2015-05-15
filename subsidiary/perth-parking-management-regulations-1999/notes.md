@@ -29,7 +29,24 @@ Perth Parking Management Amendment Regulations (No. 2) 2013 | 14 Jun 2013 p. 224
 Perth Parking Management Amendment Regulations 2014 | 16 May 2014 p. 1544-5 | r. 1 and 2: 16 May 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Reprint 4: The Perth Parking Management Regulations 1999 as at 15 Aug 2014 (includes amendments listed above)
 Perth Parking Management Amendment Regulations 2015 | 13 Feb 2015 p. 652-3 | r. 1 and 2: 13 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Feb 2015 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Perth Parking Management Amendment Regulations (No. 2) 2015 r. 3-4 | 15 May 2015 p. 1729-30 | 1 Jul 2015 (see r. 2(b))
 Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
+On the date as at which this compilation was prepared, the Perth Parking Management Amendment Regulations (No. 2) 2015 r. 3-4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Perth Parking Management Regulations 1999.
+4.Schedule 2 amended
+In Schedule 2 item 11 —
+(a) in paragraph (b) delete “879.50” and insert:
+1 062.00
+(b) in paragraph (c) delete “813.30” and insert:
+995.80
+(c) in paragraph (d) delete “813.30” and insert:
+995.80
+(d) in paragraph (e) delete “911.20” and insert:
+1 093.70
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
