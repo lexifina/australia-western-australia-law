@@ -34,7 +34,6 @@ Item | Offence under Food Regulations 2009 | Modified penalty (individual) | Mod
 24. | r. 25(1) | $500 | $1 000
 25. | r. 25(2) | $500 | $1 000
 26. | r. 26(1) | $500 | $1 000
-Item | Offence under Food Regulations 2009 | Modified penalty (individual) | Modified penalty (body corporate)
 27. | r. 26(3) | $500 | $1 000
 28. | r. 26(4) | $500 | $1 000
 29. | r. 27(1) | $500 | $1 000
