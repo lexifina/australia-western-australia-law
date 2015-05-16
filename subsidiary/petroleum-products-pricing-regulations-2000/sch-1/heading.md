@@ -24,11 +24,11 @@ Dampier | Norseman
 Denmark | Northam
 Derby | Port Hedland
 Dongara | Ravensthorpe
-Esperance | South Hedland
-Exmouth | Tammin
-Fitzroy Crossing | Williams
-Jurien | Wubin
-Kalgoorlie | York
-Kambalda (East)
+Esperance | Regans Ford
+Exmouth | South Hedland
+Fitzroy Crossing | Tammin
+Jurien | Williams
+Kalgoorlie | Wubin
+Kambalda (East) | York
 Kambalda (West)
-[Schedule 1 inserted in Gazette 13 May 2003 p. 1665-6; amended in Gazette 3 Oct 2006 p. 4337.]
+[Schedule 1 inserted in Gazette 13 May 2003 p. 1665-6; amended in Gazette 3 Oct 2006 p. 4337; 15 May 2015 p. 1720.]
