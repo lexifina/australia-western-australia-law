@@ -19,6 +19,7 @@ Magistrates Court (Civil Proceedings) Amendment Rules (No. 4) 2014 | 3 Jun 2014 
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 5) 2014 | 12 Dec 2014 p. 4716-17 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Rules other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 3) 2014 | 8 Jan 2015 p. 159-60 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Rules other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Magistrates Court (Civil Proceedings) Amendment Rules 2014 | 23 Jan 2015 p. 410-14 | r. 1 and 2: 23 Jan 2015 (see r. 2(a)); Rules other than r. 1 and 2: 24 Jan 2015 (see r. 2(b))
+Magistrates Court (Civil Proceedings) Amendment Rules 2015 | 15 May 2015 p. 1726-8 | r. 1 and 2: 15 May 2015 (see r. 2(a)); Rules other than r. 1 and 2: 16 May 2015 (see r. 2(b))
 The Public Trustee Act 1941 s. 40, as inserted by the Public Trustee and Trustee Companies Legislation Amendment Act 2008 s. 25(1), does not refer to the “Common Fund” but to a “Fund”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -34,13 +35,11 @@ counterclaim4
 default judgment4
 defendant4, 65(1)
 determined value87
-egistrar4
 enforcement officer4
 first party66
 Inactive Cases List95A
 listing conference4
 lodge4
-lodge
 order4
 originating claim4
 other party133AAD(5)
@@ -50,12 +49,12 @@ personal service4
 post-offer costs65(1)
 pre-trial conference4
 Public Trustee4
+registrar4
 represented person116
 respondent131B(3)
 response4
 section131B(1), 133AAA
 serve4
-serve
 serve personally4
 subsequent party66
 successful party4
