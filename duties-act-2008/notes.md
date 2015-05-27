@@ -22,6 +22,7 @@ Electronic Conveyancing Act 2014 Pt. 6 | 2 of 2014 | 24 Mar 2014 | 3 Jun 2014 (s
 Revenue Laws Amendment Act 2014 Pt. 2 | 15 of 2014 | 2 Jul 2014 | 3 Jul 2014 (see s. 2(c)(i))
 Taxation Legislation Amendment Act 2015 Pt.2 Div. 2 and Pt. 4 | 1 of 2015 | 25 Feb 2015 | 26 Feb 2015 (see s. 2(d)
 Taxation Legislation Amendment Act (No. 2) 2015 Pt. 2 | 8 of 2015 | 9 Mar 2015 | 10 Mar 2015 (see s. 2(b))
+Taxation Legislation Amendment Act (No. 3) 2015 Pt. 2 | 15 of 2015 | 26 May 2015 | 27 May 2015 (see s. 2(c))
 The Mining Act 1904 was repealed by the Mining Act 1978.
 This section has a retrospective commencement date effective from 1 Dec 2011 (see the Revenue Laws Amendment Act 2012 Pt. 2 Div. 1 and 2).
 The Acts Amendment (Land Administration) Act 1997 commenced 30 Mar 1998 (see Gazette 27 Mar 1998 p. 1765).
@@ -199,6 +200,7 @@ old public unit trust119(1)
 option property44(1)
 optional feature231
 order3
+original dutiable property123(2)
 original equipment239(2)
 original transaction96C(8)
 original transfer120(1)
@@ -222,7 +224,7 @@ primary production3, 101A(1)
 produce animals101A(1)
 professional association3
 promote trade, industry or commerce3
-property122(2)
+property122(3)
 proprietor45(2)
 proprietor of a business178(1)
 public authority3
@@ -296,11 +298,11 @@ transfer9
 transfer duty3
 transfer duty statement3
 transferee99(1), 141(1)
-transferor99(1), 122(1), 173(1)
+transferor99(1), 173(1)
 transfers42(8)
 trust acquisition9
 trust surrender9
-trustee118(1), 122(1)
+trustee118(1)
 unencumbered value9, 36(1), 148
 unlisted corporation63
 vehicle228, 230(1)

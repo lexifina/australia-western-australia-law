@@ -30,6 +30,7 @@ Revenue Laws Amendment Act (No. 2) 2012 Pt. 4 | 32 of 2012 | 8 Oct 2012 | 1 Jul 
 Reprint 4: The Land Tax Assessment Act 2002 as at 19 Apr 2013 (includes amendments listed above)
 Taxation Legislation Amendment Act 2015 Pt. 2 Div. 1 and Pt. 3 | 1 of 2015 | 25 Feb 2015 | Pt. 3 Div. 2: 1 Jul 2003 (see s. 2(c)); Pt. 2 Div. 1: 1 Jul 2014 (see s. 2(b)); Pt. 3 Div. 1 and 3: 25 Feb 2015 (see s. 2(a))
 Taxation Legislation Amendment Act (No. 2) 2015 Pt. 3 | 8 of 2015 | 9 Mar 2015 | 10 Mar 2015 (see s. 2(b))
+Taxation Legislation Amendment Act (No. 3) 2015 Pt. 3 | 15 of 2015 | 26 May 2015 | 27 May 2015 (see s. 2(c))
 Under the Conservation and Land Management Act 1984 s. 151(a) a reference in any written law to the Forests Department is read as a reference to the Department of Conservation and Land Management unless the context is such that it would be incorrect or inappropriate.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Under the Public Sector Management Act 1994 the designations of departments can be changed. At the time of this compilation the designation of the Department of Mines has been changed to the Department of Mines and Petroleum.
