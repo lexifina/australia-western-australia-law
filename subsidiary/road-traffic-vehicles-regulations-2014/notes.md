@@ -1,8 +1,13 @@
 Notes
-This is a compilation of the Road Traffic (Vehicles) Regulations 2014. The following table contains information about these regulations.
+This is a compilation of the Road Traffic (Vehicles) Regulations 2014 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Vehicles) Regulations 2014 | 23 Dec 2014 p. 5103-444 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
+Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 | 27 May 2015 p. 1865-6 | 27 May 2015 (see note under r. 1)
+Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 | 27 May 2015 p. 1867-71 | 27 May 2015 (see note under r. 1)
+The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 reads as follows:
+2.Specified day
+For the purposes of section 18 of the Act, the specified day in relation to these regulations is 1 July 2015.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
