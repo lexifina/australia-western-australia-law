@@ -6,7 +6,10 @@ Health Practitioner Regulation National Law (WA) Regulations 2010 | 26 Nov 2010 
 ## Note — Health Practitioner Regulation National Law Regulation
 [This note is not part of the Regulations. It shows the text of the Health Practitioner Regulation National Law Regulation referred to in regulation 3 as —
 (a) modified by regulation 4(2); and
-(b) amended by the Health Practitioner Regulation National Law Amendment (Midwife Insurance Exemption) Regulation 2011 made by the Australian Health Workforce Ministerial Council on 26 September 2011 and published by the Victorian Government Printer on 5 October 2011.]
+(b) amended by the following —
+Health Practitioner Regulation National Law Amendment (Midwife Insurance Exemption) Regulation 2011 made by the Australian Health Workforce Ministerial Council on 26 September 2011 and Notice published by the Victorian Government Printer on 7 October 2011
+Health Practitioner Regulation National Law Amendment (Midwife Insurance Exemption) Regulation 2013 made by the Australian Health Workforce Ministerial Council on 14 June 2013 and Notice published by the Victorian Government Printer on 20 June 2013
+Health Practitioner Regulation National Law Amendment (Midwife Insurance Exemption) Regulation 2015 made by the Australian Health Workforce Ministerial Council on 1 June 2015 and Notice published by the Victorian Government Printer on 3 June 2015.]
 No 42/2010
 under the
 Health Practitioner Regulation National Law
@@ -245,8 +248,8 @@ The Ombudsman Act applies as if the amendments made to it by the Freedom of Info
 The Regulations made under the Ombudsman Act, other than provisions providing for witness expenses, do not apply.
 ## Part 5 Miscellaneous
 ### 29Transition period in relation to professional indemnity insurance arrangement for midwives practising private midwifery
-For the purposes of section 284(3)(b) of the Law, the transition period ends on 30 June 2015.
-[Clause 29 amended by the Health Practitioner Regulation National Law Amendment (Midwife Insurance Exemption) Regulation 2011 r. 3; Health Practitioner Regulation National Law Amendment (Midwife Insurance Exemption) Regulation 2013 r. 3.]
+For the purposes of section 284(3)(b) of the Law, the transition period ends on 31 December 2016.
+[Clause 29 amended by the Health Practitioner Regulation National Law Amendment (Midwife Insurance Exemption) Regulation 2011 r. 3; Health Practitioner Regulation National Law Amendment (Midwife Insurance Exemption) Regulation 2013 r. 3; Health Practitioner Regulation National Law Amendment (Midwife Insurance Exemption) Regulation 2015 r. 3.]
 ### 30Notifications made to National Agency after commencement
 (1)This clause applies if-
 (a)the National Agency receives a notification about a registered health practitioner or student; and
