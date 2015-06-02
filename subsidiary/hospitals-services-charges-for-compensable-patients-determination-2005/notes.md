@@ -24,3 +24,24 @@ Hospitals (Services Charges for Compensable Patients) Amendment Determination 20
 Hospitals (Services Charges for Compensable Patients) Amendment Determination (No. 2) 2014 | 13 Jun 2014 p. 1896 | cl. 1 and 2: 13 Jun 2014 (see cl. 2(a)); Determination other than cl. 1 and 2: 1 Jul 2014 (see cl. 2(b))
 Hospitals (Services Charges for Compensable Patients) Amendment Determination (No. 3) 2014 | 21 Oct 2014 p. 4075 | cl. 1 and 2: 21 Oct 2014 (see cl. 2(a)); Determination other than cl. 1 and 2: 22 Oct 2014 (see cl. 2(b))
 Hospitals (Services Charges for Compensable Patients) Amendment Determination 2015 | 23 Jan 2015 p. 409 | cl. 1 and 2: 23 Jan 2015 (see cl. 2(a)); Determination other than cl. 1 and 2: 24 Jan 2015 (see cl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Hospitals (Services Charges for Compensable Patients) Amendment Determination (No. 2) 2015 cl. 3 and 4 | 2 Jun 2015 p. 1941-2 | 1 Jul 2015 (see cl. 2(b))
+On the date as at which this compilation was prepared, the Hospitals (Services Charges for Compensable Patients) Amendment Determination (No. 2) 2015 cl. 3 and 4 had not come into operation. They read as follows:
+3.Determination amended
+This determination amends the Hospitals (Services Charges for Compensable Patients) Determination 2005.
+4.Schedule 1 amended
+In Schedule 1 amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Sch. 1 it. 1 | $2 005 | $2 070
+Sch. 1 it. 2 | $1 648 | $1 598
+Sch. 1 it. 2A | $2 149 | $2 219
+Sch. 1 it. 3 | $275 | $279
+Sch. 1 it. 4 | $5 140 | $5 467
+Sch. 1 it. 6 | $223 | $245
+Sch. 1 it. 8 | $223 | $245
+Sch. 1 it. 9(a) | $1 729 | $1 652
+Sch. 1 it. 9(aa) | $2 255 | $2 294
+Sch. 1 it. 9(b) | $2 103 | $2 140
