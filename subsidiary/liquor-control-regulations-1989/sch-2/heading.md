@@ -2,7 +2,7 @@
 [Regulation 13]
 ## Details of applicant
 Item | Category of applicant | Details to be provided
-1. | Natural person .................. | (a)full name; and
+1. | Natural person ................ | (a)full name; and
  |  | (b)any other name used now or previously; and
  |  | (c)present residential address; and
  |  | (d)any other residential address in the past 5 years, including dates of each change of address; and
