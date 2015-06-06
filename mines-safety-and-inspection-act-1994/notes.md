@@ -30,10 +30,7 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Reprint 5: The Mines Safety and Inspection Act 1994 as at 4 Feb 2011 (includes amendments listed above)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 33 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 3 | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Mines Safety and Inspection Amendment Act 2014 Pt. 2 | 33 of 2014 | 3 Dec 2014 | To be proclaimed (see s. 2(b))
+Mines Safety and Inspection Amendment Act 2014 Pt. 2 | 33 of 2014 | 3 Dec 2014 | 6 Jun 2015 (see s. 2(b) and Gazette 5 Jun 2015 p. 1971)
 The Industrial Relations Act 1988 (Commonwealth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 The amendment in the Coroners Act 1996 Sch. 1 it. 11 is not included because of an error in the reference to the provision to be amended. The amendment intended was made in the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 51.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 1 cl. 100 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(10).
@@ -67,72 +64,6 @@ The Mines Safety and Inspection Amendment Act 2004 s. 85(2) reads as follows:
 (2) An appeal brought under section 52 of the Mines Safety and Inspection Act 1994 but not finally determined before the commencement of subsection (1), may be dealt with and determined under that section as if subsection (1) had not been enacted.
 The Mines Safety and Inspection Amendment Act 2004 s. 86(2) reads as follows:
 (2) An appeal brought under section 86 of the Mines Safety and Inspection Act 1994 but not finally determined before the commencement of subsection (1), may be dealt with and determined under that section as if subsection (1) had not been enacted.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Mines Safety and Inspection Amendment Act 2014 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Mines Safety and Inspection Act 1994 amended
-3.Act amended
-This Part amends the Mines Safety and Inspection Act 1994.
-4.Section 4 amended
-In section 4(1) delete the definitions of:
-assistant inspector
-employee’s inspector
-5.Section 17 amended
-Delete section 17(2) and insert:
-(2) There are to be 2 categories of inspectors, namely, district inspectors and special inspectors.
-6.Section 18 amended
-Delete section 18(2).
-7.Sections 19 and 20 deleted
-Delete sections 19 and 20.
-8.Section 21 amended
-(1) Delete section 21(2).
-(2) In section 21(3) delete “inspector or assistant inspector, as the case may require.” and insert:
-inspector.
-(3) In section 21(4) delete “inspector, special inspector, employee’s inspector, or assistant” and insert:
-inspector or special
-9.Section 25 deleted
-Delete section 25.
-10.Section 26 amended
-In section 26(1), (2) and (4) delete “inspector, an assistant inspector or a person assisting such” and insert:
-inspector or a person assisting
-11.Section 53 amended
-In section 53(1)(g) delete “employees, employers, and employee’s inspectors in accordance with section 25,” and insert:
-employees and employers
-12.Section 77 amended
-In section 77(2) delete “an assistant inspector,”.
-13.Section 87 amended
-In section 87(4):
-(a) delete “inspector, an assistant inspector,” and insert:
-inspector
-(b) delete “inspector, assistant inspector,” (each occurrence) and insert:
-inspector
-14.Section 104 amended
-In section 104(1)(a) delete “and assistant inspectors”.
-15.Section 108 deleted
-Delete section 108.
-16.Schedule 1 deleted
-Delete Schedule 1.
-17.Various references to “or assistant inspector” deleted
-In the provisions listed in the Table delete “or assistant inspector”.
-Table
-Provision | Provision
-s. 21(3) (1st and 2nd occurrences) | s. 21(4) (2nd occurrence)
-s. 21(5) (each occurrence) | s. 23(1) (each occurrence)
-s. 23(2) and (3) | s. 26(1)(a), (2) and (4)(b)
-s. 27(1) (each occurrence) | s. 28(1) (each occurrence)
-s. 29(1) (each occurrence) | s. 29(2)
-s. 30(2) and (3)(a) | s. 31(a)
-s. 31AA(1)(a) | s. 31AC(1) and (2)(b)
-s. 31AD(1) and (2)(b) | s. 31AE
-s. 31AF(a) | s. 31AH(2) (each occurrence)
-s. 31AH(3) | s. 31AI(a)
-s. 31BD(1) | s. 98(1)(f)
-s. 101(b)
-18.Various references to “or an assistant inspector” deleted
-In the provisions listed in the Table delete “or an assistant inspector”.
-Table
-Provision | Provision
-s. 21(3) | s. 30(1)
-s. 31AB | s. 31AH(1)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -143,7 +74,6 @@ agent15C(1)
 allowed period62A(1)
 alternate registered manager4(1)
 apprentice4(1)
-assistant inspector4(1)
 association32(6), 32A(3)
 Australian Standard4(1)
 Australian/New Zealand Standard4(1)
@@ -172,7 +102,6 @@ election56(1)
 Electoral Commissioner4(1)
 employed104(1a)
 employee3(2), 4(1), 20A, 102A(1), 104(1a), 104(4a)
-employee’s inspector4(1)
 employer3(2), 4(1), 20A, 104(1a)
 entitlements62(2)
 exploration manager4(1)
