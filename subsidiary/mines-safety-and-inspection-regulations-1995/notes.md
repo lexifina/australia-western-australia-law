@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 August 2014 of the Mines Safety and Inspection Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Mines Safety and Inspection Regulations 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Mines Safety and Inspection Regulations 1995 | 8 Dec 1995 p. 5629-932 | 9 Dec 1995 (see r. 1.2 and Gazette 8 Dec 1995 p. 5935)
@@ -37,6 +37,7 @@ Mines Safety and Inspection Amendment Regulations 2010 | 25 Jun 2010 p. 2871 | r
 Mines Safety and Inspection Amendment Regulations 2011 | 20 Sep 2011 p. 3800 | r. 1 and 2: 20 Sep 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2011 (see r. 2(b))
 Mines Safety and Inspection Amendment Regulations 2012 | 11 Jan 2013 p. 49-53 | r. 1 and 2: 11 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Jan 2013 (see r. 2(b))
 Reprint 6: The Mines Safety and Inspection Regulations 1995 as at 8 Aug 2014 (includes amendments listed above)
+Mines Safety and Inspection Amendment Regulations 2015 | 5 Jun 2015 p. 1973-4 | r. 1 and 2: 5 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jun 2015 (see r. 2(b) and Gazette 5 Jun 2015 p. 1971)
 Repealed by the National Occupational Health and Safety Commission (Repeal, Consequential and Transitional Provisions) Act 2005 (Commonwealth).
 The Mines Safety and Inspection Amendment Regulations 2005 r. 10(2)-(4) read as follows:
 (2) If immediately before the commencement of subregulation (1) —
