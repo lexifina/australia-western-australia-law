@@ -15,19 +15,10 @@ Reprint 2: The Coal Industry Superannuation Act 1989 as at 4 Aug 2006 (includes 
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Coal Industry Superannuation Amendment Act 2013 | 19 of 2013 | 4 Nov 2013 | Pt. 1: 4 Nov 2013 (see s. 2(a)); Pt. 2: 5 Nov 2013 (see s. 2(b)); Pt. 3 and 4: 30 Jun 2014 (see s. 2(c) and Gazette 13 Jun 2014 p. 1859); Pt. 5: 31 Oct 2014 (see s. 2(c) and Gazette 24 Oct 2014 p. 4119)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Mines Safety and Inspection Amendment Act 2014 Pt. 3 | 33 of 2014 | 3 Dec 2014 | To be proclaimed (see s. 2(b))
+Mines Safety and Inspection Amendment Act 2014 Pt. 3 | 33 of 2014 | 3 Dec 2014 | 6 Jun 2015 (see s. 2(b) and Gazette 5 Jun 2015 p. 1971)
 Now see the Workplace Relations Act 1996 of the Commonwealth.
 The Acts Amendment (Coal Mining Industry) Act 1994 s. 8(2) is a transitional provision that is of no further effect.
 The Coal Industry Superannuation Amendment Act 1995 s. 8(2) is a transitional provision that is of no further effect.
-On the date as at which this compilation was prepared, the Mines Safety and Inspection Amendment Act 2014 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Coal Industry Superannuation Act 1989 amended
-19.Act amended
-This Part amends the Coal Industry Superannuation Act 1989.
-20.Section 4 amended
-Delete section 4(1)(b).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
