@@ -23,12 +23,21 @@ Taxation Administration Amendment Regulations (No. 2) 2013 | 17 May 2013 p. 1985
 Taxation Administration Amendment Regulations 2013 | 17 Dec 2013 p. 6240-1 | r. 1 and 2: 17 Dec 2013 (see r. 2(a)); r. 3 and 8: 18 Dec 2013 (see r. 2(b)); r. 4-7: 1 Jan 2014 (see r. 2(c))
 Reprint 3: The Taxation Administration Regulations 2003 as at 1 Aug 2014 (includes amendments listed above
 Taxation Administration Amendment Regulations 2014 | 8 Jan 2015 p. 107-8 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Taxation Administration Amendment Regulations 2015 ( other than r. 5) | 5 Jun 2015 p. 1976-7 | r. 1 and 2: 5 Jun 2015 (see r. 2(a)); Regulations other than r. 1, 2 and 5: 6 Jun 2015 (see r. 2(b))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number.
 1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Taxation Administration Amendment Regulations 2015 r. 5 | 5 Jun 2015 p. 1976-7 | 1 Jul 2015 (see r. 2(c))
 Under the Settlement Agents Act 1981 s. 126, a reference to the Settlement Agents Supervisory Board may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
 Under the Settlement Agents Act 1981 s. 3(1) Commissioner has the meaning given in the Fair Trading Act 2010 s. 6.
 The Settlement Agents Act 1981 s. 6 was deleted by the Acts Amendment (Fair Trading) Act 2010 s. 137(2).
 Under the Settlement Agents Act 1981 s. 129(1), a reference to the Registrar may where the context so requires, be read as if it had been amended to be a reference to the Commissioner. See note 2 as to the meaning of Commissioner.
+On the date as at which this compilation was prepared, the Taxation Administration Amendment Regulations 2015 r. 5 had not come into operation. It reads as follows:
+5.Regulation 8 amended
+In regulation 8 delete “$35.” and insert:
+$38.50.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -36,11 +45,9 @@ CEO (Landgate)13C(1)
 CEO (petroleum)13B(1)
 Commissioner15
 corresponding law13E(1)
-DG (vehicle licensing)13A(1)
 duty5A(3), 13C(1)
 online arrangement5A(3)
 Pastoral Lands Board13(1)
 pastoral lessee13(1)
-senior Board member14A(1)
 settlement agent14A(1)
 STR arrangement14A(1)
