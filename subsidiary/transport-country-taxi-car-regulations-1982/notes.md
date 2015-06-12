@@ -50,11 +50,28 @@ Transport (Country Taxi-car) Amendment Regulations 2011 | 17 May 2011 p. 1826 | 
 Transport (Country Taxi-car) Amendment Regulations 2012 | 5 Jun 2012 p. 2366-7 | r. 1 and 2: 5 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Transport (Country Taxi-car) Amendment Regulations 2013 | 20 Aug 2013 p. 3848 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Transport (Country Taxi-car) Amendment Regulations (No. 2) 2014 | 27 Jun 2014 p. 2355-6 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
-Transport (Country Taxi car) Amendment Regulations 2014 | 8 Jan 2015 p. 65-7 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Transport (Country Taxi-car) Amendment Regulations 2014 | 8 Jan 2015 p. 65-7 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Transport (Country Taxi-car) Amendment Regulations 2015 r. 3 and 4 | 12 Jun 2015 p. 2035 | 1 Jul 2015 (see r. 2(b))
 Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
 If immediately before commencement of the Courts Legislation Amendment and Repeal Act 2004 Pt. 2 Div. 2, a person held office under the Local Courts Act 1904 s. 13 as a clerk, then on commencement the person is taken under the Courts Legislation Amendment and Repeal Act 2004 s. 6(1) to have been appointed as a registrar of the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
+On the date as at which this compilation was prepared, the Transport (Country Taxi-car) Amendment Regulations 2015 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Transport (Country Taxi-car) Regulations 1982.
+4.Schedule 1 replaced
+Delete Schedule 1 and insert:
+Schedule 1 — Fees
+[r. 8, 10, 11, 14 and 17]
+ |  | $
+1. | Administration fee for issuing a new taxi-car licence (r. 8(2)) | 196.00
+2. | For issuing or renewing an ordinary taxi-car licence (r. 8(2) and 10(1)) | 210.00
+3. | For transferring an ordinary taxi-car licence (r. 11(3)) | 200.00
+4. | For issuing number plates for a vehicle licensed as a taxi-car (r. 14(1)) | 28.50
+5. | For authorising the operation of another vehicle in substitution for a vehicle under repair (r. 17(1)) | 40.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
