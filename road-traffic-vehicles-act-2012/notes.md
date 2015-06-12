@@ -1,11 +1,15 @@
 Notes
-This is a compilation of the Road Traffic (Vehicles) Act 2012 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 12 June 2015 of the Road Traffic (Vehicles) Act 2012 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Road Traffic (Vehicles) Act 2012 | 7 of 2012 | 21 May 2012 | s. 1 and 2: 21 May 2012 (see s. 2(a)); Act other than s. 1 and 2: 27 Apr 2015 (see s. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 7A | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 Pt. 3 Div. 4 | 2 of 2015 | 25 Feb 2015 | 27 Apr 2015 (see s. 2(1)(b) and (2) and Gazette 17 Apr 2015 p. 1374)
 Road Traffic Legislation Amendment Act 2015 Pt. 5 | 10 of 2015 | 1 Apr 2015 | 2 Apr 2015 (see s. 2(b))
+Reprint 1: The Road Traffic (Vehicles) Act 2012 as at 12 Jun 2015 (includes amendments listed above)
+The Road Traffic Legislation Amendment Act 2012 Pt. 2 commenced on 12 Dec 2012.
+The Road Traffic (Licensing) Regulations 1975 were repealed by the Road Traffic (Repeals and Amendment) Regulations 2014 as at 27 Apr 2015 (see Gazette 23 Dec 2014 p. 4914).
+The Road Traffic (Vehicle Standards) Regulations 2002 were repealed by the Road Traffic (Repeals and Amendment) Regulations 2014 as at 27 Apr 2015 (see Gazette 23 Dec 2014 p. 4914).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -45,8 +49,8 @@ information provider91(2)
 inspection station70
 involved person3(1)
 journey documentation3(1)
-label15, 27
-licence20
+label15(a), 27(g)
+licence8(1), 20
 light vehicle3(1)
 load3(1)
 loader3(1)
@@ -63,7 +67,7 @@ number plate3(1)
 number plates13(2)
 officer108(1)
 omnibus130(1)
-optional number plates136(1)
+optional number plates136(1)(a)
 order32, 38
 overseas vehicle20
 packaging3(1)
@@ -88,7 +92,6 @@ specified35(2), 42(2), 124(1), 125(1)
 specified day18(1)
 substantial risk breach3(1)
 supervisory intervention order3(1)
-the licence8(1)
 transport documentation3(1)
 urge another person to commit an MDLR offence106(1)
 vehicle32
