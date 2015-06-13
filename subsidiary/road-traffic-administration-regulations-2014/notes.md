@@ -1,13 +1,14 @@
 Notes
-This is a compilation of the Road Traffic (Administration) Regulations 2014. The following table contains information about those regulations.
+This is a compilation of the Road Traffic (Administration) Regulations 2014 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Administration) Regulations 2014 | 23 Dec 2014 p. 4939-5009 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
+Road Traffic (Administration) Amendment Regulations (No. 3) 2015 | 12 Jun 2015 p. 2041-2 | r. 1 and 2: 12 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jun 2015 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
-Road Traffic (Administration) Amendment Regulations (No 2) 2015 r. 3 and 4 | 29 May 2015 p. 1884-5 | 1 Jul 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, the Road Traffic (Administration) Amendment Regulations (No 2) 2015 r. 3 and 4 had not come into operation. They read as follows:
+Road Traffic (Administration) Amendment Regulations (No. 2) 2015 r. 3 and 4 | 29 May 2015 p. 1884-5 | 1 Jul 2015 (see r. 2(b))
+On the date as at which this compilation was prepared, the Road Traffic (Administration) Amendment Regulations (No. 2) 2015 r. 3 and 4 had not come into operation. They read as follows:
 3.Regulations amended
 These regulations amend the Road Traffic (Administration) Regulations 2014.
 4.Regulation 35 amended
