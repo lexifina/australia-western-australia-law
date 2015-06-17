@@ -80,6 +80,10 @@ r. 124 | Falsely holding out as person in whose name quarantine facility is appr
 ## Division 3 — Biosecurity and Agriculture Management (Agriculture Standards) Regulations 2013
 Offences under Biosecurity and Agriculture Management (Agriculture Standards) Regulations 2013 | Modified penalty $
 r. 10(6) | Failing to comply with duty or obligation in residue quarantine notice | 2 000
+r. 20B | Failing to ensure that cattle treated with HGP is marked as required | 500
+r. 20C(3) | Failing to ensure that ear punch mark on animal treated with HGP remains permanently identifiable | 500
+r. 20D(4) | Declaring animal is HGP free if person has treated animal with HGP or not obtained a declaration that animal is HGP free from previous owner | 500
+r. 20D(5) | Making false claim in relation to declaration that animal is HGP free | 500
 r. 25 | Failing to produce animal feed in accordance with approved quality assurance scheme | 500
 r. 27(1) | Failing to label manufactured animal feed container (weighing 5 kg or more) in accordance with regulations | 200
 r. 27(2) | Failing to label manufactured animal feed container (weighing less than 5 kg) in accordance with regulations | 200
@@ -101,6 +105,7 @@ r. 36 | Doing thing in relation to prohibited pig feed in contravention of regul
 r. 39 | Failing to label fertiliser as required by regulations | 200
 r. 45 | Selling immature citrus fruit intended for consumption as fresh fruit | 200
 r. 47 | Selling immature table grapes intended for consumption as fresh fruit | 200
+[Division 3 amended: Gazette 16 Jun 2015 p. 2072.]
 ## Division 4 — Biosecurity and Agriculture Management (Identification and Movement of Stock and Apiaries) Regulations 2013
 Offences under Biosecurity and Agriculture Management (Identification and Movement of Stock and Apiaries) Regulations 2013 | Modified penalty $
 r. 7(1) | Owning or purchasing stock when not registered | 200
