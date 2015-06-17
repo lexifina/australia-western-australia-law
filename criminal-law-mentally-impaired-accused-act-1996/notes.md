@@ -19,12 +19,12 @@ Criminal Law and Evidence Amendment Act 2008 s. 60 | 2 of 2008 | 12 Mar 2008 | 2
 Criminal Law Amendment (Homicide) Act 2008 s. 29 | 29 of 2008 | 27 Jun 2008 | 1 Aug 2008 (see s. 2(d) and Gazette 22 Jul 2008 p. 3353)
 Reprint 3: The Criminal Law (Mentally Impaired Accused) Act 1996 as at 17 Apr 2009 (includes amendments listed above)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 7 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
+Declared Places (Mentally Impaired Accused) Act 2015 Pt. 12 Div. 1 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 9 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 1 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
-Declared Places (Mentally Impaired Accused) Act 2015 Pt. 12 Div. 1 | 4 of 2015 | 3 Mar 2015 | To be proclaimed (see s. 2(b))
 Now known as the Criminal Law (Mentally Impaired Accused) Act 1996; short title changed (see note under s. 1).
 On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 1 had not come into operation. It reads as follows:
 Part 4 — Amendments to other Acts
@@ -87,45 +87,6 @@ having been given
 18.Section 32 amended
 Delete section 32(1) and insert:
 (1) The Mental Health Act 2014 Part 7 Divisions 5 and 6 do not apply in relation to the absence from an authorised hospital of a mentally impaired accused.
-On the date as at which this compilation was prepared, the Declared Places (Mentally Impaired Accused) Act 2015 Pt. 12 Div. 1 had not come into operation. It reads as follows:
-Part 12 — Consequential amendments to other Acts
-Division 1 — Criminal Law (Mentally Impaired Accused) Act 1996 amended
-65.Act amended
-This Division amends the Criminal Law (Mentally Impaired Accused) Act 1996.
-66.Section 24 amended
-After section 24(4) insert:
-(5A) A mentally impaired accused is not to be detained in a declared place that is established by the Disability Services Commission under the Disability Services Act 1993 (a DSC declared place) unless the Board —
-(a) is satisfied that the accused is a person with disability as defined in the Disability Services Act 1993 section 3 and the predominant reason for the disability is not mental illness; and
-(b) is satisfied that the accused has reached 16 years of age; and
-(c) has regard to the degree of risk that the accused’s detention in the declared place appears to present to the personal safety of people in the community or of any individual in the community.
-(5B) The Board may determine that a mentally impaired accused be detained in a DSC declared place only if the member referred to in section 42(1)(bb) is present at the meeting at which the custody order is made.
-(5C) Despite subsection (1), even if the Board determines that a mentally impaired accused should be detained in a DSC declared place, the accused is not to be detained in a DSC declared place without the consent of the Minister to whom the Disability Services Act 1993 is for the time being committed.
-67.Section 42 amended
-(1) In section 42(1):
-(a) delete “are —” and insert:
-are as follows —
-(b) after paragraph (a) insert:
-(ba) a deputy chairperson, to be nominated by the Minister and appointed by the Governor;
-(bb) a person who, under the Disability Services Act 1993 section 9 or 10, works for the Disability Services Commission, appointed by the Commission;
-(c) in paragraph (c) delete “Governor; and” and insert:
-Governor;
-(2) After section 42(3) insert:
-(4A) The Minister must not nominate a person as a deputy chairperson unless the person has, in the Minister’s opinion, extensive or special knowledge of matters involved in the performance of the Board’s functions.
-(4B) The deputy chairperson must perform the functions of the chairperson —
-(a) when the chairperson is unable to act because of illness, absence or other cause; or
-(b) during any vacancy in the office of chairperson.
-(4C) The member of the Board referred to in subsection (1)(bb) is a member only while the person works for the Disability Services Commission under the Disability Services Act 1993 section 9 or 10.
-(3) In section 42(5) delete “psychiatrist” and insert:
-deputy chairperson, the psychiatrist
-68.Section 50A inserted
-After section 49 insert:
-50A.Protection from personal liability
-(1) In this section, a reference to the doing of anything includes a reference to the omission to do anything.
-(2) An action in tort does not lie against a person for anything that the person has done, in good faith —
-(a) when performing or purporting to perform a function under this Act; or
-(b) in assisting a person to perform or purportedly perform a function under this Act.
-(3) The protection given by subsection (2) applies even though the thing done as described in that subsection may have been capable of being done whether or not this Act had been enacted.
-(4) Despite subsection (2), the State is not relieved of any liability that it might have for another person having done something as described in that subsection.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -135,6 +96,7 @@ Board3
 custody order3
 declared place23
 detention centre23
+DSC declared place24(5A)
 involuntary patient3
 mental illness8, 23
 mental impairment8

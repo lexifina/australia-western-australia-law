@@ -30,11 +30,11 @@ Commonwealth Heads of Government Meeting (Special Powers) Act 2011 Pt. 9 | 23 of
 Criminal Investigation (Covert Powers) Act 2012 Pt. 7 | 55 of 2012 | 3 Dec 2012 | 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
 Reprint 5: The Corruption and Crime Commission Act 2003 as at 18 Oct 2013 (includes amendments listed above)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 32 | 35 of 2014 | 9 Dec 2014 | 30 Dec 2014 (see s. 2(b) and Gazette 30 Dec 2014 p. 5497)
+Declared Places (Mentally Impaired Accused) Act 2015 s. 84 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 Pt. 2 (other than s. 32) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
-Declared Places (Mentally Impaired Accused) Act 2015 s. 84 | 4 of 2015 | 3 Mar 2015 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 3 Div. 3 Subdiv. 2 reads as follows:
 Part 3 — Repeals, transitional and savings provisions, and consequential amendments
@@ -654,13 +654,6 @@ s. 25 | Any person may report serious misconduct
 s. 26 | Commission may make proposition about serious misconduct
 s. 28 | Certain officers obliged to notify serious misconduct
 s. 41 | Commission may review how appropriate authority has dealt with serious misconduct
-On the date as at which this compilation was prepared, the Declared Places (Mentally Impaired Accused) Act 2015 s. 84 had not come into operation. It reads as follows:
-84.Corruption and Crime Commission Act 2003 amended
-(1) This section amends the Corruption and Crime Commission Act 2003.
-(2) In section 3(1) in the definitions of contractor and subcontractor delete “1999 or” and insert:
-1999, the Declared Places (Mentally Impaired Accused) Act 2015 or
-(3) In section 31(a) delete “1999 or” and insert:
-1999, the CEO as defined in the Declared Places (Mentally Impaired Accused) Act 2015 section 3, or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

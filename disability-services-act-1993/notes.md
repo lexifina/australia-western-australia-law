@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Disability Services Act 1993 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Disability Services Act 1993 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Disability Services Act 1993 | 36 of 1993 | 16 Dec 1993 | 23 Dec 1993 (see s. 2)
@@ -28,11 +28,12 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Disability Services Amendment Act 2012 | 40 of 2012 | 22 Nov 2012 | s. 1 and 2: 22 Nov 2012 (see s. 2(a)); Act other than s. 1 and 2: 12 Jun 2013 (see s. 2(b) and Gazette 11 Jun 2013 p. 2161)
 Reprint 4: The Disability Services Act 1993 as at 2 Aug 2013 (includes amendments listed above)
 Disability Services Amendment Act 2014 | 10 of 2014 | 24 Jun 2014 | s. 1 and 2: 24 Jun 2014 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2014 (see s. 2(b)(i))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
+Declared Places (Mentally Impaired Accused) Act 2015 Pt. 12 Div. 2 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Declared Places (Mentally Impaired Accused) Act 2015 Pt. 12 Div. 2 | 4 of 2015 | 3 Mar 2015 | To be proclaimed (see s. 2(b))
+Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Disability Services Act 1993 Sch. 6 Pt. 2 reads as follows:
 Part 2 — Transitional provisions
@@ -69,135 +70,6 @@ old Council means the Advisory Council for Disability Services established under
 20.Section 28 replaced and transitional provision
 (2) A public authority that had a disability service plan immediately before commencement of this section is taken to have a disability access and inclusion plan for the purposes of section 28 of the Disability Services Act 1993 as inserted by this section.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
-75.Various provisions repealed
-The provisions listed in the Table to this section are repealed.
-Table of provisions repealed
-Act | Provision
-...................... | ........
-Disability Services Act 1993 | Sch. 4 cl. 1
-...................... | ........
-On the date as at which this compilation was prepared, the Declared Places (Mentally Impaired Accused) Act 2015 Pt. 12 Div. 2 had not come into operation. It reads as follows:
-Part 12 — Consequential amendments to other Acts
-Division 2 — Disability Services Act 1993 amended
-69.Act amended
-This Division amends the Disability Services Act 1993.
-70.Section 3 amended
-In section 3 insert in alphabetical order:
-Declared Places Act means the Declared Places (Mentally Impaired Accused) Act 2015;
-resident means a resident as defined in the Declared Places Act section 3;
-71.Section 12 amended
-(1) In section 12(1):
-(a) in paragraph (i) delete “as prescribed,” and insert —
-as prescribed in relation to people with disability other than residents,
-(b) in paragraph (l) delete “functions.” and insert:
-functions; and
-(c) after paragraph (l) insert:
-(m) subject to the Declared Places Act, to establish, operate, control, manage and ensure the security and good order of each declared place, as defined in the Criminal Law (Mentally Impaired Accused) Act 1996 section 23, that is for the detention of those mentally impaired accused who are mentioned in section 24(5A) of that Act.
-(2) After section 12(3) insert:
-(4) The provisions of this Act set out in the Table do not apply to the Commission in performing its functions under subsection (1)(m).
-Table
-Provision | Provision
-s. 12(3) | Part 4
-Part 4A | s. 51
-s. 52 | s. 53
-s. 54 | s. 56
-s. 57
-72.Section 21 amended
-(1) In section 21(1) delete “For parliamentary purposes or for the proper conduct of the Minister’s business, the” and insert:
-The
-(2) In section 21(4)(a) delete “disability; or” and insert:
-disability other than a resident; or
-(3) After section 21(4) insert:
-(5A) The Minister is not entitled to have information under this section in a form that —
-(a) discloses the identity of a resident involved in a particular application, complaint or proceeding; or
-(b) might enable the identity of any such resident to be ascertained,
-unless the resident or the resident’s enduring guardian or guardian (as those terms are defined in the Declared Places (Mentally Impaired Accused) Act 2015 section 3) has consented to the disclosure.
-(4) In section 21(5) delete the definition of parliamentary purposes.
-(5) In section 21(5) in the definition of information delete “Commission;” and insert:
-Commission.
-73.Part 6 heading amended
-In the heading to Part 6 after “services” insert:
-and resident services
-74.Section 30 amended
-(1) In section 30 insert in alphabetical order:
-declared place means a declared place as defined in the Declared Places Act section 3;
-representative, in relation to a person with a disability, means the person’s representative recognised under section 32(2);
-resident service means any of the following —
-(a)the operation, control, management and ensuring of the security and good order of a declared place;
-(b)any service related to a matter mentioned in paragraph (a);
-(c)providing for the care, protection and safety of residents;
-(d)providing programmes for, and other training of, residents;
-(e)any other service that the Declared Places Act requires to be provided to residents,
-but does not include an advocacy service for a resident or a service prescribed by regulation;
-service provider, in relation to the provision of a resident service, means —
-(a)the Commission; or
-(b)a contractor or subcontractor as defined in the Declared Places Act section 3; or
-(c)any other person that renders or provides resident services,
-but does not include a service prescribed by regulation.
-(2) In section 30 in the definition of respondent delete “made.” and insert:
-made;
-75.Section 32 amended
-(1) In section 32(1):
-(a) after “section 33(1)” insert:
-or (3)
-(b) after “section 33(2)” insert:
-or (4)
-(c) in paragraph (b) delete “an advocate for the person; or” and insert:
-the person’s representative; or
-(2) In section 32(2):
-(a) delete “an advocate for” and insert:
-a representative of
-(b) in paragraph (b)(i) delete “advocate; and” and insert:
-representative; and
-(c) in paragraphs (b)(ii) and (c)(ii) delete “advocate” and insert:
-representative
-(3) In section 32(3) delete “advocate.” and insert:
-representative.
-76.Section 33 amended
-(1) In section 33(1) delete “only”.
-(2) In section 33(2) after “A complaint” insert:
-made under subsection (1)
-(3) After section 33(2) insert:
-(3) A complaint may be made about a service provider that, at the time the subject matter of the complaint arose, was providing or was required to provide a resident service.
-(4) A complaint made under subsection (3) may allege only that the service provider —
-(a) acted unreasonably by not providing a resident service to the complainant; or
-(b) acted unreasonably by providing a resident service to the complainant, whether the service was requested by the complainant or a third party; or
-(c) acted unreasonably in the manner of providing a resident service to the complainant; or
-(d) acted unreasonably by denying or restricting the complainant’s access to records relating to the complainant kept by the service provider; or
-(e) acted unreasonably in disclosing records or confidential information relating to the complainant; or
-(f) failed to have regard to the principles set out in the Declared Places Act section 5(1) to (3) as required by section 5(4) of that Act; or
-(g) failed to have regard to the objectives set out in the Declared Places Act section 6(1) to (7) as required by section 6(8) of that Act; or
-(h) failed to comply with the Carers Charter; or
-(i) in respect of a complaint about a matter mentioned in paragraphs (a) to (e) made to the service provider by a resident, acted unreasonably by —
-(i) not properly investigating the complaint or not causing it to be properly investigated; or
-(ii) not taking, or not causing to be taken, proper action in relation to the complaint;
-or
-(j) failed to give an explanation as required under the Declared Places Act section 8(1), (2) or (3) or failed to give an explanation in the manner required by section 8(4) of that Act; or
-(k) acted unreasonably in the making of an order under the Declared Places Act section 10(1) or (4); or
-(l) acted unreasonably in relation to the regulated behaviour management, as defined in the Declared Places Act section 3, of a resident.
-77.Section 38 amended
-After section 38(1) insert:
-(2A) The Director may reject a complaint if, in the Director’s opinion, the complainant has not taken reasonable steps to resolve the matter with the respondent.
-78.Section 39 amended
-In section 39(3)(a) delete “advocate recognised under section 32(2);” and insert:
-representative;
-79.Section 40 amended
-In section 40(4):
-(a) after “section 33(2)” insert:
-or (4)
-(b) after paragraph (a) insert:
-(ba) in the case of an investigation in relation to the provision of a resident service, the following —
-(i) the principles and objectives set out in the Declared Places Act Part 2;
-(ii) any relevant individual development plan as defined in section 3 of that Act;
-(iii) each applicable minimum standard under section 46 of that Act;
-(iv) the provisions of any relevant contract;
-80.Section 41 amended
-In section 41(1) in the definition of the person’s representative paragraph (a) delete “advocate” and insert:
-representative
-81.Section 46 amended
-In section 46(b) after “services” insert:
-or resident services
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -211,6 +83,8 @@ Commission3
 complaint30
 Complaints Office30
 Council3
+declared place30
+Declared Places Act3
 Director3
 disability3
 disability service3, 26A, 30
@@ -230,9 +104,12 @@ plan, in relation to a participant,26I(1)
 public authority3
 relevant information41(1)
 relevant record41(1)
+representative30
+resident3
+resident service30
 respondent30
 service developer3
-service provider3
+service provider3, 30
 supply policies26A
 support26I(1)
 trial26E

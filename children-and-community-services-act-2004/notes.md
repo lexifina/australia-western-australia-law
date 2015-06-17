@@ -22,25 +22,10 @@ Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 6 | 8 of 2012 | 21 May 20
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 2 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 Teacher Registration Act 2012 s. 163 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 18 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Declared Places (Mentally Impaired Accused) Act 2015 s. 82 | 4 of 2015 | 3 Mar 2015 | To be proclaimed (see s. 2(b))
+Declared Places (Mentally Impaired Accused) Act 2015 s. 82 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions relating to the repealed Pt. 8 of this Act.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Declared Places (Mentally Impaired Accused) Act 2015 s. 82 had not come into operation. It reads as follows:
-82.Children and Community Services Act 2004 amended
-(1) This section amends the Children and Community Services Act 2004.
-(2) In section 24A(1) delete the definition of prescribed authority and insert:
-prescribed authority means —
-(a)a public authority, other than the Department, prescribed for the purposes of this definition; or
-(b)a contractor as defined in the Court Security and Custodial Services Act 1999 section 3, the Declared Places (Mentally Impaired Accused) Act 2015 section 3 or the Prisons Act 1981 section 3(1).
-(3) In section 24A(1) in the definition of CEO:
-(a) in paragraph (c) delete “holder;” and insert:
-holder; or
-(b) after paragraph (c) insert:
-(d)for a person referred to in paragraph (b) of the definition of prescribed authority — the holder of the office specified in the relevant contract to be the principal officer for the purposes of this Act;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
