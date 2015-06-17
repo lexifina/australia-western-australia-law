@@ -39,6 +39,7 @@ Security and Related Activities (Control) Amendment Regulations 2012 | 15 Jun 20
 Security and Related Activities (Control) Amendment Regulations 2013 | 28 Jun 2013 p. 2780-1 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Security and Related Activities (Control) Amendment Regulations 2014 | 17 Jun 2014 p. 1998-9 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Security and Related Activities (Control) Amendment Regulations (No. 2) 2014 | 5 Aug 2014 p. 2834 | r. 1 and 2: 5 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Aug 2014 (see r. 2(b))
+Security and Related Activities (Control) Amendment Regulations (No. 2) 2015 | 16 Jun 2015 p. 2078-9 | r. 1 and 2: 16 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jun 2015 (see r. 2(b) and Gazette 16 Jun 2015 p. 2071)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
