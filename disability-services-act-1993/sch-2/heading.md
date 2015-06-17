@@ -1,6 +1,6 @@
 ## Schedule 2 — Objectives for services and programmes
 [s. 12, 24, 28 and 40]
-[Heading inserted by No. 40 of 2012 s. 22.]
+[Heading inserted: No. 40 of 2012 s. 22.]
 1.Programmes and services are to focus on achieving positive outcomes for people with disability, such as increased independence, employment opportunities and inclusion and participation within the community.
 2.Programmes and services are to contribute to ensuring that the conditions of the every day life of people with disability are the same as norms and patterns which are valued in the general community.
 3.Programmes and services are to be integrated with services generally available to members of the community.
@@ -23,4 +23,4 @@
 17.Programmes and services are to provide —
 (a) people with disability and their families and carers with opportunities for participating continually in the planning and operation of services they receive; and
 (b) opportunities for people with disability, their families and their carers to be consulted about the development of major policy, programme or operational changes.
-[Schedule 2 inserted by No. 40 of 2012 s. 22.]
+[Schedule 2 inserted: No. 40 of 2012 s. 22.]
