@@ -47,6 +47,7 @@ Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 54 | 8 of 2012 | 21 May 2
 Reprint 5: The Young Offenders Act 1994 as at 10 Aug 2012 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012)
 Criminal Organisations Control Act 2012 s. 182 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 21(other than s. 138 and 139) | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
+Declared Places (Mentally Impaired Accused) Act 2015 s. 89 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 22 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
@@ -55,7 +56,6 @@ Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclai
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 24 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Custodial Legislation (Officers Discipline) Amendment Act 2014 Pt. 3 | 29 of 2014 | 3 Dec 2014 | To be proclaimed (see s. 2(b))
-Declared Places (Mentally Impaired Accused) Act 2015 s. 89 | 4 of 2015 | 3 Mar 2015 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -397,13 +397,6 @@ Division 5 — Arrangements with councils of Aboriginal communities
 custodial officer
 (2) In section 169A(5) delete “person who is appointed under section 11(1) or (1a),” and insert:
 custodial officer
-On the date as at which this compilation was prepared, the Declared Places (Mentally Impaired Accused) Act 2015 s. 89 had not come into operation. It reads as follows:
-89.Young Offenders Act 1994 amended
-(1) This section amends the Young Offenders Act 1994.
-(2) In section 16(1) delete the definition of contractor and insert:
-contractor means —
-(a)a contractor as defined in the Court Security and Custodial Services Act 1999 section 3; or
-(b)a contractor as defined in the Declared Places (Mentally Impaired Accused) Act 2015 section 3;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

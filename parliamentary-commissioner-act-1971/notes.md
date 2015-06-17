@@ -112,6 +112,7 @@ Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep
 Public Sector Reform Act 2010 s. 80 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 9: The Parliamentary Commissioner Act 1971 as at 3 Dec 2010 (includes amendments listed above)
 Water Services Legislation Amendment and Repeal Act 2012 s. 221 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+Declared Places (Mentally Impaired Accused) Act 2015 s. 87 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -119,7 +120,6 @@ Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Ope
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 18 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 36 | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
-Declared Places (Mentally Impaired Accused) Act 2015 s. 87 | 4 of 2015 | 3 Mar 2015 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Under the Liquor Control Act 1988 Sch. 1A cl. 9 a reference to the Liquor Licensing Court is to be read and construed as a reference to the Liquor Commission.
 The Health Legislation Administration Act 1984 s. 6(1) was amended by the Mental Health (Consequential Provisions) Act 1996 s. 38 to replace the office of Director, Psychiatric Services with the office of Chief Psychiatrist.
@@ -188,15 +188,6 @@ or
 and concerns a matter that is relevant to the functions of the Public Sector Commissioner under the Corruption, Crime and Misconduct Act 2003; or
 (5) In Schedule 1 in the Table in the 3rd row delete “Corruption and Crime Commission Act 2003” and insert:
 Corruption, Crime and Misconduct Act 2003
-On the date as at which this compilation was prepared, the Declared Places (Mentally Impaired Accused) Act 2015 s. 87 had not come into operation. It reads as follows:
-87.Parliamentary Commissioner Act 1971 amended
-(1) This section amends the Parliamentary Commissioner Act 1971.
-(2) In section 4 in the definitions of contractor, responsible Minister paragraph (b) and subcontractor delete “1999 or” and insert:
-1999, the Declared Places (Mentally Impaired Accused) Act 2015 or
-(3) In section 17A(4) after “1999,” insert:
-the CEO as defined in the Declared Places (Mentally Impaired Accused) Act 2015 section 3,
-(4) In section 19(7)(b) delete “1999 or” and insert:
-1999, the Declared Places (Mentally Impaired Accused) Act 2015 or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
