@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 18 July 2014 of the Electricity Corporations Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity Corporations Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Electricity Corporations Act 2005 | 18 of 2005 | 13 Oct 2005 | Pt. 1, s. 141, 142, 144-152, 153(1) and 179: 13 Oct 2005 (see s. 2(1)); Pt. 2-8, s. 143, 153(2)-(4), 154-178, 180-192, Sch. 1-4 and Sch. 5 (other than cl. 21(2)(a)(ii)): 1 Apr 2006 (see s. 2(2) and Gazette 31 Mar 2006 p. 1153); Sch. 5 cl. 21(2)(a)(ii) deleted by No. 8 of 2009 s. 50(3)(b)
@@ -12,37 +12,12 @@ Public Sector Reform Act 2010 s. 75 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 2 | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Electricity Corporations Amendment Act 2013 Pt. 2 (s. 3-36) | 25 of 2013 | 18 Dec 2013 | Pt. 2 heading and s. 3 and 32-35: 19 Dec 2013 (see s. 2(b)); Pt. 2 other than s. 3 and 32-35: 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Reprint 2: The Electricity Corporations Act 2005 as at 18 Jul 2014 (includes amendments listed above)
+Electricity Corporations Amendment Act 2015 | 16 of 2015 | 25 Jun 2015 | s. 1 and 2: 25 Jun 2015 (see s. 2(a)); Act other than s. 1 and 2: 26 Jun 2015 (see s. 2(b))
 Deleted by the Public Sector Reform Act 2010 s. 57.
 Deleted by the Electricity Transmission and Distribution Systems (Repeal and Related Provisions) Regulations 2007 r. 5 and 6.
 Now known as the Electricity Transmission and Distribution Systems (Access) Act 1994.
 The amendment in the State Superannuation Amendment Act 2007 s. 81 is not included because it was deleted by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 Schedule 5 clause 21(2)(a)(ii) of this Act had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 50(3)(b).
-relevant officials178(1), 205(1)
-relevant person219(1)
-renewable sources34(1)
-right142(1), 194
-second party77(1)
-segregation arrangements62(1), 63A(1)
-services54(1)
-significant asset67(1)
-South West interconnected system3(1)
-specified39(1), 54(6), 63A(1), 80, 114(1)
-specified day164(2), 166(1)
-State tax177(1), 204(1)
-subsidiary3(1)
-tariff customer181(1)
-telecommunication services34(1)
-terms and conditions39(1)
-third party77(1)
-transaction68(1)
-transfer order142(1)
-transitional regulations194, 221(1)
-Treasurer3(1)
-Treasury officer137(1)
-unallocated asset or liability53(1)
-Western Power Corporation142(1), Sch. 5 cl. 22(4)
-wholesale arrangements38(1), 39(1)
-wholesale products38(1)(b), 39(1)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -137,6 +112,7 @@ second party77(1)
 segregation arrangements62(1), 63A(1)
 services54(1)
 significant asset67(1)
+solvent127B(1)
 South West interconnected system3(1)
 specified39(1), 54(6), 63A(1), 80, 114(1)
 specified day164(2), 166(1)
