@@ -6,7 +6,6 @@ FormHeading | Regulation
 3.Infringement Notice | 63
 4.Withdrawal of Infringement Notice | 64
 5. Identity Card | 68
-[6.deleted]
 [Regs. 41 and 42.]
 Form 1. Application for Grant or Renewal of Licence
 Caravan Parks and Camping Grounds Act 1995, sec. 7(1)(a) APPLICATION FOR GRANT OR RENEWAL OF LICENCE
@@ -88,4 +87,3 @@ WESTERN AUSTRALIA Caravan Parks & Camping Grounds Act 1995 IDENTITY CARD AUTHORI
 ............................................................................................................................... SignatureDate Issued by the chief executive officer of the Department of Local Government* or ......................... *[name of the local government].
 * Delete whichever is not applicable.
 [Form 6 deleted in Gazette 30 Dec 2004 p. 7011.]
-[Schedule 1 amended in Gazette 30 Dec 2004 p. 7011.]

@@ -14,5 +14,4 @@ Additional fee by way of penalty for renewal after expiry ......................
 Temporary licence ...................................................... | pro rata amount of the fee payable under item 1 for the period of time for which the licence is to be in force with a minimum of $100
 4.Transfer of licence — reg. 55
 Transfer of licence ...................................................... | $100
-[5.deleted]
 [Schedule 3 amended in Gazette 25 Aug 2000 p. 4920; 30 Dec 2004 p. 7012.]
