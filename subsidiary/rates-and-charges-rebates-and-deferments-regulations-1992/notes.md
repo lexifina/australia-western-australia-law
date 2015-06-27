@@ -33,3 +33,4 @@ Rates and Charges (Rebates and Deferments) Amendment Regulations (No. 2) 2013 | 
 Reprint 4: The Rates and Charges (Rebates and Deferments) Regulations 1992 as at 2 May 2014 (includes amendments listed above)
 Rates and Charges (Rebates and Deferments) Amendment Regulations 2014 | 30 Jun 2014 p. 2427 | r. 1 and 2: 30 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Rates and Charges (Rebates and Deferments) Amendment Regulations (No. 2) 2014 | 19 Dec 2014 p. 4850 | r. 1 and 2: 19 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Dec 2014 (see r. 2(b))
+Rates and Charges (Rebates and Deferments) Amendment Regulations 2015 | 26 Jun 2015 p. 2278-9 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2015 (see r. 2(b))
