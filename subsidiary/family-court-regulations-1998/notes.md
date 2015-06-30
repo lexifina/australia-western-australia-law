@@ -25,6 +25,7 @@ Item | Document or action | Updated fee for 1 July 2014 to 30 June 2016
 10. | For issuing a subpoena | $55
 11. | For listing a conciliation conference | $370
 12. | Filing an application for leave to appeal under section 211 from an interlocutory order of a Magistrates Court | $805
+The Family Court Amendment Regulations 2015 were repealed by the Family Court Amendment Repeal Regulations 2015 prior to commencement.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
