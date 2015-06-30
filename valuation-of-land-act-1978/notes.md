@@ -47,13 +47,9 @@ Land Administration Amendment Act 2009 s. 7 | 32 of 2009 | 26 Nov 2009 | 27 Nov 
 Valuation of Land Amendment (Assessed Value) Act 2009 | 33 of 2009 | 26 Nov 2009 | s. 1 and 2: 26 Nov 2009 (see s. 2(a)); Act other than s. 1 and 2: 11 Dec 2010 (see s. 2(b) and Gazette 10 Dec 2010 p. 6262)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Reprint 6: The Valuation of Land Act 1978 as at 14 Oct 2011 (includes amendments listed above)
-Valuation of Land Amendment Act 2015 s. 1 and 2 | 14 of 2015 | 15 May 2015 | 15 May 2015 (see s. 2(a))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
 Land Legislation Amendment Act 2015 Pt. 6 | 11 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
 Land Legislation Amendment (Taxing) Act 2015 Pt. 5 | 12 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
-Valuation of Land Amendment Act 2015 s. 3 and 4 | 14 of 2015 | 15 May 2015 | 30 Jun 2015 (see s. 2(b)(i))
+Valuation of Land Amendment Act 2015 | 14 of 2015 | 15 May 2015 | s. 1 and 2: 15 May 2015 (see s. 2(a)); Act other than s. 1 and 2: 30 Jun 2015 (see s. 2(b)(i))
 Under the Land Administration Act 1997 s. 281(3), a reference to the Land Act 1933 in a written law is, unless the contrary intention appears, to be read and construed as being a reference to the Land Administration Act 1997.
 The name of the Local Government Act 1960 was changed to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.
 Repealed by the Interpretation Act 1984 s. 77(1).
@@ -71,50 +67,6 @@ the VL Act means the Valuation of Land Act 1978.
 (2) If advice has been given under the VL Act section 32(9) before the commencement day, on or after the commencement day the advice is to be taken to refer to the time within which and the manner in which a review of the valuation may be sought.
 (3) If the Valuer-General receives, before the commencement day, a notice in accordance with the VL Act section 33(1) (as in force when the notice was received by the Valuer-General) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Valuer-General must refer the valuation to the State Administrative Tribunal for a review as if the notice were a notice served on the Valuer-General under the VL Act section 33(1).
 (4) If the Valuer-General receives, before the commencement day, a notice in accordance with the VL Act section 35(1) (as in force when the notice was received by the Valuer-General) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Valuer-General must refer the decision to the State Administrative Tribunal for a review as if the notice were a notice served on the Valuer-General under the VL Act section 35(1).
-On the date as at which this compilation was prepared, the Land Legislation Amendment Act 2015 Pt. 6 had not come into operation. It reads as follows:
-Part 6 — Valuation of Land Act 1978 amended
-11.Act amended
-This Part amends the Valuation of Land Act 1978.
-12.Sections 50 and 51 inserted
-At the end of Part V insert:
-50.Prescribed fees may exceed cost recovery
-(1) Regulations made under section 49 prescribing a fee may prescribe a fee that is more than the amount, or an estimate of the amount, needed to allow recovery of expenditure —
-(a) incurred in connection with the matter in relation to which the fee is charged; or
-(b) that is relevant to —
-(i) the scheme or system under which the action to which the fee relates is taken; or
-(ii) the performance of any function to which the fee relates.
-(2) This section does not limit the Interpretation Act 1984 section 45A.
-51.Expiry of section 50
-(1) Section 50 expires at the end of 31 December 2019.
-(2) However, the Governor, on the recommendation of the Minister, may, by proclamation made before section 50 expires, postpone the expiry of section 50 until the end of a date specified in the proclamation, and in that case that section expires at the end of that date.
-(3) The Minister cannot make a recommendation under subsection (2) unless the Minister is satisfied, on the basis of the most recent report laid before each House of Parliament under the Land Information Authority Act 2006 section 93(2), that the expiry of section 50 should be postponed.
-(4) There is no limit on the number of times the expiry of section 50 may be postponed, but each postponement cannot be for longer than 5 years beginning on the day after the most recent date on which section 50 would expire if that expiry were not postponed.
-(5) The Interpretation Act 1984 section 42 applies to and in relation to a proclamation made under subsection (2) as if the proclamation were a regulation.
-(6) The expiry of section 50 does not affect the validity of any regulations made under section 49 and in effect immediately before that expiry.
-On the date as at which this compilation was prepared, the Land Legislation Amendment (Taxing) Act 2015 Pt. 5 had not come into operation. It reads as follows:
-Part 5 — Valuation of Land Act 1978 amended
-9.Act amended
-This Part amends the Valuation of Land Act 1978 as amended by the Land Legislation Amendment Act 2015.
-10.Section 50 amended
-After section 50(1) insert:
-(2A) To the extent that regulations to which subsection (1) applies prescribe a fee that includes an amount that is a tax, the regulations may impose the tax.
-On the date as at which this compilation was prepared, the Valuation of Land Amendment Act 2015 s. 3 and 4 had not come into operation. They read as follows:
-3.Act amended
-This Act amends the Valuation of Land Act 1978.
-4.Section 4 amended
-(1) In section 4(1) in the definition of unimproved value:
-(a) in paragraph (b)(ii)(I) delete “rent that would be payable” and insert:
-annual rent that would be used to calculate unimproved value under item (II) or (III)
-(b) delete paragraph (b)(ii)(II), (III) and (IV) and insert:
-(II) an exploration licence is held under the Mining Act 1978 —
-(A) 2.5 times the annual rent payable for the licence under that Act if it is the first year of the term of the licence; or
-(B) 2.5 times the annual rent that would be payable for the licence under that Act if it were the first year of the term of the licence;
-or
-(III) any other licence or a lease is held under the Mining Act 1978 — 5 times the annual rent payable for the licence or lease under that Act; or
-(IV) a licence or lease is held under the Petroleum and Geothermal Energy Resources Act 1967 — 2.5 times the annual fee payable for the licence or lease under that Act; or
-(VA) a permit or drilling reservation is held under the Petroleum and Geothermal Energy Resources Act 1967 — the annual fee payable for the permit or drilling reservation under that Act; or
-(2) In section 4(1) in the definition of unimproved value after paragraph (b)(ii)(I) insert:
-or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
