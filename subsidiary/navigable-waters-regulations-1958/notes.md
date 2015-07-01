@@ -140,38 +140,9 @@ Navigable Waters Amendment Regulations (No. 4) 2013 | 13 Dec 2013 p. 6177 | r. 1
 Navigable Waters Amendment Regulations (No. 2) 2014 | 16 May 2014 p. 1542-3 | r. 1 and 2: 16 May 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Navigable Waters Amendment Regulations (No. 3) 2014 | 25 Jul 2014 p. 2581-91 | r. 1 and 2: 25 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2014 (see r. 2(b))
 Reprint 16: The Navigable Waters Regulations 1958 as at 5 Dec 2014 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Navigable Waters Amendment Regulations 2015 r. 3-6 | 29 May 2015 p. 1881-2 | 1 Jul 2015 (see r. 2(b))
+Navigable Waters Amendment Regulations 2015 | 29 May 2015 p. 1881-2 | r. 1 and 2: 29 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
-On the date as at which this compilation was prepared, the Navigable Waters Amendment Regulations 2015 r. 3-6 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Navigable Waters Regulations 1958.
-4.Regulation 45B amended
-(1) In regulation 45B(3a)(b) delete the Table and insert:
-Table of fees
-Length of vessel | Fee ($)
-(i)less than 5 m | 110.00
-(ii)5 m or more but less than 10 m | 233.90
-(iii)10 m or more but less than 20 m | 469.10
-(iv)20 m or more | 686.10
-(2) In regulation 45B(4) delete “$24.00.” and insert:
-$26.50.
-5.Regulation 45BA amended
-(1) In regulation 45BA(2):
-(a) in paragraph (a) delete “$325.00” and insert:
-$340.00
-(b) in paragraph (b) delete “$100.00” and insert:
-$135.00
-(2) In regulation 45BA(3) delete “$245.00” and insert:
-$260.00
-(3) In regulation 45BA(6a)(b) delete “$100.00.” and insert:
-$135.00.
-6.Regulation 45E amended
-In regulation 45E(2)(a) delete “$24.00; and” and insert:
-$26.50; and
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
