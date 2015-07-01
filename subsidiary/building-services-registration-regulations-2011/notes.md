@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 May 2015 of the Building Services (Registration) Regulations 2011 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Building Services (Registration) Regulations 2011 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Building Services (Registration) Regulations 2011 | 26 Aug 2011 p. 3411-52 | r. 1 and 2: 26 Aug 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2011 (see r. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
@@ -16,6 +16,7 @@ Building Services (Registration) Amendment Regulations (No. 4) 2013 | 31 Dec 201
 Building Services (Registration) Amendment Regulations 2014 | 17 Jun 2014 p. 1959-61 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Building Services (Registration) Amendment Regulations (No. 2) 2014 | 19 Dec 2014 p. 4841-2 | r. 1 and 2: 19 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Dec 2014 (see r. 2(b))
 Reprint 2: The Building Services (Registration) Regulations 2011 as at 8 May 2015 (includes amendments listed above)
+Building Services (Registration) Amendment Regulations 2015 | 23 Jun 2015 p. 2165-7 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 The Builders’ Registration Act 1939 was repealed by the Building Services (Registration) Act 2011 s. 107 on 29 Aug 2011.
 The Local Government (Qualifications of Municipal Officers) Regulations 1984 were repealed by the Local Government (Building Surveyors) Regulations 2008, which were repealed by the Building Services (Registration) Act 2011 s. 112 on 2 Apr 2012.
 The Local Government (Building Surveyors) Regulations 2008 were repealed by the Building Services (Registration) Act 2011 s. 112 on 2 Apr 2012.
