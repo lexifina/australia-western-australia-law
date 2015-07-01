@@ -7,6 +7,7 @@ Co-operatives Amendment Regulations 2011 | 22 Jun 2011 p. 2351-6 | r. 1 and 2: 2
 Co-operatives Amendment Regulations (No. 2) 2012 | 22 Jun 2012 p. 2777-8 | r. 1 and 2: 22 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jun 2012 (see r. 2(b))
 Co-operatives Amendment Regulations 2012 | 27 Nov 2012 p. 5733 | 27 Nov 2012
 Co-operatives Amendment Regulations 2013 | 27 Jun 2013 p. 2673-6 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
+Co-operatives Amendment Regulations 2015 | 23 Jun 2015 p. 2167-9 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
