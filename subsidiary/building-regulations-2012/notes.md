@@ -13,6 +13,8 @@ Building Amendment Regulations 2014 | 24 Apr 2014 p. 1135-41 | r. 1 and 2: 24 Ap
 Building Amendment Regulations (No. 2) 2014 | 17 Jun 2014 p. 1957-8 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Building Amendment Regulations (No. 3) 2014 | 27 Jun 2014 p. 2308-9 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i))
 Reprint 2: The Building Regulations 2012 as at 21 Nov 2014 (includes amendments listed above)
+Building Amendment Regulations (No. 4) 2015 | 23 Jun 2015 p. 2161-4 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Building Amendment Regulations (No. 2) 2015 | 30 Jun 2015 p. 2328-9 | r. 1 and 2: 30 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 The Building Act 2011 s. 153 came into operation on 2 April 2012.
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
