@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 August 2012 of the Housing Regulations 1980 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Housing Regulations 1980 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Housing Regulations 1980 | 24 Dec 1980 p. 4361-3 | 1 Jan 1981 (see r. 2 and Gazette 24 Dec 1980 p. 4349)
@@ -15,6 +15,7 @@ Housing Amendment Regulations 2009 | 12 Jun 2009 p. 2114-15 | r. 1 and 2: 12 Jun
 Housing Amendment Regulations 2011 | 27 May 2011 p. 1924-7 | r. 1 and 2: 27 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2011 (see r. 2(b))
 Housing Amendment Regulations 2012 | 5 Jun 2012 p. 2361-2 | r. 1 and 2: 5 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Reprint 2: The Housing Regulations 1980 as at 3 Aug 2012 (includes amendments listed above)
+Housing Amendment Regulations 2015 | 16 Jun 2015 p. 2075-6 | r. 1 and 2: 16 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Repealed by the Statutes (Repeals and Minor Amendments) Act (No. 2) 1998.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
