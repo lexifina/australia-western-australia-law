@@ -6,25 +6,7 @@ Health (Pesticides) Regulations 2011 | 1 Feb 2011 p. 291-372 | r. 1 and 2: 1 Feb
 Health (Pesticides) Amendment Regulations 2011 | 21 Jun 2011 p. 2219-20 | r. 1 and 2: 21 Jun 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jun 2011 (see r. 2(b))
 Health (Pesticides) Amendment Regulations 2013 | 19 Nov 2013 p. 5294-5 | r. 1 and 2: 19 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2013 (see r. 2(b))
 Health (Pesticides) Amendment Regulations (No. 2) 2014 | 28 Nov 2014 p. 4412-13 | r. 1 and 2: 28 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Health (Pesticides) Amendment Regulations (No. 2) 2015 r. 3 and 4 | 19 May 2015 p. 1758-9 | 1 Jul 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, the Health (Pesticides) Amendment Regulations (No. 2) 2015 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Health (Pesticides) Regulations 2011.
-4.Schedule 1 amended
-In Schedule 1:
-(a) delete “308” (each occurrence) and insert:
-320
-(b) delete “22” (each occurrence) and insert:
-23
-(c) delete “11” (each occurrence) and insert:
-12
-(d) delete “154” (each occurrence) and insert:
-160
-(e) delete “110” and insert:
-114
+Health (Pesticides) Amendment Regulations (No. 2) 2015 | 19 May 2015 p. 1758-9 | r. 1 and 2: 19 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
