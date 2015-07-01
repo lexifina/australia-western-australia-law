@@ -129,6 +129,7 @@ Mining Amendment Regulations (No. 2) 2013 | 26 Jul 2013 p. 3356-9 | r. 1 and 2: 
 Mining Amendment Regulations 2014 | 13 Jun 2014 p. 1898 | r. 1 and 2: 13 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jun 2014 (see r. 2(b))
 Mining Amendment Regulations (No. 2) 2014 | 20 Jun 2014 p. 2035-8 | r. 1 and 2: 20 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Mining Amendment Regulations (No. 4) 2014 | 28 Nov 2014 p. 4415-20 | r. 1 and 2: 28 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Nov 2014 (see r. 2(b))
+Mining Amendment Regulations (No. 3) 2015 | 26 Jun 2015 p. 2257-60 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 The Mining Amendment Act 1990 was operative 28 June 1991.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -144,41 +145,6 @@ The Mining Amendment Regulations (No. 2) 2006 r. 10(7) and (8) read as follows:
 (8) In subregulation (7) —
 commencement day means the day on which these regulations come into operation;
 existing licence means an exploration licence in force under the Act on the day on which these regulations come into operation.
-prescribed tenement96CA(1)
-proceedings137(1)
-purchaser85(1)
-quarter85(1)
-quarterly period2
-RBA rate85AB(1)
-refiner86AA(11)
-reference grade86AD(1)AD(1)
-refinery86AA(11)
-related corporation85(1)
-release96(1), 96CA(1)
-release date23(2)
-relevant depth101A(1)
-relevant exploration licence4A
-relevant operations report58A(1)
-relevant period 86(2a), 96CA(1)
-reversion licence63A(1)
-royalty ore86AD(1)
-royalty return2
-royalty value85(1)
-sale85(1)
-SCSch. 4 cl. 1
-section2
-senior counselSch. 4 cl. 1
-senior inspector120F(5)
-senior lawyerSch. 4 cl. 1
-shipment date85(1)
-shipping costs86AD(1)
-SLSch. 4 cl. 1
-sold85(1)
-summons125(1a)
-supply85AA(5)
-tenement116
-treatment facility86AA(11)
-working day2
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
