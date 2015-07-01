@@ -26,6 +26,7 @@ Motor Vehicle Dealers (Sales) Amendment Regulations 2006 | 17 Nov 2006 p. 4750-9
 Reprint 3: The Motor Vehicle Dealers (Sales) Regulations 1974 as at 16 Feb 2007 (includes amendments listed above)
 Motor Vehicle Dealers (Sales) Amendment Regulations (No. 2) 2011 | 30 Jun 2011 p. 2659-60 | r. 1 and 2: 30 Jun 2011 (see r. 1(a)); Regulations other than r. 1 and 2: 1 Jul 2011 (see r. 2(b))
 Motor Vehicle Dealers (Sales) Amendment Regulations 2014 | 8 Jan 2015 p. 89 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Motor Vehicle Dealers (Sales) Amendment Regulations 2015 | 30 Jun 2015 p. 2330-1 | r. 1 and 2: 30 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
