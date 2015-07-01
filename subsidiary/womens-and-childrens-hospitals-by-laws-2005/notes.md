@@ -14,6 +14,7 @@ Reprint 2: The Women’s and Children’s Hospitals By-laws 2005 as at 7 Mar 201
 Women’s and Children’s Hospitals Amendment By-laws (No. 2) 2014 | 13 Jun 2014 p. 1867-70 | bl. 1 and 2: 13 Jun 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2014 (see bl. 2(b))
 Women’s and Children’s Hospitals Amendment By-laws 2014 | 8 Jan 2015 p. 205-8 | bl. 1 and 2: 8 Jan 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Apr 2015 (see bl. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Women’s and Children’s Hospitals Amendment By-laws 2015 | 14 Apr 2015 p. 1352-5 | bl. 1 and 2: 14 Apr 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 15 Apr 2015 (see bl. 2(b))
+Women’s and Children’s Hospitals Amendment By-laws (No. 2) 2015 | 19 Jun 2015 p. 2112-13 | bl. 1 and 2: 19 Jun 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2015 (see bl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

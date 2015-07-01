@@ -41,8 +41,9 @@ Princess Margaret Hospital for Children
 20 | Certificate of Title Volume 2134 Folio 980 being Lot 200 on Deposited Plan 31327 (80 Hay Street, Subiaco) while it is leased for the purposes of the Hospital
 21 | Certificate of Title Volume 2134 Folio 981 being Lot 201 on Deposited Plan 31327 (82 Hay Street, Subiaco) while it is leased for the purposes of the Hospital
 22 | Certificate of Title Volume 2543 Folio 897 being Lot 3 on Strata Plan 44045 (Level 1, 110 Hay St, Subiaco) So much of the premises as is leased for the purposes of the Hospital, while it is leased for that purpose
+23 | Certificate of Title Volume 1570 Folio 301-308 being Lots 1-8 on Strata Plan 8246 (70 Hay Street, Subiaco) while it is leased for the purposes of the Hospital
 State Child Development Centre
  | Crown Reserve 33853. Lot 890
 Stubbs Terrace Hospital
  | Part of Crown Reserve 20074 bounded by Stubbs Terrace to the east, Grace Vaughan House to the north and perimeter fences to the south and west.
-[Schedule 1 amended in Gazette 22 May 2009 p. 1699; 26 Nov 2010 p. 5951-2.]
+[Schedule 1 amended in Gazette 22 May 2009 p. 1699; 26 Nov 2010 p. 5951-2; 19 Jun 2015 p. 2113.]
