@@ -21,10 +21,10 @@ r. 22A(1) | Leaving vessel unattended on land without permit | $200
 r. 22A(2) | Placing object to secure vessel on land without permit | $200
 r. 22(2) | Launching vessel from trailer except at permitted launching place | $200
 r. 23 | Using vessel as living accommodation | $200
-r. 24(2) | Securing vessel to Trust courtesy mooring for period that is longer than authorised | $200
-r. 24(3) | Securing long or commercial vessel to Trust courtesy mooring | $200
+r. 24(2) | Securing vessel to Department courtesy mooring for period that is longer than authorised | $200
+r. 24(3) | Securing long or commercial vessel to Department courtesy mooring | $200
 r. 25(2) | Littering Riverpark | $200
 r. 25(3) | Breaking glass, metal or earthenware in Riverpark | $200
 r. 26(2) | Organising or holding spectator event in River reserve without permit | $200
 r. 31(3) | Contravening condition or restriction imposed on permit | $200
-[Schedule 1 amended in Gazette 28 Aug 2012 p. 4139-40.]
+[Schedule 1 amended in Gazette 28 Aug 2012 p. 4139-40; 19 Jun 2015 p. 2099.]
