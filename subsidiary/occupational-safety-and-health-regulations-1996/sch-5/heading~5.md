@@ -1,6 +1,6 @@
 ## Schedule 5.5 — Carcinogenic substances to be used only for purposes approved by the Commissioner
 [Regulation 5.28]
-Note: The substance’s chemical abstract number appears in square brackets.
+Note:The substance’s chemical abstract number appears in square brackets.
 Acrylonitrile [107-13-1]
 Benzene [71-43-2] when used as a feedstock and containing more than 50% of benzene by volume
 Cyclophosphamide [50-18-0] (cytotoxic drug) when used in preparation for therapeutic use in hospitals and oncological treatment facilities and in manufacturing operations

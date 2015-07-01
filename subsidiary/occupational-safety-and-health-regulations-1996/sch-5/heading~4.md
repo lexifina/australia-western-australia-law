@@ -1,6 +1,6 @@
 ## Schedule 5.4 — Carcinogenic substances to be used only for bona fide research
 [Regulation 5.28]
-Note: The number in square brackets is the substance’s chemical abstract number.
+Note:The number in square brackets is the substance’s chemical abstract number.
 2-Acetylaminofluorene [53-96-3]
 Aflatoxins
 4-Aminodiphenyl [92-67-1]
