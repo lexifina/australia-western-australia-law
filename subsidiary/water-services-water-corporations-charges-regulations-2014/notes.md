@@ -5,6 +5,7 @@ Citation | Gazettal | Commencement
 Water Services (Water Corporations Charges) Regulations 2014 | 25 Jun 2014 p. 2155-298 | r. 1 and 2: 25 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Water Services (Water Corporations Charges) Amendment Regulations 2014 | 19 Sep 2014 p. 3344-5 | r. 1 and 2: 19 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2014 (see r. 2(b)(i))
 Water Services (Water Corporations Charges) Amendment Regulations (No. 2) 2014 | 15 Oct 2014 p. 3943-93 | r. 1 and 2: 15 Oct 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2014 (see r. 2(b))
+Water Services (Water Corporations Charges) Amendment Regulations 2015 | 30 Jun 2015 p. 2363-404 | r. 1 and 2: 30 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

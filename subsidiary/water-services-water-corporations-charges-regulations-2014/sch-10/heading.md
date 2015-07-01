@@ -1,178 +1,176 @@
 ## Schedule 10 — Class of town or area: current consumption year
 [Sch. 3 it. 24]
+[Heading inserted in Gazette 30 Jun 2015 p. 2395.]
 Town/area | Residential classification | Non-residential classification
-Albany | 4 | 7
-Albany Farmlands | 4 | 7
+Albany | 4 | 8
 Allanooka Farmlands | 2 | 1
 Allanson | 4 | 11
 Arrino | 5 | 15
-Arrowsmith Farmlands | 5 | 14
-Augusta | 5 | 14
-Australind/Eaton | 2 | 2
+Arrowsmith Farmlands | 5 | 15
+Augusta | 5 | 15
+Australind/Eaton | 2 | 3
 Badgingarra | 5 | 15
-Bakers Hill | 5 | 12
-Balingup | 5 | 14
+Bakers Hill | 5 | 13
+Balingup | 5 | 15
 Ballidu | 5 | 15
 Beacon | 5 | 15
 Bencubbin | 5 | 15
-Beverley | 5 | 12
+Beverley | 5 | 13
 Bindi Bindi | 5 | 15
-Bindoon/Chittering | 5 | 14
-Binningup | 5 | 12
-Bodallin | 5 | 12
-Boddington | 5 | 12
+Bindoon/Chittering | 5 | 15
+Binningup | 5 | 13
+Bodallin | 5 | 13
+Boddington | 5 | 13
 Bolgart | 5 | 15
 Borden | 5 | 15
-Boyanup | 4 | 8
-Boyup Brook | 5 | 12
-Bremer Bay | 5 | 14
-Bridgetown/Hester | 5 | 14
+Boyanup | 4 | 9
+Boyup Brook | 5 | 13
+Bremer Bay | 5 | 15
+Bridgetown/Hester | 5 | 15
 Broad Arrow | 5 | 15
-Brookton | 5 | 14
-Broome | 2 | 2
-Broomehill | 5 | 14
+Brookton | 5 | 15
+Broome | 2 | 3
+Broomehill | 5 | 15
 Bruce Rock | 5 | 15
 Brunswick/Burekup/Roelands | 3 | 7
-Bullaring | 5 | 14
+Bullaring | 5 | 15
 Bullfinch | 5 | 15
 Bunjil | 5 | 15
 Buntine | 5 | 15
-Burracoppin | 5 | 12
-Calingiri | 5 | 14
+Burracoppin | 5 | 13
+Calingiri | 5 | 15
 Camballin | 5 | 15
 Capel | 2 | 6
-Carnamah | 5 | 12
-Carnarvon | 5 | 12
+Carnamah | 5 | 13
+Carnarvon | 5 | 13
 Caron | 5 | 15
-Cervantes | 5 | 8
+Cervantes | 5 | 9
 Collie | 2 | 6
 Collie Farmlands | 1 | 1
 Condingup | 5 | 15
 Coolgardie | 5 | 14
 Coomberdale | 5 | 15
-Coorow | 5 | 12
+Coorow | 5 | 13
 Coral Bay | 5 | N/A
 Corrigin | 5 | 15
-Cowaramup | 5 | 14
+Cowaramup | 5 | 15
 Cranbrook | 5 | 15
-Cuballing | 5 | 14
-Cue | 5 | 14
-Cunderdin | 5 | 8
-Dalwallinu | 5 | 14
+Cuballing | 5 | 15
+Cue | 5 | 15
+Cunderdin | 5 | 9
+Dalwallinu | 5 | 15
 Dalyellup | 3 | 4
 Dandaragan | 5 | 15
-Dardanup | 5 | 14
-Darkan | 5 | 12
-Dathagnoorara Farmlands | 4 | 8
+Dardanup | 5 | 15
+Darkan | 5 | 13
+Dathagnoorara Farmlands | 4 | 9
 Denham (Saline) | 2 | 5
 Denmark | 5 | 15
-Derby | 3 | 6
-Dongara/Denison | 2 | 2
-Donnybrook | 3 | 5
-Doodlakine | 5 | 14
-Dowerin | 5 | 12
+Derby | 3 | 7
+Dongara/Denison | 2 | 3
+Donnybrook | 3 | 6
+Doodlakine | 5 | 15
+Dowerin | 5 | 13
 Dudinin/Harrismith/Jitarning | 5 | 15
 Dumbleyung | 5 | 15
-Dunsborough/Yallingup | 3 | 6
-Dwellingup | 5 | 14
-Eneabba | 5 | 12
-Eradu | 5 | 14
-Esperance | 3 | 6
-Exmouth | 4 | 10
-Fitzroy Crossing | 3 | 2
+Dunsborough/Yallingup | 4 | 7
+Dwellingup | 5 | 15
+Eneabba | 5 | 13
+Eradu | 5 | 15
+Esperance | 3 | 7
+Exmouth | 4 | 11
+Fitzroy Crossing | 3 | 3
 Frankland | 5 | 15
-Gabbadah | 5 | 12
+Gabbadah | 5 | 13
 Gascoyne Junction | 5 | 15
-Geraldton | 2 | 2
+Geraldton | 2 | 3
 Gibson | 5 | 15
-Gingin | 5 | 12
-Gnarabup | 5 | 8
+Gingin | 5 | 13
 Gnowangerup | 5 | 15
-Goomalling | 5 | 14
+Goomalling | 5 | 15
 Grass Patch | 5 | 15
-Grass Valley | 5 | 12
-Greenbushes | 5 | 14
-Greenhead | 5 | 12
-Guilderton | 4 | 9
-Halls Creek | 5 | 14
-Hamel/Waroona | 3 | 5
-Harvey/Wokalup | 3 | 6
-Highbury/Piesseville | 5 | 14
-Hines Hill | 5 | 14
-Hopetoun | 5 | 14
+Grass Valley | 5 | 13
+Greenbushes | 5 | 15
+Greenhead | 5 | 13
+Guilderton | 4 | 10
+Halls Creek | 5 | 15
+Hamel/Waroona | 4 | 6
+Harvey/Wokalup | 3 | 7
+Highbury/Piesseville | 5 | 15
+Hines Hill | 5 | 15
+Hopetoun | 5 | 15
 Horrocks | 5 | 15
 Hyden | 5 | 15
 Jerramungup | 5 | 15
-Jurien Bay | 3 | 4
+Jurien | 3 | 5
 Kalannie | 5 | 15
-Kalbarri | 3 | 3
-Kalgoorlie/Boulder | 5 | 14
-Kambalda | 5 | 10
-Karakin | 5 | 12
+Kalbarri | 3 | 4
+Kalgoorlie/Boulder | 5 | 15
+Kambalda | 5 | 11
+Karakin | 5 | 13
 Karlgarin | 5 | 15
-Karratha | 3 | 7
-Katanning | 5 | 14
-Katanning Farmlands | 5 | 14
-Kellerberrin | 5 | 14
+Karratha | 3 | 8
+Katanning | 5 | 15
+Katanning Farmlands | 5 | 15
+Kellerberrin | 5 | 15
 Kendenup | 5 | 15
-Kendenup Farmlands | 5 | 14
+Kendenup Farmlands | 5 | 15
 Kirup | 5 | 15
-Kojonup/Muradup | 5 | 14
+Kojonup/Muradup | 5 | 15
 Kondinin | 5 | 15
-Koorda | 5 | 14
+Koorda | 5 | 15
 Kukerin/Moulyinning | 5 | 15
 Kulin | 5 | 15
 Kununoppin | 5 | 15
-Kununurra | 3 | 3
+Kununurra | 3 | 4
 Lake Grace | 5 | 15
 Lake King | 5 | 15
-Lancelin | 5 | 12
+Lancelin | 5 | 13
 Latham | 5 | 15
-Laverton | 5 | 14
-Ledge Point | 4 | 12
-Leeman | 5 | 12
-Leonora | 5 | 14
-Mandurah | 2 | 4
-Manjimup | 5 | 11
+Laverton | 5 | 15
+Ledge Point | 5 | 13
+Leeman | 5 | 13
+Leonora | 5 | 15
+Mandurah | 2 | 5
+Manjimup | 5 | 12
 Marble Bar | 5 | 15
-Margaret River | 3 | 6
+Margaret River | 4 | 7
 Marvel Loch | 5 | 15
-Meckering | 5 | 12
+Meckering | 5 | 13
 Meekatharra | 4 | 11
 Menzies | 5 | 15
-Merredin | 5 | 12
+Merredin | 5 | 13
 Merredin Farmlands | 3 | 9
-Miling | 5 | 14
-Mingenew | 4 | 11
+Miling | 5 | 15
+Mingenew | 5 | 12
 Moora | 2 | 3
 Moorine Rock | 5 | 15
-Morawa | 5 | 14
-Mount Barker | 5 | 14
-Mount Magnet | 5 | 12
-Mount Roe | 5 | 15
+Morawa | 5 | 15
+Mount Barker | 5 | 15
+Mount Magnet | 5 | 13
 Mukinbudin | 5 | 15
 Mullalyup | 5 | 15
-Mullewa | 5 | 11
+Mullewa | 5 | 12
 Mullewa Farmlands | 4 | 13
 Munglinup | 5 | 15
 Muntadgin | 5 | 15
-Myalup | 5 | 14
-Nabawa | 5 | 14
-Nannup | 5 | 14
+Myalup | 5 | 15
+Nabawa | 5 | 15
+Nannup | 5 | 15
 Narembeen | 5 | 15
 Narngulu | 1 | 1
-Narrikup | 5 | 14
-Narrogin | 5 | 12
+Narrikup | 5 | 15
+Narrogin | 5 | 13
 Narrogin Farmlands | 3 | 9
 New Norcia | 5 | 15
 Newdegate | 5 | 15
-Newman | 2 | 2
-Nilgen | 5 | 9
+Newman | 2 | 3
+Nilgen | 5 | 10
 Norseman | 5 | 15
-North Dandalup | 4 | 10
-Northam | 4 | 8
+North Dandalup | 4 | 11
+Northam | 5 | 9
 Northam Farmlands | 3 | 9
-Northampton | 5 | 14
+Northampton | 5 | 15
 Northcliffe | 5 | 15
 Nullagine | 5 | 15
 Nungarin | 5 | 15
@@ -180,60 +178,61 @@ Nyabing | 5 | 15
 Ongerup | 5 | 15
 Onslow | 5 | 15
 Ora Banda | 5 | 15
-Park Ridge | 4 | 8
-Pemberton | 5 | 14
-Peppermint Grove Beach | 5 | 13
+Park Ridge | 4 | 9
+Pemberton | 5 | 15
+Peppermint Grove Beach | 5 | 14
 Perenjori | 5 | 15
 Pingaring | 5 | 15
-Pingelly | 5 | 14
+Pingelly | 5 | 15
 Pingrup | 5 | 15
 Pinjarra | 2 | 2
-Pithara | 5 | 14
+Pithara | 5 | 15
 Point Samson | 4 | 10
 Popanyinning | 5 | 15
-Porongurup | 5 | 6
-Porongurup Farmlands | 5 | 14
+Porongurup | 5 | 7
 Port Hedland | 2 | 5
-Preston Beach | 5 | 14
-Quairading | 5 | 14
+Preston Beach | 5 | 15
+Prevelly | 5 | 9
+Quairading | 5 | 15
 Quinninup | 5 | 15
 Ravensthorpe | 5 | 15
 Rocky Gully | 5 | 15
 Roebourne | 4 | 10
 Salmon Gums | 5 | 15
 Sandstone | 5 | 15
-Seabird | 5 | 14
+Seabird | 5 | 15
 South Hedland | 2 | 5
-Southern Cross | 5 | 11
+Southern Cross | 5 | 12
 Tambellup | 5 | 15
-Tammin | 5 | 12
-Three Springs | 5 | 14
+Tammin | 5 | 13
+Three Springs | 5 | 15
 Tincurrin | 5 | 15
-Toodyay | 5 | 12
+Toodyay | 5 | 13
 Trayning | 5 | 15
 Varley | 5 | 15
-Wagin | 5 | 14
+Wagin | 5 | 15
 Walkaway | 2 | 1
 Walpole | 5 | 15
 Wandering | 5 | 15
 Watheroo | 5 | 15
 Wellstead | 5 | 15
-Westonia | 5 | 14
-Wickepin | 5 | 14
+Westonia | 5 | 15
+Wickepin | 5 | 15
 Wickham | 4 | 10
 Widgiemooltha | 5 | 15
-Williams | 5 | 12
-Wiluna | 5 | 12
+Williams | 5 | 13
+Wiluna | 5 | 13
 Wongan Hills | 5 | 15
-Woodanilling | 5 | 14
-Woodridge | 5 | 12
+Woodanilling | 5 | 15
+Woodridge | 5 | 13
 Wubin | 5 | 15
 Wundowie | 2 | 1
-Wyalkatchem | 5 | 14
+Wyalkatchem | 5 | 15
 Wyndham | 5 | 15
 Yalgoo | 5 | 15
-Yarloop | 5 | 8
-Yealering | 5 | 14
+Yarloop/Wagerup | 5 | 9
+Yealering | 5 | 15
 Yerecoin | 5 | 15
-York | 5 | 12
+York | 5 | 13
 Yuna | 5 | 15
+[Schedule 10 inserted in Gazette 30 Jun 2015 p. 2395-404.]
