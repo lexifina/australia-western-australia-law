@@ -51,64 +51,8 @@ Reprint 3: The Radiation Safety (General) Regulations 1983 as at 19 Dec 2008 (in
 Radiation Safety (General) Amendment Regulations 2010 | 17 Aug 2010 p. 4045-8 | r. 1 and 2: 17 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Aug 2010 (see r. 2(b))
 Radiation Safety (General) Amendment Regulations 2011 | 1 Apr 2011 p. 1183-4 | r. 1 and 2: 1 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2011 (see r. 2(b))
 Radiation Safety (General) Amendment Regulations 2014 | 30 Dec 2014 p. 5501-3 | r. 1 and 2: 30 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Radiation Safety (General) Amendment Regulations 2015 r. 3-5 | 19 May 2015 p. 1754-7 | 1 Jul 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, the Radiation Safety (General) Amendment Regulations 2015 r. 3-5 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Radiation Safety (General) Regulations 1983.
-4.Regulation 58 amended
-In regulation 58(7a) delete “item (1A)” and insert:
-item 1A
-5.Schedule XV Parts 1 and 2 replaced
-In Schedule XV delete Parts 1 and 2 and insert:
-Part 1 — Registration and licences
- | $
- | Annual | Triennial
-1.Fee for registration or renewal of registration of premises (other than premises used solely for the mining and milling of radioactive ores (including mineral sands)), for the manufacture, use or storage of radioactive substances
-(1)Radioactive substances, other than tritium in gaseous tritium light devices —
-Maximum quantity:
-40 gigabecquerels | 160 | 320
-400 gigabecquerels | 320 | 630
-4 terabecquerels | 630 | 1 260
-Exceeding 4 terabecquerels | 950 | 1 900
-(2)Tritium in gaseous tritium light devices —
-Maximum quantity:
-4 terabecquerels | 55 | 111
-40 terabecquerels | 138 | 277
-Exceeding 40 terabecquerels | 277 | 553
-1A.Fee for registration or renewal of registration of premises used solely for the mining and milling of radioactive ores (including mineral sands) | 150 | 300
-2.Fee for registration or renewal of registration of premises for the sale or service of radioactive substances, irradiating apparatus or electronic products | 150 | 300
-3.Fee for registration or renewal of registration of premises, other than premises referred to in items 1, 1A and 2, irradiating apparatus and electronic products
-In the case of —
-(a)not more than 2 irradiating apparatus and/or electronic products | 160 | 320
-(b)more than 2 but not more than 5 irradiating apparatus and/or electronic products | 320 | 630
-(c)more than 5 but not more than 10 irradiating apparatus and/or electronic products | 630 | 1 260
-(d)more than 10 irradiating apparatus and/or electronic products | 950 | 1 900
-4.Licence fee
-In the case of —
-(a)irradiating apparatus and/or electronic products | 65 | 130
-(b)radioactive substances | 65 | 130
-Part 2 — Temporary permits
-Fee for temporary permits for periods of 3 months or part thereof.
- | $
-1.In respect of premises (other than premises used solely for the mining and milling of radioactive ores (including mineral sands)) and radioactive substances
-Maximum quantity:
-40 gigabecquerels | 75
-400 gigabecquerels | 150
-4 terabecquerels | 300
-Exceeding 4 terabecquerels | 450
-1A.In respect of premises used solely for the mining and milling of radioactive ores (including mineral sands) | 75
-2.In respect of premises, irradiating apparatus and/or electronic products
-In the case of —
-(a)not more than 2 irradiating apparatus and/or electronic products | 75
-(b)more than 2 but not more than 5 irradiating apparatus and/or electronic products | 150
-(c)more than 5 but not more than 10 irradiating apparatus and/or electronic products | 300
-(d)more than 10 irradiating apparatus and/or electronic products | 450
-3.For persons to operate, use, manufacture, store, transport, sell, possess, install, service, maintain, repair or otherwise deal with —
-(a)radioactive substances | 30
-(b)irradiating apparatus and/or electronic products | 30
+Radiation Safety (General) Amendment Regulations 2015 | 19 May 2015 p. 1754-7 | r. 1 and 2: 19 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Footnote no longer applicable.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 4-6Footnote no longer applicable.
 Repealed by the National Health and Medical Research Council Act 1992 (Commonwealth).
