@@ -5,6 +5,7 @@ Citation | Gazettal | Commencement
 Fiona Stanley Hospital By-laws 2014 | 10 Oct 2014 p. 3701-30 | bl. 1 and 2: 10 Oct 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 11 Oct 2014 (see bl. 2(b))
 Fiona Stanley Hospital Amendment By-laws (No. 2) 2014 | 8 Jan 2015 p. 177-80 | bl. 1 and 2: 8 Jan 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Apr 2015 (see bl. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Fiona Stanley Hospital Amendment By-laws 2015 | 14 Apr 2015 p. 1331-3 | bl. 1 and 2: 14 Apr 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 15 Apr 2015 (see bl. 2(b))
+Fiona Stanley Hospital Amendment By-laws (No. 2) 2015 | 19 Jun 2015 p. 2109-11 | bl. 1 and 2: 19 Jun 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2015 (see bl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
