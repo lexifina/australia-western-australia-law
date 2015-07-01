@@ -23,6 +23,7 @@ Magistrates Court (Fees) Amendment Regulations 2013 | 20 Aug 2013 p. 3815-16 | r
 Magistrates Court (Fees) Amendment Regulations (No. 2) 2013 | 15 Nov 2013 p. 5248-50 | r. 1 and 2: 15 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 16 Nov 2013 (see r. 2(b))
 Magistrates Court (Fees) Amendment Regulations (No. 3) 2014 | 27 Jun 2014 p. 2342-4 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i))
 Magistrates Court (Fees) Amendment Regulations 2015 | 10 Feb 2015 p. 613 | r. 1 and 2: 10 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Magistrates Court (Fees) Amendment Regulations (No. 2) 2015 | 19 Jun 2015 p. 2124-7 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(i))
 The Magistrates Court (Fees) Amendment Regulations (No. 2) 2011, Table to r. 4 included amendments to Schedule 1 Divisions 2 and 3. These amendments are not included because the instruction in r. 4 referred only to Schedule 1 Division 1.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
