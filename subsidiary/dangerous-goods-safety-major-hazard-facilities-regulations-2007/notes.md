@@ -12,6 +12,7 @@ Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations (No. 3) 2
 Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations (No. 2) 2012 | 19 Feb 2013 p. 987-8 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
 Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations 2013 | 28 Jun 2013 p. 2825-6 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations 2014 | 17 Jun 2014 p. 1989-90 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
+Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations 2015 | 26 Jun 2015 p. 2265-6 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Repealed by the Dangerous Goods Safety Act 2004 s. 70.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
