@@ -15,6 +15,7 @@ Reprint 2: The Adoption Regulations 1995 as at 27 Mar 2009 (includes amendments 
 Adoption Amendment Regulations 2012 | 30 Nov 2012 p. 5775-80 | r. 1 and 2: 30 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2012 (see r. 2(b) and Gazette 30 Nov 2012 p. 5773)
 Adoption Amendment Regulations (No. 2) 2013 | 28 Jun 2013 p. 2746-7 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Adoption Amendment Regulations 2014 | 27 Jun 2014 p. 2309-10 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
+Adoption Amendment Regulations 2015 | 26 Jun 2015 p. 2236-7 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Repealed by the Adoption Rules 1995.
 Repealed by the Adoption Act 1994.
 Defined terms
