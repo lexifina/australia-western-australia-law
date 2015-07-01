@@ -14,6 +14,7 @@ DGS (Road and Rail Transport of Non-explosives) Amendment Regulations (No. 2) 20
 Dangerous Goods Safety (Road and Rail Transport of Non explosives) Amendment Regulations 2013 | 2 Dec 2013 p. 5497-8 | r. 1 and 2: 2 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2013 (see r. 2(b))
 Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2014 | 13 Jun 2014 p. 1929-50 | r. 1 and 2: 13 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations (No. 2) 2014 | 8 Jan 2015 p. 131-2 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations 2015 | 26 Jun 2015 p. 2264-5 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 The Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Regulations (No. 2) 2010 published in Gazette 25 Jun 2010 p. 2873-4 were repealed before the amendment purported to come into operation by the Dangerous Goods Safety (Road and Rail Transport of Non-explosives) Amendment Repeal Regulations 2010 (see Gazette 30 Jun 2010 p. 3157).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
