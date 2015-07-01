@@ -8,5 +8,5 @@ An Act to —
 ·amend the Misuse of Drugs Act 1981 to enable the making of a drug trafficker declaration if, at the time of the commission of certain drug offences, the offender was a member of a declared criminal organisation; and
 ·amend the Sentencing Act 1995 to require the imposition of mandatory minimum sentences on offenders who commit certain offences at the direction of, in association with or for the benefit of a declared criminal organisation, and make such offenders ineligible for parole; and
 ·make related amendments to various Acts,
-and for related purposes.
+·and for related purposes.
 The Parliament of Western Australia enacts as follows:
