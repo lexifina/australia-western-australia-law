@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 November 2014 of the Petroleum (Submerged Lands) Regulations 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Petroleum (Submerged Lands) Regulations 1990 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Petroleum (Submerged Lands) Regulations 1990 | 28 Sep 1990 p. 5105-8 | 1 Oct 1990 (see r. 2 and Gazette 28 Sep 1990 p. 5099)
@@ -23,6 +23,8 @@ Petroleum (Submerged Lands) Amendment Regulations 2012 | 12 Jun 2012 p. 2460-2 |
 Petroleum (Submerged Lands) Amendment Regulations 2014 | 25 Feb 2014 p. 500-1 | r. 1 and 2: 25 Feb 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Feb 2014 (see r. 2(b))
 Petroleum (Submerged Lands) Amendment Regulations (No. 2) 2014 | 17 Jun 2014 p. 1983-5 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Reprint 3: The Petroleum (Submerged Lands) Regulations 1990 as at 14 Nov 2014 (includes amendments listed above)
+Petroleum (Submerged Lands) Amendment Regulations 2015 | 30 Jun 2015 p. 2345 | r. 1 and 2: 30 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2 and Gazette 30 Jun 2015 p. 2321)
+Petroleum (Submerged Lands) Amendment Regulations (No. 2) 2015 | 30 Jun 2015 p. 2348-9 | r. 1 and 2: 30 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Commencement day was 16 December 2000 (see Gazette 15 Dec 2000 p. 7201).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -34,4 +36,5 @@ federal duty8
 GDA2A
 GDA reference10(1)
 GRS809(2)
+regulation 312(1)
 related dealing5(2)
