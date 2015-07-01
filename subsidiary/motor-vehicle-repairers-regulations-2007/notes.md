@@ -19,6 +19,7 @@ Motor Vehicle Repairers Amendment Regulations (No. 3) 2014 | 17 Jun 2014 p. 1970
 Motor Vehicle Repairers Amendment Regulations 2014 | 15 Jul 2014 p. 2462-3 | r. 1 and 2: 15 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2014 (see r. 2(b))
 Motor Vehicle Repairers Amendment Regulations (No. 4) 2014 | 18 Nov 2014 p. 4319-22 | r. 1 and 2: 18 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2014 (see r. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Motor Vehicle Repairers Amendment Regulations (No. 2) 2014 | 8 Jan 2015 p. 91-3 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Motor Vehicle Repairers Amendment Regulations 2015 | 23 Jun 2015 p. 2179-80 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
