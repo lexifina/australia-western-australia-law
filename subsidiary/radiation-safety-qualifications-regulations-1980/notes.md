@@ -23,22 +23,7 @@ Radiation Safety (Qualifications) Amendment Regulations (No. 2) 1999 | 14 Sep 19
 Radiation Safety (Qualifications) Amendment Regulations 2000 | 30 Jun 2000 p. 3413-14 | 1 Jul 2000 (see r. 2)
 Radiation Safety (Qualifications) Amendment Regulations 2014 | 30 Dec 2014 p. 5503-4 | r. 1 and 2: 30 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2014 (see r. 2(b))
 Reprint 2: The Radiation Safety (Qualifications) Regulations 1980 as at 6 Feb 2015 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Radiation Safety (Qualifications) Amendment Regulations 2015 r. 3 and 4 | 19 May 2015 p. 1753-4 | 1 Jul 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, the Radiation Safety (Qualifications) Amendment Regulations 2015 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Radiation Safety (Qualifications) Regulations 1980.
-4.Schedule 2 amended
-In Schedule 2 amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 2 it. 1(a) | 650.00 | 665.00
-Sch. 2 it. 1(b) | 330.00 | 335.00
-Sch. 2 it. 1(c) | 650.00 | 665.00
-Sch. 2 it. 1(d) | 330.00 | 335.00
-Sch. 2 it. 2 | 33.00 | 35.00
+Radiation Safety (Qualifications) Amendment Regulations 2015 | 19 May 2015 p. 1753-4 | r. 1 and 2: 19 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
