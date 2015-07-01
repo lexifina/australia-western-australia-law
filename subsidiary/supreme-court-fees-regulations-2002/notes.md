@@ -26,6 +26,7 @@ Supreme Court (Fees) Amendment Regulations (No. 2) 2013 | 15 Nov 2013 p. 5239-42
 Supreme Court (Fees) Amendment Regulations (No. 2) 2014 | 27 Jun 2014 p. 2347-50 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i))
 Supreme Court (Fees) Amendment Regulations (No. 3) 2014 | 11 Jul 2014 p. 2437-8 | r. 1 and 2: 11 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Jul 2014 (see r. 2(b)(ii))
 Reprint 3: The Supreme Court (Fees) Regulations 2002 as at 1 Aug 2014 (includes amendments listed above)
+Supreme Court (Fees) Amendment Regulations (No. 2) 2015 | 19 Jun 2015 p. 2130-4 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(i))
 Repealed by the Co-operatives Act 2009.
 Repealed by the Commercial Arbitration Act 2012.
 Defined terms
