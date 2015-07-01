@@ -3,48 +3,8 @@ This is a compilation of the Road Traffic (Authorisation to Drive) Regulations 2
 Compilation table
 Citation | Gazettal | Commencement
 Road Traffic (Authorisation to Drive) Regulations 2014 | 23 Dec 2014 p. 5011-101 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Road Traffic (Authorisation to Drive) Amendment Regulations (No. 2) 2015 r. 3-6 | 27 May 2015 p. 1873-5 | 1 Jul 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, the Road Traffic (Authorisation to Drive) Amendment Regulations (No. 2) 2015 r. 3-6 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Road Traffic (Authorisation to Drive) Regulations 2014.
-4.Regulation 73 amended
-(1) In regulation 73(1) delete “$35.40” and insert:
-$36.00
-(2) In regulation 73(2) delete “$33.85” and insert:
-$35.30
-5.Regulation 77 amended
-(1) In regulation 77(1):
-(a) in paragraph (a) delete “$92.45;” and insert:
-$92.50;
-(b) in paragraph (b) delete “$179.50.” and insert:
-$185.00.
-(2) In regulation 77(2):
-(a) in paragraph (a) delete “$18.85;” and insert:
-$18.80;
-(b) in paragraph (b) delete “$36.60.” and insert:
-$37.60.
-6.Schedule 9 amended
-In Schedule 9 amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 9 it. 1 | 18.40 | 18.90
-Sch. 9 it. 2 | 12.30 | 12.60
-Sch. 9 it. 3(a)(i) | 72.40 | 74.10
-Sch. 9 it. 3(a)(ii) | 162.50 | 169.70
-Sch. 9 it. 3(b) | 38.50 | 39.80
-Sch. 9 it. 4(a) | 68.70 | 70.80
-Sch. 9 it. 4(b) | 157.20 | 161.70
-Sch. 9 it. 5 | 8.90 | 9.00
-Sch. 9 it. 6(a) | 40.70 | 41.80
-Sch. 9 it. 6(b) | 128.70 | 132.00
-Sch. 9 it. 7 | 107.80 | 110.50
-Sch. 9 it. 9 | 19.60 | 20.40
-Sch. 9 it. 10 | 13.20 | 13.60
-Sch. 9 it. 11 | 18.50 | 18.80
-Sch. 9 it. 12 | 21.10 | 21.30
+Road Traffic (Authorisation to Drive) Amendment Regulations (No. 2) 2015 | 27 May 2015 p. 1873-5 | r. 1 and 2: 27 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Road Traffic (Authorisation to Drive) Amendment Regulations 2015 | 26 Jun 2015 p. 2275 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(ii) and Gazette 26 Jun 2015 p. 2235)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
