@@ -9,32 +9,9 @@ Reprint 1: The Building Services (Complaint Resolution and Administration) Regul
 Building Services (Complaint Resolution and Administration) Amendment Regulations (No. 2) 2013 | 27 Jun 2013 p. 2663-4 | r. 1 and 2: 27 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Building Services (Complaint Resolution and Administration) Amendment Regulations 2014 | 17 Apr 2014 p. 1073-4 | r. 1 and 2: 17 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Apr 2014 (see r. 2(b))
 Building Services (Complaint Resolution and Administration) Amendment Regulations (No. 2) 2014 | 17 Jun 2014 p. 1958-9 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Building Services (Complaint Resolution and Administration) Amendment Regulations 2015 r. 3 and 4 | 5 May 2015 p. 1593-4 | 1 Jul 2015 (see r. 2(b))
+Building Services (Complaint Resolution and Administration) Amendment Regulations 2015 | 5 May 2015 p. 1593-4 | r. 1 and 2: 5 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Building Services (Complaint Resolution and Administration) Amendment Regulations (No. 3) 2015 | 23 Jun 2015 p. 2164-5 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Section 374 was deleted by the Building Act 2011 s. 153(2).
-On the date as at which this compilation was prepared, the Building Services (Complaint Resolution and Administration) Amendment Regulations 2015 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Building Services (Complaint Resolution and Administration) Regulations 2011.
-4.Regulation 12 amended
-(1) In regulation 12(2):
-(a) in paragraph (a) delete “$40.50” and insert:
-$61.65
-(b) in paragraph (b) delete “0.09%” and insert:
-0.137%
-(2) In regulation 12(3):
-(a) in paragraph (a) delete “$40.50” and insert:
-$61.65
-(b) in paragraph (b) delete “0.09%” and insert:
-0.137%
-(3) In regulation 12(4) delete “$40.50.” and insert:
-$61.65.
-(4) In regulation 12(5):
-(a) in paragraph (a) delete “$81.00” and insert:
-$123.30
-(b) in paragraph (b) delete “0.18%” and insert:
-0.274%
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
