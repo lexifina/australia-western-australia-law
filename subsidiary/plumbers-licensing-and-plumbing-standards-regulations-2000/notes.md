@@ -30,6 +30,7 @@ Reprint 4: The Plumbers Licensing and Plumbing Standards Regulations 2000 as at 
 Plumbers Licensing and Plumbing Standards Amendment Regulations 2014 | 17 Jun 2014 p. 1975-7 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 2) 2014 | 19 Dec 2014 p. 4831-41 | r. 1 and 2: 19 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2015 (see r. 2(b))
 Plumbers Licensing and Plumbing Standards Amendment Regulations 2015 | 24 Apr 2015 p. 1495-518 | r. 1 and 2: 24 Apr 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2015 (see r. 2(b))
+Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 2) 2015 | 23 Jun 2015 p. 2183-4 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Formerly referred to the Water Services Coordination Act 1995, the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62, and then subsequently changed to the Plumbers Licensing Act 1995 by the Water Services Legislation Amendment and Repeal Act 2012 s. 193.
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
 Under the Legal Profession Act 2008 s. 630(1), a reference in an Act or document to the Legal Practice Act 2003 may, if the context permits, be taken to be a reference to the Legal Profession Act 2008.
@@ -44,8 +45,9 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 advertisement25(2)
-airconditioning waste62(2)
+airconditioning waste53(1)
 alternate memberSch. 2 cl. 4(1)
+alternative solution 3(1)
 apparatus for the treatment of sewerage3(1)
 application110
 application fee3(1)
@@ -63,12 +65,12 @@ CertificateSch. 3 cl. 1
 certificate of compliance3(1)
 chairperson3(1)
 commencement110, 120
-common facility60(2)
 compliance purposes82
 compression union13A(4)
 Country Areas By-laws110
 Country Towns By-laws110
 dangerous situation3(1)
+declaration54(1)
 deputy chairperson3(1)
 disciplinary matter3(1)
 drainage plumbing3(1)
@@ -84,7 +86,6 @@ fixture3(1), 45(4)
 identification card3(1)
 initial application114(1)
 inspection purposes67(2), 82
-joint water service60(2)
 legal practitioner3(1)
 licence3(1)
 licence fee3(1)
@@ -108,25 +109,27 @@ permit fee3(1)
 permit holder3(1)
 pipe3(1)
 place3(1)
+Plumbing Code3(1)
 plumbing compliance officer3(1)
 plumbing contractor’s licence3(1)
-plumbing standards3(1), 47(2), 71(8)
+plumbing standards3(1), 48
 prescribed offence74
-pre-treatment equipment64(4)
+previous contractor45B(4)
 previous contractor or permit holder42(5)
-principal plumbing42(2)
+principal plumbing42(2), 45B(2)
 provisional tradesperson’s licence 3(1)
 provisional tradesperson’s licence (drainage plumbing)3(1)
-rectified71(8)
 register3(1)
 registered training providerSch. 3 cl. 1
 re-issue a licence or permit20A(1A)
 renewal fee3(1)
+responsible person47
 restricted plumbingSch. 3 cl. 7(1)
 restricted plumbing permit3(1)
 sanitary plumbing3(1)
 sanitary plumbing work3(1)
 sewer3(1)
+specified54(1)
 statement of attainmentSch. 3 cl. 1
 statement of competencySch. 3 cl. 1
 temperature/pressure relief valve13A(4)
@@ -140,7 +143,6 @@ wastewater3(1)
 water heater3(1)
 water services provider3(1)
 water services works of a water services provider3(1)
-water storage tank59(2)
 water supply plumbing3(1)
 water supply plumbing work3(1)
 working day3(1)
