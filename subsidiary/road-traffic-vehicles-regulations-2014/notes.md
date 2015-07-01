@@ -5,93 +5,10 @@ Citation | Gazettal | Commencement
 Road Traffic (Vehicles) Regulations 2014 | 23 Dec 2014 p. 5103-444 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
 Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 | 27 May 2015 p. 1865-6 | 27 May 2015 (see note under r. 1)
 Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 | 27 May 2015 p. 1867-71 | 27 May 2015 (see note under r. 1)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Road Traffic (Vehicles) Amendment Regulations (No. 4) 2015 r. 3 and 4 | 12 Jun 2015 p. 2036-40 | 1 Jul 2015 (see r. 2(b))
+Road Traffic (Vehicles) Amendment Regulations (No. 4) 2015 | 12 Jun 2015 p. 2036-40 | r. 1 and 2: 12 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 reads as follows:
 2.Specified day
 For the purposes of section 18 of the Act, the specified day in relation to these regulations is 1 July 2015.
-On the date as at which this compilation was prepared, the Road Traffic (Vehicles) Amendment Regulations (No. 4) 2015 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Road Traffic (Vehicles) Regulations 2014.
-4.Various fees amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 44(4)(a) | $8.90 | $9.10
-r. 48 | $8.90 | $9.00
-r. 87 Table | 60.80 (each occurrence) | 63.75
-r. 87 Table | 47.55 | 49.80
-r. 87 Table | 143.60 | 147.15
-r. 87 Table | 96.70 | 97.50
-r. 87 Table | 88.45 | 92.55
-r. 88 Table | 66.90 (each occurrence) | 70.10
-r. 88 Table | 52.30 | 54.75
-r. 88 Table | 157.95 | 161.85
-r. 88 Table | 106.35 | 107.25
-r. 88 Table | 97.30 | 101.80
-r. 89 Table | 63.30 (each occurrence) | 66.35
-r. 89 Table | 49.50 | 51.80
-r. 89 Table | 149.50 | 153.15
-r. 89 Table | 100.65 | 101.45
-r. 89 Table | 92.10 | 96.30
-r. 90 Table | 60.80 (each occurrence) | 63.75
-r. 90 Table | 47.55 | 49.80
-r. 90 Table | 143.60 | 147.15
-r. 90 Table | 96.70 | 97.50
-r. 90 Table | 88.45 | 92.55
-r. 91 Table | 69.75 (each occurrence) | 73.10
-r. 91 Table | 54.55 | 57.10
-r. 91 Table | 164.70 | 174.50
-r. 91 Table | 110.90 | 111.80
-r. 91 Table | 101.45 | 106.15
-r. 92 Table | 62.50 (each occurrence) | 65.50
-r. 92 Table | 48.90 | 51.15
-r. 92 Table | 147.60 | 151.25
-r. 92 Table | 99.40 | 100.20
-r. 92 Table | 90.95 | 95.10
-r. 93 Table | 72.10 (each occurrence) | 75.60
-r. 93 Table | 56.40 | 59.05
-r. 93 Table | 170.30 | 174.50
-r. 93 Table | 114.70 | 115.60
-r. 93 Table | 104.90 | 109.75
-r. 94 Table | 61.10 (each occurrence) | 64.05
-r. 94 Table | 47.80 | 50.00
-r. 94 Table | 144.30 | 147.85
-r. 94 Table | 97.20 | 97.95
-r. 94 Table | 88.90 | 93.00
-r. 95(1) Table | 60.80 (each occurrence) | 63.75
-r. 95(1) Table | 66.90 | 70.10
-r. 95(1) Table | 63.30 | 66.35
-r. 95(1) Table | 69.75 | 73.10
-r. 95(1) Table | 62.50 | 65.50
-r. 95(1) Table | 72.10 | 75.60
-r. 95(1) Table | 61.10 | 64.05
-r. 97(a) | $248.05 | $255.55
-r. 97(b) | $124.00 | $128.50
-r. 98(1) | $12.10 | $12.50
-r. 99(1) and (2) | $13.05 | $12.85
-r. 100 | $16.40 | $16.75
-r. 101 | $9.80 | $9.90
-r. 107 | $24.00 | $24.70
-r. 112(a) | $24.00 | $24.70
-r. 112(b) | $16.60 | $17.00
-r. 112(d) | $27.65 | $28.50
-r. 112(f) | $909.00 | $931.70
-r. 112(g)(i) | $220.25 | $225.70
-r. 112(g)(ii) | $108.95 | $111.60
-r. 114(1) and (2) | $16.60 | $17.00
-r. 130(1)(a) | $9 715.00 | $9 957.90
-r. 130(1)(b) and (e) | $1 943.60 | $1 992.20
-r. 130(1)(c) | $967.40 | $991.50
-r. 130(1)(d) | $193.30 | $198.10
-r. 130(1)(f) | $84.55 | $86.60
-r. 130(2) | $485.10 | $497.20
-r. 130(3)(a) and (b) | $20.00 | $20.50
-r. 134(1)(b) | $32.00 | $32.90
-r. 134(3) | $40.50 | $48.40
-r. 235(4) | $19.50 | $20.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -36,10 +36,7 @@ Reprint 4: The Taxi Regulations 1995 as at 13 Jan 2012 (includes amendments list
 Taxi Amendment Regulations 2012 | 5 Jun 2012 p. 2368-9 | r. 1 and 2: 5 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Taxi Amendment Regulations 2014 | 13 Jun 2014 p. 1903 | r. 1 and 2: 13 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Taxi Amendment Regulations 2015 | 20 Feb 2015 p. 692-4 | r. 1 and 2: 20 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Feb 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Taxi Amendment Regulations (No. 2) 2015 r. 3 and 4 | 12 Jun 2015 p. 2036 | 1 Jul 2015 (see r. 2(b))
+Taxi Amendment Regulations (No. 2) 2015 | 12 Jun 2015 p. 2036 | r. 1 and 2: 12 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Plans of the former Department of Land Administration are now held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 Now cited as the Local Government (Miscellaneous Provisions) Act 1960.
 The Taxi Act 1994 s. 34 and 35 were deleted by the Acts Amendment (Criminal Procedure) Act 1999 s. 9.
@@ -48,14 +45,6 @@ Under the Public Sector Management Act 1994 departments can be established and n
 Now known as the registrar of the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
-On the date as at which this compilation was prepared, the Taxi Amendment Regulations (No. 2) 2015 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Taxi Regulations 1995.
-4.Regulation 19 amended
-(1) In regulation 19(1) delete “$200” and insert:
-$210
-(2) In regulation 19(4) delete “$35.75.” and insert:
-$28.50.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
