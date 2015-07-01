@@ -34,53 +34,8 @@ Pawnbrokers and Second-hand Dealers Amendment Regulations 2013 | 28 Jun 2013 p. 
 Pawnbrokers and Second-hand Dealers Amendment Regulations 2014 | 17 Jun 2014 p. 1992-6 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Pawnbrokers and Second-hand Dealers Amendment Regulations (No. 2) 2014 | 5 Aug 2014 p. 2832-3 | r. 1 and 2: 5 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Aug 2014 (see r. 2(b))
 Pawnbrokers and Second-hand Dealers Amendment Regulations (No. 3) 2014 | 8 Jan 2015 p. 151-2 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Pawnbrokers and Second-hand Dealers Amendment Regulations 2015 r. 3-5 | 2 Jun 2015 p. 1948-52 | 1 Jul 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, the Pawnbrokers and Second-hand Dealers Amendment Regulations 2015 r. 3-5 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Pawnbrokers and Second-hand Dealers Regulations 1996.
-4.Regulation 28 amended
-In regulation 28 delete the Table and insert:
-Table — Fees for issue of licences
-Item | Licence | For period not exceeding one year ($) | For period not exceeding 2 years but longer than one year ($) | For period not exceeding 3 years but longer than 2 years ($)
-1. | Pawnbroker’s licence only
-1(a) | 150 or more transactions in a year | 3 338.00 | 4 045.00 | 4 752.00
-1(b) | 50-149 transactions in a year | 1 669.00 | 2 022.00 | 2 376.00
-1(c) | 0-49 transactions in a year | 834.00 | 1 011.00 | 1 188.00
-2. | Second-hand dealer’s licence only (computer option)
-2(a) | 150 or more transactions in a year | 3 338.00 | 4 045.00 | 4 752.00
-2(b) | 50-149 transactions in a year | 1 669.00 | 2 022.00 | 2 376.00
-2(c) | 0-49 transactions in a year | 834.00 | 1 011.00 | 1 188.00
-3. | Second-hand dealer’s licence only (facsimile option)
-3(a) | 150 or more transactions in a year | 3 436.00 | 4 240.00 | 5 045.00
-3(b) | 50-149 transactions in a year | 1 718.00 | 2 120.00 | 2 522.00
-3(c) | 0-49 transactions in a year | 859.00 | 1 060.00 | 1 261.00
-4. | Pawnbroker’s licence and second-hand dealer’s licence
-4(a) | 150 or more transactions in a year | 3 344.00 | 4 054.00 | 4 764.00
-4(b) | 50-149 transactions in a year | 1 672.00 | 2 027.00 | 2 382.00
-4(c) | 0-49 transactions in a year | 836.00 | 1 013.00 | 1 191.00
-5.Regulation 29 amended
-In regulation 29 delete the Table and insert:
-Table — Fees for renewal of licences
-Item | Licence | For period not exceeding one year ($) | For period not exceeding 2 years but longer than one year ($) | For period not exceeding 3 years but longer than 2 years ($)
-1. | Pawnbroker’s licence only
-1(a) | 150 or more transactions in a year | 3 299.00 | 3 989.00 | 4 680.00
-1(b) | 50-149 transactions in a year | 1 649.00 | 1 994.00 | 2 340.00
-1(c) | 0-49 transactions in a year | 824.00 | 997.00 | 1 170.00
-2. | Second-hand dealer’s licence only (computer option)
-2(a) | 150 or more transactions in a year | 3 299.00 | 3 989.00 | 4 680.00
-2(b) | 50-149 transactions in a year | 1 649.00 | 1 994.00 | 2 340.00
-2(c) | 0-49 transactions in a year | 824.00 | 997.00 | 1 170.00
-3. | Second-hand dealer’s licence only (facsimile option)
-3(a) | 150 or more transactions in a year | 3 396.00 | 4 184.00 | 4 972.00
-3(b) | 50-149 transactions in a year | 1 698.00 | 2 092.00 | 2 486.00
-3(c) | 0-49 transactions in a year | 849.00 | 1 046.00 | 1 243.00
-4. | Pawnbroker’s licence and second-hand dealer’s licence
-4(a) | 150 or more transactions in a year | 3 305.00 | 3 998.00 | 4 691.00
-4(b) | 50-149 transactions in a year | 1 652.00 | 1 999.00 | 2 345.00
-4(c) | 0-49 transactions in a year | 826.00 | 999.00 | 1 172.00
+Pawnbrokers and Second-hand Dealers Amendment Regulations 2015 | 2 Jun 2015 p. 1948-52 | r. 1 and 2: 2 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Footnote no longer applicable.
 Repealed by the Financial Sector (Collection of Data — Consequential and Transitional Provisions) Act 2001 (Cwlth).
 Formerly referred to the Liquor Licensing Regulations 1989 the citation of which was changed to the Liquor Control Regulations 1989 by the Liquor Licensing Amendment Regulations 2007 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Pawnbrokers and Second-hand Dealers Act 1994.
