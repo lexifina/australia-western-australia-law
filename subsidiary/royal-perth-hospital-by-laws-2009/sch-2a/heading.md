@@ -1,8 +1,10 @@
 ## Schedule 2A — Fees
-[bl. 17(4A)]
-[Heading inserted in Gazette 13 Jun 2014 p. 1871.]
-Table
-Type of permit | Fee
-All types of parking permit at Wellington Street Campus | $5.50 (for each day on which the permit holder is permitted to park a vehicle on the site, up to a maximum of $27.50 per week)
-All types of parking permit at Shenton Park Campus | no fee
-[Schedule 2A inserted in Gazette 13 Jun 2014 p. 1871.]
+[bl. 18, 19A, 19E and 25(4)]
+[Heading inserted in Gazette 19 Jun 2015 p. 2107.]
+By-law |  | Fee
+18(2) or (5) | Ticket parking | $3.50 per hour up to a maximum of $14.50 per day
+19A(3) | Paid staff parking | $5.90 per day, up to a maximum of $29.50 per week
+19E(1) | Parking permit | No fee
+25(4) | Removal and storage of vehicle — (a)basic fee plus | $50.00
+ | (b)if vehicle is stored for more than 24 hours — for each 7 days or part of 7 days for which vehicle is stored after first 24 hours | $5.00
+[Schedule 2A inserted in Gazette 19 Jun 2015 p. 2107-8.]
