@@ -14,15 +14,7 @@ Electricity Industry Exemption Amendment Order (No. 2) 2012 | 14 Dec 2012 p. 619
 Electricity Corporations (Consequential Amendments) Regulations 2013 r. 10 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Electricity Industry Exemption Amendment Order 2014 | 17 Oct 2014 p. 4003 | cl. 1 and 2: 17 Oct 2014 (see cl. 2(a)); Order other than cl. 1 and 2: 18 Oct 2014 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order 2015 | 15 May 2015 p. 1720-1 | cl. 1 and 2: 15 May 2015 (see cl. 2(a)); Order other than cl. 1 and 2: 16 May 2015 (see cl. 2(b))
-Electricity Industry Exemption Amendment Order (No. 2) 2015 | 26 Jun 2015 p. 2253-4 | cl. 1 and 2: 26 Jun 2015 (see cl. 2(a)); Order other than cl. 1, 2 and 6: 27 Jun 2015 (see cl. 2(c))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Electricity Industry Exemption Amendment Order (No. 2) 2015 cl. 62 | 26 Jun 2015 p. 2253-4 | 1 Jul 2015 (see cl. 2(b))
-On the date on which this compilation was prepared, the Electricity Industry Exemption Amendment Order (No. 2) 2015 cl. 6 had not come into operation. It reads as follows:
-6.Clause 19 amended
-In clause 19(4) delete the passage that begins with “3 years” and continues to the end of the subsection and insert:
-on 30 June 2018.
+Electricity Industry Exemption Amendment Order (No. 2) 2015 | 26 Jun 2015 p. 2253-4 | cl. 1 and 2: 26 Jun 2015 (see cl. 2(a)); Order other than cl. 1, 2 and 6: 27 Jun 2015 (see cl. 2(c)); cl. 6: 1 Jul 2015 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
