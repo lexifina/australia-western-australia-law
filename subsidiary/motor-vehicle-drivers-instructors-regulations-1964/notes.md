@@ -62,30 +62,13 @@ Motor Vehicle Drivers Instructors Amendment Regulations (No. 4) 2013 | 28 Jun 20
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2014 | 13 Jun 2014 p. 1904-5 | r. 1 and 2: 13 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Motor Vehicle Drivers Instructors Amendment Regulations (No. 3) 2014 | 4 Nov 2014 p. 4207 | r. 1 and 2: 4 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Nov 2014 (see r. 2(b))
 Motor Vehicle Drivers Instructors Amendment Regulations 2014 | 8 Jan 2015 p. 57-9 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Motor Vehicle Drivers Instructors Amendment Regulations 2015 r. 3 and 4 | 29 May 2015 p. 1882-3 | 1 Jul 2015 (see r. 2(b))
+Motor Vehicle Drivers Instructors Amendment Regulations 2015 | 29 May 2015 p. 1882-3 | r. 1 and 2: 29 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Footnote no longer applicable.
 Now superseded by the Public Transport Authority of Western Australia.
 Now superseded by the Fire and Emergency Services Authority of Western Australia.
 These regulations were repealed by the Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 1982 (published in Gazette 26 Mar 1982 p. 1073).
 The Motor Vehicles Instructors Amendment Regulations 1996 r. 6 is a transitional provision that is of no further effect.
 The Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2001 r. 9 and Sch. 1 and 2 are transitional and saving provisions that are of no further effect.
-On the date as at which this compilation was prepared, the Motor Vehicle Drivers Instructors Amendment Regulations 2015 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Motor Vehicle Drivers Instructors Regulations 1964.
-4.Regulation 13 replaced
-Delete regulation 13 and insert:
-13.Fees
-The fees specified in the Table are payable for the matters specified in the Table.
-Table
-Item | Description | Fee
-1. | An application for the initial grant of a licence under section 7(1) of the Act | $90.80
-2. | The issue of an instructor’s permit | $5.10
-3. | The issue of an instructor’s licence | $5.20
-4. | Test by the Director General under section 7(3) of the Act | $157.90
-5. | The issue of a replacement licence or permit | $7.60
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
