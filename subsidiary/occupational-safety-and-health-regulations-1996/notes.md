@@ -84,6 +84,7 @@ Occupational Safety and Health Amendment Regulations (No. 3) 2013 | 27 Jun 2013 
 Occupational Safety and Health Amendment Regulations (No. 4) 2013 | 21 Jan 2014 p. 84-5 | r. 1 and 2: 21 Jan 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jan 2014 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations (No. 2) 2014 | 17 Jun 2014 p. 1973-5 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations 2014 | 8 Jan 2015 p. 101-2 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Occupational Safety and Health Amendment Regulations 2015 | 23 Jun 2015 p. 2181-2 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 The Industrial Relations Act 1988 (Cwlth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 Repealed by the Building Act 2011.
 Repealed by the Work Health and Safety (Transitional and Consequential Provisions) Act 2011 (Cwlth).

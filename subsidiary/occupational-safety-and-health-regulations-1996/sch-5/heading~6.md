@@ -1,6 +1,6 @@
 ## Schedule 5.6 — Carcinogenic substances — asbestos
 [Regulation 5.28]
-Note: The number in square brackets is the substance’s chemical abstract number.
+Note:The substance’s chemical abstract number appears in square brackets.
 Actinolite asbestos [77536-66-5]
 Amosite [12172-73-5] (brown asbestos)
 Anthophyllite asbestos [77536-67-5]
