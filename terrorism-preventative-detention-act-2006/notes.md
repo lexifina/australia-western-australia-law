@@ -5,35 +5,11 @@ Short title | Number and year | Assent | Commencement
 Terrorism (Preventative Detention) Act 2006 | 42 of 2006 | 22 Sep 2006 | 22 Sep 2006 (see s. 2)
 Terrorism (Preventative Detention) Amendment Act 2008 | 1 of 2008 | 5 Mar 2008 | 5 Mar 2008 (see s. 2)
 Legal Profession Act 2008 s. 710 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 38 | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 38 had not come into operation. It reads as follows:
-38.Terrorism (Preventative Detention) Act 2006 amended
-(1) This section amends the Terrorism (Preventative Detention) Act 2006.
-(2) In section 4(1) delete the definition of allegation of misconduct.
-(3) In section 4(1) insert in alphabetical order:
-allegation of serious misconduct has the same meaning as in the Corruption, Crime and Misconduct Act 2003;
-(4) In section 4(1) in the definition of Corruption and Crime Commission delete “Corruption and Crime Commission Act 2003;” and insert:
-Corruption, Crime and Misconduct Act 2003;
-(5) In section 42(2):
-(a) delete “Corruption and Crime Commission Act 2003,” and insert:
-Corruption, Crime and Misconduct Act 2003,
-(b) delete “misconduct” and insert:
-serious misconduct
-(6) In section 43(1)(e) delete “misconduct” and insert:
-serious misconduct
-(7) In section 46(3)(h) and (4)(g) delete “misconduct” and insert:
-serious misconduct
-(8) Delete section 55(1)(b) and insert:
-(b) a function under the Corruption, Crime and Misconduct Act 2003 of the Corruption and Crime Commission, the Commissioner under that Act, the Public Sector Commissioner or the Parliamentary Inspector; or
-Note:The heading to amended section 42 is to read:
-Contacting proper authorities to make complaints, allegations of serious misconduct and representations
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 38 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-allegation of misconduct4(1)
+allegation of serious misconduct4(1)
 appropriate person48(14)
 ASIO Act4(1)
 authorised51(1), Sch. 1 cl. 4(1)

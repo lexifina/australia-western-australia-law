@@ -99,12 +99,12 @@ Reprint 10: The Public Sector Management Act 1994 as at 12 Jul 2013 (includes am
 Minerals Research Institute of Western Australia Act 2013 s. 78 | 23 of 2013 | 18 Dec 2013 | 1 Feb 2014 (see s. 2(b) and Gazette 14 Jan 2014 p. 43)
 Electricity Corporations Amendment Act 2013 s. 44 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Workforce Reform Act 2014 Pt. 3 | 8 of 2014 | 20 May 2014 | 1 Jul 2014 (see s. 2(b) and Gazette 27 Jun 2014 p. 2301)
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 37 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
+Alcohol and Drug Authority Amendment Act 2015 s. 17 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 37 | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
-Alcohol and Drug Authority Amendment Act 2015 s. 17 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The R & I Holdings Act 1990 was repealed in Gazette 26 Jun 2001 p. 3063 under the R & I Holdings Act 1990 s. 22(2).
@@ -115,23 +115,6 @@ On the date as at which this compilation was prepared, the State Superannuation 
 59.Public Sector Management Act 1994 amended
 The Public Sector Management Act 1994 is amended as follows:
 (a) by repealing section 20(1);
-On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 37 had not come into operation. It reads as follows:
-37.Public Sector Management Act 1994 amended
-(1) This section amends the Public Sector Management Act 1994.
-(2) In section 24D(2) in the Penalty delete “$1 000.” and insert:
-$10 000.
-(3) In section 24D(3) in the Penalty delete “$1 000.” and insert:
-$10 000.
-(4) In Schedule 3 clause 3(4) delete “$1 000.” and insert:
-$10 000.
-(5) In Schedule 3 clause 4(1) delete “$1 000.” and insert:
-$10 000.
-(6) In Schedule 3 clause 5(1) and (2) delete “$1 000.” and insert:
-$10 000.
-On the date as at which this compilation was prepared, the Alcohol and Drug Authority Amendment Act 2015 s. 17 had not come into operation. It reads as follows:
-17.Public Sector Management Act 1994 amended
-(1) This section amends the Public Sector Management Act 1994.
-(2) Delete Schedule 2 item 58.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -14,26 +14,12 @@ Royal Commissions (Powers) Amendment Act 2006 Pt. 3 | 30 of 2006 | 4 Jul 2006 | 
 Reprint 2: The Surveillance Devices Act 1998 as at 8 Dec 2006 (includes amendments listed above)
  | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 122 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
  | Criminal Appeals Amendment (Double Jeopardy) Act 2012 s. 11 | 9 of 2012 | 21 May 2012 | 26 Sep 2012 (see s. 2(b) and Gazette 25 Sep 2012 p. 4499)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
+ | Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The provision in this Act amending that Act has been omitted under the Reprints Act 1984 s. 7(4)(e).
 Section 4B expired on 16 Apr 2004 (see Royal Commission (Police) Act 2002 s. 3(3) and Gazette 16 Apr 2004 p. 1214).
 The Listening Devices Act 1978 was repealed by this Act. The repealing provision has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Corruption and Crime Commission Amendment and Repeal Act 2003 Sch. 2 cl. 15(16) (which refers to s. 41(3)) is not included because the section it sought to amend was previously amended by Sch. 1 cl. 8(21) of the same Act.
-On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) had not come into operation. It reads as follows:
-39.References in other Acts to “Corruption and Crime Commission Act 2003” amended
-(2) In the provisions listed in the Table:
-(a) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
-Corruption, Crime and Misconduct Act 2003
-(b) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
-Corruption, Crime and Misconduct Act 2003
-(c) delete “Corruption and Crime Commission Act 2003” and insert:
-Corruption, Crime and Misconduct Act 2003
-Table
-Surveillance Devices Act 1998 | s. 3(1) def. of Corruption and Crime Commission and officer of the Corruption and Crime Commission and (4) def. of misconduct, 18A(1) def. of section 5 offence, 23(3), 33(3)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
