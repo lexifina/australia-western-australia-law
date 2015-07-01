@@ -194,7 +194,7 @@ Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 20, 50, 68(1), 
 Corruption and Crime Commission Act 2003 s. 62 | 48 of 2003 | 3 Jul 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 29(3) | 50 of 2003 | 9 Jul 2003 | 31 Aug 2003 (see s. 2 and Gazette 29 Aug 2003 p. 3833)
 Reprint 12: The Constitution Acts Amendment Act 1899 as at 3 Oct 2003 (includes amendments listed above except those in the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 50 and 116(1) and the Corruption and Crime Commission Act 2003)
-Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
+Economic Regulation Authority Act 2003 Sch. 2 cl. 6 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Motor Vehicle Dealers Amendment Act 2003 s. 24 | 73 of 2003 | 15 Dec 2003 | 22 Dec 2004 (see s. 2 and Gazette 21 Dec 2004 p. 6133)
 Inspector of Custodial Services Act 2003 s. 56(1) | 75 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Criminal Injuries Compensation Act 2003 s. 73 | 77 of 2003 | 15 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5722)
@@ -278,14 +278,14 @@ Minerals Research Institute of Western Australia Act 2013 s. 76 | 23 of 2013 | 1
 Electricity Corporations Amendment Act 2013 s. 37 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Ports Legislation Amendment Act 2014 s. 44 | 9 of 2014 | 20 May 2014 | s. 44(1) and (3)-(5): 1 Jul 2014 (see s. 2(1)(c) and Gazette 20 Jun 2014 p. 2023); s. 44(2): 1 Oct 2014 (see s. 2(1)(c) and Gazette 19 Sep 2014 p. 3329)
 Consumer Protection Legislation Amendment Act 2014 Pt. 13 Div. 2 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
+Alcohol and Drug Authority Amendment Act 2015 s. 14 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Medicines and Poisons Act 2014 s. 183 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 4 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
-Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
-Alcohol and Drug Authority Amendment Act 2015 s. 14 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
@@ -384,17 +384,7 @@ On the date as at which this compilation was prepared, the Medicines and Poisons
 183.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete the item relating to The Poisons Advisory Committee.
-On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) had not come into operation. It reads as follows:
-39.References in other Acts to “Corruption and Crime Commission Act 2003” amended
-(2) In the provisions listed in the Table:
-(a) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
-Corruption, Crime and Misconduct Act 2003
-(b) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
-Corruption, Crime and Misconduct Act 2003
-(c) delete “Corruption and Crime Commission Act 2003” and insert:
-Corruption, Crime and Misconduct Act 2003
-Table
-Constitution Acts Amendment Act 1899 | Sch. V Pt. 1 Div. 2
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 4 had not come into operation. It reads as follows:
 Part 4 — Amendments to other Acts
 Division 4 — Other Acts amended
@@ -406,11 +396,6 @@ In Schedule V Part 1 Division 1 delete the item relating to the Mental Health Re
 Member of the Mental Health Tribunal established by the Mental Health Act 2014.
 40.Schedule V Part 3 amended
 In Schedule V Part 3 delete the item relating to the Council of Official Visitors.
-On the date as at which this compilation was prepared, the Alcohol and Drug Authority Amendment Act 2015 s. 14 had not come into operation. It reads as follows:
-14.Constitution Acts Amendment Act 1899 amended
-(1) This section amends the Constitution Acts Amendment Act 1899.
-(2) In Schedule V Part 2 Division 2 delete “Act 1951, or the Western Australian Alcohol and Drug Authority established under the Alcohol and Drug Authority Act 1974.” and insert:
-Act 1951.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
