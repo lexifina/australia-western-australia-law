@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Corruption and Crime Commission Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Corruption, Crime and Misconduct Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Corruption and Crime Commission Act 2003 | 48 of 2003 | 3 Jul 2003 | s. 1 and 2: 3 Jul 2003; Act other than s. 1 and 2: 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
@@ -29,13 +29,9 @@ Telecommunications (Interception) Western Australia Amendment Act 2011 Pt. 3 | 2
 Commonwealth Heads of Government Meeting (Special Powers) Act 2011 Pt. 9 | 23 of 2011 | 11 Jul 2011 | 12 Jul 2011 (see s. 2(b))
 Criminal Investigation (Covert Powers) Act 2012 Pt. 7 | 55 of 2012 | 3 Dec 2012 | 1 Mar 2013 (see s. 2(b) and Gazette 25 Jan 2013 p. 271)
 Reprint 5: The Corruption and Crime Commission Act 2003 as at 18 Oct 2013 (includes amendments listed above)
-Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 32 | 35 of 2014 | 9 Dec 2014 | 30 Dec 2014 (see s. 2(b) and Gazette 30 Dec 2014 p. 5497)
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 Pt. 2 (s. 3-32) | 35 of 2014 | 9 Dec 2014 | s. 32: 30 Dec 2014 (see s. 2(b) and Gazette 30 Dec 2014 p. 5497); Pt. 2 (other than s. 32): 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Declared Places (Mentally Impaired Accused) Act 2015 s. 84 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Corruption and Crime Commission Amendment (Misconduct) Act 2014 Pt. 2 (other than s. 32) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
-The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
+Now known as the Corruption, Crime and Misconduct Act 2003; short title changed (see note under s. 1).
 The Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 3 Div. 3 Subdiv. 2 reads as follows:
 Part 3 — Repeals, transitional and savings provisions, and consequential amendments
 Division 3 — Anti-Corruption Commission Act 1988
@@ -133,527 +129,6 @@ to or in relation to any matter.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not operate so as to —
 (a) affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the day of publication of those regulations; or
 (b) impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the day of publication of those regulations.
-On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 Pt. 2 (other than s. 32) had not come into operation. It reads as follows:
-Part 2 — Corruption and Crime Commission Act 2003 amended
-3.Act amended
-This Part amends the Corruption and Crime Commission Act 2003.
-4.Long title amended
-In the long title:
-(a) in the 1st bullet point delete “Commission; and” and insert:
-Commission with functions with respect to serious misconduct by public officers and organised crime; and
-(b) after the 1st bullet point insert:
-·confer on the Public Sector Commissioner functions with respect to misconduct by public officers; and
-(c) in the 2nd bullet point delete “Commission; and” and insert:
-Commission.
-(d) delete the last bullet point.
-5.Section 1 amended
-In section 1 delete “Corruption and Crime Commission Act 2003.” and insert:
-Corruption, Crime and Misconduct Act 2003.
-6.Section 3 amended
-(1) In section 3(1) delete the definitions of:
-allegation
-investigation
-serious misconduct
-(2) In section 3(1) insert in alphabetical order:
-allegation means —
-(a)a report made to the Commission under section 25; or
-(b)a proposition initiated by the Commission under section 26(1); or
-(c)a matter notified to the Commission under section 28(2); or
-(d)an allegation referred to the Commission under section 45M(d); or
-(e)a received matter; or
-(f)a report made to the Public Sector Commissioner under section 45E(1); or
-(g)a proposition initiated by the Public Sector Commissioner under section 45F(1); or
-(h)a matter notified to the Public Sector Commissioner under section 45H(2);
-employee of the Police Department includes an Aboriginal police liaison officer, a police auxiliary officer and a police cadet under the Police Act 1892;
-investigation means an investigation by the Commission, whether alone or in cooperation with another body, under Part 3 (including a preliminary investigation conducted under section 32(2));
-minor misconduct means misconduct of a kind described in section 4(d) that is not any of the following —
-(a)police misconduct;
-(b)conduct engaged in by a member of a House of Parliament or the Clerk of a House of Parliament;
-(c)conduct engaged in by a member of a local government or council of a local government;
-officer of the Public Sector Commissioner means a public service officer employed in, or seconded to, the office of the Public Sector Commissioner;
-Police Department means the agency (as defined in the Public Sector Management Act 1994 section 3(1)) principally assisting the Minister responsible for the administration of the Police Act 1892 in the administration of that Act;
-police misconduct means —
-(a)misconduct by —
-(i)a member of the Police Force; or
-(ii)an employee of the Police Department; or
-(iii)a person seconded to perform functions and services for, or duties in the service of, the Police Department;
-or
-(b)reviewable police action;
-police service means the organisation consisting of —
-(a)members of the Police Force; and
-(b)employees of the Police Department; and
-(c)persons seconded to perform functions and services for, or duties in the service of, the Police Department;
-serious misconduct means —
-(a)misconduct of a kind described in section 4(a), (b) or (c) by a public officer; or
-(b)police misconduct;
-(3) In section 3(1) in the definition of appropriate authority after “does not include” insert:
-the Commission,
-(4) In section 3(1) in the definition of reviewable police action delete “a police officer or an employee of the Police Service of the Public Service,” and insert:
-a member of the Police Force, an employee of the Police Department or a person seconded to perform functions and services for, or duties in the service of, the Police Department
-(5) In section 3(2) delete “exclusively by a House of Parliament, unless that House so resolves.” and insert:
-by a House of Parliament.
-7.Section 4 amended
-Delete section 4(d)(v).
-8.Section 7B amended
-Delete section 7B(3) and insert:
-(3) The Act’s purpose in relation to misconduct is to be achieved by conferring functions on the Commission and on the Public Sector Commissioner.
-(4) The Commission is to be able to investigate cases of serious misconduct.
-(5) The Public Sector Commissioner is to be able to investigate cases of minor misconduct.
-(6) The Commission and the Public Sector Commissioner are to help public authorities to prevent, and to identify and deal effectively and appropriately with, misconduct.
-9.Section 17 deleted
-Delete section 17.
-10.Section 18 amended
-(1) In section 18(1):
-(a) delete “(the misconduct function)” and insert:
-(the serious misconduct function)
-(b) delete “misconduct” and insert:
-serious misconduct
-(2) After section 18(3) insert:
-(4) As an aspect of the serious misconduct function, the Commission may help public authorities to prevent serious misconduct by doing the following —
-(a) analysing the information it gathers in performing the serious misconduct function, including the intelligence gathered in support of investigations into serious misconduct;
-(b) analysing systems used within public authorities to prevent serious misconduct;
-(c) providing information to, consulting with, and making recommendations to, public authorities about ways to prevent serious misconduct;
-(d) generally increasing the capacity of public authorities to prevent serious misconduct by providing advice and training to those authorities and, if asked, to other entities;
-(e) reporting on ways to prevent and combat serious misconduct.
-(3) In section 18 amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-s. 18(2) | misconduct function (1st occurrence) | serious misconduct function
-s. 18(2)(a), (b), (c) and (e) | misconduct (each occurrence) | serious misconduct
-s. 18(2)(h) | misconduct function | serious misconduct function
-Note:The heading to amended section 18 is to read:
-Serious misconduct function
-11.Section 21A amended
-After section 21A(2) insert:
-(3) This section does not limit the powers of the Commission under section 22 or 24 in relation to police misconduct.
-12.Sections 21AA, 21AB and 21AC inserted
-At the end of Part 2 Division 2 insert:
-21AA.Prevention and education function: police misconduct
-(1) It is a function of the Commission (the prevention and education function) to help to prevent police misconduct.
-(2) Without limiting the ways the Commission may perform the prevention and education function, the Commission performs that function by doing the following —
-(a) analysing the information it gathers in performing functions under this Act and any other Act, including the intelligence gathered in support of its police misconduct and organised crime functions;
-(b) analysing systems used within the Police Department to prevent police misconduct;
-(c) using information it gathers from any source in support of the prevention and education function;
-(d) providing information to, consulting with, and making recommendations to, the Police Department;
-(e) providing information relevant to the prevention and education function to members of the police service and to the general community;
-(f) ensuring that in performing all of its functions it has regard to the prevention and education function;
-(g) generally increasing the capacity of the Police Department to prevent and combat police misconduct by providing advice and training to the Police Department;
-(h) reporting on ways to prevent and combat police misconduct.
-(3) In performing the prevention and education function, the Commission may consult, cooperate, and exchange information, with the Public Sector Commissioner.
-21AB.Capacity development function: public authorities
-(1) If, in the course of performing its other functions, the Commission identifies a special need to increase the capacity of public authorities generally, or the capacity of a particular public authority, to prevent or combat misconduct, the Commission has the function (the capacity development function) of assisting, in cooperation with the Public Sector Commissioner, those public authorities or that public authority to increase that capacity.
-(2) Without limiting the ways the Commission may perform the capacity development function, the Commission performs that function by doing the following —
-(a) analysing intelligence it gathers in support of its serious misconduct and organised crime functions;
-(b) using information it gathers from any source in support of the capacity development function.
-(3) In performing the capacity development function, the Commission may consult, cooperate, and exchange information, with the Public Sector Commissioner.
-(4) This section does not limit the obligation of the Commission under section 45A(4) to support the Public Sector Commissioner.
-21AC.Information about allegations received or initiated by Public Sector Commissioner
-For the purpose of assisting the Commission in performing the serious misconduct function and the capacity development function, the Public Sector Commissioner will, if requested by the Commission to do so, provide the Commission with details about any allegation, or class of allegations, of minor misconduct received or initiated by the Public Sector Commissioner under section 45D(1).
-13.Part 3 heading replaced
-Delete the heading to Part 3 and insert:
-Part 3 — Serious misconduct: role of Commission
-14.Section 23 deleted
-Delete section 23.
-15.Sections 27A and 27B deleted
-Delete sections 27A and 27B.
-16.Section 32 amended
-Delete section 32(3) and insert:
-(3) The Commission may consult about an allegation or other matter relating to serious misconduct the persons and bodies that the Commission considers desirable and practicable to consult.
-17.Section 34 amended
-(1) In section 34(1) delete the passage that begins with “regard, when” and ends with “misconduct —” and insert:
-regard when deciding whether or not to make a decision under section 33(1)(a) or (b), the Commission is to have regard to the nature of the serious misconduct that —
-(2) In section 34(2):
-(a) delete the passage that begins with “When” and ends with “include” and insert:
-Without limiting the matters to which the Commission may have regard when deciding whether or not to make a decision under section 33(1)(c), the Commission is to have regard to
-(b) in paragraph (b) delete “whether, in the opinion of the Commission, serious misconduct —” and insert:
-the nature of the serious misconduct that —
-18.Section 37 amended
-In section 37(1) after “decides” insert:
-under section 33(1)(c)
-19.Section 38 amended
-In section 38(1) after “Auditor General” (1st occurrence) insert:
-under section 33(1)(c)
-20.Section 42 amended
-(1) In section 42(2):
-(a) after “direct” insert:
-the Public Sector Commissioner or
-(b) in paragraph (b) before “an officer” insert:
-an officer of the Public Sector Commissioner or
-(2) Delete section 42(3) and insert:
-(3) The Public Sector Commissioner or appropriate authority must comply with the direction.
-(3) In section 42(4) after “absolves” insert:
-the Public Sector Commissioner and his or her officers or
-(4) Delete section 42(5).
-(5) In section 42(6) before “appropriate authority.” insert:
-Public Sector Commissioner or
-(6) In section 42(7):
-(a) before “appropriate authority” (each occurrence) insert:
-Public Sector Commissioner or
-(b) delete “direction given to it under subsection (2).” and insert:
-direction.
-Note:The heading to amended section 42 is to read:
-Commission may direct Public Sector Commissioner or appropriate authority not to take action
-21.Part 4A inserted
-After section 44 insert:
-Part 4A — Misconduct: role of Public Sector Commissioner
-Division 1 — Functions in relation to misconduct
-45A.Prevention and education function
-(1) It is a function of the Public Sector Commissioner (the prevention and education function) to help to prevent misconduct.
-(2) Without limiting the ways the Public Sector Commissioner may perform the prevention and education function, the Public Sector Commissioner performs that function by doing the following —
-(a) analysing the information the Public Sector Commissioner gathers in performing functions under this Act and any other Act, including the information gathered in support of inquiries conducted under Division 2;
-(b) analysing systems used within public authorities to prevent misconduct;
-(c) providing information to, consulting with, and making recommendations to, public authorities;
-(d) providing information relevant to the prevention and education function to the general community;
-(e) ensuring that, in performing functions under this Act and any other Act, the Public Sector Commissioner has regard to the prevention and education function;
-(f) generally increasing the capacity of public authorities to prevent and combat misconduct by providing advice and training to those authorities and, if asked, to other entities;
-(g) reporting on ways to prevent and combat misconduct.
-(3) In performing the prevention and education function, the Public Sector Commissioner may consult, cooperate, and exchange information, with the Commission.
-(4) In performing the prevention and education function, the Public Sector Commissioner is to be supported by the Commission, other independent agencies and appropriate authorities.
-45B.Minor misconduct function
-(1) It is a function of the Public Sector Commissioner (the minor misconduct function) to ensure that an allegation about, or information or matter involving, minor misconduct is dealt with in an appropriate way.
-(2) Without limiting the ways the Public Sector Commissioner may perform the minor misconduct function or any other function under this Act or any other Act, the Public Sector Commissioner performs the minor misconduct function by doing the following —
-(a) receiving and initiating allegations of minor misconduct;
-(b) considering whether action is needed in relation to allegations and matters related to minor misconduct;
-(c) inquiring into or taking other action in relation to allegations and matters related to minor misconduct if it is appropriate to do so, or referring the allegations or matters to other independent agencies or appropriate authorities so that they can take action themselves or in cooperation with the Public Sector Commissioner;
-(d) monitoring the way in which other independent agencies and appropriate authorities take action in relation to allegations and matters that are referred to them by the Public Sector Commissioner;
-(e) whether or not there has been an allegation of minor misconduct, inquiring into whether minor misconduct —
-(i) has or may have occurred; or
-(ii) is or may be occurring; or
-(iii) is or may be about to occur; or
-(iv) is likely to occur;
-(f) making recommendations and furnishing reports on the outcome of inquiries;
-(g) consulting, cooperating, and exchanging information, with the following —
-(i) the Commission;
-(ii) other independent agencies;
-(iii) appropriate authorities;
-(iv) the principal officers of notifying authorities;
-(v) any person or body whose functions under a law of the Commonwealth, another State or a Territory correspond with those of the Public Sector Commissioner under this Part or under the Public Sector Management Act 1994;
-(vi) any person, or any authority or body of this State, the Commonwealth, another State or a Territory, declared by the Minister to be a person, authority or body to which this paragraph applies;
-(h) giving information to another independent agency or other authority that may provide evidence of the commission of a criminal offence under a written law or may otherwise be relevant to the functions of the agency or other authority.
-(3) When the Public Sector Commissioner is deciding whether further action for the purposes of this Act in relation to an allegation is warranted, the matters to which the Public Sector Commissioner may have regard include the following —
-(a) the seriousness of the conduct or involvement to which the allegation relates;
-(b) whether or not the allegation is frivolous or vexatious or is made in good faith;
-(c) whether or not the conduct or involvement to which the allegation relates is or has been the subject of appropriate investigatory or other action otherwise than for the purposes of this Act;
-(d) whether or not, in all the circumstances, the carrying out of further action for the purposes of this Act in relation to the allegation is justified or is in the public interest.
-Division 2 — Minor misconduct
-Subdivision 1 — Assessments and opinions
-45C.Assessments and opinions as to occurrence of minor misconduct
-(1) Whether or not there has been an allegation of minor misconduct, the Public Sector Commissioner may make assessments and form opinions as to whether minor misconduct —
-(a) has or may have occurred; or
-(b) is or may be occurring; or
-(c) is or may be about to occur; or
-(d) is likely to occur.
-(2) The Public Sector Commissioner may make the assessments and form the opinions on the basis of all or any of the following —
-(a) consultations with the Commission, another independent agency or an appropriate authority;
-(b) inquiries and other action, whether conducted or taken in cooperation with the Commission, another independent agency or an appropriate authority or otherwise;
-(c) inquiries or other action conducted or taken by the Commission, another independent agency or an appropriate authority.
-(3) If the Public Sector Commissioner makes an assessment or forms an opinion under subsection (1) concerning minor misconduct, the Public Sector Commissioner may —
-(a) conduct a review in respect of part or all of the functions, management or operations of one or more notifying authorities in connection with the minor misconduct; or
-(b) advise the Commission, another independent agency or an appropriate authority of the assessment or opinion and provide the Commission, agency or authority with the information on which the assessment or opinion is based.
-(4) For the purpose of subsection (3)(a), the Public Sector Management Act 1994 Part 3A Division 3 Subdivision 1 (except sections 24B(2) to (5) and 24G) applies (with the necessary changes) as if —
-(a) a reference to a review were a reference to a review under subsection (3)(a); and
-(b) a reference to a public sector body, or to the employing authority of a public sector body, were a reference to a notifying authority; and
-(c) a reference to an employee were a reference to a public officer.
-Subdivision 2 — Allegations
-45D.Allegations of minor misconduct
-(1) Subject to section 45G, the Public Sector Commissioner —
-(a) is to receive allegations of minor misconduct by way of —
-(i) reports under section 45E(1); and
-(ii) matters notified under section 45H(2);
-and
-(b) may initiate allegations of minor misconduct by way of propositions under section 45F(1).
-(2) Before assessing an allegation received by the Public Sector Commissioner, the Public Sector Commissioner may seek further information about the allegation from the person making the allegation in such form as the Public Sector Commissioner thinks fit.
-45E.Any person may report minor misconduct
-(1) A public officer or any other person may report to the Public Sector Commissioner any matter which that person suspects on reasonable grounds concerns or may concern minor misconduct that —
-(a) has or may have occurred; or
-(b) is or may be occurring; or
-(c) is or may be about to occur; or
-(d) is likely to occur.
-(2) A report may be made to the Public Sector Commissioner orally or in writing.
-(3) This section has effect despite —
-(a) the provisions of any other Act, whether enacted before or after this Act; and
-(b) any obligation the person has to maintain confidentiality about a matter to which the allegation relates.
-(4) A person who exercises the power conferred by subsection (1) does not commit an offence by reason of that exercise.
-(5) A person who makes a report under this section and who does so —
-(a) knowing that the content of the report is false or misleading in a material respect; or
-(b) maliciously or recklessly,
-is guilty of a crime.
-Penalty: a fine of $60 000 and imprisonment for 3 years.
-Summary conviction penalty: a fine of $10 000.
-(6) A charge cannot be brought against a person under subsection (5) other than by the Director of Public Prosecutions.
-(7) A publication by —
-(a) a complainant; or
-(b) a person who has relied upon information derived from a complainant; or
-(c) a person who has no reliable source of knowledge (which is to be presumed in the absence of proof to the contrary),
-that an allegation has been made about a person to the Public Sector Commissioner carries with it an inference that there were reasonable grounds for making the complaint.
-45F.Public Sector Commissioner may make proposition about minor misconduct
-(1) The Public Sector Commissioner may make a proposition that minor misconduct —
-(a) has or may have occurred; or
-(b) is or may be occurring; or
-(c) is or may be about to occur; or
-(d) is likely to occur.
-(2) A proposition under subsection (1) may be based on the Public Sector Commissioner’s own experience and knowledge and made independently of any allegation referred to in section 45E(1).
-45G.Allegation about Commission, Public Sector Commissioner, Parliamentary Inspector or judicial officer not to be received or initiated
-The Public Sector Commissioner must not receive or initiate an allegation about a person in the person’s capacity as any of the following —
-(a) the holder of the office of Commissioner, whether the person is appointed under section 9 or 14;
-(b) an officer of the Commission;
-(c) the Public Sector Commissioner;
-(d) the Parliamentary Inspector;
-(e) an officer of the Parliamentary Inspector;
-(f) the holder of a judicial office as defined in The Criminal Code section 121.
-Subdivision 3 — Duty to notify
-45H.Certain officers obliged to notify minor misconduct
-(1) This section applies to the following persons —
-(a) the Parliamentary Commissioner;
-(b) the Inspector of Custodial Services;
-(c) the principal officer of a notifying authority;
-(d) an officer who constitutes a notifying authority.
-(2) Subject to subsections (4) and (5), a person to whom this section applies must notify the Public Sector Commissioner in writing of any matter —
-(a) which that person suspects on reasonable grounds concerns or may concern minor misconduct; and
-(b) which, in the case of a person referred to in subsection (1)(c) or (d), is of relevance or concern to that person in his or her official capacity.
-(3) The Public Sector Commissioner must be notified under subsection (2) as soon as is reasonably practicable after the person becomes aware of the matter.
-(4) A person to whom this section applies is not required to notify the Public Sector Commissioner of —
-(a) a matter that —
-(i) is being dealt with by that person, or the notifying authority of which that person is the principal officer, under section 45M(b); or
-(ii) is referred to that person, or the notifying authority of which that person is the principal officer, by the Public Sector Commissioner under section 45M(c);
-or
-(b) a matter that —
-(i) is referred to that person, or a notifying authority of which that person is the principal officer, by the Parliamentary Inspector under section 196(3)(f); and
-(ii) relates to conduct by the holder of the office of Commissioner, whether the person is appointed under section 9 or 14, or by an officer of the Commission or an officer of the Parliamentary Inspector.
-(5) The Director of Public Prosecutions is not required to notify the Public Sector Commissioner of a matter if the matter does not relate to conduct by —
-(a) the Deputy Director as defined in the Director of Public Prosecutions Act 1991 section 3; or
-(b) a member of staff appointed or made available for the performance of the functions of the Director of Public Prosecutions under the Director of Public Prosecutions Act 1991 section 30.
-45I.Duty to notify under s. 45H is paramount
-(1) The duty of a person to make a notification under section 45H must be complied with despite —
-(a) the provisions of any other Act, whether enacted before or after this Act; or
-(b) any obligation the person has to maintain confidentiality about a matter to which the allegation relates,
-and the person does not commit an offence by reason of that compliance.
-(2) Subsection (1) does not affect an obligation under another written law to notify minor misconduct.
-45J.Public Sector Commissioner may issue guidelines about notifications
-(1) The Public Sector Commissioner may issue guidelines about —
-(a) what matters are or are not required to be notified to the Public Sector Commissioner under section 45H; and
-(b) what reports are required with respect to such matters.
-(2) If the Public Sector Commissioner issues guidelines to the effect that a matter is not required to be notified under section 45H but is required to be reported on in accordance with the guidelines, a person to whom the guidelines apply is not required to notify the Public Sector Commissioner of the matter under section 45H but is required to report on the matter in accordance with the guidelines.
-(3) The Public Sector Commissioner may deal with a matter reported on under subsection (2) as if it were a matter notified under section 45H.
-45K.Public Sector Commissioner may report breach of duty to report or notify
-If a person to whom section 45H or 45J applies does not comply with the duty to make a notification or report under that section, the Public Sector Commissioner may report that non-compliance —
-(a) in the case of the principal officer referred to in paragraph (c) of the definition of principal officer of a notifying authority — to the CEO as defined in the Court Security and Custodial Services Act 1999 section 3 or the chief executive officer as defined in the Prisons Act 1981 section 3(1), as is relevant to the case; and
-(b) in any other case — to a person or body that has the power to take disciplinary action against the person to whom section 45H or 45J applies.
-Subdivision 4 — Assessments, opinions and investigations
-45L.Dealing with allegations
-(1) The Public Sector Commissioner is to deal with an allegation by —
-(a) assessing the allegation and forming an opinion under section 45C; and
-(b) making a decision under section 45M that the Public Sector Commissioner considers appropriate in the circumstances.
-(2) For the purposes of subsection (1), the Public Sector Commissioner may conduct a preliminary inquiry into the allegation.
-(3) The Public Sector Commissioner may consult about an allegation or other matter relating to minor misconduct the persons and bodies that the Public Sector Commissioner considers desirable and practicable to consult.
-45M.Decision on further action on allegation
-Having made an assessment of an allegation, the Public Sector Commissioner may decide to do any of the following —
-(a) inquire into or take other action in relation to the allegation without the involvement of the Commission, another independent agency or an appropriate authority;
-(b) inquire into or take other action in relation to the allegation in cooperation with the Commission, another independent agency or an appropriate authority;
-(c) refer the allegation to another independent agency or an appropriate authority for action in accordance with sections 45R(1) and 45S(1), and those sections apply accordingly;
-(d) refer the allegation to the Commission in accordance with section 45T(1), and that section applies accordingly;
-(e) take no action.
-45N.Matters to be considered in deciding who should take action
-(1) Without limiting the matters to which the Public Sector Commissioner may have regard when deciding whether or not to make a decision under section 45M(a) or (b), the Public Sector Commissioner is to have regard to the nature of the minor misconduct that —
-(a) has or may have occurred; or
-(b) is or may be occurring; or
-(c) is or may be about to occur; or
-(d) is likely to occur.
-(2) Without limiting the matters to which the Public Sector Commissioner may have regard when deciding whether or not to make a decision under section 45M(c), the Public Sector Commissioner is to have regard to the following —
-(a) the seniority of any public officer to whom the allegation relates;
-(b) the nature of the minor misconduct that —
-(i) has or may have occurred; or
-(ii) is or may be occurring; or
-(iii) is or may be about to occur; or
-(iv) is likely to occur;
-(c) the need for any inquiry into the allegation to be conducted independently of a public authority with which any public officer to whom the allegation relates is connected by membership or employment or in any other respect.
-45O.Informant to be notified of decision not to take action
-If —
-(a) a person makes an allegation under section 45E(1) or 45H(2); or
-(b) a complaint under the Parliamentary Commissioner Act 1971 is referred to the Public Sector Commissioner,
-and the Public Sector Commissioner decides to take no action, the Public Sector Commissioner must notify the person who made the allegation or complaint of the decision.
-45P.Person to whom allegation relates can be advised of outcome of inquiry
-The Public Sector Commissioner may inform a person to whom an allegation relates as to the outcome of any inquiry conducted by the Public Sector Commissioner or an appropriate authority in relation to the allegation if —
-(a) the person requests the information; or
-(b) the Public Sector Commissioner considers that giving the information to the person is in the person’s best interests,
-and the Public Sector Commissioner considers that giving the information to the person is in the public interest.
-45Q.Action by Public Sector Commissioner: special inquiry or investigation
-(1) If the Public Sector Commissioner decides to take action under section 45M(a) in relation to an allegation, the Public Sector Commissioner may —
-(a) arrange for the holding of a special inquiry into the allegation; or
-(b) investigate the allegation.
-(2) For the purposes of subsection (1), the Public Sector Management Act 1994 Part 3A Division 3 Subdivisions 2 and 3 (except sections 24H(2) to (6) and 24K(2)) apply (with the necessary changes) as if —
-(a) a reference to a special inquiry or investigation were a reference to a special inquiry or investigation under subsection (1); and
-(b) a reference to a public sector body were a reference to a notifying authority.
-(3) This section does not limit the action that the Public Sector Commissioner may take under section 45M(a).
-45R.Referring allegation to independent agency or appropriate authority under s. 45M(c)
-(1) If the Public Sector Commissioner decides under section 45M(c) to refer an allegation to another independent agency or an appropriate authority, the Public Sector Commissioner is to refer the allegation as soon as is practicable after making that decision.
-(2) The allegation may be accompanied by a report, which may include —
-(a) a recommendation under section 45X; and
-(b) such other recommendations as the Public Sector Commissioner thinks fit in respect of the action to be taken; and
-(c) such information as the Public Sector Commissioner considers would assist the agency or authority to take the action.
-(3) If the allegation is referred to an appropriate authority, the report may also include a recommendation as to the period within which the action should be taken.
-45S.Referring allegations to Parliamentary Commissioner or Auditor General under s. 45M(c)
-(1) The Public Sector Commissioner is not to refer an allegation to the Parliamentary Commissioner or the Auditor General under section 45M(c) without having first consulted the Parliamentary Commissioner or the Auditor General.
-(2) If an allegation is referred to the Parliamentary Commissioner, the allegation is to be treated by the Parliamentary Commissioner as if it were a complaint duly made under the Parliamentary Commissioner Act 1971 section 17 and that Act applies to and in relation to the allegation accordingly.
-(3) If an allegation is referred to the Auditor General, the Auditor General may investigate the allegation and the Auditor General Act 2006 applies to the investigation as if it were an investigation under section 18(2) of that Act.
-(4) The Auditor General Act 2006 does not prevent the Auditor General or any person to whom section 46(2) of that Act applies from disclosing to —
-(a) the Public Sector Commissioner; or
-(b) a person who is authorised by the Public Sector Commissioner for the purposes of this paragraph,
-information obtained in the course of an investigation under subsection (3).
-45T.Referring allegations to Corruption and Crime Commission under s. 45M(d)
-(1) The Public Sector Commissioner may refer an allegation to the Commission under section 45M(d) if the Public Sector Commissioner considers —
-(a) that serious misconduct —
-(i) has or may have occurred; or
-(ii) is or may be occurring; or
-(iii) is or may be about to occur; or
-(iv) is likely to occur;
-or
-(b) that it is otherwise appropriate to refer the allegation.
-(2) The Commission may deal with an allegation referred under section 45M(d) as if it were a matter notified under section 28(2).
-(3) This section does not affect the obligation of the Public Sector Commissioner under section 28(2) to notify the Commission of suspected serious misconduct of relevance or concern to the Public Sector Commissioner in his or her official capacity.
-45U.Public Sector Commissioner may decide to take other action
-(1) Despite having made a decision to act under section 45M(a), (b) or (c), the Public Sector Commissioner may at any time decide to act under another of those paragraphs.
-(2) The Public Sector Commissioner may make the decision whether or not he or she has acted under the first-mentioned decision.
-(3) The Public Sector Commissioner is not to reconsider action taken in respect of a matter reported under section 45J(2) except on new information.
-(4) If, as a result of the first-mentioned decision, an allegation was referred to the Parliamentary Commissioner, subsection (1) does not apply unless the action to be taken by the Public Sector Commissioner has been requested or agreed to by the Parliamentary Commissioner.
-45V.Monitoring of appropriate authorities
-(1) If —
-(a) an appropriate authority takes action in relation to an allegation in cooperation with the Public Sector Commissioner; or
-(b) an allegation is referred to an appropriate authority by the Public Sector Commissioner,
-unless the Public Sector Commissioner advises the appropriate authority in writing to the contrary, the appropriate authority must prepare a detailed report of the action the appropriate authority has taken in relation to the allegation.
-(2) The report must be given to the Public Sector Commissioner in writing as soon as practicable after the action is taken.
-(3) The Public Sector Commissioner may, by written notice, direct the appropriate authority to give the Public Sector Commissioner a detailed report on —
-(a) action the appropriate authority has taken in relation to the allegation; and
-(b) if action recommended by the Public Sector Commissioner under section 45R(2)(a) or (b) has not been taken, or any action has not been taken within the time recommended under section 45R(3) — the reasons for not so taking the action.
-(4) The appropriate authority must comply with a direction given to it under subsection (3).
-(5) A report referred to in this section must include details of any disciplinary action taken as a consequence of the recommendations.
-45W.Review of appropriate authority’s handling of minor misconduct
-(1) The Public Sector Commissioner may review the way an appropriate authority has dealt with minor misconduct, in relation to either a particular allegation, complaint, information or matter involving minor misconduct or in relation to a class of allegation, complaint, information or matter involving minor misconduct.
-(2) The appropriate authority must give the Public Sector Commissioner all necessary help to undertake a review under subsection (1).
-Subdivision 5 — Recommendations
-45X.Recommendations by Public Sector Commissioner
-(1) The Public Sector Commissioner may —
-(a) make recommendations as to whether consideration should or should not be given to the taking of disciplinary action against particular persons; and
-(b) make recommendations for the taking of other action that the Public Sector Commissioner considers should be taken in relation to the subject matter of his or her assessments or opinions or the results of his or her inquiries.
-(2) The Public Sector Commissioner may make the recommendations on the basis of —
-(a) his or her assessments, consultations and opinions; and
-(b) inquiries and other action, whether conducted or taken in cooperation with the Commission, another independent agency or an appropriate authority or otherwise; and
-(c) inquiries or other action conducted or taken by the Commission, another independent agency or an appropriate authority.
-(3) Without limiting subsection (1), the Public Sector Commissioner may —
-(a) recommend that further inquiry or investigation into any matter be carried out —
-(i) by an Inquiry Panel appointed under the Local Government Act 1995; or
-(ii) in such other manner as the Commissioner may recommend;
-and
-(b) recommend the terms of reference of any such inquiry or investigation.
-(4) The Public Sector Commissioner may give the recommendations to another independent agency or an appropriate authority.
-(5) A recommendation made by the Public Sector Commissioner under this section is not, and is not to be taken as, a finding that a particular person has engaged in conduct that constitutes or provides grounds on which that person’s tenure of office, contract of employment, or agreement for the provision of services is or may be terminated.
-45Y.Other action for minor misconduct not affected
-This Part does not limit the action that may lawfully be taken to discipline or otherwise deal with a person for minor misconduct.
-Division 3 — Reporting
-45ZA.Report to Parliament on inquiry or other action
-(1) The Public Sector Commissioner may at any time prepare a report on any matter that has been the subject of an inquiry or other action in respect of minor misconduct, irrespective of whether the inquiry was conducted or other action was taken by —
-(a) the Public Sector Commissioner alone; or
-(b) the Public Sector Commissioner in cooperation with the Commission, another independent agency or an appropriate authority; or
-(c) an appropriate authority alone.
-(2) The Public Sector Commissioner may include in the report —
-(a) statements as to any of the Public Sector Commissioner’s assessments, opinions and recommendations; and
-(b) statements as to any of the Public Sector Commissioner’s reasons for the assessments, opinions and recommendations.
-(3) The Public Sector Management Act 1994 section 22F applies in relation to a report prepared under this section as if it were a report prepared under section 22E of that Act.
-45ZB.Report to Parliament on further action by appropriate authority
-(1) After considering a report given to the Public Sector Commissioner by an appropriate authority under section 45V(2) or (4), the Public Sector Commissioner may prepare a report on the report of the authority.
-(2) During or after the taking of action by an appropriate authority in respect of an allegation referred to the authority under section 45R(1), the Public Sector Commissioner may prepare a report if the Public Sector Commissioner considers that the action is not being, or has not been, taken properly, efficiently or expeditiously.
-(3) The Public Sector Commissioner may include in a report prepared under this section —
-(a) statements as to any of the Public Sector Commissioner’s assessments, opinions and recommendations; and
-(b) statements as to any of the Public Sector Commissioner’s reasons for the assessments, opinions and recommendations.
-(4) The Public Sector Management Act 1994 section 22F applies in relation to a report prepared under this section as if it were a report prepared under section 22E of that Act.
-45ZC.Person subject to adverse report: entitlement of
-Before reporting any matters adverse to a person or body in a report under section 45ZA or 45ZB, the Public Sector Commissioner must give the person or body a reasonable opportunity to make representations to the Public Sector Commissioner concerning those matters.
-45ZD.Annual report under PSMA s. 22D: matters to be included
-(1) The Public Sector Commissioner must include in the report prepared under the Public Sector Management Act 1994 section 22D in respect of any year a report of the Public Sector Commissioner’s general activities under this Part during that year.
-(2) The report is to include the following —
-(a) a description of the types of allegations received or initiated by the Public Sector Commissioner;
-(b) a description of the types of inquiries conducted by the Public Sector Commissioner, whether alone or in cooperation with another person or body;
-(c) an evaluation of the response of appropriate authorities to recommendations made by the Public Sector Commissioner;
-(d) a description of the general nature and extent of any information furnished under this Part by the Public Sector Commissioner to other independent agencies;
-(e) a description of the general nature and extent of referrals to the Commission under section 45M(d);
-(f) a description of the extent to which inquiries conducted by the Public Sector Commissioner, whether alone or in cooperation with another person or body, have resulted in disciplinary action against public officers;
-(g) a description of the Public Sector Commissioner’s activities during that year in relation to the prevention and education function;
-(h) any recommendations for changes in the laws of the State that the Public Sector Commissioner considers should be made as a result of the performance of functions under this Part.
-(3) This section does not require the Public Sector Commissioner to include operational information in a report prepared under subsection (1).
-22.Section 91 amended
-In section 91(2):
-(a) in paragraph (d) delete “the general nature” and insert:
-a description of the general nature
-(b) in paragraph (d) delete “authorities; and” and insert:
-agencies; and
-(c) in paragraph (e) delete “the extent” and insert:
-a description of the extent
-23.Section 119 amended
-In section 119 in the definition of controlled operation paragraph (a) delete “of misconduct; and” and insert:
-for the purposes of an investigation; and
-24.Section 166 amended
-In section 166 delete “the Commission,” and insert:
-the Commission or the Public Sector Commissioner,
-25.Section 175 amended
-In section 175 delete “the Commission or Parliamentary Inspector in the performance of its, his or her functions.” and insert:
-the Commission, the Public Sector Commissioner or the Parliamentary Inspector in the performance of functions under this Act.
-26.Section 217A inserted
-At the beginning of Part 14 insert:
-217A.Findings and opinions of Commission or Public Sector Commissioner
-(1) This section applies in relation to a finding made, or an opinion formed or expressed, by the Commission or the Public Sector Commissioner in the course of performing a function under this Act.
-(2) The Commission or the Public Sector Commissioner must not publish or report a finding or opinion that a particular person is guilty of or has committed, is committing or is about to commit a criminal offence or disciplinary offence.
-(3) A finding or opinion that misconduct has occurred, is occurring or is about to occur is not, and is not to be taken as, a finding or opinion that a particular person is guilty of or has committed, is committing or is about to commit a criminal offence or disciplinary offence.
-27.Section 219 replaced
-Delete section 219 and insert:
-219.Protection from liability
-(1) In this section —
-official means —
-(a)the Commission; or
-(b)any person acting on behalf of, or with the authority of, the Commission; or
-(c)the Public Sector Commissioner; or
-(d)any person acting on behalf of, or with the authority of, the Public Sector Commissioner; or
-(e)the Parliamentary Inspector; or
-(f)any person acting on behalf of, or with the authority of, the Parliamentary Inspector.
-(2) No action or claim for damages lies against an official for or on account of anything done or omitted, or ordered or authorised to be done or omitted —
-(a) under, or apparently under, this Act; or
-(b) for the purpose, or apparently for the purpose, of giving effect to this Act.
-(3) Subsection (2) does not apply if it is proved that the thing was done or omitted, or ordered or authorised to be done or omitted, maliciously and without reasonable and probable cause.
-28.Section 220 amended
-(1) In section 220(2) delete “Commission” (each occurrence) and insert:
-Commission, the Public Sector Commissioner
-(2) In section 220(3)(a) after “Commission” insert:
-or the Public Sector Commissioner
-(3) In section 220(4):
-(a) after “Commission” (1st occurrence) insert:
-or the Public Sector Commissioner
-(b) delete “Commission,” and insert:
-Commission or the Public Sector Commissioner,
-29.Section 222 amended
-In section 222 delete “Commission” and insert:
-Commission, the Public Sector Commissioner
-30.Part 15 replaced
-Delete Part 15 and insert:
-Part 15 — Transitional matters
-228.Transitional provision for Corruption and Crime Commission Amendment (Misconduct) Act 2014
-An allegation of misconduct that was received or initiated by the Commission before the day on which the Corruption and Crime Commission Amendment (Misconduct) Act 2014 Part 2 comes into operation must continue to be dealt with under this Act as if that Part had not been enacted.
-31.Various references to “misconduct” amended
-In the provisions listed in the Table delete “misconduct” (each occurrence) and insert:
-serious misconduct
-Table
-s. 22(1) | s. 24(1)(a) and (b)
-s. 25(1) | s. 26(1)
-s. 28(2)(a) | s. 41(1)
-s. 84(1) | s. 100(2)
-s. 148(3)
-Note:The headings to the amended sections listed in the Table are to read as set out in the Table.
-Table
-Amended section | Section heading
-s. 22 | Assessments and opinions as to occurrence of serious misconduct
-s. 24 | Allegations of serious misconduct
-s. 25 | Any person may report serious misconduct
-s. 26 | Commission may make proposition about serious misconduct
-s. 28 | Certain officers obliged to notify serious misconduct
-s. 41 | Commission may review how appropriate authority has dealt with serious misconduct
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -669,6 +144,7 @@ authorised person101(1), 148(8), 161(1)
 authority63, 119
 bipartisan support3(1)
 cancel108(3)
+capacity development function21AB(1)
 chief officer102
 civilian participant119
 Commission3(1)
@@ -685,6 +161,7 @@ Director of Public Prosecutions3(1)
 disciplinary action3(1)
 disciplinary offence3(1)
 disclose3(1)
+employee of the Police Department 3(1)
 examination3(1)
 exceptional powers45
 exceptional powers finding45, 46(2)
@@ -705,8 +182,9 @@ lawyer3(1)
 legal experience190(1)
 legal practitioner3(1)
 medical practitioner54(1)
+minor misconduct3(1)
+minor misconduct function45B(1)
 misconduct3(1)
-misconduct function18(1)
 misconduct matter42(1)
 nominating committee3(1)
 notation167(1)
@@ -715,6 +193,7 @@ notifying authority3(1)
 officer102
 officer of the Commission3(1)
 officer of the Parliamentary Inspector3(1)
+officer of the Public Sector Commissioner3(1)
 officer participant119
 officers196(1)
 official219(1)
@@ -728,11 +207,12 @@ Parliamentary Commissioner3(1)
 Parliamentary Inspector3(1)
 participant119
 perform3(1)
+Police Department3(1)
+police misconduct3(1)
 Police Royal Commission3(1)
-presiding officer27A(4)
-prevention and education function17(1)
+police service3(1)
+prevention and education function21AA(1), 45A(1)
 principal officer of a notifying authority3(1)
-Privileges Committee27B(1)
 produce152(1), 153(1), 208(1), 209(1)
 public authority3(1)
 public officer3(1)
@@ -751,6 +231,7 @@ reviewable police action3(1)
 Schedule 1 offence3(1)
 section 5 offence3(1)
 serious misconduct3(1)
+serious misconduct function18(1)
 Standing Committee3(1)
 State Records Commission3(1)
 subcontractor3(1)

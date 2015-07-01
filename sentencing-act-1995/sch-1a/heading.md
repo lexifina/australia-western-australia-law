@@ -79,7 +79,7 @@
  | s. 563A(1) | Property laundering
 2. | Bush Fires Act 1954
  | s. 32(2) | Offences of lighting or attempting to light fire likely to injure
-3. | Corruption and Crime Commission Act 2003
+3. | Corruption, Crime and Misconduct Act 2003
  | s. 168 | Giving false testimony
  | s. 169 | Bribery of witness
  | s. 172 | Preventing witness from attending
@@ -104,7 +104,7 @@
 7. | Road Traffic Act 1974
  | s. 59 | Dangerous driving causing death, injury etc.
  | s. 59A | Dangerous driving causing bodily harm — if the offender is liable to imprisonment for 7 years
-[Part 1 inserted by No. 49 of 2012 s. 181(4); amended by No. 11 of 2014 s. 8(1).]
+[Part 1 inserted by No. 49 of 2012 s. 181(4); amended by No. 11 of 2014 s. 8(1); No. 35 of 2014 s. 39.]
 ## Part 2 — Relevant simple offences
 [Heading inserted by No. 49 of 2012 s. 181(4).]
  | Enactment | Description of offence
@@ -124,7 +124,7 @@
  | s. 51(1), (2) and (2a) | Failure to comply with requirement or condition of bail undertaking
  | s. 60 | Failure of accused or surety to notify change of residential address
  | s. 62 | Giving false information for bail purposes
-3. | Corruption and Crime Commission Act 2003
+3. | Corruption, Crime and Misconduct Act 2003
  | s. 165 | Obstructing the Commission, the Parliamentary Inspector or their officers
  | s. 171 | Destroying evidence
 4. | Criminal Organisations Control Act 2012
@@ -166,4 +166,4 @@
  | s. 7(1) and (2) | Offences relating to controlled weapons
  | s. 8A(2) and (3) | Selling or supplying controlled weapons to children
  | s. 8(1) | Carrying or possessing article as weapon
-[Part 2 inserted by No. 49 of 2012 s. 181(4).]
+[Part 2 inserted by No. 49 of 2012 s. 181(4); amended by No. 35 of 2014 s. 39.]

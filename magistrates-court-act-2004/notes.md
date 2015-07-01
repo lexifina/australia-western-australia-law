@@ -18,25 +18,10 @@ Acts Amendment (Bankruptcy) Act 2009 s. 55 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 32 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 30 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 13 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 13 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Courts Legislation Amendment and Repeal Act 2004.
 The Courts Legislation Amendment and Repeal Act 2004 contains transitional provisions about enforcing judgments given before the Civil Judgments Enforcement Act 2004 commenced, including judgment of Local Courts.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) had not come into operation. It reads as follows:
-39.References in other Acts to “Corruption and Crime Commission Act 2003” amended
-(2) In the provisions listed in the Table:
-(a) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
-Corruption, Crime and Misconduct Act 2003
-(b) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
-Corruption, Crime and Misconduct Act 2003
-(c) delete “Corruption and Crime Commission Act 2003” and insert:
-Corruption, Crime and Misconduct Act 2003
-Table
-Magistrates Court Act 2004 | s. 33(7)(d)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

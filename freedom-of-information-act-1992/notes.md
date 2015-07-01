@@ -31,7 +31,7 @@ Acts Amendment (Equality of Status) Act 2003 Pt. 23 | 28 of 2003 | 22 May 2003 |
 Public Interest Disclosure Act 2003 s. 28 | 29 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
 Corruption and Crime Commission Act 2003 s. 62 | 48 of 2003 | 3 Jul 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Sentencing Legislation Amendment and Repeal Act 2003 s. 64 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
-Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
+Economic Regulation Authority Act 2003 Sch. 2 Div. 7 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Inspector of Custodial Services Act 2003 s. 56(1) | 75 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Corruption and Crime Commission Amendment and Repeal Act 2003 s. 74(2) | 78 of 2003 | 22 Dec 2003 | 7 Jul 2004 (see s. 2 and Gazette 6 Jul 2004 p. 2697)
 Reprint 4: The Freedom of Information Act 1992 as at 10 Sep 2004 (includes amendments listed above)
@@ -47,13 +47,13 @@ Bank of Western Australia Amendment Act 2012 Pt. 3 | 14 of 2012 | 3 Jul 2012 | 1
 Community Protection (Offender Reporting) Amendment Act (No. 2) 2012 Pt. 3 | 54 of 2012 | 3 Dec 2012 | 23 Feb 2013 (see s. 2(b) and Gazette 22 Feb 2013 p. 1045)
 Reprint 6: The Freedom of Information Act 1992 as at 1 Feb 2013 (includes amendments listed above except those in the Community Protection (Offender Reporting) Amendment Act (No. 2) 2012 Pt. 3)
 Electoral Amendment Act 2014 Pt. 3 | 14 of 2014 | 2 Jul 2014 | 3 Jul 2014 (see s. 2(b))
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 33 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Declared Places (Mentally Impaired Accused) Act 2015 s. 86 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 Sch. 1 it. 4 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 33 | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The State Government Insurance Corporation ceased to exist on 1 July 2012.
@@ -76,11 +76,6 @@ Act | Provision
 .......................... | ........
 Freedom of Information Act 1992 | s. 62(2)
 ...................... | ........
-On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 33 had not come into operation. It reads as follows:
-33.Freedom of Information Act 1992 amended
-(1) This section amends the Freedom of Information Act 1992.
-(2) In Schedule 2 after “The Corruption and Crime Commission.” insert:
-The Public Sector Commissioner, but only in relation to documents originating with or received by the Public Sector Commissioner in relation to his or her functions under the Corruption, Crime and Misconduct Act 2003.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -50,10 +50,7 @@ Reprint 5: The Salaries and Allowances Act 1975 as at 2 Jul 2010 (includes amend
 Public Sector Reform Act 2010 s. 83 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Local Government Amendment Act 2012 Pt. 4 (s. 38-41) | 2 of 2012 | 4 Apr 2012 | s. 38, 40(a), (c) and 41 to the extent that it inserts s. 10(4)(c)(i): 21 Apr 2012 (see s. 2(b) and Gazette 20 Apr 2012 p. 1695); s. 39, 40(b) and 41 to the extent that it inserts s. 10(4)(c)(ii): 9 Feb 2013 (see s. 2(b) and Gazette 8 Feb 2013 p. 863)
 Workforce Reform Act 2014 Pt. 4 | 8 of 2014 | 20 May 2014 | 1 Jul 2014 (see s. 2(b) and Gazette 27 Jun 2014 p. 2301)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 The provision in this Act repealing the Parliamentary Salaries and Allowances Act 1967 was repealed by the Parliamentary Superannuation Legislation Amendment Act 2000 s. 22.
 Now see the Interpretation Act 1984 s. 52.
 The Salaries and Allowances Amendment Act 1995 s. 6 reads as follows:
@@ -63,17 +60,6 @@ The Salaries and Allowances Amendment Act 1995 s. 6 reads as follows:
 (a) if the offence was a Schedule 1 offence committed by the person while holding public office, on the day when the person is convicted;
 (b) in any other case, on the day when the person was sentenced.
 Now known as the Salaries and Allowances Act 1975; short title changed (see note under s. 1).
-On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) had not come into operation. It reads as follows:
-39.References in other Acts to “Corruption and Crime Commission Act 2003” amended
-(2) In the provisions listed in the Table:
-(a) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
-Corruption, Crime and Misconduct Act 2003
-(b) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
-Corruption, Crime and Misconduct Act 2003
-(c) delete “Corruption and Crime Commission Act 2003” and insert:
-Corruption, Crime and Misconduct Act 2003
-Table
-Salaries and Allowances Act 1975 | s. 7(1)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

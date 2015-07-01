@@ -19,12 +19,12 @@ Criminal Law Amendment (Out-of-Control Gatherings) Act 2012 Pt. 3 | 56 of 2012 |
 Reprint 2: The Criminal Investigation Act 2006 as at 5 Apr 2013 (includes amendments listed above except those in the Criminal Organisations Contol Act 2012 except those in the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 14)
 Criminal Investigation (Identifying People) Amendment Act 2013 s. 29 | 22 of 2013 | 12 Nov 2013 | 13 Nov 2013 (see s. 2(c))
 Criminal Investigation Amendment Act 2014 | 31 of 2014 | 3 Dec 2014 | s. 1 and 2: 3 Dec 2014 (see s. 2(a)); Act other than s. 1 and 2: 28 Jan 2015 (see s. 2(b) and Gazette 27 Jan 2015 p. 435)
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 6 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 8 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
-Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 8 had not come into operation. It reads as follows:
 Part 4 — Amendments to other Acts
@@ -37,18 +37,6 @@ This Subdivision amends the Criminal Investigation Act 2006.
 (ii) under the Mental Health Act 2014 section 157;
 (2) Delete section 142(8)(c)(ii) and insert:
 (ii) the Mental Health Act 2014 section 157; or
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) had not come into operation. It reads as follows:
-39.References in other Acts to “Corruption and Crime Commission Act 2003” amended
-(2) In the provisions listed in the Table:
-(a) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
-Corruption, Crime and Misconduct Act 2003
-(b) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
-Corruption, Crime and Misconduct Act 2003
-(c) delete “Corruption and Crime Commission Act 2003” and insert:
-Corruption, Crime and Misconduct Act 2003
-Table
-Criminal Investigation Act 2006 | s. 115 def. of CCC, CCC officer and Parliamentary Inspector
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -2,15 +2,15 @@ Notes
 This is a compilation of the Cross-border Justice Act 2008 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Cross-border Justice Act 2008 | 7 of 2008 | 31 Mar 2008 | s. 1 and 2: 31 Mar 2008 (see s.2(a)); Act other than s. 1, 2, 67(b), 68(2)(b) and (e), 108, 110, 117, 119, 137 and Pt. 15 Div. 1: 1 Nov 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991); s. 67(b), 68(2)(b) and (e), 108, 110, 117, 119, 137 and Pt. 15 Div. 1: 1 Dec 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991)
+Cross-border Justice Act 2008 | 7 of 2008 | 31 Mar 2008 | s. 1 and 2: 31 Mar 2008 (see s. 2(a)); Act other than s. 1, 2, 67(b), 68(2)(b) and (e), 108, 110, 117, 119, 137 and Pt. 15 Div. 1: 1 Nov 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991); s. 67(b), 68(2)(b) and (e), 108, 110, 117, 119, 137 and Pt. 15 Div. 1: 1 Dec 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991)
 Police Amendment Act 2009 s. 17 | 42 of 2009 | 3 Dec 2009 | 13 Mar 2010 (see s. 2(b) and Gazette 12 Mar 2010 p. 941)
 Cross-border Justice Amendment Act 2010 | 1 of 2010 | 9 Mar 2010 | s. 1 and 2: 9 Mar 2010 (see s. 2(a)); Act other than s. 1 and 2: 9 Mar 2010 (see s. 2(b)(ii))
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 16 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 9 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
-Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
 Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 9 had not come into operation. It reads as follows:
 Part 4 — Amendments to other Acts
@@ -21,17 +21,6 @@ This Subdivision amends the Cross-border Justice Act 2008.
 54.Section 95 amended
 In section 95 in the definition of State authorised hospital delete “Mental Health Act 1996 section 3;” and insert:
 Mental Health Act 2014 section 4;
-On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39(2) had not come into operation. It reads as follows:
-39.References in other Acts to “Corruption and Crime Commission Act 2003” amended
-(2) In the provisions listed in the Table:
-(a) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
-Corruption, Crime and Misconduct Act 2003
-(b) delete “Corruption and Crime Commission Act 2003” (each occurrence) and insert:
-Corruption, Crime and Misconduct Act 2003
-(c) delete “Corruption and Crime Commission Act 2003” and insert:
-Corruption, Crime and Misconduct Act 2003
-Table
-Cross-border Justice Act 2008 | s. 103(1) def. of judicial body par. (b)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

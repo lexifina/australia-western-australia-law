@@ -9,18 +9,11 @@ Reprint 1: The Inspector of Custodial Services Act 2003 as at 20 Apr 2007 (inclu
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 78 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Acts Amendment (Bankruptcy) Act 2009 s. 46 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Inspector of Custodial Services Amendment Act 2011 | 52 of 2011 | 11 Nov 2011 | s. 1 and 2: 11 Nov 2011 (see s. 2(a)); Act other than s. 1 and 2: 18 Jan 2012 (see s. 2(b) and Gazette 17 Jan 2012 p. 463)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 34 | 35 of 2014 | 9 Dec 2014 | To be proclaimed (see s. 2(b))
+Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 34 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 The provision in this Act amending these Acts and regulations has been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.
 Under the Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 3 Div. 3 Subdiv. 2 s. 55, in any written law or document, a reference to the Anti-Corruption Commission Act 1988 may, if the context permits, be taken as a reference to the Corruption and Crime Commission Act 2003.
-On the date as at which this compilation was prepared, the Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 34 had not come into operation. It reads as follows:
-34.Inspector of Custodial Services Act 2003 amended
-(1) This section amends the Inspector of Custodial Services Act 2003.
-(2) Delete section 26(1)(c) and insert:
-(c) an investigation, inquiry or other action taken by the Corruption and Crime Commission or Public Sector Commissioner under the Corruption, Crime and Misconduct Act 2003; or
+Footnote no longer applicable.
 The provision in this Act repealing the Prisons Act 1981 Part XA was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
