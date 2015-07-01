@@ -23,7 +23,8 @@ Conservation and Land Management Amendment Regulations (No. 3) 2013 | 27 Sep 201
 Conservation and Land Management Amendment Regulations (No. 2) 2014 | 19 Sep 2014 p. 3330-7 | r. 1 and 2: 19 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Sep 2014 (see r. 2(b))
 Conservation and Land Management Amendment Regulations 2014 | 8 Jan 2015 p. 135-6 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Conservation and Land Management Amendment Regulations 2015 | 24 Mar 2015 p. 1033-44 | r. 1 and 2: 24 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Mar 2015 (see r. 2(b))
-The Swan River Trust Act 1988 was repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006.
+Conservation and Land Management Amendment Regulations (No. 2) 2015 | 19 Jun 2015 p. 2095-6 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Footnote no longer applicable.
 Deleted by the Conservation Legislation Amendment Act 2011 s. 10.
 Repealed by these regulations.
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
