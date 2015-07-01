@@ -34,7 +34,7 @@ Petroleum Amendment Act 2007 Pt. 2 | 35 of 2007 | 21 Dec 2007 | Div. 1: 19 Jan 2
 Reprint 5: The Petroleum and Geothermal Energy Resources Act 1967 as at 2 May 2008 (includes amendments listed above except those in the Petroleum Legislation Amendment and Repeal Act 2005 Pt. 2 and the Petroleum Amendment Act 2007 Pt. 2 Div. 2) (correction in Gazette 23 Jun 2009 p. 2470)
 Revenue Laws Amendment Act (No. 2) 2008 s. 34 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 Reprint 6: The Petroleum and Geothermal Energy Resources Act 1967 as at 22 Oct 2010 (includes amendments listed above)
-Petroleum and Energy Legislation Amendment Act 2010 Pt. 2 other than s. 51, 57, 58(b) (to the extent that it inserts s. 153(2)(lc)), 61 (to the extent that it inserts Sch. 2 cl. 3) | 42 of 2010 | 28 Oct 2010 | 25 May 2011 (see s. 2(b) and Gazette 24 May 2011 p. 1892)
+Petroleum and Energy Legislation Amendment Act 2010 Pt. 2 | 42 of 2010 | 28 Oct 2010 | Pt. 2 other than s. 51, 57, 58(b) (to the extent that it inserts s. 153(2)(lc)), 61 (to the extent that it inserts Sch. 2 cl. 3): 25 May 2011 (see s. 2(b) and Gazette 24 May 2011 p. 1892); s. 51, 57, 58(b) (to the extent that it inserts s. 153(2)(lc)), 61 (to the extent that it inserts Sch. 2 cl. 3): 1 Jul 2015 (see s. 2(b) and Gazette 30 Jun 2015 p. 2321)
 Reprint 7: The Petroleum and Geothermal Energy Resources Act 1967 as at 5 Aug 2011 (includes amendments listed above)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 3 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
@@ -44,7 +44,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 Sch. 2 Div. 7 | 60 of 1999 | 10 Jan 2000 | s. 7.3 operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Petroleum and Energy Legislation Amendment Act 2010 s. 51, 57, 58(b) (to the extent that it inserts s. 153(2)(lc)), 61 (to the extent that it inserts Sch. 2 cl. 3) | 42 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
 The Petroleum Act 1936 was repealed by this Act, s. 3.
 Repealed by the Interpretation Act 1984.
 The amendment in the Petroleum Safety Act 1999 s. 92 is not included as it was deleted by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51 before it came into operation.
@@ -181,125 +180,6 @@ After section 116(1) the following subsection is inserted —
 “
 (1a)Where the giving of a consent under subsection (1) is a Part 2 act, a Part 3 act or Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the operation of that subsection is subject to section 2.6, 3.5 or 4.3, as the case may be, of that Act.
 ”.
-On the date as at which this compilation was prepared, the Petroleum and Energy Legislation Amendment Act 2010 s. 51, 57, 58(b) (to the extent that it inserts s. 153(2)(lc)), 61 (to the extent that it inserts Sch. 2 cl. 3) had not come into operation. They read as follows:
-Part 2 — Petroleum and Geothermal Energy Resources Act 1967 amended
-51.Section 112 deleted
-Delete section 112.
-57.Part IVA inserted
-Before Part IV insert:
-Part IVA — Release of information
-Division 1 — Preliminary
-150A.Terms used
-In this Part, unless the contrary intention appears —
-applicable document means —
-(a)an application made after the commencement to the Minister under this Act; or
-(b)a document accompanying an application so made; or
-(c)a report, return or other document relating to a block given after the commencement to the Minister under —
-(i)this Act; or
-(ii)regulations made for the purposes of section 116A;
-commencement means the commencement of the Petroleum and Energy Legislation Amendment Act 2010 section 57;
-documentary information means information contained in an applicable document;
-Minister of another jurisdiction means a Minister of the Commonwealth, a Minister of another State or a Minister of the Northern Territory;
-mining sample means —
-(a)a core or cutting from, or a sample of, the seabed or subsoil; or
-(b)a sample of petroleum recovered; or
-(c)a sample of fluid recovered (other than fluid petroleum),
-that has been given at any time, whether before or after the commencement, to the Minister, and includes a portion of such a core, cutting or sample.
-Division 2 — Protection of confidentiality of information and samples
-Subdivision 1 — Information and samples obtained by the Minister
-150B.Protection of confidentiality of information obtained by the Minister
-(1) This section restricts what the Minister may do with documentary information.
-(2) The Minister shall not —
-(a) make the information publicly known; or
-(b) make the information available to a person (other than another Minister or a Minister of another jurisdiction),
-unless the Minister does so —
-(c) in accordance with regulations made for the purposes of this paragraph; or
-(d) for the purposes of the administration of this Act.
-150C.Protection of confidentiality of samples obtained by the Minister
-(1) This section restricts what the Minister may do with a mining sample.
-(2) The Minister shall not —
-(a) make publicly known any details of the sample; or
-(b) permit a person (other than another Minister or a Minister of another jurisdiction) to inspect the sample,
-unless the Minister does so —
-(c) in accordance with regulations made for the purposes of this paragraph; or
-(d) for the purposes of the administration of this Act.
-150D.Information or samples obtained by Minister can be made available to certain persons
-The Minister may make documentary information or a mining sample available to another Minister or a Minister of another jurisdiction.
-Subdivision 2 — Information and samples obtained by another Minister
-150E.Protection of confidentiality of information obtained by another Minister
-(1) This section restricts what a Minister may do with documentary information made available to that Minister under section 150D or 150G.
-(2) The Minister shall not —
-(a) make the information publicly known; or
-(b) make the information available to a person (other than another Minister or a Minister of another jurisdiction),
-unless the Minister does so —
-(c) in accordance with regulations made for the purposes of this paragraph; or
-(d) for the purposes of the administration of this Act.
-150F.Protection of confidentiality of samples obtained by another Minister
-(1) This section restricts what a Minister may do with a mining sample made available to that Minister under section 150D or 150G.
-(2) The Minister shall not —
-(a) make publicly known any details of the sample; or
-(b) permit a person (other than another Minister or a Minister of another jurisdiction) to inspect the sample,
-unless the Minister does so —
-(c) in accordance with regulations made for the purposes of this paragraph; or
-(d) for the purposes of the administration of this Act.
-150G.Information or samples obtained by another Minister can be made available to certain persons
-A Minister to whom documentary information or a mining sample is made available under section 150D or this section may make the information or sample available to another Minister or a Minister of another jurisdiction.
-Subdivision 3 — Miscellaneous
-150H.Fees
-(1) This section applies to regulations made for the purposes of any of the following —
-(a) section 150B(2)(c);
-(b) section 150C(2)(c);
-(c) section 150E(2)(c);
-(d) section 150F(2)(c).
-(2) The regulations may make provision for fees relating to —
-(a) making information available to a person; or
-(b) permitting a person to inspect a sample.
-58.Section 153 amended
-In section 153(2):
-(b) after paragraph (k) insert:
-(lc) the responsibilities of a permittee, holder of a drilling reservation, lessee, licensee or holder of a special prospecting authority or access authority as to authorising, or obtaining authorisation for, the release of documentary information as defined in section 150A;
-61.Schedule 2 inserted
-At the end of the Act insert:
-Schedule 2 — Further transitional provisions
-[s. 154]
-Division 1 — Provisions for Petroleum and Energy Legislation Amendment Act 2010
-3.Section 112 (release of information)
-(1) This clause has effect despite the deletion of section 112 by section 51 of the amending Act.
-(2) Section 112 as in force immediately before it was deleted continues to apply in respect of information given to the Minister before the commencement of section 51 of the amending Act.
-(3) Regulation 3 as in force immediately before the deletion of section 112 —
-(a) continues in force for the purposes of that section as it continues to apply under subclause (1); and
-(b) also separately continues in force on and after the commencement of section 57 of the amending Act as if it had been made for the purposes of Part IVB.
-(4) Regulation 3 as continued in force under subclause (3)(a) or (b) may, for the purposes of its application under subclause (3)(a) or (b), be amended or deleted by regulations.
-relinquished area5(1)
-reservoir16(2)(a)
-responsible personSch. 1 cl. 36(2) and 60(1)
-reviewing authoritySch. 1 cl. 21(5) and 64(10)
-royalty period5(1)
-royalty value5(1)
-safety zone112A(1)
-secondary licence5(1)
-special prospecting authority5(1)
-State26
-structure5(1)
-supervisorSch. 1 cl. 42(1)(a)
-this ScheduleSch. 1 cl. 81(4)
-tight gas52(4A)
-title69J, 127A(5)
-transitional matter154(1)
-transitional regulations154(1)
-TribunalSch. 1 cl. 3
-unit development69(1)
-unused area48CA(1)(b) and (2)(b)
-variation agreement128
-vessel5(1)
-water113(2)
-well5(1)
-wholly cancelled5(1)
-wholly determined5(1)
-workSch. 1 cl. 3
-work group employerSch. 1 cl. 3
-workforce representativeSch. 1 cl. 3
-workplaceSch. 1 cl. 3
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
