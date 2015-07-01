@@ -30,6 +30,7 @@ Associations Incorporation Amendment Regulations (No. 2) 2013 | 27 Jun 2013 p. 2
 Associations Incorporation Amendment Regulations 2013 | 20 Aug 2013 p. 3821 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Reprint 5: The Associations Incorporation Regulations 1988 as at 17 Jan 2014 (includes amendments listed above)
 Associations Incorporation Amendment Regulations 2015 | 14 Apr 2015 p. 1323 | r. 1 and 2: 14 Apr 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Apr 2015 (see r. 2(b))
+Associations Incorporation Amendment Regulations (No. 2) 2015 | 23 Jun 2015 p. 2159-60 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 The Consumer Affairs Act 1971, under which the Commissioner for Consumer Protection existed, ceased to apply on 1 January 2011 after the Fair Trading Act 2010 Part 10 came into force except for certain limited purposes. Under the Fair Trading Act 2010 s. 6 “Commissioner” means the person for the time being designated as the Commissioner under s. 55 of that Act.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection was called the Department of Commerce.
 Defined terms
