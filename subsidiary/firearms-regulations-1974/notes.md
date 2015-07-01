@@ -87,39 +87,9 @@ Reprint 8: The Firearms Regulations 1974 as at 16 Sep 2011 (includes amendments 
 Firearms Amendment Regulations 2012 | 15 Jun 2012 p. 2535-6 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Firearms Amendment Regulations 2013 | 28 Jun 2013 p. 2787-8 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Firearms Amendment Regulations 2014 | 17 Jun 2014 p. 1990-2 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Firearms Amendment Regulations (No. 2) 2015 r. 3 and 4 | 2 Jun 2015 p. 1947-8 | 1 Jul 2015 (see r. 2(b))
+Firearms Amendment Regulations (No. 2) 2015 | 2 Jun 2015 p. 1947-8 | r. 1 and 2: 2 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 The Firearms Amendment Regulations 1996 r. 9(2) reads as follows:
 (2) The notation “PR” endorsed on a licence or permit before the commencement of this regulation is to be regarded as if it were the notation “HR”.
-On the date as at which this compilation was prepared, the Firearms Amendment Regulations (No. 2) 2015 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Firearms Regulations 1974.
-4.Schedule 1A amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 1A it. 1(a) | 252.00 | 255.00
-Sch. 1A it. 1(b) | 52.00 | 53.00
-Sch. 1A it. 1(c) | 173.00 | 177.00
-Sch. 1A it. 2(a) | 324.00 | 329.00
-Sch. 1A it. 2(b) | 58.00 | 59.00
-Sch. 1A it. 2(c) | 183.00 | 187.00
-Sch. 1A it. 3(a) | 413.00 | 421.00
-Sch. 1A it. 3(b) | 119.00 | 122.00
-Sch. 1A it. 3(c) | 183.00 | 187.00
-Sch. 1A it. 4(a) | 425.00 | 434.00
-Sch. 1A it. 4(b) | 109.00 | 111.00
-Sch. 1A it. 5(a) | 425.00 | 434.00
-Sch. 1A it. 5(b) | 85.00 | 87.00
-Sch. 1A it. 6(a) | 425.00 | 434.00
-Sch. 1A it. 6(b) | 85.00 | 87.00
-Sch. 1A it. 7(a) | 296.00 | 302.00
-Sch. 1A it. 7(b) | 89.00 | 91.00
-Sch. 1A it. 8(a) | 296.00 | 302.00
-Sch. 1A it. 8(b) | 60.00 | 61.00
-Sch. 1A it. 9 | 57.00 | 58.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
