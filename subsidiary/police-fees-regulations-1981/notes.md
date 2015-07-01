@@ -39,32 +39,7 @@ Police (Fees) Amendment Regulations 2012 | 15 Jun 2012 p. 2538-40 | r. 1 and 2: 
 Police (Fees) Amendment Regulations 2013 | 28 Jun 2013 p. 2778-9 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Police (Fees) Amendment Regulations 2014 | 17 Jun 2014 p. 1996-7 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Police (Fees) Amendment Regulations (No. 2) 2014 | 8 Jan 2015 p. 153-4 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Police (Fees) Amendment Regulations 2015 r. 3 and 4 | 2 Jun 2015 p. 1942-3 | 1 Jul 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, the Police (Fees) Amendment Regulations 2015 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Police (Fees) Regulations 1981.
-4.Schedule 1 amended
-(1) In Schedule 1 delete item 3 and insert:
-3. | Authorised copy of a photograph ................................... | $11.90
-(2) In Schedule 1 delete item 6 and insert:
-6. | Copy of a traffic offence detection photograph (e.g. traffic speed camera, red light camera) provided by police .............................................................................. | $11.90
-(3) In Schedule 1 amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 1 it. 1 | $24.00 | $24.60
-Sch. 1 it. 2 | $101.70 | $104.30
-Sch. 1 it. 4(a) | $14.70 | $14.80
-Sch. 1 it. 4(b) | $41.70 | $41.90
-Sch. 1 it. 4(c) | $42.20 | $42.40
-Sch. 1 it. 5 | $62.40 | $61.80
-Sch. 1 it. 7(a) | $40.40 | $41.40
-Sch. 1 it. 7(b) | $40.40 | $41.40
-Sch. 1 it. 8 | $40.40 | $41.40
-Sch. 1 it. 9(a) | $94.60 | $97.00
-Sch. 1 it. 9(b) | $94.60 | $97.00
+Police (Fees) Amendment Regulations 2015 | 2 Jun 2015 p. 1942-3 | r. 1 and 2: 2 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
