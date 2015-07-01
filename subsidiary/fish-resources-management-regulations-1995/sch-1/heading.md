@@ -5,64 +5,62 @@
 Table
 Fees | $
 1.Application for an exemption under section 7(4) —
-(a)to the Minister, for any purpose (as provided by section 7(2) of the Act) | 2 335.00
-(b)to the CEO, for the purposes of scientific research (as provided by section 7(3)(a)), or for educational and community awareness programmes (as provided by section 7(3)(g)) | 305.00
-(c)to the CEO, for one of the purposes provided by section 7(3)(b), (c), (d), (e), or (f) | 1 231.00
-2.Copy of entry on, or extract from, the register (reg. 114(2)(a)) | 33.00
-3.Access to the register in electronic form (reg. 114(2)(b)) | 33.00
-4.Application for replacement authorisation (reg. 129) | 20.00
-[Part 1 inserted in Gazette 9 Jun 2009 p. 1912; amended in Gazette 6 May 2011 p. 1609-10.]
+(a)to the Minister, for any purpose (as provided by section 7(2) of the Act) | 2 396.00
+(b)to the CEO, for the purposes of scientific research (as provided by section 7(3)(a)), or for educational and community awareness programmes (as provided by section 7(3)(g)) | 313.00
+(c)to the CEO, for one of the purposes provided by section 7(3)(b), (c), (d), (e), or (f) | 1 263.00
+2.Copy of entry on, or extract from, the register (reg. 114(2)(a)) | 34.00
+3.Access to the register in electronic form (reg. 114(2)(b)) | 34.00
+4.Application for replacement authorisation (reg. 129) | 21.00
+[Part 1 inserted in Gazette 9 Jun 2009 p. 1912; amended in Gazette 6 May 2011 p. 1609-10; 30 Jun 2015 p. 2333.]
 ## Part 2 — Application fees
 [reg. 135]
 [Heading inserted in Gazette 9 Jun 2009 p. 1913.]
 Fee | $
-1.Fishing boat licence, grant or renewal (reg. 118) | 87.00
-For transfer | 477.00
-For variation | 477.00
-2.Carrier boat licence, grant or renewal (reg. 120) | 87.00
-For transfer | 477.00
-For variation | 477.00
-3.Commercial fishing licence, grant or renewal (reg. 122) | 87.00
-[4.deleted]
-5.Rock lobster pot licence, grant or renewal (reg. 126) | 87.00
-For transfer | 327.00
-6.Application for authority to use another boat (reg. 132) | 477.00
-7.Grant of permit under section 80 of the Act | 465.00
-8.Fish processor’s licence under section 83 of the Act | 465.00
-For renewal | 91.00
-For transfer | 544.00
-For variation (other than as set out in item 9) | 544.00
-9.Variation of fish processor’s licence to change place at which fish may be processed under the licence | 544.00
-10.Aquaculture lease, grant or renewal (reg. 67) | 2 461.00
+1.Fishing boat licence, grant or renewal (reg. 118) | 89.00
+For transfer | 450.00
+For variation | 450.00
+2.Carrier boat licence, grant or renewal (reg. 120) | 89.00
+For transfer | 489.00
+For variation | 489.00
+3.Commercial fishing licence, grant or renewal (reg. 122) | 89.00
+[4, 5.deleted]
+6.Application for authority to use another boat (reg. 132) | 450.00
+7.Grant of permit under section 80 of the Act | 477.00
+8.Fish processor’s licence under section 83 of the Act | 415.00
+For renewal | 93.00
+For transfer | 415.00
+For variation (other than as set out in item 9) | 415.00
+9.Variation of fish processor’s licence to change place at which fish may be processed under the licence | 415.00
+10.Aquaculture lease, grant or renewal (reg. 67) | 2 525.00
 11.Aquaculture licence under section 92 of the Act —
-In respect of freehold land | 171.00
-In respect of non-freehold land | 771.00
-For renewal | 87.00
-For transfer (freehold land) | 171.00
-For transfer (non-freehold land) | 567.00
-For variation (freehold land) | 171.00
-For variation (non-freehold land) | 567.00
-12.Authorisation under section 66 of the Act | 329.00
-For renewal | 87.00
-For transfer | 477.00
-For variation | 477.00
-13.Exclusive licence, grant or renewal (reg. 166) | 771.00
-14.Authority to take fish for scientific purposes (reg. 178) | 87.00
-15.Authority to bring in non-endemic fish (reg. 176) | 153.00
-16.Temporary transfer of part entitlements under section 141 of the Act | 153.00
-17.Register — notation under section 127 of the Act | 153.00
-Register — variation under section 131 of the Act | 153.00
-Register — removal of record under section 131 of the Act | 153.00
+In respect of freehold land | 175.00
+In respect of non-freehold land | 791.00
+For renewal | 89.00
+For transfer (freehold land) | 175.00
+For transfer (non-freehold land) | 582.00
+For variation (freehold land) | 175.00
+For variation (non-freehold land) | 582.00
+12.Authorisation under section 66 of the Act | 338.00
+For renewal | 89.00
+For transfer | 450.00
+For variation | 450.00
+13.Exclusive licence, grant or renewal (reg. 166) | 791.00
+14.Authority to take fish for scientific purposes (reg. 178) | 89.00
+15.Authority to bring in non-endemic fish (reg. 176) | 157.00
+16.Temporary transfer of part entitlements under section 141 of the Act | 157.00
+17.Register — notation under section 127 of the Act | 157.00
+Register — variation under section 131 of the Act | 157.00
+Register — removal of record under section 131 of the Act | 157.00
 18.Authority to take or handle fish for genetic or chemical extraction or analysis (reg. 179) | 771.00
-19.Restricted fishing tour operator’s licence (reg. 128J) | 69.00
-For renewal | 74.00
-For transfer | 414.00
-For variation | 414.00
-20.Fishing tour operator’s licence (reg. 128J) | 69.00
-For renewal | 74.00
-For transfer | 414.00
-For variation | 414.00
-[Part 2 inserted in Gazette 9 Jun 2009 p. 1913-14; amended in Gazette 12 Feb 2010 p. 586; 6 May 2011 p. 1610-11; 30 May 2014 p. 1736.]
+19.Restricted fishing tour operator’s licence (reg. 128J) | 71.00
+For renewal | 76.00
+For transfer | 228.00
+For variation | 228.00
+20.Fishing tour operator’s licence (reg. 128J) | 71.00
+For renewal | 76.00
+For transfer | 228.00
+For variation | 228.00
+[Part 2 inserted in Gazette 9 Jun 2009 p. 1913-14; amended in Gazette 12 Feb 2010 p. 586; 6 May 2011 p. 1610-11; 30 May 2014 p. 1736; 30 Jun 2015 p. 2334-5.]
 ## Part 3 — Fees for the grant or renewal of authorisations
 [reg. 137]
 [Heading inserted in Gazette 9 Jun 2009 p. 1915.]
@@ -90,7 +88,7 @@ Fee | $
 (5)Cockburn Sound (Fish Net) Managed Fishery, per licence | 4 289.00
 (6)Cockburn Sound (Line and Pot) Managed Fishery, per licence | 1 165.00
 (7)Cockburn Sound (Mussel) Managed Fishery, per licence | 122.00
-(8)Esperance Rock Lobster Managed Fishery, per pot | 104.67
+[(8)deleted]
 (9)Exmouth Gulf Prawn Managed Fishery, per licence | 27 031.00
 (10)Gascoyne Demersal Scalefish Managed Fishery, per unit | 31.55
 (11)Kimberley Gillnet and Barramundi Managed Fishery, per licence | 4 905.00
@@ -145,7 +143,7 @@ Fee | $
 (a)for zone A units, per unit | 10.40
 (b)for zone B units, per unit | 17.45
 (c)for zone C units, per unit | 16.24
-(34)Windy Harbour-Augusta Rock Lobster Managed Fishery, per pot | 2.53
+[(34)deleted]
 [4.deleted]
 5.Fishing tour operator’s licence (r. 128J(1)) —
 (a)if the nominated maximum number of passengers participating in a fishing tour conducted under the licence is —
@@ -171,4 +169,4 @@ Fee | $
 (d)fishing for all freshwater fish (other than crustaceans) in waters south of 29° south latitude above the tidal influence including all lakes, dams, rivers and their tributaries | 40.00
 (e)fishing by means of a fishing net | 40.00
 9.Recreational (boat) fishing licence (r. 124C) | 30.00
-[Part 3 inserted in Gazette 9 Jun 2009 p. 1915-20; amended in Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5; 27 Aug 2010 p. 4106; 10 Sep 2010 p. 4347; 2 Dec 2010 p. 6031-4; 6 May 2011 p. 1611-12; 24 Aug 2011 p. 3406-8; 9 Sep 2011 p. 3683; 17 Oct 2012 p. 4979-80; 19 Oct 2012 p. 5017-20; 2 Nov 2012 p. 5277-8; 18 Dec 2012 p. 6593; 4 Sep 2013 p. 4180-3; 15 Nov 2013 p. 5238; 19 Nov 2013 p. 5283; 30 May 2014 p. 1731-2 and 1736; 12 Aug 2014 p. 2903-7; 31 Oct 2014 p. 4199-200; 4 Nov 2014 p. 4203.]
+[Part 3 inserted in Gazette 9 Jun 2009 p. 1915-20; amended in Gazette 10 Sep 2009 p. 3539; 12 Feb 2010 p. 586-7; 28 May 2010 p. 2384-5; 27 Aug 2010 p. 4106; 10 Sep 2010 p. 4347; 2 Dec 2010 p. 6031-4; 6 May 2011 p. 1611-12; 24 Aug 2011 p. 3406-8; 9 Sep 2011 p. 3683; 17 Oct 2012 p. 4979-80; 19 Oct 2012 p. 5017-20; 2 Nov 2012 p. 5277-8; 18 Dec 2012 p. 6593; 4 Sep 2013 p. 4180-3; 15 Nov 2013 p. 5238; 19 Nov 2013 p. 5283; 30 May 2014 p. 1731-2 and 1736; 12 Aug 2014 p. 2903-7; 31 Oct 2014 p. 4199-200; 4 Nov 2014 p. 4203; 30 Jun 2015 p. 2332.]
