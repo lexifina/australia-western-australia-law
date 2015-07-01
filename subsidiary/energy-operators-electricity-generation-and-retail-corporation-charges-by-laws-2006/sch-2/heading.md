@@ -1,37 +1,37 @@
 ## Schedule 2 — Unmetered supply
 [bl. 4(2) and (3)]
-[Heading inserted in Gazette 30 Aug 2013 p. 4099-100.]
+[Heading inserted in Gazette 26 Jun 2015 p. 2245.]
 ## Division 1 — Street lighting
-[Heading inserted in Gazette 22 Aug 2014 p. 3031.]
+[Heading inserted in Gazette 26 Jun 2015 p. 2245.]
 Item | Wattage | Type | Midnight Switch-off (Obsolescent) Cents per day | 1.15 a.m. Switch-off Cents per day | Dawn Switch-off Cents per day
 Street lighting on current offer and for existing services
-Z.01 | 50 | Mercury Vapour | 32.8071 | 33.5096 | 36.0480
-Z.02 | 80 | Mercury Vapour | 38.6341 | 39.4963 | 43.4555
-Z.03 | 125 | Mercury Vapour | 47.7819 | 49.3305 | 54.9181
-Z.04 | 140 | Low Pressure Sodium | 48.8994 | 50.4959 | 56.9137
-Z.07 | 250 | Mercury Vapour | 59.2924 | 62.3096 | 73.5646
-Z.10 | 400 | Mercury Vapour | 87.8369 | 92.4347 | 109.9956
-Z.13 | 150 | High Pressure Sodium | 45.2595 | 46.9198 | 56.2111
-Z.15 | 250 | High Pressure Sodium | 67.0989 | 70.6751 | 84.4683
-Z.18 | per kW | Auxiliary Lighting in Public Places | Not applicable | Not applicable | 244.9436
+Z.01 | 50 | Mercury Vapour | 34.7217 | 35.4653 | 38.1517
+Z.02 | 80 | Mercury Vapour | 40.8888 | 41.8013 | 45.9917
+Z.03 | 125 | Mercury Vapour | 50.5705 | 52.2095 | 58.1231
+Z.04 | 140 | Low Pressure Sodium | 51.7532 | 53.4430 | 60.2352
+Z.07 | 250 | Mercury Vapour | 62.7528 | 65.9461 | 77.8579
+Z.10 | 400 | Mercury Vapour | 92.9631 | 97.8293 | 116.4151
+Z.13 | 150 | High Pressure Sodium | 47.9009 | 49.6582 | 59.4916
+Z.15 | 250 | High Pressure Sodium | 71.0149 | 74.7998 | 89.3980
+Z.18 | per kW | Auxiliary Lighting in Public Places | Not applicable | Not applicable | 259.2388
 Street lighting for existing services only
-Z.05 | 250 | Mercury Vapour | 76.8374 | 79.8387 | 91.1096
-Z.06 | 400 | Mercury Vapour | 105.3979 | 109.9956 | 127.4768
-Z.08 | 250 | Mercury Vapour 50% E.C. cost | 68.0568 | 71.0263 | 82.3292
-Z.09 | 250 | Mercury Vapour 100% E.C. cost | 76.8374 | 79.8387 | 91.1096
-Z.11 | 400 | Mercury Vapour 50% E.C. cost | 96.6174 | 101.2312 | 118.7283
-Z.12 | 400 | Mercury Vapour 100% E.C. cost | 105.3979 | 109.9956 | 127.4768
-Z.14 | 150 | High Pressure Sodium | 69.8288 | 71.4572 | 80.7166
-Z.16 | 250 | High Pressure Sodium 50% E.C. cost | 80.2377 | 83.8457 | 97.6072
-Z.17 | 250 | High Pressure Sodium 100% E.C. cost | 93.3446 | 97.0005 | 110.7778
-Z.51 | 60 | Incandescent | 32.8072 | 33.5095 | 36.0479
-Z.52 | 100 | Incandescent | 32.8071 | 33.5095 | 36.0478
-Z.53 | 200 | Incandescent | 38.6342 | 39.4963 | 43.4555
-Z.54 | 300 | Incandescent | 47.7819 | 49.3304 | 54.9179
-Z.55 | 500 | Incandescent | 76.8373 | 79.8386 | 91.1095
-Z.56 | 40 | Fluorescent | 32.8071 | 33.5095 | 36.0479
-Z.57 | 80 | Fluorescent | 38.6341 | 39.4963 | 43.4555
-Z.58 | 160 | Fluorescent | 54.0401 | 54.7902 | 63.5707
-[Division 1 inserted in Gazette 22 Aug 2014 p. 3031-2.]
+Z.05 | 250 | Mercury Vapour | 81.3217 | 84.4982 | 96.4269
+Z.06 | 400 | Mercury Vapour | 111.5490 | 116.4151 | 134.9164
+Z.08 | 250 | Mercury Vapour 50% E.C. cost | 72.0287 | 75.1715 | 87.1340
+Z.09 | 250 | Mercury Vapour 100% E.C. cost | 81.3217 | 84.4982 | 96.4269
+Z.11 | 400 | Mercury Vapour 50% E.C. cost | 102.2561 | 107.1392 | 125.6574
+Z.12 | 400 | Mercury Vapour 100% E.C. cost | 111.5490 | 116.4151 | 134.9164
+Z.14 | 150 | High Pressure Sodium | 73.9041 | 75.6275 | 85.4273
+Z.16 | 250 | High Pressure Sodium 50% E.C. cost | 84.9204 | 88.7391 | 103.3036
+Z.17 | 250 | High Pressure Sodium 100% E.C. cost | 98.7922 | 102.6616 | 117.2430
+Z.51 | 60 | Incandescent | 34.7218 | 35.4652 | 38.1516
+Z.52 | 100 | Incandescent | 34.7217 | 35.4652 | 38.1515
+Z.53 | 200 | Incandescent | 40.8890 | 41.8013 | 45.9917
+Z.54 | 300 | Incandescent | 50.5705 | 52.2093 | 58.1230
+Z.55 | 500 | Incandescent | 81.3216 | 84.4980 | 96.4268
+Z.56 | 40 | Fluorescent | 34.7217 | 35.4652 | 38.1516
+Z.57 | 80 | Fluorescent | 40.8888 | 41.8013 | 45.9917
+Z.58 | 160 | Fluorescent | 57.1940 | 57.9878 | 67.2807
+[Division 1 inserted in Gazette 26 Jun 2015 p. 2245-6.]
 ## Division 2 — Miscellaneous
-[Heading inserted in Gazette 22 Aug 2014 p. 3032.]
+[Heading inserted in Gazette 26 Jun 2015 p. 2246.]
