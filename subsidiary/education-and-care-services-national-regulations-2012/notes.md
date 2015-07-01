@@ -8,6 +8,7 @@ Education and Care Services National Amendment Regulations 2013 | 13 Dec 2013 p.
 Education and Care Services National Amendment Regulations 2014 | 6 Jun 2014 p. 1787-8 | r. 1 and 2: 6 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jun 2014 (see r. 2(b))
 Reprint 1: The Education and Care Services National Regulations 2012 as at 19 Sep 2014 (includes amendments listed above)
 Education and Care Services National Amendment Regulations (No. 2) 2014 | 28 Nov 2014 p. 4401-11 | r. 1 and 2: 28 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2014 (see r. 2(b))
+Education and Care Services National Amendment Regulations 2015 | 26 Jun 2015 p. 2272 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(ii) and Gazette 26 Jun 2015 p. 2235)
 The short title of this Act was changed to the Administrative Decisions Review Act 1997 by the Civil and Administrative Tribunal Amendment Act 2013 (NSW) Sch. 2.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
