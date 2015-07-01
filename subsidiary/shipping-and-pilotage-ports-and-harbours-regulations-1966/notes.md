@@ -95,49 +95,10 @@ Shipping and Pilotage (Ports and Harbours) Amendment Regulations 2014 | 30 May 2
 Shipping and Pilotage (Ports and Harbours) Amendment Regulations (No. 2) 2014 | 27 Jun 2014 p. 2353-4 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Shipping and Pilotage (Ports and Harbours) Amendment Regulations (No. 3) 2014 | 5 Sep 2014 p. 3216-17 | r. 1 and 2: 5 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Sep 2014 (see r. 2(b))
 Reprint 6: The Shipping and Pilotage (Ports and Harbours) Regulations 1966 as at 16 Jan 2015 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Shipping and Pilotage (Ports and Harbours) Amendment Regulations 2015 r. 3-5 | 12 Jun 2015 p. 2029-30 | 1 Jul 2015 (see r. 2(b))
+Shipping and Pilotage (Ports and Harbours) Amendment Regulations 2015 | 12 Jun 2015 p. 2029-30 | r. 1 and 2: 12 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Repealed by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. That Act was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth).
 The Shipping and Pilotage Amendment Act 2006 s. 10 commenced on 4 June 2010.
 Citation was initially the Ports and Harbours Regulations and was subsequently changed to the Ports and Harbours Regulations 1966 and then to the Shipping and Pilotage (Ports and Harbours) Regulations 1966 (see note under r. 1).
-On the date as at which this compilation was prepared, the Shipping and Pilotage (Ports and Harbours) Amendment Regulations 2015 r. 3-5 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Shipping and Pilotage (Ports and Harbours) Regulations 1966.
-4.Various fees amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 9B(2)(b) | $450.00 | $500.00
-r. 9F(2)(c) | $290.00 | $320.00
-r. 9J | $160.00 | $180.00
-r. 14(3) | $5 525.01 | $5 663.14
-r. 15(3) | $909.24 | $931.97
-r. 15A(1)(a) | $905.84 | $928.49
-r. 15A(2)(a) | $905.84 | $928.49
-r. 15A(2)(c) | $1 075.48 | $1 102.37
-r. 15B | $430.88 | $441.65
-r. 15B | $617.48 | $632.92
-r. 15C(a) | $135.70 | $139.09
-r. 15C(a) | $909.24 | $931.97
-r. 15C(a) | $2 361.32 | $2 420.36
-r. 16(d)(i) | $999.15 | $1 024.13
-r. 16(d)(ii) | $640.00 | $680.00
-5.Schedule 3: various fees amended
-Amend the provisions of Schedule 3 Division 1 listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-it. 1 | $7 731.20 | $7 924.48
-it. 1 | $7 911.71 | $8 109.50
-it. 1 | $8 782.14 | $9 001.69
-it. 1 | $9 710.91 | $9 953.68
-it. 1 | $11 652.63 | $11 943.95
-it. 1 | $13 028.50 | $13 354.21
-it. 1 | $14 263.94 | $14 620.54
-it. 2(a) | $754.87 | $773.74
-it. 2(c)(i) | $430.88/hour | $441.65/hour
-it. 2(c)(ii) | $617.48/hour | $632.92/hour
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
