@@ -28,106 +28,15 @@ Reprint 3: The Petroleum (Submerged Lands) Act 1982 as at 15 Jun 2007 (includes 
 Petroleum Amendment Act 2007 s. 104 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
 Duties Legislation Amendment Act 2008 Sch. 1 cl. 30 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Standardisation of Formatting Act 2010 s. 4 and 50 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-Petroleum and Energy Legislation Amendment Act 2010 Pt. 3 (other than s. 149, 163, 165(1)(b) (to the extent that it inserts s. 152(2)(lc)) and 169 (to the extent that it inserts Sch. 3 cl. 4)) | 42 of 2010 | 28 Oct 2010 | 25 May 2011 (see s. 2(b) and Gazette 24 May 2011 p. 1892)
+Petroleum and Energy Legislation Amendment Act 2010 Pt. 3 | 42 of 2010 | 28 Oct 2010 | Pt. 3 (other than s. 149, 163, 165(1)(b) (to the extent that it inserts s. 152(2)(lc)) and 169 (to the extent that it inserts Sch. 3 cl. 4)); 25 May 2011 (see s. 2(b) and Gazette 24 May 2011 p. 1892); s. 149, 163, 165(1)(b) (to the extent that it inserts s. 152(2)(lc)) and 169 (to the extent that it inserts Sch. 3 cl. 4): 1 Jul 2015 (see s. 2(b) and Gazette 30 Jun 2015 p. 2321)
 Reprint 4: The Petroleum (Submerged Lands) Act 1982 as at 5 Aug 2011 (includes amendments listed above)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 5 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Petroleum (Submerged Lands) Amendment Act 2011 | 57 of 2011 | 30 Nov 2011 | s. 1 and 2: 30 Nov 2011 (see s. 2(a)); Act other than s. 1 and 2: 1 Jan 2012 (see s. 2(b) and Gazette 30 Dec 2011 p. 5537)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 7 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Petroleum and Energy Legislation Amendment Act 2010 s. 149, 163, 165(1)(b) (to the extent that it inserts s. 152(2)(lc)) and 169 (to the extent that it inserts Sch. 3 cl. 4) | 42 of 2010 | 28 Oct 2010 | To be proclaimed (see s. 2(b))
 See the Gas Pipelines Access (Western Australia) Act 1998 s. 9.
 Repealed by the Off-shore (Application of Laws) Act 1982 s. 5.
-On the date as at which this compilation was prepared, the Petroleum and Energy Legislation Amendment Act 2010 s. 149, 163, 165(1)(b) (to the extent that it inserts s. 152(2)(lc)) and 169 (to the extent that it inserts Sch. 3 cl. 4) had not come into operation. They read as follows:
-149.Section 118 deleted
-Delete section 118.
-163.Part IVA inserted
-After section 151Q insert:
-Part IVA — Release of information
-Division 1 — Preliminary
-152A.Terms used
-In this Part, unless the contrary intention appears —
-applicable document means —
-(a)an application made after the commencement to the Minister under this Act; or
-(b)a document accompanying an application so made; or
-(c)a report, return or other document relating to a block given after the commencement to the Minister under —
-(i)this Act; or
-(ii)regulations made for the purposes of section 123A;
-commencement means the commencement of the Petroleum and Energy Legislation Amendment Act 2010 section 163;
-documentary information means information contained in an applicable document;
-Minister of another jurisdiction means a Minister of the Commonwealth, a Minister of another State or a Minister of the Northern Territory;
-petroleum mining sample means —
-(a)a core or cutting from, or a sample of, the seabed or subsoil; or
-(b)a sample of petroleum recovered; or
-(c)a sample of fluid recovered (other than fluid petroleum),
-that has been given at any time, whether before or after the commencement, to the Minister, and includes a portion of such a core, cutting or sample.
-Division 2 — Protection of confidentiality of information and samples
-Subdivision 1 — Information and samples obtained by the Minister
-152B.Protection of confidentiality of information obtained by the Minister
-(1) This section restricts what the Minister may do with documentary information.
-(2) The Minister shall not —
-(a) make the information publicly known; or
-(b) make the information available to a person (other than another Minister or a Minister of another jurisdiction),
-unless the Minister does so —
-(c) in accordance with regulations made for the purposes of this paragraph; or
-(d) for the purposes of the administration of this Act.
-152C.Protection of confidentiality of samples obtained by the Minister
-(1) This section restricts what the Minister may do with a petroleum mining sample.
-(2) The Minister shall not —
-(a) make publicly known any details of the sample; or
-(b) permit a person (other than another Minister or a Minister of another jurisdiction) to inspect the sample,
-unless the Minister does so —
-(c) in accordance with regulations made for the purposes of this paragraph; or
-(d) for the purposes of the administration of this Act.
-152D.Information or samples obtained by Minister can be made available to certain persons
-The Minister may make documentary information or a petroleum mining sample available to another Minister or a Minister of another jurisdiction.
-Subdivision 2 — Information and samples obtained by another Minister
-152E.Protection of confidentiality of information obtained by another Minister
-(1) This section restricts what a Minister may do with documentary information made available to that Minister under section 152D or 152G.
-(2) The Minister shall not —
-(a) make the information publicly known; or
-(b) make the information available to a person (other than another Minister or a Minister of another jurisdiction),
-unless the Minister does so —
-(c) in accordance with regulations made for the purposes of this paragraph; or
-(d) for the purposes of the administration of this Act.
-152F.Protection of confidentiality of samples obtained by another Minister
-(1) This section restricts what a Minister may do with a petroleum mining sample made available to that Minister under section 152D or 152G.
-(2) The Minister shall not —
-(a) make publicly known any details of the sample; or
-(b) permit a person (other than another Minister or a Minister of another jurisdiction) to inspect the sample,
-unless the Minister does so —
-(c) in accordance with regulations made for the purposes of this paragraph; or
-(d) for the purposes of the administration of this Act.
-152G.Information or samples obtained by another Minister can be made available to certain persons
-A Minister to whom documentary information or a petroleum mining sample is made available under section 152D or this section may make the information or sample available to another Minister or a Minister of another jurisdiction.
-Subdivision 3 — Miscellaneous
-152H.Fees
-(1) This section applies to regulations made for the purposes of any of the following —
-(a) section 152B(2)(c);
-(b) section 152C(2)(c);
-(c) section 152E(2)(c);
-(d) section 152F(2)(c).
-(2) The regulations may make provision for fees relating to —
-(a) making information available to a person; or
-(b) permitting a person to inspect a sample.
-165.Section 152 amended
-(1) In section 152(2):
-(b) after paragraph (k) insert:
-(lc) the responsibilities of a permittee, lessee, licensee or holder of a special prospecting authority or access authority as to authorising, or obtaining authorisation for, the release of documentary information as defined in section 152A;
-169.Schedules 3 and 4 replaced
-Delete Schedules 3 and 4 and insert:
-Schedule 3 — Transitional provisions
-[s. 153]
-Division 1 — Provisions for Petroleum and Energy Legislation Amendment Act 2010
-4.Section 118 (release of information)
-(1) This section has effect despite the deletion of section 118 by section 149 of the amending Act.
-(2) Section 118 as in force immediately before it was deleted continues to apply in respect of information given to the Minister before the commencement of section 149 of the amending Act.
-(3) Any regulations providing for the calculation of a fee for the purposes of a provision of section 118 as in force immediately before that section was deleted —
-(a) continue in force for the purposes of that section as it continues to apply under subclause (1); and
-(b) also separately continue in force on and after the commencement of section 163 of the amending Act as if they had been made for the purposes of Part IVA.
-(4) Regulations as continued in force under subclause (3)(a) or (b) may, for the purposes of their application under subclause (3)(a) or (b), be amended or deleted by regulations.
+Footnote no longer applicable.
 Repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009. Now see Fair Work Act 2009 (Commonwealth).
 The amendment in the Petroleum Safety Act 1999 s. 92 was repealed by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51 before the amendment purported to come into operation.
 The Acts Amendment (Petroleum) Act 1990 s. 191(2) (as amended by the Acts Amendment (Petroleum) Act 1994 s. 3) reads as follows:
@@ -243,6 +152,16 @@ The Acts Amendment (Petroleum) Act 1990 s. 218(2) and (3) read as follows:
 The Land (Titles and Traditional Usage) Act 1993 Sch. 1 Pt. 4 cl. 5(2) reads as follows:
 (2) Division 4A inserted by subsection (1) does not apply to an application for approval lodged before the commencement of this section.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+Schedule 3 Division 2 clause 6 expired on 1 Jan 2013. It reads as follows:
+6.Interpretation of references to Safety Authority in regulations
+(1) This clause applies to these regulations —
+(a) the Petroleum (Submerged Lands) (Diving Safety) Regulations 2007;
+(b) the Petroleum (Submerged Lands) (Management of Safety on Offshore Facilities) Regulations 2007;
+(c) the Petroleum (Submerged Lands) (Occupational Safety and Health) Regulations 2007;
+(d) the Petroleum (Submerged Lands) (Pipelines) Regulations 2007.
+(2) On and from the commencement of the Petroleum (Submerged Lands) Amendment Act 2011 section 12, a reference in the regulations to which this clause applies to the Safety Authority is to be taken, unless the context otherwise requires, to be a reference to the Minister.
+(3) This clause expires 12 months after the commencement referred to in subclause (2).
+[Clause 6 inserted by No. 57 of 2011 s. 15.]
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
