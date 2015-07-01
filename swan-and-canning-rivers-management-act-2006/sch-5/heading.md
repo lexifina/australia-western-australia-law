@@ -3,8 +3,7 @@
 1.The chief executive officers of the departments principally assisting in the administration of the following Acts, and any other person carrying out functions under the following Acts, to the extent that their functions relate to matters affected by this Act —
 [(a)deleted]
 (b) the Bush Fires Act 1954;
-(c) the Conservation and Land Management Act 1984;
-[(d)deleted]
+[(c), (d)deleted]
 (e) the Environmental Protection Act 1986;
 (f) the Fire and Emergency Services Act 1998;
 (g) the Fish Resources Management Act 1994;
@@ -25,7 +24,7 @@
 (v) the Rights in Water and Irrigation Act 1914;
 (w) the Shipping and Pilotage Act 1967;
 (x) the Soil and Land Conservation Act 1945;
-(y) the Stock (Identification and Movement) Act 1970;
+[(y)deleted]
 (z) the Strata Titles Act 1985;
 [(aa)deleted]
 (bb) the Transport Co-ordination Act 1966;
@@ -33,8 +32,8 @@
 (dd) the Water Corporations Act 1995;
 (eea) the Water Services Act 2012;
 (ee) the Waterways Conservation Act 1976;
-(ff) the Western Australian Land Authority Act 1992;
-(gg) the Western Australian Planning Commission Act 1985.
+(ff) the Western Australian Land Authority Act 1992.
+[(gg)deleted]
 [2.deleted]
 3.The Conservation Commission established under the Conservation and Land Management Act 1984.
 4.The Marine Parks and Reserves Authority established under the Conservation and Land Management Act 1984.
@@ -52,4 +51,4 @@
 17.The holder of a licence under the Electricity Industry Act 2004.
 18.The holder of a distribution licence under the Energy Coordination Act 1994.
 19.Any decision-making authority as defined in the Environmental Protection Act 1986 section 3.
-[Schedule 5 amended by No. 45 of 2011 s. 144(17) and (18); No. 22 of 2012 s. 143; No. 25 of 2012 s. 233.]
+[Schedule 5 amended by No. 45 of 2011 s. 144(17) and (18); No. 22 of 2012 s. 143; No. 25 of 2012 s. 233; No. 6 of 2015 s. 49.]

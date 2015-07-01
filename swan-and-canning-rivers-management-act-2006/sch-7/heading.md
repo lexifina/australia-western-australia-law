@@ -21,5 +21,5 @@ City of South Perth
 City of Subiaco
 City of Swan
 Town of Victoria Park
-Town of Vincent
-[Schedule 7 amended by No. 45 of 2011 s. 144(19).]
+City of Vincent
+[Schedule 7 amended by No. 45 of 2011 s. 144(19); No. 6 of 2015 s. 53.]
