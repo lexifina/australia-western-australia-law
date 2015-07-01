@@ -16,29 +16,7 @@ Tobacco Products Control Amendment Regulations 2014 | 27 Jun 2014 p. 2331 | r. 1
 Reprint 2: The Tobacco Products Control Regulations 2006 as at 21 Nov 2014 (includes amendments listed above)
 Tobacco Products Control Amendment Regulations (No. 4) 2014 | 12 Dec 2014 p. 4715-16 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
 Tobacco Products Control Amendment Regulations 2015 | 10 Feb 2015 p. 625 | r. 1 and 2: 10 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Tobacco Products Control Amendment Regulations (No. 3) 2015 r. 3 and 4 | 19 May 2015 p. 1757-8 | 1 Jul 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, the Tobacco Products Control Amendment Regulations (No. 3) 2015 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Tobacco Products Control Regulations 2006.
-4.Various fees amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 25(1)(a) | $56.10 | $60.00
-r. 25(1)(b) | $56.10 | $60.00
-r. 25(1)(c) | $140.25 | $150.00
-r. 25(2)(a) | $168.30 | $180.00
-r. 25(2)(b) | $168.30 | $180.00
-r. 25(2)(c) | $421.30 | $450.00
-r. 26(a) | $190.85 | $204.00
-r. 26(b) | $190.85 | $204.00
-r. 26(c) | $477.40 | $510.00
-r. 27 | $56.10 | $60.00
-r. 28 | $28.05 | $30.00
-r. 29 | $28.05 | $30.00
+Tobacco Products Control Amendment Regulations (No. 3) 2015 | 19 May 2015 p. 1757-8 | r. 1 and 2: 19 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
