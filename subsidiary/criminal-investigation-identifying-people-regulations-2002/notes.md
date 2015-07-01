@@ -10,6 +10,7 @@ Reprint 1: The Criminal Investigation (Identifying People) Regulations 2002 as a
 Criminal Investigation (Identifying People) Amendment Regulations 2007 | 2 Oct 2007 p. 4972-3 | r. 1 and 2: 2 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2007 (see r. 2(b))
 Criminal Investigation (Identifying People) Amendment Regulations 2009 | 22 Dec 2009 p. 5274-5 | r. 1 and 2: 22 Dec 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Dec 2009 (see r. 2(b))
 Criminal Investigation (Identifying People) Amendment Regulations 2014 | 15 Apr 2014 p. 1056-60 | r. 1 and 2: 15 Apr 2014 (see r. 2(a)); r. 4: 16 Apr 2014 (see r. 2(b) and Gazette 15 Apr 2014 p. 1053); Regulations other than r. 1, 2 and 4: 16 Apr 2014 (see r. 2(c))
+Criminal Investigation (Identifying People) Amendment Regulations 2015 | 26 Jun 2015 p. 2269 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(ii) and Gazette 26 Jun 2015 p. 2235)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
