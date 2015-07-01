@@ -16,17 +16,10 @@ Reprint 2: The Children and Community Services Regulations 2006 as at 8 Apr 2011
 Children and Community Services Amendment Regulations 2012 | 27 Jan 2012 p. 567 | r. 1 and 2: 27 Jan 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jan 2012 (see r. 2(b))
 Children and Community Services Amendment Regulations (No. 2) 2012 | 21 Sep 2012 p. 4422 | r. 1 and 2: 21 Sep 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Sep 2012 (see r. 2(b))
 Children and Community Services Amendment Regulations 2014 | 27 Jun 2014 p. 2310-11 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Children and Community Services Amendment Regulations 2015 r. 3 and 4 | 10 Apr 2015 p. 1251 | 1 Jul 2015 (see r. 2(b)(ii) and Gazette 10 Apr 2015 p. 1249)
+Children and Community Services Amendment Regulations 2015 | 10 Apr 2015 p. 1251 | r. 1 and 2: 10 Apr 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(ii) and Gazette 10 Apr 2015 p. 1249)
+Children and Community Services Amendment Regulations (No. 2) 2015 | 26 Jun 2015 p. 2238-9 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Children and Community Services Act 2004 s. 250.
-On the date as at which this compilation was prepared, the Children and Community Services Amendment Regulations 2015 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Children and Community Services Regulations 2006.
-4.Regulation 20A amended
-Delete regulation 20A(l).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
