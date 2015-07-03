@@ -9,7 +9,24 @@ Education and Care Services National Amendment Regulations 2014 | 6 Jun 2014 p. 
 Reprint 1: The Education and Care Services National Regulations 2012 as at 19 Sep 2014 (includes amendments listed above)
 Education and Care Services National Amendment Regulations (No. 2) 2014 | 28 Nov 2014 p. 4401-11 | r. 1 and 2: 28 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2014 (see r. 2(b))
 Education and Care Services National Amendment Regulations 2015 | 26 Jun 2015 p. 2272 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(ii) and Gazette 26 Jun 2015 p. 2235)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Education and Care Services National Amendment Regulations (No. 2) 2015 r. 3-5 | 3 Jul 2015 p. 2667-8 | 1 Aug 2015 (see r. 2(b))
 The short title of this Act was changed to the Administrative Decisions Review Act 1997 by the Civil and Administrative Tribunal Amendment Act 2013 (NSW) Sch. 2.
+On the date as at which this compilation was prepared, the Education and Care Services National Amendment Regulations (No. 2) 2015 r. 3-5 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Education and Care Services National Regulations 2012.
+4.Regulation 123 amended
+(1) After subregulation (1) insert:
+(2A) Despite regulation 122, if an educator at a centre-based service is not working directly with children, that educator is counted as an educator at the service for the purposes of this regulation if —
+(a) the educator is present on the premises of the service; and
+(b) the educator is available immediately to provide education and care to the children at the service if required; and
+(c) the period of time during which the educator is not working with children is not more than 30 minutes in a day.
+(2) In regulation 123 in the 2nd note delete “372, 374 and 374A.” and insert:
+372 and 374.
+5.Regulation 374A deleted
+Delete regulation 374A.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
