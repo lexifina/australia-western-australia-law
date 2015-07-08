@@ -4,6 +4,7 @@ Compilation table
 Citation | Gazettal | Commencement
 Lotteries Commission (Internet Entries) Rules 2010 | 19 Nov 2010 p. 5697-706 | r. 1 and 2: 19 Nov 2010 (see r. 2(a)); Rules other than r. 1 and 2: 20 Nov 2010 (see r. 2(b))
 Lotteries Commission (Internet Entries) Amendment Rules 2013 | 3 Sep 2013 p. 4154-5 | r. 1 and 2: 3 Sep 2013 (see r. 2(a)); Rules other than r. 1 and 2: 4 Sep 2013 (see r. 2(b))
+Lotteries Commission (Internet Entries) Amendment Rules 2014 | 7 Jul 2015 p. 2691 | r. 1 and 2: 7 Jul 2015 (see r. 2(a)); Rules other than r. 1 and 2: 8 Jul 2015 (see r. 2(b) and applies to Set for Life draws conducted on or after 24 Nov 2014)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
