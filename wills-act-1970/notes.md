@@ -15,7 +15,8 @@ Compilation table
  | Wills Amendment Act 2007 s. 3-24 | 27 of 2007 | 26 Oct 2007 | 9 Feb 2008 (see s. 2 and Gazette 8 Feb 2008 p. 313)
  | Reprint 4: The Wills Act 1970 as at 3 Jul 2009 (includes amendments listed above)
 Inheritance (Family and Dependants Provision) Amendment Act 2011 s. 17 | 48 of 2011 | 25 Oct 2011 | 16 Jan 2013 (see s. 2(b) and Gazette 15 Jan 2013 p. 79)
-Wills Amendment (International Wills) Act 2012 | 47 of 2012 | 29 Nov 2012 | s. 1 and 2: 29 Nov 2012 (see s. 2(a)); Act other than s. 1 and 2: 11 Mar 2015 (see s. 2(b) and Gazette 10 Mar 2015 p. 845)
+Wills Amendment (International Wills) Act 2012 | 47 of 2012 | 29 Nov 2012 | s. 1 and 2: 29 Nov 2012 (see s. 2(1)(a)); Act other than s. 1 and 2: 11 Mar 2015 (see s. 2(1)(b) and Gazette 10 Mar 2015 p. 845)
+Reprint 5: The Wills Act 1970 as at 10 Jul 2015 (includes amendments listed above)
 The Acts Amendment (Equality of Status) Act 2003 s. 211(2) reads as follows:
 (2) The repeal effected by subsection (1) applies to and in respect of the will of any person dying on or after the date of the commencement of this section, whether the will was made or executed before, on or after that date but does not apply to the will of a person who died before that date.
 Part IX of the Wills Act 1970 is affected by the Administration Act 1903 s. 47A.
@@ -41,7 +42,7 @@ place4
 previous will41(2)
 Principal Registrar39(1)
 property4
+repeal17(1)
 statutory will48(1)
-the repeal17(1)
 this jurisdiction32A
 will4, 41(2)
