@@ -1,6 +1,6 @@
 ## Schedule 1 — Annex to Convention providing a Uniform Law on the Form of an International Will 1973
 [s. 32A]
-[Heading inserted by No. 47 of 2012 s. 6.]
+[Heading inserted: No. 47 of 2012 s. 6.]
 ## ANNEX
 ## UNIFORM LAW ON THE FORM OF AN INTERNATIONAL WILL
 ## Article 1
@@ -65,4 +65,4 @@ The international will shall be subject to the ordinary rules of revocation of w
 In interpreting and applying the provisions of this law, regard shall be had to its international origin and to the need for uniformity of interpretation.
 ....................................................
 *To be completed if appropriate
-[Schedule 1 inserted by No. 47 of 2012 s. 6.]
+[Schedule 1 inserted: No. 47 of 2012 s. 6.]
