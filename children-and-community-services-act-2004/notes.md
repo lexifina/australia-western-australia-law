@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Children and Community Services Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 10 July 2015 of the Children and Community Services Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Children and Community Services Act 2004 | 34 of 2004 | 20 Oct 2004 | s. 1 and 2: 20 Oct 2004; s. 3 and 102: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); Act other than s. 1-3 and 102 and Sch. 2 cl. 9(2) and 25: 1 Mar 2006 (see s. 2 and Gazette 14 Feb 2006 p. 695); Sch. 2 cl. 9(2): 11 Mar 2006 (see s. 2 and Gazette 10 Mar 2006 p. 987); Sch. 2 cl. 25 deleted by No. 8 of 2009 s. 32(4)
@@ -8,7 +8,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Family Legislation Amendment Act 2006 Pt. 6 Div. 1 | 35 of 2006 | 4 Jul 2006 | 15 Jul 2006 (see s. 2 and Gazette 14 Jul 2006 p. 2559)
 Child Care Services Act 2007 Pt. 7 Div. 1 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
 Reprint 1: The Children and Community Services Act 2004 as at 4 Apr 2008 (includes amendments listed above)
-Legal Profession Act 2008 s. 642 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
+Legal Profession Act 2008 s. 642 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p\ . 511)
 Children and Community Services Amendment (Reporting Sexual Abuse of Children) Act 2008 s. 4-11 | 26 of 2008 | 19 Jun 2008 | 1 Jan 2009 (see s. 2(b) and Gazette 9 Dec 2008 p. 5107)
 Surrogacy Act 2008 Pt. 4 Div. 2 | 47 of 2008 | 10 Dec 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 512)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 32 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
@@ -23,9 +23,9 @@ Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 2 | 11 of 2012
 Teacher Registration Act 2012 s. 163 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 18 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Declared Places (Mentally Impaired Accused) Act 2015 s. 82 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
+Reprint 4: The Children and Community Services Act 2004 as at 10 Jul 2015 (includes amendments listed above)
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions relating to the repealed Pt. 8 of this Act.
-Footnote no longer applicable.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -131,7 +131,7 @@ prescribed authority24A(1)
 prescribed period104(1)
 prohibited article112
 proposal143(1)
-proposed interstate order158(1), 167(1)
+proposed interstate order158(1)(c), 167(1)
 proposed special guardian61(1)
 protected child88A
 protection application3
@@ -146,7 +146,7 @@ provisional care plan10(4), 39(1), 88I(1)
 provisional protection and care3
 provisionally protected child88A
 public authority3
-publication day88B(3)
+publication day88B(3)(a)
 publish237(1)
 registrar of the Court157(1)
 relative3
