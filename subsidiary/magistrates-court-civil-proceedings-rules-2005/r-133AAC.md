@@ -8,6 +8,6 @@
 (4) After the surplus is paid into the Court, a registrar must serve on each person who, to the registrar’s knowledge, may have a claim to the surplus a copy of the following —
 (a) the approved form referred to in subrule (2)(a);
 (b) the verified statement of account referred to in subrule (2)(b);
-(c) the supporting affidavit referred to in subrule 2(c);
+(c) the supporting affidavit referred to in subrule (2)(c);
 (d) the receipt referred to in subrule (3).
 [Rule 133AAC inserted in Gazette 23 Jan 2015 p. 412.]
