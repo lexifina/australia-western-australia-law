@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Magistrates Court (Civil Proceedings) Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 17 July 2015 of the Magistrates Court (Civil Proceedings) Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Magistrates Court (Civil Proceedings) Rules 2005 | 28 Apr 2005 p. 1651-709 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -20,7 +20,7 @@ Magistrates Court (Civil Proceedings) Amendment Rules (No. 5) 2014 | 12 Dec 2014
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 3) 2014 | 8 Jan 2015 p. 159-60 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Rules other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Magistrates Court (Civil Proceedings) Amendment Rules 2014 | 23 Jan 2015 p. 410-14 | r. 1 and 2: 23 Jan 2015 (see r. 2(a)); Rules other than r. 1 and 2: 24 Jan 2015 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules 2015 | 15 May 2015 p. 1726-8 | r. 1 and 2: 15 May 2015 (see r. 2(a)); Rules other than r. 1 and 2: 16 May 2015 (see r. 2(b))
-The Public Trustee Act 1941 s. 40, as inserted by the Public Trustee and Trustee Companies Legislation Amendment Act 2008 s. 25(1), does not refer to the “Common Fund” but to a “Fund”.
+Reprint 3: The Magistrates Court (Civil Proceedings) Rules 2005 as at 17 Jul 2015 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -42,7 +42,7 @@ listing conference4
 lodge4
 order4
 originating claim4
-other party133AAD(5)
+other party133AAD(5)(b)
 partnership4
 party135(1)
 personal service4
