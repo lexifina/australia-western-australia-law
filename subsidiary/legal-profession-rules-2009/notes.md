@@ -8,10 +8,12 @@ Legal Profession Amendment Rules 2010 | 26 Oct 2010 p. 5290 | r. 1 and 2: 26 Oct
 Legal Profession Amendment Rules 2011 | 12 Apr 2011 p. 1311-13 | r. 1 and 2: 12 Apr 2011 (see r. 2(a)); Rules other than r. 1 and 2: 13 Apr 2011 (see r. 2(b))
 Legal Profession Amendment Rules (No. 2) 2014 | 12 Dec 2014 p. 4718-19 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Rules other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
 Legal Profession Amendment Rules 2015 | 20 Feb 2015 p. 680-8 | r. 1 and 2: 20 Feb 2015 (see r. 2(a)); Rules other than r. 1 and 2: 21 Feb 2015 (see r. 2(b))
+Legal Profession Amendment Rules (No. 2) 2015 | 17 Jul 2015 p. 2884-7 | r. 1 and 2: 17 Jul 2015 (see r. 2(a)); Rules other than r. 1 and 2: 18 Jul 2015 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 after the overdue periodSch. 1 cl. 1
+ALS19, 24
 approved CPD activity7
 book47
 certificate year8A
@@ -34,6 +36,7 @@ experienced practitioner10(1)
 expiry day5(1)
 individual activity8A
 interactive activity7
+LAC19, 24
 late fee periodSch. 1 cl. 1
 librarian47
 library47
@@ -47,5 +50,6 @@ reduce17(1)
 remote communication7
 response time41(2)
 secretary28
+sole practitioner19, 24
 standard feeSch. 1 cl. 1
 standard renewal periodSch. 1 cl. 1
