@@ -8,6 +8,6 @@
 5. | National police certificate | $61.80
 6. | Copy of a traffic offence detection photograph (e.g. traffic speed camera, red light camera) provided by police | $11.90
 7. | Provision of incident information as defined in the Road Traffic (Administration) Act 2008 section 12(1) — (a)to those involved or their representatives (outlining certain accident details) (b)to Insurance Commission of Western Australia for third party insurance purposes | $41.40 $41.40
-[8. | Deleted]
+8. | Provision of information about a reported incident, other than incident information as defined in the Road Traffic (Administration) Act 2008 section 12(1), to those involved or their representatives (outlining certain incident details) | $41.40
 9. | Replacement of prosecution documents — (a)a statement of the material facts of a charge, which has already been served (per hour or part of an hour) (b)additional copy of documents already disclosed (per hour or part of an hour) | $97.00 $97.00
-[Schedule 1 inserted in Gazette 17 Jun 2014 p. 1997; amended in Gazette 8 Jan 2015 p. 154; 2 Jun 2015 p. 1943.]
+[Schedule 1 inserted in Gazette 17 Jun 2014 p. 1997; amended in Gazette 8 Jan 2015 p. 154; 2 Jun 2015 p. 1943; 24 Jul 2015 p. 3057.]
