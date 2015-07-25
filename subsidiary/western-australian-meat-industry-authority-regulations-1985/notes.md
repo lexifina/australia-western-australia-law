@@ -38,6 +38,7 @@ Reprint 4: The Western Australian Meat Industry Authority Regulations 1985 as at
 Western Australian Meat Industry Authority Amendment Regulations (No. 2) 2014 | 1 Jul 2014 p. 2331-2 | r. 1 and 2: 1 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Jul 2014 (see r. 2(b)(ii))
 Western Australian Meat Industry Authority Amendment Regulations (No. 3) 2014 | 3 Sep 2014 p. 3207-8 | r. 1 and 2: 3 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Sep 2014 (see r. 2(b))
 Western Australian Meat Industry Authority Amendment Regulations 2014 | 8 Jan 2015 p. 75-6 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Western Australian Meat Industry Authority Amendment Regulations 2015 | 24 Jul 2015 p. 3041-3 | r. 1 and 2: 24 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2015 (see r. 2(b))
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Health Department shall be read as a reference to the Department of Health.
 Disallowed on 22 Oct 1991, see Gazette 25 Oct 1991 p. 5499.
 Defined terms
