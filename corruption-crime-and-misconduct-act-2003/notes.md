@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Corruption, Crime and Misconduct Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 31 July 2015 of the Corruption, Crime and Misconduct Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Corruption and Crime Commission Act 2003 | 48 of 2003 | 3 Jul 2003 | s. 1 and 2: 3 Jul 2003; Act other than s. 1 and 2: 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
@@ -31,6 +31,9 @@ Criminal Investigation (Covert Powers) Act 2012 Pt. 7 | 55 of 2012 | 3 Dec 2012 
 Reprint 5: The Corruption and Crime Commission Act 2003 as at 18 Oct 2013 (includes amendments listed above)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 Pt. 2 (s. 3-32) | 35 of 2014 | 9 Dec 2014 | s. 32: 30 Dec 2014 (see s. 2(b) and Gazette 30 Dec 2014 p. 5497); Pt. 2 (other than s. 32): 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Declared Places (Mentally Impaired Accused) Act 2015 s. 84 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
+Reprint 6: The Corruption, Crime and Misconduct Act 2003 as at 31 Jul 2015 (includes amendments listed above)
+The Anti-Corruption Commission Act 1988 was repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.
+The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 Now known as the Corruption, Crime and Misconduct Act 2003; short title changed (see note under s. 1).
 The Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 3 Div. 3 Subdiv. 2 reads as follows:
 Part 3 — Repeals, transitional and savings provisions, and consequential amendments
@@ -106,7 +109,6 @@ except that the period to which the final report is to relate is the final perio
 (3) If at the commencement, any duty imposed by Part II Division 14 of the FAA Act on the accountable authority of the A-CC has not been complied with in relation to the A-CC for any financial year that expired before the commencement, that duty subsists and is to be performed by the reporting officer as if the reporting officer were the accountable authority.
 (4) The time within which the reporting officer is to perform a duty referred to in subsection (3) is extended until the end of the day that is 2 months after the day on which the reporting officer is appointed, but this subsection does not prevent the time from being extended again under section 70 of the FAA Act.
 (5) The CCC is to give the reporting officer access to the records referred to in section 64 for the purposes of this section.
-The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Corruption and Crime Commission Amendment and Repeal Act 2003 Pt. 3 Div. 7 reads as follows:
 Part 3 — Repeals, transitional and savings provisions, and consequential amendments
 Division 7 — General
@@ -165,8 +167,8 @@ employee of the Police Department 3(1)
 examination3(1)
 exceptional powers45
 exceptional powers finding45, 46(2)
-formal authority119, 121(2)
-formal variation of an authority124(3)
+formal authority119, 121(2)(a)
+formal variation of an authority124(3)(a)
 former judgeSch. 2 cl. 4(6)
 fortification67(1)
 heavily fortified67(1)
@@ -236,8 +238,8 @@ Standing Committee3(1)
 State Records Commission3(1)
 subcontractor3(1)
 submission67(1)
-submission period67(1), 69(2)
-urgent authority119, 121(2)
-urgent variation of an authority124(3)
+submission period67(1), 69(2)(b)
+urgent authority119, 121(2)(b)
+urgent variation of an authority124(3)(b)
 warrant101(1)
 witness3(1)
