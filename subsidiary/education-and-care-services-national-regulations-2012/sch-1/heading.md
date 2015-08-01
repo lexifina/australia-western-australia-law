@@ -1,5 +1,5 @@
 ## Schedule 1 — National Quality Standard
-Notes:
+Notes for this Schedule:
 1The National Quality Standard is used to assess education and care services to determine rating levels under Part 5 of the Law.
 2The Regulatory Authority may suspend a service approval if an education and care service is rated under Part 5 of the Law as not meeting the National Quality Standard, there has been no improvement in that rating and a service waiver or temporary waiver does not apply — see section 70(1)(d) of the Law.
 ## Quality area 1 — Educational program and practice
