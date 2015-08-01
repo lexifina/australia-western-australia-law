@@ -3,6 +3,7 @@
 Peak organisations
 Federation of Community Legal Centres (Western Australia) Incorporated
 Community legal centres
+Aboriginal Legal Service of Western Australia (Inc)
 Albany Community Legal Centre Inc
 Armadale Information and Referral Service Inc
 Boogurlarri Community House Association Inc
@@ -15,6 +16,7 @@ Geraldton Resource Centre
 Goldfields Community Legal Centre Incorporated
 Gosnells Community Legal Centre (Inc)
 Kimberley Community Legal Services Inc
+Law Access Limited
 Lockridge Community Group
 Mental Health Law Centre (WA) Inc
 North Perth Migrant Resource Centre Inc
@@ -30,3 +32,4 @@ TLC Emergency Welfare Foundation (WA) Inc (trading as Welfare Rights & Advocacy 
 Women’s Legal Services Inc (WA)
 Women’s Refuges Multicultural Service Incorporated
 Youth Legal Service (Inc)
+[Schedule 2 amended in Gazette 31 Jul 2015 p. 3120.]
