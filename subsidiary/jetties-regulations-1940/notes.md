@@ -122,6 +122,7 @@ Reprint 8: The Jetties Regulations 1940 as at 11 Oct 2013 (includes amendments l
 Jetties Amendment Regulations 2014 | 7 Feb 2014 p. 287-9 | r. 1 and 2: 7 Feb 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Feb 2014 (see r. 2(b))
 Jetties Amendment Regulations (No. 2) 2014 | 25 Jul 2014 p. 2607-61 | r. 1 and 2: 25 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2014 (see r. 2(b))
 Jetties Amendment Regulations (No. 4) 2014 | 4 Nov 2014 p. 4204-5 | r. 1 and 2: 4 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Nov 2014 (see r. 2(b))
+Jetties Amendment Regulations 2015 | 22 Jul 2015 p. 2951-95 | r. 1 and 2: 22 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2015 (see r. 2(b))
 The Consumer Credit (Western Australia) Code was repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 3 Div. 1.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the department in the Public Service designated as “Police Department” is to be read and construed as a reference to the department designated as “Police Service”.
