@@ -67,13 +67,20 @@ r. 62(2) & 65 | Employer failing to report reported defect in installation or eq
 r. 63(2) & 65 | Failing to report electrical accident | $750 | $3 000
 r. 63(3) & 65 | Network operator failing to report electrical accident to Director |  | $3 000
 r. 63(4) & 65 | Employee failing to report electrical accident to employer | $750 | $3 000
-Table 4 — Electricity (Supply Standards and System Safety) Regulations 2001 offences
-Provision(s) [to be read with r. 46] | Description of offence under Electricity (Supply Standards and System Safety) Regulations 2001 | Modified penalty
+Table 4 — Electricity (Network Safety) Regulations 2015 offences
+Provision(s) | Description of offence under Electricity (Network Safety) Regulations 2015 | Modified penalty
 For individual | For body corporate
-r. 14(2) | Network operator failing to give notice of major activity or outline of major activities |  | $3 000
-r. 30(2) | Failing to lodge report in respect of accepted safety case after an auditing period |  | $20 000
-r. 33(3)(a) | Failing to keep records at nominated address |  | $20 000
-r. 33(4) | Failing to keep record for 5 years |  | $20 000
-r. 35(1) | Failing to notify Director within required time of incident or event resulting in serious injury or serious damage |  | $20 000
-r. 36(2) | Failing to give Director within required time report of notifiable incident |  | $20 000
-[Schedule 1 inserted in Gazette 31 Dec 2010 p. 6888-92; amended in Gazette 13 Apr 2012 p. 1649-51; 14 Apr 2015 p. 1324.]
+r. 13(1) | Failure by network operator to have safety management system |  | $50 000
+r. 14(1) | Failure by network operator to review and revise safety management system |  | $50 000
+r. 14(2) | Failure by network operator to revise safety management system following amendment of AS 5577 |  | $50 000
+r. 23(6) | Destroying or disposing of physical evidence relating to incident | $5 000 | $50 000
+r. 24(1) | Failure by network operator to give report, that complies with regulation 24(2), on incident within required time |  | $10 000
+r. 24(1) | Failure by network operator to give report on incident within required time |  | $50 000
+r. 26(3) | Failure by network operator to permit witnessing of testing |  | $50 000
+r. 31(1) | Failure by network operator to give or publish statement of network safety performance objectives |  | $10 000
+r. 32(2) | Failure by network operator to give or publish statement of network safety performance outcomes |  | $10 000
+r. 41(2) | Failure by network operator to inform Director and give details |  | $5 000
+r. 41(3) | Failure by person who is to become network operator to inform Director and give details |  | $5 000
+r. 41(4) | Failure by person who is to cease to be network operator to inform Director and give details |  | $5 000
+r. 41(5) | Failure by network operator to give notice of change in name or contact details |  | $5 000
+[Schedule 1 inserted in Gazette 31 Dec 2010 p. 6888-92; amended in Gazette 13 Apr 2012 p. 1649-51; 14 Apr 2015 p. 1324; 5 Aug 2015 p. 3185-6.]

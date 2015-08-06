@@ -63,6 +63,7 @@ Electricity Amendment Regulations 2012 | 13 Apr 2012 p. 1647-51 | r. 1 and 2: 13
 Electricity Amendment Regulations 2013 | 20 Aug 2013 p. 3829 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Reprint 6: The Electricity Regulations 1947 as at 8 Nov 2013 (includes amendments listed above)
 Electricity Amendment Regulations 2015 | 14 Apr 2015 p. 1324 | r. 1 and 2: 14 Apr 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Apr 2015 (see r. 2(b))
+Electricity (Network Safety) Regulations 2015 r. 44 | 5 Aug 2015 p. 3141-96 | 6 Aug 2015 (see r. 2(b))
 The Electricity (Licensing) Regulations 1991 r. 49 commenced 1 Nov 1991.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Now known as the Electricity Regulations 1947; citation changed (see note under r. 1).
