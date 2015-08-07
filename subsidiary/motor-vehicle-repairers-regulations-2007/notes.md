@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Motor Vehicle Repairers Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 7 August 2015 of the Motor Vehicle Repairers Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Motor Vehicle Repairers Regulations 2007 | 9 Feb 2007 p. 391-426 | 19 Mar 2007 (see r. 2 and Gazette 9 Feb 2007 p. 451)
@@ -20,6 +20,7 @@ Motor Vehicle Repairers Amendment Regulations 2014 | 15 Jul 2014 p. 2462-3 | r. 
 Motor Vehicle Repairers Amendment Regulations (No. 4) 2014 | 18 Nov 2014 p. 4319-22 | r. 1 and 2: 18 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2014 (see r. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Motor Vehicle Repairers Amendment Regulations (No. 2) 2014 | 8 Jan 2015 p. 91-3 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Motor Vehicle Repairers Amendment Regulations 2015 | 23 Jun 2015 p. 2179-80 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Reprint 3: The Motor Vehicle Repairers Regulations 2007 as at 7 Aug 2015 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -72,14 +73,11 @@ motor cycle work3(1)
 moveable glass3(1)
 number of repairers3(1)
 old licence3(1)
-outstanding fee7B(1)
 overhaul3(1)
 painting work3(1)
 panel beating work3(1)
 power assisted pedal cycle3(1)
 prescribed accessory3(1)
-prescribed fee19(1)
-proposed refund7B(1)
 qualified repairer7G(1)
 register of certificates3(1)
 relevant authority3(1)
@@ -88,7 +86,6 @@ repair3(1)
 repairer3(1)
 retrofit3(1)
 Road Traffic Act3(1)
-round of licence notices18(1)
 service3(1)
 steering, suspension and wheel aligning work3(1)
 transmission work3(1)
