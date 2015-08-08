@@ -17,6 +17,7 @@ Litter Amendment Regulations (No. 2) 2004 | 28 May 2004 p. 1836 | 28 May 2004
 Litter Amendment Regulations 2012 | 11 Jan 2013 p. 43-7 | r. 1 and 2: 11 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Jan 2013 (see r. 2(b))
 Reprint 3: The Litter Regulations 1981 as at 14 Nov 2014 (includes amendments listed above)
 Litter Amendment Regulations 2015 | 19 Jun 2015 p. 2096-7 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Litter Amendment Regulations (No. 2) 2015 | 7 Aug 2015 p. 3199-200 | r. 1 and 2: 7 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Aug 2015 (see r. 2(b))
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Department of Youth, Sport and Recreation is read and construed as a reference to the Department of Sport and Recreation.
 The commencement date of 1 Mar 1989 that was specified was before the date of gazettal.
 Defined terms
