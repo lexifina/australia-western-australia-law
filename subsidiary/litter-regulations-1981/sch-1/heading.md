@@ -1,6 +1,6 @@
 ## Schedule 1 — Litter creating public risk
 [r. 2]
-[Heading inserted in Gazette 11 Jan 2013 p. 45.]
+[Heading inserted: Gazette 11 Jan 2013 p. 45.]
 Item | Category of litter
 1. | Animal carcass or animal body part (other than as cooked food)
 2. | Pill, capsule or tablet, or a blister pack that contains or is designed to contain a pill, capsule or tablet
@@ -15,4 +15,4 @@ Item | Category of litter
 10. | Hypodermic needle or syringe, whether or not attached to each other
 11. | Tyre
 12. | Battery
-[Schedule 1 inserted in Gazette 11 Jan 2013 p. 45-6.]
+[Schedule 1 inserted: Gazette 11 Jan 2013 p. 45-6.]
