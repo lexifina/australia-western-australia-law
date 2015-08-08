@@ -185,6 +185,7 @@ Fish Resources Management Amendment Regulations 2015 | 23 Jan 2015 p. 399-407 | 
 Fish Resources Management Amendment Regulations (No. 2) 2015 | 20 Feb 2015 p. 679-80 | r. 1 and 2: 20 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2015 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 3) 2015 | 30 Jun 2015 p. 2331-2 | r. 1 and 2: 30 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Fish Resources Management Amendment Regulations (No. 5) 2015 | 30 Jun 2015 p. 2333-5 | r. 1 and 2: 30 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 4) 2015 | 7 Aug 2015 p. 3200-5 | r. 1 and 2: 7 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Aug 2015 (see r. 2(b))
 Revoked by the West Coast Estuarine Fishery (Interim) Management Plan Revocation Notice 2014 (see Gazette 25 Mar 2014 p. 839).
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 Revoked by the West Coast Rock Lobster Management Plan Revocation Notice 2012 (see Gazette 21 Dec 2012 p. 6656).
@@ -207,7 +208,7 @@ approved72, 144A(1)
 approved automatic location communicator55A
 approved directions55A
 associated camp72
-attend64B, 64M
+attend64B, 64M, 64QA(1)
 authorisation129A
 automatic location communicator55A
 bag limit3(1)
@@ -222,7 +223,7 @@ carrier boat119(1)
 carrier boat licence3(1)
 Central West Zone38(1)
 certificate of health144A(1)
-charter boat16E(1)
+charter boat16E(1), 64L(1A)
 chlorine tarping110(2)
 closed season38G, 45(1)
 commercial fishing licence3(1)
@@ -232,6 +233,7 @@ complying drop net3(1)
 Cottesloe Reef waters3(1)
 courier business147A(1)
 current entitlement118A(2)
+current identification sticker128MA(1A)
 Dampier Archipelago waters64OB(3)
 day124B(1)
 day trip16E(1), 22(5)
@@ -310,7 +312,6 @@ ornamental fish69A(1)
 package22(5), 61(3a)
 pearl oyster farm144A(1)
 Pelsaert Group Zone38(1)
-person engaged for a commercial purpose in an activity64(1A)
 Pilbara and Kimberley Region3(1)
 Point Quobba restricted area113D
 Port of AlbanySch. 5
@@ -327,11 +328,11 @@ recreational fishing licence receipt124A(1)
 region3(1)
 release weight64OAA(1)
 reserve72
+responsible person64(1A)
 restricted fishing tour128S(1)
 return64(1A)
 rock lobster licence72
 rock lobster pot3(1)
-rock lobster pot licence3(1)
 rock lobster tail3(1)
 Rottnest Island ReserveSch. 2 cl. 4(2)
 Rowley Shoals Marine ParkSch. 2

@@ -116,12 +116,12 @@ Crab, Blue Swimmer | 10 (in West Coast region) 20 (in other regions)
 Crab, Mud, all species | 5
 Koonac | N/A
 Marron | 5 (in marron trophy water) 8 (in other waters)
-Prawns, Western School and Western King | 9 litres
+Prawns | 9 litres
 Redclaw, Queensland | N/A
 Rock Lobster, all species | 8
 Yabbies, Common and White | N/A
 Other crustacean species not specified above | 10
-[Part 5 inserted in Gazette 29 Jan 2013 p. 317; amended in Gazette 28 Jun 2013 p. 2893-4.]
+[Part 5 inserted in Gazette 29 Jan 2013 p. 317; amended in Gazette 28 Jun 2013 p. 2893-4; 7 Aug 2015 p. 3204.]
 ## Part 6 — Bag limits — molluscs and other invertebrates
 [r. 65H]
 [Heading inserted in Gazette 29 Jan 2013 p. 318.]
