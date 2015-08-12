@@ -18,6 +18,7 @@ First Home Owner Grant Amendment Regulations 2011 | 9 Sep 2011 p. 3684-5 | r. 1 
 First Home Owner Grant Amendment Regulations 2013 | 17 May 2013 p. 1986 | r. 1 and 2: 17 May 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 May 2013 (see r. 2(b))
 First Home Owner Grant Amendment Regulations (No. 2) 2013 | 17 Dec 2013 p. 6239-40 | r. 1 and 2: 17 Dec 2013 (see r. 2(a)); Regulations other than r. 1, 2 and 4: 18 Dec 2013 (see r. 2(c)); r. 4: 1 Jan 2014 (see r. 2(b))
 First Home Owner Grant Amendment Regulations 2015 | 26 Jun 2015 p. 2277-8 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+First Home Owner Grant Amendment Regulations (No. 2) 2015 | 11 Aug 2015 p. 3221-2 | r. 1 and 2: 11 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Aug 2015 (see r. 2(b))
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 5(d).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -28,9 +29,11 @@ confidential information11(3)
 delegate9(1)
 interested person3
 new home7(2b)
+Nyamba Buru Yawuru Ltd7(4)
 primary production business5(2)
 protected web site11(3)
 relevant owner of land7(4)
 State Housing Commission7(4)
 the records9(4)
 witness10(1)
+Yawuru Home Ownership Project7(4)
