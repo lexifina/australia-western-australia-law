@@ -11,6 +11,7 @@ Food Amendment Regulations 2015 | 20 Mar 2015 p. 905-6 | r. 1 and 2: 20 Mar 2015
 Reprint 1: The Food Regulations 2009 as at 15 May 2015 (includes amendments listed above)
 Food Amendment Regulations (No. 2) 2015 | 19 May 2015 p. 1760 | r. 1 and 2: 19 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Food Amendment Regulations (No. 3) 2015 | 28 Jul 2015 p. 3083 | r. 1 and 2: 28 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jul 2015 (see r. 2(b))
+Food Amendment Regulations (No. 4) 2015 | 11 Aug 2015 p. 3219-20 | r. 1 and 2: 11 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Aug 2015 (see r. 2(b))
 The Food Act 2008 s. 147(14) commenced 24 Oct 2009.
 Deleted by the Food Act 2008 s. 147(11).
 Defined terms
@@ -49,7 +50,7 @@ poultry standard36(1A)
 primary producer20(1)
 primary production of seafood4(1)
 processing premises17
-proprietor17, 28, 39(1)
+proprietor17, 17, 28, 39(1)
 public hospital4(1)
 registered establishment3
 requirements of the wild game standard49(1)
