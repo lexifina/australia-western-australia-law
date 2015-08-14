@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Chattel Securities Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 August 2015 of the Chattel Securities Regulations 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Chattel Securities Regulations 1988 | 5 Aug 1988 p. 2630-1 | 29 Aug 1988 (see r. 2)
@@ -22,8 +22,8 @@ Chattel Securities Amendment Regulations 2011 | 22 Jun 2011 p. 2337-8 | r. 1 and
 Chattel Securities Amendment Regulations 2012 | 15 Jun 2012 p. 2583 | r. 1 and 2: 15 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Chattel Securities Amendment Regulations 2013 | 20 Aug 2013 p. 3825 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Chattel Securities Amendment Regulations 2014 | 8 Jan 2015 p. 83-4 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Reprint 3: The Chattel Securities Regulations 1988 as at 14 Aug 2015 (includes amendments listed above)
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Repealed by the Taxi Act 1994.
 Repealed by the Fish Resources Management Act 1994.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -37,3 +37,4 @@ registration number3
 serial number3
 vehicle identification number3
 vessel3
+By Authority: JOHN A. STRIJK, Government Printer
