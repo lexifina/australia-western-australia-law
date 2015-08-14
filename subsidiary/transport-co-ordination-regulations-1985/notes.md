@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Transport Co-ordination Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 August 2015 of the Transport Co-ordination Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Transport Co-ordination Regulations 1985 | 20 Dec 1985 p. 4835-55 | 1 Jan 1986 (see r. 2)
@@ -27,10 +27,11 @@ Transport Co-ordination Amendment Regulations 2011 | 17 May 2011 p. 1827 | r. 1 
 Transport Co-ordination Amendment Regulations (No. 2) 2012 | 5 Jun 2012 p. 2367-8 | r. 1 and 2: 5 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Transport Co-ordination Amendment Regulations (No. 2) 2013 | 28 Jun 2013 p. 2802 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2013 (see r. 2(b))
 Transport Co-ordination Amendment Regulations (No. 2) 2014 | 13 Jun 2014 p. 1903-4 | r. 1 and 2: 13 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
-Transport Co-ordination Amendment Regulations 2014 | 8 Jan 2015 p. 69-71 (as amended in Gazette 17 Apr 2015 p. 1388) | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Transport Co-ordination Amendment Regulations 2014 | 8 Jan 2015 p. 69-71 (as amended 17 Apr 2015 p. 1388) | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Transport Co-ordination Amendment Regulations (No. 2) 2015 | 12 Jun 2015 p. 2033-4 | r. 1 and 2: 12 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
-Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2), a reference in a written law to the clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the registrar of the Magistrates Court. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
-Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
+Reprint 4: The Transport Co-ordination Regulations 1985 as at 14 Aug 2015 (includes amendments listed above)
+Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2), a reference in a written law to the clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the registrar of the Magistrates Court. The reference to the clerk in Form 21 was amended under the Reprints Act 1984 s. 7(5)(a).
+Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The references to the court in Form 21 were amended under the Reprints Act 1984 s. 7(5)(a).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
