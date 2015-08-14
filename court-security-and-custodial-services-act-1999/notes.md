@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Court Security and Custodial Services Act 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 14 August 2015 of the Court Security and Custodial Services Act 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Court Security and Custodial Services Act 1999 | 46 of 1999 | 8 Dec 1999 | s. 1 and 2: 8 Dec 1999; Act other than s. 1, 2 and Pt. 5: 18 Dec 1999 (see s. 2(1) and Gazette 17 Dec 1999 p. 6175); Pt. 5: 18 Jun 2000 (see s. 2(2) and Gazette 16 Jun 2000 p. 2939)
@@ -24,14 +24,13 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 13 | 35 of 
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 11 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Declared Places (Mentally Impaired Accused) Act 2015 s. 85 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 4: The Court Security and Custodial Services Act 1999 as at 14 Aug 2015 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 6 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 The “Inspector provisions” as defined in the Prisons Amendment Act 1999 s. 2(4) came into operation on 18 Jun 2000 (see Gazette 16 Jun 2000 p. 2939).
-The Inspector of Custodial Services Act 2003 s. 57 and Sch. 3 are transitional provisions.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 6 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 6 had not come into operation. It reads as follows:
 Part 4 — Amendments to other Acts
 Division 4 — Other Acts amended
 Subdivision 6 — Court Security and Custodial Services Act 1999 amended
