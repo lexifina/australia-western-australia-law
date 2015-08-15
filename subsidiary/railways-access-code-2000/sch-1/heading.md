@@ -64,3 +64,4 @@ Urban Network
 TPI Railway and Port Agreement Route
 52.All tracks that are part of the railway constructed pursuant to the TPI Railway and Port Agreement.
 [Schedule 1 inserted in Gazette 23 Jul 2004 p. 2993-5; amended in Gazette 23 Jun 2009 p. 2416; amended by No. 77 of 2004 s. 13.]
+[Schedule 1, modifications have effect under the Railway (Roy Hill Infrastructure Pty Ltd) Agreement Act 2010 s. 13. See note 1M.]
