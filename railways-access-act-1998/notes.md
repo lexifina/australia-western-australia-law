@@ -9,11 +9,12 @@ Reprint of the Railways (Access) Act 1998 as at 2 Feb 2001 (includes amendments 
 Reprint of the Railways (Access) Act 1998 as at 12 Oct 2001 (includes amendments listed above)
 Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 63 | 7 of 2002 | 19 Jun 2002 | 1 Jul 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
 Public Transport Authority Act 2003 s. 152 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
-Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
+Economic Regulation Authority Act 2003 Sch. 2 Div. 12 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
 Railway and Port (The Pilbara Infrastructure Pty Ltd) Agreement Act 2004 Pt. 3 Div. 1 | 77 of 2004 | 8 Dec 2004 | 1 Jul 2008 (see s. 2(2) and Gazette 17 Jun 2008 p. 2543)
 Reprint 3: The Railways (Access) Act 1998 as at 8 Aug 2008 (includes amendments listed above)
 Rail Safety Act 2010 Pt. 11 Div. 5 | 18 of 2010 | 28 Jun 2010 | 1 Feb 2011 (see s. 2(b) and Gazette 28 Jan 2011 p. 241)
 Railway and Port (The Pilbara Infrastructure Pty Ltd) Agreement Amendment Act 2010 Pt. 3 | 60 of 2010 | 10 Dec 2010 | 11 Dec 2010 (see s. 2(b))
+Under the Railway (Roy Hill Infrastructure Pty Ltd) Agreement Act 2010 Pt. 3, this Act must be applied with the modifications set out in that Part. Those modifications have effect on and from 15 Aug 2015 until that Part expires in accordance with s. 15 of that Act.
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the National Rail Corporation Agreement Repeal Act 1999 s. 3.
 Now known as the Railways (Access) Act 1998; short title changed (see note under s. 1).
