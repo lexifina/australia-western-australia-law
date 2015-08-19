@@ -11,6 +11,7 @@ Family Court Amendment Regulations 2011 | 13 May 2011 p. 1737-47 | r. 1 and 2: 1
 Reprint 2: The Family Court Regulations 1998 as at 2 Mar 2012 (includes amendments listed above)
 Family Court Amendment Regulations 2012 | 14 Dec 2012 p. 6235-51 | r. 1 and 2: 14 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b))
 Family Court Amendment Regulations (No. 2) 2015 | 10 Jul 2015 p. 2779-83 | r. 1 and 2: 10 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jul 2015 (see r. 2(b)(ii) and Cwlth Select Legislative Instrument No. 114 registered on 12 Jul 2015)
+Family Court Amendment Regulations (No. 3) 2015 | 18 Aug 2015 p. 3299-301 | r. 1 and 2: 18 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2015 (see r. 2(b))
 Deleted by the Supreme Court Amendment Rules (No. 5) 2001.
 The Family Court Amendment Regulations 2015 were repealed before the provisions of those regulations that were to amend the Family Court Regulations 1998 came into operation. See the Family Court Amendment Repeal Regulations 2015 in Gazette 30 June 2015 p. 2340.
 Defined terms
@@ -18,11 +19,12 @@ Defined terms
 Defined termProvision(s)
 authorised officer3(1)
 business day18
-commencement day22(1)
+commencement day22(1), 24(1)
 conciliation conference18
 conciliation conference fee18
 court3(1)
 CPI number21I(1)
+current fees24(1)
 earlier CPI number21I(4)
 eligible financial or parenting proceedings18
 Family Law Regulations3(1)
@@ -37,6 +39,7 @@ latest CPI number21I(4)
 liable person18
 March quarter21I(1)
 old regulations23(1)
+refund period24(1)
 relevant court18
 relevant period21I(1)
 section3(1)
