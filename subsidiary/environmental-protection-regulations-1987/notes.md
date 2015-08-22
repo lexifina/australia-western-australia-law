@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 5 December 2014 of the Environmental Protection Regulations 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Environmental Protection Regulations 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Environmental Protection Regulations 1987 | 20 Feb 1987 p. 444-9 | 20 Feb 1987 (see r. 2 and Gazette 20 Feb 1987 p. 440)
@@ -69,10 +69,11 @@ Environmental Protection Amendment Regulations 2013 | 20 Aug 2013 p. 3856-7 | r.
 Environmental Protection Amendment Regulations (No. 2) 2013 | 24 Sep 2013 p. 4385-6 | r. 1 and 2: 24 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Sep 2013 (see r. 2(b))
 Environmental Protection Amendment Regulations (No. 3) 2014 | 1 Aug 2014 p. 2823-4 | r. 1 and 2: 1 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Aug 2014 (see r. 2(b))
 Reprint 8: The Environmental Protection Regulations 1987 as at 5 Dec 2014 (includes amendments listed above)
+Environmental Protection Amendment Regulations 2015 | 21 Aug 2015 p. 3336 | r. 1 and 2: 21 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Aug 2015 (see r. 2(b))
 Published in Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Environment Regulation.
 Proclaimed 1 July 1988 in Gazette 26 June 1998 p. 3369.
-At the time of this reprint section 110H of the Act provides for the establishment of an account called the Waste Management and Recycling Account.
+At the time of this compilation section 110H of the Act provides for the establishment of an account called the Waste Management and Recycling Account.
 Expired 30 June 2012.
 The Environmental Protection Amendment Regulations (No. 3) 1996 r. 7 (as amended by the Environmental Protection Amendment Regulations (No. 6) 1996 r. 10) is a transitional provision that is of no further effect.
 The amendment in the Environmental Protection Amendment Regulations (No. 5) 2000 r. 12 referring to items 8 and 9 of Schedule 6 is not included because these items were previously deleted in Gazette 19 December 2000 p. 7284.
