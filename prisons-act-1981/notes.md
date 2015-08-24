@@ -53,6 +53,7 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Reprint 7: The Prisons Act 1981 as at 21 Jan 2011 (includes amendments listed above)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 42 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 15 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
+Custodial Legislation (Officers Discipline) Amendment Act 2014 Pt. 2 | 29 of 2014 | 3 Dec 2014 | 24 Aug 2015 (see s. 2(b) and Gazette 21 Aug 2015 p. 3310)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Declared Places (Mentally Impaired Accused) Act 2015 s. 88 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 16 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
@@ -60,7 +61,6 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2(d))
-Custodial Legislation (Officers Discipline) Amendment Act 2014 Pt. 2 | 29 of 2014 | 3 Dec 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
 Under the Alteration of Statutory Designations Order (No. 3) 2001, a reference to the Western Australian Prisons Department was, unless the contrary intention appears, to be read and construed as a reference to the Department of Justice.
@@ -95,315 +95,57 @@ On the date as at which this compilation was prepared, the Criminal Law Amendmen
 or
 (b) whose release is to be determined by the Governor.
 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Custodial Legislation (Officers Discipline) Amendment Act 2014 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Prisons Act 1981 amended
-3.Act amended
-This Part amends the Prisons Act 1981.
-4.Section 3 amended
-(1) In section 3(1) delete the definition of Appeal Tribunal.
-(2) In section 3(1) insert in alphabetical order:
-remove, in relation to a prison officer, means terminate the employment of the prison officer;
-5.Section 8 amended
-In section 8(1) delete “section 9, 35, 104, 105 or 106.” and insert:
-section 9 or 35.
-6.Section 13 amended
-(1) Delete section 13(3) and insert:
-(3) The Minister may, on the recommendation of the chief executive officer under section 101(1)(b), remove a prison officer engaged under subsection (1).
-(2) In section 13(4) delete “consenting to a dismissal” and insert:
-removal
-7.Part X replaced
-Delete Part X and insert:
-Part X — Discipline of prison officers
-Division 1 — Preliminary
-96.Term used: prison officer
-In this Part —
-prison officer means a person engaged to be a prison officer under section 13(1).
-Division 2 — General discipline
-97.Regulations, rules to be strictly observed
-A prison officer must use his or her best endeavours to ensure that this Act, regulations made under this Act, rules and standing orders are strictly observed.
-98.Application of Public Sector Management Act 1994 Part 5
-Prison officers are prescribed for the purposes of the Public Sector Management Act 1994 section 76(1)(b).
-Division 3 — Removal of prison officers due to loss of confidence
-Subdivision 1 — Preliminary
-99.Terms used
-In this Division, unless the contrary intention appears —
-appeal means an appeal under section 106;
-appellant means a person who institutes an appeal;
-Chief Commissioner has the same meaning as in the Industrial Relations Act 1979;
-decision notice has the meaning given in section 102(3)(b);
-industrial commissioner means a commissioner as defined in the Industrial Relations Act 1979 section 7(1);
-maintenance payment has the meaning given in section 103(1);
-maintenance period has the meaning given in section 103(1);
-new evidence, on an appeal against the removal of a prison officer, means evidence other than evidence of any of the following —
-(a)a document or other material that was examined and taken into account by the chief executive officer in making the removal decision;
-(b)the notice given under section 102(1);
-(c)a written submission made to the chief executive officer by the prison officer under section 102(2);
-(d)a decision notice;
-(e)a notification of the removal;
-prison officer includes a superintendent, or other officer with custodial functions, appointed under section 6(3);
-removal action has the meaning given in section 101;
-removal decision means a decision of the chief executive officer to take removal action;
-suitability to continue as a prison officer means suitability to continue as a prison officer having regard to the officer’s integrity, honesty, competence, performance or conduct;
-WAIRC means The Western Australian Industrial Relations Commission continued and constituted under the Industrial Relations Act 1979.
-Subdivision 2 — Removal of prison officers
-100.Application of Subdivision
-(1) This Subdivision applies if —
-(a) the chief executive officer does not have confidence in a prison officer’s suitability to continue as a prison officer; and
-(b) the chief executive officer —
-(i) decides not to take, or continue to take, disciplinary proceedings under the Public Sector Management Act 1994 Part 5 against a prison officer; and
-(ii) decides instead to take removal action in relation to the prison officer;
-and
-(c) in the case of a prison officer engaged under section 13(1), the Minister consents to the taking of removal action in relation to the prison officer.
-(2) This Subdivision applies despite the Public Sector Management Act 1994 section 76(2).
-101.Removal action
-(1) If the chief executive officer does not have confidence in a prison officer’s suitability to continue as a prison officer, the chief executive officer may take the following action (removal action) —
-(a) in the case of a prison officer appointed under section 6(3) — remove the prison officer;
-(b) in the case of a prison officer engaged under section 13(1) — recommend to the Minister that the prison officer be removed under section 13(3).
-(2) Subsection (1)(a) applies in addition to, and does not limit the operation of, the Public Sector Management Act 1994.
-(3) The chief executive officer may conduct any necessary investigation to determine a prison officer’s suitability to continue as a prison officer.
-(4) For the purpose of the investigation the chief executive officer may require the prison officer to do all or any of the following —
-(a) provide the chief executive officer with any information or answer any question that the chief executive officer requires;
-(b) produce to the chief executive officer any document in the custody or under the control of the prison officer.
-(5) The prison officer is not excused from giving information, answering any question or producing a document when required to do so under subsection (4) on the ground that the information, answer or document might —
-(a) incriminate the prison officer; or
-(b) render the prison officer liable to a disciplinary measure under Division 2 or removal under this Division.
-(6) The information, answer or document is not admissible in evidence against the prison officer in any criminal proceedings except in proceedings for an offence under subsection (7).
-(7) A prison officer must not, in response to a requirement under subsection (4) —
-(a) fail or refuse to provide the required information or answer or produce the required document; or
-(b) give information or an answer that is false or misleading in a material particular; or
-(c) produce a document that the prison officer knows is false or misleading in a material particular —
-(i) without indicating that the document is false or misleading and, to the extent the prison officer can, how the document is false or misleading; and
-(ii) if the prison officer has, or can reasonably obtain, the correct information — without providing the correct information.
-Penalty: a fine of $4 000 or 12 months’ imprisonment, or both.
-102.Notice of loss of confidence
-(1) The chief executive officer may give a prison officer a written notice setting out the grounds on which the chief executive officer does not have confidence in the prison officer’s suitability to continue as a prison officer.
-(2) The prison officer may make written submissions to the chief executive officer in relation to the notice within the following period (the submission period) —
-(a) 21 days after the day on which the notice is given; or
-(b) any longer period after that day allowed by the chief executive officer.
-(3) After the submission period, the chief executive officer must —
-(a) decide whether or not to take removal action against the prison officer; and
-(b) give the prison officer written notice of the decision (the decision notice).
-(4) The chief executive officer must not decide to take removal action against the prison officer unless the chief executive officer —
-(a) has taken into account any written submissions received from the prison officer during the submission period; and
-(b) still does not have confidence in a prison officer’s suitability to continue as a prison officer.
-(5) If the chief executive officer decides to take removal action against the prison officer, the decision notice must contain the reasons for the decision.
-(6) Except as provided in the regulations, the chief executive officer must, within 7 days after giving the decision notice —
-(a) give to the prison officer a copy of any documents that were considered by the chief executive officer in making the decision; and
-(b) make available to the prison officer for inspection any other materials that were considered by the chief executive officer in making the decision.
-(7) The removal action may be carried out when the notice is given or at any time after that.
-103.Maintenance payment
-(1) If a prison officer is removed as a result of removal action, the prison officer is entitled to receive a payment (a maintenance payment) for the period of 28 days after the day on which the prison officer is removed (the maintenance period).
-(2) The Minister may, in exceptional circumstances, direct that a maintenance payment must be paid to the prison officer for a specified period after the maintenance period.
-(3) For the purpose of subsection (2), the specified period is a period not exceeding 6 months specified by the Minister but in any event ending on the day any appeal is determined by the WAIRC.
-(4) Any maintenance payment must be determined on the basis of the salary of the prison officer at the time of the removal.
-104.Withdrawal of removal action and revocation of removal
-(1) If removal action does not result in the removal of a prison officer, the chief executive officer may, by notice in writing to the prison officer, withdraw the removal action.
-(2) If a prison officer is removed as a result of removal action, the chief executive officer may, by notice in writing to the prison officer, revoke the removal.
-(3) Subsection (2) applies even if an appeal has been instituted against the removal.
-(4) Despite any other enactment, if the removal is revoked under subsection (2), the removal is to be taken to be of no effect and to have never had any effect.
-(5) If the chief executive officer revokes the removal of a prison officer under subsection (2), the prison officer is not entitled to be paid his or her salary for any period the prison officer received a maintenance payment.
-105.Resignation of prison officer who has been removed
-(1) Even if a prison officer is removed as a result of removal action, the prison officer may resign at any time before the end of the maintenance period.
-(2) Subsection (1) does not apply if an appeal has been instituted against the removal.
-(3) A resignation under subsection (1) takes effect at the end of the maintenance period.
-(4) Despite any other enactment, if a prison officer resigns under subsection (1), the removal of the prison officer is to be taken to be of no effect and to have never had any effect.
-Subdivision 3 — Appeal against removal of prison officer
-106.Appeal right
-(1) If a prison officer is removed as a result of removal action, the prison officer may appeal to the WAIRC against the removal decision on the ground that it was harsh, oppressive or unfair.
-(2) The prison officer may institute the appeal by a notice to the chief executive officer stating —
-(a) the reasons for the removal decision being harsh, oppressive or unfair; and
-(b) the nature of the relief sought.
-(3) The appeal cannot be instituted —
-(a) after the maintenance period; or
-(b) if the prison officer has resigned under section 105(1).
-(4) For the purposes of proceedings relating to the appeal, the WAIRC is to be constituted by not less than 3 industrial Commissioners, at least one of whom must be —
-(a) the Chief Commissioner; or
-(b) the Senior Commissioner within the meaning of that term in the Industrial Relations Act 1979.
-(5) The only parties to the appeal are the prison officer and the chief executive officer.
-(6) The prison officer does not have any right of appeal against the removal decision other than under this section.
-107.Proceedings on appeal
-(1) On the hearing of an appeal, the WAIRC must proceed in the following manner —
-(a) first, it must consider the chief executive officer’s reasons for the removal decision;
-(b) second, it must consider the case presented by the appellant as to why the removal decision was harsh, oppressive or unfair;
-(c) third, it must consider the case presented by the chief executive officer in answer to the appellant’s case.
-(2) The appellant has at all times the burden of establishing that the removal decision was harsh, oppressive or unfair.
-(3) Subsection (2) has effect despite any law or practice to the contrary.
-(4) Without limiting the matters to which the WAIRC is otherwise required or permitted to have regard in determining the appeal, it must have regard to —
-(a) the interests of the appellant; and
-(b) the public interest, which is to be taken to include —
-(i) the importance of maintaining public confidence in the integrity, honesty, conduct and standard of performance of prison officers; and
-(ii) the special nature of the relationship between the chief executive officer and prison officers.
-108.Leave to tender new evidence on appeal
-(1) New evidence cannot be tendered to the WAIRC during a hearing of an appeal unless the WAIRC grants leave under subsection (2) or (3).
-(2) The WAIRC may grant the chief executive officer leave to tender new evidence if —
-(a) the appellant consents; or
-(b) it is satisfied that it is in the interests of justice to do so.
-(3) The WAIRC may grant the appellant leave to tender new evidence if —
-(a) the chief executive officer consents; or
-(b) the WAIRC is satisfied that —
-(i) the appellant is likely to be able to use the new evidence to show that the chief executive officer has acted upon wrong or mistaken information; or
-(ii) the new evidence might materially have affected the chief executive officer’s removal decision; or
-(iii) it is in the interests of justice to do so.
-(4) In the exercise of its discretion under subsection (3), the WAIRC must have regard to —
-(a) whether or not the appellant was aware of the substance of the new evidence before the appellant’s removal; and
-(b) whether or not the substance of the new evidence was contained in a document to which the appellant had reasonable access before the appellant’s removal.
-109.Opportunity to consider new evidence
-(1) If the chief executive officer is given leave to tender new evidence under section 108(2) —
-(a) the WAIRC must give the appellant a reasonable opportunity to consider the new evidence; and
-(b) the appellant may, without the leave of the WAIRC, tender new evidence under this section in response to the new evidence tendered by the chief executive officer.
-(2) If the appellant is given leave to tender new evidence under section 108(3), the WAIRC must give the chief executive officer a reasonable opportunity to consider the new evidence.
-110A.Revocation of removal after consideration of new evidence
-(1) If, having considered any new evidence, the chief executive officer revokes the removal under section 104(2) —
-(a) the chief executive officer must give the WAIRC notice of the revocation; and
-(b) the hearing of the appeal is discontinued when the WAIRC receives the notice.
-(2) If the chief executive officer does not give notice under subsection (1), the hearing of the appeal must continue but the chief executive officer may —
-(a) reformulate his or her reasons for not having confidence in the appellant’s suitability to continue as a prison officer; and
-(b) without the leave of the WAIRC, tender new evidence under this section in response to the new evidence tendered by the appellant.
-(3) Reasons reformulated under subsection (2)(a) may differ from, or be additional to, the reasons given to the appellant in the decision notice.
-(4) If the chief executive officer reformulates reasons under subsection (2)(a) —
-(a) the chief executive officer must give the WAIRC and the appellant notice in writing of the reasons before the resumption of the hearing of the appeal; and
-(b) the WAIRC must consider the reasons as if they had been reasons given to the appellant in the decision notice.
-110B.Application of Industrial Relations Act 1979 to appeals
-The provisions of the Industrial Relations Act 1979 listed in the Table apply to, and in relation to, an appeal and its determination, subject to —
-(a) any specific modifications set out in the Table; and
-(b) all other necessary modifications.
-Table
-s. 26(1)(a) and (b)
-s. 26(3)
-s. 27(1)(b), (c), (d), (e), (f), (h), (ha), (hb), (l), (m), (n), (o) and (v)
-s. 27(1a)
-s. 28 | The section applies only in relation to powers conferred by section 27 listed in this Table.
-s. 31(1) | Paragraphs (b) and (c) do not apply but the subsection is to be read as if it contained the following paragraphs — “(b)with the leave of the Commission, by an agent; or (c)by a legal practitioner. ”.
-s. 31(3)
-s. 31(5)
-s. 32 | Section 32(1) is to be read as if a reference to “Where an industrial matter has been referred to the Commission the Commission shall, unless it” were a reference to “Where the Commission is dealing with an appeal instituted under the Prisons Act 1981 section 106, a member of the Commission may recommend that the parties to the appeal, unless he or she”. References to “the matter” and “an industrial matter” are to be read as if they were references to “the appeal”. For the purposes of subsections (2) and (3), Commission does not include an industrial commissioner constituting the WAIRC to hear the appeal. Subsections (4), (6), (7) and (8) do not apply.
-s. 33 | A summons must not be issued under section 33(1)(a) to the Governor. A summons may be issued to the chief executive officer or the Minister but only at the direction of a commissioner appointed under the Industrial Relations Act 1979 if that commissioner is satisfied that there are extraordinary grounds for doing so. A summons may not be issued to any other person except at the direction of a commissioner.
-s. 34 | A reference in subsection (1) to “an award, order, or declaration” is to be read as if it were a reference to “an order”. A reference in subsection (3) to “the President, the Full Bench, or the Commission” is to be read as if it were a reference to “the Commission”. A reference in subsection (4) to “no award, order, declaration, finding, or proceeding of the President, the Full Bench, or the Commission” is to be read as if it were a reference to “no decision, order, finding or proceeding of the Commission”.
-s. 35
-s. 36
-s. 86 | The section does not apply in relation to costs and expenses, other than expenses of witnesses.
-s. 90 | A reference in subsection (1) to “any decision of the President, the Full Bench, or the Commission in Court Session” is to be read as if it were a reference to “a decision of the Commission under the Prisons Act 1981 section 110E”.
-110C.Adjournment of appeal if appellant charged with offence
-(1) The chief executive officer or an appellant may apply to the WAIRC for an adjournment of the hearing of an appeal if the appellant has been —
-(a) charged with an offence relating to any matter, act or omission that was taken into account by the chief executive officer in deciding that he or she did not have confidence in the appellant’s suitability to continue as a prison officer; and
-(b) the charge has not been finally determined by a court or otherwise disposed of.
-(2) If an adjournment application is made by the chief executive officer, the WAIRC may adjourn the hearing of the appeal if it considers that it is in the interests of justice to do so.
-(3) If an adjournment application is made by the appellant, the WAIRC must adjourn the hearing of the appeal for the period (not exceeding 12 months) requested by the appellant.
-(4) Before the end of the period of an adjournment under this section, the chief executive officer or the appellant may apply to the WAIRC for a further adjournment and, if it is in the interests of justice to do so, the WAIRC may grant a further adjournment for the period specified by it.
-(5) Subsections (2) and (4) do not affect any other power of the WAIRC to grant an adjournment.
-110D.Resumption of appeal before end of adjournment
-If the charge is finally determined by a court or otherwise disposed of before the end of an adjournment under section 110C, the chief executive officer or the appellant may apply to the WAIRC for the hearing of the appeal to be resumed on a date specified by the WAIRC.
-110E.Decision by WAIRC
-(1) This section applies if the WAIRC decides on an appeal that the decision to take removal action relating to the appellant was harsh, oppressive or unfair.
-(2) The WAIRC may —
-(a) order that the appellant’s removal is, and is to be taken to have always been, of no effect; or
-(b) if it is impracticable to make an order under paragraph (a), order the chief executive officer to pay the appellant an amount of compensation for loss or injury caused by the removal.
-(3) In considering whether or not it is impracticable to make an order under subsection (2)(a), it is relevant to consider —
-(a) whether, at the time of the appellant’s removal, the position occupied by the appellant is vacant; and
-(b) whether there is another suitable vacant position in the Department.
-(4) If the WAIRC makes an order under subsection (2)(a), the appellant is not entitled to be paid his or her remuneration as a prison officer for any period the appellant received a maintenance payment.
-(5) An order under this section may require that it be complied with within a specified time.
-110F.Determining amount of compensation
-(1) An amount of compensation ordered under section 110E(2)(b) must be determined in accordance with this section.
-(2) In determining the amount, the WAIRC must have regard to all of the following —
-(a) the efforts, if any, of the chief executive officer and the appellant to mitigate the loss suffered by the appellant as a result of the removal;
-(b) any maintenance payment received by the appellant;
-(c) any redress the appellant has obtained under another enactment where the evidence necessary to establish that redress is also the evidence necessary to establish on the appeal that the removal was harsh, oppressive or unfair;
-(d) any other matter that the WAIRC considers relevant.
-(3) In determining the amount, the WAIRC may have regard to the average rate of remuneration as a prison officer received by the appellant during any relevant period of service.
-(4) The amount must not exceed 12 months’ remuneration as a prison officer.
-110G.Restriction on publication
-(1) If the WAIRC is satisfied that it is in the public interest, it may direct that any evidence given before it, or the contents of any document produced to it, on an appeal —
-(a) must not be published; or
-(b) must not be published except in a manner, and to persons, specified by the WAIRC.
-(2) A person must not contravene a direction given under this section.
-Penalty: a fine of $4 000 or 12 months’ imprisonment, or both.
-Subdivision 4 — General
-110H.Effect of charge for, or conviction or acquittal of, offence
-The chief executive officer can take removal action in relation to a prison officer for a particular matter, act or omission even if the matter, act or omission is an element of an offence —
-(a) with which the prison officer has been charged; or
-(b) of which the prison officer has been convicted or acquitted.
-110I.Failure to comply with procedure
-An act or omission of the chief executive officer is not invalid, and cannot be called in question, if —
-(a) the act or omission comprises a failure to comply with procedure prescribed for the purposes of this Division; and
-(b) the failure is not substantive.
-110J.Transfer, standing down and leave of prison officer
-(1) This Division does not derogate from the chief executive officer’s power to —
-(a) transfer a prison officer; or
-(b) stand a prison officer down from performing that prison officer’s usual duties, with or without pay, until the prison officer is directed by the chief executive officer to return to those duties; or
-(c) allocate duties to a prison officer other than the prison officer’s usual duties.
-(2) If the chief executive officer stands down a prison officer in relation to whom removal action is being taken, the chief executive officer must review the decision to stand the prison officer down every 60 days and advise the prison officer in writing of the result of the review.
-(3) The chief executive officer must not direct a prison officer in relation to whom removal action is being taken to take leave during the removal action unless the leave accrues during any period that the prison officer is stood down from performing the prison officer’s usual duties.
-110K.Review of Division
-(1) In this section —
-commencement day means the day on which the Custodial Legislation (Officers Discipline) Amendment Act 2014 Part 2 comes into operation.
-(2) The Minister must carry out a review of the operation and effectiveness of this Division as soon as is practicable after the expiry of 24 months after the commencement day and in the course of that review the Minister must consider and have regard to —
-(a) the effectiveness of this Division; and
-(b) the need for the retention of the Division; and
-(c) any other matters that appear to the Minister to be relevant to the operation and effectiveness of this Division.
-(3) Without limiting subsection (2), in carrying out the review, the Minister must consult with and have regard to the views of the Chief Commissioner of the WAIRC, the chief executive officer and any union that has prison officers as some or all of its members.
-(4) The Minister must prepare a report based on the review and, as soon as is practicable after the report is prepared (and in any event not more than 30 months after the commencement day), cause a copy of it to be laid before each House of Parliament.
-8.Section 110 amended
-In section 110(1):
-(a) in paragraph (w) delete “termination arising from or connected with disciplinary matters; and” and insert:
-removal of prison officers under Part X.
-(b) delete paragraph (x).
-9.Part XII inserted
-After section 117 insert:
-Part XII — Savings and transitional provisions for Custodial Legislation (Officers Discipline) Amendment Act 2014
-118.Purpose
-The purpose of this Part is to enact savings and transitional provisions in relation to the Custodial Legislation (Officers Discipline) Amendment Act 2014 Part 2.
-119.Disciplinary offences before commencement day
-(1) In this section —
-commencement day means the day on which the Custodial Legislation (Officers Discipline) Amendment Act 2014 Part 2 comes into operation;
-former disciplinary provisions means Part X as it was in force immediately before the commencement day;
-misconduct, by a prison officer, means conduct by the prison officer that is or is reasonably suspected to be —
-(a)substandard performance or a breach of discipline, as those terms are defined in the Public Sector Management Act 1994; or
-(b)conduct that may result in the chief executive officer taking removal action, as defined in section 99, in relation to the prison officer;
-penalty, under Part X, includes removal of a prison officer.
-(2) Proceedings for a disciplinary offence instituted under the former disciplinary provisions that are pending immediately before the commencement day are to be dealt with and determined under those provisions as if the Custodial Legislation (Officers Discipline) Amendment Act 2014 Part 2 had not come into operation.
-(3) Part X applies to misconduct committed, or suspected of having been committed, by a prison officer before the commencement day but in relation to which proceedings for a disciplinary offence have not been instituted under the former disciplinary provisions.
-(4) However, if misconduct occurring before the commencement day would have constituted a disciplinary offence under the former disciplinary provisions, a penalty cannot be imposed under Part X in relation to the misconduct unless that penalty would also have been able to be imposed for the disciplinary offence under the former disciplinary provisions.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 absence permit3(1), 83(2)
 administrator15A
-Appeal Tribunal3(1)
+appeal99
+appellant99
 cessation declaration114(5)
+Chief Commissioner99
 chief executive officer3(1)
+commencement day 110K(1)
+commencement day119(1)
 Commission114(12)
 contract3(1)
 contract worker15A
 contractor3(1), 113(1)
+decision notice99, 102(3)
 Department3(1)
 District Court judge3(1)
 drugs search49A(1)
 ED, PH95C(1)
 external facility23(1)
 Family Court judge3(1)
+former disciplinary provisions119(1)
 function15A
 gaolSch. 2
 hearing officer74A(1)
 high-level security work3(1)
 independent prison visitor3(1)
+industrial commissioner99
 intervene15A
 jailSch. 2
 judge of the Supreme Court3(1)
 judicial body3(1)
 lock-up3(1)
+maintenance payment99, 103(1)
+maintenance period99, 103(1)
 medical officer3(1)
 medical practitioner3(1)
+misconduct119(1)
+new evidence99
 officer3(1)
 other officer15A
+penalty119(1)
 perform15A
 permit3(1)
 person67A(4)
 prison3(1), Sch. 2
 prison dog49A(1)
 prison offence3(1)
-prison officer3(1), 96, 114(12)
+prison officer3(1), 96, 99, 114(12)
 prison services3(1)
 prisoner3(1)
 proceedings85(4)
@@ -412,6 +154,9 @@ public authority113(1)
 refusal declaration114(3)
 relevant action114(1)
 relevant information113(1)
+removal action99, 101(1)
+removal decision99
+remove3(1)
 repealed Act3(1)
 research113(1)
 rules3(1)
@@ -420,8 +165,11 @@ service provider113(1)
 specified110(3)
 standing orders3(1)
 subcontractor3(1)
+submission period102(2)
+suitability to continue as a prison officer99
 superintendent3(1)
 this Act6(6)
 victim113B(1)
 video link74A(1)
 visiting justice3(1)
+WAIRC99
