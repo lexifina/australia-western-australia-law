@@ -20,7 +20,13 @@ Reprint of the Town Planning Regulations 1967 as at 1 Mar 2002 (includes amendme
 Town Planning Amendment Regulations 2002 | 27 Aug 2002 p. 4357-61 | 27 Aug 2002
 Town Planning Amendment Regulations 2004 | 30 Dec 2004 p. 6958-9 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Town Planning Amendment Regulations 2013 | 14 Nov 2013 p. 5077 | r. 1 and 2: 14 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Nov 2013 (see r. 2(b) and Gazette 14 Nov 2013 p. 5027)
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Planning and Development (Local Planning Schemes) Regulations 2015 r. 78 | 25 Aug 2015 p. 3472 | 19 Oct 2015 (see r. 2(b))
+On the date as at which this compilation was prepared, the Planning and Development (Local Planning Schemes) Regulations 2015 r. 78 had not come into operation. It reads as follows:
+78.Town Planning Regulations 1967 repealed
+The Town Planning Regulations 1967 are repealed.
 Under the Public Sector Management Act 1994 the names of departments can be changed. At the time of this reprint the former Department of Conservation and Environment is called the Department of Environment and Heritage.
 The Town Planning Amendment Regulations 1984 r. 7 was a transitional provision that is of no further effect.
 The Town Planning Amendment Regulations 1986 r. 32 was a transitional provision that is of no further effect.
