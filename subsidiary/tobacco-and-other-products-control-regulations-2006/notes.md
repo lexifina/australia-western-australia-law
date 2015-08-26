@@ -17,6 +17,7 @@ Reprint 2: The Tobacco Products Control Regulations 2006 as at 21 Nov 2014 (incl
 Tobacco Products Control Amendment Regulations (No. 4) 2014 | 12 Dec 2014 p. 4715-16 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
 Tobacco Products Control Amendment Regulations 2015 | 10 Feb 2015 p. 625 | r. 1 and 2: 10 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Tobacco Products Control Amendment Regulations (No. 3) 2015 | 19 May 2015 p. 1757-8 | r. 1 and 2: 19 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Tobacco Products Control Amendment Regulations (No. 4) 2015 | 25 Aug 2015 p. 3379-80 | r. 1 and 2: 25 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Aug 2015 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
