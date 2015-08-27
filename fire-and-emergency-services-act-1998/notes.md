@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 December 2012 of the Fire and Emergency Services Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fire and Emergency Services Act 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fire and Emergency Services Authority of Western Australia Act 1998 | 41 of 1998 | 4 Nov 1998 | s. 1 and 2: 4 Nov 1998; Act other than s. 1 and 2: 1 Jan 1999 (see s. 2 and Gazette 22 Dec 1998 p. 6833)
@@ -17,6 +17,7 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 57 | 8 of 2009 | 21 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 2 (s. 3-44) | 22 of 2012 | 29 Aug 2012 | s. 39: 31 Oct 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255); Pt. 2 other than s. 39: 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Reprint 3: The Fire and Emergency Services Act 1998 as at 7 Dec 2012 (includes amendments as listed above)
+Fire and Emergency Services Amendment Act 2015 | 20 of 2015 | 26 Aug 2015 | s. 1 and 2: 26 Aug 2015 (see s. 2(a)); Act other than s. 1 and 2: 27 Aug 2015 (see s. 2(b))
 Repealed by the Mining Act 1978.
 Now known as the Fire and Emergency Services Act 1998; short title changed (see note under s. 1).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
