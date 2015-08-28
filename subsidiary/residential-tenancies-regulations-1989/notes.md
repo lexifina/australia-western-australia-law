@@ -34,12 +34,12 @@ Reprint 4: The Residential Tenancies Regulations 1989 as at 19 Jul 2013 (include
 Residential Tenancies Amendment Regulations (No. 2) 2013 | 20 Aug 2013 p. 3840 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Electricity Corporations (Consequential Amendments) Regulations 2013 r. 14 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Residential Tenancies Amendment Regulations (No. 2) 2014 | 20 Jan 2015 p. 371 | r. 1 and 2: 20 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Mar 2015 (see r. 2(b))
-Residential Tenancies Amendment Regulations 2015 r. 1-5 | 21 Aug 2015 p. 3311-16 | r. 1 and 2: 21 Aug 2015 (see r. 2(a)); r. 3-5: 22 Aug 2015 (see r. 2(b))
+Residential Tenancies Amendment Regulations 2015 r. 1-6 | 21 Aug 2015 p. 3311-16 | r. 1 and 2: 21 Aug 2015 (see r. 2(a)); r. 3-5: 22 Aug 2015 (see r. 2(b)) r. 6: 28 Aug 2015 (see r. 2(c))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Residential Tenancies Amendment Regulations 2014 r. 3-5 | 21 Mar 2014 p. 730-1 | 1 Feb 2016 (see r. 2(b))
-Residential Tenancies Amendment Regulations 2015 r. 6-9 | 21 Aug 2015 p. 3311-16 | r. 6: 28 Aug 2015 (see r. 2(c)); r. 7 and 9: 20 Sep 2015 (see r. 2(d)); r. 8: 20 Oct 2015 (see r. 2(e))
+Residential Tenancies Amendment Regulations 2015 r. 7-9 | 21 Aug 2015 p. 3311-16 | r. 7 and 9: 20 Sep 2015 (see r. 2(d)); r. 8: 20 Oct 2015 (see r. 2(e))
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Repealed by the Legal Profession Act 2008.
@@ -59,18 +59,7 @@ St Thomas More College means the premises comprising St Thomas More College on M
 (2) The following accommodation at St Thomas More College is prescribed for the purposes of section 5(3)(b) of the Act —
 (a) the student accommodation provided in the building on the western side of the College; and
 (b) the student accommodation provided in the southern-most building of the College.
-On the date as at which this compilation was prepared, the Residential Tenancies Amendment Regulations 2015 r. 6-9 had not come into operation. They read as follows:
-6.Regulation 7D replaced
-Delete regulation 7D and insert:
-7D.Modified application of section 70A of the Act for Foyer Oxford
-(1) In this regulation —
-Foyer Oxford means the premises of that name located at 196 Oxford Street, Leederville, Western Australia.
-(2) This regulation applies to a residential tenancy agreement that —
-(a) creates a tenancy in respect of a residential unit in Foyer Oxford for a fixed term of 6 weeks or less; and
-(b) is not the renewal or extension of an agreement; and
-(c) is entered into between a tenant and Foundation Housing Limited.
-(3) Under section 6(a) of the Act it is provided that section 70A of the Act shall apply to a residential tenancy agreement as if section 70A(3) were modified by deleting “30 days” and inserting:
-7 days
+On the date as at which this compilation was prepared, the Residential Tenancies Amendment Regulations 2015 r. 7-9 had not come into operation. They read as follows:
 7.Schedule 4 Form 1AA amended
 (1) In Schedule 4 Form 1AA Part A before “TERM OF AGREEMENT” insert:
 Giving of notices and information by electronic means
@@ -153,6 +142,7 @@ bond holder15(7)
 commencement day5A(1A)
 deadlock12B(1)
 financially disadvantaged personSch. 3
+Foyer Oxford7D(1)
 Government employee5B(1)
 Housing Authority3A
 housing management agreement3A
