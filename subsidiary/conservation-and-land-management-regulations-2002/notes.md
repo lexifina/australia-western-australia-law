@@ -24,53 +24,8 @@ Conservation and Land Management Amendment Regulations (No. 2) 2014 | 19 Sep 201
 Conservation and Land Management Amendment Regulations 2014 | 8 Jan 2015 p. 135-6 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Conservation and Land Management Amendment Regulations 2015 | 24 Mar 2015 p. 1033-44 | r. 1 and 2: 24 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Mar 2015 (see r. 2(b))
 Conservation and Land Management Amendment Regulations (No. 2) 2015 | 19 Jun 2015 p. 2095-6 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Conservation and Land Management Amendment Regulations(No. 4) 2015 r. 3-5 | 14 Jul 2015 p. 2787-9 | 1 Sep 2015 (see r. 2(b))
-On the date as at which this compilation was prepared the Conservation and Land Management Amendment Regulations (No. 4) 2015 r. 3-5 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Conservation and Land Management Regulations 2002.
-4.Regulation 56 amended
-In regulation 56(5):
-(a) in paragraph (a) delete “$1.50” and insert:
-$1.80
-(b) in paragraph (b) delete “$10.00” and insert:
-$13.00
-5.Schedule 1 amended
-In Schedule 1 amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 1 Div. 3 it. 1 | 15.00 | 19.00
-Sch. 1 Div. 3 it. 2 | 7.50 | 9.50
-Sch. 1 Div. 3 it. 3 | 37.50 | 47.50
-Sch. 1 Div. 3 it. 4 | 10.50 | 13.50
-Sch. 1 Div. 4 it. 1 | 30.50 | 40.00
-Sch. 1 Div. 4 it. 2 | 7.70 | 10.00
-Sch. 1 Div. 4 it. 3 | 64.00 | 90.00
-Sch. 1 Div. 4 it. 4 | 22.00 | 29.00
-Sch. 1 Div. 5 it. 1 | 7.00 | 8.00
-Sch. 1 Div. 5 it. 2 | 54.00 | 57.00
-Sch. 1 Div. 7 it. 1 | 11.00 5.50 27.50 9.00 | 14.00 7.00 35.00 11.00
-Sch. 1 Div. 7 it. 2 | 16.00 11.00 | 17.00 11.50
-Sch. 1 Div. 8 it. 1 | 5.50 | 5.80
-Sch. 1 Div. 8 it. 4 | 100.00 | 115.00
-Sch. 1 Div. 9 it. 1 and 2 | 8.50 | 9.00
-Sch. 1 Div. 10 it. 1 | 8.50 | 10.00
-Sch. 1 Div. 10 it. 2 | 3.20 | 4.00
-Sch. 1 Div. 10 it. 3 | 17.00 | 24.00
-Sch. 1 Div. 10 it. 4 | 6.40 | 8.00
-Sch. 1 Div. 10 it. 5 | 13.00 | 16.00
-Sch. 1 Div. 10 it. 6 | 5.40 | 6.50
-Sch. 1 Div. 10 it. 7 | 32.00 | 38.50
-Sch. 1 Div. 10 it. 8 | 10.80 | 13.00
-Sch. 1 Div. 11 it. 1(a) | 135.00 | 148.00
-Sch. 1 Div. 11 it. 1(b) | 65.00 | 71.00
-Sch. 1 Div. 11 it. 2 | 12.00 | 13.00
-Sch. 1 Div. 11 it. 3(a) | 100.00 | 110.00
-Sch. 1 Div. 11 it. 3(b) | 50.00 | 55.00
-Sch. 1 Div. 11 it. 4(a) | 100.00 | 110.00
-Sch. 1 Div. 11 it. 4(b) | 50.00 | 55.00
+Conservation and Land Management Amendment Regulations (No. 4) 2015 | 14 Jul 2015 p. 2787-9 | r. 1 and 2: 14 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2015 (see r. 2(b))
+Footnote no longer applicable.
 Deleted by the Conservation Legislation Amendment Act 2011 s. 10.
 Repealed by these regulations.
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
