@@ -1,6 +1,6 @@
 ## Schedule 1
 [r. 5]
-[Heading inserted in Gazette 1 Apr 2008 p. 1280.]
+[Heading inserted: Gazette 1 Apr 2008 p. 1280.]
 SPENT CONVICTIONS ACT 1988 — SECTION 7(1)
 APPLICATION FOR CERTIFICATE THAT LESSER CONVICTION IS SPENT
 Particulars of applicant —
