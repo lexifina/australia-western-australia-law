@@ -134,6 +134,10 @@ Supreme Court Amendment Rules (No. 3) 2013 | 17 Dec 2013 p. 6231-7 | r. 1 and 2:
 Reprint 9: The Rules of the Supreme Court 1971 as at 4 Apr 2014 (includes amendments listed above)
 Supreme Court Amendment Rules (No. 2) 2014 | 26 Sep 2014 p. 3559-62 | r. 1 and 2: 26 Sep 2014 (see r. 2(a)); Rules other than r. 1 and 2: 27 Sep 2014 (see r. 2(b))
 Supreme Court Amendment Rules 2014 | 19 Dec 2014 p. 4845-9 | r. 1 and 2: 19 Dec 2014 (see r. 2(a)); Rules other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Supreme Court Amendment Rules (No. 4) 2015 r. 3-5 | 4 Sep 2015 p. 3696-8 | 18 Sep 2015 (see r. 2(b))
 Formerly referred to The Electoral Rules of 1908, the citation of which was changed to the Electoral Rules 1908 by the Electoral Amendment Rules 2009 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Commercial Arbitration Act 1985 was repealed by the Commercial Arbitration Act 2012 s. 44.
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
@@ -143,6 +147,40 @@ The commencement date of 1 Jul 1982 that was specified was before the date of ga
 The Supreme Court Amendment Rules 1994 r. 14 is a transitional provision that has no further effect.
 Disallowed on 10 Mar 1998, see Gazette 13 Mar 1998 p. 1389.
 Disallowed on 29 Oct 2013, see Gazette 1 Nov 2013 p. 4910.
+On the date as at which this compilation was prepared, the Supreme Court Amendment Rules (No. 4) 2015 r. 3-5 had not come into operation. They read as follows:
+3.Rules amended
+These rules amend the Rules of the Supreme Court 1971.
+4.Order 24A amended
+(1) Delete Order 24A rules 1 and 2 and insert:
+1.Parties entitled to make offer
+In any proceedings the plaintiff or the defendant may make to the other an offer to compromise any claim in the proceedings on the terms specified in the notice of offer.
+2.Application of this Order to counterclaims and third party notices
+Where a party makes a claim by way of counterclaim or third party notice, this Order applies in relation to the proceeding on that claim as if —
+(a) the party making the claim were the plaintiff; and
+(b) the party against whom the claim is made were the defendant.
+3A.How to make offer
+(1) An offer of compromise is made to a party under this Order by serving a notice of the offer on the party.
+(2) A notice of offer is to —
+(a) be in writing; and
+(b) bear a statement to the effect that the offer is made under this Order.
+(2) Delete Order 24A rule 8(2) and insert:
+(2) Where a party to an accepted offer fails to comply with the terms of the offer, and another party in the proceedings has made a claim which is not the subject of the accepted offer, the Court may make such order or give such judgment under subrule (1), and make such order that the proceeding on that other party’s claim be continued, as it thinks fit.
+(3) Delete Order 24A rule 10(3) and insert:
+(3) Subrules (4) and (5) apply to an offer which has not been accepted in the time prescribed by rule 3(5) if the Court is satisfied by the party who made the offer that the party was at all material times willing and able to comply with the terms of the offer.
+(4) In Order 24A rule 10(4) delete “basis.” and insert:
+basis, except as provided in subrule (5A).
+(5) Delete Order 24A rule 10(4a) and insert:
+(5A) If the Court is satisfied that the failure by the defendant to accept the offer made by the plaintiff was unreasonable, the plaintiff’s costs from the date on which the offer was made are to be taxed on an indemnity basis, unless the interests of justice require otherwise.
+(6) In Order 24A rule 10(5) and (6) delete “basis.” and insert:
+basis, except as provided in subrule (7A).
+(7) After Order 24A rule 10(6) insert:
+(7A) If the Court is satisfied that the failure by the plaintiff to accept the offer made by the defendant was unreasonable, the defendant’s costs are to be taxed on an indemnity basis, unless the interests of justice require otherwise.
+(8) Delete Order 24A rule 10(9).
+5.Order 81C amended
+In Order 81C rule 5(2) after “CEO” (1st occurrence) insert:
+has
+Note:The heading to Order 6 rule 1 is to read:
+Nature of claim etc. to be indorsed on writ
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
