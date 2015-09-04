@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Spent Convictions Regulations 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 September 2015 of the Spent Convictions Regulations 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Spent Convictions Regulations 1992 | 26 Jun 1992 p. 2715-22 | 1 Jul 1992 (see r. 2 and Gazette 26 Jun 1992 p. 2644)
@@ -14,3 +14,4 @@ Spent Convictions Amendment Regulations (No. 3) 2014 | 27 Jun 2014 p. 2351 | r. 
 Spent Convictions Amendment Regulations (No. 5) 2014 | 23 Sep 2014 p. 3476-7 | r. 1 and 2: 23 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Sep 2014 (see r. 2(b))
 Spent Convictions Amendment Regulations 2014 | 12 Dec 2014 p. 4719-20 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
 Spent Convictions Amendment Regulations 2015 | 10 Feb 2015 p. 621 | r. 1 and 2: 10 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Reprint 3: The Spent Convictions Regulations 1992 as at 4 Sep 2015 (includes amendments listed above)
