@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity (Licensing) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 September 2015 of the Electricity (Licensing) Regulations 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Electricity (Licensing) Regulations 1991 | 14 Oct 1991 p. 5249-99 (corrigendum 1 Nov 1991 p. 5665) | 1 Nov 1991 (see r. 2)
@@ -43,11 +43,12 @@ Electricity (Licensing) Amendment Regulations (No. 2) 2014 | 17 Jun 2014 p. 1963
 Electricity (Licensing) Amendment Regulations 2014 | 8 Jan 2015 p. 97 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Electricity (Licensing) Amendment Regulations 2015 | 23 Jun 2015 p. 2171-3 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Electricity (Network Safety) Regulations 2015 r. 43 | 5 Aug 2015 p. 3141-96 | 6 Aug 2015 (see r. 2(b))
+Reprint 7: The Electricity (Licensing) Regulations 1991 as at 4 Sep 2015 (includes amendments listed above)
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
 Repealed by the Training Legislation Amendment and Repeal Act 2008 s. 50.
 The Training Legislation Amendment and Repeal Act 2008 Pt. 2 came into operation 10 June 2009.
-Now called the Tradespersons’ Rights Regulation Act 1946 (Cwlth.).
+Now called the Tradespersons’ Rights Regulation Act 1946 (Cwlth).
 The Electricity (Licensing) Amendment Regulations 2007 r. 5(4) reads as follows:
 5.Regulation 5 amended and transitional
 (4) For the purposes of the appointment of a person in accordance with the Electricity (Licensing) Regulations 1991 regulation 5(2)(b)(i) and (d)(i), as amended by this regulation, regard may be had to any period during which the person was the holder of an “A” grade licence for electrical installing work issued under the Electricity (Licensing) Regulations 1991, as in force before the commencement of this regulation.
@@ -107,7 +108,7 @@ relevant licence45A(1)
 relevant network operator3(1)
 required time51(3)
 servicing19(1A)
-supervising electrical worker50(3), 50AA(1)
+supervising electrical worker50(3)(a), 50AA(1)
 temporary builders supply52B(4A)
 W A Electrical Requirements3(1)
 working days3(1)
