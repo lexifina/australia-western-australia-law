@@ -74,6 +74,7 @@ r. 101(2) | A | $5 000 plus a daily amount of $1 000
 r. 106(2) | A | first contravention: $10 000 plus a daily amount of $2 000 subsequent contraventions: $20 000 plus a daily amount of $2 000
 r. 115(1) | A | $10 000 plus a daily amount of $2 000
 r. 115(3) | A | $10 000 plus a daily amount of $2 000
+r. 115A(3) | A | $10 000 plus a daily amount of $2 000
 r. 118(1) | A | $10 000 plus a daily amount of $2 000
 r. 118(3) | A | $10 000 plus a daily amount of $2 000
 r. 119(5) | A | $10 000 plus a daily amount of $2 000
@@ -81,4 +82,4 @@ r. 166 | A | $5 000 plus a daily amount of $1 000
 r. 169(3) | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
 r. 169(5) | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
 r. 173(2) | B | first contravention: $15 000 plus a daily amount of $500 subsequent contraventions: $30 000 plus a daily amount of $1 000
-[Schedule 1 inserted in Gazette 28 Jun 2013 p. 2961-5.]
+[Schedule 1 inserted in Gazette 28 Jun 2013 p. 2961-5; amended in Gazette 8 Sep 2015 p. 3720.]
