@@ -1,6 +1,6 @@
 ## First Schedule — Constitution
 [Preamble]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 THE CONSTITUTION OF THE ANGLICAN CHURCH OF AUSTRALIA
 PART I
 Chapter I — Fundamental Declarations
@@ -125,7 +125,7 @@ This section extends to altering the constitution of a province by substituting 
 42.A provincial synod or a provincial council shall have such powers for the order and good government of this Church within the province as may be prescribed by the constitution of the province.
 Chapter VIII — The Dioceses and Diocesan Synods
 Dioceses
-43.A diocese of the Anglican Church in Australia and Tasmania shall, subject to this Constitution, continue as at the date on which this constitution takes effect, until altered in accordance therewith.
+43.A diocese of the Anglican Church in Australia and Tasmania shall, subject to this Constitution, continue as at the date on which this Constitution takes effect, until altered in accordance therewith.
 44.(1)A new diocese may be formed in any of the following ways, that is to say: —
 (a)By separation of territory from a diocese.
 (b)By the union of two or more dioceses or parts of dioceses.
@@ -276,7 +276,7 @@ Nothing in this Constitution shall authorise the synod of a diocese or of a prov
 “this Church” means the Church of England in Australia;
 “this Constitution” or “the Constitution” means the Constitution of this Church;
 “voting by houses” means the procedure whereby three distinct votes are taken, that is to say, a vote of the house of laity, a vote of the house of clergy, and a vote of the house of bishops.
-(2)In this Constitution “the Book of Common Prayer” means the Book of Common Prayer as received by the Anglican Church of Australia in the Dioceses of Australia and Tasmania before and in the year of out Lord, one thousand nine hundred and fifty-five, that is to say, the book entituled “The Book of Common Prayer and Administration of the Sacraments and other rites and ceremonies of the Church according to the use of the Anglican Church of Australia together with the Psalter or Psalms of David pointed as they are to be sung or said in churches and the form or manner of making, ordaining and consecrating of bishops, priests and deacons,” and generally known as the Book of Common Prayer, 1662.
+(2)In this Constitution “the Book of Common Prayer” means the Book of Common Prayer as received by the Anglican Church of Australia in the Dioceses of Australia and Tasmania before and in the year of our Lord, one thousand nine hundred and fifty-five, that is to say, the book entituled “The Book of Common Prayer and Administration of the Sacraments and other rites and ceremonies of the Church according to the use of the Anglican Church of Australia together with the Psalter or Psalms of David pointed as they are to be sung or said in churches and the form or manner of making, ordaining and consecrating of bishops, priests and deacons,” and generally known as the Book of Common Prayer, 1662.
 (3)In this Constitution “the doctrine and principles of the Church of England embodied in the Book of Common Prayer” and the “articles of religion” sometimes called the “Thirty-nine Articles” means the body of such doctrine and principles.
 (4)In this Constitution, unless the context or subject matter otherwise indicates, any reference to faith shall extend to doctrine.
 (5)In this Constitution “decision of any judicial authority” shall include any judgment, order, decree, sentence or order in council and the reasons, report or recommendation therefor, and “judicial authority” shall include any court, judge, tribunal, body or person having either secular or ecclesiastical jurisdiction, whether before or after the date on which this Constitution takes effect, and without affecting the generality of any other provision of this Constitution it is hereby declared that “judicial authority” shall include the Court which was commonly called the High Court of Delegates, the King’s Majesty in Council to which the powers of that Court were transferred, and the Judicial Committee of the Privy Council.
@@ -304,4 +304,4 @@ SYNOD
 2.Notwithstanding any other provision in this table, each diocese shall be entitled to at least one clerical and one lay representative.
 3.In this table, “clergymen” means persons licensed by the bishop of the diocese to the cure of souls in a parish or in charge of a parochial district or similar pastoral division, or assistant curate licensed in a parish, such persons being in priests’ orders and resident in the diocese concerned.
 This definition shall extend to a bishop, dean, archdeacon, canon, principal, vice-principal and tutors in priests’ orders of a university or theological college, headmaster of a school or chaplain or other clergyman in priests orders licensed to other distinct official position in the diocese so resident and holding the license of the bishop of the diocese, provided that in the case of a chaplain of a school college, hospital or other institution the chaplaincy involves regular spiritual ministrations to persons therein resident or students attendant thereat.
-[First Schedule amended by No. 121 of 1976 s. 7.]
+[First Schedule amended: No. 121 of 1976 s. 7.]
