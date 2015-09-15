@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 21 November 2014 of the Building Regulations 2012 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Building Regulations 2012 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Building Regulations 2012 | 13 Mar 2012 p. 1055-137 | r. 1 and 2: 13 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2012 (see r. 2(b) and Gazette 13 Mar 2012 p. 1033)
@@ -15,8 +15,31 @@ Building Amendment Regulations (No. 3) 2014 | 27 Jun 2014 p. 2308-9 | r. 1 and 2
 Reprint 2: The Building Regulations 2012 as at 21 Nov 2014 (includes amendments listed above)
 Building Amendment Regulations (No. 4) 2015 | 23 Jun 2015 p. 2161-4 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2015 | 30 Jun 2015 p. 2328-9 | r. 1 and 2: 30 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Building Amendment Regulations 2015 r. 3 and 4 | 15 Sep 2015 p. 3783-4 | 1 Oct 2015 (see r. 2(b))
 The Building Act 2011 s. 153 came into operation on 2 April 2012.
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
+On the date as at which this compilation was prepared, the Building Amendment Regulations 2015 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Building Regulations 2012.
+4.Regulation 10 amended
+(1) Before regulation 10(1) insert:
+(1A) In this regulation, each of these terms has the meaning given in the Land Administration Act 1997 section 3(1) —
+managed reserve
+management body
+road
+(2) Delete regulation 10(2) and (3) and insert:
+(2) For the purposes of paragraph (a) of the definition of owner in relation to Crown land in section 5(1), the following persons are prescribed —
+(a) in relation to a managed reserve — the management body of the reserve;
+(b) in relation to a road — whichever of the following persons who, under a written law, has the care, control and management of the road —
+(i) the local government in whose district the road is situated;
+(ii) the Commissioner of Main Roads;
+(iii) the Minister as defined in the Public Works Act 1902 section 2;
+(c) in relation to Crown land that is vested in a person or body under a written law other than the Land Administration Act 1997 — that person or body;
+(d) in relation to Crown land that is subject to a lease, other than land referred to in paragraph (a), (b) or (c) — the Minister for Lands and the lessee;
+(e) in relation to any other Crown land — the Minister for Lands.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
