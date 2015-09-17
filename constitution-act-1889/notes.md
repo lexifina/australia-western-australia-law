@@ -34,6 +34,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4 and 5(1) | 77 of 2006 |
 Reprint 6: The Constitution Act 1889 as at 13 Jul 2007 (includes amendments listed above)
  | Standardisation of Formatting Act 2010 s. 13 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Statutes (Repeals and Minor Amendments) Act 2011 s. 20 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+ | Constitution Amendment (Recognition of Aboriginal People) Act 2015 | 22 of 2015 | 17 Sep 2015 | 17 Sep 2015 (see s. 2)
 N.B.:The Constitution Act 1889 was or is affected by —
 An Act to augment Ministerial Salaries. 55 Vict. No. 23 (1892). (Repealed by 60 Vict. No. 18.)
 The Officers of Parliament Act 1893. (56 Vict. No. 17). (Repealed by 63 Vict. No. 19.)
@@ -62,10 +63,10 @@ See Western Australia Constitution Act 1890 (U.K.) (53 and 54 Vict. c. 26) s. 2 
 [Note the proviso was amended by the Australian States Constitution Act 1907 (U.K.) (7 Ed. VII c. 7).]
 Now known as the Constitution Act 1889; short title amended (see note under s. 1).
 The Aborigines Act 1905 commenced on 23 April 1906 (see s. 1 and Gazette 20 Apr 1906 p. 1221, 21 Apr 1906 p. 1261 and 27 Apr 1906 p. 1263). It is not clear why there were 3 Gazettals.
+Repealed section 42 provided for the postponement of the commencement of Part III. Under that section, Part III came into operation on 18 Oct 1893 (see Gazette 18 Jul 1893 p. 727).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-Aborigines Protection Board75
 Governor in Council75
 Her Majesty75
 Month75
