@@ -7,10 +7,19 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Personal Property Securities (Commonwealth Laws) Act 2011 s. 8(2) and (3) | 41 of 2011 | 4 Oct 2011 | s. 8(2) and (3): to be proclaimed (see s. 2(1)(d) and 2(2))
+Rail Safety National Law (WA) Act 2015 Pt. 5 | 21 of 2015 | 17 Sep 2015 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Personal Property Securities (Commonwealth Laws) Act 2011 s. 8(2) and (3) had not come into operation. They read as follows:
 8.References of matters
 (2) The referred PPS matters in relation to fixtures are referred to the Parliament of the Commonwealth on the day on which this subsection commences, but only to the extent of the making of laws with respect to those matters in relation to fixtures by making express amendments of the Commonwealth PPS Act.
 (3) The referred PPS matters in relation to transferable water rights are referred to the Parliament of the Commonwealth on the day on which this subsection commences, but only to the extent of the making of laws with respect to those matters in relation to such water rights by making express amendments of the Commonwealth PPS Act.
+On the date as at which this compilation was prepared, the Rail Safety National Law (WA) Act 2015 Pt. 5 had not come into operation. It reads as follows:
+Part 5 — Consequential amendments
+50.Various references to “Rail Safety Act 2010” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Rail Safety Act 2010” and insert:
+Rail Safety National Law (WA) Act 2015
+Table
+Personal Property Securities (Commonwealth Laws) Act 2011 | s. 17(1) def. of relevant State property law par. (d)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
