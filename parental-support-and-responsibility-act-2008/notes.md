@@ -5,6 +5,13 @@ Short title | Number and year | Assent | Commencement
 Parental Support and Responsibility Act 2008 | 14 of 2008 | 15 Apr 2008 | 28 Mar 2009 (see s. 2 and Gazette 27 Mar 2009 p. 917)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 14 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 5 | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Children and Community Services Legislation Amendment and Repeal Act 2015 s. 10 | 23 of 2015 | 17 Sep 2015 | 1 Jan 2016 (see s. 2(b) and Gazette 15 Dec 2015 p. 5027)
+On the date as at which this compilation was prepared, the Children and Community Services Legislation Amendment and Repeal Act 2015 s. 10 had not come into operation. It reads as follows:
+10.Parental Support and Responsibility Act 2008 repealed
+The Parental Support and Responsibility Act 2008 is repealed.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
