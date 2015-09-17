@@ -26,6 +26,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 s. 182(3) and 208 | 36 of 1999 | 2 Nov 1999 | To be proclaimed (see s. 2)
+Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 2 | 23 of 2015 | 17 Sep 2015 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Children and Community Services Act 2004.
 On the date as at which this compilation was prepared, the School Education Act 1999 s. 182(3) and 208 had not come into operation. They read as follows:
@@ -41,6 +42,18 @@ The Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 s
 (2) When the meaning of “compulsory education period” changes by operation of section 6(b) of the School Education Act 1999 (inserted by subsection (1)), the change extends to the compulsory education period for a child which, but for the change, would have ended on 31 December 2005.
 The Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 s. 21 is a transitional provision of no further effect.
 The Financial Legislation Amendment and Repeal Act 2006 (now known as the Financial Management (Transitional Provisions) Act 2006) Sch. 2 deals with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 2 had not come into operation. It reads as follows:
+Part 2 — Amendments and repeals relating to responsible parenting agreements
+Division 3 — Other Acts amended
+Subdivision 2 — School Education Act 1999 amended
+18.Act amended
+This Subdivision amends the School Education Act 1999.
+19.Section 26 amended
+In section 26(3) delete “Parental Support and Responsibility Act 2008” and insert:
+Children and Community Services Act 2004
+20.Section 40 amended
+In section 40(3A) delete “Parental Support and Responsibility Act 2008” and insert:
+Children and Community Services Act 2004
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
