@@ -50,6 +50,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 15 | 23 of 2015 | 17 Sep 2015 | 1 Jan 2016 (see s. 2(b) and Gazette 15 Dec 2015 p. 5027)
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
 Now known as the Children’s Court of Western Australia Act 1988; short title changed (see note under s. 1).
 On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 had not come into operation. It reads as follows:
@@ -60,6 +61,29 @@ Act | Provision
 .......................... | ........
 Children’s Court of Western Australia Act 1988 | s. 7(4)
 ...................... | ........
+On the date as at which this compilation was prepared, the Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 1 had not come into operation. It reads as follows:
+Part 2 — Amendments and repeals relating to responsible parenting agreements
+Division 3 — Other Acts amended
+Subdivision 1 — Children’s Court of Western Australia Act 1988 amended
+13.Act amended
+This Subdivision amends the Children’s Court of Western Australia Act 1988.
+14.Section 20 amended
+In section 20(1):
+(a) in paragraph (d) delete “Act 1911; and” and insert:
+Act 1911.
+(b) delete paragraph (e).
+15.Section 24 deleted
+Delete section 24.
+16.Section 36 amended
+Delete section 36(1)(ab).
+17.Section 40 amended
+(1) In section 40(1) delete “person” (each occurrence) and insert:
+child
+(2) In section 40(2):
+(a) in paragraph (a) delete “person,” and insert:
+child,
+(b) in paragraph (b) delete “if the person is a child, by” and insert:
+by
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
