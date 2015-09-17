@@ -76,6 +76,10 @@ Standardisation of Formatting Act 2010 s. 60 | 19 of 2010 | 28 Jun 2010 | 11 Sep
 Metropolitan Redevelopment Authority Act 2011 s. 139 | 45 of 2011 | 12 Oct 2011 | 31 Dec 2011 (see s. 2(b) and Gazette 30 Dec 2011 p. 5573)
 Reprint 9: The Government Railways Act 1904 as at 4 May 2012 (includes amendments listed above)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 25 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Rail Safety National Law (WA) Act 2015 Pt. 5 | 21 of 2015 | 17 Sep 2015 | To be proclaimed (see s. 2(b))
 Office of Titles plans are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 62 is not included because the subsection it sought to amend had been replaced by the Public Transport Authority Act 2003 s. 137(1) before the amendment purported to come into operation.
 The Second Schedule was inserted by the Limitation Act Amendment Act 1954 s. 8.
@@ -170,6 +174,17 @@ The operation of a provision of this Part is not to be regarded as —
 (c) giving rise to a remedy by a party to an instrument, or causing or permitting the termination of any instrument, because of a change in the beneficial or legal ownership of any asset or liability;
 (d) causing any contract or instrument to be void or otherwise unenforceable; or
 (e) releasing, or allowing the release of, any surety.
+On the date as at which this compilation was prepared, the Rail Safety National Law (WA) Act 2015 Pt. 5 had not come into operation. It reads as follows:
+Part 5 — Consequential amendments
+50.Various references to “Rail Safety Act 2010” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Rail Safety Act 2010” and insert:
+Rail Safety National Law (WA) Act 2015
+Table
+Government Railways Act 1904 | s. 2A s. 13(1a)(d) s. 61(5)
+Notes:
+1.In the Government Railways Act 1904, the heading to amended section 2A is to read:
+Relationship of this Act to Rail Safety National Law (WA) Act 2015
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
