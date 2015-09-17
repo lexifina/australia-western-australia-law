@@ -15,6 +15,10 @@ Reprint 3: The Railways (Access) Act 1998 as at 8 Aug 2008 (includes amendments 
 Rail Safety Act 2010 Pt. 11 Div. 5 | 18 of 2010 | 28 Jun 2010 | 1 Feb 2011 (see s. 2(b) and Gazette 28 Jan 2011 p. 241)
 Railway and Port (The Pilbara Infrastructure Pty Ltd) Agreement Amendment Act 2010 Pt. 3 | 60 of 2010 | 10 Dec 2010 | 11 Dec 2010 (see s. 2(b))
 Under the Railway (Roy Hill Infrastructure Pty Ltd) Agreement Act 2010 Pt. 3, this Act must be applied with the modifications set out in that Part. Those modifications have effect on and from 15 Aug 2015 until that Part expires in accordance with s. 15 of that Act.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Rail Safety National Law (WA) Act 2015 Pt. 5 | 21 of 2015 | 17 Sep 2015 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the National Rail Corporation Agreement Repeal Act 1999 s. 3.
 Now known as the Railways (Access) Act 1998; short title changed (see note under s. 1).
@@ -75,6 +79,17 @@ The operation of any provision of this Schedule is not to be regarded —
 (d) as causing any contract or instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
 ”.
+On the date as at which this compilation was prepared, the Rail Safety National Law (WA) Act 2015 Pt. 5 had not come into operation. It reads as follows:
+Part 5 — Consequential amendments
+50.Various references to “Rail Safety Act 2010” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Rail Safety Act 2010” and insert:
+Rail Safety National Law (WA) Act 2015
+Table
+Railways (Access) Act 1998 | s. 8
+Notes:
+2.In the Railways (Access) Act 1998, the heading to amended section 8 is to read:
+Code is subject to Rail Safety National Law (WA) Act 2015
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
