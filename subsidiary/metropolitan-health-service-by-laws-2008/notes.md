@@ -9,6 +9,7 @@ Metropolitan Health Service Amendment By-laws (No. 2) 2011 | 23 Dec 2011 p. 5442
 Metropolitan Health Service Amendment By-laws (No. 2) 2014 | 13 Jun 2014 p. 1878-81 | bl. 1 and 2: 13 Jun 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2014 (see bl. 2(b))
 Metropolitan Health Service Amendment By-laws 2014 | 8 Jan 2015 p. 185-7 | bl. 1 and 2: 8 Jan 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Apr 2015 (see bl. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Metropolitan Health Service Amendment By-laws 2015 | 14 Apr 2015 p. 1337-41 | bl. 1 and 2: 14 Apr 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 15 Apr 2015 (see bl. 2(b))
+Metropolitan Health Service Amendment By-laws (No. 2) 2015 | 18 Sep 2015 p. 3799-800 | bl. 1 and 2: 18 Sep 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 19 Sep 2015 (see bl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
