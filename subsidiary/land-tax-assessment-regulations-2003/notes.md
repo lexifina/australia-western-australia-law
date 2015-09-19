@@ -12,6 +12,7 @@ Land Tax Assessment Amendment Regulations 2009 | 17 Nov 2009 p. 4632-4 | r. 7: 1
 Electricity Corporations (Consequential Amendments) Regulations 2013 r. 13 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Land Tax Assessment Amendment Regulations 2014 | 30 Jun 2014 p. 2425-6 | r. 1 and 2: 30 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i))
 Land Tax Assessment Amendment Regulations (No. 2) 2014 | 19 Sep 2014 p. 3340 | r. 1 and 2: 19 Sep 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2014 (see r. 2(b)(i))
+Land Tax Assessment Amendment Regulations 2015 | 18 Sep 2015 p. 3813-15 | r. 1 and 2: 18 Sep 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2015 (see r. 2(b))
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 5(d).
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 these regulations are to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 3 Div. 3 of those regulations read as follows:
 “
@@ -22,7 +23,8 @@ These regulations come into operation on the day on which the Commonwealth Place
 3.When certain modifications have effect
 (1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
 (2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes Administration) Regulations 2002 Part 5 to the extent of any inconsistency.
-Note:Modifications prescribed for the purposes of section 7(2) of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Gazette, see section 7(3) of the Act.
+Note:
+Modifications prescribed for the purposes of section 7(2) of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Gazette, see section 7(3) of the Act.
 4.Modification of State taxing laws
 (1) For the purposes of section 7(2) of the Act, each State taxing law is taken to be modified to the extent necessary to give effect to subregulation (2).
 (2) If —
@@ -62,7 +64,8 @@ This notice comes into operation on the day after the day on which it is registe
 3.When certain modifications have effect
 (1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
 (2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2002 Part 5 to the extent of any inconsistency.
-Note:Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
+Note:
+Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
 4.Definitions
 In this notice —
 applied WA law means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
@@ -107,9 +110,11 @@ arrears3(1)
 assessed amount3(1)
 DA3(2)
 discountable amount3(1)
+incorrect payment10A(1)
 option 13(1)
 option 23(1)
 option 33(1)
 RA3(2)
 relevant assessment notice3(1), 3(1)
+relevant provision10A(1)
 residual amount3(1)
