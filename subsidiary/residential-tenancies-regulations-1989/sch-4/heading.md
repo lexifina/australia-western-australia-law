@@ -11,6 +11,17 @@ Lessor [insert name of lessor(s) and contact details] and
 Tenant [insert name of tenant(s) and contact details]
 Lessor’s property manager
 [insert name of lessor’s property manager (if any) and contact details]
+Giving of notices and information by electronic means
+Indicate below for each of the following persons whether the person agrees to notices and information being given by email or facsimile under the Electronic Transactions Act 2011.
+Lessor
+Email: Yes o/No oFacsimile: Yes o/No o
+[insert email address or facsimile number if different from contact details above]
+Tenant(s)
+Email: Yes o/No oFacsimile: Yes o/No o
+[insert email address or facsimile number if different from contact details above]
+Lessor’s property manager
+Email: Yes o/No oFacsimile: Yes o/No o
+[insert email address or facsimile number if different from contact details above]
 TERM OF AGREEMENT
 *This residential tenancy agreement is periodic starting on [insert date].
 *This residential tenancy agreement is fixed starting on [insert date] and ending on [insert date].
@@ -215,17 +226,28 @@ Other grounds for ending agreement
 44.2It is an offence for a tenant to fail to provide the lessor with a forwarding address when vacating the premises.
 SECURITY BOND
 45.The security bond is held by the Bond Administrator.
-46.The lessor agrees that where the lessor or the property manager applies to the Bond Administrator for the release of the security bond at the end of the tenancy, the lessor or property manager will provide the tenant with evidence to support the amount claimed.
+46.The lessor agrees that if the lessor or the property manager applies to the Bond Administrator for all or part of the security bond to be released to the lessor, the lessor or property manager will provide the tenant with evidence to support the amount that the lessor is claiming.
 47.The Bond Administrator can only release the security bond when it receives either:
 47.1a Joint Application for Disposal of Security Bond form signed by all the parties to the tenancy agreement; or
 47.2an order of the court.
 48.If the parties cannot agree on how the security bond is to be dispersed, either party can apply to the Magistrates Court to have the dispute decided.
-49.Warning: It is an offence for a lessor or a property manager to require a tenant to sign a Joint Application for Disposal of Security Bond form unless the residential tenancy agreement has terminated and the amount of the security bond to be paid to the tenant or lessor is stipulated on the form.
+49.Warning: It is an offence for a lessor or a property manager to require a tenant to sign a Joint Application for Disposal of Security Bond form unless the residential tenancy agreement has terminated, the rent to be paid under the tenancy agreement is decreased or a pet is no longer kept at the premises, and the amount of the security bond to be paid to the tenant or lessor is stipulated on the form.
 TENANCY DATABASES
 50.A lessor or property manager can only list a person on a residential tenancy database if:
 50.1the person is a named tenant on the residential tenancy agreement; and
 50.2the residential tenancy agreement has been terminated; and
 50.3the person owes the lessor a debt that is greater than the security bond or a court has made an order terminating the tenancy agreement.
+NOTICES
+51A.A notice under this agreement must be given:
+51A.1in the prescribed form; or
+51A.2if there is no prescribed form but there is an approved form — in the approved form; or
+51A.3if there is no prescribed form or approved form — in writing.
+51B.A notice from the tenant to the lessor may be given to the property manager or the lessor’s agent.
+51C.A notice under this agreement may be given to a person:
+51C.1by giving it to the person directly; or
+51C.2if an address for service for the person is given in the agreement — by posting it to, or leaving it at, the address for service; or
+51C.3if the person has agreed under Part A to the electronic service of notices — by sending the notice to the email address or facsimile number given in Part A.
+51D.A person may withdraw his or her consent to a notice being given to the person by email or facsimile by giving a notice to that effect to each other party to the agreement.
 ADVICE, COMPLAINTS AND DISPUTES
 Department of Commerce
 51.The Residential Tenancies Act 1987 allows the Commissioner for Consumer Protection to give advice to parties to a residential tenancy agreement, to look into complaints and, wherever possible, help to settle them. The Department of Commerce may be contacted by telephone on 1300 30 40 54 or by visiting one of the Department’s offices.
@@ -259,7 +281,7 @@ in the presence of:
 ............................................ [Name of witness]
 ............................................ [Signature of witness]
 For information about your rights and obligations as a lessor or tenant, contact the Department of Commerce on 1300 30 40 54 or visit www.commerce.wa.gov.au/ConsumerProtection.
-[Form 1AA inserted in Gazette 3 May 2013 p. 1757-76.]
+[Form 1AA inserted in Gazette 3 May 2013 p. 1757-76; amended in Gazette 21 Aug 2015 p. 3313-14.]
 FORM 1AB
 Residential Tenancies Act 1987
 Section 27A
@@ -760,17 +782,28 @@ Other grounds for ending agreement
 43.2It is an offence for a tenant to fail to provide the lessor with a forwarding address when vacating the premises.
 SECURITY BOND
 44.The security bond is held by the Bond Administrator.
-45.The lessor agrees that where the lessor or the property manager applies to the Bond Administrator for the release of the security bond at the end of the tenancy, the lessor or property manager will provide the tenant with evidence to support the amount claimed.
+45.The lessor agrees that if the lessor or the property manager applies to the Bond Administrator for all or part of the security bond to be released to the lessor, the lessor or property manager will provide the tenant with evidence to support the amount that the lessor is claiming.
 46.The Bond Administrator can only release the security bond when it receives either:
 46.1a Joint Application for Disposal of Security Bond form signed by all the parties to the tenancy agreement; or
 46.2an order of the court.
 47.If the parties cannot agree on how the security bond is to be dispersed, either party can apply to the Magistrates Court to have the dispute decided.
-48.Warning: It is an offence for a lessor or a property manager to require a tenant to sign a Joint Application for Disposal of Security Bond form unless the residential tenancy agreement has terminated and the amount of the security bond to be paid to the tenant or lessor is stipulated on the form.
+48.Warning: It is an offence for a lessor or a property manager to require a tenant to sign a Joint Application for Disposal of Security Bond form unless the residential tenancy agreement has terminated, the rent to be paid under the tenancy agreement is decreased or a pet is no longer kept at the premises, and the amount of the security bond to be paid to the tenant or lessor is stipulated on the form.
 TENANCY DATABASES
 49.A lessor or property manager can only list a person on a residential tenancy database if:
 49.1the person is a named tenant on the residential tenancy agreement; and
 49.2the residential tenancy agreement has been terminated; and
 49.3the person owes the lessor a debt that is greater than the security bond or a court has made an order terminating the tenancy agreement.
+NOTICES
+50A.A notice under this agreement must be given:
+50A.1in the prescribed form; or
+50A.2if there is no prescribed form but there is an approved form — in the approved form; or
+50A.3if there is no prescribed form or approved form — in writing.
+50B.A notice from the tenant to the lessor may be given to the property manager or the lessor’s agent.
+50C.A notice under this agreement may be given to a person:
+50C.1by giving it to the person directly; or
+50C.2if an address for service for the person is provided by the person — by posting it to, or leaving it at, the address for service; or
+50C.3if the person has agreed in writing to the service of notices by email or facsimile — by sending the notice to the email address or facsimile number provided by the person.
+50D.A person may withdraw his or her consent to a notice being given to the person by email or facsimile by giving a notice to that effect to each other party to the agreement.
 ADVICE, COMPLAINTS AND DISPUTES
 Department of Commerce
 50.The Residential Tenancies Act 1987 allows the Commissioner for Consumer Protection to give advice to parties to a residential tenancy agreement, to look into complaints and, wherever possible, help to settle them. The Department of Commerce may be contacted by telephone on 1300 30 40 54 or by visiting one of the Department’s offices.
@@ -781,7 +814,7 @@ If a dispute cannot be resolved
 52.2requiring a party to the agreement to perform a certain action under the agreement; and
 52.3order the payment of any amount owing under the agreement; and
 52.4order the payment of compensation for loss or injury.
-[Form 1AD inserted in Gazette 3 May 2013 p. 1801-17; amended in Gazette 20 Jan 2015 p. 371.]
+[Form 1AD inserted in Gazette 3 May 2013 p. 1801-17; amended in Gazette 20 Jan 2015 p. 371; 21 Aug 2015 p. 3315-16.]
 FORM 1
 Residential Tenancies Act 1987
 Section 27C(6)

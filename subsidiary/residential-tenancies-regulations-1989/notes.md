@@ -34,12 +34,12 @@ Reprint 4: The Residential Tenancies Regulations 1989 as at 19 Jul 2013 (include
 Residential Tenancies Amendment Regulations (No. 2) 2013 | 20 Aug 2013 p. 3840 | r. 1 and 2: 20 Aug 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2013 (see r. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Electricity Corporations (Consequential Amendments) Regulations 2013 r. 14 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Residential Tenancies Amendment Regulations (No. 2) 2014 | 20 Jan 2015 p. 371 | r. 1 and 2: 20 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Mar 2015 (see r. 2(b))
-Residential Tenancies Amendment Regulations 2015 r. 1-6 | 21 Aug 2015 p. 3311-16 | r. 1 and 2: 21 Aug 2015 (see r. 2(a)); r. 3-5: 22 Aug 2015 (see r. 2(b)) r. 6: 28 Aug 2015 (see r. 2(c))
+Residential Tenancies Amendment Regulations 2015 (other than r. 8) | 21 Aug 2015 p. 3311-16 | r. 1 and 2: 21 Aug 2015 (see r. 2(a)); r. 3-5: 22 Aug 2015 (see r. 2(b)); r. 6: 28 Aug 2015 (see r. 2(c)); r. 7 and 9: 20 Sep 2015 (see r. 2(d))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Residential Tenancies Amendment Regulations 2014 r. 3-5 | 21 Mar 2014 p. 730-1 | 1 Feb 2016 (see r. 2(b))
-Residential Tenancies Amendment Regulations 2015 r. 7-9 | 21 Aug 2015 p. 3311-16 | r. 7 and 9: 20 Sep 2015 (see r. 2(d)); r. 8: 20 Oct 2015 (see r. 2(e))
+Residential Tenancies Amendment Regulations 2015 r. 8 | 21 Aug 2015 p. 3311-16 | 20 Oct 2015 (see r. 2(e))
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Repealed by the Legal Profession Act 2008.
@@ -59,37 +59,7 @@ St Thomas More College means the premises comprising St Thomas More College on M
 (2) The following accommodation at St Thomas More College is prescribed for the purposes of section 5(3)(b) of the Act —
 (a) the student accommodation provided in the building on the western side of the College; and
 (b) the student accommodation provided in the southern-most building of the College.
-On the date as at which this compilation was prepared, the Residential Tenancies Amendment Regulations 2015 r. 7-9 had not come into operation. They read as follows:
-7.Schedule 4 Form 1AA amended
-(1) In Schedule 4 Form 1AA Part A before “TERM OF AGREEMENT” insert:
-Giving of notices and information by electronic means
-Indicate below for each of the following persons whether the person agrees to notices and information being given by email or facsimile under the Electronic Transactions Act 2011.
-Lessor
-Email: Yes o/No oFacsimile: Yes o/No o
-[insert email address or facsimile number if different from contact details above]
-Tenant(s)
-Email: Yes o/No oFacsimile: Yes o/No o
-[insert email address or facsimile number if different from contact details above]
-Lessor’s property manager
-Email: Yes o/No oFacsimile: Yes o/No o
-[insert email address or facsimile number if different from contact details above]
-(2) In Schedule 4 Form 1AA Part B:
-(a) delete clause 46 and insert:
-46.The lessor agrees that if the lessor or the property manager applies to the Bond Administrator for all or part of the security bond to be released to the lessor, the lessor or property manager will provide the tenant with evidence to support the amount that the lessor is claiming.
-(b) in clause 49 delete “terminated” insert:
-terminated, the rent to be paid under the tenancy agreement is decreased or a pet is no longer kept at the premises,
-(c) after clause 50 insert:
-NOTICES
-51A.A notice under this agreement must be given:
-51A.1in the prescribed form; or
-51A.2if there is no prescribed form but there is an approved form — in the approved form; or
-51A.3if there is no prescribed form or approved form — in writing.
-51B.A notice from the tenant to the lessor may be given to the property manager or the lessor’s agent.
-51C.A notice under this agreement may be given to a person:
-51C.1by giving it to the person directly; or
-51C.2if an address for service for the person is given in the agreement — by posting it to, or leaving it at, the address for service; or
-51C.3if the person has agreed under Part A to the electronic service of notices — by sending the notice to the email address or facsimile number given in Part A.
-51D.A person may withdraw his or her consent to a notice being given to the person by email or facsimile by giving a notice to that effect to each other party to the agreement.
+On the date as at which this compilation was prepared, the Residential Tenancies Amendment Regulations 2015 r. 8 had not come into operation. It reads as follows:
 8.Schedule 4 Form 1AB amended
 (1) In Schedule 4 Form 1AB Part A before “TERM OF AGREEMENT” insert:
 Giving of notices and information by electronic means
@@ -116,24 +86,6 @@ NOTICES
 55B.2if an address for service for the person is given in the agreement — by posting it to, or leaving it at, the address for service; or
 55B.3if the person has agreed under Part A to the electronic service of notices — by sending the notice to the email address or facsimile number given in Part A.
 55C.A person may withdraw his or her consent to a notice being given to the person by email or facsimile by giving a notice to that effect to each other party to the agreement.
-9.Schedule 4 Form 1AD amended
-In Schedule 4 Form 1AD under the heading “STANDARD TERMS APPLICABLE TO ALL RESIDENTIAL TENANCY AGREEMENTS”:
-(a) delete clause 45 and insert:
-45.The lessor agrees that if the lessor or the property manager applies to the Bond Administrator for all or part of the security bond to be released to the lessor, the lessor or property manager will provide the tenant with evidence to support the amount that the lessor is claiming.
-(b) in clause 48 delete “terminated” insert:
-terminated, the rent to be paid under the tenancy agreement is decreased or a pet is no longer kept at the premises,
-(c) after clause 49 insert:
-NOTICES
-50A.A notice under this agreement must be given:
-50A.1in the prescribed form; or
-50A.2if there is no prescribed form but there is an approved form — in the approved form; or
-50A.3if there is no prescribed form or approved form — in writing.
-50B.A notice from the tenant to the lessor may be given to the property manager or the lessor’s agent.
-50C.A notice under this agreement may be given to a person:
-50C.1by giving it to the person directly; or
-50C.2if an address for service for the person is provided by the person — by posting it to, or leaving it at, the address for service; or
-50C.3if the person has agreed in writing to the service of notices by email or facsimile — by sending the notice to the email address or facsimile number provided by the person.
-50D.A person may withdraw his or her consent to a notice being given to the person by email or facsimile by giving a notice to that effect to each other party to the agreement.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
