@@ -17,7 +17,8 @@
  | 10 m or more but less than 15 m | $315.00
  | 15 m or more | $525.00
 4. | Annual fee in lieu of admission fee for aircraft (r. 7) | $231.50
-[Part 1 inserted in Gazette 3 Jul 2009 p. 2701-2; amended in Gazette 31 Aug 2010 p. 4190-1; 29 Jul 2011 p. 3146; 29 Jun 2012 p. 2961; 18 Jun 2013 p. 2308; 20 Jun 2014 p. 2042; 5 Jun 2015 p. 1975.]
+5A. | Annual permit fee for domestic commercial vessels (r. 7A(2)) | $100.00
+[Part 1 inserted in Gazette 3 Jul 2009 p. 2701-2; amended in Gazette 31 Aug 2010 p. 4190-1; 29 Jul 2011 p. 3146; 29 Jun 2012 p. 2961; 18 Jun 2013 p. 2308; 20 Jun 2014 p. 2042; 5 Jun 2015 p. 1975; 22 Sep 2015 p. 3862.]
 ## Part 2 — Mooring licences
 [Heading inserted in Gazette 3 Jul 2009 p. 2702.]
 5. | Application fee for mooring site licence (r. 20(3)(c)) | $50.50

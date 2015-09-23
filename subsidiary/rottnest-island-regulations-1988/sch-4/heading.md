@@ -3,10 +3,12 @@
 [Heading inserted in Gazette 8 Dec 2009 p. 5007.]
 Item | Regulation | Matter to which regulation relates | Modified penalty $
 1. | 5(4) | Failing or refusing to pay admission, not being a passenger on commercial transport | 150
-2AA. | 6(2) | Passing on ticket with intention of providing false evidence as to payment of admission fee | 150
+2AAA. | 6(1) | Failing to collect, or remit fees collected, from ferry passengers | 200
+2AA. | 6(4) | Passing on ticket with intention of providing false evidence as to payment of admission fee | 150
 2A. | 7(2) | Failing to ensure annual payment sticker is exhibited on non-commercial vessels or aircraft | 150
-2B. | 7A(4) | Failing to ensure annual payment sticker is exhibited on fishing or diving charter vessels | 150
-2C. | 7E(2) | Failing to pay Main Jetty berthing fee | 200
+2B. | 7A(4) | Failing to ensure annual permit sticker is exhibited on domestic commercial vessel | 200
+2C. | 7A(5) | Failing to register journey to the Island | 200
+2D. | 7A(6) | Failing to collect, or remit fees collected, from domestic commercial vessel passengers | 200
 2. | 9(1) | Taking up unauthorised casual residence | 200
 3. | 11(1)(a) | Installing mooring without permission | 200
 4. | 11(1)(b) | Securing vessel to mooring installed without permission | 200
@@ -31,6 +33,18 @@ Item | Regulation | Matter to which regulation relates | Modified penalty $
 20. | 38A(3) | Exceeding speed limit set for vessel in defined area | 100
 21. | 38B(3) | Using vessel contrary to notice setting aside area and imposing conditions for use of that vessel | 200
 22. | 38C(2) | Discharging or depositing sullage from vessel other than by approved system | 200
+23A. | 38E(2) | Use of main jetty contrary to signs | 200
+23B. | 38F(5) | Berthing commercial vessel at main jetty otherwise than in accordance with written approval | 200
+23C. | 38H(1) | Master failing to keep or produce manifest | 200
+23D. | 38H(2) | Operator failing to keep or produce manifest | 200
+23E. | 38I(2) | Unauthorised works on main jetty | 200
+23F. | 38J(2) | Unauthorised repairs to vessel berthed at main jetty | 200
+23G. | 38L(3) | Failing to ensure master of vessel at main jetty has a certificate of competency | 200
+23H. | 38K(1) | Berthing a vessel at main jetty using unauthorised fittings | 200
+23I. | 38K(2) | Berthing a vessel in a manner that obstructs steps or landing | 200
+23J. | 38T(1) | Failing to provide suitable gangway for embarking and disembarking passengers | 200
+23K. | 38U(1) | Throwing litter or other things onto or from main jetty | 200
+23L. | 38U(2) | Smoking on main jetty | 200
 23. | 39(1) | Injuring etc. flora or removing stake or label relating to flora | 200
 24. | 40(1) | Interfering etc. with fauna or habitat etc. of fauna | 200
 25. | 41(1) | Without permission causing or allowing animal or bird to enter Island | 200
@@ -66,4 +80,5 @@ Item | Regulation | Matter to which regulation relates | Modified penalty $
 49. | 74B(1) | Altering information on sticker or document issued by the Authority | 200
 50. | 74B(2) | Wrongly displaying a sticker on a vessel | 200
 51. | 74C | Altering information on authorisation issued by mooring site licensee | 200
-[Schedule 4 inserted in Gazette 8 Dec 2009 p. 5007-9; amended in Gazette 15 Oct 2010 p. 5177; 17 Dec 2010 p. 6362; 25 Oct 2011 p. 4516-17; 4 Jan 2013 p. 23-4; 24 Jan 2014 p. 114.]
+[Schedule 4 inserted in Gazette 8 Dec 2009 p. 5007-9; amended in Gazette 15 Oct 2010 p. 5177; 17 Dec 2010 p. 6362; 25 Oct 2011 p. 4516-17; 4 Jan 2013 p. 23-4; 24 Jan 2014 p. 114; 22 Sep 2015 p. 3861.]
+[Schedule 5 deleted in Gazette 22 Sep 2015 p. 3862.]

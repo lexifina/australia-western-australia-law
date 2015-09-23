@@ -42,6 +42,7 @@ Reprint 5: The Rottnest Island Regulations 1988 as at 4 Apr 2014 (includes amend
 Rottnest Island Amendment Regulations (No. 2) 2014 | 20 Jun 2014 p. 2041-3 | r. 1 and 2: 20 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Rottnest Island Amendment Regulations 2014 | 8 Jan 2015 p. 149-50 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Rottnest Island Amendment Regulations 2015 | 5 Jun 2015 p. 1974-6 | r. 1 and 2: 5 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Rottnest Island Amendment Regulations (No. 2) 2015 | 22 Sep 2015 p. 3849-63 | r. 1 and 2: 22 Sep 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Sep 2015 (see r. 2(b))
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Fish Resources Management Act 1994 s. 265.
 Regulations 5, 7 and 18 disallowed on 28 May 1991, see Gazette 31 May 1991 p. 2710-11.
@@ -58,6 +59,7 @@ aircraft63, 66(2)
 anchor3
 annual admission payment3
 approved3
+approved form3
 assault70(2)
 authorised person68(2)
 authorised user19
@@ -66,19 +68,23 @@ beach37(2)
 bicycle3
 Board75(9)
 by-law75(9)
-capacitySch. 5
 certificate of registration3
-collection period6(1a)
+collection period6(2)
 commencement75(9)
+commercial aircraft3
+commercial vessel3
 competent operator13(2)
 declare3
 declared3
+domestic commercial vessel3
 emergency vehicle50(2)
 explosive device59(3a)
 fauna40(3), 59(3)
+ferry3
 fish40(3)
 flora39(2), 41B(1)
 hired bicycle51(2)
+journey3
 Kingstown Barracks Restricted Alcohol Consumption Area72(1)
 length3
 licensed vessel19
@@ -86,6 +92,8 @@ liquid waste38C(1)
 liquor3
 litter60B(2)
 loss18(1)
+main jetty3
+Marine Safety (Domestic Commercial Vessel) National Law 3
 mooring3
 mooring area3
 mooring inspection report19
@@ -93,9 +101,10 @@ mooring site3
 mooring site licence3
 mooring site licensee3
 nominated vessel31B(2), 31C(3)
+officer38D
+operator3
 other road users48(2)
 overall length3
-owner3
 permanent resident3
 permitted area37(2)
 previous licensee30(4)
@@ -113,7 +122,7 @@ sullage38C(1)
 take39(2)
 unlawfully70(2)
 use3
-vehicle3, 46(2)
+vehicle3, 38N(1), 46(2)
 vessel3
 waiting list19
 water catchment area61(3)
