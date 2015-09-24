@@ -79,8 +79,18 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) | 11 of 2014 | 24 Jun 2014 | To be proclaimed (see s. 2(b))
+Criminal Law Amendment (Home Burglary and Other Offences) Act 2015 Pt. 3 | 25 of 2015 | 24 Sep 2015 | To be proclaimed (see s. 2(b))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Criminal Law Amendment (Home Burglary and Other Offences) Act 2015 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Sentencing Act 1995 amended
+23.Act amended
+This Part amends the Sentencing Act 1995.
+24.Section 90 amended
+Delete section 90(1)(a) and insert:
+(a) set a minimum period of —
+(i) at least 15 years, if the offence is committed by an adult offender (within the meaning given in The Criminal Code section 1(1)) in the course of conduct that constitutes an aggravated home burglary (within the meaning given in that section); or
+(ii) at least 10 years, in any other case,
+that the offender must serve before being eligible for release on parole; or
 The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
 The amendments in the Sentencing Amendment Act 2000 Pt. 2 Div. 1 had not come into operation when it was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 32.
 The Sentencing Act 1995 s. 19 and Pt. 12 did not come into operation and were deleted by the Criminal Law Amendment Act (No. 2) 1998 s. 17 and 18.
