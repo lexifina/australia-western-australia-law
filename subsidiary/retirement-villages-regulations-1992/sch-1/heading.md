@@ -96,6 +96,7 @@ UNDER SECTION 13 —
 (b)this notice;
 (c)a copy of the residence rules; and
 (d)a copy of any applicable code;
+(e)the documents set out in the Retirement Villages Regulations 1992 regulation 6;
 3.a residence contract is taken to include a warranty as to the correctness of the information contained in the information statement.
 That warranty —
 (a)is subject to any written alteration made to the information statement made by the owner with the consent of the prospective resident on or before the signing of the residence contract by the owner;
@@ -105,7 +106,7 @@ If a person has not entered into occupation of residential premises under a resi
 (a)at any time within 7 working days after the date of the contract; or
 (b)if the documents required to be provided under section 13(2) are not provided — at any time before the expiration of 17 working days after the documents are provided.
 A rescission of a residence contract must be carried out in accordance with section 75 of the Retirement Villages Act 1992.
-[Form 2 amended in Gazette 30 Dec 2004 p. 6926; 21 Mar 2014 p. 730.]
+[Form 2 amended in Gazette 30 Dec 2004 p. 6926; 21 Mar 2014 p. 730; 24 Mar 2015 p. 1027.]
 FORM 3
 RETIREMENT VILLAGES ACT 1992
 [Regulation 7(3)(a)]
@@ -157,4 +158,3 @@ which have been put into storage under regulation 7(2) on ......................
 ..................................................................
 (address of administering body)
 [Schedule 1 amended in Gazette 8 Jan 1993 p. 26-7; 30 Sep 1998 p. 5506-9; 9 Sep 2003 p. 4047-52; 30 Dec 2004 p. 6926.]
-[Schedule 2 repealed in Gazette 30 Dec 2004 p. 6926.]
