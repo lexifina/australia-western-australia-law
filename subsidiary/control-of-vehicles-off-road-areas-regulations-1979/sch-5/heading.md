@@ -13,8 +13,7 @@ Item | Section or Regulation | Nature of Offence | Modified Penalty $
 9 | Section 9 | Driving or using vehicle contravening prescribed safety requirement ................... | 50
 10 | Section 10 | Knowingly permitting under-age person to be in charge of vehicle ......................... | 50
 11 | Section 19(3) | Destroying, etc., notice or mark identifying permitted or prohibited area ... | 50
-12 | Section 29(7) | Failure to notify cessation of ownership ... | 20
-13 | Section 29(7) | Failure to return registration certificate and number plate ...................................... | 20
+[12, 13 deleted]
 14 | Section 34 | Failure to affix number plate .................... | 50
 15 | Section 34 | Failure to affix number plate in proper manner ...................................................... | 20
 16 | Section 35(a) | Altering or defacing number plate ............ | 50
@@ -32,4 +31,4 @@ Item | Section or Regulation | Nature of Offence | Modified Penalty $
 28 | Section 9B(1) | Failure to wear seat belt as required in this section ....................................................... | 50
 29 | Section 9B(2) | Failure to travel as a passenger in a seat for which a seat belt has been fitted .......... | 50
 30 | Section 9C | Failure to wear protective helmet .............. | 50
-[Fifth Schedule inserted in Gazette 17 Sep 1993 p. 5164-6; amended in Gazette 31 Jan 1997 p. 673.]
+[Fifth Schedule inserted in Gazette 17 Sep 1993 p. 5164-6; amended in Gazette 31 Jan 1997 p. 673; 18 Sep 2015 p. 3803.]

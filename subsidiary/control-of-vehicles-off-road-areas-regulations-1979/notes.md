@@ -11,6 +11,7 @@ Control of Vehicles (Off-Road Areas) Amendment Regulations 1997 | 31 Jan 1997 p.
 Reprinted as at 19 May 2000
 Control of Vehicles (Off-road Areas) Amendment Regulations 2007 | 26 Oct 2007 p. 5655 | r. 1 and 2: 26 Oct 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Oct 2007 (see r. 2(b))
 Control of Vehicles (Off-road Areas) Amendment Regulations 2014 | 8 Jan 2015 p. 123-7 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Control of Vehicles (Off-road Areas) Amendment Regulations 2015 | 18 Sep 2015 p. 3801-3 | r. 1 and 2: 18 Sep 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2015 (see r. 2(b))
 Part XXIV of the Local Government Act 1960 was repealed by the Local Government Act 1995 (No. 74 of 1995) section 9.70.
 Under the Alteration of Statutory Designations Order 1984, references to the Department of Public Health are to be read as references to the Health Department.
 Defined terms
