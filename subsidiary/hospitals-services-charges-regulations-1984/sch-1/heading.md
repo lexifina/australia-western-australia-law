@@ -7,8 +7,8 @@
  | (b)for private in-patients —
  | (i)in single bed wards (if taken at patient’s request) | $622 per day
  | (ii)in other wards | $339 per day
- | (c)for nursing home type patients ........................ | $56.90 per day
- | (d)for private nursing home type patients ........... | $195 per day
+ | (c)for nursing home type patients | $56.90 per day
+ | (d)for private nursing home type patients | $195 per day
  | (e)for ineligible in-patients | $2 113 per day
  | (f)for eligible war service veteran in-patients | no charge
 2. | Home modifications service and supply or loan as appropriate, of such aids and appliances, orthotics and prostheses, oxygen, gas and equipment, wigs, surgical implants or devices as are approved by the Executive Director (including repair and replacement) | no charge

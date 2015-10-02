@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Hospitals (Services Charges) Regulations 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 2 October 2015 of the Hospitals (Services Charges) Regulations 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Hospitals (Services Charges) Regulations 1984 | 27 Jan 1984 p. 231-4 | 1 Feb 1984 (see r. 2)
@@ -142,7 +142,8 @@ Hospitals (Services Charges) Amendment Regulations (No. 5) 2014 | 10 Oct 2014 p.
 Hospitals (Services Charges) Amendment Regulations 2015 | 23 Jan 2015 p. 408 | r. 1 and 2: 23 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jan 2015 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 2) 2015 | 21 Apr 2015 p. 1423 | r. 1 and 2: 21 Apr 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Apr 2015 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 3) 2015 | 2 Jun 2015 p. 1940-1 | r. 1 and 2: 2 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
-Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+Reprint 10: The Hospitals (Services Charges) Regulations 1984 as at 2 Oct 2015 (includes amendments listed above)
+Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981, the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with the Interpretation Act 1984 s. 42(1), subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The commencement date of 1 September 1990 that was specified in these regulations was before the date of their publication in the Gazette.
 Defined terms
@@ -190,3 +191,4 @@ specific treatment entitlement card4(1)
 specified5(4)
 surgically implanted prosthesis4(1)
 war service veteran4(1)
+By Authority: JOHN A. STRIJK, Government Printer
