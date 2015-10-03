@@ -16,11 +16,13 @@ Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2013 |
 Reprint 2: The Electricity Industry (Wholesale Electricity Market) Regulations 2004 as at 16 Aug 2013 (includes amendments listed above)
 Electricity Corporations (Consequential Amendments) Regulations 2013 r. 9 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2015 | 24 Feb 2015 p. 737-8 | r. 1 and 2: 24 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Feb 2015 (see r. 2(b))
+Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 2) 2015 | 2 Oct 2015 p. 3930-1 | r. 1 and 2: 2 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2015 (see r. 2(b))
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Energy Arbitration and Review Act 1998.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+AEMO3
 amend3
 amending rules3
 appointed day19(3)
