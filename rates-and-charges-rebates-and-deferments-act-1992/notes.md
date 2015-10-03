@@ -33,6 +33,7 @@ Water Services Legislation Amendment and Repeal Act 2012 s. 226 (other than 226(
 Revenue Laws Amendment Act 2012 Pt. 6 | 29 of 2012 | 3 Sep 2012 | 4 Sep 2012 (see s. 2(e))
 Rates and Charges (Rebates and Deferments) Amendment Act 2013 | 4 of 2013 | 29 Jun 2013 | s. 1 and 2: 29 Jun 2013 (see s. 2(a)); Act other than s. 1, 2, 4(3) and (4) and 14: 1 Jul 2013 (see s. 2(b)(i)); s. 4(3): 18 Nov 2013 (see s. 2(c)(ii) and Gazette 14 Nov 2013 p. 5028); s.4(4): 1 Jul 2014 (see s. 2(d)(ii) and Gazette 14 Nov 2013 p. 5028)
 Reprint 4: The Rates and Charges (Rebates and Deferments) Act 1992 as at 4 Oct 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012 s. 226(2), (3), (5) and (6) and the Rates and Charges (Rebates and Deferments) Amendment Act 2013 s. 4(3) and (4))
+Revenue Laws Amendment Act 2015 Pt. 3 | 27 of 2015 | 2 Oct 2015 | 3 Oct 2015 (see s. 2(b))
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
