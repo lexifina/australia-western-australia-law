@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 March 2014 of the Electricity Industry (Independent Market Operator) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electricity Industry (Independent Market Operator) Regulations 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Electricity Industry (Independent Market Operator) Regulations 2004 | 30 Sep 2004 p. 4207-69 | 1 Dec 2004 (see r. 2 and Gazette 30 Nov 2004 p. 5515)
@@ -8,7 +8,8 @@ Public Sector Reform (Consequential Amendments) Regulations 2011 Pt. 3 | 11 Feb 
 Electricity Industry (Independent Market Operator) Amendment Regulations 2012 | 29 Jun 2012 p. 2936-8 | r. 1 and 2: 29 Jun 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2012 (see r. 2(b) and Gazette 29 Jun 2012 p. 2929)
 Electricity Industry (Independent Market Operator) Amendment Regulations 2013 | 14 Jun 2013 p. 2233-5 | r. 1 and 2: 14 Jun 2013 (see r. 2(a)); Regulations other than r. 1, 2 and 4-7: 15 Jun 2013 (see r. 2(c)); Regulations 4-7: 29 Jun 2013 (see r. 2(b) and Gazette 28 Jun 2013 p. 2933)
 Reprint 1: The Electricity Industry (Independent Market Operator) Regulations 2004 as at 7 Mar 2014 (includes amendments listed above)
-The amendment in the State Superannuation Amendment Act 2007 s. 89 is not included because it was deleted by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
+Electricity Industry (Independent Market Operator) Amendment Regulations 2015 | 2 Oct 2015 p. 3927-8 | r. 1 and 2: 2 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2015 (see r. 2(b))
+The amendment in the State Superannuation Amendment Act 2007 s. 89 is not included because the regulations it sought to amend was deleted by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
