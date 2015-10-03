@@ -20,6 +20,7 @@ Reprint 2: The First Home Owner Grant Act 2000 as at 9 Jul 2010 (includes amendm
 Revenue Laws Amendment Act 2012 Pt. 3 | 29 of 2012 | 3 Sep 2012 | 4 Sep 2012 (see s. 2(e))
 Revenue Laws Amendment Act (No. 2) 2012 Pt. 3 | 32 of 2012 | 8 Oct 2012 | 9 Oct 2012 (see s. 2(e))
 Revenue Laws Amendment Act 2013 Pt. 4 | 10 of 2013 | 24 Sep 2013 | 25 Sep 2013 (see s. 2(c)(ii))
+Revenue Laws Amendment Act 2015 Pt. 2 Div. 1 | 27 of 2015 | 2 Oct 2015 | 3 Oct 2015 (see s. 2(b))
 The First Home Owner Grant Amendment Act 2001 s. 7 is a savings provision of no further effect.
 The First Home Owner Grant Amendment Act 2003 s. 10 is a savings provision of no further effect.
 The First Home Owner Grant Amendment Act 2004 Pt. 3 is a transitional provision of no further effect.
@@ -135,6 +136,7 @@ required repayment52(1)
 required residence period3(1), 13(2)
 residence requirements3(1)
 residential property3(1), 3(2)
+second amendment day19(1)
 special eligible transaction14A
 spouse3(1), 7(1)
 State65(7)

@@ -23,6 +23,7 @@ Revenue Laws Amendment Act 2014 Pt. 2 | 15 of 2014 | 2 Jul 2014 | 3 Jul 2014 (se
 Taxation Legislation Amendment Act 2015 Pt.2 Div. 2 and Pt. 4 | 1 of 2015 | 25 Feb 2015 | 26 Feb 2015 (see s. 2(d)
 Taxation Legislation Amendment Act (No. 2) 2015 Pt. 2 | 8 of 2015 | 9 Mar 2015 | 10 Mar 2015 (see s. 2(b))
 Taxation Legislation Amendment Act (No. 3) 2015 Pt. 2 | 15 of 2015 | 26 May 2015 | 27 May 2015 (see s. 2(c))
+Revenue Laws Amendment Act 2015 Pt. 2 Div. 2 | 27 of 2015 | 2 Oct 2015 | 3 Oct 2015 (see s. 2(b))
 The Mining Act 1904 was repealed by the Mining Act 1978.
 This section has a retrospective commencement date effective from 1 Dec 2011 (see the Revenue Laws Amendment Act 2012 Pt. 2 Div. 1 and 2).
 The Acts Amendment (Land Administration) Act 1997 commenced 30 Mar 1998 (see Gazette 27 Mar 1998 p. 1765).
@@ -68,6 +69,7 @@ company B12(3)
 company C12(4)
 complying approved deposit fund121
 complying superannuation fund121
+concessional first home owner141(1)
 concessional rate9
 concessional transaction147C(1), 147(1), Sch. 3 cl. 11A(1)
 conditional agreement9
@@ -93,6 +95,7 @@ decision96B(1)
 declaration of trust9
 dependant127(1)
 dependent transaction274(1)
+deposit141(1)
 digitally sign22A, 273A(1)
 director3
 discretionary trust3
@@ -131,20 +134,22 @@ farming land99(1)
 farming land conditional agreement9
 farming property99(1)
 FHOG Act141(1)
-FHOG concessional transaction141(1)
 financial services licensee206
 first acquisition174(1)
 first agreement42(8)
 first business81(5)
+first concessional142(2)
+first concessional transaction141(1), 142(2)
 first dutiable transaction35, 47, 51
-first FHOG concessional transaction141(1), 142(2)
+first home owner concessional rate141(1)
+first home owner concessional transaction141(1)
 first transaction104
 flag lifting agreement128(1)
 foreign tax268(1)
 franchise arrangement79
 franchisee79
 franchisor79
-further FHOG concessional transaction141(1)
+further concessional transaction141(1)
 general conditional agreement9
 general insurance206
 General insurance209(1), 209(2)
@@ -290,6 +295,7 @@ tax avoidance scheme268(2)
 Taxation Administration Act3
 taxpayer147A(1)
 terminated on relevant grounds9
+terms contract141(1)
 trailer228
 transaction3
 transaction group257(1), 257(1)
