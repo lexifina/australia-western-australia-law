@@ -7,9 +7,11 @@ Gas Services Information Amendment Regulations 2013 | 14 Jun 2013 p. 2228-33 | r
 Gas Services Information Amendment Regulations (No. 2) 2013 | 28 Jun 2013 p. 2933-67 | r. 1 and 2: 28 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jun 2013 (see r. 2(b))
 Reprint 1: The Gas Services Information Regulations 2012 as at 16 Aug 2013 (includes amendments listed above)
 Gas Services Information Amendment Regulations 2015 | 8 Sep 2015 p. 3720 | r. 1 and 2: 8 Sep 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Sep 2015 (see r. 2(b))
+Gas Services Information Amendment Regulations (No. 2) 2015 | 2 Oct 2015 p. 3931-2 | r. 1 and 2: 2 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2015 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+AEMO3(1)
 amending rules7(1)
 Arbitrator3(1)
 assessment amount33
