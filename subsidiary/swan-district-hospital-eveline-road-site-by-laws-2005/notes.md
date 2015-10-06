@@ -7,6 +7,13 @@ Swan District Hospital (Eveline Road Site) Amendment By-laws 2008 | 12 Feb 2008 
 Swan District Hospital (Eveline Road Site) Amendment By-laws 2010 | 26 Nov 2010 p. 5949-50 | bl. 1 and 2: 26 Nov 2010 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jan 2011 (see bl. 2(b))
 Swan District Hospital (Eveline Road Site) Amendment By-laws 2014 | 8 Jan 2015 p. 197-200 | bl. 1 and 2: 8 Jan 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Apr 2015 (see bl. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Swan District Hospital (Eveline Road Site) Amendment By laws 2015 | 17 Apr 2015 p. 1377-9 | bl. 1 and 2: 17 Apr 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 18 Apr 2015 (see bl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Swan District Hospital (Eveline Road Site) Repeal By-laws 2015 bl. 3 | 6 Oct 2015 p. 3966-7 | 24 Nov 2015 (see bl. 2(b))
+On the date as at which this compilation was prepared, the Swan District Hospital (Eveline Road Site) Repeal By laws 2015 bl. 3 had not come into operation. It reads as follows:
+3.By-laws repealed
+The Swan District Hospital (Eveline Road Site) By-laws 2005 are repealed.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
