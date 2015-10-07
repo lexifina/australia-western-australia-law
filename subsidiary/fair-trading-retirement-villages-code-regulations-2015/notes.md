@@ -1,9 +1,10 @@
 Notes
-This is a compilation of the Fair Trading (Retirement Villages Code) Regulations 2015. The following table contains information about those regulations.
+This is a compilation of the Fair Trading (Retirement Villages Code) Regulations 2015 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Fair Trading (Retirement Villages Code) Regulations 2015 | 24 Mar 2015 p. 931-92 | r. 1 and 2: 24 Mar 2015 (see r. 2(a)); Regulations other than r. 1, 2 and Sch. 1 Div. 3 and 4: 1 Apr 2015 (see r. 2(c)); Sch. 1 Div. 3 and 4: 1 Oct 2015 (see r. 2(b))
-These regulations expire at the end of 31 March 2017 (see r. 3(2)).
+Fair Trading (Retirement Villages Code) Amendment Regulations 2015 | 6 Oct 2015 p. 3965-6 | r. 1 and 2: 6 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Oct 2015 (see r. 2(b))
+These regulations expire at the end of 31 March 2018 (see r. 3(2)).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
