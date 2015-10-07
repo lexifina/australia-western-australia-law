@@ -131,6 +131,8 @@ Mining Amendment Regulations (No. 2) 2014 | 20 Jun 2014 p. 2035-8 | r. 1 and 2: 
 Mining Amendment Regulations (No. 4) 2014 | 28 Nov 2014 p. 4415-20 | r. 1 and 2: 28 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Nov 2014 (see r. 2(b))
 Mining Amendment Regulations (No. 3) 2015 | 26 Jun 2015 p. 2257-60 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Mining Amendment Regulations (No. 4) 2015 | 11 Sep 2015 p. 3745-8 | r. 1 and 2: 11 Sep 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Sep 2015 (see r. 2(b))
+Mining Amendment Regulations (No. 5) 2015 | 6 Oct 2015 p. 3967-8 | r. 1 and 2: 6 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Oct 2015 (see r. 2(b))
+Mining Amendment Regulations (No. 6) 2015 | 6 Oct 2015 p. 3969 | r. 1 and 2: 6 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Oct 2015 (see r. 2(b))
 The Mining Amendment Act 1990 was operative 28 June 1991.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
