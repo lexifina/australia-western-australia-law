@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Young Offenders Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 9 October 2015 of the Young Offenders Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Young Offenders Act 1994 | 104 of 1994 | 11 Jan 1995 | s. 1 and 2: 11 Jan 1995; Act other than s. 1 and 2: 13 Mar 1995 (see s. 2 and Gazette 10 Mar 1995 p. 895)
@@ -49,8 +49,9 @@ Criminal Organisations Control Act 2012 s. 182 | 49 of 2012 | 29 Nov 2012 | 2 No
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 21(other than s. 138 and 139) | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Custodial Legislation (Officers Discipline) Amendment Act 2014 Pt. 3 | 29 of 2014 | 3 Dec 2014 | 24 Aug 2015 (see s. 2(b) and Gazette 21 Aug 2015 p. 3310)
 Declared Places (Mentally Impaired Accused) Act 2015 s. 89 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
+Reprint 6: The Young Offenders Act 1994 as at 9 Oct 2015 (includes amendments listed above)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 22 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
@@ -60,6 +61,7 @@ Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
+The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
 The Criminal Code s. 390B was repealed by the Criminal Law Amendment (Simple Offences) Act 2004 s. 26.
 The Criminal Law Amendment Act 1996 Pt. 6 did not come into operation and was repealed by the Criminal Law Amendment Act (No. 2) 1998 s. 7.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
@@ -87,20 +89,16 @@ principal Act means the Young Offenders Act 1994.
 3.Conditions of employment of other employees and officers on commencement to continue
 (1) A person who was appointed by the Minister under the Act as an overseer, or as an officer or employee without custodial functions, before commencement, and who is still employed immediately before commencement, is to be regarded, on commencement, as having been appointed by the chief executive officer under section 11(1a)(b) of the principal Act (as amended by this Act), on the same terms and conditions, including as to remuneration, as those which applied to the person immediately before commencement.
 (2) A person to whom subclause (1) applies retains all existing and accruing rights and benefits as if the person’s employment, for the purposes of the principal Act, were a continuation of the person's employment immediately before commencement.
-On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 36 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 36 had not come into operation. It reads as follows:
 36.Young Offenders Act 1994 amended
 (1) The amendments in this section are to the Young Offenders Act 1994.
 (2) Schedule 2 is amended by deleting the entry relating to the Prostitution Act 2000 and inserting instead —
-“
 2A.Sexual Services Act 2000
 s. 7 | Seeking to induce person to act as a sex worker
 s. 16 | Causing, permitting or seeking to induce a child to act as a sex worker
 s. 17 | Obtaining payment for commercial sexual act by a child
 s. 18 | Agreement for a child to act as a sex worker
-”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 had not come into operation. They read as follows:
-Part 3 — Amendments to other Acts
+On the date as at which this reprint was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 had not come into operation. They read as follows:
 Division 21 — Young Offenders Act 1994 amended
 138.Section 43 amended
 (1) Delete section 43(5) and insert:
@@ -119,7 +117,7 @@ Division 21 — Young Offenders Act 1994 amended
 139.Section 45 amended
 In section 45(1) delete “personally on” and insert:
 (either personally, or electronically in accordance with the regulations) on a person who is a responsible adult,
-On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 24 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 24 had not come into operation. It reads as follows:
 Part 4 — Amendments to other Acts
 Division 4 — Other Acts amended
 Subdivision 24 — Young Offenders Act 1994 amended
@@ -128,7 +126,7 @@ This Subdivision amends the Young Offenders Act 1994.
 90.Section 179 amended
 In section 179(1) delete the definition of medical treatment and insert:
 medical treatment includes psychiatric treatment, which is treatment as defined in the Mental Health Act 2014 section 4.
-On the date as at which this compilation was prepared, the Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 3 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 3 had not come into operation. It reads as follows:
 Part 2 — Amendments and repeals relating to responsible parenting agreements
 Division 3 — Other Acts amended
 Subdivision 3 — Young Offenders Act 1994 amended
@@ -195,7 +193,7 @@ monitor17A
 new evidence11CA
 notice to attend court3
 offender50(1), 50A(1), 50B(1)
-original offence83(2)
+original offence83(2)(c)
 party32(3)
 proceedings for or in respect of a responsible parenting order15A(3c)
 public authority16(1)
@@ -211,8 +209,8 @@ Schedule 1 offence3
 Schedule 2 offence3
 second sentence123(1)
 Secretary131
-sentence 1124(1)
-sentence 2124(1)
+sentence 1124(1)(a)
+sentence 2124(1)(b)
 sentencing court129(1)
 serious offence124(3)
 special order3
