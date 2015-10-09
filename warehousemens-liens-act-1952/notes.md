@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Warehousemen’s Liens Act 1952 and includes the amendments made by the other written laws referred to in the following table, 2. The table also contains information about any reprint.
+This is a compilation of the Warehousemen’s Liens Act 1952 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Warehousemen’s Liens Act 1952 | 26 of 1952 (1 Eliz. II No. 26) | 28 Nov 1952 | 20 Feb 1953 (see s. 2 and Gazette 20 Feb 1953 p. 365)
@@ -16,7 +16,8 @@ Reprint 2: The Warehousemen’s Liens Act 1952 as at 3 Dec 2010 (includes amendm
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 6 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Warehousemen’s Liens Amendment Act 2014 | 12 of 2014 | 24 Jun 2014 | s. 1 and 2: 24 Jun 2014 (see s. 2(a)); Act other than s. 1 and 2: 25 Oct 2014 (see s. 2(b) and Gazette 24 Oct 2014 p. 4120)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 43 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
-Marginal notes in the Warehousemen’s Liens Act 1952 referring to legislation of other jurisdictions have been omitted from this compilation.
+Reprint 3: The Warehousemen’s Liens Act 1952 as at 9 Oct 2015 (includes amendments listed above)
+Marginal notes in the Warehousemen’s Liens Act 1952 referring to legislation of other jurisdictions have been omitted from this reprint.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
