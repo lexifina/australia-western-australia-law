@@ -2,7 +2,7 @@
 [r. 2(1)]
 [Heading inserted in Gazette 17 Jun 2014 p. 1997.]
 1. | Copy of a person’s traffic infringement notice record | $24.60
-2. | Escorts and Guards — each person provided per hour and part thereof for high risk escorts carried out by TRG | $104.30
+2. | Escorts and Guards — each person provided per hour and part thereof for high risk escorts carried out by TRG ........ | $104.30
 3. | Authorised copy of a photograph | $11.90
 4. | National criminal history record check — (a)issued to a volunteer organisation (b)issued to a public sector body (c)issued to a business | $14.80 $41.90 $42.40
 5. | National police certificate | $61.80

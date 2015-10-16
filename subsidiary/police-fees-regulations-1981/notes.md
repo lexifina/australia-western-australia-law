@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Police (Fees) Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 16 October 2015 of the Police (Fees) Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Police (Fees) Regulations 1981 | 13 Feb 1981 p. 612-13 | 13 Feb 1981
@@ -41,10 +41,9 @@ Police (Fees) Amendment Regulations 2014 | 17 Jun 2014 p. 1996-7 | r. 1 and 2: 1
 Police (Fees) Amendment Regulations (No. 2) 2014 | 8 Jan 2015 p. 153-4 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Police (Fees) Amendment Regulations 2015 | 2 Jun 2015 p. 1942-3 | r. 1 and 2: 2 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Police (Fees) Amendment Regulations (No. 2) 2015 | 24 Jul 2015 p. 3056-7 | r. 1 and 2: 24 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2015 (see r. 2(b))
+Reprint 4: The Police (Fees) Regulations 1981 as at 16 Oct 2015 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-accident3
 department3
-road traffic conviction record3
 traffic infringement notice record3
