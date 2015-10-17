@@ -15,6 +15,7 @@ Reprint 1: The Legal Profession Regulations 2009 as at 7 Dec 2012 (includes amen
 Legal Profession Amendment Regulations 2014 | 11 Apr 2014 p. 1017-19 | r. 1 and 2: 11 Apr 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Apr 2014 (see r. 2(b))
 Legal Profession Amendment Regulations 2015 | 26 Jun 2015 p. 2271 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(ii) and Gazette 26 Jun 2015 p. 2235)
 Legal Profession Amendment Regulations (No. 2) 2015 | 31 Jul 2015 p. 3118-20 | r. 1 and 2: 31 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2015 (see r. 2(b))
+Legal Profession Amendment Regulations (No. 3) 2015 | 16 Oct 2015 p. 4151 | r. 1 and 2: 16 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Oct 2015 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
