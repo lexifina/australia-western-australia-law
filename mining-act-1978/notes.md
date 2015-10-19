@@ -82,6 +82,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Mining Legislation Amendment Act 2014 Pt. 2 | 4 of 2014 | 22 Apr 2014 | To be proclaimed (see s. 2(b))
+Conservation and Land Management Amendment Act 2015 s. 77 | 28 of 2015 | 19 Oct 2015 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
 The Mining Amendment Act 1981 s. 3 reads as follows:
@@ -386,6 +387,11 @@ Table
 s. 46(aa)(ii) | s. 63(aa)(ii)
 s. 70H(1)(aa)(ii) | s. 82(1)
 s. 84AA
+On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 2015 s. 77 had not come into operation. It reads as follows:
+77.Mining Act 1978 amended
+(1) This section amends the Mining Act 1978.
+(2) In section 40B(1)(b) delete “Conservation Commission.” and insert:
+Conservation and Parks Commission established under the Conservation and Land Management Act 1984.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
