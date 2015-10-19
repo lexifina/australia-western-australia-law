@@ -16,7 +16,18 @@ Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 15 | 22 of
 Commercial Arbitration Act 2012 s. 45 it. 20 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Water Services Legislation Amendment and Repeal Act 2012 s. 233 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Swan and Canning Rivers Management Amendment Act 2015 Pt. 2 | 6 of 2015 | 9 Mar 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 19 Jun 2015 p. 2095)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Conservation and Land Management Amendment Act 2015 s. 78 | 28 of 2015 | 19 Oct 2015 | To be proclaimed (see s. 2(b))
 Repealed by the Water Resources Legislation Amendment Act 2007.
+On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 2015 s. 78 had not come into operation. It reads as follows:
+78.Swan and Canning Rivers Management Act 2006 amended
+(1) This section amends the Swan and Canning Rivers Management Act 2006.
+(2) In Schedule 5:
+(a) in item 3 delete “Conservation Commission” and insert:
+Conservation and Parks Commission
+(b) delete item 4.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
