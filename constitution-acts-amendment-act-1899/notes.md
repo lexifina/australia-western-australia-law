@@ -286,6 +286,7 @@ Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Medicines and Poisons Act 2014 s. 183 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 4 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
+Conservation and Land Management Amendment Act 2015 s. 72 | 28 of 2015 | 19 Oct 2015 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
@@ -384,7 +385,6 @@ On the date as at which this compilation was prepared, the Medicines and Poisons
 183.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete the item relating to The Poisons Advisory Committee.
-Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 4 had not come into operation. It reads as follows:
 Part 4 — Amendments to other Acts
 Division 4 — Other Acts amended
@@ -396,6 +396,11 @@ In Schedule V Part 1 Division 1 delete the item relating to the Mental Health Re
 Member of the Mental Health Tribunal established by the Mental Health Act 2014.
 40.Schedule V Part 3 amended
 In Schedule V Part 3 delete the item relating to the Council of Official Visitors.
+On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 2015 s. 72 had not come into operation. It reads as follows:
+72.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 3 delete the item relating to the Conservation Commission of Western Australia and insert:
+The Conservation and Parks Commission established under the Conservation and Land Management Act 1984.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
