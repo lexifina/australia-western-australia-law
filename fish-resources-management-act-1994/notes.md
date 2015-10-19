@@ -40,6 +40,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
+Conservation and Land Management Amendment Act 2015 s. 73 | 28 of 2015 | 19 Oct 2015 | To be proclaimed (see s. 2(b))
 The amendment to s. 245(1) in the Public Sector Reform Act 2010 s. 89 is not included because the section it sought to amend was deleted by the Fish Resources Management Amendment Act 2009 s. 19.
 The Fish Resources Management Amendment Act 2002 s. 8(2)-(4) read as follows:
 (2) The arrangements of 15 April 1995 by which the Minister for Fisheries purported to lease from the Minister for Transport that portion of land known as “Aquaculture Park Area”, being a total area of 7.8152 hectares situated in the Broome Port area, for the purposes of establishing an aquaculture park are to be taken to be, and always to have been, as valid as they would have been if the amendments made to the Fish Resources Management Act 1994 by this Act were in effect at the time the arrangements were made.
@@ -81,6 +82,33 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 “ or the Biosecurity and Agriculture Management Act 2007 ”.
 (8) Section 258(i) is deleted.
 The Standardisation of Formatting Act 2010 s. 4, the amendment to Schedule 1, had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(2)(a).
+On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 2015 s. 73 had not come into operation. It reads as follows:
+73.Fish Resources Management Act 1994 amended
+(1) This section amends the Fish Resources Management Act 1994.
+(2) Delete section 136A(1) and (2) and insert:
+(1) An authorisation must not be issued or renewed if it would authorise a person to engage in —
+(a) commercial fishing in an area of a marine nature reserve; or
+(b) commercial fishing in an area, or part of an area, of a marine park from which commercial fishing is excluded under the Conservation and Land Management Act 1984 section 13B(6A)(a); or
+(c) commercial fishing of a type or class specified in a declaration under the Conservation and Land Management Act 1984 section 13B(3B)(c) in an area, or part of an area, of a marine park from which commercial fishing of that type or class is excluded under the Conservation and Land Management Act 1984 section 13B(6A)(b).
+(2) An authorisation must not be issued or renewed if it would authorise a person to engage in —
+(a) recreational fishing in an area of a marine nature reserve; or
+(b) recreational fishing in an area, or part of an area, of a marine park from which recreational fishing is excluded under the Conservation and Land Management Act 1984 section 13B(7A)(a); or
+(c) recreational fishing of a type or class specified in a declaration under the Conservation and Land Management Act 1984 section 13B(3A)(b) or 13B(3B)(e) in an area, or part of an area, of a marine park from which recreational fishing of that type or class is excluded under the Conservation and Land Management Act 1984 section 13B(7A)(b).
+(3) In section 136A(4):
+(a) after “an authorisation” insert:
+to engage in commercial fishing generally, or commercial fishing of a type or class,
+(b) in paragraph (b) delete “commercial fishing” and insert:
+the commercial fishing
+(4) After section 136A(4) insert:
+(5) If an authorisation to engage in recreational fishing generally, or recreational fishing of a type or class, relates to a particular area (the authorised area) and a part of the authorised area becomes —
+(a) an area of a marine nature reserve; or
+(b) an area of a marine park from which the recreational fishing is excluded under the Conservation and Land Management Act 1984 section 13B,
+nothing in this section prevents the authorisation from being renewed in respect of the remainder of the authorised area.
+(6) If —
+(a) an authorisation relates to more than one type or class of commercial fishing or recreational fishing in a particular area, or part of a particular area, of a marine park; and
+(b) a declaration is made under the Conservation and Land Management Act 1984 section 13B(3A)(b) or (3B)(c) or (e) in relation to any of those types or classes of commercial fishing or recreational fishing in that area or part; and
+(c) the area or part is not an area or part from which the remainder of the types or classes of commercial fishing or recreational fishing are excluded under the Conservation and Land Management Act 1984 section 13B,
+nothing in this section prevents the authorisation from being renewed in respect of the types or classes of commercial fishing or recreational fishing that are not so excluded in that area or part.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
