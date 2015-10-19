@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 November 2009 of the Forest Products Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Forest Products Act 2000 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Forest Products Act 2000 | 34 of 2000 | 10 Oct 2000 | s. 1 and 2: 10 Oct 2000; Act other than s. 1 and 2: 16 Nov 2000 (see s. 2 and Gazette 15 Nov 2000 p. 6275)
@@ -16,7 +16,19 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1), 10 and Sch. 1 cl
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 62 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Reprint 2: The Forest Products Act 2000 as at 13 Nov 2009 (includes amendments listed above)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Conservation and Land Management Amendment Act 2015 s. 75 | 28 of 2015 | 19 Oct 2015 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
+On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 2015 s. 75 had not come into operation. It reads as follows:
+75.Forest Products Act 2000 amended
+(1) This section amends the Forest Products Act 2000.
+(2) In section 3 delete the definition of Conservation Commission.
+(3) In section 3 insert in alphabetical order:
+Conservation and Parks Commission means the Conservation and Parks Commission established under the Conservation and Land Management Act 1984;
+(4) Delete section 6(3)(b) and insert:
+(b) a member of the Conservation and Parks Commission or a member of the staff of the CALM Act Department provided under the CALM Act section 33(1)(ba);
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
