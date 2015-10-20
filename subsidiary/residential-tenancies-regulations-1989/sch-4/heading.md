@@ -290,6 +290,14 @@ PART A
 This agreement is made between:
 Lessor [insert name of lessor(s) and contact details] and
 Tenant [insert name of tenant(s) and contact details]
+Giving of notices and information by electronic means
+Indicate below for each of the following persons whether the person agrees to notices and information being given by email or facsimile under the Electronic Transactions Act 2011.
+Lessor
+Email: Yes o/No oFacsimile: Yes o/No o
+[insert email address or facsimile number if different from contact details above]
+Tenant(s)
+Email: Yes o/No oFacsimile: Yes o/No o
+[insert email address or facsimile number if different from contact details above]
 Term of agreement
 *This residential tenancy agreement is periodic starting on [insert date].
 *This residential tenancy agreement is fixed starting on [insert date] and ending on [insert date].
@@ -514,12 +522,22 @@ Other grounds for ending agreement
 49.2It is an offence for a tenant to fail to provide the lessor with a forwarding address when vacating the premises.
 SECURITY BOND
 50.If a security bond is required, it may be paid by instalments, and is to be held by the Bond Administrator.
-51.The lessor agrees that where the lessor or the property manager applies to the Bond Administrator for the release of the security bond at the end of the tenancy, the lessor or property manager will provide the tenant with evidence to support the amount claimed.
+51.The lessor agrees that if the lessor or the property manager applies to the Bond Administrator for all or part of the security bond to be released to the lessor, the lessor or property manager will provide the tenant with evidence to support the amount that the lessor is claiming.
 52.The Bond Administrator can only release the security bond when it receives either:
 52.1a Joint Application for Disposal of Security Bond form signed by all the parties to the tenancy agreement; or
 52.2an order of the court.
 53.If the parties cannot agree on how the security bond is to be dispersed, either party can apply to the Magistrates Court to have the dispute decided.
-54.Warning: It is an offence for a lessor or a property manager to require a tenant to sign a Joint Application for Disposal of Security Bond form unless the residential tenancy agreement has terminated and the amount of the security bond to be paid to the tenant or lessor is stipulated on the form.
+54.Warning: It is an offence for a lessor or a property manager to require a tenant to sign a Joint Application for Disposal of Security Bond form unless the residential tenancy agreement has terminated, the rent to be paid under the tenancy agreement is decreased or a pet is no longer kept at the premises, and the amount of the security bond to be paid to the tenant or lessor is stipulated on the form.
+NOTICES
+55A.A notice under this agreement must be given:
+55A.1in the prescribed form; or
+55A.2if there is no prescribed form but there is an approved form — in the approved form; or
+55A.3if there is no prescribed form or approved form — in writing.
+55B.A notice under this agreement may be given to a person:
+55B.1by giving it to the person directly; or
+55B.2if an address for service for the person is given in the agreement — by posting it to, or leaving it at, the address for service; or
+55B.3if the person has agreed under Part A to the electronic service of notices — by sending the notice to the email address or facsimile number given in Part A.
+55C.A person may withdraw his or her consent to a notice being given to the person by email or facsimile by giving a notice to that effect to each other party to the agreement.
 ADVICE, COMPLAINTS AND DISPUTES
 Department of Commerce
 55.The Residential Tenancies Act 1987 allows the Commissioner for Consumer Protection to give advice to parties to a residential tenancy agreement, to look into complaints and, wherever possible, help to settle them. Parties may contact the Department of Commerce on 1300 30 40 54 or visit one of the Department’s offices.
@@ -553,7 +571,7 @@ in the presence of:
 ............................................ [Name of witness]
 ........................................... [Signature of witness]
 For information about your rights and obligations as a lessor or tenant, contact the Department of Commerce on 1300 30 40 54 or visit www.commerce.wa.gov.au/ConsumerProtection.
-[Form 1AB inserted in Gazette 3 May 2013 p. 1776-96.]
+[Form 1AB inserted in Gazette 3 May 2013 p. 1776-96; amended in Gazette 21 Aug 2015 p. 3314-15.]
 FORM 1AC
 Residential Tenancies Act 1987
 Section 27B
