@@ -55,6 +55,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 Pt. 11 Div. 3 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+Misuse of Drugs Amendment (Psychoactive Substances) Act 2015 s. 3 and 4 | 29 of 2015 | 21 Oct 2015 | To be proclaimed (see s. 2(b))
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 are savings and transitional provisions.
@@ -217,6 +218,98 @@ Schedule II — Plants to which this Act applies
 102. | NORCODEINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 2.0
 (7) In Schedule V delete item 125 and insert:
 125. | PHOLCODINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 5.0
+On the date as at which this compilation was prepared, the Misuse of Drugs Amendment (Psychoactive Substances) Act 2015 s. 3 and 4 had not come into operation. They read as follows:
+3.Act amended
+This Act amends the Misuse of Drugs Act 1981.
+4.Part IIIB inserted
+After section 8M insert:
+Part IIIB — Psychoactive substances
+8N.Terms used
+(1) In this Part —
+Agvet Code of Western Australia has the meaning given in the Agricultural and Veterinary Chemicals (Western Australia) Act 1995;
+consume has the meaning given in subsection (2);
+manufacture, in relation to a psychoactive substance, means to make, prepare, produce, process (including by extracting or refining), package or label the psychoactive substance;
+psychoactive effect, in relation to a person who consumes a substance, means —
+(a)the effect of stimulating or depressing the central nervous system of the person, resulting in hallucinations or a significant disturbance in, or significant change to, motor function, thinking, behaviour, perception, awareness or mood; or
+(b)the effect of causing a state of dependence, including physical or psychological addiction;
+psychoactive substance means any substance that, when consumed by a person, has the capacity to induce a psychoactive effect on the person;
+substance includes a natural organism.
+(2) For this Part, a person consumes a substance if —
+(a) the substance is administered to the person, whether the person self-administers it or it is administered by another person; or
+(b) the person smokes, inhales or ingests the substance.
+8O.Application of this Part to particular substances
+(1) This Part does not apply to any of the following —
+(a) either —
+(i) a medicine or a Schedule 9 poison as those terms are defined in the Medicines and Poisons Act 2014 section 3; or
+(ii) if the Medicines and Poisons Act 2014 section 137 has not commenced — a medicine as defined in the Poisons Act 1964 section 5(1) or included in Schedule 9 under the Poisons Act 1964;
+(b) a therapeutic good included in the Register as defined in the Therapeutic Goods Act 1989 (Commonwealth) section 3(1) or that is exempted from the operation of Part 3-2 of that Act by regulations made under section 18 of that Act;
+(c) a tobacco product as defined in the Tobacco Products Control Act 2006 Glossary;
+(d) a substance referred to in paragraph (a) or (b) of the definition of liquor in the Liquor Control Act 1988 section 3(1);
+(e) a food as defined in the Food Act 2008 section 8;
+(f) a substance that is a chemical product as defined in the Agvet Code of Western Australia if —
+(i) the active constituents for the chemical product are approved under the Agvet Code of Western Australia Part 2; or
+(ii) the chemical product is registered under the Agvet Code of Western Australia Part 2;
+(g) a plant or fungus, or an extract from a plant or fungus;
+(h) a substance of a class prescribed by the regulations.
+(2) Despite subsection (1), this Part applies to a substance listed in subsection (1) if the substance contains, or has added to it, a substance that is not listed in subsection (1).
+8P.Effect of representing substance as psychoactive substance
+(1) For the purposes of this Part, a substance that is represented in any way as being a psychoactive substance is to be taken to be a psychoactive substance.
+(2) For the purposes of this Part, a substance that is represented in any way as being a specified psychoactive substance is to be taken to be the specified psychoactive substance.
+8Q.Manufacture, sale or supply of psychoactive substances
+(1) A person commits a simple offence if the person manufactures a psychoactive substance.
+Penalty: a fine of $48 000 or imprisonment for 4 years or both.
+(2) A person commits a simple offence if the person sells or supplies a psychoactive substance.
+Penalty: a fine of $48 000 or imprisonment for 4 years or both.
+(3) For the purpose of deciding whether or not a person has committed an offence under subsection (1) or (2) in relation to a substance, it is irrelevant that usage instructions concerning the substance given in any manner or form indicate that the substance is not a psychoactive substance or that it is not intended for human consumption.
+8R.Promoting psychoactive substances
+(1) A person commits a simple offence if the person —
+(a) promotes a substance as having a psychoactive effect on a person who consumes the substance; or
+(b) provides information in any form on how or where a psychoactive substance may be acquired.
+Penalty: a fine of $24 000 or imprisonment for 2 years or both.
+(2) For the purposes of subsection (1)(a), a person promotes a substance if the person takes any action that is intended or apparently intended to publicise or promote the substance, whether visual or auditory means are employed and whether the substance is directly depicted or referred to or symbolism of some kind is employed, including action of a kind prescribed by the regulations.
+8S.Powers of police officers for purposes of this Part
+(1) A police officer may, for the purposes of this Part, with such assistance as the police officer considers necessary —
+(a) enter the premises (other than residential premises) of a person who is suspected on reasonable grounds of —
+(i) manufacturing, selling or supplying a psychoactive substance; or
+(ii) promoting a substance as having a psychoactive effect on a person who consumes the substance; or
+(iii) providing information on how or where a psychoactive substance may be acquired; or
+(iv) having done any of the things mentioned in subparagraph (i) to (iii);
+and
+(b) demand the production of, and inspect, any books, papers or documents relating to any of the things mentioned in paragraph (a)(i) to (iii); and
+(c) inspect any substances.
+(2) Section 25 applies as if the reference in subsection (1) of that section to a police officer exercising the powers conferred by section 22 or 23 included a reference to a police officer exercising the powers in subsection (1).
+(3) Section 29 applies as if —
+(a) references in paragraphs (a) and (b) of that section to a police officer acting in the exercise of the powers conferred on the police officer by or under Part V or a person assisting a police officer so acting included a reference to a police officer acting in the exercise of the powers in subsection (1) or a person assisting a police officer so acting; and
+(b) the reference in paragraph (b) of that section to books, papers, documents, information or stocks referred to in section 22 included a reference to books, papers, documents or substances referred to in subsection (1).
+(4) The powers in subsection (1) are in addition to, and not in derogation of, the powers conferred on police officers by Part V.
+8T.Powers to seize and dispose of thing suspected of being psychoactive substance
+(1) In this section and section 8U —
+destruction notice means a notice that complies with subsections (4) and (5).
+(2) If there are reasonable grounds to suspect that any thing found or received during the exercise of the powers conferred by section 8S or by a search warrant is a psychoactive substance, a police officer may seize and detain the thing until it is dealt with under this section or section 8U.
+(3) A police officer must give to a person from whom a thing is seized under subsection (2) a destruction notice if —
+(a) the police officer is satisfied that no person will be tried with the commission of an offence in relation to the thing; or
+(b) a person is tried with the commission of an offence in relation to the thing and the person is not convicted of that offence.
+(4) A destruction notice must —
+(a) be in writing in the prescribed form; and
+(b) identify the thing to which it relates; and
+(c) advise that the thing will be destroyed on or after a day specified in the notice unless, before that day, an application is made under section 8U(1) to have a sample of the thing analysed.
+(5) The day referred to in subsection (4)(c) cannot be a day that is sooner than 21 days after the day the notice is given.
+(6) Subject to section 8U, a police officer may destroy a thing seized under subsection (2) on or after the day specified in a destruction notice given in relation to the thing.
+8U.Analysis of seized thing may be requested
+(1) On receipt of a destruction notice, a person may apply to the Commissioner to have a sample of the thing identified in the notice analysed by an approved analyst.
+(2) An application must be —
+(a) made in the prescribed form; and
+(b) made within 21 days of the receipt of the notice; and
+(c) accompanied by the prescribed fee.
+(3) If an application is made under subsection (1), the Commissioner must —
+(a) request an approved analyst to analyse a sample of the thing and provide the Commissioner with a report of the analysis; and
+(b) direct that the thing not be destroyed under the destruction notice.
+(4) After considering a report of the analysis of a sample of a thing provided by an approved analyst, the Commissioner must —
+(a) if the Commissioner is satisfied that the thing is a psychoactive substance — order that the thing be destroyed; or
+(b) if the Commissioner is satisfied that the thing is not a psychoactive substance but is a relevant thing as defined in section 27(6) — order that the thing be dealt with under section 27 as if it had been seized and detained under section 26; or
+(c) if the Commissioner is satisfied that the thing is not a psychoactive substance or a relevant thing —
+(i) order that the thing be released to the person from whom it was seized; and
+(ii) order that the fee paid by the applicant for a sample of the thing to be analysed be refunded to the applicant.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
