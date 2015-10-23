@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Spent Convictions Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 23 October 2015 of the Spent Convictions Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Spent Convictions Act 1988 | 55 of 1988 | 8 Dec 1988 | s. 1 and 2: 8 Dec 1988; Act other than s. 1 and 2: 1 Jul 1992 (see s. 2 and Gazette 26 Jun 1992 p. 2644)
@@ -54,21 +54,19 @@ Spent Convictions (Act Amendment) Regulations 2013 published in Gazette 17 May 2
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Spent Convictions (Act Amendment) Regulations 2014 published in Gazette 6 Mar 2015 p. 815-16 | r. 1 and 2: 6 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2015 (see r. 2(b))
 Alcohol and Drug Authority Amendment Act 2015 s. 18 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 7: The Spent Convictions Act 1988 as at 23 Oct 2015 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 22 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
-Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
+Repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 29(1).
 Under the Alteration of Statutory Designations Order 2007 a reference in any law to the Department for Community Development is, unless the contrary is intended, to be read and construed as a reference to the Department for Child Protection.
-Repealed by the Children and Community Services Act 2004.
 The Children and Community Services Act 2004 Sch. 2 cl. 25 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 32(4).
-The Machinery of Government (Miscellaneous Amendment) Act 2006 Pt. 3 Div. 5 was repealed by the Statutes (Repeals and Minor Amendments) Act 2011 s. 23(4) before it purported to come into operation.
-On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 22 had not come into operation. It reads as follows:
-Part 4 — Amendments to other Acts
-Division 4 — Other Acts amended
+The Machinery of Government (Miscellaneous Amendment) Act 2006 Pt. 3 Div. 5 had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2011 s. 23(4).
+On the date as at which this reprint was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 22 had not come into operation. It reads as follows:
 Subdivision 22 — Spent Convictions Act 1988 amended
 85.Act amended
 This Subdivision amends the Spent Convictions Act 1988.
