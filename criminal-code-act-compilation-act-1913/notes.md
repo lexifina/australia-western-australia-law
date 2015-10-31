@@ -175,12 +175,12 @@ Reprint 17: The Criminal Code Act Compilation Act 1913 as at 1 Mar 2013 (include
 Criminal Code Amendment Act 2013 | 12 of 2013 | 4 Oct 2013 | s. 1 and 2: 4 Oct 2013 (see s. 2(a)); Act other than s. 1 and 2: 5 Oct 2013 (see s. 2(b))
 Criminal Code Amendment (Child Sex Offences) Act 2014 | 5 of 2014 | 22 Apr 2014 | s. 1 and 2: 22 Apr 2014 (see s. 2(a)); Act other than s. 1 and 2: 23 Apr 2014 (see s. 2(b))
 Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 2 | 11 of 2014 | 24 Jun 2014 | 13 Aug 2014 (see s. 2(b) and Gazette 12 Aug 2014 p. 2889)
+Criminal Law Amendment (Home Burglary and Other Offences) Act 2015 Pt. 2 | 25 of 2015 | 24 Sep 2015 | 31 Oct 2015 (see s. 2(b) and Gazette 30 Oct 2015 p. 4493)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 7 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
-Criminal Law Amendment (Home Burglary and Other Offences) Act 2015 Pt. 2 | 25 of 2015 | 24 Sep 2015 | To be proclaimed (see s. 2(b))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -237,350 +237,15 @@ Mental Health Act 2014 section 4)
 50.Section 337 amended
 In section 337 delete “Mental Health Act 1996)” and insert:
 Mental Health Act 2014 section 4)
-On the date as at which this compilation was prepared, the Criminal Law Amendment (Home Burglary and Other Offences) Act 2015 Pt. 2had not come into operation. It reads as follows:
-Part 2 — The Criminal Code amended
-Division 1 — Preliminary
-3.Act amended
-This Part amends The Criminal Code.
-Division 2 — Amendments relating to offences committed in the course of aggravated home burglary
-4.Section 1 amended
-In section 1(1) insert in alphabetical order:
-The term adult offender means, with respect to a person convicted of an offence, a person who had reached 18 years of age when the offence was committed;
-The term aggravated home burglary means a home burglary committed in circumstances of aggravation (within the meaning given in section 400(1));
-The term home burglary means an offence against any provision of Chapter XXXIX (as enacted at any time) other than section 407 committed in respect of a place (within the meaning given in section 400(1)) ordinarily used for human habitation;
-The term juvenile offender means, with respect to a person convicted of an offence, a person who had reached 16 but not 18 years of age when the offence was committed;
-5.Section 279 amended
-(1) In section 279(4) delete “case” and insert:
-case, subject to subsection (5A),
-(2) After section 279(4) insert:
-(5A) If the offence is committed by an adult offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender, if it does not impose a term of life imprisonment must, notwithstanding any other written law, impose a term of imprisonment of at least 15 years.
-(3) After section 279(5) insert:
-(6A) If the offence is committed by a juvenile offender in the course of conduct that constitutes an aggravated home burglary and the court sentences the offender under subsection (5)(a) but does not impose a term of life imprisonment, it —
-(a) must, notwithstanding the Young Offenders Act 1994 section 46(5a), impose either —
-(i) a term of imprisonment of at least 3 years; or
-(ii) a term of detention under the Young Offenders Act 1994 of at least 3 years,
-as the court thinks fit; and
-(b) must not suspend any term of imprisonment imposed; and
-(c) must record a conviction against the offender.
-(6B) Subsection (6A) does not prevent a court from —
-(a) making a direction under the Young Offenders Act 1994 section 118(4); or
-(b) making a special order under Part 7 Division 9 of that Act.
-6.Section 280 amended
-(1) In section 280 delete “If” and insert:
-(1) If
-(2) At the end of section 280 insert:
-(2) If the offence is committed by an adult offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender, if it does not impose a term of imprisonment for life must, notwithstanding any other written law, impose a term of imprisonment of at least 15 years.
-(3) If the offence is committed by a juvenile offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender —
-(a) if it does not impose a term of imprisonment for life must, notwithstanding the Young Offenders Act 1994 section 46(5a), impose either —
-(i) a term of imprisonment of at least 3 years; or
-(ii) a term of detention under the Young Offenders Act 1994 of at least 3 years,
-as the court thinks fit; and
-(b) must not suspend any term of imprisonment imposed; and
-(c) must record a conviction against the offender.
-(4) Subsection (3) does not prevent a court from —
-(a) making a direction under the Young Offenders Act 1994 section 118(4); or
-(b) making a special order under Part 7 Division 9 of that Act.
-7.Section 281 amended
-After section 281(2) insert:
-(3) If the offence is committed by an adult offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender must, notwithstanding any other written law, impose a term of imprisonment of at least 75% of the term specified in subsection (1).
-(4) If the offence is committed by a juvenile offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender —
-(a) must, notwithstanding the Young Offenders Act 1994 section 46(5a), impose either —
-(i) a term of imprisonment of at least 3 years; or
-(ii) a term of detention under the Young Offenders Act 1994 of at least 3 years,
-as the court thinks fit; and
-(b) must not suspend any term of imprisonment imposed; and
-(c) must record a conviction against the offender.
-(5) Subsection (4) does not prevent a court from —
-(a) making a direction under the Young Offenders Act 1994 section 118(4); or
-(b) making a special order under Part 7 Division 9 of that Act.
-8.Section 283 amended
-(1) In section 283 delete “Any person” and insert:
-(1) Any person
-(2) In section 283:
-(a) delete “(1) Attempts” and insert:
-(a) attempts
-(b) delete “(2) With” and insert:
-(b) with
-(3) At the end of section 283 insert:
-(2) If the offence is committed by an adult offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender, if it does not impose a term of life imprisonment must, notwithstanding any other written law, impose a term of imprisonment of at least 15 years.
-(3) If the offence is committed by a juvenile offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender —
-(a) if it does not impose a term of imprisonment for life, must, notwithstanding the Young Offenders Act 1994 section 46(5a), impose either —
-(i) a term of imprisonment of at least 3 years; or
-(ii) a term of detention under the Young Offenders Act 1994 of at least 3 years,
-as the court thinks fit; and
-(b) must not suspend any term of imprisonment imposed; and
-(c) must record a conviction against the offender.
-(4) Subsection (3) does not prevent a court from —
-(a) making a direction under the Young Offenders Act 1994 section 118(4); or
-(b) making a special order under Part 7 Division 9 of that Act.
-9.Section 294 amended
-(1) In section 294 delete “Any person who,” and insert:
-(1) Any person who,
-(2) In section 294:
-(a) delete “(1) unlawfully” and insert:
-(a) unlawfully
-(b) delete “(2) unlawfully” and insert:
-(b) unlawfully
-(c) delete “(3) unlawfully” and insert:
-(c) unlawfully
-(d) delete “(4) sends” and insert:
-(d) sends
-(e) delete “(5) causes” and insert:
-(e) causes
-(f) delete “(6) puts” and insert:
-(f) puts
-(g) delete “(7) unlawfully” and insert:
-(g) unlawfully
-(h) delete “(8) does” and insert:
-(h) does
-(3) At the end of section 294 insert:
-(2) If the offence is committed by an adult offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender must, notwithstanding any other written law, impose a term of imprisonment of at least 75% of the term specified in subsection (1).
-(3) If the offence is committed by a juvenile offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender —
-(a) must, notwithstanding the Young Offenders Act 1994 section 46(5a), impose either —
-(i) a term of imprisonment of at least 3 years; or
-(ii) a term of detention under the Young Offenders Act 1994 of at least 3 years,
-as the court thinks fit; and
-(b) must not suspend any term of imprisonment imposed; and
-(c) must record a conviction against the offender.
-(4) Subsection (3) does not prevent a court from —
-(a) making a direction under the Young Offenders Act 1994 section 118(4); or
-(b) making a special order under Part 7 Division 9 of that Act.
-10.Section 297 amended
-(1) Delete section 297(5), (6) and (7) and insert:
-(5) If the offence is committed by an adult offender, then the court sentencing the offender —
-(a) if the offence is committed in the course of conduct that constitutes an aggravated home burglary, must, notwithstanding any other written law, impose a term of imprisonment of —
-(i) at least 75% of the term specified in subsection (3), where the offence is committed in circumstances of aggravation; or
-(ii) at least 75% of the term specified in subsection (1), in any other case;
-and
-(b) if the offence is committed in prescribed circumstances, must, notwithstanding any other written law, impose a term of imprisonment of at least 12 months, and must not suspend the term of imprisonment imposed.
-(6) If the offence is committed by a juvenile offender, then the court sentencing the offender —
-(a) if the offence is committed in the course of conduct that constitutes an aggravated home burglary, must, notwithstanding the Young Offenders Act 1994 section 46(5a), impose either —
-(i) a term of imprisonment of at least 3 years; or
-(ii) a term of detention under the Young Offenders Act 1994 of at least 3 years,
-as the court thinks fit; and
-(b) if the offence is committed in prescribed circumstances, must, notwithstanding the Young Offenders Act 1994, impose either —
-(i) a term of imprisonment of at least 3 months, notwithstanding the Sentencing Act 1995 section 86; or
-(ii) a term of detention under the Young Offenders Act 1994 of at least 3 months,
-as the court thinks fit,
-and in either case must not suspend any term of imprisonment imposed and must record a conviction.
-(7) Subsection (6) does not prevent a court from —
-(a) making a direction under the Young Offenders Act 1994 section 118(4); or
-(b) making a special order under Part 7 Division 9 of that Act.
-(2) In section 297(8) delete “subsections (5) and (7)” and insert:
-subsections (5) and (6)
-11.Section 320 amended
-After section 320(6) insert:
-(7) If an offence under this section is committed by an adult offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender must, notwithstanding any other written law, impose a term of imprisonment of at least 75% of the term specified in whichever of subsection (2), (3), (4), (5) or (6) constitutes the offence.
-(8) If an offence under this section is committed by a juvenile offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender —
-(a) must, notwithstanding the Young Offenders Act 1994 section 46(5a), impose either —
-(i) a term of imprisonment of at least 3 years; or
-(ii) a term of detention under the Young Offenders Act 1994 of at least 3 years,
-as the court thinks fit; and
-(b) must not suspend any term of imprisonment imposed; and
-(c) must record a conviction against the offender.
-(9) Subsection (8) does not prevent a court from making a direction under the Young Offenders Act 1994 section 118(4).
-12.Section 321 amended
-After section 321(13) insert:
-(14) If an offence under this section is committed by an adult offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender must, notwithstanding any other written law, impose a term of imprisonment of at least 75% of the term specified in whichever of subsection (7) or (8) applies to the offence.
-(15) If an offence under this section is committed by a juvenile offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender —
-(a) must, notwithstanding the Young Offenders Act 1994 section 46(5a), impose either —
-(i) a term of imprisonment of at least 3 years; or
-(ii) a term of detention under the Young Offenders Act 1994 of at least 3 years,
-as the court thinks fit; and
-(b) must not suspend any term of imprisonment imposed; and
-(c) must record a conviction against the offender.
-(16) Subsection (15) does not prevent a court from making a direction under the Young Offenders Act 1994 section 118(4).
-13.Section 324 amended
-(1) In section 324 delete “A person” and insert:
-(1) A person
-(2) At the end of section 324 insert:
-(2) If the offence is committed in the course of conduct that constituted an aggravated home burglary it is not to be dealt with summarily.
-(3) If the offence is committed by an adult offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender must, notwithstanding any other written law, impose a term of imprisonment of at least 75% of the term specified in subsection (1) (not being the term specified in the summary conviction penalty in that subsection).
-(4) If the offence is committed by a juvenile offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender —
-(a) must, notwithstanding the Young Offenders Act 1994 section 46(5a), impose either —
-(i) a term of imprisonment of at least 3 years; or
-(ii) a term of detention under the Young Offenders Act 1994 of at least 3 years,
-as the court thinks fit; and
-(b) must not suspend any term of imprisonment imposed; and
-(c) must record a conviction against the offender.
-(5) Subsection (4) does not prevent a court from —
-(a) making a direction under the Young Offenders Act 1994 section 118(4); or
-(b) making a special order under Part 7 Division 9 of that Act.
-14.Section 325 amended
-(1) In section 325 delete “A person” and insert:
-(1) A person
-(2) At the end of section 325 insert:
-(2) If the offence is committed by an adult offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender must, notwithstanding any other written law, impose a term of imprisonment of at least 75% of the term specified in subsection (1).
-(3) If the offence is committed by a juvenile offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender —
-(a) must, notwithstanding the Young Offenders Act 1994 section 46(5a), impose either —
-(i) a term of imprisonment of at least 3 years; or
-(ii) a term of detention under the Young Offenders Act 1994 of at least 3 years,
-as the court thinks fit; and
-(b) must not suspend any term of imprisonment imposed; and
-(c) must record a conviction against the offender.
-(4) Subsection (3) does not prevent a court from —
-(a) making a direction under the Young Offenders Act 1994 section 118(4); or
-(b) making a special order under Part 7 Division 9 of that Act.
-15.Section 326 amended
-(1) In section 326 delete “A person” and insert:
-(1) A person
-(2) At the end of section 326 insert:
-(2) If the offence is committed by an adult offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender must, notwithstanding any other written law, impose a term of imprisonment of at least 75% of the term specified in subsection (1).
-(3) If the offence is committed by a juvenile offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender —
-(a) must, notwithstanding the Young Offenders Act 1994 section 46(5a), impose either —
-(i) a term of imprisonment of at least 3 years; or
-(ii) a term of detention under the Young Offenders Act 1994 of at least 3 years,
-as the court thinks fit; and
-(b) must not suspend any term of imprisonment imposed; and
-(c) must record a conviction against the offender.
-(4) Subsection (3) does not prevent a court from —
-(a) making a direction under the Young Offenders Act 1994 section 118(4); or
-(b) making a special order under Part 7 Division 9 of that Act.
-16.Section 327 amended
-(1) In section 327 delete “A person” and insert:
-(1) A person
-(2) At the end of section 327 insert:
-(2) If the offence is committed by an adult offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender must, notwithstanding any other written law, impose a term of imprisonment of at least 75% of the term specified in subsection (1).
-(3) If the offence is committed by a juvenile offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender —
-(a) must, notwithstanding the Young Offenders Act 1994 section 46(5a), impose either —
-(i) a term of imprisonment of at least 3 years; or
-(ii) a term of detention under the Young Offenders Act 1994 of at least 3 years,
-as the court thinks fit; and
-(b) must not suspend any term of imprisonment imposed; and
-(c) must record a conviction against the offender.
-(4) Subsection (3) does not prevent a court from making a direction under the Young Offenders Act 1994 section 118(4).
-17.Section 328 amended
-(1) In section 328 delete “A person” and insert:
-(1) A person
-(2) At the end of section 328 insert:
-(2) If the offence is committed by an adult offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender must, notwithstanding any other written law, impose a term of imprisonment of at least 75% of the term specified in subsection (1).
-(3) If the offence is committed by a juvenile offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender —
-(a) must, notwithstanding the Young Offenders Act 1994 section 46(5a), impose either —
-(i) a term of imprisonment of at least 3 years; or
-(ii) a term of detention under the Young Offenders Act 1994 of at least 3 years,
-as the court thinks fit; and
-(b) must not suspend any term of imprisonment imposed; and
-(c) must record a conviction against the offender.
-(4) Subsection (3) does not prevent a court from making a direction under the Young Offenders Act 1994 section 118(4).
-18.Section 330 amended
-After section 330(9) insert:
-(10) If an offence under this section is committed by an adult offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender must, notwithstanding any other written law, impose a term of imprisonment of at least 75% of the term specified in whichever of subsection (7) or (8) applies to the offence.
-(11) If an offence under this section is committed by a juvenile offender in the course of conduct that constitutes an aggravated home burglary, the court sentencing the offender —
-(a) must, notwithstanding the Young Offenders Act 1994 section 46(5a), impose either —
-(i) a term of imprisonment of at least 3 years; or
-(ii) a term of detention under the Young Offenders Act 1994 of at least 3 years,
-as the court thinks fit; and
-(b) must not suspend any term of imprisonment imposed; and
-(c) must record a conviction against the offender.
-(12) Subsection (11) does not prevent a court from making a direction under the Young Offenders Act 1994 section 118(4).
-Division 3 — Amendments relating to home burglary repeat offenders
-19.Section 400 amended
-(1) In section 400(1) insert in alphabetical order:
-commencement day means the day on which the Criminal Law Amendment (Home Burglary and Other Offences) Act 2015 section 19 comes into operation;
-(2) Delete section 400(3) and (4).
-20.Sections 401A and 401B inserted
-After section 400 insert:
-401A.Term used: relevant conviction
-(1) For the purposes of this Chapter, subject to subsections (2), (3) and (4), a person’s conviction for a home burglary is a relevant conviction for that person if —
-(a) the home burglary was committed before the commencement day and either —
-(i) it is the person’s first conviction for a home burglary (the person’s first relevant conviction); or
-(ii) it is the person’s first conviction for a home burglary committed after the date on which the person’s first relevant conviction was recorded (the person’s second relevant conviction); or
-(iii) it is a conviction for a home burglary committed after the date on which the person’s second relevant conviction was recorded;
-or
-(b) the home burglary was committed on or after the commencement day and —
-(i) the person is an adult offender with respect to the home burglary; or
-(ii) the person is a juvenile offender with respect to the home burglary and either —
-(I) it is the person’s first conviction for a home burglary; or
-(II) at the time of the home burglary, the person already had a conviction for a previous home burglary;
-or
-(iii) at the time of the home burglary the person had not reached 16 years of age, and either —
-(I) it is the person’s first conviction for a home burglary (the person’s first relevant conviction); or
-(II) it is the person’s first conviction for a home burglary committed after the date on which the person’s first relevant conviction was recorded (the person’s second relevant conviction); or
-(III) it is a conviction for a home burglary committed after the date on which the person’s second relevant conviction was recorded.
-(2) In this section —
-(a) a conviction includes a finding or admission of guilt that leads to a punishment being imposed on, or an order being made in respect of, the person, whether or not a conviction was recorded; and
-(b) a conviction does not include a conviction that has been set aside or quashed.
-(3) For the purposes of this section, convictions for 2 or more home burglaries committed on the same day on or after the commencement day are to be treated as a single conviction.
-(4) Where —
-(a) a person has 2 or more relevant convictions (the prior relevant convictions); and
-(b) after the sentence completion date for the latest of the prior relevant convictions, the person is convicted for another home burglary (the new conviction); and
-(c) the new conviction relates to a home burglary which was committed before the date on which the home burglary to which the latest of the prior relevant convictions relates was committed; and
-(d) the court sentencing the offender for the home burglary to which the new conviction relates (the sentencing court) considers that exceptional circumstances exist which justify imposing a lesser sentence than would be required by section 401(4),
-the sentencing court may decide to impose a lesser sentence than would be required by section 401(4).
-(5) In subsection (4) —
-sentence completion date for a conviction means —
-(a)where no sentence or other punishment is imposed in respect of the conviction, the date of the conviction; and
-(b)where a conditional release order is imposed under the Sentencing Act 1995 Part 7 in respect of the conviction, the date on which the conditional release order ceases to be in force under section 48(2) of that Act; and
-(c)where a fine is imposed under the Sentencing Act 1995 Part 8 in respect of the conviction, the earlier of —
-(i)the date on which the fine is paid; or
-(ii)the date on which the offender’s liability to pay the fine is discharged under section 58(6) or 59(1) of that Act;
-and
-(d)where a community based order is imposed under the Sentencing Act 1995 Part 9 in respect of the conviction, the date on which the community based order ceases to be in force under section 62(4) of that Act; and
-(e)where an intensive supervision order is imposed under the Sentencing Act 1995 Part 10 in respect of the conviction, the date on which the intensive supervision order ceases to be in force under section 69(5) of that Act; and
-(f)where suspended imprisonment is imposed under the Sentencing Act 1995 Part 11 in respect of the conviction, the date on which the offender is taken to be discharged under section 77(4) of that Act; and
-(g)where conditional suspended imprisonment is imposed under the Sentencing Act 1995 Part 12 in respect of the conviction, the date on which the offender is taken to be discharged under section 82(4) of that Act; and
-(h)where a term of imprisonment is imposed under the Sentencing Act 1995 Part 13 in respect of the conviction, the date on which the offender is discharged under section 93(3) or 95 of that Act or the Sentence Administration Act 2003 section 66(2); and
-(i)where a youth community based order is imposed under the Young Offenders Act 1994 Part 7 Division 6 in respect of the conviction, the date on which the order ceases to be in force under section 76(2) of that Act; and
-(j)where an intensive youth supervision order is imposed under the Young Offenders Act 1994 Part 7 Division 7 in respect of the conviction without a sentence of detention, the date on which the order ceases to be in force under section 76(2) of that Act; and
-(k)where a term of detention is imposed under the Young Offenders Act 1994 section 118(1)(b) in respect of the conviction, whether or not an intensive youth supervision order is also imposed under Part 7 Division 7 of that Act, the last day of that term.
-(6) A court making the decision referred to in subsection (4) must give written reasons why the decision was made.
-401B.Term used: repeat offender
-(1) For the purposes of this Chapter, a person who is being sentenced for a home burglary (the current offence) is a repeat offender if the person has at least 3 relevant convictions.
-(2) For the purposes of subsection (1) —
-(a) the person’s conviction for the current offence, if it is a relevant conviction, is to be counted; and
-(b) each of the person’s relevant convictions is to be counted, regardless of whether the home burglary to which it relates was committed before or after the date of any previous relevant conviction; and
-(c) each of the person’s relevant convictions is to be counted, regardless of whether it has been counted on the occasion of sentencing for a previous home burglary to determine whether the person was, on that occasion, a repeat offender.
-21.Section 401 amended
-(1) In section 401(1) delete paragraphs (a) and (b) and insert:
-(a) if the offence is an aggravated home burglary, to imprisonment for 20 years; or
-(ba) if the offence is not a home burglary but is committed in circumstances of aggravation, to imprisonment for 20 years; or
-(b) if the offence is a home burglary not committed in circumstances of aggravation, to imprisonment for 18 years; or
-(2) In section 401(1) in the summary conviction penalty after paragraph (a) insert:
-(ba)in a case to which paragraph (ba) applies where the only circumstance of aggravation is that the offender is in company with another person or other persons — imprisonment for 3 years and a fine of $36 000; or
-(3) In section 401(2) delete paragraphs (a) and (b) and insert:
-(a) if the offence is an aggravated home burglary, to imprisonment for 20 years; or
-(ba) if the offence is not a home burglary but is committed in circumstances of aggravation, to imprisonment for 20 years; or
-(b) if the offence is a home burglary not committed in circumstances of aggravation, to imprisonment for 18 years; or
-(4) In section 401(2) in the summary conviction penalty after paragraph (a) insert:
-(ba)in a case to which paragraph (ba) applies where the only circumstance of aggravation is that the offender is in company with another person or other persons — imprisonment for 3 years and a fine of $36 000; or
-(5) Delete section 401(4) and insert:
-(4) Subject to section 401A(4), where a person convicted under this section of a home burglary (the current offence) is a repeat offender, whether or not the conviction for the current offence is a relevant conviction the court sentencing the person for the current offence —
-(a) if the current offence was committed before the commencement day —
-(i) if the person is an adult offender, notwithstanding any other written law, must impose a term of imprisonment of at least 12 months; or
-(ii) if the person had not reached 18 years of age when the current offence was committed, notwithstanding the Young Offenders Act 1994 section 46(5a), must impose either —
-(I) a term of imprisonment of at least 12 months; or
-(II) a term of detention under the Young Offenders Act 1994 of at least 12 months,
-as the court thinks fit;
-or
-(b) if the current offence was committed on or after the commencement day —
-(i) if the person is an adult offender, notwithstanding any other written law, must impose a term of imprisonment of at least 2 years; or
-(ii) if the person had not reached 18 years of age when the current offence was committed, notwithstanding the Young Offenders Act 1994 section 46(5a), must impose either —
-(I) a term of imprisonment of at least 12 months; or
-(II) a term of detention under the Young Offenders Act 1994 of at least 12 months,
-as the court thinks fit.
-(6) In section 401(5) delete “shall” and insert:
-must
-(7) Delete section 401(6) and insert:
-(6) Subsection (4) does not prevent a court from —
-(a) making a direction under the Young Offenders Act 1994 section 118(4); or
-(b) making a special order under Part 7 Division 9 of that Act.
-Division 4 — Other amendments
-22.Section 740B inserted
-After section 740A insert:
-740B.Review of certain amendments relating to home burglary
-(1) In this section —
-review date means the fifth anniversary of the day on which the Criminal Law Amendment (Home Burglary and Other Offences) Act 2015 section 4 comes into operation.
-(2) As soon as practicable after the review date the Minister is to review the operation and effectiveness of —
-(a) the amendments made to this Code by the Criminal Law Amendment (Home Burglary and Other Offences) Act 2015 Part 2 Divisions 2 and 3; and
-(b) the amendment made to the Sentencing Act 1995 by the Criminal Law Amendment (Home Burglary and Other Offences) Act 2015 Part 3.
-(3) The Minister is to cause a report of the review to be laid before each House of Parliament as soon as practicable after it is done.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 accessory after the fact10
 accused5(1), 10G(2), 10H(2)
+adult offender1(1)
 advice given546
 agent546
+aggravated home burglary1(1)
 aid148(1)
 aircraft1(1)
 Alternative offence10B
@@ -612,6 +277,7 @@ circumstances of racial aggravation1(1), 80I
 clerk1(1)
 COC Act221C(1)
 commencementSch. 1 cl. 1
+commencement day400(1)
 Commissioner557I(1)
 company1(1)
 compound136(1)
@@ -624,9 +290,11 @@ contract546
 conveyance1(1), 284(1), 390A(1)
 court5(1)
 court of summary jurisdiction1(1)
+CP Act720
 criminal organisation221C(1), 221D(1)
 criminal responsibility1(1)
 criminally responsible1(1)
+current offence401B(1), 401(4)
 damage1(1)
 damage,1(1)
 dangerous goods294A(3)
@@ -657,6 +325,7 @@ enclosed land70B(1)
 explosive substance1(1), 455, 557(2)
 family and domestic relationship221(2)
 female genital mutilation306(1)
+first relevant conviction401A(1), 401A(1)
 forge1(1)
 government contractor81(1)
 graffiti implement216(1)
@@ -665,6 +334,7 @@ harass76
 harm305A(1)
 harmful act248(1)
 holder of a judicial office121
+home burglary1(1)
 home invader244(2)
 identification equipment492(1)
 identification information489
@@ -684,6 +354,7 @@ intimidate338D(1)
 intoxicant206(1)
 intoxicating substance305A(1)
 judicial proceeding120
+juvenile offender1(1)
 kill270
 law enforcement agency221A(4)
 lawful excuse68B(1), 68C(1), 68D(1)
@@ -699,6 +370,7 @@ mental impairment1(1)
 money1(1)
 mortgaged goods389
 motor vehicle1(1)
+new conviction401A(4)
 night1(1)
 night-time1(1)
 obstruct172(1)
@@ -729,6 +401,7 @@ prescribed place68B(1)
 principal546
 principal offence10D, 10E, 10F, 10G(1), 10G(2), 10H(1), 10H(2), 552(1), 553(1), 558(1), 558(1), 562(1)
 print98(1), 99(1)
+prior relevant convictions401A(4)
 prison145(1)
 proceeds563A(3)
 prohibited conduct187(1)
@@ -747,16 +420,22 @@ receives1(1)
 record1(1)
 registered brand1(1)
 registered mark1(1)
+relevant conviction401A(1)
 relevant period99(1)
+repeat offender401B(1)
 responsible adult75B(1)
 restricted-access computer system440A(1)
+review date740B(1)
 reward96(1)
 riot62
 riotously assembled62
+second relevant conviction401A(1)
 seditious enterprise46
 seditious intention44
 seditious words46
 seditious writing46
+sentence completion date401A(5)
+sentencing court401A(4)
 serious disease1(1)
 servant1(1)
 set305(1)
