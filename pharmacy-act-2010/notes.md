@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 186 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+Associations Incorporation Act 2015 s. 225 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 186 had not come into operation. It reads as follows:
 186.Pharmacy Act 2010 amended
 (1) This section amends the Pharmacy Act 2010.
@@ -23,6 +24,11 @@ Medicines and Poisons Act 2014
 (1) In this section —
 CEO has the meaning given in the Medicines and Poisons Act 2014 section 3.
 (2) The Board is required to notify the CEO of information recorded in the register as soon as is practicable after the information is recorded.
+On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 225 had not come into operation. It reads as follows:
+225.Pharmacy Act 2010 amended
+(1) This section amends the Pharmacy Act 2010.
+(2) In section 3(1) in the definition of preserved company delete “association incorporated under the Associations Incorporation Act 1987;” and insert:
+association taken to be incorporated under the Associations Incorporation Act 2015;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
