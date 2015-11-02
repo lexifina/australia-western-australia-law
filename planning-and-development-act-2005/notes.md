@@ -7,7 +7,7 @@ Swan Valley Planning Legislation Amendment Act 2006 s. 20(3) | 7 of 2006 | 19 Ap
 Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
 Land Information Authority Act 2006 s. 147 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 127 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Reprint 1: The Planning and Development Act 2005 as at 23 Nov 2007 (includes amendments listed above except those in the Planning and Development Act 2005 s.149, 150 and Pt. 13 Div. 3)
+Reprint 1: The Planning and Development Act 2005 as at 23 Nov 2007 (includes amendments listed above except those in the Planning and Development Act 2005 s. 149, 150 and Pt. 13 Div. 3)
 Acts Amendment (Justice) Act 2008 Pt. 18 | 5 of 2008 | 31 Mar 2008 | 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253)
 Legal Profession Act 2008 s. 690 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 100 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
@@ -26,6 +26,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
+Associations Incorporation Act 2015 s. 226 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Repealed by the Land Administration Act 1997.
 Repealed by the Water Resources Legislation Amendment Act 2007.
 Repealed by the Mining Act 1978.
@@ -178,6 +179,11 @@ Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealt
 The Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 56(4) is a transitional provision that is of no further effect.
 Footnote no longer applicable.
 Under the Local Government Act 1995 sections 2.4(2) and 2.3, the Shire of Roebourne is declared to be a city and is named the City of Karratha as at 1 Jul 2014 (see Gazette 3 Jun 2014 p. 1746).
+On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 226 had not come into operation. It reads as follows:
+226.Planning and Development Act 2005 amended
+(1) This section amends the Planning and Development Act 2005.
+(2) In section 182(2)(b) delete “Australia and incorporated under the Associations Incorporation Act 1987.” and insert:
+Australia, an incorporated association under the Associations Incorporation Act 2015.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
