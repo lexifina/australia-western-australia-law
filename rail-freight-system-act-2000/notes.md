@@ -13,22 +13,11 @@ Rail Safety Act 2010 Pt. 11 Div. 4 | 18 of 2010 | 28 Jun 2010 | 1 Feb 2011 (see 
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 2: The Rail Freight System Act 2000 as at 3 Feb 2012 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Rail Safety National Law (WA) Act 2015 Pt. 5 | 21 of 2015 | 17 Sep 2015 | To be proclaimed (see s. 2(b))
+Rail Safety National Law (WA) Act 2015 Pt. 5 | 21 of 2015 | 17 Sep 2015 | 2 Nov 2015 (see s. 2(b) and Gazette 16 Oct 2015 p. 4149)
 The provisions in this Act amending other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Government Railways (Access) Act 1998 the short title of which was changed to the Railways (Access) Act 1998 by s. 62 of this Act. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the National Rail Corporation Agreement Repeal Act 1999.
 The Public Transport Authority Act 2003 Pt. 7 Div. 3, 5, and 6 deal with transitional matters.
-On the date as at which this compilation was prepared, the Rail Safety National Law (WA) Act 2015 Pt. 5 had not come into operation. It reads as follows:
-Part 5 — Consequential amendments
-50.Various references to “Rail Safety Act 2010” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Rail Safety Act 2010” and insert:
-Rail Safety National Law (WA) Act 2015
-Table
-Rail Freight System Act 2000 | s. 9(1)(a)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

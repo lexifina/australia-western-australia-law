@@ -9,19 +9,9 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4, 12 and Sch. 1 cl. 138 
 Public Transport Authority Amendment Act 2008 | 42 of 2008 | 3 Jul 2008 | s. 1 and 2: 3 Jul 2008 (see s. 2(a)); Act other than s. 1 and 2: 28 Mar 2009 (see s. 2(b) and Gazette 27 Mar 2009 p. 917)
 Reprint 1: The Public Transport Authority Act 2003 as at 3 Apr 2009 (includes amendments listed above)
 Rail Safety Act 2010 Pt. 11 Div. 3 | 18 of 2010 | 28 Jun 2010 | 1 Feb 2011 (see s. 2(b) and Gazette 28 Jan 2011 p. 241)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Rail Safety National Law (WA) Act 2015 Pt. 5 | 21 of 2015 | 17 Sep 2015 | To be proclaimed (see s. 2(b))
+Rail Safety National Law (WA) Act 2015 Pt. 5 | 21 of 2015 | 17 Sep 2015 | 2 Nov 2015 (see s. 2(b) and Gazette 16 Oct 2015 p. 4149)
 The provisions in the Public Transport Authority Act 2003 amending or repealing these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
-On the date as at which this compilation was prepared, the Rail Safety National Law (WA) Act 2015 Pt. 5 had not come into operation. It reads as follows:
-Part 5 — Consequential amendments
-50.Various references to “Rail Safety Act 2010” amended
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “Rail Safety Act 2010” and insert:
-Rail Safety National Law (WA) Act 2015
-Table
-Public Transport Authority Act 2003 | s. 3 def. of train s. 4(1)(a)
+Footnote no longer applicable.
 The Government Railways Act 1904 s. 43(5) was redesignated as s. 43(e) on 11 Sep 2010 by the Standardisation of Formatting Act 2010 s. 60.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
