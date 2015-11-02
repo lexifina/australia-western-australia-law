@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 February 2014 of the Water Corporations Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Water Corporations Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Water Corporation Act 1995 | 70 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2 and Gazette 29 Dec 1995 p. 6291)
@@ -27,11 +27,20 @@ Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 
 Public Sector Reform Act 2010 s. 87 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Water Services Legislation Amendment and Repeal Act 2012 Pt. 7 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Reprint 4: The Water Corporations Act 1995 as at 7 Feb 2014 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Associations Incorporation Act 2015 s. 231 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Now known as the Plumbers Licensing Act 1995.
 Now known as the Water Corporations Act 1995; short title changed (see note under s. 1).
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 4 is a validation provision.
 The amendment in the Statutes (Repeals and Minor Amendments) Act 2003 s. 127(5) is not included because the Schedule it sought to amend had been replaced in Gazette 24 May 2002 p. 2605-17 before the amendment purported to come into operation.
 The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 231 had not come into operation. It reads as follows:
+231.Water Corporations Act 1995 amended
+(1) This section amends the Water Corporations Act 1995.
+(2) In section 31(5)(a) after “member of the” insert:
+management
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
