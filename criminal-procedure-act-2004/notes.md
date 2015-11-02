@@ -16,8 +16,17 @@ Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 15 | 8 of 2012 | 21 May 2
 Courts Legislation Amendment Act 2012 Pt. 2 | 43 of 2012 | 22 Nov 2012 | 30 Jan 2013 (see s. 2(b) and Gazette 29 Jan 2013 p. 323)
 Reprint 2: The Criminal Procedure Act 2004 as at 24 May 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 15)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 8 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Associations Incorporation Act 2015 s. 214 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 10 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Prisons Act 1981 s. 21 and 22 were deleted by the Prisons and Sentencing Legislation Amendment Act 2006 s. 13.
+On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 214 had not come into operation. It reads as follows:
+214.Criminal Procedure Act 2004 amended
+(1) This section amends the Criminal Procedure Act 2004.
+(2) In Schedule 2 clause 4(2)(c) delete “1987 section 41” and insert:
+2015 section 176
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
