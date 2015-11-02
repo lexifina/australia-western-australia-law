@@ -41,6 +41,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 Conservation and Land Management Amendment Act 2015 s. 73 | 28 of 2015 | 19 Oct 2015 | To be proclaimed (see s. 2(b))
+Associations Incorporation Act 2015 s. 232 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 The amendment to s. 245(1) in the Public Sector Reform Act 2010 s. 89 is not included because the section it sought to amend was deleted by the Fish Resources Management Amendment Act 2009 s. 19.
 The Fish Resources Management Amendment Act 2002 s. 8(2)-(4) read as follows:
 (2) The arrangements of 15 April 1995 by which the Minister for Fisheries purported to lease from the Minister for Transport that portion of land known as “Aquaculture Park Area”, being a total area of 7.8152 hectares situated in the Broome Port area, for the purposes of establishing an aquaculture park are to be taken to be, and always to have been, as valid as they would have been if the amendments made to the Fish Resources Management Act 1994 by this Act were in effect at the time the arrangements were made.
@@ -109,6 +110,13 @@ nothing in this section prevents the authorisation from being renewed in respect
 (b) a declaration is made under the Conservation and Land Management Act 1984 section 13B(3A)(b) or (3B)(c) or (e) in relation to any of those types or classes of commercial fishing or recreational fishing in that area or part; and
 (c) the area or part is not an area or part from which the remainder of the types or classes of commercial fishing or recreational fishing are excluded under the Conservation and Land Management Act 1984 section 13B,
 nothing in this section prevents the authorisation from being renewed in respect of the types or classes of commercial fishing or recreational fishing that are not so excluded in that area or part.
+On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 232 had not come into operation. It reads as follows:
+232.References to “1987” amended to “2015” in various Acts
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “1987” and insert:
+2015
+Table
+Fish Resources Management Act 1994 | s. 4(1) def. of Aboriginal body corporate par. (b)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
