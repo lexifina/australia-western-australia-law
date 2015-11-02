@@ -49,10 +49,13 @@ Reprint 6: The Liquor Control Act 1988 as at 20 Nov 2009 (includes amendments li
  | Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 28 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
  | Criminal Organisations Control Act 2012 s. 178 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
  | Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
+ | Liquor Legislation Amendment Act 2015 Pt. 2 (other than s. 26) | 35 of 2015 | 2 Nov 2015 | Pt. 2 (other than s. 26): 20 Nov 2015 (see s. 2(b) and Gazette 17 Nov 2015 p. 4693)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Associations Incorporation Act 2015 s. 222 and 232 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
+Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Acts 1984 s. 7(4)(f).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Repealed by the Public Sector Management Act 1994.
@@ -67,6 +70,113 @@ On the date as at which this compilation was prepared, the Prostitution Amendmen
 (1) The amendment in this section is to the Liquor Control Act 1988.
 (2) After section 37(6) the following subsection is inserted —
 (7) An application shall not be granted where the licensing authority is satisfied that the premises to which the application relates are premises at or from which a sexual service business within the meaning of the Sexual Services Act 2000 section 3 operates.
+On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 222 and 232 had not come into operation. They read as follows:
+222.Liquor Control Act 1988 amended
+(1) This section amends the Liquor Control Act 1988.
+(2) In section 37(2A) delete “incorporated under the Associations Incorporation Act 1987” and insert:
+incorporated, or taken to be incorporated, under the Associations Incorporation Act 2015
+232.References to “1987” amended to “2015” in various Acts
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “1987” and insert:
+2015
+Table
+Liquor Control Act 1988 | s. 49(1)(a)(i) and (6), Sch. 2 Div. 1 cl. 1 def. of League, Sch. 2 Div. 2 cl. 1 def. of Association
+On the date as at which this compilation was prepared, the Liquor Legislation Amendment Act 2015 s. 26 had not come into operation. It reads as follows:
+26.Part 7A inserted
+After section 172A insert:
+Part 7A — Alcohol Intervention
+Division 1 — Preliminary
+172B.Terms used
+(1) In this Part —
+AI authorised person, in section 172I or 172L, means a person appointed under section 172D to be an authorised person for the purposes of the section in which the term is used;
+alcohol intervention requirement means a notice referred to in section 172F;
+alcohol intervention session means an alcohol intervention session —
+(a)provided by a treatment provider approved under section 172J(2)(b); and
+(b)the content of which is approved under section 172J(2)(a);
+alleged offender means a young person who is suspected on reasonable grounds by a police officer of having committed a minor alcohol related offence;
+CEO (Health) means the chief executive officer of the department principally assisting the Minister responsible for the administration of the Health Legislation Administration Act 1984;
+minor alcohol related offence means an offence under —
+(a)section 110(4A), 110(5), 115(2), 115(5), 115(6), 115(7), 119(1), 119(2), 119(4), 119(5), 121(4)(c), 121(7), 121(7a), 122(3), 123, 126(2), 126(4) or 126(5);
+(b)section 121(3) in relation to a juvenile only;
+police officer does not include a person appointed by the Commissioner of Police as an AI authorised person under section 172D;
+responsible adult has the meaning given in the Young Offenders Act 1994 section 3;
+young person means —
+(a)a person who is a juvenile; or
+(b)in relation to the commission, or alleged commission, of a minor alcohol related offence, was a juvenile when the offence was committed, or allegedly committed.
+(2) In this Part the following abbreviations are used —
+AIR for alcohol intervention requirement;
+AIS for alcohol intervention session.
+172C.Operation of Young Offenders Act 1994 unaffected
+Nothing in this Part prevents a young person from being dealt with under the Young Offenders Act 1994 Part 5 in respect of a minor alcohol related offence.
+172D.Appointment of AI authorised persons
+The Commissioner of Police may, in writing, appoint persons or classes of persons to be AI authorised persons for the purposes of section 172I or 172L, or for the purposes of both of those sections.
+Division 2 — Alcohol intervention requirements
+172E.AIR may be given to alleged offender for minor alcohol related offence
+(1) Unless section 172G(1) applies, a police officer may give an alcohol intervention requirement to an alleged offender.
+(2) A police officer who suspects on reasonable grounds that —
+(a) an alleged offender has committed more than one minor alcohol related offence; and
+(b) the alleged offences have arisen out of the same incident,
+may give a single AIR in respect of all or some of the offences.
+(3) An AIR is to be given as soon as practicable, and in any event within 60 days, after an alleged offence is believed to have been committed.
+172F.Alcohol intervention requirement
+(1) An AIR is a notice in a form prescribed by the regulations —
+(a) containing a description of the alleged offence, or offences; and
+(b) informing the alleged offender that —
+(i) he or she may, in writing, elect to be prosecuted for the alleged offence, or offences, in a court, and informing the alleged offender how to make that election; and
+(ii) if he or she does not wish to be prosecuted for the alleged offence or offences in a court, the alleged offender may, within a period of 28 days after the giving of the AIR, complete an AIS;
+and
+(c) informing the alleged offender as to how the alleged offender may arrange to complete an AIS.
+(2) An alleged offender need only complete a single AIS for each AIR given to the alleged offender, even if the AIR is given in respect of more than one alleged offence.
+172G.Special requirements about AIRs
+(1) An AIR cannot be given in respect of an alleged offence (the new offence) if the alleged offender —
+(a) had been convicted of, or given an AIR in respect of, 2 or more minor alcohol related offences before the new offence was allegedly committed; and
+(b) at least 2 of those offences arose, or are alleged to have arisen, out of separate incidents.
+(2) A police officer who gives an alleged offender an AIR is to ensure that a responsible adult is given a copy of the AIR as soon as is reasonably practicable after the AIR is given to the alleged offender, unless —
+(a) after reasonable enquiry, neither the whereabouts nor the address of a responsible adult can be ascertained; or
+(b) in the circumstances it would be inappropriate to give a responsible adult a copy of the AIR.
+(3) An alleged offender who has been given 2 AIRs need only complete a single AIS in respect of the AIRs if both AIRs were given before the completion of the AIS.
+172H.Referral of young persons at risk to juvenile justice teams
+(1) In this section —
+young person at risk means an alleged offender —
+(a)to whom the police officer would have given an AIR, but for section 172G(1); or
+(b)who has been given an AIR and has not completed an AIS within 28 days or any further time allowed under section 172L, unless —
+(i)the AIR has been withdrawn under section 172I; or
+(ii)the alleged offender has elected to be prosecuted for the alleged offence in a court.
+(2) A police officer may refer a young person at risk to a juvenile justice team where appropriate under the Young Offenders Act 1994 in preference to charging the young person under this Act.
+172I.Withdrawal of AIR
+(1) An AI authorised person may withdraw an AIR by sending to the alleged offender a notice in a form prescribed by the regulations stating that the AIR has been withdrawn.
+(2) An AIR cannot be withdrawn if the alleged offender has completed an AIS in relation to the AIR.
+(3) An AIR that is withdrawn is taken not to have been given to an alleged offender for the purposes of section 172G(1).
+Division 3 — Alcohol intervention sessions
+172J.Alcohol intervention session
+(1) The purpose of an alcohol intervention session is to inform those who complete it about —
+(a) the adverse health and social consequences of alcohol use; and
+(b) the laws relating to the possession of alcohol; and
+(c) effective strategies to address alcohol using behaviour.
+(2) The CEO (Health) may, in writing, do any of the following —
+(a) having regard to subsection (1), approve the content of an alcohol intervention session;
+(b) approve treatment providers to provide alcohol intervention sessions;
+(c) give an approval under paragraph (b) subject to conditions to be obeyed by the treatment provider approved;
+(d) cancel or amend an approval given under paragraph (a) or (b).
+(3) For the purposes of this section, this Act is to be taken to be a relevant Act as referred to in the Health Legislation Administration Act 1984 section 9.
+172K.Benefit of completing AIS
+(1) If the alleged offender has completed an AIS in respect of an AIR within 28 days or such further time as is allowed under section 172L, the bringing of proceedings and the imposition of penalties are prevented to the same extent that they would be prevented if the alleged offender had been convicted by a court of, and punished for, the alleged offence.
+(2) Completion of an AIS is not to be regarded as an admission for the purposes of any proceedings, whether civil or criminal.
+172L.Extension of time to complete AIS
+(1) An AI authorised person may, in a particular case, extend the period of 28 days within which the alleged offender may complete an AIS.
+(2) The extension may be allowed whether or not the period of 28 days has elapsed.
+172M.Certificate of completion of AIS
+(1) A treatment provider approved to provide an AIS under section 172J(2)(b) is to —
+(a) give to a person who has completed an AIS a certificate of completion; and
+(b) send a copy of the certificate to the Commissioner of Police.
+(2) A certificate of completion is to be in a form prescribed by the regulations and is to set out —
+(a) the name and address of the person who has completed the AIS; and
+(b) the date of completion; and
+(c) the details of the AIR in respect of which the AIS was completed.
+222.Liquor Control Act 1988 amended
+(1) This section amends the Liquor Control Act 1988.
+(2) In section 37(2A) delete “incorporated under the Associations Incorporation Act 1987” and insert:
+incorporated, or taken to be incorporated, under the Associations Incorporation Act 2015
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
