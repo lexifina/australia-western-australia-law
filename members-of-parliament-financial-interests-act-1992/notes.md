@@ -9,6 +9,9 @@ Acts Amendment (Lesbian and Gay Law Reform) Act 2002 s. 88 | 3 of 2002 (as amend
 Corporations (Consequential Amendments) Act (No. 3) 2003 Pt. 8 | 21 of 2003 | 23 Apr 2003 | 11 Mar 2002 (see s. 2 and Cwlth Gazette 24 Oct 2001 No. GN42)
 Acts Amendment (Equality of Status) Act 2003 Pt. 41 | 28 of 2003 | 22 May 2003 | 1 Jul 2003 (see s. 2 and Gazette 30 Jun 2003 p. 2579)
 Reprint 1: The Members of Parliament (Financial Interests) Act 1992 as at 8 Aug 2003 (includes amendments listed above)
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Associations Incorporation Act 2015 s. 224 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Section 88(3)(c) of this Act had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 17.
 The Corporations (Consequential Amendments) Act (No. 3) 2003 s. 2-4 read as follows:
 “
@@ -29,6 +32,11 @@ statutory rule means a regulation, rule or by-law.
 (b) that could not have been validly and lawfully done or omitted if this Act had received the Royal Assent before the FSR commencement time,
 is taken not to be valid, and to never have been valid.
 ”.
+On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 224 had not come into operation. It reads as follows:
+224.Members of Parliament (Financial Interests) Act 1992 amended
+(1) This section amends the Members of Parliament (Financial Interests) Act 1992.
+(2) In section 3(1) in the definition of corporation paragraph (e) delete “incorporated under the Associations Incorporation Act 1987;” and insert:
+incorporated, or taken to be incorporated, under the Associations Incorporation Act 2015;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
