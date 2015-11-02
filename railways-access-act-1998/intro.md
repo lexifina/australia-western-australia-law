@@ -8,4 +8,4 @@ to amend —
 •the Government Railways Act 1904 to make consequential amendments; and
 •the National Rail Corporation Agreement Act 1992,
 and for related purposes.
-[Long title amended by No. 13 of 2000 s. 61; No. 55 of 2000 s. 4; No. 67 of 2003 Sch. 2 cl. 54.]
+[Long title amended: No. 13 of 2000 s. 61; No. 55 of 2000 s. 4; No. 67 of 2003 Sch. 2 cl. 54.]
