@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 February 2012 of the Associations Incorporation Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Associations Incorporation Act 1987 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Associations Incorporation Act 1987 | 59 of 1987 | 9 Nov 1987 | s. 1 and 2: 9 Nov 1987; Act other than s. 1 and 2: 25 Jul 1988 (see s. 2 and Gazette 24 Jun 1988 p. 1995)
@@ -20,10 +20,16 @@ Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 
 Associations Incorporation Amendment (Transfer of Incorporation) Act 2010 | 55 of 2010 | 8 Dec 2010 | s. 1 and 2: 8 Dec 2010 (see s. 2(a)); Act other than s. 1 and 2: 26 Feb 2011 (see s. 2(b) and Gazette 25 Feb 2011 p. 651)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Reprint 3: The Associations Incorporation Act 1987 as at 10 Feb 2012 (includes amendments listed above)
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Associations Incorporation Act 2015 s. 185 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 The Corporations (Consequential Amendments) Act 2001 s. 11(2) reads as follows:
 (2) Regulations (the old regulations) made under section 30(4) (the old provision) of the Associations Incorporation Act 1987 as in force immediately before the commencement of subsection (1) of this section continue in force, despite the repeal of the old provision, until regulations are made under section 30(4) of the Associations Incorporation Act 1987 as in force immediately after the commencement of subsection (1) of this section, and any winding up commenced under the old regulations is to be dealt with under the provisions applied by those old regulations.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 has transitional provisions some of which may be relevant to this Act.
+On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 185 had not come into operation. It reads as follows:
+185.Associations Incorporation Act 1987 repealed
+The Associations Incorporation Act 1987 is repealed.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
