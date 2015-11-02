@@ -15,9 +15,18 @@ Reprint 2: The Racing and Wagering Western Australia Act 2003 as at 4 Apr 2008 (
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 106 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Racing and Wagering Legislation Amendment Act 2009 Pt. 4 | 29 of 2009 | 23 Nov 2009 | 11 Jan 2010 (see s. 2(b) and Gazette 8 Jan 2010 p. 9-10)
 Statutes (Repeals) Act 2014 s. 9 | 32 of 2014 | 3 Dec 2014 | 4 Dec 2014 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Associations Incorporation Act 2015 s. 227 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Under the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 7(2) the appointed day is 30 Jan 2004 (see Gazette 30 Jan 2004 p. 401).
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 is a transitional provision that is of no further effect.
 The amendment in the State Superannuation Amendment Act 2007 s. 86 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
+On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 227 had not come into operation. It reads as follows:
+227.Racing and Wagering Western Australia Act 2003 amended
+(1) This section amends the Racing and Wagering Western Australia Act 2003.
+(2) In section 32(5)(a) after “member of the” insert:
+management
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
