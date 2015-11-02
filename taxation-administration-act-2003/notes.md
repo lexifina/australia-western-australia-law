@@ -27,6 +27,10 @@ Revenue Laws Amendment Act 2012 Pt. 8 | 29 of 2012 | 3 Sep 2012 | Heading to Pt.
 Revenue Laws Amendment Act 2013 Pt. 2 Div. 2 and Pt. 3 | 10 of 2013 | 24 Sep 2013 | 25 Sep 2013 (see s. 2(b))
 Electronic Conveyancing Act 2014 Pt. 8 | 2 of 2014 | 24 Mar 2014 | 3 Jun 2014 (see s. 2(c) and Gazette 30 May 2014 p. 1679)
 Taxation Legislation Amendment Act (No. 2) 2015 Pt. 5 | 8 of 2015 | 9 Mar 2015 | 10 Mar 2015 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Associations Incorporation Act 2015 s. 229 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 The amendment to s. 114(3)(f) in the Workers’ Compensation Reform Act 2004 s. 174 is not included because the paragraph it seeks to amend was deleted by the Business Tax Review (Assessment) Act (No. 2) 2003 s. 100.
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 7 Div. 1 of those regulations read as follows:
@@ -37,7 +41,8 @@ These regulations come into operation on the day on which the Commonwealth Place
 3.When certain modifications have effect
 (1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
 (2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes Administration) Regulations 2002 Part 5 to the extent of any inconsistency.
-Note:Modifications prescribed for the purposes of section 7(2) of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Gazette, see section 7(3) of the Act.
+Note:
+Modifications prescribed for the purposes of section 7(2) of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Gazette, see section 7(3) of the Act.
 4.Modification of State taxing laws
 (1) For the purposes of section 7(2) of the Act, each State taxing law is taken to be modified to the extent necessary to give effect to subregulation (2).
 (2) If —
@@ -109,7 +114,8 @@ This notice comes into operation on the day after the day on which it is registe
 3.When certain modifications have effect
 (1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
 (2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2002 Part 5 to the extent of any inconsistency.
-Note:Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
+Note:
+Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
 4.Definitions
 In this notice —
 applied WA law means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
@@ -263,6 +269,11 @@ new provisions means the provisions of the Stamp Act 1921 as amended by the Reve
 The amendment in the Duties Legislation Amendment Act 2008 s. 46 is not included because the section it sought to amend had been replaced by the Revenue Laws Amendment Act (No. 2) 2008 s. 7 before the amendment purported to come into operation.
 Footnote no longer applicable.
 This section has a retrospective commencement date effective from 1 Jul 2009 (see the Revenue Laws Amendment Act 2012 s. 2(d)).
+On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 229 had not come into operation. It reads as follows:
+229.Taxation Administration Act 2003 amended
+(1) This section amends the Taxation Administration Act 2003.
+(2) Delete section 67(11)(b) and insert:
+(b) a director of a body that is incorporated or taken to be incorporated under the Associations Incorporation Act 2015.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
