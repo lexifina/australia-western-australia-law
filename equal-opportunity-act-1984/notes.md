@@ -47,6 +47,10 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Reprint 6: The Equal Opportunity Act 1984 as at 7 Jan 2011 (includes amendments listed above except those in the Co-operatives Act 2009 s. 514)
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 3 | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Electricity Corporations Amendment Act 2013 s. 42 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Associations Incorporation Act 2015 s. 232 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 of the Commonwealth (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 of the Commonwealth.
 The Uniform Building By-laws 1974 were repealed in Gazette 28 July 1989 p. 2280.
 Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1) which was repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
@@ -67,6 +71,13 @@ Unless the context otherwise requires, where in an arrangement made under the Eq
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or repealed by that Act.
 The amendments in the Co-operatives Act 2009 s. 509(2) and 514(2) are not included because the section it sought to amend had expired on 9 Jan 1995 (see s. 35N(2)). Section 35N(2) reads as follows:
 (2) Subsection (1) shall, except to the extent that regulations made for the purposes of this subsection provide otherwise, cease to be in force at the expiration of 2 years after the coming into operation of section 11 of the Equal Opportunity Amendment Act 1992.
+On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 232 had not come into operation. It reads as follows:
+232.References to “1987” amended to “2015” in various Acts
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “1987” and insert:
+2015
+Table
+Equal Opportunity Act 1984 | s. 4(1) def. of incorporated association
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
