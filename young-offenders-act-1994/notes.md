@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 9 October 2015 of the Young Offenders Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Young Offenders Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Young Offenders Act 1994 | 104 of 1994 | 11 Jan 1995 | s. 1 and 2: 11 Jan 1995; Act other than s. 1 and 2: 13 Mar 1995 (see s. 2 and Gazette 10 Mar 1995 p. 895)
@@ -58,6 +58,7 @@ Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclai
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 24 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 3 | 23 of 2015 | 17 Sep 2015 | To be proclaimed (see s. 2(b))
+Liquor Legislation Amendment Act 2015 Pt. 3 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -89,7 +90,7 @@ principal Act means the Young Offenders Act 1994.
 3.Conditions of employment of other employees and officers on commencement to continue
 (1) A person who was appointed by the Minister under the Act as an overseer, or as an officer or employee without custodial functions, before commencement, and who is still employed immediately before commencement, is to be regarded, on commencement, as having been appointed by the chief executive officer under section 11(1a)(b) of the principal Act (as amended by this Act), on the same terms and conditions, including as to remuneration, as those which applied to the person immediately before commencement.
 (2) A person to whom subclause (1) applies retains all existing and accruing rights and benefits as if the person’s employment, for the purposes of the principal Act, were a continuation of the person's employment immediately before commencement.
-On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 36 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 36 had not come into operation. It reads as follows:
 36.Young Offenders Act 1994 amended
 (1) The amendments in this section are to the Young Offenders Act 1994.
 (2) Schedule 2 is amended by deleting the entry relating to the Prostitution Act 2000 and inserting instead —
@@ -98,7 +99,7 @@ s. 7 | Seeking to induce person to act as a sex worker
 s. 16 | Causing, permitting or seeking to induce a child to act as a sex worker
 s. 17 | Obtaining payment for commercial sexual act by a child
 s. 18 | Agreement for a child to act as a sex worker
-On the date as at which this reprint was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 had not come into operation. They read as follows:
 Division 21 — Young Offenders Act 1994 amended
 138.Section 43 amended
 (1) Delete section 43(5) and insert:
@@ -117,7 +118,7 @@ Division 21 — Young Offenders Act 1994 amended
 139.Section 45 amended
 In section 45(1) delete “personally on” and insert:
 (either personally, or electronically in accordance with the regulations) on a person who is a responsible adult,
-On the date as at which this reprint was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 24 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 24 had not come into operation. It reads as follows:
 Part 4 — Amendments to other Acts
 Division 4 — Other Acts amended
 Subdivision 24 — Young Offenders Act 1994 amended
@@ -126,7 +127,7 @@ This Subdivision amends the Young Offenders Act 1994.
 90.Section 179 amended
 In section 179(1) delete the definition of medical treatment and insert:
 medical treatment includes psychiatric treatment, which is treatment as defined in the Mental Health Act 2014 section 4.
-On the date as at which this reprint was prepared, the Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 3 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 3 had not come into operation. It reads as follows:
 Part 2 — Amendments and repeals relating to responsible parenting agreements
 Division 3 — Other Acts amended
 Subdivision 3 — Young Offenders Act 1994 amended
@@ -137,6 +138,16 @@ Delete section 15A(3a), (3b) and (3c).
 23.Section 46 amended
 After section 46(2)(c) insert:
 (da) any responsible parenting agreement entered into in respect of the offender under the Children and Community Services Act 2004 section 131D; and
+On the date as at which this compilation was prepared, the Liquor Legislation Amendment Act 2015 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Young Offenders Act 1994 amended
+27.Act amended
+This Part amends the Young Offenders Act 1994.
+28.Section 25 amended
+In section 25(3) in the definition of infringement notice:
+(a) in paragraph (b) delete “IIIA.” and insert:
+IIIA; or
+(b) after paragraph (b) insert:
+(c)an alcohol intervention requirement given under the Liquor Control Act 1988 Part 7A.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
