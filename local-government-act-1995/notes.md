@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Local Government Act 1995 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Local Government Act 1995 | 74 of 1995 | 9 Jan 1996 | 1 Jul 1996 (see s. 1.2)
@@ -58,6 +58,10 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Reprint 6: The Local Government Act 1995 as at 3 Aug 2012 (includes amendments listed above except those in the Co-operatives Act 2009 s. 516, Local Government Amendment Act 2012 s. 14-18 (correction in Gazette 7 Sep 2012 p. 4329 and 28 Mar 2013 p. 1317) and the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 29)
  | Commercial Arbitration Act 2012 s. 45 it. 12 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
  | Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 35 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Associations Incorporation Act 2015 s. 223 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the Local Government Act 1960 have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
@@ -223,7 +227,12 @@ the LG Act means the Local Government Act 1995.
 (2) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.77 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.77.
 (3) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.78 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.78.
 References to the Executive Director were replaced by references to the Departmental CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
-27-30Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 223 had not come into operation. It reads as follows:
+223.Local Government Act 1995 amended
+(1) This section amends the Local Government Act 1995.
+(2) In section 5.74 in the definition of corporation paragraph (e) delete “incorporated under the Associations Incorporation Act 1987;” and insert:
+incorporated, or taken to be incorporated, under the Associations Incorporation Act 2015;
+28-30Footnote no longer applicable.
 There is no s. 4.31(1)(c) because this provision was amended and renumbered by the Standardisation of Formatting Act 2010 s. 51 table item 42.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
