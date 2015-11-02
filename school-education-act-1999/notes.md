@@ -26,7 +26,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 s. 182(3) and 208 | 36 of 1999 | 2 Nov 1999 | To be proclaimed (see s. 2)
-Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 2 | 23 of 2015 | 17 Sep 2015 | To be proclaimed (see s. 2(b))
+Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 2 | 23 of 2015 | 17 Sep 2015 | 1 Jan 2016 (see s. 2(b) and Gazette 15 Dec 2015 p. 5027)
+Associations Incorporation Act 2015 s. 228 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Children and Community Services Act 2004.
 On the date as at which this compilation was prepared, the School Education Act 1999 s. 182(3) and 208 had not come into operation. They read as follows:
@@ -54,6 +55,25 @@ Children and Community Services Act 2004
 20.Section 40 amended
 In section 40(3A) delete “Parental Support and Responsibility Act 2008” and insert:
 Children and Community Services Act 2004
+On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 228 had not come into operation. It reads as follows:
+228.School Education Act 1999 amended
+(1) This section amends the School Education Act 1999.
+(2) In section 124 insert in alphabetical order:
+incorporated association has the same meaning as in the Associations Incorporation Act 2015 section 3;
+Note:The heading to amended section 124 is to read:
+Terms used
+(3) In section 137(2) delete “under the Associations Incorporation Act 1987”.
+(4) In section 138(1) delete “association under the Associations Incorporation Act 1987.” and insert:
+association.
+(5) In section 139(1) delete “under the Associations Incorporation Act 1987”.
+(6) In sections 139(2) and 148(2)(b) delete “section 31 of” and insert:
+Schedule 4 to
+(7) In the provisions listed in the Table delete “1987” and insert:
+2015
+Table
+s. 130(3)(a)(ii) | s. 139(2) and (3)
+s. 141 def. of incorporated association | s. 145(3)
+s. 148(2) and (3) | s. 195(1)(a)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
