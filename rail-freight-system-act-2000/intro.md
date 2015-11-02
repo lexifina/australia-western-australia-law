@@ -11,4 +11,4 @@ to amend or modify the operation of —
 •the National Rail Corporation Agreement Act 1992; and
 •the Planning and Development Act 2005,
 and for related purposes.
-[Long title amended by No. 31 of 2003 s. 170; No. 38 of 2005 s. 15.]
+[Long title amended: No. 31 of 2003 s. 170; No. 38 of 2005 s. 15.]
