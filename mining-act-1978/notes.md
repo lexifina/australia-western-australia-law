@@ -77,6 +77,7 @@ Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt.
 Reprint 8: The Mining Act 1978 as at 7 Oct 2011 (includes amendments listed above except those in the Personal Property Securities (Consequential Repeals and Amendments) Act 2011) (correction to reprint in Gazette 1 Jun 2012 p. 2282)
 Mining Amendment Act 2012 | 51 of 2012 | 29 Nov 2012 | s. 1 and 2: 29 Nov 2012 (see s. 2(a)); Act other than s. 1 and 2: 2 Feb 2013 (see s. 2(b) and Gazette 1 Feb 2013 p. 447)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 29 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
+Alumina Refinery (Mitchell Plateau) Agreement (Termination) Act 2015 Pt. 3 | 31 of 2015 | 2 Nov 2015 | 3 Nov 2015 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
