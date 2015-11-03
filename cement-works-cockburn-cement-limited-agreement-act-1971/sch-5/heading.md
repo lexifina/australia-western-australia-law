@@ -1,6 +1,6 @@
 ## Fifth Schedule — Third Variation Agreement
 [s. 2]
-[Heading inserted by No. 41 of 2010 s. 6.]
+[Heading inserted: No. 41 of 2010 s. 6.]
 2010
 THE HONOURABLE COLIN JAMES BARNETT PREMIER OF THE STATE OF WESTERN AUSTRALIA
 and
@@ -343,4 +343,4 @@ Name: Marcus Clayton
 __________________________________
 Director
 Name: Thomas Douglas
-[Fifth Schedule inserted by No. 41 of 2010 s. 6.]
+[Fifth Schedule inserted: No. 41 of 2010 s. 6.]

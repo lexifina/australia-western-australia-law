@@ -1,6 +1,6 @@
 ## Fourth Schedule — Second Variation Agreement
 [s. 2]
-[Heading inserted by No. 27 of 1997 s. 6; amended by No. 19 of 2010 s. 4.]
+[Heading inserted: No. 27 of 1997 s. 6; amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 14th day of May 1997
 B E T W E E N:
 THE HONOURABLE RICHARD FAIRFAX COURT, B.Com., M.L.A., Premier of the State of Western Australia, acting for and on behalf of the said State and its instrumentalities from time to time (hereinafter called “the State”) of the first part
@@ -55,4 +55,4 @@ ___________________________________
 Director |  | DONALD ERNEST HUGH McDONALD
 ___________________________________
 Secretary |  | ANTHONY OWEN DOBBS
-[Fourth Schedule inserted by No. 27 of 1997 s. 6.]
+[Fourth Schedule inserted: No. 27 of 1997 s. 6.]
