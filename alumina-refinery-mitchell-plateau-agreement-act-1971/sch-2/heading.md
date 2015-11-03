@@ -1,6 +1,6 @@
 ## Second Schedule — First Variation Agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT made the 31st day of August One thousand nine hundred and seventy two BETWEEN THE HONOURABLE JOHN TREZISE TONKIN, M.L.A., THE PREMIER AND TREASURER OF THE STATE OF WESTERN AUSTRALIA acting for and on behalf of the said State and instrumentalities thereof from time to time (hereinafter called “the State”) and AMAX BAUXITE CORPORATION a company incorporated in the State of Delaware United States of America and registered as a foreign company in the State of Western Australia (hereinafter referred to as “the said State”) under the provisions of the Companies Act 1961 and having its registered office situated at Perth in the said State (hereinafter called “the Company”) of the other part.
 WHEREAS:
 (a)The parties are the parties to the agreement between them defined in Section 2 of the Alumina Refinery (Mitchell Plateau) Agreement Act 1971 (which agreement is hereinafter referred to as “the principal Agreement”).
@@ -61,4 +61,4 @@ Vice President.
 Attested by
 CRAIG A. DAVIS,
 Assistant Secretary.
-[Second Schedule inserted by No. 60 of 1972 s. 5.]
+[Second Schedule inserted: No. 60 of 1972 s. 5.]
