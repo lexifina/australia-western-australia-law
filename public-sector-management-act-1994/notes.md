@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Public Sector Management Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 November 2015 of the Public Sector Management Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Public Sector Management Act 1994 | 31 of 1994 | 8 Jul 1994 | s. 1 and 2: 8 Jul 1994; s. 3, 16, 19, 20, 26, 28 and Sch. 4: 20 Aug 1994 (see s. 2 and Gazette 19 Aug 1994 p. 4155); s. 4-6, Pt. 2 Div. 1, 2 and 4, s. 17, 18, 21-25 and 27, Pt. 3-6, 8, and 9 and Sch. 1-3, 5 and 6: 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948); Pt. 7: 1 Jan 1996 (see s. 2 and Gazette 24 Nov 1995 p. 5389)
@@ -67,7 +67,7 @@ Public Interest Disclosure Act 2003 s. 28 | 29 of 2003 | 22 May 2003 | 1 Jul 200
 Public Transport Authority Act 2003 s. 207 | 31 of 2003 | 26 May 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2384)
 Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 23 and 221(3) | 35 of 2003 | 26 Jun 2003 | 1 Aug 2003 (see s. 2 and Gazette 29 Jul 2003 p. 3259)
 Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 14 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
-Economic Regulation Authority Act 2003 s. 62 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2(1) and Gazette 30 Dec 2003 p. 5723)
+Economic Regulation Authority Act 2003 Sch. 2 Div. 11 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2(1) and Gazette 30 Dec 2003 p. 5723)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 97 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 6: The Public Sector Management Act 1994 as at 14 May 2004 (includes amendments listed above)
 Workers’ Compensation Reform Act 2004 s. 168 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
@@ -101,7 +101,8 @@ Electricity Corporations Amendment Act 2013 s. 44 | 25 of 2013 | 18 Dec 2013 | 1
 Workforce Reform Act 2014 Pt. 3 | 8 of 2014 | 20 May 2014 | 1 Jul 2014 (see s. 2(b) and Gazette 27 Jun 2014 p. 2301)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 37 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Alcohol and Drug Authority Amendment Act 2015 s. 17 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 11: The Public Sector Management Act 1994 as at 3 Nov 2015 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
@@ -111,14 +112,14 @@ The R & I Holdings Act 1990 was repealed in Gazette 26 Jun 2001 p. 3063 under th
 The amendment in the Western Australian Greyhound Racing Association Amendment Act 1998 s. 20 is not included because of an error in the reference to the item to be amended. The same amendment was made by the Statutes (Repeals and Minor Amendments) Act 2000 s. 34(2) and then the provision amended was again amended by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 221(3).
 The amendment in the State Superannuation Amendment Act 2007 s. 85 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 The amendments in the Public Sector Reform Act 2010 s. 68 and 70 to the Public Sector Management Act 1994 s. 79(6) and 99 are not included as those sections were deleted by the Public Sector Reform Act 2010 s. 55(3) and 57 respectively.
-On the date as at which this compilation was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) had not come into operation. It reads as follows:
 59.Public Sector Management Act 1994 amended
 The Public Sector Management Act 1994 is amended as follows:
 (a) by repealing section 20(1);
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-accountable authority5(2)
+accountable authority5(2)(b)
 affected department or organisation93(3)
 agency3(1)
 agency of destination50(5)
@@ -154,7 +155,7 @@ ministerial officer3(1), 74(3), 105(4)
 non-SES organisation3(1)
 organisation3(1)
 original contract56(4)
-paragraph (a) provision32(2)
+paragraph (a) provision32(2)(a)
 performance agreement3(1)
 permanent officer3(1)
 political office holder3(1)
@@ -164,7 +165,7 @@ public sector notice3(1)
 public sector standard3(1)
 Public Service3(1)
 public service officer3(1)
-reasonable excuseSch. 3 cl. 3(5), Sch. 3 cl. 4(3)
+reasonable excuseSch. 3 cl. 3(5) and 4(3)
 registered employee94(1A), 95A(1)
 registrable employee94(1A)
 remuneration3(1)
