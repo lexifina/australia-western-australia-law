@@ -1,6 +1,6 @@
 ## First Schedule — Cement Works (Cockburn Cement Limited) Agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT under seal is made the 18th day of February One thousand nine hundred and seventy-one BETWEEN THE HONOURABLE SIR DAVID BRAND, K.C.M.G., M.L.A., Premier and Treasurer of the State of Western Australia, acting for and on behalf of the Government of the said State and its instrumentalities (hereinafter referred to as “the State”) of the first part THE MINISTER FOR WORKS as hereinafter defined (hereinafter referred to as “The Minister for Works”) of the second part, the FREMANTLE PORT AUTHORITY constituted by the Fremantle Port Authority Act 1902 (hereinafter referred to as “the Authority”) of the third part, AND COCKBURN CEMENT LIMITED a company duly incorporated in Western Australia and having its registered office at third floor, Manufacturers’ Building, 212-220 Adelaide Terrace, Perth (hereinafter referred to as “the Company” which term shall include its successors and permitted assigns) of the fourth part.
 WHEREAS the Authority, pursuant to the provisions of the Fremantle Port Authority Act, has exclusive control of the port of Fremantle and may with the approval of the Minister for Works undertake the dredging of any part of the port of Fremantle.
 AND WHEREAS this Agreement is intended to supersede the agreement dated the 26th day of January, 1961 made between the first and fourth parties hereto (hereinafter referred to as “the 1961 agreement”).
