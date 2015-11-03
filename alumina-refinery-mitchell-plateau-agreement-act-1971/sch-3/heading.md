@@ -1,6 +1,6 @@
 ## Third Schedule — Second Variation Agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS AGREEMENT is made the 29th day of October, 1985
 BETWEEN:
 THE HONOURABLE BRIAN THOMAS BURKE, M.L.A., Premier and Treasurer of the State of Western Australia, acting for and on behalf of the said State and instrumentalities thereof from time to time (hereinafter called “the State”) of the one part and
@@ -153,4 +153,4 @@ CORPORATION by its dulyRepresentative
 authorised representative
 in the presence of:
 M. KAJITANIWitness
-[Third Schedule inserted by No. 90 of 1985 s. 6.]
+[Third Schedule inserted: No. 90 of 1985 s. 6.]

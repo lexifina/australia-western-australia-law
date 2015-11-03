@@ -1,6 +1,6 @@
 ## First Schedule — Alumina Refinery (Mitchell Plateau) Agreement
 [s. 2]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 ALUMINA REFINERY (MITCHELL PLATEAU) AGREEMENT
 THIS AGREEMENT made the 17th day of November, One thousand nine hundred and seventy one, BETWEEN THE HONOURABLE JOHN TREZISE TONKIN M.L.A. Premier and Treasurer of the State of Western Australia, acting for and on behalf of the said State and Instrumentalities thereof from time to time (hereinafter called “the State”) of the one part and AMAX BAUXITE CORPORATION a Company incorporated in the State of Delaware United States of America and registered as a foreign company in the State of Western Australia (hereinafter referred to as “the said State”) under the provisions of the Companies Act 1961, and having its registered office situate at Perth in the said State (hereinafter called “the Company”) of the other part.
 WHEREAS:
