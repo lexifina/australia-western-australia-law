@@ -170,6 +170,7 @@ Poisons Amendment Regulations (No. 4) 2014 | 16 Dec 2014 p. 4759-60 | r. 1 and 2
 Poisons Amendment Regulations 2015 | 20 Mar 2015 p. 906-10 | r. 1 and 2: 20 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Mar 2015 (see r. 2(b))
 Poisons Amendment Regulations (No. 2) 2015 | 17 Apr 2015 p. 1376-7 | r. 1 and 2: 17 Apr 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(ii) and Gazette 10 Apr 2015 p. 1249)
 Poisons Amendment Regulations (No. 4) 2015 | 5 May 2015 p. 1594-5 | r. 1 and 2: 5 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Poisons Amendment Regulations (No. 6) 2015 | 3 Nov 2015 p. 4543-4 | r. 1 and 2: 3 Nov 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Nov 2015 (see r. 2(b))
 Formerly referred to the Health Services (Conciliation and Review) Act 1995, the short title of which was changed to the Health and Disability Services (Complaints) Act 1995 by the Health and Disability Services Legislation Amendment Act 2010 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Repealed by the Navigation (Consequential Amendments) Act 2012 Sch. 1 (Cwlth). Now see the Navigation Act 2012 (Cwlth).
