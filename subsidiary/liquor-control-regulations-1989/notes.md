@@ -120,6 +120,10 @@ Liquor Control Amendment Regulations (No. 6) 2014 | 14 Nov 2014 p. 4284-6 | r. 1
 Liquor Control Amendment Regulations (No. 5) 2014 | 8 Jan 2015 p. 147 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Reprint 13: The Liquor Control Regulations 1989 as at 5 Jun 2015 (includes amendments listed above)
 Liquor Control Amendment Regulations 2015 | 7 Aug 2015 p. 3206-7 | r. 1 and 2: 7 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Aug 2015 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2015 Pt. 6 | 6 Nov 2015 p. 4581-8 | 1 Jan 2016 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
 Repealed by the Aged Care Amendment Act 2011 (Cwlth).
@@ -133,6 +137,74 @@ The Liquor Licensing Amendment Regulations (No. 2) 2001 r. 2(3) and (4) are tran
 The amendments in the Liquor Licensing Amendment Regulations 2004 r. 3 and 5 are not included because of an error in the reference to the provisions to be amended.
 The Liquor Control Amendment Regulations (No. 2) 2007 r. 12 could not have effect as the reference to the Liquor Licensing Act 1988 was changed to the Liquor Control Act 1988 under the Reprints Act 1984 s. 7(3)(gb) (see note above).
 Disallowed on 13 Sep 2012, see Gazette 18 Sep 2012 p. 4411.
+On the date as at which this compilation was prepared, the Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2015 Pt. 6 had not come into operation. It reads as follows:
+Part 6 — Liquor Control Regulations 1989 amended
+11.Regulations amended
+This Part amends the Liquor Control Regulations 1989.
+12.Regulation 14ADG amended
+Delete regulation 14ADG(4).
+13.Regulation 26 amended
+In regulation 26(1aa):
+(a) in paragraph (a) delete “$268; or” and insert:
+$274; or
+(b) in paragraph (b) delete “$537.” and insert:
+$550.
+14.Schedule 3 amended
+(1) In Schedule 3:
+(a) delete item 7 and insert:
+7. | Application for extended trading permit for a period of over 21 days —
+ | (a)issued for the purpose referred to in section 60(4)(ca) — (i)if regulation 9F(2) applies (ii)if regulation 9F(2) does not apply | 53 461
+ | (b)issued for the purpose referred to in section 60(4)(e) (c)issued for the purpose referred to in section 60(4)(h) | 345 345
+ | (d)issued for any other purpose | 1 156
+(b) in item 10A delete “approval (other than transitioned approval under r. 14ADG) —” and insert:
+approval —
+(c) delete item 10B;
+(d) delete item 18 and insert:
+18. | Application for approval of agreement or arrangement | 229
+(e) after item 33 insert:
+34. | For each person who is a party to an application under the Act and in relation to whom a background check is sought from the Police Service | 148
+(2) Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Sch. 3 it. 1 | 3 334 | 3 417
+Sch. 3 it. 2 | 856 | 877
+Sch. 3 it. 3 | 820 | 840
+Sch. 3 it. 4 | 564 | 578
+Sch. 3 it. 5 | 279 | 285
+Sch. 3 it. 6(a) | 52 | 53
+Sch. 3 it. 6(b) | 107 | 109
+Sch. 3 it. 6(c) | 219 | 224
+Sch. 3 it. 6(d) | 1 082 | 1 109
+Sch. 3 it. 6(e) | 2 197 | 2 251
+Sch. 3 it. 6(f) | 4 401 | 4 511
+Sch. 3 it. 8(a) | 107 | 109
+Sch. 3 it. 8(b) | 219 | 224
+Sch. 3 it. 8(c) | 1 098 | 1 125
+Sch. 3 it. 8(d) | 2 197 | 2 251
+Sch. 3 it. 8(e) | 4 401 | 4 511
+Sch. 3 it. 9A | 42 | 43
+Sch. 3 it. 10(a) | 155 | 158
+Sch. 3 it. 10(b) | 106 | 108
+Sch. 3 it. 11 | 386 | 395
+Sch. 3 it. 12 | 224 | 229
+Sch. 3 it. 14 | 72 | 73
+Sch. 3 it. 15(a) | 230 | 235
+Sch. 3 it. 15(b)(i) | 107 | 109
+Sch. 3 it. 15(b)(ii) | 219 | 224
+Sch. 3 it. 15(b)(iii) | 1 098 | 1 125
+Sch. 3 it. 15(b)(iv) | 2 197 | 2 251
+Sch. 3 it. 15(b)(v) | 4 401 | 4 511
+Sch. 3 it. 16 | 42 | 43
+Sch. 3 it. 17 | 268 | 274
+Sch. 3 it. 19A | 235 | 240
+Sch. 3 it. 19B | 214 | 219
+Sch. 3 it. 19C | 256 | 262
+Sch. 3 it. 19 | 63 | 64
+Sch. 3 it. 21 | 87 | 89
+Sch. 3 it. 22 | 57 | 58
+Sch. 3 it. 23 | 138 | 141
+Sch. 3 it. 32 | 51 | 52
+Sch. 3 it. 33(b) | 76 | 77
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
