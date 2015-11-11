@@ -60,6 +60,7 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 37. | 47(2) | Unlawfully unlocking etc. gate or barrier | 50
 37a. | 47(3) | Unlawfully removing etc. gate or barrier | 50
 38. | 48 | Entering or remaining on area set aside for Departmental purposes | 50
+39A. | 49A | Accessing restricted area on foot | 200
 39. | 49(4) | Entering or remaining in cave | 100
 40. | 49(5) | Failing to comply with condition or restriction of permit to enter cave | 100
 40a. | 50 | Unlawfully organising cross country events etc. | 100
@@ -114,7 +115,7 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 66AA. | 76(3) | Failing to comply with a direction to leave object | 200
 66a. | 78(1a) | Failing to comply with order to remove unauthorised property | 200
 67. | 88(2) | Failing to comply with requirement to return licence | 50
-68A. | 93(5) | Contravention of condition or restriction of scientific purposes licence | 100
+68AA. | 93(5) | Contravention of condition or restriction of scientific purposes licence | 100
 68. | 98(3) | Contravention of condition of commercial operations licence | 200
 68A. | 98AF(3) | Contravention of condition of rental mooring licence | 100
 68B. | 98AL(4) | Failing to have written consent of licence holder in possession | 100
@@ -137,7 +138,7 @@ Item No. | Regulation creating offence | Nature of offence | Penalty $
 76. | 108 | Unlawfully taking still or motion pictures | 50
 77. | 109 | Failing to produce licence etc. | 200
 78. | 110 | Giving false or misleading information | 200
-[Division 2 amended in Gazette 29 Sep 2006 p. 4331-3; 27 Feb 2007 p. 625-6; 3 Dec 2010 p. 6052; 19 Sep 2014 p. 3333-4 and 3336-7; 24 Mar 2015 p. 1043-4.]
+[Division 2 amended in Gazette 29 Sep 2006 p. 4331-3; 27 Feb 2007 p. 625-6; 3 Dec 2010 p. 6052; 19 Sep 2014 p. 3333-4 and 3336-7; 24 Mar 2015 p. 1043-4; 10 Nov 2015 p. 4606.]
 ## Division 3 — Offences under Forest Management Regulations 1993
 [Heading inserted in Gazette 7 Dec 2012 p. 5972.]
  | Column 1 | Column 2 | Column 3
