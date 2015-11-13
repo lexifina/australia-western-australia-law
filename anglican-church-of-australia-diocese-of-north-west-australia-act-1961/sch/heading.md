@@ -1,6 +1,6 @@
 ## Schedule — Northern Diocese land
 [s. 3]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 BAMBOO:
 Town Lots 37 and 38, Registered Volume XCIX Folio 106.
 BLUFF POINT:
