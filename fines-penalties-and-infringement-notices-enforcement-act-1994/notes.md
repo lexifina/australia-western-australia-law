@@ -32,13 +32,13 @@ Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 23 | 8 of 2012 | 21 May 2
 Fines, Penalties and Infringement Notices Enforcement Amendment (Taxation) Act 2012 | 28 of 2012 | 3 Sep 2012 | s. 1 and 2: 3 Sep 2012 (see s. 2(a)); Act other than s. 1 and 2: 1 May 2013 (see s. 2(b) and Gazette 30 Apr 2013 p. 1687)
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 2 | 48 of 2012 | 29 Nov 2012 | s. 3, 39, 40, 41(3) and 42: 1 May 2013 (see s. 2(b) and Gazette 30 Apr 2013 p. 1687); s. 4-38, 41(1) and (2) and 43: 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Reprint 5: The Fines, Penalties and Infringement Notices Enforcement Act 1994 as at 11 Oct 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012)
-Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 12 (other than s. 75 and 95) | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 12 (other than s. 95) | 20 of 2013 | 4 Nov 2013 | Pt. 3 Div. 12 (other than s. 75 and 95): 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391); s. 75: 14 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4631)
 Electricity Corporations Amendment Act 2013 s. 43 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 12 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 75 and 95 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
+Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 95 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Fines, Penalties and Infringement Notices Enforcement Amendment Act 2003 s. 12 reads as follows:
 12.Validation
@@ -52,18 +52,9 @@ of the Fines, Penalties and Infringement Notices Enforcement Act 1994.
 (2) An agreement entered into, or purportedly entered into, by or on behalf of the Sheriff of Western Australia with an offender before the commencement has, and is deemed always to have had, force and effect.
 (3) An agreement entered into, or purportedly entered into, by a delegate of the Sheriff of Western Australia with an offender before the commencement has, and is deemed always to have had, force and effect.
 Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 75 and 95 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 95 had not come into operation. They read as follows:
 Part 3 — Amendments to other Acts
 Division 12 — Fines, Penalties and Infringement Notices Enforcement Act 1994 amended
-75.Section 5A amended
-(1) Delete section 5A(1) and insert:
-(1) If under this Act information or a document or notice must or may be given to or served on a person, it may, with the consent of that person or in other circumstances specified in the regulations, be given or served by electronic means in accordance with the regulations.
-(2) In section 5A(2):
-(a) delete paragraph (a) and insert:
-(a) any document that under this Act must be served personally, other than any of the following —
-(i) an order to attend for work and development under section 47 or 47A;
-(ii) a work and development order;
-(b) delete paragraphs (b), (c) and (e).
 95.Section 105 deleted
 Delete section 105.
 Defined terms
