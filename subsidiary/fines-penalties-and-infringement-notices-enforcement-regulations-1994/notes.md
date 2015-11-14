@@ -60,6 +60,7 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2015
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 2) 2015 | 10 Feb 2015 p. 609-11 | r. 1 and 2: 10 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 3) 2015 | 12 Jun 2015 p. 2027 | r. 1 and 2: 12 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jun 2015 (see r. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 4) 2015 | 19 Jun 2015 p. 2123-4 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(i))
+Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 5) 2015 | 13 Nov 2015 p. 4656-8 | r. 1 and 2: 13 Nov 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2015 (see r. 2 and Gazette 13 Nov 2015 p. 4631)
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now called the General Account.
 Formerly referred to the Censorship Act 1996 the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -68,4 +69,7 @@ The Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+approved user2A
+courts electronic system2A
 GST3AA(1)
+warrant11B(1)
