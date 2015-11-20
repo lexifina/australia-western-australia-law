@@ -38,6 +38,16 @@ Construction Industry Portable Paid Long Service Leave Amendment Regulations 201
 Construction Industry Portable Paid Long Service Leave Amendment Regulations 2013 | 27 Dec 2013 p. 6445 | r. 1 and 2: 27 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
 Reprint 4: The Construction Industry Portable Paid Long Service Leave Regulations 1986 as at 7 Mar 2014 (includes amendments listed above)
 Construction Industry Portable Paid Long Service Leave Amendment Regulations 2014 | 21 Nov 2014 p. 4351 | r. 1 and 2: 21 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2015 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Construction Industry Portable Paid Long Service Leave Amendment Regulations 2015 r. 3 and 4 | 20 Nov 2015 p. 4711 | 1 Jan 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, the Construction Industry Portable Paid Long Service Leave Amendment Regulations 2015 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Construction Industry Portable Paid Long Service Leave Regulations 1986.
+4.Regulation 8 amended
+In regulation 8 delete “1.5%” and insert:
+1.35%
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
