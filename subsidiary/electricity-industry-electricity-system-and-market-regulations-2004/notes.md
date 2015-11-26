@@ -18,6 +18,7 @@ Electricity Corporations (Consequential Amendments) Regulations 2013 r. 9 | 27 D
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2015 | 24 Feb 2015 p. 737-8 | r. 1 and 2: 24 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Feb 2015 (see r. 2(b))
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 2) 2015 | 2 Oct 2015 p. 3930-1 | r. 1 and 2: 2 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2015 (see r. 2(b))
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 3) 2015 r. 1, 2 and 5 | 13 Nov 2015 p. 4633-7 | r. 1 and 2: 13 Nov 2015 (see r. 2(a)); r. 5: 14 Nov 2015 (see r. 2(b))
+Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 4) 2015 | 25 Nov 2015 p. 4741-2 | r. 1 and 2: 25 Nov 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Nov 2015 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
