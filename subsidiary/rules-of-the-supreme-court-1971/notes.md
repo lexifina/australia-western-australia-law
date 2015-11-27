@@ -135,6 +135,7 @@ Reprint 9: The Rules of the Supreme Court 1971 as at 4 Apr 2014 (includes amendm
 Supreme Court Amendment Rules (No. 2) 2014 | 26 Sep 2014 p. 3559-62 | r. 1 and 2: 26 Sep 2014 (see r. 2(a)); Rules other than r. 1 and 2: 27 Sep 2014 (see r. 2(b))
 Supreme Court Amendment Rules 2014 | 19 Dec 2014 p. 4845-9 | r. 1 and 2: 19 Dec 2014 (see r. 2(a)); Rules other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Supreme Court Amendment Rules (No. 4) 2015 | 4 Sep 2015 p. 3696-8 | r. 1 and 2: 4 Sep 2015 (see r. 2(a)); Rules other than r. 1 and 2: 18 Sep 2015 (see r. 2(b))
+Supreme Court Amendment Rules (No. 3) 2015 | 13 Nov 2015 p. 4644-55 | r. 1 and 2: 13 Nov 2015 (see r. 2(a)); Rules other than r. 1 and 2: 27 Nov 2015 (see r. 2(b))
 Formerly referred to The Electoral Rules of 1908, the citation of which was changed to the Electoral Rules 1908 by the Electoral Amendment Rules 2009 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Commercial Arbitration Act 1985 was repealed by the Commercial Arbitration Act 2012 s. 44.
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
