@@ -175,12 +175,12 @@ Reprint 17: The Criminal Code Act Compilation Act 1913 as at 1 Mar 2013 (include
 Criminal Code Amendment Act 2013 | 12 of 2013 | 4 Oct 2013 | s. 1 and 2: 4 Oct 2013 (see s. 2(a)); Act other than s. 1 and 2: 5 Oct 2013 (see s. 2(b))
 Criminal Code Amendment (Child Sex Offences) Act 2014 | 5 of 2014 | 22 Apr 2014 | s. 1 and 2: 22 Apr 2014 (see s. 2(a)); Act other than s. 1 and 2: 23 Apr 2014 (see s. 2(b))
 Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 2 | 11 of 2014 | 24 Jun 2014 | 13 Aug 2014 (see s. 2(b) and Gazette 12 Aug 2014 p. 2889)
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 7 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Criminal Law Amendment (Home Burglary and Other Offences) Act 2015 Pt. 2 | 25 of 2015 | 24 Sep 2015 | 31 Oct 2015 (see s. 2(b) and Gazette 30 Oct 2015 p. 4493)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 7 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Reprints before Reprint 10 are not numbered. Reprint 10 and subsequent reprints are numbered consecutively but are out by one number.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
@@ -218,25 +218,6 @@ On the date as at which this reprint was prepared, the Prostitution Amendment Ac
 (3) Section 191 is repealed.
 (4) Section 557K(1) paragraph (h) of the definition of child sex offender is amended by deleting “Prostitution Act 2000” and inserting instead —
 “ Sexual Services Act 2000 ”.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 7 had not come into operation. It reads as follows:
-Part 4 — Amendments to other Acts
-Division 4 — Other Acts amended
-Subdivision 7 — The Criminal Code amended
-47.Act amended
-This Subdivision amends The Criminal Code.
-48.Section 149 amended
-In section 149:
-(a) in paragraph (a) delete “Mental Health Act 1996” and insert:
-Mental Health Act 2014
-(b) in paragraph (b)(ii) delete “Mental Health Act 1996” and insert:
-Mental Health Act 2014 section 97
-49.Section 336 amended
-In section 336 delete “Mental Health Act 1996)” and insert:
-Mental Health Act 2014 section 4)
-50.Section 337 amended
-In section 337 delete “Mental Health Act 1996)” and insert:
-Mental Health Act 2014 section 4)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

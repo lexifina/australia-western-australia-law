@@ -9,20 +9,8 @@ Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 18 | 77 of 2006 |
 Health and Disability Services Legislation Amendment Act 2010 s. 53 | 33 of 2010 | 30 Aug 2010 | 30 Nov 2010 (see s. 2(b) and Gazette 17 Sep 2010 p. 4757)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 1: The Carers Recognition Act 2004 as at 4 Mar 2011 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 3 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 3 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Repealed by the Children and Community Services Act 2004 s. 250(1)(a).
-On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 3 had not come into operation. It reads as follows:
-Part 4 — Amendments to other Acts
-Division 4 — Other Acts amended
-Subdivision 3 — Carers Recognition Act 2004 amended
-36.Act amended
-This Subdivision amends the Carers Recognition Act 2004.
-37.Section 5 amended
-In section 5(1)(b) delete “Mental Health Act 1996 section 3; or” and insert:
-Mental Health Act 2014 section 4; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

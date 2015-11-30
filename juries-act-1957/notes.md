@@ -64,26 +64,13 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 30 | 35 of 
 Juries Legislation Amendment Act 2011 Pt. 2 Div. 2, Pt. 3 Div. 1 and Pt. 4 | 13 of 2011 | 2 May 2011 | Pt. 2 Div. 2, Pt. 3 Div. 1 and Pt. 4 (other than s. 42-44): 1 Jul 2011 (see s. 2(b) and Gazette 30 Jun 2011 p. 2613); s. 42-44: 28 Oct 2011 (see s. 2(b) and Gazette 27 Oct 2011 p. 4551)
 Reprint 7: The Juries Act 1957 as at 23 Sep 2011 (includes amendments listed above except those in the Juries Legislation Amendment Act 2011 s. 42-44)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 26 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 15 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 15 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 The Criminal Code s. 282 and 679 have been deleted.
 The Sentencing Legislation Amendment and Repeal Act 1999 s. 26 did not come into operation and was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 contains savings and transitional provisions that are of no further effect.
 The Juries Amendment Act 2003 s. 5(2) is a savings provision that is of no further effect.
 The Machinery of Government (Miscellaneous Amendment) Act 2006 s. 39(1) was repealed by the Statutes (Repeals and Minor Amendments) Act 2011 s. 23(3) before it purported to come into operation.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 15 had not come into operation. It reads as follows:
-Part 4 — Amendments to other Acts
-Division 4 — Other Acts amended
-Subdivision 15 — Juries Act 1957 amended
-68.Act amended
-This Subdivision amends the Juries Act 1957.
-69.Section 5 amended
-Delete section 5(3)(d)(i) and insert:
-(i) an involuntary patient as defined in the Mental Health Act 2014 section 4;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

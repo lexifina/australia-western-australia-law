@@ -100,11 +100,11 @@ Electoral Amendment Act 2012 | 35 of 2012 | 5 Nov 2012 | s. 1 and 2: 5 Nov 2012 
 Reprint 16: The Electoral Act 1907 as at 11 Jan 2013 (includes amendments listed above)
 Electoral Amendment Act 2014 Pt. 2 | 14 of 2014 | 2 Jul 2014 | 3 Jul 2014 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2014 s. 11 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 11 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 11 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 Sch. 1 Part 2. Now see the Australian Citizenship Act 2007 (Cwlth).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 15.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
@@ -139,24 +139,6 @@ Act | Provision
 ……………………….. | …….
 Electoral Act 1907 | s. 5E(2)
 ……………………….. | …….
-On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 11 had not come into operation. It reads as follows:
-Part 4 — Amendments to other Acts
-Division 4 — Other Acts amended
-Subdivision 11 — Electoral Act 1907 amended
-57.Act amended
-This Subdivision amends the Electoral Act 1907.
-58.Section 40 amended
-Delete section 40(1)(b)(i) and insert:
-(i) who, from information supplied by the Registrar of Births, Deaths and Marriages, appear to be dead; or
-(iia) who, from information supplied by the chief executive officer (as defined in the Prisons Act 1981 section 3(1)) appear to be disqualified; or
-59.Section 51A amended
-Delete section 51A(4) and insert:
-(4A) A person’s name is taken to have been removed from a roll pursuant to this section if, immediately before the day on which the Mental Health Legislation Amendment Act 2014 Part 4 Division 4 Subdivision 11 commences, the person’s name did not appear on the roll because it had been removed from the roll under section 51AA(1a) of this Act as in force before that day.
-(4) The power of removal conferred on the Electoral Commissioner by subsection (1) does not extend to a person in respect of whom a guardianship or administration order is in force under the Guardianship and Administration Act 1990.
-60.Section 51AA amended
-(1) Delete section 51AA(1a).
-(2) In section 51AA(2) delete “subsection (1), or a determination referred to in subsection (1a),” and insert:
-subsection (1)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

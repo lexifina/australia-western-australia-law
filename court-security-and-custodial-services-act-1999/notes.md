@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 August 2015 of the Court Security and Custodial Services Act 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Court Security and Custodial Services Act 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Court Security and Custodial Services Act 1999 | 46 of 1999 | 8 Dec 1999 | s. 1 and 2: 8 Dec 1999; Act other than s. 1, 2 and Pt. 5: 18 Dec 1999 (see s. 2(1) and Gazette 17 Dec 1999 p. 6175); Pt. 5: 18 Jun 2000 (see s. 2(2) and Gazette 16 Jun 2000 p. 2939)
@@ -22,40 +22,11 @@ Reprint 3: The Court Security and Custodial Services Act 1999 as at 3 Apr 2009 (
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 43 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 13 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 11 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 6 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Declared Places (Mentally Impaired Accused) Act 2015 s. 85 | 4 of 2015 | 3 Mar 2015 | 17 Jun 2015 (see s. 2(b) and Gazette 16 Jun 2015 p. 2071)
-Reprint 4: The Court Security and Custodial Services Act 1999 as at 14 Aug 2015 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 6 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
+Reprint 4: The Court Security and Custodial Services Act 1999 as at 14 Aug 2015 (includes amendments listed above except those in the Mental Health Legislation Amendment Act 2014)
 The “Inspector provisions” as defined in the Prisons Amendment Act 1999 s. 2(4) came into operation on 18 Jun 2000 (see Gazette 16 Jun 2000 p. 2939).
-On the date as at which this reprint was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 6 had not come into operation. It reads as follows:
-Part 4 — Amendments to other Acts
-Division 4 — Other Acts amended
-Subdivision 6 — Court Security and Custodial Services Act 1999 amended
-43.Act amended
-This Subdivision amends the Court Security and Custodial Services Act 1999.
-44.Section 3 amended
-(1) In section 3 delete the definition of medical treatment and insert:
-medical treatment includes —
-(a)psychiatric treatment, which is treatment as defined in the Mental Health Act 2014 section 4; and
-(b)dental treatment;
-(2) In section 3 in the definition of person in custody delete paragraph (b) and insert:
-(b)a person who is detained under the Mental Health Act 2014 unless the person has been apprehended by a police officer —
-(i)under section 99 of that Act pursuant to an apprehension and return order made under section 98 of that Act; or
-(ii)under section 149 of that Act pursuant to a transport order made under that Act; or
-(iii)under section 156 of that Act,
-and is placed in a lock-up while arrangements are being made by a police officer to take the person to a place as required under that Act;
-45.Section 4 amended
-In section 4(2) delete “under an order made under section 34, 41, 71, 84 or 195 of the Mental Health Act 1996.” and insert:
-by a police officer —
-(a) under section 99 of the Mental Health Act 2014 pursuant to an apprehension and return order made under section 98 of that Act; or
-(b) under section 149 of that Act pursuant to a transport order made under that Act; or
-(c) under section 156 of that Act.
-46.Section 76 amended
-In section 76 delete “under the Mental Health Act 1996.” and insert:
-as required under the Mental Health Act 2014.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -21,11 +21,11 @@ Acts Amendment (Bankruptcy) Act 2009 s. 65 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 90 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 2: The Perth Theatre Trust Act 1979 as at 4 Feb 2011 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 19 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation(Transitional and Consequential Provisions) Act 2000 s. 57 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 19 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Perth Theatre Trust Amendment Act 2015 s. 3-5 | 7 of 2015 | 9 Mar 2015 | To be proclaimed (see s. 2(b))
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f) a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to “chief executive officer”. This reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Mental Health (Consequential Provisions) Act 1996. Now see the Mental Health Act 1996.
@@ -36,14 +36,7 @@ On the date as at which this compilation was prepared, the State Superannuation 
 Section 17 of the Perth Theatre Trust Act 1979 is amended as follows:
 (a) in subsection (4)(b) by deleting “, including his rights under the Superannuation Act,”;
 (b) by repealing subsections (5) and (8).
-On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 19 had not come into operation. It reads as follows:
-Part 4 — Amendments to other Acts
-Division 4 — Other Acts amended
-Subdivision 19 — Perth Theatre Trust Act 1979 amended
-76.Act amended
-This Subdivision amends the Perth Theatre Trust Act 1979.
-77.Section 6 amended
-Delete section 6(1)(e).
+Footnote no longer applicable.
 On the date on which this compilation was prepared, the Perth Theatre Trust Amendment Act 2015 s. 3-5 had not come into operation. They read as follows:
 3.Act amended
 This Act amends the Perth Theatre Trust Act 1979.

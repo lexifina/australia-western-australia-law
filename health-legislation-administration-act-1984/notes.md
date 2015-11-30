@@ -15,10 +15,7 @@ Reprint of the Health Legislation Administration Act 1984 as at 11 Jan 2002 (inc
  | Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 23 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
  | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
  | Reprint 2: The Health Legislation Administration Act 1984 as at 18 Mar 2011 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 14 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
+ | Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 14 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Formerly referred to the Industrial Arbitration Act 1979, the short title of which was changed to the Industrial Relations Act 1979 by the Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984. The reference was amended under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984.
 The Mental Health (Consequential Provisions) Act 1996 s. 38(2) is a transitional provision of no further effect.
@@ -31,22 +28,6 @@ CEO has the meaning given by section 3 of the Health Legislation Administration 
 commencement means the time at which this Division comes into operation;
 Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
 The requirement to appoint a Commissioner of Health was removed from the Act and references to the Commissioner of Health were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 9. Section 454 of that Act is a general transitional provision that applies to references to the Commissioner in written laws.
-On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 14 had not come into operation. It reads as follows:
-Part 4 — Amendments to other Acts
-Division 4 — Other Acts amended
-Subdivision 14 — Health Legislation Administration Act 1984 amended
-65.Act amended
-This Subdivision amends the Health Legislation Administration Act 1984.
-66.Section 3 amended
-In section 3 in the definition of prescribed officer delete “section 6(1)(b), (c) or (d)” and insert:
-section 6(1)(b) or (c)
-67.Section 6 amended
-(1) In section 6(1):
-(a) in paragraph (c) delete “Services;” and insert:
-Services,
-(b) delete paragraph (d).
-(2) Delete section 6(4) and insert:
-(4) A person cannot be appointed to hold or act in an office referred to in subsection (1)(b) or (c) unless the person is registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
