@@ -6,4 +6,4 @@
 (2) The health professional may provide the treatment to the patient despite —
 (a) the patient having made an advance health directive containing a treatment decision that is inconsistent with providing the treatment; or
 (b) the patient’s guardian or enduring guardian or the person responsible for the patient under section 110ZD having made such a treatment decision in relation to the patient.
-[Section 110ZIA inserted by No. 25 of 2008 s. 11.]
+[Section 110ZIA inserted: No. 25 of 2008 s. 11.]
