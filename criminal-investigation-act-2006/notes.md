@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 September 2015 of the Criminal Investigation Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Criminal Investigation Act 2006 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Investigation Act 2006 | 58 of 2006 | 16 Nov 2006 | s. 1 and 2: 16 Nov 2006; Act other than s. 1, 2 and 113: 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2837); s. 113: 26 Jul 2008 (see s. 2 and Gazette 25 Jul 2008 p. 3391)
@@ -18,25 +18,20 @@ Criminal Organisations Control Act 2012 s. 174 | 49 of 2012 | 29 Nov 2012 | 2 No
 Criminal Law Amendment (Out-of-Control Gatherings) Act 2012 Pt. 3 | 56 of 2012 | 6 Dec 2012 | 15 Dec 2012 (see s. 2(b) and Gazette 14 Dec 2012 p. 6196)
 Reprint 2: The Criminal Investigation Act 2006 as at 5 Apr 2013 (includes amendments listed above except those in the Criminal Organisations Control Act 2012 and the Road Traffic Legislation Amendment Act 2012)
 Criminal Investigation (Identifying People) Amendment Act 2013 s. 29 | 22 of 2013 | 12 Nov 2013 | 13 Nov 2013 (see s. 2(c))
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 8 (other than s. 52(1)) | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Criminal Investigation Amendment Act 2014 | 31 of 2014 | 3 Dec 2014 | s. 1 and 2: 3 Dec 2014 (see s. 2(a)); Act other than s. 1 and 2: 28 Jan 2015 (see s. 2(b) and Gazette 27 Jan 2015 p. 435)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
-Reprint 3: The Criminal Investigation Act 2006 as at 4 Sep 2015 (includes amendments listed above)
+Reprint 3: The Criminal Investigation Act 2006 as at 4 Sep 2015 (includes amendments listed above except those in the Mental Health Legislation Amendment Act 2014)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 6 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 8 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
-On the date as at which this reprint was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 8 had not come into operation. It reads as follows:
-Part 4 — Amendments to other Acts
-Division 4 — Other Acts amended
-Subdivision 8 — Criminal Investigation Act 2006 amended
-51.Act amended
-This Subdivision amends the Criminal Investigation Act 2006.
+Mental Health Legislation Amendment Act 2014 s. 52(1) | 25 of 2014 | 3 Nov 2015 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 s. 52(1) had not come into operation. It reads as follows:
 52.Section 142 amended
 (1) Delete section 142(7)(a)(ii) and insert:
 (ii) under the Mental Health Act 2014 section 157;
-(2) Delete section 142(8)(c)(ii) and insert:
-(ii) the Mental Health Act 2014 section 157; or
+The paragraph that it seeks to amend has been deleted.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

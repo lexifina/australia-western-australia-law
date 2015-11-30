@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Public Trustee Act 1941 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the Public Trustee Act 1941 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Public Trustee Act 1941 | 26 of 1941 (5 Geo. VI No. 26) | 8 Dec 1941 | 1 Jul 1942 (see s. 1(2) and Gazette 26 Jun 1942 p. 689)
@@ -46,10 +46,7 @@ Public Trustee and Trustee Companies Legislation Amendment Act 2008 Pt. 2 | 9 of
 Reprint 6: The Public Trustee Act 1941 as at 10 Oct 2008 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 4 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 21 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 21 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Repealed in the First Schedule to this Act.
 The Administration Act 1903 s. 22 was repealed by the Public Trustee Act 1941 s. 3.
 Repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988, and which is now known as the Liquor Control Act 1988.
@@ -70,21 +67,6 @@ The Public Trustee and Trustee Companies Legislation Amendment Act 2008 s. 25(2)
 “
 (2) The last rates of interest fixed and published in the Gazette before the day on which section 25 of the Public Trustee and Trustee Companies Legislation Amendment Act 2008 comes into operation are to be taken on and after that day to be the rates fixed and published in the Gazette under section 39A(5) of the Public Trustee Act 1941 until rates are fixed under section 39A(5).
 ”.
-On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 21 had not come into operation. It reads as follows:
-Part 4 — Amendments to other Acts
-Division 4 — Other Acts amended
-Subdivision 21 — Public Trustee Act 1941 amended
-81.Act amended
-This Subdivision amends the Public Trustee Act 1941.
-82.Section 12 amended
-In section 12(8) delete “idiot, or lunatic, or of unsound mind or” and insert:
-has a mental disability as defined in the Guardianship and Administration Act 1990 section 3(1) or is
-83.Section 49 amended
-In section 49(2) delete “clause 1(1) or (2) or 2(1) or (2)” and insert:
-clause 1(1) or (2) or 2(1) or (2) or 7(2)
-84.Section 54 amended
-In section 54(2) delete “any insane patient, insane person, or represented person,” and insert:
-a person who has a mental illness (as defined in the Mental Health Act 2014 section 4) or represented person
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

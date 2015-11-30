@@ -278,6 +278,7 @@ Minerals Research Institute of Western Australia Act 2013 s. 76 | 23 of 2013 | 1
 Electricity Corporations Amendment Act 2013 s. 37 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Ports Legislation Amendment Act 2014 s. 44 | 9 of 2014 | 20 May 2014 | s. 44(1) and (3)-(5): 1 Jul 2014 (see s. 2(1)(c) and Gazette 20 Jun 2014 p. 2023); s. 44(2): 1 Oct 2014 (see s. 2(1)(c) and Gazette 19 Sep 2014 p. 3329)
 Consumer Protection Legislation Amendment Act 2014 Pt. 13 Div. 2 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
+Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 4 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Alcohol and Drug Authority Amendment Act 2015 s. 14 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
@@ -285,7 +286,6 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Medicines and Poisons Act 2014 s. 183 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 4 | 25 of 2014 | 3 Nov 2014 | To be proclaimed (see s. 2(b))
 Conservation and Land Management Amendment Act 2015 s. 72 | 28 of 2015 | 19 Oct 2015 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
@@ -385,17 +385,7 @@ On the date as at which this compilation was prepared, the Medicines and Poisons
 183.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete the item relating to The Poisons Advisory Committee.
-On the date as at which this compilation was prepared, the Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 4 had not come into operation. It reads as follows:
-Part 4 — Amendments to other Acts
-Division 4 — Other Acts amended
-Subdivision 4 — Constitution Acts Amendment Act 1899 amended
-38.Act amended
-This Subdivision amends the Constitution Acts Amendment Act 1899.
-39.Schedule V Part 1 Division 1 amended
-In Schedule V Part 1 Division 1 delete the item relating to the Mental Health Review Board and insert:
-Member of the Mental Health Tribunal established by the Mental Health Act 2014.
-40.Schedule V Part 3 amended
-In Schedule V Part 3 delete the item relating to the Council of Official Visitors.
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 2015 s. 72 had not come into operation. It reads as follows:
 72.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
