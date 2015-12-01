@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Cross-border Justice Act 2008 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Cross-border Justice Act 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Cross-border Justice Act 2008 | 7 of 2008 | 31 Mar 2008 | s. 1 and 2: 31 Mar 2008 (see s. 2(a)); Act other than s. 1, 2, 67(b), 68(2)(b) and (e), 108, 110, 117, 119, 137 and Pt. 15 Div. 1: 1 Nov 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991); s. 67(b), 68(2)(b) and (e), 108, 110, 117, 119, 137 and Pt. 15 Div. 1: 1 Dec 2009 (see s. 2(b) and Gazette 9 Oct 2009 p. 3991)
@@ -8,6 +8,7 @@ Cross-border Justice Amendment Act 2010 | 1 of 2010 | 9 Mar 2010 | s. 1 and 2: 9
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 16 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 9 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
+Reprint 1: The Cross-border Justice Act 2008 as at 1 Dec 2015 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -15,7 +16,7 @@ amended11(1)
 another participating jurisdiction7(1)
 appropriate modifications7(1)
 arrest7(1)
-arresting jurisdiction54(1)
+arresting jurisdiction54(1)(a)
 authorised officer7(1)
 bring up order7(1)
 carry out7(1)
@@ -39,9 +40,9 @@ Fines Enforcement Act120
 fines enforcement agency120
 Fines Registrar120
 interstate authority144(1)
-interstate court75(1)
+interstate court75(1)(a)
 interstate restraining order90(1), 91(1)
-investigating jurisdiction55(1)
+investigating jurisdiction55(1)(a)
 judicial body103(1)
 juvenile justice officer7(1)
 licensing powers39(1), 58(1)
@@ -78,7 +79,7 @@ secondary office7(1)
 secondary office holder7(1)
 State authorised hospital95
 State authority144(1)
-State court75(1)
+State court75(1)(a)
 State offence51(1)
 State office134(1)
 State prison95
@@ -89,7 +90,9 @@ testing procedures40
 vehicle impounding laws7(1)
 vehicle or driver licensing laws7(1)
 WA police order48
+WA/NT charge68(3)
 WA/NT region31(3)
 WA/SA region31(3)
+WA/SA/NT charge68(3)
 WA/SA/NT region31(3)
 written law7(1)
