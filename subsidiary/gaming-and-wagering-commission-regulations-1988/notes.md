@@ -64,6 +64,7 @@ Compilation table
  | Gaming and Wagering Commission Amendment Regulations 2013 | 8 Nov 2013 p. 4975-7 | r. 1 and 2: 8 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see. r. 2(b))
  | Reprint 6: The Gaming and Wagering Commission Regulations 1988 as at 16 May 2014 (includes amendments listed above)
 Gaming and Wagering Commission Amendment Regulations 2014 | 14 Nov 2014 p. 4282-4 | r. 1 and 2: 14 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2015 (see r. 2(b))
+Gaming and Wagering Commission Amendment Regulations 2015 | 1 Dec 2015 p. 4823-4 | r. 1 and 2: 1 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Dec 2015 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
