@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Magistrates Court (Fees) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 December 2015 of the Magistrates Court (Fees) Regulations 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Magistrates Court (Fees) Regulations 2005 | 28 Apr 2005 p. 1573-603 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -25,7 +25,9 @@ Magistrates Court (Fees) Amendment Regulations (No. 3) 2014 | 27 Jun 2014 p. 234
 Magistrates Court (Fees) Amendment Regulations 2015 | 10 Feb 2015 p. 613 | r. 1 and 2: 10 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Magistrates Court (Fees) Amendment Regulations (No. 2) 2015 | 19 Jun 2015 p. 2124-7 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(i))
 Magistrates Court (Fees) Amendment Regulations (No. 3) 2015 | 4 Sep 2015 p. 3695 | r. 1 and 2: 4 Sep 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Sep 2015 (see r. 2(b))
-The Magistrates Court (Fees) Amendment Regulations (No. 2) 2011, Table to r. 4 included amendments to Schedule 1 Divisions 2 and 3. These amendments are not included because the instruction in r. 4 referred only to Schedule 1 Division 1.
+Reprint 3: The Magistrates Court (Fees) Regulations 2005 as at 3 Dec 2015 (includes amendments listed above)
+The Companies (Co-operative) Act 1943 was repealed by the Co-operatives Act 2009.
+The Table to r. 4 of the Magistrates Court (Fees) Amendment Regulations (No. 2) 2011 included amendments to Schedule 1 Divisions 2 and 3. These amendments are not included because the instruction in r. 4 referred only to Schedule 1 Division 1.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
