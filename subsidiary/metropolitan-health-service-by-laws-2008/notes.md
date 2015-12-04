@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Metropolitan Health Service By-laws 2008 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 4 December 2015 of the Metropolitan Health Service By-laws 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Metropolitan Health Service By-laws 2008 | 12 Feb 2008 p. 341-2 | bl. 1 and 2: 12 Feb 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 13 Feb 2008 (see bl. 2(b))
@@ -10,6 +10,7 @@ Metropolitan Health Service Amendment By-laws (No. 2) 2014 | 13 Jun 2014 p. 1878
 Metropolitan Health Service Amendment By-laws 2014 | 8 Jan 2015 p. 185-7 | bl. 1 and 2: 8 Jan 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Apr 2015 (see bl. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Metropolitan Health Service Amendment By-laws 2015 | 14 Apr 2015 p. 1337-41 | bl. 1 and 2: 14 Apr 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 15 Apr 2015 (see bl. 2(b))
 Metropolitan Health Service Amendment By-laws (No. 2) 2015 | 18 Sep 2015 p. 3799-800 | bl. 1 and 2: 18 Sep 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 19 Sep 2015 (see bl. 2(b))
+Reprint 1: The Metropolitan Health Service By-laws 2008 as at 4 Dec 2015 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -26,8 +27,9 @@ parking space3(1)
 permission3(2)
 permit3(1)
 prohibited item4D(1)
-registered owner3(1)
+responsible person3(1)
 sign3(1)
 site3(1)
 specified4C(1), 8(1), 9(1)
 vehicle3(1)
+By Authority: JOHN A. STRIJK, Government Printer
