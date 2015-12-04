@@ -13,7 +13,7 @@ Item | Formal description | Informal description
 10. | A person who is registered under the Health Practitioner Regulation National Law (Western Australia) in the chiropractic profession. | Chiropractor
 11. | A person registered as an auditor or a liquidator under the Corporations Act 2001 of the Commonwealth. | Company auditor or liquidator
 12. | A judge, master, magistrate, registrar or clerk, or the chief executive officer, of any court of the State or the Commonwealth. | Court officer
-13. | A member of the Australian Defence Force who is — •an officer within the meaning of the Defence Force Discipline Act 1982 of the Commonwealth; •a non-commissioned officer within the meaning of that Act with 5 or more years of continuous service; or •a warrant officer within the meaning of that Act. | Defence force officer
+13. | A member of the Australian Defence Force who is — •an officer within the meaning of the Defence Force Discipline Act 1982 of the Commonwealth; or •a non-commissioned officer within the meaning of that Act with 5 or more years of continuous service; or •a warrant officer within the meaning of that Act. | Defence force officer
 14. | A person registered under the Health Practitioner Regulation National Law (Western Australia) in the dental profession whose name is entered on the Dentists Division of the Register of Dental Practitioners kept under that Law. | Dentist
 15. | A person who is registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession. | Doctor
 15A. | A person appointed under the Parliamentary and Electorate Staff (Employment) Act 1992 section 4(1)(b)(i) or (2)(b)(i) | Electorate officer of a member of State Parliament
@@ -47,4 +47,4 @@ Item | Formal description | Informal description
 42. | A person registered under the Teacher Registration Act 2012. | Registered teacher
 43. | A member, registrar or clerk, or the chief executive officer, of any tribunal of the State or the Commonwealth. | Tribunal officer
 44. | A registered veterinary surgeon within the meaning of the Veterinary Surgeons Act 1960. | Veterinary surgeon
-[Schedule 2 amended in Gazette 9 Jun 2006 p. 2030; 21 Dec 2007 p. 6328; 9 Dec 2011 p. 5235; 17 Apr 2014 p. 1076; amended by No. 21 of 2008 s. 684(5); No. 22 of 2008 s. 162; No. 35 of 2010 s. 120; No. 16 of 2012 s. 165.]
+[Schedule 2 amended in Gazette 9 Jun 2006 p. 2030; 21 Dec 2007 p. 6328; 9 Dec 2011 p. 5235; 17 Apr 2014 p. 1076; amended by No. 21 of 2008 s. 684(5); No. 22 of 2008 Sch. 3 cl. 39; No. 35 of 2010 s. 120; No. 16 of 2012 s. 165.]
