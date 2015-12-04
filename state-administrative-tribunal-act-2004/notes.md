@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Administrative Tribunal Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 December 2015 of the State Administrative Tribunal Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 State Administrative Tribunal Act 2004 | 54 of 2004 | 23 Nov 2004 | s. 1 and 2: 23 Nov 2004; Act other than s. 1 and 2: 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129)
@@ -30,24 +30,26 @@ Reprint 3: The State Administrative Tribunal Act 2004 as at 1 Apr 2011 (includes
 Building Services (Registration) Act 2011 s. 158 | 19 of 2011 | 22 Jun 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
 Teacher Registration Act 2012 s. 170 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 19 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 4: The State Administrative Tribunal Act 2004 as at 4 Dec 2015 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
-Taxi Drivers Licensing Act 2014 Pt. 10 Div. 4 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(f))
-Travel Agents Amendment and Expiry Act 2014 s. 9 | 21 of 2014 | 29 Aug 2014 | Operative on commencement after the day on which the Travel Agents Act 1985 expires under s. 61(1) of that Act as amended by s. 7 of this Act (see s. 2(c))
-On the date as at which this compilation was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 had not come into operation. It reads as follows:
+Taxi Drivers Licensing Act 2014 Pt. 10 Div. 4 | 18 of 2014 | 2 Jul 2014 | Operative on the day after the expiry of the period of 6 months beginning on proclamation day (see s. 2(f))
+Travel Agents Amendment and Expiry Act 2014 s. 9 | 21 of 2014 | 29 Aug 2014 | Operative on the day after the day on which the Travel Agents Act 1985 expires under s. 61(1) of that Act as amended by s. 7 of this Act (see s. 2(c))
+The Hairdressers Registration Act 1946 expired 13 Mar 2012.
+On the date as at which this reprint was prepared, the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 had not come into operation. It reads as follows:
 82.State Administrative Tribunal Act 2004 amended
 (1) This section amends the State Administrative Tribunal Act 2004.
 (2) In Schedule 1 delete “Finance Brokers Control Act 1975”.
-On the date as at which this compilation was prepared, the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 4 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 4 had not come into operation. It reads as follows:
 Division 4 — State Administrative Tribunal Act 2004 amended
 80.Act amended
 This Division amends the State Administrative Tribunal Act 2004.
 81.Schedule 1 amended
 In Schedule 1 insert in alphabetical order:
 Taxi Drivers Licensing Act 2014
-On the date as at which this compilation was prepared, the Travel Agents Amendment and Expiry Act 2014 s. 9 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Travel Agents Amendment and Expiry Act 2014 s. 9 had not come into operation. It reads as follows:
 9.State Administrative Tribunal Act 2004 amended
 (1) This section amends the State Administrative Tribunal Act 2004.
 (2) In Schedule 1 delete “Travel Agents Act 1985”.
@@ -72,7 +74,7 @@ executive officer3(1)
 exempt document3(1)
 exempt matter3(1)
 final decision3(1)
-former adjudicator167(1)
+former adjudicator167(1)(a)
 hearing3(1)
 investigator124(2)
 judicial member3(1)
@@ -113,3 +115,4 @@ vexatiously3(1)
 vocational Act3(1)
 vocational regulatory body3(1)
 witness3(1)
+By Authority: JOHN A. STRIJK, Government Printer
