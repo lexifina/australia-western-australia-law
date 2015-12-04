@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 December 2015 of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Constitution Acts Amendment Act 1899 | 1899 (63 Vict. No. 19) | 18 May 1900 | 18 May 1900 (see s. 52 and Gazette 18 May 1900 p. 1686). Reserved for Royal Assent 16 Dec 1899
@@ -241,7 +241,7 @@ Owner-Drivers (Contracts and Disputes) Act 2007 s. 58 | 7 of 2007 | 6 Jun 2007 |
 Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (see s. 2(1) and Gazette 27 Jul 2007 p. 3735)
 Child Care Services Act 2007 Pt. 7 Div. 2 | 19 of 2007 | 3 Jul 2007 | 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
 Reprint 15: The Constitution Acts Amendment Act 1899 as at 2 Aug 2007 (includes amendments listed above except those in the Commissioner for Children and Young People Act 2006, the Nurses and Midwives Act 2006, the Owner-Drivers (Contracts and Disputes) Act 2007 and the Child Care Services Act 2007)
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22, 35 and 51 | 24 of 2007 | 12 Oct 2007 | s. 51: 21 Feb 2009 (see s. 2(1) and Gazette 20 Feb 2009 p. 353); s. 35: 18 Dec 2010 (see s. 2(1) and Gazette 17 Dec 2010 p. 6349); s. 22: 1 May 2013 (see s. 2(2) and Gazette 2 Feb 2013 p. 823)
+Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 22, 35 and 51 | 24 of 2007 | 12 Oct 2007 | s. 51: 21 Feb 2009 (see s. 2(1) and Gazette 20 Feb 2009 p. 353); s. 35: 18 Dec 2010 (see s. 2(1) and Gazette 17 Dec 2010 p. 6349); s. 22: 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 1 | 36 of 2007 | 21 Dec 2007 | 1 Jul 2008 (see s. 2(b) and Gazette 20 Jun 2008 p. 2705)
 Water Resources Legislation Amendment Act 2007 s. 192 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Legal Profession Act 2008 s. 650 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
@@ -281,7 +281,8 @@ Consumer Protection Legislation Amendment Act 2014 Pt. 13 Div. 2 | 23 of 2014 | 
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 4 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Alcohol and Drug Authority Amendment Act 2015 s. 14 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 20: The Constitution Acts Amendment Act 1899 as at 4 Dec 2015 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
@@ -293,10 +294,10 @@ Relevant provisions deleted by the Health Amendment Act 1985.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Repealed by the Honey Pool Repeal Act 1991.
 Repealed by the Acts Amendment (Occupational Health, Safety and Welfare) Act 1987.
-Under the Gaming and Wagering Commission Act 1987 s. 112 the Casino Control Committee was merged with the Gaming Commission of Western Australia (which is now the Gaming and Wagering Commission of Western Australia). Under s. 112(2) of that Act a reference to the Casino Control Committee in a written law passed or made before 4 Mar 1988 is, unless the context is such that it would be inappropriate so to do, read and construed as a reference to the Commission.
+Under the Gaming and Wagering Commission Act 1987 s. 112 the Casino Control Committee was merged with the Gaming Commission of Western Australia (which is now the Gaming and Wagering Commission of Western Australia). Under s. 112(2) of that Act a reference to the Casino Control Committee in a written law passed or made before 4 Mar 1988 shall, unless the context is such that it would be inappropriate so to do, be read and construed as a reference to the Commission.
 Repealed by the Statutes (Repeals and Minor Amendments) Act 1997.
 The Chicken Meat Industry Act 1977 expired 31 Dec 2010 (see Gazette 19 Dec 2003 p. 5140).
-Under the Environmental Protection Act 1986 Sch. 3 cl. 20, a reference to the Conservation and Environment Council shall be construed as a reference to the Environmental Protection Authority unless the context is such that it would be incorrect or inappropriate.
+Under the Environmental Protection Act 1986 Sch. 3 it. 20, a reference to the Conservation and Environment Council shall be construed as a reference to the Environmental Protection Authority unless the context is such that it would be incorrect or inappropriate.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
 Repealed by the Acts Amendment and Repeal (Statutory Bodies) Act 1985.
 Relevant provisions amended by the Soil and Land Conservation Amendment Act 1988. Committees are now land conservation district committees.
@@ -310,7 +311,7 @@ Subject to sections 44 and 45, at the beginning of the commencement day, the for
 39.References to former Board or Registrar
 If in a written law or other document or instrument there is a reference to the former Board or the former Registrar, that reference may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
 Repealed by the Legislative Review and Advisory Committee Repeal Act 1987.
-Relevant provisions deleted by the Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 115. Committee replaced by Mining Industry Advisory Committee established under the Occupational Safety and Health Act 1984 s. 14A.
+Relevant provisions deleted by the Occupational Safety and Health Legislation Amendment and Repeal Act 2004 s. 115. Board replaced by Mining Industry Advisory Committee established under the Occupational Safety and Health Act 1984 s. 14A.
 Repealed by the Minerals and Energy Research Act 1987.
 The Motor Vehicle Industry Board was abolished on 1 Jul 2011. The Motor Vehicle Dealers Act 1973 s. 58 and 59 read as follows:
 58.Former Board abolished
@@ -336,7 +337,7 @@ If in a written law or other document or instrument there is a reference to the 
 Relevant provisions deleted by the Solar Energy Research Amendment Act 1987 and Act expired 30 Jun 1988.
 Repealed by the Censorship Act 1996, now known as the Classification (Publications, Films and Computer Games) Enforcement Act 1996.
 Repealed by the Acts Amendment and Repeal (Transport Co-ordination) Act 1985.
-Repealed by the Cemeteries Act 1986. The former body corporate continued under the name “Karrakatta Cemetery Board” — see Sch. 2 cl. 4 of that Act.
+Repealed by the Cemeteries Act 1986. The former body corporate continued under the name “Karrakatta Cemetery Board”, see Sch. 2 cl. 4 of that Act.
 This Council was not in existence at the date of this reprint.
 Relevant provisions deleted by the Agricultural Legislation Amendment and Repeal Act 1998 s. 21.
 Repealed by the Western Australian Arts Council Repeal Act 1986.
@@ -371,7 +372,7 @@ The Criminal Law Amendment (Simple Offences) Act 2004 s. 81(4) and (5) read as f
 by reason only of a conviction that occurred before the commencement.
 (5) In subsection (4) —
 commencement means the commencement of this section.
-On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 7.3Consequential amendments
 Schedule 2 has effect.
 Schedule 2 Div. 2 reads as follows:
@@ -381,12 +382,11 @@ Schedule V Part 1 Division 1 to the Constitution Acts Amendment Act 1899 is amen
 “
 Member of the Native Title Commission established by the Native Title (State Provisions) Act 1999.
 ”.
-On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 183 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Medicines and Poisons Act 2014 s. 183 had not come into operation. It reads as follows:
 183.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete the item relating to The Poisons Advisory Committee.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 2015 s. 72 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Conservation and Land Management Amendment Act 2015 s. 72 had not come into operation. It reads as follows:
 72.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete the item relating to the Conservation Commission of Western Australia and insert:
