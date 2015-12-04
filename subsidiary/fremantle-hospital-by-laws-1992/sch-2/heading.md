@@ -14,6 +14,7 @@ By-law | Description of offence | Modified penalty
 14 | Parking a vehicle on site not in a parking space | 40
 15 | Failing to obey a stop sign on site | 45
 15 | Parking, standing or moving a vehicle on site contrary to a sign other than a stop sign | 40
+ |  | $
 16(3) & 16(1)(b) | Parking in an area on site set aside for vehicles of disabled persons identified in the manner specified in a sign, contrary to the sign | 40
 16(3) & 16(1)(e) | Displaying a visitor’s ticket or permit in a manner other than that specified in a sign | 10
 16(3) & 16(1)(e) | Failing to display a permit, contrary to a sign | 40
