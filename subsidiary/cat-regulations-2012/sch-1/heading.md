@@ -15,12 +15,12 @@ Contact telephone number
 (home, work, mobile)(H)________________________
 (W) ________________________
 (M) ________________________
-Email address (if available) ________________________________
+Email address (if available) ___________________________________
 Can your local government use this email address to issue renewal notices and other relevant information? Yes/No
 (delete one)
 Alternative contact details (optional)
-Name of alternative ______________________________________
-Residential address ______________________________________
+Name of alternative _______________________________________
+Residential address _______________________________________
 _______________________________________
 Postal address
 (if different from above) _________________________________________
@@ -55,8 +55,8 @@ ______________________________________________________
 Is the custodian a member of a prescribed exempt organisation Yes/No
 (delete one)
 Please give details of the prescribed exempt organisation
-_______________________________________________________
-_______________________________________________________
+________________________________________________________
+________________________________________________________
 Approved breeder? Yes/No
 (delete one)
 Any distinguishing
@@ -81,35 +81,35 @@ a period of 1 year (ü): r
 a period of 3 years (ü): r
 Prescribed lifetime fee (ü): r
 Previous local government where cat was registered
-(if known)_________________________________________
-_________________________________________
+(if known)___________________________________________
+___________________________________________
 Registration number
-(to be issued by local government) ________________________________
+(to be issued by local government) __________________________________
 Part E — Application for approved breeder
 Application to be an approved breeder (ü): r
-Breed of cats to be bred_______________________________
-______________________________________________________
-Number of breeding cats to be kept at the property__________
-Description of facilities_______________________________
-______________________________________________________
-Membership of prescribed organisation _____________________
-______________________________________________________
+Breed of cats to be bred_________________________________
+________________________________________________________
+Number of breeding cats to be kept at the property____________
+Description of facilities_________________________________
+________________________________________________________
+Membership of prescribed organisation _______________________
+________________________________________________________
 Part F — Previous convictions
 Do you have any convictions for offences against this Act, Dog Act 1976 or Animal Welfare Act 2002 in past 3 years? Yes/No
 (delete one)
 If yes, please give details, specifying the date of the conviction(s), nature of the offence and the legislation involved
-_______________________________________________________
-_______________________________________________________
-_______________________________________________________
+________________________________________________________
+________________________________________________________
+________________________________________________________
 Part G — Declaration
 The local government may refuse an application if any or all of the required information is not provided within the time period specified in the legislation.
-I, ___________________________________________________________ (person’s full name or organisation/company name)
-___________________________________________________________
-___________________________________________________________
-of ___________________________________________________________
+I, _____________________________________________________________ (person’s full name or organisation/company name)
+_____________________________________________________________
+_____________________________________________________________
+of _____________________________________________________________
 (address)
-___________________________________________________________
-___________________________________________________ _______ (postcode)
+_____________________________________________________________
+____________________________________________________ ________ (postcode)
 declare that the information I have provided is true and correct.
 I am aware that it is an offence to provide false and misleading information.
 Signature_____________________________________________
@@ -135,80 +135,80 @@ Form 2 — Certificate of registration
 Cat Act 2011 s. 11(1)
 [r. 14]
 This is to certify that —
-Name of cat__________________________________________
-Description of cat__________________________________________ (gender, age, sterilisation status, breed (if known), colour.)
-__________________________________________
+Name of cat_______________________________________________
+Description of cat_______________________________________________ (gender, age, sterilisation status, breed (if known), colour)
+_______________________________________________
 Has been registered by —
-Name__________________________________________ (person’s full name or organisation/company name)
-Street Address__________________________________________
-Suburb/Town__________________________ Postcode _______
+Name_______________________________________________ (person’s full name or organisation/company name)
+Street Address_______________________________________________
+Suburb/Town_______________________________ Postcode _______
 By (insert name of local government)
-__________________________________________
-__________________________________________
-Registration number of cat_________________________________
+_______________________________________________
+_______________________________________________
+Registration number of cat______________________________________
 This registration expires on ____/____/_______
 Form 3 — Cat control notice
 Cat Act 2011 s. 26(2)
 [r. 20]
 THIS IS A NOTICE to advise and inform and is NOT an infringement notice. At this stage there are no associated penalties or fines. Any further, similar incidents may result in an infringement notice and other enforcement measures with associated penalties and fines.
 To —
-Name_________________________________________________ (person’s full name or organisation/company name)
-_________________________________________________
-_________________________________________________
-Street Address_________________________________________________
-Suburb/Town__________________________________ Postcode _______
+Name___________________________________________________ (person’s full name or organisation/company name)
+___________________________________________________
+___________________________________________________
+Street Address___________________________________________________
+Suburb/Town____________________________________ Postcode _______
 Date and time of incident ____/____/_______ __________a.m./p.m.
-Cat Act 2011 s. _____________________________________________
+Cat Act 2011 s. _______________________________________________
 (state relevant provision)(description of offence)
-_________________________________________________
-Cat Regulations 2012 r. ____ ____________________________________
+___________________________________________________
+Cat Regulations 2012 r. ____ ______________________________________
 (state relevant provision)(description of offence)
-__________________________________________________
-Local law provision _______ _____________________________________
+___________________________________________________
+Local law provision _______ ______________________________________
 (state relevant provision)(description of offence)
-__________________________________________________
+___________________________________________________
 Location of cat/sighting of cat/premises where cat confined —
-Street Address__________________________________________
-Suburb/Town__________________________ Postcode ________
+Street Address___________________________________________
+Suburb/Town___________________________ Postcode ________
 Description of cat —
 (distinguishing features, collar, tag, breed, gender)
-__________________________________________________
-__________________________________________________
+___________________________________________________
+___________________________________________________
 ACTION TO BE TAKEN
-_______________________________________________________________
-_______________________________________________________________
-_______________________________________________________________
-_______________________________________________________________
-Time to complete the action _______________________________________
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+Time to complete the action ________________________________________
 (if more time is needed contact the local government)
-Local government details__________________________________________
-__________________________________________
-Authorised person__________________________________________
+Local government details___________________________________________
+___________________________________________
+Authorised person___________________________________________
 (name)
-__________________________________________
+___________________________________________
 (signature)
 Form 4 — Certificate of approved cat breeder
 Cat Act 2011 s. 39(1)
 [r. 25]
 This is to certify that —
-Name__________________________________________ (person’s full name or organisation/company name)
-__________________________________________
-__________________________________________
-Street Address__________________________________________
-Suburb/Town__________________________ Postcode ________
-Who is a member of __________________________________________
+Name___________________________________________ (person’s full name or organisation/company name)
+___________________________________________
+___________________________________________
+Street Address___________________________________________
+Suburb/Town___________________________ Postcode ________
+Who is a member of ___________________________________________
 (insert name of any prescribed organisation(s))
-__________________________________________
+___________________________________________
 has been granted an approval to breed cats at the following location —
-Street Address__________________________________________
-Suburb/Town__________________________ Postcode ________
+Street Address___________________________________________
+Suburb/Town___________________________ Postcode ________
 By (insert name of local government)
-__________________________________________
-__________________________________________
+___________________________________________
+___________________________________________
 This certificate is given subject to the following conditions
 (insert conditions, if any)
-__________________________________________
-__________________________________________
+___________________________________________
+___________________________________________
 This certificate is valid until ____/____/_______
 Form 5 — Warrant to enter, search and seize
 Cat Act 2011 s. 58
@@ -238,16 +238,16 @@ qentry onto the place is reasonably required to investigate a suspected offence 
 OR
 qthere are reasonable grounds for suspecting that an offence under the Cat Act 2011 is likely to be committed in respect of the cat if it is not seized.
 I authorise __________________________, an authorised person under Part 4 Division 3 of the Cat Act 2011, to exercise the entry, search and seizure powers set out in that Act in relation to the premises set out in this warrant, with such assistance, and using such force, as is reasonably necessary during the time referred to in this warrant.
-Signed.___________________________ (Justice of the Peace)
+Signed ___________________________ (Justice of the Peace)
 Dated ____________________________
 Form 6 — Infringement notice
 [r. 27]
 Cat Act 2011 Infringement notice | Infringement notice no.
 Alleged offender | NameFamily name
 Given names
-orCompany name ______________________________________________ ACN
-Address ______________________________________________ Postcode
-Alleged offence | Description of offence ______________________________________________
+orCompany name _______________________________________________ ACN
+Address _______________________________________________ Postcode
+Alleged offence | Description of offence _______________________________________________
 Cat Act 2011 s. or Cat Regulations 2012 r. or Local Law provision
 Date //20Time a.m./p.m.
 Modified penalty $
@@ -262,11 +262,11 @@ Form 7 — Withdrawal of infringement notice
 Cat Act 2011 Withdrawal of infringement notice | Withdrawal no.
 Alleged offender | NameFamily name
 Given names
-orCompany name ______________________________________________ ACN
-Address ______________________________________________ Postcode
+orCompany name _______________________________________________ ACN
+Address _______________________________________________ Postcode
 Infringement notice | Infringement notice no.
 Date of issue //20
-Alleged offence | Description of offence ______________________________________________
+Alleged offence | Description of offence _______________________________________________
 Cat Act 2011 s. or Cat Regulations 2012 r. or Local Law provision
 Date //20Timea.m./p.m.
 CEO withdrawing notice | Name
@@ -278,20 +278,20 @@ Form 8 — Objection
 Cat Act 2011 s. 69
 [r. 29]
 To the CEO (Relevant local government):
-I, ____________________________________________________________
-of ____________________________________________________________
-____________________________________________________________
-object to the decision of ___________________________________________ (date)
-The details of that decision are ______________________________________
-_______________________________________________________________
-_______________________________________________________________
-The grounds of my objection are (details of grounds) ___________________________
-_______________________________________________________________
-_______________________________________________________________
+I, _____________________________________________________________
+of _____________________________________________________________
+_____________________________________________________________
+object to the decision of ____________________________________________ (date)
+The details of that decision are _______________________________________
+________________________________________________________________
+________________________________________________________________
+The grounds of my objection are (details of grounds) ____________________________
+________________________________________________________________
+________________________________________________________________
 In support of my objection I attach the following information (list attachments) —
-_______________________________________________________________
-_______________________________________________________________
-Dated the ________ day of._____________________________ 20_________
+________________________________________________________________
+________________________________________________________________
+Dated the ________ day of ______________________________ 20_________
 _________________________
 (signature of person objecting)
 Contact phone no. _____________________
