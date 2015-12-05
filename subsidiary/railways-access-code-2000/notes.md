@@ -8,7 +8,8 @@ Railway and Port (The Pilbara Infrastructure Pty Ltd) Agreement Act 2004 Pt. 3 D
 Railways (Access) Amendment Code 2009 | 23 Jun 2009 p. 2407-19 | s. 1 and 2: 23 Jun 2009 (see s. 2(a)); Code other than s. 1 and 2: 24 Jun 2009 (see s. 2(b))
 Reprint 1: The Railways (Access) Code 2000 as at 5 Feb 2010 (includes amendments listed above)
 Railways (Access) Amendment Code 2011 | 20 Sep 2011 p. 3801-2 | s. 1 and 2: 20 Sep 2011 (see s. 2(a)); Code other than s. 1 and 2: 21 Sep 2011 (see s. 2(b))
-Railways (Access) Amendment Code 2013 | 19 Jul 2013 p. 3269-71 | s. 1 and 2: 19 Jul 2013 see s. 2(a)); Code other than s. 1 and 2: 7 Aug 2013 (see s. 2(b) and Gazette 6 Aug 2013 p. 3677)
+Railways (Access) Amendment Code 2013 | 19 Jul 2013 p. 3269-71 | s. 1 and 2: 19 Jul 2013 (see s. 2(a)); Code other than s. 1 and 2: 7 Aug 2013 (see s. 2(b) and Gazette 6 Aug 2013 p. 3677)
+Railways (Access) Amendment Code 2015 | 4 Dec 2015 p. 4846-7 | s. 1 and 2: 4 Dec 2015 (see s. 2(a)); Code other than s. 1 and 2: 5 Dec 2015 (see s. 2(b))
 Under the Railway (Roy Hill Infrastructure Pty Ltd) Agreement Act 2010 Pt. 3, this Code must be applied with the modifications set out in that Part. Those modifications have effect on and from 15 Aug 2015 until that Part expires in accordance with s. 15 of that Act.
 For notices published under Schedule 4 clause 3(1) see —
 Government Gazette16 Aug 2002 p. 4218; 4 Jul 2003 p. 2720; 6 Jul 2004 p. 2762; 15 Jul 2005 p. 3307-8; 10 Jul 2007 p. 3445; 26 Aug 2008 p. 4039; 26 Jun 2009 p. 2588.
