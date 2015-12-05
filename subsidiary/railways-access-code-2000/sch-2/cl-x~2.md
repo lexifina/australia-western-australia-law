@@ -19,4 +19,4 @@
 (o) the available capacity.
 5.The train control systems operating on the network.
 6.A summary of improvements and capital works proposed to be carried out during a period provided for by section 7E.
-[Schedule 2 inserted in Gazette 23 Jun 2009 p. 2417-18.]
+[Schedule 2 inserted: Gazette 23 Jun 2009 p. 2417-18.]
