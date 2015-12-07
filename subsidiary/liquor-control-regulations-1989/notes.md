@@ -120,6 +120,7 @@ Liquor Control Amendment Regulations (No. 6) 2014 | 14 Nov 2014 p. 4284-6 | r. 1
 Liquor Control Amendment Regulations (No. 5) 2014 | 8 Jan 2015 p. 147 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Reprint 13: The Liquor Control Regulations 1989 as at 5 Jun 2015 (includes amendments listed above)
 Liquor Control Amendment Regulations 2015 | 7 Aug 2015 p. 3206-7 | r. 1 and 2: 7 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Aug 2015 (see r. 2(b))
+Liquor Control Amendment Regulations (No. 2) 2015 | 1 Dec 2015 p. 4821-3 | r. 1 and 2: 1 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Dec 2015 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
@@ -243,6 +244,7 @@ higher education institution 3A(1)
 host club9G
 hostel8(2)
 inter-State voyage8(3)
+liqueur chocolate4AE(1)
 live entertainment8A(1)
 manager’s approval3A(1)
 maximum number of patrons3A(1), 14AC(1)

@@ -99,10 +99,10 @@ the warrant
 Form 21
 Liquor Control Act 1988 Infringement notice | Notice No.
 Date of notice
-Alleged offender | Name:Family name
+Alleged offender | Name:Surname
 Given names
 Address ______________________________________________ Postcode
-Date of birthMale / Female
+Date of birth
 Driver’s licence No. (if available)
 Alleged offence | Description of offence ___________________________________
 Liquor Control Act 1988 s. ________ Liquor Control Regulations 1989 r. _________
@@ -110,14 +110,18 @@ Location where offence committed Name of premises (if applicable)_______________
 Date //20Timea.m./p.m.
 Modified penalty $
 Officer issuing notice | Name
-Signature
-Station No.
-Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the offence, pay the modified penalty within 28 days after the date of this notice. How to pay By post: Send a cheque, money order or postal note and the ‘Cashier’s Copy’ of this notice to: Director of Liquor Licensing PO Box 6119 East Perth WA 6892 In person: Take the ‘Cashier’s Copy’ of this notice and pay the cashier at: Department of Racing, Gaming and Liquor 1st floor, Hyatt Centre 87 Adelaide Terrace, East Perth WA or at any Magistrates Court. If you do not pay the modified penalty within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold. If you need more time to pay the modified penalty, you can apply for an extension of time by writing to the Director of Liquor Licensing at the above postal address. If you want this matter to be dealt with by prosecution in court, sign the ‘Cashier’s Copy’ of this notice here __________________________________________________ and post it to the Director of Liquor Licensing at the above postal address within 28 days after the date of this notice.
-[Form 21 inserted in Gazette 28 Sep 2007 p. 4931; amended in Gazette 20 Aug 2013 p. 3855.]
+Registered No.
+Station/Unit
+Notice to alleged offender | It is alleged that you have committed the above offence. If you do not want to be prosecuted in court for the alleged offence, pay the modified penalty above within 28 days after the date of issue of this notice. See below for how and where to pay the modified penalty. If you do not pay the modified penalty within 28 days, you may be prosecuted in court for the alleged offence or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994 to recover the modified penalty. Under that Act, some or all of the following action may be taken — your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold. If you want this matter to be dealt with by prosecution in court, sign and date here: __________________________________ / /20 and post this notice to the address below within 28 days after the date of issue of this notice. If you are prosecuted in a court for the alleged offence, and convicted, you will be liable to a penalty and costs.
+How to pay the modified penalty | In person | [Details for paying in person]
+ | By post | Post this notice, with a cheque or money order made payable to [payee], to: [Address] Do not send cash in the mail.
+ | Online | [Details for online payments]
+ | By telephone | [Details for telephone payments]
+[Form 21 inserted in Gazette 28 Sep 2007 p. 4931; amended in Gazette 20 Aug 2013 p. 3855; 1 Dec 2015 p. 4822-3.]
 Form 22
-Liquor Control Act 1988 Withdrawal of infringement notice | Withdrawal No.
+Liquor Control Act 1988 Withdrawal of infringement notice
 Date of withdrawal
-Alleged offender | Name:Family name
+Alleged offender | Name:Surname
 Given names
 Address ______________________________________________ Postcode
 Infringement notice | Infringement notice No.
@@ -127,6 +131,7 @@ Liquor Control Act 1988 s. ________ Liquor Control Regulations 1989 r. _________
 Location where offence committed Name of premises (if applicable)____________________________________________ Address ______________________________________________ Postcode
 Date//20Time a.m./p.m.
 Officer withdrawing notice | Director of Liquor Licensing
-Signature
-Withdrawal of infringement notice [*delete whichever is not applicable] | The above infringement notice issued against you has been withdrawn. If you have already paid the modified penalty for the alleged offence you are entitled to a refund. *Your refund is enclosed. or *If you have paid the modified penalty but a refund is not enclosed, to claim your refund sign this notice and post it to: Director of Liquor Licensing PO Box 6119 East Perth WA 6892 Signature//20
-[Form 22 inserted in Gazette 28 Sep 2007 p. 4932.]
+Registered No.
+Station/Unit
+Withdrawal of infringement notice | The above infringement notice, which was issued for the above alleged offence, has been withdrawn. If you have already paid the modified penalty for the alleged offence in accordance with the infringement notice, the amount will be refunded to you.
+[Form 22 inserted in Gazette 28 Sep 2007 p. 4932; amended in Gazette 1 Dec 2015 p. 4823.]
