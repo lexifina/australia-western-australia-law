@@ -35,11 +35,19 @@ Metropolitan Redevelopment Authority Act 2011 s. 143 | 45 of 2011 | 12 Oct 2011 
 Water Services Legislation Amendment and Repeal Act 2012 s. 231 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Ports Legislation Amendment Act 2014 s. 45 | 9 of 2014 | 20 May 2014 | s. 45(1) and (3)-(5): 1 Jul 2014 (see s. 2(1)(c) and Gazette 20 Jun 2014 p. 2023); s. 45(2): 1 Oct 2014 (see s. 2(1)(c) and Gazette 19 Sep 2014 p. 3329)
 Statutory Corporations (Liability of Directors) (Act Amendment) Regulations 2014 published in Gazette 12 Aug 2014 p. 2891 | r. 1 and 2: 12 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Aug 2014 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Perth Market (Disposal) Act 2015 s. 56 | 40 of 2015 | 8 Dec 2015 | Operative on the day on which the Perth Market Act 1926 is repealed by proclamation under s. 42 (see s. 2(2))
 The Insurance Commission of Western Australia Act 1986 Part III provides for the establishment of the State Government Insurance Corporation and for a board of directors of the Corporation. The Acts Amendment (ICWA) Act 1996 s. 20, which had not come into operation at the date on which this compilation was prepared, would repeal that Part.
 Formerly referred to the State Government Insurance Commission Act 1986 the short title of which was changed to the Insurance Commission of Western Australia Act 1986 by the Acts Amendment (ICWA) Act 1996 s. 5. The reference was substituted under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Meat Industry Legislation (Amendment and Repeal) Act 1993.
 The amendment in the State Superannuation Amendment Act 2007 s. 87 is not included because it was repealed by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 The amendment in the Ports Legislation Amendment Act 2014 s. 45(4)(b) is not included because it is a duplication of s. 45(3)(b).
+On the date as at which this compilation was prepared, the Perth Market (Disposal) Act 2015 s. 56 had not come into operation. It reads as follows:
+56.Statutory Corporations (Liability of Directors) Act 1996 amended
+(1) This section amends the Statutory Corporations (Liability of Directors) Act 1996.
+(2) In Schedule 1 in the Table delete the row relating to the Perth Market Authority.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
