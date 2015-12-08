@@ -16,6 +16,7 @@ Reprint 2: The Building Regulations 2012 as at 21 Nov 2014 (includes amendments 
 Building Amendment Regulations (No. 4) 2015 | 23 Jun 2015 p. 2161-4 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2015 | 30 Jun 2015 p. 2328-9 | r. 1 and 2: 30 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Building Amendment Regulations 2015 | 15 Sep 2015 p. 3783-4 | r. 1 and 2: 15 Sep 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2015 (see r. 2(b))
+Building Amendment Regulations (No. 3) 2015 | 7 Dec 2015 p. 4897-901 | r. 1 and 2: 7 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2015 (see r. 2(b) and Gazette 7 Dec 2015 p. 4881)
 The Building Act 2011 s. 153 came into operation on 2 April 2012.
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
@@ -35,10 +36,11 @@ assessment method3
 builder work3
 Building Code3
 building product31J(1)
+bush fire prone area3
 business day3
 Class3
 CodeMark certificate31J(1)
-commencement day3
+commencement day3, 31BA(8)
 decision33(1)
 dwelling55(1)
 electrician55(1)
@@ -50,7 +52,7 @@ former provisions3
 GSTSch. 1 cl. 1
 Heritage Act3
 licensed surveyor39(1)
-local planning scheme3
+local planning scheme3, 31BA(8)
 managed reserve10(1A)
 management body10(1A)
 new owner57(1)
