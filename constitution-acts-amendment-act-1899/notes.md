@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 December 2015 of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Constitution Acts Amendment Act 1899 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Constitution Acts Amendment Act 1899 | 1899 (63 Vict. No. 19) | 18 May 1900 | 18 May 1900 (see s. 52 and Gazette 18 May 1900 p. 1686). Reserved for Royal Assent 16 Dec 1899
@@ -282,12 +282,13 @@ Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 4 | 25 of 2014
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Alcohol and Drug Authority Amendment Act 2015 s. 14 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
 Reprint 20: The Constitution Acts Amendment Act 1899 as at 4 Dec 2015 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Medicines and Poisons Act 2014 s. 183 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Conservation and Land Management Amendment Act 2015 s. 72 | 28 of 2015 | 19 Oct 2015 | To be proclaimed (see s. 2(b))
+Perth Market (Disposal) Act 2015 s. 54 | 40 of 2015 | 8 Dec 2015 | Operative on the day on which the Perth Market Act 1926 is repealed by proclamation under s. 42 (see s. 2(2))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
@@ -372,7 +373,7 @@ The Criminal Law Amendment (Simple Offences) Act 2004 s. 81(4) and (5) read as f
 by reason only of a conviction that occurred before the commencement.
 (5) In subsection (4) —
 commencement means the commencement of this section.
-On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this Compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 7.3Consequential amendments
 Schedule 2 has effect.
 Schedule 2 Div. 2 reads as follows:
@@ -382,15 +383,19 @@ Schedule V Part 1 Division 1 to the Constitution Acts Amendment Act 1899 is amen
 “
 Member of the Native Title Commission established by the Native Title (State Provisions) Act 1999.
 ”.
-On the date as at which this reprint was prepared, the Medicines and Poisons Act 2014 s. 183 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 183 had not come into operation. It reads as follows:
 183.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete the item relating to The Poisons Advisory Committee.
-On the date as at which this reprint was prepared, the Conservation and Land Management Amendment Act 2015 s. 72 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 2015 s. 72 had not come into operation. It reads as follows:
 72.Constitution Acts Amendment Act 1899 amended
 (1) This section amends the Constitution Acts Amendment Act 1899.
 (2) In Schedule V Part 3 delete the item relating to the Conservation Commission of Western Australia and insert:
 The Conservation and Parks Commission established under the Conservation and Land Management Act 1984.
+On the date as at which this compilation was prepared, the Perth Market (Disposal) Act 2015 s. 54 had not come into operation. It reads as follows:
+54.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 3 delete the item relating to the Perth Market Authority.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
