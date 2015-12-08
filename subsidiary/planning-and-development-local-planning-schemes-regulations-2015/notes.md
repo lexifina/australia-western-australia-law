@@ -1,11 +1,13 @@
 Notes
-This is a compilation of the Planning and Development (Local Planning Schemes) Regulations 2015. The following table contains information about those regulations.
+This is a compilation of the Planning and Development (Local Planning Schemes) Regulations 2015 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Planning and Development (Local Planning Schemes) Regulations 2015 | 25 Aug 2015 p. 3401-595 | r. 1 and 2: 25 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Oct 2015 (see r. 2(b))
+Planning and Development (Local Planning Schemes) Amendment Regulations 2015 | 7 Dec 2015 p. 4883-90 | r. 1 and 2: 7 Dec 2015 (see r. 2(a)); r. 3 and 4: 8 Dec 2015 (see r. 2(b)); r. 5: 8 Dec 2015 (see r. 2(c) and Gazette 7 Dec 2015 p. 4881)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+Sch. 2 cl. 78F(1)
 abattoirSch. 1 cl. 38
 absolute majoritySch. 2 cl. 81
 ActSch. 2 cl. 1
@@ -22,8 +24,11 @@ amenitySch. 2 cl. 1
 amusement parlourSch. 1 cl. 38
 animal establishmentSch. 1 cl. 38
 animal husbandry — intensiveSch. 1 cl. 38
+applicationSch. 2 cl. 78F(2)
 art gallerySch. 1 cl. 38
+AS 3959Sch. 2 cl. 78A
 authorised person3
+BAL contour mapSch. 2 cl. 78A
 basic amendment34
 bed and breakfastSch. 1 cl. 38
 betting agencySch. 1 cl. 38
@@ -31,8 +36,11 @@ brewerySch. 1 cl. 38
 Building CodeSch. 2 cl. 1
 building envelopeSch. 1 cl. 37(1)
 building heightSch. 1 cl. 37(1)
+building permit
+building workSch. 2 cl. 78F(1)
 built heritage conservationSch. 2 cl. 1
 bulky goods showroomSch. 1 cl. 38
+bushfire attack level assessment Sch. 2 cl. 78A
 cabinSch. 1 cl. 37(1)
 car parkSch. 1 cl. 38
 caravan parkSch. 1 cl. 38
@@ -43,13 +51,14 @@ cinema/theatreSch. 1 cl. 38
 civic useSch. 1 cl. 38
 clause10(3), 10(5)
 club premisesSch. 1 cl. 38
-commencement day77, Sch. 1 cl. 37(1), Sch. 2 cl. 28(2), Sch. 2 cl. 44(2), Sch. 2 cl. 57(2)
+commencement day77, Sch. 1 cl. 37(1), Sch. 2 cl. 28(2), Sch. 2 cl. 44(2), Sch. 2 cl. 57(2), Sch. 2 cl. 78G(1)
 commercial vehicleSch. 1 cl. 37(1)
 commercial vehicle parkingSch. 1 cl. 38
 committeeSch. 2 cl. 81
 community purposeSch. 1 cl. 38
 complex amendment34
 consideration period25(1), 41(1), 50(1)
+constructionSch. 2 cl. 78A
 consulting roomsSch. 1 cl. 38
 convenience storeSch. 1 cl. 38
 corrective institutionSch. 1 cl. 38
@@ -57,7 +66,10 @@ cultural heritage significanceSch. 2 cl. 1
 deemed provisions10(3)
 Department3
 Department of Main RoadsSch. 1 cl. 14(1)
+developerSch. 2 cl. 78D(1)
+development approvalSch. 2 cl. 78A
 development contribution plan3, Sch. 2 cl. 1
+development siteSch. 2 cl. 78A
 educational establishmentSch. 1 cl. 38
 exhibition centreSch. 1 cl. 38
 family day careSch. 1 cl. 38
@@ -68,6 +80,7 @@ frontageSch. 1 cl. 37(1)
 fuel depotSch. 1 cl. 38
 funeral parlourSch. 1 cl. 38
 garden centreSch. 1 cl. 38
+habitable buildingSch. 2 cl. 78A
 heritage areaSch. 2 cl. 7
 heritage conservation noticeSch. 2 cl. 13(1)
 heritage listSch. 2 cl. 7
@@ -80,6 +93,7 @@ home officeSch. 1 cl. 38
 home storeSch. 1 cl. 38
 hospitalSch. 1 cl. 38
 hotelSch. 1 cl. 38
+in a bushfire prone areaSch. 2 cl. 78C
 incidental useSch. 1 cl. 37(1)
 industrySch. 1 cl. 38
 industry — extractiveSch. 1 cl. 38
@@ -118,6 +132,7 @@ plot ratioSch. 1 cl. 37(1)
 precinctSch. 1 cl. 37(1)
 predominant useSch. 1 cl. 37(1)
 premisesSch. 2 cl. 1
+previous bushfire provisionsSch. 2 cl. 78G(1)
 properly maintainedSch. 2 cl. 13(1)
 R-CodesSch. 2 cl. 1
 reception centreSch. 1 cl. 38
@@ -144,6 +159,7 @@ shopSch. 1 cl. 38
 short-term accommodationSch. 1 cl. 37(1)
 small barSch. 1 cl. 38
 special control areaSch. 2 cl. 1
+specified buildingSch. 2 cl. 78A
 standard amendment34
 structure planSch. 2 cl. 14
 submission period25(1), 41(1), 50(1)
@@ -154,6 +170,9 @@ this Scheme10(3), 10(5)
 tourist developmentSch. 1 cl. 38
 trade displaySch. 1 cl. 38
 trade suppliesSch. 1 cl. 38
+transition periodSch. 2 cl. 78G(1)
+transitional development siteSch. 2 cl. 78G(1)
+transitional permitSch. 2 cl. 78F(2)
 transport depotSch. 1 cl. 38
 tree farmSch. 1 cl. 38
 value74(1)
