@@ -34,18 +34,86 @@ Acts Amendment (Bankruptcy) Act 2009 s. 64 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 39 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
-Footnote no longer applicable.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Perth Market (Disposal) Act 2015 s. 42 and Pt. 6 Div. 2 | 40 of 2015 | 8 Dec 2015 | s. 42: to be proclaimed (see s. 42(2)); Pt. 6 Div. 2: operative on the day on which the Perth Market Act 1926 is repealed under s. 42 (see s. 2(2))
+On the date as at which this compilation was prepared, the Perth Market (Disposal) Act 2015 s. 42 and Pt. 6 Div. 2 had not come into operation. They read as follows:
+42.Repeal of Act
+(1) The Perth Market Act 1926 is repealed on a day fixed by proclamation.
+(2) A proclamation cannot be made under subsection (1) unless the Minister is satisfied that there is no reason for the Perth Market Act 1926 to remain in operation.
+Division 2 — Transitional arrangements after repeal
+45.Term used: Authority
+In this Division —
+Authority means the Perth Market Authority continued in existence under section 46(1).
+46.Authority continued in existence for transitional purposes
+(1) Despite the repeal of the Perth Market Act 1926 under section 42, the Authority under that Act continues in existence for the purposes of sections 23, 25, 47 and 49.
+(2) The Authority is to be constituted by, and must perform its functions through, one or more persons appointed by the Minister.
+(3) A person appointed under subsection (2) holds office at the pleasure of the Minister and on the terms and conditions (including as to remuneration) the Minister determines.
+(4) The Authority has all of the functions and powers necessary or convenient for the purposes referred to in subsection (1).
+47.Disposal of residual assets and liabilities
+(1) Any part of a business carried on by, or any asset or liability owned by, the Authority that, immediately before the repeal of the Perth Market Act 1926 under section 42, had not been disposed of otherwise under this Act may be assigned from the Authority to the State or another person.
+(2) The Under Treasurer must ensure that the necessary steps are taken to effect any assignment of a part of a business, or an asset or liability, under subsection (1).
+48.Application of Constitution Acts Amendment Act 1899
+The Constitution Acts Amendment Act 1899 applies, until the Authority is abolished under section 51, as if the following item were inserted in Schedule V Part 3 —
+Perth Market Authority continued in existence under the Perth Market (Disposal) Act 2015 section 46(1)
+49.Application of Financial Management Act 2006 and Auditor General Act 2006
+The Financial Management Act 2006 and the Auditor General Act 2006 apply, until the Authority is abolished under section 51, as if the following item were inserted in the Financial Management Act 2006 Schedule 1 —
+Perth Market Authority continued in existence under the Perth Market (Disposal) Act 2015 section 46(1)
+50.Application of Statutory Corporations (Liability of Directors) Act 1996
+The Statutory Corporations (Liability of Directors) Act 1996 Part 3 applies, until the Authority is abolished under section 51, as if the following item were inserted in the Table in Schedule 1 —
+Perth Market Authority | a member of the Authority appointed under the Perth Market (Disposal) Act 2015 section 46(2) | Perth Market (Disposal) Act 2015
+51.Abolition of Authority
+(1) The Authority is abolished, and its members go out of office, at the end of the day fixed by the Minister by notice published in the Gazette.
+(2) A notice cannot be published under subsection (1) unless the Minister is satisfied that there is no reason for the Authority to continue in existence.
+52.Transitional regulations
+(1) In this section —
+publication day, for regulations referred to in subsection (2), means the day on which those regulations are published in the Gazette;
+specified means specified or described in the regulations;
+transitional matter —
+(a)means a matter of a transitional nature that arises as a result of —
+(i)the enactment of this Part; or
+(ii)the repeal of the Perth Market Act 1926 under section 42;
+and
+(b)includes a saving or application matter.
+(2) If there is not sufficient provision in this Part for dealing with a transitional matter, regulations made under section 41 may prescribe matters that are required or necessary or convenient to be prescribed for dealing with the transitional matter.
+(3) Regulations referred to in subsection (2) may provide that specified provisions of a written law —
+(a) do not apply to or in relation to any matter; or
+(b) apply with specified modifications to or in relation to any matter.
+(4) If regulations referred to in subsection (2) provide that a specified state of affairs is to be taken to have existed, or not to have existed, on and from a day that is earlier than publication day for those regulations but not earlier than the day on which this section comes into operation, those regulations have effect according to their terms.
+(5) If regulations referred to in subsection (2) contain a provision referred to in subsection (4), the provision does not operate so as —
+(a) to affect in a manner prejudicial to any person (other than the State, the Authority or a Minister, officer or agency of the State) the rights of that person existing before publication day for those regulations; or
+(b) to impose liabilities on any person (other than the State, the Authority or a Minister, officer or agency of the State) in respect of anything done or omitted to be done before publication day for those regulations.
+53.Interpretation Act 1984 not affected
+Except to the extent this Part or regulations made under section 52(2) expressly provide differently, the Interpretation Act 1984 applies in relation to the repeal of the Perth Market Act 1926 under section 42.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
 Short title was initially the Metropolitan Market Act 1926 and was subsequently changed to the Perth Market Act 1926 (see note under s. 1).
 The Acts Amendment (Perth Market Authority) Act 1990 s. 11 reads as follows:
-“
 11.Transitional
 A reference to the Metropolitan Market Trust, whether by use of that name or a similar or abbreviated form of that name —
 (a) in a written law passed or made before the commencement of this Act;
 (b) in any notice, instrument or other document issued, given, made, executed or entered into before the commencement of this Act; or
 (c) made before the commencement of this Act in any other manner,
 shall, unless the context is such that it would be incorrect or inappropriate to do so, be read and construed as if it had been amended to be a reference to the Perth Market Authority.
-”.
+The Perth Market (Disposal) Act 2015 Pt. 6 Div. 1 (other than s. 42) reads as follows:
+Part 6 — Repeal of Perth Market Act 1926 and related transitional matters
+Division 1 — Repeal of Perth Market Act 1926
+43.Arrangements to be made for Authority’s staff before repeal
+(1) In this section —
+staff member means a person appointed by the Authority under the Perth Market Act 1926 section 10(1)(a) or otherwise employed by the Authority.
+(2) Before the Perth Market Act 1926 is repealed under section 42, the Minister —
+(a) must, after consulting the Public Sector Commissioner —
+(i) nominate the person or body in the Public Sector who will be the employing authority under the Public Sector Management Act 1994 for staff members after the repeal; and
+(ii) ensure that employment by or under that employing authority is arranged for each staff member who has not made other arrangements;
+and
+(b) must ensure that the Public Sector Management Act 1994 Part 6 applies in relation to any staff member whose employment is arranged under paragraph (a).
+(3) Except as agreed by a staff member, neither a change of employment arranged under paragraph (a) nor the repeal —
+(a) affects the staff member’s remuneration or other terms and conditions of employment; or
+(b) prejudices the staff member’s existing or accruing rights; or
+(c) affects any rights under a superannuation scheme; or
+(d) interrupts the staff member’s continuity of service.
+44.Members go out of office
+When the Perth Market Act 1926 is repealed under section 42, the members of the Authority go out of office.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
