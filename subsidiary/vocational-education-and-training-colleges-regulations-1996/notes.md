@@ -38,6 +38,10 @@ Vocational Education and Training (Colleges) Amendment Regulations (No. 2) 2012 
 Vocational Education and Training (Colleges) Amendment Regulations 2013 | 17 Dec 2013 p. 6255-71 | r. 1 and 2: 17 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
 Reprint 6: The Vocational Education and Training (Colleges) Regulations 1996 as at 7 Mar 2014 (includes amendments listed above)
 Vocational Education and Training (Colleges) Amendment Regulations 2014 | 12 Dec 2014 p. 4739-42 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Vocational Education and Training (Colleges) Amendment Regulations 2015 r. 3-13 | 11 Dec 2015 p. 4957-60 | 1 Jan 2016 (see r. 2(b))
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 of the Commonwealth.
 Formerly referred, incorrectly, to the Student and Youth Allowances Act 1973 of the Commonwealth. The correct short title of the Act was the Student and Youth Assistance Act 1973. That short title was changed to the Student Assistance Act 1973 by the Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998 of the Commonwealth. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
 Now known as the Vocational Education and Training (Colleges) Regulations 1996; citation changed (see note under r. 1).
@@ -45,6 +49,69 @@ The Vocational Education and Training Amendment Regulations 1997 r. 4 and 5 were
 The Vocational Education and Training Amendment Regulations 2005 r. 6(3) reads as follows:
 6.Regulation 15A amended and savings
 (3) A determination issued under regulation 15A that is in force immediately before these regulations commence and specifies a tuition fee for a course for a student, continues in force after these regulations commence and the fee so specified is to be taken to be the course fee specified for that course for that student.
+On the date as at which this compilation was prepared, the Vocational Education and Training (Colleges) Amendment Regulations 2015 r. 3-13 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Vocational Education and Training (Colleges) Regulations 1996.
+4.Regulations 11 and 12 inserted
+At the beginning of Part 3 Division 2 insert:
+11.Course fees for 2016 — Schedule 1
+(1) The course fee for a course to be commenced by a student in 2016 is as follows —
+(a) where only one unit is commenced — the relevant fee determined in accordance with Schedule 1 item 2, 3, 4 or 5 (the unit fee);
+(b) if more than one unit is to be commenced — the sum of the unit fees for each unit to be commenced.
+(2) Subregulation (1) does not apply to a course or unit for which there is a determination in force under regulation 15A or 16A.
+12.Annual course fee caps
+(1) The fee caps set out in this regulation are applicable to persons, despite the operation of regulation 11(1).
+(2) The maximum amount of course fee payable for 2016 by a student who is not a secondary school aged person is $7 780.
+(3) The cap in subregulation (2) applies for each course in which the student is enrolled (by enrolling in one or more than one unit of that course) that, if successfully completed, would result in the conferral of a prescribed VET qualification of a Diploma or Advanced Diploma.
+(4) The maximum amount of course fee payable for 2016 by a student who is a secondary school aged person, but not enrolled at school, is $415.
+5.Regulation 13B deleted
+Delete regulation 13B.
+6.Regulation 13 amended
+Delete regulation 13(3) and insert:
+(3) No course fee is payable for a course undertaken by a person enrolled at a school, as defined in the School Education Act 1999 section 4.
+7.Regulation 15A amended
+(1) In regulation 15A(1)(b) delete “13B.” and insert:
+11.
+(2) In regulation 15A(4) in the definition of Australian resident:
+(a) in paragraph (a) delete “1948” and insert:
+2007
+(b) in paragraph (b)(ii) delete “820, 826 or 851” and insert:
+820 or 826
+8.Regulation 16 amended
+Before regulation 16(1) insert:
+(1A) This regulation does not apply to vocational education or training or related services supplied by a college on a fee for service basis under section 37(1)(bb) of the Act.
+9.Regulation 16A inserted
+At the end of Part 3 Division 3 insert:
+16A.Fee for service
+(1) A college may from time to time determine the fee or charge that is payable to the college for the supply of a particular vocational education or training or related service, where that supply is to be provided on a fee for service basis under section 37(1)(bb) of the Act.
+(2) Subregulation (1) does not apply to students who are already subject to a determination under regulation 15A.
+10.Regulation 18 amended
+In regulation 18(2):
+(a) in paragraph (b) delete “college.” and insert:
+college; or
+(b) after paragraph (b) insert:
+(c) has enrolled as a student at a college by satisfying regulation 17(2)(b) by undertaking to arrange for payment of fees by way of Commonwealth assistance (VET FEE-HELP), but has not had an eligible application for VET FEE-HELP to the college confirmed within the required period for that unit.
+11.Regulation 20A inserted
+After regulation 20 insert:
+20A.Concessions for existing worker
+(1) This regulation applies to a person, other than an apprentice —
+(a) regarded as an existing worker under a Vocational Education and Training (General) Regulations 2009 Schedule 1 training contract; and
+(b) who is undertaking training in a Certificate IV level qualification or below.
+(2) If the training contract referred to in subregulation (1)(a) was received by the Apprenticeship Office of the Department of Training and Workforce Development on or before 30 September 2015, the fees payable by that person for 2016 are the fees applicable to Category 2 courses.
+(3) If the training contract referred to in subregulation (1)(a) was received by the Apprenticeship Office of the Department of Training and Workforce Development after 30 September 2015, the fees payable by that person for 2016 are the fees applicable to Category 1 courses.
+12.Regulation 25 amended
+(1) Delete regulation 25(1).
+(2) Delete regulation 25(3) and insert:
+(3) For the purpose of subregulation (2), the allowed period for a unit is the period set by the college for that unit, ending no less than 20% of the way through the period during which that unit is undertaken.
+13.Schedule 1 amended
+In Schedule 1 amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Sch. 1 it. 2 | 5.67 | 5.73
+Sch. 1 it. 3(a) | 3.09 | 3.21
+Sch. 1 it. 3(b) | 1.55 | 1.61
+Sch. 1 it. 4(a) | 4.65 | 4.84
+Sch. 1 it. 4(b) | 2.32 | 2.42
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
