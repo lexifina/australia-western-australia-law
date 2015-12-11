@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Criminal Investigation (Identifying People) Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 11 December 2015 of the Criminal Investigation (Identifying People) Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Criminal Investigation (Identifying People) Regulations 2002 | 28 Jun 2002 p. 3103-5 | 29 Jun 2002 (see r. 2 and Gazette 28 Jun 2002 p. 3037)
@@ -12,6 +12,8 @@ Criminal Investigation (Identifying People) Amendment Regulations 2009 | 22 Dec 
 Criminal Investigation (Identifying People) Amendment Regulations 2014 | 15 Apr 2014 p. 1056-60 | r. 1 and 2: 15 Apr 2014 (see r. 2(a)); r. 4: 16 Apr 2014 (see r. 2(b) and Gazette 15 Apr 2014 p. 1053); Regulations other than r. 1, 2 and 4: 16 Apr 2014 (see r. 2(c))
 Criminal Investigation (Identifying People) Amendment Regulations 2015 | 26 Jun 2015 p. 2269 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(ii) and Gazette 26 Jun 2015 p. 2235)
 Criminal Investigation (Identifying People) Amendment Regulations (No. 2) 2015 | 3 Jul 2015 p. 2668-9 | r. 1 and 2: 3 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jul 2015 (see r. 2(b))
+Reprint 2: The Criminal Investigation (Identifying People) Regulations 2002 as at 11 Dec 2015 (includes amendments listed above)
+16 April 2014 (see Gazette 15 April 2014 p. 1053).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -28,3 +30,4 @@ suspects index5B(1)
 unknown deceased persons index5B(1)
 volunteers (limited purposes) index5B(1)
 volunteers (unlimited purposes) index5B(1)
+By Authority: JOHN A. STRIJK, Government Printer
