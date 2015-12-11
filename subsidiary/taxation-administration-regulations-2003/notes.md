@@ -25,12 +25,37 @@ Reprint 3: The Taxation Administration Regulations 2003 as at 1 Aug 2014 (includ
 Taxation Administration Amendment Regulations 2014 | 8 Jan 2015 p. 107-8 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Taxation Administration Amendment Regulations 2015 | 5 Jun 2015 p. 1976-7 | r. 1 and 2: 5 Jun 2015 (see r. 2(a)); r. 3, 4 and 6 and 7: 6 Jun 2015 (see r. 2(b)); r. 5: 1 Jul 2015 (see r. 2(c))
 Taxation Administration Amendment Regulations (No. 2) 2015 | 26 Jun 2015 p. 2279-80 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Taxation Administration Amendment Regulations (No. 3) 2015 r. 3-8 | 11 Dec 2015 p. 4962-3 | 1 Jan 2016 (see r. 2(b))
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number.
 1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number.
 Under the Settlement Agents Act 1981 s. 126, a reference to the Settlement Agents Supervisory Board may, where the context so requires, be read as if it had been amended to be a reference to the Commissioner.
 Under the Settlement Agents Act 1981 s. 3(1) Commissioner has the meaning given in the Fair Trading Act 2010 s. 6.
 The Settlement Agents Act 1981 s. 6 was deleted by the Acts Amendment (Fair Trading) Act 2010 s. 137(2).
 Under the Settlement Agents Act 1981 s. 129(1), a reference to the Registrar may where the context so requires, be read as if it had been amended to be a reference to the Commissioner. See note 2 as to the meaning of Commissioner.
+On the date as at which this compilation was prepared, the Taxation Administration Amendment Regulations (No. 3) 2015 r. 3-8 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Taxation Administration Regulations 2003.
+4.Regulation 3A inserted
+Before regulation 3 insert:
+3A.Rates of interest under compromise assessments (section 20A)
+The rate of interest payable under a compromise agreement for the purposes of section 20A(3A) of the Act is —
+(a) if the agreement provides for the payment of interest by the Commissioner — 2.2% per annum;
+(b) if the agreement provides for the payment of interest by a taxpayer — 10.2% per annum.
+5.Regulation 3 amended
+In regulation 3 delete “2.6%” and insert:
+2.2%
+6.Regulation 4 amended
+In regulation 4 delete “2.6%” and insert:
+2.2%
+7.Regulation 5 amended
+In regulation 5 delete “10.6%” and insert:
+10.2%
+8.Regulation 5B amended
+In regulation 5B delete “2.6%” and insert:
+2.2%
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
