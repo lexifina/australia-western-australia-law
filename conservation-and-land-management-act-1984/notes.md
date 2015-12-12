@@ -1,69 +1,70 @@
 Notes
 This is a compilation of the Conservation and Land Management Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
-Short title | Number and year | Assent | Commencement
-Conservation and Land Management Act 1984 | 126 of 1984 | 8 Jan 1985 | s. 1 and 2: 8 Jan 1985; Act other than s. 1 and 2: 22 Mar 1985 (see s. 2 and Gazette 15 Mar 1985 p. 931)
-Conservation and Land Management Amendment Act 1985 | 86 of 1985 | 4 Dec 1985 | 4 Dec 1985 (see s. 2)
-Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
-Acts Amendment (Public Service) Act 1987 s. 32 | 113 of 1987 | 31 Dec 1987 | 16 Mar 1988 (see s. 2 and Gazette 16 Mar 1988 p. 813)
-Acts Amendment (Land Administration) Act 1987 Pt. XVI | 126 of 1987 | 31 Dec 1987 | 16 Sep 1988 (see s. 2 and Gazette 16 Sep 1988 p. 3637)
-Acts Amendment (Swan River Trust) Act 1988 Pt. 2 | 21 of 1988 | 5 Oct 1988 | 1 Mar 1989 (see s. 2 and Gazette 27 Jan 1989 p. 264)
-Conservation and Land Management Amendment Act 1988 | 76 of 1988 | 9 Jan 1989 | s. 1 and 2: 9 Jan 1989; Act other than s. 1 and 2: 27 Jan 1989 (see s. 2 and Gazette 27 Jan 1989 p. 264)
-Conservation and Land Management Amendment Act 1991 | 20 of 1991 (as amended by No. 8 of 2009 s. 35(2)) | 25 Jun 1991 | s. 1 and 2: 25 Jun 1991; Act other than s. 1, 2 and 51: 23 Aug 1991 (see s. 2 and Gazette 23 Aug 1991 p. 4353) s. 51 deleted by No. 8 of 2009 s. 35(2)
-Reprint of the Conservation and Land Management Act 1984 as at 16 Jan 1992 (includes amendments listed above)
-Acts Amendment (Game Birds Protection) Act 1992 Pt. 3 | 18 of 1992 | 16 Jun 1992 | 16 Jun 1992 (see s. 2)
-Conservation and Land Management Amendment Act 1992 | 66 of 1992 | 11 Dec 1992 | 11 Dec 1992 (see s. 2)
-Financial Administration Legislation Amendment Act 1993 s. 11 and 15 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
-Conservation and Land Management Amendment Act 1993 | 49 of 1993 | 20 Dec 1993 | 20 Dec 1993 (see s. 2)
-Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
-Fish Resources Management Act 1994 s. 264 | 53 of 1994 | 2 Nov 1994 | 1 Oct 1995 (see s. 2 and Gazette 29 Sep 1995 p. 4649)
-Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
-Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 188 | 73 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2(2) and Gazette 29 Dec 1995 p. 6291)
-Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
-Financial Legislation Amendment Act 1996 s. 51 and 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
-Reprint of the Conservation and Land Management Act 1984 as at 20 Jan 1997 (includes amendments listed above)
-Acts Amendment (Marine Reserves) Act 1997 Pt. 2 | 5 of 1997 | 10 Jun 1997 | 29 Aug 1997 (see s. 2 and Gazette 29 Aug 1997 p. 4867)
-Acts Amendment (Land Administration) Act 1997 Pt. 13 and s. 141 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
-Statutes (Repeals and Minor Amendments) Act 1997 s. 36 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
-Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 22 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
-Reprint of the Conservation and Land Management Act 1984 as at 26 Mar 1999 (includes amendments listed above)
-Statutes (Repeals and Minor Amendments) Act 2000 s. 8 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
-Conservation and Land Management Amendment Act 2000 | 35 of 2000 (as amended by No. 74 of 2003 s. 39(11)) | 10 Oct 2000 | 16 Nov 2000 (see s. 2 and Gazette 15 Nov 2000 p. 6275)
-Criminal Investigation (Identifying People) Act 2002 Sch. 2 cl. 2 | 6 of 2002 | 4 Jun 2002 | 29 Jun 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
-Labour Relations Reform Act 2002 s. 17 | 20 of 2002 | 8 Jul 2002 | 15 Sep 2002 (see s. 2 and Gazette 6 Sep 2002 p. 4487)
-Fire and Emergency Services Legislation Amendment Act 2002 s. 41 | 38 of 2002 | 20 Nov 2002 | 30 Nov 2002 (see s. 2 and Gazette 29 Nov 2002 p. 5651-2)
-Conservation and Land Management Amendment Act 2002 | 43 of 2002 | 11 Dec 2002 | 11 Dec 2002 (see s. 2)
-Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3 | 12 of 2003 | 17 Apr 2003 | 1 Jan 2011 (see s. 2 and Gazette 17 Dec 2010 p. 6350)
-Reprint 4: The Conservation and Land Management Act 1984 as at 24 Apr 2003 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3)
-Sentencing Legislation Amendment and Repeal Act 2003 s. 47 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
-Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 20 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
-Economic Regulation Authority Act 2003 Sch. 2 cl. 4 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
-Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 5 | 70 of 2003 | 15 Dec 2003 | 21 Apr 2004 (see s. 2 and Gazette 20 Apr 2004 p. 1297)
-Statutes (Repeals and Minor Amendments) Act 2003 s. 21(2) and 39(1)-(10) | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
-Reprint 5: The Conservation and Land Management Act 1984 as at 24 Sep 2004 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003)
-Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
-Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
-Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
-Reprint 6: The Conservation and Land Management Act 1984 as at 9 Jun 2006 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003)
-Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1 15-17 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
-Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 29 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Petroleum Amendment Act 2007 s. 92 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
-Water Resources Legislation Amendment Act 2007 s. 191 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
-Reprint 7: The Conservation and Land Management Act 1984 as at 4 Apr 2008 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003)
-Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 34 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
-Acts Amendment (Bankruptcy) Act 2009 s. 19 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
-Standardisation of Formatting Act 2010 s. 4, 44(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
-Conservation Legislation Amendment Act 2011 Pt. 2 | 36 of 2011 | 13 Sep 2011 | Pt. 2 (other than s. 40): 14 Mar 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033); s. 40: 8 Dec 2012 (see s. 2(b) and Gazette 7 Dec 2012 p. 5963)
-Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 6 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
-Reprint 8: The Conservation and Land Management Act 1984 as at 11 May 2012 (includes amendments listed above except the Conservation Legislation Amendment Act 2011 s. 40)
-Water Services Legislation Amendment and Repeal Act 2012 s. 207 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
-Swan and Canning Rivers Management Amendment Act 2015 s. 54 | 6 of 2015 | 9 Mar 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 19 Jun 2015 p. 2095)
+ | Short title | Number and year | Assent | Commencement
+ | Conservation and Land Management Act 1984 | 126 of 1984 | 8 Jan 1985 | s. 1 and 2: 8 Jan 1985; Act other than s. 1 and 2: 22 Mar 1985 (see s. 2 and Gazette 15 Mar 1985 p. 931)
+ | Conservation and Land Management Amendment Act 1985 | 86 of 1985 | 4 Dec 1985 | 4 Dec 1985 (see s. 2)
+ | Acts Amendment (Financial Administration and Audit) Act 1985 s. 3 | 98 of 1985 | 4 Dec 1985 | 1 Jul 1986 (see s. 2 and Gazette 30 Jun 1986 p. 2255)
+ | Acts Amendment (Public Service) Act 1987 s. 32 | 113 of 1987 | 31 Dec 1987 | 16 Mar 1988 (see s. 2 and Gazette 16 Mar 1988 p. 813)
+ | Acts Amendment (Land Administration) Act 1987 Pt. XVI | 126 of 1987 | 31 Dec 1987 | 16 Sep 1988 (see s. 2 and Gazette 16 Sep 1988 p. 3637)
+ | Acts Amendment (Swan River Trust) Act 1988 Pt. 2 | 21 of 1988 | 5 Oct 1988 | 1 Mar 1989 (see s. 2 and Gazette 27 Jan 1989 p. 264)
+ | Conservation and Land Management Amendment Act 1988 | 76 of 1988 | 9 Jan 1989 | s. 1 and 2: 9 Jan 1989; Act other than s. 1 and 2: 27 Jan 1989 (see s. 2 and Gazette 27 Jan 1989 p. 264)
+ | Conservation and Land Management Amendment Act 1991 | 20 of 1991 (as amended by No. 8 of 2009 s. 35(2)) | 25 Jun 1991 | s. 1 and 2: 25 Jun 1991; Act other than s. 1, 2 and 51: 23 Aug 1991 (see s. 2 and Gazette 23 Aug 1991 p. 4353) s. 51 deleted by No. 8 of 2009 s. 35(2)
+ | Reprint of the Conservation and Land Management Act 1984 as at 16 Jan 1992 (includes amendments listed above)
+ | Acts Amendment (Game Birds Protection) Act 1992 Pt. 3 | 18 of 1992 | 16 Jun 1992 | 16 Jun 1992 (see s. 2)
+ | Conservation and Land Management Amendment Act 1992 | 66 of 1992 | 11 Dec 1992 | 11 Dec 1992 (see s. 2)
+ | Financial Administration Legislation Amendment Act 1993 s. 11 and 15 | 6 of 1993 | 27 Aug 1993 | 1 Jul 1993 (see s. 2(1))
+ | Conservation and Land Management Amendment Act 1993 | 49 of 1993 | 20 Dec 1993 | 20 Dec 1993 (see s. 2)
+ | Acts Amendment (Public Sector Management) Act 1994 s. 19 | 32 of 1994 | 29 Jun 1994 | 1 Oct 1994 (see s. 2 and Gazette 30 Sep 1994 p. 4948)
+ | Fish Resources Management Act 1994 s. 264 | 53 of 1994 | 2 Nov 1994 | 1 Oct 1995 (see s. 2 and Gazette 29 Sep 1995 p. 4649)
+ | Statutes (Repeals and Minor Amendments) Act 1994 s. 4 | 73 of 1994 | 9 Dec 1994 | 9 Dec 1994 (see s. 2)
+ | Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 188 | 73 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2(2) and Gazette 29 Dec 1995 p. 6291)
+ | Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
+ | Financial Legislation Amendment Act 1996 s. 51 and 64 | 49 of 1996 | 25 Oct 1996 | 25 Oct 1996 (see s. 2(1))
+ | Reprint of the Conservation and Land Management Act 1984 as at 20 Jan 1997 (includes amendments listed above)
+ | Acts Amendment (Marine Reserves) Act 1997 Pt. 2 | 5 of 1997 | 10 Jun 1997 | 29 Aug 1997 (see s. 2 and Gazette 29 Aug 1997 p. 4867)
+ | Acts Amendment (Land Administration) Act 1997 Pt. 13 and s. 141 | 31 of 1997 | 3 Oct 1997 | 30 Mar 1998 (see s. 2 and Gazette 27 Mar 1998 p. 1765)
+ | Statutes (Repeals and Minor Amendments) Act 1997 s. 36 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
+ | Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 22 | 10 of 1998 | 30 Apr 1998 | 30 Apr 1998 (see s. 2(1))
+ | Reprint of the Conservation and Land Management Act 1984 as at 26 Mar 1999 (includes amendments listed above)
+ | Statutes (Repeals and Minor Amendments) Act 2000 s. 8 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
+ | Conservation and Land Management Amendment Act 2000 | 35 of 2000 (as amended by No. 74 of 2003 s. 39(11)) | 10 Oct 2000 | 16 Nov 2000 (see s. 2 and Gazette 15 Nov 2000 p. 6275)
+ | Criminal Investigation (Identifying People) Act 2002 Sch. 2 cl. 2 | 6 of 2002 | 4 Jun 2002 | 29 Jun 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037)
+ | Labour Relations Reform Act 2002 s. 17 | 20 of 2002 | 8 Jul 2002 | 15 Sep 2002 (see s. 2 and Gazette 6 Sep 2002 p. 4487)
+ | Fire and Emergency Services Legislation Amendment Act 2002 s. 41 | 38 of 2002 | 20 Nov 2002 | 30 Nov 2002 (see s. 2 and Gazette 29 Nov 2002 p. 5651-2)
+ | Conservation and Land Management Amendment Act 2002 | 43 of 2002 | 11 Dec 2002 | 11 Dec 2002 (see s. 2)
+ | Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3 | 12 of 2003 | 17 Apr 2003 | 1 Jan 2011 (see s. 2 and Gazette 17 Dec 2010 p. 6350)
+ | Reprint 4: The Conservation and Land Management Act 1984 as at 24 Apr 2003 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003 Pt. 3)
+ | Sentencing Legislation Amendment and Repeal Act 2003 s. 47 | 50 of 2003 | 9 Jul 2003 | 15 May 2004 (see s. 2 and Gazette 14 May 2004 p. 1445)
+ | Labour Relations Reform (Consequential Amendments) Regulations 2003 r. 20 published in Gazette 15 Aug 2003 p. 3685-92 | 15 Sep 2003 (see r. 2)
+ | Economic Regulation Authority Act 2003 Sch. 2 cl. 4 | 67 of 2003 | 5 Dec 2003 | 1 Jan 2004 (see s. 2 and Gazette 30 Dec 2003 p. 5723)
+ | Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 5 | 70 of 2003 | 15 Dec 2003 | 21 Apr 2004 (see s. 2 and Gazette 20 Apr 2004 p. 1297)
+ | Statutes (Repeals and Minor Amendments) Act 2003 s. 21(2) and 39(1)-(10) | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
+ | Reprint 5: The Conservation and Land Management Act 1984 as at 24 Sep 2004 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003)
+ | Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
+ | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
+ | Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
+ | Reprint 6: The Conservation and Land Management Act 1984 as at 9 Jun 2006 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003)
+ | Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1 15-17 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
+ | Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 6 | 52 of 2006 | 6 Oct 2006 | 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
+ | Financial Legislation Amendment and Repeal Act 2006 s. 4 and Sch. 1 cl. 29 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
+ | Petroleum Amendment Act 2007 s. 92 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
+ | Water Resources Legislation Amendment Act 2007 s. 191 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
+ | Reprint 7: The Conservation and Land Management Act 1984 as at 4 Apr 2008 (includes amendments listed above except those in the Offshore Minerals (Consequential Amendments) Act 2003)
+ | Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 34 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+ | Acts Amendment (Bankruptcy) Act 2009 s. 19 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
+ | Standardisation of Formatting Act 2010 s. 4, 44(3) and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+ | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+ | Conservation Legislation Amendment Act 2011 Pt. 2 | 36 of 2011 | 13 Sep 2011 | Pt. 2 (other than s. 40): 14 Mar 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033); s. 40: 8 Dec 2012 (see s. 2(b) and Gazette 7 Dec 2012 p. 5963)
+ | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 6 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
+ | Reprint 8: The Conservation and Land Management Act 1984 as at 11 May 2012 (includes amendments listed above except the Conservation Legislation Amendment Act 2011 s. 40)
+ | Water Services Legislation Amendment and Repeal Act 2012 s. 207 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
+ | Swan and Canning Rivers Management Amendment Act 2015 s. 54 | 6 of 2015 | 9 Mar 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 19 Jun 2015 p. 2095)
+Conservation and Land Management Amendment Act 2015 s. 3, 50, 52, 55 to 58, 60 and 61 | 28 of 2015 | 19 Oct 2015 | 12 Dec 2015 (see s. 2(b) and Gazette 11 Dec 2015 p. 4953)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Conservation and Land Management Amendment Act 2015 Pt. 2 | 28 of 2015 | 19 Oct 2015 | To be proclaimed (see s. 2(b))
+Conservation and Land Management Amendment Act 2015 Pt. 2 (other than s. 3, 50, 52, 55 to 58, 60 and 61) | 28 of 2015 | 19 Oct 2015 | To be proclaimed (see s. 2(b))
 The Land Act 1933 was repealed by the Land Administration Act 1997 s. 281.
 The Forests Act 1918 was repealed by s. 147(1) of this Act.
 The Acts Amendment (Marine Reserves) Act 1997 s. 7(2) reads as follows:
@@ -209,10 +210,8 @@ Executive Director means the Executive Director referred to in section 36 of the
 and, unless the contrary intention appears, other words and expressions in this section have the same respective meanings as they have in the Conservation and Land Management Act 1984.
 The requirement to appoint an Executive Director was removed from the Act and references to the Executive Director were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
 The requirement to establish the Department of Conservation and Land Management was removed from the Act, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 7 Div. 1. Section 453 of that Act is a general transitional provision that applies to references to the Department of Conservation and Land Management in written laws.
-On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 2015 Pt. 2 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 2015 Pt. 2 (other than s. 3, 50, 52, 55 to 58, 60 and 61) had not come into operation. They read as follows:
 Part 2 — Conservation and Land Management Act 1984 amended
-3.Act amended
-This Part amends the Conservation and Land Management Act 1984.
 4.Long title amended
 In the long title delete “to establish authorities to be responsible therefor,” and insert:
 to establish the Conservation and Parks Commission,
@@ -651,125 +650,17 @@ The account established for the purposes of the operations of the Department is 
 (b) subject to any direction of the Treasurer, moneys received by the CEO by way of —
 (i) payments under the Forest Products Act 2000 section 42(2)(d); and
 (ii) recovery of the costs referred to in section 59(1)(c) and (d) of that Act.
-50.Section 97 amended
-(1) In section 97(1) delete “21” and insert:
-99
-(2) Delete section 97(2).
 51.Section 99 amended
 In section 99(1):
 (a) delete paragraph (aa) and insert:
 (aa) in the case of land vested in or under the care, control and management of the Commission, after consultation with the Commission and, where applicable, a joint responsible body; and
 (b) delete paragraph (ab).
-52.Section 100 amended
-(1) In section 100(1) delete “21” and insert:
-99
-(2) Delete section 100(2).
 53.Section 101 amended
 In section 101(1a) delete “Conservation Commission or the Marine Authority, as the case requires, and” and insert:
 Commission, and
 54.Section 104 amended
 In section 104(2) delete “$250” and insert:
 $1 000
-55.Part IX Division 4A heading inserted
-After section 114 insert:
-Division 4A — Infringement notices
-56.Section 114AA inserted
-Before section 114A insert:
-114AA.Terms used
-(1) In this Division —
-alleged offender means a person suspected of having committed a prescribed offence against this Act or the regulations;
-owner, in relation to a vessel, has the meaning given in the Western Australian Marine Act 1982 section 3(1);
-vessel offence means an alleged offence against this Act in connection with a vessel.
-(2) Words and expressions defined in the Criminal Procedure Act 2004 section 11 have the same meaning in this Division unless the contrary intention appears.
-57.Section 114A amended
-(1) In section 114A(1) delete “give to that person an infringement notice in the prescribed form.” and insert:
-issue an infringement notice for the alleged offence.
-(2) Delete section 114A(2) and insert:
-(2) The infringement notice must —
-(a) be in the prescribed form; and
-(b) be addressed to the alleged offender by name, unless section 114B(1) or 114D(1) applies; and
-(c) describe the offence with reasonable clarity; and
-(d) identify the written law and the provision of it that creates the offence; and
-(e) identify with reasonable clarity —
-(i) the date when the offence was committed or, if the date is not known, the period in which the offence was committed; and
-(ii) where the offence was committed;
-and
-(f) state the modified penalty for the offence; and
-(g) be dated with the date it is issued; and
-(h) inform the alleged offender —
-(i) that within 28 days after the date of the notice the alleged offender may elect to be prosecuted for the alleged offence; and
-(ii) how to make such an election; and
-(iii) that if the alleged offender does not want to be prosecuted for the alleged offence, the modified penalty for the offence may be paid to the CEO within 28 days after the date of the notice; and
-(iv) how and where the modified penalty may be paid;
-and
-(i) if the Fines, Penalties and Infringement Notices Enforcement Act 1994 Part 3 applies to the notice, inform the alleged offender of the action that may be taken under that Act if the alleged offender does not act in accordance with the notice.
-(3A) The infringement notice must be served under subsection (4) within 45 days after the day on which the alleged offence is believed to have been committed.
-(3) Delete section 114A(4) and insert:
-(4) Unless section 114B(1)(b)(i) or 114D(1)(b)(i) applies, an infringement notice must be served on an alleged offender —
-(a) if the offender is an individual, in accordance with the Criminal Procedure Act 2004 Schedule 2 clause 2 or 3; or
-(b) if the offender is a corporation, in accordance with the Criminal Procedure Act 2004 Schedule 2 clause 3 or 4; or
-(c) if the offender’s address is ascertained at the time of or immediately after the alleged offence was committed, by posting it to the offender at that address.
-(4) In section 114A(5) delete “A person” and insert:
-An alleged offender
-(5) In section 114A(6) delete “at any time within a period of 28 days after it was given”.
-(6) In section 114A(8) delete “the person” and insert:
-the alleged offender
-Note:The heading to amended section 114A is to read:
-Issuing infringement notices
-58.Sections 114B to 114E inserted
-At the end of Part IX Division 3 insert:
-114B.Infringement notices for vehicle offences
-(1) If an alleged offence is a vehicle offence and the identity of the alleged offender is not known and cannot immediately be ascertained, an infringement notice for the alleged offence —
-(a) despite section 114A(2)(b), may be addressed to the responsible person for the vehicle without naming that person or the alleged offender; and
-(b) may be served on the responsible person —
-(i) despite section 114A(4), by attaching it securely to the vehicle; or
-(ii) in accordance with section 114A(4)(a) or (b).
-(2) An infringement notice that is served under subsection (1) must contain or be accompanied by a statement explaining the operation of section 114C.
-(3) If an infringement notice is served on a responsible person under subsection (1) and there are several responsible persons, the notice is to be taken to have been served on —
-(a) if only one responsible person responds to the notice — that responsible person; or
-(b) in any other case — not more than one responsible person chosen by the CEO.
-(4) A person, other than a person in charge of the vehicle or a responsible person for the vehicle, must not interfere with an infringement notice that is left on a vehicle.
-Penalty: a fine of $1 000.
-114C.Onus of responsible person for vehicle offence
-(1) If under section 114B(1) an infringement notice is served on a responsible person, the responsible person is to be presumed to have been the driver or person in charge of the vehicle at the time of the vehicle offence alleged in the notice unless, within 28 days after the date of the infringement notice —
-(a) the modified penalty specified in the notice is paid; or
-(b) the responsible person informs the CEO that the responsible person was not the driver or person in charge of the vehicle at the time of the alleged offence and supplies the CEO —
-(i) with the name and address of the driver or person in charge of the vehicle at that time; or
-(ii) with information showing that at that time the vehicle had been stolen or unlawfully taken or was being unlawfully used.
-(2) If a responsible person complies with subsection (1)(b) the infringement notice may be withdrawn under section 114A(6).
-(3) If a responsible person complies with subsection (1)(b) and the CEO decides not to withdraw the infringement notice under section 114A(6), the CEO must advise the person of the decision.
-(4) The presumption in subsection (1) operates even if the responsible person is not an individual.
-(5) The presumption in subsection (1) operates, in the absence of evidence to the contrary, for the purpose of enforcing the infringement notice and for the purpose of any prosecution of the responsible person for the alleged offence.
-(6) The presumption in subsection (1) does not affect the liability of the person who actually committed the offence but —
-(a) the responsible person and the actual offender cannot both be issued an infringement notice or sentenced for the same offence; and
-(b) if one of them pays a modified penalty or is sentenced for the offence, the modified penalty paid by the other must be refunded; and
-(c) if one of them is sentenced for the offence, a sentence must not be imposed on the other for the offence.
-114D.Infringement notices for vessel offences
-(1) If an alleged offence is a vessel offence and the identity of the alleged offender is not known and cannot immediately be ascertained, an infringement notice for the alleged offence —
-(a) despite section 114A(2)(b), may be addressed to the owner of the vessel without naming that person or the alleged offender; and
-(b) may be served on the owner —
-(i) despite section 114A(4), by attaching it securely to the vessel; or
-(ii) in accordance with section 114A(4)(a) or (b).
-(2) An infringement notice that is served under subsection (1) must contain or be accompanied by a statement explaining the operation of section 114E.
-(3) If an infringement notice is served on an owner of a vessel under subsection (1) and there are several owners of the vessel, the notice is to be taken to have been served on —
-(a) if only one owner responds to the notice — that owner; or
-(b) in any other case — not more than one owner chosen by the CEO.
-(4) A person, other than the owner or person in charge of the vessel, must not interfere with an infringement notice that is left on a vessel.
-Penalty: a fine of $1 000.
-114E.Onus of responsible person for vessel offence
-(1) If under section 114D(1) an infringement notice is served on an owner of a vessel, the owner is to be presumed to have been the person in charge of the vessel at the time of the vessel offence alleged in the notice unless, within 28 days after the date of the infringement notice —
-(a) the modified penalty specified in the notice is paid; or
-(b) the owner informs the CEO that the owner was not the person in charge of the vessel at the time of the alleged offence and supplies the CEO —
-(i) with the name and address of the person in charge of the vessel at that time; or
-(ii) with information showing that at that time the vessel had been stolen or unlawfully taken or was being unlawfully used.
-(2) If an owner complies with subsection (1)(b) the infringement notice may be withdrawn under section 114A(6).
-(3) If an owner complies with subsection (1)(b) and the CEO decides not to withdraw the infringement notice under section 114A(6), the CEO must advise the person of the decision.
-(4) The presumption in subsection (1) operates even if the owner is not an individual.
-(5) The presumption in subsection (1) operates, in the absence of evidence to the contrary, for the purpose of enforcing the infringement notice and for the purpose of any prosecution of the owner for the alleged offence.
-(6) The presumption in subsection (1) does not affect the liability of the person who actually committed the offence but —
-(a) the owner and the actual offender cannot both be issued an infringement notice or sentenced for the same offence; and
-(b) if one of them pays a modified penalty or is sentenced for the offence, the modified penalty paid by the other must be refunded; and
-(c) if one of them is sentenced for the offence, a sentence must not be imposed on the other for the offence.
 59.Section 121 inserted
 After section 120 insert:
 121.Entry powers in relation to occupied land
@@ -806,12 +697,6 @@ occupied land means any land to which this Act applies, section 8A land or secti
 (iv) enforcement officers under section 45(3a) and the Bush Fires Act 1954;
 or
 (b) limits the powers of an enforcement officer who is a police officer.
-60.Section 126 amended
-After section 126(2) insert:
-(3) Regulations made under this section or section 130 may prohibit or regulate commercial operations on land to which they apply.
-61.Section 130 amended
-In section 130(3) delete “and 16B(3).” and insert:
-and 8B(2).
 62.Section 131 amended
 (1) In section 131(1) delete “CEO” and insert:
 Executive Body
@@ -978,6 +863,7 @@ Aboriginal person3
 agency26D(7)
 agreed area8A(1)
 alienated land8A(1)
+alleged offender114AA(1)
 amendment Act143(1)
 aquaculture3
 associated body3
@@ -1058,7 +944,7 @@ NCNP Account68(1)
 necessary operations33A(1)
 non-exclusive native title3
 NT Act3
-owner34B(8), 81
+owner34B(8), 81, 114AA(1)
 Part VIII Division 1 authorisation103(2c)
 pastoral region108C(3)
 pearling activity3
@@ -1098,6 +984,7 @@ timber reserve3
 tree3
 use33(8)
 vehicle81, 103A(1)
+vessel offence114AA(1)
 vested7(6)
 Western Australian waters13(8)
 Western Australian Wildlife Authority145
