@@ -27,6 +27,7 @@ Conservation and Land Management Amendment Regulations (No. 2) 2015 | 19 Jun 201
 Conservation and Land Management Amendment Regulations (No. 4) 2015 | 14 Jul 2015 p. 2787-9 | r. 1 and 2: 14 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2015 (see r. 2(b))
 Conservation and Land Management Amendment Regulations (No. 3) 2015 | 10 Nov 2015 p. 4605-6 | r. 1 and 2: 10 Nov 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Nov 2015 (see r. 2(b))
 Conservation and Land Management Amendment Regulations (No. 5) 2015 | 4 Dec 2015 p. 4841-2 | r. 1 and 2: 4 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2015 (see r. 2(b))
+Conservation and Land Management Amendment Regulations (No. 6) 2015 | 11 Dec 2015 p. 4954-6 | 12 Dec 2015 (see r. 2 and Gazette 11 Dec 2015 p. 4953)
 Footnote no longer applicable.
 Deleted by the Conservation Legislation Amendment Act 2011 s. 10.
 Repealed by these regulations.

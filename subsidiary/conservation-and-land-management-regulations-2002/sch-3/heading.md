@@ -1,45 +1,28 @@
 ## Schedule 3 — Forms
 [r. 112(3)]
-Form 1 — Infringement notice (r. 112(3))
- | Number
- | INFRINGEMENT NOTICE For offences with modified penalties under the Conservation and Land Management Act 1984, Conservation and Land Management Regulations 2002 and Forest Management Regulations 1993
-Male |  | Female |  |  | D.O.B |  |  |  |  | Date of Service
-(tick relevant box) |  |  | D | M | Y |  |  | D | M | Y
-1.To:..........................................................................................................................................
-Surname (Block letters)Other names in full
-Address:........................................................................................................................................
-Number and StreetSuburbPostcode
-2.It is alleged that at ......... hours on the ...... day of ................. 20....., on ...........................
-(time) (date) (month) (year)(Name/No of Park/
-Reserve/Forest Block)
-....................... (....................... District), you committed the offence(s) indicated hereunder:
-(insert name of District)
-Legislation (circle selection) | Section/ Regulation | Description of Offence | Penalty $
-CALM Act CALM Regs Forest Management Regs
-.............................................................................................. Signature of Issuing officerPrint Name of Issuing officer
-Note. At the discretion of the Department of Environment and Conservation this infringement notice may be withdrawn and other action taken.
-WHAT YOU MUST DO
-1.You may pay the full sum of the modified penalty for the offence specified on this notice within 21 days of the giving of this notice.
-2.Payment may be made by either posting your copy of this infringement notice along with a cheque, money order or postal note for the sum of the modified penalty shown above to the Chief Executive Officer, Department of Environment and Conservation, Locked Bag 104, Bentley Delivery Centre WA 6983, or presenting this notice at any office of the Department of Environment and Conservation and paying the modified penalty indicated on the notice. Part payment of the amount of the penalty will not be accepted.
-3.Alternatively, you may elect to have this matter dealt with before a Court of Summary Jurisdiction by completing the Court Election on the reverse side of the notice and forwarding it to —
-The Chief Wildlife Officer
-Nature Protection Branch
-Department of Conservation and Environment
-Locked Bag 104
-Bentley Delivery Centre WA 6983
-If this modified penalty is not paid within 21 days of the date of this notice, court proceedings may be taken against you.
-Failure to pursue one of the above options within the time specified may incur additional administrative charges and action may be taken to suspend your Motor Drivers Licence until the modified penalty and any additional charges incurred have been paid in full.
-[reverse of notice]
-I elect to have this matter heard by a Court.
-Please issue a summons to me.
-(Please use block letters)
-Surname/Family Name________________________________________________
-Given Names________________________________________________
-Address ________________________________________________
-______________________________Postcode __________
-Signature ________________________________________________
-Date _____/ _______/ _______
-[Form 1 inserted in Gazette 7 Dec 2012 p. 5973-4.]
+Form 1 — Infringement notice [r. 112(3)]
+Conservation and Land Management Act 1984 Conservation and Land Management Regulations 2002 Forest Management Regulations 1993 INFRINGEMENT NOTICE | Infringement notice no.
+Alleged offender (not required if notice served under s. 114B or 114D) | Family name
+Given names
+Company/ business trading as
+ACN/ABN (if applicable)
+Address
+ | rThe responsible person for vehicle or owner of vessel in relation to which offence occurred
+Vehicle/vessel registration no.
+Details of alleged offence | Date://20 | Time:am/pm
+Place Near Locality/tenure
+Act/regulation contravened: | Section/ regulation:
+Details of offence:
+Date | Date of notice: | Time of notice:
+Issuing officer | Surname: | Number:
+Signature:
+Modified penalty | $_____
+TAKE NOTICE | It is alleged that you have committed the above offence/that you are the responsible person for the vehicle/vessel in relation to which the above offence occurred. If you do not want to be prosecuted in court for the offence, the modified penalty must be paid to the CEO within 28 days after the date of this notice. If the modified penalty is not paid within 28 days, you may be prosecuted or enforcement action may be taken under the Fines, Penalties and Infringement Notices Enforcement Act 1994. Under that Act, some or all of the following action may be taken: your driver’s licence may be suspended; your vehicle licence may be suspended or cancelled; your details may be published on a website; your vehicle may be immobilised or have its number plates removed; and your property may be seized and sold. Paying the modified penalty will not be regarded as an admission for the purposes of any civil or criminal court case. If you want this matter to be dealt with by prosecution in court: Lodge a request online using the form provided at www.dpaw.wa.gov.au OR Sign and date here: __________________________________ / /20 and post this notice to the CEO at the address below.
+ | If you consider that you have good reason to have this notice withdrawn, you can write to the CEO at the address below requesting that this notice be withdrawn and setting out why you consider that this notice should be withdrawn. Your letter must be received not later than 28 days after the date of this notice.
+If infringement notice served on responsible person for a vehicle or owner of a vessel | As the responsible person/owner you will be presumed to have been the driver or person in charge of the vehicle/vessel unless within 28 days after the date of this notice: (a)the modified penalty is paid; or (b)you supply the CEO with the following information: the name and address of the driver or person in charge of the vehicle/vessel at the time of the alleged offence or information showing that at the time of the alleged offence the vehicle/vessel had been stolen or unlawfully taken or was being unlawfully used. For further information see the Conservation and Land Management Act 1984 sections 114A-114E (www.slp.wa.gov.au).
+How to pay Note: for payment in person you MUST ensure that you provide your INFRINGEMENT NOTICE NUMBER | By post | Tick the relevant box below and post payment to: Chief Executive Officer Department of Parks and Wildlife Locked Bag 104 Bentley DC Bentley WA 6983. rA cheque or money order (payable to ‘Chief Executive Officer, Department of Parks and Wildlife’) for the modified penalty is enclosed.
+In person | At any Commonwealth Bank
+[Form 1 inserted in Gazette 11 Dec 2015 p. 4954-6.]
 Form 2
 [r. 112(4)]
 Conservation and Land Management Regulations 2002
