@@ -18,7 +18,7 @@ Heritage of Western Australia Act 1990 s. 60(1)(b)
 Human Reproductive Technology Act 1991 s. 38(1)
 Industrial Relations Act 1979 s. 97XI(1)
 Land Administration Act 1997 s. 230(1)
-Mental Health Act 1996 s. 148A(1) or (2), 148E or 151
+Mental Health Act 2014 s. 494, 495 or 505
 Pawnbrokers and Second-hand Dealers Act 1994 s. 27(2)
 Planning and Development Act 2005 s. 211(2)
 Retirement Villages Act 1992 s. 9(3)(c)
@@ -26,5 +26,5 @@ State Administrative Tribunal Act 2004 s. 44(3)(b) or (4) or 83(2)(a)
 Strata Titles Act 1985 s. 82
 Taxation Administration Act 2003 s. 38(5)
 Valuation of Land Act 1978 s. 33(2) or 35(2)
-[Schedule 7 inserted in Gazette 26 Jun 2007 p. 2994-5; amended in Gazette 22 Jul 2011 p. 3018; 6 Aug 2013 p. 3655-6; 14 Nov 2013 p. 5069.]
+[Schedule 7 inserted in Gazette 26 Jun 2007 p. 2994-5; amended in Gazette 22 Jul 2011 p. 3018; 6 Aug 2013 p. 3655-6; 14 Nov 2013 p. 5069; 29 Dec 2015 p. 5180.]
 [Schedules 8-19 deleted in Gazette 26 Jun 2007 p. 2987.]

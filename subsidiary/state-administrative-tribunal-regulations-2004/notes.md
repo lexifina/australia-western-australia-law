@@ -28,6 +28,7 @@ State Administrative Tribunal Amendment Regulations (No. 4) 2014 | 27 Jun 2014 p
 Reprint 4: The State Administrative Tribunal Regulations 2004 as at 21 Nov 2014 (includes amendments listed above)
 State Administrative Tribunal Amendment Regulations 2015 | 10 Feb 2015 p. 623 | r. 1 and 2: 10 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 State Administrative Tribunal Amendment Regulations (No. 2) 2015 | 19 Jun 2015 p. 2128-30 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(i))
+State Administrative Tribunal Amendment Regulations (No. 4) 2015 | 29 Dec 2015 p. 5179-80 | r. 1 and 2: 29 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2015 (see r. 2(b))
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.
 Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 683.
