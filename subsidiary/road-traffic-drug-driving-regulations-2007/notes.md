@@ -8,3 +8,4 @@ Road Traffic (Drug Driving) Amendment Regulations 2009 | 9 Oct 2009 p. 3998-9 | 
 Road Traffic (Drug Driving) Amendment Regulations 2014 | 11 Jul 2014 p. 2439-43 | r. 1 and 2: 11 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Jul 2014 (see r. 2(b))
 Road Traffic (Drug Driving) Amendment Regulations 2015 | 6 Mar 2015 p. 817-19 | r. 1 and 2: 6 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2015 (see r. 2(b))
 Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 5 | 23 Dec 2014 p. 4913-38 | 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Road Traffic (Drug Driving) Amendment Regulations (No. 2) 2015 | 29 Dec 2015 p. 5182 | r. 1 and 2: 29 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2015 (see r. 2(b))
