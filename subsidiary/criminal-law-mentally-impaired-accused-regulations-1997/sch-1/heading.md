@@ -18,7 +18,7 @@ Place:
 Police officer (name)
 Station/division: | No.:
 Signature: | Date:
-[Form 1 amended in Gazette 31 Jul 2007 p. 3795.]
+[Form 1 amended: Gazette 31 Jul 2007 p. 3795.]
 Form 2 — Custody Order
 WESTERN AUSTRALIA Criminal Law (Mentally Impaired Accused) Act 1996, s. 16, 19, 21, 22 CUSTODY ORDER |  | o | Supreme Court
 o | District Court
@@ -34,7 +34,7 @@ Place of custody
 Issuing officer | Name: | Date:
 Judicial officer (s) / Clerk of Arraigns
 Signature:
-[Form 2 amended in Gazette 28 Jul 2000 p. 4008; 31 Jul 2007 p. 3795.]
+[Form 2 amended: Gazette 28 Jul 2000 p. 4008; 31 Jul 2007 p. 3795.]
 Form 3 — Hospital Order
 WESTERN AUSTRALIA Criminal Law (Mentally Impaired Accused) Act 1996, s. 5, 14 HOSPITAL ORDER |  | o | Supreme Court
 o | District Court
@@ -54,7 +54,7 @@ Signature:
 Results of assessment by psychiatrist | I have examined the accused and — o haveo have not made him or her an involuntary patient.
 Name of psychiatrist: | Date:
 Signature:
-[Form 3 amended in Gazette 28 Jul 2000 p. 4009; 31 Jul 2007 p. 3795-6.]
+[Form 3 amended: Gazette 28 Jul 2000 p. 4009; 31 Jul 2007 p. 3795-6.]
 Form 4 — Release Order
 WESTERN AUSTRALIA Criminal Law (Mentally Impaired Accused) Act 1996, s. 35 RELEASE ORDER
 Accused | Name: | Date of birth:
@@ -65,4 +65,4 @@ Release order | The accused is to be released — ounconditionally or oon the fo
 Governor | Name: | Date:
 Signature:
 NOTE TO THE ACCUSED | If this release order is subject to conditions and you breach those conditions, the release order may be cancelled. If this happens the custody order made against you by the court will come back into force.
-[Form 4 amended in Gazette 31 Jul 2007 p. 3796.]
+[Form 4 amended: Gazette 31 Jul 2007 p. 3796.]
