@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 December 2015 of the Poisons Regulations 1965 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Poisons Regulations 1965 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Poisons Act Regulations 1965 | 29 Jun 1965 p. 1883-914 | 1 Jul 1965
@@ -172,6 +172,7 @@ Poisons Amendment Regulations (No. 2) 2015 | 17 Apr 2015 p. 1376-7 | r. 1 and 2:
 Poisons Amendment Regulations (No. 4) 2015 | 5 May 2015 p. 1594-5 | r. 1 and 2: 5 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Poisons Amendment Regulations (No. 6) 2015 | 3 Nov 2015 p. 4543-4 | r. 1 and 2: 3 Nov 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Nov 2015 (see r. 2(b))
 Reprint 12: The Poisons Regulations 1965 as at 4 Dec 2015 (includes amendments listed above)
+Poisons Amendment Regulations (No. 5) 2015 | 29 Dec 2015 p. 5174 | r. 1 and 2: 29 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2015 (see r. 2(b))
 Formerly referred to the Health Services (Conciliation and Review) Act 1995, the short title of which was changed to the Health and Disability Services (Complaints) Act 1995 by the Health and Disability Services Legislation Amendment Act 2010 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. Under s. 19(1) of that Act, a reference in a written law to a repealed enactment includes a reference to the corresponding provision, if any, of the Planning and Development Act 2005.
 Repealed by the Navigation (Consequential Amendments) Act 2012 Sch. 1 (Cwlth). Now see the Navigation Act 2012 (Cwlth).
