@@ -46,32 +46,9 @@ Veterinary Surgeons Amendment Regulations 2013 | 5 Feb 2013 p. 828-9 | r. 1 and 
 Veterinary Surgeons Amendment Regulations (No. 2) 2013 | 3 Dec 2013 p. 5625-6 | r. 1 and 2: 3 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2013 (see r. 2(b))
 Veterinary Surgeons Amendment Regulations 2014 | 14 Mar 2014 p. 629 | r. 1 and 2: 14 Mar 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Mar 2014 (see r. 2(b))
 Reprint 5: The Veterinary Surgeons Regulations 1979 as at 6 Jun 2014 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Veterinary Surgeons Amendment Regulations 2015 r. 3 and 4 | 2 Jun 2015 p. 1938-9 | 1 Jan 2016 (see r. 2(b))
+Veterinary Surgeons Amendment Regulations 2015 | 2 Jun 2015 p. 1938-9 | r. 1 and 2: 2 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2016 (see r. 2(b))
 The headings before r. 1-4, 7-9, 13, 15, 18, 19-23, 28, 34, 44, 55, 60, 61, 63, 64, 67, 69, 74 and 80 were deleted by the Veterinary Surgeons Amendment Regulations (No. 3) 2003, see Gazette 16 Dec 2003 p. 5089-90.
 Now known as the Veterinary Surgeons Regulations 1979; citation changed (see note under r. 1).
-On the date as at which this compilation was prepared, the Veterinary Surgeons Amendment Regulations 2015 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Veterinary Surgeons Regulations 1979.
-4.Regulation 80 amended
-In the Table to regulation 80 amend the items listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-it. 1 | 110 | 125
-it. 1A | 110 | 125
-it. 2 | 110 | 125
-it. 4 | 165 | 185
-it. 5 | 25 | 30
-it. 8 | 365 | 410
-it. 9 | 180 | 200
-it. 10 | 365 | 410
-it. 11 | 45 | 50
-it. 12 | 75 | 80
-it. 18 | 65 | 105
-it. 19 | 45 | 65
-it. 19A | 20 | 25
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
