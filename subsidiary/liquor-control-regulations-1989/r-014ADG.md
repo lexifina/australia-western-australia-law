@@ -7,5 +7,5 @@ transitioned approval has the meaning given in Schedule 1B clause 3(1) of the Ac
 (a) a period of 5 years after the commencement day; or
 (b) any longer period determined by the Director and specified in a notice in writing given to the holder of the transitioned approval,
 unless before then it is revoked under section 102F.
-(4) Despite section 102D(2) and regulation 14ADC(2), the first renewal of a transitioned approval after the commencement day may be for a duration of 1, 3 or 5 years, as chosen by the applicant for renewal.
-[Regulation 14ADG inserted in Gazette 3 Jun 2011 p. 1997-8.]
+[(4)deleted]
+[Regulation 14ADG inserted in Gazette 3 Jun 2011 p. 1997-8; amended in Gazette 6 Nov 2015 p. 4584.]

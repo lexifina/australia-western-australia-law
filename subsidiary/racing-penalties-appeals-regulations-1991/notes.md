@@ -21,22 +21,6 @@ Racing Penalties (Appeals) Amendment Regulations 2012 | 16 Nov 2012 p. 5656-7 | 
 Racing Penalties (Appeals) Amendment Regulations 2013 | 8 Nov 2013 p. 4981-2 | r. 1 and 2: 8 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see. r. 2(b))
 Reprint 3: The Racing Penalties (Appeals) Regulations 1991 as at 2 May 2014 (includes amendments listed above)
 Racing Penalties (Appeals) Amendment Regulations 2014 | 14 Nov 2014 p. 4288 | r. 1 and 2: 14 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2015 (see. r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2015 Pt. 8 | 6 Nov 2015 p. 4581-8 | 1 Jan 2016 (see r. 2(b))
+Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2015 Pt. 8 | 6 Nov 2015 p. 4581-8 | 1 Jan 2016 (see. r. 2(b))
 Under the Legal Profession Act 2008 s. 630(1), a reference to the Legal Practitioners Act 1893 may, if the context permits, be taken to be a reference to the Legal Profession Act 2008.
 Under the Legal Profession Act 2008 s. 630(2), a reference in an Act to a legal practitioner may, if the context permits, be read as a reference to an Australian lawyer.
-On the date as at which this compilation was prepared, the Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2015 Pt. 8 had not come into operation. It reads as follows:
-Part 8 — Racing Penalties (Appeals) Regulations 1991 amended
-17.Regulations amended
-This Part amends the Racing Penalties (Appeals) Regulations 1991.
-18.Regulation 4 amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 4(1)(a) | $148 | $151
-r. 4(1)(b) | $364 | $373
-r. 4(2)(a)(i) | $148 | $151
-r. 4(2)(a)(ii) | $364 | $373
-r. 4(2) | $73 | $74
