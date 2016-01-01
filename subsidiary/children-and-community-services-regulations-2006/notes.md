@@ -18,28 +18,9 @@ Children and Community Services Amendment Regulations (No. 2) 2012 | 21 Sep 2012
 Children and Community Services Amendment Regulations 2014 | 27 Jun 2014 p. 2310-11 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Children and Community Services Amendment Regulations 2015 | 10 Apr 2015 p. 1251 | r. 1 and 2: 10 Apr 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(ii) and Gazette 10 Apr 2015 p. 1249)
 Children and Community Services Amendment Regulations (No. 2) 2015 | 26 Jun 2015 p. 2238-9 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Children and Community Services Amendment Regulations (No. 3) 2015 r. 3 and 4 | 15 Dec 2015 p. 5028-9 | 1 Jan 2016 (see r. 2(b) and Gazette 15 Dec 2015 p. 5027)
+Children and Community Services Amendment Regulations (No. 3) 2015 | 15 Dec 2015 p. 5028-9 | r. 1 and 2: 15 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2016 (see r. 2(b) and Gazette 15 Dec 2015 p. 5027)
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Children and Community Services Act 2004 s. 250.
-On the date as at which this compilation was prepared, the Children and Community Services Amendment Regulations (No. 3) 2015 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Children and Community Services Regulations 2006.
-4.Regulation 20A amended
-In regulation 20A:
-(a) delete “agencies are prescribed for the purposes of the definition of prescribed authority in section 24A(1) —” and insert:
-public authorities are prescribed for the purposes of the definition of prescribed authority in section 28A —
-(b) in paragraph (p) delete “section 35.” and insert:
-section 35;
-(c) after paragraph (p) insert:
-(q) a judge of the Family Court of Western Australia;
-(r) the Principal Registrar, a deputy registrar or a registrar of the Family Court of Western Australia;
-(s) a family law magistrate as defined in the Family Court Act 1997 section 5(1);
-(t) a family consultant as defined in the Family Court Act 1997 section 61.
-Note:The heading to amended regulation 20A is to read:
-Prescribed authorities (Act s. 28A)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
