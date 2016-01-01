@@ -35,6 +35,7 @@ Residential Tenancies Amendment Regulations (No. 2) 2013 | 20 Aug 2013 p. 3840 |
 Electricity Corporations (Consequential Amendments) Regulations 2013 r. 14 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Residential Tenancies Amendment Regulations (No. 2) 2014 | 20 Jan 2015 p. 371 | r. 1 and 2: 20 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Mar 2015 (see r. 2(b))
 Residential Tenancies Amendment Regulations 2015 | 21 Aug 2015 p. 3311-16 | r. 1 and 2: 21 Aug 2015 (see r. 2(a)); r. 3-5: 22 Aug 2015 (see r. 2(b)); r. 6: 28 Aug 2015 (see r. 2(c)); r. 7 and 9: 20 Sep 2015 (see r. 2(d)); r. 8: 20 Oct 2015 (see r. 2(e))
+Residential Tenancies Amendment Regulations (No. 2) 2015 | 29 Dec 2015 p. 5171 | r. 1 and 2: 29 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2016 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
