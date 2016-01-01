@@ -52,23 +52,8 @@ Radiation Safety (General) Amendment Regulations 2010 | 17 Aug 2010 p. 4045-8 | 
 Radiation Safety (General) Amendment Regulations 2011 | 1 Apr 2011 p. 1183-4 | r. 1 and 2: 1 Apr 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2011 (see r. 2(b))
 Radiation Safety (General) Amendment Regulations 2014 | 30 Dec 2014 p. 5501-3 | r. 1 and 2: 30 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2014 (see r. 2(b))
 Radiation Safety (General) Amendment Regulations 2015 | 19 May 2015 p. 1754-7 | r. 1 and 2: 19 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Radiation Safety (General) Amendment Regulations (No. 2) 2015 r. 3-7 | 9 Oct 2015 p. 3982 | 1 Jan 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, the Radiation Safety (General) Amendment Regulations (No. 2) 2015 r. 3-7 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Radiation Safety (General) Regulations 1983.
-4.Regulation 3 amended
-In regulation 3(1) delete the definition of solarium.
-5.Regulation 7 amended
-(1) In regulation 7(1) delete “subregulations (2) and (3),” and insert:
-subregulation (2),
-(2) Delete regulation 7(3).
-6.Part V Division 3 deleted
-Delete Part V Division 3.
-7.Part VII deleted
-Delete Part VII.
+Radiation Safety (General) Amendment Regulations (No. 2) 2015 | 9 Oct 2015 p. 3982 | r. 1 and 2: 9 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2016 (see r. 2(b))
+Footnote no longer applicable.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 4-6Footnote no longer applicable.
 Repealed by the National Health and Medical Research Council Act 1992 (Commonwealth).
