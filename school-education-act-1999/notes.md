@@ -22,11 +22,11 @@ Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 7 | 11 of 2012
 School Education Amendment Act 2012 Pt. 2 | 46 of 2012 | 29 Nov 2012 | s. 3 and 5: 29 Nov 2012 (see s. 2(a)); Pt. 2 other than s. 3 and 5: 1 Jan 2013 (see s. 2(b))
 Reprint 3: The School Education Act 1999 as at 15 Mar 2013 (includes amendments listed above)
 School Education Amendment Act 2014 Pt. 2 (s. 3-35) | 28 of 2014 | 27 Nov 2014 | s. 29: 27 Nov 2014 (see s. 2(b)(i)); Pt. 2 Div. 1 and 3 (other than s. 29): 17 Dec 2014 (see s. 2(c) and Gazette 16 Dec 2014 p. 4759); Pt. 2 Div. 2: 2 Feb 2015 (see s. 2(c) and Gazette 16 Jan 2015 p. 311)
+Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 2 | 23 of 2015 | 17 Sep 2015 | 1 Jan 2016 (see s. 2(b) and Gazette 15 Dec 2015 p. 5027)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 s. 182(3) and 208 | 36 of 1999 | 2 Nov 1999 | To be proclaimed (see s. 2)
-Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 2 | 23 of 2015 | 17 Sep 2015 | 1 Jan 2016 (see s. 2(b) and Gazette 15 Dec 2015 p. 5027)
 Associations Incorporation Act 2015 s. 228 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Children and Community Services Act 2004.
@@ -43,18 +43,7 @@ The Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 s
 (2) When the meaning of “compulsory education period” changes by operation of section 6(b) of the School Education Act 1999 (inserted by subsection (1)), the change extends to the compulsory education period for a child which, but for the change, would have ended on 31 December 2005.
 The Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 s. 21 is a transitional provision of no further effect.
 The Financial Legislation Amendment and Repeal Act 2006 (now known as the Financial Management (Transitional Provisions) Act 2006) Sch. 2 deals with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 2 had not come into operation. It reads as follows:
-Part 2 — Amendments and repeals relating to responsible parenting agreements
-Division 3 — Other Acts amended
-Subdivision 2 — School Education Act 1999 amended
-18.Act amended
-This Subdivision amends the School Education Act 1999.
-19.Section 26 amended
-In section 26(3) delete “Parental Support and Responsibility Act 2008” and insert:
-Children and Community Services Act 2004
-20.Section 40 amended
-In section 40(3A) delete “Parental Support and Responsibility Act 2008” and insert:
-Children and Community Services Act 2004
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 228 had not come into operation. It reads as follows:
 228.School Education Act 1999 amended
 (1) This section amends the School Education Act 1999.
