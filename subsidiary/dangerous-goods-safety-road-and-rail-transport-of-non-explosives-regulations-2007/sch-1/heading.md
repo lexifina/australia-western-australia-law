@@ -16,7 +16,10 @@ Item | Provision | Modified penalty for an individual ($) | Modified penalty for
 20. | Regulation 101 | 300 | 1 500
 21. | Regulation 107 | (a)for a large packaging or overpack — 300 | (a)for a large packaging or overpack — 1 500
  |  | (b)in any other case — 100 | (b)in any other case — 500
-22. | Regulation 112 | 600 | 3 000
+22. | Regulation 112(1) | 600 | 3 000
+23A. | Regulation 112(2) | 600 | 3 000
+23B. | Regulation 112(3) | 600 | 3 000
+23C. | Regulation 112(5) | 600 | 3 000
 23. | Regulation 116 | 600 | 3 000
 24. | Regulation 119 | 600 | 3 000
 25. | Regulation 123 | 300 | —
@@ -73,4 +76,4 @@ Item | Provision | Modified penalty for an individual ($) | Modified penalty for
 74. | Regulation 257(1) | 600 | 3 000
 75. | Regulation 258(1) | 600 | 3 000
 76. | Regulation 259(2) | 200 | 1 000
-[Schedule 1 amended in Gazette 22 Jun 2010 p. 2740; 13 Jun 2014 p. 1949-50.]
+[Schedule 1 amended in Gazette 22 Jun 2010 p. 2740; 13 Jun 2014 p. 1949-50; 17 Nov 2015 p. 4701.]
