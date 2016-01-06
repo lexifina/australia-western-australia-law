@@ -24,6 +24,7 @@ Misuse of Drugs Amendment Regulations 2012 | 28 Aug 2012 p. 4141-2 | r. 1 and 2:
 Misuse of Drugs Amendment Regulations 2013 | 25 Jan 2013 p. 281-2 | r. 1 and 2: 25 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2013 (see r. 2(b))
 Misuse of Drugs Amendment Regulations 2014 | 21 Mar 2014 p. 737-41 | r. 1 and 2: 21 Mar 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Mar 2014 (see r. 2(b))
 Misuse of Drugs Amendment Regulations (No. 2) 2014 | 5 Aug 2014 p. 2831-2 | r. 1 and 2: 5 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Aug 2014 (see r. 2(b))
+Misuse of Drugs Amendment Regulations 2015 | 5 Jan 2016 p. 4-7 | r. 1 and 2: 5 Jan 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jan 2016 (see r. 2(b))
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Conservation and Land Management is called the Department of Environment and Conservation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

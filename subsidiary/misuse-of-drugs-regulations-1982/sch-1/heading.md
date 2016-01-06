@@ -93,7 +93,68 @@ Analysis*/examination* applied for on ............................. at .........
 Signature of applicant
 * Please delete inapplicable alternative.
 [Form M.D. 8B inserted in Gazette 2 Jul 1996 p. 3200; amended in Gazette 12 Nov 2010 p. 5663; 6 May 2011 p. 1621.]
-[Forms M.D. 9 and M.D. 10 deleted in Gazette 6 May 2011 p. 1621.]
+Form M.D. 9
+WESTERN AUSTRALIA
+MISUSE OF DRUGS ACT 1981
+MISUSE OF DRUGS REGULATIONS 1982
+PSYCHOACTIVE SUBSTANCE DESTRUCTION NOTICE
+Property reference No. ........................
+Police reference No. ...........................
+I ................................................................................................................................
+[Name and rank of police officer]
+having custody of a thing seized from you for being suspected to be a psychoactive substance, comprising —
+...................................................................................................................................
+[describe the thing]
+....................................................................................................................................
+and —
+(a)being satisfied that no person will be tried with the commission of an offence in relation to the thing*; or
+(b)having confirmed that a person was tried with the commission of an offence in relation to the thing and the person was not convicted of that offence*,
+advise you
+....................................................................................................................................
+[Name and address of person from whom the thing was seized]
+that the suspected psychoactive substance will be destroyed on or after the ...... day of ................ 20.......** unless, before that day, an application is made under section 8U(1) of the Act to have a sample of that suspected psychoactive substance analysed. An application is to be accompanied by the analysis fee of $.......................... .
+This Notice is given on the ........... day of ................ 20.......
+Signature/rank/rego ………………………………………….
+* Delete inapplicable alternative.
+** Must be at least 3 weeks after this notice is given.
+Personal Service
+On the ………… day of ………… 20 ...... at ………………………………...........
+I personally served the person named in the notice with this destruction notice —
+by delivering a duplicate to him/her personally.
+by leaving a duplicate of it for him/her with .................................................
+……………………………………………………….. at his/her last known place of abode/principal office or place of business.
+Signature/rank/rego ……………………………....
+Date ………………….................................…......
+Postal Service
+On the………… day of…………………… 20….. I posted a copy of this destruction notice to the person named in the notice —
+to his/her last known place of abode;
+to his/her last known place of business/employment, by pre-paid post/certified post/courier.
+in case of a Corporation or Association, to the principal place of business/principal office in this state.
+Postal/Courier reference number ………………………………………
+Courier company (if applicable) ……………………………………....
+Signature/rank/rego …………………………….....
+Date ………………….................................…......
+[Form M.D. 9 inserted in Gazette 5 Jan 2016 p. 5-6.]
+Form M.D. 10
+WESTERN AUSTRALIA
+MISUSE OF DRUGS ACT 1981
+MISUSE OF DRUGS REGULATIONS 1982
+APPLICATION TO HAVE SAMPLE OF SUSPECTED PSYCHOACTIVE SUBSTANCE ANALYSED OR EXAMINED BY APPROVED ANALYST
+To: The Commissioner of Police
+I .................................................................................................................................
+[Name and Address of Applicant]
+....................................................................................................................................
+having been given a psychoactive substance destruction notice (Property Reference No. ............... , Police Reference No. ............)* in relation to —
+....................................................................................................................................
+[describe the thing]
+....................................................................................................................................
+apply to have a sample of that thing suspected to be a psychoactive substance analysed by an approved analyst.
+This application is accompanied by the fee of $ ..........., as set out on the relevant destruction notice and calculated in accordance with the Misuse of Drugs Regulations 1982 regulation 13.
+Analysis applied for on ............................. at ...............................**
+.................................................. Signature of applicant
+* Reference numbers from the Notice.
+** Must be before the destruction date in the Notice.
+[Form M.D. 10 inserted in Gazette 5 Jan 2016 p. 6-7.]
 [Forms M.D. 11 and M.D. 12 deleted in Gazette 25 Jan 2013 p. 282.]
 Form M.D. 13
 WESTERN AUSTRALIA
