@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fines, Penalties and Infringement Notices Enforcement Regulations 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 8 January 2016 of the Fines, Penalties and Infringement Notices Enforcement Regulations 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fines, Penalties and Infringement Notices Enforcement Regulations 1994 | 30 Dec 1994 p. 7232-41 | 1 Jan 1995 (see r. 2 and Gazette 30 Dec 1992 p. 7211)
@@ -56,15 +56,16 @@ Reprint 6: The Fines, Penalties and Infringement Notices Enforcement Regulations
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 3) 2014 | 20 Jun 2014 p. 2026 | r. 1 and 2: 20 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Jun 2014 (see r. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 4) 2014 | 4 Jul 2014 p. 2363-4 | r. 1 and 2: 4 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Jul 2014 (see r. 2(b)(ii))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 6) 2014 | 13 Jan 2015 p. 249-50 | r. 1 and 2: 13 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Jan 2015 (see r. 2(b))
-Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2015 | 3 Mar 2015 p. 784 | r. 1 and 2: 3 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Mar 2015 (see r. 2(b) and Gazette 3 Mar 2015 p. 783)
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 2) 2015 | 10 Feb 2015 p. 609-11 | r. 1 and 2: 10 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
+Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 2015 | 3 Mar 2015 p. 784 | r. 1 and 2: 3 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Mar 2015 (see r. 2(b) and Gazette 3 Mar 2015 p. 783)
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 3) 2015 | 12 Jun 2015 p. 2027 | r. 1 and 2: 12 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jun 2015 (see r. 2(b))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 4) 2015 | 19 Jun 2015 p. 2123-4 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(i))
-Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 5) 2015 | 13 Nov 2015 p. 4656-8 | r. 1 and 2: 13 Nov 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2015 (see r. 2 and Gazette 13 Nov 2015 p. 4631)
+Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 5) 2015 | 13 Nov 2015 p. 4656-8 | 14 Nov 2015 (see r. 2 and Gazette 13 Nov 2015 p. 4631)
+Reprint 7: The Fines, Penalties and Infringement Notices Enforcement Regulations 1994 as at 8 Jan 2016 (includes amendments listed above)
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now called the General Account.
 Formerly referred to the Censorship Act 1996 the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-The Companies (Co-operative) Act 1943 was repealed by the Co-operatives Act 2009.
+The Companies (Co-operative) Act 1943 was repealed by the Co-operatives Act 2009 s. 490.
 The Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 1997 were published on 1 Aug 1997 p. 4394 and again on 4 Nov 1997 p. 6079-80. The publication of 4 Nov 1997 has no effect.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
