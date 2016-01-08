@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Superannuation Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 8 January 2016 of the State Superannuation Regulations 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 State Superannuation Regulations 2001 | 16 Feb 2001 p. 921-1074 | 17 Feb 2001 (see r. 2 and Gazette 16 Feb 2001 p. 903)
@@ -54,19 +54,11 @@ State Superannuation Amendment Regulations 2014 | 10 Jun 2014 p. 1805-7 | r. 1 a
 State Superannuation Amendment Regulations (No. 3) 2014 | 6 Jan 2015 p. 25-32 | r. 1 and 2: 6 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Jan 2015 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 2) 2015 | 19 Jun 2015 p. 2141 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Jun 2015 (see r. 2(b))
 State Superannuation Amendment Regulations 2015 | 26 Jun 2015 p. 2273 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(ii) and Gazette 26 Jun 2015 p. 2235)
-The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. Part 9 of these regulations were amending regulations under that subsection. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed in the Acts database of the Statutes of Western Australia.
-Footnote no longer applicable.
-Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
-Repealed by the Building Services (Registration) Act 2011.
-Formerly referred to the Curriculum Council Act 1997, the short title of which was changed by the Curriculum Council Amendment Act 2011 s. 5 to the School Curriculum and Standards Authority Act 1997. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Footnote no longer applicable.
-Repealed by the Nurses and Midwives Act 2006, which was repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
-Formerly referred to the Health Services (Conciliation and Review) Act 1995, the short title of which was changed by the Health and Disability Services Legislation Amendment Act 2010 s. 5 to the Health and Disability Services (Complaints) Act 1995. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Footnote no longer applicable.
-The Waterways Conservation Act 1976 s. 14 has been deleted by the Water Resources Legislation Amendment Act 2007 s. 150.
+Reprint 6: The State Superannuation Regulations 2001 as at 8 Jan 2016 (includes amendments listed above)
+The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26, and those provisions may be amended by regulations under s. 26(3). Part 9 of these regulations sets out amendments to those provisions. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed at the following website: www.slp.wa.gov.au.
 Formerly referred to the Workers’ Compensation and Rehabilitation Commission constituted under the Workers’ Compensation and Rehabilitation Act 1981. The name of the Commission was changed to WorkCover Western Australia Authority and the short title of the Act was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5 and 81. The references were changed under the Reprints Act 1984 s. 7(3)(gb) and (h).
-Repealed by the State Superannuation Act 2000.
-Repealed by the Courts Legislation Amendment and Repeal Act 2004.
+Repealed by the State Superannuation Act 2000 s. 39.
+Repealed by the Courts Legislation Amendment and Repeal Act 2004 s. 14.
 The Superannuation Legislation Amendment and Validation Act 2006 s. 19 reads as follows:
 19.Validation of statutory membership of workers who ceased to be excluded
 (1) A person who —
@@ -114,15 +106,15 @@ compassionate ground47A(8), 79A(7), 123(7)
 compulsory transfereeSch. 2 cl. 1(1)
 condition of release3(1)
 contact details220
-continued contributions option35(2)
+continued contributions option35(2)(a)
 continuesSch. 3 cl. 1(1)
 continuing Gold State Super MemberSch. 3 cl. 1(1)
 continuing MemberSch. 3 cl. 1(1)
 continuing West State Super MemberSch. 3 cl. 1(1)
 contribution day12
 contribution period3(1)
-contributions tax3(1)
 contributions-split transfer3(1)
+contributions tax3(1)
 contributor64A(1), 94(3), 95(1)
 contributory membership period12, 14(1), Sch. 3 cl. 5
 covered GESB Super Member111A
@@ -131,7 +123,7 @@ CPI rate3(1)
 currentSch. 3 cl. 1(1)
 death benefit48(4), 80(4), 121(4)
 default plan69A, 105, 183, 196J, 211
-deferred contributions option35(2)
+deferred contributions option35(2)(b)
 dependant80(4), 121(4), 219(4)
 disablement benefit49(5), 81(5)
 discounted benefit47A(8)
@@ -153,7 +145,7 @@ Employer3(1)
 employer contribution12
 employing authority9(5)
 end dateSch. 2 cl. 17
-estimated tax amount49A(2), 81A(2)
+estimated tax amount49A(2)(a), 81A(2)(a)
 existing member17A(5)
 ex-spouse219A(1)
 Family Law Act3(1)
@@ -163,10 +155,10 @@ former member3(1)
 former MemberSch. 3 cl. 55(2)
 former temporary resident3(1)
 gainfully employed50(1), 83(1)
-GESB Super (Retirement Access) Member3(1)
-GESB Super (Retirement Access) Scheme3(1)
 GESB Super account83(1)
 GESB Super Member3(1)
+GESB Super (Retirement Access) Member3(1)
+GESB Super (Retirement Access) Scheme3(1)
 GESB Super Scheme3(1)
 GESB withdrawal benefit83(1)
 Gold State Super Member3(1)
@@ -187,7 +179,7 @@ non-contributory periodSch. 2 cl. 7
 notional funded amount44D(4)
 notional unfunded amount44D(4)
 notional unreduced amount44D(4)
-old lawSch. 2 cl. 14(1)
+old lawSch. 2 cl. 14(1)(a)
 operative time219A(2)
 opt-in notice69G, 111A
 ordinary time earnings12A
@@ -226,7 +218,7 @@ quarter3(1)
 readymade investment plan69A, 105, 183, 196J, 211
 reckonable earnings69G
 recognised unpaid leave12
-reduced benefit option35(2)
+reduced benefit option35(2)(c)
 Registrar225
 regulated superannuation fund3(1)
 relevant MemberSch. 3 cl. 29(3)
@@ -249,7 +241,7 @@ salary sacrifice agreement3(1)
 scheme entitlement amount44D(4)
 section 4B contribution12A
 section 4C contribution12A
-selection day12, 69E(2), 109(2), 215(2)
+selection day12, 69E(2)(a), 109(2)(a), 215(2)(a)
 severe financial hardship47A(8), 79A(7), 123(7)
 SGA Act3(1)
 significant event224A(2)
