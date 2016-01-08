@@ -9,7 +9,6 @@
 5.Agricultural Produce Commission established by the Agricultural Produce Commission Act 1988
 [6, 7.deleted]
 8.Colleges established or continued under the Vocational Education and Training Act 1996
-[8a.deleted]
 9.Commissioner for Children and Young People established under the Commissioner for Children and Young People Act 2006
 10.Commissioner for Equal Opportunity appointed under the Equal Opportunity Act 1984
 11.Commissioner of Police appointed under the Police Act 1892
@@ -54,7 +53,6 @@
 [12-17.deleted]
 17A.Electricity Generation and Retail Corporation established by the Electricity Corporations Act 2005
 17B.Electricity Networks Corporation established by the Electricity Corporations Act 2005
-[17C.deleted]
 18.Family Court of Western Australia continued by the Family Court Act 1997
 19.Fire and Emergency Services Commissioner within the meaning of the Fire and Emergency Services Act 1998
 20.Forest Products Commission established by the Forest Products Act 2000
