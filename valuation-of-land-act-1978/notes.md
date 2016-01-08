@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Valuation of Land Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 8 January 2016 of the Valuation of Land Act 1978 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Valuation of Land Act 1978 | 74 of 1978 | 20 Oct 1978 | 1 Jul 1979 (see s. 2 and Gazette 11 May 1979 p. 1211)
@@ -15,7 +15,7 @@ Valuation of Land Amendment Act (No. 2) 1986 | 73 of 1986 | 4 Dec 1986 | 1 Jan 1
 Valuation of Land Amendment Act 1987 | 20 of 1987 | 25 Jun 1987 | 1 Jul 1987 (see s. 2)
 Local Government Amendment Act 1988 s. 17 | 10 of 1988 | 6 Jul 1988 | 6 Jul 1988 (see s. 2(1))
 Land Tax Relief Act 1991 s. 5 | 56 of 1991 | 12 Dec 1991 | 12 Dec 1991 (see s. 2)
-Valuation of Land Amendment Act 1992 | 8 of 1992 | 16 Jun 1992 | s. 1 and 2: 16 Jun 1992; Act other than s. 1 and 2: 30 Jun 1992 (see s. 2)
+Valuation of Land Amendment Act 1992 | 8 of 1992 | 16 Jun 1992 | 30 Jun 1992 (see s. 2)
 Acts Amendment (Annual Valuations and Land Tax) Act 1993 Pt. 2 | 17 of 1993 | 29 Nov 1993 | 29 Nov 1993 (see s. 2)
 Valuation of Land Amendment Act 1993 | 28 of 1993 | 15 Dec 1993 | 30 Jun 1995 (see s. 2 and Gazette 27 Jun 1995 p. 2523)
 City of Perth Restructuring Act 1993 s. 34 | 38 of 1993 | 20 Dec 1993 | 1 Jul 1994 (see s. 3 and 34(2))
@@ -32,7 +32,7 @@ Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 71 and 76 | 10 of 19
 Revenue Laws Amendment (Assessment) Act 1998 s. 11(2) | 22 of 1998 | 30 Jun 1998 | 1 Jul 1998 (see s. 2)
 Statutes (Repeals and Minor Amendments) Act 2000 s. 44 | 24 of 2000 | 4 Jul 2000 | 4 Jul 2000 (see s. 2)
 Reprint of the Valuation of Land Act 1978 as at 15 Jun 2001 (includes amendments listed above)
-Taxation Administration (Consequential Provisions) Act 2002 s. 26 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
+Taxation Administration (Consequential Provisions) Act 2002 s. 26 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2(1) and Gazette 27 Jun 2003 p. 2383)
 Acts Amendment and Repeal (Competition Policy) Act 2003 Pt. 14 | 70 of 2003 | 15 Dec 2003 | 21 Apr 2004 (see s. 2 and Gazette 20 Apr 2004 p. 1297)
 Statutes (Repeals and Minor Amendments) Act 2003 s. 123 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 129 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
@@ -50,23 +50,16 @@ Reprint 6: The Valuation of Land Act 1978 as at 14 Oct 2011 (includes amendments
 Land Legislation Amendment Act 2015 Pt. 6 | 11 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
 Land Legislation Amendment (Taxing) Act 2015 Pt. 5 | 12 of 2015 | 29 Apr 2015 | 30 Jun 2015 (see s. 2(b) and Gazette 2 Jun 2015 p. 1937)
 Valuation of Land Amendment Act 2015 | 14 of 2015 | 15 May 2015 | s. 1 and 2: 15 May 2015 (see s. 2(a)); Act other than s. 1 and 2: 30 Jun 2015 (see s. 2(b)(i))
+Reprint 7: The Valuation of Land Act 1978 as at 8 Jan 2016 (includes amendments listed above)
 Under the Land Administration Act 1997 s. 281(3), a reference to the Land Act 1933 in a written law is, unless the contrary intention appears, to be read and construed as being a reference to the Land Administration Act 1997.
 The name of the Local Government Act 1960 was changed to the Local Government (Miscellaneous Provisions) Act 1960 by the Local Government Act 1995 Sch. 9.2 cl. 2.
 Repealed by the Interpretation Act 1984 s. 77(1).
 The Land Tax Relief Act 1991 s. 5(2) relates to certain general valuations notified in 1991.
-The Acts Amendment (Annual Valuations and Land Tax) Act 1993 s. 3 and 7 contain savings and transitional provisions.
+The Acts Amendment (Annual Valuations and Land Tax) Act 1993 s. 3 and 7 are savings and transitional provisions.
 The Taxation Administration (Consequential Provisions) Act 2002 s. 3 and 4 and Pt. 4 are transitional provisions that are of no further effect.
-The Acts Amendment and Repeal (Competition Policy) Act 2003 s. 51(2) reads as follows:
-(2) A person appointed Valuer-General under section 6(3) of the Valuation of Land Act 1978 and holding office immediately before the commencement of this section continues to hold office on and after that commencement as if appointed under section 6(3) of that Act as inserted by subsection (1) of this section.
+The Acts Amendment and Repeal (Competition Policy) Act 2003 s. 51(2) is a transitional provision that is of no further effect.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-The State Administrative Tribunal Regulations 2004 r. 65 reads as follows:
-65.Valuation of Land Act 1978
-(1) In this regulation —
-commencement day means the day on which the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Part 2 Division 129 comes into operation;
-the VL Act means the Valuation of Land Act 1978.
-(2) If advice has been given under the VL Act section 32(9) before the commencement day, on or after the commencement day the advice is to be taken to refer to the time within which and the manner in which a review of the valuation may be sought.
-(3) If the Valuer-General receives, before the commencement day, a notice in accordance with the VL Act section 33(1) (as in force when the notice was received by the Valuer-General) but does not before the commencement day refer the objection referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Valuer-General must refer the valuation to the State Administrative Tribunal for a review as if the notice were a notice served on the Valuer-General under the VL Act section 33(1).
-(4) If the Valuer-General receives, before the commencement day, a notice in accordance with the VL Act section 35(1) (as in force when the notice was received by the Valuer-General) but does not before the commencement day refer a decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the Valuer-General must refer the decision to the State Administrative Tribunal for a review as if the notice were a notice served on the Valuer-General under the VL Act section 35(1).
+The State Administrative Tribunal Regulations 2004 r. 65 is a transitional provision that is likely to be of no further effect.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -84,7 +77,7 @@ improvements4(1)
 information16A(4)
 interim valuation4(1)
 land4(1)
-latter valuation5(1)
+latter valuation5(1)(b)
 merged improvements4(1)
 metropolitan region4(1)
 pastoral lease5A(1)
