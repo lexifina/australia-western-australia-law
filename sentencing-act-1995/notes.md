@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Sentencing Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 8 January 2016 of the Sentencing Act 1995 and includes the amendments made by the other written laws referred to in the following table The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Sentencing Act 1995 | 76 of 1995 | 16 Jan 1996 | s. 1 and 2: 16 Jan 1996; Act other than s. 1, 2 and 19, and Pt. 12: 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
@@ -67,7 +67,7 @@ Water Services Legislation Amendment and Repeal Act 2012 s. 228 | 25 of 2012 | 3
 Sentencing Amendment Act 2012 | 42 of 2012 | 22 Nov 2012 | 20 Dec 2012
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 Div. 8 | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Criminal Organisations Control Act 2012 s. 181 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
-Reprint 8: The Sentencing Act 1995 as at 8 Mar 2013 (includes amendments listed above, except those in the Road Traffic Legislation Amendment Act 2012, Water Services Legislation Amendment and Repeal Act 2012, Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 and the Criminal Organisations Control Act 2012)
+Reprint 8: The Sentencing Act 1995 as at 8 Mar 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012, Water Services Legislation Amendment and Repeal Act 2012, Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 and the Criminal Organisations Control Act 2012)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 18 (other than s. 124 and 127) | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Sentencing Legislation Amendment Act 2014 Pt. 2 | 6 of 2014 | 22 Apr 2014 | 23 Apr 2014 (see s. 2(b))
 Criminal Code Amendment (Unlawful Possession) Act 2014 Pt. 3 Div. 1 (other than s. 8(2)) | 11 of 2014 | 24 Jun 2014 | 13 Aug 2014 (see s. 2(b) and Gazette 12 Aug 2014 p. 2889)
@@ -75,19 +75,19 @@ Statutes (Repeals and Minor Amendments) Act 2014 s. 37 | 17 of 2014 | 2 Jul 2014
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
 Criminal Law Amendment (Home Burglary and Other Offences) Act 2015 Pt. 3 | 25 of 2015 | 24 Sep 2015 | 31 Oct 2015 (see s. 2(b) and Gazette 30 Oct 2015 p. 4493)
 Sentencing Amendment Act 2015 | 32 of 2015 | 2 Nov 2015 | s. 1 and 2: 2 Nov 2015 (see s. 2(a)); Act other than s. 1 and 2: 3 Nov 2015 (see s. 2(b))
+Reprint 9: The Sentencing Act 1995 as at 8 Jan 2016 (includes amendments listed above)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) | 11 of 2014 | 24 Jun 2014 | To be proclaimed (see s. 2(b))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
-Footnote no longer applicable.
-The Colleges Act 1978 was repealed by the Vocational Education and Training Act 1996.
+The Land Drainage Act 1925 and the Water Boards Act 1904 were repealed by the Water Services Legislation Amendment and Repeal Act 2012.
 The amendments in the Sentencing Amendment Act 2000 Pt. 2 Div. 1 had not come into operation when it was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 32.
 The Sentencing Act 1995 s. 19 and Pt. 12 did not come into operation and were deleted by the Criminal Law Amendment Act (No. 2) 1998 s. 17 and 18.
 The Sentencing Legislation Amendment and Repeal Act 1999 Pt. 2 Div. 3 (s. 14-26) are transitional provisions. They did not come into operation before the Act was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 31.
-The Sentencing Amendment (Adjustment of Sentences) Act 2000 (No. 62 of 2000) s. 4-6 commenced on 7 Dec 2000 (see s. 2).
+The Sentencing Amendment (Adjustment of Sentences) Act 2000 s. 4-6 commenced 7 Dec 2000.
 The Sentencing Legislation Amendment and Repeal Act 2003 s. 22, which gives effect to Sch. 1 (amended by No. 5 of 2008 s. 109 and No. 49 of 2008 s. 3-5), reads as follows:
 22.Transitional provisions
 Schedule 1 has effect in relation to the amendments effected by this Division.
@@ -199,14 +199,13 @@ The Board’s annual report made under section 112 of the Sentence Administratio
 (b) the parole period for the parole order is that provided by section 27(3) of the Sentence Administration Act 2003; and
 (c) Part 3 Divisions 6 to 11 and Parts 4 to 10 of the Sentence Administration Act 2003 apply to and in respect of the person and the parole order.
 [14.Deleted by No. 49 of 2008 s. 5.]
-The Acts Amendment (Justice) Act 2008 s. 109 commenced on 30 Sep 2008 (see s. 2(d) and Gazette 11 Jul 2008 p. 3253).
-The Sentencing Legislation (Transitional Provisions) Amendment Act 2008 s. 3-5 commenced on 14 Jan 2009.
+The Acts Amendment (Justice) Act 2008 s. 109 commenced 30 Sep 2008.
+The Sentencing Legislation (Transitional Provisions) Amendment Act 2008 s. 3-5 commenced 14 Jan 2009.
 The amendments in the Sentencing Legislation Amendment Act 2004 s. 6(4) erroneously referred to “73(3) and (5)” instead of “75(3) and (5)” when identifying the required amendments to be made to s. 33N(3).
-The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 59 which purported to replace s. 84E could not be included because s. 84E was not in operation when s. 59 came into operation. Section 59 was subsequently deleted by the Parole and Sentencing Legislation Amendment Act 2006 s. 74(2).
+The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 59, which purported to replace s. 84E, could not be included because s. 84E was not in operation when s. 59 came into operation. Section 59 was subsequently deleted by the Parole and Sentencing Legislation Amendment Act 2006 s. 74(2).
 The amendments in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 65 that purported to amend s. 84P(3) could not be included because s. 84P(3) was not in operation when s. 65 came into operation. Those amendments were subsequently deleted by the Parole and Sentencing Legislation Amendment Act 2006 s. 75(2).
-The Parole and Sentencing Legislation Amendment Act 2006 s. 74(2) and 75(2) commenced on 22 Sep 2006 (see s. 2(4)(b)).
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 had not come into operation. They read as follows:
+The Parole and Sentencing Legislation Amendment Act 2006 s. 74(2) and 75(2) commenced 22 Sep 2006.
+On the date as at which this reprint was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 had not come into operation. They read as follows:
 Part 3 — Amendments to other Acts
 Division 18 — Sentencing Act 1995 amended
 124.Section 14 amended
@@ -219,7 +218,7 @@ Delete section 38(2) and insert:
 (2) The review —
 (a) is to be based on an examination, in the absence of the parties, of the court documents relevant to the offence (whether the original documents or copies, or some other form of the documents prescribed by the regulations or rules of court); and
 (b) is not to involve a hearing.
-On the date as at which this compilation was prepared, the Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) had not come into operation. It reads as follows:
 8.Schedule 1A amended
 (2) In Schedule 1A Part 2 item 1 delete “s. 428” and insert:
 s. 417
@@ -258,7 +257,7 @@ fine57(1)
 firearm106(5)
 firearms offence106(5)
 fixed term9AA(1), 85(1)
-full sentence37A(1)
+full sentence37A(1)(a)
 head sentence9AA(1)
 imprisonable offence33A(1)
 indefinite imprisonment85(1)
@@ -272,7 +271,7 @@ motor vehicle105(5)
 motor vehicle offence105(5)
 nominal sentence98(1)
 offence4(1)
-offender4(1), 79(1), 84E(1), 129(1)
+offender4(1), 79(1)(a), 84E(1)(a), 129(1)(a)
 original offence32(1)
 parole eligibility order85(1)
 parole order85(1)
@@ -296,19 +295,19 @@ requirement33L(1)
 requirements125(1)
 sentence37(5), 37A(5)
 sentencing150A(1)
-sentencing day33B(1)
+sentencing day33B(1)(a)
 speciality court4(1), 84N(2)
 specified33H(15), 75(15), 84C(15)
-specified place33H(2), 75(2), 84C(2)
+specified place33H(2)(a), 75(2)(a), 84C(2)(a)
 spent conviction order4(1)
 statutory penalty4(1)
 superior court4(1)
 term85(1)
 term imposed35(1)
-third party118(1), 120(1)
+third party118(1), 120(1)(b)
 translated sentence 85(1)
 vessel107(5)
 victim9AA(1), 13, 116, 120(1)
 video link14A(4)
-WDO57A(4)
+WDO57A(4)(b)
 written reasons33A(7), 35(4), 80(5A), 84F(5A)
