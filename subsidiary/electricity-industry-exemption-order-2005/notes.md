@@ -16,6 +16,7 @@ Electricity Industry Exemption Amendment Order 2014 | 17 Oct 2014 p. 4003 | cl. 
 Electricity Industry Exemption Amendment Order 2015 | 15 May 2015 p. 1720-1 | cl. 1 and 2: 15 May 2015 (see cl. 2(a)); Order other than cl. 1 and 2: 16 May 2015 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order (No. 2) 2015 | 26 Jun 2015 p. 2253-4 | cl. 1 and 2: 26 Jun 2015 (see cl. 2(a)); Order other than cl. 1, 2 and 6: 27 Jun 2015 (see cl. 2(c)); cl. 6: 1 Jul 2015 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order (No. 3) 2015 | 8 Sep 2015 p. 3719 | cl. 1 and 2: 8 Sep 2015 (see cl. 2(a)); Order other than cl. 1 and 2: 9 Sep 2015 (see cl. 2(b))
+Electricity Industry Exemption Amendment Order 2016 | 8 Jan 2016 p. 19-20 | cl. 1 and 2: 8 Jan 2016 (see cl. 2(a)); Order other than cl. 1 and 2: 9 Jan 2016 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
