@@ -7,6 +7,7 @@ Iron Ore (Robe River) Cape Lambert Ore and Service Wharves Amendment By-laws 199
 Iron Ore (Robe River) Cape Lambert Ore and Service Wharves Amendment By-laws 2002 | 13 May 2003 p. 1667-8 | 13 May 2003
 Reprint 1: The Iron Ore (Robe River) Cape Lambert Ore and Service Wharves By-laws 1995 as at 28 Nov 2003 (includes amendments listed above)
 Iron Ore (Robe River) Cape Lambert Ore and Service Wharves Amendment By-laws 2012 | 15 Jun 2012 p. 2543-4 | bl. 1 and 2: 15 Jun 2012 (see bl. 2(a)); By-laws other than bl. 1 and 2: 16 Jun 2012 (see bl. 2(b))
+Iron Ore (Robe River) Cape Lambert Ore and Service Wharves Amendment By-laws 2015 | 8 Jan 2016 p. 26-30 | bl. 1 and 2: 8 Jan 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 9 Jan 2016 (see bl. 2(b))
 On the date as at which this compilation was prepared this department did not exist. The Department of the Public Service principally assisting the Minister in the administration of the Marine and Harbours Act 1981 is the Department of Planning and Infrastructure (see Gazette 30 June 2003 p. 2646).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
