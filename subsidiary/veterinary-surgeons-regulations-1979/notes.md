@@ -47,6 +47,7 @@ Veterinary Surgeons Amendment Regulations (No. 2) 2013 | 3 Dec 2013 p. 5625-6 | 
 Veterinary Surgeons Amendment Regulations 2014 | 14 Mar 2014 p. 629 | r. 1 and 2: 14 Mar 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Mar 2014 (see r. 2(b))
 Reprint 5: The Veterinary Surgeons Regulations 1979 as at 6 Jun 2014 (includes amendments listed above)
 Veterinary Surgeons Amendment Regulations 2015 | 2 Jun 2015 p. 1938-9 | r. 1 and 2: 2 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2016 (see r. 2(b))
+Veterinary Surgeons Amendment Regulations (No. 2) 2015 | 12 Jan 2016 p. 43 | r. 1 and 2: 12 Jan 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jan 2016 (see r. 2(b))
 The headings before r. 1-4, 7-9, 13, 15, 18, 19-23, 28, 34, 44, 55, 60, 61, 63, 64, 67, 69, 74 and 80 were deleted by the Veterinary Surgeons Amendment Regulations (No. 3) 2003, see Gazette 16 Dec 2003 p. 5089-90.
 Now known as the Veterinary Surgeons Regulations 1979; citation changed (see note under r. 1).
 Defined terms
