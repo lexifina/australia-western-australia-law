@@ -1,6 +1,6 @@
 ## Second Schedule — Requested Commonwealth Act: Australia (Request and Consent) Act 1985
 [s. 5]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 An Act to request, and consent to, the enactment by the Parliament of the United Kingdom of an Act in the terms set out in the Schedule to this Act
 WHEREAS the Prime Minister of the Commonwealth and the Premiers of the States at conferences held in Canberra on 24 and 25 June 1982 and 21 June 1984 agreed on the taking of certain measures to bring constitutional arrangements affecting the Commonwealth and the States into conformity with the status of the Commonwealth of Australia as a sovereign, independent and federal nation:
 BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representatives of the Commonwealth of Australia, as follows:
