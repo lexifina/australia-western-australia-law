@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Family Court Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 15 January 2016 of the Family Court Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Family Court Regulations 1998 | 25 Sep 1998 p. 5303-9 | 26 Sep 1998 (see r. 2 and Gazette 25 Sep 1998 p. 5295)
@@ -12,6 +12,7 @@ Reprint 2: The Family Court Regulations 1998 as at 2 Mar 2012 (includes amendmen
 Family Court Amendment Regulations 2012 | 14 Dec 2012 p. 6235-51 | r. 1 and 2: 14 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2013 (see r. 2(b))
 Family Court Amendment Regulations (No. 2) 2015 | 10 Jul 2015 p. 2779-83 | r. 1 and 2: 10 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jul 2015 (see r. 2(b)(ii) and Cwlth Select Legislative Instrument No. 114 registered on 12 Jul 2015)
 Family Court Amendment Regulations (No. 3) 2015 | 18 Aug 2015 p. 3299-301 | r. 1 and 2: 18 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Aug 2015 (see r. 2(b))
+Reprint 3: The Family Court Regulations 1998 as at 15 Jan 2016 (includes amendments listed above)
 Deleted by the Supreme Court Amendment Rules (No. 5) 2001.
 The Family Court Amendment Regulations 2015 were repealed before the provisions of those regulations that were to amend the Family Court Regulations 1998 came into operation. See the Family Court Amendment Repeal Regulations 2015 in Gazette 30 June 2015 p. 2340.
 Defined terms
