@@ -3,10 +3,10 @@
 [Heading inserted in Gazette 18 Aug 2015 p. 3300.]
 Item | Document or action | Fee
 1. | Filing an application for final orders in eligible financial or parenting proceedings | $320
-2. | Setting-down for hearing in eligible financial or parenting proceedings, if defended, for final orders — (a)for a hearing before a judge (b)for a hearing before a magistrate | $805 $590
+2. | Setting down for hearing in eligible financial or parenting proceedings, if defended, for final orders — (a)for a hearing before a judge (b)for a hearing before a magistrate | $805 $590
 3. | Hearing in eligible financial or parenting proceedings, if defended, for final orders — for each hearing day, or part of a hearing day, excluding the first hearing day — (a)for a hearing before a judge (b)for a hearing before a magistrate | $805 $590
 4. | Filing a response to an application for final orders in eligible financial or parenting proceedings | $320
-5. | Setting-down for hearing in an appeal under section 211 from a decree of a Magistrates Court, unless the fee mentioned in item 12 has been paid | $805
+5. | Setting down for hearing in an appeal under section 211 from a decree of a Magistrates Court, unless the fee mentioned in item 12 has been paid | $805
 6. | Hearing in an appeal under section 211 from a decree of a Magistrates Court — for each hearing day, or part of a hearing day, excluding the first hearing day | $805
 7. | Filing an application for a consent order | $155
 8. | Filing an interim order application | $110
