@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum and Geothermal Energy Resources Act 1967 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 15 January 2016 of the Petroleum and Geothermal Energy Resources Act 1967 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum Act 1967 | 72 of 1967 | 11 Dec 1967 | 5 Sep 1969 (see s. 2 and Gazette 5 Sep 1969 p. 2540)
@@ -31,23 +31,24 @@ State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal A
 Petroleum Legislation Amendment and Repeal Act 2005 Pt. 2 | 13 of 2005 | 1 Sep 2005 | 15 May 2010 (see s. 2 and Gazette 14 May 2010 p. 2015)
 Reprint 4: The Petroleum Act 1967 as at 13 Apr 2007 (includes amendments listed above except those in the Petroleum Legislation Amendment and Repeal Act 2005)
 Petroleum Amendment Act 2007 Pt. 2 | 35 of 2007 | 21 Dec 2007 | Div. 1: 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147); Div. 2: 15 May 2010 (see s. 2(b) and Gazette 14 May 2010 p. 2015)
-Reprint 5: The Petroleum and Geothermal Energy Resources Act 1967 as at 2 May 2008 (includes amendments listed above except those in the Petroleum Legislation Amendment and Repeal Act 2005 Pt. 2 and the Petroleum Amendment Act 2007 Pt. 2 Div. 2) (correction in Gazette 23 Jun 2009 p. 2470)
+Reprint 5: The Petroleum and Geothermal Energy Resources Act 1967 as at 2 May 2008 (includes amendments listed above except those in the Petroleum Legislation Amendment and Repeal Act 2005 and the Petroleum Amendment Act 2007 Pt. 2 Div. 2) (correction in Gazette 23 Jun 2009 p. 2470)
 Revenue Laws Amendment Act (No. 2) 2008 s. 34 | 31 of 2008 | 27 Jun 2008 | 28 Jun 2008 (see s. 2(b))
 Reprint 6: The Petroleum and Geothermal Energy Resources Act 1967 as at 22 Oct 2010 (includes amendments listed above)
 Petroleum and Energy Legislation Amendment Act 2010 Pt. 2 | 42 of 2010 | 28 Oct 2010 | Pt. 2 other than s. 51, 57, 58(b) (to the extent that it inserts s. 153(2)(lc)), 61 (to the extent that it inserts Sch. 2 cl. 3): 25 May 2011 (see s. 2(b) and Gazette 24 May 2011 p. 1892); s. 51, 57, 58(b) (to the extent that it inserts s. 153(2)(lc)), 61 (to the extent that it inserts Sch. 2 cl. 3): 1 Jul 2015 (see s. 2(b) and Gazette 30 Jun 2015 p. 2321)
-Reprint 7: The Petroleum and Geothermal Energy Resources Act 1967 as at 5 Aug 2011 (includes amendments listed above)
+Reprint 7: The Petroleum and Geothermal Energy Resources Act 1967 as at 5 Aug 2011 (includes amendments listed above except those in the Petroleum and Energy Legislation Amendment Act 2010 s. 51, 57, 58(b) (to the extent that it inserts s. 153(2)(lc)) and 61 (to the extent that it inserts Sch. 2 cl. 3)
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 9 Div. 3 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 15 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Commercial Arbitration Act 2012 s. 45 it. 15 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 8 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 8: The Petroleum and Geothermal Energy Resources Act 1967 as at 15 Jan 2016 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 Sch. 2 Div. 7 | 60 of 1999 | 10 Jan 2000 | s. 7.3 operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 The Petroleum Act 1936 was repealed by this Act, s. 3.
-Repealed by the Interpretation Act 1984.
+The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
 The amendment in the Petroleum Safety Act 1999 s. 92 is not included as it was deleted by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51 before it came into operation.
-Short title was initially the Petroleum Act 1967 and was subsequently changed to the Petroleum and Geothermal Energy Resources Act 1967 (see note under s. 1).
+Now known as the Petroleum and Geothermal Energy Resources Act 1967; short title changed (see note under s. 1).
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
 The Acts Amendment (Mining) Act 1981 s. 34(2) and (3) are transitional provisions that are of no further effect.
 The Acts Amendment (Petroleum) Act 1990 s. 26(2) reads as follows:
@@ -128,7 +129,7 @@ relevant licence means a production licence for petroleum in force under Part II
 The Acts Amendment (Mining and Petroleum) Act 1999 s. 26(5) reads as follows:
 (5) Despite the amendments made by this section, section 43F of the Petroleum Act 1967 continues to apply to and in relation to the extension of a drilling reservation in force on the commencement of this section.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Native Title (State Provisions) Act 1999 s. 7.3, which gives effect to Sch. 2, had not come into operation. It reads as follows:
 7.3.Consequential amendments
 Schedule 2 has effect.
 Schedule 2 Div. 7 reads as follows:
@@ -139,57 +140,42 @@ Division 7 — Petroleum Act 1967
 The amendments in this Division are to the Petroleum Act 1967.
 50.Section 5 amended
 After section 5(8) the following subsection is inserted —
-“
 (9)If the exercise of the power conferred by subsection (8) to amend or vary any instrument is a Part 2 act, a Part 3 act or a Part 4 act within the meaning of the Native Title (State Provisions) Act 1999 that exercise is subject to section 2.6, 3.5 or 4.3, as the case may be, of that Act.
-”.
 51.Section 11 amended
 After section 11(1) the following subsection is inserted —
-“
 (1a)If any act to be done under subsection (1) is a Part 2 act, a Part 3 act or a Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the operation of that subsection is subject to section 2.6, 3.5 or 4.3, as the case may be, of that Act.
-”.
 52.Section 28B inserted
 Immediately before section 29 the following section is inserted —
-“
 28B.This Division subject to Native Title (State Provisions) Act 1999
 The operation of this Division is subject to section 2.6, 3.5 or 4.3, as the case may be, of the Native Title (State Provisions) Act 1999 where the grant, renewal or extension of an exploration permit or a drilling reservation is a Part 2 act, a Part 3 act or a Part 4 act within the meaning of that Act.
-”.
 53.Section 48AA inserted
 Immediately before section 48A the following section is inserted —
-“
 48AA.This Division subject to Native Title (State Provisions) Act 1999
 The operation of this Division is subject to section 2.6, 3.5 or 4.3, as the case may be, of the Native Title (State Provisions) Act 1999 where the grant or renewal of a retention lease is a Part 2 act, a Part 3 act or a Part 4 act within the meaning of that Act.
-”.
 54.Section 48L inserted
 Immediately before section 49 the following section is inserted —
-“
 48L.This Division subject to Native Title (State Provisions) Act 1999
 Where the grant or renewal of a production licence is a Part 2 act, a Part 3 act or a Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the operation of the provisions of this Division relating to that grant or renewal is subject to section 2.6, 3.5 or 4.3, as the case may be, of that Act.
-”.
 55.Section 105 amended
 After section 105(3) the following subsection is inserted —
-“
 (3a)Where the grant of a special prospecting authority under subsection (3) is a Part 2 act, a Part 3 act or a Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the operation of that subsection is subject to section 2.6, 3.5 or 4.3, as the case may be, of that Act.
-”.
 56.Section 106 amended
 After section 106(3) the following subsection is inserted —
-“
 (3a)Where the grant of an access authority under subsection (3) is a Part 2 act, a Part 3 act or a Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the operation of that subsection is subject to section 2.6, 3.5 or 4.3, as the case may be, of that Act.
-”.
 57.Section 116 amended
 After section 116(1) the following subsection is inserted —
-“
 (1a)Where the giving of a consent under subsection (1) is a Part 2 act, a Part 3 act or Part 4 act within the meaning of the Native Title (State Provisions) Act 1999, the operation of that subsection is subject to section 2.6, 3.5 or 4.3, as the case may be, of that Act.
-”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 access authority5(1)
 access authority area7A(2)
 accidentSch. 1 cl. 3
-actual supplierSch. 1 cl. 11(2)
-affected area6A(3)
+actual supplierSch. 1 cl. 11(2)(b)
+affected area6A(3)(a)
 affected lessee24(1)
 amending Act154(3), Sch. 2 cl. 1
+applicable document150A
 application for a primary licence5(1)
 application for a secondary licence5(1)
 approved5(1)
@@ -202,9 +188,10 @@ Barrow Island lease5(1), 128
 block5(1)
 CEO126A(4)
 charge75(15)
-commencement day42A(1)
+commencement150A
+commencement day42A(1)(a)(i)
 commencing day128
-compensable lessee21(1), 21(1)
+compensable lessee 21(1)
 construct5(1)
 construction5(1)
 contractSch. 1 cl. 3
@@ -216,15 +203,16 @@ dealing69(10)
 debenture75(15)
 designated work groupSch. 1 cl. 3
 document5(1)
+documentary information150A
 drilling reservation5(1)
 drilling reservation application43DA(1)
 employeeSch. 1 cl. 3
 employerSch. 1 cl. 3
-equipment supplierSch. 1 cl. 13(1)
+equipment supplierSch. 1 cl. 13(1)(c)(i)
 explore for29(3)
 facility 5(1)
 federal duty144A(3)
-former area133(2)
+former area133(2)(a)
 former provisions128
 Gazettal day154(1)
 geothermal access authority5(1)
@@ -262,17 +250,19 @@ listed OSH law5(1)
 location5(1)
 marine reserve28A(3)
 member of the workforceSch. 1 cl. 3
+mining sample150A
+Minister of another jurisdiction150A
 native title holders24A(3)
 oil shale5(1)
 operations area92(1)
 operations to which this Division applies128
 operative day154(5)
 operator5(1), 92(1)
-operator’s representativeSch. 1 cl. 3, Sch. 1 cl. 4(1)
+operator’s representativeSch. 1 cl. 3 and 4(1)
 original licence61(1)
 original permit37A(1)
 ostensible supplierSch. 1 cl. 11(2)
-other protected person5(1), 5(1)
+other protected person5(1)
 ownSch. 1 cl. 3
 partly cancelled5(1)
 partly determined5(1)
@@ -312,9 +302,9 @@ regulation 3Sch. 2 cl. 1
 regulations5(1), Sch. 1 cl. 3
 relevant personSch. 1 cl. 6
 relinquished area5(1)
-reservoir16(2)
-responsible personSch. 1 cl. 36(2), Sch. 1 cl. 60(1)
-reviewing authoritySch. 1 cl. 21(5), Sch. 1 cl. 64(10)
+reservoir16(2)(a)
+responsible personSch. 1 cl. 36(2) and 60(1)
+reviewing authoritySch. 1 cl. 21(5) and 64(10)
 royalty period5(1)
 royalty value5(1)
 safety zone112A(1)
@@ -322,7 +312,7 @@ secondary licence5(1)
 special prospecting authority5(1)
 State26
 structure5(1)
-supervisorSch. 1 cl. 42(1)
+supervisorSch. 1 cl. 42(1)(a)
 this ScheduleSch. 1 cl. 81(4)
 tight gas52(4A)
 title69J, 127A(5)
@@ -330,7 +320,7 @@ transitional matter154(1)
 transitional regulations154(1)
 TribunalSch. 1 cl. 3
 unit development69(1)
-unused area48CA(1), 48CA(2)
+unused area48CA(1)(b) and (2)(b)
 variation agreement128
 vessel5(1)
 water113(2)
