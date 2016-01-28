@@ -105,7 +105,7 @@ I agree that I will uphold the responsibilities listed above for the apprentice/
 Apprenticeship/Traineeship details
 1 | Title and level of qualification
 2 | National Qualification Code
-3 | Commencement date of employment for Apprenticeship/TraineeshipDay /Month /Year
+3 | Intended occupation during training contract Commencement date of employment for Apprenticeship/TraineeshipDay /Month /Year
 4 | Nominal term of Apprenticeship/Traineeship (months)
 5 | The period of probation for this Apprenticeship/Traineeship (months)
 6 | Type of Apprenticeship/Traineeship pApprenticeship pTraineeship
@@ -277,4 +277,4 @@ Training Contract ID No..............................................
 pEligible for incentives
 pNot eligible for incentives
 Notes .......................................................................................................................................................................................................................................................................................................................................................................................................................................
-[Schedule 1 inserted in Gazette 5 Dec 2014 p. 4526-41; 12 Dec 2014 p. 4743.]
+[Schedule 1 inserted in Gazette 5 Dec 2014 p. 4526-41; amended in Gazette 12 Dec 2014 p. 4743; 27 Jan 2016 p. 224.]

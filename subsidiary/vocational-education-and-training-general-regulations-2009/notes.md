@@ -14,6 +14,7 @@ Vocational Education and Training (General) Amendment Regulations 2014 | 5 Dec 2
 Vocational Education and Training (General) Amendment Regulations (No. 3) 2014 | 12 Dec 2014 p. 4742-3 | r. 1 and 2: 12 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Dec 2014 (see r. 2(b))
 Vocational Education and Training (General) Amendment Regulations 2015 | 10 Mar 2015 p. 827-36 | r. 1 and 2: 10 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Apr 2015 (see r. 2(b))
 Vocational Education and Training (General) Amendment Regulations (No. 2) 2015 | 28 Aug 2015 p. 3599 | r. 1 and 2: 28 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Aug 2015 (see r. 2(b))
+Vocational Education and Training (General) Amendment Regulations 2016 | 27 Jan 2016 p. 222-4 | r. 1 and 2: 27 Jan 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jan 2016 (see r. 2(b))
 The Training Legislation Amendment and Repeal Act 2008 (other than Pt. 1) commenced 10 Jun 2009.
 The Industrial Training Act 1975 was repealed by the Training Legislation Amendment and Repeal Act 2008.
 The Industrial Training (General Apprenticeship) Regulations 1981 were repealed by r. 56(2) of these regulations. Regulation 56 was omitted under the Reprints Act 1984 s. 7(4)(f).
