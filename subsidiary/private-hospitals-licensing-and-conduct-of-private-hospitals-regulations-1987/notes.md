@@ -9,6 +9,7 @@ Hospitals (Licensing and Conduct of Private Hospitals) Amendment Regulations 200
 Hospitals (Licensing and Conduct of Private Hospitals) Amendment Regulations 2009 | 30 Oct 2009 p. 4306-7 | r. 1 and 2: 30 Oct 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Oct 2009 (see r. 2(b))
 Hospitals (Licensing and Conduct of Private Hospitals) Amendment Regulations 2010 | 27 Apr 2010 p. 1581 | r. 1 and 2: 27 Apr 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Apr 2010 (see r. 2(b))
 Hospitals (Licensing and Conduct of Private Hospitals) Amendment Regulations 2014 | 6 Jun 2014 p. 1789-90 | r. 1 and 2: 6 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
+Hospitals (Licensing and Conduct of Private Hospitals) Amendment Regulations 2016 | 29 Jan 2016 p. 275-6 | r. 1 and 2: 29 Jan 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2016 (see r. 2(b))
 Repealed by the National Health and Medical Research Council Act 1992 s. 54 (No. 225 of 1992) of the Commonwealth.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
