@@ -7,6 +7,7 @@ Health (Pesticides) Amendment Regulations 2011 | 21 Jun 2011 p. 2219-20 | r. 1 a
 Health (Pesticides) Amendment Regulations 2013 | 19 Nov 2013 p. 5294-5 | r. 1 and 2: 19 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2013 (see r. 2(b))
 Health (Pesticides) Amendment Regulations (No. 2) 2014 | 28 Nov 2014 p. 4412-13 | r. 1 and 2: 28 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2014 (see r. 2(b))
 Health (Pesticides) Amendment Regulations (No. 2) 2015 | 19 May 2015 p. 1758-9 | r. 1 and 2: 19 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Health (Pesticides) Amendment Regulations 2016 | 29 Jan 2016 p. 269-73 | r. 1 and 2: 29 Jan 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -27,7 +28,7 @@ AS/NZS 171657
 AS/NZS 286557
 business registration3
 chamber fumigation57
-commencement day113
+commencement day113, 121
 Committee110(1)
 container81
 controlled pesticide83(1)
@@ -37,6 +38,8 @@ EDPH3
 EDPH permit3
 employee8
 employer8
+existing EDPH permit121
+former Regulations121
 fumigant3
 fumigation3
 fumigation area57
@@ -48,6 +51,7 @@ licensed technician3
 licensee3
 material safety data sheet57
 NOHSC:100357
+park81
 person affected28(1), 52(1)
 pest3
 pest management business3
@@ -75,4 +79,4 @@ under direction3
 under personal supervision3
 undertake3
 used pesticide container81
-verge or park spraying81
+verge81
