@@ -12,6 +12,7 @@ Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Amendment Regul
 Reprint 2: The Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Regulations 1997 as at 8 Jul 2011 (includes amendments listed above)
 Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Amendment Regulations 2014 | 6 Jun 2014 p. 1790-1 | r. 1 and 2: 6 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Amendment Regulations 2015 | 29 Dec 2015 p. 5173-4 | r. 1 and 2: 29 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2015 (see r. 2(b))
+Hospitals (Licensing and Conduct of Private Psychiatric Hostels) Amendment Regulations 2016 | 29 Jan 2016 p. 273-5 | r. 1 and 2: 29 Jan 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
