@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Jetties Regulations 1940 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 February 2016 of the Jetties Regulations 1940 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Jetties Act Regulations 1940 | 6 Sep 1940 p. 1622-40 | 6 Sep 1940 (see direction preceding regulations in Gazette 6 Sep 1940 p. 1622)
@@ -123,6 +123,7 @@ Jetties Amendment Regulations 2014 | 7 Feb 2014 p. 287-9 | r. 1 and 2: 7 Feb 201
 Jetties Amendment Regulations (No. 2) 2014 | 25 Jul 2014 p. 2607-61 | r. 1 and 2: 25 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2014 (see r. 2(b))
 Jetties Amendment Regulations (No. 4) 2014 | 4 Nov 2014 p. 4204-5 | r. 1 and 2: 4 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Nov 2014 (see r. 2(b))
 Jetties Amendment Regulations 2015 | 22 Jul 2015 p. 2951-95 | r. 1 and 2: 22 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2015 (see r. 2(b))
+Reprint 9: The Jetties Regulations 1940 as at 5 Feb 2016 (includes amendments listed above)
 The Consumer Credit (Western Australia) Code was repealed by the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 Pt. 3 Div. 1.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the department in the Public Service designated as “Police Department” is to be read and construed as a reference to the department designated as “Police Service”.
@@ -144,7 +145,6 @@ catamaran pen6(1)
 commercial vessel3(1)
 day3(2)
 Department3(1)
-E Class operatorSch. 1 cl. 9(2)
 enhanced facilitiesSch. 1 cl. 26(1)
 fishing vessel3(1)
 jetty3(1)
@@ -154,9 +154,9 @@ owner3(1)
 premises3(1)
 public jetty3(1)
 recreational vessel3(1)
-service vesselSch. 1 cl. 12(2), Sch. 1 cl. 21(2), Sch. 1 cl. 22(2)
+service vesselSch. 1 cl. 12(2), 21(2) and 22(2)
+short term3(2)
 swing mooring fee3(1)
-T Class operatorSch. 1 cl. 9(2)
 tourism vessel3(1)
 unit3(5)
 vessel3(1)
