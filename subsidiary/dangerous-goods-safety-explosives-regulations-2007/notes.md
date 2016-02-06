@@ -18,6 +18,7 @@ Dangerous Goods Safety (Explosives) Amendment Regulations (No. 2) 2014 | 17 Jun 
 Dangerous Goods Safety (Explosives) Amendment Regulations (No. 3) 2014 | 24 Oct 2014 p. 4120-1 | r. 1 and 2: 24 Oct 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Oct 2014 (see r. 2(b))
 Dangerous Goods Safety (Explosives) Amendment Regulations 2014 | 8 Jan 2015 p. 129-30 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Dangerous Goods Safety (Explosives) Amendment Regulations 2015 | 26 Jun 2015 p. 2267-8 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 2 | 5 Feb 2016 p. 343-68 | 6 Feb 2016 (see r. 2(b))
 The Medical Practitioners Act 2008 and the Psychologists Act 2005 were repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
 The Explosives and Dangerous Goods Act 1961 was repealed by the Dangerous Goods Safety Act 2004.
 The Dangerous Goods (Transport) Act 1998 and the Dangerous Goods (Transport) (Explosives by Road and Rail) Regulations 1999 were repealed by the Dangerous Goods Safety Act 2004.
@@ -40,6 +41,7 @@ ammunition3
 ammunition propellant3
 ANFO3
 annual fee3
+another participating jurisdiction182A
 application20(1)
 approved code of practice3
 approved form3
@@ -69,11 +71,13 @@ classification code3
 Commissioner19(1)
 complying magazine91(1)
 constituent3
+corresponding law182A
 crackerSch. 2 cl. 2(1)
 cracker chain144(1), Sch. 2 cl. 2(1)
 destroy3
 development181(1)
 district3
+driver licence160(1)
 emergency device3, 111C(1)
 emergency plan111I(1)
 emergency service108
@@ -131,6 +135,7 @@ officer165(1)
 official capacity185
 operator111A(2)
 packaging40(1)
+participating jurisdiction182A
 personal details3
 placarded vehicle107(1)
 port111A(2)
@@ -143,10 +148,11 @@ prime contractor95(1), 111A(2)
 prohibited explosive3
 proper shipping name3
 proposed action175(1)
+provisional licence160(1)
 qualified officer165(1)
 rail95(1)
 rail wagon95(1)
-relevant licence143(1)
+relevant licence143(1), 182A
 relevant offence156(1)
 relevant person19(1)
 renewal application156(1)
@@ -163,15 +169,15 @@ secure nominee3
 security card3
 security clearance3
 security document22(1)
-security risk substance3
+security sensitive ammonium nitrate3
 SEF185
 sell3
 shotfirer129(1), 133(1), 134(3)
 site149(1), 161(2), 161(4)
 sky rocketSch. 2 cl. 2(1)
 special berth (explosives)111A(2)
-SRS3
-SRS licence190(1)
+SSAN3
+SSAN licence190(1)
 State explosives facility3
 State land3
 store3

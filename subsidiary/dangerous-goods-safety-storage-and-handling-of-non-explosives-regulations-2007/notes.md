@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 25 July 2014 of the Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 | 31 Dec 2007 p. 6777-892 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2 and Pt. 5 Div. 1: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669); Pt. 5 Div. 1: 1 Mar 2009 (see r. 2(c) and Gazette 29 Feb 2008 p. 669)
@@ -12,6 +12,7 @@ DGS (Storage and Handling of Non-explosives) Amendment Regulations (No. 3) 2012 
 Dangerous Goods Safety (Storage and Handling of Non explosives) Amendment Regulations 2013 | 2 Dec 2013 p. 5517-65 | r. 1 and 2: 2 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
 Reprint 2: The Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 as at 25 Jul 2014 (includes amendments listed above)
 Dangerous Goods Safety (Storage and Handling of Non explosives) Amendment Regulations 2015 | 26 Jun 2015 p. 2262-3 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 7 | 5 Feb 2016 p. 343-68 | 6 Feb 2016 (see r. 2(b))
 Repealed by the Safe Work Australia (Consequential and Transitional Provisions) Act 2008 Sch. 1 (Cwlth). Now see the Safe Work Australia Act 2008 (Cwlth).
 Commenced on 1 January 2014.
 Repealed by the Dangerous Goods Safety (Goods in Ports) Repeal Regulations 2013.

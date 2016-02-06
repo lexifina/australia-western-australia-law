@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 21 February 2014 of the Dangerous Goods Safety (Security Risk Substances) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Dangerous Goods Safety (Security Risk Substances) Regulations 2007 | 31 Dec 2007 p. 6719-75 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
@@ -9,6 +9,8 @@ Dangerous Goods Safety (Security Risk Substances) Amendment Regulations (No. 2) 
 Dangerous Goods Safety (Security Risk Substances) Amendment Regulations 2013 | 2 Dec 2013 p. 5499-515 | r. 1 and 2: 2 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see r. 2(b))
 Reprint 1: The Dangerous Goods Safety (Security Risk Substances) Regulations 2007 as at 21 Feb 2014 (includes amendments listed above)
 Dangerous Goods Safety (Security Risk Substances) Amendment Regulations 2015 | 26 Jun 2015 p. 2263-4 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 6 | 5 Feb 2016 p. 343-68 | 6 Feb 2016 (see r. 2(b))
+Now known as the Dangerous Goods Safety (Security Sensitive Ammonium Nitrate) Regulations 2007; citation changed (see note under r. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -41,7 +43,7 @@ manufacture20
 Material Safety Data Sheet3
 MSDS3
 officer33(1)
-packaged SRS23(1)
+packaged 23(1)
 personal details3
 proposed action43(1)
 qualified officer33(1)
@@ -50,10 +52,10 @@ required details3
 secure3
 secure nominee3
 security clearance3
-security risk substance3
+security sensitive ammonium nitrate3
 shotfiring licence3
 site31(3)
-SRS3
+SSAN3
 store3
 submission date43(2)
 supervised3
