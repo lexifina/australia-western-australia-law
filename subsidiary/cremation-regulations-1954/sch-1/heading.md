@@ -70,7 +70,7 @@ Applicant | Name
  | Address
 Deceased | Name
  | Address
- | Date of birth / / Male/Female
+ | Date of birth / / Male/Female/Unspecified
  | Marital status
  | Occupation
 (*“Nearest surviving relative” is explained at the end of this form.) | Nearest surviving relative* (if known) Name Relationship
@@ -93,14 +93,14 @@ Medical Referee
 Signature
 Name
 The nearest surviving relative of a deceased person, is the first person who is available from the following persons in the order of priority listed — (a)a person who, immediately before the death, was living as — (i)the spouse of the deceased; or (ii)a de facto partner of the deceased and who is at least 18 years of age; (b)a person who, immediately before the death, was the spouse of the deceased; (c)a son or daughter of the deceased who is at least 18 years of age; (d)a parent of the deceased; (e)a brother or sister of the deceased who is at least 18 years of age.
-[Form 6 inserted in Gazette 4 Apr 2008 p. 1300-2; amended in Gazette 8 Feb 2013 p. 866.]
+[Form 6 inserted in Gazette 4 Apr 2008 p. 1300-2; amended in Gazette 8 Feb 2013 p. 866; 9 Feb 2016 p. 371.]
 Form 7
 Certificate of Medical Practitioner | Cremation Act 1929 Form 7
 Certificate to be completed by doctor who attended deceased prior to death. Add additional pages if more space is required. Attach copies of all relevant laboratory reports, results, certificates etc.
 Deceased | Name
  | Address
  | Date of birth / / Age
- | Marital statusMaleFemale
+ | Marital statusMale/Female/Unspecified
  | Occupation
 Doctor | Name
  | Address
@@ -130,7 +130,7 @@ Safety of cremation | At the time of death was the deceased fitted with a cardia
 Certification of medical practitioner | I certify that the information set out above is true and correct and that I have not omitted any relevant information.
 Signature
 Date / /20
-[Form 7 inserted in Gazette 29 Jun 2012 p. 2945-9; amended in Gazette 25 Feb 2014 p. 497-8; 21 Apr 2015 p. 1424.]
+[Form 7 inserted in Gazette 29 Jun 2012 p. 2945-9; amended in Gazette 25 Feb 2014 p. 497-8; 21 Apr 2015 p. 1424; 9 Feb 2016 p. 371.]
 Form 8
 Western Australia
 Cremation Act 1929
