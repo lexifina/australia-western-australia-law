@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fish Resources Management Act 1994 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This reprint is a compilation as at 4 March 2016 of the Fish Resources Management Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fish Resources Management Act 1994 | 53 of 1994 | 2 Nov 1994 | s. 1 and 2: 2 Nov 1994; Act other than s. 1 and 2: 1 Oct 1995 (see s. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -36,7 +36,8 @@ Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt.
 Fish Resources Management Amendment Act 2011 | 43 of 2011 | 12 Oct 2011 | s. 1 and 2: 12 Oct 2011 (see s. 2(a)); Act other than s. 1 and 2: 5 Nov 2011 (see s. 2(b) and Gazette 4 Nov 2011 p. 4629)
 Reprint 4: The Fish Resources Management Act 1994 as at 13 Jan 2012 (includes amendments listed above except those in the Personal Property Securities (Consequential Repeals and Amendments) Act 2011)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 24 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 5: The Fish Resources Management Act 1994 as at 4 Mar 2016 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
@@ -64,7 +65,7 @@ Division 5 — Transitional provisions
 (3) In this section —
 commencement means the time at which section 232 comes into operation.
 The requirement to appoint an Executive Director was removed from the Act and references to the Executive Director were replaced by references to the CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 8 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
-On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 had not come into operation. It reads as follows:
 89.Fish Resources Management Act 1994 amended
 (1) The amendments in this section are to the Fish Resources Management Act 1994.
 (2) Section 4(1) is amended by deleting the definition of “noxious fish”.
@@ -83,7 +84,7 @@ On the date as at which this compilation was prepared, the Biosecurity and Agric
 “ or the Biosecurity and Agriculture Management Act 2007 ”.
 (8) Section 258(i) is deleted.
 The Standardisation of Formatting Act 2010 s. 4, the amendment to Schedule 1, had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(2)(a).
-On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 2015 s. 73 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Conservation and Land Management Amendment Act 2015 s. 73 had not come into operation. It reads as follows:
 73.Fish Resources Management Act 1994 amended
 (1) This section amends the Fish Resources Management Act 1994.
 (2) Delete section 136A(1) and (2) and insert:
@@ -110,7 +111,7 @@ nothing in this section prevents the authorisation from being renewed in respect
 (b) a declaration is made under the Conservation and Land Management Act 1984 section 13B(3A)(b) or (3B)(c) or (e) in relation to any of those types or classes of commercial fishing or recreational fishing in that area or part; and
 (c) the area or part is not an area or part from which the remainder of the types or classes of commercial fishing or recreational fishing are excluded under the Conservation and Land Management Act 1984 section 13B,
 nothing in this section prevents the authorisation from being renewed in respect of the types or classes of commercial fishing or recreational fishing that are not so excluded in that area or part.
-On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 232 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Associations Incorporation Act 2015 s. 232 had not come into operation. It reads as follows:
 232.References to “1987” amended to “2015” in various Acts
 (1) This section amends the Acts listed in the Table.
 (2) In the provisions listed in the Table delete “1987” and insert:
@@ -162,7 +163,7 @@ Commonwealth Act4(1)
 Commonwealth Minister15
 confidential information250(1)
 corresponding law15
-current period250(4B)
+current period250(4B)(a)
 customary fishing4(1)
 Department4(1)
 designated fishing zone4(1)
@@ -214,7 +215,7 @@ officer204(3)
 one day50(1)
 organism177B
 original area97B(1)
-original decision152(1), 152(2)
+original decision152(1) and (2)
 peak industry body4(1)
 pearl oyster4(1)
 permit4(1)
@@ -224,7 +225,7 @@ possession4(1)
 possession limit51(1)
 precautionary principle4(1)
 premises4(1)
-previous period250(4B)
+previous period250(4B)(b)
 principal offender202(1), 202A(1)
 priority fish153
 private land4(1)
@@ -252,7 +253,7 @@ temporary aquaculture permit4(1)
 this Act4(1)
 totally protected fish4(1)
 traffic153
-unattached94(5)
+unattached94(5)(a)
 unauthorised structure4(1)
 unit4(1)
 vary4(1)
