@@ -13,6 +13,7 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and Sch. 1 cl. 16
 Reprint 2: The Botanic Gardens and Parks Authority Act 1998 as at 6 Aug 2010 (includes amendments listed above)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 3 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
+City of Perth Act 2016 Pt. 4 Div 2 | 2 of 2016 | 3 Mar 2016 | 4 Mar 2016 (see s. 2(b))
 The provision in this Act consequentially amending other Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
 Defined terms
@@ -34,6 +35,7 @@ council3
 designated land3
 document14(4)
 emergency situation29(5)
+Executive Director, Public Health44A(1)
 first management plan16(3)
 Foundation3
 Foundation Account3
@@ -46,6 +48,7 @@ member of staff3
 owner3
 park management officer3
 participate10(4)
+public health44A(1)
 regulations3
 relevant amount11(4)
 responsible adult48(3)
