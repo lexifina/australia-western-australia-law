@@ -58,6 +58,7 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Reprint 6: The Local Government Act 1995 as at 3 Aug 2012 (includes amendments listed above except those in the Co-operatives Act 2009 s. 516, Local Government Amendment Act 2012 s. 14-18 (correction in Gazette 7 Sep 2012 p. 4329 and 28 Mar 2013 p. 1317) and the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 29)
  | Commercial Arbitration Act 2012 s. 45 it. 12 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
  | Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 35 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
+ | City of Perth Act 2016 Pt. 4 Div 4 | 2 of 2016 | 3 Mar 2016 | 4 Mar 2016 (see s. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -67,7 +68,7 @@ Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be read and construed as if that reference were a reference to the Land Administration Act 1997.
 The Criminal Code s. 348 and 349 were deleted by the Defamation Act 2005 s. 47.
-The provisions of the Local Government Act 1960 Pt. VIA as continued by Sch. 9.3 cl. 16 of this Act and amended by the Local Government (Amendment of Part VIA – Employee Superannuation) Regulations 2006 r. 4 and 5 (published in Gazette 26 May 2006 p. 1877-8) read as follows:
+The provisions of the Local Government Act 1960 Pt. VIA as continued by Sch. 9.3 cl. 16 of this Act and amended by the Local Government (Amendment of Part VIA – Employee Superannuation) Regulations 2006 r. 4 and 5 (published in Gazette 26 May 2006 p. 1877-8) and the City of Perth Act 2016 Pt. 4 Div. 3 read as follows:
 Part VIA — Employee Superannuation
 170A.Interpretation
 (1) In this Part —
@@ -83,7 +84,7 @@ SIS Act means the Superannuation Industry (Supervision) Act 1993 (Cwlth) as amen
 170B.Municipalities to use industry scheme
 (1) To provide superannuation and other benefits for its employees and their dependants, a municipality shall participate in and comply with the industry scheme.
 (2) A municipality shall exercise such powers and discharge such obligations as are necessary to give effect to the industry scheme.
-(3) Subsections (1) and (2) do not apply in respect of an employee if under section 170D, or section 29 of the City of Perth Restructuring Act 1993, a municipality has to participate in and comply with the City of Perth scheme in respect of that employee.
+(3) Subsections (1) and (2) do not apply in respect of an employee if under section 170D, or the City of Perth Act 2016 section 23, a municipality has to participate in and comply with the City of Perth scheme in respect of that employee.
 (4) Subsections (1) and (2) apply to the City of Perth only in respect of those of its employees who are not members of the City of Perth scheme.
 (5) If, in respect of an employee for any period —
 (a) there is a chosen fund for the employee throughout the period; and
@@ -96,12 +97,13 @@ the amount that the municipality would, but for this subsection, be required und
 (ii) individual superannuation guarantee shortfall;
 and
 (b) a reference to a municipality making the minimum SG contributions for an employee for a period is a reference to the municipality making the contributions necessary for it to avoid incurring an individual superannuation guarantee shortfall in respect of the employee in respect of that period.
-[Section 170B amended in Gazette 26 May 2006 p. 1878.]
+[Section 170B amended in Gazette 26 May 2006 p. 1878; No. 2 of 2016 s. 31.]
 170C.City of Perth scheme
-(1) The City of Perth shall establish a scheme that accords with the SIS Act to provide superannuation and other benefits for its employees and their dependants and for those of its former employees (and their dependants) whose employers, by virtue of section 170D or section 29 of the City of Perth Restructuring Act 1993, are required to participate in and comply with the scheme.
+(1) The City of Perth shall establish a scheme that accords with the SIS Act to provide superannuation and other benefits for its employees and their dependants and for those of its former employees (and their dependants) whose employers, by virtue of section 170D or the City of Perth Act 2016 section 23, are required to participate in and comply with the scheme.
 (2) The City of Perth shall participate in and comply with the City of Perth scheme.
 (3) The City of Perth shall exercise such powers and discharge such obligations as are necessary to give effect to the City of Perth scheme.
 (4) A person who becomes an employee of the City of Perth shall be a member of and subject to the City of Perth scheme unless he or she elects to be a member of the industry scheme.
+[Section 170C amended by No. 2 of 2016 s. 32.]
 170D.City of Perth scheme members who become employed by a regional council
 (1) If a person —
 (a) is a member of the City of Perth scheme; and
