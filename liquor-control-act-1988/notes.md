@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Liquor Control Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 4 March 2016 of the Liquor Control Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Liquor Licensing Act 1988 | 54 of 1988 | 9 Dec 1988 | s. 1 and 2: 9 Dec 1988; Act other than s. 1 and 2: 1 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
@@ -31,7 +31,7 @@ Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 
 Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 15 | 38 of 2005 | 12 Dec 2005 | 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1078)
 Reprint 4: The Liquor Licensing Act 1988 as at 9 Jun 2006 (includes amendments listed above)
 Criminal Investigation (Consequential Provisions) Act 2006 Pt. 10 | 59 of 2006 | 16 Nov 2006 | 1 Jul 2007 (see s. 2 and Gazette 22 Jun 2007 p. 2838)
-Liquor and Gaming Legislation Amendment Act 2006 Pt. 2 | 73 of 2006 | 13 Dec 2006 | s. 6(1)(b) and (u), 67, 68 and 107: 17 Dec 2006 (see s. 2(2) and Gazette 15 Dec 2006 p. 5661); s. 3-5, 6(1)(a), (c)-(t), (v)-(z), (2)-(4), 7-26, 28-66, 69-77, 79-82, 84-106 and 108-111: 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893) s. 78 and 83: 1 Aug 2007 (see s. 2(2) and Gazette 20 Jul 2007 p. 3629); s. 27: 14 Jun 2008 (see s. 2(2) and Gazette 13 Jun 2008 p. 2515)
+Liquor and Gaming Legislation Amendment Act 2006 Pt. 2 | 73 of 2006 | 13 Dec 2006 | s. 6(1)(b) and (u), 67, 68 and 107: 17 Dec 2006 (see s. 2(2) and Gazette 15 Dec 2006 p. 5661); s. 3-5, 6(1)(a), (c)-(t), (v)-(z), (2)-(4), 7-26, 28-66, 69-77, 79-82, 84-106 and 108-111: 7 May 2007 (see s. 2(2) and Gazette 1 May 2007 p. 1893); s. 78 and 83: 1 Aug 2007 (see s. 2(2) and Gazette 20 Jul 2007 p. 3629); s. 27: 14 Jun 2008 (see s. 2(2) and Gazette 13 Jun 2008 p. 2515)
 Financial Legislation Amendment and Repeal Act 2006 s. 4 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Reprint 5: The Liquor Control Act 1988 as at 3 Jul 2007 (includes amendments listed above except those in the Liquor and Gaming Legislation Amendment Act 2006 s. 27, 78 and 83)
 Legal Profession Act 2008 s. 675 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
@@ -41,7 +41,7 @@ Reprint 6: The Liquor Control Act 1988 as at 20 Nov 2009 (includes amendments li
  | Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 31 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
  | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
- | Liquor Control Amendment Act 2010 | 56 of 2010 | 8 Dec 2010 | s. 1 and 2: 8 Dec 2010; (see s. 2(a)) s. 3, Pt. 4-6: 17 Jan 2011 (see s. 2(b) and Gazette 31 Dec 2010 p. 6887); Pt. 2: 7 Jun 2011 (see s. 2(b) and Gazette 3 Jun 2011 p. 1975); Pt. 3: 8 Oct 2011 (see s. 2(b) and Gazette 7 Oct 2011 p. 4067)
+ | Liquor Control Amendment Act 2010 | 56 of 2010 | 8 Dec 2010 | s. 1 and 2: 8 Dec 2010; (see s. 2(a)); s. 3, Pt. 4-6: 17 Jan 2011 (see s. 2(b) and Gazette 31 Dec 2010 p. 6887); Pt. 2: 7 Jun 2011 (see s. 2(b) and Gazette 3 Jun 2011 p. 1975); Pt. 3: 8 Oct 2011 (see s. 2(b) and Gazette 7 Oct 2011 p. 4067)
  | Building Act 2011 s. 165 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) and Gazette 13 Mar 2012 p. 1033)
  | Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 11 Div. 1 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
  | Statutes (Repeals and Minor Amendments) Act 2011 s. 17 and 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
@@ -50,13 +50,14 @@ Reprint 6: The Liquor Control Act 1988 as at 20 Nov 2009 (includes amendments li
  | Criminal Organisations Control Act 2012 s. 178 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
  | Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
  | Liquor Legislation Amendment Act 2015 Pt. 2 (other than s. 26) | 35 of 2015 | 2 Nov 2015 | Pt. 2 (other than s. 26): 20 Nov 2015 (see s. 2(b) and Gazette 17 Nov 2015 p. 4693)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+ | Reprint 8: The Liquor Control Act 1988 as at 4 Mar 2016 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Associations Incorporation Act 2015 s. 222 and 232 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
-The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Acts 1984 s. 7(4)(f).
+The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Repealed by the Public Sector Management Act 1994.
 Rules of the Supreme Court 1971 Order 64 was deleted in Gazette 29 Apr 2005 p. 1793.
@@ -65,12 +66,12 @@ Repealed by the Liquor Act 1970, which was repealed by this Act.
 Now known as the Liquor Control Act 1988; short title changed (see note under s. 1).
 The Courts Legislation Amendment Act 2000 s. 14 is a transitional provision that is of no further effect.
 The Liquor Licensing Amendment Act 2001 s. 5(2) and 6(2) are transitional provisions that are of no further effect.
-On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 32 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 32 had not come into operation. It reads as follows:
 32.Liquor Control Act 1988 amended
 (1) The amendment in this section is to the Liquor Control Act 1988.
 (2) After section 37(6) the following subsection is inserted —
 (7) An application shall not be granted where the licensing authority is satisfied that the premises to which the application relates are premises at or from which a sexual service business within the meaning of the Sexual Services Act 2000 section 3 operates.
-On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 222 and 232 had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Associations Incorporation Act 2015 s. 222 and 232 had not come into operation. They read as follows:
 222.Liquor Control Act 1988 amended
 (1) This section amends the Liquor Control Act 1988.
 (2) In section 37(2A) delete “incorporated under the Associations Incorporation Act 1987” and insert:
@@ -81,7 +82,7 @@ incorporated, or taken to be incorporated, under the Associations Incorporation 
 2015
 Table
 Liquor Control Act 1988 | s. 49(1)(a)(i) and (6), Sch. 2 Div. 1 cl. 1 def. of League, Sch. 2 Div. 2 cl. 1 def. of Association
-On the date as at which this compilation was prepared, the Liquor Legislation Amendment Act 2015 s. 26 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Liquor Legislation Amendment Act 2015 s. 26 had not come into operation. It reads as follows:
 26.Part 7A inserted
 After section 172A insert:
 Part 7A — Alcohol Intervention
@@ -173,10 +174,6 @@ Division 3 — Alcohol intervention sessions
 (a) the name and address of the person who has completed the AIS; and
 (b) the date of completion; and
 (c) the details of the AIR in respect of which the AIS was completed.
-222.Liquor Control Act 1988 amended
-(1) This section amends the Liquor Control Act 1988.
-(2) In section 37(2A) delete “incorporated under the Associations Incorporation Act 1987” and insert:
-incorporated, or taken to be incorporated, under the Associations Incorporation Act 2015
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -185,7 +182,7 @@ ActSch. 1 cl. 1(1)
 alleged offence167(1)
 alleged offender167(1)
 applicable day65A(1)
-applicant152N, Sch. 1B cl. 4(1)
+applicant152N, Sch. 1B cl. 4(1)(a)
 application152W(1), Sch. 1 cl. 1(1)
 appointed daySch. 1 cl. 1(1)
 approved manager102A, Sch. 1B cl. 1
@@ -202,9 +199,10 @@ casino complex3(1)
 casino complex agreement3(1)
 casino gaming licence3(1)
 casino liquor licence3(1)
+cellar door permit3(1), 61A(1)
 chairperson3(1)
 closing time3(1)
-club49(1), Sch. 2 cl. 1, Sch. 2 cl. 1
+club49(1), Sch. 2 cl. 1(a)
 club licence3(1)
 club restricted licence3(1)
 commencement daySch. 1A cl. 1, Sch. 1B cl. 1
@@ -229,10 +227,12 @@ drunk3(1), 3A(1)
 employed152A
 employee3(7), 165(4)
 Executive Director69(8b)
+Executive Director, Public Health3(1)
 extended trading permit3(1)
 former ActSch. 1A cl. 1
 function3(1)
 Gaming and Wagering Commission3(1)
+geographical indication61A(1)
 gross turnover3(1)
 guest3(1)
 host club48(5)
@@ -299,6 +299,7 @@ public event110(4B)
 reception3(1)
 reception area3(1)
 record3(1)
+Register103AA(1)
 regulated premises3(1)
 related body corporate3(1)
 relative3(1)
@@ -308,6 +309,7 @@ relevant period57(1), 93(1a)
 relevant person152A
 removal3(1)
 repealed ActSch. 1 cl. 1(1)
+required day62(4)
 responsible person3(1)
 restaurant3(1)
 restaurant licence3(1)
@@ -330,7 +332,6 @@ subsidy3(1)
 substance3(1)
 tavern licence3(1)
 tavern restricted licence3(1)
-the required day62(4)
 this Act3(1)
 townsite3(1)
 transitional regulationsSch. 1A cl. 10(1)
@@ -340,3 +341,4 @@ vehicle3(1)
 wholesaler129
 wholesaler’s licence3(1)
 wine3(1)
+wine producing region61A(1)
