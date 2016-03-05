@@ -12,7 +12,8 @@ Item | Description | Fee $
 7. | Application for extended trading permit for a period of over 21 days —
  | (a)issued for the purpose referred to in section 60(4)(ca) — (i)if regulation 9F(2) applies (ii)if regulation 9F(2) does not apply | 53 461
  | (b)issued for the purpose referred to in section 60(4)(e) (c)issued for the purpose referred to in section 60(4)(h) | 345 345
- | (d)issued for any other purpose | 1 156
+ | (d)issued for the purpose referred to in section 60(4)(ia) — (i)if no previous application for that purpose has been made by any licensee in respect of the relevant premises (ii)if subparagraph (i) does not apply | 345 290
+ | (e)issued for any other purpose | 1 156
 8. | Application for extended trading permit (in respect of a licence other than a club restricted licence) for a period of 21 days or less if the anticipated number of patrons is —
  | (a)up to 500 | 109
  | (b)between 501 and 1 000 | 224
@@ -70,4 +71,4 @@ Item | Description | Fee $
  | (a)1 to 10 postcodes | 35
  | (b)more than 10 postcodes | 77
 34. | For each person who is a party to an application under the Act and in relation to whom a background check is sought from the Police Service | 148
-[Schedule 3 inserted in Gazette 16 Nov 2012 p. 5653-6; amended in Gazette 31 May 2013 p. 2119; 8 Nov 2013 p. 4978-80; 14 Nov 2014 p. 4284-6; 6 Nov 2015 p. 4585-7.]
+[Schedule 3 inserted in Gazette 16 Nov 2012 p. 5653-6; amended in Gazette 31 May 2013 p. 2119; 8 Nov 2013 p. 4978-80; 14 Nov 2014 p. 4284-6; 6 Nov 2015 p. 4585-7; 4 Mar 2016 p. 630.]
