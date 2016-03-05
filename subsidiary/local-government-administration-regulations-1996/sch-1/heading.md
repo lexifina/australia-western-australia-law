@@ -95,33 +95,3 @@ Trusts in which the relevant person holds a beneficial interest
 Name of trust | Name and address of settlor | Name and address of trustee
 Discretionary trusts of which the relevant person is a trustee or an object
 Name of trust | Name and address of settlor | Name and address of trustee
-4.Gifts
-Section 5.82 of the Act
-Description of gift | Value of gift | Name and address of giver
-5.Contributions to travel
-Section 5.83 of the Act
-Description of contribution | Value of contribution | Name and address of contributor
-6.Interests and positions in corporations
-Section 5.84 of the Act
-Name and address of corporation | Nature of interest/ position held | Principal business (if required)
-7.Debts
-Section 5.85 of the Act
-Name of lender/creditor | Address of lender/creditor
-8.Disposition of property
-Section 5.86 of the Act
-(a)section 5.86(1)
-Address of property | Manner of disposition | Date of disposition | Nature of interest retained
-(b)section 5.86(2)
-Address of property | Person by whom property disposed | Person to whom property disposed | Manner of disposition | Date of disposition | Nature of interest obtained
-9.Discretionary disclosures
-Section 5.87 of the Act
-................................................................................................................................
-................................................................................................................................
-................................................................................................................................
-................................................................................................................................
-................................................................................................................................
-................................................................................................................................
-................................................................................................................................
-................................................................................................................................
-Signature ............................................................. Date .........................................
-[Form 3 amended in Gazette 20 Nov 2009 p. 4661.]
