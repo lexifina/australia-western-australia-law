@@ -27,4 +27,4 @@ r. 25(2) | Littering Riverpark | $200
 r. 25(3) | Breaking glass, metal or earthenware in Riverpark | $200
 r. 26(2) | Organising or holding spectator event in River reserve without permit | $200
 r. 31(3) | Contravening condition or restriction imposed on permit | $200
-[Schedule 1 amended in Gazette 28 Aug 2012 p. 4139-40; 19 Jun 2015 p. 2099.]
+[Schedule 1 amended: Gazette 28 Aug 2012 p. 4139-40; 19 Jun 2015 p. 2099.]
