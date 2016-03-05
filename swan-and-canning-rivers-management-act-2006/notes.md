@@ -4,7 +4,7 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Swan and Canning Rivers Management Act 2006 | 51 of 2006 | 6 Oct 2006 | s. 1 and 2: 6 Oct 2006; Act other than s. 1 and 2: 25 Sep 2007 (see s. 2 and Gazette 25 Sep 2007 p. 4835)
 Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 165 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
-Swan and Canning Rivers Management Regulations 2007 r. 45 published in Gazette 25 Sep 2007 p. 4787-831 (as amended in Gazette 27 Jun 2014 p. 2328) | 25 Sep 2007 (see note under r. 1 and Gazette 25 Sep 2007 p. 4835)
+Swan and Canning Rivers Management Regulations 2007 r. 45 published in Gazette 25 Sep 2007 p. 4787-831 (as amended in Gazette 27 Jun 2014 p. 2328; 4 Mar 2016 p. 625-6) | 25 Sep 2007 (see note under r. 1 and Gazette 25 Sep 2007 p. 4835)
 Reprint 1: The Swan and Canning Rivers Management Act 2006 as at 6 Mar 2009 (includes amendments listed above except those in Gazette 27 Jun 2014 p. 2328)
 Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009 | 4 Dec 2009 (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
