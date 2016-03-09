@@ -25,6 +25,7 @@ Reprint 3: The Racing and Wagering Western Australia Regulations 2003 as at 9 Au
 Racing and Wagering Western Australia Amendment Regulations (No. 2) 2013 | 8 Nov 2013 p. 4980-1 | r. 1 and 2: 8 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see. r. 2(b))
 Racing and Wagering Western Australia Amendment Regulations (No. 2) 2014 | 14 Nov 2014 p. 4287 | r. 1 and 2: 14 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2015 (see r. 2(b))
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2015 Pt. 7 | 6 Nov 2015 p. 4581-8 | 1 Jan 2016 (see. r. 2(b))
+Racing and Wagering Western Australia Amendment Regulations (No. 2) 2016 | 8 Mar 2016 p. 668 | r. 1 and 2: 8 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Mar 2016 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
