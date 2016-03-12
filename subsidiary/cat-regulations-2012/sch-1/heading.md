@@ -214,32 +214,31 @@ Form 5 — Warrant to enter, search and seize
 Cat Act 2011 s. 58
 [r. 26]
 THIS IS A WARRANT authorising an authorised person under the Cat Act 2011 to enter and search —
-Place_____________________________________________________
-Date_____________________________________________________ (this can include a period of time)
-Time_____________________________________________________ (specific hours or at any time)
+Place_______________________________________________
+Date_______________________________________________ (this can include a period of time)
+Time_______________________________________________ (specific hours or at any time)
 and to seize —
-qany cats
-qany of the following types of cat —
-_____________________________________________________
-_____________________________________________________
-qany cats in the following circumstances —
-_____________________________________________________
-_____________________________________________________
-qany items that may afford evidence of the commission of an offence under the Cat Act 2011.
+£any cats
+£any of the following types of cat —
+_________________________________________________
+_________________________________________________
+£any cats in the following circumstances —
+_________________________________________________
+_________________________________________________
+£any items that may afford evidence of the commission of an offence under the Cat Act 2011.
 THIS WARRANT CEASES to have effect —
-Date_____________________________________________________
-Time_____________________________________________________
-I, _______________________________ Justice of the Peace of ____________
-_____________________________________________________ am satisfied,
-by an application supported by evidence on oath, that —
-qthere are reasonable grounds for suspecting that there is, at the placesomething that may afford evidence of the commission of an offence under the Cat Act 2011;
+Date_______________________________________________
+Time_______________________________________________
+I, a justice of the peace, am satisfied, by an application supported by evidence on oath, that —
+£there are reasonable grounds for suspecting that there is, at the place something that may afford evidence of the commission of an offence under the Cat Act 2011;
 OR
-qentry onto the place is reasonably required to investigate a suspected offence against the Cat Act 2011;
+£entry onto the place is reasonably required to investigate a suspected offence against the Cat Act 2011;
 OR
-qthere are reasonable grounds for suspecting that an offence under the Cat Act 2011 is likely to be committed in respect of the cat if it is not seized.
+£there are reasonable grounds for suspecting that an offence under the Cat Act 2011 is likely to be committed in respect of the cat if it is not seized.
 I authorise __________________________, an authorised person under Part 4 Division 3 of the Cat Act 2011, to exercise the entry, search and seizure powers set out in that Act in relation to the premises set out in this warrant, with such assistance, and using such force, as is reasonably necessary during the time referred to in this warrant.
-Signed ___________________________ (Justice of the Peace)
-Dated ____________________________
+Signed_____________________________ (Justice of the Peace)
+Dated____________________________
+[Form 5 inserted in Gazette 11 Mar 2016 p. 687-8.]
 Form 6 — Infringement notice
 [r. 27]
 Cat Act 2011 Infringement notice | Infringement notice no.
