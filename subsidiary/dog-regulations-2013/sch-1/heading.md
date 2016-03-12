@@ -58,27 +58,20 @@ Form 3
 [r. 15]
 Dog Act 1976 s. 12A(3) and 29(5a)
 Warrant to enter and inspect premises or to seize and detain attack dog or pups of dangerous dog (restricted breed)
-I, (1) __________________________________________________________
-of (2) __________________________________________________________
-in the State of Western Australia, Justice of the Peace, being satisfied that there are reasonable grounds for doing so, issue this warrant under the Dog Act 1976 section 12A(3) for ________________ (5), a person authorised to exercise powers mentioned in section 12A(2) and all police officers, to enter and inspect premises at ___________________________ (6) for the purpose of ____________________________________________ (relating to the enforcement of the Act).
+I, a justice of the peace, being satisfied that there are reasonable grounds for doing so, issue this warrant under the Dog Act 1976 section 12A(3) for ________________ (1), a person authorised to exercise powers mentioned in section 12A(2) and all police officers, to enter and inspect premises at ___________________________ (2) for the purpose of _______________________________________ (relating to the enforcement of the Act).
 OR
-I, (1) __________________________________________________________
-of (2) __________________________________________________________
-in the State of Western Australia, Justice of the Peace, being satisfied that on the balance of probabilities that an attack by a dog (3) ___________has or may have caused injury or damage to _________ (4), issue this warrant under the Dog Act 1976 section 29(5a) for ________________ (5), a person authorised to exercise powers mentioned in section 29(5a) and all police officers, to seize and detain the dog. By issuing this warrant the authorised person may, under Dog Act 1976 section 29(5a)(b), enter any premises if the person has reasonable grounds to believe that it is necessary to do so for the purpose of seizing the dog.
+I, a justice of the peace, being satisfied that on the balance of probabilities that an attack by a dog (3) ___________has or may have caused injury or damage to _________ (4), issue this warrant under the Dog Act 1976 section 29(5a) for ________________ (1), a person authorised to exercise powers mentioned in section 29(5a) and all police officers, to seize and detain the dog. By issuing this warrant the authorised person may, under the Dog Act 1976 section 29(5a)(b), enter any premises if the person has reasonable grounds to believe that it is necessary to do so for the purpose of seizing the dog.
 OR
-I, (1) __________________________________________________________
-of (2) __________________________________________________________
-in the State of Western Australia, Justice of the Peace, being satisfied that on the balance of probabilities that a dangerous dog (restricted breed) has given birth to one or more pups, issue this warrant under the Dog Act 1976 section 29(5a) for ______________ (5), a person authorised to exercise powers mentioned in section 29(5a) and all police officers, to seize and detain each pup. By issuing this warrant the authorised person may, under Dog Act 1976 section 29(5b)(b), enter any premises if the person has reasonable grounds to believe that it is necessary to do so for the purpose of seizing the pups.
+I, a justice of the peace, being satisfied that on the balance of probabilities that a dangerous dog (restricted breed) has given birth to one or more pups, issue this warrant under the Dog Act 1976 section 29(5a) for ______________ (1), a person authorised to exercise powers mentioned in section 29(5a) and all police officers, to seize and detain each pup. By issuing this warrant the authorised person may, under the Dog Act 1976 section 29(5b)(b), enter any premises if the person has reasonable grounds to believe that it is necessary to do so for the purpose of seizing the pups.
 Signed _____________________________
 Justice of the Peace
 Dated ______________________________
 Insert:
-(1)name of Justice of the Peace;
-(2)address of Justice of the Peace;
+(1)name of person to whom warrant is issued;
+(2)address or description of premises;
 (3)description of dog;
-(4)name or description of person attacked;
-(5)name of person to whom warrant is issued;
-(6)address or description of premises.
+(4)name or description of person attacked.
+[Form 3 inserted in Gazette 11 Mar 2016 p. 689-90.]
 Form 4
 [r. 20, 22 and 23]
 Application/information form

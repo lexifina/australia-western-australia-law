@@ -4,6 +4,7 @@ Compilation table
 Citation | Gazettal | Commencement
 Dog Regulations 2013 | 31 Oct 2013 p. 4831-78 | r. 1 and 2: 31 Oct 2013 (see r. 2(a)); Regulations other than r. 1, 2 and 4: 1 Nov 2013 (see r. 2(c)); r. 4: 8 Nov 2013 (see r. 2(b))
 Dog Amendment Regulations 2014 | 20 May 2014 p. 1602-6 | r. 1 and 2: 20 May 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 21 May 2014 (see r. 2(b))
+Dog Amendment Regulations 2016 | 11 Mar 2016 p. 688-90 | r. 1 and 2: 11 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Mar 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
