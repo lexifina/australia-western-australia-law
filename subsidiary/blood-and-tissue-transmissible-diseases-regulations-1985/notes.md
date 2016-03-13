@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 November 2014 of the Blood and Tissue (Transmissible Diseases) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Blood and Tissue (Transmissible Diseases) Regulations 1985 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Blood and Tissue (Transmissible Diseases) Regulations 1985 | 8 Feb 1985 p. 517-19 | 8 Feb 1985
@@ -13,6 +13,7 @@ Blood and Tissue (Transmissible Diseases) Amendment Regulations 2011 | 1 Apr 201
 Blood and Tissue (Transmissible Diseases) Amendment Regulations 2012 | 22 May 2012 p. 2163-6 | r. 1 and 2: 22 May 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2012 (see r. 2(b))
 Blood and Tissue (Transmissible Diseases) Amendment Regulations 2014 | 6 Jun 2014 p. 1788-9 | r. 1 and 2: 6 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Jul 2014 (see r. 2(b))
 Reprint 2: The Blood and Tissue (Transmissible Diseases) Regulations 1985 as at 14 Nov 2014 (includes amendments listed above)
+Blood and Tissue (Transmissible Diseases) Amendment Regulations 2016 | 11 Mar 2016 p. 681-2 | r. 1 and 2: 11 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Mar 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
