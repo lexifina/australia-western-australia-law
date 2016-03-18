@@ -15,9 +15,9 @@ Victoria . . . . . . . . . . . . . . . . . . . . . | 136,949,942
 Queensland . . . . . . . . . . . . . . . . . . | 101,977,855
 South Australia . . . . . . . . . . . . . . . | 84,834,364
 Western Australia . . . . . . . . . . . . . | 61,060,675
-Tasmania . . . . . . . . . . . . . . . . . . . . | 22,434,060 -----------------
+Tasmania . . . . . . . . . . . . . . . . . . . . | 22,434,060 –—————
  | £641,345,397
- | -----------------
+ | –—————
 The said amount of the net public debt of each State includes the debts of that State secured by —
 (i)Inscribed Stock, including Local Inscribed Stock and Government Inscribed Stock;
 (ii)Instalment Stock;
@@ -36,10 +36,10 @@ Queensland . . . . . . . . . . . . . . . . . . | 16,082,583
 South Australia . . . . . . . . . . . . . . . | 18,446,197
 Western Australia . . . . . . . . . . . . . | 16,739,872
 Tasmania . . . . . . . . . . . . . . . . . . . . | 3,948,613
- | -----------------
+ | –—————
  | £91,459,232
- | -----------------
-after deducting therefrom the amount for which the Commonwealth by this agreement assumes liability under Part III., Clause 4, of this Agreement and the amount of any moneys or securities standing to the credit of a sinking fund, redemption fund, or a fund of a like nature of the State as on 30th June, 1927, and does not include any moneys raised by the State by way of overdraft, fixed deposit, or special deposit for temporary purposes only.
+ | –—————
+after deducting therefrom the amount for which the Commonwealth by this Agreement assumes liability under Part III., Clause 4, of this Agreement and the amount of any moneys or securities standing to the credit of a sinking fund, redemption fund, or a fund of a like nature of the State as on 30th June, 1927, and does not include any moneys raised by the State by way of overdraft, fixed deposit, or special deposit for temporary purposes only.
 The said sum of £234,088,501 (being the amount of debt of New South Wales above-mentioned) comprises the debts referred to in, and has been computed in the manner shown in the Statement signed by representatives of the Commonwealth and of New South Wales.
 “Gross Public Debt of a State existing on 30th June, 1927,” means in respect of each State the amount of debt set forth hereunder opposite the name of that State, viz.: —
  | £
@@ -49,9 +49,9 @@ Queensland . . . . . . . . . . . . . . . . . . | 105,259,916
 South Australia . . . . . . . . . . . . . . . | 87,614,005
 Western Australia . . . . . . . . . . . . . | 70,705,913
 Tasmania . . . . . . . . . . . . . . . . . . . . | 24,254,688
- | -----------------
+ | –—————
  | £672,120,415
- | -----------------
+ | –—————
 The said amount of the gross public debt of each State includes the net public debt of that State together with the amount for which the Commonwealth by this Agreement assumes liability under Part III., Clause (4), of this Agreement and the amount of any moneys or securities standing to the credit of any sinking fund redemption fund or fund of a like nature of the State as on 30th June, 1927.
 “Transferred Properties” means the properties mentioned or specified in the Schedule of Transferred Properties signed by representatives of the Commonwealth and the States as revised to the 30th June, 1927, being properties which became vested in the Commonwealth pursuant to Section 85(i) of the Constitution of the Commonwealth.
 “The Loan Council” means the Australian Loan Council created in pursuance of this Agreement.
@@ -89,8 +89,8 @@ On every question for decision by the Loan Council the member representing the C
 (o)In this clause the expressions “Prime Minister” and “Premier” include the persons for the time being respectively acting as such.
 4. — FUTURE BORROWINGS OF COMMONWEALTH AND STATES.
 (a)Except in cases where the Loan Council has decided under Subclause (b) of this clause that moneys shall be borrowed by a State, the Commonwealth, while Part II. or Part III. of this Agreement is in force, shall, subject to the decisions of the Loan Council and subject also to Clauses 5 and 6 of this Part of this Agreement, arrange for all borrowings for or on behalf of the Commonwealth or any State, and for all conversions, renewals, redemptions, and consolidations of the Public Debts of the Commonwealth and of the States.
-(b)If at any time the Loan Council by unanimous decision so decides a State may in accordance with the terms of the decision borrow moneys outside Australia in the name of the State and issue securities for the moneys so borrowed. The Commonwealth shall guarantee that the State will perform all its obligations to bond holders in respect of the moneys so borrowed. For all the purposes of this Agreement, including the making of sinking fund contributions, the moneys so borrowed shall be deemed to be moneys borrowed by the Commonwealth for and on behalf of that State.
-(c)If any State after the 30th June, 1927, and before this Agreement has been approved by the Parliaments of the Commonwealth and of the States has borrowed moneys in the name of the State and issued securities for the moneys so borrowed, such moneys shall for all the purposes of this Agreement, including the making of sinking fund contributions, be deemed to be moneys borrowed by the Commonwealth for and on behalf of that State.
+(b)If at any time the Loan Council by unanimous decision so decides a State may in accordance with the terms of the decision borrow moneys outside Australia in the name of the State, and issue securities for the moneys so borrowed. The Commonwealth shall guarantee that the State will perform all its obligations to bond holders in respect of the moneys so borrowed. For all the purposes of this Agreement, including the making of sinking fund contributions, the moneys so borrowed shall be deemed to be moneys borrowed by the Commonwealth for and on behalf of that State.
+(c)If any State after the 30th June, 1927, and before this Agreement has been approved by the Parliaments of the Commonwealth and of the States, has borrowed moneys in the name of the State and issued securities for the moneys so borrowed, such moneys shall for all the purposes of this Agreement, including the making of sinking fund contributions, be deemed to be moneys borrowed by the Commonwealth for and on behalf of that State.
 (d)While Part II. and Part III. of this Agreement is in force moneys shall not be borrowed by the Commonwealth or any State otherwise than in accordance with this Agreement.
 5. — BORROWING BY STATES.
 For any purpose (including the redemption of securities given or issued at any time for moneys previously borrowed or used in manner stated in this clause) a State may, while Part II. or Part III. of this Agreement is in force —
@@ -102,7 +102,7 @@ Where any such borrowing or use is not solely for temporary purposes, and Common
 If the moneys deemed under this clause to be moneys borrowed by the Commonwealth on behalf of the State, together with the amounts raised by the Commonwealth for and on behalf of the State exceed the total amount of loan moneys decided upon by the Loan Council as the moneys to be raised for and on behalf of the State for the financial year in which the money is deemed to be borrowed, the excess shall, unless the Loan Council otherwise decides, be deemed to be moneys received by the State in the following year on account of its loan programme for that year.
 For the purposes of this clause counter sales of securities shall be deemed to mean sales of securities made at the offices of the State Treasury, and at such other places as may be decided upon by the Loan Council.
 The Commonwealth shall not be under any obligation to make sinking fund contributions in respect of moneys borrowed or used pursuant to this clause to meet a revenue deficit of a State, but the provisions of Clause 4(d) of Part II. and of Clause 3(j) of Part III. of this Agreement shall apply respectively to all moneys borrowed or used for that purpose.
-Except in cases where the Loan Council has otherwise decided under sub-clause (b) of clause 4 of Part I. of this Agreement a State shall not have the right to invite loan subscriptions by the issue of public prospectus.
+Except in cases where the Loan Council has otherwise decided under sub-clause (b) of clause 4 of Part I. of this Agreement a State shall not have the right to invite loan subscriptions by the issue of a public prospectus.
 Notwithstanding anything contained in this Agreement, any State may use for temporary purposes any public moneys of the State which are available under the laws of the State, or may, subject to maximum limits (if any) decided upon by the Loan Council from time to time for interest, brokerage, discount, and other charges, borrow money for temporary purposes by way of overdraft, or fixed, special, or other deposit, and the provisions of this Agreement other than this paragraph shall not apply to such moneys.
 6. — BORROWING BY COMMONWEALTH.
 For any purpose (including the redemption of securities given or issued at any time for moneys previously borrowed or used in manner stated in this clause) the Commonwealth may, while Part II. or Part III. of this Agreement is in force —
@@ -130,9 +130,9 @@ Queensland . . . . . . . . . . . . . . . . . . . . . | 1,096,235
 South Australia . . . . . . . . . . . . . . . . . . | 703,816
 Western Australia . . . . . . . . . . . . . . . . | 473,432
 Tasmania . . . . . . . . . . . . . . . . . . . . . . . | 266,859
- | --------------
+ | —————
  | £7,584,912
- | --------------
+ | —————
 Each State shall apply the amount so paid to it towards payment of interest due by that State on the Public Debt of that State. All amounts paid by the Commonwealth to a State in pursuance of Section 6 of the State Grants Act 1927, of the Commonwealth shall be deemed to be payments to that State under this clause.
 3. — TRANSFERRED PROPERTIES.
 The Commonwealth will in each of the said two years pay to each State interest at the rate of 5 per centum per annum on the agreed value of transferred properties in the State, such value being in the case of each State as follows: —
@@ -143,9 +143,9 @@ Queensland . . . . . . . . . . . . . . . . . . . . . | 1,560,639
 South Australia . . . . . . . . . . . . . . . . . . | 1,035,631
 Western Australia . . . . . . . . . . . . . . . . | 736,432
 Tasmania . . . . . . . . . . . . . . . . . . . . . . . | 500,754
- | ---------------
+ | —————
 Total . . . . . . . . . . . . . | £10,924,323
- | ---------------
+ | —————
 4. — SINKING FUNDS.
 (a)In each of the said two years the Commonwealth will pay from revenue a sinking fund contribution at the rate of 2s. 6d. per annum for each £100 of the Net public debts of the States existing on 30th June, 1927, and each State (other than the State of New South Wales) will pay from revenue a sinking fund contribution at the rate of 5s. per annum for each £100 of the net public debt of that State existing on 30th June, 1927. The State of New South Wales will in the financial year commencing 1st July, 1928, pay from revenue a sinking fund contribution at the rate of 5s. for each £100 of the net public debt of that State existing on 30th June, 1927.
 (b)Where in respect of any debt included in the gross public debt of a State existing on 30th June, 1927, there is under laws or contracts existing at that date an obligation to provide a sinking fund at a rate in excess of 7s. 6d. per annum for each £100, any amount to be so provided in excess of the rate of 7s. 6d. per annum for each £100 shall be provided out of the National Debt Sinking Fund established under the laws of the Commonwealth. Provided that if any law imposing such an obligation is repealed or is amended so as to reduce the rate of sinking fund to be provided, the only amount (if any) to be provided out of the National Debt Sinking Fund pursuant to this subclause in respect of that debt shall, as from the date of such repeal or amendment, be the amount (if any) by which the reduced rate of sinking fund for the time being exceeds 7s. 6d. per annum for each £100.
@@ -153,13 +153,13 @@ Total . . . . . . . . . . . . . | £10,924,323
 (d)In respect of any loan raised after 30th June, 1927, by a State or by the Commonwealth for and on behalf of a State to meet a revenue deficit accruing after that date no sinking fund contribution shall be payable by the Commonwealth, but that State shall pay from revenue a sinking fund contribution at a rate of not less than 4 per centum per annum on the amount of that loan.
 (e)Where loan moneys have been advanced by a State under terms providing for the repayment of such moneys, the State shall as and when such moneys are repaid pay such moneys either to the State Loan Fund or to the account or fund from which such moneys were advanced, and shall in addition, make from revenue its sinking fund contributions in respect of the loan or loans from which the moneys so advanced were provided. Provided that when loan moneys have been advanced by a State to a public or local authority or body constituted by the State, or under the laws of the State, and the authority or body repays such moneys out of its revenue, the State may out of moneys so repaid make its sinking fund contributions in respect of the loan moneys so advanced.
 (f)All sinking fund contributions to be made in pursuance of this Part of this Agreement shall be paid to the National Debt Commission constituted under the National Debt Sinking Fund Act 1923-25, of the Commonwealth (herein called the National Debt Commission) as follows: —
-(i)As regards the net public debt of a State existing on 30th June, 1927 — by half-yearly instalments on 30th September and 31st March in each financial year, or on such other dates as may be agreed between the Commonwealth and the State;
+(i)as regards the net public debt of a State existing on 30th June, 1927 — by half-yearly instalments on 30th September and 31st March in each financial year, or on such other dates as may be agreed between the Commonwealth and the State;
 (ii)as regards loans raised after 30th June, 1927 — by equal instalments on the dates on which interest on such loans is payable or on such other dates as may be agreed upon between the Commonwealth and the State concerned.
 (g)Where the conditions relating to sinking funds, redemption funds, and funds of a like nature require payments to be made to trustees, the National Debt Commission will either directly or through any State concerned, make the necessary payments to those trustees.
-(h)The sinking fund contributions made under this Part of this Agreement in respect of the Public Debt of a State (other than constributions paid or to be paid to trustees under the last preceding sub-clause hereof) shall so far as the same will suffice be applied in the repurchase or redemption of the Public Debt of that State and in the event of the proposed law for the alteration of the constitution referred to in Part IV. of this Agreement not becoming law, and of this Agreement not being validated thereunder on or before the 30th June, 1929, all State securities repurchased or redeemed as aforesaid shall be cancelled with the exception of securities the market value of which represents the amount of money provided in excess of the rate of 7s. 6d. per annum for each £100 under paragraph (b) of this clause, which latter securities shall be retained by and belong to the National Debt Commission.
+(h)The sinking fund contributions made under this Part of this Agreement in respect of the Public Debt of a State (other than constributions paid or to be paid to trustees under the last preceding sub-clause hereof) shall so far as the same will suffice be applied in the repurchase or redemption of the Public Debt of that State and in the event of the proposed law for the alteration of the Constitution referred to in Part IV. of this Agreement not becoming law, and of this Agreement not being validated thereunder on or before the 30th June, 1929, all State securities repurchased or redeemed as aforesaid shall be cancelled with the exception of securities the market value of which represents the amount of money provided in excess of the rate of 7s. 6d. per annum for each £100 under paragraph (b) of this clause, which latter securities shall be retained by and belong to the National Debt Commission.
 PART III.
-This Part of this Agreement shall not come into force or be binding upon any party hereto unless before the 1st July, 1929, the constitution of the Commonwealth has been altered in accordance with the proposals referred to in Part IV. of this Agreement, and a law of the Parliament of the Commonwealth has been made thereunder validating this Agreement, but shall come into full force and effect if, and when, before the said date the Constitution is so altered and this Agreement is so validated.
-When this Part of this Agreement comes into force every matter or thing done and payment made under or in pursuance of Part II. of this Agreement shall be deemed, so far as is practicable, to have been done or made under this Part of this Agreement to the same extend as if this Part had then in fact been in force, and all necessary adjustments shall be made in respect of moneys so paid in order to ensure that no party hereto shall be liable for or make double payments in respect of the same matter.
+This Part of this Agreement shall not come into force or be binding upon any party hereto unless before the 1st July, 1929, the Constitution of the Commonwealth has been altered in accordance with the proposals referred to in Part IV. of this Agreement, and a law of the Parliament of the Commonwealth has been made thereunder validating this Agreement, but shall come into full force and effect if, and when, before the said date the Constitution is so altered and this Agreement is so validated.
+When this Part of this Agreement comes into force every matter or thing done and payment made under or in pursuance of Part II. of this Agreement shall be deemed, so far as is practicable, to have been done or made under this Part of this Agreement to the same extent as if this Part had then in fact been in force, and all necessary adjustments shall be made in respect of moneys so paid in order to ensure that no party hereto shall be liable for or make double payments in respect of the same matter.
 PERMANENT PROVISIONS.
 1. — TAKING OVER STATES’ PUBLIC DEBTS.
 Subject to the provisions of this part of this Agreement the Commonwealth will take over on the 1st July, 1929: —
@@ -176,9 +176,9 @@ Queensland . . . . . . . . . . . . . . . . . . . . . | 1,096,235
 South Australia . . . . . . . . . . . . . . . . . . | 703,816
 Western Australia . . . . . . . . . . . . . . . . | 473,432
 Tasmania . . . . . . . . . . . . . . . . . . . . . . . | 266,859
- | -------------
+ | –————
  | £7,584,912
- | -------------
+ | –————
 (c)Each State shall in each year during the same period of 58 years pay to the Commonwealth the excess over the amounts to be provided by the Commonwealth under the last preceding subclause necessary to make up as they fall due the interest charges falling due in that year on the public debt of that State taken over by the Commonwealth as aforesaid and then unpaid, and on any moneys borrowed by the Commonwealth on behalf of that State and then unpaid, and after the expiration of the said period each State shall in each year pay to the Commonwealth, as they fall due, the whole of the interest charges on any debt then unpaid and included in the public debt of that State taken over by the Commonwealth as aforesaid, and on any moneys borrowed by the Commonwealth on behalf of that State and then unpaid.
 (d)The method by which payments shall be made by a State under Subclause (c) of this clause shall be arranged from time to time between the Commonwealth and that State.
 (e)The rate of interest payable under Subclause (c) of this clause in respect of moneys borrowed by the Commonwealth on behalf of a State shall be the full rate of interest payable by the Commonwealth in respect of the loan by which such moneys were borrowed or such other rate of interest as may be payable by the State to the Commonwealth under any Agreement made or to be made between the Commonwealth and that State in respect of such moneys and such interest shall be payable by the State for the full term of that loan.
@@ -197,8 +197,8 @@ Provided that the period of fifty-three years during which the State of New Sout
 (k)All sinking fund contributions to be made in pursuance of this part of this Agreement shall be debts payable to the National Debt Commission as follows: —
 (i)As regards the net public debt of a State existing on 30th June, 1927 — by half-yearly instalments on 30th September and 31st March in each financial year or on such other dates as may be agreed between the Commonwealth and that State.
 (ii)As regards loans raised after 30th June, 1927 — by equal instalments on the dates on which interest on such loans is payable or on such other dates as may be agreed upon between the Commonwealth and the State concerned.
-(l)Subject to the next succeeding sub-clause all moneys and securities standing to the credit of sinking funds, redemption funds and funds of a like nature of a State existing on 30th June, 1929, shall forthwith be transferred by the States to the National Debt Commission. Nothing in this subclause contained shall be deemed to limit the power of a State to cancel before 30th June, 1929, any such securities.
-(m)Where the conditions relating to sinking funds, redemption funds, and funds of a like nature as aforesaid held by a State on trust or by trustees under statutory or contractual obligations preclude the transfer of those funds to the National Debt Commission, such funds shall remain under the control of the State or those trustees, and the National Debt Commission will either directly or through the State concerned make all future payments to the State or to those Trustees from the sinking fund.
+(l)Subject to the next succeeding sub-clause all moneys and securities standing to the credit of sinking funds, redemption funds and funds of a like nature of a State existing on 30th June, 1929, shall forthwith be transferred by the States to the National Debt Commission. Nothing in this sub-clause contained shall be deemed to limit the power of a State to cancel before 30th June, 1929, any such securities.
+(m)Where the conditions relating to sinking funds, redemption funds, and funds of a like nature as aforesaid held by a State on trust or by trustees under statutory or contractual obligations preclude the transfer of those funds to the National Debt Commission, such funds shall remain under the control of the State or those trustees, and the National Debt Commission will either directly or through the State concerned make all future payments to the State or to those trustees from the sinking fund.
 (n)The sinking funds to be established under this Agreement shall be controlled by the National Debt Commission. The National Debt Commission may arrange with any State to act as its agent in connection with payments due to bondholders.
 (o)Sinking fund contributions made under this Agreement in respect of the debts of a State, and funds of that State transferred to the National Debt Commission under sub-clause (l) of the clause will not be accumulated, but (subject to sub-clauses (m) and (p) of this clause) will be applied to the redemption of the public debts of that State and of loans raised by the Commonwealth for and on behalf of that State, or to the purchase of securities issued in respect thereof.
 (p)If at any time it is deemed inexpedient by the National Debt Commission to apply sinking funds in the manner set forth in sub-clause (o) of this clause, such funds may be temporarily invested in any securities in which the National Debt Commission is from time to time by law authorised to invest moneys.
@@ -218,11 +218,11 @@ Queensland . . . . . . . . . . . . . . . . . . . . . | 1,560,639
 South Australia . . . . . . . . . . . . . . . . . . | 1,035,631
 Western Australia . . . . . . . . . . . . . . . . | 736,432
 Tasmania . . . . . . . . . . . . . . . . . . . . . . . | 500,754
- | ---------------
+ | —————
 Total . . . . . . . . . . . . . | £10,924,323
- | ---------------
+ | —————
 The particular portion of the public debt of each State in respect of which the States shall become free and discharged from liability shall be determined by the Commonwealth.
-Each State will issue to the Commonwealth freehold titles (or, if the laws of any State do not permit of the issue of freehold titles, then titles as near to freehold as the laws of that State will permit) for transferred properties consisting of land or interest in land in that State, and all liability of the Commonwealth to the State in respect of transferred properties shall as from 1st July, 1929, be extinguished.
+Each State will issue to the Commonwealth freehold titles (or, if the laws of any State do not permit of the issue of freehold titles, then titles as near to freehold as the laws of that State will permit) for transferred properties consisting of land or interest in land in that State, and all liability of the Commonwealth to the State in respect of transferred properties shall as from the 1st July, 1929, be extinguished.
 The provisions of clauses 2 and 3 of this Part of this Agreement shall not apply to the said amount of £10,924,323.
 PART IV. — MISCELLANEOUS.
 1. — EXPENSES OF LOAN FLOTATION.
@@ -250,7 +250,7 @@ The Commonwealth will take the necessary action to submit to the Parliament of t
 (5)Every such agreement and any such variation thereof shall be binding upon the Commonwealth and the States parties thereto, notwithstanding anything contained in this Constitution or the constitution of the several States or in any law of the Parliament of the Commonwealth or of any State.
 (6)The powers conferred by this section shall not be construed as being limited in any way by the provisions of section 105 of this Constitution.”
 3. — INDEMNITY.
-Each State agrees with the Commonwealth that it will by the faithful performance of its obligations under this agreement indemnify the Commonwealth against all liabilities whatsoever in respect of the public debt of that State taken over by the Commonwealth as aforesaid (other than the liabilities of the Commonwealth under this Agreement to pay interest and to make sinking fund contributions and under Clause 4 of Part III. of this Agreement), and in respect of all loans of that State in respect of which this Agreement provides that sinking fund contributions shall be made.
+Each State agrees with the Commonwealth that it will by the faithful performance of its obligations under this Agreement indemnify the Commonwealth against all liabilities whatsoever in respect of the public debt of that State taken over by the Commonwealth as aforesaid (other than the liabilities of the Commonwealth under this Agreement to pay interest and to make sinking fund contributions and under Clause 4 of Part III. of this Agreement), and in respect of all loans of that State in respect of which this Agreement provides that sinking fund contributions shall be made.
 4. — ACCOUNTS.
 Separate accounts shall be kept by the Commonwealth for each State in respect of Debt, Interest, and Sinking Funds.
 In witness whereof the Prime Minister of the Commonwealth of Australia and the Premiers of each of the States of New South Wales, Victoria, Queensland, South Australia, Western Australia, and Tasmania, have signed this Agreement respectively for and on behalf of the Commonwealth of Australia, and of the said States.
