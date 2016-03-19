@@ -118,10 +118,10 @@ Koonac | N/A
 Marron | 5 (in marron trophy water) 8 (in other waters)
 Prawns | 9 litres
 Redclaw, Queensland | N/A
-Rock Lobster, all species | 8
+Rock Lobster, all species | 8 (including no more than 4 Tropical Rock Lobsters)
 Yabbies, Common and White | N/A
 Other crustacean species not specified above | 10
-[Part 5 inserted in Gazette 29 Jan 2013 p. 317; amended in Gazette 28 Jun 2013 p. 2893-4; 7 Aug 2015 p. 3204.]
+[Part 5 inserted in Gazette 29 Jan 2013 p. 317; amended in Gazette 28 Jun 2013 p. 2893-4; 7 Aug 2015 p. 3204; 18 Mar 2016 p. 745.]
 ## Part 6 — Bag limits — molluscs and other invertebrates
 [r. 65H]
 [Heading inserted in Gazette 29 Jan 2013 p. 318.]
