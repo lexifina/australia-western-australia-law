@@ -106,6 +106,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 2 | 3 of 2016 | 21 Mar 2016 | 1 Sep 2016 (see s. 2(b) and Gazette 26 Jul 2016 p. 3145)
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The R & I Holdings Act 1990 was repealed in Gazette 26 Jun 2001 p. 3063 under the R & I Holdings Act 1990 s. 22(2).
@@ -116,6 +117,13 @@ On the date as at which this reprint was prepared, the State Superannuation (Tra
 59.Public Sector Management Act 1994 amended
 The Public Sector Management Act 1994 is amended as follows:
 (a) by repealing section 20(1);
+On the date as at which this compilation was prepared, the Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 2 had not come into operation. It reads as follows:
+Part 8 — Consequential amendments to other Acts
+Division 2 — Public Sector Management Act 1994 amended
+52.Act amended
+This Division amends the Public Sector Management Act 1994.
+53.Schedule 2 amended
+In Schedule 2 after item 58 insert:
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
