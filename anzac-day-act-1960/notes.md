@@ -23,15 +23,21 @@ Reprint 3: The Anzac Day Act 1960 as at 15 Sep 2006 (includes amendments listed 
 Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2 and Gazette 19 Jan 2007 p. 137)
 Acts Amendment (Bankruptcy) Act 2009 s. 10 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
+Anzac Day Amendment Act 2016 | 4 of 2016 | 21 Mar 2016 | s. 1 and 2: 21 Mar 2016 (see s. 2(a)); Act other than s. 1 and 2: 23 Mar 2016 (see s. 2(b) and Gazette 22 Mar 2016 p. 859)
+Anzac Day Amendment Act (No. 2) 2016 | 5 of 2016 | 21 Mar 2016 | s. 1 and 2: 21 Mar 2016 (see s. 2(a)); Act other than s. 1 and 2: 23 Mar 2016 (see s. 2(b) and Gazette 22 Mar 2016 p. 859)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Account10(1)
 Anzac Day3
-dependant3
-metropolitan region5(3)
+ex-service organisation3
+ex-service personnel 3
+large race event3
+prescribed admission ticket3
+professional sport3
+professional sport event3
 race meeting3
 racing club3
-sports3
+sport event3
 Trust3
 Trustee3
