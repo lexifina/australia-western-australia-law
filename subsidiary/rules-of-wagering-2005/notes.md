@@ -15,6 +15,7 @@ Reprint 1: The Rules of Wagering 2005 as at 12 Apr 2013 (includes amendments lis
 Rules of Wagering Amendment Rules 2013 | 14 Jun 2013 p. 2243-6 | r. 1 and 2: 14 Jun 2013 (see r. 2(a)); Rules other than r. 1 and 2: 15 Jun 2013 (see r. 2(b))
 Rules of Wagering Amendment Rules (No. 2) 2013 | 29 Nov 2013 p. 5468-72 | r. 1 and 2: 29 Nov 2013 (see r. 2(a)); Rules other than r. 1 and 2: 30 Nov 2013 (see r. 2(b))
 Rules of Wagering Amendment Rules 2014 | 16 Dec 2014 p. 4764 | r. 1 and 2: 16 Dec 2014 (see r. 2(a)); Rules other than r. 1 and 2: 17 Dec 2014 (see r. 2(b))
+Rules of Wagering Amendment Rules 2016 | 22 Mar 2016 p. 836-9 | r. 1 and 2: 22 Mar 2016 (see r. 2(a)); Rules other than r. 1 and 2: 23 Mar 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -41,7 +42,6 @@ fixed odds wager3(1)
 flat commission method16(2)
 Flexi Bet3(1)
 footo24
-footy tipping wager24
 game pool25(2)
 internet wagering3(1)
 investor3(1)
