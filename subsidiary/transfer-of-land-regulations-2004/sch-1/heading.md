@@ -129,5 +129,5 @@ Note:The fees specified in item 18 include the taking a hard copy of screen prin
 13. | For rejection of a document under section 192(1) of the Act | 75% of the registration, recording, lodgment or application fee paid or payable on the
  |  | document (rounded down to the nearest multiple of $1)
 14. | For registrations and recordings under Division 1, lodgments under Division 2 and applications under Division 4 — involving more than 20 certificates or leases — each certificate or lease in excess of 20 | $6.00
-15. | For the priority processing of a transfer, mortgage, discharge of mortgage, withdrawal of caveat, or survivorship application, or not more than 4 of such documents if lodged together, or of an enduring power of attorney, subject to regulation 5A | $40.00
-[Division 7 inserted in Gazette 9 Jan 2009 p. 34-6; amended in Gazette 19 Jun 2009 p. 2238 and 2240-1; 18 Jun 2010 p. 2682; 14 Jun 2011 p. 2136; 22 Jun 2012 p. 2782-3; 26 Jul 2013 p. 3348; 19 Jun 2015 p. 2139.]
+[15.deleted]
+[Division 7 inserted in Gazette 9 Jan 2009 p. 34-6; amended in Gazette 19 Jun 2009 p. 2238 and 2240-1; 18 Jun 2010 p. 2682; 14 Jun 2011 p. 2136; 22 Jun 2012 p. 2782-3; 26 Jul 2013 p. 3348; 19 Jun 2015 p. 2139; 22 Mar 2016 p. 836.]
