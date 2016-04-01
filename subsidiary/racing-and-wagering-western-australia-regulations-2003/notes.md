@@ -25,11 +25,8 @@ Reprint 3: The Racing and Wagering Western Australia Regulations 2003 as at 9 Au
 Racing and Wagering Western Australia Amendment Regulations (No. 2) 2013 | 8 Nov 2013 p. 4980-1 | r. 1 and 2: 8 Nov 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2014 (see. r. 2(b))
 Racing and Wagering Western Australia Amendment Regulations (No. 2) 2014 | 14 Nov 2014 p. 4287 | r. 1 and 2: 14 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2015 (see r. 2(b))
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2015 Pt. 7 | 6 Nov 2015 p. 4581-8 | 1 Jan 2016 (see. r. 2(b))
+Racing and Wagering Western Australia Amendment Regulations 2016 | 4 Mar 2016 p. 628-9 | r. 1 and 2: 4 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2016 (see r. 2(b))
 Racing and Wagering Western Australia Amendment Regulations (No. 2) 2016 | 8 Mar 2016 p. 668 | r. 1 and 2: 8 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Mar 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Racing and Wagering Western Australia Amendment Regulations 2016 r. 3 and 4 | 4 Mar 2016 p. 628-9 | 1 Apr 2016 (see r. 2(b))
 The Racing and Wagering Western Australia Amendment Regulations (No. 2) 2004 r. 5 reads as follows:
 5.Transitional provision
 (1) If, immediately before the expiry of the old Rules, an old warning off notice is in force in respect of a person under the old Rules then, on the expiry of the old Rules, the old warning off notice is to be taken to have been made by RWWA in accordance with regulation 72(1) of the Racing and Wagering Western Australia Regulations 2003 (as inserted by regulation 4 of these regulations).
@@ -40,15 +37,6 @@ old Rules of Harness Racing has the meaning given to that term in section 4 of t
 old Rules of Racing has the meaning given to that term in section 4 of the Racing and Gambling Legislation Amendment and Repeal Act 2003;
 old warning off notice means a notice having the same or similar effect as a notice that could be made by RWWA in accordance with regulation 72(1) of the Racing and Wagering Western Australia Regulations 2003 (as inserted by regulation 4 of these regulations);
 RWWA has the meaning given to that term in section 3(1) of the Racing and Wagering Western Australia Act 2003.
-On the date as at which this compilation was prepared, the Racing and Wagering Western Australia Amendment Regulations 2016 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Racing and Wagering Western Australia Regulations 2003.
-4.Regulation 27A replaced
-Delete regulation 27A and insert:
-26A.Percentage prescribed for the purposes of s. 107(1)
-For the purposes of section 107(1), the percentage of the balance of the moneys received by RWWA during the period —
-(a) ending 31 July 2016 is 13.98%; and
-(b) commencing 1 August 2016 and ending on 31 July 2017 is 20.5%.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
