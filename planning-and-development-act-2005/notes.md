@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Planning and Development Act 2005 and includes the amendments made by the other written laws referred to in the table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 April 2016 of the Planning and Development Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 | 37 of 2005 | 12 Dec 2005 | s. 1 and 2: 12 Dec 2005; Act other than s. 1, 2, 149, 150 and Pt. 13 Div. 3: 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077); s. 150 and Pt. 13 Div. 3: 1 Jul 2009 (see s. 2 and Gazette 19 Jun 2009 p. 2225)
@@ -22,15 +22,15 @@ Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 41 | 8 of 2012 | 21 May 2
 Commercial Arbitration Act 2012 s. 45 it. 16 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Water Services Legislation Amendment and Repeal Act 2012 s. 222 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Reprint 3: The Planning and Development Act 2005 as at 1 Mar 2013 (includes amendments listed above except those in the Commercial Arbitration Act 2012, Water Services Legislation Amendment and Repeal Act 2012 and the Road Traffic Legislation Amendment Act 2012)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 4: The Planning and Development Act 2005 as at 1 Apr 2016 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
 Associations Incorporation Act 2015 s. 226 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Repealed by the Land Administration Act 1997.
-Repealed by the Water Resources Legislation Amendment Act 2007.
 Repealed by the Mining Act 1978.
-On the date as at which this compilation was prepared, the Planning and Development Act 2005 s. 149 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Planning and Development Act 2005 s. 149 had not come into operation. It reads as follows:
 149.Conditions on rural land (tied lots)
 (1) In this section —
 rural land means land zoned for agricultural or rural use under a local planning scheme.
@@ -62,7 +62,8 @@ a condition referred to in subsection (2) commits an offence.
 (f) any other matter necessary or convenient to be prescribed for giving effect to the purposes of this section.
 Now known as the Local Government (Miscellaneous Provisions) Act 1960. Section 248 was repealed by the Local Government Act 1995 s. 9.70.
 Lands Titles Office diagrams are now being held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
-Now “City”.
+Now district of Karratha.
+Now City of Vincent.
 The Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 3, s. 4, Sch. 1, Pt. 3 and 4 read as follows:
 3.Interpretation
 In this Act —
@@ -177,9 +178,7 @@ Any approval of the Commission endorsed on a diagram or plan of survey of a stag
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
 Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
 The Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 56(4) is a transitional provision that is of no further effect.
-Footnote no longer applicable.
-Under the Local Government Act 1995 sections 2.4(2) and 2.3, the Shire of Roebourne is declared to be a city and is named the City of Karratha as at 1 Jul 2014 (see Gazette 3 Jun 2014 p. 1746).
-On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 226 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Associations Incorporation Act 2015 s. 226 had not come into operation. It reads as follows:
 226.Planning and Development Act 2005 amended
 (1) This section amends the Planning and Development Act 2005.
 (2) In section 182(2)(b) delete “Australia and incorporated under the Associations Incorporation Act 1987.” and insert:
@@ -223,7 +222,7 @@ environmental harm217(1)
 EP Act4(1)
 EPA4(1)
 fee261(1)
-first owner154(2)
+first owner154(2)(d)
 function266(1)
 Heritage Council4(1)
 improvement plan4(1)
@@ -237,7 +236,7 @@ JDAP4(1)
 judicial member237
 LAA Department4(1)
 land4(1), 136(3)
-later subdivider159(1)
+later subdivider159(1)(a)
 LDAP4(1)
 legal practitioner4(1)
 licence261(1)
@@ -247,21 +246,21 @@ local interim development order4(1)
 local order area4(1)
 local planning scheme4(1)
 lot4(1), 136(3)
-market value of land155(1), 159(2)
+market value of land155(1) and (2)
 meeting266(1)
 member4(1), 266(1)
 metropolitan improvement scheme199(1A)
 metropolitan region4(1)
 Metropolitan Region Scheme4(1)
-Minister245(5), 245(5)
-Minister for Lands267A(1)
+Minister245(5)(a) and (b)
+Minister for Lands267A(1)(a)
 Minister for the Environment4(1)
 model provision257A(1)
 MRI Account4(1)
 non-conforming use172
 officer of the Commission4(1)
-original compensation181(1)
-original subdivider159(1)
+original compensation181(1)(a)
+original subdivider159(1)(b)
 other local government210(1)
 participate15(5)
 party237
@@ -287,12 +286,12 @@ Regional Minister4(1)
 regional order area4(1)
 register181(17), 197(6)
 Registrar181(17), 197(6)
-removed land122E(1), 122G(1)
+removed land122E(1), 122G(1)(a)
 repeal day122B(7)
 responsible authority4(1), 170(1A)
-road4(1), 135(3), 159(2), Sch. 8 cl. 7(2), Sch. 8 cl. 8(2)
+road4(1), 135(3), 159(2), Sch. 8 cl. 7(2) and 8(2)
 scheme or amendment41
-second owner154(2)
+second owner154(2)(d)(i)
 specified99(3), 103(3)
 start day122D(1)
 State planning policy4(1)
