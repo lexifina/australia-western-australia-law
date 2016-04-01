@@ -10,6 +10,7 @@ Reprint 1: The Retirement Villages Regulations 1992 as at 7 Nov 2003 (includes a
 Retirement Villages Amendment Regulations 2004 | 30 Dec 2004 p. 6925-6 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7130)
 Retirement Villages (Recurrent Charges, Prescribed Matters and Exemption Certificates) Amendment Regulations 2014 | 21 Mar 2014 p. 722-30 | r. 1 and 2: 21 Mar 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2014 (see r. 2(b) and Gazette 21 Mar 2014 p. 721)
 Retirement Villages Amendment Regulations 2015 | 24 Mar 2015 p. 993-1030 | r. 1 and 2: 24 Mar 2015 (see r. 2(a)); Regulations other than r. 1, 2, 6, 8 and 12-14: 1 Apr 2015 (see r. 2(b)); r. 6, 8 and 12-14: 1 Oct 2015 (see r. 2(c))
+Retirement Villages Amendment Regulations 2016 | 23 Mar 2016 p. 861-924 | r. 1 and 2: 23 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2016 (see r. 2(b))
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Department for Community Welfare is read and construed as a reference to the Department for Community Development.
 Repealed by the Veterans’ Entitlements Act 1986 of the Commonwealth.
 The Retirement Villages Amendment Regulations 2003 r. 4(2) reads as follows:
@@ -21,30 +22,37 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 administering body7I(1)
-alteration7G
+alteration7G(1)
 application fee12(1)
 arrange4A
+associated person7D(1)
 close associate7I(1)
 Code4A
-commencement day9(1), 11(1)
+commencement day9(1), 11(1), 13(1)
 communal amenity4A
 communal service4A
+Corporations Act 20014A
 essential service7H(1)
 evidence of death9(1)
 exit fee4A
 former resident9(2), 10(1)
 maximum rate10(1)
+new section 13 statement13(1)
 Note4A
 payment3A(1), 11(1)
 permanently vacated9(2)
 personal amenity4A
 personal service4A
 power of attorney7I(1)
+previous section 13 statement13(1)
 professional body11(1)
 recurrent charges9(2)
-related body corporate7I(1)
+related body corporate4A
 reserve fund4A
 security interest11(1)
+short-term residence contract4A
+short-term section 13 statement13(1)
 special resolution11(1)
 specified4A
+transitional period13(1)
 urgent repair7H(1)
