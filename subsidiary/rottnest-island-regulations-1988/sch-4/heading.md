@@ -54,7 +54,7 @@ Item | Regulation | Matter to which regulation relates | Modified penalty $
 28. | 44(3) | Failing to comply with traffic sign or with ranger’s signal or direction relating to vehicle | 150
 29AA. | 45(1) | Bringing vehicle on to Island without permission | 200
 29A. | 46(1) | Using vehicle without permission | 200
-29. | 47(1) | Exceeding speed limit | 100
+[29.Deleted]
 30A. | 51(1)(a) | Possessing hired bicycle without consent | 150
 30B. | 51(1)(b) | Possessing bicycle without consent | 150
 30C. | 52(2) | Erecting tent without permission | 150
@@ -75,10 +75,10 @@ Item | Regulation | Matter to which regulation relates | Modified penalty $
 44. | 70(1)(d) | Acting in such a way as to cause a nuisance or annoyance to persons | 200
 45. | 70(3) | Writing etc. or distributing or otherwise disseminating indecent or obscene matter | 200
 46. | 71 | Causing or producing noise that unreasonably interferes with convenience, comfort or amenity of any person | 200
-47. | 72(2) | Consuming liquor in Kingstown Barracks Restricted Alcohol Consumption Area | 200
+47. | 72(2) | Being in possession of liquor at Kingstown Barracks | 200
 48. | 72AA(2) | Failure to comply with direction of ranger | 200
 49. | 74B(1) | Altering information on sticker or document issued by the Authority | 200
 50. | 74B(2) | Wrongly displaying a sticker on a vessel | 200
 51. | 74C | Altering information on authorisation issued by mooring site licensee | 200
-[Schedule 4 inserted in Gazette 8 Dec 2009 p. 5007-9; amended in Gazette 15 Oct 2010 p. 5177; 17 Dec 2010 p. 6362; 25 Oct 2011 p. 4516-17; 4 Jan 2013 p. 23-4; 24 Jan 2014 p. 114; 22 Sep 2015 p. 3861.]
+[Schedule 4 inserted in Gazette 8 Dec 2009 p. 5007-9; amended in Gazette 15 Oct 2010 p. 5177; 17 Dec 2010 p. 6362; 25 Oct 2011 p. 4516-17; 4 Jan 2013 p. 23-4; 24 Jan 2014 p. 114; 22 Sep 2015 p. 3861; 5 Apr 2016 p. 1029.]
 [Schedule 5 deleted in Gazette 22 Sep 2015 p. 3862.]
