@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 2 October 2015 of the Motor Vehicle Drivers Instructors Regulations 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Motor Vehicle Drivers Instructors Regulations 1964 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Motor Vehicle Drivers Instructors Regulations 1964 | 10 Mar 1964 p. 1025-9 | 10 Mar 1964
@@ -64,6 +64,7 @@ Motor Vehicle Drivers Instructors Amendment Regulations (No. 3) 2014 | 4 Nov 201
 Motor Vehicle Drivers Instructors Amendment Regulations 2014 | 8 Jan 2015 p. 57-9 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Motor Vehicle Drivers Instructors Amendment Regulations 2015 | 29 May 2015 p. 1882-3 | r. 1 and 2: 29 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Reprint 7: The Motor Vehicle Drivers Instructors Regulations 1964 as at 2 Oct 2015 (includes amendments listed above)
+Motor Vehicle Drivers Instructors Amendment Regulations 2016 | 5 Apr 2016 p. 1030 | r. 1 and 2: 5 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Apr 2016 (see r. 2(b))
 These regulations were repealed by the Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 1982 (published in Gazette 26 Mar 1982 p. 1073).
 The Motor Vehicles Instructors Amendment Regulations 1996 r. 6 is a transitional provision that is of no further effect.
 The Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2001 r. 9 and Sch. 1 and 2 are transitional and saving provisions that are of no further effect.
