@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Child Care Services Act 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 8 April 2016 of the Child Care Services Act 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Child Care Services Act 2007 | 19 of 2007 | 3 Jul 2007 | s. 1 and 2: 3 Jul 2007 (see s. 2(a)); Act other than s. 1 and 2: 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
@@ -7,7 +7,8 @@ Compilation table
  | Child Care Services Amendment Act 2011 Pt. 2 | 38 of 2011 | 4 Oct 2011 | 7 Jan 2012 (see s. 2(b) and Gazette 6 Jan 2012 p. 3)
  | Reprint 1: The Child Care Services Act 2007 as at 27 Apr 2012 (includes amendments listed above)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 1 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 2: The Child Care Services Act 2007 as at 8 Apr 2016 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Associations Incorporation Act 2015 s. 212 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
@@ -18,7 +19,7 @@ Now known as the Child Care Services (Child Care) Regulations 2006.
 Now known as the Child Care Services (Family Day Care) Regulations 2006.
 Now known as the Child Care Services (Outside School Hours Care) Regulations 2006.
 Now known as the Child Care Services (Outside School Hours Family Day Care) Regulations 2006.
-On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 212 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Associations Incorporation Act 2015 s. 212 had not come into operation. It reads as follows:
 212.Child Care Services Act 2007 amended
 (1) This section amends the Child Care Services Act 2007.
 (2) In section 3 in the definition of managerial officer paragraph (a) delete “Associations Incorporation Act 1987 section 3(1),” and insert:
@@ -75,9 +76,9 @@ record3
 relative3
 relevant information38(1)
 relevant maximum fine30A(3)
-relevant provision43M(2)
+relevant provision43M(2)(b)
 relevant record3
-relevant service14(3), 15(2)
+relevant service14(3)(a), 15(2)(a)
 remote communication43J(1)
 renewal applicant3
 renewal application3
