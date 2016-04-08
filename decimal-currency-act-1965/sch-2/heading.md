@@ -3,9 +3,9 @@
 [Heading inserted by No. 19 of 2010 s. 16(3).]
 ## Part A — Equivalents specified in the Commonwealth Currency Act
 [Heading inserted by No. 19 of 2010 s. 16(3).]
-One sovereign or pound . . . . . . = Two dollars.
-One shilling . . . . . . . . . . . . . . . = Ten cents.
-One penny . . . . . . . . . . . . . . . .= Five-sixths of a cent.
+One sovereign or pound .............. = Two dollars.
+One shilling .............................. = Ten cents.
+One penny ..................................= Five-sixths of a cent.
 ## Part B — Examples of equivalents
 [Heading inserted by No. 19 of 2010 s. 16(4).]
 Examples of Percentages
