@@ -17,6 +17,7 @@ Building Amendment Regulations (No. 4) 2015 | 23 Jun 2015 p. 2161-4 | r. 1 and 2
 Building Amendment Regulations (No. 2) 2015 | 30 Jun 2015 p. 2328-9 | r. 1 and 2: 30 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Building Amendment Regulations 2015 | 15 Sep 2015 p. 3783-4 | r. 1 and 2: 15 Sep 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2015 (see r. 2(b))
 Building Amendment Regulations (No. 3) 2015 | 7 Dec 2015 p. 4897-901 | r. 1 and 2: 7 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2015 (see r. 2(b) and Gazette 7 Dec 2015 p. 4881)
+Building Amendment Regulations 2016 | 5 Apr 2016 p. 1015-21 | r. 1 and 2: 5 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Apr 2016 (see r. 2(b))
 The Building Act 2011 s. 153 came into operation on 2 April 2012.
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
@@ -25,6 +26,7 @@ Defined termProvision(s)
 10 year life battery55(1)
 access through a building48
 alternative solution3
+applicable technical aspects47(1A)
 application31, 40(1)
 approved alternative building solution55(1)
 approved alternative requirement48
@@ -32,11 +34,15 @@ approved door48
 architectural feature44A
 AS3
 AS 1926.148
+AS 39593
 assessment method3
 builder work3
 Building Code3
 building product31J(1)
+building site3
+bush fire performance requirement3
 bush fire prone area3
+bushfire attack level (BAL)3
 business day3
 Class3
 CodeMark certificate31J(1)
@@ -46,6 +52,7 @@ dwelling55(1)
 electrician55(1)
 EPSch. 3 cl. 1
 estimated value3
+excluded building work31BA(1A)
 expiry day23(1), 40(1)
 FES Commissioner3
 former provisions3
@@ -64,9 +71,12 @@ person with a disability51(1)
 prior owner57(1)
 private swimming pool3
 public place44A
+relevant building31BA(1A)
 relevant building standards48A(1)
 relevant componentsSch. 1 cl. 1
 relevant day60(1)
+relevant edition of the Building Code3
+renovation, alteration, extension, improvement or repair31BA(1A)
 repeal day54(1)
 repealed provisions54(1)
 residential tenancy agreement55(1)
