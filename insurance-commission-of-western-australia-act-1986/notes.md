@@ -33,6 +33,7 @@ Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 25 and 28 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 50 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Associations Incorporation Act 2015 s. 219 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
+Motor Vehicle (Catastrophic Injuries) Act 2016 Pt. 7, Div. 2 | 8 of 2016 | 14 Apr 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 s. 5. Now the Life Insurance Act 1995 of the Commonwealth.
 Repealed by the Insurance Commission of Western Australia Act 1986 s. 46(1).
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
@@ -65,6 +66,26 @@ On the date as at which this compilation was prepared, the Associations Incorpor
 (1) This section amends the Insurance Commission of Western Australia Act 1986.
 (2) In section 3 in the definition of community organisation paragraph (a) delete “incorporated under the Associations Incorporation Act 1987; or” and insert:
 incorporated, or taken to be incorporated, under the Associations Incorporation Act 2015; or
+On the date as at which this compilation was prepared the Motor Vehicle (Catastrophic Injuries) Act 2016 Pt. 7 Div. 2 had not come into operation. It reads as follows:
+Part 7 — Other Acts amended
+Division 2 — Insurance Commission of Western Australia Act 1986 amended
+39.Act amended
+This Division amends the Insurance Commission of Western Australia Act 1986.
+40.Section 6 amended
+After section 6(a) insert:
+(aa) to manage and administer, and monitor the operation of, the catastrophic injuries support scheme as defined in the Motor Vehicle (Catastrophic Injuries) Act 2016 section 3(1); and
+41.Section 16 amended
+(1) Delete section 16(1)(b) and insert:
+(b) a fund to be called the “Motor Vehicle (Catastrophic Injuries) Fund”; and
+(2) After section 16(2) insert:
+(3) The Motor Vehicle (Catastrophic Injuries) Fund shall consist of —
+(a) moneys appropriated for, or derived from or in connection with, the Commission’s functions under section 6(aa) or its functions under section 6(e) in so far as they relate to personal injury; and
+(b) other property received or acquired by the Commission in connection with the Commission’s functions referred to in paragraph (a); and
+(c) moneys or other property credited, apportioned or transferred to that Fund under section 17 or 18,
+and, subject to section 18, may be applied for the purpose of carrying out the Commission’s functions referred to in paragraph (a) and for that purpose only.
+42.Section 18 amended
+In section 18(2) after “Third Party Insurance Fund,” insert:
+the Motor Vehicle (Catastrophic Injuries) Fund,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
