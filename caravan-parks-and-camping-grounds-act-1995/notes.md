@@ -1,8 +1,8 @@
 Notes
-This is a compilation of the Caravan Parks and Camping Grounds Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 15 April 2016 of the Caravan Parks and Camping Grounds Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Caravan Parks and Camping Grounds Act 1995 | 34 of 1995 | 29 Sep 1995 | s. 1 and 2: 29 Sep 1995; Act other than s. 1, 2, 34(1) and (2) and Sch. 2 it. 3: 1 Jul 1997 (see s. 2 and Gazette 20 Jun 1997 p. 2805); s. 34(1) and (2) and Sch. 2 it. 3 deleted by 2009/008 s. 26
+Caravan Parks and Camping Grounds Act 1995 | 34 of 1995 | 29 Sep 1995 | s. 1 and 2: 29 Sep 1995; Act other than s. 1, 2, 34(1) and (2) and Sch. 2 it. 3: 1 Jul 1997 (see s. 2 and Gazette 20 Jun 1997 p. 2805); s. 34(1) and (2) and Sch. 2 it. 3 deleted by No. 8 of 2009 s. 26
 Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 1996 | 1 Jul 1996 (see s. 2)
 Corporations (Consequential Amendments) Act 2001 s. 220 | 10 of 2001 | 28 Jun 2001 | 15 Jul 2001 (see s. 2 and Gazette 29 Jun 2001 p. 3257 and Cwlth Gazette 13 Jul 2001 No. S285)
 Reprint 1: The Caravan Parks and Camping Grounds Act 1995 as at 18 Jul 2003 (includes amendments listed above)
@@ -14,10 +14,10 @@ Reprint 2: The Caravan Parks and Camping Grounds Act 1995 as at 7 Jul 2006 (incl
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 26 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
+Reprint 3: The Caravan Parks and Camping Grounds Act 1995 as at 15 Apr 2016 (includes amendments listed above)
+The provisions in this Act amending these Acts have been omitted under the Reprints Act 1985 s. 7(4)(e).
 Appointed day for the purpose of section 6(1): 1 October 1997, see Gazette 20 Jun 1997 p. 2853.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-Footnote no longer applicable.
-Section 200 of the Local Government Act 1960 was repealed by Sch. 9.2 cl. 5(b) of the Local Government Act 1995 before the Caravan Parks and Camping Grounds Act 1995 came into operation. Consequently, Sch. 2 cl. 4 of the Caravan Parks and Camping Grounds Act 1995, the provision that purported to repeal s. 200 of the Local Government Act 1960, was amended, before it came into operation, by Sch. 1 to the Local Government (Consequential Amendments) Act 1996 to delete the reference to s. 200 of the Local Government Act 1960. Transitional provisions relating to existing facilities are now contained in Sch. 9 to the Caravan Parks and Camping Grounds Regulations 1997.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
