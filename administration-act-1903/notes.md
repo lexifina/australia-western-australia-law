@@ -1,36 +1,36 @@
 Notes
-This is a compilation of the Administration Act 1903 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 15 April 2016 of the Administration Act 1903 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Administration Act 1903 | 13 of 1903 | 31 Dec 1903 | 1 Jan 1904 (see s. 1)
-Administration Act Amendment Act 1909 | 29 of 1909 | 20 Nov 1909 | 20 Nov 1909
-Curator of Intestate Estates Act 1918 s. 2 | 9 of 1918 | 15 Apr 1918 | 1 Jul 1918 (see s. 1 and Gazette 7 Jun 1918 p. 813)
-Administration Act Amendment Act 1921 | 13 of 1921 | 15 Nov 1921 | 15 Nov 1921
-Administration Act Amendment Act 1922 | 29 of 1922 | 7 Dec 1922 | 7 Dec 1922
-Administration Act (Estate and Succession Duties) Amendment Act 1934 s. 2 and Pt. III | 28 of 1934 | 28 Dec 1934 | 1 Jan 1935 (see s. 1 and Gazette 28 Dec 1934 p. 1983)
-Reprint of the Administration Act 1903 not in a Volume (includes amendments listed above)
-Administration Act Amendment Act 1939 | 24 of 1939 | 22 Nov 1939 | 22 Nov 1939
-Public Trustee Act 1941 s. 3 | 26 of 1941 | 8 Dec 1941 | 1 Jul 1942 (see s. 1(2) and Gazette 26 Jun 1942 p. 689)
-Administration Act Amendment Act (No. 2) 1941 | 52 of 1941 | 15 Jan 1942 | 15 Jan 1942
-Administration Act Amendment Act 1941 | 55 of 1941 | 15 Jan 1942 | 1 Jul 1942 (see s. 8)
-Administration Act Amendment Act 1942 | 21 of 1942 | 9 Dec 1942 | 9 Dec 1942
+Administration Act 1903 | 13 of 1903 (3 Edw. VII No. 13) | 31 Dec 1903 | 1 Jan 1904 (see s. 1)
+Administration Act Amendment Act 1909 | 29 of 1909 (9 Edw. VII No. 25) | 20 Nov 1909 | 20 Nov 1909
+Curator of Intestate Estates Act 1918 s. 2 | 9 of 1918 (8 Geo. V No. 23) | 15 Apr 1918 | 1 Jul 1918 (see s. 1 and Gazette 7 Jun 1918 p. 813)
+Administration Act Amendment Act 1921 | 13 of 1921 (12 Geo. V No. 13) | 15 Nov 1921 | 15 Nov 1921
+Administration Act Amendment Act 1922 | 29 of 1922 (13 Geo. V No. 11) | 7 Dec 1922 | 7 Dec 1922
+Administration Act (Estate and Succession Duties) Amendment Act 1934 s. 2 and Pt. III | 28 of 1934 (25 Geo. V No. 27) | 28 Dec 1934 | 1 Jan 1935 (see s. 1 and Gazette 28 Dec 1934 p. 1983)
+Reprint of the Administration Act 1903 (includes amendments listed above)
+Administration Act Amendment Act 1939 | 24 of 1939 (3 Geo. VI No. 24) | 22 Nov 1939 | 22 Nov 1939
+Public Trustee Act 1941 s. 3 | 26 of 1941 (5 Geo. VI No. 26) | 8 Dec 1941 | 1 Jul 1942 (see s. 1(2) and Gazette 26 Jun 1942 p. 689)
+Administration Act Amendment Act (No. 2) 1941 | 52 of 1941 (5 & 6 Geo. VI No. 52) | 15 Jan 1942 | 15 Jan 1942
+Administration Act Amendment Act 1941 | 55 of 1941 (5 & 6 Geo. VI No. 55) | 15 Jan 1942 | 1 Jul 1942 (see s. 8)
+Administration Act Amendment Act 1942 | 21 of 1942 (6 Geo. VI No. 21) | 9 Dec 1942 | 9 Dec 1942
 Reprint of the Administration Act 1903 approved in Volume 2 of Reprinted Acts (includes amendments listed above)
-Administration Act Amendment Act 1945 | 39 of 1945 | 30 Jan 1946 | 30 Jan 1946
-Administration Act Amendment Act 1949 | 8 of 1949 | 14 Sep 1949 | 14 Sep 1949
-Administration Act Amendment Act 1950 | 55 of 1950 | 18 Dec 1950 | 18 Dec 1950
-Administration Act Amendment Act 1953 | 62 of 1953 | 9 Jan 1954 | 9 Jan 1954
-Administration Act Amendment Act (No. 2) 1953 | 81 of 1953 | 18 Jan 1954 | 18 Jan 1954
-Administration Act Amendment Act 1954 | 30 of 1954 | 8 Nov 1954 | 8 Nov 1954
+Administration Act Amendment Act 1945 | 39 of 1945 (9 & 10 Geo. VI No. 39) | 30 Jan 1946 | 30 Jan 1946
+Administration Act Amendment Act 1949 | 8 of 1949 (13 Geo. VI No. 94) | 14 Sep 1949 | 14 Sep 1949
+Administration Act Amendment Act 1950 | 55 of 1950 (14 & 15 Geo. VI No. 55) | 18 Dec 1950 | 18 Dec 1950
+Administration Act Amendment Act 1953 | 62 of 1953 (2 Eliz. II No. 62) | 9 Jan 1954 | 9 Jan 1954
+Administration Act Amendment Act (No. 2) 1953 | 81 of 1953 (2 Eliz. II No. 81) | 18 Jan 1954 | 18 Jan 1954
+Administration Act Amendment Act 1954 | 30 of 1954 (3 Eliz. II No. 30) | 8 Nov 1954 | 8 Nov 1954
 Reprint of the Administration Act 1903 approved 21 Jun 1955 in Volume 9 of Reprinted Acts (includes amendments listed above)
-Administration Act Amendment Act 1955 | 62 of 1955 | 19 Dec 1955 | 19 Dec 1955
-Administration Act Amendment Act 1956 | 81 of 1956 | 17 Jan 1957 | 1 Feb 1957 (see s. 2 and Gazette 1 Feb 1957 p. 161)
+Administration Act Amendment Act 1955 | 62 of 1955 (4 Eliz. II No. 62) | 19 Dec 1955 | 19 Dec 1955
+Administration Act Amendment Act 1956 | 81 of 1956 (5 Eliz. II No. 81) | 17 Jan 1957 | 1 Feb 1957 (see s. 2 and Gazette 1 Feb 1957 p. 161)
 Reprint of the Administration Act 1903 approved 23 Apr 1958 in Volume 12 of Reprinted Acts (includes amendments listed above)
-Administration Act Amendment Act 1959 | 56 of 1959 | 25 Nov 1959 | 25 Nov 1959
-Administration Act Amendment Act 1960 | 21 of 1960 | 11 Oct 1960 | 25 Nov 1960 (see s. 2 and Gazette 25 Nov 1960 p. 3779)
-Administration Act Amendment Act 1961 | 57 of 1961 | 28 Nov 1961 | 28 Nov 1961
-Administration Act Amendment Act 1962 | 80 of 1962 | 6 Dec 1962 | 1 Jan 1963 (see s. 2)
-Administration Act Amendment Act 1963 | 66 of 1963 | 18 Dec 1963 | 18 Dec 1963
-Administration Act Amendment Act 1964 | 57 of 1964 | 30 Nov 1964 | 30 Nov 1964
+Administration Act Amendment Act 1959 | 56 of 1959 (8 Eliz. II No. 56) | 25 Nov 1959 | 25 Nov 1959
+Administration Act Amendment Act 1960 | 21 of 1960 (9 Eliz. II No. 21) | 11 Oct 1960 | 25 Nov 1960 (see s. 2 and Gazette 25 Nov 1960 p. 3779)
+Administration Act Amendment Act 1961 | 57 of 1961 (10 Eliz. II No. 57) | 28 Nov 1961 | 28 Nov 1961
+Administration Act Amendment Act 1962 | 80 of 1962 (11 Eliz. II No. 80) | 6 Dec 1962 | 1 Jan 1963 (see s. 2)
+Administration Act Amendment Act 1963 | 66 of 1963 (12 Eliz. II No. 66) | 18 Dec 1963 | 18 Dec 1963
+Administration Act Amendment Act 1964 | 57 of 1964 (13 Eliz. II No. 57) | 30 Nov 1964 | 30 Nov 1964
 Administration Act Amendment Act 1965 | 78 of 1965 | 7 Dec 1965 | 7 Dec 1965
 Decimal Currency Act 1965 | 113 of 1965 | 21 Dec 1965 | Act other than s. 4-9: 21 Dec 1965 (see s. 2(1)); s. 4-9: 14 Feb 1966 (see s. 2(2))
 Administration Act Amendment Act 1966 | 68 of 1966 | 12 Dec 1966 | 12 Dec 1966
@@ -58,7 +58,7 @@ Administration Amendment Act 1984 | 57 of 1984 | 24 Oct 1984 | 21 Nov 1984
 Acts Amendment (Insolvent Estates) Act 1984 Pt. II | 72 of 1984 | 26 Nov 1984 | 24 Dec 1984
 Artificial Conception Act 1985 s. 8 | 14 of 1985 | 12 Apr 1985 | 1 Jul 1985 (see s. 2 and Gazette 28 Jun 1985 p. 2291)
 Reprint of the Administration Act 1903 as at 17 Jun 1986 (includes amendments listed above)
-Administration Amendment Act 1986 | 21 of 1986 | 25 Jul 1986 | 7 Nov 1986 (see s. 2 and Gazette 7 Nov 1986 p. 4140)
+Administration Amendment Act 1986 | 21 of 1986 | 25 Jul 1986 | s. 1 and 2: 25 Jul 1986; Act other than s. 1 and 2: 7 Nov 1986 (see s. 2 and Gazette 7 Nov 1986 p. 4140)
 Transfer of Land Amendment Act 1996 s. 153(1) | 81 of 1996 | 14 Nov 1996 | 14 Nov 1996 (see s. 2(1))
 Trustees Amendment Act 1997 s. 18 | 1 of 1997 | 6 May 1997 | 16 Jun 1997 (see s. 2 and Gazette 10 Jun 1997 p. 2661)
 Statutes (Repeals and Minor Amendments) Act 1997 s. 16 | 57 of 1997 | 15 Dec 1997 | 15 Dec 1997 (see s. 2(1))
@@ -72,18 +72,16 @@ Reprint 11: The Administration Act 1903 as at 14 Jul 2006 (includes amendments l
 Land Information Authority Act 2006 s. 120 | 60 of 2006 | 16 Nov 2006 | 1 Jan 2007 (see s. 2(1) and Gazette 8 Dec 2006 p. 5369)
  | Standardisation of Formatting Act 2010 s. 6 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
  | Inheritance (Family and Dependants Provision) Amendment Act 2011 s. 14 | 48 of 2011 | 25 Oct 2011 | 16 Jan 2013 (see s. 2(b) and Gazette 15 Jan 2013 p. 79)
+ | Reprint 12: The Administration Act 1903 as at 15 Apr 2016 (includes amendments listed above)
 Repealed by section 2 of this Act.
-Part IV, Curator of Intestate Estates, as enacted by this Act, was repealed by the Curator of Intestate Estates Act 1918. Now see the Public Trustee Act 1941.
-This Part was enacted as Part II of the Administration Act (Estate and Succession Duties) Amendment Act 1934. By section 3 of that Act it was enacted as follows:
-“
+Part IV (Curator of Intestate Estates) as originally enacted, was repealed by the Curator of Intestate Estates Act 1918 (No. 9 of 1918). The Curator of Intestate Estates continued under the Curator of Intestate Estates Act 1918 and, on 1 July 1942, became the Public Trustee (see the Public Trustee Act 1941 s. 3).
+This Part was originally enacted as Part II of the Administration Act (Estate and Succession Duties) Amendment Act 1934 (No. 28 of 1934). It was inserted as Part VI in the 1934 reprint of this Act (see the Administration Act (Estate and Succession Duties) Amendment Act 1934 s. 77) and renumbered as Part V in the 1943 reprint.
+The Administration Act (Estate and Succession Duties) Amendment Act 1934 s. 3 provides that —
 3.This Act shall apply in the case of any person dying after its commencement, but the provisions of Part VI of the principal Act as hereby repealed shall apply to any person dying before the commencement of this Act.
-”.
-[It was inserted as Part VI in the 1934 reprint and renumbered as Part V in the 1943 reprint: See also the Administration Act (Estate and Succession Duties) Amendment Act 1934 s. 77(3)(c).]
 This amount is now declared to be $50 000; see proclamation in Gazette 6 February 2009 p. 243.
-See Public Trustee Act 1941 s. 16.
-In this reprint the numbering of Parts, sections, Divisions etc. effected in the 1934 reprint (not in a volume), the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and subsequent reprints has again been retained. References to the original numbering are contained in those reprints.
+In this reprint the numbering of Parts, sections, Divisions etc. effected in the 1934 reprint, the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and subsequent reprints has been retained. References to the original numbering are contained in those reprints.
 The Administration Act Amendment Act 1970 s. 2(2) is a transitional provision that is of no further effect.
-The Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973 s. 4.
+The Metric Conversion Act 1972 Second Schedule was inserted by the Metric Conversion Act Amendment Act 1973 s. 4.
 The Death Duty Assessment Act 1973 s. 3(2), (3), (4) and (5) are transitional provisions that are of no further effect.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -92,9 +90,14 @@ ADI139(2)
 administration3
 administrator3
 Court3
+deceased17A(1)
+election periodFourth Sch. cl. 6(1)
 exemplification of probate3
-household chattels14(2)
+household chattels14(2)(a)
 insolvent3
+interestFourth Sch. cl. 1(1)(b)
+intestate14(1), 15(6)
+intestate property14(1), 15(6)
 personal estate3
 prescribed3
 Principal Registrar3
@@ -102,9 +105,6 @@ probate3
 Public Trustee3
 real estate3
 registrar3
-the deceased17A(1)
-the intestate14(1), 15(6)
-the intestate property14(1), 15(6)
-the relevant property14(2b), 14(3a)
-the Table14(1)
+relevant property14(2b) and (3a)
+Table14(1)
 will3
