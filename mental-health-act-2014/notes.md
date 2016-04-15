@@ -1,10 +1,11 @@
 Notes
-This is a compilation of the Mental Health Act 2014 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 15 April 2016 of the Mental Health Act 2014 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Mental Health Act 2014 | 24 of 2014 | 3 Nov 2014 | s. 1 and 2: 3 Nov 2014 (see s. 2(a)); Act other than s. 1 and 2: 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Mental Health Legislation Amendment Act 2014 Pt. 3 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
-Mental Health Amendment Act 2015 | 36 of 2015 | 23 Nov 2015 | s. 1 and 2: 23 Nov 2014 (see s. 2(a)); s. 3-8: 30 Nov 2015 (see s. 2(b) and (c) and Gazette 13 Nov 2015 p. 4632)
+Mental Health Amendment Act 2015 | 36 of 2015 | 23 Nov 2015 | s. 1 and 2: 23 Nov 2015 (see s. 2(a)); s. 3-8: 30 Nov 2015 (see s. 2(b) and (c) and Gazette 13 Nov 2015 p. 4632)
+Reprint 1: The Mental Health Act 2014 as at 15 Apr 2016 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -41,7 +42,7 @@ complainant305
 complaint305, 345(1)
 Complaints Office305
 Complaints Office staff305
-complaints procedure308(1)
+complaints procedure308(1)(a)
 continuation order85, 113, 121(1)
 continued community treatment order — 590
 continued inpatient treatment order590
@@ -147,7 +148,7 @@ private hospital4
 private psychiatric hostel4
 proceeding379, 493
 product information304(2)
-provide,305
+provide305
 psychiatrist4
 psychologist4
 psychosurgery4
