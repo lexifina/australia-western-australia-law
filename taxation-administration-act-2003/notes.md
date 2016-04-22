@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Taxation Administration Act 2003 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 22 April 2016 of the Taxation Administration Act 2003 and includes the amendments made by the other written laws referred to in the following table 1M, 1MC. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Taxation Administration Act 2003 | 1 of 2003 | 20 Mar 2003 | s. 1 and 2: 20 Mar 2003; Act other than s. 1, 2, 34(2)(c), (4) and (5), 41(2) and (4), 47(8), 48, 56(3), 57(3), 59 and 127 and the definition of non-reviewable decision in the Glossary: 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383); s. 127: 2 Jan 2004 (see s. 2 and Gazette 19 Dec 2003 p. 5137); s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59: 2 Mar 2009 (see s. 2 and Gazette 24 Feb 2009 p. 385)
@@ -18,42 +18,21 @@ Reprint 2: The Taxation Administration Act 2003 as at 7 Sep 2007 (includes amend
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 94 | 24 of 2007 | 12 Oct 2007 | 1 May 2013 (see s. 2(2) and Gazette 5 Feb 2013 p. 823)
 Duties Legislation Amendment Act 2008 Pt. 2 Div. 3 | 12 of 2008 | 14 Apr 2008 | 1 Jul 2008 (see s. 2(d))
 Revenue Laws Amendment Act (No. 2) 2008 Pt. 2 Div. 1 and 3 and Pt. 3 | 31 of 2008 | 27 Jun 2008 | Pt. 2 Div. 1 and Pt. 3 Div. 1 and 2: 28 Jun 2008 (see s. 2(b)); Pt. 2 Div. 3: 1 Jul 2008 (see s. 2(c)(ii)); Pt. 3 Div. 3: 11 Oct 2008 (see s. 2(d) and Gazette 10 Oct 2008 p. 4539)
-Reprint 3: The Taxation Administration Act 2003 as at 22 Aug 2008 (includes amendments listed above, except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 and the Revenue Laws Amendment Act (No. 2) 2008 Pt. 3 Div. 3)
+Reprint 3: The Taxation Administration Act 2003 as at 22 Aug 2008 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 and the Revenue Laws Amendment Act (No. 2) 2008 Pt. 3 Div. 3)
 Revenue Laws Amendment and Repeal Act 2010 Pt. 5 and s. 30 | 17 of 2010 | 25 Jun 2010 | 26 Jun 2010 (see s. 2(b))
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-Reprint 4: The Taxation Administration Act 2003 as at 3 Dec 2010 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 and the Revenue Laws Amendment Act 2012 s. 42(4))
+Reprint 4: The Taxation Administration Act 2003 as at 3 Dec 2010 (includes amendments listed above except those in the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 48 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Revenue Laws Amendment Act 2012 Pt. 8 | 29 of 2012 | 3 Sep 2012 | Heading to Pt. 8, s. 40 and 42(4): 1 Jul 2009 (see s. 2(d)); s. 41, 42(1)-(3), 43 and 44: 4 Sep 2012 (see s. 2(e))
 Revenue Laws Amendment Act 2013 Pt. 2 Div. 2 and Pt. 3 | 10 of 2013 | 24 Sep 2013 | 25 Sep 2013 (see s. 2(b))
 Electronic Conveyancing Act 2014 Pt. 8 | 2 of 2014 | 24 Mar 2014 | 3 Jun 2014 (see s. 2(c) and Gazette 30 May 2014 p. 1679)
 Taxation Legislation Amendment Act (No. 2) 2015 Pt. 5 | 8 of 2015 | 9 Mar 2015 | 10 Mar 2015 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 5: The Taxation Administration Act 2003 as at 22 Apr 2016 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Associations Incorporation Act 2015 s. 229 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
-Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
-The amendment to s. 114(3)(f) in the Workers’ Compensation Reform Act 2004 s. 174 is not included because the paragraph it seeks to amend was deleted by the Business Tax Review (Assessment) Act (No. 2) 2003 s. 100.
-Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. r. 1-4 and Pt. 7 Div. 1 of those regulations read as follows:
-1.Citation
-These regulations are the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
-2.Commencement
-These regulations come into operation on the day on which the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007 comes into operation.
-3.When certain modifications have effect
-(1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
-(2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes Administration) Regulations 2002 Part 5 to the extent of any inconsistency.
-Note:
-Modifications prescribed for the purposes of section 7(2) of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Gazette, see section 7(3) of the Act.
-4.Modification of State taxing laws
-(1) For the purposes of section 7(2) of the Act, each State taxing law is taken to be modified to the extent necessary to give effect to subregulation (2).
-(2) If —
-(a) a State taxing law applies, or could apply, to any extent, to or in relation to an event, state of affairs or transaction, and the corresponding applied law also applies, or could apply, to any extent, to or in relation to the same event, state of affairs or transaction; and
-(b) a person is required or permitted, or could be required or permitted, to take an action under both the State taxing law and the corresponding applied law in relation to the event, state of affairs or transaction; and
-(c) the person has taken the action in accordance with the corresponding applied law; and
-(d) the Commissioner of State Revenue has sufficient information about the event, state of affairs or transaction to carry out his or her functions in relation to it under the State taxing law or the corresponding applied law or both, as the case requires,
-then —
-(e) the person is not required to take the action under the State taxing law; and
-(f) the Commissioner may carry out his or her functions in relation to the event, state of affairs or transaction as if the person had taken whatever action is required or permitted under the State taxing law in relation to the event, state of affairs or transaction.
-(3) The particular modifications set out in these regulations of certain State taxing laws have effect for the purposes of section 7(2) of the Act.
+Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and with the modifications provided for in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 r. 4 and Pt. 7 Div. 1. Part 7 Div. 1 of those regulations reads as follows:
 Part 7 — Taxation administration
 Division 1 — The Taxation Administration Act 2003
 45.Modification of the Taxation Administration Act 2003
@@ -106,32 +85,7 @@ applied Taxation Administration Act means the Taxation Administration Act 2003 o
 Commonwealth Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth;
 Commonwealth place means a Commonwealth place in or in relation to which the applied Taxation Administration Act applies, or is taken to have applied, under the Commonwealth Act;
 ”.
-Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007. r. 1-5 and Pt. 7 Div. 1 of that notice read as follows:
-1.Citation
-This notice is the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
-2.Commencement
-This notice comes into operation on the day after the day on which it is registered under the Legislative Instruments Act 2003 of the Commonwealth.
-3.When certain modifications have effect
-(1) The modifications prescribed in Part 2, Part 3, Part 5, Part 6 Division 2 and Part 7 have effect on and from 1 July 2003.
-(2) The modifications prescribed in Part 4 have effect on and from 9 April 2006 and prevail over the modifications in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2002 Part 5 to the extent of any inconsistency.
-Note:
-Modifications prescribed in a notice under section 8 of the Act may be expressed to take effect from a date that is earlier than the date on which the modifications are published in the Commonwealth of Australia Gazette, see section 8(5) of the Act.
-4.Definitions
-In this notice —
-applied WA law means the provisions of a State taxing law of Western Australia that apply or are taken to have applied in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act;
-Commissioner of State Revenue means the Commissioner of State Revenue of Western Australia appointed in accordance with the Taxation Administration Act 2003 section 6 of Western Australia;
-Commonwealth Mirror Taxes Act means the Commonwealth Places (Mirror Taxes) Act 1998 of the Commonwealth.
-5.Modification of applied WA laws
-(1) For the purposes of the Commonwealth Mirror Taxes Act section 8, each applied WA law is taken to be modified to the extent necessary to give effect to subclause (2).
-(2) If —
-(a) an applied WA law applies, or could apply, to any extent, to or in relation to an event, state of affairs or transaction, and the corresponding State taxing law also applies, or could apply, to any extent, to or in relation to the same event, state of affairs or transaction; and
-(b) a person is required or permitted, or could be required or permitted, to take an action under both the applied WA law and the corresponding State taxing law in relation to the event, state of affairs or transaction; and
-(c) the person has taken the action in accordance with the corresponding State taxing law; and
-(d) the Commissioner of State Revenue has sufficient information about the event, state of affairs or transaction to carry out his or her functions in relation to it under the applied WA law or the corresponding State taxing law or both, as the case requires,
-then —
-(e) the person is not required to take the action under the applied WA law; and
-(f) the Commissioner may carry out his or her functions in relation to the event, state of affairs or transaction as if the person had taken whatever action is required or permitted under the applied WA law in relation to the event, state of affairs or transaction.
-(3) The particular modifications set out in this notice of certain applied WA laws have effect for the purposes of the Commonwealth Mirror Taxes Act section 8.
+1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Cth) s. 8, modifications to this Act, in its application as a Commonwealth law in Commonwealth places in Western Australia, may be prescribed. Modifications to this Act are prescribed in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007 (Cth) cl. 5 and Pt. 7 Div. 1. Part 7 Div. 1 of that notice reads as follows:
 Part 7 — Taxation administration
 Division 1 — The applied Taxation Administration Act 2003
 48.Modification of the applied Taxation Administration Act 2003
@@ -245,8 +199,11 @@ corresponding Taxation Administration Act means the Taxation Administration Act 
 “
 (in its application as a law of the Commonwealth in or in relation to Commonwealth places in Western Australia in accordance with the Commonwealth Mirror Taxes Act)
 ”.
+Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
+The Revenue Laws Amendment Act 2012 s. 42(4) was deemed to have come into operation on 1 Jul 2009, see s. 2(d) of that Act).
+The amendment to s. 114(3)(f) in the Workers’ Compensation Reform Act 2004 s. 174 cannot be included because the paragraph it seeks to amend was deleted by the Business Tax Review (Assessment) Act (No. 2) 2003 s. 100.
 Section 34(5) of this Act had not come into operation when it was deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1171(3).
-Section 41(2) and (4) of this Act had not come into operation when it was deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1175.
+Section 41(2) and (4) of this Act had not come into operation when s. 41 was deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1175.
 The definition of non reviewable decision in the Glossary of this Act had not come into operation when it was repealed by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1183.
 The Business Tax Review (Assessment) Act (No. 2) 2003 s. 100(3) reads as follows:
 100.Taxation Administration Act 2003 amended and transitional
@@ -266,10 +223,8 @@ new provisions means the provisions of the Stamp Act 1921 as amended by the Reve
 (b) on which duty has been assessed under the former provisions.
 (3) Subsection (2) does not authorise the Commissioner to make an assessment under the new provisions of the duty on an instrument to the extent (if any) to which the former provisions apply in relation to it under the Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 section 9(2)(b).
 (4) The Taxation Administration Act 2003 sections 18 and 54(1)(a) apply in relation to an assessment under subsection (2) as if it were a reassessment under section 16 of that Act.
-The amendment in the Duties Legislation Amendment Act 2008 s. 46 is not included because the section it sought to amend had been replaced by the Revenue Laws Amendment Act (No. 2) 2008 s. 7 before the amendment purported to come into operation.
-Footnote no longer applicable.
-This section has a retrospective commencement date effective from 1 Jul 2009 (see the Revenue Laws Amendment Act 2012 s. 2(d)).
-On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 229 had not come into operation. It reads as follows:
+The amendment in the Duties Legislation Amendment Act 2008 s. 46 is not included because the section it sought to amend had been replaced by the Revenue Laws Amendment Act (No. 2) 2008 s. 7 before the amendment was to come into operation.
+On the date as at which this reprint was prepared, the Associations Incorporation Act 2015 s. 229 had not come into operation. It reads as follows:
 229.Taxation Administration Act 2003 amended
 (1) This section amends the Taxation Administration Act 2003.
 (2) Delete section 67(11)(b) and insert:
@@ -289,7 +244,7 @@ chargeGl.
 commencement day136(1)
 CommissionerGl.
 completeGl.
-compromise agreement20A(1)
+compromise agreement20A(1)(a)
 compromise assessmentGl.
 corresponding CommissionerGl.
 costs of valuation24(7)
@@ -307,7 +262,7 @@ instrument82(1), Gl.
 interim assessment16A(1), Gl.
 investigation purposesGl.
 investigatorGl.
-land76A(1), 76A(1)
+land76A(1)
 landholder77A(1)
 landholder duty77A(1)
 linked entity77A(1)
@@ -317,7 +272,7 @@ objectionGl.
 official assessmentGl.
 official documentGl.
 original assessmentGl.
-original notice132(3)
+original notice132(3)(a)
 penalty taxGl.
 personGl.
 premisesGl.
