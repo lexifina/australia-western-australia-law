@@ -1,6 +1,6 @@
 ## Schedule — Matters in respect of which the Governor may make regulations
 [s. 26]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 1.The form of the common seal of the Trust and the manner in which it shall be kept and used.
 2.The care, control, management, maintenance and improvement of buildings and land controlled by, leased to or vested in the Trust (in this Schedule called Trust buildings and land).
 3.The securing of decency and order among persons within or on Trust buildings and land.
