@@ -31,11 +31,7 @@ Plumbers Licensing and Plumbing Standards Amendment Regulations 2014 | 17 Jun 20
 Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 2) 2014 | 19 Dec 2014 p. 4831-41 | r. 1 and 2: 19 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2015 (see r. 2(b))
 Plumbers Licensing and Plumbing Standards Amendment Regulations 2015 | 24 Apr 2015 p. 1495-518 | r. 1 and 2: 24 Apr 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2015 (see r. 2(b))
 Plumbers Licensing and Plumbing Standards Amendment Regulations (No. 2) 2015 | 23 Jun 2015 p. 2183-4 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
-Plumbers Licensing and Plumbing Standards Amendment Regulations 2016 (other than r. 33) | 29 Apr 2016 p. 1329-52 | r. 1 and 2: 29 Apr 2016 (see r. 2(a)); Regulations other than r. 1, 2 and 33: 30 Apr 2016 (see r. 2(c))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Plumbers Licensing and Plumbing Standards Amendment Regulations 2016 r. 33 | 29 Apr 2016 p. 1329-52 | 1 May 2016 (see r. 2(b))
+Plumbers Licensing and Plumbing Standards Amendment Regulations 2016 | 29 Apr 2016 p. 1329-52 | r. 1 and 2: 29 Apr 2016 (see r. 2(a)); Regulations other than r. 1, 2 and 33: 30 Apr 2016 (see r. 2(c)); r. 33: 1 May 2016 (see r. 2(b))
 Formerly referred to the Water Services Coordination Act 1995, the short title of which was changed to the Water Services Licensing Act 1995 by the Economic Regulation Authority Act 2003 s. 62, and then subsequently changed to the Plumbers Licensing Act 1995 by the Water Services Legislation Amendment and Repeal Act 2012 s. 193.
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
 Under the Legal Profession Act 2008 s. 630(1), a reference in an Act or document to the Legal Practice Act 2003 may, if the context permits, be taken to be a reference to the Legal Profession Act 2008.
@@ -46,20 +42,6 @@ The Country Areas Water Supply By-laws 1957 bl. 58(3) and (4) were deleted by th
 Repealed by the Building Services (Registration) Act 2011 s. 107.
 Now known as the Plumbers Licensing and Plumbing Standards Regulations 2000; citation changed (see note under r. 1). The citation was originally the Water Services Coordination (Plumbers Licensing) Regulations 2000 and was subsequently changed to the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000.
 The Water Services Coordination (Plumbers Licensing) Amendment Regulations (No. 2) 2004 Pt. 3 contains transitional provisions that are of no further effect.
-On the date as at which this compilation was prepared, the Plumbers Licensing and Plumbing Standards Amendment Regulations 2016 r. 33 had not come into operation. It reads as follows:
-33.Regulation 49 amended
-(1) In regulation 49(2) in the Table:
-(a) in the item relating to Clause 4.6.2 delete ““product.”” and insert:
-“surround).”
-(b) in the item relating to Clause 4.6.2 delete “product; and” and insert:
-surround); and
-(c) in the item relating to Table 4.3 delete “Table 4.3” and insert:
-Table 4.6.6.6
-(2) In regulation 49(3):
-(a) delete “Table 5.1” and insert:
-Table 5.9.1(A)
-(b) delete ““*”” and insert:
-“See Note 1 of Clause 5.8”
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
