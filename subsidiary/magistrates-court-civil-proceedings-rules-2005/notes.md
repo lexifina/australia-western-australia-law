@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 17 July 2015 of the Magistrates Court (Civil Proceedings) Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Magistrates Court (Civil Proceedings) Rules 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Magistrates Court (Civil Proceedings) Rules 2005 | 28 Apr 2005 p. 1651-709 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -21,10 +21,12 @@ Magistrates Court (Civil Proceedings) Amendment Rules (No. 3) 2014 | 8 Jan 2015 
 Magistrates Court (Civil Proceedings) Amendment Rules 2014 | 23 Jan 2015 p. 410-14 | r. 1 and 2: 23 Jan 2015 (see r. 2(a)); Rules other than r. 1 and 2: 24 Jan 2015 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules 2015 | 15 May 2015 p. 1726-8 | r. 1 and 2: 15 May 2015 (see r. 2(a)); Rules other than r. 1 and 2: 16 May 2015 (see r. 2(b))
 Reprint 3: The Magistrates Court (Civil Proceedings) Rules 2005 as at 17 Jul 2015 (includes amendments listed above)
+Magistrates Court (Civil Proceedings) Amendment Rules (No. 2) 2016 | 3 May 2016 p. 1360-1 | r. 1 and 2: 3 May 2016 (see r. 2(a)); Rules other than r. 1 and 2: 4 May 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Act4, 131B(1), 133AAA
+administrative staff member99A
 applicant133AAD(1)
 application4, 123
 approved form4
@@ -34,6 +36,7 @@ conferring Act123
 counterclaim4
 default judgment4
 defendant4, 65(1)
+departmental officer99A
 determined value87
 enforcement officer4
 first party66
@@ -42,7 +45,7 @@ listing conference4
 lodge4
 order4
 originating claim4
-other party133AAD(5)(b)
+other party133AAD(5)
 partnership4
 party135(1)
 personal service4
