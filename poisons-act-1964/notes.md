@@ -130,6 +130,7 @@ Reprint 9: The Poisons Act 1964 as at 19 Aug 2011 (includes amendments listed ab
 Poisons (Appendix A Amendment) Order 2012 published in Gazette 10 Feb 2012 p. 651 | cl. 1 and 2: 10 Feb 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 11 Feb 2012 (see cl. 2(b))
 Poisons (Appendix A Amendment) Order (No. 2) 2012 published in Gazette 31 Aug 2012 p. 4209 | cl. 1 and 2: 31 Aug 2012 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Sep 2012 (see cl. 2(b))
 Poisons (Appendix A Amendment) Order 2014 published in Gazette 27 Jun 2014 p. 2328-30 | cl. 1 and 2: 27 Jun 2014 (see cl. 2(a)); Order other than cl. 1 and 2: 28 Jun 2014 (see cl. 2(b))
+Poisons (Appendix A Amendment) Order 2016 published in Gazette 6 May 2016 p. 1383-4 | cl. 1 and 2: 6 May 2016 (see cl. 2(a)); Order other than cl. 1 and 2: 7 May 2016 (see cl. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
