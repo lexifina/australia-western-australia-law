@@ -29,8 +29,8 @@ Conservation and Land Management Amendment Regulations (No. 3) 2015 | 10 Nov 201
 Conservation and Land Management Amendment Regulations (No. 5) 2015 | 4 Dec 2015 p. 4841-2 | r. 1 and 2: 4 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2015 (see r. 2(b))
 Conservation and Land Management Amendment Regulations (No. 6) 2015 | 11 Dec 2015 p. 4954-6 | 12 Dec 2015 (see r. 2 and Gazette 11 Dec 2015 p. 4953)
 Conservation and Land Management Amendment Regulations (No. 2) 2016 | 4 Apr 2016 p. 1011-12 | r. 1 and 2: 4 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Apr 2016 (see r. 2(b))
+Conservation and Land Management Amendment Regulations 2016 | 6 May 2016 p. 1381-2 | 7 May 2016 (see r. 2 and Gazette 6 May 2016 p. 1379-80)
 Footnote no longer applicable.
-Deleted by the Conservation Legislation Amendment Act 2011 s. 10.
 Repealed by these regulations.
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
 The Financial Management (Transitional Provisions) Regulations 2009 r. 4 reads as follows:
@@ -123,7 +123,6 @@ tree2
 Tree Top Walk100(1)
 urban land114, 118(2), 119(3)
 vehicle2
-vessel2
 vessel storage facility65A(1)
 visitor area114
 waste21(5)
