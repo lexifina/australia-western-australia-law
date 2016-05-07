@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 March 2016 of the Fish Resources Management Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fish Resources Management Act 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fish Resources Management Act 1994 | 53 of 1994 | 2 Nov 1994 | s. 1 and 2: 2 Nov 1994; Act other than s. 1 and 2: 1 Oct 1995 (see s. 2 and Gazette 29 Sep 1995 p. 4649)
@@ -36,12 +36,12 @@ Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt.
 Fish Resources Management Amendment Act 2011 | 43 of 2011 | 12 Oct 2011 | s. 1 and 2: 12 Oct 2011 (see s. 2(a)); Act other than s. 1 and 2: 5 Nov 2011 (see s. 2(b) and Gazette 4 Nov 2011 p. 4629)
 Reprint 4: The Fish Resources Management Act 1994 as at 13 Jan 2012 (includes amendments listed above except those in the Personal Property Securities (Consequential Repeals and Amendments) Act 2011)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 24 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
-Reprint 5: The Fish Resources Management Act 1994 as at 4 Mar 2016 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+Conservation and Land Management Amendment Act 2015 s. 73 | 30 of 2015 | 2 Nov 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
+Reprint 5: The Fish Resources Management Act 1994 as at 4 Mar 2016 (includes amendments listed above except those in the Conservation and Land Management Amendment Act 2015)
+On the date as at which compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
-Conservation and Land Management Amendment Act 2015 s. 73 | 28 of 2015 | 19 Oct 2015 | To be proclaimed (see s. 2(b))
 Associations Incorporation Act 2015 s. 232 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 The amendment to s. 245(1) in the Public Sector Reform Act 2010 s. 89 is not included because the section it sought to amend was deleted by the Fish Resources Management Amendment Act 2009 s. 19.
 The Fish Resources Management Amendment Act 2002 s. 8(2)-(4) read as follows:
@@ -84,33 +84,7 @@ On the date as at which this reprint was prepared, the Biosecurity and Agricultu
 “ or the Biosecurity and Agriculture Management Act 2007 ”.
 (8) Section 258(i) is deleted.
 The Standardisation of Formatting Act 2010 s. 4, the amendment to Schedule 1, had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 39(2)(a).
-On the date as at which this reprint was prepared, the Conservation and Land Management Amendment Act 2015 s. 73 had not come into operation. It reads as follows:
-73.Fish Resources Management Act 1994 amended
-(1) This section amends the Fish Resources Management Act 1994.
-(2) Delete section 136A(1) and (2) and insert:
-(1) An authorisation must not be issued or renewed if it would authorise a person to engage in —
-(a) commercial fishing in an area of a marine nature reserve; or
-(b) commercial fishing in an area, or part of an area, of a marine park from which commercial fishing is excluded under the Conservation and Land Management Act 1984 section 13B(6A)(a); or
-(c) commercial fishing of a type or class specified in a declaration under the Conservation and Land Management Act 1984 section 13B(3B)(c) in an area, or part of an area, of a marine park from which commercial fishing of that type or class is excluded under the Conservation and Land Management Act 1984 section 13B(6A)(b).
-(2) An authorisation must not be issued or renewed if it would authorise a person to engage in —
-(a) recreational fishing in an area of a marine nature reserve; or
-(b) recreational fishing in an area, or part of an area, of a marine park from which recreational fishing is excluded under the Conservation and Land Management Act 1984 section 13B(7A)(a); or
-(c) recreational fishing of a type or class specified in a declaration under the Conservation and Land Management Act 1984 section 13B(3A)(b) or 13B(3B)(e) in an area, or part of an area, of a marine park from which recreational fishing of that type or class is excluded under the Conservation and Land Management Act 1984 section 13B(7A)(b).
-(3) In section 136A(4):
-(a) after “an authorisation” insert:
-to engage in commercial fishing generally, or commercial fishing of a type or class,
-(b) in paragraph (b) delete “commercial fishing” and insert:
-the commercial fishing
-(4) After section 136A(4) insert:
-(5) If an authorisation to engage in recreational fishing generally, or recreational fishing of a type or class, relates to a particular area (the authorised area) and a part of the authorised area becomes —
-(a) an area of a marine nature reserve; or
-(b) an area of a marine park from which the recreational fishing is excluded under the Conservation and Land Management Act 1984 section 13B,
-nothing in this section prevents the authorisation from being renewed in respect of the remainder of the authorised area.
-(6) If —
-(a) an authorisation relates to more than one type or class of commercial fishing or recreational fishing in a particular area, or part of a particular area, of a marine park; and
-(b) a declaration is made under the Conservation and Land Management Act 1984 section 13B(3A)(b) or (3B)(c) or (e) in relation to any of those types or classes of commercial fishing or recreational fishing in that area or part; and
-(c) the area or part is not an area or part from which the remainder of the types or classes of commercial fishing or recreational fishing are excluded under the Conservation and Land Management Act 1984 section 13B,
-nothing in this section prevents the authorisation from being renewed in respect of the types or classes of commercial fishing or recreational fishing that are not so excluded in that area or part.
+No longer applicable.
 On the date as at which this reprint was prepared, the Associations Incorporation Act 2015 s. 232 had not come into operation. It reads as follows:
 232.References to “1987” amended to “2015” in various Acts
 (1) This section amends the Acts listed in the Table.
