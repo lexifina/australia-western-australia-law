@@ -8,9 +8,15 @@ The following substances are added to Schedule 9 to the SUSMP —
 *ALKOXYAMPHETAMINES AND BROMO-SUBSTITUTED ALKOXYAMPHETAMINES except where separately specified in Schedule 9.
 *ALKOXYPHENETHYLAMINES AND ALKYL-SUBSTITUTED ALKOXYPHENETHYLAMINES except where separately specified in Schedule 9.
 *ALPHA-pyrrolidinovalerophenone (Alpha-PVP).
+*N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-pentyl-1H-indazole-3-carboxamide (ADB-PINACA).
+*N-[1-(aminocarbonyl)-2-methylpropyl]-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (AB-CHMINACA).
+*N-[(1S)-1-(aminocarbonyl)-2-methylpropyl]-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (5F-AB-PINACA).
 *N-[(1S)-1-(aminocarbonyl)-2-methylpropyl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide (AB-FUBINACA).
 *N-[(1S)-1-(aminocarbonyl)-2-methylpropyl]-1-pentyl-1H-indazole-3-carboxamide (AB PINACA).
 *6-(2-AMINOPROPYL)benzofuran (6-APB).
+*N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (MAB-CHMINACA or ADB-CHMINACA).
+*N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indole-3-carboxamide (5F-ADBICA).
+*N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indole-3-carboxamide (5F-ABICA).
 *BENZYLPIPERAZINE *(BZP).
 *4-BROMO-3,5-DIMETHOXYAMPHETAMINE.
 *3-BROMO-4-METHOXYAMPHETAMINE.
@@ -19,6 +25,7 @@ The following substances are added to Schedule 9 to the SUSMP —
 *CANNABIS OIL.
 *CANNABIS RESIN.
 *[3-(3-carbamoylphenyl)phenyl]N-cyclohexylcarbamate (URB-597).
+*(E)-4-chloro-N-(1-(4-nitrophenethyl)piperidin-2-ylidene)benzenesulfonamide (W-18).
 *(1R,2S,3S,5S)-3-(4-chlorophenyl)-8-methyl-2-[3-(4-methylphenyl)-5-isoxazolyl]-8-azabicyclo[3.2.1]octane (RTI-336).
 *Cyclohexyl-[1,1-biphenyl]-3-ylcarbamate (URB-602).
 *1-(cyclohexylmethyl)-1H-indole-3-carboxylic acid 8-quinolinyl ester (BB-22).
@@ -35,16 +42,19 @@ The following substances are added to Schedule 9 to the SUSMP —
 *1,3-DIMETHYLAMYLAMINE (DMAA).
 *5-(1,1-DIMETHYLHEPTYL)-2-[(1R,3S)-3- HYDROXY-CYCLOHEXYL]-PHENOL *(CP 47, 497).
 *5-(1,1-DIMETHYLOCTYL)-2-[(1R,3S)-3- HYDROXY-CYCLOHEXYL]-PHENOL *(CANNABICYCLOHEXANOL or CP 47, 497 C8 HOMOLOGUE).
+*Diphenidine.
 *4,5-ETHYLENEDIOXY-3-METHOXYAMPHETAMINE.
 *1-(5-fluoropentyl)-1H-indole-3-carboxylic acid 8-quinolinyl ester (5F-PB22).
 *[1-(5-fluoropentyl)-1H-indol-3-yl]-(2,2,3,3-tetramethylcyclopropyl)methanone (XLR11 or 5-fluoro UR144).
 *1-(5-fluoropentyl)-3-(4-methyl-1-naphthoyl)indole (MAM-2201).
+*1-(5-fluoropentyl)-N-(1-methyl-1-phenylethyl)-1H-indazole-3-carboxamide (SGT-25).
 *1-(5-FLUOROPENTYL)-3-(1-NAPHTHOYL)INDOLE (AM-2201).
 *1-HEXYL-3-(1-NAPHTHOYL)INDOLE (JWH-019).
 *9-(HYDROXYMETHYL)-6,6-DIMETHYL-3-(2-METHYLOCTAN-2-YL)-6A,7,10,10A-TETRAHYDROBENZO[C]CHROMEN-1-OL (HU-210).
 *N-(2-methoxylbenzyl)-2,5-dimethoxy-4-bromophenethylamine (25B-NBOMe).
 *N-(2-methoxylbenzyl)-2,5-dimethoxy-4-chlorophenethylamine (25C-NBOMe).
 *N-(2-methoxylbenzyl)-2,5-dimethoxy-4-iodophenethylamine (25I-NBOMe).
+*2-Methoxydiphenidine (2-MXP or MXP).
 *2-METHOXY-3,4-METHYLENEDIOXYAMPHETAMINE.
 *2-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE.
 *4-METHOXY-2,3-METHYLENEDIOXYAMPHETAMINE.
@@ -55,6 +65,8 @@ The following substances are added to Schedule 9 to the SUSMP —
 *2-(2-METHOXYPHENYL)-1-(1-PENTYLINDOL-3-YL) ETHANONE *(JWH-250).
 *2-(3-METHOXYPHENYL)-1-(1-PENTYLINDOL-3-YL)ETHANONE (JWH-302).
 *4-METHOXYPHENYLETHYLAMINE.
+*methyl (S)-2-[1-(5-fluoropentyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoate (5F-ADB).
+*methyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3-methylbutanoate (5F-AMB).
 *5,6-methylenedioxy-2aminoindane (MDAI).
 *3,4-METHYLENEDIOXY-N-ETHYLAMPHETAMINE *(MDE).
 *3,4-METHYLENEDIOXYPYROVALERONE (MDPV).
@@ -87,4 +99,4 @@ The following substances are added to Schedule 9 to the SUSMP —
 *2,4,5-TRIMETHOXYAMPHETAMINE.
 *2,4,6-TRIMETHOXYAMPHETAMINE.
 *2,4,5-TRIMETHOXYPHENYLETHYLAMINE.
-[Schedule 9 inserted in Gazette 19 Mar 1996 p. 1209-10; amended in Gazette 8 Nov 2002 p. 5434; 22 Oct 2010 p. 5217; 17 Jun 2011 p. 2152; 5 Aug 2011 p. 3182-3; 10 Feb 2012 p. 651; 31 Aug 2012 p. 4209; 27 Jun 2014 p. 2329-30.]
+[Schedule 9 inserted in Gazette 19 Mar 1996 p. 1209-10; amended in Gazette 8 Nov 2002 p. 5434; 22 Oct 2010 p. 5217; 17 Jun 2011 p. 2152; 5 Aug 2011 p. 3182-3; 10 Feb 2012 p. 651; 31 Aug 2012 p. 4209; 27 Jun 2014 p. 2329-30; 6 May 2016 p. 1384.]
