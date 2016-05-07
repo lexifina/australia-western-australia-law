@@ -6,10 +6,7 @@ Fishing and Related Industries Compensation (Marine Reserves) Act 1997 | 39 of 1
 Reprint 1: The Fishing and Related Industries Compensation (Marine Reserves) Act 1997 as at 6 Aug 2004
 State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 53 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
 Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 8 Div. 2 | 28 of 2006 | 26 Jun 2006 | 1 Jul 2006 (see s. 2 and Gazette 27 Jun 2006 p. 2347)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Conservation and Land Management Amendment Act 2015 s. 74 | 28 of 2015 | 19 Oct 2015 | To be proclaimed (see s. 2(b))
+Conservation and Land Management Amendment Act 2015 s. 74 | 28 of 2015 | 19 Oct 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administration Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 51 reads as follows:
@@ -31,13 +28,6 @@ Division 5 — Transitional provisions
 (3) In this section —
 commencement means the time at which section 232 comes into operation.
 ”.
-On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 2015 s. 74 had not come into operation. It reads as follows:
-74.Fishing and Related Industries Compensation (Marine Reserves) Act 1997 amended
-(1) This section amends the Fishing and Related Industries Compensation (Marine Reserves) Act 1997.
-(2) In section 4(d) delete “would be” and insert:
-would, either wholly, or in the case of commercial fishing, by reference to a class or type of commercial fishing, be
-(3) After section 5(2)(a) insert:
-(ba) the authorisation relates to commercial fishing of more than one type or class and will not be able to be renewed in respect of each of those types or classes;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
