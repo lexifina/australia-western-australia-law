@@ -78,12 +78,12 @@ Reprint 8: The Mining Act 1978 as at 7 Oct 2011 (includes amendments listed abov
 Mining Amendment Act 2012 | 51 of 2012 | 29 Nov 2012 | s. 1 and 2: 29 Nov 2012 (see s. 2(a)); Act other than s. 1 and 2: 2 Feb 2013 (see s. 2(b) and Gazette 1 Feb 2013 p. 447)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 29 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Alumina Refinery (Mitchell Plateau) Agreement (Termination) Act 2015 Pt. 3 | 31 of 2015 | 2 Nov 2015 | 3 Nov 2015 (see s. 2(b))
+Conservation and Land Management Amendment Act 2015 s. 77 | 28 of 2015 | 19 Oct 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Mining Legislation Amendment Act 2014 Pt. 2 | 4 of 2014 | 22 Apr 2014 | To be proclaimed (see s. 2(b))
-Conservation and Land Management Amendment Act 2015 s. 77 | 28 of 2015 | 19 Oct 2015 | To be proclaimed (see s. 2(b))
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
 The Mining Amendment Act 1981 s. 3 reads as follows:
@@ -388,11 +388,6 @@ Table
 s. 46(aa)(ii) | s. 63(aa)(ii)
 s. 70H(1)(aa)(ii) | s. 82(1)
 s. 84AA
-On the date as at which this compilation was prepared, the Conservation and Land Management Amendment Act 2015 s. 77 had not come into operation. It reads as follows:
-77.Mining Act 1978 amended
-(1) This section amends the Mining Act 1978.
-(2) In section 40B(1)(b) delete “Conservation Commission.” and insert:
-Conservation and Parks Commission established under the Conservation and Land Management Act 1984.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
