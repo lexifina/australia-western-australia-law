@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government Act 1995 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This reprint is a compilation as at 13 May 2016 of the Local Government Act 1995 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Local Government Act 1995 | 74 of 1995 | 9 Jan 1996 | 1 Jul 1996 (see s. 1.2)
@@ -25,7 +25,7 @@ Acts Amendment (Equality of Status) Act 2003 Pt. 38 | 28 of 2003 | 22 May 2003 |
 Statutes (Repeals and Minor Amendments) Act 2003 s. 79 | 74 of 2003 | 15 Dec 2003 | 15 Dec 2003 (see s. 2)
 Reprint 2: The Local Government Act 1995 as at 2 Apr 2004 (includes amendments listed above except those in the Road Traffic Amendment (Vehicle Licensing) Act 2001) (correction in Gazette 1 Oct 2004 p. 4283)
 Workers’ Compensation Reform Act 2004 s. 165 | 42 of 2004 | 9 Nov 2004 | 4 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7131)
-Local Government Amendment Act 2004 17-22 | 49 of 2004 (as amended by No. 8 of 2009 s. 88; No. 17 of 2009 s. 48) | 12 Nov 2004 | s. 1 and 2: 12 Nov 2004; s. 17, 30-37, 38(1) and (2) and 39-41: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); s. 10-15, 18, 21, 22, 42, 46(3), 47, 48, 53, 55-58, 61-64, 67, 68, 70, 71, 73 and 74: 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029); s. 4-9, 16(4), 19(1), 23-29, 43-45, 46(1), (2) and (4), 49-52, 54, 65, 66, 69 and 72: 7 May 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029 and 29 Apr 2005 p. 1771); Proclamation published 31 Mar 2005 p. 1029 revoked to the extent that the proclamation applies to s. 16(1), (2), (3) and (5) and s. 19(2) (see Gazette 29 Apr 2005 p. 1771); s. 59 and 60: 1 Jul 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029)
+Local Government Amendment Act 2004 18-23 | 49 of 2004 (as amended by No. 8 of 2009 s. 88; No. 17 of 2009 s. 48) | 12 Nov 2004 | s. 1 and 2: 12 Nov 2004; s. 17, 30-37, 38(1) and (2) and 39-41: 22 Jan 2005 (see s. 2 and Gazette 21 Jan 2005 p. 257); s. 10-15, 18, 21, 22, 42, 46(3), 47, 48, 53, 55-58, 61-64, 67, 68, 70, 71, 73 and 74: 1 Apr 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029); s. 4-9, 16(4), 19(1), 23-29, 43-45, 46(1), (2) and (4), 49-52, 54, 65, 66, 69 and 72: 7 May 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029 and 29 Apr 2005 p. 1771); Proclamation published 31 Mar 2005 p. 1029 revoked to the extent that the proclamation applies to s. 16(1), (2), (3) and (5) and s. 19(2) (see Gazette 29 Apr 2005 p. 1771); s. 59 and 60: 1 Jul 2005 (see s. 2 and Gazette 31 Mar 2005 p. 1029)
 Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended by No. 2 of 2008 s. 77(13)) | 23 Nov 2004 | 1 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
  | State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 2 Div. 76 | 55 of 2004 | 24 Nov 2004 | 1 Jan 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7130)
  | Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 Pt. 11 and s. 80 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
@@ -58,8 +58,9 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 (as amended
  | Reprint 6: The Local Government Act 1995 as at 3 Aug 2012 (includes amendments listed above except those in the Co-operatives Act 2009 s. 516, Local Government Amendment Act 2012 s. 14-18 (correction in Gazette 7 Sep 2012 p. 4329 and 28 Mar 2013 p. 1317) and the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 29)
  | Commercial Arbitration Act 2012 s. 45 it. 12 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
  | Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 35 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
- | City of Perth Act 2016 Pt. 4 Div 4 | 2 of 2016 | 3 Mar 2016 | 4 Mar 2016 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+ | City of Perth Act 2016 Pt. 4 Div. 4 | 2 of 2016 | 3 Mar 2016 | 4 Mar 2016 (see s. 2(b))
+ | Reprint 7: The Local Government Act 1995 as at 13 May 2016 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Associations Incorporation Act 2015 s. 223 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
@@ -67,8 +68,9 @@ The provisions in this Act amending the Local Government Act 1960 have been omit
 Repealed by the Mining Act 1978.
 The short title of the Local Government Act 1960 was amended to the Local Government (Miscellaneous Provisions) Act 1960 by Sch. 9.2 cl. 2 of this Act. That provision has now been omitted.
 Under the Land Administration Act 1997 s. 281(3) a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be read and construed as if that reference were a reference to the Land Administration Act 1997.
+There is no s. 4.31(1)(c) because this provision was amended and renumbered by the Standardisation of Formatting Act 2010 s. 51 Table item 42.
 The Criminal Code s. 348 and 349 were deleted by the Defamation Act 2005 s. 47.
-The provisions of the Local Government Act 1960 Pt. VIA as continued by Sch. 9.3 cl. 16 of this Act and amended by the Local Government (Amendment of Part VIA – Employee Superannuation) Regulations 2006 r. 4 and 5 (published in Gazette 26 May 2006 p. 1877-8) and the City of Perth Act 2016 Pt. 4 Div. 3 read as follows:
+The provisions of the Local Government Act 1960 Pt. VIA as continued by Sch. 9.3 cl. 16 of this Act and amended by the Local Government (Amendment of Part VIA – Employee Superannuation) Regulations 2006 r. 4 and 5 (published in Gazette 26 May 2006 p. 1877-8) read as follows:
 Part VIA — Employee Superannuation
 170A.Interpretation
 (1) In this Part —
@@ -112,7 +114,7 @@ then, despite section 170B, the regional council shall, in respect of that perso
 (2) A person referred to in subsection (1) does not cease to be a member of the City of Perth scheme by reason only of ceasing to be an employee of the City of Perth.
 170E.Other superannuation schemes
 Nothing in this Part prevents a municipality from participating, in respect of an employee of the municipality, in a superannuation scheme in addition to either the industry scheme or the City of Perth scheme (as the case may be) if the municipality and the employee agree to participate in that other scheme.
-The Local Government Act 1995 is affected by the Dampier to Bunbury Pipeline Act 1997 Sch. 4 cl. 36 which reads as follows:
+The Local Government Act 1995 is affected by the Dampier to Bunbury Pipeline Act 1997 Sch. 4 cl. 36, which reads as follows:
 36.Payment in place of local government rates
 (1) The DBNGP Land Access Minister is not liable to pay rates in respect of land in the DBNGP corridor.
 (2) A holder of rights conferred under section 34 of this Act or the holder’s nominee approved under section 34(3) of this Act is not, as the holder of those rights or the holder’s nominee, liable to pay rates.
@@ -122,7 +124,7 @@ The Local Government Act 1995 is affected by the Dampier to Bunbury Pipeline Act
 DBNGP corridor and DBNGP Land Access Minister have the meanings given by section 27 of this Act;
 rates means rates under the Local Government Act 1995;
 utilized corridor land means land in the DBNGP corridor in respect of which rights under section 34 of this Act are held, regardless of whether rights are held by one holder or several holders.
-The Local Government Act 1995 is affected by the Gas Corporation (Business Disposal) Act 1999 s. 67 which reads as follows:
+The Local Government Act 1995 is affected by the Gas Corporation (Business Disposal) Act 1999 s. 67, which reads as follows:
 67.Presence of pipeline does not constitute occupation of land
 Despite anything to the contrary in the Local Government Act 1995, land is not to be regarded as being occupied for the purposes of that Act merely because —
 (a) there is on or under that land any pipe or system of pipes for or incidental to the transport of gas in respect of which a distribution licence has been issued under Part 2A of the Energy Coordination Act 1994; or
@@ -229,13 +231,11 @@ the LG Act means the Local Government Act 1995.
 (2) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.77 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.77.
 (3) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.78 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.78.
 References to the Executive Director were replaced by references to the Departmental CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
-On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 223 had not come into operation. It reads as follows:
+On the date as at which this reprint was prepared, the Associations Incorporation Act 2015 s. 223 had not come into operation. It reads as follows:
 223.Local Government Act 1995 amended
 (1) This section amends the Local Government Act 1995.
 (2) In section 5.74 in the definition of corporation paragraph (e) delete “incorporated under the Associations Incorporation Act 1987;” and insert:
 incorporated, or taken to be incorporated, under the Associations Incorporation Act 2015;
-28-30Footnote no longer applicable.
-There is no s. 4.31(1)(c) because this provision was amended and renumbered by the Standardisation of Formatting Act 2010 s. 51 table item 42.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
