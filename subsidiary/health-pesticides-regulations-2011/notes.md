@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Health (Pesticides) Regulations 2011 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 13 May 2016 of the Health (Pesticides) Regulations 2011 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Health (Pesticides) Regulations 2011 | 1 Feb 2011 p. 291-372 | r. 1 and 2: 1 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Feb 2011 (see r. 2(b))
@@ -8,6 +8,7 @@ Health (Pesticides) Amendment Regulations 2013 | 19 Nov 2013 p. 5294-5 | r. 1 an
 Health (Pesticides) Amendment Regulations (No. 2) 2014 | 28 Nov 2014 p. 4412-13 | r. 1 and 2: 28 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2014 (see r. 2(b))
 Health (Pesticides) Amendment Regulations (No. 2) 2015 | 19 May 2015 p. 1758-9 | r. 1 and 2: 19 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Health (Pesticides) Amendment Regulations 2016 | 29 Jan 2016 p. 269-73 | r. 1 and 2: 29 Jan 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2016 (see r. 2(b))
+Reprint 1: The Health (Pesticides) Regulations 2011 as at 13 May 2016 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
