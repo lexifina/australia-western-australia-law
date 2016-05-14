@@ -28,42 +28,7 @@ Acts Amendment (Fair Trading) Act 2010 s. 193 | 58 of 2010 | 8 Dec 2010 | 1 Jan 
 Health, Safety and Civil Liability (Children in Schools and Child Care Services) Act 2011 Pt. 2 | 1 of 2011 | 1 Mar 2011 | 1 Jan 2013 (see s. 2(b) and Gazette 14 Dec 2012 p. 6195)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 3 | 11 of 2012 | 20 Jun 2012 | 1 Jan 2013 (see s. 2(b)(ii) and Gazette 14 Dec 2012 p. 6195)
 Reprint 4: The Civil Liability Act 2002 as at 13 Sep 2013 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Motor Vehicle (Catastrophic Injuries) Act 2016 Pt. 7, Div. 1 | 8 of 2016 | 14 Apr 2016 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared the Motor Vehicle (Catastrophic Injuries) Act 2016 Pt. 7 Div. 1 had not come into operation. It reads as follows:
-Part 7 — Other Acts amended
-Division 1 — Civil Liability Act 2002 amended
-37.Act amended
-This Division amends the Civil Liability Act 2002.
-38.Section 13A inserted
-At the end of Part 2 Division 3 insert:
-13A.Restrictions on damages if payments received under CISS
-(1) In this section —
-CISS means the scheme provided for in the MV(CI) Act for the lifetime care and support of certain people catastrophically injured in motor vehicle accidents;
-interim participant means a person who under the MV(CI) Act is an interim participant in the CISS;
-lifetime participant means a person who under the MV(CI) Act is a lifetime participant in the CISS;
-MV(CI) Act means the Motor Vehicle (Catastrophic Injuries) Act 2016;
-treatment, care and support needs means —
-(a)treatment, care and support needs as defined in the MV(CI) Act section 3(1); and
-(b)excluded treatment, care and support needs as defined in that section.
-(2) If a term used in this section (other than a term defined in subsection (1)) is given a meaning in the MV(CI) Act section 3(1), it has the same meaning in this section.
-(3) Without limiting the meaning given in subsection (1) to the term treatment, care and support needs it includes gratuitous services of a domestic nature or gratuitous services relating to nursing and attendance provided, or to be provided, to a person by a member of the same household or family as the person.
-(4) Subsection (5) applies to the awarding of damages in respect of a motor vehicle injury suffered by a person if the person is a participant in the CISS in respect of the injury.
-(5) No damages are to be awarded to the person in respect of —
-(a) any treatment, care and support needs of the person that relate to the motor vehicle injury and that have arisen during the period in respect of which the person is a participant in the CISS; or
-(b) any treatment, care and support needs of the person that relate to the motor vehicle injury and that will or may arise in future.
-(6) If the person is an interim participant, it is to be assumed for the purposes of subsection (5) that the person will become a lifetime participant in respect of the bodily injury.
-(7) Subsection (8) applies to the awarding of damages in respect of a motor vehicle injury suffered by a person if the person —
-(a) has ceased to be an interim participant in respect of the injury; and
-(b) has not become a lifetime participant in respect of the injury.
-(8) No damages are to be awarded to the person in respect of any treatment, care and support needs of the person that relate to the motor vehicle injury and that arose during the period in respect of which the person was an interim participant.
-(9) Subsections (5) and (8) apply —
-(a) whether or not the treatment, care and support needs are assessed treatment, care and support needs; and
-(b) whether or not the Commission is required to make a payment in respect of the treatment, care and support needs; and
-(c) whether or not any treatment, care, support or service is provided on a gratuitous basis.
-(10) This section has effect despite section 12.
+Motor Vehicle (Catastrophic Injuries) Act 2016 Pt. 7 Div. 1 | 8 of 2016 | 14 Apr 2016 | 14 May 2016 (see s. 2(b) and Gazette 13 May 2016 p. 1421)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -76,6 +41,7 @@ approved21(3)
 carry out road work5Z(1)
 child5I(16)
 child care service5AAA
+CISS13A(1)
 client16
 commencement day5A(5), 5R(5), 5V(5), 5AAB(1), 5AC(6), 5AG(5)
 community kindergarten5AAA
@@ -98,15 +64,18 @@ incompetent person5I(16)
 inherent risk5E
 injured person5C(3)
 insurer19(8)
+interim participant13A(1)
 intoxicated5L(4)
 law practice16
 legal practitioner16
+lifetime participant13A(1)
 loss of earnings11(2)
 LPI4(2)
 medical qualifications5AB
 medically qualified good samaritan5AB
 mental harm5Q
 misconduct21(3)
+MV(CI) Act13A(1)
 non-pecuniary loss9(4)
 obvious risk5E, 5M
 other person5AKA(1)
@@ -135,3 +104,4 @@ staff member5AAA
 structured settlement14
 the relevant Act21(1)
 tortfeasor5C(1)
+treatment, care and support needs13A(1)

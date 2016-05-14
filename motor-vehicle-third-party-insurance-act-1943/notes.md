@@ -66,10 +66,7 @@ Legal Profession Act 2008 s. 682 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Reprint 12: The Motor Vehicle (Third Party Insurance) Act 1943 as at 24 Apr 2009 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 23 and 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 34 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Motor Vehicle (Catastrophic Injuries) Act 2016 Pt. 7, Div. 3 | 8 of 2016 | 14 Apr 2016 | To be proclaimed (see s. 2(b))
+Motor Vehicle (Catastrophic Injuries) Act 2016 Pt. 7 Div. 3 | 8 of 2016 | 14 Apr 2016 | 14 May 2016 (see s. 2(b) and Gazette 13 May 2016 p. 1421)
 For the purposes of s. 3C and 3D, the Amounts A, B, C and D for the financial years beginning after 30 June 1994 up to the date of this reprint are as set out in this Table.
 Financial year beginning | Amount A | Amount B | Amount C | Amount D | Gazette
 1 July 1994 | $201 000 | $10 000 | $30 000 | $5 000 | 24 Jun 1994 p. 2944
@@ -150,139 +147,6 @@ transitional matter means a matter that needs to be dealt with for the purpose o
 (4) To the extent that a regulation including a provision described in subsection (1) may have effect before the day of its publication in the Gazette, it does not —
 (a) affect in a manner prejudicial to any person (other than the State or an agency of the State), the rights of that person existing before the day of its publication; or
 (b) impose liabilities on any person (other than the State or an agency of the State) in respect of anything done or omitted to be done before the day of its publication.
-”.
-On the date as at which this compilation was prepared the Motor Vehicle (Catastrophic Injuries) Act 2016 Pt. 7 Div. 3 had not come into operation. It reads as follows:
-Part 7 — Other Acts amended
-Division 3 — Motor Vehicle (Third Party Insurance) Act 1943 amended
-43.Act amended
-This Division amends the Motor Vehicle (Third Party Insurance) Act 1943.
-44.Section 3 amended
-In section 3(1) insert in alphabetical order:
-assessed treatment, care and support needs has the meaning given in the MV(CI) Act section 18(2);
-catastrophic injury has the meaning given in the MV(CI) Act section 3(1);
-CISS means the scheme provided for in the MV(CI) Act for the lifetime care and support of certain people catastrophically injured in motor vehicle accidents;
-MV(CI) Act means the Motor Vehicle (Catastrophic Injuries) Act 2016;
-45.Section 3EA inserted
-After section 3E insert:
-3EA.Restrictions on damages if payments received under CISS
-(1) In this section —
-interim participant means a person who under the MV(CI) Act is an interim participant in the CISS;
-lifetime participant means a person who under the MV(CI) Act is a lifetime participant in the CISS;
-treatment, care and support needs means —
-(a)treatment, care and support needs as defined in the MV(CI) Act section 3(1); and
-(b)excluded treatment, care and support needs as defined in that section.
-(2) Without limiting the meaning given in subsection (1) to the term treatment, care and support needs it includes gratuitous services of a domestic nature or gratuitous services relating to nursing and attendance provided, or to be provided, to a person by a member of the same household or family as the person.
-(3) Subsection (4) applies to the awarding of damages in respect of bodily injury to a person directly caused by, or by the driving of, a motor vehicle if the person —
-(a) has ceased to be an interim participant in respect of the bodily injury; and
-(b) has not become a lifetime participant in respect of the bodily injury.
-(4) No damages are to be awarded to the person in respect of any treatment, care and support needs of the person that relate to the bodily injury and that arose during the period in respect of which the person was an interim participant.
-(5) Subsection (4) applies —
-(a) whether or not the treatment, care and support needs are assessed treatment, care and support needs; and
-(b) whether or not the Commission is required to make a payment in respect of the treatment, care and support needs; and
-(c) whether or not any treatment, care, support or service is provided on a gratuitous basis.
-(6) If subsection (4) applies a court is not to award damages to a person contrary to that subsection.
-46.Sections 3FA and 3FB inserted
-After section 3F insert:
-3FA.Restrictions on damages to be part of the substantive law
-(1) In this section —
-restrictive provisions means sections 3A to 3F.
-(2) To remove doubt it is declared that if the substantive law of Western Australia is to govern a claim for damages in respect of bodily injury to a person directly caused by, or by the driving of, a motor vehicle, the restrictive provisions are part of that substantive law and are to be applied accordingly by the court that determines the claim (including a court of another jurisdiction).
-(3) This subsection applies if —
-(a) a court (including a court of another jurisdiction) awards damages to a person in respect of bodily injury to a person directly caused by, or by the driving of, a motor vehicle; and
-(b) the award does not conform with the restrictive provisions.
-(4) If subsection (3) applies, the person against whom the award is made is not required to pay the damages awarded to the extent that the award is contrary to the restrictive provisions.
-(5) If subsection (3) applies and the person against whom the award is made has paid as damages an amount in excess of the amount that would have been payable if the award had conformed with the restrictive provisions, that person is entitled to recover the excess as a debt from the person to whom the payment is made.
-3FB.Damages for treatment, care and support needs: catastrophic injury
-(1) In this section —
-treatment, care and support needs has the meaning given in the MV(CI) Act section 6.
-(2) Subsection (3) applies to the awarding of damages in respect of catastrophic injury to a person directly caused by, or by the driving of, a motor vehicle to the extent that the damages relate to any treatment, care and support needs of the person that have arisen or will or may arise in the future.
-(3) In determining the amount of damages, no deduction is to be made for any contributory negligence of the person in relation to the catastrophic injury to which the damages relate.
-(4) If subsection (3) applies a court awarding damages to a person is to award them in accordance with that subsection.
-47.Section 3T amended
-(1) In section 3T(1) delete the passage that begins with “by the Commission,” and continues to the end of the subsection and insert:
-and the MV(CI) Act by the Commission, will be sufficient to meet claims, payments, costs and other expenses anticipated to arise or to be incurred under this Act and the MV(CI) Act.
-(2) In section 3T(2) delete “the Fund.” and insert:
-the Fund and the Motor Vehicle (Catastrophic Injuries) Fund established under the Insurance Commission of Western Australia Act 1986 section 16(1)(b).
-48.Section 4 amended
-Delete section 4(8) and insert:
-(8) Despite anything to the contrary in the Vehicles Act, no licence is to be granted or renewed under that Act in respect of a motor vehicle unless, before or at the time of the grant or renewal, there is paid to and received by the Director General the appropriate insurance premium determined by the Commission for the class of vehicle concerned and for the period for which the licence is granted or renewed.
-(8A) The grant or renewal of a licence under the Vehicles Act in respect of a motor vehicle is to be taken to constitute the issue of a policy of insurance complying with this Act —
-(a) in respect of the motor vehicle; and
-(b) in respect of the period for which the licence is granted or renewed.
-(8B) A licence document under the Vehicles Act in respect of a motor vehicle must incorporate a statement in a form approved by the Commission explaining —
-(a) the effect of a policy of insurance complying with this Act, including the effect that the policy has because of the operation of section 6A; and
-(b) the obligations of persons as to the reporting of motor vehicle accidents causing bodily injury or death; and
-(c) related matters.
-49.Section 6 amended
-In section 6(1)(c) delete “a form substantially similar to that” and insert:
-the form
-50.Section 6A inserted
-After section 6 insert:
-6A.Insurance relating to catastrophic injury
-(1) In this section —
-motor vehicle accident has the meaning given in the MV(CI) Act section 4(1).
-(2) Subject to subsection (3), a policy of insurance complying with this Act is also taken to insure any person (the injured person) against the risk of suffering a catastrophic injury that —
-(a) is a motor vehicle injury to which the MV(CI) Act applies; and
-(b) results from a motor vehicle accident involving the vehicle mentioned in the policy.
-(3) The insurance referred to in subsection (2) extends only to the making of payments under the CISS for, or in respect of, necessary and reasonable expenses incurred by or on behalf of the injured person in relation to the injured person’s assessed treatment, care and support needs.
-51.Section 21 replaced
-Delete section 21 and insert:
-21.Term of policy of insurance extended in certain cases
-(1) This section applies if a vehicle licence in respect of a motor vehicle is renewed after it has expired.
-(2) If the vehicle licence is renewed within the period of 15 days after the day on which the vehicle licence expired, the operation of the policy related to the vehicle licence is, despite section 4(8A)(b), extended until the vehicle licence is renewed.
-(3) In subsection (2) the reference to the policy related to the vehicle licence is a reference to the policy of insurance taken to have been issued under section 4(8A) in respect of the motor vehicle to which the licence applies.
-(4) If the vehicle licence is not renewed until after the end of the period mentioned in subsection (2), the motor vehicle is an uninsured motor vehicle for the period beginning on the day after the day on which the vehicle licence expired and ending on the day on which the vehicle licence is renewed.
-(5) Subsection (4) does not affect the amount of the insurance premium that must be paid before the vehicle licence can be renewed.
-52.Sections 27B and 27C inserted
-After section 27A insert:
-27B.False or misleading information
-(1) A person must not do anything set out in subsection (2) —
-(a) in, or in connection with, a notice or other document given under this Act; or
-(b) in compliance, or purported compliance, with a requirement under this Act; or
-(c) for any other purpose under this Act.
-Penalty for this subsection: a fine of $10 000.
-(2) The things to which subsection (1) applies are —
-(a) making a statement that the person knows is false or misleading in a material particular; and
-(b) omitting from a statement made anything without which the statement is, to the person’s knowledge, misleading in a material particular; and
-(c) giving information that —
-(i) the person knows is false or misleading in a material particular; or
-(ii) omits anything without which the information, to the person’s knowledge, is misleading in a material particular.
-27C.Obstruction
-(1) In this section —
-Commission officer means —
-(a)a person appointed as an officer or employee of the Commission under the Insurance Commission of Western Australia Act 1986 section 12(1); or
-(b)a person engaged by the Commission under section 12(4) of that Act.
-(2) A person who obstructs or hinders a Commission officer or other person in the performance of a function under this Act commits an offence.
-Penalty for this subsection: a fine of $10 000.
-53.Section 30 replaced
-Delete section 30 and insert:
-30.Examination of injured person by health professional
-(1) In this section —
-health profession has the meaning given in the Health Practitioner Regulation National Law (Western Australia) section 5;
-health professional, means —
-(a)in relation to the examination of an injured person in Australia — a person registered under the Health Practitioner Regulation National Law (Western Australia) to practise a health profession (other than as a student); or
-(b)in relation to the examination of an injured person in another country — a person licensed, registered or otherwise authorised under a law of that country to practise a health profession (other than as a student).
-(2) Where, in accordance with section 29, the Commission has received notice of a claim for damages in relation to the bodily injury of a person (an injured person), the Commission may, subject to the regulations, require the injured person from time to time to be examined by a health professional nominated by the Commission.
-(3) The Commission must pay for an examination under subsection (2).
-(4) An injured person may be accompanied at an examination under subsection (2) by a medical adviser but not by a legal adviser.
-(5) If an injured person, without reasonable excuse, refuses to undergo an examination under subsection (2), no action for damages is to be commenced or proceeded with unless the injured person has undergone the examination.
-(6) The costs (if any) allowed by a court to the Commission as the successful defendant, in an action for damages brought against it, may, in the discretion of and upon the certificate of the court, include any expenses incurred by the Commission in the payment of professional fees to a health professional who has conducted an examination under subsection (2).
-54.Section 34 replaced
-Delete section 34 and insert:
-34.Transitional provision for Motor Vehicle (Catastrophic Injuries) Act 2016
-(1) In this section —
-commencement day means the day on which the Motor Vehicle (Catastrophic Injuries) Act 2016 sections 48 and 51 come into operation;
-issued means granted or renewed;
-relevant day means the day on which the Motor Vehicle (Catastrophic Injuries) Act 2016 section 5 comes into operation;
-repealed provision means section 4(8) as enacted before the commencement day.
-(2) If a vehicle licence is issued on or after the commencement day for a period beginning before the relevant day, the repealed provision applies in relation to the issue of the vehicle licence and section 4(8) to (8B) do not apply.
-(3) This subsection applies if —
-(a) a vehicle licence that expired before the commencement day has not been renewed before the commencement day; or
-(b) a vehicle licence expires on or after the commencement day but before the relevant day; or
-(c) the period for which a vehicle licence was issued began before the relevant day and the vehicle licence expires on or after the relevant day.
-(4) If subsection (3) applies —
-(a) section 21(3) does not apply and, in section 21(2), the reference to the policy related to the vehicle licence is to be taken to be a reference to the policy of insurance incorporated in the vehicle licence as required by the repealed provision; and
-(b) in section 21(2) the reference to section 4(8A)(b) is to be taken to be a reference to paragraph (b) of the repealed provision.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -291,7 +155,12 @@ Amount A3C(1)
 Amount B3C(1)
 Amount C3C(1)
 Amount D3D(7)
+assessed treatment, care and support needs3(1)
+catastrophic injury3(1)
+CISS3(1)
+commencement day34(1)
 Commission3(1)
+Commission officer27C(1)
 contract of insurance3(1)
 court16(1)
 Director General3(1)
@@ -299,18 +168,29 @@ District Court3(1)
 driver3(1)
 emergency treatment12(4)
 Fund3(1)
+health profession30(1)
+health professional30(1)
+injured person6A(2), 30(2)
 insured person3(1)
+interim participant3EA(1)
+issued34(1)
+lifetime participant3EA(1)
 Minister3(1)
 motor vehicle3(1), 4(10)
+motor vehicle accident6A(1)
+MV(CI) Act3(1)
 non-pecuniary loss3C(1)
-owner3(1), 3(1), 3G(3)
+owner3(1), 3G(3)
 pending action or proceedings16(1)
 policy of insurance3(1)
 proclaimed date16(1)
+relevant day34(1)
+repealed provision34(1)
+restrictive provisions3FA(1)
 the claimant29(2)
 the recalculation date3C(8), 3D(8)
 the relevant quarter3D(4)
 the Tribunal16(1)
-the ActSch. —
-Traffic Act3(1)
+treatment, care and support needs3EA(1), 3FB(1)
 uninsured motor vehicle3(1)
+Vehicles Act3(1)
