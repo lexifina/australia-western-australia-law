@@ -1,6 +1,6 @@
 ## Schedule — Form of insurance policy
 [s. 6]
-[Heading inserted by No. 19 of 2010 s. 23.]
+[Heading inserted: No. 19 of 2010 s. 23.]
 INSURANCE POLICY issued under the Motor Vehicle (Third Party Insurance) Act 1943
 The INSURANCE COMMISSION OF WESTERN AUSTRALIA, subject to the warranties and conditions contained in this Policy and to the provisions of the Motor Vehicle (Third Party Insurance) Act 1943, in this Policy referred to as the Act, agrees to insure the owner of the motor vehicle described in the Traffic Licence issued herewith and any other person who drives that motor vehicle, whether with or without the consent of the owner, in respect of all liability for negligence which may be incurred by the owner or other person in respect of the death of or bodily injury to any person directly caused by, or by the driving of, that motor vehicle in any part of the Commonwealth during the period from the date of the issue of this Policy to the date of expiry of the said Traffic Licence.
 WARRANTIES
@@ -14,4 +14,4 @@ CONDITIONS
 2. Sections 7(5) and 15 of the Act are deemed to be incorporated in this insurance.
 3.The Commission is entitled to all rights remedies and benefits which may accrue to it by virtue of the Act.
 4.This contract of insurance is subject to the provisions of the Act.
-[Schedule inserted by No. 107 of 1987 s. 15; amended by No. 45 of 1996 s. 38; No. 19 of 2010 s. 23.]
+[Schedule inserted: No. 107 of 1987 s. 15; amended: No. 45 of 1996 s. 38; No. 19 of 2010 s. 23.]
