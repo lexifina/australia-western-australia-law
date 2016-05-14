@@ -65,6 +65,7 @@ Betting Control Amendment Regulations (No. 2) 2013 | 29 Nov 2013 p. 5467 | r. 1 
 Betting Control Amendment Regulations (No. 2) 2014 | 14 Nov 2014 p. 4279-80 | r. 1 and 2: 14 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2015 (see r. 2(b))
 Racing, Gaming and Liquor Regulations Amendment (Fees and Charges) Regulations 2015 Pt. 2 | 6 Nov 2015 p. 4581-8 | 1 Jan 2016 (see r. 2(b))
 Betting Control Amendment Regulations (No. 2) 2016 | 8 Mar 2016 p. 669 | r. 1 and 2: 8 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Mar 2016 (see r. 2(b))
+Betting Control Amendment Regulations 2016 | 13 May 2016 p. 1427 | r. 1 and 2: 13 May 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 14 May 2016 (see r. 2(b))
 Under the Alteration of Statutory Designations Order (No. 2) 1996 a reference in any law to the Commissioner of State Taxation is read and construed as a reference to the Commissioner of State Revenue unless the contrary intention appears.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
