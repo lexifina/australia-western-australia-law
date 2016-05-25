@@ -10,6 +10,7 @@ Duties Amendment Regulations 2011 | 1 Apr 2011 p. 1185-6 | r. 1 and 2: 1 Apr 201
 Duties Amendment Regulations (No. 2) 2011 | 15 Nov 2011 p. 4795-6 | Regulations other than r. 1 and 2: 1 Jul 2008 (see r. 2(b)); r. 1 and 2: 15 Nov 2011 (see r. 2(a))
 Reprint 1: The Duties Regulations 2008 as at 24 Feb 2012 (includes amendments listed above)
 Duties Amendment Regulations (No. 2) 2013 | 20 Sep 2013 p. 4363-4 | r. 1 and 2: 20 Sep 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Sep 2013 (see r. 2(b))
+Duties Amendment Regulations 2016 | 24 May 2016 p. 1536 | r. 1 and 2: 24 May 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 25 May 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
