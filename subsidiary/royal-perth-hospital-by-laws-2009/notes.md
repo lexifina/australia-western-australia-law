@@ -13,6 +13,14 @@ Royal Perth Hospital Amendment By-laws 2014 | 13 Jun 2014 p. 1871-4 | bl. 1 and 
 Royal Perth Hospital Amendment By-laws (No. 2) 2014 | 8 Jan 2015 p. 193-6 | bl. 1 and 2: 8 Jan 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Apr 2015 (see bl. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Royal Perth Hospital Amendment By-laws 2015 | 14 Apr 2015 p. 1347-9 | bl. 1 and 2: 14 Apr 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 15 Apr 2015 (see bl. 2(b))
 Royal Perth Hospital Amendment By-laws (No. 2) 2015 | 19 Jun 2015 p. 2101-8 | bl. 1 and 2: 19 Jun 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2015 (see bl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Services Act 2016 s. 307(k) | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 307(k) had not come into operation. It reads as follows:
+307.By-laws and regulations repealed
+These by-laws and regulations are repealed:
+(k) Royal Perth Hospital By-laws 2009;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -38,7 +46,7 @@ responsible person3(1)
 roadway3(1)
 sign3(1)
 site3(1)
-specified5(1), 16(1), 17(1)
+specified5(1), 16(1)
 speed restriction sign3(1)
 ticket3(1)
 ticket parking area18(1)
