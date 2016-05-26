@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 December 2015 of the Metropolitan Health Service By-laws 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Metropolitan Health Service By-laws 2008 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Metropolitan Health Service By-laws 2008 | 12 Feb 2008 p. 341-2 | bl. 1 and 2: 12 Feb 2008 (see bl. 2(a)); By-laws other than bl. 1 and 2: 13 Feb 2008 (see bl. 2(b))
@@ -11,6 +11,14 @@ Metropolitan Health Service Amendment By-laws 2014 | 8 Jan 2015 p. 185-7 | bl. 1
 Metropolitan Health Service Amendment By-laws 2015 | 14 Apr 2015 p. 1337-41 | bl. 1 and 2: 14 Apr 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 15 Apr 2015 (see bl. 2(b))
 Metropolitan Health Service Amendment By-laws (No. 2) 2015 | 18 Sep 2015 p. 3799-800 | bl. 1 and 2: 18 Sep 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 19 Sep 2015 (see bl. 2(b))
 Reprint 1: The Metropolitan Health Service By-laws 2008 as at 4 Dec 2015 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Services Act 2016 s. 307(h) | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 307(h) had not come into operation. It reads as follows:
+307.By-laws and regulations repealed
+These by-laws and regulations are repealed:
+(h) Metropolitan Health Service By-laws 2008;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
