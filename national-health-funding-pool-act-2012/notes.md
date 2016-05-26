@@ -4,6 +4,15 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 National Health Funding Pool Act 2012 | 44 of 2012 | 20 Nov 2012 | s. 1 and 2: 20 Nov 2012 (see s. 2(a)); Act other than s. 1, 2 and Pt. 8: 15 Dec 2012 (see s. 2(b) and Gazette 14 Dec 2012 p. 6195); Pt. 8: 28 Aug 2013 (see s. 2(b) and Gazette 27 Aug 2013 p. 4051)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 17 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Services Act 2016 s. 297 | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 297 had not come into operation. It reads as follows:
+297.National Health Funding Pool Act 2012 amended
+(1) This section amends the National Health Funding Pool Act 2012.
+(2) In section 16(1)(a) delete “Hospitals and Health Services Act 1927; and” and insert:
+Health Services Act 2016; and
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
