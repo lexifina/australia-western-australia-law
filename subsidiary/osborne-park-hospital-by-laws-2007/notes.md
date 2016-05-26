@@ -11,7 +11,15 @@ Reprint 1: The Osborne Park Hospital By-laws 2007 as at 7 Jun 2013 (includes ame
 Osborne Park Hospital Amendment By-laws (No. 2) 2014 | 13 Jun 2014 p. 1875-8 | bl. 1 and 2: 13 Jun 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2014 (see bl. 2(b))
 Osborne Park Hospital Amendment By-laws 2014 | 8 Jan 2015 p. 189-92 | bl. 1 and 2: 8 Jan 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Apr 2015 (see bl. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Osborne Park Hospital Amendment By-laws 2015 | 14 Apr 2015 p. 1341-3 | bl. 1 and 2: 14 Apr 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 15 Apr 2015 (see bl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Services Act 2016 s. 307(i) | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
 Disallowed on 11 Sep 2012, see Gazette 18 Sep 2012 p. 4411.
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 307(i) had not come into operation. It reads as follows:
+307.By-laws and regulations repealed
+These by-laws and regulations are repealed:
+(i) Osborne Park Hospital By-laws 2007;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
