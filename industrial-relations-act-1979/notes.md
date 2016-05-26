@@ -91,6 +91,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Health Services Act 2016 s. 295 | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991. Now see the Commonwealth Fisheries Management Act 1991 s. 4(1).
 Repealed by the Offshore Petroleum (Repeals andConsequential Amendments) Act 2006 s. 3 of the Commonwealth.
 Repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth). Now see Fair Work Act 2009 (Cwlth).
@@ -121,6 +122,26 @@ Reprints before Reprint 9 are not numbered. Reprint 9 and subsequent reprints ar
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Petroleum Legislation Amendment and Repeal Act 2005 s. 49(2)(a) and (4)(a) were repealed by the Statutes (Repeals and Minor Amendments) Act 2011 s. 24(2) before it purported to come into operation.
 The Labour Relations Legislation Amendment Act 2006 s. 22 contains transitional provisions.
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 295 had not come into operation. It reads as follows:
+295.Industrial Relations Act 1979 amended
+(1) This section amends the Industrial Relations Act 1979.
+(2) In section 7(1) in the definition of public hospital delete “Hospitals and Health Services Act 1927” and insert:
+Health Services Act 2016 section 6;
+(3) In section 80C(1) delete the definition of employing authority and insert:
+employing authority means —
+(a)in relation to a government officer who is an employee within the meaning of the Health Services Act 2016 section 6, an employing authority within the meaning of section 103 of that Act;
+(b)in relation to any other government officer, an employing authority within the meaning of the Public Sector Management Act 1994 section 5;
+(4) In section 80C(1) in the definition of employer after paragraph (a) insert:
+(aa)in relation to a government officer who is an employee within the meaning of the Health Services Act 2016 section 6, means the employing authority of the employee;
+(5) In section 80C(2) delete “1994.” and insert:
+1994 and the Health Services Act 2016.
+(6) Delete section 80I(1) and (2) and insert:
+(1) Subject to the Public Sector Management Act 1994 section 52, the Health Services Act 2016 section 118 and subsection (3) of this section, a Board has jurisdiction to hear and determine —
+(a) an appeal by any public service officer against any decision of an employing authority in relation to an interpretation of any provision of the Public Sector Management Act 1994, and any provision of the regulations made under that Act, concerning the conditions of service (other than salaries and allowances) of public service officers;
+(b) an appeal by a government officer under the Public Sector Management Act 1994 section 78 against a decision or finding referred to in subsection (1)(b) of that section;
+(c) an appeal by a government officer under the Health Services Act 2016 section 172 against a decision or finding referred to in subsection (1)(b) of that section;
+(d) an appeal, other than an appeal under the Public Sector Management Act 1994 section 78(1) or the Health Services Act 2016 section 172(2), by a government officer that the government officer be dismissed,
+and to adjust all such matters as are referred to in paragraphs (a), (b), (c) and (d).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
