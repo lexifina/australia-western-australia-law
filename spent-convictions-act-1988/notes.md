@@ -56,6 +56,10 @@ Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 20
 Spent Convictions (Act Amendment) Regulations 2014 published in Gazette 6 Mar 2015 p. 815-16 | r. 1 and 2: 6 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Mar 2015 (see r. 2(b))
 Alcohol and Drug Authority Amendment Act 2015 s. 18 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
 Reprint 7: The Spent Convictions Act 1988 as at 23 Oct 2015 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Services Act 2016 s. 303 | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
@@ -63,6 +67,14 @@ Repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 29(1).
 Under the Alteration of Statutory Designations Order 2007 a reference in any law to the Department for Community Development is, unless the contrary is intended, to be read and construed as a reference to the Department for Child Protection.
 The Children and Community Services Act 2004 Sch. 2 cl. 25 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 32(4).
 The Machinery of Government (Miscellaneous Amendment) Act 2006 Pt. 3 Div. 5 had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2011 s. 23(4).
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 303 had not come into operation. It reads as follows:
+303.Spent Convictions Act 1988 amended
+(1) This section amends the Spent Convictions Act 1988.
+(2) In Schedule 3 clause 1(7) delete the Table and insert:
+Table
+1.A person who is employed in or seconded to, or who is being considered for employment in or secondment to, the Department of Health or the Mental Health Commission under any of the following — (a)the Health Act 1911; (b)the Health Services Act 2016; (c)the Mental Health Act 2014; (d)the Alcohol and Other Drugs Act 1974.
+2.A person who is employed in or seconded to, or who is being considered for employment in or secondment to, a health service provider under the Health Services Act 2016.
+3.A person who is placed, or who is being considered for placement, as a student undertaking a practicum or in an unpaid capacity in the Department of Health, the Mental Health Commission or a health service provider as defined in the Health Services Act 2016 section 6.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
