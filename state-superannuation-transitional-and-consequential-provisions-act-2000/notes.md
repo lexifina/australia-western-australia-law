@@ -9,7 +9,8 @@ State Superannuation Amendment Act 2007 s. 78 | 25 of 2007 | 16 Oct 2007 | 6 Dec
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and Year | Assent | Commencement
-State Superannuation (Transitional and Consequential Provisions) Act 2000 | 43 of 2000 (as amended by 65 of 2003 s. 106 and 42 of 2004 s. 174) | 2 November 2000 | s. 27-32, 33(2), 34, 36(2), 37(2), 38, 39(2), 40, 43(2), 44, 46(2), 48(2), 50, 51, 53, 54, 56, 57, 59(a), 60(2), 63, 64, 66-68 & 71-75 to be proclaimed (see s. 2(2))
+State Superannuation (Transitional and Consequential Provisions) Act 2000 | 43 of 2000 (as amended by 65 of 2003 s. 106 and 42 of 2004 s. 174 and 11 of 2016 s. 304) | 2 Nov 2000 | s. 27-32, 33(2), 34, 36(2), 37(2), 38, 39(2), 40, 43(2), 44, 46(2), 48(2), 50, 51, 53, 54, 56, 57, 59(a), 60(2), 63, 64, 66-68 & 71-75 to be proclaimed (see s. 2(2))
+Health Services Act 2016 s. 304 | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
 The State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 27-32, 33(2), 34, 36(2), 37(2), 38, 39(2), 40, 43(2), 44, 46(2), 48(2), 50, 51, 53, 54, 56, 57, 59(a), 60(2), 63, 64, 66-68 & 71-75 (as amended by 31 of 2003 s. 153(2)(b), 65 of 2003 s. 106 and 42 of 2004 s. 174) read as follows —
 “
 Part 3 — Consequential amendments
@@ -189,6 +190,10 @@ The amendment in s. 75 to the Workplace Agreements Act 1993 will not be included
 Sections 41 and 61 deleted by the Statutes (Repeals and Minor Amendments) Act 2003 s. 111.
 Section 47 deleted by the Public Transport Authority Act 2003 s. 153(2)(a).
 Section 55 deleted by the Public Transport Authority Act 2003 s. 158.
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 304 had not come into operation. It reads as follows:
+304.State Superannuation (Transitional and Consequential Provisions) Act 2000
+(1) This section amends the State Superannuation (Transitional and Consequential Provisions) Act 2000.
+(2) Delete section 48(2).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
