@@ -65,7 +65,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Hospitals and Health Services Amendment Act 2013 s. 3-7 | 8 of 2013 | 19 Aug 2013 | To be proclaimed (see s. 2(b))
+Hospitals and Health Services Amendment Act 2013 s. 3-7 | 8 of 2013 (as amended by No. 111 of 2016 s. 283) | 19 Aug 2013 | To be proclaimed (see s. 2(b))
+Health Services Act 2016 Pt. 20 Div. 1 | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 25 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 Now known as the Hospitals and Health Services Act 1927; short title changed (see note under s. 1).
@@ -146,6 +147,143 @@ any power or duty of the agency under another provision of this Act.
 (3) A person to whom a power or duty is delegated under this section cannot delegate that power or duty.
 (4) A person exercising or performing a power or duty that has been delegated to the person under this section is taken to do so in accordance with the terms of the delegation unless the contrary is shown.
 (5) This section does not limit the ability of a board or agency to perform a function through an officer or agent.
+On the date as at which this compilation was prepared, the Health Services Act 2016 Pt. 20 Div. 1 had not come into operation. It reads as follows:
+Part 20 — Hospitals and Health Services legislation amended
+Division 1 — Hospitals and Health Services Act 1927 amended
+259.Act amended
+This Division amends the Hospitals and Health Services Act 1927.
+260.Long title replaced
+Delete the long title and insert:
+An Act to provide for the control and regulation of private hospitals and private psychiatric hostels and for related purposes.
+261.Section 1 replaced
+Delete section 1 and insert:
+1.Short title
+This is the Private Hospitals and Health Services Act 1927.
+262.Section 2 amended
+(1) In section 2(1) delete the definitions of:
+agency
+agency board
+board
+Commonwealth Act
+day hospital facility
+Executive Director
+hospital
+hospital service
+hospital service provider
+nursing post
+practitioner
+public hospital
+teaching hospital
+(2) In section 2(1) insert in alphabetical order:
+health service has the meaning given in the Health Services Act 2016 section 7;
+hospital has the meaning given in the Health Services Act 2016 section 8;
+medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession;
+mental illness has the meaning given in the Mental Health Act 2014 section 4;
+private hospital service provider means the holder of a licence granted under this Act to conduct a private hospital or a private psychiatric hostel;
+private psychiatric hostel means private premises in which 3 or more persons who —
+(a)are socially dependent because of mental illness; and
+(b)are not members of the family of the proprietor of the premises,
+reside and are treated or cared for;
+public hospital has the meaning given in the Health Services Act 2016 section 8(6) and —
+(a)includes a hospital declared to be a public hospital under the Health Services Act 2016 section 8(7); and
+(b)does not include a hospital declared not to be a public hospital under the Health Services Act 2016 section 8(8).
+(3) In section 2(1) in the definition of private non-profit hospital delete “a hospital” and insert:
+a private hospital
+(4) Delete section 2(1A).
+(5) Delete section 2(3) and (4).
+263.Section 3 amended
+(1) In section 3(1) delete “and any public hospital”.
+(2) Delete section 3(2).
+(3) In section 3(3) delete “a public hospital, or is not a nursing home, as the case may be, for” and insert:
+a nursing home for
+(4) Delete section 3(4) and (5).
+264.Section 4 amended
+In section 4 delete “a hospital or part of a hospital” and insert:
+a private hospital or part of a private hospital
+265.Sections 5A and 7 deleted
+Delete sections 5A and 7.
+266.Section 7A replaced
+Delete section 7A and insert:
+7A.Minister’s powers
+The Minister has power —
+(a) with the approval of the Treasurer, to make payments to or on behalf of any religious or charitable organisation for the purpose of defraying the interest on moneys borrowed by that organisation and expended or intended to be expended by that organisation on a project approved by the Minister in connection with a private non-profit hospital or nursing home maintained by that organisation; and
+(b) to make payments by way of subsidy in respect of patients who are unable to afford the payment of reasonable fees.
+267.Sections 7B to 9 deleted
+Delete sections 7B to 9.
+268.Section 10 replaced
+Delete section 10 and insert:
+10.Visiting and inspecting private hospitals
+(1) Any person authorised by the CEO for that purpose may —
+(a) visit any private hospital; and
+(b) inspect every part of any private hospital, including any outbuildings or premises attached to the private hospital; and
+(c) subject to subsection (2) if the person is a medical practitioner, medically examine any patient in any hospital.
+(2) Where a patient is a patient in a private hospital the following provisions apply in respect of an examination under subsection (1)(c) —
+(a) an examination must not be made except on complaint to the CEO; and
+(b) the patient’s medical practitioner must be notified of the intention of the authorised person to examine the patient and given an opportunity to be present at the examination; and
+(c) the person who is the licence holder under Part IIIA in relation to the hospital in which the patient is accommodated must be notified of the intention to conduct the examination.
+269.Section 11 amended
+In section 11(a) delete “duties, or the visitation or inspection of any public hospital; or” and insert:
+duties; or
+270.Sections 12 and 12A deleted
+Delete sections 12 and 12A.
+271.Part III deleted
+Delete Part III.
+272.Section 26P amended
+In section 26P delete the definitions of:
+mental illness
+private psychiatric hostel
+273.Part IIIC heading replaced
+Delete the heading to Part IIIC and insert:
+Part IIIC — Information
+274.Section 26R amended
+In section 26R:
+(a) delete “collect” and insert:
+collect, use or disclose
+(b) delete paragraphs (a) and (c);
+(c) delete paragraph (d) and insert:
+(d) health related research, whether that research is conducted by persons employed or engaged in the Department or other persons.
+Note:The heading to amended section 26R is to read:
+Purpose for collecting, using or disclosing information
+275.Section 26S amended
+In section 26S(1), (3)(a), (5), (6) and (7) before “hospital service” (each occurrence) insert:
+private
+Note:The heading to amended section 26S is to read:
+CEO may direct private hospital service provider to give information
+276.Section 26T replaced
+Delete section 26T and insert:
+26T.No liability for disclosure
+If a private hospital service provider discloses information in compliance with a direction under section 26S —
+(a) no civil or criminal liability is incurred in respect of the disclosure; and
+(b) the disclosure is not to be regarded as —
+(i) a breach of any duty of confidentiality or secrecy imposed by law; or
+(ii) a breach of professional ethics or standards or any principles of conduct applicable to a person’s employment; or
+(iii) unprofessional conduct.
+277.Sections 27 to 35 deleted
+Delete sections 27 to 35.
+278.Section 35A replaced
+Delete section 35A and insert:
+35A.Protection from personal liability
+(1) An action in tort does not lie against a person for anything that the person has done, in good faith, in the performance or purported performance of a function under this Act.
+(2) The protection given by this section applies even though the thing done as described in subsection (1) may have been capable of being done whether or not this Act had been enacted.
+(3) Despite subsection (1), the State is not relieved of any liability that it might have for another person having done any thing as described in that subsection.
+(4) In this section, a reference to the doing of anything includes a reference to an omission to do anything.
+279.Sections 35B, 35C and 36 deleted
+Delete sections 35B, 35C and 36.
+280.Section 37 amended
+(1) Delete section 37(2) to (2g).
+(2) Delete section 37(3)(aa) to (af).
+Note:The heading to amended section 37 is to read:
+Regulations
+281.Section 38 amended
+Delete section 38(1)(c) and (d) and insert:
+(c) the effectiveness of the operations of the Minister, the Department, the CEO and authorised persons under this Act;
+282.Schedule deleted
+Delete the Schedule.
+On the date as at which this compilation was prepared, the Health Services Act 2016 Pt. 20 Div. 2 had not come into operation. It reads as follows:
+Part 20 — Hospitals and Health Services legislation amended
+Division 2 — Hospitals and Health Services Amendment Act 2013 repealed
+283.Hospitals and Health Services Amendment Act 2013 repealed
+The Hospitals and Health Services Amendment Act 2013 is repealed.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
