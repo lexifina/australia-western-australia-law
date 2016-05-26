@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 13 December 2013 of the Queen Elizabeth II Medical Centre Act 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Queen Elizabeth II Medical Centre Act 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Perth Medical Centre Act 1966 | 54 of 1966 | 5 Dec 1966 | 13 Sep 1968 (see s. 2 and Gazette 13 Sep 1968 p. 2747)
@@ -27,6 +27,10 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 43 | 35 of 
 Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Queen Elizabeth II Medical Centre Amendment Act 2013 | 6 of 2013 | 19 Aug 2013 | s. 1 and 2: 19 Aug 2013 (see s. 2(a)); Act other than s. 1 and 2: 20 Aug 2013 (see s. 2(b))
 Reprint 5: The Queen Elizabeth II Medical Centre Act 1966 as at 13 Dec 2013 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Services Act 2016 s. 301 | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
 The Queen Elizabeth II Medical Centre Amendment Act 1985 s. 9 reads as follows:
 9.Validation
 (1) Any moneys paid to or received by the board of the Sir Charles Gairdner Hospital before the coming into operation of this Act, which moneys arose from the development, control or management of any part of the reserve by that board and, if —
@@ -64,6 +68,30 @@ MHSB means the Metropolitan Health Service Board formed by the Hospitals and Hea
 Minister means the Minister in whom the management of a teaching hospital is vested under section 7 of the Hospitals and Health Services Act 1927;
 principal Act means the Queen Elizabeth II Medical Centre Act 1966;
 teaching hospital means a hospital to which section 16(1) of the principal Act applies.
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 301 had not come into operation. It reads as follows:
+301.Queen Elizabeth II Medical Centre Act 1966 amended
+(1) This section amends the Queen Elizabeth II Medical Centre Act 1966.
+(2) Delete section 13(2e) and insert:
+(2e) While a setting aside and delegation under subsection (2a) are in force, the delegate, for the purposes for which the site was set aside, has all the powers delegated to the delegate under subsection (2a) in respect of the site as if those powers had been conferred on the delegate by this Act.
+(3) Delete section 13(2g)(b)(i) and insert:
+(i) to the delegate under the regulations; or
+(4) Delete section 16.
+(5) In section 19(1) delete “Hospitals and Health Services Act 1927,” and insert:
+Private Hospitals and Health Services Act 1927, the Health Services Act 2016,
+(6) In section 20(1) and (1a) delete “Trust may, with the approval of the Governor, make by-laws” and insert:
+Governor may make regulations
+(7) In the provisions listed in the Table:
+(a) delete “by-laws” (each occurrence) and insert:
+regulations
+(b) delete “by-law” (each occurrence) and insert:
+regulation
+Table
+s. 20(1a)(i), (k), (m), (n), (p), (q), (r), (s) and (t) | s. 20(1b) def. of specified
+s. 20(1c) | s. 20(1d)
+s. 20(1e) | s. 20(2)
+s. 20(3) | s. 20(4)
+Note:The heading to amended section 20 is to read:
+Regulations
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
