@@ -290,6 +290,7 @@ Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Medicines and Poisons Act 2014 s. 183 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Western Australian Health Promotion Foundation Act Act 2016 Pt. 8 Div. 1 | 3 of 2016 | 21 Mar 2016 | To be proclaimed (see s. 2(b))
+Health Services Act 2016 s. 288 | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
 Parliamentary Privileges Act 1891 (54 Vict. No. 4).
 Relevant provisions deleted by the Health Amendment Act 1985.
@@ -397,6 +398,14 @@ This Division amends the Constitution Acts Amendment Act 1899.
 51.Schedule V amended
 In Schedule V Part 3 in the item relating to the Western Australian Health Promotion Foundation delete “Tobacco Products Control Act 2006.” and insert:
 Western Australian Health Promotion Foundation Act 2016.
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 288 had not come into operation. It reads as follows:
+288.Constitution Acts Amendment Act 1899 amended
+(1) This section amends the Constitution Acts Amendment Act 1899.
+(2) In Schedule V Part 3 delete the items:
+Agency established under section 7B of the Hospitals and Health Services Act 1927.
+Any hospital board constituted under the Hospitals and Health Services Act 1927.
+(3) In Schedule V Part 3 after the item relating to the Health Education Council of Western Australia insert:
+Any health service provider established by order under the Health Services Act 2016.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
