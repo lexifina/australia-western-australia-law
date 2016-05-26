@@ -23,7 +23,15 @@ Hospitals Amendment Regulations 1987 | 23 Jan 1987 pp.184-5 | 23 Jan 1987 (see r
 Hospitals (Administration of Public Hospitals) Amendment Regulations 1992 | 21 Aug 1992 pp.4129-33 | 21 Aug 1992
 Equality of Status Subsidiary Legislation Amendment Regulations 2003 Pt. 15 | 30 Jun 2003 p. 2581-638 | 1 Jul 2003 (see r. 2 and Gazette 30 Jun 2003 p. 2579)
 Hospitals (Administration of Public Hospitals) Amendment Regulations 2006 | 15 Dec 2006 p. 5624 | 15 Dec 2006
-2-3Footnote no longer applicable.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Services Act 2016 s. 307(e) | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 307(e) had not come into operation. It reads as follows:
+307.By-laws and regulations repealed
+These by-laws and regulations are repealed:
+(e) Hospitals (Administration of Public Hospitals) Regulations 1940;
+Footnote no longer applicable.
 Repealed and replaced by the Workers’ Compensation and Rehabilitation Act 1981 (No. 84 of 1981).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
