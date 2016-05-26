@@ -15,6 +15,14 @@ Women’s and Children’s Hospitals Amendment By-laws (No. 2) 2014 | 13 Jun 201
 Women’s and Children’s Hospitals Amendment By-laws 2014 | 8 Jan 2015 p. 205-8 | bl. 1 and 2: 8 Jan 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Apr 2015 (see bl. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Women’s and Children’s Hospitals Amendment By-laws 2015 | 14 Apr 2015 p. 1352-5 | bl. 1 and 2: 14 Apr 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 15 Apr 2015 (see bl. 2(b))
 Women’s and Children’s Hospitals Amendment By-laws (No. 2) 2015 | 19 Jun 2015 p. 2112-13 | bl. 1 and 2: 19 Jun 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2015 (see bl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Services Act 2016 s. 307(m) | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 307(m) had not come into operation. It reads as follows:
+307.By-laws and regulations repealed
+These by-laws and regulations are repealed:
+(m) Women’s and Children’s Hospitals By-laws 2005.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -31,7 +39,7 @@ parking permit2(1)
 parking space2(1)
 permission2(2)
 prohibited item5(1)
-registered owner2(1)
+responsible person2(1)
 roadway2(1)
 sign2(1)
 site2(1)
