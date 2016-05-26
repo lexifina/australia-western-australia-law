@@ -23,6 +23,14 @@ Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 201
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2015 | 10 Feb 2015 p. 617-20 | bl. 1 and 2: 10 Feb 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Apr 2015 (see bl. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2015 | 8 May 2015 p. 1619-21 | bl. 1 and 2: 8 May 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 9 May 2015 (see bl. 2(b))
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 3) 2015 | 30 Jun 2015 p. 2335-6 | bl. 1 and 2: 30 Jun 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2015 (see bl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Services Act 2016 s. 307(j) | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 307(j) had not come into operation. It reads as follows:
+307.By-laws and regulations repealed
+These by-laws and regulations are repealed:
+(j) Queen Elizabeth II Medical Centre (Delegated Site) By-laws 1986;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
