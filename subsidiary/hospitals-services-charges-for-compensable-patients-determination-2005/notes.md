@@ -26,3 +26,11 @@ Hospitals (Services Charges for Compensable Patients) Amendment Determination (N
 Hospitals (Services Charges for Compensable Patients) Amendment Determination 2015 | 23 Jan 2015 p. 409 | cl. 1 and 2: 23 Jan 2015 (see cl. 2(a)); Determination other than cl. 1 and 2: 24 Jan 2015 (see cl. 2(b))
 Hospitals (Services Charges for Compensable Patients) Amendment Determination (No. 2) 2015 | 2 Jun 2015 p. 1941-2 | cl. 1 and 2: 2 Jun 2015 (see cl. 2(a)); Determination other than cl. 1 and 2: 1 Jul 2015 (see cl. 2(b))
 Hospitals (Services Charges for Compensable Patients) Amendment Determination (No. 3) 2015 | 12 Jan 2016 p. 44 | cl. 1 and 2: 12 Jan 2016 (see cl. 2(a)); Determination other than cl. 1 and 2: 13 Jan 2016 (see cl. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Services Act 2016 s. 308(c) | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 308(c) had not come into operation. It reads as follows:
+308.Determinations revoked
+These determinations are revoked:
+(c) Hospitals (Services Charges for Compensable Patients) Determination 2005;
