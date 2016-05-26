@@ -141,6 +141,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 Pt. 11 Div. 1 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+Health Services Act 2016 s. 291 | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.
 The Health Act Amendment Act 1900 was repealed by section 4 of this Act.
 Section 53B was deleted by the Health Act Amendment Act 1933 (No. 2) s. 6.
@@ -260,6 +261,13 @@ In Schedule 5:
 (d) in Part VI delete “221(1), 222, 236(1), 241(1),”;
 (e) in Part VII delete “131(2), 228(2), 237(2), 238(1)” and insert:
 131(2)
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 291 had not come into operation. It reads as follows:
+291.Health Act 1911 amended
+(1) This section amends the Health Act 1911.
+(2) In section 290 in the definition of hospital delete “under the Hospitals and Health Services Act 1927;” and insert:
+as defined in the Health Services Act 2016 section 6;
+(3) In section 340AB(3)(c) and (d) delete “the Hospital Board of that hospital; and” and insert:
+the chief executive of the health service provider for that hospital under the Health Services Act 2016; and
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
