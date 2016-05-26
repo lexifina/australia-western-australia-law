@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 December 2015 of the Fremantle Hospital By-laws 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fremantle Hospital By-laws 1992 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fremantle Hospital By-laws 1992 | 28 Jul 1992 p. 3680-91 | 1 Aug 1992 (see bl. 2)
@@ -20,7 +20,15 @@ Fremantle Hospital Amendment By-laws 2014 | 8 Jan 2015 p. 181-4 | bl. 1 and 2: 8
 Fremantle Hospital Amendment By-laws 2015 | 14 Apr 2015 p. 1334-7 | bl. 1 and 2: 14 Apr 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 15 Apr 2015 (see bl. 2(b))
 Fremantle Hospital Amendment By-laws (No. 2) 2015 | 19 Jun 2015 p. 2111-12 | bl. 1 and 2: 19 Jun 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2015 (see bl. 2(b))
 Reprint 3: The Fremantle Hospital By-laws 1992 as at 4 Dec 2015 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Services Act 2016 s. 307(d) | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
 Disallowed on 11 Sep 2012, see Gazette 18 Sep 2012 p. 4411.
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 307(d) had not come into operation. It reads as follows:
+307.By-laws and regulations repealed
+These by-laws and regulations are repealed:
+(d) Fremantle Hospital By-laws 1992;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
