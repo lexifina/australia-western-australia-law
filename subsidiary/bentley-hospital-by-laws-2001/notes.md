@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 22 April 2016 of the Bentley Hospital By-laws 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Bentley Hospital By-laws 2001 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Bentley Hospital By-laws 2001 | 21 Dec 2001 p. 6521-39 | 21 Dec 2001
@@ -9,6 +9,14 @@ Bentley Hospital Amendment By-laws (No. 2) 2014 | 13 Jun 2014 p. 1886-9 | bl. 1 
 Bentley Hospital Amendment By-laws 2014 | 8 Jan 2015 p. 173-6 | bl. 1 and 2: 8 Jan 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Apr 2015 (see bl. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Bentley Hospital Amendment By-laws 2015 | 14 Apr 2015 p. 1328-31 | bl. 1 and 2: 14 Apr 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 15 Apr 2015 (see bl. 2(b))
 Reprint 1: The Bentley Hospital By-laws 2001 as at 22 Apr 2016 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Services Act 2016 s. 307(b) | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 307(b) had not come into operation. It reads as follows:
+307.By-laws and regulations repealed
+These by-laws and regulations are repealed:
+(b) Bentley Hospital By-laws 2001;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
