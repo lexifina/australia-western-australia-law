@@ -8,6 +8,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 186 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Associations Incorporation Act 2015 s. 225 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
+Health Services Act 2016 s. 299 | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 186 had not come into operation. It reads as follows:
 186.Pharmacy Act 2010 amended
 (1) This section amends the Pharmacy Act 2010.
@@ -29,6 +30,11 @@ On the date as at which this compilation was prepared, the Associations Incorpor
 (1) This section amends the Pharmacy Act 2010.
 (2) In section 3(1) in the definition of preserved company delete “association incorporated under the Associations Incorporation Act 1987;” and insert:
 association taken to be incorporated under the Associations Incorporation Act 2015;
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 299 had not come into operation. It reads as follows:
+299.Pharmacy Act 2010 amended
+(1) This section amends the Pharmacy Act 2010.
+(2) In section 3(1) in the definition of pharmacy business paragraph (c) delete “Hospitals and Health Services Act 1927 section 2(1); or” and insert:
+Health Services Act 2016 section 6; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
