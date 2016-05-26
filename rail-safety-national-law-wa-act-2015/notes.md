@@ -3,6 +3,15 @@ This is a compilation of the Rail Safety National Law (WA) Act 2015. The followi
 Compilation table
 Short title | Number and year | Assent | Commencement
 Rail Safety National Law (WA) Act 2015 | 21 of 2015 | 17 Sep 2015 | s. 1 and 2: 17 Sep 2015 (see s. 2(a); Act other than s. 1 and 2: 2 Nov 2015 (see s. 2(b) and Gazette 16 Oct 2015 p. 4149)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Services Act 2016 s. 302 | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 302 had not come into operation. It reads as follows:
+302.Rail Safety National Law (WA) Act 2015 amended
+(1) This section amends the Rail Safety National Law (WA) Act 2015.
+(2) In section 23 in the definition of hospital delete “Hospitals and Health Services Act 1927 section 2(1).” and insert:
+Health Services Act 2016 section 6.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
