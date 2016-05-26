@@ -146,9 +146,17 @@ Reprint 10: The Hospitals (Services Charges) Regulations 1984 as at 2 Oct 2015 (
 Hospitals (Services Charges) Amendment Regulations (No. 4) 2015 | 16 Oct 2015 p. 4150 | r. 1 and 2: 16 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Oct 2015 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations (No. 5) 2015 | 12 Jan 2016 p. 45 | r. 1 and 2: 12 Jan 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Jan 2016 (see r. 2(b))
 Hospitals (Services Charges) Amendment Regulations 2016 | 3 May 2016 p. 1359 | r. 1 and 2: 3 May 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 4 May 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Health Services Act 2016 s. 307(g) | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981, the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with the Interpretation Act 1984 s. 42(1), subject to their being laid before the Legislative Assembly. The Interpretation Act 1984 s. 42(2) then applied as if the words “or if any regulations are not laid before both Houses of Parliament in accordance with subsection (1)” had been omitted.
 The commencement date of 1 September 1990 that was specified in these regulations was before the date of their publication in the Gazette.
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 307(g) had not come into operation. It reads as follows:
+307.By-laws and regulations repealed
+These by-laws and regulations are repealed:
+(g) Hospitals (Services Charges) Regulations 1984;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
