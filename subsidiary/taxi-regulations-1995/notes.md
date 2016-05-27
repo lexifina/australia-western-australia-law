@@ -37,6 +37,10 @@ Taxi Amendment Regulations 2012 | 5 Jun 2012 p. 2368-9 | r. 1 and 2: 5 Jun 2012 
 Taxi Amendment Regulations 2014 | 13 Jun 2014 p. 1903 | r. 1 and 2: 13 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Taxi Amendment Regulations 2015 | 20 Feb 2015 p. 692-4 | r. 1 and 2: 20 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Feb 2015 (see r. 2(b))
 Taxi Amendment Regulations (No. 2) 2015 | 12 Jun 2015 p. 2036 | r. 1 and 2: 12 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+On-demand Transport Regulations Amendment (Fees) Regulations 2016 Pt. 2 | 27 May 2016 p. 1554-6 | 1 Jul 2016 (see r. 2(b))
 Plans of the former Department of Land Administration are now held by the Western Australian Land Information Authority (see the Land Information Authority Act 2006 s. 100).
 Now cited as the Local Government (Miscellaneous Provisions) Act 1960.
 The Taxi Act 1994 s. 34 and 35 were deleted by the Acts Amendment (Criminal Procedure) Act 1999 s. 9.
@@ -45,6 +49,15 @@ Under the Public Sector Management Act 1994 departments can be established and n
 Now known as the registrar of the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
+On the date as at which this compilation was prepared, the On-demand Transport Regulations Amendment (Fees) Regulations 2016 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Taxi Regulations 1995 amended
+3.Regulations amended
+This Part amends the Taxi Regulations 1995.
+4.Regulation 19 amended
+(1) Delete regulation 19(2) to (3a) and insert:
+(2) The fee payable on an application under section 24 for approval of a transfer of the ownership, or an interest in the ownership, of taxi plates is $74.
+(2) In regulation 19(4) delete “$28.50.” and insert:
+$43.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
