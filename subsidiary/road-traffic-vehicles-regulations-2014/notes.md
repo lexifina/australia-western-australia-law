@@ -6,9 +6,13 @@ Road Traffic (Vehicles) Regulations 2014 | 23 Dec 2014 p. 5103-444 | 27 Apr 2015
 Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 | 27 May 2015 p. 1865-6 | 27 May 2015 (see note under r. 1)
 Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 | 27 May 2015 p. 1867-71 | 27 May 2015 (see note under r. 1)
 Road Traffic (Vehicles) Amendment Regulations (No. 4) 2015 | 12 Jun 2015 p. 2036-40 | r. 1 and 2: 12 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Transport Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 4 | 27 May 2016 p. 1549-54 | 27 May 2016 (see r. 2(a))
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 reads as follows:
 2.Specified day
 For the purposes of section 18 of the Act, the specified day in relation to these regulations is 1 July 2015.
+The Transport Regulations Amendment (Fees and Charges) Regulations 2016 r. 9 reads as follows:
+9.Specified day
+For the purposes of section 18 of the Act, the specified day in relation to these regulations is 1 July 2016.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
