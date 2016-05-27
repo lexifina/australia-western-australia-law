@@ -19,3 +19,21 @@ Reprint 2: The Road Traffic (Events on Roads) Regulations 1991 as at 2 Feb 2007 
 Road Traffic Consequential Amendment Regulations 2008 Pt. 3 | 10 Jun 2008 p. 2449-67 | 30 Jun 2008 (see r. 2(b) and Gazette 10 Jun 2008 p. 2471)
 Road Traffic (Repeals and Amendment) Regulations 2014 Pt. 6 | 23 Dec 2014 p. 4913-38 | 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Road Traffic (Events on Roads) Amendment Regulations 2015 | 2 Jun 2015 p. 1946 | r. 1 and 2: 2 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Road Traffic (Events on Roads) Amendment Regulations 2016 r. 3-5 | 27 May 2016 p. 1557 | 1 Jul 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, the Road Traffic (Events on Roads) Amendment Regulations 2016 r. 3-5 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Road Traffic (Events on Roads) Regulations 1991.
+4.Regulation 3 amended
+In regulation 3(1) delete “event a —” and insert:
+event as —
+5.Regulation 6 amended
+In regulation 6(2)(c)(i) delete the Table and insert:
+Table
+Category event | Fee $
+Category 1 event | 199.50
+Category 2 event | 120.00
+Category 3 event | 80.60
+Category 4 event | 80.60
