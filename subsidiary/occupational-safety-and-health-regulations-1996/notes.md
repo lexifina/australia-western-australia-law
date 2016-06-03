@@ -85,6 +85,10 @@ Occupational Safety and Health Amendment Regulations (No. 4) 2013 | 21 Jan 2014 
 Occupational Safety and Health Amendment Regulations (No. 2) 2014 | 17 Jun 2014 p. 1973-5 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Occupational Safety and Health Amendment Regulations 2014 | 8 Jan 2015 p. 101-2 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Occupational Safety and Health Amendment Regulations 2015 | 23 Jun 2015 p. 2181-2 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 14 ` | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 The Industrial Relations Act 1988 (Cwlth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009.
 Repealed by the Building Act 2011.
 Repealed by the Work Health and Safety (Transitional and Consequential Provisions) Act 2011 (Cwlth).
@@ -95,6 +99,31 @@ The amendment to r. 5.46 in the Occupational Safety and Health Amendment Regulat
 In regulation 5.46(1):
 (b) in paragraph (a) delete “every person employed to do asbestos removal work; and” and insert:
 any person employed or otherwise engaged to do work involving friable asbestos-containing material; and
+On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 14 had not come into operation. It reads as follows:
+Part 14 — Occupational Safety and Health Regulations 1996 amended
+27.Regulations amended
+This Part amends the Occupational Safety and Health Regulations 1996.
+28.Various fees amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Sch. 6.1A it. 1 | $4 530.00 | $6 107.00
+Sch. 6.1A it. 2 | $3 005.00 | $3 972.00
+Sch. 6.1A it. 3 | $1 502.00 | $2 999.00
+Sch. 6.2 it. 1 | $95.50 | $369.00
+Sch. 6.2 it. 2 | $86.50 | $107.00
+Sch. 6.2A it. 1 | $4 629.00 | $13 296.00
+Sch. 6.2A it. 2 | $576.00 | $781.00
+Sch. 6.2A it. 3 | $4 629.00 | $10 416.00
+Sch. 6.2A it. 4 | $576.00 | $723.00
+Sch. 6.4 it. 1 | $86.00 | $94.00
+Sch. 6.4 it. 2 | $86.00 | $70.00
+Sch. 6.4 it. 3 | $71.00 | $47.00
+Sch. 6.4 it. 4 | $54.00 | $59.00
+Sch. 6.4 it. 5 | $1 066.00 | $1 865.00
+Sch. 6.4 it. 6 | $176.00 | $306.00
+Sch. 6.4 it. 7 | $531.00 | $522.00
+Sch. 6.4 it. 8 | $54.00 | $110.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
