@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 August 2015 of the Motor Vehicle Dealers (Licensing) Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Motor Vehicle Dealers (Licensing) Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Motor Vehicle Dealers (Licensing) Regulations 1974 | 29 Mar 1974 p. 1103-21 | 5 Apr 1974 (see Gazette 5 Apr 1974 p. 1180)
@@ -48,6 +48,33 @@ Motor Vehicle Dealers (Licensing) Amendment Regulations 2014 | 15 Jul 2014 p. 24
 Motor Vehicle Dealers (Licensing) Amendment Regulations (No. 2) 2014 | 8 Jan 2015 p. 85-6 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Motor Vehicle Dealers (Licensing) Amendment Regulations 2015 | 23 Jun 2015 p. 2178-9 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Reprint 6: The Motor Vehicle Dealers (Licensing) Regulations 1974 as at 7 Aug 2015 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 12 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 12 had not come into operation. It reads as follows:
+Part 12 — Motor Vehicle Dealers (Licensing) Regulations 1974 amended
+23.Regulations amended
+This Part amends the Motor Vehicle Dealers (Licensing) Regulations 1974.
+24.Third Schedule amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Third Sch. it. 1 | 837.00 | 855.40
+Third Sch. it. 1 | 833.00 | 851.35
+Third Sch. it. 2 | 136.50 | 139.50
+Third Sch. it. 3 | 833.00 | 851.35
+Third Sch. it. 4 | 55.00 | 182.15
+Third Sch. it. 5 | 422.00 | 431.30
+Third Sch. it. 6 | 287.00 | 293.30
+Third Sch. it. 7 | 833.00 (each occurrence) | 851.35
+Third Sch. it. 8 | 136.50 | 139.50
+Third Sch. it. 9 | 833.00 | 851.35
+Third Sch. it. 10 | 136.50 | 139.50
+Third Sch. it. 16 | 44.00 | 44.95
+Third Sch. it. 17 | 20.00 3.80 | 20.45 3.90
+Third Sch. it. 18 | 254.00 | 259.60
+Third Sch. it. 19 | 20.00 | 20.45
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
