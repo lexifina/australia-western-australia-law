@@ -19,8 +19,38 @@ Building Amendment Regulations 2015 | 15 Sep 2015 p. 3783-4 | r. 1 and 2: 15 Sep
 Building Amendment Regulations (No. 3) 2015 | 7 Dec 2015 p. 4897-901 | r. 1 and 2: 7 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Dec 2015 (see r. 2(b) and Gazette 7 Dec 2015 p. 4881)
 Building Amendment Regulations 2016 | 5 Apr 2016 p. 1015-21 | r. 1 and 2: 5 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Apr 2016 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2016 | 15 Apr 2016 p. 1165-72 | r. 1 and 2: 15 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 5 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 The Building Act 2011 s. 153 came into operation on 2 April 2012.
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
+On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 5 had not come into operation. It reads as follows:
+Part 5 — Building Regulations 2012 amended
+9.Regulations amended
+This Part amends the Building Regulations 2012.
+10.Various fees amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+r. 61(3)(b) | $174.40 | $176.30
+Sch. 2 Div. 1 it. 1(a) | $95.00 | $96.00
+Sch. 2 Div. 1 it. 1(b) | $95.00 | $96.00
+Sch. 2 Div. 1 it. 2 | $95.00 | $96.00
+Sch. 2 Div. 1 it. 3(a) | $95.00 | $96.00
+Sch. 2 Div. 1 it. 3(b) | $95.00 | $96.00
+Sch. 2 Div. 1 it. 4 | $95.00 | $96.00
+Sch. 2 Div. 2 it. 1 | $95.00 | $96.00
+Sch. 2 Div. 2 it. 2 | $95.00 | $96.00
+Sch. 2 Div. 2 it. 3 | $95.00 | $96.00
+Sch. 2 Div. 2 it. 4 | $95.00 | $96.00
+Sch. 2 Div. 2 it. 5 | $10.50 for each strata unit covered by the application, but not less than $104.65 | $10.60 for each strata unit covered by the application, but not less than $105.80
+Sch. 2 Div. 2 it. 6 | $95.00 | $96.00
+Sch. 2 Div. 2 it. 7 | $95.00 | $96.00
+Sch. 2 Div. 2 it. 8 | $95.00 | $96.00
+Sch. 2 Div. 2 it. 9 | $95.00 | $96.00
+Sch. 2 Div. 2 it. 10 | $95.00 | $96.00
+Sch. 2 Div. 3 it. 1 | $2 100.00 | $2 123.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
