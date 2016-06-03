@@ -17,11 +17,33 @@ Building Services (Registration) Amendment Regulations 2014 | 17 Jun 2014 p. 195
 Building Services (Registration) Amendment Regulations (No. 2) 2014 | 19 Dec 2014 p. 4841-2 | r. 1 and 2: 19 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Dec 2014 (see r. 2(b))
 Reprint 2: The Building Services (Registration) Regulations 2011 as at 8 May 2015 (includes amendments listed above)
 Building Services (Registration) Amendment Regulations 2015 | 23 Jun 2015 p. 2165-7 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 4 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 The Builders’ Registration Act 1939 was repealed by the Building Services (Registration) Act 2011 s. 107 on 29 Aug 2011.
 The Local Government (Qualifications of Municipal Officers) Regulations 1984 were repealed by the Local Government (Building Surveyors) Regulations 2008, which were repealed by the Building Services (Registration) Act 2011 s. 112 on 2 Apr 2012.
 The Local Government (Building Surveyors) Regulations 2008 were repealed by the Building Services (Registration) Act 2011 s. 112 on 2 Apr 2012.
 The Painters’ Registration Act 1961 was repealed by the Building Services (Registration) Act 2011 s. 108 on 29 Aug 2011.
 The amendment in the Building Services (Registration) Amendment Regulations (No. 5) 2012 r. 5(5) is not included because the paragraph it purported to amend did not contain subparagraphs.
+On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — Building Services (Registration) Regulations 2011 amended
+7.Regulations amended
+This Part amends the Building Services (Registration) Regulations 2011.
+8.Schedule 1 amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Sch. 1 Div. 1 it. 1 | 54.50 | 60.00
+Sch. 1 Div. 1 it. 2 | 54.50 | 60.00
+Sch. 1 Div. 1 it. 3 | 88.00 | 60.00
+Sch. 1 Div. 1 it. 4 | 54.50 | 60.00
+Sch. 1 Div. 1 it. 5 | 54.50 | 60.00
+Sch. 1 Div. 1 it. 6 | 54.50 | 60.00
+Sch. 1 Div. 2 it. 14 | 131.00 | 180.00
+Sch. 1 Div. 2 it. 15 | 50.00 | 55.00
+Sch. 1 Div. 3 it. 2 | 455.50 | 416.00
+Sch. 1 Div. 4 it. 15 | 50.00 | 55.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
