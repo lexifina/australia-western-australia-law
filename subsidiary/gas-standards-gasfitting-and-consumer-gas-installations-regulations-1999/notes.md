@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 14 August 2015 of the Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 | 30 Jul 1999 p. 3499-539 | 30 Jul 1999 (see r. 2)
@@ -32,7 +32,21 @@ Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 2014 | 8 Jan 2015 p. 99-100 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations 2015 | 23 Jun 2015 p. 2175 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Reprint 5: The Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 as at 14 Aug 2015 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 10 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 The Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2000 r. 16 is a transitional provision that is of no further effect.
+On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 10 had not come into operation. It reads as follows:
+Part 10 — Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 amended
+19.Regulations amended
+This Part amends the Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999.
+20.Schedule 4 amended
+In Schedule 4 delete the Table and insert:
+Application for | Fee
+Permit | $102
+Authorisation | $592
+Replacement permit or authorisation | $105
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
