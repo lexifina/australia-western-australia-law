@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 November 2014 of the Auction Sales Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Auction Sales Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Auction Sales Act Regulations 1974 | 13 Sep 1974 p. 3426-38 | 13 Sep 1974
@@ -18,10 +18,30 @@ Auction Sales Amendment Regulations (No. 2) 2013 | 27 Jun 2013 p. 2661-2 | r. 1 
 Auction Sales Amendment Regulations 2014 | 17 Jun 2014 p. 1956 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Reprint 2: The Auction Sales Regulations 1974 as at 7 Nov 2014 (includes amendments listed above)
 Auction Sales Amendment Regulations 2015 | 23 Jun 2015 p. 2160-1 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 2 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2), a reference in a written law to the clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the registrar of the Magistrates Court. The reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Auction Sales Regulations 1974; name changed (see note under r. 1).
+On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 2 had not come into operation. It reads as follows:
+Part 2 — Auction Sales Regulations 1974 amended
+3.Regulations amended
+This Part amendments the Auction Sales Regulations 1974.
+4.Regulation 3 amended
+In regulation 3(1) in the table:
+(a) delete “$230.00” (each occurrence) and insert:
+$179.00
+(b) delete “$66.00” and insert:
+$65.00
+(c) delete “$19.00” (each occurrence) and insert:
+$15.00
+(d) delete “$1.50” and insert:
+$1.67
+(e) delete “$49.00” and insert:
+$49.54
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
