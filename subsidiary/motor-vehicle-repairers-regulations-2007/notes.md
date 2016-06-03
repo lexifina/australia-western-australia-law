@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 7 August 2015 of the Motor Vehicle Repairers Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Motor Vehicle Repairers Regulations 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Motor Vehicle Repairers Regulations 2007 | 9 Feb 2007 p. 391-426 | 19 Mar 2007 (see r. 2 and Gazette 9 Feb 2007 p. 451)
@@ -21,6 +21,40 @@ Motor Vehicle Repairers Amendment Regulations (No. 4) 2014 | 18 Nov 2014 p. 4319
 Motor Vehicle Repairers Amendment Regulations (No. 2) 2014 | 8 Jan 2015 p. 91-3 | r. 1 and 2: 8 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Apr 2015 (see r. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Motor Vehicle Repairers Amendment Regulations 2015 | 23 Jun 2015 p. 2179-80 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Reprint 3: The Motor Vehicle Repairers Regulations 2007 as at 7 Aug 2015 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 13 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 13 had not come into operation. It reads as follows:
+Part 13 — Motor Vehicle Repairers Regulations 2007 amended
+25.Regulations amended
+This Part amends the Motor Vehicle Repairers Regulations 2007.
+26.Various fees amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+r. 7A(1)(c)(i) | $169 | $231.20
+r. 7A(6) Table it. 1 | $716 | $723.05
+r. 7A(6) Table it. 2 | $998 | $867.85
+r. 7A(6) Table it. 3 | $1 246 | $1 012.15
+r. 7A(6) Table it. 4 | $1 811 | $1 157.45
+r. 7A(6) Table it. 5 | $2 306 | $1 301.80
+r. 7A(6) Table it. 6 | $2 906 | $1 446.10
+r. 7C | $42 | $86.50
+r. 7F(1)(a) | $165 | $235.70
+r. 7F(2) Table it. 1 | $716 | $736.55
+r. 7F(2) Table it. 2 | $998 | $883.85
+r. 7F(2) Table it. 3 | $1 246 | $1 031.15
+r. 7F(2) Table it. 4 | $1 811 | $1 178.45
+r. 7F(2) Table it. 5 | $2 306 | $1 325.80
+r. 7F(2) Table it. 6 | $2 906 | $1 473.10
+r. 7 | $79 | $79.85
+r. 10(a) | $19.50 | $119.00
+r. 10(b) | $19.50 | $60.00
+r. 10(c) | $250 | $115.50
+r. 11 | $43.25 | $60
+r. 12(2)(a) | $65 | $231.50
+r. 12(2)(b) | $130 | $231.50
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
