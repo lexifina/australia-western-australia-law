@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mining Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 3 June 2016 of the Mining Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Mining Regulations 1981 | 13 Nov 1981 p. 4601-76 | 1 Jan 1982 (see r. 1(2) and Gazette 11 Dec 1981 p. 5085)
@@ -133,6 +133,7 @@ Mining Amendment Regulations (No. 3) 2015 | 26 Jun 2015 p. 2257-60 | r. 1 and 2:
 Mining Amendment Regulations (No. 4) 2015 | 11 Sep 2015 p. 3745-8 | r. 1 and 2: 11 Sep 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Sep 2015 (see r. 2(b))
 Mining Amendment Regulations (No. 5) 2015 | 6 Oct 2015 p. 3967-8 | r. 1 and 2: 6 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Oct 2015 (see r. 2(b))
 Mining Amendment Regulations (No. 6) 2015 | 6 Oct 2015 p. 3969 | r. 1 and 2: 6 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Oct 2015 (see r. 2(b))
+Reprint 11: The Mining Regulations 1981 as at 3 Jun 2016 (includes amendments listed above)
 The Mining Amendment Act 1990 was operative 28 June 1991.
 The Mining Amendment Act 1993 s. 28 was operative 1 July 1994.
 Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
