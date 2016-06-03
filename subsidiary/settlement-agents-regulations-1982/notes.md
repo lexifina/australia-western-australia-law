@@ -51,6 +51,10 @@ Settlement Agents Amendment Regulations (No. 2) 2013 | 14 Nov 2013 p. 5067-8 | r
 Settlement Agents Amendment Regulations 2014 | 17 Jun 2014 p. 1978-9 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Settlement Agents Amendment Regulations (No. 2) 2014 | 18 Nov 2014 p. 4325-6 | r. 1 and 2: 18 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2014 (see r. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Settlement Agents Amendment Regulations 2015 | 23 Jun 2015 p. 2185-6 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 19 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 Schedule 2 clause 2(fa) was deleted by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 59.
 Repealed by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011.
 These regulations were in place of the Settlement Agents Amendment Regulations 1996 published in Gazette 5 Jul 1996 p. 3224-5. Those regulations were published in the Gazette after the day on which they purported to commence (1 Jul 1996 — see proclamation published in Gazette 1 Jul 1996 p. 3179 fixing 1 Jul 1996 as the day on which Part 9 of the Business Licensing Amendment Act 1995 came into operation).
@@ -63,6 +67,22 @@ Despite the repeal effected by regulation 3, in relation to an application for a
 (ii) a Certificate IV in Conveyancing.
 [Regulation 4 amended in Gazette 21 Jan 2005 p. 258; 16 Jun 2006 p. 2122.]
 The Settlement Agents Amendment Regulations (No. 2) 2008 were published on 23 Dec 2008 p. 5469-70 and again on 30 Dec 2008 p. 5640-1. The publication of 30 Dec 2008 has no effect.
+On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 19 had not come into operation. It reads as follows:
+Part 19 — Settlement Agents Regulations 1982 amended
+37.Regulations amended
+This Part amends the Settlement Agents Regulations 1982.
+38.Schedule 1 amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Sch. 1 it. 1 | $758.20 | $766.55
+Sch. 1 it. 2 | $992.15 | $1 003.05
+Sch. 1 it. 3 | $992.15 | $1 003.05
+Sch. 1 it. 4 | $487.35 | $633.55
+Sch. 1 it. 5 | $11.15 | $11.25
+Sch. 1 it. 6 | $22.55 | $22.80
+Sch. 1 it. 7 | $161.60 | $163.00
+Sch. 1 it. 8 | $227.75 | $230.25
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
