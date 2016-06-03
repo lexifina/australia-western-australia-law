@@ -32,9 +32,25 @@ Debt Collectors Licensing Amendment Regulations 2013 | 20 Aug 2013 p. 3828 | r. 
 Reprint 5: The Debt Collectors Licensing Regulations 1964 as at 2 May 2014 (includes amendments listed above)
 Debt Collectors Licensing Amendment Regulations 2014 | 17 Jun 2014 p. 1962-3 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Debt Collectors Licensing Amendment Regulations 2015 | 23 Jun 2015 p. 2170-1 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 7 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 Under the Consumer Affairs Act 1971 s. 4(3), references, however expressed, in any other Act or in any regulation, notice, proclamation, or statutory instrument of any kind made, published or in force under that or any other Act to the Commissioner for Consumer Protection are, unless the context requires otherwise, read and construed as references to the Commissioner for Fair Trading as defined by the Consumer Affairs Act 1971.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 s. 151(5) provides that a reference to the Commissioner for Fair Trading is to have effect as if it had been amended to be a reference to the Commissioner as defined by the Consumer Affairs Act 1971.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection is called the Department of Commerce.
+On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 7 had not come into operation. It reads as follows:
+Part 7 — Debt Collectors Licensing Regulations 1964 amended
+13.Regulations amended
+This Part amends the Debt Collectors Licensing Regulations 1964.
+14.Regulation 4 amended
+In regulation 4 delete the Table and insert:
+Table
+Item | Description | Fee
+1. | Issue or renewal of licence | $937.20
+2. | Transfer of licence | $321.50
+3. | Issue of duplicate licence | $34.85
+4. | Inspection of register kept under section 12 of the Act | $11.40
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
