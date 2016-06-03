@@ -11,6 +11,10 @@ Retirement Villages Amendment Regulations 2004 | 30 Dec 2004 p. 6925-6 | 1 Jan 2
 Retirement Villages (Recurrent Charges, Prescribed Matters and Exemption Certificates) Amendment Regulations 2014 | 21 Mar 2014 p. 722-30 | r. 1 and 2: 21 Mar 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2014 (see r. 2(b) and Gazette 21 Mar 2014 p. 721)
 Retirement Villages Amendment Regulations 2015 | 24 Mar 2015 p. 993-1030 | r. 1 and 2: 24 Mar 2015 (see r. 2(a)); Regulations other than r. 1, 2, 6, 8 and 12-14: 1 Apr 2015 (see r. 2(b)); r. 6, 8 and 12-14: 1 Oct 2015 (see r. 2(c))
 Retirement Villages Amendment Regulations 2016 | 23 Mar 2016 p. 861-924 | r. 1 and 2: 23 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 18 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 Under the Alteration of Statutory Designations Order (No. 3) 2001 a reference in any law to the Department for Community Welfare is read and construed as a reference to the Department for Community Development.
 Repealed by the Veterans’ Entitlements Act 1986 of the Commonwealth.
 The Retirement Villages Amendment Regulations 2003 r. 4(2) reads as follows:
@@ -18,6 +22,13 @@ The Retirement Villages Amendment Regulations 2003 r. 4(2) reads as follows:
 (a) the form inserted by subregulation (1); or
 (b) the form it replaced,
 is completed and signed.
+On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 18 had not come into operation. It reads as follows:
+Part 18 — Retirement Villages Regulations 1992 amended
+35.Regulations amended
+This Part amends the Retirement Villages Regulations 1992.
+36.Regulation 12 amended
+In regulation 12(1) delete “$700.” and insert:
+$144.00.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
