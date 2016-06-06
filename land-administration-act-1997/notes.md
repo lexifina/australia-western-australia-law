@@ -50,12 +50,12 @@ Commercial Arbitration Act 2012 s. 45 it. 11 | 23 of 2012 | 29 Aug 2012 | 7 Aug 
 Water Services Legislation Amendment and Repeal Act 2012 s. 220 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 16 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Conservation and Land Management Amendment Act 2015 s. 76 | 28 of 2015 | 19 Oct 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
+Land Administration (South West Native Title Settlement) Act 2016 Pt. 6 | 10 of 2016 | 16 May 2016 | 6 Jun 2016 (see s. 2(b) and Gazette 27 May 2016 p. 1548)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
-Land Administration (South West Native Title Settlement) Act 2016 Pt. 6 | 10 of 2016 | 16 May 2016 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 4.Section 6A inserted
 After section 6 the following section is inserted in Part 1 —
@@ -374,13 +374,6 @@ commencement day means the day on which the State Administrative Tribunal (Confe
 (2) If a matter has been partly or fully heard, but not determined, by a Compensation Court under the Land Administration Act 1997 immediately before the commencement day —
 (a) the Act section 167(4)(b) does not apply; and
 (b) the matter is to continue to be dealt with as if the written law applicable to the matter in force immediately before the commencement day continued to apply.
-On the date as at which this compilation was prepared, the Land Administration (South West Native Title Settlement) Act 2016 Pt. 6 had not come into operation. It reads as follows:
-Part 6 — Land Administration Act 1997 amended
-27.Act amended
-This Part amends the Land Administration Act 1997.
-28.Section 91 amended
-After section 91(6) insert:
-(7) The operation of this section is affected by the Land Administration (South West Native Title Settlement) Act 2016 Part 4.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
