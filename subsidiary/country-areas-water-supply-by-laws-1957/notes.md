@@ -99,6 +99,7 @@ Water Agencies Amendment By-laws 2013 Pt. 3 | 19 Jun 2013 p. 2333-46 | 1 Jul 201
 Country Areas Water Supply Amendment By-laws 2013 | 14 Nov 2013 p. 5033-5 | bl. 1 and 2: 14 Nov 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 18 Nov 2013 (see bl. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Country Areas Water Supply Amendment By-laws (No. 2) 2013 | 15 Nov 2013 p. 5267-9 | bl. 1 and 2: 15 Nov 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 16 Nov 2013 (see bl. 2(b))
 Country Areas Water Supply Amendment By-laws 2015 | 8 May 2015 p. 1622 | bl. 1 and 2: 8 May 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 9 May 2015 (see bl. 2(b))
+Country Areas Water Supply Amendment By-laws 2016 | 7 Jun 2016 p. 1777-81 | bl. 1 and 2: 7 Jun 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 8 Jun 2016 (see bl. 2(b))
 These by-laws have effect for the purposes of the Country Areas Water Supply Act 1947 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 Repealed by the Liquor Act 1970, which was repealed by the Liquor Licensing Act 1988, which is now known as the Liquor Control Act 1988.
 Repealed by the Factories and Shops Act 1963, which was repealed by the Industrial Relations Legislation Amendment and Repeal Act 1995.
@@ -110,13 +111,18 @@ Nothing in these by-laws affects the application after 1 July 2008 of a by-law i
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+Aboriginal customary purpose1A(1)
 cesspool1A(3)
 coordinates1(4)
 drain1A(3)
 feeder1A(1)
+hand-held tool35(1)
 house1A(3)
 inspector1A(1)
 land1A(3)
 liquid waste1A(1)
+Noongar people1A(1)
 owner1A(3)
 principal Act1A(1)
+South West Settlement Area1A(1)
+special provision catchment area1A(1)
