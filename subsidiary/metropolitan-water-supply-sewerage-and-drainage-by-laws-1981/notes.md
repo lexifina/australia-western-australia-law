@@ -83,6 +83,7 @@ Reprint 7: The Metropolitan Water Supply, Sewerage and Drainage By-laws 1981 as 
 Water Agencies Amendment By-laws 2012 Pt. 6 | 20 Jun 2012 p. 2677-92 | 1 Jul 2012 (see bl. 2(b))
 Water Agencies Amendment By-laws 2013 Pt. 6 | 19 Jun 2013 p. 2333-46 | 1 Jul 2013 (see bl. 2(b))
 Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2013 | 14 Nov 2013 p. 5053-7 | bl. 1 and 2: 14 Nov 2013 (see bl. 2(a)); By-laws other than bl. 1 and 2: 18 Nov 2013 (see bl. 2(b) and Gazette 14 Nov 2013 p. 5027)
+Metropolitan Water Supply, Sewerage and Drainage Amendment By-laws 2016 | 7 Jun 2016 p. 1782-7 | bl. 1 and 2: 7 Jun 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 8 Jun 2016 (see bl. 2(b))
 These by-laws have effect for the purposes of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 but the formal power to make them is now given by the Water Agencies (Powers) Act 1984 s. 34.
 See Bush Fires Act 1954.
 See Strata Titles Act 1985.
@@ -97,12 +98,16 @@ Nothing in these by-laws affects the application after 1 July 2008 of a by-law i
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+Aboriginal customary purpose1
 Act1
 automotive business premises5
 bore1
 bulk liquid storage tank system5
+CALM Act land4
+CALM Act Minister4
 Corporation1
 Dangerous Goods Storage Regulations1
+designated camping site1
 diameter1
 domestic sewage1
 elevated storage tank system5
@@ -110,11 +115,14 @@ establish5
 feeder1
 ground1
 ground storage tank system5
+hand-held tool4
 high-water mark1
 industrial waste1
 liquid waste1
+Noongar1
 observation well1
 owner5
+people1
 pesticides1
 petroleum product1
 plans5
@@ -122,11 +130,15 @@ priority 1 source protection area5
 priority 2 source protection area5
 priority 3 source protection area5
 production well1
+registered Aboriginal site1
 size1
+South West Settlement Area1
+special provision catchment area1
+take4
 tank5
 underground storage or handling system1
 underground water1
 unpolluted water5
 wellhead5
-wellhead protection zone5
+wellhead protection zone4, 5
 works1
