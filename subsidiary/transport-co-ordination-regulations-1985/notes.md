@@ -34,6 +34,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 On-demand Transport Regulations Amendment (Fees) Regulations 2016 Pt. 4 | 27 May 2016 p. 1554-6 | 1 Jul 2016 (see r. 2(b))
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2016 Pt. 7 | 14 Jun 2016 p. 1987-2003 | 1 Jul 2016 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2), a reference in a written law to the clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the registrar of the Magistrates Court. The reference to the clerk in Form 21 was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The references to the court in Form 21 were amended under the Reprints Act 1984 s. 7(5)(a).
 On the date as at which this compilation was prepared, the On-demand Transport Regulations Amendment (Fees) Regulations 2016 Pt. 4 had not come into operation. It reads as follows:
@@ -60,6 +61,13 @@ $43.
 In Schedule 1 delete the item relating to Form 1.
 14.Schedule 2 amended
 Delete Schedule 2 Form 1.
+On the date as at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2016 Pt. 7 had not come into operation. It reads as follows:
+Part 7 — Transport Co-ordination Regulations 1985 amended
+16.Regulations amended
+This Part amends the Transport Co-ordination Regulations 1985.
+17.Regulation 8A amended
+In regulation 8A(d) delete “$1.60.” and insert:
+$1.65.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
