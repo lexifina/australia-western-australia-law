@@ -24,9 +24,63 @@ Civil Judgments Enforcement Amendment Regulations 2014 | 27 Jun 2014 p. 2334-6 |
 Reprint 3: The Civil Judgments Enforcement Regulations 2005 as at 16 Jan 2015 (includes amendments listed above)
 Civil Judgments Enforcement Amendment Regulations 2015 | 10 Apr 2015 p. 1254-5 | r. 1 and 2: 10 Apr 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Apr 2015 (see r. 2(b))
 Civil Judgments Enforcement Amendment Regulations (No. 2) 2015 | 19 Jun 2015 p. 2116-18 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(i))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 3 | 14 Jun 2016 p. 1849-986 | 4 Jul 2016 (see r. 2(b))
 The Legal Practice Act 2003 was repealed by the Legal Profession Act 2008.
 The Companies (Co-operative) Act 1943 was repealed by the Co-operatives Act 2009.
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 came into operation on 1 May 2005.
+On the date as at which this compilation was prepared, the Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Civil Judgments Enforcement Regulations 2005 amended
+11.Regulations amended
+This Part amends the Civil Judgments Enforcement Regulations 2005.
+12.Schedule 1 amended
+Amend Schedule 1 item 1 as set out in the Table.
+Table
+Delete | Insert
+88.50 | 98.50
+133.00 | 148.00
+143.50 | 159.50
+216.00 | 240.00
+13.Schedule 2 amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Item | Delete | Insert
+Sch. 2 it. 1(a) | 44.90 | 49.90
+Sch. 2 it. 1(b) | 63.50 | 70.50
+Sch. 2 it. 1(c) | 31.00 | 34.40
+Sch. 2 it. 2 | 144.00 | 160.00
+Sch. 2 it. 3 | 115.00 | 128.00
+Sch. 2 it. 4 | 61.00 | 68.00
+Sch. 2 it. 5 | 6.65 | 7.40
+Sch. 2 it. 6(a) | 1.60 | 1.80
+Sch. 2 it. 6(b) | 1.80 | 2.00
+Sch. 2 it. 7 | 606.00 | 673.00
+Sch. 2 it. 8 | 96.50 | 107.00
+Sch. 2 it. 10 Note 1 | $316 | $351
+Sch. 2 it. 11(a) | 115.00 | 128.00
+Sch. 2 it. 11(b) | 115.00 | 128.00
+Sch. 2 it. 11(c) | 30.50 | 33.90
+Sch. 2 it. 12 | 30.50 | 33.90
+Sch. 2 it. 18 | 14.50 | 16.10
+Sch. 2 it. 19(a) | 1.50 | 1.65
+Sch. 2 it. 19(b) | 17.65 | 19.50
+14.Schedule 3 amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Item | Delete | Insert
+Sch. 3 it. 1 | 102.00 | 113.50
+Sch. 3 it. 2 | 40.70 | 45.20
+Sch. 3 it. 3 | 96.50 | 107.00
+Sch. 3 it. 4 | 239.00 | 266.00
+Sch. 3 it. 5 | 291.00 | 323.00
+Sch. 3 it. 6 | 96.50 | 107.00
+Sch. 3 it. 7 | 61.50 | 68.50
+Sch. 3 it. 8 | 61.50 | 68.50
+Sch. 3 it. 9 | 206.00 | 229.00
+Sch. 3 it. 10 | 96.50 | 107.00
+Sch. 3 it. 12(b) | 61.00 | 68.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
