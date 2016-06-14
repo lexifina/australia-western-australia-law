@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 December 2015 of the Security and Related Activities (Control) Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Security and Related Activities (Control) Regulations 1997 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Security and Related Activities (Control) Regulations 1997 | 27 Mar 1997 p. 1651-90 | 1 Apr 1997 (see r. 2 and Gazette 27 Mar 1997 p. 1693)
@@ -42,7 +42,38 @@ Security and Related Activities (Control) Amendment Regulations (No. 2) 2014 | 5
 Security and Related Activities (Control) Amendment Regulations 2015 | 2 Jun 2015 p. 1944-5 | r. 1 and 2: 2 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Security and Related Activities (Control) Amendment Regulations (No. 2) 2015 | 16 Jun 2015 p. 2078-9 | r. 1 and 2: 16 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jun 2015 (see r. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Reprint 7: The Security and Related Activities (Control) Regulations 1997 as at 4 Dec 2015 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Police Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 5 | 14 Jun 2016 p. 1826-33 | 1 Jul 2016 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
+On the date as at which this compilation was prepared, the Police Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 5 had not come into operation. It reads as follows:
+Part 5 — Security and Related Activities (Control) Regulations 1997 amended
+10.Regulations amended
+This Part amends the Security and Related Activities (Control) Regulations 1997.
+11.Schedule 4 replaced
+Delete Schedule 4 and insert:
+Schedule 4 — Fees
+[r. 54]
+Provision of Act or regulations Column 1 | Subject matter Column 2 | Fee ($) Column 3
+Agent’s licences
+s. 46(1)(c) | Application for issue of agent’s licence — for one year or less for more than one year but not more than 3 years | 1 141.00 1 150.00
+s. 46(1)(c) | Application by licensee for additional agent’s licence (each licence) | 736.00
+s. 49(1)(c) | Application for renewal of agent’s licence — for 3 years (each licence) | 793.00
+s. 46(1)(c) | Application for issue of temporary licence under s. 42B | 1 141.00
+Other licences, endorsements and permits
+s. 46(1)(c) | Application for issue of licence (other than agent’s licence or temporary licence) — for one year or less for more than one year but not more than 3 years | 315.00 323.00
+s. 46(1)(c) | Application by licensee for additional licence (other than agent’s licence or temporary licence) (each licence) | 182.00
+s. 49(1)(c) | Application for renewal of licence (other than agent’s licence or temporary licence) — for 3 years or less (each licence) | 195.00
+r. 10(b) | Application for endorsement under s. 24 | 180.00
+r. 12 | Application for permit under s. 25 | 215.00
+r. 13(b) | Application for endorsement under s. 26 | 180.00
+s. 46(1)(c) | Application for issue of temporary licence under s. 42A | 315.00
+Miscellaneous
+s. 10(2) | Application to inspect register | 43.00
+s. 10(3) | Certified copy of register entry | 45.00
+s. 66 | Issue of duplicate licence or duplicate identity card | 29.00
+s. 94(4)(b) | Additional fee if fingerprints and palm prints are required under s. 48(1)(a) or (b)(i) | 112.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
