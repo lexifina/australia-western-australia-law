@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 16 October 2015 of the Police (Fees) Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Police (Fees) Regulations 1981 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Police (Fees) Regulations 1981 | 13 Feb 1981 p. 612-13 | 13 Feb 1981
@@ -42,6 +42,29 @@ Police (Fees) Amendment Regulations (No. 2) 2014 | 8 Jan 2015 p. 153-4 | r. 1 an
 Police (Fees) Amendment Regulations 2015 | 2 Jun 2015 p. 1942-3 | r. 1 and 2: 2 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Police (Fees) Amendment Regulations (No. 2) 2015 | 24 Jul 2015 p. 3056-7 | r. 1 and 2: 24 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jul 2015 (see r. 2(b))
 Reprint 4: The Police (Fees) Regulations 1981 as at 16 Oct 2015 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Police Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 4 | 14 Jun 2016 p. 1826-33 | 1 Jul 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, the Police Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 4 had not come into operation. It reads as follows:
+Part 4 — Police (Fees) Regulations 1981 amended
+8.Regulations amended
+This Part amends the Police (Fees) Regulations 1981.
+9.Schedule 1 amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Sch. 1 it. 1 | $24.60 | $25.20
+Sch. 1 it. 3 | $11.90 | $12.00
+Sch. 1 it. 4(a) | $14.80 | $14.90
+Sch. 1 it. 4(b) | $41.90 | $32.80
+Sch. 1 it. 5 | $61.80 | $52.60
+Sch. 1 it. 6 | $11.90 | $12.00
+Sch. 1 it. 7(a) | $41.40 | $43.30
+Sch. 1 it. 7(b) | $41.40 | $43.30
+Sch. 1 it. 8 | $41.40 | $43.30
+Sch. 1 it. 9(a) | $97.00 | $98.00
+Sch. 1 it. 9(b) | $97.00 | $98.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
