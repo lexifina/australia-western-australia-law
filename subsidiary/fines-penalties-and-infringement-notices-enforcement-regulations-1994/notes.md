@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 January 2016 of the Fines, Penalties and Infringement Notices Enforcement Regulations 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fines, Penalties and Infringement Notices Enforcement Regulations 1994 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Fines, Penalties and Infringement Notices Enforcement Regulations 1994 | 30 Dec 1994 p. 7232-41 | 1 Jan 1995 (see r. 2 and Gazette 30 Dec 1992 p. 7211)
@@ -62,11 +62,38 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No.
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 4) 2015 | 19 Jun 2015 p. 2123-4 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(i))
 Fines, Penalties and Infringement Notices Enforcement Amendment Regulations (No. 5) 2015 | 13 Nov 2015 p. 4656-8 | 14 Nov 2015 (see r. 2 and Gazette 13 Nov 2015 p. 4631)
 Reprint 7: The Fines, Penalties and Infringement Notices Enforcement Regulations 1994 as at 8 Jan 2016 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 7 | 14 Jun 2016 p. 1849-986 | 4 Jul 2016 (see r. 2(b))
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now called the General Account.
 Formerly referred to the Censorship Act 1996 the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Companies (Co-operative) Act 1943 was repealed by the Co-operatives Act 2009 s. 490.
 The Fines, Penalties and Infringement Notices Enforcement Amendment Regulations 1997 were published on 1 Aug 1997 p. 4394 and again on 4 Nov 1997 p. 6079-80. The publication of 4 Nov 1997 has no effect.
+On the date as at which this compilation was prepared, the Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 7 had not come into operation. It reads as follows:
+Part 7 — Fines, Penalties and Infringement Notices Enforcement Regulations 1994 amended
+32.Regulations amended
+This Part amends the Fines, Penalties and Infringement Notices Enforcement Regulations 1994.
+33.Schedule 2 amended
+Amend the provisions listed in the Table as set out in the Table.
+Table
+Provision | Delete | Insert
+Sch. 2 Div. 1 it. 1 | $16.40 | $18.20
+Sch. 2 Div. 1 it. 2 | $13.95 | $15.50
+Sch. 2 Div. 1 it. 3 | $52.00 | $58.00
+Sch. 2 Div. 1 it. 4 | $34.60 | $38.40
+Sch. 2 Div. 1 it. 5 | $163.00 | $181.00
+Sch. 2 Div. 2 it. 1 | $34.60 | $38.40
+Sch. 2 Div. 2 it. 2 | $163.00 | $181.00
+Sch. 2 Div. 3 it. 1 | $72.00 | $80.00
+Sch. 2 Div. 3 it. 3 | $48.60 | $54.00
+Sch. 2 Div. 3 it. 4 | $52.00 | $58.00
+Sch. 2 Div. 3 it. 5 | $34.60 | $38.40
+Sch. 2 Div. 3 it. 8 | $171.50 | $190.50
+Sch. 2 Div. 3 it. 10 | $77.50 | $86.00
+Sch. 2 Div. 3 it. 11 | $171.50 | $190.50
+Sch. 2 Div. 3 it. 12 | $24.60 | $27.30
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
