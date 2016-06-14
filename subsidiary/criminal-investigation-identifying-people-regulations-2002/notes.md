@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 December 2015 of the Criminal Investigation (Identifying People) Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Criminal Investigation (Identifying People) Regulations 2002 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Criminal Investigation (Identifying People) Regulations 2002 | 28 Jun 2002 p. 3103-5 | 29 Jun 2002 (see r. 2 and Gazette 28 Jun 2002 p. 3037)
@@ -13,7 +13,18 @@ Criminal Investigation (Identifying People) Amendment Regulations 2014 | 15 Apr 
 Criminal Investigation (Identifying People) Amendment Regulations 2015 | 26 Jun 2015 p. 2269 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(ii) and Gazette 26 Jun 2015 p. 2235)
 Criminal Investigation (Identifying People) Amendment Regulations (No. 2) 2015 | 3 Jul 2015 p. 2668-9 | r. 1 and 2: 3 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Jul 2015 (see r. 2(b))
 Reprint 2: The Criminal Investigation (Identifying People) Regulations 2002 as at 11 Dec 2015 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Criminal Investigation (Identifying People) Amendment Regulations 2016 r. 3 and 4 | 14 Jun 2016 p. 1833-4 | 1 Jul 2016 (see r. 2(b))
 16 April 2014 (see Gazette 15 April 2014 p. 1053).
+On the date as at which this compilation was prepared, the Criminal Investigation (Identifying People) Amendment Regulations 2016 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Criminal Investigation (Identifying People) Regulations 2002.
+4.Regulation 5A replaced
+Delete regulation 5A and insert:
+5A.Disclosure of identifying information (s. 73(1)(n))
+For section 73(1)(n) of the Act, the purpose of the Australian Crime Commission’s national policing information functions under the Australian Crime Commission Act 2002 (Commonwealth) is prescribed.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
