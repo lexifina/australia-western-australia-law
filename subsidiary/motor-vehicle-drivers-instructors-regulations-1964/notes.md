@@ -65,9 +65,26 @@ Motor Vehicle Drivers Instructors Amendment Regulations 2014 | 8 Jan 2015 p. 57-
 Motor Vehicle Drivers Instructors Amendment Regulations 2015 | 29 May 2015 p. 1882-3 | r. 1 and 2: 29 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Reprint 7: The Motor Vehicle Drivers Instructors Regulations 1964 as at 2 Oct 2015 (includes amendments listed above)
 Motor Vehicle Drivers Instructors Amendment Regulations 2016 | 5 Apr 2016 p. 1030 | r. 1 and 2: 5 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Apr 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2016 Pt. 3 | 14 Jun 2016 p. 1987-2003 | 1 Jul 2016 (see r. 2(b))
 These regulations were repealed by the Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 1982 (published in Gazette 26 Mar 1982 p. 1073).
 The Motor Vehicles Instructors Amendment Regulations 1996 r. 6 is a transitional provision that is of no further effect.
 The Motor Vehicle Drivers Instructors Amendment Regulations (No. 2) 2001 r. 9 and Sch. 1 and 2 are transitional and saving provisions that are of no further effect.
+On the date as at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2016 Pt. 3 had not come into operation. It reads as follows:
+Part 3 — Motor Vehicle Drivers Instructors Regulations 1964 amended
+5.Regulations amended
+This Part amends the Motor Vehicle Drivers Instructors Regulations 1964.
+6.Regulation 13 amended
+In regulation 13 delete the Table and insert:
+Table
+Item | Description | Fee
+1. | An application for the initial grant of a licence under section 7(1) of the Act | $93.00
+2. | The issue of an instructor’s permit | $5.10
+3. | The issue of an instructor’s licence | $5.30
+4. | Test by the Director General under section 7(3) of the Act | $161.80
+5. | The issue of a replacement licence or permit | $7.70
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
