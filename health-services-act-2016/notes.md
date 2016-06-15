@@ -2,12 +2,12 @@ Notes
 This is a compilation of the Health Services Act 2016. The following table contains information about that Act.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Health Services Act 2016 s. 1 and 2 | 11 of 2016 | 26 May 2016 | 26 May 2016 (see s. 2(a))
+Health Services Act 2016 s. 1, 2, 6, 7, 32, 238, 244 and 245 | 11 of 2016 | 26 May 2016 | s. 1 and 2: 26 May 2016 (see s. 2(a)); s. 6, 7, 32, 238, 244 and 245: 15 Jun 2016 (see s. 2(b) and Gazette 14 Jun 2016 p. 1819)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Health Services Act 2016 s. 3-9, Pt. 2-22 | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Health Services Act 2016 s. 3-9, Pt. 2-22 had not come into operation. They read as follows:
+Health Services Act 2016 s. 3-5, 8-9, Pt. 2 and 3, s. 33-43, Pt. 5-19, s. 233-237, 239-243, 246-258 and Pt. 20-22 | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
+On the date as at which this compilation was prepared, the Health Services Act 2016 s. 3-5, 8-9, Pt. 2 and 3, s. 33-43, Pt. 5-19, s. 233-237, 239-243, 246-258 and Pt. 20-22 had not come into operation. They read as follows:
 3.Act binds the State
 This Act binds the State and, so far as the legislative power of the State permits, the Crown in all its other capacities.
 4.Objects of this Act
@@ -21,105 +21,6 @@ The objects of this Act are as follows —
 (g) to engage and support the health workforce in the planning and provision of health services and teaching, training, research and other services.
 5.Medicare principles
 The provision of health services through the public hospital system of the State is based on the Medicare principles set out in the National Health Agreement.
-6.Terms used
-In this Act, unless the contrary intention appears —
-assets —
-(a)means any legal or equitable estates or interests (whether present or future, whether vested or contingent and whether personal or assignable) in property; and
-(b)includes money, securities, choses in action and documents;
-board means a board constituted under section 71;
-board governed provider means a health service provider specified under section 32(1)(d) to be a board governed provider;
-breach of discipline means a breach of discipline referred to in section 161;
-chief executive, in relation to a health service provider, means the person appointed as chief executive of the health service provider under section 108(1);
-chief executive governed provider means a health service provider specified under section 32(1)(d) to be a chief executive governed provider;
-Commission CEO has the meaning given in section 43;
-committee means a committee appointed under section 92(1);
-contracted health entity means a non-government entity that provides health services under a contract or other agreement entered into with the Department CEO on behalf of the State, a health service provider or the Minister;
-Department means the department of the Public Service principally assisting the Minister in the administration of this Act;
-Department CEO means the chief executive officer of the Department;
-Department CEO direction means a direction issued by the Department CEO under section 28;
-disciplinary action, in relation to a breach of discipline by an employee, means any one or more of the following —
-(a)a reprimand;
-(b)the imposition of a fine not exceeding an amount equal to the amount of remuneration received by the employee in respect of the last 5 days during which the employee was at work as an employee before the day on which the finding of the breach of discipline was made;
-(c)transferring the employee to another health service provider with the consent of the employing authority of that health service provider;
-(d)if the employee is not a chief executive, transferring the employee to another office in the health service provider in which the employee is employed;
-(e)reduction in the monetary remuneration of the employee;
-(f)reduction in the level of classification of the employee;
-(g)alteration of the employee’s scope of practice or duties, or both;
-(h)dismissal;
-employee means a person employed in a health service provider and includes —
-(a)the chief executive of the health service provider;
-(b)a health executive employed in the health service provider;
-(c)a person employed in the health service provider under section 140;
-(d)a person seconded to the health service provider under section 136 or 142;
-employing authority has the meaning given in section 103;
-health executive means a person holding an office referred to in section 105(1)(b) but does not include a chief executive;
-Health Executive Service means the Health Executive Service mentioned in section 105;
-health professional means a person who is —
-(a)a health practitioner registered under the Health Practitioner Regulation National Law (Western Australia); or
-(b)in a class of persons prescribed for the purposes of this definition;
-health service has the meaning given in section 7;
-health service area means a health service area declared under section 32(1)(a);
-health service provider means a health service provider established by an order made under section 32(1)(b);
-hospital has the meaning given in section 8;
-improvement action, in relation to an employee, means any one or more of the following actions by the employing authority of the employee for the purpose of improving the performance or conduct of the employee —
-(a)counselling;
-(b)training and development;
-(c)issuing a warning to the employee that certain conduct is unacceptable or that the employee’s performance is not satisfactory;
-(d)any other action of a similar nature;
-liabilities means any liabilities, duties or obligations, whether actual, contingent or prospective, liquidated or unliquidated or whether owed alone or jointly or jointly and severally with any other persons;
-member, of a board, means a person appointed under section 71(1);
-Ministerial Body means the Health Ministerial Body established by section 10;
-National Health Agreement means —
-(a)the National Health Reform Agreement between the Commonwealth and the States that was agreed to by the Council of Australian Governments on 2 August 2011, as amended from time to time; or
-(b)any agreement that replaces or supersedes that agreement;
-patient means a person who has been, is being, or will or may be provided with health treatment or care;
-personal information has the meaning given in the Freedom of Information Act 1992 in the Glossary clause 1;
-policy framework means a policy framework issued under section 26;
-prescribed means prescribed by regulations made under this Act;
-property means property of every kind, whether real or personal, tangible or intangible, corporeal or incorporeal, and any interest in property;
-provide includes supply or carry out;
-PSM Act means the Public Sector Management Act 1994;
-public authority means any of these persons or bodies —
-(a)a department of the Public Service;
-(b)a State agency or instrumentality;
-(c)a local government or regional local government;
-(d)a body (whether corporate or unincorporate), or the holder of an office, post or position, established or continued for a public purpose under a written law;
-(e)a person or body, or a person or body within a class of persons or bodies, prescribed for the purposes of this paragraph;
-public health service has the meaning given in section 7(3);
-public health service facility means a facility at which public health services are provided;
-public hospital has the meaning given in section 8(6);
-relevant lands official means —
-(a)the Minister for Lands; or
-(b)the Registrar of Titles; or
-(c)the Registrar of Deeds and Transfers; or
-(d)any other person authorised by a written law to record and give effect to the registration of documents relating to transaction affecting any estate or interest in land;
-rights means any rights, powers, privileges or immunities, whether actual, contingent or prospective;
-service agreement has the meaning given in section 43;
-staff member, of a health service provider, means —
-(a)an employee in the health service provider;
-(b)a person engaged under a contract for services by the health service provider;
-State tax includes —
-(a)duty chargeable under the Duties Act 2008; and
-(b)any other tax, duty, fee, levy or charge under a law of the State;
-WA health system has the meaning given in section 19(1);
-WA health system-wide plan means a plan developed by the Department CEO for the purposes of the WA health system.
-7.Meaning of health service and public health service
-(1) A health service is a service for maintaining, improving, restoring or managing people’s physical and mental health and wellbeing.
-(2) Without limiting subsection (1), a health service includes —
-(a) a service mentioned in subsection (1) that is provided to a person at a hospital or any other place;
-(b) a service dealing with public health, including a programme or activity for —
-(i) the prevention and control of disease or sickness; or
-(ii) the prevention of injury; or
-(iii) the protection and promotion of health;
-(c) a support service for a service mentioned in subsection (1);
-(d) the provision of goods for a service mentioned in subsection (1).
-(3) A public health service is a health service provided by —
-(a) a health service provider; or
-(b) the Department CEO; or
-(c) a contracted health entity under a contract or other agreement entered into with the Department CEO on behalf of the State, a health service provider or the Minister.
-(4) A public health service —
-(a)includes a health service declared under a regulation to be a public health service; and
-(b)does not include a health service declared under a regulation not to be a public health service.
 8.Meaning of hospital and public hospital
 (1) In this section —
 day hospital facility means premises that are not attached to, or are set apart from, premises mentioned in subsection (4)(a), being premises at which —
@@ -363,19 +264,6 @@ The Department CEO must give a Department CEO direction to —
 (c) the chief executive of any chief executive governed provider to which it relates or applies.
 Part 4 — Health service providers
 Division 1 — Establishment
-32.Establishment of health service provider
-(1) The Minister may, by order published in the Gazette —
-(a) declare any one or more of the following to be a health service area —
-(i) a part of the State;
-(ii) a public hospital;
-(iii) a public health service facility;
-(iv) a public health service;
-and
-(b) establish a health service provider for the health service area; and
-(c) assign a corporate name to the health service provider; and
-(d) specify whether the health service provider is to be a board governed provider or a chief executive governed provider.
-(2) A health service provider is a body corporate with perpetual succession.
-(3) Proceedings may be taken by or against a health service provider in its corporate name.
 33.Status of health service provider
 A health service provider is an agent of the State and has the status, immunities and privileges of the State.
 Division 2 — Functions and powers
@@ -2066,23 +1954,6 @@ Nothing in this Division applies to land that forms part of the reserve under th
 (7) This section does not apply to —
 (a) moneys standing to the credit of an operating account of a hospital board; or
 (b) Crown land to which section 240 applies.
-238.Transfer orders
-(1) To facilitate the statutory transition, the Minister may, by order published in the Gazette (a transfer order), specify all or any of the following —
-(a) assets and liabilities of a hospital board that are to be assigned to a health service provider by operation of section 237;
-(b) proceedings in which the Ministerial Body is to be substituted for a hospital board as a party by operation of section 237;
-(c) agreements and instruments that, by operation of section 237, are to have effect as if references to the Ministerial Body were substituted, in accordance with the order, for references in the agreements and instruments to a hospital board.
-(2) A transfer order may also deal with any matter that is incidental or supplementary to a matter to which subsection (1) relates and the transfer order has effect accordingly.
-(3) A transfer order may specify things by reference to one or more schedules that —
-(a) need not be published in the Gazette; but
-(b) must be available for public inspection.
-(4) Anything specified in a schedule for a transfer order is to be taken to be specified in the transfer order.
-(5) A thing may be specified in a transfer order by describing the class to which it belongs.
-(6) Before a transfer order is made specifying anything by reference to a schedule, the Minister must consult with each relevant lands official about the form and content of the schedule.
-(7) To the extent to which a schedule for a transfer order relates to the functions of the Registrar of Titles, the schedule must be in a form that meets the requirements of the Registrar.
-(8) A thing done by, under or for the purposes of this Part is not invalid merely because subsection (6) or (7) was not complied with.
-(9) The fact that a previous transfer order has been made does not prevent a further transfer order from being made.
-(10) The Minister may, by order published in the Gazette, amend a transfer order or a schedule for a transfer order.
-(11) A transfer order, or an amendment to a transfer order or to a schedule for a transfer order, can only be made before transition day.
 239.Correction of errors in transfer orders
 (1) The Minister may, by order published in the Gazette, make any provision that is necessary to correct any error in a transfer order or a schedule for a transfer order.
 (2) An order made under subsection (1) may have effect on and after transition day.
@@ -2123,31 +1994,7 @@ Nothing in this Division applies to land that forms part of the reserve under th
 (a) a specified thing occurred by operation of this Part; or
 (b) a specified thing was done under this Part, or to give effect to this Part, or for a purpose connected with or arising out of giving effect to this Part.
 (3) For all purposes and in all proceedings, a certificate under subsection (2) is sufficient evidence of the matters it certifies unless the contrary is shown.
-244.Operating accounts of hospital boards
-(1) In this section —
-former account means the operating account of a hospital board.
-(2) On transition day, moneys standing to the credit of a former account must be credited in amounts determined in writing by the Minister to either or both of the following accounts —
-(a) an operating account of a specified health service provider;
-(b) an operating account of the Department.
-(3) The former account must be closed after moneys are credited under subsection (2).
-(4) Moneys referred to in subsection (2) may be applied —
-(a) in the payment of any liabilities of the former account arising before transition day; and
-(b) for the purposes of the health service provider or the Department, as the case requires.
-(5) An operating account to which moneys are credited under subsection (2) must be credited as directed in writing by the Minister with any money payable to the former accounts before transition day that is paid on or after that day.
-(6) On and after transition day, any agreement, instrument or other document that contains a reference to any of the former accounts has effect as if the reference were to the relevant operating account to which moneys are credited under subsection (2).
-(7) If there is any doubt as to which is the relevant operating account for the purposes of subsection (6), the Minister will determine the relevant operating account.
 Division 4 — Staff
-245.Employees of hospital boards
-(1) In this section —
-existing employee means a person employed by a hospital board immediately before transition day.
-(2) The Department CEO must, before transition day —
-(a) determine that an existing employee is to be employed in a specified health service provider on and from transition day; or
-(b) determine that an existing employee is to be employed in the Department on and from transition day.
-(3) The Department CEO must notify each existing employee of the determination made in respect of the employee.
-(4) A notification under subsection (3) —
-(a) if the determination changes the employment location or status of the existing employee — must be given in writing to the existing employee; or
-(b) otherwise — may be given by notice in writing addressed to a class of existing employees.
-(5) An existing employee given a notice under subsection (3) is, on and after transition day, to be taken to be employed under this Act as an employee in the health service provider or employed under the PSM Act or under section 22 as an employee in the Department, as is specified in the notice.
 246.Preservation of rights
 (1) This section applies in relation to an existing employee to whom section 245 applies.
 (2) Except as otherwise agreed by an employee, the change from employment by a hospital board to employment in a health service provider or the Department does not —
@@ -2561,3 +2408,54 @@ These determinations are revoked:
 (e) Hospitals (Services Charges for Pathology Services) Determination 2012;
 (f) Hospitals (Services Charges for Specialised Orthoses) Determination 2015;
 (g) Hospitals (Services Charges for the Supply of Surgically Implanted Prostheses) Determination 2013.
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+assets6
+board6
+board governed provider6
+breach of discipline6
+chief executive6
+chief executive governed provider6
+Commission CEO 6
+committee6
+contracted health entity6
+Department6
+Department CEO6
+Department CEO direction6
+disciplinary action6
+employee6
+employing authority6
+existing employee245(1)
+former account244(1)
+health executive6
+Health Executive Service6
+health professional6
+health service6, 7(1)
+health service area6
+health service provider6
+hospital6
+improvement action6
+liabilities6
+member6
+Ministerial Body6
+National Health Agreement6
+patient6
+personal information6
+policy framework6
+prescribed6
+property6
+provide6
+PSM Act6
+public authority6
+public health service6, 7(3)
+public health service facility6
+public hospital6
+relevant lands official6
+rights6
+service agreement6
+staff member6
+State tax6
+transfer order238(1)
+WA health system6
+WA health system-wide plan6
