@@ -34,3 +34,20 @@ Reprint 4: The Rates and Charges (Rebates and Deferments) Regulations 1992 as at
 Rates and Charges (Rebates and Deferments) Amendment Regulations 2014 | 30 Jun 2014 p. 2427 | r. 1 and 2: 30 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Rates and Charges (Rebates and Deferments) Amendment Regulations (No. 2) 2014 | 19 Dec 2014 p. 4850 | r. 1 and 2: 19 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Dec 2014 (see r. 2(b))
 Rates and Charges (Rebates and Deferments) Amendment Regulations 2015 | 26 Jun 2015 p. 2278-9 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2015 (see r. 2(b))
+Rates and Charges (Rebates and Deferments) Amendment Regulations 2016 | 14 Jun 2016 p. 1840-1 | r. 1 and 2: 14 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Jun 2016 (see r. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+Rates and Charges (Rebates and Deferments) Amendment Regulations (No. 2) 2016 r. 3 and 4 | 14 Jun 2016 p. 1841-2 | 1 Jul 2016 (see. r. 2(b))
+On the date as at which this compilation was prepared, the Rates and Charges (Rebates and Deferments) Amendment Regulations (No. 2) 2016 r. 3 and 4 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the Rates and Charges (Rebates and Deferments) Regulations 1992.
+4.Regulation 3 amended
+(1) In regulation 3 in the Table after the item relating to the 1/7/15 — 30/6/16 rating year insert:
+1/7/16 — 30/6/17 | $113.65 | $232.44 | $29.37 | $288.70 | $288.70
+(2) In regulation 3 in the Table delete:
+ | Service to which charge relates
+Rating year | water supply | sewerage | drainage | rates | underground electricity
+and insert:
+ | Service to which charge relates
+Rating year | Water supply | Sewerage | Drainage | Local Government rates | Underground electricity
