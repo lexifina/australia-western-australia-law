@@ -9,6 +9,7 @@ Reprint 1: The Disability Services Regulations 2004 as at 2 Aug 2013 (includes a
 Electricity Corporations (Consequential Amendments) Regulations 2013 r. 4 | 27 Dec 2013 p. 6469-79 | r. 4(1) and (2): 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465); r. 4(3): 11 Jun 2014 (see r. 2(b) and Gazette 11 Jun 2013 p. 2161-5)
 Disability Services Amendment Regulations 2014 | 30 Jun 2014 p. 2391-420 | 1 Jul 2014 (see r. 2)
 Disability Services Amendment Regulations 2015 | 17 Jul 2015 p. 2915-32 | r. 1 and 2: 17 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jul 2015 (see r. 2(b))
+Disability Services Amendment Regulations (No. 2) 2016 | 14 Jun 2016 p. 1820-3 | r. 1 and 2: 14 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Jun 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
