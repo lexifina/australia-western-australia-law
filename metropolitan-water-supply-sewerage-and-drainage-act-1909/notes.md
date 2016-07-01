@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 1 July 2016 of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 and includes the amendments made by the other written laws referred to in the following table The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Metropolitan Water Supply, Sewerage, and Drainage Act 1909 | 43 of 1909 (9 Edw. VII No. 39) | 21 Dec 1909 | 24 Jan 1910 in Perth, Fremantle, and Claremont Districts of the Metropolitan Water, Sewerage and Drainage Area (see s. 2 and Gazette 21 Jan 1910 p. 47)
@@ -43,8 +43,7 @@ Metropolitan Water Supply, Sewerage, and Drainage Amendment Act (No. 2) 1981 | 7
 Metropolitan Water Supply, Sewerage, and Drainage Amendment Act 1982 | 37 of 1982 | 27 May 1982 | 1 Jul 1982 (see s. 2 and Gazette 25 Jun 1982 p. 2091)
 Metropolitan Water Supply, Sewerage, and Drainage Amendment Act (No. 3) 1982 | 100 of 1982 | 24 Nov 1982 | 31 Dec 1982 (see s. 2 and Gazette 31 Dec 1982 p. 4969)
 Acts Amendment and Repeal (Water Authorities) Act 1985 Pt. V | 25 of 1985 | 6 May 1985 | 1 Jul 1985 (see s. 2 and Gazette 7 Jun 1985 p. 1931)
-Acts Amendment (Water Authorities) Act 1985 Pt. IV | 110 of 1985 (as amended by No. 74 of 2003 s. 24) | 17 Dec 1985 | Act other than s. 26, 29, 30, 33 and 34: 14 Mar 1986 (see s. 2 and Gazette 14 Mar 1986 p. 726); s. 34: 14 Jul 1987 (see s. 2 and Gazette 14 Jul 1987 p. 2647); s. 29: 1 Feb 1990 (see s. 2 and Gazette 5 Jan 1990 p. 38);
- |  |  | s. 26: 21 Dec 1990 (see s. 2 and Gazette 21 Dec 1990 p. 6199); s. 30 and 33 repealed by No. 74 of 2003 s. 24
+Acts Amendment (Water Authorities) Act 1985 Pt. IV | 110 of 1985 (as amended by No. 74 of 2003 s. 24) | 17 Dec 1985 | Act other than s. 26, 29, 30, 33 and 34: 14 Mar 1986 (see s. 2 and Gazette 14 Mar 1986 p. 726); s. 34: 14 Jul 1987 (see s. 2 and Gazette 14 Jul 1987 p. 2647); s. 29: 1 Feb 1990 (see s. 2 and Gazette 5 Jan 1990 p. 38); s. 26: 21 Dec 1990 (see s. 2 and Gazette 21 Dec 1990 p. 6199); s. 30 and 33 repealed by No. 74 of 2003 s. 24
 Acts Amendment (Water Authority Rates and Charges) Act 1987 Pt. III | 24 of 1987 | 25 Jun 1987 | 14 Jul 1987 (see s. 2 and Gazette 14 Jul 1987 p. 2647)
 Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 Pt. 7 | 73 of 1995 | 27 Dec 1995 | 1 Jan 1996 (see s. 2(2) and Gazette 29 Dec 1995 p. 6291)
 Sentencing (Consequential Provisions) Act 1995 Pt. 52 (s. 71-73) | 78 of 1995 | 16 Jan 1996 | s. 71-72: 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
@@ -72,7 +71,8 @@ Reprint 10: The Metropolitan Water Supply, Sewerage, and Drainage Act 1909 as at
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 13 Div. 3 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 9 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Water Services Legislation Amendment and Repeal Act 2012 Pt. 4 (other than s. 34 and 39(2) | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 11: The Metropolitan Water Supply, Sewerage, and Drainage Act 1909 as at 1 Jul 2016 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Water Services Legislation Amendment and Repeal Act 2012 s. 34 and 39(2) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
@@ -86,8 +86,7 @@ The Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 50(2) reads as f
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 32 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 34 and 39(2) had not come into operation. They read as follows:
+On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 34 and 39(2) had not come into operation. They read as follows:
 Part 4 — Metropolitan Water Supply, Sewerage, and Drainage Act 1909 amended
 34.Section 16 amended
 In section 16(c) delete “Act” and insert:
@@ -95,7 +94,7 @@ act
 39.Section 57B amended
 (2) In section 57B(3) delete “Act” and insert:
 act
-The sections that it seeks to amend have been changed by Reprint 10.
+The sections that they seek to amend have been changed by Reprint 10.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
