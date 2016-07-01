@@ -17,26 +17,11 @@ Reprint 2: The Electricity Industry (Wholesale Electricity Market) Regulations 2
 Electricity Corporations (Consequential Amendments) Regulations 2013 r. 9 | 27 Dec 2013 p. 6469-79 | 1 Jan 2014 (see r. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2015 | 24 Feb 2015 p. 737-8 | r. 1 and 2: 24 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Feb 2015 (see r. 2(b))
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 2) 2015 | 2 Oct 2015 p. 3930-1 | r. 1 and 2: 2 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2015 (see r. 2(b))
-Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 3) 2015 (other than r. 7, 17(2) and 18) | 13 Nov 2015 p. 4633-7 | r. 1 and 2: 13 Nov 2015 (see r. 2(a)); r. 5: 14 Nov 2015 (see r. 2(b)); Regulations other than 1, 2, 5, 7, 17(2) and 18: 30 Nov 2015 8.00 am (see r. 2(d))
+Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 3) 2015 | 13 Nov 2015 p. 4633-7 | r. 1 and 2: 13 Nov 2015 (see r. 2(a)); r. 5: 14 Nov 2015 (see r. 2(b)); Regulations other than 1, 2, 5, 7, 17(2) and 18: 30 Nov 2015 8.00 am (see r. 2(d)); r. 7, 17(2) and 18: 1 Jul 2016 8.00 am (see r. 2(c) and Gazette 31 May 2016 p. 1657)
 Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 4) 2015 | 25 Nov 2015 p. 4741-2 | r. 1 and 2: 25 Nov 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Nov 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 3) 2015 r. 7, 17(2) and 18 | 13 Nov 2015 p. 4633-7 | 8.00 am on the day fixed by the Minister by order published in the Gazette (see r. 2(c))
+Electricity Industry (Wholesale Electricity Market) Amendment Regulations 2016 | 24 Jun 2016 p. 2296-303 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b) and Gazette 30 Jun 2016 p. 2695)
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Now known as the Energy Arbitration and Review Act 1998.
-On the date as at which this compilation was prepared, the Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 3) 2015 r. 7, 17(2) and 18 had not come into operation. They read as follows:
-7.Regulation 13 amended
-(1) In regulation 13(1) delete “operating the SWIS” and insert:
-ensuring that the SWIS is operated
-(2) In regulation 13(6) delete “the operator and”.
-17.Regulation 51 amended
-(2) Delete regulation 51(ba).
-18.Regulation 52 amended
-After regulation 52(2) insert:
-(3A) For the period of 12 months commencing at the time at which the Electricity Industry (Wholesale Electricity Market) Amendment Regulations (No. 3) 2015 regulation 18 comes into operation, subregulation (2) has effect in relation to the operator (including in relation to its system management function) as if —
-(a) in paragraph (a), $10 000 were substituted for $100 000; and
-(b) in paragraph (b), $100 000 were substituted for $10 000 000.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
