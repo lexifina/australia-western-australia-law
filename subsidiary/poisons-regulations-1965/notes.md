@@ -173,10 +173,8 @@ Poisons Amendment Regulations (No. 4) 2015 | 5 May 2015 p. 1594-5 | r. 1 and 2: 
 Poisons Amendment Regulations (No. 6) 2015 | 3 Nov 2015 p. 4543-4 | r. 1 and 2: 3 Nov 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Nov 2015 (see r. 2(b))
 Reprint 12: The Poisons Regulations 1965 as at 4 Dec 2015 (includes amendments listed above)
 Poisons Amendment Regulations (No. 5) 2015 | 29 Dec 2015 p. 5174 | r. 1 and 2: 29 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Poisons Amendment Regulations 2016 r. 3 and 4 | 17 May 2016 p. 1489-90 | 1 Jul 2016 (see r. 2(b))
+Poisons Amendment Regulations 2016 | 17 May 2016 p. 1489-90 | 1 Jul 2016 (see r. 2(b))
+Health Services (Consequential Amendments) Regulations 2016 Pt. 7 | 24 Jun 2016 p. 2311-15 | 1 Jul 2016 (see r. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Formerly referred to the Health Services (Conciliation and Review) Act 1995, the short title of which was changed to the Health and Disability Services (Complaints) Act 1995 by the Health and Disability Services Legislation Amendment Act 2010 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. Under s. 19(1) of that Act, a reference in a written law to a repealed enactment includes a reference to the corresponding provision, if any, of the Planning and Development Act 2005.
 Repealed by the Navigation (Consequential Amendments) Act 2012 Sch. 1 (Cwlth). Now see the Navigation Act 2012 (Cwlth).
@@ -191,24 +189,6 @@ The Poisons Amendment Regulations 2012 r. 45(2) to amend r. 56(2)(b) is not incl
 The Mental Health Amendment (Psychiatrists) Act 2012 s. 8 reads as follows:
 8.Power to amend or repeal unaffected
 The amendment of an instrument by section 6 or 7 does not prevent that instrument from being amended or repealed by subsequent instrument.
-On the date as at which this compilation was prepared, the Poisons Amendment Regulations 2016 r. 3 and 4 had not come into operation. They read as follows:
-3.Regulations amended
-These regulations amend the Poisons Regulations 1965.
-4.Appendix G replaced
-Delete Appendix G and insert:
-Appendix G — Fees for licences and permits
-[r. 12]
-Form No. | Description of licence or permit | Initial Fee (1 year) $ | Initial Fee (3 years) $ | Renewal (1 year) $ | Renewal (3 years) $
-1. | Wholesaler’s licence | 726 | 1 120 | 233 | 564
-3. | Pharmacist’s licence to sell poisons | 132 | 265 | 99 | 214
-5. | Licence to sell by retail, poisons included in Schedule 2 | 132 | 199 | 57 | 124
-6. | Licence to sell by retail, poisons included in Schedule 7 | 228 | 369 | 99 | 214
-6B. | Poisons permit (distribution of samples) | 132 | 199 | 57 | 124
-7. | Poisons permit (industrial) — (a)for one or more of the following poisons — benzene; 4,4-diaminodiphenylmethane (Methylene dianiline); 4,4’-methylenebis [2-chloroaniline] (MOCA); (b)for poisons other than those set out in paragraph (a) | 575 265 | 1 275 398 | 425 99 | 1 125 223
-8. | Poisons permit (educational, advisory or research) | 132 | 199 | 57 | 124
-8AA. | Poisons permit (health services) | 265 | 398 | 99 | 223
-11AA. | Stockfeed manufacturer’s permit | 174 | 260 | 82 | 165
-13. | Poisons permit (departmental and hospital) — (a)departmental; (b)hospital | 132 No fee | 199 No fee | 57 No fee | 124 No fee
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
