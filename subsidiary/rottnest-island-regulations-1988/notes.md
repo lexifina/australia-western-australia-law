@@ -44,6 +44,7 @@ Rottnest Island Amendment Regulations 2014 | 8 Jan 2015 p. 149-50 | r. 1 and 2: 
 Rottnest Island Amendment Regulations 2015 | 5 Jun 2015 p. 1974-6 | r. 1 and 2: 5 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Rottnest Island Amendment Regulations (No. 2) 2015 | 22 Sep 2015 p. 3849-63 | r. 1 and 2: 22 Sep 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Sep 2015 (see r. 2(b))
 Rottnest Island Amendment Regulations 2016 | 5 Apr 2016 p. 1028-9 | r. 1 and 2: 5 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Apr 2016 (see r. 2(b))
+Rottnest Island Amendment Regulations (No. 2) 2016 | 17 Jun 2016 p. 2112-14 | r. 1 and 2: 17 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Fish Resources Management Act 1994 s. 265.
 Regulations 5, 7 and 18 disallowed on 28 May 1991, see Gazette 31 May 1991 p. 2710-11.
