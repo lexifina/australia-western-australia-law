@@ -6,4 +6,5 @@ Health Services (Conciliation and Review) Regulations 2010 | 21 May 2010 p. 2159
 Health Services (Conciliation and Review) Amendment Regulations 2011 | 20 May 2011 p. 1837-9 | r. 1 and 2: 20 May 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 21 May 2011 (see r. 2(b))
 Reprint 1: The Health and Disability Services (Complaints) Regulations 2010 as at 12 Aug 2011 (includes amendments listed above)
 Health and Disability Services (Complaints) Amendment Regulations 2015 | 29 Dec 2015 p. 5172-3 | r. 1 and 2: 29 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Dec 2015 (see r. 2(b))
+Health Services (Consequential Amendments) Regulations 2016 Pt. 6 | 24 Jun 2016 p. 2311-15 | 1 Jul 2016 (see r. 2 and Gazette 24 Jun 2016 p. 2291)
 Now known as the Health and Disability Services (Complaints) Regulations 2010; citation changed (see note under r. 1).
