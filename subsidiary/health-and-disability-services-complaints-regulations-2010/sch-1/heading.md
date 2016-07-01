@@ -1,6 +1,6 @@
 ## Schedule 1 — Private hospitals
 [r. 4(2)(b)]
-[Heading inserted in Gazette 20 May 2011 p. 1838.]
+[Heading inserted: Gazette 20 May 2011 p. 1838.]
 1.Abbotsford Private Hospital
 2.Albany Community Hospice
 3.Attadale Private Hospital
@@ -23,4 +23,4 @@
 20.St John of God Hospital, Subiaco
 21.Subiaco Private Hospital Pty Limited
 22.Waikiki Private Hospital
-[Schedule 1 inserted in Gazette 20 May 2011 p. 1838-9.]
+[Schedule 1 inserted: Gazette 20 May 2011 p. 1838-9.]
