@@ -42,26 +42,9 @@ Reprint 5: The Land Valuers Licensing Regulations 1979 as at 22 Aug 2014 (includ
 Land Valuers Licensing Amendment Regulations (No. 2) 2014 | 18 Nov 2014 p. 4318 | r. 1 and 2: 18 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2014 (see r. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Land Valuers Licensing Amendment Regulations 2015 | 15 May 2015 p. 1718-19 | r. 1 and 2: 15 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 16 May 2015 (see r. 2(b))
 Land Valuers Licensing Amendment Regulations (No. 2) 2015 | 23 Jun 2015 p. 2176 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 11 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 The Curtin University of Technology Act 1966 s. 5 established the Western Australian Institute of Technology as the Curtin University of Technology from 1 January 1987.
 The commencement date of 1 Jul 1989 that was specified was before the date of gazettal.
-On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 11 had not come into operation. It reads as follows:
-Part 11 — Land Valuers Licensing Regulations 1979 amended
-21.Regulations amended
-This Part amends the Land Valuers Licensing Regulations 1979.
-22.Schedule 1 amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 1 it. 1 | 796.00 | 813.50
-Sch. 1 it. 2 | 796.00 | 813.50
-Sch. 1 it. 3 | 34.85 | 35.60
-Sch. 1 it. 4 | 11.35 | 11.60
-Sch. 1 it. 5 | 11.35 | 11.60
-Sch. 1 it. 6 | 141.00 | 144.10
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

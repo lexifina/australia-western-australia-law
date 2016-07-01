@@ -40,25 +40,10 @@ Reprint 5: The Employment Agents Regulations 1976 as at 2 May 2014 (includes ame
 Employment Agents Amendment Regulations 2014 | 17 Jun 2014 p. 1965-6 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Employment Agents Amendment Regulations (No. 2) 2014 | 18 Nov 2014 p. 4317 | r. 1 and 2: 18 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2014 (see r. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Employment Agents Amendment Regulations 2015 | 23 Jun 2015 p. 2173-4 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 9 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 Under the Consumer Affairs Act 1971 s. 4(3), references, however expressed, in any other Act or in any regulation, notice, proclamation, or statutory instrument of any kind made, published or in force under that or any other Act to the Commissioner for Consumer Protection are, unless the context requires otherwise, read and construed as references to the Commissioner for Fair Trading as defined by the Consumer Affairs Act 1971.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 s. 151(5) provides that a reference to the Commissioner for Fair Trading is to have effect as if it had been amended to be a reference to the Commissioner as defined by the Consumer Affairs Act 1971.
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this reprint the former Department of Consumer and Employment Protection is called the Department of Commerce.
-On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 9 had not come into operation. It reads as follows:
-Part 9 — Employment Agents Regulations 1976 amended
-17.Regulations amended
-This Part amends the Employment Agents Regulations 1976.
-18.Regulation 10 amended
-In regulation 10(1) in the Table:
-(a) in item 1 delete “995.00” and insert:
-993.00
-(b) in item 2 delete “738.00” and insert:
-567.50
-(c) in item 12 delete “228.00” and insert:
-221.50
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

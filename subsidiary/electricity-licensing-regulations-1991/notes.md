@@ -44,9 +44,6 @@ Electricity (Licensing) Amendment Regulations 2014 | 8 Jan 2015 p. 97 | r. 1 and
 Electricity (Licensing) Amendment Regulations 2015 | 23 Jun 2015 p. 2171-3 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Electricity (Network Safety) Regulations 2015 r. 43 | 5 Aug 2015 p. 3141-96 | 6 Aug 2015 (see r. 2(b))
 Reprint 7: The Electricity (Licensing) Regulations 1991 as at 4 Sep 2015 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 8 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
@@ -56,28 +53,6 @@ Now called the Tradespersons’ Rights Regulation Act 1946 (Cwlth).
 The Electricity (Licensing) Amendment Regulations 2007 r. 5(4) reads as follows:
 5.Regulation 5 amended and transitional
 (4) For the purposes of the appointment of a person in accordance with the Electricity (Licensing) Regulations 1991 regulation 5(2)(b)(i) and (d)(i), as amended by this regulation, regard may be had to any period during which the person was the holder of an “A” grade licence for electrical installing work issued under the Electricity (Licensing) Regulations 1991, as in force before the commencement of this regulation.
-On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 8 had not come into operation. It reads as follows:
-Part 8 — Electricity (Licensing) Regulations 1991 amended
-15.Regulations amended
-This Part amends the Electricity (Licensing) Regulations 1991.
-16.Schedule 1 amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 1 it. 1(a) | 42 | 68
-Sch. 1 it. 1(b) | 74 | 87
-Sch. 1 it. 1(c) | 25 | 45
-Sch. 1 it. 1(d) | 42 | 74
-Sch. 1 it. 2(a) | 85 | 103
-Sch. 1 it. 2(b) | 459 | 492
-Sch. 1 it. 2(c) | 228 | 246
-Sch. 1 it. 2(d) | 406 | 396
-Sch. 1 it. 2(e) | 203 | 239
-Sch. 1 it. 2(f) | 32 | 57
-Sch. 1 it. 2(g) | 32 | 68
-Sch. 1 it. 2(h) | 71 | 79
-Sch. 1 it. 2(i) | 42 | 139
-Sch. 1 it. 3 | 169 | 171
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

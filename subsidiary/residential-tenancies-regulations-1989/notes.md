@@ -37,11 +37,11 @@ Residential Tenancies Amendment Regulations 2014 | 21 Mar 2014 p. 730-1 | r. 1 a
 Residential Tenancies Amendment Regulations (No. 2) 2014 | 20 Jan 2015 p. 371 | r. 1 and 2: 20 Jan 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Mar 2015 (see r. 2(b))
 Residential Tenancies Amendment Regulations 2015 | 21 Aug 2015 p. 3311-16 | r. 1 and 2: 21 Aug 2015 (see r. 2(a)); r. 3-5: 22 Aug 2015 (see r. 2(b)); r. 6: 28 Aug 2015 (see r. 2(c)); r. 7 and 9: 20 Sep 2015 (see r. 2(d)); r. 8: 20 Oct 2015 (see r. 2(e))
 Residential Tenancies Amendment Regulations (No. 2) 2015 | 29 Dec 2015 p. 5171 | r. 1 and 2: 29 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2016 (see r. 2(b))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 17 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Citation | Gazettal | Commencement
 Residential Tenancies Amendment Regulations 2016 r. 3-4 | 3 Jun 2016 p. 1714-16 | 1 Sep 2016 (see r. 2(b))
-Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 17 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
 Repealed by the Legal Profession Act 2008.
@@ -85,17 +85,6 @@ or
 (b)the application relates to the disposal of a security bond to an overseas bank account; or
 (c)the application relates to the transfer of a security bond from one property to another, or from one property manager to another property manager; or
 (d)the bond administrator or an authorised agent has approved the lodging of an application in accordance with subclause (1)(a)(ii).
-On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 17 had not come into operation. It reads as follows:
-Part 17 — Residential Tenancies Regulations 1989 amended
-33.Regulations amended
-This Part amends the Residential Tenancies Regulations 1989.
-34.Schedule 3 amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 3 it. 1(a)(i) | 19.50 | 19.70
-Sch. 3 it. 1(a)(ii) | 53.00 | 53.55
-Sch. 3 it. 2 | 18.00 | 18.20
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

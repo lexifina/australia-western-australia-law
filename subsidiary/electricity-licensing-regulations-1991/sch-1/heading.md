@@ -3,19 +3,19 @@
 [Heading inserted in Gazette 23 Jun 2015 p. 2172.]
  | $
 1.Licences and permits under Part 3 —
-(a)Application for licence or permit | 42
-(b)Registration of licence or permit or renewal of registration (for each year) | 74
-(c)Replacement for licence or permit or copy of certificate of registration | 25
-(d)Application for restoration of name to register (failure to renew) | 42
+(a)Application for licence or permit | 68
+(b)Registration of licence or permit or renewal of registration (for each year) | 87
+(c)Replacement for licence or permit or copy of certificate of registration | 45
+(d)Application for restoration of name to register (failure to renew) | 74
 2.Licences under Part 4 —
-(a)Application for licence | 85
-(b)Registration or renewal of registration of electrical contractor’s licence | 459
-(c)Registration or renewal of registration of in-house electrical installing work licence | 228
-(d)Replacing or adding nominee: electrical contractor’s licence | 406
-(e)Replacing or adding nominee: in-house electrical installing work licence | 203
-(f)Replacement for licence or copy of certificate of registration | 32
-(g)Extract of register | 32
-(h)Copy of register (if available) | 71
-(i)Application for restoration of name to register (failure to renew) | 42
-3.Further inspection | 169
-[Schedule 1 inserted in Gazette 23 Jun 2015 p. 2172-3.]
+(a)Application for licence | 103
+(b)Registration or renewal of registration of electrical contractor’s licence | 492
+(c)Registration or renewal of registration of in-house electrical installing work licence | 246
+(d)Replacing or adding nominee: electrical contractor’s licence | 396
+(e)Replacing or adding nominee: in-house electrical installing work licence | 239
+(f)Replacement for licence or copy of certificate of registration | 57
+(g)Extract of register | 68
+(h)Copy of register (if available) | 79
+(i)Application for restoration of name to register (failure to renew) | 139
+3.Further inspection | 171
+[Schedule 1 inserted in Gazette 23 Jun 2015 p. 2172-3; amended in Gazette 3 Jun 2016 p. 1758-9.]

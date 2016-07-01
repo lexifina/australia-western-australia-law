@@ -80,33 +80,10 @@ Reprint 8: The Real Estate and Business Agents (General) Regulations 1979 as at 
 Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2014 | 18 Nov 2014 p. 4324-5 | r. 1 and 2: 18 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2014 (see r. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Real Estate and Business Agents (General) Amendment Regulations 2015 | 15 May 2015 p. 1717-18 | r. 1 and 2: 15 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 16 May 2015 (see r. 2(b))
 Real Estate and Business Agents (General) Amendment Regulations (No. 2) 2015 | 23 Jun 2015 p. 2184-5 | r. 1 and 2: 23 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 16 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
 The commencement date in r. 2 was of no effect as it was before the date of gazettal.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly.
 The Real Estate and Business Agents (General) Amendment Regulations 2003 r. 4(2) (as amended in Gazette 13 Jan 2004 p. 146) and r. 5(2) are transitional provisions that are of no further effect.
-On the date as at which this compilation was prepared, the Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 16 had not come into operation. It reads as follows:
-Part 16 — Real Estate and Business Agents (General) Regulations 1979 amended
-31.Regulations amended
-This Part amends the Real Estate and Business Agents (General) Regulations 1979.
-32.Schedule 1 amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 1 it. 1 | $71.50 | $72.30
-Sch. 1 it. 2 | $758.00 | $766.35
-Sch. 1 it. 3 | $992.00 | $1 002.90
-Sch. 1 it. 4 | $992.00 | $1 002.90
-Sch. 1 it. 5 | $487.00 | $633.50
-Sch. 1 it. 6 | $192.50 | $194.60
-Sch. 1 it. 7 | $158.50 | $160.25
-Sch. 1 it. 8 | $11.15 | $11.25
-Sch. 1 it. 9A | $28.00 | $28.30
-Sch. 1 it. 9 | $22.50 | $22.75
-Sch. 1 it. 10 | $334.00 | $337.65
-Sch. 1 it. 11 | $227.50 | $230.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
