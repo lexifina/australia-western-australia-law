@@ -1,28 +1,6 @@
 ## Schedule 2
 ## Forms
-Western Australia
-TRANSPORT CO-ORDINATION ACT 1966
-TRANSPORT CO-ORDINATION REGULATIONS 1985
-Form 1
-APPLICATION FOR AN OMNIBUS LICENCE
-To the DIRECTOR GENERAL:
-I/WE [full name] ................................................................... hereby make application for an Omnibus Licence, under the provisions of the Transport Co-ordination Act, in respect of the vehicle described hereunder and submit answers to the following questions in connection with the service proposed to be conducted: —
-Description of Omnibus
- | Make and Model | Registration Number | Year of Manufacture | Passenger Seating Capacity | Chassis Number | Star Rating | 3rd Party Class
-Nature of Proposed Operation [Please tick as appropriate] q Charter q Full and Half day Tours q Extended Tours q Group Package Tours q Safari Camping Tours q Regular Passenger Service | For Office Use Only Licence Fee
-Basis...................... Rate....................... Term...................... Amount $.............. | Receipt No.......................... Date....................... Amount $..............
-1.Proposed date of commencement of operation.....................................
-2.In the case of tours and Regular Passenger Service 2 — (1) Route) 2 — (2) Timetable) Full details required — attach schedule 2 — (3) Fares) PLEASE SEE OTHER SIDE
- | QUESTIONS — continued
-Questions 5 to 7 need not be answered if applicant already holds an Omnibus Licence under the Transport Co-ordination Act 1966, and this application is, in effect, for a renewal of such licence. |  | 3.Do you propose to employ any person to drive the vehicle................. ..............................................................................................................
- | 4.If answer to Question 3 is in the affirmative, state the name of the Industrial Award under which wages will be paid.............................. ............................................................................................................. .............................................................................................................
- | 5.Names and addresses of persons to whom reference can be made as to your character and financial standing.................................................. ............................................................................................................. .............................................................................................................
-6.What other passenger transport facilities are there on or near the route over which you propose to operate?.................................................... ............................................................................................................. ............................................................................................................. .............................................................................................................
-7.In what respect if any are these existing facilities considered to be inadequate?.......................................................................................... ............................................................................................................. ............................................................................................................. ............................................................................................................. ............................................................................................................. ............................................................................................................. ............................................................................................................. .............................................................................................................
- | I/We hereby declare that I am/we are the owner(s) of the vehicle described herein and that the information contained herein is true and correct in every particular.
- | Signature of Applicant(s).......................................................................................... Private Address.................................................................................... ..............................................................Phone No................................ Business Address or Registered Office................................................ .............................................................Phone No................................
- | NOTE: Current Licences for the vehicle under the Road Traffic (Vehicles) Act 2012 should be submitted with this application. They will be returned after perusal.
-[Form 1 amended in Gazette 28 Feb 2003 p. 683; 8 Jan 2015 p. 70.]
+[Form 1 deleted in Gazette 27 May 2016 p. 1556.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
