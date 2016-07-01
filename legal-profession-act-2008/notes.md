@@ -9,6 +9,8 @@ Statutes (Repeals and Minor Amendments) Act 2011 s. 27 | 47 of 2011 | 25 Oct 201
 Business Names (Commonwealth Powers) Act 2012 Pt. 4 Div. 3 | 6 of 2012 | 10 Apr 2012 | 28 May 2012 (see s. 2(c) and Cwlth Gazette 19 Apr 2012 ref. F2012L00891)
 Reprint 1: The Legal Profession Act 2008 as at 13 Dec 2013 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 15 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
+Legal Profession Amendment (Levy) Act 2016 | 12 of 2016 | 29 Jun 2016 | s. 1 and 2: 29 Jun 2016 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2016 (see s. 2(b) and Gazette 30 Jun 2016 p. 2739)
+Legal Profession Amendment Act 2016 | 13 of 2016 | 29 Jun 2016 | s. 1 and 2: 29 Jun 2016 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2016 (see s. 2(b) and Gazette 30 Jun 2016 p. 2739)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -51,12 +53,13 @@ benchmark rate of interest260(2)
 bill252
 Board3
 business day252
+calculation regulations548A(6)
 capping and sufficiency provisions334
 cause226(3)
 claim334
 claimant334
 client3, 288(1), 294, 295(1)
-commencement day601, 631
+commencement day596B(1), 601, 631
 community legal centre388(1)
 compensation order3
 complaint3
@@ -85,6 +88,7 @@ costs agreement252
 costs assessment252
 costs determination252
 court274
+CPI548A(1)
 criminal record check75(2)
 debtor501(5)
 default334
@@ -142,6 +146,7 @@ jurisdiction3
 jurisdiction protocols74(1)
 Law Complaints Officer3
 law firm3
+law library548A(1)
 Law Mutual Fund327(1)
 law practice3
 Law Society3
