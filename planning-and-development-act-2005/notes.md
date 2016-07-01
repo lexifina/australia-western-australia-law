@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 April 2016 of the Planning and Development Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Planning and Development Act 2005 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 | 37 of 2005 | 12 Dec 2005 | s. 1 and 2: 12 Dec 2005; Act other than s. 1, 2, 149, 150 and Pt. 13 Div. 3: 9 Apr 2006 (see s. 2 and Gazette 21 Mar 2006 p. 1077); s. 150 and Pt. 13 Div. 3: 1 Jul 2009 (see s. 2 and Gazette 19 Jun 2009 p. 2225)
@@ -22,12 +22,12 @@ Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 41 | 8 of 2012 | 21 May 2
 Commercial Arbitration Act 2012 s. 45 it. 16 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Water Services Legislation Amendment and Repeal Act 2012 s. 222 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Reprint 3: The Planning and Development Act 2005 as at 1 Mar 2013 (includes amendments listed above except those in the Commercial Arbitration Act 2012, Water Services Legislation Amendment and Repeal Act 2012 and the Road Traffic Legislation Amendment Act 2012)
-Reprint 4: The Planning and Development Act 2005 as at 1 Apr 2016 (includes amendments listed above)
+Associations Incorporation Act 2015 s. 226 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
+Reprint 4: The Planning and Development Act 2005 as at 1 Apr 2016 (includes amendments listed above except those in the Associations Incorporation Act 2015)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Planning and Development Act 2005 s. 149 | 37 of 2005 | 12 Dec 2005 | To be proclaimed (see s. 2)
-Associations Incorporation Act 2015 s. 226 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Repealed by the Land Administration Act 1997.
 Repealed by the Mining Act 1978.
 On the date as at which this reprint was prepared, the Planning and Development Act 2005 s. 149 had not come into operation. It reads as follows:
@@ -178,11 +178,6 @@ Any approval of the Commission endorsed on a diagram or plan of survey of a stag
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007.
 Under the Commonwealth Places (Mirror Taxes) Act 1998 s. 8(2) of the Commonwealth, this Act is to be read and construed with any modifications referred to in subsection (1) of that section and, in particular, with the modifications set out in the Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice 2007.
 The Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 56(4) is a transitional provision that is of no further effect.
-On the date as at which this reprint was prepared, the Associations Incorporation Act 2015 s. 226 had not come into operation. It reads as follows:
-226.Planning and Development Act 2005 amended
-(1) This section amends the Planning and Development Act 2005.
-(2) In section 182(2)(b) delete “Australia and incorporated under the Associations Incorporation Act 1987.” and insert:
-Australia, an incorporated association under the Associations Incorporation Act 2015.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

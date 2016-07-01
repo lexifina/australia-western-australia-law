@@ -11,19 +11,8 @@ Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005
 Financial Legislation Amendment and Repeal Act 2006 Sch. 1 cl. 50 | 77 of 2006 | 21 Dec 2006 | 1 Feb 2007 (see s. 2(1) and Gazette 19 Jan 2007 p. 137)
 Acts Amendment (Fair Trading) Act 2010 s. 195 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
 Reprint 2: The Education Service Providers (Full Fee Overseas Students) Registration Act 1991 as at 4 Nov 2011 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Associations Incorporation Act 2015 s. 215 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
+Associations Incorporation Act 2015 s. 215 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 The Statutes (Repeals and Minor Amendments) Act 2000 s. 13(4) is a transitional provision of no further effect.
-On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 215 had not come into operation. It reads as follows:
-215.Education Service Providers (Full Fee Overseas Students) Registration Act 1991 amended
-(1) This section amends the Education Service Providers (Full Fee Overseas Students) Registration Act 1991.
-(2) In section 11(a)(ii):
-(a) delete “1987” and insert:
-2015
-(b) after “members of the” insert:
-management
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -7,24 +7,8 @@ Volunteers (Protection from Liability) Amendment Act 2006 | 53 of 2006 | 26 Oct 
 Reprint 1: The Volunteers and Food and Other Donors (Protection from Liability) Act 2002 as at 19 Jan 2007 (includes amendments listed above)
 Food Act 2008 s. 149 | 43 of 2008 | 8 Jul 2008 | 24 Oct 2009 (see s. 2(1)(b) and (2) and Gazette 23 Oct 2009 p. 4157)
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 16 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
- | Short title | Number and year | Assent | Commencement
-Associations Incorporation Act 2015 s. 230 and 232 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
+Associations Incorporation Act 2015 s. 230 and 232 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Now known as Volunteers and Food and Other Donors (Protection from Liability) Act 2002; short title changed (see note under s. 1).
-On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 230 and 232 had not come into operation. They read as follows:
-230.Volunteers and Food and Other Donors (Protection from Liability) Act 2002 amended
-(1) This section amends the Volunteers and Food and Other Donors (Protection from Liability) Act 2002.
-(2) In section 3(1) in the definition of community work:
-(a) delete paragraph (j);
-(b) after each of paragraphs (a) to (i) insert:
-or
-232.References to “1987” amended to “2015” in various Acts
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “1987” and insert:
-2015
-Table
-Volunteers and Food and Other Donors (Protection from Liability) Act 2002 | s. 3(1) def. of community organisation par. (b)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

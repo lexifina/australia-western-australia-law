@@ -8,11 +8,8 @@ Acts Amendment and Repeal (Courts and Legal Practice) Act 2003 s. 46 | 65 of 200
 Reprint 1: The Law Society Public Purposes Trust Act 1985 as at 6 Feb 2004 (includes amendments listed above)
 Legal Profession Act 2008 s. 673 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s. 2(b) and Gazette 27 Feb 2009 p. 511)
 Standardisation of Formatting Act 2010 s. 4 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
- | Short title | Number and year | Assent | Commencement
-Associations Incorporation Act 2015 s. 220 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
-Repealed by the Associations Incorporation Act 1987.
+Associations Incorporation Act 2015 s. 220 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
+Footnote no longer applicable.
 Section 5 expired 30 June 1994. It reads as follows:
 “
 5.Variation of the effect of the Trust Deed
@@ -28,13 +25,8 @@ but in all other respects upon the trusts declared by the Trust Deed.
 (b) where in an Accounting Period that aggregate exceeds $1 000 000, effect shall be given to subsection (1)(b)(ii) only to the extent that after the deduction the balance of that aggregate remaining shall not be less than $1 000 000.
 (3) In this section, Accounting Period, Allocations Committee and Trust Deed have the meanings respectively ascribed to those terms in the Trust Deed.
 (4) This section expires on 30 June 1994.
-[Section 5 inserted by No. 86 of 1990 s. 5.]
+[Section 5 inserted: No. 86 of 1990 s. 5.]
 ”.
-On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 220 had not come into operation. It reads as follows:
-220.Law Society Public Purposes Trust Act 1985 amended
-(1) This section amends the Law Society Public Purposes Trust Act 1985.
-(2) In section 2(1) in the definition of Law Society delete “established under the Associations Incorporation Act 1895;” and insert:
-taken to be incorporated under the Associations Incorporation Act 2015;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -18,11 +18,8 @@ Local Government (Consequential Amendments) Act 1996 s. 4 | 14 of 1996 | 28 Jun 
 Reprint of the Hale School Act 1876 as at 17 Jun 2002 (includes amendments listed above)
 Taxation Administration (Consequential Provisions) Act 2002 s. 14 | 45 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383)
 Water Services Legislation Amendment and Repeal Act 2012 s. 215 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Associations Incorporation Act 2015 s. 218 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
-Formerly referred to the Associations Incorporation Act 1895 which was repealed by the Associations Incorporation Act 1987. Reference changed under the Reprints Act 1984 s. 7(3)(a).
+Associations Incorporation Act 2015 s. 218 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
+Footnote no longer applicable.
 The text of s. 2 as amended by 55 Vict. No. 29 (1892) s. 7 has been taken to be as shown in the James Edition of the statutes because it appears to have been the basis of the amendment made by No. 34 of 1958 s. 5.
 As to rating under the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 see Act No. 24 of 1987.
 Footnote no longer applicable.
@@ -133,13 +130,6 @@ cannot be made more than 15 months after the licence was granted or transferred.
 (1) A permission granted under section 112V of the old Stamp Act and in force immediately before the commencement day continues in force on and after that day as a special tax arrangement under the Taxation Administration Act 2003.
 (2) Any requirement that applied, immediately before the commencement day, to a person to whom a permission continued by subsection (1) had been granted (whether imposed by the old Stamp Act or as a condition to which the permission was subject), continues as a condition to which the special tax arrangement referred to in subsection (1) is subject.
 ”.
-On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 218 had not come into operation. It reads as follows:
-218.Hale School Act 1876 amended
-(1) This section amends the Hale School Act 1876.
-(2) In section 1A in the definition of Association delete “incorporated under the Associations Incorporation Act 1987,” and insert:
-taken to be incorporated under the Associations Incorporation Act 2015,
-(3) In section 9 delete “1987,” and insert:
-2015,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -13,20 +13,12 @@ Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 4 D
 Electricity Corporations Amendment Act 2013 Pt. 2 (s. 3-36) | 25 of 2013 | 18 Dec 2013 | Pt. 2 heading and s. 3 and 32-35: 19 Dec 2013 (see s. 2(b)); Pt. 2 other than s. 3 and 32-35: 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Reprint 2: The Electricity Corporations Act 2005 as at 18 Jul 2014 (includes amendments listed above)
 Electricity Corporations Amendment Act 2015 | 16 of 2015 | 25 Jun 2015 | s. 1 and 2: 25 Jun 2015 (see s. 2(a)); Act other than s. 1 and 2: 26 Jun 2015 (see s. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Associations Incorporation Act 2015 s. 216 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
+Associations Incorporation Act 2015 s. 216 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Deleted by the Public Sector Reform Act 2010 s. 57.
 Deleted by the Electricity Transmission and Distribution Systems (Repeal and Related Provisions) Regulations 2007 r. 5 and 6.
 Now known as the Electricity Transmission and Distribution Systems (Access) Act 1994.
 The amendment in the State Superannuation Amendment Act 2007 s. 81 is not included because it was deleted by the State Superannuation Amendment Act 2011 s. 4 before the amendment purported to come into operation.
 Schedule 5 clause 21(2)(a)(ii) of this Act had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 50(3)(b).
-On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 216 had not come into operation. It reads as follows:
-216.Electricity Corporations Act 2005 amended
-(1) This section amends the Electricity Corporations Act 2005.
-(2) In section 65(3)(a) after “member of the” insert:
-management
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

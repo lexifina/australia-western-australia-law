@@ -36,13 +36,13 @@ Reprint 5: The Legal Aid Commission Act 1976 as at 19 Jun 2009 (includes amendme
 Acts Amendment (Bankruptcy) Act 2009 s. 50 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Acts Amendment (Fair Trading) Act 2010 s. 197 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
+Associations Incorporation Act 2015 s. 221 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 On the date as at which this compilationwas prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Associations Incorporation Act 2015 s. 221 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Appointed day 17 April 1978; see Gazette 17 March 1978 p. 800.
-Repealed by the Associations Incorporation Act 1987.
+Footnote no longer applicable.
 Repealed by the Statute Stocktake Act 1999 s. 3 of the Commonwealth (No. 118 of 1999).
 Footnote no longer applicable.
 See Acts Amendment and Repeal (Industrial Relations) Act (No. 2) 1984 s. 88(2).
@@ -58,11 +58,6 @@ Act | Provision
 ...................... | ........
 Legal Aid Commission Act 1976 | s. 22
 ...................... | ........
-On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 221 had not come into operation. It reads as follows:
-221.Legal Aid Commission Act 1976 amended
-(1) This section amends the Legal Aid Commission Act 1976.
-(2) In section 4(1) in the definition of Law Society delete “incorporated under the Associations Incorporation Act 1895;” and insert:
-taken to be incorporated under the Associations Incorporation Act 2015;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
