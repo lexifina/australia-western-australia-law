@@ -7,119 +7,14 @@ Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 | 27 May 2015 p. 1865
 Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 | 27 May 2015 p. 1867-71 | 27 May 2015 (see note under r. 1)
 Road Traffic (Vehicles) Amendment Regulations (No. 4) 2015 | 12 Jun 2015 p. 2036-40 | r. 1 and 2: 12 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 4 | 27 May 2016 p. 1549-54 | 27 May 2016 (see r. 2(a))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2016 Pt. 6 | 14 Jun 2016 p. 1987-2003 | 1 Jul 2016 (see r. 2(b))
+Road Traffic Regulations Amendment Regulations 2016 Pt. 3 | 24 Jun 2016 p. 2342-3 | 1 Jul 2016 (see r. 2(b))
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 reads as follows:
 2.Specified day
 For the purposes of section 18 of the Act, the specified day in relation to these regulations is 1 July 2015.
 The Transport Regulations Amendment (Fees and Charges) Regulations 2016 r. 9 reads as follows:
 9.Specified day
 For the purposes of section 18 of the Act, the specified day in relation to these regulations is 1 July 2016.
-On the date as at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2016 Pt. 6 had not come into operation. It reads as follows:
-Part 6 — Road Traffic (Vehicles) Regulations 2014 amended
-11.Regulations amended
-This Part amends the Road Traffic (Vehicles) Regulations 2014.
-12.Regulation 90 amended
-In regulation 90(2) delete “region, Peel region or South West region.” and insert:
-region or Peel region.
-Note:The heading to amended regulation 90 is to read:
-Fees for vehicle examination in the Great Southern and Peel regions
-13.Regulation 93A inserted
-After regulation 93 insert:
-93A.Fees for vehicle examination in the South West region
-The fees specified in the Table are payable by the owner of a vehicle for examination of the vehicle by the CEO in the South West region for the purposes of the Act.
-Table
-Vehicle | First examination ($) | Subsequent examination ($)
-Motor home or trailer without brakes, motor cycle, motor carrier, vehicle with engine change | 66.70 | 52.10
-Heavy vehicle | 154.10 | 102.05
-All other vehicles | 96.90 | 66.70
-14.Regulation 95 amended
-In regulation 95(1) delete the Table and insert:
-Table
-Place of examination | Fee ($)
-Place other than a region mentioned in this Division | 65.30
-Gascoyne region | 73.30
-Goldfields-Esperance region | 67.35
-Great Southern region, Peel region | 65.30
-Kimberley region | 75.35
-Mid West region | 67.15
-Pilbara region | 76.70
-South West region | 66.70
-Wheatbelt region | 66.80
-15.Various fees amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 44(4)(a) | $9.10 | $8.95
-r. 48 | $9.00 | $8.80
-r. 87 Table | 63.75 (each occurrence) | 65.30
-r. 87 Table | 49.80 | 51.00
-r. 87 Table | 147.15 | 150.80
-r. 87 Table | 97.50 | 99.90
-r. 87 Table | 92.55 | 94.85
-r. 88 Table | 70.10 (each occurrence) | 73.30
-r. 88 Table | 54.75 | 57.25
-r. 88 Table | 161.85 | 169.30
-r. 88 Table | 107.25 | 112.15
-r. 88 Table | 101.80 | 106.50
-r. 89 Table | 66.35 (each occurrence) | 67.35
-r. 89 Table | 51.80 | 52.60
-r. 89 Table | 153.15 | 155.60
-r. 89 Table | 101.45 | 103.05
-r. 89 Table | 96.30 | 97.85
-r. 90 Table | 63.75 (each occurrence) | 65.30
-r. 90 Table | 49.80 | 51.00
-r. 90 Table | 147.15 | 150.80
-r. 90 Table | 97.50 | 99.90
-r. 90 Table | 92.55 | 94.85
-r. 91 Table | 73.10 (each occurrence) | 75.35
-r. 91 Table | 57.10 | 58.85
-r. 91 Table | 174.50 | 174.00
-r. 91 Table | 111.80 | 115.25
-r. 91 Table | 106.15 | 109.45
-r. 92 Table | 65.50 (each occurrence) | 67.15
-r. 92 Table | 51.15 | 52.45
-r. 92 Table | 151.25 | 155.15
-r. 92 Table | 100.20 | 102.75
-r. 92 Table | 95.10 | 97.60
-r. 93 Table | 75.60 (each occurrence) | 76.70
-r. 93 Table | 59.05 | 59.90
-r. 93 Table | 174.50 | 177.15
-r. 93 Table | 115.60 | 117.35
-r. 93 Table | 109.75 | 111.40
-r. 94 Table | 64.05 (each occurrence) | 66.80
-r. 94 Table | 50.00 | 52.15
-r. 94 Table | 147.85 | 154.25
-r. 94 Table | 97.95 | 102.15
-r. 94 Table | 93.00 | 97.00
-r. 97(a) | $255.55 | $261.95
-r. 97(b) | $128.50 | $131.70
-r. 98(1) | $12.50 | $12.20
-r. 99(1) and (2) | $12.85 | $12.10
-r. 100 | $16.75 | $16.40
-r. 101 | $9.90 | $9.70
-r. 107 | $24.70 | $25.30
-r. 112(a) | $24.70 | $25.30
-r. 112(b) | $17.00 | $16.60
-r. 112(d) | $28.50 | $29.20
-r. 112(f) | $931.70 | $955.00
-r. 112(g)(i) | $225.70 | $231.30
-r. 112(g)(ii) | $111.60 | $114.30
-r. 114(1) and (2) | $17.00 | $17.40
-r. 130(1)(a) | $9 957.90 | $10 206.80
-r. 130(1)(b) | $1 992.20 | $2 042.00
-r. 130(1)(c) | $991.50 | $1 016.30
-r. 130(1)(d) | $198.10 | $203.00
-r. 130(1)(e) | $1 992.20 | $2 042.00
-r. 130(1)(f) | $86.60 | $88.70
-r. 130(2) | $497.20 | $509.60
-r. 130(3)(a) and (b) | $20.50 | $21.00
-r. 134(1)(b) | $32.90 | $32.10
-r. 134(3) | $48.40 | $47.20
-r. 235(4) | $20.00 | $19.50
-r. 468(1) | $50 | $51.25
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
