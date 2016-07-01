@@ -7,18 +7,12 @@ Acts Amendment (Fair Trading) Act 2010 s. 180 | 58 of 2010 | 8 Dec 2010 | 1 Jan 
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 4 Div. 4 (s. 37-44) | 42 of 2011 | 4 Oct 2011 | s. 44: 5 Oct 2011 (see s. 2(b)) s. 37-43: 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 19 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
+Associations Incorporation Act 2015 s. 232 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Associations Incorporation Act 2015 s. 232 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
-Co-operatives Amendment Act 2016 s. 3-200 | 7 of 2016 | 14 Apr 2016 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 232 had not come into operation. It reads as follows:
-232.References to “1987” amended to “2015” in various Acts
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “1987” and insert:
-2015
-Table
-Co-operatives Act 2009 | s. 305(1)(b)
+Co-operatives Amendment Act 2016 s. 3-200 | 7 of 2016 | 14 Apr 2016 | 1 Jan 2017 (see s. 2(b) and Gazette 2 Dec 2016 p. 5381)
+Footnote no longer applicable.
 On the date as at which this compilation was prepared, the Co-operatives Amendment Act 2016 s. 3-200had not come into operation. They reads as follows:
 3.Act amended
 This Act amends the Co-operatives Act 2009.

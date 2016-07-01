@@ -41,10 +41,7 @@ Casino (Burswood Island) Agreement Amendment Act 2011 Pt. 3 | 25 of 2011 | 11 Ju
 Reprint 6: The Gaming and Wagering Commission Act 1987 as at 16 Dec 2011 (includes amendments listed above)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 12 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Associations Incorporation Act 2015 s. 217 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
+Associations Incorporation Act 2015 s. 217 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Repealed by the Mental Health (Consequential Provisions) Act 1996.
 Now known as the Gaming and Wagering Commission Act 1987; short title changed (see note under s. 1).
 The Acts Amendment (Continuing Lotteries) Act 2000 Pt. 4 (as amended by the Taxation Administration (Consequential Provisions) Act 2002 s. 6) contains savings and transitional provisions.
@@ -57,12 +54,6 @@ Division 2 — Transitional and savings provisions
 (3) If, in a written law or in a document of any kind there is a reference to the Gaming Commission, that reference is, unless because of the context it would be inappropriate to do so, to be read and construed as if it had been amended to be a reference to the Gaming and Wagering Commission.
 170.Members of the Commission
 Each person holding office as a member of the Gaming Commission under the Gaming Commission Act 1987 immediately before the coming into operation of this section continues in office as a member of the Gaming and Wagering Commission under and subject to the Gaming and Wagering Commission Act 1987 until the expiry of the term of office.
-Footnote no longer applicable.
-On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 217 had not come into operation. It reads as follows:
-217.Gaming and Wagering Commission Act 1987 amended
-(1) This section amends the Gaming and Wagering Commission Act 1987.
-(2) In section 38(b) delete “incorporated under the Associations Incorporation Act 1987,” and insert:
-incorporated, or taken to be incorporated, under the Associations Incorporation Act 2015,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

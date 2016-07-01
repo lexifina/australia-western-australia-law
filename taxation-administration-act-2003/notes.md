@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 22 April 2016 of the Taxation Administration Act 2003 and includes the amendments made by the other written laws referred to in the following table 1M, 1MC. The table also contains information about any reprint.
+This is a compilation of the Taxation Administration Act 2003 and includes the amendments made by the other written laws referred to in the following table1M, 1MC. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Taxation Administration Act 2003 | 1 of 2003 | 20 Mar 2003 | s. 1 and 2: 20 Mar 2003; Act other than s. 1, 2, 34(2)(c), (4) and (5), 41(2) and (4), 47(8), 48, 56(3), 57(3), 59 and 127 and the definition of non-reviewable decision in the Glossary: 1 Jul 2003 (see s. 2 and Gazette 27 Jun 2003 p. 2383); s. 127: 2 Jan 2004 (see s. 2 and Gazette 19 Dec 2003 p. 5137); s. 34(2)(c) and (4), 47(8), 48, 56(3), 57(3) and 59: 2 Mar 2009 (see s. 2 and Gazette 24 Feb 2009 p. 385)
@@ -27,11 +27,8 @@ Revenue Laws Amendment Act 2012 Pt. 8 | 29 of 2012 | 3 Sep 2012 | Heading to Pt.
 Revenue Laws Amendment Act 2013 Pt. 2 Div. 2 and Pt. 3 | 10 of 2013 | 24 Sep 2013 | 25 Sep 2013 (see s. 2(b))
 Electronic Conveyancing Act 2014 Pt. 8 | 2 of 2014 | 24 Mar 2014 | 3 Jun 2014 (see s. 2(c) and Gazette 30 May 2014 p. 1679)
 Taxation Legislation Amendment Act (No. 2) 2015 Pt. 5 | 8 of 2015 | 9 Mar 2015 | 10 Mar 2015 (see s. 2(b))
-Reprint 5: The Taxation Administration Act 2003 as at 22 Apr 2016 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Associations Incorporation Act 2015 s. 229 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
+Associations Incorporation Act 2015 s. 229 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
+Reprint 5: The Taxation Administration Act 2003 as at 22 Apr 2016 (includes amendments listed above except those in the Associations Incorporation Act 2015)
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7 this Act is to be read and construed with any modifications referred to in subsection (1) of that section and with the modifications provided for in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 r. 4 and Pt. 7 Div. 1. Part 7 Div. 1 of those regulations reads as follows:
 Part 7 — Taxation administration
 Division 1 — The Taxation Administration Act 2003
@@ -224,11 +221,6 @@ new provisions means the provisions of the Stamp Act 1921 as amended by the Reve
 (3) Subsection (2) does not authorise the Commissioner to make an assessment under the new provisions of the duty on an instrument to the extent (if any) to which the former provisions apply in relation to it under the Revenue Laws Amendment (Tax Relief) Act (No. 2) 2004 section 9(2)(b).
 (4) The Taxation Administration Act 2003 sections 18 and 54(1)(a) apply in relation to an assessment under subsection (2) as if it were a reassessment under section 16 of that Act.
 The amendment in the Duties Legislation Amendment Act 2008 s. 46 is not included because the section it sought to amend had been replaced by the Revenue Laws Amendment Act (No. 2) 2008 s. 7 before the amendment was to come into operation.
-On the date as at which this reprint was prepared, the Associations Incorporation Act 2015 s. 229 had not come into operation. It reads as follows:
-229.Taxation Administration Act 2003 amended
-(1) This section amends the Taxation Administration Act 2003.
-(2) Delete section 67(11)(b) and insert:
-(b) a director of a body that is incorporated or taken to be incorporated under the Associations Incorporation Act 2015.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 March 2016 of the Liquor Control Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Liquor Control Act 1988 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Liquor Licensing Act 1988 | 54 of 1988 | 9 Dec 1988 | s. 1 and 2: 9 Dec 1988; Act other than s. 1 and 2: 1 Feb 1989 (see s. 2 and Gazette 27 Jan 1989 p. 263)
@@ -49,13 +49,13 @@ Reprint 6: The Liquor Control Act 1988 as at 20 Nov 2009 (includes amendments li
  | Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 28 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
  | Criminal Organisations Control Act 2012 s. 178 | 49 of 2012 | 29 Nov 2012 | 2 Nov 2013 (see s. 2(b) and Gazette 1 Nov 2013 p. 4891)
  | Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 2014 | 9 Dec 2014 | 1 Jul 2015 (see s. 2(b) and Gazette 26 Jun 2015 p. 2235)
+ | Associations Incorporation Act 2015 s. 222 and 232 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
  | Liquor Legislation Amendment Act 2015 Pt. 2 (other than s. 26) | 35 of 2015 | 2 Nov 2015 | Pt. 2 (other than s. 26): 20 Nov 2015 (see s. 2(b) and Gazette 17 Nov 2015 p. 4693)
- | Reprint 8: The Liquor Control Act 1988 as at 4 Mar 2016 (includes amendments listed above)
+ | Reprint 8: The Liquor Control Act 1988 as at 4 Mar 2016 (includes amendments listed above except those in the Associations Incorporation Act 2015)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Associations Incorporation Act 2015 s. 222 and 232 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
@@ -66,23 +66,13 @@ Repealed by the Liquor Act 1970, which was repealed by this Act.
 Now known as the Liquor Control Act 1988; short title changed (see note under s. 1).
 The Courts Legislation Amendment Act 2000 s. 14 is a transitional provision that is of no further effect.
 The Liquor Licensing Amendment Act 2001 s. 5(2) and 6(2) are transitional provisions that are of no further effect.
-On the date as at which this reprint was prepared, the Prostitution Amendment Act 2008 s. 32 had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Prostitution Amendment Act 2008 s. 32 had not come into operation. It reads as follows:
 32.Liquor Control Act 1988 amended
 (1) The amendment in this section is to the Liquor Control Act 1988.
 (2) After section 37(6) the following subsection is inserted —
 (7) An application shall not be granted where the licensing authority is satisfied that the premises to which the application relates are premises at or from which a sexual service business within the meaning of the Sexual Services Act 2000 section 3 operates.
-On the date as at which this reprint was prepared, the Associations Incorporation Act 2015 s. 222 and 232 had not come into operation. They read as follows:
-222.Liquor Control Act 1988 amended
-(1) This section amends the Liquor Control Act 1988.
-(2) In section 37(2A) delete “incorporated under the Associations Incorporation Act 1987” and insert:
-incorporated, or taken to be incorporated, under the Associations Incorporation Act 2015
-232.References to “1987” amended to “2015” in various Acts
-(1) This section amends the Acts listed in the Table.
-(2) In the provisions listed in the Table delete “1987” and insert:
-2015
-Table
-Liquor Control Act 1988 | s. 49(1)(a)(i) and (6), Sch. 2 Div. 1 cl. 1 def. of League, Sch. 2 Div. 2 cl. 1 def. of Association
-On the date as at which this reprint was prepared, the Liquor Legislation Amendment Act 2015 s. 26 had not come into operation. It reads as follows:
+Footnote no longer applicable.
+On the date as at which this compilation was prepared, the Liquor Legislation Amendment Act 2015 s. 26 had not come into operation. It reads as follows:
 26.Part 7A inserted
 After section 172A insert:
 Part 7A — Alcohol Intervention

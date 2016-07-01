@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 March 2016 of the Criminal Procedure Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Criminal Procedure Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Procedure Act 2004 | 71 of 2004 | 8 Dec 2004 | s. 1 and 2: 8 Dec 2004; Act other than s. 1 and 2: 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7128)
@@ -17,16 +17,8 @@ Courts Legislation Amendment Act 2012 Pt. 2 | 43 of 2012 | 22 Nov 2012 | 30 Jan 
 Reprint 2: The Criminal Procedure Act 2004 as at 24 May 2013 (includes amendments listed above except those in the Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 15)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 8 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Reprint 3: The Criminal Procedure Act 2004 as at 11 Mar 2016 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Associations Incorporation Act 2015 s. 214 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
+Associations Incorporation Act 2015 s. 214 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 10 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this reprint was prepared, the Associations Incorporation Act 2015 s. 214 had not come into operation. It reads as follows:
-214.Criminal Procedure Act 2004 amended
-(1) This section amends the Criminal Procedure Act 2004.
-(2) In Schedule 2 clause 4(2)(c) delete “1987 section 41” and insert:
-2015 section 176
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

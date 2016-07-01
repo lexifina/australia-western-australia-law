@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Cremation Act 1929 and includes the amendments made by the other written laws referred to in the following table . The table also contains information about any reprint.
+This is a compilation of the Cremation Act 1929 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Cremation Act 1929 | 22 of 1929 (20 Geo. V No. 20) | 11 Dec 1929 | 11 Dec 1929
@@ -24,25 +24,16 @@ Medical Practitioners Act 2008 Sch. 3 cl. 13 | 22 of 2008 | 27 May 2008 | 1 Dec 
 Reprint 5: The Cremation Act 1929 as at 4 Jul 2008 (includes amendments listed above except those in the Medical Practitioners Act 2008)
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 14 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Associations Incorporation Act 2015 s. 213 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
-Repealed by the Associations Incorporation Act 1987.
+Associations Incorporation Act 2015 s. 213 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
+Footnote no longer applicable.
 The renumbering of sections effected in the 1943 reprint (in Volume 2 of the Reprinted Acts of the Parliament of Western Australia) and subsequent reprints has been retained. References to the original numbering are contained in the 1943 reprint.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 213 had not come into operation. It reads as follows:
-213.Cremation Act 1929 amended
-(1) This section amends the Cremation Act 1929.
-(2) Before section 4(1) insert:
-(1A) In subsection (1)(b) —
-association means an association incorporated, or taken to be incorporated, under the Associations Incorporation Act 2015.
-(3) In section 4(1)(b) delete “incorporated under the Associations Incorporation Act 1895,”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 administration2
 administrator2
+association4(1A)
 Board2
 body2
 cemetery2

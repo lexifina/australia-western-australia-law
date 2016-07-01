@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 April 2016 of the Child Care Services Act 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Child Care Services Act 2007 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Child Care Services Act 2007 | 19 of 2007 | 3 Jul 2007 | s. 1 and 2: 3 Jul 2007 (see s. 2(a)); Act other than s. 1 and 2: 10 Aug 2007 (see s. 2(b) and Gazette 9 Aug 2007 p. 4071)
@@ -8,10 +8,7 @@ Compilation table
  | Reprint 1: The Child Care Services Act 2007 as at 27 Apr 2012 (includes amendments listed above)
 Education and Care Services National Law (WA) Act 2012 Pt. 4 Div. 1 | 11 of 2012 | 20 Jun 2012 | 1 Aug 2012 (see s. 2(c) and Gazette 25 Jul 2012 p. 3411)
 Reprint 2: The Child Care Services Act 2007 as at 8 Apr 2016 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Associations Incorporation Act 2015 s. 212 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
+Associations Incorporation Act 2015 s. 212 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Section 65 was omitted under the Reprints Act 1984 s. 7(4)(e).
 The section in this Act repealing the Children and Community Services Act 2004 Part 8 was omitted under the Reprints Act 1984 s. 7(4)(e).
@@ -19,11 +16,6 @@ Now known as the Child Care Services (Child Care) Regulations 2006.
 Now known as the Child Care Services (Family Day Care) Regulations 2006.
 Now known as the Child Care Services (Outside School Hours Care) Regulations 2006.
 Now known as the Child Care Services (Outside School Hours Family Day Care) Regulations 2006.
-On the date as at which this reprint was prepared, the Associations Incorporation Act 2015 s. 212 had not come into operation. It reads as follows:
-212.Child Care Services Act 2007 amended
-(1) This section amends the Child Care Services Act 2007.
-(2) In section 3 in the definition of managerial officer paragraph (a) delete “Associations Incorporation Act 1987 section 3(1),” and insert:
-Associations Incorporation Act 2015 section 3,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

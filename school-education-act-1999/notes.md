@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 19 February 2016 of the School Education Act 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the School Education Act 1999 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 | 36 of 1999 | 2 Nov 1999 | s. 1 and 2: 2 Nov 1999; Act other than s. 1, 2, 182(3) and 208: 1 Jan 2001 (see s. 2 and Gazette 29 Dec 2000 p. 7904)
@@ -23,15 +23,15 @@ School Education Amendment Act 2012 Pt. 2 | 46 of 2012 | 29 Nov 2012 | s. 3 and 
 Reprint 3: The School Education Act 1999 as at 15 Mar 2013 (includes amendments listed above)
 School Education Amendment Act 2014 Pt. 2 (s. 3-35) | 28 of 2014 | 27 Nov 2014 | s. 29: 27 Nov 2014 (see s. 2(b)(i)); Pt. 2 Div. 1 and 3 (other than s. 29): 17 Dec 2014 (see s. 2(c) and Gazette 16 Dec 2014 p. 4759); Pt. 2 Div. 2: 2 Feb 2015 (see s. 2(c) and Gazette 16 Jan 2015 p. 311)
 Children and Community Services Legislation Amendment and Repeal Act 2015 Pt. 2 Div. 3 Subdiv. 2 | 23 of 2015 | 17 Sep 2015 | 1 Jan 2016 (see s. 2(b) and Gazette 15 Dec 2015 p. 5027)
-Reprint 4: The School Education Act 1999 as at 19 Feb 2016 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+Associations Incorporation Act 2015 s. 228 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
+Reprint 4: The School Education Act 1999 as at 19 Feb 2016 (includes amendments listed above except the Associations Incorporation Act 2015)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 s. 182(3) and 208 | 36 of 1999 | 2 Nov 1999 | To be proclaimed (see s. 2)
-Associations Incorporation Act 2015 s. 228 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending the other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Children and Community Services Act 2004.
-On the date as at which this reprint was prepared, the School Education Act 1999 s. 182(3) and 208 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the School Education Act 1999 s. 182(3) and 208 had not come into operation. They read as follows:
 182.Minister may allocate moneys
 (3) In the case of moneys appropriated for distribution according to the number of students at a school, account may only be taken of students who are in their pre-compulsory, compulsory or post-compulsory education periods and are —
 (a) entitled to reside permanently in Australia; or
@@ -44,25 +44,6 @@ The Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 s
 (2) When the meaning of “compulsory education period” changes by operation of section 6(b) of the School Education Act 1999 (inserted by subsection (1)), the change extends to the compulsory education period for a child which, but for the change, would have ended on 31 December 2005.
 The Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 s. 21 is a transitional provision of no further effect.
 The Financial Legislation Amendment and Repeal Act 2006 (now known as the Financial Management (Transitional Provisions) Act 2006) Sch. 2 deals with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Associations Incorporation Act 2015 s. 228 had not come into operation. It reads as follows:
-228.School Education Act 1999 amended
-(1) This section amends the School Education Act 1999.
-(2) In section 124 insert in alphabetical order:
-incorporated association has the same meaning as in the Associations Incorporation Act 2015 section 3;
-Note:The heading to amended section 124 is to read:
-Terms used
-(3) In section 137(2) delete “under the Associations Incorporation Act 1987”.
-(4) In section 138(1) delete “association under the Associations Incorporation Act 1987.” and insert:
-association.
-(5) In section 139(1) delete “under the Associations Incorporation Act 1987”.
-(6) In sections 139(2) and 148(2)(b) delete “section 31 of” and insert:
-Schedule 4 to
-(7) In the provisions listed in the Table delete “1987” and insert:
-2015
-Table
-s. 130(3)(a)(ii) | s. 139(2) and (3)
-s. 141 def. of incorporated association | s. 145(3)
-s. 148(2) and (3) | s. 195(1)(a)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -85,7 +66,8 @@ certificate of registration150
 chief executive officer4
 child4, 75(3)
 child of compulsory school age4, 29(1a)
-commencementSch. 1 cl. 1, 24 and 26
+commencementSch. 1 cl. 1, Sch. 1 cl. 24
+commencement Sch. 1 cl. 26
 commencement day11L(7)
 Community Kindergarten Registration Advisory Panel201(7)
 compulsory education period4
@@ -111,10 +93,10 @@ government school4
 Home Education Advisory Panel54(7)
 home education moderator50(1)
 home educator46
-incorporated association141
+incorporated association124, 141
 intake area4
 joint arrangement213
-joint use property213(a)
+joint use property213
 local-intake school4
 non-government school4
 Non-government School Registration Advisory Panel168(7)
@@ -132,7 +114,7 @@ person74(2)
 pre-compulsory education period4
 principal4
 property213
-provider11A(1) and (2), 32
+provider11A(1), 11A(2), 32
 PSMA234
 quality improvement notice150
 register150
@@ -147,7 +129,7 @@ school planning proposal150, 156
 school premises119(1)
 school system150
 school year4
-significant registration change150, 156(b)
+significant registration change150, 156
 special religious education66
 specifiedSch. 1 cl. 32(5)
 student4, 121(4)

@@ -27,13 +27,13 @@ Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see 
 Statutes (Repeals and Minor Amendments) Act 2011 s. 6 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Insurance Commission of Western Australia Amendment Act 2013 | 7 of 2013 | 19 Aug 2013 | s. 1 and 2: 19 Aug 2013 (see s. 2(a)); Act other than s. 1 and 2: 20 Aug 2013 (see s. 2(b))
 Reprint 4: The Insurance Commission of Western Australia Act 1986 as at 10 Jan 2014 (includes amendments listed above) (correction in Gazette 4 Aug 2015 p. 3135)
+Associations Incorporation Act 2015 s. 219 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. (b) and Gazette 24 Jun 2016 p. 2291-2)
 Motor Vehicle (Catastrophic Injuries) Act 2016 Pt. 7 Div. 2 | 8 of 2016 | 14 Apr 2016 | 14 May 2016 (see s. 2(b) and Gazette 13 May 2016 p. 1421)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 s. 25 and 28 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 50 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Associations Incorporation Act 2015 s. 219 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Repealed by the Life Insurance (Consequential Amendments and Repeals) Act 1995 s. 5. Now the Life Insurance Act 1995 of the Commonwealth.
 Repealed by the Insurance Commission of Western Australia Act 1986 s. 46(1).
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Act 1984 s. 7(3)(g).
@@ -61,11 +61,6 @@ Schedule 4 to the principal Act is repealed.
 On the date on which this reprint was prepared, the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 50 had not come into operation. It reads as follows:
 50.Insurance Commission of Western Australia Act 1986 amended
 Clause 16(2) of Schedule 4 to the Insurance Commission of Western Australia Act 1986 is amended by deleting “(including, if he is a contributor under the Superannuation and Family Benefits Act 1938, his rights under that Act)”.
-On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 219 had not come into operation. It reads as follows:
-219.Insurance Commission of Western Australia Act 1986 amended
-(1) This section amends the Insurance Commission of Western Australia Act 1986.
-(2) In section 3 in the definition of community organisation paragraph (a) delete “incorporated under the Associations Incorporation Act 1987; or” and insert:
-incorporated, or taken to be incorporated, under the Associations Incorporation Act 2015; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
