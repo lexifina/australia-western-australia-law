@@ -23,6 +23,8 @@ Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 201
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2015 | 10 Feb 2015 p. 617-20 | bl. 1 and 2: 10 Feb 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 27 Apr 2015 (see bl. 2(b) and Gazette 17 Apr 2015 p. 1371)
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2015 | 8 May 2015 p. 1619-21 | bl. 1 and 2: 8 May 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 9 May 2015 (see bl. 2(b))
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 3) 2015 | 30 Jun 2015 p. 2335-6 | bl. 1 and 2: 30 Jun 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2015 (see bl. 2(b))
+Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2016 | 1 Jul 2016 p. 2743-5 | bl. 1 and 2: 1 Jul 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2016 (see bl. 2(b))
+Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2016 | 1 Jul 2016 p. 2745-7 | bl. 1 and 2: 1 Jul 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2016 (see bl. 2(b) and Gazette 24 Jun 2016 p. 2291)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
@@ -37,11 +39,14 @@ Defined termProvision(s)
 alleged offender27
 authorised person3(1)
 boom gate controlled ticket parking area26AA(1)
+committee26AF(1)
+decision26AF(1)
 driver3(1)
 eligible staff member26AB(1)
 Hospital3(1)
 infringement notice27
 modified penalty27
+North Metropolitan Health Service3(1)
 paid staff parking area26AB(1)
 parking facility3(1)
 parking permit3(1)
@@ -49,6 +54,7 @@ parking space3(1)
 permit parking area26AC(1)
 prescribed fee3(1)
 prohibited item7(1)
+public hospital3(1)
 responsible person3(1)
 roadway3(1)
 secretary3(1)
