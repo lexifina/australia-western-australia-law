@@ -11,6 +11,7 @@ Reprint 1: The Births, Deaths and Marriages Registration Regulations 1999 as at 
 Births, Deaths and Marriages Registration Amendment Regulations 2007 | 15 Jun 2007 p. 2786-7 | r. 1 and 2: 15 Jun 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2007 (see r. 2(b))
 Births, Deaths and Marriages Registration Amendment Regulations 2009 | 12 Jun 2009 p. 2116-17 | r. 1 and 2: 12 Jun 2009 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2009 (see r. 2(b))
 Births, Deaths and Marriages Registration Amendment Regulations 2015 | 26 Jun 2015 p. 2254-5 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Births, Deaths and Marriages Registration Amendment Regulations 2016 | 24 Jun 2016 p. 2318-19 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
