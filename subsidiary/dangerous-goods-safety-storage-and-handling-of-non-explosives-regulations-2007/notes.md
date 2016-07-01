@@ -13,6 +13,7 @@ Dangerous Goods Safety (Storage and Handling of Non explosives) Amendment Regula
 Reprint 2: The Dangerous Goods Safety (Storage and Handling of Non-explosives) Regulations 2007 as at 25 Jul 2014 (includes amendments listed above)
 Dangerous Goods Safety (Storage and Handling of Non explosives) Amendment Regulations 2015 | 26 Jun 2015 p. 2262-3 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 7 | 5 Feb 2016 p. 343-68 | 6 Feb 2016 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 6 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
 Repealed by the Safe Work Australia (Consequential and Transitional Provisions) Act 2008 Sch. 1 (Cwlth). Now see the Safe Work Australia Act 2008 (Cwlth).
 Commenced on 1 January 2014.
 Repealed by the Dangerous Goods Safety (Goods in Ports) Repeal Regulations 2013.

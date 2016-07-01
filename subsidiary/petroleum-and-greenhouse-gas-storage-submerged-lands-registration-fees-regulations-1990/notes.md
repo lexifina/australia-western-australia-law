@@ -16,3 +16,4 @@ Petroleum (Submerged Lands) Registration Fees Amendment Regulations 2014 | 25 Fe
 Petroleum (Submerged Lands) Registration Fees Amendment Regulations (No. 2) 2014 | 17 Jun 2014 p. 1985-6 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Reprint 3: The Petroleum (Submerged Lands) Registration Fees Regulations 1990 as at 5 Sep 2014 (includes amendments listed above)
 Petroleum (Submerged Lands) Registration Fees Amendment Regulations 2015 | 30 Jun 2015 p. 2349-50 | r. 1 and 2: 30 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 9 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))

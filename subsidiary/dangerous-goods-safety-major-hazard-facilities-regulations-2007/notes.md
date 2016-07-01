@@ -14,6 +14,7 @@ Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations 2013 | 28
 Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations 2014 | 17 Jun 2014 p. 1989-90 | r. 1 and 2: 17 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b))
 Dangerous Goods Safety (Major Hazard Facilities) Amendment Regulations 2015 | 26 Jun 2015 p. 2265-6 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Dangerous Goods Safety Regulations Amendment Regulations 2016 Pt. 4 | 5 Feb 2016 p. 343-68 | 6 Feb 2016 (see r. 2(b))
+Mines and Petroleum Regulations Amendment (Fees and Levies) Regulations 2016 Pt. 3 | 24 Jun 2016 p. 2325-34 | 1 Jul 2016 (see r. 2(b))
 Repealed by the Dangerous Goods Safety Act 2004 s. 70.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
