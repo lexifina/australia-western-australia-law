@@ -44,6 +44,7 @@ Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment
 Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations (No. 2) 2014 | 28 Nov 2014 p. 4413 | r. 1 and 2: 28 Nov 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Nov 2014 (see r. 2(b))
 Reprint 6: The Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Regulations 1974 as at 23 Jan 2015 (includes amendments listed above)
 Health (Treatment of Sewage and Disposal of Effluent and Liquid Waste) Amendment Regulations 2015 | 5 May 2015 p. 1596 | r. 1 and 2: 5 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 4 | 17 Jun 2016 p. 2101-5 | 1 Jul 2016 (see r. 2(b))
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Repealed by the Environmental Protection (Liquid Waste) Repeal Regulations 2003.
 Under the Alteration of Statutory Designations Order (No. 3) 2001 references in any law to the Health Department shall be read as references to the Department of Health.

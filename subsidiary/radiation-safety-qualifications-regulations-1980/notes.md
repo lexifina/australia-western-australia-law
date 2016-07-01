@@ -24,6 +24,7 @@ Radiation Safety (Qualifications) Amendment Regulations 2000 | 30 Jun 2000 p. 34
 Radiation Safety (Qualifications) Amendment Regulations 2014 | 30 Dec 2014 p. 5503-4 | r. 1 and 2: 30 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2014 (see r. 2(b))
 Reprint 2: The Radiation Safety (Qualifications) Regulations 1980 as at 6 Feb 2015 (includes amendments listed above)
 Radiation Safety (Qualifications) Amendment Regulations 2015 | 19 May 2015 p. 1753-4 | r. 1 and 2: 19 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 7 | 17 Jun 2016 p. 2101-5 | 1 Jul 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

@@ -19,6 +19,7 @@ Tobacco Products Control Amendment Regulations 2015 | 10 Feb 2015 p. 625 | r. 1 
 Tobacco Products Control Amendment Regulations (No. 3) 2015 | 19 May 2015 p. 1757-8 | r. 1 and 2: 19 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Tobacco Products Control Amendment Regulations (No. 4) 2015 | 25 Aug 2015 p. 3379-80 | r. 1 and 2: 25 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Aug 2015 (see r. 2(b))
 Tobacco Products Control Amendment Regulations (No. 2) 2016 | 6 May 2016 p. 1382-3 | r. 1 and 2: 6 May 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 7 May 2016 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 8 | 17 Jun 2016 p. 2101-5 | 1 Jul 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

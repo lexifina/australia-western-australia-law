@@ -53,6 +53,7 @@ Radiation Safety (General) Amendment Regulations 2011 | 1 Apr 2011 p. 1183-4 | r
 Radiation Safety (General) Amendment Regulations 2014 | 30 Dec 2014 p. 5501-3 | r. 1 and 2: 30 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Dec 2014 (see r. 2(b))
 Radiation Safety (General) Amendment Regulations 2015 | 19 May 2015 p. 1754-7 | r. 1 and 2: 19 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Radiation Safety (General) Amendment Regulations (No. 2) 2015 | 9 Oct 2015 p. 3982 | r. 1 and 2: 9 Oct 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2016 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 6 | 17 Jun 2016 p. 2101-5 | 1 Jul 2016 (see r. 2(b))
 Footnote no longer applicable.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
 4-6Footnote no longer applicable.
