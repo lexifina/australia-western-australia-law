@@ -90,32 +90,9 @@ Firearms Amendment Regulations 2014 | 17 Jun 2014 p. 1990-2 | r. 1 and 2: 17 Jun
 Firearms Amendment Regulations (No. 2) 2015 | 2 Jun 2015 p. 1947-8 | r. 1 and 2: 2 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Firearms Amendment Regulations 2015 | 21 Jul 2015 p. 2939 | r. 1 and 2: 21 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jul 2015 (see r. 2(b))
 Firearms Amendment Regulations 2016 | 5 Apr 2016 p. 1025-7 | r. 1 and 2: 5 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Apr 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Police Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 2 | 14 Jun 2016 p. 1826-33 | 1 Jul 2016 (see r. 2(b))
 The Firearms Amendment Regulations 1996 r. 9(2) reads as follows:
 (2) The notation “PR” endorsed on a licence or permit before the commencement of this regulation is to be regarded as if it were the notation “HR”.
-On the date as at which this compilation was prepared, the Police Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Firearms Regulations 1974 amended
-3.Regulations amended
-This Part amends the Firearms Regulations 1974.
-4.Schedule 1A amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 1A it. 1(c) | 177.00 | 178.00
-Sch. 1A it. 2(a) | 329.00 | 328.00
-Sch. 1A it. 2(c) | 187.00 | 189.00
-Sch. 1A it. 3(a) | 421.00 | 419.00
-Sch. 1A it. 3(c) | 187.00 | 189.00
-Sch. 1A it. 4(a) | 434.00 | 432.00
-Sch. 1A it. 4(b) | 111.00 | 112.00
-Sch. 1A it. 5(a) | 434.00 | 432.00
-Sch. 1A it. 6(a) | 434.00 | 432.00
-Sch. 1A it. 7(a) | 302.00 | 301.00
-Sch. 1A it. 7(b) | 91.00 | 92.00
-Sch. 1A it. 8(a) | 302.00 | 301.00
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
