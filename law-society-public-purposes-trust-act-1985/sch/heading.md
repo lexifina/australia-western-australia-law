@@ -1,6 +1,6 @@
 ## Schedule — Law Society Public Purposes Trust Deed
 [s. 3]
-[Heading amended by No. 19 of 2010 s. 4.]
+[Heading amended: No. 19 of 2010 s. 4.]
 THIS DEED is made the 22nd day of August 1985 BY THE LAW SOCIETY OF WESTERN AUSTRALIA (INC.) of 8th Floor, Exchange House, 68 St. George’s Terrace, Perth (“the Trustee”)
 WHEREAS:
 A.Legal practitioners in Western Australia are obliged pursuant to the provisions of the Legal Practitioners Act 1893 to keep trust accounts with banks to which are paid all moneys held by the practitioner on behalf of persons other than the practitioner (“trust moneys”).
