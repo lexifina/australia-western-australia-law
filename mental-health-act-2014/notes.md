@@ -6,21 +6,7 @@ Mental Health Act 2014 | 24 of 2014 | 3 Nov 2014 | s. 1 and 2: 3 Nov 2014 (see s
 Mental Health Legislation Amendment Act 2014 Pt. 3 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
 Mental Health Amendment Act 2015 | 36 of 2015 | 23 Nov 2015 | s. 1 and 2: 23 Nov 2015 (see s. 2(a)); s. 3-8: 30 Nov 2015 (see s. 2(b) and (c) and Gazette 13 Nov 2015 p. 4632)
 Reprint 1: The Mental Health Act 2014 as at 15 Apr 2016 (includes amendments listed above)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Health Services Act 2016 s. 296 | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Health Services Act 2016 s. 296 had not come into operation. It reads as follows:
-296.Mental Health Act 2014 amended
-(1) This section amends the Mental Health Act 2014.
-(2) In section 4 in the definition of general hospital delete “Hospitals and Health Services Act 1927 section 2(1))” and insert:
-Health Services Act 2016 section 6)
-(3) In section 4 in the definition of private hospital delete “Hospitals and Health Services Act 1927” and insert:
-Private Hospitals and Health Services Act 1927
-(4) In section 4 in the definition of public hospital delete “Hospitals and Health Services Act 1927 section 2(1);” and insert:
-Health Services Act 2016 section 6;
-(5) In section 348 in the definition of identified person paragraph (h) delete “Hospitals and Health Services Act 1927” and insert:
-Private Hospitals and Health Services Act 1927
+Health Services Act 2016 s. 296 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

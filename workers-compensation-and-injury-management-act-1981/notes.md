@@ -78,13 +78,13 @@ Workers’ Compensation and Injury Management Amendment Act 2012 | 12 of 2012 | 
 Workers’ Compensation and Injury Management Amendment (Jockeys) Act 2012 | 45 of 2012 | 20 Nov 2012 | s. 1 and 2: 20 Nov 2012 (see s. 2(a)); Act other than s. 1 and 2: 14 Dec 2012 (see s. 2(b) and Gazette 30 Nov 2012 p. 5774)
 Workers’ Compensation and Injury Management Amendment Act 2013 | 21 of 2013 | 12 Nov 2013 | s. 1 and 2: 12 Nov 2013 (see s. 2(a)); Act other than s. 1 and 2: 13 Nov 2013 (see s. 2(b))
 Reprint 11: The Workers’ Compensation and Injury Management Act 1981 as at 13 Feb 2015 (includes amendments listed above)
+Health Services Act 2016 s. 306 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in compiling the reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 74 | 43 of 2000 (as amended by No. 42 of 2004 s. 174) | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Workers’ Compensation and Injury Management Amendment Act 2011 s. 123(2)-(7) | 31 of 2011 | 31 Aug 2011 | To be proclaimed (see s. 2(b))
 Medicines and Poisons Act 2014 s. 191 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-Health Services Act 2016 s. 306 | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
 The Workers’ Compensation Act Amendment Act (No. 2) 1977 s. 3 became operative on 28 Nov 1977.
 The effect of this section was removed by the Western Australian Marine Act 1982 s. 135, subject to the savings provisions in section 135(4) of that Act.
 Repealed by the Statute Stocktake Act 1999 (Cwlth).
@@ -451,11 +451,6 @@ On the date as at which this reprint was prepared, the Medicines and Poisons Act
 (1) This section amends the Workers’ Compensation and Injury Management Act 1981.
 (2) In section 5(1) delete the definition of drug of addiction and insert:
 drug of addiction has the meaning given in the Misuse of Drugs Act 1981 section 3(1);
-On the date as at which this compilation was prepared, the Health Services Act 2016 s. 306 had not come into operation. It reads as follows:
-306.Workers’ Compensation and Injury Management Act 1981 amended
-(1) This section amends the Workers’ Compensation and Injury Management Act 1981.
-(2) In Schedule 1 clause 18(1) delete “Hospitals and Health Services Act 1927” and insert:
-Health Services Act 2016
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
