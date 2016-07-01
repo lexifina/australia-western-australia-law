@@ -16,14 +16,18 @@ Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2014 |
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws (No. 2) 2014 | 22 Aug 2014 p. 3017-23 | bl. 1 and 2: 22 Aug 2014 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Sep 2014 (see bl. 2(b))
 Reprint 2: The Energy Operators (Regional Power Corporation) (Charges) By-laws 2006 as at 3 Oct 2014 (includes amendments listed above)
 Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2015 | 26 Jun 2015 p. 2247-52 | bl. 1 and 2: 26 Jun 2015 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2015 (see bl. 2(b))
+Energy Operators (Regional Power Corporation) (Charges) Amendment By-laws 2016 | 28 Jun 2016 p. 2626-8 | bl. 1 and 2: 28 Jun 2016 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2016 (see bl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 corporation3
 dwelling3
 interest period12(1)
+North West interconnected system4(1A), 4(2A)
 RBA cash rate3
+regional non-integrated system4(1A)
 relevant period8(1)
 residential tariff3
+South West interconnected system4(1A)
 Tariff3
 unit3
