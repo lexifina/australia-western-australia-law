@@ -15,18 +15,9 @@ Human Tissue and Transplant Amendment Act 2006 | 14 of 2006 | 11 May 2006 | 11 M
 Reprint 2: The Human Tissue and Transplant Act 1982 as at 7 Jul 2006 (includes amendments listed above)
 Medical Practitioners Act 2008 s. 162 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 28 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Health Services Act 2016 s. 294 | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
+Health Services Act 2016 s. 294 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 The provisions in this Act repealing these Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The provision in this Act amending that Act has been omitted under the Reprints Act 1984 s. 7(4)(e).
-On the date as at which this compilation was prepared, the Health Services Act 2016 s. 294 had not come into operation. It reads as follows:
-294.Human Tissue and Transplant Act 1982 amended
-(1) This section amends the Human Tissue and Transplant Act 1982.
-(2) Delete section 3(2) and insert:
-(2) For the purposes of this Act —
-hospital includes a health service provider as defined in the Health Services Act 2016 section 6 that has the conduct of pathological examinations as an area for which it is established.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

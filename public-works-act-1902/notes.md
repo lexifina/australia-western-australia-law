@@ -71,29 +71,20 @@ Building Act 2011 s. 170 | 24 of 2011 | 11 Jul 2011 | 2 Apr 2012 (see s. 2(b) an
 Water Services Legislation Amendment and Repeal Act 2012 s. 225 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Reprint 11: The Public Works Act 1902 as at 12 Jul 2013 (includes amendments listed above except those in the Water Services Legislation Amendment and Repeal Act 2012)
 Electricity Corporations Amendment Act 2013 s. 45 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Health Services Act 2016 s. 300 | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
+Health Services Act 2016 s. 300 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Repealed by the Roads Act 1911, which was repealed by the Road Districts Act 1919, which was repealed by the Local Government Act 1960, which is now cited as the Local Government (Miscellaneous Provisions) Act 1960. The main Act now dealing with local governments is the Local Government Act 1995.
 Repealed by the Dividing Fences Act 1961 s. 2(1).
 Short title subsequently amended twice (see note under s. 1). Now again known as the Public Works Act 1902.
 The Second Schedule was inserted by the Metric Conversion Amendment Act 1973.
 The Acts Amendment (Land Administration) Act 1987 s. 39 is a validation provision that is of no further effect.
-The Public Works Amendment Act 1994 s. 11 is a validation provision that is of no further effect. Section 10 reads as follows:
+The Public Works Amendment Act 1994 s. 10 is a transitional provision and reads as follows:
 10.Transitional
 (1) A reference in a document executed before the commencement of this Act to the Western Australian Building Authority is to be construed, unless the context otherwise requires, as if that reference had been amended to be a reference to the Western Australian Building Management Authority.
 (2) A reference in a document executed before the commencement of this Act to the Western Australian Building Authority Account is to be construed, unless the context otherwise requires, as if that reference had been amended to be a reference to the Western Australian Building Management Authority Account.
+The Public Works Amendment Act 1994 s. 11 is a validation provision that is of no further effect.
 The Statutes (Repeals and Minor Amendments) Act 2000 s. 35(2) and (3) is a validation provision that is of no further effect.
 The Statutes (Repeals) Act 2014 s. 6(3) is a savings provision and reads as follows:
 (3) For the purposes of the Public Works Act 1902 sections 96 and 99, the railway made under the authority of the repealed Act, to the extent that that railway was not discontinued by the Railway Discontinuance Act 2006, continues to be a railway authorised by a special Act.
-On the date as at which this compilation was prepared, the Health Services Act 2016 s. 300 had not come into operation. It reads as follows:
-300.Public Works Act 1902 amended
-(1) This section amends the Public Works Act 1902.
-(2) In section 2 insert in alphabetical order:
-hospital has the meaning given in the Health Services Act 2016 section 6;
-(3) In section 2 in the definition of public work paragraph (f) delete “hospitals within the meaning given to that term by section 2 of the Hospitals and Health Services Act 1927,” and insert:
-hospitals,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

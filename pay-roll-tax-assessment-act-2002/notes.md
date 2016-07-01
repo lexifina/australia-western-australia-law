@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Pay-roll Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table 1a, 1M, 1MC. The table also contains information about any reprint.
+This is a compilation of the Pay-roll Tax Assessment Act 2002 and includes the amendments made by the other written laws referred to in the following table 1M, 1MC. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Pay-roll Tax Assessment Act 2002 | 48 of 2002 | 20 Mar 2003 | 1 Jul 2003 (see. s. 2 and Gazette 27 Jun 2003 p. 2383)
@@ -19,12 +19,9 @@ Reprint 3: The Pay-roll Tax Assessment Act 2002 as at 17 Jan 2014 (includes amen
 Revenue Laws Amendment Act 2014 Pt. 4 | 15 of 2014 | 2 Jul 2014 | 1 Jul 2014 (see s. 2(c)(ii))
 Taxation Legislation Amendment Act (No. 2) 2015 Pt. 4 | 8 of 2015 | 9 Mar 2015 | 10 Mar 2015 (see s. 2(b))
 Taxation Legislation Amendment Act (No. 3) 2015 Pt. 4 | 15 of 2015 | 26 May 2015 | 1 Jul 2015 (see s. 2(b)(i))
+Health Services Act 2016 s. 298 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 1MCUnder the Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, modifications to State taxing laws, in their application as Commonwealth laws in Commonwealth places in Western Australia, may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes) (Modifications of Applied Laws (WA)) Notice 2007 (Commonwealth). If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1MC appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1MC appearing after the defined term.
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Health Services Act 2016 s. 298 | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002 s. 5.
 Renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Commonwealth).
@@ -35,13 +32,6 @@ The Revenue Laws Amendment (Tax Relief) Act 2004 s. 5(6) and 15(7) read as follo
 15.Section 29 amended and transitional provision
 ...
 (7) The amendments made by this section do not affect an exemption given before the coming into operation of this section.
-On the date as at which this compilation was prepared, the Health Services Act 2016 s. 298 had not come into operation. It reads as follows:
-298.Pay-roll Tax Assessment Act 2002
-(1) This section amends the Pay-roll Tax Assessment Act 2002.
-(2) Delete section 40(2)(d) and insert:
-(d) to a person who is staff member as defined in the Health Services Act 2016 section 6 of a health service provider, in connection with that person’s employment in, or engagement under a contract for services by, the health service provider under that Act; or
-(3) After section 40(2) insert:
-(2A) The exemption provided for by subsection (2)(d) does not apply to wages that are paid or payable to a staff member to the extent that the person’s employment or engagement is in connection with a commercial activity referred to in the Health Services Act 2016 section 35 unless the commercial activity is, or is in a class of commercial activity, prescribed in the regulations for the purposes of this subsection.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

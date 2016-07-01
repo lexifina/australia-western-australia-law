@@ -25,9 +25,8 @@ Goldfields-Esperance Development Commission
 Government Employees Superannuation Board
 Great Southern Development Commission
 Health and Disability Services Complaints Office
+Health service providers established by order under the Health Services Act 2016 section 32(1)
 Heritage Council of Western Australia
-Agencies established under the Hospitals and Health Services Act 1927 section 7B
-Hospital boards constituted under the Hospitals and Health Services Act 1927 section 15 and the Minister in relation to any public hospital controlled by the Minister under section 7 of that Act
 Housing Authority
 Insurance Commission of Western Australia
 Keep Australia Beautiful Council (W.A.)
@@ -88,4 +87,4 @@ Western Australian Treasury Corporation
 Wheatbelt Development Commission
 WorkCover Western Australia Authority
 Zoological Parks Authority
-[Schedule 1 amended by No. 77 of 2006 Sch. 1 cl. 63; No. 10 of 2007 s. 43; No. 24 of 2007 s. 36; No. 38 of 2007 s. 195; No. 28 of 2008 s. 13; No. 16 of 2009 s. 69; No. 33 of 2010 s. 56; No. 45 of 2011 s. 138; No. 54 of 2011 s. 5; No. 37 of 2011 s. 56; No. 22 of 2012 s. 125; No. 25 of 2012 s. 212; No. 23 of 2013 s. 77; No. 3 of 2015 s. 16; No. 6 of 2015 s. 55; No. 40 of 2015 s. 55; amended in Gazette 13 Jul 2007 p. 3454; 4 Jan 2008 p. 29; 8 Feb 2008 p. 323; 20 Aug 2010 p. 4072; 7 Dec 2012 p. 5998; 9 Jul 2013 p. 3048; 11 Nov 2014 p. 4262; 12 May 2015 p. 1641.]
+[Schedule 1 amended by No. 77 of 2006 Sch. 1 cl. 63; No. 10 of 2007 s. 43; No. 24 of 2007 s. 36; No. 38 of 2007 s. 195; No. 28 of 2008 s. 13; No. 16 of 2009 s. 69; No. 33 of 2010 s. 56; No. 45 of 2011 s. 138; No. 54 of 2011 s. 5; No. 37 of 2011 s. 56; No. 22 of 2012 s. 125; No. 25 of 2012 s. 212; No. 23 of 2013 s. 77; No. 3 of 2015 s. 16; No. 6 of 2015 s. 55; No. 40 of 2015 s. 55; amended in Gazette 13 Jul 2007 p. 3454; 4 Jan 2008 p. 29; 8 Feb 2008 p. 323; 20 Aug 2010 p. 4072; 7 Dec 2012 p. 5998; 9 Jul 2013 p. 3048; 11 Nov 2014 p. 4262; 12 May 2015 p. 1641; No. 11 of 2016 s. 289.]
