@@ -1,14 +1,14 @@
 Notes
-This is a compilation of the Pharmacy Act 2010. The following table contains information about that Act.
+This is a compilation of the Pharmacy Act 2010 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Pharmacy Act 2010 | 32 of 2010 | 26 Aug 2010 | s. 1 and 2: 26 Aug 2010 (see s. 2(a)); Act other than s. 1 and 2: 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5076)
+Associations Incorporation Act 2015 s. 225 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
+Health Services Act 2016 s. 299 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 186 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-Associations Incorporation Act 2015 s. 225 | 30 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
-Health Services Act 2016 s. 299 | 11 of 2016 | 26 May 2016 | To be proclaimed (see s. 2(b))
 On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 186 had not come into operation. It reads as follows:
 186.Pharmacy Act 2010 amended
 (1) This section amends the Pharmacy Act 2010.
@@ -25,16 +25,6 @@ Medicines and Poisons Act 2014
 (1) In this section —
 CEO has the meaning given in the Medicines and Poisons Act 2014 section 3.
 (2) The Board is required to notify the CEO of information recorded in the register as soon as is practicable after the information is recorded.
-On the date as at which this compilation was prepared, the Associations Incorporation Act 2015 s. 225 had not come into operation. It reads as follows:
-225.Pharmacy Act 2010 amended
-(1) This section amends the Pharmacy Act 2010.
-(2) In section 3(1) in the definition of preserved company delete “association incorporated under the Associations Incorporation Act 1987;” and insert:
-association taken to be incorporated under the Associations Incorporation Act 2015;
-On the date as at which this compilation was prepared, the Health Services Act 2016 s. 299 had not come into operation. It reads as follows:
-299.Pharmacy Act 2010 amended
-(1) This section amends the Pharmacy Act 2010.
-(2) In section 3(1) in the definition of pharmacy business paragraph (c) delete “Hospitals and Health Services Act 1927 section 2(1); or” and insert:
-Health Services Act 2016 section 6; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
