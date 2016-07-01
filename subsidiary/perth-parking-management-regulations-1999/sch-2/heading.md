@@ -13,11 +13,11 @@ Item | Parking facilities | Annual licence fee $
 10. | a parking bay used solely for a vehicle that forms part of the stock of a business of a motor vehicle dealer who holds a licence under the Motor Vehicle Dealers Act 1973 | nil
 11. | a facility that has more than 5 parking bays for the use of vehicles (excluding a bay set aside for the exclusive use of vehicles referred to in any of items 2 to 10, 12 and 13) —
  | (a)for each motor cycle bay; | nil
- | (b)for each bay (excluding a bay that is on a carriageway) that is available to the public for use without time constraints; | 1 062.00
- | (c)for each bay that is on a carriageway; | 995.80
- | (d)for each bay that is available to the public and in which 50% of the vehicles being parked stay for less than 4 hours and at least 90% stay for less than 6 hours; | 995.80
- | (e)for each other bay | 1 093.70
+ | (b)for each bay (excluding a bay that is on a carriageway) that is available to the public for use without time constraints; | 1 088.60
+ | (c)for each bay that is on a carriageway; | 1 005.80
+ | (d)for each bay that is available to the public and in which 50% of the vehicles being parked stay for less than 4 hours and at least 90% stay for less than 6 hours; | 1 005.80
+ | (e)for each other bay | 1 132.00
 12. | a parking bay for use without charge — (a)located on the site of — (i)a place of public worship of a religious body; or (ii)a school that is formally affiliated with a religious body; and
  | (b)set aside during the hours of 8.00 a.m. to 6.00 p.m. Monday to Friday solely for a vehicle being used by a person who, throughout the period the vehicle is parked in the bay — (i)is employed at the place of public worship or the school; or (ii)does voluntary work at or mainly at the place of public worship or the school; or (iii)visits the place of public worship or the school for religious purposes or in relation to parish affairs of the religious body; or (iv)visits the school for school-related purposes | nil
 13. | a parking bay for use without charge — (a)located on or adjacent to a park; and (b)set aside during the hours of 8.00 a.m. to 6.00 p.m. solely for a vehicle being used by a person or persons who, throughout the period the vehicle is parked in the bay, engages or engage in a recreational activity in the park | nil
-[Schedule 2 amended in Gazette 15 Jun 2001 p. 2976-7; 17 May 2002 p. 2569; 16 May 2003 p. 1704-5; 21 May 2004 p. 1713-14; 10 Jun 2005 p. 2567; 12 May 2006 p. 1788; 12 Jun 2007 p. 2736-7; 28 Sep 2007 p. 4933; 16 May 2008 p. 1913-14; 23 Jun 2009 p. 2490; 30 Jun 2009 p. 2660; 1 Apr 2010 p. 1280; 8 Apr 2011 p. 1292; 29 Apr 2011 p. 1535-6; 1 Jun 2012 p. 2287; 2 Nov 2012 p. 5262-3; 8 Feb 2013 p. 870; 14 Jun 2013 p. 2247; 16 May 2014 p. 1544-5; 13 Feb 2015 p. 653; 15 May 2015 p. 1729-30.]
+[Schedule 2 amended in Gazette 15 Jun 2001 p. 2976-7; 17 May 2002 p. 2569; 16 May 2003 p. 1704-5; 21 May 2004 p. 1713-14; 10 Jun 2005 p. 2567; 12 May 2006 p. 1788; 12 Jun 2007 p. 2736-7; 28 Sep 2007 p. 4933; 16 May 2008 p. 1913-14; 23 Jun 2009 p. 2490; 30 Jun 2009 p. 2660; 1 Apr 2010 p. 1280; 8 Apr 2011 p. 1292; 29 Apr 2011 p. 1535-6; 1 Jun 2012 p. 2287; 2 Nov 2012 p. 5262-3; 8 Feb 2013 p. 870; 14 Jun 2013 p. 2247; 16 May 2014 p. 1544-5; 13 Feb 2015 p. 653; 15 May 2015 p. 1729-30; 13 May 2016 p. 1428.]
