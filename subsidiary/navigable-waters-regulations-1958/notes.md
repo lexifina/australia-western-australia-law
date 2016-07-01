@@ -141,45 +141,9 @@ Navigable Waters Amendment Regulations (No. 2) 2014 | 16 May 2014 p. 1542-3 | r.
 Navigable Waters Amendment Regulations (No. 3) 2014 | 25 Jul 2014 p. 2581-91 | r. 1 and 2: 25 Jul 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2014 (see r. 2(b))
 Reprint 16: The Navigable Waters Regulations 1958 as at 5 Dec 2014 (includes amendments listed above)
 Navigable Waters Amendment Regulations 2015 | 29 May 2015 p. 1881-2 | r. 1 and 2: 29 May 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 2 | 27 May 2016 p. 1549-54 | 1 Jul 2016 (see r. 2(b))
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
-On the date as at which this compilation was prepared, the Transport Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 2 had not come into operation. It reads as follows:
-Part 2 — Navigable Waters Regulations 1958 amended
-3.Regulations amended
-This Part amends the Navigable Waters Regulations 1958.
-4.Regulation 45BAA amended
-(1) Delete regulation 45BAA(4)(g) and insert:
-(g) the proposed date of departure of the vessel from navigable waters.
-(2) After regulation 45BAA(4) insert:
-(4A) An application for the registration of a foreign pleasure vessel must be accompanied by a recording fee of $26.70 and the appropriate fee ascertained in accordance with the following Table for each 3 month period or part of a 3 month period for which it is proposed the vessel will be in navigable waters —
-Table
-Length of vessel | Fee ($)
-(i)less than 5 m | 4.00
-(ii)5 m or more but less than 10 m | 7.25
-(iii)10 m or over but less than 20 m | 9.50
-(iv)20 m or over but less than 30 m | 19.00
-(v)30 m or over but less than 40 m | 38.00
-(vi)40 m or over | 76.00
-5.Various fees amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-r. 45B(3a)(b) Table | 110.00 | 113.00
-r. 45B(3a)(b) Table | 233.90 | 240.20
-r. 45B(3a)(b) Table | 469.10 | 481.80
-r. 45B(3a)(b) Table | 686.10 | 704.70
-r. 45B(4) | $26.50 | $26.70
-r. 45B(6A) | $10.00 | $10.90
-r. 45BA(2)(a) | $340.00 | $350
-r. 45BA(2)(b) | $135.00 | $145
-r. 45BA(3) | $260.00 | $270
-r. 45BA(6a)(b) | $135.00 | $145
-r. 45E(2)(a) | $26.50 | $26.70
-r. 47C(5)(b)(ii) | $20.00 | $20.50
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
