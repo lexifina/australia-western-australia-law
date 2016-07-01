@@ -7,13 +7,13 @@ Item | Description | Fee ($)
 3. | Mining licence — (a)standard block licence application (s. 201(1)) (b)tender block licence application (s. 222(1)) (c)renewal application (s. 240(1)) | 3 000.00 3 000.00 600.00
 4. | Works licence — (a)licence application (s. 272(1)) (b)renewal application (s. 292(1)) | 3 000.00 600.00
 5. | Special purpose consent application (s. 319(1)) | 300.00
-6. | Inspection of register and documents (s. 332(1)) | 22.05
-7. | Registration of transfer (s. 338(1)(f)) | 55.20
-8. | Registration of other dealing (s. 339(1)(d)) | 137.95
-9. | Devolution of licence (s. 340(1)(d)) | 137.95
-10. | Caveat (s. 344) | 137.95
-11. | Certified copy of or extract from register (s. 357(4)) (per page) | 5.55
-12. | Certified copy of document (s. 358(1)) (per page) | 5.55
-13. | Certificate (s. 359(1)) | 55.20
-14. | Approval of transfer application (s. 363(6)) | 137.95
-[Schedule 2 inserted in Gazette 22 Jun 2012 p. 2796; amended in Gazette 26 Jul 2013 p. 3355-6; 20 Jun 2014 p. 2039; 26 Jun 2015 p. 2256-7.]
+6. | Inspection of register and documents (s. 332(1)) | 22.30
+7. | Registration of transfer (s. 338(1)(f)) | 55.80
+8. | Registration of other dealing (s. 339(1)(d)) | 139.45
+9. | Devolution of licence (s. 340(1)(d)) | 139.45
+10. | Caveat (s. 344) | 139.45
+11. | Certified copy of or extract from register (s. 357(4)) (per page) | 5.60
+12. | Certified copy of document (s. 358(1)) (per page) | 5.60
+13. | Certificate (s. 359(1)) | 55.80
+14. | Approval of transfer application (s. 363(6)) | 139.45
+[Schedule 2 inserted in Gazette 22 Jun 2012 p. 2796; amended in Gazette 26 Jul 2013 p. 3355-6; 20 Jun 2014 p. 2039; 26 Jun 2015 p. 2256-7; 24 Jun 2016 p. 2338.]
