@@ -14,6 +14,7 @@ Reprint 2: The Surveillance Devices Regulations 1999 as at 10 Sep 2010 (includes
  | Surveillance Devices Amendment Regulations (No. 2) 2012 | 4 Jan 2013 p. 10 | r. 1 and 2: 4 Jan 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Feb 2013 (see r. 2(b) and Gazette 4 Jan 2013 p. 3)
  | Surveillance Devices Amendment Regulations 2012 | 19 Feb 2013 p. 991-2 | r. 1 and 2: 19 Feb 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Feb 2013 (see r. 2(b))
  | Surveillance Devices Amendment Regulations 2015 | 1 Dec 2015 p. 4820-1 | r. 1 and 2: 1 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Dec 2015 (see r. 2(b))
+ | Surveillance Devices Amendment Regulations (No. 2) 2016 | 24 Jun 2016 p. 2339-40 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
