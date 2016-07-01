@@ -4,20 +4,7 @@ Compilation table
 Citation | Gazettal | Commencement
 Teacher Registration (Accreditation of Initial Teacher Education Programmes) Regulations 2012 | 16 Nov 2012 p. 5611-33 | r. 1 and 2: 16 Nov 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 7 Dec 2012 (see r. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Teacher Registration (Accreditation of Initial Teacher Education Programmes) Amendment Regulations 2015 | 12 Jun 2015 p. 2026 | r. 1 and 2: 12 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Teacher Registration Regulations (Fees) Amendment Regulations 2016 Pt. 3 | 14 Jun 2016 p. 1825 | 1 Jul 2016 (see. r. 2(b))
-On the date as at which this compilation was prepared, the Teacher Registration Regulations (Fees) Amendment Regulations 2016 Pt. 3 had not come into operation. It reads as follows:
-Part 3 — Teacher Registration (Accreditation of Initial Teacher Education Programmes) Regulations 2012 amended
-5.Regulations amended
-This Part amends the Teacher Registration (Accreditation of Initial Teacher Education Programmes) Regulations 2012.
-6.Regulation 5 amended
-In regulation 5(3)(b) delete “$2 052.” and insert:
-$2 075.
-7.Regulation 6 amended
-In regulation 6(4)(b) delete “$2 052.” and insert:
-$2 075.
+Teacher Registration Regulations (Fees) Amendment Regulations 2016 Pt. 3 | 14 Jun 2016 p. 1823-5 | 1 Jul 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
