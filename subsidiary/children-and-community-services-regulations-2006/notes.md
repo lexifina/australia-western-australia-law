@@ -19,6 +19,8 @@ Children and Community Services Amendment Regulations 2014 | 27 Jun 2014 p. 2310
 Children and Community Services Amendment Regulations 2015 | 10 Apr 2015 p. 1251 | r. 1 and 2: 10 Apr 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(ii) and Gazette 10 Apr 2015 p. 1249)
 Children and Community Services Amendment Regulations (No. 2) 2015 | 26 Jun 2015 p. 2238-9 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b))
 Children and Community Services Amendment Regulations (No. 3) 2015 | 15 Dec 2015 p. 5028-9 | r. 1 and 2: 15 Dec 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2016 (see r. 2(b) and Gazette 15 Dec 2015 p. 5027)
+Child Protection Regulations Amendment Regulations 2016 Pt. 3 | 24 Jun 2016 p. 2292-4 | 1 Jul 2016 (see r. 2(b))
+Children and Community Services Amendment Regulations 2016 | 24 Jun 2016 p. 2295-6 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b) and Gazette 24 Jun 2016 p. 2291)
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Children and Community Services Act 2004 s. 250.
 Defined terms
