@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 15 January 2016 of the Family Court Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Family Court Regulations 1998 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Family Court Regulations 1998 | 25 Sep 1998 p. 5303-9 | 26 Sep 1998 (see r. 2 and Gazette 25 Sep 1998 p. 5295)
@@ -15,6 +15,20 @@ Family Court Amendment Regulations (No. 3) 2015 | 18 Aug 2015 p. 3299-301 | r. 1
 Reprint 3: The Family Court Regulations 1998 as at 15 Jan 2016 (includes amendments listed above)
 Deleted by the Supreme Court Amendment Rules (No. 5) 2001.
 The Family Court Amendment Regulations 2015 were repealed before the provisions of those regulations that were to amend the Family Court Regulations 1998 came into operation. See the Family Court Amendment Repeal Regulations 2015 in Gazette 30 June 2015 p. 2340.
+The amount of each fee in Schedule 1 increased on 1 July 2016 under regulation 21I is reflected in the table below.
+Item | Document or action | Updated fee for 1 July 2016 to 30 June 2018
+1. | Filing an application for final orders in eligible financial or parenting proceedings | $330
+2. | Setting down for hearing in eligible financial or parenting proceedings, if defended, for final orders — (a)for a hearing before a judge (b)for a hearing before a magistrate | $825 $605
+3. | Hearing in eligible financial or parenting proceedings, if defended, for final orders — for each hearing day, or part of a hearing day, excluding the first hearing day — (a)for a hearing before a judge (b)for a hearing before a magistrate | $825 $605
+4. | Filing a response to an application for final orders in eligible financial or parenting proceedings | $330
+5. | Setting-down for hearing in an appeal under section 211 from a decree of a Magistrates Court, unless the fee mentioned in item 12 has been paid | $825
+6. | Hearing in an appeal under section 211 from a decree of a Magistrates Court — for each hearing day, or part of a hearing day, excluding the first hearing day | $825
+7. | Filing an application for a consent order | $160
+8. | Filing an interim order application | $115
+9. | Filing an application for both a final order under Part 5 and a final order under Part 5A Division 2 or Division 3 of the Act (other than for an order for the maintenance of a party to a de facto relationship) | $545
+10. | For issuing a subpoena | $55
+11. | For listing a conciliation conference | $380
+12. | Filing an application for leave to appeal under section 211 from an interlocutory order of a Magistrates Court | $825
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
