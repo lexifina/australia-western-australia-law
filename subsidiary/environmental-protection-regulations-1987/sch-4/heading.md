@@ -145,7 +145,7 @@ Kind of waste | Fee units (for each gram per minute)
 4.Inorganic fluoride | 2.5
 5.Pesticides | 2.5
 6.Aluminium, arsenic, chromium, cobalt, copper, lead, manganese, molybdenum, nickel, vanadium and zinc | 2.5
-7.Vinyl chloride, hydrogen sulphide, benzene carbon oxysulphide, carbon disulphide and acrylates | 10
+7.Vinyl chloride, hydrogen sulphide, benzene, carbon oxysulphide, carbon disulphide and acrylates | 10
 8.Beryllium, cadmium, mercury, TDI (toluene-2, 4-di-iso-cyanate), MDI (diphenyl-methane di-iso-cyanate) | 100
 9.Other waste | 1
 Table 2 — Discharges onto land or into waters
@@ -161,4 +161,4 @@ Kind of waste | Fee units
 5.E coli bacteria as indicator species (in each megalitre discharged per day) — (a)1 000 to 5 000 organisms per 100 ml (b)5 000 to 20 000 organisms per 100 ml (c)more than 20 000 organisms per 100 ml | 5 10 15
 6.Other waste (per kilogram discharged per day) — (a)oil and grease (b)total dissolved solids (c)fluoride (d)iron | 0.05 0.05 1 1
 (e)total residual chlorine (f)other | 10 1
-[Part 3 inserted in Gazette 13 Sep 1996 p. 4565-7; amended in Gazette 10 Dec 1996 p. 6878; 15 Aug 2000 p. 4718; 29 Sep 2006 p. 4266; 22 Jun 2007 p. 2844.]
+[Part 3 inserted in Gazette 13 Sep 1996 p. 4565-7; amended in Gazette 10 Dec 1996 p. 6878; 15 Aug 2000 p. 4718; 29 Sep 2006 p. 4266; 22 Jun 2007 p. 2844; 28 Jun 2016 p. 2631.]

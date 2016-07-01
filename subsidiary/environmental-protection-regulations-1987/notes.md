@@ -70,6 +70,7 @@ Environmental Protection Amendment Regulations (No. 2) 2013 | 24 Sep 2013 p. 438
 Environmental Protection Amendment Regulations (No. 3) 2014 | 1 Aug 2014 p. 2823-4 | r. 1 and 2: 1 Aug 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Aug 2014 (see r. 2(b))
 Reprint 8: The Environmental Protection Regulations 1987 as at 5 Dec 2014 (includes amendments listed above)
 Environmental Protection Amendment Regulations 2015 | 21 Aug 2015 p. 3336 | r. 1 and 2: 21 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Aug 2015 (see r. 2(b))
+Environmental Protection Amendment Regulations 2016 | 28 Jun 2016 p. 2629-32 | r. 1 and 2: 28 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b))
 Published in Gazette 18 December 1992 p. 6099.
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in a written law to the Department of Environmental Protection or Department of Environment is, unless the context requires otherwise, to be read and construed as a reference to the Department of Environment Regulation.
 Proclaimed 1 July 1988 in Gazette 26 June 1998 p. 3369.
@@ -89,7 +90,6 @@ baseline survey26(1)
 best practice criteria4(1)
 category4(1)
 commencement day21(1)
-Departmental library2AA
 development site16A
 development work16A
 enclosed water body16(4)
