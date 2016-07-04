@@ -42,17 +42,25 @@ Country Taxi-cars (Fares and Charges) Amendment Regulations (No. 3) 2012 | 30 No
 Country Taxi-cars (Fares and Charges) Amendment Regulations 2013 | 13 Dec 2013 p. 6178-89 | r. 1 and 2: 13 Dec 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Dec 2013 (see r. 2(b))
 Country Taxi-cars (Fares and Charges) Amendment Regulations (No. 2) 2014 | 23 Dec 2014 p. 4897-911 | r. 1 and 2: 23 Dec 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Dec 2014 (see r. 2(b))
 Country Taxi-cars (Fares and Charges) Amendment Regulations 2015 | 20 Feb 2015 p. 690-2 | r. 1 and 2: 20 Feb 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Feb 2015 (see r. 2(b))
-Under the Alteration of Statutory Designations (DPI) Order 2009 a reference in a law to the Department of Planning and Infrastructure is to be read and construed as a reference to the Department of Transport.
+On-demand Transport Regulations Amendment Regulations 2016 Pt. 2 | 28 Jun 2016 p. 2655-92 | 4 Jul 2016 (see r. 2(b))
+Footnote no longer applicable.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2) a reference in a written law to a clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a registrar of the Magistrates Court.
 If immediately before commencement of the Courts Legislation Amendment and Repeal Act 2004 Pt. 2 Div. 2, a person held office under the Local Courts Act 1904 s. 13 as a clerk, then on commencement the person is taken under the Courts Legislation Amendment and Repeal Act 2004 s. 6(1) to have been appointed as a registrar of the Magistrates Court.
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58 a reference in a written law to a court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+booking service2A(1)
 business entity2A(1)
 call out2A(1)
+contract fare2A(1), 3AA(1)
 designated radius3(4)
+fare schedule6(1)
+GST2A(1)
+multiple hiring5(1)
 non-cash payment 2A(1)
 payment terminal2A(1)
 region2A(1)
+Schedule 1 fare2A(1)
 surcharge2A(1)
+voucher5A(1)

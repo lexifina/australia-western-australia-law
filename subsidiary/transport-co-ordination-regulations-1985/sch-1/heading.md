@@ -1,7 +1,7 @@
 ## Schedule 1
 Column 1 | Column 2
 [Form 1 | deleted]
-Form 2....... | Omnibus licence.
+[Form 2 | deleted]
 Form 3....... | Omnibus statistical return and statement of gross earnings.
 Form 4....... | Application for a commercial goods licence.
 Form 5....... | Commercial goods vehicle licence.
@@ -26,4 +26,4 @@ Form 23..... | Search warrant (section 49).
 Form 24..... | Application for a ferry licence.
 Form 25..... | Ferry licence.
 Form 26..... | Application for a ferry permit.
-[Schedule 1 amended in Gazette 29 Apr 1988 p. 1306; 30 Dec 2004 p. 6960; 27 May 2016 p. 1556.]
+[Schedule 1 amended in Gazette 29 Apr 1988 p. 1306; 30 Dec 2004 p. 6960; 27 May 2016 p. 1556; 28 Jun 2016 p. 2688.]

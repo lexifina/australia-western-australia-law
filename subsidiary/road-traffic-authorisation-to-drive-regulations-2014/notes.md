@@ -7,6 +7,7 @@ Road Traffic (Authorisation to Drive) Amendment Regulations (No. 2) 2015 | 27 Ma
 Road Traffic (Authorisation to Drive) Amendment Regulations 2015 | 26 Jun 2015 p. 2275 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(ii) and Gazette 26 Jun 2015 p. 2235)
 Road Traffic (Authorisation to Drive) Amendment Regulations (No. 5) 2015 | 13 Nov 2015 p. 4663 | r. 1 and 2: 13 Nov 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Nov 2015 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 3 | 27 May 2016 p. 1549-54 | 1 Jul 2016 (see r. 2(b))
+On-demand Transport Regulations Amendment Regulations 2016 Pt. 3 | 28 Jun 2016 p. 2655-92 | 4 Jul 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

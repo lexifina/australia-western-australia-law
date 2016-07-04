@@ -32,6 +32,7 @@ Transport Co-ordination Amendment Regulations (No. 2) 2015 | 12 Jun 2015 p. 2033
 Reprint 4: The Transport Co-ordination Regulations 1985 as at 14 Aug 2015 (includes amendments listed above)
 On-demand Transport Regulations Amendment (Fees) Regulations 2016 Pt. 4 | 27 May 2016 p. 1554-6 | 1 Jul 2016 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2016 Pt. 7 | 14 Jun 2016 p. 1987-2003 | 1 Jul 2016 (see r. 2(b))
+On-demand Transport Regulations Amendment Regulations 2016 Pt. 5 | 28 Jun 2016 p. 2655-92 | 4 Jul 2016 (see r. 2(b))
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 54(2), a reference in a written law to the clerk of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the registrar of the Magistrates Court. The reference to the clerk in Form 21 was amended under the Reprints Act 1984 s. 7(5)(a).
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 58, a reference in a written law to the court of petty sessions is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the Magistrates Court. The references to the court in Form 21 were amended under the Reprints Act 1984 s. 7(5)(a).
 Defined terms

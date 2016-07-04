@@ -1,17 +1,7 @@
 ## Schedule 2
 ## Forms
 [Form 1 deleted in Gazette 27 May 2016 p. 1556.]
-Western Australia
-TRANSPORT CO-ORDINATION ACT 1966
-TRANSPORT CO-ORDINATION REGULATIONS 1985
-OMNIBUS LICENCE
-Form 2
-This licence shall authorise
-(hereinafter called the licensee) subject to the provisions of the Transport Co-ordination Act 1966, and the regulations made from time to time thereunder, and to the conditions (if any) endorsed hereon to operate the said vehicle on the route or routes described hereon until the day of 20 .
-DESCRIPTION OF VEHICLES AND FEES PAYABLE
-Make and Type | Plate No. | Year | Star Rating | Max: Pass: Seating | $ c
-ISSUED with the authority of the MINISTER and effective on and from the day of 20 .
-[Form 2 amended in Gazette 28 Feb 2003 p. 683.]
+[Form 2 deleted in Gazette 28 Jun 2016 p. 2688.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 TRANSPORT CO-ORDINATION REGULATIONS 1985
@@ -19,7 +9,7 @@ Form 3
 OMNIBUS STATISTICAL RETURN AND STATEMENT OF GROSS EARNINGS
  | MONTH |  | YEAR
  | Name of Licensee |  |  |  | 20
-LICENCE NO. | ROUTE NO. | TRIPS | PASS. CARRIED | TOTAL SEATS AVAILABLE | KM TRAVELLED | GROSS REVENUE $ | REV. FOR ASSESS. OF LIC. FEES
+VEHICLE DESCRIPTION | ROUTE NO. | TRIPS | PASS. CARRIED | TOTAL SEATS AVAILABLE | KM TRAVELLED | GROSS REVENUE $ | REV. FOR ASSESS. OF LIC. FEES
 1. TOURS: HALF-DAY, FULL-DAY, EXTENDED, SAFARI
 2. REGULAR TIMETABLED SERVICES
 3. CHARTER TRIPS
@@ -403,13 +393,13 @@ APPLICATION FOR TRANSFER OF AN OMNIBUS LICENCE
 Form 18
 S. 30
 To the DIRECTOR GENERAL:
-I (transferee).......................................................................................................... Occupation.............................................................................................................. of (Address)........................................................................................................... hereby apply for the transfer to me of Omnibus Licence No................................. held by (transferor) ...............................................................................................
+I (transferee).......................................................................................................... Occupation........................................................................................................... of (Address)........................................................................................................... hereby apply for the transfer to me of licence for omnibus [insert vehicle description]................................. held by (transferor) ........................................
 I certify that no monies or other consideration by way of premium, or otherwise has been paid, or is to be paid, for the transfer of this licence, as per section 30(2) of the Transport Co-ordination Act 1966.
 Signature of Transferee.............................................
 Date.......................................20............ Telephone No.........................................
 The omnibus in respect of which the abovementioned licence has been issued has been disposed of to (transferee)....................................................................... and I agree to the licence being transferred to him.
 Date..................................20........... Signature of Transferor.................................
-[Form 18 amended in Gazette 28 Feb 2003 p. 684.]
+[Form 18 amended in Gazette 28 Feb 2003 p. 684; 28 Jun 2016 p. 2688.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966
 Form 19
@@ -417,14 +407,14 @@ S. 23
 TRANSFER OF LICENCE
 Date of Issue..........................................20................
 Application having been made by —
-(Transferee).............................................................................................................
-(Occupation)...........................................................................................................
-(Address).................................................................................................................
-for the transfer to him of Omnibus/Commercial Goods Vehicle/Aircraft/Ferry Licence No.........................issued to......................................................................
+(Transferee)..........................................................................................................
+(Occupation).........................................................................................................
+(Address)..............................................................................................................
+for the transfer to him of licence for omnibus [insert vehicle description] or Commercial Goods Vehicle/Aircraft/Ferry Licence No.........................issued to......................................................................
 (who has agreed to such transfer), the Licence is hereby transferred accordingly and henceforth the transferee shall be the licensee and, as such, shall comply in all respects with the terms and conditions of the licence.
 Issued with the authority of the Minister
 ...................................................Authorised Officer
-[Form 19 inserted in Gazette 29 Apr 1988 p. 1306; amended in Gazette 28 Feb 2003 p. 684.]
+[Form 19 inserted in Gazette 29 Apr 1988 p. 1306; amended in Gazette 28 Feb 2003 p. 684; 28 Jun 2016 p. 2689.]
 [Form 20 deleted in Gazette 30 Dec 2004 p. 6960.]
 Western Australia
 TRANSPORT CO-ORDINATION ACT 1966

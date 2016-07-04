@@ -3,9 +3,9 @@
 [Heading inserted in Gazette 14 Jul 2006 p. 2573.]
 FORM 1
 TRANSPORT CO-ORDINATION ACT 1966 — section 58A
-COUNTRY TAXI-CARS (FARES AND CHARGES) REGULATIONS 1991 - regulation 7A(2)
+TRANSPORT (COUNTRY TAXI-CARS FARES) REGULATIONS 1991 - regulation 7A(2)
 Western Australia
-Department for Planning and Infrastructure
+Department of Transport
 TAXI INFRINGEMENT NOTICE
 PART “B”This space for cash register imprint
 To be retained by Cashier.
@@ -41,7 +41,7 @@ Payment may be made —
 Clerk of Courts —
 Albany, Armadale, Broome, Bunbury, Busselton, Carnarvon, Collie, Derby, Esperance, Fremantle, Geraldton, Harvey, Kalgoorlie, Karratha, Katanning, Kununurra, Mandurah, Manjimup, Merredin, Moora, Midland, Narrogin, Northam, Pinjarra, Port Hedland, Roebourne, Rockingham and Perth — Magistrates Court, Level 2, Central Law Courts, 30 St Georges Terrace.
 A receipt will not be mailed unless requested.
-Payments will not be accepted at any Department for Planning and Infrastructure offices.
+Payments will not be accepted at any Department of Transport offices.
 Inquiries should be made in writing and forwarded by post to —
 (Insert appropriate address here)
 TAXI INFRINGEMENT NOTICE CREDIT CARD SLIP
@@ -53,12 +53,12 @@ Card Number [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 Amount [ ] [ ] [ ] [ ]
 Cardholder Name: ...............................................................................................................
 Signature: ........................................................................... Expiry Date: ......../......../........
-[Form 1 inserted in Gazette 14 Jul 2006 p. 2573-4.]
+[Form 1 inserted in Gazette 14 Jul 2006 p. 2573-4; amended in Gazette 28 Jun 2016 p. 2673.]
 FORM 2
 TRANSPORT CO-ORDINATION ACT 1966 — section 58A
-COUNTRY TAXI-CARS (FARES AND CHARGES) REGULATIONS 1991 - regulation 7A(3)
+TRANSPORT (COUNTRY TAXI-CARS FARES) REGULATIONS 1991 - regulation 7A(3)
 Western Australia
-Department for Planning and Infrastructure
+Department of Transport
 NOTICE OF WITHDRAWAL OF INFRINGEMENT NOTICE
 Serial No. ...................
 Name
@@ -72,4 +72,4 @@ Code
 Description
 Take notice that I, being authorised to do so, hereby withdraw proceedings under the Transport Co-ordination Act 1966 in relation to the infringement notice issued for the above offence.
 Director GeneralDate
-[Form 2 inserted in Gazette 14 Jul 2006 p. 2574-5.]
+[Form 2 inserted in Gazette 14 Jul 2006 p. 2574-5; amended in Gazette 28 Jun 2016 p. 2673.]

@@ -15,10 +15,10 @@ Item | Section of Act or Regulation | Description of offence | Modified penalty
 11 | r. 26B | Refusing to transport a guide dog that is accompanying a passenger who is visually or hearing impaired | $50
 12 | r. 27 | Driver failing to drive by shortest practicable route | $50
 13 | r. 27A | Driver failing to display approved identification card in manner directed by Director General | $50
-14 | r. 35 | Operator of taxi-car failing to cause taximeter to be regulated to record fares and charges prescribed by Country Taxi-cars (Fares and Charges) Regulations 1991 or to submit the vehicle for inspection, testing and sealing | $50
+14 | r. 35 | Operator of taxi-car failing to cause taximeter to be regulated to record components of Schedule 1 fares as defined in Transport (Country Taxi-cars Fares) Regulations 1991 or to submit the vehicle for inspection, testing and sealing | $50
 15 | r. 36(ba) | Owner of taxi-car removing taximeter for more than 10 days without approval of Director General | $50
 16 | r. 36(d) | Owner of taxi-car making or permitting alteration to taxi-car that would affect correct operation of taximeter | $50
 17 | r. 38 | Operator of taxi-car manipulating taximeter in manner likely to defraud | $50
-18 | r. 39 | Driver setting taximeter in operation otherwise than when permitted by r. 39 | $50
+18 | r. 39(3) and (4) | Offences relating to setting, stopping or pausing taximeter | $50
 19 | r. 41(2) | Owner or operator of taxi-car failing to comply with terms of notice received under r. 41(1) or rectify defect found during inspection | $50
-[Schedule 2 inserted in Gazette 14 Jul 2006 p. 2578-9.]
+[Schedule 2 inserted in Gazette 14 Jul 2006 p. 2578-9; amended in Gazette 28 Jun 2016 p. 2692.]
