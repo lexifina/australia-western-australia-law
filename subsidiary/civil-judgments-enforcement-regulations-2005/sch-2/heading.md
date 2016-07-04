@@ -1,30 +1,30 @@
 ## Schedule 2 — Sheriff’s fees
 [r. 105]
 Item | Action | Fee $
-1. | (a)Service of any process when personal service is not required under the Act | 44.90
- | (b)Service of any process when personal service is required under the Act | 63.50
- | (c)Service by post, including postage | 31.00
+1. | (a)Service of any process when personal service is not required under the Act | 49.90
+ | (b)Service of any process when personal service is required under the Act | 70.50
+ | (c)Service by post, including postage | 34.40
  | Note 1: The fee under paragraphs (a) and (b) is payable whether or not the service is successful and covers up to 3 attempts at service at the same address. Note 2: The fee is not payable in respect of any process that is served in conjunction with any process requiring attendance at a court by the party to be served.
  | Note 3: The fee includes the completion of any certificate of the service.
-2. | For enforcing a judgment by means of a property (seizure and sale) order . | 144.00
+2. | For enforcing a judgment by means of a property (seizure and sale) order . | 160.00
  | Note 1: The fee is payable whether or not the Sheriff’s functions under the order are performed and covers up to 3 attempts to perform the functions at the same address. Note 2: The fee includes — (a)receipt of the order; and (b)attendances and inquiries before attempting seizure; and (c)service of any notice required before seizure; and (d)seizure and preparing an inventory of any personal property seized; and (e)granting walking possession; and (f)making a report to the creditor.
-3. | For enforcing a judgment by means of a property (seizure and delivery) order | 115.00
+3. | For enforcing a judgment by means of a property (seizure and delivery) order | 128.00
  | Note 1: The fee is payable whether or not the Sheriff’s functions under the order are performed and covers up to 3 attempts to perform the functions at the same address.
  | Note 2: The fee includes — (a)receipt of the order; and (b)attendances and inquiries before attempting seizure and delivery; and (c)an appointment to deliver property; and (d)removal of a person from land; and (e)supervision of lock and security changes to premises; and (f)securing seized property; and (g)delivering seized property to the person entitled to it in accordance with the order; and (h)making a report to the person entitled to the benefit of the order.
-4. | Inspection of personal property under seizure | 61.00
+4. | Inspection of personal property under seizure | 68.00
  | Note 1: If the Sheriff has several enforcement orders, one fee is payable for the first enforcement order in priority.
-5. | For possession of personal property under seizure per day | 6.65
+5. | For possession of personal property under seizure per day | 7.40
  | Note 1: Payable for actual possession of personal property seized.
  | Note 2: The fee is payable for a maximum of 10 days.
  | Note 3: If this fee is paid, a fee is not payable under item 16(d).
 6. | If travel is necessary to perform a function under an enforcement order, to serve a process or document, to make an arrest under a warrant or for an attempt, attendance or inspection from the Sheriff’s or a bailiff’s office —
- | (a)for each kilometre travelled (one way) in the metropolitan area | 1.60
- | (b)for each kilometre travelled (one way) outside the metropolitan area | 1.80
+ | (a)for each kilometre travelled (one way) in the metropolitan area | 1.80
+ | (b)for each kilometre travelled (one way) outside the metropolitan area | 2.00
  | Note 1: If more than one of the actions referred to in item 6 is done in relation to the same person or on different persons at the same address, only one fee for kilometres travelled is to be charged.
  | Note 2: The Sheriff may allow an enforcement officer an additional fee for travel to meet or partially offset any additional expenses arising from special and unusual circumstances.
-7. | Preparation for the sale of real or personal property | 606.00
+7. | Preparation for the sale of real or personal property | 673.00
  | Note 1: The fee includes — (a)REVS and other official records searches; and (b)bill of sale or encumbrance searches or investigation; and (c)carrying out an advertising program; and (d)preparing particulars and conditions of sale.
-8. | Attendance at sale | 96.50
+8. | Attendance at sale | 107.00
  | Note 1: The fee includes — (a)conducting a sale; and (b)cancelling a sale.
 9. | Commission for enforcing a judgment by means of a property (seizure and sale) order or for money recovered by the Sheriff or judgment creditor after seizure under the order —
  | (a)For amounts up to and including $13 500, a fee at the rate of | 5.00%
@@ -40,18 +40,18 @@ Item | Action | Fee $
  | Real property, assessed on the annual rental value of the property delivered —
  | (a)For amounts up to and including $13 500, a fee at the rate of | 5.00%
  | (b)For the balance over $13 500, a fee at the rate of | 2.50%
- | Note 1: If real property is delivered in accordance with a property (seizure and delivery) order made by the Magistrates Court, the maximum amount payable under this item is $316.
+ | Note 1: If real property is delivered in accordance with a property (seizure and delivery) order made by the Magistrates Court, the maximum amount payable under this item is $351.
 11. | On the execution of an arrest warrant of any kind —
- | (a)for preparing to arrest, and arresting, the person | 115.00
- | (b)for conveying the person from the place of arrest to appear before a judicial officer in a court, or to a custodial place, and releasing the person from arrest or custody | 115.00
- | (c)for each 30 minutes after 2 hours and 30 minutes that an enforcement officer is required to keep the person in custody until he or she is conveyed to a court or a custodial place | 30.50
+ | (a)for preparing to arrest, and arresting, the person | 128.00
+ | (b)for conveying the person from the place of arrest to appear before a judicial officer in a court, or to a custodial place, and releasing the person from arrest or custody | 128.00
+ | (c)for each 30 minutes after 2 hours and 30 minutes that an enforcement officer is required to keep the person in custody until he or she is conveyed to a court or a custodial place | 33.90
  | Note 1: The fee under paragraph (a) is payable whether or not the Sheriff’s functions under the warrant are performed and includes up to 3 attempts to perform the functions at the same address.
  | Note 2: The fee under paragraph (a) includes — (a)receipt of the warrant; and (b)attendances and inquiries before attempting arrest; and (c)giving any notice; and (d)making any report.
  | Note 3: The fee under paragraph (b) is payable whether or not the place of arrest is the court building or custodial place and whether or not the person is conveyed to a court or a custodial place in a vehicle
 12. | For each half hour or part of a half hour that it is necessary for an enforcement officer to engage an assistant to perform a function —
  | (a)in relation to the execution of an arrest warrant; or
  | (b)in accordance with a property (seizure and delivery) order; or
- | (c)in accordance with a property (seizure and sale) order | 30.50
+ | (c)in accordance with a property (seizure and sale) order | 33.90
 13. | If an enforcement officer is necessarily put to and incurs extra trouble and expense in the discharge of a function incidental to his or her office, employment or engagement or for the performance of a function not otherwise provided for in this Schedule. | A sum or additional sum that the Sheriff may reasonably allow.
 14. | For auctioneer’s or agent’s commission, advertising and sundry expenses on account of sale by auction or otherwise of real or personal property, whether or not the sale takes place. | A fee fixed in accordance with a recognised scale of charges for auctioneers or agents in the State or such other fee as the Sheriff may reasonably allow.
 15. | If a sale of real or personal property takes place by auction or private contract or if no sale takes place —
@@ -60,8 +60,8 @@ Item | Action | Fee $
 (c)For clerical assistance when necessary; (d)For storing personal property which has been seized and insuring the property for loss due to fire, theft or damage and, in the case of a motor vehicle, for accident and third party risk;
 (e)For removal or cartage expenses; (f)For agistment, costs of care and feed and other necessary costs in respect of animals or livestock under seizure, whether or not they are removed.
 17. | If GST (as defined in section 195-1 of the A New Tax System (Goods and Services Tax) Act 1999 of the Commonwealth) is payable on a service listed in this Schedule of fees, the fee for the service is the applicable fee in this Schedule, increased by 10%.
-18. | Issue of a duplicate of an enforcement order or a document | 14.50
+18. | Issue of a duplicate of an enforcement order or a document | 16.10
 19. | Copies of documents —
- | (a)Copies of enforcement orders, for each page | 1.50
- | (b)For certifying that a document is a true copy, an additional fee of | 17.65
-[Schedule 2 amended in Gazette 23 Jun 2006 p. 2176-7; 26 Jun 2007 p. 3038-9; 27 Jun 2008 p. 3074; 23 Dec 2008 p. 5471; 4 Sep 2009 p. 3486-7; 27 Nov 2009 p. 4786; 8 Mar 2011 p. 797; 20 Dec 2011 p. 5394-5; 30 Nov 2012 p. 5798-9; 15 Nov 2013 p. 5254-5; 27 Jun 2014 p. 2335-6; 10 Apr 2015 p. 1254-5; 19 Jun 2015 p. 2116-17.]
+ | (a)Copies of enforcement orders, for each page | 1.65
+ | (b)For certifying that a document is a true copy, an additional fee of | 19.50
+[Schedule 2 amended in Gazette 23 Jun 2006 p. 2176-7; 26 Jun 2007 p. 3038-9; 27 Jun 2008 p. 3074; 23 Dec 2008 p. 5471; 4 Sep 2009 p. 3486-7; 27 Nov 2009 p. 4786; 8 Mar 2011 p. 797; 20 Dec 2011 p. 5394-5; 30 Nov 2012 p. 5798-9; 15 Nov 2013 p. 5254-5; 27 Jun 2014 p. 2335-6; 10 Apr 2015 p. 1254-5; 19 Jun 2015 p. 2116-17; 14 Jun 2016 p. 1869-70.]

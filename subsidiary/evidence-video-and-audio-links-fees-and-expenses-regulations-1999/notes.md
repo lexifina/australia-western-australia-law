@@ -19,18 +19,4 @@ Evidence (Video and Audio Links Fees and Expenses) Amendment Regulations 2013 | 
 Reprint 3: The Evidence (Video and Audio Links Fees and Expenses) Regulations 1999 as at 14 Feb 2014 (includes amendments listed above)
 Evidence (Video and Audio Links Fees and Expenses) Amendment Regulations 2014 | 27 Jun 2014 p. 2341 | r. 1 and 2: 27 Jun 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2014 (see r. 2(b)(i))
 Evidence (Video and Audio Links Fees and Expenses) Amendment Regulations 2015 | 19 Jun 2015 p. 2122-3 | r. 1 and 2: 19 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(i))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
 Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 6 | 14 Jun 2016 p. 1849-986 | 4 Jul 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, the Attorney General Regulations Amendment (Fees) Regulations 2016 Pt. 6 had not come into operation. It reads as follows:
-Part 6 — Evidence (Video and Audio Links Fees and Expenses) Regulations 1999 amended
-30.Regulations amended
-This Part amends the Evidence (Video and Audio Links Fees and Expenses) Regulations 1999.
-31.Schedule 1 amended
-Amend the provisions listed in the Table as set out in the Table.
-Table
-Provision | Delete | Insert
-Sch. 1 it. 1(a) | $97.00 | $108.00
-Sch. 1 it. 1(b) | $144.50 | $160.50
-Sch. 1 it. 2 | $76.00 | $84.50
