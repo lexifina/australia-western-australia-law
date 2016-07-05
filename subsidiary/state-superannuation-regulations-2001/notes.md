@@ -56,6 +56,10 @@ State Superannuation Amendment Regulations (No. 2) 2015 | 19 Jun 2015 p. 2141 | 
 State Superannuation Amendment Regulations 2015 | 26 Jun 2015 p. 2273 | r. 1 and 2: 26 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2015 (see r. 2(b)(ii) and Gazette 26 Jun 2015 p. 2235)
 Reprint 6: The State Superannuation Regulations 2001 as at 8 Jan 2016 (includes amendments listed above)
 State Superannuation Amendment Regulations (No. 4) 2016 | 1 Jul 2016 p. 2750 | r. 1 and 2: 1 Jul 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b) and Gazette 24 Jun 2016 p. 2291)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Citation | Gazettal | Commencement
+State Superannuation Amendment Regulations 2016 r. 3-5 | 5 Jul 2016 p. 2817-19 | 19 Jul 2016 (see r. 2(b))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26, and those provisions may be amended by regulations under s. 26(3). Part 9 of these regulations sets out amendments to those provisions. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed at the following website: www.slp.wa.gov.au.
 Formerly referred to the Workers’ Compensation and Rehabilitation Commission constituted under the Workers’ Compensation and Rehabilitation Act 1981. The name of the Commission was changed to WorkCover Western Australia Authority and the short title of the Act was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5 and 81. The references were changed under the Reprints Act 1984 s. 7(3)(gb) and (h).
 Repealed by the State Superannuation Act 2000 s. 39.
@@ -73,6 +77,26 @@ is taken to have become a statutory Member when he or she ceased to be so exclud
 The State Superannuation Amendment Regulations (No. 4) 2008 had not come into operation when it was deleted by the State Superannuation Amendment Regulations 2009 Pt. 3.
 The State Superannuation Amendment Regulations 2006 r. 20(2) reads as follows:
 (2) If a preserved benefit of less than $200 has not been paid because of the operation of regulation 76(4) (as in force before this regulation came into operation), the benefit ceases to be a preserved benefit when this regulation comes into operation even if, at that time, the benefit plus interest on it, is or exceeds $200.
+On the date as at which this compilation was prepared, the State Superannuation Amendment Regulations 2016 r. 3-5 had not come into operation. They read as follows:
+3.Regulations amended
+These regulations amend the State Superannuation Regulations 2001.
+4.Regulation 12 amended
+(1) In regulation 12 insert in alphabetical order:
+covert allowance means a composite allowance payable to a police officer attached to a covert unit;
+(2) In regulation 12 in the definition of special allowance:
+(a) in paragraph (c) after “fixed” insert:
+or limited
+(b) in paragraph (c) after “usual” insert:
+job or be appointed to another
+(c) after paragraph (c) insert:
+(ca) a covert allowance; or
+(d) in paragraph (d)(ii) delete “Board;” and insert:
+Treasurer;
+5.Regulation 17A amended
+(1) In regulation 17A(3) delete “The remuneration” and insert:
+Subject to subregulation (3A), the remuneration
+(2) After regulation 17A(3) insert:
+(3A) If, on the day that the State Superannuation Amendment Regulations 2016 regulation 5 comes into operation, a Gold State Super Member is in receipt of a covert allowance, the Gold State Super Member’s remuneration continues to include the covert allowance for so long as the Gold State Super Member is in continuous receipt of it.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
