@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 January 2016 of the Sentencing Act 1995 and includes the amendments made by the other written laws referred to in the following table The table also contains information about any reprint.
+This is a compilation of the Sentencing Act 1995 and includes the amendments made by the other written laws referred to in the following table The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Sentencing Act 1995 | 76 of 1995 | 16 Jan 1996 | s. 1 and 2: 16 Jan 1996; Act other than s. 1, 2 and 19, and Pt. 12: 4 Nov 1996 (see s. 2 and Gazette 25 Oct 1996 p. 5632)
@@ -77,11 +77,12 @@ Criminal Law Amendment (Home Burglary and Other Offences) Act 2015 Pt. 3 | 25 of
 Sentencing Amendment Act 2015 | 32 of 2015 | 2 Nov 2015 | s. 1 and 2: 2 Nov 2015 (see s. 2(a)); Act other than s. 1 and 2: 3 Nov 2015 (see s. 2(b))
 Reprint 9: The Sentencing Act 1995 as at 8 Jan 2016 (includes amendments listed above)
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 21 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
-Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) | 11 of 2014 | 24 Jun 2014 | To be proclaimed (see s. 2(b))
+ | Short title | Number and year | Assent | Commencement
+ | Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
+ | Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) | 11 of 2014 | 24 Jun 2014 | To be proclaimed (see s. 2(b))
+Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 7 | 17 of 2016 | 11 Jul 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The Land Drainage Act 1925 and the Water Boards Act 1904 were repealed by the Water Services Legislation Amendment and Repeal Act 2012.
 The amendments in the Sentencing Amendment Act 2000 Pt. 2 Div. 1 had not come into operation when it was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 32.
@@ -205,7 +206,7 @@ The amendments in the Sentencing Legislation Amendment Act 2004 s. 6(4) erroneou
 The Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 59, which purported to replace s. 84E, could not be included because s. 84E was not in operation when s. 59 came into operation. Section 59 was subsequently deleted by the Parole and Sentencing Legislation Amendment Act 2006 s. 74(2).
 The amendments in the Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 65 that purported to amend s. 84P(3) could not be included because s. 84P(3) was not in operation when s. 65 came into operation. Those amendments were subsequently deleted by the Parole and Sentencing Legislation Amendment Act 2006 s. 75(2).
 The Parole and Sentencing Legislation Amendment Act 2006 s. 74(2) and 75(2) commenced 22 Sep 2006.
-On the date as at which this reprint was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 had not come into operation. They read as follows:
 Part 3 — Amendments to other Acts
 Division 18 — Sentencing Act 1995 amended
 124.Section 14 amended
@@ -218,10 +219,23 @@ Delete section 38(2) and insert:
 (2) The review —
 (a) is to be based on an examination, in the absence of the parties, of the court documents relevant to the offence (whether the original documents or copies, or some other form of the documents prescribed by the regulations or rules of court); and
 (b) is not to involve a hearing.
-On the date as at which this reprint was prepared, the Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) had not come into operation. It reads as follows:
+On the date as at which this compilation was prepared, the Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) had not come into operation. It reads as follows:
 8.Schedule 1A amended
 (2) In Schedule 1A Part 2 item 1 delete “s. 428” and insert:
 s. 417
+On the date as at which this compilation was prepared, the Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 7 had not come into operation. It reads as follows:
+Part 7 — Sentencing Act 1995 amended
+53.Act amended
+This Part amends the Sentencing Act 1995.
+54.Section 8 amended
+After section 8(1) insert:
+(2) The possibility that an order might be made in respect of the offender under the Dangerous Sexual Offenders Act 2006 is not a mitigating factor.
+55.Section 98 amended
+In section 98(3):
+(a) delete “is a danger” and insert:
+would be a danger
+(b) before paragraph (a) insert:
+(aa) is not to decide that the offender would not be a danger merely because of the possibility that an order might be made in respect of the offender under the Dangerous Sexual Offenders Act 2006; and
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
