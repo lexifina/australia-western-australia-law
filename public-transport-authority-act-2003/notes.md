@@ -10,9 +10,33 @@ Public Transport Authority Amendment Act 2008 | 42 of 2008 | 3 Jul 2008 | s. 1 a
 Reprint 1: The Public Transport Authority Act 2003 as at 3 Apr 2009 (includes amendments listed above)
 Rail Safety Act 2010 Pt. 11 Div. 3 | 18 of 2010 | 28 Jun 2010 | 1 Feb 2011 (see s. 2(b) and Gazette 28 Jan 2011 p. 241)
 Rail Safety National Law (WA) Act 2015 Pt. 5 | 21 of 2015 | 17 Sep 2015 | 2 Nov 2015 (see s. 2(b) and Gazette 16 Oct 2015 p. 4149)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Graffiti Vandalism Act 2016 Pt. 5 | 16 of 2016 | 11 Jul 2016 | To be proclaimed (see s. 2(b))
 The provisions in the Public Transport Authority Act 2003 amending or repealing these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Footnote no longer applicable.
 The Government Railways Act 1904 s. 43(5) was redesignated as s. 43(e) on 11 Sep 2010 by the Standardisation of Formatting Act 2010 s. 60.
+On the date as at which this compilation was prepared, the Graffiti Vandalism Act 2016 Pt. 5 had not come into operation. It reads as follows:
+Part 5 — Public Transport Authority Act 2003 amended
+33.Act amended
+This Part amends the Public Transport Authority Act 2003.
+34.Section 58 amended
+(1) In section 58(1) delete “it appears to a security officer or a member of the Police Force that the offence referred to in that subsection would be likely to continue or be repeated if the offender is not apprehended,” and insert:
+a security officer or a member of the Police Force witnesses an offender committing an offence referred to in that subsection, or reasonably suspects that an offence referred to in that subsection has been committed by an offender,
+(2) In section 58(2):
+(a) in paragraph (c) delete “property.” and insert:
+property; or
+(b) after paragraph (c) insert:
+(d) an offence under the Graffiti Vandalism Act 2016 section 5 committed in relation to Authority property, a conveyance or a facility.
+(3) In section 58(2) after paragraph (a) insert:
+or
+35.Section 64A amended
+In section 64A(3):
+(a) in paragraph (b) after “section 444” insert:
+or 445
+(b) after paragraph (c) insert:
+(da) an offence under the Graffiti Vandalism Act 2016 section 5 committed in relation to Authority property, a conveyance or a facility;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
