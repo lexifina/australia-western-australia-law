@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 3 June 2016 of The Criminal Code and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of The Criminal Code and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Code Act Compilation Act 1913 | 28 of 1913 (4 Geo. V No. 28) | 30 Dec 1913 | 1 Jan 1914 (see s. 1)
@@ -182,6 +182,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+Graffiti Vandalism Act 2016 Pt. 6 Div. 1 | 16 of 2016 | 11 Jul 2016 | To be proclaimed (see s. 2(b))
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 See Firearms Regulations 1974 r. 2B.
@@ -219,6 +220,17 @@ On the date as at which this reprint was prepared, the Prostitution Amendment Ac
 (3) Section 191 is repealed.
 (4) Section 557K(1) paragraph (h) of the definition of child sex offender is amended by deleting “Prostitution Act 2000” and inserting instead —
 “ Sexual Services Act 2000 ”.
+On the date as at which this compilation was prepared, the Graffiti Vandalism Act 2016 Pt. 6 Div. 1 had not come into operation. It reads as follows:
+Part 6 — Consequential amendments
+Division 1 — The Criminal Code amended
+36.Act amended
+This Division amends The Criminal Code.
+37.Part IV Chapter XXIV deleted
+Delete Part IV Chapter XXIV.
+38.Section 446 deleted
+Delete section 446.
+39.Section 557G deleted
+Delete section 557G.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
