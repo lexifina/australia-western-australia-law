@@ -59,6 +59,8 @@ Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Liquor Legislation Amendment Act 2015 Pt. 3 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
+Graffiti Vandalism Act 2016 Pt. 6 Div.3 | 16 of 2016 | 11 Jul 2016 | To be proclaimed (see s. 2(b))
+Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 8 | 17 of 2016 | 11 Jul 2016 | To be proclaimed (see s. 2(b))
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Formerly referred to the Workers’ Compensation and Rehabilitation Act 1981 the short title of which was changed to the Workers’ Compensation and Injury Management Act 1981 by the Workers’ Compensation Reform Act 2004 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Criminal Code s. 666 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
@@ -129,6 +131,25 @@ In section 25(3) in the definition of infringement notice:
 IIIA; or
 (b) after paragraph (b) insert:
 (c)an alcohol intervention requirement given under the Liquor Control Act 1988 Part 7A.
+On the date as at which this compilation was prepared, the Graffiti Vandalism Act 2016 Pt. 6 Div. 3 had not come into operation. It reads as follows:
+Part 6 — Consequential amendments
+Division 3 — Young Offenders Act 1994 amended
+43.Act amended
+This Division amends the Young Offenders Act 1994.
+44.Section 46 amended
+In section 46(5a) before “but” insert:
+and sections 5 and 10 of the Graffiti Vandalism Act 2016
+On the date as at which this compilation was prepared, the Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 8 had not come into operation. It reads as follows:
+Part 8 — Young Offenders Act 1994 amended
+56.Act amended
+This Part amends the Young Offenders Act 1994.
+57.Section 189 amended
+Delete section 189(7)(c) and insert:
+(c) a court having regard to a conviction for the purposes of the Dangerous Sexual Offenders Act 2006 section 7(3); or
+(d) the making of a record of anything that paragraph (a), (b) or (c) allows.
+58.Section 190 amended
+After section 190(1) insert:
+(2A) This section does not prevent evidence of a conviction being received in proceedings under the Dangerous Sexual Offenders Act 2006.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
