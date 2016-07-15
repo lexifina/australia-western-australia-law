@@ -5,4 +5,4 @@ An Act —
 ·to make provisions to enable land on Barrow Island (but no more than 332 ha in total of uncleared land) to be used, under the Land Administration Act 1997, for gas processing project purposes;
 ·to make provisions as to the conveyance and underground disposal of carbon dioxide recovered during gas processing on Barrow Island,
 and for incidental purposes.
-[Long title amended by No. 24 of 2013 s. 4.]
+[Long title amended: No. 24 of 2013 s. 4.]
