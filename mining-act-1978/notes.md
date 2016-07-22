@@ -79,6 +79,7 @@ Mining Amendment Act 2012 | 51 of 2012 | 29 Nov 2012 | s. 1 and 2: 29 Nov 2012 (
 Statutes (Repeals and Minor Amendments) Act 2014 s. 29 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Alumina Refinery (Mitchell Plateau) Agreement (Termination) Act 2015 Pt. 3 | 31 of 2015 | 2 Nov 2015 | 3 Nov 2015 (see s. 2(b))
 Conservation and Land Management Amendment Act 2015 s. 77 | 28 of 2015 | 19 Oct 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
+Mining (Transitional Provisions) (Anomalies Prevention) Order 2016 published in Gazette 22 Jul 2016 p. 3134 | 22 Jul 2016 (see cl. 2)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
