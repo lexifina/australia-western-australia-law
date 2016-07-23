@@ -1,10 +1,11 @@
 Notes
-This is a compilation of the Mental Health Regulations 2015. The following table contains information about those regulations.
+This is a compilation of the Mental Health Regulations 2015 and includes the amendments made by the other written laws referred to in the following table.
 Compilation table
 Citation | Gazettal | Commencement
 Mental Health Regulations 2015 | 13 Nov 2015 p. 4675-90 | 30 Nov 2015 (see r. 2 and Gazette 13 Nov 2015 p. 4632)
 Mental Health Amendment Regulations 2015 | 27 Nov 2015 p. 4755 | 30 Nov 2015 (see r. 2 and Gazette 13 Nov 2015 p. 4632)
 Mental Health Amendment Regulations 2016 | 24 Jun 2016 p. 2310 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b) and Gazette 24 Jun 2016 p. 2291)
+Mental Health Amendment Regulations (No. 2) 2016 | 22 Jul 2016 p. 3133 | r. 1 and 2: 22 Jul 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jul 2016 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
