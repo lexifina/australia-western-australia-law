@@ -1,11 +1,39 @@
 Notes
-This is a reprint as at 17 January 2014 of the Water Services Act 2012. The following table contains information about that Act and any reprint.
+This is a compilation of the Water Services Act 2012. The following table contains information about that Act and any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Water Services Act 2012 | 24 of 2012 | 3 Sep 2012 | s. 1 and 2: 3 Sep 2012 (see s. 2(a)); Act other than s. 1, 2, 68 and Pt. 4 Div. 4: 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5027); s. 68 and Pt. 4 Div. 4: 1 Jan 2014 (see s. 2(b) and Gazette 14 Nov 2013 p. 5027)
 Reprint 1: The Water Services Act 2012 as at 17 Jan 2014
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Health (Consequential Provisions) Act 2016 s 101 and Pt. 5 Div. 27 | 19 of 2016 | 25 Jul 2016 | s. 101: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 27: to be proclaimed (see s. 2(1)(c))
 The short title of the Fire and Emergency Services Authority of Western Australia Act 1998 was changed to the Fire and Emergency Services Act 1998 by the Fire and Emergency Services Legislation Amendment Act 2012 s. 5.
 The Fire and Emergency Services Authority (FESA) was abolished by the Fire and Emergency Services Legislation Amendment Act 2012 s. 43.
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 27 had not come into operation. They read as follows:
+101.Various references to “Health Act 1911” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
+Health (Miscellaneous Provisions) Act 1911
+Table
+Water Services Act 2012 | s. 33(2), 214(1) def. of information sharing agency par. (e) and 216(2)
+Note:In the Water Services Act 2012 the heading to amended section 216 is to read:
+Relationship of this Act to Rights in Water and Irrigation Act 1914 and Health (Miscellaneous Provisions) Act 1911
+Part 5 — Other Acts amended
+Division 27 — Water Services Act 2012 amended
+338.Act amended
+This Division amends the Water Services Act 2012.
+339.Section 33 amended
+In section 33(2) delete “Health (Miscellaneous Provisions) Act 1911” and insert:
+Public Health Act 2016
+340.Section 214 amended
+In section 214(1) in the definition of information sharing agency paragraph (e) delete “Health (Miscellaneous Provisions) Act 1911;” and insert:
+Public Health Act 2016;
+341.Section 216 amended
+In section 216(2) delete “Health (Miscellaneous Provisions) Act 1911 Part IV” and insert:
+Public Health Act 2016
+Note:The heading to amended section 216 is to read:
+Relationship of this Act to Rights in Water and Irrigation Act 1914 and Public Health Act 2016
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
