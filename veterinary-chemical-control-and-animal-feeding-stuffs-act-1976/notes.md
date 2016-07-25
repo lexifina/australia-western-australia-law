@@ -28,9 +28,10 @@ Financial Legislation Amendment and Repeal Act 2006 s. 17 | 77 of 2006 | 21 Dec 
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 48 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 82 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
-Medicines and Poisons Act 2014 s. 190 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+ | Short title | Number and year | Assent | Commencement
+ | Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 82 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (s. 2(2))
+ | Medicines and Poisons Act 2014 s. 190 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 25 | 19 of 2016 | 25 Jul 2016 | s. 101: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 25: to be proclaimed (see s. 2(1)(c))
 Now known as the Veterinary Chemical Control and Animal Feeding Stuffs Act 1976; short title changed (see note under s. 1).
 The Acts Amendment (Chemistry Centre (W.A.) Act 1990 s. 13 reads as follows:
 “
@@ -50,6 +51,29 @@ On the date as at which this compilation was prepared, the Medicines and Poisons
 (1) This section amends the Veterinary Chemical Control and Animal Feeding Stuffs Act 1976.
 (2) In section 9 delete “Poisons Act 1964,” (each occurrence) and insert:
 Medicines and Poisons Act 2014,
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 25 had not come into operation. They read as follows:
+101.Various references to “Health Act 1911” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
+Health (Miscellaneous Provisions) Act 1911
+Table
+Veterinary Chemical Control and Animal Feeding Stuffs Act 1976 | s. 9
+Part 5 — Other Acts amended
+Division 25 — Veterinary Chemical Control and Animal Feeding Stuffs Act 1976 amended
+333.Act amended
+This Division amends the Veterinary Chemical Control and Animal Feeding Stuffs Act 1976.
+334.Section 9 amended
+In section 9 after “Health (Miscellaneous Provisions) Act 1911,” (each occurrence) insert:
+the Food Act 2008, the Public Health Act 2016
+335.Section 9 replaced
+Delete section 9 and insert:
+9.Act to be construed subject to certain laws
+(1) This Act is in addition to, and not in derogation of, the following —
+(a) the Health (Miscellaneous Provisions) Act 1911;
+(b) the Food Act 2008;
+(c) the Medicines and Poisons Act 2014;
+(d) the Public Health Act 2016.
+(2) If and to the extent that there is an inconsistency between this Act, or any regulations made under this Act, and any of the Acts referred to in subsection (1) or any regulations made under any of those Acts, those Acts and regulations prevail.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
