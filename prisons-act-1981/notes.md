@@ -63,6 +63,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Criminal Law Amendment (Homicide) Act 2008 s. 36(2) | 29 of 2008 | 27 Jun 2008 | To be proclaimed (see s. 2(d))
 Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 5 | 17 of 2016 | 11 Jul 2016 | To be proclaimed (see s. 2(b))
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 22 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 The Sentence Administration Act 1995 was repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 29(1).
 Repealed by the Interpretation Act 1984.
 Under the Acts Amendment (Public Service) Act 1987 s. 31(1)(f), a reference in a written law to “Permanent Head” is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to the chief executive officer.
@@ -100,6 +101,22 @@ This Part amends the Prisons Act 1981.
 50.Section 113B amended
 After section 113B(1)(a) insert:
 (ba) a person who has suffered injury, loss or damage as a direct result of a serious sexual offence (as defined in the Dangerous Sexual Offenders Act 2006 section 3(1)) committed by the prisoner, whether or not that injury, loss or damage was reasonably foreseeable by the prisoner; or
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 22 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 22 — Prisons Act 1981 amended
+180.Act amended
+This Division amends the Prisons Act 1981.
+181.Section 95C amended
+(1) Delete section 95C(1) and insert:
+(1) In this section —
+Chief Health Officer has the meaning given in the Public Health Act 2016 section 4(1).
+(2) In section 95C(2) delete “ED, PH” and insert:
+Chief Health Officer
+(3) In section 95C(3):
+(a) delete “ED, PH” and insert:
+Chief Health Officer
+(b) delete “ED, PH,” and insert:
+Chief Health Officer,
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -110,12 +127,13 @@ appellant99
 cessation declaration114(5)
 Chief Commissioner99
 chief executive officer3(1)
-commencement day110K(1), 119(1)
+commencement day 110K(1)
+commencement day119(1)
 Commission114(12)
 contract3(1)
 contract worker15A
 contractor3(1), 113(1)
-decision notice99, 102(3)(b)
+decision notice99, 102(3)
 Department3(1)
 District Court judge3(1)
 drugs search49A(1)
@@ -124,13 +142,13 @@ external facility23(1)
 Family Court judge3(1)
 former disciplinary provisions119(1)
 function15A
-gaolSch. 2 cl. 14
+gaolSch. 2
 hearing officer74A(1)
 high-level security work3(1)
 independent prison visitor3(1)
 industrial commissioner99
 intervene15A
-jailSch. 2 cl. 14
+jailSch. 2
 judge of the Supreme Court3(1)
 judicial body3(1)
 lock-up3(1)
@@ -146,7 +164,7 @@ penalty119(1)
 perform15A
 permit3(1)
 person67A(4)
-prison3(1), Sch. 2 cl. 14
+prison3(1), Sch. 2
 prison dog49A(1)
 prison offence3(1)
 prison officer3(1), 96, 99, 114(12)
