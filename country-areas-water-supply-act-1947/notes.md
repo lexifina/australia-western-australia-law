@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 24 January 2014 of the Country Areas Water Supply Act 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Country Areas Water Supply Act 1947 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Country Areas Water Supply Act 1947 | 62 of 1947 (11 and 12 Geo. VI No. 62) | 10 Jan 1948 | 1 Jan 1949 (see s. 1 and Gazette 24 Dec 1948 p. 3038-9)
@@ -67,6 +67,10 @@ Statutes (Repeals and Minor Amendments) Act 2009 s. 17 | 46 of 2009 | 3 Dec 2009
  | Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 2 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
  | Water Services Legislation Amendment and Repeal Act 2012 Pt. 2 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
  | Reprint 10: The Country Areas Water Supply Act 1947 as at 24 Jan 2014 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 3 | 19 of 2016 | 25 Jul 2016 | s. 101: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 3: to be proclaimed (see s. 2(1)(c))
 The provision in this Act repealing that Act has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Formerly referred to the Water Authority Act 1984, the short title of which was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995 s. 7. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Water Resources Legislation Amendment Act 2007.
@@ -80,6 +84,24 @@ The Sentencing (Consequential Provisions) Act 1995 Pt. 16 is not included becaus
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The State Administrative Tribunal Regulations 2004 r. 43 contains provisions which may be relevant for this Act.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 s. 454 provides general transitional provisions concerning references to chief executive officers that are amended or deleted by that Act.
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 3 had not come into operation. They read as follows:
+101.Various references to “Health Act 1911” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
+Health (Miscellaneous Provisions) Act 1911
+Table
+Country Areas Water Supply Act 1947 | s. 12
+Part 5 — Other Acts amended
+Division 3 — Country Areas Water Supply Act 1947 amended
+282.Act amended
+This Division amends the Country Areas Water Supply Act 1947.
+283.Section 12 replaced
+Delete section 12 and insert:
+12.Pollution of water
+A person must not —
+(a) pollute any water within or under a water reserve or catchment area; or
+(b) allow or permit any water within or under a water reserve or catchment area to become polluted.
+Penalty: a fine of $10 000 and imprisonment for one year.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
