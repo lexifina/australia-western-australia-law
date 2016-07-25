@@ -56,6 +56,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 Pt. 11 Div. 3 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 16 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
 The Misuse of Drugs Amendment Act 1995 s. 16 is a transitional provision that is of no further effect.
 The Criminal Property Confiscation (Consequential Provisions) Act 2000 s. 3 and 6-11 are savings and transitional provisions.
@@ -218,6 +219,43 @@ Schedule II — Plants to which this Act applies
 102. | NORCODEINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 2.0
 (7) In Schedule V delete item 125 and insert:
 125. | PHOLCODINE (except when a Schedule 2 or 4 poison as defined in the Medicines and Poisons Act 2014) | 5.0
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 16 had not come into operation. They read as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 1 — Amendments resulting from renaming of Health Act 1911
+101.Various references to “Health Act 1911” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
+Health (Miscellaneous Provisions) Act 1911
+Table
+Misuse of Drugs Act 1981 | s. 3(1) def. of analyst
+Part 5 — Other Acts amended
+Division 16 — Misuse of Drugs Act 1981 amended
+311.Act amended
+This Division amends the Misuse of Drugs Act 1981.
+312.Section 3 amended
+In section 3(1) delete the definition of analyst and insert:
+analyst means a person who —
+(a)holds a science degree in, or to a major extent in, chemistry awarded by —
+(i)a university in Australia; or
+(ii)a prescribed university;
+and
+(b)has had not less than 2 years’ practical experience in the chemical analysis of drugs;
+313.Section 38D amended
+(1) Delete section 38D(1) and insert:
+(1) In this section —
+CEO (Health) has the meaning given to CEO by the Health Legislation Administration Act 1984 section 3;
+Chief Health Officer has the meaning given in the Public Health Act 2016 section 4(1);
+needle and syringe programme means a needle and syringe programme (as defined in the Public Health Act 2016 section 4(1)) approved under that Act.
+(2) After section 38D(2) insert:
+(3) In any proceedings under this Act, production of a certificate purporting to be signed by the Chief Health Officer and stating that on any date or during any period a specified needle and syringe programme was approved under the Public Health Act 2016 is, without proof of the signature of the Chief Health Officer, sufficient evidence of the facts stated in the certificate.
+Note:The heading to amended section 38D is to read:
+Evidence of contents of standard and approval
+314.Part VII Division 3 inserted
+After Part VII Division 2 insert:
+Division 3 — Provisions for Public Health (Consequential Provisions) Act 2016
+49.Transitional provision for registered analysts
+(1) Despite the replacement, by the Public Health (Consequential Provisions) Act 2016 section 312 (section 312), of the definition of analyst in section 3(1), any person who, immediately before section 312 comes into operation, is an approved analyst under a declaration made under section 3A continues to be an approved analyst under and subject to section 3A.
+(2) A thing done or omitted to be done under this Act by, to or in relation to an analyst (as defined in section 3(1) as in force immediately before section 312 comes into operation) has the same effect on and after the day on which section 312 comes into operation, to the extent that it has any force or significance on or after that day, as if the thing had been done or omitted by, to or in relation to an analyst as defined in section 3(1) after section 312 comes into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
