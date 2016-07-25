@@ -57,6 +57,10 @@ Spent Convictions (Act Amendment) Regulations 2014 published in Gazette 6 Mar 20
 Alcohol and Drug Authority Amendment Act 2015 s. 18 | 3 of 2015 | 25 Feb 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 10 Apr 2015 p. 1249)
 Reprint 7: The Spent Convictions Act 1988 as at 23 Oct 2015 (includes amendments listed above)
 Health Services Act 2016 s. 303 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 26 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
 The Child Welfare Act 1947 was repealed by the Children and Community Services Act 2004 s. 250(1)(a).
@@ -64,6 +68,14 @@ Repealed by the Sentencing Legislation Amendment and Repeal Act 2003 s. 29(1).
 Under the Alteration of Statutory Designations Order 2007 a reference in any law to the Department for Community Development is, unless the contrary is intended, to be read and construed as a reference to the Department for Child Protection.
 The Children and Community Services Act 2004 Sch. 2 cl. 25 had not come into operation when it was deleted by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 32(4).
 The Machinery of Government (Miscellaneous Amendment) Act 2006 Pt. 3 Div. 5 had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2011 s. 23(4).
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 26 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 26 — Spent Convictions Act 1988 amended
+189.Act amended
+This Division amends the Spent Convictions Act 1988.
+190.Schedule 3 amended
+In Schedule 3 clause 1(7) in the Table delete item 1(a) and insert:
+(a)the Health (Miscellaneous Provisions) Act 1911;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
