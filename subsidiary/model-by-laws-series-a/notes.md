@@ -23,14 +23,22 @@ Erratum | 29 Aug 1963 p.2557
 Erratum | 11 Jan 1974 p.60
  | 22 Mar 1974 p.931
  | 24 May 1974 p.1612
- | 29 Mar 1985 p.1108
+Model By-laws Series "A" Amendment 1985 | 29 Mar 1985 p.1108 | 29 Mar 1985
 Model By-laws — Series “A” Amendment By-laws 1994 | 25 Nov 1994 pp.5924-42 | 25 Nov 1994
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Health (Consequential Provisions) Act 2016 s. 205(f) | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Now Health Act 1911
 Now Factories and Shops Act 1963
 Effective on and after 1 January 1969
 i.e. s.335 of the Act as reprinted pursuant to the Amendments Incorporation Act 1938, and incorporating the amendments to and including No. 21 of 1944. This section has since been renumbered as s.344 in the reprint of the Act contained in Vol. 3 of the Reprinted Acts (1950).
 i.e. s.241 of the reprint of the Act contained in the Appendix to the Sessional Volume of Statutes for the year 1931. See now s.285 of the reprint of the Act contained in Vol. 3 of the Reprinted Acts (1950).
 See also Private Hospitals Regulations: Gazette 9 February 1945 pp.172-5.]
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 s. 205(f) had not come into operation. It reads as follows:
+205.Subsidiary legislation repealed
+This subsidiary legislation is repealed:
+(f) the Model By-laws Series “A”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
