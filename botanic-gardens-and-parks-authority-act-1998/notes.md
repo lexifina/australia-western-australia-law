@@ -13,9 +13,32 @@ Financial Legislation Amendment and Repeal Act 2006 s. 4, 5(1) and Sch. 1 cl. 16
 Reprint 2: The Botanic Gardens and Parks Authority Act 1998 as at 6 Aug 2010 (includes amendments listed above)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 3 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
-City of Perth Act 2016 Pt. 4 Div 2 | 2 of 2016 | 3 Mar 2016 | 4 Mar 2016 (see s. 2(b))
+City of Perth Act 2016 Pt. 4 Div. 2 | 2 of 2016 | 3 Mar 2016 | 4 Mar 2016 (see s. 2(b))
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 6 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 The provision in this Act consequentially amending other Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 Under the Financial Management (Transitional Provisions) Act 2006 s. 19 a reference in a written law or other document or instrument to the Financial Administration and Audit Act 1985 may, where the context so requires, be read as if it had been amended to be a reference to the Financial Management Act 2006 or to the Auditor General Act 2006, or to both those Acts, as the case requires.
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 6 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 6 — Botanic Gardens and Parks Authority Act 1998 amended
+111.Act amended
+This Division amends the Botanic Gardens and Parks Authority Act 1998.
+112.Section 44A amended
+Delete section 44A(1) and insert:
+(1) In this section —
+Chief Health Officer has the meaning given in the Public Health Act 2016 section 4(1);
+public health has the meaning given in the Public Health Act 2016 section 4(1).
+Note:The heading to amended section 44A is to read:
+Chief Health Officer responsible for public health matters
+113.Various references to Executive Director amended
+In the provisions listed in the Table delete “Executive Director, Public Health” (each occurrence) and insert:
+Chief Health Officer
+Table
+s. 44A(2) | s. 44A(3)
+s. 44A(4)(a) and (b) | s. 44A(5)
+s. 53A(2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
