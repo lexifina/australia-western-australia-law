@@ -83,6 +83,7 @@ Provisions that have not come into operation
  | Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 124 and 127 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
  | Criminal Code Amendment (Unlawful Possession) Act 2014 s. 8(2) | 11 of 2014 | 24 Jun 2014 | To be proclaimed (see s. 2(b))
 Dangerous Sexual Offenders Legislation Amendment Act 2016 Pt. 7 | 17 of 2016 | 11 Jul 2016 | To be proclaimed (see s. 2(b))
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 23 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Repealed by the Sentencing Legislation Amendment and Repeal Act 2003.
 The Land Drainage Act 1925 and the Water Boards Act 1904 were repealed by the Water Services Legislation Amendment and Repeal Act 2012.
 The amendments in the Sentencing Amendment Act 2000 Pt. 2 Div. 1 had not come into operation when it was deleted by the Sentencing Legislation Amendment and Repeal Act 2003 s. 32.
@@ -236,6 +237,21 @@ In section 98(3):
 would be a danger
 (b) before paragraph (a) insert:
 (aa) is not to decide that the offender would not be a danger merely because of the possibility that an order might be made in respect of the offender under the Dangerous Sexual Offenders Act 2006; and
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 23 had not come into operation. They read as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 1 — Amendments resulting from renaming of Health Act 1911
+101.Various references to “Health Act 1911” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
+Health (Miscellaneous Provisions) Act 1911
+Table
+Sentencing Act 1995 | Sch. 1
+Part 5 — Other Acts amended
+Division 23 — Sentencing Act 1995 amended
+329.Act amended
+This Division amends the Sentencing Act 1995.
+330.Schedule 1 amended
+In Schedule 1 delete the item relating to the Health (Miscellaneous Provisions) Act 1911.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
