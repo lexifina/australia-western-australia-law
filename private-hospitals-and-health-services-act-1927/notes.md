@@ -66,6 +66,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 48(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 23 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 25 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 Now known as the Hospitals and Health Services Act 1927; short title changed (see note under s. 1).
@@ -96,6 +97,13 @@ On the date as at which this compilation was prepared, the State Superannuation 
 Members of a superannuation scheme continued by section 29(c) or (d) of the State Superannuation Act 2000.
 ”.
 The Hospitals and Health Services Amendment Act 2013 s. 3-7 had not come into operation when it was deleted by the Health Services Act 2016 s. 283.
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 23 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 23 — Private Hospitals and Health Services Act 1927 amended
+182.Act amended
+This Division amends the Private Hospitals and Health Services Act 1927.
+183.Section 2 amended
+In section 2(1) delete the definition of infectious disease.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
