@@ -161,7 +161,8 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 188 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Taxi Drivers Licensing Act 2014 Pt. 10 Div. 1 | 18 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(c))
-Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 and Pt. 3 Div. 1 | 2 of 2015 | 25 Feb 2015 | To be proclaimed (see s. 2(1)(b) and (2))
+Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 and Pt. 3 Div. 1 | 2 of 2015 | 25 Feb 2015 | 24 Oct 2016 (see s. 2(1)(b) and (2) and Gazette 20 Sep 2016 p. 3965)
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 21 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Repealed by the Interpretation Act 1984.
 The Road Traffic Amendment Act (No. 2) 1982 s. 30 and 31 deleted the Road Traffic Act Amendment Act 1978 s. 16(a), (b) and (c) and 23.
 The Road Traffic Amendment Act (No. 2) 1980 s. 10(2) reads as follows:
@@ -314,6 +315,22 @@ driver; or
 In section 78A in the definition of impounding offence (driver’s licence) paragraph (a) delete “section 49(3)(a), (b) or (c); or” and insert:
 section 49(3)(a), (b), (c) or (da); or
 The Road Traffic Amendment (Alcohol Interlocks and Other Matters) Act 2015 s. 9 cannot come into operation because the section it seeks to amend was deleted by the Road Traffic Legislation Amendment Act 2012 s. 8.
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 21 had not come into operation. They read as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 1 — Amendments resulting from renaming of Health Act 1911
+101.Various references to “Health Act 1911” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
+Health (Miscellaneous Provisions) Act 1911
+Table
+Road Traffic Act 1974 | s. 70(7) def. of technologist par. (a)
+Part 5 — Other Acts amended
+Division 21 — Road Traffic Act 1974 amended
+325.Act amended
+This Division amends the Road Traffic Act 1974.
+326.Section 70 amended
+In section 70(7) delete the definition of technologist and insert:
+technologist means a person approved, or belonging to a class of persons approved, by the Minister to prepare sampling equipment.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
