@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 1 July 2016 of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 and includes the amendments made by the other written laws referred to in the following table The table also contains information about any reprint.
+This is a compilation of the Metropolitan Water Supply, Sewerage, and Drainage Act 1909 and includes the amendments made by the other written laws referred to in the following table The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Metropolitan Water Supply, Sewerage, and Drainage Act 1909 | 43 of 1909 (9 Edw. VII No. 39) | 21 Dec 1909 | 24 Jan 1910 in Perth, Fremantle, and Claremont Districts of the Metropolitan Water, Sewerage and Drainage Area (see s. 2 and Gazette 21 Jan 1910 p. 47)
@@ -72,10 +72,11 @@ Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt.
 Fire and Emergency Services Legislation Amendment Act 2012 Pt. 7 Div. 9 | 22 of 2012 | 29 Aug 2012 | 1 Nov 2012 (see s. 2(b) and Gazette 31 Oct 2012 p. 5255)
 Water Services Legislation Amendment and Repeal Act 2012 Pt. 4 (other than s. 34 and 39(2) | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Reprint 11: The Metropolitan Water Supply, Sewerage, and Drainage Act 1909 as at 1 Jul 2016 (includes amendments listed above)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Water Services Legislation Amendment and Repeal Act 2012 s. 34 and 39(2) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+ | Short title | Number and year | Assent | Commencement
+ | Water Services Legislation Amendment and Repeal Act 2012 s. 34 and 39(2) | 25 of 2012 | 3 Sep 2012 | To be proclaimed (see s. 2(b))
+Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 15 | 19 of 2016 | 25 Jul 2016 | s. 101: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 15: to be proclaimed (see s. 2(1)(c))
 The short title of the Water Authority Act 1984 was changed to the Water Agencies (Powers) Act 1984 by the Water Agencies Restructure (Transitional and Consequential Provisions) Act 1995.
 Section 48A and the Second Schedule were inserted by the Limitation Act Amendment Act 1954 s. 5 and 8.
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
@@ -86,7 +87,7 @@ The Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 50(2) reads as f
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 32 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The Water Resources Legislation Amendment Act 2007 Pt. 11 deals with certain transitional issues some of which may be relevant for this Act.
-On the date as at which this reprint was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 34 and 39(2) had not come into operation. They read as follows:
+On the date as at which this compilation was prepared, the Water Services Legislation Amendment and Repeal Act 2012 s. 34 and 39(2) had not come into operation. They read as follows:
 Part 4 — Metropolitan Water Supply, Sewerage, and Drainage Act 1909 amended
 34.Section 16 amended
 In section 16(c) delete “Act” and insert:
@@ -95,6 +96,24 @@ act
 (2) In section 57B(3) delete “Act” and insert:
 act
 The sections that they seek to amend have been changed by Reprint 10.
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 15 had not come into operation. They read as follows:
+101.Various references to “Health Act 1911” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
+Health (Miscellaneous Provisions) Act 1911
+Table
+Metropolitan Water Supply, Sewerage, and Drainage Act 1909 | s. 17(2)
+Part 5 — Other Acts amended
+Division 15 — Metropolitan Water Supply, Sewerage, and Drainage Act 1909 amended
+309.Act amended
+This Division amends the Metropolitan Water Supply, Sewerage, and Drainage Act 1909.
+310.Section 17 replaced
+Delete section 17 and insert:
+17.Pollution of water
+A person must not —
+(a) pollute any water within or under a water reserve or catchment area; or
+(b) allow or permit any water within or under a water reserve or catchment area to become polluted.
+Penalty: a fine of $10 000 and imprisonment for one year.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
