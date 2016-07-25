@@ -12,7 +12,34 @@ Medical Practitioners Act 2008 Sch. 3 cl. 6 | 22 of 2008 | 27 May 2008 | 1 Dec 2
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 7 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Reprint 2: The Blood Donation (Limitation of Liability) Act 1985 as at 21 Sep 2012 (includes amendments listed above)
 Health Services Act 2016 s. 285 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 5 and Pt. 5 Div. 2 | 19 of 2016 | 25 Jul 2016 | Pt. 3 Div. 5: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 2: to be proclaimed (see s. 2(1)(c))
 Day fixed is 15 September 1986 (see Gazette 12 Sep 1986 p. 3343).
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 5 and Pt. 5 Div. 2 had not come into operation. They read as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 5 — Blood Donation (Limitation of Liability) Act 1985 amended
+109.Act amended
+This Division amends the Blood Donation (Limitation of Liability) Act 1985.
+110.Section 3 amended
+(1) In section 3 delete the definitions of:
+Executive Director, Public Health
+Transmissible Diseases Regulations
+(2) In section 3 insert in alphabetical order:
+Chief Health Officer has the meaning given in the Public Health Act 2016 section 4(1);
+Transmissible Diseases Regulations means regulations that —
+(a)are made under the Health (Miscellaneous Provisions) Act 1911; and
+(b)consist of or include provisions that provide for or require a person donating blood to make a declaration.
+(3) In section 3 in the definition of approved delete “Executive Director, Public Health,” and insert:
+Chief Health Officer
+Part 5 — Other Acts amended
+Division 2 — Blood Donation (Limitation of Liability) Act 1985 amended
+280.Act amended
+This Division amends the Blood Donation (Limitation of Liability) Act 1985.
+281.Section 3 amended
+In section 3 in the definition of Transmissible Diseases Regulations paragraph (a) delete “1911; and” and insert:
+1911 or the Public Health Act 2016; and
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
