@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 8 August 2014 of the Fluoridation of Public Water Supplies Act 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fluoridation of Public Water Supplies Act 1966 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fluoridation of Public Water Supplies Act 1966 | 47 of 1966 | 18 Nov 1966 | 17 Mar 1967 (see s. 2 and Gazette 17 Mar 1967 p. 735)
@@ -15,9 +15,27 @@ Chemistry Centre (WA) Act 2007 s. 43 | 10 of 2007 | 29 Jun 2007 | 1 Aug 2007 (se
 Commercial Arbitration Act 2012 s. 45 it. 8 | 23 of 2012 | 29 Aug 2012 | 7 Aug 2013 (see s. 1B(b) and Gazette 6 Aug 2013 p. 3677)
 Water Services Legislation Amendment and Repeal Act 2012 s. 214 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Reprint 2: The Fluoridation of Public Water Supplies Act 1966 as at 8 Aug 2014 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Health (Consequential Provisions) Act 2016 s. 102 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 The Acts Amendment (Chemistry Centre (WA)) Act 1990 s. 6 reads as follows:
 6.Saving of certificates
 A certificate given under section 15 of the principal Act that purports to have been signed by the Director (Government Mineralogist, Analyst) of the Government Chemical Laboratories before the commencement of this Act shall continue to have effect as if this Act had not come into operation.
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 s. 102 had not come into operation. It reads as follows:
+102.Various references to “Executive Director” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete the definition of Executive Director.
+Table
+Fluoridation of Public Water Supplies Act 1966 | s. 4
+(3) In the provisions listed in the Table insert in alphabetical order:
+Chief Health Officer has the meaning given in the Public Health Act 2016 section 4(1);
+Table
+Fluoridation of Public Water Supplies Act 1966 | s. 4
+(4) In the provisions listed in the Table delete “Executive Director” (each occurrence) and insert:
+Chief Health Officer
+Table
+Fluoridation of Public Water Supplies Act 1966 | s. 5(2)(a) and (4)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
