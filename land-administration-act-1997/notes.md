@@ -56,6 +56,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 | 61 of 1998 (as amended by No. 60 of 1999 s. 7.3) | 11 Jan 1999 | s. 4 comes into operation on the day on which Pt. 5 of the Native Title (State Provisions) Act 1999 comes into operation (see s. 2(2)); s. 7 comes into operation on the day on which any of Pt. 3, 4 and 5 of the Native Title (State Provisions) Act 1999 come into operation (see s. 2(3))
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4 (see s. 1.2)
+Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 11 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 On the date as at which this compilation was prepared, the Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7 had not come into operation. (But also see notes 3 and 4). They read as follows:
 4.Section 6A inserted
 After section 6 the following section is inserted in Part 1 —
@@ -374,6 +375,27 @@ commencement day means the day on which the State Administrative Tribunal (Confe
 (2) If a matter has been partly or fully heard, but not determined, by a Compensation Court under the Land Administration Act 1997 immediately before the commencement day —
 (a) the Act section 167(4)(b) does not apply; and
 (b) the matter is to continue to be dealt with as if the written law applicable to the matter in force immediately before the commencement day continued to apply.
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 11 had not come into operation. It reads as follows:
+Part 5 — Other Acts amended
+Division 11 — Land Administration Act 1997 amended
+298.Act amended
+This Division amends the Land Administration Act 1997.
+299.Section 53A inserted
+At the end of Part 4 insert:
+53A.Chief Health Officer responsible for public health matters in class A reserves
+(1) In this section —
+Chief Health Officer has the meaning given in the Public Health Act 2016 section 4(1);
+public health has the meaning given in the Public Health Act 2016 section 4(1).
+(2) For the purposes of protecting, promoting and improving public health in relation to any class A reserve, the Chief Health Officer has all the powers and authority of a local government under the Local Government Act 1995 as if —
+(a) the class A reserve were a district for the purposes of that Act; and
+(b) the Chief Health Officer were the local government for that district.
+(3) The power and authority conferred on the Chief Health Officer by subsection (2) includes the power to make and enforce local laws under the Local Government Act 1995.
+(4) However —
+(a) nothing in the Local Government Act 1995 Part 3 Division 2 Subdivision 2 (other than sections 3.12(5) and (8), 3.14(1) and 3.15) applies to or in respect of the making of local laws by the Chief Health Officer; and
+(b) before making local laws in relation to a class A reserve, the Chief Health Officer must —
+(i) consult with the management body of the reserve or, if there is no management body, the Minister; and
+(ii) consider any advice provided by the management body or, as the case requires, the Minister.
+(5) If there is a conflict or inconsistency between a local law made by the Chief Health Officer under subsection (2) and a local law made by a local government under the Local Government Act 1995 or any other Act, the local law made by the Chief Health Officer prevails to the extent of the conflict or inconsistency.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
