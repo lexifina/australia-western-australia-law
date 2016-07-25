@@ -22,6 +22,7 @@ Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 | 24 of 2007 (as amended by No. 58 of 2010 s. 192(7)) | 12 Oct 2007 | To be proclaimed (see s. 2(2))
 Medicines and Poisons Act 2014 s. 185 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
 Travel Agents Amendment and Expiry Act 2014 s. 8 | 21 of 2014 | 29 Aug 2014 | Operative on commencement after the day on which the Travel Agents Act 1985 expires under s. 61(1) of that Act as amended by s. 7 of this Act (see s. 2(c))
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 12 and Pt. 5 Div. 7 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 On the date as at which this compilation was prepared, the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 83 (as amended by the Acts Amendment (Fair Trading) Act 2010 s. 192(7)) had not come into operation. It reads as follows:
 83.Fair Trading Act 2010 amended
@@ -40,6 +41,27 @@ On the date as at which this compilation was prepared, the Travel Agents Amendme
 8.Fair Trading Act 2010 amended
 (1) This section amends the Fair Trading Act 2010.
 (2) In Schedule 2 delete “Travel Agents Act 1985”.
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 12 and Pt. 5 Div. 7 had not come into operation. They read as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 12 — Fair Trading Act 2010 amended
+135.Act amended
+This Division amends the Fair Trading Act 2010.
+136.Section 15 amended
+Delete section 15(3).
+137.Section 34 deleted
+Delete section 34.
+138.Schedule 1 amended
+In Schedule 1 delete the item relating to the Health Act 1911 and insert:
+Food Act 2008
+Health (Miscellaneous Provisions) Act 1911
+Part 5 — Other Acts amended
+Division 7 — Fair Trading Act 2010 amended
+290.Act amended
+This Division amends the Fair Trading Act 2010.
+291.Schedule 1 amended
+(1) In Schedule 1 delete “Health (Miscellaneous Provisions) Act 1911”.
+(2) In Schedule 1 insert in alphabetical order:
+Public Health Act 2016
 ## Note — Australian Consumer Law (WA) text
 [This note is not part of the Fair Trading Act 2010 (the Act). Section 19(1) of the Act provides that the Australian Consumer Law text that, under section 19(2) of the Act, applies as the Australian Consumer Law (WA) consists of:
 (a)Schedule 2 to the Competition and Consumer Act 2010 (Commonwealth) (the Cwth Act), as in force on 1 January 2013 (but as modified by section 36 of the Act); and
