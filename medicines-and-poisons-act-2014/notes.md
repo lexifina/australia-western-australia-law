@@ -7,6 +7,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 3-11 and Pt. 2-11 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 20 and Pt. 5 Div. 14 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 On the date as at which this compilation was prepared, the Medicines and Poisons Act 2014 s. 3-11 and Pt. 2-11 had not come into operation. They read as follows:
 3.Terms used
 In this Act —
@@ -1663,3 +1664,38 @@ Medicines and Poisons Act 2014,
 (1) This section amends the Workers’ Compensation and Injury Management Act 1981.
 (2) In section 5(1) delete the definition of drug of addiction and insert:
 drug of addiction has the meaning given in the Misuse of Drugs Act 1981 section 3(1);
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 20 and Pt. 5 Div. 14 had not come into operation. They read as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 20 — Medicines and Poisons Act 2014 amended
+169.Act amended
+This Division amends the Medicines and Poisons Act 2014.
+170.Long title amended
+In the long title delete “Health Act 1911,” and insert:
+Health (Miscellaneous Provisions) Act 1911,
+171.Section 16 amended
+In section 16(2)(b) delete “Health Act 1911” (each occurrence) and insert:
+Health (Miscellaneous Provisions) Act 1911
+172.Part 11 Division 1 heading replaced
+Delete the heading to Part 11 Division 1 and insert:
+Division 1 — Health (Miscellaneous Provisions) Act 1911 amended
+173.Section 148 amended
+In section 148 delete “Health Act 1911.” and insert:
+Health (Miscellaneous Provisions) Act 1911.
+174.Section 157 deleted
+Delete section 157.
+Part 5 — Other Acts amended
+Division 14 — Medicines and Poisons Act 2014 amended
+306.Act amended
+This Division amends the Medicines and Poisons Act 2014.
+307.Section 16 amended
+(1) Before section 16(1) insert:
+(1A) In this section —
+Agvet Code of Western Australia has the meaning given in the Agricultural and Veterinary Chemicals (Western Australia) Act 1995 section 3;
+pesticide means an agricultural chemical product as defined in the Agvet Code of Western Australia.
+(2) Delete section 16(2)(b) and insert:
+(b) the Schedule 7 poison is a pesticide and —
+(i) the person is authorised under the Public Health Act 2016 to use or possess the poison; and
+(ii) the use or possession by the person is in accordance with that authorisation;
+or
+308.Section 155 deleted
+Delete section 155.
