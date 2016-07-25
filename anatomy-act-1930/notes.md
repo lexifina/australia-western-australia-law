@@ -22,6 +22,10 @@ Medical Practitioners Act 2008 Sch. 3 cl. 3 | 22 of 2008 | 27 May 2008 | 1 Dec 2
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 3 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Reprint 4: The Anatomy Act 1930 as at 7 Sep 2012 (includes amendments listed above)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 1 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 3 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 Repealed by the Human Tissue and Transplant Act 1982.
 The Limitation Act 1935 s. 48A(2) reads as follows:
 (2) The provisions of any Act which enact that in an action to which section 47A of this Act applies,
@@ -30,6 +34,30 @@ The Limitation Act 1935 s. 48A(2) reads as follows:
 are repealed.
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
 The Statutes (Repeals and Minor Amendments) Act (No. 2) 1998 s. 17(3), (4) and (5) are transitional provisions that are of no further effect.
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 3 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 3 — Anatomy Act 1930 amended
+103.Act amended
+This Division amends the Anatomy Act 1930.
+104.Section 2 amended
+(1) In section 2 delete the definition of Executive Director.
+(2) In section 2 insert in alphabetical order:
+Chief Health Officer has the meaning given in the Public Health Act 2016 section 4(1);
+105.Various references to “Executive Director” amended
+In the provisions listed in the Table delete “Executive Director” (each occurrence) and insert:
+Chief Health Officer
+Table
+s. 2 def. of inspector | s. 3
+s. 5(1) | s. 6
+s. 7 | s. 10A(1), (2) and (3)
+s. 12 | s. 14
+s. 16 | s. 17
+s. 18 proviso par. (b) | s. 22(3)(a) and (c)
+Notes:
+1.The heading to amended section 6 is to read:
+Chief Health Officer to make returns
+2.The heading to amended section 14 is to read:
+Documents to be sent to Chief Health Officer
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
