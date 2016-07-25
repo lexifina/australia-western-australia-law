@@ -16,7 +16,8 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 189 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
-Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 3 | 3 of 2016 | 21 Mar 2016 | 1 Sep 2016 (see s. 2(b) and Gazette 26 Jul 2016 p. 3145)
+Western Australian Health Promotion Foundation Act 2016 Pt. 8 Div. 3 | 3 of 2016 | 21 Mar 2016 | To be proclaimed (see s. 2(b))
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 27 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 The provision in this Act repealing the Tobacco Control Act 1990 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Trade Practices Act 1974 (Commonwealth) is now called the Competition and Consumer Act 2010.
@@ -67,6 +68,27 @@ racing
 sporting
 (2) In the Glossary in the definition of Foundation delete “established by section 59;” and insert:
 mentioned in the Western Australian Health Promotion Foundation Act 2016 section 5;
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 27 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 27 — Tobacco Products Control Act 2006 amended
+191.Act amended
+This Division amends the Tobacco Products Control Act 2006.
+192.Section 78 amended
+In section 78(4) delete “environmental health officer” and insert:
+authorised officer
+193.Section 82 amended
+In section 82(2) delete “environmental health officer” (each occurrence) and insert:
+authorised officer
+194.Section 113 amended
+In section 113(2)(a) delete “environmental health officer; or” and insert:
+authorised officer; or
+195.Section 125 amended
+In section 125(2)(b) delete “environmental health officers” and insert:
+authorised officers
+196.Glossary amended
+(1) In the Glossary clause 1 delete the definition of environmental health officer.
+(2) In the Glossary insert in alphabetical order:
+authorised officer means a person designated as an authorised officer under the Public Health Act 2016 section 24(1) whose designation has effect for the purposes of this Act;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
