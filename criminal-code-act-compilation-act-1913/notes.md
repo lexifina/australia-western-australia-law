@@ -183,6 +183,7 @@ Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Graffiti Vandalism Act 2016 Pt. 6 Div. 1 | 16 of 2016 | 11 Jul 2016 | To be proclaimed (see s. 2(b))
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 10 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
 The Criminal Law Amendment Act 1996 s. 6(2) is a transitional provision.
 See Firearms Regulations 1974 r. 2B.
@@ -231,6 +232,20 @@ Delete Part IV Chapter XXIV.
 Delete section 446.
 39.Section 557G deleted
 Delete section 557G.
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 10 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 10 — The Criminal Code amended
+126.Act amended
+This Division amends The Criminal Code.
+127.Section 199 amended
+(1) In section 199(1)(b) delete “Health Act 1911.” and insert:
+Health (Miscellaneous Provisions) Act 1911.
+(2) Delete section 199(4) and insert:
+(4) In this section —
+medical practitioner means a person registered under the Health Practitioner Regulation National Law (Western Australia) in the medical profession.
+128.Section 306 amended
+In section 306(1) in the definition of female genital mutilation paragraph (d) delete “within the meaning of the Health Act 1911; or” and insert:
+as defined in section 3 of that Act; or
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
