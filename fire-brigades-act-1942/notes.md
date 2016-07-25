@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 24 January 2014 of the Fire Brigades Act 1942 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fire Brigades Act 1942 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fire Brigades Act 1942 | 35 of 1942 | 23 Dec 1942 | 17 May 1943 (see s. 1 and Gazette 14 May 1943 p. 463) Proc. published 9 Apr 1943 p. 345 revoked (see Gazette 14 May 1943 p. 463)
@@ -90,6 +90,10 @@ Fire and Emergency Services Legislation Amendment Act 2012 Pt. 4 | 22 of 2012 | 
 Water Services Legislation Amendment and Repeal Act 2012 s. 213 (other than s. 213(4)(a)) | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Fire Brigades (Fire Districts) Notice (No. 2) 2012 published in Gazette 14 Dec 2012 p. 6213-14 | 14 Dec 2012
 Reprint 8: The Fire Brigades Act 1942 as at 24 Jan 2014 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 13 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
 The Fire and Emergency Services Legislation (Emergency Services Levy) Amendment Act 2002 s. 36, which gives effect to Sch. 1, reads as follows:
 36.Transitional provisions
 Schedule 1 has effect.
@@ -197,6 +201,31 @@ The Fire and Emergency Services Legislation Amendment Act 2002 s. 45(4) and 54(3
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 18 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendment in the Water Services Legislation Amendment and Repeal Act 2012 s. 213(4)(a) is not included because the subsection it sought to amend had been amended before the amendment purported to come into operation.
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 13 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 13 — Fire Brigades Act 1942 amended
+139.Act amended
+This Division amends the Fire Brigades Act 1942.
+140.Section 33 amended
+In section 33(1)(f) delete “public concourse,” and insert:
+public assembly
+141.Section 33A amended
+In section 33A(15) delete the definition of public building and insert:
+public building —
+(a)means a building or place or part of a building or place where persons may assemble for —
+(i)civic, theatrical, social, political or religious purposes; or
+(ii)educational purposes; or
+(iii)entertainment, recreational or sporting purposes; or
+(iv)business purposes;
+and
+(b)includes any building, structure, tent, gallery, enclosure, platform or other place or any part of a building, structure, tent, gallery, enclosure, platform or other place in or on which numbers of persons are usually or occasionally assembled; but
+(c)does not include a hospital.
+142.Section 48 replaced
+Delete section 48 and insert:
+48.FES Commissioner to provide information to Chief Health Officer
+(1) In this section —
+Chief Health Officer has the meaning given in the Public Health Act 2016 section 4(1).
+(2) The FES Commissioner must from time to time provide the Chief Health Officer with information and recommendations as to the requirements for the prevention of, and escape from, fire in premises used or intended for purposes of public entertainment or of public assembly.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
