@@ -52,11 +52,12 @@ Reprint 6: The Liquor Control Act 1988 as at 20 Nov 2009 (includes amendments li
  | Associations Incorporation Act 2015 s. 222 and 232 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
  | Liquor Legislation Amendment Act 2015 Pt. 2 (other than s. 26) | 35 of 2015 | 2 Nov 2015 | Pt. 2 (other than s. 26): 20 Nov 2015 (see s. 2(b) and Gazette 17 Nov 2015 p. 4693)
  | Reprint 8: The Liquor Control Act 1988 as at 4 Mar 2016 (includes amendments listed above except those in the Associations Incorporation Act 2015)
-On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
+ | Short title | Number and year | Assent | Commencement
+ | Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
+ | Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1, 17 and Pt. 5 Div. 12 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
 Repealed by the Public Sector Management Act 1994.
@@ -164,6 +165,45 @@ Division 3 — Alcohol intervention sessions
 (a) the name and address of the person who has completed the AIS; and
 (b) the date of completion; and
 (c) the details of the AIR in respect of which the AIS was completed.
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1, 17 and Pt. 5 Div. 12 had not come into operation. They read as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 1 — Amendments resulting from renaming of Health Act 1911
+101.Various references to “Health Act 1911” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
+Health (Miscellaneous Provisions) Act 1911
+Table
+Liquor Control Act 1988 | s. 39(2)(a)(i), 69(8)(a) and (9A)(b) and 95(4)(f)(iii)
+Division 17 — Liquor Control Act 1988 amended
+161.Act amended
+This Division amends the Liquor Control Act 1988.
+162.Section 3 amended
+(1) In section 3(1) delete the definition of Executive Director, Public Health.
+(2) In section 3(1) insert in alphabetical order:
+Chief Health Officer has the meaning given in the Public Health Act 2016 section 4(1);
+163.Section 64 amended
+Delete section 64(1C)(c) and insert:
+(c) the Chief Health Officer;
+164.Section 69 amended
+(1) In section 69(8a) delete “Executive Director, Public Health —” and insert:
+Chief Health Officer —
+(2) In section 69(9A) delete “Executive Director, Public Health” and insert:
+Chief Health Officer
+Part 5 — Other Acts amended
+Division 12 — Liquor Control Act 1988 amended
+300.Act amended
+This Division amends the Liquor Control Act 1988.
+301.Section 39 amended
+In section 39(2)(a)(i) delete “Health (Miscellaneous Provisions) Act 1911; and” and insert:
+Public Health Act 2016; and
+302.Section 69 amended
+(1) In section 69(8)(a) delete “Health (Miscellaneous Provisions) Act 1911; or” and insert:
+Public Health Act 2016; or
+(2) In section 69(9A)(b) delete “Health (Miscellaneous Provisions) Act 1911.” and insert:
+Public Health Act 2016.
+303.Section 95 amended
+In section 95(4)(f)(iii) after “Health (Miscellaneous Provisions) Act 1911” insert:
+or the Public Health Act 2016
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
