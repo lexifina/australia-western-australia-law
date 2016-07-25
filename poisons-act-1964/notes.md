@@ -135,6 +135,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 136, 137 and 140-6 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 21 and Pt. 5 Div. 17 | 19 of 2016 | 25 Jul 2016 | Pt. 3 Div. 21: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 17: to be proclaimed (see s. 2(1)(c))
 Under the Alteration of Statutory Designations Order 2006 a reference in any law to the Department of Agriculture is read and construed as a reference to the Department of Agriculture and Food.
 The designation of Ministers may be altered by the Governor under the Alteration of Statutory Designations Act 1974. As at the date of this compilation the former Minister for Agriculture is known as the Minister for Agriculture and Food.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 40 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
@@ -190,6 +191,45 @@ specified means specified or described in the regulations.
 (6) If regulations contain a provision referred to in subsection (4), the provision does not operate so as —
 (a) to affect in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the regulations were published in the Gazette; or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in relation to anything done or omitted to be done before the regulations were published in the Gazette.
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 21 and Pt. 5 Div. 17 had not come into operation. They read as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 21 — Poisons Act 1964 amended
+175.Act amended
+This Division amends the Poisons Act 1964.
+176.Section 5 amended
+(1) In section 5(1) delete the definition of environmental health officer.
+(2) In section 5(1) in the definition of authorised officer delete paragraph (a).
+177.Section 6 amended
+In section 6(1) delete “Health Act 1911,” and insert:
+Health (Miscellaneous Provisions) Act 1911,
+178.Section 60 amended
+In section 60(2) delete “Health Act 1911.” and insert:
+Health (Miscellaneous Provisions) Act 1911.
+179.Section 64 amended
+In section 64(3):
+(a) delete “Health Act 1911,” and insert:
+Health (Miscellaneous Provisions) Act 1911,
+(b) delete “Health Act 1911” and insert:
+Health (Miscellaneous Provisions) Act 1911
+Part 5 — Other Acts amended
+Division 17 — Poisons Act 1964 amended
+315.Act amended
+This Division amends the Poisons Act 1964.
+316.Section 6 amended
+(1) In section 6(1) after “Health (Miscellaneous Provisions) Act 1911,” insert:
+and of the Public Health Act 2016,
+(2) In section 6(1) delete “of the Health (Miscellaneous Provisions) Act 1911, and”.
+317.Section 60 amended
+Delete section 60(2) and insert:
+(2) In this section —
+analyst has the meaning given in the Misuse of Drugs Act 1981 section 3(1).
+318.Section 64 amended
+(1) Delete section 64(3) and insert:
+(3) Regulations made under this section are in addition to, and not in derogation of, the following —
+(a) regulations made under the Health (Miscellaneous Provisions) Act 1911 or the Misuse of Drugs Act 1981;
+(b) regulations made under the Public Health Act 2016.
+(4) If and to the extent that there is an inconsistency between regulations made under this section and any regulations referred to in subsection (3)(a) or (b), the regulations made under this section prevail.
+(2) In section 64(3)(a) delete “the Health (Miscellaneous Provisions) Act 1911 or”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
