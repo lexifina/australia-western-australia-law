@@ -13,6 +13,7 @@ On the date as at which this reprint was prepared, provisions referred to in the
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Medicines and Poisons Act 2014 s. 182 | 13 of 2014 | 2 Jul 2014 | To be proclaimed (see s. 2(b))
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 4 and Pt. 5 Div. 1 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Repealed by the Mining Act 1978.
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Footnote no longer applicable.
@@ -23,6 +24,33 @@ On the date as at which this compilation was prepared, the Medicines and Poisons
 (g) the Medicines and Poisons Act 2014;
 (3) In section 40(3) delete “Poisons Act 1964.” and insert:
 Medicines and Poisons Act 2014.
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 4 and Pt. 5 Div. 1 had not come into operation. They read as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 4 — Biosecurity and Agriculture Management Act 2007 amended
+106.Act amended
+This Division amends the Biosecurity and Agriculture Management Act 2007.
+107.Section 4 amended
+Delete section 4(2)(f) and insert:
+(f) the Health (Miscellaneous Provisions) Act 1911;
+(ga) the Food Act 2008;
+108.Section 184 amended
+In section 184(1) in the definition of information sharing agency:
+(a) in paragraph (b) delete “Health Act 1911;” and insert:
+Health (Miscellaneous Provisions) Act 1911;
+(b) after paragraph (e) insert:
+(fa)the department principally assisting in the administration of the Food Act 2008;
+Part 5 — Other Acts amended
+Division 1 — Biosecurity and Agriculture Management Act 2007 amended
+277.Act amended
+This Division amends the Biosecurity and Agriculture Management Act 2007.
+278.Section 4 amended
+(1) After section 4(2)(f) insert:
+(gaa) the Public Health Act 2016;
+(2) Delete section 4(2)(f).
+279.Section 184 amended
+(1) In section 184(1) in the definition of information sharing agency before paragraph (f) insert:
+(fb)the department principally assisting in the administration of the Public Health Act 2016;
+(2) In section 184(1) in the definition of information sharing agency delete paragraph (b).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
