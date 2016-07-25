@@ -17,7 +17,27 @@ Commercial Arbitration Act 2012 s. 45 it. 20 | 23 of 2012 | 29 Aug 2012 | 7 Aug 
 Water Services Legislation Amendment and Repeal Act 2012 s. 233 | 25 of 2012 | 3 Sep 2012 | 18 Nov 2013 (see s. 2(b) and Gazette 14 Nov 2013 p. 5028)
 Swan and Canning Rivers Management Amendment Act 2015 Pt. 2 | 6 of 2015 | 9 Mar 2015 | 1 Jul 2015 (see s. 2(b) and Gazette 19 Jun 2015 p. 2095)
 Conservation and Land Management Amendment Act 2015 s. 78 | 28 of 2015 | 19 Oct 2015 | 7 May 2016 (see s. 2(b) and Gazette 6 May 2016 p. 1379-80)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 24 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Repealed by the Water Resources Legislation Amendment Act 2007.
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 24 had not come into operation. They read as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 1 — Amendments resulting from renaming of Health Act 1911
+101.Various references to “Health Act 1911” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
+Health (Miscellaneous Provisions) Act 1911
+Table
+Swan and Canning Rivers Management Act 2006 | Sch. 5 it. 1(i)
+Part 5 — Other Acts amended
+Division 24 — Swan and Canning Rivers Management Act 2006 amended
+331.Act amended
+This Division amends the Swan and Canning Rivers Management Act 2006.
+332.Schedule 5 amended
+Delete Schedule 5 item 1(i) and insert:
+(i) the Public Health Act 2016;
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
