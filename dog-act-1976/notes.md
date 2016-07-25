@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 4 July 2014 of the Dog Act 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Dog Act 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Dog Act 1976 | 58 of 1976 | 16 Sep 1976 | Act other than s. 21: 24 Dec 1976 (see s. 2(1) and Gazette 24 Dec 1976 p. 5029); s. 21: 1 Jul 1977 (see s. 2(2) and Gazette 3 Jun 1977 p. 1635)
@@ -27,6 +27,10 @@ Land Information Authority Act 2006 s. 132 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 47 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Dog Amendment Act 2013 Pt. 2 | 18 of 2013 | 29 Oct 2013 | 1 Nov 2013 (see s. 2(b) and Gazette 31 Oct 2013 p. 4829)
 Reprint 6: The Dog Act 1976 as at 4 Jul 2014 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 11 and Pt. 5 Div. 5 | 19 of 2016 | 25 Jul 2016 | Pt. 3 Div. 11: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 5: to be proclaimed (see s. 2(1)(c))
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
 19.Power to amend regulations
 (1) The Governor, on the recommendation of the Minister, may make regulations amending subsidiary legislation made under any Act.
@@ -42,24 +46,34 @@ The Dog Amendment Act 2013 s. 60 reads as follows:
 60.Review of Act
 (1) The Minister must carry out a review of the operation and effectiveness of this Act as soon as practicable after 1 January 2019.
 (2) The Minister must prepare a report based on the review and, as soon as is practicable after the report is prepared, cause it to be laid before each House of Parliament.
-receiver33GE(1)
-registered owner3(1)
-registered veterinary surgeon3(1)
-registration officer3(1)
-relevant day22(1)
-relevant time33GE(1)
-representative47(1)
-restricted breed pup33GC(1)
-scan3(1)
-specified50(3)
-sterilised3(1)
-townsite3(1)
-transfer3(1)
-transitional matter60(1)
-transitional regulations60(1)
-vehicle3(1)
-veterinarian3(1)
-working3(1)
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 11 and Pt. 5 Div. 5 had not come into operation. They read as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 11 — Dog Act 1976 amended
+129.Act amended
+This Division amends the Dog Act 1976.
+130.Section 3 amended
+In section 3(1) delete the definition of authorised person and insert:
+authorised person means —
+(a)a person who is appointed by a local government, to exercise powers on behalf of the local government, under section 29(1); or
+(b)a person designated as an authorised officer under the Public Health Act 2016 section 24(1) for the purposes of this Act;
+131.Section 11 amended
+After section 11(3) insert:
+(4) Subsection (3) is subject to the Public Health Act 2016 section 31.
+132.Section 29 amended
+In section 29(12) delete “medical practitioner or environmental health officer.” and insert:
+or a medical practitioner.
+133.Section 47 amended
+In section 47(1) in the definition of representative delete paragraph (a) and insert:
+(a)a person who is an authorised person by virtue of an appointment or designation made by that local government; or
+134.Section 52 amended
+In section 52(1) delete “Health Act 1911,” and insert:
+Health (Miscellaneous Provisions) Act 1911,
+Part 5 — Other Acts amended
+Division 5 — Dog Act 1976 amended
+286.Act amended
+This Division amends the Dog Act 1976.
+287.Section 52 amended
+In section 52(1) delete “the Health (Miscellaneous Provisions) Act 1911,”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
