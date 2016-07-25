@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 18 July 2014 of the Waterways Conservation Act 1976 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Waterways Conservation Act 1976 and includes the amendments made by the other written laws referred to in the following table,. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Waterways Conservation Act 1976 | 131 of 1976 | 9 Dec 1976 | s. 1-3, 14 and 16-20: 25 Mar 1977 (see s. 2 and Gazette 25 Mar 1977 p. 829); Act other than s. 1-3, 14 and 16-20: 22 Jul 1977 (see s. 2 and Gazette 22 Jul 1977 p. 2335)
@@ -35,6 +35,10 @@ Petroleum Amendment Act 2007 s. 108 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (se
 Water Resources Legislation Amendment Act 2007 Pt. 8 | 38 of 2007 | 21 Dec 2007 | 1 Feb 2008 (see s. 2(2) and Gazette 31 Jan 2008 p. 251)
 Approvals and Related Reforms (No. 4) (Planning) Act 2010 s. 39 | 28 of 2010 | 19 Aug 2010 | 22 Nov 2010 (see s. 2(b) and Gazette 19 Nov 2010 p. 5709)
 Reprint 4: The Waterways Conservation Act 1976 as at 18 Jul 2014 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 28 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Repealed by the Interpretation Act 1984.
 Repealed by the Mining Act 1978.
 Repealed by the Petroleum (Submerged Lands) Act 1982.
@@ -167,6 +171,23 @@ The operation of any provision of this Part is not to be regarded —
 (d) as causing any contract or instrument to be void or otherwise unenforceable; or
 (e) as releasing or allowing the release of any surety.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 28 had not come into operation. They read as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 1 — Amendments resulting from renaming of Health Act 1911
+101.Various references to “Health Act 1911” amended
+(1) This section amends the Acts listed in the Table.
+(2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
+Health (Miscellaneous Provisions) Act 1911
+Table
+Waterways Conservation Act 1976 | s. 5(2)(b)
+Part 5 — Other Acts amended
+Division 28 — Waterways Conservation Act 1976 amended
+342.Act amended
+This Division amends the Waterways Conservation Act 1976.
+343.Section 5 amended
+(1) In section 5(2) after paragraph (b) insert:
+(ca) the Public Health Act 2016; or
+(2) Delete section 5(2)(b).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
