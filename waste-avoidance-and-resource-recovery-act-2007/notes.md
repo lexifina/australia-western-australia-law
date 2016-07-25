@@ -10,20 +10,46 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) and 3 | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 29 and Pt. 5 Div. 26 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 On the date as at which this compilation was prepared, the Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) and 3 had not come into operation. They read as follows:
-“
 Schedule 4 — Amendments and repeals
 [s. 100]
 2.Environmental Protection Act 1986 amended
 (3) Part VIIA is repealed.
 3.Environmental Protection (Landfill) Levy Act 1998 repealed
 The Environmental Protection (Landfill) Levy Act 1998 is repealed.
-”.
 The Waste Avoidance and Resource Recovery Regulations 2008 r. 24 reads as follows:
-“
 24.Transitional provision — Waste Management and Recycling Fund
 The Waste Avoidance and Resource Recovery Act 2007 Schedule 5 clause 6 prevails to the extent that there is an inconsistency between that provision and Part VIIA Division 2 of the EP Act.
-”.
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 29 and Pt. 5 Div. 26 had not come into operation. They read as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 29 — Waste Avoidance and Resource Recovery Act 2007 amended
+199.Act amended
+This Division amends the Waste Avoidance and Resource Recovery Act 2007.
+200.Section 3 amended
+(1) In section 3(1) delete the definition of Executive Director, Public Health.
+(2) In section 3(1) insert in alphabetical order:
+Chief Health Officer has the meaning given in the Public Health Act 2016 section 4(1);
+201.Section 7 amended
+(1) In section 7(1) delete “Executive Director, Public Health under the Health Act 1911.” and insert:
+Chief Health Officer under the Health (Miscellaneous Provisions) Act 1911.
+(2) In section 7(2) delete “Executive Director, Public Health” and insert:
+Chief Health Officer
+Note:The heading to amended section 7 is to read:
+Chief Health Officer to be consulted on public health issues
+202.Section 58 amended
+Delete section 58(b) and insert:
+(b) the Chief Health Officer; and
+203.Section 71 amended
+In section 71(4)(c) and (5)(c) delete “Executive Director, Public Health,” and insert:
+Chief Health Officer,
+Part 5 — Other Acts amended
+Division 26 — Waste Avoidance and Resource Recovery Act 2007 amended
+336.Act amended
+This Division amends the Waste Avoidance and Resource Recovery Act 2007.
+337.Section 7 amended
+In section 7(1) delete “1911.” and insert:
+1911 or the Public Health Act 2016.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
