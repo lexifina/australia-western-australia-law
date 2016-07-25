@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 10 January 2014 of the Human Reproductive Technology Act 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Human Reproductive Technology Act 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Human Reproductive Technology Act 1991 | 22 of 1991 | 8 Oct 1991 | s. 1 and 2: 8 Oct 1991; Pt. 1 Div. 1 other than s. 1 and 2, Pt. 2, Pt. 6 and Sch.: 6 Mar 1992 (see s. 2 and Gazette 6 Mar 1992 p. 1107); Pt. 1 Div. 2, Pt. 3-5: 8 Apr 1993 (see s. 2)
@@ -28,6 +28,10 @@ Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 27 | 35 of 2010 | 30 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6)
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 4: The Human Reproductive Technology Act 1991 as at 10 Jan 2014 (includes amendments listed above)
+On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Provisions that have not come into operation
+Short title | Number and year | Assent | Commencement
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 16 and Pt. 5 Div. 10 | 19 of 2016 | 25 Jul 2016 | Pt. 3 Div. 16: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 10: to be proclaimed (see s. 2(1)(c))
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendments to s. 29(3) in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 525(1)(c) are not included because it was unclear where they were intended to be made. Section 525(1)(c) reads as follows:
 (c) by deleting “it” after “as and after “provided”” and inserting instead —
@@ -40,21 +44,35 @@ Division 13 — Transitional provisions
 CEO has the meaning given by section 3 of the Health Legislation Administration Act 1984 as in force after commencement;
 commencement means the time at which this Division comes into operation;
 Commissioner of Health means the Commissioner of Health referred to in section 6(1)(a) of the Health Legislation Administration Act 1984 as in force before commencement.
-Rules3(1)
-specified57(2)
-State53T(1)
-State agency53ZK(3)
-storage3(4)
-storage procedure3(1)
-store3(4)
-stored3(4)(b)
-subsidiary legislation3(1)
-summary conviction penalty3(1)
-therapeutic use53S(4)
-this Act3(1)
-treatment3(1)
-valuable consideration53Q(4)
-woman3(1)
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 16 and Pt. 5 Div. 10 had not come into operation. They read as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 16 — Human Reproductive Technology Act 1991 amended
+156.Act amended
+This Division amends the Human Reproductive Technology Act 1991.
+157.Section 3 amended
+In section 3(1) delete the definition of Public Health Official and insert:
+Public Health Official means a person designated by the CEO under section 60A(1);
+158.Section 8 amended
+In section 8(3)(a) delete “the Health Act 1911; and” and insert:
+this Act; and
+159.Section 39 amended
+In section 39(2)(d)(ii) delete “Health Act 1911” and insert:
+Health (Miscellaneous Provisions) Act 1911
+160.Section 60A inserted
+At the end of Part 6 Division 1 insert:
+60A.Public Health Officials
+(1) The CEO may designate a person as a Public Health Official for the purposes of this Act if the CEO considers that the person has appropriate qualifications and experience to perform the functions of a Public Health Official, and may revoke a designation under this subsection at any time.
+(2) For the purposes of subsection (1), the CEO may engage, under a contract for services, any person whom the CEO considers has appropriate qualifications and experience to perform the functions of a Public Health Official.
+(3) A person engaged under subsection (2) is not a person appointed under the Public Sector Management Act 1994 Part 3.
+(4) Subsection (2) does not limit section 58 or 59(1) or the Public Sector Management Act 1994 section 100.
+(5) If, immediately before the Public Health (Consequential Provisions) Act 2016 section 156 (the relevant section) comes into operation, a person holds a designation as a Public Health Official under the Health Legislation Administration Act 1984 section 7, then, on the coming into operation of the relevant section, the person is to be taken to hold a designation as a Public Health Official under subsection (1).
+Part 5 — Other Acts amended
+Division 10 — Human Reproductive Technology Act 1991 amended
+296.Act amended
+This Division amends the Human Reproductive Technology Act 1991.
+297.Section 39 amended
+In section 39(2)(d)(ii) after “Health (Miscellaneous Provisions) Act 1911” insert:
+or the Public Health Act 2016
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
