@@ -29,6 +29,7 @@ On the date as at which this compilation was prepared, provisions referred to in
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 s. 182(3) and 208 | 36 of 1999 | 2 Nov 1999 | To be proclaimed (see s. 2)
+Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 25 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 The provisions in this Act amending the other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Children and Community Services Act 2004.
 On the date as at which this compilation was prepared, the School Education Act 1999 s. 182(3) and 208 had not come into operation. They read as follows:
@@ -44,6 +45,17 @@ The Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 s
 (2) When the meaning of “compulsory education period” changes by operation of section 6(b) of the School Education Act 1999 (inserted by subsection (1)), the change extends to the compulsory education period for a child which, but for the change, would have ended on 31 December 2005.
 The Acts Amendment (Higher School Leaving Age and Related Provisions) Act 2005 s. 21 is a transitional provision of no further effect.
 The Financial Legislation Amendment and Repeal Act 2006 (now known as the Financial Management (Transitional Provisions) Act 2006) Sch. 2 deals with certain transitional issues some of which may be relevant for this Act.
+On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 25 had not come into operation. It reads as follows:
+Part 3 — Amendments to other Acts and repeals
+Division 25 — School Education Act 1999 amended
+187.Act amended
+This Division amends the School Education Act 1999.
+188.Section 27 amended
+(1) In section 27(2) delete “Executive Director of Public Health” and insert:
+Chief Health Officer
+(2) After section 27(2) insert:
+(3A) In subsection (2) —
+Chief Health Officer has the meaning given in the Public Health Act 2016 section 4(1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
