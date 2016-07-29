@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Betting Control Act 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 29 July 2016 of the Betting Control Act 1954 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Betting Control Act 1954 | 63 of 1954 (3 Eliz. II No. 63) | 30 Dec 1954 | 1 Aug 1955 (see s. 2 and Gazette 29 Jul 1955 p. 1767)
@@ -24,9 +24,9 @@ Betting Control Act Amendment Act 1978 | 78 of 1978 | 27 Oct 1978 | 27 Oct 1978
 Reprint of the Betting Control Act 1954 approved 1 Jun 1979 (includes amendments listed above)
 Acts Amendment (Gaming and related provisions) Act 1985 Pt. V | 29 of 1985 | 24 Apr 1985 | 1 Jun 1985 (see s. 2 and Gazette 31 May 1985 p. 1877)
 Acts Amendment (Betting Control) Act 1985 Pt. II | 34 of 1985 | 24 Apr 1985 | 24 Apr 1985 (see s. 2)
-Betting Control Amendment Act 1987 | 6 of 1987 | 29 May 1987 | 6 Nov 1987 (see s. 2 and Gazette 6 Nov 1987 p. 4069)
+Betting Control Amendment Act 1987 | 6 of 1987 | 29 May 1987 | s. 1 and 2: 29 May 1987; Act other than s. 1 and 2: 6 Nov 1987 (see s. 2 and Gazette 6 Nov 1987 p. 4069)
 Acts Amendment and Repeal (Gaming) Act 1987 Pt. II | 74 of 1987 | 26 Nov 1987 | 2 May 1988 (see s. 2 and Gazette 29 Apr 1988 p. 1292)
-Betting Control Amendment Act (No. 2) 1987 | 78 of 1987 | 26 Nov 1987 | 4 Mar 1988 (see s. 2 and Gazette 4 Mar 1988 p. 665)
+Betting Control Amendment Act (No. 2) 1987 | 78 of 1987 | 26 Nov 1987 | s. 1 and 2: 26 Nov 1987; Act other than s. 1 and 2: 4 Mar 1988 (see s. 2 and Gazette 4 Mar 1988 p. 665)
 Acts Amendment (Betting Tax and Stamp Duty) Act (No. 2) 1990 Pt. 3 | 58 of 1990 | 17 Dec 1990 | 1 Aug 1989 (see s. 2)
 Acts Amendment and Repeal (Betting) Act 1992 Pt. 3 and 4 | 11 of 1992 | 16 Jun 1992 | Pt. 3: 10 Jul 1992 (see s. 2(1) and Gazette 10 Jul 1992 p. 3185); Pt. 4: 31 Jul 1992 (see s. 2(2) and Gazette 10 Jul 1992 p. 3185)
 Reprint of the Betting Control Act 1954 as at 20 Aug 1992 (includes amendments listed above)
@@ -55,27 +55,15 @@ Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 25 | 8 of 2009 | 21 
 Acts Amendment (Bankruptcy) Act 2009 s. 11 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2009 (see s. 2(b))
 Racing and Wagering Legislation Amendment Act 2009 Pt. 2 | 29 of 2009 | 23 Nov 2009 | 11 Jan 2010 (see s. 2(b) and Gazette 8 Jan 2010 p. 9-10)
 Statutes (Repeals) Act 2014 s. 8 | 32 of 2014 | 3 Dec 2014 | 4 Dec 2014 (see s. 2(b))
-Repealed by the Acts Amendment and Repeal (Betting) Act 1992.
-The Betting Control Amendment Act 1998 s. 5(2) and (3) read as follows:
-“
-(2) An approval which was in force under section 4A of the principal Act immediately before the commencement of this section continues in force, subject to subsection (3), for the remainder of the period for which it would, but for this section, have continued in force, and the principal Act as in force immediately before that commencement continues to apply to and in relation to that approval accordingly.
-(3) An approval continued in force by subsection (2) cannot be renewed, but may be cancelled or suspended under section 4A(8) of the principal Act as in force immediately before the commencement of this section during the period referred to in subsection (2).
-”.
-The Betting Control Amendment Act 1998 s. 7(2) reads as follows:
-“
-(2) An authority in force under section 5(1a) of the principal Act immediately before the commencement of this section (“the old authority”) continues in force, subject to the principal Act as amended by this Act, as if —
-(a) the old authority were an authority given under section 5(2) as inserted by this section (“the new authority”); and
-(b) the premises to which the old authority relates were specified in the new authority.
-”.
+Reprint 10: The Betting Control Act 1954 as at 29 Jul 2016 (includes amendments listed above)
+Repealed by the Acts Amendment and Repeal (Betting) Act 1992 s. 72.
+The Betting Control Amendment Act 1998 s. 5(2) and (3) and s. 7(2) are transitional provisions that are of no further effect.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 19 reads as follows:
-“
 19.Power to amend regulations
 (1) The Governor, on the recommendation of the Minister, may make regulations amending subsidiary legislation made under any Act.
 (2) The Minister may make a recommendation under subsection (1) only if the Minister considers that each amendment proposed to be made by the regulations is necessary or desirable as a consequence of the enactment of the RWWA Act or this Act.
 (3) Nothing in this section prevents subsidiary legislation from being amended in accordance with the Act under which it was made.
-”.
 The Racing and Gambling Legislation Amendment and Repeal Act 2003 Pt. 7 Div. 2 reads as follows:
-“
 Division 2 — Transitional and savings provisions
 Subdivision 1 — Preliminary
 104.Intention
@@ -145,14 +133,13 @@ has effect after the appointed day as if —
 (a) reporting as required by section 110; and
 (b) performing the functions described in section 106(g).
 (2)The accountable authority, as defined in the Financial Administration and Audit Act 1985, also continues in existence for the purpose described in subsection (1)(a).
-”.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 ADI4(1)
 approval4(1)
 approved area4(1)
-approved officer27E(1)
+approved officer27E(1)(d)
 approved sporting event27A(1)
 authorisation4(1)
 authorised officer4(1)
@@ -196,13 +183,13 @@ racing bet14A(1)
 racing club4(1)
 record4(1)
 registered place4(1)
+relevant person16(3d)
 RWWA4(1)
 RWWA Act4(1)
 steward4(1)
 temporary licence12A(8)
-the relevant person16(3d)
 ticket4(1)
-to bet4(1), 4(1)
+to bet4(1)
 total turnover13(2), 17A(2)
 totalisator4(1)
 totalisator agency4(1)
