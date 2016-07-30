@@ -43,6 +43,7 @@ Security and Related Activities (Control) Amendment Regulations 2015 | 2 Jun 201
 Security and Related Activities (Control) Amendment Regulations (No. 2) 2015 | 16 Jun 2015 p. 2078-9 | r. 1 and 2: 16 Jun 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Jun 2015 (see r. 2(b) and Gazette 16 Jun 2015 p. 2071)
 Reprint 7: The Security and Related Activities (Control) Regulations 1997 as at 4 Dec 2015 (includes amendments listed above)
 Police Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 5 | 14 Jun 2016 p. 1826-33 | 1 Jul 2016 (see r. 2(b))
+Security and Related Activities (Control) Amendment Regulations 2016 | 29 Jul 2016 p. 3243-57 | r. 1 and 2: 29 Jul 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jul 2016 (see r. 2(b))
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
@@ -55,11 +56,12 @@ AS3(2)
 blood sampling equipment44
 business3(1)
 chief executive officer44
-commencement daySch. 1 cl. 11A(2), 11B(2) and 19A(2)
+commencement daySch. 1 cl. 11A(2)
 crowd control activities3(1)
 current first aid certificate3(1)
 Division 1 offence25(1)
 Division 2 incident25(1)
+GPO14
 guard dog3(1), 38A(1)
 licensed activity3(1)
 licensed premises4(1)
@@ -67,9 +69,11 @@ licensee44
 medical certificate3(1)
 medical practitioner3(1)
 police officer or employee44
+responsible police division3(1)
 sample collector44
 sampling equipment44
 section3(1)
+Superintendent3(1)
 technologist44
 training course in firearms discharge3(1)
 urine sampling equipment44
