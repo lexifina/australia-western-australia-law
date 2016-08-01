@@ -125,11 +125,7 @@ Liquor Control Amendment Regulations (No. 2) 2015 | 1 Dec 2015 p. 4821-3 | r. 1 
 Liquor Control Amendment Regulations (No. 2) 2016 | 4 Mar 2016 p. 630 | r. 1 and 2: 4 Mar 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Mar 2016 (see r. 2(b))
 Liquor Control Amendment Regulations 2016 | 8 Apr 2016 p. 1100-1 | r. 1 and 2: 8 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Apr 2016 (see r. 2(b) and Gazette 8 Apr 2016 p. 1099)
 Liquor Control Amendment Regulations (No. 5) 2016 | 24 Jun 2016 p. 2340-1 | r. 1 and 2: 24 Jun 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2016 (see r. 2(b) and Gazette 24 Jun 2016 p. 2291)
-Liquor Control Amendment Regulations (No. 3) 2016 (other than r. 4(2)) | 26 Jul 2016 p. 3153-4 | r. 1 and 2: 26 Jul 2016 (see r. 2(a)); Regulations other than r. 1, 2 and 4(2): 27 Jul 2016 (see r. 2(b))
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Citation | Gazettal | Commencement
-Liquor Control Amendment Regulations (No. 3) 2016 r. 4(2) | 26 Jul 2016 p. 3153-4 | 1 Aug 2016 (see r. 2(c) and Gazette 26 Jul 2016 p. 3167)
+Liquor Control Amendment Regulations (No. 3) 2016 | 26 Jul 2016 p. 3153-4 | r. 1 and 2: 26 Jul 2016 (see r. 2(a)); Regulations other than r. 1, 2 and 4(2): 27 Jul 2016 (see r. 2(b)); r. 4(2): 1 Aug 2016 (see r. 2(c) and Gazette 26 Jul 2016 p. 3167)
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
 Repealed by the Aged Care Amendment Act 2011 (Cwlth).
@@ -143,10 +139,6 @@ The Liquor Licensing Amendment Regulations (No. 2) 2001 r. 2(3) and (4) are tran
 The amendments in the Liquor Licensing Amendment Regulations 2004 r. 3 and 5 are not included because of an error in the reference to the provisions to be amended.
 The Liquor Control Amendment Regulations (No. 2) 2007 r. 12 could not have effect as the reference to the Liquor Licensing Act 1988 was changed to the Liquor Control Act 1988 under the Reprints Act 1984 s. 7(3)(gb) (see note above).
 Disallowed on 13 Sep 2012, see Gazette 18 Sep 2012 p. 4411.
-On the date as at which this compilation was prepared, the Liquor Control Amendment Regulations (No. 3) 2016 r. 4(2) had not come into operation. It reads as follows:
-4.Regulation 27 amended
-(2) In regulation 27(4) in the Table insert in alphabetical order:
-Liquor Control (Transitional Housing and Support Program Restricted Areas) Regulations 2016 regulation 7(1)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
