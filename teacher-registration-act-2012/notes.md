@@ -1,20 +1,10 @@
 Notes
-This is a compilation of the Teacher Registration Act 2012. The following table contains information about that Act.
+This is a compilation of the Teacher Registration Act 2012. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Teacher Registration Act 2012 | 16 of 2012 | 3 Jul 2012 | s. 1 and 2: 3 Jul 2012 (see s. 2(a)); Act other than s. 1, 2, 132 and 166: 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
-Provisions that have not come into operation
-Short title | Number and year | Assent | Commencement
-Teacher Registration Act 2012 s. 132 and 166 | 16 of 2012 | 3 Jul 2012 | To be proclaimed (see s. 2(b))
-On the date as at which this compilation was prepared, the Teacher Registration Act 2012 s. 132 and 166 had not come into operation. They read as follows:
-132.Western Australian College of Teaching Act 2004 repealed
-(1) The Western Australian College of Teaching Act 2004 is repealed.
-(2) If, when this section comes into operation, Part 9 Division 1 is not in operation, then Part 9 Division 1 is repealed.
-166.Occupational Therapists Act 2005 amended
-(1) This section amends the Occupational Therapists Act 2005.
-(2) Delete section 4(d) and insert:
-(d) the practice of his or her profession by a person who is registered under the Teacher Registration Act 2012.
+Teacher Registration Act 2012 | 16 of 2012 | 3 Jul 2012 | s. 1 and 2: 3 Jul 2012 (see s. 2(a)); Act other than s. 1, 2, 132 and 166: 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637); s. 132: 3 Aug 2016 (see s. 2(b) and Gazette 2 Aug 2016 p. 3293)
+Other notes
+The Teacher Registration Act 2012 s. 166 will not come into operation because the Act it purported to amend was repealed by the Health Practitioner Regulation National Law (WA) Act 2010 s. 14(g) as at 1 Jul 2012.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
