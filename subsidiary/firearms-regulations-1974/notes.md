@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Firearms Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 August 2016 of the Firearms Regulations 1974 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Firearms Regulations 1974 | 29 Mar 1974 p. 1056-76 | 1 Jul 1974 (see r. 1 and Gazette 29 Mar 1974 p. 1027)
@@ -91,6 +91,7 @@ Firearms Amendment Regulations (No. 2) 2015 | 2 Jun 2015 p. 1947-8 | r. 1 and 2:
 Firearms Amendment Regulations 2015 | 21 Jul 2015 p. 2939 | r. 1 and 2: 21 Jul 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jul 2015 (see r. 2(b))
 Firearms Amendment Regulations 2016 | 5 Apr 2016 p. 1025-7 | r. 1 and 2: 5 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Apr 2016 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 2 | 14 Jun 2016 p. 1826-33 | 1 Jul 2016 (see r. 2(b))
+Reprint 9: The Firearms Regulations 1974 as at 5 Aug 2016 (includes amendments listed above)
 The Firearms Amendment Regulations 1996 r. 9(2) reads as follows:
 (2) The notation “PR” endorsed on a licence or permit before the commencement of this regulation is to be regarded as if it were the notation “HR”.
 Defined terms
@@ -115,7 +116,7 @@ locking pointSch. 4 cl. 4(8)
 major firearm part18(1a)
 pastoral leaseSch. 3 cl. 12(7B)
 prescribed person6F(1)
-previous licence3BA(2)
+previous licence3BA(2)(b)
 relevant financial interest6C(1)
 relevant position6C(1)
 relevant power6C(1)
