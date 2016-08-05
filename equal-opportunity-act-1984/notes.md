@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Equal Opportunity Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 5 August 2016 of the Equal Opportunity Act 1984 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Equal Opportunity Act 1984 | 83 of 1984 | 7 Dec 1984 | s. 1 and 2: 7 Dec 1984; Act other than s. 1 and 2: 8 Jul 1985 (see s. 2 and Gazette 5 Jul 1985 p. 2387)
@@ -48,13 +48,16 @@ Reprint 6: The Equal Opportunity Act 1984 as at 7 Jan 2011 (includes amendments 
 Fines, Penalties and Infringement Notices Enforcement Amendment Act 2012 Pt. 3 | 48 of 2012 | 29 Nov 2012 | 21 Aug 2013 (see s. 2(b) and Gazette 20 Aug 2013 p. 3815)
 Electricity Corporations Amendment Act 2013 s. 42 | 25 of 2013 | 18 Dec 2013 | 1 Jan 2014 (see s. 2(c) and Gazette 27 Dec 2013 p. 6465)
 Associations Incorporation Act 2015 s. 232 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
-On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
+Reprint 7: The Equal Opportunity Act 1984 as at 5 Aug 2016 (includes amendments listed above)
+On the date as at which this reprint was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this reprint. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
-Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 6 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 of the Commonwealth (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 of the Commonwealth.
+Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 6 | 19 of 2016 | 25 Jul 2016 | s. 101: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 6: to be proclaimed (see s. 2(1)(c))
+Repealed by the Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986 s. 4 (Cwlth) (No. 126 of 1986). Now see the Human Rights and Equal Opportunity Commission Act 1986 (Cwlth).
 The Uniform Building By-laws 1974 were repealed in Gazette 28 July 1989 p. 2280.
 Repealed by the Financial Institutions (Western Australia) Act 1992 s. 22(1) which was repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5.
+The Friendly Societies (Western Australia) Act 1999, to which the Friendly Societies (Western Australia) Code was an Appendix, was repealed by the Acts Amendment and Repeal (Financial Sector Reform) Act 1999 s. 5(d).
+The Industrial Relations Act 1988 (Cwlth) was renamed the Workplace Relations Act 1996 by the Workplace and Other Legislation Amendment Act 1996 Sch. 19 (Cwlth). The Workplace Relations Act 1996 was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth).
 The Western Australian Government Railways Commission no longer exists. Its successor is the Public Transport Authority. See the Public Transport Authority Act 2003 s. 80.
 Under the Public Sector Management Act 1994 s. 112(1), a reference to the Public Service Act 1978 is to be read as a reference to the Public Sector Management Act 1994. The reference was changed under the Reprints Acts 1984 s. 7(3)(g).
 Now known as the Police Service.
@@ -70,11 +73,9 @@ The State Administrative Tribunal Regulations 2004 r. 48 reads as follows:
 48.Equal Opportunity Act 1984
 Unless the context otherwise requires, where in an arrangement made under the Equal Opportunity Act 1984 section 7 there is a reference to the Equal Opportunity Tribunal that reference is to be read and construed as a reference to the State Administrative Tribunal.
 The Machinery of Government (Miscellaneous Amendments) Act 2006 section 454 provides general transitional provisions concerning references to chief executive officers that are amended or repealed by that Act.
-The amendments in the Co-operatives Act 2009 s. 509(2) and 514(2) are not included because the section it sought to amend had expired on 9 Jan 1995 (see s. 35N(2)). Section 35N(2) reads as follows:
+The amendments in the Co-operatives Act 2009 s. 509(2) and 514(2) are not included because the section to be amended (s. 35N(1)) had expired on 9 Jan 1995 under s. 35N(2). Section 35N(2) reads as follows:
 (2) Subsection (1) shall, except to the extent that regulations made for the purposes of this subsection provide otherwise, cease to be in force at the expiration of 2 years after the coming into operation of section 11 of the Equal Opportunity Amendment Act 1992.
-On the date as at which this compilation was prepared, the Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 1 and Pt. 5 Div. 6 had not come into operation. They read as follows:
-Part 3 — Amendments to other Acts and repeals
-Division 1 — Amendments resulting from renaming of Health Act 1911
+On the date as at which this reprint was prepared, the Public Health (Consequential Provisions) Act 2016 s. 101 and Pt. 5 Div. 6 had not come into operation. They read as follows:
 101.Various references to “Health Act 1911” amended
 (1) This section amends the Acts listed in the Table.
 (2) In the provisions listed in the Table delete “Health Act 1911” (each occurrence) and insert:
@@ -97,7 +98,9 @@ Defined termProvision(s)
 accommodation4(1)
 advertisement66ZS(2), 68(2)
 age4(1)
-aggrieved person8(1), 8(2), 9(1), 9(2), 10(1), 10(2), 10A(1), 10A(2), 19, 35A(1), 35A(2), 35O(1), 35O(2), 35O(3), 35X, 36(1), 36(1a), 36(2), 45, 53(1), 53(2), 66A(1), 66A(1a), 66A(3), 66A(4), 66J(1), 66V(1), 66V(2), 66V(3), 66ZD(3), 66ZE(1), 67A
+aggrieved person8(1) and (2), 9(1) and (2), 10(1) and (2), 10A(1) and (2), 19,
+35A(1) and (2), 35O(1)-(3), 35X, 36(1), (1a) and (2), 45, 53(1) and (2),
+66A(1), (1a), (3) and (4), 66J(1), 66V(1)-(3), 66ZE(1), 67A
 amending section66ZL(2)
 authority138, 163(4)
 charitable benefits4(1), 70(2)
@@ -110,7 +113,10 @@ complaint4(1)
 contract worker4(1)
 court167(4)
 Director4(1)
-discriminator8(1), 8(2), 9(1), 9(2), 10(1), 10(2), 10A(1), 10A(2), 19, 35A(2), 35AB(1), 35AB(3), 35AK, 35A(1), 35O(1), 35O(2), 35O(3), 35X, 36(1), 36(1a), 36(2), 45, 53(1), 53(2), 66A(1), 66A(1a), 66A(3), 66A(4), 66J(1), 66V(1), 66V(2), 66V(3), 66ZE(1), 67A
+discriminator8(1) and (2), 9(1) and (2), 10(1) and (2), 10A(1) and (2), 19,
+35A(2), 35AB(1) and (3), 35AK, 35A(1), 35O(1)-(3), 35X,
+36(1), (1a) and (2), 45, 53(1) and (2), 66A(1), (1a), (3) and (4),
+66J(1), 66V(1)-(3), 66ZE(1), 67A
 document4(1)
 educational authority4(1)
 educational institution4(1)
@@ -121,7 +127,7 @@ family responsibility or family status4(1)
 Fines Enforcement Registrar4(1)
 functions4(1)
 gender reassigned person4(1)
-harasser49A(1), 49A(2)
+harasser49A(1) and (2)
 impairment4(1)
 incorporated association4(1)
 infectious disease66U(3)
@@ -143,7 +149,7 @@ relative4(1)
 relevant details4(1)
 relevant documents86(1)
 relevant information86(1)
-relevant person165(2)
+relevant person165(2)(d)
 relevant sex27(2)
 religious or political conviction4(3)
 representative complaint4(1)
