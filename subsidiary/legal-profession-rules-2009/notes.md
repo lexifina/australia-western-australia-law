@@ -11,6 +11,7 @@ Legal Profession Amendment Rules 2015 | 20 Feb 2015 p. 680-8 | r. 1 and 2: 20 Fe
 Legal Profession Amendment Rules (No. 2) 2015 | 17 Jul 2015 p. 2884-7 | r. 1 and 2: 17 Jul 2015 (see r. 2(a)); Rules other than r. 1 and 2: 18 Jul 2015 (see r. 2(b))
 Reprint 1: The Legal Profession Rules 2009 as at 14 Aug 2015 (includes amendments listed above)
 Legal Profession Amendment Rules 2016 | 19 Feb 2016 p. 519-23 | r. 1 and 2: 19 Feb 2016 (see r. 2(a)); Rules other than r. 1 and 2: 20 Feb 2016 (see r. 2(b))
+Legal Profession Amendment Rules (No. 2) 2016 | 5 Aug 2016 p. 3310 | 5 Aug 2016 (see r. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -20,11 +21,9 @@ approved CPD activity7
 approved PMC18A
 approved practice management course17(1)
 Bar Readers Course18F(2)
-book47
 certificate year8A
 chair7
 commentator7
-committee47
 competency area 110(2), 13D(2)
 competency area 210(3), 13D(3)
 competency area 310(4), 13D(4)
@@ -40,8 +39,6 @@ individual activity8A
 interactive activity7
 LAC19, 24
 late fee periodSch. 1 cl. 1
-librarian47
-library47
 overdue periodSch. 1 cl. 1
 PMC condition18A
 PMC provider18A
