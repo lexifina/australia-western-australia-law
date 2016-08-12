@@ -70,14 +70,17 @@ ITEM 2
 1All Casino Taxes are to be paid to the Treasurer of the State each month, within 8 days after the end of the month.”
 AS WITNESS the execution of this Agreement by or on behalf of the parties the day and year first hereinbefore written.
 SIGNED by THE) HONOURABLE COLIN) HOLT MLC for and on) behalf of the State of Western) Australia in the presence of:)
-[Signature][Signature] …………………………….…..………………………………. Signature of witnessSignature of THE HONOURABLE COLIN HOLT MLC
+[Signature] [Signature] ……………………………...… ……………………………...…
+Signature of witness Signature of THE HONOURABLE COLIN HOLT MLC
 DONNA KENNEDY ……………………………...… Name of Witness
 THE COMMON SEAL of ) BURSWOOD NOMINEES ) LIMITED (ACN 078 250 307)) was hereunto affixed by ) authority of the Board of ) Directors in the presence of:)
-[Signature][Signature] …………………………….…..………………………………. Signature of authorised personSignature of authorised person
+[Signature] [Signature] ……………………………...…. ……………………………...
+Signature of authorised personSignature of authorised person
 DirectorSecretary ……………………………………………………………… Office heldOffice held
 Barry FelsteadJOSHUA ROBERT PRESTON ……………………………………………………………… Name of authorised personName of authorised person
 THE COMMON SEAL of) BURSWOOD RESORT) (MANAGEMENT) LIMITED) (ACN 009 396 945) was) hereunto affixed by authority) of the Board of Directors in) the presence of:)
-[Signature][Signature] …………………………….…..………………………………. Signature of authorised personSignature of authorised person
+[Signature] [Signature] ……………………………...… ……………………………...
+Signature of authorised personSignature of authorised person
 DirectorSecretary ……………………………………………………………… Office heldOffice held
 Barry FelsteadJOSHUA ROBERT PRESTON ……………………………………………………………… Name of authorised personName of authorised person
 [Schedule 14 inserted in Gazette 28 Jul 2015 p. 3084-8.]

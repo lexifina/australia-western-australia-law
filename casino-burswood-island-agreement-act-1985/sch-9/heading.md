@@ -32,7 +32,7 @@ Clause 2 amended
 3.Clause 2 of the State Agreement is amended:
 (a)by deleting the definition of “Casino Gross Revenue”;
 (b)by inserting after the definition of “Casino Gaming Licence” the following definitions-
-““Casino Tax” means each of the Electronic Gaming Machine Tax, the Table Game Tax or the International Commission Business Tax, as the case may be, and “Casino Taxes” means two or all of them;
+“ “Casino Tax” means each of the Electronic Gaming Machine Tax, the Table Game Tax or the International Commission Business Tax, as the case may be, and “Casino Taxes” means two or all of them;
 “Casino Tax Activity” means gaming by way of Electronic Gaming Machine, Table Game or International Commission Business;
 “Casino Tax Rate” means the relevant per centum rate used for determining a Casino Tax as specified in Schedule C or as determined under clause 23(6) from time to time;
 “Casino Taxable Revenue” where used in relation to a particular Casino Tax Activity means all sums, including cheques and other negotiable instruments whether collected or not, received in any month from the conduct of the Casino Tax Activity, less the total of all sums paid out as winnings during that month in respect of the Casino Tax Activity. For the purposes of this definition:
@@ -40,7 +40,7 @@ Clause 2 amended
 (b)in a case in which the Commission consents to the extension of credit, the sum value of chips issued in any month on credit, whether by credit card transaction or otherwise howsoever, shall be deemed to be sums actually received in that month from the conduct of the relevant Casino Tax Activity; and
 (c)the Casino Taxable Revenue for the relevant Casino Tax Activity may be a negative amount;”;
 (c)by inserting after the definition of “Drawings” the following definitions-
-““Electronic Gaming Machine” means an Authorized Game played by means of any electrical, electronic or mechanical contrivance or machine that is not a Table Game;
+“ “Electronic Gaming Machine” means an Authorized Game played by means of any electrical, electronic or mechanical contrivance or machine that is not a Table Game;
 “Electronic Gaming Machine Tax” means the amount, which may be a negative amount, determined as follows:
 EGMT = (P x EGMR)
 Where:
@@ -49,7 +49,7 @@ P = the per centum specified for Electronic Gaming Machine Tax in Item 1 of Sche
 EGMR = the Casino Taxable Revenue for Electronic Gaming Machines for the relevant month
 relevant month = the month for which the Electronic Gaming Machine Tax is due and payable under clause 23(1)(a);”;
 (d)by inserting after the definition of “Genting WA” the following definitions-
-““International Commission Business” includes any of the following activity:
+“ “International Commission Business” includes any of the following activity:
 (a)Junket Activity;
 (b)Premium Player Activity; and
 (c)Privileged Player Activity;
@@ -62,14 +62,14 @@ ICBR = the Casino Taxable Revenue for International Commission Business for the 
 relevant month = the month for which the International Commission Business Tax is due and payable under clause 23(1)(a);
 “Junket Activity” means gaming activity limited to Table Games arising from a Junket, and “Junket” has the same meaning as that term is defined under section 25A of the Control Act;”;
 (e)by deleting the definition of “Mandatory Articles” and inserting the following definition-
-““Mandatory Articles” means:
+“ “Mandatory Articles” means:
 (a)the provisions to be included in the constitution of an Approved Company in accordance with the requirements of clauses 17A(2)(b) and 17A(2)(c); or
 (b)any other provisions of an Approved Company’s constitution as agreed by the Minister, the Manager and the Trustee from time to time under an agreement which has been ratified by an Act;”;
 (f)by inserting after the definition of “Person” the following definitions-
-““Premium Player Activity” means gaming activity limited to Table Games arising from a patron who is a non resident of Australia with whom the casino licensee has an arrangement to pay the patron a commission based on the patron’s turnover of play in the casino or otherwise calculated by reference to such play. For the purpose of this definition “non resident of Australia” means the holder of a foreign passport whose principal place of residence is outside Australia;
+“ “Premium Player Activity” means gaming activity limited to Table Games arising from a patron who is a non resident of Australia with whom the casino licensee has an arrangement to pay the patron a commission based on the patron’s turnover of play in the casino or otherwise calculated by reference to such play. For the purpose of this definition “non resident of Australia” means the holder of a foreign passport whose principal place of residence is outside Australia;
 “Privileged Player Activity” means gaming activity limited to Table Games arising from a patron who is a non resident of Australia with whom the casino licensee has an arrangement for the provision of transport, accommodation, food, drink or entertainment, based on the patron’s turnover of play in the casino or otherwise calculated by reference to such play. For the purpose of this definition “non resident of Australia” means the holder of a foreign passport whose principal place of residence is outside Australia;”;
-(g)by inserting after the definition of ““State” or “Western Australia”” the following definitions-
-““Table Game” means:
+(g)by inserting after the definition of “ “State” or “Western Australia” ” the following definitions-
+“ “Table Game” means:
 (a)a game identified in Schedule D;
 (b)the Authorised Game Keno; and
 (c)any new game which is authorised under section 22 of the Control Act and which the Commission by notice to the Trustee specifies to be a Table Game;

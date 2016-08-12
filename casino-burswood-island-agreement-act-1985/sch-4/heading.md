@@ -30,7 +30,7 @@ Clause 2 amended
 (e)by inserting after the definition of “Manager”, the following definition -
 “ “Mandatory Articles” means the provisions to be included in the articles of association of the Approved Company in accordance with the requirements of clauses 17A(2)(b) and 17A(2)(c)”;
 (f)in the definition of “Resort Complex”, by inserting after “Stage 2 but” the following:-
-“subject to paragraph (c) of the definition of “Site””;
+“subject to paragraph (c) of the definition of “Site” ”;
 (g)by deleting the definition of “Resort Site”, and substituting the following -
 “ “Resort Site” means those parts of Burswood Island as are-
 (a)shown bordered red on Department of Land Administration Miscellaneous Plan 1512;

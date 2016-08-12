@@ -41,7 +41,7 @@ Words and expressions defined in the State Agreement when used in this Agreement
 Pursuant to and subject to clause 5 of the State Agreement the parties agree to amend the State Agreement in the manner set out in this Agreement.
 3.Clause 3 amended
 Clause 2 of the State Agreement is amended by inserting after the definition of “Option” the following definition —
-““Order” means the Casino Control (Burswood Island Casino Complex) Order 1987.”
+“ “Order” means the Casino Control (Burswood Island Casino Complex) Order 1987.”
 4.New Clause 21A inserted
 The State Agreement is amended by inserting after clause 21 the following clause:
 “Reinstatement of Hotel and Tennis Court land as part of Casino Complex.
