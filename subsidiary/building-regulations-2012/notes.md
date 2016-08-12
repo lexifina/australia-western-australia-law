@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building Regulations 2012 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This reprint is a compilation as at 12 August 2016 of the Building Regulations 2012 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Building Regulations 2012 | 13 Mar 2012 p. 1055-137 | r. 1 and 2: 13 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2012 (see r. 2(b) and Gazette 13 Mar 2012 p. 1033)
@@ -20,6 +20,7 @@ Building Amendment Regulations (No. 3) 2015 | 7 Dec 2015 p. 4897-901 | r. 1 and 
 Building Amendment Regulations 2016 | 5 Apr 2016 p. 1015-21 | r. 1 and 2: 5 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 8 Apr 2016 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2016 | 15 Apr 2016 p. 1165-72 | r. 1 and 2: 15 Apr 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2016 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2016 Pt. 5 | 3 Jun 2016 p. 1745-73 | 1 Jul 2016 (see r. 2(b))
+Reprint 3: The Building Regulations 2012 as at 12 Aug 2016 (includes amendments listed above)
 The Building Act 2011 s. 153 came into operation on 2 April 2012.
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
@@ -85,8 +86,7 @@ renovation, alteration, extension, improvement or repair31BA(1A)
 repeal day54(1)
 repealed provisions54(1)
 residential tenancy agreement55(1)
-road10(1A)
-road 44A
+road10(1A), 44A
 safety measures48A(1)
 section3
 sole-occupancy unit3
