@@ -1,10 +1,11 @@
 Notes
-This is a compilation of the Construction Contracts Act 2004 and includes the amendments made by the other written laws referred to in the following table.
+This reprint is a compilation as at 12 August 2016 of the Construction Contracts Act 2004 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Construction Contracts Act 2004 | 16 of 2004 | 8 Jul 2004 | 1 Jan 2005 (see s. 2 and Gazette 14 Dec 2004 p. 5999)
+Construction Contracts Act 2004 | 16 of 2004 | 8 Jul 2004 | s. 1 and 2: 8 Jul 2004; Act other than s. 1 and 2: 1 Jan 2005 (see s. 2 and Gazette 14 Dec 2004 p. 5999)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 38 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
 Building Services (Complaint Resolution and Administration) Act 2011 s. 128 | 16 of 2011 | 25 May 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475)
+Reprint 1: The Construction Contracts Act 2004 as at 12 Aug 2016 (includes amendments listed above)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -16,7 +17,7 @@ Building Commissioner3
 civil works4(1)
 construction contract3
 construction work3, 4(2), 4(4)
-contract sumSch. 1 cl. 5(3)
+contract sumSch. 1 cl. 5(3)(b)(i)
 contractor3, 3
 costs of an adjudication3
 court of competent jurisdiction43(1)
@@ -33,4 +34,4 @@ protected person54(1)
 registered adjudicator3
 retention moneySch. 1 cl. 11
 site in WA4(1)
-total obligationsSch. 1 cl. 5(3)
+total obligationsSch. 1 cl. 5(3)(b)(i)
