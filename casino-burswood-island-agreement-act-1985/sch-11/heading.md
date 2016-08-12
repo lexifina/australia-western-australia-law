@@ -29,7 +29,7 @@ Words and expressions defined in the State Agreement when used in this Agreement
 Pursuant to and subject to clause 5 of the State Agreement the parties agree to amend the State Agreement in the manner set out in this Agreement.
 3.Clause 2 amended
 Clause 2 of the State Agreement is amended by inserting after the definition of “Electronic Gaming Machine” the following definition:-
-““Electronic Gaming Machine Levy” means, for the purpose of subparagraph 23(1)(c)(ii)(C) the percentage of Casino Taxable Revenue for Electronic Gaming Machines set out in column 2 of the table in item 1 of Schedule F.”
+“ “Electronic Gaming Machine Levy” means, for the purpose of subparagraph 23(1)(c)(ii)(C) the percentage of Casino Taxable Revenue for Electronic Gaming Machines set out in column 2 of the table in item 1 of Schedule F.”
 4.Clause 23 amended
 Clause 23 of the State Agreement is amended by deleting subclause (1)(c) and substituting the following:-
 “(c)subject to subclause (2), to the Board in respect of each and every month an amount equal to the greater of:

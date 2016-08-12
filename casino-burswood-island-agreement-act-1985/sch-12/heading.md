@@ -37,14 +37,14 @@ Notwithstanding clause 2, this Agreement shall only operate and take effect if t
 Clause 2 of the State Agreement is amended by:
 (a)inserting after the definition of “Resort Site” the following definition —
 “Rivers Management Minister” means the Minister of the Crown for the time being charged with the administration of the Swan and Canning Rivers Management Act 2006;”; and
-(b)inserting after the definition of ““State” or “Western Australia”” the following definition —
+(b)inserting after the definition of “ “State” or “Western Australia” ” the following definition —
 “Swan and Canning Rivers and associated lands” means the areas detailed in Schedules 1 to 4 of the Swan and Canning Rivers Management Act 2006;”.
 5.Clause 6 amended
 Clause 6 of the State Agreement is amended by deleting from subclause (1)(c) the following words:
 “(i)2 natural persons from time to time nominated to the Minister by the Local Authority;
 (ii)2 natural persons from time to time nominated to the Minister by the Manager;
 (iii)2 members from time to time nominated to the Minister by the Commission;
-provided that if at any time the Local Authority, the Manager or the Commission shall fail to nominate persons for membership of the Board as and when required by the Minister the State may cause to be appointed as members of the Board such persons as the State thinks fit;"
+provided that if at any time the Local Authority, the Manager or the Commission shall fail to nominate persons for membership of the Board as and when required by the Minister the State may cause to be appointed as members of the Board such persons as the State thinks fit;”
 and replacing them with the following:
 “(i)1 natural person from time to time nominated to the Minister by the Local Authority;
 (i)1 natural person from time to time nominated to the Minister by the Manager;
