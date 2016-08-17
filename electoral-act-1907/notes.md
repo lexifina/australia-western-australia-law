@@ -101,11 +101,11 @@ Reprint 16: The Electoral Act 1907 as at 11 Jan 2013 (includes amendments listed
 Electoral Amendment Act 2014 Pt. 2 | 14 of 2014 | 2 Jul 2014 | 3 Jul 2014 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2014 s. 11 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Mental Health Legislation Amendment Act 2014 Pt. 4 Div. 4 Subdiv. 11 | 25 of 2014 | 3 Nov 2014 | 30 Nov 2015 (see s. 2(b) and Gazette 13 Nov 2015 p. 4632)
+Electoral Amendment Act 2016 | 14 of 2016 | 11 Jul 2016 | s. 1 and 2: 11 Jul 2016 (see s. (2)(a)); Act other than s. 1 and 2: 17 Aug 2016 (see s. 2(b) and Gazette 16 Aug 2016 p. 3469)
 On the date as at which this compilation was prepared, provisions referred to in the following table had not come into operation and were therefore not included in this compilation. For the text of the provisions see the endnotes referred to in the table.
 Provisions that have not come into operation
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Electoral Amendment Act 2016 s. 3-28 | 14 of 2016 | 11 Jul 2016 | To be proclaimed (see s. 2(b))
 Repealed by the Australian Citizenship (Transitionals and Consequentials) Act 2007 Sch. 1 Part 2. Now see the Australian Citizenship Act 2007 (Cwlth).
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section. See also endnote 15.
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4. The part of the State that was, as at 1 June 1988, described in the Third Schedule to the Metropolitan Region Town Planning Scheme Act 1959 is also described in the Planning and Development Act 2005 Sch. 3 as it was enacted on 12 December 2005.
@@ -140,268 +140,6 @@ Act | Provision
 ……………………….. | …….
 Electoral Act 1907 | s. 5E(2)
 ……………………….. | …….
-On the date as at which this compilation was prepared, the Electoral Amendment Act 2016 s. 3-28 had not come into operation. They reads as follows:
-3.Act amended
-This Act amends the Electoral Act 1907.
-4.Section 4 amended
-(1) In section 4(1) insert in alphabetical order:
-Commission website means a website maintained by or on behalf of the Electoral Commissioner;
-official agent has the meaning given in section 4AA;
-vote record has the meaning given in section 99E(1);
-(2) In section 4(1) in the definition of approved form paragraph (b) delete “an internet site maintained by the Electoral Commissioner)” and insert:
-the Commission website)
-5.Section 4AA inserted
-At the end of Part I insert:
-4AA.Official agents for the appointment of scrutineers
-(1) The following people are official agents for the purpose of the appointment of scrutineers under sections 99G, 114, 137, 146C and 156D(11) —
-(a)in the case of a candidate not included in a group who has been endorsed by a political party — the secretary of the political party;
-(b)in the case of a candidate not included in a group other than a candidate referred to in paragraph (a) — a person nominated by the candidate;
-(c)in the case of a candidate included in a group in which all the candidates have been endorsed by the same political party — the secretary of the political party;
-(d)in the case of a candidate included in a group other than a group referred to in paragraph (c) — a person nominated by all of the candidates;
-(e) in the case of a group in which all the candidates have been endorsed by the same political party — the secretary of the political party;
-(f) in the case of a group other than a group referred to in paragraph (e) — a person nominated by all the candidates.
-(2) A nomination for the purposes of subsection (1)(b), (d) or (f) must be made by notice in an approved form given to the Electoral Commissioner.
-(3) A nomination for the purposes of subsection (1)(b), (d) or (f) may be withdrawn by a candidate by notice in an approved form given to the Electoral Commissioner.
-6.Section 17 amended
-Delete section 17(1)(c) and insert:
-(c) who has lived in the same district or sub-district for at least one month immediately before the enrolment,
-7.Section 31A replaced
-Delete section 31A and insert:
-31A.Arrangement with Commonwealth for sharing of information for revision of rolls
-(1) The Governor may arrange with the Governor General of the Commonwealth for the Australian Electoral Officer to notify the Electoral Commissioner (whether in lists or otherwise) of the name and description of —
-(a) each person whose name is removed, in accordance with the Commonwealth Electoral Act 1918, from a Commonwealth roll for this State on the ground that the person is no longer living at the address in respect of which the person was enrolled; and
-(b) each person whose enrolment on a Commonwealth roll for this State is updated or transferred under the Commonwealth Electoral Act 1918 section 103A; and
-(c) each person whose name is entered on a Commonwealth roll for this State under the Commonwealth Electoral Act 1918 section 103B.
-(2) During any period when an arrangement is in operation under subsection (1), section 31AB has effect despite anything in this Act other than section 53.
-(3) An arrangement for notification under subsection (1)(b) or (c) may relate to additions to or alterations of a Commonwealth roll whether made before or after the commencement of the Electoral Amendment Act 2016 section 7.
-31AB.Revision of rolls in response to notification about Commonwealth rolls
-(1) For the purposes of this section, the Electoral Commissioner may form an opinion because of a notification given to the Electoral Commissioner under section 31A and not otherwise.
-(2) If the Electoral Commissioner forms the opinion that a person who is not enrolled for any district or sub-district is entitled to be enrolled for a district or sub-district, the Electoral Commissioner may enrol the person for the district or sub-district.
-(3) If the Electoral Commissioner forms the opinion that a person is enrolled for a district or sub-district but that person is living at an address in the district or sub-district (the new address) that is different to the address shown on the roll, the Electoral Commissioner may change the address on the roll to the new address.
-(4) If the Electoral Commissioner forms the opinion that a person is incorrectly enrolled for a district or sub-district (the first district or sub-district), but that person is entitled to be enrolled for another district or sub-district (the second district or sub-district), the Electoral Commissioner may —
-(a) remove the person’s name from the roll for the first district or sub-district; and
-(b) enrol the person for the second district or sub-district.
-(5) If the Electoral Commissioner forms the opinion that a person who is enrolled for a district or sub-district is not entitled to be enrolled for that district or sub-district, the Electoral Commissioner may remove the person’s name from the roll for the district or sub-district.
-8.Section 40 amended
-In section 40(4) delete “Division (4)” and insert:
-Division 4
-9.Section 41 replaced
-Delete section 41 and insert:
-41.When new names may be added
-New names may be added to rolls —
-(a) by enrolment officers pursuant to claims; or
-(b) under section 31AB(2).
-10.Section 90 amended
-(1) Delete section 90(1) and insert:
-(1) An elector may, at any time after the polling day has been publicly announced by the Government, make an application for an early ballot paper.
-(2) In section 90(1a) delete “at any time during the period referred to in subsection (1)”.
-(3) In section 90(3a)(a) delete “elector who is entitled to apply for an early ballot paper; and” and insert:
-elector; and
-(4) Delete section 90(3b) and insert:
-(3B) If an elector who wishes to make a written application for an early ballot paper is unable to sign the application because the elector is sight impaired, physically incapacitated or illiterate, then on satisfying an authorised witness of that inability to sign, the elector may make a distinguishing mark on the application which must be witnessed by the authorised witness.
-(5) Delete section 90(3e)(a)(i).
-(6) Delete section 90(7) and insert:
-(7) If the issuing officer dealing with a written application for an early ballot paper is not satisfied that the application is in order, the issuing officer must give the applicant written notice.
-(7) In section 90(7a) delete “applicant therefor, if the issuing officer is satisfied that the applicant is entitled to an early ballot paper, the” and insert:
-applicant, the
-(8) Delete section 90(8)(a) and (b).
-11.Section 91 inserted
-After section 90 insert:
-91.Visiting an eligible elector to take vote
-(1) In this section —
-eligible elector means an elector who will be precluded from attending to vote during the hours of polling at any polling place open in the State because of the elector’s serious illness or infirmity or approaching maternity.
-(2) A request may be made orally or in writing to an issuing officer by or on behalf of an eligible elector requesting that an issuing officer visit the eligible elector for the purpose of taking the eligible elector’s vote.
-(3) If a request under subsection (2) is made at any time within 7 days before 6 pm on the day immediately preceding polling day, the issuing officer may visit the eligible elector for the purpose of taking the eligible elector’s vote.
-(4) On visiting the eligible elector the issuing officer must obtain from the eligible elector an oral application for an early ballot paper under section 90(3e).
-(5) When the issuing officer receives the oral application the issuing officer must issue the eligible elector with an early ballot paper under section 90(4b) and the vote of the eligible elector must be taken in accordance with sections 90 and 92(3).
-(6) Except as provided in this section, an issuing officer must not visit any elector for the purpose of taking the elector’s vote.
-12.Part IV Division 3 Subdivision 2 inserted
-After section 99B insert:
-Subdivision 2 — Technology assisted voting
-99C.Terms used
-In this Subdivision —
-approved procedures means the procedures approved under section 99D;
-eligible elector means an elector who cannot vote without assistance because the elector has insufficient literacy skills or is sight impaired or otherwise incapacitated, but does not include an elector of a class that is excluded from this definition under the regulations;
-technology assisted voting means a method of voting where an eligible elector votes by means of an electronic device, such as by a telephone or by a computer linked to the internet.
-99D.Electoral Commissioner may approve procedures for technology assisted voting
-(1) The Electoral Commissioner may approve procedures to facilitate voting by eligible electors at an election by means of technology assisted voting.
-(2) The approved procedures must provide for the following —
-(a) for the registration of an eligible elector before the eligible elector votes by means of technology assisted voting;
-(b) for the making of a record of each eligible elector who has voted by means of technology assisted voting;
-(c) for the authentication of the eligible elector’s vote;
-(d) for the secrecy of the eligible elector’s vote;
-(e) the means of ensuring that any vote cast in accordance with the approved procedures is securely transmitted to the Electoral Commissioner and securely stored by the Electoral Commissioner;
-(f) for the scrutiny and counting of votes cast in accordance with the approved procedures.
-(3) The validity of a vote cast in accordance with the approved procedures cannot be disputed on the ground that the elector could have voted without assistance.
-99E.Record of vote
-(1) The regulations may provide, in relation to each vote cast by a person using technology assisted voting, for the production of a record (a vote record) of the vote the person has cast.
-(2) The vote record must not contain any means of identifying the person who cast the vote.
-(3) A vote record must be in a form that enables the vote cast by an eligible elector to be accurately determined.
-99F.Independent auditing of technology assisted voting
-(1) The Electoral Commissioner must engage an independent person (the independent auditor) to conduct audits of the information technology used under the approved procedures.
-(2) Without limiting the content of the audit, the independent auditor must determine whether test votes cast in accordance with the approved procedures were accurately reflected in the corresponding test vote record produced under those procedures.
-(3) The independent auditor may make recommendations to the Electoral Commissioner to reduce or eliminate any risks that could affect the security, accuracy or secrecy of voting in accordance with the approved procedures.
-(4) The results of any audit of the information technology used under subsection (2) shall be published on the website of the Western Australian Electoral Commission as soon as practicable and no later than 30 days following the close of polling.
-99G.Scrutineers
-(1) A candidate or the candidate’s agent may appoint scrutineers to represent the candidate in observing —
-(a) any production of the vote record; and
-(b) any other element of the technology assisted voting process that is approved by the Electoral Commissioner for the purposes of this section.
-(2) At a single member election not more than one scrutineer at a time is allowed to each candidate at the place where the vote record is produced or an element approved under subsection (1)(b) occurs.
-(3) At an election in a region where the relevant number is more than one —
-(a) not more than one scrutineer at a time is allowed to each group; and
-(b) not more than one scrutineer at a time is allowed to each candidate who is not included in any group,
-at the place where the vote record is produced or an element approved under subsection (1)(b) occurs.
-(4) The appointment must be —
-(a) made by written notice given to the Electoral Commissioner; and
-(b) signed by the candidate or the candidate’s official agent.
-(5) Section 137 does not apply to the scrutiny of votes cast under this Subdivision.
-99H.Counting of technology assisted votes
-A vote cast in an election by an eligible elector and transmitted to the Electoral Commissioner in accordance with the approved procedures is to be counted as if it were a vote cast by a person voting by early vote.
-99I.Secrecy relating to technology assisted voting
-(1) A person who becomes aware of how an eligible elector, voting in accordance with the approved procedures, voted must not disclose that information to any other person except in accordance with the approved procedures.
-Penalty for this subsection: imprisonment for 2 years.
-Summary conviction penalty: a fine of $6 000.
-(2) A person must not disclose to any other person any source code or other computer software that relates to technology assisted voting under the approved procedures, except in accordance with the approved procedures or in accordance with any arrangement entered into by the person with the Electoral Commissioner.
-Penalty for this subsection: imprisonment for 5 years.
-Summary conviction penalty: imprisonment for 2 years and a fine of $24 000.
-99J.False or misleading statements in relation to technology assisted voting
-A person must not make a statement (whether orally, in writing or by means of electronic communication) that the person knows to be false or misleading in a material particular for the purposes of or in connection with —
-(a) making an application for registration for technology assisted voting; or
-(b) casting a vote by means of technology assisted voting.
-Penalty: a fine of $1 000.
-99K.Protection of computer hardware and software
-A person must not, without reasonable excuse, destroy or interfere with any computer program, data file or electronic device used, or intended to be used, by the Electoral Commissioner for or in connection with technology assisted voting.
-Penalty: imprisonment for 5 years.
-Summary conviction penalty: imprisonment for 2 years and a fine of $24 000.
-99L.Approvals must be published on the internet
-An approval by the Electoral Commissioner for the purposes of this Subdivision must be —
-(a) in writing; and
-(b) published on the Commission website.
-99M.Regulations relating to technology assisted voting
-(1) The regulations may make provision for or with respect to voting by eligible electors by means of technology assisted voting.
-(2) Without limiting subsection (1), the regulations may make provision for or with respect to the period during which voting by eligible electors using technology assisted voting is permitted (including a period before polling day).
-(3) The regulations may provide that technology assisted voting is not to be used at a specified election.
-(4) Neither this section nor any regulations made under this section prevent approved procedures dealing with matters referred to in this section.
-(5) If a regulation made under this section is inconsistent with an approved procedure, the regulation prevails to the extent of the inconsistency.
-99N.How this Act applies in relation to technology assisted voting
-(1) If an elector casts a vote in accordance with the approved procedures —
-(a) the requirements of this Act relating to the elector’s right to receive a ballot paper are to be taken to have been satisfied; and
-(b) the requirements of this Act relating to the elector’s duties on receiving a ballot paper are to be taken to have been satisfied; and
-(c) the requirements of this Act relating to the marking of the ballot paper are to be taken to have been satisfied.
-(2) The regulations may make provision for additional matters relating to how this Act applies in relation to votes cast using technology assisted voting.
-99O.Electoral Commissioner may determine that technology assisted voting is not to be used
-(1) The Electoral Commissioner may determine that technology assisted voting is not to be used at a specified election.
-(2) A determination under this section must be in writing and published on the Commission website.
-13.Section 100A amended
-In section 100A(4) delete “candidates to represent them” and insert:
-candidates or candidates’ official agents to represent the candidates
-14.Section 110 amended
-In section 110 delete “pencil” and insert:
-pen or pencil
-15.Section 114 amended
-(1) In section 114(1) delete “candidates to represent them” and insert:
-candidates or candidates’ official agents to represent the candidates
-(2) In section 114(2) delete “officer, signed by the candidate, or any candidate included in the group in the case of an appointment under subsection (1)(b)(i), giving” and insert:
-officer giving
-(3) After section 114(2) insert:
-(2A) A notice under subsection (2) shall be signed by —
-(a) the candidate or the candidate’s official agent; or
-(b) in the case of an appointment under subsection (1)(b)(i) —
-(i) any candidate included in the group; or
-(ii) the group’s official agent.
-16.Section 119 amended
-Delete section 119(1)(a) and insert:
-(a) Have you already cast a vote for this election (or these elections, as the case requires)?
-17.Section 122 amended
-After section 122(3) insert:
-(4) Every elector who has voted by means of technology assisted voting in accordance with the approved procedures under Subdivision 2 is to be taken to have made a declaration under this section.
-18.Section 134 amended
-In section 134 delete “Division (4a) or (4b),” and insert:
-section 99H, Division 4A or 4B,
-19.Section 137 amended
-(1) In section 137(1) delete “candidate may appoint scrutineers to represent him” and insert:
-candidate or the candidate’s official agent may appoint scrutineers to represent the candidate
-(2) In section 137(3) after “candidate” insert:
-or the candidate’s official agent
-20.Section 144 amended
-(1) After section 144(1)(b)(i) insert:
-(ia) ascertain and keep a record of the number of votes given for each candidate under Division 3 Subdivision 2; and
-(2) After section 144(2)(b)(i) insert:
-(ia) ascertain and keep a record of the number of first preference votes given for each candidate under Division 3 Subdivision 2; and
-(3) In section 144(2):
-(a) after paragraph (d)(i) insert:
-(ia) shall ascertain and keep a record of the number of first preference votes given for each candidate under Division 3 Subdivision 2, adding the votes to those previously counted by the returning officer for each candidate; and
-(b) in paragraph (d)(ii) delete “ballot paper counted to him” and insert:
-ballot paper or vote record counted to the defeated candidate
-(4) In section 144(2)(f) after “ballot papers” insert:
-and vote records
-(5) In section 144(2)(fa) after “ballot paper” (each occurrence) insert:
-or vote record
-(6) In section 144(2b) and (3) after “ballot papers” insert:
-and vote records
-(7) Delete section 144(3a) and insert:
-(3A) For the purposes of subsection (3), if at any stage of the count, ballot papers or vote records have been set aside under subsection (2)(fa), the whole number of ballot papers and vote records, at that stage, are to be taken to be reduced by the number of those ballot papers and vote records set aside.
-21.Section 145 amended
-In section 145(1) delete “on the ballot papers”.
-22.Section 146 amended
-(1) In section 146(1) delete “ballot papers contained in any parcel.” and insert:
-votes.
-(2) In section 146(2) delete “ballot paper.” and insert:
-ballot paper or vote record.
-23.Section 146C amended
-(1) In section 146C(1):
-(a) in paragraphs (a) and (b) delete “each group” and insert:
-each group, or the group’s official agent,
-(b) in paragraphs (c) and (d) delete “any group” and insert:
-any group, or the candidate’s official agent,
-(2) In section 146C(2)(a) and (b) delete “each candidate” and insert:
-each candidate, or the candidate’s official agent,
-24.Section 149B inserted
-At the beginning of Part IV Division (6) insert:
-149B.Term used: document
-In this Division —
-document includes a document in digital or electronic form.
-25.Section 156D amended
-(1) In section 156D(11) after “consenting candidate” insert:
-or the consenting candidate’s official agent
-(2) In section 156D(14) insert in alphabetical order:
-ballot paper includes a vote record;
-26.Section 204 amended
-In section 204 delete “one year” and insert:
-one year (except as a summary conviction penalty)
-27.Schedule 1 amended
-In Schedule 1 delete clause 2(1) and insert:
-2. (1)In this Schedule —
-ballot paper includes a vote record;
-continuing candidate means a candidate not already elected or not excluded from the count.
-28.Various headings replaced or amended
-(1) Before section 47 delete “(i) To claims” and insert:
-Subdivision 1 — To claims
-(2) Before section 48 delete “(ii) To enrolment” and insert:
-Subdivision 2 — To enrolment
-(3) Before section 49 delete “(iii) Powers of Electoral Commissioner on appeal” and insert:
-Subdivision 3 — Powers of Electoral Commissioner on appeal
-(4) After the heading to Part IV Division (3) delete “(i) Early and absent voting” and insert:
-Subdivision 1 — Early and absent voting
-(5) Before section 100 delete “(ii) At the poll” and insert:
-Subdivision 3 — At the poll
-(6) Amend the headings listed in the Table as set out in the Table.
-Table
-Heading | Delete | Insert
-Pt. III Div. (1) | (1) | 1
-Pt. III Div. (2) | (2) | 2
-Pt. III Div. (3) | (3) | 3
-Pt. III Div. (4) | (4) | 4
-Pt. III Div. (5) | (5) | 5
-Pt. IV Div. (1) | (1) | 1
-Pt. IV Div. (2) | (2) | 2
-Pt. IV Div. (3) | (3) | 3
-Pt. IV Div. (4) | (4) | 4
-Pt. IV Div. (4a) | (4a) | 4A
-Pt. IV Div. (4b) | (4b) | 4B
-Pt. IV Div. (5) | (5) | 5
-Pt. IV Div. (6) | (6) | 6
-Pt. IV Div. (7) | (7) | 7
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -411,6 +149,7 @@ advertise75(4)
 agent175
 application name62J(1)
 approved form4(1)
+approved procedures99C
 Assembly4(1)
 associated entity175
 Australian citizen4(1)
@@ -420,7 +159,8 @@ authorised witness4(1)
 automated146I(6)
 available day71(1)
 average district enrolment16A, 16G(1)
-ballotSch. 2
+ballotSch. 2 cl. 2
+ballot paper156D(14), Sch. 1 cl. 2(1)
 ballot paper regulations213(3)
 ballot papers99B(1)
 Breach or neglect of official duty180
@@ -433,18 +173,20 @@ chief executive officer, prisons59(1)
 christian name4(1)
 claim43(1)
 commencement day43(1)
+Commission website4(1)
 Commissioners16A
 Commonwealth elector43(1)
 conjoint election4(1)
 consenting candidate156D(1)
 constitution4(1)
-continuing candidateSch. 1
+continuing candidateSch. 1 cl. 2(1)
 Council4(1)
 CPI175LC(3)
 Deputy Electoral Commissioner4(1)
 disposition of property175
 district4(1)
 division175
+document149B
 donor175R(1)
 early ballot paper4(1)
 early vote4(1)
@@ -457,6 +199,7 @@ Electoral Commissioner4(1), 5B(1)
 electoral expenditure175
 electoral matter175
 electoral paper191(3)
+eligible elector91(1), 99C
 eligible political party62C(1)
 eligible vote175LA(1)
 enrolment information4(1)
@@ -466,6 +209,7 @@ excluded day71(1)
 existing party62J(1)
 expiry year4(1)
 financial controller175
+first district or sub-district31AB(4)
 general election4(1), 175
 general polling place4(1), 100(3)
 gift175
@@ -473,6 +217,7 @@ Government Statistician16A
 group4(1)
 hour of nomination4(1)
 in order43(1)
+independent auditor99F(1)
 infringement notice155AB
 input tax credit175LG(2)
 issuing officer90(2)
@@ -484,8 +229,10 @@ mentally impaired accused59(1)
 metropolitan area of Perth16H(2)
 modified penalty156(6), 156(13A)
 name113C(10)
+new address31AB(3)
 non-participating candidate156D(14)
 officer4(1)
+official agent4(1)
 official paper4(1)
 original election156A
 parent body62C(4)
@@ -533,6 +280,7 @@ required information59(1)
 response date155AB
 returning officer4(1)
 roll4(1)
+second district or sub-district31AB(4)
 secretary4(1)
 single member election4(1)
 Speaker4(1)
@@ -540,12 +288,14 @@ specified156AA(3)
 specified amount175
 State party62C(4)
 sub-district4(1)
-surplus votesSch. 1
-tied candidates144(2), 145(3), Sch. 1
+surplus votesSch. 1 cl. 4
+technology assisted voting99C
+tied candidates144(2), 145(3), Sch. 1 cl. 17
 transmitted211A(1)
 undue influence184
 vacancy156A
 valid and sufficient reason156(16)
+vote record4(1), 99E(1)
 voting ticket4(1)
 voting ticket square4(1)
 writ4(1)

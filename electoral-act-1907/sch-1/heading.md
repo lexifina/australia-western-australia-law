@@ -3,7 +3,9 @@
 ## Counting of votes at Legislative Council elections
 [Heading inserted by No. 40 of 1987 s. 83.]
 1.The method of counting the votes to be used by the returning officer to ascertain the result of an election in a region shall be as provided in this Schedule.
-2.(1)In this Schedule continuing candidate means a candidate not already elected or not excluded from the count.
+2.(1)In this Schedule —
+ballot paper includes a vote record;
+continuing candidate means a candidate not already elected or not excluded from the count.
 (2)A reference in this Schedule to votes of or obtained or received by a candidate includes votes obtained or received by the candidate on any transfer under this Schedule.
 3.The number of first preference votes given for each candidate and the total number of all such votes shall be ascertained and a quota shall be determined by dividing the total number of first preference votes by one more than the number of candidates required to be elected and by increasing the quotient so obtained (disregarding any remainder) by one, and any candidate who has received a number of first preference votes equal to or greater than the quota shall be elected.
 4.Unless all the vacancies have been filled, the number (if any) of votes in excess of the quota (in this Schedule referred to as surplus votes) of each elected candidate shall be transferred to the continuing candidates as follows —
@@ -43,4 +45,4 @@ and if on the completion of the transfer of the surplus votes of the elected can
 (b)the candidate whose name is on the slip obtained by the returning officer in accordance with clause 5 of Schedule 2 shall be excluded.
 18.Where a candidate is elected by reason that the number of first preference votes received by him, or the aggregate of first preference votes received by him and all other votes obtained by him on transfers under this Schedule, is equal to the quota, all the ballot papers expressing those votes shall be set aside as finally dealt with.
 19.For the purposes of this Schedule, a transfer under clause 4, 5 or 9 of all the surplus votes of an elected candidate, a transfer in accordance with clause 8(a) of all first preference votes of an excluded candidate or a transfer in accordance with clause 8(b) of all the votes of an excluded candidate that were transferred to him from a particular candidate each constitutes a separate transfer.
-[Schedule 1 inserted by No. 40 of 1987 s. 83; amended by No. 64 of 2006 s. 52.]
+[Schedule 1 inserted by No. 40 of 1987 s. 83; amended by No. 64 of 2006 s. 52; No. 14 of 2016 s. 27.]
