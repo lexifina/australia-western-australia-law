@@ -24,8 +24,8 @@ Signature of witness
 Name of witness
 [A declaration by the Electoral Commissioner, the Deputy Electoral Commissioner, an Acting Electoral Commissioner or a returning officer must be witnessed by a Justice of the Peace.
 A declaration by any other officer must be witnessed by a person who is, or is qualified to be, an elector at Commonwealth or State elections.]
-[Form 1 inserted in Gazette 8 Nov 1996 p. 6268.]
-[Form 2 deleted in Gazette 8 Nov 1996 p. 6268.]
+[Form 1 inserted: Gazette 8 Nov 1996 p. 6268.]
+[Form 2 deleted: Gazette 8 Nov 1996 p. 6268.]
 Form 3
 [Regulation 6(3)]
 Western Australia
@@ -33,13 +33,15 @@ Electoral Act 1907 (s. 114(3))
 DECLARATION BY SCRUTINEER
 I, ............................................................ of ............................................................
 a scrutineer appointed by ......................................................................................,
-a candidate for the ................................................................ District (or Region), at the ......................................................................... Polling Place declare that I will faithfully observe all the provisions of the Electoral Act 1907 which relate to the office of scrutineer.
+a candidate/the official agent of a candidate* for the ................................................................ District (or Region), at the ......................................................................... Polling Place declare that I will faithfully observe all the provisions of the Electoral Act 1907 which relate to the office of scrutineer.
 ....................................................................
 Signature of scrutineer
 Declared before me on ....................................................
 Date
 .........................................................................................
 Returning officer or presiding officer
+*Strike out whichever is not applicable.
+[Form 3 amended: Gazette 16 Aug 2016 p. 3470.]
 Form 4
 [Regulation 6(4)]
 Western Australia

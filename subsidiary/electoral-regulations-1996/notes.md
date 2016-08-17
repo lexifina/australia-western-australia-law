@@ -1,5 +1,5 @@
 Notes
-This reprint is a compilation as at 11 January 2013 of the Electoral Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Electoral Regulations 1996 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
 Compilation table
 Citation | Gazettal | Commencement
 Electoral Regulations 1996 | 10 Oct 1996 p. 5321-91 | 10 Oct 1996
@@ -16,6 +16,7 @@ Reprint 2: The Electoral Regulations 1996 as at 2 May 2008 (includes amendments 
 Electoral Amendment Regulations 2008 | 21 Nov 2008 p. 4922 | r. 1 and 2: 21 Nov 2008 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Nov 2008 (see r. 2(b))
 Electoral Amendment Regulations 2012 | 4 Dec 2012 p. 5910-18 | r. 1 and 2: 4 Dec 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 5 Dec 2012 (see r. 2(b) and Gazette 4 Dec 2012 p. 5907)
 Reprint 3: The Electoral Regulations 1996 as at 11 Jan 2013 (includes amendments listed above)
+Electoral Amendment Regulations 2016 | 16 Aug 2016 p. 3470 | r. 1 and 2: 16 Aug 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Aug 2016 (see r. 2(b))
 The Evidence Act 1906 s. 106 was deleted by the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 51.
 Repealed by the Oaths, Affidavits and Statutory Declarations (Consequential Provisions) Act 2005 s. 3.
 Defined terms
